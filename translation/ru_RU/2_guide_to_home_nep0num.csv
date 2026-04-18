@@ -42,12 +42,12 @@ line-75,杜宾,失忆？,Amnesia?,Потерял память?
 line-76,杜宾,......这怎么办？你还准备将指挥权交给这个......,...What are you going to do now? Weren't you planning to transfer leadership to—,...И что теперь? Ты всё ещё собираешься передать командование этому...?
 line-78,阿米娅,博士依然有能力指挥小队。,Doctor still has the capacity to command.,Доктор всё ещё способен командовать отрядом.
 line-79,阿米娅,......至少，在刚才的战斗中，我已经确认了。,"...At least, I've confirmed that from the previous battle.","...По крайней мере, в недавнем бою я в этом убедилась."
-line-81,杜宾,......,...,......
+line-81,杜宾,......,...,...
 line-82,杜宾,我还是不能这么简单就相信一个陌生人。,I can't bring myself to trust a stranger so easily.,Я всё ещё не могу так просто доверять незнакомцу.
 line-83,杜宾,但我相信你，阿米娅。,"But I trust you, Amiya.","Но я верю тебе, Амия."
 line-85,阿米娅,......我知道了。,...I understand.,...Я поняла.
 line-87,杜宾,Dr.{@nickname}， 我是行动组E1组长，杜宾。,"Dr. {@nickname}, I am Dobermann, captain of Op Team E1.","Доктор {@nickname}, я Доберман, командир оперативной группы E1."
-line-88,杜宾,我们将把你从这座乌萨斯的城市——切尔诺伯格，护送到罗德岛。,"We are going to escort you from Chernobog, which is the Ursus city we're currently in, back to Rhodes Island.",Мы сопроводим вас из этого города Урсуса — Чернобога — до самого Родос Айленда.
+line-88,杜宾,我们将把你从这座乌萨斯的城市——切尔诺伯格，护送到罗德岛。,"We are going to escort you from Chernobog, which is the Ursus city we're currently in, back to Rhodes Island.",Мы сопроводим вас из этого города Урсуса — Чернобога — до самого Родоса.
 line-93,杜宾,身处切尔诺伯格城的核心区废弃设施，现在的我们理应向西撤退。,We're in an abandoned facility in Chernobog and should now head west.,Мы находимся в заброшенном комплексе в центральном районе Чернобога. Сейчас нам следует отступать на запад.
 line-96,阿米娅,但......和凯尔希医生通讯中断时，我和杜宾教官都需要先带领着各自的小组，去西边的集结地汇合然后确认撤出信号。,"But... since we're cut off from Dr. Kal'tsit, Dobermann and I have lead our separate teams westward to a rendezvous point before confirming our signal to retreat.","Но... когда связь с доктором Кальцит прервалась, и мне, и инструктору Доберман нужно было сначала привести свои группы к месту сбора на западе, а затем подтвердить сигнал к отступлению."
 line-97,阿米娅,按照计划，原本是这样的......,"That is, assuming everything goes according to plan.",Таков был изначальный план...
@@ -56,23 +56,23 @@ line-99,杜宾,今天是我们从石棺救走你的最后机会，Dr.{@nickname}
 line-100,杜宾,只是......我总有种不祥的预感。,But... I have a bad feeling about this.,Только вот... у меня нехорошее предчувствие.
 line-107,医疗干员,阿，阿米娅！,A-Amiya!,А-Амия!
 line-109,阿米娅,怎么了?,What's the matter?,Что случилось?
-line-111,医疗干员,是......是来自罗德岛的对话请求！,It's... it's a call from Rhodes Island!,Это... это запрос на связь с Родос Айленда!
+line-111,医疗干员,是......是来自罗德岛的对话请求！,It's... it's a call from Rhodes Island!,Это... это запрос на связь с Родоса!
 line-113,阿米娅,通讯接上了吗！难道说，是凯尔希医......,Are our communications back on? Is it Dr. Kal'tsit...?,Связь установлена?! Неужели это доктор Кальц...
 line-116,？？？,很抱歉，并不是。,"Sorry, but not quite.","К сожалению, нет."
 line-121,阿米娅,PRTS......？,PRTS...?,PRTS...?
 line-123,PRTS,应急神经连接请求被意外触发了。,The Emergency Neural Connection Request System was activated.,Был случайно активирован запрос на экстренное нейронное соединение.
-line-124,PRTS,罗德岛号方面也受到干扰，只有神经连接可以勉强进行。,"Interference has also been detected from Rhodes Island's end, and only partial Neural Network connection is possible.",На стороне наземного судна «Родос Айленд» также наблюдаются помехи. Возможно только нейронное соединение.
-line-125,PRTS,无法用电波通讯联系到尚未回到罗德岛的凯尔希。,"Currently unable to establish communication with Kal'tsit, who has yet to return to Rhodes Island.","Не удаётся связаться по радио с Кальцит, которая ещё не вернулась на Родос Айленд."
+line-124,PRTS,罗德岛号方面也受到干扰，只有神经连接可以勉强进行。,"Interference has also been detected from Rhodes Island's end, and only partial Neural Network connection is possible.",На стороне наземного судна «Rhodes Island» также наблюдаются помехи. Возможно только нейронное соединение.
+line-125,PRTS,无法用电波通讯联系到尚未回到罗德岛的凯尔希。,"Currently unable to establish communication with Kal'tsit, who has yet to return to Rhodes Island.","Не удаётся связаться по радио с Кальцит, которая ещё не вернулась на Родос."
 line-126,PRTS,已经确认过阿米娅您的安全，那么我的任务就已经完成了。,"Your safety is confirmed; therefore, my mission is now complete.","Ваша безопасность, Амия, подтверждена. На этом моя миссия завершена."
 line-128,杜宾,这东西......,This piece of...,Эта штука...
 line-129,杜宾,现在真的是时候吗？,Do we really have time for this...?,Сейчас и вправду подходящее время?
-line-131,PRTS,不需要使用您的神经连接操作罗德岛的话，我将在稍后断开连接。,"If you do not need to connect to Rhodes Island, communication will be severed momentarily.","Если вам не требуется нейронное соединение для управления системами Родос Айленда, я отключусь через некоторое время."
+line-131,PRTS,不需要使用您的神经连接操作罗德岛的话，我将在稍后断开连接。,"If you do not need to connect to Rhodes Island, communication will be severed momentarily.","Если вам не требуется нейронное соединение для управления системами Родоса, я отключусь через некоторое время."
 line-132,PRTS,如果打扰到了您的派对，万分抱歉。,I am sincerely sorry for having interrupted your party.,"Приношу глубочайшие извинения, если прервала вашу вечеринку."
 line-134,阿米娅,不不！别挂断......我需要你帮个忙。,"Wait, wait! Don't hang up, I need your help still.",Нет-нет! Не отключайся... Мне нужна твоя помощь.
 line-135,阿米娅,杜宾，博士需要这些帮助。,"Dobermann, Doctor still needs some assistance.","Доберман, Доктору нужна эта помощь."
 line-137,杜宾,了解了，抓紧时间。,"I know, but make it quick.","Поняла, поторапливайся."
 line-139,阿米娅,博士，PRTS也是我们的......同伴，它会指导你下一步的动作。,"Doctor, PRTS is also one of our... partners. It will show you what to do next.","Доктор, PRTS — тоже наш... союзник. Она подскажет вам, что делать дальше."
-line-140,阿米娅,虽然时间很紧张，但现在，我要为你重新连接至罗德岛的后勤系统。,"Time is of the essence, so I'm going to reconnect you to the Rhodes Island backup system.","Хоть времени и в обрез, сейчас я заново подключу вас к системе логистики Родос Айленда."
+line-140,阿米娅,虽然时间很紧张，但现在，我要为你重新连接至罗德岛的后勤系统。,"Time is of the essence, so I'm going to reconnect you to the Rhodes Island backup system.","Хоть времени и в обрез, сейчас я заново подключу вас к системе логистики Родоса."
 line-141,阿米娅,"这样在我们作战的时候，你也能利用它为我们取得优势。 ","This way, we'll have an edge in battle. ","Так вы сможете использовать её, чтобы дать нам преимущество во время боя."
 line-142,阿米娅,可能会很难习惯，和说话不太一样，但只要好好使用，就一定能使整个救援作战更加顺利，所以请你......,"It's different from giving verbal commands and might be a bit hard to get used to, but once you learn how to use it, the entire operation will be much smoother.","К этому может быть трудно привыкнуть, это не совсем то же самое, что разговор, но при должном использовании это определённо поможет операции по спасению пройти гладко. Поэтому, пожалуйста..."
 line-143,阿米娅,......相信我吧。按你想要的那样，按你熟悉的那样......,...Please trust me. Just like how you used to.,"...Доверьтесь мне. Сделайте так, как считаете нужным, как вам привычно..."
