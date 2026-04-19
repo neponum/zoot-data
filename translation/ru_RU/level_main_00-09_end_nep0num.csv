@@ -1,0 +1,62 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,医疗干员,医疗干员,Medic,Медик
+char-2,近卫干员,近卫干员,Guard,Гвардеец
+char-3,阿米娅,阿米娅,Amiya,Амия
+char-4,杜宾,杜宾,Dobermann,Доберманн
+char-5,梅菲斯特,梅菲斯特,Mephisto,Мефисто
+char-6,Ace,Ace,Ace,ACE
+char-7,整合运动成员,整合运动成员,Reunion Member,Боец «Воссоединения»
+char-8,？？？,？？？,???,???
+char-9,临光,临光,Nearl,Ниарл
+,,,,
+line-13,医疗干员,咿——！,Aaaagh--!,И-и-и!
+line-15,近卫干员,小心！！,Watch out! !,Осторожно!!
+line-17,医疗干员,我没事，只是擦伤而已，不要紧......,"I'm fine... It's just a scratch, don't worry...","Я в порядке, это просто царапина, ничего страшного..."
+line-19,阿米娅,还不够......再这样下去，包围圈会越来越小。,"Not good enough... At this rate, they're going to close in on us.","Этого недостаточно... Если так пойдёт и дальше, кольцо окружения будет сужаться."
+line-21,杜宾,我们已经找到了可突破口，但没有增援，我们只能采取守势，没法突围！,"I've already found the weak point in their line, but without reinforcements, it's taking all we have just to hold them back!","Мы нашли брешь, но без подкрепления мы можем только обороняться. Прорваться не получится!"
+line-23,阿米娅,......请再坚持一下！优先用火力压制敌方射手！,...Please hold out a bit longer! Focus your fire on the ranged enemies!,"...Пожалуйста, продержитесь ещё немного! Сосредоточьте огонь на вражеских стрелках!"
+line-24,阿米娅,敌人的先锋，就由我们术师来处理！,Our Casters will take care of their vanguard!,С авангардом противника разберутся наши заклинатели!
+line-28,梅菲斯特,没错，没错！就该这样！接下来，f3，e5！,"Good, good! This is how things should be! Next up, F3, E5!","Верно, верно! Так и должно быть! Теперь: f3, e5!"
+line-30,杜宾,可憎的小子......！,This bloody brat...!,Мерзкий мальчишка...!
+line-34,梅菲斯特,很好！那么，b4，b5！,"Excellent! Now, B4, B5!","Отлично! Теперь: b4, b5!"
+line-36,近卫干员,敌人正在向我们侧后方迂回！,The enemy is now trying to flank us!,Враг обходит нас с фланга и тыла!
+line-38,阿米娅,调两位重装干员和一位狙击干员！只要能牵制他们就足够了！,Take two Defenders and a Sniper! Just keep them busy!,Направьте двух защитников и одного снайпера! Главное — сдержать их!
+line-42,梅菲斯特,之后！h2，h6！,"And next! H2, H6!","Затем! h2, h6!"
+line-44,医疗干员,他们，他们在冲击我们的阵线！,They... they're rushing our defensive line!,Они... они прорывают наш строй!
+line-46,Ace,近卫干员，把敌人赶出掩体！,"Vanguards, flush them out!","Гвардейцы, выкурите врага из укрытий!"
+line-50,梅菲斯特,没错，再让我多看一会儿，你们挣扎的样子！,"That's right, let me see how you struggle!","Да, дайте мне ещё немного полюбоваться на ваши предсмертные судороги!"
+line-51,梅菲斯特,现在，术师，c7，吃掉敌人的战车吧！,"Now, Casters. move to C7. Capture their Rook!","А теперь, заклинатели, c7 — съешьте вражескую ладью!"
+line-53,阿米娅,敌人的术师现身了......！之前，一直躲在重装干员身后吗！,"Enemy Casters have appeared! So far, they're hiding behind their Defenders!","Вражеские заклинатели показались...! Значит, до этого они прятались за спинами защитников?!"
+line-55,杜宾,来不及了！趴下！,It's too late! Take cover!,Поздно! Ложись!
+line-68,医疗干员,呜啊啊啊！,Aaargghh!,У-а-а-а-а!
+line-70,近卫干员,咳......,*cough* *cough*...,Кха...
+line-72,梅菲斯特,然后就去死吧，就像雨夜中的火星一样！,"Now be snuffed out, like flames before a storm!","А теперь умрите, словно искры в дождливую ночь!"
+line-74,阿米娅,他，是在指挥自己的队伍吗......！仅仅运用象棋走法，就能下达精准的命令？,Is he really commanding his troops like that? How can he give such precise orders just by barking out chess moves?,"Он... он командует своим отрядом?! Отдаёт точные приказы, используя лишь шахматные ходы?"
+line-75,阿米娅,明明都是些狂暴的感染者，战斗却完全由他一人指挥......！,Those same disorderly thugs have been turned into an army under his command...!,"Хоть это и обезумевшие Заражённые, весь бой полностью под его контролем...!"
+line-76,阿米娅,再这样下去，他会把指挥优势发挥到极致——,"At this rate, he's going to keep exploiting the advantage he gets through his leadership...","Если так продолжится, он воспользуется своим тактическим преимуществом по максимуму —"
+line-78,杜宾,相应的，只要能压制他的话，也就没什么大不了！,"On the other hand, if we manage to suppress him, they'll fall into disarray!","Следовательно, если мы подавим его, они станут никем!"
+line-79,杜宾,不要让整合运动打开哪怕一丁点缺口！,Don't give them even the slightest opening!,Не дайте «Воссоединению» пробить даже малейшую брешь!
+line-80,杜宾,混账，我们的时间越来越少了！,"Damn it, we're running out of time!","Проклятье, времени всё меньше!"
+line-82,阿米娅,不能再让整合运动拖延我们的脚步了！,We can't allow ourselves to be stalled any longer!,Нельзя позволить «Воссоединению» и дальше задерживать нас!
+line-84,阿米娅,有什么，有什么办法能迅速打开局面吗......！,Is there some way to turn the tables... anything?!,Нужен способ... какой-то способ быстро переломить ситуацию...!
+line-85,阿米娅,如果继续拖下去，博士和大家就......！,We're going to be... Doctor's going to...,"Если промедлим, Доктор и остальные...!"
+line-94,整合运动成员,唔唔唔唔唔啊啊啊！！！,Gaaaaaaahh!!!,У-у-у-у-а-а-а!!!
+line-96,梅菲斯特,什么？,What?!,Что?!
+line-97,梅菲斯特,......唔唔......怎么回事？怎么有人被......撞飞起来了？,Huh... What's going on? Why are people getting knocked into the air?,...М-м... Что происходит? Почему кого-то... подбросило в воздух?
+line-98,梅菲斯特,这......,What...,Это...
+line-99,梅菲斯特,......什么啊？,... the hell is that?,...Что это такое?
+line-101,？？？,你们的速度比我估算的慢上太多了，我可是连平民都顺手安顿好了。,You guys sure took your sweet time. I even had time to relocate the civilians.,"Вы оказались куда медленнее, чем я рассчитывала. Я даже успела разместить мирных жителей."
+line-103,阿米娅,——？！！,--?!!,—?!!
+line-105,？？？,别挡道！,Out of my way!,С дороги!
+line-114,整合运动成员,呜啊！,Woah!!,У-ах!
+line-116,？？？,加大进攻力度！别给敌人重整阵形的机会！,Let's hit 'em even harder! Don't give the enemies a chance to regroup!,Усилить натиск! Не давайте врагу перегруппироваться!
+line-124,阿米娅,临光小姐！！,Miss Nearl!!,Госпожа Ниарл!!
+line-128,临光,我在。,I'm here.,Я здесь.
+line-129,临光,你没事就好，阿米娅。快撤。,"I'm glad you're still safe, Amiya. Let's move.","Рада, что ты цела, Амия. Отступаем."
+line-132,杜宾,幸亏这次作战，有你参加。,Thank goodness you were deployed in this operation.,"К счастью, в этой операции участвуешь ты."
+line-134,临光,信号弹的定位很有效。看来你们遇到的麻烦确实不小。,Using the signal flare was judicious. Seems like you've been having a rough time.,"Сигнальная ракета сработала отлично. Похоже, вы и впрямь попали в переплёт."
+line-136,临光,——,...,—
+line-137,临光,您就是{@nickname}博士吧？,"You must be Dr. {@nickname}, right?","Вы и есть Доктор {@nickname}, верно?"
+line-140,临光,耀骑士临光，前来迎接你们了。,"Radiant Knight, Nearl, at your service. Your chariot has arrived.","Сияющий рыцарь Ниарл. Я прибыла, чтобы встретить вас."
