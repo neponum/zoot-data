@@ -1,0 +1,151 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,临光,临光,Nearl,Ниарл
+char-2,阿米娅,阿米娅,Amiya,Амия
+char-3,Ace,Ace,Ace,ACE
+char-4,杜宾,杜宾,Dobermann,Доберманн
+char-5,塔露拉,塔露拉,Talulah,Талула
+char-6,近卫干员,近卫干员,Guard,Гвардеец
+char-7,医疗干员,医疗干员,Medic,Медик
+,,,,
+line-7,临光,阿米娅，带博士离开。,"Amiya, take the Doctor with you.","Амия, уводи Доктора."
+line-8,临光,......立刻！,"...Go, now!",...Немедленно!
+line-10,阿米娅,不行！我不能......,No! I won't leave you...,Нет! Я не могу...
+line-12,临光,你也感觉到了！她......再这样下去，整个救援队都会葬送在这里！,"Surely, you can feel it as well! She... If you don't leave, the entire rescue team will die here!","Ты тоже это почувствовала! Она... если это продолжится, весь спасательный отряд погибнет здесь!"
+line-13,临光,那个塔露拉......,That Talulah...,Эта Талула...
+line-14,临光,她是活生生的怪物！阿米娅！,She is a living monster! Amiya!,Она — настоящий монстр! Амия!
+line-16,阿米娅,我们一起战斗的话，不会有问题的！,"We'll be fine, as long as we stand together!","Если мы будем сражаться вместе, всё будет в порядке!"
+line-18,临光,那博士呢？你能保证博士的安全吗？,"What about the Doctor, then? Can you ensure the Doctor's safety?",А как же Доктор? Ты можешь гарантировать его безопасность?
+line-20,阿米娅,......唔......,... Hm...,...М-м...
+line-22,临光,E4小队，我们留在这里断后！,"Team E4, we will stay behind and hold the line!","Отряд E4, мы остаёмся здесь для прикрытия!"
+line-23,临光,一定要让阿米娅和Dr.{@nickname}，以及各个医疗小组安全撤离！,"We must ensure that Amiya, Dr. {@nickname}, and the Medic teams escape safely!","Мы должны обеспечить безопасную эвакуацию Амии, Доктора {@nickname} и всех медицинских групп!"
+line-25,Ace,不，交给我和我的小队吧。,"No, my squad will handle this.","Нет, предоставь это мне и моему отряду."
+line-27,临光,Ace！现在难道是说这种话的时候吗！,"Ace! Be rational, now's not the time to argue over this!",Ace! Разве сейчас время для таких разговоров?!
+line-29,Ace,我很冷静。,I am rational.,Я спокоен.
+line-31,临光,你难道没看到吗，她周围的东西，都在融化！,Surely you can see it as well - everything around her is melting!,Разве ты не видишь? Всё вокруг неё плавится!
+line-33,阿米娅,我不会留下你们独自战斗的。,I'm not going to leave you all here to fight alone.,Я не оставлю вас сражаться в одиночку.
+line-34,阿米娅,罗德岛......绝不会丢下你们的！,Rhodes Island... won't abandon you!,Родос... никогда вас не бросит!
+line-36,杜宾,阿米娅，时间宝贵！你必须撤退！,"Amiya, time is of the essence! You have to escape!","Амия, время бесценно! Ты должна отступить!"
+line-38,Ace,——你应该信任我们。,...You should trust me.,— Ты должна нам доверять.
+line-40,阿米娅,我不能看着罗德岛的任何一个人牺牲！,I can't bear to see Rhodes Island sacrifice anyone!,Я не могу допустить гибели ни одного сотрудника Родоса!
+line-42,杜宾,想想任务目标，想想我们的目的！,Think about our goal! Think about what we came here for!,"Подумай о целях миссии, о нашей задаче!"
+line-44,阿米娅,不是说这个的时候！,This isn't the time to talk about that still!,Сейчас не до этого!
+line-46,塔露拉,——,...,—
+line-60,临光,——？热量......在......她手里......聚集？,--? The heat... is concentrating in her hands?,—? Жар... концентрируется... в её руках?
+line-62,近卫干员,她周身的景象......扭曲了？,Is she... distorting the space around her?,Пространство вокруг неё... искажается?
+line-64,临光,不，那是她......加热了周围的空气！,"No, that's... the superheated air around her!","Нет, это она... раскалила воздух вокруг себя!"
+line-66,阿米娅,小心，她将要使用的法术......,Watch out! She's getting ready to use her Arts...,"Осторожно, заклинание, которое она собирается использовать..."
+line-67,阿米娅,不对......不对！临光！！快回来！！,"No... You can't! Nearl!! Come back, now!!",Нет... нет! Ниарл!! Назад!!
+line-68,阿米娅,那不是......那个法术会把你——,That's not her... You'll be killed if you--,Это не... это заклинание тебя —
+line-75,塔露拉,——安静。,... Silence.,— Тихо.
+line-79,临光,呜呃......！,Uaaaaagh...!,Угх...!
+line-96,临光,哈，哈......,Ugh... Gahh...,"Ха, ха..."
+line-98,杜宾,临光！,Nearl!,Ниарл!
+line-100,临光,咳......退后！我不要紧......,*cough*... Stay back! Don't worry about me...,Кх... назад! Я в порядке...
+line-101,临光,只不过是......有点烫而已......,It's just... a little warm...,Всего лишь... немного горячо...
+line-103,杜宾,说什么......不要紧？,What are you saying... don't worry?,Что значит... в порядке?
+line-104,杜宾,全身的铠甲没有一块是完好的，究竟哪里不要紧了？！,"You don't have a single intact piece of armor on you, and you're telling me not to worry? !","Ни одна часть твоего доспеха не уцелела, как это может быть «в порядке»?!"
+line-105,杜宾,你不能再与她战斗了！,You mustn't fight her anymore!,Ты больше не можешь с ней сражаться!
+line-107,临光,我说了——退后！,I already said... Stay back!,Я сказала — назад!
+line-109,杜宾,临光！你这倔脾气......！,Nearl! You stubborn son of a...!,Ниарл! Ну и упрямый же у тебя характер...!
+line-113,塔露拉,——哦？,... Hm?,— О?
+line-115,Ace,蹲下！,Get down!,Пригнись!
+line-131,临光,咳，咳......又是什么把戏！,*cough* *cough*... What is it this time!,"Кх, кх... что за новые фокусы!"
+line-133,Ace,......不可见的火扫过了我们的头顶。,... Invisible flames just swept over our head.,...Невидимое пламя пронеслось над нашими головами.
+line-134,Ace,后撤。整个街区都在融化......,Fall back. This entire block is melting...,Отходим. Весь квартал плавится...
+line-135,Ace,别做无谓的牺牲！,Don't sacrifice yourself in vain!,Не приносите напрасных жертв!
+line-137,临光,......,...,...
+line-138,临光,我是在和什么东西战斗？,Just what monstrosity am I fighting against?,С чем я вообще сражаюсь?
+line-140,Ace,必须干扰她施术的过程......,We have to interrupt her casting somehow...,Нужно прервать процесс её заклинания...
+line-141,Ace,狙击干员！瞄准目标敌人！,"Snipers, take aim at the enemy!",Снайперы! Цельтесь в противника!
+line-148,塔露拉,——,...,—
+line-149,塔露拉,反抗会为大地带去希望。,Resistance will usher hope into this land.,Сопротивление приносит земле надежду.
+line-150,塔露拉,但反抗，改变不了你们的命运。,But resistance... will not change your fate.,Но сопротивление не изменит вашу судьбу.
+line-152,Ace,射击！！,Fire!!,Огонь!!
+line-159,塔露拉,切尔诺伯格已得解放。,Chernobog has already attained liberation.,Чернобог освобождён.
+line-160,塔露拉,我们的工作已经完成，而我对你们产生了些许兴趣。,"Our work here is done, and your group has proven to be quite interesting.","Наша работа закончена, и вы вызвали у меня некоторый интерес."
+line-162,杜宾,什么——,What...,Что —
+line-164,塔露拉,不过，也就仅此而已。,"However, that is all you are worth.","Впрочем, на этом всё."
+line-165,塔露拉,你们做出了错误的选择。,You have chosen poorly.,Вы сделали неверный выбор.
+line-166,塔露拉,罗德岛，你们该真正站在感染者这边。,"Rhodes Island, you should have stood firmly with the Infected.","Родос, вам следовало бы по-настоящему встать на сторону Инфицированных."
+line-184,医疗干员,怎么......回事？,What's... going on?,Что... происходит?
+line-185,医疗干员,为什么整个广场......都被烧焦了？,Why is the entire plaza... getting scorched?,Почему вся площадь... выжжена?
+line-186,医疗干员,刚刚......发生了......什么......？,What... happened... just now...?,Что... только что... произошло...?
+line-187,医疗干员,呼......呼吸......好烫......我......,I... I can't breathe... it burns...,Фух... дышать... обжигает... я...
+line-189,近卫干员,石块，弩箭，弓矢......,"Rocks, bolts, arrows...","Камни, болты, стрелы..."
+line-190,近卫干员,都没了。,They're all gone.,Ничего не осталось.
+line-191,近卫干员,一瞬间......她周围的所有事物，全都都被燃烧殆尽......,In a heartbeat... every object around her has been reduced to nothingness...,В одно мгновение... всё вокруг неё сгорело дотла...
+line-193,塔露拉,你们具备解放者该有的韧性。,You have the resilience of liberators.,"У вас есть стойкость, присущая освободителям."
+line-195,近卫干员,......连渣滓都没剩下。,... Not even ashes remain...,...Даже пепла не осталось.
+line-197,临光,阿米娅。你很清楚。,Amiya. You know what must be done.,Амия. Ты прекрасно это понимаешь.
+line-199,阿米娅,——,...,—
+line-201,临光,必须有人，挡住她。,Someone... has to stop her.,Кто-то должен её остановить.
+line-203,塔露拉,——但我厌烦了。,...But I grow tired of this.,— Но мне это надоело.
+line-205,阿米娅,......,...,...
+line-207,临光,阿米娅！！,Amiya!!,Амия!!
+line-220,塔露拉,你们总要为杀害同胞而付出代价。,This is the price you must pay for slaughtering your fellow Infected.,Вам придётся заплатить за убийство своих соплеменников.
+line-221,塔露拉,我将赐予你们一个我十分喜爱的结局。,I shall grant you an ending that I am quite fond of.,"Я дарую вам финал, который мне очень по душе."
+line-222,塔露拉,——毁灭。,...Disappear.,— Истребление.
+line-226,杜宾,糟了！！,Damn it!!,Плохо дело!!
+line-227,杜宾,走，走......快走！！,Run... hurry!!,"Уходите, уходите... скорее!!"
+line-228,杜宾,那种热量和规模......不行，不行！,"That amount of heat, at such a scale... No, no!","Такая жара, такие масштабы... нет, невозможно!"
+line-229,杜宾,保护阿米娅和博士！快！！,Protect Amiya and the Doctor! Quick!!,Защитите Амию и Доктора! Быстрее!!
+line-231,临光,来不及了——！,We won't make it...!,Слишком поздно!
+line-232,临光,让我挡住她！！！,I'll block her!!!,Я её задержу!!!
+line-234,医疗干员,啊啊！！,AAAAAGH!!,А-а-а!!
+line-253,医疗干员,......,...,...
+line-254,医疗干员,......嗯？？？,...Huh???,...М-м???
+line-256,医疗干员,阿......阿米娅？,A-Amiya?,А... Амия?
+line-258,阿米娅,不会让你伤害他们的。,You will not hurt them.,Я не позволю тебе причинить им вред.
+line-261,塔露拉,......,...,...
+line-266,阿米娅,我不会......允许你这么做的！,I will never... allow you to do that!,Я не... позволю тебе этого сделать!
+line-295,塔露拉,————哦？,-----Oh?,— О?
+line-330,阿米娅,咕......,Ngh...,Гх...
+line-331,阿米娅,必须......让大家......！,I must... protect everyone...!,Я должна... всех...!
+line-353,杜宾,阿米娅她一个人......挡下了敌人的法术......？,Amiya is holding back the enemy's Arts... all by herself...?,Амия... она в одиночку... сдержала вражеское заклинание...?
+line-355,临光,不行......那力量太庞大了......！,It's no good... That power is too tremendous!,Нет... эта сила слишком велика...!
+line-356,临光,哪怕是阿米娅......,Even Amiya won't be able to...,Даже Амия...
+line-357,临光,哪怕是阿米娅也撑不了多久的！,She won't be able to hold out for long!,Даже Амия долго не продержится!
+line-359,医疗干员,阿米娅！,Amiya!,Амия!
+line-361,阿米娅,没问题......我没问题......,Don't worry... Don't worry about me...,Всё в порядке... я в порядке...
+line-362,阿米娅,我没问题的——！,I can handle this...!,Я справлюсь!
+line-363,阿米娅,我要......我必须......保护你们！,I want to... I must... protect you all!,Я... я должна... защитить вас!
+line-378,医疗干员,黑色......将敌人的法术封在了广场上......,Dark matter... is sealing the enemy's Arts within the plaza...,Чернота... она заперла вражеское заклинание на площади...
+line-380,阿米娅,唔......唔啊......呃......！,Ngh... Argh... Ughh!,М-м... а-а... грх...!
+line-382,近卫干员,阿米娅......她，她设下的屏障，在燃烧！,H-her barrier is catching on fire!,"Амия... барьер, который она установила, горит!"
+line-384,杜宾,阿米娅，不可以！！那样的话，你的戒指——！,"Amiya, stop!! Your ring will--!","Амия, нельзя!! Если так пойдёт дальше, твои кольца...!"
+line-386,阿米娅,哪怕......虽然......,I don't care... even if...,Пусть даже... хотя...
+line-387,阿米娅,博士，对不起——,"Doctor, I'm sorry...","Доктор, простите..."
+line-388,阿米娅,哪怕会带来灾难，哪怕我会......！,"Even if this brings disaster, even if I...!","Пусть даже это обернётся катастрофой, даже если я...!"
+line-390,阿米娅,我也不能......再看着重要的人......,I don't want to lose... the person dearest to me... ever again...,"Я не могу... смотреть, как дорогие мне люди..."
+line-392,塔露拉,呵————,Heh...,Ха-а...
+line-393,塔露拉,很好。,Very good.,Хорошо.
+line-395,阿米娅,啊......啊啊......！！,Aghh... Aaaaaahhh...!!,А... а-а-а!!
+line-397,临光,阿米娅！,Amiya!,Амия!
+line-398,临光,可恶......再这样下去，阿米娅会......！,Damn it... We're going to lose her...!,"Чёрт... если так пойдёт и дальше, Амия...!"
+line-400,杜宾,你要干什么？,What are you doing?,Что ты собираешься делать?
+line-402,临光,去毁掉那个龙女的法术！,Destroying that she-dragon's Arts!,Я собираюсь уничтожить заклинание этой драконицы!
+line-404,杜宾,你......,You...,Ты...
+line-406,临光,——“卡西米尔的光芒啊，耀骑士将为你奉献自身——”,"... 'O Light of Kazimierz, the Radiant Knight offers her body to thee...'","— «О свет Казимира, Сияющий Рыцарь посвящает себя тебе...»"
+line-408,杜宾,博士！快走！我们会帮助阿米娅的，你必须......,"Doctor! Just go! We'll help Amiya, but you have to...","Доктор! Уходите! Мы поможем Амии, вы должны...!"
+line-410,塔露拉,————！,--!,—!
+line-448,阿米娅,啊啊啊啊啊！！,Aaaaaaaaghhh!!,А-а-а-а-а!!
+line-453,阿米娅,唔————？,What...?,М-м...?
+line-454,Ace,可以了，阿米娅。,"That's enough, Amiya.","Достаточно, Амия."
+line-455,阿米娅,——？！,--?!,—?!
+line-461,Ace,你已经很了不起了。,You've done well.,Ты отлично справилась.
+line-462,Ace,把你的重担，也分给我们一些吧。,Let us share your burden.,Позволь нам разделить это бремя с тобой.
+line-464,阿米娅,我———,I...,Я...
+line-467,杜宾,阿米娅！,Amiya!,Амия!
+line-469,Ace,杜宾，带他们先走，我一会儿就跟上。,"Dobermann, take her with you. I'll see you soon.","Доберманн, уводи их. Я скоро догоню."
+line-471,杜宾,......Ace......,...Ace...,...Ace...
+line-473,阿米娅,Ace......不......Ace......！,Ace... No... Ace...!,Ace... нет... Ace..!
+line-474,阿米娅,一定......要............,Promise me... that you'll...,Обязательно... нужно...
+line-477,Ace,——,——,—
+line-478,Ace,抱歉，Dr.{@nickname}，你可能不记得我了。,"I'm sorry, Dr. {@nickname}. You might not remember me.","Прости, Доктор {@nickname}, ты, возможно, не помнишь меня."
+line-479,Ace,但我记得你，也知道你是怎样的人。,"But I remember you, and I know what kind of person you are.","Но я помню тебя и знаю, что ты за человек."
+line-480,Ace,......总有一天，你要和阿米娅一起共同面对这片残酷的大地。,... There will come a day when you and Amiya will face this cruel land together.,"...Наступит день, когда вам с Амией придётся вместе противостоять этой жестокой земле."
+line-481,Ace,所以，保护好她，博士。,"That is why... you must cherish her, Doctor.","Поэтому защити её, Доктор."
+line-482,Ace,走吧。,Let's go.,Уходи.
+line-483,Ace,祝你们前路无阻。,Godspeed.,Желаю вам чистого пути.
