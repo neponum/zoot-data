@@ -1,0 +1,89 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,杜宾,杜宾,Dobermann,Доберманн
+char-2,Ace,Ace,Ace,ACE
+char-3,医疗干员,医疗干员,Medic,Медик
+char-4,整合运动成员,整合运动成员,Reunion Member,Участник Воссоединения
+char-5,临光,临光,Nearl,Ниарл
+char-6,阿米娅,阿米娅,Amiya,Амия
+char-7,近卫干员,近卫干员,Guard,Гвардеец
+,,,,
+line-9,杜宾,抗冲击准备！！,Prepare for impact!!,Приготовиться к удару!!
+line-10,杜宾,各自散开——！！！,Spread out—!!!,Рассредоточиться——!!!
+line-11,杜宾,规模太大了......这样下去，整个街区的建筑都会被彻底摧毁！,"There's too much coming... at this rate, every single building in this city is going to be destroyed!","Масштабы слишком велики... Если так пойдёт и дальше, здания во всём квартале будут полностью разрушены!"
+line-12,杜宾,不行，糟了———！,This is looking bad...!,"Нет, дело плохо—!"
+line-17,Ace,——！,——!,—!
+line-18,Ace,快转移！,We have to relocate!,"Быстро, отходим!"
+line-20,医疗干员,......！,...!,...!
+line-22,Ace,坚持住！！,Hold on!!,Держитесь!!
+line-28,整合运动成员,啊——！！掉，掉下来了！,Aaaaagh!! It's falling... It's falling!,"А-а!! Оно падает, падает!"
+line-29,整合运动成员,天空掉下来了！,The sky is crashing down!,Небо падает!
+line-34,整合运动成员,不，不，啊好疼......,Aghhhh! It hurtsss...!,"Нет, нет, а-а, как больно..."
+line-35,整合运动成员,我的手，我的手！我的手哪里去了......,My hand... my hand! Where's my hand...,"Моя рука, моя рука! Где моя рука...?!"
+line-36,整合运动成员,怎，怎么会！！我不想死......！,"No, no way!! I don't want to die...!",К-как же так!! Я не хочу умирать...!
+line-37,整合运动成员,啊啊啊啊！！！,Aaaaaaaghh!!!,А-а-а-а!!!
+line-45,临光,重装干员！,Defenders!,Защитники!
+line-46,临光,保护我方术师！！,Protect our Casters! !,Защищайте наших заклинателей!!
+line-47,临光,——！！,...!!,—!!
+line-48,临光,那是什么声音？！,What's that sound?!,Что это за звук?!
+line-50,Ace,巨大的坠岩击垮了临街的建筑！卧倒！！,A massive cluster just toppled the building across the street from us! Get down! !,Огромные каменные глыбы рушат соседние здания! Ложись!!
+line-57,医疗干员,啊......！,Eeek...!,Ах...!
+line-59,阿米娅,——那个位置——医生！危险！,... Don't stand there... Medic! Watch out!,— Эта позиция — Доктор! Опасно!
+line-61,近卫干员,糟糕，医生，快闪开！,"Oh no... Medic, get out of there!","Плохо дело, Доктор, берегитесь!"
+line-66,,......！,......!,...!
+line-73,医疗干员,啊！,Aaaahh!,Ах!
+line-74,医疗干员,......唔，博，博士？,"...Huh, D-Doctor?","...М-м, До... Доктор?"
+line-76,近卫干员,博士把医生推进了掩体？可这样......这样的话，博士——！,The Doctor pushed the medic out of the way? Wouldn't that mean... Doctor...?!,"Доктор толкнул медика в укрытие? Но тогда... в таком случае, Доктор —!"
+line-77,近卫干员,不，博士！！,"No, Doctor!!","Нет, Доктор!!"
+line-79,临光,Dr.{@nickname}！！,Dr. {@nickname}!!,Доктор {@nickname}!!
+line-81,近卫干员,啊？,Huh?,А?
+line-82,近卫干员,临，临光她冲出去了！,N-Nearl's charging forward!,Н-Ниарл! Она бросилась туда!
+line-84,临光,博士，蹲下！,"Get down, Doctor!","Доктор, пригнитесь!"
+line-95,临光,咯......,Aagh...,Гх...
+line-96,临光,赶上了！,She made it in time!,Успела!
+line-98,近卫干员,她救下......她救下博士了！,She did it... She saved the Doctor!,Она спасла... Она спасла Доктора!
+line-100,临光,咳哈......！,*cough*... Haah...,Кха...!
+line-102,阿米娅,临光！博士！快回来！,Nearl! Doctor! Hurry back over here!,Ниарл! Доктор! Возвращайтесь скорее!
+line-104,临光,没问题的！,It's fine now!,Всё в порядке!
+line-105,临光,我的盾牌还撑得住——！,I can still hold my shield...!,Мой щит ещё выдержит —!
+line-106,临光,跳啊，博士！,"Jump, Doctor!","Прыгайте, Доктор!"
+line-107,临光,跳！,Jump!,Прыгайте!
+line-113,阿米娅,博士，博士......,"Doctor, Doctor...","Доктор, Доктор..."
+line-114,阿米娅,你，你没事吧？,"You're, you're not hurt?",Вы... вы в порядке?
+line-115,,我没事，这算不了什么！;......;多亏临光小姐救下了我。,"I'm fine... It's no big deal.;...;Thanks for saving me, Nearl.","Я в порядке, это пустяки!;...;К счастью, госпожа Ниарл спасла меня."
+line-118,临光,一个人......处在那样的危险中！,How could you... put yourself in danger like that!,Один... в такой опасности!
+line-119,临光,至少拉上我一起，让我保护博士你！,"At least take me with you, so I can protect you!","По крайней мере, позвольте мне быть рядом и защищать вас, Доктор!"
+line-120,临光,无论怎样，我都不能允许你受伤——,I can't allow you to be harmed...,"Несмотря ни на что, я не могу позволить вам пострадать —"
+line-121,临光,何况，是在我面前！,"Especially, right before my eyes!",Тем более у меня на глазах!
+line-123,阿米娅,大家都还安全，就非常好了......！,We should count ourselves lucky that everyone is still safe...!,"Как хорошо, что все в безопасности...!"
+line-125,阿米娅,但我们......,But...,Но мы...
+line-126,阿米娅,（还要坚持多久呢？）,(How much longer is this going to last?),(Как долго нам ещё продержаться?)
+line-127,阿米娅,（我们真的能活下来吗？）,(How long are we going to be able to stay alive?),(Неужели мы действительно выживем?)
+line-129,阿米娅,......唔......,... Hm...,...М-м...
+line-130,阿米娅,坠石的数量减少了？,Are fewer rocks falling now?,Количество падающих камней уменьшилось?
+line-131,阿米娅,我们撑过了第一波主灾害了吗......,So we managed to weather the first impact...,Мы пережили первую основную волну Катастрофы?..
+line-133,杜宾,还不能大意，谁知道这次的天灾会持续多久。,But we have to be careful still. Nobody knows how long this Catastrophe will continue for.,"Рано расслабляться, кто знает, сколько продлится эта Катастрофа."
+line-134,杜宾,不过至少......我们不是身处天灾正中心的人。,At least... we weren't caught dead in the middle of it.,"Но, по крайней мере... мы не в самом эпицентре."
+line-135,杜宾,我们侥幸躲过去了。,We were lucky to slip through.,Нам повезло уцелеть.
+line-137,阿米娅,嗯......,Mmhm...,Да...
+line-138,阿米娅,大家怎么样了？,How's everyone doing?,Как все остальные?
+line-140,近卫干员,干员们基本都没事......！,Looks like all of the Operators made it through just fine...!,Оперативники в основном целы...!
+line-141,近卫干员,有些干员受了轻伤，但状况都还算不错！,"Some were lightly injured, but considering the circumstances, we were quite fortunate!","Некоторые получили лёгкие ранения, но состояние в целом хорошее!"
+line-142,近卫干员,我们......活下来了！,We... we made it!,Мы... выжили!
+line-147,整合运动成员,啊......,Ugh...,Ах...
+line-149,阿米娅,整合运动也有部分人员——,Some of the Reunion members have also...,Часть сил Воссоединения тоже —
+line-151,整合运动成员,......啊？,...Huh?,...А?
+line-152,整合运动成员,啊......啊！！罗德岛！,Huh... Ahh! ! Rhodes Island!,А... а!! Родос!
+line-154,杜宾,......什么？,...What?,...Что?
+line-156,整合运动成员,啊......！！！,Arghh...!!,А-а-а!!!
+line-158,阿米娅,整合运动还要继续攻击我们吗？,They're still trying to attack us?!,Воссоединения продолжит атаковать нас?
+line-160,整合运动成员,......,...,...
+line-161,整合运动成员,罗德岛！,Rhodes Island!,Родос!
+line-163,杜宾,这些家伙！,What's wrong with you bunch!,Эти фанатики!
+line-165,整合运动成员,别跑......！,Come back here...!,Не уйдёте...!
+line-167,杜宾,真的是疯了。,They've gone insane.,Они совсем обезумели.
+line-169,临光,这些人为什么就不能珍惜自己的生命？！,Do they not value their lives at all?!,Почему эти люди совсем не дорожат своими жизнями?!
+line-171,阿米娅,杜宾......,Dobermann...,Доберманн...
+line-173,杜宾,没有办法......,We have no choice...,Ничего не поделаешь...
+line-174,杜宾,彻底击溃他们，然后马上移动！,"We'll suppress them first, and then immediately relocate!","Разбейте их наголову, и немедленно выдвигаемся!"
