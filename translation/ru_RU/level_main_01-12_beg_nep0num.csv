@@ -1,0 +1,59 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,杜宾,杜宾,Dobermann,Доберман
+char-2,？？？,？？？,???,???
+char-3,临光,临光,Nearl,Ниарл
+char-4,阿米娅,阿米娅,Amiya,Амия
+char-5,W,W,W,W
+,,,,
+line-1,,"时间未知 \ 天气未知 \ 能见度 低 ","Time - Unknown \ Weather - Unknown \ Visibility - Poor ",Время - Неизвестно \ Погода - Неизвестна \ Видимость - Низкая
+line-2,,切尔诺伯格 行动组E0所在地,Chernobog - Operation Squad E0's Location,Чернобог - Местонахождение оперативной группы E0
+line-3,,"Dr.{@nickname}营救行动 最终撤退阶段 ","Dr. {@nickname} Rescue Operation - Final Retreat Phase ",Операция по спасению Доктора {@nickname}. Финальная Фаза Отступления
+line-9,杜宾,可恶！,Damn it!,Проклятье!
+line-10,杜宾,明明已经在出口了！,Even though we've already made it to the exit...!,Мы же уже почти у самого выхода!
+line-12,？？？,这么轻松就想离开切尔诺伯格......,Did you really think we'd let you just stroll out of Chernobog?,"Вы думали, что покинуть Чернобог будет так просто..."
+line-13,？？？,你们的白日梦，总该有人来戳醒吧？,Don't you think it's about time for someone to wake you from your daydream?,"Кто-то же должен положить конец вашим грёзам, не так ли?"
+line-15,杜宾,通讯设备已经恢复，我联系上了接应的行动预备组，他们正准备与我们汇合！,"Our commmunications have been restored, and I've contact O.P.D. They'll be joining up with us shortly!","Связь восстановлена. Я связалась с резервной группой поддержки, они уже готовятся встретиться с нами!"
+line-16,杜宾,可是，这个家伙......,"But, this blasted...",Но этот человек...
+line-18,临光,小心她手中的爆破物！,"Watch out, she's holding onto explosives!","Осторожно, у неё в руках взрывчатка!"
+line-28,杜宾,但是，我还是联系不上侦查小组！,I still can't get in touch with the recon team!,Но я всё ещё не могу связаться с разведгруппой!
+line-30,阿米娅,——你究竟是谁？,... Who exactly are you?,— Кто вы такая?
+line-35,？？？,你不认识我很正常——,I don't expect you to know who I am...,"Неудивительно, что ты меня не знаешь —"
+line-36,？？？,不过，我认识你身边那个人。,"But, I know that person next to you.","Но я знаю того, кто стоит рядом с тобой."
+line-38,阿米娅,整合运动......还要，继续战斗吗？,Is Reunion... going to continue fighting us?,Воссоединение... Вы всё ещё хотите продолжать бой?
+line-40,？？？,唉唉，别这样。,"Hey, hey, don't be like that.","Ой-ой, не надо так."
+line-41,？？？,我和那个塔露拉龙女可合不来。毕竟我并不是专职守门的人啊。做完了自己的工作赶过来也是很累的！,"I have no love for that she-dragon, Talulah. I'm not even cut out for this goaltending business. It's a pain to have to rush over here after a long day of work.","Я не особо лажу с той драконихой Талулой. В конце концов, я не штатный охранник ворот. Я порядком устала, пока добиралась сюда после своих дел!"
+line-42,？？？,为了搞好关系，我们互换姓名吧？,"So for the sake of future cooperation, why don't we exchange some pleasantries first?","Давайте обменяемся именами, чтобы подружиться?"
+line-43,？？？,你可以叫我——W。,You may simply call me... W.,Можешь звать меня — W.
+line-44,W,为了见你身边那个人，我在这里可是等了好久呢。,I've waited a long time to see that person next to you.,"Я довольно долго прождала здесь, чтобы увидеть того, кто рядом с тобой."
+line-46,阿米娅,——博士？,...Doctor?,— Доктор?
+line-48,W,Dr.{@Nickname}......,Dr.{@Nickname}......,Доктор {@Nickname}...
+line-49,W,我有些问题想要问问{@Nickname}，能不能请各位把他......直接送给我呢？,I have a few little questions I'd like to ask {@Nickname}. Would you be so kind as to give us some... alone time?,У меня есть несколько вопросов к {@Nickname}. Не могли бы вы... просто отдать его мне?
+line-52,临光,你在浪费你自己的时间。,You're wasting your breath.,Ты только зря тратишь своё время.
+line-54,W,——别急嘛。我也有些你们会感兴趣的情报哦。,--Don't be so hasty. I have some information you might be interested in.,"— Не спеши. У меня тоже есть сведения, которые могут вас заинтересовать."
+line-55,W,其实，我们刚刚遇到了不少身手很利落的家伙......和你们的穿着打扮差不多。,"Actually, we just met some rather slick fellows... Quite skilled, and dressed just like you guys.","На самом деле, мы недавно столкнулись с группой весьма умелых ребят... одетых почти так же, как вы."
+line-56,W,虽然做过伪装，但也就是骗骗乌萨斯人的程度，这点小把戏，可是难不倒我的~,"Though their camouflage might have been enough to fool Ursus, I saw right through their little trick~","Хоть они и пытались маскироваться, этого достаточно лишь для того, чтобы обмануть людей Урсуса. Такие дешевые трюки меня не проведут~"
+line-58,阿米娅,侦察小队的各位吗......？,Could they be from the recon team?,Члены разведгруппы...?
+line-59,阿米娅,太好了......他们平安无——,I'm glad... that they're safe...,Слава богу... Они в безопасн—
+line-61,W,小兔子，你就是他们的组织者吧？,"Little bunny, are you their leader?","Маленький кролик, ты ведь их предводитель, верно?"
+line-63,阿米娅,？！,? !,?!
+line-65,W,我很想知道，你究竟有什么魔力......能让他们都心甘情愿，毫无价值地为你送命？,"I'm quite curious, what charm do you hold over them... so that they'd give their lives so enthusiastically and unremorsefully for you?","Мне очень любопытно, что же в тебе такого особенного... Что заставляет их всех так охотно и бессмысленно отдавать за тебя свои жизни?"
+line-67,阿米娅,什么......你想说什么？,What... are you saying...?,Что... Что ты хочешь этим сказать?
+line-69,W,没错，他们——没有一个人能跟着你回去哦。,You heard me. None of them... will be returning to you.,"Всё верно, они — ни один из них не вернётся с тобой."
+line-70,W,你呀......,"Hey, you...",А ты...
+line-71,W,你真的......配得上别人的牺牲吗？,Are you really... worth sacrificing their lives over?,Ты действительно... достойна их жертвы?
+line-74,阿米娅,————,...,————
+line-75,,别管她，出口就在前方！;阿米娅......;你的行为，有什么意义吗，W？,"Don't worry about her. The exit's right there!;Amiya...;What's the point of you doing this, W?","Не обращай на неё внимания, выход прямо по курсу!; Амия...; Есть ли смысл в твоих действиях, W?"
+line-78,W,还没轮到你。,I'm not done talking yet.,Твоя очередь ещё не пришла.
+line-79,W,阿米娅......,Amiya...,Амия...
+line-80,W,————你。生气了吗？,... Did I make you mad?,— Ты что. Злишься?
+line-82,阿米娅,......你不该说这种话。,... You've gone too far.,...Тебе не следовало этого говорить.
+line-84,W,好啊，好啊......就该这样嘛。,"Good, good... Now that's more like it.","Хорошо, хорошо... Вот так и должно быть."
+line-85,W,来吧。,Come at me.,Ну же.
+line-87,阿米娅,整合运动的W，你不该说这种话！,"W of the Reunion Movement, you've gone too far!","W из Воссоединения, тебе не следовало этого говорить!"
+line-88,阿米娅,每个人的生命，都有价值......,"Every life is precious, each and every one...",Жизнь каждого человека имеет ценность...
+line-89,阿米娅,这不是你能玷污的事！,This is something that you'll never tarnish!,"И это не то, что ты имеешь право осквернять!"
+line-90,阿米娅,博士！！,Doctor!!,Доктор!!
+line-91,,罗德岛，准备战斗！,"Rhodes Island, prepare for combat!","Rhodes Island, приготовиться к бою!"
+line-94,W,哼哼......,Heheh...,Хе-хе...
