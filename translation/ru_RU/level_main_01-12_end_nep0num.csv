@@ -1,0 +1,96 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,W,W,W,W
+char-2,阿米娅,阿米娅,Amiya,Амия
+char-3,整合运动成员,整合运动成员,Reunion Member,Участник Воссоединения
+char-4,杜宾,杜宾,Dobermann,Доберманн
+char-5,临光,临光,Nearl,Ниарл
+char-6,近卫干员,近卫干员,Guard,Гвардеец
+char-7,Ace,Ace,Ace,ACE
+char-8,？？？,？？？,???,???
+char-9,医疗干员,医疗干员,Medic,Медик
+,,,,
+line-5,W,这个感觉......真是让人感到，十分熟悉啊。,Ahh... What a nostalgic feeling!,Это чувство... Оно кажется мне... очень знакомым.
+line-6,W,阿米娅，是吗。,"Amiya, was it?","Амия, верно?"
+line-7,W,——,——,—
+line-8,W,啊，啊，哈哈......是这样......原来是这样。,"Ah, ahaha! I see... So that's what's going on.","А-а, ха-ха... Вот оно как... Так вот в чем дело."
+line-9,W,我记住了，阿米娅。,"I remember now, Amiya.","Я запомню тебя, Амия."
+line-11,阿米娅,......什么？,...What?,...Что?
+line-13,W,我已经得到我想要的了。你们可以走了，快走哦。,I've already gotten what I came for. You can all go now. Shoo.,"Я уже получила то, что хотела. Можете идти, и побыстрее."
+line-15,阿米娅,你——！,You...!,Ты...!
+line-17,整合运动成员,W......？,W...?,W...?
+line-19,W,——你们，要留下来送死？我没问题哦，你们爱怎么样就怎么样。,"... What, do you lot want to stay here and die? That's perfectly fine by me. You're all free to do as you please.","— Вы хотите остаться и умереть? Мне-то всё равно, делайте что хотите."
+line-21,整合运动成员,......,...,...
+line-22,整合运动成员,......撤回下城区。放他们走。塔露拉的命令。,We're falling back. Let them go. Talulah's orders.,...Отступаем в нижние районы. Отпустить их. Приказ Талулы.
+line-24,阿米娅,......？,...?,...?
+line-26,W,算了，事情再拖下去，就要变得没趣了。我很讨厌无聊的，就这样。,"Forget it. Things get boring when they get dragged out too long. I hate being bored, that's all there is to it.","Ладно, если тянуть и дальше, станет скучно. А я ненавижу скуку, так что на этом всё."
+line-27,W,我还是挺期待下次再会的哦，阿米娅。,"However, I do look forward to seeing you again, Amiya.","Я с нетерпением жду нашей следующей встречи, Амия."
+line-28,W,还有——那个人。,As well as... that person.,А ещё... того человека.
+line-30,阿米娅,什么——？！,What...? !,Что?!
+line-32,W,下次，我会从你身上得到真相的，{@Nickname}。,"Next time, I will hear the truth from you, {@Nickname}.","В следующий раз я узнаю от тебя всю правду, {@Nickname}."
+line-33,W,再见~,Bye~,До встречи~
+line-39,阿米娅,......为什么......她在......做什么？,What... Why... is she doing this?,...Почему... Что она... делает?
+line-42,杜宾,整合运动......撤退了。,Reunion... they've left.,Воссоединение... отступает.
+line-43,杜宾,————已经超出了预定时间。,--We've long missed the rendezvous time.,— Мы уже выбились из графика.
+line-44,杜宾,立刻......撤回罗德岛。,Retreat back to Rhodes Island... immediately.,Немедленно... возвращаемся на Родос.
+line-46,阿米娅,......,...,...
+line-47,阿米娅,......我来......护送后方干员。,I'll escort... the Operators in the back.,...Я... прикрою отход тыловых оперативников.
+line-49,临光,阿米娅......,Amiya...,Амия...
+line-51,阿米娅,我没事。,I'm fine.,Я в порядке.
+line-53,临光,......好。,... All right..,...Хорошо.
+line-55,杜宾,去吧，阿米娅。,"Go, Amiya.","Иди, Амия."
+line-67,近卫干员,.........,...,.........
+line-68,近卫干员,...............,... ...,...............
+line-69,近卫干员,......头儿......？,... Boss...?,...Командир...?
+line-70,近卫干员,其他人呢......,Where are the others...,А остальные...?
+line-72,Ace,临光杜宾她们，已经带着阿米娅和Dr.{@nickname}突破了封锁。,Nearl and the others have already broken out with Amiya and Dr. {@nickname}.,Ниарл и Доберманн уже прорвали блокаду вместе с Амией и доктором {@nickname}.
+line-73,Ace,而留下来断后的小队的干员们......,Those who stayed behind...,"А оперативники отряда, оставшиеся для прикрытия..."
+line-74,Ace,......都阵亡了。,... They're all gone.,...все погибли.
+line-88,近卫干员,......什么......,... What...,...Что...?
+line-90,Ace,你我是最后两个活着的。,We're the only two left.,"Мы с тобой единственные, кто выжил."
+line-92,近卫干员,......我想起来了......那个......那个怪物塔露拉......仅仅一个人......,"I remember now... That, that freak... Talulah... single-handedly...",...Я вспомнил... Та... та монстр Талула... Совсем одна...
+line-93,近卫干员,近卫们竟然眨眼间就像棋子一样迸散横飞.......,She knocked away our Guards like they were toy bricks...,"Гвардейцы разлетелись в мгновение ока, словно шахматные фигуры..."
+line-94,近卫干员,那个怪物像捏黄油一样捏碎了重装干员......,That monster cut through our Defenders as if they were butter...,"Этот монстр раздавила тяжелых оперативников, как масло..."
+line-96,Ace,别出声。你伤得很重。,Hush... Your wounds are deep.,Молчи. Ты тяжело ранен.
+line-98,近卫干员,天灾......！她就是天灾的化身......否则，否则火力小组怎么可能一瞬间被焚烧成灰......,"The Catastrophe...! She is Catastrophe incarnate... How, how else could she have reduced our squads to ashes in an instant...",Катастрофа...! Она — воплощение Катастрофы... Иначе как огневой отряд мог за секунду превратиться в пепел...
+line-99,近卫干员,明明见识过她的法术，我却......我不能相信......我......,"Even though I saw it with my own eyes, I can't... I can't believe it...","Я видел её Искусства, но... я не могу в это поверить... я..."
+line-100,近卫干员,惨叫......唔......呜......,The screams... Aagh... Gaaaah...,Крики... ох... у-ух...
+line-103,Ace,少说点！,Snap out of it!,Помолчи!
+line-105,近卫干员,......抱歉......我......我没法......,"I'm so sorry... I, I don't know how...",...Прости... Я... я не могу...
+line-107,Ace,冷静。,Calm down.,Успокойся.
+line-108,Ace,我帮你应急处理了一下。,I gave you some emergency treatment.,Я оказал тебе первую помощь.
+line-110,近卫干员,......头儿......你的手......？,... Boss... what happened to your arm...?,...Командир... твоя рука...?
+line-112,Ace,至少还有一只是能用的。,At least I still have one I can use.,"По крайней мере, одна ещё работает."
+line-117,近卫干员,......头儿，逃吧。你的话，一定能够杀出去。,Boss... You should go. I'm sure you'll be able to break your way out.,"...Командир, беги. Ты точно сможешь прорваться."
+line-119,Ace,我们只拖了那个怪物几分钟。,We only managed to stall her for a few minutes.,Мы задержали этого монстра всего на несколько минут.
+line-120,Ace,Dr.{@nickname}和阿米娅安全之前，我不能走。,"Until Dr. {@nickname} and Amiya are safe, I cannot go.","Я не уйду, пока доктор {@nickname} и Амия не будут в безопасности."
+line-134,Ace,我得先阻止那个怪物。,I have to stop that monster first.,Я должен сначала остановить этого монстра.
+line-136,近卫干员,头儿......我也......,Boss... I also...,Командир... я тоже...
+line-138,Ace,你的命是我废了一只手换回来的。,The price of your life... was paid with my arm.,Я спас твою жизнь ценой своей руки.
+line-139,Ace,哪怕你只能再活一分钟，我也希望这只手，至少也值一分钟。,"If you can live even a single minute longer, it will be worth it.","Даже если тебе осталось жить всего минуту, я хочу, чтобы эта рука стоила хотя бы этой минуты."
+line-141,近卫干员,——,...,—
+line-143,Ace,我去去就回。照顾好自己。,I'll be right back. Take care of yourself.,Я скоро вернусь. Береги себя.
+line-157,近卫干员,头儿......我真......不争气。,Boss... I'm sorry... that I'm so unworthy.,Командир... я... такой бесполезный.
+line-159,近卫干员,阿米娅......,Amiya...,Амия...
+line-162,近卫干员,你们一定能实现......大家的愿望......,I'm sure you'll be able to... make everyone's dreams...,Вы обязательно исполните... желания каждого...
+line-164,阿米娅,......,...,...
+line-165,？？？,他们......我......呜......,They're all... I...,Они... я... у-у...
+line-166,阿米娅,............,... ...,............
+line-167,？？？,........阿米娅？,... Amiya?,........Амия?
+line-168,？？？,............阿米娅？,... ... Amiya?,............Амия?
+line-175,阿米娅,啊？,"Oh, huh?",А?
+line-177,医疗干员,你怎么了......,What's the matter?,Что с тобой...?
+line-179,阿米娅,......没，没什么。只是刚才突然有些......,N-nothing... I just suddenly felt...,...Н-ничего. Просто внезапно стало немного...
+line-180,阿米娅,......难受。,Grief...,...тяжело.
+line-182,医疗干员,呜......嗯......,*sniff*... Urk...,У-у... мгм...
+line-183,医疗干员,难受......吗......,Grief... huh...,Тебе... тяжело...?
+line-184,医疗干员,呜......,Aauugh...,У-у...
+line-186,阿米娅,......别哭。,... Don't cry...,...Не плачь.
+line-187,阿米娅,至少现在......先忍一忍吧。,At least... for now.,По крайней мере сейчас... держись.
+line-188,阿米娅,以前有个人这么对我说过......,Someone once said to me...,Кое-кто когда-то сказал мне...
+line-189,阿米娅,眼泪......要留到战争结束之后。,Tears... should be saved for when the war is over.,Слезы... нужно приберечь до окончания войны.
+line-190,阿米娅,现在......还不行。,Now... is not the time.,Сейчас... ещё нельзя.
+line-192,医疗干员,嗯......呜......嗯......,Nnh... Ugh... Nn...,Мгм... у-у... мгм...
+line-198,阿米娅,走吧......,Let's go...,Пойдём...
+line-199,阿米娅,......我们回家。,...We're going home.,...Мы идем домой.
