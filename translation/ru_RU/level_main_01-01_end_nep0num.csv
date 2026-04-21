@@ -1,0 +1,72 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,医疗干员,医疗干员,Medic,Медик
+char-2,阿米娅,阿米娅,Amiya,Амия
+char-3,近卫干员,近卫干员,Guard,Гвардеец
+char-4,Ace,Ace,Ace,ACE
+char-5,临光,临光,Nearl,Ниарл
+char-6,杜宾,杜宾,Dobermann,Доберман
+,,,,
+line-1,,"时间未知 \ 天气未知 \ 能见度 低 ",Time - Unknown \ Weather - Unknown \ Visibility - Poor,Время - Неизвестно \ Погода - Неизвестна \ Видимость - Низкая
+line-2,,切尔诺伯格 行动组E0所在地,Chernobog - Operation Squad E0's Location,Чернобог - Расположение оперативной группы E0
+line-3,,"Dr.{@nickname}营救行动 第三阶段 ","Dr. {@nickname} Rescue Operation, Phase 3",Операция по спасению Доктора {@nickname}. Фаза 3
+line-8,医疗干员,啊！,Ah!,А!
+line-9,医疗干员,这个诊所......,This clinic...,Эта клиника...
+line-10,医疗干员,阿米娅，是不是以前我们来过那个？,"Amiya, haven't we been here before?","Амия, разве это не то самое место, где мы были раньше?"
+line-12,阿米娅,......确实是......,You're right...,...И правда...
+line-13,阿米娅,只是怎么......已经变成了，这个样子？,But why has it... become like this?,Но почему... она стала такой?
+line-15,医疗干员,已经人去楼空了......看来，是遭到了整合运动的袭击吧......,It's been totally abandoned... It looks it was attacked by Reunion.,"Она совершенно пуста... Похоже, на неё напало Воссоединение..."
+line-17,阿米娅,......,...,......
+line-19,近卫干员,这难道就是那个感染者诊所，阿撒兹勒？,"Wasn't this Azazel, the clinic for the Infected?","Так это и есть та клиника для Инфицированных, Азазель?"
+line-21,阿米娅,......是。,Yes...,...Да.
+line-23,近卫干员,明明掌握着整个切尔诺伯格的地下情报网，却不肯和我们合作......,"Even though they had access to Chernobog's entire underground intelligence network, they still refused to work with us...","У них была вся подпольная информационная сеть Чернобога, но они отказались сотрудничать с нами..."
+line-24,近卫干员,那时，他们和整合运动之间的关系也十分模棱两可......,"Back then, it wasn't clear what kind of dealings that had with Reunion...",В то время их отношения с Воссоединением тоже были весьма неоднозначными...
+line-25,近卫干员,至少，如果他们当时肯向我们分享情报，或者仅仅是给个提示......,"If only they had given us some information, or even just a hint...",Если бы они тогда хотя бы поделились информацией или просто дали подсказку...
+line-26,近卫干员,我们也许就早点能离开这里了。,We could've been out of here by now.,Мы могли бы покинуть это место гораздо раньше.
+line-27,近卫干员,这种下场，是他们自作自受！,They brought this outcome upon themselves!,Они сами в этом виноваты!
+line-29,阿米娅,也不全是这样......,That's not the entire story...,Это не совсем так...
+line-31,近卫干员,阿米娅，当时和他们交涉时你也在场吧？,"Amiya, you were there for the negotiations, weren't you?","Амия, ты ведь тоже присутствовала на тех переговорах, верно?"
+line-32,近卫干员,他们那傲慢冷漠的态度，我真是......,That cold and arrogant attitude of theirs really ticked me off...,Их высокомерие и безразличие... я просто...
+line-34,Ace,不能怪罪他们。,We can't blame them.,Не стоит их винить.
+line-36,近卫干员,头儿......,Boss...,Командир...
+line-43,Ace,感染者本就很难相信别人。,It's hard for the Infected to trust anyone.,Инфицированным и так трудно доверять другим.
+line-44,Ace,经历过那么多苦难，当然会变得保守与顽固。,"After enduring so many hardships, who can blame them for becoming jaded and stubborn?","После стольких страданий они, естественно, становятся осторожными и упрямыми."
+line-45,阿米娅,至少他们那样做......我能理解，也愿意原谅他们。不提防他人，就会被他人伤害。,I can understand why they did what they did... and I can forgive them. Those who don't protect themselves are easily hurt by others.,"По крайней мере, я понимаю их поступок и готова их простить. Если не будешь остерегаться других, тебе причинят боль."
+line-46,阿米娅,何况，就连感染者之间，也是没法轻易互相信任的。而且并不是每个人都愿意像我们一样冒险......,"Moreover, the Infected often can't even trust each other. Not everyone is able to stomach the kinds of risks that we take either...","Более того, даже Инфицированным нелегко доверять друг другу. И не каждый готов рисковать так, как мы..."
+line-51,,感染者诊所？,A clinic for the Infected?,Клиника для Инфицированных?
+line-54,阿米娅,啊......他们是一家只医治感染者的黑市诊所。,Azazel... They were a black-market clinic that only provided services to the Infected.,"Ах... Это была подпольная клиника, которая лечила только Инфицированных."
+line-55,阿米娅,鉴于感染者的社会地位，大家是不可能在街道上抛头露面的。,"Given the social status of the Infected, they couldn't openly reveal themselves in public.","Учитывая социальный статус Инфицированных, им невозможно открыто появляться на улицах."
+line-56,阿米娅,有些不愿被抛进隔离区的感染者，依然也会在城市里，小心翼翼地掩藏自己的身姿，苟活着......,"Some of the Infected, not wanting to be thrown into quarantine, are hiding throughout the city, just trying to survive.","Те, кто не хочет, чтобы их бросили в карантинную зону, всё равно остаются в городе, осторожно скрываясь и пытаясь выжить..."
+line-57,阿米娅,阿撒兹勒，就是向这些感染者提供服务的。,Azazel was aimed at providing services to these people.,Азазель как раз и предоставляла услуги таким Инфицированным.
+line-59,阿米娅,......它们，一定是拒绝了整合运动的合作要求。,...They must have rejected Reunion's proposals.,"...Они, должно быть, отклонили предложение о сотрудничестве от Воссоединения."
+line-60,阿米娅,博士，我之前和你说过，我们得了病吧？,"Doctor, I previously mentioned that we're all sick, right?","Доктор, я ведь говорила вам раньше, что мы больны, верно?"
+line-62,阿米娅,......这种病，不仅会杀死我们，也会让我们拥有不同于常人的力量。,"This disease will claim our lives, but it also grants us with extraordinary powers.","...Эта болезнь не только убивает нас, но и наделяет силой, которой нет у обычных людей."
+line-63,阿米娅,我不用法杖，就能释放源石技艺哦。,"For example, I can use Originium Arts without the aid of a staff.",Я могу использовать Искусства Ориджиниума даже без посоха.
+line-65,阿米娅,然而，这种病，不止在生理上，会消磨我们的生命......,"However, this disease does not only destroy our bodies...",Однако эта болезнь истощает нашу жизнь не только физически...
+line-66,阿米娅,它也会让我们再也不能像正常人一样生活。正常人的社会，会剥去你的一切。,"It also destroys any chance we have at living a normal life. Or rather, 'civilized society' strips everything away from us.",Она также лишает нас возможности жить как нормальные люди. Общество обычных людей отнимет у тебя всё.
+line-67,阿米娅,这座切尔诺伯格城，已经是所有规则的象征了。,Chernobog has been the shining beacon of this 'civility.',"Этот город, Чернобог, уже стал символом всех этих правил."
+line-68,阿米娅,驱逐感染者，消灭感染者，鄙夷感染者，恐惧感染者......,"Fearing, hating, exiling, and purging the Infected...","Изгонять Инфицированных, истреблять их, презирать их, бояться их..."
+line-70,临光,......,...,......
+line-71,临光,最后，落到如此下场。,"And, this is how it ends.",И в итоге всё пришло к этому.
+line-73,阿米娅,可是，又有多少感染者，会有机会，选择整合运动，甚至是其他的感染者组织，或者罗德岛？,"The only thing is, how many Infected were even given the option to choose between us, Reunion, or some other organization?","Но у скольких Инфицированных есть шанс выбрать Воссоединение, другие организации или даже Родос?"
+line-74,阿米娅,大多数感染者，不过是失去了所有。,Most of them simply lost everything.,Большинство Инфицированных просто теряют всё.
+line-75,阿米娅,这个诊所，大概，也曾经是最后那么几个感染者，温暖的家吧......,"Perhaps, this clinic was a warm place that some of them could call home...","Эта клиника, вероятно, была тёплым домом для тех немногих Инфицированных..."
+line-76,阿米娅,矿石病是无药可医的。至少此时此刻，感染者只能在绝望中......痛苦地失去生命。,"There is no cure for Oripathy. At least right now, the Infected can only die in despair.","Орипатия неизлечима. По крайней мере, сейчас Инфицированные могут лишь в отчаянии... мучительно умирать."
+line-77,阿米娅,而后他们的遗体......也会成为新的传染源。,And their bodies... become new sources of infection.,И после их тела... станут новыми источниками заражения.
+line-78,阿米娅,不同于常人的特殊力量，染上之后就必然会死去的可怕传染病——,With their abnormal powers and fatally infectious disease...,"Необычная сила и ужасная инфекция, от которой неизбежно умираешь после заражения —"
+line-79,阿米娅,感染者......被这片大地上的多数人所恐惧。,The Infected... are the most hated people on this planet.,Инфицированные... их боится большинство людей на этой земле.
+line-80,阿米娅,——,...,——
+line-81,阿米娅,光是这么两三句话，博士大概也没法切身体会吧。,"Doctor, you probably won't be able to understand everything just based upon my brief explanation.","Доктор, одними словами я, вероятно, не смогу заставить вас прочувствовать это в полной мере."
+line-82,阿米娅,但当你面对这些问题导致的后果时......你会明白的。,But when you see the consequences of these problems with your own eyes... you will understand.,Но когда вы столкнётесь с последствиями этих проблем... вы поймёте.
+line-84,阿米娅,你会明白，感染者的处境，究竟有多现实。,You'll see the harsh reality surrounding the Infected.,"Вы поймёте, насколько на самом деле сурово положение Инфицированных."
+line-86,杜宾,像罗德岛这样不分彼此，或是整合运动那样狂热的排外拥内的感染者组织，都很少见。,"Rhodes Island emphasizes equality for all, whereas Reunion is fanatically Infected-centric. However, organizations like ours are a rare sight.","Такие организации Инфицированных, как Родос, где нет разделения на своих и чужих, или как Воссоединение с их ярым фанатизмом, встречаются редко."
+line-87,杜宾,我能理解你的怒气，但我也能理解那个小诊所的苦衷。,"I can understand why you're angry, but it's hard not to sympathize with this little clinic.","Я понимаю твой гнев, но я также понимаю и трудности этой маленькой клиники."
+line-89,近卫干员,......我明白了。,...I see.,...Я понял.
+line-90,近卫干员,可能，他们是真的碰上了什么问题吧......,Perhaps they really ended up facing a bigger crisis than they could handle...,"Возможно, у них действительно возникли какие-то серьёзные проблемы..."
+line-92,杜宾,至少现在，我们的怨气，都该和这个诊所的曾经一样，化作粉尘。,"In any case, we should leave our anger behind, along with this clinic.","По крайней мере сейчас, наши обиды должны превратиться в пыль, как и всё то, чем когда-то была эта клиника."
+line-94,阿米娅,罗德岛的各位都是好人。也许会有很多人因畏惧与敌意，相互间产生了种种隔阂......,Rhodes Island is filled with good people. Though fear and hostility might create rifts between people...,"В Родос все — хорошие люди. Возможно, из-за страха и враждебности между многими возникают преграды..."
+line-95,阿米娅,但只要在罗德岛，大家一定能解开误会。,"I believe that all misunderstandings will be resolved, as long as we're a part of the same family.","Но пока мы в Родос, мы обязательно сможем разрешить любые недопонимания."
+line-96,阿米娅,阿撒兹勒......罗德岛，又何尝不是一个阿撒兹勒呢？,Perhaps... Rhodes Island is but another Azazel?,Азазель... Разве Родос — не такой же Азазель в своём роде?
+line-98,近卫干员,......阿米娅......,Amiya...,...Амия...
+line-100,阿米娅,我们走吧，博士。,"Let's go, Doctor.","Пойдёмте, Доктор."
