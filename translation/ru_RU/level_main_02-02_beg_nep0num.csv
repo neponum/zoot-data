@@ -1,0 +1,64 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,陈,陈,Ch'en,Чэнь
+char-2,阿米娅,阿米娅,Amiya,Амия
+char-3,凯尔希,凯尔希,Kal'tsit,Кальцит
+char-4,魏彦吾,魏彦吾,Wei Yenwu,Вэй Яньу
+,,,,
+line-1,陈,进来吧。,Come in.,Входите.
+line-10,阿米娅,......凯尔希医生！,...Dr. Kal'tsit!,...Доктор Кальцит!
+line-13,凯尔希,——阿米娅......,Amiya...,— Амия...
+line-15,凯尔希,......{@nickname}。,...{@nickname}.,...{@nickname}.
+line-16,凯尔希,你来了。,So you've come.,Ты пришёл.
+line-20,,......,......,...
+line-23,陈,咳咳。,Ahem.,Кхм-кхм.
+line-24,陈,魏长官，罗德岛的另外两位代表也到了。,"Chief Wei, the other two representatives of Rhodes Island have also arrived.","Господин Вэй, прибыли остальные два представителя Родоса."
+line-29,魏彦吾,哦，正好。,"Ah, excellent.","О, как раз вовремя."
+line-30,魏彦吾,请坐。凯尔希小姐正向我说明现在的局势呢。,Please take a seat. Miss Kal'tsit is currently explaining the situation to me.,Присаживайтесь. Госпожа Кальцит как раз разъясняла мне текущую ситуацию.
+line-32,凯尔希,那我就继续吧。关于现在的局势，我想魏先生也已经很清楚了。,"Allow me to continue then. Mister Wei, I trust that you have a good grasp of the situation already.","Тогда я продолжу. Полагаю, господин Вэй, вы и сами прекрасно понимаете нынешнее положение дел."
+line-39,凯尔希,龙门的情报网每天都在搜集大量针对整合运动的信息，想必也对这件事情极为重视。,"Currently, the Lungmen information network captures a lot of information regarding the Reunion Movement. It is good that you recognize the importance of this.","Информационная сеть Лунмэня ежедневно собирает огромные объёмы данных о Движении Воссоединения, так что вы, несомненно, придаёте этому делу большое значение."
+line-40,凯尔希,不过仅凭这样，龙门仍然还缺乏一些关键信息。,But this alone is not enough. Lungmen still lacks key information.,"Тем не менее, Лунмэню всё ещё не хватает некоторых ключевых сведений."
+line-45,陈,......,...,...
+line-47,凯尔希,简单的感染者检疫是不能对抗整合运动的，想必龙门近卫局再清楚不过。,I believe the L.G.D. knows very well that this simple quarantine is not enough to hold back Reunion.,"Простого карантина для заражённых недостаточно, чтобы противостоять Воссоединению, и Департаменту Охраны Порядка Лунмэня это должно быть известно лучше всех."
+line-48,凯尔希,整合运动不会乖乖过检，更不会等到当局反应过来才行动。所以————,"Reunion will not obediently go through the inspections, nor will they wait for the authorities to take the initiative. That's why...","Воссоединение не станет послушно проходить проверку и уж тем более не будет ждать реакции властей, прежде чем начать действовать. Поэтому —"
+line-49,凯尔希,如果没有罗德岛的协助，龙门依靠目前对待感染者的策略，抵挡接下来整合运动的攻击会面临巨大损失。,"Without Rhodes Island's assistance, Lungmen will suffer heavy losses against Reunion should you decide to pursue the same strategies against the Infected.","Без помощи Родоса, полагаясь на текущую стратегию в отношении заражённых, Лунмэнь понесёт огромные потери, отражая грядущие атаки Воссоединения."
+line-51,陈,抱歉，我需要插一句。,Pardon the interruption.,"Прошу прощения, я должна вмешаться."
+line-52,陈,关于龙门的防卫情报，龙门近卫局方面比罗德岛更了解。对于整合运动的渗透，也已经做了相应准备。,The L.G.D. understands Lungmen's defenses better than Rhodes Island does. We've already made preparations to deal with possible infiltration from Reunion.,"Что касается оборонной информации Лунмэня, Департамент Охраны Порядка осведомлён о ней лучше, чем Родос. Мы уже приняли соответствующие меры против проникновения Воссоединения."
+line-53,陈,只是龙门目前没有将相关机密行动的方针通知罗德岛的义务。,"We, however, are not obliged to provide you with confidential information regarding our operations.",Просто у Лунмэня сейчас нет обязательств уведомлять Родос о курсе своих секретных операций.
+line-55,魏彦吾,......,...,...
+line-56,魏彦吾,凯尔希小姐，请继续说。,"Miss Kal'tsit, please continue.","Госпожа Кальцит, пожалуйста, продолжайте."
+line-58,凯尔希,龙门的确有对付手无寸铁的感染者的经验，但恐怕龙门目前没有面对集团化感染者暴徒的经验，这可能会让龙门造成不必要的损失。,"While it is true that Lungmen has been successful in dealing with unarmed Infected so far, you have not dealt with this scale of organized rioting before. This may result in unnecessary losses.","У Лунмэня действительно есть опыт борьбы с безоружными заражёнными, но боюсь, что опыта противостояния организованным группам бунтовщиков у вас нет, что может привести к неоправданным потерям."
+line-59,凯尔希,以罗德岛目前的经验来说————只有感染者，才能更好对抗感染者。,From our experience... Only the Infected are capable of countering the Infected.,Основываясь на опыте Rhodes Island — только заражённые могут эффективно противостоять заражённым.
+line-61,魏彦吾,那么，罗德岛是否已经从针对整合运动的行动中获得了有效的经验？,"To my understand, Rhodes Island has some special expertise in countering Reunion?","В таком случае, удалось ли Родосу получить реальный опыт в операциях против Воссоединения?"
+line-67,凯尔希,仅仅是有而已，大概是不敢自称专家的。,"We do have experience, but I wouldn't call it expertise.",Всего лишь некоторый опыт; вряд ли мы можем называть себя экспертами.
+line-70,魏彦吾,哦——？,Oh...?,О-о?
+line-71,魏彦吾,我听说，罗德岛曾卷入过切尔诺伯格事件，并且从中也获得了不少整合运动的其他情报。,"I've been told that Rhodes Island was involved with the Chernobog incident, and managed to obtain a lot of intel about Reunion.","Я слышал, что Родос был вовлечён в инцидент в Чернобоге и в процессе получил немало других разведданных о Воссоединении."
+line-75,凯尔希,无论魏先生是从哪里得到这条消息的——,No matter where you heard that from...,Откуда бы господин Вэй ни получил эту информацию —
+line-76,凯尔希,这都不是现阶段能与龙门交换的信息。这只是履历，只是站在这里与魏先生交谈的资格。,"At this stage, that information is not up for exchange. It is but a part of our resume, a qualification that allows us to speak to you, Mister Wei.","Это не та информация, которой мы можем обменяться с Лунмэнем на данном этапе. Это лишь послужной список — подтверждение нашего права вести с вами переговоры."
+line-78,魏彦吾,决定是否要和你们进行利益交换的是龙门。如果这种程度的信息罗德岛都无法提供的话——,It is Lungmen that will decide whether or not we will exchange information. If Rhodes Island cannot even provide us with this level of information...,"Именно Лунмэнь решает, стоит ли заключать с вами сделку. Если Родос не может предоставить даже такую информацию, то..."
+line-79,魏彦吾,呵。,Hah.,Хм.
+line-80,魏彦吾,龙门将无法信任你们的真实实力。,"In that case, we simply have no basis for trusting your capabilities.",Лунмэнь не сможет доверять вашим истинным способностям.
+line-86,凯尔希,魏先生，我的言辞可能不够清晰。,"Mister Wei, I apologise if my words were not clear enough.","Господин Вэй, возможно, я выразилась недостаточно ясно."
+line-87,凯尔希,不过需要强调的是——罗德岛提供的信息，本身就是用实力换来的。,"What I must emphasize is... the only reason Rhodes Island has this information, is because we were strong enough to obtain it.","Но стоит подчеркнуть: информация, предоставляемая Родос, сама по себе является результатом применения нашей силы."
+line-89,陈,但，无论怎样，龙门都无法信任同样是一群感染者的罗德岛。,"Whatever the case may be, Lungmen cannot simply trust another group of Infected.","Но как бы то ни было, Лунмэнь не может доверять Rhodes Island, которые сами являются группой заражённых."
+line-91,凯尔希,如果陈小姐认为龙门的安危，尚不如对感染者进行盲目的惩罚来得重要————,"Miss Ch'en, if you believe that doling out punishment to the Infected is more important than the actual security of Lungmen...","Если госпожа Чэнь считает, что безопасность Лунмэня менее важна, чем слепая кара заражённых —"
+line-92,凯尔希,那我会立刻服从本地法令，任由陈小姐逮捕我，然后在监牢里看着龙门被整合运动焚烧殆尽，默默惋惜。,"Then I will immediately surrender myself in accordance with your local laws. Then, I will sigh from my jail while watching Reunion burn down your city.","Тогда я немедленно подчинюсь местным законам и позволю госпоже Чэнь арестовать меня, а затем буду из тюремной камеры с тихим сожалением наблюдать за тем, как Воссоединение сжигает Лунмэнь дотла."
+line-93,凯尔希,这次，龙门别无选择。,"This time, Lungmen doesn't have a choice.",В этот раз у Лунмэня нет выбора.
+line-98,陈,——龙门既不是因为有人出言不逊就拒绝善意的城市——,Your good intentions are not lost upon us despite your rudeness.,"— Лунмэнь не тот город, который отвергает добрые намерения только из-за чьей-то дерзости —"
+line-99,陈,却也不是收留无用说客的慈善机构。,"However, we also are not a charity for useless lobbyists.","— но и не благотворительная организация, приютившая бесполезных краснобаев."
+line-101,魏彦吾,陈警官。,Madam Ch'en.,Офицер Чэнь.
+line-103,陈,魏长官，让外来的感染者参与龙门的机密事务，我认为并不妥当。,"Chief Wei, I believe it is inappropriate for these outsiders to get involved with Lungmen's confidential matters.","Господин Вэй, я считаю неуместным допускать посторонних заражённых к секретным делам Лунмэня."
+line-105,魏彦吾,冷静些，陈警官，他们是客人。,"Calm down, Madam Ch'en. They are still our guests.","Успокойтесь, офицер Чэнь, они — гости."
+line-106,魏彦吾,——我的客人。,... My guests.,— Мои гости.
+line-108,陈,.....,...,...
+line-109,陈,是。,Very well.,Слушаюсь.
+line-111,陈,在他们违反龙门法律之前，我会容忍，长官。,"Unless they've violated our laws, I will tolerate them, Sir.","Я буду терпеть их, пока они не нарушат законы Лунмэня, сэр."
+line-113,魏彦吾,啊，不好意思。我想起来了，有这么一句——,"Ah, excuse me. I just remembered...","Ах, прошу прощения. Я вспомнил одну фразу..."
+line-114,魏彦吾,——没错，呣......,That's right. Hmm...,"— Верно, хм..."
+line-115,魏彦吾,我所看重的就只有一点。,There is one thing that I care about.,"Есть только одна вещь, которую я ценю."
+line-116,魏彦吾,实力。,Your ability.,Сила.
+line-117,魏彦吾,据我所知，罗德岛也参与清剿了附近的感染者吧？,"To my understanding, Rhodes Island is also assisting with suppressing the nearby Infected?","Насколько мне известно, Родос также участвовал в зачистке заражённых в окрестностях?"
+line-118,魏彦吾,陈警官，以目前确切了解的情报，罗德岛在军事力量的实力如何？,"Madam Ch'en, based upon your best information, how would you assess Rhodes Island's combat abilities?","Офицер Чэнь, согласно имеющимся разведданным, каков военный потенциал Родоса?"
+line-120,陈,......请容我简要描述一下我所见的罗德岛的行动情况。,... Allow me to describe what I've witnessed from Rhodes Island's operations.,"...Позвольте мне вкратце описать действия Rhodes Island, свидетелем которых я стала."
+line-121,陈,——详情如下——,Here are the details...,— Подробности таковы: —
