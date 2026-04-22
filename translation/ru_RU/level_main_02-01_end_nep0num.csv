@@ -1,0 +1,78 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,？？？,？？？,???,？？？
+char-2,广播,广播,Broadcast,Диспетчер
+char-3,阿米娅,阿米娅,Amiya,Амия
+char-4,陈,陈,Ch'en,Чэнь
+char-5,近卫局队员,近卫局队员,L.G.D. Agent,Боец Департамента Охраны
+char-6,普通市民,普通市民,Civilian,Горожанин
+char-7,感染者,感染者,Infected,Заражённый
+,,,,
+line-5,,"10:14 p.m. \ 晴 \ 能见度 19公里 ",10:14 P.M. \ Clear \ Visibility: 19 km,22:14 \ Ясно \ Видимость: 19 км
+line-6,,龙门5区外 检疫口,"Lungmen, District 5- Inspection and Quarantine Zone","Карантинный пункт, окраина 5-го района Лунмэня"
+line-10,？？？,长官。,Madam.,Мадам.
+line-12,？？？,他们来了。,They're here.,Они прибыли.
+line-14,？？？,......,......,......
+line-18,广播,请注意——,"Attention, please...",Внимание...
+line-19,广播,受天灾影响，龙门全域处于停航状态。龙门5区所有入城关口将于2小时后关闭。,"Due to the Catastrophe's interference, all air traffic in Lungmen has been stopped. All entrances to District 5 will be closed in two hours.",В связи с последствиями Катастрофы движение транспорта по всему Лунмэню приостановлено. Все контрольно-пропускные пункты 5-го района будут закрыты через 2 часа.
+line-20,广播,请积极配合工作人员进行矿石病检疫。,We thank you for your cooperation during Oripathy inspections.,Просим всех проявлять содействие персоналу при прохождении карантинного осмотра на наличие Орипатии.
+line-21,广播,一旦发现任何未经登记的感染者，请广大市民立刻向最近的警员通报，,"If you discover any unregistered Infected, please inform a nearby peace officer immediately.","В случае обнаружения незарегистрированных заражённых, просим граждан немедленно сообщить об этом ближайшему сотруднику полиции."
+line-22,广播,近卫局将依照《紧急处理法案》依法对其进行拘捕。,The L.G.D. will detain them in accordance with the 'Emergency Handling Act.',Департамент Охраны Лунмэня произведёт арест в соответствии с «Законом о чрезвычайных ситуациях».
+line-23,广播,请注意——,"Attention, please...",Внимание...
+line-26,阿米娅,和传闻中一样......,It's just like the rumors said...,Всё как и говорят слухи...
+line-28,阿米娅,走吧，博士。,"Let's go, Doctor.","Пойдёмте, Доктор."
+line-29,阿米娅,我们到了。,We're here.,Мы на месте.
+line-32,？？？,罗德岛与近卫局约好在十点见面。,Rhodes Island was scheduled to meet with the L.G.D. at 10 o'clock.,Родос и Департамент Охраны договорились встретиться в десять.
+line-33,？？？,现在是十点十四。,It's 10:14 now.,Сейчас десять четырнадцать.
+line-35,？？？,你们迟到了十四分钟，无谓地浪费了我十四分钟时间。,"You were late 14 minutes; therefore, you've wasted 14 minutes of my time.","Вы опоздали на четырнадцать минут, впустую потратив четырнадцать минут моего времени."
+line-37,阿米娅,......抱歉，陈长官，这片区域刚才有整合————,"...I'm sorry, Madam Ch'en, we just found out that Reunion is here...","...Прошу прощения, офицер Чэнь, в этом районе только что были силы Воссоединения..."
+line-39,陈,行了，我知道。不过这些都不重要。,"It's fine, I already know. But that's not important right now.","Довольно, я знаю. Но это неважно."
+line-41,陈,——这个人是？,...Who might this be?,— А это кто?
+line-43,阿米娅,Dr.{@nickname}是罗德岛的顾问。凯尔希医生应该通知过龙门的各位。,Dr. {@nickname} is Rhodes Island's consultant. Dr. Kal'tsit should already have informed you.,Доктор {@nickname} — советник Родоса. Доктор Кальцит должна была уведомить власти Лунмэня.
+line-45,陈,哼.......,Hmm...,Хм...
+line-46,陈,好了，人已经到齐，现在你们需要跟我去见——,"Well, since everyone is here, I'll now need you to follow me to...","Итак, все в сборе, теперь вам нужно пойти со мной на встречу с..."
+line-49,近卫局队员,陈长官！不好了！不好——感染者——那又——,Madam Ch'en! It's an emergency! Those Infected... they're not...,Офицер Чэнь! Беда! Беда... Заражённые... Снова...
+line-52,陈,慌什么！,Don't panic!,Без паники!
+line-53,陈,一队，戒备！狙击队员，就位！,"First Squad, standby! Snipers, get into position!","Первый отряд, в караул! Снайперы, на позиции!"
+line-56,普通市民,发生，发生什么了！,Wh-what's happening?!,"Что, что происходит?!"
+line-57,感染者,放开我！！,Let go of me! !,Отпустите меня!!
+line-59,陈,啧......怎么回事，汇报情况。,Tch... What's going on? Report the situation.,Тц... Что случилось? Докладывайте.
+line-63,感染者,让我过去！！为什么要抓我！！,Let me go! ! Why are you arresting me? !,Пропустите меня!! Почему вы меня задерживаете?!
+line-64,感染者,我们不是怪物！！！,We didn't do anything wrong! ! !,Мы не монстры!!!
+line-66,近卫局队员,有感染者——不服从管理——我们——,Some Infected... are refusing to be taken in... We're...,Группа заражённых... не подчиняются приказам... мы...
+line-68,陈,......我自己都看到了。,I can see that...,...Я и сама вижу.
+line-69,陈,算了。,Forget it.,Ладно.
+line-71,陈,把他们全部拘押。,Detain them all.,Взять их всех под стражу.
+line-72,陈,立刻疏散人群，半小时后通过复查流程后，再开放关口。,Disperse the crowd immediately. Open the gates in 30 minutes after you finish the review process.,Немедленно эвакуировать толпу. Открыть ворота через полчаса после завершения повторной проверки.
+line-73,陈,还有，把检疫口检查线向前推四十米。,"Also, push the quarantine inspection line forward 40 meters.","И ещё, передвиньте контрольную линию карантина на сорок метров вперёд."
+line-78,陈,罗德岛的，除了你和Dr.{@nickname}，其他人不需要一起同行，留在这里协助龙门边防进行驻守。,"Other than you and Dr. {@nickname}, the rest of Rhodes Island will stay here and assist with border security. The two of you, come with me.","Сотрудники Родоса, кроме тебя и Доктора {@nickname}, остальные остаются здесь помогать пограничной охране Лунмэня."
+line-79,陈,要是连这点小事都处理不好，无论是什么任务，我可都没法交给你们。,"If your group can't handle such a trivial task, I will not be able to assign you any missions.","Если вы не в состоянии справиться даже с такой мелочью, я не смогу доверить вам ни одного задания."
+line-80,陈,PC94172，你给这些人安排一下任务，今晚不要再出乱子了。,"PC94172, arrange some work for these people. I don't want to see any more trouble tonight.","PC94172, распредели задачи. Чтобы сегодня больше никаких беспорядков."
+line-82,近卫局队员,明白，陈警司！,"Understood, Madam!","Слушаюсь, инспектор Чэнь!"
+line-84,近卫局队员,诸位，请注意......,"Everyone, I'd like you to...","Господа, прошу внимания..."
+line-88,阿米娅,......,...,......
+line-89,阿米娅,（陈长官真的很严格......比我想象的要严格......）,(Madam Ch'en is really tough... she's stricter than I imagined...),"(Офицер Чэнь очень строгая... Даже строже, чем я представляла...)"
+line-90,,......（点头）,... (Nod),... (кивает)
+line-93,陈,你们，,You two.,"Вы двое,"
+line-95,陈,跟我来。——,Follow me.,следуйте за мной. —
+line-104,陈,到了。,We're here.,Пришли.
+line-113,阿米娅,好，好高的建筑！,Wh-what a tall building!,Какое... какое высокое здание!
+line-115,陈,......,...,......
+line-117,阿米娅,唔......,Ugh...,М-м...
+line-119,阿米娅,对，对不......,S-sorry...,Про-простите...
+line-121,陈,——罗德岛的身手还算不错。,... Rhodes Island is undoubtedly capable.,— А Родос весьма недурно двигается.
+line-123,阿米娅,啊......,Oh...,А...
+line-124,阿米娅,谢谢陈长官夸奖。,"Thank you for your praise, Madam.","Благодарю за похвалу, офицер Чэнь."
+line-126,陈,只不过——,However...,Только вот...
+line-127,陈,切尔诺伯格事件发生之后，什么人都疯了一样地向龙门跑。,"After the Chernobog incident, there's been a massive surge of refugees into Lungmen.",После событий в Чернобоге все словно с ума сошли и ринулись в Лунмэнь.
+line-128,陈,感染者就该清楚，来龙门会有什么下场。,The Infected should already know what the consequences of entering Lungmen are.,"Заражённым стоит осознать, что их ждёт в Лунмэне."
+line-138,？？？,我再提醒你一次。,I'll remind you once more.,Напоминаю ещё раз.
+line-139,？？？,龙门就是下一个切尔诺伯格。,Lungmen is the next Chernobog.,Лунмэнь — следующий Чернобог.
+line-141,阿米娅,是凯尔希医生......！,Dr. Kal'tsit...!,Это доктор Кальцит...!
+line-143,陈,你们罗德岛的代表已经和魏长官先行接触了。,Rhodes Island's representative has already met with Chief Wei.,Представитель Родос уже начала переговоры с наместником Вэем.
+line-144,陈,在这里等着。,Please wait here.,Ждите здесь.
+line-145,陈,我一会儿通知你们。,I'll notify you shortly.,Я позову вас через минуту.
+line-150,阿米娅,呼......那个陈警官，真的很难应付呢。,Phew... she's really hard to talk to.,Фух... С инспектором Чэнь действительно непросто иметь дело.
+line-152,阿米娅,博士，接下来的交涉就交给凯尔希医生。,"Dr. {@nickname}, from here on, Dr. Kal'tsit will be handling the negotiations.","Доктор, дальнейшие переговоры предоставим доктору Кальцит."
+line-153,阿米娅,请相信她吧。,Please have confidence in her.,"Пожалуйста, доверьтесь ей."
