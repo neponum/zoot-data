@@ -1,0 +1,40 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,PRTS,PRTS,PRTS,PRTS
+char-2,阿米娅,阿米娅,Amiya,Амия
+char-3,杜宾,杜宾,Dobermann,Доберман
+,,,,
+line-2,,"5:57 a.m. \ 多云 \ 能见度 17公里 ",5:57 A.M. \ Cloudy \ Visibility: 17 km,05:57 утра \ Облачно \ Видимость 17 км
+line-3,,"龙门外环外4公里，荒漠 ",Desert; 4 km from the outskirts of Lungmen,"Пустоши; 4 км от внешнего кольца Лунмэня "
+line-4,,"切尔诺伯格营救行动 结束后4天 ",4 days after the Chernobog rescue mission,4 дня после завершения операции по спасению в Чернобоге
+line-9,PRTS,"Dr.{@nickname}, 早上好。您已经休息了99999999————","Good morning, Dr. {@nickname}. You have currently been sleeping for 99999----","Доктор {@nickname}, доброе утро. Вы отдыхали 99999999————"
+line-10,PRTS,————个小时。,----9999 hours.,———— часов.
+line-11,PRTS,虽然我知道您很不愿意起床，不过有人需要您立刻前往作战会议室。,"Although your reluctance to leave bed is not beyond reason, your presence is urgently needed at the operations command room.","Хотя я понимаю ваше нежелание просыпаться, кое-кто ждет вашего немедленного прибытия в зал совещаний."
+line-12,PRTS,另外来自凯尔希医生的医学建议，希望您多开窗保持通风，并且进入甲板晒太阳以平衡维生素D。,"Furthermore, here is some medical advice from Dr. Kal'tsit: Please keep the windows open to maintain a source of fresh air, and spend some time on the deck to maintain healthy levels of Vitamin D.","Кроме того, поступила медицинская рекомендация от доктора Кальцит: вам советуют чаще открывать окна для проветривания, а также выходить на палубу, чтобы принимать солнечные ванны для восполнения уровня витамина D."
+line-27,阿米娅,啊，是博士！早啊。,"Ah, Doctor! Good morning.","О, это Доктор! Доброе утро."
+line-29,杜宾,{@nickname}博士，你来了。,"So you made it, Dr. {@nickname}.","Доктор {@nickname}, вы пришли."
+line-31,阿米娅,博士身体好些了吗？,"Doctor, are you feeling better now?","Доктор, как ваше самочувствие?"
+line-33,阿米娅,昨天看你好像还有些伤痛，行动不太方便。,You looked like you were still in pain and and couldn't move around well yesterday.,"Вчера казалось, что вы все еще страдаете от боли и вам было трудно двигаться."
+line-34,,我已经完全恢复了。你呢？,I've made a complete recovery. How about you?,Я полностью восстановился. А ты?
+line-37,阿米娅,感觉今天活力满满的，已经没什么问题了！,I'm perfectly fine and full of energy today!,"Сегодня я полна энергии, со мной уже все в порядке!"
+line-39,阿米娅,毕竟接下来，我们还有别的任务......,"After all, we still have other missions to take care of...","В конце концов, впереди нас ждут новые задания..."
+line-41,阿米娅,需要早点做好准备。博士也要把快速调整当成常态哦。,"So the sooner we can start preparing, the better. Doctor, you should get used to having to shift gears quickly here.","Нужно подготовиться заранее. Доктор, вам тоже следует привыкнуть к необходимости быстрой адаптации."
+line-43,杜宾,博士。,"Doctor,",Доктор.
+line-44,杜宾,之前我们在切城的行动，虽然遭受了很大损失，但是获得了不少关于整合运动的情报，而且还救出了博士您。,"Even though we sustained heavy losses in Chernobog, we gained a lot of information about Reunion and, more importantly, got you out alive.","Несмотря на то, что в ходе операции в Чернобоге мы понесли значительные потери, нам удалось добыть немало сведений о Воссоединении, а также спасти вас."
+line-45,杜宾,根据昨天会谈的结果，我们最近的移动城市————“龙门”，已向我们发送了一份合作框架协议，同意与我们交换情报。,"Based on the negotiations we had yesterday, the closest nomadic city to us, Lungmen, has offered us a cooperation pact and agreed to exchange information with us.","Согласно результатам вчерашних переговоров, Лунмэнь — ближайший к нам мобильный город — направил нам проект рамочного соглашения о сотрудничестве и согласился на обмен разведданными."
+line-46,杜宾,而有迹象显示“龙门”已经成为整合运动下一个行动目标。,We have some evidence that Reunion might be targeting Lungmen next.,"И есть признаки того, что Лунмэнь уже стал следующей целью Воссоединения."
+line-47,杜宾,关于其他的内容，还需经过尚在龙门城内的凯尔希医生同意后，才能定下来。,We'll have to wait for Dr. Kal'tsit's permission first before we can get the rest of the information. She's still stationed within Lungmen.,"Остальные детали будут утверждены только после согласования с доктором Кальцит, которая все еще находится в Лунмэне."
+line-49,阿米娅,龙门暂时答应了我们停泊在城市附近的要求，然后他们愿意给予一部分我们在行动中损失的物资，以及消耗的补给。,Lungmen has granted us permission to temporary camp near the city. They've also agreed to compensate a portion of our losses and expenditures during the operation.,"Лунмэнь временно удовлетворил наш запрос на стоянку вблизи города. Они также готовы возместить часть припасов и ресурсов, утраченных нами в ходе операции."
+line-50,阿米娅,作为交换，罗德岛需要协助龙门，进行城市外环的一些临时性防卫工作。,"In exchanges, Rhodes Island is expected to help defend the city's outskirts.",В обмен на это Родос должен оказать содействие Лунмэню в обеспечении временной обороны внешнего кольца города.
+line-52,阿米娅,不过今天这么早是因为......,But the reason why I called for you so early is...,"Но причина, по которой мы собрались так рано..."
+line-54,杜宾,我来说吧，阿米娅。,"Let me explain it, Amiya.","Позволь мне продолжить, Амия."
+line-55,杜宾,从昨天晚上开始，又有一波切尔诺伯格的幸存者在荒野中被发现，他们正在移动前往龙门，预计下午到达。,"Last night, we discovered another wave of Chernobog survivors making their way towards Lungmen. They're expected to get there in the afternoon.","Со вчерашнего вечера в пустошах была обнаружена еще одна группа выживших из Чернобога. Они направляются к Лунмэню и, как ожидается, прибудут во второй половине дня."
+line-56,杜宾,和之前几天一样，我们仍然需要对龙门5区的外围进行防卫工作，只不过这次，可能会混入更多的整合运动。,"We'll be expected to safeguard the outskirts of District 5 just like the last few days. Only this time, there might be more Reunion members mixed into the group.","Как и в предыдущие дни, нам все еще нужно охранять периметр 5-го района Лунмэня, однако на этот раз среди выживших может скрываться больше членов Воссоединения."
+line-57,杜宾,战况有所不同，我们在出发之前需要告诉您一种新的战术策略。,"Because the situation is a bit different, we'll need to discuss some new tactics with you before beginning the operation.","Ситуация на поле боя изменилась, поэтому перед отправлением нам нужно ознакомить вас с новой тактикой."
+line-59,阿米娅,那么博士，今天还请多多指教......,"Anyway, Doctor, there's a lot to get through today, so...","Что ж, Доктор, сегодня я снова рассчитываю на ваше руководство..."
+line-60,阿米娅,加油！,Let's do our best!,Удачи!
+line-62,杜宾,那么......,In any case...,Итак...
+line-67,杜宾,请你们各自完成出发前的准备。博士请把准备好的编队配置命令下达给其他干员，让他们做好准备。,"Both of you, please complete your combat preparations. Doctor, once you've decided on your squad assignments, please let the operators know so that they also have time to prepare.","Пожалуйста, завершите все приготовления к отправке. Доктор, передайте приказы о формировании отрядов остальным оперативникам, чтобы они подготовились."
+line-68,杜宾,完成演习后15分钟出发。,We'll set out 15 minutes after you finish your drills.,Отправление через 15 минут после завершения учений.
+line-73,杜宾,这次，千万不要迟到。,"Oh, and make sure you're not late this time.","На этот раз, пожалуйста, не опаздывайте."
