@@ -7,7 +7,7 @@ char-3,米莎,米莎,Misha,Миша
 char-4,德克萨斯,德克萨斯,Texas,Техас
 char-5,碎骨,碎骨,Skullshatterer,Скуллшаттерер
 char-6,整合运动成员,整合运动成员,Reunion Member,Участник Воссоединения
-char-7,能天使,能天使,Exusiai,Эксусиа
+char-7,能天使,能天使,Exusiai,Эксусия
 char-8,雷蛇,雷蛇,Liskarm,Лискарм
 ,,,,
 line-5,芙兰卡,阿米娅！走！,Amiya! Hurry!,Амия! Уходим!
@@ -37,7 +37,7 @@ line-50,德克萨斯,标记是这么写的。,That's what the markings say.,Та
 line-52,芙兰卡,可这......这是向上啊？,"But... this route is heading up, isn't it?",Но это же... наверх?
 line-53,芙兰卡,纵向移动，真的会有用吗？,How's that going to help us?,Вертикальное перемещение правда поможет?
 line-56,能天使,阿米娅，阿米娅！上来，对对，就是上面！,"Amiya, Amiya! Up here, that's right, come up here!","Амия, Амия! Сюда, да-да, наверх!"
-line-59,阿米娅,——能天使！,--Exusiai!,— Эксусиа!
+line-59,阿米娅,——能天使！,--Exusiai!,— Эксусия!
 line-60,阿米娅,你......确定吗？,Are you certain...?,Ты... уверена?
 line-63,能天使,相信我，不会有错的~,"Trust me, I wouldn't mess up~","Поверь мне, ошибки быть не может~"
 line-64,能天使,龙门的路，我实在是太熟啦！,I know Lungmen's roads like the back of my hand!,Я слишком хорошо знаю дороги Лунмэня!
@@ -63,5 +63,5 @@ line-106,米莎,......,...,...
 line-108,德克萨斯,呼。,Phew...,*Фух*.
 line-109,德克萨斯,喂，你。,"Hey, you.","Эй, ты."
 line-110,,......,......,...
-line-113,德克萨斯,你就是罗德岛的那位Dr.{@nickname}？,Are you Dr. {@nickname} of Rhodes Island?,Ты и есть тот самый Доктор {@nickname} из Родос Айленд?
+line-113,德克萨斯,你就是罗德岛的那位Dr.{@nickname}？,Are you Dr. {@nickname} of Rhodes Island?,Ты и есть тот самый Доктор {@nickname} из Родоса?
 line-114,德克萨斯,看起来你不太喜欢爬楼。,You don't seem to like climbing stairs.,"Похоже, ты не большой любитель ходить по лестницам."
