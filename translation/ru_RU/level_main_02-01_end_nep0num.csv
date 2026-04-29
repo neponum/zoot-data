@@ -5,7 +5,7 @@ char-1,？？？,？？？,???,？？？
 char-2,广播,广播,Broadcast,Диспетчер
 char-3,阿米娅,阿米娅,Amiya,Амия
 char-4,陈,陈,Ch'en,Чэнь
-char-5,近卫局队员,近卫局队员,L.G.D. Agent,Боец Департамента Охраны
+char-5,近卫局队员,近卫局队员,L.G.D. Agent,Сотрудник ЛОД
 char-6,普通市民,普通市民,Civilian,Горожанин
 char-7,感染者,感染者,Infected,Заражённый
 ,,,,
@@ -13,7 +13,7 @@ line-5,,"10:14 p.m. \ 晴 \ 能见度 19公里 ",10:14 P.M. \ Clear \ Visibility
 line-6,,龙门5区外 检疫口,"Lungmen, District 5- Inspection and Quarantine Zone","Карантинный пункт, окраина 5-го района Лунмэня"
 line-10,？？？,长官。,Madam.,Мадам.
 line-12,？？？,他们来了。,They're here.,Они прибыли.
-line-14,？？？,......,......,......
+line-14,？？？,......,......,
 line-18,广播,请注意——,"Attention, please...",Внимание...
 line-19,广播,受天灾影响，龙门全域处于停航状态。龙门5区所有入城关口将于2小时后关闭。,"Due to the Catastrophe's interference, all air traffic in Lungmen has been stopped. All entrances to District 5 will be closed in two hours.",В связи с последствиями Катастрофы движение транспорта по всему Лунмэню приостановлено. Все контрольно-пропускные пункты 5-го района будут закрыты через 2 часа.
 line-20,广播,请积极配合工作人员进行矿石病检疫。,We thank you for your cooperation during Oripathy inspections.,Просим всех проявлять содействие персоналу при прохождении карантинного осмотра на наличие Орипатии.
@@ -23,9 +23,9 @@ line-23,广播,请注意——,"Attention, please...",Внимание...
 line-26,阿米娅,和传闻中一样......,It's just like the rumors said...,Всё как и говорят слухи...
 line-28,阿米娅,走吧，博士。,"Let's go, Doctor.","Пойдёмте, Доктор."
 line-29,阿米娅,我们到了。,We're here.,Мы на месте.
-line-32,？？？,罗德岛与近卫局约好在十点见面。,Rhodes Island was scheduled to meet with the L.G.D. at 10 o'clock.,Родос и Департамент Охраны договорились встретиться в десять.
+line-32,？？？,罗德岛与近卫局约好在十点见面。,Rhodes Island was scheduled to meet with the L.G.D. at 10 o'clock.,Родос и ДОЛ договорились встретиться в десять.
 line-33,？？？,现在是十点十四。,It's 10:14 now.,Сейчас десять четырнадцать.
-line-35,？？？,你们迟到了十四分钟，无谓地浪费了我十四分钟时间。,"You were late 14 minutes; therefore, you've wasted 14 minutes of my time.","Вы опоздали на четырнадцать минут, впустую потратив четырнадцать минут моего времени."
+line-35,？？？,你们迟到了十四分钟，无谓地浪费了我十四分钟时间。,"You were late 14 minutes; therefore, you've wasted 14 minutes of my time.","Вы опоздали на четырнадцать минут, впустую потратив моё время."
 line-37,阿米娅,......抱歉，陈长官，这片区域刚才有整合————,"...I'm sorry, Madam Ch'en, we just found out that Reunion is here...","...Прошу прощения, офицер Чэнь, в этом районе только что были силы Воссоединения..."
 line-39,陈,行了，我知道。不过这些都不重要。,"It's fine, I already know. But that's not important right now.","Довольно, я знаю. Но это неважно."
 line-41,陈,——这个人是？,...Who might this be?,— А это кто?
@@ -46,7 +46,7 @@ line-69,陈,算了。,Forget it.,Ладно.
 line-71,陈,把他们全部拘押。,Detain them all.,Взять их всех под стражу.
 line-72,陈,立刻疏散人群，半小时后通过复查流程后，再开放关口。,Disperse the crowd immediately. Open the gates in 30 minutes after you finish the review process.,Немедленно эвакуировать толпу. Открыть ворота через полчаса после завершения повторной проверки.
 line-73,陈,还有，把检疫口检查线向前推四十米。,"Also, push the quarantine inspection line forward 40 meters.","И ещё, передвиньте контрольную линию карантина на сорок метров вперёд."
-line-78,陈,罗德岛的，除了你和Dr.{@nickname}，其他人不需要一起同行，留在这里协助龙门边防进行驻守。,"Other than you and Dr. {@nickname}, the rest of Rhodes Island will stay here and assist with border security. The two of you, come with me.","Сотрудники Родоса, кроме тебя и Доктора {@nickname}, остальные остаются здесь помогать пограничной охране Лунмэня."
+line-78,陈,罗德岛的，除了你和Dr.{@nickname}，其他人不需要一起同行，留在这里协助龙门边防进行驻守。,"Other than you and Dr. {@nickname}, the rest of Rhodes Island will stay here and assist with border security. The two of you, come with me.","Сотрудники Родоса, кроме тебя и Доктора {@nickname}, остаются здесь помогать охране Лунмэня."
 line-79,陈,要是连这点小事都处理不好，无论是什么任务，我可都没法交给你们。,"If your group can't handle such a trivial task, I will not be able to assign you any missions.","Если вы не в состоянии справиться даже с такой мелочью, я не смогу доверить вам ни одного задания."
 line-80,陈,PC94172，你给这些人安排一下任务，今晚不要再出乱子了。,"PC94172, arrange some work for these people. I don't want to see any more trouble tonight.","PC94172, распредели задачи. Чтобы сегодня больше никаких беспорядков."
 line-82,近卫局队员,明白，陈警司！,"Understood, Madam!","Слушаюсь, инспектор Чэнь!"
