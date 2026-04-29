@@ -1,0 +1,59 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,近卫局队员,近卫局队员,L.G.D. Agent,Сотрудник Л.Д.О.
+char-2,陈,陈,Ch'en,Чэнь
+char-3,阿米娅,阿米娅,Amiya,Амия
+char-4,整合运动嫌疑人,整合运动嫌疑人,Reunion Suspect,Подозреваемый из Воссоединения
+char-5,芙兰卡,芙兰卡,Franka,Франка
+,,,,
+line-5,近卫局队员,长官——,Madam...,Офицер—
+line-7,陈,说。,Speak.,Докладывай.
+line-9,近卫局队员,整合运动的大部队已经撤退。,Most of Reunion's forces have retreated already.,Основные силы Воссоединения отступили.
+line-11,阿米娅,陈长官，我这边也处理完毕了。,"Madam Ch'en, we're also done here.","Офицер Чэнь, я со своей стороны тоже закончила."
+line-13,陈,——————啧。,Tsk...,——————Тц.
+line-14,陈,前些天抓住的那些整合运动嫌疑人——,About those Reunion suspects that we rounded up a few days ago...,"Те подозреваемые из Воссоединения, которых мы схватили на днях..."
+line-15,陈,刑讯科问出什么没有？,Have we been able to get any information out of them?,Отдел допросов смог что-нибудь из них вытянуть?
+line-22,整合运动嫌疑人,......,...,......
+line-23,近卫局队员,这把弩，你眼熟吗？,Does this crossbow look familiar to you?,Этот арбалет тебе знаком?
+line-24,整合运动嫌疑人,......,...,......
+line-25,近卫局队员,你能拉得动这把弩？,"You're able to draw it, aren't you?",Ты вообще в силах натянуть тетиву этого арбалета?
+line-26,近卫局队员,这个弹药是什么构造，怎么回事？,What's the structure of the ammunition? How does it work?,Как устроены эти боеприпасы? В чём секрет?
+line-27,近卫局队员,你们在贫民区做些什么？,What were you doing in the slums?,Что вы делали в трущобах?
+line-28,近卫局队员,你来龙门，又要做些什么？,What were you doing in Lungmen?,Зачем ты прибыл в Лунмэнь?
+line-29,整合运动嫌疑人,......,...,......
+line-36,近卫局队员,......没有。,...Nothing.,......Никаких результатов.
+line-37,近卫局队员,那些人什么都不说。,They won't say a word.,Они ничего не говорят.
+line-38,近卫局队员,或者说......他们可能什么都不知道吧。,Or perhaps... they just don't know anything.,"Или же... возможно, они и правда ничего не знают."
+line-39,近卫局队员,就和刚刚解决的整合运动一样，应该都是些听话的喽啰。,"Like the other Reunion members we defeated, they're probably nothing more than obedient puppets.","Как и те бойцы Воссоединения, с которыми мы только что разобрались — скорее всего, просто послушные пешки."
+line-41,陈,——让他们指认。,...Make them speak.,— Заставьте их опознать цели.
+line-42,陈,用点方法也不要紧。,Use any methods necessary.,Методы допроса не имеют значения.
+line-43,陈,小队信息，领导方式，来源，战术分布......,"I want to know about their squads, their leadership, their strategies, where they're from, and what they plan to do...","Информация об отрядах, структура командования, происхождение, тактическое развёртывание..."
+line-44,陈,有多少，让他们说多少。,Get everything out of them that you can.,"Заставьте их выложить всё, что им известно."
+line-45,陈,他们说多少，就给我多少。,I want everything I can get.,Докладывайте мне каждое их слово.
+line-46,陈,无论有什么新消息，立刻通知我。,"Report back to me right away, no matter how insignificant it might seem.",О любых новостях сообщать мне немедленно.
+line-48,近卫局队员,明白！,Roger!,Есть!
+line-52,阿米娅,难道近卫局曾经抓捕过整合运动的成员？,Has the L.G.D. ever arrested Reunion members before?,"Значит, Л.Д.О. уже захватывало членов Воссоединения раньше?"
+line-54,陈,并不能确定他们的身份。,We can't say for sure.,Их личности пока не подтверждены.
+line-55,陈,再怎么猜测，也只是怀疑而已。,"In the end, it's just speculation.",Все наши догадки пока остаются лишь подозрениями.
+line-57,陈,联系星熊！,Get me in touch with Hoshiguma!,Свяжитесь с Хосигумой!
+line-58,陈,特别督查组那边怎么样了？,How's the Special Operations Division faring?,Что там с Особой Инспекционной Группой?
+line-59,陈,还在被一个感染者——单方面压制吗？,Are they still being overwhelmed by a single Infected?,Их всё ещё сдерживает — в одиночку — тот Заражённый?
+line-61,近卫局队员,他们那里的整合运动似乎也已经撤退了。,Reunion seems to have pulled back on their end as well.,"Похоже, Воссоединение отступило и оттуда."
+line-62,近卫局队员,忧心这是诱敌之计的星熊督察正在排查风险......,Inspector Hoshiguma is worried about a possible trap and is trying to rule out all risks...,"Инспектор Хосигума, опасаясь ловушки, сейчас проверяет местность на наличие угроз..."
+line-64,陈,啧，一个人......,Hmph... Just a single person...,"Тц, один-единственный человек..."
+line-65,陈,想来就来，想走就走？！,"Who the hell do they think they are, coming and going like that?!","Приходит и уходит, когда вздумается?!"
+line-66,陈,......,...,......
+line-67,陈,下一步的任务，你应该也很清楚了，阿米娅。,"You should already know what your next mission is going to be, Amiya.","Думаю, ты и сама понимаешь нашу следующую задачу, Амия."
+line-69,阿米娅,接下来，就是要夺回米莎吗？,We're going to get Misha back?,"Значит, теперь нам нужно вернуть Мишу?"
+line-71,陈,没错。,Correct.,Верно.
+line-72,陈,这是一次联合作战。,This will be the joint operation.,Это будет совместная операция.
+line-73,陈,近卫局主攻，罗德岛负责搜索和突袭。,"The L.G.D. will take the lead, while Rhodes Island will be in charge of recon and the assault.","Л.Д.О. возьмёт на себя основную атаку, а Родос Айленд займётся поиском и внезапными нападениями."
+line-74,陈,你们只要能拖慢整合运动的撤退进度，就算完成任务。,Your mission is complete as long as you can stall Reunion's retreat.,"Если вы сможете замедлить отступление Воссоединения, ваша задача будет считаться выполненной."
+line-76,阿米娅,......了解。,Understood.,......Принято.
+line-83,芙兰卡,搜索敌人的话......我们可能会被发现吧？,If we're looking for the enemy... won't we also risk being discovered?,"Если мы начнём поиски... нас же могут обнаружить, верно?"
+line-84,芙兰卡,现在，我们的侦察小队也缺乏支援——,"Right now, we also don't have enough support for our recon squad...",Нашим разведывательным отрядам сейчас не хватает поддержки—
+line-85,芙兰卡,光是我们可不成。,We can't do this on our own.,Нас одних будет недостаточно.
+line-87,阿米娅,专业的事，就交给专家去做吧。,We should leave this to the professionals.,Доверьте профессиональные дела профессионалам.
+line-88,阿米娅,芙兰卡，帮我联络企鹅物流。,"Franka, help me get in touch with Penguin Logistics.","Франка, помоги мне связаться с «Пингвин Логистикс»."
+line-89,阿米娅,又要麻烦能天使和德克萨斯他们两个了。,We're going to need another favor from Exusiai and Texas.,Снова придётся побеспокоить Экзусиа и Техас.
