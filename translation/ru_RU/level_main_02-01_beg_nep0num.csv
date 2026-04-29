@@ -5,13 +5,13 @@ char-1,PRTS,PRTS,PRTS,PRTS
 char-2,阿米娅,阿米娅,Amiya,Амия
 char-3,杜宾,杜宾,Dobermann,Доберман
 ,,,,
-line-2,,"5:57 a.m. \ 多云 \ 能见度 17公里 ",5:57 A.M. \ Cloudy \ Visibility: 17 km,05:57 утра \ Облачно \ Видимость 17 км
-line-3,,"龙门外环外4公里，荒漠 ",Desert; 4 km from the outskirts of Lungmen,"Пустоши; 4 км от внешнего кольца Лунмэня "
-line-4,,"切尔诺伯格营救行动 结束后4天 ",4 days after the Chernobog rescue mission,4 дня после завершения операции по спасению в Чернобоге
-line-9,PRTS,"Dr.{@nickname}, 早上好。您已经休息了99999999————","Good morning, Dr. {@nickname}. You have currently been sleeping for 99999----","Доктор {@nickname}, доброе утро. Вы отдыхали 99999999————"
+line-2,,"5:57 a.m. \ 多云 \ 能见度 17公里 ",5:57 A.M. \ Cloudy \ Visibility: 17 km,Утро 05:57 \ Облачно \ Видимость: 17 км
+line-3,,"龙门外环外4公里，荒漠 ",Desert; 4 km from the outskirts of Lungmen,Пустоши; От внешнего кольца Лунмэня 4 км
+line-4,,"切尔诺伯格营救行动 结束后4天 ",4 days after the Chernobog rescue mission,После завершения операции по спасению в Чернобоге прошло 4 дня
+line-9,PRTS,"Dr.{@nickname}, 早上好。您已经休息了99999999————","Good morning, Dr. {@nickname}. You have currently been sleeping for 99999----","Доброе утро, Доктор {@nickname}. Вы отдыхали 99999999————"
 line-10,PRTS,————个小时。,----9999 hours.,———— часов.
 line-11,PRTS,虽然我知道您很不愿意起床，不过有人需要您立刻前往作战会议室。,"Although your reluctance to leave bed is not beyond reason, your presence is urgently needed at the operations command room.","Хотя я понимаю ваше нежелание просыпаться, кое-кто ждет вашего немедленного прибытия в зал совещаний."
-line-12,PRTS,另外来自凯尔希医生的医学建议，希望您多开窗保持通风，并且进入甲板晒太阳以平衡维生素D。,"Furthermore, here is some medical advice from Dr. Kal'tsit: Please keep the windows open to maintain a source of fresh air, and spend some time on the deck to maintain healthy levels of Vitamin D.","Кроме того, поступила медицинская рекомендация от доктора Кальцит: вам советуют чаще открывать окна для проветривания, а также выходить на палубу, чтобы принимать солнечные ванны для восполнения уровня витамина D."
+line-12,PRTS,另外来自凯尔希医生的医学建议，希望您多开窗保持通风，并且进入甲板晒太阳以平衡维生素D。,"Furthermore, here is some medical advice from Dr. Kal'tsit: Please keep the windows open to maintain a source of fresh air, and spend some time on the deck to maintain healthy levels of Vitamin D.","Кроме того, поступила медицинская рекомендация от доктора Кальцит: вам советуют чаще открывать окна для проветривания, а также выходить на палубу, чтобы принимать солнечные лучи для восполнения уровня витамина D."
 line-27,阿米娅,啊，是博士！早啊。,"Ah, Doctor! Good morning.","О, это Доктор! Доброе утро."
 line-29,杜宾,{@nickname}博士，你来了。,"So you made it, Dr. {@nickname}.","Доктор {@nickname}, вы пришли."
 line-31,阿米娅,博士身体好些了吗？,"Doctor, are you feeling better now?","Доктор, как ваше самочувствие?"
