@@ -4,7 +4,7 @@ __language__,,Language,en_US,ru_RU
 char-1,古米,古米,Gummy,Гум
 char-2,坚雷,坚雷,Dur-nar,Дур-Нар
 char-3,远山,远山,Gitano,Гитано
-char-4,刻俄柏,刻俄柏,Ceobe,Сиобе
+char-4,刻俄柏,刻俄柏,Ceobe,Кеобе
 char-5,斑点,斑点,Spot,Спот
 char-6,讯使,讯使,Courier,Курьер
 char-7,？？？,？？？,???,？？？
@@ -58,8 +58,7 @@ line-78,古米,还是先专心干活吧，干完就能吃饭了。,But I guess I
 line-79,古米,嗯——,Um...,М-м...
 line-81,古米,这锅菜好了，请放到取餐区去！,Order up! Ready for the counter!,"Эта порция готова, отнесите её в зону выдачи, пожалуйста!"
 line-84,坚雷,来了！,On it!,Иду!
-line-86,古米,下一锅是上汤浇菜吗，好，加油！,"Gotta do a shchi next? Okay, I'll have it right out!","Следующее блюдо — щи?
-Хорошо, вперёд!"
+line-86,古米,下一锅是上汤浇菜吗，好，加油！,"Gotta do a shchi next? Okay, I'll have it right out!","Следующее блюдо — щи? Хорошо, вперёд!"
 line-87,古米,......,......,......
 line-92,古米,好了！,Done!,Готово!
 line-93,古米,这锅菜好了，请放到取餐区去!,Food's ready! Please take it to the dining area!,"Эта порция готова, отнесите её в зону выдачи, пожалуйста!"
@@ -113,19 +112,19 @@ line-190,古米,好的！,Will do!,Хорошо!
 line-192,,咕噜噜————,*Rumble~~~~*,Ур-р-р————
 line-195,古米,（马上就能吃饭了，再忍一小会。）,(Just hold out a bit longer... It's almost time to eat!),"(Скоро уже можно будет поесть, потерплю ещё немного.)"
 line-197,刻俄柏,好吃的我来啦！,"Yummy goodies, here I come!","Вкусняшки, я иду!"
-line-199,古米,呜啊啊小刻你不能进去！！,"Wooaahh! Kay, you can't go in there!","У-а-а-а, Сиобе, тебе нельзя внутрь!!"
+line-199,古米,呜啊啊小刻你不能进去！！,"Wooaahh! Kay, you can't go in there!","У-а-а-а, Кеобе, тебе нельзя внутрь!!"
 line-201,刻俄柏,不行吗？,I can't?,Нельзя?
 line-203,古米,不行！你看到门上那个贴纸了吗？,You can't! Don't you see the sign on the door?,Нельзя! Ты видишь ту наклейку на двери?
 line-205,刻俄柏,看到了。,I see it.,Вижу.
 line-206,刻俄柏,一个红的圆圈里有根斜着的红线。,I see a red circle with a tilty red line going through it.,Красный кружок с косой линией внутри.
-line-207,刻俄柏,还有小刻。,I also see Kay.,А ещё там Сиобе.
-line-209,古米,这是“小刻禁止入内”的意思，明白吗？,That means 'Kay is not allowed in here.' Got it?,"Это значит «Сиобе вход воспрещён», понимаешь?"
+line-207,刻俄柏,还有小刻。,I also see Kay.,А ещё там Кеобе.
+line-209,古米,这是“小刻禁止入内”的意思，明白吗？,That means 'Kay is not allowed in here.' Got it?,"Это значит «Кеобе вход воспрещён», понимаешь?"
 line-211,刻俄柏,明白。,Got it.,Понимаю.
 line-213,古米,明白为什么还要往里面走！,"If you get it, why are you still going in?!","Если понимаешь, почему всё равно идёшь внутрь?!"
 line-215,刻俄柏,饿了。,Hungry.,Хочу есть.
 line-217,古米,饿了可以去那边排队买东西吃。,"If you're hungry, you can just get in line and order something to eat.","Если голодна, можешь встать в очередь вон там и купить еды."
 line-219,刻俄柏,饿了。,Hungry.,Хочу есть.
-line-221,古米,总，总之，小刻不能进去！,Y- You're not allowed in there!,"В общем, Сиобе нельзя внутрь!"
+line-221,古米,总，总之，小刻不能进去！,Y- You're not allowed in there!,"В общем, Кеобе нельзя внутрь!"
 line-223,刻俄柏,饿了！,But I'm hungry!,Есть хочу!
 line-225,古米,好好好古米想想办法！！,"Fine, fine! I'll think of something!!","Ладно, ладно, Гум что-нибудь придумает!!"
 line-226,古米,嗯......,Hmm...,Хм...
@@ -181,12 +180,12 @@ line-324,古米,今天早上醒晚了，没来得及吃饱，所以就......,"I 
 line-326,坚雷,你啊，或许是那种吃不饱的类型哦。,"Y'know, you might just be that type of girl. With a bottomless pit for a stomach.","Эх, ты, похоже, из тех, кто вечно не наедается."
 line-328,古米,是吗？,Really?,Правда?
 line-330,坚雷,是哦，就像那边那个一样。,"Yup, just like that one over there.","Ага, прямо как вон та."
-line-332,古米,小刻怎么又开始往厨房冲了？！我得——,Kay? She's charging the kitchen again?! I better—,Почему Сиобе снова рвётся на кухню?! Мне нужно —
+line-332,古米,小刻怎么又开始往厨房冲了？！我得——,Kay? She's charging the kitchen again?! I better—,Почему Кеобе снова рвётся на кухню?! Мне нужно —
 line-334,坚雷,没事没事，厨房有人专门负责盯着她，门口也专门放了些好吃的来做缓冲，就算溜进去，也没多大影响。,"Relax, we got someone keeping an eye on her. Plus, they laid out some goodies near the door just in case she gets in. She won't make it to anything important.","Всё в порядке, на кухне за ней присматривают. Прямо у входа специально поставили корзинку с вкусняшками для отвлечения внимания. Даже если она проскользнёт внутрь, вреда не будет."
 line-336,古米,我还以为厨房门口的零食篮是给大家上岗前充饥用的。,"Oh, I thought those were welcome baskets for new recruits...","А я думала, та корзина со сладостями у входа нужна, чтобы сотрудники могли перекусить перед сменой."
 line-338,坚雷,也有这部分因素在内吧，只要达到效果就行。,Yeah that too. Whatever gets the job done.,"Это тоже одна из причин. Главное, что это работает."
 line-339,坚雷,看，这不是出来了？,"See, she's done.","Смотри, видишь, она уже уходит?"
-line-340,坚雷,要是把那扇门封死，她肯定会很伤心的，偶尔让进进门，享受一下胜利，刻俄柏就添不了太多麻烦。,"If we sealed that door, it'd hurt her feelings. Letting her in every now and then lets her feel like she won. And it doesn't cost us much.","Если запереть ту дверь наглухо, она точно расстроится. Если давать ей иногда зайти внутрь и почувствовать вкус победы, Сиобе не доставляет особых хлопот."
+line-340,坚雷,要是把那扇门封死，她肯定会很伤心的，偶尔让进进门，享受一下胜利，刻俄柏就添不了太多麻烦。,"If we sealed that door, it'd hurt her feelings. Letting her in every now and then lets her feel like she won. And it doesn't cost us much.","Если запереть ту дверь наглухо, она точно расстроится. Если давать ей иногда зайти внутрь и почувствовать вкус победы, Кеобе не доставляет особых хлопот."
 line-342,古米,原来是这样。,Oh...,Вот оно как.
 line-343,古米,那，门口负责看着她的是谁呢？,"Um, so who's in charge of keeping an eye on her?",А кто сегодня присматривает за входом?
 line-345,坚雷,今天的话，远山吧。,Gitano's on duty today.,"Сегодня, кажется, Гитано."
@@ -299,7 +298,7 @@ line-598,,古米有个习惯。,Gummy has a habit.,У Гум есть привы
 line-599,,牙膏用到最后一点，要用嘴吸出来涂在牙齿上。,"She uses the entire tube of toothpaste, going so far as to suck out the last few drops.","Когда зубная паста почти заканчивается, она высасывает остатки ртом и размазывает по зубам."
 line-600,,古米有个习惯。,Gummy has a habit.,У Гум есть привычка.
 line-601,,站在高处的时候，绝对要和边缘保持距离，即使那里有栏杆保护。,"When up somewhere high, she keeps far away from the edge, even if there's a guardrail.","Когда она стоит на высоте, она обязательно держится подальше от края, даже если там есть перила."
-line-602,？？？,......,......,......
+line-602,？？？,......,......,
 line-605,,古米有个习惯。,Gummy has a habit.,У Гум есть привычка.
 line-606,,饿坏的时候，会控制不住地去咬最近的东西，如果没有，就......,"When she's famished, she has to fight the urge to devour the nearest object. Should she fail...","Когда она безумно голодна, она непроизвольно кусает то, что находится ближе всего, а если ничего нет, то..."
 line-607,？？？,......？,......?,......?
@@ -372,10 +371,10 @@ line-746,烈夏,好好好，来了。,"All right, all right.","Хорошо-хо
 line-747,烈夏,这个是放这里是吧。,Can I put this here?,"Это ведь сюда класть, да?"
 line-749,凛冬,那是我刚拿过去的！,I just put that out!,Я это только что оттуда убрала!
 line-751,古米,哈哈哈哈哈。,Hahahahaha!,Ха-ха-ха-ха-ха.
-line-757,,古米有个习惯。,Gummy has a habit.,У Гюм есть привычка.
+line-757,,古米有个习惯。,Gummy has a habit.,У Гум есть привычка.
 line-758,,开心，就会笑。,"When she's happy, she laughs.","Когда она счастлива, она смеётся."
 line-759,,发自内心的笑。,It's a laugh from the very depths of her soul.,"Искренне, от всего сердца."
-line-760,,古米希望大家都能这样。,And she wants everyone to share such a laugh.,"Гюм хочет, чтобы все могли так же."
+line-760,,古米希望大家都能这样。,And she wants everyone to share such a laugh.,"Гум хочет, чтобы все могли так же."
 line-768,真理,弄完了。,Done.,Готово.
 line-769,真理,凛冬，说些什么。,"Zima, say a few words.","Зима, скажи что-нибудь."
 line-771,凛冬,什么什么，吃吧。,'A few words.' Eat up.,"Да что там говорить, ешьте."
@@ -414,7 +413,7 @@ line-834,古米,是灯管坏了吗？,Did the bulb burn out?,Лампочка п
 line-835,古米,这么说来，早上就没有亮欸。,"Now that I think of it, it wasn't on this morning either.","Если подумать, утром он тоже не горел."
 line-836,古米,那时候就坏了吗？,So when did it break?,Он уже тогда сломался?
 line-837,古米,怎么办啊......,Uh oh...,Что же делать...
-line-840,,古米有个习惯,Gummy has a habit.,У Гюм есть привычка.
+line-840,,古米有个习惯,Gummy has a habit.,У Гум есть привычка.
 line-841,,晚上睡觉的时候一定要把小夜灯打开。,She absolutely must sleep with a night light.,Она обязательно включает ночник перед сном.
 line-842,真理,古米。,Gummy.,Гум.
 line-843,古米,怎么了真理姐。,"What's up, Istina?","Что такое, сестренка Истина?"
