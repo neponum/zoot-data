@@ -1,0 +1,101 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,凯尔希,凯尔希,Kal'tsit,Кальцит
+char-2,阿米娅,阿米娅,Amiya,Амия
+,,,,
+line-2,,"8:36 p.m. \ 雨 \ 能见度 12公里 ",8:36 P.M. \ Rainy \ Visibility: 12 km,20:36 \ Дождь \ Видимость: 12 км
+line-3,,"罗德岛 ",Rhodes Island,Родос
+line-10,凯尔希,你们回来了。,Welcome back.,С возвращением.
+line-12,阿米娅,......嗯。,...Mm.,...Да.
+line-14,凯尔希,——,...,—
+line-15,凯尔希,详细情况我从侦查小队那里了解过了。,I already heard what happened from the recon squad.,Я ознакомилась с подробностями от разведывательного отряда.
+line-16,凯尔希,阿米娅，让我检查一下你的手。,"Amiya, let me check your hands.","Амия, дай мне осмотреть твою руку."
+line-18,阿米娅,不用了，凯尔希医生.....,"There's no need for that, Dr. Kal'tsit...","Не нужно, доктор Кальцит..."
+line-20,凯尔希,阿米娅。,Amiya.,Амия.
+line-22,阿米娅,我，我......,"I, I...","Я, я..."
+line-23,阿米娅,......好吧。,...All right.,...Хорошо.
+line-29,凯尔希,——,...,—
+line-30,凯尔希,还好。戒指没有裂纹，也没有变色。,It looks fine. The rings haven't cracked or discolored.,"Всё в порядке. На кольцах нет трещин, и цвет не изменился."
+line-31,凯尔希,下次就不一定了。,But it might be different next time.,В следующий раз может не повезти.
+line-32,凯尔希,听着，阿米娅——,"Listen closely, Amiya...","Послушай, Амия —"
+line-33,凯尔希,小心一点。,Be a little more careful.,Будь осторожнее.
+line-35,阿米娅,凯尔希医生，我......,"Dr. Kal'tsit, I...","Доктор Кальцит, я..."
+line-36,阿米娅,......我想休息一下。,...I need some rest.,...Я хочу немного отдохнуть.
+line-38,凯尔希,去吧。,Go ahead.,Иди.
+line-40,阿米娅,嗯......,Mm...,Мгм...
+line-45,凯尔希,——,...,—
+line-46,凯尔希,不要再让阿米娅置身这种危险之下了。,Never put Amiya in this much risk again.,Больше не подвергай Амию такой опасности.
+line-47,凯尔希,你也有责任。,You are also responsible for what happened.,На тебе тоже лежит ответственность.
+line-49,凯尔希,你刚回罗德岛的时候，大概也是这种气氛，,"When you first came back to Rhodes Island, she looked a bit like this.","Когда ты только вернулся на Родос, атмосфера была примерно такой же."
+line-50,凯尔希,这种情绪从来没有离开过阿米娅。,These emotions never really left Amiya.,Это чувство никогда не покидало Амию.
+line-51,凯尔希,这不行。,This has to change.,Так не пойдёт.
+line-52,凯尔希,......Dr.{@nickname}，你去陪陪她。,"...Dr. {@nickname}, you should stay with her.","...Доктор {@nickname}, побудь с ней."
+line-53,凯尔希,别搞砸了。,Don't mess up.,Не испорти всё.
+line-60,,（敲门）,*knock* *knock*,(Стук в дверь)
+line-62,阿米娅,门开着。,It's open.,Открыто.
+line-65,阿米娅,......,...,...
+line-67,阿米娅,{@nickname}博士......？,Dr. {@nickname}...?,Доктор {@nickname}...?
+line-68,阿米娅,心事？我吗？,Worried? I am?,Что-то на уме? У меня?
+line-70,阿米娅,......被你发现了呀......哈哈......,"...You saw right through me, hehe...",...Вы всё-таки заметили... Ха-ха...
+line-72,阿米娅,我以为我一直藏得很好呢。,I thought I did a good job hiding it.,"А я-то думала, что хорошо это скрываю."
+line-73,阿米娅,是的，我是有一点心事......就一点点。,"Yes, I'm a bit worried... just a little, though.","Да, меня кое-что беспокоит... Совсем чуть-чуть."
+line-74,阿米娅,我已经习惯了这么做了。,I'm already used to doing this.,Я уже привыкла так поступать.
+line-75,阿米娅,毕竟不能增加大家的负担呢。,"After all, I can't drag down everyone else any more.","В конце концов, я не должна обременять всех остальных."
+line-76,阿米娅,是吧，博士？,"Right, Doctor?","Верно, Доктор?"
+line-77,阿米娅,......,...,...
+line-79,阿米娅,......我不明白。,...I don't understand.,...Я не понимаю.
+line-80,阿米娅,博士......我不明白。,Doctor... I don't understand.,Доктор... Я не понимаю.
+line-82,,（沉默）,(Stay silent),(Молчание)
+line-85,阿米娅,不，我......我知道我们在做什么。我也知道，牺牲是不可避免的。,"No, I... I know what we're trying to do. I also know... that some sacrifices are inevitable.","Нет, я... Я знаю, что мы делаем. Я также знаю, что жертвы неизбежны."
+line-86,阿米娅,可我......我不知道......,But I... what I don't know is...,Но я... Я не знаю...
+line-87,阿米娅,为什么我只能看着一个个可以被拯救的人......在我眼前消逝呢？,Why must I watch people disappear before my eyes one by one... even though they can be saved?,"Почему я должна просто смотреть, как люди, которых можно было спасти... исчезают у меня на глазах?"
+line-89,阿米娅,明明触手可及......也许有时候就差一点点......,We were so close... Maybe just a little bit more...,"Ведь они были так близко... Возможно, иногда не хватало совсем чуть-чуть..."
+line-90,阿米娅,我知道我身上的责任......我会继续走下去......,I know that I have a duty... and I will continue to move forward...,Я осознаю свою ответственность... Я продолжу идти вперёд...
+line-91,阿米娅,但现在......我真的好累。,But right now... I just feel so tired.,Но сейчас... Я действительно очень устала.
+line-92,阿米娅,......,...,...
+line-94,,......;阿米娅......,...;Amiya...,...;Амия...
+line-98,阿米娅,让我一个人静一静吧，{@nickname}博士。,"Please let me have some time alone, Dr. {@nickname}.","Пожалуйста, оставьте меня одну, доктор {@nickname}."
+line-99,阿米娅,谢谢你。,Thank you.,Спасибо вам.
+line-110,阿米娅,早呀{@nickname}博士。,"Good morning, Dr. {@nickname}.","Доброе утро, доктор {@nickname}."
+line-111,阿米娅,咦，凯尔希医生也在吗？,"Oh, Dr. Kal'tsit, you're here as well?","Ой, доктор Кальцит тоже здесь?"
+line-113,凯尔希,阿米娅。,Amiya.,Амия.
+line-114,凯尔希,我这里有一件比较紧急的任务，我需要调用一些人手。,"I have a rather urgent mission here, and need some people to help out.","У меня есть срочное задание, для которого мне понадобятся люди."
+line-115,凯尔希,在龙门城外，发现了一块已经被废弃的城区。,An abandoned city was discovered not far from Lungmen.,За пределами Лунмэня был обнаружен заброшенный городской сектор.
+line-116,凯尔希,我推测是在切尔诺伯格事件中侥幸逃出的城区之一。,I surmise that it's one of the cities that formed in the aftermath of the Chernobog incident.,"Я предполагаю, что это один из районов, которому удалось уцелеть после инцидента в Чернобоге."
+line-117,凯尔希,有必要探索这座城区，发掘更多的有关信息，以及搜救幸存者。,"We'll have to explore that city, uncover more information, and search for any survivors.","Необходимо исследовать этот сектор, собрать больше информации и найти выживших."
+line-118,凯尔希,如果是更加严重的情况，譬如，城区中窝藏着整合运动之类，则对我们之后的安排，同样会有更大的影响。,"If the situation is particularly serious, for example, if Reunion is hiding there, then there may be serious ramifications on our future operations.","Если ситуация окажется серьёзнее — например, если там скрывается Воссоединение — это окажет значительное влияние на наши дальнейшие планы."
+line-119,凯尔希,具体安排的计划书在这里，拿上吧，有时间就看一下。,Here's the specific proposal that I have in mind. Look over it when you have time.,"Вот план операции. Возьми его и ознакомься, когда будет время."
+line-121,阿米娅,了解。,Understood.,Поняла.
+line-123,凯尔希,哦，还有。,"Oh, one more thing.","О, и ещё кое-что."
+line-124,凯尔希,芙兰卡向我提交了报告，提到了她们需要回黑钢复命的事情。,Franka submitted a report to me mentioning that they had to return to Blacksteel.,"Франка подала мне отчёт, в котором говорится, что им нужно вернуться в Блэкстил для доклада."
+line-125,凯尔希,关于龙门贫民区的情况，企鹅物流认为应该与你在贫民区内进行意见交换。,"As for the situation in the Lungmen slums, Penguin Logistics requested for you to meet them there to discuss some information.","Что касается ситуации в трущобах Лунмэня, Пингвин Логистикс считают, что вам стоит обменяться мнениями прямо на месте."
+line-126,凯尔希,一些细枝末节的事情，你最好去现场看看。,"There are some more sensitive details, so it'd be best for you to go in person.","Будет лучше, если ты лично осмотришь некоторые детали."
+line-128,阿米娅,我知道了，我现在就去。,I know. I'll head over right now.,"Я поняла, сейчас же отправляюсь."
+line-129,阿米娅,博士也一起——,"Doctor, let's go--","Доктор, вы тоже —"
+line-131,凯尔希,我和Dr.{@nickname}还有些事情要谈。,I still have some things to discuss with Dr. {@nickname}.,Мне нужно кое о чём поговорить с доктором {@nickname}.
+line-133,阿米娅,——,...,—
+line-135,阿米娅,我可以旁听吗？,May I listen in?,Могу я послушать?
+line-137,凯尔希,不行。,You may not.,Нет.
+line-139,阿米娅,我可以捂上耳朵——,I can cover my ears...,Я могу заткнуть уши —
+line-141,凯尔希,不行，去吧。,You cannot. You should get going.,Нет. Иди.
+line-143,阿米娅,呜......,Aww...,У-у...
+line-145,阿米娅,凯尔希医生可不许欺负{@nickname}博士哦。,"Dr. Kal'tsit, you're not allowed to bully Dr. {@nickname}.","Доктор Кальцит, не обижайте доктора {@nickname}."
+line-147,凯尔希,知道。,I won't.,Знаю.
+line-153,凯尔希,......你。,...You...,...Ты.
+line-154,凯尔希,这么简单的事情都做不到。,You couldn't even do something so basic.,Не можешь справиться даже с такой простой задачей.
+line-156,凯尔希,算了，我已经料到会是这种结果。,"Forget it, I had a feeling this would happen.","Впрочем, я ожидала подобного исхода."
+line-158,凯尔希,阿米娅是一个很坚强的孩子。,Amiya is an incredibly resilient kid.,Амия — очень сильный ребёнок.
+line-159,凯尔希,但是，过于坚强的外壳，总有一天会被过大的压力碾成粉尘。,"But, if she has to force herself to be strong, there will come a day when the pressure breaks her.",Но даже самая крепкая оболочка рано или поздно превратится в пыль под чрезмерным давлением.
+line-160,凯尔希,不要让这种事情发生。,Do not let this happen.,Не допусти этого.
+line-161,凯尔希,如果有下次，希望你能稍微发挥点作用。,"If there is a next time, you'd better be a little more useful.","Надеюсь, в следующий раз ты будешь хоть немного полезен."
+line-162,凯尔希,——？,--?,—?
+line-163,凯尔希,怎么了，那个表情。,What's with that face?,Что за выражение лица?
+line-165,,请问，阿米娅的戒指是？;......,"Excuse me, but what do you mean by Amiya's rings...?;...","Прости, а что с кольцами Амии?; ..."
+line-168,凯尔希,这与她的身体状况有关。,It's related to the state of her health.,Это связано с её физическим состоянием.
+line-169,凯尔希,如果阿米娅参与了激烈的战斗——,If Amiya is involved in an intense battle...,Если Амия участвует в ожесточённом бою —
+line-170,凯尔希,——战后，你必须立刻检查她的戒指。,...You must check her rings immediately afterwards.,— после сражения ты должен немедленно проверить её кольца.
+line-171,凯尔希,无论戒指产生了什么变化，都必须向我报告。,"No matter what changes you see, you must report them to me.",О любых изменениях в кольцах ты обязан сообщать мне.
+line-174,凯尔希,其他的，现在你还不适合知道。,"For the time being, that's all you're allowed to know.",Остальное тебе знать пока не положено.
+line-175,凯尔希,哦对了，两天后你还需要去检测中心做一次身体检查。别忘了。,"Oh, right. You have to go down to the medical center in two days to have a physical done. Don't forget it.","Ах да, через два дня тебе нужно пройти медосмотр в диагностическом центре. Не забудь."
+line-177,凯尔希,——去吧。雷蛇在外面等着护送你。,...You can go. Liskarm is waiting outside to escort you.,"— Иди. Лискарм ждёт снаружи, чтобы сопроводить тебя."
