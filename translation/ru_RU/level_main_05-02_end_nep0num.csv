@@ -1,0 +1,76 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,罗德岛干员,罗德岛干员,Rhodes Island Operator,Оператор Родоса
+char-2,陈,陈,Ch'en,Чэнь
+char-3,星熊,星熊,Hoshiguma,Хошигума
+char-4,近卫局成员,近卫局成员,L.G.D. Agent,Сотрудник Гвардии
+char-5,诗怀雅,诗怀雅,Swire,Свайр
+,,,,
+line-6,罗德岛干员,在和他们正面冲突之前，我也没想到整合运动竟然会这么脆弱。,"Before fighting them head on, I never expected Reunion to be so weak.","До прямого столкновения с ними я и не думал, что «Воссоединение» окажется таким хрупким."
+line-7,罗德岛干员,本以为他们给切城和其他小队造成了那么大麻烦，一定是非常强大的军事力量。,"Considering what they did at Chernobog and all the trouble they caused our squads, I thought they must have been incredibly powerful.","Я полагал, раз они доставили столько хлопот Чернобогу и другим отрядам, то наверняка представляют собой мощную военную силу."
+line-8,罗德岛干员,现在看来，任务简报上的资料没什么大问题，整合运动的实力确实也就那样。对整合运动阴谋的了解不足才是任务的难点。,"But from what I've seen, the information from the mission briefing was right. That really is all the firepower Reunion can muster. The only thing that makes this mission complicated is the fact that we don't know what they're scheming.","Судя по всему, данные в брифинге верны: силы «Воссоединения» действительно на таком уровне. Основная трудность — в нехватке информации об их планах."
+line-10,陈,不要大意。整合运动的最大优势，本就在于出乎所有人的意料。,Don't let your guard down. Reunion's greatest strength is their ability to do what you wouldn't expect.,Не расслабляйтесь. Главное преимущество «Воссоединения» всегда заключалось в эффекте неожиданности.
+line-11,陈,渗透、突然袭击、动用特殊力量攻坚，都是他们的常用手段。我们并不清楚他们隐藏了什么。,"Infiltration, surprise attacks, and leveraging their members' unknown abilities... these are the tactics they're best at. We still don't know what cards they might have up their sleeves.","Проникновение, внезапные нападения, использование особых сил для прорыва — это их обычные методы. Мы не знаем, что ещё они скрывают."
+line-13,罗德岛干员,我明白，毕竟这么强盛的龙门和那么庞大的切尔诺伯格，都已经遭到了整合运动的侵袭。也许他们的数量真的超乎想象吧。,"I'm aware, considering how they managed to take down cities as big and powerful as Chernobog and Lungmen. Their true numbers may well be beyond our imagination.","Понимаю. В конце концов, даже процветающий Лунмэнь и огромный Чернобог подверглись их нападению. Возможно, их численность действительно за гранью воображения."
+line-14,罗德岛干员,不过，陈长官，之前的任务中，阿米娅是和近卫局一同行动的，你们不是一起去侦查切城废城了吗，阿米娅他们怎么还没归队？,"Having that said, Madam Ch'en, didn't the L.G.D. accompany Amiya on a mission to investigate that Chernobog sub-city? How come they're still not back yet?","Но, офицер Чэнь, во время предыдущей миссии Амия действовала вместе с Гвардией. Разве вы не отправились на разведку в заброшенный сектор Чернобога вместе? Почему Амия и остальные ещё не вернулись в строй?"
+line-16,陈,......抱歉。,I'm sorry...,...Прошу прощения.
+line-18,星熊,（老陈......）,(Ch'en...),(Чэнь...)
+line-20,陈,我们与阿米娅的小队失散了。我们没法跟他们汇合，情况紧急，我们只能先行离开。,"We were separated from Amiya's squad. We weren't able to rendezvous with them, and due to the emergency, we had to turn around.","Мы разминулись с отрядом Амии. Мы не смогли воссоединиться, и ввиду чрезвычайной ситуации нам пришлось уйти первыми."
+line-22,罗德岛干员,你的意思是，你们近卫局把阿米娅和Dr.{@nickname}就这样留在了废城？,Are you saying that you and the L.G.D. abandoned Amiya and Dr. {@nickname} there?,"Вы хотите сказать, что ваша Гвардия просто оставила Амию и Доктора {@nickname} в заброшенном городе?"
+line-24,陈,是。,Yes...,Да.
+line-26,罗德岛干员,也就是说他们现在生死不明？,"In other words, they're missing in action?","То есть неизвестно, живы они или нет?"
+line-27,罗德岛干员,不，陈长官......,Why... Madam Ch'en...,"Нет, офицер Чэнь..."
+line-28,罗德岛干员,不。即使你们是龙门近卫局也不能这样做。即使是龙门近卫局，也不应该、更不能抛弃合作伙伴。,"No... You shouldn't have done that... Even if you are the L.G.D., you shouldn't have abandoned your partners.",Нет. Даже Гвардия Луньмэня не имеет права так поступать. Даже Гвардия не должна и не может бросать своих партнёров.
+line-30,陈,这是我的失职。我的任务是优先维护龙门的安全，作出了这个判断的是我。,This is my fault. My mission was to prioritize the safety of Lungmen. I made the decision to adhere to it.,"Это моя вина. Моя задача — в первую очередь обеспечить безопасность Лунмэня, и это решение приняла я."
+line-32,罗德岛干员,知道负责人又能怎样......不用再说下去了，龙门的警官，这件事已经没什么好说的了。,"What difference does it make whose fault it was...? Forget about it, Officer, there's no point talking about this any further.","И что с того, что я теперь знаю ответственного... Не продолжайте, офицер Луньмэня. Тут больше нечего обсуждать."
+line-33,罗德岛干员,也是。是啊，我其实很清楚你们对感染者的态度。,"I should have known better. That's right, I know very well how you view us Infected.","Впрочем... Да, я прекрасно осознаю ваше отношение к Инфицированным."
+line-35,陈,我不是这个意思——,That's not what I meant...,Я не это имела в виду —
+line-37,罗德岛干员,你需要多少干员？会有干员愿意协助你的，尽管我不会。,"How many operators do you need? There may be some who are willing to help you, but I'm not one of them.","Сколько операторов вам нужно? Найдутся те, кто захочет вам помочь, хотя я к ним не отношусь."
+line-38,罗德岛干员,我们也有任务。帮助龙门战胜整合运动同样也是我们的任务。,We also have our missions as well. Helping Lungmen defeat Reunion may be one of them....,У нас тоже есть задачи. Помощь Лунмэню в победе над «Воссоединением» — одна из них.
+line-39,罗德岛干员,只不过我会和罗德岛的小队自己去做。记好我们的识别码，长官。请不要误伤合作伙伴，哪怕他们是感染者。,"But we will be handling this job by ourselves. Make sure to remember our identification codes, Madam. Try not to hit your allies on accident, even if we are Infected.","Только я буду выполнять её в составе отряда Родоса. Запомните наши позывные, офицер. И, пожалуйста, не подстрелите своих партнёров, даже если они — Инфицированные."
+line-41,陈,......我知道了。,...I understand.,...Я поняла.
+line-42,陈,如果有愿意和近卫局一起行动的，可以向我报到。,"If anyone is willing to join the L.G.D. in this mission, you can let me know.","Если кто-то из вас готов действовать совместно с Гвардией, можете обращаться ко мне."
+line-43,陈,——不必勉强自己。,...You don't have to force yourselves.,— Но не нужно себя заставлять.
+line-51,星熊,你和诗怀雅刚才那出，难道不是为了加强和罗德岛之间的合作吗？,That drama with Swire earlier... didn't you do that just to drum up support from Rhodes Island?,"Разве та сцена со Свайр была устроена не для того, чтобы укрепить сотрудничество с Родос?"
+line-52,星熊,怎么到了罗德岛这边，你又临阵变卦，不按说好的来？,Then why'd you turn around and treat their personnel like that?,"Почему же, когда дело дошло до Родоса, ты внезапно передумала и пошла на попятную?"
+line-54,陈,你弄错了，星熊。我没这个打算。,"You're mistaken, Hoshiguma. I had no such intentions.","Ты ошибаешься, Хошигума. У меня не было таких намерений."
+line-56,星熊,可能吧。至少我更乐意看你说实话。你的表情也比刚才坦然多了。,Perhaps. I would've liked to see you be more forthcoming. You look a lot more relieved now.,"Возможно. По крайней мере, мне приятнее видеть, что ты говоришь правду. Твоё лицо сейчас выглядит куда спокойнее."
+line-57,星熊,不过确实，把我放在他那个位置，我一样会很恼火。你得庆幸那个罗德岛的战士还挺好说话。,"To be honest, if I was in his position, I would've been angry as well. Be thankful that the warriors of Rhodes Island are fairly easygoing.","Но должна сказать: будь я на его месте, я бы тоже разозлилась. Тебе повезло, что тот боец Родоса оказался довольно рассудительным."
+line-58,星熊,这么说吧，我知道时间紧迫，可我也弄不明白——为什么你要把阿米娅他们那么干脆地留在废城？,"How should I say this, but... though it was an emergency, even I can't understand... Why did you decide to abandon Amiya's squad so decisively?","Скажи мне вот что: я понимаю, что время поджимает, но я до сих пор не возьму в толк — почему ты так решительно оставила Амию и остальных в том заброшенном городе?"
+line-60,陈,不确定因素太多了。,There were too many unknown variables.,Слишком много неопределённых факторов.
+line-61,陈,废城的地况不适合近卫局战斗，我们也很难估计废城内整合运动的实力。我们的队伍不能承担这种风险。,"The terrain made it difficult for the L.G.D. to fight, and we had no way to gauge Reunion's operational capacity. I can't allow my squads to take on these unacceptable risks.","Местность заброшенного города не подходила для тактики Гвардии, к тому же мы не могли оценить реальные силы «Воссоединения» внутри. Наш отряд не мог пойти на такой риск."
+line-63,星熊,这说服不了我。,I'm not convinced.,Это меня не убеждает.
+line-65,陈,......星熊，我们的行动是被规划好的。,Hoshiguma... our plans have already been laid out.,"...Хошигума, наши действия были спланированы заранее."
+line-67,星熊,命令就是命令，我会服从。但你该亲自和我说，而不是让我等到诗怀雅来告知我。,"Orders are orders, and I will obey them. However, I should be hearing them directly from you, not waiting for Swire to tell me.","Приказ есть приказ, и я подчинюсь. Но тебе следовало сказать мне об этом лично, а не заставлять ждать, пока Свайр меня просветит."
+line-69,陈,在当今事态成真之前，命令的具体内容是机密的。,"Until the conditions are met, the specifics are confidential.","До того как ситуация прояснилась, детали приказа были засекречены."
+line-71,星熊,所以是魏先生亲自下的命令。,"So, the orders are from Mister Wei.","Значит, это был личный приказ господина Вэя."
+line-73,陈,你可以随便猜测。,You're free to speculate.,Можешь гадать сколько угодно.
+line-75,星熊,即使现在是，我也不知道你们的具体目标，在龙门没什么人能让近卫局做到这步。,"Even now, I don't know what your objective is. There are few in Lungmen who have the power to make the L.G.D. go this far.","Даже если так, я не знаю вашей конкретной цели, но в Луньмэне мало кто может заставить Гвардию зайти так далеко."
+line-76,星熊,只可能是这样。,It's the only possibility.,Это единственный логичный вывод.
+line-77,星熊,我确实很佩服魏先生。但我不会敬重他，今天发生的一切就是原因之一。,"I appreciate what Mister Wei has done. But I will never respect him, and what happened today is just one of those reasons.","Я действительно восхищаюсь господином Вэем. Но я не могу его уважать, и события сегодняшнего дня — одна из причин."
+line-79,陈,这一切都是必要的。,This is all necessary.,Всё это было необходимо.
+line-81,星熊,你在说服你自己。,That's just your excuse.,Ты пытаешься убедить саму себя.
+line-82,星熊,唉，老陈，你要么是想得太多，要么是连自己都说服不了。,"*sigh*... Chen, you're either overthinking this, or you're not even able to convince yourself.","Эх, Чэнь... Либо ты слишком много думаешь, либо сама не веришь в свои слова."
+line-84,陈,可能吧。,Maybe.,Возможно.
+line-86,陈,帮我接诗怀雅。,Call Swire for me.,Соедини меня со Свайр.
+line-88,近卫局成员,明白。,Understood.,Понял.
+line-93,诗怀雅,喂？,Hello?,Алло?
+line-95,陈,诗怀雅，我们已经离开了罗德岛，你那边可以开始了。,"We've left Rhodes Island, Swire. You can begin.","Свайр, мы покинули расположение Родоса. Можешь начинать со своей стороны."
+line-97,诗怀雅,刚才骂我骂得挺舒服的，嗯？,"I bet it felt pretty good yelling at me earlier, huh?","Тебе ведь понравилось отчитывать меня только что, а?"
+line-99,陈,我们关系很差，但没差到那个地步。我是有点虚张声势。,"We may not get along, but it's not to that extent. I was exaggerating.","Наши отношения натянутые, но не до такой степени. Я просто немного напустила пафосу."
+line-101,诗怀雅,但我可不是，我骂爽了。,I wasn't though. I thoroughly enjoyed it.,"А вот я — нет, я ругалась от души."
+line-103,陈,你这家伙......,You piece of...,Ах ты...
+line-105,诗怀雅,行，行。真奇怪，我们都只知道自己的任务，却一点也不知道对方的。,"Fine, fine. You know, it's strange that we know nothing about each others' missions.","Ладно, ладно. Странно всё это: мы знаем только свои задачи, но понятия не имеем о задачах друг друга."
+line-106,诗怀雅,还有，我听说了，你为什么不希望罗德岛插手？这是某种程度的赎罪吗？,"Also, I just heard about this, but why don't you want Rhodes Island to intervene? Is this some kind of atonement?","И ещё, я слышала... почему ты не хочешь, чтобы Родос вмешивался? Это своего рода искупление?"
+line-108,陈,我相信罗德岛的能力，也相信阿米娅和Dr.{@nickname}。,"I have faith in Rhodes Island's abilities, as well as in Amiya and Dr. {@nickname}.","Я верю в способности Родоса, и я верю в Амию и Доктора {@nickname}."
+line-109,陈,所以我不想让他们介入现在的情况，他们只会是不确定的因素。,But that's why I don't want them involved - they'll only add another unknown factor.,"Поэтому я не хочу, чтобы они вмешивались в текущую ситуацию. Они станут лишь фактором неопределённости."
+line-110,陈,甚至是那个凯尔希。她绝不会按我们的规划行事。,"Especially that Kal'tsit person. I guarantee you, she will not adhere to our plans.",И даже Кальцит. Она ни за что не станет действовать по нашему плану.
+line-112,诗怀雅,我没见过那家伙。,I've never met that person before.,Я никогда её не видела.
+line-114,陈,没必要见了。有点像你祖父，而且不用每天戴着呼吸机。,"You won't need to. She's a bit like your grandfather, just without a ventilator.","И не стоит. Она чем-то напоминает твоего деда, только ей не нужен аппарат ИВЛ каждый день."
+line-116,诗怀雅,啊。,Huh.,Оу.
+line-118,陈,各自开工吧。不过我要先去找个人。,"Let's focus on our jobs. Before that, I still have to find someone.",Давай за работу. Но сначала мне нужно кое-кого найти.
+line-120,诗怀雅,随你。记得看时间。,Whatever. As long as you're not late.,Как скажешь. Не забывай следить за временем.
+line-126,陈,星熊，走吧。,"Hoshiguma, we're going.","Хошигума, идём."
+line-128,星熊,去哪？,Where to?,Куда?
+line-130,陈,木禾仓库。,Muk Wo Warehouse.,На склад Мухэ.
