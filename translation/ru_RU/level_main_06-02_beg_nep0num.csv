@@ -1,0 +1,110 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,Rosmontis,Rosmontis,Rosmontis,Rosmontis
+char-2,Scout,Scout,Scout,Scout
+char-3,Ace,Ace,Ace,Ace
+char-4,煌,煌,Blaze,Блейз
+char-5,整合运动成员,整合运动成员,Reunion Member,Боец Воссоединения
+char-6,近卫局成员,近卫局成员,L. G. D. Officer,Сотрудник Гвардии
+,,,,
+line-8,,咦......Rosmontis，你在做什么？,"Oh... Rosmontis, what are you doing?","Эй... Rosmontis, что ты делаешь?"
+line-12,Rosmontis,我......我想修好这个便携终端。,I... I wanna fix this terminal.,Я... я хочу починить этот портативный терминал.
+line-13,Rosmontis,六年前到去年的记忆我都记在这里了......,Six years of memories up to last year... I saved them all in here...,Я записывала сюда все свои воспоминания с шести лет до прошлого года...
+line-14,Rosmontis,今天早上，我想读六月十二号记录的时候，屏幕突然就不亮了。,"This morning, I went to read the log from June 12, but the screen wouldn't turn on.","Сегодня утром я хотела прочитать запись за двенадцатое июня, и экран вдруг погас."
+line-15,Rosmontis,如果......如果真的再读不了......,What if... what if I can't ever read them again...?,Если... если я правда больше не смогу их прочитать...
+line-16,Rosmontis,三月十四号和爸爸去植物园，七月的登山，还有第四个四月，妈妈......,"The March 14th log, when I went to the botanical gardens with daddy, or hiking in July, or the time when mommy...","Четырнадцатое марта — поход в ботанический сад с папой, июль — восхождение на гору, и четвёртый апрель, мама..."
+line-17,Rosmontis,......妈妈......,...Mommy...,...Мама...
+line-20,,别，别哭！那个啥，你不太擅长用电子屏幕对吧？,"D- don't cry! Listen, you're not great with screens, right?","Эй, не плачь! Слушай, ты ведь не очень ладишь с электронными экранами, верно?"
+line-21,,为什么不等Scout来帮你修一下呢？可露希尔也可以啊？,Why not wait until Scout can help you fix it? Or Closure?,"Почему бы не подождать Scout, чтобы он починил его? Или Клозур тоже могла бы помочь?"
+line-22,,我帮你拿给可露希尔吧，几分钟就搞定啦！,I'll take it to Closure for you. She'll fix it up lickety-split!,"Давай я отнесу его Клозур, это займёт всего пару минут!"
+line-24,Rosmontis,Scout是......,Scout...,Scout — это...
+line-25,Rosmontis,是那个吗，走路很轻的干员吗？,Is Scout that one operator who moves around all quiet?,"Это тот оперативник, который ходит очень тихо?"
+line-27,,是他啊！有印象吗？,That's him! You know him?,Это он! Помнишь его?
+line-29,Rosmontis,嗯。,Yeah.,Да.
+line-30,Rosmontis,给人很干净的感觉......像白色的瓷砖一样。,With that perfectly polished look... like a porcelain doll.,От него веет чистотой... как от белой плитки.
+line-31,Rosmontis,他就在那。,There he is.,Он вон там.
+line-33,,......啊？,Huh...?,...А?
+line-37,Scout,从没听过你对我的评价，现在才知道，原来我感受起来是这么脆弱。,I had yet to hear your estimation of me. I now understand how weak it is.,"Никогда раньше не слышал твоего мнения обо мне. Только сейчас понял, насколько хрупким я кажусь."
+line-40,,你什么时候来的？！,When did you get here?!,Ты когда пришёл?!
+line-42,Scout,可以说是一直都在。我习惯隐藏自己了。,You could say I have always been here. I am used to concealing myself.,"Можно сказать, я был здесь всё время. Я привык скрывать своё присутствие."
+line-44,Rosmontis,Scout先生他确实一直都在的。,So Mr. Scout was here all along.,Господин Scout действительно всё время был здесь.
+line-45,Rosmontis,为什么煌没有感觉到呢？,Why didn't Blaze sense it?,Почему Блейз этого не почувствовала?
+line-47,,......我是比较粗线条，没看到啦！,I... I wasn't paying attention. I just didn't notice!,"...Я просто невнимательная, вот и не заметила!"
+line-48,,不是，你听她说了那么久，怎么不帮她修下啊。,"Hey, if you were standing here all this time, why didn't you help her fix it?","Нет, подожди, ты же слышал её всё это время, почему не помог починить?"
+line-50,Scout,抱歉，接下来我们有任务。我得花些精力校准武器。,Forgive me. We are mere moments from undertaking a mission. I must focus my energy on calibrating my weaponry.,"Прости, у нас скоро задание. Мне нужно сосредоточиться на калибровке оружия."
+line-51,Scout,你可能要请可露希尔或是机械师Mechanist先生去解决了。,"You might ask Closure, or the good Mechanist to assist you.",Тебе стоит попросить Клозур или господина Mechanist разобраться с этим.
+line-53,,是那个，营救Dr.{@nickname}的任务吗？,Are you about to go save Dr. {@nickname}?,Это то задание по спасению Доктора {@nickname}?
+line-58,Ace,是。,Yes.,Да.
+line-60,,哦哦，你也来了。,Oh. You're going too.,"О, и ты здесь."
+line-62,Ace,作为主要发起人之一，如果我自己都不去，罗德岛精英干员不是成了笑话？,"It's me we're talking about. If I didn't go, what kind of joke would Rhodes Island's elite operators be?","Я — один из главных инициаторов. Если я сам не пойду, элитные оперативники Родоса станут посмешищем, верно?"
+line-64,Scout,阿斯卡纶怎么回复你的？,And what did Ascalon say?,Что тебе ответила Аскалон?
+line-66,Ace,一样的托辞。她不会参与。同往常一样，她一直都和凯尔希站一边。,"The usual. She's not going. Always there with Kal'tsit, that one.","Очередная отговорка. Она не будет участвовать. Как обычно, она на стороне Кальцит."
+line-68,Scout,......你有没有考虑过，现在可能不是最佳时机？,Did it ever occur to you... That now is perhaps not the optimal time?,"...Ты не думал, что сейчас может быть не самое подходящее время?"
+line-70,Ace,但这也可能是我们最后的机会。,But it might be our last chance.,Но это может быть наш последний шанс.
+line-71,Ace,为了躲避这次天灾，切尔诺伯格很可能会在驶离这里后，转向乌萨斯腹地。在乌萨斯内部展开营救，成功的概率趋近于零。,Chernobog is probably going to turn back deep into Ursus to avoid that Catastrophe. And a rescue operation in the Ursus interior is going to be damn near impossible.,"Чтобы избежать этой катастрофы, Чернобог, скорее всего, после отхода отсюда направится вглубь Урсуса. Шансы на успех спасательной операции внутри Урсуса будут близки к нулю."
+line-74,,听你们说了那么多回，这个Dr.{@nickname}真有那么神奇吗？,"I keep hearing you talk about it, but is this Dr. {@nickname} really worth all this?",Я столько раз об этом слышала... Неужели этот Доктор {@nickname} действительно настолько удивителен?
+line-76,Ace,和阿米娅与凯尔希一样神奇。,Worth as much as Amiya and Kal'tsit.,"Настолько же, насколько Амия и Кальцит."
+line-78,Rosmontis,我见过博士吗？,Have I met the Doctor?,Я видела Доктора?
+line-80,Ace,没有。不过很快你就能见到了。,Not yet. But you will soon.,Нет. Но скоро увидишь.
+line-82,Rosmontis,嗯。我也很想感受一下博士的样子。,Good. I want to know what the Doctor is like too.,"М-м. Я тоже очень хочу почувствовать, какой Доктор на самом деле."
+line-83,Rosmontis,很想。,"I really, really want to.",Очень хочу.
+line-85,Scout,你会的，小猫。,"You will, kitten.","Увидишь, котёнок."
+line-88,,对了，Ace。 你下辖小队里，有个叫灰喉的非患者。,"By the way, Ace, there's an uninfected girl named GreyThroat on your team.","Кстати, Ace. В твоём отряде есть неинфицированная по имени ГрейТроут."
+line-90,Ace,这事我记得。她应该还在单独舱室接受指导。,I'm aware. She's been training in isolation.,Я помню об этом. Она должна быть в отдельном отсеке на инструктаже.
+line-91,Ace,煌，听我一句。我带着她几个月了，她也许不太会表达，但绝对没有恶意。,"Listen, Blaze. I've been working with her for a few months now. She has trouble expressing herself, but she's not a bad person.","Блейз, послушай меня. Я работаю с ней уже несколько месяцев. Возможно, она не умеет выражать свои мысли, но у неё точно нет злых намерений."
+line-93,,但她对我的队员说：“我不知道你们感染者有多痛苦。”,"She looked my teammate in the eye and asked, 'How hard could it be to be Infected?'","Но она сказала моим оперативникам: «Я не знаю, насколько тяжело вам, инфицированным»."
+line-95,Ace,我清楚。但她可能真的只是很疑惑，她想要去问这个问题。,I know. But it might have been a legitimate question to her. She might really be curious.,"Я знаю. Но, возможно, она просто была в замешательстве и хотела задать этот вопрос."
+line-96,Ace,我没资格要求干员立即明白我们的处境，而且，灰喉从没质疑过罗德岛的命令。,It's not my place to demand an operator turn her opinion on a dime. And GreyThroat has never once questioned orders.,"Я не вправе требовать от оперативников немедленного понимания нашего положения. К тому же, ГрейТроут никогда не ставила под сомнение приказы Родоса."
+line-98,,其他我不管，我绝对不允许任何人侮辱我的队员，更别说诋毁罗德岛感染者们的奋斗了。,"I don't care. I'm not going to stand by and let her insult my teammates, and I sure as hell won't let her disgrace the struggle of the Infected.","Мне плевать на всё остальное. Я никогда не позволю кому-либо оскорблять моих бойцов, не говоря уже о том, чтобы порочить борьбу инфицированных Родоса."
+line-100,Ace,不是现在。我知道你在克制怒意，但真的，不是现在。,"Now's not the time. I can see the rage you're holding back. But really, not now.","Не сейчас. Я знаю, что ты сдерживаешь гнев, но правда, не сейчас."
+line-103,,她当着我的面这么说！,She said it right in front of me!,Она сказала это прямо мне в лицо!
+line-105,Scout,大猫，消停些。,"Take a breath, Big Cat.","Большая кошка, успокойся."
+line-106,Scout,你也有任务在身。,You have a task at hand yourself.,У тебя тоже есть задание.
+line-108,,......是啊。,...I do.,...Да уж.
+line-109,,行吧，回来再处理。,Fine. We'll deal with it when you get back.,"Ладно, разберусь с этим, когда вернусь."
+line-110,,谁叫Ace资历比我老呢。,Since when is Ace more senior than me?,"Что поделать, раз у Ace стаж больше моего."
+line-112,Ace,一旦你开始用这种口气说话，我就怀疑你是想戏弄别人。,"When you take that tone, I start to think maybe you're screwing around.","Когда ты начинаешь говорить таким тоном, я подозреваю, что ты хочешь над кем-то подшутить."
+line-114,Scout,她可能真的在取笑你。,She may very well be mocking you.,Она наверняка над тобой подтрунивает.
+line-116,,他只要有两天没修胡子，我就一定会觉得他资历特别老。,"When he goes two days without shaving, he'll definitely look way more senior.","Стоит ему не побриться пару дней, и он сразу кажется мне ужасно старым."
+line-118,Rosmontis,Ace，胡子很硬。,Ace's beard is very manly.,У Ace колючая борода.
+line-120,Ace,......啊。,...Hm.,...А.
+line-122,,哈哈哈。那我去帮她送东西了。我也有任务在身，先走啦。,"Hahaha! I have to go move some stuff around. Got my own job to do, you know. Later.","Ха-ха-ха. Ладно, пойду отнесу вещь. У меня тоже задание, так что я пошла."
+line-123,,等我任务结束回来，我们再去好好喝一场吧！,Let's get a drink when I'm done!,"Когда закончу задание и вернусь, давайте хорошенько выпьем!"
+line-125,Scout,可别再喝得吐一地了。,Try not to puke this time.,Только не напейся снова до тошноты.
+line-126,Scout,Misery擦了两小时地板，再让他见那种场面，他恐怕也要吐出来。,Misery spent two hours scrubbing the floor. I wager he would vomit himself when faced with that task again.,"Misery два часа драил пол. Если он снова увидит такое зрелище, его самого, пожалуй, вывернет."
+line-128,,谁知道你酒量那么好啊！,Who knew you could hold your liquor so well!,"Кто же знал, что ты так много можешь выпить!"
+line-129,,Rosmontis，机械师过会儿就把终端给你送过来。,"Rosmontis, Mechanist will give you back your terminal in a bit.","Rosmontis, Механист скоро принесёт тебе терминал."
+line-130,,乖乖等着就好了，别把这事儿忘了哦！,Be a good girl and wait patiently. But don't forget either!,Просто послушно жди и не забудь об этом!
+line-132,Rosmontis,嗯，我不会忘的！再见！,I'll definitely remember! Bye bye!,"Угу, не забуду! До встречи!"
+line-134,Scout,小心烫伤！,Don't burn yourself!,Смотри не обожгись!
+line-136,,不会啦，自己的法术，我有分寸的啦！,Relax. I can control my own Arts.,"Не обожгусь! Это же мои собственные искусства, я знаю, что делаю!"
+line-146,煌,......怎么会变成你们先走一步？,...How is it you went before me?,"...Как же так вышло, что вы ушли первыми?"
+line-147,煌,Ace，灰喉这样的非感染者，真的值得你去培育吗？,"Ace, was some uninfected girl like GreyThroat really worth training?","Ace, неужели такие неинфицированные, как ГрейТроут, действительно стоили твоих усилий?"
+line-148,煌,我们能得到多少信任，又能奉献出多少信任？,How much trust did we earn? And how much trust did we give?,Сколько доверия мы можем получить и сколько доверия можем отдать сами?
+line-149,煌,如果博士......,If the Doctor...,Если Доктор...
+line-154,,你要说什么？！;......;如果我也不相信罗德岛的话？,What are you saying over there?!;......;If I don't believe in Rhodes Island...?,"Что ты хочешь сказать?!;......;А что, если я тоже не верю Родосу?"
+line-157,煌,要说你的坏话。当面说。,I'm saying bad things about you. To your face.,Буду говорить о тебе гадости. Прямо в лицо.
+line-160,煌,如果博士已经来了，那就赶紧出来，别偷偷摸摸的，想躲在墙角不被发现是需要技术的。,"If there's a Doctor hanging around here, hurry up and come out already. You'll need some fancy Arts to hide behind that wall if you don't want me to find you.","Если Доктор уже пришёл, то выходи скорее, нечего прятаться. Чтобы затаиться в углу и остаться незамеченным, нужно мастерство."
+line-163,煌,那我就把你吊在电线杆上做整合运动的诱饵。放心！不会死的，也就多中几箭吧，开个刀就好了！,Then I'll string you up on a lamppost as bait for Reunion. Don't worry! You won't die. A few bolts and a knife or two never hurt anyone.,"А не то я подвешу тебя на фонарном столбе как приманку для Воссоединения. Не бойся! Не умрёшь, ну, прилетит в тебя пара лишних стрел, потом прооперируем и всё!"
+line-166,煌,......唉。,....sigh.,...Эх.
+line-167,煌,唉！,Sigh!,Эх!
+line-168,煌,阿米娅让你来的？,Did Amiya send you?,Амия тебя прислала?
+line-169,煌,好了别说了。她就这点最好，也就这点最不好......,Whatever. That's what she's best at. And what she's worst at...,"Ладно, не продолжай. Это её лучшая черта и одновременно худшая..."
+line-170,煌,我时时想做些什么提醒下她，让她想想“她还只是个孩子”这种事......每每都适得其反。,"I keep trying to remind her, to get her thinking about how she's still just a kid... it always seems to have the opposite effect.","Я всё время хочу как-то напомнить ей, чтобы она подумала о том, что «она всего лишь ребёнок»... но каждый раз это даёт обратный эффект."
+line-171,煌,只要她还领导着罗德岛，是不是就不可能把她那个小大人架子放下来？哎。,I guess she'll never be able to put down that grown up persona of hers as long as she's the leader of Rhodes Island.,"Пока она возглавляет Родос, неужели она так и не сможет отбросить этот образ не по годам взрослого лидера? Эх."
+line-172,煌,当然，如果不是阿米娅让你来，而是你主动要来陪我什么的，我是不会反感的。,"Of course, if it wasn't Amiya who sent you, if you decided to come keep me company all by yourself, I'm not against the idea.","Конечно, если тебя прислала не Амия, а ты сам решил прийти и составить мне компанию, я не буду против."
+line-173,煌,......拖后腿？放心吧，带着三个你我都能行动自如，别说只一个Dr.{@nickname}了。,...Hold me back? Haha! I could carry three of you on my back and I wouldn't even notice. One little Dr. {@nickname} can't hold me back.,"...Обуза? Не волнуйся, я могу свободно действовать, даже если на мне будет висеть три таких, как ты, не говоря уже об одном Докторе {@nickname}."
+line-174,煌,哎，你看那边。,"Hey, look over there.","Эй, посмотри туда."
+line-182,整合运动成员,为什么不走！你们走啊！我们不想打了！,Go on! Get out of here! We don't want to fight!,Почему вы не уходите! Уходите! Мы не хотим драться!
+line-183,近卫局成员,唔......我们不会向感染者屈服！,Hmph... we won't yield to the Infected!,Гх... Мы не сдадимся инфицированным!
+line-184,整合运动成员,你们就几个人，为什么要这么做，有什么好处！,You're outnumbered! What's the point?,"Вас всего несколько человек, зачем вы это делаете? Какая вам выгода?!"
+line-185,近卫局成员,这是职责！,Duty!,Это наш долг!
+line-186,整合运动成员,那就不要怪我们下手狠了！你没看到我们背后那些怪物吗！快些逃啊！！,Don't blame us for what happens! You see those monsters behind us? Just run already!,Тогда не вините нас за жестокость! Вы разве не видите тех монстров у нас за спиной?! Убегайте скорее!!
+line-187,近卫局成员,哪有什么怪物？！,What monsters?!,Каких ещё монстров?!
+line-195,煌,看到那批正在穿小巷的整合运动没？他们好像在进攻龙门人的阵线欸。那几个龙门人应该撑不太久......,See that Reunion group cutting through the alleys? They're picking at Lungmen's vanguard units. They won't hold for long...,"Видишь ту группу Воссоединения, что пробирается через переулки? Кажется, они атакуют позиции лунмэньцев. Те вряд ли долго продержатся..."
+line-196,煌,给我规划条路线呗。,Give me a path.,Спланируй-ка мне маршрут.
+line-197,,正常的还是......,"The usual, or...?",Обычный или...
+line-200,煌,当然是最快的啦！,"The fastest, of course!","Конечно, самый быстрый!"
+line-201,煌,别那个表情嘛。扛着你跳上跳下，这也不是第一次了。,Don't give me that look. It's not like I've never carried you before.,"Ну, не делай такое лицо. Мне не впервой прыгать туда-сюда, неся тебя на плечах."
+line-202,煌,好！把那群整合运动揍趴下，顺带帮一把那些龙门人吧！,Here we go! Smash Reunion and save the Lungmenites!,"Хорошо! Разобьём это Воссоединения в пух и прах, а заодно поможем тем ребятам из Лунмэня!"
