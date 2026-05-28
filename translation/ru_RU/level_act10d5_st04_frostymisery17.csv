@@ -1,0 +1,411 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,frostymisery17
+__language__,,Language,en_US,ru_RU
+char-1,近卫干员,近卫干员,Vanguard Operator,Оператор Авангарда
+char-2,后勤干员,后勤干员,Logistics Operator,Оператор Логистики
+char-3,？？？,？？？,???,???
+char-4,娜塔莉娅,娜塔莉娅,Natalya,Наталья
+char-5,干员塞伦,干员塞伦,Operator Saren,Оператор Сарен
+char-6,圆规,圆规,Compass,Компас
+char-7,凛冬,凛冬,Zima,Зима
+char-8,维克多,维克多,Viktor,Виктор
+char-9,尼古拉,尼古拉,Nikola,Николай
+char-10,帕维尔,帕维尔,Pavel,Павел
+char-11,塔吉扬娜,塔吉扬娜,Tatyana,Татьяна
+char-12,安东,安东,Anton,Антон
+char-13,安德烈,安德烈,Andrey,Андрей
+char-14,早露,早露,Rosa,Роса
+,,,,
+line-8,近卫干员,这稍微有些生涩的口感，这好像放多了盐的味道，啊，回家的感觉！,"This unripe texture, this slightly-too-salty flavor, oh, I'm finally home again!","Эта жестковатая текстура, этот слегка пересоленный вкус... о, я наконец-то снова дома!"
+line-9,后勤干员,不就是出了一次长任务，你至于吗？,It was just a long mission. You don't have to kiss the deck.,Это была всего лишь долгая миссия. Не обязательно так убиваться.
+line-10,近卫干员,哎，你是不知道，乌萨斯的食物我实在是吃不惯。,"Hey, you don't know how I take to Ursus food. It really doesn't agree with me.","Эх, ты не знаешь, как я отношусь к урсуской еде. Она мне совсем не нравиться."
+line-11,近卫干员,还是罗德岛的食堂好，全是我喜欢吃的东西。,Our canteen's way better. I like everything here.,В нашей столовой гораздо лучше. Здесь мне нравится всё.
+line-12,后勤干员,从你刚才的感慨来看，我可听不出这是你喜欢吃的东西......,"The way you just put it, it doesn't exactly sound like you like it.","Судя по твоим словам, не похоже, что тебе это нравится..."
+line-13,近卫干员,好吃和喜欢吃又不一样。,Something doesn't have to taste good for me to like it.,"Еде не обязательно быть вкусной, чтобы она мне нравилась."
+line-14,近卫干员,那我还被一些找到亲戚的难民请去吃了大餐呢，啧啧，那叫一个精致典雅高贵。,"I helped some survivors find their relatives and they thanked me with a banquet. A big, classy, noble shindig.","Я помог нескольким беженцам найти их родственников, и они отблагодарили меня банкетом. Большой, классный, благородный прием."
+line-15,近卫干员,但我还是觉得不习惯。,But let's just say my palate isn't so refined.,"Но, скажем так, я к такому не привык."
+line-16,后勤干员,行吧，以后你就叫被罗德岛食堂驯服的男人了。,"Yeah, sure. You're totally dependent on the Rhodes Island Cafeteria.","Да, хорошо. Теперь ты человек, прирученный столовой Родос Айленда."
+line-17,后勤干员,所以这次任务怎么样？,So what was the mission?,Так как прошла миссия?
+line-18,近卫干员,很简单啊，你又不是不知道，把我们从切尔诺伯格救出来的难民送去其他的乌萨斯城市。就是跑跑腿，只是比较花时间而已。,"I'm pretty sure you know the deal. Resettling the refugees from Chernobog in other Ursus cities. Easy stuff, but time-consuming.","Ты и так всё знаешь. Переселение беженцев из Чернобога в другие города Урсуса. Просто беготня, но отнимает много времени."
+line-19,后勤干员,当我没问，你这家伙，听到能帮难民就最上心了。,Forget I asked. I know how much refugee ops mean to you.,"Забудь, что я спросил. Я знаю, как много для тебя значит помощь беженцам."
+line-20,近卫干员,是啊，虽然时间和人数都不允许我们做很多事，但救一个是一个吧。,Yeah. There's only so much we can do when there's so many of them and so few of us. But a life saved is a life saved.,"Да. Учитывая время и количество людей, мы можем сделать не так уж много, но каждая спасенная жизнь — это спасенная жизнь."
+line-21,近卫干员,我也听杜宾说了我们现在的处境不好和乌萨斯有什么接触，所以阿米娅和博士愿意做这样的救援我就已经很高兴了。,"I heard Dobermann talking about how we're not in the best position with Ursus right now, so it's great that Amiya and the Doctor are still willing to do these rescue operations.","Я слышал от Доберман, что сейчас мы не в лучшем положении из-за стычек с Урсусом, поэтому я очень рад, что Амия и Доктор всё еще готовы проводить эти спасательные операции."
+line-22,后勤干员,嗯，我们这边也为有这样的领袖高兴。,Sure. We lucked out with those two.,"Да. Мы тоже рады, что у нас такие лидеры."
+line-23,后勤干员,不过，这件事上，除了阿米娅和博士，还要特别感谢一个人呢。,"Well, there's another one we owe a lot of thanks too.","Впрочем, в этом деле, кроме Амии и Доктора, нужно поблагодарить еще одного человека."
+line-24,近卫干员,噢，我知道我知道，路上的时候听其他人说了，好像是一个叫娜塔莉娅的女孩是吧。,"Oh yeah, I heard about her out on the road. Some girl named Natalya?","О да, знаю-знаю, я слышал о ней в дороге. Какая-то девушка по имени Наталья?"
+line-25,后勤干员,嗯，她可是我们这里的大明星呢。,Right. She's a big celebrity here now.,Верно. Теперь она у нас большая знаменитость.
+line-27,？？？,哎呀，我好像听到有人在谈论我的样子？,"Oooh, my ears are burning.","Ой, кажется, кто-то меня обсуждает?"
+line-28,后勤干员,啊，娜塔莉娅，中午好。,"Hey, Natalya, how you doing?","Ах, Наталья, добрый день."
+line-33,娜塔莉娅,塞伦先生，午安。还有这位是......,"Good afternoon, Mr. Saren. And you are...?","Добрый день, мистер Сарен. А это...?"
+line-35,近卫干员,我代号叫圆规，叫我圆规就好。,Codename Compass. Nice to meet you.,"Мое кодовое имя Компас, так меня и зовите."
+line-37,娜塔莉娅,圆规......是个好代号呢，午安。不介意的话，我能坐在这里吃饭吗？,Compass.. a fine codename. Good afternoon. Would you mind if I joined you?,"Компас... отличное кодовое имя. Добрый день. Вы не возражаете, если я сяду здесь пообедать?"
+line-39,干员塞伦,当然可以！,By all means!,Конечно!
+line-41,圆规,喂，我听说只是个学生......,"Hey, didn't I hear she was just a student?","Эй, я слышал, она всего лишь студентка..."
+line-42,圆规,这不是一眼就看得出是个超级大小姐吗！,This is no little girl! She's *gulp* pretty big!,"Но с первого взгляда видно, что она настоящая леди!"
+line-44,干员塞伦,又不冲突！,What do you think 'student' means?,Одно другому не мешает!
+line-46,圆规,我完全不知道该怎么跟这样的人说话啊！,I don't know how to talk to a lady like this!,"Я совершенно не знаю, как разговаривать с такими людьми!"
+line-48,干员塞伦,别紧张，娜塔莉娅很好说话的。,Relax. Natalya's real easy-going.,Расслабься. Наталья очень проста в общении.
+line-50,娜塔莉娅,说起来，听两位刚才说的话，圆规先生是刚刚完成护送难民的任务回来吗？,Did I happen to overhear that the good Compass has just returned from resettling refugees?,"Кстати говоря, судя по вашему разговору, мистер Компас только что вернулся с миссии по сопровождению беженцев?"
+line-52,圆规,对，我们刚才还在聊这个呢。,That's right. We were just talking about it.,"Верно, мы как раз об этом говорили."
+line-54,干员塞伦,对对，我正打算跟他说娜塔莉娅你在这件事里起的作用呢。,I was telling him all that you did to help.,"Да-да, я как раз собирался рассказать ему о твоей роли в этом деле, Наталья."
+line-56,娜塔莉娅,我只是做了一些微不足道的工作而已。,Oh my role was completely trivial.,"Ох, я почти ничего не сделала."
+line-58,干员塞伦,你太谦虚了，如果不是娜塔莉娅你主动去游说那些难民，我们的工作绝对不会进展得这么顺利。,"You're too modest. If it wasn't for Natalya pushing the survivors along, we would've had a much tougher time.","Ты слишком скромна. Если бы не ты, Наталья, и не твои уговоры беженцев, наша работа не шла бы так гладко."
+line-60,圆规,我在路上也听难民们说过，说是有一个特别好心和善良的小姐告诉他们罗德岛都是好人。,The refugees were talking about her too. They said there was a kind young lady who told them Rhodes Island is good people.,"Я тоже слышал от беженцев в дороге. Они говорили, что одна очень добрая и милая девушка сказала им, что в Родос Айленде хорошие люди."
+line-61,圆规,哎，听塞伦这么说，我也得好好感谢你了，娜塔莉娅小姐。,"And after hearing it right from Saren, I really gotta thank you, Miss Natalya.","И, услышав это от Сарена, я действительно должен поблагодарить вас, мисс Наталья."
+line-62,圆规,老实说，一些难民对我们的态度也好不到哪里去，没有你的话，我完全可以想象路上会有多少不愉快。,"The refugees having a good image of us makes all the difference in the world. Without you, I know things would've gone bad out there.","Честно говоря, отношение некоторых беженцев к нам оставляет желать лучшего. Без тебя, я представляю, сколько неприятностей могло бы быть в пути."
+line-63,圆规,虽然我自己也是难民出身，完全可以理解他们，但我也不想做好事还遭白眼啊。,"I mean, I was a refugee too. I know how they think. But it still sucks when you're trying to do good and people don't trust you.","Хотя я сам был беженцем и полностью их понимаю, мне не хочется делать добро и получать в ответ косые взгляды."
+line-65,娜塔莉娅,这些都是我应该做的，真正辛苦的是圆规先生你们护送的人。,"I did the absolute bare minimum. It was you out there doing the real work, Compass.","Это меньшее, что я могла сделать. Настоящую работу делаете вы, мистер Компас, сопровождая их."
+line-66,娜塔莉娅,大家不是不相信罗德岛，只是他们刚刚蒙受了灾难，对谁都没有办法很好信任。,And it's not that they don't trust Rhodes Island. It's that they've suffered a Catastrophe and they don't trust anyone.,"Дело не в том, что люди не доверяют Родос Айленду. Просто они только что пережили катастрофу и никому не могут доверять."
+line-67,娜塔莉娅,我也只是感觉到罗德岛确实是为大家好，而且我以前作为学生会长最常做的就是这样的事，这些都是我擅长的。,"I sensed that Rhodes Island had everyone's best interests at heart. And having been Student Council President, I was used to this business. It's what I'm good at.","Я просто почувствовала, что Родос Айленд действительно желает всем добра. К тому же, в прошлом, будучи президентом студенческого совета, я часто занималась подобным. Это то, в чем я хороша."
+line-69,圆规,啧啧，塞伦，你听听，这才叫人话，听了让人舒坦。,"You hear that, Saren? This is how you talk to people. Listen up.","Ай-ай-ай, Сарен, ты только послушай. Вот это правильные слова, их так приятно слышать."
+line-71,干员塞伦,我刚才就跟你说了，娜塔莉娅很好说话的好吧。,Didn't I just say Natalya is easy-going?,"Разве я только что не сказал тебе, что Наталья проста в общении?"
+line-72,干员塞伦,一开始听说新人过去是贵族大小姐时我们还有点担心不好相处。,"When word got around that the new kid was some aristocratic heiress, we were all worried about getting along.","Поначалу, когда мы услышали, что новенькая — аристократка, мы немного переживали, что с ней будет трудно поладить."
+line-73,干员塞伦,结果来了之后发现，工作能力又强，又很好说话，跟谁都能打好关系，每个人都喜欢她。,"But it turns out she's good at her job, easy to talk to, super easy to get along with. We all love Natalya.","Но оказалось, что она отлично работает, с ней легко говорить, и она ладит со всеми. Все её любят."
+line-75,娜塔莉娅,没有的事，只是我年纪还小，大家都愿意照顾我而已。,Oh my no. Everyone's only willing to put up with me because I'm so young.,"Вовсе нет, просто я еще молода, и все готовы обо мне заботиться."
+line-77,圆规,这么说起来，娜塔莉娅小姐已经决定留在罗德岛了？,"Speaking of, did you decide to stay with Rhodes Island?","Кстати говоря, мисс Наталья, вы решили остаться в Родос Айленде?"
+line-79,娜塔莉娅,是的，上个星期我已经通过了后勤部门的考核，正式成为了罗德岛的员工之一。,I did. I passed the Logistics Department's examination last week. I am now formally employed by Rhodes Island Pharmaceuticals.,Да. На прошлой неделе я сдала экзамен в отдел логистики и официально стала одной из сотрудниц Родос Айленда.
+line-81,圆规,噢，那太好了，相信我，你一定会喜欢上这里的。,"Wow, that's great news. You're gonna love it here, trust me.","О, это замечательно! Поверь мне, тебе здесь обязательно понравится."
+line-83,娜塔莉娅,我已经有些喜欢上这里了。,I'm already very pleased.,Мне уже здесь начинает нравится.
+line-84,娜塔莉娅,说起来，塞伦先生，第二批难民的名单和他们需要被送往的目的地我也已经准备好了，午休结束后就麻烦你推进下去了。,"As long as we're on the subject, Mr. Saren, I've finished compiling the second refugee manifest, pairing names with destinations. If you wouldn't mind sending it along after lunch.","Кстати, мистер Сарен, я подготовила список второй группы беженцев и пункты их назначения. После обеденного перерыва, пожалуйста, займитесь этим."
+line-86,干员塞伦,哦？这么快吗？,What? Already?,О? Так быстро?
+line-87,干员塞伦,也就是说，救出来的难民们实质上已经全部有了去处了吗？,That means the refugees we saved all have somewhere to go?,"То есть, всем спасенным беженцам теперь есть куда пойти?"
+line-89,娜塔莉娅,嗯，除了还有一部分在接受治疗的之外，其他已经全部确认完成了。,Yes. Aside from those who are still undergoing treatment.,"Да. За исключением тех, кто еще проходит лечение, остальные полностью распределены."
+line-91,干员塞伦,厉害厉害，部长把这件事交给你负责果然是正确的选择。,Incredible. It's a good thing the section chief put you on the task.,"Потрясающе! Начальник отдела определенно сделал правильный выбор, поручив это тебе."
+line-93,娜塔莉娅,我只是做了我该做的事而已。,I'm only doing my duty.,Я просто выполняю свою работу.
+line-95,圆规,这么说，我也得赶紧去申请参加第二批的护送了。,I guess I'd better go put in for the second resettlement op then.,В таком случае мне тоже нужно поспешить и подать заявку на участие во второй миссии по сопровождению.
+line-97,干员塞伦,第二批你也要去？你不是吃不惯乌萨斯的饭菜吗？,You want to head out there again? Didn't you just get done telling me you can't stand Ursus food?,"Ты собираешься и во вторую группу? Разве ты не говорил, что терпеть не можешь урсускую еду?"
+line-99,圆规,但我看到他们回到自己熟悉的地方，找到亲戚的表情就很开心啊。,"Yeah, but seeing the survivors return to their homes and their relatives, seeing them so happy makes up for it.","Да, но видеть, как они возвращаются в родные места и находят своих родственников, — это делает меня счастливым."
+line-100,圆规,哎，不说了，饭也吃差不多了，帮我倒一下，我先去申请了！,"Right, I'm about done with lunch. Help me with the tray, will you? I gotta go apply.","Эх, ладно, хватит болтать, я уже почти доел. Помоги мне убрать поднос, я пойду подавать заявку!"
+line-102,干员塞伦,喂，我才不要帮你倒饭啊！,"Hey, bus your own tray!","Эй, я не собираюсь убирать за тобой!"
+line-103,干员塞伦,啧，不好意思啊，娜塔莉娅，让你见笑了，他就是这样急匆匆的性格。,"Sorry about him, Natalya. That's just how he is.","Тц, извини, Наталья. Прости, что пришлось это увидеть, просто у него такой суетливый характер."
+line-105,娜塔莉娅,圆规先生对难民是有一些执着......吗？,Our good Compass has quite the attachment to the refugees...?,У мистера Компаса какая-то особая привязанность к беженцам...?
+line-107,干员塞伦,对，你刚才也听到了，他过去也是难民，是被我们一支小队救的，所以每次遇到和难民有关的任务他就特别上心。,"He does. You heard him say he was a refugee too, right? One of our teams saved him, so he's pretty gung ho about any ops that have to do with refugees.","Да, ты же слышала, он тоже был беженцем. Одна из наших команд спасла его, поэтому он с особым рвением берется за задания, связанные с беженцами."
+line-109,娜塔莉娅,两位关系很好吗？,And you seem to get along well?,А вы двое хорошо ладите?
+line-111,干员塞伦,啊，是啊，算不错吧。他一开始也在后勤呆了一段时间，后来才转去前线的，算是同期，性格也挺合得来，不知不觉就成了好朋友。,"Oh, yeah. I guess we do. He was in Logistics for a bit, before transferring to the front lines. We had some time together, our personalities clicked, and so we're friends.","А, да, вполне. Он поначалу тоже был в логистике, а потом перевелся на передовую. Мы почти ровесники, сошлись характерами и как-то незаметно подружились."
+line-112,干员塞伦,我记得娜塔莉娅你也是那个自治团的一员吧。,"You're with that Ursus Student Self-Governing Group, right?","Я помню, ты ведь тоже была частью этого союза самоуправления, Наталья?"
+line-114,娜塔莉娅,是的，不过索......凛冬她们和圆规先生一样是前线干员，而我留在了后勤部而已。,"Yes. But Son... Zima and the girls are front line operators like Compass, and I'm in Logistics.","Да, но Со... Зима и остальные — оперативники передовой, как и мистер Компас, а я осталась в логистике."
+line-116,干员塞伦,听说你们是一起被发现的，你们的关系也很好吧？,I heard you were all found together. You're very close too?,"Я слышал, вас нашли всех вместе. Вы, наверное, очень близки?"
+line-118,娜塔莉娅,......嗯，是的，那段时光我们一直在一起，关系很好。,"...Yes, yes we are. We were together all that time. We're very close.","...Да, мы всё то время были вместе, мы очень близки."
+line-120,干员塞伦,共患难啊，那很好，啊，别误会，我不是说灾难好。,"You went through it as a group. That's good. Err, not to say that kind of hardship is good.","Прошли вместе через трудности, это хорошо. А, не пойми неправильно, я не говорю, что сама катастрофа — это хорошо."
+line-122,娜塔莉娅,我知道的。,I know what you mean.,Я понимаю.
+line-127,凛冬,......,......,......
+line-129,娜塔莉娅,嗯？那是......,Oh? Zima...,А? Это...
+line-131,干员塞伦,那不是凛冬吗，真巧，我们刚提到她。,"Speak of the devil, huh?","Это же Зима, какое совпадение, мы только что о ней говорили."
+line-132,干员塞伦,咦，她是不是在看你？,Is she staring at you?,"Эй, она уставилась на тебя?"
+line-134,娜塔莉娅,嗯。,Yes.,Да.
+line-136,娜塔莉娅,......,......,......
+line-138,娜塔莉娅,抱歉，塞伦先生，我先离开一下。,"Forgive me, Saren. I must be going.","Извините, мистер Сарен, мне нужно ненадолго отойти."
+line-140,干员塞伦,没问题。,"Yeah, sure.",Без проблем.
+line-150,娜塔莉娅,凛冬，你找我吗？,"Are you looking for me, Zima?","Зима, ты искала меня?"
+line-152,凛冬,......,......,......
+line-154,娜塔莉娅,你没事吧，你的脸色很差。,Are you okay? You look pale.,Ты в порядке? Ты выглядишь очень бледной.
+line-156,凛冬,我......,I...,Я...
+line-157,凛冬,没什么，我一定是疯了才会想着来找你，当我没来过吧。,I'm fine. I shouldn't have come looking for you. Forget I was here.,"Ничего, я, должно быть, сошла с ума, раз решила прийти к тебе. Сделай вид, что меня тут не было."
+line-162,娜塔莉娅,哎，等等。,"Hey, wait.","Эй, подожди."
+line-168,凛冬,别拉我！,Don't touch me!,Не тяни меня!
+line-170,娜塔莉娅,来聊聊吧，索尼娅。自从来到这里，我们还没有好好聊过呢。,"Talk to me, Sonya. We haven't had a good talk since we came here.","Давай поговорим, Соня. С тех пор, как мы прибыли сюда, мы еще ни разу толком не общались."
+line-172,凛冬,......,......,......
+line-174,娜塔莉娅,来我的房间吧。,Come to my room.,Пойдем в мою комнату.
+line-183,娜塔莉娅,请坐，要喝点什么吗？咖啡，红茶，我都有。,Have a seat. Care for a drink? Coffee? Tea? I have both.,Присаживайся. Будешь что-нибудь пить? У меня есть кофе и чай.
+line-185,凛冬,......不愧是贵族大小姐。,...That's the aristocrat in you.,"...Сразу видно, что ты благородная леди."
+line-187,娜塔莉娅,还有力气讽刺我，看起来你比我想象的要正常一点呢，你刚才的脸色很糟糕。,You still have the strength to tease me. Looks like you're in better shape than I thought. Your face back there was a ghastly sight.,"У тебя еще есть силы язвить. Похоже, тебе гораздо лучше, чем я думала. У тебя был ужасный цвет лица."
+line-188,娜塔莉娅,那就喝咖啡吧，罗德岛上卖的咖啡味道还不错哦，不过红茶就相当一般了。,"Let's call it coffee then. Rhodes Island has some fine beans, but I can't say the same for their tea.","Тогда давай выпьем кофе. В Родос Айленде довольно неплохой кофе, а вот чай весьма заурядный."
+line-189,娜塔莉娅,理由据说是因为总工程师小姐对咖啡有特别的执着。你觉得呢？,I've heard it has to do with the Chief Engineer. She's quite particular about her coffee. What do you think?,"Говорят, это потому, что Главный инженер имеет особую страсть к кофе. Как ты думаешь?"
+line-191,凛冬,我怎么知道。,How should I know?,Откуда мне знать.
+line-193,娜塔莉娅,呵呵，最近听到的都是赞美之词，我都有些怀念你对我的这种充满攻击性的态度了呢。,Heh heh. I've been hearing nothing but praise lately. I'd missed your venomous tongue.,"Хе-хе, в последнее время я слышу только похвалу, поэтому немного скучала по твоему агрессивному тону."
+line-195,凛冬,你还是这么讨人厌。,And I'm sick of you already.,А ты всё такая же раздражающая.
+line-197,娜塔莉娅,你要糖吗？,Do you take it with sugar?,Тебе с сахаром?
+line-199,凛冬,不要。,No.,Нет.
+line-201,娜塔莉娅,真的吗，我泡的是黑咖啡。,Really? It's black.,Правда? Я заварила черный кофе.
+line-203,凛冬,不要。,No.,Нет.
+line-205,娜塔莉娅,好吧。,Alright.,Хорошо.
+line-206,娜塔莉娅,请用。,Enjoy.,Угощайся.
+line-208,凛冬,......,......,......
+line-209,凛冬,呕。,Bleh.,Угх.
+line-211,娜塔莉娅,是不是被苦到了？,"It's too bitter, isn't it?",Слишком горько?
+line-213,凛冬,......,......,......
+line-215,娜塔莉娅,好啦，我来帮你加一勺糖。,Come now. Take a spoonful of sugar.,"Ну ладно, давай я добавлю ложечку сахара."
+line-217,凛冬,你把我拉过来就是为了捉弄我？,Did you drag me here to screw with me?,"Ты притащила меня сюда, чтобы поиздеваться?"
+line-219,娜塔莉娅,不要糖的可是你，索尼娅。,"You're the one who wouldn't take the sugar, Sonya.","Но это ведь ты отказалась от сахара, Соня."
+line-221,凛冬,啧。,Hmph.,Тц.
+line-223,娜塔莉娅,而且不要忘了，先来找我的，也是你哦，索尼娅。,"And let's not forget, it was you who came looking for me.","И не забывай, Соня, ты сама первая ко мне пришла."
+line-225,凛冬,......我说过了，没有什么要和你说的，我们不是朋友，我也不喜欢你。,"I already told you, that was a mistake. We're not friends. I don't like you.","...Я же сказала, мне не о чем с тобой разговаривать. Мы не друзья, и ты мне не нравишься."
+line-227,娜塔莉娅,是啊，我和你也好，和安娜也好，都算不上朋友呢，我们只是一起从那里活了下来而已。,True. We're not friends. Nor is Anna my friend. We simply survived together.,"Верно. Ни с тобой, ни с Анной мы не можем считаться друзьями. Мы просто вместе выжили там."
+line-229,凛冬,我只是......,Simply...,Я просто...
+line-231,娜塔莉娅,索尼娅，有些话，越是亲近的人，越是无法诉说的。,"Sonya, there are some things that are harder to say to those closest to you.","Соня, есть вещи, о которых труднее всего сказать самым близким людям."
+line-232,娜塔莉娅,如果你是我的朋友，我是不会拉你过来的。,"If you were my friend, I would not have brought you here.","Если бы мы были друзьями, я бы не привела тебя сюда."
+line-233,娜塔莉娅,有些话，只有对方不那么重要，而又明白你的处境时，才是最方便倾诉的。,"Some things can only be said to someone unimportant, someone who understands your situation.","Иногда удобнее всего излить душу кому-то, кто не так важен для тебя, но понимает твою ситуацию."
+line-234,娜塔莉娅,对我来说，这个人最好是安娜，是你也可以。,"For me, the best person is Anna. But you'll do.","Для меня лучшим таким человеком была бы Анна, но и ты подойдешь."
+line-235,娜塔莉娅,嗯......罗莎琳性格太直接了，不行，拉达太善良，也不行。,Mmm... Rosalind is too direct and open. While Lada is too honest and kindhearted. They won't do.,"М-м... Розалинда слишком прямолинейна, не годится, Лада слишком добрая, тоже не подойдет."
+line-236,娜塔莉娅,而对你来说也是一样的，这个角色恐怕只有我了，所以对于你来找我，我倒是也没有那么意外。,"Surely you feel the same. Which means you have only me, I'm afraid. I'm honestly not surprised you came to me.","И для тебя то же самое. Пожалуй, на эту роль подхожу только я, поэтому я не так уж удивилась, когда ты пришла ко мне."
+line-238,凛冬,你是说，你想和我说话？,Does that mean you want to talk to me?,"Ты хочешь сказать, что хочешь со мной поговорить?"
+line-240,娜塔莉娅,是的。,Yes.,Да.
+line-242,凛冬,为什么？,Why?,Почему?
+line-244,娜塔莉娅,......索尼娅，这两个月，你作为干员战斗下来的感觉怎么样？,"...Sonya, these last two months, how do you feel, fighting as an operator?","...Соня, как тебе эти два месяца сражений в качестве оперативника?"
+line-246,凛冬,什么叫怎么样，战斗，就是战斗。除了要听那个博士的指挥有点烦。,What do you mean 'feel?' It's just fighting. I guess it does suck to have to listen to that Doctor.,В смысле «как»? Бой есть бой. Разве что немного раздражает слушать команды Доктора.
+line-248,娜塔莉娅,你连博士都敢顶撞的事连在后勤部的我都有所耳闻哦，真有你的风格呢。,Your talking back to the Doctor even made it up to Logistics. You're quite something.,"Даже до меня в отдел логистики дошли слухи о том, как ты дерзишь Доктору. Это в твоем стиле."
+line-250,凛冬,......我不像你，我不会说漂亮话。,...I'm not like you. I don't talk fancy.,"...Я не такая, как ты, я не умею говорить красиво."
+line-253,娜塔莉娅,其实我是想问，在经历了那样的事情后，拿起武器真的不会让你感觉难受吗？,"What I really want to ask is, after all we've been through, do you not struggle to pick up a weapon?","На самом деле я хотела спросить: после всего, что мы пережили, тебе правда не тяжело брать в руки оружие?"
+line-255,凛冬,......我喜欢战斗。,...I like fighting.,...Мне нравится сражаться.
+line-257,娜塔莉娅,原来如此......话说回来，我还是建议你学一些所谓的漂亮话比较好哦，不然会吃亏的。,"I see... Still, I think it would be in your best interest to learn some 'fancy talk.' It could save your life.","Вот как... Кстати, я бы советовала тебе научиться говорить эти самые «красивые слова», иначе можешь поплатиться за это."
+line-259,凛冬,不用你操心。,You don't have to worry.,Не твое дело.
+line-261,娜塔莉娅,虽然我们确实不是朋友关系，不过毕竟也算是同甘共苦的伙伴呢，关心伙伴是很正常的吧？,"We may not be friends, but we've been through so much together. I think it's normal to care about you, as a colleague.","Хоть мы и не друзья, мы всё же товарищи, прошедшие через горе и радость. Заботиться о товарищах — это же нормально, не так ли?"
+line-262,娜塔莉娅,而且老实说，我还是很喜欢你，想和你成为朋友的。,"And to tell the truth, I do quite like you. I would like to be your friend.","И, честно говоря, ты мне нравишься, и я бы хотела с тобой подружиться."
+line-264,凛冬,......哈？,...Huh?,...А?
+line-266,娜塔莉娅,不，确切地说，是羡慕你吧。因为你能轻易做到我做不到的事。,"To be more precise, I'd say I envy you. Because you do so easily what I could never do.","Нет, точнее сказать, я завидую тебе. Потому что ты так легко делаешь то, чего я никогда не смогу."
+line-267,娜塔莉娅,对了，索尼娅，真的不能告诉我你为什么来找我吗？,"Now then, Sonya, won't you tell me what made you seek me out?","И всё же, Соня, ты правда не скажешь мне, почему ты пришла ко мне?"
+line-269,凛冬,......我最近一直在做噩梦。,...I've been having nightmares lately.,...В последнее время мне снятся кошмары.
+line-271,娜塔莉娅,可以告诉我噩梦的内容吗？,Can you describe them to me?,"Можешь рассказать, о чем твои кошмары?"
+line-273,凛冬,......不能。,...No.,...Нет.
+line-275,娜塔莉娅,好吧，不过我猜，那一定包含不能对安娜说的东西吧？不然你肯定不会来找我的，不是吗？,"Alright. Let me guess. They must be something you can't talk to Anna about. Otherwise you wouldn't have come to me, right?","Хорошо, но я полагаю, что там есть нечто, о чем ты не можешь рассказать Анне? Иначе бы ты не пришла ко мне, верно?"
+line-277,凛冬,......是。,...Right.,...Да.
+line-279,娜塔莉娅,其实还在切尔诺伯格的时候我就已经有这种感觉了。,I figured it out while we were still in Chernobog.,"На самом деле, у меня было такое чувство, еще когда мы были в Чернобоге."
+line-280,娜塔莉娅,你们做事很有默契，你们知道对方想要什么，但是，你们却似乎在避免和对方交流。,"You two have an understanding. You each know what the other needs, but you avoid talking about it.","Между вами есть понимание. Вы знаете, чего хочет другая, но, кажется, избегаете говорить об этом."
+line-282,凛冬,不用你管。,None of your business.,Не твое дело.
+line-284,娜塔莉娅,放心，我并不是想开导你。我现在不认为自己有任何可以引导别人的资格。,"Relax, I'm not trying to tell you what to do. I'm in no position to be giving advice to others right now.","Расслабься, я не собираюсь читать тебе нотации. Сейчас я не считаю, что имею какое-либо право наставлять других."
+line-285,娜塔莉娅,换个话题吧，索尼娅，你打算以凛冬的身份活下去吗？,"Let's talk about something else, Sonya. Do you plan to live your life as Zima now?","Давай сменим тему. Соня, ты планируешь и дальше жить как Зима?"
+line-287,凛冬,什么意思？,What do you mean?,Что ты имеешь в виду?
+line-289,娜塔莉娅,我是说，你打算一直待在罗德岛吗？,I mean are you going to stay at Rhodes Island?,"Я имею в виду, ты собираешься остаться в Родос Айленде?"
+line-290,娜塔莉娅,我们是可以不留在罗德岛的。这里的大人真的人很好，如果我们想要离开，是可以去安稳的地方生活的。,"We don't have to. The people here are very understanding. If we wanted to leave, they would send us off somewhere peaceful.","Мы не обязаны здесь оставаться. Взрослые здесь очень хорошие, и если бы мы захотели уйти, мы могли бы отправиться жить в мирное место."
+line-291,娜塔莉娅,和我们一起被救出来的人，已经有不少已经在返回乌萨斯的路上了。,"There are many survivors like us, rescued at the same time, already on their way back to Ursus.","Многие из тех, кого спасли вместе с нами, уже возвращаются в Урсус."
+line-292,娜塔莉娅,如果我们想，我们也可以去乌萨斯的另一座城市，在那里开始我们的新生活。,"If we wanted to, we could go to another city in the Empire and start new lives.","Если бы мы захотели, мы могли бы поехать в другой город Урсуса и начать там новую жизнь."
+line-294,凛冬,你为什么没有走？,So why haven't you left?,Почему ты не уехала?
+line-296,娜塔莉娅,我不知道。,I don't know.,Не знаю.
+line-298,凛冬,......？,......?,......?
+line-304,娜塔莉娅,今天天气真不错啊，索尼娅。,"Nice weather today. Isn't it, Sonya?","Сегодня отличная погода, Соня."
+line-305,娜塔莉娅,是个适合野餐的好天气呢。,Perfect for a picnics.,Отличный день для пикника.
+line-307,凛冬,喂。,Hey.,Эй.
+line-309,娜塔莉娅,当我们在废墟中狼狈地寻找食物，一瓶纯净水都要省着用一天的时候，我就经常在想：,"Back when we were combing through the ruins, desperate for food, stretching a single bottle of water to last an entire day, I often thought to myself:","Когда мы в отчаянии искали еду в руинах и экономили бутылку воды на целый день, я часто думала:"
+line-310,娜塔莉娅,要是活下来，我一定要在一个阳光明媚的下午，找一座美丽的花园，在那里吃个够。,"'If I survive this, I'm going to find a lovely garden on a sunny afternoon and have a sumptuous picnic.'","Если я выживу, то в солнечный полдень найду красивый сад и наемся там досыта."
+line-312,凛冬,喂！,Hey!,Эй!
+line-314,娜塔莉娅,但我想的更多的是——,But far more often I thought——,Но гораздо чаще я думала——
+line-318,娜塔莉娅,如果那一天你杀了我就好了。,'I wish you killed me that day.',"Было бы лучше, если бы ты убила меня в тот день."
+line-319,娜塔莉娅,不要犹豫，不要动恻隐之心，不要觉得我还有救，将我当成可恶的贵族的一员，挥下你手中的斧头。,"Don't hesitate. Don't pity me. Don't think to save me. Look down at this wretched aristocrat girl, and swing your axe.","Не колеблясь, без всякой жалости, не думая, что меня еще можно спасти. Посмотрела бы на меня как на мерзкую аристократку и опустила бы свой топор."
+line-320,娜塔莉娅,让我就这么死在那里，对我来说说不定是最好的呢。,"It may have been the very best thing for me, had you just ended my life right there.","Наверное, умереть прямо там было бы для меня лучшим исходом."
+line-322,凛冬,我可以现在送你上路。,There's still time.,Я могу отправить тебя на тот свет прямо сейчас.
+line-324,娜塔莉娅,你真的可以吗？,You really could?,Ты правда можешь?
+line-326,凛冬,......,......,......
+line-329,娜塔莉娅,我们已经离开那里了，索尼娅，我们回到了文明社会。,"We left that place, Sonya. We've returned to the civilized world.","Мы уже покинули то место, Соня, мы вернулись в цивилизованное общество."
+line-330,娜塔莉娅,我们要用文明的思路去思考，要用文明的方法去做事，很多在那里发生的事就无法再发生了。,We must think as civilized people. We must use civilized methods to solve our problems. Those things that happened back there cannot happen again.,"Мы должны мыслить цивилизованно и действовать цивилизованными методами. Многое из того, что произошло там, уже не может повториться."
+line-332,凛冬,我才不管这些。,Who cares.,Мне плевать на это.
+line-334,娜塔莉娅,你管的。你是个善良的人，索尼娅，“冬将军”，弱者的保护神，霸凌者的克星。,"You care. You're a good person, Sonya. 'General Zima,' Protector of the Weak, Bane of the Bullies.","Тебе не плевать. Ты добрый человек, Соня. «Генерал Зима», защитница слабых, гроза хулиганов."
+line-336,凛冬,什么东西，别说得这么恶心。,Don't make me puke.,"Что за чушь, не говори таких тошнотворных вещей."
+line-338,娜塔莉娅,这是我听到的传闻中的你哦。,That's the Sonya I heard rumors about.,Вот что о тебе говорят в слухах.
+line-340,凛冬,嘁，我只是看不惯那些人而已，仗着自己有点力气就欺负别人。,I just can't stand those punks who get a little bit of strength and think it's a license to bully.,"Тц, я просто терпеть не могу людей, которые пользуются своей силой, чтобы издеваться над другими."
+line-342,娜塔莉娅,你一定很讨厌贵族吧，索尼娅。,You must hate the aristocracy then?,"Ты, наверное, очень ненавидишь аристократов, Соня."
+line-344,凛冬,当然，一群虚伪的家伙，总是自以为高人一等。,Duh. A bunch of a fake-ass self-important shitheads.,"Конечно. Кучка лицемеров, которые всегда считают себя лучше других."
+line-346,娜塔莉娅,是的，他们，不，我们，总是自以为高人一等。,"Yes. They, or rather, we are 'fake-ass self-important shitheads.'","Да, они... нет, мы всегда считаем себя выше других."
+line-347,娜塔莉娅,被你带回去之后，我应该没有对你们说过具体在那之前，我经历了什么吧？,"Since you brought me back, I don't think I've ever told you what happened to me before you showed up, did I?","С тех пор, как ты привела меня к вам, я ведь не рассказывала в подробностях, что со мной произошло до того момента?"
+line-349,凛冬,没有，我只知道你是那个贵族团体的首领。,Nope. I just know you were in charge of that gang of nobles.,"Нет. Я знаю только, что ты была главой той группы аристократов."
+line-351,娜塔莉娅,如果你有时间的话，听我说一说吧。,I'll tell you the story sometime.,"Если у тебя есть время, выслушай меня."
+line-353,凛冬,随便。,Whatever.,Как угодно.
+line-355,娜塔莉娅,大部分贵族和有钱人事实上在整合运动开始占领城市时，甚至在那之前，就已经开始逃难了。,"Most of the nobility and wealthy people fled the city when Reunion came, or even before.","Большинство дворян и богачей на самом деле начали бежать, как только Воссоединение стало захватывать город, или даже еще раньше."
+line-357,凛冬,贵族们早就知道？,They know they were coming?,Аристократы знали об этом заранее?
+line-359,娜塔莉娅,是的，贵族们早就知道。,Yes. They did.,"Да, они давно об этом знали."
+line-361,凛冬,......真卑鄙。,...sons of bitches.,...Как подло.
+line-363,娜塔莉娅,是啊，但你知道的，贵族都是自私的。,"Indeed. But you know, nobles are selfish.","Да. Но ты же знаешь, что аристократы эгоистичны."
+line-365,凛冬,你也是？,You too?,И ты тоже?
+line-367,娜塔莉娅,我也是。,Yes.,И я тоже.
+line-369,凛冬,......那你怎么还会在那。,So why did you stay?,...Тогда почему ты всё еще была там?
+line-371,娜塔莉娅,很简单，我们家逃得还是太慢了，和另外一些贵族一起被拦了下来。当然，也有一些家族是没有把这件事放在心上吧。,"My family was just too slow. We were trapped with some other noble families. Some houses didn't take the threat seriously, of course.","Всё просто: моя семья бежала слишком медленно, и нас перехватили вместе с некоторыми другими дворянами. Конечно, были и семьи, которые просто не восприняли угрозу всерьез."
+line-373,凛冬,哦。,Oh.,О.
+line-375,娜塔莉娅,哎呀，不要露出这么不耐烦的表情，这是必要的背景介绍。,"Come now, don't give me that face. This background is important to frame the story. We'll get to the good part.","Да ладно, не делай такое нетерпеливое лицо, это необходимое вступление."
+line-376,娜塔莉娅,总之，被转移到那所学校里的贵族学生们，基本上就是这两类贵族的子女。,"In short, the students who were sent to your school fell into either the 'slow' or 'stupid' categories.","В общем, студенты-аристократы, которых перевели в ту школу, были в основном детьми из этих двух категорий семей."
+line-377,娜塔莉娅,其实我们应当和父母关在一起，然后被整合运动作为筹码向乌萨斯交换什么的，但最终却变成我们被迫和父母分开来到这所学校。,"We were at first meant to stay with our parents, for Reunion to use as hostages to bargain with the Empire. But in the end, we were separated and sent to the school.","По-хорошему нас должны были запереть вместе с родителями, чтобы потом Воссоединение могло использовать нас как пешки в торге с Урсусом. Но в итоге нас разлучили с родными и отправили в эту школу."
+line-379,凛冬,这很奇怪吗？,That's kinda weird.,Разве это так странно?
+line-381,娜塔莉娅,很奇怪哦，贵族在战争时是一种可以交换的筹码，是不应该这么浪费的。,It was. Nobles make good hostages in a time of war. Not to be wasted.,"Очень странно. Аристократы во время войны — это ценные заложники для обмена, ими не разбрасываются."
+line-382,娜塔莉娅,贵族是优雅的，高贵的，应当被尊重其身份的，即使成为俘虏也不应忘记自己的家族和身份。,"The aristocracy is elegant, noble, and should command respect. Even as a captive, one must never forget her house.","Аристократия элегантна и благородна, и ее статус следует уважать. Даже став пленником, нельзя забывать о своей семье и положении."
+line-384,凛冬,你们贵族脑子都有什么毛病吧。,You're all screwed in the head.,"С головой у вас, аристократов, явно что-то не так."
+line-386,娜塔莉娅,如果是以前的我，会因为你这句话而跟你辩论至少两个小时哦，索尼娅，因为我就是这么被教育的。,"The old me would have locked you in a two hour debate for saying that, Sonya. Because that's how I was raised.","Если бы это была прежняя я, я бы спорила с тобой об этом как минимум часа два, Соня. Потому что именно так меня воспитывали."
+line-387,娜塔莉娅,不过我现在同意你的意见。,"But now, I agree.",Но сейчас я с тобой согласна.
+line-388,娜塔莉娅,揭开光鲜的外表，贵族和平民明明没有区别，而有了这层光鲜的外表，贵族们反而变得丑陋。,There is no real difference between nobles and commoners. It's all window dressing. Scrape off the veneer and the aristocracy is truly ugly.,"Если сорвать лоск, между аристократами и простолюдинами нет никакой разницы. А с этим глянцевым фасадом аристократия становится только уродливее."
+line-389,娜塔莉娅,你还记得吧，我们讨论过，如果没有第一场大火烧掉第一个粮食点，事情不会变得那么糟糕。,"We talked about how if it weren't for the first fire, if we didn't lose that food store, things wouldn't have gotten so bad.","Помнишь, мы обсуждали: если бы первый пожар не уничтожил первый склад с едой, всё не стало бы так плохо."
+line-391,凛冬,但她也说过，她觉得没有那场大火，或许也会发生类似的事让一切都无法挽回。,"But Anna said even without the fire, something else would have happened.","Но Анна также говорила, что даже без пожара могло произойти что-то похожее, что сделало бы ситуацию непоправимой."
+line-393,娜塔莉娅,如果是我，经历了这样的事也会这么想呢。,"If I had been through that, I would have thought the same.","Будь я на ее месте, пережив такое, я бы тоже так подумала."
+line-394,娜塔莉娅,但无论如何，这都是在说——【需要发生什么才会导致后来的一切】。,"But in any case, it's post-hoc—— 'What needed to happen to cause all that came after.'","Но, в любом случае, речь о том, что должно было случиться нечто, чтобы привести ко всем последующим событиям."
+line-395,娜塔莉娅,而可笑的是，贵族不需要发生什么，他们光是被聚集在一起，就会发生争斗。,"The funny thing is, nobles don't need anything to happen. Put them together and they fight.","Смешно то, что аристократам не нужен повод. Достаточно просто собрать их вместе, и они начнут грызться."
+line-397,凛冬,为什么？,Why?,Почему?
+line-399,娜塔莉娅,你想听新旧贵族的差别，市长的政治倾向，以及市内的贵族分成几个派别吗？,Should I get into the differences between new and old nobility? The mayor's political leanings? How many factions there are in the Chernobog aristocracy?,"Хочешь послушать о разнице между новыми и старыми аристократами, о политических взглядах мэра и о том, на сколько фракций делятся дворяне в городе?"
+line-401,凛冬,我为什么要听？,"Could you, like, not do that?",С чего бы мне это слушать?
+line-403,娜塔莉娅,因为不听你就无法理解。,But then you won't understand why they fight.,"Потому что не послушав, ты не поймешь."
+line-405,凛冬,那你还是别说了，我不感兴趣。,I guess I'll just never understand.,"Тогда лучше молчи, мне это не интересно."
+line-407,娜塔莉娅,其实我也不感兴趣，只不过作为罗斯托夫家的长女，我必须了解这些。,"I'm not really interested in these things either. But as a daughter of the House of Rostov, I had to learn.","На самом деле мне это тоже не интересно, но как старшая дочь семьи Ростовых, я обязана была это знать."
+line-408,娜塔莉娅,你只需要知道，在被聚集到学校里的第一天，贵族学生们之间就差点爆发流血事件。,"All you need to know is that from the very first day we were locked up in the school, the noble students were backstabbing each other.","Тебе нужно знать лишь то, что в первый же день, когда нас собрали в школе, между учениками-аристократами чуть не пролилась кровь."
+line-409,娜塔莉娅,然后我不得不作为第四中学的学生会长站出来，用我的威信将他们组织起来。,I had no choice but to step forward as the Student Council President of #4 Secondary School and use my status to bring order.,"И мне пришлось, как председателю студсовета Четвертой средней школы, взять инициативу в свои руки и использовать свой авторитет, чтобы организовать их."
+line-411,凛冬,你是说你是为了不让他们内斗而把他们组织起来的？,You mean you organized them to put an end to the infighting?,"Ты хочешь сказать, что организовала их, чтобы не дать им перебить друг друга?"
+line-413,娜塔莉娅,是啊，听起来是不是很正当？为了不让自己的同学内斗，我站了出来，把他们组织了起来。,"Sounds reasonable, doesn't it? In order to stop my classmates from fighting, I stood up and took charge.","Да, звучит ведь благородно? Чтобы не допустить междоусобиц среди одноклассников, я выступила вперед и объединила их."
+line-421,维克多,呃，啊......,"Uh, ah...","Эх, а..."
+line-422,尼古拉,帕维尔，别以为你的父亲掌握着一条矿脉开采权就可以为所欲为！,"Don't think you rule the roost just because your father owns a mine, Pavel!","Павел, не думай, что раз у твоего отца права на добычу в шахте, ты можешь творить что хочешь!"
+line-423,帕维尔,区区男爵也敢对我放肆，没被我一剑刺死是他走运。,A mere baron dares to take such a tone with me. He's lucky he doesn't find my blade in his chest.,"Какой-то жалкий барон смеет дерзить мне. Ему повезло, что я не заколол его мечом."
+line-424,帕维尔,至于你，伊万诺夫家的老二，什么时候轮到你说话了，要不要我也给你的胸口开个洞？,"As for you, second son of the House of Ivanov, when did it become your turn to speak? Maybe you'd like a new hole in your torso as well?","А что до тебя, второй сын Ивановых, когда это до тебя дошла очередь говорить? Хочешь, чтобы я и в твоей груди проделал дыру?"
+line-425,尼古拉,你......我的父亲是议员，你怎么敢！,How dare you...?! My father is a councilor!,"Ты... мой отец — член совета, как ты смеешь!"
+line-426,帕维尔,议员？你知道有多少议员会在每个周日来参加我母亲举办的聚会吗？,A councilor? Do you know how many councilors come to my mother's soirees every Sunday?,"Член совета? Знаешь ли ты, сколько членов совета приходят на мамины званые вечера каждое воскресенье?"
+line-427,帕维尔,哦，你不知道，因为你的父亲根本不够格。,"Oh, you don't? Because your father doesn't make the cut.","Ой, не знаешь? Потому что твой отец для этого не годится."
+line-428,尼古拉,你！,You!,Ты!
+line-431,娜塔莉娅,住口，帕维尔同学！,"Hold your tongue, Pavel!","Замолчи, Павел!"
+line-433,帕维尔,娜塔莉娅，你可以叫我帕沙，我们之间不需要这么见外。,"Please, Natalya, call me Pasha. You need not be so formal.","Наталья, можешь звать меня Паша. К чему эти формальности между нами."
+line-435,娜塔莉娅,我是认真的，帕维尔·尼古拉耶维奇！不要在这个时候掀起无谓的斗争！,"I'm serious, Pavel Nikolaevich! You are not to start another senseless quarrel!","Я серьезно, Павел Николаевич! Не затевайте бессмысленных ссор в такое время!"
+line-437,帕维尔,如您所愿，我尊敬的学生会长。,"As you wish, my esteemed President of the Student Council.","Как пожелаете, мой уважаемый председатель студенческого совета."
+line-439,娜塔莉娅,塔吉扬娜，麻烦你包扎一下维克多同学的伤口。,"Tatyana, please bandage Viktor's wound.","Татьяна, пожалуйста, перевяжи рану Виктору."
+line-441,塔吉扬娜,是、是！,O- of course!,Д-да!
+line-443,娜塔莉娅,各位，我们现在被关在了这所学校里，我们还不知道会发生什么，但至少，我想那些整合运动不会轻易把我们放走。,"Ladies and gentlemen, we have been sealed inside this school. We know not what will happen. But I suspect that Reunion Movement won't let us go lightly.","Господа, сейчас мы заперты в этой школе. Мы не знаем, что будет дальше, но, думаю, Воссоединение не отпустит нас просто так."
+line-444,娜塔莉娅,瞧瞧你们的样子，才来到这里半天，就开始争吵，打斗，甚至想要杀害另一个贵族。,"Look at what you've become. It hasn't been twelve hours and you're arguing, fighting, even threatening to kill your fellow nobles.","Посмотрите на себя! Не прошло и полдня, а вы уже ссоритесь, деретесь и даже готовы убить другого аристократа."
+line-445,娜塔莉娅,这是一名贵族应有的样子吗！,Is this how the aristocracy behaves?!,Разве так подобает вести себя аристократам?!
+line-447,安东,你又是谁，我凭什么听你的话？！,Who the hell are you? Why should I listen to you?!,А ты кто такая? С чего бы мне тебя слушать?!
+line-448,塔吉扬娜,凭她是鲍里斯第四中学的学生会长，娜塔莉娅·安德烈耶维娜·罗斯托娃！,"Because she is the president of the student council at #4 Secondary School, Natalya Andreyevna Rostova!","Потому что она — председатель студенческого совета Четвертой средней школы Бориса, Наталья Андреевна Ростова!"
+line-449,安东,你、你就是罗斯托夫伯爵的长女？！,Y- you're the eldest daughter of Count Rostov?!,Т-ты старшая дочь графа Ростова?!
+line-450,安德烈,她就是那个“第四中学的明珠”，罗斯托夫伯爵公开表示会让她继承爵位的娜塔莉娅·安德烈耶维娜......,"She is the 'Pearl of #4,' the one whom Count Rostov has declared his heir.","Она та самая «Жемчужина Четвертой средней», Наталья Андреевна, которой граф Ростов публично обещал передать свой титул..."
+line-452,娜塔莉娅,这里聚集了来自各区的中学的贵族，我并不想强调自己的身份，我只想说，我们现在面临的是生存问题。,We have gathered here the nobility from each district secondary school. I do not wish to focus on my rank. I simply must impress upon you all the gravity of our situation.,"Здесь собрались аристократы из средних школ разных районов. Я не хочу подчеркивать свой статус, я лишь хочу сказать, что сейчас перед нами стоит вопрос выживания."
+line-453,娜塔莉娅,这里除了我们，还有许多平民学校的学生，我想各位也并不希望让平民们看到自己的丑态。,"We find ourselves surrounded by many common students, and I do not want them to see such disgraceful conduct from us.","Помимо нас, здесь много учеников из обычных школ, и, полагаю, никто из вас не хочет, чтобы простолюдины видели ваше недостойное поведение."
+line-454,娜塔莉娅,而且，我们虽然被整合运动扣留了下来，但是他们如果是想要向乌萨斯要求什么，肯定是不敢轻易伤害我们的。,"Furthermore, while we have been trapped here by the Reunion Movement, they will not seek to harm us, if they wish to secure concessions from the Empire.","Более того, хоть Воссоединение и удерживает нас, если они собираются что-то требовать от Урсуса, они не посмеют так просто навредить нам."
+line-455,娜塔莉娅,难道我们要将自己宝贵的生命浪费在内斗中吗？！,Are we going to waste our precious lives on such infighting?!,Неужели мы растратим наши драгоценные жизни на междоусобицы?!
+line-456,娜塔莉娅,比起争执，我们现在更需要的是团结！,"We need unity, now more than ever!","Вместо того чтобы ссориться, нам сейчас необходимо объединиться!"
+line-463,娜塔莉娅,当然，现在我们已经知道，整合运动根本没有把我们这些贵族放在眼里。,"Of course, we now know Reunion didn't give a damn about us aristocrats.","Конечно, теперь мы уже знаем, что Воссоединению было абсолютно плевать на нас, аристократов."
+line-465,凛冬,......,......,......
+line-467,娜塔莉娅,不说这个。虽然我平息了争执，但是光靠口号和威信，在那种情况下其实是很难有很大效果的。,"Anyway, I was able to put a stop to their fighting. But in a situation like that, pretty words and a fancy title will only get you so far.","Но не будем об этом. Хотя я и уладила конфликт, одних лозунгов и авторитета в той ситуации было недостаточно, чтобы добиться реальных результатов."
+line-468,娜塔莉娅,索尼娅，你知道乌萨斯为什么会有今天的强大吗？,"Sonya, do you know why the Empire of Ursus is as strong as it is?","Соня, ты знаешь, почему Урсус стал таким сильным?"
+line-469,娜塔莉娅,事实上，最后也有许多贵族学生不愿意接受服从我或者和某人共处而离开，并自己抱团。,"In fact, there were quite a few noble students who were unwilling to submit to my authority, or share the same room with someone else, and left the group.",На самом деле в итоге многие студенты-аристократы не пожелали подчиняться мне или находиться рядом с определенными людьми. Они ушли и образовали свои собственные группы.
+line-470,娜塔莉娅,但最终，我至少将三十多个人聚集在了一起。,"In the end, I had some three dozen under me.","Но, в конце концов, мне удалось сплотить вокруг себя по крайней мере более тридцати человек."
+line-471,娜塔莉娅,当时的我，认为我已经做得非常好了。,"At the time, I thought I had done very well.","Тогда я считала, что проделала отличную работу."
+line-473,凛冬,难怪除了你们这个团体还有许多落单的贵族杂碎。,So that's why there were still so many noble shitstains lurking around.,"Неудивительно, что помимо вашей группы там было так много одиноких аристократических отбросов."
+line-475,娜塔莉娅,嗯，她们应该也组织起了各种各样的团体吧。,"Yes, I'm sure they made their own groups as well.","Да, они, должно быть, тоже объединялись во всевозможные группы."
+line-477,凛冬,我怎么可能知道。,How was I supposed to know?,Откуда мне было знать.
+line-479,娜塔莉娅,真可惜，虽然和你聊天也很有意思，但在这种话题上，果然还是和安娜聊会更好呢。,"It's a shame. I'm enjoying this conversation with you, but I do wish Anna was here for it.","Как жаль. Хоть с тобой и интересно общаться, но на подобные темы всё же лучше разговаривать с Анной."
+line-481,凛冬,.....别转移话题。,Don't change the subject.,...Не меняй тему.
+line-483,娜塔莉娅,啊哈，抱歉抱歉，虽然是我想要说，但真要说出口果然还是有些艰难呢。,"Oh, I'm sorry. I do have more to say, but it's hard to get the words out.","Ах, прости-прости. Хоть я и сама хотела об этом рассказать, но произнести это вслух всё же немного тяжело."
+line-484,娜塔莉娅,乌萨斯之所以能走到今天，是因为战争，上一任国王陛下不断地发动战争，获取资源，然后投入下一场战争。,"Ursus is what it is today because of war. The previous monarch waged endless war, pillaging resources, and investing them in the next campaign.","Урсус дошел до своего нынешнего состояния благодаря войне. Прошлый император постоянно вел войны, захватывая ресурсы, чтобы затем вложить их в следующую войну."
+line-485,娜塔莉娅,而只要有战争，乌萨斯就能够运转起来，国民就能够齐心协力。,"As long as there was war, the Empire could function, the people united in their common struggle.","И пока идет война, Урсус может функционировать, а его граждане способны действовать сообща."
+line-492,尼古拉,我......我认为娜塔莉娅会长说得对。,I... I agree with President Rostova.,"Я... я считаю, что президент Наталья права."
+line-493,帕维尔,如果是由娜塔莉娅会长来领导我们，我愿意服从。,I will submit to the President's leadership.,"Если нас возглавит президент Наталья, я готов подчиняться."
+line-495,娜塔莉娅,如果各位愿意信任我，我不介意作为这个团体的组织者。,"If you are all willing to put your trust in me, I am willing to serve the group.","Если вы готовы довериться мне, я не против стать организатором этой группы."
+line-496,娜塔莉娅,（虽然勉强制止了斗争，但是接下来该怎么办呢......）,"(I was able to stop the fight, barely, but what do I do next...?)","(Хотя мне и удалось с трудом остановить драку, но что же делать дальше...)"
+line-498,帕维尔,既然如此，那我有一个提议。,"That being the case, I have a proposal.","Раз так, у меня есть предложение."
+line-500,娜塔莉娅,诶？,Oh?,А?
+line-502,帕维尔,娜塔莉娅说得对，我们应该保持贵族应有的体面。,You were correct when you said we have a responsibility to preserve the dignity of the aristocracy.,"Наталья права, мы должны сохранять подобающее аристократам достоинство."
+line-503,帕维尔,那么，就该让那些平民为我们贡献一点了。,"Therefore, it's time the commoners offered us a contribution, to ensure we can live in such dignity.","А значит, пора заставить этих простолюдинов сделать для нас небольшой вклад."
+line-511,凛冬,你......难道说......,You mean...?,Ты... неужели...
+line-513,娜塔莉娅,对，我同意了他们“掠夺平民”的提议。,"Yes, I agreed to let them prey on the commoners.",Да. Я согласилась на их предложение «грабить простолюдинов».
+line-514,娜塔莉娅,索尼娅，我曾经认为自己是个善良的人。,"Sonya, I used to think myself a good person.","Соня, когда-то я считала себя добрым человеком."
+line-515,娜塔莉娅,至少在那个时候，我是这么想的。,"At least, at the time, that's how I thought.","По крайней мере, тогда я думала именно так."
+line-516,娜塔莉娅,我会觉得贵族之间的社交无趣又虚伪，我会为悲剧而哀叹，我甚至为难民们送过饭。,"I would find the social machinations of the aristocracy boring and hypocritical, I would bemoan the tragedies of the world, I would even serve meals to refugees.","Мне казалось, что светская жизнь аристократов скучна и лицемерна. Я скорбела о чужих трагедиях и даже раздавала еду беженцам."
+line-517,娜塔莉娅,但我不想欺骗你，也不想欺骗我自己。,"But I will not lie to you, or to myself.","Но я не хочу обманывать ни тебя, ни саму себя."
+line-518,娜塔莉娅,在那个时刻，为了团结贵族，我选择了同意他们的掠夺。,"At that time, to unite the nobles, I allowed them to pillage.","В тот момент, чтобы сплотить аристократов, я решила согласиться на их грабежи."
+line-522,,“咚”！白发的女孩被扑倒在地，脸上结结实实挨了几拳，她的嘴角缓缓淌下鲜红的血液，而她却露出笑容。,"'Wham!' The white-haired girl is thrown to the floor. She takes a few solid hits to the face. And as the slight trickle of crimson blood slips from her mouth, it curls into a smile.","*Удар*! Седоволосая девушка была повалена на землю, получив несколько тяжелых ударов по лицу. Из уголков её губ медленно потекла алая кровь, но она улыбалась."
+line-523,,这笑容在鲜血的衬托下，显得如此悲惨。,A tragic smile.,На фоне свежей крови эта улыбка выглядела трагично.
+line-525,娜塔莉娅,咳、咳......,"*Cough,* *cough...*","Кха, кха..."
+line-527,凛冬,你这个......,You piece of...,Ах ты ж...
+line-529,娜塔莉娅,我这个恶魔。,I am a monster.,Демон. Я — демон.
+line-530,娜塔莉娅,但你知道吗，索尼娅，如果没有和你们的共同生活，没有来到罗德岛，我甚至不会像现在这样去思考。,"But you know, Sonya, I wouldn't realize it if I never spent that time with you, if I never came to Rhodes Island.","Но знаешь ли ты, Соня? Если бы мы не жили вместе, если бы я не попала в Родос Айленд, я бы даже не задумывалась о таких вещах."
+line-532,娜塔莉娅,如果没有和你们的共同生活，没有来到罗德岛，我不会像现在这样去思考。,"Without these experiences, I would not think as I do now.","Если бы не совместная жизнь с вами, если бы не Родос Айленд, я бы не мыслила так, как мыслю сейчас."
+line-533,娜塔莉娅,是你们教会了我，我并不高贵这个事实，但这个事实本身，才是对我最大的责难。,"You taught me that I am not noble, in the true sense of the word. And that is the most painful knowledge I must endure.","Вы научили меня тому, что я вовсе не благородна. Но именно этот факт является для меня самым тяжелым наказанием."
+line-534,娜塔莉娅,所以我才会说，如果你找到我的那一天，你如果像杀了我的同伴们一样杀了我，那该有多好。,That is why I say it would have been better had you killed me like you did my companions.,"Вот почему я сказала: как было бы хорошо, если бы в тот день, когда ты нашла меня, ты убила бы меня так же, как убила моих спутников."
+line-535,娜塔莉娅,就让我沉溺在自己是个好孩子的幻想中，让我沉溺在我也是迫不得已的自我安慰中死去，也比现在这样要好。,"I could have died peacefully, indulging in the fantasy that I was a good girl, that I was forced by circumstance to do what I did.","Позволить мне умереть, предаваясь фантазиям о том, что я хорошая девочка, что я была вынуждена так поступить — это было бы намного лучше, чем то, что есть сейчас."
+line-537,娜塔莉娅,......索尼娅，你看，这是什么？,"...Do you know, Sonya, what this is?","...Соня, смотри, что это?"
+line-539,凛冬,裁纸刀。,A letter opener.,Канцелярский нож.
+line-541,娜塔莉娅,我在几个月里，有26次想要用它割腕，有15次想要用它划穿自己的喉咙。,"These past few months, I have twenty-six times thought to slit my wrists. Fifteen times I thought to slash open my throat.",За несколько месяцев я 26 раз хотела вскрыть им вены и 15 раз перерезать себе горло.
+line-543,凛冬,......你居然记得这么仔细。,"...You can count 'em, huh?","...Надо же, ты помнишь это так точно."
+line-545,娜塔莉娅,因为我每次放弃之后，都会嘲笑自己的愚蠢和胆小，想忘记都很难呢。,"Because each time I fail, I laugh at myself for being such a stupid coward. That stays with me.","Потому что каждый раз, когда я сдаюсь, я смеялась над своей глупостью и трусостью. Такое трудно забыть."
+line-546,娜塔莉娅,顺便一提，我也考虑过用贵族一点的方法，比如毒茶，用剑自刎，甚至考虑过遗书用什么格式和字体来写比较好这样的蠢事。,"Of course, I've considered more aristocratic methods as well: poisoned tea, a saber. I've even thought carefully about what calligraphic style to use in my suicide note.","К слову, я рассматривала и более аристократичные способы: отравленный чай, самоубийство мечом... Я даже размышляла над такой глупостью, каким шрифтом и в каком формате лучше написать предсмертную записку."
+line-547,娜塔莉娅,可惜这些方法肯定事先就会被其他人发现了，我不太想给其他人添麻烦呢。,"Unfortunately, all of those methods would be discovered before I could pull off the deed. And I don't want to make trouble.","Жаль, что такие методы наверняка раскрыли бы заранее. А я не хочу доставлять людям лишние хлопоты."
+line-549,凛冬,你到底想说什么？,What's your point?,Что ты вообще хочешь сказать?
+line-551,娜塔莉娅,我......,I...,Я...
+line-552,娜塔莉娅,我对大人们说：我想留在这里为乌萨斯的人们做些什么。,I told Rhodes Island: I want to stay here and do what I can for the people of Ursus.,Я сказала взрослым: я хочу остаться здесь и сделать что-нибудь для жителей Урсуса.
+line-553,娜塔莉娅,我对自己说：娜塔莉娅，你这么做是在赎罪。,"I told myself: Natalya, this is your atonement.","Я сказала себе: Наталья, ты делаешь это ради искупления."
+line-554,娜塔莉娅,但是真的是这样吗？,But is that true?,Но так ли это на самом деле?
+line-555,娜塔莉娅,每当我想起尼古拉他们脸上的笑容，想起他们抢劫平民后向我邀功的表情，想起我明明想说这样不对最后却对他们报以笑容的懦弱。,"Whenever I think of Nikola's smile, of any of their faces as they came to me, triumphant after robbing the commoners; of my cowardice as I smiled back at them, rather than reprimanding their evil.","Каждый раз я вспоминаю улыбки Николая и остальных. Вспоминаю их лица, когда они хвастались мне своими грабежами простолюдинов. Вспоминаю свою трусость, когда я хотела сказать, что это неправильно, но в итоге лишь улыбалась им в ответ."
+line-556,娜塔莉娅,每当我想起我允许他们的请求，想起我为他们制定计划告诉他们该怎么做，想起我对堆积的物资而产生的喜悦。,"Whenever I think of all that I let them do, of the plans I would make for them, of the joy I took in our comfortable hoard of supplies.","Каждый раз я вспоминаю, как давала согласие на их просьбы. Как разрабатывала для них планы и указывала, что делать. Как радовалась горам награбленных припасов."
+line-557,娜塔莉娅,每当我想起我假装视而不见的那些惨叫和哭泣，想起我觉得我是被逼无奈我是无辜的，想起我开始习惯那样的生活。,"Whenever I think of all the screaming and crying I ignored, of how I thought myself innocent by way of circumstance, of how I began to grow accustomed to living that way.","Каждый раз я вспоминаю крики и плач, на которые я закрывала глаза. Вспоминаю, как убеждала себя, что у меня не было выбора и что я ни в чем не виновата. Вспоминаю, как начала привыкать к такой жизни."
+line-558,娜塔莉娅,索尼娅，你敢相信吗？在那场大逃杀中，我没有杀过一个人。,"Sonya, can you believe it? That in that entire battle royale, I did not kill a single person?","Соня, можешь ли ты поверить? В этой королевской битве я не убила ни одного человека."
+line-559,娜塔莉娅,但我一定是最肮脏的那一个。,"And yet, I bear the most guilt.","Но я, безусловно, самая грязная из них всех."
+line-560,娜塔莉娅,你以为我把你拉过来是想告诉你接下来该怎么做吗？,Did you think I brought you here to tell you what you should do?,"Думаешь, я притащила тебя сюда, чтобы сказать, что тебе делать дальше?"
+line-561,娜塔莉娅,不是的，索尼娅，我不知道，我什么都不知道。,"No, Sonya. I don't know. I have no idea. About anything.","Нет, Соня. Я не знаю. Я ничего не знаю."
+line-562,娜塔莉娅,我甚至不知道该怎么告诉别人我不知道！我只能想到装出我那副对一切都游刃有余的样子把你拉进来！,I don't even know how to tell people I don't know! All I can do is put on that stupid facade that I have everything perfectly under control as I drag you in here!,"Я даже не знаю, как сказать другим, что я не знаю! Всё, на что меня хватило, — это притвориться, что я всё держу под контролем, и втянуть тебя во всё это!"
+line-565,凛冬,......,......,......
+line-567,娜塔莉娅,......,......,......
+line-569,凛冬,你......,Do you...?,Ты...
+line-571,娜塔莉娅,呼，抱歉，我有些失态了。,"Phew, I'm sorry. I lost my composure.","Фух, прости. Я потеряла самообладание."
+line-573,凛冬,......你要不要喝点什么？,...Do you want something to drink?,...Хочешь чего-нибудь выпить?
+line-575,娜塔莉娅,红茶吧，谢谢。,"Black tea, please. Thank you.","Черный чай, пожалуйста. Спасибо."
+line-577,,好。,Okay.,Хорошо.
+line-579,凛冬,喂，你房间的红茶放在哪里？,"So uh, where do you keep the black tea?","Эй, где в твоей комнате лежит черный чай?"
+line-580,凛冬,这里各种各样的茶叶盒子也太多了，我分不清。,You've got a shitload of different tea boxes over here. I can't tell what's what.,"Тут слишком много всяких коробок с заваркой, я не могу разобраться."
+line-585,凛冬,啊。,Oof.,Ах.
+line-587,娜塔莉娅,......噗。,Hup.,...Пфф.
+line-588,娜塔莉娅,还是我来吧，索尼娅。,"I'll get it, Sonya.","Давай лучше я, Соня."
+line-590,凛冬,呃，不好意思。,"Uh, sorry.","Эм, извини."
+line-592,娜塔莉娅,我刚想起来，你应该也不会泡红茶，因为一时的失态让你去做了你不擅长的事，真是抱歉。,It just occurred to me you probably don't know how to make tea. Forgive the momentary lapse in judgment that pushed you to do something you're not good at.,"Я только что вспомнила, что ты, скорее всего, не умеешь заваривать чай. Прости, что из-за своей секундной слабости заставила тебя делать то, в чем ты не разбираешься."
+line-595,凛冬,你这家伙......,Why you...,Ах ты ж...
+line-597,娜塔莉娅,哎，索尼娅，那天你到底是怎么想的？,"Say, Sonya, what exactly were you thinking back then?","Слушай, Соня, о чем ты тогда думала?"
+line-599,凛冬,啊？,Huh?,А?
+line-601,娜塔莉娅,就是火灾之后，我四处逃窜最后还是被其他学生抓住时，你为什么会救下我？,"After the fire, I ran as fast as I could only to be caught by some other students. Why did you save me?","После пожара, когда я в панике убегала, но всё равно попалась другим ученикам, почему ты меня спасла?"
+line-602,娜塔莉娅,你明明知道我就是前几天还在学校里肆虐的贵族们的首领。,You knew of course that I was the leader of the nobles wreaking havoc just days before.,"Ты же прекрасно знала, что я была предводительницей тех самых аристократов, которые еще пару дней назад творили беспредел в школе."
+line-604,凛冬,忘了。,I forget.,Забыла.
+line-605,凛冬,大概是你看起来很可怜。,You probably just looked too pathetic.,"Наверное, ты просто выглядела очень жалкой."
+line-607,娜塔莉娅,那你为什么会同意我加入自治团？,Then why would you let me join the Self-Governing Group?,Тогда почему ты согласилась принять меня в союз самоуправления?
+line-609,凛冬,因为安娜同意了。,Because Anna said it was okay.,Потому что Анна согласилась.
+line-610,凛冬,你想让我恨你吗，娜塔莉娅？,"Do you want me to hate you, Natalya?","Ты хочешь, чтобы я ненавидела тебя, Наталья?"
+line-612,娜塔莉娅,不知道啊，索尼娅，你会恨我吗？,I don't know. Can you hate me?,"Не знаю, Соня. Ты будешь меня ненавидеть?"
+line-614,凛冬,我见过的混账从来不承认自己是混账。,I've never seen a shithead admit she's a shithead before.,"Все ублюдки, которых я встречала, никогда не признавали себя ублюдками."
+line-616,娜塔莉娅,但承认自己是混账的混账就不是混账了吗？,So a shithead who admits she's a shithead isn't a shithead anymore?,"Но разве ублюдок, признающий себя ублюдком, перестает быть ублюдком?"
+line-618,凛冬,......你就这么想让我揍你吗？,...Do you want me to crush you?,"...Тебе так сильно хочется, чтобы я тебя избила?"
+line-620,娜塔莉娅,我可没有受虐嗜好，只是，该怎么说好呢。我想对你，嗯，为了防止你误会，对刚才听我说了那些话的人坦诚一些。,"I'm no masochist. It's just, how should I say? I'd like to be honest with you, um, after all that you just heard, to avoid any misunderstandings.","У меня нет склонности к мазохизму. Просто... как бы это сказать. Я хочу быть честной с тобой, ну, чтобы избежать недопонимания с человеком, который только что выслушал мое признание."
+line-622,凛冬,受......什么？,Maso... what?,Мазо... к чему?
+line-624,娜塔莉娅,啊，那是贵族之间流传的一点小小爱好，我也只是有所耳闻，不用在意。,"Oh, that's just a kind of 'hobby' popular in aristocratic circles. I've only heard rumors, actually. Don't worry about it.","А, это такое небольшое увлечение, популярное среди аристократов. Я о нем только слышала, не бери в голову."
+line-626,凛冬,不过至少，我不想再揍你第二次了。,As long as I don't have to kick your ass again.,"Но, по крайней мере, я не хочу бить тебя второй раз."
+line-628,娜塔莉娅,是吗。,You don't want to?,Вот как.
+line-629,娜塔莉娅,红茶你是要喝哥伦比亚产的，还是维多利亚产的？,"Do you prefer Columbian or Victorian? Tea, that is.",Какой чай будешь пить? Колумбийский или викторианский?
+line-631,凛冬,......你恢复得真快。,...You're right back to your old self.,...Ты очень быстро приходишь в себя.
+line-632,凛冬,随便，反正我喝不出来。,"Whatever, I can't drink it anyway.","Любой, я всё равно не отличу."
+line-634,娜塔莉娅,毕竟我是被教育成这样的人呢，无论何时，我都会把最体面的一面展现给别人。,It's how I was raised. I must show my most refined side at all times.,"В конце концов, меня так воспитали. В любой ситуации я обязана показывать людям самую достойную версию себя."
+line-635,娜塔莉娅,要不要糖？,Sugar?,Сахар нужен?
+line-637,凛冬,......要。,...Yeah.,...Да.
+line-639,娜塔莉娅,抱歉，这种红茶是不能加糖的，请就这么喝吧。,"Sorry, you can't sweeten this kind of tea. Drink it straight, please.","Извини, но в этот чай сахар не кладут. Пей его так."
+line-641,凛冬,你好烦。,You suck.,Какая же ты раздражающая.
+line-643,凛冬,啧。,Hmph.,Тц
+line-644,凛冬,听着，娜塔莉娅，我不知道该怎么安慰你，我也不想安慰你。,"Look, Natalya, I don't know how I'm supposed to cheer you up. And anyway I really don't wanna.","Послушай, Наталья. Я не знаю, как тебя утешать, да и не хочу этого делать."
+line-646,娜塔莉娅,咦，原来你不止不恨我，还想安慰我吗？,"Oh? Not only do you not hate me, you want to comfort me?","Ого, так ты не только не ненавидишь меня, но еще и хочешь утешить?"
+line-648,凛冬,闭嘴。,Shut your tea hole.,Заткнись.
+line-650,娜塔莉娅,好的好的。,"Alright, alright.","Ладно, ладно."
+line-652,凛冬,我讨厌安慰别人，每次我想这么做，效果都很糟糕。,"I hate trying to comfort people. Every time I try, I screw everything up.","Терпеть не могу кого-то утешать. Каждый раз, когда я пытаюсь, выходит только хуже."
+line-653,凛冬,我只能告诉你我现在能想到的东西。,All I can do is tell you what I'm thinking.,"Я могу лишь сказать тебе то, что у меня сейчас на уме."
+line-654,凛冬,你刚才问我，我会不会作为凛冬生活下去。,You asked me a minute ago if I was gonna keep on living as Zima.,"Ты спрашивала, буду ли я и дальше жить как Зима."
+line-655,凛冬,我的回答是：是。,The answer is yes.,Мой ответ: да.
+line-656,凛冬,我的爸爸妈妈都死在切尔诺伯格了，所以我不想回那里，也不想回乌萨斯，就这么简单。,My mom and dad died in Chernobog. There's nothing for me to go back to. I don't wanna go back to Ursus. So that's that.,"Мои папа и мама погибли в Чернобоге, поэтому я не хочу возвращаться ни туда, ни вообще в Урсус. Всё просто."
+line-657,凛冬,你觉得我应该能理解你的痛苦或者什么的，但我不太理解。,"I think I should be able to understand your pain or whatever, but I really don't.","Тебе кажется, что я должна понять твою боль или что-то в этом роде, но я не очень-то её понимаю."
+line-658,凛冬,一开始我以为你只是想要为自己辩解，我见过一些人他们说和你类似的话只是为了趁我分心偷袭我，但你好像真的很难受，为什么？,"At first, I thought you wanted to justify yourself. Punks talk like that when they want to sucker-punch me while I'm distracted. But you seem legit sad. Why?","Сначала я думала, что ты просто ищешь себе оправдания. Я встречала людей, которые несли подобную чушь лишь для того, чтобы застать меня врасплох и напасть со спины. Но тебе, кажется, действительно тяжело. Почему?"
+line-659,凛冬,没有你，那些贵族杂碎也不会好到哪里去，又不是你让贵族变成混蛋的，也不是你让这一切发生的。,Those noble shitstains wouldn't have been any better off without you. And you're not the one who turned them into dickheads anyway. You didn't make all that happen.,Без тебя эти аристократические отбросы не стали бы лучше. Не ты превратила их в ублюдков и не ты стала причиной всего этого.
+line-660,凛冬,倒不如说是我......,It was actually me...,Скорее уж это я...
+line-662,娜塔莉娅,你？,You?,Ты?
+line-664,凛冬,不，没什么。而且我要是那些贵族之一，可能还会很高兴有你这样的人来当领袖，就好像真理选我当领袖一样。,"Nothing, forget it. But if I was one of those nobles, I might've liked having a leader like you. Same way Istina chose me.","Нет, ничего. И вообще, если бы я была одним из тех аристократов, я бы, наверное, даже обрадовалась такому лидеру, как ты. Точно так же, как Истина выбрала меня."
+line-665,凛冬,我觉得你做了你能做的事。,You did what you could.,"Я считаю, ты сделала всё, что могла."
+line-666,凛冬,我讨厌你只是因为在加入之前你是我的敌人，而且我不喜欢贵族而已。,I only hate you because you were my enemy before you weren't. Also I hate nobles. That's all.,"Я ненавидела тебя только потому, что до вступления в группу ты была моим врагом, и я просто не люблю аристократов."
+line-667,凛冬,而且，我会做噩梦，做了噩梦我会吐，然后难过得一整晚都睡不着。,"Oh, and I have nightmares, and the nightmares make me puke, and then I can't sleep because I'm sad.","К тому же мне тоже снятся кошмары. От них меня тошнит, а потом я так подавлена, что не могу уснуть всю ночь."
+line-668,凛冬,但我觉得活下来不是一件坏事。,But doing what you can to survive isn't bad.,"Но я не считаю, что выжить — это плохо."
+line-669,凛冬,我也没觉得让你活下来是件坏事。,And I don't think it was bad to let you live.,"И я не думаю, что позволить выжить тебе было ошибкой."
+line-670,凛冬,你觉得你是一个混账，但我知道，没有你，光靠安娜，我们是没有办法在后来的十几天里活下来的。,"You think you're a shithead. But I know, without you, just relying on Anna, we never would've survived those next couple weeks.","Ты считаешь себя сволочью, но я знаю: без тебя, полагаясь только на Анну, мы бы ни за что не выжили в те последние пару недель."
+line-671,凛冬,我建议你到处走走跑跑，饿了就吃，困了就睡，比坐着瞎想强。,Just go for a run. Eat when you're hungry. Sleep when you're tired. Better than sitting around moping.,"Мой тебе совет: двигайся, бегай. Ешь, когда голодна, спи, когда устала. Это лучше, чем сидеть и забивать голову ерундой."
+line-673,娜塔莉娅,......噗。,Hup.,...Пфф.
+line-675,凛冬,干什么。,What?,Что смешного?
+line-677,娜塔莉娅,啊哈哈哈哈哈哈哈。,Ahahahahaha.,Ахахахахахахаха!
+line-679,凛冬,你至于笑成这样吗，眼泪都出来了。,"What's making you laugh like that? Jeez, you're tearing up.","Необязательно так хохотать, у тебя аж слезы потекли."
+line-681,娜塔莉娅,没事，我只是在想，这就是找你聊天的好处吧。,"Nothing. It's just, this is why it's nice to chat with you.","Ничего, я просто подумала: вот в чем прелесть общения с тобой."
+line-682,娜塔莉娅,如果你是安娜的话，我们两个现在说着说着可能已经抱头痛哭了。,"If it were Anna and me, we'd be bawling our eyes out over each other by now.","Если бы на твоем месте была Анна, мы бы уже давно рыдали в объятиях друг друга."
+line-684,凛冬,她也不喜欢你，别忘了。,"She doesn't like you either, don't forget.","Она тебя тоже недолюбливает, не забывай."
+line-686,娜塔莉娅,我知道，噗，哈哈哈，我知道。,I know. Pfft. Hahaha! I know.,"Я знаю, пфф, ха-ха-ха, я знаю."
+line-687,娜塔莉娅,我说，索尼娅。,"Listen, Sonya.","Послушай, Соня."
+line-689,凛冬,干什么。,What are you doing?,Чего тебе?
+line-691,娜塔莉娅,你知道吗，你完全没有解决我的问题。,"I want you to know, you completely failed to address my problem.","Знаешь, ты абсолютно не решила мою проблему."
+line-693,凛冬,我才懒得管你。,I'm way too lazy to care.,Мне вообще плевать на это.
+line-695,娜塔莉娅,我想，我也是没有办法解决你的问题的。,And I think there's nothing I could do to help with yours.,"И я думаю, что тоже никак не смогу решить твою проблему."
+line-696,娜塔莉娅,但有一点你说得对，我们活了下来。,But you were right on one point: we survived.,Но в одном ты права: мы выжили.
+line-697,娜塔莉娅,那你觉得，我们走得出来吗？,"Do you think we'll get over it, in the end?",И как ты думаешь... мы сможем когда-нибудь двигаться дальше?
+line-699,凛冬,啊？,Huh?,А?
+line-701,娜塔莉娅,脚下的圆，夜晚，迷宫，内心，思考，深渊。,"The circle beneath our feet, the night, the maze, our minds, our thoughts, the abyss.","Круг под ногами, ночь, лабиринт, внутренний мир, размышления, бездна."
+line-703,凛冬,你能不能说通用语。,"Could you use like, real words?",Можешь говорить на нормальном языке?
+line-705,娜塔莉娅,好吧，好吧，那么，干员不是都有代号吗，你觉得我如果成为干员该取什么代号？,"Right, right. Anyway, operators all have codenames, right? If I were to become an operator, what should my codename be?","Ладно, ладно. У всех оперативников ведь есть кодовые имена, верно? Как думаешь, если я стану оперативником, какое имя мне стоит взять?"
+line-707,凛冬,我怎么知道，我这个代号还是安娜帮我想的。,How should I know? Anna picked mine.,Откуда мне знать? Мое имя вообще придумала Анна.
+line-709,娜塔莉娅,好吧，那你觉得，Poca怎么样？,Okay. What do you think of Rosa?,Хорошо. А что скажешь насчет «Роса»?
+line-711,凛冬,露水？,Ursine for 'dew?',Роса?
+line-713,娜塔莉娅,对，露水，用通用语的话，就叫早露吧。,"Yes, like morning dew. Can you call me 'Rosa?'",Верно. Если использовать общепринятый язык — Утренняя Роса.
+line-715,凛冬,......还行？,O...kay?,...Сойдет?
+line-717,早露,好，那如果我要成为干员的话，就叫早露好了。,"It's settled. If I'm to become an operator, they'll call me Rosa.","Отлично. Тогда, если я стану оперативником, меня будут звать Роса."
