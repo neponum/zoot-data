@@ -1,0 +1,216 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,？？？,？？？,???,???
+char-2,女性的声音,女性的声音,Woman's Voice,Женский голос
+char-3,锡兰,锡兰,Ceylon,Сейлон
+char-4,广播,广播,Broadcast,Радио
+char-5,阿米娅,阿米娅,Amiya,Амия
+char-6,凯尔希,凯尔希,Kal'tsit,Кель'цит
+char-7,煌,煌,Blaze,Блейз
+char-8,空,空,Sora,Со
+char-9,克洛宁,克洛宁,Cronin,Клонин
+char-10,天火,天火,Skyfire,Скайфаер
+char-11,普罗旺斯,普罗旺斯,Provence,Прованс
+char-12,男游客,男游客,Male Tourist,Мужчина-турист
+char-13,古米,古米,Gummy,Гуми
+char-14,女游客,女游客,Female Tourist,Женщина-турист
+char-15,男游客A,男游客A,Male Tourist A,Мужчина-турист А
+char-16,男游客B,男游客B,Male Tourist B,Мужчина-турист B
+char-17,女游客A,女游客A,Female Tourist A,Женщина-турист А
+char-18,女游客C,女游客C,Female Tourist C,Женщина-турист C
+char-19,侍应生,侍应生,Waiter,Официант
+char-20,保镖,保镖,Bodyguard,Телохранитель
+,,,,
+line-4,？？？,火山监测站那边的样本数据已经调出来了，请您查看一下。,The sample data from the volcano monitoring station has been retrieved. Please look over it.,"Данные по образцам с вулканической станции получены, прошу ознакомиться."
+line-5,女性的声音,直接告诉我结果吧。,Just tell me the results.,Просто скажи мне результат.
+line-7,？？？,那边的人说样本的温度还没超过今年的最高温度。,Those people over there said that the sample's temperature has not yet exceeded the highest on record for this year.,"Там сказали, что температура образцов ещё не превысила максимальную температуру этого года."
+line-8,？？？,而且比过去三年的峰值还低不少。蒸汽状况也正常。,It's also not quite at the levels of the peaks from the past three years. The state of steam emissions is normal as well.,"К тому же, она значительно ниже пиковых значений за последние три года. Уровень пара тоже в норме."
+line-9,？？？,所以......,So...,Поэтому...
+line-10,女性的声音,所以?,So?,Поэтому?
+line-11,？？？,所以监测站那边判断火山并不会有什么异常，再次驳回了您的公告请求，市长也......,"So, the station concludes that nothing abnormal will happen with the volcano, and your request for announcement has been denied once again. The mayor also...","Поэтому на станции решили, что вулкан ведет себя нормально, и снова отклонили ваш запрос на публикацию предупреждения. Мэр тоже..."
+line-13,女性的声音,开什么玩笑！！,You've got to be kidding me!!,Да вы издеваетесь!!
+line-14,女性的声音,虽然方法简陋了一些，但我手头的样本明显有问题。,"Although my methods may be a bit simple, I'm sure that there's something amiss about this sample here.","Пусть методы были примитивными, но образцы у меня в руках явно указывают на проблемы."
+line-15,女性的声音,去年那个时候，火山的状况就已经很危险了！,The volcano was already in a precarious state last year!,В прошлом году в это же время состояние вулкана уже было очень опасным!
+line-16,女性的声音,但是他们一点警告都没有准备，甚至是新闻都没有！一点都没有！！,But they didn't even send a warning or make a news report! Nothing at all!!,"Но они не подготовили ни единого предупреждения, даже новостей не было! Вообще ничего!!"
+line-17,？？？,锡兰小姐，请、请您冷静点。,"Miss Ceylon, p-please calm down.","Мисс Сейлон, по-пожалуйста, успокойтесь."
+line-18,？？？,如果监测站说没有异常，那我们采取任何行动都不会有人相信。,"If the monitoring station says that there's no abnormality, nobody will trust us no matter what we do.","Если на станции говорят, что всё в порядке, никто нам не поверит, что бы мы ни предприняли."
+line-20,锡兰,......抱歉。,I'm sorry...,...Прости.
+line-21,锡兰,观测站的样本数据可靠吗？,Can we really rely on the monitoring station's data?,Насколько надежны данные с наблюдательной станции?
+line-22,？？？,说实话汐斯塔市政厅对这方面一直不是很重视，也许检测仪器真的出了点问题。,"To be honest, Siesta's City Council doesn't pay much attention to this. Perhaps something is wrong with the detector.","Честно говоря, мэрия Сиесты не особо уделяет этому внимание, возможно, измерительные приборы действительно барахлят."
+line-23,锡兰,那火山可能会发生异常的事实也会因此被掩盖。,That would mean that the fact that the volcano has become abnormal is being covered up.,"Значит, тот факт, что вулкан может начать извергаться, будет скрыт."
+line-24,？？？,所以，下一步您打算怎么做？,"So, what are you going to do next?",Так что вы планируете делать дальше?
+line-25,锡兰,现在的现象并不能用我所学到的专业知识解释，如果通过机构里的人无法得到正确的报告，就要依靠外人了。,"I can't explain the current phenomenon based upon what I know. If we can't get an accurate report from those in charge, we'll have to turn to an outside organization.","Нынешние явления не объяснить моими профессиональными знаниями. Если через официальные органы получить верный отчет нельзя, придется рассчитывать на посторонних."
+line-27,锡兰,如今情况还算稳定，我们还有时间。能花点时间从这些游客里找到专业人员吗？,"So far, things are stable here and we still have time. Would we be able to find some professionals among the tourists here if we took the time?","Ситуация пока стабильна, у нас есть время. Сможем ли мы найти среди этих туристов профессионалов?"
+line-28,锡兰,虽然不能奢望能找到合适的人，更不能指望他们能给出结论，但是这是我们最后的机会了......,"Even though we can't expect to find the right people, nor can we expect them to reach the correct conclusion, this is our last chance...","Хотя рассчитывать на подходящих людей не приходится, как и на то, что они сделают выводы, но это наш последний шанс..."
+line-29,锡兰,已经有不少赶在这个时候来到汐斯塔的游客了。,The tourists have already begun to pour into Siesta.,В Сиесту как раз прибыло немало туристов.
+line-30,锡兰,毕竟，马上就是黑曜石节举办的时间了，再不采取行动的话就来不及了。,"After all, the Obsidian Festival is about to begin. If we don't act now, it'll soon be too late.","В конце концов, скоро начнется фестиваль Обсидиана, если не принять меры сейчас, будет уже поздно."
+line-36,,10:10 A.M.  天气/晴,10:10 A.M. \ Clear,10:10 Утра  Погода/Ясно
+line-37,,汐斯塔,Siesta,Сиеста
+line-43,广播,亲爱的旅客，您好，欢迎在一年一度的黑曜石节期间来到汐斯塔市。,"Dear tourists, welcome to Siesta, home of the annual Obsidian Festival.","Дорогие гости, приветствую вас, добро пожаловать в Сиесту на ежегодный фестиваль Обсидиана."
+line-44,广播,既然选择了来我们汐斯塔度假消暑，那么这座城市就一定不会让您失望！,Thank you for choosing Siesta as your vacation getaway. You won't be disappointed!,"Раз уж вы выбрали Сиесту для отдыха от жары, этот город вас точно не разочарует!"
+line-45,广播,在这里，炎热会变成高涨的热情，您将会忘记一切不快和疲劳，彻底沉醉于汐斯塔市这个迷人的城市！,"Here, scorching heat is turned into sizzling passion, freeing you from the stress and exhaustion of daily life. Immerse yourself in the charms that Siesta City has to offer!","Здесь жара превратится в пылкий энтузиазм, вы забудете обо всех неприятностях и усталости, полностью окунувшись в этот очаровательный город!"
+line-46,广播,而今年的汐斯塔有的可不仅仅是碧海蓝天、阳光沙滩，还有盛大召开的黑曜石节！,"This year, there's more to Siesta than just our sunny beaches and dazzling azure waters. Don't you forget about the great Obsidian Festival!","В этом году в Сиесте вас ждут не только лазурное море, голубое небо и солнечные пляжи, но и грандиозный фестиваль Обсидиана!"
+line-47,广播,持续半个月的黑曜石节中，除了美食和娱乐，全天开放的一切娱乐活动，还有我们最为盛大的全城音乐节！,"Over the next two weeks, there will be delicious food, fun activities around the clock, and last but not least, the greatest music festival ever!","Помимо еды и развлечений, в течение полумесяца фестиваля будут доступны всевозможные мероприятия и наш самый масштабный музыкальный фестиваль!"
+line-48,广播,我们请到了各地的音乐大咖作为我们的特别嘉宾，带来这最热烈的音乐盛典！,"We've invited the hottest names from all over the musical world as our special guests, to bring you an exciting music festival you won't forget!","Мы пригласили звезд музыки со всего света в качестве специальных гостей, чтобы подарить вам самый жаркий музыкальный праздник!"
+line-49,广播,在节日持续日期中，我们特意为大家准备了各项免费设施和活动，大家可以按照喜好进行游玩！,"During the festival, we've opened up various facilities and activities to the public, free of charge, so play to your heart's content!","В дни фестиваля мы подготовили для вас бесплатные объекты и мероприятия, которыми вы можете наслаждаться по своему вкусу!"
+line-58,广播,在市民广场上，“摇滚派对”和无限供应的汐斯塔自产啤酒是绝对的主角！,"In Civic Square, the Rock Party and the unlimited supply of local beer are the stars of the show!",На центральной площади главные герои — «Рок-вечеринка» и безлимитное фирменное пиво Сиесты!
+line-59,广播,放开一切，跟随着鼓点尽情舞动。,"Cut loose, and lose yourself to the rhythm!",Отбросьте всё и танцуйте в такт барабанам.
+line-68,广播,想要享受悠扬？前往第二大道的赫尔曼大酒店门前广场，那里是爵士的天堂。,Looking for something more leisurely? The jazz paradise is located just on the square of Herman Hotel on Second Avenue.,Хотите насладиться мелодиями? Отправляйтесь на площадь перед отелем «Герман» на Второй авеню — это рай для любителей джаза.
+line-69,广播,无限制无规则，只要你愿意，你就能融入！,"No rules, and no limits. As long as you want to be here, we want you here as well!","Никаких ограничений, никаких правил — вливайтесь, если хотите!"
+line-78,广播,座落在城东火山脚下的加里森游乐场，在继续24小时免费开放的同时，搭建了城中最大的音乐舞台。,"The Garrison Amusement Park is open 24/7 during the festival, and boasts the biggest stage in the city.","Парк развлечений «Гаррисон», расположенный у подножия вулкана на востоке города, продолжает работать круглосуточно и бесплатно, а также обзавелся крупнейшей музыкальной сценой в городе."
+line-79,广播,除开每天的固定表演，我们还迎来了众多神秘嘉宾，是喜欢说唱文化的您绝对不容错过的存在。,"Other than the regularly scheduled shows, we'll also have some special guest appearances. If you're a fan of rap, you're not going to want to miss out!","Помимо ежедневных выступлений, нас ждут многочисленные секретные гости — для фанатов рэп-культуры это событие, которое нельзя пропустить."
+line-80,广播,除此之外，也还有众多演出伴随着我们的各项活动分布在全城，等待着您的到来。,"In addition, there will be plenty of shows and activities throughout the city for you to enjoy.","Кроме того, по всему городу проходит множество других выступлений, сопровождающих наши мероприятия, в ожидании вас."
+line-81,广播,请各位前往在各个路口岗哨处的STAFF人员处领取黑曜石节特制城市地图。,Please ask the staff as well as the guards for a map of the festival.,"Пожалуйста, обратитесь к персоналу на пунктах пропуска на каждом перекрестке, чтобы получить специальную карту фестиваля Обсидиана."
+line-82,广播,我们为您标注了节日期间，市内所有演出的地点与时间，方便您提前规划路线与行程。,We've marked the event locations as well as their times to make it easier for you to plan in advance.,"Мы отметили все места и время проведения выступлений в городе на время фестиваля, чтобы вам было удобно планировать маршрут."
+line-83,广播,狂欢之际，大家也要注意天气。,"But while you're enjoying the merriment, make sure to pay attention to the weather.",Во время веселья не забывайте следить за погодой.
+line-84,广播,今天的气温高达36度，是入夏以来最热的一天。出行期间，请注意防晒，避免中暑。,"Today's temperature is 96.8° F, the highest recorded this summer. Please avoid staying in the sun too long to prevent sunburn and heatstroke.","Сегодняшняя температура достигает 36 градусов, это самый жаркий день с начала лета. Во время прогулок используйте защиту от солнца, чтобы избежать теплового удара."
+line-85,广播,祝大家玩得愉快！,"Thank you, and have a great time!",Приятного отдыха!
+line-94,阿米娅,不愧是专门的旅游度假都市汐斯塔，气氛真是高涨呢。,Siesta really is a prime tourist city. The atmosphere here is filled with excitement.,"Сиеста оправдывает звание курортного города, атмосфера здесь просто невероятная."
+line-95,,没想到会这么热闹。;竟然会举办这么大型的活动。,I didn't expect it to be this lively here.;They've been holding one large event after another.,"Не ожидал, что здесь будет так оживленно. / Не верится, что они проводят такое масштабное мероприятие."
+line-97,阿米娅,我也没有想到！,Neither did I!,Я тоже не ожидала!
+line-98,阿米娅,在来之前我们都没猜到这里这么特别，本来还以为是个普通的海边小城。,None of us expected it to be such a spectacular place. We originally thought it was just another normal coastal city.,"Мы и не подозревали до приезда, что здесь так необычно. Думали, обычный прибрежный городок."
+line-99,阿米娅,多亏了给我们推荐这里的凯尔希医生了。,"Thanks for the recommendation, Dr. Kal'tsit.","Спасибо доктору Кель'цит за то, что порекомендовала это место."
+line-107,凯尔希,......这地方我没有什么兴趣，你们去就可以了。,...I'm not interested in that place. Just go there yourselves.,"...Мне это место неинтересно, можете ехать без меня."
+line-109,煌,等等我！我也想去。,Wait for me! I wanna come too!,Подождите меня! Я тоже хочу.
+line-111,凯尔希,站住。你的伤还没好，不准走。,Stop right there. You're not allowed to go since you're still recovering.,"Стоять. Твои раны ещё не зажили, никуда не пойдешь."
+line-118,,我也不讨厌这样的地方。;真是积极的推荐手法。,I don't mind a place like this.;Her recommendations are definitely spot on.,Мне тоже нравятся такие места. / Весьма активная рекомендация.
+line-121,阿米娅,博士能喜欢这里那就最好了。,"Doctor, I'm happy as long as you're enjoying it here.","Хорошо, что вам здесь нравится, Доктор."
+line-122,阿米娅,这段时间遇到了太多事情，博士也辛苦了。,We've been through too much recently. You deserve a break.,"За последнее время случилось так много событий, вы очень устали."
+line-123,阿米娅,这次，有不少罗德岛的干员们也都一起过来了，趁这个机会好好放松一下吧。,"A lot of our fellow Operators have come with us, so let's all take this opportunity to relax.","В этот раз многие сотрудники Родос Айленд тоже приехали вместе с нами, давайте воспользуемся шансом и как следует отдохнем."
+line-129,阿米娅,啊，博士，你看那边，有人在露天弹钢琴。,"Ah, Doctor, look! Someone's playing the piano in public.","А, Доктор, посмотрите туда, кто-то играет на пианино на улице."
+line-130,阿米娅,那边有人在弹吉他，还有小提琴，哇，跳舞的也有......,"Look, there are guitarists over there, as well as violinists. Wow, even dancers too...","А там кто-то играет на гитаре, скрипка, ого, люди даже танцуют..."
+line-131,阿米娅,让我想起以前天天练习演奏的日子。,It reminds me of when I used to practice the violin every day.,"Это напомнило мне дни, когда я каждый день практиковалась в игре."
+line-133,阿米娅,整条街上的气氛都跟刚才的海滩完全不同。,The streets give off a totally different vibe than the beach.,"Атмосфера на всей улице совсем не такая, как на пляже минуту назад."
+line-134,阿米娅,第一见到这么多喜欢演奏的人，果然让人很想融入他们呢。,"This is my first time seeing so many performers in one place, it makes me want to join them.","Впервые вижу столько людей, увлеченных музыкой, это заставляет захотеть влиться в их ряды."
+line-135,,阿米娅把小提琴带来了吗？,"You brought your violin, Amiya?","Амия, ты взяла с собой скрипку?"
+line-138,阿米娅,啊没有没有，我并不是这个意思。我并不是说自己要去加入他们！,"No no, that's not what I meant. I'm not really going to join them!","А, нет-нет, я не это имела в виду. Я не хотела сказать, что сама пойду к ним!"
+line-139,阿米娅,可能要完全恢复到之前的水平，我还要重新练一练才行。,"If I wanted to get back to the level I was at before, I'd have to start practicing again.","Мне, наверное, придется ещё много практиковаться, чтобы вернуться к прежнему уровню."
+line-140,,可是阿米娅现在也不输他们啊。,But I don't think those guys are any better than you.,Но ведь Амия сейчас ни в чем им не уступает.
+line-143,阿米娅,哪，哪里有啊！,Th-that's not true!,"Да ну, ни в коем случае!"
+line-144,阿米娅,不过，博士能这么说，我好高兴。,"But, I'm still happy to hear you say that, Doctor.","Но мне очень приятно это слышать, Доктор."
+line-150,阿米娅,咦，空？,"Hey, Sora?","Эй, Со?"
+line-152,空,啊，博士，阿米娅，早上好，没想到你们也到第二大道来了！,"Ah, Doctor! Amiya! Good morning, are you two also headed to Second Avenue?","А, Доктор, Амия, доброе утро! Не ожидала встретить вас на Второй авеню!"
+line-154,阿米娅,早上好，没想到空也喜欢爵士乐的街道。,"Good morning, Sora. I didn't know you were a fan of jazz as well.","Доброе утро. Не знала, что тебе тоже нравится улица с джазовой музыкой."
+line-155,阿米娅,还以为你会更喜欢都市派的音乐呢。,I thought you would've preferred pop music more.,"Думала, ты больше любишь музыку городского стиля."
+line-157,空,对于音乐，不管什么种类我可都是行家!,"When it comes to music, I'm an expert in all the genres!",В музыке я знаток любого жанра!
+line-158,空,......其实本来我也想去其他地方看看，不过昨晚被旅馆附近的LIVE吵到关了窗户戴上耳塞都没能睡着呢。,"...Actually, I wanted to check out some other places, but the show near the hotel last night was way too loud. I couldn't sleep without earplugs.","...Вообще-то я хотела пойти в другие места, но прошлой ночью концерт рядом с отелем был такой громкий, что я даже закрыла окна и надела беруши, но всё равно не смогла уснуть."
+line-159,空,虽然白天的时候能听到音乐很好，到了晚上也还吵个不停就有点难受了。,"Even though it's great to be able to listen to music throughout the day, anything will get on your nerves if it's keeping you up at night.","Днем музыка звучит замечательно, но когда она не утихает и ночью, становится тяжеловато."
+line-160,空,结果因为昨天闹得太欢，今天只能先在这里休息休息了。,"Because the others got a bit too crazy last night, all I can do is take a little breather around here.","Из-за того, что вчера так активно повеселились, сегодня приходится просто отдыхать здесь."
+line-162,阿米娅,毕竟是音乐节期间，这也是热闹的证明呢。,"It's a music festival after all, that just proves how lively things are here.","Ну, это же фестиваль, всё-таки доказательство того, насколько здесь весело."
+line-164,空,啊哈哈，也没办法呢，我们当中有好多人都没见过海。,"Ahaha, guess so. A few of us have never seen the ocean before.","Аха-ха, что поделать, многие из нас никогда не видели моря."
+line-165,空,比如今天一大早，伊芙利特又大喊着“大海我来啦！”就冲出去了，也不知道她现在跑哪儿去了。,"For example, Ifrit rushed out this morning yelling something like 'Here I come, ocean!!' We haven't seen her ever since.","Например, Ифрит сегодня рано утром выбежала с криком «Море, я иду!» и умчалась, даже не знаю, где она сейчас."
+line-167,阿米娅,哈哈，确实。,"Haha, that's just like her.","Ха-ха, верно."
+line-168,阿米娅,虽然，这片海据说严格意义上只是一座巨大的湖泊......,"Technically, this ocean is really just a huge lake...","Хотя говорят, что это море в строгом смысле — просто огромное озеро..."
+line-170,空,"有水有沙滩就是海啦~ ","As long as there's water and a beach, it's enough of an ocean for me. ",Если есть вода и песок — значит это море~
+line-171,空,等我先在这里用早晨的时间缓一缓，中午到晚上就算火山爆发都不能阻止我去玩个够！,"I'll be resting here until noon. After that, even a volcanic eruption can't stop me from having the time of my life!","Сейчас я здесь немного приду в себя за утро, а с полудня и до вечера даже извержение вулкана не помешает мне оторваться по полной!"
+line-173,阿米娅,哈哈不愧是空，那么我们先走啦。,"Haha, that certainly is your style. All right, I'll see you around then.","Ха-ха, вся ты, Со. Ну, мы пойдем дальше."
+line-175,空,好的~阿米娅和博士也玩得开心哦。,"All righty~ Amiya, Doctor, have a good time as well!","Хорошо~ Амия, Доктор, приятного вам отдыха."
+line-182,广播,现在是11点，大家是否度过了一个完美的早晨呢？,"It is now 11 o'clock! Everyone, did you have a fabulous morning?","Сейчас 11 часов, вы провели идеальное утро?"
+line-183,广播,"享受着汐斯塔的惬意早餐，下午的时光近在眼前。 ","Let's first enjoy a cozy Siestan brunch as the merriment of the afternoon approaches us. ","Насладившись приятным завтраком в Сиесте, вы уже на пороге дневного времени."
+line-184,广播,今天，让我们请来汐斯塔市的市长助理，兼汐斯塔市天灾信使克洛宁先生来跟我们讲解一下汐斯塔市和汐斯塔火山吧。,"Today, a special guest will be joining us. Let's welcome Mister Cronin, Assistant to the Mayor of Siesta and Catastrophe Messenger. Mister Cronin, why don't you tell us a bit more about Siesta and its volcano?","Сегодня мы пригласили помощника мэра Сиесты и посла бедствий города, мистера Клонина, чтобы он рассказал нам о городе Сиеста и вулкане Сиеста."
+line-191,克洛宁,欢迎大家来到汐斯塔市。,"Welcome to Siesta City, my friends.",Добро пожаловать в Сиесту.
+line-192,克洛宁,在这里有着青山绿水，阳光清风，以及我们热情的汐斯塔市民们。,"Siesta is home to lush mountains and clear waters, sunny skies and refreshing breezes, and the most passionate people in the world.","Здесь есть зелёные горы, прозрачные воды, яркое солнце, свежий ветер и наши гостеприимные жители."
+line-193,克洛宁,也正得益于这种不可多得的完美自然环境，汐斯塔才会致力于成为最好的旅游胜地，带给大家最好的夏日假期体验。,"Due to the rare and perfect natural environment that we've been gifted, Siesta is committed to becoming the best tourist hotspot and bringing you an unforgettable summer getaway.","И именно благодаря этой редкой, идеальной природной среде Сиеста стремится стать лучшим местом для отдыха и подарить вам лучшие впечатления от летнего отпуска."
+line-194,广播,要说到这里，更不得不提我们的汐斯塔火山了。很多不熟悉火山的游客可能对此有所疑问，您能给大家讲解一下吗？,"On this subject, let's talk about the Siesta Volcano. Many tourists who are unfamiliar with volcanoes may have questions about this. Care to explain it to our listeners?","Раз уж мы заговорили об этом, нельзя не упомянуть вулкан Сиеста. У многих туристов, не знакомых с вулканами, возникают вопросы. Можете ли вы прояснить ситуацию для всех?"
+line-195,克洛宁,好的。请大家可以不用担心。和大家的印象中的火山不同，没有那么多的神秘和危险，汐斯塔火山是我们的朋友。,"Gladly. First, there's nothing to be worried about. Unlike what some people may think, the Siesta Volcano is our friend, not something filled with mysteries and dangers.","Конечно. Прошу вас, не беспокойтесь. В отличие от вулканов, которые вы себе представляете — в них нет столько тайн или опасности, вулкан Сиеста — наш друг."
+line-196,克洛宁,这点我可以用天灾信使的身份担保，请大家放心。,"I can guarantee this as a Catastrophe Messenger, so please rest assured.","Я могу гарантировать это как посланник бедствий, не переживайте."
+line-197,克洛宁,想必各位都知道，汐斯塔市能够发展起来，是离不开汐斯塔的火山的。,"As you may already know, Siesta's development owes greatly to the Siesta Volcano.","Думаю, все знают, что процветание Сиесты немыслимо без нашего вулкана."
+line-198,克洛宁,别忘了多年前那场与汐斯塔擦肩而过的天灾，正是因为火山的保护，汐斯塔才没有被波及到。,"Some of you may remember the Catastrophe that almost hit Siesta a number of years back. But because of the volcano's protection, Siesta was totally unaffected.","Вспомните то катастрофическое бедствие, что миновало нас много лет назад. Именно благодаря защите вулкана Сиеста не пострадала."
+line-199,广播,"那么说起来，汐斯塔还有样非常特别的东西——黑曜石。 ","Speaking of which, Siesta has another special feature - obsidian. ","Кстати говоря, у Сиесты есть ещё одна очень особенная вещь — обсидиан."
+line-200,广播,黑曜石被认为有抑制矿石病的功效，所以，近年广受流行。,"Obsidian is believed to have the ability to suppress Oripathy, so it has become increasingly popular in recent years.","Считается, что обсидиан способен подавлять орипатию, поэтому в последние годы он стал так популярен."
+line-201,克洛宁,是的，汐斯塔市的矿石病感染者数量如此之低就是最好的例子。,That's right. The small number of Infected in Siesta is the best proof of that.,"Да, и то, что число зараженных орипатией в Сиесте столь низко — лучшее тому доказательство."
+line-202,克洛宁,虽然您可能会听到外界的传闻，所谓的科学理论，但是不管怎么样，汐斯塔市的现状就是最好的证据。,"You may have heard rumors or even scientific 'theories' from outside, but the reality within Siesta is the best evidence.","Хотя вы, возможно, и слышали внешние слухи или так называемые научные теории, в любом случае, текущее положение дел в Сиесте — лучшее тому подтверждение."
+line-203,克洛宁,但可惜的是，黑曜石的开采因为一些原因，会带来对火山自然环境的破坏，目前市政厅已经下发开采禁令。,"Unfortunately, obsidian mining has been banned by the government in order to protect the volcano's habitat.","Но, к сожалению, добыча обсидиана по ряду причин наносит ущерб природной среде вулкана, поэтому мэрия уже ввела запрет на добычу."
+line-204,克洛宁,不过目前我们仍然允许黑曜石交易，因此如果对黑曜石制品感兴趣，可以多多关注交易市场的行情。,"Nevertheless, the trade of existing obsidian products is legal, so if you're interested in these products, please head over to the market.","Однако мы всё еще разрешаем торговлю обсидианом, поэтому, если вас интересуют изделия из него, советую следить за состоянием рынка."
+line-209,广播,在整个黑曜石节期间，我们会在各个地方安设纪念品和导购指南的小商店，大家可以随意挑选。,"During the festival, shopping guides as well as souvenir stalls will be scattered throughout the city, so feel free to take your pick!","На протяжении всего фестиваля обсидиана мы будем устанавливать небольшие магазинчики с сувенирами и путеводителями, так что вы можете смело выбирать всё, что пожелаете."
+line-210,克洛宁,火山带给汐斯塔市如此的馈赠，我们也会把这些馈赠分享给大家，希望大家在之后的节日中保持愉快的心情。,"The volcano has brought Siesta a precious gift, and it is our wish to pass this gift onto all of you. We hope that you will all enjoy the festival.","Вулкан дарует Сиесте такие богатства, и мы будем рады поделиться ими со всеми вами. Надеюсь, у вас останутся самые приятные впечатления от предстоящего праздника."
+line-211,广播,那么我们稍后再见，感谢克洛宁先生。,"Thank you very much, Mister Cronin. We will see you later.","Что ж, увидимся позже, благодарим господина Клонина."
+line-219,阿米娅,黑曜石能抑制矿石病，这种说法根本就没有听过啊。,Obsidian can keep Oripathy at bay? I've never heard about that before.,"Я никогда раньше не слышала, чтобы обсидиан подавлял орипатию."
+line-220,阿米娅,而且这个天灾信使，提到科学时的语气真让人不舒服......,And that Catastrophe Messenger... the way he was dismissing science made me a bit uncomfortable... ,"Да и тон, которым этот вестник бедствий говорил о науке, был таким неприятным..."
+line-221,,矿石病如果这么简单就能被预防就好了。;旅游城市总会有增加收入的独特方式。,Wouldn't it be great if Oripathy could be cured so easily?;Tourist cities always have some way to make a quick buck.,Если бы орипатию можно было так легко предотвратить... Туристические города всегда находят уникальные способы заработка.
+line-224,阿米娅,在这样偏远的地方，还是会有这么多对于源石和天灾没有太多认知的人们。,"In remote places like this, many people still do not know about Originium or Catastrophes.","Даже в таких отдаленных местах всё еще столько людей, которые так мало знают о камнях источниках и бедствиях."
+line-225,阿米娅,也不知道到底是幸福还是可怜。,I don't know if that's a blessing or a curse.,"Не знаю, счастье это или беда."
+line-230,天火,无知那自然是可怜的事情！,Of course ignorance is a curse!,"Невежество — это, безусловно, беда!"
+line-232,阿米娅,天火，普罗旺斯！早上好！,"Skyfire, Provence! Good morning!","Скайфаер, Прованс! Доброе утро!"
+line-234,普罗旺斯,阿米娅，博士，早。,"Morning, Amiya. Doctor.","Амия, Доктор, доброе утро."
+line-235,普罗旺斯,真巧，看这个方向，博士你们准备去海滩吗？,What a coincidence to run into you guys here. Getting ready to hit the beach?,"Какое совпадение, судя по направлению, вы направляетесь на пляж?"
+line-237,阿米娅,我们也只是到处看看。普罗旺斯和天火呢？,We're just looking around. What about you two?,"Мы просто осматриваемся. А вы, Прованс и Скайфаер?"
+line-239,天火,我们准备去汐斯塔火山脚下去看看嗯。,We're going to take a look around the base of the volcano.,"Мы собираемся сходить к подножию вулкана Сиеста, м-да."
+line-241,阿米娅,火山脚？我看看地图。,The base of the volcano? Let me check the map.,К подножию вулкана? Сейчас посмотрю на карту.
+line-242,阿米娅,上面似乎没有标注，那里是有什么特别的活动？,There's no mark on it. Is there some special activity going on there?,"На ней, кажется, ничего не отмечено. Там намечается какое-то особое мероприятие?"
+line-244,普罗旺斯,没有没有，天火她就是一时兴起想去实地考察一下而已。,"No, no. Skyfire just suddenly felt like taking a field trip.","Нет-нет, Скайфаер просто внезапно захотела провести там полевые исследования."
+line-245,普罗旺斯,而我作为天灾信使，每到一个地方，去这样的地方看看也已经是习惯啦。,"And I'm a Catastrophe Messenger, as you know. Taking a quick survey of the land when I get to a new place has just become a habit of mine.","А я, как вестник бедствий, уже привыкла осматривать такие места, куда бы мы ни приехали."
+line-247,天火,作为一个研究者，我还是挺好奇的，能亲眼观察火山生态的机会可不多。,"As a researcher, I'm curious about the ecosystem of the volcano. We rarely get the chance to get up close and personal with a volcano, after all.","Как исследователь, я довольно любопытна. Выпадает не так много шансов увидеть экосистему вулкана своими глазами."
+line-249,阿米娅,即使是度假，天火也依然是这么热衷于研究啊。,"That's some serious dedication, to be doing this during your vacation, Skyfire.","Скайфаер, даже на отдыхе вы по-прежнему так увлечены исследованиями."
+line-251,天火,嗯哼，那当然，对我来说，这就是度假。,"Eheh. Of course. For me, that's what a vacation is.","Хм-м, конечно. Для меня это и есть настоящий отдых."
+line-253,普罗旺斯,那么我们先走了，拜拜。,"All right then, we have to get going. Bye!","Тогда мы пошли, пока."
+line-256,阿米娅,那我们也走吧博士。,"Then, we should get going as well, Doctor.","Тогда и мы пойдем, Доктор."
+line-257,阿米娅,前面就是汐斯塔市最大的沙滩了。,The largest beach in Siesta is just ahead of us.,Впереди самый большой пляж Сиесты.
+line-258,阿米娅,我们快过去吧！,Let's go!,Скорее пойдем туда!
+line-265,男游客,一杯芒果马丁尼冰沙。,One Mango Martini Smoothie please.,Один смузи «Манговый Мартини».
+line-267,古米,好嘞。来，这是芒果马丁尼沙冰~,"Okay. Here you go, a Mango Martini Smoothie.","Сделаю. Вот, ваш смузи «Манговый Мартини»~"
+line-269,女游客,两个草莓龙舌兰双球冰淇淋。,Two double-scoops of Strawberry Tequila Ice Cream please.,Два шарика клубничного мороженого с текилой.
+line-271,古米,给！特制草莓龙舌兰双球冰淇淋！再附赠你一份华夫饼！,"Here you are! Two double-scoops of Strawberry Tequila Ice Cream, coming right up! And, you get a free waffle!",Держите! Фирменное клубничное мороженое с текилой! И вафли в подарок!
+line-273,阿米娅,古米~,Gummy~,Гуми~
+line-275,古米,咦，阿米娅！还有博士，你们好呀~,"Oh, Amiya! And the Doctor as well. Good to see you~","Ой, Амия! И Доктор, здравствуйте~"
+line-277,阿米娅,古米，你怎么在这里摆摊啊？,"Gummy, how'd you end up running a stall here?","Гуми, почему ты здесь торгуешь?"
+line-279,古米,因为沙滩这边有一整个美食区域，主办方也给游客提供了可以一展身手的机会。,There's an entire food court by the beach. The sponsor gave the chance for tourists to show off their cooking skills.,"Потому что на пляже есть целая зона фуд-корта, и организаторы дали туристам возможность показать себя."
+line-280,古米,有这样的机会，不给大家展示展示乌萨斯的特制冷饮怎么行！,"Given an opportunity like this, I naturally had to promote some of Ursus's local favorites!","Раз есть такая возможность, как же я могу не показать всем фирменные холодные напитки Урсуса!"
+line-281,古米,不过，这里的游客实在太多了，古米都要忙不过来了。,"However, there are way too many tourists here, and I'm getting a bit overwhelmed.","Но здесь так много туристов, что Гуми просто не успевает справляться."
+line-283,男游客,小姑娘，来三杯特调酒酿珍珠奶茶加布丁。,"Hey Miss, I'd like three cups of Fermented Bubble Tea with Pudding.","Девушка, мне три коктейля с тапиокой и пудингом."
+line-285,古米,来了！,Coming right up!,Иду!
+line-287,古米,对了，博士，古米可不可以借走阿米娅？,"Oh right, Doctor, can I borrow Amiya for a bit?","Кстати, Доктор, Гуми может одолжить Амию?"
+line-289,阿米娅,欸？,Huh?,Ээ?
+line-291,古米,有阿米娅帮忙一起摆摊的话，古米就腾得出手啦。,"If Amiya is helping me out, I'll be just fine.","Если Амия поможет мне с торговлей, я наконец освобожусь."
+line-292,古米,等到我们忙完了，晚上就带阿米娅去看沙滩的演出怎么样！,"After we're done here, I'll take her to watch the show on the beach at night!","А как закончим, вечером отведу Амию на пляжное представление, как вам идея!"
+line-293,,去吧，阿米娅。;可不许累着阿米娅。;我来帮忙不行吗？,"You should go, Amiya.;Don't stress her out.;Can't I also help out?","Иди, Амия. ;Только не перетруждай Амию. ;Может, я помогу?"
+line-296,阿米娅,嗯......那好吧。,Mm... all right then.,Хм... ну хорошо.
+line-297,阿米娅,那博士你记得有事要联络我哦？,"Doctor, call me if you need anything, okay?","Тогда, Доктор, не забудьте связаться со мной, если что-то случится, хорошо?"
+line-300,古米,哼，要古米我说呢，跟在博士你身边，才是会累着阿米娅呢。,"Hmm, you know what Gummy thinks? Amiya's stressed out from always following you around, Doctor.","Хм, по-моему, это как раз когда Амия ходит за вами, Доктор, она только устает."
+line-301,古米,因为阿米娅跟在博士身边，就不会去想自己的事，这样可不行。,"When she's with you, she never thinks about herself, which isn't good.","Потому что Амия рядом с Доктором никогда не думает о себе, а так нельзя."
+line-303,阿米娅,没、没有啦......,"It, it's not like that...","Н-нет, это не так..."
+line-306,古米,才不要咧。,I'm not buying it.,Даже не проси.
+line-307,古米,博士包得这么严实，站在那里都要把客人吓走啦，哪有阿米娅可爱。,"Besides, Doctor, you're going to scare away all my customers, all wrapped up like a mummy. Amiya is way cuter than you.","Доктор так закутался, что просто стоя здесь, распугает всех клиентов. Куда ему до милой Амии."
+line-309,阿米娅,没有啦......不过，博士，那我就留在这里帮古米吧。,"Th-that's not true... But, Doctor, I'll stay here and help Gummy.","Вовсе нет... но Доктор, я останусь здесь помогать Гуми."
+line-312,古米,那阿米娅，古米先来教你怎么用这个机器。,"So, Amiya, let me teach you how to use this machine.","Тогда, Амия, сейчас я научу тебя пользоваться этим аппаратом."
+line-314,阿米娅,嗯。,Mhm.,Хорошо.
+line-316,古米,哦不对，首先是要换衣服。来来来我陪你去换一身轻便的！,"Ah, no, you gotta change your outfit first. Hurry, over here, let me get you into something a bit easier to move around in!","Ой, нет, сначала нужно переодеться. Пойдем, я помогу тебе подобрать что-нибудь легкое!"
+line-317,古米,博士也玩得开心哦，拜拜~,"Doctor, you make sure to enjoy yourself as well! Buh bye!","Доктор, приятного отдыха, пока~"
+line-322,,阿米娅应该多和同龄人一起玩。;（一个人去沙滩边的露天酒店逛逛吧）;或许我也应该穿得夏天一点？,Amiya should spend more time with her peers.;(Guess I'll go take a look the beachside open-air hotel by myself.);Maybe I really should change into something a bit more summery...,"Амии следует больше проводить время со сверстниками. ; (Прогуляюсь один по отелю на пляже) ; Может, мне тоже одеться по-летнему?"
+line-332,男游客A,喂，你听说了吗？第一大道昨天晚上又打起来了。,"Hey, did you hear that? There was another fight at First Avenue last night.","Эй, слышал? На Первой Авеню вчера вечером опять подрались."
+line-334,男游客B,我住第五大道我怎么可能知道，不过我猜是粉丝打架。,"No, I live on Fifth. I reckon it was another fight between fans?","Я живу на Пятой Авеню, откуда мне знать? Но думаю, это фанаты дрались."
+line-336,男游客A,没错，啧啧，真是不来不知道，乐迷们打起架跟对方是自己杀父仇人一样狠。,"Yeah. Jeez, talk about crazy. The way those guys were going at it, you'd think they killed the other guy's parents or something.","Именно. Тц-тц, не приедешь — не узнаешь, но фанаты дерутся так, будто их оппонент — кровный враг."
+line-338,男游客B,还是和平点好，还是和平点好。,"Peace is best, after all.","Лучше жить мирно, так спокойнее."
+line-340,男游客A,......所以你就不能赶紧把你这一身脱了吗？！,"...So, why don't you take off that outfit of yours already? ！",...Так что ты не можешь побыстрее снять это с себя?!
+line-341,男游客A,难得来度假一次，你怎么还不赶紧把这身换掉！,"It's not every day we get to go on vacation, so why are you all wrapped up like that?","Мы приехали на отдых, почему ты до сих пор не переоделся!"
+line-346,女游客A,我说，今晚你还去不去？一起啊！,"Hey, were you not going to come tonight? Join us!","Слушай, пойдешь сегодня вечером? Погнали!"
+line-348,女游客C,......别跟我说你们几个今晚还要去蹦迪。,...Don't tell me you're going dancing again tonight.,"...Только не говори, что вы собираетесь на дискотеку всю ночь."
+line-350,女游客A,当然要去啊，我们来这里就是为了蹦迪！,Of course we're going. We came here to dance!,"Конечно собираемся, мы же приехали сюда танцевать!"
+line-352,女游客C,饶了我吧，你们就自己去吧。陪你们去了三个晚上，我已经快撑不住了......,"Give me a break, just go by yourselves then. I can barely feel my feet from following you guys the last three nights...","Пощадите, идите сами. Я три ночи с вами ходила, я уже еле держусь..."
+line-354,女游客A,哎呀，才几点！再多蹦几次你就习惯了！,"Come on, it's still early! Give it a few more tries, and you'll get used to it!","Да ладно, сейчас же еще рано! Сходишь еще пару раз — и привыкнешь!"
+line-360,侍应生,你好，二位的威士忌。,"Hello, whiskey for two.","Здравствуйте, ваш виски."
+line-363,？？？,......,......,...
+line-364,,......,......,...
+line-367,？？？,呵呵，看你的打扮，即使是游客也特别了一点呢......,"Well well, with the way you're dressed, you look a bit unusual for a tourist...","Хе-хе, судя по твоему виду, даже для туриста ты выглядишь как-то необычно..."
+line-368,,......我比较害怕日晒。,...I'm a bit scared of sun exposure.,...Я просто не люблю солнце.
+line-371,？？？,既然这样还特地来海边吗，真是怪人啊。,"Even so, you came out all the way to the beach? What a weirdo.","Если так, зачем тогда ехать на пляж? Странный ты человек."
+line-372,,......,......,...
+line-375,？？？,......呵，我也没什么资格说就是了。,"...Ah, I suppose I'm one to talk though.","...Ха, впрочем, у меня нет права так говорить."
+line-377,？？？,抱歉，你这杯威士忌就让我来请客好了。,"Sorry about that, let me put that one on my tab.","Прости, позволь мне угостить тебя этим виски."
+line-378,,（什么这原来不是免费的吗？！）,(Weren't the drinks supposed to be free?!),"(Что, это разве не бесплатно?! )"
+line-385,？？？,怎么样，喜欢这个新兴的城市吗？,"So, what do you think about this budding city?","Ну как, тебе нравится этот новый город?"
+line-386,？？？,我最喜欢的就是她这样，稚气未脱但是蓬勃成长的样子。,"I'm quite fond of her, you see. Youthful, but maturing well.","Больше всего мне нравится в ней то, что она еще по-детски наивна, но уже бурно развивается."
+line-387,,"你是本地人吗？ ",Are you from here?,"Ты местный? "
+line-389,？？？,我并不是在这里土生土长，但是这里现在就是我的家。,"Though I wasn't born here, this place is my home now.","Я не родился здесь, но сейчас это мой дом."
+line-390,？？？,为了守护这里，我可以付出很多东西。,And I'm willing to pay a lot in order to protect it.,"Чтобы защитить это место, я готов отдать многое."
+line-391,？？？,不管是哪里的人，对于家人的感情都是一样的不是吗？,"No matter where people are from, they all hold the same love for their family, right?","Откуда бы человек ни был родом, чувства к родному дому ведь одинаковы, не так ли?"
+line-395,保镖,头儿，克洛宁先生找你。,"Boss, Mister Cronin is looking for you.","Шеф, вас ищет господин Клонин."
+line-397,？？？,......知道了。,...I know.,...Понял.
+line-399,？？？,我还有工作，先走了，陌生人。,"I still have work to do. I'll be off then, stranger.","Мне пора работать. Увидимся, незнакомец."
+line-400,？？？,希望你可以也喜欢上这个城市。,I hope that you too can fall in love with this city.,"Надеюсь, тебе тоже полюбится этот город."
+line-404,,真是个奇怪的人。;真是个温柔的人。;真是个漂亮的人。,What a weird person.;What a friendly person.;What a good-looking person.,Странный человек. ;Действительно добрый человек. ;Очень красивый человек.
+line-411,,有通讯？,I have a call?,Вызов по связи?
+line-414,普罗旺斯,喂，博士，听得到吗？,"Hey, Doctor, can you hear me?","Алло, Доктор, слышно меня?"
+line-415,普罗旺斯,周围有其他人在吗，我有很重要的事情要向你汇报！,Is there anyone by you? I have something very serious to report!,Рядом есть кто-то еще? У меня есть крайне важная информация для вас!
+line-417,普罗旺斯,这件事，可能事关这座城市的存亡......,It's something that may influence whether this city lives or dies...,Это дело может касаться самого существования этого города...
