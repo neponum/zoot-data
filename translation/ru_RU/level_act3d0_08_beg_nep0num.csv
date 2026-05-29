@@ -1,0 +1,66 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,锡兰,锡兰,Ceylon,Сейлан
+char-2,普罗旺斯,普罗旺斯,Provence,Прованс
+char-3,天火,天火,Skyfire,Скайфаэр
+char-4,？？？,？？？,???,???
+char-5,巨大源石虫,巨大源石虫,Giant Originium Slug,Гигантский ориджини-слизень
+,,,,
+line-10,锡兰,在火山的另一边，竟然有这样一个洞窟。,I never knew there was a cave like this on the other side of the volcano.,"Невероятно, но по другую сторону вулкана оказалась целая пещера."
+line-13,普罗旺斯,这个洞窟原本应该是天然形成的，但是经过了大量人为黑曜石开采，内部已经变成一个很深的矿洞了。,"This used to be a natural cave, but after extensive mining, it's turned into a deep shaft.","Изначально это должна была быть естественная пещера, но из-за масштабной добычи обсидиана людьми она превратилась в глубокую шахту."
+line-14,普罗旺斯,大家要做好准备，我们要在里面走相当长的一段路。,"Be prepared, everyone. We still have a long way to go once we're inside.","Всем стоит подготовиться, нам предстоит проделать довольно долгий путь внутри."
+line-15,普罗旺斯,我的真正的目的地，就在这个洞窟的深处。,Our actual destination is in the depths of this cave.,Моя настоящая цель находится в глубине этой пещеры.
+line-25,天火,在研究室的时候我可是做梦也想不到，有一天我会在度假的时候深入火山深处。,"Even when I was back in the Lab, I never imagined that I'd be diving deep into a volcano during my vacation.","Работая в лаборатории, я и в самом страшном сне не могла представить, что во время отпуска отправлюсь в недра вулкана."
+line-27,锡兰,现在可以好好解释一下了吗，刚才在通信里说的太笼统了，“这次火山爆发是可以阻止的”究竟是怎么回事？,Can you explain what's going on to me now? That phone call was way too obscure. What did she mean by 'there's a good chance to stop the eruption?',"А теперь можешь нормально объяснить? То, что ты сказала по связи, было слишком расплывчато. Что значит «это извержение можно предотвратить»?"
+line-29,普罗旺斯,嗯......解说还是交给天火好了，你来解释吧。,Hmm... I think Skyfire can explain it better. Help me out here.,"Хм... Пожалуй, предоставлю объяснения Скайфаэр. Давай, рассказывай."
+line-31,天火,这是我和普罗旺斯之前在火山内部探索，然后跟艾雅法拉远程交流得出的结论。,"Provence and I came to this conclusion after exploring the volcano, and we discussed it with Eyjafjalla.","Это вывод, к которому мы с Прованс пришли после исследования недр вулкана и удаленной консультации с Эйяфьядлой."
+line-32,天火,提到原理，首先得从这里源石虫的生态说起......不，说不定称呼它们为火山源石虫或者熔岩源石虫更为合适吧。,"To explain the theory, we'd first have to talk about the habitat of the Originium slugs... Or rather, we should call them volcanic slugs or lava slugs.","Начиная с принципов, сначала нужно рассказать об экологии местных ориджини-слизней... Нет, возможно, правильнее будет называть их вулканическими или лавовыми ориджини-слизнями."
+line-33,天火,虽然外表与源石虫几乎一样，但是它们以火山为巢穴，以这里特别的黑曜石为食，在汐斯塔的火山内部筑巢生根。,"Even though they look just like normal Originium slugs, these creatures feed upon the special obsidian found in this volcano.","Хотя внешне они почти не отличаются от обычных ориджини-слизней, они обустроили свои гнезда внутри вулкана Сиесты, питаясь местным уникальным обсидианом."
+line-34,天火,这些源石虫居住的地方会非常接近火山的核心，也正好是这种混合了特殊成分的黑曜石大量产生的地方。,"These Originium slugs make their colony very close to the core of the volcano, where lava mixes with special components to form large quantities of this obsidian.","Места их обитания находятся очень близко к ядру вулкана, как раз там, где добывается большое количество обсидиана с особыми примесями."
+line-35,天火,而这里的人发现了这个特性，利用它们的踪迹来发掘黑曜石。,"Once the people here discovered that this obsidian was special, they followed the slugs' tracks to locate the source.",Местные жители обнаружили эту особенность и использовали их следы для добычи обсидиана.
+line-37,锡兰,原来如此，我看过一些资料，有些地方的人，是通过生物的一些特性来寻找和发掘资源的。,I see. I've read about this before. People in some places take advantage of the animals' habits to locate and exploit resources.,"Вот оно что. Я читала некоторые материалы: в некоторых регионах люди находят и добывают ресурсы, ориентируясь на повадки живых существ."
+line-39,普罗旺斯,人们总是能从和生物的联系中找到规律。,People can always draw connections from interacting with other creatures.,Люди всегда находят закономерности в своих связях с живой природой.
+line-41,天火,问题就在于，这座火山距离上次喷发已经是很久以前了，这里的黑曜石是有限的。,"The problem is, there hasn't been an eruption in a long time, and the supply of obsidian started to dwindle.","Проблема в том, что с момента последнего извержения вулкана прошло много времени, и запасы обсидиана здесь ограничены."
+line-42,天火,过度开采不仅对人们产生了影响，也破坏了源石虫的居住环境。,"Overmining doesn't just affect the industries involved, but also destroys the Originium slugs' natural habitat.","Чрезмерная добыча не только повлияла на людей, но и разрушила среду обитания ориджини-слизней."
+line-43,天火,于是它们的行为明显开始躁动起来，估计大量不正常的火山内部活动都是它们开辟居住地的行为导致的。,"As a result, they became increasingly restless and started to burrow more and more in search of new habitats. This is most likely the source of the abnormal internal activity within the volcano.","В итоге их поведение стало заметно беспокойным. Полагаю, многие аномальные внутренние процессы вулкана вызваны именно тем, что они прокладывают себе новые пути для жилья."
+line-44,天火,这种行为对源石虫来说是有效扩张居住地的手段，但是对于汐斯塔市来说大概就是灭顶之灾了。,"Doing this may be effective for keeping the colony alive, but the end result is a Catastrophe for Siesta.","Для самих слизней это эффективный способ расширения ареала, но для города Сиеста это, вероятно, станет катастрофой."
+line-46,普罗旺斯,......“如果我们不怀抱着敬畏之心对待自然的馈赠，自然必然会赐以惩罚。”,"...'If we do not protect the gifts from Nature, then Nature will instead grant us punishment.'","...«Если мы не будем относиться к дарам природы с благоговением, природа непременно накажет нас»."
+line-48,锡兰,那么，我们现在到底是要怎么做呢。,"So, what should we do now?",И что же нам теперь делать?
+line-49,锡兰,难道我们还能通过什么手段，将火山堵上吗！？,Is there some method to block the volcano?,Неужели мы можем как-то заткнуть вулкан!?
+line-51,天火,换个说法，应该是，我们需要让这里的主人安稳下来。,We should approach it from a different perspective. We actually need to pacify the host of this abode.,"Если выразиться иначе, нам нужно успокоить хозяев этого места."
+line-52,天火,动作快，我们往深处走吧。,Let's hurry it up. We need to go deeper.,"Двигаемся быстрее, идем вглубь."
+line-62,锡兰,越来越热了......,It's getting hotter and hotter...,Становится всё жарче...
+line-64,普罗旺斯,就在前面不远了......,It's just in front of us...,Уже недалеко...
+line-65,普罗旺斯,大家小心！,"Everyone, be careful!","Все, будьте осторожны!"
+line-68,？？？,——————————！！！,——————————!!!,——————————！！！
+line-70,锡兰,这声音？听起来.......好像很狂暴。,That roar... It sounds... as if it's crazed. ,Этот звук? Звучит... очень яростно.
+line-72,天火,当然了，这些虫的智力程度并不足以让他们以个体行为扩张居住地，那么，必然有一只特别的母虫。,"Of course. These slugs are not intelligent enough to individually explore this volcano so extensively, so there must be a queen in the colony.","Конечно. Интеллекта этих тварей недостаточно, чтобы они могли расширять ареал согласованно, а значит, у них есть особенная матка."
+line-73,天火,它才是这里的主人。,She is the host that we're searching for.,Она и есть настоящая хозяйка этого места.
+line-75,普罗旺斯,......要从那么多源石虫里找到那什么母虫？,...We're supposed to find that queen out of all of these slugs?,...И как нам найти ту самую матку среди такого количества ориджини-слизней?
+line-77,天火,你在说什么？这可是一只差点引发了火山喷发的熔岩源石虫，它主宰着整座火山！肯定是一眼就能看出来的狠角色啦！,What are you talking about? This volcanic Originium slug is powerful enough to trigger an eruption. She is the true host of this volcano! We should definitely be able to discern her from a glance!,"О чем ты? Это лавовый ориджини-слизень, который почти вызвал извержение вулкана, он доминирует над всем вулканом! Такую опасную тварь точно будет видно сразу!"
+line-78,天火,被环境因素刺激变异的个体，可能性太多了，说不定可以瞬间融化一整支重装小队喔？,"The possibilities are endless for organisms that evolved under extreme environmental conditions. You never know, this slug might be powerful enough to melt an entire Defender squad.","Слишком много возможностей для мутации под воздействием среды, может, он способен мгновенно расплавить целый отряд тяжелой пехоты?"
+line-80,锡兰,你是说，这个让整个岩壁都在隐隐作响的声音，是一只“源石虫”发出的......？,Are you saying that these tremors were caused by a single Originium slug...?,"Ты хочешь сказать, что этот звук, от которого вибрируют даже скалы, издает один «ориджини-слизень»...?"
+line-82,天火,慌什么，有我在这里。就算这些熔岩源石虫再怎么变异也——,"There's nothing to be afraid of, as long as I'm here. It doesn't matter how much these slugs may have mutated--","Чего паниковать? Я ведь здесь. Даже если эти лавовые слизни как-то мутировали, они не—"
+line-84,锡兰,这，这是？！,Wh-what's that?!,Э-это что такое?!
+line-93,普罗旺斯,怎么回事......难道岩浆已经蔓延出来了吗？！,How can this be... The lava is already coming out?!,Что происходит... Неужели лава уже начала выходить наружу?!
+line-95,锡兰,不，是那只变异了的源石虫！在洞穴的下方！,"No, that's the mutant Originium slug! Head down the cave!","Нет, это тот мутировавший ориджини-слизень! Там, внизу пещеры!"
+line-103,巨大源石虫,————————！,Grooooooarrr!!,————————！
+line-104,巨大源石虫,————————！,Grooooooarrr!!,————————！
+line-106,天火,温度在升高，这样的热量，作为一只源石虫而言，的确有些超出规格了呢。,The temperature is rising... No Originium slug should be able to maintain such a high temperature...,Температура растет. Такое тепло... для ориджини-слизня это действительно за пределами нормы.
+line-108,普罗旺斯,......那真的还能叫虫？那不就是一整座移动的火山吗？,"...You're still calling it a slug? That's more like a moving volcano, don't you think?",...Разве это еще можно назвать слизнем? Разве это не ходячий вулкан?
+line-110,天火,嗯......毕竟没有详细的推演，与我推算的变异结果稍微有点差别。,"Well... I didn't get to draw any detailed inferences, but this is definitely beyond what I had calculated for.","Хм... В конце концов, детального моделирования не было, так что результат мутации немного отличается от моих расчетов."
+line-112,普罗旺斯,我有点想念艾雅法拉了。,I'm starting to miss Eyjafjalla a little.,Я начинаю скучать по Эйяфьядле.
+line-114,锡兰,小心！它靠近了！,Watch out! It's getting closer to us!,Осторожно! Он приближается!
+line-122,巨大源石虫,————————！,Grooooooarrr!!,————————！
+line-124,巨大源石虫,————————————！！！,Groaaaaaaaar...!!!,————————————！！！
+line-126,锡兰,它、它能让地面融化流动？不，不对，墙壁上地面上，布满了这些滚动着的像波浪一样的东西......,"It... It can even melt through the ground? N-No, look at the wall and the ground. They're covered with these wave-like things...","Он... он может плавить землю и заставлять её течь? Нет, неверно, стены и пол покрыты этими перекатывающимися вещами, похожими на волны..."
+line-128,普罗旺斯,离远些，那些全部都是熔岩源石虫，这是足够引发火山运动的数量！,"Move back. They're all lava Originium slugs, enough to cause volcanic activity!","Отойдите дальше, это всё лавовые ориджини-слизни, их количество способно вызвать вулканическую активность!"
+line-130,天火,那么毫无疑问，目标就是这家伙了。,I suppose this confirms our target then.,"Тогда без сомнений, цель — это вот эта штука."
+line-131,天火,我们只要让它停止躁动，并且改变它行进的路线，应该就能有效的争取到更多让市民做好避难准备的时间了！,"As long as we can pacify it and redirect its route, the citizens should have enough time to evacuate!","Если мы заставим его прекратить бесноваться и изменим маршрут его передвижения, то сможем эффективно выиграть больше времени для эвакуации горожан!"
+line-133,普罗旺斯,慢着慢着！只凭我们几个到底怎么解决这座小型火山！？,"Hold on, hold on! How are we supposed to 'pacify' this mini-volcano?!","Подождите, подождите! Как мы втроем справимся с этим маленьким вулканом!?"
+line-135,天火,打啊！还能怎么办？,By beating it down! What else can we do?,Бить его! Что еще остается?
+line-137,普罗旺斯,这样庞大的身体要是直接在这里爆炸，真的不会直接引发火山喷发吗！？,It's got such a massive body though! What if it explodes here? Are you sure that won't cause an eruption?!,"Если такая махина взорвется прямо здесь, не вызовет ли это извержение вулкана?!"
+line-139,天火,那就麻烦他回到巢穴里去！,Let's just ask it to go home really nicely then!,"Значит, заставим его вернуться в гнездо!"
+line-141,天火,嗯......,Hmm...,Хм...
+line-142,天火,总之还是得揍它嘛！！,I suppose we have to take it down one way or another!!,"В любом случае, его нужно проучить!!"
