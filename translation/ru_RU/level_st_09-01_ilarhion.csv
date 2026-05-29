@@ -10,9 +10,10 @@ char-6,维多利亚士兵,维多利亚士兵,Victorian Soldier,Викториа�
 char-7,凯利上尉,凯利上尉,Captain Kelly,Капитан Келли
 char-8,副官希尔,副官希尔,Adjutant Hill,Адъютант Хилл
 ,,,,
-line-6,,“冬眠的山驮着高高的烟囱”,"'The hibernating mountains carry smokestacks high,'","'В снежных горах, где с высокой трубой'"
-line-7,,“履带拉着我的家嘎吱嘎吱地跑”,"'And the tracks run hauling my home with creak and cry,'","'Колеса скрипуче тянули дом мой,'"
-line-8,,“我在排水沟里找到了一颗橡果，紧挨着一枚生锈的铆钉”,"'I found an acorn rolling in the gutter all alone, and right by a rivet rusted all of its chrome...'","'Я желудь нашел одинокий, рядом с ржавой заклепкой в водостоке'"
+line-6,,“冬眠的山驮着高高的烟囱”,"'The hibernating mountains carry smokestacks high,'","'Горы спят, увенчаные трубами высокими,'"
+line-7,,“履带拉着我的家嘎吱嘎吱地跑”,"'And the tracks run hauling my home with creak and cry,'",'Скрип и грохот гусениц — дом идет вперед.'
+line-8,,“我在排水沟里找到了一颗橡果，紧挨着一枚生锈的铆钉”,"'I found an acorn rolling in the gutter all alone, and right by a rivet rusted all of its chrome...'","'Жёлудь в водостоке с ржавыми заклепками
+Тихо, одиноко своей смерти ждет.'"
 line-26,号角,我们已进入仓库。侦查组，报告情况。,"We've entered the warehouse. Investigation team, report status.","Мы зашли на склад. Разведгруппа, доложите обстановку."
 line-31,三角铁,队长，东南角有生命体征。距离你们七排货架，活动范围一米。,"Leader. Vital signs to the southeast. Seven shelves away from you, moving within one meter.","Капитан, признаки жизни в юго-восточном углу. Семь рядов полок от вас, радиус передвижения 一 один метр"
 line-33,号角,人数？,Number of heads?,Сколько целей?
@@ -135,7 +136,7 @@ line-369,风笛,欸欸，这人怎么这样啊！,"Ugh, really! What gives them 
 line-371,风笛,（队长，我觉得......那个年轻菲林在向我们求救。他很害怕跟他们走。）,"(Leader, I think... that wee Feline wants us to help him. He's scared to death of goin' with them.)","(Капитан, я думаю...что этот фелин хотел, чтобы мы помогли ему. Он до смерти боится идти с ними."
 line-373,号角,（......）,(......),(......)
 line-375,号角,（三角铁？）,(Triangle?),(Трайэнгл?)
-line-377,三角铁,我在，队长。我还在外面树上老位置，他们没注意到我。,"Here, Leader. Still in position, outside in the same tree. They haven't noticed me.","(Я здесь, капитан. Я все еще на старом месте, на том же дереве. Они меня не заметили."
+line-377,三角铁,我在，队长。我还在外面树上老位置，他们没注意到我。,"Here, Leader. Still in position, outside in the same tree. They haven't noticed me.","Я здесь, капитан. Я все еще на старом месте, на том же дереве. Они меня не заметили."
 line-379,号角,（那就好。你带着侦察小组，继续沿附近运输路线调查。有线索立刻汇报。）,"(Good. Take the reconnaissance group, and keep investigating along nearby transport routes. If you find any leads, immediately report back.)","(Хорошо. Возьми разведгруппу и продолжайте проверять ближайшие транспортные маршруты. Если найдете какие-нибудь зацепки, немедленно доложи мне.)"
 line-381,三角铁,好。队长，需要向驻军通报吗？,Understood. Are we notifying their barracks?,"Поняла. Капитан, нужно ли сообщать об этом гарнизону?"
 line-383,号角,......,......,......
