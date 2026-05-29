@@ -1,0 +1,440 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,极境,极境,Elysium,Элизиум
+char-2,棘刺,棘刺,Thorns,Торнс
+char-3,普罗旺斯,普罗旺斯,Provence,Прованс
+char-4,天火,天火,Skyfire,Скайфайр
+char-5,Alty,Alty,Alty,Alty
+char-6,Aya,Aya,Aya,Айя
+char-7,Frost,Frost,Frost,Frost
+char-8,Dan,Dan,Dan,Dan
+char-9,保镖A,保镖A,Bodyguard A,Охранник А
+char-10,保镖B,保镖B,Bodyguard B,Охранник Б
+char-11,歌迷A,歌迷A,Fan A,Фанат А
+char-12,歌迷B,歌迷B,Fan B,Фанат Б
+char-13,歌迷C,歌迷C,Fan C,Фанат С
+char-14,？？？,？？？,???,???
+char-15,红豆,红豆,Vigna,Вигна
+char-16,男性游客,男性游客,Male Tourist,Мужчина-турист
+char-17,女性游客,女性游客,Female Tourist,Женщина-туристка
+char-18,AUS,AUS,AUS,AUS
+char-19,不起眼的游客,不起眼的游客,Unremarkable Tourist,Малозаметный турист
+char-20,刻刀,刻刀,Cutter,Каттер
+char-21,伊芙利特,伊芙利特,Ifrit,Ифрит
+char-22,蜜蜡,蜜蜡,Beeswax,Мила
+char-23,三人,三人,All Three,Трое
+,,,,
+line-16,极境,喂喂，喂喂喂，接一下啊？总不能又不接通讯吧？,"Hello? Excuse me? Is anyone home? There's no way you'd be refusing to pick up again, right?","Эй, алло? Ответь же! Ты же не собираешься снова проигнорировать звонок?"
+line-17,极境,喂？啊，唉唉！听到了听到了。,"Hello? Ah, ohh! There, there you are!","Алло? О, ага! Слышу, слышу."
+line-18,极境,哎，你总算接了......,"Hey, I finally got through...","Ох, наконец-то ты взял трубку..."
+line-23,极境,你现在应该已经到那边了吧？怎么样，汐斯塔如何？,"You should've made it over there already, yeah? So, how's Siesta?","Ты же уже должен быть там, верно? Ну как там Сиеста?"
+line-24,极境,我听博士说，那边热得随时有人会晕倒在大街上，然后被免费的啤酒浇醒，是不是真的？,"Get a load of this. The Doctor said it's so hot over there, people sometimes pass out on the streets. Then, they get woken up later with free beer. That true?","Я слышал от Доктора, что там такая жара, что люди падают в обморок прямо на улицах, а потом их отливают бесплатным пивом. Это правда?"
+line-25,极境,哎对了，这次的音乐节都来了哪些名人？大帝是不是要来？,"Ah, by the way, which celebrities did they book for the music festival this time? Is the Emperor gonna be there?","Кстати, какие знаменитости приехали на этот фестиваль? Император будет?"
+line-26,极境,哎，你见到日落即逝的成员了吗，我都用她们的曲子做背景音乐，你听这首——,"Oh, have you seen anyone from Alive Until Sunset? I play their songs as my background music. Listen to this one—","Слушай, а ты видел участниц AUS? Я постоянно ставлю их треки фоном, послушай вот этот —"
+line-28,棘刺,有事直说，没事的话我挂了。,"If you have something to say, spit it out already. Otherwise, I'm hanging up.","Говори по делу. Если ничего важного, я вешаю трубку."
+line-31,极境,等下等下等下，别这样！,"Wait, hold up, c'mon bro, don't be like that!","Стой, стой, стой, не надо!"
+line-32,极境,"有事有事，我还有事没说完，别挂兄弟！ ","I do have something to tell you, so don't hang up, man! ","Есть дело, есть! Я ещё не всё сказал, не отключайся, дружище!"
+line-34,棘刺,（叹气）,Sigh...,(Вздох)
+line-35,棘刺,如果你真的这么想来，为什么不来？,"If you wanted to come that badly, why aren't you here?","Если ты так сильно хотел поехать, почему не поехал?"
+line-37,极境,走不开啊！你以为我不想吗！,"Because I can't, man! Did you think I wanted to stay behind?","Не могу я! Думаешь, мне не хочется?!"
+line-38,极境,你们那么一大群人都去了，总得有人留在本舰吧。而且，我这边也还有点内部的任务要处理，你知道这次嘉维尔她——,"Since all you guys went, someone had to stay behind on the ship. Plus, I also had some internal stuff to deal with. You know, that Gavial, she—","Вы все уехали такой толпой, кто-то же должен остаться на корабле. К тому же, у меня тут есть внутренние поручения. Знаешь, Гвиал в этот раз..."
+line-40,棘刺,停，任务内容不必告诉我。,Stop. Don't tell me about your missions.,Стой. Подробности задания мне знать не обязательно.
+line-42,极境,耶，也不是什么要保密的事情啦。不过，那个，有一个事儿就比较......,"Eh, it's nothing classified. But still, there is that one thing that's rather...","Да ладно тебе, это не какой-то большой секрет. Но вот одно дело тут довольно..."
+line-44,棘刺,说重点，还有什么事，三十字内概括一下。,"If it's important, get to the point. Thirty words or less.",Ближе к делу. Что ещё? Уложись в тридцать слов.
+line-46,极境,哎，兄弟。,"Not cool, bro.","Эх, дружище."
+line-47,极境,有没有人说过你真的很难相处？,Has anyone ever told you you can be a real wet blanket at times?,"Тебе кто-нибудь говорил, что с тобой очень тяжело ладить?"
+line-49,棘刺,没有。,Nope.,Нет.
+line-51,极境,真可怜，都没人敢和你说实话。,Poor chap. They must all be too afraid to tell you the truth.,"Бедняга, никто не осмеливается сказать тебе правду."
+line-53,棘刺,我挂了。,I'm hanging up.,Я отключаюсь.
+line-55,极境,慢着，我这就说！,"Fine, fine, I'll cut to the chase!","Погоди, сейчас всё скажу!"
+line-56,极境,（吸气）,Sigh...,(Вдох)
+line-57,极境,消息来源不太可靠但这次音乐节上可能会出乱子不过我觉得打起来你也不在乎所以如果遇到日落即逝成员麻烦帮我要张签名谢谢我说完了！,The source isn't that reliable but there might be some trouble at this music festival but since I know you don't really care about that please ask for an autograph if you happen to bump into anyone from Alive Until Sunset! Big thanks in advance!,Источник сомнительный но на фестивале могут быть беспорядки хотя думаю тебе всё равно если дойдёт до драки так что если встретишь девчонок из AUS возьми у них автограф пожалуйста спасибо я всё!
+line-59,棘刺,......你要说的就是这个？,...Is that all?,"...И это всё, что ты хотел сказать?"
+line-61,极境,嗯？是啊。,"Huh? Uh, yeah.",М? Ну да.
+line-63,棘刺,一共六十个字，超额百分之一百。,That was forty-five words. You went over by fifty percent.,Всего шестьдесят слов. Превышение на сто процентов.
+line-64,棘刺,以及，如果你是用这个音量在办公室里放音乐，那再过十秒隔壁工程部的人一定会冲进来砸掉你的音响。,"And, if you blast music at that volume in the office, the Engineering Department will be there to smash your stereo within ten seconds.","И ещё, если ты слушаешь музыку в офисе на такой громкости, то через десять секунд сотрудники инженерного отдела вломятся к тебе и разобьют твои колонки."
+line-66,极境,啊？,Huh?,А?
+line-67,极境,等等？找我有事吗简......扰乱工作？那什么......啊呀我错了别别你听我解释别动手——,"Wait a sec. Did you need something... Disturbing the work environment? What are you talking ab— ...Aaaah, my bad, ignore what I just said, seriously, it's my fault, please stoppp—","Подождите! У вас ко мне дело, Кло... Мешаю работать? Ну, это... Ой, я виноват, нет-нет, послушайте, я всё объясню, не надо грубой силы!—"
+line-72,棘刺,啧。,Tch.,Тц.
+line-73,棘刺,这家伙，到底有多喜欢那个乐队？,Just how much does this guy like that band?,Насколько же сильно этот парень фанатеет по этой группе?
+line-74,棘刺,我都快能倒背歌词了......嗯？,I can almost recite the lyrics myself...... Hmm?,Я уже почти наизусть текст этой песни выучил... Хм?
+line-82,普罗旺斯,虽然风景很好，但是这里果然好热啊！尾巴都能挤出水了欸！,"The scenery out here is amazing, but it really is hot and humid! I can practically wring out my wet tail!","Хоть виды и красивые, но здесь действительно очень жарко! С хвоста хоть воду выжимай!"
+line-83,普罗旺斯,汐斯塔当地的气温好像比我推测的还要高，这有点怪......哎，天火，你有没有觉得热？,"The temperature here in Siesta seems even higher than I expected, which is weird... Hey, Skyfire, don't you think so too?","Кажется, температура в Сиесте даже выше моих прогнозов, это странно... Эй, Скайфайр, тебе не жарко?"
+line-85,天火,我们穿成这样，不热才奇怪吧。,"Considering the way we're dressed, it'd be stranger not to be hot.","Было бы странно, если бы нам не было жарко в такой одежде."
+line-87,普罗旺斯,呃，那倒也是。,"Eh, good point.","Э-э, и то верно."
+line-88,普罗旺斯,大家都穿得太多了，这么下去搞不好真的会中暑，最好是能换一身衣服......听说这回有机会去海边，所以我有特地带泳装来哦。,"Everyone's too dressed up anyway. Someone might seriously get heat stroke like this, so let's get changed already... Besides, I heard we might have a chance to head down to the beach, so I brought a swimsuit.","На всех слишком много одежды. Если так пойдёт и дальше, можно и тепловой удар схватить. Лучше бы нам переодеться... Я слышала, в этот раз будет возможность сходить на пляж, поэтому специально взяла с собой купальник."
+line-90,天火,等会，现在还不行！我们不是要去火山脚下吗，总得等到回来之后再说！,"Hold up, not yet! Weren't we going to go to the base of the volcano? You'll have to wait until we get back first!","Погоди, сейчас нельзя! Мы разве не собирались к подножию вулкана? Сначала сходим туда, а потом уже пляж!"
+line-92,普罗旺斯,那就早去早回，我也想好好享受一下沙滩，这种机会可不是经常会有的好吗！,"Let's hurry up and get it over with then. I want to kick back and relax on the beach too, y'know. Not every day we get a chance like this!","Тогда сходим поскорее и вернёмся. Я тоже хочу насладиться пляжем, такая возможность выпадает нечасто!"
+line-98,棘刺,......,......,......
+line-99,棘刺,沙滩，海？,The beach... and the ocean?,"Пляж, море?"
+line-100,棘刺,......这里闻起来可不像是有海的样子。,...It doesn't smell like the sea here.,...Запаха моря здесь совсем не чувствуется.
+line-108,Alty,呼，这是第几曲了？晚上还有演出呀，怎么提前就兴奋起来了。,"Phew, how many songs was that? We still have another performance tonight. Don't get all excited and blow your energy this early.","Ух, какая это уже песня по счёту? Вечером ещё выступление, чего вы так рано раззадорились?"
+line-110,Aya,不知道，不过我还挺开心的，Frost也是吧。,"No clue, but I'm still having a good time. Frost, you too, right?","Не знаю, но мне весело. Фрост ведь тоже?"
+line-112,Frost,（拨弦）,(Plucks a chord),(Дёргает струну)
+line-114,Dan,反正也没什么关系吧，我们又不会累。,Not like it matters. Nothing's going to burn us out.,"В любом случае, это не имеет значения. Мы всё равно не устаём."
+line-116,Alty,哎呀，哈哈，也有道理。,"Ahaha... Yeah, I guess that's true.","Ой, ха-ха, и то верно."
+line-117,Alty,行啦，那么，在夜晚到来之前——,"All righty, then. Before the night comes—","Ладно. Тогда, пока не наступила ночь..."
+line-118,Alty,就让我们提前狂欢吧！！,Let's party hard! !,...Давайте начнём веселье заранее!!
+line-124,棘刺,（这就是那家伙喜欢的乐队？这个风格，果然很吵。）,(Is this the band that guy is so crazy about? They seem like a really noisy bunch.),"(Это та самая группа, которая ему нравится? Стиль и правда шумноват.)"
+line-125,棘刺,（而且......）,(Also...),(И к тому же...)
+line-126,棘刺,（很奇怪，有什么东西不对劲。),(Something's weird about them. Can't put my finger on it though.),"(Странно, что-то здесь не так.)"
+line-127,棘刺,（是因为这首歌？这种熟悉的感觉是......什么？）,(Is it because of this song? What exactly... is this familiar feeling?),(Это из-за песни? Это чувство дежавю... что это?)
+line-133,保镖A,找到大小姐了吗？！,Have you found the Young Miss?!,Вы нашли юную леди?!
+line-134,保镖B,快点！快追，他们一定没跑远！,"Hurry up! After them, they couldn't have gotten far!","Быстрее! В погоню, они не могли уйти далеко!"
+line-135,保镖A,从这边走，一定要把大小姐带回来！,"This way, we have to bring her back!",Сюда! Мы обязаны вернуть юную леди!
+line-137,歌迷A,挤什么挤什么，哎真没素质！,"Hey, stop squeezing! How rude!","Чего вы толкаетесь? Эй, ну что за манеры!"
+line-138,歌迷B,靠谁踩了我一脚？,Who the hell stepped on my foot?,"Черт, кто наступил мне на ногу?"
+line-139,歌迷C,别管那些人，她们又开始唱下一首了，啊啊啊这是《海中深色》里收录的第一首曲子！,"Who cares about those people? It's time for the next song! Woooah, it's the first song off their album Deep Color in the Sea!","Да плевать на них! Они начали следующую песню! А-а-а, это же первый трек из альбома «Тёмные глубины моря»!"
+line-142,棘刺,嗯？,Huh?,Хм?
+line-143,棘刺,（从刚刚开始，这些人到底在找什么？）,"(Just now, who were those people looking for?)",(Что эти люди ищут с самого начала?)
+line-144,棘刺,（这样的着装风格，不像是民间的什么组织......）,"(Based on the way they're dressed, they're no ordinary group of civilians...)",(Такой стиль одежды... не похоже на гражданскую организацию...)
+line-147,？？？,借过，不好意思，借过一下！,"Excuse me, sorry, let me through please!","Позвольте пройти, извините, дайте пройти!"
+line-152,红豆,呼，总算出来了......,"Phew, I finally made it out...","Ух, наконец-то выбралась..."
+line-154,棘刺,你急着去哪？,What's the hurry?,Куда ты так спешишь?
+line-157,红豆,哇！什么人！,Eep! Who are you?!,Ой! Кто это?!
+line-158,红豆,咦，是棘刺，吓我一跳......既然你也在这，就说明你也是日落既逝的歌迷咯？,"Oh, it's Thorns... Don't scare me like that... Anyway, since you're here, does that mean you're also a fan of Alive Until Sunset?","А, это Торнс, напугал меня... Раз ты здесь, значит, ты тоже фанат AUS?"
+line-159,红豆,也是，我记得你是阿戈尔人，我总觉得你们阿戈尔人没人能拒绝她们，她们唱的海比汐斯塔的波浪还要更美、更带劲！,"Right, I just remembered, you're also Ægirian. Feels like every Ægir I've met has some special connection with them. The sea they sing about is so much more beautiful and intense than the waves of Siesta!","Впрочем, логично. Помню, что ты эгир, а мне кажется, что ни один эгир не устоит перед ними. Море, о котором они поют, даже прекраснее и мощнее, чем волны Сиесты!"
+line-161,棘刺,......,......,......
+line-163,红豆,哎呀，不对，现在不是说这个的时候！,"Ah, crap, that's not what I'm supposed to be talking about!","Ой, точно, сейчас не время для этого!"
+line-164,红豆,博士他们现在好像很需要帮忙，我正要赶过去！既然碰上了，你也别愣着，我们一起——,"The Doctor and the others seem to be in a bit of a pickle, so I'm on my way to help out! Since you're already here, don't just stand around, let's go help out—","Кажется, Доктору и остальным сейчас очень нужна помощь, я как раз направляюсь к ним! Раз уж мы встретились, не стой столбом, пойдём вместе—"
+line-166,棘刺,博士那里不必我去。,There's no need for me to go.,Мне нет необходимости идти к Доктору.
+line-168,红豆,欸，为什么？,Huh? Why's that?,А? Почему?
+line-170,棘刺,这次有那个乌萨斯的老人跟着，他们不会有事。,They have the old geezer from Ursus with them this time. They'll be fine.,"В этот раз с ними тот старик из Урсуса, так что они будут в порядке."
+line-171,棘刺,......不对，应该这么说。,"...Uhh, that came out wrong. Rather...","...Нет, скажу иначе."
+line-172,棘刺,我没有收到直接的联络，就说明没有这个必要。,"I did not receive any direct communications, which means my presence is not required.","Раз я не получал прямого вызова, значит, в этом нет нужды."
+line-173,棘刺,我想博士应该已经对接下来的安排有了一定的把握，那个人不会让干员和自己陷入危险。,I fully expect that the Doctor has a level of control over the situation. A commander of that caliber would never do anything to endanger our operators.,"Думаю, у Доктора уже есть чёткое представление о дальнейших действиях. Он не подвергнет опасности ни себя, ни оперативников."
+line-174,棘刺,在得到具体的指示之前，我没必要参与你们的行动。,"Until I've received specific instructions, there is no need for me to participate in your operation.",До получения конкретных указаний мне нет смысла вмешиваться в ваши действия.
+line-175,棘刺,不要太小看博士，擅自行动，反而有可能破坏那个人的计划。,Don't underestimate the Doctor and rush to your own arbitrary decisions. You may end up causing more harm than good.,Не стоит недооценивать Доктора. Своими самовольными действиями ты можешь только нарушить его планы.
+line-176,棘刺,这些是我的推测，还有什么问题吗。,That's what I've inferred. Are there any issues?,Это мои предположения. Есть ещё вопросы?
+line-178,红豆,......,......,......
+line-179,红豆,没了。,None.,Нет.
+line-180,红豆,问题没了，不过我有了一个新的发现。,"None at all. But, I did figure something out.","Вопросов нет, но я сделала одно новое открытие."
+line-182,棘刺,？,?,?
+line-184,红豆,我和你这人，绝对合不来！帮个忙而已哪需要想那么多啊！,You and I. We definitely aren't getting along! Imagine having to think that much every time anybody asks you something!,"Мы с тобой абсолютно несовместимы! Зачем столько думать, когда нужно просто помочь!"
+line-186,红豆,哎呀不和你说了，反正博士喊我帮忙，却没喊你，对吧？,"Oops, I don't even know why I'm talking to you. The Doctor asked for my help, not yours. Right?","Ой, да ну тебя! В любом случае, Доктор позвал на помощь меня, а не тебя, верно?"
+line-187,红豆,行了，那你就留在这儿继续听演唱吧，我得赶紧走了。,"All right, you just sit here and keep enjoying the show. I have somewhere to be.","Ладно, оставайся здесь и слушай концерт, а мне пора бежать."
+line-192,棘刺,......,......,......
+line-193,棘刺,她那是什么语气？,What's with her tone?,Что это был за тон?
+line-194,棘刺,搞不懂。,I don't get it.,Не понимаю.
+line-201,男性游客,你听说了吗，沙滩边的美食区有家卖烤肉的摊子，现在有半价优惠，排队都排到大街上来了！,"Have you heard, there's a barbecue stall in the food court by the beach? They're having a half-off deal, and the line's snaking all the way out to the street!","Ты слышала? В фуд-корте у пляжа есть лавка с барбекю, там сейчас скидки в полцены, очередь аж до самой улицы растянулась!"
+line-202,男性游客,怎么样，我们也去吃吃看吧！,How about it? Wanna see what the hype is all about?,"Как насчёт того, чтобы тоже пойти и попробовать?"
+line-204,女性游客,这个天气吃烤肉？太热了，还是不要了吧......,"Barbecue, in this weather? It's way too hot, I think I'll pass...","Есть барбекю в такую погоду? Слишком жарко, пожалуй, откажусь..."
+line-206,男性游客,哎，话不能这么说。在炽热的沙滩上烤肉，熊熊燃烧的炭火这不是正贴合这次音乐节的火热气氛嘛！,"Hey, don't be like that. Is there anything better for the fiery atmosphere of this music festival than some barbecue on the hot beach next to a raging charcoal fire?","Эй, ну что ты такое говоришь! Жарить мясо на раскалённом пляже, на пылающих углях — это же идеально подходит под жаркую атмосферу этого музыкального фестиваля!"
+line-207,男性游客,而且这么多人排队，味道肯定不差，不尝可惜啊！,"And with so many people lined up, I bet the flavor's out of this world! It'd be a shame not to give it a try!","К тому же, раз столько народу стоит в очереди, вкус наверняка отличный, жалко будет не попробовать!"
+line-208,男性游客,大过节的，来都来了，去呗，我请客！,"We're on vacation, and we came all the way out here. C'mon, my treat!","Праздник всё-таки, раз уж мы здесь, пошли, я угощаю!"
+line-210,女性游客,这话说的像我亲戚婶婶......行吧，你都说到这份上了，那就去看看吧。,"You're talking just like my aunts and uncles... But fine, since you're so worked up about this, let's go check it out.","Звучишь прямо как моя тётушка... Ладно, раз уж ты так настаиваешь, давай сходим посмотрим."
+line-211,女性游客,嗯？那边是什么声音？,Huh? What's the sound over there?,Хм? Что это за звук там?
+line-216,AUS,你们说什么？,What did y'all say?,Что вы говорите?
+line-218,AUS,再大声一点——,"C'mon, louder! I can't hear you—",Ещё громче! —
+line-222,歌迷A,再一曲——,ONE— MORE— SONG—!!,Ещё одну песню! —
+line-223,歌迷B,安可——,ENCORE—!!,На бис! —
+line-228,男性游客,好像是搭了个临时舞台，不知道是哪支乐队在街头表演。,Looks like they set up a temporary stage. Not sure which band is performing on this street though.,"Кажется, там поставили временную сцену, какая-то группа выступает прямо на улице."
+line-230,女性游客,比起烤肉，我们不如先去那边听听，看这个架势，没准来的是什么有名的音乐人......,Don't you think that's much more interesting than some barbecue? Look at all the people there - what if that's some famous musician...,"Вместо барбекю лучше пойдём сначала послушаем их, судя по всему, приехали какие-то известные музыканты..."
+line-233,女性游客,哎，谁撞我！,"Hey, who hit me?!","Ой, кто меня толкнул!"
+line-237,棘刺,小心。,Watch out.,Осторожнее.
+line-239,女性游客,呃......啊，谢、谢谢。,"Ah, uh.... Um, th-thank you...","Ой... а, спа-спасибо."
+line-245,男性游客,太酷了！！她们真的太棒了！！,"Woah, that's rad! They're way too awesome! !",Как круто!! Они просто потрясающие!!
+line-247,女性游客,我头一次听这支乐队的曲子，现场比我想象得还要好欸......,I've never heard this band before! The scene here is even better than I imagined...,"Я впервые слышу музыку этой группы, вживую даже лучше, чем я представляла..."
+line-248,女性游客,真是来对了，果然比起大夏天的吃烤肉，还是来听歌比较赚啊！不知道她们什么时候发新专辑，我一定会买！,"I knew I made the right call. Enjoying some good music is way better than barbecue in the middle of the summer! I don't know when they're releasing their next album, but I'll definitely buy it!","Не зря пришли, и правда, чем есть барбекю в такую жару, лучше послушать музыку! Интересно, когда у них выйдет новый альбом, я обязательно куплю!"
+line-250,男性游客,我算是看出来了，你就是对烤肉不感兴趣......,I see how it is. You're just not into barbecue...,"Теперь я понял, тебе просто не хотелось барбекю..."
+line-252,女性游客,你才发现？,You only now realize...?,Только сейчас заметил?
+line-254,男性游客,哎，不说这个，对了，你的包呢？,"Alright, let's drop it. By the way, where's your purse?","Эх, ладно об этом. Кстати, а где твоя сумка?"
+line-256,女性游客,......咦？,...Huh?,......А?
+line-257,女性游客,我记得是抓在手上的啊......,I could've sworn I had it with me...,"Я помню, что держала её в руках..."
+line-259,棘刺,你们在找的是这个？,Are you looking for this?,Вы это ищете?
+line-262,不起眼的游客,哇！,Eep!,Ва!
+line-263,不起眼的游客,你干什么，怎么动手打人呢，哎哎哎啊我的手疼疼疼。,"What have you done? How could you just strike me like that?! Gyaaaaaaaah, my arm! Aaaargh!!","Ты что творишь, зачем руки распускать! Ай-ай-ай, моя рука, больно, больно, больно!"
+line-265,棘刺,没断，别嚷嚷。,Stop your sniveling. It's not broken.,"Не сломана, не ори."
+line-266,棘刺,我不喜欢太吵闹，还是说你想用另一种方式闭嘴？,I hate noise. Should I shut you up some other way?,"Я не люблю шум. Или ты хочешь, чтобы я заставил тебя замолчать другим способом?"
+line-269,不起眼的游客,（被掐住咽喉一般的怪声）,(Gurgles strangely as if his throat is being pinched),"(Сдавленный звук, будто горло перехватили)"
+line-271,棘刺,有了。,Here.,Вот.
+line-273,女性游客,啊，这是我的包！,"Oh, my purse!","Ой, это моя сумка!"
+line-275,棘刺,两块手表，四个钱包，还有一枚女士手镯。看来沉浸在音乐中的确会令人放松警惕，这一点大家都差不多。,"Two watches, four wallets, and a woman's bracelet. It seems that being immersed in music can indeed cause one to let her guard down. Everyone is alike in that regard.","Двое наручных часов, четыре кошелька и женский браслет. Видимо, погружение в музыку действительно притупляет бдительность, это касается всех."
+line-276,棘刺,这些东西到手得很轻易吧？否则你也不会这么大胆，一次次动手。,"It must've been quite easy to get your hands on these things. Otherwise, you wouldn't have the gall to do it again and again.","Эти вещи достались тебе легко, не так ли? Иначе ты не был бы так нагл, чтобы воровать снова и снова."
+line-278,不起眼的游客,你、你瞎说什么！这些都是我的，我自己的......,Wh-what are you talking about?! These are mine! They belong to me...,"Что ты за чушь несешь! Это всё моё, моё собственное..."
+line-280,棘刺,不合理。,Rubbish.,Нелогично.
+line-281,棘刺,你的谎言很拙劣，这是在无意义地消耗我的时间。,Your slipshod lie is an utter waste of my time.,"Твоя ложь крайне бездарна, ты бессмысленно тратишь моё время."
+line-283,女性游客,对、对啊！那个明明是我的包！,Y-yeah! That clearly is my purse!,"Да, именно! Это определённо моя сумка!"
+line-285,男性游客,啊？还真有小偷？之前那些跑来跑去的黑西服该不会就是在抓这些小贼吧！,Huh? There really are thieves running around? Maybe those black suits back there were chasing after thieves!,"А? Так тут и правда вор? Те люди в чёрных костюмах, которые бегали повсюду, случайно не этих мелких жуликов ловили?"
+line-287,棘刺,黑西服？那些人可没有这么好心。,Black suits? They are not so well-intentioned.,В чёрных костюмах? Те люди не настолько добры.
+line-288,棘刺,拿好你们的东西，没有其他问题的话，我还要带这个人去另一个失主那里。,"Make sure to hold on to your things. If there is nothing else, I need to bring this one to his other victims.","Забирайте свои вещи. Если больше вопросов нет, я отведу этого человека к другому потерпевшему."
+line-290,不起眼的游客,哎哎哎哎哎这是冤枉啊哪有什么失主！,Wh-wh-wh-what are you talking about?! What victims?!,"Эй-эй-эй-эй, это клевета, нет никакого другого потерпевшего!"
+line-291,不起眼的游客,快放手不然我要告你——,Let me go right now or I'm reporting you to—,"Отпусти, иначе я на тебя заявлю —"
+line-293,棘刺,别吵。,Silence.,Тихо.
+line-296,不起眼的游客,疼疼疼！！,Gyaahhhh! !,"Больно, больно!!"
+line-298,男性游客,小哥，这，我们当然相信你说的没错，不过，你还知道其他失主在哪？,"Um, Mister, of course, we believe you're in the right, but how do you know where these other victims are?","Парень, мы-то тебе верим, но откуда ты знаешь, где другие потерпевшие?"
+line-299,男性游客,你是怎么发现的？,How could you find them?,Как ты это обнаружил?
+line-301,棘刺,......这群人经常会等候在人群聚集的地方，专门挑外来游客为目标，得手之后立刻离开。,"...People like these often wait in places where crowds gather, specifically targeting foreign tourists before making off with their ill-gotten gains.","......Эта банда часто околачивается в местах скопления людей, выбирая целями туристов, и сразу скрывается после кражи."
+line-302,棘刺,这是个惯犯。,This is a repeat offender.,Это рецидивист.
+line-303,棘刺,我在他第二次动手时才确定，跟了这家伙五条街区，找到这伙人的窝点。,I made sure of this when I saw him strike the second time. I then followed him for five blocks to find his group's hideout.,Я убедился в этом только после его второй попытки. Я проследил за ним пять кварталов и нашёл логово этой шайки.
+line-305,不起眼的游客,？！,?!,?!
+line-307,棘刺,别这么惊讶。除了你，其他人都已经在警局了。,"Don't act so surprised. You'll be able to see the others soon, at the police station.","Не удивляйся так. Кроме тебя, все остальные уже в участке."
+line-308,棘刺,有刀疤的那个是你们的头领？他有些本事，费了我不少时间。,"The one with the scar is your leader, right? He was pretty capable, and took me a bit of time.","Тот, что со шрамом — ваш главарь? Он кое-что умеет, на него у меня ушло порядочно времени."
+line-310,不起眼的游客,......,......,......
+line-311,不起眼的游客,......你连老汤姆都抓了？呿，早说啊，行，算你有本事，这次我认栽。,"...You even caught Old Tom? Tch... Should've said so earlier. All right, if you're that capable, I'll give up this time.","......Ты поймал даже Старину Тома? Тьфу, так бы и сказал. Ладно, твоя взяла, в этот раз я сдаюсь."
+line-313,男性游客,嘿，都被抓到了，你还挺狂？,"Heh, you've been caught, and you're still talking big?","Эй, тебя поймали, а ты ещё и огрызаешься?"
+line-315,不起眼的游客,汐斯塔是我们的城市，你们懂什么？被抓到又怎么样？不过就是被关一段时间......,Siesta is our city. What the hell do you know? So what if I'm caught? I'm just gonna get locked up for a bit...,"Сиеста — наш город, что вы понимаете? Ну поймали, и что? Посижу немного, да и всё..."
+line-317,男性游客,你这人......算了，和你也没什么好说的。哎小哥，这次真是谢谢你了。,"You piece of... Forget it, there's nothing worth saying to someone like you. Hey, Mister. I really can't thank you enough.","Ну ты и тип... Ладно, с тобой говорить не о чем. Эй, парень, большое спасибо за помощь."
+line-319,棘刺,这没什么。,Don't worry about it.,Не стоит благодарности.
+line-321,女性游客,哎哎哎等等，别急着走！,"Ah, wait, wait up! Where are you going?","Эй-эй-эй, погоди, не уходи так быстро!"
+line-323,棘刺,？,?,?
+line-324,棘刺,道谢就不必了。,I don't need any reward.,Благодарность не обязательна.
+line-325,棘刺,我只是恰好也要帮同伴收拾一些麻烦，顺带而已。,I was simply on the way to help my friend sort out some trouble. Just took a little detour.,"Я просто попутно разбирался с проблемами моих коллег, вот и всё."
+line-327,女性游客,话不能这么说，谢还是要谢的！,Don't say that! Let me show some appreciation!,"Так нельзя, поблагодарить всё равно нужно!"
+line-328,女性游客,帅哥，要不要一起去吃烤肉？,"Besides, you're pretty cute. Want to get barbecue together?","Красавчик, не хочешь сходить с нами на барбекю?"
+line-329,女性游客,听说有家店很多人排队，味道一定不差，大过节的来都来了，一起去尝尝怎么样？我请客！,"I heard there's a stall with a line around the block, the food there is supposed to be amazing. Since we're on vacation anyway, how about heading down together to give it a try? I'll treat you~!","Говорят, там огромная очередь, вкус должен быть отменным. Праздник всё-таки, раз уж мы здесь, пошли попробуем? Я угощаю!"
+line-331,男性游客,等一下？？你刚刚不还说不要烤肉吗？？,Wait a second... Didn't you just say you weren't into barbecue??,"Погоди-ка?! Ты же только что говорила, что не хочешь никакого барбекю?!"
+line-333,女性游客,那情况能一样吗？,That was a totally different situation though?,Так то была другая ситуация!
+line-335,棘刺,......,......,......
+line-342,刻刀,这一批客人要的烤肉都已经好了，接下来还来得及吗，对了，火变小了些，我要再加一点炭。,"That should wrap it up for this batch of customers. Do we still have time? Also, the fire's starting to die down. I need to add more charcoal.","Эта партия мяса для гостей уже готова. Успеем ли мы приготовить следующую... Ой, огонь стал слабее, нужно подбросить ещё угля."
+line-344,伊芙利特,没问题！看我的！,I got you! Watch this!,Без проблем! Предоставь это мне!
+line-349,棘刺,据说很多人排队的烤肉店，就是这里？嗯，看起来的确还不错。,"Is this the barbecue stall everyone's been talking about? Hm, I must say, this does look quite promising.","Говорят, здесь та самая лавка с барбекю, в которую выстраиваются огромные очереди? Хм, выглядит и впрямь неплохо."
+line-350,棘刺,不过，你们用的这块炭......,"But, the charcoal you're using...","Однако этот уголь, который вы используете..."
+line-352,伊芙利特,哈啊？等等你谁啊，别乱动我的东西！,"Haah? Wait up, who the hell are you? Stop messing with my stuff!","А? Погоди, ты ещё кто такой? Не трогай мои вещи!"
+line-353,伊芙利特,等下，你的武器，我好像有印象......让我想想......哎你不准说，不准提醒我！我肯定能想起来！,"Hold up, that weapon of yours. I swear I've seen it before... Lemme think... Eyy, no, no hints! I know I've seen you somewhere before!","Стой, твоё оружие... я его где-то видела... Дай-ка вспомнить... Эй, не смей подсказывать! Я сама вспомню!"
+line-354,伊芙利特,嗯嗯嗯......你是不是之前那个跟在博士身后的？啊不对，不对，那家伙不长你这样，只是披了个黑斗篷，也不拿这么长的刀剑。,"Nnnnnnngh... Aren't you the one following the Doctor around a while ago? Ah, no, that's not right. That guy doesn't look like you. 'cept he was wearing a black cloak, and his sword wasn't that long.","М-м-м... Ты тот, кто всё время ходил за Доктором? А, нет, тот выглядел иначе — был в чёрном плаще и не носил такой длинный меч."
+line-355,伊芙利特,那就是在甲板上大喊大叫绕圈跑的那个对不对！我看到了！这次肯定没错，我还看到那个炎国大姐冲出去骂人，教训的是不是你？,"I got it! You're the guy who was running circles around the deck yelling his head off, right?! I knew it! I'm sure of it! The one time that mean lady from Yan ran out screaming all those bad words, she was scolding you, wasn't she?","Тогда ты тот, кто носился кругами по палубе и орал во всё горло! Я видела! В этот раз точно не ошибаюсь. Я ещё видела, как та сестрица из Яня выбежала и начала тебя костерить. Это же тебя она отчитывала?"
+line-357,刻刀,伊芙利特，跑步的那个应该是极境先生。,"Ifrit, the one running around was Mr. Elysium.","Ифрит, тем, кто бегал, скорее всего, был господин Элизиум."
+line-358,刻刀,顺带一提，他当时喊的是“偷吃果冻奶昔冰冻碎碎乐的人是我”。,I actually remember what he was yelling: 'I'm the one who drank your smoothie!',"Кстати, он тогда кричал: «Это я тот, кто тайком съел фруктовое желе, милкшейк и ледяную крошку!»"
+line-359,刻刀,惊蛰小姐教训他，大概是因为被偷吃的那份碎碎乐正好是惊蛰小姐放在冷藏柜里的。,Miss Leizi was upset with him because she left the smoothie in the refrigerator.,"Госпожа Лейцзы отчитывала его, вероятно, потому, что съеденная крошка принадлежала ей и лежала в холодильнике."
+line-361,伊芙利特,这喊的都什么跟什么......不对啊，他偷偷干了坏事，为啥还要自己喊出来？,"Why was he yelling something like that then? Makes no sense. If you're gonna do something bad, why shout it out to everyone?","Что за бред он орал... Погоди, если он сделал какую-то пакость втайне, зачем об этом орать на всю палубу?"
+line-362,伊芙利特,大耳朵你又是怎么知道的？,"And how'd you find out anyway, big-ears?","Эй, Ушастая, а ты-то откуда это знаешь?"
+line-364,棘刺,因为他和我打赌，就赌下一个从门口路过的干员是男是女。他输了。,Because he and I were betting on whether the next operator to pass would be male or female. He lost.,"Потому что он поспорил со мной на то, какого пола будет следующий оперативник, который пройдёт мимо двери. Он проиграл."
+line-366,刻刀,当时从那里路过的是我。,I was the one who passed by.,"Тем, кто тогда проходил мимо, была я."
+line-368,伊芙利特,什么玩意，你们幼稚不幼稚？,The hell? And I get treated like a kid?,"Что за фигня? Вы что, дети малые?"
+line-370,棘刺,打断一下，你们的肉快要烤焦了。,"Sorry to interrupt, but your meat is about to burn.",Позвольте прервать вас: ваше мясо скоро подгорит.
+line-371,棘刺,如果在三十六秒前翻面，还能达到五分熟的效果，现在关火估计还有希望挽救一下口感。,"Had you turned it over thirty-six seconds ago, you might've still been able to achieve a medium-well state. If you turn off the heat now, you could still have a chance to save the flavor.","Если бы вы перевернули его тридцать шесть секунд назад, оно было бы средней прожарки. Если выключить огонь прямо сейчас, ещё есть надежда спасти вкус."
+line-372,棘刺,以及，如果我没看错，你们刚刚往炉子里放的木炭受了潮，在接下来十秒内，有73%的概率会产生爆炸。,"Also, if I'm not mistaken, the charcoal you just added to the stove is damp, and within the next ten seconds, there is a 73% probability that it will explode.","И, если я не ошибаюсь, древесный уголь, который вы только что подложили в печь, отсырел. С вероятностью в 73% он взорвётся в течение следующих десяти секунд."
+line-373,棘刺,嗯，从现在烟雾以及火星的状态来看，概率还要再往上提升10个点。,"Hmm, considering the current state of the smoke and the attendant sparks, I'd have to increase that probability by ten percentage points.","Хм, судя по состоянию дыма и искр, вероятность повысилась ещё на 10 процентов."
+line-375,刻刀,啊。,Uhh...,А.
+line-377,伊芙利特,啊。,Uhh...,А.
+line-386,伊芙利特,啊——噗，咳咳，呸，呸呸呸！,Uhh— Pffffff! *cough* *cough* Pffff! Pffff!,"А-апчхи! Кха-кха! Тьфу, тьфу-тьфу-тьфу!"
+line-387,伊芙利特,恶，这破炉子怎么说炸就炸，都不能控制一下吗，我只是稍稍加温了一下啊！,"Damn it, why does this busted old stove just decide to explode? Can't you control it a little better? I barely gave it any heat at all!","Фу, почему эта дурацкая печка взорвалась вот так сразу? Нельзя было как-то поаккуратнее? Я же только чуть-чуть подняла температуру!"
+line-389,刻刀,咳咳，咳，对不起，是我的问题，果然我还是不该试这一下的，还以为只是帮忙烤点东西就没问题的......,"*cough* *cough* Sorry, it's my fault. I shouldn't have tried to do that after all. I thought it'd be fine if I just helped grill something...","Кха-кха... Простите, это моя вина. Мне всё-таки не стоило пробовать... Я думала, что просто помочь с готовкой будет несложно..."
+line-391,伊芙利特,啊？没啊，你没做错什么吧。,"Huh? Nah, you didn't do anything wrong.","А? Да нет, ты вроде ничего такого не сделала."
+line-393,刻刀,真的很抱歉，伊芙利特，棘刺先生，还有其他游客，我会赔偿各位的损失。,"I'm very sorry, Ifrit, Mr. Thorns. And to all our guests as well. I will compensate you for your losses.","Мне очень жаль, Ифрит, господин Торнс и уважаемые гости. Я возмещу всем убытки."
+line-394,刻刀,......伊芙利特，接下来我就不给你添乱了，你要加油。,"...I'm not going to hold you back any more, Ifrit. It's all you now.","...Ифрит, больше я не буду тебе мешать. Удачи."
+line-396,棘刺,......,......,......
+line-397,棘刺,你的意思是，你不做了，要放弃？,"In other words, you're quitting? Just giving up?","То есть ты хочешь сказать, что бросишь всё и просто сдашься?"
+line-399,刻刀,不、不是的，不是我想要放弃，只是，我总是给大家添乱。,"No. It's not that I'm giving up, I just don't want to cause any more trouble.","Н-нет, дело не в том, что я хочу сдаться, просто я вечно всем мешаю."
+line-400,刻刀,不是一次两次，在舰上的时候也是这样，只要我进厨房，就总是会出意外，不管多少次都......,"This wouldn't be the first time, or the second. It's the same as when I was on the ship. Every time I enter the kitchen, there's always some kind of accident. Every time, without fail...","И это не в первый раз. На корабле то же самое — стоит мне зайти на кухню, обязательно что-нибудь случается, и так каждый раз..."
+line-402,棘刺,那就再试一次。,"Then, try again.",Тогда попробуй ещё раз.
+line-404,刻刀,......欸？,...Eh?,...Э?
+line-406,棘刺,如果不会，就去学，一次失败就两次，两次失败就三次。既然已经知道这一次出事的原因，下次就避开它。,"If there's something you don't know, go learn it. If you fail once, fail a second time. If you fail a second time, fail a third time. Now that you know the cause of the accident, avoid it next time.","Если не умеешь — учись. Если не получилось один раз — пробуй дважды, не вышло дважды — пробуй в третий раз. Раз уж ты знаешь причину неудачи, в следующий раз просто избегай её."
+line-407,棘刺,赔偿就不必了，这种程度的爆炸事故常有，不算什么。,"Compensation is unnecessary. Accidental explosions of this magnitude occur all the time, and are insubstantial.","Компенсация не нужна. Подобные взрывы случаются часто, это пустяки."
+line-413,刻刀,......,......,......
+line-414,刻刀,伊芙利特，我......,"Ifrit, I...","Ифрит, я..."
+line-416,伊芙利特,你还要偷懒到什么时候？,How long are you going to slack off?,И долго ты ещё собираешься бездельничать?
+line-418,刻刀,欸？啊？,Huh? Huh?,Э? А?
+line-420,伊芙利特,我说，你还要偷懒到什么时候！快来搭把手，哎，拿着这个，我要把这个炉子重新搭起来！,"I said, how long are you going to slack off?! C'mon, damn it! Hold this! I wanna get the stove set up again!","Я говорю, сколько можно лодырничать! Живо помогай! Эй, держи вот это, мне нужно заново собрать печь!"
+line-421,伊芙利特,看什么看，别愣着干活呀！之前主动跑来说要帮忙的可是你欸，可别想着中途溜掉！,"Stop gawking and get back to work already! You're the one who ran over here asking to help out, so don't you dare think of slinking off!","Чего уставилась? Работай давай! Ты сама пришла и вызвалась помочь, так что не вздумай сбежать на полпути!"
+line-422,伊芙利特,快点快点，弄完了下面一批兽肉就由你来烤，我去把这些炭换掉！,"Hurry it up! Once it's done, you grill the next batch of meat. I'll change the charcoal!","Живее, живее! Как закончим, следующую партию мяса будешь жарить ты, а я пойду заменю этот уголь!"
+line-424,刻刀,我、我可以吗？,Me? Are you sure?,Я... я правда справлюсь?
+line-426,伊芙利特,有什么不行？谁说你不行，还是你就觉得自己不行？,"Got a problem? Nobody ever said you can't. Or, did you decide that yourself?","А почему нет? Кто сказал, что не справишься? Или ты сама в себе сомневаешься?"
+line-427,伊芙利特,啧，烦人，这箱子怎么都嵌进沙子里了，好重，挖不出来......,"Tch, what a pain. This box is buried so damned deep in the sand, and it's so heavy you can't even dig it out.","Цыц, бесит... Почему этот ящик так глубоко в песок увяз? Тяжёлый какой, не выкопать..."
+line-428,伊芙利特,唔，胡椒粉呢？胡椒粉怎么没有了，啊呀呀......！好烦啊！,"Hey, where's the pepper? Why the hell is there no more pepper? Argh...! This is pissing me off!","Уф, а где перец? Почему перец закончился? А-а-а!.. Как же бесит!"
+line-431,？？？,打扰了，我听说这里有好吃的烤肉卖，你们知道在哪里吗？,"Excuse me, I've heard of some delicious barbecue being sold here. Would you happen to know where that is?","Простите, я слышала, тут продают вкусное барбекю. Не подскажете, где именно?"
+line-432,？？？,咦，是伊芙利特和刻刀。,"Oh, it's Ifrit and Cutter.","Ой, это же Ифрит и Каттер."
+line-437,蜜蜡,你们在做什么，需要我帮忙吗？,What are you two doing? Do you require my assistance?,Что вы делаете? Нужна помощь?
+line-439,伊芙利特,哦！来得正好！,Ohh! Perfect timing!,О! Вовремя ты!
+line-440,伊芙利特,来来来，快来帮忙，我要把这个挖出来。,"Come, come, we could use the help. I really need to dig this out.","Иди сюда скорее, помоги мне выкопать это."
+line-442,蜜蜡,好哦。,Very well.,Хорошо.
+line-452,伊芙利特,出来了！,There we go!,Вытащили!
+line-453,伊芙利特,我之前还以为你只会玩玩沙子，没想到你这人还挺有本事的嘛！,"I always thought you were only good for playing with sand, but turns out you're pretty handy!","А я-то думала, ты только в песочке ковыряться умеешь, а ты, оказывается, довольно способная!"
+line-455,刻刀,伊芙利特，别这么说......,"Ifrit, that's rude...","Ифрит, не говори так..."
+line-456,刻刀,你就是因为这样说话，才会总被人误会。,You are always misunderstood because you say things like that.,Тебя вечно понимают неправильно именно из-за такой манеры общения.
+line-458,伊芙利特,啊？别人怎么想关我啥事啊。,Huh? Who cares what other people think about me?,"А? Какое мне дело до того, что думают другие?"
+line-460,蜜蜡,咦，伊芙利特不是在夸我吗？,Hm? Is Ifrit not offering me words of praise?,"Ой, разве Ифрит меня сейчас не похвалила?"
+line-462,刻刀,欸？,Huh?,Э?
+line-464,蜜蜡,不是吗？伊芙利特有时会骂人“笨蛋”，但我知道这也是在夸人。,"Is she not? Ifrit sometimes calls people 'dumbasses,' but I understand that this is also a compliment.","Разве нет? Ифрит иногда обзывает людей «дураками», но я знаю, что так она хвалит."
+line-467,伊芙利特,笨、笨蛋！说什么呢，你别胡乱瞎说！,Y-you dumbass! Think before you open your big mouth!,Д-дура! Что ты несешь?! Не болтай ерунды!
+line-469,蜜蜡,啊，跳起来了。,"Ah, she jumped up.","О, она подпрыгнула."
+line-470,蜜蜡,对啦，如果你们想玩沙子的话，听说嘉维尔医生正准备回家一趟，可以和她一起去玩，我记得医生家附近应该也有沙地。,"Right, and if you wish to play in the sand, I heard Dr. Gavial is about to plan a trip back home, so you should be able to go play with her. If I remember properly, there is sand near her house.","Кстати, если вы хотите поиграть с песком, я слышала, что доктор Гавиал собирается домой. Можете поехать с ней, я помню, рядом с её домом тоже должны быть песчаные земли."
+line-472,伊芙利特,我才不想玩沙子呢，又不是小孩子了！,Who the hell wants to play in the sand? I'm not some kid!,"Не хочу я играть с песком, я уже не ребёнок!"
+line-474,蜜蜡,是吗，我倒是挺想去的。真好，我也有点想家了，但是在完成游历之前，还不能回去......,"Really? I would very much like to go. How lucky. I'm also a bit homesick, but I cannot return until I finish my journey...","Вот как? А я бы очень хотела поехать. Здорово... Я немного скучаю по дому, но пока не закончу своё путешествие, возвращаться нельзя..."
+line-476,伊芙利特,想家？搞不懂，我和赫默、还有塞雷娅在一起就好了。就在罗德岛不行吗？,"Homesick? I dunno what that's like, but as long as I'm with Silence and Saria, anywhere is home. Is Rhodes Island not good enough?","Скучаешь по дому? Не понимаю. Мне хорошо, когда рядом Сайленс и Сария. Разве на Родос Айленде тебе не так же хорошо?"
+line-478,蜜蜡,我觉得这可能不太一样......不过，如果伊芙利特觉得好的话，那应该也挺好的吧？,"I think our situations are a bit different... But if Ifrit is fine with it, then maybe I should be as well?","Думаю, это немного другое... Но если Ифрит так кажется, то, наверное, это тоже неплохо?"
+line-480,伊芙利特,呿......哪里不一样了？你说清楚！,Tch... What's the difference then? Explain it so I can understand!,Тьфу... В чём разница-то? Объясни толком!
+line-482,蜜蜡,嗯.....我想想啊。,Hm... Let me think.,Хм... дай подумать.
+line-483,蜜蜡,我啊，我常常......梦到家，梦到晃动的金色摇篮，干燥粗糙的母亲的手抚在我的脸颊上......,"For me, I often... dream of my home. Of a shaking, golden cradle. Of my mother's dry and rough hand touching my cheek...","Мне... мне часто снится дом. Снится покачивающаяся золотая колыбель, сухие и грубые руки матери на моих щеках..."
+line-484,蜜蜡,我知道那都是沙子，其实一点也不温柔，但在梦里，那感觉让人很怀念。,"This may be nothing more than sand, and it might not be very comforting at all. But in my dreams, there's still something nostalgic about it.","Я знаю, что это просто песок, и на самом деле он совсем не нежный, но во сне это чувство вызывает такую тоску..."
+line-485,蜜蜡,那是不管我去哪里，最后总会回去的地方。,"It is the place to which I must ultimately return, no matter where I go.","Это место, куда я в конце концов вернусь, куда бы я ни отправилась."
+line-487,伊芙利特,唔......,Hm...,М-м...
+line-489,蜜蜡,这样算说清楚了吗？,Was that clear enough of an explanation?,Теперь понятно?
+line-491,刻刀,话题怎么会变成这样......,How did we start talking about this...?,Как разговор зашёл в такое русло...
+line-492,刻刀,行了，先别聊了，我来把架子重新搭好，新的炭火就拜托伊芙利特你来准备。,"All right, let's cut the chatter. I'll rebuild the stove rack, so I'll need you to prepare the new charcoal fire, Ifrit.","Ладно, хватит болтать. Я заново соберу гриль, а ты, Ифрит, подготовь новые угли."
+line-493,刻刀,至少，多亏了棘刺先生，我们现在知道该注意什么了。,"At least, thanks to Mr. Thorns, we now know what to look out for.","По крайней мере, благодаря господину Торнсу мы теперь знаем, на что обратить внимание."
+line-495,伊芙利特,也是，不想了，干活了干活了。,You're right. Let's stop thinking about stuff and just get back to work.,"Точно. Хватит думать, за работу, за работу."
+line-496,伊芙利特,那家伙叫棘刺？看不出来，这人倒是还不错。,"Oh, that guy's name is Thorns? You'd never guess it from his looks, but he's actually a pretty nice guy.","Его зовут Торнс? И не скажешь по виду, а он парень неплохой."
+line-498,蜜蜡,嗯嗯，棘刺先生是很热心的好人。,Yes. Mr. Thorns is a very good and kind-hearted person.,"Угу, господин Торнс — очень добрый и отзывчивый человек."
+line-500,伊芙利特,热心？听起来怎么这么怪。,Kind-hearted? That's a weird way to put it.,Отзывчивый? Звучит как-то странно.
+line-502,蜜蜡,是真的！我刚刚还看到他拦住了一群要去找博士麻烦的人。,It's true! I just saw him stop a group of people who were going to harass the Doctor.,"Это правда! Я только что видела, как он остановил группу людей, которые собирались доставить неприятности Доктору."
+line-503,蜜蜡,红豆和我说了，那些人在找他们麻烦，不过红豆也说，对面一个能打的都没有，让我们不用担心。,"Vigna told me those people were trying to stir up trouble, but she also said there's nobody on the other side capable of fighting, so we have nothing to worry about.","Вигна сказала мне, что те люди искали проблем, но она также добавила, что среди них не было никого стоящего, так что нам не о чем беспокоиться."
+line-504,蜜蜡,本来我准备去帮忙，但是好像不太需要。,"I was going to go help, but it seems like that won't be needed.","Я собиралась пойти на помощь, но, кажется, это не потребовалось."
+line-505,蜜蜡,对了，棘刺先生还抓到了小偷呢！,"Oh, that's right, Mr. Thorns also caught a thief!","Кстати, господин Торнс ещё и вора поймал!"
+line-507,伊芙利特,我看他脸色那么臭，还一副瞧不起人的样子，他居然还干这种事？助人为乐？哇哦。,"Huh. He always has that nasty, arrogant look on his face, but he actually does stuff like that? Like, he helps people for fun? Wow.","У него лицо вечно такое недовольное, и вид такой, будто он всех презирает... и он правда сделал такое? Помог другим? Ого."
+line-509,刻刀,之前我还以为他不好相处，看来是我误会了。,"I thought he was the kind of person I'd never get along with, but it turns out I was jumping to conclusions.","Раньше я думала, что с ним трудно поладить. Похоже, я ошибалась."
+line-511,伊芙利特,是哦......,Yeah...,Ну да...
+line-513,棘刺,最好确认讨论的对象本人不在以后再大声说他。,It's best to make sure that the person you're discussing is not within earshot before speaking so loudly.,"Лучше сначала убедиться, что объекта обсуждения нет рядом, прежде чем говорить о нём вслух."
+line-517,三人,哇！,Eep!,Ой!
+line-519,伊芙利特,你怎么还在啊？！,Why are you still here?!,Ты почему всё ещё здесь?!
+line-521,棘刺,刚回来。拿着。胡椒粉。,I just got back. Here. Pepper.,Только что вернулся. Держи. Перец.
+line-523,伊芙利特,啊......,Oh...,А...
+line-525,棘刺,我走了。不用谢。,I'll be going. No need to thank me.,Я пошёл. Не за что.
+line-527,伊芙利特,谁，谁要谢你啦！,Wh-who the hell would thank you anyway?!,Кто... кто это тебя благодарить собрался!
+line-533,伊芙利特,哎，真是个怪人。,"Ugh, what a weirdo.","Эх, ну и странный же он тип."
+line-535,蜜蜡,是有一点......不过他也真的是个好人吧？,"He may be strange... but he truly is a good person, no?","Есть немного... но он ведь и правда хороший человек, да?"
+line-544,棘刺,海吗。不太对。和海比起来也太有人情味了些。除了水尝起来有点咸，哪里还有海的味道？,"The sea? That's not quite right. Compared to the sea, this is too humane. Other than the slight salinity of the water, what else tastes of the sea?","Море? Не совсем. В нём слишком много человеческого по сравнению с настоящим морем. Кроме того, что вода на вкус солёная, чем оно вообще напоминает море?"
+line-545,棘刺,喂。,Hey.,Эй.
+line-546,棘刺,喂，你在那吧。,"Hey, I know you're there.","Эй, ты ведь там, верно?"
+line-547,棘刺,......喂。说话。你已经在我背后站了很长时间了。,....Hey. Speak. You've been standing behind me for quite some time now.,...Эй. Отвечай. Ты уже долго стоишь у меня за спиной.
+line-553,Aya,怎么会！居然被发现了......能感觉到我在这儿，先生你很厉害。,No way! How'd you catch me...? You must be pretty awesome to be able to sniff me out.,"Надо же! Меня всё-таки заметили... Почувствовать моё присутствие — вы впечатляете, господин."
+line-554,Aya,怎么样，这里的风景很好吧。,"So, what do you think of the view? Not bad, huh?","Ну как, вид здесь отличный, правда?"
+line-556,棘刺,......乐队的歌手。你在这里做什么？,...The singer from that band. What are you doing here?,...Вокалистка группы. Что ты здесь делаешь?
+line-558,Aya,嗯？认得我吗，是歌迷吗？要签名吗？,Huh? You know who I am? Are you a fan? Want my autograph?,М-м? Узнали меня? Вы фанат? Хотите автограф?
+line-560,棘刺,算不上是。别岔开话题。,Not really. Don't change the subject.,Не совсем. Не уходи от темы.
+line-562,Aya,唔，很遗憾。要来张CD吗？,"Aww, that's too bad then. Do you want a CD then?","Хм, жаль. Хотите CD?"
+line-564,棘刺,不要。,No thanks.,Нет.
+line-566,Aya,开玩笑的。我也不随身带CD。有没有人说过你有点难相处？,I'm just joking. Who just keeps CDs on them anyway? Has anyone ever told you you're kind of a wet blanket?,"Шучу. Я и не ношу CD с собой. Тебе когда-нибудь говорили, что с тобой трудно общаться?"
+line-568,棘刺,有。,Yes.,Да.
+line-570,Aya,相信我，你没有。你只是不在意。,"Listen, you're not a wet blanket. You just don't care.","Поверь мне, это не так. Тебе просто всё равно."
+line-572,棘刺,......,......,...
+line-574,Aya,我是来看海的。,I'm here to appreciate the ocean.,Я пришла посмотреть на море.
+line-577,,歌手望向水面。她的头发在海风中扬散成海浪的形状。,"The songstress gazes out to where the sky meets the sea. Her hair sways in the sea breeze, taking on the shape of the waves.","Певица посмотрела на воду. Её волосы развевались на морском ветру, принимая форму волн."
+line-580,Aya,但这不是海。,But this is no ocean.,Но это не море.
+line-581,Aya,汐斯塔的沙滩很美，它越美，我就越感到这里一点也不像海边。我们的故乡和这个一点也不一样。,"Siesta's beach is beautiful. The more beautiful it is, the more I'm convinced it's not like the sea at all. The place we come from is nothing like this at all.","Пляжи Сиесты прекрасны, но чем они красивее, тем яснее я ощущаю, что это место совсем не похоже на побережье. Наша родина совсем другая."
+line-582,Aya,因为想看海来到这里的人，一定会觉得被骗了吧。,People who come here to see the ocean will definitely feel cheated.,"Люди, которые пришли сюда ради моря, наверняка чувствуют себя обманутыми."
+line-583,Aya,你会想家吗，先生？,"Do you ever miss home, Mister?","Вы скучаете по дому, господин?"
+line-585,棘刺,——,......,—
+line-586,棘刺,歌手，你到底在说什么？,"Songstress, what are you actually here for?","Певица, о чём ты вообще говоришь?"
+line-588,Aya,你不懂吗？那别在意，我随便说说的。我想到什么就会说什么，这个习惯我一直改不掉。,"You still don't get it? Don't dwell on it too much, I'm just shooting from the hip here. I say whatever's on my mind. It's a bad habit I can't kick.","Не понимаете? Тогда не берите в голову, я просто болтаю. Я всегда говорю то, что приходит на ум, никак не могу избавиться от этой привычки."
+line-590,棘刺,不要拐弯抹角。你是阿戈尔人。,Don't avoid the question. You're an Ægir.,Не ходи вокруг да около. Ты из Эгиров.
+line-592,Aya,是。,That I am.,Да.
+line-593,Aya,却也不是。,But I also am not.,И в то же время нет.
+line-595,棘刺,我真的不喜欢拐弯抹角。,I really dislike when people speak in riddles.,Я действительно не люблю недомолвок.
+line-597,Aya,那你就直接问我吧？,How about you ask me directly then?,Тогда просто спроси меня напрямую.
+line-599,棘刺,......,......,...
+line-601,Aya,怎么了，没有问题了吗？这种机会不常有哦。,"What, weren't you going to ask me something? This is a really special opportunity, you know~","Что такое, вопросов больше нет? Такой шанс выпадает нечасто."
+line-603,棘刺,怪人。浪费时间。,Weirdo. Waste of time.,Странная особа. Пустая трата времени.
+line-605,Aya,在这里浪费些时间难道不好吗？有能放纵自己浪费时间的机会的生活才是好的生活。,Didn't we all come here to waste some time? Being able to treat yourself and waste time is what I call a good life.,"Разве плохо потратить здесь немного времени? Хорошая жизнь — это та, где есть возможность позволить себе тратить время впустую."
+line-606,Aya,被生存压得喘不过气的人是没有机会去浪费什么的。,"If you're out there just trying to survive, you don't get a chance to waste anything.","У тех, кто задыхается под гнётом выживания, нет возможности что-то тратить."
+line-608,棘刺,也许你是对的。,Maybe you're right.,"Возможно, ты права."
+line-610,Aya,是吧？要签名吗？,See? Want my autograph?,Правда? Хотите автограф?
+line-611,Aya,别拒绝啦，来，等我拿下纸笔......这个是海报......,"Give in already. Here, let me just grab something to write on... like this poster...","Не отказывайтесь, вот, подождите, я достану бумагу и ручку... А, вот плакат..."
+line-614,,粉发阿戈尔人在海报上潦草地涂了两笔。,The pink-haired Ægir scribbles swiftly on the poster.,Розововолосая эгирка небрежно черкнула пару линий на плакате.
+line-616,Aya,喏。签名！,Here. My autograph!,Вот. Автограф!
+line-618,棘刺,喂。,Hey.,Эй.
+line-620,Aya,就当做你愿意和我说话的回报吧。想在外面碰到个同乡也太不容易了。,"It's a reward for talking with me, okay? It's not every day I meet someone like me, from the old country, in the outside world.","Считай это наградой за то, что согласился поговорить со мной. Не так-то просто встретить земляка в этих краях."
+line-622,棘刺,不。不对......,No. You're wrong...,Нет. Не так...
+line-623,棘刺,你不是我的同类。,I'm not like you.,Ты не из моего вида.
+line-626,,棘刺睁大了双眼望着歌手的瞳孔。,Thorns opens his eyes wide and looks directly into the singer's pupils.,Торнс широко раскрытыми глазами всматривался в зрачки певицы.
+line-627,,歌手眨了眨眼睛，看向棘刺慢慢伸向剑柄的手。,"The singer blinks, her gaze following Thorns's hand as it slowly crawls towards the hilt of his sword.","Певица моргнула и посмотрела на руку Торнса, медленно тянущуюся к эфесу меча."
+line-628,,——你甚至都没有试图伪装。,—You didn't even try to hide it.,— Ты даже не пыталась маскироваться.
+line-630,Aya,你没那么喜欢我们的歌......我知道。,You aren't a big fan of our songs... I know that.,Вам не так уж нравятся наши песни... я знаю.
+line-631,Aya,但我还是会送你我的签名。,But I'll still give you my autograph.,Но я всё равно подарю вам свой автограф.
+line-633,棘刺,为什么？你......,Why? You...,Почему? Ты...
+line-635,Aya,因为你喜欢跳舞啊。喜欢跳舞的肯定不是坏人。,Because you like to dance. There's no way someone who likes to dance could be a bad person.,"Потому что вы любите танцевать. Тот, кто любит танцевать, точно не может быть плохим человеком."
+line-637,棘刺,这话听起来很蠢。,Sounds utterly stupid.,Звучит глупо.
+line-639,Aya,别这么说，这可是我和很多人学来的。我们都在这片大地上呆了挺久了，我们学习很多。,"Don't be like that. It's just something I've learned from a whole bunch of people. We've all spent a long time on this patch of dirt, and we've also learned a lot.","Не говори так, я научилась этому у многих людей. Мы на этой земле уже довольно давно и многому учимся."
+line-640,Aya,你不是在海里长大的吧？相比陆地上一切蹦蹦跳跳的生灵，大海本来就会更亲近你一些。,"You didn't grow up in the sea, did you? You're much more at home bouncing around on land than you would be in the water.","Вы ведь не в море выросли? По сравнению со всеми прыгающими существами на суше, море изначально должно быть вам ближе."
+line-641,Aya,但你没见过它温柔的样子。哎。你不会想家的。,But you've never known its gentle side. Oh. You're not going to miss home.,Но вы не видели его нежную сторону. Эх. Вы не будете скучать по дому.
+line-643,棘刺,我的家乡只有伊比利亚。,Iberia is my only home.,"Моя родина — Иберия, и только."
+line-645,Aya,所以大海不是你的故乡。你对它没有感情。,"So, the ocean is not your home. You have no feelings for it.","Значит, море — не ваш дом. У вас нет к нему чувств."
+line-647,棘刺,不。,No.,Нет.
+line-648,棘刺,我喝过它。我不在湖里游泳。我的祖辈来到伊比利亚，但他们依然离不开大海。,"I've drunk from it. I don't swim in a lake. My ancestors went to Iberia, but they could not bear to part from the sea.","Я пил его. Я не плаваю в озёрах. Мои предки пришли в Иберию, но они всё равно не могли покинуть море."
+line-649,棘刺,我对它有感情。我想我害怕它。,"I do have feelings for it. But at the same time, I fear it.","У меня есть к нему чувства. Думаю, я его боюсь."
+line-651,Aya,是啊，哎。,"Yeah, thought so.","Да, эх."
+line-652,Aya,“我听见你泪滴坠落的涟漪♪ 那是你的噩梦♪ 你的心脏裂成滴血的花瓣......♪ ”,"'I've heard the ripples of your falling tears~♪ Your darkest nightmares, your deepest fears~♪ Your heart cracked into petals of blood...♪'",«Я слышу рябь от твоих падающих слёз♪ Это твой кошмар♪ Твоё сердце распадается на кровоточащие лепестки...♪»
+line-654,棘刺,你在唱什么？,What's that song?,Что ты поёшь?
+line-656,Aya,没别的，就随口唱唱。,Nothing special. Just something that came to mind.,"Да ничего особенного, просто напеваю."
+line-657,Aya,不过你说的没错，我觉得你应该害怕它，先生。,"But, I think you're right, Mister. I think you ought to be afraid of it.","Но вы правы. Я думаю, вам стоит его бояться, господин."
+line-658,Aya,当然......,Of course...,Конечно...
+line-662,,远处，汐斯塔市内的某个喇叭开始了音乐节的主舞台重播，令人耳熟的乐段传入棘刺耳中。,"In the distance, the loudspeakers of Siesta begin to replay the songs from the main event of the music festival, and a familiar tune fills the air.","Вдалеке громкоговорители Сиесты начинают переигрывать песни с главного события музыкального фестиваля, а знакомая мелодия наполняет воздух."
+line-663,,近两个星期里极境每天都在哼这首歌。,Elysium has been humming this song every day for two weeks now.,
+line-664,,这首歌似乎是面前这个歌手所属乐队的代表作之一。,The song seems to be one of the masterpieces from the band the singer belongs to.,"Песня кажется одним из шедевров от группы, к которой принадлежит певец."
+line-665,,歌手正是......,"And now, the singer...","А теперь, певец..."
+line-666,,“回忆的时候伪装脱落，你给我留下的伤疤是你忘记的痛♪,"'The disguise fell off when I remembered, the scar you left me is the pain you forgot~♪","«Маска упала, когда я вспомнил, что шрам, который ты оставил мне, — это боль, которую ты забыл."
+line-667,,"我抓不住你过去的身影♪ 它们站起来大叫你的名字，它们闻到你的气味也要听到你的忏悔♪” ","To chase after your shadow, is to chase after naught~♪ With thund'rous voices they'll rise and call your name~♪ And when they catch your scent, they'll demand to hear your shame~♪' ","«Я не могу ухватиться за твой ускользающий образ из прошлого♪ Они встают и выкрикивают твоё имя, они чувствуют твой запах и жаждут услышать твоё покаяние♪»"
+line-671,Aya,当然，不管你害不害怕它，它都会找上你。,"Of course, whether or not you fear it, it will come for you.","Конечно, независимо от того, боитесь вы этого или нет, это придет за вами."
+line-672,Aya,它来了。走吧。别回头。,It is here. Let's go. Don't look back.,"Он здесь. Пошли. Не оглядывайся назад.
+	
+"
+line-680,,......？,......?,......?
+line-681,,她说什么，那是什么？,What is she talking about? What is that?,О чем она говорит? Что это?
+line-682,,是什么......站在水面上？,What is that... standing on the water?,Что это... стоя на воде?
+line-685,,碎了一角的落日依稀斑驳影子投在灰色潮浪取走海水,"The fractured sunset casts faintly mottled shadows upon the water, pulling back the tide in gray waves.","Разбитый закат отбрасывает слабо пестрые тени на воду, оттягивая прилив серыми волнами."
+line-686,,原本声音是喘息平静是喘息大海是喘息你听见它声音不说话不歌唱也不呼吸,"The sound of the world is the sound of breathing is the sound of the ocean, which you listen to without speaking or singing or breathing.","Звук мира - это звук дыхания - это звук океана, который вы слушаете, не поя и не дышите."
+line-687,,一秒两秒数十年百年时间过去它沉默依旧,"A moment passes, two moments pass, until dozens and hundreds of years pass in silence.","Проходит минута, проходит два момента, пока в тишине не проходят десятки и сотни лет."
+line-690,,它望向你,It gazes into you.,"Он заглядывает в тебя.
+	
+"
+line-691,,它的眼睛抵着你的眼睛渴望从它的伤口里慢慢爬进,"Its eyes bore into yours, yearning to slowly crawl in through your wounds.","Его глаза стекались в ваши, стремясь медленно ползти через ваши раны."
+line-692,,你被警醒被拥抱你陷入它的血它的影子它的太阳你听到它身影它的身影没有眼睛没有声响没有生命它,You are awake as it pulls you into its embrace and you sink into its blood and shadow and sun and hear its eyeless and soundless and lifeless shadow.,"Вы бодрствуете, когда он втягивает вас в свои объятия, и вы погружаетесь в его кровь, тень и солнце и слышите его беззвучную, беззвучную и безжизненную тень."
+line-693,,静止如明星,As tranquil as a shining star.,"Спокойно, как сияющая звезда."
+line-700,Aya,"水面下有联通到大海的水道吗......那会散发出一点海洋的气息也就没那么奇怪了。 ","Under the surface, there's a waterway that connects to the ocean... It isn't strange that it gives off some ocean vibes. ","Под поверхностью есть водный путь, который соединяется с океаном... Неудивительно, что он испускает некоторые океанские вибрации. "
+line-701,Aya,嘿。嘿，先生，醒醒。别着迷了。,"Hey. Hey, Mister, wake up. Snap out of it already.","Привет. Эй, мистер, проснись. Выскочите из него уже."
+line-702,Aya,哎，我就算唱起歌也不能让你那么着迷。我有些嫉妒它了。,Hmph. I couldn't hypnotize you with my song. That makes me a bit jealous.,Хмф. Я не мог загипнотизировать тебя своей песней. Это заставляет меня немного ревновать.
+line-704,棘刺,......,......,......
+line-705,棘刺,是你该走。,You're the one who should go.,Это ты должен идти.
+line-707,Aya,嗯？啊......不是吧。我说，你知道......,"Huh? Ah... that couldn't be, yeah? Look, you know that...","А? А... это не может быть, да? Слушай, ты знаешь, что..."
+line-709,棘刺,那不是该出现在这里的东西。你现在走就不会死。,"That's not something that should be here. If you go now, you won't die.","Это не то, что должно быть здесь. Если ты уйдешь сейчас, ты не умрешь."
+line-711,Aya,我知道那是......但现在该离开这的难道不是你吗？,"I know, but... aren't you the one who's supposed to leave right now?","Я знаю, но... разве ты не должен уйти прямо сейчас?"
+line-713,棘刺,你想死？,Do you have a death wish?,У тебя есть желание смерти?
+line-715,Aya,好好听我的话呀......,Listen to me carefully...,Послушай меня внимательно...
+line-719,？？？,......,......,......
+line-720,？？？,阿，戈尔。,Æ...gir.,"А, Гор."
+line-724,棘刺,！！,! !,! !
+line-726,Aya,别惊讶。大海知道我们的名字也不奇怪。,Don't be scared. It shouldn't be surprising that the ocean knows our names.,"Не бойся. Неудивительно, что океан знает наши имена."
+line-728,棘刺,......不。,...No,... Нет
+line-729,棘刺,我不是在惊讶。,It is not awe.,Это не благоговение.
+line-730,棘刺,呃......,Urk...,Урк...
+line-732,Aya,那你是怎么了......？等等，你有感觉呼吸困难吗？,"Then what's your deal then...? Hey, are you having trouble breathing?",Тогда какая у тебя сделка...? У тебя проблемы с дыханием?
+line-733,Aya,清醒一点，先生。,"Sober up a bit, Mister.","Немного протрезвожный, мистер.
+	
+"
+line-734,Aya,（阿戈尔语）没有东西有在大地上剥夺你呼吸的权力。,(Ægirian) Nothing can deprive you of the right to breathe on this land.,Ничто не может лишить вас права дышать на этой земле.
+line-735,Aya,（挣脱呀，快些......！）,"(Free yourself, hurry...!)","(Освободитесь, поторопитесь...!)"
+line-737,棘刺,......,......,......
+line-741,,我逃离家乡。我离开故土。我忘记故事。但我知道感觉。,I fled my homeland. I abandoned my cradle. I've forgotten its stories. But I know how it feels.,"Я бежал с родины. Я бросил свою колыбель. Я забыл его истории. Но я знаю, каково это."
+line-742,,我相信隐秘的传说里所有人低声描述的东西，就算在浅浅梦中，我也摸索着刀剑划过它们躯体的感觉。,"I believe what I've heard whispered in legend. Even in shallow dreams, I've felt the bite of swords rending their bodies.","Я верю, что то, что я слышал, шепталось в легенде. Даже в неглубоких снах я чувствовал укус мечей, раздирающих их тела."
+line-743,,我能不能伤害大海本身？,Can I slay the sea itself?,Можно ли убить само море?
+line-744,,......,......,......
+line-745,,我想家。不对，我想象过。我并没有真正见过我们的家。,"I am homesick. Rather, I've imagined it before. But I've never actually seen home.","Я тоскую по дому. Скорее, я представлял это раньше. Но я никогда не видела дома."
+line-746,,我们伊比利亚人早就离开了海的深处。,We Iberians have long left the depths of the Abyss.,"Мы, иберийцы, давно покинули глубины Бездны."
+line-747,,但我逃不开它。我们逃不开它。,But I cannot escape from It. None of us can escape from It.,Но я не могу убежать от него. Никто из нас не может убежать от Него.
+line-748,,我想杀了它。,I want to kill It.,Я хочу убить его.
+line-752,棘刺,这是一种幻象吗？,Is this a hallucination?,Это галлюцинация?
+line-754,Aya,不是。但你能对抗它。,Nope. But you can fight it.,Нет. Но ты можешь с этим бороться.
+line-756,棘刺,你很熟悉这些？,You seem quite knowledgeable about these?,Ты выглядишь довольно хорошо осведомленным об этом?
+line-758,Aya,这是现在该讨论的吗？我说了，你现在该快些离开。,"Is this really the time to be having that discussion? I told you, you should leave now.","Это действительно время для этой дискуссии? Я же говорил, тебе пора уходить."
+line-759,Aya,等等，你是在发抖吗？,"Hey, are you trembling?","Эй, ты дрожаешь?"
+line-761,棘刺,也许我是在兴奋。,Maybe I'm getting a bit excited.,"Может, я немного взволнован.
+	
+"
+line-767,棘刺,想留下就留下吧。你说我喜欢舞蹈，那你呢......,Stay if you want. You said I like dancing. What about you then...,"Оставайся, если хочешь. Ты сказал, что я люблю танцевать. А как же ты тогда..."
+line-768,棘刺,你，歌手，你喜欢舞蹈吗？,"Songstress, do you also like to dance?","Певица, ты тоже любишь танцевать?
+	
+"
+line-772,？？？,R......thin......,R......thin......,Р......тонкий...
+line-773,？？？,（拧碎带骨肉与内脏的稀碎声音）,(The sound of bones and flesh and viscera being crushed together),(Звук костей и плоти и внутренностей раздавливается вместе)
+line-774,？？？,（含糊作响）,"(A vague, sickening sound)","(Смутный, тошнотворный звук)"
+line-778,Aya,喜欢！,I love it!,Я люблю его!
+line-779,Aya,看来你真的不打算离开，那，你有信心活下去吗，阿戈尔先生？,"Seems like you don't plan to leave then. So, Mr. Ægir, are you confident you can survive?","Похоже, ты не планируешь уезжать. Итак, мистер. Эгир, ты уверен, что сможешь выжить?"
+line-781,棘刺,有。,Yes.,"Да, да."
+line-783,Aya,我能就在这里看看吗？看看你跳的舞，那会把海面涂成红色......,"Will you show me then? I want to see the dance you're about to dance, one that will paint the sea red...","Ты покажешь мне тогда? Я хочу увидеть танец, который ты собираешься потанцевать, который покрасит море в красный цвет..."
+line-784,Aya,你跳跃起来唰唰地那种挥剑！旋转起来，在海水里滑步！你被撕碎或者你撕碎它，你的故事的开始或结束......,"Yes, flourish the sword that weaves with your bounding steps! Spin, pirouette, and glide across the ocean's surface! Whether you are torn apart or you tear It apart, the beginning or end of your story...","Да, процветайте мечом, который плетется вашими ограничивающими шагами! Вращайтесь, пируэтируйте и скользите по поверхности океана! Независимо от того, разорваны ли вы на части или разорвете его на части, начало или конец вашей истории..."
+line-786,棘刺,你知道吗，你说话很烦。,"You know, the way you talk is really annoying.","Знаешь, то, как ты говоришь, действительно раздражает."
+line-788,Aya,不知道！我觉得还好！,I don't know! I think it's perfectly fine!,"- Я не знаю! Думаю, все в порядке!"
+line-789,Aya,所以，我能看看吗，阿戈尔先生！就看在我刚才给你的签名的份上，让我见识见识吧？,"So, will you show me your performance, Mr. Ægir? Look at that autograph I just gave you. Just let me know, okay?","Так что покажете мне свое выступление, мистер. Эгир? Посмотри на тот автограф, который я тебе только что дал. Просто дай мне знать, хорошо?"
+line-791,棘刺,......,......,......
+line-792,棘刺,......只要你不害怕，那就请吧。,"...As long as you're not afraid, be my guest.","... Пока ты не боишься, будь моим гостем."
+line-793,棘刺,有观众是件好事，不管你究竟是谁。,"It's good to have an audience, no matter who you might be.","Хорошо иметь аудиторию, независимо от того, кем вы можете быть."
+line-794,棘刺,嗯？这里是不是还该说——,Huh? I feel like it should be said here—,"А? Я чувствую, что это нужно сказать здесь:"
+line-795,棘刺,——我很荣幸。,—I'd be honored.,— Для меня это было бы честью.
+line-797,Aya,啊哈，这句话听起来也不聪明......不管怎样，你一定要活下去，先生。,"Ahaha, that's not much of a line... But anyway, you have to live on, Mister.","Ага, это не большая линия... Но в любом случае, ты должен жить дальше, мистер."
+line-798,Aya,我看得出，你很在意这个。所以你得活下去。别死。,I can tell you really care about this. So you have to live on. Don't die.,"Я могу сказать, что тебя это действительно волнует. Так что ты должен жить дальше. Не умирай."
+line-800,棘刺,我当然不会死。我还得活着把你的签名带回去，带给我的朋友。,"I don't plan to die. There's a friend who wants your autograph, and I have to stay alive to bring it back.","Я не планирую умирать. Есть друг, который хочет твой автограф, и я должен остаться в живых, чтобы вернуть его."
+line-802,Aya,回去，是回伊比利亚？,"Back, to Iberia?","Вернуться назад, в Иберию?"
+line-804,棘刺,不。尽管我提过伊比利亚，也提过祖辈离不开的大海。,"No. Though I've mentioned Iberia, I've also mentioned the sea that my ancestors could not live without.","Нет. Хотя я упомянул Иберию, я также упомянул море, без которого мои предки не могли бы жить."
+line-805,棘刺,但或许，我的家已经不在那任何一处了。,"But perhaps, my home is no longer in either of those places.","Но, возможно, мой дом больше не находится ни в одном из этих мест."
