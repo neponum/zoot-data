@@ -1,0 +1,94 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,拜松,拜松,Bison,Бизон
+char-2,？？？,？？？,???,???
+char-3,黑帮,黑帮,Mafioso,Гангстер
+char-4,黑帮A,黑帮A,Mafioso A,Гангстер А
+char-5,黑帮B,黑帮B,Mafioso B,Гангстер Б
+char-6,可颂,可颂,Croissant,Круассан
+char-7,大帝,大帝,Emperor,Император
+char-8,能天使,能天使,Exusiai,Экзузиай
+char-9,德克萨斯,德克萨斯,Texas,Техас
+char-10,莫斯提马,莫斯提马,Mostima,Мостима
+,,,,
+line-5,拜松,我被击落了？从桥上？,The shots are coming from above? Are they up on the overpass?,Меня сбили? Прямо с моста?
+line-6,拜松,离地面有多高？敌人从哪里发动的攻击？,How high is the angle of attack? Where could they be shooting from?,Как здесь высоко? Откуда враги атаковали?
+line-7,拜松,不，比起那个，我现在应该——！,Doesn't matter. First I've got to——!,"Нет, неважно, сейчас я должен —!"
+line-13,拜松,唔——！,Nng——!,Угх —!
+line-14,拜松,噗哈！,Oof!,Кха!
+line-16,拜松,得、得救了。这是......？呃，好黏。,I- I'm okay. What's this...? It's sticky...,"С-спасли. Это что... Боже, какая липкая гадость."
+line-17,拜松,是安魂夜的装饰蜡烛？谢天谢地，正好堆在这里......,A Sauin candle? Real lucky these were here...,"Это декоративные свечи с Ночи усопших? Слава богу, что они оказались навалены здесь..."
+line-19,？？？,你角上也卡着一支喔。,You got one stuck in your horn too.,У тебя на роге тоже одна застряла.
+line-21,拜松,呃？谢、谢谢，得把这个拔下来，唔——！,"Huh? Oh, thanks. I guess I better yank it... out——!","А? С-спасибо, надо бы её вытащить, ух —!"
+line-23,？？？,蜡烛先生，先不要动。,"Don't move, candle boy.","Мистер Свечка, не двигайся пока что."
+line-24,？？？,安静，躲到箱子后面去。,Quiet. Take cover behind that crate.,"Тише, спрячься за ящики."
+line-31,黑帮,弗伦佐的通讯断了，应该就在这附近！,We lost Fronzo's signal. Oughta be around here somewhere!,"Связь с Френзо оборвалась, он должен быть где-то здесь!"
+line-33,黑帮,企鹅物流也在这儿，发现目标立刻通知首领！,Penguin Logistics is here too. Tell the boss as soon as you spot the target.,"«Пингвин Лоджистикс» тоже здесь, как только найдете цель — сразу сообщите боссу!"
+line-39,？？？,可以出来了。,You can come out.,Можешь выходить.
+line-41,拜松,啊、好......,"Oh, okay...","А, хорошо..."
+line-42,拜松,虽然很感谢你的帮助，但我不能把你卷进来，所以请快点离开这里。,"I appreciate your help, but you really don't wanna get mixed up in this. You better go somewhere safe.","Хоть я и благодарен за помощь, я не могу втягивать тебя в это, так что, пожалуйста, уходи отсюда."
+line-44,？？？,我也想啊，难得回一趟龙门，但毕竟有委托嘛......,I'd love to. It's been a while since I had a trip to Lungmen. But a job's a job...,"Я бы и рад, в Лунмэнь нечасто возвращаюсь, но у меня же заказ..."
+line-46,？？？,看你这幅狼狈样，和企鹅物流打交道很辛苦吧？,"Considering how I found you, I'm guessing your deal with Penguin Logistics isn't going so well?","Глядя на твой потрёпанный вид, тяжело тебе приходится с «Пингвин Лоджистикс», а?"
+line-48,拜松,......很辛苦。,...you could say that.,...Очень тяжело.
+line-49,拜松,那么，你是谁？你不是普通的路人吧？,"Err, who are you, exactly? I get the feeling you're not a typical passer-by.","Так, кто ты? Ты ведь не просто случайный прохожий?"
+line-51,？？？,也不用这么紧张，总之，我不是你的敌人。,Calm down. Let's just say I'm not your enemy.,"Не нужно так нервничать, в любом случае, я не твой враг."
+line-52,？？？,等等，他们又来了，先躲好。,"Whoops, they're coming back. Hide.","Подожди, они снова здесь, спрячься."
+line-58,黑帮A,娘咧，弗伦佐果然被企鹅物流抓到了。我们怎么办？,Mamma mia! Those Penguin bastards got Fronzo! What're we gonna do?,"Черт возьми, Френзо и правда попался «Пингвин Лоджистикс». Что нам делать?"
+line-60,黑帮B,那个叫拜松的丰蹄小子落单了，这是个大好机会。,That Bison kid's all alone. This could be our big break.,"Тот парнишка-Форте по прозвищу Бизон отбился от группы, это отличный шанс."
+line-62,黑帮A,但这里已经是市区了，我们还能动手吗？,Can we really just yoink him in the middle of downtown Lungmen?,"Но мы же уже в черте города, разве нам можно действовать?"
+line-64,黑帮B,卡彭先生都考虑过了，只要不动明火，做得隐秘一点，龙门是不会管的。,"Mr. Capone says as long as we do it nice and quiet-like, hold off on the guns and bombs, Lungmen won't make a fuss.","Мистер Капоне всё продумал: пока мы не используем открытый огонь и будем действовать тихо, Лунмэнь не будет вмешиваться."
+line-65,黑帮B,没有人会特地去关照那些散发着垃圾臭味的小街暗巷吧？,"Nobody's gonna go looking in those filthy old alleyways, eh?",Никто не будет специально следить за этими вонючими переулками.
+line-67,黑帮A,明白了，那我们去救人，你们去找人，没问题吧？,"Then we'll be the backup, you find the kid. Capiche?","Понял, значит мы идем на спасение, а вы — на поиски, договорились?"
+line-73,？？？,看来这里已经不能久留了呢，我们得离开这里。,"Well, we can't stay here. Let's get going.","Похоже, здесь нам больше задерживаться нельзя, пора уходить."
+line-74,？？？,让我看看......在那儿呢，打个招呼吧。,Let's see... over there. Let's say hello.,"Дай-ка посмотреть... Вон они, пойдём поздороваемся."
+line-81,可颂,老板，找到拜松了吗？,"Ya find Bison yet, baws?","Босс, нашли Бизона?"
+line-83,大帝,我戴的是墨镜，不是望远镜，别催我！,"I'm wearin' shades, not binoculars. Gimme some space!","На мне солнечные очки, а не бинокль, не подгоняй меня!"
+line-85,大帝,啊......看见了。在向我招手呢。,Aight... I see 'im. Waving at me.,А... нашёл. Он мне машет.
+line-87,能天使,那我们快去把他接回来吧，然后再来问问这个家伙，他们在打什么主意。,"Well let's go get him, then come back and ask this guy what they're up to.","Тогда поскорее заберем его, а потом спросим у этого парня, что они вообще задумали."
+line-90,黑帮,唔——唔唔——,Mmmf—— Mmmh——,Ммм— мфф—
+line-92,大帝,不。,Nah.,Нет.
+line-93,大帝,看来我们幸运的实习生恰好摔在了一个安全的地方，他会自己回来的。,Looks like our lucky little Bison had a smooth landing. He can get hisself back here.,"Кажется, нашему удачливому стажеру посчастливилось упасть в безопасное место, он вернется сам."
+line-95,可颂,嗯......从十二米高空自由落体到了一个安全的地方？怎么个安全法？,Um... he took a forty-foot drop onto a smooth landin'? How's that?,Хм... свободное падение с двенадцатиметровой высоты — и безопасное место? Каким это образом?
+line-97,能天使,而且他也是敌人的目标之一喔，真的不管他吗？,And the bad guys are kinda hunting for him. You sure we shouldn't go get him?,"К тому же он одна из целей врага, ты правда его бросишь?"
+line-99,大帝,有她在。,She's got him.,Она с ним.
+line-101,能天使,......她回来了？,...She's back?,...Она вернулась?
+line-103,德克萨斯,能天使，别分神。,"Exusiai, stay focused.","Экзузиай, не отвлекайся."
+line-106,黑帮,他们在那里！去把弗伦佐救回来！,There they are! We gotta spring Fronzo!,"Они там! Идите, спасите Френзо!"
+line-108,能天使,哎呀，好像的确有点抽不开身呢。,Sigh. There's just no end to you people.,"Ой-ой, похоже, мы действительно заняты."
+line-114,？？？,热热闹闹地走掉了。,I think we lost them.,"Ушли, устроив такой шум."
+line-115,？？？,所以，德克萨斯他们又惹了什么麻烦？这次是和谁打架？,So what's Texas and the girls gotten themselves into this time? Who are they fighting now?,"Итак, в какие неприятности снова ввязались Техас и остальные? С кем они на этот раз дерутся?"
+line-117,拜松,我该信任你吗？,Can I really trust you?,Я должен тебе доверять?
+line-119,？？？,也是，自我介绍一下，我是企鹅物流的信使，莫斯提马。,I guess I better introduce myself. I'm Mostima. A Messenger for Penguin Logistics.,"Справедливо. Позволь представиться: я курьер «Пингвин Лоджистикс», Мостима."
+line-121,莫斯提马,权且算是你的同行吧，不过我更喜欢自己行动多一点。,"I think that makes me your colleague, for now. I usually work alone though.","Можно считать, что мы коллеги, хотя мне больше нравится работать в одиночку."
+line-123,拜松,......莫斯提马，我在父亲那里听过这个名字。,...Mostima. I've heard that name from my father before.,"...Мостима, я слышал это имя от отца."
+line-124,拜松,（而且，长着漆黑双角的萨科塔......原来这个传闻是真的，不，还是不要问了吧......）,(Not to mention a Sankta with black horns... the rumors were true. Better not ask about them though...),"(К тому же, эта Санкта с иссиня-чёрными рогами... Значит, слухи были правдивы. Нет, лучше не буду об этом спрашивать...)"
+line-126,莫斯提马,嗯......好事还是坏事呢？,Oh...? Good things I hope?,Хм... это хорошо или плохо?
+line-128,拜松,不，怎么说，都是些不可思议的传闻......,Erm... how should I say...? Just baseless rumors...,"Нет, просто... это были весьма невероятные слухи..."
+line-129,拜松,而且你刚才帮了我，也许我不该怀疑你的，抱歉。,"And after you saved me like that, I have no reason to doubt you. Sorry.","И ты только что мне помогла, наверное, я не должен был тебя подозревать, прости."
+line-131,莫斯提马,没关系的，你不用这么拘谨。,Don't worry about it. You got nothing to apologize for.,"Ничего страшного, не будь таким скованным."
+line-133,拜松,谢谢......总之，我们应该先共享一下情报......虽然我也是一头雾水。,Thanks... Now we should share our intelligence... although I'm still pretty confused.,"Спасибо... В любом случае, нам следует поделиться информацией... хоть я и сам в растерянности."
+line-134,拜松,......简而言之，企鹅物流和一支叙拉古黑手党发生了矛盾。,"Basically, Penguin Logistics is in some kind of conflict with an arm of the Siracusan mafia.","...Короче говоря, «Пингвин Лоджистикс» вступили в конфликт с одной из сиракузских мафиозных семей."
+line-136,莫斯提马,嗯，我大概明白了。,Right. Got it.,"М-м, я примерно поняла."
+line-138,拜松,欸？这就明白了？,Huh? You got it already?,А? Ты уже всё поняла?
+line-140,莫斯提马,没必要顾虑那么多，适当地放弃思考，放纵本心，才能跟上企鹅物流的节奏喔。,I don't need any more. You need to stop thinking so much. Trust your instincts. That's the Penguin Logistics way.,"Не стоит так много об этом думать. Иногда нужно просто отбросить логику и следовать зову сердца, только так можно выдержать темп «Пингвин Лоджистикс»."
+line-142,拜松,呃，原来诀窍是放弃思考吗......,"Oh. So the trick is to just stop thinking, huh...?","Эх, значит, секрет в том, чтобы отбросить логику..."
+line-144,莫斯提马,毕竟他们真的很特别，常识是不起作用的。,They're a very special bunch. Common sense doesn't really work here.,"В конце концов, они очень особенные, обычные правила к ним неприменимы."
+line-146,拜松,......莫斯提马小姐也是？,"...What about you, Mostima?",...Мисс Мостима тоже?
+line-148,莫斯提马,一般会这么直接地问本人吗？,Are you always this direct with people?,Обычно людей не спрашивают о таком напрямую.
+line-150,拜松,好、好像是这样。,I- I think so.,"О-ой, кажется, это так."
+line-152,莫斯提马,总之，我们得先离开这里。,We need to get moving.,"В любом случае, нам нужно уходить."
+line-153,莫斯提马,跟我来。,Follow me.,Идем за мной.
+line-160,黑帮,喂！还没有发现目标吗？,"Eyo, you found the target yet?",Эй! Вы всё ещё не нашли цель?
+line-162,黑帮,该死，这里人太多了，搞什么！,"There's too many people. Hey, I'm walkin' here!","Черт, народу слишком много, что происходит?!"
+line-164,黑帮,走，我们去其它地方！,"C'mon, let's check somewhere else.","Пошли, поищем в другом месте!"
+line-170,拜松,......他们好像没发现我们。,...I don't think they saw us.,"...Кажется, они нас не заметили."
+line-172,莫斯提马,就这样保持下去，然后想办法和德克萨斯他们汇合。,"Just keep going like this, and we'll figure out a way to meet back up with the others.","Продолжай в том же духе, нам нужно найти способ воссоединиться с Техас и остальными."
+line-174,拜松,好的。,Right.,Хорошо.
+line-176,莫斯提马,唔。,Hm.,Хм.
+line-178,拜松,怎、怎么了？,Wh- what is it?,Ч-что случилось?
+line-180,莫斯提马,这个方向，前面的难道是......,"If we keep going like this, we'll end up...","В этом направлении, неужели впереди..."
+line-182,拜松,被、被敌人发现了！？,G- getting caught by the mob?!,Н-нас обнаружили враги!?
+line-184,莫斯提马,原来是这里，这么多年没有回过龙门，名字都换了。,So that's where it was. It's been so many years since I've been back to Lungmen. All the signs are different.,"А, вот оно что. Столько лет не была в Лунмэне, даже названия поменялись."
+line-185,莫斯提马,嗯......你想不想吃点什么？我想想，抹茶还是巧克力？,Right... are you hungry? I'm trying to decide between matcha and chocolate.,"Хм... хочешь что-нибудь перекусить? Дай подумать, матча или шоколад?"
+line-187,拜松,......,......,...
