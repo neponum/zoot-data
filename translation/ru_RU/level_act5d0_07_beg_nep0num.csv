@@ -1,0 +1,137 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+char-1,黑帮,黑帮,Mafioso,Гангстер
+char-2,甘比诺,甘比诺,Gambino,Гамбино
+char-3,黑帮A,黑帮A,Mafioso A,Гангстер А
+char-4,黑帮B,黑帮B,Mafioso B,Гангстер Б
+char-5,能天使,能天使,Exusiai,Экзузиай
+char-6,德克萨斯,德克萨斯,Texas,Техас
+char-7,空,空,Sora,Сора
+char-8,拜松,拜松,Bison,Бизон
+char-9,可颂,可颂,Croissant,Круассан
+char-10,管家,管家,Butler,Дворецкий
+char-11,伊斯,伊斯,Yith,Ис
+char-12,卡彭,卡彭,Capone,Капоне
+,,,,
+line-8,黑帮,首领，企鹅物流有动作了。,"Boss, Penguin Logistics is on the move.","Босс, Пингвин Логистикс начали действовать."
+line-10,甘比诺,......意料之内，只是给她留下了点皮肉伤......,Of course. I just gave her a few skin deep cuts...,"…Ожидаемо, хотя я лишь нанес ей пару царапин…"
+line-11,甘比诺,但我更在意的是，卡彭呢？,But I'm more worried about Capone.,Но меня больше беспокоит другое: где Капоне?
+line-13,黑帮,其、其实在一个小时前就彻底联系不上了。,"Y- yeah, we haven't been able to reach him. Tried real hard an hour ago.",На самом деле… с ним уже час как нет никакой связи.
+line-15,甘比诺,......最后一次例行联络是在哪里？贫民窟吗？,Where's the last place you got him? The slums?,…Где был последний плановый сеанс связи? В трущобах?
+line-17,黑帮,啊，是的。,"Er, yeah.","Да, именно там."
+line-19,甘比诺,那还真是可惜。,That's too bad.,Какая жалость.
+line-21,黑帮,您的意思是？,What do you mean?,Что вы имеете в виду?
+line-23,甘比诺,先通知所有小队，按原计划拦截企鹅物流——,"Tell all the crews, we're going with the original plan to get Penguin Logistics...",Сначала вели всем отрядам перехватить Пингвин Логистикс согласно плану —
+line-24,甘比诺,但我猜，不出意外的话，大概会有那么两三个小队挂断联络吧。,"But I'm thinkin'... unless something goes wrong, we'll get two or three crews dropping off the grid.","Но, полагаю, если ничего не случится, то пара-тройка отрядов наверняка перестанут выходить на связь."
+line-26,黑帮,您这是什么意思......啊。,What do you mean... boss?,Что вы такое говорите… о-о.
+line-27,黑帮,难道——卡彭先生背叛了家族？,Couldn't be... Capone betrayed the Family?,Неужели — господин Капоне предал Семью?
+line-29,甘比诺,我理解他，太理解他了。,I get where he's comin' from. All too well.,"Я понимаю его, слишком хорошо понимаю."
+line-30,甘比诺,我们从小一起长大，亲手为父亲解决叛徒，那是我第一次杀人，是我们第一次杀人。,"We grew up together. And dad had us deal with a traitor, with our own two hands. That was my first time takin' a life. Our first time takin' a life.","Мы выросли вместе. Я своими руками помог отцу устранить предателя. Это было мое первое убийство, наше первое убийство."
+line-31,甘比诺,叙拉古的惨败改变了我们。唯一的区别是，他变得更加懦弱，而我选择了更明确的道路。,"The Siracusa fiasco changed us. The only difference is he turned weak, and I chose the clear path.","Поражение в Сиракузах изменило нас. Разница лишь в том, что он стал трусливее, а я выбрал более верный путь."
+line-32,甘比诺,他打算出卖家族，或者说，给家族换个姓氏。,He's gonna sell out the Family. Or I guess he wants to give the Family a new name.,"Он собирается продать Семью, или, вернее сказать, сменить Семье фамилию."
+line-34,黑帮,那我们应该如何是好？,So what should we do about it?,Что же нам делать?
+line-36,甘比诺,......企鹅物流比想象中棘手，我们也不能同时树敌太多。,Penguin Logistics is turning out trickier than I thought. And we can't fight a war on too many fronts.,"…Пингвин Логистикс оказались куда более проблемными, чем казалось, и мы не можем наживать себе столько врагов сразу."
+line-37,甘比诺,也许，我们应该先解决叛徒的问题。,I'm thinkin' we deal with our traitor problem first.,"Возможно, для начала нам стоит разобраться с предателем."
+line-45,黑帮A,这里是三道口，没有异常。,I'm down at the intersection. Nothing special here.,"Это Трехдорожье, здесь без происшествий."
+line-48,黑帮B,明白了，那么一切照常行动。,Roger. Proceed as usual.,"Понял, действуем как обычно."
+line-50,黑帮A,——等、等等！我们的计划是什么来着？,W- wait! What's the plan here?,— Подо-подожди! А какой у нас вообще план?
+line-52,黑帮B,啊？你小子没搞错吧？,Huh? You screwed up something?,"А? Ты там что, с ума сошел?"
+line-54,黑帮A,呃，我只是确认一下，对龙门不太熟悉。,"No, I just wanna be sure. I really don't know Lungmen at all.","Да нет, просто уточняю, я не очень хорошо ориентируюсь в Лунмэне."
+line-56,黑帮B,安魂节的午夜过后，龙门会按例举办狂欢活动，我们的任务就是趁着万人空巷时候解决企鹅物流，就这么简单！,"It's Sauin. When midnight rolls around, Lungmen kicks off a huge Carnival. The whole town turns out. That's when we rub out Penguin Logistics. Bada bing!",Пингвин Лоджистикс
+line-58,黑帮A,那关于首领的——,Now about the boss...,А как насчет босса…
+line-60,黑帮B,别问那么多，这是要求，照做就是了！快！,Don't ask too many questions. Just do what you're told. Chop-chop.,"Меньше вопросов, это приказ — выполняй! Скорее!"
+line-63,黑帮,......就是这样了。,...it's what it is.,"…В общем, так оно и было."
+line-64,黑帮,不会杀我的，对吧？,"You ain't gonna kill me, are you?","Ты ведь не убьешь меня, правда?"
+line-66,能天使,当然，多谢小哥啦，小睡一会吧~,Of course not. But you gotta take a nap for me like a good boy~,"Конечно нет. Спасибо за помощь, парень, поспи немного~"
+line-72,能天使,德克萨斯，听得见吗~？,"Texas, you copy?","Техас, слышишь меня~?"
+line-82,德克萨斯,和这里的情况一样。他们打散了小队。,It's the same over here. They all split off into little groups.,Здесь то же самое. Они разделили свои отряды.
+line-83,德克萨斯,但既然首领亲自参与了战斗，他们一定有另一个指挥塔负责调度。,"But their leader was in the fight himself, which means they've got someone else handing out dispatch orders.","Но раз босс лично участвует в бою, у них должен быть другой командный пункт."
+line-84,德克萨斯,找到那里，一了百了。,We just have to cut off that head.,Найдем его — и покончим с этим.
+line-87,空,喂~？德克萨斯？,Hey~ Texas?,Алло~? Техас?
+line-88,空,我们已经到市中心啦，但是人真的很多。,"We're in the city center, but boy are there a lot of people out here.","Мы уже в центре города, тут просто не протолкнуться."
+line-90,德克萨斯,注意敌方小队的动向。,Watch for the enemy. They're moving in small teams.,Следи за передвижениями вражеских отрядов.
+line-92,空,知道啦~会拜托街上的熟人们留意的......等等，老板？你要到花车上面去看看？欸，等等我——,"I know~ We'll make sure our friends on the street keep an eye out... Wait, boss? You want to get up on a float? Erm, wait for me...","Поняла~ Попрошу знакомых на улицах присмотреть за ними… подожди, Босс? Ты хочешь залезть на платформу? Эй, подожди меня—"
+line-94,德克萨斯,......可颂，拜松，听得见吗？,"Croissant, Bison, do you copy?","…Круассан, Бизон, вы меня слышите?"
+line-103,拜松,你说的那个指挥塔，我们稍微有点意外发现。,"So you were talking about that someone else giving dispatch orders, we ran into a little surprise over here.","Насчет того командного пункта, о котором ты говорила: мы кое-что обнаружили."
+line-105,可颂,......拜松，压低身子，躲到那边的箱子后面，不要被发现。,"Bison, get down. Take cover behind that box over there. Don't get yerself seen.","…Бизон, пригнись и спрячься за ящиками, чтобы нас не заметили."
+line-107,拜松,好，德克萨斯，一会联系。,"Right. I'll call you back, Texas.","Хорошо, Техас, свяжемся позже."
+line-114,黑帮A,我们，以后会怎么样？,So where do we go from here?,Что теперь с нами будет?
+line-116,黑帮B,不知道，从我们挂断首领......挂断甘比诺·里奇的通讯开始，我们就没得选了。,"I dunno. Since we cut off the boss... since we cut off Gambino Ricci, we really don't have a choice.","Не знаю. С того момента, как мы разорвали связь с боссом… с Гамбино Ричи, выбора у нас больше нет."
+line-118,黑帮A,唉。,Sigh.,Эх.
+line-120,黑帮B,叹什么气，卡彭先生在龙门为我们准备了这么多，结果呢？,"What's to sigh about? Mr. Capone did so much for us here in Lungmen, and what came of it?","Чего вздыхаешь? Господин Капоне столько всего подготовил для нас в Лунмэне, и что в итоге?"
+line-121,黑帮B,甘比诺从叙拉古转移过来就开始胡搅蛮缠，没一件好事！,Gambino hops on over from Siracusa and makes nothin' but trouble. Not a lick of good's come of him!,"Гамбино начал мутить воду сразу после приезда из Сиракуз, ничего хорошего из этого не вышло!"
+line-122,黑帮B,本来按照卡彭先生的计划，根本不需要这么大费周章。,"If we kept to Mr. Capone's plan from the start, we wouldn't be in this mess.","Если бы мы следовали плану господина Капоне, не пришлось бы столько суетиться."
+line-123,黑帮B,都和鼠王聊好了，为什么非要大开杀戒？这里可不是叙拉古！,We've been over this with the Rat King. Why do we gotta kill anybody? This ain't Siracusa!,"Он уже обо всем договорился с Королем Крыс, зачем было устраивать эту кровавую баню? Это ведь не Сиракузы!"
+line-125,黑帮A,唉，首领，我是说前首领，可能只是在泄愤吧。,"The boss, I mean the old boss, he's probably just blowin' off steam.","Эх, босс… то есть предыдущий босс, может, он просто выплескивал злость."
+line-127,黑帮B,呸，幼稚。,Well he needs to grow up.,"Тьфу, наивный."
+line-135,可颂,（他们好像起了点内讧？）,(Sounds like trouble in paradise.),"(Кажется, у них там разлад?)"
+line-137,拜松,（似乎是，这是大好的机会，我们——）,"(Sure does. This could be good for us, if we...)","(Похоже на то. Это отличная возможность, мы —)"
+line-150,黑帮A,——！谁在那里！,Hey! Who's there?!,—! Кто там!
+line-153,可颂,欸？哪儿来的枪声？,Huh? A gunshot?,А? Откуда стрельба?
+line-155,拜松,又是那个狙击手——！他暴露了我们的位置！,It's that sniper again! We're exposed!,Снова этот снайпер —! Он выдал наше местоположение!
+line-157,黑帮B,是企鹅物流的人，别放走他们！,It's the Penguins! Don't let 'em get away!,"Это люди из «Кофейных логистов», не дайте им уйти!"
+line-165,管家,......少爷，对不住。这是老爷交代的工作。,"...Do forgive me, Young Master. This is what the Master of the House has demanded of me.","…Простите, молодой господин. Это работа, порученная мне хозяином."
+line-166,管家,唉，但我竟然对少爷动了手，还让少爷陷入了危险......,"But in taking action upon the Young Master, I have placed him in danger...","Эх, и надо же было мне поднять руку на господина, подвергнуть его такой опасности…"
+line-167,管家,等事情结束之后，不如告老还乡吧。,"When this matter is concluded, I believe it may be time to retire to the countryside.","Когда всё закончится, пожалуй, уйду в отставку и вернусь в родные края."
+line-168,管家,唉，唉！,Sigh.,"Эх, эх!"
+line-177,德克萨斯,......他们好像遇到麻烦了。,...Sounds like they're in trouble.,"……Похоже, у них возникли проблемы."
+line-178,德克萨斯,能天使，确认完黑帮的路线之后去和可颂汇合。,"Exusiai, once you've marked out the gangsters' route, move to meet up with Croissant.","Экзузиай, подтверди маршрут бандитов и направляйся на встречу с Круассан."
+line-181,能天使,明白~,You got it~,Поняла~
+line-183,德克萨斯,空。,Sora.,Сора.
+line-186,空,诶......今天可疑人物的动向非常复杂，不过他们好像分成两队行动了，可能是陷阱——,"Whew... the bad guys are making a lot of moves, but it looks like they're splitting into two teams. Might be a trap...","Э-э… передвижения подозрительных лиц сегодня очень запутанны, но они, кажется, разделились на две группы. Возможно, это ловушка…"
+line-188,伊斯,没有那么复杂。敌人内部出现了问题。这是机会。,It is not so complicated. The enemy is suffering from internal strife. This is an opportunity.,Все не так сложно. В рядах врага возникли разногласия. Это наш шанс.
+line-189,空,哇！吓了我一跳！,Aaaie! You scared me!,Ой! Ты меня напугал!
+line-191,德克萨斯,......你也回来了啊。,...Welcome back.,……Ты тоже вернулся.
+line-192,德克萨斯,为什么要黑进自己人的频道，就不能正常通讯吗？,Why'd you have to hack into our private channel? Couldn't you just send us a normal message?,Зачем взламывать наш канал связи? Нельзя было просто выйти на связь как обычно?
+line-194,伊斯,这样比较快。,This was quicker.,Так быстрее.
+line-195,空,那你现在在哪儿？,Where are you now?,И где ты сейчас?
+line-196,伊斯,伤心咖啡馆。我突然想起来今天应该放假，所以来凑个热闹。,"A depressing cafe. I suddenly remembered I was supposed to have today off, so I came out to enjoy the nightlife.","В кафе «Печаль». Вспомнил, что у меня сегодня выходной, вот и пришел развлечься."
+line-197,伊斯,可颂和那个新人的坐标已经发送给你们了，龙门城际网络的速度真是令人舒心。,I've sent you Croissant and the new boy's coordinates. Lungmen's network speeds are remarkably satisfactory.,Координаты Круассан и того новичка я вам отправил. Скорость межгородской сети Лунмэня поистине радует.
+line-199,德克萨斯,......既然如此，解决完各自的任务，就去支援他们吧。,"...understood. Once we've finished our respective missions, we'll move to assist them.","……Раз так, закончив свои задачи, отправляйтесь на помощь к ним."
+line-200,德克萨斯,这是反击的好机会。,This is our chance to strike back.,Это отличная возможность для контратаки.
+line-210,黑帮,卡彭先生，首领突袭企鹅物流的计划似乎失败了。,"Mr. Capone, the boss's hit on Penguin Logistics looks like it failed.","Мистер Капоне, план босса по налету на «Penguin Logistics», кажется, провалился."
+line-213,卡彭,废话，那个莽夫能成什么事，不用管他。,What's that meathead worth? I don't even wanna hear his name.,Чепуха. Разве этот грубиян способен хоть на что-то? Не обращай на него внимания.
+line-215,黑帮,......这样真的好吗。,...Is that how we do it?,……Действительно ли это хорошая идея?
+line-217,卡彭,家族需要的是一个立足之地，至于姓甚名谁，根本无关紧要。,The Family needs a solid foundation. The name is the least important part.,"Семье нужно место, где можно закрепиться, а кто при этом носит фамилию — совсем не важно."
+line-218,卡彭,还没找到鼠王吗？,Did you find the Rat King yet?,Вы еще не нашли Крысиного Короля?
+line-220,黑帮,没有，鼠王实在是太不留痕迹了......,Not yet. He really don't leave any tracks around...,"Нет, Крысиный Король не оставляет никаких следов…"
+line-222,卡彭,有点耐心，他就像是这座城市的一部分，像是龙门的影子，虽然我们的时间已经不多了。,We gotta be patient. He's like a part of the city. He's Lungmen's shadow. It ain't like we got much time though.,"Будь терпелив. Он словно часть этого города, словно тень самого Лунмэня, хотя времени у нас осталось мало."
+line-224,黑帮,可要是不够谨慎而被鼠王察觉到的话，我们会同时面临三方的压力......,"But we gotta be careful. If the Rat King picks up on what we're doin', we could find ourselves fighting three sides at once.","Но если мы будем недостаточно осторожны и Крысиный Король нас вычислит, мы окажемся под давлением трех сторон одновременно…"
+line-226,卡彭,对谁来说都是如此，如果处于劣势，我宁可让场面变得更混乱些。,"It's the same for everyone. If we're locked into a tough spot, the best thing to do is stir up some chaos.","Так будет для всех. Если я в невыгодном положении, я предпочту сделать обстановку еще более хаотичной."
+line-227,卡彭,有甘比诺的消息吗？,You got news of Gambino?,Есть новости о Гамбино?
+line-229,黑帮,......,......,……
+line-231,卡彭,为什么不说话？,You deaf?,Почему молчишь?
+line-237,甘比诺,真是见外，有什么事情直接联络我不就好了吗？,"If you got somethin' to say to me, shouldn't you just say it to my face?",Как невежливо. Разве нельзя было связаться со мной напрямую?
+line-239,卡彭,......你是怎么进来的？,How did you get in here?,……Как ты сюда попал?
+line-241,甘比诺,不是每个人都能像你一样，毫无愧疚地违背在父亲墓前立下的誓言。,Not everybody's like you. Not everybody can just up and turn their back on an oath made before dad's grave.,"Не все могут, подобно тебе, без зазрения совести нарушать клятву, данную у могилы отца."
+line-243,卡彭,誓言？那仅仅是因为我们走在同一条道路上，但是今非昔比了，甘比诺。,"Oath? That's just because we were walking the same path. But times have changed, Gambino.","Клятву? Это имело смысл лишь тогда, когда мы шли по одному пути, но времена изменились, Гамбино."
+line-245,甘比诺,现在是我说了算，你让我很失望，但我愿意给你一个机会解释，老兄弟。,"You broke my heart, Capone. But I'll give you one last chance to explain yourself, as my brother.","Теперь здесь командую я. Ты меня разочаровал, но я готов дать тебе шанс объясниться, старый друг."
+line-247,卡彭,哼。七年前，前首领遇刺身亡，那时我就被你派到了龙门。,"Hmph. Seven years ago, when we buried the old boss, you sent me here, to Lungmen.","Хм. Семь лет назад, когда предыдущий босс погиб при покушении, ты отправил меня в Лунмэнь."
+line-248,卡彭,我千里迢迢赶来，为的是建立一条史无前例的商业桥梁，作为家族的后盾。,"I came halfway across the world to set up a business that could support the Family, like a backstop.","Я проделал долгий путь, чтобы построить невиданный ранее торговый мост, служащий опорой для Семьи."
+line-249,卡彭,但结果，你在叙拉古还是失败了，而且逃了过来，转眼就接手了我辛苦运作的一切。,But then you had to go and screw up in Siracusa. And what do you do? You hop on over here and take over everything I broke my back to build.,"Но в итоге ты провалился в Сиракузах, сбежал сюда и в одночасье прибрал к рукам всё, над чем я так упорно трудился."
+line-251,甘比诺,省省吧，你不是会为了这点蝇头小利就动怒的人，否则你早就死了。,"Come on, you ain't gettin' pissed off over some little shit like this. Or you'd've been dead a long time ago.","Оставь это. Ты не тот человек, который станет злиться из-за сущих пустяков, иначе бы ты уже давно был мертв."
+line-253,卡彭,随你怎么说，我只是到了今天才发现，家族最勇猛的獠牙才是真正妨害家族的罪魁祸首。,Say what you want. But today I learned the sharpest fangs in the Family's what's gonna turn around and kill it.,"Говори что хочешь, но только сегодня я понял, что именно самые острые клыки Семьи на самом деле и являются главными виновниками ее гибели."
+line-255,甘比诺,所以你想掰断自己的爪牙，再给自己戴上项圈？哈！,So you gonna pull out your fangs and snap a collar on yourself? Hah!,"Значит, ты хочешь вырвать свои собственные клыки и надеть на себя ошейник? Ха!"
+line-257,卡彭,继续让你在龙门肆意妄为，我们迟早会被那些不可阻挡的大势泯灭。,"If you keep runnin' around Lungmen makin' noise like you do, sooner or later the powers that be are gonna get sick of it and wipe us out.","Если позволить тебе и дальше творить в Лунмэне всё, что вздумается, нас рано или поздно поглотят непреодолимые силы."
+line-259,甘比诺,原来如此，我都感动得要哭了。想不到你为了家族竟然如此深思熟虑。,"Your deep and heartfelt concern for the Family is moving me to tears, dear Capone.","Вот как. Я почти прослезился. Не думал, что ты настолько глубоко печешься о Семье."
+line-261,卡彭,彼此彼此。,The feeling's mutual.,Взаимно.
+line-272,甘比诺,你身手变得迟钝了，卡彭。,You're rusty.,"Твои движения стали медленнее, Капоне."
+line-274,卡彭,你在叙拉古留下的伤也不好受，甘比诺。,The scars you got in Siracusa are holding you back too.,"Раны, что ты получил в Сиракузах, тоже причиняют немало боли, Гамбино."
+line-276,甘比诺,放弃吧，我不想杀你。,Just give up. I don't wanna kill you.,Сдавайся. Я не хочу тебя убивать.
+line-278,卡彭,不，你想得很。,"No, you really do.","Нет, очень даже хочешь."
+line-280,甘比诺,呵！你可真了解我！,Heh. You know me too well.,Хе! Ты действительно меня понимаешь!
+line-289,卡彭,什——,Wh——,Что—
+line-291,可颂,哎呀？本想着破墙离开的......似乎撞到了不得了的现场？,Well lookie here! I just wanted to bust through this wall and make a nice path... but it looks like I found quite a sight.,"Ой? Я-то думала сбежать, проломив стену… кажется, я вломилась в очень интересный момент?"
+line-293,可颂,没关系喔，你们继续，我们换条路。,Sorry to bother ya. You two keep at it. We'll go around.,"Ничего страшного, продолжайте, мы выберем другой путь."
+line-297,黑帮,快追！别让那两个人溜走了！！,Hurry! Don't let them get away!,Догоняйте! Не дайте этим двоим уйти!!
+line-299,拜松,......好像不太有机会。,...I think we're out of options.,"……Кажется, у нас нет такой возможности."
+line-302,甘比诺,正好，搅局者都到齐了，那就把你们——,How about that. Our troublemakers came right to us. We'll just scoop you up and——,"Как раз вовремя. Раз уж все виновники хаоса в сборе, тогда я перебью вас—"
+line-311,甘比诺,这次又怎么了！？,What is it this time?!,Что на этот раз!?
+line-313,能天使,喂~我们来啦！,Heyy~ We're heere!,Эй~ мы пришли!
+line-315,德克萨斯,......真巧，全都在这儿了。,"What a coincidence, running into everyone.","……Какое совпадение, все в сборе."
+line-317,空,唔，这架势是要最终决战了吗？是不是早了点？,"So, is it time for a final battle already? Seems a little early?","М-м, неужели это финальная битва? Не слишком ли рано?"
+line-319,德克萨斯,没关系，越早解决这出闹剧越好。,"It's fine. The sooner we get this whole thing over with, the better.","Ничего страшного, чем раньше мы закончим этот фарс, тем лучше."
+line-320,德克萨斯,就按老板的意思，把他们扔进江里吧。,"Just throw them in the river, like the boss said.","Как и просил босс, бросьте их в реку."
+line-322,卡彭,哼，越混乱，越合我意。,This kind of chaos is just the way I like it.,"Хм, чем больше хаоса, тем лучше для меня."
+line-323,卡彭,看来，谁能从这里站着出去，谁就会成为今晚的赢家。,Tonight's big winner is the one who walks out of here alive.,"Похоже, тот, кто выйдет отсюда на своих двоих, и станет победителем этой ночи."
