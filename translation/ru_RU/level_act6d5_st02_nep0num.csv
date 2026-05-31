@@ -1,0 +1,464 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act6d5
+__chapter__,,Chapter Name,activities/act6d5/level_act6d5_st02,洪炉示岁·贺岁
+,,,,
+char-1,无声的整合运动,无声的整合运动,Silent Reunion Member,Безмолвный Воссоединения
+char-2,近卫局成员,近卫局成员,L.G.D. Officer,Офицер ДОЛ
+char-3,魏文月,魏文月,Wei Fumizuki,Фумидзуки
+char-4,近卫局成员A,近卫局成员A,L.G.D. Officer A,Сотрудник ДОЛ А
+char-5,近卫局成员B,近卫局成员B,L.G.D. Officer B,Сотрудник ДОЛ B
+char-6,阿米娅,阿米娅,Amiya,Амия
+char-7,兵俑,兵俑,Terracotta,Терракотовый воин
+char-8,龙门市民A,龙门市民A,Lungmen Citizen A,Гражданин Лунмэня А
+char-9,龙门市民B,龙门市民B,Lungmen Citizen B,Гражданин Лунмэня Б
+char-10,陈,陈,Ch'en,Чэнь
+char-11,近卫局成员？,近卫局成员？,L.G.D. Officer?,Сотрудник Департамента охраны?
+char-12,鬼姐,鬼姐,Madame Oni,Хошигума
+char-13,雪雉,雪雉,Snowsant,Сюэчжи
+char-14,近卫局联络员,近卫局联络员,L.G.D. Comms Officer,Связист L.G.D.
+char-15,轻浮的近卫局成员,轻浮的近卫局成员,Frivolous L.G.D. Officer,Легкомысленный сотрудник ДОЛ
+char-16,认真的近卫局成员,认真的近卫局成员,Serious L.G.D. Officer,Серьезный сотрудник L.G.D.
+char-17,退休老人,退休老人,Retiree,Пенсионер
+char-18,普通市民魏先生,普通市民魏先生,"Mr. Wei, Ordinary Citizen",Обычный гражданин господин Вэй
+char-19,行侠仗义第一人,行侠仗义第一人,Ally of Justice #1,Первая среди вершителей правосудия
+char-20,地下怪医,地下怪医,Back-Alley Doctor,Подпольный знахарь
+char-21,事务所全职保安,事务所全职保安,Full-time Security Guard,Охранник охранного агентства
+char-22,西瓜味的近卫局成员,西瓜味的近卫局成员,Watermelon-scented L.G.D. Officer,Член Управления со вкусом арбуза
+char-23,小孩子,小孩子,Child,Ребенок
+char-24,？？？,？？？,???,???
+char-25,炎熔,炎熔,Lava,Лава
+char-26,年,年,Nian,Нянь
+,,,,
+line-3,,第二幕,Act Two,Акт второй
+line-4,,贺岁,Greetings,Празднование Нового года
+line-14,无声的整合运动,......,........,......
+line-16,近卫局成员,放下武器，后退。,Drop your weapons and step back.,Сложите оружие и отступите.
+line-18,无声的整合运动,......,........,......
+line-20,近卫局成员,啧，还是交涉无效，动手！,I said now!,"Черт, переговоры не удались. В атаку!"
+line-21,近卫局成员,这些家伙根本不是人类，不用手下留情！,These guys aren't even human. No need to show mercy!,"Эти ребята совсем не люди, не щадите их!"
+line-22,近卫局成员,听得见吗！这里是隐庐小队！已经确认7区全部目标符合判断条件，都是“兵俑”！,Do you copy? All targets in Sector 7 are confirmed to be 'Terracotta'!,"Слышите меня?! Это отряд «Иньлу»! Мы подтвердили, что все цели в 7-м секторе соответствуют критериям — это «терракотовые воины»!"
+line-30,近卫局成员,真的是整合运动吗？,Are they really Reunion?,Это правда «Воссоединение»?
+line-32,魏文月,只是障眼法罢了，先确认他们的身份。,It's a diversion. Confirm their identity first.,"Это лишь отвлекающий маневр, сначала подтвердите их личности."
+line-36,近卫局成员,魏长官！事态有变！,Chief Wei! The situation has changed!,Офицер Вэй! Ситуация изменилась!
+line-37,近卫局成员,他们的数量......在、在增加。几乎所有巡逻的小队都发现了整合运动！,There's... there's more of them. Almost every squad on patrol has spotted Reunion elements!,Воссоединение
+line-43,近卫局成员A,又、又有报告，市区部分地点出现短暂的急剧升温，监测部门在做什么！？,A- another report of a brief spike in temperature in some areas of the city. What are the monitors doing?!,"Снова, снова доклады! В некоторых частях города резкий скачок температуры, чем занимаются мониторинговые службы!?"
+line-44,近卫局成员B,没有任何反应！可是看其他的数据的确是有在正常运作的......！,No reaction! But looking at the other numbers everything does seem normal...!,"Реакции никакой! Но судя по остальным данным, всё работает нормально...!"
+line-45,近卫局成员A,敌人开始袭击靠近的小队，喊话没有回应，无法建立沟通。,The enemy attacked as soon as our squad approached. They did not respond to any hails. We are unable to establish communication.,"Враг начал нападать на приближающиеся отряды, на вызовы не отвечают, связь установить невозможно."
+line-46,近卫局成员B,敌军溃散！他们很脆弱，基本没有反抗，但是数量很多！,"The enemy is scattered! They're weak, resistance is low, but there's lots of them!","Вражеские силы рассеиваются! Они очень хрупкие, практически не оказывают сопротивления, но их огромное количество!"
+line-47,近卫局成员A,真的是整合运动吗？,Is this really Reunion?,Это правда «Воссоединение»?
+line-48,近卫局成员B,热源在转移，想办法追踪它！,The heat source is shifting. Find a way to track it!,"Источники тепла перемещаются, найдите способ их отследить!"
+line-49,近卫局成员A,城防没有任何漏洞，他们不可能出现在市区内——,"There are no breaches in the city's defenses, they couldn't have gotten in——","В городской обороне нет никаких брешей, они не могли проникнуть в жилые районы —"
+line-50,魏文月,不要慌张！,Don't panic!,Не паниковать!
+line-51,魏文月,......,......,......
+line-52,魏文月,通知偶数编号编队集合。最坏的情况，要在市区内与敌人交战。优先让群众避难。,"Summon even-numbered formations. Worst case scenario, engage the enemy in the city. Give priority to evacuating civilians.",Отдайте приказ о сборе отрядам с четными номерами. В худшем случае нам придется сражаться прямо в черте города. Приоритет — эвакуация мирного населения.
+line-53,魏文月,下城区内市民密集，特别是庙街。让该城区内所有警员优先疏散平民。,"The downtown area is densely populated, especially Temple Street. Have all police officers within that district focus on evacuations.","В нижнем городе много гражданских, особенно на Храмовой улице. Прикажите всем офицерам в том районе заняться эвакуацией людей."
+line-54,魏文月,联系边城区优先排查防线是否有漏洞，确认敌人的运输手段，按兵不动，不要让对方有可乘之机。,"Contact the satellite cities to check if there are any breaches in the defensive lines, confirm the enemy's means of ingress, and hold firm.","Свяжитесь с окраинными районами, проверьте линии обороны на наличие брешей, установите способы перемещения врага. Займите выжидательную позицию, не дайте противнику воспользоваться случаем."
+line-55,魏文月,整合运动应该早已销声匿迹，明确敌人的身份。控制事态是首要任务。龙门并非第一次在年关遭遇特殊情况，不用小题大做。,Reunion should be long gone. We need to identify the enemy. Getting control of the situation is our main task. This is not the first time Lungmen has suffered an abnormal occurrence at New Year's. No need to panic.,"«Воссоединение» должно было давно исчезнуть, нужно точно определить, кто это. Главная задача — контроль ситуации. Лунмэнь не в первый раз сталкивается с особыми обстоятельствами в канун праздника, не нужно раздувать из этого катастрофу."
+line-56,魏文月,团结一致，近卫局无需畏惧。,Stand together. The L.G.D. has nothing to fear.,"Будьте едины, Департаменту охраны нечего бояться."
+line-57,近卫局成员,是！,Right!,Есть!
+line-63,魏文月,......,........,......
+line-64,魏文月,抱歉，阿米娅，博士。尽管你们刚抵达龙门，但可能没有时间给你们休息参观了。,"Apologies, Amiya, Doctor. While you have only just arrived here in Lungmen, we have no time to offer you our hospitality.","Прошу прощения, Амия, Доктор. Несмотря на то, что вы только прибыли в Лунмэнь, времени на отдых и осмотр достопримечательностей у вас, похоже, не будет."
+line-66,阿米娅,没关系，自罗德岛抵达龙门的那一刻，合约就已经生效了。,Don't worry. Our agreement has been in effect since the moment Rhodes Island moored.,"Ничего страшного. С того момента, как «Родос» прибыл в Лунмэнь, контракт вступил в силу."
+line-67,阿米娅,请交给我们吧，我们会协助近卫局的行动！,Please leave it to us. We'll assist the L.G.D.!,"Положитесь на нас, мы окажем содействие операции Департамента охраны!"
+line-77,兵俑,......,........,......
+line-78,兵俑,......,........,......
+line-80,龙门市民A,呼啊，那、那些家伙什么情况？,W- what's with those things?,"Ой, что... что это за парни?"
+line-81,龙门市民A,我认得这些人，但他们不是已经被——！？,"They look familiar, but weren't they——?!","Я узнаю этих людей, но разве они не были уже...?!"
+line-82,龙门市民B,咿呀！这里也有！,Aiee! Over here too!,А-а! Здесь тоже есть такие!
+line-84,兵俑,......,........,......
+line-91,陈,嘁，闪开点——！,"Hey, get out of the way...!","Черт, отойдите назад —!"
+line-102,龙门市民A,谢、谢谢！,Th- thanks!,С-спасибо!
+line-104,陈,普通市民应该听从广播去指定的避难区避难，而不是在这里闲逛！,Don't just stand there! Listen to the announcements and go to your designated evacuation zones!,"Гражданские должны следовать инструкциям по радио и идти в назначенные зоны эвакуации, а не слоняться здесь!"
+line-105,陈,沿着大路向前，和警员们汇合，动作快！,Keep to the main streets until you find the police. Hurry!,"Двигайтесь по главной дороге вперед, соединитесь с полицейскими отрядами, быстрее!"
+line-107,龙门市民B,明、明白了！,R- right!,П-поняли!
+line-109,陈,......,........,......
+line-110,陈,不会说话，也不会流血，就像切开了一团海绵一样，连尸体都会消失不见。,They don't talk. They don't bleed. It's like cutting into a sea sponge. Even their bodies disappear.,"Не говорят, не кровоточат, словно разрезаешь кусок губки — даже тела исчезают."
+line-111,陈,“兵俑”，真是合适的代称。,'Terracotta.' A fitting name.,«Терракотовые воины» — очень точное название.
+line-116,魏文月,称其为“整合运动”会造成不必要的恐慌，陈警官。他们不是有血有肉的敌人。,"Calling them 'Reunion' would cause unnecessary panic, Officer Ch'en. They are not flesh and blood people.","Называть их «Воссоединением» было бы излишне пугающе, офицер Чэнь. Они — не плоть и кровь."
+line-118,陈,我明白。已经确保城区安全。,Understood. Urban districts secured.,Я понимаю. Безопасность в секторе обеспечена.
+line-120,魏文月,感谢你的努力，但是很遗憾，单纯的杀敌似乎是徒劳的。,"Thank you for your efforts. Unfortunately, simply killing the enemy seems futile.","Благодарю за ваши усилия, но, к сожалению, просто уничтожать их, похоже, бесполезно."
+line-121,魏文月,过去数小时，我们仍未能摸透“兵俑”的特性，但他们的兵力却源源不断。,"We've been unable to discern the true nature of the 'Terracottas,' but their strength has continued to grow over the past few hours.","Последние несколько часов мы не можем понять природу этих «воинов», но их число всё растет."
+line-123,陈,虽然这样的规模匪夷所思，但会不会是某种法术？,"It's hard to imagine at this scale, but could it be some kind of Arts?","Хотя масштаб и невообразим, может, это какая-то магия?"
+line-125,魏文月,这才是最让人头疼的地方，源石反应监测依旧毫无反应。但也正因如此，他们不是真正的整合运动。,"That's what's most troubling, our Originium reaction monitors are still unresponsive. But that proves this cannot be Reunion.",Вот что больше всего раздражает: детекторы ориджиниумной энергии всё еще молчат. Но именно поэтому они — не настоящее «Воссоединение».
+line-127,陈,......绝不会是。我很清楚。,...I'm absolutely sure of that.,......Точно нет. Я уверена.
+line-128,陈,这是伪装，只是幻象。,"It's a disguise, just an illusion.","Это маскировка, просто иллюзия."
+line-129,陈,但是整合运动大摇大摆地走在龙门的街道上......,But this image of Reunion strutting down the streets of Lungmen...,"Но видеть «Воссоединение», разгуливающее по улицам Лунмэня..."
+line-130,陈,实在是......让人不快。,It's... disturbing.,Это... крайне неприятно.
+line-132,魏文月,他们与源石完全绝缘。在这片大地上，这是几乎不可能的事情。,They are completely insulated against Originium. We had thought this impossible.,У них нет никакой связи с ориджиниумом. На этой земле это практически невозможно.
+line-134,陈,但它的确发生了，敌人是从哪里进入龙门的？,But it's happening. How did they infiltrate Lungmen?,Но это происходит. Откуда они проникли в город?
+line-136,魏文月,我们的常规手段无法侦测，完全没有关于敌人“怎样出现”的报告。,Our conventional methods have failed. We have no indication of how the enemy 'appeared.',"Наши обычные средства обнаружения не фиксируют их, нет ни одного доклада о том, «как» они появляются."
+line-137,魏文月,好像他们一直就在那里，无声无息地排兵列阵、冲锋、溃散，如此反复。,"It is as if they've been here all along, standing in silent ranks. Charging, routing, and charging again.","Как будто они всегда были там, молча строясь в ряды, атакуя и рассыпаясь, и так по кругу."
+line-139,陈,......简直就像浪花一样。,...Just like the tide.,......Прямо как морская пена.
+line-140,陈,我会按照预备方案组织封锁线。,I'll prepare our defense in accordance with the contingency plan.,Я организую линию блокировки согласно резервному плану.
+line-142,魏文月,小心点。,Be careful.,Будь осторожна.
+line-143,魏文月,近卫局不能失去你。,The L.G.D. can't afford to lose you.,Департамент охраны не может позволить себе потерять тебя.
+line-150,兵俑,——,——,——
+line-152,陈,不管他们的主人是谁，创造出这种混淆现实的幻影，除了制造些许混乱，还能对龙门造成什么威胁？,"Whoever their master is, they're just creating illusions. Other than causing a little chaos, is there any real threat to Lungmen?","Кто бы ни был их хозяин, создавая эти иллюзии, искажающие реальность — чего он может добиться, кроме создания хаоса в Лунмэне?"
+line-153,陈,他们不堪一击。,They go down in one hit.,Они не представляют угрозы.
+line-162,兵俑,......,........,......
+line-164,近卫局成员,（这些家伙真的渗人......如果我们不冒头，他们是不是就一直那么整齐地杵那儿？）,"(These things are freaking me out.... If we don't move, they just stand there in those perfectly straight rows?)","(Эти ребята реально жуткие... если мы не будем высовываться, они так и будут стоять там как истуканы?)"
+line-165,近卫局成员,（但是我们一露面他们就会冲过来。）,(But they'll come rushing as soon as we pop our heads out.),"(Но как только мы показываемся, они сразу бегут сюда.)"
+line-166,近卫局成员,（小声点，他们弱得很，找个机会偷袭他们，速战速决。）,(Keep your voice down. They're very weak. Let's hurry up and find a way to get the jump on them.),"(Тише, они слабые, найдем момент, нападем исподтишка и покончим с ними.)"
+line-167,近卫局成员,（——等等，你要干嘛！？）,"(——Wait, what are you doing?!)","(——Эй, ты что делаешь!?)"
+line-169,近卫局成员？,......,........,......
+line-171,近卫局成员,喂，你们在干嘛！快回来！,"Hey, what are guys doing? Get back here!","Эй, вы что творите! Вернитесь!"
+line-173,近卫局成员,——不对！你不是我们的人！,——No! You're not with us! Who are you?!,——Нет! Ты не из наших!
+line-175,近卫局成员？,......,........,......
+line-177,近卫局成员,这些东西什么时候混进来的！？,When did these things get in here?!,Когда эта дрянь успела просочиться сюда!?
+line-178,近卫局成员,你头盔下的脸、怎、怎么回事？,Wh- what's with your face under your helmet?,Твое лицо под шлемом... ч-что с тобой не так?
+line-179,近卫局成员,为什么，你到底是什么东西！滚开，别看过来！,"Why, what the hell are you?! Get away from me!","Почему, что ты такое?! Убирайся, не смотри на меня!"
+line-181,近卫局成员？,......,........,......
+line-195,鬼姐,都在干什么，现在的近卫局只是见到一个和自己长得一样的敌人就会动摇吗？,What's all the ruckus? The L.G.D. freaking out just 'cause they ran into an enemy that looks like them?,"Что вы все делаете? Департамент охраны теперь так легко смутить тем, что враг похож на кого-то из вас?"
+line-196,鬼姐,都站起来！,Get up!,А ну встать!
+line-198,近卫局成员,是、是！非常抱歉！,R- right! I'm so sorry!,Е-есть! Прошу прощения!
+line-199,近卫局成员,......不对，你又不是陈Sir，为什么要命令我？,"...Wait, you're not Ch'en Sir. Who are you to give me orders?","......Постой, ты ведь не офицер Чэнь, с какой стати ты мне приказываешь?"
+line-201,鬼姐,呃，顺其自然。,Just roll with it.,"Эх, инерция."
+line-202,鬼姐,那陈sir呢？,Where is Ch'en Sir?,Так где офицер Чэнь?
+line-204,近卫局成员,陈sir在组织城区防线，要把敌人封锁在本城区内一网打尽。,She's is organizing a defensive line for the urban districts. She's going to block off the enemy and wipe them all out.,"Офицер Чэнь организует оборону сектора, хочет заблокировать врага здесь и уничтожить всех одним махом."
+line-206,鬼姐,这些东西根本不知道从哪儿冒出来的，她凭什么觉得这样就能一网打尽？,These things just popped out of nowhere. What makes her think that this would be the way to get rid of them all?,"Этих тварей непонятно откуда вываливается бесконечно, с чего она взяла, что так получится уничтожить их всех разом?"
+line-208,近卫局成员,这是魏长官的判断。,This is what Chief Wei determined.,Это решение господина Вэй.
+line-210,鬼姐,你们近卫局紧张成这样还是让敌人钻了空子，我怎么相信你们的判断？,How am I supposed to trust your judgment when you're so on edge you're slipping up left and right?,"Вы, сотрудники L.G.D., так напряжены, и всё равно позволили врагу воспользоваться лазейкой. Как я могу доверять вашим суждениям?"
+line-212,近卫局成员,......,........,......
+line-214,鬼姐,该死，头还是昏昏沉沉的......喂！最后一个问题！,"Ugh, I'm still dizzy.... Hey! One last question!","Черт, голова всё ещё гудит... Эй! Последний вопрос!"
+line-216,近卫局成员,我没有义务回答普通民众，近卫局只要执行魏长官的命令。,I have no obligation to answer to the general public. The L.G.D. is here to follow Chief Wei's orders.,Я не обязан отвечать гражданским лицам. L.G.D. выполняет только приказы господина Вэй.
+line-218,鬼姐,不是，我是问近卫局平时都会和什么人打交道？乌萨斯人还是姜齐城那儿来的人？,"I just wanna ask, is the L.G.D. out there rumbling with people from Ursus, or like Yan folk from Jiangqi? Maybe some other heavy drinkers I'm forgetting?","Нет, я спрашиваю, с кем обычно имеет дело L.G.D.? С урсусами или с приезжими из Цзянци?"
+line-219,鬼姐,还是平时拿酒当水喝？,Or are you guys running around with hooch in those canteens instead of water?,Или вы привыкли пить спиртное вместо воды?
+line-221,近卫局成员,呃......这我真没法回答你，而且我真的不知道......,"Uh.... I can't really answer that, and I really don't know....","Э-э... Я действительно не могу вам ответить, к тому же я правда не знаю..."
+line-223,鬼姐,嘁，居然被姓陈的喝倒一次，奇耻大辱。,Ugh. I'm just trying to live down the shame of a certain Ch'en drinking me under the table.,"Пф, проиграть в попойке девице по фамилии Чэнь — это же несмываемый позор."
+line-224,鬼姐,振作点！准备热身运动了！,Pull yourself together! Do some stretches!,Соберись! Время размяться!
+line-226,近卫局成员,我们不需要普通民众插手——,We don't want the general public involved...,Нам не нужно вмешательство гражданских лиц —
+line-236,兵俑,————,————,————
+line-241,鬼姐,唔，头疼，还是要醒醒酒......你刚才说了什么？,"Gah, my head... Gotta sober up... What did you just say?","М-м, голова болит, надо бы протрезветь... Что ты только что сказал?"
+line-243,近卫局成员,呃。我说，但是，也没必要刻意拒绝热心市民的帮助......,"Erm. I said, well... I guess there's no need to turn down help from upstanding citizens....","Э-э. Я сказал... ну, впрочем, не стоит специально отказываться от помощи неравнодушных граждан..."
+line-250,近卫局成员A,热源失踪了，仪器没法追踪吗？,We lost the heat source. Can't our instruments trace it?,"Источник тепла пропал, приборы не могут отследить его?"
+line-252,近卫局成员B,不、不行！常规监测不生效，只能通过气温来勉强判断位置，滞后性严重！,"No, no, no! Conventional monitoring doesn't work. It only uses temperature to determine a rough location, and with severe lag!","Н-не получается! Обычный мониторинг не работает, приходится полагаться на температуру воздуха, а это дает слишком большую задержку!"
+line-254,近卫局成员A,接到各小队联络，敌人凭空出现在市区，依旧没有任何源石技艺的痕迹！,"Receiving reports from all squads, the enemy appeared out of nowhere in the city. Still no trace of Originium Arts!","Получены сообщения от всех отрядов: враги появляются в городе буквально из ниоткуда, и при этом никаких следов воздействия Ориджиниумных искусств!"
+line-256,近卫局成员B,先像之前一样击溃他们——,Let's rout them like we did before...,"Сначала разбейте их, как раньше —"
+line-258,近卫局成员A,接、接到联络，兵俑的性状再次发生变化，他们——他们——,"C- contact. The Terracottas are changing again, they—— they——","П-получено сообщение: характеристики терракотовых воинов снова изменились, они... они..."
+line-260,魏文月,......敌人怎么了？,...What happened?,......Что с врагами?
+line-262,近卫局成员A,魏长官！他们开始掌握使用武器的技巧，更重要的是交战中发现了明显的个体差异......,"Chief Wei! They've started learning to use weapons and, more importantly, contact with the enemy reveals unique traits in each individual....","Господин Вэй! Они начали осваивать технику владения оружием, и, что более важно, в бою стали заметны явные индивидуальные различия..."
+line-263,近卫局成员A,就好像，他们真的是活生生的人——,It's as if they're really living people——,Как будто они и правда живые люди —
+line-265,近卫局成员B,这不可能！怎么做到这么逼真的幻象？一定有施术者！让斥候小队去找！,Impossible! Who could make such a realistic illusion? There must be a caster! Send out a scout team to find them!,Это невозможно! Как можно создать столь реалистичную иллюзию? Должен быть заклинатель! Отправьте разведчиков на поиски!
+line-267,近卫局成员A,他们甚至能熟练敲碎我们的制式装备！你还把他们当假的吗？他们不是幻象，是实体！,"They've taken out our equipment! You still think they're fake? They're not illusions, they're real!","Они даже могут умело ломать наше штатное снаряжение! Вы всё еще считаете их подделками? Это не иллюзии, это материальные сущности!"
+line-269,近卫局成员B,但......可，这......这完全说不通！,But..... But this.... It doesn't make any sense at all!,Но... но это... это совершенно не поддается логике!
+line-270,,真是乱作一团啊。;......;有什么我能帮得上忙的吗？,What a mess.;......;Is there anything I can do to help?,Настоящий хаос. ;......; Могу ли я чем-то помочь?
+line-273,魏文月,......多谢好意，但是不劳您费心了。,"......Thank you for the kind words, but you need not trouble yourself.","......Благодарю за доброту, но не стоит беспокоиться."
+line-274,魏文月,您还要负责调度在城区内协助近卫局的罗德岛干员们，那是对我们最大的助力。,"You've dispatched Rhodes Island's operators to assist the L.G.D. in securing the urban districts, and that is the greatest of help to us.","Вам еще нужно заниматься координацией операторов Rhodes Island, которые помогают L.G.D. в городе, это для нас величайшая помощь."
+line-276,雪雉,魏长官在吗——啊唔！,Is Chief Wei here——? Ahem!,Господин Вэй здесь? — А-у-э!
+line-277,雪雉,抱、抱歉！我不是故意的！您、您是......,"I'm sorry! I didn't mean to...! You, you're....","П-простите! Я не хотела! Вы, вы..."
+line-279,魏文月,罗德岛制药公司的......合作方的指挥官，暂且这么理解吧。我们称他为博士。,"The leader of our partner organization, Rhodes Island Pharmaceuticals. I believe we can put it that way for now. 'Doctor' is the appropriate form of address.","Командир нашей партнерской организации, фармацевтической компании Rhodes Island. Пока можно понимать это так. Мы называем его Доктор."
+line-281,雪雉,非非非常抱歉博士！还有魏长官，外面这是怎么了？,"S-s-s-s-so sorry, Doctor! And Chief Wei, what's going on outside?","О-очень извиняюсь, Доктор! И господин Вэй, что происходит снаружи?"
+line-283,近卫局成员,“兵俑”的所有情报，已经通过终端同步给所有近卫局成员了。,All information on the 'Terracottas' has been disseminated to all members of the L.G.D. through the terminal.,Вся информация о «терракотовых воинах» уже синхронизирована с терминалами всех сотрудников L.G.D.
+line-285,雪雉,啊，抱歉，我忘了还有这回事了——,"Oh, I'm sorry, I forgot there was such a thing...","А, прошу прощения, я забыла об этом —"
+line-286,雪雉,——,——,—
+line-287,雪雉,还、还是无法捕捉到那个热源吗？这怎么看都太可疑了......,It- it still isn't finding that heat source? This is very strange....,Всё еще не удается обнаружить тот источник тепла? Это выглядит крайне подозрительно...
+line-289,近卫局成员,不行......龙门全域的气温已经开始回升，使用热成像已经没有任何意义了，所有探测器都无法发现热源本体——,Uh oh.... Temperatures rising throughout Lungmen. We can't use thermal imaging. None of our instruments can detect the heat source itself——,"Никак... Температура по всему Лунмэню начала расти, использовать тепловизоры стало бессмысленно, ни один датчик не может обнаружить источник тепла —"
+line-290,近卫局成员,而且尚不能确认“兵俑”是否和热源有直接联系，抽调人手的话很可能导致防线崩溃，得不偿失。,We can't confirm that the 'Terracottas' are directly connected to the heat source. And it is likely that the defensive line will collapse if we reallocate manpower.,"Более того, еще не подтверждено, имеют ли «воины» прямую связь с источником тепла. Если отозвать людей, это может привести к обрушению линии обороны, риск не оправдан."
+line-292,雪雉,呃......,Um....,Э-э...
+line-293,雪雉,那反过来看不就好了？,Wouldn't it be better to look at it the other way around?,А что если посмотреть на это с другой стороны?
+line-295,近卫局成员,什么？,What?,Что?
+line-297,雪雉,就是说，把城区内所有源石驱动的器械功率全部开到最大，然后再监测哪里“没有源石反应”不就能......,"Like, what if we took all the Originium-powered equipment in the city and turned it to max, then look for wherever we *don't* detect an Originium reaction...?",ориджиниум
+line-299,近卫局成员,......,........,......
+line-301,雪雉,对、对不起，我瞎说的，其实这不是我的专业领域......,"S- sorry, I was out of line. This isn't really my wheelhouse....","П-простите, я ляпнула не подумав, это на самом деле не моя область специализации..."
+line-303,近卫局成员A,不......这样好像真的可行！喂，近卫局有权直接调配的设备有多少？,"No... That's just crazy enough to work! Hey, how much equipment does the L.G.D. have the authority to deploy directly?","Нет... кажется, это действительно может сработать! Эй, сколько у нас есть оборудования, которым L.G.D. может распоряжаться напрямую?"
+line-305,近卫局成员B,你要是把民用的也算上，那可多了去了。,It's a lot more if you include civilian ones.,"Если считать и гражданское оборудование, то предостаточно."
+line-307,近卫局成员A,但是如果要过载运转，等我们找到热源本体，整个龙门怕是会瘫痪一阵子......,"But if we have to overload everything, all of Lungmen will be paralyzed by the time we find the heat source...","Но если мы перегрузим систему, пока будем искать источник, боюсь, весь Лунмэнь на какое-то время парализует..."
+line-309,雪雉,瘫痪......？损失会有多少？,Paralyzed...? What kind of damages are we talking about?,Парализует...? Какими будут убытки?
+line-311,近卫局成员,我哪知道，几千万吧？,I don't know. Tens of millions?,"Откуда мне знать, ну, миллионов на несколько?"
+line-313,雪雉,——,——,—
+line-314,雪雉,不然还是算算算了吧......？,Maybe we'd b-b-b-better not do it...,"Может... может, всё-таки не будем...?"
+line-316,魏文月,不。就这么做。,No. Just do it.,Нет. Сделайте именно так.
+line-317,魏文月,自移动城邦相关的技术发达之后，年的出现频率也越来越少。我们缺乏了解“年”的机会。,Nian sightings have become less and less common since the development of nomadic city technology. We have not had the opportunity to study the 'Nian'.,С развитием технологий автономных городов случаи появления Нянь стали редкостью. У нас мало возможностей понять «Нянь».
+line-318,魏文月,只要能揭开“年”的秘密，哪怕只有冰山一角，近卫局也在所不辞。,"The L.G.D. will do whatever it takes to uncover the secret of the 'Nian,' even if it's just the tip of the iceberg.","Если удастся приоткрыть завесу тайны над «Нянь», пусть даже лишь на верхушку айсберга, L.G.D. сделает всё необходимое."
+line-319,魏文月,我相信雪雉的判断。,I trust Snowsant's judgment.,Я доверяю суждению Сюэчжи.
+line-321,雪雉,谢谢、但、但是我们是不是该做好预算再......,"Thanks, but, but shouldn't we make careful projections before....","Спасибо, но... может, сначала всё просчитаем и..."
+line-323,近卫局成员A,——！等等，4区防线被突破了！队长失联！,——! Sector 4's line has been breached! I can't raise the team leader!,"—! Погодите, линия обороны в 4-м секторе прорвана! Связь с командиром отряда потеряна!"
+line-324,近卫局成员A,其他地区的防线也陷入苦战！敌人的数量太多了！,Other lines have engaged! There are too many enemies!,Оборона в других секторах тоже ведет тяжелые бои! Врагов слишком много!
+line-326,魏文月,......,........,......
+line-335,近卫局联络员,各小队时刻保证无线电畅通，重复一遍，各小队时刻保证无线电畅通！,"All teams, keep the airwaves clear at all times. Repeat, all teams, keep the waves clear!","Всем отрядам поддерживать радиосвязь, повторяю, всем отрядам постоянно поддерживать радиосвязь!"
+line-336,近卫局联络员,动态编码每十分钟发送给各小队长！各小队以此确认身份！,Dynamic codes will be sent to team leaders every ten minutes! Use these to identify yourselves!,Динамические коды будут отправляться командирам отрядов каждые десять минут! Использовать их для подтверждения личности!
+line-338,轻浮的近卫局成员,靠北，砍完一个又冒出来一个，有完没完了！？,"Damn it, if it's not one thing it's another.","Черт возьми, рубишь одного — вылезает другой, этому будет конец?!"
+line-340,认真的近卫局成员,少抱怨！剩下的人都集合！伤员后撤，不要让他们冲破路障！,"Stop complaining! The rest of you, form up! Get the wounded back. Don't let them break through that barricade!","Хватит жаловаться! Остальные — в строй! Раненых в тыл, не дайте им прорвать баррикады!"
+line-342,兵俑,——,——,—
+line-344,轻浮的近卫局成员,啧，真是让人回想起一些不好的事情。,"Ugh, that really brings back some bad memories.","Тьфу, это заставляет вспомнить кое-какие неприятные вещи."
+line-346,认真的近卫局成员,他们在变强，但依旧比不上整合运动，更比不上战胜了整合运动的我们。,They're getting tougher. But they're no Reunion. And we beat Reunion.,"Они становятся сильнее, но им все еще далеко до «Воссоединения», и уж точно далеко до нас, победивших их."
+line-347,认真的近卫局成员,重整旗鼓！,Regroup!,Собраться!
+line-349,兵俑,——,——,—
+line-351,轻浮的近卫局成员,等等，你、你？,No... You- You...,"Подожди, ты, ты?"
+line-352,轻浮的近卫局成员,你是......不，你应该已经死了，你......,You're..... you're supposed to be dead....,"Ты ведь... нет, ты должен был погибнуть, ты..."
+line-354,认真的近卫局成员,蠢货！这只是个假货，不是你认识的那个感染者，啧！,"That's a fake, you moron! It's not that Infected. Come on!","Дурак! Это просто подделка, это не тот зараженный, которого ты знал, черт!"
+line-356,兵俑,——,——,—
+line-358,轻浮的近卫局成员,队、队长！,C- Captain!,Ко-командир!
+line-360,认真的近卫局成员,别*龙门粗口*犯傻，都是假的，假的！,Don't be *Lungmen profanity* stupid. They're all fakes! All of them!,"Не валяй дурака, это всё подделки, подделки!"
+line-362,轻浮的近卫局成员,我知道、我知道啊！但是战场上突然出现这些认识的人，我——,"I know, I know, I know! But to see them again, all of a sudden like this, I——","Я знаю, я знаю! Но видеть этих знакомых людей на поле боя, я —"
+line-364,认真的近卫局成员,这有什么！？我刚才都已经干掉你一次了！,You again?! I just killed you a second ago!,И что с того!? Я тебя только что одного уже прикончил!
+line-366,轻浮的近卫局成员,呃......？,Uh...?,Э-э...?
+line-368,认真的近卫局成员,你们就没人对同事不满的吗？多好的机会，都给我往死里打，咬紧牙关坚持住！,None of you have any issues to work out with your colleagues? This is a great opportunity! Dig in your heels and give 'em hell!,"У вас что, ни на кого из коллег нет обид? Какой шанс! Бейте изо всех сил, стисните зубы и держитесь!"
+line-369,认真的近卫局成员,防线不能再后退了，你想让他们冲进近卫局大楼吗！？,This is as far back as we go. Are you going to let them into L.G.D. HQ?!,"Линия обороны не должна отступить ни на шаг, хочешь, чтобы они ворвались в штаб L.G.D.?!"
+line-371,轻浮的近卫局成员,是！,Yes!,Есть!
+line-379,,龙门近卫局,Lungmen Guard Department,Департамент Охраны Лунмэня
+line-382,近卫局成员,在热成像上发现了区域异常，魏长官！！,Chief Wei! We've found an anomalous area on thermal imaging.,"Обнаружена аномалия в секторе на тепловизоре, господин Вэй!!"
+line-383,近卫局成员,热源已经锁定！行得通！,We've got a lock on the heat source! It worked!,Источник тепла зафиксирован! Это сработало!
+line-384,近卫局成员,但是我们拖不下去了......有部分敌人流窜进了封锁区之外的城区！,But we're out of time... Some of the targets have breached our defensive lines!,Но мы больше не выдерживаем... часть врагов прорвалась в городскую зону за пределами оцепления!
+line-385,近卫局成员,报、报告！我们收到了多个小队的求援信号！,Re- report! We're getting distress signals from multiple teams!,Д-доклад! Мы получили сигналы бедствия от нескольких отрядов!
+line-387,魏文月,陈警官呢？,Where's Officer Ch'en?,А где офицер Чэнь?
+line-389,近卫局成员,陈警官和罗德岛干员阿米娅顺利汇合，在迎击靠近近卫局的敌人！,Officer Ch'en met up with Rhodes Island operator Amiya and are currently engaging the enemy approaching the L.G.D.!,"Офицер Чэнь благополучно встретилась с Амией из Родоса и отражает атаку врагов, приближающихся к штабу ДОЛ!"
+line-390,,真不需要帮忙吗？;不如让我来搭把手？,You sure you don't need any help?;Why don't you let me give you a hand?,"Тебе действительно не нужна помощь? Может, мне стоит подсобить?"
+line-393,近卫局成员,......魏长官？,...Chief Wei?,......Господин Вэй?
+line-395,魏文月,龙门信任博士的能力，既然罗德岛干员已经加入战斗，他应当享有与陈警官平级的指挥权。,"Lungmen trusts the Doctor's abilities, and since Rhodes Island operators have joined the fight, the Doctor should enjoy command authority equal to that of Officer Ch'en.","Лунмэнь доверяет способностям Доктора. Раз уж оперативники Родос уже вступили в бой, он должен обладать командными полномочиями, равными полномочиям офицера Чэнь."
+line-396,魏文月,交给博士吧。,We'll leave it to the Doctor.,Оставьте это Доктору.
+line-398,近卫局成员,离开封锁区的敌人会伤害到普通民众，我们必须——,"The enemy moving outside the containment zones will harm the civilian population, we have to——","Враги, прорвавшиеся из зоны оцепления, навредят обычным гражданам, мы должны—"
+line-399,近卫局成员,等等，突然出现强烈的源石反应......沙尘暴？这、这是——,"Wait, we've picked up a strong Originium reaction.... a sandstorm? This, this is——","Подождите, внезапная вспышка энергии Ориджиниума... Песчаная буря? Это, что это—"
+line-400,近卫局成员,接到了特别通讯！是，是林警长！,Special transmission incoming! It- it's Inspector Lin!,"Принята экстренная связь! Да, это инспектор Линь!"
+line-402,近卫局成员,老林头不是退休七八年了吗！？他说了什么？,Hasn't Old Lin been retired for seven or eight years?! What's he saying?,Разве старик Линь не на пенсии уже лет семь-восемь!? Что он сказал?
+line-404,近卫局成员,他、他说他把溜出封锁区的敌人全部顺手扔进垃圾箱了......,He- he said he tossed all the enemies who slipped out of containment into a dumpster...,"О-он сказал, что всех врагов, сбежавших из оцепления, он мимоходом отправил в мусорные баки..."
+line-405,近卫局成员,那个，他还有留言要给魏长官......,"And, he still has a message for Chief Wei....","Э-э, у него есть сообщение для господина Вэя..."
+line-407,魏文月,......林警员是近卫局的英雄，我们应当尊重他的意见。,...Officer Lin is a hero of the L.G.D. and we should respect his opinion.,"......Инспектор Линь — герой нашего Управления, мы должны уважать его мнение."
+line-409,近卫局成员,是！,Yes!,Есть!
+line-413,退休老人,魏老大啊，最近新来的还行不行了？就这也放得出来？批个许可把我和魏老二扔进去算了，我保证十分钟内结束。,"Big Wei, how are the greenhorns? Is this how they're doing things? Why not make a special dispensation, throw me and Little Wei into the ring and I promise we'll have this done in under ten minutes..","Вэй, старина, что, нынешние новички совсем ни на что не годятся? Их и выпускать-то нельзя? Дай разрешение, и выбрось меня с Вэй-вторым внутрь, я гарантирую, что закончу всё за десять минут."
+line-415,近卫局成员,......,........,......
+line-417,魏文月,......,........,......
+line-419,近卫局成员,......魏长官？,........Chief Wei?,......Господин Вэй?
+line-421,魏文月,......呵，真怀念我们都还年轻的时候。,"........Heh, I miss those days, when we were all young.","......Хех, как же приятно вспомнить времена, когда мы были молоды."
+line-422,魏文月,但近卫局还没有落魄到依赖他们的时候。联系陈警官，也劳烦博士指挥罗德岛的干员们。,"But the L.G.D. hasn't fallen so far that we need to rely on those two. Contact Officer Ch'en, and let us trouble the Doctor to command the Rhodes Island operators.","Но Управление еще не докатилось до того, чтобы полагаться на них. Свяжитесь с офицером Чэнь, а также попросите Доктора скоординировать действия оперативников Родос."
+line-423,魏文月,该反击了。,Time to fight back.,Пора нанести ответный удар.
+line-432,退休老人,你看吧，果然是你写的春联不太吉利。刚才我看见好几个不该活着的人。,I told you the New Year's couplets you wrote were inauspicious. Just now I saw several faces who should not be alive.,"Видишь? Я же говорил, твои парные надписи не к добру. Только что я видел нескольких человек, которые не должны быть живы."
+line-434,普通市民魏先生,这怪我？还有说了多少遍了，不要当着同事的面叫以前的花名。,That's my fault now? And how many times have I told you not to use those old pet names in front of the men?,"Я виноват? И сколько раз я говорил, не называй меня старым прозвищем при подчиненных."
+line-436,退休老人,饺子包啥馅一般是谁说了算？,Who is it who wears the pants around here?,"Кто обычно решает, какая начинка будет в пельменях?"
+line-438,普通市民魏先生,......,........,......
+line-440,退休老人,那不得了。她是老大啊。,Right. That's why *she's* Big Wei.,Ну вот и всё. Она там главная.
+line-442,普通市民魏先生,随你便吧，那现在怎么办？,Whatever. So what do we do now?,Как знаешь. И что теперь делать?
+line-444,退休老人,唉，没想到我有生之年还能再见识到一次年关。,"Well, I never thought I'd live to see another Nian.","Эх, не ожидал, что доживу до еще одного «года»."
+line-446,普通市民魏先生,想起我们当差的日子了？,Reminiscing about our days on the force?,Вспомнил наши будни на службе?
+line-448,退休老人,不，反正女儿也不在家，回了家也没意思。,No. And my daughter isn't even home. There's no point in heading back there.,"Нет. Всё равно дочери нет дома, возвращаться — толку ноль."
+line-449,退休老人,看看这次又有什么新花样吧。保护普通民众的职责可与我们的身份无关。,"Let's see what they've got in store this time around. No matter who we've become, our duty to protect the people hasn't changed.","Посмотрим, что они учудили на этот раз. Наш долг защищать простых граждан не зависит от наших званий."
+line-457,近卫局成员,......唔，胳膊没知觉了......该死......,...Nng... I can't feel my arms... Shit...,"......Ух, рука онемела... Проклятье..."
+line-458,近卫局成员,这些东西，怎么好像在逐渐变强......,"These things, why do I feel like they're getting stronger....?",Эти твари... почему они как будто становятся сильнее...
+line-462,兵俑,——,——,——
+line-474,近卫局成员,什么？,What?,Что?
+line-476,行侠仗义第一人,怎么回事？这些人怎么总是一言不发就冲上来？,What's going on? Why are these people charging us without so much as a word?,Что происходит? Почему эти люди всегда нападают без единого слова?
+line-478,地下怪医,槐琥姐啊，你一脚把人家踹得连形都没了，恐怕不是“人”哦？,"I think you've got it a bit twisted, Waai Fu. I'm afraid these aren't quite 'people,' you know?","Сестрица Хуайху, ты их пинаешь так, что они форму теряют. Ты уверена, что они «люди»?"
+line-479,地下怪医,应该是幽灵之类的吧？,"They're more like ghosts, or something?","Может, это призраки?"
+line-481,行侠仗义第一人,幽、幽灵之类的才不会这么好对付吧，应该不会吧？,"G- ghosts or whatever wouldn't go down this easy, would they?","П-призраков ведь не так легко одолеть, правда? Надеюсь, это не они..."
+line-483,事务所全职保安,传说年关将至，会有各种怪物昼伏夜出，祸害百姓，大概就是这么回事吧。,"Legend has it that as the New Year approaches, all kinds of monsters will come out to plague the people. Could be something like that.","Ходят легенды, что с приближением «года» появляются разные чудища: днем прячутся, ночью вредят людям. Скорее всего, это как раз оно."
+line-485,行侠仗义第一人,怪物也是看得见摸得着的！和幽灵也是不一样的！,Monsters can be seen and touched! Ghosts can't!,"Чудовища хотя бы осязаемы! Это совсем не то, что призраки!"
+line-487,事务所全职保安,就算你这么反驳，但你的确一脚就把他踢没影了啊......,"You say that, but he vanished right as you kicked him...","Даже если споришь, ты ведь только что ударом ноги отправила его в небытие..."
+line-489,行侠仗义第一人,......,........,......
+line-491,地下怪医,嗯？干嘛突然要拉着我们俩？槐琥姐，你表情有点僵硬哎。,"Huh? Where are you pulling us all of a sudden? And you're looking kind of stiff, Waai Fu.","М? Чего вдруг схватила нас обоих? Сестрица Хуайху, у тебя лицо какое-то застывшее."
+line-493,行侠仗义第一人,壮胆。,Take heart.,Для храбрости.
+line-495,近卫局成员,你们——普通市民，应该去指定城区避难，不该在这里逗留！,You civilians should be in your designated evacuation zone. It isn't safe here!,"Вы... обычные граждане, должны эвакуироваться в специальный район, вам здесь не место!"
+line-497,地下怪医,可是阿sir你伤的很重，右臂骨折，失血过多。从这儿到近卫局起码一个半小时步程，我怕你扛不住哦？,"You're hurt, Ah Sir. Your right arm is broken and you've lost a lot of blood. It's at least an hour and a half walk from here to the L.G.D. Can you handle it?","Но офицер, вы тяжело ранены: перелом правой руки, сильная кровопотеря. Отсюда до Управления идти минимум полтора часа, боюсь, вы не дотянете."
+line-499,近卫局成员,呃......我没事......,Ugh.... I'm fine....,Э... я в порядке...
+line-501,事务所全职保安,阿，你该不会......,"Aak, you better not...","Эй, ты что, хочешь..."
+line-503,地下怪医,实不相瞒，我出身医学世家，自幼将救死扶伤视为己任。察觉到街上的动静，我这就立刻赶来看看，有没有帮得上忙的地方——,"If I might speak freely, I come from a long line of doctors. And since childhood I have taken it upon myself to save lives and care for the wounded. Whenever I encounter some excitement on the street, I always rush to see if I can be of aid——","Не буду скрывать, я из семьи врачей, с детства спасение жизней — мой долг. Услышав шум на улице, я тут же примчался посмотреть, могу ли я помочь—"
+line-505,近卫局成员,你、你想做什么？,W- what are you doing?,"Ты, что ты задумал?"
+line-507,地下怪医,——止血，包扎，药物麻痹，重焕新生。,"——Stopping your bleeding, dressing the wound, applying anaesthetic, giving you a whole new lease on life.","—Остановка крови, перевязка, медикаментозное обезболивание, второе дыхание."
+line-509,事务所全职保安,最后一件事是不是有点不太对劲？,That last one sounds a bit overboard.,Последний пункт — это не слишком подозрительно?
+line-511,地下怪医,我有分寸啦，来来来，阿Sir，免费治疗的机会可不多。,"It's under control. Come now, Ah Sir, how often do you get a shot at free health care?","У меня всё под контролем. Давай-давай, офицер, шанс на бесплатное лечение выпадает нечасто."
+line-513,近卫局成员,感谢你的好意，但你太可疑——疼！不要随便碰，喂！,"I really appreciate it, but there's something off about y——OW! Hands off! Hey!","Спасибо за доброту, но ты слишком подозрителен... Ай! Не трогай меня просто так, эй!"
+line-514,近卫局成员,这是什么药？你有证件吗？出示你的证件，否则——,"What was that drug? Are you licensed? Show me your papers, or else——","Что это за лекарство? Есть ли у тебя лицензия? Покажи удостоверение, иначе—"
+line-515,近卫局成员,——啊。,——Ah.,—А.
+line-516,近卫局成员,欸、欸？真的不痛了......？,"Heh, heh? The pain's actually gone...?",Э-эй? И правда не болит...?
+line-517,近卫局成员,而且怎么还有一股子水果味......,And what's that fruity smell....?,И почему от него пахнет фруктами...
+line-519,地下怪医,西瓜味新品，恭喜你成为第一位客户！,The new stuff is watermelon flavored. Congratulations on being the first to try it!,"Новинка со вкусом арбуза, поздравляю, ты мой первый клиент!"
+line-521,事务所全职保安,注射剂为什么要做成西瓜味的？,Why would you have watermelon flavored injections?,Почему инъекции должны быть со вкусом арбуза?
+line-523,地下怪医,说正经的，疼痛减轻只是你身体上的错觉，血止住了，安然无恙地回到近卫局肯定没问题。,"Honestly, the pain relief is just a placebo effect. Your bleeding has stopped, and you'll certainly have no trouble returning to the L.G.D. in one piece.","Если серьезно, уменьшение боли — это иллюзия организма, кровь остановлена, до Управления точно доберешься без проблем."
+line-524,地下怪医,在那之后记得接受正式的治疗，简单的清创并不能解决问题，根本不知道造成创口的物质是什么。,"Once there, do remember to get formal medical treatment, as a simple debridement will not solve the problem, and there is no way to know what substance caused the wound.","После этого не забудь пройти официальное лечение. Простая обработка раны не решает проблему, мы даже не знаем, что именно нанесло такие повреждения."
+line-526,事务所全职保安,......你这是承认自己不正式？,........Did you just admit you're informal?,"......Ты сейчас признался, что ты неофициальный врач?"
+line-528,地下怪医,这叫应急！,This is an emergency!,Это называется экстренная помощь!
+line-529,地下怪医,阿sir，起来吧，没事了。,"Let's get you up, Ah Sir. You're all right.","Офицер, вставай, всё хорошо."
+line-531,西瓜味的近卫局成员,好像真的没事了......,I really do feel all right...,"Кажется, правда прошло..."
+line-532,西瓜味的近卫局成员,非常感谢，等战斗结束，我会向上司报告这次协助！,"Thank you very much, and I'll report this assistance to my superiors when the battle is over!","Огромное спасибо, после окончания боя я сообщу начальству об оказанной помощи!"
+line-534,地下怪医,不用不用，不如说千万别汇报，阿Sir一路走好，慢走不送！,"No, no, no, let's not go reporting things. Safe travels, Ah Sir. Take care!","Не надо, не надо! Я бы даже сказал — не смей сообщать! Счастливого пути, офицер!"
+line-536,西瓜味的近卫局成员,......真是个怪人。,...What a weirdo.,......Ну и странный тип.
+line-538,地下怪医,呼！今天也做了一件好事啊！,Whew! And that's my good deed for the day!,Фух! И сегодня совершил доброе дело!
+line-539,地下怪医,三号实验肾上腺素试剂......有效......短期暂无不良反应......持续观察......有原理不明的西瓜气味......嗯，就这样！,"Experimental Epinephrine Reagent No. 3.... Effective..... No short-term adverse effects.... Continuous observation.... Smells of watermelon, origin unknown.... And that's that!","Адреналиновый реагент экспериментального образца №3... эффективен... краткосрочных побочных эффектов нет... продолжаю наблюдение... непонятный арбузный запах... ну, пусть будет так!"
+line-541,行侠仗义第一人,原理不明吗。,Origin unknown?,"Непонятный, говоришь?"
+line-543,地下怪医,试了管用，用完没死，就是好药！,"Tried it, it worked, it didn't kill anyone, that's what I call good medicine!","Раз работает и пациент жив — значит, хорошее лекарство!"
+line-545,行侠仗义第一人,幸好生效了，否则就只能把你打晕交给近卫局平息事态了。,"Good thing it worked, or we'd have to knock you out and hand you over to the L.G.D. to calm things down.","Хорошо, что подействовало, а то мне пришлось бы вырубить тебя и сдать Управлению, чтобы утихомирить ситуацию."
+line-547,事务所全职保安,那些幽灵好像在四处捣乱，这就是老鲤突然要我们来外边逛逛的原因？,Those ghosts are making trouble all over the place. Is that why Mr. Lee had us out on the street all of a sudden?,"Эти призраки, кажется, бесчинствуют повсюду, вот почему старик Ли решил, что нам стоит прогуляться снаружи?"
+line-549,行侠仗义第一人,虽然不想放任他们胡作非为，但如果是幽、幽灵的话实在是......拳脚碰不到就没办法了吧？,"I definitely don't want to give up the streets to them, but if it's g-g-g-ghosts.... What can you do? You can't punch or kick them.","Не то чтобы я хотела позволить им бесчинствовать, но если они — п-призраки, то это... раз кулаки не достают, ничего не попишешь, так ведь?"
+line-551,地下怪医,可你刚才——,But you just——,Но ведь ты только что—
+line-553,行侠仗义第一人,幽灵是没法用拳脚解决的！所以解决不了！不行！做不到！,You can't fight a ghost with your fists! It can't be done! No way! I can't do it!,"Призраков не решить кулаками! Значит, не решить! Не выходит! Невозможно!"
+line-555,地下怪医,你明明一下就解决了啊......,You were doing that literally two minutes ago...,Ты же буквально только что их решила...
+line-556,地下怪医,哎~算了，正好我最近都没什么私活，那就放着他们制造患者好了呗？,"Well, I've been short of work lately, so why not just leave them to make some patients?","Эй~ ладно, всё равно у меня последнее время заказов мало, пусть себе плодят пациентов?"
+line-557,地下怪医,修自行车的人一般都是会去街上撒钉子的。,Like a bicycle repairman who leaves nails out on the street.,Ремонтники велосипедов обычно сами же разбрасывают гвозди на улицах.
+line-559,事务所全职保安,做太多缺德事会遭报应的。,Keep going down the path of wickedness and you'll get what's coming to you.,"Если делать слишком много зла, возмездие настигнет."
+line-561,地下怪医,我认识那么多该遭报应的人都还安然无恙，说明遭报应还没轮到我，不着急。,"I'm not worried. I know far too many happy, healthy people who've earned a comeuppance. My turn is a long way off.","Я знаю кучу людей, которые заслужили наказание, но до сих пор живут припеваючи. Значит, моя очередь еще не подошла, не спешу."
+line-562,地下怪医,话说，吽啊，你对“年”到底是什么不好奇吗？,"By the way, Hung, aren't you curious about the 'Nian'?","Кстати, Хунь, тебе не любопытно, что такое «год»?"
+line-564,事务所全职保安,只要大家都平平安安的就好。,I just want everyone to be safe and sound.,"Главное, чтобы все были в безопасности."
+line-566,地下怪医,好！没！意！思！那槐琥姐呢？想不想偷偷溜进封锁区看一眼？,You're! So! Dull! What about Waai Fu? Want to sneak into the containment zone and take a look?,Ску-ко-ти-ща! А что насчет сестрицы Хуайху? Не хочешь тайком пробраться в зону оцепления и взглянуть?
+line-568,行侠仗义第一人,我不拦你，但是会一五一十地告诉老鲤。,"I won't stop you, but I'll tell Mr. Lee all about it.","Я тебя не держу, но выложу всё как есть старику Ли."
+line-570,地下怪医,你不想和活生生的传说打一架？噗！啪！砰！拳拳到肉！我听说“年”是一只肉身坚韧的嗜血魔物，绝对不是那种看不见摸不着的玩意！,"Don't you want to go toe to toe with a literal legend? Bam! Pow! Bang! Uppercut! I've heard the Nian is a tough, bloodthirsty demon. One you can actually see and touch!","Неужели тебе не хочется подраться с живой легендой? Пух! Бах! Прямо по туше! Я слышал, что «год» — это кровожадный монстр с крепким телом, это точно не какая-то там невидимая ерунда!"
+line-571,地下怪医,啊。如果你打赢了年，你那个追寻武道极致的老爹说不定也会愿意和你过过招，然后父女二人以武交心，又是一桩美谈......,"Ah. And if you defeat the Nian, your old man, in pursuit of the ultimate truth of martial arts, would finally be willing to fight you. And then, at long last, father and daughter communicate with their fists, reconciling once and for all! What a beautiful story....","Ах. Если ты победишь Нянь, возможно, твой отец, ищущий совершенства в боевых искусствах, тоже захочет помериться с тобой силой. И тогда отец и дочь смогут понять друг друга через битву — вот это была бы история..."
+line-573,行侠仗义第一人,............,.................,............
+line-575,地下怪医,哎，槐琥姐，我随口乱说的，你别当真啊......喂，槐琥姐，你去哪儿......糟！吽！快拦住她！,"Hey, Waai Fu, I was just kidding, don't be like that.... Wait, Waai Fu, where are you going...? Oh, no! Hung! Stop her!","Эй, Хуаху, сестренка, я просто к слову сказал, не принимай близко к сердцу... Эй, Хуаху, куда ты... Черт! Хун! Быстрее останови ее!"
+line-583,小孩子,——妈妈？,——Mom?,— Мама?
+line-585,兵俑,......,........,......
+line-587,小孩子,叔叔......你有看见我的妈妈吗？,Mister.... Have you seen my mom?,Дяденька... вы не видели мою маму?
+line-588,小孩子,叔叔？,Mister?,Дяденька?
+line-590,兵俑,......,........,......
+line-593,小孩子,——唔，好烫！,"——Mmh, hot!","— Ой, горячо!"
+line-595,小孩子,嗯？,Huh?,М?
+line-596,小孩子,姐姐，刚才那个叔叔呢？,"Lady, where did that man go?","Сестренка, а куда делся тот дяденька?"
+line-600,？？？,那种一言不发还全副武装的家伙，不太适合幼崽靠近哦？,"It's probably not a good idea to let a guy like that, silent and armed to the teeth, around kids, huh?","Таким парням, что молчат и при полном вооружении, лучше не приближаться, малыш."
+line-602,小孩子,可是妈妈告诉我，迷路了要找警员......,But Mom told me to find a policeman if I got lost...,"Но мама говорила, что если потеряешься, надо искать полицейского..."
+line-604,？？？,妈妈说的话也不一定要全听。,You don't have to do everything your mom says.,"Не обязательно слушать всё, что говорит мама."
+line-606,小孩子,可是......,But...,Но...
+line-608,？？？,行啦行啦，没什么可是，街上现在正在举行新世纪斗殴盛典，赶紧躲到其他地方去。,"No buts, little one. We've got the battle of the century going on out here. You run along and play somewhere else.","Ладно-ладно, никаких «но». На улице сейчас проходит «Фестиваль драк нового века», беги куда-нибудь в другое место."
+line-610,小孩子,唔，好吧......谢谢姐姐！,"Um, okay.... Thank you, lady!","Хм, ладно... Спасибо, сестренка!"
+line-612,？？？,真听话哈。,What a good kid.,Послушный ребенок.
+line-613,？？？,......,......,......
+line-615,？？？,......,......,......
+line-616,？？？,嗯......,Hmmm...?,Хм......
+line-617,？？？,一般来说，看见这样一幅温馨感人的画面，你不应该想着“啊，也许她不是个坏人”，然后放下手里的匕首吗？,"Isn't a sweet little show like that supposed to make you think, 'Oh, maybe she's not so bad,' and lower the dagger?","Обычно, увидев такую трогательную и милую сцену, не стоит ли подумать: «А может, она не такая уж плохая», а затем опустить кинжал?"
+line-624,？？？,一般来说，也不会有人能靠一己之力让整个龙门近卫局疲于应对。,Is one woman supposed to be able to wear out the entire L.G.D.?,Обычно также никто не способен в одиночку заставить всю Стражу Лунмэня сбиться с ног.
+line-626,？？？,开门见山嘛，我喜欢这么直接。你不太像是普通将士嘛，怎么称呼？,"I'm not one to mince words, so let's get right to it. You're no ordinary warrior. What's your name?","Ближе к делу, мне нравится такая прямота. Ты не похожа на обычного солдата, как тебя зовут?"
+line-628,炎熔,炎熔。,Lava.,Лава.
+line-630,？？？,现代人怎么回事，听着这么奇怪，那不是你的名字吧？,What's with people these days? That can't be your name. It's too weird.,"Что с нынешними людьми? Странно звучит, это ведь не твое имя?"
+line-632,炎熔,代号而已。,It's my codename.,Всего лишь позывной.
+line-634,？？？,那可真是麻烦，名字本来不就是代号的一种？强调自己作为生物个体的独立性有那么重要吗？,That's kind of a pain. What's the difference between a name and a codename anyway? Is it really so important to express your identity as an independent organism?,Вот же морока. Разве имя — не разновидность позывного? Неужели так важно подчеркивать свою индивидуальность как биологического существа?
+line-636,炎熔,是你先开口问的吧！,You're the one who asked!,Ты ведь сама первая спросила!
+line-637,炎熔,况且你的确理解不了我们，“年”。,"Besides, there's no way you could understand us, 'Nian'.","К тому же, тебе нас точно не понять, «Нянь»."
+line-639,年,喔，你一下就认出我来了啊。,"Wow, you recognized me right away.","О, ты так быстро меня узнала."
+line-640,年,虽然过去的确有这么称呼我的，可我总感觉“年”不够帅，能不能换个名字？和你差不多的那种。,"That's what they used to call me, but I don't think 'Nian' is cool enough. Can we change it? I want a badass codename like 'Lava.'","Хотя в прошлом меня так называли, мне всегда казалось, что «Нянь» звучит недостаточно круто. Может, заменим на другое имя? Что-нибудь похожее на твое."
+line-642,炎熔,......你跑不掉的，近卫局已经找到了追踪你的办法。,"...You won't get away, the L.G.D. can track you.",......Тебе не сбежать. Стража уже нашла способ отследить тебя.
+line-644,年,其实我也没一定要跑嘛，来吧，铁皮玩偶们。,"I don't have to run. Come, Tinmen.","На самом деле я и не собиралась убегать. Ну, давайте, консервные банки."
+line-649,兵俑,......,........,......
+line-651,炎熔,这就是你从龙门中央数据库里取得的武器。,This is the weapon you took from the Lungmen central database.,"Это оружие, которое ты украла из центральной базы данных Лунмэня."
+line-652,炎熔,这种脆弱的假象，有什么意义？,What can you do with such weak illusions?,Есть ли хоть какой-то смысл в этой хрупкой иллюзии?
+line-663,年,唔哦——用匕首划开了空间？这种法术我还是第一次见，好像有点酷！,Oooh - you cut through the air with a dagger? I've never seen Arts like that before. Pretty badass!,"Ну ничего себе — разрезать пространство кинжалом? Впервые вижу такую магию, кажется, это довольно круто!"
+line-665,炎熔,多谢夸奖，想学吗？,Thanks for the compliment. Should I teach you?,"Спасибо за комплимент, хочешь научиться?"
+line-673,年,嚯嚯——不赖。,Ho ho ho——not bad.,О-хо-хо — неплохо.
+line-674,年,见到这座能够移动的大都市的时候，我就挺惊喜的了。你们也能做出一些有趣的东西嘛。,I didn't expect to see a massive moving metropolis. You people have some tricks up your sleeves.,"Когда я впервые увидела этот передвигающийся мегаполис, я была приятно удивлена. Оказывается, вы тоже можете создавать интересные вещи."
+line-675,年,还有你的法术，嗯，以前我从没见过如此娴熟的实用方法。,"And your Arts, well, I've never seen such a skillful and practical approach before.","А твоя магия... хм, раньше я не видела столь искусного и практичного применения."
+line-676,年,真让人欣慰，我还以为你们不会进步多少。,It's a relief. I was afraid you wouldn't have made much progress.,"Это действительно радует. Я уже начала думать, что вы почти не прогрессируете."
+line-678,炎熔,你利用那些记录和数据，制造了整合运动和近卫局士兵的幻影。,You used the data in those records to create illusions of Reunion and the L.G.D.,"Ты использовала записи и данные, чтобы создать фантомов оперативников «Воссоединения» и Стражи Лунмэня."
+line-679,炎熔,你的能力与源石技艺截然不同，但骗不过我，只要了解了你的行动模式，困扰了龙门成百上千年的怪物也不过如此。,"Your power is not like Originium Arts, but you can't fool me. Now that I have you figured out, the monsters that have plagued Lungmen for centuries will be no more.","Твои способности в корне отличаются от искусств ориджиниума, но меня не обмануть. Стоит понять твой алгоритм действий, и этот «монстр», мучивший Лунмэнь сотни лет, окажется не таким уж страшным."
+line-681,年,你知道的好多啊。为啥？,You're a smart cookie. Where'd you come up with this stuff?,Как много ты знаешь. С чего бы это?
+line-683,炎熔,古老的记载，现代的推测，我一直在尝试了解你们。,I've been combing ancient records and modern papers in a quest to understand you.,"Древние летописи, современные гипотезы — я всегда пыталась понять таких, как вы."
+line-685,年,什么？就是说在我睡大觉的这么多年，你一直在恶补有关我的小知识？,"Huh? So all the years I've been sleeping, you've been cramming trivia about me?","Что? То есть все те годы, пока я крепко спала, ты зубрила факты обо мне?"
+line-687,炎熔,差不多吧。,Pretty much.,Типа того.
+line-688,炎熔,我就是为了狩猎你和你的同类才被培养至今的。,I was born and bred to hunt your kind.,"Меня растили именно для того, чтобы выследить тебя и подобных тебе."
+line-690,年,欸？你是我的粉丝吗？,"Wha? So you're like, a fan of mine?","Э? Ты что, моя фанатка?"
+line-692,炎熔,......如果想要干掉你也算的话。,...If wanting to kill you counts.,"......Если считать желание прикончить тебя фанатством, то да."
+line-694,年,没想到还能遇到你这种人啊......在我自己都要忘了自己是谁之前。,I never thought I'd meet someone like you.... before I forgot myself.,"Не ожидала встретить такую, как ты... пока сама не начала забывать, кто я есть."
+line-695,年,哎呀，有点感动，快要掉眼泪了，过气明星偶遇老粉丝大概就是这个心态吧。怎么样？不如我们暂时休战，找一家酒吧好好聊一聊？,"Oh, honey, I'm touched. I'm on the verge of tears here. It's like I'm a forgotten has-been meeting an old fan. How about it? Why don't we call a truce and go get a drink?","Ох, я даже растрогалась, почти пустила слезу. Наверное, это именно то чувство, когда вышедшая в тираж звезда случайно встречает старого поклонника. Как насчет того, чтобы временно прекратить огонь и сходить в бар, поболтать?"
+line-696,年,等着......哎我又忘了他们叫什么了......哦对！等着近卫局逐步被压垮也太无聊了，总得想个办法打发打发时间。,"Since we're waiting for the Tinmen to overpower the... oh, what are they called again...? That's right! Since we're waiting for the Tinmen to beat down the L.G.D., we might as well find something to pass the time.","Ждать... я опять забыла, как они называются... а, точно! Ждать, пока Стражу Лунмэня постепенно раздавят, слишком скучно, нужно придумать, как убить время."
+line-698,炎熔,......根据记录，你们最近一次袭击龙门，已经是数十年前的事了。,"...According to the records, it's been decades since you last attacked Lungmen.","......Согласно архивам, последнее ваше нападение на Лунмэнь было десятки лет назад."
+line-699,炎熔,你对我们的进步一无所知，还觉得自己无所匹敌吗？,"You have no idea what we're capable of now, and you're still so sure of yourself?","Ты ничего не знаешь о нашем прогрессе, до сих пор считаешь себя непобедимой?"
+line-701,年,有吗？除了楼房更高了，没什么技术含量的铁块更多了，火锅越来越不够味儿了......,"What are you capable of? You've got taller buildings, a bit more metal in your machines, and your hot pot tastes worse...","Неужели? Если не считать того, что здания стали выше, появилось больше железных коробок без намека на технологию, а хого стал менее вкусным..."
+line-702,年,还有什么区别？你还能为我展示什么？,What should I be worrying about? What else can you show me?,Есть ли еще какая-то разница? Что еще ты можешь мне показать?
+line-704,炎熔,你好像很期待。,You seem to be looking forward to it.,"Ты, кажется, в предвкушении."
+line-706,年,我的确很期待嘛。,That I am.,Я правда в предвкушении.
+line-708,炎熔,你会理解的。你就当做这是......占卜的结果。,You'll see. Let's call it... divination.,Ты поймешь. Считай это... результатом гадания.
+line-710,年,现在还兴占卜那一套？平民百姓妄议天象，搁以前可是重罪啊。,"They're allowing divination these days? Time was, a commoner would be put to death for seeking knowledge of the heavens.","Сейчас всё еще в моде гадания? Простые смертные, рассуждающие о небесных знамениях — раньше это было тяжким преступлением."
+line-712,炎熔,占卜都算重罪的话，那我早就罪无可赦了。,"If divination's a crime, then I'm guilty as charged.","Если гадания — тяжкое преступление, то я давно уже безнадежный преступник."
+line-714,年,你......,You....,Ты...
+line-715,年,我对你的身份更好奇了，真不聊聊？,I'm even more curious about you. You sure you don't want that drink?,"Мне стало еще любопытнее, кто же ты такая. Точно не поболтаем?"
+line-717,炎熔,那就让那些东西停下。,Then make those things stop.,Тогда прикажи тем тварям остановиться.
+line-719,年,你是不是想说“束手就擒我就饶你一命”？,Is this like a 'surrender now and I'll let you live' thing?,"Ты хочешь сказать: «Сдавайся, и я пощажу тебя»?"
+line-721,炎熔,在厮杀之前，我更在意真相如何。,I care more about the truth than fighting you.,Перед схваткой меня больше интересует истина.
+line-723,年,真相？你想知道什么？念在我们这么合拍的份上，说不定我会考虑告诉你呢。,"The truth? What do you want to know? Seeing as we're so in tune with each other, I might consider telling you.","Истина? Что именно ты хочешь знать? Ради того, как хорошо мы ладим, я, может, и подумаю, стоит ли тебе рассказывать."
+line-725,炎熔,你们的目的。以及，如何从根源上解决你们。,Your goal. And how to defeat all of you once and for all.,"Ваши цели. И то, как уничтожить вас в самом корне."
+line-727,年,你们？,All of us?,Вас?
+line-729,炎熔,年只是你的名字，灾难远不止你一人，我清楚得很。,"Nian is only your name. The Catastrophe is far more than just you, I know that well.","Нянь — это лишь твое имя, но катастрофа — это не только ты одна, я это прекрасно знаю."
+line-731,年,知道了打算怎么办？还不是要打打杀杀的？,What are you going to do when you know the answer? Still going to be all fighty-killy?,"И что ты собираешься делать, когда узнаешь? Все равно же все закончится резней, разве нет?"
+line-733,炎熔,是啊，也许吧，如果你们的“本体”真的能杀得掉的话。,Yeah. Maybe. If your true form can actually be killed.,"Да, возможно. Если ваших «истинных сущностей» вообще можно убить."
+line-736,年,......,........,......
+line-737,年,......,........,......
+line-738,年,......哈。,........Ha.,......Ха.
+line-740,炎熔,（气势变了......这种压迫感......）,(There's a change in her attitude... A pressure in the air...),(Ее аура изменилась... это давление...)
+line-742,年,喂，小炎熔。,"Hey, li'l Lava.","Эй, маленькая Лава."
+line-744,炎熔,别那么叫，我和你没那么熟。,Don't call me that. We're not friends.,"Не называй меня так, мы не настолько близки."
+line-746,年,别这么说嘛，你真的有点惊到我了，你掌握的学识远超预料。,"Don't say that, you really surprised me, you've learned a lot more than I ever expected.","Не говори так. Ты меня правда удивила, твои знания превосходят все ожидания."
+line-747,年,你说的对。本来我就没打算对这座城市怎么样，毕竟在我印象里，你们可是非常脆弱的，必须要循序渐进。,"You're right, you know. At first, I wasn't planning to do anything to this city. As far as I was concerned, you were weak little folk, gradually making your way in the world.","Ты права. Я изначально не планировала устраивать здесь что-то грандиозное, ведь в моем представлении вы были очень хрупкими, нужно было действовать постепенно."
+line-748,年,但不得不承认，你们的确有进步。,"But I have to admit, you made some real progress over the years.","Но стоит признать, вы действительно продвинулись."
+line-749,年,特别是，居然还有一直在关注我们的人存在，这可真是意外之喜。,And to think someone's actually been watching us all this time. That's a pleasant surprise.,"Особенно то, что существуют люди, которые постоянно наблюдают за нами — это действительно приятный сюрприз."
+line-751,炎熔,是你们给各个地区都留下了恐怖的传说，让我们不得不注意。,You left behind horror stories and monster myths in every corner of the world. How could we not look for you?,"Именно вы оставили в каждом регионе ужасающие легенды, заставляя нас быть начеку."
+line-752,炎熔,原来如此，即便有时是巨人，有时是军队，有时是天灾似的法术......,"Sometimes it was a giant, sometimes it was an army, sometimes it was Arts like a Catastrophe...","Вот оно что. То вы представали гигантами, то армией, то магией, подобной стихийному бедствию..."
+line-753,炎熔,我们一直在变强，为了活下去。,"But we always grew stronger, in order to survive.","Мы постоянно становимся сильнее, чтобы выжить."
+line-754,炎熔,但是，为什么远古时代的炎国子民手握长矛铁戟，而近代的龙门明明有着护城巨炮，最后却都落得同一个下场？,"What I don't understand is how the people of ancient Yan fought with spears and halberds, while Lungmen today has huge cannons to protect the city, and in the end they all suffered the same fate?","Но почему жители Янь в древности, вооруженные копьями и алебардами, и жители Лунмэня в Новое время, имеющие в своем распоряжении мощнейшие осадные орудия, в итоге закончили одинаково?"
+line-755,炎熔,是你们过去太过宽容，还是你们现在更加强大？,Were you going easy back then? Or are you stronger now?,Вы были слишком снисходительны в прошлом или стали намного сильнее сейчас?
+line-756,炎熔,又或者——,Or——,Или же...
+line-758,年,恰到好处的破坏和毁灭是最好的教学。,You need juuust the right amount of destruction and mayhem to make a point.,Точно выверенные разрушения и опустошения — лучший способ обучения.
+line-759,年,这不是很有趣吗？一觉醒来，发现这么多年没有变化的小家伙们突然接近了真相。,Isn't this fun? I wake up to find that the little ones who haven't changed in years are suddenly so close to the truth.,"Разве это не забавно? Проснувшись, обнаружить, что маленькие создания, которые не менялись долгие годы, вдруг приблизились к разгадке истины."
+line-760,年,那么......,So....,Что ж...
+line-761,年,没必要再这么小打小闹了吧，该提升一下难度了。,I think it's time to take off the kid gloves and bump up the difficulty.,"Нет нужды продолжать эти детские игры, пора бы повысить уровень сложности."
+line-764,炎熔,你不会得逞的。,You won't get away with it.,У тебя ничего не выйдет.
+line-771,年,喔，火焰——？,"Ooh, fire——?","О, огонь...?"
+line-772,年,果然那把匕首只是顺手为之，其实法杖才是重头戏？,So the dagger was just an opening act. The staff is the headliner?,"Значит, кинжал был лишь для отвода глаз, а на самом деле твоим главным козырем был посох?"
+line-773,年,你们总是不愿意高效地使用自己的力量，或者说不会，这一点倒是没有变过。,You people have never been willing to use your power efficiently. And that's one thing that hasn't changed.,"Вы все никак не научитесь эффективно использовать свои силы, или, вернее сказать, не умеете. В этом вы совсем не изменились."
+line-782,炎熔,盾牌......？,A shield...?,Щит...?
+line-783,炎熔,从来没看见过的质感，而且压制住了源石技艺的作用范围，怎么做到的......,"I've never seen anything like it before. And it's suppressing the range of my Originium Arts, how did she do that...?","Никогда не видела такой фактуры, и он подавил радиус действия моей ориджиниумной магии... как ей это удалось?"
+line-785,年,哎！源石技艺这说法其实也挺酷的哎！,Hey! Originium Arts? That sounds pretty badass!,"Эй! Кстати, выражение «ориджиниумная магия» звучит довольно круто!"
+line-787,炎熔,（但是刚才的火焰......她特地使用了能力抵挡？）,(But my flames just now... She used her power specifically to block them?),"(Но тот огонь... Она специально использовала способность, чтобы заблокировать его?)"
+line-788,炎熔,（明明空间的源石技艺要复杂得多......该不会......）,(Spatial Arts are trickier.... but...),(Хотя ориджиниумная магия пространства гораздо сложнее... Неужели...)
+line-790,年,不过我还有个小问题，我，或者说“我们”呼呼大睡了这么多年，你是靠什么蒐集到这些信息的？,"But I do have one teensy little question. How did you come up with all this stuff while I, or I guess 'we,' were snoozing away?","Кстати, у меня есть маленький вопрос: раз уж я, или, вернее, «мы» так долго спали, откуда ты собрала эту информацию?"
+line-792,炎熔,无可奉告。,No comment.,Не могу сказать.
+line-794,年,是吗。,Is that right?,Вот как.
+line-795,年,那咱们换个话题吧，刚才你说，我的能力是用数据创造那些玩具士兵。,"Let's change the subject then. A minute ago, you said my power was to use data to do up those toy soldiers.","Тогда давай сменим тему. Ты сказала, что я создаю своих игрушечных солдатиков с помощью данных."
+line-796,年,可惜那是个错误答案。我哪能在这么短时间里搞得清那么复杂的东西？,"Sorry, but that's a swing and a miss. How could I figure out something so complicated so quickly?","К сожалению, это неверный ответ. Как бы я успела разобраться в столь сложных вещах за столь короткий срок?"
+line-797,年,只不过语言也好，法术也罢，拆成最简单的单元后就都是一回事啦。,"Turns out, you break stuff down into its simplest parts, language, Arts, anything, and it's all pretty much the same.","Будь то язык или заклинания, если разобрать их на простейшие элементы, все они суть одно и то же."
+line-798,年,而手头最好的材料就是那些数据，你们的过往之敌、心头的恐惧和不安。只是用这些东西吹出了一些小小的泡沫。,"And the best possible material I could find was that data. Your past enemies, your fears and anxieties. It's perfect for having a little fun.","А под рукой оказались лучшие материалы — те самые данные, ваши прошлые враги, страхи и тревоги, затаившиеся в сердцах. Я лишь выдула из этого крошечные пузыри."
+line-799,年,作为助兴而言，还不错吧？,Think of it like blowing bubbles in the park.,"Для развлечения вполне неплохо, правда?"
+line-801,炎熔,......你想说什么？,...What are you trying to say?,...Что ты пытаешься этим сказать?
+line-803,年,你说你了解我，我真的还挺欣慰的。,"When you said you had me figured out, I got this warm, tingly feeling.","Ты сказала, что понимаешь меня. Я правда польщена."
+line-804,年,如果你真的能做到的话。,I wonder if it's true.,Если это действительно так.
+line-806,炎熔,你在......,You're...,Ты что...
+line-809,炎熔,怎......建筑顶端......在融化？,How... The top of that building... it's melting?,Что... вершина здания... плавится?
+line-811,年,放心吧，这附近没有普通人。,Relax. All the people are gone.,"Не волнуйся, поблизости нет обычных людей."
+line-813,炎熔,......你打算做什么？,...What are you going to do?,...Что ты задумала?
+line-815,年,熔炼。浇铸。砥砺。,Smelt. Cast. Temper.,Плавление. Литье. Закалка.
+line-816,年,这座城市，拿来当冶炉正正好。,This city will make the perfect forge.,Этот город идеально подойдет в качестве плавильной печи.
+line-818,炎熔,——！,——!,—!
+line-826,年,小炎熔啊，这样你就忍不住了可当不成好铁匠哦？,"Li'l Lava, don't you think you'd make a good blacksmith?","Маленькая Лава, если ты будешь срываться из-за такого, хорошим кузнецом тебе не стать, знаешь?"
+line-828,炎熔,谁要当铁匠！？,Who wants to be a blacksmith?!,Кто собирался становиться кузнецом!?
+line-829,炎熔,（啧，和那些夸张到不可信的假设学说一样，年不使用传统意义上的法术就能做到一些夸张事情的能力。）,"(Hrm, it's just like in those theses. They were so out there, I never thought they could be true. But the Nian can pull off some incredible feats without using Arts, in the traditional sense.)","(Тц, это как в тех абсурдных гипотезах: способность Нянь делать невероятные вещи без использования магии в привычном понимании.)"
+line-830,炎熔,（但果然和研究的结果一样......有必要再做个尝试。）,"(Now, just like the conclusions of those papers... I have to try this.)",(Но результаты исследований были верны... Стоит попробовать еще раз.)
+line-840,年,哦？匕首划过的大气正在被压缩，这也是你那个源石技艺的应用？,Oh? The dagger slices through the air and compresses it. Is this how you use those Originium Arts?,"О? Атмосфера, разрезанная кинжалом, начинает сжиматься. Это тоже применение твоей ориджиниумной магии?"
+line-842,炎熔,从任何记载和考察之中，都辨识不出你们的真面目。光是得出你们并非个体而是群体的结论，就花费了我们太长时间。,None of the records or studies give any indication of your true form. It took long enough to determine that you were actually a communal organism rather than a single individual.,"Ни в каких записях или исследованиях невозможно найти ваш истинный облик. Нам потребовалось слишком много времени, чтобы просто понять, что вы не единичные особи, а коллективный разум."
+line-843,炎熔,但如果只是这样，我为什么要站在这里呢？,"But that begs the question, why am I standing here?","Но если это все, то почему я вообще здесь стою?"
+line-844,炎熔,捂上耳朵，年。,"Cover your ears, Nian.","Закрой уши, Нянь."
+line-852,年,呃......这噪音......！,Ugh.... That noise...!,Угх... этот шум...!
+line-854,炎熔,“群石之将，魂魄为萁！”,'The heart of the crucible is... nothing but straw!',"«Генерал каменных масс, душа в мякине сгорит!»"
+line-858,年,啧——这是——,Gah——That's——,Тц — это же —
+line-860,炎熔,你退缩了，真难得。,Never thought I'd see you cowering.,"Ты отступила, какая редкость."
+line-862,年,你到底是什么人！？你为什么会知道这个——,Who the hell are you?! How do you know about that——,"Кто ты такая, в конце концов!? Откуда ты знаешь это —"
+line-863,年,啊啊......不，互相知道弱点的是谁我心知肚明......,Ahhhh.... No... I know all too well who's behind this...,"Ах... нет, я прекрасно знаю, кто понимает слабые стороны друг друга..."
+line-864,年,该死，夕到底告诉了人类多少东西——,Shit. How much did Hsi tell the humans——,"Черт, сколько же Си рассказала людям..."
+line-866,炎熔,惊讶吗？,Surprised?,Удивлена?
+line-867,炎熔,那么多研究者花了那么长的时间，翻遍了每一张能阅读的记录，却依旧找不出一丁点对付年关的办法。,"Countless researchers have spent countless years going over every record they could get their hands on, and still not one could find even a shred of hope to combat the Nian.","Столько исследователей потратили столько времени, перерыли все доступные записи, но так и не смогли найти способа противостоять Нянь."
+line-868,炎熔,但是炎国有无数的古老传说，与你无关的那部分反而有耐人寻味的部分。,"But there are many ancient legends in the land of Yan, and the ones that don't concern you have interesting bits to them.","Но в Янь бесчисленное множество древних легенд, и те из них, что не связаны с тобой, оказались весьма примечательными."
+line-870,年,传说？,Legends?,Легенды?
+line-872,炎熔,“爆竹声中一岁除”之类的。,Old folk sayings like 'the din of fireworks rings in the new year' and such.,Что-то вроде: «Звук петард прогоняет старый год».
+line-874,年,啊......,Ahhh....,А...
+line-875,年,原来是这样，这样啊。,So that's how it is.,"Вот оно что, значит, вот как."
+line-877,年,就算你们无法理解，出于恐惧，也会让这些东西演变成传说流传下来吧。,"I guess these things turn into legends to be passed down through the centuries, even if you don't understand their true meaning.","Даже если вы не можете осознать суть, страх заставляет вас превращать подобные вещи в легенды, которые передаются из поколения в поколение."
+line-878,年,就算在天灾肆虐的大地上，你们也能有序地传承一些东西，这不是很好嘛？,"In a world plagued by Catastrophe, you find a way to keep things going. Isn't that nice?","Даже на земле, истерзанной бедствиями, вы способны упорядоченно сохранять знания. Разве это не прекрасно?"
+line-879,年,那我就稍微多花那么一点点心思......来造点不那么无聊的东西吧。,I'll put a little more thought into it.... Let's build something a bit less boring.,Тогда я приложу чуть больше усилий... и создам кое-что менее скучное.
+line-881,炎熔,闭上眼了？,She closed her eyes?,Закрыла глаза?
+line-882,炎熔,等等，从嘴里取出了......那是......剑柄？,"Wait, she's taking something out of her mouth... it's... a sword?","Подожди, что она достала изо рта... это... эфес меча?"
+line-889,年,慢了半拍喔，还有不要在人家表演的时候打断嘛，噎着了怎么办？,Slow on the uptake. And don't distract me. What if I choke?,"Ты припоздала, к тому же не вежливо перебивать, когда кто-то выступает. А если я подавлюсь?"
+line-891,炎熔,你把空间的源石技艺......切开了？,The spatial Arts... you cut it open?,Ты... разрезала саму ориджиниумную магию пространства?
+line-893,年,惊讶什么，就单纯的切开了啊，你做不到吗？,Is that so surprising? Just cut right into it. You can't do that?,"Чему тут удивляться? Я просто разрезала ее. Ты что, не можешь?"
+line-894,年,唉，总是对那些悠久的凡俗工艺不屑一顾，总是去追寻一些无聊的绣花枕头，老毛病了。,*Sigh*. Never enough respect for the time-honored crafts. Always after some kind of boring old embroidered pillow or whatever.,"Эх, вечно вы пренебрегаете древними ремеслами и гоняетесь за всякими пустышками. Старая болезнь."
+line-895,年,那就让你感受一下历史的厚重感吧。,Then let's have you feel the weight of history.,Тогда позволь мне дать тебе прочувствовать всю тяжесть истории.
+line-903,炎熔,咕！,Guh!,Кха!
+line-905,年,啊，抱歉，好像有点太厚重了，喂~还活着吗？,"Oh, sorry. Was that too heavy for you? Hey! Are you still alive?","Ой, прости, кажется, вышло тяжеловато. Эй~ ты еще жива?"
+line-907,炎熔,这就是“年”的力量，好像也没有那么了不起。,"So this is the power of the 'Nian,' huh? I'm not impressed.","Это и есть сила «Нянь»? Кажется, не такая уж она и великая."
+line-909,年,哎，刚才那下还挺重的吧？没必要逞强哦？,"Come on, that was pretty hard, wasn't it? Don't try to act tough here.","Эй, удар был довольно сильным, верно? Не обязательно делать вид, что ты в порядке."
+line-911,炎熔,没关系，我已经知道该怎么对付你了，倒是你是不是有点惊讶过头？,It's fine. I already know how to beat you. Aren't you at least a little shocked?,"Все в порядке, я уже поняла, как с тобой справиться. А вот ты, кажется, удивлена чересчур сильно?"
+line-912,炎熔,就因为我没像虫子一样被你一下拍死？,If nothing else because I'm actually putting up a fight?,"Только потому, что я не позволила раздавить себя, как насекомое?"
+line-914,年,......哈。自命不凡的到底是谁呢？,...Ha. I think someone's getting too big for her tattered britches.,...Ха. Кто же из нас на самом деле самонадеян?
+line-919,炎熔,——地面，不，大地在颤抖，你想把这座城市变成你的囊中物吗？,"——The ground, no, the world is shaking. Does this city mean anything to you?","— Земля, нет, поверхность трясется... Ты хочешь сделать этот город своей собственностью?"
+line-921,年,只对付你一个，也太小题大做了吧？,"It's overkill, isn't it? Just to deal with you?",Тратить столько усилий только ради тебя одной? Слишком мелко.
+line-922,年,只是试探一下如今你们的最高水准，顺便打发打发时间。,"I'm only trying to see the best you humans have come up with. And passing the time, I guess.",Я лишь проверяю ваш нынешний предел возможностей и попутно убиваю время.
+line-923,年,你能坚持作战多久？十分钟？一小时？还是一整天？,How long can you keep fighting? Ten minutes? An hour? A whole day?,Сколько ты сможешь продержаться в бою? Десять минут? Час? Или целый день?
+line-925,炎熔,直到我揭开你故弄玄虚的谜题。,Until I unravel the mystery of your trickery.,"До тех пор, пока я не раскрою твою загадку."
+line-927,年,此言差矣！肉眼凡胎，如何识得非人之物？,You're dreaming! How can a simpleton like you perceive that which is beyond your world?,"Ошибаешься! Как смертным с их обычными глазами познать то, что не от мира сего?"
+line-936,炎熔,她指向了天空......？,She pointed to the sky...?,Она указала в небо...?
+line-938,年,“天有洪炉，地生五金，晖冶寒淬照云清！”,"'Heavenly forge, take the bounty of the earth and smelt an edge to slice the sky!'","«В небе горн пылает, в недрах пять металлов родились, блеск кузни в стуже закалит, разгоняя облака!»"
+line-941,年,起！,Arise!,Встать!
