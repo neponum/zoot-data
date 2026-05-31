@@ -1,0 +1,379 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act4d0
+__chapter__,,Chapter Name,activities/act4d0/level_act4d0_st01,无名氏的战争
+,,,,
+char-1,近卫干员,近卫干员,Vanguard Operator,Оперативник
+char-2,？？？,？？？,???,???
+char-3,赫拉格,赫拉格,Hellagur,Хеллагур
+char-4,爱国者,爱国者,Patriot,Патриот
+char-5,整合运动成员,整合运动成员,Reunion Troops,Член Воссоединения
+char-6,整合运动成员A,整合运动成员A,Reunion Soldier A,Член Воссоединения А
+char-7,整合运动成员B,整合运动成员B,Reunion Soldier B,Член Воссоединения Б
+char-8,Scout,Scout,Scout,Скаут
+,,,,
+line-23,近卫干员,唔......,Ugh...,М-м...
+line-24,近卫干员,啊？怎，怎么回事......,Huh? Wh- what happened...?,А? Ч-что происходит?..
+line-25,近卫干员,我怎么会躺在这种地方......发生了什么......,What am I doing here... why am I laying here...?,Почему я лежу в таком месте... Что случилось?..
+line-26,近卫干员,对了！我们潜入切尔诺伯格，要救出Dr.{@nickname}——,I remember! We were infiltrating Chernobog to rescue Dr. {@nickname}——,"Точно! Мы проникли в Чернобог, чтобы спасти Доктора {@nickname}..."
+line-27,近卫干员,！,!,!
+line-29,近卫干员,头儿！不对，不对，头儿他......,"Boss! No, no, the boss, he...","Командир! Нет, погодите, командир, он..."
+line-30,近卫干员,......头儿他......,...Boss...,...Командир... он...
+line-33,近卫干员,嗯？这张纸是怎么回事？,Huh? What's this paper?,Хм? Что это за листок?
+line-34,近卫干员,等等，这是......这是罗德岛的工程用纸！,"Hold up, this... It's Rhodes Island engineering stationary.","Подождите, это же... инженерная бумага Родос Айленда!"
+line-35,近卫干员,是谁留在这的，究竟发生了什么事？,Who could've left it here? What the hell happened?,Кто это здесь оставил? Что вообще произошло?
+line-36,近卫干员,呃，这密密麻麻的字，写的还有些乱......,"Woah, that's a lot of big words, and they're all over the place...","Эх, тут так много текста, и почерк какой-то неразборчивый..."
+line-38,,不知名的干员，隐藏好自己。我没有机会看你的胸牌，不记得你的名字。,"Operator whose name I do not know, hide yourself well. I had no opportunity to check your nameplate, nor do I remember your name.","Неизвестный оперативник, спрячься. У меня не было возможности посмотреть на твой жетон, я не помню твоего имени."
+line-39,,时间并不宽裕，我的字有些潦草，请谅解，麻烦你读下去。,"Please pardon the hastily scrawled nature of this message, as I am wanting for time. Do me the favor of reading to the end.","Времени было немного, поэтому мой почерк неразборчив. Прошу прощения, пожалуйста, читай дальше."
+line-40,,不用慌张，你暂时是安全的。,"First, do not fret. You are safe, for the moment.","Не паникуй, ты временно в безопасности."
+line-41,,请务必不要走出这块废墟。天色完全暗下来之前，敌人发现你的概率很高。,"However, you must not, under any circumstances, leave these ruins. The probability of the enemy spotting you before nightfall is quite high.","Ни в коем случае не выходи из этих руин. До того как полностью стемнеет, вероятность того, что враг тебя обнаружит, очень высока."
+line-42,,可以说，你正身处敌人的重重包围之中。,"To put it simply, you are at present completely surrounded by the enemy.","Можно сказать, ты сейчас находишься в плотном кольце врагов."
+line-44,近卫干员,不是头儿的笔迹......是罗德岛同事写下的纸条吗？,This isn't the boss's handwriting... did it even come from Rhodes Island?,Это не почерк командира... Записка от коллеги из Родос Айленда?
+line-45,近卫干员,写的真长啊，为什么不直接把我叫醒，跟我说就好——,They sure wrote a lot. Why didn't they just wake me up and tell me——,Как же длинно написано. Почему бы просто не разбудить меня и не сказать всё лично?..
+line-48,？？？,你来了。,You came.,Ты пришёл.
+line-52,近卫干员,（嗯？说话声？是整合运动吗，混账！）,(Huh? A voice? Is it Reunion? Shit!),(Хм? Голоса? Это Движение Воссоединения? Ублюдки!)
+line-53,近卫干员,（......不，等等，这个声音有些耳熟？好像是那个诊所的——）,"(...No, wait, it sounds familiar. It's that guy from the clinic——)","(...Нет, стоп, этот голос кажется знакомым. Кажется, это тот, из клиники...)"
+line-60,赫拉格,所以，你们真的瘫痪了整座切尔诺伯格。我不知道该不该祝贺你。,You have managed to completely paralyze Chernobog. I am not sure whether I should be congratulating you.,"Значит, вы действительно парализовали весь Чернобог. Не знаю, стоит ли поздравлять тебя."
+line-62,？？？,——,——,—
+line-64,赫拉格,我们居然都染上了矿石病。,We have both contracted Oripathy.,"Надо же, мы оба заразились орипатией."
+line-66,？？？,真的是您。,It truly is you.,Это действительно вы.
+line-67,？？？,我以为，只是传言。,I thought. It was just rumors.,"Я думал, это всего лишь слухи."
+line-69,赫拉格,许多年没见了，博卓卡斯替。,"It's been years, Buldrokkas'tee.","Много лет не виделись, Булдрокасти."
+line-70,赫拉格,我是不是该称呼现在的你，“爱国者”？,Or is it 'Patriot' now?,Должен ли я называть тебя нынешнего «Патриот»?
+line-75,爱国者,......将军。,So. You remember me.,...Генерал.
+line-76,爱国者,您居然，记得我。,...General.,"Вы, оказывается, помните меня."
+line-78,赫拉格,如果不是你带着盾卫顶着暴风雪冲进堡垒，我，巴克莱，还有谢苗，全部要死在卡西米尔的银枪皮加索斯手里。,"Were it not for you charging so boldly into the fortress with that shield of yours, Barclay, Semyon, and I would surely have died at the hands of Kazimierz's Silverlance, Pegasus Order of Knighthood.","Если бы ты со своими щитоносцами не прорвался в крепость сквозь метель, я, Барклай и Семён — все мы погибли бы от рук Пегасов Серебряного Копья Казимира."
+line-80,爱国者,是我的战士们，勇敢。他们，不在乎牺牲。,My warriors. Are brave. Do not fear sacrifice.,Это мои воины... были храбры. Они... не боялись жертв.
+line-82,赫拉格,怎么？你说话的方式，和几十年前大不相同了。,Hm. Your manner of speech is quite different now than it was years ago.,"Что такое? Твоя манера речи сильно изменилась по сравнению с тем, что было десятилетия назад."
+line-83,赫拉格,我见过你在士兵面前慷慨陈词，能让秃头屠夫巴克莱都为你拍手叫好，可不是件简单事。,"I once witnessed you rousing the troops with your rhetoric, driving even Barclay the Bald Butcher to cheer your name. No easy feat.","Я видел, как ты выступал перед солдатами с пламенными речами. Заставить Лысого Мясника Барклая аплодировать тебе — задача не из простых."
+line-85,爱国者,感染，改变了声带。现在，我很难，连续说话。很可笑。,The infection. Changed my vocal cords. Now. It is difficult. For me to speak. Fluently. Ridiculous.,Заражение... изменило связки. Теперь... мне трудно... говорить связно. Смешно.
+line-87,赫拉格,——,——,—
+line-88,赫拉格,还有你现在的身份。,As is this identity you have constructed.,И твой нынешний статус.
+line-90,爱国者,是吗。,Oh?,Вот как.
+line-92,赫拉格,北原的游击队......领队居然是你。我原以为十几个温迪戈里，最不可能的就是你。,"So, the Northern Tundra Guerrillas... that was you leading them. I never would have imagined you could be running around with dozens of Wendigos.","Партизаны северных степей... Поверить не могу, что их лидер — ты. Я думал, что из всех Вендиго ты был бы последним кандидатом."
+line-93,赫拉格,蓝胡子阿廖沙，那个骑兵师的，他曾经和我打赌说你会作为一个天生的乌萨斯军人做到元帅。,"That cavalry commander, Alyosha Bluebeard, he made a bet with me that you would become Grand Marshal of the Ursus Army.","Синяя Борода Алёша из той кавалерийской дивизии когда-то спорил со мной, что ты, как прирождённый солдат Урсуса, дослужишься до маршала."
+line-95,爱国者,我只是个大尉，将军。时代不同了。,"Just staff captain, General. Times have changed.","Я всего лишь капитан, генерал. Времена изменились."
+line-97,赫拉格,......笑话。你的忠诚，军功，还有在作战会议上的规划......你是乌萨斯最出色的战地指挥官之一。,"...I was jesting. But your loyalty, your record, and the plans you would devise in our staff meetings... You truly were one of the finest officers in all of Ursus.","...Смехотворно. Твоя преданность, твои заслуги, твоё планирование на военных советах... Ты один из лучших полевых командиров Урсуса."
+line-99,爱国者,您过誉了。而且，我是个萨卡兹，终归。,"You go too far. I am Sarkaz, after all.",Вы мне льстите. К тому же... я Сарказ... в конечном счёте.
+line-101,赫拉格,如果你都当不上校官，几乎所有的乌萨斯高级将领都该被送进皇家法庭。,"If someone like you couldn't become colonel, the entire Ursus High Command should have been court-martialed.","Если даже ты не смог стать офицером высокого ранга, то почти всех высших генералов Урсуса следовало бы отдать под трибунал."
+line-102,赫拉格,虽然，他们几乎都已经死了。,"Of course, most of them are long dead.",Хотя они и так почти все мертвы.
+line-104,爱国者,那我，比他们活得长。您的同僚，几乎都死了。,"Then, I have outlasted them. Your colleagues, are mostly dead.",Значит... я пережил их. Ваши соратники... почти все мертвы.
+line-105,爱国者,而且，陛下他说过，军人服务国家，不是服务军衔。,"And, His Majesty said, the army serves the country. Not their careers.",К тому же... Его Величество говорил... солдат служит стране... а не званию.
+line-107,赫拉格,他却也说过，凝聚乌萨斯人的不是血液，是信仰。现在呢？只能愿陛下他安息。,"He also once said it is not blood that binds the Ursus people together, but conviction. What of that now? I can only hope His Majesty is ready to rest in peace.","Но он также говорил, что урсусцев объединяет не кровь, а вера. А теперь? Остаётся лишь молиться о его упокоении."
+line-108,赫拉格,可见当今皇帝，依旧把你们当做怪物，而不是乌萨斯的战士。他们一直在压制你和你的族群。,All our recent Emperors have seen you as nothing more than monsters. You are not Ursus warriors to them. They have done everything they can to oppress your people.,"Очевидно, нынешний император по-прежнему считает вас монстрами, а не воинами Урсуса. Они продолжают притеснять тебя и твой народ."
+line-110,爱国者,那位，宽容的陛下，已经过世，这些，我能理解。,"That one, more enlightened Emperor. Has already passed. This, I understand.",Тот... милосердный император... скончался. Это... я понимаю.
+line-111,爱国者,乌萨斯，无数战争野兽，够淹没大地，我不算什么。,"The war beasts. Of Ursus. Could drown the world, with their numbers. I am not special.",Урсус... бесчисленные звери войны... могут затопить землю. Я... ничто.
+line-113,赫拉格,所以军队不是你出走的原因。,Then it is not because of the Army that you left.,"Значит, армия не была причиной твоего ухода."
+line-115,爱国者,是的，我不关心。我只想和战士们，并肩。,"Correct. I do not care. I want only to stand, shoulder to shoulder. With my warriors.",Да... мне всё равно. Я лишь хочу... быть плечом к плечу... с воинами.
+line-117,爱国者,......,......,...
+line-118,爱国者,将军，坐。酒，剩了一些，我从北方带的。,"General, sit. Drink, with me. I have some. From the north.",Генерал... присаживайтесь. Вино... немного осталось. Привёз с севера.
+line-120,赫拉格,......我没剩下多少时间。下次再喝酒叙旧吧。,...Time grows short. Let us save it for next time.,...У меня осталось не так много времени. Давай выпьем и повспоминаем былое в следующий раз.
+line-122,爱国者,是吗......没事。,Oh... Very well.,Вот как... Ничего.
+line-123,爱国者,没关系。,No matter.,Не беда.
+line-130,爱国者,去第四街，找幸存者。严禁恐吓他们。尽力减少伤亡。注意收集物资，我们的储量，依然窘迫。,"Go to 4th street. Find survivors. Do not threaten them. Minimize casualties. Look for supplies. Our stocks, are low, as always.",Идите на Четвёртую улицу... найдите выживших. Запрещено... запугивать их. Постарайтесь... минимизировать потери. Собирайте припасы... наши запасы... по-прежнему скудны.
+line-132,整合运动成员,明白！,"Yes, sir!",Вас понял!
+line-140,爱国者,我以为您死了。,I feared you dead.,Я думал... вы мертвы.
+line-142,赫拉格,隐姓埋名也是种死亡。现在的我与过去没有勾连。,Life underground is a sort of death. Who I am today has little to do with who I was.,Жизнь под чужим именем — тоже своего рода смерть. Нынешний я никак не связан с прошлым.
+line-144,爱国者,这里，隐居地？不很理想。,"You hide, here? Less than ideal.",Это место... для уединения? Не самое... подходящее.
+line-146,赫拉格,切尔诺伯格已经不再适合居住，无论它有没有遭受过天灾的袭击。,Chernobog has long been uninhabitable. The Catastrophe makes little difference to that effect.,"Чернобог больше не пригоден для жизни, вне зависимости от того, пострадал он от Катастрофы или нет."
+line-148,爱国者,听说您要离开。,Seems you must leave.,Слышал... вы уходите.
+line-150,赫拉格,诊所遭受了一次毁灭性的洗劫，虽然我们提前进行了转移，但还是有所损失的。,"The clinic has been extensively looted. We evacuated beforehand, but the loss is still substantial.","Клиника подверглась разрушительному разграблению. Хотя мы эвакуировались заранее, потерь избежать не удалось."
+line-151,赫拉格,我是听到了你的传闻，才决定留下看看。,It was only after I heard the rumors of your presence that I decided to stay here and see for myself.,"Я услышал слухи о тебе и решил остаться, чтобы всё проверить."
+line-153,爱国者,我，不值得。这样很危险。,"I do not deserve, such attention. It is dangerous, here.",Я... того не стою. Это... опасно.
+line-155,赫拉格,只是想看看我仅剩的几位同袍之一过的怎么样。,I wanted only to see how one of my few remaining brothers has weathered the years.,"Просто хотел увидеть, как поживает один из немногих моих оставшихся соратников."
+line-157,爱国者,这不算，没有勾连。,You did not. Those ties broke. Long ago.,Это не считается... отсутствием связи.
+line-159,赫拉格,呵......,Hmph...,Хех...
+line-161,爱国者,......我会查清，是谁做的。诊所的事，不平常。,"...I will find out, who did it. Your clinic. That was, an aberration.",...Я выясню... кто это сделал. События в клинике... необычны.
+line-163,赫拉格,不必。不如说，既然有你在，这件事是整合运动主导的可能性越发减小了。,"There is no need. At least, with you here, it is very unlikely that Reunion is responsible.","Не стоит. Скорее даже наоборот: раз уж ты здесь, вероятность того, что за этим стоит Движение Воссоединения, только уменьшается."
+line-165,爱国者,我不清楚。整合运动，有些散乱。我们间有隔阂。,"I cannot be sure. Reunion, can be, hard to control. There are some, communication barriers.",Я не уверен. Воссоединение... разрозненно. Между нами... есть пропасть.
+line-166,爱国者,不过将军。你可以，和整合运动一同。,"Still, General. You could join, Reunion.",Но... генерал. Вы можете... присоединиться... к Воссоединению.
+line-167,爱国者,乌萨斯，要被解放。感染者和普通人，会平等相处。,"If Ursus was, to be liberated. Then the Infected, and the others, could live. As equals.",Урсус... будет освобождён. Заражённые и обычные люди... будут жить в равенстве.
+line-169,赫拉格,......,......,...
+line-170,赫拉格,看这里。看，我左手边，那栋被源石刺穿的建筑。,Look here. Look around us. Look at this building impaled by Originium.,"Посмотри сюда. Видишь то здание слева от меня, пронзённое ориджиниумом?"
+line-172,爱国者,看得见。,I see it.,Вижу.
+line-174,赫拉格,这里曾经是座商场，周围三个街区的市民都依赖着它的商品生活。,This was once a shopping mall. All the people in a three block radius depended on this building for their very survival.,Когда-то здесь был торговый центр. Жители трёх окрестных кварталов зависели от товаров в нём.
+line-176,爱国者,天灾，摧毁了切尔诺伯格。毁掉要塞，也毁掉城市。我不同意做法，但这很必要。无奈。,"The Catastrophe. Destroyed Chernobog. Destroyed the fortress, destroyed the city. I do not agree with, the methods. But this was, necessary. We had, no choice.",Катастрофа... уничтожила Чернобог. Разрушить крепость... значит разрушить город. Я не согласен... с методами... но это было необходимо. Увы.
+line-178,赫拉格,曾几何时，彩灯的一端系在它钟塔的顶部，另一端悬挂在十字路口的围栏上，每一颗闪烁着的灯泡都沾满了温暖的光芒。,"It was not long ago that the clocktower was done up in colorful lights. Another dazzling array hung over the intersection below, bathing it in a warm glow.","Когда-то один конец гирлянды крепился к вершине его часовой башни, а другой висел на ограде перекрёстка. И каждая мерцающая лампочка излучала тёплый свет."
+line-180,爱国者,感染者，并没有，享受的权利。,"The Infected, had no right, to enjoy those lights.",У заражённых... нет... права на радость.
+line-182,赫拉格,你们想让灯泡发光，而我只想再建一座商场。这是我们间的区别。,"You want to make the lights glow again, and I simply want to build another market. This is the difference between us.","Вы хотите, чтобы лампочки горели, а я всего лишь хочу снова построить торговый центр. В этом наша разница."
+line-184,爱国者,——以前，您绝不会，像这样妥协。,——There was a time. When you would not. Compromise like this.,— Раньше... вы бы никогда... не пошли на такой компромисс.
+line-186,赫拉格,也许吧。罗德岛未必是个前途光明的地方，但这片土地，我一样没什么感情。,"Perhaps. There may not be such a bright future at Rhodes Island, but I cannot say I feel much for this place either.","Возможно. Родос Айленд, может, и не самое перспективное место, но и к этой земле я не питаю особой привязанности."
+line-188,爱国者,您只是，不想与祖国作战，将军。,"You simply do not, wish to fight your motherland. General.",Вы просто... не хотите воевать... с родиной... генерал.
+line-189,爱国者,看看这座城市，看看感染者，看看被丢进源石矿场，等死的人。,"Look at this city. Look at the Infected. Look at the mall, ruined by Originium. Look at the dead.","Посмотрите на этот город... посмотрите на заражённых... посмотрите на тех, кого бросили... в шахты... умирать."
+line-190,爱国者,而您，您从不是，害怕厮杀的人。,"And you. You have never, been afraid, to get your hands dirty.",А вы... вы никогда... не боялись... битвы.
+line-192,赫拉格,对。一旦乌萨斯对我们动武，我们就会还击。,"Correct. Should Ursus move violently against us, we will not hesitate to fight back.","Верно. Если Урсус применит против нас силу, мы нанесём ответный удар."
+line-193,赫拉格,但整合运动的行为与我的还击并不相同。看看脚下这座城市吧——整合运动在发动战争。,But Reunion's actions are rather outside my idea of fighting back. Look at this broken city beneath our feet——Reunion is provoking a war.,Но действия Воссоединения отличаются от моего ответного удара. Посмотри на этот город под нашими ногами — Воссоединение развязывает войну.
+line-194,赫拉格,一场战争会导致多少人丧生？一场内战会导致多少乌萨斯人丧生？,And how many people would die in such a war? How many Ursus lives would a civil war cost?,Сколько жизней унесёт одна война? Сколько урсусов погибнет в одной гражданской войне?
+line-195,赫拉格,乌萨斯人啃食乌萨斯人，乌萨斯人屠杀乌萨斯人，乌萨斯人毁灭乌萨斯人。,Imagine it. The Ursus devouring itself. Massacring itself. Obliterating itself.,"Урсусы пожирают урсусов, урсусы убивают урсусов, урсусы уничтожают урсусов."
+line-197,爱国者,将军。,General.,Генерал...
+line-199,赫拉格,——,——,—
+line-201,爱国者,如果乌萨斯，还把感染者，当作乌萨斯人？,"What if, the Ursus, treated the Infected, as Ursus?",Если бы Урсус... по-прежнему считал... заражённых... своими гражданами?
+line-202,爱国者,那就，不会有战争。,"Then, there would be, no war.",Тогда... войны бы не было.
+line-204,整合运动成员,打扰两位。,Excuse me.,"Прошу прощения, что прерываю вас."
+line-206,爱国者,什么事？,What?,В чём дело?
+line-208,整合运动成员,报告。领袖刚刚发出了公告，宣告我们已经彻底攻陷了切尔诺伯格，并向所有已知通讯频道进行了发报。,Reporting in. The leadership has made a statement: Chernobog is now completely under our control. We are broadcasting on all frequencies.,"Докладываю. Лидер только что выпустила объявление, провозглашающее полный захват Чернобога. Сообщение было отправлено по всем известным каналам связи."
+line-209,整合运动成员,现在，领袖需要确认各大队的状况。,The leadership has asked for a situation report from each division.,Теперь лидеру нужно подтверждение статуса всех крупных отрядов.
+line-211,爱国者,好。现在就去。,Right. I'll take care of it.,Хорошо. Иду немедленно.
+line-213,爱国者,抱歉，将军，请稍等。,"Sorry, General. Wait a minute.","Прошу прощения, генерал... подождите немного."
+line-219,赫拉格,——,——,—
+line-220,赫拉格,整合运动真的知道它们在做什么吗？,Does Reunion truly understand what they are doing?,"Неужели Воссоединение действительно понимает, что делает?"
+line-222,整合运动成员,......,......,......
+line-223,整合运动成员,老头，你想我怎么回答你？,"How am I supposed to answer you, old man?","Старик, какого ответа ты от меня ждёшь?"
+line-224,整合运动成员,哦，可能你其实没在问我吧。但我倒是要说，反正我们会跟着指挥官走。,Or were you not really asking? I guess all I can say is we're following the commander.,"А, может, ты и не меня спрашивал. Но я скажу так: мы в любом случае пойдём за командиром."
+line-225,整合运动成员,不管指挥官做什么，我们都相信他。,"No matter what the commander does, we're behind him.","Что бы командир ни делал, мы верим ему."
+line-226,整合运动成员,如果做的对，他会扛住；如果做错了，他肯定会改。,"If it's right, he'll do it. If it's wrong, he'll change.","Если он поступит правильно, он выстоит; если ошибётся — обязательно исправит."
+line-227,整合运动成员,我们相信塔露拉，也相信指挥官。我们在为感染者而战，明白吗。,We believe in Talulah and we believe in the commander. We fight for the Infected. Got it?,"Мы верим Талуле и верим командиру. Мы сражаемся за заражённых, понимаешь?"
+line-229,赫拉格,......,......,......
+line-238,爱国者,将军。,General.,Генерал.
+line-240,赫拉格,整合运动取得了胜利，我却没能从你的语气里听出喜悦之情。,Reunion has won a great victory. And yet I do not detect any joy in your voice.,"Воссоединение одержало победу, но я не слышу радости в твоём голосе."
+line-242,爱国者,我应该吗？喜悦......,Should I be? Happy...?,Должен ли я? Радость...
+line-243,爱国者,如果，乌萨斯愿意，任何城市，都会被铲平。,"If the Ursus will it, any city, will be flattened.",Если Урсус... захочет... любой город... будет стёрт в порошок.
+line-244,爱国者,稳固成果，才是最困难的。这场战斗，我很疑惑，乌萨斯的反应。,"Such an outcome, is most challenging. This battle, it confuses me. The Ursus response.",Закрепить результат... самое трудное. Реакция Урсуса... в этой битве... вызывает у меня сомнения.
+line-246,赫拉格,战争已经开始，想反悔也没可能回头。,The war has already begun. There is no turning back now.,Война уже началась. Пути назад нет.
+line-248,爱国者,也许，我很蠢。,Perhaps. I have been foolish.,Возможно... я глуп.
+line-249,爱国者,但现在，什么都不做，感染者的镣铐，会更沉重。,"However, if I do nothing. The chains of the Infected, will grow heavier.",Но если сейчас... ничего не делать... оковы заражённых... станут тяжелее.
+line-250,爱国者,一旦失去，斗争的意识，就走向毁灭。,"Should we lose, our conception of the struggle, we move toward annihilation.",Стоит утратить... волю к борьбе... и мы погибнем.
+line-252,赫拉格,所以你其实很清楚现状，也知道自己在做什么。,So you do understand the situation. You do know what you have done.,"Значит, ты прекрасно понимаешь ситуацию и осознаёшь свои действия."
+line-254,爱国者,是。我们，为生存而战。,"Yes. We are, fighting for our lives.",Да. Мы... сражаемся за выживание.
+line-256,赫拉格,那么我也没剩下什么问题好问了。,Then I have no further questions.,Тогда у меня больше нет вопросов.
+line-258,整合运动成员,报告！,Reporting in!,Докладываю!
+line-260,爱国者,下城区第三区，灾况报告？,"Subcity Sector 3, damage report?",Третий сектор нижнего города... Каков отчёт о ситуации?
+line-262,整合运动成员,是！,"Yes, sir!",Так точно!
+line-264,爱国者,不用细致报告。救下所有平民，危险区域，保护自己，不要逞强。,Spare me the details. Save the civilians. It is dangerous. Protect yourselves. Don't be heroes.,Подробности не нужны. Спасайте всех гражданских... В опасных зонах... берегите себя... не геройствуйте попусту.
+line-265,爱国者,带上术师。用无人机去找。不要担心损耗。,Bring a caster. Use drones to scout. That's what they're for.,Возьмите с собой кастеров. Используйте дронов для поиска. Не беспокойтесь о расходах.
+line-267,整合运动成员,明白！,Understood!,Понял!
+line-269,爱国者,对了......,Right...,Кстати...
+line-270,爱国者,您是准备，去哪里？,"Where is it, you plan to go?",Куда... вы собираетесь отправиться?
+line-272,赫拉格,罗德岛。,Rhodes Island,На Родос Айленд.
+line-280,近卫干员,......？！,...?!,......?!
+line-288,爱国者,啊，我知道，罗德岛。,"Ah, I see. Rhodes Island.","А, я знаю... Родос Айленд."
+line-289,爱国者,只是，整合运动刚刚，袭击了罗德岛。,But. Reunion has just. Attacked Rhodes Island.,Только что... Воссоединение... напало на Родос Айленд.
+line-297,近卫干员,可恶......,Why you...,Проклятье...
+line-298,近卫干员,阿米娅和杜宾教官她们，也不知道怎么样了......,"Amiya and Dobermann, I hope they're okay...","Интересно, как там Амия, инструктор Доберманн и остальные..."
+line-299,近卫干员,该怎么办，我现在该怎么办......？,What should I do? What can I do right now...?,"Что же делать, что мне теперь делать...?"
+line-307,赫拉格,——挑这种时候进入切尔诺伯格，罗德岛会被所有人当成敌人。,"——If they move into Chernobog at a time like this, everyone would view Rhodes Island as an enemy.","— Решив войти в Чернобог в такой момент, Родос Айленд станет врагом для всех."
+line-308,赫拉格,他们为什么要这么做？,Why would they do this?,Зачем они это сделали?
+line-310,爱国者,不论。只是我，没能阻止冲突。,"Unclear. But, there is nothing I can do, to stop the conflict.",Неважно. Просто я... не смог предотвратить столкновение.
+line-311,爱国者,刚刚有位战士，孤身对抗，萨卡兹佣兵。,We just had a warrior. Fighting alone. A Sarkaz mercenary.,Только что... один боец... в одиночку... противостоял наёмникам Сарказа.
+line-312,爱国者,意外，这位罗德岛人，也是个萨卡兹。,"And, the one from, Rhodes Island, was also Sarkaz.",Удивительно... этот человек из Родос Айленда... тоже был Сарказом.
+line-314,赫拉格,同类相残......和整合运动的所作所为没什么区别。,The same sort of misery... There is no difference between them and Reunion.,Воссоединение
+line-316,爱国者,民众，被乌萨斯欺骗，不将我们，看作同胞。,"The masses. Fooled by the Ursus. But to us, we are compatriots.",Народ... обманут Урсусом... они не видят... в нас соотечественников.
+line-324,近卫干员,什么？萨卡兹......罗德岛的萨卡兹？,Huh? A Sarkaz... from Rhodes Island?,Что? Сарказ... Сарказ из Родос Айленда?
+line-332,爱国者,但佣兵们，为战斗而战斗。罗德岛的战士，有战斗的理由。,But a mercenary. Fights for fighting's sake. Rhodes Island's warrior. Has a reason to fight.,Но наёмники... сражаются ради битвы. У бойца Родос Айленда... была причина сражаться.
+line-333,爱国者,他战败了。但他依然，射杀无数精锐。佣兵的新领头人，气急败坏。,"He lost. But he shot dead, many elite troops. The new mercenary captain, was at a loss.",Он проиграл. Но всё же... сразил бесчисленное количество элиты. Новый предводитель наёмников... был в ярости.
+line-334,爱国者,而且，他把敌人，诱离身后废墟。,"And, the enemy. He led away from the ruins.",К тому же... он увёл врага... от руин за своей спиной.
+line-342,近卫干员,？！,?!,?!
+line-350,爱国者,他想藏住什么，他做到了。,He wanted to hide something. He did.,Он хотел что-то скрыть... и он это сделал.
+line-351,爱国者,灰烬里，剩下这件遗物。请转交他们。,"In the ashes. Was this thing. Please, return it to them.","В пепле... осталась эта реликвия. Пожалуйста, передайте её им."
+line-352,爱国者,真正的战士......没有姓名。,A true warrior... with no name.,У настоящего воина... нет имени.
+line-354,赫拉格,我会的。,I will.,Я сделаю это.
+line-362,近卫干员,萨卡兹......难道Scout先生为了保护我......？,A Sarkaz... Don't tell me that was Scout protecting me...?,Сарказ... Неужели господин Скаут защитил меня ценой своей жизни...?
+line-370,赫拉格,真正的战士......,A true warrior...,Настоящий воин...
+line-371,赫拉格,对了。你以前也说过。,Yes. You have said as much before.,Верно. Ты и раньше так говорил.
+line-373,爱国者,您说。,Go on.,Продолжайте.
+line-375,赫拉格,二十多年前，你说过你想与我比试一次。,"Thirty some years ago, you wanted to have a test of sorts with me.","Более двадцати лет назад ты сказал, что хочешь сразиться со мной."
+line-377,爱国者,现在？不。,Now? No longer.,Сейчас? Нет.
+line-378,爱国者,我的铠甲，您砍不穿。不公平。,My armor. You could not pierce it. It would be unfair.,Мою броню... вам не пробить. Это будет нечестно.
+line-380,赫拉格,这副铠甲已经相当破旧了。它的性能远不及军队不断维护它的时候。,This armor is well past its prime. A far cry from the days when the Army performed regular maintenance on it.,"Эта броня уже порядком изношена. Её состояние далеко от того времени, когда армия постоянно поддерживала её."
+line-382,爱国者,铠甲，乌萨斯的。我，帝国的背叛者。它只会越来越破。,"My armor, is Ursus. I am a, traitor to the Empire. It will deteriorate. More and more.",Броня... Урсуса. Я... предатель Империи. Она будет... только ветшать.
+line-384,赫拉格,正因如此，你才会有那个代号。你在它错误的时候站起来反对它。,"And that is why you bear the name you do. When the Empire has done wrong, you stand up to her.","Именно поэтому у тебя такой позывной. Ты восстал против неё, когда она была неправа."
+line-386,爱国者,我不敢这么说，将军。我不以此自称。,"I cannot say, General. I did not choose, this name.","Я не смею так говорить, генерал. Я не называю себя так."
+line-388,赫拉格,“爱国者”，乌萨斯的战争是否理所应当？,"'Patriot,' is war with Ursus the correct course of action?",«Патриот»... оправдана ли война Урсуса?
+line-390,爱国者,自然。我们的战争，是正义的。否则，无数牺牲，失去意义。,"Naturally. Our war, is righteous. If not, the countless sacrifices. Were in vain.",Разумеется. Наша война... справедлива. Иначе... бесчисленные жертвы... лишатся смысла.
+line-391,爱国者,将军。真正的答案，我们都知道。,"General. We both know, the true solution.",Генерал. Истинный ответ... мы оба знаем.
+line-393,赫拉格,——,——,—
+line-395,爱国者,但，他们不能白死。他们的死，必须有意义。,"But they must not, die in vain. Their deaths. Must have meaning.",Но... они не могут умереть напрасно. В их смерти... должен быть смысл.
+line-397,赫拉格,可你已经站了出来，你在反对乌萨斯。,"But you have already risen up, against Ursus.",Но ты ведь уже выступил против. Ты противостоишь Урсусу.
+line-399,爱国者,我反对的，是帝国。不是土地，不是人民，不是乌萨斯本身。,What I oppose. Is the Empire. Not the land. Not the people. Not Ursus itself.,Я противостою... Империи. Не земле... не народу... не самому Урсусу.
+line-400,爱国者,如果是医学大臣，造成现状，他就是敌人。,If the Minister of Medicine. Did this. He is our enemy.,Если министр медицины... виновен в происходящем... он враг.
+line-401,爱国者,如果是议会谋划，我们就推翻议会。,"If a conspiracy, of the legislature. We overthrow the legislature.",Если заговоры плетёт парламент... мы свергнем парламент.
+line-402,爱国者,如果是军队，制造对立，就毁掉军队。,"If the Army, fabricated resistance. We destroy the army.",Если армия... сеет рознь... мы уничтожим армию.
+line-403,爱国者,塔露拉有远大目标。我的目标，更阶段性，但更明确。,Talulah's goals are broad. Far-reaching. Mine are localized. And specific.,У Талулы есть великая цель. Моя цель... более приземлённая... но более ясная.
+line-404,爱国者,过去的乌萨斯，战争是正义的；现在的感染者，战争是正义的。,"The past wars of Ursus, were just. Now, the war of the Infected, is just.",Для былого Урсуса... война была справедливой. Для нынешних заражённых... война справедлива.
+line-405,爱国者,我为正义而战。正义，永远属于乌萨斯。,"I fight for justice. Justice, forever belongs to Ursus.",Я сражаюсь за справедливость. А справедливость... всегда принадлежит Урсусу.
+line-414,整合运动成员,报告！抓获了一批在起义过程中有漠视纪律行为的整合运动成员，这是名单！,Reporting in! We have arrested some Reunion operatives who engaged in undisciplined behavior during the uprising. Here are their names!,"Докладываю! Захвачена группа членов Воссоединения, проявивших неуважение к дисциплине во время восстания. Вот список!"
+line-415,整合运动成员,主要发起人里，基本没有第二、第三和第六大队的成员！,"There were no operatives from Teams 2, 3, or 6 among the primary instigators.","Среди основных зачинщиков практически нет членов второго, третьего или шестого отрядов!"
+line-417,爱国者,这只是小部分。,These are but a small part.,Это лишь малая часть.
+line-419,整合运动成员,这个，关于具体的实施人，其实我们......很难调查。,"Well, I'm afraid... this was a difficult investigation.","Что касается конкретных исполнителей... нам, по правде говоря... трудно это расследовать."
+line-420,整合运动成员,很多同胞对切尔诺伯格人咬牙切齿，他们不可能通报......,Many of our comrades despise the Chernobogians. They're hesitant to inform on each other...,"Многие наши братья скрежещут зубами при виде жителей Чернобога, они ни за что не станут доносить на своих..."
+line-422,爱国者,违纪，对平民下手？,This undisciplined behavior. They laid hands on civilians?,Нарушение дисциплины? Нападение... на мирных жителей?
+line-424,整合运动成员,......,......,......
+line-425,整合运动成员,可这些切尔诺伯格人那么冷酷，这是他们罪有应得！,"Didn't they deserve it, after how cruel and uncaring they were?!","Но эти люди из Чернобога были так жестоки к нам, они получили по заслугам!"
+line-426,整合运动成员,如果不是他们，很多感染者也不会落到今天，指挥官！求你......,"Were it not for them, how many more Infected would have made it? Please, Commander...!","Если бы не они, многие заражённые не оказались бы в таком положении, командир! Прошу вас..."
+line-428,爱国者,对平民下手？,They laid hands on civilians?,Нападение... на мирных жителей?
+line-430,整合运动成员,......,......,......
+line-432,爱国者,传令。,Listen.,Слушайте приказ.
+line-433,爱国者,吊死，主要人员。让我的士兵，动手。,"Hang them. The instigators. Have my men, do it.",Повесить. Зачинщиков. Пусть мои солдаты... исполнят приговор.
+line-434,爱国者,警告，梅菲斯特，弑君者。,Tell them. Mephisto. Crownslayer.,Предупредить... Мефисто. И Краунслейер.
+line-436,整合运动成员,......是。,"......Yes, sir.",...Есть.
+line-438,爱国者,......剩下的，记过。,"...The rest, demerits.",...Остальным... выговор в личное дело.
+line-440,整合运动成员,记，记过吗？,"D- demerits, sir?",Вы... выговор?
+line-442,爱国者,再犯，处死。把这些也，通知领袖。,"One more infraction, death. All of this, inform the leadership.",За повторение... смерть. Сообщите об этом... Лидеру.
+line-444,整合运动成员,啊，明白！,"Right! Yes, sir!","А, понял!"
+line-453,爱国者,仇恨，太深重了。,Hate. Has grown too deep.,Ненависть... слишком глубока.
+line-454,爱国者,再不战斗，仇恨会遮住，乌萨斯所有眼睛。,If we don't fight. Hate overwhelms. It will blind Ursus.,Если не сражаться... ненависть ослепит... весь Урсус.
+line-456,赫拉格,整合运动比我想的要散漫......你对军纪的要求比乌萨斯大多数队伍都高。,I never imagined Reunion was so disorganized... And when you always had such high expectations for discipline. Higher than most Ursus.,"Воссоединение более разрозненно, чем я думал... Твои требования к дисциплине выше, чем в большинстве отрядов Урсуса."
+line-458,爱国者,绝大多数，都不是士兵，缺乏训练。必须整顿。有纪律，才配攻坚。,"Most of them, are not soldiers. They have no training. They must be taught. In discipline, we have strength.",Большинство... не солдаты. Не обучены. Нужен порядок. Только дисциплина... берет крепости.
+line-460,赫拉格,对立继续加剧，任何一方都不会再有申诉的机会了。也许你是对的。乌萨斯需要一次警醒。,"As your conflict continues to intensify, neither side will be able to sue for peace. Perhaps you are right. This is the awakening Ursus needs.","Противостояние обостряется, скоро ни у одной из сторон не останется шанса на оправдание. Возможно, ты прав. Урсусу нужна встряска."
+line-462,爱国者,将军也可以，帮助我们。,"General, you could. Help us.",Генерал тоже... мог бы помочь нам.
+line-464,赫拉格,不了，“爱国者”。我不会再踏入另一场战争。,"I am afraid not, 'Patriot.' I will never again step into a war.","Нет, Патриот. Я больше не ввяжусь ни в какую войну."
+line-466,爱国者,......是了。这确实，是战争。,"...Indeed. This is, a war.",...Верно. Это действительно... война.
+line-467,爱国者,您，不想再打仗。我知道那件事。,"You do not, wish to fight. This, I know.",Вы... не хотите больше воевать. Я знаю... о том случае.
+line-469,赫拉格,我和乌萨斯之间已经没什么了。一切都随着时间流失殆尽。,Ursus no longer has anything for me. Time has run its course.,Между мной и Урсусом больше ничего не осталось. Всё утекло вместе со временем.
+line-470,赫拉格,我已经没以前那么在乎这个国家。原谅我，现在站在你面前的，只是个没志气的懦夫。,I no longer feel for the country what I once did. Forgive me. The man who stands before you is nothing but a spineless coward.,"Эта страна заботит меня уже не так сильно, как прежде. Прости меня, сейчас перед тобой лишь безвольный трус."
+line-472,爱国者,不！不。您不是。,No! No. You are not.,Нет! Нет. Вы... не трус.
+line-473,爱国者,如果我儿还活着，我不会，走到今天。我能理解您。,"Would that, my son, had lived. I would not, have walked this path. I understand you.",Если бы мой сын... был жив... я бы не зашёл... так далеко. Я понимаю вас.
+line-475,赫拉格,什么？你的......,He... what?,Что? Твой...
+line-476,赫拉格,......他是个优秀的人。抱歉。,...He was a great man. I am sorry.,...Он был достойным человеком. Мне жаль.
+line-478,爱国者,您为什么道歉，将军？您没犯错，该死的是我。,"Why apologize, General? You did nothing. I am damned.",Почему вы извиняетесь... генерал? Вы не совершали ошибок... это я достоин смерти.
+line-479,爱国者,啊，是了。您手中这把刀，对，您收养了，敌指挥官的女儿。,"Oh, yes. The knife in your hand. Yes. You adopted, the daughter, of the enemy commander.","Ах, да. Клинок в ваших руках... верно... вы удочерили... дочь вражеского командира."
+line-480,爱国者,我女儿，年纪大点。下次见面，我会带她在身边。,"My daughter, is older. When, next we meet. I will bring her.",Моя дочь... постарше. В следующий раз... я возьму её с собой.
+line-482,赫拉格,呵，希望她们能好好相处。,Hah. I hope they get along.,"Ха, надеюсь, они смогут поладить."
+line-490,整合运动成员A,那里有伤员！快去对一下血型！别搞错感染者和普通人的了！快点！,We have wounded! Get their blood types! Don't mix up the Infected and Uninfected! Quickly!,Там раненые! Быстро проверьте группу крови! Не перепутайте заражённых с обычными людьми! Живее!
+line-491,整合运动成员B,普通人的血可以输给感染者！,You can give Uninfected blood to the Infected!,Кровь обычных людей можно переливать заражённым!
+line-492,整合运动成员A,这位是谁的家属？,Who's the next of kin?,Это чей-то родственник?
+line-493,整合运动成员A,不管了，先送到安全区去！布里叶特......动作快！,"Forget it, just get to safety! Britt... move it!","Неважно, сначала отправьте в безопасную зону! Бриетта... поторапливайся!"
+line-501,爱国者,塔露拉攻击罗德岛，这个误会，我很难解开。,"Talulah's attack, on Rhodes Island. This misunderstanding. Will be hard to, clear up.",Талула напала на Родос Айленд... это недоразумение... мне трудно сгладить.
+line-502,爱国者,如果，事情无法挽回，我也不想与您对立。,"I do not wish, to fight you. If this cannot, be solved.",Если... ничего нельзя исправить... я не хотел бы... враждовать с вами.
+line-504,赫拉格,这可能不再是你我能决定的事情。,This may go beyond what we can solve ourselves.,"Боюсь, это уже не нам с тобой решать."
+line-506,爱国者,......将军。,...General.,...Генерал.
+line-507,爱国者,不能再次，与您并肩作战，我很遗憾。,"It saddens me. That we cannot, once again, fight side by side.",Мне очень жаль... что я не смогу... снова сражаться... плечом к плечу с вами.
+line-509,赫拉格,......听好，“爱国者”......,"...Listen to me, 'Patriot...'","...Послушай, Патриот..."
+line-511,赫拉格,乌萨斯不会因我的一己之力就变得强盛或衰弱。,I alone have never been able to decide the fate of Ursus.,Урсус не станет сильнее или слабее от усилий одного лишь меня.
+line-512,赫拉格,数以千计的将领尝试过，个个都想着成为帝国命运的主宰者，他们无一不凄惨地失败了。,"Countless generals before me have sought to become masters of the Empire's destiny, and to a man they all died miserable failures.","Тысячи генералов пробовали, каждый мнил себя хозяином судьбы империи, и каждый из них потерпел сокрушительное поражение."
+line-513,赫拉格,历代陛下一样逃脱不了命运的坑害。,Just as the many emperors have escaped the wrath of history.,Даже императоры прошлых лет не могли избежать ловушек судьбы.
+line-514,赫拉格,帝国在风雨飘摇和重塑荣光间摇摆不定，哼，巫师都能描摹国家的未来，弄臣可以预测战役的走势，说客也懂天灾的变化......,"The Empire has weathered its crises and enjoyed its golden ages. The sorcerors can divine the Empire's future, the ministers can plan the outcomes of campaigns, courtiers can study the shifting Catastrophes...","Империю бросает из стороны в сторону — от упадка до попыток вернуть былое величие. Ха, даже колдуны пытаются предсказать будущее страны, шуты пророчат исход сражений, а лоббисты рассуждают об изменениях в Катастрофах..."
+line-515,赫拉格,我没有参与过任何一次政治聚会。无论是议员们的，还是军人们的，我都没有参加过。,"I have never participated in any political machinations. Not in the legislature, not in the army. Never.","Я никогда не участвовал в политических сборищах. Ни в собраниях советников, ни в советах военных."
+line-516,赫拉格,他们的自信让我感到可耻。所有觉得自己能胜的都输了。所有觉得自己能活的，都死了。,They always embarrassed me with their confidence. Everyone who thought his victory certain saw his dreams shattered. Everyone who thought his survival assured is now dead.,"Их самоуверенность вызывает у меня лишь презрение. Все, кто верил в свою победу, проиграли. Все, кто надеялся выжить, погибли."
+line-523,？？？,妈妈，晚上吃什么呀？,"Mama, what are we going to eat tonight?","Мама, что у нас сегодня на ужин?"
+line-524,？？？,又是土豆吗？我，我不想再吃水煮的土豆啦！,"Potatoes again? I, I don't wanna eat boiled potatoes again!",Опять картошка? Я... я больше не хочу варёную картошку!
+line-525,？？？,嗯？妈妈还要去打仗？妈妈，能不能别去？,"Huh? You have to go fight? Mama, you don't have to fight.","А? Мама снова уходит на войну? Мамочка, пожалуйста, не уходи."
+line-526,？？？,老伯伯，妈妈又要跟你走吗？我不想，我不想让妈妈走！,"Uncle, does Mama have to go with you again? I want her to stay! I don't want Mama to go!","Дедушка, мама снова должна уйти с тобой? Я не хочу, я не хочу, чтобы мама уходила!"
+line-527,？？？,老伯伯，你让妈妈留下吧，爸爸被你带走以后，到现在还没有回来呢......,"Uncle, please make Mama stay. When Daddy went with you, he never came back...","Дедушка, пусть мама останется... Папа ушёл с тобой и до сих пор не вернулся..."
+line-528,？？？,我不想再一个人呆在家里了，老伯伯......,"I don't wanna be alone again, Uncle...","Я не хочу больше оставаться дома одна, дедушка..."
+line-537,赫拉格,无论输赢，我们一直在发动战争。,"Win or lose, a war is a war.","Неважно, кто победит, мы всё равно продолжаем развязывать войны."
+line-538,赫拉格,伴随着我们的只有毁灭，只是毁灭。,"And where we go, ruin follows. Only ruin.","Всё, что мы приносим с собой — это разрушение. Только разрушение."
+line-539,赫拉格,我们都只是战争的棋子，有谁在乎棋子有没有名字？,We are but pawns on the chessboard of war. And who cares for the pawns? Who cares to even know their names?,"Мы лишь пешки в этой войне, а кому есть дело до имен каких-то пешек?"
+line-541,爱国者,您，没有错。我，没有错。战争，不认对错。,"You, are correct. I, am correct. War, doesn't care, who is correct.",Вы... не виновны. Я... не виновен. У войны... нет правых.
+line-542,爱国者,您坚持，我也坚持。,Yet you persist. I persist.,Вы стоите на своём... и я стою.
+line-544,赫拉格,为什么？整合运动的“爱国者”，我问你——,"For what? 'Patriot' of Reunion, I ask you:",Воссоединение
+line-545,赫拉格,哪怕战争真有什么意义——,No matter what meaning your war may hold...,Даже если в войне и есть какой-то смысл...
+line-546,赫拉格,乌萨斯无数年的征战之后，那能够塞满十几座城市的尸体，他们的命有没有意义？有谁能记住他们的名字？,"After however many years this Ursus campaign takes, when you have filled mass graves in a dozen cities, will their lives have meant anything? Will anyone remember their names?",За все эти годы бесконечных войн Урсуса... горы трупов могли бы заполнить десяток городов. Имели ли их жизни смысл? Кто вспомнит их имена?
+line-548,爱国者,名字，被人知道？不需要。战士不考虑这些。,"Names? Mean nothing. Warriors don't think, of these things.",Чтобы имена... помнили? Не нужно. Солдат... об этом не думает.
+line-550,赫拉格,你把他们叫做战士——,You call them warriors...,Ты называешь их солдатами...
+line-551,赫拉格,有些时候，这些没有名字的人，连参加战争的理由都说不出。,"Sometimes, these nameless people cannot articulate their reasons for joining in battle.","Порой эти безымянные люди даже не могут сказать, ради чего они сражаются."
+line-552,赫拉格,现在，他们再也没机会说了。,"Now, they have no chance to do so.",А теперь у них уже никогда не будет шанса это сказать.
+line-553,赫拉格,我厌倦了这一切。现在的我只想保护身边人，这点小事，至少触手可及。,I have grown tired of such things. I now wish only to protect those around me. At least this small thing is within my power.,"Я устал от всего этого. Сейчас я хочу лишь защитить тех, кто рядом. Эта задача хотя бы мне под силу."
+line-554,赫拉格,对乌萨斯如此，对感染者也如此。,"To Ursus, to the Infected,","Так я отношусь к Урсусу, так я отношусь и к заражённым."
+line-555,赫拉格,这就是我的答复。,This is all I can say.,Таков мой ответ.
+line-557,爱国者,这不怪您，将军。没有人必须，再去赴死。,"I can't blame you, General. You don't need, to face death again.",Это не ваша вина... генерал. Никто не обязан... идти на смерть.
+line-558,爱国者,矿石病，终归会让我死去。我是个士兵，我想死得，有价值。,"Oripathy, will kill me, sooner or later. I am a warrior. I want my death, to have meaning.",Орипатия... всё равно убьет меня. Я солдат... и хочу умереть... с пользой.
+line-560,赫拉格,你有继续奋战下去的理由，很好，我真心为你感到高兴。,I am glad you have a reason to keep fighting. I truly hope you will find happiness.,"У тебя есть причина продолжать борьбу. Хорошо, я искренне рад за тебя."
+line-562,爱国者,......这样。将军，请听听，我的观点。,...Hm. General. Listen.,...Вот как. Генерал... выслушайте... и мою точку зрения.
+line-564,赫拉格,说吧。,I'm here.,Говори.
+line-566,爱国者,您不怕死。如果怕死，您现在，已经身在罗德岛。,"You don't fear death. If you did, you would be, at Rhodes Island.",Вы не боитесь смерти. Если бы боялись... уже были бы... на Родос Айленде.
+line-567,爱国者,您留下来，想听我的态度，您不怕天灾。,You stay. You listen. You don't fear Catastrophe.,Вы остались... чтобы узнать мои мысли. Вы не боитесь... катастроф.
+line-568,爱国者,您想知道，整合运动的目的。,You want to know. Reunion's goal.,Вы хотите знать... цели «Воссоединения».
+line-570,赫拉格,确实。我想知道，你们想让乌萨斯的感染者走到哪一步。,"In fact, I want to know what you plan for the Infected of Ursus.","Верно. Я хочу знать, до какой черты вы намерены довести заражённых в Урсусе."
+line-572,爱国者,那么，我，说说。,"Then. I will, tell you.",Тогда... я скажу.
+line-573,爱国者,您，厌倦战争，我，帮你打。,"You are tired, of fighting. I fight, for you.",Вы... устали от войны. Я... буду воевать за вас.
+line-574,爱国者,感染者的权力，我，为您和您的孩子，为所有感染者，打回来。,"The rights, of the Infected. You and your children. I fight to free you, all.","Права заражённых... я отвоюю их... для вас, для вашего ребенка... для всех нас."
+line-575,爱国者,您厌恶战争。请，继续厌恶下去。如果能，结束所有战争，也好。,"You are tired, of fighting. Good. Wallow in disgust. To end war, is also good.",Вам противна война. Что ж... пусть так и будет. Было бы славно... покончить со всеми войнами.
+line-576,爱国者,我，时日无多，我用来，斗争到最后。,"My days, are numbered. I will fight, to the end.",Мои дни... сочтены. Я посвящу их... борьбе до самого конца.
+line-578,赫拉格,......,......,......
+line-579,赫拉格,你才算是个真正的乌萨斯人。,You truly are an Ursus.,Ты — настоящий сын Урсуса.
+line-580,赫拉格,真是场可悲的战争。,And this truly is a tragic war.,Поистине печальная война.
+line-583,赫拉格,也许在我有生之年，我不会再踏上乌萨斯的土地一步。,It may come to pass that I never again set foot on Ursus soil.,"Возможно, до конца своих дней я больше не ступлю на землю Урсуса."
+line-584,赫拉格,听好，博卓卡斯替。,"Listen well, Buldrokkas'tee.","Слушай меня внимательно, Бодрокасти."
+line-585,赫拉格,【我不会与你为敌。绝不。】,You shall not be my enemy. Ever.,【Я не стану твоим врагом. Никогда.】
+line-587,爱国者,————,————,————
+line-588,爱国者,我不曾是，您麾下的士兵。这是我的，遗憾之一。,"I do regret. That I never, served under you.",Я не был солдатом под вашим началом. Это одно из моих... сожалений.
+line-589,爱国者,【将军，我也绝不成为，你的敌人。】,"General, you shall not, be my enemy. Either.","【Генерал, я тоже... никогда не стану вашим врагом.】"
+line-590,爱国者,——,——,——
+line-591,爱国者,时候不早了，将军。让我的士兵，送您出城。没人能阻拦。,"It's late, General. My men will, get you out, of the city. Easily.","Уже поздно, генерал. Мои солдаты проводят вас из города. Никто не посмеет вас остановить."
+line-593,赫拉格,如果你的领袖向我发难，我不会让你难做。,I would not want to cause problems for you with your leadership.,"Если твой лидер выступит против меня, я не поставлю тебя в неловкое положение."
+line-595,爱国者,不会的，将军。,You won't. General.,"Этого не случится, генерал."
+line-596,爱国者,她不在乎。,She does not care.,Ей всё равно.
+line-598,赫拉格,这样最好。那么，就此别过。,Splendid. Then I accept.,"Так будет лучше всего. Что ж, тогда прощай."
+line-604,爱国者,——,——,——
+line-605,爱国者,将军！,General!,Генерал!
+line-607,赫拉格,怎么？,Hm?,Что такое?
+line-609,爱国者,......,......,......
+line-610,爱国者,祝您......祝您......,I hope... I pray...,Желаю вам... желаю вам...
+line-611,爱国者,祝您找到自己，真正的归宿。,"That you find yourself. A true home, for yourself.",Желаю вам найти свой истинный дом.
+line-619,近卫干员,......,......,......
+line-620,近卫干员,Scout先生......我有什么值得你这么做的地方？,Scout... why did you do this for me?,Господин Скаут... чем я заслужил такое отношение?
+line-621,近卫干员,像我这种废物，究竟哪里值得你这么做......！,I'm garbage! Why did you think I'm worth saving...?!,"Чем такой никчёмный человек, как я, заслужил это...!"
+line-622,近卫干员,我究竟在做什么？整合运动刚才那些情报，我又该和谁说？,"What am I even doing? I just got a bunch of great intel off Reunion, but who am I supposed to give it to?",Что я вообще делаю? Кому мне рассказать о тех разведданных Воссоединения?
+line-623,近卫干员,他们真的像我们想的那样吗？要是能解决他们说的那个误会，我们就不用......,"Maybe we got them all wrong? I guess if we could clear up this misunderstanding, maybe we wouldn't have to...","Неужели они действительно такие, какими мы их представляли? Если бы мы могли разрешить то недопонимание, о котором они говорили, нам бы не пришлось..."
+line-624,近卫干员,对了......对了，字条上会不会写了什么命令？,Oh right... this paper. Were there any orders written on it?,"Точно... точно, может быть, в записке есть какие-то приказы?"
+line-625,近卫干员,如果有，Scout先生，我一定代你去做......一定！,"I can do it, Scout... anything you tell me to do...","Если они там есть, господин Скаут, я обязательно выполню их за вас... Обязательно!"
+line-626,近卫干员,我可不会丢头儿的脸......！,I won't let the boss down...!,Я не опозорю нашего командира...!
+line-634,Scout,我有一个不情之请，就当作是安置你的辛苦费吧。我治疗了你的伤势，至少你暂时没有生命危险了。,"I have a humble request, if I might be so bold. As recompense, I took the liberty of treating your wounds. You are, for the time being, out of mortal danger.","У меня есть к тебе просьба, считай это платой за мои труды по твоему спасению. Я подлечил твои раны, по крайней мере, твоей жизни сейчас ничто не угрожает."
+line-635,Scout,接下来，请听我说些无聊的事情。,So I ask that you entertain my frivolous trifles.,"А теперь, послушай кое-какие скучные вещи."
+line-636,Scout,这次，我们的目标是救出博士。阿米娅表现得十分坚决。没人能说服她改变决定，或者说，所有人都把自己看得太轻了。,My objective for this operation is to rescue the Doctor. Amiya is quite insistent on this matter. She cannot be persuaded otherwise.,"В этот раз наша цель — спасти Доктора. Амия настроена решительно. Никто не смог убедить её изменить решение, или, вернее сказать, все остальные слишком низко себя ценят."
+line-637,Scout,Ace也和阿米娅一样，他坚信只要救出博士，罗德岛就能打破许多现有的僵局。,Ace and Amiya are of one mind. They firmly believe that only by rescuing the Doctor can Rhodes Island break this deadlock.,"Эйс согласен с Амией. Он верит, что спасение Доктора поможет Родос Айленду выйти из многих тупиков."
+line-638,Scout,如果博士还像过去那样做事——我相信罗德岛一定会更加兴盛。,"Assuming the good Doctor retains the same mental faculties as before, Rhodes Island might well be looking at a golden age.","Если Доктор будет действовать так же, как в прошлом, я уверен, Родос Айленд ждёт ещё большее процветание."
+line-639,Scout,可我是个软弱的人，我不知道......,"But weak as I am, I am uncertain...","Но я человек слабый, и я не знаю..."
+line-640,Scout,不知道自己有没有骨气承受这种兴盛。,I am not certain I have the fortitude to undertake such a golden age.,"Не знаю, хватит ли мне духу вынести это процветание."
+line-648,近卫干员,什么......？这是什么意思？,What...? What does that mean?,Что...? Что это значит?
+line-656,Scout,三年前到现在，我们损失了许多兄弟姐妹。,"Over the past three years, I have suffered many losses, and bid farewell to those like unto my own flesh and blood.",За последние три года мы потеряли многих братьев и сестёр.
+line-657,Scout,我一直认为，只要我们中还有人活着，就一定会在某处团聚，这也是我继续服务罗德岛的原因之一。,"I always believed that as long as one of us lived on, we could someday be reunited. In this spirit I have served Rhodes Island.","Я всегда считал, что пока хоть кто-то из нас жив, мы обязательно где-нибудь встретимся снова. Это одна из причин, почему я продолжаю служить Родос Айленду."
+line-658,Scout,但我们失去的东西够多了，多到连Misery这样悲观的人都觉得必须让博士回归。,"But having lost so much, now I see that even a perpetual pessimist like Misery seeks to bring back the Doctor.","Но мы потеряли слишком много. Настолько много, что даже такой пессимист, как Мизери, считает возвращение Доктора необходимым."
+line-659,Scout,他一厢情愿地认为这之后我们将无往不利，死亡与告别会成为过去式。,"He believes with every fiber of his being that we are destined for a future of endless victories, that we shall put death and loss behind us.","Он наивно верит, что после этого мы станем непобедимы, а смерть и прощания останутся в прошлом."
+line-660,Scout,我不这么觉得。,I do not share this belief.,Я так не думаю.
+line-661,Scout,哦，我没在怀疑博士的能力。博士是倾斜了力量天平的人，没有博士，卡兹戴尔会是一潭死水。,"It is not that I doubt the Doctor's skill. The Doctor can indeed tip the scales. Without the Doctor, Kazdel would be dust in the wind.","О, я не сомневаюсь в способностях Доктора. Доктор — это тот, кто склонил чашу весов. Без Доктора Каздель был бы стоячим болотом."
+line-662,Scout,何况，正是博士教给我战斗的理由。,"In fact, it was the Doctor who taught me what it means to fight.","Более того, именно Доктор дал мне причину сражаться."
+line-663,Scout,只不过......当我们请求博士指挥我们的时候......在博士的眼神里，我只能看到胜利的承诺。,"And yet... With the Doctor commanding us... looking into the Doctor's eyes, one sees only victory.",Вот только... когда мы просим Доктора командовать нами... в глазах Доктора я вижу лишь обещание победы.
+line-664,Scout,除了胜利，我看不到别的东西。什么也没有。,"Nothing but victory. I see nothing, save victory.","Кроме победы, я не вижу больше ничего. Совсем ничего."
+line-665,Scout,那里什么也没有。,Nothing else in those eyes.,Там абсолютная пустота.
+line-666,Scout,我一直在想，凯尔希女士一直不肯向我们透露的真相，是不是也和博士有关？,"And so I am left thinking: the truth that Kal'tsit is so unwilling to reveal, does it have to do with the Doctor?","Я всё время думаю: а не связана ли та правда, которую госпожа Кальцит отказывается нам раскрывать, с Доктором?"
+line-667,Scout,三年前最后的那段时间，为什么照片上的X会越来越多，为什么牺牲越来越频繁，为什么会有我们根本看不到目的的战斗？,"In these three years, why must we draw more and more crosses onto the photos of our friends? Why do these sacrifices grow more and more frequent? Why do we fight without understanding the fundamental goals of our organization?","Почему в последние дни три года назад на фотографиях становилось всё больше крестов, почему жертвы случались всё чаще, почему мы вели сражения, цели которых не понимали?"
+line-668,Scout,我不敢想象，也不能去想象。,I dare not speculate. I cannot speculate.,"Я не смею это представлять, да и не могу."
+line-669,Scout,如果战火和厮杀催化了博士，让博士从一个教导者和研究者，变成了一台战争机器......,"If the Doctor must be forged in the crucible of war, then we force this professor to transform from an educator and a researcher into a war machine...",Если пламя войны и резня превратили Доктора из наставника и исследователя в машину войны...
+line-670,Scout,那只会是我们这些请求Dr.{@nickname}去参与战争的人犯下了大错。,"And as such, it would be a truly grave mistake for us to ask Dr. {@nickname} to march into battle.","Тогда это мы, те, кто просил Доктора {@nickname} участвовать в войне, совершили ужасную ошибку."
+line-671,Scout,博士不应该再去指挥战斗。对博士本人而言如此，对罗德岛而言，也是如此。,"The Doctor should not command even one more battle. For Rhodes Island's sake, and for the Doctor's own sake.","Доктор не должен больше командовать. Это касается и самого Доктора, и Родос Айленда."
+line-672,Scout,......很抱歉，很天真吧。,...Forgive my naiveté.,"...Прости, это звучит наивно, верно?"
+line-673,Scout,我的想法，就连我自己都觉得幼稚......所以我也不曾向谁吐露过这些。,I recognize that my ideas are rather juvenile... and have therefore thus far been unwilling to disclose them.,Мои мысли кажутся детскими даже мне самому... Поэтому я никогда и ни с кем ими не делился.
+line-674,Scout,哼，不论是谁听见都会笑出声。我挺不喜欢别人嘲笑我的，原本，我也想带着这些念头入土。,I can only imagine how the others would laugh at me. I do not like being laughed at. And I had planned to carry these thoughts with me to my grave.,"Хм, любой, кто это услышит, рассмеётся. А я не люблю, когда надо мной смеются. Изначально я хотел унести эти мысли с собой в могилу."
+line-675,Scout,但到了现在这个时候，我竟然还是希望有谁，哪怕是，能帮我惦记下这件事......,But then it came down to this. And I found the hope that someone might join me in taking up this idea...,"Но теперь я вдруг захотел, чтобы кто-то, хоть кто-нибудь, помнил об этом вместо меня..."
+line-676,Scout,我想让博士，重新开始生活。,I want the Doctor to begin anew.,"Я хочу, чтобы Доктор начал жизнь заново."
+line-677,Scout,如果能和罗德岛再无瓜葛，或者说，博士能真的置身事外，哪怕是忘记了过去的一切......,"If the Doctor could live without any connection to Rhodes Island, if the Doctor could stand again, having no memory of these preceding events...","Если бы можно было разорвать все связи с Родос Айлендом, или если бы Доктор мог остаться в стороне, даже если бы забыл всё прошлое..."
+line-678,Scout,只要博士不再走上战争这条路，怎么样都好。,"If the Doctor could avoid walking once more the path of war, then all would be well.","Пока Доктор не встанет на тропу войны снова, мне всё равно, что будет."
+line-679,Scout,唉，我只剩下这样虚无缥缈的愿望。,I bear only this unrealistic hope,"Эх, это всё, что у меня осталось — такое призрачное желание."
+line-687,近卫干员,......,......,......
+line-695,Scout,抱歉，说了这么多。如果不喜欢，就全当是胡言乱语吧。,"Forgive my verbosity. If you have no interest, then simply forget these words altogether.","Прости, что столько наговорил. Если тебе не нравится, считай это просто бредом."
+line-696,Scout,对了，倒是有三件事，我绝对没胡说。,Right. There are three things you may not forget.,"Кстати, есть три вещи, в которых я точно не соврал."
+line-697,Scout,第一，请告诉Dr.{@nickname}，嗯，我想就这么说吧。,"First: Say to Dr. {@nickname} the following,","Во-первых, передай Доктору {@nickname}... Хм, пожалуй, скажу так."
+line-698,Scout,“博士和我们并肩作战的那些日子，我一刻也没忘记过。”,"'I will never forget fighting side by side with you, Doctor.'","«Я ни на миг не забывал те дни, когда Доктор сражался плечом к плечу с нами»."
+line-699,Scout,第二，是我的小队。,Second: my squad.,"Во-вторых, мой отряд."
+line-700,Scout,——,——,——
+line-701,Scout,斯琳珂，普特尔，长蝎，雷发，姆拉姆，酒莓软芯，索拉娜，米米，小玛丽，图钉，淤兰，长音。,"Slink, Pter, Scorpion, Leafa, Milim, Tipsy, Slanna, Mimi, Mary, Thumbtack, Mudflower, and Macron.","Слинка, Путтер, Скорпион, Рэйфа, Мрам, Вайнберри, Солана, Мими, Малышка Мэри, Гвоздь, Юлань, Лонгэко."
+line-702,Scout,我的队员们，一共十二位。,"My squad, twelve of them.","Мои бойцы, всего двенадцать человек."
+line-703,Scout,他们打穿了敌人的防线，打退了敌人的救援；没他们在，我就没机会击杀敌人雇佣兵部队的领头人。,"They broke through the enemy lines and held off their reinforcements. Were it not for them, I would never have been able to neutralize their mercenary commander.",Они прорвали линию обороны врага и отбили их подкрепление. Без них у меня не было бы шанса устранить лидера вражеского отряда наёмников.
+line-704,Scout,只是，我这十二位可敬的干员，都在战斗中阵亡了。,"However, we lost all twelve of these exemplary operators in the course of their duties.",Только вот все эти двенадцать доблестных оперативников пали в бою.
+line-705,Scout,请你，见证他们的战斗。,"I beg you, bear witness to their actions.","Прошу тебя, стань свидетелем их подвига."
+line-706,Scout,如果有人问起来，帮我回答那些人吧——,"Should one ask, you must tell them for me:","Если кто-то спросит, ответь им за меня —"
+line-707,Scout,虽然没人能记住我这支小队中各位队员的名字，但他们死得尊严。他们没因为怕死而退缩过，绝对没有。,"While no one will remember the names of my squadmates, they must remember that they died with honor. They did not shrink in the face of death.","Пусть никто не запомнит имена членов моего отряда, но они погибли с достоинством. Они ни разу не отступили перед лицом смерти, ни единого раза."
+line-708,Scout,当然，我知道有许多罗德岛人为罗德岛的事业贡献了生命。没有人的死是特别的。,"Of course, I know many have given their lives in service of the project that is Rhodes Island. No one's death is unique.","Конечно, я знаю, что многие сотрудники Родос Айленда отдали свои жизни за наше дело. Ничья смерть не является исключительной."
+line-709,Scout,只是，我们不是在为了任何一个生命个体战斗。这样说，是在贬低他们的死！,We do not fight for any one individual life. To do so would dishonor their deaths.,Просто... мы сражались не за какую-то отдельную личность. Сказать так — значит обесценить их смерть!
+line-710,Scout,提醒下问起这件事的人：他们都是为了自己相信的理念而牺牲的。,Tell the one who asks: they gave their lives for what they believed in.,"Напоминай всем, кто спросит: каждый из них пожертвовал собой ради идеалов, в которые верил."
+line-711,Scout,第三——,Finally:,В-третьих —
+line-712,Scout,你得为自己活下去，不知姓名的罗德岛兄弟。我说了那么多，可不是在劝你送死。,"You must go on living for yourself. My Rhodes Island brother whose name I do not know, I have said so much to you, not that you should go off and die.","Ты должен выжить ради самого себя, безымянный брат из Родос Айленда. Я наговорил столько всего не для того, чтобы убеждать тебя идти на смерть."
+line-713,Scout,生命很可贵，如果能活着实现理想，何必去死呢？,Life is precious. You must live to pursue that bright future.,"Жизнь бесценна. Если можно воплотить свои идеалы живым, зачем тогда умирать?"
+line-714,Scout,就这么多了，兄弟。,"That is all, my brother.","Вот и всё, брат."
+line-715,Scout,要珍惜你的生命。,Treasure your life.,Береги свою жизнь.
+line-723,近卫干员,为什么.....,Why...,Почему...
+line-724,近卫干员,博士......罗德岛......,The Doctor... Rhodes Island...,Доктор... Родос Айленд...
+line-733,爱国者,战士！,Warrior!,Воин!
+line-741,近卫干员,！,!,!
+line-749,爱国者,我的声音，你听得见。,"You can hear, my voice.",Ты слышишь мой голос.
+line-750,爱国者,你有离开的机会，只等入夜。,"You have a chance, to escape. Wait, until nightfall.","У тебя есть шанс уйти, когда наступит ночь."
+line-751,爱国者,向南走，避开灯光。机会只有一次，就在今晚。,Head south. Avoid the light. You have one chance. Tonight.,"Иди на юг, избегай света. Шанс только один, этой ночью."
+line-752,爱国者,——或者——,——or——,—— Или ——
+line-753,爱国者,在切尔诺伯格，有许多人，需要照料。你可以，亲眼看看。,"There are many, in Chernobog, who need help. You can, see them.","В Чернобоге много тех, кому нужна помощь. Можешь увидеть сам."
+line-754,爱国者,选择。这是你的自由。,The choice. Is yours.,Выбирай. Это твоя свобода.
+line-760,近卫干员,......,......,......
+line-761,近卫干员,头儿，Scout先生，还有弟兄们......,"Boss, Scout, our brothers...","Командир, господин Скаут, и все остальные братья..."
+line-762,近卫干员,我会的。,I'll do it.,Я сделаю это.
