@@ -1,0 +1,187 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act17d0
+__chapter__,,Chapter Name,activities/act17d0/level_act17d0_03_end,安全屋攻防战
+,,,,
+char-1,雷蛇,雷蛇,Liskarm,Лизерд
+char-2,雇佣兵,雇佣兵,Mercenary,Наемник
+char-3,萨卡兹雇佣兵,萨卡兹雇佣兵,Sarkaz Mercenary,Сарказ-наемник
+char-4,芙兰卡,芙兰卡,Franka,Франка
+char-5,黑,黑,Schwarz,Блэк
+char-6,霜华,霜华,Frost,Фрост
+char-7,灰烬,灰烬,Ash,Эш
+char-8,闪击,闪击,Blitz,Блиц
+char-9,战车,战车,Tachanka,Тачанка
+char-10,奥克芬,奥克芬,Occphen,Окфин
+char-11,巡林者,巡林者,Rangers,Рейнджер
+char-12,米亚罗,米亚罗,Miarow,Мияро
+,,,,
+line-11,雷蛇,雷鸣！,Thunderbolt!,Раскат грома!
+line-22,雇佣兵,啊啊啊啊......我的眼睛！,Aaaagh...! My eyes!,Ааааа... мои глаза!
+line-27,萨卡兹雇佣兵,术师呢！干掉那个瓦伊凡！,Where are the casters?! Take out that Vouivre!,Где маги?! Прикончите эту виверну!
+line-31,芙兰卡,想都别想。,Don't even think about it.,Даже не думай.
+line-54,萨卡兹雇佣兵,什么情况，又多了一批人？,What's happening? There's more of them?,"Что происходит, откуда взялось столько людей?"
+line-56,萨卡兹雇佣兵,怎么搞的！,How?!,Что за черт!
+line-58,萨卡兹雇佣兵,情况不妙，这些人的火力太凶猛了。,We're in a bad way. They've got way too much firepower.,"Плохо дело, их огневая мощь слишком высока."
+line-60,萨卡兹雇佣兵,不要在这里节外生枝，先撤退。,Cut our losses and fall back before this gets any worse.,"Не будем здесь ввязываться, отступаем."
+line-65,黑,......我看见你了......,...I see you...,...Я вижу тебя...
+line-77,萨卡兹雇佣兵,呃啊！,Augh!,Ар-гх!
+line-80,萨卡兹雇佣兵,小心狙击手！！,Sniper! !,Берегитесь снайпера!!
+line-84,萨卡兹雇佣兵,妈的，在哪？！！,"Shit, where?!!","Черт, где он?!!"
+line-86,萨卡兹雇佣兵,别找了，撤了！,Forget it! Just run!,"Хватит искать, уходим!"
+line-88,黑,......你跑不掉的。,...You're not getting away.,...Тебе не сбежать.
+line-100,萨卡兹雇佣兵,呃......,Ugh...,Угх...
+line-107,雇佣兵,撤！快撤！别管了！,Fall back! Quickly! Just run!,Отход! Быстро отходим! Забей на все!
+line-115,霜华,他们跑了！,They're running!,Они сбежали!
+line-117,灰烬,报告情况！,Sitrep!,Доложить обстановку!
+line-127,闪击,亚历山大，你没事吧？,"You okay, Alexsandr?","Александр, ты в порядке?"
+line-129,战车,没事，皮外伤。,"Yeah, just a flesh wound.","В порядке, просто царапина."
+line-130,战车,这些家伙学聪明了。,Those guys are learning.,Эти ребята стали умнее.
+line-132,灰烬,不要放松警惕！,Don't let your guard down!,Не теряйте бдительности!
+line-133,灰烬,还有其他人在这。,We've still got company.,Здесь есть кто-то еще.
+line-154,灰烬,......已经靠得够近了，朋友。,"...That's close enough, friend.","...Вы подошли достаточно близко, друзья."
+line-155,灰烬,虽然我感谢你们出手相助，但是在我们彼此搞清状况以前，还是保持一点安全距离比较好。,"I appreciate the help, but let's keep a comfy distance until we figure things out.","Хотя я признательна вам за помощь, лучше будет сохранить безопасную дистанцию, пока мы не проясним ситуацию."
+line-157,芙兰卡,不要紧张，我们没有敌意。,Relax. We mean you no harm.,"Не нервничайте, у нас нет враждебных намерений."
+line-158,芙兰卡,我们是罗德岛的外勤小队！你们现在驻扎的区域是罗德岛的安全屋。,We're a Rhodes Island field team! And you're holed up in a Rhodes Island safehouse.,"Мы — полевая группа Родос Айленд! Зона, которую вы сейчас занимаете, — это убежище Родос Айленд."
+line-159,芙兰卡,我们是来回应安全屋的求援信号的。,We're responding to a distress call.,Мы пришли в ответ на сигнал бедствия из убежища.
+line-160,芙兰卡,请你们表明身份。,Please identify yourselves.,"Пожалуйста, назовитесь."
+line-162,雷蛇,冷静点，我们是来帮忙的。,Calm down! I'm here to help.,"Успокойтесь, мы пришли помочь."
+line-164,灰烬,是那个罗德岛的人？,It's the Rhodes Islanders?,Это те самые из Родос Айленд?
+line-166,闪击,嘿，还真的把救兵叫来了！,"Hey, the cavalry came after all!","Эй, а ведь и правда позвали спасателей!"
+line-168,灰烬,去叫奥克芬先生。,Go get Mr. Occphen.,Позовите мистера Окфина.
+line-170,闪击,了解。,Got it.,Понял.
+line-175,奥克芬,罗德岛干员？太好了啊，得救了！得救了啊！！,Rhodes Island Operator? Hooray! We're saved! We're saved! !,"Оперативники Родос Айленд? Слава богу, спасены! Мы спасены!!"
+line-187,奥克芬,具体的情况就是这样。,That's about the size of it.,"В общем, ситуация такова."
+line-189,巡林者,所以最后这四个雇佣兵就在这里搭建了临时阵地？,So those four mercenaries are the ones who set up these temporary defenses?,"Значит, эти четверо наемников в итоге устроили здесь временную позицию?"
+line-191,奥克芬,实在是抱歉，通讯器被破坏了，安全屋也没守住......,"I'm really sorry. They broke my communicator, and I couldn't protect the safehouse...","Прошу прощения, рация была уничтожена, и убежище удержать не удалось..."
+line-192,奥克芬,你们要是现在就辞退我，我也没什么怨言......,I wouldn't blame you if you fired me on the spot...,"Если вы уволите меня прямо сейчас, я не буду жаловаться..."
+line-194,巡林者,不要担心，老夫也没有辞退你的权力。,"Don't worry, this old man doesn't have the power to fire anybody.","Не беспокойся, у меня нет полномочий тебя увольнять."
+line-195,巡林者,而且依老夫来看，你能坚持到现在已经很了不起了。,"And the way I see it, you held out this long all by yourself. That's pretty fantastic.","К тому же, на мой взгляд, то, что ты продержался до этого момента, уже достойно уважения."
+line-196,巡林者,要不是你，这些感染者的命运会更糟。,"If it weren't for you, these Infected would've met a much worse fate.","Если бы не ты, судьба этих зараженных была бы куда плачевнее."
+line-198,巡林者,这里有多少感染者？,How many are they?,Сколько здесь зараженных?
+line-200,雷蛇,算上外面那个医生，总共四十三个人，都是感染者。,"Counting the doctor outside, forty-three. All Infected.","Считая того доктора снаружи — сорок три человека, все зараженные."
+line-202,芙兰卡,那四个佣兵一直在保护这些感染者？,And the four mercenaries were protecting them all this time?,Те четверо наемников все это время защищали зараженных?
+line-204,巡林者,主动保护感染者的佣兵，这年头可太少见了。,Mercenaries going out of their way to look after Infected. That's something you don't see every day.,"Наемники, добровольно защищающие зараженных — в наши дни такое увидишь нечасто."
+line-206,芙兰卡,完全不歧视感染者，甚至主动保护感染者的雇佣兵。,"Mercenaries who not only don't look down on them, but actively try to help them.","Наемники, которые совсем не дискриминируют зараженных, а даже активно их защищают."
+line-207,芙兰卡,可能是我太多疑了，这是从哪儿来的圣人？,"Maybe I'm being too paranoid, but where did these saints come from?","Может, я слишком подозрительна, но откуда взялись такие святые?"
+line-209,巡林者,但是他们好像没有这个意识。,I think they may not realize.,"Однако, похоже, они даже не осознают этого."
+line-210,巡林者,听他们的语气，感觉只是保护了普通的无辜镇民。,"From the way they talk, I get the impression they were just protecting ordinary, innocent townsfolk.","Судя по их тону, они просто защищали обычных невинных жителей города."
+line-212,芙兰卡,与其说是“不歧视”感染者。,I guess it's less that they don't discriminate against the Infected.,"Скорее дело не в том, что они «не дискриминируют» зараженных."
+line-213,芙兰卡,他们更像是“不在乎矿石病”。,And more that they don't care about Oripathy.,"Им, кажется, просто «наплевать на орипатию»."
+line-215,雷蛇,但是他们看起来也不像是感染者？,But they don't look Infected at all?,Но они ведь не выглядят как зараженные?
+line-217,黑,我从来没有见过他们这样的佣兵，也没听说过“彩虹小队”。,I've never seen mercenaries like them. I've never heard of any 'Team Rainbow'.,"...Я никогда не видела таких наемников, и никогда не слышала об отряде «Радуга»."
+line-219,芙兰卡,他们都拿着铳哎，而且怎么看都不是萨科塔人吧？,"They've got guns, but none of them look like Sankta?","Они все вооружены огнестрелом, и, как ни крути, на санктов они не похожи?"
+line-221,雷蛇,除非萨科塔人已经有办法把“日光灯”藏起来......,Unless the Sankta figured out a way to hide their 'Fluorescent Lamps'...,Только если санкты уже научились прятать свои «галогенные лампы»...
+line-223,芙兰卡,非萨科塔雇佣兵全员装备大型铳器，这绝对会变成大新闻的。,A non-Sankta mercenary group fully decked out with big guns like that is gonna be huge news.,"Отряд наемников не-санкт, полностью оснащенный крупным огнестрельным оружием — это определенно станет сенсацией."
+line-225,雷蛇,黑钢装备研发部门的人知道了这件事，绝对要发疯。,Blacksteel R&D would go nuts if they heard about this.,"Если отдел разработок Blacksteel об этом узнает, они точно с ума сойдут."
+line-227,黑,......还是不要在背后议论别人了。,...Let's not talk about them like they're not here.,...Давайте все же не будем обсуждать людей за их спиной.
+line-229,巡林者,无论如何，他们救助了罗德岛的干员，保护了感染者。,"Regardless, they saved a Rhodes Island Operator and protected a bunch of Infected.","Как бы то ни было, они спасли оперативников Родос Айленд и защитили зараженных."
+line-230,巡林者,没有证据之前，我们也不该怀疑他们的动机。,"Until we have some evidence, we shouldn't be doubting their motives.","Пока нет доказательств, мы не должны сомневаться в их мотивах."
+line-231,巡林者,当务之急，是想办法解决目前的困境。,Our top priority is finding a solution to our predicament.,Сейчас самое важное — найти способ выбраться из нынешней ситуации.
+line-232,巡林者,我们需要和他们商量一下。,Let's talk to them.,Нам нужно обсудить это с ними.
+line-242,灰烬,他们进去有一阵了。,They've been in there for a while.,Они внутри уже довольно долго.
+line-244,闪击,这个罗德岛，你怎么看？,What do you think of this Rhodes Island?,Что думаешь об этом Родос Айленд?
+line-246,霜华,我其实一直很好奇。,I've been wondering about them.,"Знаешь, мне всегда было любопытно."
+line-247,霜华,什么样的制药企业和医疗公司，会需要在偏远的边陲城镇周边安插一个堆满了军火的安全屋？,What kind of pharmaceutical company needs a safehouse full of military-grade hardware out on the edge of civilization?,"Какой фармацевтической и медицинской компании может понадобиться размещать убежище, набитое оружием, в глухом приграничном городке?"
+line-248,霜华,那些爆炸物和武器，都能武装一个步兵班了。,They've got enough arms and explosives to outfit a platoon.,Этой взрывчатки и оружия хватило бы на целое пехотное отделение.
+line-250,闪击,而且这些“制药公司”的干员，看起来各个都是专业武装人员。,And the employees of this 'pharmaceutical company' all look like professional soldiers.,"К тому же, эти оперативники «фармацевтической компании» на вид — сплошь профессиональные военные."
+line-251,闪击,要么是这世界里当医生都得武装到牙齿了，要么制药企业是个幌子，可能两者皆有。,"Either this world's doctors are armed to the teeth, or the pharmaceutical business is a front. Probably both.","Либо в этом мире, чтобы быть врачом, нужно быть вооруженным до зубов, либо фармацевтика — лишь прикрытие. А может, и то, и другое."
+line-253,灰烬,他们虽然是武装人员，但是看起来训练有素，而且谈吐得体。,They're armed. But they looked well-trained and well-spoken.,"Хоть они и вооружены, но выглядят дисциплинированными и ведут себя прилично."
+line-254,灰烬,和我们之前遇到的歪瓜裂枣可不太一样。,It's a night and day difference with the thugs we ran into before.,"Не чета тем оборванцам, с которыми мы сталкивались раньше."
+line-256,灰烬,而且......,Also...,К тому же...
+line-257,灰烬,可能是我的错觉，但是我总能从他们身上感觉到很熟悉的氛围。,"Maybe it's just me, but I get a real familiar vibe from them.","Может, мне кажется, но от них исходит очень знакомая атмосфера."
+line-259,闪击,这个，我倒是同意你的看法。,"You know, I got that too.",Тут я с тобой согласен.
+line-260,闪击,至少他们是讲道理的文明人，我之前对这整个世界的印象就是个土匪流寇遍地走的末日启示录。,"They're reasonable, civilized people, at least. Everything I saw before had me thinking this world was an apocalyptic, bandit-ridden hellscape.","По крайней мере, они разумные и цивилизованные люди. Раньше у меня сложилось впечатление, что весь этот мир — какой-то постапокалипсис, где повсюду бандиты и разбойники."
+line-262,米亚罗,伤口包扎好了，亚历山大先生。,"I'm finished binding your wound, Mr. Alexsandr.","Рана перевязана, мистер Александр."
+line-264,战车,谢谢你，医生。,"Thanks, Doctor.","Спасибо, доктор."
+line-266,灰烬,医生，你了解这个叫作罗德岛的组织吗？,"Doctor, are you familiar with this Rhodes Island organization?","Доктор, вы что-нибудь знаете об этой организации — Родос Айленд?"
+line-268,米亚罗,......我从大篷车商队那里听到过一点。,...I've heard a bit from the caravans.,...Слышал кое-что от караванов торговцев.
+line-269,米亚罗,他们是专门救治感染者的组织，也是研究矿石病的科研机构。,"They're a group that specializes in critical care for the Infected, as well as an Oripathy research team.","Это организация, занимающаяся лечением зараженных, а также исследовательский институт, изучающий орипатию."
+line-271,战车,但是这种病不是治不好吗？,But isn't it an incurable disease?,Но разве эта болезнь не неизлечима?
+line-273,米亚罗,是啊......,Yes...,Именно...
+line-274,米亚罗,其实过去有不少人自称“能够治愈矿石病”。,"Actually, there used to be a lot of people who claimed to be able to cure Oripathy.","На самом деле, многие в прошлом называли себя теми, кто «может излечить орипатию»."
+line-275,米亚罗,这些人大部分是骗子，骗局败露之后各个下场凄惨。,They were mostly shysters who ended up ruined when their scams were exposed.,"Большинство из них были мошенниками, и после разоблачения их ждал печальный конец."
+line-276,米亚罗,极少数不是骗子的人，也都是夸大了“抑制矿石病症状”的效果，这些能够“抑制矿石病”的药物也极其昂贵。,"As for those who just exaggerated the effectiveness of their drugs suppressing the symptoms of Oripathy, they might not reach the level of fraud yet, but even their suppressant drugs are very expensive.","Те немногие, что не были мошенниками, просто преувеличивали эффект «подавления симптомов орипатии», и такие «подавляющие» препараты стоили невероятно дорого."
+line-278,战车,我猜也是。,I'd guess so.,Так я и думал.
+line-280,米亚罗,我以前听说，某个领主的女儿得了矿石病，这位领主为了救自己的女儿，从哥伦比亚高价购买了抑制药。,"I once heard about a lord whose daughter contracted Oripathy, and he spent a lot of money to buy the suppressants from Columbia to save his daughter.","Слышал историю: у одного лорда дочь заболела орипатией. Чтобы спасти ее, лорд за огромные деньги закупил препараты для подавления в Колумбии."
+line-281,米亚罗,几年以后，领主的财富全部消耗殆尽，他的女儿也在病痛中死去。,"Years later, the lord's money dried up, and his daughter died of the disease.","Спустя несколько лет состояние лорда иссякло, а дочь все равно умерла в муках."
+line-283,战车,......,......,...
+line-285,米亚罗,但是你们看这个。,But look at this.,Но посмотрите на это.
+line-287,战车,这是什么？,What is it?,Что это?
+line-289,米亚罗,这是安全屋里储备的矿石病抑制药。,This is the safehouse's store of Oripathy suppressants.,Это запас препаратов для подавления орипатии из убежища.
+line-290,米亚罗,这几天我给一些病重的人注射了这种药，它确实能够有效抑制矿石病，而且药效比我以前见过的所有产品都好。,"These past few days, I injected some of the more serious sufferers with this, and it really did suppress their symptoms. It works better than any drug I've ever seen before.","За эти дни я ввел этот препарат некоторым тяжелобольным, он действительно эффективно подавляет орипатию, причем эффект лучше, чем у всего, что я видел раньше."
+line-291,米亚罗,这样的药......一定非常昂贵吧？,"This medicine... must be insanely expensive, no?","Такие лекарства... должно быть, очень дорогие?"
+line-292,米亚罗,但是奥克芬先生完全不在乎这件事，当我告诉他有人病得非常严重，他就给了我一盒。,"But Mr. Occphen wasn't concerned with that at all. When I told him some of my patients were in critical condition, he gave me the box.","Но мистер Окфин совершенно не заботился об этом: когда я сказал ему, что кто-то серьезно болен, он просто дал мне целую коробку."
+line-293,米亚罗,我不是不相信这片大地上有好人，只是......,"It's not that I don't believe there are good people in this world, but...","Я не то чтобы не верю, что на этой земле есть добрые люди, просто..."
+line-295,闪击,嘿，这我倒是真没想到。,"Hey, I didn't expect that.","Хей, вот этого я правда не ожидал."
+line-297,灰烬,别多想了，猜忌的成本太高。不管你是否表露出来，都不利于接下来的沟通。,"Don't overthink it. Suspicion is costly. Whether you show it or not, it's going to get in the way of our talks with them.","Не бери в голову, недоверие слишком дорого обходится. Выражаешь ты его или нет, это мешает дальнейшему общению."
+line-298,灰烬,既然大家的目标是一致的，很多事情不妨直接放到台面上。,"It looks like our goals are aligned, so we can just lay this stuff on the table.","Раз уж у нас общие цели, многие вещи стоит сразу выкладывать на стол."
+line-300,战车,听你的。,If you say so.,Слушаюсь.
+line-302,战车,哦，他们出来了。,"Oh, they're here.","О, они выходят."
+line-304,巡林者,不好意思，让各位久等了。,Sorry to keep you waiting.,"Прошу прощения, что заставили вас ждать."
+line-305,巡林者,就让我省略客套话吧。,Now let's skip the pleasantries.,Позвольте пропустить формальности.
+line-306,巡林者,谢谢你们救了奥克芬，若不是你们，罗德岛会失去一位尽职尽责的干员。,"Thank you for saving Occphen. Without you, Rhodes Island would have lost a good worker.","Спасибо, что спасли Окфина. Если бы не вы, Родос Айленд потерял бы ответственного оперативника."
+line-307,巡林者,这次任务结束后，我会提交报告，罗德岛会给四位合适的报酬与物资补偿。,"When the mission is over, I'll make a full report, and Rhodes Island will remunerate you appropriately, and compensate you for your supplies.","После завершения миссии я подам отчет, и Родос Айленд выплатит вам четверым соответствующее вознаграждение и компенсацию материалами."
+line-309,灰烬,报酬啊......,Remuneration...,"Вознаграждение, значит..."
+line-311,战车,有报酬是好事。,Remuneration is nice.,Получить вознаграждение — это хорошо.
+line-313,巡林者,另外，你们愿意为感染者挺身而出，老夫由衷地表示敬佩。,"Also, you put your lives on the line for the Infected. And that wins this old man's admiration.","К тому же, я искренне восхищаюсь тем, что вы готовы были вступиться за зараженных."
+line-315,灰烬,这些镇民这段时间也帮了我们很多，见死不救不是我们的行事风格。,These townsfolk have done a lot for us in our time here. Leaving them to die wouldn't be our style.,"Эти жители города тоже во многом нам помогали, бросить их в беде — не в наших правилах."
+line-317,雷蛇,所以你们是雇佣兵？,So you're mercenaries?,Так вы наемники?
+line-319,灰烬,不......我们......,No... We're...,Нет... мы...
+line-321,闪击,是，我们就是。,Yes. Yes we are.,"Да, именно ими мы и являемся."
+line-322,闪击,我们是雇佣兵，很贵的那种。,We're mercenaries. The super expensive kind.,"Мы наемники, причем очень дорогие."
+line-324,灰烬,......,......,...
+line-326,雷蛇,能透漏一下你们所属的公司吗？像你们这样的雇佣兵实在是太少见了。,Can you give us the name of your company? Mercenaries like you are a rare breed.,"Можете сказать, какой компании вы принадлежите? Такие наемники, как вы, встречаются крайне редко."
+line-328,闪击,呃......我们是......呃......,Err... We're... um...,Э-э... мы из... э-э...
+line-332,闪击,（俄语）帮忙想个公司名字！,(Russian) Help me think of a name!,(По-русски) Помогите придумать название компании!
+line-334,战车,（俄语）北极熊物流？,(Russian) Polar Bear Logistics?,(По-русски) Логистика «Белый медведь»?
+line-336,雷蛇,......,......,...
+line-337,雷蛇,如果不方便透漏也没有关系，我明白。,I understand if you're not in a position to say.,"Если неудобно говорить, ничего страшного, я понимаю."
+line-339,闪击,我们......我们来自一个很遥远的国家，在......在南边！,We're... We're from a faraway country in... in the south!,"Мы... мы из очень далекой страны, на... на юге!"
+line-341,战车,对！我们来自很南边。,That's right! We're from way down south!,Точно! Мы с самого юга.
+line-343,巡林者,南边？萨尔贡南边？？,The south? South of Sargon? ?,С юга? Южнее Саргона??
+line-344,巡林者,穿过焚风热土？,Beyond the foehn hotlands?,Через Выжженные земли?
+line-346,闪击,焚......对，就是来自那边。,"Foehn...? Yes, the south. Right.","Через... точно, мы именно оттуда."
+line-348,巡林者,穿过焚风热土还有其他国家？？,There's other countries beyond the foehn hotlands? ?,За Выжженными землями есть другие страны??
+line-349,巡林者,这可真是......震撼老夫，这么多年来可是第一次听说这件事。,"That's... shocking. I've lived a long time, and this is the first I've ever heard of people down there.","Это просто... потрясает, я впервые за столько лет слышу о подобном."
+line-350,巡林者,就算是萨尔贡王酋的历史记载中，也从未提及有人曾经穿越干旱之地而来。,"In all the records of all the Lords Ameer, there's never been a single report of someone crossing the hotlands.","Даже в исторических записях саргонских вождей нет упоминаний о том, что кто-то пересекал эти засушливые земли."
+line-352,战车,（俄语）你编故事也稍微靠谱一点。,(Russian) You could've made your story a little more plausible.,(По-русски) Ты бы придумал легенду хоть немного правдоподобнее.
+line-354,闪击,（俄语）北极熊物流听起来就很靠谱吗？,(Russian) Plausible like Polar Bear Logistics?,(По-русски) Разве «Логистика Белый медведь» звучит не убедительно?
+line-356,巡林者,总之，操着乌萨斯和维多利亚口音的战士们，你们来自何处都不重要。,"Anyway, warriors with Ursine and Victorian accents, it doesn't matter where you come from.","В любом случае, воины, говорящие с акцентом Урсуса и Виктории, не так важно, откуда вы."
+line-357,巡林者,你们愿意为感染者而战，在这件事上我们的目的是一致的。,"You're willing to fight for the Infected. And at least on that point, our interests are aligned.","Вы готовы сражаться за зараженных, и в этом наши цели совпадают."
+line-358,巡林者,至少现在，至少我们能够一起面对现在的困境。,"At least for now, we can work together to deal with this situation.","По крайней мере сейчас, мы можем вместе противостоять нынешним трудностям."
+line-360,灰烬,我同意你的看法，老先生。,I can agree with that.,"Я согласна с вами, сэр."
+line-362,巡林者,所以，谁能告诉我们，镇子上到底出什么事了？,So who can tell us what the heck happened to this town?,"Итак, кто может рассказать, что на самом деле произошло в городе?"
+line-373,黑,萨卡兹佣兵......,Sarkaz Mercenary...,Наемники Сарказ...
+line-374,黑,操纵怪物的，应该是术师。,"Controlling the monsters, should be casters.","Те, кто управляет монстрами, должны быть магами."
+line-375,黑,有组织，有纪律，更重要的是懂得知难而退，这不是临时起意的劫掠。,"They're organized, disciplined, and most importantly, they know when to cut their losses and back down. They're not here for a quick raid.","Организованность, дисциплина, а главное — умение отступить перед лицом трудностей, это был не случайный грабеж."
+line-377,芙兰卡,他们的装备齐全，全都是哥伦比亚产的军备，之前围攻安全屋的时候，还有几个很厉害的家伙。,They are all properly geared up with Columbian equipment. Some of them were extremely tough back when they sieged the safe house.,"У них полное снаряжение, все колумбийского военного производства. Когда они осаждали убежище, среди них было несколько очень серьезных бойцов."
+line-379,黑,这个装备和战术，应该是签了“红标合同”的专业佣兵了。,"Judging from the equipments and tactics, they should be professional mercenaries who signed the 'Redmark contract.'",С таким снаряжением и тактикой это должны быть профессиональные наемники с «красным контрактом».
+line-381,巡林者,这恐怕是一场针对领主的叛乱。,I'm afraid it's a rebellion against the local lord.,"Боюсь, это восстание против местного правителя."
+line-383,灰烬,但是他们为什么要袭击平民？,But why are they attacking civilians?,Но зачем им нападать на мирных жителей?
+line-384,灰烬,他们从感染者社区一路跟着我们到了这里。,They chased us here from the Infected quarter.,Они преследовали нас от поселения зараженных до самого сюда.
+line-385,灰烬,这些佣兵到底想要什么？,What on Earth do these mercs actually want?,Чего же хотят эти наемники?
+line-387,雷蛇,最大的可能性是灭口。,The most likely answer is they wanted to silence you.,"Скорее всего, они хотят устранить свидетелей."
+line-389,闪击,恐怕不只是要灭口。,I'm afraid that's not the only thing they were after.,"Боюсь, дело не только в устранении свидетелей."
+line-391,雷蛇,你是怎么看的？,What do you mean?,Что ты имеешь в виду?
+line-393,闪击,他们昨天袭击感染者社区的时候，很明显是冲着病人们去的。,"When they attacked the Infected quarter yesterday, they were obviously targeting the sick.","Вчера, когда они напали на поселение зараженных, они явно охотились за пациентами."
+line-394,闪击,他们想把那些病人带走。,They were trying to round them up.,Они хотели забрать больных с собой.
+line-395,闪击,我觉得这才是这群人的目的。,I'm pretty sure that was their goal.,"Думаю, именно это и было их целью."
+line-397,芙兰卡,绑架......感染者？,Kidnapping... Infected?,Похищение... зараженных?
+line-398,芙兰卡,这又是什么道理。,That doesn't make any sense.,Что это за логика такая?
+line-400,巡林者,敌人的目的扑朔迷离，但这并不是眼下最紧要的。,"The enemy's objectives are a mystery to us, but that's not the most important thing.","Цели врага туманны, но сейчас это не самое главное."
+line-401,巡林者,目前，最好的办法是等待。,"For now, the best thing we can do is wait.",На данный момент лучший выход — ждать.
+line-403,灰烬,等待？,Wait?,Ждать?
+line-405,巡林者,虽然目前没有任何征兆，但是只从既成事实的角度来谈的话。,"You may not realize it, but we're standing in the middle of a fait accompli.","Хотя пока нет никаких признаков, если исходить только из свершившихся фактов."
+line-406,巡林者,我们没有获得王酋的许可，就持械进入了王酋的领地。无论于王酋的戒律还是本地的法律，我们都已经犯了萨尔贡的大忌。,"We walked into this Lord Ameer's territory without his permission, violating his commandments and the local laws. We've broken a major Sargon taboo.","Мы вошли в пределы владений вождя, будучи вооруженными, не получив на то разрешения. Как с точки зрения законов вождя, так и местных обычаев, мы нарушили главное табу Саргона."
+line-407,巡林者,镇上的贵族深陷兵马之乱，但他们在此地的统治依然存在。,"The town nobility may be in the middle of a war, but they're still the rulers here.","Местная знать погрязла в смуте, но их власть здесь все еще существует."
+line-408,巡林者,此时再插手任何事情，都会让情况对我们更加不利。,Sticking our noses in anything else at this point would only make our situation even worse.,Любое вмешательство во что-либо сейчас лишь усугубит наше положение.
+line-409,巡林者,本地领主设立了感染者社区，说明他不是残暴无情之人。,The local lord set up an Infected quarter. That tells us he's not totally cruel and heartless.,"Местный лорд создал поселение для зараженных, значит, он не жестокий и бессердечный человек."
+line-410,巡林者,他同意罗德岛在这里设立安全屋，说明他不是封闭自守之人。,He was willing to let Rhodes Island build a safehouse here. That means he's not an isolationist.,"Он позволил Родос Айленд основать здесь убежище, значит, он не закрытый и закостенелый человек."
+line-411,巡林者,我相信他会给我们一个公正的待遇。,I think he'll treat us fairly.,"Я верю, что он обеспечит нам справедливое обращение."
+line-413,灰烬,国家律法......地方政府......我能理解。那现在也只能希望如此了。,National law... local government... I get it. That's the best we can hope for right now.,Государственные законы... местные власти... Я понимаю. Тогда остается только надеяться на это.
+line-415,巡林者,在有更多情况变化之前，我们要固守这个安全屋，等待镇上的骚乱结束。,"Until the situation changes again, we'll hold out in the safehouse and wait for the riots to die down.","Пока ситуация не изменится, нам нужно удерживать это убежище и ждать окончания беспорядков в городе."
+line-416,巡林者,希望你们能够帮助我们。,I hope you can help us.,Надеюсь на вашу помощь.
+line-418,灰烬,不用客气，我们也需要罗德岛的专业支援。,No problem. We need Rhodes Island's professional expertise too.,"Не стоит благодарности, нам тоже нужна профессиональная поддержка Родос Айленд."
+line-420,巡林者,那么，四位，合作愉快。,All right then. I'm looking forward to working with the four of you.,"Тогда, господа, приятного сотрудничества."
