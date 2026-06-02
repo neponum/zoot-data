@@ -1,0 +1,157 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act15d0
+__chapter__,,Chapter Name,activities/act15d0/level_act15d0_04_beg,勇敢，莽撞
+,,,,
+char-1,梅尔,梅尔,Mayer,Меер
+char-2,赫默,赫默,Silence,Хемер
+char-3,凯尔希,凯尔希,Kal'tsit,Кельси
+char-4,卡夫卡,卡夫卡,Kafka,Кафка
+char-5,米娜,米娜,Mina,Мина
+char-6,狱警,狱警,Jailer,Тюремный надзиратель
+,,,,
+line-14,梅尔,赫默，你没事吧？,"Silence, you alright?","Майер, ты в порядке?"
+line-16,赫默,没事。,I'm alright.,В порядке.
+line-18,赫默,你怎么过来了？,Why are you over here now?,Почему ты пришла?
+line-20,梅尔,我看你在这边呆了很久，就过来看看。,Cause you've been over here for ages. Just checking in.,"Я видела, что ты пробыла здесь довольно долго, поэтому решила заглянуть."
+line-22,梅尔,咦，你身边的酒瓶......难道你喝酒了？,Eep. That wine bottle there... you're drinking now?,"Эй, а что это за бутылка рядом с тобой... Ты что, пила?"
+line-24,赫默,就一点。,Just a little.,Только немного.
+line-26,赫默,缪尔赛思主任呢？,Director Muelsyse?,Где директор Мюльзис?
+line-28,梅尔,她还在那边等我们。,She's still back there waiting for us.,Она всё ещё ждёт нас там.
+line-30,赫默,你和她说到哪里了？,Where are you in the story?,О чём ты с ней говорила?
+line-32,梅尔,说到安东尼希望卡夫卡帮助他，她还和我说了一些有关总辖和塞雷娅的事。,Up until Anthony started trusting Kafka to help him. She also told me some stuff about what went down between Control and Saria.,"Об Антони, который надеется на помощь Кафки, а ещё она рассказала мне кое-что о Главноуправляющей и Сарии."
+line-34,赫默,是吗。,Did she now?,Вот как.
+line-36,梅尔,要我说给你听吗？,Want me to tell you?,"Хочешь, расскажу тебе?"
+line-38,赫默,不，暂时不用了。,No. Not necessary for the time being.,"Нет, пока не нужно."
+line-40,梅尔,你好像很难过的样子，刚才缪尔赛思主任对你说了什么不好的东西吗？,You look like you're doing terrible. Was it some bad crap Director Muelsyse told you about?,Ты кажешься такой расстроенной. Директор Мюльзис сказала тебе что-то плохое?
+line-42,赫默,不是......虽然也是。,"No... though it was, in a sense.","Нет... хотя, отчасти это так."
+line-43,赫默,我......说不清楚。,I'm... I can't put it straight.,"Я... даже не знаю, как выразить это словами."
+line-44,赫默,我现在思维有些混乱，我有些后悔，感觉自己或许做了一些自己不擅长的事。,My mind is in disarray. I have some regrets. I feel as though I may have done something I am not equipped to do.,"У меня сейчас всё в голове перепуталось. Я жалею об этом и чувствую, будто взялась за дело, к которому не была готова."
+line-46,梅尔,你是指做这件事吗？,You mean this whole breakout?,Ты имеешь в виду это дело?
+line-48,赫默,是的。,Yes.,Да.
+line-49,赫默,......我应该向你道歉，梅尔。,"I should apologize to you, Mayer.","...Мне стоит извиниться перед тобой, Майер."
+line-51,梅尔,为什么？,What for?,За что?
+line-53,赫默,我不该把你卷进来的，是我太胆小了，才忍不住把这件事告诉你，让你和我一起承担。,"I shouldn't have gotten you involved. I was too cowardly. I couldn't bear it, and I told you about all this. I made you assume responsibility with me.","Я не должна была втягивать тебя. Это я проявила такую трусость, что не сдержалась и рассказала тебе об этом, чтобы ты разделила это бремя со мной."
+line-55,梅尔,诶，我是没什么关系的啦。能被赫默你信任我还蛮开心的。,"Whoa, I don't really mind, y'know. The fact you could trust me makes me pretty freakin' happy, Silence.","Ой, да мне всё равно. Я даже рада, что ты мне доверяешь."
+line-57,梅尔,而且反正我实际做的事也就是陪你回哥伦比亚转了一圈。,"And I mean, really, all I've done is take a trip back to Columbia with you.","К тому же, по факту, я просто съездила с тобой в Колумбию."
+line-59,赫默,......其实，有一件事我一直没有告诉你。,"Actually, there's something I haven't told you.","...На самом деле, есть одна вещь, о которой я тебе не говорила."
+line-61,梅尔,是什么？,What is it?,Что же?
+line-63,赫默,这件事的背后，海德兄弟的背后，是能量科。,"Behind this incident, behind HydeBro, is the Energy Section.","За всем этим, за братьями Хайд, стоит отдел энергетики."
+line-65,梅尔,诶？是能量科吗？！,Huh? Energy?!,Э? Отдел энергетики?!
+line-67,赫默,因为你们工程科和能量科关系很紧密，所以我一直不知道该怎么告诉你。,"You and the rest of Engineering are so closely tied with Energy, I'd been unsure whether I should tell you.","Поскольку ваш инженерный отдел тесно сотрудничает с энергетическим, я не знала, как тебе сказать."
+line-69,梅尔,哦......嗯，其实也还好啦，我们科虽然事务上和能量科确实关系相当紧密，不过我其实也没有多喜欢能量科。,"Oh... Hm, I'm fine, really. We're pretty tied up work-wise with Energy, yeah, but honestly, I'm not the world's biggest fan of their section.","Оу... ну, на самом деле всё не так уж плохо. Хотя наши отделы действительно тесно связаны по работе, мне самой отдел энергетики не особо нравится."
+line-71,梅尔,不如说我还挺怕能量科主任那个人的......,"Or more I'm, like, kinda terrified of Energy's director...","Я бы даже сказала, что немного побаиваюсь их директора..."
+line-73,赫默,能量科的主任，是个什么样的人？,What's the Director of Energy like?,"Директор отдела энергетики, какой он человек?"
+line-75,梅尔,嗯，虽然我也没见过几次啦，不过他有时候会来我们这边看看，也会旁听我们的会议。,"Nngh? Haven't met more than a few times, but sometimes he comes over to our end just to see. He'll drop in on our meetings, too.","М-м, я не так часто его видела, но иногда он заходит к нам посмотреть, как идут дела, или слушает наши совещания."
+line-76,梅尔,虽然他一说话就能感觉到是个很厉害很聪明的人，不过感觉有些......,"He opens his mouth and you go 'wow, he's a big, smart cookie,' but he gives off this kinda feeling like...","Хотя по тому, как он говорит, сразу чувствуется, что он очень умный и способный, но всё же..."
+line-77,梅尔,我不知道该怎么说，就是他更在乎我们的东西能用来做什么，能换来什么之类的。,"I don't know how to capture it. He, like, cares more about what our stuff can be used to make, or what it can be exchanged for, things like that.","Даже не знаю, как сказать... Его больше волнует, для чего мы можем использовать наши разработки и что можно за них получить."
+line-79,赫默,原来如此......,I see...,Вот как...
+line-81,梅尔,而且，塞雷娅引咎辞职后，我们科和能量科感觉联系也更加密切了起来。,"And, like, since Saria took all the blame and resigned, it feels like us and the Energy Section got, like, even more tied up in each other.","И ещё, после отставки Сарии наши отделы стали ещё теснее работать друг с другом."
+line-82,梅尔,有的时候会有一些奇怪的工作安排下来，我都做不了自己的事情了。,All these times some kinda weird work got scheduled and I couldn't even do any of my own crap.,"Иногда мне спускают такие странные поручения, что я совсем не успеваю заниматься своими делами."
+line-83,梅尔,所以就找了个机会外派来罗德岛了。,And that's why I wanted a chance to send myself off to Rhodes Island.,"Поэтому, как только представилась возможность, я попросилась в командировку на «Остров Родос»."
+line-85,梅尔,虽然可露希尔也是个怪人，不过在罗德岛工作还蛮开心的。,"Even if Closure's a little weird too, I'm way happier just doing my work at Rhodes.","Хотя Клозер тоже та ещё странная личность, работать на «Родосе» мне нравится."
+line-87,赫默,是吗......,So that's it...,Вот как...
+line-89,梅尔,总之你不用太在意啦，赫默。而且，我感觉你做了一件好事，不是吗？,"Anyways, don't worry about me too much, Silence. In fact, I feel like you've done something good. Right?","В любом случае, не бери в голову, Хемер. И потом, мне кажется, ты сделала доброе дело, разве нет?"
+line-91,赫默,好事......,Something good...,Доброе дело...
+line-102,凯尔希,你提供的这些情报和分析非常有价值，让我不得不重视你的意见，赫默干员。,"This intel and analysis you have provided is extremely valuable. It compels me to note your viewpoint strongly, Operator Silence.","Предоставленная вами информация и анализ очень ценны, что заставляет меня отнестись к вашему мнению со всей серьезностью, оператор Хемер."
+line-104,赫默,那么......,In that case...,Тогда...
+line-106,凯尔希,但首先，这些情报的来源明显是莱茵生命内部。擅自将内部情报泄露给他人的人，恕我无法信任。,"But first of all, this intel's origins are clearly internal to Rhine Lab. Divulging internal intelligence to third parties without permission inspires me not to place trust in you.","Но во-первых, источник этой информации явно находится внутри «Рейн Лаб». Я не могу доверять тому, кто самовольно разглашает внутренние сведения."
+line-107,凯尔希,不过，从你的日常表现来看，我也相信你并非如此不谨慎的人，所以我需要一个解释。,"However, from your behavior, I can trust you are in no way an imprudent person. Therefore, I require an explanation.","Однако, судя по вашей повседневной деятельности, я полагаю, что вы не из тех людей, кто совершает опрометчивые поступки, поэтому мне нужно объяснение."
+line-109,赫默,这些是我用个人渠道搜集并分析得出的情报，和莱茵生命没有直接的关系。,This is intel I arrived at through collection and analysis via my own personal channels. It has no direct relation to Rhine Lab.,"Это информация, которую я собрала и проанализировала по личным каналам, и она не имеет прямого отношения к «Рейн Лаб»."
+line-111,凯尔希,但既然你发现了这样的事，应当交由你们内部处理，罗德岛绝无法成为这件事的仲裁者。,"But your discovery of a matter like this should've prompted submission to internal channels, to be dealt with there. Rhodes Island has no capacity to adjudicate this incident.","Но если вы обнаружили нечто подобное, этим должны заниматься ваши внутренние службы безопасности. «Родос» ни в коем случае не может выступать арбитром в этом деле."
+line-113,赫默,......不，我并不期望罗德岛能成为仲裁者。,No. I had no expectation that Rhodes Island would be able to.,"...Нет, я не ожидаю, что «Родос» станет арбитром."
+line-114,赫默,我只是想要帮助这个人，想要请教你的意见。,I simply wanted to aid this person. I wanted to hear your viewpoint.,Я просто хочу помочь этому человеку и спросить вашего совета.
+line-116,凯尔希,为什么是我？或者说，为什么是罗德岛？,"Why mine? Or should I say, why Rhodes Island?","Почему я? Или точнее, почему именно «Родос»?"
+line-118,赫默,现在的我，比起莱茵生命，更相信罗德岛。,"As of now, I trust Rhodes Island more than I do Rhine Lab.","Сейчас я больше доверяю «Родосу», чем «Рейн Лаб»."
+line-120,凯尔希,你怀疑莱茵生命的什么？,What of Rhine Lab are you skeptical about?,В чём именно вы подозреваете «Рейн Лаб»?
+line-122,赫默,我不知道，我甚至不知道我在怀疑什么。,I don't know. I don't even know what it is I'm skeptical of.,"Я не знаю. Я даже не знаю, что именно я подозреваю."
+line-123,赫默,但我来到这里工作也有很长一段时间了，我亲眼看到了罗德岛在做的事，我至少知道罗德岛在做什么。,"But I've come to work here for a very long while, now. I've seen with my own eyes what Rhodes Island is doing. I, at the least, KNOW what Rhodes Island is doing.","Но я работаю здесь уже долгое время, видела своими глазами, чем занимается «Родос», и, по крайней мере, я знаю, что здесь происходит."
+line-125,凯尔希,所见未必即所得，赫默干员。,"What you see may not be what you get, Operator Silence.","Видимое — не всегда то, чем кажется, оператор Хемер."
+line-126,凯尔希,而且，或许你没有发现，不过从你的情报来看，这名叫安东尼的菲林很有可能是经他父亲安排才在跨州后立刻被捕的。,"Moreover, it may be that you haven't noticed, but from your intel, it is very likely this Feline named Anthony was only immediately arrested the next state over as a setup by his father.","И, возможно, вы этого не заметили, но судя по вашей информации, этот фелин по имени Антони, скорее всего, был арестован сразу после пересечения штата именно по распоряжению своего отца."
+line-127,凯尔希,这很可能是他们早就布下的局。,"In all likelihood, a situation they'd arranged long beforehand.","Скорее всего, они спланировали это заранее."
+line-129,赫默,但安东尼直到今天都没有出狱，他已经在那座监狱待了六年，而且可能永远也出不去。,But Anthony still hasn't been released to this day. He's already been stewing in that prison for six years. It's all the more likely he'll be in there forever.,"Но Антони до сих пор не вышел из тюрьмы. Он провёл там шесть лет, и возможно, никогда не выйдет."
+line-131,凯尔希,你为什么要执着于这样一个与你无关的人？,Why are you placing such importance on a person who has nothing to do with you?,"Почему вы так одержимы человеком, который не имеет к вам никакого отношения?"
+line-133,赫默,因为我想要认清，我一直服务的莱茵生命，究竟是一家怎样的公司。,"Because I want to see clearly, once and for all, just what kind of company the Rhine Lab I've served all this time is.","Потому что я хочу понять, какой компанией на самом деле является «Рейн Лаб», которой я всё это время служила."
+line-135,凯尔希,......,......,...
+line-136,凯尔希,你可能会失望。,You may be disappointed.,Вас может ожидать разочарование.
+line-138,赫默,但这也好过一无所知。,But it'll be far better than knowing nothing.,"Но это лучше, чем оставаться в неведении."
+line-140,凯尔希,......很有说服力，赫默干员。,"You are greatly persuasive, Operator Silence.","...Весьма убедительно, оператор Хемер."
+line-141,凯尔希,罗德岛不可能在台面上为你提供任何援助，但我可以站在个人立场给你提供一些意见。,"Rhodes Island cannot provide you any outward assistance whatsoever, but I can, from a personal standpoint, provide you my viewpoint.","«Родос» не может предоставить вам официальную помощь, но я могу высказать вам своё личное мнение."
+line-142,凯尔希,希望你能自始至终贯彻你的想法。,I hope you are able to maintain your notion from start to finish.,"Надеюсь, вы до конца будете следовать своим принципам."
+line-144,赫默,什么想法？,What notion?,Каким принципам?
+line-146,凯尔希,认为自己在做一件好事的想法。,The notion that you are doing something good.,"Принципу, что вы совершаете благое дело."
+line-158,赫默,我现在有些开始怀疑，这真的是一件好事吗？,I'm starting to have some doubts. Is this truly something good I've done?,"Я начинаю сомневаться, действительно ли это благое дело?"
+line-160,梅尔,诶，为什么？,Huh? Why?,"Э-э, почему?"
+line-162,赫默,我开始有些怕了，梅尔。,"I'm starting to worry, Mayer.","Мне стало страшно, Майер."
+line-164,梅尔,怕什么？,About what?,Чего ты боишься?
+line-166,赫默,一直以来，我总是以为，所有的问题只要我付出努力，就总能被解答。,"In the past, I always believed that as long as I gave my effort to any problem, it'd always be answerable.","Всё это время я думала, что на любую проблему всегда можно найти ответ, если приложить достаточно усилий."
+line-167,赫默,但这次，我害怕我撞上了我无法解答的问题。,"But this time, I fear I've run against a problem I have no way to answer.","Но в этот раз я боюсь, что столкнулась с вопросом, на который не могу найти ответ."
+line-169,梅尔,因为解不开吗？,Because you can't solve it?,Потому что он неразрешим?
+line-171,赫默,不是解不开，而是我不敢解开。,Not that I can't solve it. It's that I don't dare to. I don't dare to pull it apart.,"Нет, не потому что неразрешим, а потому что я не осмеливаюсь его разрешить."
+line-172,赫默,梅尔，卡夫卡有没有对你说过，我和她是怎么认识的？,"Mayer, did Kafka ever tell you how she and I know each other?","Майер, Кафка не говорила тебе, как мы познакомились?"
+line-174,梅尔,嗯？你忘了吗？她在回忆与米娜的对话时有提到过哦。,Hm? Didja forget? She remembers she even mentioned it while talking to Mina.,М-м? Ты забыла? Она упоминала об этом в своих воспоминаниях о разговоре с Миной.
+line-192,卡夫卡,米娜。,Mina.,Мина.
+line-194,米娜,嗯。,Mm-hm.,М-м.
+line-196,卡夫卡,呼，终于找到一个和你说话的机会。成果怎么样？,Phew. Finally found a chance to talk to you. How's your results?,"Фух, наконец-то выдалась возможность с тобой поговорить. Какие результаты?"
+line-198,米娜,按照你说的，我这段时间一直在悄悄摸清这座监狱的构造，现在已经基本上搞清楚了。,"Following what you said, I've been spendin' this whole time ascertainin' this prison's structure on the down-low. Already got a general grasp of it now.","Как ты и просила, я всё это время тихо изучала устройство этой тюрьмы, и в основном всё поняла."
+line-199,米娜,这座监狱的狱卒虽然挺松懈的，但是构造真的很严密，我感觉要出去挺困难的......,"Helps the prison turnkeys're lax, but structure's tight. I feel like gettin' out's a pretty tall order...","Хотя надзиратели здесь довольно расслаблены, само здание очень хорошо укреплено, мне кажется, выбраться отсюда будет сложно..."
+line-201,卡夫卡,没事没事，总会有办法的。,"No problem, Boblem. There's always a way.","Ничего, ничего, всегда есть способ."
+line-203,米娜,比起这个，你那边呢？,"How's about your end, then?",А что насчёт тебя?
+line-205,卡夫卡,我和安东尼搭上线了，他原本就有出去的想法，所以应该按照PLAN-A行动，我们协助他越狱。,"I'm tapped in with Anthony. Turns out he had an idea for leaving in the first place, so we'll be following PLAN-A operations, helpin' him break out.","Я вышла на Антони, у него самого есть желание выбраться, так что действуем по ПЛАНУ-А: поможем ему с побегом."
+line-206,卡夫卡,接下来我们会把医务室当做秘密基地，我和那边的杜玛医生说过你了，你直接去就好。,"We'll treat the clinic as our secret base from here on. I told Dr. Domma there about you. Just head right over, and you'll be good.","Теперь нашим штабом будет медпункт. Я уже поговорила о тебе с доктором Думой, просто иди туда."
+line-208,米娜,是吗......,So that's it...,Вот как...
+line-210,卡夫卡,怎么了，明明都要见到你心心念念的大个子了，怎么这么泄气的样子。,What? You're a snap away from meeting the big guy who's been on your brain. Why d'ya look so flat?,"Что такое? Ты ведь вот-вот увидишь своего долгожданного здоровяка, а выглядишь такой подавленной."
+line-212,米娜,没有，我远远地看过他几次，感觉大个子和以前救我一家的时候差了不少。,I'm not. I've seen him from far away a bunch of times. I feel like the big guy's kind of different to the one who saved my family once.,"Нет, я просто видела его издалека пару раз, мне кажется, здоровяк сильно изменился с тех пор, как спас мою семью."
+line-214,卡夫卡,是吗，他以前是什么样的？,"Huh, I see. What did he used to be like?",Вот как? Каким он был раньше?
+line-216,米娜,以前的他，要更加，嗯......帅一点？,"He used to be... a little more, ermm... cool?",Раньше он был... ну... более симпатичным?
+line-218,卡夫卡,这是什么形容啊。,That's a way to phrase it.,Что это за описание такое?
+line-220,米娜,自从我知道是他救了我家之后，我偷偷去看过他一次，那个时候的他比现在要开朗好多。,"Once after I learned he saved 'em all, I went to see him all secret. He was plenty more cheery 'n' open than he is now.","Когда я узнала, что именно он спас мою семью, я тайком посмотрела на него один раз. Тогда он был гораздо жизнерадостнее, чем сейчас."
+line-222,卡夫卡,啥样啊，是不是那种出手很阔绰，身后跟十几个保镖的阔少？,"What way? Was he that kinda big, splashy guy? The kid with like ten or so bodyguards fannin' from his heels?","И как он выглядел? Может, как богатый сынок, который сорит деньгами и ходит в окружении дюжины телохранителей?"
+line-224,米娜,不是不是......嗯......好像又有一点，我也不知道怎么形容......,"No, no... um... he was like, a bit more... I'm not sure how you describe it...","Нет, нет... хм... кажется, немного было, я даже не знаю, как описать..."
+line-226,卡夫卡,那就是阔少啦。,I'm gonna say he was the rich kid then.,"Значит, богатый сынок."
+line-228,米娜,反正现在的他，感觉很沉默，总是没有表情，我看了感觉有些难过......,"Whatever, now he's really silent, I feel like, and he's never showin' emotion. It feels someways sad lookin' at him...","В любом случае, сейчас он такой молчаливый, всегда без эмоций, мне от этого как-то грустно..."
+line-230,卡夫卡,毕竟在这里被关了六年呢，再开朗的人也会变成那样吧。,"He got slammed in here for six years, after all. It'd do a number like that on even the cheeriest kid.","Ну, он сидит здесь уже шесть лет, любой человек после такого станет таким."
+line-232,米娜,说的也是......,I s'pose so...,"Наверное, ты права..."
+line-234,卡夫卡,所以我们只要帮助他逃出去，他肯定就会变成原来的样子了。,"So we just need to help him escape, and he'll be back to the way he was before, for sure.","Поэтому, как только мы поможем ему сбежать, он обязательно станет прежним."
+line-236,卡夫卡,大概吧，诶，其实我觉得变成阔少也不好吧！,"More or less, right? Eh, I'd pass on him becoming a rich kid again, though!","Наверное. Хм, хотя если подумать, быть богатым сынком — это же не так уж и хорошо!"
+line-238,米娜,我觉得好。,I think it'd be swell.,А мне нравится.
+line-240,卡夫卡,行吧行吧，我是不懂你啦。,"Okay, okay. You lost me now.","Ладно, ладно, мне тебя не понять."
+line-242,米娜,要这么说的话，我才不懂你，你说你是受朋友委托才来帮安东尼的，为什么你要帮你那个叫赫默的朋友到这个地步？,"If you wanna put it like that, you're losing me. You said you only came to help Anthony 'cause a friend trusted you to. Why would you go so far to help your Silence friend?","Если уж на то пошло, это я тебя не понимаю. Ты сказала, что пришла помогать Антони по просьбе друга. Почему ты помогаешь своей подруге Хемер настолько сильно?"
+line-244,卡夫卡,......因为我觉得赫默是一个好人。,Because I think Silence is a good person.,"...Потому что я считаю, что Хемер — хороший человек."
+line-246,米娜,这是什么理由？,What kind of reason is that?,Что это за причина?
+line-248,卡夫卡,嗯......我和赫默是在一次她出外勤的时候认识的。,Mmnnn... me and Silence know each other from one time she went out to do field work.,"М-м... мы с Хемер познакомились, когда она была на выездном задании."
+line-249,卡夫卡,我嘛，习惯了用一些不怎么光彩的手段做事，正好被她撞上了。,"Me, I was used to pretty grubby methods to do my stuff. So happened I bumped into her.","Я же привыкла делать дела не самыми честными методами, вот она меня и застукала."
+line-250,卡夫卡,虽然当时事情闹得其实还不小，我还被她害得差点断了那笔生意。,Guess I made some pretty un-small trouble for her back then. I drove her an inch from giving up her business there.,"Хотя тогда поднялся немалый шум, и из-за неё я чуть не сорвала ту сделку."
+line-251,卡夫卡,不过结果还算好，而且也算是和她认识了，不是有句话叫不打不相识嘛。,"But things worked out. And in the end, I got to know her. Can't knock 'em until you knock 'em, right? Do they say that?","Но всё закончилось хорошо, и можно сказать, мы познакомились. Есть же поговорка: «Кто старое помянет, тому глаз вон», а у нас вот вышло «познакомились в драке»."
+line-252,卡夫卡,在那之后，经常会给我介绍一些工作，感觉是希望我能够像她那样正经做事吧。,"Anyways, after that, she'd show me some work pretty often. Felt like she was hoping I'd do things proper like she did.","После этого она часто подкидывала мне работу, видимо, надеясь, что я начну вести дела честно, как она."
+line-254,米娜,听起来是个很好的人。,She sounds like a real good person.,"Похоже, она очень хороший человек."
+line-256,卡夫卡,是很好啦，不过我总觉得赫默把这片大地想得太美好了。,"Sure as heck is. Always felt Silence saw this world a little too rosy, though.","Хороший-то хороший, но мне всегда казалось, что Хемер воспринимает этот мир слишком идеалистично."
+line-257,卡夫卡,其实很多事是没有办法像她所想的那样进展的。,Turns out there's a lotta things people who think like her can't ever make headway on.,"На самом деле, многое в этом мире не может идти так, как она себе представляет."
+line-259,卡夫卡,不过赫默虽然有点幼稚，但很聪明，也不固执，所以我一直觉得她这样就好，也愿意和她交朋友。,"Okay, maybe Silence is a little naive. But she's so smart. And she ain't stubborn. So I've always felt she's fine the way she is. I wanna be friends with her.","Но хотя Хемер немного наивна, она очень умна и совсем не упряма, поэтому я всегда считала, что пусть она остаётся такой, и мне нравится с ней дружить."
+line-260,卡夫卡,我虽然朋友也有不少，不过像赫默这样的只有这一个，我很珍惜她的。,"I may have plenty of friends, but I only got one like Silence. I really cherish her, y'know.","Друзей у меня немало, но такая, как Хемер, — единственная, я очень ею дорожу."
+line-262,米娜,所以你才会为了帮她进入监狱吗？,So that's why you went to prison to help her?,"Поэтому ты решила проникнуть в тюрьму, чтобы помочь ей?"
+line-264,卡夫卡,啊，那倒不全是。,Eh. That's not all of it.,"А, ну не только поэтому."
+line-265,卡夫卡,一个是我以前就听说过这座监狱，确实对这里有些好奇。,Another part's I once heard about this prison. Definitely been curious about this place.,"Во-первых, я давно слышала об этой тюрьме, и мне было любопытно на неё взглянуть."
+line-266,卡夫卡,另一个嘛，是赫默这次有些不一样。,Another 'nother part's... 'cause Silence kinda changed this time.,"А во-вторых, Хемер в этот раз была сама не своя."
+line-268,米娜,你是说让你帮别人越狱？,You mean her gettin' you to help someone jailbreak?,"Ты имеешь в виду то, что она попросила тебя помочь другому сбежать?"
+line-270,卡夫卡,嗯。还有拜托我帮她收集一些企业的情报，以过去赫默的性格，我很难想象她会做这样的事。,Mmm. And she begged me to help her get all this corporate intel together. I picture how Silence used to be and it doesn't fit with her doing this kinda stuff.,"Угу. А ещё попросила собрать информацию о корпорации. Раньше Хемер была совсем другой, я не могу представить, чтобы она пошла на такое."
+line-272,米娜,嗯......是她身上发生了什么吗？,"Hm... did somethin' happen to her, you think?",Хм... что-то случилось?
+line-274,卡夫卡,不知道......自从她离开哥伦比亚去了一家叫罗德岛的公司后，我就没有再和她见过面了，只有书信联系。,"I dunno... ever since she left Columbia and went to some shop called Rhodes Island, I never saw her again. Been stuck with pen-palling.","Не знаю... С тех пор как она уехала из Колумбии в компанию под названием «Родос», мы не виделись, только переписывались."
+line-275,卡夫卡,她对离开哥伦比亚的原因也没有明说......不过，应该是发生了什么吧。,"Never really made clear why she left Columbia either... but, yeah, I guess something musta happened.",О причинах отъезда она не распространялась... но явно что-то произошло.
+line-276,卡夫卡,反正，赫默这次感觉很坚定的样子，所以我也打算好好帮她一次。,"In any case, Silence seems real dead-set on this, so I figure I'll help her out proper for once.","В любом случае, в этот раз Хемер настроена очень решительно, поэтому я тоже решила ей помочь."
+line-278,米娜,......卡夫卡，难道说，你其实是个很好的人？,Kafka. Hear me out. You might be a real good person yourself?,"...Кафка, не говори мне, что на самом деле ты хороший человек?"
+line-280,卡夫卡,咦，难道在你眼里我是个坏人？,Eh? You're saying you saw me as some stinker?,"Ой, неужели в твоих глазах я злодей?"
+line-282,米娜,我还记得你是怎么威逼利诱骗我和你一起进入监狱的哦......,"I seem to remember you good-Kafka-bad-Kafkain' me straight into prison with you, y'know...","Я до сих пор помню, как ты угрозами и уговорами заставила меня войти в тюрьму..."
+line-284,卡夫卡,啊哈，一下子突然对陌生人说请你和我一起进监狱吧，不管怎么样都会被觉得脑子有问题的吧，所以我肯定要采取一些方法啊。,"Ahah. Imagine if I asked a stranger outta nowhere 'hey, let's get locked up together.' Don't matter how I ask, they'd think I was going nuts, right. So I needed a little more of an approach, yannow?","А-ха, если бы я просто подошла к незнакомцу и предложила: «Пойдём со мной в тюрьму», он бы решил, что у меня с головой не в порядке, так что мне пришлось прибегнуть к методам."
+line-286,米娜,唉，我说不过你，算了。,Yep. I cannot out-words you. Forget it.,"Ох, мне тебя не переспорить, забей."
+line-288,卡夫卡,嘻嘻，不过，反正我觉得这不能用好不好来算。,"Heehee. No, but anyways, I just don't think this is really a 'good or bad' kinda thing.","Хи-хи, впрочем, не думаю, что можно всё делить на хорошее и плохое."
+line-289,卡夫卡,就好像你为了曾经救过你一家的安东尼铤而走险，但你做的事却是帮他越狱。,"It's like how you're going all neck or nothing for the guy who once saved your family, but what you're actually doing is breaking him outta jail.","Ты же тоже рискуешь всем ради Антони, который когда-то спас твою семью, но при этом помогаешь ему совершить побег."
+line-290,卡夫卡,如果说为了朋友付出就一定是善良的，那其实我朋友里的好人说不定比那些体面人还要多呢。,"If saying it's for a friend makes it kind for sure, then maybe more of my friends are good people than the ones who just put on the looks.","Если самопожертвование ради друга — это доброта, то среди моих знакомых «злодеев» добрых людей больше, чем среди некоторых «достойных» членов общества."
+line-291,卡夫卡,但做着坏事的人即使有着好的想法，又怎么能被叫做好人呢？,"But people who do bad stuff even though they have good intentions... how do you call them good people, huh?","Но если человек совершает плохие поступки, даже имея благие намерения, разве можно назвать его «хорошим человеком»?"
+line-293,米娜,嗯......好像也是。,Hm... I think you have a point.,"М-м... наверное, ты права."
+line-295,卡夫卡,还不如从一开始就承认自己是坏人啦。,"They coulda just admitted they were bad people from the start, probably.",Проще сразу признать себя негодяйкой.
+line-302,狱警,......,......,...
+line-307,卡夫卡,啊，狱警来了，要开工了，之后在医务室见吧。,"Oop, here come the jailers. Work's 'boutta start. Catch you at the clinic later.","О, надзиратель идёт, пора за работу. Увидимся в медпункте."
+line-308,卡夫卡,你也赶紧走吧，说不定等下这些人又要干一架了呢。,"You'd better hustle. Who knows, these people might get scrappy again soon.","И ты тоже уходи, а то эти ребята сейчас снова начнут драку."
+line-310,米娜,嗯，卡夫卡，你也小心。,"Mm-hm. Kafka, you take care too.","Хорошо, Кафка, и ты будь осторожна."
