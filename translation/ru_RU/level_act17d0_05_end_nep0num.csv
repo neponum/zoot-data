@@ -1,0 +1,197 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act17d0
+__chapter__,,Chapter Name,activities/act17d0/level_act17d0_05_end,物资回收计划
+,,,,
+char-1,霜华,霜华,Frost,Фрост
+char-2,灰烬,灰烬,Ash,Эш
+char-3,巡林者,巡林者,Rangers,Рейнджер
+char-4,黑,黑,Schwarz,Шварц
+char-5,战车,战车,Tachanka,Тачанка
+char-6,皮加尔,皮加尔,Picale,Пигаль
+char-7,闪击,闪击,Blitz,Блиц
+char-8,雷蛇,雷蛇,Liskarm,Лизерд
+char-9,米亚罗,米亚罗,Miarow,Миаро
+char-10,领主卫兵,领主卫兵,Lord's Guard,Стражник лорда
+char-11,芙兰卡,芙兰卡,Franka,Франка
+char-12,奥克芬,奥克芬,Occphen,Окфен
+char-13,源石畸变体,源石畸变体,Originiutant,Искажение ориниума
+char-14,德鲁奇,德鲁奇,Drudge,Деручи
+,,,,
+line-15,霜华,有发现吗？,Find anything?,Есть что-нибудь?
+line-17,灰烬,找到了！虽然量不多，但是有收获。,"Got something! It's not much, but it's something.","Нашла! Немного, но результат есть."
+line-19,巡林者,很好，这些粮食加上安全屋的应急储备，应该能够省省勉强再过一个星期。,"Good work. These provisions, along with the emergency store in the safehouse, should keep us fed for a week, if we stretch it.","Хорошо. С этой едой и нашими аварийными запасами из убежища мы, если будем экономить, должны продержаться еще неделю."
+line-21,灰烬,时候不早了，先回去吧。,It's getting late. Let's head back.,"Уже поздно, давайте возвращаться."
+line-31,黑,......有人来了。,...Someone's coming.,……Кто-то идет.
+line-33,巡林者,有多少？,How many?,Сколько их?
+line-35,黑,......十几个人，可能是雇佣兵。,...A dozen maybe. Could be mercenaries.,"……Больше десяти, возможно, наемники."
+line-37,巡林者,不要和他们缠斗。快！往安全屋方向！,Hurry! Back to the safehouse!,Не вступайте с ними в бой. Быстрее! В сторону убежища!
+line-54,巡林者,他们还跟着？,Are they still on us?,Они все еще преследуют нас?
+line-56,黑,......是的。,...Yes.,……Да.
+line-58,巡林者,不太对劲。,That's not good.,Что-то не так.
+line-60,灰烬,我就知道这群人肯定不会善罢甘休。,I knew they wouldn't let up.,"Я знала, что эти ребята просто так не отстанут."
+line-62,巡林者,在这里战斗容易被包围，继续撤退。,We are bound to get sieged if we choose to fight here. Keep retreating.,"Здесь нас легко окружить, продолжаем отступление."
+line-87,战车,怎么了？,What happened?,Что случилось?
+line-89,灰烬,追兵。准备战斗。,We've got company. Get ready to fight.,Преследователи. Готовьтесь к бою.
+line-91,黑,......不对。,Something's not right...,"……Нет, стой."
+line-92,黑,......不要开枪......,...Hold your fire...,……Не стреляйте……
+line-94,战车,怎么了？,Why?,Что такое?
+line-96,黑,......他们不是那些雇佣兵。,...It's not those mercenaries.,……Они не наемники.
+line-97,黑,......是瑞柏巴军人......,...They're Reproba soldiers...,……Это военные Рибара……
+line-99,巡林者,是本地卫兵？,Local guards?,Местная стража?
+line-100,巡林者,不要动手！,Hold fire!,Никаких действий!
+line-110,皮加尔,卫兵，包围这个建筑！不要让任何人跑了。,"Guards, surround the structure! Don't let anyone escape.","Стража, окружить здание! Никого не выпускать."
+line-114,闪击,等等，我们是不是被包围了。,"Wait a second, are we surrounded?","Погодите, кажется, нас окружили."
+line-115,巡林者,......情况不太妙。,...This isn't good.,……Дела плохи.
+line-116,雷蛇,领主卫队为什么要包围我们？,Why are the Lord's men encircling us?,Почему гвардия лорда окружает нас?
+line-117,巡林者,你们先别说话。,Let's have you quiet down for now.,Молчите пока.
+line-129,皮加尔,躲在里面的人，听好了！,I want all of you inside to listen up!,"Те, кто внутри, слушайте меня!"
+line-130,皮加尔,我是长泉镇卫兵队长，长泉镇领主之女皮加尔·图拉。,"I am the captain of the Long Spring village guard, daughter of the Lord of Long Spring, Picale Tulla.","Я капитан стражи Лонг-Спринг, Пигаль Тура, дочь лорда Лонг-Спринга."
+line-131,皮加尔,现在所有人都给我放下武器，乖乖地滚出来。,I want you all to lay down your weapons and come out nice and easy.,А ну все бросили оружие и покорно вышли ко мне.
+line-132,皮加尔,不要尝试挑战我的耐心，你们会后悔的。,Don't test my patience. You'll regret it.,"Не пытайтесь испытать мое терпение, вы пожалеете."
+line-137,,魁梧的瑞柏巴战士用长戟柄端用力击打地面。,The imposing Reproba warrior strikes the halberd into the ground with all her might.,Могучий воин Рибара с силой ударила древком своей алебарды о землю.
+line-138,,一瞬间，大地都在震动。,And the earth starts to tremble instantly.,На мгновение земля содрогнулась.
+line-141,皮加尔,雇佣兵，又是雇佣兵。,Mercenaries. It's always mercenaries.,"Наемники, опять наемники."
+line-142,皮加尔,你们这群无德无耻无信无义的恶徒！我那个恶贯满盈的兄弟到底给了你们多少金子？,"You shameless, faithless, virtueless bastards. How much gold did my evil brother give you?","Вы, безнравственные, бессовестные, лишенные чести негодяи! Сколько же золота отвалил вам мой подлый братец?"
+line-143,皮加尔,你们逃不掉的，我要碾碎你们，我要击溃你们。,You won't get away. I'll crush you. I'll stomp you into dust.,"Вы не уйдете. Я раздавлю вас, я разобью вас."
+line-144,皮加尔,我要让你们为恶行付出代价。,I'll make you pay for everything you've done.,Я заставлю вас заплатить за ваши злодеяния.
+line-145,皮加尔,等你们死在我刀下后，你们才会知道，再多脏钱也买不来第二条性命！,"Once I cut you down, you'll finally understand that no amount of blood money can buy you another life!","Когда вы падете от моей руки, вы поймете, что никакие грязные деньги не купят вам вторую жизнь!"
+line-155,闪击,喔！喔！你确定他们是来“帮忙”的？,Oh! Oh! Are you sure they're here to help?,"Ого! Ого! Ты уверена, что они пришли «помочь»?"
+line-156,闪击,这是要把我们挂在城门口吧。,I think they'd rather hang us from the town gate.,Они собираются развесить нас на городских воротах.
+line-158,灰烬,这就是我最担心的情况。,That's what I'm afraid of.,Этого я и боялась больше всего.
+line-170,巡林者,这中间肯定是有什么误会。,There's definitely a misunderstanding here.,Здесь явно какое-то недоразумение.
+line-171,巡林者,皮加尔大人。,Lady Picale.,Госпожа Пигаль.
+line-172,巡林者,老夫是罗德岛外勤干员，代号巡林者。,"I'm a field operator with Rhodes Island, code name Rangers.","Я полевой сотрудник Родос Айленд, мой позывной — Рейнджер."
+line-173,巡林者,罗德岛与您的家族应当签署过相关的协议。,I'm pretty sure Rhodes Island signed a cooperation agreement with your family.,Родос Айленд должен был подписать соглашение с вашей семьей.
+line-174,巡林者,我们是......,We're...,"Мы здесь, чтобы…"
+line-179,皮加尔,闭嘴！,Shut up!,Заткнись!
+line-180,皮加尔,罗德岛！道貌岸然的伪君子！,Rhodes Island! Sanctimonious hypocrites!,"Родос Айленд! Святоши, лицемеры!"
+line-181,皮加尔,我的父亲信任你们，他相信你们的承诺，才同意这个安全屋的存在。,My father trusted you! He believed your promises. That's why he agreed to your safehouse.,"Мой отец доверял вам, верил в ваши обещания, поэтому позволил создать это убежище."
+line-182,皮加尔,而你们是怎么报答我的父亲的？,And how did you repay him?,И как вы отплатили моему отцу?
+line-183,皮加尔,你们绑架镇民！掠夺他们的财富！我都看到了！,You kidnapped our people! Robbed them of everything they had! I saw it!,Вы похищаете горожан! Граббите их богатства! Я все видела!
+line-184,皮加尔,你们这些背信弃义的恶徒！,You're a bunch of treacherous villains!,"Вы, вероломные мерзавцы!"
+line-190,灰烬,但凡你有点脑子，就不该说出这么蠢的话。,"If you think for a single second, you'll know that doesn't make any sense.","Если бы у тебя хоть немного работала голова, ты бы не несла такой чуши."
+line-191,灰烬,如果我们的目的是掠夺这个镇子，那我们还在这里逗留这么长时间？,"If we wanted to pillage the town, why would we still be here?","Если бы мы хотели ограбить этот город, стали бы мы здесь так долго задерживаться?"
+line-193,皮加尔,花言巧语！,Don't try to talk your way out of this!,Пустозвонство!
+line-194,皮加尔,你们又是什么人？,And who the hell are you?,Кто вы вообще такие?
+line-195,皮加尔,你们拿着铳器站在我父亲的领地上，还敢在这里狡辩！,"You're standing on my father's land with your guns, and you dare to argue with me?!",Стоите на землях моего отца с оружием в руках и еще смеете оправдываться!
+line-197,灰烬,既然你这么厉害，之前干什么去了？,"If you're so tough, where have you been all this time?","Раз уж ты такая героиня, где ты была раньше?"
+line-198,灰烬,你和领主卫队放任暴徒袭击病人社区，拼死救人的是我们，不是你那不出动的宝贝卫队。,You and the Lord's men let those thugs raid the quarantine zone so we had to risk our lives to save the townsfolk in there. What were your precious guardsmen doing then?,"Ты и твоя гвардия позволили бандитам напасть на поселение больных, а спасали их мы, а не твои хваленые стражники, которые так и не явились."
+line-199,灰烬,现在你还跑来满嘴胡话？,And you still think you can come here and talk a big game with us?,И теперь ты приходишь сюда и несешь всякий бред?
+line-201,战车,冷静。这人不太像是能讲得通道理的那类人。,Settle down. She doesn't seem like the type you can reason with.,"Спокойно. Не похоже, что с этим человеком можно договориться."
+line-207,米亚罗,皮加尔大人！,Lady Picale!,Госпожа Пигаль!
+line-208,米亚罗,我是感染者社区的米亚罗医生！你以前见过我！,"I'm Dr. Miarow, from the Infected quarter! We've met before!",Я врач Миаро из поселения инфицированных! Вы меня помните!
+line-210,皮加尔,......是你，我认得你。,...Right. I know you.,"……Это ты, я тебя узнаю."
+line-212,米亚罗,罗德岛没有劫掠感染者，我可以作证！我们是被那些暴徒赶到这里来的。,Rhodes Island didn't rob the Infected. I can testify to that! We were forced here by the riots.,"Родос Айленд не грабил инфицированных, я могу это подтвердить! Нас сюда загнали те самые бандиты."
+line-213,米亚罗,不止是我，这里的其他感染者也可以作证。,And it's not just me. Any of the Infected here will tell you that.,"Не только я, но и другие инфицированные здесь могут подтвердить это."
+line-214,米亚罗,皮加尔大人，请您相信我。,"Lady Picale, I need you to trust me.","Госпожа Пигаль, прошу, поверьте мне."
+line-216,皮加尔,......,......,……
+line-217,皮加尔,......我相信你，医生，很多人都讲述过你的故事。,"...I trust you, Doctor. Many people speak highly of you.","……Я верю тебе, доктор, многие рассказывали о твоих добрых делах."
+line-219,米亚罗,谢谢您，皮加尔大人。,"Thank you, Lady Picale.","Благодарю вас, госпожа Пигаль."
+line-221,皮加尔,但是我不信任他们！,But I don't trust them!,Но я не доверяю им!
+line-225,,魁梧的领主之女用巨大的长戟指向前方。,The imposing daughter of the Lord points forward with her colossal halberd.,Могучая дочь лорда указала своей огромной алебардой вперед.
+line-229,皮加尔,你们未经许可手持兵械进入我父亲的领地，这就是大忌！,"It is a grave infraction to enter my father's territory, armed, without permission!","Вы без разрешения пронесли оружие на земли моего отца, это тягчайшее нарушение!"
+line-230,皮加尔,看在你们保护了我父亲的领民的份上——,In light of you protecting my father's subjects...,"Только благодаря тому, что вы защитили подданных моего отца —"
+line-231,皮加尔,我不追究你们私携武装的责任！,I will pardon you for that infraction.,Я не буду привлекать вас к ответственности за ношение оружия!
+line-232,皮加尔,至于罗德岛！你们与我父亲签署的合同，即日内作废。,"As for Rhodes Island! The contract you signed with my father is, as of today, null and void.","Что касается Родос Айленд! Контракт, подписанный с моим отцом, с сегодняшнего дня аннулирован."
+line-234,巡林者,......请您三思。,...Please reconsider.,"……Прошу, обдумайте это решение еще раз."
+line-237,皮加尔,这件事没什么值得商量的！,There is nothing to discuss!,Здесь нечего обсуждать!
+line-238,皮加尔,长泉镇不需要其他武装人员，就算是罗德岛也一样！,"Long Spring does not need armed foreigners, not even Rhodes Islanders!","Лонг-Спрингу не нужны другие вооруженные силы, даже Родос Айленд!"
+line-239,皮加尔,我会带走所有的感染者，将他们安置在合适的地方。,I will gather up the Infected and take them where they belong.,Я заберу всех инфицированных и размещу их в надлежащем месте.
+line-240,皮加尔,其余的你们不需过问。,We don't need you getting involved.,Остальное вас не касается.
+line-242,雷蛇,可是......,But...,Но……
+line-244,巡林者,好了，别说了。,Alright. Don't speak.,"Хорошо, достаточно."
+line-245,巡林者,不要忤逆本地领主，这里是萨尔贡，别忘了我们现在代表罗德岛的立场。,Do not defy the local Lord. We are standing here at Sargon as Rhodes Island operators.,"Не спорьте с местным лордом, это Саргон, не забывайте, что мы представляем интересы Родос Айленд."
+line-247,雷蛇,......,......,……
+line-258,领主卫兵,四十一、四十二......,"Forty-one, forty-two...","Сорок один, сорок два……"
+line-259,领主卫兵,还有其他人吗？,Any others?,Есть еще кто-то?
+line-261,米亚罗,就这些了......,That's all...,Это все……
+line-264,领主卫兵,没事，接下来你们就安全了。,No problem. We'll get you to safety.,"Ничего, теперь вы в безопасности."
+line-269,米亚罗,科恩小姐，亚历山大先生。,"Miss Cohen, Mr. Alexsandr.","Мисс Эш, мистер Александр."
+line-270,米亚罗,这段时间，非常感谢你们。,Thank you for all that you've done.,Большое спасибо вам за все это время.
+line-272,灰烬,别这么说，该说谢谢的是我们这边。,No need. We should be thanking you.,"Не стоит, это нам нужно благодарить вас."
+line-274,米亚罗,你们打算去哪？,Where are you going to go?,Куда вы собираетесь?
+line-276,灰烬,还没确定呢。,Not sure yet.,Еще не решили.
+line-278,战车,不要搞得这么悲伤。,Let's not make it sound so sad.,Не будь таким грустным.
+line-279,战车,咱们以后说不定还会再见面呢。,Maybe we'll meet again someday.,"Может, мы еще встретимся."
+line-280,战车,下次我还得给你讲一讲......,I'll have to tell you about it next time...,В следующий раз я обязательно расскажу тебе про……
+line-283,领主卫兵,？,?,？
+line-285,战车,咳咳......狗头人的故事呢。,*Cough* *cough*... the story of the dog-headed man.,Кхм-кхм…… про историю с собакоголовыми.
+line-287,米亚罗,哈哈哈......好的。,Hahaha... alright.,Ха-ха-ха…… хорошо.
+line-292,巡林者,医生，这个是给你的。,"Doctor, this is for you.","Доктор, это вам."
+line-294,米亚罗,这是......源石锭，这我不能......,It's... an Originium Ingot. But I can't...,"Это…… ориниумные слитки, я не могу……"
+line-296,巡林者,是报酬，你替奥克芬治好了腿，这是罗德岛给你的酬金。,Remuneration. For Occphen's leg.,"Это оплата. Вы вылечили ногу Окфену, это вознаграждение от Родос Айленд."
+line-298,米亚罗,那只是简单的急救处理......不值这么多钱......,That was just some basic first aid... it's not worth this much...,Это была лишь простая первая помощь…… она не стоит таких денег……
+line-300,巡林者,我认为是值得的，收下吧。,I think it's worth it. Take it.,"Я считаю, что стоит. Возьмите."
+line-302,米亚罗,谢谢您，巡林者先生。,"Thanks, Mr. Rangers.","Спасибо вам, мистер Рейнджер."
+line-304,米亚罗,最后......谢谢各位。,And... thank you all.,Напоследок…… спасибо всем вам.
+line-306,米亚罗,再见。,Goodbye.,Прощайте.
+line-312,黑,......,......,……
+line-314,巡林者,......,......,……
+line-316,黑,这事情不对劲。,Something's off.,Что-то здесь нечисто.
+line-318,巡林者,我明白。,I know.,Я понимаю.
+line-319,巡林者,唉，本来以为谨慎一些总没错，没想到反而产生了误会。,"*Sigh*. I thought caution was the right move, but we ended up with a big misunderstanding.","Эх, думал, что осторожность не повредит, а оказалось, что это привело лишь к недопониманию."
+line-321,雷蛇,谁能想到这卫兵队长是个这么不讲道理的人。,Who would've thought the captain of the guard would be so difficult?,"Кто бы мог подумать, что этот капитан стражи такая неразумная."
+line-323,芙兰卡,这蠢女人，脑袋里面也是肌肉吧，我还以为这类人在黑钢已经够多了。,A muscle-headed moron. We have enough of those at BSW.,"Эта глупая баба, у нее вместо мозгов мышцы, думала, что таких полно только в Блэкстил."
+line-325,雷蛇,接下来怎么办？,So what do we do?,Что теперь будем делать?
+line-327,奥克芬,安全屋里的东西......基本都被他们收缴了。,They seized pretty much everything from the safehouse.,Вещи в убежище…… их практически все конфисковали.
+line-329,巡林者,至少大家毫发无伤，这已经是不幸中的万幸了。,At least we're all unharmed. That's what really matters.,"По крайней мере, все живы и здоровы, это уже большая удача."
+line-330,巡林者,奥克芬先生和我们一起出发吧，你可以先在办事处那边登记，我们向本舰联络之后，再一起商量后续行动。,"Come with us, Mr. Occphen. We'll sign you in at the branch office, then contact the landship and figure out what to do.","Мистер Окфен, давайте с нами. Можете зарегистрироваться в нашем представительстве, мы свяжемся с кораблем, а потом решим, как действовать дальше."
+line-332,奥克芬,也只能这样了。,That's really our only option.,Другого выбора нет.
+line-334,黑,......我有点不放心。,...I'm not so sure.,……Меня это беспокоит.
+line-336,巡林者,你指什么。,What do you mean?,О чем ты?
+line-339,黑,......这个叫皮加尔的人......有没有可能她才是这一切的始作俑者？,...That Picale woman... could she be the one behind all this?,"……Эта Пигаль…… Возможно ли, что именно она стоит за всем этим?"
+line-340,黑,领主迟迟没有出现，雇佣兵一直想要绑架这些感染者。,"The Lord was so slow to act, even as the mercenaries were rounding up the Infected.","Лорд так и не появился, наемники все пытались похитить инфицированных."
+line-341,黑,......现在来了一个卫兵队长，名正言顺地带走了所有人。,"...And now we've got a captain of the guard, taking everyone away all nice and legally.",……А теперь приходит капитан стражи и под законным предлогом забирает всех.
+line-342,黑,这是不是太巧了？,This can't just be a coincidence.,Не слишком ли много совпадений?
+line-344,巡林者,......你说的还真有点道理。,...That does make sense.,……В твоих словах есть доля правды.
+line-346,黑,......我打算尾随......去看看。,...I'm going to tail them... and see.,……Я собираюсь проследить за ними…… проверить.
+line-348,灰烬,我也去。,I'm going too.,Я тоже пойду.
+line-350,巡林者,不，太多人容易引起警觉。,No. More hands are more easily seen.,"Нет, большая группа привлечет лишнее внимание."
+line-351,巡林者,其他人随时待命。,The rest of you stand by.,Остальные — в режиме ожидания.
+line-353,黑,......,......,……
+line-355,巡林者,怎么了？,What's the matter?,Что такое?
+line-357,黑,我还以为你会反对这个计划。,I thought you won't agree with this plan.,"Думала, ты будешь против этого плана."
+line-359,巡林者,审时度势，不和本地领主发生冲突，不代表我们什么都不做。,Avoiding conflicts with the local Lord doesn't mean our hands are tied here. We need to play to the score.,"Оценивать ситуацию и не конфликтовать с местным лордом — не значит, что мы будем сидеть сложа руки."
+line-360,巡林者,有些时候，一些小诡计是必要的。,Some times you need a few tricks to get things working.,Иногда небольшие хитрости просто необходимы.
+line-362,黑,......明白了。,I see...,……Поняла.
+line-374,皮加尔,你先把所有人都带到避难所去，然后带三个人和我一起来。,"Get them all to shelter first, then I want three with me.","Сначала отведи всех в убежище, а потом возьми трех человек и иди за мной."
+line-375,皮加尔,我怀疑矿坑里有问题。,I think there's something happening in the mines.,"Подозреваю, что в шахте что-то неладно."
+line-378,领主卫兵,明白。,Understood.,Понял.
+line-380,皮加尔,避难所里还有位置吗？,Is there enough room left in the shelter?,В убежище еще есть места?
+line-382,领主卫兵,不是很够了，半个镇子的人现在都躲在避难所里。,Not really. Half of the town's population is already inside.,"Маловато, полгорода сейчас прячется там."
+line-384,皮加尔,实在不行就让他们住在楼上，把我父亲的房间给他们。,Tell them to move upstairs if necessary. Them can have my father's room.,"Если совсем никак — пусть селятся на верхних этажах, отдайте им покои моего отца."
+line-386,领主卫兵,这......这合适吗？,Is this...really necessary?,Это…… это уместно?
+line-388,皮加尔,没什么不好，如果父亲还活着他也会这么做的。,I don't see anything wrong with it. My father will do the same should he lived.,"Ничего плохого в этом нет, если бы отец был жив, он поступил бы так же."
+line-390,领主卫兵,......我明白了。,...I see.,……Я понял.
+line-392,皮加尔,总之，保持警惕。,Don't let your guard down anyway.,"В любом случае, будьте начеку."
+line-396,皮加尔,......等等，我们出来的时候把灯都熄灭了？,"...Wait, did the lights go out as soon as we left?","……Подожди, мы погасили весь свет, когда выходили?"
+line-398,领主卫兵,我不记得......,I don't remember...,Не помню……
+line-402,皮加尔,！！,! !,！！
+line-403,皮加尔,闪开！,Out of the way！,В сторону!
+line-415,领主卫兵,啊啊！,Aaah!,А-а-а!
+line-419,源石畸变体,嘎......,Gaa...,Га……
+line-421,皮加尔,敌袭！保护镇民！,We're under attack! Protect the civilians!,Нападение! Защищайте горожан!
+line-429,皮加尔,这都是从哪儿冒出来的！,Where did they come from?!,Откуда они вообще повылезали!
+line-430,皮加尔,不要耗在这里，准备突围！,What are you waiting for?! Get ready to break through!,"Не тратьте силы, готовимся к прорыву!"
+line-442,领主卫兵,他们人太多了！,There's too many of them!,Их слишком много!
+line-444,皮加尔,你们带着平民先走！我断后！,Take the civilians and get out of here! I'm breaking off!,Уводите гражданских! Я прикрою!
+line-457,皮加尔,来啊，你们这些无胆匪类！,"Come on, you cowardly bandits!","Ну давайте, трусливые шакалы!"
+line-479,皮加尔,呼......这是第几只了？,Phew... How many was that?,Фу…… какая это уже по счету?
+line-480,皮加尔,终于到了。,Finally.,Наконец-то добралась.
+line-491,米亚罗,皮加尔大人！,Lady Picale!,Госпожа Пигаль!
+line-493,皮加尔,医生！你怎么在这里？,Doctor! What are y ou doing here?!,Доктор! Что вы здесь делаете?
+line-495,米亚罗,别过去！领主宅邸已经被......,Don't go! The Lord's Manor has already been...,Не подходите! Резиденция лорда уже……
+line-507,皮加尔,医生！,Doctor!,Доктор!
+line-508,皮加尔,......,......,……
+line-510,皮加尔,德鲁奇！,Drudge!,Деручи!
+line-512,皮加尔,你给我滚出来！我要把你的头砍下来！,Get the hell out of here! I'm going to chop your goddamned head off!,А ну выходи! Я снесу твою голову!
+line-518,德鲁奇,哈哈哈......你的嗓门还是这么大，我亲爱的妹妹。,"Hahaha... You're loud as you ever were, dear sister.","Ха-ха-ха…… голос у тебя все такой же громкий, дорогая моя сестренка."
+line-520,皮加尔,你......你这个恶棍......我饶不了你。,You... You disgusting... I have to kill you.,Ты…… ты мерзавец…… я тебе этого не прощу.
+line-522,德鲁奇,那就让我看看你有什么本事。,Show me what you've got.,"Тогда покажи, на что ты способна."
+line-527,,当魁梧的瑞柏巴用令人惊叹的速度冲向自己的兄长时，她才意识到——,"As the imposing Reproba charges at her brother with shocking speed, she realizes it.","Когда мощный рибар бросился на брата с невероятной скоростью, она лишь тогда осознала —"
+line-528,,——自己中计了。,She's fallen right into a trap.,— что попала в ловушку.
+line-530,,在夜色的掩护中，在破败不堪的房屋后，有一台轰隆作响的机器。,"Under the cover of night, behind the crumbling houses, a machine rumbles.","Под прикрытием ночи, за полуразрушенным домом, стояла грохочущая машина."
+line-532,,一瞬间，她感到自己被什么东西猛烈地撞击了，头晕目眩，仿佛是被投石机投出的巨石正中面门。,"In one second, she feels herself struck dizzy by a ferocious blow, as if slammed right in the face by a boulder launched from a catapult.","В мгновение ока она почувствовала мощный удар, в глазах потемнело, словно ей в лицо угодил огромный камень из катапульты."
+line-543,,下一刻，她失去了意识。,"In the next second, she falls unconscious.",В следующее мгновение она потеряла сознание.
