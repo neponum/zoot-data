@@ -1,0 +1,102 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act11d0
+__chapter__,,Chapter Name,activities/act11d0/level_act11d0_05_end,冬灵挽歌
+,,,,
+char-1,铃兰,铃兰,Suzuran,Судзуран
+char-2,镇民,镇民,Townsfolk,Горожанин
+char-3,亚叶,亚叶,Folinic,Йаэ
+char-4,武装的感染者A,武装的感染者A,Armed Infected A,Вооруженный зараженный А
+char-5,武装的感染者B,武装的感染者B,Armed Infected B,Вооруженный зараженный Б
+char-6,塔佳娜,塔佳娜,Tatjana,Татьяна
+char-7,顽固的镇民,顽固的镇民,Stubborn Townsfolk,Упрямый горожанин
+char-8,武装的感染者,武装的感染者,Armed Infected,Вооруженный зараженный
+char-9,塞弗林,塞弗林,Severin,Зеферин
+char-10,？？？,？？？,???,???
+char-11,灰喉,灰喉,GreyThroat,Грейтроат
+char-12,断崖,断崖,Ayerscarpe,Клиффхарт
+,,,,
+line-9,铃兰,快！这边走！,Hurry! This way!,Быстрее! Сюда!
+line-11,镇民,谢谢、谢谢！,Thanks!,"Спасибо, спасибо вам!"
+line-17,铃兰,亚叶姐姐！,Folinic!,Сестрёнка Йаэ!
+line-19,亚叶,丽萨！你带着平民先走！,Lisa! Take the civilians and get out of here!,"Лиза! Уводи гражданских, быстро!"
+line-29,亚叶,呃——！,Gah—!,Угх—!
+line-30,亚叶,这群暴徒......他们在无差别攻击街道？,Are the rioters... just attacking at random?,"Эта банда... они что, ведут беспорядочный огонь по улицам?"
+line-32,武装的感染者A,喂！我们好不容易才抢下这玩意，你倒是射准一点啊！,Hey! It wasn't easy to get that gizmo. You better shoot straight!,"Эй! Мы столько сил потратили, чтобы захватить эту штуку, целься точнее!"
+line-34,武装的感染者B,闭嘴！要操纵这玩意儿哪有那么简单！得亏我以前在音乐学院学习过——！,Shut it! This thing isn't easy to use! Luckily I studied at the conservatory!,"Заткнись! Ты думаешь, управлять этой махиной так просто? Хорошо хоть я в консерватории когда-то учился—!"
+line-36,武装的感染者A,哪门子学院！？喂，宪兵！不要轻举妄动，我们有人质的！,"Which one?! Hey, Gendarmerie! Don't do anything stupid. We got hostages!","В какой еще консерватории!? Эй, жандарм! Не вздумай дергаться, у нас заложники!"
+line-38,武装的感染者B,人质在哪儿呢？,What hostages?!,А где заложники?
+line-40,武装的感染者A,*莱塔尼亚粗口*！街上在跑的不都是吗！,Arschgeige! The ones running down the street!,*Лейтанийское ругательство*! Вон они все бегут по улице!
+line-42,亚叶,啧！,Hmph!,Черт!
+line-44,塔佳娜,亚叶小姐！不能让他们继续破坏下去了！,Miss Folinic! You have to stop them!,Мисс Йаэ! Нельзя позволить им продолжать разрушения!
+line-45,塔佳娜,这附近的房屋都是木质结构，这样下去整片街道都会化为火海——！,Everything here is made of wood. This whole block will go up in flames!,"Дома поблизости деревянные, если так пойдет, вся улица превратится в море огня—!"
+line-49,镇民,火！快灭火！其他人赶紧离开这里！,"Fire! Put it out! Everyone else, get out of here!",Пожар! Скорее тушите! Остальным — бегите отсюда!
+line-51,塔佳娜,还有很多来不及撤离的平民，我们得帮他们！,So many innocent people won't make it out in time. We must save them!,"Там еще много гражданских, которые не успели эвакуироваться, мы должны им помочь!"
+line-53,亚叶,但这不是完全没法靠近吗——！,How are we supposed to get over there?!,Но к ним же никак не подобраться—!
+line-55,塔佳娜,——呃，这火力！,Gah! The fire!,"—Угх, какая мощь!"
+line-56,塔佳娜,亚叶小姐！麻烦你照顾伤员！,Folinic! Please tend to the wounded!,"Мисс Йаэ! Позаботьтесь о раненых, прошу!"
+line-62,亚叶,喂！？,Hey!,Эй!?
+line-64,顽固的镇民,你们这些冬灵人！感染者！蛀虫！,Winterwisps! Infected! Vermin!,"Вы, зимляне! Зараженные! Паразиты!"
+line-65,顽固的镇民,为什么要烧了我的家！为什么！明明是我们养着你们的——！,Why did you burn my home?! Why?! We did so much for you!,Зачем вы сожгли мой дом! Зачем! Мы же вас кормили—!
+line-68,塔佳娜,小心头顶！,Watch your head.,Берегись!
+line-70,顽固的镇民,呃？,Huh?,А?
+line-79,顽固的镇民,唔......呃，塔佳娜？你、你还好吗！？,Hmm... Oh. Tatjana? A-are you okay?!,"М-м... ох, Татьяна? Ты, ты в порядке!?"
+line-84,塔佳娜,呜......我还好，他们控制不住那些自律施术单元，这里很危险！,Ugh... I'm fine. But they can't control those automatic Arts units. We're in danger here!,"Ух... я в порядке, но они потеряли контроль над этими автономными боевыми модулями, здесь опасно!"
+line-86,顽固的镇民,我们一起反抗！把他们赶出去！,We'll fight back together! Push them out!,Давайте дадим им отпор! Выгоним их отсюда!
+line-88,塔佳娜,现在——还不是时候——！呃——！,Now... isn't the time...! Gah...!,Сейчас— не время для этого—! Агх—!
+line-90,顽固的镇民,你的脚——！好、好吧，我听你的！,"Your foot...! F-fine, I'll listen to you!","Твоя нога—! Л-ладно, я слушаю тебя!"
+line-92,塔佳娜,离开这里！,Get out of here!,Уходи отсюда!
+line-98,塔佳娜,（脚踝的刺痛......是骨折了吗？真糟糕......）,(This terrible pain in my ankle... is my bone broken? Damn it...),(Острая боль в щиколотке... это перелом? Вот черт...)
+line-99,塔佳娜,（得快点和其他人汇合......）,(I have to get back to the others...),(Нужно быстрее воссоединиться с остальными...)
+line-101,武装的感染者,你这，贵族的爪牙！,You! Noble puppet!,"Ах ты, приспешница аристократов!"
+line-103,塔佳娜,——！？,Huh?!,—!?
+line-114,塞弗林,......全部撤离了吗？,They all routed?,...Все эвакуированы?
+line-116,镇民,是、是的！,Y- yes!,Д-да!
+line-123,铃兰,塞弗林长官，受伤的人很多，这里人手不够......！,"Mr. Severin, we have a lot of wounded. We need help...!","Офицер Зеферин, здесь слишком много раненых, рук не хватает...!"
+line-125,塞弗林,医生们，听这位沃尔珀小姐的话，没受伤的年轻人也都去帮忙。,"Medics, you are to obey this young Vulpo's every word. Able-bodied youth will help as well.","Врачи, слушайте эту девушку-вулпо, остальные — помогайте раненым."
+line-127,镇民,知道了！,"Yes, sir!",Поняли!
+line-133,铃兰,如果亚叶姐姐在的话......！,If only Miss Folinic was here...,Если бы сестрёнка Йаэ была здесь...!
+line-135,塞弗林,等等......她们没有回来？,Wait... she isn't back yet?,Подожди... они не вернулись?
+line-137,塞弗林,喂！亚叶和塔佳娜呢？,Oi! Where are Folinic and Tatjana?,Эй! Где Йаэ и Татьяна?
+line-139,镇民,她们、她们好像还在十二音街道......,"They, I think they're still at Zwölftontechnik Strasse...","Они, они, кажется, все еще на Двенадцатой улице..."
+line-141,塞弗林,——我刚才问的不是“全部撤离”吗！？,Did I not just ask if they all routed?!,—Я разве не спрашивал про полную эвакуацию!?
+line-143,镇民,噫！对、对不起！但是，亚叶和塔佳娜应该不会有事的，他们救下了那么多人！,"Er! S- sorry, sir! But Folinic and Tatjana should be alright. They've saved many lives!","Ик! П-простите! Но с Йаэ и Татьяной ничего не случится, они спасли столько людей!"
+line-145,塞弗林,叛乱者抢占了城防设施，没有正规武装力量的她们怎么才能没事——咳咳，咳咳！,"What do you mean they'll be alright? The insurgents have control of our town's defenses, we have no regular troops, and——*cough* *cough* *cough*!","Мятежники захватили оборонительные объекты, как они могут оставаться в безопасности без вооруженной поддержки — кха-кха, кха-кха!"
+line-146,塞弗林,——咳，找几个身强力壮的，和我去。,"——*cough*, get some heavies and come with me.","—Кха, ищите тех, кто покрепче, и со мной."
+line-148,镇民,但是他们有火力优势，说不定已经有了人质，我们不应该再去刺激他们了，我们应该等着谈判的机会！,"But they have firepower, and maybe hostages. We shouldn't provoke them any more. Let's wait for a chance to parley.","Но у них преимущество в огневой мощи, возможно, они уже взяли заложников, нам не стоит их провоцировать, надо ждать шанса на переговоры!"
+line-150,塞弗林,机会！等着敌人给我们机会！你上过战场吗！？,A chance? You're going to wait for the enemy to give you a chance? Have you ever fought a battle?!,"Шанс! Ждать, пока враг даст нам шанс! Ты хоть раз на поле боя бывал!?"
+line-152,镇民,对、对不起！,S-sorry!,П-простите!
+line-158,？？？,但他的担忧不无道理。大裂谷留下的活性源石极有可能残留在沃伦姆德的地基内，任由他们破坏，后果不堪设想。,But his concerns are reasonable. The active Originium left behind by the Great Rift are likely still in the foundation of Wolumonde. The consequences of letting them destroy it would be unthinkable.,"Но его опасения небезосновательны. Активный ориниум, оставшийся после Великого разлома, может находиться в фундаменте Волеммуда. Если дать им разрушить город, последствия будут катастрофическими."
+line-160,镇民,你们从哪里进来的！无关人士赶紧离开这里！,Where did you come from? You shouldn't be here!,Откуда вы здесь взялись! Посторонним немедленно покинуть территорию!
+line-162,塞弗林,......不。,No.,...Нет.
+line-163,塞弗林,没有宪兵队的我们倒更像无关人士......我见过你一面，罗德岛的干员。,"With no Gendarmerie, we're the ones who shouldn't be here... I've seen you before, Rhodes Island Operators.","Без жандармерии мы сами больше похожи на посторонних... Я помню тебя, оперативник Родос-Айленд."
+line-165,灰喉,感谢理解，断崖？,Thank you for understanding. Ayerscarpe?,Благодарю за понимание. Клиффхарт?
+line-167,断崖,......简单的现场判断，如果他们继续用那种装置轰炸街道，十分钟到半小时沃伦姆德就会搁浅。,"A quick, on-the-spot assessment: if they continue to bombard the area with that device, we have ten to thirty minutes before Wolumonde comes to a halt.","...Беглый анализ ситуации: если они продолжат бомбить улицу такими устройствами, через десять-тридцать минут Волеммуд сядет на мель."
+line-168,断崖,最好的处理方法是切断这片街道与城区的链接，但沃伦姆德不比移动城邦，街道缺乏自主移动的动力源。,"The best way to handle this would be to sever the link between this district and the rest of the city, but Wolumonde is no nomadic city. Individual districts do not have the power to move autonomously.","Лучший способ — отрезать улицу от остального города, но Волеммуд — не мобильный город, у улиц нет автономных двигателей."
+line-170,塞弗林,其实拖拉机可以做得到......前提是，街道上没有那么多叛军。,"Actually, a tractor could do it... But not when the streets are full of rebels.","На самом деле тракторы могли бы справиться... при условии, что на улице не так много повстанцев."
+line-172,灰喉,武装介入城镇事务需要申请手续吗？,Is there an application procedure for an armed intervention?,Требуется ли разрешение на вооруженное вмешательство во внутренние дела города?
+line-174,塞弗林,......请便。,...Go nuts.,...Действуйте.
+line-175,塞弗林,也请二位......务必救出塔佳娜和亚叶小姐。,And please... Be sure to save Tatjana and Folinic.,И прошу вас двоих... обязательно спасите Татьяну и мисс Йаэ.
+line-177,铃兰,塞弗林长官——这里还需要——啊！,"Mr. Severin, we need— Ah!",Офицер Зеферин — здесь еще нужно — а!
+line-179,灰喉,......丽萨？,...Lisa?,...Лиза?
+line-181,铃兰,是......是灰喉前辈？这位是？,Is... is that Operator GreyThroat? And who's this?,Это... это Грейтроат? А это кто?
+line-183,断崖,干员断崖，天灾信使莱恩哈特的护卫，他本人有别的任务，我就被拖来这里了。,"Operator Ayerscarpe, bodyguard of Catastrophe Messenger Leonhardt. He is out on another mission, so I got dragged over here.","Оперативник Клиффхарт, телохранитель посла бедствий Леонхарта. У него самого другие задачи, так что меня сослали сюда."
+line-185,灰喉,丽萨，安托和亚叶呢？,"Lisa, where are Atro and Folinic?","Лиза, где Андо и Йаэ?"
+line-187,铃兰,亚叶姐姐还在里面！安托......安托姐姐，那个......,Miss Folinic is still in there! But Miss Atro... she's... um...,"Сестрёнка Йаэ всё ещё там! Андо... сестрёнка Андо, ну..."
+line-189,灰喉,不用勉强，我明白了，只是确认一下......一会再说。,It's okay. I understand. I just had to be sure... We'll talk about it later.,"Не заставляй себя, я поняла. Просто уточняла... потом поговорим."
+line-191,铃兰,......呜呜......有、有罗德岛的前辈们来帮忙真是太好了......,"Mmm... It's, it's nice to have some senior operators coming to help...","...У-у... как хорошо, что оперативники Родос-Айленд пришли на помощь..."
+line-193,铃兰,——不、不行，现在还不能松懈！,B-but I still need to stay focused!,"—Н-нет, сейчас нельзя расслабляться!"
+line-194,铃兰,我会照顾好伤员的，请一定要把亚叶姐姐救回来！,"I'll take care of the wounded. Whatever you do, please bring Miss Folinic back safely!","Я позабочусь о раненых, пожалуйста, спасите сестрёнку Йаэ!"
+line-196,灰喉,嗯，我会的。,Right. I will.,"Конечно, сделаю."
+line-206,断崖,那么小的孩子......也是干员？,Such a young child... she's an operator?,Такая маленькая девочка... тоже оперативник?
+line-208,灰喉,阿米娅比丽萨大不了几岁，别忘了。,"Amiya isn't much older than Lisa, you know.","Амия ненамного старше Лизы, не забывай об этом."
+line-210,断崖,......原来如此。,Yeah...,...Вот оно что.
+line-211,断崖,这场营救完全在计划之外，没有任何防护设备，你没问题吗？,"We did not plan for this rescue, nor do we have the protective equipment. Are you going to be okay?","Эта спасательная операция совсем не входила в планы, без спецснаряжения, ты уверена, что справишься?"
+line-213,灰喉,没有。,Yes.,Да.
+line-215,断崖,——真意外，传闻中的灰喉小姐并不是个能热情地迎接源石的人，我还担心过来着。,What a surprise. They always said you couldn't handle working around Originium. I was worried.,"—Неожиданно. По слухам, мисс Грейтроат не в восторге от ориниума, я даже волновался."
+line-217,灰喉,......我只是不想惨剧发生太多次，救人要紧，闲话少说吧。,I've had enough of tragedy is all. Saving lives is what matters. Cut the chatter.,"...Я просто не хочу, чтобы трагедии повторялись так часто. Время дорого, меньше слов."
+line-220,武装的感染者,怎么回事，怎么还有人敢冲进来？,What the? More people coming in?,"Что за черт, кто это еще посмел ворваться?"
+line-221,武装的感染者,这两个人动作好快！快、快解决他们！,And they're fast! G-get rid of them!,"Они очень быстрые! Скорее, прикончите их!"
+line-223,断崖,有不少本地人，没关系吗？,So many locals. You fine with that?,"Здесь много местных жителей, это не станет проблемой?"
+line-225,灰喉,尽量避开要害，动手。,Avoid the vitals. Engage.,Постарайся не бить по жизненно важным органам. Вперед.
