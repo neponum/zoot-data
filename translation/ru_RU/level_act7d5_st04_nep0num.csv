@@ -1,0 +1,523 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act7d5
+__chapter__,,Chapter Name,activities/act7d5/level_act7d5_st04,流浪者的归宿
+,,,,
+char-1,芙蓉,芙蓉,Hibiscus,Гибискус
+char-2,？？？,？？？,???,???
+char-3,炎熔,炎熔,Lava,Лава
+char-4,米格鲁,米格鲁,Beagle,Мигль
+char-5,"炎熔&芙蓉 ","炎熔&芙蓉 ",Lava & Hibiscus,Лава и Гибискус
+char-6,火神,火神,Vulcan,Вулкан
+char-7,炎熔&芙蓉,炎熔&芙蓉,Lava & Hibiscus,Лава и Хибискус
+char-8,刻俄柏,刻俄柏,Ceobe,Кэйобе
+char-9,后勤部干员,后勤部干员,Logistics Operator,Оператор отдела логистики
+char-10,人事专员,人事专员,HR Director,Специалист по кадрам
+,,,,
+line-10,,罗德岛本舰,Rhodes Island Landship,Корабль Родос Айленд
+line-11,,第六体检室,Medical Examination Room 6,Шестой кабинет медосмотра
+line-13,芙蓉,来，张嘴。,Open.,"Так, открой ротик."
+line-14,芙蓉,啊~~,Say 'aahh.',А-а-а~~
+line-16,？？？,......,......,......
+line-18,芙蓉,啊~~,Say 'aahh.',А-а-а~~
+line-20,？？？,哼。,Hmph.,Хм.
+line-22,芙蓉,来吧，把嘴巴张开好不好，我就检查一下牙齿，不会做什么坏事的。,"Come on, open your mouth, please? I'm just checking your teeth. I promise I won't hurt you.","Ну же, открой рот, ладно? Я просто проверю твои зубки, ничего плохого не сделаю."
+line-24,？？？,......,......,......
+line-26,芙蓉,唉......,Come on....,Эх...
+line-27,芙蓉,不要每次都逼我用杀手锏啊。,Don't make me pull out the big guns every time.,Не заставляй меня каждый раз использовать мой секретный козырь.
+line-28,芙蓉,哼哼，马上就让你乖乖听话。,"Hmph, I'll make you behave.","Хе-хе, сейчас ты у меня сразу станешь послушной."
+line-29,芙蓉,嘿！,Hey!,Хоп!
+line-30,芙蓉,佩洛小姐你看，这是什么？,"Look, Miss Perro, what do I have here?","Мисс Пело, посмотри, что это у меня?"
+line-32,？？？,？,?,?
+line-34,芙蓉,是你最喜欢的东西，对吧。,"It's your favorite, isn't it?","Это же твоя любимая еда, верно?"
+line-35,芙蓉,如果你好好协助我完成检查的话......,If you're a good girl and help me finish my exam....,Если поможешь мне закончить осмотр...
+line-36,芙蓉,这些蜜饼就全给你哦。,These honey biscuits are all yours.,То все эти медовые пряники достанутся тебе.
+line-38,？？？,（嗅嗅）,(Sniffing),(Принюхивается)
+line-39,？？？,......,......,......
+line-41,芙蓉,奇怪，她怎么对蜜饼没反应了？,That's weird. Why isn't she reacting to the honey biscuits?,"Странно, почему она никак не реагирует на медовые пряники?"
+line-43,炎熔,你配方有问题，芙蓉。,"There's something wrong with your recipe, Hibiscus.","В твоём рецепте есть проблема, Хибискус."
+line-44,炎熔,我说了多少次不要在食物里加奇怪的东西。,How many times have I told you not to put weird stuff in your food?,Я сколько раз говорила тебе не добавлять в еду всякие странные ингредиенты.
+line-45,炎熔,你又不听。,You never listen.,А ты всё не слушаешь.
+line-46,炎熔,来，小佩洛，给你这个。,"Here, little Perro, I'll give you this.","Держи, маленькая Пело, это тебе."
+line-48,？？？,（嗅嗅）,(Sniffing),(Принюхивается)
+line-49,？？？,啊呜。,Awoo.,Ам!
+line-51,炎熔,吃完记得听话。,But you have to be a good girl.,"Сначала доешь, а потом веди себя послушно."
+line-53,？？？,唔唔——,Mmmm——,М-м-м —
+line-54,？？？,啊呜啊呜。,Awoo.,Ам-ам-ам.
+line-55,？？？,啊——,Ah——,А-а-а —
+line-57,芙蓉,成功了！,It worked!,Получилось!
+line-58,芙蓉,不愧是小炎熔呢，真是可靠。,That's my little Lava. So reliable.,"Как и ожидалось от моей Лавы, на тебя всегда можно положиться."
+line-60,炎熔,是你不行啊。,Too bad you're not.,Это ты просто безнадёжна.
+line-62,芙蓉,那，口腔检查开始了哦。,"Okay, let's proceed with the oral exam.","Так, начинаем осмотр полости рта."
+line-63,芙蓉,把碎屑吞下去，好，然后嘴巴张大——,"Swallow the crumbs, okay, and open wide...","Проглоти крошки, хорошо, а теперь открой рот пошире —"
+line-65,炎熔,唉，我说啊芙蓉。,"Hey, Hibiscus?","Эх, послушай, Хибискус."
+line-67,芙蓉,舌头不要乱舔啊佩洛小姐——啊，怎么了？,"Watch your tongue, Miss Perro——Hm, what?","Мисс Пело, не нужно облизывать мне руки — а, что случилось?"
+line-69,炎熔,我们为什么要把她带回来啊。,Why did we bring her back with us?,Зачем мы вообще притащили её сюда?
+line-71,芙蓉,因为她很可怜啊，感染那么严重。,Because we felt bad for her. Her infection is very serious.,"Потому что её очень жаль, у неё такое тяжёлое заражение."
+line-72,芙蓉,而且莱塔尼亚分会的会长先生也说了：,And the head of the Leithanian branch even said:,"К тому же, глава отделения в Лейтании сказал:"
+line-73,芙蓉,“还好是你们发现并且制服了她，要是被莱塔尼亚警察或者赏金猎人抓到，她就没有希望了。”,'It's a good thing you subdued her. There would have been no hope for her if the police or bounty hunters found her first.',"«Хорошо, что это вы её нашли и усмирили. Если бы её поймала лейтанийская полиция или охотники за головами, у неё бы не осталось надежды»."
+line-74,芙蓉,“像她这种感染级别的感染者，按照最近莱塔尼亚对感染者的政策变化，有很大可能会被人道处理。”,"An Infected person as far gone as her, with the way the laws in Leithanien have changed, almost certainly would have been euthanized.'","«Учитывая её стадию болезни и последние изменения в политике Лейтании относительно заражённых, её, скорее всего, подвергли бы гуманной ликвидации»."
+line-75,芙蓉,“如果可以的话，请至少把她带离莱塔尼亚境内，多谢各位了。”,"If it's at all possible, please at least get her out of Leithanien's territory. Thank you.'","«Если есть возможность, пожалуйста, вывезите её хотя бы за пределы Лейтании. Огромное вам спасибо»."
+line-77,炎熔,就算不是感染者，像她那样无规律袭击行人也一定会被抓好吧。,"Even if she wasn't Infected, the way she was just attacking people on the road would probably not have ended well for her.","Даже если бы она не была заражённой, её бы всё равно поймали за беспорядочные нападения на прохожих."
+line-78,炎熔,在我们之前，已经有至少二十四批旅行者遭袭，近百人受到损失啊。,At least twenty-four groups of travelers got attacked before us. She hurt nearly a hundred people.,"До нас она напала как минимум на двадцать четыре группы путешественников, пострадало почти сто человек."
+line-79,炎熔,这还只是在莱塔尼亚境内，谁知道她在其他地方还做过什么事。,And that's just in Leithanien. Who knows what she did anywhere else.,"И это только в Лейтании, кто знает, что она творила в других местах."
+line-80,炎熔,就她那个袭击技术，我觉得我们五个人都做不到那么好。,Not to mention her fighting skills. I don't think the five of us could've pulled off attacks like that.,"С её-то навыками нападения, я думаю, даже впятером мы бы не справились так чисто."
+line-82,芙蓉,可除了拿走食物填饱肚子外，她也没做什么坏事——好疼！,But all she did was take some food. She was just hungry——Ow!,"Но ведь кроме кражи еды, чтобы утолить голод, она не сделала ничего плохого — ой, больно!"
+line-84,炎熔,“没做什么坏事”？！我差点都没命了！,She almost killed me!,«Ничего плохого»?! Да я чуть жизни не лишилась!
+line-85,炎熔,要不是克洛丝警戒做的还不错，米格鲁及时用盾护住我，她丢来的那根裹着岩石的标枪就要把你妹妹砸碎了。,"If Kroos wasn't looking out for me and Beagle wasn't so quick with her shield, this Perro would've crushed your little sister with that rock-covered javelin.","Если бы Кроос не была настороже, а Мигль вовремя не прикрыла меня щитом, то копьё с привязанным камнем, которое она швырнула, размазало бы твою сестрёнку."
+line-87,芙蓉,佩洛小姐请不要咬我的手好吗！,"Miss Perro, please don't bite my hand!","Мисс Пело, пожалуйста, не кусайте меня за руку!"
+line-89,？？？,呜呜。,Waah.,У-у-у.
+line-91,芙蓉,好好好，我这就帮你搞定炎熔。,"Okay, okay.","Хорошо, хорошо, я сейчас разберусь с Лавой."
+line-92,芙蓉,牙齿也马上就看好了，再稍微忍耐一小会，加油！,Your teeth are almost finished. Just a little longer. Hang in there!,"Зубки мы почти осмотрели, потерпи ещё капельку, ты молодец!"
+line-93,芙蓉,嗯，好孩子。,Yeah. Good girl.,"Вот, умница."
+line-95,芙蓉,好啦炎熔，不要闹脾气了。,"Come on, Lava, don't be like that.","Ну всё, Лава, перестань капризничать."
+line-97,炎熔,我这是陈述事实，不叫闹脾气。,Like what? I'm just stating facts.,"Я просто констатирую факты, это не капризы."
+line-99,芙蓉,怎么了，突然之间像小孩子一样斤斤计较的。,What's with you all of a sudden? Getting pissy about every little thing.,"Что с тобой, чего ты вдруг стала такой мелочной, как ребёнок?"
+line-100,芙蓉,你不也很喜欢佩洛小姐的吗。,I thought you loved Miss Perro?,Тебе ведь тоже очень нравится мисс Пело.
+line-102,炎熔,是啊，我是很喜欢。她也很喜欢我。,"Yeah, she's great. She loves me too.","Да, очень нравится. И я ей тоже."
+line-103,炎熔,应付她的时候什么岩石火焰寒冰都往我身上砸。,That's why she threw all kinds of rocks and flames and ice and pretty much everything at me.,"Она так меня «полюбила», что швыряла в меня всем подряд: камнями, огнём и льдом."
+line-104,炎熔,也不知道她怎么掌握那么多复杂技巧的。,How did she master so many different complex Arts anyway?,И как только она научилась стольким сложным техникам?
+line-106,炎熔,喂，小佩洛。你真的没有学过源石技艺吗？,"Hey, little Perro. Are you sure you've never studied Originium Arts?","Эй, маленькая Пело. Ты правда никогда не училась искусствам Ориджиниума?"
+line-108,？？？,喔？,Ooh?,О?
+line-110,芙蓉,啊啊不要乱动——炎熔你别在这时候捣乱啊！,"Heyyy, I told you not to move——Lava, quit screwing around!","А-а-а, не вертись! Лава, не мешай сейчас!"
+line-112,炎熔,只是问问题而已......,I'm just asking...,Я просто задала вопрос...
+line-114,芙蓉,炎——熔——！,LA——VA——!,Ла-а-ава-а-а!
+line-116,炎熔,好好好我的错，我的错，行了吧。,"All right, all right. My bad. Whatever.","Ладно, ладно, моя вина, довольна?"
+line-118,？？？,唔唔？,Mmm?,М-м-м?
+line-120,芙蓉,啊，抱歉，佩洛小姐，马上就好。,"Ah, sorry, Miss Perro, just a little longer.","Ах, прости, мисс Пело, уже почти закончили."
+line-121,芙蓉,还有这边和那边。,"And now here, and here.",Ещё вот здесь и здесь.
+line-122,芙蓉,......,........,......
+line-124,炎熔,......,........,......
+line-126,芙蓉,呼，应该差不多了。,Whew. And that should be it.,"Фух, вроде бы всё."
+line-127,芙蓉,来，佩洛小姐，检查差不多完成啦，拿这杯水漱漱口吧，记得吐在那个盆里，不要喝下去哦。,"Now, Miss Perro, we're pretty much done. Rinse your mouth with this glass of water, and be sure to spit it out. Don't swallow.","Ну вот, мисс Пело, осмотр окончен. Возьми стакан воды и прополощи рот. Только выплюни в тазик, не глотай, хорошо?"
+line-129,？？？,嗯。,Mmm.,Угу.
+line-130,？？？,（咕咚。）,(Gulp.),(Глоть.)
+line-132,芙蓉,小炎熔。,Little Lava.,Лава.
+line-134,炎熔,啊？,Huh?,А?
+line-136,芙蓉,你还是这么别扭。,Something's bothering you.,Ты всё такая же упрямая.
+line-138,炎熔,关你什么事。,None of your business.,Тебе-то что?
+line-140,芙蓉,我们小队里第一个请她吃好吃的是你吧。,You were the first one in the squad to give her something nice to eat.,"В нашем отряде ведь именно ты первой угостила её чем-то вкусненьким, верно?"
+line-142,炎熔,你，突然说这个干嘛。,What's that got to do with anything?,С чего это ты вдруг об этом заговорила?
+line-144,芙蓉,虽然从营养学的角度来说她不该在饥饿过久以后摄入那么多糖分，但那时候她真的什么都需要补充。,"After starving for that long, she shouldn't be consuming much sugar, from a nutritional standpoint. But she really needs to supplement pretty much everything at this point.","Хотя с точки зрения диетологии ей не следовало есть столько сахара после долгого голода, тогда ей действительно нужно было восполнить силы."
+line-145,芙蓉,然后啊。,That's why...,А потом...
+line-147,炎熔,等等......,Wait....,Подожди...
+line-149,芙蓉,炎熔就悄悄跑出去买了好多糖果。,You snuck off and bought a bunch of candy.,Лава тайком убежала и накупила кучу сладостей.
+line-150,芙蓉,回过头来才发现自己把钱花光了。,Only later realizing you'd spent all your money.,"А когда вернулась, обнаружила, что потратила все свои деньги."
+line-152,炎熔,别说了......,That's enough...,Замолчи...
+line-154,芙蓉,护送佩洛小姐回来的时候呢，本来大家都怕她跑走。,"Or when we were bringing Miss Perro back, everyone was worried she'd run off.","Когда мы конвоировали мисс Пело назад, все боялись, что она сбежит."
+line-155,芙蓉,也只有炎熔鼓起勇气先和她沟通，帮助大家深入了解她，让她能够取下镣铐也不逃跑乖乖跟着我们走。,"Only you were brave enough to try to communicate with her, building the trust we needed to take off her shackles.","И только Лава набралась смелости первой заговорить с ней, помогла нам всем её понять, чтобы она не сбежала, даже когда с неё сняли кандалы, и послушно шла за нами."
+line-157,炎熔,呃......,Ugh...,Э-э...
+line-159,芙蓉,知道佩洛小姐喜欢吃蜜饼后，我们小队五个人里，蜜饼烤得最好最勤的就是炎熔了。,"And once we learned she liked honey biscuits, it was you, among the five of us, who worked the hardest to make the best ones.","Когда мы узнали, что мисс Пело любит медовые пряники, изо всех нас пятерых именно Лава пекла их лучше и чаще всех."
+line-161,炎熔,停，等一下！,"Seriously, stop!","Стой, хватит уже!"
+line-163,芙蓉,姐姐我可是很自豪的~,Your big sister is very proud of you.,"Как твоя старшая сестра, я очень тобой горжусь~"
+line-165,炎熔,别说了，害不害臊啊！当事人还在这呢！,"Come on, don't talk about this stuff in front of her!","Перестань, мне же неловко! Она ведь всё ещё здесь!"
+line-166,炎熔,我，我只是做我该做的事。,I- I just did what I had to do.,"Я... я просто делала то, что должна была."
+line-168,芙蓉,高兴的事就要多说说嘛，哈哈。,But it's so sweet. No need to hide it. Hehe.,"О радостных вещах нужно говорить чаще, ха-ха."
+line-170,炎熔,对了！,Oh yeah!,Точно!
+line-172,芙蓉,怎么了？,What?,Что такое?
+line-174,炎熔,那什么，这个——口腔检查，应该是最后一步了吧。,"So, um, the, like, oral exam, that's the last part, right?","Ну, это... Осмотр рта — это ведь был последний этап?"
+line-176,芙蓉,嗯。,Yes.,Да.
+line-178,炎熔,那之后，她——该怎么办？,"And then, um, what happens to her?",А что будет с ней... дальше?
+line-180,芙蓉,这个......,Well...,Это...
+line-181,芙蓉,这不是我们能够决定的。,That's not up to us.,Это решать не нам.
+line-182,芙蓉,负责这方面事情的干员们好像还在商讨方案，梓兰小姐说下午会有人通知我们。,The operators responsible for that are still talking over her case. Orchid said she'd have someone tell us in the afternoon.,"Операторы, ответственные за такие вопросы, кажется, всё ещё обсуждают план. Мисс Орхидея сказала, что днём нам сообщат."
+line-183,芙蓉,总之，忙了一上午，做了那么多检查，该找个地方让佩洛小姐——,"Anyway, after a busy morning and all those examinations, it's time to find a place for Miss Perro to——","В общем, мы все утро возились с проверками, пора найти место, где мисс Пело..."
+line-185,米格鲁,芙蓉，炎熔！给佩洛小姐做的检查还没好吗！再不走杜宾老师的训练要赶不上了！我先去啦！,"Hibiscus, Lava! Are you still not done checking out Miss Perro? If we don't leave now, we'll miss Dobermann's training! I'm going on ahead!","Хибискус, Лава! Вы всё ещё не закончили осмотр мисс Пело? Если не поторопитесь, опоздаете на тренировку к инструктору Доберманн! Я побежала вперёд!"
+line-187,"炎熔&芙蓉 ",啊？,Huh?,А?
+line-189,炎熔,姐？,Hibiscus?,Сестра?
+line-191,芙蓉,呃，嗯？,"Oh, what?","Э-э, м-м?"
+line-193,炎熔,你不是说和杜宾教官请过假了吗！,I thought you said got us out of Dobermann's class!,"Ты же сказала, что отпросилась у инструктора Доберманн!"
+line-195,芙蓉,"啊？呃，嗯...... ","Huh? Uh, well....","А? Э-э, ну..."
+line-196,芙蓉,请假，呃，好像忘了......,"I, er, I might have forgot...","Отпроситься... кажется, я забыла..."
+line-198,炎熔,那你不早点说！,Why didn't you say so earlier?,И почему ты не сказала раньше!
+line-200,芙蓉,当时满脑子都是帮佩洛小姐做检查嘛......,All I could think about at the time was helping Miss Perro with her checkup...,У меня голова была занята только осмотром мисс Пело...
+line-202,炎熔,完了。,We're dead.,Нам конец.
+line-203,炎熔,完了完了完了。,Let's go pick out a pair of coffins.,"Конец, конец, конец."
+line-204,炎熔,怎么办怎么办怎么办。,What are we gonna do?!,"Что делать, что делать, что делать?"
+line-205,炎熔,这样，我们现在带着小佩洛出去，碰到谁就托给她，但愿我们结束训练以后还找得到人。,"Okay, how about we take little Perro out now and give her to the first person who comes along? I just hope we can find them again after training.","Так, берём маленькую Пело с собой, встретим кого-нибудь по пути и попросим присмотреть. Надеюсь, после тренировки мы её найдём."
+line-207,芙蓉,这是不是也太......,That plan is a little...,Не слишком ли это...
+line-209,炎熔,那你有其他办法嘛！,Let's see you come up with one!,У тебя есть другие идеи?!
+line-210,炎熔,我可不想再被罚跑舰桥了......,I'm not running laps around the bridge again.,Я больше не хочу нарезать круги по палубе в наказание...
+line-211,炎熔,你也不想像上次那样，一边背什么医疗知识一边做体能训练吧。,And I bet you don't want to memorize anatomy textbooks while doing jumping jacks either.,"И ты наверняка не хочешь, как в прошлый раз, зубрить медицинские справочники во время физических упражнений."
+line-213,芙蓉,不！,Who would?!,Нет!
+line-214,芙蓉,那，好吧，就听你的。,"Okay, fine. We'll do it your way.","Тогда ладно, сделаем как ты сказала."
+line-216,炎熔,我给她提武器，你带着她，现在就走。,I'll get her weapons. You deal with her.,"Я понесу её оружие, ты веди её, пошли скорее."
+line-218,芙蓉,但，但佩洛小姐的漱口水还——,B- but what about her mouthwash——,Но... но мисс Пело ещё не...
+line-220,炎熔,她早就一口喝下肚了！,She already swallowed it!,Она уже давно всё выпила!
+line-221,炎熔,走！,Hurry!,Бежим!
+line-227,,罗德岛本舰,Rhodes Island Landship,Корабль Родос Айленд
+line-228,,第六体检室门前,Outside Medical Examination Room 6,Перед шестым кабинетом медосмотра
+line-233,炎熔,（有了！）,(There's someone!),(Есть!)
+line-234,炎熔,铁匠小姐！,Blacksmith!,Мисс Кузнец!
+line-236,火神,有什么事吗？,Can I help you?,Что случилось?
+line-238,炎熔,这个孩子麻烦你照看一下，我们训练结束就来找她。,Can you take care of this girl for a bit? We'll come get her right after training.,"Пожалуйста, присмотрите за этой девочкой, мы заберём её сразу после тренировки."
+line-240,火神,什么？孩子？,What? Girl?,Что? Девочкой?
+line-242,芙蓉,这些是她喜欢的蜜饼，如果佩洛小姐耍脾气了就给她吃一块。,"These honey biscuits are her favorite. If she gets cranky, just give Miss Perro one of these.","Вот её любимые медовые пряники, если мисс Пело начнёт капризничать, дайте ей один."
+line-244,火神,？,Huh?,?
+line-246,炎熔,她的武器也请暂时别让她碰。,And don't let her have her weapons just yet.,"И её оружие тоже, пожалуйста, не давайте ей трогать какое-то время."
+line-248,炎熔&芙蓉,麻烦你了！,Thanks!,Очень рассчитываем на вас!
+line-251,炎熔,快走快走！,"C'mon, c'mon, c'mon!","Скорее, скорее!"
+line-252,？？？,等等！,Wait!,Подождите!
+line-253,炎熔,对不起啊佩洛小姐我们马上就回来！,"I'm sorry, Miss Perro. We'll be right back!","Прости, мисс Пело, мы скоро вернёмся!"
+line-254,炎熔,啊啊啊只有三分钟了我们要死了！,Aahhh! Only three minutes! She's gonna kill us!,"А-а-а, осталось всего три минуты, нам конец!"
+line-255,炎熔,......,......,......
+line-258,？？？,呜......,Wah...,У-у...
+line-260,火神,？？？,???,???
+line-261,火神,这是，怎么回事？,"So, what's your deal?",Что тут вообще происходит?
+line-262,火神,......,......,......
+line-264,？？？,......,......,......
+line-266,火神,饼自己收好，想吃的时候就吃。,Just take the biscuits. Eat them whenever.,"Забери свои пряники. Ешь, когда захочешь."
+line-268,？？？,.......,.......,.......
+line-270,火神,武器需要我帮你拿吗？,You want me to carry your weapons?,Тебе помочь понести оружие?
+line-272,？？？,（摇头）,(shakes head),(Качает головой)
+line-274,火神,好。,Good.,Хорошо.
+line-275,火神,跟我来，我的工坊在这边。,Come on. My workshop is this way.,"Иди за мной, моя мастерская в той стороне."
+line-281,,罗德岛本舰,Rhodes Island Landship,Корабль Родос Айленд
+line-282,,火神的工坊,Vulcan's Workshop,Мастерская Вулкана
+line-284,火神,请进，随意坐。,Come on in. Have a seat.,"Входи, присаживайся где удобно."
+line-285,火神,觉得炉火热的话，可以去隔间里。,"If the forge gets too hot, you can go behind the partition.","Если у горна слишком жарко, можешь пройти в соседнюю комнату."
+line-287,？？？,谢谢（小声）。,Thanks (quietly).,Спасибо (шёпотом).
+line-289,火神,举手之劳。,Don't mention it.,Не за что.
+line-291,？？？,......,......,......
+line-292,？？？,你是，铁匠吗？,Are you... a blacksmith?,Ты... кузнец?
+line-294,火神,罗德岛的铁匠，代号火神。,I'm Rhodes Island's blacksmith. Codename Vulcan.,"Кузнец Родос Айленд, позывной Вулкан."
+line-296,？？？,火......神......,Vul... can...,Вул... кан...
+line-297,？？？,火神......,Vulcan...,Вулкан...
+line-298,？？？,火神，是米诺斯人？,Vulcan... is... Minoan?,Вулкан — из Миноса?
+line-300,火神,是。,Yes.,Да.
+line-302,？？？,火神可不可以帮我看看武器？,Can Vulcan check my weapons for me?,"Вулкан, ты можешь посмотреть моё оружие?"
+line-304,火神,我没有权限维护未经登记过的武器。,I am not authorized to perform maintenance on unregistered weapons.,У меня нет полномочий обслуживать незарегистрированное оружие.
+line-305,火神,抱歉。,Sorry.,Прости.
+line-307,？？？,是这样啊......,Oh...,Вот как...
+line-308,？？？,呜......,Wahh...,У-у...
+line-310,火神,（话虽是这么说了，但她手上的武器......）,"(Although, the weapon she's holding...)","(Я так сказала, но это оружие в её руках...)"
+line-311,火神,（总觉得，有种亲切感......）,(It feels somewhat... familiar...),(Почему-то оно кажется мне знакомым...)
+line-312,火神,但是简单的检查应该没有问题。,But there's no harm in just taking a look.,"Впрочем, простой осмотр не будет проблемой."
+line-313,火神,你手上的这把斧头......我能看一眼吗？,Can I see that axe you're holding?,Этот топор у тебя в руках... Можно мне взглянуть?
+line-315,？？？,！,!,!
+line-316,？？？,可以！,Yes!,Да!
+line-317,？？？,给你！,Here you go!,Держи!
+line-319,火神,多谢。,Thanks.,Спасибо.
+line-320,火神,（这是......米诺斯工艺，真令人怀念。）,(This is definitely Minoan craftsmanship. Brings back memories.),"(Это... работа мастеров Миноса, как ностальгично.)"
+line-321,火神,（磨损成这样，一定用了很久。）,(It's worn. It's been a while.),"(Так сильно изношен, им явно пользовались очень долго.)"
+line-322,火神,（擦得倒是意外干净，是在做力所能及的保养吧。）,"(But it's been wiped down surprisingly clean. You're doing what little maintenance you can, at least.)","(Но вычищен на удивление хорошо, она ухаживает за ним как может.)"
+line-323,火神,（整个构造很稳固，看上去损坏也不是很大，只要简单保养一下就能恢复如初。）,(The construction is solid. Doesn't look like it's too damaged. It would be like new after some basic touches.),"(Конструкция очень прочная, повреждений не так много, после простого техобслуживания будет как новый.)"
+line-324,火神,（奇怪，没有崩口，刃也没卷，钢材的温度也有点低。）,"(Oddly, no chipping, no warping of the blade. Pretty low temperature steel.)","(Странно, сколов нет, лезвие не погнуто, а температура стали довольно низкая.)"
+line-325,火神,（钢材......）,(The steel...),(Эта сталь...)
+line-326,火神,（我似乎......在哪里见过这种锻法......）,(It's familiar... where have I seen smithing like this before...?),(Кажется... я уже видела такой метод ковки...)
+line-327,火神,（......）,(.......),(......)
+line-329,？？？,嗯，大姐？,"Um, ma'am?","Эм, старшая?"
+line-331,火神,（大姐？),(Ma'am?),(Старшая?)
+line-332,火神,（......算了，她喜欢就好。）,(Whatever. She can call me that if she wants.),"(......Ладно, пусть зовёт как хочет.)"
+line-334,？？？,斧头上，就是靠近握把的地方。,"On the axe, near the grip,","На топоре, прямо возле рукояти."
+line-335,？？？,上面有一个单词。,There's a word.,Там есть слово.
+line-336,？？？,是我的名字！,It's my name!,Это моё имя!
+line-337,？？？,是米诺斯语！,In Minoan!,Оно на языке Миноса!
+line-338,？？？,我想去米诺斯，但是，走了很久都没有走到。,"I wanted to go to Minos, but it's a long walk.","Я хотела попасть в Минос, но шла очень долго и так и не дошла."
+line-339,？？？,见到的人，好人，坏人，都不会读我的名字，只有人告诉我说这是米诺斯语。,No one I met could tell me my name. They could only tell me it's Minoan.,"Люди, которых я встречала, — и хорошие, и плохие — никто не мог прочитать моё имя. Мне только сказали, что это язык Миноса."
+line-340,？？？,火神是米诺斯人，一定知道这个怎么读的！,"Since Vulcan is a Minoan, you must know how to read it!","Вулкан из Миноса, ты точно знаешь, как это читается!"
+line-341,？？？,能读给我听吗？,Can you read it to me?,Можешь прочитать его для меня?
+line-343,火神,我先看一下。,Let's see here.,Дай-ка посмотрю.
+line-344,火神,（......）,(....),(......)
+line-345,火神,（还好，没有被完全磨平。）,"(Good thing, it hasn't completely rubbed away.)","(Хорошо, что буквы не стёрлись окончательно.)"
+line-346,火神,（这个拼写......）,(These characters...),(Это написание...)
+line-347,火神,（是古米诺斯语没错）,(They're definitely Minoan.),(Действительно древнеминосский.)
+line-348,火神,（按照惯用的拼音习惯）,"(In standard pronunciation, this would be...)",(Если следовать правилам транскрипции...)
+line-349,火神,（Ce......O......Be......）,(Ce... O... Be...),(Ке... о... бэ...)
+line-350,火神,“刻俄柏”。,'Ceobe.',«Кеобэ».
+line-351,火神,应该是这样读没错。,Should be Ceobe.,"Думаю, читается именно так."
+line-353,刻俄柏,刻......俄......柏......,Ce... O... Be...,Ке... о... бэ...
+line-355,火神,刻俄柏。,Ceobe.,Кеобэ.
+line-357,刻俄柏,刻......俄柏。,Ce... obe.,Ке... обэ.
+line-358,刻俄柏,刻俄柏。,Ceobe.,Кеобэ.
+line-359,刻俄柏,我是刻俄柏！,I'm Ceobe!,Я — Кеобэ!
+line-360,刻俄柏,我有名字啦！,I've got a name!,У меня есть имя!
+line-361,刻俄柏,唔......,Hm...,М-м...
+line-362,刻俄柏,火神大姐？,"Vulcan, ma'am?",Сестрица Вулкан?
+line-364,火神,（火神......大姐......?）,(Ma'am... again...?),(Сестрица... Вулкан...?)
+line-365,火神,（我是不是应该委婉地提醒她一下......）,(Maybe I should give her a little nudge...),"(Может, мне стоит вежливо поправить её...)"
+line-366,火神,怎，怎么了？,Wh- what?,Ч-что такое?
+line-368,刻俄柏,大家，一般是不是都有两个名字？,"People usually have two names, don't they?","У всех ведь обычно по два имени, да?"
+line-369,刻俄柏,炎熔的姐姐称呼炎熔的时候好像有不一样的叫法。,Like Lava has a different name when her sister calls her.,"Сестра Лавы, кажется, называет её как-то по-другому."
+line-370,刻俄柏,好像是，“小炎熔”这样的。,"She's 'Little Lava,' or something.",Вроде «маленькая Лава» или что-то такое.
+line-371,刻俄柏,我也想要一个。,I want one of those.,Я тоже хочу такое.
+line-373,火神,抱歉，我并不太擅长取名......,"Sorry, I'm not very good at naming things...","Прости, я не очень сильна в придумывании имен..."
+line-375,刻俄柏,火神大姐是铁匠 ，铁匠都是好人，好人一定可以取出好名字的！,Vulcan is a blacksmith. Blacksmiths are good people. And good people are good at naming.,"Сестрица Вулкан — кузнец. Кузнецы — хорошие люди, а хорошие люди обязательно придумают хорошее имя!"
+line-377,火神,（这是什么逻辑？）,(What is this logic?),(Что за логика?)
+line-378,火神,（算了，没有必要和小孩子过不去。）,(Whatever. She's just a kid.),"(Ладно, нет смысла спорить с ребёнком.)"
+line-379,火神,让我先想想。,Let me think for a moment.,Дай мне подумать.
+line-381,刻俄柏,好的！,Yeah!,Хорошо!
+line-383,火神,（她是想要昵称吗？）,(She wants a nickname?),(Она хочет прозвище?)
+line-384,火神,（但我只会给武器命名，怎么办？）,(But I only know how to name weapons. What should I do?),"(Но я привыкла давать имена только оружию, что же делать?)"
+line-385,火神,（刻俄柏修斯？刻俄柏涅？刻俄柏忒娅？）,(Ceobesius? Ceobenie? Ceobetia?),(Кеобэтей? Кеобена? Кеобетея?)
+line-386,火神,（不对，不对不对，这不是命名武器，不可以用这种方法。）,"(No, no, no. She's not a weapon. I need another scheme.)","(Нет, нет, это не оружие, такой метод не подходит.)"
+line-387,火神,（再想想......）,"(Think, Vulcan...)",(Нужно ещё подумать...)
+line-388,火神,......,........,......
+line-390,刻俄柏,火神？,Vulcan?,Вулкан?
+line-392,火神,（之前她是不是说过，“小炎熔”？）,"(She mentioned 'Little Lava' before, didn't she?)",(Она ведь упоминала «маленькую Лаву»?)
+line-393,火神,......,........,......
+line-395,刻俄柏,火神大姐你还好吗？,"Are you okay, Vulcan?","Сестрица Вулкан, ты в порядке?"
+line-397,火神,（我想不出了......就按照她给的例子来。）,"(Well, there's a pretty easy way out of this... might as well take it.)",(Ничего больше в голову не лезет... сделаю по её примеру.)
+line-398,火神,就叫“小刻”吧。,We'll call you 'Kay.',Пусть будет «Кео».
+line-400,刻俄柏,小刻？,Kay?,Кео?
+line-402,火神,是的。,Yes.,Да.
+line-403,火神,（算是糊弄过去了......）,(It kinda sucks...),(Вроде выкрутилась...)
+line-405,刻俄柏,小刻......刻俄柏......,Kay... Ceobe...,Кео... Кеобэ...
+line-406,刻俄柏,火神大姐，谢谢你！,"Thank you so much, Vulcan, ma'am!","Сестрица Вулкан, спасибо тебе!"
+line-408,火神,不客气。,You're welcome.,Не за что.
+line-413,刻俄柏,！,!,!
+line-415,火神,？！,?!,?!
+line-416,火神,别怕，小刻，是找我的人，不是坏人。,"Don't be scared, Kay, it's just someone looking for me. No bad guys here.","Не бойся, Кэйобе, это ко мне, не враги."
+line-417,火神,把武器放下，好吗？,"Put down the weapon, okay?","Опусти оружие, хорошо?"
+line-419,刻俄柏,不是坏人？,No bad guys?,Не враги?
+line-421,火神,不是坏人。,No bad guys.,Не враги.
+line-422,火神,在罗德岛没有坏人。,There's no bad guys at Rhodes Island.,На Родос Айленде нет плохих людей.
+line-423,火神,要是害怕，可以去隔间里躲着。,"If you're scared, you can go behind the partition.","Если страшно, можешь спрятаться в подсобке."
+line-425,刻俄柏,刻俄柏什么都不怕。,Ceobe isn't scared of anything.,Кэйобе ничего не боится.
+line-427,火神,好。,Good.,Хорошо.
+line-429,后勤部干员,请问火神小姐在吗？,"Vulcan, are you in?","Простите, госпожа Вулкан у себя?"
+line-431,火神,哪位？,Who is it?,Кто это?
+line-433,后勤部干员,您好火神小姐，我是后勤部的干员，我是来向昨天到达罗德岛的佩洛小姑娘传达后勤部决定的。,"Hello, Vulcan, I'm an operator with the logistics department. I've come to relay the decision regarding the little Perro girl who was brought to Rhodes Island yesterday.","Здравствуйте, госпожа Вулкан, я оператор из отдела логистики. Я здесь, чтобы передать решение отдела по поводу юной Перро, прибывшей на Родос Айленд вчера."
+line-434,后勤部干员,芙蓉干员说她刚刚将佩洛小姑娘托付给你了。请问她现在还在您这儿吗？,Operator Hibiscus said she entrusted the Perro girl to you. Is she still with you?,"Оператор Гибискус сказала, что только что поручила девочку вам. Она всё ещё здесь?"
+line-436,火神,在，请进。,"Yes, come in.","Да, входите."
+line-438,刻俄柏,火神！,Vulcan!,Вулкан!
+line-440,火神,别怕，没事的。,"Don't worry, it's okay.","Не бойся, всё в порядке."
+line-444,后勤部干员,您好火神干员。,"Good day, operator Vulcan.","Здравствуйте, оператор Вулкан."
+line-446,后勤部干员,您好，佩洛小姑娘。,"Good day, little Perro girl.","Здравствуй, юная Перро."
+line-448,刻俄柏,我不是佩洛小姑娘，我叫刻俄柏。,Don't call me Perro girl. My name is Ceobe.,"Я не «юная Перро», меня зовут Кэйобе."
+line-450,后勤部干员,哦？,Oh?,О?
+line-451,后勤部干员,好的，刻俄柏。,"All right, Ceobe.","Хорошо, Кэйобе."
+line-452,后勤部干员,是这样的，我们在对你进行救助之后，对你的各项情况进行了探讨，现在结果如下，请您务必仔细听好。,"Now then, we have been over the details surrounding your rescue, our determination is as follows. Please listen carefully.","Дело в том, что после оказания тебе помощи мы обсудили твою ситуацию. Вот результаты, пожалуйста, слушай внимательно."
+line-453,后勤部干员,之前由于特殊情况，暂时限制了您的人身自由。,"Due to the circumstances surrounding your arrival, your personal freedom had been temporarily restricted.",Ранее из-за особых обстоятельств твоя личная свобода была временно ограничена.
+line-454,后勤部干员,对于这一点我们感到十分抱歉，从现时点开始，您将重新获得自由行动的权利，即时生效。,"We apologize for that. But from this point on, you will enjoy the right to free movement, effective immediately.",Мы приносим извинения за это. С этого момента право на свободное передвижение восстанавливается в полной мере. Решение вступает в силу немедленно.
+line-456,刻俄柏,？？？,???,???
+line-458,后勤部干员,我有什么说得不明白的地方吗？,Am I not being sufficiently clear?,Я что-то неясно объяснил?
+line-460,火神,我想她可能不太能理解公文里遣词造句的意思。,I think she may not be getting some of the legalese here.,"Думаю, она не совсем понимает канцелярский язык."
+line-461,火神,给我吧，我来向她传达。,Just give me the documents. I'll make sure she gets it.,"Дайте его мне, я сама ей объясню."
+line-463,后勤部干员,那就有劳您了。,That would be a big help.,Тогда оставляю это на вас.
+line-465,火神,......,........,...
+line-466,火神,............,..................,............
+line-467,火神,我明白了。,Okay.,Я поняла.
+line-469,火神,小刻。,Kay.,Кео.
+line-471,刻俄柏,嗯？,Hm?,А?
+line-473,火神,你之前为什么会在外面流浪？,Why were you out on your own back there?,Почему ты раньше бродяжничала?
+line-475,刻俄柏,我想去米诺斯。,I wanted to go to Minos.,Я хотела попасть в Минос.
+line-476,刻俄柏,但是我好像走错路了。,But I think I went the wrong way.,"Но, кажется, я перепутала дорогу."
+line-478,后勤部干员,根据莱塔尼亚分会收集到的资料，她从玻利瓦尔出发，一路走到东方三国交界处，然后在那里折返。,"According to information provided by the Leithanian branch, she traveled from Bolívar all the way to the Trijunction of the East, where she then turned back.","Согласно данным лейтанийского филиала, она вышла из Боливара, дошла до границы трёх восточных государств и там развернулась."
+line-479,后勤部干员,回来的时候从北方绕了一个大圈，最后在莱塔尼亚被我们的人救助。,"At that point, she made a large arc across the north, until finally being rescued by our people in Leithanien.","На обратном пути она сделала огромный крюк через север, пока наши люди не подобрали её в Лейтании."
+line-480,后勤部干员,脚力真的不错。,This girl can walk.,Выносливость у неё что надо.
+line-481,后勤部干员,不过，您打听这些做什么？,But why do you ask?,Но зачем вы об этом спрашиваете?
+line-483,火神,如果到了米诺斯，你想做些什么？,"If you made it to Minos, what were you going to do?","Если бы ты добралась до Миноса, что бы ты там делала?"
+line-485,刻俄柏,问问我的名字，然后......,Ask my name. And then...,"Узнала бы своё имя, а потом..."
+line-486,刻俄柏,然后......,And then....,А потом...
+line-487,刻俄柏,还没有想好。,I haven't thought that far ahead yet.,Я ещё не придумала.
+line-489,后勤部干员,火神干员，请将情况告知给她，让她自己做决定。,"Operator Vulcan, please inform her of the situation and let her make her decision.","Оператор Вулкан, пожалуйста, объясните ей ситуацию и позвольте ей самой принять решение."
+line-491,火神,那在那之后，你想做什么？,So what would you want to do after that?,"А после того как узнаешь, что бы ты хотела делать?"
+line-493,刻俄柏,我不知道......,I don't know....,Я не знаю...
+line-495,火神,想想。,Think it through.,Подумай.
+line-496,火神,这很重要。,It's important.,Это важно.
+line-498,刻俄柏,我......我想天天吃饱。,I... I want to eat until I'm full every day.,Я... я хочу наедаться досыта каждый день.
+line-500,后勤部干员,火神干员，你是在——,"Operator Vulcan, what are you——","Оператор Вулкан, вы сейчас —"
+line-502,火神,嘘，安静！,Shh! Quiet!,"Тсс, тише!"
+line-504,后勤部干员,......,........,...
+line-506,刻俄柏,我想在温水里好好泡半天，然后一口气钻进厚厚的被窝里。,"I want to spend half the day in a hot bath, and then wrap myself in a warm blanket.","Ещё хочу по полдня нежиться в тёплой воде, а потом нырять в толстое одеяло."
+line-507,刻俄柏,一直趴着，一直趴着，直到肚子又饿了为止。,And lay there until I'm hungry again.,"И валяться так, валяться, пока снова не проголодаюсь."
+line-508,刻俄柏,还有还有。,And... and...,"И ещё, и ещё."
+line-509,刻俄柏,我想有个大屋子，能够把自己的宝贝好好放在里面。,And I want a big house where I can keep all my treasures.,"Я хочу большую комнату, чтобы сложить там все свои сокровища."
+line-510,刻俄柏,天天背着它们有时候还是挺吃力的。,Carrying them around all day is kind of hard.,Таскать их на себе каждый день бывает тяжеловато.
+line-511,刻俄柏,特别是饿肚子的时候。,Especially when I'm hungry.,Особенно когда живот пустой.
+line-512,刻俄柏,唔，大概就这么多。,And I guess that's it.,"Ну, вроде всё."
+line-514,火神,我明白了。,Understood.,Я поняла.
+line-515,火神,如果说，有一个地方，有吃有喝，有屋子住，可以安心地睡觉，你愿意待在那里吗？,"If there was a place where you could eat and drink and have a house to sleep in, would you want to stay there?","Если бы нашлось место, где есть еда и питьё, где есть своя комната и можно спокойно спать, ты бы согласилась там остаться?"
+line-517,刻俄柏,当然愿意啦。,Who wouldn't?,"Конечно, согласилась бы!"
+line-519,火神,但大部分时间，你要动很多脑子，要打很多坏人，有时候可能还要几天几夜不睡觉，即使这样，你也仍旧愿意吗？,"But most of the time, you have to think a lot, and you have to fight a lot of bad guys, and sometimes you might not sleep for days. Even then, would you want to stay there?","Но большую часть времени тебе придётся много шевелить мозгами, сражаться с плохими парнями, а иногда и не спать по несколько суток. Даже так ты согласна?"
+line-521,刻俄柏,虽然我不太会动脑子......,I'm not very good with thinking...,Хоть я и не очень умею шевелить мозгами...
+line-522,刻俄柏,不过。,But...,Но.
+line-523,刻俄柏,火神大姐说的，是去当英雄吗？,"Vulcan, ma'am, are you talking about being a hero?","То, о чём говорит сестрица Вулкан, — это быть героем?"
+line-525,火神,英雄？,A hero?,Героем?
+line-527,后勤部干员,哈哈——啊，嗯，咳咳。,"Haha——Ah, um, ahem.","Ха-ха — ой, кхм, кхм."
+line-529,火神,呵，是啊，是，就是当英雄。,Heh. Yes. I'm talking about being a hero.,"Хех, ну да, именно. Быть героем."
+line-531,刻俄柏,我愿意啊。,I want to go there.,Я согласна!
+line-532,刻俄柏,又能吃饱，又能当英雄。,"I want to eat, and be a hero.","И наедаться досыта, и быть героем."
+line-533,刻俄柏,应该没有比这更好的事情了吧。,What more could I ever want?,Ничего лучше и быть не может.
+line-535,火神,好。,Good.,Хорошо.
+line-537,后勤部干员,您真的不帮她把——,Shouldn't you help her——,"Вы уверены, что не поможете ей —"
+line-539,火神,她已经决定了，请帮她办理手续。,"She's made up her mind, please take care of her paperwork.","Она уже решила. Пожалуйста, займитесь оформлением документов."
+line-540,火神,需要担保人的话，就填我的名字。,"If she needs a sponsor, you can put down my name.","Если нужен поручитель, впишите моё имя."
+line-542,后勤部干员,可您还——,But you're——,Но вы ведь ещё —
+line-544,火神,需要我再重申一遍吗。,Should I repeat myself?,Мне нужно повторить ещё раз?
+line-546,后勤部干员,呃——,Uh...,Э-э...
+line-547,后勤部干员,既然您这么坚持，那我也没什么可说的了。,"If you insist, I have nothing more to say.","Раз вы так настаиваете, мне нечего добавить."
+line-548,后勤部干员,我会立刻为刻俄柏小姐准备后续的测试。,I'll prepare a follow-up test for Ceobe at once.,Я немедленно подготовлю последующие тесты для госпожи Кэйобе.
+line-549,后勤部干员,但也请您知道，您需要附上相应的责任——,But please be aware that you will need to attach the appropriate guarantees——,"Но учтите, что на вас ляжет соответствующая ответственность..."
+line-550,后勤部干员,——以及解释。,——and an explanation.,...а также обязанность дать объяснения.
+line-552,火神,我会的。,I will.,Я дам их.
+line-554,后勤部干员,那么，我先告辞了。,"Well, I'll take my leave then.","В таком случае, я откланяюсь."
+line-556,火神,不送。,See yourself out.,Провожать не буду.
+line-564,刻俄柏,嗯......,Hmmm....,Хм...
+line-565,刻俄柏,发生了什么？,What's happening?,А что случилось?
+line-567,火神,不，没什么。,Nothing.,Ничего особенного.
+line-568,火神,你还有很多东西要学，很多架要打。,"You still have a lot to learn, a lot of fights to fight.",Тебе предстоит многому научиться и во многих битвах поучаствовать.
+line-569,火神,都是些耗力气的事。,It'll be a lot of work.,Всё это требует много сил.
+line-570,火神,趁着现在还清闲，好好休息。,Get some rest while you still can.,"Пока есть время, хорошенько отдохни."
+line-572,刻俄柏,哦。,Oh.,О.
+line-573,刻俄柏,唔......,Hm....,М-м...
+line-574,刻俄柏,大姐？,Ma'am?,Сестрица?
+line-576,火神,嗯？,Huh?,А?
+line-577,火神,（好像还有些习惯了。）,(We'll get used to that.),"(Кажется, я уже привыкаю к этому обращению.)"
+line-579,刻俄柏,蜜饼吃吗，炎熔烤的，很好吃。,You want a honey biscuit? Lava baked them. They're good.,"Хочешь медовый пряник? Лава испекла, очень вкусно."
+line-581,火神,可以吗？,May I?,Можно?
+line-583,刻俄柏,给。,Here.,Держи.
+line-585,火神,多谢。,Thanks.,Спасибо.
+line-586,火神,......,........,...
+line-587,火神,（这味道是？）,(What's this flavor?),(Этот вкус...)
+line-588,火神,（还真是......）,(It's kind of...),(И вправду...)
+line-589,火神,（皮不够脆，蜜糖调味有些问题。）,"(The crust isn't crispy enough, and something's wrong with the honey seasoning.)","(Корочка недостаточно хрустящая, и с мёдом что-то не то.)"
+line-590,火神,（除此之外，和米诺斯的味道一模一样。）,"(Other than that, it tastes exactly like the ones in Minos.)",(Но в остальном — вкус точь-в-точь как в Миносе.)
+line-592,刻俄柏,好吃吗？,Is it good?,Вкусно?
+line-594,火神,好吃。,Very good.,Вкусно.
+line-596,刻俄柏,对吧~,Right?,Правда же?~
+line-598,火神,但是。,But.,Но.
+line-600,刻俄柏,嗯？,Huh?,А?
+line-602,火神,这个饼，要新鲜出炉口感才好。,A biscuit like this should be eaten fresh out of the oven.,Такие пряники лучше всего есть свежевыпеченными.
+line-603,火神,在饼上浇一点水果酱，再配一杯茶。,"Put some jam on it, and pair it with a cup of tea.",Полить их ягодным джемом и запить чашкой чая.
+line-605,刻俄柏,会更好吃吗？？？,Will it taste better?,Будет ещё вкуснее???
+line-607,火神,嗯。,Yes.,Угу.
+line-608,火神,以后有机会，我可以请隔壁的角峰做给你吃。,"I'll ask Matterhorn next door to make some for you, when I get a chance.","Будет возможность — попрошу Маттерхорна, моего соседа, приготовить их для тебя."
+line-609,火神,他做这种食物很有心得。,He's great at making these sorts of things.,Он в этом деле большой мастер.
+line-611,刻俄柏,真，真的吗？！,R- really?,П-правда?!
+line-613,火神,嗯。,Yes.,Да.
+line-615,刻俄柏,谢谢大姐！,"Thank you, ma'am!","Спасибо, сестрица!"
+line-617,火神,你今后几天要接受很多测试。,You're going to be subjected to a lot of testing over the next few days.,В ближайшие дни тебе предстоит пройти много испытаний.
+line-618,火神,除了你本人，武器的状态也要调整一下。,"We'll have to fix you up a bit, and your weapons too.","Нужно привести в порядок не только тебя, но и твоё оружие."
+line-619,火神,有什么要求？,How do you want them?,Есть какие-то пожелания?
+line-621,刻俄柏,我，我可以给铁匠提要求吗？,Y- you'll fix them for me?,Я... я могу просить о чём-то кузнеца?
+line-623,火神,铁匠的职责就是满足别人对武器的需求。,It's a blacksmith's duty to make sure a weapon meets its wielder's needs.,Обязанность кузнеца — исполнять пожелания воинов.
+line-624,火神,想要就说。,Just tell me what you need.,"Говори, если чего-то хочешь."
+line-626,刻俄柏,那，我想把宝贝们全部弄得像大姐屋子里的武器一样好看。,"Um, I want all my treasures to look as good as the weapons here in your house.","Тогда я хочу, чтобы все мои сокровища стали такими же красивыми, как оружие в твоей комнате."
+line-627,刻俄柏,然后，唔，把其他武器换成和斧子差不多的颜色。,"And, um, I want the other weapons to be the same color as my axe.","И ещё, ну... чтобы остальное оружие было того же цвета, что и топор."
+line-628,刻俄柏,嗯......会不会太麻烦了？,Is that too much trouble?,М-м... это не слишком нагло?
+line-630,火神,用不了多少时间。,That won't take much time.,Это не займёт много времени.
+line-631,火神,我加紧做完，你或许还来得及给炎熔她们一个惊喜。,I might be done in time for you to surprise Hibiscus and Lava.,"Если я потороплюсь, ты, возможно, успеешь удивить Лаву и остальных."
+line-633,刻俄柏,真的吗？,Really?,Серьёзно?
+line-635,火神,嗯。,Yes.,Да.
+line-636,火神,把武器拿来，我们现在就开始。,Bring your weapons. Let's get started.,"Давай своё оружие, начнём прямо сейчас."
+line-638,刻俄柏,好的！！！！,Yeah!!!,Хорошо!!!!
+line-644,炎熔,呼，呼，哈，啊，累死我了。,Phew. *Pant*. *Pant*. I'm exhausted.,"Фух, фух... ох... как же я устала."
+line-645,炎熔,我说啊芙蓉，小佩洛她不会有事吧。,"Little Perro is gonna be okay, right Hibiscus?","Послушай, Гибискус, с маленькой Перро ведь ничего не случится?"
+line-647,芙蓉,她那么能打，火神小姐又那么暖，会出什么事？,"She's so good at fighting, and Vulcan is so nice. What could go wrong?","Она такая сильная, а госпожа Вулкан такая заботливая, что может случиться?"
+line-649,炎熔,啊？火神？暖？,Huh? Vulcan? Nice?,А? Вулкан? Заботливая?
+line-650,炎熔,算了，我也知道铁匠她不会做什么坏事。,"Anyway, I know she won't do anything bad.","Ладно, я знаю, что кузнец не сделает ничего дурного."
+line-651,炎熔,我是说那个训练期间来找你的后勤部干员啊，他来的时候手里抓着个文件袋。,But I'm more worried about that logistics operator who showed up in the middle of training. He had a pretty big file with him.,"Я про того оперативника из отдела логистики, который искал тебя во время тренировки. У него в руках была папка с документами."
+line-652,炎熔,我有点不详的预感。,Gave me a bad feeling.,У меня плохое предчувствие.
+line-654,芙蓉,啊，又来了。,"Uh oh, not this again.","Ой, опять ты за своё."
+line-655,芙蓉,根据我的经验呢，小炎熔你的“不祥预感”一般都是好事。,"In my experience, your 'bad feelings' usually signal good things.","По моему опыту, твои «плохие предчувствия» обычно оборачиваются чем-то хорошим."
+line-657,炎熔,但愿吧......哦，到了。,"I hope you're right... oh, we're here.","Надеюсь... О, пришли."
+line-663,火神,哪位？,Who is it?,Кто там?
+line-665,炎熔,我是炎熔，我们来找小佩——佩洛小姐。,It's Lava. We're here to see the little Pe——Miss Perro.,Это Лава. Мы пришли за маленькой Пе... за госпожой Перро.
+line-667,火神,门没锁，直接进来就好。,It's unlocked. Come on in.,"Дверь не заперта, входите."
+line-671,刻俄柏,啊，炎熔和芙蓉！你们来啦！,"Ah, Lava and Hibiscus! You're here!","О, Лава, Гибискус! Вы пришли!"
+line-673,芙蓉,唉？佩洛小姐？,Huh? Miss Perro?,Ой? Госпожа Перро?
+line-675,炎熔,你，你的武器怎么？,Wh- what happened to your weapons?,Т-твоё оружие... что с ним?
+line-677,刻俄柏,以后不要叫我佩洛小姐了，叫我刻俄柏。,Don't call me Miss Perro anymore. Call me Ceobe.,"Не называйте меня больше «госпожой Перро», зовите меня Кэйобе."
+line-678,刻俄柏,从现在开始，这就是我的名字了！,That's my name!,С этого момента это моё имя!
+line-680,"炎熔&芙蓉 ",欸——？？？！,Huh——?!,Че-е-е???!
+line-685,,（几周后）,(Several weeks later),(Несколько недель спустя)
+line-686,,罗德岛本舰,Rhodes Island Landship,Основной корабль Родос Айленда
+line-687,,后勤部某小会议室,"Logistics Department, Small Conference Room",Малый конференц-зал отдела кадров
+line-689,人事专员,你应该知道我今天请你来是为了什么。,I think you know why I asked you here today.,"Думаю, ты понимаешь, зачем я тебя сегодня пригласил."
+line-691,火神,她的成绩怎么样。,How did she do?,Как её результаты?
+line-693,人事专员,怎样？,How do you think?,Как?
+line-694,人事专员,还能怎样。,Fancy a guess?,Да как они могут быть.
+line-695,人事专员,既听不懂指挥，又只懂得乱挥乱扔武器，还不停耍性子。,She doesn't take orders. She just throws her weapons around and makes a scene.,"Команды не понимает, оружием машет как попало, ещё и капризничает постоянно."
+line-696,人事专员,你觉得她能怎样？,How do you think she did?,"Как ты думаешь, какие у неё результаты?"
+line-698,火神,结果呢。,Just tell me her results.,И каков итог?
+line-700,人事专员,结果啊，呵。,Her results. Heh.,"Итог, ха."
+line-701,人事专员,......,........,...
+line-702,人事专员,她合格了。,She passed.,Она прошла.
+line-704,火神,哦。,Oh.,Ясно.
+line-706,人事专员,虽然一堆乱七八糟的测试都不合格，但从本身素质和潜力上来说，能够成为合适的干员。,She made a mess of herself and failed a bunch of tests. But her personal character and potential qualify her to be an operator.,"Хотя она завалила кучу тестов, её личные качества и потенциал позволяют ей стать подходящим оперативником."
+line-707,人事专员,加上最重要的几位评审人给下来的意见都是可采用，其他的小细节就不怎么重要了。,"And, taking into account the opinions of several of her proctors, the other details are less important.","К тому же, самые важные экзаменаторы дали добро, так что мелкие детали уже не так важны."
+line-709,火神,博士从不会看错人。,The Doctor is never wrong about anyone.,Доктор никогда не ошибается в людях.
+line-711,人事专员,你也不会。,Neither are you.,Как и ты.
+line-712,人事专员,那么，是时候了吧。,"Well then, it's time.","Что ж, пора бы уже."
+line-713,人事专员,能给我个理由了么。,Can I get a reason now?,Дашь мне хоть какую-то причину?
+line-714,人事专员,我们采用干员和开始考核一般走的途径可都是本人自愿原则。,"Normally, the operator assessment process is initiated by the individual herself.",Обычно приём на работу и начало испытательного срока у нас строятся на принципе добровольности.
+line-715,人事专员,像你这种严重涉嫌代替本人做决定的行为，一般除了监护人或者亲属或者明确有引荐协议书的，我们大部分都是一票否决的。,We typically look poorly on situations where an individual has the decision made for her. Especially when there is no guardian or relative involved.,"Подобные действия, когда кто-то принимает решение за самого кандидата, мы обычно сразу отметаем, если это не опекун, не родственник и нет официального рекомендательного соглашения."
+line-717,火神,抱歉。,Sorry.,Виновата.
+line-719,人事专员,这就认栽了？,That's all I get?,И это всё?
+line-720,人事专员,啊其实吧，也没那么严重，毕竟规则是死的，人是活的。,"Ah well, it's not that big a deal. Rules were made to be broken.","На самом деле, всё не так уж серьёзно, правила — это правила, а люди — это люди."
+line-721,人事专员,给我个理由就好，我需要向上面交代。,Just give me a reason. I have to pass something upstairs.,"Просто дай мне причину, мне нужно отчитаться перед руководством."
+line-723,火神,喜欢武器的都不是坏人。,A girl who likes weapons can't be bad.,"Те, кто любит оружие, не могут быть плохими людьми."
+line-725,人事专员,好的。,All right.,Ладно.
+line-726,人事专员,等等，呃，这就完了？,"Hold on, uh, that's it?","Погоди, и это всё?"
+line-728,火神,嗯。,Yes.,Да.
+line-730,人事专员,别这么随便啊，再多给几条嘛，不然我编不完一份报告的。,I'm gonna need a little more than that. A few more sentences or there's no way I can finish this report.,"Не будь так лаконична, набросай ещё пару пунктов, а то я отчёт не составлю."
+line-732,火神,一定要我说？,I have to?,Обязательно говорить?
+line-734,人事专员,录音材料也是材料，很重要的。,It's important.,"Аудиозапись — это тоже материал, и очень важный."
+line-736,火神,好......,Well....,Хорошо...
+line-737,火神,我是一个铁匠，不怎么会看人。但对于武器，我不会看走眼。,I'm a blacksmith. I don't know people. But I do know weapons.,Я кузнец и не очень хорошо разбираюсь в людях. Но в оружии я не ошибаюсь.
+line-738,火神,对于一个完全没有武器维护和保养知识的人来说。,"If you have someone with absolutely no knowledge of weapon maintenance and upkeep,","Для человека, совершенно не знающего правил ухода за оружием..."
+line-739,火神,在漫长的使用时间中，必然会造成武器的损坏。,her weapons are going to get damaged after a long period of use.,...длительное использование неминуемо должно было привести к поломке.
+line-740,火神,但她依旧尽全力遏制了不可逆的损伤，在能力范围内对武器进行了保养。,"Still, she did her best to keep her equipment in good shape, to the best of her abilities.","Но она сделала всё возможное, чтобы предотвратить необратимые повреждения и поддерживала оружие в порядке, насколько хватало сил."
+line-741,火神,这一点足以让我肯定她的潜力和能力。,That was enough for me to affirm her talent and potential.,"Одного этого мне достаточно, чтобы подтвердить её потенциал и способности."
+line-743,人事专员,你怎么知道她不会维护武器？,How can you be sure she doesn't know weapon maintenance?,"С чего ты взяла, что она не умеет обслуживать оружие?"
+line-745,火神,她连磨刀石都不会用，油脂的选配也全不懂，更不用说守则上写的那些科学方法了。,"She can't use a whetstone, she doesn't know her oils. That's long before we start talking about any rules or scientific principles.","Она даже точильным камнем пользоваться не умеет, в маслах не смыслит, не говоря уже о научных методах из инструкций."
+line-746,火神,唯一知道的，只是要把武器擦得很干净，在这一点上，她做得很好。,The only thing she knows how to do is polish her weapons. And she's good at that.,"Единственное, что она знала — это то, что оружие должно быть чистым, и с этим она справлялась отлично."
+line-748,人事专员,好吧，那继续？,Okay. What else?,"Ладно, что ещё?"
+line-750,火神,其他的应该不用我说了。,That should be enough.,"Об остальном, думаю, мне говорить не нужно."
+line-751,火神,履历那方面，你应该比我清楚。,You know better than me what has to go on a resume.,В её биографии ты разбираешься получше моего.
+line-753,人事专员,是。,I do.,Это точно.
+line-754,人事专员,一个玻利瓦尔人，满世界的找米诺斯，结果全世界都快跑了个遍米诺斯还没到。,"She's a Bolívarian, traveled the whole world looking for Minos, and never quite found it.","Родом из Боливара, искала Минос по всему свету, чуть ли не весь мир обежала, а до Миноса так и не дошла."
+line-755,人事专员,还不知道自己为什么要去。,Still don't get why.,"И даже не знает, зачем ей туда."
+line-756,人事专员,除了精神可嘉我也不知道说什么好。,All I can say is her spirit is commendable.,"Кроме похвального упорства, мне и сказать-то нечего."
+line-758,火神,有信念总是好事。,It's always good to have faith.,Вера во что-то — это всегда хорошо.
+line-760,人事专员,这就是我好奇的事情了。,That's what I'm curious about.,Вот что мне любопытно.
+line-761,人事专员,你平时对别人可都是不理不睬的。,You usually don't pay much attention to people.,Обычно ты на людей и внимания не обращаешь.
+line-762,人事专员,这个刻俄柏，她有那么特殊么？,"This Ceobe, is she that special?",Чем эта Кэйобе такая особенная?
+line-763,人事专员,她到底哪一点吸引到你了？,What is it about her that caught your attention?,Что именно тебя в ней зацепило?
+line-765,火神,武器。,Her weapons.,Оружие.
+line-767,人事专员,我是认真的，火神干员。,"I'm serious, Vulcan.","Я серьёзно, оператор Вулкан."
+line-769,火神,我也是认真的。,I'm serious too.,И я серьёзно.
+line-771,人事专员,怎么说？,How so?,И в чём же дело?
+line-773,火神,她的名字被刻在了斧头上。,Her name was carved into that axe.,Её имя было выгравировано на топоре.
+line-774,火神,米诺斯不是东国，没有动不动就把名号刻在武器上的传统。,Minos isn't Higashi. We don't just tape our names onto weapons in case we lose them.,"Минос — это не Хигаши, там нет традиции гравировать имена на оружии при каждом удобном случае."
+line-775,火神,能够留下的，大多意义非凡。,"If your name is on a weapon, it means something big.","То, что оставляют, обычно имеет глубокий смысл."
+line-776,火神,况且。,"Plus,",К тому же.
+line-777,火神,她手上的斧，我锻不出来。,I couldn't forge that axe.,"Топор, который у неё в руках... я не смогу выковать такой же."
+line-778,火神,但那种锻法，我一定在哪里见过......,"But that technique, I know I've seen it somewhere...",Но такой способ ковки я определённо где-то видела...
+line-779,火神,我想帮助她解开谜团。,I want to help her solve the mystery of that weapon.,Я хочу помочь ей разгадать эту тайну.
+line-780,火神,这样，说不定有一天，她也能回过头来为我解惑。,"Then, maybe someday, she'll come back and solve something for me.","Возможно, когда-нибудь она в ответ поможет мне разрешить мои сомнения."
+line-781,火神,说到底，只是一个铁匠的私心罢了。,I guess you could say I'm just a selfish blacksmith.,"В конечном счёте, это просто эгоистичное желание кузнеца."
+line-783,人事专员,？,?,?
+line-784,人事专员,嗯......,Hmmm....,М-м...
+line-785,人事专员,你们匠人身上的秘密还真多。,You craftsmen have your secrets.,"Много же у вас, мастеров, секретов."
+line-786,人事专员,好吧，不难为你了。,"Well, whatever.","Ладно, не буду тебя мучить."
+line-787,人事专员,我这边想要知道的东西也够了。,That's enough for me.,"Того, что я узнал, вполне достаточно."
+line-788,人事专员,辛苦辛苦，回去休息吧。,Sorry to bother you. Go get some rest.,"Спасибо за работу, иди отдыхай."
+line-790,火神,抱歉。,I'm sorry too.,Прошу прощения.
+line-792,人事专员,没什么好抱歉的，我也只是例行公事。,No need. I'm just doing my job here.,"Не за что извиняться, я просто выполнял свою работу."
+line-794,火神,谢谢。,Thanks.,Спасибо.
+line-796,人事专员,别谢啦，下次一起喝点的时候记得在我当班的时候来，我新研发了一种调法，名字我都想好了，就叫“卡西米尔狂风”，有机会来尝尝？,"Don't thank me either. Next time you're up for a drink, come by while I'm on. I've got a new mix, I'm calling it 'Kazimierz Fury.' Give it a try sometime?","Да брось. В следующий раз, когда пойдём выпить, постарайся прийти в мою смену. Я разработал новый коктейль, уже и название придумал — «Буря Казимежа». Заглянешь попробовать?"
+line-798,火神,哼哼，一定来。,Heh. Sure.,"Хм, обязательно загляну."
+line-803,人事专员,哈......,Ha....,Ха-а...
+line-804,人事专员,所以我才说人事这个职位难干啊。,That's why I say HR ain't easy.,"Вот поэтому я и говорю, что работа в кадрах — сущий ад."
+line-805,人事专员,这帮家伙根本不知道好好写履历。,Kids these days don't know how to write a proper CV.,Эти ребята совершенно не умеют писать резюме.
+line-806,人事专员,不下去一个个聊天都不知道肚子里藏了多少货。,It takes a good chat to dig up all the juicy stuff hidden down there.,"Пока не спустишься и не поговоришь с каждым лично, и не узнаешь, сколько всего они скрывают."
+line-807,人事专员,谜团谜团，哪来那么多谜团。,It's all mysteries wrapped up in enigmas.,"Тайны, сплошные тайны, откуда их столько?"
+line-808,人事专员,我是侦探吗，我是人事啊！,"Damn it, I'm an HR director, not a detective!","Я что, детектив? Я кадровик!"
+line-809,人事专员,（简短有力的维多利亚方言）,"(Short, but passionate words in a Victorian dialect)",(Короткое и ёмкое ругательство на викторианском диалекте)
+line-810,后勤部干员,专员？,Director?,Господин специалист?
+line-811,人事专员,啊，怎么了？,"Oh, what is it?","А, что такое?"
+line-812,后勤部干员,专员......新干员的面试已经准备完毕，请您及时出席。,Director.... we're ready to interview the new operator. If you would.,"Господин специалист... Собеседования с новыми оперативниками подготовлены, пожалуйста, не опаздывайте."
+line-813,人事专员,我知道了。对了，这份是刻俄柏的契约书，所有章都盖好了，把它交去归档，然后派人告知干员正式入职的事项。,"I see. By the way, here's Ceobe's contract, all signed and notarized. File it for me and then send someone to inform the operator of her formal onboarding.","Понял. Кстати, вот контракт Кэйобе, все печати проставлены. Отдай его в архив и отправь кого-нибудь сообщить ей об официальном зачислении в штат."
+line-814,后勤部干员,明白。,Understood.,Слушаюсь.
+line-815,人事专员,等等，告知的时候记得让火神干员旁听，一些条款上的理解可能需要她帮忙。,Just a moment. Be sure operator Vulcan is there for that. She may be needed to explain some of the formal terms and conditions.,"Погоди. Когда будете сообщать, пригласите и оператора Вулкан. Кэйобе может понадобиться помощь с пониманием некоторых пунктов."
+line-816,后勤部干员,我知道了。,Understood.,Я понял.
+line-817,人事专员,好了，唠叨结束，开始干活。,"Okay, enough chatter, back to work.","Ладно, побрюзжали и хватит, за работу."
+line-818,人事专员,......（翻动新干员资料）,........(flipping through new operator files),... (листает данные нового оперативника)
+line-819,人事专员,呵。,Heh.,Хех.
+line-820,人事专员,果然。,Sure enough.,Ну конечно.
+line-821,人事专员,又是一个不好好写履历的新人。,Another one who can't write a CV worth a damn.,"Очередной новичок, который не удосужился нормально заполнить анкету."
+line-822,人事专员,看来，今晚又有得忙了啊。,Looks like I'm in for another long evening.,"Похоже, сегодня я снова задержусь."
