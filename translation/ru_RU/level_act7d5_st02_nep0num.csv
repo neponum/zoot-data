@@ -1,0 +1,292 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act7d5
+__chapter__,,Chapter Name,activities/act7d5/level_act7d5_st02,日记本
+,,,,
+char-1,赫默,赫默,Silence,Сайленс
+char-2,白面鸮,白面鸮,Ptilopsis,Птилопсис
+char-3,日记,日记,Diary,Дневник
+char-4,阿,阿,Aak,Аак
+char-5,华法琳,华法琳,Warfarin,Варфарин
+char-6,爱聊天的医疗干员,爱聊天的医疗干员,Chatty Medic Operator,Болтливый медик
+char-7,活泼的医疗干员,活泼的医疗干员,Lively Medic Operator,Жизнерадостный медик
+char-8,八卦的医疗干员,八卦的医疗干员,Gossipy Medic Operator,Сплетничающий медик
+char-9,冷静的医疗干员,冷静的医疗干员,Chilly Medic Operator,Спокойный медик
+char-10,安赛尔,安赛尔,Ansel,Ансель
+char-11,医疗干员们,医疗干员们,Medic Operator,Медики
+char-12,？？？,？？？,???,???
+char-13,近卫干员,近卫干员,Guard Operator,Оператор Гвардии
+char-14,店主,店主,Shopkeeper,Торговец
+char-15,伊芙利特,伊芙利特,Ifrit,Ифрит
+,,,,
+line-13,赫默,白面鸮，你回来了。,"Ptilopsis, you're back.","Птилопсис, ты вернулась."
+line-19,白面鸮,是的。,Yes.,Да.
+line-21,赫默,这次代替我实地考察辛苦了，在你离开的这段时间里，我手上的这场实验也接近完成了，之后我就可以自己去了。,"Thanks for going on that site inspection for me. I'm almost done with this experiment, so I'll be able to do the next one myself.","Спасибо за труды во время полевых исследований вместо меня. Пока тебя не было, мой эксперимент почти завершился, так что в следующий раз я смогу отправиться сама."
+line-23,白面鸮,没事。,It's okay.,Всё в порядке.
+line-24,白面鸮,下次也可以让我去。,I can go next time too.,В следующий раз я тоже могу пойти.
+line-26,赫默,......嗯？,...Oh?,...М-м?
+line-27,赫默,发生了什么吗？,Did something happen?,Что-то случилось?
+line-29,白面鸮,嗯，那么，我先回去了。,Yes. I'm going to my room now.,Да. Тогда я пойду.
+line-31,赫默,............好。,...Okay.,...Хорошо.
+line-39,白面鸮,我记得，应该是这本日记本......,I think it should be in this diary...,"Насколько я помню, это должен быть этот дневник..."
+line-40,白面鸮,不对，这本是还在莱茵生命时写下的了。那么，应该是这本......,"No, this one was written at Rhine Lab. So, it should be this one...","Нет, этот был написан, когда я ещё работала в Райн Лаб. Значит, вот этот..."
+line-41,白面鸮,找到了，是这本，在跟随赫默来到罗德岛后，换的新日记本。,"Yes, this one. This diary is from after I came to Rhodes Island with Silence.","Нашла. Это он — новый дневник, который я завела после того, как последовала за Сайленс на Родос Айленд."
+line-42,白面鸮,让我看看。,Let me see.,Посмотрим.
+line-44,日记,3月21日 阴,March 21 \ Overcast,"21 марта, облачно"
+line-45,日记,今天，岛上加入了两个新的干员，一个叫吽，一个叫阿，他们似乎是和槐琥小姐来自同一个地方。,"Today, two new operators came to the Island. One named Hung and one named Aak. They seem to be from the same place as Waai Fu.","Сегодня к острову присоединились два новых оператора: одного зовут Хунг, другого — Аак. Кажется, они родом из тех же мест, что и госпожа Вай Фу."
+line-46,日记,其中，令人在意的是阿，他看起来十分年轻，据说在龙门是非常有名的黑医生，不过他似乎不会加入医疗部。,"It is significant that Aak, who looks very young, is said to be a very famous back-alley doctor in Lungmen. But it seems he will not join the medical section.","Среди них моё внимание привлёк Аак. Он выглядит очень молодым, и поговаривают, что он весьма известный подпольный врач в Лунмэне. Однако, похоже, он не собирается вступать в медицинский отдел."
+line-47,日记,4月2日 多云,April 2 \ Cloudy,"2 апреля, переменная облачность"
+line-48,日记,......对了，自从阿发现华法琳就是“血先生”后，他就经常来医疗部。,"Ever since he found out that Warfarin is 'Mr. Blood,' he has been visiting the medical section regularly.","...Кстати, с тех пор как Аак узнал, что Варфарин — это «мистер Блад», он стал часто приходить в медицинский отдел."
+line-49,日记,但医疗部的大部分人都不喜欢他，因为他毫不掩饰地对身为同行的我们表现出厌恶感。,But most of the medical section does not like him. This is because he does nothing to conceal his disrespect for us as his peers.,"Но большинству сотрудников медицинского отдела он не нравится, потому что он совершенно не скрывает своего презрения к нам, своим коллегам."
+line-50,日记,他明明医术相当高明，这是为什么呢？......,He is clearly highly skilled at healing Arts. Why...?,Хотя его медицинские навыки весьма превосходны. Почему же так?..
+line-51,日记,4月15日 晴,April 15 \ Sunny,"15 апреля, ясно"
+line-52,日记,......说到阿，在上次和华法琳比试的最后，吽过来把他带走之后，他收敛了一些。,"...Speaking of Aak, Hung came to take him away after his latest competition with Warfarin. He has since curbed his behavior somewhat.","...Что касается Аака, после того как Хунг увёл его в самом конце прошлого состязания с Варфарин, он стал вести себя немного сдержаннее."
+line-53,日记,而医疗组的各位已经逐渐习惯了他的性格——至少表面上如此。,And the medical team is growing accustomed to his personality——at least outwardly.,"И члены медицинской группы постепенно привыкли к его характеру — по крайней мере, внешне."
+line-55,白面鸮,这么说起来，写下这篇日记的时候，正好是他和华法琳的第二次“对决”呢。,This diary must be from the time of his second 'duel' with Warfarin.,"Если подумать, когда была сделана эта запись, как раз проходила его вторая «дуэль» с Варфарин."
+line-64,阿,喂，“血先生”，来比试吧！,"Hey, 'Mr. Blood,' how about a little contest of skill?","Эй, «мистер Блад», давай посоревнуемся!"
+line-66,华法琳,哇，你这个小鬼好烦，上次输给我你还没意识到我们之间的差距吗？,"Wow, what an obnoxious little wretch you are. Didn't you realize the power differential at work the last time you lost to me?","Ух, какой же ты надоедливый малявка. Разве ты ещё не осознал разницу между нами после того, как проиграл мне в прошлый раз?"
+line-68,阿,你认真的？那个能算我输吗？,Are you serious? You think I lost that?,Ты серьёзно? Разве то можно считать моим поражением?
+line-70,阿,喂，那边的羽毛大姐，你当时也在场，你说说！,"Hey, Miss Feathers, you were there too. Who won that?","Эй, пернатая сестрица вон там, ты же тоже там была, скажи ей!"
+line-72,赫默,......,........,...
+line-74,白面鸮,赫默，他在叫你。,"Silence, he means you.","Сайленс, он обращается к тебе."
+line-76,赫默,他在叫我？,I'm Miss Feathers?,Ко мне?
+line-78,白面鸮,根据系统判断，虽然也有50%叫我的可能性，但我的逻辑思维判断我不想回应这个称呼。,"Analysis determines a 50% chance he is calling me. However, my logic functions have determined I do not want to respond to this form of address.","Согласно системной оценке, хотя существует 50-процентная вероятность, что он обращается ко мне, моё логическое мышление подсказывает мне не отвечать на это обращение."
+line-80,赫默,我也不想。,Neither do I.,Я тоже не хочу.
+line-82,阿,你们在说什么悄悄话呢，快说啊，上次那个怎么也不算我输吧？,"What are you whispering about? Come on, I didn't lose the last one, did I?","О чём вы там шепчетесь? Говорите быстрее, тот раз точно нельзя считать моим проигрышем!"
+line-84,赫默,......阿，现在是工作时间，请你不要随意来打扰我们工作好吗？,"...Aak, we're busy. Please don't interrupt our work.","...Аак, сейчас рабочее время. Пожалуйста, не мешай нам работать."
+line-86,阿,是是是，我只是问个问题，问完就走，绝不打扰你们高尚的“工作”。,"Sure, sure. I'm just asking a question. Give me an answer and I'll leave you to your noble 'work.'","Да-да-да, я просто задам один вопрос и уйду. Ни за что не стану мешать вашей благородной «работе»."
+line-88,白面鸮,好吧，调用系统记录中......,Very well. Accessing system records...,Хорошо. Вызов системных логов...
+line-89,白面鸮,根据系统记录显示，确实，客观来说，上次的比试，由于最后的突发状况，很难判断究竟是哪方的胜利。,"According to the records, it is true that, objectively speaking, the winner of the last contest was difficult to determine, due to the unexpected circumstances arising at the end.","Согласно системным логам, объективно говоря, из-за непредвиденных обстоятельств в самом конце прошлого состязания трудно определить, чья это была победа."
+line-91,阿,嘿，听到了吧！,"Well, how about that!","Ха, слышала?!"
+line-93,华法琳,啧，行吧，看我今天让你输得心服口服！,"Pfft, fine. Let's give you a loss to remember today!","Цыц. Ладно, сегодня я заставлю тебя признать своё поражение безоговорочно!"
+line-98,爱聊天的医疗干员,哎，自从这个阿来了之后，每天都鸡飞狗跳的。真是不明白博士为什么会把这样的人招进来......,*Sigh*. It's been like this every day since that Aak showed up. I really don't understand why the Doctor would hire someone like that...,"Эх, с тех пор как пришёл этот Аак, у нас каждый день суматоха. Не понимаю, зачем Доктор вообще нанял такого человека..."
+line-100,白面鸮,虽然性格很恶劣，但不可否认的是，他的临床经验以及天赋，确实十分惊人。,"Despite his abrasive personality, there is no denying that his clinical expertise, as well as his natural talent, is impressive.","Хотя у него скверный характер, нельзя отрицать, что его клинический опыт и талант действительно поразительны."
+line-102,爱聊天的医疗干员,你说的我也明白，但我觉得他根本就看不起我们欸。,I know what you mean. But I think he looks down on us.,"Я понимаю, о чём ты, но мне кажется, что он нас вообще ни во что не ставит."
+line-103,活泼的医疗干员,对对，上次那场手术确实让很多人对他刮目相看了，我本来也对他有些改观，想和他搞好关系，结果被他一通嘲。,"Yeah, yeah, that last surgery really impressed a lot of people, and I was kind of sold on him myself. I figured I'd try to make friends. He ended up treating me like garbage.","Да-да, после той операции многие действительно посмотрели на него другими глазами. Я тоже сначала изменила своё мнение о нём и хотела подружиться, но он меня просто высмеял."
+line-104,活泼的医疗干员,气死我了！,I hate that guy!,Как же это бесит!
+line-105,八卦的医疗干员,也就只有华法琳大姐头能跟他搞好关系了。,Only big boss Warfarin could get along with him.,Разве что только сестрица Варфарин может ладить с ним.
+line-106,冷静的医疗干员,他们那叫搞好关系吗......白面鸮你觉得呢？,"Is that what getting along looks like...? What do you think, Ptilopsis?","Разве это можно назвать «хорошими отношениями»?.. Птилопсис, а ты как думаешь?"
+line-108,白面鸮,从系统中检索词汇......检索结果，臭味相投。,Searching dictionary database.... Result: birds of a feather flock together.,Поиск терминов в системе... Результат поиска: два сапога пара.
+line-110,活泼的医疗干员,哈哈哈，没错，就是这个！,"Hahaha, that works on a couple levels!","Ха-ха-ха, точно! Именно так!"
+line-112,安赛尔,你们在聊什么呢，这么开心。,What's going on in here? Looks like you're having a good time.,О чём вы так весело болтаете?
+line-114,八卦的医疗干员,啊，安赛尔医生，我们在聊阿呢。,"Ah, Dr. Ansel, we were talking about Aak.","А, доктор Ансель, мы обсуждаем Аака."
+line-116,安赛尔,噢......虽然我不是很擅长应付他那样的性格，但确实是一个很厉害的新人呢。,"Oh.... I don't connect well with his personality, but it's nice to have a fresh face as skilled as him.","О... Хотя мне не очень легко справляться с его характером, он действительно весьма способный новичок."
+line-118,活泼的医疗干员,不愧是安赛尔医生，即使对阿都这么温柔......,Leave it to Dr. Ansel to have nice things to say about Aak....,"Как и ожидалось от доктора Анселя, вы так добры даже к Ааку..."
+line-120,赫默,好了，就算今天没有什么事，工作时间也禁止闲谈，回到你们的工作岗位去。,"All right, even if we didn't have work to do, you can't be chatting it up during work hours. Back to your stations.","Так, даже если сегодня нет срочных дел, болтовня в рабочее время запрещена. Возвращайтесь на свои рабочие места."
+line-122,医疗干员们,是——,Right——,Есть!
+line-124,赫默,安赛尔，怎么样？,"You have something, Ansel?","Ансель, как успехи?"
+line-126,安赛尔,唔，这里是报告，总的来说，效果不是很令人满意。,"Well, I have the report. The results aren't exactly stellar.","М-м, вот отчёт. В целом, результаты не самые удовлетворительные."
+line-128,赫默,嗯，虽然事先已经预想到了，那么，马上准备下一场实验吧。,"That's more or less what we expected, though. Let's start preparing the next experiment right away.","Да, хотя мы и ожидали этого. Что ж, давайте немедленно готовиться к следующему эксперименту."
+line-130,赫默,白面鸮，你也一起去吧。,"Ptilopsis, you go too.","Птилопсис, пойдём вместе."
+line-132,白面鸮,Zzzzzzz......嗯？好，我知道了。,"Zzzzzzz.... Oh? Yes, understood.","Хр-р-р... М-м? Хорошо, я поняла."
+line-139,日记,阿的加入为医疗部带来了一些吵闹和波澜，虽然其中有些不愉快，但不知为什么，我并不讨厌......,"Aak joining the medical section was a major upset to the order of things. And while there was some unpleasantness, I somehow did not dislike it...","Появление Аака принесло в медицинский отдел шум и суету. Хотя временами это было неприятно, почему-то мне это не претило..."
+line-141,白面鸮,嗯，我在这一篇写了，“我并不讨厌。”,"Oh, I wrote, 'I did not dislike it' in this one.","Да, в этой записи я написала: «Мне это не претило»."
+line-142,白面鸮,如果我没记错的话，往前应该还有......,"If I recall correctly, there should be more....","Если я правильно помню, раньше должно быть ещё..."
+line-143,白面鸮,对了，在这里。,"Right, here it is.","Ах да, вот здесь."
+line-145,日记,6月10日 小雨,June 10 \ Light rain,"10 июня, мелкий дождь"
+line-146,日记,根据侦查干员的情报，在周边的山区里似乎发现了源石矿脉，凯尔希医生已经派人去勘查了。,"The reconnaissance operators appear to have discovered a vein of Originium ore in a nearby mountain range, and Dr. Kal'tsit has sent a team to investigate.","По сведениям оперативников разведки, в близлежащих горах, похоже, было обнаружено месторождение Ориджиниума. Доктор Кальцит уже отправила команду на разведку."
+line-147,日记,保险起见，赫默和一些医疗干员也一起去了。,"To be safe, Silence and a few medic operators went along.",На всякий случай Сайленс и ещё несколько медиков отправились вместе с ними.
+line-148,日记,今天除了等待实验结果没有别的事要做。,Nothing else to do today but wait for test results.,"Сегодня нечего делать, кроме как ждать результатов эксперимента."
+line-149,日记,5月15日 晴,May 15 \ Sunny,"15 мая, ясно"
+line-150,日记,嘉维尔随队出外勤回来了，她在晚饭的时候给我们讲了她因为觉得敌人窜来窜去很烦，所以亲自上阵把他们全都收拾了一顿的光辉事迹。,Gavial came back from an operation and told us at dinner that she grew so annoyed with the enemy scurrying around that she personally waded into battle and cut them all down.,"Гавиал вернулась с полевой миссии. За ужином она поведала нам о своих «славных подвигах» — о том, как её утомили снующие туда-сюда враги, и она лично пошла в бой и задала им всем трёпку."
+line-151,日记,虽然她似乎忘了自己是一名医疗干员，不过，听起来是有些令人向往。,She seems to have forgotten that she is a medic operator. But she did make it sound appealing.,"Хотя она, кажется, забыла, что является медиком, это звучит заманчиво."
+line-152,日记,5月1日 多云,May 1 \ Cloudy,"1 мая, переменная облачность"
+line-153,日记,今天，在面试了新的医疗干员后，和安赛尔聊起了来到罗德岛之前在做什么的话题。,"Today, after interviewing a new medic operator, I talked with Ansel about what we were doing before coming to Rhodes Island.","Сегодня, после собеседования с новыми медицинскими операторами, мы с Анселем разговорились о том, чем занимались до прибытия на Родос Айленд."
+line-154,日记,出于保密义务，我无法向他透露许多莱茵生命的内部情况，不过，这是一次相当有意义的对话。,"I couldn't reveal much of the inner workings of Rhine Lab to him due to confidentiality agreements, but it was a meaningful conversation.","Из соображений конфиденциальности я не могла раскрыть ему многие внутренние дела Райн Лаб, но это был весьма содержательный разговор."
+line-156,白面鸮,对了，就是这次。,"Yes, this is it.","Точно, это было тогда."
+line-166,安赛尔,也就是说，你在莱茵生命的时候，也是一半患者一半研究者的身份吗？,"In other words, you were also half patient and half researcher at Rhine Lab?","То есть, когда ты была в Райн Лаб, ты одновременно была и пациентом, и исследователем?"
+line-168,白面鸮,是的，从那时起直到现在，我都一直在接受赫默给我定制的医疗计划。,"Yes, Silence has had me on a customized course of treatment from then until now.","Да. С тех пор и по сей день я нахожусь на лечении по индивидуальной программе, которую составила для меня Сайленс."
+line-169,白面鸮,并且赫默自身也是感染者，她也有专属的医疗计划。,"And Silence herself is Infected, and she has her own course.","К тому же, Сайленс сама является заражённой, и у неё тоже есть личный план лечения."
+line-170,白面鸮,在莱茵生命中这样的事并不少见。,Such things are not uncommon at Rhine Lab.,В Рейн Лайф подобные случаи не редкость.
+line-172,安赛尔,原来莱茵生命也有做和罗德岛类似的事情啊，我一直以为莱茵生命是一家科技公司。,So Rhine Lab does a few things just like Rhodes Island. I always thought of Rhine Lab as a technology company.,"Оказывается, Райн Лаб тоже занимается вещами, подобными Родос Айленду. Я всегда думал, что Райн Лаб — это просто технологическая компания."
+line-174,白面鸮,嗯，毕竟不是像罗德岛这样主动对外宣传的做法，具体我无法多说。,"Well, it's not a proactive approach to outreach like Rhodes Island's. I can't say more.","Да. В конце концов, они не занимаются активной внешней пропагандой, как Родос Айленд, так что подробностей я раскрыть не могу."
+line-175,白面鸮,不过可以肯定的是，莱茵生命会和罗德岛合作也是因为在这方面有共同的志向。,But it is safe to assume that Rhine Lab cooperates with Rhodes Island in this area due to a shared outlook.,"Однако можно с уверенностью сказать, что Райн Лаб сотрудничает с Родос Айлендом именно потому, что у них общие цели в этом направлении."
+line-177,安赛尔,确实。,Indeed.,Действительно.
+line-178,安赛尔,那说说我吧。,Then I guess it's my turn.,Тогда позволь мне рассказать о себе.
+line-179,安赛尔,嗯......其实能说的也不多，我的家乡在雷姆必拓，因为我家比较穷，所以我一直没有什么机会接触很先端的东西。,"Hmmm.... There's not much to say. My hometown is in Rim Billiton, and since my family was poor, I never had much access to technology, or really anything new.","М-м... На самом деле рассказывать особо нечего. Мой родной город находится в Рим-Биллитоне. Поскольку моя семья была довольно бедной, у меня никогда не было возможности соприкоснуться с какими-то передовыми технологиями."
+line-180,安赛尔,四处碰壁之后，我偶然发现了罗德岛的招募广告，抱着试一试的态度投了一份简历，然后就来到这里了。,"After bouncing around a bit, I stumbled on a job listing for Rhodes Island. I put in a resume just to see what would happen, and here I am.","После многочисленных неудач я случайно наткнулся на объявление о наборе на Родос Айленд. Решил попробовать, отправил резюме, и вот я здесь."
+line-181,安赛尔,刚到这里的时候我吓了一跳呢，没想到以后会是在这样一个地方工作。,It blew me away when I first got here. I never thought I'd ever get to work in a place like this.,"Когда я только прибыл сюда, я знатно испугался. Не ожидал, что мне предстоит работать в таком месте."
+line-183,白面鸮,确实，一开始听赫默说要合作的时候，我也没有想到罗德岛会是一座小型陆上航母。,Indeed. I did not think of Rhodes Island as a small land cruiser when Silence first discussed the cooperation agreement.,"Действительно. Когда я впервые услышала от Сайленс о сотрудничестве, я тоже не думала, что Родос Айленд окажется малым наземным авианосцем."
+line-185,安赛尔,不过来到这里之后，我也确实学到了很多东西，而且待遇也很不错。,"But I've certainly learned a lot since coming here, and the remuneration is pretty good.","Но придя сюда, я действительно многому научился, да и условия здесь очень хорошие."
+line-186,安赛尔,虽然不能经常回家见不到家人有些遗憾。,It's a bit of a shame I can't get home to see my family more often though.,"Хотя немного жаль, что я не могу часто бывать дома и видеться с семьёй."
+line-188,白面鸮,家人......,Family....,Семья...
+line-190,安赛尔,呃，难道我说了不该说的话？,"Um, did I say something I shouldn't have?","Ой, я сказал что-то не то?"
+line-192,白面鸮,不，没什么，我只是在数据库中回忆了一下我的家庭。,No. I'm just recalling my family from the database.,"Нет, ничего. Я просто извлекла из базы данных воспоминания о собственной семье."
+line-193,白面鸮,找到了，原来如此，我都有些忘了。,Load successful. So that's them. I had forgotten.,Нашла. Вот как. Я уже почти забыла об этом.
+line-195,安赛尔,......见不到家人一定不好过吧。,"...It's hard, not seeing your family.","...Должно быть, нелегко не иметь возможности видеться с семьёй."
+line-197,白面鸮,不会。,It isn't.,"Нет, вовсе нет."
+line-199,安赛尔,诶，不会吗？,Huh? It's not?,"О, правда?"
+line-201,白面鸮,嗯。,It's not.,Да.
+line-202,白面鸮,比起这个，继续说你的事吧，安赛尔。,"Never mind. Please, continue with your story, Ansel.","Давай лучше продолжим о тебе, Ансель."
+line-204,安赛尔,啊，嗯，对了，我给你说一说雷姆必拓吧。,"Oh, um, okay, I guess I can tell you about Rim Billiton.","А, хорошо. Кстати, давай я расскажу тебе о Рим-Биллитоне."
+line-206,白面鸮,好。,Okay.,Хорошо.
+line-213,日记,安赛尔说了许多他家乡的事，矿业城市的风景，他的家庭，他的妹妹，他为什么会选择成为医生等等。,"Ansel spoke a lot about his homeland: the look of the mining town, his family, his sister, why he chose to become a doctor, and other such things.","Ансель много рассказывал о своей родине: о пейзажах шахтёрского города, о своей семье, о младшей сестре, о том, почему он решил стать врачом, и о многом другом."
+line-214,日记,不知道为什么，总觉得离我有些遥远，就好像记忆中父母的样貌一样......,"I don't know why, but it felt a bit distant to me, like a memory of what my parents looked like...","Почему-то всё это кажется мне очень далёким, прямо как лица моих родителей в воспоминаниях..."
+line-216,白面鸮,是的，医疗部的各位也会在平时聊一些自己的事情，我对大家的过去并不陌生，但对我来说，总是一件十分遥远的事情。,"Yes, everyone in the medical section talks about themselves on a regular basis. I am familiar with everyone's past. But for me, it is always a very distant thing.","Да, сотрудники медицинского отдела часто болтают о своих делах, и мне не чуждо прошлое каждого из них. Но для меня это всё равно кажется чем-то невероятно далёким."
+line-217,白面鸮,不过，在此之前，我一直觉得这也是一件十分正常的事情。,"Until then, I had thought it a very normal feeling.","Впрочем, до этого момента я всегда считала, что это вполне нормально."
+line-218,白面鸮,但是，问题确实是存在的。,"However, this is a problem that does exist.",Но проблема действительно существует.
+line-219,白面鸮,那么，该写下这一次的日记了，这一次，或许会写得长一些。,"Now then, it's time to write today's entry. It may be longer than usual this time.","Что ж, пора сделать новую запись. На этот раз она, пожалуй, выйдет подлиннее."
+line-221,日记,X月X日 阴,MM DD \ Overcast,"День X, месяц X, облачно"
+line-222,日记,终于回到了罗德岛，这一次的出行，花了不少时间。,I finally returned to Rhodes Island after a rather long trip.,Наконец-то вернулась на Родос Айленд. Эта поездка отняла немало времени.
+line-223,日记,虽然过去也偶尔会跟随小队出行，但这次有一些额外的情况，也给我带来了一些问题。,"Although I occasionally travel with small teams, this time there were some additional circumstances that caused some difficulties.","Хотя в прошлом я тоже иногда выезжала с отрядами, на этот раз возникли непредвиденные обстоятельства, которые породили у меня несколько вопросов."
+line-224,日记,是的，问题。,Yes. Difficulties.,"Да, именно вопросов."
+line-233,白面鸮,Zzzzz......,Zzzzz....,Хр-р-р...
+line-234,？？？,......小姐，白面鸮小姐。,"........Excuse me, Ptilopsis?","...Мисс, мисс Птилопсис."
+line-237,白面鸮,......！我睡着了吗？,.......! Was I sleeping?,...! Я уснула?
+line-239,近卫干员,是的，我是来通知你的，我们的采集遇到了一点状况，现在正在重新调试工具。,"Yes, I just need to tell you that we ran into a bit of a situation with the extraction and we need to recalibrate our tools.","Да. Я пришёл сообщить, что у нас возникли небольшие трудности со сбором образцов. Сейчас мы перенастраиваем инструменты."
+line-241,白面鸮,需要我帮忙吗？,Do you need my help?,Нужна моя помощь?
+line-243,近卫干员,不不不，白面鸮小姐你已经帮了许多忙了，调试都是单纯的体力活，怎么好麻烦你。,"No, thanks. You've been a great help so far, Ptilopsis. It's a purely manual recalibration. No need to bother you.","Нет-нет-нет, мисс Птилопсис, вы и так нам очень помогли. Настройка — это исключительно физический труд, негоже вас утруждать."
+line-244,近卫干员,我来是想告诉你，队长说，调试工作今天之内可能没法完成，你要是觉得无聊的话，不远的地方有个卡西米尔村庄，你可以去那里逛逛。,"The captain just wanted you to know that the calibration may not be done today. If you're bored, there's a Kazimierz village not far from here, you could go for a stroll.","Я пришёл сказать, что, по словам капитана, калибровка может не завершиться сегодня. Если вам скучно, неподалёку есть деревня Казимежа, вы могли бы прогуляться туда."
+line-245,近卫干员,那里是这一带唯一的流动村庄，规模不小，而且侦查干员说那里正在举办集市，可以消磨时间。,"It's the only mobile village in the area. It's not that small, and the scouts say there's a fair on today that might have some fun things.","Это единственное кочующее поселение в округе, оно довольно крупное. К тому же оперативники разведки доложили, что там сейчас проходит ярмарка, так что можно скоротать время."
+line-246,近卫干员,当然，如果你想在这里继续休息的话，也没有问题。,"Of course, if you want to keep resting here, that's fine too.","Конечно, если вы хотите продолжить отдыхать здесь, в этом тоже нет проблем."
+line-248,白面鸮,......嗯，我想去看看。,...Yes. I want to see it.,"...М-м, я бы хотела взглянуть."
+line-250,近卫干员,好的，那么这里是地图，经费也已经准备好了。,"Sure. Here's a map, and some petty cash for you.","Хорошо, вот карта, и средства тоже подготовлены."
+line-251,近卫干员,虽然有些不好意思，不过原本没有考虑到这种情况，所以兑换的卡西米尔币有限，只有这么多了。,"Sorry, we didn't really plan for this situation, so that's all the Kazimierz coinage we have.","Прошу прощения, мы изначально не рассчитывали на такой сценарий, так что обменяли немного казимежских коинов. Вот всё, что есть."
+line-253,白面鸮,卡西米尔币，兑换？,Kazimierz... coinage?,"Казимежские коины, обмен?"
+line-255,近卫干员,啊，嗯，虽然龙门币在不少国家被承认，但毕竟不是万能的，尤其是移动城邦外的村庄，通常只接受本国的货币。,"Ah, well, while most places accept Lungmen dollars, they're not universal. Especially these villages outside of nomadic cities. They usually only take local currency.","А, ну да. Хотя лунмэньские доллары принимают во многих странах, они всё же не всемогущи. Особенно в поселениях за пределами мобильных городов — там обычно принимают только местную валюту."
+line-257,白面鸮,......嗯，确实应该是这样，从数据库中找到了同样的情报。,"...Yes, that sounds correct. There is some corroborating information in the database.","...Да, действительно. Я нашла аналогичную информацию в своей базе данных."
+line-259,近卫干员,那么，让我们出发吧。,"All right, let's get going.",Тогда давайте отправляться.
+line-261,白面鸮,咦，你也要去吗？,Oh. Are you going too?,"Ой, ты тоже пойдёшь?"
+line-263,近卫干员,啊，不是，因为这是一次小型行动，我们是没有在这里架设临时基站的，也就是说通讯设备没有办法使用。,"Well, yes. This is a small operation, so we didn't establish a base camp, the main point being we can't use our communications equipment.","А, нет. Видите ли, это небольшая операция, и мы не разворачивали здесь временную базовую станцию. Это значит, что средства связи работать не будут."
+line-264,近卫干员,所以缺少战斗力的人要外出的话，通常需要一个护卫的人。,"That means, when somebody without combat capability wants to head out, she'll need an escort.","Поэтому, если кто-то без боевых навыков выходит наружу, обычно требуется сопровождающий."
+line-265,近卫干员,而且，大家都知道你的身体状况，为了你的安全着想，肯定不能让你一个人去的。,"Not to mention, we all know your physical condition. You definitely can't be allowed out alone, for your own safety.",К тому же все знают о состоянии вашего здоровья. Ради вашей же безопасности мы никак не можем отпустить вас одну.
+line-267,白面鸮,原来如此，基站有关的情报我是第一次知道，需要更新数据库了。,This is the first time I have encountered this base camp information. Database update required.,"Вот как. Я впервые слышу информацию, связанную с базовыми станциями. Необходимо обновить базу данных."
+line-269,近卫干员,咦，白面鸮小姐不知道吗？,"Oh, you didn't know that?","О, мисс Птилопсис не знала об этом?"
+line-271,白面鸮,不，我很少出门。,"No, I rarely go out.",Нет. Я редко выхожу наружу.
+line-273,近卫干员,啊，确实，对不起，是我失言了......,"Oh, err, right. I shouldn't have brought it up, sorry...","Ах, и правда. Простите, я сболтнул лишнего..."
+line-275,白面鸮,为什么你要道歉？,Why are you apologizing?,Почему ты извиняешься?
+line-277,近卫干员,不，没什么，让我们出发吧。,Nothing. Never mind. Let's move out.,"Да нет, нипочему. Давайте выдвигаться."
+line-287,白面鸮,现在回想起来，他会向我道歉，是因为他觉得自己没考虑到我的身体状况而说了可能会伤害我的话吧。,"In retrospect, he apologized to me because he felt he hadn't properly considered my health and had said something that could have hurt me.","Оглядываясь назад, он извинился передо мной, потому что посчитал, что задел меня, не приняв во внимание моё физическое состояние."
+line-288,白面鸮,事实上，我在当时完全没有想到这一点。,"In fact, I didn't think of that at all at the time.",На самом деле в тот момент я об этом даже не подумала.
+line-289,白面鸮,而且......,And....,К тому же...
+line-291,日记,在这里，我遇到了第一个问题——我似乎不知道很多理所当然的事情。,"Here, I encountered my first problem——It seems I do not know many things that others take for granted.","Здесь я столкнулась с первым вопросом: кажется, я не знаю многих вещей, которые считаются сами собой разумеющимися."
+line-293,白面鸮,不，确切地说，我不是不知道，这些都存在我的数据库中，只是因为太久没有使用，我忘记了自己知道的事实。,"No, it's not that I don't know, exactly. These things are in my database, but I have forgotten them because I haven't used them for so long.","Нет, точнее говоря, дело не в том, что я не знала. Вся эта информация есть в моей базе данных. Просто из-за того, что я долго ей не пользовалась, я забыла сам факт того, что знаю её."
+line-294,白面鸮,嗯，这里的修辞要修改一下。,Yes. I should adjust the wording.,"М-м, эту формулировку нужно скорректировать."
+line-295,白面鸮,然后，是第二个问题。,"Then, my second problem.","Далее, второй вопрос."
+line-297,日记,卡西米尔的风景和哥伦比亚以及在罗德岛上看到的舰桥风景都相差许多，空气洁净度很高，植被覆盖率也很高。,"Kazimierz's scenery is quite different from Columbia's, or the view from the bridge of Rhodes Island. The air is clean, and vegetation plentiful.","Пейзажи Казимежа сильно отличаются от Колумбии и от того вида, что открывается с мостика Родос Айленда. Здесь очень чистый воздух и высокая плотность растительного покрова."
+line-298,日记,村庄内大部分村民都是库兰塔，但也有一些其他种族的人。,"Most of the villagers were Kuranta, but there were some of other races as well.","Большинство жителей в деревне — куранта, но встречаются и представители других рас."
+line-299,日记,令人吃惊的是，村中集市比我想象的要热闹许多。,The village fair was much busier than I expected.,"К моему удивлению, сельская ярмарка оказалась гораздо оживлённее, чем я себе представляла."
+line-300,日记,在和负责采购的后勤干员会面后，他向我介绍了一下这里，并询问我要不要买些什么。,"After a meeting with a logistics operator in charge of procurement, he showed me around and asked if I would like to buy anything.","Встретившись с оператором снабжения, отвечающим за закупки, он немного рассказал мне об этом месте и спросил, не хочу ли я чего-нибудь купить."
+line-301,日记,我想，或许我可以给医疗部的各位带些礼物。,I thought perhaps I could bring gifts for everyone in the medical section.,"Я подумала, что, возможно, мне стоит привезти какие-нибудь подарки для всех в медицинском отделе."
+line-308,店主,小姐，你想要什么？,"What can I get you, Miss?","Мисс, чего бы вам хотелось?"
+line-310,白面鸮,......,........,...
+line-312,店主,喂，小姐？,"Hello, Miss?","Эй, мисс?"
+line-314,白面鸮,.......我不知道。,...I don't know.,...Я не знаю.
+line-316,店主,啊？不是，你这人怎么回事，要买东西又不知道买什么。,Huh? You want to buy something but you don't know what it is?,"А? Да ладно вам, что за странный покупатель: пришла что-то купить, а сама не знает что."
+line-318,白面鸮,......,........,...
+line-320,近卫干员,啊，不好意思，我的同伴容易走神。,"Ah, sorry, my companion is easily distracted.","А, прошу прощения, моя спутница легко отвлекается."
+line-321,近卫干员,我们想要一些卡西米尔的土特产。,We want some local Kazimierz's goods.,Мы бы хотели приобрести какие-нибудь местные деликатесы или сувениры из Казимежа.
+line-328,日记,在那个时候，我意识到了第二个问题，我不知道医疗部的各位喜欢什么。,"At that point, I realized my second problem. I do not know what everyone in the medical section enjoys.","В тот момент я осознала вторую проблему: я понятия не имею, что нравится остальным сотрудникам медицинского отдела."
+line-329,日记,这并不意味着我们关系不好，相反，根据广义上的定义来说，我和赫默医生应当是好朋友。,"That isn't to say we don't have a good relationship. On the contrary, Dr. Silence and I should be good friends, according to the broad definition of the term.","Это не значит, что у нас плохие отношения. Напротив, в широком смысле мы с доктором Сайленс должны считаться хорошими подругами."
+line-330,日记,我们从莱茵生命时期就一起合作过很多次，也是她邀请我来到罗德岛的。,"We've worked together extensively since our time at Rhine Lab, and she's the one who invited me to Rhodes Island.","Мы много раз сотрудничали ещё со времён Рейн Лайф, и именно она пригласила меня на Родос Айленд."
+line-332,白面鸮,我和其他的医疗干员，关系应该也不坏。,My relationships with the rest of the medic operators are amicable as well.,Мои отношения с другими медицинскими операторами тоже не должны быть плохими.
+line-334,日记,但我不知道。,But I don't know what they like.,Но я не знаю.
+line-335,日记,我从来没有想过这个问题。,I never thought about it.,Я никогда раньше об этом не задумывалась.
+line-336,日记,在那之后，我们就回到了营地，实地考察也顺利进行了下去。,"After that, we headed back to camp, and the rest of the expedition proceeded without incident.","После этого мы вернулись в лагерь, и полевые исследования прошли успешно."
+line-337,日记,但是在返程的路上，我开始不可遏制地思考一些我从来没有意识到的问题。,"But on the way back, I began to think about something I had never realized was wrong.","Однако на обратном пути я начала непрестанно размышлять над вопросами, о которых раньше даже не задумывалась."
+line-339,白面鸮,嗯......当然，其实一半的时间都在睡觉。,"Well.... Of course, I actually slept about half the trip.","М-м... Хотя, по правде говоря, половину этого времени я просто спала."
+line-340,白面鸮,在前往村庄的路上，其实也站在路中间睡过去了一次。,"On the way to the village, I even fell asleep in the middle of the road.",По пути в деревню я тоже однажды уснула прямо посреди дороги.
+line-341,白面鸮,不过，为了读起来更顺畅，这里就省去好了。,"But to make for an easier read, I will omit those details.","Впрочем, для лучшей читаемости эту часть стоит опустить."
+line-343,日记,自从加入莱茵生命，转而来到罗德岛后......,Since joining Rhine Lab and transferring to Rhodes Island...?,"С тех пор как я вступила в Райн Лаб, а затем перешла на Родос Айленд..."
+line-347,？？？,白面鸮姐姐，快开门！,"Ptilopsis, open up!","Сестрица Птилопсис, скорее открой дверь!"
+line-351,白面鸮,伊芙利特，你怎么来了。,"Ifrit, what are you doing here?","Ифрит, почему ты здесь?"
+line-353,伊芙利特,赫默在做实验，我听说你回来了，就来看看你。,Silence is busy in the lab. I heard you were back so I came to see you.,"Сайленс проводит эксперимент. Я услышала, что ты вернулась, и решила навестить тебя."
+line-354,伊芙利特,因为感觉白面鸮姐姐你平时都在，这次你出去感觉比赫默不在都不习惯。,"It's like, since you're pretty much always here, it was a lot weirder to have you gone. I'm used to Silence being out.","Ты ведь обычно всегда на месте, сестрица Птилопсис. В этот раз твой уход ощущался даже более непривычно, чем отсутствие Сайленс."
+line-355,伊芙利特,你回来真是太好啦！,I'm so glad you're back!,"Как же здорово, что ты вернулась!"
+line-357,白面鸮,确实，我很少出去。,"Indeed, I rarely go out.","Действительно, я редко выхожу наружу."
+line-358,白面鸮,......确实，我很少出去。,"...Indeed, I rarely go out.","...Действительно, я редко выхожу наружу."
+line-360,伊芙利特,为啥你要说两遍一样的话，白面鸮姐姐？,"Why'd you say that twice, Ptilopsis?","Почему ты повторила одно и то же дважды, сестрица Птилопсис?"
+line-362,白面鸮,没什么，我只是忽然想到，其实我并不经常出门这个事实。,It just occurred to me that I don't actually go outside very often.,"Ничего. Я просто внезапно осознала тот факт, что действительно нечасто выхожу на улицу."
+line-364,伊芙利特,啊？白面鸮姐姐你是不是出门把脑袋撞坏了。,Huh? Did you hit your head out there?,"А? Сестрица Птилопсис, ты там случайно головой не ударилась, пока была на улице?"
+line-366,白面鸮,并没有，只是系统发生了一些未知错误而已，现在已经修复了。,"No, it was just some unknown error in the system. It has been fixed.","Вовсе нет. Просто в системе произошла неизвестная ошибка, но сейчас она уже исправлена."
+line-367,白面鸮,我买了一些卡西米尔的土特产，在那边。,I bought some Kazimierz goods. They're over there.,Я купила несколько сувениров из Казимежа. Они вон там.
+line-369,伊芙利特,真的吗！我看看......,Really! Let's see....,Правда?! Дай глянуть...
+line-374,伊芙利特,哇，这把木剑好酷。,"Wow, this is a cool wooden sword.","Вау, этот деревянный меч такой крутой!"
+line-376,伊芙利特,嘿，哈，呀！,Hya! Whew! Shwing!,"Хей, ха, я-а!"
+line-377,伊芙利特,你看，我像不像那些跳来跳去的库兰塔？,Check it out. Don't I look like one of those flippy Kurantas?,Смотри! Я похожа на тех прыгающих куранта?
+line-379,白面鸮,不像。,No.,Нет.
+line-381,伊芙利特,诶......不管，反正我要这个！,Eh.... Whatever. I still want it!,Ну и ладно... Всё равно я забираю его!
+line-383,白面鸮,好。,Good.,Хорошо.
+line-384,白面鸮,故事书在书架上，你可以在那边看，我要写一些东西。,There is a storybook on the shelf. You can read it over there. I'm going to write something.,"Книги со сказками на полке, можешь почитать там. Мне нужно кое-что написать."
+line-386,伊芙利特,好！,Sweet!,Хорошо!
+line-388,白面鸮,呼......那么。,Phew.... Now then.,Уф... Итак.
+line-390,日记,自从加入莱茵生命，转而来到罗德岛后，已经过了很长时间。,It's been a long time since I joined Rhine Lab and moved to Rhodes Island.,"С тех пор как я вступила в Райн Лаб, а затем перешла на Родос Айленд, прошло уже много времени."
+line-391,日记,我已经完全习惯了现在的生活，并下意识地认为这是正常的生活。,I'm completely used to the way things are now and subconsciously consider it normal.,Я полностью привыкла к этой жизни и подсознательно считаю её нормальной.
+line-392,日记,但这次出行让我意识到，不是这样的。,But this trip made me realize that's not the case.,"Но эта поездка заставила меня понять, что это не так."
+line-393,日记,并不是说我想否认现在的生活，我只是忽然意识到这样一个问题。,Not that I reject the life I lead. I have just suddenly become aware of this problem.,"Не то чтобы я хочу отрицать свою нынешнюю жизнь, я просто внезапно осознала одну вещь."
+line-394,日记,那就是，我其实已经离正常的生活很远了。,"That is, I am myself quite far from normal.",А именно: на самом деле я уже очень далека от нормальной жизни.
+line-396,白面鸮,这里应该用正常这个词汇吗，我的生活真的就是不正常的吗？,Is 'normal' the correct word here? Is it my life that is abnormal?,Стоит ли мне использовать слово «нормальный»? Действительно ли моя жизнь ненормальна?
+line-397,白面鸮,......广义上来说，应该确实是这样吧。,"...Broadly speaking, I suppose it is.","...В широком смысле, пожалуй, так оно и есть."
+line-399,日记,而我只是忘了。,And I simply forget.,И я просто забыла об этом.
+line-400,日记,即使是我自己也很难描述，矿石病究竟从我身上夺走了什么，又给了我什么。,Even I have a hard time describing what Oripathy has taken from me and given to me.,"Даже мне самой трудно описать, что именно орипатия отняла у меня и что взамен дала."
+line-401,日记,但至少，在莱茵生命时，赫默为我制定治疗方案后，科研和睡眠就逐渐占据了我的全部生活。,"I can manage that once Silence worked out a treatment plan for me at Rhine Lab, research and sleep gradually took over my entire life.","Но, по крайней мере, после того как в Райн Лаб Сайленс составила для меня план лечения, научные исследования и сон постепенно заняли всю мою жизнь."
+line-403,白面鸮,我的身体不允许我独自完成耗时较长的工作，更不要说出门。,"My body doesn't allow me to do time-consuming work, let alone leave the facility.","Моё тело не позволяет мне в одиночку выполнять длительную работу, не говоря уже о выходе наружу."
+line-404,白面鸮,我对这样的自己有自知之明，所以就算偶尔的外出，我也很少自由行动。,"I am self-conscious about my condition, so even on the rare occasions that I do go outside, I do not move about so freely.","Я прекрасно это понимаю, поэтому даже во время редких выездов я редко действую самостоятельно."
+line-406,日记,从很久以前开始，我所有对外界的认识就几乎全部来自同事的描述、各种资料以及透过窗户看到的一成不变的景色。,"For as long as I can remember, all my knowledge of the outside world has come almost entirely from the descriptions of my colleagues, various documents, and the unchanging view outside my window.","Уже очень давно все мои представления о внешнем мире складываются почти исключительно из рассказов коллег, различных документов и неизменного пейзажа за окном."
+line-407,日记,现在想来，我会向往嘉维尔和安赛尔也是很正常的事情了。,"Now that I think about it, it's only natural that I would aspire to be like Gavial and Ansel.","Теперь, думая об этом, мне кажется вполне естественным, что я восхищалась Гавиал и Анселем."
+line-408,日记,但在今天之前，我其实并没有意识到我为什么会向往。,"But before today, I did not realize why.","Но до сегодняшнего дня я не осознавала, почему именно я испытывала это чувство."
+line-409,日记,因为在大家讨论他们的生活时，我总是不由自主地把自己划分在外。,Because I can't help but compartmentalize myself when people discuss their lives.,"Ведь когда все обсуждали свою жизнь, я всегда невольно отделяла себя от них."
+line-410,日记,我可以参与他们的话题，但我下意识地认为我不属于这些话题。,"I can engage with their topics, but I subconsciously think I don't belong in them.","Я могла участвовать в их разговорах, но подсознательно считала, что эти темы меня не касаются."
+line-412,伊芙利特,白面鸮姐姐，你在写什么东西？看起来不像报告啊。,"Ptilopsis, what are you writing? Doesn't look like a report to me.","Сестрица Птилопсис, что ты пишешь? Это не очень похоже на отчёт."
+line-414,白面鸮,日记。,A diary.,Дневник.
+line-416,伊芙利特,日记？哦，赫默让我写过，但我觉得太麻烦了！,"A diary? Oh, Silence told me to keep one, but it was a huge pain!","Дневник? О, Сайленс заставляла меня писать его, но по-моему это такая морока!"
+line-418,白面鸮,确实，如果每天都要写的话，是一个不小的工程，但对我是有必要的。,"True, it is a lot of work to write every day, but it is necessary for me.","Действительно, писать его каждый день — довольно трудоёмкий процесс, но для меня это необходимо."
+line-420,伊芙利特,为啥？,Why?,Почему?
+line-422,白面鸮,为了不让自己忘记。,To keep myself from forgetting.,Чтобы не позволить себе забыть.
+line-424,伊芙利特,为啥会忘记？,Why do you forget?,С чего тебе забывать?
+line-426,白面鸮,因为我容易忘记。,Because I am forgetful.,Потому что я легко забываю.
+line-428,伊芙利特,嗯......不懂。,Um.... Don't get it.,М-м... Не понимаю.
+line-430,白面鸮,不要懂比较好。,It is better if you don't.,Лучше и не понимать.
+line-432,伊芙利特,喔......我能看吗？,Oh.... Can I see it?,О... А мне можно почитать?
+line-434,白面鸮,可以，不过都是文字，我想你不会喜欢的。,You can. But it is all text. I don't think you will like it.,"Можно. Но там только текст, не думаю, что тебе понравится."
+line-436,伊芙利特,那算了，我回去继续看故事书了。,"Yeah, screw it. I'll go back to my storybook.","Тогда не надо, пойду лучше дальше читать сказки."
+line-438,白面鸮,嗯。,Right.,Хорошо.
+line-440,白面鸮,对了，这么说起来......,"Now then, where was I...?","Кстати, если уж зашла речь об этом..."
+line-447,赫默,......,........,...
+line-449,白面鸮,赫默，怎么了，实验遇上什么问题了吗？,"Silence, what's the matter? Something wrong in the lab?","Сайленс, что случилось? Возникли проблемы с эксперментом?"
+line-451,赫默,嗯？啊，不是。,"Huh? Ah, no.","М-м? Ах, нет."
+line-452,赫默,我只是在想，该给伊芙利特买些什么礼物好，她的生日快要到了。,I'm just trying to figure out what to get Ifrit for her birthday. It's coming up.,"Я просто думаю, какой подарок купить Ифрит. Скоро её день рождения."
+line-454,白面鸮,生日礼物？,A birthday present?,Подарок на день рождения?
+line-456,赫默,是啊，又要防火，又要让她喜欢，唉，小孩子的心真是猜不透。,"Yes. It needs to be fireproof, and it needs to be something she likes. Ugh, a child's mind is so unpredictable.","Да. Он должен быть пожаробезопасным и при этом понравиться ей. Эх, детскую душу так трудно понять."
+line-457,赫默,干脆我自己做一个好了。,I should just make something myself.,"Может, мне просто сделать его самой."
+line-459,白面鸮,......,........,...
+line-461,赫默,怎么了？,What?,Что такое?
+line-463,白面鸮,没什么，只是在想赫默你原来也会考虑这样的事情。,Nothing. I was just pondering how even Silence thinks about such things.,"Ничего. Просто подумала, что ты, Сайленс, тоже задумываешься о подобных вещах."
+line-465,赫默,很奇怪吗？嗯......确实，有些不像我。,Is it that strange? Well... maybe it's a bit unlike me.,"Это странно? М-м... Действительно, это немного не в моём стиле."
+line-466,赫默,但我既然决定带走伊芙利特，这就是我应当承担的责任了。,"But since I decided to take Ifrit with me, these things are my responsibility.","Но раз уж я решила забрать Ифрит с собой, это ответственность, которую я обязана нести."
+line-473,白面鸮,即使是一头扎进工作能好几天不休息的赫默，也有这样的一面。,"Even Silence, who can bury herself in her work for days on end, has such a side to her.","Даже у Сайленс, которая может уйти в работу с головой и не отдыхать по несколько дней, есть такая сторона."
+line-475,日记,其实我明白，这是我自己的问题。,I understand that this is my own problem.,"На самом деле я понимаю, что это моя собственная проблема."
+line-476,日记,或者说，这从一开始就不是一个问题。,"Or should I say, it was not a problem to begin with.","Или, скорее, это с самого начала не было проблемой."
+line-477,日记,我并不觉得自己悲惨，因为我并不讨厌科研生活。,"I don't feel so bad, because I do not dislike this researcher's life.","Я не считаю себя несчастной, потому что мне вовсе не претит научно-исследовательская жизнь."
+line-479,白面鸮,相反，如果我讨厌科研的话，从一开始就不会加入莱茵生命了。,"On the other hand, if I hated research, I wouldn't have joined Rhine Lab at all.","Напротив, если бы я ненавидела науку, я бы с самого начала не вступила в Райн Лаб."
+line-481,日记,无论是莱茵生命，还是罗德岛，从经历上比我悲惨的数不胜数，和他们相比，我是幸运的。,"Whether at Rhine Lab or Rhodes Island, I have seen countless people more miserable than I. And I'm lucky compared to them.","Будь то в Райн Лаб или на Родос Айленде, людей с куда более трагичной судьбой, чем у меня, бесчисленное множество. По сравнению с ними я счастливица."
+line-482,日记,而且我相信，我在做的研究是有意义的事。,And I believe that the research I'm doing is something meaningful.,"К тому же я верю, что исследования, которыми я занимаюсь, имеют смысл."
+line-484,白面鸮,所以，我写下这些并不是为了哀叹，也不是想说，我忽然意识到自己过了一种错误的生活。,"So, I'm not writing this as a lamentation, or to say that I've suddenly realized that I've been living the wrong kind of life.","Поэтому я пишу всё это не для того, чтобы сокрушаться, и не для того, чтобы заявить, будто я внезапно осознала, что живу неправильно."
+line-486,日记,我只是回想起了我写日记的目的。,I just remembered the purpose of my diary.,Я просто вспомнила истинную цель ведения дневника.
+line-487,日记,我时而会听到一些奇怪的声音，金属摩擦声，撞击声，喊声，爆炸声。,"I hear strange noises from time to time, metal scraping, crashing, shouting, explosions.","Время от времени я слышу странные звуки: скрежет металла, удары, крики, взрывы."
+line-488,日记,这些声音就好像来自我身体的深处，一直在困扰着我。,"It's like these voices are coming from deep inside me, haunting me.",Эти звуки будто исходят из самой глубины моего тела и постоянно меня тревожат.
+line-489,日记,有时候从睡眠中醒来，我会有些恍惚，我会忘记我在哪里，我在做什么。,"Sometimes when I wake up, I find myself in a sort of trance and I forget where I am and what I'm doing.","Иногда, проснувшись ото сна, я чувствую себя дезориентированной. Я забываю, где нахожусь и что делаю."
+line-490,日记,当然，我并没有真正忘记，但不可否认，我会需要比他人更多的时间和精力去回忆和记忆。,"Of course, I don't really forget, but there's no denying that I'll need more time and energy to remember than a normal person would.","Конечно, я не забываю на самом деле, но нельзя отрицать, что мне требуется больше времени и сил, чем другим, чтобы вспомнить и зафиксировать это в памяти."
+line-491,日记,我会开始写日记，就是为了避免忘记一些重要的东西。,I started this diary just to ensure I did not forget something important.,"Я начала вести этот дневник именно для того, чтобы не забыть важные вещи."
+line-493,白面鸮,重要的东西......,Something important....,Важные вещи...
+line-495,伊芙利特,白面鸮姐姐，你看我干嘛？而且从刚才开始你就在自言自语什么呢？,"Ptilopsis, why are you staring at me? And what have you been mumbling to yourself all this time?","Сестрица Птилопсис, чего ты на меня уставилась? И о чём ты там бормочешь сама с собой уже какое-то время?"
+line-497,白面鸮,没什么。,Nothing.,Ничего.
+line-499,伊芙利特,你该不会闯了祸想要让我帮你给赫默说情吧？,Did you get yourself into trouble? Do you need me to talk to Silence for you?,"Ты ведь не натворила каких-нибудь бед и теперь хочешь, чтобы я замолвила за тебя словечко перед Сайленс?"
+line-500,伊芙利特,看在我们交情的份上，我可以帮你一次，但你别闯太大的祸啊，我才不想被赫默打屁股。,"I'll help you once, 'cause we're friends. You better not have done anything too bad. I don't need a spanking from Silence.","Ради нашей дружбы я могу помочь тебе разок, но только если дело не слишком серьёзное. Я не хочу, чтобы Сайленс отшлёпала меня."
+line-502,白面鸮,呵呵，不用担心。,"Hehe, don't worry.","Ха-ха, не беспокойся."
+line-504,日记,今天的遭遇，只是让我明白了一点。,Today's encounter made me realize something.,Сегодняшнее происшествие помогло мне кое-что понять.
+line-505,日记,只是不去忘记，对于重要的东西来说，或许有些太少了。,"When it comes to the important things, just trying not to forget them isn't enough.","Просто стараться не забывать — возможно, этого слишком мало для по-настоящему важных вещей."
+line-506,日记,不，应该说，我希望自己能更了解我重视的人，我希望自己能做到更多的事。,"Rather, I wish I could do more to understand the people I care about.","Нет, вернее будет сказать так: я надеюсь, что смогу лучше понять людей, которые мне дороги, и что смогу сделать для них больше."
+line-508,白面鸮,我不希望自己会后悔。,I don't want to regret anything.,Я не хочу ни о чём жалеть.
+line-510,？？？,白面鸮，伊芙利特是不是在你这里？,"Ptilopsis, is Ifrit with you?","Птилопсис, Ифрит случайно не у тебя?"
+line-512,伊芙利特,啊，赫默来了！,"Hey, it's Silence!","А, Сайленс пришла!"
+line-517,赫默,伊芙利特没给你添麻烦吧？,"Ifrit didn't give you any trouble, did she?",Ифрит не доставила тебе хлопот?
+line-519,白面鸮,没有，她很乖。,"No, she was very good.","Нет, она вела себя очень хорошо."
+line-521,伊芙利特,嘿嘿。,Hehehe.,Хе-хе.
+line-523,赫默,那就好，以及你没事吧？今天看你回来的时候状态有些不对。,I'm glad. And are you okay? You seemed a bit off when you came back today.,"Вот и отлично. И с тобой всё в порядке? Сегодня, когда ты вернулась, твоё состояние показалось мне немного странным."
+line-525,白面鸮,我没事......不过，确实，我也刚想找你。,"I'm fine.... But, yes, I was just about to go looking for you.","Со мной всё в порядке... Впрочем, действительно, я тоже как раз хотела поговорить с тобой."
+line-527,赫默,找我？,For me?,Поговорить со мной?
+line-529,白面鸮,是的，我想找你聊天。,"Yes, I'd like to talk to you.","Да, я бы хотела немного поболтать."
+line-531,赫默,聊天？我们不是平时都会聊天吗？,Talk? Don't we always talk?,Поболтать? Но разве мы не общаемся обычно?
+line-533,白面鸮,嗯，我想，和你聊些我过去从没想过的东西。,I'd like to... discuss a few things I've never thought about before.,"Да. Я бы хотела поговорить с тобой о вещах, о которых никогда раньше не задумывалась."
