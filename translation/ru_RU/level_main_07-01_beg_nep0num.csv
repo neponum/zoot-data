@@ -1,0 +1,116 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,main_7
+__chapter__,,Chapter Name,obt/main/level_main_07-01_beg,别离之夜
+,,,,
+char-1,PRTS,PRTS,PRTS,PRTS
+char-2,？？？,？？？,???,???
+char-3,Rosmontis,Rosmontis,Rosmontis,Роузмонтис
+char-4,迷迭香,迷迭香,Rosmontis,Мидзу
+,,,,
+line-8,,"6:30 p.m. ","6:30 p.m. ",18:30.
+line-15,PRTS,编号00000-00002，接入权限-8。,"Number 00000-00002, Clearance Level-8.","Идентификатор 00000-00002, уровень доступа -8."
+line-16,PRTS,Dr.{@nickname}，欢迎访问罗德岛综合生物处理室，已依据生物数据对您的意图进行判断。,"Dr. {@nickname}, thank you for visiting the Rhodes Island Integrated Bioprocessing Unit. Your intentions have been determined through analysis of available biological data.","Доктор {@nickname}, добро пожаловать в комплекс обработки биологических материалов «Род-Айленда». Ваши намерения были определены на основе биологических данных."
+line-17,PRTS,另外，系统检测到您的心情不佳。,"In addition, the system detects that you are in a bad mood.","Кроме того, система зафиксировала, что у вас плохое настроение."
+line-18,,少烦我。;......;该怎么样才算是好心情？,Leave me alone.;......;And what would count for a good mood?,Отстань от меня.;......;А что вообще считается хорошим настроением?
+line-21,PRTS,Dr.{@nickname}表现出一定的攻击性。,Dr. {@nickname} is displaying aggression.,Доктор {@nickname} проявляет признаки агрессии.
+line-22,PRTS,请放心，系统不会因此电击你，不用太过顾忌系统对你的检测。,Rest assured the system will not electrocute you. There is no need to fear these tests.,"Пожалуйста, не волнуйтесь, система не ударит вас током за это, нет нужды беспокоиться о мониторинге со стороны системы."
+line-25,PRTS,Dr.{@nickname}陷入了沉默。,Dr. {@nickname} fell silent.,Доктор {@nickname} замолчал.
+line-26,PRTS,无论是无声抗议还是不愿进行沟通，我认为这都是一种孤独性精神障碍症的表现。,"Whether silent protest or refusal to communicate, I believe it is an expression of an autism spectrum disorder.","Будь то молчаливый протест или нежелание общаться, я считаю это проявлением расстройства психики на почве одиночества."
+line-27,PRTS,当然，请便，系统会平等对待所有人。,"Please, by all means. The system treats all equally.","Конечно, как пожелаете, система относится ко всем одинаково."
+line-30,PRTS,好与坏是一种主观判断。,Good and bad are subjective judgments.,Хорошо или плохо — это субъективное суждение.
+line-31,PRTS,不过，本系统集成了几乎所有有记载的精神活动状态，以及各类神经兴奋的激素标准。,"However, this system has collected nearly all documented states of mental activity, as well as hormonal criteria for various types of neurological excitement.","Однако эта система интегрировала почти все зарегистрированные состояния психической активности, а также стандарты различных нейрогормонов возбуждения."
+line-32,PRTS,所以你可以认为，本系统的主观判断是无限接近客观事实的。,So you could argue that the system's subjective judgment is substantially closer to objective truth.,"Поэтому можно считать, что субъективное суждение этой системы бесконечно приближено к объективным фактам."
+line-33,PRTS,因此，无论Dr.{@nickname}将要采取什么样的行动，系统都能在一定程度上进行模拟。,"Therefore, no matter what action Dr. {@nickname} may take, the system will be able to process it to some degree.","Следовательно, какие бы действия ни предпринял доктор {@nickname}, система может в определенной степени их смоделировать."
+line-34,PRTS,所以，想做什么就去做吧。,Which is to say: you may do as you wish.,"Поэтому делайте то, что хотите."
+line-35,PRTS,PRTS具备相应的无害安抚机能。,PRTS is equipped with a nonlethal pacification function.,PRTS обладает соответствующими функциями безобидного умиротворения.
+line-36,PRTS,当你采取过激行动时你会立刻昏厥并在3.55个工作时后醒来，这可以保证你的行为向正常标准贴近。,"Should you take unreasonable action, you will lose consciousness for 3.55 working hours, ensuring you maintain a behavioral standard close to normal.","Когда вы совершите чрезмерно агрессивные действия, вы немедленно потеряете сознание и придете в себя через 3,55 рабочих часа, что гарантирует, что ваше поведение будет соответствовать нормальным стандартам."
+line-39,PRTS,"Welcome home, Doctor。","Welcome home, Doctor.","С возвращением домой, Доктор."
+line-40,,......这里真的能算家吗？,Can this really be called home?,......Разве это место действительно можно назвать домом?
+line-46,？？？,你是，Dr.{@nickname}？,Are you Dr. {@nickname}?,"Ты, Доктор {@nickname}?"
+line-47,,啊？;......？;你好？,Huh?;......?;Hello?,А?;......?;Привет?
+line-50,？？？,......是你，没有错。,It's you. I'm sure of it.,"......Это ты, несомненно."
+line-51,？？？,我感觉到了......虽然，不太一样。,I can feel it... you're a little different.,"Я чувствую это...... Хотя, всё немного иначе."
+line-52,？？？,不过......你怀里的人，穿的制服......,"But... the person you're holding, that uniform...","Но...... человек у тебя на руках, эта форма......"
+line-53,？？？,我可以问一问，你抱着的是谁吗？,Can I ask who's that you're holding?,"Можно спросить, кого ты держишь?"
+line-54,,一介战士。;一位同胞。;一个朋友。,A fighter.;One of my people.;A friend.,Воин.;Соратница.;Друг.
+line-57,？？？,战士？,Fighter?,Воин?
+line-58,？？？,啊......她在你身上留下了伤口。她是敌人？,Oh... she wounded you. Were you fighting?,А...... Она оставила раны на твоем теле. Она враг?
+line-59,？？？,不，不是......这伤口，不是会杀死人的伤口。,"No, you weren't... This isn't a lethal wound.","Нет, не...... Эта рана не из тех, что убивают."
+line-62,？？？,她也是感染者......？,Is she Infected too...?,Она тоже заражена......?
+line-63,？？？,不，你不是这个意思。,"No, that's not what you meant.","Нет, ты не это имел в виду."
+line-64,？？？,Dr.{@nickname}，你像是失去了什么。,"Dr. {@nickname}, you seem like you lost something.","Доктор {@nickname}, ты словно что-то потерял."
+line-67,？？？,她是你的朋友？,She's your friend?,Она была твоим другом?
+line-68,？？？,可是，朋友......她和你相联系的时间，很短很短。,But... you barely know her at all.,"Но друг...... время, которое она была связана с тобой, очень, очень короткое."
+line-69,？？？,我不知道......我不知道这会不会很快就消失。,I don't know... this might disappear soon.,"Я не знаю...... я не знаю, исчезнет ли это вскоре."
+line-71,,你能......感受到什么？,,Что ты...... чувствуешь?
+line-74,？？？,所有人相互交流的痕迹。气味，温度，形状,"I'm not sure, but she...","Следы того, как все общаются друг с другом. Запах, температура, форма."
+line-75,？？？,我也不太清楚，但她......,,"Я и сама не очень уверена, но она......"
+line-78,,女孩将手伸向霜星。,(Let her).;(Stop her).,Девушка тянет руку к Фростнове.
+line-79,,（默许）;（出声阻止）,,(Молчаливое согласие);(Остановить её словами)
+line-82,？？？,唔。,No.,Мг.
+line-83,？？？,不。,You don't want me to do that?,Нет.
+line-84,？？？,你不想我这么做吧？,No. I'm an outsider. I don't know her.,"Ты не хочешь, чтобы я это делала?"
+line-85,？？？,不，不是。我是外人。我和她没有联系。,"I can't do this, can I?","Нет, не то. Я чужая. У меня нет связи с ней."
+line-86,？？？,这不是我能做的事情，对吧？,I'm sorry.,"Это не то, что я должна делать, верно?"
+line-87,？？？,不好意思。,"Can you read minds, like Amiya?;......;I'm having trouble understanding you.",Прости.
+line-88,,你也和阿米娅一样，能读心？;......;我没法那么快理解你的反应。,,"Ты тоже, как Амия, умеешь читать мысли?;......;Я не могу так быстро понять твою реакцию."
+line-91,？？？,不，没有，我不能......,Amiya is special. I know Amiya's Arts... and I think she suffers a lot.,"Нет, нет, я не могу......"
+line-92,？？？,阿米娅是特别的。我知道阿米娅的法术......也觉得她很辛苦。,,"Амия особенная. Я знаю о способностях Амии...... и считаю, что ей очень нелегко."
+line-95,？？？,我......我想，我不能碰她。我也不能感受她。,Her connection to this world has no connection to me.,"Я...... я думаю, мне нельзя касаться её. И я не могу её почувствовать."
+line-96,？？？,她与这片大地的联系和我没有关联。,I... I have no right to touch her.,Её связь с этой землей не имеет отношения ко мне.
+line-97,？？？,我没有......没有理由去触碰她。,,У меня нет...... нет причин прикасаться к ней.
+line-100,？？？,其他干员，也会这么说。,"There are a lot of big personalities at Rhodes Island... But I might be weird, even for them.",Другие оперативники тоже так говорят.
+line-101,？？？,罗德岛上，大家都很有个性......但我可能更奇怪一些。,,"В «Род-Айленде» все очень своеобразные...... но я, возможно, еще более странная."
+line-104,？？？,啊......,I'm... I'm sorry...,А......
+line-105,？？？,对，对，对不起......,I...,"П-прости, извини......"
+line-106,？？？,我......,"Sorry.;......;I'm sorry, little girl.",Я......
+line-107,,抱歉。;......;对不起，小姑娘。,,"Прости.;......;Извини, малышка."
+line-110,？？？,没关系，没关系的。我已经习惯了。,,"Ничего страшного, всё в порядке. Я уже привыкла."
+line-113,？？？,请，请不要生气......,"When you don't speak, I... I don't know what to say.","Пожалуйста, пожалуйста, не злись......"
+line-114,？？？,你不说话，我有些......有些不知道该做什么。,,"Когда ты молчишь, я немного...... немного не знаю, что делать."
+line-117,？？？,没事的。,I'd much rather someone be straight with me than be scared of me. So I'm fine.,Всё хорошо.
+line-118,？？？,比起被别人害怕，我更愿意别人认真对我说话。所以，没问题的。,,"Я предпочту, чтобы со мной говорили искренне, чем боялись меня. Так что всё в порядке."
+line-121,？？？,你是要......用这个机器吧？,If this is indeed the final resting place of the Infected.,Ты собираешься...... воспользоваться этой машиной?
+line-122,,如果这里确实是感染者最后归宿的话。,,Если это место действительно последнее пристанище для зараженных.
+line-125,？？？,......嗯。,Just a second. Let me check the log.,......Мг.
+line-126,？？？,我来帮你吧。先让我看一下记录。,"Yes, they cleaned this cabin already. Put her on this slab. Easy now. There.",Я помогу тебе. Сначала дай взглянуть на записи.
+line-127,？？？,嗯，没问题，这个舱室已经清理过了。把她放在这个平台上吧。轻一点，嗯。,"Then the slab will slide in there, and... wait for it to close, and finally press this button.","Хм, всё в порядке, этот отсек уже очищен. Положи её на платформу. Аккуратнее, вот так."
+line-128,？？？,之后平台会收进去，然后......等舱门关上，按下这个键就可以了。,You're really familiar with it.,"После этого платформа заедет внутрь, затем...... как только дверь отсека закроется, нажми эту кнопку."
+line-129,,你很熟悉操作。,,Ты очень хорошо знакома с управлением.
+line-132,？？？,啊，因为我操作过许多遍了。,Why...?,"А, потому что я пользовалась этим много раз."
+line-133,,为什么.......,,Почему......
+line-136,？？？,罗德岛的感染者，最后都会到这里来。,"And if I knew them, if I felt them, if they were my teammates, I always take care of them myself.",Зараженные «Род-Айленда» в конце концов все попадают сюда.
+line-137,？？？,如果是我认识，我感受过的人，我的队员，我都会自己操作。,"The original manual was really complicated, but I wrote down how to use it in my terminal. Just a quick look and I can feel it.","Если это кто-то из моих знакомых, кого я чувствовала, кто-то из моих отрядов, я всегда всё делаю сама."
+line-138,？？？,原本的使用说明书很复杂，系统简单的操作方式，我都记在终端上了。只要稍稍看看，身体就会熟悉那种感觉。,Feel what?,"Оригинальная инструкция очень сложная, но простые способы управления системой я записала в свой терминал. Стоит немного посмотреть, и тело само привыкает к этому ощущению."
+line-139,,什么感觉？,,Что за ощущение?
+line-142,？？？,啊......大概就像链子一样。,A chain...?,А...... примерно как с цепями.
+line-143,,链子......？,,Цепи......?
+line-145,？？？,说是两个人之间牵着的线也可以。,"Sending off the people tied to you means untangling the lines around them. The other ends of the threads are still tied to us, but even when the one side is gone, the threads don't hang down.","Можно сказать, что это нить, связывающая двух людей."
+line-146,？？？,送走和你有联系的人，是解开缠在他们身上的线。线的另一边还是系在我们身上，可哪怕没有再系着谁了，线却也垂不下来。,"It feels like you've lost something inside yourself. Something you didn't know was there, but knowing it won't come back. ","Отпустить того, кто был с тобой связан, — это развязать узел на нити. Другой конец нити все еще привязан к нам, но даже если никого больше не осталось, она всё равно не опускается вниз."
+line-147,？？？,"那种感觉，是身体里有什么消失了的感觉。已经不知道那里是什么，却又知道，他们曾经在，也不会回来。 ",Why would you want to feel that?,"Это чувство — будто внутри что-то исчезло. Ты уже не знаешь, что там было, но точно знаешь, что они когда-то существовали и больше не вернутся."
+line-148,,为什么要去熟悉这种感觉？,,Зачем тебе привыкать к этому чувству?
+line-151,？？？,因为只有熟悉了，才不会突然地痛起来吧？,So then you...?,"Потому что только привыкнув, не начнешь чувствовать резкую боль, верно?"
+line-152,,......你究竟是......？,,......Кто ты на самом деле......?
+line-157,PRTS,打扰一下。,"Identifier for Rosmontis, elite operator present in Rhodes Island Integrated Infected Bioprocessing Unit, will expire in fifteen minutes.",Прошу прощения.
+line-158,PRTS,身在罗德岛生物感染综合处理室的精英干员Rosmontis，你的识别码将在15mins后失效。,I will update you momentarily. Stand in place for about fifteen seconds.,"Элитный оперативник Роузмонтис, находящаяся в комплексе биологической обработки зараженных «Род-Айленда», срок действия твоего идентификационного кода истечет через 15 минут."
+line-159,PRTS,接下来我将为你进行更新，请在原地停留十五秒左右。,"In addition, there is a skirmish taking place by the starboard hull. If possible, please assist after updating your identification code, in order to reduce resource consumption.","Далее я проведу для тебя обновление, пожалуйста, оставайся на месте около пятнадцати секунд."
+line-160,PRTS,另外，接舷区发生了小规模的武装冲突，有条件请在识别码更新后进行支援，以期减少我方资源的损耗。,,"Кроме того, в зоне стыковки произошел небольшой вооруженный конфликт, если есть возможность, окажите поддержку после обновления кода, чтобы сократить потери наших ресурсов."
+line-162,Rosmontis,啊，嗯。我知道了，马上就去。,I'm making a note of it in my terminal.,"А, да. Поняла, сейчас приду."
+line-163,Rosmontis,我在终端上记一下。,,Я запишу это в терминал.
+line-165,PRTS,第六次提示你，如果你愿意向本系统开放权限，系统可以直接将信息发送至......,,"В шестой раз напоминаю: если ты готова открыть доступ к системе, она может отправлять информацию напрямую на......"
+line-167,Rosmontis,不行。,I'm... the only one who can use this.,Нет.
+line-168,Rosmontis,这是只有我......只有我能写的东西。,,"Это то, что только я...... только я могу записать."
+line-170,PRTS,明白。请。,Elite operator...?,Понятно. Пожалуйста.
+line-171,,精英干员......？,,Элитный оперативник......?
+line-174,Rosmontis,PRTS指的是我。,Should I call you Rosmontis?,PRTS имела в виду меня.
+line-175,,我该叫你Rosmontis吗？,,Мне называть тебя Роузмонтис?
+line-178,Rosmontis,你可以叫我......迷迭香。,What... about her?,Ты можешь звать меня...... Мидзу
+line-179,迷迭香,......她，叫什么？,I think... I should at least know her name.,......Как её зовут?
+line-180,迷迭香,我想......我想至少知道她的名字。,FrostNova.,Я думаю...... я хочу хотя бы узнать её имя.
+line-181,,霜星。,,Фростнова.
+line-184,迷迭香,霜星......,A good name.,Фростнова......
+line-185,迷迭香,好好听。,"Hello, FrostNova.",Красивое имя.
+line-186,迷迭香,你好，霜星。,...Bye bye.,"Привет, Фростнова."
+line-187,迷迭香,......拜拜。,,......Пока.
