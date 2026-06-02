@@ -1,0 +1,559 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,main_7
+__chapter__,,Chapter Name,obt/main/level_st_07-03,11:15:38
+,,,,
+char-1,诗怀雅,诗怀雅,Swire,Сваж
+char-2,星熊,星熊,Hoshiguma,Хошигума
+char-3,？？？,？？？,???,???
+char-4,林雨霞,林雨霞,Lin Yühsia,Лин Юйся
+char-5,罗德岛干员,罗德岛干员,Rhodes Island Operator,Оператор Родос
+char-6,梅菲斯特,梅菲斯特,Mephisto,Мефисто
+char-7,迷迭香,迷迭香,Rosmontis,Розмари
+char-8,凯尔希,凯尔希,Kal'tsit,Кал'цит
+char-9,阿米娅,阿米娅,Amiya,Амия
+char-10,盾卫,盾卫,Shieldguard,Щитовик
+char-11,爱国者,爱国者,Patriot,Патриот
+char-12,霜星,霜星,FrostNova,Фростнова
+char-13,萨卡兹雇佣兵,萨卡兹雇佣兵,Sarkaz Mercenary,Наемник-сарказы
+char-14,游击队战士,游击队战士,Guerrilla Fighter,Партизан
+char-15,罗德岛近卫干员？,罗德岛近卫干员？,Rhodes Island Guard?,Гвардеец Родоса?
+char-16,极境,极境,Elysium,Элизиум
+char-17,整合运动成员,整合运动成员,Reunion Member,Член Воссоединения
+char-18,整合运动术师,整合运动术师,Reunion Caster,Маг Воссоединения
+char-19,萨卡兹战士,萨卡兹战士,Sarkaz Warrior,Воин-сарказы
+char-20,幻影弩手,幻影弩手,Phantom Crossbowman,Арбалетчик-призрак
+char-21,W,W,W,W
+char-22,Mon3tr,Mon3tr,Mon3tr,Mon3tr
+char-23,陈,陈,Ch'en,Чэнь
+char-24,塔露拉,塔露拉,Talulah,Талла
+char-25,魏彦吾,魏彦吾,Wei Yenwu,Вэй Яньу
+char-26,鼠王,鼠王,Rat King,Крысиный король
+,,,,
+line-10,诗怀雅,你受伤了？！,You're hurt?!,Ты ранена?!
+line-12,星熊,没关系，小事。,Don't worry. Just a scratch.,"Всё в порядке, пустяки."
+line-14,诗怀雅,怎么会是小事！我这里有消毒湿巾，过来。,"How is that just a scratch? Come here, I have disinfectant wipes.","Какие еще пустяки! У меня есть антисептические салфетки, иди сюда."
+line-16,星熊,真没事......,"Look, I'm fine...","Правда, ничего страшного..."
+line-19,诗怀雅,脸过来！,Turn your face this way!,Поверни лицо!
+line-21,星熊,好，好。,"Fine, fine.","Хорошо, хорошо."
+line-23,诗怀雅,......伤口不大，不过很深。好像......还有一点法术的痕迹。,"...The wound is deep, but not very wide. It's as if... there's a trace of Arts.","...Рана небольшая, но глубокая. Кажется... там даже остались следы магии."
+line-24,诗怀雅,......难道是老陈干的？这个“龙门粗口”！,...Did old Ch'en do this to you? That blasted woman...,...Неужели это сделала Чэнь? Ну и «лунмэньская негодница»!
+line-26,星熊,哈哈......没事，这个年纪的小姑娘嘛，干出什么都不稀奇。,Hah... It's fine. Girls of her age are bound to do stuff like this.,"Ха-ха... ничего, для девчонки в таком возрасте неудивительно выкинуть что угодно."
+line-28,诗怀雅,......星熊，我很害怕，我害怕她......,"...Hoshiguma, I'm really scared. I'm scared that she'll...","...Хосигума, мне очень страшно, я боюсь, что она..."
+line-30,星熊,她会投向整合运动？,That she'll join Reunion?,Что она примкнет к «Воссоединению»?
+line-32,诗怀雅,嗯。,Yeah...,Мгм.
+line-33,诗怀雅,小时候我也和塔露拉一起玩过。,I also played with Talulah when I was young.,В детстве мы с Таллулой тоже играли вместе.
+line-34,诗怀雅,虽然记不太清了，但我知道......我很喜欢和她做朋友。,"Even though I don't remember very clearly, I do know... that I really liked being her friend.","Хотя я уже не очень хорошо помню, но я знаю... мне очень нравилось с ней дружить."
+line-35,诗怀雅,就算她又盛气凌人又坏脾气，但她会挡在我们身前来着。,"Even if she was bossy and had a temper, she always stood up for us.","Даже если она была властной и вспыльчивой, она всегда вставала перед нами на защиту."
+line-36,诗怀雅,一句话也不说，一点也不懂撤退。什么事情都自己冲在第一位，从来不向我们寻求帮助......,"She never said anything, but she never backed down. She was always the first to charge ahead, and never asked us for help...","Ни слова не говоря, она совершенно не умела отступать. Всегда бросалась в гущу событий первой, никогда не просила нас о помощи..."
+line-37,诗怀雅,比她大的孩子也被她打过。只有她能把老陈从小时候那种怪状态里拉出来。,She beat up kids who were older than her. She was the only one who could get Ch'en to snap out of her funks.,"Ей доставалось и от детей постарше. Только она могла вытащить Чэнь из того странного состояния, в котором та была в детстве."
+line-38,诗怀雅,我很怕......,I'm afraid that...,Мне очень страшно...
+line-40,星熊,不会的。,She won't.,Этого не случится.
+line-42,诗怀雅,......,......,...
+line-44,星熊,我说啊，老陈这个人，心口不一。,"I'm telling you, Ch'en's heart is rarely on the same page as her mouth.","Знаешь, Чэнь... у нее на уме одно, а на языке другое."
+line-45,星熊,她可是龙门的陈。就算她嘴上这么说，但她的梦想，她的目标，她的一生，都在这里。,"But, she will always be Ch'en of Lungmen. No matter what she might say, all her dreams, all her goals, her entire life... has always been right here.","Она — Чэнь из Лунмэня. Даже если она говорит подобное, её мечты, её цели, вся её жизнь — всё здесь."
+line-47,诗怀雅,那你是为什么要阻拦她？,"So, why'd you try to stop her then?",Тогда зачем ты её останавливаешь?
+line-49,星熊,......当然是担心她会死。,...I was worried she'd get herself killed. Obviously.,"...Конечно, потому что боюсь, что она погибнет."
+line-50,星熊,诗怀雅，以后你就要担当起近卫局的重任了。,"Swire, you'll have an important role in the L.G.D. after this.","Сваровски, в будущем тебе придется взять на себя основную ответственность в Департаменте охраны."
+line-52,诗怀雅,我怎么有那个能力？我又不是她......,As if I could do that. I'm not her...,Как я могу с этим справиться? Я ведь не она...
+line-54,星熊,哟，你居然会承认自己不如她？,"Oh, so you're admitting she's better than you?","Ого, ты действительно признаешь, что уступаешь ей?"
+line-56,诗怀雅,我只是觉得自己不适合近卫局！,I just don't think I'm cut out for the L.G.D.!,"Я просто считаю, что не подхожу для Департамента охраны!"
+line-58,星熊,不，Missy。你很适合。,"No, Missy, you absolutely are.","Нет, Мисси. Ты очень даже подходишь."
+line-59,星熊,我不适合，老陈也不适合，九也不适合。,I'm not cut out for it. Neither is ol' Ch'en. Or Nine.,"Я не подхожу, Чэнь тоже не подходит, и Девять не подходит."
+line-60,星熊,真正能让近卫局发光发热的是你。,The one who really makes the L.G.D. shine... is you.,"Именно ты та, кто сможет заставить Департамент охраны сиять."
+line-61,星熊,你一定得承担起这个责任，因为，只有你能承担起这个责任。,You have to take responsibility. You're the only one who can do it.,"Ты обязательно должна взять на себя эту ответственность, потому что только ты сможешь с ней справиться."
+line-62,星熊,我看淡了，却还是看不透。我希望这座城市，能真的成为所有人的城市。,"I'm jaded now, and there's a lot I don't see. I just want this city to become a place that accepts everyone.","Я многое повидала, но все еще не всё понимаю. Я надеюсь, что этот город действительно сможет стать городом для всех."
+line-65,？？？,我也这么觉得。,I feel the same.,Я тоже так думаю.
+line-67,诗怀雅,——你——,You—,— Ты —
+line-73,林雨霞,很久不见了，诗怀雅小姐。,"It's been a long time, Miss Swire.","Давно не виделись, мисс Сваровски."
+line-74,林雨霞,你好，星熊督察。,"Hello, Inspector Hoshiguma.","Здравствуйте, инспектор Хосигума."
+line-76,星熊,鼠王家的小姐怎么会到近卫局的地盘来的？,Why is the esteemed daughter of the Rat King at this run-down place?,Что привело барышню из семьи Крысиного Короля на территорию Департамента охраны?
+line-77,星熊,你想对她做什么？事先说好，你要是敢伤Missy一根头发......,"What are you planning to do to her? Let me say this, if you're planning to harm even a single hair on Missy's head...","Что ты хочешь ей сделать? Сразу говорю, если посмеешь хоть волос упасть с головы Мисси..."
+line-79,林雨霞,我没有敌意。,I have no such intentions.,У меня нет враждебных намерений.
+line-81,诗怀雅,你......做错了。,You... screwed up.,Ты... поступила неправильно.
+line-83,林雨霞,可能吧。,Maybe.,Возможно.
+line-84,林雨霞,有的时候我们只是没得选。,"Sometimes, we have no choice.",Иногда у нас просто нет выбора.
+line-86,诗怀雅,我不觉得有什么时候......我们是不能选的。,I don't think there's ever a time... where we don't have a choice.,"Я не думаю, что бывают моменты... когда у нас нет выбора."
+line-88,林雨霞,你抬头看看。,Look up in the sky.,Подними голову и посмотри.
+line-89,林雨霞,现在这天要下雪了。你能选择让它不下吗？,It's going to snow. Can you choose for it to stop?,"Скоро пойдет снег. Ты можешь выбрать, чтобы он не пошел?"
+line-91,诗怀雅,......,......,...
+line-92,诗怀雅,怎么会......下雪了？,Why... is it snowing?,Как... как пошел снег?
+line-96,,沉睡吧，沉睡吧♪,"Go to sleep, go to sleep♪","Спи, усни♪"
+line-97,,爸爸的白发，妈妈的针线♪,"Daddy's grey hair, Mommy's needles♪","Седина отца, мамина игла с ниткой♪"
+line-105,罗德岛干员,不行，超过溶解阈值了！必须强制开放排气阀！,"Crap, we're exceeding the solubility threshold! Manually release the exhaust valve, now!","Нет, превышен порог растворения! Нужно принудительно открыть выпускной клапан!"
+line-106,罗德岛干员,刚才的挥发已经造成了剧烈吸热效应，再不加大排放量，整个舱室都会损坏！,"That bout of volatility just caused a violent heat-absorbing effect. If we don't increase emissions, the entire cabin's going to be ruined!","Недавнее испарение уже вызвало сильный эндотермический эффект, если не увеличить выброс, весь отсек будет разрушен!"
+line-107,罗德岛干员,雨云也没有走太远......这样的话，说不定会下大雪啊。,"The rainclouds haven't moved much either... At this rate, we're in for some major snow.","Дождевые облака тоже недалеко... Если так пойдет, может пойти сильный снег."
+line-108,罗德岛干员,这位霜星......究竟是怎样一个感染者啊？,This FrostNova... what kind of person was she?,Эта Фростнова... кем она вообще является среди зараженных?
+line-112,,所有的梦境都沉进湖底♪,All dreams sink to the bottom of the lake~♪,Все сны погружаются на дно озера♪
+line-113,,......就连时间也在此冻结♪,...'tis a reality that even time cannot shake~♪,...Даже время застыло здесь♪
+line-121,梅菲斯特,咳咳，呼。,*cough* *cough*...,"Кхе-кхе, фух."
+line-122,梅菲斯特,......,......,...
+line-123,梅菲斯特,真是难听的歌。可恶。,Damnit... What an ugly song.,Ужасная песня. Проклятье.
+line-124,梅菲斯特,可恶！,Damn it!!,Черт возьми!
+line-125,梅菲斯特,为什么霜星就唱的那么好？我果然......还是没法唱好。,Why was FrostNova so good at it? I really... can't sing well...,Почему Фростнова поет так хорошо? Я все-таки... не могу петь так же.
+line-133,迷迭香,下雪了......,It's snowing...,Пошел снег...
+line-134,迷迭香,这个爷爷他......,This old man...,"Этот дедушка, он..."
+line-136,凯尔希,......,......,...
+line-137,凯尔希,全身结晶化超过百分之六十。即便是萨卡兹这种生物，也不可能再挪动分毫了。,His crystallization rate is over sixty percent now. Even a Sarkaz shouldn't be able to move.,"Кристаллизация тела более шестидесяти процентов. Даже для такого существа, как сарказы, пошевелиться уже невозможно."
+line-138,凯尔希,他的意识已经逸散......然而，金铁般的意志却继续贯彻了下去，传递给了身躯。,"His consciousness has already dissipated... However, his iron will continues to ripple from his body.","Его сознание уже рассеялось... однако, стальная воля продолжала действовать, передаваясь телу."
+line-139,凯尔希,......博卓卡斯替。,...Buldrokkas'tee.,...Патриот.
+line-141,阿米娅,仇恨。悔恨。憎恨......,Resentment. Hatred. Remorse.,Ненависть. Раскаяние. Злоба...
+line-142,阿米娅,这些都消失了。,It's all gone now.,Все это исчезло.
+line-143,阿米娅,最后的最后，是愤怒。,The only thing that's left is wrath.,В самый последний момент осталась ярость.
+line-144,阿米娅,对霜星遭遇的不甘。对塔露拉行径的敌视，对乌萨斯和卡兹戴尔无穷的怀念......,The unwillingness to accept FrostNova's fate. The hostility towards Talulah's actions. The endless longing for Ursus and Kazdel...,"Обида за судьбу Фростновы. Враждебность к поступкам Таллулы, бесконечная тоска по Урсусу и Каздель..."
+line-145,阿米娅,炽烈不灭的愤怒。为一切不公遭遇和身边死去的人的愤怒......对会去捉弄所有人的命运的愤怒。,A fiery and unquenchable wrath. For all the injustice around the world. For all those who fell around him... Towards those that would play with the fates of others.,"Пылающая, неугасающая ярость. Ярость за все несправедливости и погибших рядом людей... ярость на судьбу, что играет всеми."
+line-147,凯尔希,事实上，反抗命运，等于反抗一切。正是一切促成了所谓“命运”这个概念。,To resist fate is to resist everything. Everything that contributes to the idea of 'destiny.',"По правде говоря, сопротивление судьбе равносильно сопротивлению всему. Именно всё сущее сформировало понятие «судьбы»."
+line-148,凯尔希,博卓卡斯替的怒火，正对着整片大地。,Buldrokkas'tee's wrath... scorched this entire world.,Ярость Патриота направлена на всю эту землю.
+line-150,阿米娅,......这一整片不公的大地。,"...This entire, injustice-filled world.",...На всю эту несправедливую землю.
+line-151,阿米娅,......爱国者先生......,...Mr. Patriot...,...Мистер Патриот...
+line-153,盾卫,手拿开。,Move your hand.,Убери руку.
+line-154,盾卫,你，卡特斯感染者。,"You, Cautus Infected.","Ты, зараженная картес."
+line-155,盾卫,......大尉未竟的事业，我们替他完成。,...We will complete the Captain's unfinished business.,"...Дело капитана, которое он не завершил, мы доделаем за него."
+line-157,迷迭香,......已经够了。,...It's enough.,...Этого достаточно.
+line-158,迷迭香,你们想让他的死毫无价值？,Do you want him to die for nothing?,Вы хотите сделать его смерть бессмысленной?
+line-159,迷迭香,他一点都不想你们死，他是要你们自己去发掘道路。,He didn't want any of you to die. He wanted all of you to find another path.,"Он вовсе не хотел, чтобы вы погибли, он хотел, чтобы вы сами нашли свой путь."
+line-160,迷迭香,他为了让你们活下去，选择孤独地死......！,He chose to die alone so that all of you could live...!,"Чтобы вы жили, он решил умереть в одиночестве...!"
+line-162,盾卫,谁说死的会是我们？,Who said we'll be the ones who die?,"Кто сказал, что погибнем мы?"
+line-163,盾卫,而且我们听见了。,And we also heard what he said.,И мы слышали.
+line-164,盾卫,......卡特斯人。你是未来一切的祸源。,...Cautus. You're the source of all the ruin to come.,...Картес. Ты — источник всех будущих бед.
+line-165,盾卫,那些古老预言，无不实现。,The ancient prophecies have all been fulfilled.,Древние пророчества сбываются.
+line-166,,但霜星已经选择相信我们！,But FrostNova put her faith in us!,Но Фростнова уже решила поверить нам!
+line-168,盾卫,......但......,...Still...,...Но...
+line-169,盾卫,霜星她......连大尉都......,FrostNova... and now even the Captain...,Фростнова... даже капитан...
+line-170,,他当然不能直接相信霜星的评判！,Of course he wouldn't just buy into FrostNova's assessment!,"Конечно, он не может просто так доверять суждению Фростновы!"
+line-172,,只有他忽视自己女儿的评价......,He just happened to ignore his daughter's opinion...,Только если он проигнорирует оценку собственной дочери...
+line-174,,他才不是盲目的！,He didn't go into any of this on blind faith.,Он вовсе не слеп!
+line-176,,他做出的判断......才是公正的！,The decision he made... is truly just!,"Суждение, которое он сделал... и есть справедливое!"
+line-178,,而你们却选择相信一个预言？,And you choose to believe some prophecy?,А вы решаете поверить в пророчество?
+line-180,盾卫,......不，我们不是相信预言。,"...No, it's not that we believe in the prophecy.","...Нет, мы верим не в пророчество."
+line-181,盾卫,我们是相信大尉。,We believe in the Captain.,Мы верим в капитана.
+line-182,,......霜星的糖是辣味。,...FrostNova's candy was spicy.,...Конфета Фростновы острая на вкус.
+line-184,盾卫,......什么？！,...What?!,...Что?!
+line-185,盾卫,叶莲娜她......把糖给你尝了？,Yelena... let you try her candy?,Елена... она дала тебе попробовать конфету?
+line-186,,我信任她，她也信任我。,"I trusted her, and she trusted me.","Я доверяю ей, и она доверяет мне."
+line-188,,如果你们真想取谁性命......,If you really want to take someone's life...,Если вы действительно хотите забрать чью-то жизнь...
+line-190,,至少自己先亲眼看过！;别跟着别人走！;得凭自己的意志坚持到最后。,At least be there to see it yourself!;Don't blindly follow someone else!;You must follow your own will until the bitter end.,"То сначала увидьте всё своими глазами! Не идите за другими! Нужно упорно идти до конца, основываясь на своей воле."
+line-192,盾卫,......,......,...
+line-193,盾卫,不。,No.,Нет.
+line-194,盾卫,罗德岛的，你有些话，我们能理解。但有些我们不会同意。,"Rhodes Island, we get some of what you're saying. But we'll never see eye-to-eye.","Родос, есть вещи, которые мы понимаем. Но с другими мы не согласимся."
+line-195,盾卫,我们追随大尉一生，也不是完全是追随他这个人。,"We've followed the Captain our entire lives, but we we didn't do it blindly.","Мы следовали за капитаном всю жизнь, но это не значит, что мы следовали только за ним как за человеком."
+line-196,盾卫,如果——如果哪一天，你身边的卡特斯女孩真的也成为塔露拉的这般暴君......,"If... one day, that Cautus girl there turns into a tyrant like Talulah...","Если — если в один день та девушка-картес рядом с тобой действительно станет таким же тираном, как Таллула..."
+line-197,盾卫,我们会送你们上路。,We will end you.,Мы отправим вас на тот свет.
+line-198,盾卫,大尉反抗的所有人......所有奴役者，所有恶王，所有压迫他人者，所有造成灾难者，都逃不过。,"The Captain fought against all those people... against slavers, oppressors, corrupt rulers, and those who brought ruin. None could escape.","Все, против кого восставал капитан... все угнетатели, все злые короли, все, кто притеснял других, все, кто сеял катастрофы, никто не уйдет."
+line-199,盾卫,大尉想过。大尉知道天灾杀死的切尔诺伯格人，大尉知道枉死的感染者战士，大尉知道不明就里牺牲的整合运动。,The Captain knew. About all the people in Chernobog who lost their lives to the Catastrophe. About all our battle brothers who died in vain. ,"Капитан думал об этом. Капитан знал о людях Чернобога, убитых катастрофой, капитан знал о зря погибших воинах-зараженных, капитан знал о «Воссоединении», которое жертвовало собой, не понимая причин."
+line-200,盾卫,他悔恨，但他终归无法逃开。现在的我们不一样了。我们只属于大尉和他的信念，而不是什么整合运动。,"He had his regrets, but knew he couldn't escape. He has set us free now, though. We belong only to the Captain and the ideals he fought for, not to Reunion.","Он раскаивался, но в конце концов не смог избежать этого. Мы сейчас другие. Мы принадлежим только капитану и его вере, а не какому-то «Воссоединению»."
+line-201,盾卫,我们日后就是“盾”。不只是感染者之盾。我们是受奴役者之盾。,"We will take up his 'Aegis' from now on. Not as the Aegis of the Infected, but as defenders of all the enslaved.",Мы отныне — «Щит». И не только щит зараженных. Мы — щит угнетенных.
+line-202,盾卫,我们会监视你，卡特斯人。只要你有一点差错，我们绝不会放过你。,"We'll keep an eye on you, Cautus. If you take even a single step onto the wrong path, we swear to hunt you down.","Мы будем следить за тобой, картес. Стоит тебе сделать хоть малейшую ошибку, мы тебя не пощадим."
+line-203,盾卫,这些预言......就让它成为秘密。,We will treat these prophecies... as our secrets.,Эти пророчества... пусть останутся в секрете.
+line-204,盾卫,因为在这之前，还有一个暴君在指挥塔等着我们。,"Because before that, we have a tyrant waiting for us in the control tower.",Потому что до этого нас еще ждет тиран в командной башне.
+line-206,凯尔希,......导致各位与我们开战，造成一系列惨剧的人，正是整合运动的领袖，塔露拉。,"...The person who pushed you into a war against us and brought about this chain of tragedies is the leader of Reunion, Talulah.","...Человек, который привел вас к войне с нами и вызвал череду трагедий, — это лидер «Воссоединения», Таллула."
+line-208,盾卫,我们去重整队伍。我们要告诉游击队这个消息。,We're going to regroup. We need to tell the guerrillas the news.,Мы пойдем перегруппируемся. Нужно сообщить эту новость партизанам.
+line-209,盾卫,至于你们......你们愿意的话，就继续执行你们的任务。,"As for you... Continue to carry out your mission, if that's what you want.","Что касается вас... если хотите, продолжайте выполнять свою задачу."
+line-210,盾卫,雪花......,Snow... flakes...?,Снежинки...
+line-211,盾卫,这场大雪......是叶莲娜来接走大尉了吗......？,This heavy snow... Is Yelena coming to pick up the Captain...?,Этот сильный снегопад... Елена пришла забрать капитана...?
+line-213,凯尔希,......,......,...
+line-214,凯尔希,阿米娅，别太放在心上。,"Amiya, don't be too concerned about it.","Амия, не принимай это слишком близко к сердцу."
+line-215,凯尔希,萨卡兹人长时间接触源石，他们的一些生体记忆会和源石晶体混合，不断地在大地上流传，在萨卡兹人体内累积。,"The Sarkaz people have a long history with Originium. Their memories mix with Originium and become one with the land, returning to their own bodies.","Когда сарказы долго контактируют с ориджиниумом, некоторые их биологические воспоминания смешиваются с кристаллами, распространяясь по земле и накапливаясь внутри тел сарказов."
+line-216,凯尔希,有的时候，一些一直传递着源石结晶的种群会将一些信息规划到一起。,"Sometimes, certain tribes that have long passed down these Originium crystals will gather this information in one place.","Порой некоторые популяции, передающие кристаллы ориджиниума, могут объединять эти фрагменты информации."
+line-217,凯尔希,在不断使用法术的过程中，这些信息阴差阳错地，被通过各种方式呈现出来。,"Through the continuous use of Arts, this information, mixed together unexpectedly, manifests in different ways.","В процессе постоянного использования магии эти данные, волею случая, проявляются разными способами."
+line-218,凯尔希,它们大多数无意义，而少数则是过时的信息。预言并无可参考性。,"Most of these messages are lost to time, their contents jumbled or outdated. There is no basis for these prophecies.","Большинство из них бессмысленны, а некоторые — просто устаревшая информация. Пророчества не имеют под собой оснований."
+line-220,阿米娅,但它也会直接对人产生影响。,"But, they directly affect other people.",Но они также могут напрямую влиять на людей.
+line-221,阿米娅,其中一个原因就是......这一切让听到预言的人，向预言的方向发展了，是不是？,"Like... someone hears these prophecies and starts to try to fulfill them, right?","Одна из причин заключается в том, что... всё это заставляет людей, слышащих пророчества, развиваться в их направлении, разве не так?"
+line-223,凯尔希,......,......,...
+line-225,阿米娅,我分不清那是暗示......还是真的将结果带到了现在。我不清楚。只是......,"I can't tell if these ideas are just vague whispers... or seeds that can bloom into reality. I really can't tell, but...","Я не могу отличить, это внушение... или они действительно привели результат в настоящее. Не знаю. Просто..."
+line-226,阿米娅,他本可以杀我。,He could have killed me.,Он мог убить меня.
+line-227,阿米娅,但他想起......他想起......,But... he thought...,Но он вспомнил... он вспомнил...
+line-236,爱国者,那我现在就杀了她。,I'll kill her now.,Тогда я убью её сейчас.
+line-241,霜星,不，你怎么能认定她就是坏人？,Stop. How are you so sure that she's our enemy?,"Нет, как ты можешь утверждать, что она плохой человек?"
+line-243,爱国者,她是科西切传承！她必将如那条老黑蛇般，毒杀我们所有人！,"She is Kashchey's heir! She'll poison us all, just like that old serpent!","Она — наследие Кощея! Она обязательно, как та старая черная змея, отравит нас всех!"
+line-245,霜星,不对，你这老顽固......才不。,"No, you stubborn old man... You're wrong.","Неправда, ты, старый упрямец... вовсе нет."
+line-246,霜星,即使她最后一定会变成那样，我们也不可能杀了现在的她。,"Even if she's bound to turn out like that in the end, we can't kill her now.","Даже если в конце она обязательно станет такой, мы никак не можем убить её сейчас."
+line-248,爱国者,......,......,...
+line-250,霜星,因为现在的她不是什么科西切什么，哎，我听不懂你说这些。那是谁啊？她只是塔露拉。,"Because she's not Kashchey right now. Eh, who even is that? I can't understand you. All I know is, she's just Talulah.","Потому что сейчас она не какой-то Кощей или еще кто, эх, я не понимаю, о чем ты говоришь. Кто это вообще? Она просто Таллула."
+line-252,爱国者,......你从哪里学来这些？你的斗争心会因此变得杂乱。,...Who put these ideas in your head? It will twist your will to fight.,...Где ты этому научилась? Твой боевой дух станет от этого сумбурным.
+line-254,霜星,什么杂乱......啥呀，老顽固，纯粹斗争心什么的，你要真是，我没可能遇上你。,"Twist? ...As if, old man. This whole idea of a pure warrior's spirit? If you really had that, I never would've met you.","Какой сумбур... что за ерунда, старый упрямец, если бы я была лишь чистым боевым духом, я бы вряд ли встретила тебя."
+line-255,霜星,那样，我们也没办法像现在这样坐在火边喝汤了。,"If you really had that, we wouldn't be able to sit around a fire and have soup like we are now.",Тогда мы бы не могли сейчас сидеть у костра и пить похлебку.
+line-257,爱国者,你才......16岁。,You're... just sixteen.,Тебе всего... 16 лет.
+line-258,爱国者,汤冷了吗？,Did your soup get cold?,Похлебка остыла?
+line-260,霜星,一直是冷的。这样才好些。,Always been cold. It's better that way.,Она всегда холодная. Так даже лучше.
+line-262,爱国者,......,......,...
+line-263,爱国者,我听你一回。,I'll listen to you this time.,Я послушаю тебя один раз.
+line-265,霜星,不对。父亲，才不对。,"No, Father. That's not how it works.","Неправильно. Отец, это совсем не так."
+line-266,霜星,如果你觉得对，那你......无论以后发生什么，都应该觉得它对。,"If you believe you're right, then... no matter what happens, you should keep on believing that.","Если ты считаешь, что это правильно, то ты... чтобы ни случилось в будущем, должен считать, что это правильно."
+line-267,霜星,因为，如果塔露拉出了事情，那是她和她身边人的问题。,"Because if something happens to Talulah, that's between her and her people.","Потому что, если с Таллулой что-то случится, это её проблемы и проблемы людей рядом с ней."
+line-268,霜星,但现在才是真实的。对不对，父亲？,"But reality is just what's in front of us. Right, Father?","Но настоящее реально. Правда же, отец?"
+line-269,霜星,无论未来是什么样，现在的我就只是我，你也只是你。,"No matter what the future has in store, right now, I am I, and you are you.","Каким бы ни было будущее, сейчас я — это просто я, а ты — это просто ты."
+line-270,霜星,我们想得再多，今天的你我还是你我。会变的只是我们，下决定的也是我们。,"No matter how much you dwell on it, we are who we are today. The only ones who we can change are ourselves, and we are the ones who will make that decision.","Сколько бы мы ни думали, сегодня ты и я — все еще ты и я. Меняться будем мы, и решения принимать будем тоже мы."
+line-271,霜星,我们和她一起走走看吧，就试试。,Let's try walking her path and see what happens.,"Давай пройдем этот путь вместе с ней, просто попробуем."
+line-273,爱国者,......你以后会是个伟大的领袖。,...You'll be a great leader in the future.,...Ты станешь великим лидером.
+line-275,霜星,我不想做什么领袖。我只想和你，和兄弟姐妹，和叔叔阿姨们，好好活着。,"I don't want to become a leader. I just want a comfortable life with my brothers and sisters, my uncles and aunts, and you.","Я не хочу быть никаким лидером. Я просто хочу жить с тобой, с братьями и сестрами, с дядями и тетями, нормально жить."
+line-277,爱国者,我会记住。,I'll remember that.,Я запомню.
+line-279,霜星,会记住吗？,Are you sure?,Запомнишь?
+line-281,爱国者,我不会忘。,I won't forget.,Я не забуду.
+line-289,阿米娅,迷迭香......医生......博士......,Rosmontis... Dr. Kal'tsit... Doctor...,Розмарис... доктор... Доктор...
+line-290,阿米娅,......他可以杀我。博卓卡斯替先生......可以杀我。,...He could've killed me... Mr. Buldrokkas'tee... could have killed me.,...Он мог убить меня. Мистер Патриот... мог убить меня.
+line-291,阿米娅,但我看见......我看见他脑中所想。,But I saw... I saw what he was thinking.,"Но я увидела... я увидела, о чем он думал."
+line-292,阿米娅,是他没有动手。是他最后停下。,"He didn't do it. He stopped himself, at the end.",Это он не стал действовать. Это он в конце остановился.
+line-293,阿米娅,我还听见......听见......,I can still... hear him...,Еще я услышала... услышала...
+line-295,凯尔希,阿米娅。,Amiya.,Амия.
+line-296,凯尔希,告诉我最重要的那句。他最后说了什么？,Tell me the most important thing. What was the last thing he said?,Скажи мне самые важные слова. Что он сказал в конце?
+line-298,阿米娅,......,......,...
+line-302,,“我看过厄运与惨剧。”,'I have seen. Woe and tragedy.',«Я видел беды и трагедии.»
+line-303,,“我看过死亡与屠戮。”,'I have seen. Death and carnage.',«Я видел смерти и убийства.»
+line-304,,“我看过遗弃与亵渎。”,'I have seen. Neglect and blasphemy.',«Я видел забвение и кощунство.»
+line-305,,“但有人与我说过，事在人为。所以，即使未来一切，都在你我眼里......”,"'But someone once told me. It is all in our hands. If in the future, this is all that awaits us...'","«Но кто-то говорил мне, что всё в руках человека. Поэтому, даже если всё будущее... находится на наших глазах...»"
+line-306,,“幼小的魔王啊。事在人为。如果这是命运......”,"'O, little King of Sarkaz. It is all in our hands. If this is fate...'",«Маленький король демонов. Всё в руках человека. Если это судьба...»
+line-307,,“我不相信。”,'Then I reject it.',«Я не верю.»
+line-311,阿米娅,他说......他问......,He said... He asked...,Он сказал... он спросил...
+line-314,,他感叹......,He sighed...,Он воскликнул...
+line-318,,“我王......你往何处去？”,'My Lord... Where will you go?',«Мой король... куда ты идешь?»
+line-322,阿米娅,——就是这样。,...Then nothing more.,— Вот так.
+line-323,阿米娅,医生......我全读了。我全部都读了。,Doctor... I've read it all. I've seen everything.,Доктор... я прочла всё. Я всё прочла.
+line-324,阿米娅,我读了他的一生。,I read his entire life.,Я прочла его жизнь.
+line-326,凯尔希,阿米娅......,Amiya...,Амия...
+line-327,凯尔希,博卓卡斯替，自认一生两次背叛了自己的信仰。,Buldrokkas'tee... He admitted that he betrayed his convictions twice in his life.,"Патриот считал, что дважды за свою жизнь предал свою веру."
+line-328,凯尔希,一次，是他离开卡兹戴尔，不再作为一个萨卡兹的萨卡兹战士而活。,"The first, was when he left Kazdel and walked away from his life as a Sarkaz warrior.","Первый раз — когда покинул Каздель, перестав жить как воин-сарказов."
+line-329,凯尔希,第二次，是他起身对抗乌萨斯，不再作为一个乌萨斯帝国的战士而活。,"The second, was when he stood up against Ursus and walked away from his life as a warrior of the Ursus Empire.","Второй раз — когда восстал против Урсуса, перестав жить как воин Урсуса."
+line-330,凯尔希,我想，刚刚他做出了第三次背叛。他背叛了他服务的整合运动和感染者，不再作为一个整合运动的战士而活。,"And just now... I'd say he made his final betrayal. He betrayed Reunion and the Infected he served, and stopped being a warrior of the Reunion Movement.","Думаю, только что он совершил третье предательство. Он предал «Воссоединение» и зараженных, которым служил, перестав жить как воин «Воссоединения»."
+line-331,凯尔希,他死了，他的背叛行径结束了。,With his death ends his last act of betrayal.,"Он умер, его предательство завершилось."
+line-332,凯尔希,但是——,But...,Но —
+line-334,阿米娅,他是因为一直高举着自己的信念，才会去背叛他重视的一切。,"He betrayed everything he cared about, because he has always stood up for his beliefs.","Он предал всё, что ценил, только потому, что всегда высоко держал свои убеждения."
+line-336,迷迭香,但这不是，对的吗？,"But this... isn't right, is it?",Но разве это... не правильно?
+line-338,凯尔希,这种“崇高的背叛”，对于欺世盗名的人，是一种解脱，是轻松地走向最好的结果。,This kind of 'sublime betrayal' is a sort of release for those who deceive the world. It is an easy way to move things towards the best outcome.,"Такое «высокое предательство» для тех, кто лишь жаждет славы, — это избавление, легкий путь к наилучшему результату."
+line-339,凯尔希,对博卓卡斯替，却不是这样。,But not for Buldrokkas'tee.,Но для Патриота это было не так.
+line-341,阿米娅,......难道......,Do you mean that...,...Неужели...
+line-343,凯尔希,阿米娅，说吧。,"Speak up, Amiya.","Амия, говори."
+line-345,阿米娅,......卡兹戴尔是博卓卡斯替先生的故乡。,...Kazdel is Mr. Buldrokkas'tee's home.,...Каздель — родина мистера Патриота.
+line-346,阿米娅,即使他远在这里，他一直在回望卡兹戴尔......他不是不想回去，而是不能再回去，他要为第一次背叛......付出代价。,"Even though he's come so far, he's always wanted to go back to Kazdel... It's not that he didn't want to go back home, but that he couldn't. He had to pay the price first... for his betrayal.","Даже находясь так далеко, он всегда оглядывался на Каздель... он хотел вернуться, но не мог, он должен был заплатить за свое первое предательство."
+line-347,阿米娅,乌萨斯是他的祖国。他为乌萨斯征战一生......也把儿子的死归咎为自己。,Ursus is his motherland. He fought for Ursus all his life... and blamed himself for the death of his son.,Урсус — его вторая родина. Он сражался за Урсус всю жизнь... и винил себя в смерти сына.
+line-348,阿米娅,他认定乌萨斯的邪恶，却又为这片土地，战斗到最后......献出生命。第二次背叛，他也付出了代价。,"He believed that Ursus was evil, but for the sake of this land, he gave his life... fighting until the very end. He also paid the price for his second betrayal.","Он осознавал зло Урсуса, но все же сражался за эту землю до конца... отдал жизнь. За свое второе предательство он тоже заплатил."
+line-349,阿米娅,这一次......他必须反对塔露拉。但是，他预见了他曾经保护的人里，会有人因他的举动而死。,This time... he had to stand up against Talulah. But he foresaw that some of the people he strove to protect would die because of his actions.,"На этот раз... он должен был выступить против Таллулы. Но он предвидел, что люди, которых он защищал, погибнут из-за его действий."
+line-350,阿米娅,即使他所做的决定维护了感染者的未来，他却......却只为了将死的人......感到痛苦。,"Even though the decision he made preserved a future for the Infected, he... only felt pain... for the deceased.","Даже если его решение защитило будущее зараженных, он... он чувствовал боль лишь за тех, кто должен был умереть."
+line-351,阿米娅,这是他第三次背叛，也是为什么他下定决心要为之赎罪。这场战斗从头到尾，都是为了弥补这次背叛可能带来的后果。,"This is his third act of betrayal, and the reason he was so determined to atone for it. From beginning to end, this battle was to make up for the consequences of his betrayal.","Это его третье предательство, и именно поэтому он решился искупить вину. Эта битва от начала до конца была лишь попыткой исправить последствия этого предательства."
+line-352,阿米娅,这三次，命运其实都推着他走向更远的地方，但他只想回望。痛恨命运的残酷和捉弄，不愿随波逐流的他硬是背起了所有后果。,"Through these three times, fate ended up pushing him further and further when he just wanted to turn back. He hated the cruelty and mockery of fate. He never wanted to follow it, but he bore the consequences for it all the same.","Эти три раза судьба, по сути, толкала его дальше, но он хотел лишь оглядываться. Ненавидя жестокость и насмешки судьбы, не желая плыть по течению, он взял на себя все последствия."
+line-353,阿米娅,十年，二十年......我还能理解。可是......太长时间了。他对抗那些阴差阳错的后悔莫及，是在太长时间了。,"Ten years, twenty years... I'd be able to understand. But... too much time had passed. After facing all those regrets for so many years, too much time had passed.","Десять лет, двадцать лет... я еще могу понять. Но... слишком долго. Он слишком долго боролся с тем сожалением, которое возникло из-за случайностей."
+line-354,阿米娅,最后的最后，就连我也不能明白。,"At the very end, even I could not understand.",В самый последний момент даже я не могла понять.
+line-355,阿米娅,他明明可以杀我，却又在最后停止了。,"He could've taken my life, but he stopped at the end.","Он мог убить меня, но остановился."
+line-357,凯尔希,......他战胜了他个人的痛苦，他数百年的信条，和他对整片大地的热爱。,"...He defeated his lifetime of suffering, his centuries-old ideology, and his love for this entire world.","...Он победил свою личную боль, свои многовековые догматы и свою любовь ко всей земле."
+line-358,凯尔希,他没有再遵循他恪守无数岁月的准则。他......向命运屈服了。,He no longer followed the principles he had adhered to for countless years. He... succumbed to fate.,"Он больше не следовал правилам, которые соблюдал бесчисленные годы. Он... склонился перед судьбой."
+line-359,凯尔希,不，这样说玷污了他。应该说，他选择无视了他一直在反抗的东西，他跨过了自己的心结。,"No, saying that would defile his memory. Rather, he chose to ignore everything he had been resisting, and overcame the final obstacle within his own heart.","Нет, так говорить — значит осквернить его. Скорее, он выбрал проигнорировать то, против чего боролся, он преодолел свои внутренние терзания."
+line-360,凯尔希,他把未来交托给了你。这一次，他爽快地选择了他认为正确的事情，而不再是为了维持某种理念而受尽折磨。,"He entrusted the future to you. This time, he gladly chose to do what he thought was right, rather than torture himself to maintain a certain ideal.","Он доверил будущее тебе. В этот раз он решительно выбрал то, что считал правильным, и больше не страдал ради поддержания какой-то идеи."
+line-361,凯尔希,当然，在他内心深处，这个部分，就像你描述的......,"Of course, deep in his heart, this part is as you described...","Конечно, в глубине его души эта часть, как ты и описала..."
+line-362,凯尔希,原本属于塔露拉，现在属于你，但它一直属于霜星。,"It once belonged to Talulah, and now belongs to you. But it has always belonged to FrostNova.","Раньше принадлежала Таллуле, теперь принадлежит тебе, но она всегда принадлежала Фростнове."
+line-364,阿米娅,爱国者。霜星。,Patriot... FrostNova...,Патриот. Фростнова.
+line-366,阿米娅,凯尔希。迷迭香......还有Dr.{@nickname}。,Dr. Kal'tsit. Rosmontis... and Dr. {@nickname}.,Кель'си. Розмарис... и Доктор {@nickname}.
+line-367,阿米娅,我要结束这场战争。,I will end this war.,Я закончу эту войну.
+line-368,阿米娅,就在这里。就是现在。,Right here. Right now.,Здесь. Сейчас.
+line-370,迷迭香,嗯。,Right.,Мгм.
+line-371,迷迭香,我会跟着你，阿米娅。一直。,"I'll be with you, Amiya. Always.","Я буду следовать за тобой, Амия. Всегда."
+line-373,凯尔希,......,......,...
+line-377,,即使你能救许多人，你也会带去无数痛苦。,"Even if you can save many people, you'll cause immense suffering.","Даже если ты сможешь спасти многих, ты принесешь с собой бесчисленные страдания."
+line-378,,愤怒。我的愤怒，来自这命运对大地的不公。,Anger. My anger comes from the injustice that fate has dealt to this world.,Ярость. Моя ярость исходит из несправедливости этой судьбы к земле.
+line-382,凯尔希,难道，穿过了无数年......来到了现在？,After countless years... are things finally coming to a head?,"Неужели, преодолев бесчисленные годы... придя в настоящее?"
+line-383,凯尔希,怎么会有这种事？这个预言，不就是萨卡兹历史的碎片？,How could something like that happen? This prophecy... is it not just another fragment of Sarkaz history?,Как такое возможно? Разве это пророчество не просто осколки истории сарказов?
+line-391,,核心城仓库区,Core City Warehouse District,Складская зона города-ядра
+line-393,萨卡兹雇佣兵,——嗯？,...Hm?,— Хм?
+line-394,萨卡兹雇佣兵,爱国者的手下怎么到这里来了。这里不是你们的巡逻区域。,Why is one of Patriot's men over here? This isn't your patrol area.,Что тут делают люди Патриота? Это не ваш сектор патрулирования.
+line-397,游击队战士,你，松手放开他。,"You, let him go.","Ты, отпусти его."
+line-399,罗德岛近卫干员？,唔......！,Ngh...!,Угх...!
+line-401,萨卡兹雇佣兵,这次，可以。下次劝你不要多管闲事。,"I'll let it slide this time. A little warning, don't stick your nose where it doesn't belong next time.",В этот раз ладно. В следующий раз советую не совать нос не в свои дела.
+line-403,游击队战士,我刚刚接到通知。,I just received news.,Я только что получил сообщение.
+line-404,游击队战士,......爱国者已经去世。,...Patriot has passed away.,...Патриот скончался.
+line-406,罗德岛近卫干员？,什么？！,What?!,Что?!
+line-409,萨卡兹雇佣兵,......,......,...
+line-410,萨卡兹雇佣兵,还真是个大消息。,That's some big news.,Вот так новости.
+line-412,游击队战士,所以，现在......我们也没有再维持以前那种状态的理由了。,"So, right now... we have no more reason to keep up this charade. ","Поэтому, теперь... у нас нет причин сохранять прежний статус."
+line-413,游击队战士,你们这帮魔族佬，比我们的萨卡兹要恶臭上好几倍。,Your band of devils smells far worse than any of our Sarkaz.,"Вы, ребята, хуже наших сарказов в несколько раз."
+line-415,罗德岛近卫干员？,爱国者去世了是怎么回事？！,What happened? How did Patriot die?!,Как это Патриот умер?!
+line-417,游击队战士,先把这个整合运动的渣滓解决！,Take care of this Reunion scum first!,Сначала разберемся с этими отбросами «Воссоединения»!
+line-419,萨卡兹雇佣兵,你们要和这座核心城对抗吗？,You're picking a fight with the core city?,Вы хотите противостоять этому городу-ядру?
+line-421,游击队战士,有什么不可以？,What's wrong with that?,Почему бы и нет?
+line-423,罗德岛近卫干员？,......就连爱国者也死了。你们的罪恶行径，我已经无法忍受了！,...Even Patriot is dead. You bastards... I won't tolerate you any longer!,...Даже Патриот умер. Я больше не могу терпеть ваши преступные деяния!
+line-425,罗德岛近卫干员？,如果爱国者都死了，整合运动还有什么存在的价值！,"If Patriot is dead, then what value does Reunion even have?!","Если Патриот умер, какой смысл «Воссоединению» существовать!"
+line-426,罗德岛近卫干员？,游击队的！有什么我能帮上你的......你就说！,Guerrillas! If there's anything I can do to help... tell me!,Партизаны! Чем я могу вам помочь... просто скажите!
+line-428,游击队战士,就让我们先把这些玩弄感染者生命的家伙先全部丢下核心城！,"First, we're going to throw everyone who would toy with the lives of the Infected... right off these city walls!","Давайте сначала сбросим всех этих гадов, играющих жизнями зараженных, с города-ядра!"
+line-436,凯尔希,Mantra-2，穿上制服。识别码可露希尔已经骇过，不要露出你们内藏的装备。,"Mantra-2, put on the uniform. Closure has already hacked the identification code, so make sure not to reveal your hidden weapons.","Mantra-2, наденьте форму. Идентификаторы были взломаны Клозер, не демонстрируйте ваше скрытое снаряжение."
+line-437,凯尔希,那件事件应该已经传开了。你们需要的是......,News of the incident should have spread already. What we need now is...,Тот инцидент должен был уже распространиться. Вам нужно...
+line-440,极境,混乱？,Chaos?,Хаос?
+line-442,凯尔希,不。秩序。去帮助游击队员们。让感染者、善意的整合运动和反抗不公的人，团结在他们的周围。,"No, order. Go help the guerrillas. Let the Infected, the well-intentioned Reunion members, and those who fight against injustice rally under one banner.","Нет. Порядок. Идите помогать партизанам. Пусть зараженные, доброжелательные члены «Воссоединения» и все, кто сопротивляется несправедливости, сплотятся вокруг них."
+line-443,凯尔希,即使塔露拉并没能成功设计爱国者的死也一样。,Just as if Talulah was unable to engineer Patriot's death.,Даже если Таллуле не удалось подстроить смерть Патриота.
+line-449,整合运动成员,什么......什么？他说什么？,What...? What? What did he say?,Что... что? Что он сказал?
+line-451,罗德岛近卫干员？,爱国者已经死了！,Patriot is dead!,Патриот умер!
+line-452,罗德岛近卫干员？,真正为了整合运动着想，为了我们战斗的爱国者，已经死了！,The one who was truly looking out for Reunion! The one who fought for all of us! Patriot is dead!,"Патриот, который действительно заботился о «Воссоединении» и сражался за нас, умер!"
+line-454,游击队战士,塔露拉主导了针对爱国者的阴谋......塔露拉是乌萨斯的间谍！,Talulah orchestrated this conspiracy against Patriot! ...She's an agent of Ursus!,Таллула организовала заговор против Патриота... Таллула — шпион Урсуса!
+line-456,整合运动成员,谁会信你的鬼话！,Who'd believe your nonsense?!,Кто поверит в этот бред!
+line-458,整合运动术师,不......塔露拉很奇怪。她下达命令，不让我们维持城内的通讯......,Wait... Talulah has been acting strangely. She gave an order forbidding us from maintaining communications in the city.,Нет... Таллула ведет себя странно. Она отдала приказ не поддерживать связь в городе...
+line-460,整合运动成员,这也算证据吗！,What does that prove?!,Это тоже доказательство?!
+line-462,整合运动成员,我证明......我知道雇佣兵打算伏击游击队！我看到他们的计划......他们已经疯了！,It proves... that the mercenaries are going to ambush the guerrillas! I see their plan... those lunatics!,"Я свидетельствую... я знаю, что наемники планировали засаду на партизан! Я видел их планы... они сошли с ума!"
+line-464,萨卡兹雇佣兵,你——,You—,Ты —
+line-466,游击队战士,住手！想保命，就别和我们敌对。或者，我们会把你们碾碎！,"Stop! Don't fight us, if you value your lives. Otherwise, we'll destroy you!",Прекратить! Хотите выжить — не выступайте против нас. Иначе мы вас раздавим!
+line-467,游击队战士,我们盾......会为了感染者，和所有敌人战斗到最后！即使敌人是塔露拉也无所谓！,"We are the Aegis of the Infected, and we'll battle every last enemy for our peoples! Even if we have to stand against Talulah!","Мы, Щиты... будем сражаться до конца за всех зараженных! Даже если враг — Таллула, нам плевать!"
+line-469,游击队战士,为了爱国者！,For Patriot!,За Патриота!
+line-472,罗德岛近卫干员？,为了爱国者！,For Patriot!,За Патриота!
+line-479,萨卡兹战士,似乎情况变得不太对。你们快走吧。,Things have gotten a bit messy. You should leave soon.,"Кажется, ситуация принимает нехороший оборот. Вам лучше уйти."
+line-481,幻影弩手,你们呢？,What about you?,А как же вы?
+line-483,萨卡兹战士,我们雇佣兵也有不同的喜好。我的确对塔露拉的阴谋没什么兴趣。加油，好好活。,"Us mercs have our own priorities. We don't care about Talulah's plots. Do your best, and live on.","У нас, наемников, свои предпочтения. Мне правда плевать на заговоры Таллулы. Удачи, живите долго."
+line-485,游击队战士,为了感染者的未来！,For the future of the Infected!,За будущее зараженных!
+line-487,幻影弩手,为了......,For...,Ради...
+line-488,幻影弩手,......浮士德队长！,...Captain Faust!,…командира Фауста!
+line-490,幻影弩手,为了所有被塔露拉背叛的同胞！为了浮士德！,For all our comrades who've been betrayed by Talulah! For Faust!,"Ради всех товарищей, преданных Таллой! Ради Фауста!"
+line-494,,爱国者死了！爱国者死了！爱国者因为塔露拉的诡计，被她害死了！塔露拉背叛了我们！,Patriot is dead! Patriot is dead! Talulah betrayed Patriot! Talulah betrayed us all!,Патриот мертв! Патриот погиб! Его погубила хитрая уловка Таллы! Талла предала нас!
+line-497,,可杀他的不是外人吗？我看见有别的人杀了他，不是塔露拉！,"Are you sure it wasn't an outsider that killed him? I saw someone else kill him, not Talulah!","Но разве его убил не чужак? Я видел, что его убил кто-то другой, не Талла!"
+line-500,,是爱国者和乌萨斯的军队勾结，想要害领袖！睁大眼看清楚，爱国者才是叛徒！！,Patriot plotted with the Ursus Army to try to kill the Leader! Open your eyes and see the truth! Patriot is the traitor!,"Это Патриот вступил в сговор с армией Урсуса, чтобы навредить лидеру! Откройте глаза и посмотрите внимательно, именно Патриот — предатель!"
+line-503,,......,......,……
+line-511,凯尔希,......,......,……
+line-512,凯尔希,爱国者势必预见到了这一切。,Patriot must have foreseen this.,Патриот наверняка предвидел всё это.
+line-513,凯尔希,只是他曾徒劳地对抗过风暴。就连盾也选了爱国者他最崇高的理念，而不是他合作的方针。,"But, his struggle against the storm was in vain. Even the 'Aegis' have adopted his most radical ideas, and not his pragmatic approach.","Просто он тщетно пытался противостоять буре. Даже его Щит выбрал самые возвышенные идеалы Патриота, а не его курс на сотрудничество."
+line-514,凯尔希,在这之后，核心城应该会陷入一片混乱。整合运动不复存焉。,"After all this, the core city should descend into chaos. The Reunion Movement no longer exists.",После этого Чернобог должен погрузиться в хаос. «Воссоединение» перестало существовать.
+line-515,凯尔希,迷迭香，这是你想要的复仇吗？,"Rosmontis, is this the revenge you wanted?","Розмари, этого ли ты хотела добиться своей местью?"
+line-517,迷迭香,......,......,……
+line-518,迷迭香,不。不是这样。这不是。我还没看到目标。不......,"No, not yet. Not like this. I haven't seen the target yet. No...",Нет. Всё не так. Это не то. Я еще не видела свою цель. Нет…
+line-520,凯尔希,不管你会面对谁，结果都只是相似的。,"No matter who you face, the outcome is the same.","С кем бы ты ни столкнулась, результат будет похожим."
+line-521,凯尔希,整合运动只是个符号。无论谁被夹在其中，做了什么......他们都不是某个个体。他们依然是整合运动这符号的一部分。,Reunion is just a symbol. No matter who is caught up in it or what they do... they are not an individual. They act as a part of Reunion.,"«Воссоединение» — лишь символ. Кем бы ни были люди, вовлеченные в это, и что бы они ни делали… они — не просто отдельные личности. Они по-прежнему часть того символа, которым является «Воссоединение»."
+line-522,凯尔希,复仇，就会走到这一步。我们无法分辨他们的面孔，我们只有消灭这个符号本身。,Revenge... will only get you this far. We cannot distinguish their faces. We can only eliminate the symbol itself.,"Месть неизбежно приведет к этому. Мы не можем различить их лица, мы можем лишь уничтожить сам этот символ."
+line-523,凯尔希,迷迭香，你可以继续去做。但是......这场报复，你觉得有收获吗？,"Rosmontis, you can continue to carry out your wishes. But... do you find this kind of vengeance satisfying?","Розмари, ты можешь продолжать это делать. Но… как ты думаешь, принесет ли эта кара хоть какую-то пользу?"
+line-525,迷迭香,凯尔希......,Kal'tsit...,Кал'цит…
+line-526,迷迭香,我真的做错了？,Am I wrong?,Я правда совершила ошибку?
+line-527,迷迭香,我......但......,I... I just...,Я… но…
+line-529,凯尔希,给你一个确定的答案并不负责。,It would be irresponsible of me to give you the answer.,Дать тебе однозначный ответ было бы безответственно.
+line-530,凯尔希,你该认同的事物，只有你自己有能力去追寻。迷迭香，要回答这个问题的人可能并不是我。,"Only you have the ability to pursue the things that you hold to be true. Rosmontis, I might not be the person who can answer that question.","То, во что ты должна верить, способна найти лишь ты сама. Розмари, возможно, я — не тот человек, который должен отвечать на этот вопрос."
+line-531,凯尔希,愤怒盘踞在我们的身体里，我们是否要放纵自己，让它流泻，凝结成仇恨？,"Anger is entrenched into our bodies. Do we want to indulge ourselves, to let it flow and condense into hatred?","Гнев живет внутри наших тел, должны ли мы позволить себе дать ему вылиться наружу, сгуститься в ненависть?"
+line-532,凯尔希,还是说，我们能让它变成更高昂的尺子，衡量我们之后一切行为，照亮我们的理智？,"Or, can we turn it into a higher judge that measures all our future actions and illuminates our sanity?","Или же мы можем превратить его в более высокую мерку, чтобы измерять все наши дальнейшие действия и просвещать наш разум?"
+line-533,凯尔希,"你是想分辨对错，还是想理解所有事情背后的成因？ ","Do you want to distinguish between right and wrong, or do you want to understand the reason why everything happens? ","Ты хочешь различать правильное и неправильное, или ты хочешь понять причины, стоящие за всеми этими событиями?"
+line-534,凯尔希,我们干员的生死，让你动摇的情景......以及我们因此感到种种情绪的理由。,"The lives and deaths of our operators, the sights that shake you... and the reasons why we feel these emotions.","Жизнь и смерть наших оперативников, сцены, которые заставляют тебя колебаться… и причины, по которым мы испытываем все эти эмоции."
+line-535,凯尔希,甚至是为什么总有些事情，迷迭香，即使你的心智将它们抹去，它们却依然在你的生命里残留......,"Even if there are certain things that your mind erases, Rosmontis, they will always remain within you...","И даже то, почему всегда остаются какие-то вещи, Розмари, которые, даже если твой разум стирает их, все равно остаются в твоей жизни…"
+line-536,凯尔希,也许我们的生命并无太多对错。去掉所有的符号，我们的生命才有自己的价值。,"Maybe there are very few things in our lives that actually come down to right or wrong. Remove all these symbols, and only then do our lives have value.","Возможно, в наших жизнях не так уж много правильного и неправильного. Отбросив все символы, наши жизни обретут свою собственную ценность."
+line-538,迷迭香,——,......,——
+line-539,迷迭香,凯尔希。,Kal'tsit.,Кал'цит.
+line-541,凯尔希,我在听。,I'm listening.,Я слушаю.
+line-543,迷迭香,我想知道原因。,I want to know the reason.,Я хочу знать причину.
+line-550,阿米娅,Dr.{@nickname}。 之后我们就要兵分两路了。,Dr. {@nickname}. We'll split up for the next part.,Доктор. Скоро наши пути разойдутся.
+line-551,阿米娅,我和迷迭香会前往指挥塔。另一方面，凯尔希医生会带你前往核心城指挥塔地下的能源区。,Rosmontis and I will go to the control tower. Dr. Kal'tsit will take you to the generator area. ,"Мы с Розмари направимся к командной башне. С другой стороны, доктор Кал'цит поведет вас в энергетический сектор под командной башней Чернобога."
+line-552,,要有段时间不能见面了？,I won't see you for a while?,"Значит, какое-то время мы не сможем видеться?"
+line-555,阿米娅,也就几个小时，不是吗？,"It's just a few hours, right?","Всего на пару часов, разве нет?"
+line-556,阿米娅,而且，博士......,"By the way, Doctor...","К тому же, Доктор…"
+line-558,阿米娅,即使我不在你身边，我也会知道，在这片大地上，有Dr.{@nickname}这样一个人......和我一起奋战。,"Even if I'm not at your side, I'll always know that Dr. {@nickname} is out there... fighting together with me.","Даже если меня не будет рядом, я буду знать, что на этой земле есть такой человек, как вы, Доктор… который сражается вместе со мной."
+line-559,阿米娅,在某处我看不见的地方，我们为了同样的目标战斗着。,"Even out of sight, we still fight for the same goal.","Где-то там, где я не вижу, мы сражаемся ради одной и той же цели."
+line-560,阿米娅,我已经很满足了。嗯。,I'm pretty happy with that.,Мне этого вполне достаточно. Да.
+line-561,,行动结束见！;再见。;等会儿见，阿米娅。,"See you after the mission!;Goodbye.;Later, Amiya.","Увидимся после операции!;До встречи.;До скорого, Амия."
+line-564,阿米娅,嗯。,Right.,Да.
+line-565,阿米娅,陈长官可能已经在指挥塔附近了。她的脚程一直比我们快，我们也得加快速度了。,"Madame Ch'en may already be near the command tower. She's always been quick, so we'll have to pick up our pace.","Офицер Чэнь, возможно, уже у командной башни. Она всегда передвигается быстрее нас, нам нужно ускориться."
+line-566,阿米娅,博士......千万要注意安全。,Doctor... Promise me that you'll stay safe.,Доктор… будьте предельно осторожны.
+line-567,阿米娅,只有我们都能安全回到罗德岛，我们的工作才有意义。,Our work here only means anything if we make it back to Rhodes Island safely.,"Только если мы все сможем вернуться на «Родос» в безопасности, наша работа будет иметь смысл."
+line-568,阿米娅,一定要注意！,"Be careful, okay?",Обязательно будьте осторожны!
+line-569,,你也是。,You too.,Вы тоже.
+line-578,,"切尔诺伯格核心能源区 ","Chernobog Core City, Power Supply Sector ",Энергетический сектор ядра Чернобога
+line-579,,3:00 p.m.,3:00 p.m.,15:00
+line-581,,为什么把我分到你这组？,Why'd you pick me for your team?,Почему вы определили меня в свою группу?
+line-586,凯尔希,在核心城指挥塔，斩首小队会遭到整合运动全方位的攻击。那样的战场不是你可以现场参与的。,Our decapitation strike team will be attacked by Reunion from all directions as they approach the control tower. I can't just drop you off in a battlefield like that.,"У командной башни Чернобога штурмовая группа подвергнется массированной атаке «Воссоединения». Это не то поле боя, где ты можешь присутствовать лично."
+line-587,凯尔希,在与游击队作战时，我们还可以通过撤退重整队形。但在指挥塔，他们连一丝喘息的机会都没有。,"When we were fighting the guerrillas, we could retreat and buy ourselves time to regroup. That won't be possible for their team. They won't even have an opening to catch their breaths.",В бою с партизанами мы могли отступить и перегруппироваться. Но у командной башни у них не будет ни секунды на передышку.
+line-588,凯尔希,这场战斗有着明确的目标，阿米娅和迷迭香的小队不能再分心。,"This battle has a clear objective, and Amiya and Rosmontis's team can no longer afford any distractions.","У этой битвы четкие цели, отряды Амии и Розмари не могут позволить себе отвлекаться."
+line-589,凯尔希,你和我一起会很安全。,You'll be safe with me.,Со мной ты будешь в безопасности.
+line-590,,我觉得你很危险。;......;你不和阿米娅一起？,I don't feel safe around you.;......;You're not staying with Amiya?,"Думаю, с вами опасно.;…;Вы не с Амией?"
+line-592,凯尔希,我们肩负着只有我们才能履行的责任。,We should only take on responsibilities that we can fulfill.,"Мы несем ответственность, которую можем исполнить только мы."
+line-593,凯尔希,深入石棺后，我们的通讯状况将进一步恶化。,"After entering the sarcophagus, our communications will only further deteriorate.","После того как мы углубимся в Саркофаг, связь с нами станет еще хуже."
+line-594,凯尔希,到那时，我们就是真正的孤军奋战了。,"At that time, we will truly be fighting alone.",Тогда мы останемся совсем одни.
+line-595,凯尔希,等等......,Wait...,Подожди…
+line-596,凯尔希,博士，请你先躲一小会儿。,"Doctor, please stay hidden for a while.","Доктор, пожалуйста, спрячься на минутку."
+line-597,,为什么？,Why?,Почему?
+line-599,凯尔希,......如果你不愿意，或者闷得慌，我也不会拦着你。,"...If you don't want to, or if you're feeling claustrophobic, I won't stop you.","…Если ты не хочешь или тебе скучно, я не буду тебя заставлять."
+line-607,W,啊，咳咳.....,Ah... *cough* *cough*...,"Ах, кхе-кхе…"
+line-608,W,这是哪？怎么炸进来......是这？,Where am I? How'd I blast my way down here... Is this it?,Где это я? Как я сюда ворвалась… Это здесь?
+line-609,W,嗯？你是......,Huh? You're...,Хм? Ты это…
+line-610,W,......罗德岛吗。我运气还真挺不好啊......,...Rhodes Island? What rotten luck I have today...,"…«Родос», да? Не повезло мне…"
+line-611,W,嗯？！,Hm?!,Хм?!
+line-612,W,......真是意外的重逢呀，凯尔希。,"...What an unexpected reunion, Kal'tsit.","…Неожиданная встреча, Кал'цит."
+line-614,凯尔希,——你的伤很重。,...You're gravely wounded.,—— Ты тяжело ранена.
+line-615,凯尔希,"你现在的名字是什么，W？ ","What do you go by now, W? ","Как тебя зовут сейчас, W?"
+line-617,W,还是W。这次我还没来得及改名字。,Still W. Didn't have time to change it yet.,Все еще W. В этот раз я не успела сменить имя.
+line-618,W,等等，你这么直愣愣地出现在这种地方？难道说......,"Hold up, why are you casually milling around a place like this? Don't tell me...","Подожди, ты так прямо появилась в таком месте? Неужели…"
+line-619,W,老爷子，走了？,"The old man's gone, huh?",Старик ушел?
+line-621,凯尔希,是。,Yes.,Да.
+line-623,W,他死了？他怎么会死？,He died? How is that possible?,Он умер? Как он мог умереть?
+line-624,W,但是......也是。他根本活不下来。老爷子一不会投降，二不可能让路。,"But... then again, he wasn't going to survive this. He never backs down, and never lets anyone through.",Хотя… впрочем. Он бы и не выжил. Старик ни за что не сдался бы и не уступил дорогу.
+line-626,凯尔希,听上去，你有些沮丧。,You sound a bit heartbroken.,"Похоже, ты расстроена."
+line-628,W,是啊。,Guess so.,Ага.
+line-629,W,在这整个整合运动里，唯一能让我多看一两眼的，也就只有那个老头了。,That old fella was the only person who made me even give Reunion a second look.,"Во всем этом «Воссоединении» единственное, на что стоило смотреть — это тот старик."
+line-630,W,理想主义者的末日......就是今天吧。,Guess today... was that idealist's last.,"Конец идеалиста… именно сегодня, верно?"
+line-631,,他死得伟大！;你根本不懂。;你是认真的？,He died a glorious death!;You don't understand anything.;Are you serious?,Он умер великим!;Ты ничего не понимаешь.;Ты серьезно?
+line-633,,他在我们面前停止了呼吸。,I saw him draw his last breath.,Он перестал дышать у нас на глазах.
+line-636,W,——,——,——
+line-637,W,凯尔希？解释一下。,"Kal'tsit, story time.",Кал'цит? Объяснись.
+line-639,凯尔希,有什么是我需要解释的？,Do I have something to tell you?,Что именно я должна объяснить?
+line-641,W,你问我？你居然问我？你怎么还敢摆出装聋作哑，视而不见，一副无所谓的样子？,You're asking me? You kidding? How do you have the nerve to stand there all calm like nothing ever happened?,"Ты спрашиваешь меня? Ты серьезно спрашиваешь? Как у тебя хватает смелости делать такой равнодушный, безразличный вид?"
+line-645,,萨卡兹女人用你从没见过的眼神看着你。,The Sarkaz woman glares at me with eyes that I had never seen before.,"Женщина-саказ смотрит на вас взглядом, которого вы никогда раньше не видели."
+line-646,,她在对凯尔希医生说话，眼神却没从你身上挪开。,"Though she directs her words at Dr. Kal'tsit, her eyes are fixed on me.","Она говорит с доктором Кал'цит, но глаз с вас не сводит."
+line-650,W,凯尔希，你和Dr.{@nickname}一起行动？,"Kal'tsit, you're working with Dr. {@nickname}?","Кал'цит, ты действуешь вместе с Доктором?"
+line-651,W,你？和Dr.{@nickname}？一起行动？！,You? Working together with Dr. {@nickname}?,Ты? С Доктором? Действуешь вместе?!
+line-653,凯尔希,这很有问题吗，W？,"Is there a problem, W?","В этом есть какая-то проблема, W?"
+line-655,W,如果你不是像这个混蛋一样表面上装成一副什么都不记得的样子，当然，也可能是真的，但无所谓......,"Of course, assuming you're not like this bastard here pretending you don't remember anything. But if that's true, guess it doesn't matter...","Если ты не притворяешься, как этот мерзавец, что ничего не помнишь — ну, может, это и правда, но неважно…"
+line-656,W,如果不是，那你的脑细胞肯定被你那些诡异的实验烧了个干干净净。,"Otherwise, your brain cells got fried by one of your weird experiments.","Если нет, то твои клетки мозга были выжжены дотла всеми твоими жуткими экспериментами."
+line-657,W,靠。如果不是我疯了，就是你疯了。不，就算我一直是疯着的，也不代表你没疯。,"Well shit, either I'm the crazy one, or you are. But even if I am crazy, that doesn't make you any less of a loon.","Черт. Если не я сошла с ума, то ты. Нет, даже если я всегда была сумасшедшей, это не значит, что ты не сошла с ума."
+line-659,凯尔希,你很清醒，W。闲聊可以另外挑个时间。,"You're still clear-headed, W. Let's save the small talk for some other time.","Ты в здравом уме, W. Светскую беседу можно перенести на другое время."
+line-661,W,我不想。怎么回事？现在我只是看着你而已。我竟然想吐。,Don't wanna. What even happened? Just looking at you makes me want to puke.,Не хочу. В чем дело? Я просто смотрю на тебя. Мне аж тошнить хочется.
+line-662,W,但哪怕我正强忍着不让自己吐出来，我却还是想笑。,"But even if I'm trying not to throw up, this is just too funny.","Но даже пытаясь сдержать рвоту, я все равно хочу смеяться."
+line-663,W,凯尔希，你终于也疯了。你想驯化巴别塔的恶灵？,"Kal'tsit, you finally went bonkers too. Trying to tame the evil spirit of Babel?","Кал'цит, ты наконец-то сошла с ума. Ты хочешь приручить демона Вавилона?"
+line-665,凯尔希,它不能证明自己还有记忆。我们依然是合作状态。,Can't prove there are any memories left in this one's head. We're just working together for the time being.,"Он не может доказать, что у него есть память. Мы по-прежнему находимся в состоянии сотрудничества."
+line-667,W,这个人所谓的失忆，你该怎么保证不是又一种演技？,This so-called amnesia... How are you so sure that it's not all an elaborate act?,"Как ты можешь быть уверена, что эта его амнезия — не очередной актерский трюк?"
+line-668,W,它可是骗了所有人。没错，所有人。不管你想不想承认，你也一样被它骗了......我看到结果的就是这样。,"It might have everyone fooled. Yes, everyone. You're fooled too, whether or not you want to admit it... That's the scorecard I got.","Он же обманул всех. Точно, всех. Хочешь ты этого признавать или нет, но ты тоже купилась на это… Я видела результат, это было именно так."
+line-669,W,凯尔希，你是个怪物吧？头脑清晰到每条脑沟都在发光的怪物。,"Kal'tsit, you're a monster, aren't you? A monster so smart you got a big, bright, glowy brain.","Кал'цит, ты ведь монстр? Монстр, чей разум ясен настолько, что каждая извилина светится."
+line-670,W,身边的另一只怪物会造成什么样的后果，作为一个怪物的你应该比我还清楚。,And a monster should know better than me what happens when you have another monster around.,"К каким последствиям приведет другой монстр рядом с тобой, ты, как такой же монстр, должна знать лучше меня."
+line-672,凯尔希,那么这片大地上可以被称作是怪物的生物也太多了。过多使用一个意象会使人失去新鲜感。,There are too many creatures in this world that can be called 'monsters.' Throw the word around too much and it'll end up losing all meaning.,"Тогда на этой земле слишком много существ, которых можно назвать монстрами. Чрезмерное использование этого образа притупляет восприятие."
+line-674,W,或者，你的确是疯了，那另当别论。,"Or, you've just gone mad. That's a whole different matter.","Или ты действительно сумасшедшая, тогда это совсем другое дело."
+line-677,,你究竟知道些什么？,What exactly do you know?,Что ты на самом деле знаешь?
+line-680,W,这里没有你插嘴的地方，朋友。等我解决她的问题，才轮到我们两个来好好谈谈的时候。,"There's no place for you to cut in here, friend. When I finish with her, it'll be time for the two of us to have a nice, long chat.","Здесь не место для твоих вмешательств, друг мой. Как только я решу ее проблемы, придет время нам с тобой хорошо поговорить."
+line-681,W,对你发火其实也没什么用。因为你可能是失忆了，又或者是明明没失忆但装作失忆......,"There's no point taking things out on you. Either you have amnesia, or you're just pretending to have amnesia...","Злиться на тебя бесполезно. Потому что, возможно, ты потерял память, или, может, не потерял, но притворяешься…"
+line-682,W,但你身边这个女人可是真的神志不清了。,But this woman next to you is totally out of her mind.,Но эта женщина рядом с тобой точно лишилась рассудка.
+line-683,W,要知道——,I want to know—,Знай же —
+line-684,W,当时走进议长室、又知道特蕾西娅身在何处的，就只有这一个人。凯尔希，你难道不知道这是什么意思吗？,"Back then, there was only one person who entered the Speaker's Office and knew Theresa's whereabouts. Kal'tsit, you know what that means, don't you?","В то время в кабинет главы заходил только один человек, и он знал, где Терезия. Кал'цит, неужели ты не понимаешь, что это значит?"
+line-686,凯尔希,的确。我比你更清楚这意味着什么。,Of course. I know it better than you do.,"Действительно. Я знаю лучше тебя, что это значит."
+line-688,W,这可是你说的！,Those were your words!,Ты сама это сказала!
+line-689,W,那你现在呢，你现在又是什么意思？,So what's the deal? What are you doing now?,Так что теперь? Что ты имеешь в виду?
+line-690,W,哦，我知道，你又在做权衡了，这一边，和那一边。,"Oh, I get it. You're trying to make another exchange. Tit-for-tat.","О, знаю, ты снова взвешиваешь — эту сторону и ту сторону."
+line-691,W,可另一边是特蕾西娅！,But it's Theresa on the other end!,Но на другой стороне — Терезия!
+line-693,凯尔希,在知道真相前人不该被推论影响情绪，W。,"Those who don't know the truth shouldn't let conjecture affect their emotions, W.","Не следует поддаваться эмоциям, пока не узнаешь правду, W."
+line-695,W,我的推论只有一个：你根本不是人。我刚刚已经说了，能把特蕾西娅的死和凶手放在一起权衡的你，只是个怪物。,"I have just a single conjecture: You aren't human. Like I said before, if you'll bargain Theresa's death with a murderer... you're just a monster.","У меня только один вывод: ты вообще не человек. Я уже сказала, что ты — монстр, способный взвешивать смерть Терезии вместе с убийцей."
+line-696,W,凯尔希，你不是人。,"You're not human, Kal'tsit.","Кал'цит, ты не человек."
+line-697,W,我要知道真相。在我知道真相前，它就是凶手；我对凶手也从来是毫不手软。,"I need to know the truth. And before I do, that thing next to you is a murderer; and I'll never show mercy to a murderer.","Я хочу знать правду. Пока я не узнаю её, этот человек — убийца; а с убийцами я никогда не церемонюсь."
+line-699,W,哦，我知道了。,"Ahh, I get it now.","О, я поняла."
+line-700,W,你是母爱泛滥。,"You're bursting with motherly love, huh.",В тебе проснулся материнский инстинкт.
+line-702,凯尔希,——,......,——
+line-703,凯尔希,W，你说过......,"W, you said before...","W, ты сказала…"
+line-704,凯尔希,“你和我是一种人。”,'We're the same type of person.',«Ты и я — одного поля ягоды».
+line-706,W,不知道你是从哪里听来的，真的，我希望你当作没听过。你和我根本不算一种生物。,"I don't know where you heard that before, you should pretend you never did. You and I are not the same type of creature at all.","Не знаю, где ты это услышала, честно, я надеюсь, ты сделаешь вид, что не слышала. Мы с тобой — биологически разные виды."
+line-708,凯尔希,不，W。 某种程度上，我和你是一种人，没错。,"No, W. We are, to some extent.","Нет, W. В некотором смысле, мы с тобой одного поля ягоды, это верно."
+line-709,凯尔希,比如说，你也想要结束塔露拉的暴行，对不对？,"For example, you also want to put an end to Talulah's atrocities, correct?","Например, ты тоже хочешь положить конец зверствам Таллы, верно?"
+line-711,W,......这话没错。她把我弄得非常生气。,...That's true. She's really pissed me off.,…Это верно. Она меня ужасно разозлила.
+line-712,W,以及，我需要把我的雇佣兵从她手上弄回来。这家伙只会挥霍手下，一点都不懂得珍惜。我怕我的棺材本都被她赔掉。,"So, I need to get my merc back from her. That piece of shit only knows how to squander her people. Such a spendthrift. I'm worried she'll blow all our savings and leave me penniless.","И еще, мне нужно вернуть моих наемников. Этот тип только и умеет, что разбазаривать подчиненных, совсем не ценит их. Боюсь, она спустит все мои накопления в никуда."
+line-714,凯尔希,所以，我们先去解决整合运动的问题。,"Right, so let's deal with the Reunion problem first.",Поэтому давай сначала решим проблему с «Воссоединением».
+line-716,W,可以。我的目标已经订好了，你要不要听听？,Sure. I got my targets. Wanna hear?,"Хорошо. У меня уже есть цели, хочешь послушать?"
+line-717,W,第一个，是楼上那个恶心的龙女塔露拉。,"First is Talulah, that disgusting dragon lady upstairs.",Первая — эта мерзкая дракониха Талла наверху.
+line-718,W,然后，是那个看见他就会想打喷嚏的特雷西斯。,"Next is Theresis, the one that makes you want to sneeze as soon as you see him.","Затем тот Тересис, от одного вида которого мне хочется чихнуть."
+line-720,凯尔希,你规划得很远。,Those are some long-term plans.,У тебя далеко идущие планы.
+line-722,W,然后，我第三个要杀的，就是你身边的Dr.{@nickname}。,"After that, the third I thing I want to kill is standing right next to you: Dr. {@nickname}.","А третьим я убью того, кто рядом с тобой, Доктора."
+line-724,凯尔希,你只排第三？,You're only third on the list?,Я только на третьем месте?
+line-727,,我只排第三？,I'm only in third place?,Я только на третьем месте?
+line-730,W,哈，因为我有些话要问Dr.{@nickname}。,"Hah. That's because I have something to ask you first, Dr. {@nickname}.","Ха, потому что у меня есть вопросы к Доктору."
+line-731,W,我要对着这个人，好好地，好好地问一问......,"I got some some long, thorough explanations to pull out of you...","Я собираюсь посмотреть прямо в глаза этому человеку и очень, очень серьезно его спросить…"
+line-733,凯尔希,那么现阶段我们就有共同目标了。,"At this stage, we have a common goal.","Значит, на данном этапе у нас общие цели."
+line-734,凯尔希,顺便，因为你在切尔诺伯格时对我们雇员做出的行为......,"By the way, because of what you did to our employees in Chernobog...","Кстати, учитывая твои действия в отношении наших сотрудников в Чернобоге…"
+line-735,凯尔希,首先感谢你通过交易保住了Dr.{@nickname}和一系列干员的生命。其次，因为你的“交易”，我们有十三位干员牺牲。,"First, thanks for saving the lives of Dr. {@nickname} and the rescue team with your deal. Your 'deal' cost us thirteen of our operators.","Прежде всего, спасибо, что благодаря сделке спасла жизнь Доктору и ряду оперативников. Во-вторых, из-за твоего «обмена» погибли тринадцать наших оперативников."
+line-736,凯尔希,两相权衡，看在我们过往的情谊上，我送你一程。送你去指挥塔。,"Balancing these two things, I'm willing to give you a lift, for old time's sake. I'll take you to the command tower.","Взвесив всё, ради нашей прошлой связи, я помогу тебе. Отправлю тебя к командной башне."
+line-738,W,凯尔希......你真的让人很不爽。,Kal'tsit... You really know how to gross a girl out.,Кал'цит… ты правда меня бесишь.
+line-739,W,我早就看你不爽了，我得先好好修理你一下才行啊，看看大家各自有多少本......,"I've always found you disgusting. I'll have to rearrange your face a little first, see which one of us comes out on top...","Ты давно меня бесишь, надо бы тебя хорошенько проучить, посмотреть, у кого сколько козырей в рукаве…"
+line-741,凯尔希,Mon3tr。,Mon3tr.,Мон3стр.
+line-744,Mon3tr,（嚎叫）,(Howls),(Рык)
+line-747,W,你**的。,You bitch!,Да ты…
+line-755,,Mon3tr钳着她......甩出去了？,Mon3tr just grabbed her... and tossed her out like a ragdoll?,Мон3стр схватил ее… и отшвырнул?
+line-759,凯尔希,我可没时间陪她嬉闹。,I don't have time to play with her.,У меня нет времени возиться с ней.
+line-760,凯尔希,Mon3tr，把通风管壁、隔离墙、中基保护层和外墙连同她一起，全都炸开。,"Mon3tr, blast through the ventilation pipes, the walls, and the base's outer and middle protective layers along with her.","Мон3стр, снеси вентиляционную трубу, перегородку, защитный слой и внешнюю стену вместе с ней."
+line-762,W,老女人！下下下下次我一定教你死得难————,"You old hag!! N-n-n-n-next time, I swear I'm giving you a slow and painful d————",Старая карга! В следующий раз я обязательно заставлю тебя умереть не————
+line-773,凯尔希,我拭目以待。,I'm looking forward to it.,Буду ждать.
+line-774,,我还以为你不会让她把话说完。,I'm surprised you let her finish her first sentence.,"Я думал, ты не дашь ей договорить."
+line-777,凯尔希,说那么多你也听不懂。,Not like you can understand it.,"Все равно ты не поймешь, даже если бы она сказала больше."
+line-778,,那为什么不向我解释一下？,Why don't you explain it to me then?,Тогда почему бы не объяснить мне?
+line-781,凯尔希,只是还不到时候。,It's not time yet.,Просто еще не время.
+line-782,凯尔希,当你看到的时候，你应该自己就能明白。,"When you see for yourself, you should understand.","Когда увидишь сам, ты все поймешь."
+line-783,凯尔希,秘密就像泉水，有时候就算你不想，它还是会自己流出来。,"Secrets are like wellsprings. Sometimes they will flow out, whether you want them to or not.","Тайны подобны роднику: иногда даже если не хочешь, они сами вырываются наружу."
+line-794,梅菲斯特,.......,.......,……
+line-795,梅菲斯特,好奇怪的装置啊。,What a strange device.,Какое странное устройство.
+line-796,梅菲斯特,你会领我到哪里去呢？,Where are you taking me?,Куда ты меня ведешь?
+line-797,梅菲斯特,你会修补我身上的漏洞吗，还是弥补我的伤疤？,"Will you fill the holes in my body, or mend my scars?",Залатаешь ли ты мои дыры или залечишь шрамы?
+line-798,梅菲斯特,你会让我，像那个人一样，忘记一切吗？,"Will you let me forget everything, just like the other one did for me, before?","Заставишь ли ты меня, как того человека, забыть все?"
+line-799,梅菲斯特,如果是忘记一切......,If I was to forget everything...,Если забыть все…
+line-800,梅菲斯特,我想要忘记一切吗？,Do I want to forget?,Хочу ли я забыть все?
+line-801,梅菲斯特,我想吗......,I want...,Хочу ли я…
+line-802,梅菲斯特,......,......,……
+line-805,,我可以选吗？,Can I make that choice?,Могу ли я выбирать?
+line-808,,核心城,Core City,Чернобог
+line-813,陈,......怎么会。阴云？下雪了吗？,...What's going on? Dark clouds? It's snowing?,…Как так. Тучи? Пошел снег?
+line-814,陈,不过也替我遮掩了阳光。接下来的行动理应会方便些。,"But, it's also covered the sun for me. This'll make my next step a lot easier.",Но это скроет меня от солнца. Дальнейшие действия станут проще.
+line-815,陈,呃......我不能再受伤了。,Ugh... I can't afford to take any more hits.,Эх… я больше не могу получить ранение.
+line-816,陈,嘁。流这点血，我就怕了吗？陈晖洁，你的决心到哪里去了？,"Tch... Are you scared of shedding a little blood, Ch'en Hui-chieh? What happened to your determination?","Пф. Боюсь ли я из-за того, что немного крови пролила? Чэнь Хуэйцзе, где твоя решимость?"
+line-817,陈,......,......,……
+line-818,陈,整合运动似乎也起了内讧。这应该是我行动的最好时机。,There seems to be infighting among Reunion's ranks. This is the best time for me to move.,"В «Воссоединении», похоже, тоже начались раздоры. Это лучший момент для моих действий."
+line-819,陈,是因为终于要见到你了吗，我的手竟然有些发抖。,Are my hands trembling because I'm finally going to see you again?,"Неужели мои руки дрожат от того, что я наконец-то увижу тебя?"
+line-820,陈,......我一定会做出正确的事。,...I must do what is right.,…Я обязательно поступлю правильно.
+line-821,陈,不论你现在是什么样子，不管你现在是不是过去的塔露拉。,"It doesn't matter what you are now, whether or not you're the same Talulah I knew.","Неважно, какая ты сейчас, и неважно, являешься ли ты той Таллой из прошлого."
+line-822,陈,塔露拉......我们约好的。,Talulah... we have a date.,Талла… мы же договаривались.
+line-829,诗怀雅,......,......,……
+line-830,诗怀雅,好大的雪啊......,The snow sure is coming down hard...,Какой сильный снег…
+line-831,诗怀雅,就像......那个圣诞节那样。,Just like... that one Christmas.,Точь-в-точь как… на то Рождество.
+line-832,林雨霞,你从来不对我说那件事。,You've never spoken to me about that.,Ты никогда не рассказывала мне об этом.
+line-833,星熊,唔。,Hm.,Мгм.
+line-834,诗怀雅,但你知道的。,But you already know.,Но ты же знаешь.
+line-835,林雨霞,我知道一件事，和你对我说，是两回事。,Me knowing and you telling me are two separate things.,Знат и слышать от тебя — это разные вещи.
+line-836,星熊,林大小姐，还是不要为难我们近卫局的missy了吧。,"Princess, let's not embarrass Missy over here.","Мисс Лин, давайте не будем затруднять нашу мисс из Департамента охраны."
+line-837,林雨霞,——鬼姐。,Madame Oni.,—— Сестренка Они.
+line-838,星熊,......这个称呼还是算了，林大小姐。,"...Let's drop that title, Princess.","…Лучше оставить это обращение, мисс Лин."
+line-839,林雨霞,鬼姐，你所做的一切，林家没齿难忘。,"Madame Oni, the Lin family will never forget all you've done.","Сестренка Они, семья Лин никогда не забудет того, что вы сделали."
+line-840,林雨霞,只是现在，我不知道我们还能不能有回报你的机会。,"But right now, I don't know if there will be an opportunity to reward you for it.","Просто сейчас я не знаю, будет ли у нас возможность отплатить вам."
+line-841,诗怀雅,说什么呢。我们一定能行的。,What are you talking about? Of course you can.,Что ты такое говоришь. У нас обязательно всё получится.
+line-842,诗怀雅,她......她一定能行的。,She... I know she'll succeed.,Она… у нее обязательно всё получится.
+line-843,诗怀雅,她......阿陈......,Ah Ch'en...,Она… Чэнь…
+line-844,诗怀雅,呜......,Ugh...,У-у…
+line-845,林雨霞,——真没志气。,"Look at you, where'd all your willpower go?",—— Ну и слабачка.
+line-846,星熊,哎，没办法，Missy一直就这样。,"Ah, what are you gonna do? Missy has always been like that.","Эх, ничего не поделаешь, мисс Сваж всегда такая."
+line-847,星熊,没事的，Missy，别哭。,"Now now, Missy, there's no need to cry.","Всё в порядке, мисс Сваж, не плачь."
+line-848,诗怀雅,你......你当哄小孩啊......,You... Stop treating me like a child...,Ты… ты как с ребенком обращаешься…
+line-849,星熊,没事的。一切都会没事的。,Don't worry. Everything is going to be fine.,Всё будет хорошо. Всё будет в порядке.
+line-850,诗怀雅,可......这就是我们最后一次见面。我没准备好，我还没准备好......就再也见不到这条臭龙了。,But... this is the last time we'll see each other. I'm not ready yet... What if... I never see that smelly dragon again?,"Но… это же последний раз, когда мы видимся. Я не готова, я еще не готова… никогда больше не увижу этого дракона вонючего."
+line-851,星熊,Missy，不会的。,"That won't happen, Missy.","Мисс Сваж, нет."
+line-852,星熊,我很喜欢一句话，叫......嗯。人生何处不相逢。,"There's this phrase that I really like. Mm, it goes like this: 'We'll meet again someday, somewhere.'","Мне очень нравится одна фраза, она гласит… м-м. Мир тесен."
+line-853,林雨霞,......是。人生何处不相逢。,"...Yes. And when we look back at each other again, we will ask about our lives.",…Да. Мир тесен.
+line-864,塔露拉,......怎么会？,...Why?,…Как так?
+line-865,塔露拉,发生了什么？我为什么会流泪？,What's going on? Where are these tears coming from?,Что произошло? Почему я плачу?
+line-866,塔露拉,似乎......有人向我递交了死亡报告。,It's as if... someone just told me about a death.,Похоже… кто-то доложил мне о смерти.
+line-867,塔露拉,是谁？,Who is it?,Кто?
+line-868,塔露拉,核心城里的所有事都应该在我的构划中才对。,Everything in the core city has been unfolding according to my plan.,Все события в Чернобоге должны были идти по моему плану.
+line-869,塔露拉,爱国者会死在感染者手中，萨卡兹雇佣军应该也会和普通整合运动交火。,"Patriot will die by the hands of the Infected, and the Sarkaz mercenaries will start fighting the ordinary Reunion forces.","Патриот должен был погибнуть от рук зараженных, наемники-саказы должны были вступить в перестрелку с обычными силами «Воссоединения»."
+line-870,塔露拉,哦。,Oh.,О.
+line-871,塔露拉,爱国者死了，是吗。原来是爱国者。,Patriot is dead? So it was Patriot.,"Патриот мертв, да? Значит, это был Патриот."
+line-872,塔露拉,伟大的战士。这个名字应该已经不足以形容你了，乌萨斯对你来说，还是太小了。,A true warrior. Such a name was not enough to describe you. Ursus itself was too small for your greatness.,"Великий воин. Этого имени уже недостаточно, чтобы описать тебя, Урсус для тебя был слишком тесен."
+line-873,塔露拉,原来是爱国者。,A patriot to the very end.,"Значит, это был Патриот."
+line-874,塔露拉,......为什么要落泪？给想杀我的人流泪，是种礼节，还是种怀念？,"...Why am I crying? Is it out of nostalgia, or a courtesy to those who want to kill me?","…Почему я плачу? Лить слезы по тому, кто хотел меня убить — это дань уважения или ностальгия?"
+line-875,塔露拉,“所有罪恶都有尽头？”,'All sins must come to an end?',«У всякого зла есть предел?»
+line-876,塔露拉,那我们拭目以待吧。是罪恶，当然会走到尽头......,"Then we shall see. If we are the sinners, then we will inevitably meet our end...","Что ж, подождем и увидим. Зло, конечно же, достигнет предела…"
+line-880,,在尽头处，我也会等到你。                            在尽头处，我也会等到她。,But I shall wait for you at that end.                      But I shall wait for her at that end.,В конце я тоже буду ждать тебя.                             В конце я тоже буду ждать ее.
+line-888,魏彦吾,我不应该在这里见到你，舸瑞。,"Why are you here, Kojui?","Я не должен был встретить тебя здесь, Гэжуй."
+line-890,鼠王,像几十年前一样。有的人在焦躁的时候，容易犯傻，而且只会在这里溜达。,"Just like all those decades ago. When people get anxious, they make stupid decisions, and they end up pacing around here.","Как и десятки лет назад. Некоторые в моменты беспокойства склонны совершать глупости, да еще и слоняться только здесь."
+line-891,鼠王,奇怪的是，这个毛病居然几十年都没变。,"Funny, isn't it? Still haven't kicked this old habit after all these years.","Странно, что эта привычка за десятки лет ничуть не изменилась."
+line-893,魏彦吾,你知道我要做什么，舸瑞？,"Do you know what I'm going to do, Kojui?","Ты знаешь, что я собираюсь сделать, Гэжуй?"
+line-895,鼠王,我恰好知道。多亏你那个傻侄女，和你是一个模子里造出来的。,"I do happen to know. All thanks to that niece of yours, of course. You two are both cut from the same cloth of stupidity.","Я как раз знаю. Спасибо твоей бестолковой племяннице, она сделана из того же теста, что и ты."
+line-897,魏彦吾,——,......,——
+line-898,魏彦吾,舸瑞，你不是来这里散步的。即使是，你也不该浪费我的时间。,"Kojui, you're not out here on a stroll. Even if you were, you shouldn't waste my time.","Гэжуй, ты здесь не для того, чтобы прогуливаться. Даже если так, тебе не следует тратить мое время."
+line-900,鼠王,和老朋友叙叙旧，也算浪费时间？,Is it ever a waste of time to talk to an old friend?,Разве старым друзьям нельзя поболтать?
+line-901,鼠王,你真的还当我是朋友吗，魏彦吾老友？,"Do you not consider me a friend anymore, Wei Yenwu?","Ты правда еще считаешь меня другом, старый приятель Вэй Яньу?"
+line-902,鼠王,如果是，那就答应我......,"If you do, promise me...","Если да, то сделай, как я прошу…"
+line-904,魏彦吾,不可能。我不会答应你任何事。,I can't. I won't promise you anything.,Невозможно. Я ни о чем тебя не буду просить.
+line-906,鼠王,那就动手。你今天哪也去不了。,So be it. You're not going anywhere today.,Тогда действуй. Сегодня ты никуда не пойдешь.
+line-908,魏彦吾,......别把自己看的太高了。,...Don't think too highly of yourself.,…Не строй из себя слишком важного.
+line-910,鼠王,这句话我也想送还给你。魏彦吾，你居高临下太久，已经断了人气儿。下来吹吹风，对你有好处。,"That's what I should be saying to you. Wei Yenwu, you've been up in that tower of yours too long, it's bad for your character. Come down and let out some of that hot air - it's good for you.","Эту фразу я хочу вернуть тебе. Вэй Яньу, ты слишком долго смотришь на всех свысока, совсем от людей оторвался. Спустись, подыши свежим воздухом, тебе это на пользу."
+line-912,魏彦吾,可别闪了腰，老东西。,"Better not blink, old windbag.","Смотри спину не сорви, старик."
+line-914,鼠王,说到老家伙......我们只是彼此彼此。,What are the two of us... but a pair of old windbags?,Раз уж заговорили о стариках… мы друг друга стоим.
+line-920,,很难想象。就连爱国者那个老家伙都死了。,It's hard to imagine.Even the old Patriot can die.,"Трудно вообразить. Даже такой старик, как Патриот, умер."
+line-921,,我是该笑？还是该流两滴眼泪？,Should I laugh? Should I shed a couple tears?,Смеяться мне? Или пролить пару слезинок?
+line-922,,该笑是因为，就连他也死了，你在整合运动中终于也爬到了最高的位置，仅仅次于领袖的位置。,"What's really funny is now that he's dead, you climbed all the way to the top of Reunion, second only to the Leader.","Смеяться, потому что даже он умер, а ты наконец добралась до самой вершины в «Воссоединении», сразу после позиции лидера."
+line-923,,啊，真的做得不错，该给自己一点掌声了，W。,"Ah, you've really outdone yourself. You should give yourself a pat on the back, W.","Ах, правда, отлично справилась, пора бы и себе похлопать, W."
+line-924,,啪啪啪啪。,*clap* *clap*,Хлоп-хлоп-хлоп.
+line-925,,流泪嘛，也是因为连他都死了。啊，唉，可怜的爱国者！,"Why do we cry? Because even he is dead. Ahh, alas, poor Patriot!","А слезы — потому что даже он умер. Ох, бедный Патриот!"
+line-926,,他死的时候是在想什么，又是什么样子呢？是躺着，还是站着？就连他都死了，还有谁会不死呢？,"What thoughts went through his head as he died, and what was it like? Did he die on his feet or on his knees? If even he can die, then who among us can live?","О чем он думал, когда умирал, и как это выглядело? Он лежал или стоял? Если даже он умер, кто вообще может быть бессмертным?"
+line-927,,也许他才是最容易就死掉的那个。,Maybe he was the most likely to die.,"Может, он был самым легким на подъем, чтобы умереть."
+line-928,,不懂得掩藏自己，只晓得坚持某个虚无缥缈的想法，一直走下去，等到周围的人都没了，自己就可以安安心心地去死。,"Never knew how to keep a low profile. Only knew how to cling to a vague ideal. On this path he walked and walked, until everyone around him was gone. And then, he could finally rest in peace.","Не умел себя скрывать, только знал, что надо придерживаться какой-то призрачной идеи, идти вперед, пока вокруг не останется никого, и тогда можно будет со спокойной душой умереть."
+line-929,,真糟啊。,How sad.,Ужасно.
+line-930,,等等。听起来和你有点像，W。,"Wait, doesn't that sound a bit like you, W?","Подожди. Звучит немного как ты, W."
+line-931,,不对不对，哪里像了？,Ehh? How am I anything like that?,"Нет-нет, в чем сходство?"
+line-932,,W，别骗自己，几乎完全一样。,"W, don't lie to yourself. You're practically the same.","W, не обманывай себя, почти полностью как ты."
+line-933,,不，我不会骗自己。我不会变成爱国者，因为我做不到。,"Nah, I never lie to myself. I'll never become like Patriot, because I can't.","Нет, я не буду себя обманывать. Я не стану Патриотом, потому что не смогу."
+line-934,,我是做不到的。,I just can't.,Я не способна на это.
+line-935,,而且，死亡对他来说，也算是种解脱吧？,"Besides, death was... kind of a release for him, right?","К тому же, смерть для него была своего рода избавлением, верно?"
+line-936,,对你来说却不是，W。死亡是你生命的游戏。,"But not for you, W. Death is the game of your life.","Но не для тебя, W. Смерть — это игра твоей жизни."
+line-939,,杀不死你的，会让你更接近死亡。,"What doesn't kill you, puts you one step closer to death.","То, что тебя не убивает, приближает к смерти."
+line-940,,越接近死亡......就会越接近疯狂。,The closer you get to death... the closer you also get to madness.,Чем ближе к смерти… тем ближе к безумию.
+line-945,W,谢谢你啊，凯尔希。,"Thanks, Kal'tsit.","Спасибо тебе, Кал'цит."
+line-946,W,没有你我还不知道怎么从那一大坨垃圾里爬出来呢。,I dunno how I would've gotten out of that trash heap without you.,"Без тебя я бы не знала, как вылезти из той огромной кучи мусора."
+line-947,W,还有，塔露拉......,"Oh yeah, Talulah...","И еще, Талла…"
+line-948,W,听得见吗，塔露拉？喂喂？,"Can you hear me, Talulah? Knock knock?","Слышишь, Талла? Эй, эй?"
+line-949,W,算了，没事，就是和你们说一声。,"Forget it, it's no big deal. I just wanted to let you know...","Забудь, ничего, просто хотела сказать вам всем."
+line-950,W,——我又回来啦。,——I'm back.,—— Я вернулась.
