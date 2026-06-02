@@ -1,0 +1,226 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,main_10
+__chapter__,,Chapter Name,obt/main/level_main_10-13_beg,逃离炮火
+,,,,
+char-1,克洛维希娅,克洛维希娅,Clovisia,Кловис
+char-2,自救军战士,自救军战士,Self-Salvation Corps Soldier,Боец Сил самообороны
+char-3,可露希尔,可露希尔,Closure,Клози
+char-4,阿米娅,阿米娅,Amiya,Амия
+char-5,海蒂,海蒂,Heidi,Хайди
+char-6,曼弗雷德,曼弗雷德,Manfred,Манфред
+char-7,？？？,？？？,???,???
+char-8,特雷西斯,特雷西斯,Theresis,Терезис
+char-9,特雷西斯？,特雷西斯？,Theresis?,Терезис?
+char-10,摩根,摩根,Morgan,Морган
+char-11,推进之王,推进之王,Siege,Сидж
+char-12,洛洛,洛洛,Rockrock,Лоло
+char-13,号角,号角,Horn,Хорн
+char-14,罗本,罗本,Robben,Робен
+char-15,伦蒂尼姆市民,伦蒂尼姆市民,Londinium Citizen,Гражданин Лондиниума
+char-16,费斯特,费斯特,Feist,Фест
+char-17,赫德雷,赫德雷,Hoederer,Хедрай
+,,,,
+line-10,克洛维希娅,情况怎么样？,What's the situation?,Как обстановка?
+line-12,自救军战士,——D区和E区受到严重损伤，其他区域顶层结构也有不同程度破损！,"Areas D and E have been severely damaged, and the structures in other areas have sustained various degrees of damage as well!","— Секторы D и E получили серьезные повреждения, верхние структуры в остальных секторах также частично разрушены!"
+line-13,自救军战士,轻伤十九人，暂时没人重伤。,"Nineteen people have light injuries, with nobody seriously injured as of yet.","Девятнадцать легкораненых, тяжелораненых пока нет."
+line-14,自救军战士,幸好，指挥官，我们听了您和那位博士的话，把大部分人提前转移到了安全区域——,"Fortunately, we followed the instructions given by you and the Doctor, and managed to move most of them to a safe area ahead of time––","К счастью, командир, мы послушали вас и того Доктора и заранее эвакуировали большинство людей в безопасную зону—"
+line-16,克洛维希娅,不，并不安全。,"No, nowhere's safe right now.","Нет, это небезопасно."
+line-17,克洛维希娅,整个地块都很危险......我们的据点完全暴露在了萨卡兹面前。,Everywhere around you is dangerous... Our entire stronghold has been completely exposed to the Sarkaz.,Весь этот участок крайне опасен... Наша база полностью открыта для сарказов.
+line-18,克洛维希娅,在把这里彻底炸穿，确保我们无处可躲之前，他们是不会罢手的。,They're not going to stop until they've blasted this place into smithereens to make sure we have nowhere to hide.,"Они не остановятся, пока не проломят здесь всё до основания, чтобы нам негде было спрятаться."
+line-24,克洛维希娅,我们还有多少时间？,How much time do we have?,Сколько у нас осталось времени?
+line-26,可露希尔,三十分钟，呃，说不定时间更短一些。,"Thirty minutes. Uhh, maybe even less than that.","Тридцать минут, э-э, может, даже меньше."
+line-28,可露希尔,附近的地块年纪都挺大了，以我们之前见过的城防炮的威力，再乘以一个输出极值理论倍数——,"The nearby plates are pretty old, and if we take the power of the artillery we've seen before and multiply that by the theoretical maximum output value––","Соседние участки довольно старые, если умножить мощность городских орудий, которые мы видели ранее, на теоретический предел их вывода..."
+line-30,可露希尔,不出三十分钟，我们头顶的全部结构层就会被轰烂！,We won't even have thirty minutes before the structure above us collapses right onto our heads!,"Не пройдет и тридцати минут, как все структуры над нашими головами будут разнесены в щепки!"
+line-36,克洛维希娅,通知哈默，我们立刻启动列车。,Let Harmo know and we'll start the train right away.,"Передай Хаммеру, что мы немедленно запускаем поезд."
+line-38,阿米娅,列车？,Train?,Поезд?
+line-40,克洛维希娅,你们应该都见过了，在我们头顶几公里处，有一个车站。,You all should've seen it before. A few kilometers above us is a train station.,"Вы, должно быть, уже видели, в нескольких километрах над нами есть станция."
+line-42,阿米娅,我还以为车站已经被萨卡兹占了......,I thought all the stations were occupied by the Sarkaz.,"Я думала, станцию уже захватили сарказы..."
+line-44,克洛维希娅,那我们必须把它夺回来。,Then all we have to do is take that one back.,"Значит, мы должны отбить её обратно."
+line-45,克洛维希娅,如今萨卡兹截断了我们通往其他区块的所有渠道，这是我们撤离萨迪恩区的最后希望。,"Now that the Sarkaz have cut off all our pathways to other boroughs, this is the last chance we have to evacuate Sudean.","Сейчас сарказы отрезали все пути к другим секторам, это наш последний шанс эвакуироваться из района Сардиен."
+line-46,克洛维希娅,海蒂，一旦我们离开萨迪恩区，你有方法帮我们避开萨卡兹的视线吧？,"Heidi, once we leave Sudean, do you have a way to keep us out of sight?","Хайди, как только мы покинем Сардиен, у тебя есть способ помочь нам скрыться от глаз сарказов?"
+line-48,海蒂,嗯，我一直准备着。,Yes. I've been preparing for this.,"Да, я всегда готова."
+line-50,海蒂,到下一个站点，会有朋友来帮我们做好伪装和掩护，直到我们成功进入中央区。,"Once we arrive at the next station, we'll have friends who will disguise us until we successfully enter Central Londinium.","На следующей станции нас будут ждать друзья, они помогут нам замаскироваться и прикроют, пока мы не доберемся до Центрального сектора."
+line-52,克洛维希娅,好。,Good.,Хорошо.
+line-54,克洛维希娅,最大的问题还是，我们能不能安全登上列车——,The biggest question mark will be whether or not we can safely board the train––,"Самая большая проблема в том, сможем ли мы безопасно сесть на поезд—"
+line-56,阿米娅,......,......,...
+line-58,阿米娅,克洛维希娅，我们目前离城墙多远？,"Clovisia, how far are we from the city walls?","Кловис, как далеко мы сейчас от городской стены?"
+line-60,克洛维希娅,走地下通道的话，很近。,"Very close, if we take the underground passages.","Если идти через подземные туннели, то очень близко."
+line-62,阿米娅,我想试试从下面登上城墙。,I'd like to try climbing them from beneath.,Я хочу попробовать подняться на стену снизу.
+line-64,克洛维希娅,阿米娅，你是想......,"Amiya, are you planning to...?","Амия, ты хочешь..."
+line-66,阿米娅,我们会为自救军的撤退争取时间。,We'll buy time for the Self-Salvation Corps to retreat.,Мы выиграем время для отступления Сил самообороны.
+line-78,曼弗雷德,封锁目标地块的全部出口，盯紧车站。我不希望他们再逃进下一个阴沟里。,Block all exits from the targeted plate and keep an eye on the train station. I don't want them crawling into the next gutter over.,"Заблокировать все выходы из целевого сектора, следить за станцией. Я не хочу, чтобы они снова сбежали в какую-нибудь сточную канаву."
+line-79,曼弗雷德,设置地面活动目标动态追踪。万一他们不死心，想爬到地面上，使用其他载具，那他们就必须直面更猛烈的炮火。,"Set up the motion-tracking ground targeting system. In case they still have some fight left in them and plan to escape through the surface via vehicle, we'll greet them with even more intense fire.","Установить динамическое отслеживание наземных движущихся целей. Если им хватит духу выбраться на поверхность на других транспортных средствах, они столкнутся с еще более яростным артобстрелом."
+line-80,曼弗雷德,加强城墙内部所有节点的防御。,Strengthen the defenses of all points inside the city walls.,Усилить оборону всех узловых точек внутри городской стены.
+line-81,曼弗雷德,......还有，修改城防炮的控制口令，确保除我以外，没人能关闭它们。,"Also, change the control passwords for the defense artillery so no one but me can deactivate it.","...И еще, сменить коды доступа к городским орудиям, чтобы никто, кроме меня, не смог их отключить."
+line-87,？？？,很好，足够谨慎。,"Good, you're taking adequate precautions.","Отлично, достаточно предусмотрительно."
+line-89,曼弗雷德,将军？！您为何会来这里......,General?! You're here...?,Генерал?! Почему вы здесь...
+line-91,特雷西斯,再过一会，这些恼人的虫豸就再无藏身之地。整个伦蒂尼姆的反抗势力不会再敢轻举妄动。,"In a matter of moments, these pesky insects have nowhere to hide. The Londinium rebels will never again dare to poke their heads out.","Еще немного, и у этих надоедливых насекомых не останется места, где можно спрятаться. Никто из сил сопротивления в Лондиниуме больше не посмеет и пошевелиться."
+line-92,特雷西斯,更关键的是，不会再有人从我们看不见的暗道里进进出出。外面的公爵部队将只能看到我们筛选过后的消息。,"More importantly, nobody will be able to go in and out of the dark passages we cannot see. The only thing the dukes outside will hear will be our hand-picked messages.","Что еще важнее, никто больше не будет пробираться через скрытые тоннели, которых мы не видим. Войска герцогов снаружи будут получать только те сведения, которые мы отфильтруем."
+line-93,特雷西斯,没有人能再影响我们的工程进度。,No one will interfere with our project's progress again.,Никто больше не сможет влиять на ход наших инженерных работ.
+line-94,特雷西斯,曼弗雷德，这样值得庆祝的时刻，你不欢迎我与你一同迎接吗？,"Manfred, am I not welcome to share this moment of triumph with you?","Манфред, разве ты не рад приветствовать меня в столь радостный момент?"
+line-96,曼弗雷德,......,......,...
+line-98,曼弗雷德,请不要再同我开玩笑了，阁下。,"Please do not mock me so, Your Highness.","Пожалуйста, не шутите так со мной, Ваше Высочество."
+line-100,特雷西斯？,哦？你又进步了嘛，这次我们只说了五句话，你就发现了我们不是特雷西斯。,"Oh? You've gotten better than before. We hardly spoke five sentences, and you've already realized we are not Theresis.","О? Ты стал лучше, в этот раз нам хватило пяти предложений, чтобы ты понял, что мы не Терезис."
+line-102,曼弗雷德,阁下......虽然殿下不会同你计较，但如果你这副样子被赦罪师的人看见，他们一定会再次向殿下申请，限制你的行动。,"Your Highness... Whether or not His Majesty is willing to turn a blind eye to you, should you draw the attention of the Confessarii, they will surely petition His Majesty to restrict your movements.","Ваше Высочество... Хоть Его Высочество и не станет вас винить, если вы предстанете в таком виде перед Исповедниками, они обязательно снова подадут прошение об ограничении вашей свободы передвижения."
+line-104,特雷西斯？,好吧好吧，你说的对，军事委员会不能有两个发号施令的人——,"Very well. As you said, the Military Commission cannot allow two men to call the shots––","Ладно, ладно, ты прав, в Военном совете не может быть двух командующих—"
+line-108,？？？,那就让我们换一个更舒服的模样吧。,"In that case, I'll shift to an appearance I'm more comfortable with.",Тогда давай сменим облик на более удобный.
+line-110,曼弗雷德,......难得，你愿意用王庭会议时的形象来见我。,How unusual that you're willing to meet with me using the same appearance you take at the Royal Court.,"...Редкий случай, ты решил предстать передо мной в том виде, в котором обычно бываешь на собраниях Королевского двора."
+line-112,？？？,我们答应你了，不用逝者的脸，也不再吓唬你和你的战士。,"We vowed not to use the faces of the dead, so as to not scare you and your men.",Мы обещали тебе: не использовать лица умерших и больше не пугать тебя и твоих воинов.
+line-114,曼弗雷德,你回来得比预定的时间更早。,You came back sooner than expected.,Ты вернулся раньше запланированного.
+line-115,曼弗雷德,虽然你帮我们找到了反抗军的窝点，但他们依然可能有其他我没注意到的后路。,"Even though you helped us root out the rebels' den, they may still have an escape route I haven't found.","Хоть ты и помог нам найти логово сопротивления, у них все равно могли остаться другие пути отхода, которые я не заметил."
+line-116,曼弗雷德,假如你能跟说好的一样，一路跟着他们，直到最后一名反抗军落到我们手中......,If you could uphold your end of the deal and follow them until every last rebel has fallen into our hands...,"Если бы ты следовал за ними, как договаривались, вплоть до того момента, пока последний повстанец не оказался бы в наших руках..."
+line-118,？？？,你真以为那个博士能让我们藏那么久？,Do you really think that Doctor can keep us hidden for so long?,"Ты правда думал, что этот Доктор позволит нам скрываться так долго?"
+line-119,？？？,更何况，曼弗雷德，你别忘了，我们不归你管。,"More importantly, Manfred, you must not forget that we do not belong to you.","И к тому же, Манфред, не забывай, мы тебе не подчиняемся."
+line-121,曼弗雷德,......,......,...
+line-123,曼弗雷德,是我冒昧了，请阁下宽恕。,I was out of line. Please forgive me.,"Прошу прощения за свою дерзость. Прошу простить меня, Ваше Высочество."
+line-125,？？？,也别用这种跟老红眼病说话的语气跟我们说话，早说过了，我们不吃这套。,"Don't talk to us the same way you do to old pink-eyes. We've told you before, we won't fall for that drivel.","И не разговаривай с нами так, словно общаешься с тем старым параноиком, мы же говорили, что нам это не нравится."
+line-127,曼弗雷德,如你所愿，阁下。,"As you wish, Your Highness.","Как пожелаете, Ваше Высочество."
+line-128,曼弗雷德,既然你选择提前回到这里，那么，你在地下看到你想看见的了？,"Since you decided to come back ahead of time, did you find what you were looking for underground?","Раз уж ты решил вернуться раньше, значит ли это, что ты увидел внизу всё, что хотел?"
+line-130,？？？,唔......那个“魔王”比我们想象的要更坚强一些，不过还远远算不上成熟。,"Hmm... That 'King of Sarkaz' is stronger than we thought, but is far from mature.","Хм... эта «Королева» оказалась упорнее, чем мы думали, но до зрелости ей еще далеко."
+line-132,？？？,她呀，她还不知道自己即将面对什么，我们想了解更多的话，至少要等她见一见那位殿下。,"She knows little of what she is about to face. If we want to learn more about her, that will have to wait until she meets Her Majesty.","Она еще не знает, с чем ей предстоит столкнуться. Если мы хотим узнать больше, придется подождать, пока она встретится с тем самым Его Высочеством."
+line-134,曼弗雷德,......你这些话，最好别让赦罪师听见。,You'd better not let the Confessarii hear those words.,"...Тебе не стоит, чтобы Исповедники услышали эти слова."
+line-136,？？？,听见又怎么样？,And why not?,"И что с того, если услышат?"
+line-138,曼弗雷德,他们会以为变形者集群的王庭有......摇摆之心。,They'll think the Damazti Cluster of the Royal Court... had a change of heart.,"Они решат, что в Королевском дворе Кластера Оборотней... завелись сомнения."
+line-140,？？？,你觉得我们会在乎吗？,And why would you think that matters to us?,"Ты думаешь, нас это волнует?"
+line-142,？？？,曼弗雷德，我们答应你的事已经做完了，剩下的烂摊子，你和血魔自己收拾。,"Manfred, we've already done what we promised you. You and the vampire can clean up the rest of the mess yourselves.","Манфред, мы выполнили то, о чем договаривались. Разбираться с остатками бардака будешь ты и Кровавый демон."
+line-144,？？？,对了......再有下次的话，给我们挑一个还活着的身份吧。,"Oh, right... Next time we speak, pick an identity for us that is still alive.","Да... и в следующий раз выбери для нас того, кто еще жив."
+line-159,摩根,维娜，阿米娅和博士已经出发。,"Vina, Amiya and the Doctor have already left.","Морган, Винья, Амия и Доктор уже выдвинулись."
+line-161,推进之王,好。,Good.,Хорошо.
+line-163,摩根,第一批自救军战士正在赶往头顶的车站......,The first wave of Self-Salvation Corps forces are rushing towards the station above us.,Первая группа бойцов Сил самообороны направляется к станции наверху...
+line-165,洛洛,快，快走，都跟上！,"Hurry, pick up the pace!","Быстрее, быстрее, не отставайте!"
+line-167,摩根,等战士们成功夺下车站，伤员们和没有战斗力的平民会最先登上列车。,"Once they capture the station, injured troops and non-combatant civilians will be the first to board the train.","Как только бойцы захватят станцию, раненые и мирные жители, не способные сражаться, первыми сядут в поезд."
+line-169,海蒂,白轮先生，麻烦你和医疗干员们一起照顾下行动不便的伤员，大家留意通道两侧的信号灯，不要走散！,"Mr. Balin, can I trouble you and the medics to tend to the injured with restricted mobility? Everyone, please pay attention to the signal lights on both sides of the passage, and don't get lost!","Мистер Уайт-Уил, пожалуйста, позаботьтесь о раненых вместе с медиками. Все следите за сигнальными огнями в тоннеле, чтобы не разбрестись!"
+line-171,摩根,大部分指挥部的人会随着伤员和平民一起转移，除了——,"Most of the command structure will go with the injured and the civilians, except––","Большая часть штаба будет эвакуироваться вместе с ранеными и гражданскими, за исключением..."
+line-173,克洛维希娅,我们的人都进入撤退通道了吗？,Have all our people entered the retreat channel?,Все наши люди уже зашли в эвакуационный тоннель?
+line-179,自救军战士,顶部结构稳定性持续下降！指挥官，你赶紧离开这里！,"The integrity of the superstructure is continuing to erode! Commander, we have to get out of here quick!","Верхние структуры теряют устойчивость! Командир, вам нужно немедленно уходить отсюда!"
+line-181,克洛维希娅,只要所有人都进了通道，我自然会跟上！,"As long as everyone's inside, I'll be right behind you!","Как только все зайдут в тоннель, я сразу же последую за вами!"
+line-182,克洛维希娅,十二队，汇报情况！,"12th, sitrep!","Двенадцатый отряд, доложить обстановку!"
+line-184,自救军战士,指挥官，这地下都快待不了人了，真的还会有敌人下来吗？,"Commander, the underground areas won't hold for much longer. Are enemies really still coming down?","Командир, здесь внизу уже опасно находиться, неужели враг правда спустится сюда?"
+line-186,克洛维希娅,汇报！,Report!,Доложить!
+line-192,摩根,维娜，我们要跟上白轮他们吗？,"Vina, should we go with Balin's group?","Винья, нам нужно догонять Уайт-Уила и остальных?"
+line-194,推进之王,我们留下。,We're staying.,Мы останемся.
+line-196,摩根,留下？你是说陪着克洛维希娅指挥官一起？,Staying? You're going to stay here with Commander Clovisia?,Останемся? Ты хочешь помочь командиру Кловис с командованием?
+line-198,推进之王,我有一种感觉......这种感觉可能她也有。,I have a feeling... Maybe she's getting it too.,"У меня есть предчувствие... Возможно, у неё оно тоже есть."
+line-199,推进之王,最强大的敌人，或许此刻并不在我们头顶。,The strongest enemy... might not be above us right now.,"Самый опасный враг, возможно, сейчас находится вовсе не над нашими головами."
+line-213,号角,......城防炮。,The cannons.,...Городские орудия.
+line-215,罗本,是的，号角，城防炮又启动了！这一次他们对准的是距离城墙最近的地块，目前来看，轰炸中心不在这里......,"Horn, the defensive cannons are activating again! This time, they're targeting the plate closest to the city walls. From what I can tell, they're not aiming at us...","Да, Хорн, городские орудия снова запущены! В этот раз они целятся по участку, который ближе всего к стене, судя по всему, центр взрыва не здесь..."
+line-217,号角,但谁都不能保证附近的安全。,But there's no guarantee that the surrounding areas are safe.,Но никто не может гарантировать безопасность поблизости.
+line-223,伦蒂尼姆市民,跑啊，快跑——,"Run, hurry––","Бегите, бегите быстрее—"
+line-225,伦蒂尼姆市民,我的女儿去了哪里......谁看见我的女儿了？,Where's my daughter? Has anyone seen my daughter!,Где моя дочь... Кто-нибудь видел мою дочь?
+line-227,号角,小心！,Look out!,Осторожно!
+line-243,号角,请立刻进入最坚固的建筑物避险——不，用最快的速度远离城墙！,"Get inside the sturdiest building as quickly as you can! ––No, get away from the city walls, now!","Немедленно укройтесь в самом прочном здании — нет, как можно быстрее уходите подальше от городской стены!"
+line-245,伦蒂尼姆市民,好......好的......,O-Okay...,Хо... хорошо...
+line-251,号角,这是......伦蒂尼姆的城防炮。,So this... is Londinium's defensive artillery.,Это... городские орудия Лондиниума.
+line-252,号角,照目前的情况来看，要不了多久，炮火就能贯穿地块，甚至破坏最下方的基底结构。,"Based on the current situation, it won't be long until the cannon fire penetrates the plate and destroys the base structure.","Судя по всему, пройдет немного времени, прежде чем огонь пробьет участок и даже разрушит саму основу фундамента."
+line-254,罗本,该死的萨卡兹，他们是不是早就等着这一刻了？他们是准备彻底毁了这座城市吗？,Those damned Sarkaz... Is this the moment they've been waiting for? Are they trying to destroy the city?,"Проклятые сарказы, они что, всё это время только этого и ждали? Они решили полностью уничтожить этот город?"
+line-256,号角,不。他们只启动了少量炮口，打击目标也很明确。,"No. They've only activated a small number of cannons, and their targets are quite clear.","Нет. Они задействовали лишь небольшую часть пушек, цели ударов ясны."
+line-257,号角,他们是为了消灭我们......和我们的朋友。,They're trying to eradicate us... and our friends.,"Они здесь, чтобы уничтожить нас... и наших друзей."
+line-259,罗本,号角，我们该怎么办？,"Horn, what should we do?","Хорн, что нам делать?"
+line-261,号角,昨天跟我们回来的士兵之中，是不是有几位原本就驻守在此的城防军？,"Among the soldiers who came back with us yesterday, how many of them were originally part of the city's defense forces garrisoned here?","Среди солдат, которые вернулись с нами вчера, были те, кто изначально нес службу здесь?"
+line-262,号角,叫上他们。拿上最好的装备。,Call them over. Bring the best equipment we've got.,Собери их. Возьмите самое лучшее снаряжение.
+line-263,号角,跟他们说——是时候把我们的城墙从萨卡兹手里夺回来了。,Tell them–– it's time to take back these walls from the Sarkaz.,Скажи им — пора вернуть наши стены из рук сарказов.
+line-277,费斯特,再往前一点点就到了。,We're almost there.,"Еще немного, и мы на месте."
+line-284,可露希尔,小心，别在这里摔倒——,"Careful, don't trip and fall––","Осторожно, не споткнись здесь—"
+line-286,可露希尔,你还好吧？,Are you hanging in there?,Ты в порядке?
+line-288,费斯特,哈......很难说得上好。,*sigh*... It's hard to say.,Ха... вряд ли это можно назвать порядком.
+line-290,可露希尔,唉，我能懂。,"Yeah, I know where you're coming from.","Эх, я тебя понимаю."
+line-292,可露希尔,我也犯过大错，信任了不该信任的人。,I've also made the big mistake of trusting people I shouldn't.,"Я тоже совершала большие ошибки, доверяла тем, кому не стоило."
+line-293,可露希尔,"在那之后，一个多月的时间，我只能逼着自己不要停下来。  ","After that, for an entire month, it took everything I had to force myself to keep going.","После этого целый месяц я только и делала, что заставляла себя двигаться дальше."
+line-295,可露希尔,只要一停下来，我就......呃，觉得自己很难直视阿米娅的眼睛。,"As soon as I stopped, I... Well, I'd feel like I couldn't look Amiya in the eye.","Стоило мне остановиться, как я... э-э, чувствовала, что не могу смотреть Амии в глаза."
+line-297,费斯特,嗯，仗还没打完。,"Well, the battle's not over yet.","М-м, битва еще не закончена."
+line-298,费斯特,大家连喘息的时间都不够，要是我还想着哀悼或者自我怀疑的话，也太奢侈了。,People don't have enough time to catch their breaths. It'd be too much of a luxury for me to mourn or wallow in self-doubt.,"У всех нас едва хватает времени перевести дух, если я сейчас начну горевать или сомневаться в себе, это будет слишком большая роскошь."
+line-300,阿米娅,费斯特先生，你需要帮助吗？我可以帮助你平复情绪。,"Mr. Feist, do you need help? I can calm you down.","Мистер Фест, вам нужна помощь? Я могу помочь вам успокоиться."
+line-302,费斯特,平复情绪？这也是某种源石技艺？,How? Is that some sort of Originium Arts?,Успокоиться? Это какой-то вид Ориджини-технологий?
+line-304,阿米娅,差不多吧。,Something like that.,Вроде того.
+line-306,费斯特,你平时......也会为你的战士做这些心理治疗吗？,"So... do you also help your men with psychological treatment, under normal circumstances?",Ты обычно... делаешь такую психологическую терапию своим воинам?
+line-308,阿米娅,如果干员自己觉得有必要的话......,If the operator thinks it's necessary.,Если операторы считают это необходимым...
+line-310,费斯特,呃......,Ugh...,Э-э...
+line-313,,别误会，阿米娅是关心大家。;阿米娅并不想把干员变成无情的战斗机器。,Relax. Amiya's looking out for all of you.;Amiya won't see our people become cold war machines.,"Не поймите неправильно, Амия заботится обо всех. Амия не хочет превращать операторов в бездушные боевые машины."
+line-316,阿米娅,费斯特先生，我让你误会了吗？,"Mr. Feist, did I come off the wrong way?","Мистер Фест, я вас чем-то смутила?"
+line-318,费斯特,咳咳，倒也没有，就是觉得源石技艺真的很神奇。,"No, no, that's not it. I was just thinking you have some truly amazing Arts.","Кхм-кхм, нет, просто подумал, что Ориджини-технологии — это действительно удивительная вещь."
+line-320,费斯特,就算生在伦蒂尼姆这样的城市，我没见过的，还是很多啊。,"Even in a big place like Londinium, I've hardly seen anything like them before.","Даже родившись в таком городе, как Лондиниум, я многого еще не видел."
+line-321,费斯特,阿米娅小姐，谢谢你的好意。不过，我还不想那么快就把刚才那一幕从我的脑子里驱赶出去。,"Miss Amiya, I appreciate your kindness. But, I don't think I'm ready to drive that scene out of my head so quickly.","Мисс Амия, спасибо за заботу. Но я пока не хочу так быстро выбрасывать те события из головы."
+line-323,可露希尔,那接着干活咯？,Then we'll just have to get right back to work.,Тогда вернемся к работе?
+line-325,费斯特,干活吧。,Let's do it.,За работу.
+line-327,可露希尔,无人机显示，我们头顶的防御结构层......非常厚。,The drones are showing that the defense structure layer above us is... very thick.,"Дроны показывают, что слой оборонительных конструкций над нами... очень толстый."
+line-329,阿米娅,能爆破吗？,Can it be blown up?,Можно взорвать?
+line-331,可露希尔,可能性很低。如果伦蒂尼姆的城防系统能这么轻易就被炸开......呃，我们昨天就该杀进碎片大厦了。,"Not likely. If Londinium's defenses could get blown up so easily... Well, let's just say, we would've stormed the Shard yesterday.","Шансы крайне малы. Если бы систему обороны Лондиниума можно было так легко подорвать... э-э, мы бы еще вчера прорвались в Здание Обломков."
+line-334,,你能找到办法。; 我相信可露希尔。,"You'll find a way.;I believe in you, Closure.",Ты найдешь способ. Я верю в Клози.
+line-337,可露希尔,博士，谢谢你对我的信心，这可真是压榨员工的好办法。,"I appreciate that, Doctor. You sure know how to twist your employees' arms.","Доктор, спасибо за доверие, отличный способ выжать из сотрудника все соки."
+line-339,可露希尔,嗯......我扫描到了升降梯，只要你们能找到一个合适的缝隙，让我把无人机塞进去，我就能黑到升降梯的控制权......,"Hmm... I've finished scanning the lift, and as long as you guys can open up enough of a gap for me to push the drone through, I should be able to hack into the lift and take control of it.","Хм... я просканировала лифт, если вы найдете подходящую щель, чтобы я могла просунуть туда дрон, я смогу взломать систему управления лифтом..."
+line-340,可露希尔,当然，首先你们得找一个更大的缝隙，来把自己弄到上面去。,"Of course, you'll have to find a bigger gap to get yourselves up first.","Конечно, сначала вам нужно найти щель побольше, чтобы забраться наверх."
+line-342,可露希尔,博士，你不觉得你应该发个信号，让Misery赶过来吗？,"Doctor, don't you think you should send a signal and call Misery over?","Доктор, вы не думаете, что стоит подать сигнал, чтобы Мизери пришел сюда?"
+line-345,,他有其他任务。,He has work to do.,У него другие задачи.
+line-348,可露希尔,好吧，看来我们没法偷懒了。,"Fine, I guess we'll have to do it ourselves.","Ладно, похоже, отлынивать не получится."
+line-355,可露希尔,本地人先生，麻烦再给我一些灵感。,Maybe the locals over here can give me some inspiration.,"Мистер местный житель, подкиньте еще идей."
+line-357,费斯特,要是能找到支柱结构，再施加一个超强外力的话，应该能开一条缝出来......,"If you can locate the support structure and apply an extremely strong external force, you might be able to open a little seam...","Если найти несущую конструкцию и приложить к ней мощную внешнюю силу, можно проделать отверстие..."
+line-359,可露希尔,......有人正在迅速接近我们的位置！,Someone's rapidly approaching our location!,...К нам быстро приближается кто-то!
+line-361,阿米娅,萨卡兹料到了我们会想办法登墙？,Did the Sarkaz expect us to find a way to climb up the wall?,"Сарказы предвидели, что мы попытаемся подняться на стену?"
+line-363,可露希尔,管不了那么多了，我让无人机搭载源石炸药！,Who cares about that? I'll have the drone pack some Originium explosives!,"Больше нет времени, загружаю дрон взрывчаткой из Ориджини!"
+line-364,可露希尔,费斯特，你算好位置，我们再想个办法放大爆炸效果——,"Feist, calculate the position. I'll think of some way to amplify the explosive effect––","Фест, просчитывай позицию, придумаем, как усилить эффект взрыва—"
+line-369,阿米娅,来了！,He's here!,Идут!
+line-377,阿米娅,......赫德雷。,....Hoederer.,...Хедрай.
+line-384,赫德雷,又见面了，罗德岛的领导人。,"We meet again, leader of Rhodes Island.","Снова встречаемся, лидер Родос Айленд."
+line-386,阿米娅,W小姐她......,What happened to W...?,Мисс W она...
+line-388,赫德雷,你确定要先聊她的事吗？我听说你们的时间很紧张。,Are you sure you should be worrying about her right now? I heard you folks were short on time.,"Ты уверена, что хочешь сначала обсудить её дела? Я слышал, что у вас очень мало времени."
+line-390,阿米娅,我可以不问你们之间发生了什么。切尔诺伯格和Scout的事......我也同意暂且放到一边。,"I'm willing to set aside whatever happened between you two. As well as... what happened at Chernobog, with Scout...","Я могу не спрашивать, что между вами произошло. Чернобог и дело Скаута... я тоже согласна оставить в стороне."
+line-391,阿米娅,但是，雇佣兵先生，如果此刻你一定要挡在我们身前，我动手的时候绝不会犹豫。,"But, Mr. Mercenary, if you intend on standing in our way, I'll cut you down without mercy.","Но, мистер наемник, если вы сейчас встанете у нас на пути, я не буду медлить, когда придет время действовать."
+line-393,赫德雷,死在那位殿下的继承人手上，对一名雇佣兵来说，也算是一种荣耀了。,"For any mercenary, dying at the hands of Her Majesty's heir would be a great honor.",Погибнуть от руки наследницы Его Высочества для наемника — своего рода честь.
+line-395,可露希尔,阿米娅，你最好快一点！,"You'd better hurry up, Amiya!","Амия, лучше поторопись!"
+line-396,可露希尔,就在刚才，我的炸弹已经开始倒计时了——,The bomb I planted just started ticking down––,Только что я запустила таймер на бомбе—
+line-398,可露希尔,一分钟，我们最多只有一分钟！,One minute! That's all the time we've got!,"Минута, у нас есть максимум одна минута!"
+line-404,阿米娅,我来拖住赫德雷......,I'll stop Hoederer...,Я возьму Хедрая на себя...
+line-406,费斯特,......不。阿米娅小姐，这个雇佣兵交给我。,"No... Miss Amiya, let me handle this mercenary.","...Нет. Мисс Амия, оставьте этого наемника мне."
+line-408,阿米娅,费斯特先生？,Mr. Feist?,Мистер Фест?
+line-410,费斯特,我找到了支柱的位置。而且，我有个主意，虽然不知道有多牢靠......能成功的话，你和博士抓紧时间登墙。,"I've found the support column. Plus, I have a plan, though I don't know how solid it is... If it works out, you and the Doctor need to seize the opportunity to get up the wall.","Я нашел место для опорной конструкции. И у меня есть идея, хоть и не знаю, насколько надежная... Если все получится, вы с Доктором успеете подняться на стену."
+line-416,赫德雷,我认得你，年轻的战士。,"I know you, young warrior.","Я узнаю тебя, молодой воин."
+line-418,赫德雷,我也认得你脸上的表情。你终于知道自己失去了多少，而且正在为自己决策的正当性感到迷茫。,"I also know that look in your eyes. The weight of everything you've lost has finally begun to set in, and you've lost your ability to trust in the soundness of your own decisions.","И выражение лица твое тоже узнаю. Ты наконец осознал, сколько потерял, и сомневаешься в правильности своих решений."
+line-420,费斯特,迷茫吗？,Lost?,Сомневаюсь?
+line-422,费斯特,抱歉，就算有时间，我也不想跟刽子手谈心。,"Sorry, but even if I had the time, I'm not interested in a heart-to-heart with a butcher.","Извини, даже если бы у меня было время, я не хочу изливать душу палачу."
+line-425,费斯特,看这里——！,Over here––!,Смотри сюда—!
+line-428,赫德雷,......又是烟雾弹？,Another smoke bomb?,...Опять дымовая завеса?
+line-429,赫德雷,就算少了一条能动的胳膊，你这些道具也对我起不了作用。,"Even if I'm short a usable arm, your little tricks won't work on me.","Даже если у тебя меньше одной рабочей руки, эти побрякушки на меня не подействуют."
+line-438,费斯特,来啊，萨卡兹，朝我砍过来！,"Come on, Sarkaz. Give me your worst!","Ну же, сарказы, руби меня!"
+line-439,费斯特,用上你的剑，你的刀，你所有的武器——,"Let me taste your sword, your machete, whatever weapons you've got on you––","Используй свой меч, свой нож, всё свое оружие—"
+line-441,赫德雷,你想引开我？不算太明智的策略。,Trying to draw me away? Not a very sensible strategy.,Ты хочешь отвлечь меня? Не самая мудрая стратегия.
+line-442,赫德雷,缺乏自知之明的孤勇并不能创造奇迹。,Empty bravado with no self-awareness isn't going to buy you any miracles.,Отсутствие здравого смысла не создает чудес.
+line-444,赫德雷,就算你所有的手下都在这里，你们也无法战胜我。,"Even if all your men were here, you wouldn't stand a chance against me.","Даже если бы все твои люди были здесь, вам не победить меня."
+line-452,费斯特,唔......,Ugh...,Хм...
+line-454,赫德雷,你逃跑的模样越来越狼狈。没有其他人帮你的话，你很快就会流血而死。,"Pretty ugly run there. Without help, you're going to bleed out soon enough.","Ты бежишь все более жалко. Если никто больше не придет на помощь, ты быстро истечешь кровью."
+line-456,赫德雷,说到底，你只是一个工匠......你和你的手下，不过是挥舞着扳手和锤子，就想扛住萨卡兹在战争中淬炼百年的刀剑？,"After all, you're just a craftsman... You and your men wave around wrenches and hammers, and hope that is enough to hold back Sarkaz blades tempered by centuries of war?","В конце концов, ты просто ремесленник... ты и твои люди просто размахиваете гаечными ключами и молотками, надеясь противостоять сарказам, чьи мечи закалялись в войнах столетиями?"
+line-458,赫德雷,向那边的魔王求救吧。让她来处置我。,Beg the King of Sarkaz for help. Have her deal with me.,Позови на помощь ту королеву. Пусть она разберется со мной.
+line-460,费斯特,......魔王？,The King of Sarkaz?,...Королеву?
+line-462,费斯特,你说......什么......,What... are you talking about...?,О чем... ты говоришь...
+line-463,费斯特,萨卡兹......是你们把战火烧到了伦蒂尼姆......,Sarkaz... You're the ones who brought war to Londinium.,Сарказы... это вы принесли войну в Лондиниум...
+line-465,费斯特,那么，这就是我们之间的战争！,This is a war between us!,"Значит, это война между нами!"
+line-467,可露希尔,三十秒！,Thirty seconds!,Тридцать секунд!
+line-472,,阿米娅，集中能量。,"Amiya, focus your energy.","Амия, сосредоточь энергию."
+line-475,阿米娅,博士，抓住我！,"Hold on tight, Doctor!","Доктор, держитесь за меня!"
+line-476,阿米娅,费斯特先生，我需要你锁定位置——,"Mr. Feist, I need your location––","Мистер Фест, мне нужно, чтобы вы зафиксировали позицию—"
+line-480,费斯特,雇佣兵......你看到这个了吗？,Mercenary... Are you seeing this?,Наемник... ты видишь это?
+line-482,赫德雷,......又是什么奇怪的障眼法道具？别挣扎了，你骗不过我的眼睛。,Another flashy toy? Stop resisting. You can't fool me.,"...Снова какая-то странная отвлекающая игрушка? Не пытайся, ты не обманешь мой взор."
+line-490,费斯特,对了，就是这样——,"Sure, you're right––","Вот, именно так—"
+line-494,费斯特,麻烦更用力一些！,"Please, one last push!","Пожалуйста, сильнее!"
+line-503,赫德雷,只是......磐蟹？一个机械玩具？你又想靠小伎俩蒙混过去吗？,A metal crab? A mechanical toy? What's your play here? Quit screwing around.,Всего лишь... Каменный краб? Механическая игрушка? Снова хочешь проскочить на мелких трюках?
+line-505,费斯特,不，它是你们从我身边带走的最重要的东西。,"No, that's the most important thing you've taken from me.","Нет, это самое ценное, что вы у меня забрали."
+line-506,费斯特,我从来不是孤身战斗......,I've never fought alone...,Я никогда не сражался в одиночку...
+line-507,费斯特,你看，老比尔又帮了我一次。雇佣兵，也多亏了你的多疑。,"Look, Old Bill helped me out again. It's all thanks to your paranoia, mercenary.","Смотри, старина Билл снова мне помог. Наемник, спасибо и за твою подозрительность."
+line-509,赫德雷,我的多疑？你......,My paranoia? You...,Моя подозрительность? Ты...
+line-511,赫德雷,你利用了我的攻击——！,You're using my––!,Ты использовал мою атаку—!
+line-513,费斯特,哈......哈哈！你终于看明白了吗？,Ha... Haha! Do you finally get it now?,Ха... ха-ха! Ты наконец понял?
+line-515,费斯特,你砍向我的每一刀，都是通往你们失败的道路！,Every time you swung your blade at me... you were carving your path to defeat!,"Каждый удар, который ты наносил по мне, был шагом к вашему провалу!"
+line-517,可露希尔,阿米娅，结构层被赫德雷劈开了一条缝！,"Amiya, Hoederer cut through the structural layer!","Амия, слой конструкции расколот мечом Хедрая!"
+line-519,可露希尔,快，瞄准它，炸弹就快炸了！,"Hurry, take aim! The bomb's about to blow!","Быстрее, целься в него, бомба сейчас рванет!"
+line-520,可露希尔,三，二，一——,Three... Two... One––,"Три, два, один—"
+line-535,阿米娅,唔——,Hrrgh––,Угх—
+line-537,可露希尔,撕开了——这条缝隙足够大！无人机——,"It's been split open! That's a big enough gap! Alright, you're up, drone––",Пробито— щель достаточно широкая! Дрон—
+line-538,可露希尔,升降梯控制权到手！,The lift is ours now!,Управление лифтом захвачено!
+line-540,阿米娅,博士，我们上！,"Doctor, let's head up!","Доктор, идем!"
+line-542,可露希尔,费斯特，你还有力气吗？拉住滑索，我们跟上去——,"Feist, are you hanging in there? Grab onto the zipline, and we'll head up after them––","Фест, у тебя еще остались силы? Хватайся за трос, мы последуем за вами—"
+line-544,赫德雷,别想走——！,You're not going anywhere!,Не сметь уходить—!
+line-546,费斯特,可露希尔，还有炸药吗？,"Closure, have any more explosives?","Клози, есть еще взрывчатка?"
+line-550,可露希尔,有，你接住！,"Yeah, catch!","Есть, лови!"
+line-552,赫德雷,你们......,You...,Вы...
+line-555,费斯特,......谢谢你的帮助，雇佣兵。,"Thanks for the hand, mercenary.","...Спасибо за помощь, наемник."
