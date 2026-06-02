@@ -1,0 +1,354 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act7d5
+__chapter__,,Chapter Name,activities/act7d5/level_act7d5_st05,自讨苦吃
+,,,,
+char-1,梓兰,梓兰,Orchid,Орхидея
+char-2,后勤干员,后勤干员,Logistics Operator,Сотрудник тыла
+char-3,泡普卡,泡普卡,Popukar,Поппука
+char-4,空爆,空爆,Catapult,Катапульт
+char-5,斑点,斑点,Spot,Спот
+char-6,月见夜,月见夜,Midnight,Цукими-Ё
+char-7,？？？,？？？,???,？？？
+char-8,空,空,Sora,Со
+char-9,后勤干员A,后勤干员A,Logistics Operator A,Сотрудник тыла А
+char-10,后勤干员B,后勤干员B,Logistics Operator B.,Сотрудник тыла Б
+,,,,
+line-10,,PM9：39 罗德岛舰内,9:39 P.M. Inside the Rhodes Island Landship,21:39. Внутри «Родос Айленд».
+line-13,梓兰,呼......总算是搞定了。,Phew.... Finally finished.,Фух... наконец-то закончила.
+line-15,后勤干员,辛苦了，梓兰小姐。,"Good work, Orchid.","Вы отлично потрудились, мисс Орхидея."
+line-17,梓兰,真的是，不知不觉就跟你们熟起来了，结果搞得我像你们的编外人员似的。,"I've gotten to know you all so well. It's like I'm part of the team now, huh?","Да уж, сама не заметила, как свыклась с вами, в итоге чувствую себя вашим внештатным сотрудником."
+line-19,后勤干员,啊哈哈，因为梓兰小姐你对这方面很熟练嘛，不知不觉就......,"Ahaha. You've really gotten good at this, Orchid.","А-ха-ха, просто вы, мисс Орхидея, так хорошо во всём этом разбираетесь, вот и получилось как-то само собой..."
+line-21,梓兰,哈......比起带那帮怪胎来说，我倒确实更擅长这个就是了。,"Ha... I'm better at this than looking after the circus, that's for sure.","Ха... если честно, это у меня получается куда лучше, чем возиться с той кучкой чудаков."
+line-23,后勤干员,那梓兰小姐要不要申请一下转到我们后勤部门来？,Why don't you apply for a transfer to logistics then?,"Может, тогда подадите заявку на перевод в наш тыловой отдел?"
+line-25,梓兰,欸？,Huh?,А?
+line-27,后勤干员,其实像梓兰小姐你这样的民间人士，加入罗德岛后会选择成为干员的反倒是少数呢，大部分都是像我们一样加入后勤部门。,"You know, people like you who come out of the, uh, more normal world usually end up working in logistics. It's kind of unusual to become a combat operator.","На самом деле, такие гражданские, как вы, после вступления в «Родос Айленд» редко выбирают путь оперативника. Большинство, как и мы, идет в тыловые службы."
+line-28,后勤干员,不如说，我们其实一直都挺好奇为什么你会选择上前线呢。,"We've all been wondering why you decided to go to the front lines, actually.","Если честно, нам всегда было любопытно, почему вы решили пойти на передовую."
+line-30,梓兰,你问为什么，嗯......,"You wonder why, huh...?","Почему, спрашиваешь... хм..."
+line-39,后勤干员,梓兰小姐，既然你想要加入罗德岛，那么你想做什么样的工作呢？,"What kind of work would you like to do for Rhodes Island, Orchid?","Мисс Орхидея, раз уж вы хотите присоединиться к «Родос Айленд», какую работу вы бы предпочли?"
+line-40,后勤干员,根据测验的结果，你是拥有相当的源石技艺适应性的，只要你愿意，经过训练就可以加入前线的行列。,"The assessments show you have an aptitude for Originium Arts. If you're interested, we could put you on the front lines.","Согласно результатам тестирования, вы обладаете неплохой предрасположенностью к искусству ориджини, так что если захотите — после подготовки сможете встать в ряды передовых оперативников."
+line-41,后勤干员,不过，因为你是民间人士，没有相关的战斗经验，我们还是建议你加入后勤相关的部门。,"But since you are a civilian with no relevant combat experience, we still recommend that you join a logistics-related section.","Однако, поскольку вы гражданское лицо без опыта боевых действий, мы всё же советуем вам выбрать тыловые подразделения."
+line-42,后勤干员,当然，请放心，即使你加入前线，我们不会给你安排危险的任务，会根据实力的评估。,"Of course, rest assured that even if you go into a combat role, we won't put you in danger. No more than you can handle, anyway.","Разумеется, не волнуйтесь: даже если вы пойдете на передовую, опасных заданий вам давать не будем — всё будет зависеть от оценки ваших навыков."
+line-44,梓兰,后勤是做什么的？,What does logistics do?,А что именно делают в тылу?
+line-46,后勤干员,嗯......后勤部门细分下来也有许多呢，不过总的来说，是为了维持罗德岛运转的各种工作吧。,"Well... It's a pretty broad department with a lot of functions. But, in general, you can think of it as the jobs that keep Rhodes Island running.","Хм... у тылового департамента много подотделов, но если в общем — это вся работа по поддержанию жизнедеятельности «Родоса»."
+line-47,后勤干员,因为文职比较多，所以比较适合你这样习惯了都市生活的人呢。,"Since there are more clerical jobs, it's well suited to people like you. Folks used to city life.","Там много кабинетной работы, так что для тех, кто привык к городской жизни, вроде вас, это будет как раз."
+line-49,梓兰,（也就是说，坐办公室吗......）,(He means sitting in an office...?),"(Значит, протирать штаны в офисе...)"
+line-50,梓兰,（原本就是想要转换心情才想着试试在这边工作，我可不想再在这里过办公室生活。）,(I came here for a change. I don't want to spend my life in a cubicle.),"(Я ведь и пришла сюда в надежде сменить обстановку, не хочу снова прозябать в офисе.)"
+line-52,梓兰,我......还是申请加入前线吧。,I... I want to go into a combat role.,Я... всё же подам заявку на передовую.
+line-54,后勤干员,真的吗？前线干员可是很辛苦的哦？,Are you sure? It can be tough being a front line operator.,Правда? Но работа оперативника передовой очень тяжела.
+line-56,梓兰,嗯，我想试一试。,Yes. I want to give it a try.,"Мгм, хочу попробовать."
+line-58,后勤干员,好的，我知道了。,Okay then.,"Хорошо, я вас понял."
+line-68,梓兰,（事到如今，我就是不想坐办公室才会那么选的这种话实在是说不出口啊。）,(I probably shouldn't tell him I wasn't interested in office work.),"(Теперь уже не скажешь, что выбрала это только потому, что не хотела сидеть в офисе.)"
+line-70,梓兰,......这么一说，好像我稀里糊涂地就变成干员了。,........Let's just say I sort of fell into it.,"...Такое чувство, будто я сама не поняла, как стала оперативником."
+line-72,后勤干员,啊，确实，对我们不了解的话，是会出现这种情况呢。,"Ah, yeah. That'll happen if you don't know what you're getting yourself into.","А, ну да, если вы нас плохо знаете, такое бывает."
+line-74,梓兰,是，是吗......,"Oh, oh yeah...?",П-правда?
+line-76,后勤干员,不过，我记得针对这样的情况，我们是有应对措施的，我看看条例......,But I seem to remember we have a way to deal with these sorts of things. Let me take a look here....,"Впрочем, я помню, что на такие случаи у нас есть регламент, сейчас посмотрю..."
+line-77,后勤干员,啊，没错，这一条写了，,"Ah, yep. Here we go.","А, точно, вот здесь написано:"
+line-78,后勤干员,“民间出身的战斗干员，在作为战斗干员工作的一年内，若不适应前线生活并申请转为后勤干员，应予以无条件通过。”,"'Combat operators of civilian origin who, within one year of working as a combat operator, find themselves unsuited to the role, may apply for reclassification as a logistics operator. It will be unconditionally approved.'","«Боевые оперативники гражданского происхождения имеют право на безусловный перевод в тыл по запросу в течение первого года службы, если не адаптируются к жизни на передовой»."
+line-79,后勤干员,梓兰小姐还加入我们没多久，适用于这一条哦，不如说，其实你们A6的所有人，除了萨尔贡军人出身的斑点，都适用这一条呢。,"You haven't been here that long, so you should be good to go. Actually, everyone in A6 should be good. Except Spot, since he was a Sargon soldier.","Вы ведь здесь совсем недавно, мисс Орхидея, это правило на вас распространяется. Да что там, все из отряда А6, кроме Спота, пришедшего из армии Саргона, тоже под него попадают."
+line-80,后勤干员,即使是斑点，也只是需要稍微过个审查而已，我们在这方面还是相当自由的。,"And even with Spot, I bet we can find a little wiggle room. ",Даже Споту нужно лишь пройти небольшую проверку. У нас в этом плане довольно свободно.
+line-82,梓兰,这样啊，我都没想过这方面的事。,Oh yeah? I never thought about it before.,"Вот как, я даже не думала об этом."
+line-84,后勤干员,而且你也知道，我们的工作其实一点也不比要战斗的干员们轻松，罗德岛的方方面面还是靠我们维持的呢。,It's not like our work is any easier than that of a combat operator. Rhodes Island depends on us to keep moving.,"К тому же, вы сами знаете, что наша работа ничем не легче, чем у оперативников передовой. Всё держится именно на нас."
+line-86,梓兰,嗯，我知道，谢谢，我会考虑的。,"Yeah, right. Thanks. I'll think about it.","Да, я понимаю. Спасибо, я подумаю."
+line-91,泡普卡,梓兰姐姐，还没好吗？,"Orchid, are you done yet?","Сестричка Орхидея, ты еще не закончила?"
+line-93,梓兰,这就好。,I just finished.,Уже иду.
+line-95,泡普卡,好~,Okay~,Хорошо~
+line-97,后勤干员,咦，这不是小泡普卡吗，她在等你吗？,"Well, if it isn't little Popukar. Is she waiting for you?","О, это же маленькая Поппука, она тебя ждет?"
+line-99,梓兰,嗯，在路上遇到的，她就跟过来了。,Yes. I bumped into her on the way and she came along.,"Да, встретила её по дороге, вот она и увязалась за мной."
+line-101,后勤干员,这么说起来，我记得上个月你说过，申请和她搬进一间二人宿舍了吧？,"Now that you mention it, I think I remember you applied for a double room to share with her?","Кстати, помню, в прошлом месяце ты подавала заявку на совместное проживание в двухместном общежитии?"
+line-103,梓兰,是啊，唉，这丫头也是个不让人省心的，也不知道是谁让这么小的孩子也出来战斗的。,Yes. *Sigh* That girl is a handful. And who sends a child that small out to war anyway?,"Ага, эх, с этой девочкой тоже не расслабишься. Интересно, кто вообще позволил такому маленькому ребенку сражаться."
+line-104,梓兰,队里其他人要么靠不住要么比她还不让人省心，可不就只能这么办了。,But the rest of the team is either unreliable or even more trouble than she is. So here we are.,"Остальные в отряде либо ненадежные, либо еще более беспокойные, вот и пришлось так поступить."
+line-106,泡普卡,梓兰姐姐，还没好吗？,"Orchid, are you done yet?","Сестричка Орхидея, ты еще не закончила?"
+line-108,梓兰,来了来了。那我先走了。,"Coming. All right, I'd better go.",Иду-иду. Тогда я пойду.
+line-110,后勤干员,别忘了我刚才说的事，期待你的答复~,Don't forget what we talked about. I'll be waiting for your answer.,"Не забудь о том, что я говорил, буду ждать вашего решения~"
+line-112,梓兰,嗯。,Right.,Ага.
+line-119,梓兰,哈......其实现在想想也挺好笑的，原本是为了逃离办公室生活才选择试试战斗的，结果最后还是变成刚才那样。,Ha.... Isn't it ironic? I became a combat operator to ditch the office. And now look at me.,"Ха... сейчас думаю, что это довольно забавно. Пыталась сбежать от офисной жизни, решив пойти в бой, а в итоге всё равно вернулась к тому же."
+line-120,梓兰,难道我这辈子就注定是个上班族吗......,"Am I doomed to the rat race, no matter what path I take...?",Неужели я по жизни суждена быть офисным планктоном...
+line-122,泡普卡,梓兰姐姐，什么是上班族？,"Orchid, what's a rat race?","Сестричка Орхидея, а кто такие офисные планктоны?"
+line-124,梓兰,上班族就是天天坐在办公室里发霉8小时，做的事完全就是重复机械劳动，下班了还不一定能走的悲惨职业哦。,"It's a miserable life, sitting in an office for 8 hours a day, growing fat and sick, doing tedious, menial labor and sometimes putting in overtime.","Это люди, которые целыми днями плесневеют в офисе по 8 часов, выполняя одну и ту же механическую работу, и даже после окончания смены не всегда могут уйти. Ужасная профессия."
+line-126,泡普卡,哦......不懂。,Oh... don't get it.,О-о... не поняла.
+line-128,梓兰,这么说起来，泡普卡，你是怎么来到罗德岛的？,"Anyway, Popukar, how did you end up at Rhodes Island?","Кстати, Поппука, а как ты попала на «Родос»?"
+line-130,泡普卡,唔，是凯尔希医生和安赛尔医生把我买回来的。,"Um, Dr. Kal'tsit and Dr. Ansel bought me.","М-м, меня купили доктор Кельси и доктор Ансель."
+line-132,梓兰,啊？买？,What? Bought?,А? Купили?
+line-134,泡普卡,嗯，以前泡普卡是在一家伐木场做事的。,Yeah. I used to work in a lumberyard.,"Ага, раньше я работала на лесопилке."
+line-135,泡普卡,有一天，安赛尔医生和凯尔希医生路过那里，看到泡普卡，就陪泡普卡玩了半天。,"One day, Dr. Ansel and Dr. Kal'tsit were passing by there and saw me. They played with me all day.","Однажды доктора Ансель и Кельси проходили мимо, увидели меня и полдня играли со мной."
+line-136,泡普卡,到第二天，不知道怎么的，泡普卡就被凯尔希医生买下来了。,"The next day, I don't know how or why, but Dr. Kal'tsit bought me.","А на следующий день, сама не знаю как, доктор Кельси меня выкупила."
+line-138,梓兰,伐木场？！,A lumberyard?!,На лесопилке?!
+line-140,泡普卡,嗯，泡普卡很小的时候就被爸爸妈妈送到了伐木场工作，场主叔叔虽然有时候对泡普卡很凶，不过会给泡普卡饭吃......,Yes. My mom and dad sent me to work in the lumberyard when I was very young. The boss was sometimes very mean to me. But at least he fed me...,"Да, мама с папой отправили меня работать на лесопилку, когда я была совсем маленькой. Дядя-владелец иногда ругался, но кормил меня..."
+line-142,梓兰,你还有见过你的爸爸妈妈吗？,Did you ever see your parents again?,Ты больше не видела своих папу и маму?
+line-144,泡普卡,唔，没有......场主叔叔说，爸爸妈妈去了很远的地方，不能来看泡普卡，要泡普卡忍耐。,"Oh, no.... The boss said my mom and dad went very far away and couldn't come to see me. So I just had to wait.","М-м, нет... дядя-владелец сказал, что мама с папой уехали очень далеко и не могут меня навестить, велел мне терпеть."
+line-145,泡普卡,安赛尔医生也说，泡普卡要是做个好孩子的话，罗德岛会帮我找爸爸妈妈，说不定有一天就能再见到他们了！,"Then Dr. Ansel said that if I was good, Rhodes Island would help me find my mom and dad, and I might see them again someday!","Доктор Ансель еще сказал, что если я буду хорошей девочкой, «Родос» поможет мне найти их. Может, однажды я их увижу!"
+line-146,泡普卡,咦，梓兰姐姐，你怎么忽然抱住我，怎么啦？,"Hey, Orchid, why are you hugging me all of a sudden? What's wrong?","Ой, сестричка Орхидея, почему ты меня вдруг обняла? Что случилось?"
+line-148,梓兰,......不，没什么，只是突然想抱抱你。,...Nothing. Sometimes a girl needs hugs is all.,"...Нет, ничего, просто захотелось тебя обнять."
+line-149,梓兰,你想不想像刚才那些哥哥姐姐一样，做一些可以坐着完成的事，不用到处跑？,"How would you like to be like those boys and girls back there? Doing things in a chair, not needing to run around all the time?","Ты бы не хотела, как те ребята раньше, заниматься тем, что можно делать сидя, не бегая повсюду?"
+line-151,泡普卡,唔，安赛尔医生也问过这样的问题，但是那些泡普卡都不懂，泡普卡只有力气比较大。,"Um, Dr. Ansel asked me the same question, but I don't really understand that kind of stuff. I just know I'm pretty strong.","М-м, доктор Ансель тоже спрашивал, но я в этом не разбираюсь, у меня только сил много."
+line-152,泡普卡,不过不过，泡普卡现在也有好好上课学习识字，以后就可以像梓兰姐姐一样，帮那些哥哥姐姐们的忙了！,"But I've been trying really hard to learn to read. Then I can help you, and all those boys and girls in the office!","Но, но, я сейчас прилежно учусь читать и писать! Когда вырасту, смогу помогать тем ребятам, совсем как ты!"
+line-154,梓兰,......这样啊。,...Of course.,...Вот как.
+line-156,泡普卡,嗯！......梓兰姐姐，你怎么啦，表情好难过，是泡普卡说了什么不好的话吗？,"Yeah...! Orchid, what happened? You look really sad. Did I say something bad?","Ага! Сестричка Орхидея, что с тобой? У тебя такое грустное лицо, я что-то не то сказала?"
+line-158,梓兰,没事，不是你的错，是我的错，我不该问这些的。,Not at all. It's my fault. I shouldn't have asked about that.,"Всё хорошо, это не твоя вина, это моя. Не стоило спрашивать."
+line-160,泡普卡,梓兰姐姐对泡普卡这么好，问什么都没关系哦。,"You're always so nice to me, Orchid. You can ask me anything.","Ты так добра ко мне, сестричка, спрашивай о чем угодно!"
+line-162,梓兰,嗯，嗯。,Okay.,"Да, конечно."
+line-164,空爆,梓兰姐，你干嘛在路中央抱着泡普卡，感觉好怪哦。,"Orchid, why are you hugging Popukar in the middle of the corridor? People might get the wrong idea.","Орхидея, ты зачем посреди дороги Поппуку обнимаешь? Выглядит как-то странно."
+line-166,梓兰,......咳咳，没什么。,...Ahem. Don't worry about it.,"...Кхм, ничего такого."
+line-168,泡普卡,空爆姐姐，晚上好！,"Hi, Catapult!","Сестричка Катапульт, добрый вечер!"
+line-170,空爆,噢，晚上好呀，泡普卡。,"Oh, hi Popukar.","О, добрый вечер, Поппука."
+line-171,空爆,你们这是要回宿舍吗？,Are you guys going home?,Вы в общежитие возвращаетесь?
+line-173,梓兰,嗯，你呢，看你一身汗，别又去哪儿给我惹事了在逃跑吧？,"Yes. Now why are you all sweaty? You better not be running off to get yourself, and by extension me, into trouble.","Да. А ты? Вся в поту, опять вляпалась в неприятности и сбежала?"
+line-175,空爆,唉，别提了，梓兰姐，我哪有这样的功夫，我刚被月见夜放出来呢。,"Come on, Orchid, give me a little credit. I just finished a session with Midnight.","Эх, не напоминай, откуда у меня на это время? Меня только что Цукими-Ё отпустил."
+line-177,梓兰,......？,......A what with Midnight?,...?
+line-179,空爆,咦，梓兰姐你不知道吗，除非有任务，月见夜每天这个时候都会在训练场锻炼的。,"Huh? Don't tell me you don't know. Unless there's a mission, Midnight works out in the training room every day about this time.","Ой, ты что, не знала? Цукими-Ё каждый день в это время тренируется в зале, если нет заданий."
+line-180,空爆,我今天没什么事，就被他给拉过去了，好不容易才被他放走，斑点还在那儿给他喂招呢。,"I didn't have anything to do today, so he roped me in, worked my tail off, and finally let me go. Spot's there giving him the business now.","У меня сегодня дел не было, вот он и притащил меня туда. Едва ноги унесла, а Спот там до сих пор отбивается."
+line-182,梓兰,为什么？,Why?,Зачем?
+line-184,空爆,我怎么知道，我还以为梓兰姐你知道这回事呢，啧，下次这个点我一定见到他就跑。,How should I know? I figured you'd be up on it. I just know I need to steer clear of Midnight around ten o'clock.,"Почем я знаю? Я думала, ты в курсе. Тц, в следующий раз в это время увижу его — убегу подальше."
+line-186,泡普卡,泡普卡也知道！月见夜也找过泡普卡，不过被泡普卡打飞了，就再也没找过泡普卡了。,I knew about it! Midnight also got me to join. But then I hit him and he flew away and he didn't ask me again.,"Я знаю! Цукими-Ё пытался и меня позвать, но я его с одного удара сбила, больше он ко мне не приставал."
+line-188,空爆,......噗哈哈哈哈，还有这样的事，难怪我问他怎么不找你的时候，他马上就转移话题了，哈哈哈哈哈，哎呀，这事我可以笑三天！,Bwahahahahaha! So that's the story. No wonder he dodged the question when I asked if he told you. Hahaha! My sides!,"...Пфф-а-ха-ха-ха! Серьезно? Неудивительно, что он сразу переводил тему, когда я спрашивала, почему он тебя не зовет! Ой, я теперь три дня смеяться буду!"
+line-190,梓兰,......算了，你没惹什么事就好。,...All right. As long as you're not making trouble.,"...Ладно, главное, что ты сама в неприятности не вляпалась."
+line-192,空爆,为什么结果还是回到这个话题上了！梓兰姐，你这是偏见！明明泡普卡也经常惹事，为什么你对她就这么好！,"Why do you always come back to that?! This is discrimination, Orchid. You're always so nice to Popukar, even when she makes trouble!","Да почему мы опять к этому возвращаемся?! Это предвзятость, Орхидея! Поппука ведь тоже постоянно попадает в переделки, почему ты к ней так добра?"
+line-194,梓兰,你要是每次惹事后也自己去乖乖道歉，我也会对你这么好。,I'd be so nice to you if you'd also go and sweetly apologize every time you did something bad.,"Если бы ты после каждой своей выходки добровольно шла извиняться, я бы к тебе так же относилась."
+line-196,空爆,那我做不到，惹了事还要道歉的话，那我是为了什么惹事的！,"That's beyond me. And if I have to apologize for stirring things up, then where's the fun in it?!","Ну, на это я пойти не могу. Если извиняться после того, как наворотила дел, зачем тогда их вообще начинать?"
+line-198,梓兰,那就不要惹事啊！,Just stay out of trouble to begin with!,Так не начинай их!
+line-199,梓兰,真是，也就只有罗德岛容得下你，换别的地方，早就......算了，没什么。,"You're lucky you're at Rhodes Island, anywhere else would have... Never mind. Forget it.","Боже, только «Родос» тебя и терпит. В любом другом месте ты бы уже... ладно, забудь."
+line-201,空爆,哎呀，梓兰姐，你直说没关系的，就是别的地方都容不下我这种性格，我又不想改，也就只有罗德岛才会要我这样的怪胎了。,"Come on, Orchid, just come out with it. Nowhere else can handle my personality. And I don't wanna change. Only Rhodes Island would want a freak like me!","Ой, да говори прямо, ничего страшного. Просто в других местах мой характер не принимают, а меняться я не хочу. Только «Родос» готов мириться с таким чудаком, как я."
+line-202,空爆,不过，这里的大家会说话，又厉害，好好工作又有钱拿，我超喜欢这里的。,But everybody here is talkative and awesome and the work is good and it pays well. I love it here.,"Зато здесь все умеют говорить, они сильные, да и платят за работу хорошо. Мне здесь ужасно нравится."
+line-204,梓兰,唉，说不过你，你喜欢就好。,*Sigh*. Great. As long as you're happy.,"Эх, с тобой спорить бесполезно. Раз нравится — и ладно."
+line-205,梓兰,总之，赶紧回去洗澡，身为女孩子，一身汗在外面走像什么话。,"Anyway, hurry back and take a shower. A girl shouldn't be out walking around all sweaty.","В общем, бегом в душ. Девушке ходить по кораблю вся в поту — ну что за вид."
+line-207,空爆,是~,Sure~,Слушаюсь~
+line-208,空爆,咦，梓兰姐，你走的方向不是宿舍的方向啊。,"Hey, Orchid, the dorms are the other way.","Ой, Орхидея, ты идешь не в сторону общежития."
+line-210,梓兰,我去训练场看看。,I'm going to check out the training room.,Зайду в тренировочный зал.
+line-212,空爆,哦。泡普卡，今晚来我的房间玩嘛，我给你讲故事！,"Oh. Popukar, why don't you come to my room tonight? I'll tell you a story.","Ок. Поппука, приходи вечером ко мне в комнату, расскажу тебе сказку!"
+line-214,泡普卡,好~,Okay~,Хорошо~
+line-220,,训练室,Training Room,Тренировочный зал
+line-224,斑点,月见夜，你是不是晚饭没吃饱，就这点力气？,"Did you skip dinner, Midnight? Kinda weak.","Цукими-Ё, ты что, ужин пропустил? Сил совсем нет?"
+line-226,月见夜,我的剑术，靠的可是敏捷和出其不意。,My swordsmanship is about agility and cunning.,Мое мастерство владения мечом строится на ловкости и внезапности.
+line-228,斑点,继续吹，我爱听。,Keep talking. Music to my ears.,"Продолжай заливать, я слушаю."
+line-230,月见夜,得手了！,Ah hah!,Попался!
+line-232,斑点,慢了点，不过这一剑不错，可以看出你晚饭确实吃饱了。,Slow. But not bad. I can tell you did eat enough after all.,"Медленно, но выпад неплохой. Вижу, ужин ты всё-таки съел."
+line-234,梓兰,......,........,...
+line-236,泡普卡,哇，月见夜哥哥真的在和斑点对打。,"Wow, Midnight and Spot are fighting.","Вау, Цукими-Ё и правда дерется со Спотом."
+line-237,泡普卡,我去......,Can I...?,Я пошла...
+line-239,梓兰,等他们打完吧。,Let's wait for them to finish.,"Подождем, пока закончат."
+line-241,泡普卡,喔——,Oh——,Угу—
+line-248,月见夜,嘶，哈......给我喝口水。,"Pfft. *Pant*... water, please.",П-пфф... дайте воды.
+line-250,斑点,给。,Here.,Держи.
+line-252,月见夜,......呼，谢谢。,........Phew. Thanks.,"...Фух, спасибо."
+line-253,月见夜,不愧是军人家庭出身，斑点你平时虽然很懒散，但果然还是比我厉害许多啊。,"Your military lineage shows, Spot. You're usually so lethargic, but you're clearly much better than me at this.","Не зря ты из семьи военных, Спот. Пускай ты по жизни ленив, но всё же гораздо сильнее меня."
+line-255,斑点,你可以骄傲一点。要不是你有以前的基础在，我会找本漫画来一边看一边和你打。,"You've got something to be proud of. If you didn't have the basics, I'd have my comics in one hand while I fought you with the other.","Можешь этим гордиться. Если бы не твоя база, я бы сейчас читал мангу, пока мы деремся."
+line-257,月见夜,我有这么弱吗？,Am I so weak?,Я настолько слаб?
+line-259,斑点,让我想想有什么不会伤到你又能表达我意思的说法。,How can I get my point across without hurting your feelings?,"Дай подумать, как сказать, чтобы тебя не обидеть, но смысл донести."
+line-261,月见夜,免了。,No need.,Не надо.
+line-263,斑点,不过，我其实还有点好奇，你以前不是做男公关的吗。,"But I'm actually curious, you were an escort before, right?","Кстати, мне до сих пор интересно: ты же раньше хостом работал?"
+line-264,斑点,我看得出来，你基础不错，没个几年练不出来的。,You've got the fundamentals. I can tell. A couple years of practice.,"Вижу, база у тебя хорошая. За пару лет такому не научишься."
+line-265,斑点,虽然对于军人来说，你这点算不了什么，但确实，在普通人中你应该算是能打的。,"That's not up to military standard. But for a civilian, you can fight.","Пусть для военного это ничто, но среди обычных людей ты весьма силен."
+line-267,月见夜,我可以理解为你这是在夸我？,Can I take that as a compliment?,Это можно считать за комплимент?
+line-269,斑点,我主要是在说服自己，队伍里那个看起来最轻浮的家伙其实也是有优点的。,I'm mostly trying to convince myself that the most useless guy on our team actually has something to offer.,"Я пытаюсь убедить себя, что у самого легкомысленного парня в отряде всё же есть достоинства."
+line-271,月见夜,哈哈，其实......,Haha... Actually...,"Ха-ха, на самом деле..."
+line-273,泡普卡,月见夜哥哥，斑点哥哥！,Midnight! Spot!,"Цукими-Ё, Спот!"
+line-275,月见夜,嗯？,Huh?,М?
+line-277,斑点,梓兰也来了，我认为你完了。,Orchid's here. You're boned.,"Орхидея тоже пришла. Думаю, тебе конец."
+line-279,月见夜,为什么？,Why's that?,Почему?
+line-281,斑点,不知道，不过我妈以前看我不顺眼的时候就是那个表情。,"I don't know, but she looks like my mom did whenever things were about to get real bad for me.","Не знаю. Но когда моя мать смотрела на меня с таким выражением, ничего хорошего не жди."
+line-283,月见夜,呵呵，这你就错了，接下来就轮到我来教你一些应付女性的招式了。,"Oh, you're wrong about that. And it's my turn to teach you some tricks for dealing with women.","Хе-хе, тут ты ошибаешься. Сейчас покажу, как нужно обходиться с дамами."
+line-285,斑点,嚯。,*Snort*.,Ха.
+line-292,月见夜,晚上好，泡普卡小姐，梓兰小姐。,"Good evening, Miss Popukar, Miss Orchid.","Добрый вечер, Поппука, Орхидея."
+line-294,梓兰,你在这里做什么？,What are you doing here?,Что ты здесь делаешь?
+line-296,月见夜,如你所见，我每天这个时候都会在这里锻炼自己。,"As you can see, I'm doing my daily exercise.","Как видите, тренируюсь. Каждый день в это время."
+line-298,梓兰,我怎么不知道？,And why don't I know about this routine?,Почему я об этом не знала?
+line-300,月见夜,因为我想梓兰小姐你对这方面没有什么兴趣，而且这毕竟只是我利用自己个人时间的方式，不是吗？,"I never thought you'd be interested, Miss Orchid. And it's all on my own time.","Подумал, что вам это неинтересно. Да и использую я своё личное время, разве нет?"
+line-302,梓兰,......倒也没错。,...Fair enough.,...Верно.
+line-303,梓兰,但是，我们只是普通人，杜宾教官也明确说过，危险的战场不会让我们这样由民间人士组成的队伍去的，有什么必要？,But we're normal people. And Instructor Dobermann made it clear that civilian teams like us won't ever end up on dangerous missions. So what's the point?,"Но мы ведь обычные люди. Инструктор Дубин четко сказала, что наш отряд гражданских на опасные участки не отправят. К чему всё это?"
+line-305,月见夜,啊，这个问题，嗯，你问了一个好问题呢，梓兰小姐。,"Oh, good question. Mm, a truly fantastic question, Orchid.","О, отличный вопрос, Орхидея."
+line-307,梓兰,......？,.......?,...?
+line-309,月见夜,那么，就先稍微休息一下吧，斑点？,"Let's take a break for now, shall we, Spot?",Давайте сделаем перерыв. Спот?
+line-311,斑点,呼啊......随你，反正我只是陪练，那我去拿本漫画。,"Yeah, whatever. I'm just here to help out. I'll go get a comic book to read.","Хух... делай что хочешь. Я всё равно только спарринг-партнер, пойду почитаю."
+line-318,月见夜,梓兰小姐，你知道在我这行，成功的秘诀是什么吗？,"Orchid, do you know what the secret to success is in my line of work?","Орхидея, знаете, в чем секрет успеха в моей профессии?"
+line-320,梓兰,你在说什么。,What are you talking about?,О чем ты?
+line-322,月见夜,只是一点开场白而已，你不回答我也会继续说的。,"That's a rhetorical question, to start things off. I can continue without an answer.","Просто вступление. Ты даже если не ответишь, я продолжу."
+line-324,梓兰,难道不是长的帅一点，然后再比较会说话就行？,"I'd guess the trick is to be handsome, first and foremost. And then be a decent talker?","Разве не в том, чтобы быть красивым и уметь заговаривать зубы?"
+line-326,月见夜,不不不，虽然我自认相当美型，也确实懂得如何赞美别人......,"No, no, and no. Although I consider myself quite beautiful, and I do know how to pay a compliment...","Нет-нет. Хотя я признаю, что я очень хорош собой, и умею делать комплименты..."
+line-328,斑点,呕。,Bleh.,Бе-е.
+line-330,泡普卡,斑点怎么啦？,What's wrong with Spot?,Что со Спотом?
+line-332,斑点,没什么，我只是重新认识了人的可能性。,"Nothing, just looking at a clown in a whole new light.","Ничего, просто заново осознал безграничность человеческого потенциала."
+line-334,月见夜,呵呵，自信是十分重要的，不过，最重要的，是对客人一视同仁。,Heh heh. Confidence is very important. But by far the most important is to treat all your clients equally.,"Хе-хе, уверенность очень важна. Но самое главное — быть беспристрастным к гостям."
+line-335,月见夜,更确切地说——只要来到我的店里，我的面前，那么，无论你是谁，你唯一的身份，就是我的客人。,"That is——When you step into my realm, my presence, then, whoever you are, the only thing you are, is my client.","Вернее сказать — как только ты переступаешь порог моего заведения, твоя единственная личность для меня — это гость."
+line-337,梓兰,......这和刚才的话题有什么关系？难道你是想说，对你来说，大家都是一样的？,........What's the point of all this? Are you trying to say that everyone's the same to you?,"...И как это относится к нашему разговору? Хочешь сказать, что для тебя все одинаковы?"
+line-339,月见夜,不不不，我的队长小姐，你是聪明人，只是你没有这么想过。,"Not at all, my dear sweet captain. Clever as you are, you've never thought this through.","Нет, мой командир. Ты умная женщина, просто раньше об этом не думала."
+line-340,月见夜,并不是对我来说，而是，事实上就是如此。,"It's not that everyone's the same to me. It's that, simply, everyone's the same.","Дело не в том, что «для меня» так, а в том, что так оно и есть."
+line-341,月见夜,表面刚强，人称铁面女强人的部长其实可能只是为了工作戴上了面具，而戴久了连自己也不知道该怎么摘下。,"The iron-fisted career woman, tyrant of her office section, could actually just be wearing a mask for the sake of her work. If she wears it long enough, she may forget how to take it back off.","Внешне суровая женщина-босс может просто носить маску из-за работы, настолько долго, что забыла, как её снимать."
+line-342,月见夜,表面家庭美满的主妇，可能丈夫早就出轨，而她只能独守空房，不能和人诉说，只能来我这里买醉。,"The outwardly homely housewife, whose husband likely cheated on her long ago, she stays at home telling no one of her troubles, with no choice but to come to drink with me.","Внешне счастливая домохозяйка может годами терпеть измены мужа, не имея возможности выговориться, и приходит ко мне, чтобы просто напиться."
+line-343,月见夜,性格急躁，给人女强人感觉的服装设计师，说不定只是害怕被人讨厌，失去他人的信赖。,"An ill-tempered fashion designer with her strong woman facade may just fear the gossip of others, and the resulting loss of trust.","Вспыльчивый дизайнер одежды может просто бояться, что его невзлюбят и потеряют к нему доверие."
+line-345,梓兰,你是不是找死。,Do you have a death wish?,Ты жить хочешь?
+line-347,月见夜,哈哈，我可没有在说你哦？这样的人，比比皆是。,"Ha ha, did you think I was talking about you? People like this abound.","Ха-ха, я же не про тебя! Таких людей полно."
+line-348,月见夜,在你我所处的城市中，每个人，在卸下他们的身份和责任之后，都是一样的。,"Everyone in the city, after unloading their identities and responsibilities, is exactly the same. Each and every one.","В городе, где мы жили, каждый человек, сняв свои обязанности и статусы, одинаков."
+line-349,月见夜,那么，在罗德岛呢，事情会有什么差别吗？,"So why, at Rhodes Island, would things be any different?",А что на «Родосе»? Разве здесь иначе?
+line-350,月见夜,那些出入危险地带的精英干员们，在下了战场后，会像一台机器拔掉电源一样停止工作？,"Do the elite operators who go diving headlong into a warzone, come back and unplug themselves like so much machinery?","Элитные оперативники, вернувшись с опасных зон, выключаются, как машина, выдернутая из розетки?"
+line-351,月见夜,不是的，他们会在酒吧喝酒聊天，会在温室培育他们刚种下的植物，会听音乐，会看书。,"No, they drink and chat in the bar. They care for their freshly potted plants in the greenhouse. They listen to music, they read.","Нет. Они пьют и болтают в баре, ухаживают за цветами в оранжерее, слушают музыку, читают книги."
+line-352,月见夜,他们也会抱怨任务太难或者嘲笑任务的简单，他们会哭，也会笑，会难过，会痛，受伤也会死。,"They complain when a mission is too hard, or chuckle at how hilariously easy it was. They cry, they laugh, they mope, they hurt, and they die.","Они жалуются на сложность заданий или смеются над их простотой. Они плачут, смеются, грустят, им больно, они получают раны и умирают."
+line-353,月见夜,他们和我们没有差别，不是吗？,"They're no different from us, are they?","Они ничем не отличаются от нас, верно?"
+line-355,梓兰,......你这家伙，倒是挺有演讲的天赋。,...You're a boy who knows how to give a speech.,...У тебя есть талант оратора.
+line-357,月见夜,感谢您的夸奖。,Thank you for the compliment.,Благодарю за комплимент.
+line-359,梓兰,......哎，你说的倒也不是没有道理，我只是无法产生实感。,...*Sigh*. That all makes sense. But I still feel like it's not completely true.,"...Эх, в твоих словах есть смысл, но прочувствовать это я не могу."
+line-361,月见夜,其实这倒不能怪你，我稍微好一点，公关这个行业，做到我这个地步，总是要接触一些灰色地带的。,"And I can't blame you for that. My industry, as it is, always had a bit of an underbelly to it. I have that advantage.","Ну, тебя нельзя винить. Я-то еще ладно — работа в хост-клубе заставляет касаться «серой» зоны."
+line-362,月见夜,但梓兰小姐你不一样，你是真正在光明的地方成长的。,"But not you, Orchid. You grew up entirely in the light of day.","А ты, Орхидея, выросла в свете."
+line-363,月见夜,对你来说，最大的烦恼无非是工资低了一些，皮肤不够好，上班的交通混杂等等等等。,"The greatest hardships for you were lower pay than you'd like, insufficiently clear skin, traffic on your commute. Those sorts of things.","Твои главные проблемы: зарплата пониже, кожа не такая гладкая, заторы на дорогах."
+line-364,月见夜,对你来说，这个充斥着暴力和血腥的世界，确实是一个全新的世界。,This world of violence and bloodshed is indeed a brave new world for you.,"Мир, полный насилия и крови, для тебя — нечто совершенно новое."
+line-365,月见夜,但你已经来到了这里，并且选择留了下来，那么，是不是应该至少去尝试了解它，而不是用过去的常识来束缚自己呢？,But you're here. You made your choice. Shouldn't you at least try to understand it instead of shackling yourself to the common sense of your past?,"Но ты уже здесь и решила остаться. Раз так — может, стоит попытаться понять его, а не связывать себя прошлыми мерками?"
+line-367,梓兰,过去的常识......,The common sense of my past...,Прошлыми мерками...
+line-369,月见夜,当然，我不是想要说教，且不说我有没有这个资格，而是这一点，难道已经成为罗德岛“时尚大师”的梓兰小姐会不明白吗？,I'm not trying to be preachy. I'm definitely not qualified to preach. But wouldn't the 'fashion guru' of Rhodes Island understand that?,"Разумеется, я не хочу читать нотации. Не говоря уже о том, имею ли я на это право. Разве мастер моды «Родоса» Орхидея этого не понимает?"
+line-371,梓兰,啧，居然连你都知道了。,"Even you know about that, huh?","Тц, надо же, ты и об этом знаешь."
+line-373,月见夜,我和不少前辈干员聊过，从他们那里听了许多有趣的新闻。,I've talked to quite a few senior operators. I've heard a lot of interesting stories.,"Я общался со многими ветеранами, услышал от них кучу интересного."
+line-375,梓兰,你这就和他们搞好关系了？,And you're getting in good with them?,"Ты что, уже со всеми поладил?"
+line-377,月见夜,无论是谁，只要听得懂我的语言，我就能和他搞好关系，这是我身为东夜魔王的“特殊能力”。,"I get in good with anyone, as long as they understand my language. This is my special power as the Devil of the Eastern Night.","Любой, кто говорит на моем языке, станет моим другом. Это мой «особый навык» Короля ночи Востока."
+line-379,梓兰,是是是。,Right.,"Да-да, конечно."
+line-381,月见夜,所以，会找你设计服装，咨询时尚搭配的他们是不是和我们一样的普通人，这一点你再清楚不过了不是吗？,"So you know perfectly well that the people who ask you to design their outfits and give fashion tips are ordinary people like us, don't you?","Так вот, те, кто просят тебя подобрать стиль одежды — они ведь такие же люди, верно? Ты и сама знаешь это лучше всех."
+line-383,梓兰,......,........,...
+line-385,月见夜,对了，斑点，你刚才不是问我，为什么我在做男公关时就有练习剑术吗？,"By the way, Spot. You asked me why I knew how to fight when I was just an 'escort.'","Кстати, Спот, ты ведь спрашивал, почему я практиковал фехтование еще работая хостом?"
+line-387,斑点,嗯？啊，哦，对，我都忘了。,"Huh? Ah, oh yeah, I forgot.","А? Да, точно, я уж забыл."
+line-389,月见夜,别这么说，这是一个稍微有些长的故事，所以我们换个地方吧，去食堂，我请客。,"You wound me. This is a bit of a story, so let's take it to the cafeteria. My treat.","Не говори так. История длинная, давайте сменим обстановку. Пойдемте в столовую, я угощаю."
+line-391,斑点,听起来很麻烦，可以不听吗，我也不是很在意。,Sounds like a pain in the ass. Can I pass? I don't really care.,"Звучит как лишняя морока, можно не слушать? Мне не особо интересно."
+line-393,月见夜,呵呵，不行。,Heh heh. I'm afraid not.,"Хе-хе, нельзя."
+line-395,斑点,啧，草率了，中途就该溜走的。,Damn. I blew it. I should've slipped out halfway through.,"Тц, ошибся я. Надо было сваливать сразу."
+line-402,月见夜,虽然我说我请客，你们还真是一点也不客气啊......,"I said it was my treat, but you could still show a little decorum...","Хоть я и сказал, что угощаю, вы и правда ни в чем себе не отказываете..."
+line-404,斑点,有这个必要吗？,Do we have to?,А зачем?
+line-406,泡普卡,唔唔......这个好好吃！梓兰姐姐不吃吗？,"Mmmmm..... It's so good! Why aren't you eating, Orchid?",М-м... очень вкусно! Сестричка Орхидея не хочешь?
+line-408,梓兰,晚饭时间后，我是不可能吃东西的。,I never eat after dinner.,Я после ужина не ем.
+line-410,月见夜,真是当代女性的标杆呢。,That's the mark of a modern woman.,Настоящий эталон современной женщины.
+line-412,梓兰,......,........,...
+line-414,月见夜,咳咳，好吧，那么言归正传。,"Ahem, right, back to business then.","Кхм, ладно, ближе к делу."
+line-415,月见夜,首先，容我冒昧地问一下，梓兰小姐你是怎么感染矿石病的？当然，要是你不想说的话，可以不说。,"First of all, if I may be so bold as to ask, Orchid, how did you contract Oripathy? If that's too personal a question, you don't have to answer.",Для начала позволь спросить: как ты заразилась Орипатией? Если не хочешь говорить — не надо.
+line-417,梓兰,......没什么特别的，就是有一天忽然发现自己身上长出了一点结晶。,........It's not a great story. Just one day I suddenly noticed a little crystalline growth on my body.,...Ничего особенного. Просто однажды обнаружила у себя на теле кристаллы.
+line-418,梓兰,医疗部的人说应该是我在没有自觉的时候接触了源石制品，我没什么头绪。,The doctors said I must have been exposed to some Originium without even knowing. I still don't know exactly how I got it.,"В медотделе сказали, что я, скорее всего, контактировала с ориджини-продукцией, даже не заметив этого. Понятия не имею, как."
+line-419,梓兰,就这么简单。,That's it.,Вот и всё.
+line-421,月见夜,啊，原来如此，这也难怪你会产生刚才的疑问。,"Ah, I see. No wonder you're having this little crisis.","О, понятно. Тогда неудивительно, что у тебя возник такой вопрос."
+line-423,月见夜,那么，我说说我的经历吧。,"So, let me tell you my experience.",Теперь моя очередь.
+line-424,月见夜,我曾经有一个后辈。,There was a younger man working in my club.,У меня был один кохай (младший коллега).
+line-425,月见夜,那是一个和我完全相反的类型，阳光、直率、打心底里讨人喜欢的人。,"He was my polar opposite: bright, sunny disposition, straightforward. Instantly likeable.","Он был моей полной противоположностью: жизнерадостный, прямой, искренне располагающий к себе человек."
+line-426,月见夜,当然，会在我那个行业做事的，没有真的天真的，但如果说我不介意去恶意揣测别人，那他则更愿意去相信别人。,"Of course, no one who works in my industry could be called naive. But if I'm the type to make malicious assumptions about people, he's the type to trust them.","Разумеется, в моем бизнесе не бывает наивных, но если я не брезгую с подозрением относиться к другим, то он был склонен верить людям."
+line-428,斑点,听起来是我会讨厌的类型。,Sounds like the type I would hate.,"Звучит как тип, который мне бы не понравился."
+line-430,月见夜,也就是说，其实斑点你还挺喜欢我这样的性格的？,"Is that your way of saying you like me, Spot?","То есть, Спот, мой характер тебе нравится?"
+line-432,斑点,梓兰，自恋是不是真的没药医？,"Orchid, is there really no cure for narcissism?","Орхидея, нарциссизм вообще лечится?"
+line-434,梓兰,我之后会去问问医疗部，说不定还有救。,I'll ask Medical later. Maybe there's hope.,"Спрошу в медотделе, может, еще есть надежда."
+line-436,月见夜,呵呵，那么，我刚才说，我把所有人都当做我的客人，也就是说，我不会因为对方的身份地位想法而改变我的做法。,"Heh heh. As I said before, I treat all my clients equally. Meaning I don't change my approach based on one's status or identity.","Хе-хе. Так вот, я сказал, что для меня все гости равны — я не меняю своего отношения из-за статуса или мнений."
+line-437,月见夜,我是主动在这么做，但对他来说，这就像是一种天赋。,"I make an active effort towards that goal. But for him, it was second nature.","Я делал это сознательно, а для него это было даром."
+line-438,月见夜,作为那个行业的佼佼者，我看得出，他会是超越我的人。,"From my position atop the industry, I could see that he would be the one to surpass me.","Как лучший в нашей сфере, я видел, что он превзойдет меня."
+line-440,泡普卡,所以那个人超越月见夜哥哥了吗？,So that person surpassed Midnight?,И он превзошел Цукими-Ё?
+line-442,梓兰,......没有这么简单。,........It can't be that simple.,...Всё не так просто.
+line-444,泡普卡,欸？,Huh?,А?
+line-446,月见夜,......是啊，要是这样就好了。,"........Yeah, it would be nice if that was the whole story.","...Да, если бы так. Было бы здорово."
+line-447,月见夜,现在想想，其实是我害了他。他的家境并不好，他对金钱是有渴望的，而我对他来说，太耀眼了。,"Now that I think about it, I actually did him a disservice. He didn't come from a good family. He needed the money. To him, I must've looked like the king of the world.","Сейчас думаю, что это я его погубил. У него была тяжелая жизнь, он жаждал денег, а я для него был слишком ослепителен."
+line-448,月见夜,如果没有我，他应该能在这个行业里凭借他的能力混的很好，但我的存在，让他偏离了道路。,"If I was out of his way, he would have been able to make it in that world. ","Без меня он бы добился успеха в этой сфере, но моё присутствие сбило его с пути."
+line-449,月见夜,我应该在更早的时候教给他如何去摆好自己的位置，如何去看待金钱，如何去适应他人的看法。,"I should have taught him much earlier how to situate himself, how to handle money, and how to be what people needed him to be.","Мне следовало раньше научить его тому, как найти свое место, как смотреть на деньги, как адаптироваться к мнению других."
+line-450,月见夜,如果是这样，或许最后就不会变成我们刀刃相向的结果。,"Had I done that, maybe we wouldn't have ended up at each other's throats.","Если бы я это сделал, может быть, мы бы не сошлись в смертной схватке."
+line-452,梓兰,他嫉妒你，而你没有发现？,He was jealous of you? And you didn't notice?,"Он завидовал тебе, а ты не заметил?"
+line-454,月见夜,......他掩饰得很好，或者说，连他自己都没有发现自己的改变。,"........He hid it well. Or rather, he didn't even notice it himself.","...Он хорошо это скрывал. Или, вернее, он сам не замечал, как меняется."
+line-455,月见夜,直到他第一次差点杀了我的时候，我才意识到，我曾经自诩对人性的了解其实是片面的。,It wasn't until he almost killed me the first time that I realized this flaw in my understanding of human nature.,"Я понял, что моё понимание человеческой натуры было поверхностным, только когда он чуть не убил меня в первый раз."
+line-457,斑点,我觉得吧，和对人性的了解没什么关系，你只是人太好。,I think it's got nothing to do with human nature. You're just too nice.,"Мне кажется, дело не в понимании натуры, ты просто слишком добрый."
+line-459,梓兰,确实，看不出来你还是个提携后辈的好人。,Right? I never thought of you as the type to mentor a newbie.,"Действительно, не скажешь, что ты добрый человек, помогающий младшим."
+line-461,泡普卡,但是月见夜哥哥是好人啊，泡普卡知道的！,But Midnight is a really good man! I always knew!,"Но Цукими-Ё хороший, я знаю!"
+line-463,月见夜,谢谢你，泡普卡。,"Thank you, Popukar.","Спасибо, Поппука."
+line-465,斑点,不过，有第一次，也就是说有第二次？,"But you said 'first time,' which means there was a second time.","Но если был первый раз, значит, был и второй?"
+line-467,月见夜,是啊。,Right.,Да.
+line-468,月见夜,第一次他确实差点杀了我，差一点，真的就差一点。我敢说，如果那是他第二次杀人，我已经死了。,"He did almost kill me the first time. Almost. I'm confident, had that been his second attempt to kill a man, I wouldn't be sitting here.","В первый раз он действительно почти убил меня. Не хватило чуть-чуть. Спорю, если бы это было второе убийство в его жизни, я бы уже был мертв."
+line-469,月见夜,但我活了下来。,But I am.,Но я выжил.
+line-471,斑点,我赌5块龙门币，你心软了。,I bet five Lungmen dollars you bitched out.,"Ставлю 5 луньмэньских долларов, что ты дал слабину."
+line-473,月见夜,不，我不是心软了，我是没想过。,No. I didn't. It's just... I couldn't have expected what happened next.,"Нет, я не дал слабину. Я просто не ожидал."
+line-475,月见夜,那个时候的我，和梓兰小姐一样，我们没想过世界上原来会有那么大的恶意，有那么血腥的事情。,"At the time, I saw the world as Orchid does. I never thought of it as a place of malice and bloodshed.","Тогда я, как и Орхидея, не думал, что в мире столько злобы и кровожадности."
+line-476,月见夜,我当时只逼得他退出业界，并从那个时候起，我就私下开始练习剑术，我以为这样已经足够了，我真的以为这样已经足够了。,I muscled him out of the industry and learned how to handle a sword. I thought that would be enough. I really did.,"Я заставил его уйти из профессии и с тех пор втайне начал практиковать фехтование. Я думал, этого достаточно. Я правда так думал."
+line-477,月见夜,直到有一天，我的身体忽然出现了问题。,"Until one day, I discovered a health problem.",Пока однажды у меня не начались проблемы со здоровьем.
+line-479,梓兰,你的矿石病......,Your Oripathy....,Твоя Орипатия...
+line-481,月见夜,他买通了我的经纪人，用一些我无法察觉的手段让我感染了矿石病。,He paid my agent to infect me somehow.,"Он подкупил моего менеджера и заразил меня Орипатией способами, которые я не смог засечь."
+line-482,月见夜,并且这一次，当他出现在我面前时，他也已经是感染者了，还跟着一帮他的“朋友”。,"The second time he came looking for me, he was Infected himself. And he brought his 'friends' with him.","И в этот раз, когда он предстал передо мной, он тоже был зараженным, а с ним была его банда «друзей»."
+line-483,月见夜,我旁观过许多仇恨，我以为我了解它，但当仇恨真正指向我时，我才体会到，原来那是这样一种炽烈的感情。,"I had seen a lot of hate in my work. I thought I understood it. But when it was actually directed at me, I felt it burning in a way I hadn't ever before imagined.","Я видел много ненависти и думал, что понимаю её, но когда она направилась на меня, я понял, насколько это жгучее чувство."
+line-485,斑点,但是你赢了。,But you won.,Но ты победил.
+line-487,月见夜,是啊，虽然我的剑术在你看来还不入流，但对付十几个流氓，拼上半条命，还是能解决掉的。,"I did. Even if I can't go toe to toe with you, I can fight off a dozen thugs and walk away with my life.","Да. Хотя фехтование моё в твоих глазах — ничто, справиться с десятком бандитов, поставив на кон полжизни, я смог."
+line-488,月见夜,这一次，我亲手把他......,"It was then, with my own hands, I took his...",В этот раз я своими руками...
+line-490,泡普卡,呜呜呜呜啊啊啊啊啊！,Waaaaaaahhhhhh!,У-у-у-у-а-а-а-а!
+line-492,梓兰,怎么了，泡普卡？,"What's wrong, Popukar?","Что случилось, Поппука?"
+line-494,泡普卡,月见夜哥哥好可怜，呜呜呜......,Poor Midniiiiiiight! Waaaaahhh...,"Цукими-Ё так жалко, у-у..."
+line-496,月见夜,别哭，泡普卡。,"Don't cry, Popukar.",Не плачь.
+line-497,月见夜,其实，我应该感谢他，是他让我明白了我的不成熟。,"Honestly, I should thank him for showing me how immature I was.","На самом деле, я должен его поблагодарить. Он дал мне понять, насколько я был незрелым."
+line-498,月见夜,在那之后，我通过各种渠道了解到罗德岛这样一个地方，并下定决心离开业界，在东国的办事处注册后，千里迢迢来到这里。,"After that, I learned about a place called Rhodes Island and made up my mind to leave the industry and come all the way here after registering with the office in Higashi.","После этого я узнал о «Родосе», уволился из индустрии и, зарегистрировавшись в офисе Восточной страны, отправился сюда."
+line-500,月见夜,在这一路上，我看了很多，想了很多，来到罗德岛之后，对一件事也有了更深刻的了解。,"Along the way, I saw a lot, and thought a lot more. I came to Rhodes Island with a deep understanding of this one thing.","По пути я много думал, а попав сюда — осознал одну вещь еще глубже."
+line-502,梓兰,看我干什么。,What are you looking at?,Зачем на меня смотреть?
+line-504,月见夜,接下来是我个人的一点想法，梓兰小姐。,"Let me share my thoughts with you, Orchid.","Мои мысли, Орхидея."
+line-505,月见夜,我并不想说，因为我们在这里见到了世界残酷的真实，所以我们应该接受所谓的真实。,"I'm not trying to say that because we've seen the cruel reality of the world here, we need to accept it.","Я не хочу сказать, что раз мы увидели здесь суровую правду, то мы должны её принять."
+line-506,月见夜,从我们的角度来说，认为罗德岛的干员们大部分都经历了他们没有必要经历的苦痛才是正常的。,"From our point of view, it's only natural to think that most of Rhodes Island's operators have been through unnecessary pain.","Нормально считать, что большинство оперативников «Родоса» прошли через ненужные им страдания."
+line-507,月见夜,我们不应该为自己在所谓温室中生活自卑，但这也不应该作为我们抗拒的借口。,"We shouldn't feel inferior for having grown up in our relative safety, but it isn't an excuse for us to fight it either.","Мы не должны чувствовать себя ущербными из-за того, что жили в теплице, но это не должно служить оправданием для сопротивления."
+line-508,月见夜,生活在哪里都一样的。,Life is the same everywhere.,Жизнь везде одинакова.
+line-509,月见夜,在我们原本生活的地方，只有努力工作才能赚钱才能获得想要的东西，那么，在这里也是一样的，只不过手段发生了变化。,"Where we used to live, the only way to get what we wanted was to work hard and earn money. It's actually the same here.","Там, где мы жили, чтобы заработать, нужно было усердно работать. Здесь то же самое, просто средства изменились."
+line-510,月见夜,当然，我们可以选择加入后勤部门，在那里付出努力也是同样的效果，而我也只不过是选择了战斗这条道路，仅此而已。,We could have chosen to join the logistics department and put in the same effort there. But I chose the path of war.,"Конечно, можно пойти в тыл, там усилия имеют такой же эффект. Я просто выбрал путь сражений, вот и всё."
+line-512,梓兰,......你不怕死吗？,........Aren't you afraid to die?,...Ты не боишься смерти?
+line-514,月见夜,我想大家都是怕的。,I think we're all afraid to die.,"Думаю, все боятся."
+line-515,月见夜,但梓兰小姐，你来到这里之后也发现了，我们或许将会面临不得不用战斗来捍卫什么的情况。,"But as you've learned in your time here, Orchid, sooner or later you have to fight to defend something.","Но ты, Орхидея, сама видела, что нам могут грозить ситуации, когда придется защищаться с оружием в руках."
+line-516,月见夜,虽然在这时顺势说出“我是为了保护梓兰小姐而变强”应该是个不错的加分点，但是，唯独在这点上，我希望梓兰小姐你想清楚——,"This would be a fine time to say 'I'm training hard so I can be strong to defend you, Orchid,' but I'd like you to think about something instead——","Хотя фраза «я стал сильнее, чтобы защитить Орхидею» добавила бы мне очков, но именно в этом вопросе я хочу, чтобы ты хорошенько подумала —"
+line-517,月见夜,你想在罗德岛过怎样的生活。,What kind of life do you want to lead at Rhodes Island?,Какую жизнь ты хочешь вести на «Родосе»?
+line-519,梓兰,......我知道了。,........I understand.,...Я поняла.
+line-521,泡普卡,唔，听不懂......,Um... but I don't...,"М-м, ничего не поняла..."
+line-523,斑点,听不懂才是对的，这是你永远都不会有的烦恼，比起想这些，不如多吃点菜，我这份给你吧。,"Good. This is something you'll never have to worry about. Why not eat up instead? Here, you can have mine.","Правильно, что не поняла. У тебя таких забот никогда не будет. Лучше ешь, я свою порцию тебе отдам."
+line-525,泡普卡,哇，谢谢斑点哥哥！,"Wow, thanks Spot!","Вау, спасибо Спот!"
+line-527,月见夜,呵呵，没错，泡普卡你不用想这些也没关系的。,"Hehe. He's right. You don't have to worry about this stuff, Popukar.","Хе-хе, точно. Поппука, тебе не обязательно об этом думать."
+line-529,月见夜,也请原谅我的多嘴，梓兰小姐，你问我的问题，也是我来到罗德岛后经常在问自己的问题，所以想法稍微有些多。,"And forgive me for dumping all this on you, Orchid, but the question you asked me is one I've been asking myself a lot since I came to Rhodes Island. So I had a lot to say about it.","И прошу простить моё многословие. Твой вопрос, Орхидея, я и сам часто задаю себе на «Родосе», вот мыслей и накопилось."
+line-531,梓兰,......嗯，谢谢你。,".......Well, thanks for that.","...Угу, спасибо тебе."
+line-533,月见夜,哦，见鬼，我的神明大人，梓兰小姐居然对我表示了感谢。斑点老兄，泡普卡妹妹，你们可真是我的福星！,"Oh, wonder of wonders, miracle of miracles! The blessed savior Orchid has finally shown me gratitude! Brother Spot, Sister Popukar, such luck you have brought me!","О, черт, мой бог, Орхидея меня поблагодарила. Спот, Поппука, вы — мои талисманы удачи!"
+line-535,梓兰,你作死。泡普卡，我们该回去睡觉了，明天还要早起呢。,"You're a dead man. Popukar, we need to get to bed. We have a big day tomorrow.","Ты жить хочешь? Поппука, пора спать, завтра рано вставать."
+line-537,泡普卡,欸，不听了吗？,"Oh, we're done?","А, больше не послушаем?"
+line-539,梓兰,没什么好听的了。,We're done.,Тут больше нечего слушать.
+line-541,泡普卡,喔......斑点哥哥，月见夜哥哥，晚安。,"Okay.... Good night, Spot. Good night, Midnight.","Угу... Спот, Цукими-Ё, спокойной ночи."
+line-543,斑点,晚安。,Good night.,Спокойной.
+line-545,月见夜,好梦，两位美丽的女士。,Sweet dreams to the two beautiful ladies.,"Приятных снов, прекрасные дамы."
+line-551,斑点,说这么多，你也真不怕我们会是第二个你的后辈。,So you're not worried we'll turn out like the guy from your club?,"Столько наговорил, не боишься, что мы станем «вторым кохаем»?"
+line-553,月见夜,呵呵，虽然只是一点自夸，不过我对现在自己的看人眼光，可比过去更加自信。,"Heh heh. Not to toot my own horn, but I have a lot more confidence as a judge of character these days.","Хе-хе. Пусть это и бахвальство, но в людях я теперь разбираюсь куда увереннее, чем раньше."
+line-555,斑点,嚯。,*Snort*.,Ха.
+line-557,月见夜,而且我们接下来可是一个队伍，互相了解一些也是好事，不是吗？,"Besides, we're on the same team. It's good to get to know each other better, no?","Да и мы теперь в одном отряде, полезно узнавать друг друга, нет?"
+line-559,斑点,行吧。不过我倒是没想到，你原来会想这些有的没的。,Sure. But I never imagined you'd be hung up on all that garbage.,"Ладно. Не ожидал, что ты думаешь о таких вещах."
+line-561,月见夜,想清楚了，才可以不用去想，不是吗？,"Now that I've thought it through, I don't need to trouble myself anymore.","Всё обдумав, можно больше не думать, правда?"
+line-563,斑点,难得同意你的观点。话说回来，你刚才有展现什么应付女性的招式吗？,"I guess so. Say, did you use any of those tricks for dealing with women just now?","Редко, но соглашусь. И кстати, ты сейчас показал какой-то прием по обращению с женщинами?"
+line-565,月见夜,有啊，这可是最重要的一招——说真话。,I did indeed. The most important trick of all——telling the truth.,Да. Самый главный — говорить правду.
+line-567,斑点,这有什么难的？,Sounds pretty easy to me.,И что тут сложного?
+line-569,月见夜,因为简单，所以重要。,It's important because it's simple.,"Потому что это просто, это и важно."
+line-576,泡普卡,梓兰姐姐，回去后我可以去找空爆姐姐听故事吗？,"Orchid, when we get back, can Catapult tell me a story?","Сестричка, а после возвращения можно пойти к Катапульт послушать сказку?"
+line-578,梓兰,被月见夜耽误得已经有点晚了，今晚不行。,"Not tonight. Midnight kept us out too late. ","Из-за Цукими-Ё уже поздно, сегодня нельзя."
+line-580,泡普卡,喔......,Oh....,Угу...
+line-581,泡普卡,没关系，梓兰姐姐能高兴起来泡普卡也就高兴了。,"Okay. I'm just glad to see you happy, Orchid.","Ну ладно, главное, что ты повеселела, я тоже рада."
+line-583,梓兰,嗯？我刚才难道一直都表现得不高兴吗？,Oh? Have I been unhappy lately?,А? Разве я выглядела грустной?
+line-585,泡普卡,唔，泡普卡不知道该怎么说，但是梓兰姐姐从后勤部那里出来后，总觉得有点不高兴，现在没有啦。,"Um, I don't know how to say this. But you seemed very upset after we left the logistics department. Not now though. Now you look happy.","М-м, не знаю как сказать, но после выхода из тылового департамента ты казалась грустной, а сейчас — нет."
+line-587,梓兰,是吗......也是。,Did I...? I guess I did.,Вот как... наверное.
+line-588,梓兰,谢谢你，泡普卡。,"Thank you, Popukar.","Спасибо тебе, Поппука."
+line-590,泡普卡,泡普卡什么都没做哦？,Did I do something?,Я же ничего не сделала?
+line-592,梓兰,呵呵，你只是还不知道而已。,Hehe. You just don't know it yet.,"Хе-хе, ты просто пока еще не знаешь."
+line-594,？？？,那个，请问是梓兰小姐吗？,"Excuse me, are you Orchid?","Простите, вы мисс Орхидея?"
+line-596,梓兰,嗯？你是......,Oh? You are...?,А? Ты...
+line-598,空,我是企鹅物流的空，那个，我听说您在时尚潮流和裁缝方面很拿手，能耽误您一些时间吗！,"I'm Sora, with Penguin Logistics. I've heard you're kind of an expert on fashion, and pretty handy with a needle and thread. Can I talk to you for a minute?","Я — Со, из «Пингвин Логистикс». Мне сказали, что вы эксперт в моде и дизайне. Можно отнять у вас немного времени?"
+line-604,,PM6：23 罗德岛舰内,6:23 P.M. Inside the Rhodes Island Landship,18:23. Внутри «Родос Айленд».
+line-606,后勤干员A,还是决定继续作为战斗干员工作吗，好吧。虽然很可惜，但既然是梓兰小姐你自己的选择，我们也尊重你的选择。,"So you decided to carry on as a combat operator. That's too bad. But it's your call, Orchid. We'll respect it.","Решила всё же остаться боевым оперативником? Что ж. Жаль, конечно, но раз это твой выбор, мы его уважаем."
+line-608,梓兰,嗯，虽然确实不是很适合我，但也是难得的经验，我也想再努力尝试一下。,"Yes. It may not be a good fit for me, but it's a special opportunity. I don't want to waste it.","Да, пускай это не совсем моё, но это редкий опыт, хочу попробовать еще."
+line-610,后勤干员A,这么说也是呢，整天坐在办公室里还蛮无聊的......干脆我申请转岗试试好了。,That's true. Sitting in the office all day is pretty boring.... Maybe I should apply for a transfer and try it out.,"Тоже верно. Сидеть в офисе целый день — то еще уныние... может, тоже подать на перевод."
+line-612,后勤干员B,算了吧你，杜宾教官的新兵训练你就撑不过去了。,You're dreaming. You wouldn't last two seconds with Dobermann.,"Оставь эту затею, ты тренировки инструктора Дубин не выдержишь."
+line-614,后勤干员A,啊，也是，那个据说超难的，也真亏梓兰小姐你坚持住了。,"Oh yeah, I've heard about that one. It's pretty cool you made it through her training, Orchid.","А, ну да, говорят они нереально сложные. Орхидея, ты просто железная."
+line-616,梓兰,习惯了倒也还好吧......那我今天就先到这里了。,"You get used to it... Anyway, that's all for today.","Привыкла, так что нормально... Я пойду."
+line-618,后勤干员A,这么早啊？,Heading back so early?,Так рано?
+line-620,梓兰,嗯，稍微有点事情。,"Yeah, I have a thing.","Да, кое-какие дела."
+line-622,后勤干员A,好吧，那么明天见。,"Okay, see you tomorrow.","Хорошо, увидимся завтра."
+line-624,梓兰,明天见。,See you tomorrow.,До завтра.
+line-631,梓兰,痛痛痛......真的是，现在才知道自己的身体有多缺乏锻炼。,Oof... All these aches. That's what I get for skipping the gym that long.,"Ой-ой... Боже, только сейчас поняла, в какой я ужасной форме."
+line-632,梓兰,别说帮他们写文档了，我快连手都抬不起来了。,I can't even move my hand to fill out a form.,Не то что документы писать — руки почти не поднимаются.
+line-633,梓兰,唉，真是自找苦吃。,"Ugh, why did I do this to myself?","Эх, сама себе усложняю жизнь."
+line-635,空爆,梓兰姐！！！你终于来了，我正要去找你呢！,Orchid!!!! There you are. I've been looking for you!,"Орхидея!!! Наконец-то, я как раз тебя искала!"
+line-637,梓兰,......怎么了，泡普卡又把什么弄坏了？,........What's the matter? What did Popukar break this time?,...Что опять? Поппука что-то сломала?
+line-639,空爆,那倒没有，月见夜想不开找泡普卡训练，快来看好戏！,"Nothing. It's Midnight, he's sparring with Popukar. You've gotta see this!","Нет, Цукими-Ё решил тренироваться с Поппукой. Пойдем, будет весело!"
+line-641,梓兰,......好吧，反正我今天也实在没什么力气了。,...Okay. I'm totally out of it today anyway.,"...Ладно, всё равно сил нет."
+line-643,空爆,梓兰姐你最近怎么突然申请了新的体能课程，感觉和你的印象不符欸？,What made you want to sign up for fitness training? It's not like you.,"Орхидея, почему ты в последнее время записываешься на новые тренировки? На тебя не похоже."
+line-645,梓兰,只是转换了一下心态而已。,Call it a change of heart.,Просто поменяла настрой.
+line-647,空爆,这样啊，那我来给你捶捶背揉揉肩吧！,Oh. Want me to give you a shoulder rub?,Вот как. Давай я тебе спину и плечи разомну!
+line-649,梓兰,无事献殷勤，说吧，你是不是又偷偷闯祸了？,"Okay, out with it, what did you do this time?","Без причины такая услужливость? Говори, что опять натворила?"
+line-651,空爆,欸，我才没有！,"Woah, hey, I didn't do anything!",Да ничего я не делала!
+line-653,梓兰,那就信你一次。,"I'll believe you, for once.",Поверю на слово.
+line-655,空爆,......,........,...
+line-657,梓兰,怎么了？,What?,Что?
+line-659,空爆,总觉得最近梓兰姐变了一点。,You seem kinda different lately.,"Мне кажется, ты в последнее время изменилась."
+line-661,梓兰,有吗？,Do I?,Правда?
+line-663,空爆,嗯......该怎么说呢，我也说不上来，就是感觉上......,I can't quite put my finger on it... But yeah...,"Угу... даже не знаю как сказать, просто ощущение..."
+line-665,梓兰,行了，不是要去看月见夜吃瘪吗？,"Come on, weren't we going to see Midnight eat shit?","Хватит, мы ведь идем смотреть, как Цукими-Ё опозорится?"
+line-667,空爆,对哦，不管了！我们快走吧！,Hell yeah we were!,"Точно! Забудь, идем!"
+line-673,梓兰,真的是。,Hah.,Боже мой.
+line-674,梓兰,真是自讨苦吃。,Go looking for trouble and you just might find it.,Сама же себе жизнь усложняю.
