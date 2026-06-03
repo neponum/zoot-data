@@ -1,0 +1,537 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act14side
+__chapter__,,Chapter Name,activities/act14side/level_act14side_st03,一着不慎
+,,,,
+char-1,谢拉格平民A,谢拉格平民A,Kjerag Civilian A,Гражданин Кьелса А
+char-2,谢拉格平民B,谢拉格平民B,Kjerag Civilian B,Гражданин Кьелса B
+char-3,谢拉格战士,谢拉格战士,Kjerag Warrior,Воин Кьелса
+char-4,谢拉格平民C,谢拉格平民C,Kjerag Civilian C,Гражданин Кьелса C
+char-5,雅儿,雅儿,Kjarr,Яль
+char-6,大长老,大长老,Great Elder,Великий старейшина
+char-7,长老A,长老A,Elder A,Старейшина А
+char-8,长老B,长老B,Elder B,Старейшина B
+char-9,长老C,长老C,Elder C,Старейшина C
+char-10,谢拉格贵族A,谢拉格贵族A,Kjerag Noble A,Аристократ Кьелса А
+char-11,谢拉格贵族B,谢拉格贵族B,Kjerag Noble B,Аристократ Кьелса B
+char-12,恩希欧迪斯,恩希欧迪斯,Enciodes,Энсиодис
+char-13,恩雅,恩雅,Enya,Энья
+char-14,阿克托斯,阿克托斯,Arctosz,Арктос
+char-15,瓦莱丝,瓦莱丝,Valais,Валис
+char-16,？？？,？？？,???,???
+char-17,菈塔托丝,菈塔托丝,Ratatos,Рататос
+char-18,尤卡坦,尤卡坦,Yucatan,Юкатан
+char-19,角峰,角峰,Matterhorn,Матерхорн
+char-20,魏斯,魏斯,Weiss,Вайсс
+char-21,休露丝,休露丝,Sciurus,Шулис
+char-22,莫希,莫希,Monch,Моши
+char-23,修士,修士,Devotee,Монах
+char-24,希瓦艾什家战士,希瓦艾什家战士,Silverash Clan Warrior,Воин семьи СильверЭш
+char-25,诺希斯,诺希斯,Gnosis,Нозис
+char-26,锏,锏,Degenbrecher,Цзянь
+char-27,布朗陶家战士,布朗陶家战士,Browntail Clan Warrior,Воин семьи Бронтау
+char-28,古罗,古罗,Gulo,Гуро
+char-29,佩尔罗契家战士,佩尔罗契家战士,Paleroche Clan Warrior,Воин семьи Пельрочи
+char-30,Sharp,Sharp,Sharp,Шарп
+char-31,极光,极光,Aurora,Аврора
+char-32,“山雪鬼”,“山雪鬼”,Tschäggättä,Горный снежный дух
+char-33,蔓珠院医生,蔓珠院医生,Vine-Bead Court Medic,Врач Манджуин
+,,,,
+line-10,谢拉格平民A,什么？你说，昨天恩希欧迪斯老爷在山里被人袭击了！,What? Sir Enciodes was attacked in the mountains yesterday?!,"Что? Ты сказал, что вчера господин Энсиодис подвергся нападению в горах!"
+line-12,谢拉格平民B,什么？真的吗？,Huh? Is that true?,Что? Правда?
+line-14,谢拉格战士,当然是真的，阿克托斯老爷让古罗将军带人赶过来给大长老报信。,Of course it's true. Sir Arctosz had General Gulo rush people over to report to the Great Elder.,"Конечно, это правда. Господин Арктос отправил генерала Гуро с людьми, чтобы тот сообщил весть Великому старейшине."
+line-15,谢拉格战士,我三叔的另一个侄子就是跟着古罗将军回来的。,The other nephew of my third uncle came back with General Gulo.,Другой племянник моего дяди вернулся вместе с отрядом генерала Гуро.
+line-16,谢拉格战士,他们刚刚赶到这边，我就是从他那里听来的。,"They arrived just now, and I heard the news from him.","Они только что прибыли сюда, я услышал это от него."
+line-18,谢拉格平民A,好小子，这可是个大消息啊！,What a good lad. Now that's some big news!,"Вот это да, ну и новости!"
+line-20,谢拉格战士,嘿嘿！,Heh!,Хе-хе!
+line-22,谢拉格平民B,不过，谁这么大的胆子，居然敢袭击恩希欧迪斯老爷？！而且居然是在圣猎途中！,"But, who would be so foolhardy as to attack Sir Enciodes? On his way to the Holy Hunt, no less!",Но кто посмел напасть на господина Энсиодиса?! Да еще и во время Священной охоты!
+line-24,谢拉格平民A,难道不是山雪鬼吗？,Do you think it could've been a Tschäggättä?,"Может, это были горные снежные духи?"
+line-26,谢拉格平民C,都说是人了，怎么会是山雪鬼。,How the hell could've it been a Tschäggättä? Didn't we already say a person did it?,"Все говорят, что это люди, какие еще духи."
+line-27,谢拉格平民C,要我说，肯定是佩尔罗契家或者布朗陶家的人做的。,"If you ask me, it must've been the doing of the Paleroches or the Browntails.","Я уверен, что это дело рук людей из семьи Пельрочи или Бронтау."
+line-28,谢拉格平民C,过去佩尔罗契家和布朗陶家那么打压希瓦艾什家，嘴上说是因为恩希欧迪斯老爷做的事践踏了信仰。,"They tried so hard to suppress the Silverashes, saying something about how Sir Enciodes had trampled upon our teachings.","Раньше семьи Пельрочи и Бронтау так сильно притесняли семью СильверЭш, прикрываясь словами о том, что действия господина Энсиодиса попирают веру."
+line-29,谢拉格平民C,谁知道是不是盯上了希瓦艾什家的土地。,"But who knows, maybe they were really after the Silverash clan's land.","Кто знает, может, они просто положили глаз на земли семьи СильверЭш."
+line-31,谢拉格战士,这种话可不能乱说。,I wouldn't go around making spurious claims like that.,Такими словами нельзя разбрасываться.
+line-33,谢拉格平民C,乱说？你不会不知道，恩希欧迪斯老爷当初离开谢拉格外出留学后，布朗陶家吞了希瓦艾什家多少土地吧？,Spurious? Do you have any idea how much Silverash land the Browntail clan gobbled up after Sir Enciodes left Kjerag to study abroad?,"Разбрасываться? Ты что, не знаешь, сколько земель присвоила семья Бронтау у СильверЭш, когда господин Энсиодис уехал из Кьелса на обучение?"
+line-35,谢拉格平民B,......,......,......
+line-37,谢拉格平民C,现在恩希欧迪斯老爷改过自新，主动向圣女大人示好，两家没法打压希瓦艾什家了，这下着急了。,"Now that Sir Enciodes has had a change of heart and took the initiative to show favor to the Saintess, the other two clans are panicking because they no longer have an excuse to keep the Silverashes down.","Теперь, когда господин Энсиодис исправился и сам пошел на примирение со Святой, обе семьи больше не могут давить на СильверЭш, вот они и засуетились."
+line-39,谢拉格平民A,这......,Well...,Это......
+line-41,谢拉格战士,你、你是哪家的人？！,Wh-Who do you belong to?!,"Ты, ты чьих будешь?!"
+line-43,谢拉格平民C,我是布朗陶家的人，怎么着？,I'm with the Browntail clan. So what?,"Я из семьи Бронтау, и что с того?"
+line-45,谢拉格战士,你是布朗陶家的？布朗陶家的人怎么会这么说自己家的事！,You're a Browntail? How can you say those things about your own clan?!,Ты из семьи Бронтау? Как член семьи Бронтау может такое говорить о своих собственных делах!
+line-47,谢拉格平民C,因为我在谷地工作了这么久，我打心眼里为恩希欧迪斯老爷感到不公平！,"Because I've been working down in the valley for so long, I honestly feel that Sir Enciodes has been wronged!","Потому что я так долго работал в долине, что от всего сердца считаю несправедливым то, как обходятся с господином Энсиодисом!"
+line-48,谢拉格平民C,恩希欧迪斯老爷为谢拉格带来了这么多好的东西，却一直在三族议会上被打压。,"Sir Enciodes has brought so many good things to Kjerag, but has been kept down in the Tri-Clan Council.","Господин Энсиодис принес Кьелсу столько всего хорошего, но его постоянно притесняют на Совете трех семей."
+line-49,谢拉格平民C,现在恩希欧迪斯老爷主动提出还政，而且还主动和蔓珠院以及圣女大人修复关系，却还要被这么对待。,"Even now after he has offered to return to the government and taken the initiative to repair his relationship with the Vine-Bead Court and the Saintess, look how they treat him.","Теперь он добровольно предложил вернуть власть, восстановил отношения с Манджуин и Святой, а с ним так обращаются."
+line-50,谢拉格平民C,就算你是佩尔罗契家的人，你良心不会痛吗！,"Even if you're a Paleroche, does that not make your conscience ache?","Даже если ты из семьи Пельрочи, неужели у тебя совесть не болит!"
+line-52,谢拉格战士,你......我......,You...,Ты...... я......
+line-54,谢拉格平民A,这......倒也是。,You have a point...,Это...... в самом деле так.
+line-56,谢拉格平民B,对啊，不管怎么说，袭击恩希欧迪斯老爷这件事做得实在是太不应该了。,"That's right. No matter what the circumstances are, an attack on Sir Enciodes is simply going too far.","Верно, как ни крути, нападать на господина Энсиодиса было крайне недопустимо."
+line-58,谢拉格平民A,而且发生在圣猎这么重要的仪式里，这也是对耶拉冈德的大不敬。,"Besides, to do it during a ceremony as important as the Holy Hunt is also a grave insult to Kjeragandr.","К тому же, это произошло во время такого важного ритуала, как Священная охота, это неуважение к Йелаганд."
+line-60,谢拉格平民C,没错，这件事不管怎么说，都必须要有个交代才行！,"Exactly! No matter what the facts are regarding this situation, there must be some kind of explanation!","Верно, что бы там ни было, виновные должны ответить за это!"
+line-62,谢拉格平民B,说得对。,You said it.,Согласен.
+line-64,谢拉格平民A,没错，必须要找出凶手！,"That's right, the perpetrator must be found!","Верно, нужно найти убийцу!"
+line-76,雅儿,怎么了，昨晚没睡好吗？你的脸色不太好。,What's wrong? Didn't sleep well last night? You don't look so good.,"Что такое, не выспался сегодня? Выглядишь не очень."
+line-79,,恩希欧迪斯果然遇到了麻烦。,Enciodes ended up running into trouble after all.,У Энсиодиса действительно возникли неприятности.
+line-82,雅儿,嗯，这件事已经传开了，大家都在讨论这件事。,"Mm. Word of it has spread, and everyone's talking about.","М-м, эта история уже разлетелась, все только об этом и говорят."
+line-83,雅儿,我看已经有许多人说，这件事必须要有一个说法。,I can see that many people are already demanding an explanation for this matter.,"Вижу, многие уже требуют разобраться с этим делом."
+line-84,雅儿,你这副表情，难道这出乎了你的预料吗？,"Judging from the look on your face, did you not expect this at all?","У тебя такое лицо, неужели это застало тебя врасплох?"
+line-87,,就是因为这没有出乎我的预料。,It's precisely because I DID expect it.,"Как раз наоборот, это меня не удивило."
+line-90,雅儿,嗯？那你在纠结什么呢？,Huh? Then what's got you in a twist?,М? Тогда почему ты так обеспокоен?
+line-92,雅儿,诺希斯因为和恩希欧迪斯不合，和他分道扬镳后，一直在图谋着推翻恩希欧迪斯。,"Gnosis doesn't see eye to eye with Enciodes, and he's been plotting to overthrow him since they parted ways.","Нозис, будучи в ссоре с Энсиодисом и пойдя своим путем, все это время вынашивал планы по его свержению."
+line-93,雅儿,而你认为恩希欧迪斯不会没有对策，你也不想插手三大家族的事务，所以选择了在这里优哉游哉地逛大典。,"You didn't think Enciodes would leave himself so open, nor did you want to interfere in the affairs of the three clans, so you came to the ceremony as a guest.","А ты считал, что у Энсиодиса на всё готов ответ, и не хотел вмешиваться в дела трех великих семей, поэтому решил спокойно прогуливаться по празднику."
+line-94,雅儿,我只说表面情况啊，这么看的话，情况不就是这样吗？,"I'm just talking about superficial appearances here. From that angle, that is how the situation seems, right?","Я лишь говорю о том, что на поверхности. Разве не так всё обстоит?"
+line-97,,各方势力对情况的把握都有偏差。;未必如此。,Everyone has a skewed understanding of the situation.;Not necessarily.,У каждой стороны свое видение ситуации.; Необязательно.
+line-100,雅儿,真不知道你整天脑子里都在考虑什么东西。,I don't have a clue what goes on in that head of yours all day.,"Даже не знаю, о чем ты постоянно думаешь."
+line-102,雅儿,不过感觉我也被你传染得开始喜欢思考这些事了，我也来想想看吧。,"But I feel like you've infected me into enjoying thinking about these things, so let's do just that.","Но я, кажется, тоже заразилась от тебя привычкой размышлять о подобных вещах, давай-ка и я подумаю."
+line-104,雅儿,嗯——恩希欧迪斯既然过去和诺希斯是好友，而他又是一个老谋深算的人，那么他必然一开始就对诺希斯的背叛有所防备。,"Hmm... Since Enciodes used to be good friends with Gnosis and we know the latter to be a crafty man, he must've been prepared for Gnosis's betrayal from the very beginning.","М-м, раз Энсиодис был в друзьях у Нозиса, а он сам человек расчетливый, то, должно быть, с самого начала был готов к предательству Нозиса."
+line-105,雅儿,但他还是遇袭了，并且这件事被闹得很大......,"But he was attacked anyway, and it became a pretty big deal...","Но на него все равно напали, и подняли такой шум..."
+line-107,雅儿,也就是说，这个让民众开始同情他的局面，有可能是他故意营造的？,"In other words, he engineered this situation to become more sympathetic in the eyes of the public?","То есть, может быть, эта ситуация, вызывающая сочувствие у народа, была создана им намеренно?"
+line-109,雅儿,可是，这又有什么影响呢？,"But, what exactly does this accomplish?",Только вот на что это влияет?
+line-110,雅儿,现在，圣猎的队伍应当也在返回的路上了。,"Right now, the Holy Hunt party should be on its way back.","Сейчас участники Священной охоты, должно быть, уже возвращаются."
+line-111,雅儿,马上，大典最后的仪式，同时也是圣女大人的戴冠仪式就要举行了。,"Shortly, the Grand Ceremony come to its final ritual, including the ceremonial crowning of the Saintess.","Скоро начнется заключительная церемония праздника, коронация Святой."
+line-113,雅儿,无非是在仪式上找出凶手，让他恩希欧迪斯更有人望一些......仅此而已吧？,"If he can catch the perpetrator at the ceremony, that'll increase people's faith in Enciodes... but that's it, right?","Неужели это лишь для того, чтобы на церемонии найти виновного и повысить популярность Энсиодиса... и только?"
+line-116,,事实上，还有一种可能性。,"Actually, there's another possibility.","На самом деле, есть еще одна вероятность."
+line-119,雅儿,那是什么？,What would that be?,Какая?
+line-122,,还只是可能性而已。;马上就会知道了。,It's just a possibility.;You'll find out soon enough.,Пока лишь вероятность.; Скоро узнаешь.
+line-136,大长老,......你说，圣女在圣猎中亲自出手射杀了猎物。,The Saintess shot and killed the prey herself during the Holy Hunt?,"......Ты говоришь, Святая сама подстрелила добычу во время охоты."
+line-138,长老A,是的。,Yes.,Да.
+line-140,大长老,并且，恩希欧迪斯遇袭的消息，已经在民众之间传开。,And news of the attack on Enciodes has already spread among the people.,И весть о покушении на Энсиодиса уже распространилась среди горожан.
+line-142,长老B,是的。,Yes.,Да.
+line-143,长老A,不仅如此，已经有一部分民众要求在举行戴冠仪式前先惩处凶手了。,"Not only that, but a number of people are demanding that the perpetrator be punished before the coronation ceremony.","Более того, часть населения требует наказать виновных еще до начала коронации."
+line-144,长老C,在圣猎中伤害同胞，这是对耶拉冈德的大不敬，当然应该惩处！,To injure a countryman during the Holy Hunt is to gravely disrespect Kjeragandr. Of course this deserves punishment!,"Нанести вред соплеменнику во время охоты — это проявление неуважения к Йелаганд, конечно, это нужно наказать!"
+line-145,长老B,但这毕竟是圣女大人的戴冠仪式......,"But, this is still the Saintess's coronation ceremony.",Но ведь это церемония коронации Святой......
+line-146,长老A,你们两个说的都有道理......大长老，请问该如何决断？,"Both of you bring up good points... Great Elder, your judgment?","Вы оба говорите правильные вещи...... Великий старейшина, какое решение примем?"
+line-148,大长老,......,......,......
+line-149,大长老,幕后黑手是谁，想必恩希欧迪斯手段高超，不会揪不出来——,"Given Enciodes's superb abilities, there is little chance that the mastermind behind this will not be sniffed out, regardless of who it is––","Кто стоит за кулисами, полагаю, Энсиодис, с его способностями, сможет выяснить."
+line-150,大长老,只是，这件事恐怕没有那么简单。,If only things were that simple.,"Только вот, боюсь, всё не так просто."
+line-152,长老A,这......请大长老明示。,"Please do explain, Great Elder.",Это...... прошу Великого старейшину разъяснить.
+line-154,大长老,圣女行事愈发出格，恩希欧迪斯却一反常态......,"The Saintess's behavior has gone increasingly out-of-line, yet Enciodes's response has been quite uncharacteristic.","Святая ведет себя всё более своевольно, Энсиодис же ведет себя совершенно необычно......"
+line-155,大长老,这对兄妹，想要做什么？,What are those siblings planning?,Чего хотят добиться эти брат и сестра?
+line-157,长老A,大长老的意思是......他们兄妹......？,What does the Great Elder mean by 'those siblings?',"Великий старейшина хочет сказать, что они...... брат и сестра......?"
+line-159,大长老,不，他们兄妹之间绝无串通的可能性。,"No, there is no possibility of any collusion between the two.","Нет, между ними не может быть сговора."
+line-160,大长老,只是，或许这就是他们希瓦艾什家的血缘吧——,"But perhaps, this is the Silverash blood that runs through their veins––","Но, возможно, в этом и заключается их кровь СильверЭш——"
+line-162,谢拉格战士,诸位长老，大长老，圣女的队伍快要抵达了。,"Everyone, the Elders, the Great Elder, and the Saintess's teams are about to arrive.","Уважаемые старейшины, Великий старейшина, отряд Святой скоро прибудет."
+line-164,大长老,......罢了。走吧，去迎接圣女。,Enough. Let's go to meet the Saintess.,"......Пусть так. Пойдемте, встретим Святую."
+line-192,谢拉格平民A,快看，是圣猎的队伍！,"Hurry, it's the Holy Hunt party!","Смотрите, это отряд Священной охоты!"
+line-194,谢拉格平民B,看，恩希欧迪斯老爷身上包扎的伤口！,"Look, Sir Enciodes's wounds have been bandaged!","Смотрите, повязка на ране господина Энсиодиса!"
+line-196,谢拉格平民C,传言果然是真的！,The rumors were true after all!,Слухи были правдой!
+line-198,谢拉格平民A,圣女大人，请为恩希欧迪斯大人主持公道！,"Great Saintess, please deliver justice for Sir Enciodes!","Святая, прошу, восстанови справедливость для господина Энсиодиса!"
+line-200,谢拉格平民B,揪出破坏圣猎的凶手！,Find the perpetrator who sabotaged the Holy Hunt!,"Найдите того, кто нарушил ход Священной охоты!"
+line-202,谢拉格贵族A,菈塔托丝夫人和阿克托斯老爷的脸色不太好啊。,Matriarch Ratatos and Sir Arctosz appear ill at ease.,Леди Рататос и господин Арктос выглядят не лучшим образом.
+line-204,谢拉格贵族B,难道这件事确实与他们有关？,Might they be connected in some way to this incident?,Неужели они действительно причастны к этому?
+line-211,谢拉格平民A,大长老来了！,The Great Elder is here!,Великий старейшина идет!
+line-213,谢拉格平民B,蔓珠院一定要为恩希欧迪斯老爷主持公道啊！,The Vine-Bead Court must uphold justice for Sir Enciodes!,Манджуин должна восстановить справедливость для господина Энсиодиса!
+line-215,谢拉格平民C,就这么把大典继续下去我们可不认！,We won't accept this ceremony if you just try to sweep things under the rug and move on!,Мы не позволим продолжать праздник как ни в чем не бывало!
+line-217,恩希欧迪斯,各位，我十分感谢你们对我的关心。,"My friends, I am very grateful for your concern.","Господа, я глубоко признателен за вашу заботу обо мне."
+line-218,恩希欧迪斯,凶手虽然还没有找到，但是要找到也只是时间问题。,"Though the perpetrator has not been found yet, it is only a matter of time.","Убийца еще не найден, но вопрос лишь во времени."
+line-219,恩希欧迪斯,现在，不妨以仪式优先。,"For now, let us first prioritize the ceremony.","Сейчас, пожалуй, лучше уделить внимание церемонии."
+line-220,恩希欧迪斯,圣女大人觉得如何？,"What say you, Saintess?","Что скажете, госпожа Святая?"
+line-222,恩雅,既然恩希欧迪斯大人如此心系耶拉冈德，我当然没有意见。,"As Sir Enciodes is so faithful to Kjeragandr, I have no objections.","Раз господин Энсиодис так печется о делах Йелаганд, то я, конечно же, не возражаю."
+line-224,大长老,那么，耶拉冈德的子民们，你们应当都已经知晓，今年的大典，意义与众不同。,"Then, children of Kjeragandr, know that this year's ceremony holds a different meaning.","Тогда, дети Йелаганд, вы, конечно, знаете, что праздник в этом году имеет особое значение."
+line-225,大长老,由希瓦艾什家家主恩希欧迪斯提出的还政于圣女在先前的三族议会上已经通过，并且向全境发出了通告。,"The proposal by the head of the Silverash clan, Enciodes, to have the Saintess restored to power passed the previous Tri-Clan Council, and this was announced throughout our territory.","Возврат власти Святой, предложенный главой семьи СильверЭш Энсиодисом, был одобрен на предыдущем совете трех семей и объявлен на всей территории."
+line-226,大长老,而今天，在这谢拉格最盛大的节日——我们将为圣女举办戴冠仪式。,"And today, on the day of Kjerag's grandest celebration, we hold the coronation ceremony for the Saintess.","И сегодня, в день величайшего праздника в Кьелсе, мы проведем коронацию Святой."
+line-227,大长老,这也将是老朽最后一次主持大典。,This will also be the last ceremony that I preside over.,"Для меня это будет последний раз, когда я провожу церемонию."
+line-228,大长老,耶拉冈德将自己的血肉赐予佩尔罗契家，令土地肥沃，让谢拉格人从此不再饥饿。,"Kjeragandr gave Her own flesh to the Paleroche clan, making the land fertile so that the people of Kjerag would go hungry no longer.","Йелаганд даровала свою плоть семье Пельрочи, чтобы земля была плодородной, а народ Кьелса больше не знал голода."
+line-234,阿克托斯,瓦莱丝。,Valais.,Валис.
+line-236,瓦莱丝,在。,Sir.,Я здесь.
+line-247,？？？,我是一名研究者。即便我真的谎话连篇，也不会对我的研究说谎。,"I am a researcher. Even should I lie, I would never lie about my research.","Я исследователь. Даже если я буду лгать, я никогда не солгу в своих исследованиях."
+line-248,？？？,你可以不相信我的分析结果，但你显然保留着当年那份样本。,"You may distrust the results of my analysis, yet you still hold onto my sample from back then.","Можешь не верить результатам моего анализа, но у тебя явно остался тот образец."
+line-249,？？？,你大可以拿它做个实验，来验证一下我说的话。,"You can use it as an experiment, to verify the things that I said.","Ты можешь провести эксперимент, чтобы подтвердить мои слова."
+line-250,？？？,还是说，你要接受这种“事实”？,"Or, are you ready to accept this 'truth?'","Или ты собираешься принять этот ""факт""?"
+line-251,？？？,你真的相信，你的父亲死于“对耶拉冈德的不虔诚”？,Do you truly believe that your father died for 'blaspheming Kjeragandr?',"Ты правда веришь, что твой отец умер из-за ""неблагочестия к Йелаганд""?"
+line-253,瓦莱丝,......,......,......
+line-263,,瓦莱丝恭敬地端上了一杯酒。,Valais respectfully brings forth a cup of wine.,Валис почтительно подала кубок вина.
+line-264,,这杯酒，代表着丰收。,This cup represents a bountiful harvest.,Это вино символизирует урожай.
+line-266,阿克托斯,我将粮食酿成的酒献给耶拉冈德，祈祷下一年的丰收。,"I offer this wine made from nourishing grain to Kjeragandr, so that we may be blessed with a bountiful harvest next year.",Я приношу Йелаганд вино из зерна урожая и молю о процветании в следующем году.
+line-268,,大长老拿起递到自己面前的酒，一口饮尽。,The Great Elder receives the wine and drinks it in one gulp.,Великий старейшина взял поднесенное вино и выпил его до дна.
+line-270,阿克托斯,佩尔罗契家当代家主，阿克托斯·佩尔罗契，向耶拉冈德献上崇高的敬意。,"As head of the Paleroche clan, I, Arctosz Paleroche, pay the highest tribute to Kjeragandr.","Арктос Пельрочи, нынешний глава семьи Пельрочи, приносит высочайшее почтение Йелаганд."
+line-272,恩雅,你的祈祷必将抵达耶拉冈德处。,Your prayers will surely reach Kjeragandr.,Твои молитвы обязательно достигнут Йелаганд.
+line-274,大长老,耶拉冈德又将自己的皮毛赐给布朗陶家，令林木茂盛群兽生息，让谢拉格人不再受冻。,"Kjeragandr gave Her own hide to the Browntail clan, making the forests lush and full of beast-life so that the people of Kjerag would no longer succumb to the cold.","Йелаганд даровала свою шерсть семье Бронтау, чтобы леса процветали, звери плодились, а народ Кьелса не знал холода."
+line-280,菈塔托丝,尤卡坦。,Yucatan.,Юкатан.
+line-282,尤卡坦,在。,Matriarch.,Я здесь.
+line-283,,尤卡坦恭敬地递上了一条围脖。,Yucatan respectfully brings forth a scarf.,Юкатан почтительно протянул шарф.
+line-284,,这条围脖，代表着安康。,This scarf represents comfort and good health.,Этот шарф символизирует здоровье и благополучие.
+line-286,菈塔托丝,我将皮毛织成衣裳献给耶拉冈德，祈祷下一年的安康。,"I offer this cloth knit from warming fur to Kjeragandr, so that we may be blessed with comfort and good health next year.",Я подношу Йелаганд одежду из шерсти и молюсь о здоровье в следующем году.
+line-288,,大长老接过围脖，亲手为圣女戴上。,The Great Elder takes the scarf and drapes it across the Saintess.,Великий старейшина принял шарф и собственноручно надел его на Святую.
+line-290,菈塔托丝,布朗陶家当代家主，菈塔托丝·布朗陶，向耶拉冈德献上至高的敬意。,"As head of the Browntail clan, I, Ratatos Browntail, pay the highest tribute to Kjeragandr.","Рататос Бронтау, нынешняя глава семьи Бронтау, приносит высшее почтение Йелаганд."
+line-292,恩雅,你的祈祷必将抵达耶拉冈德处。,Your prayers will surely reach Kjeragandr.,Твои молитвы обязательно достигнут Йелаганд.
+line-294,大长老,最后，耶拉冈德将自己的骨骼赐予希瓦艾什家，令山脉深处生出金属，以此铸造工具与兵器。,"Finally, Kjeragandr gave Her own bones to the Silverash clan, making the mountains rich with metal so that the people of Kjerag could forge tools and weapons.","И наконец, Йелаганд даровала свои кости семье СильверЭш, чтобы в глубинах гор рождался металл, из которого куются инструменты и оружие."
+line-300,恩希欧迪斯,角峰。,Matterhorn.,Матерхорн.
+line-302,角峰,在。,Sir.,Я здесь.
+line-303,,角峰恭敬地递上一柄小刀。,Matterhorn respectfully brings forth a small knife.,Матерхорн почтительно протянул нож.
+line-304,,这柄小刀，代表着和平。,This small knife represents peace.,Этот нож символизирует мир.
+line-306,恩希欧迪斯,我将金属制成武器献给耶拉冈德，祈祷下一年的和平。,"I offer this weapon of refined ore to Kjeragandr, so that we may be blessed with peace next year.",Я приношу Йелаганд оружие из металла и молю о мире в следующем году.
+line-308,,大长老接过刀，用双手将之交给了圣女。,The Great Elder takes the knife and hands it to the Saintess with both hands.,Великий старейшина принял нож и обеими руками передал его Святой.
+line-310,恩希欧迪斯,希瓦艾什家当代家主，恩希欧迪斯·希瓦艾什，向耶拉冈德献上至高的敬意。,"As head of the Silverash clan, I, Enciodes Silverash, pay the highest tribute to Kjeragandr.","Энсиодис СильверЭш, нынешний глава семьи СильверЭш, приносит высшее почтение Йелаганд."
+line-312,恩雅,你的祈祷必将抵达耶拉冈德处。,Your prayers will surely reach Kjeragandr.,Твои молитвы обязательно достигнут Йелаганд.
+line-314,大长老,然后——,Next––,Затем——
+line-321,魏斯,老爷，行刺的凶手已经找到了。,"Master, the perpetrator has been found.","Господин, нападавший найден."
+line-323,恩希欧迪斯,......大长老，行刺的凶手已经找到，不知道是先继续仪式，还是先审问凶手？,"Great Elder, now that the perpetrator has been found, I know not whether to continue the ceremony or interrogate the perpetrator.","......Великий старейшина, покушавшийся найден, как поступим: продолжим церемонию или допросим преступника?"
+line-336,谢拉格平民A,必须找出行刺的凶手！,This perpetrator must be brought to justice!,Нужно найти убийцу!
+line-338,谢拉格平民B,没错！凶手必须被惩罚！,That's right! The perpetrator must be punished!,Верно! Виновный должен понести наказание!
+line-351,大长老,既然民众关心此事，那就带上来吧。,"Since the people worry about this matter, bring the perpetrator.","Раз народ беспокоится об этом, приведите его."
+line-353,恩希欧迪斯,好。,Very well.,Хорошо.
+line-354,恩希欧迪斯,把人带上来。,Come.,Приведите его.
+line-367,菈塔托丝,......！,......!,......!
+line-376,休露丝,（莫希？！）,(Monch?!),(Моши?!)
+line-377,休露丝,（怎么回事啊？怎么会是莫希被抓啊！难、难道说之前说的计划就是指行刺？！）,(What's going on? Why is Monch in custody? D-Does this have something to do with the assassination attempt?!),"(Что происходит? Почему арестовали Моши! Не-неужели план, о котором говорили, означал покушение?!)"
+line-379,休露丝,（......啊呀，这个笨蛋！）,"(Dammit, that idiot!)","(......Боже, какая же дура!)"
+line-388,尤卡坦,（等等，露丝，你要干什么？！）,"(Wait, Rus, what are you doing?!)","(Подожди, Рус, что ты собираешься делать?!)"
+line-390,大长老,扰乱圣猎的刺客，报上你的名字。,"Assassin who dares disrupt the Holy Hunt, state your name.","Убийца, нарушивший Священную охоту, назови свое имя."
+line-392,莫希,......,......,......
+line-394,大长老,为何......咳咳，要行刺恩希欧迪斯大人？,Why... *could* *cough*... would you seek to take Sir Enciodes's life?,"Почему...... кхе-кхе, почему ты совершил покушение на господина Энсиодиса?"
+line-396,莫希,......,......,......
+line-397,莫希,要杀便杀，不必多说。,I kill what needs to die.,"Хотите убить — убейте, нечего тут рассуждать."
+line-399,大长老,......,......,......
+line-400,大长老,刺客，闭口不言并不能挽救你的性命。,"Assassin, keeping your mouth shut will not spare your life.","Ассасин, молчание не спасет твою жизнь."
+line-401,大长老,在神圣仪式中对耶拉冈德不敬的罪过必须得到相应的惩戒。,Your sacrilege against Kjeragandr during a sacred ceremony is a sin that must be punished accordingly.,Преступление неуважения к Йелаганд во время священного ритуала должно быть соответствующим образом наказано.
+line-402,大长老,你可知若你执意如此，按照戒律，现在我便可下令将你在此处决！,"Know that if you persist, then by the Commandments, I can order your execution on the spot!","Знаешь ли ты, что если будешь упорствовать, то по закону я могу приказать казнить тебя прямо здесь!"
+line-404,莫希,......,......,......
+line-406,大长老,唉，看来只能按律处置了。,Fine. Then you shall be dealt with according to the Commandments.,"Увы, придется действовать по закону."
+line-416,大长老,......至于你的身份，就算你不说，相信也不会难查......,"Even if you choose not to speak, your identity will not be difficult to uncover.","......Что до твоей личности, даже если ты не скажешь, думаю, будет нетрудно выяснить......"
+line-418,莫希,......,......,......
+line-420,休露丝,慢着！,"Wait, hold on!",Постойте!
+line-422,莫希,——！,––!,——!
+line-424,尤卡坦,露丝！,Sciurus!,Рус!
+line-437,休露丝,尤卡坦，干什么......你放开我！,"Yucatan, what are you doing? Let go of me!","Юкатан, что ты...... отпусти меня!"
+line-438,休露丝,莫希是我的部下，我不能让人随便处置她！,Monch is one of my people! I won't let you hurt her!,"Моши — моя подчиненная, я не позволю обращаться с ней как попало!"
+line-440,大长老,休露丝夫人，此话当真？,"Is this true, Sciurus?","Леди Шулис, ты серьезно?"
+line-442,菈塔托丝,......休露丝！你给我回来！,...Sciurus! You get back here this instant!,......Шулис! Вернись сейчас же!
+line-444,菈塔托丝,这里不是给你胡闹的地方。尤卡坦，管好你的妻子！,"This isn't the time or place to be fooling around. Yucatan, get your wife under control!","Это не место для твоих глупостей. Юкатан, присмотри за своей женой!"
+line-446,尤卡坦,......你不了解情况，露丝，先别闹，好吗？,"...Rus, you don't understand the situation. Let's not make a scene here, alright?","......Ты не понимаешь ситуации, Рус, не надо сейчас, ладно?"
+line-447,尤卡坦,过来，来我这边。,"Come, over here, by me.","Иди сюда, ко мне."
+line-449,休露丝,我没闹！我怎么不了解情况了？,What am I not understanding? And I am not making a scene!,Я не устраиваю глупостей! Как я могу не понимать ситуацию?
+line-450,休露丝,他们都那样了，我再不出来，他们就真的要冤枉莫希是什么刺客了！,"They're all like that. If I didn't speak up, they would've condemned Monch as an assassin!","Если они так поступят, если я сейчас не вмешаюсь, они же действительно ложно обвинят Моши в покушении!"
+line-451,休露丝,我——,I—,Я——
+line-454,菈塔托丝,闭嘴！！,Silence!!,ЗАТКНИСЬ!!
+line-456,休露丝,——！,––!,——!
+line-458,休露丝,菈塔托丝，我......,"Ratatos, I...","Рататос, я......"
+line-460,莫希,......,......,......
+line-462,大长老,......看来，我们已经省下追查刺客身份的功夫了。,Looks like that saves us the trouble of identifying the assassin.,"......Похоже, нам не придется тратить силы на выяснение личности ассасина."
+line-463,大长老,来人，把休露丝夫人扣下。,Detain Sciurus.,"Люди, арестовать леди Шулис."
+line-474,休露丝,等等，你们凭什么抓我？！,"W-Wait, why are you arresting me?!","Подождите, на каком основании вы меня арестовываете?!"
+line-476,休露丝,都说了我没让莫希干过什么刺杀的事，一定是有人要陷害我们！,"I'm telling you, I never had Monch do anything of the sort! Someone must be trying to frame us!","Я же сказала, я не заставляла Моши совершать покушение, это кто-то хочет нас подставить!"
+line-478,菈塔托丝,......,......,......
+line-479,菈塔托丝,大长老，只凭一个不知底细的小人物就直接对布朗陶家的人动手，这不合适吧？,"Great Elder, surely it cannot be appropriate to use force against a member of the Browntail clan solely due to the words of an insignificant person who knows nothing of the situation.","Великий старейшина, разве уместно нападать на члена семьи Бронтау лишь по обвинению мелкой сошки?"
+line-480,菈塔托丝,我这个傻妹妹如各位所见，干不来刺杀恩希欧迪斯大人这种事，她可没有耍这种手段的脑子。,"As you can see, my stupid little sister could not possibly seek to assassinate Sir Enciodes, for she clearly lacks the brain cells to do so.","Как видите, моя глупая сестра неспособна на покушение на господина Энсиодиса, у нее нет мозгов для таких интриг."
+line-482,休露丝,你什么意思？！,"Hey, what are you trying to say?!",Что ты имеешь в виду?!
+line-485,菈塔托丝,我说了——闭嘴！,I told you to shut up!,Я сказала—— заткнись!
+line-487,菈塔托丝,（......休露丝，记好你的身份。）,"(...Sciurus, know your place.)","(......Шулис, помни о своем положении.)"
+line-489,休露丝,......,......,......
+line-491,大长老,唔，菈塔托丝大人的意思是，令妹只是受蒙蔽，此事别有蹊跷？,"What, you mean to say that your sister has been deceived, Ratotos? Do you not find something unusual about that?","Хм, леди Рататос хочет сказать, что её сестра была лишь введена в заблуждение и дело гораздо сложнее?"
+line-493,菈塔托丝,大长老英断。,"Very perceptive, Great Elder.",Великий старейшина мудр.
+line-495,大长老,咳咳......那么，恩希欧迪斯大人......咳，认为呢？,*cough* *cough*... Enciodes... *cough*... What do you think?,"Кхе-кхе...... тогда, господин Энсиодис...... что думает?"
+line-497,恩希欧迪斯,菈塔托丝曾于我有恩，我始终相信，你我两家即便有所分歧，也不至于走到最坏的一步。,"Ratatos has always treated me kindly. and I have always trusted her. Even if we have our differences, I believe she would not resort to such drastic measures.","Рататос когда-то оказала мне услугу, и я всегда верил, что даже при наших разногласиях мы не зайдем так далеко."
+line-499,菈塔托丝,......,......,......
+line-501,恩希欧迪斯,菈塔托丝，我信你不是如此罔顾信仰，会在耶拉冈德的庆典上如此行事之人。,"Ratatos, I have no reason to believe you to be of so little faith as to behave in such a manner during a celebration of Kjeragandr.","Рататос, я верю, что ты не станешь так пренебрегать верой и устраивать подобное на празднике Йелаганд."
+line-502,恩希欧迪斯,只不过我恩希欧迪斯的安危是小事，对耶拉冈德的不敬却不可姑息......,"While my well-being is of little consequence, this disrespect to Kjeragandr cannot be tolerated.","Просто моя личная безопасность — это мелочь, но неуважение к Йелаганд не может остаться безнаказанным......"
+line-504,菈塔托丝,......你的意思是？,What do you mean by that?,......Ты о чем?
+line-506,恩希欧迪斯,如今刺客是布朗陶家之人，空口白牙便说此事与布朗陶家全然无关，实难令人信服。,"Now that we know that the perpetrator is a member of the Browntail clan, no one will believe the empty rhetoric that the Browntails have nothing to do with this matter.","Сейчас ассасин из семьи Бронтау, и утверждать, что семья Бронтау к этому непричастна, крайне неубедительно."
+line-507,恩希欧迪斯,若是既没有可靠的证据，也交不出真正的罪人，即便我愿意息事宁人，恐怕......布朗陶家也难以服众吧？,"Without providing some concrete evidence, or turning over the real perpetrator, even if I am willing to turn the other cheek... I'm afraid that the house of Browntail will be hard-pressed to convince the public.","Если нет надежных доказательств и невозможно выдать настоящего виновника, даже если я готов закрыть на это глаза, боюсь...... семья Бронтау вряд ли сможет убедить других?"
+line-509,菈塔托丝,......,......,......
+line-516,,菈塔托丝觉得自己听懂了这个人话语中的意思，但那些话在她耳边嗡嗡作响，实在是太吵人了。,"Ratatos feels that she can understand the man's meaning, but the buzzing of those words inside her ears... is far too thunderous to bear.","Рататос показалось, что она поняла смысл сказанного им, но его слова эхом отдавались в её ушах, доставляя лишь шум."
+line-517,,整个大典现场一片骚动，周围群众的视线从未有一刻像此时一样，充斥着不信任与敌意，令她感到如芒在背。,"The entire ceremony is awash with turmoil. She has never once felt the gaze of the surrounding people in such a way before - full of distrust and hostility, like barbs in her back.","На празднике поднялась суматоха, взгляды окружающих были полны недоверия и враждебности, отчего ей стало не по себе."
+line-518,,休露丝也在朝她说些什么。她竟没有像往常一样尖利地喊叫，只有唇瓣在无声地颤动。,"Sciurus also seems to be saying something to her, and not in her usual sharp shouts, her lips are silently quivering.","Шулис тоже что-то говорила ей. Она не кричала как обычно, лишь её губы беззвучно дрожали."
+line-519,,菈塔托丝一眼就看懂了她无声的话。在她们从前，在她们还小的时候，两人间曾瞒着大人玩过这样的把戏。,"Ratatos can tell from a glance what her voiceless words are. In the past, the two of them played similar tricks without the notice of adults.","Рататос сразу поняла её беззвучные слова. Когда они были маленькими, они часто играли в такие игры втайне от взрослых."
+line-520,,她的妹妹在说：,Her sister says:,Её сестра говорила:
+line-522,,“可是，我只是想为布朗陶家做点什么啊！”,"'But, I just wanted to do something for the Browntail clan!'","""Но я просто хотела сделать что-то для семьи Бронтау!"""
+line-526,菈塔托丝,......,......,......
+line-528,恩希欧迪斯,大长老？您的意见是？,"Great Elder, what is your opinion?",Великий старейшина? Каково ваше мнение?
+line-530,大长老,咳......恩希欧迪斯老爷说的有理......咳咳......,"*cough*... Your words ring true, Enciodes... *cough* *cough*...",Кхе...... господин Энсиодис прав...... кхе-кхе......
+line-532,恩希欧迪斯,大长老，您的身体怎么了？,"Great Elder, is there something wrong?","Великий старейшина, что с вашим здоровьем?"
+line-535,大长老,无妨......呃......,I'm fine... *gurgle*...,Всё в порядке...... эх......
+line-537,修士,大长老，您怎么了？！,"Great Elder, what's happening?!","Великий старейшина, что с вами?!"
+line-539,大长老,......,......,......
+line-550,修士,大长老的嘴角有绿色的液体......这是中毒了！,There's some green liquid coming from the Great Elder's lips... He's been poisoned!,У Великого старейшины зеленая жидкость на губах...... Это яд!
+line-551,修士,有人给大长老下毒！,Someone poisoned the Great Elder!,Кто-то отравил Великого старейшину!
+line-553,恩雅,让我来看看。,Let me see.,Позвольте мне взглянуть.
+line-555,修士,圣女大人，不要靠近，说不定还有别的毒！,"Stay back, Saintess! There may be other poison!","Святая, не приближайтесь, там может быть еще яд!"
+line-557,恩雅,我不怕。,I'm not afraid.,Я не боюсь.
+line-564,恩雅,......不行，毒性太强了，压制了我的治疗法术，我只能暂时勉强维持住大长老的生命。,No... the poison is too potent and is suppressing my healing Arts. I can only barely maintain the Great Elder's life for a while.,"......Нет, действие яда слишком сильное, оно подавляет мои лечебные заклинания, я могу лишь временно поддержать жизнь Великого старейшины."
+line-566,修士,谁会毒害大长老？！而且，是在什么时候......,"Who would poison the Great Elder?! And, when...",Кто мог отравить Великого старейшину?! И когда......
+line-567,修士,酒，一定是刚才阿克托斯老爷递给大长老的那杯酒！,Wine! It must've been that cup of wine that Arctosz offered to the Great Elder!,"Вино, это точно было вино, которое господин Арктос только что поднес Великому старейшине!"
+line-569,恩雅,把酒杯拿来！,Bring the cup!,Принесите сюда кубок!
+line-571,修士,在、在这里！,H-Here it is!,О-он здесь!
+line-579,恩雅,......这，确实是毒的痕迹。,Without a doubt... there are traces of poison.,"......Да, это следы яда."
+line-581,阿克托斯,这不可能！,That's impossible!,Это невозможно!
+line-583,恩希欧迪斯,......原来如此。,...So that's your game.,......Вот оно что.
+line-585,恩希欧迪斯,阿克托斯，我实在想不到，你居然会为了夺取谢拉格，不惜对大长老下毒！,"Arctosz, I never could've imagined that you would dare poison the Great Elder in your bid to take over Kjerag!","Арктос, я и подумать не мог, что ты ради власти в Кьелсе готов отравить Великого старейшину!"
+line-588,阿克托斯,你！我有什么毒害大长老的理由！,What?! What reason would I possibly have to poison the Great Elder?!,Ты! С чего мне травить Великого старейшину!
+line-590,恩希欧迪斯,哼，你佩尔罗契家确实素来和蔓珠院修好，但是，你们也靠着和蔓珠院的关系在谢拉格获得了诸多特权。在场的民众都是见证。,"Hmph. The Paleroche clan has always been on good terms with the Vine-Bead Court, but you leveraged this relationship to gain many privileges throughout Kjerag. The people gathered here are all witnesses to that.","Хм, твоя семья Пельрочи всегда была в хороших отношениях с Манджуин, но вы также пользовались множеством привилегий благодаря этим отношениям. Присутствующие здесь — свидетели."
+line-591,恩希欧迪斯,过去数年，你借着你的特权不断打压我，我忍耐至今。诸位也是亲眼所见。,"Over these years, you have used this privilege to suppress me, something I endure to this day. You have all seen this with your own eyes.","Последние несколько лет ты, пользуясь своими привилегиями, постоянно давил на меня, я терпел до сих пор. Все присутствующие это видели."
+line-592,恩希欧迪斯,如今，我为了妥协，提出还政于圣女，你却依然不打算放过我希瓦艾什家。,"And now, even as I have compromised by proposing to return temporal power to the Saintess, you still have to terrorize the house of Silverash.","Теперь же, ради компромисса, я предложил вернуть власть Святой, а ты всё еще не намерен оставить в покое семью СильверЭш."
+line-593,恩希欧迪斯,一旦还政给圣女，三家共同接受圣女领导，到时候，你佩尔罗契家还能享受如今的特权吗？,"Once the Saintess holds all the power and the three clans are equal under her leadership, will the Paleroche clan still enjoy its privileges as it does now?","Как только власть вернется к Святой, три семьи будут под её руководством, и сможет ли тогда семья Пельрочи пользоваться нынешними привилегиями?"
+line-594,恩希欧迪斯,恐怕你就是因为大长老不愿意再支持你，而选择与休露丝夫人接触，谋划了今天的局面吧。,"Perhaps because the Great Elder was no longer willing to support you, you then chose to contact Madame Sciurus, plotting the scheme unfolding before our very eyes.","Боюсь, это потому что Великий старейшина больше не желает тебя поддерживать, ты решил связаться с леди Шулис и спланировать сегодняшний ход событий."
+line-595,恩希欧迪斯,由休露丝夫人负责暗杀我，而你则来毒害大长老，你们两家趁势夺取谢拉格的政权......真是好盘算啊，阿克托斯。,"Madame Sciurus was responsible for assassinating me, you would poison the Great Elder, and the two of you would take advantage of the situation to seize power in Kjerag... Not a bad plan, Arctosz.","Леди Шулис отвечала за моё убийство, а ты отравил Великого старейшину, и вы вдвоем решили воспользоваться случаем, чтобы захватить власть в Кьелсе...... Ну и план, Арктос."
+line-598,阿克托斯,恩希欧迪斯，你竟敢血口喷人！,"You dare slander me, Enciodes!","Энсиодис, ты смеешь поливать меня грязью!"
+line-600,恩希欧迪斯,血口喷人？,Slander?,Поливать грязью?
+line-601,恩希欧迪斯,你阿克托斯家与蔓珠院交好是事实，布朗陶家如今与你阿克托斯家站在一起是事实，大长老同意了还政是事实。,It is a fact that your clan is on good terms with the Vine-Bead Court. It is a fact that the Browntail clan is now allied with yours. It is a fact that the Elders agreed to return temporal power to the Saintess.,"Факт, что твоя семья Арктоса в хороших отношениях с Манджуин — истина, факт, что семья Бронтау сейчас заодно с тобой — истина, факт, что Великий старейшина согласился на передачу власти — истина."
+line-602,恩希欧迪斯,而现在，你毒害了大长老是事实。,"And as of now, it is a fact that you poisoned the Great Elder.","А сейчас, то, что ты отравил Великого старейшину — истина."
+line-604,恩希欧迪斯,我倒想问问在场的诸位，究竟是我血口喷人，还是阿克托斯在狡辩！,"I would ask all of you present to pass judgment – am I the one who slanders, or is Arctosz the one who deceives?!","Я хочу спросить всех присутствующих, поливаю ли я грязью, или Арктос пытается оправдаться!"
+line-616,谢拉格平民A,这......阿克托斯老爷不是这样的人......,But... Sir Arctosz isn't that kind of person...,Это...... господин Арктос не такой человек......
+line-618,谢拉格平民B,恩希欧迪斯老爷在圣猎中受伤，刺杀他的是布朗陶家的人，现在毒害大长老的又是阿克托斯，还有什么好怀疑的！,"Sir Enciodes was injured during the Holy Hunt, and a Browntail was responsible. Now, Arctosz poisoned the Great Elder. What is there to doubt?","Господин Энсиодис ранен на охоте, покушавшийся — из семьи Бронтау, а теперь Великого старейшину отравил Арктос, какие еще нужны сомнения!"
+line-620,谢拉格平民C,我真是看错了阿克托斯！没想到他这么多年的虔诚都是装的！,I can't believe I had such a wrong impression of Arctosz! I never thought he was faking his piety all these years!,"Я был так разочарован в Арктосе! Никогда бы не подумал, что его благочестие — лишь фасад!"
+line-622,谢拉格平民A,......不，不可能！,...I refuse to believe it!,"......Нет, это невозможно!"
+line-624,谢拉格平民B,别傻了！,Wake up already!,Не будь глупцом!
+line-637,恩希欧迪斯,把刺客和休露丝夫人押下去。,Pin down the murderer and Madame Sciurus.,Увести ассасина и леди Шулис.
+line-645,希瓦艾什家战士,是。,Right away.,Есть.
+line-648,休露丝,别碰我，混蛋！,"Get your hands off me, you bastard!","Не трогайте меня, ублюдки!"
+line-650,尤卡坦,露丝！,Sciurus!,Рус!
+line-652,尤卡坦,大夫人......！,Matriarch...!,Леди......!
+line-654,菈塔托丝,等——,Wait––,Подо——
+line-668,希瓦艾什家战士,咕哈......,Guh...,Гу-ха......
+line-675,角峰,谁！,Who's there?!,Кто?!
+line-677,魏斯,冰霜法术，而且是这么远的距离，难道说——,"Ice Arts, and from such a long range? Could it be––","Ледяное заклинание, и с такого большого расстояния, неужели——"
+line-688,谢拉格贵族A,谁来了？！,Who is it?!,Кто идет?!
+line-690,谢拉格贵族B,看那边！,Look over there!,Смотрите туда!
+line-695,？？？,战士们，该去营救你们的家主了。,"Warriors, it's time to rescue your clan leader.","Воины, пора идти на выручку вашим главам."
+line-710,谢拉格贵族A,那是——诺希斯！他怎么会在这里，而且，他带的怎么是布朗陶家的人？！,"That's... Gnosis! Why is he here, and, why are the Browntails with him?!","Это—— Нозис! Как он здесь оказался, и почему он с людьми из семьи Бронтау?!"
+line-712,谢拉格贵族B,......自从他被喀兰贸易除名后，我就没听说过他的消息了，现在看来，他居然是叛变去了布朗陶家？！,"I haven't heard from him since he was blacklisted from Karlan Trade. From the looks of things, he's defected to the Browntail clan?!","......С тех пор как его исключили из Karlan Trade, я о нем ничего не слышал, выходит, он перебежал в семью Бронтау?!"
+line-726,诺希斯,恩希欧迪斯，你费尽心思把自己包装成一个虔诚的受害者，在台上说着一些冠冕堂皇的话，你不觉得羞耻吗？,"Enciodes, you've gone to such great lengths to paint yourself as some pious victim, making your high-and-mighty proclamations atop that stage of yours. Have you no sense of shame?","Энсиодис, ты приложил столько усилий, чтобы выставить себя благочестивой жертвой, и произносишь такие высокопарные речи, не стыдно ли тебе?"
+line-728,恩希欧迪斯,......,......,......
+line-729,恩希欧迪斯,诺希斯，我当你躲在了哪里，原来，你是躲去了菈塔托丝那一边。,"I was wondering where you were hiding, Gnosis. Turns out you fell in with Ratatos.","Нозис, я гадал, куда ты спрятался, оказывается, ты скрылся на стороне Рататос."
+line-731,诺希斯,躲？我只是在为这一刻做准备罢了。,"Hiding? No, I've been biding my time for this moment.",Скрылся? Я просто готовился к этому моменту.
+line-733,诺希斯,菈塔托丝，你还在犹豫什么？,"Ratatos, what are you hesitating for?","Рататос, чего ты еще ждешь?"
+line-735,菈塔托丝,诺希斯，你——,"Gnosis, you––","Нозис, ты——"
+line-737,诺希斯,看看台下的民众，他们眼中对你有多么不信任！,"Take a good look at the people around you, and the distrust they harbor for you in their eyes!","Посмотри на горожан внизу, как же они тебе не доверяют!"
+line-748,谢拉格平民A,菈塔托丝背叛了耶拉冈德！她必须被制裁！,Ratatos has betrayed Kjeragandr! She must be punished!,Рататос предала Йелаганд! Она должна быть наказана!
+line-750,谢拉格平民B,阿克托斯，我真是看错你了！,"Arctosz, I thought better of you!","Арктос, как же я ошибся в тебе!"
+line-753,谢拉格平民C,恩希欧迪斯老爷，打倒他们，打倒他们！！,"Strike them down, Sir Enciodes! Strike them down!!","Господин Энсиодис, победите их, победите их!!"
+line-764,诺希斯,看看你的妹妹，她就要被恩希欧迪斯带走了！,Get a good look at your sister. Enciodes is about to take her away!,"Посмотри на свою сестру, её вот-вот уведет Энсиодис!"
+line-767,休露丝,放开我，你们放开我！,Let go! Let go of me!!,"Отпустите меня, отпустите меня!"
+line-775,尤卡坦,......不要伤害我的妻子！,Don't you dare hurt my wife!,......Не причиняйте вреда моей жене!
+line-777,希瓦艾什家战士,哼。,Hmph!,Хм.
+line-795,尤卡坦,咕......,Argh...,Гу......
+line-799,休露丝,尤卡坦！,Yucatan!,Юкатан!
+line-801,菈塔托丝,休露丝！尤卡坦！,Sciurus! Yucatan!,Шулис! Юкатан!
+line-803,诺希斯,现在，是你最后的机会了。,Now is your last chance.,Теперь это твой последний шанс.
+line-804,诺希斯,恩希欧迪斯说信你，他当真是信你吗？,Enciodes said that he trusted you. But did he ever actually trust you?,"Энсиодис сказал, что верит тебе, а действительно ли он верит?"
+line-805,诺希斯,你应该早看清楚了，他只是在逼你做决定。但难道你真的给出他想要的“凶手”，就能守住你布朗陶家了？,You should've seen through this long ago. He's just forcing you to make a decision. But do you really think you can protect your Browntail clan simply by turning over the 'assassin' that he wants?,"Ты должна была давно понять, он просто вынуждает тебя сделать выбор. Но неужели ты думаешь, что если выдашь ему желаемого ""убийцу"", то сможешь сохранить свою семью Бронтау?"
+line-806,诺希斯,看看周围。看看你周围的这些人看你们的目光......,Look around you. See how the people are looking at you.,"Посмотри вокруг. Посмотри, какими глазами смотрят на вас люди......"
+line-807,诺希斯,你难道不清楚恩希欧迪斯一旦夺取谢拉格，你们两家会落得什么样的田地？,Do you have any idea what will become of your clans should Enciodes take over Kjerag?,"Ты что, не понимаешь, в каком положении окажутся ваши семьи, когда Энсиодис захватит Кьелс?"
+line-809,菈塔托丝,我......,I...,Я......
+line-812,尤卡坦,大夫人！,Matriarch!,Леди!
+line-814,菈塔托丝,......,......,......
+line-816,诺希斯,菈塔托丝，难道你既不打算保护你的家人，也不打算保护你的领地，要放弃舆论，放弃实权？,"Ratatos, don't tell me that you intend to protect neither your clan nor your lands, and instead will simply relinquish your public image and privileges?","Рататос, неужели ты не собираешься защищать ни свою семью, ни свои земли, хочешь отказаться от общественного мнения, от реальной власти?"
+line-817,诺希斯,如果到了这个地步你还不打算有所行动......,"If you still choose to do nothing, even at this point...","Если дошло до такого, а ты всё еще не собираешься действовать......"
+line-819,诺希斯,那就让我来帮你吧。,Then allow me to help you.,Тогда позволь мне помочь тебе.
+line-825,,诺希斯转身看向恩希欧迪斯。,Gnosis turns to look at Enciodes.,Нозис повернулся к Энсиодису.
+line-832,,冰蓝色的法术在他手中凝聚，恩希欧迪斯却丝毫不为所动。,"Ice-blue Arts condense in the palm of his hand, but Enciodes remains unfazed.","Ледяная магия скопилась в его руках, но Энсиодис остался совершенно невозмутим."
+line-834,恩希欧迪斯,诺希斯，你真是令我失望。,"Gnosis, you disappoint me.","Нозис, ты меня разочаровываешь."
+line-836,诺希斯,真巧啊，恩希欧迪斯，我也是这么想的。,"What a coincidence, Enciodes. I was just thinking the same thing.","Какое совпадение, Энсиодис, я думаю о тебе то же самое."
+line-838,恩希欧迪斯,——锏。,––Degenbrecher.,——Цзянь.
+line-857,诺希斯,咕......,Guh...,Гу......
+line-870,锏,你应当知道，这样的法术对我毫无意义。,"As you should know, these Arts are nothing to me.","Ты должен знать, что такая магия для меня бессмысленна."
+line-871,锏,好了，别浪费我的时间。,"Alright, don't waste my time.","Хорошо, не трать мое время."
+line-873,锏,该休息了，诺希斯。,"Let's put you down, Gnosis.","Пора отдохнуть, Нозис."
+line-895,锏,真可悲啊，诺希斯。,How pathetic.,"Как же жалко, Нозис."
+line-896,诺希斯,可悲？,Pathetic?,Жалко?
+line-897,诺希斯,今天就算你把我在这里杀死，也不会有什么用。,"Even if you strike me down here today, it won't do you any good.","Даже если ты убьешь меня здесь сегодня, это ничего не изменит."
+line-898,诺希斯,你拦得住我一个人，拦得住一百个人，但你拦得住一千人，拦得住一万人吗？,"You may be able to stop one person, or even a hundred people. But can you stop a thousand? Ten thousand?","Ты сможешь остановить меня, одного, сотню, но сможешь ли ты остановить тысячу, десять тысяч?"
+line-899,诺希斯,看看我的身后。,Look behind me.,Посмотри за мою спину.
+line-900,诺希斯,火，已经点起来了。,The flames have been lit.,Огонь уже разгорелся.
+line-911,菈塔托丝,......,......,......
+line-912,菈塔托丝,啧。,Grr.,Тск.
+line-914,菈塔托丝,阿克托斯。,Arctosz.,Арктос.
+line-916,阿克托斯,干什么？,What?,Чего тебе?
+line-919,菈塔托丝,你是相信我，还是相信恩希欧迪斯？！,"Do you believe me, or Enciodes?!",Ты веришь мне или Энсиодису?!
+line-921,阿克托斯,你们两个，我一个都不相信！,I don't trust either of you!,Вас двоих я не верю ни на грош!
+line-923,菈塔托丝,那你至少也该知道，眼下谁才是敌人！,"Then you should at least know very clearly now, who the real enemy is!","Тогда хотя бы должен понимать, кто сейчас враг!"
+line-924,菈塔托丝,布朗陶家的战士们，准备战斗！,"Browntail clan warriors, prepare for battle!","Воины семьи Бронтау, к бою!"
+line-932,菈塔托丝,先救出休露丝，再把恩希欧迪斯给我拿下！,"First, we rescue Sciurus. Then, bring Enciodes to me!","Сначала спасти Шулис, а потом захватить Энсиодиса!"
+line-934,布朗陶家战士,是！,"Yes, Matriarch!",Есть!
+line-936,阿克托斯,......*谢拉格俚语*，佩尔罗契家的战士们，列阵！,"Fy faen... Paleroche warriors, in formation!","......*Кьелский сленг*, воины Пельрочи, в строй!"
+line-944,阿克托斯,把恩希欧迪斯这个逆贼拿下！让民众们知道，他才是那个叛徒！,Take down the traitor! Expose to the masses that Enciodes is the real traitor!,"Захватить Энсиодиса, этого бунтовщика! Пусть люди узнают, кто из нас предатель!"
+line-946,古罗,是！,Yessir!,Есть!
+line-948,佩尔罗契家战士,是！,Yessir!,Есть!
+line-950,恩希欧迪斯,锏。,Degenbrecher.,Цзянь.
+line-951,恩希欧迪斯,把诺希斯押下去。,Get Gnosis.,Уведи Нозиса.
+line-953,锏,不用我？,You don't need me?,Без меня справишься?
+line-955,恩希欧迪斯,不用。,I don't.,Справлюсь.
+line-957,锏,行吧。,Alright.,Ну ладно.
+line-959,恩希欧迪斯,角峰。,Matterhorn.,Матерхорн.
+line-965,角峰,在。,Sir.,Я здесь.
+line-967,恩希欧迪斯,照看住大长老和圣女大人。,Take care of the Great Elder and the Saintess.,Присмотри за Великим старейшиной и госпожой Святой.
+line-969,角峰,是。,Right away.,Есть.
+line-971,恩希欧迪斯,魏斯。,Weiss.,Вайсс.
+line-977,魏斯,在。,Sir.,Я здесь.
+line-979,恩希欧迪斯,把阿克托斯与菈塔托丝拿下。,Bring me Arctosz and Ratatos.,Захвати Арктоса и Рататос.
+line-980,恩希欧迪斯,尽量不要出人命，现在还不是时候。,Try to avoid taking any lives. Now isn't the time for that.,"Постарайся без жертв, сейчас не время."
+line-982,魏斯,是。,Understood.,Есть.
+line-989,魏斯,我们走。,It shall be done.,Мы уходим.
+line-1006,雅儿,......,......,......
+line-1009,,另一种可能性看来是正确的。,The other possibility seems to have been the correct one.,"Кажется, вторая вероятность была верной."
+line-1012,雅儿,所以究竟是什么啊？,So what was all of that?,Так что же это в конце концов?
+line-1015,,这一切，都是恩希欧迪斯在一开始策划好的。,That... was all planned by Enciodes from the very beginning.,Всё это с самого начала было спланировано Энсиодисом.
+line-1018,雅儿,......这不是一开始就知道的吗？,Didn't we know that all along?,......Разве это не было известно изначально?
+line-1021,,我是说，包括诺希斯的出现。,"I mean, including Gnosis showing up.","Я о том, что это включает и появление Нозиса."
+line-1024,雅儿,啊？,Huh?,А?
+line-1025,雅儿,难道说——,Do you mean that––,Неужели——
+line-1028,,Sharp。,Sharp.,Шарп.
+line-1031,Sharp,博士，有什么命令？,"Your orders, Doctor?","Доктор, какие будут приказы?"
+line-1034,,恩希欧迪斯早有准备。,Enciodes always had contingencies in place.,Энсиодис был готов к этому заранее.
+line-1038,,我需要你去把阿克托斯和菈塔托丝救下来。,I need you to rescue Arctosz and Ratatos.,"Мне нужно, чтобы вы спасли Арктоса и Рататос."
+line-1041,Sharp,......我不明白。,...I'm not sure I understand.,......Я не понимаю.
+line-1042,Sharp,......我需要行动理由，博士，这已经不只是保护你了。,"...I need a reason to act, Doctor. This goes beyond my duty to protect you.","......Мне нужна причина для действий, Доктор, это уже не просто ваша защита."
+line-1045,,事已至此，恩希欧迪斯已经赢了。,"At this point, Enciodes has already won.","Дело сделано, Энсиодис уже победил."
+line-1049,,就算阿克托斯与菈塔托丝没有遭险。,Even if Arctosz and Ratatos aren't in danger.,Даже если Арктос и Рататос не пострадают.
+line-1053,,谢拉格也必将迎来一场巨变。,Kjerag is bound to undergo tectonic shifts.,Кьелс всё равно ждут большие перемены.
+line-1056,Sharp,......,......,......
+line-1057,Sharp,我的职责是维护罗德岛的立场，以及你的安全。,"My duty is to uphold Rhodes Island's interests, and protect you.",Моя обязанность — поддерживать позицию Rhodes Island и вашу безопасность.
+line-1058,Sharp,而以一种现实的角度来说，这里发生的一切都与你无关，博士。,"And from a practical standpoint, the things going on here have nothing to do with you, Doctor.","А если смотреть реалистично, то всё, что здесь происходит, вас не касается, Доктор."
+line-1059,Sharp,如果恩希欧迪斯在这里赢了，你终究是他的客人，你不会受到任何伤害。,"Even if Enciodes wins, no harm would come to you, as you are his guest.","Если Энсиодис здесь победит, вы всё равно останетесь его гостем, с вами ничего не случится."
+line-1060,Sharp,另一方面，和罗德岛进行商务合作的也是他，而非另外两家，更不是谢拉格本身。,"From another perspective, he was the one who formed business ties with Rhodes Island, not the other two clans, let alone Kjerag as a whole.","С другой стороны, коммерческое сотрудничество с Rhodes Island ведет он, а не две другие семьи, и уж точно не сам Кьелс."
+line-1061,Sharp,但如果你打算干涉恩希欧迪斯的计划，你的安全将无法保证，罗德岛的立场也将受到威胁。,"If anything, interfering with Enciodes's plans is more likely to threaten Rhodes Island's interests, as well as put your safety at risk.","Но если вы планируете вмешиваться в планы Энсиодиса, ваша безопасность не будет гарантирована, а позиция Rhodes Island окажется под угрозой."
+line-1064,,我将要做的，是阻止战争，拯救生命。,What I am going to do... is prevent wars and save lives.,Я хочу сделать одно — предотвратить войну и спасти жизни.
+line-1067,Sharp,......,......,......
+line-1068,Sharp,博士，这片大地上随时随地都在死人。,"Doctor, people are dying in every corner of this world.","Доктор, на этой земле люди умирают постоянно."
+line-1069,Sharp,如果有人坚信自己的力量应当被用来拯救他人，并真诚地投身于这一事业，最可能发生的事是因自己的力不能及而被愧疚压垮。,"If you go around committed to saving people, genuinely devoting yourself to that cause, you're just going to end up overcome with guilt when you fail.","Если кто-то твердо верит, что его силы должны быть использованы для спасения других, и искренне посвящает себя этому делу, самое вероятное, что с ним случится — это быть раздавленным чувством вины от собственного бессилия."
+line-1070,Sharp,和罗德岛的许多人不一样，我经常会想，拯救和保护是一件相当没有意义的事。,I break with a lot of Rhodes Island when I often find myself thinking that saving and protecting lives is kind of pointless.,"В отличие от многих людей в Rhodes Island, я часто думаю, что спасение и защита — довольно бессмысленное занятие."
+line-1071,Sharp,我相信的是你带来的胜利，而就算胜利也有价值上的区分。,"I believe in the victories you bring, and the discernable value that comes with those victories.","Я верю в победу, которую приносите вы, но даже победа имеет градацию ценности."
+line-1072,Sharp,谢拉格的人口约有几百万，你所说的许多，不是几个人、几十个人、几百个人，而是几千上万，甚至数十万的人。,"Kjerag's population is in the millions. The people you are talking about aren't just a few. Not dozens, or hundreds, but tens of thousands, maybe even hundreds of thousands.","Население Кьелса составляет несколько миллионов, то, что вы называете ""многими"", — это не несколько человек, десятки или сотни, это тысячи и тысячи, возможно, сотни тысяч."
+line-1073,Sharp,......这是你今天许诺的胜利吗？,...Is this the victory you promised today?,"......Это победа, которую вы обещаете сегодня?"
+line-1076,,相信我，Sharp。;就当作是加个班。,"Trust me, Sharp.;Just treat it as overtime.","Поверь мне, Шарп.; Считай это сверхурочными."
+line-1079,Sharp,我明白了，立刻执行。,Alright. I'll see it done.,"Я понял, выполняю немедленно."
+line-1100,希瓦艾什家战士,咕......,Guh...,Гу......
+line-1101,希瓦艾什家战士,啧，居然趁乱偷袭......别让他跑了！,Ugh... Launching a sneak attack during the chaos? Don't let them get away!,"Тск, воспользовался хаосом, чтобы напасть исподтишка...... не дайте ему уйти!"
+line-1113,尤卡坦,露丝！,Sciurus!,Рус!
+line-1115,休露丝,尤卡坦！,Yucatan!,Юкатан!
+line-1118,尤卡坦,快走！,Hurry!,Скорее уходи!
+line-1131,魏斯,休想！,Stop!,Хрен вам!
+line-1134,尤卡坦,闪开！,Out of the way!,С дороги!
+line-1156,魏斯,束手就擒吧，布朗陶家的尤卡坦。,"Stand down, Yucatan of the Browntail clan.","Сдавайся, Юкатан из семьи Бронтау."
+line-1157,魏斯,如果你们投降，老爷会善待你们的，他不需要你们的性命。,"If you come peacefully, the Master will treat you mercifully. He has no interest in taking your lives.","Если вы сдадитесь, господин будет милосерден к вам, ему не нужны ваши жизни."
+line-1159,尤卡坦,（只要能让露丝跑掉——）,(As long as Rus can get away––),(Лишь бы дать Рус убежать——)
+line-1184,尤卡坦,咕......,Gah...,Гу......
+line-1185,尤卡坦,咳......露丝，快......,"*cough*... Rus, hurry...","Кхе...... Рус, скорее......"
+line-1187,魏斯,抱歉。,Sorry.,Прости.
+line-1206,布朗陶家战士,休露丝夫人，快走！,"Hurry, Sciurus!","Леди Шулис, скорее!"
+line-1208,休露丝,尤卡坦还在那！还有、还有莫希！,"Yucatan is still back there! And, Monch too!",Юкатан всё еще там! А как же Моши!
+line-1211,菈塔托丝,你还敢提那个刺客？蠢货！,You're still talking about the assassin? You idiot!,Ты еще смеешь вспоминать ту ассасинку? Идиотка!
+line-1213,休露丝,......她不是！,...She didn't do anything!,......Она не такая!
+line-1214,休露丝,......,......,......
+line-1216,休露丝,可是尤卡坦......尤卡坦呢？！那可是我的丈夫！,But Yucatan... What about Yucatan?! He's my husband!,Но Юкатан...... А как же Юкатан?! Это же мой муж!
+line-1219,菈塔托丝,看看周围的形势，尤卡坦拼了命把你救出来，你要回去陪他吗！,"Look at what's going on around you! Yucatan sacrificed everything to save you, and you plan on jumping back into the fire?!","Посмотри на ситуацию вокруг, Юкатан отдал жизнь, чтобы спасти тебя, ты хочешь вернуться, чтобы быть с ним?!"
+line-1222,休露丝,难道就这么抛弃尤卡坦吗！,So you're just going to abandon him?!,Неужели просто так бросить Юкатана!
+line-1224,菈塔托丝,如果我要放弃他，我就不会出手了！,"If I was giving up on him, I wouldn't be fighting back!","Если бы я хотела его бросить, я бы не стала вмешиваться!"
+line-1225,菈塔托丝,别做傻事！,Now stop being a damned fool!,Не делай глупостей!
+line-1227,休露丝,......知道了，我跑还不行吗！,"Fine fine, I'll just keep running!","......Поняла, убегаю я, убегаю!"
+line-1229,休露丝,（尤卡坦......）,(Yucatan...),(Юкатан......)
+line-1249,古罗,啧，这些穿着奇怪铠甲的怪胎到底是哪里来的！,Gah... Where'd these freaks and their weird armor come from?,"Тск, откуда взялись эти уроды в странной броне!"
+line-1250,古罗,老爷，恩希欧迪斯的人太多了，我们的人被压制住了！,"Sir, Enciodes's forces outnumber us too heavily! We're getting overwhelmed!","Господин, у людей Энсиодиса большое преимущество, нас подавляют!"
+line-1251,古罗,我们该怎么办？,What do we do?,Что нам делать?
+line-1254,阿克托斯,......我佩尔罗契家没有孬种！,There are no cowards in the Paleroche clan!,......Среди моих воинов Пельрочи нет трусов!
+line-1256,菈塔托丝,阿克托斯，别逞英雄了！先合力杀出去！,"Arctosz, stop trying to play the hero! We need to team up and cut our way out of here!","Арктос, не геройствуй! Сначала выберемся отсюда!"
+line-1258,阿克托斯,......这口气，我怎么咽得下去？！,How do you expect me to live that down?!,......Как я могу проглотить эту обиду?!
+line-1260,菈塔托丝,你如果死在这里，就是咽不下也得把气咽下去了！,You won't have a say in the matter if you die here!,"Если ты погибнешь здесь, то даже если не хочешь проглатывать обиду, придется!"
+line-1263,阿克托斯,......可恶，可恶啊！,Dammit... Damn it all!,"......Проклятье, проклятье!"
+line-1264,阿克托斯,古罗，把战士们集结起来，随我杀出去！,"Gulo, gather the warriors and follow me! We're going to break out of here!","Гуро, собери воинов, следуйте за мной, прорываемся!"
+line-1266,古罗,是！,Yessir!,Есть!
+line-1276,魏斯,（低声）抱歉了。,(*whispers*) Sorry about this.,(Тихо) Прошу прощения.
+line-1277,魏斯,“山雪鬼”已经包围了这里。,The Tschäggättä already have this place surrounded.,"""Горные снежные духи"" окружили это место."
+line-1278,魏斯,在一切变得不可挽回之前，你们还可以投降。,You still have the option to surrender before you pass the point of no return.,"Пока всё еще можно исправить, вы можете сдаться."
+line-1281,阿克托斯,恩希欧迪斯的走狗！欺人太甚！我和你们拼了！,"Lackey of Enciodes, you speak only lies! We will fight our way out!",Холуи Энсиодиса! Совсем оборзели! Сражаюсь до последнего!
+line-1283,魏斯,我更希望您能冷静一点，你们已经没有机会了。,I would prefer if you calmed down first. You stand no chance.,"Я бы предпочел, чтобы вы сохранили хладнокровие, шансов у вас больше нет."
+line-1284,魏斯,你们跑不掉的。,You can't run.,Вам не убежать.
+line-1286,？？？,不，他们能。,"Actually, they can.","Нет, убегут."
+line-1288,魏斯,谁？,Who's there?,Кто?
+line-1291,,在屋檐下的阴影中，一条走廊的入口处，一个高大的男人矗立在墙角。,"A tall man stands in the corner at the entrance of a corridor, under the shadows of the eaves.","В тени под крышей, у входа в коридор, стоял высокий мужчина в углу стены."
+line-1292,,在他身后，几名本该执行包围命令的“山雪鬼”东倒西歪地躺在走廊中。,"Behind him, several Tschäggättä, who were supposed to have the perimeter secured, lie in the corridor.","Позади него, в коридоре, валялись без чувств несколько ""горных снежных духов"", которые должны были выполнять приказ об окружении."
+line-1296,,在讯使短暂的罗德岛工作经历中，他最为熟悉的罗德岛干员之一，慢慢地走出了阴影，站在了他的面前。,Out from the shadows strides one of the operators most familiar to Courier during the time he spent at Rhodes Island.,Один из самых знакомых операторов Rhodes Island по короткому периоду работы Курьера в Rhodes Island медленно вышел из тени и встал перед ним.
+line-1297,,而他很清楚这代表着什么。,He knows exactly what this means.,"И он прекрасно понимал, что это означает."
+line-1300,菈塔托丝,你是......什么人？,You... Who are you?,Ты...... кто такой?
+line-1302,阿克托斯,你们是......那个博士的......,You're... that Doctor's...,Вы...... те люди того Доктора......
+line-1304,菈塔托丝,......为什么救我们？,Why are you saving us?,......Почему спасаете нас?
+line-1306,Sharp,解释现状不是我的工作。,It's not my job to tell you things.,Объяснение текущей ситуации не входит в мои обязанности.
+line-1307,Sharp,门在那边，外面的人我已经解决了。,The exit is this way. I've already dealt with the guards outside.,"Дверь там, снаружи я всё решил."
+line-1308,Sharp,极光，带他们走。,"Aurora, escort them out.","Аврора, уводи их."
+line-1310,极光,好的！,Got it!,Хорошо!
+line-1312,“山雪鬼”,别想跑！,You aren't getting away!,"""Горные снежные духи"""
+line-1329,“山雪鬼”,呃......,Urgh...,Э......
+line-1339,Sharp,下一位，请。,Who's next? Try me.,"Следующий, пожалуйста."
+line-1342,魏斯,不要轻举妄动！列队！,Don't do anything rash! Get in formation!,Без глупостей! В строй!
+line-1344,“山雪鬼”,列队？对面就一个人！,Get in formation? Just for a single person?,В строй? Противник один!
+line-1347,魏斯,列队！！,GET IN FORMATION!!,В СТРОЙ!!
+line-1349,“山雪鬼”,......明白。,...Understood.,......Понял.
+line-1351,Sharp,很好。,Very good.,Хорошо.
+line-1355,魏斯,Sharp......队长。,Captain Sharp...,Шарп...... капитан.
+line-1356,魏斯,我很抱歉。,I'm so sorry.,Прошу прощения.
+line-1358,Sharp,不用向我道歉，这里并没有什么私人恩怨，讯使。,"There's no need to apologize to me, Courier. Nothing personal.","Не нужно извиняться, здесь нет никакой личной вражды, Курьер."
+line-1359,Sharp,这只是工作而已。,It's just business.,Это просто работа.
+line-1370,,十五分钟后,Fifteen minutes later...,Пятнадцать минут спустя
+line-1372,极光,队长！你......你受伤了？,Captain! You... You're injured?,Капитан! Вы...... вы ранены?
+line-1374,Sharp,人数有点多，讯使的刀还挺快。,"There were a lot of 'em, and Courier's blade is still pretty quick.","Численное преимущество, а у Курьера нож оказался довольно острым."
+line-1376,极光,队长......讯使他......,"Captain... Courier, he...",Капитан...... Курьер он......
+line-1378,Sharp,我留手了，放心。,"I spared him, don't worry.","Я сдерживался, не волнуйся."
+line-1380,极光,接下来怎么办？,"So, what's next?",Что дальше?
+line-1382,Sharp,这边的工作已经结束了。,We're all done with work over here.,Работа здесь окончена.
+line-1383,Sharp,去下一处。,On to the next job.,Идем на следующую точку.
+line-1395,角峰,大长老的状况如何？,How's the Great Elder doing?,Как состояние Великого старейшины?
+line-1397,蔓珠院医生,......不太妙。,It's not looking good.,......Не очень.
+line-1399,角峰,将大长老送回蔓珠院，恩希欧迪斯老爷会派专门的医生来治疗大长老。,Send the Great Elder back to the Vine-Bead Court. Sir Enciodes will arrange for a special doctor.,"Отправьте Великого старейшину в Манджуин, господин Энсиодис пришлет врачей для его лечения."
+line-1400,角峰,以及，圣女大人，恩希欧迪斯老爷请您返回蔓珠院，等待事情结束后，重新举办戴冠仪式。,"And, great Saintess, Sir Enciodes has invited you to return to the Vine-Bead Court and hold the coronation ceremony again after things have settled down.","И еще, леди Святая, господин Энсиодис просит вас вернуться в Манджуин и ожидать завершения событий, после чего церемония коронации будет проведена снова."
+line-1402,恩雅,......我知道了。,...I know.,......Я поняла.
+line-1411,,恩雅没有抵抗，她知道，此时此刻，她没有反抗的余地。,"Enya does not resist. She knows that right now, she does not have the leeway to resist.","Энья не сопротивлялась, она знала, что сейчас у неё нет выбора."
+line-1412,,从某个时刻开始，她已经意识到，眼前的这一切，都只不过是一场早已设计好的闹剧。,"From a certain point onward, she has known that this was all staged farce.","С определенного момента она осознала, что всё происходящее на глазах — лишь заранее продуманный фарс."
+line-1413,,而这场闹剧的始作俑者，正是自己的兄长。,And the one who set this farce in motion... was her very own brother.,А организатором этого фарса был её собственный брат.
+line-1414,,他无情地击碎了她为了这一刻所做的一切心理准备，以及对未来的愿景。,"He ruthlessly shattered all the mental preparations she made for this moment, as well as her vision for the future.","Он безжалостно разрушил всю её психологическую подготовку к этому моменту, а также видение будущего."
+line-1415,,即使她现在能将面前的人全都击倒，可民众依然会要求她，要求她在蔓珠院中接过那个恩希欧迪斯为她准备好的结果。,"Even if she could take down everyone standing in front of her right now, the people would still ask her to take the position that Enciodes prepared for her in the Vine-Bead Court.","Даже если бы она смогла одолеть всех присутствующих, горожане всё равно потребовали бы, чтобы она приняла тот результат, который подготовил для неё Энсиодис в Манджуин."
+line-1416,,她看向四周。,She looks all around her.,Она огляделась по сторонам.
+line-1417,,她看到了角峰注意到她的视线时，刻意地别开目光。,"When she sees Matterhorn take notice of her gaze, she deliberately looks away.","Она заметила, как Матерхорн, заметив её взгляд, намеренно отвел глаза."
+line-1418,,她看到穿着现代的战士撕开了希瓦艾什家战士的队列，将阿克托斯和菈塔托丝带走。,"She sees the combatants clad in modern, cutting-edge equipment tearing through the formation of Silverash warriors, escorting Arctosz and Ratatos away.","Она видела воинов в современной одежде, которые прорвали ряды воинов семьи СильверЭш, уводя Арктоса и Рататос."
+line-1419,,她看到了民众的视线都集中在了恩希欧迪斯身上，仿佛他就是这个舞台的主人。,"She sees the eyes of the people focused on Enciodes, like a rapt audience in front of a theater's master.","Она видела, как взгляды горожан были прикованы к Энсиодису, будто он был хозяином этой сцены."
+line-1420,,她看到了民众眼中的希望与狂热。,She sees the hope and fervor in their eyes.,Она видела надежду и фанатизм в глазах горожан.
+line-1421,,她看到了雅儿，也看到了站在雅儿身边的你。,"She sees Kjarr, and she sees the person standing next to her–you.","Она видела Яль, и видела тебя, стоявшего рядом с Яль."
+line-1422,,你们的视线相交，你从她的眼神中看到悲伤，不甘，以及——愤怒。,"Your eyes meet, and within them, you see sorrow, reluctance, and–– fury.","Ваши взгляды пересеклись, и в её глазах ты увидел печаль, досаду и—— гнев."
+line-1423,,一切的感情转瞬即逝。,All fleeting emotions.,Все чувства исчезли в одно мгновение.
+line-1424,,她终于移开目光，迈开脚步。,"She finally averts her eyes, and takes a step forward.","Наконец, она отвела взгляд и сделала шаг вперед."
+line-1434,希瓦艾什家战士,老爷！罗德岛的人忽然杀出来协助阿克托斯和菈塔托丝逃走了！,Master! Rhodes Islanders suddenly rushed in to help Arctosz and Ratatos escape!,Господин! Люди из Rhodes Island внезапно появились и помогли Арктосу и Рататос сбежать!
+line-1436,恩希欧迪斯,......,......,......
+line-1437,恩希欧迪斯,Dr.{@nickname}。,Dr. {@nickname}.,Доктор {@nickname}.
+line-1439,恩希欧迪斯,你总是让我......感到惊喜。,You... always keep me on my toes.,Вы всегда...... преподносите сюрпризы.
+line-1449,锏,我押送诺希斯这么点工夫就出意外了？,All this happened in the piddling amount of time it took me to suppress Gnosis?,"Неужели пока я уводил Нозиса, произошел такой инцидент?"
+line-1451,恩希欧迪斯,罗德岛的出手确实在我的意料之外，我考虑过他们的干预，但错误估计了他们的实力，这次，被暴力破坏计划的人是我。,"I must say, Rhodes Island's attack indeed surpassed my expectations. I did consider the possibility of them intervening, but underestimated their strength. This time, it is I whose plans have been forcefully disrupted.","Вмешательство Rhodes Island действительно было вне моих ожиданий, я рассматривал возможность их вмешательства, но неверно оценил их силу. В этот раз, это я тот, кому насилие сорвало планы."
+line-1453,锏,我去追？,Should I go after them?,Погнаться?
+line-1455,恩希欧迪斯,不必了，我也有后手安排。,There's no need. I still have a backup plan.,Необязательно.
+line-1456,恩希欧迪斯,况且，他们两人有没有死在这里，并不影响接下来要做的事。,"Moreover, whether or not those two die here has no bearing on what I'm going to do next.","К тому же, погибли они здесь или нет, это не влияет на то, что нужно делать дальше."
+line-1457,恩希欧迪斯,Dr.{@nickname}显然也是料到了这一点，才会出手。,"Dr. {@nickname} must've realized as much, to make a decision like this.","Доктор {@nickname} явно предвидел это, поэтому и вмешался."
+line-1459,恩希欧迪斯,你认为，他想做什么？,What do you think comes next?,"Как вы думаете, что он хочет сделать?"
+line-1461,锏,他如果不是一个冲动的傻子，无非是对这两人有所图谋。,"Assuming this Doctor isn't an impulsive fool, then these two still have a role to play.","Если он не импульсивный дурак, то не иначе как имеет виды на этих двоих."
+line-1462,锏,至于他想做什么......,As for what comes next...,"А что до того, что он хочет сделать......"
+line-1464,锏,既然你觉得他这么厉害，那么，他就是想借机控制这两个人背后的家族来和你扳手腕也不奇怪。,"Since you seem to hold this person in such high regard, then it isn't surprising to me that your Doctor would take advantage of this opportunity to manipulate the two clans into an obstacle for you.","Раз вы считаете его таким выдающимся, то неудивительно, что он хочет воспользоваться случаем, чтобы контролировать семьи, стоящие за ними, и потягаться с вами силами."
+line-1466,恩希欧迪斯,我不认为他会是这样一个张扬的野心家。,I do not take the Doctor for such a flamboyant daredevil.,"Не думаю, что он такой амбициозный позер."
+line-1468,锏,你还真是“了解”他。,You seem to really 'understand' this Doctor.,"Вы правда так хорошо его ""понимаете""."
+line-1470,恩希欧迪斯,这是直觉，作为棋手的直觉。,It's just my intuition. My intuition as a chessmaster.,"Это интуиция, интуиция игрока."
+line-1471,恩希欧迪斯,只不过，一个局外人，救下了佩尔罗契家和布朗陶家的家主......,"However, an outsider has rescued the heads of the Paleroche and Browntail clans...","Только вот, аутсайдер, спасший глав семей Пельрочи и Бронтау......"
+line-1472,恩希欧迪斯,即使是我，也想不出在这个局面下，他还能做到什么事。,Even I cannot fathom what one can achieve in this situation.,"Даже я не могу представить, что еще он может сделать в этой ситуации."
+line-1473,恩希欧迪斯,所以，我很好奇，他想要做什么。,"So, I am most curious as to what comes next.","Поэтому мне любопытно, чего он хочет добиться."
+line-1475,恩希欧迪斯,当然，如果真的如你所说，那么我会很期待和他的交手。,"Of course, if what you said is true, then I eagerly await our match.","Конечно, если действительно всё так, как вы говорите, то я с нетерпением буду ждать встречи с ним."
+line-1477,锏,就先这样吧，把这些思考稍微推迟一点，你是今天乱局中的胜利者。,Let's just call it a day and shove those thoughts back in your head. You're the victor of today's mess.,"Оставим это на потом, отложим размышления. Вы победитель в сегодняшнем хаосе."
+line-1478,锏,所有人都在等着胜利者的发言。,Everyone is waiting to hear from the victor.,Все ждут слов победителя.
+line-1480,恩希欧迪斯,我知道。,I know.,Я знаю.
+line-1489,,混乱留下的场面还没有得到收拾，人们激烈地讨论着刚才发生的一切。,"The scene left behind by the turmoil has not yet been cleaned up, and the people are heatedly discussing what just took place.","Последствия хаоса еще не были устранены, люди бурно обсуждали всё, что только что произошло."
+line-1490,,但随着恩希欧迪斯缓步走到中央，所有人都停下了正在进行的事，转而注视着恩希欧迪斯。,"But as Enciodes slowly makes his way to center stage, everyone stops what they are doing, and they all turn to look at him.","Но как только Энсиодис медленно подошел к центру, все замолчали, обратив свои взгляды на Энсиодиса."
+line-1491,,所有人都在等待着，他为这场闹剧画上一个句点。,The crowd is waiting for him to pen the denouement to this farce.,"Все ждали, когда он поставит точку в этом фарсе."
+line-1494,恩希欧迪斯,......,......,......
+line-1499,恩希欧迪斯,谢拉格的民众们，我很遗憾。,"People of Kjerag, I am so sorry.","Народ Кьелса, я глубоко сожалею."
+line-1501,恩希欧迪斯,在这样一个神圣的日子里，竟然发生了这样令人痛心疾首的事。,It pains my heart greatly to see such tragic events unfold on a holy day.,В такой священный день произошло такое душераздирающее событие.
+line-1502,恩希欧迪斯,但借着这个机会，我们也发现了谁才是谢拉格这片土地上真正的叛徒。,But this has given us an opportunity to see who the true traitors are in the land of Kjerag.,"Но благодаря этому случаю мы обнаружили, кто на самом деле является истинным предателем на земле Кьелса."
+line-1504,恩希欧迪斯,那就是阿克托斯与菈塔托丝！,They are none other than Arctosz and Ratatos!,Это Арктос и Рататос!
+line-1505,恩希欧迪斯,他们不满还政带来的变革，还妄图刺杀我并毒害大长老，以此来夺取整个谢拉格。,"They were dissatisfied by the changes brought about by my proposal to relinquish our powers, and tried to assassinate me and poison the Great Elder to seize control of all Kjerag.","Они были недовольны переменами, вызванными возвращением власти, и попытались убить меня и отравить Великого старейшину, чтобы захватить весь Кьелс."
+line-1506,恩希欧迪斯,这无疑是对耶拉冈德最大的亵渎。,"Without a doubt, there can be no greater blasphemy to Kjeragandr.","Это, без сомнения, величайшее кощунство по отношению к Йелаганд."
+line-1507,恩希欧迪斯,虽然刚才没有将他们就地正法，但这件事绝不会就此结束。,"Though they managed to escape justice just now, I swear that this matter shall not end here.","Хотя их не казнили на месте, на этом всё не закончится."
+line-1509,恩希欧迪斯,阿克托斯与菈塔托丝必将受到公正的审判！,"Arctosz and Ratatos will be given fair trial, without fail!",Арктос и Рататос обязательно предстанут перед справедливым судом!
+line-1514,,审判！审判！！审判！！！,Trial! Trial! Trial!!,Суд! Суд!! Суд!!!
+line-1519,恩希欧迪斯,但是，虽然我内心十分想要捉拿这两名叛徒，却无意于挑起争端。,"Though in my heart, I truly wanted to see these individuals captured and brought to justice, I had no intention of starting a conflict.","Но, хотя в душе я очень хочу поймать этих двух предателей, я не намерен разжигать конфликт."
+line-1520,恩希欧迪斯,谢拉格是耶拉冈德的谢拉格，是所有雪山之民的谢拉格，不是我的谢拉格。,"Kjerag is the land of Kjeragandr, the land of all who dwell in the icy mountains. It does not belong to me.","Кьелс — это Кьелс Йелаганд, Кьелс всего народа горных снегов, а не мой Кьелс."
+line-1522,恩希欧迪斯,因此，请佩尔罗契家与布朗陶家的领民安心，大家所担心的内战——不会发生。,"As such, let it be known to all people of the Paleroche and Browntail clans – there shall be no civil war, as that is something we all are worried about.","Поэтому прошу жителей Пельрочи и Бронтау успокоиться, гражданская война, которой вы опасались—— не произойдет."
+line-1523,恩希欧迪斯,接下来，我希瓦艾什家将只会派兵保护蔓珠院，等待大长老的苏醒，再与大长老和圣女共同商讨谢拉格的未来。,"Consequently, my Silverash warriors will only be deployed to protect the Vine-Bead Court. We will await the Great Elder's recovery, and then discuss Kjerag's future together with the Saintess.","Далее моя семья СильверЭш будет лишь охранять Манджуин в ожидании пробуждения Великого старейшины, а затем вместе с Великим старейшиной и Святой мы обсудим будущее Кьелса."
+line-1525,恩希欧迪斯,但我至少希望佩尔罗契家与布朗陶家的领民们能够认清谁才是谢拉格真正的敌人。,"But, I hope that the people of the Paleroche and Browntail clans can at least clearly see who the true enemies of Kjerag are.","Но я надеюсь, что народ Пельрочи и Бронтау сможет понять, кто на самом деле враг Кьелса."
+line-1526,恩希欧迪斯,我相信，当我们的目标一致时，我们一定能够找到一条更好的道路。,I believe that we will surely find a better path forward when all our interests are aligned.,"Я верю, что когда наши цели едины, мы обязательно сможем найти более верный путь."
+line-1528,恩希欧迪斯,届时，我们一定能够迎来一个更好的谢拉格。,"When that time comes, we will be able to usher in a better Kjerag.",И тогда мы обязательно придем к лучшему Кьелсу.
+line-1534,,恩希欧迪斯！恩希欧迪斯！！恩希欧迪斯！！！,Enciodes! Enciodes! Enciodes!!!,Энсиодис! Энсиодис!! Энсиодис!!!
+line-1535,,希瓦艾什！希瓦艾什！！希瓦艾什！！！,Silverash! Silverash! Silverash!!!,СильверЭш! СильверЭш!! СильверЭш!!!
+line-1536,,人们开始高呼恩希欧迪斯的名字，没有人再关心，这本该是为还政于圣女准备的庆典。,"People start to chant Enciodes's name, with no concern for the fact that this celebration was meant to culminate in the Saintess's return to power.","Люди начали скандировать имя Энсиодиса, никто уже не заботился о том, что это должен был быть праздник передачи власти Святой."
+line-1537,,山巅之上，蔓珠院的方向，传来了悠扬的钟声。,From the mountain's summit and the direction of the Vine-Bead Court comes the melodious ringing of a bell.,"С вершины горы, со стороны Манджуин, раздался мелодичный звон колоколов."
+line-1538,,“咚”“咚”“咚——”,"Ding, ding, ding––","""Дон"" ""Дон"" ""Дон——"""
+line-1545,,钟声本应庆贺圣女的戴冠，如今，它却似乎在预示一场变革的到来。,"The bell was supposed to celebrate the coronation of the Saintess, but now, it seems to herald a coming revolution.","Колокольный звон должен был ознаменовать коронацию Святой, а теперь он, казалось, предвещал приход больших перемен."
