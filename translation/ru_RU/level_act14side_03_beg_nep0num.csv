@@ -1,0 +1,160 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act14side
+__chapter__,,Chapter Name,activities/act14side/level_act14side_03_beg,人心难测
+,,,,
+char-1,Sharp,Sharp,Sharp,Шарп
+char-2,极光,极光,Aurora,Аврора
+char-3,切斯特,切斯特,Chester,Честер
+char-4,瓦莱丝,瓦莱丝,Valais,Валиса
+char-5,武装的领民,武装的领民,Armed Subject,Вооруженный горожанин
+char-6,大长老,大长老,Great Elder,Великий старейшина
+char-7,卫兵,卫兵,Bodyguard,Охранник
+char-8,战士领袖,战士领袖,Soldier Leader,Лидер воинов
+,,,,
+line-12,Sharp,汇报情况。,Status report.,Доложи обстановку.
+line-14,极光,情况不太对，博士猜得没错，这边聚集了很多人。,Things aren't quite right. The Doctor's guess was a hit; a lot of people are gathered over here.,"Что-то не так. Доктор был прав, здесь собралось много людей."
+line-16,Sharp,他们是向着工厂那边进发的？,Are they setting out for the factories?,Они направляются к фабрике?
+line-18,极光,是......我确定。,Yes... I'm sure of it.,Да... я уверена.
+line-20,Sharp,想办法跟上，随时报告。,Stay on their tails. Keep me informed.,"Постарайся проследить за ними, докладывай в любое время."
+line-22,极光,收到。,Roger.,Принято.
+line-34,切斯特,那么这所工厂的交接也完成了。,And that'll conclude this factory's handover.,"Итак, передача этой фабрики завершена."
+line-36,切斯特,目前为止都进行得很顺利，多亏了博士您的调停。,"Everything up till now has been as smooth as ice, thanks to your mediation, Doctor.","Пока что всё проходит гладко, благодаря вашему посредничеству, Доктор."
+line-38,切斯特,之前可能有点怠慢了，真是不好意思。,I might have been a little neglectful beforehand. I'm very sorry for that.,"Прошу прощения, если раньше мы уделили вам недостаточно внимания."
+line-41,,别在意，我只是个学者。,"Don't mind it, I'm just a scholar.","Не берите в голову, я всего лишь учёный."
+line-44,切斯特,哎呀，您可别这么谦虚，以后还有很多事情需要请教您。,"My, no need to be so humble. There's plenty still to come that'll require your guidance.","Ой, ну что вы, не будьте таким скромным. В будущем нам ещё не раз понадобится ваш совет."
+line-46,瓦莱丝,且慢。,One moment.,Погодите.
+line-48,切斯特,呃，瓦莱丝将军是对此有什么疑问吗？,"Er, do you have some qualm about this, General Valais?","Э-э, генерал Валиса, у вас возникли какие-то вопросы?"
+line-51,瓦莱丝,有埋伏。,An ambush.,Засада.
+line-59,武装的领民,不愧是瓦莱丝将军。,That's General Valais for you.,Как и ожидалось от генерала Валисы.
+line-61,瓦莱丝,什么人？,Who are you?,Кто вы такие?
+line-63,武装的领民,来讨说法的人。,We're here to get an explanation.,Пришли потребовать ответов.
+line-65,切斯特,诸位，魏斯和博士方才应该已经向领民代表们传达过喀兰贸易的措施了。,Weiss and the Doctor should have just conveyed to the subjects' representatives the steps Karlan Trade's taking.,"Господа, Вэйсс и Доктор только что должны были донести до представителей жителей меры, принятые Kjerag Trade."
+line-67,切斯特,我想，其中一定是有什么误会......,There must have been some misunderstanding...,"Думаю, здесь наверняка какое-то недоразумение..."
+line-69,武装的领民,误会？,Misunderstanding?,Недоразумение?
+line-71,武装的领民,切斯特先生，你恐怕还不明白。,"Sorry, Mr. Chester, I think you don't get it.","Мистер Честер, боюсь, вы просто ничего не понимаете."
+line-73,武装的领民,恩希欧迪斯老爷被这个外国人骗了！,Sir Enciodes was tricked by this foreigner!,Господина Энсиодиса обманул этот иностранец!
+line-76,,你说什么？,Come again?,Что вы сказали?
+line-79,武装的领民,我们原先也都被蒙在鼓里，直到有人告诉了我们才明白过来。,We were all kept in the dark. We only realized what was happening once someone told us.,"Мы сами были в неведении, пока нам не открыли глаза."
+line-81,武装的领民,切斯特先生应该知道，原本这个外国人来谢拉格的名头，是要担任矿石病和感染者处理方式的顾问。,"Mr. Chester, you should know this foreigner's 'original' purpose in Kjerag was to advise on Oripathy and Infected handling methods.","Мистер Честер должен знать, что этот иностранец прибыл в Кьерэг под видом консультанта по вопросам орипатии и обращения с зараженными."
+line-83,瓦莱丝,你什么意思？,What's your point?,Что ты имеешь в виду?
+line-85,切斯特,......,......,......
+line-87,武装的领民,线人的情报不会错的。,Our informant is never wrong.,Информация от нашего информатора точна.
+line-89,武装的领民,这个外国人已经和阿克托斯达成了合作，而瓦莱丝将军则是负责监视他的人。,"This foreigner's already in cahoots with Arctosz, and it's your job to keep eyes on the 'guest', General Valais.","Этот иностранец уже вступил в сговор с Актосом, а генерал Валиса отвечает за слежку за ним."
+line-91,武装的领民,谁不知道，蔓珠院和阿克托斯早已不满恩希欧迪斯老爷对谢拉格的开拓。,Everyone knows Arctosz and the Vine-Bead Court were never happy with how Sir Enciodes opened up Kjerag.,"Кому не известно, что Манджу и Актос уже давно недовольны тем, как господин Энсиодис развивает Кьерэг?"
+line-93,武装的领民,这个外国人，会以工厂会传播矿石病为理由，大量提供对老爷不利的证据，永久关闭工厂！,The foreigner's going to say the factories spread Oripathy as an excuse to shut them forever with gross slander against the lord!,"Этот иностранец использует фабрику как предлог для распространения орипатии, предоставит кучу доказательств против господина и добьется закрытия фабрики навсегда!"
+line-96,瓦莱丝,这是污蔑！佩尔罗契家何曾做过这等见不得光的事！,You're the one speaking slander! The Paleroches would never stoop to such unsightly lows!,Это клевета! Когда семья Пелрочи занималась подобными темными делами?
+line-98,武装的领民,佩尔罗契家与蔓珠院互相勾结，见不得光的事和牺牲的人还少吗？！,The Paleroches and the Vine-Bead Court are all tied up! You don't think anything 'unsightly?' You don't think enough people have lost their lives?!,"Семья Пелрочи и Манджу сговорились, мало ли было жертв и грязных дел?!"
+line-100,瓦莱丝,......,......,......
+line-108,瓦莱丝,父亲，父亲！你还好吗？,"Father, Father! Are you alright?","Отец, отец! Ты в порядке?"
+line-110,大长老,来，喝了它吧，喝下去就好了。,"Come, drink it. Drink and all will be better.","Давай, выпей это, выпьешь и станет легче."
+line-112,大长老,耶拉冈德的眼泪会洗净山雪鬼留下的邪毒。,Kjeragandr's tears will cleanse this taint the Tschäggättä have left.,"Слезы Йелаганда смоют злой яд, оставленный горными снежными духами."
+line-120,瓦莱丝,......你有什么证据！,What proof do you have?!,......У тебя есть какие-нибудь доказательства!
+line-122,武装的领民,我呸，你们自己干的破事，还要来问我？,Pah! You're asking me to prove your own misdeeds?,"Тьфу, вы сами наворотили дел, а теперь меня спрашиваете?"
+line-124,切斯特,博士，这......,"Doctor, this...","Доктор, это..."
+line-127,,不是真的。;......;你觉得呢？,Isn't true.;......;What do you think?,Это неправда. ... А ты как думаешь?
+line-130,切斯特,......我可以相信吗？,Can I trust you?,......Могу ли я верить?
+line-133,武装的领民,怎么，说不出话了？,"What, hound got your tongue?","Что, язык проглотил?"
+line-136,武装的领民,少在这里油嘴滑舌的！,Don't think you can smooth-talk your way out of this!,Хватит здесь заговаривать зубы!
+line-140,武装的领民,不必多说了，我要你给我们一个交代！,There's only one thing you need to say! Justify yourself to us!,"Больше не о чем говорить, я жду от тебя ответа!"
+line-151,瓦莱丝,卫兵！保护客人！把他们拿下！,Guards! Protect our guest! Take them away!,Стража! Защитить гостя! Взять их!
+line-153,武装的领民,先抓住那个外国人！,Get that foreigner now!,Сначала схватить иностранца!
+line-174,武装的领民,你、你从哪儿冒出来的！,Wh-Where did you come from?!,"Откуда, черт возьми, ты взялся!"
+line-177,Sharp,这里不安全！,It's not safe here!,Здесь небезопасно!
+line-179,极光,该跑了博士！,"Time to run, Doctor!","Пора уходить, Доктор!"
+line-185,,乌萨斯干员将你扛在了肩膀上，大步向树林里冲去。,"The Ursus operator lifts you onto her shoulders, and leaps into the forest in giant bounds.",Оперативник Урсуса закинула вас на плечо и бросилась вглубь леса.
+line-193,,啊，不用跑了，放我下来吧。,"Um, you can stop running. Let's put me down.","А, можно больше не бежать, опусти меня."
+line-196,极光,啊！好的。,Oh! Alright.,А! Хорошо.
+line-198,Sharp,唉......,*Pant*...,Ха...
+line-200,Sharp,我必须跟你重申一下，博士。,"I need to reiterate, Doctor.","Я должен напомнить вам, Доктор."
+line-202,Sharp,不管你有什么样的计划，这都太冒险了。这话你可能不记得了，但我以前就跟你说过很多很多次。,"No matter what plans you have, this is far too dangerous. You probably don't remember, but I've told you the same thing many, many times before.","Какой бы план у вас ни был, это слишком рискованно. Вы можете этого не помнить, но я уже говорил вам это много-много раз."
+line-205,,我还是很相信你的。,"Believe me, I believe you.",Я всё ещё доверяю тебе.
+line-208,Sharp,任何人都会失手，就算是我也一样。如果可以的话我希望你能降低我的工作难度。,"Anyone can make mistakes, even me. If you're willing, I hope you can make my work a bit easier on me.","Каждый может совершить ошибку, даже я. Если можно, я бы предпочел, чтобы вы облегчили мою работу."
+line-210,Sharp,虽然可能性不高，但是万一那些袭击者中混入了更加专业的战斗人员怎么办？,"The possibility's not high, but what would you have done if more professional combatants were snuck into that attack?","Пусть вероятность невелика, но что если среди нападавших окажутся более профессиональные бойцы?"
+line-212,Sharp,如果他们带了弩箭，又怎么办？,"If they brought crossbows, what then?",А если у них будут арбалеты?
+line-215,,别担心，他们的目的不在于杀我。,"Don't worry, their goal isn't to kill me.","Не волнуйся, их цель — не убить меня."
+line-218,极光,我向博士汇报一下情况。,I'll report the situation to the Doctor.,"Позвольте мне доложить ситуацию, Доктор."
+line-220,极光,Sharp队长与我各自遵照博士托人带来的口信，分别去布朗陶家的宅邸和希瓦艾什家的工厂追踪可疑人员。,"Captain Sharp and I both followed your confidant's message, heading separately to the Browntails' residence and the Silverashes' factories to pursue suspicious personnel.","Мы с капитаном Шарпом, следуя вашим сообщениям, отправились проверять особняк Броунтаун и фабрику Силверэш соответственно, чтобы выследить подозрительных лиц."
+line-222,极光,结果我们的线索最后竟然连到了一起......,"Our trails ended up converging into one, surprisingly enough...",В итоге наши ниточки сошлись в одну...
+line-224,极光,这些人很可能是被布朗陶家煽动的。,These people were very likely incited by the Browntails.,"Очень вероятно, что этих людей подстрекнула семья Броунтаун."
+line-226,极光,煽动普通人，败坏对手的名声，很常见的计谋，但是很粗糙。,"Agitating civilians and smearing the competition are both common schemes, but they're crude.","Натравливать простых людей, портить репутацию соперника — довольно распространенный трюк, но выполненный очень грубо."
+line-229,,看似为了挑起我与希瓦艾什家的矛盾。;看似为了挑起佩尔罗契家与希瓦艾什家的矛盾。,Seems it's to stir conflict between me and the Silverashes.;Seems it's to stir conflict between the Paleroches and Silverashes.,"Кажется, это чтобы спровоцировать конфликт между мной и Силверэшами. / Кажется, это чтобы спровоцировать конфликт между семьей Пелрочи и Силверэшами."
+line-231,,但也可能是个陷阱。,But it's also probably a trap.,Но это также может быть ловушкой.
+line-234,极光,博士的意思是......？,What do you mean...?,"Вы имеете в виду, что...?"
+line-236,Sharp,这些人的装备和战力都不怎么样，甚至不足以全身而退。,Their equipment and combat strength aren't up to par. It's not even enough to get them out in one piece.,"Их экипировка и боевая мощь оставляют желать лучшего, они даже не способны отступить без потерь."
+line-238,Sharp,一旦他们被捕再经审问，供出他们获取消息的来源......,"Suppose they were arrested and interrogated, and they gave up their source...","Как только их схватят и допросят, они сдадут источник информации..."
+line-241,极光,可能反而会对布朗陶家不利？！,Then it would look bad for the Browntails?!,Это может обернуться против семьи Броунтаун?!
+line-244,,也不尽然。,That's not the whole of it.,Не обязательно.
+line-247,Sharp,我们的情报不足，尚不能见事件的全貌，无法真正锁定幕后的主使与其目的。,We're lacking intel. We still can't see the full picture of this incident. No way to actually lock onto the hidden orchestrator or their goals.,"Нам не хватает разведданных, мы не видим всей картины и не можем достоверно выявить организаторов и их цели."
+line-249,Sharp,现在唯一能确定的是有人想挑拨三家间的关系，换言之就是要破坏雪境的整体稳定，形势对作为外人的博士你来说非常危险。,"The one thing we can be sure of is someone wants to disturb the tri-clan relations. That is to say, they want to shatter the Snow Realm's overall stability. Circumstances are exceptionally dangerous for outsiders like you, Doctor.","Сейчас можно лишь подтвердить, что кто-то хочет посеять раздор между тремя домами, то есть дестабилизировать обстановку в Сноуфилде. Другими словами, для вас, как для чужака, ситуация крайне опасна."
+line-251,极光,现在怎么办，博士，我们是不是应该先想办法回去？,"What do we do now, Doctor? Should we think of some way to make it back first?","Что будем делать, Доктор? Нам стоит попытаться вернуться?"
+line-254,,还不是时候，这件事远没有结束。,It's not time yet. This incident's far from over.,"Еще не время, всё далеко не закончено."
+line-257,Sharp,是的，这场闹剧只是巨大风暴的一小部分。但我的职责很清晰，我得带你离开最危险的事件中心，博士。,"That's right, this charade's just one small part of the giant storm. But my duty's clear-cut—I'm getting you out of danger, Doctor.","Да, этот фарс — лишь малая часть огромного шторма. Но мои обязанности ясны: я должен вывести вас из центра самых опасных событий, Доктор."
+line-260,,我要收集更多的情报。;我要避免那些人被捕。;我要阻止幕后黑手挑起三家间的不和。,I'm going to get more info.;I'm going to evade capture.;I'm going to stop whoever's stirring up the clans.,"Я хочу собрать больше информации. / Я хочу помешать им быть арестованными. / Я хочу остановить кукловодов, разжигающих вражду между тремя домами."
+line-263,Sharp,知道得越多，处境就越危险，我们可能没有时间来确保所有细节，博士。,"The more you know, the more dangerous your situation. We likely won't have the time to ensure all the details, Doctor.","Чем больше мы знаем, тем опаснее наше положение. У нас может не хватить времени, чтобы проверить каждую деталь, Доктор."
+line-266,Sharp,这恐怕还只是个开始，博士。,"That might just be the start of it, Doctor.","Боюсь, это только начало, Доктор."
+line-269,Sharp,我必须提醒您，博士，这也许早已超越了您来此的初衷。,"I have to remind you, Doctor, this may have long grown beyond your plans.","Я должен напомнить вам, что это уже может выходить за рамки изначальной цели вашего визита, Доктор."
+line-272,Sharp,既然您这么判断，而且看起来十分有把握......那我也不会阻拦您。,"But since you're so determined, and seeing as you have a good grasp on things... we won't stop you.","Раз вы так решили и, похоже, полностью уверены в себе... я не стану вас останавливать."
+line-274,Sharp,事已至此，讯使和角峰，尤其还有崖心，考虑到他们都是希瓦艾什家的人，您打算告诉他们吗？,"At this point, do you plan on telling Courier and Matterhorn, and especially Cliffheart, considering they're all Silverashes?","Теперь, когда всё так сложилось, планируете ли вы рассказать об этом Matterhorn и Courier, особенно Cliffheart, учитывая, что они все связаны с семьей Силверэш?"
+line-277,,不。;......;由你判断。,No.;......;Up to you.,Нет. / ... / Решай сам.
+line-280,Sharp,我也这么想。虽然对崖心不太好意思，但事到如今，要我完全相信讯使和角峰，很难。,"Agreed. I'm sorry to Cliffheart, but now that we're here, it's hard for me to fully trust Courier and Matterhorn.","Я того же мнения. Хотя мне немного неловко перед Cliffheart, но сейчас мне крайне трудно полностью доверять Courier и Matterhorn."
+line-283,Sharp,博士，我知道您想要相信他们，但是崖心先不论，在现在的三大家族纷争中，讯使和角峰二人，我是无论如何都会对他们有所提防的。,"Doctor, I know you want to trust them, but set aside Cliffheart for now—it's hard for me not to be wary of Courier and Matterhorn in this current tri-clan dispute, no matter what.","Доктор, я знаю, что вы хотите им доверять, но, если не считать Cliffheart, в нынешней грызне между тремя домами я в любом случае буду проявлять осторожность по отношению к Courier и Matterhorn."
+line-286,Sharp,那么我会选择对他们隐瞒一部分的实情。,Then I choose to keep part of the truth hidden from them.,"Значит, я решу утаить от них часть правды."
+line-290,,现在，先送我回去。,"For now, take me back.",Теперь возвращаемся.
+line-303,瓦莱丝,还有其他人吗？,Is there anyone else?,Есть еще кто?
+line-305,卫兵,没有了，所有人都被控制住了。,"None, they've all been suppressed.","Никого, все нейтрализованы."
+line-307,瓦莱丝,那位博士呢？人呢？,Then what about the Doctor? Whereabouts?,А что насчет того Доктора? Где он?
+line-309,卫兵,......我们看到他被人带走，跑到林子里去了。,"We... saw someone taking the Doctor away, running into the forest.","......Мы видели, как его кто-то унес в лес."
+line-312,瓦莱丝,......坏了！,Damn...!,......Беда!
+line-314,瓦莱丝,你们几个和我来，他可不能出事！,"You lot, with me! There'd better not be a single scratch on—","За мной, он не должен пострадать!"
+line-318,,您在找我？,Is it me you're looking for?,Ищете меня?
+line-321,瓦莱丝,！！,!!,!!
+line-324,切斯特,啊，您居然......我以为您......,Ah! So you're... I thought you...,"А, вы居然... я думал, вы..."
+line-327,,以为我跑了？,You thought I ran?,"Думали, я сбежал?"
+line-330,瓦莱丝,......刚才情况紧急，我没有注意到您，还请您恕罪。,"That was a difficult situation there, and I lost sight of you. I hope you can forgive me.","......Ситуация была критическая, я упустила вас из виду, прошу прощения."
+line-332,瓦莱丝,让您看笑话了，本来应该是优先保护您的安全。,"I made a mockery of myself, when I should by all rights have prioritized your safety.","Заставила вас видеть этот беспорядок, хотя должна была обеспечить вашу безопасность."
+line-334,瓦莱丝,如您所见......这些人，都被控制住了。,As you can see... the people here have all been contained.,Как видите... они все под контролем.
+line-336,瓦莱丝,别动，老实点！,Don't move! Settle down!,"Не двигаться, вести себя смирно!"
+line-338,武装的领民,你别以为我们不知道！你就是专门来诬陷恩希欧迪斯老爷的。,Don't think we don't know! You're here just to frame Sir Enciodes.,"Не думай, что мы не знаем! Ты пришел сюда специально, чтобы подставить господина Энсиодиса."
+line-340,武装的领民,你这个道貌岸然的伪君子！我呸！,You self-righteous hypocrite! Pah!,Ты лицемерный подлец! Тьфу!
+line-342,极光,......,......,......
+line-344,极光,......哥？,...Bro?,......Брат?
+line-346,Sharp,......？,......?,......?
+line-348,武装的领民,洛拉？你怎么在这里？,Lara? Why are you here?,Лола? Ты что тут делаешь?
+line-350,极光,哥！你在干什么啊！,Bro! What are you doing?!,Брат! Что ты делаешь!
+line-352,武装的领民,你、你怎么跟这个人混在一起？,Wh—Why are you all mixed up with these people?,"Ты, почему ты связалась с этим человеком?"
+line-354,极光,他是我的上司！,That's my boss!,Он мой начальник!
+line-356,Sharp,别说了，现在不是时候。,Leave it. Now's not the time.,"Хватит, сейчас неподходящее время."
+line-358,极光,......明白，队长。,"Understood, Captain.","......Поняла, капитан."
+line-361,,实话实说，喀兰贸易的工厂安全防护方面是有点问题。,"To be honest, I have nitpicks with Karlan Trade's factory safety measures.","Честно говоря, с безопасностью на фабрике Kjerag Trade не всё гладко."
+line-364,瓦莱丝,什么？,What?,Что?
+line-367,,排放废气的管线距离施工区位置太近了，布局不合理。;发放给工人的防护设备覆盖率还不够。;源石矿物的输送渠道不够安全。,The exhaust pipes are too close to the construction area. The layout's pure nonsense.;The protective gear given to workers is too low-coverage.;The Originium transport channels aren't secure enough.,"Трубопровод для отвода выхлопных газов слишком близко к зоне строительства, компоновка нерациональна. / Защитное оборудование для рабочих предоставляется недостаточно массово. / Транспортировка оритовых минералов небезопасна."
+line-370,切斯特,......这，您给恩希欧迪斯老爷讲过这件事吗？,Have... you told Sir Enciodes about that?,......Вы говорили об этом господину Энсиодису?
+line-373,武装的领民,你！你！你果然是个混账东西。,You! You! You're a nasty piece of work after all.,Ты! Ты! Ты действительно конченый негодяй.
+line-376,,这都是实话。,It's the truth.,Это всё правда.
+line-379,瓦莱丝,......我也不懂这个，没办法判断你说的是不是真的。,"I don't quite understand, so I have no way to judge if what you say is true.","......Я в этом не разбираюсь, не могу судить, правда ли это."
+line-381,瓦莱丝,但是听起来好像是有点道理。,But it sounds at least somewhat reasonable.,Но звучит довольно разумно.
+line-383,武装的领民,我怎么会相信你的鬼话！你！你......,I'll never believe your vile lies! You! You...,Как я мог поверить в твой бред! Ты! Ты...
+line-386,瓦莱丝,给我老实点！你们在蔓珠院的领地中袭击外地贵客，有没有想过接下来要面对什么样的惩罚？,I want you to behave or else! Have you given a thought to the sort of punishment you'll face for attacking an outside guest of honor in the Vine-Bead Court's territory?,"Смирно! Вы напали на иностранных гостей на территории Манджу, вы хоть думали, какое наказание вас ждет?"
+line-388,武装的领民,......,......,......
+line-390,武装的领民,只要是为了恩希欧迪斯老爷......,So long as it's for Sir Enciodes...,Всё ради господина Энсиодиса...
+line-392,极光,希瓦艾什家的贵客被希瓦艾什家的领民袭击，这难道不是在抹黑希瓦艾什家的声誉？,The Silverashes' guest attacked by the Silverashes' subjects? Is there any way this won't smear the Silverash reputation?,"Гость Силверэшей подвергся нападению жителей Силверэшей, разве это не позорит репутацию семьи Силверэш?"
+line-394,极光,这就是你们“报答恩希欧迪斯老爷”的方式？,Is this how you 'repay Sir Enciodes?',Это ваш способ «отплатить господину Энсиодису»?
+line-396,武装的领民,......这......,...That...,......Это...
+line-398,极光,你们好好想想！,Think about it!,Подумайте сами!
+line-400,极光,哥，你以前明明是个很冷静的人，为什么？,"Bro, you used to be so cool-headed. What happened?","Брат, ты же всегда был очень рассудительным, почему?"
+line-402,武装的领民,......算了，跟你讲不明白。,...Forget it. You wouldn't understand if I told you.,"......Забей, всё равно не поймешь."
+line-405,,瓦莱丝将军，放了这些人吧？,General Valais. Let these people go.,"Генерал Валиса, отпустите их, пожалуйста?"
+line-408,瓦莱丝,......什么？,What?,......Что?
+line-411,,如您所见，这里有我下属的亲戚。;这都是误会，不要扩大误会了。;就当作是各位刚才工作失误的补偿吧。,"As you see, my subordinate has a relative here.;This is a misunderstanding. Don't make it any bigger.;Consider it compensation for your mistake there.","Как видите, здесь родственники моего подчиненного. / Это всё недоразумение, не стоит усугублять ситуацию. / Считайте это компенсацией за их небольшую оплошность в работе."
+line-414,极光,瓦莱丝将军，还请您高抬贵手......,"General Valais, please be kind...","Генерал Валиса, прошу вас, будьте милосердны..."
+line-416,瓦莱丝,......唉。,*Sigh*...,......Эх.
+line-419,瓦莱丝,真的只是误会吗？我看未必。,Is that really all it is? I'm not convinced.,Неужели это просто недоразумение? Сомневаюсь.
+line-421,瓦莱丝,......唉，算了。,"*Sigh*... You know what, forget it.","......Эх, ладно."
+line-424,瓦莱丝,......这样就可以了吗？,...Are you sure this settles it?,......Так сойдет?
+line-427,瓦莱丝,你们几个听好了，若不是这位大人宽宏大量，你们今天免不了一顿杖责！好好反思自己的作为！,"Listen up, all of you. If it wasn't for our guest's altruism, you'd all be in for a caning before the day is out! Reflect on your actions!","Слушайте сюда, если бы не великодушие этого господина, сегодня вам не избежать порки! Подумайте над своим поведением!"
+line-429,武装的领民,你不要以为这样就能收买人心！你这种......,Don't think you'll buy us off just like that! You rotten...,"Не думай, что этим ты купишь наши души! Ты, такой..."
+line-431,战士领袖,算了算了，我们走吧，不要再给希瓦艾什家丢人现眼了。,"Leave it, leave it. We're out of here. Don't disgrace the Silverashes any more than that.","Забудь, забудь, уходим, не будем больше позорить семью Силверэш."
+line-436,,愤怒的领民带着失望与鄙夷的表情逐渐离去，当下最尖刻的冲突似乎已经化解。,"The furious subjects slowly leave, wearing expressions of disappointment and spite as they go. The most vitriolic clash, for the moment, has been defused.","Разочарованные и презрительные горожане начали расходиться, острая фаза конфликта, похоже, миновала."
+line-437,,暴风雪正在聚集，你很清楚这一点。,"A heavy blizzard is gathering at this moment, of that much you're sure.","Метель усиливается, вы прекрасно это осознаете."
