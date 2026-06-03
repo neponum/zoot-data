@@ -1,0 +1,341 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act15side
+__chapter__,,Chapter Name,activities/act15side/level_act15side_st03,再弈
+,,,,
+char-1,令,令,Ling,Лин
+char-2,克洛丝,克洛丝,Kroos,Кросс
+char-3,老鲤,老鲤,Lee,Старина Ли
+char-4,惊蛰,惊蛰,Leizi,Цзинчжэ
+char-5,宁小姐,宁小姐,Miss Ning,Госпожа Нин
+char-6,左乐,左乐,Zuo Le,Цзо Лэ
+char-7,太合,太合,Taihe,Тайхэ
+char-8,梁洵,梁洵,Liang Xun,Лян Сюнь
+char-9,？？？,？？？,???,???
+char-10,太傅,太傅,Grand Tutor,Великий наставник
+char-11,年,年,Nian,Нянь
+char-12,夕,夕,Dusk,Си
+char-13,夜半,夜半,Blacknight,Ебань
+char-14,桑葚,桑葚,Mulberry,Санжен
+char-15,杯中的声音,杯中的声音,Voice in the Cup,Голос из кубка
+char-16,挑山人,挑山人,Pole-Carrier,Носильщик
+char-17,郑掌柜,郑掌柜,Innkeeper Zheng,Управляющий Чжэн
+char-18,杜小姐,杜小姐,Miss Du,Госпожа Ду
+,,,,
+line-11,令,罗德岛之后有什么打算？,What of Rhodes Island's plans after this?,Каковы твои планы после Родос?
+line-13,克洛丝,啊......欸......嗯？我有做过自我介绍吗？,Uh... er... huh? Did I ever introduce myself?,"А... э... м? Я что, не представлялась?"
+line-15,令,你又是什么打算？,"What of your plans, even?",А каковы твои планы?
+line-17,老鲤,我总算了了这桩事，当然是回去问那个高高挂起的梁大人......好好算算账。,"I've been planning to get this all behind me, go back and ask that aloof Mr. Liang... to pay my bills well.","Я наконец закончил с этим делом, так что, конечно, вернусь к господину Ляну, который сидит так высоко... и сведу с ним счеты."
+line-19,令,嗯。,Mm.,М.
+line-20,令,也许他说得对，你和我们的缘分，还不止于此。,Perhaps he was right. You and we are not solely together brought for this.,"Возможно, он прав, и твоя связь с нами на этом не заканчивается."
+line-22,令,只是......,Only...,Только вот...
+line-24,克洛丝,惊蛰小姐是怎么......,"Leizi, how'd you...",Как госпожа Цзинчжэ узнала...
+line-26,惊蛰,......偶然从师兄弟口中得知灰齐山的事情，立刻赶到了尚蜀。,"I happened to learn from fellow disciples about the Mount Hui-ch'i business, and immediately rushed for Shangshu.",...Случайно услышала от учеников о горе Хуэйци и немедленно бросилась в Шаншу.
+line-27,惊蛰,虽然来迟一步，但不算为时已晚。,"I might've been a little late, but not too late after all.","Хоть я и опоздала, но не так уж безнадежно."
+line-29,克洛丝,......好吧。,"That's good, then.",...Ладно.
+line-31,老鲤,令小姐。,Miss Ling.,Госпожа Лин.
+line-33,令,嗯？,Hm?,М?
+line-35,老鲤,我有一个问题。,I have a question.,У меня есть вопрос.
+line-36,老鲤,你们这样的存在，是怎么分辨......呃，长幼的？,"How do beings like you determine... er, who's older and younger?","Как такие существа, как вы, различают... э-э, старшинство?"
+line-38,令,......长幼之分啊。,"Ah, establishing the pecking order.","...Различие в старшинстве, говоришь."
+line-39,令,在一片混沌鸿蒙之中，谁最先找到那个答案，谁就能先立于人间。,"Within a sea of chaos, whoever first finds that answer, first exists upon the human realm.","Посреди хаоса и пустоты тот, кто первым найдет ответ, первым и войдет в мир людей."
+line-41,老鲤,什么答案？,What answer's that?,Какой ответ?
+line-43,令,一个简单到不行的问题......,One to a question incredibly simple...,"Вопрос настолько простой, что проще некуда..."
+line-45,令,......“我是谁”。,...'Who am I.',...«Кто я».
+line-56,宁小姐,......太合先生，左乐先生。幸会。,"Mr. Taihe, Mr. Zuo Le. It's good to meet you.","...Господин Тайхэ, господин Цзо Лэ. Рада встрече."
+line-58,左乐,宁小姐，幸会。,Miss Ning. Good to meet you.,"Госпожа Нин, рад встрече."
+line-60,太合,见过宁侍郎。,"Assistant Minister Ning, my pleasure.",Приветствую заместителя министра Нин.
+line-62,梁洵,......,......,......
+line-64,宁小姐,尚蜀之行，未能礼待，失了礼数。,'Tis unbecoming of my etiquette that I could not offer you hospitality for your time in Shangshu.,Моя поездка в Шаншу была омрачена недостатком должного гостеприимства и учтивости.
+line-66,左乐,不请自来，多有打扰，冒犯在先。,We came uninvited and troubled you greatly. We should be first to apologize.,"Я пришел без приглашения, доставив немало хлопот, и первым переступил границы дозволенного."
+line-68,宁小姐,左公子是承父命而来，代表司岁台处理酒盏与灰齐山两案，雷厉风行。,"You came on your father's orders, handling the goblet and Mount Hui-ch'i incidents in the Sui Regulator's name. 'Twas swift, fierce action.","Молодой господин Цзо прибыл по поручению отца, представляя Управление Суй, чтобы разобраться с делами о винных кубках и горе Хуэйци, действуя решительно и стремительно."
+line-70,左乐,宁小姐慧眼如炬。,"Your insight is as a beacon, Miss Ning.",Госпожа Нин видит суть вещей с проницательностью факела.
+line-72,左乐,而梁先生举动，旨在破局，更是令人钦佩。,"But Mr. Liang's actions, breaking past settled positions, were all the more admirable.","А действия господина Ляна, направленные на разрешение ситуации, достойны восхищения."
+line-74,宁小姐,......若非司岁台激进，梁大人想必不至于如此举动。,"Were it not for the Sui Regulator's radicality, he may not have needed such drastic action.","...Если бы Управление Суй не было столь агрессивным, господин Лян наверняка не пошел бы на такие крайние меры."
+line-76,梁洵,梁某人问心无愧，想必肃政院得知此事后，自有公道。,My conscience is clear. I imagine the Department of Discipline and Supervision will pursue their own amends once they learn of this.,"Лян чист перед своей совестью, и уверен, что когда Цензурное ведомство узнает об этом, восторжествует справедливость."
+line-78,太合,我已草拟奏呈，大可开诚布公，绝无偏颇。,I've drawn up my report to the Emperor. It's open and fair. No bias allowed for.,"Я уже составил отчет; он будет открытым и честным, без какой-либо предвзятости."
+line-80,梁洵,......如太合先生所说，“取忠舍义”。,"As you say, Mr. Taihe, 'garner loyalty and forsake righteousness.'","...Как сказал господин Тайхэ, «выбрать преданность и отбросить справедливость»."
+line-82,太合,不错。,Indeed.,Верно.
+line-84,宁小姐,可司岁台此次越俎代庖，无论太傅如何定夺，我都会如实禀告尚书大人。,"But the Sui Regulator has overstepped its ambit. No matter the Grand Tutor's determining, I will report the reality to the High Minister.","Но Управление Суй в этот раз превысило свои полномочия, и независимо от того, что решит Великий наставник, я в точности доложу об этом министру."
+line-86,左乐,本就该如此。,As one should.,Так и должно быть.
+line-88,？？？,不必了。,No need.,В этом нет нужды.
+line-98,太傅,左乐。,Zuo Le.,Цзо Лэ.
+line-99,左乐,在......在！,Here... here!,Здесь... я здесь!
+line-100,太傅,依你推演，若三人岁相流窜人间，为害尚蜀，以当时局势，你需要多久镇压局面？,"By your inference and in those circumstances, how long would you need to suppress the situation, should the three's Sui-Xiang roam the human realm to harm Shangshu?","Согласно твоим расчетам, если бы три образа Суй просочились в мир людей и начали угрожать Шаншу, сколько времени потребовалось бы тебе, чтобы подавить ситуацию в тех условиях?"
+line-101,太傅,又若是岁兽苏醒，大炎备以一城迎战，代价如何？,"And should the bestial Sui have awakened, and Yan readied a city to fight it, what would the price be?","А если бы зверь Суй пробудился, и Великий Ян решил противостоять ему ценой целого города — какова была бы цена?"
+line-102,左乐,......前者需三日工夫，后者恐两败俱伤，巨兽死，而军队十不存三。,"The former would require three days' effort. The latter would be mutual loss, with the feranmut dead, and three-tenths of the army gone.","...В первом случае потребовалось бы три дня, во втором — боюсь, это привело бы к взаимному уничтожению: зверь погиб бы, но и от армии осталось бы меньше трети."
+line-103,太傅,梁洵。,Liang Xun.,Лян Сюнь.
+line-104,梁洵,在。,Here.,Здесь.
+line-105,太傅,若是今日判你身死，以保礼部与司岁台平安，你如何做？,"If I sentenced you to death today, to protect the Ministry of Rites and Sui Regulator, what would you do?","Если бы сегодня я приговорил тебя к смерти ради спасения Министерства обрядов и Управления Суй, что бы ты сделал?"
+line-106,梁洵,理当服法。,"Submit to the law, as I ought.",Принял бы законное наказание.
+line-107,太傅,那如果你今日作为，阴差阳错，导致尚蜀城市受损，百姓蒙受损害，你如何做？,"Then if by unexpected turns, your actions today led Shangshu City to be damaged and the common people harmed, what would you do?","А если бы твои действия сегодня случайно привели к разрушению города Шаншу и пострадали бы люди, что бы ты сделал?"
+line-108,梁洵,苟求生路，亡兽补牢。,"Should I have sought a way for survival, then better late than never.",Смиренно искал бы путь к искуплению и исправлял бы содеянное.
+line-116,太傅,棋局至此，五五之间。,The game until now was of equal occupation.,"Партия дошла до этого момента, шансы равны."
+line-117,太傅,梁洵挑选的那个龙门人，本是一记出奇无理手，却被他抓住了什么蛛丝马迹，棋差一筹。,"The Lungmenite you chose was an unusual, irrational move, yet he seized some hint from it. A suboptimal piece.","Человек из Лунмэня, выбранный Лян Сюнем, изначально казался странным и нелогичным ходом, но он ухватился за какую-то мелочь, и партия изменилась."
+line-118,太傅,事已至此，又有多少事在他算计之中？又有多少他没算到的事情，终归还是有利于他？,"Given so, how much more is within his reckoning? And how much that he hasn't accounted for will return to benefit him?","Сколько же всего из произошедшего было в его расчетах? И сколько того, что он не предвидел, в итоге все равно сыграло ему на руку?"
+line-120,宁小姐,......太傅果然知晓此事。,"You perceive this matter finely, Grand Tutor.",...Великий наставник действительно знал обо всем.
+line-122,太傅,梁洵，替你知府职位之人，一月内抵达尚蜀。做好交接，随我离开。,"Liang Xun. The one to take your place as magistrate will arrive at Shangshu within a month. Prepare the transition, and leave with me.","Лян Сюнь, человек, который сменит тебя на посту градоначальника, прибудет в Шаншу в течение месяца. Передай дела и отправляйся со мной."
+line-124,宁小姐,......！,......!,......!
+line-126,梁洵,梁某人......不知太傅用意。,"I... do not know what you mean, Grand Tutor.",Лян... не понимает намерений Великого наставника.
+line-128,太傅,随我入京。,Follow me to the capital.,Следуй за мной в столицу.
+line-130,宁小姐,......,......,......
+line-132,梁洵,......谢过太傅。,"My thanks, Grand Tutor.",...Благодарю Великого наставника.
+line-134,梁洵,可梁某人还是......,But I still...,Но господин...
+line-136,宁小姐,——宁辞秋祝贺梁大人高升。,"—I, Ning Ciqiu, congratulate Mr. Liang on his promotion.",— Нин Цыцю поздравляет господина Ляна с повышением.
+line-138,梁洵,......我......,I...,...Я...
+line-140,太傅,......宁侍郎。,Assistant Minister Ning.,...Заместитель министра Нин.
+line-142,太傅,玉门已从既定航线归国。昨日与龙门接触，准备补给。,"Yumen's route back to Yan is set. It docked with Lungmen yesterday, to ready and resupply.",Юймэнь вернулся в страну с намеченного курса. Вчера мы контактировали с Лунмэнем для пополнения запасов.
+line-144,左乐,——！,—!,—!
+line-146,宁小姐,玉门城......是躲避天灾？还是......,Was... Yumen City avoiding Catastrophe? Or...,Город Юймэнь... избегает бедствий? Или...
+line-148,太傅,另有用途。,It had other purpose.,У него иное предназначение.
+line-150,太傅,你先一步前往玉门。我与梁洵在京城事了，自会前往。,"Leave for Yumen ahead of time. When I and Liang Xun finish business in the capital, we will naturally proceed for it too.","Ты отправишься в Юймэнь первой. Я прибуду туда, как только закончу дела с Лян Сюнем в столице."
+line-152,宁小姐,......！明白。,Right...! Understood.,...! Понимаю.
+line-154,太傅,太合。,Taihe.,Тайхэ.
+line-156,太合,诸事顺遂。,All is proceeding smoothly.,Все идет по плану.
+line-158,太傅,好。,Good.,Хорошо.
+line-160,左乐,......太合叔，原来早就......,Uncle Taihe? So you long since...,"...Дядя Тайхэ, значит, всё уже было..."
+line-162,太合,“取忠舍义”，公子莫怪。,"'Garner loyalty and forsake righteousness.' Blame me not, young man.","«Выбрать преданность и отбросить справедливость», не вините меня, господин."
+line-164,太傅,司岁台此次失误，先不予追究。眼下，确定那一百八十一枚黑子落向何处，才是关键。,"We will withhold investigation into the Sui Regulator's lapse here for now. At present, only determining whither the one hundred and eighty-one black stones are is key.","Ошибка Управления Суй пока не будет обсуждаться. Сейчас главное — определить, куда упали те сто восемьдесят одна черная фишка."
+line-166,左乐,......明白。,Understood.,...Понял.
+line-168,宁小姐,太傅何日离开尚蜀？,"Grand Tutor, when will you leave Shangshu?",Когда Великий наставник покинет Шаншу?
+line-170,太傅,明晚。,Tomorrow eve.,Завтра вечером.
+line-172,宁小姐,......这么着急，不需要等待信使队伍护送......,So very pressing. Need we not await the Messenger ranks' escort...,"...Так спешно, разве не нужно ждать эскорт из гонцов..."
+line-174,太傅,不必。,Unnecessary.,Нет нужды.
+line-176,宁小姐,白天师有意为太傅送行。,Tianshi Bai will want to send you off.,Мастер Бай хотел проводить Великого наставника.
+line-178,太傅,还是不必。,Unnecessary still.,И в этом нет нужды.
+line-180,左乐,尚蜀山道多险，太傅孑然一身，恐有危险......,Shangshu's mountain ways are rugged. I fear it may be dangerous if you are alone...,"Горные дороги в Шаншу опасны, Великий наставник будет один, боюсь, это небезопасно..."
+line-182,太傅,怎么，难道尚蜀境内，还敢有贼人作犯？,"What, as if wily criminals dare run amok within Shangshu's borders?","Что, неужели кто-то в пределах Шаншу осмелится нарушить закон?"
+line-184,左乐,......不。只是，您年事已高，独自出门在外，还是要小心一些......,"No. I simply mind your advanced years. Be careful on lone outings, please...","...Нет. Просто, вы уже в преклонном возрасте, отправляясь в путь в одиночку, будьте осторожны..."
+line-186,太傅,大炎疆土之内普天之下，我只怕百姓不得安生国业不够昌盛。,"Within Great Yan's domain under heaven, I only fear if the common people go without peace and national trade is not sufficiently prosperous.","В пределах земель Великого Яна я боюсь лишь одного: того, что народ не будет спокоен, а страна не будет процветать."
+line-187,太傅,我还怕什么？,What else should I fear?,Чего же мне еще бояться?
+line-188,太傅,还有什么值得我怕？,Is anything else worth my fear at all?,Что еще заслуживает моего страха?
+line-198,老鲤,事已了。,That's over with.,Дело сделано.
+line-200,梁洵,有惊无险。,Past the fire of danger.,"Без страха, но с опасностью."
+line-202,老鲤,惊的人不是你。,You certainly didn't feel the heat.,"Тот, кто испугался — это не ты."
+line-204,梁洵,险的是所有人。,But the danger weighed on us all.,В опасности были все.
+line-206,老鲤,你托我从龙门运盏回尚蜀，一开始就是接了司岁台的密令。,"So it was all your secret orders from the Sui Regulator, having me bring the cup from Lungmen back to Shangshu.","Ты попросил меня перевезти кубок из Лунмэня в Шаншу, потому что с самого начала получил секретный приказ от Управления Суй."
+line-207,老鲤,可碍于身份，更碍于你身边的某个人，你不得不扣我一顶贼人的帽子，再让镖局来演一出戏。,"But your status stood in the way, and so did a certain someone by your side, so you had to put a thief's cap on me and get the escorts to act their show.","Но из-за своего статуса, а еще больше из-за человека, который был рядом с тобой, ты был вынужден повесить на меня ярлык вора и устроить спектакль с охранным бюро."
+line-209,老鲤,——可你没和我串通这出戏，就说明，你根本没想演好这出戏。,"—But you never coordinated that act with me, which I think shows you never wanted to put it on in the first place.","— Но раз ты не договорился со мной об этом спектакле, значит, ты и не собирался разыгрывать его хорошо."
+line-211,梁洵,你知道我从来是不喜欢演戏的。,You know I never liked acting.,"Ты же знаешь, я никогда не любил играть в игры."
+line-213,老鲤,那就是你自己有这个想法了？,So was this your own idea?,То есть у тебя был свой замысел?
+line-215,梁洵,是。,Yes.,Да.
+line-217,老鲤,可司岁台秉烛人就在尚蜀，他们一定不会轻言放弃。,"But the Candleholders were in Shangshu, and they wouldn't give up at the drop of a hat.","Но люди из Управления Суй были в Шаншу, они бы точно не отступили."
+line-218,老鲤,你压根就不想让这件事发生在尚蜀，更不想让司岁台一时僭越的行为，扯破了他们与礼部的脸皮。,"You never even wanted this to go down in Shangshu, let alone the Sui Regulator usurping you for a while, them and the Ministry of Rites tearing into each other.","Ты совершенно не хотел, чтобы это случилось в Шаншу, и еще меньше хотел, чтобы необдуманное самоуправство Управления Суй привело к ссоре с Министерством обрядов."
+line-220,梁洵,是的。,True.,Да.
+line-222,老鲤,可这样，你等于把自己也置于不义之地。,"But if you had your way there, you'd be cast on injustice's side.",Но так ты поставил себя в невыгодное положение.
+line-223,老鲤,于是有个人，可能是个爱管闲事的人，可能是个心疼你的人，他派了一个赏金猎人来，来抢盏。,"And so there was someone who probably loved nosing, and probably felt very sorry for you, and he sent a bounty hunter to come steal the cup.","И вот нашелся кто-то — возможно, любитель вмешиваться в чужие дела, а может, тот, кто беспокоился о тебе — и послал охотника за головами, чтобы украсть кубок."
+line-224,老鲤,盏不在你手上，就让你不必难做。,Since then it's a weight off your hands.,"Если кубка у тебя нет, то и проблем меньше."
+line-226,老鲤,你知道那个人是谁。,You know who that someone is.,"Ты знаешь, кто этот человек."
+line-228,梁洵,我也许知道的。,Maybe I do.,"Может, и знаю."
+line-230,老鲤,可谁都没料到，横空杀出来个尚冢。,"But nobody foresaw Shang Zhong would come soaring through the sky, out for a life.","Но никто не ожидал, что откуда ни возьмись появится Шанчжун."
+line-231,老鲤,最后事与愿违，所有人都被卷进了这座取江峰，这片忘水坪，你干得实在是不聪明，实在是不聪明......,"Things turned for the worse, and off everyone tumbled to Qujiang Peak and the Field of Forgotten Water. Not very smart work from you, no, not smart at all...","В итоге всё пошло не по плану, все оказались втянуты в эту историю на пике Цюйцзян и равнине Ваншуй. Ты поступил не очень-то умно, совсем не умно..."
+line-233,老鲤,可对你来说，对你梁洵来说，又似乎太聪明了点。,"But for you, for Liang Xun, maybe it was a little too smart at the same time.","Хотя для тебя, Лян Сюнь, это выглядит даже чересчур умно."
+line-235,梁洵,......所以我委托的是你。,Which is why I entrusted you with it.,...Поэтому я и обратился к тебе.
+line-236,梁洵,一个既能察觉到我在想什么，又绝对不会背叛朋友的人。,"Someone who could both tell what I was thinking, and would never betray his friends.","К тому, кто может понять, о чем я думаю, и при этом никогда не предаст друга."
+line-238,老鲤,我该谢谢你还把我当朋友？,Should I thank you for still considering me a friend?,"Должен ли я сказать спасибо, что ты все еще считаешь меня другом?"
+line-239,老鲤,所以我帮忙帮到底，其实最后找的不是那酒盏主人是谁的答案。,"When all's said and done, though, I wasn't out to find who that goblet's owner was.","Я довел дело до конца, хотя на самом деле я искал не ответ на вопрос, кому принадлежит кубок."
+line-241,梁洵,你找的是什么？,What were you looking for?,Что же ты искал?
+line-243,老鲤,我找的是你。,You.,Я искал тебя.
+line-244,老鲤,你还是不是当初那个立下宏愿的你。,"You're still that same old you, filled with ambition as ever, aren't you.","Остался ли ты тем же человеком, что когда-то дал великую клятву."
+line-246,梁洵,......我是吗？,Me?,...Остался ли?
+line-248,老鲤,你变聪明了，梁洵。,"You've gotten smarter, Liang Xun.","Ты стал мудрее, Лян Сюнь."
+line-250,老鲤,不过还好。你还是。,"But that's just fine. Carry on, you.","Но хорошо, что ты все еще прежний."
+line-252,梁洵,......,......,......
+line-254,老鲤,......,......,......
+line-256,梁洵,......槐天裴的下落，我有些眉目。,I have a rough idea as to Huai Tianpei's whereabouts.,...У меня есть кое-какие сведения о местонахождении Хуай Тяньпэя.
+line-258,老鲤,你一早就有眉目的，只是不想让我分心。,You've had a rough idea for ages. You just didn't want me distracted.,"Они у тебя были с самого начала, просто ты не хотел, чтобы я отвлекался."
+line-260,梁洵,你怪我不告诉你？,Are you upset at me for not telling you?,"Винишь меня, что я не сказал?"
+line-262,老鲤,我是怕你还需要帮忙。,I was more worried I'd need to keep assisting you.,"Я боялся, что тебе снова понадобится помощь."
+line-264,梁洵,最近大炎江湖上有一些传言。,There's been a rumor going about the world of Yanese kung fu lately.,В последнее время в мире боевых искусств Великого Яна ходят слухи.
+line-266,老鲤,武林传言。,"Ah, the martial world's rumors.",Слухи о мире боевых искусств?
+line-268,梁洵,既是武林，那一定是少不了他的。,"When there's kung fu involved, he could hardly be left out of things.","Раз уж это мир боевых искусств, то он там точно замешан."
+line-279,太傅,......,......,......
+line-280,太傅,嗯，尚蜀是个好地方。,Hmm. Shangshu's a fine place.,"М-да, Шаншу — хорошее место."
+line-282,令,今年梅花开得迟，我还当是为什么，原来是太傅私访尚蜀，稀客稀客。,"The plum blossoms bloomed late this year, and I wondered why; so your private visit to this city it was. A rare, rare guest.","Слива в этом году расцвела поздно. Я гадала, в чем причина, а оказывается — визит Великого наставника, редкий гость, редкий гость."
+line-284,太傅,你何时算主了？,When did you master this place?,С каких пор ты стала здесь хозяйкой?
+line-286,令,真要细究起来，我还真能算这些山头的半个主人。,"If wished you did to look into it deeply, I could be considered half of these mountains' master true.","Если вглядеться, то я вполне могу считаться наполовину хозяйкой этих гор."
+line-288,太傅,......大考之处，不在人。在你们。,"The point in question isn't in the persons. It's in you, and your collective.",...Великое испытание зависит не от людей. А от вас.
+line-290,太傅,当那一天到来的时候，你们站在哪一方，看着哪一面，心向哪一处，都会直接决定战争的损失。,"When the day comes, what sides you stand on, what ways you see things, which ways your hearts feel, will all determine what is lost in the battle there and then.","Когда настанет тот день, на чьей стороне вы будете стоять, на что будете смотреть и куда будет устремлено ваше сердце — всё это определит масштабы потерь в войне."
+line-292,令,大炎很难败的。,Yan is a hard foe to defeat.,Великому Яну трудно проиграть.
+line-294,太傅,......你确实可以替大炎军旅说这句话。,You do have the right to speak on behalf of Yan's army.,...Ты определенно можешь говорить это от лица армии Великого Яна.
+line-296,太傅,你与那位宗师各自戍北百年，功不可没。若非如此，朝廷也不会这么念旧情。,"You and that learned master held the north for a hundred years apiece, it must be recognized. If not for that, the court would hardly remember you so fondly.","Вы с тем мастером столетиями охраняли север, и ваш вклад неоценим. Если бы не это, двор не был бы так привязан к старым чувствам."
+line-297,太傅,司岁台之举虽有越俎代庖之嫌，可无论如何，是深得人心的。,"The Sui Regulator's deeds may be sensed to encroach, but no matter what, you are fondly cherished.","Хотя действия Управления Суй кажутся самоуправством, в конечном счете, они нашли поддержку в сердцах людей."
+line-299,令,......峥嵘岁月，流连忘返。,"The years and months tower tall, joys parted with so reluctantly.","...Бурные годы, не хочется уходить."
+line-301,令,时至今日，偶尔醉到情深处，仍听得见得，吹角连营。,"To this day, in my deepest drunken depths, still my ears prick at horns sounding battalions forth.","И по сей день, когда я пьяна до глубины души, я все еще слышу звук рогов в лагерях."
+line-303,太傅,......年。,...Nian.,...Нянь.
+line-305,年,唔。,Uh-huh.,Мм.
+line-307,太傅,朝廷想和你做个买卖。,The court wants to make a deal with you.,Двор хочет заключить с тобой сделку.
+line-309,年,真难得，我还以为要被下死命令了呢。,Well how about that. I thought I'd be getting my execution date.,"Какая редкость, а я уж думала, сейчас поступит строгий приказ."
+line-311,太傅,千年以来，天机阁都不曾停歇过一刻。无数军士天师战死塞北，可道高一尺魔高一丈，邪祟诡魔，杀之不绝，始终不能一劳永逸。,"The Chamber of Heaven's Designs hasn't ceased once in a whole millennium. Countless troops and tianshi lie buried in action in the north, yet evil rises as virtue does. The slaughter of wicked spirits is endless, and we've not been able to close the book on it.","Тысячелетиями Небесная канцелярия не останавливалась ни на миг. Бесчисленные воины и небесные наставники погибли на севере, но зло, нечисть и демоны бесконечны, их невозможно истребить раз и навсегда."
+line-312,太傅,最精锐的士卒，最伟大的将领，最睿智的天师，都奔赴塞北，年复一年。,"The finest of soldiers, the grandest of marshals, the wisest of tianshi, all rush to man the frigid north, year upon year upon year.","Самые отборные солдаты, самые великие полководцы, самые мудрые наставники год за годом отправлялись на север."
+line-314,太傅,......朝廷要你在天机阁外，设十二楼五城。机关三千座，兵俑百万台。,"The court wants you to erect twelve pagodas and five cities outside the Chamber of Heaven's Designs. Three thousand mechanisms, millions of terracottas.","...Двор хочет, чтобы ты возвела двенадцать башен и пять городов за пределами Небесной канцелярии. Три тысячи механизмов, миллион боевых големов."
+line-315,太傅,这件事不需要你立刻去做。也不光你一个人做，大炎已经开始布置，绘制图纸一事，也交由各大天师府解决。,"You needn't do it immediately. Nor will you be on your own. Yan has begun sorting it out, drafting blueprints, and assigning every great tianshi to the case.","Это не то, что нужно делать прямо сейчас. И не тебе одной, Великий Ян уже начал подготовку, а разработка чертежей поручена резиденциям главных небесных наставников."
+line-317,太傅,我希望你出手相助，至少能从那座阁楼里换回一个人来。,"I hope you will lend a hand. It'll allow someone to make a return from that tower, at least.","Я надеюсь, что ты окажешь помощь, чтобы хотя бы вернуть одного человека из этой башни."
+line-319,年,......谁？,Who?,...Кого?
+line-321,太傅,一个绝不会倒下，但也万万不能倒下的人。,"One who would never fall, but absolutely must never fall.","Того, кто никогда не падет, но и пасть ни в коем случае не должен."
+line-323,年,......不是吧。我可是从惊蛰那里听说过一些传闻，她的祖师爷是个超级麻烦的人......虽然她也没见过就是了。,You're kidding. I heard some of the rumors from Leizi. Her founder was a super-annoying guy... even if she never met him.,"...Неужели. Я слышала от Цзинчжэ кое-какие слухи, ее прародительница — крайне проблемный человек... хотя сама она ее никогда не видела."
+line-325,夕,哼......依赖源石而扭曲的长生特例，这些人类实在是不讨喜......,Hmph... a special case of a long life warped by dependence on Originium. Such humankind really doesn't agree with me...,"Хм... исключительные случаи долголетия, искаженные Орипатией, эти люди мне совсем не нравятся..."
+line-327,年,不是因为她找过你麻烦？,Isn't this just because she gave you all that hassle?,"Не потому ли, что она доставила тебе проблем?"
+line-329,夕,啧。,Tch.,Цц.
+line-331,令,啊......我记得她。,Ah... I remember her.,А... помню ее.
+line-332,令,她还好吗？,Is she still well?,С ней все хорошо?
+line-334,太傅,......还好。,She is.,...Все хорошо.
+line-336,太傅,她戍北至今已有三百七十余年。若是她得以脱身回国，朝廷倒也乐意从此放她清闲，让她安享晚年......,"She's been stationed at the north for over three hundred and seventy years now. If she can return home, the court would be willing to let her rest at ease, allow her a peaceful retirement...","Она охраняет север уже более трехсот семидесяти лет. Если она сможет выбраться и вернуться в страну, двор будет рад дать ей отдохнуть и позволить насладиться старостью..."
+line-338,太傅,可老前辈总说自己闲不得。,But the man always says he'd hate to be idle.,"Но старый мастер всегда говорит, что не может позволить себе отдых."
+line-340,年,听上去是个大工程，那我能得到什么？,"Sounds like some major engineering work. What do I get out of it, then?","Звучит как масштабный проект, что же я получу взамен?"
+line-342,太傅,你想做的事情，朝廷帮你。,The court will help you with what you want to do.,"То, что ты хочешь сделать, — двор поможет тебе в этом."
+line-343,太傅,杀红眼的野兽，是不能一直拴在笼子里的。,The wild bestial of bloodshot eyes can't be caged forever.,"Зверя, что жаждет крови, нельзя вечно держать на привязи."
+line-345,年,哈，听上去都是对你们好的事情嘛，咱们大炎人就是会谈买卖......,Hah. It all sounds like a win-win for you. We Yan people sure love to haggle...,"Ха, звучит так, будто все это выгодно вам, мы, люди Великого Яна, умеем вести переговоры..."
+line-347,太傅,言已至此，你自己考量。,That's all on that. Think about it.,"Все сказано, решай сама."
+line-349,令,我也有一事委托太傅。,I have a matter I'd like to ask of you in turn.,У меня тоже есть просьба к Великому наставнику.
+line-351,太傅,......请说。,"Please, go on.",...Прошу.
+line-353,令,如今他是否......,"As of now, is he...",Сейчас он...
+line-355,太傅,他的行为超过了所有巨兽学士的预计，以自己血肉之身化为一百八十一枚黑子......落于人间......哼。,His actions surpassed all feranmutologists' predictions. Turning his own flesh into one hundred and eighty-one black stones... scattering them in the human realm... hmm.,"Его действия превзошли прогнозы всех ученых, изучающих великих зверей, он превратил свою плоть и кровь в сто восемьдесят одну черную фишку... и разбросал их по миру... хм."
+line-356,太傅,他这是要以天地设局。,He wants to set up a game across the entire land.,Он хочет расставить ловушку самой вселенной.
+line-358,令,为什么？,Why?,Почему?
+line-360,太傅,收官之日，他一定会再度现出真身，那会你亲自问他就是。,"In his endgame days, he'll surely appear again. You'd best ask him yourself then.","Когда партия подойдет к концу, он обязательно предстанет в своем истинном облике, тогда ты сама у него и спросишь."
+line-362,令,这一局，务必要赢。,It's a game we must win.,В этой партии важно победить.
+line-364,太傅,......输不得。,We cannot lose.,...Проигрывать нельзя.
+line-370,令,......你们都听到啦？,"Did you hear that, you two?",...Вы все слышали?
+line-372,夕,纵横十九道，他会输给这个太傅？,"Would he lose to this Grand Tutor, playing on nineteen by nineteen?","Девятнадцать линий, разве он может проиграть этому Великому наставнику?"
+line-374,令,当然输不了。,Of course he wouldn't.,"Конечно, не может."
+line-376,夕,那太傅如何赢的他？,Then how did the Grand Tutor beat him?,Тогда как Великий наставник победил его?
+line-378,令,太傅没和他对弈。,The Grand Tutor did not play go with him.,Великий наставник не играл с ним в Го.
+line-380,夕,为什么？,Why?,Почему?
+line-382,令,黑白千万纵横十九，固然深有其意，可太傅说，他在棋盘上，看不见人。,"Black and white in their millions upon nineteen by nineteen—it has its intrigue, true, but the Grand Tutor speaks that absorbed within a board of pieces, he cannot see man.","Белое и черное на девятнадцати линиях, безусловно, имеют глубокий смысл, но Великий наставник сказал, что он не видит людей на доске."
+line-384,夕,人？,Man?,Людей?
+line-386,令,所以太傅陪他下了另一局棋。以大炎疆土为盘，以天下苍生为子。,"Thus the Grand Tutor played a different game with him. With Yan's domain as the board, with the land's every commoner as the pieces.","Поэтому Великий наставник сыграл с ним в другую игру. Где доской стали земли Великого Яна, а фигурами — судьбы человечества."
+line-388,夕,......谁赢了？,Who won?,...Кто победил?
+line-390,令,那一次是太傅赢了。所以他甘愿被大炎束缚囚禁，他每输一盘，便自囚一甲子。,"The Grand Tutor, at that time. Thus he was willingly bound in captivity by Yan, and with every loss, he would stay prisoner sixty years.","В тот раз победил Великий наставник. Поэтому он согласился быть скованным и заточенным Великим Яном, каждый раз, когда он проигрывает партию, он заточает себя на шестьдесят лет."
+line-392,年,嘿，那大炎若是一直有奇才赢他，他岂不是终生走不出京城半步？,"Heh. If Yan always had a genius to beat him, he'd never get a foot out of the capital his whole life, huh?","Эй, если в Великом Яне всегда найдутся гении, которые его побеждают, то он никогда не выйдет из столицы?"
+line-394,令,谁又知道呢，他其实是一个很不会下棋的人。,"Who can profess to know? He's very poor at the chesses, truth be told.","Кто знает, на самом деле он очень плохой игрок в Го."
+line-395,令,他学棋很慢，几百年前，他一甲子内，能输上几百几千盘。后来一甲子内，他少输了一些，再过一甲子，不过输百盘左右。,"Very slow to learn them, too. Centuries ago, in one cycle of sixty years, he lost hundreds upon thousands of games. The following cycle, he lost some less, and after one more, no more than a hundred games, give or take.","Он учился очень медленно, сотни лет назад за цикл в шестьдесят лет он мог проиграть сотни и тысячи партий. Позже за один цикл он стал проигрывать меньше, а еще через цикл — около ста партий."
+line-397,令,如此一来，直到某个时候，再无人赢得了他。,"And so forth, until a point when no one was left who could beat him.","Так продолжалось, пока не настало время, когда никто больше не мог его победить."
+line-398,令,于是那一甲子，他便离开了京城......就有了那场事端。,"Thus on that cycle, he left the capital... and so that incident transpired.","И тогда, в тот цикл, он покинул столицу... что и привело к тем событиям."
+line-400,年,三姐就是那时......,That's when our third sis...,Третья сестра тогда...
+line-402,令,嗯。,Mm.,М.
+line-403,令,我们都能感受得到，这不是什么愉快的感受。,We could all sense that this was no pleasant matter.,"Мы все чувствовали это, и ощущения были не из приятных."
+line-405,年,所以太傅赢了那家伙，他才灰溜溜地回到京城，按誓受罚？,"So the Grand Tutor had to kick his ass before he dragged his own tail back to the capital, ready to be punished?","Значит, Великий наставник победил того парня, и тот покорно вернулся в столицу, исполняя клятву и отбывая наказание?"
+line-407,令,也许他很久没有满盘皆输过了。,"Perhaps it was a good, long while since last he lost in one fell swoop.","Может быть, он давно не проигрывал в пух и прах."
+line-409,令,又或者......他已经不止在关注大炎而已。,Or it may be... that his sights were not set on Yan alone anymore.,Или же... он уже больше не ограничивается вниманием к Великому Яну.
+line-420,夜半,......你就是宁辞秋。,So you're Ning Ciqiu.,...Ты и есть Нин Цыцю.
+line-422,宁小姐,那你就是那位胆子大到敢抢天师府行队的赏金猎人了吧。,"And you, the bounty hunter of enough bravery to plunder a Tianshi Bureau procession.","А ты, стало быть, та охотница за головами, у которой хватило смелости ограбить отряд небесных наставников."
+line-424,夜半,我、我那时候又不知道他们是好人......,I-I didn't know they were good guys yet...,"Я... я тогда не знала, что они хорошие..."
+line-426,夜半,那个姓白的老头子，他在哪儿？,Where's that old man anyway? The Bai guy?,"Тот старик по фамилии Бай, где он?"
+line-428,宁小姐,......我带你去见他。,I will take you to meet him.,...Я отведу тебя к нему.
+line-429,宁小姐,这次的事情，我也该谢谢你。,"I think, in this turn of events, thanks are due for you.","И за то, что произошло, я должна тебя поблагодарить."
+line-431,夜半,没什么。,It's alright.,Не за что.
+line-433,夜半,不过我还是没明白，不就一只酒杯嘛，既然你知道它在哪儿，你自己偷偷拿走了不就行了？,"But I still don't get the full picture. Wasn't it just a goblet? If you knew where it was, couldn't you go sneak it off yourself and be done with it?","Но я все равно не понимаю: это всего лишь кубок, если ты знала, где он, почему просто не забрала его втихаря?"
+line-435,宁小姐,他是不愿意给我的，所以我确实不能拿。,"He would not want to hand it to me, so I could hardly take it.","Он не хотел отдавать его мне, так что я действительно не могла его забрать."
+line-437,夜半,所以要我帮忙？为什么？,So you got me to help? Why?,И поэтому тебе нужна была моя помощь? Почему?
+line-439,宁小姐,......为什么呢。,"Why, I wonder.","...Действительно, почему."
+line-441,宁小姐,只是不希望，他卷入这么多麻烦事里，还毫无自觉吧。,"I simply did not want him drawn into so many vexing matters, without the slightest self-awareness.","Просто не хотелось, чтобы он втягивался в такое количество неприятностей, даже не осознавая этого."
+line-443,左乐,......果然这位赏金猎人，是宁侍郎的人。,"So this bounty hunter really was yours, Assistant Minister Ning.","...Надо же, эта охотница за головами и правда человек госпожи Нин."
+line-445,夜半,唔！,Hey!,Мм!
+line-447,宁小姐,不必警惕，他们不是敌人。,You need not raise your hackles. They are not enemies.,"Не нужно беспокоиться, они не враги."
+line-449,宁小姐,只是......,Only...,Просто...
+line-451,左乐,本来就是司岁台仓促行事，不会追问这位小姐。呃......当然，前提是她进入炎国境内是用的合法手段......,"It was the Sui Regulator who hastened in its conduct; we won't question her deeply. Er... as long as she entered Yan's borders through legitimate means, of course...","Изначально это Управление Суй действовало в спешке, вопросов к этой леди не будет. Э-э... конечно, при условии, что она попала на территорию Великого Яна законными путями..."
+line-453,宁小姐,......当然。,Of course.,...Конечно.
+line-454,宁小姐,你去找白天师吧，夜半。他就在说好的地方等你。,"Go and meet with Tianshi Bai, Blacknight. He awaits you at the agreed location.","Ступай к мастеру Баю, Ебань. Он ждет тебя в условленном месте."
+line-456,夜半,......好。你保重。,Alright. You take care.,...Хорошо. Береги себя.
+line-462,宁小姐,......,......,......
+line-464,左乐,宁侍郎早就看穿了司岁台与梁大人的谋划。,You'd seen through both the Sui Regulator and Mr. Liang's schemes.,Заместитель министра Нин уже давно раскусила планы Управления Суй и господина Ляна.
+line-466,宁小姐,不算太早。,Not too long ago.,Не так уж и давно.
+line-468,宁小姐,可你们好像没看穿梁大人从中斡旋的盘算。,But you seem to not have seen through Mr. Liang's plans to mediate from within.,"Но вы, похоже, не разглядели расчеты господина Ляна, который пытался лавировать между сторонами."
+line-470,左乐,......也许他只是对于背叛宁小姐，心有疑虑。,"He may simply have been apprehensive about betraying you, Miss Ning.","...Может, он просто сомневался, стоит ли предавать госпожу Нин."
+line-472,宁小姐,......,......,......
+line-474,左乐,无论如何，此事确实是司岁台僭越，事后司岁台自会给礼部一个答复。,"Regardless, the Sui Regulator overstepped their bounds in this. We will later address the matter ourselves with the Ministry of Rites.","Как бы то ни было, это действительно было превышение полномочий со стороны Управления Суй, и позже мы дадим Министерству обрядов ответ."
+line-476,宁小姐,......无妨了。都是为大炎谋事。,It is no matter. 'Tis all to plan further for Yan.,...Ничего страшного. Все мы работаем ради Великого Яна.
+line-478,宁小姐,天气凉，几位也早些休息。我还是去看看夜半那孩子，她初次来大炎，我不放心。,"'Tis cold outside; may you all rest soon. I will go see young Blacknight; 'tis her first time in Yan, and I cannot rest easy.","Похолодало, вам тоже лучше отдохнуть. А я пойду проведаю Ебань, она в Великом Яне впервые, я беспокоюсь."
+line-480,左乐,宁小姐走好。,"Farewell, Miss Ning.","Всего доброго, госпожа Нин."
+line-482,宁小姐,保重。,Be safe.,Берегите себя.
+line-488,左乐,......,......,......
+line-490,太合,公子。,Lord Zuo.,Господин.
+line-492,左乐,但愿这些儿女情长......不要影响接下来的大事。,I can only hope this pair in love... aren't shaken by big things to come.,"Надеюсь, эти любовные переживания... не повлияют на дальнейшие важные дела."
+line-494,太合,......,......,......
+line-496,太合,公子年少，说这种话，难免有些故作老成的嫌疑。,"You're young, Lord Zuo. To say such things invites ideas of feigned maturity.","Господин еще молод, такие слова от него звучат несколько претенциозно."
+line-498,左乐,既为秉烛人，便与这些事情无缘。,"As a Candleholder, I've none of my own ties of the sort.","Раз уж я несу факел, такие дела меня не касаются."
+line-500,太合,斗胆一提，公子先前途经村落，出手擒匪，曾——,"If I may boldly mention, when you previously passed through that village and dealt with bandits, you did have—","Осмелюсь заметить, господин, когда вы ранее проезжали через деревню и ловили разбойников, вы..."
+line-503,左乐,咳、咳——我相信那时的女子只是心怀恩情！怎可与男女之情混为一谈！,"*cough*, *cough*—I trust that girl was only repaying the favor! How can you muddle this with affairs between the sexes?","Кх-кх, я уверен, что та девушка питала лишь чувство благодарности! Как можно смешивать это с чувствами между мужчиной и женщиной!"
+line-505,太合,......,......,......
+line-507,左乐,若有了救命之恩，这情感便不纯粹了，更有乘人之危的嫌疑。,"It was a life saved. If the intent was impure, that would only further serve doubts of advantage being taken.","Если есть чувство благодарности за спасение жизни, то эти чувства уже не чисты, и скорее напоминают использование ситуации в своих интересах."
+line-509,左乐,是太合叔误会了。,"You presume wrong, Uncle Taihe.",Дядя Тайхэ просто не так понял.
+line-511,太合,......呃。,Hmm.,...Э-э.
+line-513,太合,公子正论。,"It is as you say, young man.","Вы правы, господин."
+line-522,克洛丝,鲤先生不回龙门？,"Not heading back to Lungmen, Mr. Lee?",Господин Ли не вернется в Лунмэнь?
+line-524,老鲤,不回。我还要找个人。,No. There's still someone I need to find.,Нет. Мне нужно кое-кого найти.
+line-526,克洛丝,顺路不？,Come with?,По пути?
+line-527,克洛丝,我反正要和这个家伙去一趟办事处，然后再回到罗德岛本舰......,"I'm stopping by the branch office with the funnyman anyhow, and then I've got to get back to the Rhodes Island landship...","Я все равно собираюсь с этим парнем в представительство, а потом обратно на главный корабль Родос..."
+line-529,老鲤,似乎还是顺路的。只不过这一次，我不好再麻烦罗德岛了。,It seems we'll be tagging along. But I'd rather not be a nuisance to Rhodes Island again.,"Кажется, что по пути. Но в этот раз я не могу снова беспокоить Родос."
+line-531,克洛丝,鲤先生不用客气。,No need to stand on honor.,"Господин Ли, не стесняйтесь."
+line-533,老鲤,真的是私事。,"Trust me, it's personal matters.",Это действительно личное дело.
+line-534,老鲤,那位代号乌有的干员兄弟，被卷入这桩麻烦事，白白伤了腿，现在还在医院里，我总不好再给各位添麻烦了。,"That codename Nothing operator got drawn into all this mess, had his leg hurt for nothing, and he's still in the hospital now. Don't want to give you all any more grief than that.","Тот сотрудник под кодовым именем Ую был втянут в эти неприятности и зря повредил ногу, сейчас он в госпитале, не хочу доставлять вам лишних проблем."
+line-536,克洛丝,......好吧。,"That's good, then.",...Хорошо.
+line-542,桑葚,克、克洛丝小姐！,K-Kroos!,Госпожа К-Кросс!
+line-544,克洛丝,啊，是桑葚小姐！,"Oh, fancy that! Mulberry!","А, госпожа Санжен!"
+line-545,克洛丝,你已经来尚蜀了，说明炎熔已经抵达办事处挺久的了吧？,"If you're in Shangshu already, I'm guessing Lava got to the branch office a while ago, then?","Раз вы уже в Шаншу, значит, Яньжун уже давно прибыла в представительство?"
+line-547,桑葚,是、是的......而且炎熔小姐还让我带信说，你们最好快些去办事处，好像有别的事情发生了......,"Y-Yeah... and Lava wanted me to tell you too, it's best you head there quickly. It seems like something else happened...","Д-да... И госпожа Яньжун просила передать, чтобы вы поспешили в представительство, кажется, там случилось что-то еще..."
+line-549,克洛丝,啊哈哈......这趟炎国之旅还真不消停。,Ahaha... this trip to Yan sure never takes a breather.,А-ха-ха... Это путешествие в Великий Ян и правда выдалось неспокойным.
+line-551,老鲤,常有的事。,It happens.,Обычное дело.
+line-553,克洛丝,以前也只在龙门之类的......对了。,"It used to just be around Lungmen and stuff... oh, right.","Раньше такое случалось только в таких местах, как Лунмэнь... Кстати."
+line-555,克洛丝,之前我就想问了，鲤先生说，梁大人和龙门魏彦吾很像，像在哪儿？,"I've been wanting to ask. You said Mr. Liang and Wei Yenwu are real alike, but alike how?","Я хотела спросить: господин Ли говорил, что господин Лян очень похож на Вэй Яньву из Лунмэня. В чем похожесть?"
+line-557,老鲤,我说过吗？,Did I say that?,Я такое говорил?
+line-559,克洛丝,说过的。相处下来之后，我是觉得一点都不像......,"You did. After we met him, I was even thinking, wait, they're completely different...","Говорили. А пообщавшись с ним, я думаю, что они совсем не похожи..."
+line-561,老鲤,嗯......,Mmm...,М...
+line-563,老鲤,毕竟......都被心上人吃得死死的啊。,"Well, after all... both their sweethearts have them by the ears.",В конце концов... оба они накрепко привязаны к своим возлюбленным.
+line-573,令,......,......,......
+line-575,杯中的声音,你回来了。,You're back.,Ты вернулась.
+line-577,令,一百八十一件，你会先岁一步失去理智的。,A hundred and eighty-one black stones. You'll beat Sui to losing your sanity.,"Сто восемьдесят одна штука, ты потеряешь рассудок раньше, чем Суй."
+line-579,杯中的声音,这些年来，你都在这里，醉生梦死？不......岁月于你没有意义。,"While you've already spent all these years in here, in your drunken stupor? No... the years and months mean nothing to you.","Все эти годы ты была здесь, топила горе в вине? Нет... время для тебя не имеет смысла."
+line-581,令,行裕镖局的一出闹剧，是你一手策划好的。,That farce of the Xingyu Escort Association was a move planned out by you.,Спектакль охранного бюро Синъюй был полностью спланирован тобой.
+line-583,杯中的声音,不完全是。,Not totally.,Не совсем.
+line-585,令,他们和我没有干系才是......为什么要把他们卷进来？,They should be clean of responsibility for me... Why swallow them all into this?,Они не имеют ко мне никакого отношения... зачем ты втянула их в это?
+line-587,杯中的声音,只是一个提醒。,Just as a reminder.,Просто напоминание.
+line-589,令,提醒我？,A reminder to me?,Напоминание мне?
+line-591,杯中的声音,你在此梦知天下事，便知乾坤大，犹怜草木青。,"Here you dream of all under heaven. Though you know how the universe dwarfs all, the grass in spring still tugs at your heart.","Здесь ты спишь и знаешь всё на свете, ведаешь о величии мира, жалея каждую травинку."
+line-593,杯中的声音,从江南到塞北，再回到这高山云顶，你变了很多。我很不安，妹妹，所以我来提醒你。,"From Jiangnan, up to Saibei, then back to this summit atop the clouds, you've changed a lot. It disturbs me, little sister, so I warn you.","От Юга до Севера, и возвращаясь обратно к вершинам гор, ты сильно изменилась. Мне неспокойно, сестренка, поэтому я пришла напомнить тебе."
+line-595,杯中的声音,提醒你，人心，并没有道德家们鼓吹的那般纯粹。,Warn you that the feelings of man are not so pure as those moralists would have you believe.,"Напомнить, что человеческие сердца совсем не такие чистые, как проповедуют моралисты."
+line-598,,同门相残，兄弟反目，爱恨情仇皆为棋路。,"Sat on equally pitted sides, the brother is in strife, love and disgust and passion and resentment all taken as pieces to the game.","Кровная месть, братья против братьев, любовь и ненависть — всё это лишь ходы на доске."
+line-599,,你不怕，你现在当然不怕，可你迟早会怕。年会怕，夕会怕，他们变得都太像人了，那他们都会怕。,"You don't fear them now. Of course you don't. But sooner or later, you will. Nian will, Dusk will. They've become too much like people, so they will come to fear those things.","Ты не боишься, конечно, сейчас ты не боишься, но рано или поздно начнешь. Нянь будет бояться, Си будет бояться, они стали слишком похожи на людей, а значит, будут бояться."
+line-600,,只是这样一个......小小的提醒。,That is all... this little warning is.,Это было лишь такое... маленькое напоминание.
+line-604,令,......,......,......
+line-606,杯中的声音,你生气了？,Are you angered?,Ты разозлилась?
+line-608,令,杯中只应有酒，酒不该如此多舌。,The cup should only hold wine; wine should not be so wordy.,"В кубке должно быть только вино, а оно не должно быть таким болтливым."
+line-611,,刹那间，万物停摆。,"In that instant, all things halt.",В одно мгновение всё замерло.
+line-612,,尚蜀三山十七峰，如今多出一峰，更有数不清的树，数不清的杈，数不清的叶。,"Shangshu's Three Mounts and Seventeen Peaks now have one more peak, and countless more trees, with countless more branches, with countless more leaves.","Среди семнадцати пиков трех гор Шаншу теперь появился еще один пик, а на нем бесчисленные деревья, бесчисленные ветви, бесчисленные листья."
+line-613,,有风，叶却不动。,"Wind blows, but the leaves are still.","Ветер дует, а листья не шелохнутся."
+line-616,,尚蜀曾有一场天灾。,Shangshu once had a Catastrophe.,В Шаншу когда-то было бедствие.
+line-617,,肆虐的风暴夹杂着火花，碎裂的源石晶簇如火雨落下。,"The devastating storm loose with sparks, shattered Originium crystals descending like fiery rain.","Свирепый шторм с искрами, осколки кристаллов Орипатии сыпались как огненный дождь."
+line-619,杯中的声音,——！,—!,—!
+line-621,杯中的声音,——尚蜀——曾有天灾！,—Shangshu—once had a Catastrophe!,— Шаншу — когда-то пережило бедствие!
+line-623,杯中的声音,有人——以酒敬天，黑云退，百姓安！而今，你却将手中盏掷向阴云！,"Someone—offered wine to the heavens, and the black clouds parted, and the people were safe! And yet now, you're going to fling this goblet to the black clouds!","Кто-то — поднес вино небу, черные тучи отступили, народ спасен! А сегодня ты бросаешь кубок из своих рук в темные тучи!"
+line-624,,一只黑色的酒盏。一枚黑子。,A black goblet. A black piece.,Черный винный кубок. Черная фишка.
+line-625,,在这片大地上最恐怖的灾难面前，转瞬间灰飞烟灭。,"In the face of the most terrifying disaster of all the land, all trace is instantly annihilated.",Перед лицом самого ужасного бедствия на этой земле они вмиг рассыпались в пыль.
+line-627,杯中的声音,你感到愤怒吗？你悲悯吗？你嫉妒吗？,Are you feeling wrathful? Compassionate? Envious?,Ты чувствуешь гнев? Жалость? Зависть?
+line-629,杯中的声音,铭记这种情绪——大势将起——,Carve these emotions into you—things are soon to come—,Запомни эти эмоции — грядет великое потрясение —
+line-633,令,......,......,......
+line-635,令,......大势将起......我不可能置身事外......对吧。,"Things, soon to come... Certainly, I cannot stay uninvolved... isn't that right.",...Грядет великое потрясение... я не смогу остаться в стороне... верно.
+line-637,令,呼——哈。,Phew... haah.,Ху — ха.
+line-639,令,......先买酒去。,"For now, I shall go purchase wine.",...Пойду куплю вина.
+line-649,挑山人,......我会离开尚蜀。,I'll be leaving Shangshu.,...Я покину Шаншу.
+line-651,郑掌柜,我不拦你。,I won't stop you.,Я не буду тебя удерживать.
+line-653,郑掌柜,如果两个人想杀了对方，这不是一件多复杂的事情。,"If two people want to kill each other, the feelings aren't too hard to understand.","Если двое хотят убить друг друга, это не так уж сложно."
+line-655,郑掌柜,可如果两个人都想被对方杀死......,But if two people want to be killed by the other...,"Но если оба хотят, чтобы другой убил их..."
+line-657,挑山人,那我们该省省力气，不然矫情。,Then we should save the effort. We'd just be wallowing.,"Тогда нам стоит поберечь силы, а то это будет выглядеть как жеманство."
+line-659,郑掌柜,我打算退了。,I'm planning to retire now.,Я собираюсь закрыться.
+line-661,挑山人,杜遥夜还没做好准备。而且那丫头，这不是一股子想自立门户的想法吗？,Du Yaoye still isn't ready for it. And doesn't the girl seem just a little like she wants her own business?,"Ду Яое еще не готова. И к тому же, эта девчонка, разве у нее нет мыслей самой начать свое дело?"
+line-663,郑掌柜,要是这样，就关门吧。,"If so, I'll shutter things.","Если это так, то закрываемся."
+line-665,郑掌柜,你不同意？,Don't you agree?,Ты не согласен?
+line-667,挑山人,我不是镖局的人了。,I'm not one of the escorts.,Я больше не часть охранного бюро.
+line-669,郑掌柜,好。,Good.,Хорошо.
+line-671,挑山人,郑清钺，我们的事情只是暂缓片刻，不是就此握手言和。,Zheng Qingyue. Our business is only postponed for a while. We're not shaking hands and making up here.,"Чжэн Цинъюэ, наши дела лишь отложены на миг, это не значит, что мы заключили мир."
+line-673,郑掌柜,镖局的规矩，上了酒桌不许谈恩怨，反正我就在尚蜀等你。,"Association custom says you don't talk grudges when you're at the bar. I'll be in Shangshu anyhow, waiting for you.","Правило охранного бюро: за столом не обсуждать обиды, так что я буду ждать тебя в Шаншу."
+line-675,挑山人,......,......,......
+line-677,郑掌柜,......,......,......
+line-679,挑山人,最后一件事。,One last thing.,Последняя вещь.
+line-681,挑山人,听说......,I hear...,Слышал...
+line-686,杜小姐,爹！尚师傅！,Dad! Master Shang!,Папа! Мастер Шан!
+line-688,郑掌柜,怎么了，冒冒失失的......,What are you charging in here about...?,"В чем дело, что за суета..."
+line-690,杜小姐,我决定了！我和那些年轻人都谈好了！,I've decided! Me and the guys all talked it through!,Я решила! Я обо всем договорилась с ребятами!
+line-691,杜小姐,我们去玉门！,We're going to Yumen!,Мы отправляемся в Юймэнь!
