@@ -1,0 +1,374 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act26side
+__chapter__,,Chapter Name,activities/act26side/level_act26side_st01,奉上冠冕
+,,,,
+char-1,教宗骑士,教宗骑士,Apostolic Knight,Рыцарь Папы
+char-2,伊万杰利斯塔十一世,伊万杰利斯塔十一世,Yvangelista XI,Ивангелист XI
+char-3,快乐的拉特兰人,快乐的拉特兰人,Joyous Lateran,Веселый латеранец
+char-4,精神的拉特兰人,精神的拉特兰人,Spirited Lateran,Бодрый латеранец
+char-5,？？？,？？？,???,???
+char-6,费德里科,费德里科,Federico,Федерико
+char-7,万国信使,万国信使,Legatus,Посланник народов
+char-8,修士,修士,Cleric,Монах
+char-9,消瘦的老人,消瘦的老人,Gaunt Old Man,Худой старик
+char-10,阿尔图罗,阿尔图罗,Arturia,Артуро
+char-11,修道院主教,修道院主教,Abbot,Епископ монастыря
+char-12,沧桑的猎户,沧桑的猎户,Weathered Hunter,Пожилой охотник
+char-13,瘦削的修道院居民,瘦削的修道院居民,Gaunt Monastery Inhabitant,Худой житель монастыря
+char-14,杰拉尔德,杰拉尔德,Gerald,Джеральд
+char-15,强壮的青年,强壮的青年,Bulky Youth,Крепкий юноша
+char-16,莱蒙德,莱蒙德,Raimund,Раймонд
+char-17,温和的教士,温和的教士,Gentle Priest,Мягкий священник
+char-18,“进食的黑影”,“进食的黑影”,'Devouring Shadow',«Пожирающая тень»
+char-19,萨科塔少女,萨科塔少女,Sankta Girl,Девушка санката
+char-20,消瘦的男人,消瘦的男人,Gaunt Man,Худой мужчина
+char-21,福尔图娜,福尔图娜,Fortuna,Фортуна
+char-22,克莱芒,克莱芒,Clément,Клеман
+char-23,严肃的少女,严肃的少女,Solemn Girl,Серьезная девушка
+char-24,德尔菲娜,德尔菲娜,Delfina,Дельфина
+char-25,里凯莱,里凯莱,Richele,Рикеле
+char-26,斯普莉雅,斯普莉雅,Serpilia,Сприя
+,,,,
+line-9,,人们都说，拉特兰是一座乐园。,They say Laterano is Paradise.,"Все говорят, что Латерано — это земной рай."
+line-10,,这里自由，欢乐，富有秩序，是纷乱的世间为数不多的净土。,"A land of freedom, happiness and order, one of the few left in this chaotic world.","Здесь царят свобода, радость и порядок; это одна из немногих тихих гаваней в нашем неспокойном мире."
+line-11,,孩子，你可曾对此抱有任何怀疑？,"Have you ever known doubt, my child?","Дитя моё, сомневался ли ты когда-нибудь в этом?"
+line-12,,我们的圣城，这座城市如何建立，如何维系，如何发展延绵。,"How was our city built, how did it grow, and how did it prosper?","Как был основан наш Святой город, как он поддерживается и как он продолжает развиваться?"
+line-13,,为何拉特兰独一无二，为何拉特兰被颂为世间净土，千年乐园？,Why is there only one Laterano? Why is it called the eternal paradise?,"Почему Латерано уникален, почему его восхваляют как тихую гавань мира, как тысячелетний рай?"
+line-14,,孩子，你可曾想过，倘若大地上的战火重燃，和平一朝崩毁——,"If the fires of war burn once more, and peace falls into ruin before our eyes—","Дитя моё, задумывался ли ты, что будет, если пламя войны вновь охватит землю и мир рухнет в одночасье —"
+line-15,,世间可还容许一座乐园独存？,Will the world continue to tolerate Paradise?,сможет ли в этом мире уцелеть хоть один рай?
+line-21,,危机。,Danger.,Кризис.
+line-25,,重复警告。,Repeat.,Повторное предупреждение.
+line-29,,危机。,Danger.,Кризис.
+line-48,,......危机等级......评估中......,...Danger level... Analyzing...,……Уровень кризиса…… оценивается……
+line-49,,\n\n最高级......,\n\nMaximum.,Максимальный……
+line-50,,\n\n自动运行推演程序。,\n\nDeploying simulation sequence.,Запуск автоматической программы моделирования.
+line-51,,\n\n推演失败。,\n\nSimulation failed.,Моделирование не удалось.
+line-52,,\n\n启动紧急应对机制。,\n\nActivating emergency response mechanism.,Запуск механизма экстренного реагирования.
+line-53,,\n\n现输出适格人员名单......,\n\nOutputting suitable personnel list...,Вывод списка соответствующих лиц……
+line-54,,\n\n......,\n\n......,……
+line-73,教宗骑士,教宗阁下，人都到齐了。,"They are here, Your Holiness.","Ваше Святейшество, все собрались."
+line-75,伊万杰利斯塔十一世,辛苦你了。,Very well.,Благодарю за усердие.
+line-77,教宗骑士,您真的决定了吗？除历代教宗会被授封圣徒外，之前从来没有这样的先例，如此决定恐怕会有些太冒险......,"Are you sure about this? There is no precedent for it, aside from the canonization of the popes. It's risky.","Вы уверены в своём решении? Помимо понтификов прошлых лет, которых канонизировали, таких прецедентов не было. Это решение кажется слишком рискованным…"
+line-79,伊万杰利斯塔十一世,如你所说，我翻遍了所有典籍，遍观我们千年来的记录，从没有类似的记载。,You are correct. I could find no such record in our millennium of history.,"Как ты и сказал, я просмотрел все летописи, все записи за наше тысячелетие, и подобных случаев не было."
+line-80,伊万杰利斯塔十一世,但不必担忧，这并非值得忧虑之事。,But that is of no concern.,"Но не волнуйся, это не то, о чём стоит беспокоиться."
+line-81,伊万杰利斯塔十一世,恐怕值得思虑的，是我得到的那份警示。,What <i>is</i> of concern is the warning I received.,"Куда больше стоит задуматься о предупреждении, которое я получил."
+line-83,教宗骑士,您所说的警示，具体是什么内容？,"What is it about, specifically?",О каком именно предупреждении вы говорите?
+line-85,伊万杰利斯塔十一世,我很想坦诚地回答你的问题，但很可惜，我办不到。,"I would answer your question honestly, if I could.","Я бы хотел дать тебе честный ответ, но, увы, не могу."
+line-86,伊万杰利斯塔十一世,闪耀在我们头顶的信仰向我预警，让我们得知危机将至，但究竟是何种危机，它将如何到来，无人知晓。,"Our glowing faith has warned us that danger is near. But no one knows what it is, or how it will arrive.","Вера, сияющая над нами, предупредила меня о том, что грядёт кризис. Но что это за кризис и как он придёт — никому не ведомо."
+line-88,伊万杰利斯塔十一世,我只见到一份名单，数个人名......,I only see a list of names.,"Я увидел лишь список, несколько имён…"
+line-90,伊万杰利斯塔十一世,上面的头一位，就是我们今天的主角。,First on the list is the main character of today's performance.,И самое первое имя в нём — наш сегодняшний герой.
+line-92,教宗骑士,因此您才提出要给那小子圣徒的名号？,That's why you proposed canonizing him?,Поэтому вы предложили присвоить этому юнцу титул святого?
+line-93,教宗骑士,即便如此，也可以换个头衔，“圣徒”......还是太特殊，太重了。不论如何，这可是最初建立拉特兰城的圣人们才能有的称谓！,"Still the title of 'Saint' is special, reserved for the holy ones who built Laterano.","Даже в таком случае можно было выбрать другой титул. «Святой»… это слишком особый, слишком тяжкий груз. В конце концов, это звание носили лишь те, кто заложил основы Латерано!"
+line-95,伊万杰利斯塔十一世,啊，我记得我也有此头衔。,I hold the same title.,"Ах, если я не ошибаюсь, я ведь тоже ношу этот титул."
+line-97,教宗骑士,这、这如何能相提并论！您是教宗！,"Th-That's different! You're the Pope, sir.",Э-это нельзя сравнивать! Вы — Папа!
+line-98,教宗骑士,您现在相当于给出一份不小的权力。自此之后，他将有权参与诸多事务，甚至影响决策......这绝非小事！,"You're conceding a significant amount of power. He will have the right to participate in a multitude of matters, even policy-making... this is no small thing!","Вы сейчас фактически даруете ему немалую власть. С этого момента он получит право участвовать во многих делах, даже влиять на принятие решений… Это совсем не мелочь!"
+line-100,伊万杰利斯塔十一世,别这么紧张，吉奥瓦尼，有时我们需要一点小小的冒险。,"Easy, Giovanni. Nothing ventured, nothing gained.","Не будь таким напряженным, Джованни. Иногда нам нужно немного рискнуть."
+line-101,伊万杰利斯塔十一世,对了，我刚刚是不是说过，我得到的那份名单上可不止有一个人名。,"And, as I said, there is more than one name on the list.","Кстати, разве я не упоминал, что в полученном мною списке имён больше, чем одно?"
+line-103,教宗骑士,什么？难道您想把那些人全部封为圣徒......？！,What? Are you proposing that all of them be canonized?!,"Что? Вы что, хотите канонизировать их всех…?!"
+line-104,教宗骑士,胡闹......我是说，这不合规矩！,"That's absu—I mean, against the rules!","Безумие… Я хотел сказать, это не соответствует правилам!"
+line-106,伊万杰利斯塔十一世,别急于否定，吉奥瓦尼。首先我们得把人都找到才行。,"Don't be so quick to judge, Giovanni. We need to find them first.","Не спеши с отрицанием, Джованни. Сначала нам нужно их найти."
+line-107,伊万杰利斯塔十一世,对啦，我在上面看到了不少我们都熟悉的朋友的名字。你可知这份名单上还有谁？,I saw some familiar names. Do you know who's on it?,"К слову, я увидел там имена многих наших знакомых друзей. Знаешь, кто ещё есть в этом списке?"
+line-109,教宗骑士,毫无头绪。,No idea.,Понятия не имею.
+line-111,伊万杰利斯塔十一世,哦，既然你猜不到，那我就多保持一些神秘感。,"In that case, I'll let it remain a secret for a little longer.","О, раз ты не догадываешься, я предпочту сохранить немного таинственности."
+line-112,伊万杰利斯塔十一世,吉奥瓦尼。,Giovanni.,Джованни.
+line-113,伊万杰利斯塔十一世,我想，等这次仪式结束后，我就该动身去拜访这些朋友了。,I think I'll visit these friends after the ceremony.,"Думаю, после окончания этой церемонии мне пора отправиться в путь, чтобы навестить этих друзей."
+line-125,快乐的拉特兰人,嚯，这儿怎么放了这么多气球？,Why are there so many balloons?,"Хо, откуда здесь столько воздушных шаров?"
+line-126,快乐的拉特兰人,前边那条街还有苹果派投掷大赛，满地都是苹果派，害得我只能绕路走......今天是什么好日子？,There's even a pie throwing competition on that street up ahead. I had to take a detour because of all the pies on the ground... is there some sort of festival on?,"На соседней улице ещё проходит турнир по метанию яблочных пирогов, весь пол завален пирогами, пришлось идти в обход… Что сегодня за праздник?"
+line-128,精神的拉特兰人,不知道啊！好像是有什么仪式吧，具体的我就不清楚了。,"No idea. Heard it's a ceremony or something, but I don't know the specifics.","Не знаю! Кажется, какая-то церемония, но точно не скажу."
+line-129,精神的拉特兰人,不过管它呢，有活动就好好享受呗，咱们哪天不是这么过的，想那么多干嘛！,"Who cares, at the end of the day? Let's just enjoy the occasion, like we always do.","Да какая разница? Раз есть праздник, надо наслаждаться. Мы же всегда так живём, зачем забивать голову лишним?"
+line-130,精神的拉特兰人,你说，这些气球绑在身上，能把我带上天不？,"Say, do you think I could fly if I tied myself to these balloons?","Как думаешь, если привязать эти шары к себе, они унесут меня в небо?"
+line-132,快乐的拉特兰人,美得你，就你那体重，再减二十斤也上不去吧！,"You don't have a prayer, even if you lost twenty pounds.","Размечтался, при твоём-то весе! Даже если скинешь ещё десять кило, всё равно не взлетишь!"
+line-134,精神的拉特兰人,别这么说嘛！我可以把外套脱了再试试，反正今天也不怎么冷......,Don't say that! Maybe I could take off my jacket. It's a pretty warm day...,"Не говори так! Могу снять куртку и попробовать, всё равно сегодня не так уж холодно…"
+line-135,精神的拉特兰人,快看！又有新的气球放出来了！,"Hey, look, new balloons!",Смотри! Выпускают новые шары!
+line-136,精神的拉特兰人,......不行！帮我拿一下衣服，我一定要试试！,"Here, hold my jacket, I've <i>got</i> to try this!","……Нет! Подержи мою одежду, я обязан попробовать!"
+line-141,快乐的拉特兰人,哎，你！小心点啊！,Hey! Be careful!,"Эй, ты! Будь осторожнее!"
+line-152,精神的拉特兰人,吼哟哟哟哟——！真的、真的飞起来了！,Whoooooooa! I'm flying!,"О-го-го-го —! Я правда, правда лечу!"
+line-153,精神的拉特兰人,好高啊......！等会，怎么还在往上升？,"Hey, how do I stop climbing?","Как высоко…! Погоди, почему я продолжаю подниматься?"
+line-154,精神的拉特兰人,不行了！我、我好像有点恐高！,Oh no! I forgot I'm scared of heights!,"Всё, хватит! Я, кажется, боюсь высоты!"
+line-156,？？？,借过。,Pardon.,Прошу прощения.
+line-158,快乐的拉特兰人,哎！那边的小哥！别走......帮帮忙！,Hey! Don't go! Help!,"Эй! Парень, что там стоит! Не уходи… помоги!"
+line-162,？？？,嗯？,Hm?,М?
+line-164,精神的拉特兰人,救命！让我、让我下来！,Help! Let me down!,"Спасите! Снимите, снимите меня отсюда!"
+line-173,费德里科,可以。,Alright.,Хорошо.
+line-189,精神的拉特兰人,哎哟！,Ouch!,Ой!
+line-190,精神的拉特兰人,摔死我了......多谢你啊，小哥。,"Man, that hurt... but thanks.","Чуть не разбился… Спасибо тебе, парень."
+line-191,精神的拉特兰人,对了，我的气球......,My balloons...,"Кстати, мои шары…"
+line-193,精神的拉特兰人,啊！我的气球怎么全炸了！小哥，你下手也太狠了一点吧！,You popped them all? Did you really have to be so cruel?,"А! Почему все мои шары лопнули! Парень, ты действовал слишком жестоко!"
+line-195,费德里科,根据现场情况判断，这是最合理的方式。,"It was the logical solution, given the circumstances.","Исходя из ситуации, это был самый рациональный способ."
+line-197,精神的拉特兰人,话是这么说......唉，就不能给我留两个气球嘛。,I guess... but couldn't you have left me a couple?,"Сказать-то легко… эх, неужели нельзя было оставить пару штук."
+line-199,快乐的拉特兰人,少唉声叹气了，人家那也是为了把你给弄下来！这位帅哥，你别理他！,"He got you down, stop whining. Don't mind this idiot, sir.","Хватит вздыхать, человек лишь помог тебе спуститься! Красавчик, не обращай на него внимания!"
+line-200,快乐的拉特兰人,帅哥，你这身衣服在哪定做的？怪帅气的。,Where did you get that outfit? It looks cool.,"Красавчик, где ты заказывал этот прикид? Выглядит очень стильно."
+line-202,费德里科,我不清楚。,I can't say.,Не знаю.
+line-204,快乐的拉特兰人,啊？这还能不清楚？难道是别人送的？,What do you mean? Was it a gift?,А? Как это «не знаю»? Неужели подарили?
+line-206,精神的拉特兰人,我看着像是工作服，这款式还有那么点眼熟......,Looks like a work uniform. There's something familiar about it...,"На вид как рабочая униформа, фасон кажется таким знакомым…"
+line-208,快乐的拉特兰人,在哪干活能领到这么帅的工作服啊？我现在就去投简历！,Where do you get a uniform like that? I'm applying!,"Где нужно работать, чтобы выдавали такую крутую форму? Пойду прямо сейчас резюме подам!"
+line-210,费德里科,......不确定是否为标准工作服饰。,...I'm not sure it's a standard uniform.,"……Не уверен, что это стандартная униформа."
+line-211,费德里科,如有意，请持简历前往教皇厅进行投递。,You can submit your curriculum vitae to the Curia.,"Если есть желание, пожалуйста, подайте резюме в Папский дворец."
+line-224,伊万杰利斯塔十一世,“......他们带领萨科塔，他们建起城市，称之为拉特兰。”,'....They led the Sankta. They built a city and named it Laterano.',"«……Они повели санката, они возвели город и назвали его Латерано»."
+line-225,伊万杰利斯塔十一世,“而当灾难再次逼近，将有新的启示落在萨科塔中，新的领路人随之而现，指引众人......”,"'And when disaster looms once more, a new revelation shall dawn upon the Sankta, and a new guide shall lead forth...'","«И когда беда вновь приблизится, к санката придет новое откровение, явится новый путеводитель, который наставит людей на путь…»"
+line-226,伊万杰利斯塔十一世,“在世人见证之下，萨科塔的乐园将矗立不朽。”,"'The Paradise of the Sankta shall remain eternal, as witnessed by the world.'",«На глазах у мира рай санката будет стоять незыблемо».
+line-231,万国信使,我等在此见证。,We bear witness.,"Мы здесь, чтобы засвидетельствовать это."
+line-234,教宗骑士,我等在此见证。,We bear witness.,"Мы здесь, чтобы засвидетельствовать это."
+line-237,修士,我等在此见证。,We bear witness.,"Мы здесь, чтобы засвидетельствовать это."
+line-247,伊万杰利斯塔十一世,——好了，仪式就到此为止。,"Ite, missa est.","— Что ж, на этом церемония окончена."
+line-249,伊万杰利斯塔十一世,抬起头吧，我的孩子。,"You can raise your head now, my child.","Подними голову, дитя моё."
+line-250,伊万杰利斯塔十一世,......不，至少在眼下的这个场合，我们该换一个称呼了。,No... a different name is appropriate here.,"……Нет, по крайней мере в нынешней обстановке нам следует сменить обращение."
+line-251,伊万杰利斯塔十一世,请抬起头，站到我身边来吧。拉特兰城建立千年以来，历任教宗外的首位受选者——圣徒，费德里科·吉亚洛。,"Raise your head and stand by my side, Saint Federico Giallo, the first Chosen of Laterano who does not come from the ranks of the popes.","Пожалуйста, подними голову и встань рядом со мной. Спустя тысячу лет после основания Латерано, первый, помимо пап, избранный — святой, Федерико Джалло."
+line-262,费德里科,......,......,……
+line-264,伊万杰利斯塔十一世,你看起来兴致不高，是因为外面的那些气球不合你的喜好？,A measured reaction. Not a fan of the balloons?,Ты выглядишь не особо воодушевленным. Тебе не нравятся те воздушные шары снаружи?
+line-266,费德里科,我不明白。,I don't understand.,Я не понимаю.
+line-268,伊万杰利斯塔十一世,嗯？,Hm?,М?
+line-270,费德里科,圣徒的具体职责是什么？所谓将至的“灾难”是什么？是否需要立即针对此事采取行动？,What is the duty of a Saint? What is the disaster that looms? Does it call for immediate action?,В чём заключаются конкретные обязанности святого? Что это за грядущая «беда»? Нужно ли немедленно принимать меры?
+line-271,费德里科,我需要了解“灾难”的详情。我将依据具体情况制订作战方案。,I need to know the details in order to formulate a plan.,Мне нужно узнать подробности о «беде». Я разработаю план действий в зависимости от обстоятельств.
+line-273,伊万杰利斯塔十一世,正当的质疑。但恐怕我无法回答你的问题，孩子。,"An appropriate question, but not one I am able to answer.","Справедливый вопрос. Но боюсь, я не могу ответить на него, дитя моё."
+line-274,伊万杰利斯塔十一世,我得到的警示直接却也难解，它并未给出一个明确的答案。,The warning I received was as cryptic as it was direct. It does not provide for a specific answer.,"Полученное мною предупреждение было прямым, но сложным для понимания, в нём не было чёткого ответа."
+line-275,伊万杰利斯塔十一世,一个时代总要面对种种波折与磨难，我们只能尽可能地提前去做准备。可以确定的是，它确实选中了你，认为你有能力应对未知的灾厄。,"Each era has its own trials and tribulations, for which we can only prepare to the best of our ability. It is certain, however, that you have been chosen because It believes that you have the ability to respond to the unknown.","Эпоха всегда сталкивается с различными превратностями и трудностями, и мы можем лишь стараться подготовиться заранее. Одно можно сказать наверняка: оно выбрало именно тебя, посчитав, что ты способен справиться с неизвестной угрозой."
+line-277,费德里科,......我不能理解。,...I don't understand.,……Я не могу этого понять.
+line-279,伊万杰利斯塔十一世,不必急于一时，我们应当还有一些时间。,There is no hurry. We have time.,"Не торопись. Думаю, у нас ещё есть немного времени."
+line-280,伊万杰利斯塔十一世,至于现在，我们可以聊一点更应景的，比如说......费德里科，我认为这一身很适合你。,"Right now, there are other things we can talk about... this garb suits you, Federico.","А сейчас давай поговорим о чём-то более уместном. Например… Федерико, думаю, этот наряд тебе к лицу."
+line-281,伊万杰利斯塔十一世,几位枢机可是为这次的服装剪裁和配色决斗了好几回，现在看来一切都是值得的。,Makes all the cardinals' bickering over the cut and color worthwhile.,"Несколько кардиналов устроили целую дуэль из-за фасона и цвета одежды. Теперь я вижу, что всё это было не зря."
+line-283,费德里科,这并不属于枢机的工作内容。,I didn't think that was a cardinal's duty.,Это не входит в обязанности кардиналов.
+line-285,伊万杰利斯塔十一世,别这么严格，大家都会忍不住对一些自己感兴趣的事儿投以关注。,Let's not be so strict. People can't help but focus on that which draws their interest.,"Не будь таким строгим. Все не могут удержаться, чтобы не уделить внимание тому, что их интересует."
+line-286,伊万杰利斯塔十一世,我看过你的工作履历，费德里科，能看得出你是一个优秀的执行者，非常优秀。,"I've seen your resume, Federico. I can tell that you are an outstanding executor.","Я читал твой послужной список, Федерико. Видно, что ты — превосходный исполнитель. Очень превосходный."
+line-287,伊万杰利斯塔十一世,你并不如许多人一样，被戒律所束缚，视许多行为为禁忌，是吗？,"The Commandments do not bind your thoughts as they do others, eh?","Ты не связан догмами, как многие другие, не считаешь многие вещи табу, верно?"
+line-289,费德里科,如果有需要，禁忌可以被打破。,"Rules can be broken, if necessary.","Если возникнет необходимость, табу можно нарушить."
+line-291,伊万杰利斯塔十一世,当然，我不反对这样的想法。,Of course. I can't bring myself to disagree.,"Разумеется, я не против такого образа мыслей."
+line-292,伊万杰利斯塔十一世,你对事物有自己的判断标准，所以你总是能很好地完成任务，尽管有时会有些出格。,"You judge matters by your own standards. That is why you always carry out your missions effectively, if somewhat unorthodoxly.","У тебя есть свои критерии оценки вещей, поэтому ты всегда отлично справляешься с задачами, пусть иногда и немного выходя за рамки."
+line-293,伊万杰利斯塔十一世,唔，这里有一项任务，我本打算亲自走一趟，却不巧急务缠身......现在看来，或许我有了一个新的人选。,"I have a mission for you. I had intended on going myself, but there are other matters that require my attention... now, I've found someone who can go in my stead.","Гм, у меня есть задание. Я планировал отправиться лично, но, к несчастью, срочные дела не отпускают… Сейчас, похоже, у меня появился новый кандидат."
+line-294,伊万杰利斯塔十一世,这不是一件轻松的活计，任务的情况或许会十分复杂，会超出我们现有的想象，会与你之前执行的任务都不相同。,"It will not be an easy task. Expect unexpected complications, the likes of which you have never seen.","Это непростая работа. Ситуация может оказаться крайне сложной, выйти за рамки наших нынешних представлений и отличаться от всех задач, что ты выполнял раньше."
+line-296,伊万杰利斯塔十一世,但我相信你可以处理。我希望能看到......祂选择你的理由。,But I believe you are up to it. I want to see why He chose you.,"Но я верю, что ты справишься. Я надеюсь увидеть… причину, по которой Он выбрал тебя."
+line-297,伊万杰利斯塔十一世,费德里科，我希望你能代替我走一趟。,"Will you go, Federico?","Федерико, я хочу, чтобы ты отправился вместо меня."
+line-299,费德里科,收到，执行者费德里科确认任务。,"Executor Federico, ready for assignment.",Принято. Исполнитель Федерико подтверждает получение задания.
+line-300,费德里科,请说。,What is your command?,Слушаю.
+line-310,消瘦的老人,你在看什么，阿尔图罗？,"What are you looking at, Arturia?","Что ты разглядываешь, Артуро?"
+line-311,阿尔图罗,看这些花，阁下。,"The flowers, Excellency.","Смотрю на эти цветы, Ваше Превосходительство."
+line-312,阿尔图罗,整座修道院只有这里有。我很幸运能赶上花期，这样美丽的景色值得好好欣赏。,This is the only place in the monastery where they grow. I'm glad I made it in time for bloom season. It's a view worth savoring.,"Во всём монастыре они есть только здесь. Мне очень повезло застать время их цветения. Такая красота заслуживает того, чтобы ею наслаждаться."
+line-313,消瘦的老人,......克莱芒听到你这么说会很高兴的。,Clément would be happy to hear it.,"……Клеман был бы рад, услышав это."
+line-327,消瘦的老人,已经很久没人会特地来看他照顾的这些花了，原本这修道院里到处都是花圃......,It has been a long time since anyone came to see the flowers that he cared for. They used to grow all around the abbey.,"Давно уже никто не приходил специально посмотреть на цветы, за которыми он ухаживает. Когда-то здесь, в монастыре, повсюду были клумбы…"
+line-328,消瘦的老人,现在也只剩下你眼前这些。,This is all that is left.,"Теперь остались только те, что перед тобой."
+line-330,阿尔图罗,真令人惋惜。我听说这些花中蕴藏着某种美好的寓意。,A shame. I understand there is a beautiful story behind them.,"Как прискорбно. Я слышала, в этих цветах заключён некий прекрасный смысл."
+line-332,消瘦的老人,曾经有过。,There was.,Когда-то был.
+line-334,阿尔图罗,那么现在如何？,What about now?,А что теперь?
+line-336,消瘦的老人,......或许还有。可我的眼已经花了，赏花对我来说已不再是一种纯粹的享受。阿尔图罗，我太老了，在这里活得太久了。,"Perhaps there still is. But my eyes have grown weak. Flowers are no longer pure enjoyment for me. I've grown too old, spent too much time here.","……Может, и остался. Но мои глаза уже помутились, любование цветами для меня — больше не простое наслаждение. Артуро, я слишком стар и слишком долго здесь прожил."
+line-337,消瘦的老人,现在我只知道，就像你的琴声虽能抚平伤痛，却无法抵御衰老一样，花填不饱任何人的肚子。,"Flowers cannot fill an empty stomach, just as your music can soothe pain but not avert aging.","Теперь я знаю лишь одно: как и звуки твоей лютни, что смягчают боль, но не могут противостоять старению, цветы не насытят никого."
+line-338,消瘦的老人,我并非没有设想过，事情不会尽如人意。或许，从我们的求援信送达拉特兰起，今日的局面便已注定。,I know things don't always go according to plan. Perhaps this was inevitable the moment our call for help reached Laterano.,"Я не то чтобы не предполагал, что всё сложится не лучшим образом. Быть может, с того самого момента, как наше письмо с просьбой о помощи достигло Латерано, нынешнее положение дел было предопределено."
+line-340,消瘦的老人,如今......,Now...,Теперь же…
+line-341,消瘦的老人,只剩苦果。,Only the bitter fruit remains.,Остались лишь горькие плоды.
+line-343,阿尔图罗,唔，苦果。连尾音都像是能在舌尖留下一点挥不散的苦涩，我并不讨厌这种滋味。,"Bitter fruit. Even the name itself leaves a bitterness on the tip of the tongue that does not go away. I rather like it, actually.","М-м, горькие плоды. Даже оттенок звука оставляет на языке некую горечь, которая никак не проходит. Мне не претит этот вкус."
+line-344,阿尔图罗,以我的经验来看，贫瘠的土地上往往难以结出甜美的果实。,Poor soil does not bear sweet fruit.,"По моему опыту, на бесплодных землях редко вырастают сладкие плоды."
+line-346,消瘦的老人,......贫瘠。是啊，多贫瘠的一片土地。,"Poor soil. Yes, poor soil.","……Бесплодных. Да, какая бесплодная земля."
+line-347,消瘦的老人,这样贫瘠的地方，却是我们这些人的家。,But it's home for people like us.,"Такое бесплодное место, но оно — дом для всех нас."
+line-348,消瘦的老人,我曾以为，我们这些人能够找到一种更好的、更安稳的生活。,"I thought we would find a better, more peaceful life.","Я думал, что мы сможем найти жизнь лучше, более спокойную."
+line-349,消瘦的老人,我们有足以遮风避雨的堡垒，我们的信仰坚不可摧，我们对平静生活的向往胜过对故土的思念。,"We had walls that protected us from wind and rain, we had faith unwavering. Our longing for a peaceful life won out over our longing for home.","У нас есть крепости, укрывающие от ветра и дождя, наша вера непоколебима, а стремление к спокойной жизни сильнее тоски по родине."
+line-350,消瘦的老人,剩下的无非就是远离纷争，找到一个安静的角落，平静地活下去。,All that was left was to find a quiet corner of the world where we could live in peace.,"Оставалось лишь держаться подальше от раздоров и найти тихий уголок, чтобы жить в мире."
+line-352,消瘦的老人,可现在......,But now...,Но теперь…
+line-355,,老人枯瘦的面部细微地抽动。,The old man's emaciated face twitches slightly.,Лицо старика мелко подергивается.
+line-356,,像是正调动着力量，在松垮的皮下艰难地与要将人压垮的东西奋力撕扯，将要说出口的话被一串咳嗽，以及风箱破漏般的哮鸣取代。,It is as though he is mustering the strength to tear apart that which threatens to crush him beneath his loose skin. His words are replaced by a string of coughs and gasps.,"Словно мобилизуя остатки сил, под дряблой кожей он отчаянно борется с тем, что пытается его раздавить, и невысказанные слова сменяются приступом кашля и хрипами, похожими на дырявые кузнечные мехи."
+line-358,消瘦的老人,自那之后过了多少年？五十年，六十年......还是更久？,How many years has it been? Fifty? Sixty? More?,"Сколько лет прошло с тех пор? Пятьдесят, шестьдесят… или дольше?"
+line-359,消瘦的老人,自海洋的灾难爆发，我们拒绝审判庭的要求并离开伊比利亚，好几代人生活在这里......我看着孩子们出生，看着他们被埋葬。,"When disaster came from the sea, when we rejected the Inquisition's demands and left Iberia to settle here... I've seen children born, and then buried those same children.","С момента катастрофы в море мы отвергли требования Инквизиции и покинули Иберию, и вот уже несколько поколений живёт здесь… Я видел, как рождались дети, и видел, как их хоронили."
+line-360,消瘦的老人,而今，生活已成一件难事。,Life has become hard.,Теперь же жизнь стала испытанием.
+line-362,阿尔图罗,生活一向艰难。,Life is always hard.,Жизнь всегда была трудной.
+line-364,消瘦的老人,是啊。是啊......,"Yes, you're right...",Да. Да…
+line-365,消瘦的老人,看看现在还活着的人吧。我已经分不清了，他们是哪里的人？,Look at the living. To where do they belong? I can't tell.,"Посмотри на тех, кто ещё жив. Я уже не могу понять, откуда они?"
+line-366,消瘦的老人,他们属于伊比利亚，还是拉特兰？,"Are they of Iberia, or of Laterano?",Они принадлежат Иберии или Латерано?
+line-367,消瘦的老人,我们走得太久，走得太远......,We've come too far in too long...,"Мы ушли так далеко, и шли так долго…"
+line-369,消瘦的老人,......,......,……
+line-370,消瘦的老人,阿尔图罗。,Arturia.,Артуро.
+line-371,消瘦的老人,跨过这样的岁月，我是否还是一个拉特兰人？,"Am I still a Lateran, after all these years?","Пройдя сквозь такие годы, остаюсь ли я всё ещё латеранцем?"
+line-373,阿尔图罗,这个问题只有您自己能回答，斯特凡诺·托雷格罗萨主教阁下。,"Only you know the answer, Abbot Stefano Torregrossa.","На этот вопрос можете ответить лишь вы сами, Епископ Стефано Торрегросса."
+line-375,修道院主教,我希望自己还是。,I hope I still am.,"Надеюсь, что остаюсь."
+line-377,阿尔图罗,那么您就依然还是。,Then you are.,"Значит, вы всё ещё остаётесь."
+line-379,修道院主教,......你说的都是事实，阿尔图罗。,"You spoke the truth, Arturia.","……Всё, что ты говоришь — правда, Артуро."
+line-380,修道院主教,你不必再试探我的想法。,There's no need to test me anymore.,Тебе не нужно больше испытывать мои мысли.
+line-382,阿尔图罗,这是个误会，我绝无要探寻阁下隐私的想法。,A misunderstanding. I never intended to probe your secrets.,Это недоразумение. У меня и в мыслях не было посягать на вашу частную жизнь.
+line-384,修道院主教,我允许你在此处停留，只因这里不拒绝任何不怀恶意之人。,I permitted you to stay because these doors are open to all who bear no ill intentions.,"Я позволяю тебе оставаться здесь лишь потому, что здесь не отказывают тем, кто не питает зла."
+line-385,修道院主教,但是阿尔图罗，我也始终不知你所求。,"But I still don't know what you are seeking, Arturia.","Но Артуро, я всё ещё не понимаю, чего ты ищешь."
+line-387,阿尔图罗,如果我说我确实别无所求？,What if I said I seek nothing?,"А что, если я скажу, что мне действительно больше ничего не нужно?"
+line-389,修道院主教,......,......,……
+line-391,阿尔图罗,看来阁下并不相信。,I take it you don't believe it.,"Похоже, вы мне не верите."
+line-392,阿尔图罗,那么这样说吧，请您不要在意我，我可以承诺绝不会干涉这里的任何事，当然，也不会干扰您做任何决定。,"Then let me put it this way. Pay no heed to me. I promise I will not interfere with anything here, nor with your decisions.","Тогда скажем так: пожалуйста, не обращайте на меня внимания. Я обещаю, что никогда не буду вмешиваться ни в какие здешние дела, и, разумеется, не стану мешать вам принимать любые решения."
+line-393,阿尔图罗,我不过是一名旅人，被这里的故事吸引而驻足，祈祷着能看到一个完美的结局。,"I'm simply a traveler, drawn to this place by the stories here, praying that the ending is a good one.","Я просто путник, привлечённый здешними историями, и молюсь, чтобы увидеть идеальный финал."
+line-394,阿尔图罗,需要我指着光环发誓吗？,Should I swear in the name of my halo?,"Хотите, чтобы я поклялся своим нимбом?"
+line-396,修道院主教,你是个狡猾的人，阿尔图罗。,"You're a cunning one, Arturia.","Ты хитрый человек, Артуро."
+line-397,修道院主教,......但我相信你的语言。,But I believe your words.,……Но я верю твоим словам.
+line-400,,老人再度沉默。,The old man falls silent again.,Старик снова умолкает.
+line-401,,人老去后是否都会显得干瘪僵硬？曾受人喜爱的每一根面部线条，都散发出沉沉暮气。,"Do all who grow old grow dry and stiff? The lines on his face, once so beloved, now cast only lethargy.",Все ли стареющие люди становятся такими сухими и жёсткими? Каждая когда-то любимая черта лица теперь источает глубокий упадок.
+line-402,,双眼从清澈变得浑浊，蒙上阴翳，看着这双眼睛，就好像看遍此处几十年的光阴。,The eyes have become clouded by the decades that they have seen.,"Глаза из ясных превращаются в мутные, покрываясь пеленой. Смотря в эти глаза, словно видишь всю историю этого места за десятилетия."
+line-403,,那张脸原本应该显得更柔和，更和善，更加像一个拉特兰人。,"The face should have been warmer, gentler, more Lateran.","То лицо должно было выглядеть мягче, добрее, больше походить на лицо латеранца."
+line-407,修道院主教,这几十年间，圣城从未对我们有所回应，但我无一日放弃祈祷。,"The Holy City never answered, all these years, but I never stopped praying.","За все эти десятилетия Святой город ни разу не ответил нам, но я ни на день не прекращал молиться."
+line-408,修道院主教,我的信仰教我友爱，却从未教我要放弃我们的兄弟姐妹，我们忠诚的朋友。,"My faith taught me to love, to be kind. It did not teach me to abandon our brothers and sisters, our loyal friends.","Моя вера учит меня любви к ближнему, но никогда не учила бросать наших братьев и сестер, наших верных друзей."
+line-409,修道院主教,可若要舍弃少数，而令大多数幸福......,To abandon the few for the happiness of the many...,Но если ради счастья большинства нужно пожертвовать меньшинством…
+line-411,阿尔图罗,若我是一名虔诚的信徒，便会认为这是背叛。可耻的背叛。,The devoted would call it a shameful betrayal.,"Если бы я был истово верующим, то счёл бы это предательством. Позорным предательством."
+line-412,阿尔图罗,您是这样想的吗？,Do you?,Вы так считаете?
+line-414,修道院主教,......我不能回答你，阿尔图罗。,"I don't have that answer, Arturia.","……Я не могу тебе ответить, Артуро."
+line-416,修道院主教,若信仰背叛了其自身，其信徒又该何去何从？,"Where does the believer go, if faith has betrayed itself?","Если вера предаёт сама себя, куда должен идти верующий?"
+line-431,沧桑的猎户,东西就放在这了。,Here's the stuff.,Всё лежит здесь.
+line-432,沧桑的猎户,之后找几个小伙子来，尽快都处理好，应该能存上一个冬天。,Get it salted and dried quickly. It should last the winter.,"Потом найдите ребят, чтобы всё поскорее обработали, должно хватить на всю зиму."
+line-434,瘦削的修道院居民,哎，行，我一会就去喊人来！,I'll get someone on it!,"Эй, хорошо, сейчас пойду соберу народ!"
+line-435,瘦削的修道院居民,太好了，有了这些肉食，应该就还能再撑一撑......,Gratias. This meat will buy us some time...,"Здорово, с этим мясом мы должны ещё немного продержаться…"
+line-437,沧桑的猎户,......对不住。,...I'm sorry.,……Прости.
+line-438,沧桑的猎户,天渐渐冷起来了，猎物不好找，这次的收获比想象中要少。,"Finding game was harder than I thought, with the weather is getting colder.","Становится холодно, добычу найти нелегко, в этот раз улов меньше, чем ожидалось."
+line-440,瘦削的修道院居民,这是什么话，这我可不爱听！,Don't say that!,"Что ты говоришь, мне это совсем не нравится!"
+line-441,瘦削的修道院居民,多亏了你们，孩子们才能吃上点荤的......什么对不住对得住的，可不兴再这么说了。,"Thanks to you, there will be meat on the table for the children tonight... don't apologize.","Благодаря вам дети могут съесть хоть немного мяса… Какое «прости», не смей так больше говорить."
+line-443,沧桑的猎户,哈哈，那是我说错话了。晚上多给孩子们做点好吃的吧。,"Ha. Okay, forget what I said. Make them something good for dinner.","Ха-ха, это я сморозил глупость. Приготовь вечером детям что-нибудь повкуснее."
+line-445,瘦削的修道院居民,我倒也想，唉，总得省着点吃。,"I would love to, but we've got to ration.","Я бы и рад, эх, приходится экономить."
+line-446,瘦削的修道院居民,对了，这次怎么没瞧见赫曼？该不会是受伤了吧？,"Where's Hyman? She didn't get hurt, did she?","Кстати, почему в этот раз Германа не видно? Неужели он пострадал?"
+line-448,沧桑的猎户,......放心，没什么事。,"Don't worry, she's fine.","……Спокойно, ничего страшного."
+line-450,瘦削的修道院居民,真的？,Really?,Правда?
+line-451,瘦削的修道院居民,受伤不是小事，搞不好是要出问题的，你可不能瞒着啊！,"Don't hide anything, okay? An injury is no small thing.","Травмы — это не шутки, могут возникнуть осложнения, ты не должен ничего скрывать!"
+line-453,沧桑的猎户,知道了。真有事一定来找人帮忙。,"No problem, we'll come back if we do need anything.","Я знаю. Если что-то случится, обязательно попрошу помощи."
+line-454,沧桑的猎户,时间不早，那我先回去了。,It's getting late. I should go.,"Поздно уже, я пойду обратно."
+line-456,瘦削的修道院居民,......哎，等会，杰拉尔德！,"Hey, Gerald!","……Эй, погоди, Джеральд!"
+line-458,杰拉尔德,嗯？,Hm?,М?
+line-460,瘦削的修道院居民,......最近大伙儿都在议论拉特兰的那事儿，大伙儿其实都没啥其他意思，就是有时候可能有点着急。,Everyone's been talking about Laterano. They mean no harm; they're just a little anxious.,"……В последнее время все обсуждают те дела в Латерано, на самом деле никто не имеет ничего плохого в виду, просто иногда люди… торопятся."
+line-461,瘦削的修道院居民,要是有人说错了话，你们别放在心上......,"Please, don't mind it if someone lets something slip.","Если кто сказал что лишнее, не принимайте близко к сердцу…"
+line-463,杰拉尔德,......,......,……
+line-465,杰拉尔德,我理解。,I understand.,Я понимаю.
+line-467,瘦削的修道院居民,啊，啊......那就好，那就好......,"I-I see, that's good... yes...","А, а… Ну и хорошо, ну и хорошо…"
+line-479,强壮的青年,......,......,……
+line-481,杰拉尔德,辛苦你跑一趟，莱蒙德。,"Thanks for coming, Raimund.","Спасибо, что сходил, Раймонд."
+line-482,杰拉尔德,走吧，剩下的事不用我们插手。赫曼还没有回来吗？,Let's go. We're not needed here. Is Hyman back yet?,"Пойдем, остальное нас не касается. Герман ещё не вернулся?"
+line-484,莱蒙德,今天都没见到人，刚刚戴维他们已经出去找人了，一会我也会去。,Haven't seen her all day. Davy led a group out to look for her. I'll join them later.,"Весь день его не видел, Дэвид с остальными уже отправились на поиски, я тоже скоро пойду."
+line-485,莱蒙德,还有，出去探路的队伍也已经安排好了，等晚上人回来应该就能有确切消息。,We have a scout team ready. We'll have concrete intel when they get back tonight.,"Ещё, разведка тоже организована, к вечеру, когда люди вернутся, должна быть точная информация."
+line-487,杰拉尔德,你做得很好。继续做准备吧。,Good. Carry on.,Ты молодец. Продолжай готовиться.
+line-493,莱蒙德,......等一下，杰拉尔德老大！,Brother Gerald...,"……Погоди, Джеральд!"
+line-495,莱蒙德,我们难道真的要就这么接受现状吗？！,Are we really going to accept things as they are right now?,Мы правда собираемся просто принять всё как есть?!
+line-497,杰拉尔德,冷静点，莱蒙德。,"Calm down, Raimund.","Успокойся, Раймонд."
+line-498,杰拉尔德,你应该清楚，我们从来没有太多选择。,You know we never had of a choice.,"Ты должен понимать, у нас никогда не было большого выбора."
+line-500,莱蒙德,那我们就这么妥协了？,So we're compromising?,"Значит, мы просто сдадимся?"
+line-501,莱蒙德,这么多年我们到底算什么？我们和他们又有什么不同，我们不过是——,What are we? What have all these years been for? What's the difference between us and them? We're just—,"Кем мы были все эти годы? И чем мы отличаемся от них, мы же просто…"
+line-503,杰拉尔德,莱蒙德！,Raimund!,Раймонд!
+line-504,杰拉尔德,够了，别任性。,That's enough.,"Хватит, не упрямься."
+line-506,莱蒙德,可是！,But—,Но!
+line-508,杰拉尔德,没有可是。,No buts.,Никаких «но».
+line-509,杰拉尔德,我知道你不好受，莱蒙德。,"I know you don't like it, Raimund.","Я знаю, тебе больно, Раймонд."
+line-511,杰拉尔德,趁今天还有时间......如果还有什么人要见，就快去吧。,"There's still time. If there's someone you want to see, go and see them.","Пока сегодня ещё есть время… если тебе нужно с кем-то увидеться, иди быстрее."
+line-522,,进食。,Eating.,Приём пищи.
+line-523,,为满足个体的生存需求而咀嚼吞咽。,Ingestion of food for the organism's survival.,Жевание и глотание ради удовлетворения потребностей организма.
+line-524,,这是一切生命活动的基础，所有生物最初始的本能。,"It is the basis of life, and the fundamental instinct of all animals.","Это основа любой жизнедеятельности, самый первобытный инстинкт всего живого."
+line-525,,吞食、汲取、吸收。,Eat. Digest. Metabolize.,"Поглощение, впитывание, усвоение."
+line-526,,为生存而竭尽努力。,Activities for the sake of survival.,Упорная борьба за выживание.
+line-527,,世上再没有比这更正当的欲求。,The most legitimate desire there is.,"В мире нет ничего более справедливого, чем эта потребность."
+line-540,温和的教士,我本该再劝一劝你，但是现在其实并不是一个合适的时机。,"I wanted to try to persuade you, but now is not really the time.","Мне следовало бы тебя уговорить, но сейчас неподходящее время."
+line-541,温和的教士,你太虚弱了，有太多东西会在我们虚弱时干扰我们的思考，扭曲我们的判断，让我们无法遵从思想的指引。,"You're weak. Too many things interfere with our thoughts, warp our judgment, preventing us from following the guidance of our faith.","Ты слишком слаб. Многое мешает нам мыслить, когда мы слабы, искажает суждения, мешая следовать заветам разума."
+line-542,温和的教士,......,......,……
+line-543,温和的教士,你现在，是不是已经听不见我的声音？,"You can no longer hear me, can you?",Ты меня сейчас слышишь?
+line-547,,无人给予回应。,There is no answer.,Никакого ответа.
+line-548,,教士的声音与某种隐秘而奇异的声响交织，在空旷的地下弥漫。,"The priest's voice mixes with a strange sound, echoing through the underground space.","Голос священника смешивается с неким странным звуком, распространяясь по пустым подземельям."
+line-549,,那是进食的声音。,The sound of eating.,Это звук еды.
+line-550,,是将一切可化为养料的物质撕裂扯碎，然后咽下食管，吞入腹腔的声音。,The sound of ripping food apart and swallowing it.,"Звук разрывания и пережевывания всего, что может стать питанием, с последующим глотанием."
+line-551,,失去原本形态的生命在阴影中逐渐生长。,Life that has lost its original form grows in the shadows.,"Жизнь, лишившаяся своей прежней формы, постепенно растёт в тени."
+line-554,温和的教士,就快要入冬了，最近晴天不太多。,It's almost winter. The sun has become a rare sight.,"Скоро зима, в последнее время солнечных дней немного."
+line-555,温和的教士,这栋建筑就像是一座无援的孤岛，它已经独自支撑足够久了，但它就快要撑不下去了。,This building is like a remote island. It has held out long enough. It can no longer hold out.,"Это здание подобно одинокому острову, оно слишком долго держалось само по себе, но оно уже не выдержит."
+line-556,温和的教士,你瞧，这里四壁都有了裂隙，挡不了太强的风。,"See the gaps in the walls, where the draught comes through.","Смотри, на всех четырёх стенах уже трещины, от сильного ветра не спасёт."
+line-557,温和的教士,嗯，看起来可用的燃料也所剩无几，如果没有足以御寒的物资，这个冬天会有许多人因此挨冻。,There is little fuel left. Many will suffer in the cold without winter supplies.,"Да, и топлива осталось мало. Если не будет припасов, чтобы согреться, многие замёрзнут."
+line-558,温和的教士,当然，我们也并非完全束手无策。,"Of course, we're not entirely helpless.","Конечно, мы не совсем беспомощны."
+line-559,温和的教士,附近还有一两条规模不算很大的源石矿脉，不是吗？,"There are a couple of small Originium veins nearby, aren't there?","Рядом есть пара небольших жил ориджиниума, верно?"
+line-560,温和的教士,那里可以开采到能作为能源使用的源石，这么多年来，你们不就是这么做的吗？,"Originium can be mined there for energy generation, as you have done for many years.","Там можно добыть ориджиниум для энергии, разве вы не делали так все эти годы?"
+line-561,温和的教士,但那会很危险，当然，大家都知道那非常危险，感染矿石病的风险威胁着所有的人......,But it's dangerous. Everyone knows the risk of Oripathy infection.,"Но это очень опасно, все знают, что риск заразиться орипатией угрожает каждому…"
+line-562,温和的教士,如果不是没有选择，谁会甘愿冒这样的风险呢？在这样的孤岛上，一旦感染矿石病，与被判死刑无异。,Who would take such a risk if they had a choice? Oripathy is a death sentence on an island like this.,"Если бы не отсутствие выбора, кто бы пошёл на такой риск? На таком острове заразиться орипатией — всё равно что получить смертный приговор."
+line-563,温和的教士,当初你们背井离乡，一路走到这里，为了能够有一隅容身之处，自愿担负起了最危险的工作。,You left your homes and came here. You accepted the most dangerous jobs in order to find a place to call your new home.,"Когда-то вы оставили родные дома, прошли такой путь, чтобы иметь хоть какой-то уголок, и добровольно взяли на себя самую опасную работу."
+line-564,温和的教士,你们早已是这座修道院不可或缺的一部分。,You're an indispensable part of this abbey.,Вы стали неотъемлемой частью этого монастыря.
+line-565,温和的教士,......,......,……
+line-566,温和的教士,你还是听不见我说的话，对吗？,"You still can't hear me, can you?","Ты всё ещё меня не слышишь, да?"
+line-568,“进食的黑影”,......,......,……
+line-570,温和的教士,必须要承认......,I must admit...,Должен признать……
+line-571,温和的教士,我现在真的感到有些难过。,I feel a little sad.,Мне действительно немного грустно.
+line-586,萨科塔少女,有人吗？请问有没有......,Hello? Anyone? Any—,"Здесь есть кто-нибудь? Прошу прощения, есть ли…"
+line-590,萨科塔少女,哇！,Whoa!,Вау!
+line-592,萨科塔少女,地上怎么会有这么多碎玻璃......,What's with all the broken glass?,Откуда здесь столько битого стекла…
+line-598,消瘦的男人,是福尔图娜？你来得正好。,Fortuna? Good timing.,Это Фортуна? Ты пришла как раз вовремя.
+line-599,消瘦的男人,能拜托你来这边搭把手，扶一下这个窗框吗？今天的风太大，这里的窗户玻璃又碎了，得先想办法把口子堵上。,"Give me a hand with this window frame, will you? The wind broke the window. I'm trying to plug it up.","Поможешь мне здесь, поддержишь раму? Ветер сегодня слишком сильный, стекло снова разбилось, нужно что-то придумать, чтобы закрыть проём."
+line-601,福尔图娜,哎，没问题，交给我！,No problem!,"Эй, без проблем, давай мне!"
+line-603,福尔图娜,这窗户不是前两天刚补好的吗，怎么又碎了？我还记得之前我一边听斯特凡诺爷爷布道，一边被风吹得牙齿打颤......,Didn't we fix this a couple of days ago? I remember my teeth chattering in the cold while listening to Father Stefano's sermon.,"Это же окно только пару дней назад чинили, как оно опять разбилось? Помню, как слушала проповедь дедушки Стефано и тряслась от холода из-за ветра…"
+line-605,福尔图娜,需要剪一些胶布来贴吗？,Should I get some tape?,"Нужен скотч, чтобы заклеить?"
+line-607,消瘦的男人,用胶布恐怕不行，这次碎得太厉害了。抱歉，我没办法把所有碎片拼起来......,"I'm afraid tape won't do. The pieces are all over the place, and I don't think I can put it back. Sorry...","Скотч не поможет, в этот раз слишком сильно разбилось. Прости, я не могу собрать все осколки…"
+line-609,福尔图娜,又不是克莱芒叔叔的错，干嘛对我道歉？,"Why apologize to me, Patruus Clément? It's not your fault.","Дядя Клеман не виноват, зачем ты извиняешься?"
+line-610,福尔图娜,我们现在怎么办，是不是得先找点东西挡一下？风吹起来好冷......啊，要不我去找点不用的布料来？,What should we do? Find something to block it up. The wind's rather cold... should I find some unused fabric?,"Что нам делать, может найдём чем прикрыть? Ветер такой холодный… А, может, я найду ненужную ткань?"
+line-612,克莱芒,不用浪费布，有布料还是多做两件衣服吧，最近天气凉了。,"Don't waste it, save it for clothes. It's getting cold.","Не трать ткань, лучше сделай из неё лишнюю одежду, погода похолодала."
+line-613,克莱芒,之前杰拉尔德拆掉了一部分他们那边的空屋，应该还剩了一些木板，我一会去找找......,There should be some planks left from when Gerald took those old houses apart. I'll go look for them.,"Джеральд недавно разбирал пустые дома, там должны были остаться доски, пойду поищу…"
+line-619,克莱芒,好，窗框这样就可以了。辛苦你了，福尔图娜。,"That will do it for the frame. Thanks, Fortuna.","Так, с рамой всё. Спасибо тебе, Фортуна."
+line-620,克莱芒,对了，福尔图娜，你刚刚进来时是想做什么？,What were you here for anyway?,"Кстати, Фортуна, что ты хотела, когда приходила?"
+line-622,福尔图娜,啊，对了！我是想来看看有没有什么吃的，都怪菲娜，害我迟到了这么久，都没赶上午餐......,Oh! I wanted to see if there's anything to eat because I missed lunch. It's all Fina's fault...,"Ах, точно! Хотела посмотреть, есть ли что поесть, всё из-за Фины, она задержала меня, я пропустила обед…"
+line-629,严肃的少女,怪我什么？,What's my fault?,Что из-за меня?
+line-633,福尔图娜,菲娜！,Fina!,Фина!
+line-634,福尔图娜,你怎么也来了？,What are you doing here?,Ты чего пришла?
+line-641,德尔菲娜,我要是不来，还不知道你会在背后这样说我坏话呢！,Listening to you talk behind my back.,"Если б я не пришла, не узнала бы, как ты за моей спиной сплетничаешь!"
+line-643,福尔图娜,我可没说你的坏话，我只是实话实说嘛。要不是你非要抓着我教训，哪会耽搁到现在？,I'm just telling it like it is! That wouldn't have taken so long if you didn't keep going on and on about it.,"Я не сплетничаю, я просто правду сказала. Если бы ты не прицепилась ко мне с поучениями, я бы не опоздала!"
+line-645,德尔菲娜,那还不是因为你太傻，被人骗了都不知道！,It's because you were dumb enough to get scammed!,"Это потому что ты слишком глупая, обманули, а ты и не поняла!"
+line-646,德尔菲娜,早就和你说过，要小心那个叫蕾缪安的女人！她到处找人接触，装出一副关心的样子，谁知道安的是什么心......,"I told you to be careful of Lemuen! She's been talking to everyone, pretending to care. Who knows what she's really after?","Сколько раз говорила, будь осторожна с той женщиной по имени Лемюэн! Она ко всем пристаёт, строит из себя заботливую, кто знает, что у неё на уме…"
+line-647,德尔菲娜,小福，你最近总是一副魂不守舍的样子，是不是她又和你说了什么？,You've been absent-minded lately. Did she say something to you?,"Фортуна, ты в последнее время постоянно рассеянная, она опять что-то тебе наговорила?"
+line-649,福尔图娜,没有！没人和我说什么，我也没有魂不守舍！,No! No one said anything to me! I'm not being absent-minded!,"Нет! Никто мне ничего не говорил, и я не рассеянная!"
+line-651,德尔菲娜,......不，你有。,"Yes, you are.","……Нет, ты такая."
+line-652,德尔菲娜,小福，我们都是萨科塔，你骗不过我。,"We're all Sankta, Tuna. You can't fool me.","Фортуна, мы обе санката, меня не обманешь."
+line-654,福尔图娜,......,......,……
+line-656,福尔图娜,菲娜，蕾缪安也是萨科塔，你能感受到她没有恶意，但你为什么就是不肯信她？,So is Lemuen. You know she has no ill intentions. Why won't you trust her?,"Фина, Лемюэн тоже санката, ты же чувствуешь, что у неё нет злых намерений, так почему не хочешь ей верить?"
+line-657,福尔图娜,为什么你就这么讨厌拉特兰的人？但是我们不也......我们原本不也应该是拉特兰人吗？,"Why do you hate people from Laterano so much? We were Laterans too, weren't we?",Почему ты так не любишь латеранцев? Но ведь мы… разве мы не должны быть латеранцами?
+line-658,福尔图娜,斯特凡诺爷爷之前明明说我们很快就能回去了，那为什么要把拉特兰的使者抓起来？,Father Stefano says we can go back soon. Why did we lock up the Lateran emissaries?,"Дедушка Стефано говорил, что скоро мы вернёмся, так почему же схватили посланника Латерано?"
+line-659,福尔图娜,为什么我们不回去？,Why don't we go back?,Почему мы не возвращаемся?
+line-661,德尔菲娜,因为莱蒙德他们不能和我们一起！这个理由还不足够？,Because Raimund and the others can't go with us! Isn't that reason enough?,Потому что Раймонд и остальные не могут с нами! Этого аргумента мало?
+line-663,德尔菲娜,难道你要抛下他们？我做不到！,"You want to leave them behind? Well, I don't!",Или ты хочешь их бросить? Я не могу!
+line-665,福尔图娜,我不是那个意思！,That's not what I mean!,Я не это имела в виду!
+line-667,德尔菲娜,那你是什么意思？！,Then what <i>do</i> you mean?!,А что тогда?!
+line-671,克莱芒,好了！别吵了！,Enough!,Хватит! Перестаньте!
+line-672,克莱芒,主教阁下这样决定总有他的道理，你们俩......都别说了。,The Abbot has his reasons. Say no more.,"У епископа всегда есть свои доводы, обе вы… хватит болтать."
+line-677,德尔菲娜,......,......,……
+line-679,福尔图娜,......,......,……
+line-683,克莱芒,我去找木板，总之先把这扇窗户封上......你们都冷静冷静。,I'll find some planks to board up the window... you two calm down.,"Пойду за досками, в общем, сначала заделаем окно… Успокойтесь обе."
+line-690,福尔图娜,......菲娜，难道你感受不到我的想法？,"Can't you sense my thoughts, Fina?","……Фина, ты разве не чувствуешь, что я думаю?"
+line-692,德尔菲娜,我可以，小福。,"I can, Tuna.","Чувствую, Фортуна."
+line-693,德尔菲娜,但我......,But I...,Но я……
+line-695,德尔菲娜,算了，刚刚是我太冲动了。我、我知道你没那个意思。,Never mind. I lost my cool. I know that wasn't what you meant.,"Забудь, я слишком вспылила. Я… я знаю, что ты не это имела в виду."
+line-697,福尔图娜,......我也有错。,I was wrong too.,……Я тоже виновата.
+line-699,德尔菲娜,你总是握着这把铳。我记得这把铳是你爸爸给你的吧，不是早就不能用了吗？,"You always have that gun with you. You got it from your dad, right? I thought it didn't work anymore.","Ты постоянно держишь этот пистолет. Помнится, тебе его отец дал, он же давно не работает?"
+line-701,福尔图娜,是不能用了，可能是哪里的零件出了问题吧。而且我也不太会用铳......,It doesn't. Maybe it's a parts problem. And I don't know how to use a gun myself...,"Да, не работает, детали, наверное, вышли из строя. И я не умею пользоваться оружием…"
+line-702,福尔图娜,但是，我带着它本来也不是为了要使用啦。,But I'm not carrying it to use it anyway.,"Но я ношу его не для того, чтобы стрелять."
+line-704,德尔菲娜,我一直以为你拿铳当装饰品。,I always thought it was a decorative accessory.,"Всегда думала, что это просто аксессуар."
+line-706,福尔图娜,对了一半。,Partly.,Наполовину верно.
+line-708,福尔图娜,像这样握着铳，这是一种......祈祷。,Holding the gun like this is like praying.,Держать его так — это молитва.
+line-709,福尔图娜,爸爸把铳留给我的时候是这么说的。他说这是萨科塔的习惯。,That's what Dad said when he gave it to me. He said it was a Sankta practice.,"Папа сказал так, когда оставлял мне пистолет. Он сказал, что это обычай санката."
+line-711,德尔菲娜,......我不知道有这种习惯。,I don't know about any practices like that.,……Не знала о таком обычае.
+line-712,德尔菲娜,我外婆的铳丢在峡谷里了。,My grandma's gun is in a canyon.,Пистолет моей бабушки остался в каньоне.
+line-714,福尔图娜,......别难过，菲娜。我把铳借给你。,"We can share, Fina.","……Не грусти, Фина. Я дам тебе поносить свой."
+line-715,福尔图娜,等我想办法把它修好，我们就一起学怎么使用它。,"I'll try to get it fixed, then we can use it together.","Как только починю, научимся вместе пользоваться им."
+line-717,福尔图娜,现在，让我们一起祈祷。,"Now, let us pray.",А сейчас давай помолимся вместе.
+line-730,克莱芒,上次剩下的木板......应该是放在这里的。,The planks should be here somewhere...,Оставшиеся доски… должны быть здесь.
+line-735,克莱芒,有了有了，果然是在这。,Aha. There.,"Нашёл, точно здесь."
+line-736,克莱芒,好，这样就足够了。如果剩余，还可以把外围的窗户也稍微修一修。,"That should be enough. I could fix the outside windows too, if there are any leftover.","Хорошо, этого хватит. Если останется, можно будет подлатать внешние окна."
+line-738,克莱芒,......还有燃料......,And fuel...,……Ещё топливо…
+line-739,克莱芒,燃料也剩得不多了，唉。,Not much fuel left. *sigh*,"Топлива тоже мало, эх."
+line-746,克莱芒,嗯？,Hm?,М?
+line-758,克莱芒,什么人？！,Who goes there?!,Кто здесь?!
+line-759,克莱芒,......,......,……
+line-761,克莱芒,......没有人？,...No one?,……Никого?
+line-762,克莱芒,是我眼花了吗......,Am I seeing things?,Померещилось…
+line-772,里凯莱,这里的地形真奇怪，这属于什么？戈壁？下面还有一道峡谷？,The terrain is so strange. Do you still call this a desert? There's a canyon below?,"Тут странный рельеф, что это? Пустыня? Внизу ещё каньон?"
+line-773,里凯莱,小心脚下。,Mind your step.,Смотри под ноги.
+line-774,斯普莉雅,谢谢啦，我头一次知道你这么绅士，里凯莱。,"I never knew you were such a gentleman, Richele.","Спасибо, впервые вижу, что ты такой джентльмен, Рикеле."
+line-775,里凯莱,别了吧，被你这么夸总觉得没什么好事。,Nothing good ever happens comes from you complimenting me...,"Не надо, когда ты так хвалишь, жди беды."
+line-776,斯普莉雅,别这么小心眼，这回不会让你破财的。,Don't be so uptight. Your bank account is safe this time.,"Не будь таким мелочным, в этот раз ты не разоришься."
+line-777,斯普莉雅,目标的移动修道院......我看看，就是前面那个？,Is that the nomadic abbey we're looking for?,"Целевой передвижной монастырь… гляну, это тот, что впереди?"
+line-778,里凯莱,应该没错。,I think so.,"Должно быть, да."
+line-779,斯普莉雅,怎么办，直接到门前，然后礼貌敲门？,What do we do? Knock on the front door?,"Что будем делать, пойдём к двери и вежливо постучим?"
+line-780,斯普莉雅,会有人来应门吗？,You think someone will answer?,Кто-нибудь откроет?
+line-781,里凯莱,你觉得呢，费德里科？,"What do you think, Federico?","Как думаешь, Федерико?"
+line-795,费德里科,继续靠近。,Approach.,Продолжаем сближение.
+line-796,里凯莱,了解了。呃，要提前确认一下我们的任务情报吗？,"Roger. Er, should we do a quick briefing first?","Понял. Э-э, нужно заранее подтвердить задачу?"
+line-797,费德里科,已确认目标建筑物，为伊比利亚与拉特兰于1011年合资修建的可移动大型综合设施，官方正式名称为“安布罗修修道院”。,"Target building has been identified. It is a large mobile complex built jointly by Iberia and Laterano in 1011, official name Sanctilaminium Ambrosii.","Целевое здание — мобильный комплекс, построенный Иберией и Латерано в 1011 году, официальное название «Монастырь Амбросио»."
+line-798,费德里科,该修道院原属国为伊比利亚，于六十一年前偏离航线，之后失去踪迹。,"Originally controlled by Iberia, it disappeared after straying from its route 61 years ago.","Монастырь изначально принадлежал Иберии, 61 год назад сбился с курса, после чего исчез."
+line-799,费德里科,一个月前，拉特兰收到来自该修道院的求助联络，因此向此地派出两名特使了解情况。,Laterano received a request for help from the abbey one month ago and sent two nuncios to investigate.,"Месяц назад Латерано получил от него сигнал о помощи, поэтому отправил двух посланников выяснить ситуацию."
+line-800,斯普莉雅,到这里为止还很好懂。,Straightforward enough up to this point.,До этого момента всё понятно.
+line-801,斯普莉雅,到底是怎么发展到我们的两位特使失去联络，需要你们俩这样的武装人员直接找上门这种地步的？,So how did we end up losing contact with our nuncios and bringing in big guns like you two?,"Как так вышло, что наши посланники потеряли связь, и нам понадобились такие бойцы, как вы, чтобы заявиться прямо на порог?"
+line-802,费德里科,我接到的任务是寻找失联的枢机辅佐官蕾缪安与万国信使奥伦·亚吉奥拉斯，确保两位的人身安全。,"My mission is to discover the whereabouts of Cardinal Aide Lemuen and Legatus Oren Argiolas, and to guarantee their safety.","Моя задача — найти потерявших связь помощницу кардинала Лемюэн и посланника народов Орена Аджиолараса, обеспечить их личную безопасность."
+line-803,费德里科,以及确保修道院内部正常运转，避免出现人员伤亡。,I am also to ensure that the abbey is able to function normally and avoid casualties.,А также обеспечить нормальное функционирование монастыря и избежать человеческих жертв.
+line-804,里凯莱,教宗阁下的意思是......让你别用力过猛？,So His Holiness wants you take it easy?,Святейшество имел в виду… чтобы ты не переборщил с силой?
+line-805,费德里科,......,......,……
+line-806,斯普莉雅,其实奥伦怎么样都无所谓啦，我可是为了蕾缪安才申请加入队伍的。,"Well, I signed up for Lemuen. I couldn't care less what happens to Oren.","Вообще, Орен не так уж важен, я напросилась в команду только ради Лемюэн."
+line-807,费德里科,你的私人感情与任务无关。,Your personal feelings are irrelevant.,Твои личные чувства не относятся к задаче.
+line-808,费德里科,目前任务对象状态不明，且无法确认建筑物内的居民是否怀有敌意。,"Target status is unclear, and we are unable to determine if the inhabitants of the building are hostile.","Статус объектов задачи неясен, также невозможно подтвердить, не враждебны ли жители монастыря."
+line-809,里凯莱,呃，所以？我们要先试试潜入调查什么的吗？,"What do we do, then? Infiltrate and investigate?","Э-э, и что? Попробуем пробраться для разведки?"
+line-810,费德里科,不。,No.,Нет.
+line-811,费德里科,我的建议是立即执行正面突击，速战速决。,I suggest we take the most direct path and finish this quickly.,"Предлагаю начать лобовую атаку, быстро и решительно."
+line-812,费德里科,如二人已遭遇意外，我的任务将变更为遣送遗骨回归拉特兰城。,"If they are deceased, I will return their bones to Laterano.","Если они пострадали, задача будет изменена на доставку останков в Латерано."
