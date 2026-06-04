@@ -1,0 +1,269 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,main_13
+__chapter__,,Chapter Name,obt/main/level_st_13-01,战场内外
+,,,,
+char-1,困倦的佣兵,困倦的佣兵,Beleaguered Mercenary,Сонный наемник
+char-2,饥饿的佣兵,饥饿的佣兵,Starving Mercenary,Голодный наемник
+char-3,红酒报资深编辑,红酒报资深编辑,Red Wine Senior Editor,Старший редактор «Винной газеты»
+char-4,红酒报实习记者,红酒报实习记者,Red Wine Intern Journalist,Стажер-репортер «Винной газеты»
+char-5,商队头领,商队头领,Caravan Head,Глава каравана
+char-6,黑市商人,黑市商人,Black Market Merchant,Чернорыночный торговец
+char-7,？？？,？？？,???,???
+char-8,萨卡兹雇佣兵,萨卡兹雇佣兵,Sarkaz Mercenary,Саркази-наемник
+char-9,焦急的村民,焦急的村民,Anxious Villager,Тревожный сельский житель
+char-10,戴着礼帽的人,戴着礼帽的人,Behatted Person,Человек в шляпе
+char-11,潜伏特工,潜伏特工,Undercover Secret Agent,Спящий агент
+char-12,赫德雷,赫德雷,Hoederer,Хедри
+char-13,伊内丝,伊内丝,Ines,Инес
+char-14,W,W,W,W
+,,,,
+line-8,,维多利亚国立大学古典学系资深教授塞缪尔·瑟斯曾经把卡萨根爵士丰厚的藏书比作伦蒂尼姆郊外的冬青林。,"The Senior Professor of Classics to the Victorian National University, Samuel Seuss, once likened the ample library of Sir Cassegrain to the holly trees upon Londinium's fringes.","Сэмюэл Сёрс, заслуженный профессор кафедры классики Викторианского национального университета, когда-то сравнивал обширную библиотеку сэра Кассагена с остролистовым лесом на окраине Лондиниума."
+line-9,,\n这些智识的结晶，这些历史的投影，我们行过之路与我们将行之路皆可在这里找到对应。,"\nIn these essences of knowledge, these long shadows of history, we never fail to find parallels to how we ourselves have gone, and to how we will go.","Эти кристаллизованные плоды интеллекта, эти проекции истории — здесь можно найти отражение как путей, которые мы уже прошли, так и тех, что нам ещё предстоит преодолеть."
+line-10,,\n史诗与哲思被记录，神话与理论一一归档，谦卑的学者们用智慧与勤奋把这里涂满，每位桂冠诗人都拥有只属于自己的书架。,"\nRecorded are the epics and philosophies, one by one filed away are mythologies and theories. Humble scholars fill page to page with their wisdom and diligence, each laureate poet a bookshelf to themselves.","Эпосы и философские размышления задокументированы, мифы и теории разложены по полкам; скромные ученые заполнили это место своей мудростью и прилежанием, и у каждого поэта-лауреата была своя собственная книжная полка."
+line-11,,\n“风暴终会消散，希望也不会真正磨灭。这些被记述下的东西所构成的，就是我们骄傲的文明本身。”,"\n'Someday the storm will pass, for hope can never truly die. What is formed of these accounts in ink; that is our civilization in all its pride.'","«Буря рано или поздно утихнет, а надежда не угаснет по-настоящему. Именно из того, что было записано, и состоит наша великая цивилизация»."
+line-13,,卡萨根爵士是个不坏的狱友，我们隔着一堵墙争论过很多问题，也许正因为那堵墙，他直到最后也没发现我是个萨卡兹，他只当我是个太湎于反思的维多利亚人。,"Sir Cassegrain was a decent gaolmate; we debated over many a question through our wall. The wall that was, perhaps, the sole reason our time came to an end without his realizing I was a Sarkaz; he simply took me as Victorian, one too mired in introspection at that.","Сэр Кассаген был неплохим сокамерником. Мы спорили о многих вещах через стену, и, быть может, именно из-за этой стены он до самого конца не догадывался, что я саркази. Он считал меня лишь викторианцем, слишком склонным к рефлексии."
+line-14,,\n我仍记得他被从我隔壁牢房带离之前，最后说的话。,"\nI still remember his last words to me, before being dragged from that neighboring cell.","Я до сих пор помню его последние слова перед тем, как его вывели из соседней камеры."
+line-16,,“在任何困难的年月，只要一位自豪的维多利亚人回到那里，就能重新感受到严冬不长，春天将近。”,"'In any time of trouble, a proud Victorian need only return there, and the winter of our discontent will once again feel not so endless after all, and the coming of spring the closest thing.'","«В любые трудные годы, стоит гордому викторианцу вернуться домой, как он вновь почувствует, что суровая зима не вечна, и весна уже близко»."
+line-17,,\n“......朋友，只要回到那里。”,"\n'...Friend, you need only return there.'","«...Друг мой, главное — просто вернуться туда»."
+line-29,困倦的佣兵,毫无办法。,You're SOL.,Ничего не поделаешь.
+line-30,困倦的佣兵,我试过，那几本书就连里面的纸都是皮做的，根本点不着。,I tried those already. Even the paper's the good calfskin stuff—those books ain't burning.,"Я пытался. Даже бумага в этих книгах сделана из кожи, её просто так не поджечь."
+line-32,饥饿的佣兵,如果纸是皮做的，为什么还叫纸，而不直接叫皮呢？,"Why call it paper if it's calfskin, anyway? Why don't we say 'writing skin' or something?","Если бумага сделана из кожи, почему её называют бумагой, а не просто кожей?"
+line-34,困倦的佣兵,不知道。,I dunno.,Не знаю.
+line-36,困倦的佣兵,*萨卡兹粗口*，这火根本就不旺，到处都是烟，可锅里的汤完全没动静。,"Screw us, this fire just ain't happening. We've got all smoke and no warm soup pot.","*Ругательство на языке саркази*, огонь совсем не разгорается. Одни дым, а суп в котелке даже не кипит."
+line-41,饥饿的佣兵,“汤”......这东西就是清水里漂了点菜梗和肉片。,'Soup'... This stuff's just water with a couple stems and scraps we tossed in.,«Суп»... В этой жиже только вода да пара овощных стеблей с кусочками мяса.
+line-43,困倦的佣兵,说到底都是他们的问题！,"You know what, this is all their fault!","В конце концов, это всё их вина!"
+line-45,困倦的佣兵,那些不正眼看人的王庭混蛋让我们干这些脏活累活，满城抓伦蒂尼姆人，把他们塞进工厂做工，却连碗热汤都不舍得给我们准备。,"Those sneering Royal Court shitheads have us out here doing all the hard and dirty work, snatching Londiniers across to work their factories across the ENTIRE city, and they won't even give us a hot bowl of something for the trouble.","Эти ублюдки из Королевского суда, которые смотрят на нас свысока, заставляют нас выполнять всю грязную работу, гребут всех лондиниумцев подряд и пихают их на заводы, а сами даже тарелки горячего супа нам приготовить жалеют."
+line-47,饥饿的佣兵,队长说，我们现在正式占领伦蒂尼姆啦。,Captain said we've officially seized Londinium now.,"Капитан сказал, что мы официально захватили Лондиниум."
+line-49,饥饿的佣兵,城防军被解散了，那个叫莱托的黎博利失了业。,"Defense Forces got disbanded. That Lettou guy's out, the Liberi.","Городская стража распущена, тот либери по имени Лайто остался без работы."
+line-51,困倦的佣兵,我开始后悔没跟W那个疯女人走了。,"Well, I'm starting to regret not going with W. Goddamn loony woman.","Начинаю жалеть, что не ушел с той сумасшедшей бабой, W."
+line-53,困倦的佣兵,算了......跟她走也未必有什么好下场。,Whatever... probably wouldn't turn out any better if I did.,Хотя... вряд ли её путь привел бы к чему-то хорошему.
+line-58,饥饿的佣兵,这些，还有那些......都是什么书？,"What... are all these books, anyway?",Это... и вон то... что это за книги?
+line-60,困倦的佣兵,没兴趣，说不定是折扣目录。,Could be discount catalogs for all I care.,"Мне плевать. Может, каталоги распродаж."
+line-62,饥饿的佣兵,为什么那个老菲林要收集这么多折扣目录？,Why would some old Feline collect this many discount catalogs?,Зачем этому старому фелину собирать столько каталогов распродаж?
+line-64,困倦的佣兵,你怎么这么多问题。谁在乎维多利亚人在想什么。,What <i>is</i> it with you and questions. Who gives a shit what goes on in a Victorian's head.,"Да почему у тебя так много вопросов? Кого вообще волнует, что думают викторианцы?"
+line-66,困倦的佣兵,不过，我从没见过一个上了年纪的人哭成那样，你刚才看到了吗？他的绣花衣襟都被鼻涕粘在一起了。,"Still, never seen an old man cry his eyes out like that. Were you watching? Got his embroidered lapel all gunked up with his own snot.","Кстати, я никогда не видел, чтобы пожилой человек так рыдал. Ты видел его? У него весь воротник в соплях был."
+line-68,饥饿的佣兵,......,......,...
+line-70,困倦的佣兵,喂，傻愣着干嘛！去多给我拿几本过来，火又要灭了。,"Hey, snap out of it! Get me some more books, the fire's about to go out.","Эй, чего застыл! Принеси-ка мне еще пару книг, костер сейчас погаснет."
+line-72,困倦的佣兵,你在干什么？,What are you doing?,Ты что делаешь?
+line-75,饥饿的佣兵,呃......看书。,Uh... reading them.,Да так... читаю.
+line-77,困倦的佣兵,啥，“看”？你就不认字！这些还都是维多利亚字！,What 'reading'? You ain't literate! And all this shit's in Victorian anyway!,"Чего, «читаешь»? Ты же неграмотный! И написано это всё на викторианском!"
+line-79,饥饿的佣兵,除了字，书里还有画呢！你看这些插图，这个菲林女的给了这男人一巴掌，他们俩什么关系？,"Well, there's pictures in here too! Look at these drawings, there's a Feline girl here giving this boy a real slap. What do you think's the deal with these two?","Тут кроме текста еще и картинки есть! Смотри на эту иллюстрацию: эта фелин дает мужчине пощечину. У них что, роман?"
+line-81,困倦的佣兵,我猜是姘头。有没有点更带劲的？,"Cheating, I'd figure. Anything more interesting?",Наверняка любовники. Есть что-нибудь поинтереснее?
+line-83,饥饿的佣兵,没了，剩下的图都很无聊......这些东西光一本就有足足几百页，这里有多少本？,"No, all the other pictures are dull... Just one of these things is a couple hundred pages. How many books do we have here?","Нет, остальные картинки скучные... В каждой такой книге по несколько сотен страниц, сколько же их тут всего?"
+line-85,饥饿的佣兵,那边还有些比较薄的，那里面每行写不了几个字就要转向下一行......到底维多利亚人在里面写了些什么东西？,"And the thinner ones over there. They only put a few words on each line, so you have to keep looking down for the next one... What IS it Victorians are writing in these?","Вон там есть потоньше, в них строки постоянно прыгают... Что викторианцы вообще в них записывали?"
+line-87,饥饿的佣兵,这片大地上真的有那么多值得被写成书的东西吗？,Do the lands really have that much worth writing books about?,"Неужели на этой земле происходит столько всего, что стоит записывать в книги?"
+line-89,饥饿的佣兵,这本，这本，还有那本......还用这么好的玻璃柜，还分了这么多类别？,"This one, this one, and that one... all kept in these beautiful glass cases, and they're all different kinds?","Вот эта, вот та... и ведь хранят их в стеклянных шкафах, разделяют по категориям?"
+line-91,困倦的佣兵,还有一种可能，维多利亚人有钱到愿意把厕纸都订在一起。,"Here's another possibility: Victorians are so stinking rich, they'll pay to bind their own toilet paper.","Есть еще одна версия: викторианцы настолько богаты, что готовы даже туалетную бумагу в переплеты сшивать."
+line-93,饥饿的佣兵,哈，说不定。,Hah. Maybe.,"Ха, возможно."
+line-95,饥饿的佣兵,我们为什么没有自己的书？这些被翻得卷了边的玩意儿......,Why don't we have books of our own? They flip through these things so much the edges are curled...,Почему у нас нет своих книг? Все эти затрепанные бумажки...
+line-97,困倦的佣兵,搞不好真的有呢，听说巫妖不就是一群把自己关在图书馆里的神经病。关了很多很多年，从不露面。,"Maybe we do. Y'know you hear how the Liches are a bunch of nutjobs who hole themselves up in libraries. No one sees 'em for years and years, that's how long.","Да кто знает, может и есть. Слышал, личи — это кучка чокнутых, которые запираются в библиотеках. Сидят там годами, носа не кажут."
+line-99,困倦的佣兵,不过我一点也不关心。有热汤喝最重要。,Not that my ass cares. Hot soup to drink means more than any of that.,"Но мне плевать. Главное, чтобы суп был горячим."
+line-101,饥饿的佣兵,是啊，每天都没什么差别，每本也都没什么差别。,Yeah. The days just blend together. These books just blend together.,"Это точно. Каждый день одно и то же, и каждая книга — одно и то же."
+line-103,饥饿的佣兵,就算我不认字，我也知道，从来就没什么新鲜事。,"Even if I can't read, I know it. There's never one new thing under the sun.","Даже если я не умею читать, я знаю — ничего нового никогда не случается."
+line-105,饥饿的佣兵,一千年前，我们用刀杀人，现在，我们有了些效率更高的武器。,"A thousand years ago, we macheted people to death. Now, we've got more efficient weapons.","Тысячу лет назад мы убивали друг друга ножами, а теперь у нас есть более эффективное оружие."
+line-107,饥饿的佣兵,也许再过一千年，我们可以飘在天上，用......我不知道，云和星星？继续杀来杀去。,"A thousand years in the future, we'll be flying through the sky, and using... I dunno, clouds and stars? To keep on killing and killing.","Может, через еще тысячу лет мы будем парить в небе и использовать... ну не знаю, облака и звезды? Чтобы продолжать убивать друг друга."
+line-109,困倦的佣兵,你说，要是我们能在月亮上建房子，种地吃饭，以后是不是就不用这么打了？或者什么更大的事发生，大家就不想着打仗了？,"Y'know, if we put houses on the moons, plant our own food, maybe we won't have to keep fighting like this in the future? Maybe something even bigger'll happen, and everyone'll stop wanting to be up in arms?","Как думаешь, если бы мы могли построить дома на луне, заниматься там хозяйством — может, нам больше не пришлось бы воевать? Или если бы случилось что-то по-настоящему великое, чтобы всем стало не до войны?"
+line-111,饥饿的佣兵,哈哈。,Haha.,Ха-ха.
+line-113,困倦的佣兵,......唉。,...*sigh*.,...Эх.
+line-115,困倦的佣兵,（呵欠）算了，该烧下一本了。,"*yawn* Never mind, let's get that next book burning.","(Зевает) Ладно, пора жечь следующую."
+line-122,,有时我会想，我所做的这些工作，不过是在满足自己，不过是试图证明自己仍是个“清醒”的人。,"Sometimes I wonder if the work I'm doing is just me satisfying myself, just trying to prove to myself I'm still one of the 'awake'.","Иногда мне кажется, что вся моя работа — это просто потакание себе, попытка доказать самому себе, что я все еще «в своем уме»."
+line-123,,\n伊内丝说得对，这除了让我睡不着觉，没什么别的作用。,"\nWhat Ines said, really. It keeps me up at night and nothing else.","Инес права: кроме бессонницы, это ничего не дает."
+line-125,,毕竟，卡兹戴尔可能都找不出几个会用印刷机的人。,"After all, Kazdel's not going to be overflowing with people who can use a printing press.","В конце концов, в Каздели вряд ли наберется и пара человек, умеющих пользоваться печатным станком."
+line-136,红酒报资深编辑,你得尽快入门，小子，报社不是学校，我没义务教你怎么办事。,"You need to get up to speed ASAP, boy. This isn't the classroom. I'm not obligated to teach you the ropes.","Тебе нужно вникнуть в дело как можно скорее, парень. Газета — не школа, я не обязан учить тебя работать."
+line-138,红酒报资深编辑,或者滚回乡下去。你的实习期还有几个月？,You <i>could</i> just run your butt back to the countryside. How many more months is your internship?,Или проваливай обратно в деревню. Сколько у тебя там осталось стажировки?
+line-140,红酒报实习记者,我、我很抱歉，先生，我只是......想要写得严谨点。,"I—I'm very sorry, sir, I just... wanted to be scrupulous about my writing.","Я... я прошу прощения, сэр. Я просто хотел... писать поточнее."
+line-142,红酒报资深编辑,“严谨”？我要的不是天灾学论文，我要的是我们在集团内的发行量永远压《四城竞技报》一头！,"'Scrupulous'? I don't want a goddamn Catastrophology thesis, I want OUR circulation beating our union friends at Kawalerielki Sports, and I want them beaten hard, 24/7!","«Поточнее»? Мне нужна не диссертация по стихийным бедствиям, мне нужно, чтобы наш тираж внутри группы всегда обходил «Вестник межгородских соревнований»!"
+line-144,红酒报资深编辑,如果你是个路过报亭的上班族，或者城际网络的新闻订户，你会为了一篇叫“维多利亚在天灾学方面取得重大进展”的文章付钱吗？,"If you're the office workers passing by the newsstand, or the intercity net news subscribers, is an essay titled 'Victoria Makes Massive Strides in Catastrophology' going to pry your cash loose?","Если бы ты был офисным клерком у газетного киоска или подписчиком новостей в городской сети, стал бы ты платить за статью под названием «Виктория добилась значительного прогресса в изучении стихийных бедствий»?"
+line-146,红酒报实习记者,可是，“萨卡兹毁灭维多利亚！”这标题，是不是有些......,"But—don't you think 'Sarkaz Destroy Victoria!' is a little... you know, for a headline...",Но «Саркази уничтожают Викторию!»... этот заголовок не слишком ли...
+line-148,红酒报资深编辑,你以为我们的读者想要的是真相？就连《中央新闻报》的那些精英订户们要的也不是“真相”。,You think our readers want the truth? Even the Central Journal's top-tier subscribers aren't asking for the 'truth'.,"Ты думаешь, нашим читателям нужна правда? Даже элитным подписчикам «Центральных новостей» правда не нужна."
+line-150,红酒报资深编辑,你该喂给他们的是焦虑，是恐惧，是优越感，是有所指向的情绪和结论，然后他们才会想要更多。,"You need to spoonfeed them worry, fear, feelings of superiority, sliiiightly leading emotional appeals followed by hard verdicts, and THEN they'll want more.","Ты должен кормить их тревогой, страхом, чувством превосходства, направленными эмоциями и выводами — и тогда они будут просить добавки."
+line-152,红酒报资深编辑,然后我们才能从他们的口袋里掏出钱来，你也才能保住自己的这份工作。,THEN they'll pluck cash out of their pockets. THEN you'll guarantee your goddamn job.,"Только тогда мы сможем вытрясти из них деньги, а ты — сохранить свою работу."
+line-158,红酒报资深编辑,谁啊，这个时候还——,Who is it? You know what time it is right n—,Кто там еще в такое время —
+line-161,红酒报资深编辑,什么？！,What?!,Что?!
+line-163,红酒报资深编辑,......新来的，送版样的车走了多久了？,...How long ago did that—new courier truck leave with our plates?,"...Новичок, сколько времени прошло с тех пор, как уехал грузовик с версткой?"
+line-165,红酒报实习记者,半个小时，难、难道是维多利亚那边又来了新消息？,Half an hour ago—is—is there some kind of breaking news from Victoria?,Полчаса... Н-неужели из Виктории снова пришли новости?
+line-167,红酒报资深编辑,不是，蠢货，马上跟我去印厂，他们应该还没下版，现在还追得上！,"No, you idiot! Move, we're going to the printers now! They should still be on shift! We can still make it!","Нет, дурень, бегом в типографию! Они еще не успели напечатать тираж, мы успеем перехватить!"
+line-169,红酒报资深编辑,我去给总编打电话，你马上给我写一篇新的头版头条出来！,I'll give the chief editor a call! You write me a new lead article ASAP! Front page material!,"Я звоню главному редактору, а ты живо пиши новую передовицу!"
+line-171,红酒报实习记者,关于什么？,On what?,О чем?
+line-173,红酒报资深编辑,我的线人说，那个散华骑士团的薇薇安娜，消失了好久的烛骑士，明天会正式宣布退役！,"My informant says Viviana—The Candle Knight, Nova Knightclub, long AWOL—she's formally announcing retirement TOMORROW!","Мои источники говорят, что Вивьенна из Рыцарей Опаляющей зари, та самая Рыцарь свечей, которая долгое время отсутствовала, завтра официально объявит об уходе из спорта!"
+line-175,红酒报资深编辑,快点，我们必须是全卡西米尔第一家报道这事的媒体！,"Quick, we need to be the FIRST body in ALL OF KAZIMIERZ to report on this!","Быстрее, мы должны быть первыми СМИ во всем Казимире, кто это сообщит!"
+line-177,红酒报资深编辑,该向商业联合会证明哪里才是玫瑰报业最重要的编辑部了。,Oughta prove to the GCC just which Rose Paper editorial really matters most.,"Пора доказать Бизнес-ассоциации, какая редакция в «Розовом издательстве» самая важная."
+line-179,红酒报实习记者,那维多利亚和碎片大厦的事情......,Then what about Victoria and The Shard...,А как же Виктория и Шпиль осколков...
+line-181,红酒报资深编辑,没人在乎了，小子，泰拉每天发生那么多事——,"Who cares, boy! A million things a day happen on Terra—","Это уже никого не волнует, парень. На Терре каждый день происходит столько событий —"
+line-183,红酒报资深编辑,记住，我们只需要抓住最有意义的那些而已。,"And we only need the most meaningful scoops out of them all, remember that.",Запомни: нам нужно хвататься только за самое значимое.
+line-185,红酒报资深编辑,快点叫车！,Call a cab already!,Быстрее вызывай машину!
+line-187,红酒报实习记者,好、好的！,O—Okay!,"Д-да, сейчас!"
+line-189,红酒报实习记者,说起来，先生，放在以前，这附近总有些魔族佬黑车司机......,"Come to mention, sir, there'd always been unlicensed devils around here running their own taxis...","Кстати, сэр... раньше здесь всегда было полно таксистов-демонов..."
+line-191,红酒报实习记者,最近是不是很少看见他们了？,Have you noticed them kind of vanish lately?,Разве их стало меньше в последнее время?
+line-196,,萨卡兹的历史就是战争史本身，这是一项可悲的事实，我忠于它。,"The history of Sarkaz is the history of war itself. It is a lamentable fact, one I am loyal to.","История саркази — это сама по себе история войн, и это печальный факт, которому я верен."
+line-197,,\n但我仍试图向他们证明，发生在我们身上的这些事情，除了杀戮之外，仍有东西值得被铭记，值得被思考。,"\nYet still I attempt to prove to them that slaughter aside, there are events about us worth being remembered, reflected on.","Но я все еще пытаюсь доказать им, что то, что с нами происходит — это не только убийства, и есть вещи, которые стоит помнить и над которыми стоит размышлять."
+line-198,,\n这片大地上，有机会被郑重写下的事情本就屈指可数。,"\nUpon this land, those events that had the luck to be written of assiduously—those can be counted on one's fingers.","На этой земле и так по пальцам можно пересчитать события, достойные того, чтобы быть серьезно записанными."
+line-199,,\n可是，就算我记录下这些往事......,"\nAnd yet, even if I record these past affairs...",Но даже если я запишу все эти события...
+line-207,商队头领,这和我们说好的不一样！,This isn't what we agreed on!,"Это не то, о чем мы договаривались!"
+line-211,黑市商人,没货就是没货，透娜。眼下的情况就是这样，所有的源石炸药都卖空了。,"No stock means no stock, Tona. What you see is what you get. All Originium explosives are sold out.","Товара нет — значит, нет. Ситуация такова, Тоуна: все запасы ориджиниумной взрывчатки распроданы."
+line-213,商队头领,我订的武器呢？那座矿洞里塞满了源石虫和巨型钳兽，还有天知道什么别的怪物，你指望我们徒手解决它们？,"And the weapons I ordered? Are you expecting us to walk into that cave teeming with Originium slugs and giant gloompincers and Heaven knows what other monsters, and just—tackle them with our bare hands?","А как же оружие, которое я заказал? Эта шахта кишит ориджиниумными слизнями и гигантскими клешнезверями, плюс еще бог знает какими тварями. Ты что, предлагаешь нам расправиться с ними голыми руками?"
+line-215,黑市商人,这是你要处理的问题，我管不了。告诉你吧，最近大半个月，你跑遍整个黑市，都搞不到哪怕半打武器。,"That's your problem to deal with, not mine. Listen here, you've been cruising the entire black market for the last three weeks and managed to get, what? Half a dozen weapons? Less.","Это твои проблемы, я ничего не могу поделать. Скажу так: за последние полмесяца ты хоть весь черный рынок обойди, даже полдюжины пушек не наскребешь."
+line-217,商队头领,哪家佣兵队能把全部东西都吃下来？他们疯了？就算是太阳谷工业也不可能买下那么多——,What mercenary squad could possibly snatch everything up? Are they insane? Even Solar Valley Industries couldn't possibly buy this much—,"Какой отряд наемников мог скупить всё подчистую? Они что, с ума сошли? Даже «Индастриз Сан-Вэлли» не смогла бы выкупить столько —"
+line-219,商队头领,......是王酋？,...Was it a lord ameer?,"...Это что, вожди кланов?"
+line-221,商队头领,又是哪个倒霉蛋王酋要挨宰了，透露一点，我们好绕着走。,So which sadsack lord ameer got ripped off this time? I want a hint. We'll divert around.,"Чьего еще бедолагу-вождя сейчас будут резать? Намекни, чтобы мы могли обойти это место стороной."
+line-223,黑市商人,不，不是王酋。他们很神秘，我说不好......,"N—No, no lord ameer. They were such a mystery, I couldn't say...","Нет, не вожди. Они очень скрытны, сложно сказать..."
+line-225,黑市商人,（小声）可能是......帕夏。而且，不止一位。,(Whisper) It was probably... the pasha. And—not just one.,(Тихо) Возможно... это Паши. Причем не один.
+line-227,黑市商人,甚至是——,It might even be—,И даже —
+line-229,商队头领,你在说什么胡话？帕夏会来黑市扫货？还不止一位？,What the hell are you feeding me? Pashas on a shopping spree at the black market? And more than one?,Что ты несешь? Паши скупятся на черном рынке? Да еще и сразу несколько?
+line-231,商队头领,这不可能，他们有自己的渠道，而且......不止一位帕夏，大规模收购武器？你知道这意味着什么吗？,"That's impossible. They have their own channels, and... multiple, buying weapons in huge bulk? Do you know what that even entails?","Это невозможно, у них свои каналы поставок. И... несколько Паш, массово закупающих оружие? Ты понимаешь, что это значит?"
+line-233,黑市商人,我也就是瞎猜。,All I've got is a blind guess.,Я лишь предполагаю.
+line-235,黑市商人,他们用了好几层中间人，还借了外国公司当白手套，每次收购的量也恰好在不引起怀疑的程度，要说只是巧合，也说得通。,"They went through several layers of middlemen, and used some foreign firms to keep their hands extra clean. Every purchase happened to be some quantity that wouldn't raise suspicion, so if someone called coincidence, it might just pass.","Они использовали несколько уровней посредников, нанимали иностранные компании в качестве прикрытия. Каждая партия была ровно такой, чтобы не вызывать подозрений. Если это и совпадение, то слишком удачное."
+line-237,黑市商人,可是，在萨尔贡，谁能这么完美地包揽这一切？,"But who, in Sargon, could ever monopolize all this so perfectly?",Но кто в Саргоне может провернуть всё так идеально?
+line-239,商队头领,......,......,...
+line-241,？？？,喂，老板。,"Hey, buddy.","Эй, босс."
+line-246,萨卡兹雇佣兵,我要的车子和补给搞定了吗？,Got my rides and supplies sorted?,"Машины и припасы, которые я заказывал, готовы?"
+line-248,黑市商人,哦，四辆车、口粮、水、帐篷，都已经准备好了。,"Ayup. Four cars, rations, water, tents, all good to go.","Да, четыре машины, провиант, вода, палатки — всё готово."
+line-250,萨卡兹雇佣兵,好，钱在这里。,Good. Here's the cash.,"Хорошо, деньги здесь."
+line-258,商队头领,“胶条”什么时候这么有钱了？,When the hell did 'Spacer' get that wealthy?,С каких пор у «Стирателя» столько денег?
+line-260,黑市商人,不，我听说他和他的那队雇佣兵不打算继续在萨尔贡待着了，他们拿出了所有的钱，要去别的地方。,"No, I hear he and his band of mercs are planning to ditch Sargon. They rustled up all the money they have to head someplace else.","Нет, я слышал, что он и его отряд наемников больше не собираются оставаться в Саргоне. Они забрали все свои деньги и уезжают в другое место."
+line-261,黑市商人,哥伦比亚吧，或者维多利亚？最近转行的魔族雇佣兵好像格外地多。,"Columbia, probably, or Victoria? Lot more devil mercs career changing than usual, I feel like.","В Колумбию, или, может, в Викторию? В последнее время наемников-демонов, меняющих профиль, стало особенно много."
+line-263,商队头领,他们想干嘛？“胶条”那小子不是全家都在萨尔贡吗？他不管他那断了腿的老爸了？,What for? Don't all of 'Spacer's' relatives live in Sargon? Does he not care about his old baba with the broken leg?,"Зачем им это? У паренька вся семья в Саргоне, разве он не должен присматривать за своим отцом-калекой?"
+line-265,黑市商人,谁知道，我向来搞不清这帮魔族佬在想什么。可能只是看腻了沙子和雨林，想换个生活环境。,"Who knows. I've never been able to make heads or tails of how these devils think. Maybe they're just sick enough of desert and rainforest, they want to switch up their surroundings now.","Кто знает. Я никогда не понимал, что на уме у этих демонов. Может, им просто надоели песок и джунгли, решили сменить обстановку."
+line-267,商队头领,......但愿吧。,...That'd be best-case.,...Хочется верить.
+line-269,商队头领,我总觉得......好多事情比以前复杂了不知道多少倍，我通通都搞不清。,"It's been like this recently... things just getting weird levels of complicated, left and right. Makes no sense to me at all.","Мне всё время кажется... что всё стало в разы сложнее, чем раньше. Я вообще ничего не понимаю."
+line-271,商队头领,——该死，我爷爷那一辈好像只用考虑哪里的小角跳兽最蠢，比较适合当作全家的晚饭，他们那时候是不是没这么多破事？,"—Dammit, the only thing my grandpa ever had to figure out was which leporibeast shorthorn ran the slowest and made the best dinner for us. They didn't hit this many setbacks in their time, did they?","— Черт, моему деду казалось, что надо думать лишь о том, где прыгуны самые глупые, чтобы сделать их ужином для семьи. У них что, тогда проблем не было?"
+line-273,黑市商人,也可能只是我们这些生活在萨尔贡乡下的人都能感觉到“它”冲过来了而已。,Could be us rural Sargon people just feel 'it' coming.,"Может, просто мы, живущие в глуши Саргона, начали чувствовать, что «оно» уже здесь."
+line-275,商队头领,“它”？,'It'?,«Оно»?
+line-277,黑市商人,就像小角跳兽，它发起急来，也能撞你个四仰八叉。,"Just like a shorthorn, once it gets intense, it'll knock you flat.","Как прыгун: когда разозлится, может так вломить, что мало не покажется."
+line-282,,就算我记述下这些，记述下我们的方言、我们的食谱。,"Even if I write of these, write of our dialects, and our recipes...","Даже если я запишу всё это, наши диалекты, наши рецепты."
+line-283,,\n记述下农妇的一首诗，运输队长酒醉后的大话；记述下战壕里的爱情，废墟里的涂鸦......,"\nOf peasant wives' songs, of a chief courier's great drunken boasts; of romance in the trenches, of graffiti in the ruins...","Запишу стихотворение крестьянки, хвастовство пьяного начальника транспортного отдела; запишу любовь в окопах, граффити на руинах..."
+line-285,,这些东西，在痛苦面前，仍旧不值一提。,"These things, in the face of our suffering, pale beyond mention.",Все это перед лицом страданий остается ничем.
+line-286,,\n它们甚至成了某种嘲讽，它们似乎在告诉我的读者（如果有的话），我们该用暴力夺回这些。,"\nThey are reduced even to an irony of sorts, seeming to inform my readers (if I even have any) that we'd be best served using violence to wrest them back.","Это становится чем-то вроде насмешки; кажется, будто эти записи говорят моим читателям (если они есть), что мы должны вернуть себе всё это с помощью насилия."
+line-288,,这不是我的本意，可我......也无权为他们提供结论。,"That was never my intent. Even so, I... have no right to be serving you my verdict.","Это не было моим намерением, но я... не вправе делать за них выводы."
+line-296,焦急的村民,那信使该来了，他是在路上又被哪位漂亮小姐勾去了魂吗？,That Messenger should be here by now. Did some fanciful girl steal his heart on the way again?,"Посыльный уже должен быть здесь. Он что, снова позволил какой-нибудь красотке заговорить ему зубы в дороге?"
+line-297,焦急的村民,我已经受够了他那些迟到的借口了，就没人能给他点教训，让他知道自己的工作很重要吗？,I've had enough of his tardy excuses by now. Isn't there anyone who can drill into his head how much his job <i>matters?</i>,"Я сыт по горло его вечными оправданиями. Неужели никто не может его проучить, чтобы он понял, насколько важна его работа?"
+line-303,戴着礼帽的人,他不会来了，邮政信使亚瑟·莫里森死了。,He won't be coming. Postal Messenger Arthur Morrison is dead.,Он не придет. Почтовый курьер Артур Моррисон мертв.
+line-308,焦急的村民,死了？！,Dead?!,Мертв?!
+line-310,戴着礼帽的人,他因叛国罪而被处决。,Executed on grounds of treason.,Он был казнен за государственную измену.
+line-312,焦急的村民,叛、叛国？你......是什么人？,T—Treason? Wh... Who in the land are you?,И-измену? Вы... кто такой?
+line-314,戴着礼帽的人,配合我的工作，我们彼此都更省事。请你和我谈谈这位亚瑟·莫里森。,"I'm doing my job—cooperate, and you'll make both our lives a lot easier. Tell me what you know about Arthur Morrison, please.","Сотрудничайте со мной, так будет проще обоим. Расскажите мне об Артуре Моррисоне."
+line-316,焦急的村民,我、我们完全不熟悉，只是因为他是附近唯一一个会跑伦蒂尼姆的邮政信使，我女儿又在伦蒂尼姆上大学，我们才偶尔打一点交道。,"I—I hardly knew him, really, just that he was the only postal Messenger around who'd make the run to Londinium—my own daughter goes to university there—so him and I only exchanged the odd word.","М-мы совсем не близко знакомы. Просто он был единственным посыльным в округе, кто ездил в Лондиниум, а моя дочь там учится в университете, вот мы и перекидывались парой слов."
+line-318,焦急的村民,他居然叛国了......他投靠了萨卡兹？我女儿在信里和我说过，伦蒂尼姆现在到处都是萨卡兹。,He was a treasonist...? Was he taking Sarkaz help? My girl wrote to me how Londinium's been littered with them lately.,"Он предал родину... Он что, переметнулся к саркази? Дочь писала, что Лондиниум теперь кишит саркази."
+line-320,焦急的村民,那小混蛋，我早就知道他不是好人！居然和魔族佬勾搭在一起，他活该！,That wretch! I knew he was a scoundrel at the first moment! Trust him to gang up with the devils—he got what he deserved!,"Этот негодяй, я всегда знал, что он гнилой человек! Подался к этим демонам, поделом ему!"
+line-322,戴着礼帽的人,不。,No.,Нет.
+line-324,戴着礼帽的人,我们确信，亚瑟·莫里森为乌萨斯服务。,Our comprehension is that Arthur Morrison served Ursus.,"Мы уверены, что Артур Моррисон работал на Урсус."
+line-326,焦急的村民,乌萨斯？可，可是......,Ursus? B-But...,Урсус? Но... но...
+line-328,戴着礼帽的人,而你，是他的同事，威斯里·罗特先生。,"And you... were his coworker, Mr. Wesley Roett.","А вы — его коллега, господин Уэсли Рот."
+line-330,焦急的村民,什——,Wha—,Чт—
+line-332,焦急的村民,哈，哈哈，大人，您在说什么笑话，我是个土生土长的菲林，在这里种了一辈子土豆，连乌萨斯话都不会说！,"Hah, hahah—sir, surely you must be joking! I'm a Feline born and bred—I've been planting potatoes here all my life—I couldn't speak you a word of Ursine!","Ха-ха, господин, что за шутки? Я коренной фелин, всю жизнь картошку здесь сажал, я даже по-урсусски пары слов не знаю!"
+line-334,焦急的村民,您一定是哪里误会了！,There must be some misunderstanding here!,Вы точно ошиблись!
+line-336,戴着礼帽的人,种土豆可种不出你女儿在维多利亚国立大学的学费。,I know potatoes couldn't afford your daughter's tuition at the Victorian National University.,На продаже картошки не заработаешь на обучение дочери в Викторианском национальном университете.
+line-340,焦急的村民,——,—,—
+line-360,焦急的村民,呜啊！,Eaaagh!,Уа-а!
+line-367,戴着礼帽的人,如果你坚持的话，我可以卸掉你的另一只胳膊。,"If you insist on being stubborn, I can free you of your other arm too.","Если настаиваешь, я могу оторвать тебе другую руку."
+line-368,戴着礼帽的人,别浪费我的时间，你的所有反抗都没有意义。,Don't waste my time. No resistance of yours is meaningful.,Не трать мое время. Твое сопротивление бессмысленно.
+line-370,焦急的村民,......所以，那些传言是真的。,"...So, the rumors were true.","...Значит, все эти слухи — правда."
+line-372,焦急的村民,乌萨斯人告诉我的是真的！伦蒂尼姆被正式占领了，这一个月，我没收到哪怕一条从伦蒂尼姆来的消息，连传言都没有。,"That Ursus was right! Londinium's been occupied! For the past month, I haven't gotten a single word from the place, not even the tiniest hearsay.","То, что говорили мне урсусцы — правда! Лондиниум официально захвачен, за этот месяц я не получил ни одной весточки оттуда, даже слухов не было."
+line-374,焦急的村民,那些该死的萨卡兹，他们侮辱我们，他们谋杀我们，他们奴役我们！而你们，这些自诩维多利亚保护者的人，你们在干嘛？,"Those goddamned Sarkaz. They disgrace us, they murder us, they enslave us! And you, you self-professed protectors of Victoria, what have you done?","Эти проклятые саркази, они унижают нас, убивают, порабощают! А вы, те, кто называет себя защитниками Виктории — что вы делаете?"
+line-375,焦急的村民,伦蒂尼姆城里就没有你的亲戚朋友、父母孩子吗？,"Don't you have anyone in Londinium? A dear friend, a father, a mother, a child?","Разве в Лондиниуме у вас нет родных, друзей, родителей, детей?"
+line-376,焦急的村民,当然，当然，你是个大人物，你总有办法为他们安排后路。,"Of course, of course, you're <i>bigger</i> than that! You get to pull them out safe, yes you do.","Конечно, конечно, вы — важная шишка, вы всегда найдете способ их спасти."
+line-377,焦急的村民,只有我们这样的穷酸鬼，自以为把孩子送去了伟大的伦蒂尼姆，送去了维多利亚的中心，他们将来就一定能成为了不起的人。,"But us peasant class, no, we thought we could sent our children to great old Londinium, to the heart of Victoria, where surely they'd grow beyond our wildest expectations.","Только мы, бедняки, наивно думали, что, отправляя детей в великий Лондиниум, в сердце Виктории, мы обеспечиваем им будущее великих людей."
+line-378,焦急的村民,结果呢？哈哈，哈哈！在我们国家的首都，他们变成了萨卡兹的苦力，萨卡兹的奴隶！,"And now? Haha, hahah! They're laborers to the Sarkaz, slaves to them, in our own country's capital!","И что в итоге? Ха-ха! В столице нашей страны они стали чернорабочими саркази, их рабами!"
+line-379,焦急的村民,那些魔族佬在用维多利亚的风暴摧毁维多利亚，而你们全部坐视不管！,"Those devils are turning Victoria's tempest on Victoria itself, and <i>you</i> people are just letting it happen!","Эти демоны используют викторианскую бурю, чтобы уничтожить Викторию, а вы просто сидите сложа руки!"
+line-381,戴着礼帽的人,以你浅薄的见识，你无法明白维多利亚的用心。,You could never hope to grasp Victoria's motives with your shallow insight.,В силу своей ограниченности ты не способен понять замыслы Виктории.
+line-383,戴着礼帽的人,你只需要把我带去你们的情报交接处。,All you need to do is take me to your intel exchange.,Тебе просто нужно отвести меня к точке обмена разведанными.
+line-385,焦急的村民,我不会——！,As if I woul—!,Я не буду—!
+line-396,戴着礼帽的人,什么？,Excuse me?,Что?
+line-400,焦急的村民,咕——呃呃——,Ghk—rgggh—,Гу-у... э-э-э...
+line-401,焦急的村民,唔......,Eugh...,М-м...
+line-403,,黑色的长矛从他的身体里喷涌而出。,An ashen lance bursts forth from his body.,Черное копье пронзило его тело.
+line-404,,眼前的男人抽搐着伸出双手，想要祓除破胸的恐惧。,"The man facing him thrusts his hands out, an attempt to allay the fear of his chest being run through.","Мужчина перед ним судорожно протянул руки, пытаясь оттолкнуть ужас, разорвавший его грудь."
+line-405,,他的手，在触达那种邪秽的一瞬间，就已扭曲凋零。,"His hands, the instant they touch that deep impurity, are warped and withered.","Его руки, стоило им коснуться этой скверны, тут же скрючились и увяли."
+line-408,,嘶......,*hiss*...,Ссс...
+line-410,,粗重的呼吸从远方传来，让人脊背生寒。,"From afar comes a wracked breath, spine-chilling.","Тяжелое дыхание донеслось откуда-то издалека, заставляя пробежать мурашки по спине."
+line-414,戴着礼帽的人,......,......,...
+line-419,戴着礼帽的人,是我。“开夏郡的春花开了。”,It's me. 'Castshire's flowers bloom for spring.',Это я. «Весенние цветы в графстве Кетчу расцвели».
+line-421,戴着礼帽的人,关闭所有通讯，十五分钟后，如果我没有主动发起联络，马上放弃这个镇子。,"Close all comms. If I haven't initiated contact again in fifteen minutes, abandon this town immediately.",Прекратить всю связь. Если через 15 минут я сам не выйду на контакт — немедленно покиньте город.
+line-423,戴着礼帽的人,......但愿我不会溺死在这片花香里。,...May I have the strength not to drown in the flowers' scent.,"...Надеюсь, я не захлебнусь в этом цветочном аромате."
+line-428,,正是盛夏时节，口鼻中却会呼出白雾。,"In the height of midsummer, he exhales frigid mist.","Сейчас середина лета, но изо рта идет белый пар."
+line-429,,不能畏缩，不能胆怯。他必须以维多利亚的名义和对方建立沟通。,"He cannot cower. He cannot shrink. He must establish communications with the opposite side, in Victoria's name.","Нельзя дрожать, нельзя трусить. Он должен вступить в контакт от имени Виктории."
+line-430,,到底在哪里？,Where is it?,Где же он?
+line-434,,嘶......呼......,*hiss*... *huff*...,Ссс... ха...
+line-437,,11，29，1。【密语】。,"11, 29, 1. (Code word).","11, 29, 1. [Кодовая фраза]."
+line-442,,不能回头。不能看见彼此。希望对方心知肚明地遵守这小小的游戏规则。,He must not look back. They must not catch sight of each other. He only hopes his adversary is fully aware to abide by the rules of this little game.,"Не оглядываться. Не смотреть друг на друга. Надеюсь, другая сторона понимает правила игры."
+line-444,,他能拴住猛兽，可拴不住精怪。,"He can tether a beast, but not a Poltergeist.","Он может удержать зверя, но не духа."
+line-445,,雪片飞舞，漆黑沾染了维多利亚的土地。,"Snowflakes whirls about, jet black sinking into the soil of Victoria.","Снежные хлопья кружатся, тьма оскверняет викторианскую землю."
+line-446,,狭长的阴影自脚下延展。他知道，就在身后。,"A long, slender shadow stretches out from underfoot. He knows. It's right behind him.","Длинная тень тянется от самых ног. Он знает, что кто-то прямо сзади."
+line-447,,有多近？心跳声像是响雷，黑色的呼吸抓挠着他的脊背，周遭万籁俱寂。,"How close? His heart pounds like thunder. Black breaths clamor at his back. All around him, dead silence.","Как близко? Сердцебиение звучит как раскаты грома, черное дыхание скребет спину, вокруг — гробовая тишина."
+line-450,,嘶......,*hiss*...,Ссс...
+line-455,戴着礼帽的人,（高卢语）我需要一个解释。,(Gaulish) I need an explanation.,(На галльском) Мне нужно объяснение.
+line-461,？？？,93。【密语】。,93. (Code word).,93. [Кодовая фраза].
+line-462,？？？,（高卢语）这次行动未经陛下首肯，任何僭越都不被允许。,(Gaulish) This operation has not received Royal assent. We will not pardon any breach of authority.,"(На галльском) Операция не была одобрена Его Величеством, любое превышение полномочий недопустимо."
+line-463,？？？,（高卢语）叛国者皆已伏诛，仅此而已。,(Gaulish) The treasonists have all been executed. Over.,"(На галльском) Все предатели казнены, это всё."
+line-465,戴着礼帽的人,（高卢语）我明白了。我们不曾见过。,(Gaulish) Understood. We've never met before.,(На галльском) Я понял. Мы не виделись.
+line-467,？？？,呼......,*huff*...,Ха...
+line-475,戴着礼帽的人,......他走了。,...He's gone.,...Он ушел.
+line-480,潜伏特工,灰礼帽阁下，我们监控到了——,"Sir Trilby Asher, our surveillance picked up—","Господин в серой шляпе, мы зафиксировали —"
+line-482,戴着礼帽的人,你们什么都没有监控到。,Your surveillance picked up <i>nothing.</i>,Вы ничего не зафиксировали.
+line-484,戴着礼帽的人,他能进入这里，而我们还活着，这本身就是维多利亚和乌萨斯的表态。此事只需直接汇报给公爵阁下。,"The fact he could enter and leave us alive, <i>that</i> declares where Victoria and Ursus stand. All this needs to be reported directly to the Duke.","То, что он смог войти сюда, а мы остались живы — уже само по себе заявление со стороны Виктории и Урсуса. Об этом доложить лично Его Светлости."
+line-486,戴着礼帽的人,威斯里·罗特畏罪自杀了，任务结束。,Wesley Roett was cornered and took his own life. The mission is over.,"Уэсли Рот покончил с собой, опасаясь наказания. Задача выполнена."
+line-488,潜伏特工,看来集团军和皇帝的意见并不统一。,Seems to me like the Armies and the Emperor aren't on the same page.,"Похоже, мнения армейской группировки и Императора разошлись."
+line-490,戴着礼帽的人,但我们的任何行动都可能会促成这种统一的达成。,But any action we take could succeed in bringing about their conciliation.,Но любые наши действия могут привести к достижению этого единства.
+line-492,戴着礼帽的人,他们还没有拿定主意，但那个帝国......恐怕，最终会下定决心的。,"They haven't settled on their plans yet, but their Empire... their fear, that will make their decision for them.","Они еще не определились, но та империя... боюсь, в конце концов, примет решение."
+line-498,,是不是，我的这些工作也成了柴薪的一部分，萨卡兹的所有生活，除了被点燃，没有其他的意义？,"Tell me—has my work fallen among the firewood too? Are all Sarkaz's lives, save for being lit aflame, devoid of any meaning?","Неужели вся моя работа стала лишь топливом для костра, и у всей жизни саркази нет иного смысла, кроме как быть подожженными?"
+line-499,,\n那我为什么还要记录，那我为什么还要书写？,\nThen why do I still insist on recording? Why do I still insist on writing?,"Тогда зачем мне записывать, зачем мне писать?"
+line-500,,\n我的战争史里除了那一次又一次的毁灭......,\nBecause while my history of war recounts our destruction time and time again...,"В моей истории войн, кроме этих бесконечных разрушений..."
+line-502,,我更想记述下，每个士兵在战斗过后，望向卡兹戴尔时所唱的歌。,"It is my wish to leave the song of every soldier, after the fighting is over, as they turn their gazes to yonder Kazdel.","Я больше хочу записывать песни, которые поет каждый солдат, глядя на Каздель после боя."
+line-514,赫德雷,左后方，三辆车，十五人以上。他们跟了我们很久，但......很谨慎。,"To our seven. Three cars, fifteen-plus riders. They've been following us forever, but... they're staying wary.","Слева сзади, три машины, более пятнадцати человек. Они долго нас преследовали, но... очень осторожно."
+line-515,赫德雷,迄今为止，只是跟着。,"Following, this entire time. Just following.",До сих пор просто следовали.
+line-517,伊内丝,你可以让W打方向盘掉个头，说不定他们很乐意跟你问个好，再送你些伦蒂尼姆的纪念品。,Why not tell W to hang a U-turn? Maybe they'll be happy to say hi. You could get some free Londinium souvenirs.,"Можешь сказать W вывернуть руль, может, они будут рады поздороваться и подарить тебе пару сувениров из Лондиниума."
+line-519,赫德雷,纪念品？他们手上捏着的那一大团源石技艺？,Souvenirs? Inside that giant ball of Arts they're hand-shaping?,"Сувениры? Те, что они сжимают в руках в виде сгустков ориджиниумного искусства?"
+line-520,赫德雷,之前挨的那几下已经够我受的了。,"I'm treasuring the last few close shaves just fine, thanks.","Мне хватило тех пары раз, что я уже получил."
+line-521,赫德雷,这些佣兵的行动很奇怪，与其说是在猎杀我们，不如说......是在驱赶我们。,"The way these mercs are working doesn't add up. Especially the way they're hunting us. No, not hunting... they're driving us off.","Эти наемники ведут себя странно. Это не охота, скорее... они нас вытесняют."
+line-522,赫德雷,他们希望我们远离伦蒂尼姆。,They want us away from Londinium.,"Они хотят, чтобы мы были подальше от Лондиниума."
+line-524,W,咱们高高在上的曼弗雷德将军为了保你的命，还真是煞费苦心啊。你俩真不是拜把子兄弟？,"Aww, our high-'n'-mighty General Manfred's sparing your life, isn't that sweet of him. You sure you two didn't swear a blood oath?",Наш высокомерный генерал Манфред так старается спасти твою шкуру. Вы точно не братья?
+line-525,W,不如接受他的好意，回卡兹戴尔教贫民窟的小鬼们识字？,"Wanna take his kind advice, scoot back to Kazdel and teach some slum kiddos how to read?","Может, примешь его доброту и вернешься в Каздель, чтобы учить детишек в трущобах грамоте?"
+line-527,赫德雷,......,......,...
+line-529,W,说到底，是谁把你从军事委员会的大牢里放出来的？我捡到你的时候，你可都已经在伦蒂尼姆的城墙外面散步了。,"My point is, who let you out of the Military Commission's dungeon? You were going walkies outside of Londinium's walls by the time I picked you up.","В конце концов, кто выпустил тебя из тюрьмы военного совета? Когда я тебя нашла, ты уже вовсю разгуливал за стенами Лондиниума."
+line-531,赫德雷,我的牢房有一段时间无人看守。我原以为是个陷阱，但现在看来，也许更糟。,"My cell was left unguarded for a while. I thought it was a trap at first, but now I think I'm in something worse.","Моя камера какое-то время оставалась без охраны. Сначала я думал, что это ловушка, но сейчас кажется, что всё гораздо хуже."
+line-532,赫德雷,相比于用这么迂回的办法，暗示我去做某些麻烦的事......我倒宁愿简单点，要我的命。,"Sure, he can be roundabout with me, hinting for me to go resolve some pain in the ass affair... but I think I'd prefer him just killing me, then. That would've been easier.","Вместо того чтобы намекать мне на выполнение каких-то сомнительных дел таким окольным путем... я бы предпочел, чтобы они просто убили меня."
+line-533,赫德雷,更何况，我们还不清楚，这些“麻烦事”到底是什么。,"Not to mention, we still aren't sure what 'pain in the ass' we're even solving.","Тем более, мы до сих пор не знаем, что это за «дела»."
+line-535,伊内丝,那就躲开它。,Then don't bother with it.,Тогда избегай их.
+line-537,伊内丝,W，还能再加速吗，我们该告别这些太过恋恋不舍的送别者们了。,"W, can you speed up a little? It's time we said goodbye to this clingy convoy of send-offs.","W, сможешь прибавить скорости? Пора попрощаться с нашими слишком уж навязчивыми провожатыми."
+line-539,W,我这辆二手车可经不起折腾，不过好消息是——,"Yeah, my second-hander here's not gonna stand up to much abuse. Good news, though—","Моя тарантайка может этого не пережить, но есть хорошие новости —"
+line-552,W,咱们刚巧进雷区了。,We just hit a minefield.,Мы как раз въехали на минное поле.
+line-554,W,半个钟头以前我亲自埋的。,Laid half an hour earlier by yours personally.,Которое я сама заложила полчаса назад.
+line-556,W,现在，坐稳了。,"Now, butts in seats.",Держись крепче.
+line-578,赫德雷,你看起来就是在从所有的炸弹上面蹚过去。,This looks to me like you're just fording Bomb River.,"Похоже, ты просто едешь по верхам всех заложенных бомб."
+line-580,W,哈哈，我保证，留给他们的更多。,"Haha! I left them the bigger share, I promise.","Ха-ха, обещаю, остальным досталось больше."
+line-582,伊内丝,转过前面那片树林之后停车，我们接下来下车步行。载具的目标太大，他们迟早还会追上。,"Stop the car once we circle that forest ahead. From there, we'll get off and proceed on foot. A vehicle's too large of a target, and they'd catch up sooner or later anyway.","Остановись после того леса, дальше пойдем пешком. Машина слишком заметна, они нас догонят."
+line-584,伊内丝,但愿你真的记得每一枚地雷究竟埋在哪，W。,"Here's hoping you DO remember where you buried every mine, W.","Надеюсь, ты действительно помнишь, где заложена каждая мина, W."
+line-596,伊内丝,......,......,...
+line-598,伊内丝,真该庆幸，我们都还完整。,"Well, hooray for us. We're all in one piece.","Счастье, что мы все целы."
+line-600,W,怎么样，我确实记得。,How's that? I did remember.,Ну как? Я правда помню.
+line-602,W,有几枚爆炸了的......唔，也许是，那个词怎么说的来着？“地质运动”导致的。,"Well, a couple went off, but... uhh, you know, what was the term? 'Tectonic movement' did it.","А те, что сдетонировали... ну, может, это из-за... как там это называется? «Геологических сдвигов»."
+line-604,伊内丝,那些人没跟上来，我们确实应该甩开他们了。,They haven't caught up. I think we've successfully thrown them off.,"Они отстали, кажется, мы их сбросили с хвоста."
+line-606,伊内丝,我们需要更多情报，最好尽快和罗德岛合流，阿斯卡纶和博士现在都在温德米尔的军舰上。,"We need more information. Ideally, we rendezvous with Rhodes Island ASAP. Ascalon and the Doctor are on Windermere's warship right now.",Нам нужно больше данных. Лучше всего — соединиться с Родос Айленд. Аскалон и Доктор сейчас на корабле Уиндермира.
+line-608,伊内丝,有些事情，让我很......不安。,There's a few things I'm... very uneasy about.,Некоторые вещи меня очень... беспокоят.
+line-610,赫德雷,你看见了什么？,What did you see?,Что ты видела?
+line-612,伊内丝,只是直觉。看见的越没问题，我越不安。,"It's just intuition. The less I see any problem, the more uneasy I am.","Просто интуиция. Чем меньше проблем видно, тем больше я беспокоюсь."
+line-614,赫德雷,你们都见过了这一位“博士”。现在是罗德岛的博士。,You guys met this 'Doctor'. And now they're Rhodes Island's Doctor.,Вы обе видели этого «Доктора». Теперь это Доктор Родос Айленда.
+line-616,伊内丝,......我还不能给你一个直接的结论，但某种意义上，那位博士确实变得“软弱”了。,"...I can't give you the full verdict yet, but there's no doubt that in a sense, the Doctor has 'weakened'.","Я еще не могу дать однозначный ответ, но в некотором смысле Доктор действительно стал «слабее»."
+line-618,伊内丝,这里的软弱并不是一个贬义词。但也许我们现在不那么需要一个“软弱的博士”。,And I don't mean that in any negative way. But maybe it's not a 'weak Doctor' we need so much right now.,"Здесь слабость — не оскорбление. Но, возможно, сейчас нам меньше всего нужен «слабый Доктор»."
+line-620,W,哼，你确定？谁知道会不会有罗德岛干员突然回忆起切尔诺伯格的什么事，背后捅我刀子呢？,"Hmph. You sure? Who knows if some Rhodes op will remember some random thing that happened in Chernobog, and just like that, I get a knife planted in my back?","Хм, ты уверена? А вдруг кто-то из оперативников Родоса внезапно припомнит что-нибудь из Чернобога и воткнет мне нож в спину?"
+line-622,伊内丝,你真的有你嘴上表现的这么怀疑吗，W？,"Are you really as skeptical as you'd like to tell us, W?","Ты действительно так сомневаешься, как говоришь, W?"
+line-624,W,不好说。有个老女人不怎么让我接近他们敬爱的“博士”。,Hard to say. There's an old hag kind of keeping me at arm's length from their beloved 'Doctor'.,Кто знает. Одна старая ведьма не подпускает меня к их драгоценному «Доктору».
+line-626,赫德雷,W。,W.,W.
+line-627,赫德雷,你在这片战场里行走了这么久，有什么想法？,You've spent plenty of time walking this battlefield. Any ideas?,Ты так долго ходишь по полям сражений. Что ты думаешь?
+line-629,W,......哈哈。我不过是像虫子一样被赶来赶去，组织不了任何像样的军事行动，只能近距离观赏现代社会最神奇的一场围城战......,"Haha... I've just been prodded this way and that like some bug. Can't even organize a sensible military op, so all I do is sit in my front row seat and spectate the most magical city siege modern society has to offer...","...Ха-ха. Я просто, как букашка, ношусь туда-сюда, не способная организовать ничего стоящего, могу только вблизи наблюдать за самой удивительной осадой современного мира..."
+line-631,W,......哈。哼。,...Ha. Hmph.,...Ха. Хм.
+line-633,W,混乱。,Chaos.,Хаос.
+line-635,W,我有时甚至会琢磨，现在这个时候，这场仗真的还有人在指挥吗？,"Sometimes I even have to wonder, at this point, is anyone actually conducting this battle?","Иногда мне кажется: а есть ли вообще кто-то, кто сейчас командует этой войной?"
+line-637,W,王庭的各个军团之间根本没什么配合可言。更别说那些从各个地方赶来维多利亚的，满怀着复仇理想的杂牌士兵们。,The Royal Court's legions couldn't work together to save their lives. And who gives a shit about all the smallfry corps scuttling in from the four corners to try and live their dreams of Victorian vengeance?,"Между корпусами Королевского двора нет никакой координации. Не говоря уже об этих сбродных отрядах, что примчались в Викторию со всей округи с мечтами о мести."
+line-639,W,但幕后黑手是特雷西斯。所以，这只可能是被精心设计的混乱。,But the ultimate mastermind here is Theresis. So this chaos has to have been planned down to the last detail.,Но за кулисами Терезис. Так что это может быть только тщательно спланированный хаос.
+line-641,W,他现在根本没考虑什么战略上的乱七八糟的事，他只是......搭好了舞台。,He wasn't juggling some strategic lollapalooza. He just... set the stage.,"Он сейчас вообще не думает о какой-то там стратегии, он просто... подготовил сцену."
+line-643,赫德雷,——然后等待。,—And now he's waiting.,— И ждет.
+line-645,赫德雷,至于等待的是什么......我不想去猜了。,As for what he's waiting for... I don't want to guess.,А чего он ждет... я не хочу угадывать.
+line-647,赫德雷,我们不能脑袋空空地去见博士和凯尔希医生，然后指望他们给我们下达什么指令。在巴别塔，我们已经吃过苦头了。,"We can't just go braindumb and reach out to the Doctor or Dr. Kal'tsit, hoping they'll give us the orders. We suffered enough with Babel.","Мы не можем явиться к Доктору и Кель'си с пустыми головами, надеясь, что они дадут нам инструкции. Мы уже хлебнули этого в Вавилоне."
+line-649,赫德雷,必须掌握主动权，有一个......也许以我们的身份接触起来更方便的信源。,"We need to seize the initiative. There's a... source of info that might be more open to us than ever, in our current position.","Мы должны перехватить инициативу, найти источник информации... возможно, с нашим статусом выйти на него будет легче."
+line-651,W,什么身份？可怜虫？,What position? The pathetic little creepy-crawlies?,Какой статус? Жалкие бродяги?
+line-653,赫德雷,差不多吧。萨卡兹。,Essentially. Sarkaz.,Примерно так. Саркази.
+line-655,赫德雷,对了，以防万一——,"Right, and just on the off-chance—","Кстати, на всякий случай —"
+line-657,赫德雷,你们有没有听说过任何一种，能杀死巫妖的方法？,Have either of you heard of... any method to kill a Lich?,Вы когда-нибудь слышали о хоть каком-то способе убить лича?
