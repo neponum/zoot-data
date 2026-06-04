@@ -1,0 +1,473 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act30side
+__chapter__,,Chapter Name,activities/act30side/level_act30side_st02,登山铁道
+,,,,
+char-1,油滑的士兵,油滑的士兵,Slippery Soldier,Ловкий солдат
+char-2,老练的士兵,老练的士兵,Seasoned Soldier,Опытный солдат
+char-3,服务员,服务员,Server,Официант
+char-4,雅儿,雅儿,Kjarr,Яэр
+char-5,侍女,侍女,Servant,Горничная
+char-6,虚弱的士兵,虚弱的士兵,Sickly Soldier,Слабый солдат
+char-7,喀兰贸易员工,喀兰贸易员工,Karlan Trade Employee,Сотрудник «Каран Трейд»
+char-8,瓦莱丝,瓦莱丝,Valais,Валис
+char-9,诺希斯,诺希斯,Gnosis,Носис
+char-10,恩雅,恩雅,Enya,Энья
+char-11,恩希欧迪斯,恩希欧迪斯,Enciodes,Энсиодис
+char-12,哈洛德,哈洛德,Harold,Харольд
+char-13,恩希欧迪斯&恩雅,恩希欧迪斯&恩雅,Enciodes & Enya,Энсиодис & Энья
+char-14,锏,锏,Degenbrecher,Цзянь
+char-15,切斯特,切斯特,Chester,Честер
+,,,,
+line-13,油滑的士兵,我回来了。,I'm back.,Я вернулся.
+line-15,老练的士兵,......,......,...
+line-17,油滑的士兵,里斯本，你在东张西望什么呢？,"Lisburn, what are you standing around for?","Лисбон, чего ты вертишься по сторонам?"
+line-19,老练的士兵,没什么。,Nothing.,Ничего.
+line-21,油滑的士兵,哦，我记起来了，老图里尔的女儿在后厨做饭，你小子在想找什么借口溜过去吧。,"Oh yeah, I remember now. Old Turiels' daughter was cooking in the back kitchen, so you wanted some excuse to slip on over.","А, точно, вспомнил. Дочка старого Турильера на кухне готовит, небось ищешь предлог, чтобы туда прошмыгнуть."
+line-22,油滑的士兵,假公济私啊，小子。,"Look at you, acting like you're doing us a great service.","Ну ты и хитрец, парень."
+line-24,老练的士兵,她原本就在这附近的饭店当厨师，被请来帮忙也很正常啊。,"She used to work as a chef in a nearby restaurant, so it makes plenty of sense to bring her onboard.","Она и так повар в местном ресторане, ничего удивительного, что её попросили помочь."
+line-26,油滑的士兵,算了，比起这个，怎么菜还没有上？,"Whatever. More importantly, why's the food not ready yet?","Да ладно, неважно. Почему еду до сих пор не принесли?"
+line-27,油滑的士兵,哎，老丈，我想问问菜为什么还没有上。,"Hey boss, how come the food hasn't been served yet?","Эй, любезный, почему задержка с едой?"
+line-31,服务员,抱歉，抱歉。,Sorry about that.,"Прошу прощения, извините."
+line-32,服务员,主要是要上的菜有点太多了，厨房虽然已经请来了许多人帮忙，但还是有些忙不过来。,"The main reason is that we're a bit overloaded right now. Even though we've upped the kitchen staff, it's still not enough to handle the workload.","Заказов сегодня слишком много. Мы наняли помощников, но кухня всё равно не справляется."
+line-34,老练的士兵,既然这样的话，就让我来帮忙吧！,"In that case, l don't mind lending a hand!","Раз так, позвольте мне помочь!"
+line-37,雅儿,不必了。,There's no need.,В этом нет нужды.
+line-39,油滑的士兵,你是......,Who are you...?,Вы...
+line-41,雅儿,圣女大人身边的侍女长，雅儿，见过几位长官。,"I am chief maid to the Saintess, Kjarr. It's a pleasure to make your acquaintance.","Яэр, старшая горничная при Святой. Приветствую вас, господа офицеры."
+line-43,油滑的士兵,呃，我们只是一些士兵，不用对我们行礼。,"Hah, we're just a bunch of lowly soldiers. No need for the formalities.","Э-э, мы просто солдаты, не нужно перед нами кланяться."
+line-45,雅儿,利雅。,Lia.,Лия.
+line-47,侍女,在。,"Yes, Madam?",Слушаю.
+line-49,雅儿,把随行的侍女分组，轮班前往后厨帮忙。,Split the accompanying servants into teams and have them take turns helping in the kitchen.,Раздели остальных горничных на группы и отправь на кухню по очереди.
+line-50,雅儿,务必让宴会能够顺利进行。,Make sure the banquet proceeds smoothly.,Банкет обязан пройти гладко.
+line-52,侍女,是。,Understood.,Слушаюсь.
+line-54,老练的士兵,这......怎么好意思！,But... we couldn't possibly have you–,Ну что вы... как же нам неловко!
+line-56,雅儿,长官不必介怀。,"There's no need to worry, sir.","Господин офицер, не стоит беспокоиться."
+line-57,雅儿,虽然这场宴会是子爵阁下主办，但这里毕竟是谢拉格，对圣女大人而言，诸位才是客人。,"Though this banquet is hosted by the Lord Viscount, this land is still Kjerag, and you are all esteemed guests in the eyes of the Saintess.","Хотя банкет организован виконтом, мы находимся в Кьераге. Для Святой вы — наши гости."
+line-58,雅儿,子爵阁下宴请圣女大人，那么，我们这些做下人的帮助各位也是理所当然。,"As the Lord Viscount was gracious enough to extend an invitation to the Saintess, it is only natural that we servants lend our assistance as well.","Если виконт пригласил Святую, значит, нам, слугам, подобает оказывать вам помощь."
+line-60,雅儿,况且......请不要怪我说得有些难听，各位长官的手拿武器拿惯了，端起盘子，恐怕帮倒忙的可能性更大些。,"Additionally... Pardon me if this may sound offensive, but it would be out of place for those whose hands wield weapons to carry plates.","К тому же... уж простите за прямоту, ваши руки привыкли держать оружие. Боюсь, с подносами вы только больше беды наделаете."
+line-62,老练的士兵,唔......,Ngh...,Хм...
+line-64,油滑的士兵,行了，里斯本，侍女长小姐说得对，咱们真去帮忙，指不定要摔碎多少盘子呢。,"Calm down, Lisburn. The maid's right. We'd probably end up breaking a whole bunch of crockery if we tried to help.","Слышал, Лисбон? Старшая горничная права. Если мы полезем помогать, перебьём всю посуду."
+line-66,老练的士兵,......我明白了。,...I know.,...Я понял.
+line-67,老练的士兵,不过，要是有什么需要干体力活的地方，侍女长小姐也别客气。,"But, if there's any physical labor that needs doing, you just give us a holler, alright?","Но если нужна будет грубая сила, госпожа старшая горничная, обращайтесь."
+line-69,雅儿,啊，这么说起来，后厨现在似乎还挺缺人搬运食材的，不知长官......,"Oh, come to think of it, the kitchen could use some extra hands to help them carry some groceries. I'm not sure if...","О, кстати говоря, на кухне не хватает людей, чтобы носить продукты. Не могли бы вы..."
+line-71,老练的士兵,我去，我去！,I'm on my way!,Я помогу! Я схожу!
+line-77,油滑的士兵,......谢谢了，侍女长小姐。,"Thanks, Madam.","...Спасибо вам, госпожа старшая горничная."
+line-79,雅儿,客气。,My pleasure.,Не за что.
+line-80,雅儿,既然事情已经解决，我也就不在这里打扰长官们享受宴会了。,"Now that things are settled here, I won't further disturb your enjoyment of the banquet.","Раз вопрос решен, не буду мешать вам наслаждаться банкетом."
+line-91,侍女,......我回来了。,...I'm back.,...Я вернулась.
+line-93,雅儿,利雅，还有件事要麻烦你，你去看看他们有没有这几种食材，如果有的话，就让厨房加做一道菜。,"Lia, I have one more favor to ask of you. Can you see if the kitchen has these items? If they do, I'd like them to make one additional dish.","Лия, у меня еще одно поручение. Проверь, есть ли у них вот эти продукты. Если да, попроси кухню приготовить дополнительное блюдо."
+line-95,雅儿,就做......就做水果奶酪卷饼。,I'd like... a fruit and cheese wrap.,Приготовьте... фруктовые блинчики с сыром.
+line-97,侍女,做那种家常菜吗？,Pulling out the old home cooking?,Такое простое блюдо?
+line-98,侍女,可是，圣女大人平时从来不碰啊？,But the Saintess normally doesn't touch that stuff.,"Но Святая его обычно не ест, верно?"
+line-100,雅儿,哎呀好啦，你就听我的。,"Now, now. Just listen to me.","Ой, да ладно тебе, просто сделай, как я сказала."
+line-111,雅儿,喀兰贸易的职员们看来也已经陆续到场了。,Karlan Trade's employees seem to be arriving one after another.,"Сотрудники «Каран Трейд» тоже, похоже, все собрались."
+line-113,侍女,是的，那位子爵阁下不仅邀请了圣女大人和恩希欧迪斯老爷，也邀请了蔓珠院的长老们，以及喀兰贸易的员工们。,"That's right. The viscount invited not only the Saintess and Master Enciodes, but also the elders of the Vine-Bead Court as well as the employees of Karlan Trade.","Да, виконт пригласил не только Святую и господина Энсиодиса, но и старейшин храма Манджу, и работников компании."
+line-114,侍女,不愧是维多利亚的子爵，真是财大气粗。,As extravagant as one would expect of a Victorian viscount.,Не зря он виконт из Виктории — размах впечатляет.
+line-115,侍女,而且那位子爵确实有些本事，他甚至请到了在驮峰酒店当主厨的那位图里尔大厨。,"The man's not all show either. He even invited Turiels, head chef of the Burdenpeak Hotel.",Да и способности у него есть: он даже уговорил шеф-повара Турильера из отеля «Вьючный пик».
+line-116,侍女,那位脾气可糟糕了，可不是有钱就能请动的。,His foul temper isn't something that can be bought with money.,"А у него нрав тот еще, деньгами не подкупишь."
+line-118,雅儿,说明他们进入谢拉格的这一个月里和我们的人民确实相处得不差。,It goes to show how well they've gotten on with our people during the month they've been in Kjerag.,"Значит, за тот месяц, что они в Кьераге, они неплохо поладили с нашим народом."
+line-120,雅儿,嗯？,Hmm?,М?
+line-131,虚弱的士兵,喝！干了！,Chug! Chug!,Ха! Пьём до дна!
+line-133,喀兰贸易员工,嗝——喝，喝！,"*hic*... Chug, chug!","Ик... Пьём, пьём!"
+line-142,喀兰贸易员工,咕......,*braaaaap*...,Гу...
+line-148,虚弱的士兵,不错，你们雪山人，真挺能喝......,"Not bad, not bad! You mountain folk sure know how to hold your booze!","Неплохо, вы, горцы, и правда крепкие..."
+line-149,虚弱的士兵,不过，还是我能喝，嘿、嘿嘿。,But you still can't out-drink me! Heh... hehe.,"Но я всё равно пью больше, хе-хе-хе."
+line-150,虚弱的士兵,下一个，谁来！,Who's up next?,"Следующий, кто на очереди!"
+line-161,侍女,哇，这些人在这种地方都能拼酒啊......,"Urgh. Those men can get sloshed, even in a place like this?","Ого, они и тут умудрились устроить соревнование по выпивке..."
+line-162,侍女,而且，已经喝倒了好几个了。,"Not to mention, quite a few have already ended up under the table.",И уже уложили нескольких.
+line-163,侍女,雅儿，怎么办？,"Kjarr, what should we do?","Яэр, что будем делать?"
+line-165,雅儿,......唉。,Well...,...Эх.
+line-166,雅儿,相处不差是好事，但相处得太好，也挺麻烦的。,"Getting on well is certainly a wonderful thing, but getting on too well can be problematic.","Хорошо, что они ладят, но слишком хорошо — тоже проблема."
+line-168,雅儿,不过这事自然有别的人头痛。,"This sort of thing, however, ends up being a headache for certain other people.","Впрочем, пускай об этом болит голова у кого-нибудь другого."
+line-178,瓦莱丝,诺希斯大人，山雪鬼小队已经就位。,"Gnosis, the Tschäggättä are in position.","Господин Носис, отряд «Горных снежных демонов» на позициях."
+line-179,瓦莱丝,我让他们在前后门巡逻，以防有人混入宴会。,I have them patrolling the front and rear entrances to prevent anyone from sneaking inside the venue.,"Я поставила их патрулировать у входов, чтобы никто лишний не проник на банкет."
+line-181,诺希斯,不用这么紧张。,No need to be nervous.,Не стоит так напрягаться.
+line-182,诺希斯,瓦莱丝，你带一队山雪鬼一起去厨房帮忙。,"Valais, send one team to go help in the kitchen.","Валис, возьми отряд и иди на кухню, помоги им там."
+line-184,瓦莱丝,是。,Understood.,Есть.
+line-191,诺希斯,这一瓶，干了，敢吗？,"Care for a drink? If you dare, that is.",Эту бутылку до дна. Слабо?
+line-193,虚弱的士兵,这，这可是最烈的，就凭你？,Th-This is some crazy strong stuff. We seriously doing this?,"Э-это же самый крепкий напиток, ты в себе?"
+line-195,诺希斯,敢吗？,"As I said, up to you.",Слабо?
+line-197,虚弱的士兵,嘿嘿，好，胆子够大，干！,"Haha, you got me. You've got guts, I'll give you that. Cheers!","Хе-хе, ладно, смелости тебе не занимать, погнали!"
+line-204,诺希斯,再来。,Pour me another glass.,Ещё.
+line-206,虚弱的士兵,好！,On it!,Хорошо!
+line-214,虚弱的士兵,你......不错......,You're... not bad...,Ты... хорош...
+line-222,诺希斯,......有醒酒汤吗？,Do we have a hangover remedy?,...Есть отвар от похмелья?
+line-224,雅儿,利雅。,Lia.,Лия.
+line-226,侍女,请用。,Right here.,Пожалуйста.
+line-228,诺希斯,好。,Good.,Хорошо.
+line-240,喀兰贸易员工,咦，总、总监？！,Huh? D-Director?!,"Э, д-директор?!"
+line-242,诺希斯,醒了吗？,Enjoy your nap?,Очнулся?
+line-244,喀兰贸易员工,是、是的！,"Uh, y-yes!",Д-да!
+line-245,喀兰贸易员工,那个很能喝的士兵......是您把他灌倒了吗？！,That one soldier with a stomach of iron... You managed to drink him under the table?!,"Тот солдат, который так много пил... Это вы его напоили?"
+line-247,诺希斯,嗯。,Yep.,Да.
+line-249,喀兰贸易员工,......好厉害。,That's crazy...,...Круто.
+line-251,诺希斯,今天别再喝了，去休息吧。,Lay off the alcohol for the rest of the day. Go rest.,Хватит на сегодня. Иди отдохни.
+line-253,喀兰贸易员工,谢、谢谢您！,Th-Thank you very much.,С-спасибо вам!
+line-255,诺希斯,......,......,...
+line-257,雅儿,想不到，喀兰贸易的首席技术总监原来这么擅长喝酒。,Color me surprised. I didn't expect Karlan Trade's CTO to be such a good drinker.,"Не ожидала, что главный технический директор «Каран Трейд» так хорош в пьянстве."
+line-258,雅儿,两瓶烈酒下肚，面不改色，看不出来呀。,I can hardly tell from your face that you just downed two bottles of strong liquor.,"Две бутылки крепкого алкоголя, а лицо даже не покраснело. Не скажешь по вам."
+line-260,诺希斯,一些年轻时练出来的无用技巧罢了。,Just some useless tricks I picked up when I was younger.,"Бесполезный навык, приобретенный в юности."
+line-262,雅儿,年轻时你也经常出入这种场合吗？,Did you frequently attend such occasions in your youth?,Часто бывали на таких мероприятиях в молодости?
+line-264,诺希斯,......与你无关。,Don't worry about it.,...Не ваше дело.
+line-266,诺希斯,宴会很快就要开始，我会让喀兰贸易的员工也一起帮忙准备。,"The banquet will start soon, and I'll have Karlan Trade's employees help move things along.",Банкет скоро начнется. Я прикажу сотрудникам помочь с подготовкой.
+line-268,雅儿,诺希斯大人不去加入谈话？,"You're not going to join in the conversation, Master Gnosis?",Господин Носис не присоединится к разговору?
+line-270,诺希斯,......,......,...
+line-271,诺希斯,暂时还不用。,Not at the moment.,Пока нет.
+line-272,诺希斯,现在是他们的时间。,It's their time now.,Сейчас время для них.
+line-283,恩雅,......,......,...
+line-285,恩希欧迪斯,......,......,...
+line-287,哈洛德,呃，两位——,"Umm, you two––","Э-э, господа..."
+line-289,恩雅,恩希欧迪斯大人今日怎么这样沉默，难道是心有挂怀，还是说，前来赴宴心情不佳？,"Why are you so taciturn today, Sir Enciodes? Is there something on your mind, or has coming to the banquet soured your mood?",Почему господин Энсиодис сегодня так молчалив? Вас что-то гложет или вы просто не в духе?
+line-290,恩雅,您平日的妙言巧语都去哪儿了？,Your usual quips and retorts are nowhere to be heard today.,Куда делось ваше привычное красноречие?
+line-292,恩希欧迪斯,感谢圣女大人关心。,I appreciate the Saintess's concern.,"Благодарю за беспокойство, Святая."
+line-293,恩希欧迪斯,只是能有幸与圣女大人同桌而坐，实在令人惶恐，不敢先于圣女大人开口。,"But, it's simply that sitting at the same table as the Saintess is a terrifying affair, and I can only hold my tongue in her presence.","Просто для меня большая честь сидеть за одним столом со Святой, я не смею прервать ваше молчание."
+line-295,恩雅,这么说来，恩希欧迪斯大人倒是一派虔诚，是我错怪了。,"I see. I did not think Sir Enciodes the pious type, but I stand corrected.","Значит, господин Энсиодис сегодня сама набожность? Пожалуй, я ошиблась."
+line-297,恩希欧迪斯,不敢言错。,I dare not speak out of line.,Не смею судить.
+line-299,恩雅,不敢。呵，这世上竟也有恩希欧迪斯大人不敢之事？,Oh? There are things in this world that even Sir Enciodes dares not do?,"Не смеете? Ха. Неужели в этом мире есть что-то, чего господин Энсиодис не смеет?"
+line-310,哈洛德,这、哈哈，我看今日天气晴朗，是个设宴的好日子啊。,"Um... Haha, look how nice the weather is today. Perfect day to be holding a banquet, wouldn't you say?","Ха-ха, по-моему, сегодня отличная погода для банкета."
+line-311,哈洛德,两位，我们——,Why don't you two go–,"Господа, давайте..."
+line-312,恩希欧迪斯,圣女大人谬赞，我自然也会有惧怕的事情。,"Given the Saintess's high praise, there are naturally many things I am afraid of.","Вы слишком добры, Святая. Конечно, есть вещи, которые меня пугают."
+line-313,恩希欧迪斯,远的不提，只说后日耶拉冈德像落成的仪式，如此重要之事，喀兰贸易上下自然是要团结一心，不敢踏错半步。,"I won't prattle on with the details, but take the ceremony for Kjeragandr's statue the day after tomorrow. For such an important occasion, all of Karlan Trade must come together as one, without a single misstep.","Не говоря уже о далеком будущем, возьмем завтрашнее открытие статуи Елаганд. Столь важное событие требует от «Каран Трейд» предельной собранности, мы не имеем права на ошибку."
+line-318,恩雅,既然是这样，恩希欧迪斯大人不妨再更仔细些。,"That being the case, I would recommend you be thorough and circumspect as well, Sir Enciodes.","В таком случае, господину Энсиодису стоит быть ещё внимательнее."
+line-319,恩雅,耶拉冈德像落成于谢拉格意义重大，更何况，此次还有我们从维多利亚“赶来祝贺”的朋友们，再怎么小心也不为过。,"The completion of Kjeragandr's statue is of utmost importance to Kjerag. Not to mention, we are in the presence of our Victorian guests who are eager to 'congratulate' us. There is no such thing as too much caution.","Статуя Елаганд имеет огромное значение для Кьерага, а учитывая наших друзей из Виктории, приехавших нас «поздравить», осторожность не помешает."
+line-320,恩希欧迪斯,您说得是。,It is as you say.,Вы правы.
+line-321,恩希欧迪斯,圣女大人熟悉神事，仪式诸多准备尽善尽美、思虑周全，实在是谢拉格的幸事。,"The Saintess is well-versed in all things divine, and the multitude of preparations made for the ceremony are impeccable and well thought-out. In all respects, a true blessing upon Kjerag.","Святая, вы прекрасно разбираетесь в церковных делах, и ваша тщательная подготовка церемонии — настоящее благословение для Кьерага."
+line-322,恩希欧迪斯,至于其他事务，请您尽管放心，喀兰贸易会为蔓珠院分忧。,"As for all other affairs, please rest assured that Karlan Trade will take care of the Vine-Bead Court's concerns.","Что до остального, прошу, положитесь на нас. «Каран Трейд» возьмет все заботы храма Манджу на себя."
+line-325,哈洛德,哎，两位都是年轻有为，令人佩服啊！,"Now, then. It's certainly reassuring to see the two of you so young and promising!","Ай, оба вы молодые, талантливые, просто загляденье!"
+line-326,哈洛德,此次咱们不光是前来祝贺，也是想谈谈合作——,"As a reminder, we're not only here to celebrate, but also to discuss a collaboration––","Мы сюда приехали не только поздравить, но и обсудить сотрудничество..."
+line-327,恩雅,您还是如此能言善辩，看来确实是胸有成竹了。,"Seeing as how you're eloquent as ever, you seem to have no shortage of confidence.","Вы всё так же красноречивы. Вижу, вы полностью уверены в себе."
+line-328,恩雅,恩希欧迪斯大人近来实在活跃，即便我很少下山，也总有喀兰贸易的种种新闻传入耳中。,"You've been quite busy making a name for yourself, Sir Enciodes. Though I rarely go down the mountain, news of Karlan Trade's exploits are regularly reaching my ears.","Господин Энсиодис последнее время поражает активностью. Даже я, редко покидающая горы, слышу новости о «Каран Трейд»."
+line-329,恩雅,不过，还请恩希欧迪斯大人不要忘记，谢拉格千年以来，是一代代人依靠勤劳与务实，而非功利与冒进，将我们的家园发展至今。,"But, please do not forget this, Sir Enciodes. For thousands of years, Kjerag has relied on hard work and pragmatism from generation to generation to develop our homeland into what it is today, not utilitarianism and reckless adventurism.","Однако, надеюсь, вы не забыли: Кьераг процветает тысячелетиями благодаря труду и прагматизму, а не корысти и рискованным авантюрам."
+line-330,恩希欧迪斯,耶拉冈德对子民的训诫，希瓦艾什不会忘记。,The Silverashes will never forget Kjeragandr's admonition of Her people.,Сильверэш никогда не забудет заповеди Елаганд для своего народа.
+line-331,恩希欧迪斯,不过圣女大人想必也明白，谢拉格人民勤劳务实，却也从不缺少攀登高峰的冒险精神。,"However, the Saintess must also understand that along with the people of Kjerag's hard work and pragmatism is an indomitable adventuring spirit, and a desire to ascend the highest summits.","Но Святая, вы должны понимать: народ Кьерага трудолюбив, но ему не чужд дух авантюризма, жаждущий покорения новых вершин."
+line-332,恩希欧迪斯,在对外发展一事上，或许我们正需要一点这样的锐气。,Perhaps a little bit of this spirit is also what we need when it comes to dealing with external developments.,"В вопросах внешнего развития нам, возможно, как раз не хватает этой дерзости."
+line-333,恩雅,希望您的锐气，不会带领您走向危险。,I only hope that your enthusiasm does not lead you headfirst into danger.,"Надеюсь, эта дерзость не приведет вас к краю пропасти."
+line-334,哈洛德,哈哈，年轻人总是有锐气嘛。不过，圣女大人说得是，有时稳一稳也是有必要的。,"Haha, the young truly are so full of energy. But, the Saintess is correct. Sometimes, stability is, in fact, necessary.","Ха-ха, молодежи свойственна дерзость. Впрочем, Святая права, порой осторожность не помешает."
+line-335,哈洛德,我请两位来，也是想——,I invited the two of you here because I wanted to––,"Я пригласил вас, чтобы..."
+line-336,恩希欧迪斯,圣女大人如此关心，实在令人感动。,I am truly touched by the Saintess's concern.,Ваша забота трогает до глубины души.
+line-337,恩希欧迪斯,请您放心，我会处理好，务必不让您失望。,"Please rest assured that I will handle this matter, and not betray your expectations.","Будьте уверены, я со всем справлюсь и не разочарую вас."
+line-338,恩希欧迪斯,谢拉格的一切，最终都要问过耶拉冈德的意思。,All things in Kjerag must inevitably answer to Kjeragandr's will.,В Кьераге всё в конечном итоге зависит от воли Елаганд.
+line-339,恩希欧迪斯,如果信仰不允许，我应该寸步难行，不是吗？,"Without sufficient faith, is it not true that I would struggle to take even a single step?","Если бы вера не позволяла мне двигаться, я бы не сделал ни шага, разве нет?"
+line-340,恩雅,......,......,...
+line-341,恩希欧迪斯,......,......,...
+line-342,恩雅,......你的坏毛病一点没变！,...You're just as awful as you ever were!,...Твои старые привычки никуда не делись!
+line-343,恩希欧迪斯,彼此。,Ditto.,Взаимно.
+line-344,哈洛德,呃，两位，有什么事可以好好商量，别伤了和气。,"Gah, you two! If you have a disagreement, talk it through like adults! Don't go and ruin the peace!","Э-э, господа, давайте обсудим всё мирно, без ссор."
+line-345,哈洛德,这个，我们不如说回合作——,Let's move on and discuss our cooperation––,Давайте вернемся к нашему сотрудничеству...
+line-346,恩雅,恩希欧迪斯大人的脑子，就像最纯净的源石冰晶一样固执。,"Sir Enciodes, your brain is as hard and stubborn as the purest Originium ice crystal.","Мозг господина Энсиодиса такой же холодный и упрямый, как кристалл ориджиниума."
+line-347,恩希欧迪斯,圣女大人也不遑多让，并且久违地......言辞直率。,The Saintess remains unmoving and... speaks bluntly for the first time in a long while.,"Святая не отстает, и, как давно не бывало... поражает прямотой."
+line-348,恩雅,比不过恩希欧迪斯大人。,I can't hold a candle to you in that regard.,"Мне до вас далеко, господин Энсиодис."
+line-349,恩雅,可看来我们的恩希欧迪斯大人，这么多年来，还是学不会留住本钱。,"But it seems that even after all these years, our great Sir Enciodes still has not learned to retain his capital.","Но кажется, наш господин Энсиодис за эти годы так и не научился хранить сбережения."
+line-350,恩希欧迪斯,这话从何说起？,To what does the Great Saintess refer?,С чего вы взяли?
+line-351,恩雅,你难道不是恶习发作，又不管不顾全部押进了？,Have your old habits not flared up again? Taking on every bit of risk with no regard for the consequences?,Неужели ты снова поддался старым привычкам и поставил всё на кон?
+line-352,恩希欧迪斯,风险总是与回报成正比。,"The greater the risk, the greater the reward.",Риск всегда пропорционален награде.
+line-353,恩雅,但愿恩希欧迪斯大人不会有为自己的决断后悔的一天。,I hope you won't regret your choices later on down the road.,"Надеюсь, настанет день, когда господину Энсиодису не придется пожалеть о своем решении."
+line-354,恩雅,如今可没有人会偷偷把零花钱塞在您的枕头下面了！,Nobody's going to sneak money under your pillow today!,Ведь теперь никто не подсунет вам тайком карманные деньги под подушку!
+line-355,恩希欧迪斯,......确实不会有了。,"Indeed, that won't be happening again.","...И правда, больше не подсунут."
+line-356,恩希欧迪斯,我也不必被硬币硌醒，还要连本带息买成糖果零食，三倍奉还。,"No longer will I be woken by the jingling of coins, or have to buy candies and snacks on margin and pay back thrice the amount.","И мне не придется просыпаться от того, что монетки впиваются в щеку, чтобы потом с процентами выкупать на них конфеты и возвращать в тройном размере."
+line-357,恩雅,没人要你还！,I never asked you to pay me back!,Никто тебя не просил возвращать!
+line-358,哈洛德,两、两位......,"Please, you two––",Г-господа...
+line-359,恩希欧迪斯&恩雅,子爵阁下，请您稍等。,"Just one moment please, Your Lordship.","Виконт, подождите минутку."
+line-360,恩雅,......,......,...
+line-361,恩希欧迪斯,......,......,...
+line-362,哈洛德,唉，呃，要不我自己先敬自己一杯......,"*sigh*... Fine, I suppose I'll drink to myself for now...","Эх, ну ладно, выпью-ка я тогда сам за себя..."
+line-375,哈洛德,圣女大人，恩希欧迪斯老爷，我无意插手二位的私事。,"Holy Saintess, Sir Enciodes, I have no intention of involving myself in your private affairs.","Святая, господин Энсиодис, я не хотел вмешиваться в ваши личные дела."
+line-376,哈洛德,但是，如果圣女大人对于谢拉格的现状也有自己的想法......,"But, if the Saintess has her own thoughts about Kjerag's present situation...",Но если у Святой есть свои взгляды на нынешнее положение дел в Кьераге...
+line-377,哈洛德,那么，回应公爵阁下的期待正是您的不二之选。,"Then, reciprocating the Duke's offer may be the perfect option for you.","То оправдать ожидания герцога — именно то, что вам нужно."
+line-379,恩雅,您的意思是？,What do you mean?,Вы о чем?
+line-381,哈洛德,圣女大人，我来给您说说，我对谢拉格印象最深的一幕如何？,"Holy Saintess, might I tell you what I've found most impressive about Kjerag?","Святая, позвольте, я расскажу вам о своем самом ярком воспоминании о Кьераге."
+line-383,恩雅,请说。,Please do.,Слушаю.
+line-385,哈洛德,我还记得，有一次，我去为一位牧民——就是老雷昂——看病的时候，他牧场里有头幼兽在放牧途中走失了。,"I recall the time I paid a medical call to a herdsman, Leones was his name. A young beast in his herd had gotten lost while grazing.","Помню, как однажды приехал лечить пастуха — старика Леона, — и у него на пастбище пропал детеныш вьючного зверя."
+line-386,哈洛德,我当时就提出帮忙寻找，但是那位牧民却告诉我不必着急。,"I offered to help him search for it, but he declined and told me not to worry.","Я вызвался помочь в поисках, но он сказал мне не торопиться."
+line-387,哈洛德,他让我等到傍晚，并留我吃晚饭。,"He had me wait until sundown, and left to have supper.",Велел подождать до вечера и пригласил на ужин.
+line-388,哈洛德,于是我就留了下来。,And so I waited.,И я остался.
+line-389,哈洛德,我看完了病，和老雷昂在草地上架起锅，生起火，他找来一块上好的奶酪，奶酪下锅发出了滋滋的声响。,"After finishing the treatment, I set up a cooking pot over the grass with him. We lit the pot, and he found a good piece of cheese. You should've heard the sizzling sound it made when he threw it in.","Закончив с лечением, мы разожгли огонь, поставили котёл. Старик нарезал отличного сыра, и он начал шкварчать на огне."
+line-390,哈洛德,我坐在短凳上，还在想着幼兽的事，就听到了远处传来的稚嫩叫声。,"I was sitting to the side on a short bench, still thinking about the young beast, when I heard a high-pitched cry in the distance.","Я сидел на низком табурете и всё думал о пропавшем детеныше, как вдруг услышал вдалеке слабый писк."
+line-392,哈洛德,这对谢拉格人来说也许是司空见惯的光景。,This might be something you see all the time in Kjerag.,"Для жителей Кьерага это, может, и обыденность."
+line-394,哈洛德,但对我而言，看到一头稚嫩的幼兽，踩着夕阳一步一步回到牧场，回到它母亲的身边，和它的母亲用身体互相摩擦的时候，那种感觉——,"But for me, when I saw that young beast returning to the pasture at sunset; the way it found its way back to its mothers side, the two nuzzling against each other––","Но для меня это был незабываемый миг: детеныш, шатаясь, шел по закатному солнцу обратно к стаду, к матери. Как они прижались друг к другу..."
+line-395,哈洛德,我不知道怎么描述。,What I felt at that moment... was something I don't know how to describe.,"Не знаю, как описать то чувство."
+line-396,哈洛德,老雷昂告诉我，驮兽认得自己亲人的气味，尤其是幼兽，对于母亲的气味十分敏感。,"Old Leones told me that burdenbeasts recognize the scent of their kin, especially foals, which are particularly sensitive to their mother's scent.","Старик Леон сказал, что детеныши вьючных зверей очень чутки к запаху матери."
+line-397,哈洛德,即使走丢了，它也会顺着气味找到自己的母亲。,"Even if they get lost, they'll always find their way back by following their mother's scent.","Даже если потеряются, они найдут дорогу по этому аромату."
+line-398,哈洛德,这种血脉上的连结，就像谢拉格人对自己土地的看法。,That blood bond reminds me of the way the people of Kjerag view their land.,"Эта кровная связь очень похожа на то, как люди Кьерага относятся к своей земле."
+line-400,哈洛德,就像——恩希欧迪斯老爷，放弃了维多利亚的荣华，最终回到了谢拉格。,It reminds me... of the way Sir Enciodes gave up Victoria in all her glory to return to Kjerag.,"Так же, как господин Энсиодис отказался от блеска Виктории и в итоге вернулся в Кьераг."
+line-402,恩雅,子爵阁下未免有些高看恩希欧迪斯大人了，大人如今是做出了一番事业不假——,I see Your Lordship speaks very highly of Sir Enciodes. It is true that he has made many achievements thus far––,"Виконт слишком высокого мнения о господине Энсиодисе. Да, он многого добился — это правда."
+line-404,恩雅,但若说他当时如同幼年的驮兽一般，是出于对名为“谢拉格”的“母亲”的依恋而返回谢拉格，这个玩笑未免风趣了一些。,"But if you are comparing him to a young burdenbeast returning to his homeland thanks to his ties with his 'mother' by the name of Kjerag, I find that joke quite droll.","Но предполагать, что он, подобно детенышу зверя, вернулся из-за привязанности к Кьерагу-«матери» — это довольно забавная шутка."
+line-406,哈洛德,但开斯特家族正是感念于恩希欧迪斯老爷对于家乡的思念，才会对喀兰贸易进行资助。,It is indeed thanks to Sir Enciodes's longing for his homeland that House Caster decided to fund Karlan Trade.,"Но семья Кастеров поддержала «Каран Трейд» именно из-за того, что оценила тоску господина Энсиодиса по родине."
+line-407,哈洛德,而且，公爵阁下也相信，既然恩希欧迪斯老爷对于自己身上流淌的谢拉格血液那么看重，想必也不会轻视自己身上的另一半血液——,"Moreover, the Duke believed that since Sir Enciodes greatly treasured the Kjerag blood flowing in his veins, he likewise would not come to despise the other half of his blood–","К тому же герцог уверен: раз Энсиодис так дорожит кьерагской кровью, он наверняка не забудет и о другой половине своей крови."
+line-409,哈洛德,开斯特的血。,The Caster bloodline.,Крови Кастеров.
+line-410,哈洛德,圣女大人，就像我刚才说的，我并非为了掀起争端而来。,"Holy Saintess, as I have previously stated, I am not here to stoke conflict.","Святая, как я и говорил, я здесь не ради ссоры."
+line-411,哈洛德,只是，在喀兰贸易起步之际，开斯特对恩希欧迪斯老爷伸出了援手。,"But, at the inception of Karlan Trade, it was Caster who extended a helping hand to Sir Enciodes.",Просто на старте «Каран Трейд» Кастеры протянули Энсиодису руку помощи.
+line-412,哈洛德,而如今，恩希欧迪斯老爷证明了自己的价值，公爵阁下认为，是时候收回一些利息了。,"And now that Sir Enciodes has proven his worth, the Duke believes that it is time to collect a bit of interest.","Теперь, когда он доказал свою ценность, герцог считает, что пора забрать проценты."
+line-414,恩雅,看来这次不是些糖果就能了事的了，恩希欧迪斯大人。,"It appears that a few pieces of candy will no longer be sufficient, Sir Enciodes.","Похоже, в этот раз конфетами не отделаться, господин Энсиодис."
+line-416,恩希欧迪斯,......,......,...
+line-418,哈洛德,也没有那么复杂。公爵阁下要的，只是诚意。,"It's not so complicated, really. What the Duke wants is simply a show of sincerity.",Всё не так сложно. Герцогу нужна лишь искренность.
+line-419,哈洛德,公爵阁下要看到恩希欧迪斯老爷、喀兰贸易，甚至是谢拉格的诚意。,"Her Grace wishes to see this goodwill from Sir Enciodes, from Karlan Trade, and ultimately, from Kjerag itself.","Герцог хочет видеть искренность Энсиодиса, «Каран Трейд» и даже всего Кьерага."
+line-420,哈洛德,对于开斯特公爵，对于维多利亚的诚意。,"A show of sincerity towards the Duke of Caster, and towards Victoria.","Искренность по отношению к герцогу Кастеру, к Виктории."
+line-421,哈洛德,只要有这份诚意在，那么，未来的合作只会更加紧密。,"So long as this sincerity exists, then our future cooperation will only become more intimate.","Если будет эта искренность, наше сотрудничество станет только крепче."
+line-423,恩雅,如果没有这份诚意呢？,And if we fail to express such sincerity?,А если этой искренности не будет?
+line-425,哈洛德,......,......,...
+line-432,,哈洛德放下餐具，踱步来到窗边，打开窗。,"Harold puts down his tableware, then walks over to the window and opens it.","Харольд положил приборы, подошел к окну и открыл его."
+line-433,,寒风夹杂着冰雪瞬间灌入房间，即使房间中升起了火炉，也依然无法抵挡这股寒意。,The cold wind laced with snow and ice instantly pours into the room. Even the burning stove is helpless to resist the chill.,"Холодный ветер вместе со снегом ворвался в комнату, и даже горящий очаг не мог спасти от этого мороза."
+line-434,,他马上又关上了。,He quickly closes the window once more.,Он тут же закрыл окно.
+line-441,哈洛德,哈哈，抱歉抱歉。,"Haha, my apologies.","Ха-ха, прошу прощения."
+line-443,哈洛德,圣女大人的问题有些尖锐，我下意识地想要开窗透透气。,"The Saintess's question was so incisive, I found myself wanting a breath of fresh air. ","Вопрос Святой был таким острым, что я инстинктивно захотел проветрить."
+line-444,哈洛德,在温暖的室内待久了，忘了外面是那么冷。,"After staying in this warm room for so long, I had forgotten how cold it was outside, you see.","Слишком долго сидел в тепле и забыл, какой снаружи холод."
+line-446,恩雅,......,......,...
+line-447,恩雅,既然如此，子爵阁下这顿饭应该宴请恩希欧迪斯大人，请我干什么？,"That being the case, Your Lordship could have simply entertained Sir Enciodes at this banquet. Why is my presence necessary?","В таком случае, виконт, зачем вы позвали на обед меня, а не господина Энсиодиса?"
+line-449,哈洛德,唉，老实说，我在这边吃好喝好，今早做了一次体检，虽然血糖变高了一些，但是血压下去了。,"Well, you see, I've been eating and drinking remarkably well here. During my morning constitutional, my blood pressure had gone down even as my blood sugar was up a tad.","Эх, честно говоря, я тут отлично питаюсь, сдал анализы — сахар подскочил, зато давление упало."
+line-450,哈洛德,让我再在这里住个一年半载也不打紧。,I wouldn't mind staying here for another year or so.,"Я бы и год тут прожил, не почесался."
+line-451,哈洛德,只是，架不住公爵阁下催得紧啊。,"But you see, I find the Duke's incessant nagging quite bothersome.",Но герцог не дает мне покоя.
+line-452,哈洛德,如今，喀兰贸易已经成为了谢拉格的支柱，而圣女大人与恩希欧迪斯老爷之间又有一层亲缘关系在。,"Nowadays, Karlan Trade has become a pillar of Kjerag, and the kinship between the Great Saintess and Sir Enciodes runs deep.","«Каран Трейд» теперь — опора Кьерага, а между вами и Энсиодисом есть родственные связи."
+line-453,哈洛德,我就想找个机会把二位请到一起，把事情摊开了说。,I simply wanted to provide an opportunity for the two of you to sit down and talk things over.,"Я просто хотел воспользоваться случаем, собрать вас вместе и поговорить начистоту."
+line-455,哈洛德,请圣女大人帮我说服恩希欧迪斯老爷。,I would like you to help me convince Sir Enciodes.,Прошу Святую помочь мне убедить господина Энсиодиса.
+line-457,恩雅,......子爵阁下，我感谢您的坦诚。,I appreciate Your Lordship's candor.,"...Виконт, я ценю вашу искренность."
+line-459,恩雅,但是，凡事既要讲开始，也要看结果。,"However, everything that has a beginning must also have an end.","Но в любом деле важно смотреть не только на начало, но и на итог."
+line-461,恩雅,谢拉格的今天，确实拜喀兰贸易所赐，但若是说，我作为圣女对这一切一无所知，那我只是在逃避责任。,"It is true that Kjerag owes much of its current standing to Karlan Trade; but if I, as the Saintess, were to say that I know nothing of this, it would simply be avoiding responsibility.","Сегодняшний Кьераг — заслуга «Каран Трейд», но если я, как Святая, скажу, что ничего об этом не знала, то просто сбегу от ответственности."
+line-462,恩雅,如果您承认我是这个国家的领导者，那么，谢拉格的现状也有我的一份责任。,"If you accept that I am the leader of this nation, then it must follow that I am also responsible for its current condition.","Если вы признаете меня лидером страны, значит, на мне лежит ответственность за нынешнее положение дел."
+line-463,恩雅,我便无法在现在理直气壮地对您说，过去的道路是错误的。,I cannot come up here and confidently proclaim that the ways of the past were wrong.,"Я не могу сейчас твердо заявить вам, что выбранный путь был ошибочным."
+line-464,恩雅,恩希欧迪斯大人总是自负于，是他为谢拉格选择了如今的道路。,Sir Enciodes always boasts about how he was the one who chose Kjerag's current path.,"Господин Энсиодис всегда гордился тем, что именно он выбрал нынешний путь для Кьерага."
+line-465,恩雅,然而，时至今日，谢拉格的一切，是谢拉格人共同做出的决定，我也只是其中之一。,"However, to this day, everything in Kjerag is the result of decisions that we have collectively made as a people, of which I am but one member.","Однако, по правде говоря, всё, что есть в Кьераге — это совместное решение его жителей, и я лишь одна из многих."
+line-466,恩雅,恩希欧迪斯大人自己也无权否定现在的谢拉格。,"Sir Enciodes himself has no right to rebuke Kjerag, as she is today.",У господина Энсиодиса тоже нет права отрицать нынешний Кьераг.
+line-467,恩雅,我也一样。,And the same is true for me.,И у меня тоже.
+line-469,哈洛德,......我明白了。,...I see now.,...Я понял.
+line-471,哈洛德,看来，我得趁着胃口还行的时候，多尝尝谢拉格的饭了。,It seems I really ought to try more of Kjerag's food while I still have the appetite.,"Похоже, пока аппетит ещё при мне, стоит наесться Кьерагской кухни вдоволь."
+line-472,哈洛德,两位，请随我移步。,"Please come with me, both of you.","Господа, прошу за мной."
+line-484,恩希欧迪斯,还要多谢子爵阁下今日的款待。,"Once again, I must thank you for your hospitality today, My Lord.","Благодарю за гостеприимство, виконт."
+line-486,哈洛德,希望菜肴能合两位的胃口，这都是我特地拜托老图里尔做的谢拉格家乡菜......,I hope my choice of dishes will suit both your tastes. They are traditional Kjerag dishes that I specially requested Chef Turiels prepare.,"Надеюсь, вам всё понравилось. Я специально просил старого Турильера приготовить традиционные блюда..."
+line-488,哈洛德,啊，这个奶酪卷饼看起来可真可口！,"Wow, this cheese wrap looks positively splendid!","А, этот сырный блинчик выглядит так аппетитно!"
+line-490,恩雅,奶酪卷饼？......还加了果肉......,"Cheese wraps? And, there are even fruit chunks inside...",Сырный блинчик? ...И с кусочками фруктов...
+line-492,恩希欧迪斯,......这确实是本地的家庭菜肴。,"...Truly, a traditional household dish.",...Это и правда традиционное домашнее блюдо.
+line-494,哈洛德,两位别客气，请用。,"Dig in, my friends. Don't be shy.","Не стесняйтесь, господа, прошу."
+line-496,恩雅,恩希欧迪斯大人，请。,"After you, Sir Enciodes.","Господин Энсиодис, прошу."
+line-498,恩希欧迪斯,......恭敬不如从命。,Very well... if you insist.,"...Благодарю, с радостью."
+line-503,恩希欧迪斯,......是那个味道。,...That smell again.,...Тот самый вкус.
+line-505,恩雅,恩希欧迪斯大人还记得？,You still remember it?,Господин Энсиодис помнит?
+line-507,恩希欧迪斯,当然。,Of course.,Конечно.
+line-508,恩希欧迪斯,......诺希斯应该来了，他人呢？,Gnosis should be here. Where is he?,...Носис должен был прийти. Где он?
+line-510,喀兰贸易员工,总裁，刚才有些维多利亚军人......,"Sir, there were these Victorian soldiers earlier...","Президент, только что какие-то солдаты Виктории..."
+line-512,恩希欧迪斯,军人？,Soldiers?,Солдаты?
+line-513,恩希欧迪斯,......我明白了。,It all makes sense now.,...Я понял.
+line-515,恩希欧迪斯,圣女大人应该不方便亲自出现在维多利亚的军队面前吧？,"It would be unbefitting of the Saintess to personally appear before Victorian soldiers, no?","Святой, наверное, не стоит показываться на глаза армии Виктории?"
+line-517,恩雅,......您请便，不用顾虑我。,Do as you will. Don't worry about me.,"...Действуйте, не обращайте на меня внимания."
+line-525,哈洛德,那么，我也就不打扰圣女大人了。,"Now then, I shall not take up any more of your time, Holy Saintess.","В таком случае, не буду больше беспокоить Святую."
+line-533,恩雅,......,......,...
+line-538,恩雅,确实是那个味道。,It really is that same smell.,И правда... тот самый вкус.
+line-549,哈洛德,唉——,*sigh*—,Эх...
+line-551,哈洛德,退一万步说，这下“灰礼帽”至少不能说我没有作为了。,At least the bit of silver lining is the Trilby Ashers can't accuse me of doing nothing.,"В конце концов, «Серые шляпы» по крайней мере не смогут сказать, что я сидел сложа руки."
+line-552,哈洛德,该做的也做了，仪式近在眼前，也该考虑考虑回去的事了。,"I've done what needed doing, and the ceremony is about to begin. I suppose it's time to head back.","Что мог — сделал, церемония уже близко, пора думать о возвращении домой."
+line-554,哈洛德,对了，得抽个时间给夫人和女儿买纪念品，这可不能忘了。,"Oh right, can't forget to pick up souvenirs for the wife and daughter.","Кстати, надо не забыть купить сувениры жене и дочери."
+line-555,哈洛德,还有——,And also––,И ещё...
+line-567,哈洛德,......,......,...
+line-569,哈洛德,唔，谢拉格之旅，果然还是不该留下遗憾。,"Alas, it would be remiss of me to leave any regrets behind on this trip.","Хм, в Кьераге не стоит оставлять дела незавершенными."
+line-576,锏,......,......,...
+line-583,锏,啧。,Hmph.,Цц.
+line-590,哈洛德,原来您在这里，锏女士！,"Ah, there you are, Madam Degenbrecher.","Вот вы где, госпожа Цзянь!"
+line-591,哈洛德,这里可真是个不错的位置，清净又......,I see you've found yourself a lovely spot! Clean and––,"Отличное место, тихо и..."
+line-596,哈洛德,哎，哎，您别走啊！,"Hey now, don't go!","Эй, эй, вы куда?!"
+line-606,锏,要当说客去找恩希欧迪斯。诺希斯也行。,"If you want an audience, go talk to Enciodes. Or Gnosis.",Хочешь быть дипломатом — иди к Энсиодису. Или к Носису.
+line-607,锏,我不管你们的那些事。,I'll have nothing to do with your little games.,Меня ваши дела не касаются.
+line-609,哈洛德,哎，您这话就不对了。,Come now. That's no way to be talking.,"Ой, ну зачем вы так."
+line-610,哈洛德,眼前有如此美食美酒，谈别的，岂不是太煞风景？,"With all this delicious food and drink in front of you, would it really kill you to exchange a few pleasantries?","Вокруг такая красота, вкусная еда, зачем говорить о делах? Только портить атмосферу."
+line-611,哈洛德,如何，要来一杯吗？,"For example, shall we toast?",Как насчет бокальчика?
+line-613,锏,不用。,Nein danke.,Нет.
+line-615,哈洛德,哦？莫非锏女士不善饮酒？,Oh? Are you a woman who can't handle her drink?,О? Госпожа Цзянь не пьет?
+line-617,锏,我更擅长处理掉劝我来一杯的人。,I'm much better at <i>handling</i> men who try to ply me with drink.,"Я лучше умею избавляться от тех, кто заставляет меня пить."
+line-618,锏,你要试试吗。,Shall I prove it to you?,Хочешь проверить?
+line-620,哈洛德,哈哈哈，不必了，不必了。,"Hahaha! No need, I'll take your word for it.","Ха-ха-ха, нет уж, спасибо."
+line-622,哈洛德,对了，莉莉的状况还不错，您的处理非常恰当，并且及时。,"Oh, right. Lily's in fine shape now, thanks to your timely handling of the matter.","Кстати, Лили в порядке, вы очень вовремя и грамотно оказали помощь."
+line-623,哈洛德,我已经替她做好了后续的护理，她的那些小家伙们也非常健康。,"I've already arranged for follow-up care, and her little ones are in good health as well.","Я проследил за её восстановлением, малыши тоже здоровы."
+line-624,哈洛德,老雷昂还说，要留一只让锏女士您来起名呢。,Leones said to leave one for you to name.,"Старый Леон сказал, что хочет, чтобы вы дали имя одному из них."
+line-626,锏,......没事就好。,...I'm glad things worked out.,"...Хорошо, что всё обошлось."
+line-627,锏,起名就免了，我不擅长。,And I'll pass on that last part. Don't have much of a naming sense.,"А называть — это не ко мне, я не мастер."
+line-629,哈洛德,啊哈，既然如此，不如由我代劳！,"Aha! In that case, why not let me do it for you?",Аха! В таком случае позвольте мне помочь!
+line-630,哈洛德,您放心，在维多利亚，取名可是一门学问，而本人，在这门学问上恰好有些小小的心得！,"Never fear. Naming is a bit of a science in Victoria, and I happen to have a bit of expertise in the field!","Поверьте, в Виктории выбор имени — целая наука, и я в ней кое-что смыслю!"
+line-631,哈洛德,那孩子是个女孩，所以我建议，可以叫小家伙爱莉菲雅·唐巴顿·米歇尔·克雷加文！,"The little one is a girl, so my suggestion would be to name her Olivia Turnbottom Michelle Craigavon!","Это девочка, поэтому я предлагаю имя Элифия-Тамбертон-Мишель-Крегаван!"
+line-632,哈洛德,和我姓，中间用我夫人的姓氏，还有我祖母的名字，这样她就和我的女儿一样——,"I put together my last name, my wife's maiden name, and my grandmother's first name, making her the same as my daughter's––","Моя фамилия, фамилия жены и имя бабушки. Так она будет как моя дочь..."
+line-634,锏,我改主意了，她叫朵洛。,I've changed my mind. Her name's Dolor.,Я передумала. Её зовут Доло.
+line-637,哈洛德,咳、咳咳咳——！,*cough* *cough* *cough*––!,"Кхм, кха-кха-кха!"
+line-638,哈洛德,锏、锏女士，我还没说完——,"B-But I wasn't finished yet, Madam Degenbrecher––","Госпожа Цзянь, я же ещё не закончил..."
+line-640,锏,叫朵洛。,Her name is Dolor.,Зовут Доло.
+line-642,哈洛德,可是，爱莉菲雅......,"But, Olivia...",Но... Элифия...
+line-644,锏,朵洛。,Dolor.,Доло.
+line-646,哈洛德,......好吧，好吧！,"..Alright, alright!","...Ну, ладно, ладно!"
+line-648,哈洛德,朵洛，嗯，也是个可爱的姑娘名字，“健康强壮”，对吗？,"Dolor, umm, is also a fine name for a girl. 'Healthy and strong', right?","Доло... Хм, милое имя. «Сильная и здоровая», да?"
+line-649,哈洛德,虽然我还是认为爱莉菲雅·唐巴顿·米歇尔·克雷加文更加动听......,Even though I still think Olivia Turnbottom Michelle Craigavon has a bit more charm to it...,"Хотя я всё ещё считаю, что Элифия-Тамбертон-Мишель-Крегаван звучит благороднее..."
+line-650,哈洛德,不过，我相信老雷昂会喜欢这个名字的，它很适合一位谢拉格的姑娘。,"Nevertheless, I think Leones will be quite fond of the name, fitting as it is for a Kjerag girl.","Впрочем, думаю, старому Леону оно понравится, оно подходит для кьерагской девушки."
+line-651,哈洛德,锏女士，我还有个不情之请，您看这......这次在公事上，我看来是要空手而归了。,"Madam Degenbrecher, I also have another favor to ask of you, presumptuous as it may be. Please take a look at this... I'm afraid I'll be leaving empty handed on this business trip.","Госпожа Цзянь, у меня ещё одна просьба. Похоже, с официальными делами я уезжаю с пустыми руками."
+line-652,哈洛德,那么至少私事上，我想给自己留个念想。,"I would at least like to leave a little memento for myself, as a personal note.",Так что хотя бы в личном плане хочу оставить себе память.
+line-653,哈洛德,就同在车站说过的那样，我是您忠实的追随者，您看，能不能给我一个签名？,"As I said back at the station, I'm a huge fan of yours, see? Would you be willing to give me your autograph?","Как я и говорил на станции, я ваш преданный фанат. Не дадите автограф?"
+line-655,锏,你不像是会沉迷于骑士竞技的人。,You don't seem like the type to obsess over knightsports.,"Не похож ты на того, кто помешан на рыцарских турнирах."
+line-657,哈洛德,您太高看我了，我是个俗人，自然也不能免俗。,"You think too highly of me. Vulgar man that I am, far be it from me to avoid vulgar pleasures.","Вы слишком высокого мнения обо мне. Я простой человек, ничто человеческое мне не чуждо."
+line-658,哈洛德,骑士竞技虽与战场不同，但其中的优胜者，总是各有各的出众之处。,"Though the arena is certainly different from the battlefield, the victors all have something that elevates them above the crowd.","Рыцарские турниры — не поле битвы, но победители там всегда достойны восхищения."
+line-659,哈洛德,它确实是不错的消遣——没有冒犯的意思，我这样说，希望您不要介怀。,"It certainly is a fine pastime–– and I hope you take no offense to me saying that, as none is intended.","Это неплохое развлечение — не сочтите за оскорбление, надеюсь, вы не против."
+line-661,锏,这是事实。,That much is true.,Это факт.
+line-663,哈洛德,您这样说，却仍不愿接过我递出的卡片，给可怜的哈洛德一个签名。,"You say that, but you still refuse to give this poor old man your autograph, even as he's holding this card out.","Вы так говорите, но всё равно не берете мою карточку для автографа."
+line-664,哈洛德,这张我珍藏已久的特典卡，还是您初次夺冠后发售的限量款，而这之后，您再没有出过哪怕一次骑士卡......,"I've treasured this trading card for a long time, you know. It was a limited release from the first time you won the Major. You never released another card...","Эта карточка — лимитированное издание после вашей первой победы, а после этого турнирных карточек с вами не выходило..."
+line-665,哈洛德,不能得您青睐，这真是太令人遗憾了。,It's a darn shame that I can't seem to win your favor no matter what.,Ужасно обидно.
+line-666,哈洛德,不过，说到姓名，我也有一个好奇已久的疑问，正好可以求您解惑。当然，若您觉得冒犯，也可以不答。,"That aside, when it comes to naming, there is something I've been curious about, and would appreciate if you could shed some light on the matter. Of course, you don't have to answer if you find it offensive.","Кстати об именах, у меня есть давний вопрос. Если не хотите — не отвечайте."
+line-667,哈洛德,“锏”——这是您的本名吗？,'Degenbrecher' –– Is that your real name?,«Цзянь» — это ваше настоящее имя?
+line-669,锏,克雷加文，你倒是很敢问。,"You're certainly brave to ask, Craigavon.","Крегаван, а у тебя смелости хоть отбавляй."
+line-671,哈洛德,鄙人不才，胆量还是有一些。,"I'm a man of few talents, but courage is something I do carry.","Не лишен, госпожа."
+line-673,锏,是又如何？,What if it is?,"А что, если да?"
+line-675,哈洛德,只是满足您的追随者小小的好奇心，女士。,"Just consider it scratching the itchy curiosity of your fans, Madam.","Просто удовлетворяю любопытство преданного поклонника, госпожа."
+line-676,哈洛德,毕竟，自从您第一次夺得竞技赛冠军以来，您的一切都备受关注，黑骑士的出身与她最后的归属......您万众瞩目，女士。,"After all, every angle of your being has been under the spotlight since the first time you won the Major. The origins of the Black Knight, and where her path ultimately led her... Countless eyes have been following you.","С вашей первой победы всё, что касается Черного Рыцаря — её происхождение, судьба — вызывает огромный интерес. Вы в центре внимания, госпожа."
+line-677,哈洛德,这么说来，锏女士与喀兰贸易的合约是不是也快要到期了？,"Which brings me to my next question, Madam Degenbrecher, is your contract with Karlan Trade about to expire?","Кстати, контракт с «Каран Трейд» скоро заканчивается?"
+line-679,哈洛德,不知我可否有幸，邀请您来维多利亚做客？公爵阁下一定也会欢迎您的到来，或许，我们可以达成一些新的合作......,"I do wonder if you'd spare me the honor of inviting you to be a guest of Victoria? No doubt, the Duke would be more than glad to welcome your arrival, and perhaps, we'd even be able to discuss new horizons of cooperation...","Может, заглянете в гости в Викторию? Герцог будет рад вас видеть, может, договоримся о сотрудничестве?"
+line-681,锏,呵，你想说的就是这个？,Uh huh. Is that all you wanted to ask?,"Хм, так вот к чему ты клонил?"
+line-683,锏,如果你想听的只是这个，那听完就别再烦我——,"If that's all you're here for, I've heard you out. Now, if you'd leave me in peace––","Если хочешь услышать ответ, то слушай и больше не приставай."
+line-684,锏,我在谢拉格待了十年。,I've spent a decade in Kjerag.,Я в Кьераге десять лет.
+line-685,锏,我是谢拉格人。,I'm one of her people.,Я кьерагская.
+line-686,锏,之后也会留在这里。,And I plan to live out my days here.,И останусь здесь.
+line-687,锏,够了吗？,Good enough for you?,Достаточно?
+line-689,哈洛德,啊......这确实是我想听的。,"Ah... Yes, that's exactly what I wanted to hear.",Ах... именно это я и хотел услышать.
+line-690,哈洛德,我对这个回答有所猜测，但不得不承认，真的听到您亲口诉说，还是有些感慨......您甚至没有试图在穿戴上更有当地特色一些！,"I had my own speculation about the answer, but I must admit, it was quite moving to hear it in your own words... Why, you didn't even try to dress it up with more local flair!","Я догадывался, но слышать это из ваших уст... Вы даже не попытались одеться более по-местному!"
+line-692,锏,你倒是穿得很有特色。,"True, I suppose you're dressed with a bit of color.",А ты вот оделся очень даже колоритно.
+line-693,锏,哪来的毛领子？,Where'd you get the fur collar?,Откуда воротник?
+line-695,哈洛德,哦，是在我很喜欢的一家纪念品商店里买的，相当暖和。,"Ah, this is from a souvenir shop I'm rather partial to. It's quite warm.","Купил в любимой сувенирной лавке, очень теплый."
+line-696,哈洛德,好吧，好吧，夜深了，这场宴会也到了该散场的时候，我就不继续打扰您了。,"Alright, alright. It's getting late and the banquet should be drawing to an end soon, so I won't pester you any longer.","Ладно, ладно, ночь глубока, пора и расходиться. Больше вас не задержу."
+line-697,哈洛德,虽然并没有拿到签名，但我还是想说......,"Though I wasn't fortunate enough to win your signature, I do want to say one thing...","Хотя автограф я так и не получил, должен сказать..."
+line-699,哈洛德,这是一场很愉快的谈话，女士。,"I enjoyed our chat very much, Madam.","Было приятно поболтать, госпожа."
+line-711,雅儿,恩希欧迪斯老爷，请当心脚下。,"Please watch your step, Sir Enciodes.","Господин Энсиодис, смотрите под ноги."
+line-720,切斯特,恩希欧迪斯，我把车开过来了。,"Enciodes, I've brought the car.","Энсиодис, я подогнал машину."
+line-722,恩希欧迪斯,谢谢你，叔父。,"Thank you, Uncle.","Спасибо, дядя."
+line-731,切斯特,要回宅邸吗？,Are you returning to the mansion?,Возвращаемся в поместье?
+line-734,诺希斯,回......总部......,Back... to the office...,В... штаб...
+line-736,切斯特,恩希欧迪斯？,Enciodes?,Энсиодис?
+line-738,恩希欧迪斯,听他的吧，我也正好还有一些杂务需要处理。,What he said. There are still some chores I need to take care of.,Слушай его. У меня всё равно ещё есть дела.
+line-745,恩雅,切斯特叔叔，许久不见。,"Long time no see, Uncle Chester.","Дядя Честер, давно не виделись."
+line-747,切斯特,圣女大人。,Saintess.,Святая.
+line-749,恩雅,这种时候，叫我的名字就好了。,Just call me by name on these occasions.,Зовите меня просто по имени.
+line-751,切斯特,......恩雅，看到你平安无事，叔叔就放心了。,Enya... I'm so glad to see you safe and sound.,"...Энья, рад видеть, что ты в порядке."
+line-753,恩雅,叔叔才是，您能身体安康，恩雅就放心了。,The feeling is mutual. I'm relieved that you're in good health.,"И я рада видеть, что вы здоровы, дядя."
+line-760,哈洛德,那我就先告辞了，圣女大人，恩希欧迪斯老爷。,"Now then, I shall take my leave, Holy Saintess, Sir Enciodes.","Тогда я откланяюсь, Святая, господин Энсиодис."
+line-762,恩雅,好。,Very well.,Хорошо.
+line-763,恩雅,子爵阁下。,My Lord.,Виконт.
+line-765,哈洛德,圣女大人请讲。,"Yes, Holy Saintess?","Слушаю вас, Святая."
+line-767,恩雅,无论如何，希望您在谢拉格能够度过快乐的时光。,"All else aside, I hope you have a wonderful time in Kjerag.","В любом случае, надеюсь, вы хорошо проведете время в Кьераге."
+line-769,哈洛德,......借您吉言。,...Thank you for your kind words.,...Спасибо на добром слове.
+line-776,恩雅,雅儿。,Kjarr.,Яэр.
+line-778,雅儿,在。,"Yes, Saintess?",Слушаю.
+line-780,恩雅,去让侍女们帮忙收拾残局吧。,Please have the maids clean the mess.,Скажи горничным убрать остатки банкета.
+line-782,雅儿,啊，不必了。,"Oh, there's no need for that.","О, в этом нет нужды."
+line-783,雅儿,士兵老爷们不仅帮忙收拾了残局，而且还把剩下的饭菜都带走了，据说是要带回去给没法来参加宴会的感染者士兵们。,"The good soldiers not only helped clean everything up, but even took away the leftover food. They said they were going to bring it to the Infected soldiers who weren't able to attend the banquet.","Солдаты не только помогли убраться, но и забрали остатки еды — говорят, отнесут зараженным, которые не смогли прийти."
+line-785,恩雅,......这位子爵阁下确实值得尊敬，有种当了回坏人的感觉呢。,This Viscount actually seems quite respectable. It feels as if he's playing the villain.,...Виконт и правда достоин уважения. Чувствую себя злодейкой.
+line-786,恩雅,我想恩希欧迪斯大人，应该十分习惯这种感觉。,"Though, I trust that's something Sir Enciodes here can relate to.","Думаю, господин Энсиодис привык к этому чувству."
+line-788,恩希欧迪斯,圣女大人过奖了。,"You flatter me, Saintess.","Вы слишком добры ко мне, Святая."
+line-790,恩雅,天快暗了，恩希欧迪斯大人回去的路上小心些。,It's getting dark. Be careful on your way back.,"Стемнело. Берегите себя по дороге, господин Энсиодис."
+line-792,恩希欧迪斯,圣女大人也一样。,You too.,"И вы тоже, Святая."
+line-801,恩希欧迪斯,圣女大人。,Saintess.,Святая.
+line-807,恩雅,恩希欧迪斯大人还有什么问题吗？,Did you need something else?,У господина Энсиодиса есть ещё вопросы?
+line-809,恩希欧迪斯,以耶拉冈德的名义，你我之间虽然总有隔阂，但谢拉格终究磕磕绊绊走到了今天。,"In the name of Kjeragandr, Kjerag has arrived where she is today despite the gulf between us.","Именем Елаганд: у нас всегда были разногласия, но Кьераг всё-таки дошел до сегодняшнего дня."
+line-810,恩希欧迪斯,耶拉冈德若是在看着今天的谢拉格，祂会如何想，祂会责怪我们吗？,"What would Kjeragandr think, were She to look down upon Her land today? Would She condemn us?","Если Елаганд смотрит на Кьераг сейчас, что Она думает? Винит ли нас?"
+line-812,雅儿,......,......,...
+line-814,恩雅,您这是害怕了？,Are you getting cold feet?,Вы боитесь?
+line-816,恩希欧迪斯,当然没有。三年前的那场神迹，永远地烙印在了谢拉格所有人的心中。,Of course not. The miracle three years ago will forever be engraved in the hearts of all Kjerag.,Вовсе нет. Чудо трехлетней давности навсегда в сердцах жителей Кьерага.
+line-817,恩希欧迪斯,即便是我，也必须承认耶拉冈德是这片土地的根基。,Even I must admit that Kjeragandr indeed is the bedrock of this land.,"Даже я признаю, что Елаганд — основа этой земли."
+line-818,恩希欧迪斯,我们都不过是在祂的身体上游戏的孩童罢了。,We are all but children playing atop Her body.,"Мы лишь дети, играющие в тени Её величия."
+line-820,恩雅,那么，这个问题的答案，并不在我的手上。,"If so, that question isn't for me to answer.",Тогда ответ на этот вопрос не в моих руках.
+line-822,恩雅,或许，也不在祂的手上。,"Perhaps, it's not for Her to answer either.","Может, и не в Её руках тоже."
+line-840,诺希斯,行了，已经到了。,"Alright, we're back.","Всё, приехали."
+line-841,诺希斯,我自己能走。,I can go the rest of the way myself.,Я сам дойду.
+line-843,恩希欧迪斯,哦，真的？,"Oh, really?","О, правда?"
+line-851,诺希斯,......,......,...
+line-852,诺希斯,......只是个小失误。,...It was just a minor miscalculation.,...Просто небольшая заминка.
+line-853,诺希斯,等等，让我缓缓。,"Hold on, I need a moment.","Подожди, дай прийти в себя."
+line-855,恩希欧迪斯,没问题。,Certainly.,Без проблем.
+line-857,诺希斯,不，别在大门口，去旁边侧门那里。,"No, not at the main door. Head around the side.","Нет, не у главных дверей, иди к боковому входу."
+line-859,恩希欧迪斯,你在意什么？担心被人看到？,What's the problem? Worried someone might see you?,Чего ты боишься? Что кто-то увидит?
+line-861,诺希斯,也许有人加班。,Someone might be working overtime.,"Может, кто-то работает допоздна."
+line-863,恩希欧迪斯,谁会这个点加班？,Who'd be working overtime at this hour?,Кто будет работать в такое время?
+line-865,诺希斯,我。,Me.,Я.
+line-866,诺希斯,还有你也会。,"And you too, probably.",И ты тоже.
+line-868,恩希欧迪斯,你是在抱怨我当初没有给你算加班费吗？,Are you complaining that I haven't given you enough overtime pay?,"Жалуешься, что я тебе сверхурочные не выплатил?"
+line-869,恩希欧迪斯,好了诺希斯，坐下，不会有人看到首席技术总监醉酒后的不雅姿态。,"Alright, Gnosis, sit down already. Nobody will see the drunken and indecent behavior of the CTO.","Ладно, Носис, садись. Никто не увидит пьяного директора в таком виде."
+line-870,恩希欧迪斯,虽然在我看来，这是诺希斯你对自己形象的要求太高。,"If you ask me, you're holding your own image to too high a standard.","Хотя, как по мне, ты просто слишком требователен к своему имиджу."
+line-872,诺希斯,你沾酒之后话会变多，恩希欧迪斯。,"You're a lot more talkative after a few drinks, Enciodes.","Ты становишься слишком болтливым, когда выпьешь, Энсиодис."
+line-873,诺希斯,以及，你欠锏的加班费更多。,"If anything, you owe Degenbrecher more overtime pay.","И кстати, ты должен Цзянь ещё больше сверхурочных."
+line-883,锏,他甚至还欠我好几条命。,He actually owes me a few lives.,Он мне ещё несколько жизней должен.
+line-884,锏,我现在都懒得数。,Too lazy to keep count.,Я уже устала считать.
+line-885,锏,喀兰贸易的两位领导人半夜蹲在公司总部大堂，就为了讨论欠薪？,"The two leaders of Karlan Trade, squatting in the lobby of the company headquarters in the middle of the night to discuss unpaid wages?",Руководители «Каран Трейд» сидят среди ночи в штабе и спорят о зарплатах?
+line-886,恩希欧迪斯,诺希斯正在替你打抱不平。,Gnosis is fighting on your behalf.,Носис защищает твои интересы.
+line-887,锏,脑子喝坏了？,Did the booze melt his brain?,Мозги пропил?
+line-895,诺希斯,我没有替你打抱不呕——,It's not like I got sloshed for your sake––,"Я не защищаю твои интересы, я не — уааа..."
+line-896,锏,......,......,...
+line-903,,锏看向恩希欧迪斯，恩希欧迪斯耸了耸肩。,"Degenbrecher looks over at Enciodes, who only gives a shrug.","Цзянь посмотрела на Энсиодиса, тот пожал плечами."
+line-904,锏,丢人。,What an embarrassment.,Позорище.
+line-905,,锏将手上备好的水递给恩希欧迪斯，恩希欧迪斯则自然地伸手接过。,"Degenbrecher hands the canteen of water she brought over to Enciodes, and the latter naturally reaches out to accept it.","Цзянь подала Энсиодису воду, тот привычно взял её. За десять лет это происходило бесчисленное количество раз."
+line-906,,在过去十年中，类似的事情发生了无数次。,The last decade has seen countless such moments.,За десять лет это происходило бесчисленное количество раз.
+line-912,恩希欧迪斯,......你还记得瓦尔顿吗？,Do you still remember Walden's?,...Помнишь Уолтона?
+line-913,锏,谁？,Who?,Кого?
+line-914,恩希欧迪斯,你第一次把我和诺希斯扛回去的那次。,The first time you had to carry me and Gnosis back.,"Тот раз, когда ты впервые тащила нас с Носисом на себе."
+line-915,恩希欧迪斯,那场宴会。,"Oh, that banquet.",Тот банкет.
+line-916,锏,哦。,Yes.,А.
+line-917,锏,诺希斯喝晕过去，你没晕，反而更难受的那次。,"Where Gnosis got piss drunk and you didn't, yet you were worse for wear because of it.","Носис вырубился, а тебе было плохо, но ты не спал."
+line-918,恩希欧迪斯,这么看，诺希斯的酒量已经比当年强多了。,Look at him now. His liver is clearly a lot tougher these days.,"Похоже, Носис стал выносливее."
+line-919,恩希欧迪斯,至少现在还能保持意识清醒。,At least he's not passing out all over the place.,Хотя бы в сознании остался.
+line-920,锏,你确定他还意识清醒？,You sure this one's still conscious?,"Ты уверен, что он в сознании?"
+line-921,诺希斯,在你们两个故意当我的面说我坏话之前，呕——,"Before you two start badmouthing me to my face, blurgh––","Прежде чем обсуждать меня, уааа..."
+line-922,诺希斯,能不能先把解酒药给我？,Can you bring me some hangover remedy?,"Может, дадите уже средство от похмелья?"
+line-923,,坐在台阶上的人头也不抬，有气无力地朝恶友所在的方向伸出手。,"The man slumped over on the steps does not lift his head, merely stretching his hand out towards his ill-spirited friend.","Сидящий на ступенях человек, не поднимая головы, вяло протянул руку в сторону друзей."
+line-924,,锏挑挑眉，从口袋中掏出一板药片，塞进诺希斯手中。,"Degenbrecher raises her eyebrows, then takes a pack of pills out of her pocket and places them in Gnosis's hand.","Цзянь приподняла бровь, вытащила блистер с таблетками и вложила ему в руку."
+line-925,,她看着对方熟练地取出药片，用水服下，隔了一会才长长地舒了一口气。,"She watches him open up the blister pack with practiced motions and swallow the contents along with a big gulp of water. After a while, she lets out a sigh of relief.","Она видела, как он привычно достал таблетку, запил водой и лишь через некоторое время тяжело вздохнул."
+line-928,诺希斯,......好点了。,That's a bit better.,...Стало легче.
+line-929,诺希斯,不过，这药怎么好像和之前吃的不太一样。,But this doesn't seem to be the same medicine I took before.,Но почему вкус другой?
+line-930,锏,那不是解酒药。,It's not a hangover cure.,Это не от похмелья.
+line-931,锏,是我弄的毒药。,It's a poison I made.,Это яд.
+line-932,锏,恩希欧迪斯让我干的。,Enciodes put me up to it.,Энсиодис попросил.
+line-933,恩希欧迪斯,嗯，没错。,"Yes, quite right.","Да, верно."
+line-934,诺希斯,哦是吗，怎么还没毒死我，看来药效不行。,"Is that so? Then, why am I not dead yet? Doesn't seem like your poison's very effective.","О, ну ладно. Почему я ещё жив? Слабый яд."
+line-935,诺希斯,无聊......你们不腻？,How dull... Are you two not tired of this routine yet?,Скучно... Вам не надоело?
+line-936,锏,还行。,I thought it was pretty funny.,Вроде нет.
+line-937,锏,你之前真的信了试图催吐的时候比较有意思。,It was more fun back when you actually believed it and tried to make yourself vomit.,Твои попытки вызвать рвоту раньше были забавнее.
+line-938,诺希斯,......,......,...
+line-939,诺希斯,那都是多少年前的事了。,That was years ago.,Сколько лет прошло.
+line-940,恩希欧迪斯,不过，这次确实换了药？,"But, that was a different pill, wasn't it?","А всё же, мы сменили лекарство?"
+line-941,恩希欧迪斯,看起来和之前的不是同一种。,It didn't look the same as the previous one.,Вид другой.
+line-942,锏,莱利送的。,Riley sent it.,Райли прислал.
+line-943,锏,他最近经常和维多利亚人拼酒，说这种更奏效。,He often goes drinking with the Victorians and says this one works better.,"Он часто пьет с викторианцами, говорит, это лучше работает."
+line-944,诺希斯,恩希欧迪斯，我看，锏已经是我们三个里最受谢拉格人欢迎的了。,"Enciodes, it seems that Degenbrecher has become the most popular of us three among the people of Kjerag.","Энсиодис, мне кажется, Цзянь — самая популярная среди кьерагцев."
+line-945,诺希斯,你注意到了没有，车站那些驮兽挂着的广告牌上，都有黑骑士的宣传图。,Noticed the promotional pictures of the Black Knight hanging off the burdenbeast billboards by the station?,"Заметил, на станциях реклама с Черным Рыцарем?"
+line-946,诺希斯,而且还是手绘的。,"Hand-drawn, too.",Причем нарисована от руки.
+line-947,锏,有意见？,Is that a problem?,Проблемы?
+line-948,恩希欧迪斯,不敢。,Of course not.,Нет.
+line-949,恩希欧迪斯,最近几年越来越忙碌，忽略了不少东西。,I've become increasingly busy in recent years and have neglected many things.,"В последнее время слишком много дел, многое упускаю."
+line-950,恩希欧迪斯,等到事情平稳下来，我和诺希斯也确实该多出去走走了。,"Once the situation calms a bit, Gnosis and I really need to start going out more often.","Когда всё утрясется, нам с Носисом стоит чаще гулять."
+line-951,锏,确实。,That's for sure.,Согласна.
+line-952,锏,你不经常出现，反而会让人很关心你的私生活。,"If you don't show your face in public every once in a while, people will start to worry about your private life.",Твоё отсутствие вызывает сплетни о твоей личной жизни.
+line-953,锏,最近好像流行一种猜测，说你一心工作是因为在其他方面受了心伤。,One popular line of speculation is that you've thrown yourself into work as you've been heartbroken over certain things.,"Появилась версия, что ты ударился в работу из-за несчастной любви."
+line-954,锏,有很多版本，你要听吗？,There are quite a few variations too. Want me to give you a rundown?,"Есть много вариантов, хочешь послушать?"
+line-955,恩希欧迪斯,......,......,...
+line-956,诺希斯,哈哈哈哈咳咳咳咳——呕——,Hahahahahahagah–– *cough* *cough* *cough*–– * Bluuurgh––,Ха-ха-ха-кха-кха-кха... уааа—
+line-968,恩希欧迪斯,希望你不会因为一边呕吐一边笑，而把自己呛到，诺希斯。,"I pray you don't choke to death laughing and vomiting at the same time, Gnosis.","Надеюсь, ты не подавишься, смеясь во время рвоты, Носис."
+line-969,恩希欧迪斯,你要是平时也能这么笑，公司上下也不会这么怕你。,"If you could laugh like that all the time, our employees wouldn't be so afraid of you.","Если бы ты смеялся так чаще, тебя бы не боялись на работе."
+line-971,诺希斯,咳咳，放心，如果呛到，我一定吐你鞋子上。,"*cough* *cough*– Don't worry, before I croak, I'll make sure to puke all over your shoes.","Кхе-кхе, не бойся, если подавлюсь,吐吐吐 тебе на ботинки."
+line-973,诺希斯,今天你们谈得如何，谈拢了？,"So, how did your discussion today go? Reach any agreements?",Как ваши переговоры? Удачно?
+line-975,恩希欧迪斯,在事关谢拉格的问题上，我与圣女之间，本就没有太多分歧。,"When it comes to matters concerning Kjerag, there aren't actually that many differences between me and the Saintess.",В вопросах будущего Кьерага у нас с Святой почти нет разногласий.
+line-977,锏,那你和叫恩雅的小丫头之间呢。,What about between you and the girl named Enya?,"А как насчет той девчонки, Эньи?"
+line-979,恩希欧迪斯,......能够解决的问题，才有谈的价值。,...The only problems worth talking about are those that can be resolved.,"...Лишь проблемы, которые можно решить, стоят обсуждения."
+line-980,恩希欧迪斯,不管重来多少次，我不会改变我的选择，她也不会对此感到释怀。,"If I had to do things over again, I'd make the same decision every time. And she'd still never feel good about it.",Даже начни всё сначала — я бы не изменил выбор. И она не примет это.
+line-981,恩希欧迪斯,我们心里都清楚。,We all know that deep down.,Мы оба это знаем.
+line-983,诺希斯,心里清楚，但就是不当面说。,"Say what you will, but you'll never tell that to her face.","Знаете, но не говорите в лицо."
+line-985,锏,诺希斯，你也差不多。,"You're not much different, Gnosis.","Носис, ты такой же."
+line-986,锏,你们两个也就是半斤八两。,You're two peas in a pod.,Вы оба хороши.
+line-987,锏,从不把该说的话说给想听的人。,Never saying what needs to be said to the people who need to hear it.,"Никогда не говорите то, что нужно, тому, кто должен это слышать."
+line-989,诺希斯,......,......,...
+line-991,恩希欧迪斯,......,......,...
+line-993,锏,还有，这种时候就会装死。,"Also, you should be playing dead right about now.",А в такие моменты притворяетесь мертвыми.
+line-996,,深夜的公司仍然灯火通明，大厅的暖气已经关闭，沉默与冷风在室内肆意蔓延吹拂。,"The lights of the office still shine bright in the night. The heating in the main hall is shut off, and silence spreads freely through the room, along with the cold.","В штабе ночью светло, отопление отключено, тишина и холод гуляют по залу."
+line-997,,片刻之后，诺希斯又发出一声干呕声。,"A moment later, the silence is broken by the sound of Gnosis retching.",Через минуту Носис снова подал признаки дурноты.
+line-999,诺希斯,锏，再给我点药。,"Degenbrecher, I need another pill.","Цзянь, дай ещё таблеток."
+line-1000,诺希斯,头疼。,My head hurts.,Голова болит.
+line-1002,恩希欧迪斯,......也给我两片吧，我可能也有点醉了。,...And a couple for me too. I might be a bit tipsy.,"...Дай и мне пару, похоже, я тоже перебрал."
+line-1005,,两人同时朝锏伸出手。,Both men stretch out their hands towards Degenbrecher at the same time.,Оба потянулись к ней.
+line-1006,,那副笃定一定有人兜底的姿态让锏莫名有些手痒。,That unflappable attitude that someone there knows the truth makes Degenbrecher tingle with irritation for some reason.,"Уверенность в том, что кто-то их поддержит, заставила Цзянь почесаться."
+line-1007,,不解决不行的问题还有许多。,There are still many questions that cannot be answered.,Проблем ещё полно.
+line-1008,,不过至少在这一刻，在这里，不必伪装，不必逞强。,"But at least here, right in this moment, there's no need to show off, no need for pretense.","Но в этот миг, здесь, не нужно играть роли."
+line-1013,,锏顺从自己心意，在这两只手上挨个拍了一巴掌。,"Degenbrecher heeds her own will, and slaps each of the two hands in turn.","Цзянь, потакая своим желаниям, по очереди хлопнула их по рукам."
+line-1016,诺希斯,嘶......,Gah...,Ссс...
+line-1018,恩希欧迪斯,嗯？,Oh?,М?
+line-1020,锏,都起来，醉了就回去睡觉。,"Stand up. Go home already, if you're drunk.",Поднимайтесь. Напились — и спать.
+line-1021,锏,别在这蹲着。,Don't squat here.,Нечего тут сидеть.
+line-1022,锏,明天要做的事还不少。,There's a lot of work to be done tomorrow.,Завтра дел невпроворот.
+line-1024,锏,走吧。,"Now, go.",Пошли.
