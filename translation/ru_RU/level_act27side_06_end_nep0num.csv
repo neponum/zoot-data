@@ -1,0 +1,184 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act27side
+__chapter__,,Chapter Name,activities/act27side/level_act27side_06_end,林中小木屋
+,,,,
+char-1,市政厅职员,市政厅职员,City Hall Staffer,Сотрудник мэрии
+char-2,诗怀雅,诗怀雅,Swire,Свайр
+char-3,拜松,拜松,Bison,Бизон
+char-4,礼貌的声音,礼貌的声音,Polite Voice,Вежливый голос
+char-5,低沉的声音,低沉的声音,Hushed Voice,Низкий голос
+char-6,哥伦比亚代表,哥伦比亚代表,Columbian Representative,Представитель Колумбии
+char-7,赫尔曼,赫尔曼,Herman,Герман
+char-8,疲惫的工人,疲惫的工人,Tired Worker,Усталый рабочий
+char-9,埃尼斯,埃尼斯,Enis,Энис
+char-10,委顿的工人,委顿的工人,Weary Worker,Подавленный рабочий
+char-11,精神的工人,精神的工人,Spirited Worker,Бодрый рабочий
+char-12,锡兰,锡兰,Ceylon,Сайланс
+char-13,慌张的工人,慌张的工人,Nervous Worker,Встревоженный рабочий
+char-14,灰心丧气的工人,灰心丧气的工人,Discouraged Worker,Обескураженный рабочий
+char-15,无精打采的工人,无精打采的工人,Dispirited Worker,Апатичный рабочий
+char-16,阿黛尔,阿黛尔,Adele,Адель
+char-17,伯德,伯德,Byrd,Берд
+char-18,背着矿灯的生物,背着矿灯的生物,Creature Carrying a Miner's Lamp,Существо с шахтерским фонарем
+,,,,
+line-14,市政厅职员,二位，这是最新的民意调查结果。,Here are the results of the latest public opinion survey.,"Двое, это результаты последнего опроса общественного мнения."
+line-15,市政厅职员,施怀雅集团的“水上乐园”方案的支持率为百分之三十三，峯驰物流公司的物流中心方案支持率为百分之二十一。,"The Schwire Group's Aquatic Paradise proposal is supported by 33% of those polled, while the MountainDash Logistics center proposal is supported by 21% of those polled.","Уровень поддержки проекта «Аквапарк» от Swire Group составляет тридцать три процента, а проект логистического центра компании «Фэнчи Логистик» поддерживают двадцать один процент опрошенных."
+line-16,市政厅职员,其余几位竞争者的支持率都在百分之十左右。,The other competitors are all hovering at around 10%.,Уровень поддержки остальных претендентов составляет около десяти процентов.
+line-17,市政厅职员,虽说民意调查的结果也只是影响市政厅最终决定的一部分，但就目前调查结果来看，施怀雅集团的方案的确是占据优势的。,"Although the result of the public opinion survey is only one of the factors that the city government considers when making its decision, based on the current results, the Schwire Group's proposal has the advantage.","Хотя результаты опроса — лишь часть того, что влияет на окончательное решение мэрии, текущие показатели свидетельствуют о том, что проект Swire Group действительно имеет преимущество."
+line-22,诗怀雅,不用多说了，具体的形势，相信拜松先生自己会有判断的。,Say no more. I'm sure Mr. Bison here can figure out the situation by himself.,"Не нужно продолжать, я уверена, что мистер Бизон сам сможет оценить текущую ситуацию."
+line-24,拜松,诗怀雅小姐今天特意约市政厅和我来这里，应该不止是炫耀战果的吧？,Surely Miss Swire didn't invite me and the city government here just to gloat over the results?,"Мисс Свайр, вы ведь пригласили меня в мэрию сегодня не только для того, чтобы похвастаться результатами, верно?"
+line-26,诗怀雅,当然。拜松先生，我想向您提出一个交易。,"Of course not. Bison, sir, I'd like to make a deal.","Конечно. Мистер Бизон, я хочу предложить вам сделку."
+line-27,诗怀雅,施怀雅集团会退出此次竞标，但对应的，我想要入股峯驰物流在这里的公司。,"The Schwire Group will drop out of the bidding, but in return, I want to buy into MountainDash Logistics's company here.","Swire Group выйдет из участия в этом тендере, но взамен я хочу приобрести долю в вашей местной компании «Фэнчи Логистик»."
+line-29,拜松,这才是你最开始的目的吗？,Hasn't that been your goal all along?,Так вот в чем заключалась ваша истинная цель с самого начала?
+line-31,诗怀雅,也不完全是，我后来又仔细想了想，你的存在对我来说并不全都是坏处。,"Not entirely, but I thought about it little afterwards, and your being here isn't all bad news to me.","Не совсем. Я еще раз обдумала всё и пришла к выводу, что ваше существование здесь несет для меня не только минусы."
+line-33,诗怀雅,聪明的商人总是要寻求双赢的可能，做最符合当下利益最大化的选择嘛。,A smart businessperson always looks for possibilities where both parties gain something and makes decisions that yields the maximum profits given the situation.,"Умный делец всегда ищет возможность для взаимной выгоды, делая выбор, который максимально соответствует текущим интересам."
+line-35,拜松,按诗怀雅小姐的话说......如果你真的很有信心的话，就不会来找我谈了。,"Going by what you said... If you were really so confident, you wouldn't have come negotiate with me.","Если верить вашим словам, мисс Свайр… то будь вы действительно так уверены в победе, вы бы не пришли ко мне с этим разговором."
+line-37,诗怀雅,那么对于拜松先生来说，用一定的股份认筹额度换最大的竞争对手的退出，算不算一笔好生意呢？,"Well, would you not agree that trading a percentage of your shares in exchange for your biggest rival's exit is a good deal?","В таком случае, мистер Бизон, считается ли хорошей сделкой устранение главного конкурента в обмен на определенную долю акций?"
+line-39,拜松,......,......,…
+line-41,拜松,诗怀雅小姐的开价是？,How much are you looking at?,"И какова цена, мисс Свайр?"
+line-49,,诗怀雅轻叩了三下桌子。,Swire lightly knocks on the table three times.,Свайр трижды постучала пальцами по столу.
+line-51,诗怀雅,我要，这个数。,I want this much.,Я хочу вот столько.
+line-62,市政厅职员,二位的协议我会汇报给市长，后续进一步的安排会继续同步给二位的。,I will report your arrangement to the mayor and continue to inform you of any further arrangements.,"Я доложу мэру о вашем соглашении, а о дальнейших шагах буду держать вас обоих в курсе."
+line-63,市政厅职员,祝两位客人在汐斯塔的行程愉快。,I wish you two a pleasant time in Siesta.,Желаю вам обоим приятного пребывания в Сиесте.
+line-72,拜松,......戏终于演完了？,Is that all for the show?,…Представление наконец закончилось?
+line-74,诗怀雅,目前为止，算是吧。,"For the time being, I guess.",На данный момент — да.
+line-76,拜松,呼——,Phew—,Ху—
+line-78,拜松,哈哈......哈哈哈......,Haha... Hahaha...,Ха… ха-ха-ха…
+line-80,诗怀雅,你笑什么？,What's so funny?,Чему ты смеешься?
+line-82,拜松,抱歉抱歉......我只是没有想到，诗怀雅局长也会用这种手段......,"Sorry, sorry... I just didn't expect... that you'd resort to these means, too, Commissioner Swire...","Прошу прощения… просто не ожидал, что инспектор Свайр тоже способна использовать такие методы…"
+line-84,诗怀雅,我要是大张旗鼓地投资峯驰物流的生意，那别说注册自己的公司了，恐怕来汐斯塔的第一天，峯驰物流就被以一万种理由举报停工了吧。,"If I were to openly invest in MountainDash's business, forget about registering our own company. They'd write MountainDash up for thousands of reasons and shut it down on our first day in Siesta.","Если бы я открыто инвестировала в бизнес «Фэнчи Логистик», то не говоря уже о регистрации собственной компании, «Фэнчи» в первый же день работы в Сиесте завалили бы жалобами и закрыли под миллионом предлогов."
+line-86,诗怀雅,家族的人对我有戒心，但好在并不多。只要在他们眼里我还是那个莽撞的年轻警司，我就可以借这层外衣行事。,"My family's wary of me. Good thing they aren't <i>that</i> wary of me yet. As long as they still see me as a young, hot-headed superintendent, I can still cover my actions with that as a ruse.","Семья относится ко мне с осторожностью, но, к счастью, не слишком сильной. Пока в их глазах я остаюсь той же опрометчивой молодой инспекторкой, я могу действовать, используя это прикрытие."
+line-88,拜松,呼——我确实庆幸，没有真的当你的竞争对手。,Phew—I'm really fortunate that I'm not actually your business rival.,"Ху… я действительно рад, что не стал вашим настоящим конкурентом."
+line-90,诗怀雅,但这只是第一步，商业联合会迟早会反应过来的。接下来各种各样的刁难肯定少不了。你准备好了？,"This is just the first step, though. The Federation of Enterprises will put it all together sooner or later. We'll face all sorts of difficulties going forward. Are you ready?",Но это только первый шаг. Коммерческое объединение рано или поздно спохватится. Различных неприятностей в будущем не избежать. Ты готов?
+line-92,拜松,已经走到这一步，后悔肯定是来不及了。,"Having come this far, it's probably too late for me to have any regrets.","Раз уж я зашел так далеко, жалеть уже поздно."
+line-94,诗怀雅,那么，合作愉快？,"Well, partners, then?","Итак, за плодотворное сотрудничество?"
+line-96,拜松,嗯，合作愉——,"Yeah, I look forward to—","Да, за плодотворное сотрудничест—"
+line-103,拜松,你的终端？,Your terminal?,Твой терминал?
+line-105,诗怀雅,不是，是你的吧？,"No, isn't it yours?","Нет, разве не твой?"
+line-114,,诗怀雅和拜松拿出自己的终端，两人飞快地对视了一眼，按下了接听键。,"Swire and Bison each take out their terminals. They take a brief look at each other, before hitting their respective answer keys.","Свайр и Бизон достали свои терминалы, быстро переглянулись и нажали кнопку ответа."
+line-117,礼貌的声音,您好，请问是“峯联贸易”的法定代表人拜松先生吗？,"Hello, is this Bison, the legal representative of Mountaincomm Trade?","Здравствуйте, я говорю с мистером Бизоном, законным представителем «Фэн Лянь Трейд»?"
+line-118,低沉的声音,您好，请问是诗怀雅小姐吗？,"Hello, is this Miss Swire?","Здравствуйте, с мисс Свайр?"
+line-119,礼貌的声音,市政厅接到举报，贵司非法雇佣没有身份注册的感染者。现在请贵司立即停止一切业务。,"The city hall has received a report that your company has illegally employed undocumented Infected. At this point, we need your company to immediately cease all operations.","В мэрию поступила жалоба, что ваша компания незаконно нанимает зараженных, не имеющих регистрации. Сейчас вы должны немедленно остановить всю деятельность."
+line-120,礼貌的声音,请准备好以下材料，配合市政厅进行调查。首先是贵司所有感染者雇员的名单......,"Please prepare the following documents for the city government's investigation. First, we need the list of all Infected employees working for your company...","Пожалуйста, подготовьте следующие документы для содействия расследованию мэрии. Во-первых, список всех ваших сотрудников-зараженных…"
+line-121,低沉的声音,诗怀雅小姐，你的表演很有趣，确实为你争取到了一些玩闹的时间。但是集团对你私自做决定的行为十分不满。,"Miss Swire, that was an interesting show, and it did buy you some time for your prank. Unfortunately, the group is very unhappy with your decision.","Мисс Свайр, ваше выступление было весьма забавным, оно действительно выгадало вам немного времени на игры. Но руководство крайне недовольно тем, что вы приняли решение самостоятельно."
+line-122,低沉的声音,希望你能意识到一点，该做的事和不该做的事都是有限度的，投资游戏该结束了。,You should know that there are limits to what you should and shouldn't do. This investment game is over.,"Надеюсь, вы понимаете, что всему есть предел, и тому, что можно делать, и тому, что нельзя. Инвестиционная игра окончена."
+line-123,礼貌的声音,感谢您的配合，再见。,Thank you for your cooperation. Goodbye.,"Благодарим за сотрудничество, до свидания."
+line-124,低沉的声音,到此为止，希望您会好好考虑自己行为的意义。,This stops here. I hope you'll think about the consequences of your actions.,"На этом всё, надеюсь, вы хорошо обдумаете смысл своих действий."
+line-131,诗怀雅,......,......,…
+line-133,拜松,......,......,…
+line-135,拜松,这是毫无理由的污蔑。,This is some uncalled-for slander.,"Это клевета, не имеющая под собой никаких оснований."
+line-137,诗怀雅,是谁递交的举报信，一目了然了啊。在合同快要签订的时候拖时间，他们好追上来做点其他事情。,"Well, it's pretty obvious who snitched on us. They're trying to buy time right before we sign our contract just so they can catch up.","Стало очевидно, кто подал жалобу. Тянули время перед подписанием договора, чтобы успеть предпринять другие шаги."
+line-138,诗怀雅,可为什么要用感染者做文章......汐斯塔什么时候出台过为难感染者的政策？,But why use the Infected as an excuse... Since when has Siesta had any policies against the Infected in any way?,"Но зачем использовать тему с зараженными… Когда Сиеста вообще успела принять политику, притесняющую их?"
+line-140,拜松,我们没有时间对付这些无理的刁难。,We don't have time to deal with these setbacks.,У нас нет времени бороться с подобными абсурдными придирками.
+line-141,拜松,如果可以说服赫尔曼市长的话——,If only we could convince Mayor Herman—,Если только можно убедить мэра Германа—
+line-143,诗怀雅,你说得没错，突破口的确在赫尔曼本人身上。可他有什么理由，一定站在我们这边......,"You're right. Herman is our chance at a breakthrough, but what reason does he have to stand on our side...?","Ты прав, ключ к решению действительно лежит в руках самого Германа. Но с какой стати он должен встать на нашу сторону…"
+line-144,诗怀雅,而且，如果我没猜错的话，他现在也面临着别的压力吧。,"Besides, if my hunch's correct, he's probably being pressured in some other way right now.","И, если я не ошибаюсь, сейчас он сам испытывает иное давление."
+line-153,哥伦比亚代表,赫尔曼市长，见您一面很不容易。,"Mayor Herman, you're a hard man to reach.","Мэр Герман, нелегко добиться встречи с вами."
+line-158,赫尔曼,我以为之前我给出的回复已经很明确，我们之间没有必须要当面会谈的问题。,I thought my answer before was more than clear. There is nothing for you and I to discuss in person.,"Я полагал, что мой предыдущий ответ был достаточно ясен: у нас нет вопросов, требующих личного обсуждения."
+line-160,哥伦比亚代表,当然，哥伦比亚尊重汐斯塔作为独立城邦的一切权利。我今天来到这里，是为了和您谈另一件事——汐斯塔的感染者问题。,"Naturally, Columbia respects all the rights that Siesta enjoys as an independent city state. I am here today for a different matter—Siesta's Infected question.","Разумеется, Колумбия уважает все права Сиесты как независимого города-государства. Я здесь сегодня, чтобы поговорить с вами о другом — о проблеме зараженных в Сиесте."
+line-162,赫尔曼,......,......,…
+line-164,哥伦比亚代表,按照哥伦比亚联邦法律，感染者必须缴纳足够的医疗保险才有权利在移动城市生活。否则就要加入拓荒队了。,"Columbian federal law states that Infected citizens must be enrolled in a suitable healthcare plan in order to reside in our nomadic cities. Otherwise, they must join the Pioneer Teams.","Согласно федеральному закону Колумбии, зараженные обязаны иметь надлежащую медицинскую страховку, чтобы получить право жить в передвижном городе. В противном случае они должны вступить в отряды освоения."
+line-165,哥伦比亚代表,之前汐斯塔不是移动城市，所以没有受到这条法律的约束。但是从现在开始，我们有必要重新探讨一下法治的意义。,"Siesta was not a nomadic city, and so it was not bound by this regulation. However, given the current circumstances, we need to reevaluate the rule of law here.","Раньше Сиеста не была передвижным городом, поэтому действие этого закона на неё не распространялось. Но с этого момента нам следует заново обсудить смысл верховенства закона."
+line-167,赫尔曼,这样的文字游戏，就是你们的施压方式？,So this word game is your idea of pressuring me?,Такая игра слов — ваш способ давления?
+line-169,哥伦比亚代表,希望您认清现状，赫尔曼市长。,"I hope you grasp the situation, Mayor Herman.","Советую вам трезво взглянуть на ситуацию, мэр Герман."
+line-170,哥伦比亚代表,我们现在并不是处在协商的立场上。,This is not a negotiation.,"Мы сейчас находимся не на тех позициях, чтобы вести переговоры."
+line-180,疲惫的工人,从什么时候开始买个黑曜石都要这么偷偷摸摸的了？,Since when do we need to be so sneaky about buying obsidian?,С каких это пор покупка обсидиана стала таким тайным делом?
+line-182,埃尼斯,没办法啊，最近查得严，但机会都是留给你们这种消息灵通、懂得把握机会的人的！,"What choice do we have? They've been pretty strict with inspections lately. But this is a great opportunity for people like you, in-the-know, to seize the day!","Ничего не поделаешь, в последнее время проверки стали строже, но возможности всегда достаются таким осведомленным людям, как вы, умеющим ими пользоваться!"
+line-183,埃尼斯,物流中心很快就要建成了，不少商人等着收购黑曜石呢。,"The logistics center will be done soon, and there are lots of merchants waiting to buy obsidian.","Логистический центр скоро будет достроен, многие торговцы ждут возможности скупить обсидиан."
+line-185,委顿的工人,啧，汐斯塔的黑曜石，现在还是什么稀罕的东西吗？你自己店里也偷偷藏了不少吧，何必来找我。,"Ugh, when has Siestan obsidian ever been all that rare? You probably have plenty hidden in your shop yourself. Why come to me?","Пф, разве обсидиан из Сиесты сейчас еще кому-то нужен? У тебя самого в лавке наверняка припрятано немало, зачем пришел ко мне?"
+line-187,埃尼斯,他们想要的是最近才开采出来的，说什么......这种受到火山热能影响的黑曜石，蕴含着大地的能量，有非常神奇的保健功效！,What they want is freshly-mined obsidian. What's it...? Volcano-heated obsidian contains the land's energy and has amazing health benefits!,"Им нужен тот, что добыли совсем недавно, говорят… что такой обсидиан, подвергшийся воздействию вулканического тепла, содержит энергию земли и обладает удивительными оздоровительными свойствами!"
+line-189,疲惫的工人,......,......,…
+line-191,埃尼斯,好吧，不逗你们了。除了这筐黑曜石，还有没有最近挖出来的？如果你们还有的话，我有个渠道，品相好的话，有买家出这个数。,"Alright, I'll stop messing with you. Do you have any other new obsidian pieces, aside from this basket? Whatever you've got, I have buyers lined up. If the quality's good enough, they're willing to pay this much.","Ладно, не буду вас мучить. Кроме этой корзины, есть еще что-то из свежедобытого? Если найдется, у меня есть канал сбыта: если качество хорошее, покупатель предложит вот столько."
+line-194,,埃尼斯用手比划了一个数字。,Enis gestures a number with his hands.,Энис показал рукой цифру.
+line-196,精神的工人,这个价？那有的，就在前几天我还去挖了不少呢。,"That much? Yeah, I do. I dug up a bunch just a couple days ago.","Такая цена? Тогда есть, буквально пару дней назад я накопал немало."
+line-198,埃尼斯,哦？就在最近挖的吗？,Oh? So recently?,О? Прямо недавно?
+line-200,精神的工人,嗯嗯，我还留了几个极漂亮的——你看，这几块的品相是不是好极了？,"Yep. I kept some real pretty ones—Look, these are some mighty fine obsidians, don't you think?","Ага, я еще оставил несколько особенно красивых штук — посмотри, разве качество не великолепное?"
+line-203,锡兰,是不错。,They're lovely indeed.,И правда неплохо.
+line-209,锡兰,那么可以请你再和我讲一些，你们违法私采黑曜石的事吗？,"Now, would you please tell me more about your illegal obsidian mining operation?","Тогда не могли бы вы рассказать мне больше о том, как вы незаконно добываете обсидиан?"
+line-212,慌张的工人,埃尼斯！你骗我！你什么时候学坏的？,"Enis! You set me up, didn't you?! When did you fall so low?",Энис! Ты меня обманул! Когда ты успел стать таким?
+line-214,埃尼斯,呃，这也不算骗吧，是一位嗓门很大的警察教我的......抱歉啦，杰克大叔，这也是为了你好呀，别拿自己的健康开玩笑啊。,"Uh, this isn't exactly a set up now, is it? A cop with a really loud mouth taught me this... Sorry, Uncle Jackie. This is for your own good. You shouldn't put your health on the line.","Э-э, это нельзя назвать обманом, это меня научила одна очень громкоголосая полицейская… Прости, дядя Джек, это ведь ради твоего же блага, не шути со своим здоровьем."
+line-215,埃尼斯,只是向你打听一点事情，还请你配合我们的调查啦。,"We just have a couple questions we want to ask you. Work with us, will you?","Просто ответь на пару вопросов, пожалуйста, посодействуй нашему расследованию."
+line-226,灰心丧气的工人,我们说完了，要交代的就是这些了......,That's everything...,"Мы всё сказали, это всё, что нужно было сообщить…"
+line-228,无精打采的工人,我们会被关起来吗......？,Are you gonna lock us up?,Нас посадят в тюрьму…?
+line-230,锡兰,......你们现在挖回来的黑曜石准备卖给谁？,Who were you planning to sell the obsidian to?,"…Кому вы планируете продать тот обсидиан, что добыли?"
+line-232,埃尼斯,是佩利佩吗？,Is it Pelipper?,Пелипе?
+line-234,灰心丧气的工人,不......佩利佩很早之前就不再从我们这里收购黑曜石了，而且真的是说到做到，一颗都不要。我们拿去再好的，他一眼都不看。,"No... Pelipper stopped buying from us a long time ago, and he's a man of his word. He hasn't bought a single pebble. No matter how high quality the obsidian, he doesn't so much as take a single glance.","Нет… Пелипе уже давно перестал скупать у нас обсидиан, причем держит слово, ни одной штуки не берет. Даже если мы приносим лучший, он на него и не смотрит."
+line-236,无精打采的工人,......嗐，现在你们让我说这些有什么用？,"Hmph... You got all this out of us, but what good is it going to do?","…Ха, какой смысл сейчас об этом говорить?"
+line-237,无精打采的工人,赫尔曼想一出是一出，先是不让挖黑曜石，又说火山要爆发了，结果我们搬到这里快两年了，也没见火山冒出一缕烟。,"That bastard Herman's always doing whatever he wants without a thought to the consequences. First, he made us all stop mining obsidian. Then, he said the volcano was going to erupt. It's been almost two years since we moved here, and it hasn't so much as let out a puff of smoke!","Герман сам не знает, чего хочет: то запрещает добывать обсидиан, то говорит, что вулкан скоро проснется, хотя мы здесь живем уже почти два года и ни разу не видели даже дымка."
+line-239,灰心丧气的工人,也不看看早几年靠什么赚钱......,Maybe he should've taken a look at where our money was coming from just a couple years ago...,"Даже не спрашивай, на чем мы зарабатывали раньше…"
+line-241,锡兰,可是，汐斯塔的感染者政策不是很宽松吗......？,But doesn't Siesta have really lax Infected policies...?,Но разве политика Сиесты в отношении зараженных не была достаточно лояльной…?
+line-243,灰心丧气的工人,那我们还是没有工作了啊，矿场那么多待业工人要是都去做司机，汐斯塔能直接被拉着再跑几公里。,"That doesn't mean they've got jobs for us! If all the out-of-work miners became drivers, they could probably tow the city a couple kilometers.","У нас все равно нет работы, если все безработные с шахт подадутся в водители, Сиесту можно будет тащить еще на пару километров."
+line-245,无精打采的工人,更何况我已经感染了，还能做什么呢？峯驰物流一来，又多少人没了工作，市长还要拆商业街。拆了要干什么？把我们都赶走吗？,"Besides, I'm already infected. What else can I do? Once MountainDash Logistics moves into the city, we'll have even more people without work. Now the Mayor's talking about tearing the shopping district down. Why tear it down, even? Just to chase us out of here?","К тому же я уже заражен, что мне еще делать? Как только появилась «Фэнчи Логистик», многие остались без дела, а мэр к тому же собирается сносить торговую улицу. Зачем? Чтобы выгнать нас всех?"
+line-247,埃尼斯,可能，可能市长会出台什么政策帮助你们的......,Maybe... Maybe the Mayor will come up with a policy to help you guys...,"Возможно, мэр примет какую-то политику, чтобы помочь вам…"
+line-249,无精打采的工人,想什么呢，你没听到消息吗？我们这些感染了的就要被赶走了，连哥伦比亚人都来了。,Forget it. Haven't you heard? They're going to chase us Infected out. The Columbians are here.,"О чем ты, разве не слышал новости? Нас, зараженных, собираются выгнать, даже колумбийцы уже приехали."
+line-251,锡兰,你们从哪里听到的？,Where did you hear that?,Откуда вы это услышали?
+line-253,无精打采的工人,我们可是知道哥伦比亚怎么对感染者的，要真有什么事，我们自己先去荒野上拓荒好了。,"We all know how the Columbians treat the Infected. If something does end up happening, we might as well just head out into the wastes ourselves and start pioneering.","Мы-то знаем, как Колумбия относится к зараженным. Если что-то случится, мы сами уйдем осваивать пустоши."
+line-255,灰心丧气的工人,赫尔曼个贝壳脑袋......真的是个贝壳脑袋！,That shell-brain Herman... That darned shell-brain!,Герман — безмозглый моллюск… просто безмозглый моллюск!
+line-257,埃尼斯,呃呃......咳！咳！,Ugh... *cough*! *cough*!,Э-э… кхе! Кхе!
+line-259,灰心丧气的工人,你怎么了？生病了吗？,What's wrong? Are you sick?,Ты чего? Заболел?
+line-261,埃尼斯,没没，呃，我......,"No, no. Uh, I...","Нет-нет, э… я…"
+line-263,锡兰,......,......,…
+line-265,埃尼斯,呃，锡兰医生，他们也是......,"Uh, Dr. Ceylon, they're also...","Э, доктор Сайланс, они ведь тоже…"
+line-266,埃尼斯,市长先生肯定也很辛苦，你也不要太生气......,"The Mayor must be having a tough time, too. Don't get mad over this...","Мэру тоже нелегко, не злитесь вы так…"
+line-268,锡兰,不是的，我没有在为这件事生气。,"No, I'm not mad.","Нет, я злюсь не из-за этого."
+line-269,锡兰,本来以为只是警告几个偷采的工人别再去了，但是哥伦比亚人来了，事情就不一样了......,"I thought this was just going to be warning a few men to stop illegal mining, but if the Columbians are here, that changes everything...","Я думала, что просто предупрежу рабочих, добывающих камни, чтобы они этого не делали, но теперь, когда приехали колумбийцы, дело приняло иной оборот…"
+line-270,锡兰,这是汐斯塔自己的问题。,This is Siesta's own problem.,Это проблема самой Сиесты.
+line-272,锡兰,......,......,…
+line-274,锡兰,大叔，就你们知道的，现在还有多少人在挖黑曜石？,"Sir, how many are still mining obsidian?","Дядя, сколько еще человек сейчас добывают обсидиан, насколько вы знаете?"
+line-276,无精打采的工人,......,......,…
+line-278,灰心丧气的工人,......,......,…
+line-280,锡兰,或者我直说吧，我并不是要送你们去见警察。,I'll come out and say it. I'm not going to turn you in to the police.,Или скажу прямо: я не собираюсь сдавать вас полиции.
+line-281,锡兰,埃尼斯刚刚也说了，我是一名医生，我知道单纯地阻止你们去挖黑曜石是不现实的，我只是想帮你们解决这个问题......请相信我。,Enis said it just now. I'm a doctor. I know it's not realistic to just stop your obsidian work. What I want to do is help you solve this problem... Please trust me.,"Энис только что сказал, что я врач. Я знаю, что просто запретить вам добывать обсидиан нереально, я лишь хочу помочь вам решить эту проблему… пожалуйста, поверьте мне."
+line-282,锡兰,所以，现在能不能告诉我？,"So, won't you tell me?","Так, можете ли вы рассказать мне сейчас?"
+line-284,无精打采的工人,什么意思，你要帮我们？,"What do you mean, you're going to help us?","В смысле, хочешь нам помочь?"
+line-285,无精打采的工人,呃，你是......？而且，为什么？,"Uh, who are you...? And why?",Э… вы… кто? И почему?
+line-287,灰心丧气的工人,等一下，这位小姐，你有点眼熟......,Hold on... You look familiar...,"Подождите-ка, мисс, вы мне знакомы…"
+line-289,埃尼斯,呼，你总算发现了！黑曜石音乐节的转播总看过吧，好几次和赫尔曼市长一同出席闭幕式的那位小姐总有印象吧。,"Hah, you finally figured out, huh? You watched the Obsidian Festival broadcasts, right? Remember the lady at the closing ceremonies with Mayor Herman?","Ху, ну наконец-то! Трансляции Музыкального фестиваля Обсидиана смотрели? Помните ту госпожу, что несколько раз присутствовала на церемонии закрытия вместе с мэром Германом?"
+line-291,灰心丧气的工人,......谁？不不不，我是说我曾经见过一位和你长得很像的女士......,"Who? No, no, no. I'm saying you look a lot like a woman I once met...","…Кто? Нет-нет-нет, я имею в виду, что давным-давно видел одну госпожу, очень похожую на вас…"
+line-292,灰心丧气的工人,那是很久以前的事了，我们都还在黑曜石矿场工作。,"It was a long time ago, and we worked at the obsidian mines together.","Это было очень давно, мы тогда все еще работали на обсидиановых шахтах."
+line-293,灰心丧气的工人,那时候有一个从维多利亚来的学者。明明还怀着身孕，但每天都往矿场跑，说要调查什么生态环境。,"There was a scholar from Victoria. She was pregnant, but she went to the mines every day, for environmental surveys or whatever.","Тогда к нам приезжала одна исследовательница из Виктории. Она была беременна, но каждый день приходила на шахту, говорила, что исследует экологическую среду."
+line-294,灰心丧气的工人,虽然她对矿上的东西了解得不算多，但她确实对我们挺好的......,"She didn't know that much about mining, but she was real kind to us...","Хотя в шахтном деле она разбиралась не очень, к нам она относилась по-доброму…"
+line-295,灰心丧气的工人,啊，我想起来了，她的名字好像是叫......芭乐......不对，芭芭拉。,"Oh, now I remember. Her name was... Bora... No, Barbara.","А, вспомнил, кажется, её звали… Барба… нет, Барбара."
+line-297,锡兰,——！,—!,—!
+line-309,,背着矿灯的生物走走停停，遥望着老汐斯塔海滩的方向。,"The creature, with the miner's lamp on its back, trots along in short spurts as it gazes toward Old Siesta's beach.","Существо с шахтерским фонарем остановилось, глядя вдаль, в сторону пляжа старой Сиесты."
+line-310,,伯德坐在沙滩上，信手拨着琴弦。,"There, Byrd is sitting on the sand, plucking away at her strings spontaneously.","Берд сидела на песке, машинально перебирая струны."
+line-319,阿黛尔,您平时都待在这里吗？,Do you come here often?,Вы обычно проводите время здесь?
+line-321,阿黛尔,唔，这里还能看到老汐斯塔呢......,"Hmm, you can still see Old Siesta here...","Ух ты, отсюда даже видно старую Сиесту…"
+line-323,伯德,毕竟音乐是很好听的，海浪声透过风传过来，很配吉他声。,"Well, music is pleasing to the ear, and the sound of the waves, carried on the wind, is good accompaniment for the guitar.","Музыка здесь звучит очень красиво, шум волн разносится с ветром — идеальный аккомпанемент для гитары."
+line-325,伯德,不过我没想到你会问这个问题......原来你也是一个愿意搭话的人呀。,"I didn't expect you to ask me that, though... So you're actually willing to talk.","Но я не ожидала, что вы зададите этот вопрос… Оказывается, вы тоже из тех, кто готов заговорить с незнакомцем."
+line-327,阿黛尔,欸？这不是很正常的举动吗......？,Huh? Isn't this what one would normally do...?,"А? Это ведь вполне естественно, разве нет…?"
+line-329,伯德,嗯......也对，是我有些狭隘了吧。,Yeah... I guess it is. maybe I'm just a bit too narrow-minded.,"М-м… Пожалуй, ты права. Должно быть, я была слишком ограниченна в своих суждениях."
+line-330,伯德,如果万物都能对话，或许乐声就是最好的语言。即使语言不通，也可以传递你真实的思想——真不错，感觉是某种新的灵感。,"If everything can talk to everything else, then music might be the best language there is. Even if you don't speak the same tongue, music can help you convey your truest thoughts—Not bad. This feels like a new inspiration.","Если бы все существа могли говорить, возможно, музыка была бы лучшим языком. Даже если язык непонятен, она может передать твои истинные мысли — здорово, кажется, это новое вдохновение."
+line-336,,伯德弹起一首舒缓的小曲，海浪起起伏伏，正和着她的节拍。,"Byrd starts strumming a slow, relaxed song. The waves rise and fall along to her rhythm.","Берд заиграла нежную мелодию, волны поднимались и опускались в такт."
+line-338,伯德,你们是这首曲子最早的听众。,You two are the first to hear this piece.,Вы — первые слушатели этой песни.
+line-340,阿黛尔,“你们”？啊......您是指这些羽兽和小草吗？,'You two?' Oh... Are you including this fowlbeast here? Maybe the grass?,«Вы»? А… вы имеете в виду этих птиц и траву?
+line-342,伯德,嗯？不是啊。,Hm? No.,Хм? Нет.
+line-344,伯德,这里不是还有一个听众吗？,Don't we have another listener here?,Разве здесь нет еще одного слушателя?
+line-349,,伯德指向按理来说空无一物的台阶。,"Byrd points at the steps next to them which, logically, should be empty.","Берд указала на ступеньки, которые казались абсолютно пустыми."
+line-354,背着矿灯的生物,......,......,…
+line-359,伯德,你刚才不是一直在和它说话吗？,Weren't you talking to it the whole time?,Разве ты не разговаривала с ним все это время?
+line-361,阿黛尔,伯德小姐......您也能看到它？,Miss Byrd... You can see it?,Мисс Берд… вы тоже его видите?
+line-364,,背着矿灯的生物站在沙滩上，呆呆地看着远处那一线老汐斯塔的影子。它试图踏入海水，但几次踌躇，最终又走回了地块上。,"The creature with a miner's lamp on its back stands on the beach and gazes blankly at the silhouette of Old Siesta in the distance. It hesitantly tries to step into the seawater, but after a few plods, it walks back onto land.","Существо стояло на пляже, тупо глядя на очертания старой Сиесты вдалеке. Оно попыталось ступить в воду, но после нескольких колебаний вернулось на сушу."
+line-369,,它的蹄子有节奏地踏着地面，仿佛在配合着音乐的拍子，但又好像不是，只是坚持着一个它自己的节奏。,"Its takes its hoofsteps rhythmically, as though it is trying to match the music's beat, though it also looks like it isn't and is just trying to maintain its own rhythm.","Его копыта ритмично ударяли по земле, словно стараясь попасть в такт музыке, но, казалось, оно просто придерживалось собственного ритма."
+line-370,,咚咚、咚咚、咚咚......,"Ba-dump, ba-dump, ba-dump...","Тук-тук, тук-тук, тук-тук…"
+line-374,伯德,嗯，从来到汐斯塔的那一天起，我一直都能看到。,"Yeah, I've been able to see it since the day I came to Siesta.","Да, с того самого дня, как я приехала в Сиесту, я постоянно его вижу."
+line-376,阿黛尔,所有吗？,Just the one?,Всех?
+line-378,伯德,所有？还有很多这种生物吗？,Are there others?,Всех? Есть много таких существ?
+line-380,伯德,......很可惜，我只能看到这一个。,Too bad... This is the only one I can see.,"…К сожалению, я вижу только это одно."
+line-382,,伯德看着眼前这个生物背上的矿灯，头上的矿帽和护目镜。,Byrd looks at the lamp on the creature's back and the hard hat and goggles on its head.,"Берд смотрела на шахтерский фонарь на спине существа, на его каску и защитные очки."
+line-384,伯德,大概是我之前在老汐斯塔的时候，给那些矿工们写过一首曲子，而它恰巧很喜欢和矿石有关的东西？,I wrote the miners of Old Siesta a song. Maybe it just happens to like things that have to do with ores?,"Наверное, это потому, что когда я жила в старой Сиесте, я сочинила песню для тех шахтеров, а оно случайно любит всё, что связано с рудой?"
+line-386,伯德,那我再给它弹一遍那首曲子吧。,"I'll play the song again, just for it.",Тогда я сыграю ему ту песню еще раз.
+line-393,,伯德重新拨动琴弦，阿黛尔收好裙摆，坐在伯德的身旁。,"Byrd starts strumming again, while Adele brushes her dress's hem and sits down next to Byrd.","Берд снова перебрала струны, Адель поправила юбку и села рядом."
+line-396,伯德,这样一想，或许我写过的曲子还找不出一首可以代表我人生的，但是可能也有那么一两首能成为别人的慰藉......,"Come to think of it, even though there hasn't been a single song of mine that could represent my whole life, perhaps there's one or two that could give comfort to somebody out there...","Подумать только, может, в моем репертуаре и нет песни, которая бы стала главной в моей жизни, но, может, хотя бы одна или две стали утешением для кого-то другого…"
+line-397,伯德,......虽然听众只是一只，小黑羊？,...even if my audience is just a lone... Little Black Sheep?,…Хоть слушатель всего один — черная овечка?
+line-399,伯德,但也不错！,But that's not so bad!,Но тоже неплохо!
+line-401,阿黛尔,......原来它留下来是为了听您弹琴啊。,It stayed behind to listen to you play your guitar.,"…Оказывается, оно осталось здесь, чтобы слушать вашу музыку."
+line-403,伯德,你说你还能看到其他的小黑羊，它们都在哪里？,You said you could see more of them. Where are they?,"Ты сказала, что видела и других черных овечек. Где они сейчас?"
+line-405,阿黛尔,它们......它们突然都不见了，我也不知道它们都去了哪里。,They... They disappeared all of a sudden. I don't know where they went.,"Они… они внезапно все исчезли, и я не знаю, куда они подевались."
+line-407,伯德,那它们也会和它一样吃路牌吗？,Do they eat road signs like this one?,"А они тоже едят дорожные знаки, как и это?"
+line-409,阿黛尔,似乎没有......,I don't think so...,"Кажется, нет…"
+line-411,伯德,唔，那我有了一个想法。,"Hm, I have an idea.","Хм, у меня появилась одна догадка."
+line-412,伯德,你觉得它吃这些路牌，会不会是因为，它迷路了？,Do you think this one eats road signs because... it's a stray sheep?,"Как ты думаешь, может, оно ест знаки потому, что заблудилось?"
+line-417,背着矿灯的生物,......,......,…
