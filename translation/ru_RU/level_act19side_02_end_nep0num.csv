@@ -1,0 +1,218 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act19side
+__chapter__,,Chapter Name,activities/act19side/level_act19side_02_end,拓荒者小屋
+,,,,
+char-1,Mechanist,Mechanist,Mechanist,Механист
+char-2,塞雷娅,塞雷娅,Saria,Сария
+char-3,桑尼,桑尼,Sonny,Санни
+char-4,赫默,赫默,Silence,Хемер
+char-5,形状奇特的物体,形状奇特的物体,Strange Entity,Странный объект
+char-6,埃琳娜,埃琳娜,Elena,Элена
+char-7,拓荒队成员,拓荒队成员,Frontier Team Member,Первопроходец
+char-8,白面鸮,白面鸮,Ptilopsis,White Noise
+char-9,玛丽,玛丽,Mary,Мэри
+char-10,莱茵防卫科成员,莱茵防卫科成员,Rhine Defense Member,Член охраны Rhine Lab
+char-11,莱茵实验员,莱茵实验员,Rhine Lab Tech,Лаборант Rhine
+char-12,斐尔迪南,斐尔迪南,Ferdinand,Фердинанд
+char-13,格雷伊,格雷伊,Greyy,Грей
+char-14,温柔的女声,温柔的女声,Gentle Female Voice,Нежный женский голос
+,,,,
+line-10,Mechanist,......,......,......
+line-11,Mechanist,我得承认，我没想到。,"I have to admit, I wasn't expecting that.","Должен признать, я не ожидал такого."
+line-14,,我也没想到。;直到我看到塞雷娅动手......,Neither was I.;Up until I saw Saria do it...,"Я тоже. Пока не увидел, как в дело вступила Сария..."
+line-17,塞雷娅,你们放心，我也并不想再进一次监狱。,Rest assured. I have no intention of going back to prison either.,"Не волнуйтесь, я тоже не горю желанием снова оказаться в тюрьме."
+line-19,Mechanist,那这现场处理起来就容易多了。,Then that makes cleaning up the scene of the crime here a lot easier.,Тогда зачистить место будет куда проще.
+line-20,Mechanist,毕竟，我是个机械师，拆解一具机械花不了多少时间。,"After all, I'm a mechanist. Won't take much time to pull a machine apart.","В конце концов, я механик. Разборка механизма много времени не займет."
+line-21,Mechanist,不过......你是怎么知道它里面是空心的？,But I'm wondering... How did you know it was empty inside?,"Но... как ты узнала, что внутри он пустой?"
+line-23,塞雷娅,我和这批动力甲交手过几次。,I've sparred with this power suit a few times before.,Мне уже доводилось сталкиваться с этой партией силовых доспехов.
+line-25,Mechanist,你也被它们追杀过？,You've been hunted by them too?,И тебя они тоже пытались выследить?
+line-27,塞雷娅,算是吧。,In a sense.,Можно и так сказать.
+line-30,,它们不是塞雷娅的对手。;......;反过来还差不多......,"They're not out for Saria.;......;Could be the other way around, honestly...",Они не соперники Сарии. ...Скорее даже наоборот...
+line-33,Mechanist,既然它们出现在这里，那说明有人并不希望我们追查缪尔赛思的下落。,"If they're showing up here, that goes to show someone really doesn't want us tracking Muelsyse's whereabouts.","Раз они появились здесь, значит, кто-то не хочет, чтобы мы нашли Мюльзис."
+line-34,Mechanist,这个人会是谁？,Who's that someone going to be?,И кто бы это мог быть?
+line-36,塞雷娅,有多种可能性。,There are many possibilities.,Вариантов много.
+line-37,塞雷娅,我与缪尔赛思联络不多，只知道她在失踪前正在参与某项由莱茵生命主导的秘密实验。,I don't contact Muelsyse much. I only know she was participating in some Rhine Lab-headed secret experiment before she disappeared.,"Я мало общалась с Мюльзис, знаю лишь, что перед исчезновением она участвовала в неком секретном эксперименте под руководством Rhine Lab."
+line-38,塞雷娅,考虑到我早已离开莱茵，她向我透露上述信息已经违反保密协议。,"Considering I left Rhine long ago, her divulging as much to me already violated her NDA.","Учитывая, что я давно покинула Rhine Lab, она уже нарушила протокол, рассказав мне об этом."
+line-40,Mechanist,莱茵防卫科会出动尖端武器干掉泄密的员工吗？,Does Rhine Defense dispatch cutting-edge weapons to eliminate info-leaking employees?,"Отдел безопасности Rhine Lab использует передовое оружие, чтобы избавляться от болтливых сотрудников?"
+line-42,塞雷娅,......,......,......
+line-44,Mechanist,我知道了，这也是保密条款。,Got it. That's non-disclosure too.,Понял. Это тоже часть протокола.
+line-45,Mechanist,罗德岛真是良心企业，是吧，Dr.{@nickname}？,"Rhodes Island sure is a friendly enterprise, isn't it, Dr. {@nickname}?","Rhodes Island — по-настоящему ответственная организация, правда, Доктор?"
+line-48,,罗德岛不仅仅是一家企业。;......;要不然也招募不到你们。,Rhodes Island isn't just an enterprise.;......;How else did we get either of you?,Rhodes Island — это не просто организация. ...Иначе нам бы не удалось вас нанять.
+line-51,塞雷娅,缪尔赛思不是莱茵生命的普通员工。,Muelsyse isn't an ordinary Rhine Lab employee.,Мюльзис — не рядовой сотрудник Rhine Lab.
+line-52,塞雷娅,能将她逼至绝境，对方的专业程度不亚于我。,"If they can drive her to the edge, their professionalism has to be on par with mine.","Раз уж им удалось загнать ее в угол, то уровень профессионализма противника не уступает моему."
+line-53,塞雷娅,这种型号的动力甲大约在半年前出现在了某些雇佣兵团体中。,This model of power armor made a showing in certain mercenary groups about half a year ago.,Силовые доспехи такого типа появились в некоторых отрядах наемников около полугода назад.
+line-54,塞雷娅,它所使用的防御材料与装配武器都并不出彩，整体性能与五年前的军方量产动力甲相当。,"Neither its defensive material nor its equipped weaponry are outstanding. All in all, it's comparable to military-manufactured power armor from five years ago.",Используемые ими защитные материалы и вооружение ничем не примечательны; их характеристики идентичны армейским серийным моделям пятилетней давности.
+line-56,塞雷娅,只有一点很特殊——它对使用者没有要求。,Save for one very notable point—it doesn't demand anything from its user.,Только одно в них необычно — к пилоту нет никаких требований.
+line-58,Mechanist,没有要求......是多低的要求？,Anything... how low do the requirements go?,Никаких требований... Насколько низких?
+line-60,塞雷娅,任何生理指标能维持一般运动状态的个体都能满足要求。,Any being whose physiological parameters can maintain a standard exercise state satisfies the requirements.,"Любой индивид, чьи физиологические показатели позволяют совершать базовые движения, справится."
+line-61,塞雷娅,我可以，Mechanist先生可以，博士也可以。,"I can, you can, and the Doctor can.","Я смогу, господин Механист сможет, Доктор тоже."
+line-63,Mechanist,......,......,......
+line-66,,那是够低的了。;......;我还真想试试。,"Yeah, that's low.;......;I'm kind of dying to try.",Это действительно низкий порог. ...Я бы даже хотел попробовать.
+line-69,Mechanist,你不会喜欢这感觉的，博士，我向你保证。,"You won't like the feeling of it, Doctor, I can guarantee you.","Тебе не понравится, Доктор, уверяю тебя."
+line-73,Mechanist,以前能穿动力甲的都是精锐士兵。,Only crack troops used to be able to wear power armor.,Раньше силовыми доспехами пользовались только элитные солдаты.
+line-74,Mechanist,能控制那大玩意儿在战场上长时间搏杀，而不是蹦几下就淹死在自己的呕吐物里——真不是未经训练的人能做到的。,"Picture controlling that giant contraption for extended periods of fighting, and not drowning in your own vomit in the process—it genuinely wasn't something anyone could do without training.","Управлять этой громадиной в затяжном бою, не захлебнувшись в собственной рвоте через пару минут — непосильная задача для человека без спецподготовки."
+line-75,Mechanist,你问问坚雷就知道了。她说她当时只穿过一次就满脑子想着退役。,"Ask Dur-nar, she'll tell you. She says she wore it one time ever, and it made her want to quit the military right then and there.","Спроси у Лисни. Она говорила, что надела их всего раз, и тут же начала мечтать об отставке."
+line-76,Mechanist,我相信几年时间足够让那帮人把技术迭代几十次了，而且雇佣兵里本来就不乏退役士兵......,"I imagine these intervening years have been enough for them to iterate the technology a couple dozen times over, and there's no shortage of vets among the mercenaries...","Уверен, за пару лет эти ребята могли десятки раз модифицировать технологию, да и среди наемников полно отставных военных..."
+line-77,Mechanist,但谁都能穿？,But for anyone to wear it?,Но чтобы каждый мог их носить?
+line-78,Mechanist,这搞不好是能颠覆战争方式的发明。,That's an invention that might change how whole wars are fought.,Это изобретение может перевернуть ход войн.
+line-80,塞雷娅,目前类似的动力甲流到外面的数量极少，可见这项技术还只是在原型阶段。,"Similar power armors are only out there in extremely low numbers, which makes it obvious this tech is only in its prototype phase.","Пока что подобные доспехи редко попадают в руки сторонних лиц, что говорит о том, что технология все еще на стадии прототипа."
+line-82,塞雷娅,我正在追查它的来源。和其他许多实验性武器一样，要获得线索并不容易。,"I'm on the trail of its source right now. Getting leads isn't a cakewalk, as with so many other experimental weapons.","Я ищу их источник. Как и многие экспериментальные образцы вооружения, выйти на след нелегко."
+line-85,,哥伦比亚的雇佣兵这么有钱？;这动力甲技术非常先进吧？,"Are Columbia's mercenaries that rich?;This power armor's extremely advanced tech, right?","Наемники из Колумбии настолько богаты? Технология этих доспехов, наверное, очень дорогая?"
+line-88,Mechanist,雇佣兵们未必是客户。,The mercs may not be clients.,Наемники вряд ли являются заказчиками.
+line-89,Mechanist,在下这批订单的人眼里，雇佣兵跟这新型动力甲没有区别——,"In the eyes of the people who order this stuff, mercenaries and these latest power suits are interchangeable—","Для тех, кто размещает подобные заказы, наемники ничем не отличаются от новых доспехов —"
+line-91,塞雷娅,——都只是实验品而已。,—It's only experimental.,— все они просто расходный материал для экспериментов.
+line-93,塞雷娅,移动城市投影的边缘往往也是文明法则是否适用的分界线。,The edge projected from nomadic cities is often the boundary where the rules of civilization no longer apply.,"Границы проекций подвижных городов часто служат демаркационной линией, за которой перестают действовать нормы цивилизованного общества."
+line-94,塞雷娅,这些活跃在荒地上的雇佣兵，和那些拓荒者一样，都是最方便的实验对象。,"The mercenaries active in the barrens, same as the Pioneers, are the most convenient test subjects.","Эти наемники, промышляющие в пустошах, ничем не отличаются от первопроходцев — они идеальные подопытные."
+line-95,塞雷娅,即使实验失败了，他们被消耗掉了，也很少有人去追究他们的下落。,"Even if an experiment fails, and they're disposed of, hardly anyone is going to pursue their whereabouts.","Даже если эксперимент провалится и они погибнут, мало кто станет выяснять обстоятельства их исчезновения."
+line-96,塞雷娅,而且很快，又会有下一批实验品被补充进来。,"And soon enough, the next batch of test subjects gets funneled in.","К тому же, очень скоро на смену им придет новая партия «образцов»."
+line-99,,没人反对？,Don't any of them fight it?,Никто не протестует?
+line-102,塞雷娅,反对缺乏意义。,No point in fighting it.,Протестовать бессмысленно.
+line-103,塞雷娅,雇佣兵们很清楚，手里拿着的新型武器可能会爆炸，但也可能比对手的武器威力更强。,"The mercenaries are fully aware the new weapons in their hands could explode, but they could also be stronger than whatever their opponents are wielding.","Наемники прекрасно понимают: новое оружие в их руках может как взорваться, так и оказаться эффективнее вражеского."
+line-105,塞雷娅,在法律上，这些你情我愿的交易都是接近合规的。,"Legally, these mutually consenting deals are on the verge of compliance.","С точки зрения закона, эти сделки по взаимному согласию вполне легальны."
+line-107,Mechanist,......,......,......
+line-109,塞雷娅,Mechanist先生，你有什么新发现吗？,"Mr. Mechanist, have you discovered anything new?","Господин Механист, у вас есть что-то новое?"
+line-111,Mechanist,不对劲......,Something feels off...,Что-то не так...
+line-112,Mechanist,从刚刚开始，我就觉得哪里不对劲。,Something's felt off from the very beginning.,С самого начала меня не покидает странное чувство.
+line-113,Mechanist,这动力甲里面没有人——为什么我没有一眼看出来？,Nobody in the power armor—how did I not tell that at a glance?,Внутри этих доспехов никого нет — почему я не понял этого сразу?
+line-114,Mechanist,不管是有雇佣兵在远处使用无线电遥控，还是设置了自动程序，都会有明显的模式规律。,"The mercs could be remote-controlling it from a distance, or maybe they set it up with automated programming—but no matter what, there'd be distinct patterns in its behavior.","Будь это дистанционное радиоуправление наемников или заранее заданная программа, всегда видны определенные закономерности."
+line-117,,就像可露希尔的无人机。;就像Lancet-2和Castle-3。,Just like Closure's drones.;Just like Lancet-2 and Castle-3.,Как у дронов Клозер. Как у Lancet-2 и Castle-3.
+line-120,Mechanist,显然，它们都不会这么灵活。,"Obviously, they're not that flexible.","Очевидно, они не были такими маневренными."
+line-121,Mechanist,在罗德岛研发的新一代武器当中，自动化程度最高的也远远无法骗过我的眼睛——你让我相信那帮被军队豢养的蠢笨机械师能做到？,Even the highest grade of automation out of the newest crop of Rhodes Island's R&D weaponry wouldn't escape my eyes—you want me to believe that bunch of dumb army-funded mechanists could pull it off?,"Среди передовых разработок Rhodes Island даже самые автоматизированные модели не смогли бы обмануть мой глаз — ты хочешь, чтобы я поверил, будто кучка бестолковых механиков на службе у военных способна на такое?"
+line-129,塞雷娅,——,—,—
+line-138,Mechanist,你在做什么？,What are you doing?,Что ты делаешь?
+line-140,塞雷娅,切断动力甲的“神经中枢”。,Severing the power armor's 'central nerves.',Разрезаю «нервный центр» доспеха.
+line-142,Mechanist,这些导管里淌出来了......银色的液体。,There's something dripping out of these tubes... a silver liquid.,Из трубок вытекает... серебристая жидкость.
+line-143,Mechanist,这是什么物质？,What is this substance?,Что это за субстанция?
+line-145,塞雷娅,或许它就是上述问题的答案。,Maybe it's the answer to your question.,"Возможно, это и есть ответ на твой вопрос."
+line-161,桑尼,逃出来了......吗？,Did we... get away?,Мы... выбрались?
+line-163,赫默,呼......我......我很久没跑这么快了......,*pant*... I... I haven't run this fast in a long time...,Фух... я... я давно так быстро не бегала...
+line-164,赫默,那到底是......,What exactly was...,Что же это было...
+line-170,形状奇特的物体,——,—,—
+line-172,埃琳娜,它追出来了？！,It followed us?!,Оно преследует нас?!
+line-175,桑尼,趴下！,Get down!,Ложись!
+line-202,赫默,这不是刚才那个......,This isn't the same one as before...,Это ведь не тот же самый...
+line-208,赫默,至少有十多个，甚至更多，它们围住了居住区。,"There're at least ten—even more, actually. They've surrounded the living quarters.","Их по меньшей мере десяток, или даже больше, они оцепили жилой сектор."
+line-210,桑尼,它们......变多了。,They're... multiplying.,Их... стало больше.
+line-212,埃琳娜,变多了？你见过这种物体？你说清楚些！,Multiplying? Have you seen those things before? Explain!,Стало больше? Ты видел подобное раньше? Объяснись!
+line-214,桑尼,......乌比卡博士，该说清楚的不是你吗？,"Dr. Urbica, shouldn't you be the one explaining?","......Доктор Убика, разве объясняться сейчас нужно не тебе?"
+line-216,埃琳娜,你在胡言乱语什么......？,What the ever-loving hell do you mean...?,О чем ты несешь...?
+line-219,赫默,躲开——！,Move—!,Осторожно —!
+line-247,埃琳娜,——这东西移动得太快了！,—This thing's too fast!,— эта штука двигается слишком быстро!
+line-248,埃琳娜,一旦被撞到的话后果不堪设想——我们是不是该回到室内？,I don't want to imagine what happens if it touches you—do you think we should head back inside?,"Если попадем под удар, последствия будут катастрофическими — может, вернемся в помещение?"
+line-250,桑尼,最好不要这么做。,Better we don't.,Лучше этого не делать.
+line-252,埃琳娜,为什么？,Why?,Почему?
+line-271,赫默,那是......我们待的那间屋子......,That's... the building we were in...,"Это же... тот домик, в котором мы были..."
+line-274,,在看不见的巨大力量的冲击下，拓荒者的小屋剧烈地摇晃着，并不算太牢靠的门窗纷纷开裂。,"Under an invisible, massively powerful attack, the Pioneers' hut violently sways, the flimsy windows and doors shattering in quick succession.","Под воздействием невидимой колоссальной силы домик первопроходцев затрясся, а его не самые прочные двери и окна пошли трещинами."
+line-275,,几乎在同一时间，原本盘旋在半空的奇特物体都涌向了那间屋子。,"At practically the same time, the peculiar objects that were hanging in the air before fly straight at the room.",Почти в то же мгновение все парившие в воздухе причудливые объекты устремились к этому домику.
+line-276,,银色的液体飞快地渗进门窗的裂痕中，就如同闻到血腥味的微小生物前赴后继地钻进猎物的伤口里。,"Silver liquid oozes through the cracks in every frame at lightning speed, just as a minute creature would smell blood and dig fearlessly into its prey's wounds.","Серебристая жидкость стремительно просочилась в щели, словно мелкие существа, почуявшие запах крови и проникающие в рану своей жертвы."
+line-277,,而下一瞬间，令在场的科学家们都无法理解的事情发生了。,"But in the next instant, something that defies all comprehension, including the scientists', decides to take place.","А в следующее мгновение произошло то, что ученые не смогли осознать."
+line-279,埃琳娜,那间屋子是不是......消失了？,Did that building just... disappear?,Этот дом... исчез?
+line-281,赫默,不，不是消失了——它被分解了。,No. It didn't disappear—it was disintegrated.,"Нет, не исчез — его разобрали."
+line-283,埃琳娜,分解？,What?,Разобрали?
+line-285,赫默,看到空中那些......漂浮着的东西了吗？,Do you see those... things floating in the air?,"Видишь то, что парит в воздухе?"
+line-287,埃琳娜,你是说，它们原本是屋子的一部分？,You're trying to tell me that—used to be part of the building?,"Хочешь сказать, это части дома?"
+line-289,赫默,它们恐怕是屋子的全部。,I fear that may be the entire building.,"Боюсь, это и есть весь дом целиком."
+line-296,,话音刚落，静止在空中的碎片纷纷落了下来。,"Just as her voice falls silent, the fragments frozen in midair come falling down one after another.","Едва она закончила фразу, как застывшие в воздухе обломки рухнули на землю."
+line-297,,巨响、烟尘、满地残渣，就像被强行停止的时钟重新转动，本该存在的一切也都回来了。,"Cacophony, dust, detritus everywhere, like the restarting of a clock stopped by force—and everything that existed by all rights returns.","Грохот, пыль, груды обломков — словно остановившиеся часы внезапно пошли снова, и все, что должно было существовать, вернулось на свои места."
+line-300,埃琳娜,我......我是不是中了某种精神控制类的源石技艺？,Did... Did I get hit by some kind of mind-control Arts?,"Я... я что, попала под воздействие какой-то ментальной ориджиниум-техники?"
+line-301,埃琳娜,否则的话，我看到的一切怎么会都......不符合我所熟知的物理规则。,"I mean, if not, then everything I just saw... somehow violated every law of physics I know.","Иначе как объяснить, что все, что я видела... нарушает все известные мне законы физики."
+line-303,赫默,......是那些银色液体干的。,It's the work of those silver liquids.,...Это всё та серебристая жидкость.
+line-305,赫默,它们......分散成了无数细小的个体，拆解并带走了原本属于那间屋子的一部分......,"They... dispersed into innumerable minute individuals, dismantled and lifted away what was a section of that room...","Она... разделилась на несметное количество мельчайших единиц, разобрала и унесла всё, что составляло тот дом..."
+line-307,赫默,然后它们重新聚合。,And then reassembled it.,А затем они воссоединились.
+line-309,埃琳娜,就像有几十只看不见的......手？,Like there were dozens of invisible... hands?,Словно десятки невидимых... рук?
+line-311,桑尼,女士们，你们仿佛在谈论某种幽灵......,Sounds like you ladies are talking about ghosts.,"Дамы, вы говорите так, словно речь о призраках..."
+line-313,赫默,等等，白面鸮——,"Wait, Ptilopsis—","Подожди, White Noise —"
+line-315,埃琳娜,完了，刚刚乔伊丝还在屋子里！,"Shit, Joyce was just in that room!","Боже, Джойс же была в доме!"
+line-316,埃琳娜,她该不会也被......,Don't tell me she got...,Неужели её тоже...
+line-330,拓荒队成员,咳......咳咳......,*cough*... *cough* *cough*...,Кхе... кхе-кхе...
+line-332,桑尼,迈尔！你也逃出来了？,Myers! You made it out too?,Майер! Ты тоже выбрался?
+line-334,拓荒队成员,领、领队......我把......摩尔医生......带出来了......,S—Sir... I got... Doc Moore... outta there...,Ли-лидер... я вывел... доктора Мора...
+line-336,白面鸮,......,......,......
+line-338,埃琳娜,乔伊丝！,Joyce!,Джойс!
+line-340,拓荒队成员,还、还好......她没事......,Th—Thank God... she's okay...,В-всё в порядке... она цела...
+line-348,赫默,......他的伤势不算重，但是体力接近透支，急需休息。,"His wounds aren't severe, but his endurance has been overtaxed. He urgently needs rest.","...Ранения не тяжелые, но она истощена и нуждается в отдыхе."
+line-350,桑尼,我们不能留在这个地方。整个拓荒者居住区都不再安全。,We can't hang around this place. None of the Pioneer quarters are safe anymore.,Нам нельзя оставаться здесь. Весь жилой сектор первопроходцев небезопасен.
+line-363,玛丽,你都看到了吗？,Did you see that?,Ты всё видел?
+line-365,莱茵防卫科成员,我不知道您指的是什么。,I don't know what you're referring to.,"Я не знаю, о чем вы."
+line-367,玛丽,别跟我装傻，刚才那震动你没感觉到？,"Knock it off, I know you're not that dumb. Did you not feel that tremor just now?","Не прикидывайся дурачком, неужели ты не почувствовал эту тряску?"
+line-368,玛丽,那些飘来飘去的是什么新型号的无人机吗？你们莱茵自己研发的？该死！,Were those floaty things some new model of drone or something? You Rhiners developed those yourself? Dammit!,Что это за новая модель дронов? Ваши разработки? Черт побери!
+line-370,莱茵防卫科成员,我只能向您保证，我们没有违反您的命令对基地采取任何行动。,"I can only tell you that we did not take any action against the site, on your orders.","Могу лишь заверить вас, что мы не предпринимали никаких действий против базы вопреки вашим приказам."
+line-372,玛丽,你老大叫什么来着？斐尔迪南是吧？,"Who was your boss, again? Ferdinand?","Как зовут твоего начальника? Фердинанд, кажется?"
+line-374,莱茵防卫科成员,斐尔迪南·克鲁尼先生是莱茵生命能量科的主任。,Mr. Ferdinand Clooney is the Director of Rhine Lab's Energy Section.,Господин Фердинанд Клуни — директор энергетического департамента Rhine Lab.
+line-376,玛丽,我才不管你们公司是什么架构。,I don't care how your company's structured.,Мне плевать на вашу корпоративную структуру.
+line-377,玛丽,给我通讯器，我要跟他通话。,Give me your comm. I want to talk to him.,"Дай мне коммуникатор, я буду с ним говорить."
+line-379,莱茵防卫科成员,斐尔迪南主任非常忙碌......,Director Clooney is extremely busy...,Директор Фердинанд очень занят...
+line-382,玛丽,那麻烦你给他发一条消息——,Then I'm gonna need you to pass along a message—,Тогда передай ему сообщение —
+line-383,玛丽,问问他知不知道自己有多混蛋！,Ask if he knows what a bastard he is!,"Спроси, знает ли он, какой он подонок!"
+line-396,莱茵实验员,主任，有您的消息，是从基地监控站发过来的。,"Director, you have a message, sent from observation at the site.","Директор, вам пришло сообщение с поста мониторинга базы."
+line-398,斐尔迪南,......,......,......
+line-400,斐尔迪南,呵呵......,"Well, well...",Хе-хе...
+line-402,莱茵实验员,还有，您的儿子似乎也有事找您，是否接通通讯？,"Also, your son appears to need you for something. Should I put him through?","И еще, похоже, ваш сын тоже хочет связаться с вами. Соединить?"
+line-404,斐尔迪南,老规矩，跟他说我很忙。,Same play. Tell him I'm busy.,"Старое правило: скажи, что я очень занят."
+line-406,斐尔迪南,对了，把埃琳娜最近一次报告的内容转到我的终端上。,"Right, send the contents of Elena's most recent report to my terminal.","Кстати, перешли последнюю версию отчета Элены на мой терминал."
+line-408,莱茵实验员,好的，斐尔迪南主任。,"On it, Director.","Хорошо, директор Фердинанд."
+line-410,斐尔迪南,我说过很多次了吧？别再叫我主任。,How many times have I told you? Don't call me Director.,Я же говорил много раз? Не называй меня директором.
+line-412,莱茵实验员,啊！对不起，斐尔迪南先生。,"Ah! Sorry, Mr. Clooney.","А! Прошу прощения, господин Фердинанд."
+line-414,斐尔迪南,说到埃琳娜......,Speaking of Elena...,Раз уж речь зашла об Элене...
+line-415,斐尔迪南,你和她关系还不错吧。,I gather you get along well with her.,Вы ведь в хороших отношениях?
+line-416,斐尔迪南,替我想一想，她会喜欢什么样的礼物？,Brainstorm for me. What kind of present would she like?,"Подумай за меня, какие подарки ей нравятся?"
+line-429,埃琳娜,......奥利维亚。,...Olivia.,......Оливия.
+line-431,赫默,抱歉，我忙着治疗受伤的拓荒者......,"I'm sorry, treating the wounded Pioneers has me occupied...","Прости, я была занята лечением раненых первопроходцев..."
+line-433,赫默,你有没有受伤？,Are you hurt?,Ты не пострадала?
+line-435,埃琳娜,我......还好。,I'm... fine.,Я... в порядке.
+line-436,埃琳娜,我没有你的外勤经验，但顾好自己还是做得到的。,"I don't have field experience like you do, but I can take care of myself, at least.","У меня нет твоего полевого опыта, но позаботиться о себе я могу."
+line-437,埃琳娜,可是......我们难道不应该赶紧撤离吗？,Even then... shouldn't we be evacuating ASAP?,Но... разве нам не стоит немедленно эвакуироваться?
+line-438,埃琳娜,现在基地乱作一团......拓荒者自顾不暇。这是我们逃出去的好时机。,The whole site's in chaos... The Pioneers are busy with themselves. We've got a good opportunity to escape.,На базе полный хаос... первопроходцам не до нас. Это отличный шанс выбраться.
+line-439,埃琳娜,主任肯定收到了消息，他会派人来接我们。,I'm positive the director got my message. He'll send people to fetch us.,"Директор наверняка получил сообщение, он пришлет за нами людей."
+line-440,埃琳娜,等我们和防卫科的同事会合，就一定能解除基地的威胁，救出多萝西......,"Once we meet back up with our colleagues at Defense, we'll be in a perfect position to wipe out the threat to the site, and save Dorothy.","Как только мы встретимся с коллегами из службы безопасности, мы обязательно нейтрализуем угрозу и спасем Дороти..."
+line-442,赫默,或许你是对的。,Maybe you're right.,"Возможно, ты права."
+line-444,埃琳娜,或许？,Maybe?,Возможно?
+line-446,赫默,但是我做不到。我没法抛下他们不管。,But I can't do it. It's not in my power to leave these people for dead.,Но я не могу. Я не могу бросить их на произвол судьбы.
+line-447,赫默,你看到了......他们刚刚同样没有抛下乔伊丝。,"Just now, they couldn't do it... leave Joyce for dead. You saw.",Ты видела... они только что тоже не бросили Джойс.
+line-449,桑尼,赫默医生，这里又有几个人受伤！,"Doc Silence, we still got a few casualties here!","Доктор Хемер, здесь еще несколько человек ранены!"
+line-451,赫默,无人机——！,Drone—!,Дроны —!
+line-453,桑尼,再这样下去，我们撑不了多久。,We're not gonna last much longer if they keep this up.,Так мы долго не продержимся.
+line-455,桑尼,所有攻击手段我都试过了，没用。那些怪物既不会受伤，也无法被破坏。,"I've tried every way to attack it, no dice. Those freaks don't hurt, and they're impossible to break.","Я испробовал все методы атаки, бесполезно. Эти монстры не получают урона, их невозможно разрушить."
+line-456,桑尼,我们甚至......无处躲藏。,We don't even... got nowhere to hide.,Нам даже... негде спрятаться.
+line-458,拓荒队成员,领队，你跟她们说这些做什么？,"Sir, why are you telling them all this?","Лидер, зачем ты им это говоришь?"
+line-459,拓荒队成员,她们说不定正高兴着呢！,They could be getting off on it!,"Они, наверное, только рады!"
+line-460,拓荒队成员,我们头顶上这些就是警察和大公司派出来的神秘武器！他们想要我们永远走不出这个基地——,These things above our heads are all mystery weapons sent out by the fuzz and the megacorps! They want us trapped in this test site forever—,"Над нашими головами — таинственное оружие, запущенное полицией и корпорацией! Они хотят, чтобы мы никогда не выбрались с этой базы —"
+line-462,桑尼,萨姆，先别说这些。,"Sam, lay off that for now.","Сэм, придержи язык."
+line-470,格雷伊,咳咳......,*cough* *cough*...,Кхе-кхе...
+line-472,格雷伊,各位，我......我有一个猜想......,"Everyone, I... I've got an idea...","Коллеги, у меня... есть догадка..."
+line-474,赫默,格雷伊......你有什么办法吗？,Greyy... do you have some kind of proposal?,Грей... у тебя есть идея?
+line-476,格雷伊,呼......呼......咳咳咳......,*huff*... *huff*... *cough* *cough* *cough*...,Фух... фух... кхе-кхе-кхе...
+line-478,赫默,别急，你跑太快了，小心弄伤你自己。,Take your time. You were running too fast. Be careful not to bruise yourself.,"Не торопись, ты слишком быстро бежал, будь осторожен."
+line-480,格雷伊,我观察到，那些物体好像会追着光和人声走。,"I've noticed—those objects seem to chase after light, and human voices.","Я заметил, что эти объекты, похоже, летят на свет и звуки голосов."
+line-481,格雷伊,你们看......,Watch...,Смотрите...
+line-501,赫默,......它们追着你的法术光球飞远了。,"They're following your Arts' light ball, away into the air.","...Они полетели прочь, следуя за твоим световым шаром."
+line-503,格雷伊,哈......只是暂时的。,*pant*... It's only temporary.,Ха... это лишь на время.
+line-504,格雷伊,我的法术还做不到骗它们更久。,My Arts aren't able to trick them for long.,Мое заклинание не сможет обманывать их долго.
+line-506,赫默,你尽力了，而且做得很好。,"You've done all you can. And very well, at that.","Ты сделал все, что мог, и отлично справился."
+line-508,赫默,趋光性吗......你提供了一个有趣的思路。,Phototaxis... You've brought up an interesting line of thought.,"Фототаксис, значит... ты подкинул интересную мысль."
+line-510,赫默,格雷伊，你能帮助疏散附近的拓荒者吗？他们信任你。,"Greyy, can you assist in evacuating the nearby Pioneers? They trust you.","Грей, сможешь помочь с эвакуацией ближайших первопроходцев? Они доверяют тебе."
+line-511,赫默,请让他们躲在暗处不要出声。,"Move them somewhere dark, and tell them they need to keep quiet.",Попроси их затаиться в темноте и не шуметь.
+line-513,格雷伊,嗯，我知道该怎么做。,"Sure, I know what to do.","Да, я знаю, что нужно сделать."
+line-514,格雷伊,类似的工作我跟着前辈们做过很多次了......,I've done work like this plenty of times with the senior operators...,Подобную работу я уже много раз выполнял со старшими...
+line-516,格雷伊,赫默医生，您和埃琳娜小姐也请小心。,"Dr. Silence, you and Miss Elena take care too.","Доктор Хемер, госпожа Элена, пожалуйста, будьте осторожны."
+line-522,埃琳娜,那我们呢？,"What about us, then?",А что делать нам?
+line-524,赫默,弄出点动静来。越大越好，起码要掩盖掉其他人的脚步声。,"Make some signs of movement. The larger, the better. It has to cover the sounds of the others' footsteps at minimum.","Произвести шум. Погромче, чтобы заглушить шаги остальных."
+line-526,桑尼,......好。,On it.,...Хорошо.
+line-527,桑尼,萨姆，再叫五六个人过来，拿上最能制造噪音的工具。,"Sam, call five or six guys over if you can, take whatever gear makes the most noise.","Сэм, позови еще человек пять, возьмите самые шумные инструменты."
+line-529,拓荒队成员,你真准备听他们的？,Are you seriously going along with them?,Ты серьезно собираешься их слушать?
+line-531,桑尼,你有更好的主意吗？,You got a better idea?,У тебя есть идея получше?
+line-533,拓荒队成员,......你说了算，头儿。,"Whatever you say, boss.","...Тебе решать, босс."
+line-535,赫默,把所有银色物体都引到我们这边来。,Draw every silver body to our location.,Привлеките всех серебристых монстров к нам.
+line-537,埃琳娜,让我们来充当诱饵——然后呢？,So we act as bait—and then what?,Стать наживкой — а что потом?
+line-539,赫默,先尽量拖延......,"For now, stall as long as we can.",Постараемся продержаться...
+line-541,温柔的女声,然后来实验区。,And then come to the laboratories.,А затем приходите в экспериментальную зону.
+line-543,桑尼,这声音......,That voice...,Этот голос...
+line-545,埃琳娜,多萝西？！,Dorothy?!,Дороти?!
+line-547,温柔的女声,是的，是我，埃琳娜。,"Yes, it's me. Dorothy.","Да, это я, Элена."
+line-548,温柔的女声,我改装了一下实验室的扩音设备——希望没吓到你们。,I did a quick rig on the laboratory PAs—I hope I didn't scare you.,"Я немного модифицировала акустическую систему лаборатории — надеюсь, я вас не напугала."
+line-550,埃琳娜,你没事吧？,Are you alright?,Ты в порядке?
+line-552,温柔的女声,我很安全，请不必为我担心。,I'm completely safe. You don't need to worry about me.,"Я в безопасности, пожалуйста, не беспокойтесь обо мне."
+line-553,温柔的女声,实验区的建筑更结实，也能为大家抵挡威胁。,"The laboratory buildings are sturdier, and they will help you resist the threat.","Здание экспериментальной зоны прочнее, оно сможет укрыть всех от угрозы."
+line-554,温柔的女声,各位——无论是拓荒队的朋友们，还是莱茵的同事们，实验区的大门将为你们打开。,"Everyone—be you Pioneer Team friends, or Rhine coworkers, the laboratories' doors are open to you.","Господа — друзья из отряда первопроходцев и коллеги из Rhine Lab, двери экспериментальной зоны открыты для вас."
