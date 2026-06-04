@@ -1,0 +1,352 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act13side
+__chapter__,,Chapter Name,activities/act13side/level_act13side_02_beg,垂死的刺
+,,,,
+char-1,感染者骑士,感染者骑士,An Infected Knight,Рыцарь-зараженный
+char-2,参赛骑士,参赛骑士,A Competing Knight,Рыцарь-участник
+char-3,锈铜骑士,锈铜骑士,Brassrust Knight,Рыцарь «Ржавая медь»
+char-4,艾沃娜,艾沃娜,Iwona,Эвона
+char-5,激动的观众,激动的观众,An Excited Spectator,Возбужденный зритель
+char-6,谨慎的观众,谨慎的观众,A Sensible Spectator,Осторожный зритель
+char-7,激动地观众,激动地观众,An Excited Spectator,Возбужденный зритель
+char-8,聒噪的观众,聒噪的观众,A Rowdy Spectator,Шумный зритель
+char-9,正经的骑士,正经的骑士,A Staid Knight,Серьезный рыцарь
+char-10,谄媚的骑士,谄媚的骑士,An Ingratiating Knight,Льстивый рыцарь
+char-11,安保人员,安保人员,A Security Officer,Сотрудник охраны
+char-12,广播里的声音,广播里的声音,A Voice on the PA,Голос из трансляции
+char-13,老工匠,老工匠,Old Craftsman,Старый мастер
+char-14,老骑士,老骑士,Old Knight,Старый рыцарь
+char-15,电视里的声音,电视里的声音,A Voice on the Television,Голос из телевизора
+char-16,光头马丁,光头马丁,Bald Marcin,Мартин Лысый
+char-17,玛嘉烈,玛嘉烈,Margaret,Маргарет
+char-18,玛莉娅,玛莉娅,Maria,Мария
+char-19,佐菲娅,佐菲娅,Zofia,Зофия
+char-20,玛恩纳,玛恩纳,Młynar,Мартин
+char-21,屏幕里的声音,屏幕里的声音,A Voice on the Display,Голос из экрана
+char-22,发言人马克维茨,发言人马克维茨,Spokesman Malkiewicz,Представитель Марковиц
+char-23,企业员工,企业员工,A Corporate Employee,Сотрудник компании
+,,,,
+line-9,感染者骑士,喝啊！,Hyaaargh!,Ха! Агх!
+line-23,参赛骑士,你这感染者——竟敢——,"Damn you, Infected—with the nerve to—","Ты, зараженный... как ты посмел..."
+line-25,感染者骑士,退场吧，这里不适合你。,"Go on, leave. You don't deserve to be here.","Уходи с арены, тебе здесь не место."
+line-27,参赛骑士,啧！至少要把你拉出得分圈！,Peh! I'll drag you out of the scoring pen at the least!,"Тц! По крайней мере, я вышвырну тебя из зачетной зоны!"
+line-37,感染者骑士,——！唔！,—! Ugh!,—! Гх!
+line-38,感染者骑士,还好，分数还在——,"That's fine, I've still got my points—",Хорошо... очки еще на месте...
+line-41,锈铜骑士,是吗？矿石病垃圾？,Is that right? Oripathic filth?,"Правда? Ну что, мусор с орипатией?"
+line-44,感染者骑士,唔！？,Ungh?!,Гх!?
+line-62,艾沃娜,啧，英格拉......,"Tch, Ingra...","Тц, Ингла..."
+line-65,激动的观众,好样的！锈铜！就这样！把他逼出得分圈！,That's it! Brassrust! Keep it up! Get him out of the scoring pen!,Отлично! Ржавая медь! Так его! Выбей его из зачетной зоны!
+line-66,激动的观众,打烂他的手！就这样！别让这个感染者得手！,Break his hand! Keep going! Don't let that Infected get away!,Сломай ему руки! Давай! Не дай этому зараженному набрать очки!
+line-69,谨慎的观众,嘘！小点声！你看那边的观众席......,Shh! Keep it down! Look at the seats over there...,Тс-с! Тише! Посмотри на трибуны там...
+line-71,激动地观众,啊啊？那块怎么就坐着她一个人......“感染者骑士席位”？,Huh? Why's she all alone there...? 'Infected Knight seating?',А-а? Почему она сидит там одна... «Место для рыцарей-зараженных»?
+line-73,艾沃娜,......,......,...
+line-76,谨慎的观众,小声点，她往这边看过来了。,Not too loud. She was looking this way earlier.,"Тише, она посмотрела в нашу сторону."
+line-78,激动的观众,哈，座位之间不是有隔离墙吗？她什么都听不见吧？再说，难道感染者还敢翻过来打我不成？,"Hah, aren't there divider walls between the seats? She can't hear anything, right? Besides, you think an Infected would have the guts to climb over here to get at me?","Ха, разве между трибунами нет разделительной стены? Она все равно ничего не слышит. Да и к тому же, неужели этот зараженный посмеет перелезть сюда, чтобы ударить меня?"
+line-96,感染者骑士,这才叫骑士剑术，英格拉，你那直来直往的动作真让人看不下去。,"This is a knight's swordsmanship, Ingra. All that blunt movement of yours really is unwatchable.","Вот что значит настоящее рыцарское фехтование, Ингла. Твои прямолинейные выпады просто жалко смотреть."
+line-98,锈铜骑士,啐......感染者杂碎......也敢教训我？等我把你剥皮拆骨......你会后悔的。,*Spit*... Infected refuse... daring to lecture me? Wait until I've flayed you and pulled your bones apart... then you'll regret it.,Тьфу... зараженный отброс... ты смеешь учить меня? Как только я сдеру с тебя кожу и переломаю кости... ты пожалеешь.
+line-100,感染者骑士,（果然是个一点就着的莽夫......就这样等着他失去理智......）,"(He really is no brains, all brawn. I just need to wait while he loses his cool.)","(Все-таки он вспыльчивый болван... подожду, пока он потеряет самообладание...)"
+line-102,感染者骑士,（唔，来了......！）,"(Oh, here it comes!)","(Гх, началось...!)"
+line-120,锈铜骑士,该死的感染者垃圾——,Goddamned Infected trash—,Чертов зараженный мусор —
+line-122,感染者骑士,——垃圾？我怎么感觉，是你们这些不求上进的骑士，要更弱一点呢？,"—Trash? Why do I feel like it's you knights, resting on your laurels, who can't stand the heat?","— Мусор? А мне кажется, что именно вы, рыцари, не стремящиеся к совершенству, куда слабее меня."
+line-139,锈铜骑士,咕，竟然能把我弹开......！？,Grgh! He can push me off?!,"Гу, ты смог отбросить меня...!?"
+line-140,锈铜骑士,不，你那把短兵做不到这种事情......是源石技艺，风的法术？还是单纯的推力？,"No, your tiny little playsword could never... is it Arts technique? Wind Arts? Or just pure driving strength?","Нет, твое короткое оружие не способно на такое... Это ориджиниевая техника? Магия ветра? Или обычный толчок?"
+line-142,感染者骑士,我会告诉你吗？奥尔默·英格拉。,Would I ever tell you? Olmer Ingra.,"А как ты думаешь, Олмер Ингла?"
+line-147,锈铜骑士,你——看我这一击！！,You—take this!!,Ты — смотри на этот удар!!
+line-154,感染者骑士,（突然——！？）,"(Wait, what—?!)",(Внезапно...!?)
+line-156,锈铜骑士,啧，果然是风吗......,"Tch, it really was wind.","Тц, значит, все-таки ветер..."
+line-157,锈铜骑士,看来只是能辅助移动的水平，比起风骑士那种精神病还是差了很多。,It seems it's only good enough to bolster your movements. Far short of what deranged things the Wind Knight can pull.,"Похоже, это лишь вспомогательный уровень для передвижения. До сумасшествия Рыцаря Ветра тебе еще очень далеко."
+line-159,感染者骑士,（试探......？他原来不只是个头脑简单的废物吗......）,(Analysis? So he isn't just a simple-minded moron...),"(Проверка...? Значит, он не просто тупоголовый отброс...)"
+line-161,锈铜骑士,哼，感染者......你那把剑并没有安装施术单元，你却能施放法术......恶心，你体内肮脏的源石给你带来的法术改变不了胜负......,"Hmph, Infected. That sword of yours has no Arts unit, yet still cast... disgusting. The Arts given to you by the Originium in your organs will not change the outcome of this.","Хм, зараженный... В твоем мече нет даже модуля для заклинаний, а ты все равно колдуешь... Как мерзко. Грязный ориджиниум в твоем теле не изменит исход битвы..."
+line-162,锈铜骑士,血骑士那家伙也是，就因为冒出几个稍微有点虚名的感染者骑士，他就要逼迫普通民众承认感染者吗？,"That rotten Blood Knight is the same. Just because some Infected knights have cobbled together a false renown, he forces the common folk to recognize the Infected?","Рыцарь Крови тоже хорош. Только потому, что появилось несколько зараженных рыцарей с сомнительной славой, он теперь заставляет обычных людей признать таких, как вы?"
+line-163,锈铜骑士,监正会对你们也太好了点吧，要懂得感恩戴德，矿石病垃圾。,"The Adeptus Sprawiedliwi have been just too kind to you all. Know how grateful you should be, Oripathic filth.","Судебный совет слишком добр к вам. Вам следовало бы проявлять больше благодарности, мусор с орипатией."
+line-165,感染者骑士,......感恩？,Grateful?,...Благодарности?
+line-166,感染者骑士,对你们吗......？,To you lot?,Вам...?
+line-168,锈铜骑士,......哈，你是什么态度？在卡西米尔最底层匍匐挣扎的感染者，竟然反而看不起骑士贵族们吗？,"Hah, such attitude? The Infected crawling and struggling along Kazimierz's lowest layers, you genuinely dare to cast contempt on the knight nobles?","...Ха, что это за тон? Зараженный, копошащийся в самой грязи Казимира, смеет смотреть свысока на рыцарей-аристократов?"
+line-170,感染者骑士,感染者......你知道感染者为了一个合法身份要付出多少代价吗？,Do you know the price the Infected pay for our legal emancipation?,"Зараженный... ты хоть знаешь, сколько стоит получить законный статус зараженному?"
+line-172,锈铜骑士,哈，我为什么要知道？我只知道你接下来会死得很惨——,"Hah, why should I know? I only know your coming death will be wretched—","Ха, с чего бы мне это знать? Я знаю лишь, что тебя ждет жалкая смерть —"
+line-174,感染者骑士,你知道刚产完卵就被捕捉的雌性钳兽有多凶暴吗？你知道，感染者骑士的选拔......是默许杀人的吗？,"Do you know how brutal a female gloompincer is when it's been snatched from its egg? Do you know, when Infected knights are selected... the tacit homicide that happens?","Знаешь ли ты, как яростны самки клешнезверей, когда их ловят сразу после откладки яиц? Знаешь ли ты, что отбор рыцарей-зараженных... молчаливо разрешает убийства?"
+line-175,感染者骑士,哦，“你会死得很惨”，大放厥词啊，奥尔默·英格拉，你只是在享受欺压弱小......你根本不敢倾力厮杀。,"Oh, 'your coming death will be wretched.' Big words, Olmer Ingra. You just relish in bullying the weak. It's a miracle you have the guts to step into a deathmatch.","О, «тебя ждет жалкая смерть», какой пафос, Олмер Ингла. Ты просто наслаждаешься притеснением слабых... ты боишься идти на смертный бой."
+line-176,感染者骑士,——你见过被判定为廉价的生命是怎么被处理的吗？骑士贵族垃圾？,—Have you seen what happens to all the lives deemed cheap? You knight noble filth?,"— Ты видел, как обходятся с теми, чья жизнь считается дешевой? Рыцарский аристократический мусор?"
+line-185,激动的观众,现在还牢牢站在得分圈里的只有五个了！？,There's only five still standing their ground in the scoring pen?!,В зачетной зоне остались только пятеро!?
+line-186,激动的观众,*卡西米尔粗口*，我花了所有的钱押宝，结果那个废物三十分钟都没进过得分圈？,"Kurde! I spent all my savings on this bet, and that idiot doesn't even touch the pen for half an hour?","*Ругательство на казимирском*, я поставил все свои деньги, а этот неудачник даже не заходил в зачетную зону за тридцать минут?!"
+line-189,聒噪的观众,怎么还有个感染者？那个感染者在和“锈铜”英格拉作战？！,Why's there still an Infected? Are they fighting 'Brassrust' Ingra?!,Откуда там еще один зараженный? Этот зараженный сражается с «Ржавой медью» Ингла?!
+line-192,激动的观众,喂！干掉那些肮脏的家伙！英格拉！,Hey! Get rid of that filthy asshole! Ingra!,Эй! Прикончи этих грязных тварей! Ингла!
+line-193,激动的观众,英格拉！英格拉！英格拉！,Ingra! Ingra! Ingra!,Ингла! Ингла! Ингла!
+line-199,激动的观众,怎、怎么了？地震了？,Wh-What was that? An earthquake?,Ч-что случилось? Землетрясение?
+line-202,聒噪的观众,不、不，是那边那个感染者骑士......她刚才狠狠踹了一脚地面......,"No, no, it's that Infected knight over there... she stomped the ground something fierce just now...","Н-нет, это тот зараженный рыцарь... она только что со всей силы ударила по земле..."
+line-206,艾沃娜,......啧。,...Tch.,...Тц.
+line-207,艾沃娜,这些家伙......开始围攻感染者了吗。,"These dumbasses... starting to gang up on the Infected, huh.",Эти парни... начали окружать зараженного?
+line-214,感染者骑士,怎么样！？英格拉，尝到苦头了吗！？,"How's that?! Are you hurting now, Ingra?!","Ну что!? Ингла, получил свое!?"
+line-221,感染者骑士,唔......被包围了？,Wha... am I being surrounded?,Гх... окружен?
+line-223,锈铜骑士,......感染者......,...Infected...,...Зараженный...
+line-224,锈铜骑士,你不该站在这里。,You have no right to be here.,Тебе не стоило здесь находиться.
+line-231,感染者骑士,呜——！？,Ugh—?!,Уа—!?
+line-237,正经的骑士,感染者，弃权吧。,"Forfeit, Infected.","Зараженный, сдавайся."
+line-238,正经的骑士,我不喜欢英格拉的做派，但无论是我的骑士团还是我的家族，都不会容忍感染者与我们同台竞技的耻辱......,"I don't like how Ingra does things, but neither my Knightclub nor my family would stand for the humiliation of an Infected sharing the podium.","Мне не нравятся методы Инглы, но ни мой орден, ни моя семья не допустят позора, когда зараженные соревнуются с нами на одной арене..."
+line-240,感染者骑士,你这......净说漂亮话......,"You... love a good excuse, don't you...",Ты... говоришь красивые слова...
+line-242,正经的骑士,别误会了，最后能站在得分圈里的本来就只有一个人。,Don't get me wrong. Only one can stand in the scoring pen in the end.,"Не пойми неправильно, в итоге в зачетной зоне должен остаться только один."
+line-243,正经的骑士,这是一场乱战，感染者，只不过现在，你似乎成为众矢之的了。,"This is a brawl, Infected, but right now, you've made yourself the prime target.","Это хаотичная битва, зараженный, просто сейчас ты стал всеобщей мишенью."
+line-250,感染者骑士,......嘁。,...Feh.,...Черт.
+line-252,锈铜骑士,不知死活的小崽子......等我解决感染者之后，就是你们。,"Heedless wretches... once I dispose of this Infected, you're all next.","Безрассудный малец... Когда я покончу с этим зараженным, придет и ваша очередь."
+line-254,谄媚的骑士,英格拉阁下......我已经负伤，难以争夺冠军，但至少现在，我们该联手击垮那个感染者奴隶。,"Sir Ingra... I'm wounded and would be hard-pressed to vie for the title, but at least for the moment, we should work together to topple that Infected slave.","Лорд Ингла... я уже ранен и вряд ли возьму чемпионство, но прямо сейчас мы должны объединиться и раздавить этого раба-зараженного."
+line-255,谄媚的骑士,这些下贱的感染者，竟敢对骑士大放厥词。你们也是，都知道先前感染者引起的骚动吧？,"These depraved Infected with the gall to talk their tripe at knights. You all know of the disturbance the Infected caused before, don't you?","Эти подлые зараженные смеют говорить гадости о рыцарях. Вы ведь тоже слышали, какой переполох они устроили?"
+line-256,谄媚的骑士,红松骑士团本来就满是嫌疑，传言非法聚集感染者的幕后主使就是他们。,Pinus Sylvestris Knightclub always was a suspicious lot. Rumor has it they orchestrate the illegal Infected congregations.,"Орден Краснохвостых уже под подозрением, ходят слухи, что именно они — главные кукловоды незаконных собраний зараженных."
+line-257,谄媚的骑士,利用和我们同台竞技赢得来的财富，去祸害卡瓦莱利亚基乃至整个卡西米尔的安危？我们该纵容这种行为吗？,"Exploiting the riches from winning alongside us to harm the safety of Kawalerielki, and even Kazimierz in whole? Should we be indulging such action?","Использовать богатства, добытые в битвах с нами, чтобы угрожать безопасности Кавалераки и всего Казимира? Мы должны закрывать на это глаза?"
+line-259,感染者骑士,......非法感染者？,...Illegal Infected?,...Незаконные зараженные?
+line-261,感染者骑士,我看到的，只是一群无家可归的可怜人，从工厂、农庄和斗兽场被抛弃的可怜人！！,"All I saw was a tragedy of people without a home! A tragedy of people dumped out of the factories, the farms and the beast ranches!!","Все, что я вижу — это группа бедных, бездомных людей, брошенных на фабриках, фермах и в колизеях!!"
+line-263,锈铜骑士,别嚷嚷，感染者。,"Less of the row, Infected.","Не кричи, зараженный."
+line-264,锈铜骑士,你们要是真的这么想，就该乖乖滚去感染者收容地区......而不是留在这里，任人宰割。,"If that's how you truly see it, you ought to go on your merry way back to the Infected shelters. No need to stay here, overwhelmed as you are.","Если вы действительно так думаете, то должны были послушно убраться в зоны карантина... а не оставаться здесь, чтобы вас пустили на мясо."
+line-265,锈铜骑士,实话实说吧，你，巴不得杀光所有骑士，对吧？你满腔愤怒，渴望复仇，不是吗？,"Let's be brutally honest. You ache to put every knight to death, don't you? You're welling with rage, gasping for vengeance, aren't you?","Скажу прямо, ты жаждешь убить всех рыцарей, верно? Ты полон ярости и жаждешь мести, так ведь?"
+line-266,锈铜骑士,那你还等什么？,Then what are you waiting for?,Так чего же ты ждешь?
+line-269,感染者骑士,——你！,—You!,— Ты!
+line-292,感染者骑士,嘎啊——哈、哈——,"Ghakh—hah, hah—","А-а-а — ха, ха —"
+line-294,锈铜骑士,废物！我会把你的手折下来，用它扇你耳光！,Cur! I'll cleave your hand off and slap you awake with it!,Никчемный! Я оторву твою руку и буду бить ею тебя же по лицу!
+line-296,感染者骑士,（不行，不能继续缠斗下去，得先——）,"(No, I can't stay any longer in this fight, I need to—)","(Нет, нельзя затягивать бой, нужно сначала —)"
+line-301,正经的骑士,......,......,...
+line-303,谄媚的骑士,......此路不通。,Not today.,...Здесь прохода нет.
+line-305,感染者骑士,你们......给我让——,You lot... Get out of my—,Вы... уступите мне —
+line-307,感染者骑士,唔！？,Ungh?!,Уа!?
+line-316,感染者骑士,该死......你们在做什么！？,Dammit... What are you people doing?!,Черт... что вы творите!?
+line-318,谄媚的骑士,我们只是站在这里而已。,Naught but standing here.,Мы просто стоим здесь.
+line-320,正经的骑士,......,......,...
+line-322,锈铜骑士,这次你无路可逃了！,You have nowhere to run this time!,Теперь тебе не сбежать!
+line-334,感染者骑士,嘎啊......！,Gargh...!,А-а...!
+line-336,锈铜骑士,......哦，盔甲材质不错，否则你的脊梁骨已经断了。,"Oh-ho, your armor's up to snuff. That blow should've cleaved your spine in twain.","...О, неплохой материал для доспехов, иначе бы твой позвоночник уже был сломан."
+line-338,感染者骑士,嘎哈......嘎哈......咳、咳咳......,"Gakgh... gakgh... *cough*, *cough* *cough*...",Гх... гх... кашель... кх-кх...
+line-348,谄媚的骑士,我不明白为什么骑士协会会允许你们这种人参加特锦赛......你们的血难道不是剧毒吗？,I don't understand why the Knights Association would allow your lot into the Major. Isn't your blood a deadly toxin?,"Не понимаю, почему Ассоциация рыцарей позволила таким, как вы, участвовать в Турнире... Разве ваша кровь не ядовита?"
+line-350,正经的骑士,......慢着。,Enough.,...Погоди.
+line-352,正经的骑士,感染者，离开这里，弃权吧。,"Infected, get out of here. Just give up.","Зараженный, уходи отсюда, сдавайся."
+line-353,正经的骑士,你已经受了很重的伤，继续下去，你接下来的比赛就全部泡汤了。,"You've already been gravely wounded. Any more, and you'll never win another match.","Ты серьезно ранен, если продолжишь, остальные твои матчи будут сорваны."
+line-356,感染者骑士,——闭嘴！,—Shut up!,— Заткнись!
+line-357,感染者骑士,你......你们......道貌岸然的暴徒......！,You... you people... sanctimonious thugs...!,Вы... вы... лицемерные подонки...!
+line-359,感染者骑士,呃！？,Ugh?!,Эх!?
+line-366,锈铜骑士,道貌岸然，你看我道貌岸然吗？,Sanctimonious. Is that what you think of me?,Лицемерные? Ты видишь во мне лицемерие?
+line-367,锈铜骑士,我看你可怜兮兮的反抗心还能持续到什么时候，你会跪下求饶的......,"We'll see how long you can keep up the sniveling little traitor act. You'll be kneeling, begging for forgiveness...","Посмотрим, как долго хватит твоего жалкого упорства, ты упадешь на колени и будешь молить о пощаде..."
+line-375,艾沃娜,——！,—!,—!
+line-376,艾沃娜,喂，裁判呢，这是什么情况！？,"Hey, where are the judges? What the hell is this?!","Эй, где судья, что здесь происходит!?"
+line-377,艾沃娜,这群该死的骑士，想要公报私仇吗！？,Are these knights gonna just rig up their own shitshow right here?!,"Эта свора чертовых рыцарей, они хотят свести личные счеты!?"
+line-379,艾沃娜,我——,I—,Я —
+line-385,艾沃娜,——,—,—
+line-387,激动的观众,英格拉！英格拉！英格拉！,Ingra! Ingra! Ingra!,Ингла! Ингла! Ингла!
+line-388,激动的观众,锈铜万岁！卡西米尔万岁！骑士万岁！,Long live Brassrust! Long live Kazimierz! Long live the knights!,Да здравствует Ржавая медь! Да здравствует Казимир! Да здравствуют рыцари!
+line-390,艾沃娜,......,......,...
+line-392,聒噪的观众,让那个感染者爬起来！让他爬起来！,Get that Infected up! Make him get up!,Заставьте этого зараженного подняться! Пусть встает!
+line-393,聒噪的观众,让他上啊！让他继续战斗！！让我们看到他的韧性！！,Get him on his feet! Keep him fighting!! Let's see how tough he really is!!,Вперед! Пусть сражается дальше!! Покажите нам его стойкость!!
+line-396,艾沃娜,......嘶！,...*Hiss*!,...Ш-ш!
+line-401,激动的观众,干嘛、干嘛？你......你别过来啊？？,"What? What the? St... Stay away from me, alright??","Чего, чего? Ты... не подходи ко мне??"
+line-403,艾沃娜,......要我把你丢下去吗？凑近点看？哼？,What say I toss you down there? Get you closer to the action? Huh?,"...Хочешь, чтобы я сбросила тебя вниз? Посмотреть поближе? Хм?"
+line-405,激动的观众,不......你......,Wait.. you...,Нет... ты...
+line-407,激动的观众,你竟然袭击观众！？作为骑士，你竟敢袭击观众？,What are you doing?! You're a KNIGHT and you're gonna assault the audience?,"Ты смеешь нападать на зрителей!? Как рыцарь, ты смеешь нападать на зрителей?"
+line-409,艾沃娜,......什......,...What...,...Чт...
+line-411,聒噪的观众,安保人员呢！？安保呢！感染者要袭击平民了！！,Where's security?! Security! There's an Infected assaulting civilians!!,Охрана!? Охрана! Зараженный нападает на мирных жителей!!
+line-414,艾沃娜,你这混账！,You sonnovabitch!,"Ты, мерзавец!"
+line-444,感染者骑士,嘎哈......,Gagh...,Кх...
+line-446,感染者骑士,你......你们......,Y... You...,Ты... вы...
+line-449,锈铜骑士,还有力气？,Still have strength in you?,У тебя еще есть силы?
+line-456,感染者骑士,咕——呕......呕......,Guh—ulgh... blugh...,Гу... рвота... рвота...
+line-458,正经的骑士,差不多了，锈铜，他会死的。,"That's close enough, Brassrust, he's liable to die.","Хватит, Ржавая медь, он умрет."
+line-459,正经的骑士,虽然是感染者，但也是注册在案的骑士。我们没必要为了感染者被国民院找麻烦......,"He might be Infected, but still a registered knight. We don't need the National Council pestering us over an Infected.","Хотя он зараженный, он все еще зарегистрированный рыцарь. Нам незачем навлекать на себя неприятности от Национального совета из-за него..."
+line-461,锈铜骑士,嘁，你为什么一直在指指点点的！？啊？你以为你是谁？,Tch! What are you gesturing at me for?! Huh? Who do you think you are?,"Тц, почему ты все время указываешь мне!? А? Ты кто такой?"
+line-463,正经的骑士,我们之间也总是要分出胜负的，锈铜......这场比赛只有一个获胜者。,"One of us has to lose, Brassrust. There's only one victor in this match.","Нам все равно придется выяснить, кто из нас лучший, Ржавая медь... В этом матче только один победитель."
+line-465,锈铜骑士,正合我——,Exactly what I—,Как раз —
+line-471,锈铜骑士,......这是什么？风？你还想抵抗吗？,What is this? Wind? You still intend to resist?,...Что это? Ветер? Ты все еще хочешь сопротивляться?
+line-473,感染者骑士,......你......,...You...,...Ты...
+line-475,锈铜骑士,哈，你知道吗，报废的电风扇都比你折腾出的风声要大，感染者，怎么了？,"Hah. You know, an electric fan destined for junk blows more of a breeze than you do, Infected. What's the matter?","Ха, ты знаешь, даже сломанный вентилятор шумит сильнее, чем твой ветерок, зараженный, что такое?"
+line-477,感染者骑士,......你会......后悔......,...You'll... regret this...,...Ты... пожалеешь...
+line-479,锈铜骑士,唔......,Hoh...,Гх...
+line-487,谄媚的骑士,这家伙不要命了！？,Has he a death wish?!,Этот парень не дорожит жизнью!?
+line-489,正经的骑士,风——变大了？他还有力气？,The wind's—picked up? He's still got strength?,Ветер... усилился? У него еще остались силы?
+line-491,正经的骑士,唔——,Ngh—,Гх —
+line-494,感染者骑士,你！,You!,Ты!
+line-495,感染者骑士,你们......,All of you...,Вы...
+line-503,激动的观众,喂、喂，看那个感染者！,"Hey, hey, look at the Infected!","Эй, эй, смотрите на того зараженного!"
+line-504,激动的观众,他在干什么！？他在施放法术吗？,What's he doing?! Is he casting Arts?,Что он делает!? Он колдует?
+line-506,艾沃娜,你们——,You—,Вы —
+line-509,艾沃娜,——法术？不！他不能这样继续——,—Arts? No! He can't keep this up—,— Магия? Нет! Он не должен продолжать так —
+line-516,感染者骑士,英格拉......还有你们！,Ingra... and the rest of you!,Ингла... и вы все!
+line-517,感染者骑士,你们根本不明白感染者要经历什么......矿石病是我们想得才得的吗！？,None of you have the first idea what the Infected have to go through... Did we get Oripathy because we wanted it?!,"Вы понятия не имеете, через что проходят зараженные... Разве мы сами выбирали себе эту болезнь!?"
+line-519,感染者骑士,被家人抛弃，被战友抛弃，被你们像垃圾一样丢进斗兽场，陪着饥饿的钳兽一起流血......,"Families abandon us. Fellow soldiers abandon us. You people throw us into the beast arenas like trash, to bleed alongside starving gloompincers.","Брошенные семьей, товарищами, выброшенные вами, как мусор, в колизей, чтобы истекать кровью вместе с голодными клешнезверями..."
+line-521,感染者骑士,我要你们——,I'll have you—,"Я хочу, чтобы вы —"
+line-527,,我会被打死在这儿。,I'll die here.,Меня здесь убьют.
+line-528,,是的，这里是赛场，是特锦赛的赛场，但终归只是表演性质更强的花样竞技。,"Right. This is an arena. A Major arena. But in the end, it was only ever built to hold greater and greater show tournaments.","Да, это турнирная арена, это арена Турнира, но в конце концов, это лишь шоу."
+line-529,,不。,No.,Нет.
+line-530,,不管是什么地方......有感染者“遭遇意外”又怎么样呢？,No matter where it is... what does it matter when an Infected 'has an accident?',"Да какая разница где... если зараженный «попал в аварию», кому до этого дело?"
+line-531,,不反抗，我真的会被活活打死。,"Don't resist, and I really will be beaten, wide awake, to death.","Если не сопротивляться, меня действительно забьют до смерти."
+line-532,,是啊。,That's right.,Так и есть.
+line-533,,得反抗。,I need to resist.,Нужно сопротивляться.
+line-534,,只是反抗而已。,There's nothing left but to resist.,Просто сопротивляться.
+line-541,感染者骑士,我要你们......血债血偿......！,I'll make you... pay in blood...!,"Я хочу, чтобы вы... заплатили кровью...!"
+line-546,正经的骑士,唔，风越来越大......,"Ugh, the wind's getting stronger...","Гх, ветер все сильнее..."
+line-548,谄媚的骑士,哼，反正我待在这里，迟早也是敌不过你们的，骑士团上面的人应该会理解我吧。,"Hmph. If I hang around here, come soon enough, I won't be beating any of you. My Knightclub superiors will understand.","Хм, в любом случае, если я останусь здесь, мне рано или поздно не одолеть вас двоих, наверху в рыцарском ордене меня поймут."
+line-549,谄媚的骑士,本来想坐收渔翁之利的，看来没戏了，我弃权，弃权啦！这里就交给你们了！,"I was thinking I'd win by playing the bystander. If there's no chance, I'm out, I'm out! You deal with this yourselves!","Хотел было поживиться за чужой счет, но, похоже, ничего не выйдет. Я сдаюсь, я сдаюсь! Оставляю это место вам!"
+line-551,正经的骑士,......感染者能够不依赖施术单元进行施法，这也太不公平了。,Infected can cast without an Arts Unit. That's unfair.,"...То, что зараженный может колдовать без модуля, — это слишком нечестно."
+line-552,正经的骑士,我会上报诺斯伍德大骑士团，感染者必须被约束......这里就先撤吧，锈铜。,"I'll be reporting to Northwood Knight Order, Infected have to be constrained... We should withdraw for now, Brassrust.","Я доложу об этом в Великий рыцарский орден Норсвуда, зараженные должны быть ограничены... Давай отступим, Ржавая медь."
+line-554,锈铜骑士,......,......,...
+line-556,正经的骑士,锈铜？,Brassrust?,Ржавая медь?
+line-558,锈铜骑士,别叫唤......他想杀了我，拼命折腾出了这些法术来侮辱我......,"Not a sound... He wants to kill me, waste his very life on these Arts so he can humiliate me...","Не зови меня... Он хочет убить меня, ценой своей жизни колдует, чтобы унизить..."
+line-561,感染者骑士,......你！你跑不了......！,No! You can't run!,...Ты! Ты не сбежишь...!
+line-563,锈铜骑士,哈！我怎么可能逃跑？,Hah! Why would I ever run?,Ха! Как я могу сбежать?
+line-564,锈铜骑士,我要把你可怜的法术和你的脸一起撕烂，踩着你的血跳舞——！,"I'll tear your miserable Arts and that face of yours into pieces, and dance with your blood under my boots—!","Я разорву твою жалкую магию и твое лицо, и буду танцевать на твоей крови —!"
+line-566,锈铜骑士,来啊！感染者贱民！,Come! Unmentionable Infected!,Давай! Зараженный сброд!
+line-569,感染者骑士,我要......干掉你......我会......,I'll... do you in.. I'll...,Я... прикончу тебя... я...
+line-575,,啊。,Oh.,Ах.
+line-576,,离婚的时候，相册是给她拿去了吗？,"When we divorced, was she the one who got the photo album?",При разводе фотоальбом достался ей?
+line-578,,可惜，看不着我可爱的——,Shame. I won't get to see my precious—,"Жаль, не увижу мою милую —"
+line-588,激动的观众,......,......,...
+line-590,艾沃娜,......,......,...
+line-593,激动的观众,怎、怎么，最后那一下，风是不是突然停下了？,"Wha—What happened, right at the end there? Did the wind stop?","Ч-что, от последнего удара ветер вдруг стих?"
+line-594,激动的观众,那......,Then...,Тогда...
+line-595,激动的观众,那锈铜刚才那一斧......正中......,Then Brassrust's hatchet... it...,Тот топор Ржавой меди... прямо в...
+line-598,艾沃娜,......！啧！,No! Shit!,...! Тц!
+line-611,锈铜骑士,哈啊......哈啊......折腾出这么大动静，结果......？,"*pant*... *pant*... Such a floundering outburst, and where did it get you?","Ха-а... ха-а... столько шума, и что в итоге...?"
+line-612,锈铜骑士,怎么了！？感染者？在最后一刻精疲力尽了吗！？,"What's the matter, Infected?! Spent at the last moment?!",Что такое!? Зараженный? Выдохся в последний момент!?
+line-613,锈铜骑士,你这种——,You mockeries of—,Ты такой —
+line-614,锈铜骑士,——,—,—
+line-617,锈铜骑士,等等......这家伙......,Hold on... is he...,Погоди... этот тип...
+line-618,锈铜骑士,死了？,Dead?,Умер?
+line-622,谄媚的骑士,......感染者......死了？,The Infected... died?,...Зараженный... умер?
+line-623,谄媚的骑士,但是——,But––,Но —
+line-626,正经的骑士,让医疗组过来！快！这里可是赛场！要是造成了大规模的传染——,Get the medics here! Now! This is an arena! An infection on this scale—,Пусть придет медицинская группа! Скорее! Это же арена! Если пойдет массовое заражение —
+line-628,正经的骑士,锈铜！快离他远点！,Brassrust! Get away from him!,Ржавая медь! Отойди от него подальше!
+line-632,锈铜骑士,死了......？,He died...?,Умер...?
+line-635,锈铜骑士,哈哈，哈哈哈......就因为施放了这种程度的法术，就死了！？,"Hahah, hahahah... he tried casting that piffling burst of Arts, and died?!","Ха-ха, ха-ха-ха... просто потому что применил такую магию, взял и сдох!?"
+line-636,锈铜骑士,所以你们这些感染者——,This is why you Infected all—,"Поэтому вы, зараженные —"
+line-643,安保人员,请先离开赛场，锈铜骑士阁下。,"Please vacate the arena, Brassrust Knight, sir.","Пожалуйста, покиньте арену, лорд Ржавая медь."
+line-644,安保人员,医疗组上前，确保没有传染风险后，放进封闭箱内运走，动作快。,"The medics are stepping in. When we're sure there's no risk of contagion, we'll transport him in a sealed container.","Медгруппа, вперед. Убедитесь, что нет риска заражения, затем поместите в герметичный контейнер и вывезите, скорее."
+line-646,锈铜骑士,......啧。,...Tch.,...Тц.
+line-666,锈铜骑士,——！？,—?!,—!?
+line-669,艾沃娜,——,—,—
+line-671,锈铜骑士,红松骑士团——！你们想和这里所有的骑士为敌吗！？啊！？,Pinus Sylvestris—! Do you want every knight here your enemy?! Well?!,Орден Краснохвостых —! Вы хотите враждовать со всеми рыцарями здесь!? А!?
+line-674,艾沃娜,——把他放下！,—Put him down!,— Положите его!
+line-676,安保人员,......这是为了其他骑士和全体观众的安全考虑，请您配合。,We're taking these precautions for the safety of the rest of the knights as well as the audience. Please comply.,"...Это в целях безопасности других рыцарей и всех зрителей, пожалуйста, сотрудничайте."
+line-678,安保人员,锈铜阁下，也请您快点离开这里。,"Brassrust, sir, please make your way out.","Лорд Ржавая медь, и вы тоже, пожалуйста, уходите отсюда побыстрее."
+line-680,锈铜骑士,啧，肮脏的骑士......我可不想因为矿石病毁了生活......,"Hmph, filthy knight... I certainly don't want my life ruined by Oripathy...","Тц, грязные рыцари... я не хочу, чтобы орипатия разрушила мою жизнь..."
+line-682,安保人员,......你也是感染者吧？冷静一点，这里可是特锦赛......,"Are you Infected too? Please calm down, this is a Major...","...Ты ведь тоже зараженный? Успокойся, это же Турнир..."
+line-684,感染者骑士,呃......,Ugh...,Гх...
+line-687,艾沃娜,你们看不见他还有一口气吗！？滚开！,Can't you see he's still got life in him?! Move!,"Вы разве не видите, что он еще дышит!? Прочь!"
+line-700,艾沃娜,你们......！,Now!,Вы...!
+line-702,正经的骑士,冷静点，你想要挑衅骑士协会吗？,Steady. Are you looking to provoke the Knights Association?,"Успокойся, ты хочешь бросить вызов Ассоциации рыцарей?"
+line-703,正经的骑士,这里应该交给医疗人员——,Leave this to the medical personnel—,Здесь должны работать медики —
+line-705,感染者骑士,咳！咳咳咳——！,*cough*! *cough* *cough* *cough*—!,Кх! Кх-кх-кх —!
+line-706,感染者骑士,哈.........,*gasp*...,Ха...
+line-709,艾沃娜,让我过去！,Let me over!,Пропустите меня!
+line-716,安保人员,别管她......她也是感染者，先安排观众退场。,Leave her be... she's Infected too. Get the audience evacuated first.,"Не обращайте на нее внимания... она тоже зараженная, сначала обеспечьте эвакуацию зрителей."
+line-719,艾沃娜,......你还好吗？,Are you alright?,...Ты как?
+line-721,感染者骑士,......嘿......不太好......,Heh... not exactly...,...Хей... не очень...
+line-723,感染者骑士,失血......已经是小事了......,Blood loss... least of my problems...,Потеря крови... это уже пустяки...
+line-726,感染者骑士,感染的地方在作痛......它们在蔓延......好痛......,Aches in my infected spots... they're spreading... hurts...,Место инфекции болит... они распространяются... так больно...
+line-730,广播里的声音,各位尊敬的观众，因赛场突发事件，请随工作人员安排，及时疏散，颁奖典礼将推迟至两小时后举行。,Dear visitors: there has been an incident in the arena. We ask that you follow staff instructions for a prompt evacuation. The award ceremony will be postponed by two hours.,"Уважаемые зрители, в связи с непредвиденным происшествием на арене, пожалуйста, следуйте указаниям персонала для эвакуации, церемония награждения будет перенесена на два часа."
+line-732,广播里的声音,重复一遍——各位尊敬的观众......,We repeat—dear visitors...,Повторяю — уважаемые зрители...
+line-735,感染者骑士,......野鬃。,Wild Mane.,...Дикая Грива.
+line-737,艾沃娜,你说。,Go on.,Я слушаю.
+line-739,感染者骑士,......求你......帮我......,...Please... you have to...,...Прошу тебя... помоги мне...
+line-741,艾沃娜,......索娜会找到你的妻子和女儿。,Sona'll find your wife and girl.,...Сона найдет твою жену и дочь.
+line-742,艾沃娜,放心吧。,Don't worry.,Не волнуйся.
+line-744,安保人员,......！源石在他的体表蔓延！不能再拖了，立刻装进封闭箱！,"Look! The Originium is spreading across him! We can't wait any longer, put him in the container now!","...! Ориджиниум распространяется по поверхности его кожи! Нельзя медлить, немедленно в герметичный контейнер!"
+line-747,艾沃娜,你们要做什么！？,What are you doing?!,Что вы собираетесь делать!?
+line-749,安保人员,阻绝感染。,Preventing infection.,Изолировать инфекцию.
+line-751,感染者骑士,......你们......该死的......,...You... damned...,...Вы... проклятые...
+line-754,感染者骑士,艾沃娜！,Iwona!,Эвона!
+line-755,感染者骑士,要记住他们每一个人的脸......！,Remember their faces!,Запомни лица каждого из них...!
+line-756,感染者骑士,记住......那些骑士......那些卡西米尔人......这些阴狠的凶手......,Remember... These knights... These Kazimierzians... These cold-blooded murderers...,Запомни... этих рыцарей... этих казимирцев... этих жестоких убийц...
+line-759,感染者骑士,别放过，他们任何一个......！,Don't let them get away with it!,Не пощади... ни одного из них...!
+line-768,老工匠,轮到你了，快出牌。,It's your turn. Deal already.,"Твой ход, быстрее выкладывай карту."
+line-770,老骑士,急什么，让我考虑考虑。,What's your rush? Just let me think.,"Куда спешишь, дай подумать."
+line-772,老工匠,你就剩几张牌了你考虑什么啊？,What've you got to think about with this few cards left?,"У тебя карт-то осталось — раз, два и обчелся, чего там думать?"
+line-774,电视里的声音,下面播报一则紧急新闻——,We now report on an urgent news story—,А сейчас экстренный выпуск новостей —
+line-775,电视里的声音,于今日进行的特锦赛花样竞技单元的夺旗战项目，发生了一起意外——,An accident occurred at a capture the flag event held today as part of the Major Show Tournament—,Сегодня на соревнованиях по фигурному катанию Турнира произошел несчастный случай —
+line-776,电视里的声音,由于一位感染者骑士在比赛前瞒报身体情况，并在比赛中负伤后，坚持使用源石技艺——,"—an Infected knight concealed his condition before the competition and sustained heavy injuries during the match, all while forcing Originium Arts—","Один из зараженных рыцарей скрыл свое состояние здоровья перед матчем, а после получения травмы продолжил использовать ориджиниевую магию —"
+line-777,电视里的声音,——在比赛中途当场休克，经抢救无效死亡——,"—went into shock partway through the event, and passed away after aid proved ineffective—","— в итоге потерял сознание прямо на арене и скончался, реанимация не помогла —"
+line-779,老骑士,......感染者......,...Infected...,...Зараженный...
+line-781,老工匠,......死亡？死了？死在赛场上？,Passed away? Died? Died on the field?,...Смерть? Умер? Скончался прямо на арене?
+line-783,电视里的声音,据悉，相关医疗部门已经完成了赛场清理，竞技场将于翌日消毒后重新投入使用。,"According to reports, medical personnel on the scene have finished cleanup of the field, and the arena will return to normal use tomorrow following decontamination.","По имеющимся сведениям, соответствующие медицинские службы уже провели очистку арены, и она будет снова введена в эксплуатацию завтра после дезинфекции."
+line-784,电视里的声音,截止至事件发生后三个小时，国民院已经接到多条投诉，希望重改感染者骑士法案——,"With only three hours since the incident, the National Council have already received mass complaints, and look to revise the Infected Knights Act—",К трем часам после инцидента Национальный совет уже получил множество жалоб с просьбой пересмотреть законопроект о рыцарях-зараженных —
+line-787,老骑士,......重改法案？装模作样，他们就是不敢打自己的脸！,"Revise the act? Pull the other one, they're just petrified of owning up!","...Пересмотреть законопроект? Притворяются, они просто боятся ударить в грязь лицом!"
+line-789,老工匠,血骑士那个时候，他们迫于压力承认了感染者的合法性，要是现在改回去，面子上哪挂得住？,"When the Blood Knight came about, they were pressured to recognize Infected as legitimate. If they fiddle with the laws now, how are they going to save their reputation?","Когда Рыцарь Крови давил на них, они признали законность зараженных, если они сейчас откатывают все назад, как они потом в глаза людям посмотрят?"
+line-791,老骑士,感染者问题可不是儿戏......“面子”还能影响决策？,The question of the Infected's no child's game... you think 'reputation' could affect their policymaking?,Проблема зараженных — это не шутки... Неужели «репутация» все еще влияет на решения?
+line-793,光头马丁,几十年前，骑士贵族们的“面子”，小过吗？,Was the knight nobles' 'reputation' ever any worse? Decades ago?,"Несколько десятилетий назад, разве «репутация» рыцарей-аристократов когда-нибудь была незначительной?"
+line-794,光头马丁,时代不同了，虽然我不太懂他们在想什么，但无论在任何地方，保护运作规则本身，比客观的结果还优先。,"Times are different. I can't say I know what they're thinking now, but no matter whereabouts, enforcing the rules takes priority over any objective results.","Времена изменились, хотя я не совсем понимаю, о чем они думают, но везде поддержание правил функционирования системы важнее, чем объективные результаты."
+line-795,光头马丁,我们都吃过苦头。,We've all suffered for it.,Мы все наелись этого горя.
+line-801,电视里的声音,目前，现场已清理完毕，出于安全考虑，所有参赛骑士将在三日内接受医疗检查——,Cleanup has been completed. All knights who took part will be given a medical examination within the next three days—,"В настоящее время место происшествия очищено, из соображений безопасности все участвующие рыцари пройдут медицинское обследование в течение трех дней —"
+line-808,广播里的声音,对于此次事件，骑士协会同样给予了高度关注。,"With regard to this incident, the Knights Association is paying a correspondingly high amount of attention.",Ассоциация рыцарей также уделяет пристальное внимание этому инциденту.
+line-809,广播里的声音,现在，多个骑士团联名向骑士协会建议，感染者的意外死亡，不可控的源石技艺，以及在特锦赛期间存在造成大规模感染的风险——,"Currently, several Knightclubs have cosigned a statement to the Association on the accidental deaths of Infected, uncontrollable Originium Arts, as well as the risk of large-scale infection breaking out during the Major...","В настоящее время несколько рыцарских орденов совместно обратились в Ассоциацию с предложением, что случайная смерть зараженного, неконтролируемая ориджиниевая магия, а также риск массового заражения во время Турнира —"
+line-821,玛嘉烈,喝——！,Haah—!,Ха —!
+line-824,玛嘉烈,没问题，玛莉娅。,"No problems, Maria.","Никаких проблем, Мария."
+line-825,玛嘉烈,武器的重心调整很完美，我已经很久没有使用过如此得心应手的武器了。,Your adjustments to the weapon core are perfect. It's been a long while now since I've wielded something so effortlessly smooth.,"Баланс оружия настроен идеально, я давно не пользовалась таким удобным инструментом."
+line-827,玛莉娅,啊......嗯！,Ah... mm-hm!,А... да!
+line-828,玛莉娅,毕竟是根据姐姐先前的战斗特意调整的嘛，嘿嘿。,"I made them especially based on your past fights after all, heheh.","В конце концов, я настраивала его специально под прошлый стиль боя сестры, хе-хе."
+line-830,玛嘉烈,......嗯。,I will.,...М-м.
+line-832,佐菲娅,......既然从数据上讲已经初步调整好了，接下来，该稍微实战一下试试手了吧。,"If we're done with all the theory, we'll want a little practical combat to try things out.","...Раз уж технически все предварительно настроено, пора немного испытать его в деле."
+line-834,佐菲娅,玛莉娅，靠边站点。,"Maria, keep to one side.","Мария, отойди в сторону."
+line-836,玛莉娅,啊......好！,Ah... okay!,А... хорошо!
+line-838,玛莉娅,两位都不要勉强啊！,"You take it easy now, both of you!","Вы двое, не переусердствуйте!"
+line-840,玛嘉烈,......嗯。,I will.,...М-м.
+line-842,佐菲娅,......呵，不错的眼神，玛嘉烈。,"My, that's a good look in your eyes, Margaret.","...Хе, неплохой взгляд, Маргарет."
+line-843,佐菲娅,就该这么认真，玛嘉烈，你要是敢放水，我的自尊心可是会受伤的。,"This is for real now. If you throw, my self-respect will be very sore for it.","Вот так серьезно и надо, Маргарет. Если ты посмеешь поддаваться, мое самолюбие пострадает."
+line-845,玛嘉烈,当然。,Of course.,Конечно.
+line-847,玛嘉烈,那么——,"Now, then—",Итак —
+line-878,广播里的声音,——对此，我们请到了多位骑士竞技专家发表了自己的看法，请连线骑士协会负责人。,"—Accordingly, we have invited numerous experts on knight competition to publish their own views. We now go to the Knights Association Officer-in-Charge.","— по этому поводу мы пригласили нескольких экспертов по рыцарским соревнованиям, чтобы они высказали свое мнение, давайте свяжемся с руководителем Ассоциации рыцарей."
+line-879,广播里的声音,啊，各位卡西米尔的市民，上午好——,"Ah. Good morning, people of Kazimierz—","Ах, доброе утро, граждане Казимира —"
+line-881,玛莉娅,......,......,...
+line-884,广播里的声音,——感染者可以不依赖施术单元而施法，这在医疗领域已经有了浅显的结论——,—Infected can cast without an Arts Unit; this is known to medical science—,"— Зараженные могут колдовать без модуля, в медицине это уже доказанный факт —"
+line-885,广播里的声音,但是放在赛场上，这是“极不公平”的——,"But in the arena, such an ability is 'exceedingly unfair'—",Но на арене это «крайне нечестно» —
+line-892,玛莉娅,（......公平。）,(Fairness.),(...Честно.)
+line-905,玛莉娅,......公平吗。,"Fairness, huh.",...Честно ли?
+line-912,玛恩纳,想在规则中战胜规则的主人？痴人说梦。,And surmounting the rulesetters within their own rules? Lunatic ravings.,"Хочешь победить хозяина правил, используя сами правила? Мечтай дальше."
+line-919,玛莉娅,......,......,...
+line-932,佐菲娅,唔......！,Ugh...!,Ух...!
+line-936,玛嘉烈,小心。,Careful.,Осторожно.
+line-937,玛嘉烈,没事吧？,Are you alright?,Все в порядке?
+line-939,佐菲娅,呃......好、好啦，快松手......,"Oof... I—I'm fine, now let go...","Эх... л-ладно, отпусти уже..."
+line-942,玛嘉烈,抱歉，很久没有用过长柄武器了，火候还不到家。,"I'm sorry, it's been a while since I used a weapon with a handle this long. I'm still not quite perfect at exercising it.","Прости, давно не пользовалась длинным оружием, сноровка уже не та."
+line-944,佐菲娅,唉......,*Sigh*...,Ах...
+line-948,佐菲娅,——玛、莉、娅？你在笑什么？,—Ma-ri-a? What are you laughing at?,— М-ар-и-я? Ты чему улыбаешься?
+line-950,玛莉娅,欸，啊，对不起，抱歉。,"Eh? Ah, I'm sorry, sorry.","А, эй, прости, извини."
+line-952,佐菲娅,......玛嘉烈。,Margaret.,...Маргарет.
+line-953,佐菲娅,你真的变了。,You really have changed.,Ты правда изменилась.
+line-955,玛嘉烈,唔？有吗？,Hm? Have I?,М-м? Разве?
+line-957,佐菲娅,......不是说外表啦，头发又乱了，过来，我帮你梳理一下。,"I don't mean your appearance. Your hair's all messy now. Come here, I'll comb it straight for you.","...Я не про внешность, волосы опять растрепались, иди сюда, я поправлю."
+line-959,佐菲娅,玛莉娅，把梳子拿过来。在你的工作台后面。,"Maria, bring the comb over. It's behind your worktable.","Мария, принеси расческу. Она за твоим рабочим столом."
+line-961,玛莉娅,啊，好。,"Ah, okay.","А, хорошо."
+line-963,佐菲娅,......坐吧，休息一会。,Let's sit and take a moment to breathe.,"...Садись, отдохни немного."
+line-965,玛嘉烈,嗯，麻烦了。,Alright. Thank you.,"Хорошо, спасибо."
+line-967,佐菲娅,真是......感觉离你上次离开，也就是一眨眼的功夫。,Honestly... it feels like it's only been the blink of an eye since you left.,"Надо же... кажется, с момента, как ты ушла в прошлый раз, прошло всего мгновение."
+line-969,佐菲娅,（一眨眼的功夫......你又离我们更远了......）,(The blink of an eye... and you'll be even farther away from us.),(Всего мгновение... а ты снова стала еще дальше от нас...)
+line-973,广播里的声音,——据悉，死亡的感染者似乎与非法感染者事件有所牵连，相关情况仍在调查中。,"—According to reports, the deceased Infected appeared to be implicated in the illegal Infected incident. The relevant circumstances are still under investigation.","— По имеющимся сведениям, погибший зараженный, по-видимому, был связан с незаконными собраниями зараженных, обстоятельства выясняются."
+line-974,广播里的声音,骑士协会承诺，绝不会因为一些小小的风波，导致特锦赛赛程受到影响——,The Knights Association promises that an incident this minor absolutely will not affect the course of the Major's schedule—,"Ассоциация рыцарей обещает, что мелкие инциденты не повлияют на график проведения Турнира —"
+line-976,玛莉娅,姐姐......那个......,Zofia... that's...,Сестра... этот...
+line-978,佐菲娅,又是英格拉吗......在赛场上杀死对手，这种事情......,"Ingra again, is it? For him to be killing on the field, though...","Опять Ингла... убить соперника на арене, такие вещи..."
+line-980,玛嘉烈,......,......,...
+line-988,屏幕里的声音,——现在，参与感染者骑士相关赛事的观众，纷纷要求骑士协会作出处理。,"—Currently, visitors to events involving Infected knights are asking for the Knights Association to resolve the situation.","— Сейчас зрители, причастные к соревнованиям с рыцарями-зараженными, требуют, чтобы Ассоциация рыцарей приняла меры."
+line-989,屏幕里的声音,与此同时，本次事件的直接参与人，“锈铜”奥尔默·英格拉等数位骑士也接受了采访——,"At the same time, 'Brassrust' Olmer Ingra and several other knights who were directly involved in this event have taken interviews—","В то же время, непосредственный участник события, Олмер Ингла «Ржавая медь» и другие рыцари также дали интервью —"
+line-991,发言人马克维茨,......,......,...
+line-994,企业员工,您在听吗？马克维茨先生？,Are you listening? Mr. Malkiewicz?,Вы слушаете? Мистер Марковиц?
+line-996,发言人马克维茨,啊，抱歉，朱维尔，你接着说。,"Oh, sorry, Jewell. Carry on.","А, извини, Джуэл, продолжай."
+line-998,企业员工,是。其实是来自骑士协会的一份表单，里面记录了本次比赛所有大骑士的个人资料和注意事项。,"Yes, sir. Actually, they're forms from the Knights Association, with the personal details and noteworthy points for all Grand Knights taking part this time.","Да. Собственно, это список из Ассоциации рыцарей, в котором записаны личные данные и особые примечания всех Великих рыцарей, участвующих в этом соревновании."
+line-999,企业员工,联合会也不希望和这些大明星们搞坏了关系，所以希望我们多加注意吧......,"The General Chamber would rather not ruin relations with these stars, so they're hoping we can be more attentive...","Федерация тоже не хочет портить отношения с этими большими звездами, поэтому надеется, что мы будем внимательнее..."
+line-1002,发言人马克维茨,我看看......,Let me see...,Дай гляну...
+line-1005,发言人马克维茨,（都是些老牌选手......唔，果然耀骑士也在其中吗......）,"(They're all established athletes... oh, the Radiant Knight really is in here, too.)","(Все старые знакомые... м-м, конечно, Сияющий рыцарь тоже среди них...)"
+line-1008,发言人马克维茨,嗯？,Hm?,Хм?
+line-1010,发言人马克维茨,这位“逐魇骑士”也没有骑士团所属？我本以为打入特锦赛还不属于任何骑士团的特例只有耀骑士一人......,Does this 'Nightmare Knight' not have a Knightclub affiliation? I thought the Radiant Knight was the only case of an independent qualifying for the Major?,"У этого «Рыцаря Кошмаров» тоже нет принадлежности к ордену? Я думал, единственное исключение, пробившееся на Турнир и не состоящее ни в одном ордене — это Сияющий рыцарь..."
+line-1011,发言人马克维茨,而且，“逐魇骑士”......一般来说大骑士的封号都是言简意赅的单字封号吧？,"And besides, 'Nightmare Knight'... Aren't the Grand Knights' titles usually less of a mouthful? And he doesn't have a 'The' either?","К тому же, «Рыцарь Кошмаров»... обычно титулы рыцарей лаконичны и односложны, нет?"
+line-1012,发言人马克维茨,他还不是大骑士？那他有什么特别之处吗？,"He's not one of the Grand Knights, then? So what's so special about him?",Он еще не Великий рыцарь? И что в нем такого особенного?
+line-1014,企业员工,啊，这位啊......哈哈。这位可让骑士协会头疼了许久，虽然我不太明白......,"Ah, this one... haha. He's been a great pain for the Knights Association to handle. I don't entirely know what's up, but...","А, этот... ха-ха. Этот парень долго трепал нервы Ассоциации, хотя я не особо понимаю..."
+line-1015,企业员工,他本人对骑士封号一类的事情完全不在意，对于联合会的安排也是置之不理，但是也不会刻意违抗。,"He doesn't care a single bit about knight titles or any such thing, and brushes off all arrangements the General Chamber makes, but he isn't deliberately disobedient either.","Ему самому плевать на титулы, на распоряжения Федерации он тоже не обращает внимания, но и специально не нарушает их."
+line-1016,企业员工,是个怪人。,He's a weird one.,Странный тип.
+line-1018,发言人马克维茨,怪人吗......,"A weird one, huh?","Странный тип, говоришь..."
+line-1020,企业员工,是，不过他的实力毋庸置疑，而且不知为何，似乎有一些骑士家族对他的身份很好奇，已经来协会问过很多次啦......,"Yes, sir, but there's no doubt about his strength. And besides, I don't know why, but it seems some knight families are extremely curious about his identity. They've tried asking the Association countless times already.","Да, но его сила вне всяких сомнений. Более того, неведомо почему, некоторые рыцарские семьи очень любопытствуют о его личности, уже много раз приходили в Ассоциацию спрашивать..."
+line-1021,企业员工,不过我们也不是很清楚他的底细，似乎是从靠近萨尔贡那里的某个乡下来的？,But we're not too clear on what's going on with him either. Things suggest he came from some rural area near Sargon?,"Хотя мы сами не очень знаем его подноготную, кажется, он из какой-то глуши поблизости от Саргона?"
+line-1023,发言人马克维茨,......,......,...
+line-1025,企业员工,马克维茨先生？,Mr. Malkiewicz?,Мистер Марковиц?
+line-1027,发言人马克维茨,......我知道了，你先走吧。,...I understand. You're free to go.,"...Я понял, иди."
+line-1029,企业员工,是。,"Yes, sir.",Есть.
+line-1031,发言人马克维茨,啊......对了，朱维尔。,"Oh, one thing, Jewell.","Ах... да, Джуэл."
+line-1033,企业员工,唔？您说。,Hm? What is it?,М-м? Вы что-то хотели?
+line-1035,发言人马克维茨,我还是你认识的那个马克维茨......不用对我这么拘谨，挺不习惯的。,I'm still the same Malkiewicz you know... so no need to be so reserved with me. I'm not used to it.,"Я все тот же Марковиц, которого ты знаешь... не нужно со мной так официально, непривычно даже."
+line-1037,企业员工,啊......遵命，我是说，明白，马克维茨......先生。,"Ah... as you wish, I mean, understood, Mal—Mr... Malkiewicz.","А... слушаюсь, то есть, понял, мистер... Марковиц."
+line-1046,,对此，国民院究竟如何判决？特锦赛开幕首日就遭遇重大意外事件，骑士协会又会如何处理？,"How should the National Council rule? With a severe incident on the inaugural day of the Major, what can the Knights Association do to respond?",Какое решение примет Национальный совет? С какими последствиями столкнется Ассоциация рыцарей после такого серьезного инцидента в первый день Турнира?
+line-1052,,广告之后，我们将为您带来骑士协会的记者招待会的现场直播。,"After this commercial break, we'll be bringing you a live broadcast of the Knights Association press conference.",После рекламы мы покажем вам прямую трансляцию пресс-конференции Ассоциации рыцарей.
+line-1058,,——噔噔♪♪,—Dun-dun♪♪,— Динь-динь♪♪
+line-1064,,蓝耳酒窖，三百年传承之选，属于骑士之味——,"Blue Ear Wine Cellar—The traditional choice for three centuries, the taste of chivalry—","Винный погреб «Голубое ухо», выбор с трехсотлетней традицией, вкус настоящего рыцаря —"
