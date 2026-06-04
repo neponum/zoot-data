@@ -1,0 +1,198 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act17side
+__chapter__,,Chapter Name,activities/act17side/level_act17side_st03,空旷的大街
+,,,,
+char-1,大审判官,大审判官,High Inquisitor,Инквизитор
+char-2,审判官艾丽妮,审判官艾丽妮,Inquisitor Irene,Инквизитор Ирен
+char-3,歌蕾蒂娅,歌蕾蒂娅,Gladiia,Гладия
+char-4,凯尔希,凯尔希,Kal'tsit,Кель'ситт
+char-5,Alty,Alty,Alty,Alty
+char-6,极境,极境,Elysium,Тифон
+char-7,斯卡蒂,斯卡蒂,Skadi,Спектр
+char-8,恐鱼,恐鱼,Sea Terror,Морская тварь
+char-9,幽灵鲨,幽灵鲨,Specter,Спектр
+char-10,乌尔比安,乌尔比安,Ulpianus,Ульпиан
+char-11,圣徒卡门,圣徒卡门,Saint Carmen,Святой Кармен
+char-12,受伤的教徒,受伤的教徒,Wounded Cultist,Раненый сектант
+char-13,濒死的恐鱼,濒死的恐鱼,Dying Sea Terror,Умирающая морская тварь
+char-14,Mon3tr,Mon3tr,Mon3tr,Mon3tr
+char-15,Frost,Frost,Frost,Frost
+char-16,阿玛雅,阿玛雅,Amaia,Амайя
+,,,,
+line-8,大审判官,艾丽妮。,Irene.,Ирен.
+line-10,审判官艾丽妮,欸？啊，我在，老师......不，长官！,"Yes, maestro... I mean, sir!","А? А, я здесь, учитель... Нет, господин!"
+line-12,大审判官,你还好吗？,You seem distracted.,С тобой всё в порядке?
+line-14,审判官艾丽妮,我......我没事。,I... I'm fine.,Я... со мной всё в порядке.
+line-16,大审判官,格兰法洛只是一座小镇，在很多地图上也许都找不到的小镇。,"Gran Faro is a tiny town, so small that most maps don't even bother to list it.","Гран-Фаро — всего лишь небольшой городок, который, возможно, даже не отмечен на многих картах."
+line-17,大审判官,即使如此，这也是卡门阁下的委托，与凯尔希医生和那几个阿戈尔人都有关联。,"But this is a request from Lord Carmen himself, and it involves Dr. Kal'tsit and those Ægir.","Несмотря на это, именно здесь находится поручение господина Кармена, связанное с доктором Кель'ситт и теми агирцами."
+line-19,审判官艾丽妮,我知道，长官，所以我——,"I know, sir. I—","Я знаю, господин, поэтому я..."
+line-21,大审判官,如果你还得不出答案，我不允许你同行。,"If you still haven't found your answer, I will not give you permission to join the mission.","Если ты до сих пор не нашла ответа, я не позволю тебе идти со мной."
+line-23,审判官艾丽妮,选择成为审判官跟随长官的时候，我就已经做好了准备！,I'd already made up my mind when I first decided to follow in your footsteps and become an Inquisitor.,"Когда я решила стать инквизитором и следовать за вами, я уже была к этому готова!"
+line-25,大审判官,如果你得出的答案还无法诠释你之前的所见所闻，就更不要简单得出结论。,"Yes, before you even knew the question. An answer is worthless if it cannot explain what you see and hear.","Если ответ, к которому ты пришла, всё ещё не может объяснить всё то, что ты видела и слышала ранее, не делай поспешных выводов."
+line-26,大审判官,不要白白送死，艾丽妮。你已经明白我们对抗的是什么，你必须得出你自己的答案。,"Don't die a worthless death, Irene. You know what we're fighting against. And you must find your own answer.","Не отдавай свою жизнь просто так, Ирен. Ты уже поняла, с чем мы боремся, ты должна прийти к собственному ответу."
+line-28,审判官艾丽妮,我——,I—,Я...
+line-29,审判官艾丽妮,......我明白了，长官。,"...Yes, sir.","...Я поняла, господин."
+line-38,歌蕾蒂娅,凯尔希女士。,Lady Kal'tsit.,Госпожа Кель'ситт.
+line-39,,歌蕾蒂娅的语调没有变化，但她的脚步能够反映出她的心情。,"Gladiia's tone does not change, but her footsteps reflect her mood.","Тон Гладии остался прежним, но её шаги выдавали её настроение."
+line-43,,只消一瞬，风发出声响所需的时间，她就来到了凯尔希的身边。,"A blink of the eye, and she is by Kal'tsit's side.","Всего за мгновение — время, необходимое ветру, чтобы прошелестеть — она оказалась рядом с Кель'ситт."
+line-45,凯尔希,辛苦了，歌蕾蒂娅。,"Good work, Gladiia.","Благодарю за работу, Гладия."
+line-47,歌蕾蒂娅,审判庭似乎没有对你做什么，对吧？,"The Inquisition didn't do anything to you, did they?","Инквизиция, похоже, ничего с тобой не сделала, верно?"
+line-49,凯尔希,伊比利亚还没有沉没，这就是他们尚存些微谦卑与警觉的证明。,The fact that Iberia has not yet sunk into the sea is proof that they still retain a shred of humility and vigilance.,"Иберия ещё не утонула, и это доказательство того, что в них ещё осталось немного смирения и бдительности."
+line-51,歌蕾蒂娅,你找到办法了，如我们所约定的那样。,"You found a way, as promised.","Ты нашла способ, как мы и договаривались."
+line-53,凯尔希,是的。但是......,Yes. However...,Да. Но...
+line-54,凯尔希,......如果伊比利亚愿意放下他们所担忧的，那阿戈尔呢？,"Even if Iberia is willing to let go of their fears, what about Ægir?","...Если Иберия готова отбросить свои страхи, то как насчёт Агира?"
+line-55,凯尔希,你呢？,What about you?,А как насчёт тебя?
+line-57,歌蕾蒂娅,如果我们别无他路......而短暂的合作能帮助我们回到海洋，我愿意合作。,If this temporary cooperation is necessary to help us return to the ocean... so be it.,"Если у нас нет иного пути... и кратковременное сотрудничество поможет нам вернуться в океан, я готова сотрудничать."
+line-64,Alty,总算有个像样的阿戈尔人了，对吧？就像浪涛本身，就像海洋的光线与触感。,"Finally, an Ægir with some sense, right? Like the waves themselves, like the rays and texture of the sea.","Наконец-то появился достойный агирец, верно? Словно сами волны, словно свет и прикосновение океана."
+line-66,Alty,你好啊，特别的阿戈尔人。我想你已经见过我们的其他成员了。,"Hello there, special Ægir. I believe you've already met our other members?","Приветствую, особенная агирка. Думаю, ты уже видела остальных наших участников."
+line-68,歌蕾蒂娅,是的，那么，您也是日落即逝的成员。,Yes. You're also a member of AUS?,"Да. Итак, значит, вы тоже участники «Sunset at Sunset»."
+line-70,Alty,贝斯手Alty。很高兴见到你。,"Alty, bassist. Nice to meet you.",Басист Alty. Очень приятно с тобой познакомиться.
+line-71,Alty,外面怎么样了？,How are things outside?,Как там снаружи?
+line-73,歌蕾蒂娅,那些深海教徒倾巢而出，数量不少，但很弱。,"The cultists are out in force, but individually they're rather weak.","Эти служители культа морской пучины вышли толпой, их немало, но они слабы."
+line-74,歌蕾蒂娅,猎人们足以处理所有问题。,My Hunters can take care of everything.,Охотники справятся со всем без труда.
+line-76,凯尔希,解决格兰法洛的问题后，审判庭才会与我们合作。,The Inquisition will only work with us once we've taken care of the problems in Gran Faro.,"Инквизиция начнет сотрудничать с нами только после того, как мы решим проблему Гран-Фаро."
+line-78,歌蕾蒂娅,那就让我们立刻开始。,Then there's no time to waste.,Тогда давайте начнем немедленно.
+line-81,,歌蕾蒂娅提起了她的长槊。,Gladiia raises her lance.,Гладия подняла свое длинное копье.
+line-82,,可几乎与此同时，她感到了某种异样。,"At the same time, she senses that something is not right.",Но почти в то же самое мгновение она почувствовала нечто странное.
+line-84,歌蕾蒂娅,......！,......!,......!
+line-86,歌蕾蒂娅,......不，这些恐鱼中混杂着......不可能......,"There, among the Sea Terrors... but how could it be...?","...Нет, среди этих морских тварей затесалось... невозможно..."
+line-92,凯尔希,是我。,Kal'tsit here.,Это я.
+line-94,极境,凯尔希医生！他们的目的是——,Dr. Kal'tsit! Their goal is—,Доктор Кель'ситт! Их цель —
+line-101,凯尔希,......极境？,...Elysium?,...Тифон?
+line-103,歌蕾蒂娅,怎么了？,What's the matter?,Что случилось?
+line-105,凯尔希,我们的干员遇到了危险。,One of our operators is in trouble.,Наши оперативники в опасности.
+line-107,歌蕾蒂娅,有什么潜藏在这里。,Something lurks here.,Здесь что-то скрывается.
+line-109,凯尔希,......Alty，就像我们说的那样。日落即逝的各位，只要留在岸上就足够。,"As we discussed, Alty, the members of AUS can stay ashore.","...Alty, как мы и говорили. Все участники «Sunset at Sunset», вам достаточно оставаться на берегу."
+line-110,凯尔希,我们会尽快解决问题。,We'll handle this as quickly as possible.,Мы решим проблему как можно скорее.
+line-112,Alty,好啊，我们等你。,"Sure, we can wait.","Хорошо, мы будем ждать."
+line-113,Alty,如果你们的征途需要一些音乐点缀的话，那我们更乐意效劳。,And we'll be happy to provide some BGM for your campaign.,"Если вашему путешествию понадобится музыкальное сопровождение, мы будем только рады помочь."
+line-128,斯卡蒂,......太弱了。,...Too weak.,...Слишком слабы.
+line-129,斯卡蒂,它们这样前仆后继，就像在拖延时间......,They keep coming. Buying time?,"Они лезут одна за другой, будто просто тянут время..."
+line-131,斯卡蒂,......又或者，它们是在......散播什么？,Or spreading... something.,...Или же они пытаются... что-то распространить?
+line-133,斯卡蒂,得找出它们的头儿。,I must find the leader.,Нужно найти их главаря.
+line-135,恐鱼,——嘎——！,—Gkh—!,— Гр-а-а! —
+line-143,幽灵鲨,......,......,...
+line-145,斯卡蒂,幽灵鲨。,Specter.,Спектр.
+line-147,幽灵鲨,......嗯？,...Hm?,...М?
+line-149,幽灵鲨,啊......你在这里，斯卡蒂。好久不见了。,Ah... Skadi. Long time no see.,"А... это ты, Спектр. Давненько не виделись."
+line-150,幽灵鲨,有什么事吗？,Something the matter?,Что-то случилось?
+line-152,斯卡蒂,......你还好吗？,...Are you alright?,...С тобой всё в порядке?
+line-154,幽灵鲨,很好，只是，有些困。,"I'm fine, just a little tired.","Всё прекрасно, просто немного клонит в сон."
+line-155,幽灵鲨,嗯......我们在战斗，对吧，这些海洋的气息......总让人想起......故乡的味道。,"Yes... We're fighting, right? The scent of the ocean... reminds me of home.","М-м... мы сражаемся, верно? Эти запахи океана... всегда напоминают... вкус родного дома."
+line-156,幽灵鲨,可是，故乡？我的故乡......呼......,"But, home? My home... huh...",Но дом? Мой дом... фух...
+line-160,恐鱼,嘎——！,Gkh—!,Гр-а-а!
+line-169,幽灵鲨,......海。,The sea.,...Море.
+line-171,幽灵鲨,海的气味越来越浓烈，斯卡蒂，我们回家了吗？这里是回家的路吗？,"The scent of the sea grows stronger. Are we home, Skadi? Is this the way home?","Запах моря становится всё сильнее, Спектр, мы возвращаемся домой? Это путь домой?"
+line-173,斯卡蒂,......会是的，幽灵鲨，劳伦缇娜，我保证。,"...It will be, Specter. Laurentina. I promise.","...Да, Спектр, Лорентина, я обещаю."
+line-175,幽灵鲨,那请告诉我......我眼前的又是什么？,Tell me then... what's that before my eyes?,Тогда скажи мне... что это передо мной?
+line-177,斯卡蒂,眼前？,What?,Передо мной?
+line-182,,人影从街道那头走来，轻哼着旋律。,"A figure strides down the street, humming a tune.","Фигура появилась с того конца улицы, тихо напевая мелодию."
+line-183,,镇民的慌乱留给街道一片狼藉，可年轻的Frost眼中仿若无物。她拨弄着空气，想象着音乐。,"The streets are a mess in the aftermath of the panicking townsfolk, but it hardly bothers Frost as she plucks at the air and imagines music.","Паника горожан превратила улицу в беспорядок, но молодая Frost словно не замечала ничего вокруг. Она перебирала пальцами воздух, представляя музыку."
+line-185,斯卡蒂,唔！,Hmph!,Угх!
+line-201,恐鱼,（摇动的窸窣声）——！,(Slithering sounds),(Шорох движений) —!
+line-209,斯卡蒂,......恐鱼没有靠近她，不，就像她不存在一样......她那是在弹琴吗？,"The Sea Terrors keep away from her. No, they ignore her. Is she... playing an instrument?","...Морские твари не приближаются к ней, нет, как будто её не существует... она что, играет на инструменте?"
+line-211,幽灵鲨,好听吗？,Does it sound nice?,Звучит красиво?
+line-213,斯卡蒂,我不知道。,I don't know.,Не знаю.
+line-215,幽灵鲨,那不如问问她。,Then ask.,Тогда почему бы не спросить её?
+line-217,斯卡蒂,等等！,Wait!,Постой!
+line-227,极境,哈啊、哈啊......,*pant*... *pant*...,"Ха-а, ха-а..."
+line-229,极境,（没跟上来......）,(Did I shake him?),(Не погнался за мной...)
+line-234,极境,......坏了？！,Dammit?!,...Чёрт?!
+line-236,极境,难道是刚见面的时候......不是吧，我都闪开了啊......,"Was it when we first met? No, he didn't even touch me.","Неужели это произошло, когда мы только встретились... не может быть, я же увернулся..."
+line-241,乌尔比安,......伊比利亚人，那些资料必须销毁。,"Those documents must be destroyed, Iberian.","...Ибериец, эти документы должны быть уничтожены."
+line-242,乌尔比安,你可以四肢健全地服从我。,"Obey, and you may keep your limbs. Attached, if you prefer.","Ты можешь подчиниться мне, оставшись целым и невредимым."
+line-244,极境,（该死，这家伙动作怎么这么快......）,"(Shit, he's fast...)","(Чёрт, да как этот парень двигается так быстро...)"
+line-246,极境,......真奇怪，你的同伴是匆忙撤离才不得不烧掉这些文件的吧？,Weren't your friends only burning them because there wasn't time to save them all?,"...Странно, ведь твои товарищи наверняка сожгли эти документы, потому что поспешно отступали, да?"
+line-247,极境,你有这样的身手，抢回去带走不是更省事？执着于烧掉做什么？,"With your skills, you could just as easily have taken them yourself. So why the need to burn them?","Раз у тебя такая сноровка, разве не проще было бы забрать их с собой? Почему ты так зациклен на их уничтожении?"
+line-249,乌尔比安,同伴？,'Friends?',Товарищи?
+line-250,,男人低吟了片刻，某种声响在他的喉间蠕动，那是一种屈辱导致的沙哑。,"The man growls from the bottom of his throat, a sound born of humiliation.","Мужчина тихо прорычал, в горле заворочались какие-то звуки — это был хрип от унижения."
+line-251,乌尔比安,我们......不是同伴。,We are not 'friends.',Мы... не товарищи.
+line-253,极境,那是？,Then what?,А кто тогда?
+line-255,乌尔比安,与你无关......你只要交出那些文件，然后离开这里。,"It doesn't concern you. Surrender the documents, and leave this place.",Тебя не касается... Просто отдай документы и уходи отсюда.
+line-256,乌尔比安,无论你是审判庭的人，还是其他国家的......,"Whether you're with the Inquisition, or with another country...","Неважно, принадлежишь ты Инквизиции или другой стране..."
+line-258,乌尔比安,......！,......!,......!
+line-260,极境,（怎么停下了......）,(He stopped.),(Почему он остановился...)
+line-262,乌尔比安,是啊......你们一向那么敏锐。一直都是。,Yes... you've always been sharp.,Да... вы всегда были такими проницательными. Всегда.
+line-263,,这个神秘的阿戈尔人目视着某个方向。,The mysterious Ægir gazes into the distance.,Этот таинственный агирец смотрел в определенном направлении.
+line-264,,“同伴”。,'Friends.',«Товарищи».
+line-265,乌尔比安,（阿戈尔语）我们血脉相连，可现在，你们必须远离阿戈尔。,"(Ægirian) We may be bound by blood, but you must stay away from Ægir for now.","(На агирском) Нас связывают узы крови, но сейчас вы должны держаться подальше от Агира."
+line-267,极境,——！,—!,—!
+line-274,,极境避开了。可是他也在此刻明白，自己为什么能避开。,"Elysium evades the attack, but it's immediately clear why he managed to.","Тифон увернулся. Но в этот момент он понял, почему ему удалось увернуться."
+line-278,,那些还泛着焦黑的纸张被剑气掀起，真相碎成无数，在半空中飘落零散。,"The sword's aura rips the charred papers to shreds, sending the splintered truth drifting into the wind.","Листы бумаги, ещё покрытые обгоревшими пятнами, взметнулись от порыва клинка, и истина, рассыпавшись на тысячи частей, разлетелась в воздухе."
+line-281,极境,糟糕——,Crap—,Чёрт возьми —
+line-283,乌尔比安,（阿戈尔语）她们还不能回到阿戈尔，再放任所有人一意孤行，只会加速阿戈尔的毁灭。,(Ægirian) They cannot return to Ægir just yet. Allowing everyone to act on their own will only accelerate the destruction.,"(На агирском) Они ещё не могут вернуться в Агир, продолжать позволять всем следовать своей воле — значит лишь ускорить гибель Агира."
+line-284,乌尔比安,（阿戈尔语）尽管阿戈尔早已选择了......自取灭亡。,(Ægirian) Even though Ægir has already chosen the path of self-annihilation.,(На агирском) Хотя Агир уже давно выбрал... самоуничтожение.
+line-293,圣徒卡门,没有恐鱼还在靠近了吗。,No more Sea Terrors approach.,Больше нет приближающихся морских тварей?
+line-294,圣徒卡门,地处海边，从数量而言，并不意外。你们都躲藏在哪里？,"Unsurprising numbers, for the coast. Now, where are you hiding?",Близость к морю делает такое количество вполне ожидаемым. Где вы все прятались?
+line-296,受伤的教徒,你......咳咳......那、那盏灯！把你的灯拿开......！,You... *cough* No! Not the lantern!,"Ты... кхе-кхе... этот, этот фонарь! Убери свой фонарь...!"
+line-298,圣徒卡门,回答我。你们觊觎格兰法洛的什么？,Answer me. What do you intend for Gran Faro?,Отвечай мне. На что вы зарились в Гран-Фаро?
+line-300,受伤的教徒,灯、灯！不，把这灯拿开......,That lantern! Get it off me—,"Фонарь, фонарь! Нет, убери этот фонарь..."
+line-302,圣徒卡门,回答我。,Answer me.,Отвечай мне.
+line-304,受伤的教徒,呃......,Ugh...,Эх...
+line-305,受伤的教徒,是......是那个......,It... It's...,Это... это то самое...
+line-307,圣徒卡门,嗯？你指着什么？,What are you pointing at?,М? На что ты указываешь?
+line-310,,卡门回过头去，顺着深海教徒所指的方向望去。,Carmen looks back in the direction that the cultist is indicating.,"Кармен обернулся и посмотрел туда, куда указывал сектант."
+line-317,,一座雕塑。孤立在广场正中。,A statue stands in the middle of the square.,Скульптура. Одиноко стоящая посреди площади.
+line-318,圣徒卡门,啊。,Ah.,А.
+line-319,圣徒卡门,格兰法洛，灯塔。是，你们当然在格兰法洛寻找灯塔。,Gran Faro. The Great Lighthouse. Of course. You're seeking the lighthouse of Gran Faro.,"Гран-Фаро, маяк. Да, конечно, вы искали маяк в Гран-Фаро."
+line-325,受伤的教徒,停下......停下你的法术......呃......,Stop... stop it... ugh...,Прекрати... прекрати свою магию... эх...
+line-327,圣徒卡门,这些工业的宏伟造物曾被贵族们称赞为“伊比利亚之眼”。过去，伊比利亚的海岸边有数十座这样的灯塔......,The nobles once called those great monuments the Eye of Iberia. Dozens of them once stood on Iberia's coastline.,Эти грандиозные творения индустрии дворяне когда-то называли «Оком Иберии». В прошлом на побережье Иберии стояли десятки подобных маяков...
+line-328,圣徒卡门,哪怕莱塔尼亚的巫王高塔没有被摧毁，也无法与这些看守海洋的巨物媲美。,"Even had the Witch King's Tower in Leithanien not been toppled, it would still have been dwarfed by these guardians of the sea.","Даже башни Короля-Чародея в Лейтании не могли сравниться с этими гигантами, охранявшими океан."
+line-329,圣徒卡门,它们是人类文明留在这片大地上的最伟大的痕迹。,They are the single greatest mark that human civilization has ever left on this land.,Они — величайший след человеческой цивилизации на этой земле.
+line-331,受伤的教徒,海洋......咳咳......伊比利亚之眼......,The sea... *cough* the Eye of Iberia...,Океан... кхе-кхе... Око Иберии...
+line-332,受伤的教徒,神迹......彻底毁掉了那些亵渎之物......呃啊......拿走你的灯！,The miracle... destroyed the sacrilege... argh... take that lantern away!,Чудо... полностью уничтожило эти оскверненные вещи... уа-а...
+line-334,圣徒卡门,大静谧摧毁了大多数灯塔，剩下的也几乎无法使用。,"The Profound Silence destroyed most of the lighthouses, and disabled the rest.","Великая Тишина уничтожила большинство маяков, а оставшиеся почти невозможно использовать."
+line-335,圣徒卡门,你们在盘算着什么？,What are you plotting?,Что вы задумали?
+line-337,受伤的教徒,......,......,......
+line-339,圣徒卡门,原来如此。你们知道......,I see. So you knew...,Вот оно что. Вы знаете...
+line-340,圣徒卡门,你们知道还有最后一座灯塔可以投入使用，你们知道，格兰法洛所有计划的最终目的就是保护那座伊比利亚之眼。,You knew that one remained operational. That the goal of the Gran Faro project was to protect what was left of the Eye of Iberia.,"Вы знаете, что остался последний маяк, который можно ввести в эксплуатацию, и вы знаете, что конечная цель всех планов в Гран-Фаро — защитить это «Око Иберии»."
+line-342,圣徒卡门,所以你们盘踞在这里，等待时机？,"That's why you've been lurking here, awaiting your chance.","Поэтому вы засели здесь, ожидая подходящего момента?"
+line-344,受伤的教徒,......你......,You...,...Ты...
+line-346,圣徒卡门,连审判庭的中枢里都有叛徒，这是我没有预料到的。他们在哪儿？,I never expected there to be traitors in the very heart of the Inquisition. Where are they?,"Даже в центре Инквизиции есть предатели, этого я не ожидал. Где они?"
+line-349,受伤的教徒,......哼......哈哈哈......,Ha... hehehe...,...Хм... ха-ха-ха...
+line-350,受伤的教徒,在你......喋喋不休的时候......,While you're here... babbling away...,Пока ты... разглагольствовал...
+line-351,受伤的教徒,看看你的脚下吧......再一次认识到......你们有多么的狭隘......可悲！,Look under your feet... and come face to face... with your pathetic... narrow-mindedness...,Посмотри под ноги... и ещё раз осознай... насколько вы ограничены... жалки!
+line-353,圣徒卡门,什么？,What?,Что?
+line-358,濒死的恐鱼,......,......,......
+line-375,濒死的恐鱼,......（令人不安的窸窣声）......,(Unsettling slithering sounds),...(тревожный шелест)...
+line-377,圣徒卡门,......唔。,Hm.,...Хм.
+line-378,圣徒卡门,这些恐鱼的身体......在发光？,The Sea Terrors are... glowing?,Тела этих морских тварей... светятся?
+line-379,圣徒卡门,这些光斑是什么？,What is this luminescence?,Что это за пятна света?
+line-382,凯尔希,卡门阁下，请远离！,Get away from it!,"Господин Кармен, пожалуйста, отойдите!"
+line-384,圣徒卡门,唔......,Ah—,Хм...
+line-386,凯尔希,Mon3tr！,Mon3tr!,Mon3tr!
+line-391,Mon3tr,（不耐烦的低鸣）,(Impatient growling),(Нетерпеливый рык)
+line-393,凯尔希,熔毁。,Meltdown.,Плавление.
+line-399,Mon3tr,（激昂的咆哮）,(Agitated roars),(Яростный рев)
+line-410,幽灵鲨,你好。,Hello.,Здравствуй.
+line-412,Frost,（一段平稳的独奏）,(Peaceful riff),(Ровное соло)
+line-414,幽灵鲨,你身上......有熟悉的气息。你知道那是什么吗？,There is a familiar scent on you... Do you know what it is?,"От тебя... исходит знакомый аромат. Ты знаешь, что это?"
+line-416,Frost,（一段激昂的独奏）,(Spirited riff),(Страстное соло)
+line-418,幽灵鲨,......美妙的旋律，但与我所知的大不相同。,"A pleasant melody, but not the one that I know.","...Прекрасная мелодия, но совсем не такая, как я знала."
+line-420,Frost,......那，你所知的是什么样的？,"Then, how does the one you know go?",...А какая была известна тебе?
+line-422,幽灵鲨,......,......,......
+line-424,,当她祈祷，星星停止闪烁♪,"When she prayed, the stars ceased to shimmer♪","Когда она молится, звезды перестают мерцать♪"
+line-425,,当她流泪，夜晚露出微笑♪,"When she wept, the night let out a smile♪","Когда она плачет, ночь улыбается♪"
+line-426,,当她悲叹，痛苦蔓延在她的疯狂♪,"When she laments, the anguish sprawled upon her madness♪","Когда она страдает, боль прорастает в её безумии♪"
+line-428,Frost,......阿戈尔的歌。哀伤的歌。,...A song of Ægir. A sad song.,...Песня Агира. Грустная песня.
+line-429,Frost,可我不喜欢。它属于过去，它放下了热情，徒劳感伤。和阿戈尔一样。,"But I don't like it. It belongs in the past. It lacks passion, and wallows in futile sentimentality—the same as Ægir itself.","Но мне она не нравится. Она принадлежит прошлому, она отбросила страсть, полна тщетной печали. Как и весь Агир."
+line-431,幽灵鲨,很遗憾。,A shame.,Очень жаль.
+line-433,Frost,阿戈尔人，你回家了。,"You've come home, Ægir.","Агирка, ты вернулась домой."
+line-435,幽灵鲨,回家？我吗？,Home? Me?,Домой? Я?
+line-437,Frost,歌唱吧。,Sing.,Пой.
+line-438,Frost,这是你找回自己的办法。,"In song, you will rediscover yourself.",Это твой способ найти себя.
+line-440,幽灵鲨,歌唱？,Song?,Петь?
+line-441,幽灵鲨,我......能靠歌唱回想起什么？,What memories will singing recall?,"Я... что я могу вспомнить, напевая?"
+line-443,Frost,唱吧，你会遇见你的过去。你迟早要面对你的命运，或是让命运找上你。,"Just sing. You will encounter your past. You must eventually find and face your destiny, or it will find you.","Пой, и ты встретишься со своим прошлым. Рано или поздно тебе придется столкнуться со своей судьбой, или позволить судьбе найти тебя."
+line-444,Frost,我离开海洋之后，就一直如此。,"That's how it has ever been, since I left the ocean.","Я всегда так делала после того, как покинула океан."
+line-449,幽灵鲨,......奇怪的人。但是，歌唱，我不讨厌。,What a strange woman. But I don't mind singing.,...Странный человек. Но петь — мне это не претит.
+line-450,幽灵鲨,那就歌唱吧。,Then sing.,Тогда давай петь.
+line-452,幽灵鲨,哼哼，哼哼哼♪,"La la la, la la la♪","Хм-м, хм-хм-м♪"
+line-453,幽灵鲨,当她祈祷，星星停止闪烁♪......,"When she prays, the stars ceased to shimmer♪","Когда она молится, звезды перестают мерцать♪..."
+line-454,,......,......,......
+line-455,,...,...,...
+line-462,阿玛雅,......还是这样让人悲伤的歌声。,"As always, there's such sorrow in your song.",...Всё та же грустная песня.
+line-464,幽灵鲨,你是......谁？,Who are... you?,Ты... кто?
+line-466,阿玛雅,没想到我们会在这样的情况下再见，劳伦缇娜。,"I never imagined we'd meet again in such circumstances, Laurentina.","Не думала, что мы встретимся снова при таких обстоятельствах, Лорентина."
