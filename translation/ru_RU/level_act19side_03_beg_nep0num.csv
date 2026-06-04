@@ -1,0 +1,253 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act19side
+__chapter__,,Chapter Name,activities/act19side/level_act19side_03_beg,动力装甲
+,,,,
+char-1,Mechanist,Mechanist,Mechanist,Механист
+char-2,塞雷娅,塞雷娅,Saria,Селея
+char-3,霍尔海雅,霍尔海雅,Ho'olheyak,Хольхайя
+char-4,哥伦比亚雇佣兵,哥伦比亚雇佣兵,Columbian Mercenary,Колумбийский наемник
+char-5,拓荒队成员,拓荒队成员,Pioneer Team Member,Член поискового отряда
+char-6,桑尼,桑尼,Sonny,Санни
+char-7,赫默,赫默,Silence,Хемер
+char-8,埃琳娜,埃琳娜,Elena,Елена
+char-9,温柔的女声,温柔的女声,Gentle Female Voice,Нежный женский голос
+char-10,斐尔迪南,斐尔迪南,Ferdinand,Фердинанд
+char-11,莱茵实验员,莱茵实验员,Rhine Lab Tech,Экспериментатор «Рейн»
+char-12,？？？,？？？,???,???
+char-13,帕尔维斯,帕尔维斯,Parvis,Парвис
+char-14,多萝西,多萝西,Dorothy,Дороти
+,,,,
+line-8,,源石技艺的本质是什么？,What is the nature of Originium Arts?,Какова же природа искусства ориджини?
+line-9,,为了阐释源石技艺的原理，莱塔尼亚的高塔术师们和哥伦比亚科学院的院士们发展出了两套截然不同的理论。,The Spire Casters of Leithanien and the academicians of Columbia each developed their own separate theories.,"Чтобы объяснить принципы искусства ориджини, высотные заклинатели Лейтании и академики Колумбийской академии наук разработали две совершенно разные теории."
+line-10,,所谓理论不过是为了说服各自的信徒而自圆其说的包装——无论双方采用的名词有多大不同，他们描述的关系都是一致的。,"Of course, both are simply packaging for the benefit of their respective adherents. Regardless of any differences in terminology, the two theories describe the same relationships.","Так называемые теории — не более чем удобная упаковка, созданная, чтобы убедить своих последователей. Независимо от того, насколько различаются термины, которые они используют, суть отношений, которые они описывают, остается неизменной."
+line-11,,源石技艺即是人类的意识通过某个媒介，对外部世界的物质施加影响。过去我们认为这个至关重要的媒介通常是施术单元。,"Originium Arts involve the caster exerting influence on external matter through a medium, i.e., an Arts Unit.","Искусство ориджини — это воздействие человеческого сознания на материю внешнего мира через определенный носитель. Раньше мы считали, что этим важнейшим носителем обычно служит заклинательный юнит."
+line-12,,施术单元接收并编码施术者的神经活动，向外部释放不同形式的能量，该能量将传递至其余物理系统，作用对象大到某个具体的物体，小到构成物质的基本粒子，最终令目标物质产生与施术者意愿相符的效果。,"The Arts Unit receives and encodes the caster's neural activity, releasing it as energy that interacts with matter or its component particles, resulting in the desired effect.","Заклинательный юнит принимает и кодирует нервную активность заклинателя, высвобождая энергию в различных формах вовне. Эта энергия передается физическим системам, воздействуя на объекты — от крупных предметов до элементарных частиц, из которых состоит материя, — что в конечном итоге приводит к результату, соответствующему воле заклинателя."
+line-13,,现代的施术单元是源石技艺理论与应用工业发展的双重结果，其核心元件集成了复杂的能量转换回路。显然，并非任意源石制品都能充当施术单元。,"Modern Arts Units are the product of advances in both theory and industry, with complex energy conversion circuits at their core. Clearly, not all Originium products are suited for this purpose.","Современные заклинательные юниты — это результат развития как теории искусства ориджини, так и промышленного применения. Их основные компоненты объединяют сложные контуры преобразования энергии. Очевидно, что далеко не каждое изделие из ориджини может служить заклинательным юнитом."
+line-14,,而我们无法忽视，感染者并不需要依靠施术单元来施展源石技艺。他们的感染器官可以直接起到近似于施术单元的效果。,"However, we cannot ignore how the Infected are able to use Arts without an Arts Unit, using their infected organs to similar effect.","И мы не можем игнорировать тот факт, что зараженным не нужны заклинательные юниты для использования искусства ориджини. Их зараженные органы могут напрямую выполнять функции, аналогичные заклинательному юниту."
+line-15,,在一些骇人听闻的传说中，莱塔尼亚的高塔术师们会使用一名甚至多名感染者充当施术媒介——假定消息为真，那我们是否也可以猜想，这效果接近于巨型能量转换回路？,"We've all heard the terrifying rumors of Leithanian Spire Casters using one or more Infected as a medium for casting, in effect turning them into massive energy conversion circuits.","В некоторых леденящих кровь легендах говорится, что высотные заклинатели Лейтании используют одного или даже нескольких зараженных в качестве носителей для заклинаний. Если допустить, что эти слухи правдивы, можем ли мы предположить, что этот эффект близок к гигантскому контуру преобразования энергии?"
+line-16,,当然，这里是哥伦比亚，我们不能容忍如此有违伦理的行径。,"Of course, such blatant ethical violations would never be allowed in Columbia.","Конечно, это Колумбия, и мы не можем допустить столь неэтичных действий."
+line-17,,但假如有安全的人工制造的可植入的施术单元呢？,"What about safe, artificial implants that could serve the same purpose, though?","Но что, если бы существовали безопасные, искусственно созданные, имплантируемые заклинательные юниты?"
+line-18,,就像遭遇车祸的人利用假肢重新奔跑，先天失明的人移植了其他人的角膜而获得光明，源石技艺运用能力存在缺陷的人也能拥有改变一切的能量。,"Just as those who've lost their legs in accidents can walk again with prosthetics, or those born blind can see with cornea transplants, those without the ability to use Originium Arts may, one day, harness the same power.","Подобно тому, как люди, попавшие в аварию, используют протезы, чтобы снова ходить, или люди, слепые от рождения, обретают зрение благодаря пересадке роговицы, те, у кого есть врожденные недостатки в способностях к искусству ориджини, тоже могли бы обладать энергией, способной изменить всё."
+line-19,,各位不必露出这样震惊的表情，这仅是一个简单的猜想。,I'm seeing some shocked faces in the audience. Let me emphasize that this is all hypothetical for now.,"Господа, не нужно делать такие потрясенные лица, это всего лишь простое предположение."
+line-20,,我只是受邀回到我的母校，向刚刚迈入大学校园的年轻人介绍我们实验室最近正在进行的某项工作。,But I was invited here today by my alma mater to talk about the research that our institute is currently conducting.,"Меня просто пригласили вернуться в мою альма-матер, чтобы рассказать молодежи, только что поступившей в университет, о некоторых разработках, которыми сейчас занимается наша лаборатория."
+line-21,,从我还是个学生的时候开始，我就希望源石技艺能更好地造福哥伦比亚，以及身处这个飞速发展中的社会里的每一个人。,"And ever since I was student, I've wanted to do more for Columbia using Originium Arts, for everyone in this rapidly evolving society.","С тех пор как я сам был студентом, я надеялся, что искусство ориджини сможет приносить больше пользы Колумбии и каждому человеку, живущему в этом стремительно развивающемся обществе."
+line-22,,莱塔尼亚会依据每个人的源石技艺适应性而分配社会资源。,Leithanien distributes social resources according to Originium Arts Assimilation.,Лейтания распределяет социальные ресурсы в зависимости от адаптивности каждого человека к искусству ориджини.
+line-25,,而在哥伦比亚，我希望我们生来平等。,"Here in Columbia, however, we believe that all men are created equal.","А здесь, в Колумбии, я надеюсь, что мы все рождаемся равными."
+line-26,,<i>——洛肯水箱实验室创始人，洛肯·威廉姆斯在哥伦比亚特里蒙理工大学开学典礼上的演讲</i>,"<i>Address to the Trimounts Institute of Technology by Loken Williams, founder of Loken Watertank Laboratory</i>","— Локен Уильямс, основатель лаборатории «Водный резервуар Локена», на церемонии открытия Колумбийского технологического института Тримон."
+line-39,Mechanist,成分解析失败。,Composition analysis failed.,Анализ состава не удался.
+line-40,Mechanist,这银色液体与任何已知的化合物都不匹配。,Liquid does not match any known compound.,Эта серебристая жидкость не совпадает ни с одним известным соединением.
+line-42,塞雷娅,......看。,Look.,…Смотри.
+line-47,,白色结晶在她指尖凝结，迅速覆盖了整只手掌，直至半截小臂。,"White crystals form at her fingertips, spreading to cover her entire hand and forearm.","Белые кристаллы сконденсировались на кончиках ее пальцев, быстро покрыв всю ладонь, а затем и половину предплечья."
+line-48,,你刚刚才亲眼目睹了这一幕，过去也曾无数次在战场上和作战记录里见过。,"It is a scene that you just saw, and which is as familiar to you from combat reports as from your own experience.","Ты только что своими глазами увидел это, хотя уже бесчисленное множество раз встречал подобное на поле боя и в боевых отчетах."
+line-51,,钙质化？;有敌人吗？！,Calcification?;Danger?!,Кальцификация? Враги рядом?!
+line-54,,塞雷娅没有回答你。,Saria does not answer.,Селея не ответила тебе.
+line-55,,她突然抬手，坚硬的拳头瞬间逼近你的鼻尖。,"Suddenly, she raises her hand, and you find her fist in front of your nose faster than you can blink.","Она внезапно подняла руку, и твердый кулак оказался в считанных сантиметрах от кончика твоего носа."
+line-64,,一声磐石与金属碰撞的锐响，你知道是Mechanist的机械臂替你挡下了这一击。,"You hear the sound of mineral impacting metal, and know that Mechanist blocked the attack for you.","Раздался резкий лязг металла о камень — ты понял, что это механическая рука Механиста приняла удар на себя."
+line-65,,可你还来不及喘气，就看到一道白光抵上了自己的咽喉。,"Before you can catch your breath, you feel something cold touch your neck.","Но не успел ты перевести дыхание, как увидел белое лезвие у своего горла."
+line-66,,塞雷娅的一只手的确被Mechanist挡下了，她的另一只手也没有动。,Saria's other hand never moved.,"Одна рука Селеи действительно была заблокирована Механистом, но её вторая рука даже не шелохнулась."
+line-67,,但钙质的利刃确实架在你的脖子上。,"But there is a calcified blade at your throat, nonetheless.","Тем не менее, известковое лезвие плотно прижалось к твоей шее."
+line-68,,你下意识屏住了呼吸。,You instinctively hold your breath.,Ты невольно затаил дыхание.
+line-70,Mechanist,......塞雷娅，解释你的行为。,"Explain yourself, Saria.","…Селея, объясни свои действия."
+line-72,塞雷娅,这样更直观些。,This is the quickest way to explain it.,Так нагляднее.
+line-73,塞雷娅,我的源石技艺能够对周围含有钙元素的物质进行粒子层面的重构——这就是你们所称的钙质化。,"My Originium Arts reconstruct matter containing calcium, at a molecular level. This is what you call calcification.","Моё искусство ориджини позволяет реконструировать на уровне частиц окружающие вещества, содержащие кальций — именно это вы называете кальцификацией."
+line-74,塞雷娅,这些结成的珐琅质能直接受我的意识控制，不必跟随我的动作来移动。,"I can control the enamel formed this way using my mind, without the need to move.","Эти сформированные эмалевые структуры поддаются прямому контролю моего сознания, им не обязательно следовать за моими движениями."
+line-75,塞雷娅,我想控制它们，既不需要无线电遥控，也不需要设置自动程序。,No radio signals or programs.,"Чтобы управлять ими, мне не нужны ни радиоуправление, ни автоматические программы."
+line-76,塞雷娅,它们就像我手脚的延伸。,They are like an extension of my limbs.,Они как продолжение моих конечностей.
+line-78,Mechanist,你是说那批动力甲——,Do you mean the power armor—,"Ты хочешь сказать, эти силовые доспехи…"
+line-80,塞雷娅,动力甲只是动力甲。,A power armor is nothing more than a power armor.,Силовые доспехи — это просто доспехи.
+line-81,塞雷娅,这一小管银色液体才是关键。,This silvery liquid is the key.,Эта маленькая трубка с серебристой жидкостью — вот в чём ключ.
+line-82,塞雷娅,它是动力甲的神经递质，是将操控者的神经活动与这具机械联系起来的媒介。,"It's the neurotransmitter of the power armor, linking the brainwaves of the operator to the machine.","Это нейромедиатор для доспехов, носитель, связывающий нервную активность пилота с этим механизмом."
+line-84,Mechanist,就像......施术单元？,Like an Arts Unit?,Словно… заклинательный юнит?
+line-86,塞雷娅,它或许已经超越了一般施术单元的概念。,"More than that, I should say.","Возможно, это уже вышло за рамки концепции обычного заклинательного юнита."
+line-89,,这个解释很直观。;我想喘口气......,An intuitive explanation.;I need to catch my breath...,Это объяснение очень доходчиво. Хочу перевести дух…
+line-92,塞雷娅,博士，如果我的做法让你感到不适的话，我向你道歉。,Sorry if I've caused any discomfort.,"Доктор, если мои действия доставили вам неудобство, прошу прощения."
+line-94,Mechanist,......刚刚要不是博士冲我摆手，我的攻击目标可未必是你的拳头。,"I would not have gone for the Doctor's hand, were it not for that gesture to me.","…Если бы Доктор не махнул мне рукой, я бы не уверен, что целился бы именно в твой кулак."
+line-96,塞雷娅,所幸我们足够默契。,Good thing we know each other so well.,"К счастью, мы понимаем друг друга без слов."
+line-98,塞雷娅,博士，接下来我需要去见一个人。,There's someone I want to see.,"Доктор, теперь мне нужно встретиться с кое-кем."
+line-99,塞雷娅,据我所知，他是这批实验动力甲最初的使用者。,"As far as I know, he's the first to actually use this prototype power armor.","Насколько мне известно, он был первым, кто использовал эту экспериментальную силовую броню."
+line-100,塞雷娅,我想请你与Mechanist先生同行。,"I would like you to come, with Mechanist.",Я хочу попросить вас пойти вместе с господином Механистом.
+line-111,霍尔海雅,你看见他们去了大学附近的一家酒吧？,You saw them go into a bar near the university?,"Ты видел, как они зашли в бар недалеко от университета?"
+line-113,哥伦比亚雇佣兵,是的，女士。他们三个人都在。,"Yes, ma'am. All three of them.","Да, госпожа. Все трое."
+line-115,霍尔海雅,我能猜到塞雷娅想去找谁。,I can guess who it is Saria's looking for.,"Я могу догадаться, кого хочет найти Селея."
+line-116,霍尔海雅,我们上周才刚去见过他。,We just saw him last week.,Мы виделись с ним на прошлой неделе.
+line-118,哥伦比亚雇佣兵,那家伙？他不是在您面前信誓旦旦地说不会见任何莱茵生命的人吗？！,Didn't he agree not to meet anyone from Rhine Lab?,"Этот тип? Разве он не клялся перед вами, что больше не встретится ни с кем из «Рейн Лайф»?!"
+line-120,霍尔海雅,塞雷娅......她还算是莱茵生命的人吗？,Is Saria still Rhine?,Селея… Считается ли она до сих пор сотрудником «Рейн Лайф»?
+line-121,霍尔海雅,恐怕连她自己都不清楚。,I don't think she knows the answer herself.,"Боюсь, даже она сама этого не знает."
+line-123,哥伦比亚雇佣兵,那我们要不要阻止他们见面？,Should we stop them?,Нам помешать им встретиться?
+line-125,霍尔海雅,不用。,No.,Не нужно.
+line-127,霍尔海雅,我很好奇，塞雷娅到底掌握了多少信息......,I'm curious how much Saria knows.,"Мне любопытно, как много информации удалось собрать Селее…"
+line-129,霍尔海雅,是时候和她聊聊了。,It's about time we had a talk.,Пришло время с ней поговорить.
+line-131,霍尔海雅,对了，还有......洛肯·威廉姆斯是哥伦比亚特里蒙理工大学毕业的。,And one more thing... Loken Williams is a graduate of the Trimounts Institute of Technology.,"Кстати, еще одно… Локен Уильямс окончил Колумбийский технологический институт Тримон."
+line-133,哥伦比亚雇佣兵,洛肯·威廉姆斯......是谁？,Loken Williams...? Who is that?,Локен Уильямс… кто это?
+line-135,霍尔海雅,......时间过得可真快，不是吗？,I guess time really does fly.,"…Время летит так быстро, не правда ли?"
+line-136,霍尔海雅,一次实验事故，就足以令一颗学界新星坠入尘埃，从此无人知晓。,"One accident, and everyone forgets the brightest star of academia.","Один неудачный эксперимент — и вот новая звезда науки упала в пыль, забытая всеми."
+line-138,霍尔海雅,无论如何，塞雷娅还有莱茵生命总辖也毕业于这所学校。,Saria and the Control of Rhine Lab went to the same school.,"В любом случае, и Селея, и глава «Рейн Лайф» тоже выпускники этого вуза."
+line-139,霍尔海雅,哥伦比亚科技界的社交晚宴就像他们的校友聚会一样。,Social gatherings in Columbia's tech sector are basically all TIT reunions.,Светские вечера колумбийских ученых похожи на встречу выпускников.
+line-141,霍尔海雅,唉，早知道这么热闹，我也该去这所学校待一段时间的。,I wish I could've spent some time at that school myself.,"Ох, знала бы, что там так весело, сама бы поучилась там некоторое время."
+line-143,霍尔海雅,走吧，说不定......现在去凑凑热闹也还不算太晚。,Let's go. Maybe it's not too late to join the fun.,"Пойдем. Кто знает… может, еще не поздно влиться в веселье."
+line-155,拓荒队成员,燃烧瓶只剩最后一个了！,The last fire bomb!,Осталась последняя коктейльная бутылка!
+line-157,桑尼,扔出去！尽量扔远一点！,Throw it! Far as you can!,Бросай! Постарайся закинуть подальше!
+line-159,拓荒队成员,好——,Here goes!,Хорошо—
+line-176,桑尼,撤！跟着我，往里面跑！,With me! Get inside!,"Отступаем! За мной, внутрь!"
+line-191,桑尼,怎么样？都跟上来了吗？,We got everybody?,Как там? Все успели?
+line-193,拓荒队成员,呼......领队，我们的人都进来了。,"Whew... yes, sir. All present and accounted for.","Фух… командир, все наши внутри."
+line-195,桑尼,怪物呢？有没有跟上来？,What about the monsters?,А монстры? Они преследуют?
+line-197,拓荒队成员,暂时没有。瓶子还没烧完，它们都围上去了。,"Not yet. The flask's still burning, looks like it's got their attention.","Пока нет. Огонь еще не погас, они окружили его."
+line-201,赫默,多谢各位。,"Thank you, everyone.",Спасибо вам.
+line-202,赫默,伤员们也都在这里了。,We have all of the injured.,Все раненые здесь.
+line-204,桑尼,赫默医生，接下来该怎么办？,"What's next, Doc Silence?","Доктор Хемер, что нам теперь делать?"
+line-209,拓荒队成员,领队，出去的门——！,"Sir, the door—","Командир, дверь на выход —!"
+line-212,拓荒队成员,打不开了，这*粗口*的是怎么回事？,It won't open! What the hell is going on?!,"Она не открывается, какого черта?!"
+line-216,桑尼,医生，是你关的门吗？,"You lock that door, Doc?","Доктор, это вы закрыли дверь?"
+line-218,赫默,......我是第一次进入这个实验基地。,I've never been to this test site before.,…Я впервые в этой экспериментальной базе.
+line-220,桑尼,乌比卡博士？,Dr. Urbica?,Доктор Убика?
+line-222,埃琳娜,实验室的门是自动的。,The lab doors are automatic.,Двери в лабораторию автоматические.
+line-224,拓荒队成员,但它锁上了！,But it's locked!,Но она заперта!
+line-226,埃琳娜,......,......,…
+line-228,桑尼,博士......,Doctor...,Доктор…
+line-230,埃琳娜,锁上不是正好？你们不是很怕外面的银色造物吗？,What are you complaining about? Aren't you afraid of those silver constructs outside?,"Разве не хорошо, что она заперта? Вы ведь так боитесь этих серебристых созданий снаружи?"
+line-232,拓荒队成员,我们怎么知道你是想把怪物挡在外面，还是把我们关在里面？！,"How're we supposed to know if you're trying to keep them out, or keep us in?","Откуда нам знать, хотите ли вы просто защитить нас от монстров или заперли нас здесь специально?!"
+line-233,拓荒队成员,搞不好这都是你们计划好的！,Maybe you planned all this!,"Может, это всё часть вашего плана!"
+line-235,埃琳娜,......我计划好的？,Are you joking?,…Моего плана?
+line-236,埃琳娜,呵呵，这么说，是我控制你们绑架了我自己？,Hah! You're saying I somehow made you kidnap me?,"Ха-ха, значит, я сама организовала свое похищение?"
+line-243,拓荒队成员,别得意，你现在还在我们手里！,"Watch it! You're our prisoner, don't forget!","Не зазнавайся, ты всё еще в наших руках!"
+line-245,桑尼,萨姆！,Sam!,Сэм!
+line-247,拓荒队成员,领队，是你说的，我们都被这几个做实验的骗了！,You're the one who said these whitecoats are fooling us!,"Командир, ты сам сказал, что нас всех обманули эти экспериментаторы!"
+line-249,桑尼,不，别大声说话——,"No, be quiet for a sec—","Нет, не кричи —"
+line-254,桑尼,赫默医生，你有没有听见......什么声音？窸窸窣窣的，就好像有东西在贴着地面滑行......,"You hear it, Doc Silence? A rustle, like something slithering on the ground...","Доктор Хемер, вы слышали… какой-то звук? Шуршание, словно что-то скользит по полу…"
+line-256,赫默,......,......,…
+line-261,温柔的女声,各位，请不要停下来，也不要回头看。,"Do not stop, and do not look back.","Господа, пожалуйста, не останавливайтесь и не оглядывайтесь назад."
+line-262,温柔的女声,推开你们右手边的第三道门吧。,Push open the third door on your right.,Откройте третью дверь справа.
+line-267,拓荒队成员,领队，门真的能打开！,It opened!,"Командир, дверь открывается!"
+line-270,温柔的女声,不要害怕，我会保护你们。,Do not be afraid. I will protect you.,"Не бойтесь, я защищу вас."
+line-271,温柔的女声,......一如既往。,As always.,…Как и всегда.
+line-284,斐尔迪南,......这是最新一批递质的测试结果？,Test results for the latest batch of Transmitter?,…Это результаты тестирования последней партии медиаторов?
+line-286,莱茵实验员,是的，先生。,"Yes, sir.","Да, господин."
+line-287,莱茵实验员,不过还只是理论结果......,"In a laboratory environment, of course...",Но это пока только теоретические результаты…
+line-289,斐尔迪南,传导效率提升了百分之一点七。,A one-point-seven percent increase in efficiency.,Эффективность передачи выросла на одну целую и семь десятых процента.
+line-290,斐尔迪南,一个月过去了，很大的突破。,A massive breakthrough in one month.,Прошел месяц — отличный прорыв.
+line-291,斐尔迪南,你们干得非常出色。想要我给你们更多时间吗？十天，还是二十天？,Excellent work. Do you need more time? Ten days? Twenty?,"Вы отлично поработали. Хотите, чтобы я дал вам больше времени? Десять дней или двадцать?"
+line-294,莱茵实验员,对、对不起！呃啊......,S-Sorry! Whoa...,П-простите! Ох…
+line-296,？？？,看你把这孩子吓得。,"Come now, don't frighten the youths like that.","Смотри, ты напугал ребенка."
+line-297,？？？,难怪常有人说，能量科主任的夸奖比批评更恐怖。,No wonder the staff so fear the accolades of the Director of Energy.,"Неудивительно, что говорят, будто похвала начальника отдела энергетики страшнее критики."
+line-304,斐尔迪南,你是特地来跟我炫耀你的人缘的吗，帕尔维斯？,"Come to boast about your people skills, Parvis?","Ты пришел специально, чтобы похвастаться своей популярностью, Парвис?"
+line-306,帕尔维斯,我只是路过而已。,Just passing through.,Я просто проходил мимо.
+line-307,帕尔维斯,可怜的孩子，你可以回实验室了。我替你陪你们主任聊聊天。,"Back to your lab now, poor little fellow, I'll keep your director company for a bit.","Бедное дитя, можешь идти обратно в лабораторию. Я составлю компанию вашему начальнику."
+line-309,莱茵实验员,啊，好的！,"Er, alright, ok!","А, хорошо!"
+line-310,莱茵实验员,谢谢......,Thank you...,Спасибо…
+line-316,帕尔维斯,哈哈，果然是年轻人。腿脚真快，一下就没影了。,"Ahah! So quick on his feet. Such is youth, eh? Gone in a flash.","Ха-ха, молодежь. Ноги быстрые, в один миг исчезли."
+line-318,斐尔迪南,除了主任会议以外，难得见你走出实验室。,"I don't see you outside your lab often, except for directors' meetings.","Редко увидишь тебя вне лаборатории, кроме как на собраниях начальников."
+line-320,斐尔迪南,说吧，是什么消息让你追到了我这里？,"What brings you here, exactly?","Говори, какая новость заставила тебя прийти сюда?"
+line-322,帕尔维斯,嗯......我想想，从哪里说起呢？瞧瞧我这可怜的脑子，年纪上去了，再让它转起来就这么费劲。,Where do I even start? The brain doesn't spin so fast at my age.,"М-м… дай подумать, с чего начать? Посмотри на мой бедный мозг, возраст берет свое, заставлять его работать всё сложнее."
+line-324,斐尔迪南,省省吧，你的白头发是天生的，卡普里尼。,"You were born with white hair, Caprinae.","Брось, твои седые волосы — это с рождения, Каприни."
+line-326,帕尔维斯,哈哈。,Haha.,Ха-ха.
+line-327,帕尔维斯,我想起来我要问什么了——你知道缪尔赛思去哪了吗？,"Oh, now I remember. Do you know where Muelsyse is?","Вспомнил, о чем хотел спросить — ты не знаешь, где Мюэльсис?"
+line-329,斐尔迪南,......,......,…
+line-331,帕尔维斯,她跟我打了个赌，要是她输了，就欠我十盒生态科实验农场出品的黑豆茶。,We made a bet. She wagered ten boxes of black bean tea from hydroponics in Ecological.,"Она поспорила со мной: если проиграет, то будет должна мне десять коробок чая из черной фасоли с экспериментальной фермы экологического отдела."
+line-333,斐尔迪南,打赌？,A bet?,Поспорила?
+line-335,帕尔维斯,两天前，她跟我说，你计划在这个月之内，把主任头衔从斐尔迪南·克鲁尼这个名字后面撕掉。,"Two days ago, she told me that you were planning to rid Ferdinand Clooney's name of the 'Director' title.","Два дня назад она сказала мне, что ты планируешь до конца месяца убрать титул начальника отдела из-под имени Фердинанд Клуни."
+line-346,赫默,......桑尼先生？,Sonny...?,…Мистер Санни?
+line-348,桑尼,......,......,…
+line-350,赫默,你怎么不继续往前走了？,Why did you stop?,Почему вы остановились?
+line-352,桑尼,这是个错误。,We can't do this.,Это ошибка.
+line-354,赫默,错误？哪方面的？,Do what?,Ошибка? В каком смысле?
+line-356,桑尼,我们不能跟着那个声音走。,We can't follow that voice.,Мы не должны следовать за этим голосом.
+line-358,赫默,那个声音......你是说弗兰克斯主任？,The voice... you mean Director Franks?,Голосом… вы о начальнице Франкс?
+line-359,赫默,桑尼先生，弗兰克斯主任是这间实验室的主人。她比我和埃琳娜更熟悉这里的构造，比如说哪个区域更加安全。,"Sonny, Director Franks knows this lab better than anyone, better than Elena or myself. She knows where we'll be safe.","Мистер Санни, начальница Франкс — хозяйка этой лаборатории. Она знает конструкцию здания лучше нас с Еленой, например, какие зоны более безопасны."
+line-361,桑尼,就是这样，我才不能相信她！,That's why I don't trust her!,Именно поэтому я не могу ей доверять!
+line-362,桑尼,你没发现吗？她在控制我们，她一直在这样做！她一步步引导我们的行为，渗透我们的思想......,"Don't you see? She's pulling our strings, guiding every step, drilling into our minds...","Вы не заметили? Она контролирует нас, она всегда так делала! Она пошагово направляет наши действия, проникает в наши мысли…"
+line-364,桑尼,她想让我们全都心甘情愿地钻到她设下的牢笼里去！,"She's walking us right into her cage, and we're going along with it!","Она хочет, чтобы мы все добровольно зашли в клетку, которую она подготовила!"
+line-366,赫默,......桑尼先生，请冷静一些，情绪激动对你的病情没有帮助。,"Please calm down, Sonny. Getting excited could exacerbate your condition.","…Мистер Санни, пожалуйста, успокойтесь, волнение не поможет вашему состоянию."
+line-368,桑尼,离我远一些！,Lemme go! Get away from me!,Отойди от меня!
+line-378,赫默,唔......,Oof...,Ух…
+line-380,埃琳娜,奥利维亚！你没事吧？,Olivia! Are you okay?,Оливия! Ты в порядке?
+line-382,赫默,我没事。,I'm fine.,Я в порядке.
+line-384,埃琳娜,拓荒者，我忍你们很久了。,"That's enough, Pioneer.","Старатели, вы мне уже надоели."
+line-385,埃琳娜,要不是奥利维亚非要救你们，我们刚才就把你们留在外面了。,"I would have left you outside, if Olivia didn't insist we help you.","Если бы не Оливия, которая настаивала на вашем спасении, мы бы оставили вас снаружи."
+line-387,拓荒队成员,哈，谁又想跟你们进来？,"Ha, like we wanted to be here with you in the first place.","Ха, кто вообще хотел с вами идти?"
+line-389,埃琳娜,我不明白......我真的不明白。,I don't understand. At all.,Я не понимаю… Я правда не понимаю.
+line-390,埃琳娜,多萝西明明对你们那么好。,Dorothy was so kind to you.,Дороти ведь так хорошо к вам относилась.
+line-405,多萝西,......你儿子的病好些了吗，迪克？,"How's your son, Dirk?","…Твоему сыну стало лучше, Дик?"
+line-407,拓荒队成员,不太好，弗兰克斯主任......医生说他最好要尽快动手术。,"Not so good, Director Franks. The doctor says he needs an operation.","Не очень, начальница Франкс… Врачи сказали, что операция нужна как можно скорее."
+line-408,拓荒队成员,可是......,But...,Но…
+line-410,多萝西,你担心费用问题？,Is it the cost?,Ты беспокоишься о расходах?
+line-412,拓荒队成员,唉，什么都瞒不过您。我是为了给儿子治病才加入的拓荒队，这还是我参与建设的第一个项目。,Nothing gets past you. I joined the Pioneer Team to try to help my boy. This is my first project.,"Эх, от вас ничего не скроешь. Я вступил в отряд старателей, чтобы оплатить лечение сына. Это мой первый проект."
+line-413,拓荒队成员,家里早就没什么钱了，早知道我的孩子心脏有问题，我就不该浪费任何钱在矿石病的药上！,We don't have much money. I shouldn't've spent any on Oripathy medicine. If only I knew my son had heart trouble.,"Дома денег не осталось, если бы я знал, что у ребенка проблемы с сердцем, не стоило тратить столько на лекарства от орипатии!"
+line-414,拓荒队成员,我是没希望了，但他还那么小......呜啊......,"There's no hope for me, but him... he's still so little...","У меня-то шансов нет, а он ведь еще такой маленький… Уа-а…"
+line-416,多萝西,不要急，迪克，我有办法。,"Don't worry, Dirk. I know a way.","Не торопись, Дик, у меня есть способ."
+line-417,多萝西,你看，这是我认识的最好的心脏科医生的联系方式。请立刻带你儿子去找她吧。,Here's the best heart surgeon I know. Take your son and find her.,"Смотри, это контакты лучшего кардиолога, которого я знаю. Пожалуйста, немедленно отвези сына к ней."
+line-419,拓荒队成员,......最好的心脏科医生？在特里蒙？,The best surgeon? In Trimounts?,…Лучший кардиолог? В Тримоне?
+line-420,拓荒队成员,那一定非常贵......,Must be awful pricey...,Это же наверняка очень дорого…
+line-422,多萝西,医生是我的大学同学。请告诉她，你是多萝西·弗兰克斯的朋友。看在我的面子上，她会给你打折的。,"She's an old classmate of mine. Tell her Dorothy Franks sent you, and she'll give you a discount.","Она моя сокурсница по университету. Скажи ей, что ты друг Дороти Франкс. Ради меня она сделает скидку."
+line-424,拓荒队成员,真、真的吗？,R-Really?,П-правда?
+line-426,多萝西,可别跟其他人说哦，减免手术费会影响这些好心的医生在市场上的身价。,Don't tell anybody. It'd be bad for her reputation if word got out that she gives discounts.,"Только не говори другим, скидки на операции влияют на рыночную стоимость этих врачей."
+line-428,拓荒队成员,您放心！这是我们之间的秘密！,Won't tell a soul! Cross my heart!,Вы можете на меня положиться! Это наш маленький секрет!
+line-429,拓荒队成员,我......我走啦！您一定要替我好好感谢您的朋友！,I... I gotta go! Thank your friend for me!,Я… я побежал! Обязательно передайте благодарность вашей подруге!
+line-441,埃琳娜,......,......,…
+line-443,多萝西,你在一边站那么久干什么呀，咖啡都要凉了吧？,Why are you standing there? The coffee's getting cold.,"Чего стоишь там столько времени, кофе ведь остынет?"
+line-445,埃琳娜,凉了好。,So much the better.,Пусть остывает.
+line-446,埃琳娜,说不定我想泼醒你的时候，就不会心疼了。,It'll hurt less when I spill it on you.,"Может, когда захочу вылить его на тебя, не буду жалеть."
+line-448,多萝西,心疼我，还是心疼咖啡？,"Are you worried about me, or the coffee?",Жалко будет меня или кофе?
+line-450,埃琳娜,......,......,…
+line-451,埃琳娜,对我嬉皮笑脸可没有用，弗兰克斯主任。你再怎么跟我扮可怜，我都不会借钱给你吃饭的。,"You can smile and plead all you want, but I'm not lending you lunch money.","Твои шуточки со мной не пройдут, начальница Франкс. Как бы ты ни притворялась несчастной, я всё равно не одолжу тебе денег на обед."
+line-453,多萝西,好吧，那我下个月吃速热米饭。,Looks like it's plain rice for the rest of the month then.,"Ладно, буду в следующем месяце питаться лапшой быстрого приготовления."
+line-455,埃琳娜,你呀......你是莱茵生命的主任，隔三差五来蹭我一个小研究员的饭，这传出去会被人当笑话的吧？,"A director of Rhine Lab, begging for food from a low-level researcher... can you imagine the scandal?","Ну ты даешь… Ты — начальник «Рейн Лайф», а приходишь перекусить за счет обычного исследователя. Если это всплывет, над тобой будут смеяться."
+line-457,多萝西,源石技艺应用科是五个科研科里最穷的啊......,"Originium Art Section is the poorest of the five, after all.",Отдел прикладного искусства ориджини — самый бедный среди всех пяти отделов…
+line-459,多萝西,我又不是斐尔迪南，总能拉来成堆的赞助，把自己从耳朵到尾巴都打扮得金光闪闪。,"I'm not Ferdinand, I don't have sponsors lined up waiting to dress me in gold from head to tail.","Я ведь не Фердинанд, который всегда притягивает горы спонсоров и украшает себя от ушей до хвоста в золото."
+line-461,埃琳娜,......老板的品味好歹还不错。,At least the boss has good taste.,"…У босса, по крайней мере, неплохой вкус."
+line-463,埃琳娜,好了好了，别想岔开话题。你那个同学我又不是不认识，她一听是你介绍的，大概恨不得多要个百分之十的手术费。,"Back on topic, it's not like I don't know the classmate you're talking about. She probably couldn't wait to double her fee when she heard your name.","Ладно, ладно, не пытайся уйти от темы. Я знаю твою сокурсницу, как только она услышит, что это ты рекомендуешь, она наверняка захочет накрутить лишние десять процентов за операцию."
+line-464,埃琳娜,反正你为了你这些拓荒者朋友，多少钱都乐意掏。这么好一个冤大头，不欺负你欺负谁呀？！,You're willing to pay anything for your Pioneer friends. No wonder people take advantage of you.,"Ты готова отдать любые деньги ради своих друзей-старателей. Если ты такая простушка, кто же тебя не обманет?!"
+line-466,多萝西,哈哈......,Hahah...,Ха-ха…
+line-468,埃琳娜,你就笑吧，我真是拿你没办法。,Laugh all you want. Not like I can do anything about it.,"Смейся, смейся, ничего я с тобой поделать не могу."
+line-470,埃琳娜,算了，我回实验室。,I'm going back to my lab.,"Ладно, возвращаюсь в лабораторию."
+line-471,埃琳娜,为了拯救你的钱包，还是得早点做完这个实验。,Maybe finishing this experiment will help stuff your wallet a little.,"Чтобы спасти твой кошелек, нужно побыстрее закончить этот эксперимент."
+line-482,埃琳娜,她为你们做了这么多，还要我也帮忙瞒着你们。,"She did so much for you, and pushed me into keeping it secret.","Она сделала для вас так много, и еще просила меня скрыть это от вас."
+line-483,埃琳娜,你们这么对她，不觉得很过分吗？,How could you do this to her?,"Вам не кажется, что вы поступаете очень подло?"
+line-485,桑尼,乌比卡博士，你是多萝西·弗兰克斯的朋友。,"Dr. Urbica, you're Dorothy Franks's friend.","Доктор Убика, вы друг Дороти Франкс."
+line-486,桑尼,你只看到了她想让你看到的。,You see only what she wants you to see.,"Вы видите только то, что она хочет вам показать."
+line-487,桑尼,你不知道......她的真实目的是多么可怕。,You don't know what terrible things she's hiding under the surface.,Вы не знаете… насколько ужасны ее истинные намерения.
+line-499,拓荒队成员,弗兰克斯主任，我是特地来感谢您的！我儿子的手术很成功，医生说他下个星期就能出院了！,Director Franks! My boy's surgery went great. The doctor says he'll be out of the hospital by next week!,"Начальница Франкс, я пришел лично поблагодарить вас! Операция моего сына прошла успешно, врач сказал, на следующей неделе его выпишут!"
+line-501,多萝西,那太好了——迪克，你想不想回家看他？,Fantastic. Would you like to go home and see him?,"Это прекрасно — Дик, хочешь поехать домой к нему?"
+line-503,拓荒队成员,回、回家？您是说回城里去吗？,G-Go home? Back to the city?,Д-домой? Вы имеете в виду вернуться в город?
+line-504,拓荒队成员,可是......我是感染者，按照规定，我并不能私自进入移动城市......,B-But I'm Infected. I can't enter a nomadic city on my own...,"Но… я зараженный, по правилам я не могу самовольно входить в передвижной город…"
+line-506,多萝西,除非你们能得到一份新的工作合同，足以为你们支付那笔保险费。,Unless you have a new contract that pays for the insurance.,"Только если вы получите новый трудовой контракт, которого хватит на оплату страхового взноса."
+line-507,多萝西,迪克，眼下就有一个机会——一个能让你摆脱既定命运的机会。,"You're looking at a chance, Dirk. One that can change your destiny.","Дик, сейчас появилась возможность — шанс изменить свою предначертанную судьбу."
+line-508,多萝西,只要你签下这份知情同意书，你就能回家了。,"Sign this consent form, and you'll be able to go home.","Просто подпишите форму информированного согласия, и вы сможете вернуться домой."
+line-510,拓荒队成员,我当然......,Of course I...,"Конечно, я…"
+line-512,多萝西,不，请不要着急答应。你有二十四小时的时间考虑。,No rush. You have twenty-four hours to think about it.,"Нет, не торопитесь соглашаться. У вас есть 24 часа на раздумья."
+line-514,多萝西,我不会欺骗你们，也不想有所隐瞒——,"This isn't a trick, nothing in the fine print.",Я не буду вас обманывать и не хочу ничего скрывать —
+line-516,多萝西,最重要的注意事项我都帮你圈出来了，你一定要仔细看清楚那些风险。,I've circled the important points. Make sure you understand the risks.,"Самые важные моменты я пометила, вы должны внимательно изучить все риски."
+line-517,多萝西,有任何搞不明白的地方，随时来问我。,Come find me if you have any questions.,"Если что-то непонятно, приходите ко мне в любое время."
+line-523,桑尼,迪克！,Dirk!,Дик!
+line-525,拓荒队成员,领、领队？你怎么来了？你也是来报名参加......,S-Sir? What're you doing here? Did you sign up for...,К-командир? Почему ты здесь? Ты тоже пришел записаться…
+line-527,桑尼,......把这份知情同意书给我。,Give me the consent form.,…Отдай мне этот форму согласия.
+line-530,拓荒队成员,为什么？不，不行！,W-Why? No!,"Почему? Нет, я не могу!"
+line-532,桑尼,你没听明白吗？她是想把你变成关在笼子里的实验动物！,"Don't you get it? She's stuffing you into a cage, to experiment on!",Ты не понял? Она хочет превратить тебя в подопытное животное в клетке!
+line-534,拓荒队成员,那......那又怎么样？,S-So what?,И… что с того?
+line-535,拓荒队成员,领队，弗兰克斯主任说，我还有机会......,Director Franks says she's giving me a chance.,"Командир, начальница Франкс сказала, что у меня есть шанс…"
+line-536,拓荒队成员,“机会”这个词语，我们有多久没听见了？,When was the last time we heard the word 'chance'?,Как давно мы вообще слышали слово «шанс»?
+line-538,桑尼,......,......,…
+line-540,拓荒队成员,我并不需要二十四小时。,I don't need twenty-four hours.,Мне не нужно 24 часа.
+line-541,拓荒队成员,为了那个再次见到孩子的可能性，我连一分钟都等不了！,I won't wait another minute for a chance to see my boy!,"Ради возможности увидеть ребенка снова, я не буду ждать ни минуты!"
+line-551,桑尼,就这样，她带走了迪克。,That's how she got Dirk.,Вот так она забрала Дика.
+line-552,桑尼,不止迪克，还有艾伦、盖尔、索菲亚......,"Not just Dirk. Alan, Gale, Sophia...","И не только Дика, еще Аллена, Гейла, Софию…"
+line-553,桑尼,她抓住了我们所有人的弱点。没有人能对她说不。,She knew everyone's weaknesses. No one could say no to her.,Она нашла слабые стороны каждого из нас. Никто не мог ей отказать.
+line-555,桑尼,这就是多萝西·弗兰克斯的伎俩！,That's Dorothy Franks!,В этом и есть вся Дороти Франкс!
+line-556,桑尼,那些银色的生物就是她......,Those silver creatures were her...,Те серебристые существа — это ее…
+line-558,埃琳娜,你说那些银色造物？,The silver constructs?,Ты говоришь об этих серебристых созданиях?
+line-560,埃琳娜,它们明明......咳咳，你根本就不懂！,They're... *cough* *cough*... you know nothing!,"Они… кх-кх, ты просто ничего не понимаешь!"
+line-562,赫默,......,......,…
+line-563,赫默,两位，关于那些追着我们跑的物体，你们到底各自了解多少？,How much do the two of you know about our pursuers?,"Господа, как много каждый из вас знает об объектах, которые нас преследуют?"
+line-565,桑尼,......,......,…
+line-567,埃琳娜,......,......,…
+line-569,赫默,你们一个说生物，一个说造物。,"One of you calls them creatures, the other uses the word constructs.","Один говорит «существа», другой «создания»."
+line-570,赫默,我确定自己没有听错。毕竟，在黎博利中，我们这一族的听力一贯很好。,I'm certain I heard correctly. My people are renowned among Liberi for our sense of hearing.,"Я уверена, что не ослышалась. В конце концов, у Либери, нашего вида, отличный слух."
+line-572,桑尼,我是猜的。,I'm just guessing.,Я предположил.
+line-574,埃琳娜,我也是。,Same here.,Я тоже.
+line-576,赫默,......,......,…
+line-577,赫默,这时候你们的意见倒是很一致。,At least you agree on something.,Вот в чем вы проявляете единодушие.
+line-579,赫默,算了，无论你们眼里的多萝西到底是什么形象，至少她眼下的确在帮我们逃命。,"Never mind that. No matter what you think of Dorothy, at this moment, she's helping us escape.","Ладно, кем бы ни была Дороти в ваших глазах, по крайней мере сейчас она помогает нам сбежать."
+line-580,赫默,先按照她的指示继续转移吧。,Let's follow her instructions for now.,Продолжим отступление согласно ее указаниям.
+line-581,赫默,或许走廊那头的追兵能再帮你们理一理思路。,Maybe our pursuers on the other end of the corridor will help you collect your thoughts.,"Может, преследователи в конце коридора помогут вам привести мысли в порядок."
