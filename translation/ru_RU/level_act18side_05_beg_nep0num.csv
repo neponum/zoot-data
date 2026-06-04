@@ -1,0 +1,113 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act18side
+__chapter__,,Chapter Name,activities/act18side/level_act18side_05_beg,月光
+,,,,
+char-1,白垩,白垩,Kreide,Белый
+char-2,黑键,黑键,Ebenholz,Черная клавиша
+char-3,车尔尼,车尔尼,Czerny,Черни
+char-4,芙蓉,芙蓉,Hibiscus,Фурнье
+char-5,乌尔苏拉,乌尔苏拉,Ursula,Урсула
+char-6,轻浮的贵族,轻浮的贵族,Frivolous Noble,Легкомысленный дворянин
+char-7,可疑的感染者,可疑的感染者,Suspicious Infected,Подозрительный зараженный
+char-8,拉赫曼,拉赫曼,Lachmann,Рахман
+char-9,？？？,？？？,???,???
+,,,,
+line-15,白垩,你现在感觉怎么样，没问题了吗？,"How do you feel? All better now, right?",Как ты себя сейчас чувствуешь? Всё в порядке?
+line-17,黑键,没问题......,I'm fine...,Всё в порядке...
+line-18,黑键,没问题的，一定没问题的。你和我都会没问题的。,"I'm totally fine, I'm sure of it. The both of us are.","Всё в порядке, точно всё будет в порядке. И с тобой, и со мной всё будет хорошо."
+line-19,黑键,我出去一会儿，你好好在这儿待着。,"I'm going out for a bit, so stay put here.","Я ненадолго выйду, а ты побудь здесь."
+line-21,白垩,你才刚好一点，这是要去哪里？,You're going out again the moment you feel a little better?,"Тебе только что стало получше, куда ты собрался?"
+line-23,黑键,......去办事。,I've got work to do.,...По делам.
+line-25,白垩,不管什么事，都等到你恢复再说吧。,"That's fine and all, but shouldn't you at least wait until you've recovered?","Что бы это ни было, подожди, пока не поправишься."
+line-27,黑键,不用担心我。,Don't worry about me.,Не беспокойся обо мне.
+line-29,白垩,芙蓉也说了，如果醒了，最好休息一段时间，观察一下情况......,"Hibiscus said the same thing. After you wake up, it'd be best to keep resting for a while and monitoring your condition.","Фурнье тоже говорила, что после пробуждения лучше какое-то время отдохнуть и понаблюдать за состоянием..."
+line-31,黑键,这是急事，很急的事，好吗？,"It's an emergency, one that can't wait. Alright?","Это срочное дело, очень срочное, понятно?"
+line-33,白垩,可是我们离音乐会已经没多长时间了。我觉得现在最重要的还是把身体养好，加紧练习......这也是你的愿望啊。,"But, there's not a whole lot of time left until the concert. I think the most important to do until then is to make sure you're healthy and well-practiced... I'm sure that's what you want too.","Но до концерта осталось совсем немного времени. Я думаю, сейчас важнее всего поправить здоровье и сосредоточиться на репетициях... Это ведь и твое желание тоже."
+line-35,黑键,现在就别拿这个烦我了，好不好？,Can you stop pestering me with that right now?,"Перестань меня этим докучать, ладно?"
+line-37,白垩,烦？,Pestering?,Докучать?
+line-39,黑键,......我不是这个意思。,That's not what I meant.,...Я не это имел в виду.
+line-41,黑键,但我确实非去不可，别拦着我了。我会尽快回来的。,"But I have to go, so don't get in my way. I'll be back as soon as I can.","Но я действительно должен идти, не пытайся меня остановить. Я вернусь как можно скорее."
+line-43,白垩,真的......不能告诉我要去做什么吗？,And you really... can't tell me what you're going to do?,"Неужели... нельзя сказать мне, куда ты идешь?"
+line-45,黑键,如果一切顺利的话......你会知道的。,If everything goes well... you'll know soon enough.,Если всё пройдет гладко... ты узнаешь.
+line-47,黑键,对了，衣服。,"Oh right, your suit.","Кстати, насчет костюма."
+line-49,白垩,衣服？,What about it?,Костюма?
+line-51,黑键,约好今天下午去取的，我没法陪你去了，你自己去一趟吧。,"I made an appointment to pick it up this afternoon, but I won't be able to go with you. You should go get it yourself.","Мы договаривались забрать его сегодня днем. Я не смогу пойти с тобой, сходи сам."
+line-52,黑键,记得带大提琴，试穿的时候试着拉一小段，看看会不会有不舒服的地方。,Remember to bring your cello with you and play a little passage as you're trying it on. Make sure there aren't any areas that feel uncomfortable.,"Не забудь взять виолончель, попробуй сыграть отрывок во время примерки, чтобы проверить, нет ли дискомфорта."
+line-53,黑键,我走了。,I'll be back.,Я ушел.
+line-70,车尔尼,又是你？,You again?,Снова ты?
+line-72,芙蓉,......是我。,"Yes, it's me.",...Это я.
+line-73,芙蓉,我来请求您停办这次音乐会，至少不要让黑键和白垩在音乐会上合奏了。,"I'm here to ask you to put this concert on hold. Or at least, don't let Ebenholz and Kreide play together.","Я пришла просить вас отменить этот концерт, или, по крайней мере, не позволять Черной клавише и Белому выступать дуэтом."
+line-75,车尔尼,你说什么？,What did you say?,Что ты такое говоришь?
+line-77,芙蓉,如果让黑键和白垩合奏，夕照区会出大事的！,Something terrible is going to happen in the Afterglow if those two play together!,"Если они выступят вместе, в районе Заката случится беда!"
+line-88,车尔尼,按你的说法，我最近身体好转，是因为黑键和白垩引发的所谓“假愈”，但假愈期一过去，我就会变成重症患者，命在旦夕。,"So if what you're saying is true, my recent improvement was due to this so-called 'false recovery' caused by Ebenholz and Kreide. And as soon as this phase is over, I'll become critically ill and my life will be in danger.","Значит, по-твоему, мое недавнее выздоровление — это так называемое «ложное исцеление», вызванное ими, а когда срок его действия закончится, я стану тяжелобольным и буду при смерти?"
+line-90,芙蓉,是的，您和他们接触很多，因此症状也更明显。,"That's right. You've been around them a lot, so the symptoms will also be a lot more pronounced.","Да, вы много контактировали с ними, поэтому симптомы проявляются сильнее."
+line-92,车尔尼,其他和他们接触较少的人也会受到影响，如果放任他们合奏，很可能有人死去？,"Others who've had less contact with them are also affected, and if I let the two of them play together, there's a high possibility that people will die?","А те, кто контактировал с ними меньше, тоже пострадают? Если позволить им играть дуэтом, кто-то может погибнуть?"
+line-94,芙蓉,是的。虽然原因尚不明确，但让这两个人在一起合奏，有很大可能增强他们对周围的影响。,"Correct. Even though I don't know the exact reason, having the two play together seems to amplify the effect they have on their surroundings.","Да. Хотя причины еще не ясны, их совместное выступление с большой вероятностью усилит влияние на окружающих."
+line-96,车尔尼,多大可能？,How likely are we talking about here?,Насколько большая вероятность?
+line-98,芙蓉,暂时还不知道......,I can't say for sure right now...,Пока неизвестно...
+line-100,车尔尼,除了我，还有谁会因此面临生命危险？,"Other than me, who else is in life-threatening danger?","Кроме меня, кому еще угрожает смертельная опасность?"
+line-102,芙蓉,......夕照区的十多人已经被送去高庭区的医院了。,Over a dozen people from the Afterglow have already been hospitalized in the Cliffy Patio.,...Более десяти человек из района Заката уже были отправлены в больницу района Высокого двора.
+line-104,车尔尼,高庭区......也就是说，他们已经离开了黑键和白垩的影响范围？,"The Cliffy Patio... In other words, they've already left Ebenholz and Kreide's effective range?","Район Высокого двора... Значит, они уже покинули зону влияния Черной клавиши и Белого?"
+line-106,芙蓉,应该是这样的。,That should be the case.,"Должно быть, так."
+line-108,车尔尼,我明白你的意思了。,Then I have a clear picture of the situation.,"Я понял, что ты имеешь в виду."
+line-110,芙蓉,那么......,Your answer...,Так что же...
+line-112,车尔尼,不行。,...is no.,Нет.
+line-114,芙蓉,什么？！,What?!,Что?!
+line-116,芙蓉,我不奢求您取消整场音乐会，但就算单独把黑键和白垩合奏的曲目撤了也好！或者换人也可以！,"I'm not asking you to cancel the whole concert. You can just cut Ebenholz and Kreide's part, or even have someone else perform the duet!","Я не прошу вас отменить весь концерт, но уберите хотя бы номер с их дуэтом! Или замените их на кого-то другого!"
+line-118,车尔尼,如果你能证明他们的合奏一定会导致我以外的人受害，我立刻就取消这场音乐会。,"If you can prove that their duet will cause harm to people other than me, then I'll cancel the concert right away.","Если ты докажешь, что их выступление обязательно навредит кому-то, кроме меня, я немедленно отменю концерт."
+line-119,车尔尼,但现在不同，连你也无法得知合奏的后果究竟是什么。我不能仅仅因为虚无缥缈的“担忧”，就让整个夕照区的努力和希望付诸东流。,But it seems that's not the case. Even you have no idea what would happen if they played together. I can't simply throw away the efforts and aspirations of everyone in the Afterglow over these illusory 'concerns.',"Но сейчас всё иначе, даже ты не можешь знать, каковы будут последствия дуэта. Я не могу позволить усилиям и надеждам всего района Заката пойти прахом лишь из-за эфемерных «опасений»."
+line-121,芙蓉,整个夕照区的努力和希望？,The efforts and aspirations...?,Усилиям и надеждам всего района Заката?
+line-123,芙蓉,我理解您对这次音乐会的重视程度，但是......,"I understand how much this concert means to you, but...","Я понимаю, как важно для вас это выступление, но..."
+line-125,车尔尼,你不理解。,You don't understand anything.,Ты не понимаешь.
+line-127,车尔尼,如果你真的理解，就不会轻飘飘地说出那个“但是”。,"If you truly understood, you wouldn't throw around the word 'but' so lightly.","Если бы ты действительно понимала, то не произнесла бы это «но» так легкомысленно."
+line-128,车尔尼,很遗憾，我不能仅凭你的一面之词改动音乐会的安排。,"Unfortunately, I cannot change the concert schedule on your word alone.","К сожалению, я не могу изменить программу концерта только на основании твоих слов."
+line-130,芙蓉,车尔尼先生，请您直接告诉我，这次音乐会和感染者的生命相比，究竟重要在什么地方？,"Mr. Czerny, please give me a straight answer. What makes this concert more important than the lives of the Infected?","Мистер Черни, скажите мне прямо: что важнее — этот концерт или жизни зараженных?"
+line-132,车尔尼,你什么意思？,What are you talking about?,Что ты хочешь этим сказать?
+line-133,车尔尼,你是想说我漠视生命？,Are you suggesting that I'm disregarding peoples' lives?,Ты пытаешься обвинить меня в пренебрежении жизнью?
+line-135,芙蓉,我只是——,I'm just saying––,Я просто...
+line-143,乌尔苏拉,芙蓉，芙蓉！,Hibiscus! Hibiscus!,"Фурнье, Фурнье!"
+line-145,芙蓉,乌尔苏拉婆婆？,Ms. Ursula?,Бабушка Урсула?
+line-147,乌尔苏拉,走，跟咱出去吹吹风，好不好？,"Come take a little stroll, won't you?","Пойдем, пройдемся со мной, подышим свежим воздухом, а?"
+line-149,芙蓉,可是——,But—,Но...
+line-151,乌尔苏拉,走吧。,Come now.,Пошли.
+line-152,乌尔苏拉,出去冷静一下，然后再说也不迟，好不好？,"Let's head out and calm down first. We can talk about this later, okay?","Выйдем, успокойся, а потом обсудим, хорошо?"
+line-166,黑键,（如果格特鲁德说的全部都是真的，白垩不可能活下来......）,"(If everything Gertrude said is true, then Kreide won't survive this.)","(Если всё, что говорила Гертруда, правда, то Белый не мог выжить...)"
+line-168,黑键,（不，一定有什么办法的......两全其美的办法......）,"(No, there must be some way... Some way to come out ahead on both fronts...)","(Нет, должен быть какой-то способ... способ, который устроит всех...)"
+line-170,黑键,（车尔尼，车尔尼说不定能知道什么......）,"(Czerny, Czerny must know something...)","(Черни, может быть, Черни что-то знает...)"
+line-172,黑键,（不，他只是个音乐家，他帮不上忙的。）,"(No, he's just a musician, he won't be able to help.)","(Нет, он просто музыкант, он ничем не поможет.)"
+line-177,黑键,（我要不要告诉白垩实情——）,(Should I tell Kreide the truth––),(Стоит ли мне рассказать Белому правду...)
+line-181,黑键,（可那又有什么用呢......）,(But what good would that do?),(Но какой в этом смысл...)
+line-186,黑键,（罗德岛......）,(Rhodes Island...),(Родос...)
+line-188,黑键,（芙蓉那种人，只会让我回乌提卡继续坐牢！）,(Someone like Hibiscus is only going to send me back to my cell in Urtica!),"(Такие люди, как Фурнье, только и хотят отправить меня обратно в Ютику, в заточение!)"
+line-192,黑键,（女皇之声？）,(The Empresses' Voice?),(Голос Императрицы?)
+line-196,黑键,（我到底在想什么，自杀计划吗？！）,(What am I even thinking? Is this a suicide mission?!),(О чем я вообще думаю? Это план самоубийства?!)
+line-241,黑键,（不行，我一直在这儿兜圈子，实在太可疑了。我得换个人少的地方......）,"(No, I've been going in circles. I'm standing out too much. I need to go somewhere less crowded.)","(Нет, я хожу кругами, это выглядит слишком подозрительно. Нужно найти место, где меньше людей...)"
+line-259,黑键,（嗯？那人有点眼熟。）,(Huh? Have I seen that man before?),(М? Этот человек кажется знакомым.)
+line-264,轻浮的贵族,......谨慎。,Be careful.,...Осторожно.
+line-266,可疑的感染者,......人群......保证。,Definitely... the crowd.,...Толпа... гарантия.
+line-270,黑键,（对了，谣言，那个谣言！）,"(Right, the rumor. There was that rumor!)","(Точно, слухи, те самые слухи!)"
+line-272,黑键,（把谣言查清楚，没准能获得什么线索，或者知道散布谣言的人是在传递什么信息！）,"(I've got to get to the bottom of this rumor. Who knows, there might even be some clues, or the person spreading the rumor might know something!)","(Если разобраться в этих слухах, может, удастся получить какую-то зацепку или понять, что именно передает тот, кто их распускает!)"
+line-274,黑键,（但现在只能靠我自己了......）,(But it's all up to me at this point...),(Но сейчас я могу рассчитывать только на себя...)
+line-278,轻浮的贵族,你确定？,You sure?,Ты уверен?
+line-280,可疑的感染者,现在就是最好的时机了。,This is the best opportunity we're going to get.,Сейчас самое подходящее время.
+line-281,可疑的感染者,再拖下去，时间越来越少，到那时就不好办了。,"The longer things drag on, the less time we'll have. It'll only make things harder.","Если тянуть дальше, времени останется всё меньше, а тогда всё станет куда сложнее."
+line-283,轻浮的贵族,那好，你尽管去做，我去向上面报告。加油，拉赫曼先生。,"Alright, hurry it up then. I'll go report to the higher-ups. I'm counting on you, Herr Lachmann.","Хорошо, действуй, а я доложу наверх. Удачи, мистер Рахман."
+line-289,拉赫曼,唉，这活可真是劳心又劳力。,"Heh. This work sure is demanding, physically and emotionally.","Эх, ну и хлопотная это работа."
+line-290,拉赫曼,散布流言也就罢了，现在还要去那种地方......,It's hard enough spreading the rumors. Now I even have to go THERE...,"Мало того, что приходится распространять слухи, так теперь еще лезть в такое место..."
+line-303,黑键,（下水道？他要进下水道？）,(The sewers? He's heading into the sewers?),(Канализация? Он собрался в канализацию?)
+line-305,黑键,（我可不想跟他进去......该动手了。）,(I'd rather not have to follow him down there... Time to act.),(Я не хочу лезть за ним... Пора действовать.)
+line-316,黑键,站住。,Hold it right there.,Стоять.
+line-319,拉赫曼,谁？！,Who are you?!,Кто здесь?!
+line-322,黑键,别回头。,Don't turn around.,Не оборачивайся.
+line-323,黑键,说，是什么人派你来夕照区传播谣言的？,"Tell me, who sent you to spread rumors in the Afterglow?","Говори, кто послал тебя распространять слухи в районе Заката?"
+line-325,拉赫曼,冤枉啊，我不过是道听途说......,"You've got the wrong idea, I just happened to overhear...","Это ошибка, я просто слышал это от других..."
+line-327,黑键,我跟了你一路了，拉赫曼先生。,"I've been following you the whole time, Herr Lachmann.","Я шел за тобой всю дорогу, мистер Рахман."
+line-328,黑键,而且我刚刚认出来，之前传播谣言围攻芙蓉的时候，你是煽风点火的那一个。,"And I connected the dots just now. You were one fanning the flames before, spreading rumors to have that mob accost Hibiscus.","К тому же, я только что вспомнил: когда Фурнье травили слухами, именно ты подливал масла в огонь."
+line-330,拉赫曼,您记性不错。,You've got a pretty good memory.,У вас хорошая память.
+line-332,黑键,说说吧，谁派你做这些事的，你进下水道要做什么？,"Speak. Who sent you here, and what were you planning to do in the sewers?","Выкладывай, кто приказал тебе это делать и что ты собрался искать в канализации?"
+line-335,？？？,正好，我也很好奇，拉赫曼先生进下水道要做什么？,What wonderful timing. I am also quite curious as to what Herr Lachmann planned to do in the sewers.,"Кстати, мне тоже любопытно, зачем мистер Рахман идет в канализацию?"
+line-338,黑键,？！,?!,?!
+line-340,？？？,别回头，否则......,"Don't turn around, or else...","Не оборачивайся, иначе..."
+line-346,？？？,会怎么样呢？,What do you think will happen?,...что же будет?
