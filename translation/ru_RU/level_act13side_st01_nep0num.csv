@@ -1,0 +1,312 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act13side
+__chapter__,,Chapter Name,activities/act13side/level_act13side_st01,欣欣向荣
+,,,,
+char-1,大嘴莫布,大嘴莫布,Greatmouth Mob,Болтливый Моб
+char-2,观众席上的骑士,观众席上的骑士,An Audience Knight,Рыцарь на трибунах
+char-3,捧着爆米花的骑士,捧着爆米花的骑士,A Popcorn-Clutching Knight,Рыцарь с попкорном
+char-4,发言人麦基,发言人麦基,Spokesman McKee,Спикер Мэки
+char-5,发言人马克维茨,发言人马克维茨,Spokesman Malkiewicz,Спикер Марковиц
+char-6,德罗斯特,德罗斯特,Droste,Дрост
+char-7,白金,白金,Platinum,Платина
+char-8,？？？,？？？,???,???
+char-9,罗伊,罗伊,Roy,Рой
+char-10,索娜,索娜,Sona,Шона
+char-11,查丝汀娜,查丝汀娜,Justyna,Джастина
+char-12,塑料骑士,塑料骑士,Plastic Knight,Пластиковый рыцарь
+char-13,年长的骑士,年长的骑士,An Aged Knight,Пожилой рыцарь
+char-14,阿米娅,阿米娅,Amiya,Амия
+char-15,塞诺蜜,塞诺蜜,Senomy,Сеномия
+char-16,砾,砾,Gravel,Грэвел
+char-17,玛莉娅,玛莉娅,Maria,Мария
+char-18,玛嘉烈,玛嘉烈,Margaret,Маргарет
+char-19,玛恩纳,玛恩纳,Młynar,Мланар
+char-20,托兰,托兰,Toland,Толан
+,,,,
+line-7,,“城市是一只怪物，它把人吞噬殆尽，我们却还要感恩戴德地待在它的肠胃里。”,"'The city is a man-eating behemoth, but still we must dwell in its bowels gratefully.'","«Город — это монстр. Он пожирает людей целиком, но мы всё равно должны быть благодарны за то, что находимся в его чреве»."
+line-8,,“等着生活把我们消化，等着白骨和血肉被排出，留下的会成为养分，供城市前行。”,"'We wait until life digests us, until our flesh and bones are excreted, so that whatever remains may become nutrients to feed the city as it lurches onwards.'","«Ждем, пока жизнь переварит нас, ждем, когда наши кости и плоть будут выведены наружу, а то, что останется, станет питательными веществами для дальнейшего роста города»."
+line-9,,“即是文明欣欣向荣。”,'That is the flourishing of civilization.',«Вот что значит процветание цивилизации».
+line-18,大嘴莫布,欢迎来到卡西米尔国立竞技场！欢迎来到，卡西米尔特别锦标赛！我是各位的老朋友——大嘴莫布！,Welcome to the Kazimierz National Arena! Welcome... to the Kazimierz Major! I am none other than your old friend –– Greatmouth Mob!,Добро пожаловать на Казимирский национальный стадион! Добро пожаловать на Специальный чемпионат Казимира! Я ваш старый знакомый — Болтливый Моб!
+line-21,大嘴莫布,经过了漫长的预选阶段，全卡西米尔翘首以盼的卡西米尔骑士特别锦标赛正赛阶段，将于今日迎来首场对决！,"After a long qualifying stage, this is the moment all of Kazimierz has long been waiting for –– the first match of the Kazimierz Major starts today!","После долгого этапа предварительных отборов, основной этап Специального чемпионата рыцарей Казимира, которого с нетерпением ждал весь Казимир, сегодня открывает свою первую дуэль!"
+line-22,大嘴莫布,决斗、竞速、花样竞技，三大类别、八大项目、四十三小项，荣誉、财富，无数骑士团和骑士们对奖牌势在必得！,"Dueling, jousting, and assorted miscellany! Three categories, eight major events, forty-three minor events! Countless knights and knightclubs will take their share of gold and glory!","Дуэли, гонки, показательные выступления — три основные категории, восемь дисциплин, сорок три вида соревнований! Честь, богатство — бесчисленные рыцарские ордена и рыцари готовы биться за медали!"
+line-30,观众席上的骑士,......莫布怎么成了特锦赛解说？他是不是背地里给哪个发言人塞钱了？,How did Mob end up as the MC? Think he greased some palms behind the scenes?,"...С чего это Моб стал комментатором спецчемпионата? Интересно, давал ли он кому-то на лапу?"
+line-32,捧着爆米花的骑士,塞钱？真要靠塞钱，这得塞多少钱？,Like he bribed his way in? How much do you think something like that would cost?,"На лапу? Если бы всё решалось взятками, сколько же ему пришлось бы отдать?"
+line-34,观众席上的骑士,莫布平时就喜欢口无遮拦，到这种大场合上，万一他一时嘴瓢？,"Mob's never been the type to keep his mouth shut. What if he let something slip, right here on the big stage?","Моб привык болтать лишнее. На таком крупном мероприятии, что если у него вдруг язык заплетётся?"
+line-36,捧着爆米花的骑士,哈，你知道吗，之前那个名嘴大胡子凯奇，就是因为在特锦赛上“调侃”了某位大骑士......,"Hah. You hear about that loudmouth, the Bearded Cage? Heard he 'badmouthed' a pretty big deal of a knight during the Major...","Ха, ты знал, что тот известный говорун, бородач Кейдж, исчез как раз потому, что на спецчемпионате «пошутил» над одним Великим рыцарем..."
+line-37,捧着爆米花的骑士,然后第二天就消失啦，要爆米花不？,...and that was the last anyone saw of 'im. Want some popcorn?,А на следующий день он испарился. Попкорна хочешь?
+line-39,观众席上的骑士,嗨，引咎辞职嘛，常见的伎俩。,Pssht. Probably just took the fall and resigned. A by-the-book trick.,"Да ладно, ушел в отставку по собственному желанию, обычное дело."
+line-41,捧着爆米花的骑士,（咀嚼声）我说的是消失（咀嚼声）不是辞职。你懂吧。,*munch* I shed... dish-appeared... *munch*... not resigned. You get it?,"(звук жевания) Я сказал исчез, (звук жевания) а не уволился. Ты ведь понимаешь, о чем я."
+line-46,观众席上的骑士,呃......真的？,Huh... No shittin'?,Э-э... серьезно?
+line-54,大嘴莫布,八支大骑士团，六十四支骑士团，以及两位特立独行的独立骑士，于今日齐聚特锦赛现场！,"Today's Major features eight big knightclubs, sixty-four of the normal ones, and two unaffiliated, independent knights!","Восемь Великих рыцарских орденов, шестьдесят четыре обычных ордена, а также два независимых рыцаря, придерживающихся своего пути, сегодня собрались здесь, на арене спецчемпионата!"
+line-55,大嘴莫布,卡西米尔骑士特别锦标赛，将向整片泰拉大地，彰显骑士之美，彰显骑士之风！,The Kazimierz Major is a showcase of the beauty and majesty of our knights for all of Terra to enjoy!,Специальный чемпионат рыцарей Казимира покажет всей Терре красоту и дух рыцарства!
+line-56,大嘴莫布,本日的第一场比赛，将是来自锋盔骑士团与云雾骑士团的对决！来自双方的十位骑士，究竟能为骑士团斩获几个比分！？,Our first match will pit the Blade Helmet Knightclub against the Cloudhaze Knightclub! How many points will the ten knights from each side take home to their clubs?!,Первым матчем сегодняшнего дня станет противостояние Рыцарей острого шлема и Рыцарей облачного тумана! Сколько очков принесут орденам десять рыцарей с каждой стороны!?
+line-58,大嘴莫布,巨额的奖金池哪怕此时此刻也在增加，来自卡西米尔各竞技场的每一点消费，都将按照骑士份额转化为特锦赛奖金！,A big prize pool is getting bigger as I speak! A portion of everything you spend at this arena will be added to the tournament prize for the knights to fight over!,"Огромный призовой фонд растет прямо сейчас, ведь каждая трата на любой арене Казимира конвертируется в призовые деньги спецчемпионата в соответствии с рыцарской долей!"
+line-60,大嘴莫布,究竟哪个骑士团能获得最多的奖杯？又会是哪位骑士从决斗赛中脱颖而出，成为本届特锦赛的冠军骑士？,Which knightclub will take the most trophies? Which knight will stand above the rest and become this Major's Knight-Champion?,Какой рыцарский орден заберет больше всего кубков? И кто из рыцарей выделится в дуэлях и станет чемпионом этого спецчемпионата?
+line-63,大嘴莫布,让我们——拭目以待——！,Now... LET US SEE FOR OURSELVES––!,Давайте — будем — ждать!
+line-71,,"5:43 P.M.  天气/晴     ","5:43 P.M. \ Clear     ",17:43. Погода: ясно.
+line-72,,大骑士领卡瓦莱利亚基，冠军墙展厅,"The Grand Knight Territory Kawalerielki, Wall of Champions","Великий рыцарский город Кавалерини, выставочный зал Стены чемпионов."
+line-75,发言人麦基,合身吗？马克维茨先生？,"How's the fit, Mr. Malkiewicz?","Сидит хорошо, господин Марковиц?"
+line-80,发言人马克维茨,......托您的福。,"Good, thanks to you.",...Благодаря вам.
+line-82,发言人麦基,别这么说，一身定制的合乎礼仪的服装，是我们必备的门面。,That's enough of that. Custom-tailored formalwear is a must for maintaining our image.,"Не стоит, одежда, сшитая на заказ и соответствующая этикету — это наше лицо."
+line-83,发言人麦基,您有留下那位裁缝的联络方式吗？我相信您还会用得到他的。,Do you still have the tailor's contact information? I believe you'll find his services most helpful.,"У вас остались контакты того портного? Уверен, он вам еще пригодится."
+line-85,发言人马克维茨,......,......,...
+line-87,发言人麦基,先生，麻烦给我一杯葡萄酒，谢谢。,"Sir, could you please get me a glass of wine? Thank you.","Сэр, принесите мне бокал вина, пожалуйста."
+line-89,发言人麦基,您在想什么？,What's on your mind?,О чем вы задумались?
+line-91,发言人马克维茨,不，没什么......,Nothing in particular...,"Нет, ничего..."
+line-93,发言人马克维茨,也许我只是在感叹，这场宴会多么盛大......,Maybe... This banquet is just too much for me.,"Возможно, я просто поражаюсь, насколько грандиозен этот банкет..."
+line-95,发言人麦基,啊......“也许”。,"Ah, 'maybe.'",А... «возможно».
+line-96,发言人麦基,也许你只是还没缓过神来，恰尔内先生的事情我们都很遗憾。,"Maybe you haven't gotten over the incident with Mr. Czarny. Quite the shame, for all of us.","Возможно, вы просто еще не пришли в себя. Нам всем очень жаль насчет господина Чарне."
+line-99,发言人马克维茨,......！,......!,...!
+line-101,发言人麦基,他是个兢兢业业的人，无论是作为公司员工，还是作为联合会发言人，他都尽力了。,"He was a conscientious one, who always put his best foot forward, whether as a company employee or as a spokesman for the K.G.C.C.","Он был очень добросовестным человеком. Как сотрудник компании, так и как спикер Федерации — он выкладывался по полной."
+line-103,发言人麦基,其实我在成为发言人之后才认识他，对于特锦赛的工作而言，我是新手，他才是前辈。,"In fact, I only met him after becoming a spokesman myself. In terms of our work in the Majors, he was far senior to a fresh face like me.","На самом деле, я познакомился с ним, только став спикером. В вопросах спецчемпионата я новичок, а он был ветераном."
+line-105,发言人麦基,他对待赏识的人一向不差，对吧？,"He always treated those he respected well, yes?","Он всегда хорошо относился к тем, кого ценил, верно?"
+line-107,发言人马克维茨,也许......,Maybe...,Возможно...
+line-109,发言人麦基,别也许了，摆出个笑脸来吧。,"Let's do away with these maybes, and lift our spirits instead.","Хватит этих «возможно», улыбнитесь."
+line-110,发言人麦基,今天才是开幕式的第二天，冠军墙对外开放的大好日子，驻场管理摆着一副臭脸可不行。,"Today is but the second day of the opening ceremonies, and a great day to open the Wall of Champions to the outside world. It would hardly fit the occasion for the resident manager to wear such a dour expression.","Сегодня только второй день церемонии открытия, отличный день, когда Стена чемпионов открыта для публики. Администратору площадки не пристало ходить с кислой миной."
+line-112,发言人马克维茨,您、您说得对，很抱歉......,"Yes, you're right... Sorry...","Вы, вы правы, прошу прощения..."
+line-114,发言人麦基,别总这么低声下气，马克维茨，咱们之间也别用“您”了，太过死板，不利于沟通。,"You should speak up more, Malkiewicz. And there's no need to be so stiff around me. It's certainly not conducive to our working relationship.","Не нужно постоянно заискивать, Марковиц. И давай без «вы», это слишком официально и мешает общению."
+line-120,发言人马克维茨,怎么了？是不是有什么动静？,What was that? Did something happen outside?,Что такое? Что-то случилось?
+line-122,发言人麦基,唔。,Hmm.,Хм.
+line-124,发言人麦基,是特邀骑士嘉宾，我看看时间......你看，她一向很守时，真希望各位骑士都向她学习。,"I believe it's a guest of honor, a very important knight. Let me check the time... See, look how punctual she is. We need more knights like her.","Это приглашенный рыцарь. Посмотрю время... Смотрите, она всегда пунктуальна, хотелось бы, чтобы все рыцари брали с нее пример."
+line-125,发言人麦基,容我失陪一下，还有，请适应您可以免费取用酒水的权利，好好喝一杯吧。,"Pardon me, I'll be right back. In the meanwhile, do avail yourself of your right to the open bar.","Прошу меня извинить. И кстати, привыкайте пользоваться правом бесплатного напитка, выпейте чего-нибудь."
+line-127,发言人马克维茨,哦，好的......,S-Sure...,"О, хорошо..."
+line-129,发言人麦基,甜美的微醺，你该享受它。,The sweet release of libation is wonderful indeed. You ought to indulge in it.,Сладкое опьянение — вам стоит им насладиться.
+line-138,发言人麦基,德罗斯特女士，又见面了。,"Madam Droste, we meet again.","Госпожа Дрост, снова встретились."
+line-144,德罗斯特,晚上好，我来迟了吗？,Good evening. Am I late?,"Добрый вечер, я опоздала?"
+line-146,发言人麦基,晚上好，再次感谢您的参与。,Not at all. I'm glad you could make it.,"Добрый вечер, еще раз спасибо за ваше участие."
+line-147,发言人麦基,我相信烛骑士的光芒，将会为今夜的开幕宴会添上一笔绝美的色彩。,I do believe the glow of the Candle Knight will add a beautiful touch to tonight's opening banquet.,"Я верю, что сияние Рыцаря свечи придаст сегодняшнему открывающему банкету великолепных красок."
+line-153,,"6:15 P.M.  天气/阴     ",6:15 P.M. \ Overcast,18:15. Погода: пасмурно.
+line-154,,大骑士领卡瓦莱利亚基，商业联合会大厦，会客室,"The Grand Knight Territory Kawalerielki – General Chamber of Commerce, Reception Room","Великий рыцарский город Кавалерини, здание Бизнес-федерации, приемная."
+line-158,白金,......,......,...
+line-159,白金,............,............,............
+line-160,白金,我——,I—,Я—
+line-162,？？？,啊，不用解释，小白金，我们也没打算怎么样......就是，工作嘛，对吧？,"Ah, no need to explain yourself, Platinum. We didn't expect this to happen either... Just doing your job, of course?","А, не нужно объяснений, маленькая Платина, мы не собирались ничего делать... Просто работа, верно?"
+line-163,？？？,总得做做样子。,You do what you have to do.,Всегда приходится создавать видимость.
+line-165,白金,......,......,...
+line-166,白金,是我的失职。,I screwed up.,Это мое упущение.
+line-168,？？？,唉，失职，失职......我们可不是普通的上班族，干这行，“失职”这个词可是很要命的。,"Ah yes, a screwup... But we aren't exactly nine-to-five office drones here. In our line of work, 'screwups' are very serious.","Эх, упущение, упущение... Мы не обычные офисные работники. В нашем деле слово «упущение» может стоить жизни."
+line-169,？？？,真要命的。,"Deadly serious, even.",Серьезно стоить жизни.
+line-171,白金,......,......,...
+line-173,？？？,这次还好，只是让耀骑士闯进了感染者聚集区......啊，不过你好像把莫妮克的事儿搞砸了。,"Luckily this time, you only let the Radiant Knight barge into the Infected quarter... Oh, but that did throw a wrench into Monique's work.","В этот раз еще повезло, только позволили Сияющему рыцарю ворваться в зону скопления зараженных... А, ну и еще ты, кажется, запорола дело с Моник."
+line-174,？？？,她的任务是用无人机把那些非法聚集点“砰”“啪”掉，然后把红松骑士团带去零号地块来着。,"Her job was to make a little fireworks show out of those illegal settlements, and then bring the Pinus Sylvestris Knightclub to Area 0.","Ее заданием было «бах-бах» дронами по тем незаконным поселениям, а потом доставить Рыцарей красной сосны в сектор Ноль."
+line-175,？？？,本来挺轻松的，结果呢，杀出来个耀骑士，全泡汤了。,"It was going so smoothly, but suddenly... from the slaughter came the Radiant Knight, and there went all our plans.","Все должно было пройти легко, но в итоге объявился Сияющий рыцарь, и все пошло прахом."
+line-176,？？？,她很不开心喔，你懂吧？本来她脾气就那样，要是有人碍着她拿奖金的话，那就更麻烦了。,"She's very unhappy now, you understand? We all know her temper, and if someone was to get in the way of her bounty, you know how troublesome that'd be.","Она очень недовольна, понимаешь? У нее и так характер не сахар, а если кто-то мешает ей получить бонус, становится только хуже."
+line-178,白金,......我不知道莫妮克的目标是......,I didn't know what Monique was doing.,"...Я не знала, что целью Моник была..."
+line-180,？？？,不，你知道。再说你知不知道都不是借口啊。,"No, you did know. Besides, whether you knew or not is no excuse.","Нет, знала. Да и неважно, знала ты или нет — это не оправдание."
+line-181,？？？,因为“追查感染者”本来是你的任务，我可是早就说过，咱们要换活儿干了，不是吗？,"After all, your job was to 'track the Infected.' Did I not say a long time ago that our jobs would be changing?","Потому что «преследование зараженных» изначально было твоей задачей. Я же давно говорил, что нам пора сменить профиль, разве нет?"
+line-183,白金,......,......,...
+line-185,？？？,不不不，别摆这么严肃的表情，啊，还是说你一直都这副脸？小天马？,"Now now, what's with that icy expression? Oh, were you perhaps born with that face, little pegasus?","Нет-нет-нет, не делай такое серьезное лицо. Или ты всегда такая? Маленькая лошадка?"
+line-187,白金,......,......,...
+line-189,？？？,每个月提个十七八次请假申请的人能说是认真吗......唉，算了。,"How seriously can I take someone who submits seventeen or eighteen time-off requests a month? ...Ah, forget it.","Человека, который каждый месяц подает по семнадцать-восемнадцать заявлений на отпуск, можно назвать добросовестным?.. Эх, забудь."
+line-190,？？？,你得庆幸耀骑士冲进感染者聚集区，和一群手持短弓的神秘杀手大打出手的新闻没有出现在报纸头条上。,Count your lucky stars that the whole thing about the Radiant Knight rushing into an Infected quarters to fight off a group of mysterious assassins didn't make headlines in the major news outlets.,"Ты должна радоваться, что новость о том, как Сияющий рыцарь ворвалась в зону зараженных и сцепилась с группой таинственных убийц с короткими луками, не попала на первые полосы газет."
+line-191,？？？,虽然大部分媒体都还是我们的合作伙伴，但压下这些东西还是要花不少钱的，他们可不会放过这个要钱的好机会。,"Though the media are still our valued partners, suppressing these kinds of things costs a lot of money. And let me tell you, they don't pass up on these juicy opportunities.","Хотя большинство СМИ — наши партнеры, на то, чтобы замять подобное, уходит уйма денег, а они не упустят возможности подзаработать."
+line-193,白金,......我会承担这些损失。,...I'll accept responsibility for these losses.,...Я возьму эти расходы на себя.
+line-195,？？？,你有这个自觉就好，虽然你根本承担不起太多次这样的失误。董事会给你的工资没那么高吧？,"Your self-awareness is commendable, but you can't afford to 'accept responsibility' for many more mistakes. After all, the Board of Directors only pays you so much, yes?","Хорошо, что ты это осознаешь, хотя ты вряд ли сможешь долго покрывать такие промахи. Совет директоров платит тебе не так уж и много, верно?"
+line-197,白金,抱歉。,Sorry.,Прошу прощения.
+line-199,？？？,哈，好啦，扮黑脸可不是我的强项。,Hah. Enough of that. Playing the villain isn't exactly my strong suit.,"Ха, ладно, играть роль плохого парня — не моя сильная сторона."
+line-200,？？？,我们还是好同事，对吧？,"We're still work partners, right?","Мы ведь всё еще хорошие коллеги, да?"
+line-202,白金,如果您这么认为的话，那我们就是，罗伊阁下。,"If you think so, then so it must be, Lord Roy.","Если вы так считаете, то да, господин Рой."
+line-208,罗伊,啧啧啧，这么喊就生疏了不是？“白金”欣特莱雅......你看，被喊到名字的时候总会觉得很难受吧？还是用昵称吧，小天马。,"Tisk tisk. When you call me that, doesn't it seem like we're strangers? 'Platinum' Centaurea... See, doesn't hearing that make you feel uncomfortable? Why don't we go with a nickname instead, my little pegasus?","Ц-ц-ц, так официально звучит, как будто мы чужие. «Платина» Хинтерайя... Видишь, когда называют твое имя, тебе всегда не по себе. Давай лучше по никнейму, маленькая лошадка."
+line-210,白金,卡西米尔的天马有很多。,Kazimierz has many pegasi.,В Казимире много лошадок.
+line-212,罗伊,你知道我是在喊你就成......对了，还有件事，不过这是件小事了。,"It's fine as long as you know I'm referring to you... Oh, right. There's just one more thing, though it's not a very big deal.","Главное, что ты понимаешь, что я обращаюсь к тебе... Кстати, есть еще кое-что, но это мелочь."
+line-214,白金,从您嘴里说出来，我都不敢当小事。,"If you're talking about it, there's no way I can treat it as anything less than a big deal.",После ваших слов я боюсь считать это мелочью.
+line-216,罗伊,那你怕是对我有些误解，我愿意说给你听的基本都是小事，大事嘛......啊哈。,"Then it appears that you misunderstand me. I'm willing to talk to you about all sorts of things, from small talk to important matters... Haha.","Тогда ты меня превратно понимаешь. То, что я готов тебе рассказать, обычно мелочи. А что до важных дел... Аха."
+line-217,罗伊,嗯。听说你放了瑟奇亚克的小儿子一命？,Mm. I heard you spared the life of Szewczyk's runt?,"М-м. Слышал, ты сохранила жизнь младшему сыну Сёргияка?"
+line-219,白金,......恰尔内在那个时候已经被解除了职务，我没必要听他的话，去对一个孩子动手。,Czarny was already removed from his post at that time. I wasn't in the mood to listen to him and kill a kid.,"...Чарне в тот момент был уже отстранен от должности, мне не нужно было слушать его и поднимать руку на ребенка."
+line-221,罗伊,喔，挺直白，没事。,"Ah, so frank. That's fine.","О, прямолинейно. Ничего страшного."
+line-222,罗伊,虽然恰尔内也是个可怜人，不过麻烦的不是这件事......简单来说，瑟奇亚克失踪了。,"Though I also feel bad for Czarny, that isn't the real issue here... Put simply, Szewczyk has gone missing.","Хотя Чарне тоже жаль, но проблема не в этом... Проще говоря, Сёргияк пропал."
+line-223,罗伊,塑料骑士并不是什么名门望族，只是在骑士竞技中后来居上的典型......,Plastic Knight does not come from an esteemed lineage. He's just another tournament upstart.,"Пластиковый рыцарь не был представителем знатного рода, это классический пример рыцаря, добившегося успеха в турнирах..."
+line-224,罗伊,虽然本来就没打算下死手，但他也是呼啸守卫的财产，被其他人捷足先登也不是什么好事。我们会收到联合会的投诉的。,"Though we didn't have any plans to remove him from the picture, he is the property of the Roar Guards Co., and it never bodes well to let someone else take the initiative. We'll definitely get complaints from the K.G.C.C.","Хотя мы и не собирались его убивать, он всё же был собственностью «Ревущих стражей», и то, что его кто-то увел раньше нас, не к добру. Федерация направит нам жалобу."
+line-226,白金,查到是谁干的了吗？,Did you find out who did it?,"Выяснили, кто это сделал?"
+line-228,罗伊,感染者。,The Infected.,Зараженные.
+line-230,白金,......我不明白，不过是几个感染者骑士，怎么能做到这个地步？,I don't understand. How could a few Infected knights accomplish all this?,"...Не понимаю, как несколько рыцарей-зараженных смогли добиться такого результата?"
+line-232,罗伊,谁知道呢，小白金，这正是我们要去弄清楚的事情啊。,"Who knows, little Platinum? That's exactly what we're trying to figure out right now.","Кто знает, маленькая Платина, именно это нам и предстоит выяснить."
+line-233,罗伊,不过有一点你可别弄错了。,But there's one thing you shouldn't misunderstand.,Но в одном не ошибись.
+line-235,白金,还请明示。,Oh do please illuminate me.,"Прошу, объясните."
+line-237,罗伊,现在我们要面对的，是全卡瓦莱利亚基的感染者，不是“区区几个”。,"What we face... is not just a few meager Infected, but rather all the Infected of Kawalerielki.","Сейчас нам противостоят все зараженные Кавалерини, а не «всего лишь несколько человек»."
+line-238,罗伊,梅什科工业已经交付了八个新地块，零号地块的作用很快就要发挥起来。,Mieszko Industries just delivered eight new plates. The purpose of the plate called Area 0 will soon be brought to light.,"«Мешко Индастриз» уже сдала восемь новых секторов, сектор Ноль скоро заработает в полную силу."
+line-239,罗伊,我说过吧？我们会忙起来的。,"I've mentioned this before, right? We're going to be real busy.",Я ведь говорил? У нас будет полно работы.
+line-241,白金,明白了。,I understand.,Поняла.
+line-243,罗伊,......嗯嗯，明白就好。咳咳。嗯......,"Good, as long as you understand. *cough* *cough* Hmm...","...М-м, хорошо, что поняла. Кхе-кхе. М-м..."
+line-245,白金,......,......,...
+line-247,罗伊,嘶......今天真热啊，你感觉不到吗，不用戴头盔真是幸福啊......,"*hiss*... It's too damn hot today, don't you think? How nice it must be to not have to wear a helm...",С-с... Сегодня так жарко. Не чувствуешь? Счастье — не носить шлем...
+line-249,白金,......？,.......?,...?
+line-251,罗伊,欸，你都看不出我有什么变化？,"Hm, you can't see what's different about me?","Эй, ты даже не заметила никаких изменений во мне?"
+line-253,白金,......啊。,Oh.,...А.
+line-254,白金,您染了头发？,You dyed your hair?,Вы покрасили волосы?
+line-256,罗伊,包括尾巴，全套染色喔，怎么样？适合不？,"Everything, including my tail. What do you think? Looks good, huh?","И хвост тоже, всё полностью покрасил. Как тебе? Идет?"
+line-258,白金,很合适您。,"Yes, it suits you well.",Вам очень идет.
+line-260,罗伊,你一副不耐烦的表情是要怎样。,What's the meaning of that annoyed look in your eyes?,Что за недовольное выражение лица?
+line-262,白金,这是您的私人问题，我想我不需要过问吧？,"Don't think I have to answer personal questions, do I?","Это ваше личное дело, мне не нужно вмешиваться, верно?"
+line-264,罗伊,但是你看嘛，你是“白金大位”，一头白发，白衣白袍。莫妮克又是维多利亚人，天生蓝发，穿上一身青金制服，合适得不得了。,"But you see, you hold the title of 'Platinum.' White hair, clad in pure white. Monique is Victorian, natural blue hair, lazurite attire. An absolutely perfect fit.","Ну посмотри сама: ты — «Платина», белоснежные волосы, белая одежда, белое облачение. Моник — викторианка, природная брюнетка, в форме «Алого золота» смотрится просто идеально."
+line-265,罗伊,就我黑乎乎的，站在莫妮克旁边像个扫厕所的，好像就我不合群。,"But look at me, all dark and drab. Standing next to Monique, I'm so out of place, like I'm a janitor or something.","Только я, черный как уголь, рядом с ней выгляжу как уборщик туалетов, совсем не вписываюсь."
+line-266,罗伊,所以出于企业形象考虑，我也去染了个色，啊哈。,"So out of consideration for our public image, I also decided on a color for myself, heh.","Поэтому, заботясь об имидже компании, я тоже покрасился, аха."
+line-268,白金,......您......,...You...,...Вы...
+line-270,罗伊,嗯？,Hm?,М?
+line-272,白金,您高兴就好。,As long as you're happy.,"Главное, что вы довольны."
+line-280,,"1:22 P.M.  天气/晴     ","1:22 P.M. \ Clear     ",13:22. Погода: ясно.
+line-281,,大骑士领卡瓦莱利亚基，城区夹缝，感染者聚集区,"The Grand Knight Territory Kawalerielki – Urban Crevices, Infected Gathering","Великий рыцарский город Кавалерини, щель между районами, зона скопления зараженных."
+line-286,索娜,......我回来了！,I'm back!,...Я вернулась!
+line-290,查丝汀娜,......花了很久，索娜。,"Took you a while, Sona.","...Заняло много времени, Шона."
+line-292,索娜,哎呀，遇到了一些事情嘛。,Rude. Some stuff happened along the way.,"Ой, кое-что случилось, вот и задержалась."
+line-294,查丝汀娜,......,......,...
+line-295,查丝汀娜,我听灰毫说了，先前那场“工业事故”，是耀骑士帮了你？,"Ashlock's mentioned it before. Back then, during that 'Industrial Incident,' was it the Radiant Knight that helped you?","Я слышала от Грейхолл, в том «промышленном инциденте» тебе помог Сияющий рыцарь?"
+line-297,索娜,啊哈哈，这就是名人效应吗，怎么感觉大家都知道了......,Ahaha... Is this the celebrity effect? Feels like everyone already knows...,"А-ха-ха, это и есть эффект знаменитости? Почему такое чувство, что все уже знают..."
+line-299,查丝汀娜,她......,She...,Она...
+line-301,查丝汀娜,她是个怎么样的人？,What kind of person is she?,Какой она человек?
+line-303,索娜,唔，这可真稀奇，原来你也会有好奇别人的时候。,"Oh, that's adorable. I thought you weren't interested in gossip.","Оу, это редкость, оказывается, тебе тоже стало любопытно."
+line-305,查丝汀娜,......家乡。,My hometown...,...Родина.
+line-306,查丝汀娜,在我的老家，有一座竞技场。,"Back home, there's an arena.",На моей родине была арена.
+line-307,查丝汀娜,那个小竞技场里没什么比赛，只是跟风建造的狭小竞技场。,"There were never any tournaments in that small arena. It was just built because that's what you do, you have an arena in a town.","На той маленькой арене не проходило никаких соревнований, она была построена просто из подражания."
+line-308,查丝汀娜,我在那时......开始憧憬骑士，也在那里听着耀骑士的传说长大。,But back then... was when I started to look up to the knights. It was also where I grew up hearing legends of the Radiant Knight.,"Именно тогда я... начала мечтать о рыцарях, и там же выросла, слушая легенды о Сияющем рыцаре."
+line-309,查丝汀娜,好几年前了。,It's been many years.,Прошло уже немало лет.
+line-311,索娜,真的？你可没跟我们说过。,Really? You never mentioned that before.,Правда? Ты никогда нам этого не рассказывала.
+line-313,查丝汀娜,那你有告诉过我你小时候是个什么样的人吗？,And when did you tell me about what you were like as a kid?,"А ты рассказывала, каким человеком ты была в детстве?"
+line-315,索娜,唔！有道理，那以后我们多聊聊过去？,Fair. Maybe that is something we should talk about later.,Оу! Логично. Тогда давай будем больше болтать о прошлом?
+line-317,查丝汀娜,......那么远的路。,It was a long road.,...Такой долгий путь.
+line-318,查丝汀娜,我走了那么远的路来到大骑士领，可不是为了再去追忆故乡的。,The road to the Grand Knight Territory was so very long. I didn't come all the way here to reminisce about my old home.,"Я проделала такой долгий путь в Великий рыцарский город не для того, чтобы предаваться воспоминаниям о родном доме."
+line-320,索娜,不必这么严肃吧，就聊聊天嘛。,"We're just chatting, alright? No need to be so uptight.","Не будь такой серьезной, просто поболтаем."
+line-322,查丝汀娜,聊天......嗯。,"Just chatting, huh...",Поболтаем... Хм.
+line-323,查丝汀娜,等我们可以正大光明地坐在甜品店里的那天，我们可以聊一个下午，叫上灰毫和野鬃，一下午。,"When the day comes that we can sit around a patisserie with nothing to fear, we can grab Ashlock and Wild Mane and chat the afternoon away.","В тот день, когда мы сможем открыто сидеть в кафе с десертами, мы сможем проболтать хоть целый вечер, позовем Грейхолл и Уайлдмен, целый вечер."
+line-325,索娜,......好主意。,Good idea.,...Отличная идея.
+line-327,查丝汀娜,那么......她是个怎么样的人？,So... What kind of person is she?,Так... какой она человек?
+line-329,索娜,关于这个嘛，其实，嗯，我们就打了个照面。我连她有没有看清我的脸都不知道，情况突然嘛。,"Well... To be honest, ermm, we only made eye contact. I have no idea if she even saw my face, busy as we were.","Насчет этого, на самом деле, эм, мы просто мельком встретились. Я даже не знаю, рассмотрела ли она мое лицо, ситуация была внезапной."
+line-331,查丝汀娜,......,......,...
+line-334,索娜,别、别这么失望呀，我也不能在无胄盟杀手的面前和我们的冠军选手聊天吧？,"H-Hey, don't look so down! It's not like I could just strike it up with the champion in front of the Armorless assassins.","Не, не разочаровывайся так, я же не могла болтать с нашим чемпионом перед лицом наемных убийц Безмолвной лиги?"
+line-336,索娜,不过，她还是救了我这么一个感染者，哪怕明知道有人在盯着她。,"But, she still rescued an Infected like me, even with eyes on her.","Но она всё равно спасла меня, зараженную, даже зная, что за ней следят."
+line-338,查丝汀娜,......嗯。,Hmm...,...Хм.
+line-340,查丝汀娜,也许她真的是那个耀骑士。那些......那些感染者们想象出来的耀骑士。,Maybe she really is the Radiant Knight. The very same... as the Infected dream about.,"Возможно, она действительно та самая Сияющая рыцарь. Те самые... те Сияющие рыцари, которых нафантазировали себе зараженные."
+line-342,索娜,这是什么话——别说这个了，你救下的那位可怜人怎么样了？那个老父亲？,"The what now–– Eh, whatever. How about the poor guy you rescued? The old one?","Что за слова такие — не говори так. Кстати, как тот бедняга, которого ты спасла? Тот отец?"
+line-344,查丝汀娜,他——,He...,Он...
+line-346,？？？,你问我怎么样？,You asking about me?,"Ты спрашиваешь, как я?"
+line-352,塑料骑士,......箭在弦上，感染者。,"My arrow's nocked, Infected.","...Стрела уже на тетиве, зараженная."
+line-353,塑料骑士,我要让那帮低贱的凶手付出代价。,You'll help me make those lowlife assassins pay the price.,Я заставлю тех подлых убийц заплатить.
+line-360,年长的骑士,阿米娅女士，还有罗德岛的博士，请进吧，这里就是各位的住房。,"Amiya, and the Doctor of Rhodes Island, please come in. Treat this place as your own home.","Леди Амия и доктор с острова Родос, входите, здесь ваше жилье."
+line-361,年长的骑士,二位的套房在楼上，参与医疗项目的各位医生则在十二层休息。,Your rooms are upstairs. The doctors are working up on the twelfth floor.,"Ваши апартаменты на верхнем этаже, а врачи, участвующие в медицинских проектах, отдыхают на двенадцатом."
+line-365,阿米娅,谢谢您，阁下。,"Thank you, kind sir.","Благодарю вас, сэр."
+line-367,年长的骑士,呵呵......不用这么拘谨，阿米娅女士。,"Haha... There's no need to be so formal, Miss Amiya.","Ха-ха... Не будьте такой скованной, леди Амия."
+line-369,年长的骑士,没想到罗德岛的领导人，会是这么一位年轻可爱的卡特斯姑娘，真是年轻有为。,"I never expected the leader of Rhodes Island to be such a lovely, young Cautus girl. Ah, to be young and full of promise.","Не ожидал, что лидер «Родоса» окажется такой молодой и милой девушкой-картсом. Вы очень талантливы для своего возраста."
+line-371,阿米娅,没、没有的事......,Th-There's nothing special about me...,"Н-нет, что вы..."
+line-373,,罗德岛确实离不开阿米娅。;阿米娅一直很努力。,"It's true, Amiya is the face of Rhodes Island.;Amiya's always making things happen.",Родосу действительно не обойтись без Амии. Амия всегда очень старается.
+line-377,阿米娅,博、博士......,D-Doctor...,До... доктор...
+line-379,年长的骑士,哈哈，害羞了？,"Haha, are you embarrassed?","Ха-ха, застеснялись?"
+line-380,年长的骑士,多可爱的孩子，如果我有个孙女，也差不多你这般大吧。,"What an adorable girl. If I had a granddaughter, I reckon she'd be about your age.","Какой милый ребенок, будь у меня внучка, она была бы примерно вашего возраста."
+line-382,阿米娅,啊......,Oh...,А...
+line-384,年长的骑士,哎呀哎呀，脸都红了。,"My my, her face is beet red.","Ой-ой, вы вся покраснели."
+line-386,年长的骑士,不过，还是很抱歉，考虑到各位的特殊身份，我们没法安排统一的会面。,"But, I must apologize. Considering your unique status, I can't arrange an in-person meeting for you two.","Однако, прошу прощения, учитывая ваш особый статус, мы не можем организовать общую встречу."
+line-388,阿米娅,嗯......没关系的，我们能理解。,"Mhm... Don't worry, that's perfectly understandable.","Хм... ничего страшного, мы всё понимаем."
+line-390,年长的骑士,所以......“砾”。,So... 'Gravel.',Поэтому... «Грэвел».
+line-394,塞诺蜜,请吩咐。,Your orders.,Слушаю ваши приказания.
+line-396,年长的骑士,这位是四阶征战骑士，叫她“砾”吧，也是一位年轻有为的青年骑士......,This young lady here is a fourth-order campaign knight. You can call her 'Gravel.' She's very promising.,"Это рыцарь четвертого ранга, называйте её «Грэвел», тоже перспективный молодой рыцарь..."
+line-398,砾,......您好。,Hello.,...Здравствуйте.
+line-400,年长的骑士,她会负责二位在卡瓦莱利亚基的人身安全，有什么事情，交给她就好。,"She will personally take charge of your safety while you are in Kawalerielki. Should you need anything, just let her know, and she will be of service.","Она будет отвечать за личную безопасность вас двоих в Кавалерини. Если что-то нужно, обращайтесь к ней."
+line-401,年长的骑士,我们可不能让各国的来宾贵族，以及贵司这样优秀的合作伙伴在特锦赛期间蒙受损失。,"We cannot allow any misfortune to befall our distinguished guests from abroad, not to mention such excellent partners as yourselves, during the Major.","Мы не можем допустить, чтобы гости и аристократы других стран, а также такие отличные партнеры, как ваша компания, понесли потери во время спецчемпионата."
+line-403,阿米娅,我们理解，阁下。,"We understand, sir.","Мы всё понимаем, сэр."
+line-405,年长的骑士,感谢二位，那我也不打搅诸位休息了，就把时间留给年轻人吧。,"Thank you for your understanding. I've prattled on for long enough, so I'll leave you young people to your business.","Благодарю вас, не буду мешать вашему отдыху, оставлю вас наедине."
+line-407,年长的骑士,砾，保护好罗德岛的各位职员。,"Gravel, please take good care of the Rhodes Islanders.","Грэвел, защищай сотрудников «Родоса»."
+line-409,砾,遵命。,As you wish.,Слушаюсь.
+line-415,砾,那么......我就在门外，有什么事的话，请随时吩咐。,"Now then... I'll be standing outside the door. If something comes up, just call for me.","Тогда... я буду за дверью. Если что-то понадобится, обращайтесь в любое время."
+line-417,阿米娅,好的，唔，砾小姐。,"Right, okay. Thanks, Gravel.","Хорошо, м-м, госпожа Грэвел."
+line-419,砾,......,......,...
+line-421,,阿米娅阿米娅，她是不是在盯着你？;......;请问您还有什么事吗？,"Amiya. Hey, Amiya. Is she staring at you?;......;Excuse me, but did you need something?","Амия, Амия, она что, пялится на тебя? ... Прошу прощения, есть ли у вас еще какие-то дела?"
+line-424,砾,有一件事......我能靠近您一些吗？对，就像这样，好。,"There is one thing... Do you mind if I come a little closer? Yes, just like this, good.","Есть одна просьба... Можно мне подойти ближе? Да, именно так, хорошо."
+line-426,砾,......啾——,......Mmwah.,...Чмок—
+line-429,阿米娅,——！？,—?!,—!?
+line-431,砾,嗯？怎么脸红了？这只是初见的问候，可没什么其他的意思哦。,"Hm? What's wrong? Your face is beet red. That's just how I say hello, so don't think too much about it.","М? А чего покраснели? Это всего лишь приветствие при первой встрече, ничего такого не имела в виду."
+line-433,砾,那么，卡西米尔骑士砾，就请您多有包涵啦，嘻嘻。,"Anyway, I'm Gravel, a knight of Kazimierz. It's a pleasure. Hehehe.","Ну, рыцарь Казимира Грэвел в вашем распоряжении, прошу любить и жаловать, хи-хи."
+line-440,阿米娅,......,......,...
+line-441,阿米娅,刚......刚才......,What... What was that all about...?,То... только что...
+line-443,,“这只是初见的问候”，是这么说的。;......;卡西米尔人打招呼的方式真是奇特......,She said it's how she greets everyone.;......;They have a rather interesting way of greeting people here in Kazimierz.,"«Это всего лишь приветствие при первой встрече», так она сказала. ... Способ приветствия у казимирцев такой своеобразный..."
+line-446,阿米娅,咳咳，听说亲吻礼确实是一些贵族之间打招呼的方式......既、既然是骑士的话......,"Err, umm... I have heard that sometimes nobles will indeed greet each other with a kiss... And, umm, seeing as how she's a knight...","Кхе-кхе, слышала, поцелуй действительно является способом приветствия среди некоторых аристократов... Р-раз она рыцарь..."
+line-447,阿米娅,应该确实是这个意思吧......？应该......,"That's probably all she meant with it, right? Probably...","Наверное, именно это она и имела в виду...? Наверное..."
+line-448,阿米娅,......呼......,...Haah...,...Фух...
+line-450,,很紧张吗？;......;终于结束了。,"You're pretty nervous, huh?;......;I guess that's that.",Сильно нервничаешь? ... Наконец-то всё закончилось.
+line-453,阿米娅,啊......确实有一点紧张。,Yeah... I guess I have been a bit nervous.,"А... да, немного нервничаю."
+line-455,阿米娅,不过比起一开始见到的几位监正会骑士，那位老奶奶已经慈祥很多啦。,"But, that old lady seemed a lot more easygoing than the other Adeptus knights we met earlier.","Но по сравнению с теми рыцарями из Совета надзора, которых мы видели вначале, эта пожилая леди была намного доброжелательнее."
+line-459,阿米娅,......博士？博士累了吗？,"How about you, Doctor? Are you tired?",...Доктор? Доктор устал?
+line-460,阿米娅,也是啦，抵达卡西米尔之后，好像就一直在应付那些合同啊，礼节之类的。,Of course you are. We've been tied up with business and all kinds of formalities since we got to Kazimierz.,"Впрочем, да, с момента прибытия в Казимир мы, кажется, только и делаем, что разбираемся с контрактами и протоколами."
+line-461,阿米娅,趁现在喘口气吧，博士。,At least you can catch your breath now.,"Пользуясь случаем, передохните, Доктор."
+line-465,阿米娅,啊哈哈......博士也松了一口气吗？,"Ahaha.... Doctor, were you able to take a breather as well?",А-ха-ха... Доктор тоже вздохнул с облегчением?
+line-467,阿米娅,如果负责联合医疗任务的，都是刚才那位老奶奶那样通情达理的骑士就好了。,It would be nice if all the people in charge of the medical mission were as reasonable as that old lady.,"Было бы здорово, если бы все рыцари, отвечающие за совместные медицинские задачи, были такими же понимающими, как та леди."
+line-471,阿米娅,不过，这也是难得的机会。,"But, this is a rare opportunity for us.",Но это всё же редкая возможность.
+line-472,阿米娅,听说卡西米尔的大骑士领，每隔数年会从发展迅速的移动城邦中选出三座，与大骑士领核心城合并。,"It's said that every few years, the Grand Knight Territory will select a few of the most rapidly developing cities to merge with its own core city.","Говорят, Великий рыцарский город Казимира каждые несколько лет выбирает три быстро развивающихся мобильных города и объединяет их со своим центральным ядром."
+line-473,阿米娅,这样想来，真是让人惊叹的壮举。,"It's a remarkable feat, if you think about it.","Если подумать, это поразительное достижение."
+line-475,,外面的广告灯可真亮啊。;我曾以为这里会是一座更严肃庄重的城市。,The lights from the billboards outside sure are bright.;I always expected this city to be a lot more solemn.,"Огни рекламных щитов снаружи такие яркие. Я когда-то думал, что это будет более серьезный и солидный город."
+line-478,阿米娅,啊......我也有点意外。,Mm... It's been a bit of a shock for me as well.,А... я тоже немного удивлена.
+line-480,阿米娅,虽然......一直有听临光小姐谈论她的家乡，不过没想到卡西米尔的中心居然会是这样的风貌。,"Even though... I've always heard Nearl talk about her homeland, I never expected the heart of Kazimierz to be like this.","Хотя... я часто слышала от госпожи Ниарл, как она отзывалась о своей родине, но не ожидала, что центр Казимира будет выглядеть именно так."
+line-482,阿米娅,......,......,...
+line-484,,想出去逛逛吗？;有什么想买的？,Want to take a look around?;Is there anything you'd like to buy?,Хочешь прогуляться? Что-то хочешь купить?
+line-487,阿米娅,欸！？没、没有，我只是很少造访这么繁华的城市而已。,"Hwuh? Ah, um, n-not really... I just don't get to visit big cities like this very often.","А!? Н-нет, я просто редко посещала такие процветающие города."
+line-489,阿米娅,毕竟，感染者像这样住在繁华都市的高层酒店里，其实是非常罕见的一件事情......,"After all, how many Infected get to look out over a thriving city from atop a high-rise hotel...","В конце концов, чтобы зараженные жили в дорогом отеле в таком мегаполисе — это довольно редкое событие..."
+line-491,阿米娅,如果不是罗德岛成功拿下了医疗业务合同，恐怕我们不会受到这样的礼遇吧。,"If Rhodes Island didn't manage to secure a medical business contract, we'd never get to enjoy this luxury.","Если бы «Родос» не выиграл этот контракт на медицинские услуги, боюсь, мы бы не удостоились такого приема."
+line-493,阿米娅,就是......,The only thing is...,Просто...
+line-494,阿米娅,不知道临光小姐......她现在怎么样了呢。,I can't stop wondering about Nearl... and how she's doing right now.,"Не знаю, как там сейчас госпожа Ниарл..."
+line-496,,突然提出要离开罗德岛的时候，吓了人一跳。;......;她可是耀骑士，这里才是她的地盘。,"I was shocked when she suddenly announced that she was leaving Rhodes Island.;......;She is the Radiant Knight after all, and this is her home.","Когда она внезапно решила покинуть «Родос», это всех напугало. ... Она ведь Сияющий рыцарь, это её вотчина."
+line-499,阿米娅,......嗯。,Mhm...,...Да.
+line-501,阿米娅,但是我们应该相信临光小姐，这是她的判断。,"Ultimately, we should trust her. This is her decision to make.","Но мы должны доверять госпоже Ниарл, это было её решение."
+line-503,阿米娅,我只希望她能够平安无事......,I just hope she's safe and sound...,"Я просто надеюсь, что она в безопасности..."
+line-507,阿米娅,可既然闪灵小姐和夜莺小姐也陪在她身边，应该......没什么问题吧？,"But, since Shining and Nightingale are with her, she'll be fine, right?","Но так как госпожа Шайнинг и госпожа Найтингейл рядом с ней, то... проблем быть не должно?"
+line-511,阿米娅,......嗯！我们应该信任临光小姐。,Yup! Let's put our faith in Nearl.,...Да! Мы должны доверять госпоже Ниарл.
+line-512,阿米娅,她可是耀骑士——是卡西米尔骑士的顶峰之一，对吧？,"After all, she is the Radiant Knight—a pinnacle of Kazimierz knighthood, right?","Она ведь Сияющий рыцарь — одна из вершин рыцарства Казимира, верно?"
+line-517,阿米娅,啊......！博士，快看外面的大屏幕。,"Oh, Doctor! Quick, look at that big screen outside!","А...! Доктор, скорее посмотрите на экран снаружи."
+line-518,阿米娅,那、那是临光小姐吗？,Is that... Nearl?,Э-это госпожа Ниарл?
+line-527,玛莉娅,姐姐，完成了！,"Margaret, I'm done!","Сестренка, готово!"
+line-528,玛莉娅,根据你上次说的意见，调整了武器重心，做了伸缩的功能，这样的话应该......,"Based on the suggestions you made last time, I adjusted the center of mass and added a retracting function. Now, it should be able to...","Согласно вашим последним советам, я отрегулировала центр тяжести оружия, добавила функцию выдвижения, так что теперь должно..."
+line-529,玛莉娅,......姐姐？,...Margaret?,...Сестренка?
+line-531,玛嘉烈,......,......,...
+line-533,玛莉娅,你在想什么？,What's on your mind?,О чем ты думаешь?
+line-535,玛嘉烈,啊，玛莉娅......抱歉，你刚才说什么？,"Oh, Maria... Sorry, what were you talking about?","А, Мария... извини, что ты сказала?"
+line-537,玛莉娅,姐姐发呆的样子可不多见，怎么啦？,You don't usually space out like that. What's wrong?,"Нечасто увидишь сестренку такой задумчивой, что случилось?"
+line-539,玛嘉烈,......虽然在罗德岛的时候，我也有听说过一些传闻。,I heard some of the rumors while I was at Rhodes Island...,"...Хотя я была на «Родосе», я слышала некоторые слухи."
+line-540,玛嘉烈,但这里......真的变了很多。,But this place... really has changed a whole lot.,Но здесь... всё действительно сильно изменилось.
+line-542,玛莉娅,嗯......家具都卖掉不少啦。,Yeah... We've sold off a lot of the furniture.,М-м... много мебели уже распродали.
+line-544,玛莉娅,虽然叔叔是那副态度，但如果不是他的话，可能我们去年就已经从这座宅子里搬出去了。,"You know Uncle. Were it not for him, we might've moved somewhere else last year.","Хотя дядя ведет себя так, если бы не он, мы могли бы съехать из этого дома еще в прошлом году."
+line-545,玛莉娅,昨天，骑士协会的人又来催促了......不管是我还是姐姐，我们要么代表某支骑士团，要么代表家族出战，否则......,"Yesterday, someone from the Knights Association came by again to harass us. Both you and I, we're always representing some knightclub, or the family. Otherwise...","Вчера люди из Ассоциации рыцарей снова приходили давить на нас... и я, и сестренка должны либо представлять какой-то орден, либо выступать от лица семьи, иначе..."
+line-547,玛嘉烈,......没关系，我会解决的。,Don't worry. I'll take care of it.,"...Ничего, я решу это."
+line-549,玛莉娅,嘿嘿，这才是姐姐嘛。,"Hehe, now that's how a big sister should be.","Хе-хе, вот это сестренка."
+line-550,玛莉娅,啊，对了，这是姐姐的武器，我和科瓦尔师傅已经调整过了。,"Oh, right, here's your weapon. Master Kowal and I tuned it up for you.","А, кстати, это ваше оружие, мастер Ковар и я его отрегулировали."
+line-551,玛莉娅,不过，这几天应该没有姐姐的比赛吧？为什么磨损得这么严重......？就好像被爆破物袭击过一样......,"But, you haven't had any matches lately, right? How'd it get worn out so badly? It's like a bomb went off next to it.",Но ведь в эти дни у вас вроде бы не было боев? Почему же оно так сильно изношено...? Словно его атаковали взрывчаткой...
+line-553,玛嘉烈,我从来都没有想过，大骑士领，居然会有这么多的感染者。,I never realized it before. The sheer number of Infected living in the Grand Knight Territory.,"Я никогда не думала, что в Великом рыцарском городе столько зараженных."
+line-555,玛莉娅,......姐姐？,...Margaret?,...Сестренка?
+line-558,,玛嘉烈无声地望向远方，高楼广厦。,Margaret gazes wordlessly at the skyscrapers in the distance.,"Маргарет безмолвно смотрела вдаль, на высокие здания и просторные особняки."
+line-559,,但她无法遗忘被垃圾倒满的那些阴暗地下，闪烁的火光。,"She can't forget the dark, garbage-choked underground, or the flickering glow of flames.","Но она не могла забыть те мрачные подземелья, полные мусора и мерцающих огней."
+line-561,玛嘉烈,......现在感染者也能成为骑士了，血骑士确实是个了不起的人，只看结果的话，他让很多感染者免遭厄运。,"Now, the Infected can become knights. The Blood Knight did something incredible. Judging by the results, he saved many Infected from misfortune.","...Сейчас зараженные тоже могут стать рыцарями. Кровавый рыцарь действительно выдающийся человек. Если судить только по результатам, он избавил многих зараженных от беды."
+line-563,玛嘉烈,但“骑士”不该是这样的，感染者，也不该因为身患疾病，就这么卑微地被当做玩物。,"But, this is not what a 'knight' should be. The Infected should not be callously treated as playthings just because they suffer from a disease.",Но «рыцарь» не должен быть таким. И зараженные не должны быть настолько ничтожными игрушками только из-за болезни.
+line-565,玛莉娅,......,......,...
+line-579,玛莉娅,索娜也许......只是想帮助那些感染者而已。,Sona... might've just wanted to help those Infected as well.,"Шона, возможно... просто хотела помочь тем зараженным."
+line-581,玛莉娅,工厂在运作，矿洞也没有停止过开采，城市在发展，底层的感染者就会愈来愈多......,"The factory is running, the mines haven't stopped. The city is still developing, and more and more Infected will end up at the bottom.","Заводы работают, шахты не прекращают добычу, город развивается, а зараженных на дне становится всё больше..."
+line-582,玛莉娅,本来，他们都会被流放到荒野上......但红松骑士团出钱买下了他们。买下了那些无家可归的感染者。,They were all going to be exiled into the wilderness... but Pinus Sylvestris paid for them. Bought all those Infected with no home of their own.,Изначально их всех должны были выслать в пустыню... но Рыцари красной сосны заплатили и выкупили их. Выкупили тех бездомных зараженных.
+line-583,玛莉娅,科瓦尔师傅是这么和我说的......,That's what Master Kowal told me.,Мастер Ковар так мне говорил...
+line-585,玛嘉烈,只是这样并不能改变什么，他们在这座城市并没有容身之所。,"Except, that doesn't change anything. They still don't have a place in this city.","Только это ничего не изменит, им нет места в этом городе."
+line-587,玛莉娅,嗯......类似的事，以前也会有一些感染者骑士偷偷去做，但商业联合会不会允许那么多感染者贫民躲藏在城市之中。,"Right... some Infected knights have done similar things before, but there's a limit to how many of the Infected poor the General Chamber of Commerce will allow to hide in the city.","М-м... нечто подобное и раньше случалось, некоторые рыцари-зараженные тайком этим занимались, но Бизнес-федерация не допустила бы, чтобы так много зараженных бедняков скрывалось в городе."
+line-589,玛嘉烈,......监正会就会允许吗？,...and the Adeptus Sprawiedliwi Kazimierz will?,...А Совет надзора допустит?
+line-590,玛嘉烈,那些执政贵族更不乐意看着感染者光明正大地游走在他们的城市中，他们也会采取某些手段的。,"The ruling class is even more reluctant to watch the Infected walk openly in their city, and they'll also take measures.","Этим правящим аристократам еще меньше нравится видеть, как зараженные открыто разгуливают по их городу, они тоже примут меры."
+line-592,玛莉娅,最近电视里总是出现一些感染者的新闻，还有矿石病相关的研究会议......,"All the news talks about lately is the Infected, and Oripathy research conferences...","Недавно по телевизору постоянно крутят новости о зараженных, и конференции по исследованиям Орипатии..."
+line-594,玛嘉烈,他们在散播恐慌。,They're whipping up hysteria.,Они сеют панику.
+line-595,玛嘉烈,媒体想用这种形式，让普通民众对感染者感到恐惧，哪怕这会让感染者骑士法案起到的维稳作用再度失效——,"They media's trying to make ordinary people fear the Infected, even if it threatens to undo the stabilizing effect that the Infected Knights Act has had––","СМИ хотят использовать этот метод, чтобы вызвать у простых граждан страх перед зараженными, даже если это сведет на нет стабилизирующий эффект закона о рыцарях-зараженных—"
+line-597,玛嘉烈,——而且，可怕之处在于，这套媒体说辞......几乎必定得逞。,"––and the scary part is, this kind of rhetoric from the media... almost always succeeds.","—и, что самое страшное, эта риторика СМИ... почти наверняка сработает."
+line-605,玛恩纳,......,......,...
+line-609,？？？,别总是愁眉苦脸的，钱可不会掉进阴郁的口袋里。,Don't always look so glum. No money falls into the pockets of the despondent.,"Не будь таким хмурым, деньги не упадут в печальный карман."
+line-610,？？？,耀骑士可是在做一件大好事，帮助那些躲藏在城市暗处的感染者，多么高尚——,"The Radiant Knight is answering a higher calling, helping out the Infected hidden throughout the dark alleys of the city. How noble––","Сияющий рыцарь делает доброе дело, помогая тем зараженным, что прячутся в тенях города, как благородно—"
+line-612,玛恩纳,然后呢。	,And then what? 	,И что дальше?
+line-613,玛恩纳,她能为他们提供生路吗？她能治疗矿石病吗？她能长久地帮助感染者对抗整个社会吗？,Can she give them their lives back? Can she treat their Oripathy? Can she help the Infected fight back against the rest of society?,Сможет ли она дать им путь к спасению? Сможет ли вылечить Орипатию? Сможет ли она долго помогать зараженным бороться против всего общества?
+line-615,？？？,说不准呢。,Who knows? Maybe she can.,Кто знает.
+line-617,玛恩纳,少说风凉话，托兰。,"Cut the crap, Toland.","Хватит болтать ерундой, Толан."
+line-618,玛恩纳,你没别的事情可做了吗？那就离开大骑士领，回你的匪窝去。,Do you have nothing better to do? Why don't you leave the Grand Knight Territory and crawl back to your den of thieves?,"У тебя нет других дел? Тогда убирайся из Великого рыцарского города, возвращайся в свое бандитское логово."
+line-622,托兰,现在姐妹俩安然无恙，就要赶我走了？,"Now that the two sisters are safe and sound, there's no more room for me here?","Теперь, когда сестры в безопасности, ты хочешь меня прогнать?"
+line-624,玛恩纳,报酬已经给过了。,You've already been paid back.,Оплата уже произведена.
+line-626,托兰,那点钱只是走个过场......你知道我们之间到底在用什么做筹码，玛恩纳老爷。,"That little bit of cash was just a formality. You know exactly the currency we deal in, Master Młynar.","Эти деньги — лишь формальность... Ты же знаешь, чем мы на самом деле расплачиваемся, господин Мланар."
+line-628,玛恩纳,......谁允许你踏入我的房间？,Who gave you permission to come in?,...Кто разрешил тебе войти в мою комнату?
+line-630,托兰,嗯哼，这块地毯还不错......莱塔尼亚的纺织品，明天就要拖走卖掉了吧？,"Mmhmm, this carpet isn't half bad.. The Leithanian textiles are being auctioned off tomorrow, yes?","М-м, этот ковер неплох... Текстиль из Лейтании, завтра его уже вывезут и продадут, да?"
+line-632,玛恩纳,与你无关。,That's none of your concern.,Это тебя не касается.
+line-634,托兰,那两个萨卡兹骑士的来历已经有些眉目了，作为同族，我可真怜悯这些“骑士”们的下场。,"The origins of those two Sarkaz knights certainly raise eyebrows. As a Sarkaz myself, I do pity the fate of those 'knights.'","Происхождение тех двух рыцарей-саказов уже прояснилось, как соплеменник, я искренне сочувствую участи этих «рыцарей»."
+line-635,托兰,不过我得提醒你，这已经不在我们谈好的生意范畴之内了......我的工作早就结束了。,"But I must remind you, this is no longer part of our business arrangement. My work here was done long ago.","Но я должен напомнить, что это уже выходит за рамки нашего договора... Моя работа давно закончена."
+line-636,托兰,难得来一趟卡瓦莱利亚基，我也有自己的目的。本来是想试试看能不能说服你——不过看来没戏。,"I had my own reasons for coming to Kawalerielki, since it's not something I do often. I wanted to see if we could come to a mutual understanding–– but it seems that isn't possible.","Нечасто выпадает случай посетить Кавалерини, у меня есть свои цели. Изначально хотел попробовать убедить тебя — но, похоже, без толку."
+line-638,玛恩纳,......,......,...
+line-640,托兰,哎，别露出这种表情，我们的关系不比从前啦，玛恩纳阁下。,"Now now, don't make that face. Our relationship is already much better than it was before, Your Excellency.","Эй, не делай такое лицо, наши отношения уже не те, что раньше, господин Мланар."
+line-642,托兰,我只是一介籍籍无名的赏金猎人，对于这座大骑士领而言，我什么都不是，而你呢——哦，哈，抱歉。,"After all, I'm just a no-name bounty hunter. To the Grand Knight Territory, I'm nothing at all. As for you–– Oh my, haha. Sorry.","Я — всего лишь безвестный охотник за головами. Для этого Великого рыцарского города я никто, а ты... о, ха, извини."
+line-644,托兰,你好像也什么都不是了，那我们可真是同病相怜啊。,It would seem that you're nothing as well. I guess that makes us two peas in the same sickly pod.,"Ты, кажется, тоже теперь никто. Что ж, мы в одной лодке."
+line-646,玛恩纳,......,......,...
+line-648,玛恩纳,............,............,............
