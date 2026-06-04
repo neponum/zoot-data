@@ -1,0 +1,567 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act30side
+__chapter__,,Chapter Name,activities/act30side/level_act30side_08_end,极限时速
+,,,,
+char-1,维多利亚士兵A,维多利亚士兵A,Victorian Soldier A,Викторианский солдат А
+char-2,维多利亚士兵B,维多利亚士兵B,Victorian Soldier B,Викторианский солдат B
+char-3,维多利亚士兵C,维多利亚士兵C,Victorian Soldier C,Викторианский солдат C
+char-4,锏,锏,Degenbrecher,Цзянь
+char-5,维多利亚士兵D,维多利亚士兵D,Victorian Soldier D,Викторианский солдат D
+char-6,维多利亚士兵,维多利亚士兵,Victorian Soldier,Викторианский солдат
+char-7,老练的士兵,老练的士兵,Seasoned Soldier,Опытный солдат
+char-8,哈洛德,哈洛德,Harold,Гарольд
+char-9,诺希斯,诺希斯,Gnosis,Нозис
+char-10,恩希欧迪斯,恩希欧迪斯,Enciodes,Энсиодис
+char-11,恩雅,恩雅,Enya,Энья
+char-12,角峰,角峰,Matterhorn,Маттерхорн
+char-13,魏斯,魏斯,Weiss,Вайс
+char-14,莫希,莫希,Monch,Моши
+char-15,阿克托斯,阿克托斯,Arctosz,Арктос
+char-16,菈塔托丝,菈塔托丝,Ratatos,Рататос
+char-17,维多利亚士兵E,维多利亚士兵E,Victorian Soldier E,Викторианский солдат E
+char-18,维多利亚士兵F,维多利亚士兵F,Victorian Soldier F,Викторианский солдат F
+char-19,列车员,列车员,Conductor,Проводник
+char-20,“灰礼帽”,“灰礼帽”,'Trilby Asher',«Серая шляпа»
+char-21,银铠甲的骑士,银铠甲的骑士,Silver-clad Knight,Рыцарь в серебряных доспехах
+char-22,西装男性,西装男性,Man In a Suit,Мужчина в деловом костюме
+char-23,？？？,？？？,???,???
+char-24,Sharp,Sharp,Sharp,Шарп
+char-25,缪尔赛思,缪尔赛思,Muelsyse,Мюэльсис
+char-26,烈夏,烈夏,Leto,Леша
+char-27,雅儿,雅儿,Kjarr,Яль
+char-28,尤卡坦,尤卡坦,Yucatan,Юкатан
+char-29,休露丝,休露丝,Sciurus,Шулюс
+char-30,征战骑士,征战骑士,Campaign Knight,Боевой рыцарь
+char-31,发言人莫布,发言人莫布,Spokesman Mob,Спикер Моб
+,,,,
+line-21,维多利亚士兵A,呃......,Erk...,Э-э...
+line-29,维多利亚士兵B,咳！,Ghakh!,Кха!
+line-32,维多利亚士兵C,小心——！,Watch out—!,Осторожно —!
+line-48,锏,下一个。,Next.,Следующий.
+line-51,维多利亚士兵D,......,......,...
+line-52,维多利亚士兵D,哈啊——！！,Heyaaaargh!!,Х-а-а-а —!!
+line-63,维多利亚士兵,报告长官！,"Reporting in, sir!","Докладываю, сэр!"
+line-64,维多利亚士兵,依靠哈洛德上校的支援，目前受重伤的几人都已经被救回来了！,"With Colonel Harold's support, we've brought all our current casualties back to safety!","Благодаря поддержке полковника Гарольда, всех тяжелораненых удалось эвакуировать!"
+line-65,维多利亚士兵,但是，按照我们现在的攻势，恐怕暂时无法对对方造成有效打击！,"However, as things stand for us, we still don't have a way to strike the enemy where it hurts!","Однако, при текущем темпе наступления, боюсь, мы не сможем нанести противнику существенный урон!"
+line-67,老练的士兵,突袭！,Charge!,В атаку!
+line-68,老练的士兵,用上你们的武器，对方只有一个人，包围她！,Make use of your arms! The enemy is one soldier! Surround her!,"В ход оружие! Она одна, окружите её!"
+line-70,维多利亚士兵,可是......,But...,Но...
+line-71,维多利亚士兵,可是长官，我们难道不该绕开她吗？,"Sir, wouldn't it be better for us to divert around her?","Но сэр, разве мы не должны её обойти?"
+line-72,维多利亚士兵,对方只有一个人，只要我们把战线拉长，她怎么也不可能守得过来啊！,She's an army of one! She's got not hope of holding us if we just widen the front!,"Она ведь одна, если растянем фронт, она физически не сможет всё удержать!"
+line-74,老练的士兵,......蠢货！,You... gormless idiot!,...Идиот!
+line-75,老练的士兵,这点道理，你当我们不懂？,Was that meant to be a revelation to me?,"Ты правда думаешь, что мы этого не понимаем?"
+line-77,维多利亚士兵,那为什么......,Then why...,Тогда почему...
+line-79,老练的士兵,长了眼睛就自己好好看看！,They didn't give you eyes in your head for nothing!,Открой глаза и смотри сам!
+line-80,老练的士兵,那几个被重伤到差点见耶拉冈德的，哪个不是和你一个想法，去尝试从其他方向突破防线的？,"You saw what our men on Kjeragandr's doorstep were attempting, didn't you? All of them as smart as you, off to break the perimeter from somewhere else!","Те, кого так отделали, что они едва не отправились к Йераганд — разве не они предлагали то же самое, пытаясь прорваться с флангов?"
+line-81,老练的士兵,你再看看其他人，伤得有他们几个那么重吗？,Compare that to the rest! Are <i>they</i> in as near as bad a state?,"Посмотри на остальных, они получили такие же увечья?"
+line-83,维多利亚士兵,......,......,...
+line-84,维多利亚士兵,难道，您的意思是......,"Sir, you're not telling me...",Вы хотите сказать...
+line-86,老练的士兵,我什么意思也没有——闪开！,"Private, I don't know what the hell I could be telling you—DUCK!",Я ничего не хочу сказать — прочь с дороги!
+line-88,维多利亚士兵,呃......！,Guh...!,Ух...
+line-103,锏,没收住手。,My hand slipped.,Не сдержалась.
+line-104,锏,悄悄话说完了？,Done gossiping?,Закончили шептаться?
+line-106,老练的士兵,你是什么时候到这里的......？！,When in the hell did you get here...?!,Как ты вообще сюда попала...?!
+line-108,锏,刚刚。,Just now.,Только что.
+line-109,锏,如果你指望前面站着几十个人就能挡住我，未免也太天真了。,"If you were counting on a few dozen men there to stop me, then you <i>really</i> weren't ready for me.","Если ты рассчитывал, что пара десятков человек смогут меня задержать, то ты слишком наивен."
+line-111,老练的士兵,嘁，真是个怪物......,Tsk! Monster incarnate...,"Тьфу, ну и чудовище..."
+line-112,老练的士兵,几十个人不行，几百个，上千个总能行。,A few dozen won't do the trick? Then surely a few hundred will. How about over a thousand?,"Десятки не справятся — справятся сотни, тысячи."
+line-113,老练的士兵,你无法凭一己之力与军队抗衡——,"You'll learn. In the face of a real army, there <i>is</i> no army of one—",Тебе не одолеть армию в одиночку —
+line-115,锏,咬紧牙关。,Clench your teeth.,Сцепи зубы.
+line-117,老练的士兵,......什么？,What?,...Что?
+line-119,锏,我揍你的时候别张口。,Keep your mouth shut when I hit you.,"Не открывай рот, когда я буду бить."
+line-120,锏,小心咬到舌头。,You don't want to bite your tongue.,А то прокусишь язык.
+line-123,,冷冽的劲风随话音而至。,A bitter slice of wind whistles through.,Ледяной порыв ветра настиг их вместе с её словами.
+line-124,,以一人对两千人，明明处于绝对劣势，女人金色的双眼中却没有一丝因此而生的波澜。,One against two thousand should be the pinnacle of despair. Her golden eyes tell of no such qualms—stern and still and steady.,"Один против двух тысяч, в явном меньшинстве, но в золотых глазах женщины не было ни тени страха."
+line-125,,她是不可置疑的捕食者，是这片战场的主宰。,She is the predator without dispute. She is the ruler over this battlefield.,"Она была неоспоримым хищником, госпожой этого поля боя."
+line-126,,在涉及这位锏女士的事情上，哪怕带有任何一点轻视，都是对她的不尊重。,"Slight the affairs of one Ms. Degenbrecher, dare to even begin to scorn her, and you too are an affront to her.",Любое пренебрежение в отношении госпожи Цзянь было неуважением к ней самой.
+line-127,,——也是对自己性命的轻视。,—You'd best hope your own life meant as little to you.,— И пренебрежением к собственной жизни.
+line-129,老练的士兵,——！！,—!!,—!!
+line-139,哈洛德,手下留情，锏女士！,"Steady now, Madam Degenbrecher!","Пощадите, госпожа Цзянь!"
+line-140,哈洛德,如果我的下属说了什么失礼的话，就由我来替他向您道歉。,"If my subordinates have cocked up talks with you, then it falls to me to apologize in their stead.","Если мой подчиненный сказал что-то невежливое, позвольте мне принести извинения от его лица."
+line-142,锏,哦？,Oh?,О?
+line-143,锏,你来代替？,You?,Ты хочешь извиниться за него?
+line-144,锏,你又能护他们多久？,And how long can you shield them for?,Как долго ты сможешь их защищать?
+line-146,哈洛德,这个嘛，哈哈，可能，直到我战死为止？,Well! Ha-hah. Might I suggest... until I die a soldier's death?,"Что ж, ха-ха, возможно, до тех пор, пока не паду в бою?"
+line-158,哈洛德,嘶......,*hiss*...,Ссс...
+line-159,哈洛德,您的锏太厉害，看来想要与您正面对抗，我还是缺了些火候。,I'm no match for your namesakes! Clearly I've not the horns to lock with you in a fight.,"Ваши клинки невероятны, похоже, мне не хватило мастерства, чтобы противостоять вам в открытую."
+line-161,哈洛德,锏女士，您还记得，之前我曾询问过您的名字吗？,"Do you recall, Madam Degenbrecher, when I asked after your name?","Госпожа Цзянь, помните, я спрашивал ваше имя?"
+line-162,哈洛德,不知现在我是否能有幸，得到解答？,I no longer see any time like the present. Might I be elucidated?,Могу ли я теперь рассчитывать на ответ?
+line-164,锏,不怕我拖延时间？,You have the guts to stall with me?,"Не боишься, что я тяну время?"
+line-166,哈洛德,嘘，嘘！,"*wheeze*, *wheeze*!","Тише, тише!"
+line-168,哈洛德,战场上的惺惺相惜，稍微多说两句，也实属常事......常有之事嘛！,"Two of a mind can spare a word in no-man's land! It <i>is</i> done, you know... it's the done thing!","Взаимное уважение на поле боя — это обычное дело, так что... почему бы и не поболтать!"
+line-170,锏,......,......,...
+line-171,锏,我都要忘了我本来的名字了，你可以当它从一开始就不存在。,I barely even remember my real name. You can pretend I never had one.,"Я сама почти забыла, как меня звали. Можешь считать, что его никогда и не существовало."
+line-172,锏,莱塔尼亚的破败街道上多的是没名字也没去处的人。,Plenty of people in Leithanien's ruined streets without a name or a home.,На обветшалых улицах Лейтании полно безымянных людей без будущего.
+line-174,哈洛德,......我听说过您出生于莱塔尼亚，但从不知道您原来有过这样的经历。,"—I'd heard tell of your Leithanian birth, but <i>never</i> had I known that to be your life's story...","...Я слышал, что вы родились в Лейтании, но не знал, что вам пришлось пережить подобное."
+line-175,哈洛德,我看过您回到莱塔尼亚，被群众追捧、被贵族宴请的报道。,I once read in the dailies how you pilgrimed home there. Adulation of the masses. Dinners with the upper crust.,"Я читал статьи о том, как вы вернулись, как толпы вас приветствовали и как знать приглашала вас на пиры."
+line-177,锏,给头驮兽挂上冠军奖杯，那些人一样会乐呵呵地追捧。,Throw a trophy at a burdenbeast and watch them love it too. They don't tell the difference.,"Повесь чемпионский трофей на вьючное животное, и те же самые люди будут с восторгом бежать за ним."
+line-179,锏,没什么意思。,Don't let it fool you.,В этом нет смысла.
+line-180,锏,在那种地方，有没有名字都无所谓，没人关心和废水一起被排进阴沟里的人叫什么。,It's not a place where names change anything. No one's going to ask you when you're down in the gutter with the wastewater.,"В таких местах имя ничего не значит. Никого не волнует, как зовут того, кого смывают в сточную канаву вместе с отходами."
+line-182,哈洛德,可您现在拥有一个......很有力量的名字。,Yet now you've a name with... such power.,Но сейчас вы носите... очень сильное имя.
+line-184,锏,力量？,Power?,Сильное?
+line-186,锏,不够准确。,Not exactly.,Не совсем точно.
+line-187,锏,那天是个晴天。,It was a sunny day.,Тот день был ясным.
+line-189,锏,巡逻的宪兵把无路可走的人堵在街角，其中一个提着我从没见过的奇怪武器，没有锋，也没有刃。,A Gendarmerie patrol rounded up anyone with no place to go on the corner. One of them was carrying a strange weapon I'd never seen before. No point. No edge.,"Патрульные жандармы загнали в угол бедолагу. У одного из них в руках было странное оружие, которое я видела впервые: ни острия, ни лезвия."
+line-190,锏,没有精妙的战斗技巧，没有高深的技艺理论。,No fine combat technique. No deep method to it.,"Никакой изысканной техники, никакой глубокой теории боя."
+line-192,锏,只是最单纯的击打，没有任何可以说道的部分，我看到他用那东西把想反抗的人的脑袋敲烂。,"No simpler way to bludgeon. No part was anything of mention. I watched as he took that thing to anybody who tried to resist, and caved in their skulls.","Просто чистая сила. Ничего, о чем стоило бы рассуждать. Я видела, как он этим предметом раскроил голову тому, кто хотел сопротивляться."
+line-193,锏,从那时候起，我就明白了我拥有的是什么东西。,"From that moment on, it's been clear to me what I have.","В тот момент я поняла, чем я обладаю."
+line-194,锏,不是规则，不是信念，不是技巧。不是说起来好听的那些东西。,"Not a code, or a creed, or a technique. Nothing that sounds nice out loud.","Это не правила, не вера, не техника. Не те красивые слова, что всем так нравятся."
+line-196,锏,是暴力。,It's violence.,Это насилие.
+line-198,锏,所以那一天，我给自己取了名。,"So that day, I named myself.",Поэтому в тот день я дала себе имя.
+line-200,锏,我就是锏。,I <i>am</i> what I wield.,Я и есть Цзянь.
+line-202,哈洛德,......,......,...
+line-204,哈洛德,米诺斯人有一种说法，他们认为暴力与胜利是姐弟兄妹，二者密不可分，互相成就。,"There's a Minoan school of thought, where they hold violence and victory as sisters. The two are inseparably close—they make one another.","У миносцев есть поверье: они считают, что насилие и победа — это брат и сестра, неразлучные и дополняющие друг друга."
+line-206,哈洛德,看到您，我会相信这是真的。,"A look at you, and I could be convinced.","Глядя на вас, я готов в это поверить."
+line-207,哈洛德,锏女士，若您当真是暴力的化身，您会把自己所赢得的胜利，献给谁？,"Madam Degenbrecher, if you're violence in the flesh like you say... then who, exactly, is your victory dedicated to?","Госпожа Цзянь, если вы — воплощение насилия, кому бы вы посвятили свои победы?"
+line-208,哈洛德,最后，请允许我提出一点小小的疑问——虽然我认为，这个问题可能没有太多询问的价值。,"And finally, one last little quibble from me—though I do think—it may not be worth much in the asking.","И последнее, позвольте задать один маленький вопрос — хотя, полагаю, он вряд ли заслуживает внимания."
+line-209,哈洛德,当初那位给您带来启发的宪兵，胜利是否与其常伴？,That Gendarmerie who first enlightened you—was victory a sister to him too?,"Тот жандарм, который вдохновил вас... сопутствовала ли ему удача?"
+line-211,锏,我喜欢他那双锏。,I did like his degenbrechers.,Мне нравились его цзянь.
+line-212,锏,用起来手感不错，就是坏得太快了。,"Good to use, but broke too fast.","Они неплохо лежали в руке, вот только ломались слишком быстро."
+line-214,锏,就和你一样，克雷加文。,"Just like you, Craigavon.","Как и ты, Крейгавен."
+line-216,锏,你的手臂快废了。,Your arm's almost gone.,Твоя рука вот-вот выйдет из строя.
+line-218,哈洛德,哎哎，锏女士，别说穿。,"Hush-hush, Madam Degenbrecher! Spare me the truth.","Ох-ох, госпожа Цзянь, не стоит так прямо."
+line-219,哈洛德,我毕竟也是一军的长官，给我留些面子......,"I do happen to be command of my own regiment. A little dignity, if you please...","Я всё-таки командую армией, сохраните хоть немного лица..."
+line-221,哈洛德,如果再年轻三十......不，只要二十岁，我一定会更加喜悦地做您的对手。,"Were the clock turned back thirty... no, just twenty years, I'd only be too glad your opponent.","Будь я на тридцать... нет, хотя бы на двадцать лет моложе, я бы с куда большим удовольствием стал вашим противником."
+line-223,哈洛德,而现在，虽然很不愿承认，但现实确实如此——我是个老人家了。,"But as it stands, and though I hate to admit it, the reality's all too obvious—I'm one of the old ones now.","А теперь, как бы мне не хотелось это признавать, реальность такова — я уже старик."
+line-225,锏,没看出来。,You don't look it.,Не заметила.
+line-227,哈洛德,您也这么觉得？！,"Ah-ha, you think so too?!",Вы тоже так считаете?!
+line-229,哈洛德,撤回前言，我就说，我明明还精神得很！,"Then I take it back—see, I've been telling them all, my mind's as sharp as ever!","Беру свои слова назад! Я же говорил, что еще полон сил!"
+line-230,哈洛德,就是这假腿，下雨天连接处会有点疼......,It's just this blasted prosthetic leg—the socket always stings on rainy days...,Просто эта протезная нога... в дождь место стыка немного ноет...
+line-232,锏,......,......,...
+line-233,锏,聒噪。,Less talk.,Шумный.
+line-245,锏,你还能撑多久？,How long until you give?,Как долго ты еще продержишься?
+line-247,哈洛德,我能撑多久并不重要。,How long until I give is hardly important.,"Неважно, как долго я продержусь."
+line-248,哈洛德,重要的是，锏女士，您又能撑多久？,"What matters is, Madam Degenbrecher, how long until you give?","Важно то, госпожа Цзянь, как долго продержитесь вы?"
+line-250,锏,......,......,...
+line-251,锏,你可以试试看。,You can try me and see.,Можешь проверить.
+line-263,诺希斯,两边都已经动手了。,Now both sides have made their move.,Обе стороны уже начали действовать.
+line-264,诺希斯,目前看来锏还能撑得住。哈洛德没有全力以赴，他们的投弹手和术师甚至说得上是在闲逛。,"It seems Degenbrecher can still bear out for the moment. Harold is saving his strength, and his bombers and Casters are all but smelling the roses.","Пока что Цзянь держится. Гарольд не идет в полную атаку, а их бомбардиры и заклинатели, можно сказать, просто прохлаждаются."
+line-265,诺希斯,也许那瓶酒不是白送的，恩希欧迪斯。,"Your wine may not have been wasted after all, Enciodes.","Возможно, та бутылка вина не была просто подарком, Энсиодес."
+line-267,恩希欧迪斯,魏斯和角峰那里现在如何？,What of Weiss and Matterhorn?,Как там дела у Вайса и Маттерхорна?
+line-269,诺希斯,已经派了一队山雪鬼去找了。,I've sent a team of Tschäggättä to find them.,Я уже послал отряд горных ледяных призраков на поиски.
+line-270,诺希斯,从目前返回来的报告来看，他们应该是受到了袭击。,"Given what reports have returned so far, the two were likely taken by surprise.","Судя по последним донесениям, они попали в засаду."
+line-272,恩希欧迪斯,克雷加文子爵并不糊涂，应当不会让他们有性命危险。,"Viscount Craigavon wouldn't place them in mortal danger. That takes senility, and he has none.","Виконт Крейгавен не глуп, он не станет подвергать их жизни смертельной опасности."
+line-274,诺希斯,希望如此。,We can only hope.,Надеюсь на это.
+line-276,诺希斯,我们的人已经去车站等候，一接到人，立刻就会和这边联络。,Our people are en route to the station to stand by. They'll send us word immediately once they intercept.,"Наши люди ждут на станции, как только они прибудут, нам сразу сообщат."
+line-278,恩希欧迪斯,希望我们的这位客人可以如约到来。,May it be that our guest arrives on time.,"Надеюсь, наш гость прибудет по расписанию."
+line-280,诺希斯,刚刚联系你的那些商人怎么处理？,What of the merchants that just contacted you?,"Что делать с теми торговцами, что только что с тобой связались?"
+line-282,恩希欧迪斯,他们暂时还不敢太过分。,They won't be too daring for now.,Пока что они не осмелятся заходить слишком далеко.
+line-283,恩希欧迪斯,诺希斯，替我转告圣女大人——,"Gnosis, pass word onto the Saintess for me—","Ношис, передай госпоже Святой —"
+line-286,恩雅,不必他人转告！,You can save that step!,Мне не нужны посредники!
+line-291,恩雅,我就在这里，恩希欧迪斯大人有什么话，可以亲自说给我听。,"I'm right here. If you have something to say, say it to me in person, Sir Enciodes.","Я здесь. Энсиодес, если у тебя есть что сказать, скажи мне это лично."
+line-293,恩希欧迪斯,......圣女大人。,Saintess.,...Госпожа Святая.
+line-295,恩希欧迪斯,让仪式现场出现这样的意外，是希瓦艾什家的失职，待仪式结束后，我会亲自前往蔓珠院向圣女大人谢罪。,"The Silverashes are disgraced to have allowed such a spiral of events on ceremony grounds. Once the ceremony is over, I will personally take myself to the Vine-Bead Court to apologize to you, Saintess.","То, что церемония прервана подобным инцидентом — это халатность дома Сильверэш. После окончания обрядов я лично явлюсь в храм Манджу, чтобы просить у вас прощения."
+line-297,恩希欧迪斯,只是现在，恐怕我们的仪式还需要再推迟一段时间。,"But for now, I fear the ceremony will need to be postponed for another while.","Но сейчас, боюсь, нам придется отложить церемонию на некоторое время."
+line-299,恩雅,理当如此。恩希欧迪斯大人不必多说。,"As it should. Your message is loud and clear, Sir Enciodes.","Так тому и быть. Энсиодес, не нужно лишних слов."
+line-300,恩雅,如果有什么我可以做的，还请恩希欧迪斯大人直言。,"If there is anything I can do, I ask you continue to come to me directly.","Если я могу хоть чем-то помочь, говорите прямо."
+line-302,恩雅,......而不是算准了我会忍不住来找你。,And not exploit that my own conscience might force me to see you first.,"...А не ждите, когда я сама не выдержу и приду к вам."
+line-304,恩希欧迪斯,圣女大人仁厚。,"Saintess, praise thy benevolence.","Вы милосердны, госпожа Святая."
+line-305,恩希欧迪斯,但您与蔓珠院的修士此时不能妄动，只要圣女大人在此继续仪式，就足以安抚民众。,"But you and the Court devotees must be prudent right now. After you resume this ceremony yourself, Saintess, that will suffice to appease the people.","Но вам и послушникам храма Манджу сейчас лучше не вмешиваться. Пока вы продолжаете обряд, этого достаточно, чтобы успокоить народ."
+line-306,恩希欧迪斯,锏的实力毋庸置疑，她本人极少做出承诺，一旦承诺，便从不会失信。,"Degenbrecher's strength needs no introduction. A promise from her is exceedingly rare, and in the event she makes one, it's never broken.","Сила Цзянь не вызывает сомнений. Она редко дает обещания, но если обещала — всегда сдержит слово."
+line-307,恩希欧迪斯,我想，我们应该给她足够的信任。,I think we should give her our full confidence.,"Я считаю, нам стоит оказать ей полное доверие."
+line-309,恩雅,您的信任，是指信任锏小姐能够以一敌千，还是指，信任她能够不顾性命，死战到您的那些计谋奏效？,"Is your confidence that Degenbrecher can fight one against a thousand, or that she has the disregard to die valiantly, in perfect service to your schemes?","Ваше «доверие» — это вера в то, что госпожа Цзянь может сразиться с тысячей врагов, или уверенность в том, что она не пощадит жизни и будет биться до последнего, пока ваши интриги не сработают?"
+line-311,恩希欧迪斯,锏在前方面对维多利亚人，我知道她的想法。她认为自己名声在外，就算出事，也能撇清与谢拉格的关系。,"Degenbrecher is ahead confronting the Victorians, and I know her mentality. She holds that, her own reputation aside, the slate with Kjerag can still be wiped clean should anything go wrong.","Цзянь сражается с викторианцами на передовой, и я знаю её мотивы. Она считает, что её репутация позволит отделить Шелаг от всего происходящего, если что-то пойдет не так."
+line-313,恩雅,她......等等，是她自己提的？,"She... wait, did she tell you this herself?","Она... подождите, это была её идея?"
+line-315,恩希欧迪斯,她是作为一个谢拉格的普通民众，在捍卫谢拉格的荣誉。,"She defends Kjerag's dignity as one of Her plain, ordinary citizens.","Она выступает как обычный житель Шелага, защищая честь нашей страны."
+line-316,恩希欧迪斯,圣女大人觉得，是我单纯地命令了她？怂恿了她？,"Saintess, do you believe that I bluntly ordered her? Provoked her?","Госпожа Святая, вы думаете, я просто отдал ей приказ? Подстрекал её?"
+line-318,恩希欧迪斯,连我都会说，她有些变了。所以我相信她这一次，所以我赌她这一次。,Even I might say she's changed some. Thus I've trusted her this once—I've gambled on her.,"Даже я скажу, что она немного изменилась. Поэтому я верю ей сейчас, поэтому я делаю на неё ставку."
+line-319,恩希欧迪斯,否则，您也许会看见那位和蔼可亲的子爵，死在几位“惊慌的游客”手里。,"Had I not, you might have watched that affable Viscount lose his life to a few 'panicked tourists'.","Иначе вы могли бы увидеть, как тот самый радушный виконт погибает от рук нескольких «испуганных туристов»."
+line-321,恩希欧迪斯,赌一个最好的结果。,We gamble for a best case scenario.,Ставка на лучший исход.
+line-323,恩雅,......,......,...
+line-325,恩雅,“赌”。,'Gamble'.,«Ставка».
+line-327,恩希欧迪斯,......我一向认为任何事情的成败，都需要自己掌握，而非求天祈神。,"I have always considered the success or failure of anything to hinge on one's own grasp, and not entreaties to gods.","...Я всегда считал, что успех зависит только от нас самих, а не от молитв к богам."
+line-329,恩希欧迪斯,万事皆需筹算，押上所有筹码，输赢自负，从无怨言。,"Nothing goes unaccounted for. I put all the chips down. I see it through, win or lose. I've never complained about it.","Все требует расчета, ставок всех своих ресурсов, готовности принять любой исход и отсутствия сожалений."
+line-336,恩希欧迪斯,只是......,But...,Просто...
+line-338,恩雅,恩希欧迪斯大人。,Sir Enciodes.,Энсиодес.
+line-339,恩雅,松开手。你弄伤自己了。,Unclasp your hands. You've bruised yourself.,Разжала руку. Вы ранили себя.
+line-341,恩希欧迪斯,......,......,...
+line-343,恩希欧迪斯,请圣女大人为锏祈祷。,"I ask you pray for Degenbrecher, Great Saintess.","Прошу, госпожа Святая, помолитесь за Цзянь."
+line-355,角峰,魏斯！,Weiss!,Вайс!
+line-356,角峰,醒醒，魏斯！,"Wake up, Weiss!","Очнись, Вайс!"
+line-362,魏斯,嗯......,Nngh...,М-м...
+line-364,魏斯,角峰大哥......？,Matterhorn...?,Брат Маттерхорн...?
+line-365,魏斯,这里是......我......,Where... I...?,Где я... Я...
+line-367,魏斯,——！不好！维多利亚人的行动有异常，他们的目的一定不简单！,—! Shit! The Victorians are changing it up! Their goal can't be that simple!,"—! Плохо! У викторианцев аномальные действия, их цели определенно не так просты!"
+line-368,魏斯,得赶紧通知老爷！,We have to contact the Master!,Нужно немедленно уведомить господина!
+line-369,魏斯,嘶——,Gk—*hiss*—,Ссс...
+line-371,角峰,别动，魏斯！,"Stay still, Weiss!","Не двигайся, Вайс!"
+line-373,角峰,连你我都被他们打晕捆在这里，我们手下的人恐怕也被他们控制。我试过了，只靠蛮力没法挣脱。,"If they even managed to subdue and lock up both you and me, then our squad's people can't have escaped either. I've tried, but brute strength alone isn't going to free us.","Нас обоих оглушили и связали, наши люди, скорее всего, тоже у них в руках. Я пробовал, одной грубой силой не выбраться."
+line-375,角峰,外面有光亮......看起来天已经亮了。,It's light outside... It looks like it's day already.,"Снаружи свет... кажется, уже рассвело."
+line-377,魏斯,维多利亚人呢？,Where are the Victorians?,А где викторианцы?
+line-379,角峰,全都不在。,All gone.,Их нигде нет.
+line-381,角峰,恐怕......现在所有人都聚集在仪式现场了吧。,Unfortunately... they've probably swarmed the ceremonial grounds.,Боюсь... все они сейчас собрались на месте проведения церемонии.
+line-383,魏斯,......,......,...
+line-384,魏斯,角峰大哥，帮我一个忙。,"Matterhorn, help me out here.","Брат Маттерхорн, сделай мне одолжение."
+line-386,角峰,你要做什么？,What do you need?,Что ты задумал?
+line-388,魏斯,我靴帮藏了一块刀片。,I hide a razor in my shoe's upper.,У меня в голенище сапога спрятано лезвие.
+line-389,魏斯,角峰大哥，麻烦你把它拿出来......抛给我！,"If you can just take it out, Matterhorn... and toss me it!","Брат Маттерхорн, пожалуйста, достань его... и брось мне!"
+line-391,角峰,你疯了！,Don't be insane!,Ты сошел с ума!
+line-392,角峰,这样的刀片，凭你现在的状态要怎么用？你的手不要了？！,What are you using that razor for? In your position? Do you not value your hands?!,В твоем состоянии? Ты как его использовать собрался? Ты хочешь без рук остаться?!
+line-394,魏斯,我必须要试试。,I have to try.,Я обязан попробовать.
+line-395,魏斯,老爷将这项任务交给我，我却没能完成。,"The Master gave me this mission, and I couldn't complete it.","Господин доверил мне задание, а я его провалил."
+line-396,魏斯,如果老爷因此陷入被动的局面，我......,"And if that's forced him into a passive situation, then I...","Если из-за этого господин окажется в уязвимом положении, я..."
+line-397,魏斯,不论如何，就算已经太迟了，就算老爷不需要，我也要尽量挽回，弥补我的失职！,"In any case, even if I'm too late, and he doesn't need it, I'm still going to redeem what isn't lost! I have to make up for my disappointment!","Как бы то ни было, даже если уже поздно, даже если господину это не нужно, я должен постараться все исправить и загладить свою вину!"
+line-399,角峰,......,......,...
+line-401,角峰,你说得对。,I suppose you're right.,Ты прав.
+line-406,,角峰艰难地移动身体，手指摸上了魏斯的靴帮。,"Matterhorn heaves his body around, laying his fingers over the curve of Weiss's boot.",Маттерхорн с трудом переместил тело и нащупал голенище сапога Вайса.
+line-407,,下一刻，他并未如魏斯所愿，将刀片抛向对方，而是用手指夹住薄薄的凶器，艰难却又用力地朝手腕绳索的位置割去。,"But what follows betrays Weiss's hopes. He doesn't toss the razor over, but instead pinches the paper-thin tool of murder between his fingers, and with great effort, strains and slashes at the rope over Weiss's wrists.","В следующий момент он не стал бросать лезвие Вайсу, как тот просил, а зажал тонкое холодное оружие пальцами и с усилием, превозмогая боль, начал резать веревку на своих запястьях."
+line-411,,无从受力的刀锋嵌入男人双指的缝隙，被压入指腹，殷红的血顺着手腕向下流淌。,"In its tenuous grip, the blade slips down between his fingers, and cuts into their pulp. Vivid red blood trickles down his wrist.","Лезвие, не имеющее опоры, вонзилось в кожу между пальцами мужчины, глубоко врезаясь в плоть. Алая кровь потекла по запястьям."
+line-414,魏斯,角峰大哥！,Matterhorn!,Брат Маттерхорн!
+line-415,魏斯,你的手！,Your hand!,Твои руки!
+line-417,角峰,没什么，只是一点小伤。,It'll be fine. It's just a scratch.,"Пустяки, всего лишь небольшая рана."
+line-418,角峰,原本你就是打算这样做吧？,"You were going to do the same thing, weren't you?","Ты ведь именно так и собирался поступить, верно?"
+line-419,角峰,确实，你说得有道理。老爷还在等着，总不能让老爷等太久。,"You do have a point, Weiss. The Master's expecting us. We can't leave him waiting too long.","Ты прав, господин все еще ждет, нельзя его заставлять ждать слишком долго."
+line-420,角峰,我很快就能割断绳子！,"Just give me one moment, and I can get this rope cut!",Я быстро перережу путы!
+line-422,魏斯,角峰大哥......,Matterhorn...,Брат Маттерхорн...
+line-425,莫希,那个......,Umm...,Эм...
+line-427,魏斯,——！,—!,—!
+line-428,魏斯,什么人！,Who's there?!,Кто здесь!
+line-435,莫希,我不是敌人。,I'm not your enemy.,Я не враг.
+line-436,莫希,......抱歉，是不是打扰你们了？,"Sorry, you two were having a moment, weren't you?","...Простите, я не помешала?"
+line-438,魏斯,莫希？,Monch?,Мохи?
+line-439,魏斯,你不是已经离开谢拉格了吗？,Didn't you leave Kjerag?,Разве ты не покинула Шелаг?
+line-441,莫希,关于这件事，之后我会和你们详细说明。,"About that... well, I'll explain in full later.","Об этом я расскажу вам позже, подробно."
+line-442,莫希,休露丝夫人让我来探查，结果就发现你们都被绑在维多利亚的军营里。,Madam Sciurus sent me out to scout. That's how I found you all tied up in this Victorian camp.,"Госпожа Хьюлс велела мне провести разведку, так я и нашла вас, связанных в лагере викторианцев."
+line-444,角峰,其他人呢？,Where are the others?,А остальные?
+line-446,莫希,其他人我已经都放出来了。,I already set them free.,Остальных я уже освободила.
+line-447,莫希,总之，两位先出来吧，维多利亚的士兵已经在银心湖挑起了冲突。,"Anyway, both of you, get going. The Victorians kicked off battle at Lake Silberneherze.","В любом случае, выходите, викторианские солдаты уже начали провокации у озера Сильверпик."
+line-448,莫希,我们需要尽快赶到现场。,We need to be there as soon as we can.,Нам нужно как можно скорее попасть на место.
+line-458,阿克托斯,不行，她撑不了多久！,Damn it! She can't hold for long!,"Нет, она не продержится долго!"
+line-459,阿克托斯,我不能就这么看着！,As if I can sit here and look on!,Я не могу просто смотреть на это!
+line-461,菈塔托丝,阿克托斯，你回来！,"You get back here, Arctosz!","Арктос, назад!"
+line-462,菈塔托丝,你以为我们都不想动手，只有你阿克托斯正气凛然？眼睛不好使，那就动动你的脑子！,"Do you seriously think you have the monopoly on righteous anger, Arctosz? We <i>wish</i> we could step in! If your eyes are shot, then try using your brain!","Ты думаешь, мы все хотим сидеть сложа руки? Думаешь, только ты тут такой праведник? Если глаза не видят сути, включи хотя бы голову!"
+line-463,菈塔托丝,你要是动手，才是坏了大事！,You acting will <i>definitively</i> ruin things!,"Если ты вмешаешься сейчас, ты всё испортишь!"
+line-465,阿克托斯,躲在人后苟且偷生，我佩尔罗契家做不出这样的事！,Stooping behind others so I can feel sorry for myself runs counter to the Paleroche clan's blood!,"Прятаться за чужими спинами, выжидая... Дом Перрот не совершает таких низостей!"
+line-466,阿克托斯,我看不下去！,I can't bear to see this!,Я не могу на это смотреть!
+line-468,菈塔托丝,看不下去也得看！,"Bear to see it, you baby!",Придется смотреть!
+line-470,菈塔托丝,现在在这儿的，最看不下去的人绝对不是你。,"Someone here is having a harder time watching than you, I guarantee.","Тот, кому сейчас тяжелее всего, уж точно не ты."
+line-472,阿克托斯,......那个锏，到谢拉格有十年了吧？就这样被当作弃子？,"Ten years that Degenbrecher's lived in Kjerag, hasn't she? Just to be some sacrificial pawn here?","...Эта Цзянь, она ведь в Шелаге уже лет десять? И её вот так бросили как пешку?"
+line-473,阿克托斯,他恩希欧迪斯今天要是摆不平这事，今后他便是做出再大的功业，再如何对谢拉格有利，我都不敢再信他半个字。,"If today Enciodes can't settle all this, then no amount of achievement, no spoil for Kjerag, could ever convince me to lend him an ear again.","Если Энсиодес сегодня не разрулит эту ситуацию, то сколько бы великих дел он потом ни совершил, я не поверю ему ни на грош."
+line-475,阿克托斯,我阿克托斯没你们那么能成大事，做不到和你们一样冷静！,I'm far from the grand actor the rest of you would be! I cannot be as calm as any of you are!,"Я, Арктос, не такой великий стратег, как вы, я не могу оставаться таким спокойным!"
+line-477,菈塔托丝,......这话说得太迟了。,"And it's too little, too late for that.",...Уже слишком поздно об этом говорить.
+line-478,菈塔托丝,现在，你我只能信他。,All you and I can do now is believe in her.,Сейчас мы можем лишь верить ему.
+line-487,诺希斯,手上的伤口我就不替你安排处理了，到时候你记得戴上手套遮掩一下。,"I won't be arranging treatment for your wounded hands, then. Remember to hide it with gloves when the time comes.","Я не буду тебя лечить, просто не забудь надеть перчатки, чтобы скрыть раны на руках."
+line-489,诺希斯,还有，听了山雪鬼的报告，你应该也能感觉得出来。,"Also, I imagine the Tschäggättä's report aligns with your gut.","И еще, судя по докладам, ты и сам можешь почувствовать."
+line-491,诺希斯,锏那边，恐怕撑不了多久了。,We can't count on Degenbrecher lasting much longer.,"Цзянь там... боюсь, она не продержится долго."
+line-493,恩希欧迪斯,她已经不再闪避了。,She's no longer evading.,Она перестала уклоняться.
+line-494,恩希欧迪斯,这是她以前在卡西米尔比赛时的习惯。,She's acting how she used to in her Kazimierz competition days.,Это её старая привычка со времен выступлений в Казимире.
+line-496,恩希欧迪斯,之后......,"Only, afterwards...",Позже...
+line-498,诺希斯,之后在带着你逃避追杀的时候改过来了。,"Afterwards, as she fled the assassins with you, she amended that habit.","Позже, когда она спасала тебя от погони, она отучилась от этого."
+line-499,诺希斯,当时她如果不小心点，可能你会死得比她快。,"Any lack of care by her at that point, and you'd die sooner than she did.","Тогда, если бы она не была осторожна, возможно, ты бы погиб раньше неё."
+line-501,恩希欧迪斯,......是啊。,Quite.,"...Да, так и было."
+line-503,恩希欧迪斯,那边还没有联络吗？,Still no word from your end?,Оттуда еще нет вестей?
+line-505,诺希斯,没有。,None.,Нет.
+line-506,诺希斯,调查的人已经回来了，他们确定那位客人已经在之前登上了开往银心湖的那趟列车，原本应该是会在仪式结束后正好到达。,"My investigators already returned. They're sure your guest boarded the train in question to Lake Silberneherze. If anything, it should have arrived just as the ceremony wound down.","Следопыты вернулись, они подтвердили, что гость уже сел на тот поезд до Сильверпика, он должен был прибыть аккурат после церемонии."
+line-507,诺希斯,现在距离那辆列车到站，还有一段时间。,"As it is, it'll still take some time until that train arrives.",До прибытия поезда еще есть время.
+line-509,恩希欧迪斯,是吗......,I see...,Вот как...
+line-511,恩希欧迪斯,诺希斯，我从不畏惧任何博弈。,"Gnosis, never have I feared any wager.","Ношис, я никогда не боялся азартных игр."
+line-512,恩希欧迪斯,从过去到现在，我走过的每一步都是一场豪赌。,"Every step that I take, that I've ever taken, I've staked it all.",С самого начала и до сих пор каждый мой шаг был крупным риском.
+line-514,恩希欧迪斯,这次也一样。,This time is no different.,И в этот раз — то же самое.
+line-516,诺希斯,我知道。,I know.,Я знаю.
+line-518,恩希欧迪斯,我认为我准备得足够充分。,I believe myself to be sufficiently prepared.,"Я считаю, что подготовился достаточно хорошо."
+line-520,恩希欧迪斯,不过，看来我的耐心不算很好。,"And yet, I find my patience is made of poorer stuff.","Хотя, судя по всему, мое терпение не бесконечно."
+line-522,诺希斯,......谢谢你对我说心里话，我也知道你想听我说什么。我替你说。,"Thank you for telling me what's on your mind, and I know what you want to hear me say. I'll say it for you.","...Спасибо, что поделился мыслями. Я знаю, что ты хотел услышать от меня. Скажу прямо."
+line-523,诺希斯,如果你想保黑骑士的命，或者你不相信她能坚持到最后，现在下令，我告诉你，还有成功的几率。,"If you want to ensure The Black Knight's life, or you don't believe she can last until the end, then give the order now. I can tell you, there are still odds of success.","Если хочешь спасти Черную Рыцаря или не веришь, что она продержится до конца — отдай приказ, у нас еще есть шансы на успех."
+line-525,诺希斯,我们找来的都是一等一的弓手和术师。引爆湖面，制造混乱，把平民和军队都卷进寒冬的冰窟窿里。,"The archers and Casters at our call are best of the best. Blow up the lake's surface, create confusion, and draw the civilians and soldiers both into midwinter's icy pocket.","Мы наняли лучших лучников и заклинателей. Взрыв озера создаст хаос, мирные жители и армия погрузятся в ледяную пучину зимы."
+line-527,诺希斯,恩希欧迪斯，决定权在你——,"Enciodes, the decision lies with you—","Энсиодес, решение за тобой —"
+line-529,诺希斯,你怎么做我都支持。但你怎么做，都得承担对应的后果。,"Whatever you do, I will support it. But whatever you do, you carry the consequences in kind. ","Что бы ты ни решил, я поддержу. Но за любое решение придется нести ответственность."
+line-530,诺希斯,这种后果不是简单的政治把戏，你未必承受得起，我替你判断的。,"Those consequences are no simple political game. You might fail to even bear them. That, I can determine for you.","И последствия будут куда серьезнее политических игр, ты можешь их не пережить. Я рассуждаю за тебя."
+line-532,恩希欧迪斯,多问一句，如果是你？,One quick question. If it were you?,"Позволь спросить, если бы это был ты?"
+line-534,诺希斯,那冬泳大会已经开始了。,Then the great winter swim would already be in full swing.,Тогда состязание по зимнему плаванию уже началось бы.
+line-536,恩希欧迪斯,呵。,Hah.,Хе.
+line-537,恩希欧迪斯,相信锏吧。,Let's trust in Degenbrecher.,Верь в Цзянь.
+line-539,恩希欧迪斯,相信她不会倒下。,Trust she won't fall.,"Верь в то, что она не падет."
+line-550,,不知是在什么时候，她的身上出现了第一道伤口。,"At some unknown point, the first wound appears on her body.","Неизвестно, когда именно на её теле появилась первая рана."
+line-551,,伤在肩臂处，划破了衣衫，带出了几不可察的一点点血丝。,"It lies about her shoulder, a slash over her suit, an imperceptible trace of blood drawn.","Рана на плече, разорвавшая одежду, выступила едва заметной капелькой крови."
+line-552,,与从前她早已习惯的伤口相比，这简直不值一提。,"Compared to the kinds of wounds she's used to, this one's worth no mention.","По сравнению с ранами, к которым она привыкла, это не стоило даже упоминания."
+line-553,,锏将身边的几个士兵击倒，细微的疼痛反而令她神色中令人畏惧的成分更甚，令她的动作更加凌冽。,"Degenbrecher fells the few soldiers about her. Ironically, the subtle sting only sharpens the heady mix of fear her eyes strike into you, makes her movements that much more steely cold.","Цзянь повергла нескольких солдат, и легкая боль лишь сделала её вид еще более пугающим, а движения — более стремительными."
+line-555,,第二道伤口由源石技艺带来。,The second wound is brought on by Originium Arts.,Вторая рана была нанесена искусством Ориджиниума.
+line-556,,一般的法术对锏来说毫无意义，但人数的优势足以令源石技艺的效果产生质的变化。,"An average caster means nothing to Degenbrecher, but the numbers advantage mutates the nature of the Originium Arts' efficacy.","Обычные заклинания для Цзянь были бессмысленны, но численное преимущество привело к качественному изменению эффектов Ориджиниума."
+line-557,,士兵中的术师在人墙后施放了法术，火焰、冰霜、雷霆齐发而至，声势浩大。,"The casters among the troops cast behind their human wall. Fire, ice and thunder burst forth in unison, with staggering momentum.","Заклинатели в тылу врага выпустили огненные, ледяные и молниевые атаки — эффект был поистине грандиозным."
+line-558,,锏将手中的武器投出，贯穿了其中一名术师的肩胛，而她自己则硬生生横穿整片法术的范围，撞入士兵之中，让对方再也无法施展。,"Degenbrecher flings her weapons, running one of the casters' shoulders clean through, while she stubbornly approaches through the full length of their Arts' range, and plows straight into the soldiers' midst. That puts an end to that display.","Цзянь метнула свое оружие, пронзив плечо одного из заклинателей, а сама напролом пронеслась сквозь шквал заклинаний, врезавшись в толпу, не давая врагам возможности продолжить атаку."
+line-560,,第三道伤口出现在她第三次被数名炮手用弩炮对准时。,The third wound comes as the artillerymen aim a third ballista volley at her.,"Третья рана появилась, когда её в третий раз взяли на прицел несколько арбалетчиков."
+line-561,,锏并不畏惧自己的对手全副武装，只是当她被绊住手脚，弩炮这种烦人的东西数量又多时，应付起来难免还是有些麻烦。,"An opponent armed to the teeth is no fear of Degenbrecher's, but with limbs less than free, and ballistae pestering her in spades, it does get a little annoying to cope.","Цзянь не боялась хорошо вооруженных противников, но когда её ограничивали в движениях, а количество таких раздражающих вещей, как баллисты, росло, это становилось проблемой."
+line-562,,一枚漏网的炮弹在她的腰腹留下一道焦痕。,"A shell slips through, and lands a scorch mark on her abdomen.",Один шальной снаряд оставил ожог на её талии.
+line-563,,皮肤在瞬间被灼烧，血反而未流出多少，这倒是件好事。,"Her skin is seared in an instant, but hardly any blood comes. That's good, all things considered.","Кожа была мгновенно опалена, но крови вытекло совсем немного — и это было хорошо."
+line-565,,锏不认为自己会输。,Degenbrecher is under no impression she'll lose.,"Цзянь не верила, что проиграет."
+line-566,,她只是不太确定，自己的血够流多久。,She's just not too sure she has enough blood to last much longer.,"Она просто не знала, на сколько хватит её крови."
+line-567,,第四道、第五道伤口......,"The fourth wound, the fifth...","Четвертая, пятая рана..."
+line-568,,......,......,...
+line-570,,不记得了。,She loses track.,Не помнит.
+line-571,,这数起来太麻烦。,Counting them is a pain.,Слишком утомительно их считать.
+line-583,锏,还不够......,It's not enough...,Еще недостаточно...
+line-584,锏,再来！,Again!,Еще!
+line-598,老练的士兵,唔！,Urgh!,Угх!
+line-603,哈洛德,里斯本！,Lisburn!,Лисбон!
+line-605,哈洛德,查理斯！把里斯本带到后方去！,Charles! Withdraw Lisburn to the rear!,Чарльз! Уводи Лисбона в тыл!
+line-606,哈洛德,先给他止血，等我来急救——！,"You staunch his bleeding, I'll be right there with first aid—!","Сначала остановите кровотечение, я скоро приду оказать помощь —!"
+line-629,锏,......,......,...
+line-630,锏,咳......,*cough*...,Кха...
+line-633,维多利亚士兵E,她快撑不住了！,She's giving out!,Она не выдержит!
+line-634,维多利亚士兵F,趁现在，突击！,Now's our chance! Charge!,"Сейчас, в атаку!"
+line-639,锏,呵。,Hah.,Хе.
+line-640,锏,只要我还有一根小指能动......,As long as I can still move a finger...,Пока я способна пошевелить хотя бы мизинцем...
+line-651,维多利亚士兵,咳啊！,Khakkhhh!,Кха!
+line-654,锏,就足够对付你们。,I can handle any of you.,"Этого будет достаточно, чтобы разделаться с вами."
+line-656,哈洛德,锏女士！,Madam Degenbrecher!,Госпожа Цзянь!
+line-657,哈洛德,您也已经快到极限了吧？！,Surely you're reaching your limits too?!,"Вы ведь тоже почти на пределе, верно?!"
+line-658,哈洛德,若您真的有心要彻底与我们为敌，恐怕也早已不是现在这样的局面！,"If you really meant to fight us out-and-out, you wouldn't have drawn out this situation in the first place!","Если бы вы действительно желали стать нашим врагом, ситуация давно не была бы такой, как сейчас!"
+line-659,哈洛德,再这样打下去，我们都很难避免死伤......,"Fight like this any longer, and I fear death <i>will</i> come for somebody... ","Если мы продолжим сражаться в таком духе, жертв будет не избежать..."
+line-661,锏,这不正是你们维多利亚擅长挑起的战争？,Isn't that exactly the kind of war you Victorians make an art of starting?,"Разве не вы, викторианцы, мастера развязывать подобные войны?"
+line-662,锏,唯一的不同，不过是对手只有我一个。,"The only difference here is, your opponent is me alone.","Единственная разница лишь в том, что мой противник сегодня — только я."
+line-663,锏,哈洛德，你是个军人。,"Harold, you're a soldier.","Гарольд, ты военный."
+line-664,锏,而我，是你的敌人。,And I—am your enemy.,А я — твой враг.
+line-666,哈洛德,......哈哈，好锋利的话语啊，锏女士。,"...Ha-hah, and keenly put, Madam Degenbrecher.","...Ха-ха, как остро сказано, госпожа Цзянь."
+line-668,哈洛德,但我可不相信您会看不出来。,But I don't believe for a second that you're blind to it.,"Но я не верю, что вы не видите очевидного."
+line-670,哈洛德,喀兰贸易私下行动，被“灰礼帽”查到端倪，公爵阁下不会对此置之不理！,"Karlan Trade's private operations were ferreted out by the Trilby Ashers, and I don't think the Duke will rest on her laurels about it! ","Тайные операции «Кала-Трейд» раскрыты «Серыми шляпами», и герцог не оставит это без внимания!"
+line-672,锏,这是，咳，恩希欧迪斯该解决的事。,That—*cough*—is Enciodes's problem.,"Это, кхе, дела Энсиодиса, ему и решать."
+line-674,哈洛德,这一次，就是留给恩希欧迪斯老爷最后的机会了！,This is the <i>very last chance</i> they're leaving Master Enciodes!,В этот раз — последний шанс для лорда Энсиодиса!
+line-676,哈洛德,只要他肯向公爵阁下服个软，只要他愿意让出一点利益......,"He need only bend an ear to the Duke, he need only part with a sliver of the cake...","Стоит ему лишь немного уступить герцогу, стоит ему пожертвовать малой толикой интересов..."
+line-677,哈洛德,哪怕只有我们原本提出的三成，我也能试着说服公爵阁下！,"Be it just 30% of what we proposed! I could still take that back to the Duke and <i>try,</i> for heaven's sakes!","Даже если это будет лишь тридцать процентов от нашего первоначального предложения, я смогу убедить герцога!"
+line-678,哈洛德,这原本不是一场必须要打响的战争。,This was never even a war you needed to win...,Эта война изначально была необязательной.
+line-680,锏,可笑。,How stupid.,Смешно.
+line-681,锏,你是站在谁的立场说这些话？,Who do you say that as?,С чьей позиции ты всё это говоришь?
+line-682,锏,庆贺者、观光客、驮兽医生。,You're window dressing. You're a tourist. You're a burdenbeast vet.,"Празднующий, турист, ветеринар для вьючных зверей."
+line-683,锏,这段时间的悠闲，已经让你开始相信你给自己编造的谎言了吗？,"Have you been at leisure for so long, you've begun to believe your own lies?",Неужели это время безмятежности заставило тебя поверить в собственную ложь?
+line-685,哈洛德,......,......,...
+line-687,锏,——不。,—No.,— Нет.
+line-689,锏,你从没有忘记过自己的身份。,You've never forgotten who you are.,"Ты никогда не забывал, кто ты такой."
+line-691,锏,你确实厌恶战争。,"You hate war, absolutely.",Ты действительно ненавидишь войну.
+line-692,锏,你抛弃手上的部分实权，带着手下和你一样的一部分人，远离漩涡中心，逃到谢拉格。,"You abandoned what real power was in your hands. You took what men of yours sympathized. You left the maelstrom far behind, and fled to Kjerag.","Ты отказался от части своих полномочий, взял с собой единомышленников и сбежал от эпицентра событий в Кьерэг."
+line-693,锏,这个你原本以为不会真的开战的地方。,To a land where you thought war could never <i>really</i> happen.,"Туда, где, как ты думал, война не начнется по-настоящему."
+line-694,锏,但你仍然还是个维多利亚人。,But you were still a Victorian inside.,Но ты всё равно остаешься викторианцем.
+line-695,锏,不对。,No.,Нет.
+line-696,锏,这甚至不是一件需要特地想起来的事。,It wasn't even something you had to remind yourself.,Эту истину даже не нужно было вспоминать специально.
+line-698,哈洛德,......您可以这么说。,You might say that.,...Можно сказать и так.
+line-699,哈洛德,我是维多利亚的军人，女士。,"I am a Victorian soldier, Madam.","Я военный Виктории, госпожа."
+line-700,哈洛德,这注定了，我可以厌恶，可以逃避。,"That much is ordained, and I might loathe it, and I might flee it.","Это значит, что я могу ненавидеть войну и могу пытаться сбежать от неё."
+line-701,哈洛德,但我无法损害维多利亚的利益。,But I could never sully Victoria's interests.,Но я не могу ставить под удар интересы Виктории.
+line-703,锏,很好。,Good.,Отлично.
+line-705,锏,我也一样。,I'm the same.,Я точно такая же.
+line-708,,她和眼前这个维多利亚人一样吗？,Is she the same as this Victorian?,Так ли она похожа на этого викторианца?
+line-709,,看上去大不相同。,They don't seem very identical.,На вид — совсем нет.
+line-710,,她出生于莱塔尼亚，成长在卡西米尔，最后才来到谢拉格。,"She's Leithanien-born, Kazimierz-raised, and only then came to Kjerag.","Она родилась в Лейтании, выросла в Казимеже и в конце концов оказалась в Кьерэге."
+line-711,,人们不需要知道她叫什么，他们只知道她是天生的武者，是骑士竞技赛的胜者，是唯一一位蝉联三届的冠军。,"They don't need to know her name. All they know is she's born to fight solo, a victor of the knight competitions, the only one to ever win three years running.","Людям не нужно знать, как её зовут — им достаточно знать, что она прирожденный воин, победительница рыцарских турниров, единственная трехкратная чемпионка."
+line-712,,再往前追溯，她是个与源石技艺绝缘的怪胎，在莱塔尼亚无路可走。,"Turn the clock further back, and she's a freak cut off from Originium Arts, a pariah in Leithanien.","Если заглянуть дальше в прошлое, она была изгоем, неспособным использовать искусство ориджиниума, у которой в Лейтании не было пути."
+line-713,,获得和丢掉这些东西都很轻易。,Gaining and losing any of these things is dead simple.,Приобретать и терять всё это было легко.
+line-714,,都很无聊。,They bore her to death.,И до ужаса скучно.
+line-715,,不过现在，她有了些不容易丢掉，她也没打算丢掉的东西。,"But now, what she has isn't so easily lost, and she has no plans to lose them.","Но теперь у неё появилось то, что трудно потерять, да и она не собирается это выбрасывать."
+line-716,,现在他们确实一样了。,"Now, they <i>are</i> the same.",Теперь они и правда стали похожи.
+line-718,锏,无聊的闲谈，咳，到此为止了。,This dull chat—*cough*—ends here.,"Скучная болтовня, кхе, на этом окончена."
+line-720,哈洛德,我感到非常遗憾，锏女士。,"I feel all too sorry for you, Madam Degenbrecher.","Мне очень жаль, госпожа Цзянь."
+line-721,哈洛德,我实在非常不希望走到这一步，但如果这是您的期望，我选择尊重。,"Oh, would that we hadn't come to this point. But if you wish it, then I choose to respect it.","Я искренне не хотел доводить до такого, но раз вы настаиваете, я проявлю уважение к вашему выбору."
+line-723,哈洛德,最后我一定要强调，我确确实实是您的追随者，您每一次击败对手时的表现都耀眼极了。,"I must stress at this closing hour that I am, through and through, your fan. The show you made in besting each opponent dazzled like nothing else.","И напоследок хочу подчеркнуть, что я действительно ваш последователь, каждое ваше выступление при победе над противником было ослепительным."
+line-724,哈洛德,唯有这一点请您相信，这并非谎言。,This and this alone I ask you to believe. It cannot be lied.,"Пожалуйста, поверьте мне — это не ложь."
+line-726,锏,呵。,Hah.,Хе.
+line-728,锏,我记住了。,Noted.,Я запомнила.
+line-730,哈洛德,我的荣幸。,It's my honor.,Для меня это честь.
+line-733,,伤痕累累的女人再次举起手中的锏。,"Riddled with scars, she raises her degenbrechers once more.",Израненная женщина снова подняла свою цзянь.
+line-734,,一如她最初出现在众人面前时那样，锏尖落于冰面。,"Just as she did in her first appearance before them all, Degenbrecher's point stabs into the ice.","Как и в тот момент, когда она впервые предстала перед всеми, кончик клинка опустился на лед."
+line-735,,银心湖上不散的薄雾散去，沉闷的重响落于她的敌人心间。,"The mist, constant over Lake Silberneherze, parts. A subdued, gargantuan rumble sinks in her enemies' stomachs.","Туман над озером Сильвер-Айс рассеялся, и глухой звук удара эхом отозвался в сердцах её врагов."
+line-740,,咔嚓、咔嚓。,Kchk. Kchk.,"Хрусть, хрусть."
+line-741,,碎裂声细密响起，震耳欲聋。,"There comes the fine sound of cracking, and it's deafening.","Тонкий, оглушительный треск разнесся вокруг."
+line-743,锏,该结束了。,Time to end this.,Пора заканчивать.
+line-745,哈洛德,——！全员听令！,—! Order to all units!,—! Всем приготовиться!
+line-746,哈洛德,阻止她破坏冰面！重整队形，尽快击杀“卡西米尔的黑骑士”！,Stop her breaking the ice! Regroup ASAP! Put down 'The Black Knight of Kazimierz'!,Не дайте ей разрушить лед! Перегруппироваться и уничтожить «Черную рыцаршу Казимежа»!
+line-759,,没有。,Nothing.,Нет.
+line-765,,不是这一间。,It's not in here.,Не здесь.
+line-771,,唔，也不是这里。,"Oh, and it's not here either.","М-м, и здесь тоже нет."
+line-772,,那么，剩下的只有......,"Well, that just leaves...",Тогда остается только...
+line-782,列车员,这位先生，列车正在提速中，请您四处走动时小心脚下！,"Excuse me, sir, the train is speeding up! If you must wander, then please watch your step!","Господин, поезд набирает скорость, пожалуйста, будьте осторожны, когда ходите по вагонам!"
+line-783,列车员,对了，您还没有领取礼物吧？请问您要选什么呢？,"Oh, right, you haven't received your complimentary gift yet, have you? Can I ask what you'd like?","Кстати, вы ведь ещё не получили подарок? Что бы вы хотели выбрать?"
+line-784,列车员,作为耽误您行程的补偿，这次选购完全免费！,"As compensation for your journey's delay, your purchase is completely free this time!","В качестве компенсации за неудобства в пути, этот подарок совершенно бесплатен!"
+line-786,“灰礼帽”,不必了。,No need.,Не стоит.
+line-788,列车员,可是先生，这是免费赠送的......,"But, sir, it's a free gift...","Но, сэр, это бесплатный дар..."
+line-790,“灰礼帽”,那么我将这份赠礼转送给您，女士。,"Then I give this gift to you, madam.","Тогда передайте этот дар вам, леди."
+line-792,列车员,啊，但是，这......,"Er, but, that's not...","А, но, это..."
+line-794,“灰礼帽”,请收下。,Take it.,"Пожалуйста, примите его."
+line-795,“灰礼帽”,现在可以借过一下吗？,"Now excuse me, if I could pass through?",Могу я теперь пройти?
+line-797,列车员,好、好的！,A—Alright!,"Д-да, конечно!"
+line-799,“灰礼帽”,谢谢。,Thank you.,Спасибо.
+line-805,列车员,呼......哈......,*huff*... *pant*...,Фух... Ха...
+line-806,列车员,呃......怎、怎么回事。,"Urp... oh, what in the land?",Э-э... Что... Что это было?
+line-807,列车员,我的腿有点软......,My legs are a little wobbly...,Ноги стали ватными...
+line-818,“灰礼帽”,（接下来，只剩下最后这一间。）,"(Now, only the last cabin remains.)",(Дальше осталась только эта последняя комната.)
+line-819,“灰礼帽”,（这段时间，我确实是太劳累了。）,"(After all this time running around, I'm ragged.)",(Я действительно слишком устал за последнее время.)
+line-820,“灰礼帽”,（退役......唉，伦蒂尼姆的事情还未完全平息，公爵阁下恐怕不会批准。）,(I could retire... *sigh* Not when Londinium's still refinding its footing. Her Grace would never let me.),"(Отставка... Эх, ситуация в Лондиниуме ещё не утихла, герцог вряд ли её одобрит.)"
+line-821,“灰礼帽”,（这扇门后，会是什么？）,(What will I find behind this door?),(Что же за этой дверью?)
+line-822,“灰礼帽”,（谢拉格隐藏到现在，甚至比他们暗地里那些运输线路藏得更深的后手......）,"(Their Kjerag Defense, hidden until this very moment, buried deeper than even their covert transport routes...)","(Тот самый «козырь», который Кьерэг скрывал всё это время, спрятанный даже глубже, чем их тайные транспортные пути...)"
+line-823,“灰礼帽”,（不管是什么，都可惜了。）,"(Whatever it is, it's a shame.)","(Что бы это ни было, это очень жаль.)"
+line-824,“灰礼帽”,可惜了，希瓦艾什恐怕等不来他的......,It's a shame—Silverash will never get to meet his...,"(Действительно жаль, похоже, Сильвер-Эшу не дождаться своего...)"
+line-835,“灰礼帽”,......,......,...
+line-836,银铠甲的骑士,嗯？,Huh?,Хм?
+line-837,银铠甲的骑士,怎么了，这位先生。,"What's up, panisko?","Что случилось, господин?"
+line-838,银铠甲的骑士,抱歉，我们这间包厢已经坐不下了，麻烦您换个地方问问吧。,"Sorry, we've got no seats left in our cabin. I think you want to try someplace else.","Прошу прощения, но места в этом купе уже закончились, пожалуйста, поищите в другом месте."
+line-839,西装男性,那个，其实我可以出......,"Uh, actually, I can just lea...","Послушайте, я ведь могу заплатить..."
+line-849,“灰礼帽”,......,......,...
+line-850,“灰礼帽”,............,............,............
+line-861,银铠甲的骑士,还有什么事吗，先生？,"Did you need something, panisko?",Что-то ещё?
+line-862,银铠甲的骑士,我们这里真的满员了，您也能看得出来，现在大家连转个身都不太方便。,"I'm not kidding, we're full in here. I mean, you can see. We're bumping shoulders just trying to look around.","У нас здесь правда нет мест, вы же видите — мы здесь даже повернуться не можем."
+line-863,西装男性,所以说，我真的可以自己出去找位置坐！真的！,"Yeah, that's why I'm saying I can absolutely just leave and find my own seat! I'm not kidding either!","Я же говорю, я могу выйти и найти место где-нибудь ещё! Серьезно!"
+line-864,西装男性,你们、你们何必一定要和我一个包厢呢！,You—You guys seriously don't gotta sit in a cab with me!,Зачем вам всем обязательно сидеть в одном купе со мной!
+line-865,银铠甲的骑士,别这么说，这位发言人先生，您和我们不都是收到邀请函一块来的吗？,"Don't be like that, Mr. Spokesman. You and us, we're invited together, aren't we? It was all one letter.","Не говорите так, господин спикер, разве мы все не приехали сюда по приглашению?"
+line-866,银铠甲的骑士,而且这一个包厢，我们几个正好能坐得下，路上也有个照应。,"And this cabin, perfect amount of room for us all to sit. They look after you on the way too.","К тому же, здесь как раз достаточно места для нас всех, да и в дороге вместе безопаснее."
+line-867,银铠甲的骑士,有我们在，安全问题不用担心。,"And with us around, the safety problem is no problem.","Пока мы здесь, о безопасности беспокоиться не стоит."
+line-868,西装男性,安全问题我是不担心了......,"Safety's not my problem here, yeah, no...",О безопасности я как раз не беспокоюсь...
+line-869,西装男性,但这哪里正好了？？你们能坐在座椅上，可我只能坐在桌子上啊！,"I don't think it's 'perfect', is the thing?? You guys get to sit on the benches and I have to dump my butt on the table!","Но «достаточно места»?! Вы-то сидите на креслах, а я вынужден сидеть на столе!"
+line-870,“灰礼帽”,......抱歉，打扰了。,"...Apologies, excuse me.","...Прошу прощения, помешал."
+line-880,“灰礼帽”,......,......,...
+line-881,“灰礼帽”,原来是这样......我明白了，我一定还在做梦。,I see... I understand. I must be dreaming.,"Вот оно что... Я понял, я точно всё ещё сплю."
+line-882,“灰礼帽”,卡西米尔的征战骑士，和代表商业联合会的发言人坐在同一趟列车的车厢里......,Kazimierz campaign knights and a KGCC representative spokesman sat in the same private cabin of a railway car...,Боевые рыцари Казимежа и спикер от Торговой палаты едут в одном вагоне...
+line-883,“灰礼帽”,原来这就是希瓦艾什准备的后手。,So this is the defense Silverash plays.,"Оказывается, вот в чем заключался «козырь» Сильвер-Эша."
+line-884,“灰礼帽”,如此大胆，确实也是现在这位当家人的风格。,How bold. How well and truly typical of the clan head's style.,"Настолько дерзко, это вполне в стиле нынешнего главы семьи."
+line-885,“灰礼帽”,公爵阁下，并非我不尽力......,"Your Grace, I can't say it was for lack of trying...","Ваша светлость, дело не в том, что я не приложил усилий..."
+line-886,“灰礼帽”,要与数名征战骑士为敌，虽然说是职责所在，但确实也有点太让人为难了。,"But while duty might call me to fight a gaggle of campaign knights at once, I... think it's a little out of the question.","Стоять против нескольких боевых рыцарей — хоть это и мой долг, но ситуация действительно затруднительная."
+line-889,？？？,确实为难。,More than a little.,Действительно затруднительная.
+line-890,？？？,看来你的工作也不轻松。,I guess your job's not easy either.,"Похоже, твоя работа тоже не из легких."
+line-892,“灰礼帽”,——？！,—?!,—?!
+line-898,Sharp,别激动。,Stay calm.,Без паники.
+line-899,Sharp,只是路过。,Just passing through.,Просто проходил мимо.
+line-901,“灰礼帽”,这身制服......,That uniform...,Эта форма...
+line-902,“灰礼帽”,......这还真是个惊喜。,...This is quite the surprise party.,...Это действительно сюрприз.
+line-903,“灰礼帽”,罗德岛的人怎么会在这里？,What is a Rhodes Islander doing here?,Что люди Родос Айленд делают здесь?
+line-905,Sharp,这个你得问我上司。,You'll have to ask my boss.,Это тебе стоит спросить у моего начальника.
+line-908,,开斯特的好帮手又怎么在这里？;什么事要问我，贝林厄姆先生？,"Et tu, Caster's lackey?;Any questions, Mr. Bellingham?","А что здесь делает помощник Кэстера? Что ты хотела спросить, господин Беллингем?"
+line-911,“灰礼帽”,这确实挺让人惊讶的。没想到还能见到您本人。,Quite the shocker indeed. I wasn't expecting you in the flesh.,Это действительно поразительно. Не ожидал встретить вас лично.
+line-912,“灰礼帽”,但我记得，罗德岛和谢拉格的联系，仅限于“公司间的合作”来着？,"But the funny thing is, weren't Rhodes Island and Kjerag only meant to be 'business partners'?","Но насколько я помню, связи Родос Айленд и Кьерэга ограничиваются лишь «корпоративным сотрудничеством»?"
+line-913,“灰礼帽”,总不能是我记错了吧。,"Yes, if there's one thing I can trust, it's my memory.","Не может же быть, что я ошибся в памяти."
+line-916,“灰礼帽”,好久不见......“博士”。,Many happy returns... 'Doctor'.,Давно не виделись... «Доктор».
+line-917,“灰礼帽”,这位也是罗德岛干员？看来情报说得没错，罗德岛的全貌我们确实未能完全把握。,And we have a Rhodes Island Operator here? It seems the dossiers were right—we still haven't full stock of your company's many faces.,"Этот человек тоже оператор Родос Айленд? Похоже, данные разведки были правдивы, мы действительно не до конца осознаем масштабы Родос Айленд."
+line-918,“灰礼帽”,但是眼下先不提别的了。能在这里见到您，真是又惊又喜。,"Still, that aside for now. No surprise could be more pleasant, meeting you here.","Впрочем, сейчас не об этом. Увидеть вас здесь — это и шок, и радость одновременно."
+line-919,“灰礼帽”,诚心实意，这次不是在骗您了。毕竟我连这身打扮都没撤下，您就能认出我来。,"In all sincerity, I come with open arms this time. After all, I'm not even out of this disguise, and you recognize me by it.","Искренне говорю, в этот раз я не пытаюсь вас обмануть. Раз уж вы узнали меня в этом облачении."
+line-922,“灰礼帽”,罗德岛，你们——,"Rhodes Island, you—","Родос Айленд, вы..."
+line-925,？？？,哇，博士！快来帮帮我！,"Yeesh, Doctor! A little help here!","Ой, Доктор! Скорее, помоги мне!"
+line-927,,缪尔赛思！,Muelsyse!,Мюэльсис!
+line-932,缪尔赛思,嗯，怎么啦？,Hmm? 'Sup?,"М-м, что такое?"
+line-934,缪尔赛思,马上就要到站了，快来帮我收拾器械，博士......,"Our stop's coming up! We gotta get the tech packed, Doc...","Мы скоро прибываем, помоги мне собрать оборудование, Доктор..."
+line-935,缪尔赛思,咦？你们这是......？,Oop? Who're you guys...?,Эй? Вы здесь...
+line-941,烈夏,博士，咱们要不要去催催列车长让他再快点......,"Doctor, maybe we oughta bug the conductor to go a little faster...","Доктор, может, стоит поторопить машиниста, чтобы поезд шел быстрее..."
+line-943,烈夏,咦，是你！,"Hey, it's you!","Эй, это ты!"
+line-945,“灰礼帽”,罗德岛和哥伦比亚的莱茵生命......原来如此，原来如此。,"Rhodes Island and Columbia's Rhine Lab... well, well, well.","Родос Айленд и «Райн Лаб» из Колумбии... Вот оно что, вот оно как."
+line-946,“灰礼帽”,各位出现在此，看来并非巧合。,"I see it's no coincidence you're all here, then.","Раз уж вы все здесь оказались, вряд ли это совпадение."
+line-948,缪尔赛思,哎呀，看来这位先生认识我呢。,"Oh, jeez, I guess someone knows me already.","Ой, кажется, этот господин знаком со мной."
+line-950,缪尔赛思,博士，Sharp先生，还有小烈夏，不为我介绍一下这位戴帽子的先生吗？,"Doc, Mr. Sharp, Letobomb, aren't you gonna introduce this hatsy guy to me here?","Доктор, господин Шарп и маленькая Леша, не представите меня этому господину в шляпе?"
+line-964,恩雅,雅儿，我想要知道，耶拉冈德是否会庇佑这个为其雕像而血战的人？,"Kjarr, I'd like to know. Would Kjeragandr bless the woman waging such a bloody battle for this statue?","Энья, я хочу знать: покровительствует ли Йераганд той, что пролила кровь в битве за её статую?"
+line-965,恩雅,即便她出身异国他乡，对耶拉冈德，也并无太多信仰？,"Though she is born from other lands? Though in Kjeragandr, she has oh so little faith?",Даже если она родом из чужих земель и в ней нет особой веры в Йераганд?
+line-967,雅儿,呵呵，圣女大人，这个问题很简单。,"Heheh. That's a very easy question, Saintess.","Хе-хе, Святая, ответ на этот вопрос прост."
+line-968,雅儿,“谢拉格人”这个称呼，只用来形容生活在其上，热爱这片土地，归属这个国家的人。,"The term 'Kjerag' simply means one who lives there, who adores this land, who finds a home in this nation.","Термин «кьерэгц» используется только для тех, кто живет здесь, любит эту землю и принадлежит этой стране."
+line-969,雅儿,这和耶拉冈德是否承认没有关系。,It's no matter whether Kjeragandr recognizes it.,"Это не зависит от того, признает ли их Йераганд."
+line-971,雅儿,如果一个人打从心底里认同这一身份，那么，谁又能否定呢？,"If a person identifies with it from the bottom of their heart, well, who can deny that?","Если человек всей душой считает себя кьерэгцем, то кто вправе это отрицать?"
+line-973,恩雅,......,......,...
+line-975,恩雅,是啊。,Yes.,Да.
+line-977,恩雅,谁都不能否定。就算是她自己，也不能。,"No one can deny that. Not even she, herself.",Никто не вправе. Даже она сама.
+line-978,恩雅,她早就是个谢拉格人了。,She is a Kjerag. She already was.,Она уже давно стала кьерэгцем.
+line-980,恩雅,雅儿，随我一起去见见客人。,"Kjarr, come with me to meet our visitors.","Яль, пойдем со мной встретить гостей."
+line-982,恩雅,维多利亚的客人前来观礼，作为圣女，我也需要给出足够的回应。,"Our Victorian guests have come to partake in the ceremony. As Saintess, I have to make an adequate response.","Викторианские гости прибыли на церемонию, и как Святая, я должна оказать им должный прием."
+line-983,恩雅,至少，也得打声招呼才行。,"At the very least, I can't go without saying hello.","Как минимум, нужно их поприветствовать."
+line-985,雅儿,虽然我想说，这很危险。,I'd like to stress—the danger of this.,"Хоть мне и хочется сказать, что это опасно."
+line-986,雅儿,不过......好的，圣女大人。,"But... very well, Saintess.","Но... Хорошо, Святая."
+line-999,尤卡坦,大夫人！,Matriarch!,Госпожа!
+line-1000,尤卡坦,休露丝回来了！,Sciurus is back!,Шулюс вернулась!
+line-1002,菈塔托丝,真的？！,She is?!,Правда?!
+line-1004,菈塔托丝,怎么那么迟......不，不对，不是说了，让她滚远点，不要过来的吗？！,"Some nerve being late... wait, no, I told her to keep out of this! Why did she come HERE?!","Почему так поздно... Нет, подождите, разве ей не сказали держаться подальше и не приходить сюда?!"
+line-1006,休露丝,我怎么就不能过来了？,Who's saying I can't come?,Почему это я не могла прийти?
+line-1007,休露丝,我不仅要来，我还带了特地邀请的客人一起来呢！,"And I didn't just come, I brought some special guests with me too!","Мало того, что я пришла, я ещё и привела приглашенных мною гостей!"
+line-1009,菈塔托丝,这种时候带客人来？,Is this let's-bring-guests timing to you?,Привела гостей в такое время?
+line-1011,菈塔托丝,傻妹妹，你说什么胡话！,"You make a language out of inane, you silly sister!","Глупая сестренка, что за бред ты несешь!"
+line-1013,休露丝,......我可不糊涂。,...I am NOT being silly.,...Я не в бреду.
+line-1019,恩希欧迪斯,确实，休露丝夫人手段高明，令人敬佩。,Indeed. Madam Sciurus's hand is deft and wise. I find her admirable.,"Верно, госпожа Шулюс весьма прозорлива и достойна уважения."
+line-1020,恩希欧迪斯,菈塔托丝，你太小看休露丝夫人了。,"Ratatos, you'd do well to finally raise your opinion of her.","Рататос, ты недооцениваешь госпожу Шулюс."
+line-1022,菈塔托丝,......你这是什么意思？,"<i>...What the hell is this, Enciodes?</i>",...Что ты хочешь этим сказать?
+line-1028,莫希,夫人，客人平安到达。,"Madam Sciurus, the guests have arrived safely.","Госпожа, гости прибыли в безопасности."
+line-1030,休露丝,好！快带人过来！,Good! Bring them all in!,Хорошо! Живее ведите их сюда!
+line-1032,诺希斯,......,......,...
+line-1034,莫希,......,......,...
+line-1035,莫希,我这就去。,I'm out.,Я сейчас же.
+line-1041,魏斯,老爷！,Master!,Господин!
+line-1042,魏斯,客人已经带到了！,Your guests are here already!,Гости доставлены!
+line-1044,休露丝,乱说什么？那是我请来的客人！,Your who? These are MY guests I invited!,"Что ты несешь? Это гости, которых пригласила я!"
+line-1050,征战骑士,您就是布朗陶家的休露丝夫人？,You're Madam Sciurus of the Browntail clan?,Вы — госпожа Шулюс из дома Браунто?
+line-1051,征战骑士,很感谢您这次邀请我们前来观礼。,Very pleased you invited us to be part of this ceremony.,Благодарим вас за приглашение на церемонию.
+line-1053,菈塔托丝,......休露丝，这就是你说的惊喜？,Sciurus... is this your <i>pleasant surprise?</i>,"...Шулюс, это тот самый «сюрприз», о котором ты говорила?"
+line-1055,休露丝,当然！,"Uh, duh!",Конечно!
+line-1056,休露丝,我来给大家介绍一下，这几位是隶属卡西米尔监正会的征战骑士，是来祝贺我们的耶拉冈德像建成的！,"Let me introduce you all! We have here our campaign knight from the Adeptus Sprawiedliwi Kazimierz, here to celebrate the erection of our statue to Kjeragandr!","Позвольте представить: это боевые рыцари, подчиняющиеся Казимирскому совету, они прибыли поздравить нас с возведением статуи Йераганд!"
+line-1057,休露丝,我特地向监正会发出了邀请，好不容易才邀请到的！,I sent an invitation especially to the Adeptus! That was NOT an easy invitation to make!,Я лично отправила приглашение в Совет и с большим трудом добилась их визита!
+line-1058,休露丝,所以这是我的客人！,So they're MY guests!,Так что это — мои гости!
+line-1060,恩希欧迪斯,这只是一个巧合，休露丝夫人。,"It's just a coincidence, Madam Sciurus.","Это лишь совпадение, госпожа Шулюс."
+line-1061,恩希欧迪斯,您能够请到征战骑士，实在令我赞叹不已。而我邀请的客人，则是这边的这一位——,"I cannot laud you enough that you were able to invite a campaign knight. My guest of honor, meanwhile, would be this fellow—",Ваш успех в приглашении боевых рыцарей поистине восхитителен. Но мой гость — вот этот человек —
+line-1062,恩希欧迪斯,欢迎您，商业联合会的发言人先生。,"Welcome, Sir Spokesman of the General Chamber of Commerce.","Приветствую вас, господин спикер Торговой палаты."
+line-1068,发言人莫布,您好，您就是希瓦艾什先生吧？,Hello to you. I'm taking it you're Mr. Silverash?,"Здравствуйте, вы — господин Сильвер-Эш?"
+line-1069,发言人莫布,幸会幸会，我代表公司向您问好。感谢您特地邀请我来谢拉格。,"Good to meetcha, good to meetcha, and hello from my company. Thank you for all the effort of inviting me out to Kjerag.","Рад встрече, рад встрече, я приветствую вас от лица компании. Спасибо за приглашение в Кьерэг."
+line-1070,发言人莫布,谢拉格的风光非常美丽，我相信我们与贵公司之间一定能够达成令双方都满意的合作。,"The scenery here in Kjerag, supremely beautiful. I believe your company and mine will absolutely end the day here with a partnership we both love.","Здесь невероятно красиво, я уверен, что мы сможем достигнуть взаимовыгодного сотрудничества с вашей компанией."
+line-1072,发言人莫布,哦，不得不说的一点是，这一路过来我似乎在冰湖上看到了一场激烈的战斗？,"Oh, and don't mind me but I gotta say, I think I saw some mad fight out on a frozen lake the whole way here?","О, не могу не упомянуть, что по пути сюда я, кажется, наблюдал ожесточенную битву на ледяном озере?"
+line-1073,发言人莫布,里面好像还有一个有点熟悉的身影，那种战斗技巧，我似乎在哪见过。,"And kind of familiar too, like, one guy. I mean, those combat moves, they rang bells in my head.","Там был один довольно знакомый силуэт, такая техника боя... кажется, я её где-то видел."
+line-1075,发言人莫布,哦，抱歉，我是不是说得太多了？,"Oh sorry, excuse me if I'm talking too much?","О, прошу прощения, я не слишком много говорю?"
+line-1076,发言人莫布,这是我，呃，上一份工作的老毛病。咳嗯，是的，我会注意不要过多地说一些于我们的合作无益的话。,"It's, uh, a holdover from the old job. Ahem. Right, I'll be careful not to say too much that doesn't work towards us working together.","Это всё моя, кхе-кхем, старая привычка с прошлой работы. Да, я буду осторожен и постараюсь не говорить ничего, что не идет на пользу нашему сотрудничеству."
+line-1078,恩希欧迪斯,不，莫布先生，现在我正需要您这样的才能。,"No, Mr. Mob, I'm in need of your exact talent right now.","Нет, господин Моб, мне как раз и нужны ваши таланты."
+line-1080,发言人莫布,什么？您需要......？,Come again? You need...?,Что? Вам нужно...?
+line-1082,恩希欧迪斯,是的。,Yes.,Да.
+line-1083,恩希欧迪斯,现在，立刻。,"Right now, this very moment.",Прямо сейчас.
+line-1084,恩希欧迪斯,请您随我一起上前，我会让人使用能放大音量的源石技艺。,"Please, come with me. I'll have them cast sound amplification Arts.","Пожалуйста, пройдемте со мной, я прикажу использовать искусство ориджиниума для усиления голоса."
+line-1085,恩希欧迪斯,请您大声宣布——,May I ask you to loudly proclaim that—,"Я хочу, чтобы вы громко объявили —"
+line-1086,恩希欧迪斯,喀兰贸易与卡西米尔商业联合会旗下的公司即将达成合作。,"Karlan Trade, and the corporations of the Kazimierz General Chamber of Commerce, are about to sign an agreement.","Что «Кала-Трейд» и компания, представляющая интересы Казимирской торговой палаты, вскоре заключат договор о сотрудничестве."
+line-1087,恩希欧迪斯,谢拉格将成为卡西米尔可靠的合作伙伴。,"To Kazimierz, Kjerag will become a trusty partner.",Кьерэг станет надежным партнером Казимежа.
+line-1097,,......什么声音？,...What's that noise?,...Что это за шум?
+line-1098,,不是那些人落水的声音，也不是救援的声音。,"It's not anyone splashing into the icewater, and it's not cries for help.","Это не звук падающих в воду людей, и не звук спасательных команд."
+line-1099,,她好像听到有什么人在大声地说话，然后周围人的动作就都有些乱了。,"It sounds like someone loudly saying something, and then the people all about her stumble in disarray.","Ей показалось, что кто-то громко говорит, а затем движения окружающих стали хаотичными."
+line-1100,,那样大声。可是在说什么，她还是听不清。,"That loud voice. But whatever it's saying, she can't tell clearly.",Так громко. Но что именно говорят — разобрать она не могла.
+line-1101,,眼前的视野又狭窄黯淡了一分，入耳的声音变得模糊。,Her field of view narrows and dims by a fraction more. The sounds almost turn to fuzz in her ears.,"Зрение сузилось и померкло ещё больше, звуки стали неразборчивыми."
+line-1102,,她已经感觉不到自己的手脚，但可以确定自己一定仍然紧握着她的老伙计。,"She can't feel her own limbs anymore, but she can be sure she still has a grip on her old companions.","Она уже не чувствовала собственных конечностей, но точно знала, что всё ещё крепко сжимает своего старого верного друга."
+line-1103,,她的锏。,Her degenbrechers.,Свою цзянь.
+line-1104,,因为她知道自己的身躯仍在反射性地做动作，击倒每一个靠近自己的人。,"Because she knows her body is still acting on reflex, striking down every person that comes near.","Потому что она знала, что её тело по инерции продолжало совершать движения, сбивая с ног всех, кто приближался."
+line-1105,,只是，太吵了。,It's just... too loud.,Только вот... слишком шумно.
+line-1106,,太吵了。怎么会有人说话这样吵闹？,Too loud. How can someone talk this noisily?,Слишком шумно. Как кто-то может говорить с таким шумом?
+line-1107,,为什么人群散开了？,Why has the crowd gone?,Почему толпа рассеялась?
+line-1108,,难道已经有人突破了她的防线？,Did someone breach her line of defense already?,Неужели кто-то прорвал её оборону?
+line-1109,,不。,No.,Нет.
+line-1110,,猛兽原本已有些黯淡的金色眼眸骤然被点亮。,The wild beast's dulling eyes of gold suddenly flare alight.,"Золотые очи зверя, уже начавшие было меркнуть, внезапно загорелись вновь."
+line-1111,,——只要她还能站立。,—As long as she can stand.,— Пока она стоит на ногах.
+line-1112,,——就绝不容许任何人越过！,—She will allow absolutely no one past!,— Никому не позволено пройти!
+line-1123,哈洛德,......女士！锏女士！,...brecher! Madam Degenbrecher!,...Госпожа! Госпожа Цзянь!
+line-1124,哈洛德,别打了......哎！,Stop fighting... Gah!,Хватит драться... Эй!
+line-1126,哈洛德,您失血过多了，锏女士！清醒一点！,"You've lost too much blood, Madam Degenbrecher! Come to your senses a little!",Вы потеряли слишком много крови! Придите в себя!
+line-1128,锏,......,......,...
+line-1130,哈洛德,哎哎哎，再打下去就连我俩都要一起掉水里去了！,"Aht-aht-aht, keep flailing at this rate and you'll sink us both in the lake!","Ой-ёй-ёй, если мы продолжим, мы оба свалимся в воду!"
+line-1132,锏,不打了？,We're not fighting?,Хватит?
+line-1134,哈洛德,不打了，不打了！,"No more fighting, no more!","Хватит, хватит!"
+line-1136,哈洛德,呃，公爵阁下再怎么想打谢拉格的脸，也不太能这么直接怼着卡西米尔来一巴掌......起码现在不能。,"Goodness, however much the Duke wants to slap Kjerag in the face, we can't be showing Kazimierz the hand in the process... at least not now. ","Ну, как бы герцог ни хотел ударить Кьерэг, делать это настолько прямо, подставляя Казимеж — не лучшая идея... По крайней мере, сейчас."
+line-1138,哈洛德,毕竟，只有维多利亚与谢拉格，还能说是公爵阁下与希瓦艾什的恩怨，可一旦把卡西米尔牵连其中，事情可就没有那么简单了。,"Kept between Victoria and Kjerag, one might still call it the Duke's personal Silverash grievances. But the moment you bring Kazimierz into it too, things become far, far less simple.","В конце концов, ссоры Виктории и Кьерэга можно списать на личные счеты герцога и Сильвер-Эша, но если в это втянуть Казимеж, всё станет куда сложнее."
+line-1139,哈洛德,这么远的距离，这么短的时间，卡西米尔的大饕餮们已经把喀兰贸易当回事了？,"Are the gourmands of Kazimierz already inviting Karlan Trade to the table? With such distance between them, and in such short order?","Столь дальнее расстояние, такой короткий срок — неужели казимежские акулы уже начали воспринимать «Кала-Трейд» всерьез?"
+line-1140,哈洛德,真是有本事的年轻人。,What a talented young individual.,"Надо же, способные нынче пошли молодые люди."
+line-1142,锏,......,......,...
+line-1144,哈洛德,想必，公爵阁下也不会因为我做出停手的判断而怪罪。这借口好使得很。,And I know the Duke won't reproach me for deciding to stay my hand. Spiffing excuse.,"Думаю, герцог не осудит меня за решение остановиться. Хороший повод для отступления."
+line-1145,哈洛德,我的人快有一半都被锏女士您打下水了，好不容易才捞回来......,"A good half my men you batted into the lake, Madam Degenbrecher. It was a backbreaker to scoop them out again...","Почти половину моих ребят вы отправили купаться, с трудом удалось выловить..."
+line-1147,哈洛德,再这么打下去，我治都治不过来咯！,"If we'd kept going like that, I'd need another pair of arms to treat you all!","Если драться дальше, я не успею всех вылечить!"
+line-1150,老练的士兵,你现在也治不过来，咳。,I say you need them as is. *cough*,"Ты и сейчас не успеваешь, кхе."
+line-1152,哈洛德,还在咳血的人没有资格发言。,I take no criticism from anyone still hacking up blood.,"Тот, кто продолжает харкать кровью, права голоса не имеет."
+line-1154,锏,......不打了？,...We're done?,Хватит?
+line-1156,哈洛德,真不打了。,Well and truly done.,"Правда, хватит."
+line-1158,锏,好。,Okay.,Хорошо.
+line-1161,,恩希欧迪斯成功了。,Enciodes pulled it off.,Энсиодис преуспел.
+line-1162,,她做完了她该做的。,She did what she needed to.,"Она сделала всё, что должна была."
+line-1163,,锏只听到了这些。,That's all Degenbrecher hears.,Цзянь слышала только это.
+line-1165,哈洛德,哎，锏女士，留步！,"Now, Madam, stop there!","Эй, госпожа Цзянь, погодите!"
+line-1167,哈洛德,人这一生，总是充满了身不由己。,"The lives we live, they always tend to be out of our hands.","Жизнь человека всегда полна обстоятельств, против которых он бессилен."
+line-1168,哈洛德,就好像我早就想退休了，但我得为我手下一帮没落到多少好处的老兄弟们着想。,"I wanted to retire eons ago myself, but I have to keep my own men, my all too often down-and-out brothers in mind.","Например, я всегда хотел уйти в отставку, но я должен заботиться о своих старых братьях по оружию, которые так и не получили достойной награды."
+line-1169,哈洛德,不过这次，总该轮到我称心一回了吧？,"With this, it finally ought to be my turn for once, hm?","Но в этот раз, может, настало время и для моих интересов?"
+line-1170,哈洛德,看在您忠实的追随者遍体鳞伤的分上......,And in light of the fact your faithful fan's been beaten black and blue...,"В качестве компенсации за то, что ваш преданный поклонник весь в ранах..."
+line-1171,哈洛德,可以给我签个名吗？,Could you give me your autograph?,Можно мне ваш автограф?
+line-1173,锏,......这时候你还有心情要签名？,...You're still in the mood for that?,...И у тебя есть время просить автограф в такой момент?
+line-1175,锏,这张卡......呵。,This card... heh.,Эта карточка... Хе.
+line-1177,哈洛德,怎么了？,Do tell?,Что не так?
+line-1179,锏,我在第一次夺冠后，被他们软磨硬泡才同意拍了一组照片。,"The first time I won the Major, they wouldn't leave me alone until I agreed to a photoshoot.",После моей первой победы меня долго упрашивали согласиться на фотосессию.
+line-1180,锏,后来，我觉得太无聊了，就再也没同意过。,"After that, I never agreed to another one. They were too boring for me.","Позже, решив, что это слишком скучно, я больше никогда не соглашалась."
+line-1182,哈洛德,原来如此，难怪黑骑士的骑士卡无论发行几版永远都是那几个姿势。,"I see. No wonder The Black Knight's knight trumps always come in those same poses, edition after edition.","Вот оно что, неудивительно, что на карточках Черной рыцарши, сколько бы версий ни выпускали, всегда одни и те же позы."
+line-1185,,锏接过哈洛德递过来的笔，写下自己的名字——“锏”。,"Degenbrecher accepts the pen Harold holds out to her, and writes her name—'Degenbrecher'.",Цзянь взяла ручку из рук Гарольда и написала своё имя — «Цзянь».
+line-1187,锏,拿走。,Take it.,Забирай.
+line-1188,锏,你最好没有别的东西要我签名。,You'd better not have anything else for me to sign.,"Надеюсь, у тебя нет ничего ещё, что требовало бы моего автографа."
+line-1190,哈洛德,哎，锏女士，您去哪？,"Ah, Madam, where are you going?","Эй, госпожа Цзянь, куда же вы?"
+line-1191,哈洛德,需要我为您治疗一下吗？急救我很擅长哦。,"Do you need some quick treatment? My first aid's excellent, you know.","Может, мне вас подлечить? Я неплохо разбираюсь в оказании первой помощи."
+line-1194,,锏抬头看向日出的方向。,Degenbrecher lifts her head to look to the dawn.,"Цзянь подняла взгляд туда, где вставало солнце."
+line-1195,,远处，两道人影正走向她，她仍然看不清，但她知道那是谁。,"In the distance, two figures walk, approaching her. She still can't make them out, but she knows who they are.","Вдали к ней шли две фигуры, она всё ещё видела их смутно, но знала, кто это."
+line-1196,,和太阳平齐的地方，高大的耶拉冈德像好似正注视着她。,"It's like Kjeragandr on high is gazing down on her, someplace as high as the sun.","Там, на уровне солнца, великая статуя Йераганд будто бы наблюдала за ней."
+line-1198,锏,不用。,No need.,Не нужно.
+line-1200,锏,我要回去了。,I'm going back.,Я возвращаюсь.
+line-1202,锏,有人在等我。,There's people waiting for me.,Меня ждут.
