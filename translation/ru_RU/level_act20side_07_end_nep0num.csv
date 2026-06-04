@@ -1,0 +1,251 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act20side
+__chapter__,,Chapter Name,activities/act20side/level_act20side_07_end,生活之道
+,,,,
+char-1,广播,广播,Broadcast,Радио
+char-2,卡奇·叙光,卡奇·叙光,Catch Lightrace,Каци Сюйгуан
+char-3,睡着的黛柯绮·银币,睡着的黛柯绮·银币,A Sleeping Deculture Silvermint,Спящая Дайкоци Иньби
+char-4,黛柯绮·银币,黛柯绮·银币,Deculture Silvermint,Дайкоци Иньби
+char-5,耶奇·地心,耶奇·地心,Edge Eartheart,Еци Дисинь
+char-6,嘉维尔,嘉维尔,Gavial,Гавиль
+char-7,极境,极境,Elysium,Эльзиум
+char-8,奇怪的机械,奇怪的机械,Strange Machine,Странный механизм
+char-9,森蚺,森蚺,Eunectes,Томими
+char-10,阿芙朵嘉,阿芙朵嘉,Avdotya,Авдотья
+char-11,大祭司,大祭司,High Priest,Верховный жрец
+char-12,依娜姆,依娜姆,Inam,Инам
+char-13,克罗绮·砖石,克罗绮·砖石,Croque Diamondface,Крок-Кирпич
+,,,,
+line-11,广播,各位际崖城的居民，你们好。,Attention all residents of Zeruertza. It's a fine day.,"Жители города Цзея, здравствуйте."
+line-12,广播,耶奇大师的勘测结果已经出炉。,The results of Master Edge's survey have just been made available.,Мастер Еци закончил обследование.
+line-13,广播,活性源石矿脉的爆发时间，大约在二十五天后。,The active Originium vein is set to explode in approximately 25 days.,Извержение жильной активной Ориджиниума ожидается примерно через двадцать пять дней.
+line-14,广播,从现在开始，际崖城将正式进入撤离的准备阶段。,"Zeruertza is officially entering the preparatory phase of evacuation, commencing now.",С этого момента город Цзея официально переходит в стадию подготовки к эвакуации.
+line-15,广播,接下来，经过各位代表的讨论后，将在合适的时间于广场举行一场全体会议。,"Following discussions between your representatives, a general meeting will be held at a suitable timeslot in the forum.",Вскоре после обсуждения с представителями мы созовем общее собрание на площади в подходящее время.
+line-16,广播,届时，我们将讨论具体的撤离方案，以及城市的遗容。,"At that time, we will discuss the specifics of our evacuation program, as well as the dressing of our doomed city.",Там мы обсудим конкретный план эвакуации и облик города.
+line-17,广播,请各位际崖城居民注意收听广播。,"Residents of Zeruertza, stay tuned for further broadcasts.","Пожалуйста, следите за нашими объявлениями."
+line-29,卡奇·叙光,黛柯绮，醒醒，黛柯绮。,"Deculture. Wake up, Deculture.","Дайкоци, проснись, Дайкоци."
+line-31,睡着的黛柯绮·银币,......机器人斯第奇，真听话。,"...good boy, Robot Stitch.","…Робот Ститч, какой послушный."
+line-33,卡奇·叙光,......黛柯绮，黛柯绮。,...Deculture. Deculture.,"…Дайкоци, Дайкоци."
+line-35,睡着的黛柯绮·银币,机器人卡奇，笨笨的。,"You're so silly, Robot Catch.","Робот Каци, такой неповоротливый."
+line-36,睡着的黛柯绮·银币,你们，打一架。,Let's have the both of you fight.,"Эй вы, деритесь давай."
+line-38,卡奇·叙光,你到底在做什么梦啊。,What in all of love are you dreaming about?,Что тебе вообще снится?
+line-44,卡奇·叙光,黛柯绮！醒醒！,DECULTURE! WAKE UP!,Дайкоци! Проснись!
+line-49,黛柯绮·银币,嗯？怎么了？,Hmnuh? Whazzwha?,М? В чем дело?
+line-55,卡奇·叙光,......我还想问你呢，你怎么又在斯第奇的花园里午睡。,You know... I'd like to ask why you're taking a nap in Stitch's garden again.,"…Это я должен спрашивать, почему ты снова дремлешь в саду Ститча?"
+line-57,黛柯绮·银币,因为斯第奇的花园很安静啊。,Because it's so peaceful here.,Потому что в саду Ститча очень тихо.
+line-59,卡奇·叙光,看你睡得这么死，肯定也没听到广播吧。,"You must have missed the broadcast as well, seeing how cold you were out.","Раз ты так крепко спала, то наверняка пропустила объявление по радио."
+line-61,黛柯绮·银币,发生什么事了吗？,Did something happen?,Что-то случилось?
+line-63,卡奇·叙光,......耶奇大师去湖对岸勘测过后，发现了源石矿脉被之前的地震拉扯到了隧道出口的附近，而且活性化已经十分厉害了。,"Master Edge went to the other shore, did his survey, and found an Originium vein got shifted close to the tunnel entrance by the earthquake from before, and it's shockingly active too.","…Мастер Еци обследовал берег озера и обнаружил, что из-за землетрясения жила Ориджиниума сместилась ближе к выходу из туннеля, и активность ее сильно возросла."
+line-64,卡奇·叙光,我们接下来要开一次全体会议，决定如何避难。,"We're going to hold a general meeting, and decide on how we take refuge.","Теперь нам нужно провести общее собрание, чтобы решить, как проводить эвакуацию."
+line-66,黛柯绮·银币,哦。,Oh.,Оу.
+line-67,黛柯绮·银币,但是，你应该不是特意来告诉我这个的吧？,"You didn't come here just to tell me that, though, did you?","Но ведь ты пришел не только для того, чтобы сказать мне это, верно?"
+line-69,卡奇·叙光,......没错。,...Right.,…Верно.
+line-70,卡奇·叙光,我是来找斯第奇的。,I'm looking for Stitch.,Я ищу Ститча.
+line-72,黛柯绮·银币,斯第奇的话，他应该乘坐我借给他的船去湖对岸找耶奇大师他们去了。,"If you want Stitch, I think he's ridden the boat I lent him to the other shore, to meet Master Edge and the others.","Ститч, должно быть, взял лодку, которую я одолжила ему, и отправился на другой берег к мастеру Еци."
+line-74,卡奇·叙光,是吗，那我在这里等他吧。,"Really? I'll wait for him here, then.","Понятно, тогда я подожду его здесь."
+line-76,黛柯绮·银币,你找他有事吗？,Do you need him for something?,У тебя к нему дело?
+line-78,卡奇·叙光,嗯，我希望，他......能回到设计部来参与穹顶的设计修改。,Yes. I'm hoping... he'll return to the design department and work with us in amending the dome plans.,"Да, я хочу… чтобы он вернулся в конструкторский отдел и поучаствовал в доработке купола."
+line-79,卡奇·叙光,既然际崖城面临毁灭，我们关于这座城市地标的比拼已经毫无意义，但好在我们还有些时间。,"Since Zeruertza's facing destruction, there's no sense in holding the landmark competition anymore, but we're lucky to still have some time.","Раз уж город Цзея обречен, наши споры о том, чья архитектура лучше, теряют смысл, но, к счастью, у нас еще есть немного времени."
+line-80,卡奇·叙光,那么，我们在之后的大会上肯定需要决定，该如何处理地震留下的穹顶缺口。,"So, we'll have to make a decision at the meeting regarding how to handle that hole the earthquake left in the dome.","На общем собрании нам нужно будет решить, что делать с пробоиной в куполе, оставшейся после землетрясения."
+line-82,黛柯绮·银币,就那么放着不管我觉得也可以吧？,"I dunno, just leaving it sounds fine to me. Thoughts?","Может, просто оставить все как есть?"
+line-84,卡奇·叙光,即使如此，那也要城里的居民们都同意才行。,"Even if we wanted to, we'd need the citizens to approve that first.","Даже в этом случае, жители должны дать согласие."
+line-85,卡奇·叙光,让一座城市在这片土地上存在的最后一瞬间趋于完美，这对于每个建筑设计师来说都是非常有意义的事情。,"It's an extremely significant thing to any architectural designer, letting a city reach perfection during its final moments.",Сделать последний момент существования города безупречным — это очень важно для каждого архитектора.
+line-86,卡奇·叙光,我们会对这座城市进行最后一次观察，并且给出一个在有限的时间里能够完成的方案。,"We're giving the city a final round of observation, and putting out a plan we can fulfil in the finite time we have.","Мы проведем финальный осмотр и предложим решение, которое успеем реализовать за оставшееся время."
+line-88,黛柯绮·银币,所以，你希望斯第奇能够回去。,"So, you're hoping Stitch will return.","Поэтому ты хочешь, чтобы Ститч вернулся."
+line-90,卡奇·叙光,嗯。,Right.,Да.
+line-91,卡奇·叙光,我不知道芬奇大师为什么会忽然离开，别人或许会以为，是因为他们师徒的感情淡了，或者缘分尽了，但我知道，这是不可能的。,"I don't know why Master Finch left, all of a sudden. Others might believe their tutor-apprentice relationship was fading, or their time was just up, but I know that can't be the case.","Я не знаю, почему мастер Финч внезапно ушел. Другие могли подумать, что они охладели друг к другу или их пути разошлись, но я знаю, что это невозможно."
+line-92,卡奇·叙光,作为芬奇大师过去的助手，我比任何人都了解，他虽然是个十分豪放的人，但心底里其实非常关心斯第奇。,"As a former assistant to Master Finch, I know more than anyone that despite his personal utter lack of inhibition, he cared very much for Stitch, from the bottom of his heart.","Как бывший помощник мастера Финча, я знаю его лучше других. Хоть он и был человеком широкой души, в глубине сердца он очень заботился о Ститче."
+line-93,卡奇·叙光,对他来说，斯第奇就像他的亲生儿子一样。,Stitch was like a son to him.,Для него Ститч был как родной сын.
+line-94,卡奇·叙光,所以，他的离开一定和斯第奇有密不可分的关系。,So his departure has to have some inextricable link to Stitch.,"Значит, его уход неразрывно связан со Ститчем."
+line-95,卡奇·叙光,而斯第奇在大师离开后的情况，身为工业代表你也看在眼里。,"And as industrial representative, you've seen the state Stitch has fallen into since his teacher left.","А как обстояли дела у Ститча после ухода мастера, ты, как представитель промышленности, тоже видела."
+line-96,卡奇·叙光,他从一次次提出的方案被否决，到逐渐不再在设计部出现，在这中间，我一直想要帮他，却始终没有找到办法。,"His planning proposals kept getting overruled to the point he's slowly stopped showing up at the design department, and I've been seeing it happen and wanting to help him somehow, but I've never been able to find a way.","От проектов, которые постоянно отклоняли, до того момента, как он перестал появляться в отделе… я хотел помочь, но так и не нашел способа."
+line-97,卡奇·叙光,这座穹顶，是斯第奇的老师，芬奇大师留给这座城市最宏伟的作品。,"This dome was left to the city as the grandest work of Stitch's teacher, Master Finch.","Этот купол — величайшая работа, которую мастер Финч оставил городу."
+line-98,卡奇·叙光,但这座穹顶，对斯第奇来说，会不会反而是一种负担呢？,"But do you think, to Stitch, it might instead be a burden?",Но не стал ли этот купол для Ститча тяжкой ношей?
+line-100,黛柯绮·银币,......,......,…
+line-101,黛柯绮·银币,即使如此，你也不希望他留下遗憾，对吗？,"Even so, you don't want him left with any regrets, right?","Но ведь ты не хочешь, чтобы он остался с чувством сожаления, верно?"
+line-103,卡奇·叙光,嗯。,Right.,Да.
+line-104,卡奇·叙光,这是最后的机会了，黛柯绮。,"This is our last chance, Deculture.","Это наш последний шанс, Дайкоци."
+line-106,黛柯绮·银币,真有你的风格。,How very you.,Вполне в твоем стиле.
+line-114,耶奇·地心,斯第奇，斯第奇！你在吗？,"Stitch, Stitch! Are you there?","Ститч, Ститч! Ты здесь?"
+line-116,嘉维尔,嗯？怎么是你们两个？,Huh? What are you two doing here?,М? А почему это вы двое?
+line-118,极境,卡奇，原来你和黛柯绮是这种关系吗？,"Catch! So you and Deculture got something going on, huh?","Каци, так вы с Дайкоци состоите в таких отношениях?"
+line-120,黛柯绮·银币,不是。,No we don't.,Нет.
+line-122,极境,哇哦，好果断。,"Wow, ice-cold.","Ого, вот это решительность."
+line-124,卡奇·叙光,你就别拿我开玩笑了，极境哥。,"Keep me out of your banter, Elysium.","Перестань подкалывать меня, брат Эльзиум."
+line-125,卡奇·叙光,耶奇大师，嘉维尔小姐，你们辛苦了。,"Master Edge, Miss Gavial, good work.","Мастер Еци, госпожа Гавиль, спасибо вам за труд."
+line-127,黛柯绮·银币,我在这里午睡，他在这里等斯第奇回来。,"I'm just napping here, and he's waiting for Stitch to come back.","Я здесь спала, а он ждал, когда вернется Ститч."
+line-129,耶奇·地心,斯第奇没有回来吗？,You're saying Stitch hasn't?,Ститч так и не вернулся?
+line-131,黛柯绮·银币,他不是应该给大师你们送设备去了吗？还闹出了不小的动静呢。,Didn't he bring you and your friends the equipment? And he made kind of a whole scene about it.,Разве он не должен был доставить вам оборудование? Он ведь шуму наделал немало.
+line-133,耶奇·地心,但他中途就不见了，我们都不知道他去哪了，结果他也没有回家吗......,"But he vanished partway, and we don't know where he went, and here it turns out he's not home.","Он исчез по дороге. Мы не знаем, где он, и, получается, домой он тоже не приходил…"
+line-135,嘉维尔,特米米遇到过这小子，说他的表情好像很难受。,"Tomimi ran into the runt, and said he looked pretty damned unhappy.","Термими встречала этого парня, сказала, что выглядел он очень расстроенным."
+line-136,嘉维尔,你们有什么头绪吗？,Any ideas?,У вас есть какие-нибудь догадки?
+line-138,黛柯绮·银币,我......不知道。,I... don't know.,Я… не знаю.
+line-140,卡奇·叙光,......我可能知道。,...I might.,"…Кажется, я знаю."
+line-151,奇怪的机械,祖玛玛，祖玛玛，这一列，也没有。,"Zumama. Zumama. Not in this row, either.","Зумами, Зумами, в этом ряду тоже нет."
+line-153,森蚺,嗯，看看下一列吧。,"Okay, move onto the next.","Хм, давай посмотрим следующий."
+line-155,阿芙朵嘉,哎，我有些累了。,"Ugh, this is tiring me out, a little.","Эх, я немного устала."
+line-156,阿芙朵嘉,居然到现在都没找到......,I can't believe we still haven't found it.,"Столько времени прошло, а мы так и не нашли…"
+line-158,森蚺,你休息一下吧。,"Go on, take a break.",Отдохни немного.
+line-160,阿芙朵嘉,关于刚才的问题，我还是想知道为什么，祖玛玛。,"About my earlier question—I'd still like to know why, Zumama.","Насчет того вопроса, я все еще хочу знать почему, Зумами."
+line-162,阿芙朵嘉,你不会没有发现在杜林城邦的生活有多么美好。,I can't imagine you've been blind to how fine life is among the Durins.,"Ты ведь не могла не заметить, насколько прекрасна жизнь в городах Дуринов."
+line-163,阿芙朵嘉,这里没有贵族阴谋，没有勾心斗角——即使有，也都是可爱的。,"There's no noble conspiracies, no scheming and jockeying—and even if there is, it's just plain adorable.","Здесь нет дворянских интриг и подковерных игр — даже если и есть, то они кажутся милыми."
+line-164,阿芙朵嘉,即使是我们即将面临的灾难，杜林对其也有足够的预案，他们现在甚至能够悠闲地思考——,"Even as we're on the verge of calamity, the Durins have sufficient contingency plans in place, and they even have the leisure at this moment to consider—","Даже перед лицом грядущей катастрофы у Дуринов есть достаточно планов действий, они даже могут спокойно размышлять —"
+line-165,阿芙朵嘉,如何让际崖城以他们认为最好的姿态迎接毁灭。,How Zeruertza can greet its destruction in the best condition they can imagine.,"о том, как позволить городу Цзея встретить свое разрушение с достоинством."
+line-167,森蚺,我没有否定你的想法啊，阿芙朵嘉。,"I'm not denying any of that, Avdotya.","Я не отрицаю твои мысли, Авдотья."
+line-168,森蚺,我觉得你说的挺对的，杜林的生活挺好的。,I think you're pretty on point. Durin life's not bad.,"Мне кажется, ты права, жизнь Дуринов действительно хороша."
+line-170,森蚺,我拒绝你的理由不是觉得你说的这些不好，而是......我不喜欢。,"I'm not refusing you because I think what you're saying is wrong, it's because... I don't like it.","Я отказываюсь не потому, что считаю все это плохим, а потому что… мне это не по душе."
+line-171,森蚺,要是到时候有提亚卡乌愿意来地下生活的话，我想，我也好，依娜姆也好，都不会阻止的。,"If there was a Tiacauh who wanted to come live underground, then I wouldn't stop them, and neither would Inam.","Если кто-то из Тиакау захочет жить под землей, думаю, ни я, ни Инам не станем их останавливать."
+line-173,阿芙朵嘉,为什么？我并不是单单因为自身的经历而排斥地面的生活。,But why? I'm not just rejecting surface life out of my own experiences.,Почему? Я ведь не просто из-за личного опыта отвергаю жизнь на поверхности.
+line-174,阿芙朵嘉,在杜林城邦的这段日子里，我思考过许多次这样的事情。,"I've thought over this countless times, spending my days in the Durin cities.","За то время, что я провела среди Дуринов, я много раз размышляла об этом."
+line-175,阿芙朵嘉,我认为，从结果上来说，杜林人过的生活无疑是一种更好的，更有人文追求的生活。,"I believe, and results show, the Durins live an undoubtedly better life, one more in pursuit of culture.","Я считаю, что с точки зрения результата жизнь Дуринов — это, безусловно, более совершенная и гуманная жизнь."
+line-176,阿芙朵嘉,但为什么你也好，嘉维尔也好，都对于一种更好的生活不感兴趣？,"But why would you, or Gavial, or anyone not want a better life?","Но почему же ни ты, ни Гавиль не интересуетесь такой жизнью?"
+line-178,森蚺,......,......,…
+line-179,森蚺,我的师父除了对于机械知识非常精通之外，也是个影视迷。,"My master isn't just wildly proficient with machines. She's really into movies, and dramas too.","Моя учительница, помимо глубоких знаний в механике, была еще и фанаткой кино."
+line-180,森蚺,她经常会拉着我看各种各样的东西，并且根本不管我感不感兴趣就给我讲解，久而久之，我也记住了一些。,"She gets me watching all sorts of stuff, and she doesn't even care if I'm interested—she explains it all to me. I've ended up remembering a few things, over time.","Она часто заставляла меня смотреть всякое, даже если меня это не интересовало, и объясняла все подряд. Со временем я многое запомнила."
+line-181,森蚺,比如，她在看到剧中人开始长篇大论的时候，总是会说——,"For example, when she sees a character about to go on a long speech, she always says—","Например, когда персонажи в кино начинали долго и нудно спорить, она всегда говорила:"
+line-183,森蚺,“唉，这种义正词严地长篇大论的人，一般最后要么是反派，要么是主角的绊脚石，就不能设计点可爱的角色吗......”,"'Ugh, long-winded righteous guys like this either turn out as villains, or they just get in the protag's way. Can't they just make their characters a little cuter...?'","«Эх, те, кто так пафосно разглагольствует, обычно либо злодеи, либо препятствия для героев. Неужели нельзя придумать персонажей посимпатичнее?»"
+line-185,阿芙朵嘉,......,......,…
+line-187,森蚺,为什么你一定要说服我，或者说服嘉维尔呢？,"Why do you need to convince me, or Gavial?",Почему ты так хочешь убедить меня или Гавиль?
+line-189,阿芙朵嘉,我......,I...,Я…
+line-191,大祭司,噢，顺便一提，小姑娘，关于杜林，你的看法实际上并不正确。,"Oh, and might I add, young lady, your view of the Durins is actually quite wide of the mark.","О, кстати, юная леди, твое мнение о Дуринах на самом деле не совсем верно."
+line-193,阿芙朵嘉,为什么？,In what way?,Почему?
+line-195,大祭司,如果你说，在杜林城邦的生活是一种“更便捷”“更舒适”“更安全”之类的生活，我都不会反驳你。,"If you'd said life in the Durin city-states was more 'on-demand,' or 'cozier,' or 'safer' of a life, I wouldn't retort.","Если бы ты сказала, что жизнь в городах Дуринов более «удобная», «комфортная» или «безопасная», я бы не стал спорить."
+line-196,大祭司,但你认为，杜林人过的生活是一种“更好的”生活，只有这一点，或许并不是这样。,"But you hold that the Durin lifestyle is a 'better' life, and dare I say, that alone may well be wrong.","Но ты считаешь ее «лучшей», и вот это, возможно, не совсем так."
+line-197,大祭司,你是个聪明的孩子，不会不了解这其中的差别。,You're a clever child. I'm sure the distinction there doesn't fly past you.,Ты умная девочка и не можешь не понимать разницу.
+line-199,阿芙朵嘉,老先生......我暂且这么称呼您，我明白您的意思。,Good sir... I—I'm calling you that for now. I understand what you mean.,"Старче… позвольте мне так вас называть, я понимаю, о чем вы."
+line-200,阿芙朵嘉,但是，难道说，我希望其他人过上物质上和精神上都更加富足的生活是错的吗？,"But can you really say it's wrong for me to wish for others to live a more materially, spiritually plentiful life?",Но разве неправильно желать другим более богатой в материальном и духовном плане жизни?
+line-202,大祭司,这是另一个问题，现在的你，只是希望从一场早已结束的辩论中挽回自己的一点颜面，不是吗？,"That's a different question. You're simply looking to redeem a little of the prestige you lost in an argument that's long since ended, no?","Это другой вопрос. Сейчас ты просто пытаешься спасти остатки своего достоинства в споре, который давно закончился, не так ли?"
+line-204,阿芙朵嘉,......,......,…
+line-213,嘉维尔,也就是说，你觉得斯第奇因为心理压力太大，所以选择了逃避？,"So basically, you think the pressure to Stitch's mind, so he chose to run?","То есть ты считаешь, что Ститч сбежал из-за психологического давления?"
+line-215,卡奇·叙光,是的。,Exactly.,Да.
+line-216,卡奇·叙光,如果是这样的话，我想，他现在可能去了湖边的一座小房子里吧。,"And if so, my bet is he's gone to a hut by the lakeside.","Если это так, думаю, он мог отправиться в небольшой домик у озера."
+line-217,卡奇·叙光,在他搬到这栋房子来之前，那里是他和他的老师一起生活的地方。,"Before he moved into this building, that was where he and his teacher lived together.","Прежде чем переехать, он жил там вместе со своим учителем."
+line-219,耶奇·地心,卡奇，你明白我想说什么吧？,"Catch, you know what I want to say here, don't you?","Каци, ты понимаешь, что я хочу сказать?"
+line-221,卡奇·叙光,如果最后决定要修改穹顶设计，而斯第奇还是不愿意的话，由我来，是吗？,"If we end up deciding to amend the dome design, and Stitch is still unwilling, then it's down to me, right?","Если в итоге нужно будет менять дизайн купола, а Ститч не захочет, то это сделаю я, верно?"
+line-223,耶奇·地心,这不仅仅是为了城市的遗容，从现实的角度来说，穹顶的加固也能为我们的撤离争取更多的时间。,"It's not just for the sake of dressing the city. From a realistic standpoint, reinforcing the dome'll buy us more time to evacuate.","Это не только ради облика города, но и с практической стороны: укрепление купола даст нам больше времени на эвакуацию."
+line-224,耶奇·地心,我和芬奇是好朋友，对于他的不告而别我也搞不懂，所以之前，我也想着尽量照看一下他的弟子。,"Finch and I were good friends, and I couldn't make sense of him leaving without a word either, so I'd been wanting to look after his student as best I could.","Мы с Финчем были хорошими друзьями, и его уход без объяснений для меня загадка, поэтому я старался присматривать за его учеником."
+line-226,耶奇·地心,但凡事都有个界限。,There's a boundary to everything.,Но во всем есть свои границы.
+line-228,卡奇·叙光,......嘉维尔小姐，能麻烦你去找一找斯第奇吗？,Miss Gavial... can we trouble you to go find Stitch?,"…Госпожа Гавиль, не могли бы вы поискать Ститча?"
+line-230,嘉维尔,不用你说，我也正打算去呢，特米米自告奋勇去帮城里的人做事了，我正愁没事干呢。,"You didn't need to ask—I was gonna. Tomimi volunteered to help the city people out with stuff, and having an empty plate bugged me.","Можешь не просить, я и так собиралась. Томими вызвалась помочь жителям, а я как раз не знала, чем заняться."
+line-232,嘉维尔,现在看来，我和他之间可能有笔小账要算呢。,"I think him and I have a little debt to settle at this point, too.","Похоже, у меня с ним накопились счеты."
+line-234,卡奇·叙光,......那就拜托你了。,Then I'll leave it to you.,…Тогда полагаюсь на вас.
+line-236,嘉维尔,那栋房子在哪？,Where's that hut?,Где этот дом?
+line-238,卡奇·叙光,就在湖边，和这栋房子的风格很像，很独特，过去就能看到。,"Just on the lakeside, similar style to this building. Very unique. You'll see it the moment you get there.","У берега озера. Стиль у него такой же уникальный, как и у этого здания, сразу увидите."
+line-240,嘉维尔,好嘞。,You got it.,Ладно.
+line-246,极境,卡奇，你不去吗？,"Catch, aren't you gonna go?","Каци, а ты сам не пойдешь?"
+line-248,卡奇·叙光,我......我不知道在这种情况下，应该怎么面对斯第奇。,"I... I don't know how I should face Stitch, under these circumstances.","Я… не знаю, как мне встретиться со Ститчем в такой ситуации."
+line-250,极境,但你很关心他，不是吗？,"But you're worried sick for him, aren't you?","Но ведь ты беспокоишься о нем, верно?"
+line-252,卡奇·叙光,在芬奇大师不告而别后，我一直想要帮助他，却不知道该怎么做。,"Ever since Master Finch vanished, I've been wanting to help him, but I just don't know how.","После того как мастер Финч ушел, я все время хотел помочь ему, но не знал как."
+line-254,极境,你啊，该说你是人太好了呢，还是人太太太好了呢。,"C'mon. Do I diagnose you with 'too nice,' or 'way way way too nice?'","Ну ты даешь… даже не знаю, то ли ты слишком добрый, то ли слишком, слишком добрый."
+line-255,极境,不过，你们杜林人确实整体上给我的感觉是这样没错。,"Nah, I guess you Durins do give me that kind of vibe, on the whole.","Хотя, вы, Дурины, в целом на меня именно такое впечатление и производите."
+line-257,卡奇·叙光,欸？,Eh?,А?
+line-259,极境,出于我也不知道的原因，斯第奇其实是比较自卑的。,"For reasons I don't know either, Stitch actually has kind of an inferiority thing.","Не знаю почему, но Ститч на самом деле не уверен в себе."
+line-260,极境,对他这种性格的人来说，你以你认为平等的态度去和他交流，在他看来，其实就是一种高姿态的施压。,"With his type of personality? You greet him with what you think is an equal approach, but to him, it actually comes off like a sort of pressure from on high.","Для таких людей твое отношение, которое ты считаешь «равным», выглядит как давление свысока."
+line-261,极境,因为对他来说，光是伪装出自己和你平等的态度就已经竭尽全力了。,"Because for him, it takes everything he's got just to pretend he's on the same level as you guys.","Потому что для него даже просто притворяться, что он с тобой на равных, — уже колоссальное усилие."
+line-262,极境,与人交流不是付出一片真心就一定能够有回报的。,You can't just invest some sincerity and expect results when it comes to communicating.,В общении с людьми искренность не всегда гарантирует отдачу.
+line-264,卡奇·叙光,那，我该怎么办？,"So, what should I do?",Тогда что мне делать?
+line-266,极境,既然你喊我一声极境哥，那我这个做哥哥的，自然也要给你支两招。,"Well, alright. You treat me like a brother, in times like these, I'll teach you a thing or two, just how brothers should.","Раз уж ты зовешь меня братом Эльзиумом, я как старший дам тебе пару советов."
+line-267,极境,其实很简单，你不要去说什么我希望你和我公平竞争，不要跟他说，你有选择。,"It's actually real simple. You don't say anything like 'I want a fair competition with you,' and you don't say to him, 'you've got a choice.'","Все просто: не говори ему «я хочу, чтобы мы соревновались честно», не говори, что у него есть выбор."
+line-268,极境,你要封住他的退路，告诉他，你没得选，但我会和你一起努力。,"You seal off his escape route, and you tell him, 'you've got no choice, but I'll be right there with you, and we'll do our best.'","Отрежь ему путь к отступлению, скажи: «у тебя нет выбора, но я буду работать вместе с тобой»."
+line-269,极境,对于把自己关在自己制造的小空间里太久的人，有的时候，是需要一些刺激的。,"A man who spends too long shut in his own self-made space tends to need a little prodding, from time to time.","Тем, кто слишком долго закрывался в своей маленькой ракушке, иногда нужен хороший толчок."
+line-271,极境,黛柯绮小姐觉得呢？,"Miss Deculture, what do you say?","Как считаете, госпожа Дайкоци?"
+line-273,黛柯绮·银币,为什么要问我？,Why ask me?,Почему спрашиваешь меня?
+line-275,极境,我只是说了一些我的猜测，而你，显然是在场的人中最了解他的。,"I'm just making some of my own guesses here, but you, you clearly know him better than anyone.","Я просто высказал предположение, а ты здесь знаешь его лучше всех."
+line-277,黛柯绮·银币,......斯第奇他确实是有些自卑的。,Stitch does have a sort of inferiority complex.,…Ститч действительно не уверен в себе.
+line-279,黛柯绮·银币,或许你说得确实没错吧，他需要的不是温柔的安慰，而是有人狠狠地拉他一把。,"You might just be right. He doesn't need tender comfort, he needs someone to really yank him out.","Может, ты и прав. Ему нужны не мягкие утешения, а чтобы кто-то крепко заставил его двигаться вперед."
+line-281,卡奇·叙光,这样，不会伤到他吗？,Won't that... hurt him?,А это не причинит ему боли?
+line-283,极境,会，而且不一定会有好的效果。,"It will, and it's not guaranteed to turn out pretty.","Причинит, и результат не гарантирован."
+line-284,极境,但是，如果如你所说，这是他最后的机会——,"But if this is his last chance, as you say—","Но если это, как ты сказал, последний шанс —"
+line-285,极境,你也要问问你自己，你究竟只是想要和他关系变好，还是说，即使关系恶化，你也希望他走出来？,"Then you ask yourself too, do you just want to get along better with him, or do you want him to make his way out, even if it makes your relationship worse?","спроси сам себя: ты хочешь только наладить с ним отношения или готов рискнуть ими ради того, чтобы он вышел из своей тени?"
+line-287,卡奇·叙光,......,......,…
+line-288,卡奇·叙光,我会去试试。,I'll give it a try.,Я попробую.
+line-290,极境,那我建议你快一点。,Then I think you oughta speed it up.,Тогда советую поторопиться.
+line-291,极境,不然的话，嘉维尔的拳头，可就不是“拉一把”那么简单了。,"Or we get Gavial's fists instead, and those sure don't settle for 'yank him out.'",Иначе кулаки Гавиль — это уже будет не просто «толчок».
+line-293,卡奇·叙光,哈哈，那我就先去了！,"Haha, I'll get going now, then!","Ха-ха, тогда я пошел!"
+line-301,黛柯绮·银币,......,......,…
+line-318,黛柯绮·银币,......,......,…
+line-319,黛柯绮·银币,活泼，外向，懂得社交，这些确实都是很好的品质，卡奇。,"Lively, extroverted, grasps social contact. They're all fine character traits, Catch.","Активность, общительность, социальные навыки — это, безусловно, хорошие качества, Каци."
+line-320,黛柯绮·银币,你认为人应该变成这样，而你也确实是在这么做的。,"You believe people should become that way, and you do work to see that happen.","Ты считаешь, что люди должны быть такими, и сам этому следуешь."
+line-322,黛柯绮·银币,但你不能总是想要让别人变得和你一样。,But you can't always hope for everyone else to be like you.,"Но нельзя постоянно пытаться сделать других такими же, как ты."
+line-323,黛柯绮·银币,极境的话也是对的，如果我要帮斯第奇的话，或许我也会这么做。,"Elysium's right too, and if I'm going to help Stitch, maybe that's what I need to do.","Эльзиум тоже прав, если бы мне нужно было помочь Ститчу, я бы, возможно, поступила так же."
+line-325,黛柯绮·银币,但我觉得苦恼和逃避也是对的。,"But I think distress and evasion are just as correct, too.","Но я считаю, что страдания и желание сбежать — это тоже нормально."
+line-326,黛柯绮·银币,所以......,So...,Поэтому…
+line-328,黛柯绮·银币,卡奇，既然你要按照你的想法去做，那我也要按照我的想法去做。,"Catch, seeing as you're going to do things your way, I'll do things my way.","Каци, если ты будешь действовать по-своему, я буду действовать по-своему."
+line-329,黛柯绮·银币,如果斯第奇想要逃，我会帮他逃。,"If Stitch wants to run, I'll help him run.","Если Ститч захочет сбежать, я помогу ему сбежать."
+line-336,奇怪的机械,黛柯绮，黛柯绮，你找我们？,Deculture. Deculture. Do you need us?,"Дайкоци, Дайкоци, ты нас звала?"
+line-338,黛柯绮·银币,去吧，去帮斯第奇。,Go. Help Stitch out.,"Идите, помогите Ститчу."
+line-347,极境,......黛柯绮小姐，如果她不是故意的，那就是她并没有发现自己的表情其实很好读懂吧。,"If Miss Deculture wasn't doing it on purpose, then she doesn't realize just how easy it actually is to read her face.","…Госпожа Дайкоци. Если она не специально, значит, она просто не замечает, что ее мысли очень легко читаются."
+line-349,极境,她其实并不同意我的话，呵呵。,"She doesn't agree with what I say at all, heheh.","На самом деле она не согласна со мной, ха-ха."
+line-351,极境,嗯——好久没有感到这么青春的氛围了，我都有点想去凑热闹啊。,Man—I haven't felt this youthful a vibe in forever. It makes me wanna join in on the fun a little.,"М-м, давно я не чувствовал такой юношеской атмосферы, аж самому хочется поучаствовать."
+line-353,极境,......,......,…
+line-355,极境,算了，真过去的话，说不定会被嘉维尔卷进去。,"Nah. If I did go, I might just get swept in by Gavial.","Ладно, если полезу, еще попаду под горячую руку Гавиль."
+line-356,极境,我可不想平白无故挨一顿揍。,I don't want to be beaten for no good reason.,Не хочется получить по шее без причины.
+line-358,极境,所以，斯第奇啊，你也该醒一醒了。,"Okay, Stitch! You'd better shake up and wake up.","Так что, Ститч, тебе пора проснуться."
+line-359,极境,有这么多人都想要帮你呢，视而不见可是会遭报应的。,"Turn a blind eye to all these guys who want to help you, and you don't know how it might come back to haunt you.","Столько людей хотят тебе помочь, закрывать на это глаза — грех."
+line-369,阿芙朵嘉,我不明白，你们明明不像嘉维尔那样不讲道理。,I don't understand. You people clearly aren't as unreasonable as Gavial.,"Я не понимаю, вы ведь совсем не такие безрассудные, как Гавиль."
+line-370,阿芙朵嘉,为什么你们会这么地——,Why do you insist so much on—,Почему вы так…
+line-371,阿芙朵嘉,惯着她？,Indulging her?,потакаете ей?
+line-377,依娜姆,因为看到嘉维尔这样的人，你难道不觉得，我们需要这样的人吗？,"I ask you, do you not look at Gavial and feel that we need someone like her?","Разве ты не считаешь, что видя такого человека, как Гавиль, понимаешь — нам нужны именно такие люди?"
+line-379,森蚺,依娜姆，你不是在外面吗？,"Inam, weren't you waiting outside?","Инам, ты разве не снаружи?"
+line-381,依娜姆,看你们半天不出来，还以为你们在干什么呢......,"You spent so long in here, I thought you were up to something...","Смотрю, вы долго не выходите, думаю, чем это вы там занимаетесь…"
+line-382,依娜姆,阿芙朵嘉，其实我们是有些相似的。,"Avdotya, you and I happen to be similar in ways.","Авдотья, на самом деле мы с тобой чем-то похожи."
+line-383,依娜姆,我会来阿卡胡拉当信使，很大一部分原因，其实是想要逃避无止境的王酋之间的倾轧。,A huge part of why I came to serve as Acahualla's Messenger was that I wanted to escape the unending strife between the lords ameer.,"Я стала гонцом в Акахуле во многом потому, что хотела сбежать от бесконечных распрей вождей."
+line-384,依娜姆,阿卡胡拉什么都没有，但是在这里的生活很舒服，我很喜欢这片土地。,"Acahualla has nothing to speak of, but life here is extremely comfortable. I'm a big fan of this land.","В Акахуле ничего нет, но жизнь там комфортная, мне нравится эта земля."
+line-385,依娜姆,而且，要说担心，我比你更担心杜林的到来会不会引发什么问题。,"And also, if we're raising worries, then I'm more worried than you about the Durins' showing up causing issues.","И если уж говорить о беспокойстве, я переживаю из-за прихода Дуринов даже больше тебя."
+line-387,阿芙朵嘉,那你为什么还......,Then why are you still...,Тогда почему ты…
+line-389,依娜姆,嘉维尔离开了阿卡胡拉这么多年，一点也没有改变。,"Gavial's been gone from Acahualla for so many years, and hasn't changed one bit.","Гавиль так долго отсутствовала, но совсем не изменилась."
+line-390,依娜姆,仿佛这片大地上没有什么东西能够让她屈服。,"As if nothing, anywhere, across all the four corners could make her surrender.","Кажется, на этой земле нет ничего, что могло бы заставить ее склониться."
+line-391,依娜姆,看到嘉维尔，我就会想，啊，这片大地上还是有这样的人的啊。,"When I see Gavial, I think to myself, 'ah—so people like you still exist.'","Видя Гавиль, я думаю: о, на этом свете все еще есть такие люди."
+line-392,依娜姆,我会忍不住地想要帮她一把。,I can't help but want to help her.,И я не могу не помочь ей.
+line-393,依娜姆,就这么简单。,It's that simple.,Все просто.
+line-395,森蚺,......,......,…
+line-397,森蚺,在跟着嘉维尔离开阿卡胡拉前，我也十分无知。,"Before I left Acahualla with Gavial, I was completely ignorant.","До того как я покинула Акахулу с Гавиль, я была очень невежественна."
+line-398,森蚺,我跟着罗德岛看到了许多东西，但我逐渐发现，我真正学到的，并不只是知识。,"I've seen so many things with Rhodes Island, but I've slowly realized that what I'm really learning isn't just knowledge.","На Родос я увидела многое, но постепенно поняла: знания — это не все, чему я научилась."
+line-399,森蚺,这片大地上有着许多我没有想过，但又理所当然的事情。,"There's so much across the world that I've never thought of, that at the same time is exactly how you should expect.","На этой земле происходит множество вещей, о которых я и не задумывалась, но они естественны."
+line-400,森蚺,嘉维尔一定也已经见过许多她也无能为力的事。,I'm sure Gavial's seen plenty where she's just as powerless too.,"Гавиль наверняка тоже видела много того, с чем ничего нельзя поделать."
+line-401,森蚺,我的梦想是造出这片大地上最厉害的机器。,My dream is to build the mightiest machine in any land.,Моя мечта — создать мощнейшую машину на этой земле.
+line-403,森蚺,但造出来之后该用来做什么呢，我其实也没有想好。,"But truth is, I still haven't figured out what I should use it for when I'm done.","Но зачем она нужна, когда будет создана? Я не знала."
+line-404,森蚺,不过，看着嘉维尔，我逐渐有了一个想法。,"Still, seeing Gavial, I've gradually gotten some sort of idea.","Однако, глядя на Гавиль, у меня появилась идея."
+line-405,森蚺,我制造的机器，会用来帮助嘉维尔。,The machines I make will be used to help her.,"Машины, которые я создаю, будут помогать Гавиль."
+line-407,森蚺,总有一天，嘉维尔的拳头会遇到砸不穿的墙壁。,There'll come a day when Gavial's fists meet a wall they can't break through.,"Однажды Гавиль наткнется на стену, которую не сможет пробить."
+line-408,森蚺,但那并不是她的问题，她毕竟也是血肉之躯。,"But that's not a problem with her. She's flesh and blood too, after all.","Но дело не в ней, она ведь тоже человек."
+line-409,森蚺,而我会像这一次一样，给她最好的武器。,"And just like I've done here and now, I'll give her the greatest weapon.","И тогда, как и сегодня, я дам ей лучшее оружие."
+line-410,森蚺,拳头不行，那就用斧头。斧头不行，那就用锤子。锤子不行，那就用电钻。电钻不行，那我就给她造一台大丑。,"If fists won't do it, then take an axe. If an axe won't do it, then take a hammer. If a hammer won't do it, then take a drill. If a drill won't do it, then I'll build her an entire Big, Ugly Thing.",Кулаки не справляются — возьмет топор. Топор нет — молот. Молот нет — дрель. Дрель нет — дам ей «Большую Гадость».
+line-411,森蚺,如果大丑还不行，那我就给她造一座移动城市，她想用来干什么，就用来干什么。,"And if a Big Ugly won't do it, then I'll build her a nomadic city, and whatever she wants to do with that, she will.","А если и она не справится, я построю ей целый мобильный город, пусть использует для чего захочет."
+line-413,阿芙朵嘉,你就这么信任她？,You really trust her that much?,Ты настолько ей доверяешь?
+line-415,森蚺,因为嘉维尔比任何东西都能代表阿卡胡拉。,I do. Because Gavial stands for Acahualla better than anyone or anything ever could.,"Потому что Гавиль олицетворяет Акахулу больше, чем кто-либо."
+line-416,森蚺,她是我们的主心骨，她也将成为更多人的主心骨。,"She's the backbone of us, and in future, she'll be the backbone of even more.","Она наш стержень, и она станет стержнем для многих других."
+line-417,森蚺,而我们能做的，就是让嘉维尔的拳头永远不受阻碍。,"And it's in our power, our own power, to make sure Gavial's fists are unhindered for eternity.","А мы можем лишь сделать так, чтобы кулаки Гавиль ничто не сдерживало."
+line-419,阿芙朵嘉,......,......,…
+line-421,依娜姆,当然，实际上我也挺担心，真的把阿卡胡拉交给她来管会成什么样子就是了。,"Of course, realistically, I'm just as worried what leaving Acahualla to her purview will result in.","Конечно, я сама беспокоюсь, что будет, если управление Акахулой действительно достанется ей."
+line-422,依娜姆,以嘉维尔的性格，让她去拥有权力，权力可能会比她还不自在。,"With Gavial's temperament, giving her authority might discomfort the powers more than it will her.","С характером Гавиль, власть будет чувствовать себя рядом с ней более неловко, чем она сама."
+line-423,依娜姆,所以，其实如果她真的来当王酋的话，我是打算给她狠狠培训一段时间的。,"So, if she really was going to serve as lord ameer, I was planning to thoroughly groom her for it for a stretch.","Так что если она правда станет вождем, я планирую провести для нее курс жесткого обучения."
+line-425,森蚺,大概不会有效果吧。,It probably wouldn't have done anything.,Вряд ли поможет.
+line-427,依娜姆,哈哈，我猜也是。,"Haha, I think so too.","Ха-ха, я тоже так думаю."
+line-428,依娜姆,只是，连我自己都没想到，我居然愿意为了她做到这一步。,But even I never pictured I'd be willing to go so far for her.,"Просто я сама не ожидала, что буду готова пойти на такое ради нее."
+line-430,阿芙朵嘉,......,......,…
+line-432,依娜姆,你的经历让你始终对嘉维尔这样的人心存怀疑。,Your experiences have taught you to doubt people like Gavial from the start.,"Твой прошлый опыт заставляет тебя всегда сомневаться в таких, как Гавиль."
+line-434,阿芙朵嘉,我不否认。,I don't deny that.,Я не отрицаю.
+line-436,依娜姆,那么，或许你可以试着从相信她开始。,"So, maybe you can try to start by believing in her.","Тогда, может, попробуешь начать ей доверять?"
+line-438,阿芙朵嘉,......我会尝试一下。,...I'll give it an attempt.,…Я попробую.
+line-441,依娜姆,所以说，地图呢？,So. The map?,"Итак, где же карта?"
+line-443,阿芙朵嘉,啊......我忘记了。,Ah... I forgot.,А… я забыла.
+line-445,大祭司,噢，在你们为了嘉维尔吵得不可开交的时候，只有我这把老骨头和这些机器人在认真寻找着地图。,"Oh, I see you left it to this old codger and all these bots to actually, conscientiously search, while you were all tied up arguing in Gavial's favor.","О, пока вы спорили из-за Гавиль, только я со своими старыми костями и роботами по-настоящему искал карту."
+line-446,大祭司,并且，我从刚才就发现了，这面书架上的书，和游记根本没有关系。,And I only just realized this shelf has absolutely nothing to do with travel records!,"Я еще заметил, что книги на этой полке вообще не имеют отношения к путевым заметкам."
+line-447,大祭司,所以，我就去了书架的另一面找了找，一下子就找到了。,"So I went to the other side and took a look, and I found it straight away.",Так что я заглянул на другую сторону стеллажа и сразу нашел.
+line-448,大祭司,是这个没错吧？,I think it's this we want?,"Это то, что нужно?"
+line-454,阿芙朵嘉,没错。,Yes.,Она самая.
+line-456,森蚺,......,......,…
+line-458,依娜姆,......,......,…
+line-461,奇怪的机械,阿芙朵嘉，笨蛋，阿芙朵嘉。,Avdotya: dummy. Avdotya.,"Авдотья — дурочка, Авдотья."
+line-463,阿芙朵嘉,......好啦，我知道错啦，对不起！,"Fine... I know, I was wrong, I'm sorry!","…Ладно, ладно, я поняла, что ошиблась, извините!"
+line-465,阿芙朵嘉,这样可以了吧！,Is that enough?!,Так пойдет?
+line-474,克罗绮·砖石,啊，阿芙朵嘉，太好了，你还在这里。,"Ah, Avdotya! Brilliant, you're still here.","А, Авдотья, хорошо, что ты здесь."
+line-476,克罗绮·砖石,耶奇大师刚才发来了通讯，他提议现在就在广场举行全体大会，其他代表都已经同意了，问问你的意见。,"Master Edge sent a message a moment ago. He's proposing we hold that general meeting in the forum now, and the other representatives are all in favor. Now we need your view.","Мастер Еци прислал сообщение, он предлагает созвать общее собрание на площади сейчас же. Другие представители уже согласились, спрашивают твое мнение."
+line-478,阿芙朵嘉,......,......,…
+line-479,阿芙朵嘉,谢谢你，祖玛玛。,"Thank you, Zumama.","Спасибо тебе, Зумами."
+line-481,阿芙朵嘉,我虽然还是没有完全接受，但或许——我确实可以尝试一下。,"Though I still don't entirely accept it, perhaps—I can indeed give it an attempt.","Хоть я еще не приняла все до конца, но, возможно… я действительно могу попробовать."
+line-483,森蚺,嗯。,Alright.,М.
+line-485,阿芙朵嘉,克罗绮，告诉耶奇大师，就说，我没有问题，并且，我会来说服际崖城的居民们。,"Croque, tell Master Edge—I have no objections, and moreover, I'll be there to persuade the residents of Zeruertza.","Крок, скажи мастеру Еци, что я не против, и я убедю жителей города Цзея."
