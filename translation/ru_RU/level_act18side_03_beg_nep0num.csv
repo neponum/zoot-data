@@ -1,0 +1,186 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act18side
+__chapter__,,Chapter Name,activities/act18side/level_act18side_03_beg,自由射手
+,,,,
+char-1,黑键,黑键,Ebenholz,Черный Ключ
+char-2,白垩,白垩,Kreide,Белый Мел
+char-3,资历尚浅的店员,资历尚浅的店员,Inexperienced Clerk,Младший продавец
+char-4,芙蓉,芙蓉,Hibiscus,Фуми
+char-5,和善的感染者,和善的感染者,Friendly Infected,Добросердечный зараженный
+char-6,迟疑的感染者,迟疑的感染者,Skittish Infected,Колеблющийся зараженный
+char-7,车尔尼,车尔尼,Czerny,Черни
+char-8,蛮横的感染者,蛮横的感染者,Rude Infected,Грубый зараженный
+char-9,咖啡店主,咖啡店主,Coffee Shop Owner,Владелец кофейни
+char-10,别格勒,别格勒,Biegler,Беглер
+char-11,格特鲁德,格特鲁德,Gertrude,Гертруда
+char-12,轻浮的贵族,轻浮的贵族,Frivolous Noble,Легкомысленный аристократ
+,,,,
+line-10,黑键,让我看看......没错，就是这家。,"Let me see... That's right, this is the place.","Дай-ка посмотрю... Так, вот этот магазин."
+line-12,白垩,这么豪华，真的是乐器店吗？,Isn't this place too ornate to be a music store?,Тут так роскошно... Мы правда в музыкальный магазин пришли?
+line-14,黑键,当然，这是全维谢海姆最好的乐器商店，要不然我也不会带你来了。,"Of course – this is the best music store in all of Vyseheim. Otherwise, I wouldn't have brought you here.","Конечно. Это лучший музыкальный магазин во всем Вишехайме, иначе я бы не стал тебя сюда вести."
+line-16,白垩,可我来高庭区根本没申请......,"But, I didn't apply to enter the Cliffy Patio.",Но я ведь даже не подавал заявку на посещение Района Высокого Суда...
+line-18,黑键,那帮官僚效率低得很，等他们看到你的申请，音乐会都结束了。,"Those bureaucrats are so inefficient that by the time they process your application, the concert would already be over.","У этих бюрократов ужасно низкая эффективность. Пока они рассмотрят твою заявку, концерт уже успеет закончиться."
+line-20,黑键,再说，就算被发现了，不也就是罚款么。,"Plus, even if we do get found out, we'd only be looking at a fine.","К тому же, даже если нас обнаружат — ну, максимум выпишут штраф."
+line-22,白垩,我听说，要是有人协助感染者离开夕照区，对这个人的处罚比对感染者本人更重......,"I heard that if someone helps an Infected leave the Afterglow, the punishment for them is worse than for the Infected.","Я слышал, что если кто-то помогает зараженным покинуть Закатный район, наказание для этого человека будет куда суровее, чем для самого зараженного..."
+line-24,黑键,怕什么，没关系的。,What's there to be afraid of? It'll be fine.,"Не бойся, всё в порядке."
+line-26,黑键,把腰挺直了，别畏缩，要是被看出来也很麻烦的——,Stand up straight and don't act skittish. Just don't let anyone be able to tell and we won't have any issues––,"Выпрямись и не съеживайся. Если они заметят, что ты нервничаешь, будут лишние проблемы."
+line-28,资历尚浅的店员,先生您好，请问您是要挑选乐器，还是......,"Welcome, Mein Herr. Are you here to pick out an instrument, or...?","Здравствуйте, сэр. Вы хотите выбрать музыкальный инструмент или..."
+line-30,黑键,当然，我们来选购一把大提琴。,Of course. Let's find ourselves a cello first.,Разумеется. Мы пришли выбрать виолончель.
+line-32,资历尚浅的店员,好的。,Very well.,Понял вас.
+line-34,资历尚浅的店员,不知这位先生是？,Who might this gentleman with you be?,"Прошу прощения, а этот господин...?"
+line-36,黑键,他？他是我的......,Him? He's my...,Он? Он мой...
+line-38,资历尚浅的店员,先生，虽然失礼，但我得提醒您，衣着不整的人是禁止入店的。,"Mein Herr, I apologize for my rudeness, but I must remind you that those wearing unauthorized apparel are not allowed into the store.","Сэр, прошу прощения за прямоту, но вынужден напомнить: вход в магазин в неопрятном виде запрещен."
+line-40,白垩,那我还是在外面等着......,I'll go wait outside then.,"Тогда я, пожалуй, подожду снаружи..."
+line-42,资历尚浅的店员,在外面？您这样鬼鬼祟祟，到底在害怕什么？您——,"Outside? What exactly are you afraid of, acting all suspicious? Don't tell me you––",Снаружи? Почему вы себя так ведете? Чего вы боитесь? Вы...
+line-44,黑键,你知道自己在怀疑谁吗？衣着不整、鬼鬼祟祟......竟敢这样形容一位贵族，是不是不想在这儿干下去了？,Do you have any idea upon whom you're casting aspersions? Unauthorized? Suspicious? How dare you use such words to describe a noble! Do you value your job or not?,"Ты хоть понимаешь, кого пытаешься обвинить? «Неопрятный», «подозрительный»... Как ты смеешь так отзываться об аристократе? Или ты больше не хочешь здесь работать?"
+line-46,黑键,他现在只是一时困窘，不得已穿得朴素些，衣着既无脏污又无缺损，你凭什么不让他入店？,"He's simply fallen on hard times, and has no choice but to dress plainly. His clothes are neither damaged nor dirty, so why would he not be allowed inside the store?","Он сейчас переживает не лучшие времена, поэтому вынужден одеваться скромно. На его одежде нет ни грязи, ни дыр. На каком основании ты не пускаешь его внутрь?"
+line-48,资历尚浅的店员,请恕我失言，可这位先生的穿着，与本店的整体格调......,"Excuse my rudeness, but this gentleman's attire does not match the store's required style of...","Прошу простить мою дерзость, но внешний вид этого господина не соответствует общему стилю нашего магазина..."
+line-50,黑键,格调？,Style?,Стилю?
+line-52,黑键,我这位——堂兄弟，刚刚遭了很大的变故，视若珍宝的大提琴也在动荡中遭到破坏。,"My–– cousin, has just suffered a great upheaval. His cello, which he cherished greatly, was destroyed in the turmoil.","Мой двоюродный брат недавно попал в тяжелую ситуацию, и его драгоценная виолончель была уничтожена во время беспорядков."
+line-54,黑键,我正想带他来买把新琴，略表慰问之意，哪轮得到你来妄谈什么格调？,I wanted to bring him here to buy a new cello as a way of expressing my condolences. What right do you have to spout nonsense about 'style?',"Я привел его сюда, чтобы купить новый инструмент и хоть как-то его утешить. С чего ты взял, что имеешь право рассуждать о стиле?"
+line-56,资历尚浅的店员,我对此感到十分痛心，但衣着不整之人禁止入内，这也是我们的规定。,"I am terribly sorry about this, but it is store policy that all customers must be dressed appropriately.","Мне искренне жаль это слышать, но таковы наши правила: вход в неопрятной одежде запрещен."
+line-58,资历尚浅的店员,很抱歉，我不能让您的这位同伴入店。,"I'm sorry, but I cannot allow your companion to enter.","Мне очень жаль, но я не могу позволить вашему спутнику войти."
+line-60,黑键,好！,Fine then!,Хорошо!
+line-63,,黑键把自己的斗篷脱了下来，直接披在白垩身上。,Ebenholz takes off his cloak and drapes it over Kreide.,Черный Ключ снял свой плащ и накинул его на плечи Белого Мела.
+line-65,黑键,现在他和我穿了一样的衣服，他能不能进？还是说，我这件斗篷也算衣着不整的一部分？,"Now that he's wearing the same clothes as me, can he enter? Or, is my cloak somehow part of your inappropriate dress?","Теперь он одет так же, как и я. Он может войти? Или мой плащ тоже считается признаком неопрятности?"
+line-67,黑键,那我一会儿再穿上这件斗篷，是不是连我都不能进了？,"If I put my cloak back on later, am I also not allowed to enter?","Если я сейчас надену этот плащ обратно, меня тоже перестанут пускать?"
+line-69,资历尚浅的店员,这......,Well...,Это...
+line-71,资历尚浅的店员,我......我去问下店长。,I... I'll go ask the manager.,Я... я пойду спрошу у управляющего.
+line-77,黑键,这个看人下菜碟的家伙！,This one can't just mind his own business!,Услужливый подхалим!
+line-79,白垩,你的外套，给你......,"Here, your coat...",Твой плащ... держи...
+line-84,白垩,谢谢你。,Thank you.,Спасибо тебе.
+line-86,黑键,别客气。,You're welcome.,Не за что.
+line-88,黑键,从一开始就是我答应要给你买琴，也是我把你拉过来的。,It was my idea to bring you here to buy a cello in the first place.,С самого начала я обещал купить тебе инструмент и я же тебя сюда притащил.
+line-90,黑键,就算跟那个人打一架，我也得把你带进这家店。,"I'm bringing you inside the store one way or another, even if I have to pick a fight with that clerk.","Даже если пришлось бы подраться с этим типом, я всё равно привел бы тебя в этот магазин."
+line-97,资历尚浅的店员,万分抱歉，本店向两位致以诚挚的歉意。,We would like to extend our sincerest apologies to both of you.,"Тысяча извинений, магазин приносит вам глубочайшие соболезнования."
+line-99,资历尚浅的店员,店长马上就来，他将亲自为两位介绍本店的乐器......,"The manager will be here shortly, and he will personally show you our instruments.","Управляющий сейчас придет, он лично покажет вам наши инструменты..."
+line-108,芙蓉,您好，请问您现在有时间吗？,"Excuse me, are you busy right now?","Здравствуйте, у вас есть свободная минутка?"
+line-110,和善的感染者,是芙蓉呀。,"Oh, it's Hibiscus!","О, Фуми."
+line-111,和善的感染者,有的有的。,I've got plenty of time.,"Да, конечно."
+line-113,芙蓉,关于您的病情......,It's about your condition...,По поводу вашего состояния...
+line-127,白垩,呼......,Phew...,Фух...
+line-129,白垩,我真怕刚才那个店员突然报告治安官......,I was worried that clerk was going to report us to the authorities...,"Я так боялся, что продавец сейчас доложит о нас страже..."
+line-131,黑键,怎么会呢，他又不知道你是感染者，只不过看你穿得穷酸，把你当成一般的平民——,"Nonsense, it's not like he knew you were an Infected. He just saw your shoddy clothes and took you for a commoner–","Да брось, он же не знает, что ты зараженный. Он просто принял тебя за обычного бедняка из-за одежды..."
+line-133,黑键,啧啧，我们忘了一样东西。,Tsk tsk... Looks like we forgot something.,"Кстати, мы кое-что забыли."
+line-135,白垩,忘了东西？,We did?,Что-то забыли?
+line-137,黑键,演出服啊。,"Our suits, of course.",Концертный костюм.
+line-139,黑键,你可不能穿这一身上台演出，太不正式了。,Surely you don't plan to wear this onstage. It's too unprofessional.,"Ты не можешь выйти на сцену в том, что сейчас на тебе. Это недостаточно официально."
+line-141,黑键,走，我给你找全维谢海姆最好的裁缝——,Let's go. I'll find you the best tailor in all of Vyseheim––,"Идем, я отведу тебя к лучшему портному во всем Вишехайме..."
+line-143,白垩,不行，量体型的时候，源石结晶......,"No, I can't. During the fitting, the Originium crystals would...","Нет, не получится. Когда буду снимать мерки, кристаллы Орипатии..."
+line-145,黑键,这倒也是。,You do have a point.,Справедливо.
+line-147,黑键,那就——找夕照区最好的裁缝，怎么样？,In that case––We'll find the best tailor in the Afterglow. How about it?,Тогда... как насчет лучшего портного в Закатном районе?
+line-159,白垩,天空湛蓝晴朗......♪,The Sky is blue and fine...♪,Небо ясное и синее...♪
+line-161,黑键,好啦，好啦。,"Alright, alright.","Ладно, ладно."
+line-163,白垩,我还是要谢谢你，谢谢你给我买这把琴，谢谢你帮我订做衣服！,"I can't thank you enough. For buying this cello for me, and for helping me order a suit!","Я всё равно хочу сказать тебе спасибо! Спасибо, что купил эту виолончель, спасибо, что помог заказать одежду!"
+line-165,黑键,大提琴也就算了，衣服还没拿到手呢，也不知道你穿起来是什么样的，不用忙着谢我。,"The cello's on me. And we haven't even gotten your clothes yet, nor do we know how they'll look on you. You can save your thanks for later.","С виолончелью ладно, но костюм ты еще даже не получил. Мы даже не знаем, как он будет сидеть. Не спеши благодарить."
+line-167,白垩,明天下午就知道了！一定会很合身的！,We'll know by tomorrow afternoon! I'm sure they'll fit just great!,"Завтра вечером узнаем! Уверен, он будет впору!"
+line-169,白垩,谢谢你！,"So, thank you!",Спасибо тебе!
+line-171,黑键,从乐器店出来开始，你除了哼歌就是道谢，已经谢了我十几次啦。,"Since we left the store, all you've been doing other than humming is thanking me. We've been over it a dozen times.","С тех пор как мы вышли из магазина, ты только и делаешь, что напеваешь да благодаришь меня. Уже раз десять сказал."
+line-173,白垩,嗯，嗯。,"Hum, hum.","М-м, м-м."
+line-175,白垩,河水潺潺流淌......♪,The River murmurs clear...♪,Река тихо течет...♪
+line-177,黑键,这曲子......,This tune...,Эта мелодия...
+line-179,白垩,怎么了吗？,What's the matter?,Что-то не так?
+line-181,黑键,好像听过，又好像没听过......没什么，可能是我弄错了吧。,"I think I've heard it before... Or maybe I haven't. Never mind, it's probably just my imagination.","Кажется, я её слышал, а может, и нет... Ничего, забудь. Наверное, ошибся."
+line-183,黑键,说起来，既然你学过大提琴，为什么自己没有琴呢？坏了？,"By the way, you've studied the cello, so why don't you have one of your own? Did it break?","Кстати, если ты умеешь играть на виолончели, почему у тебя не было своего инструмента? Сломался?"
+line-185,白垩,教我大提琴的老师确实送过我一把琴，但很快就被人弄坏了，虽然现在还放在家里，但恐怕......离开这座城市的时候，只能带着琴弓走。,"The teacher who taught me how to play did give me a cello, but it didn't take long for someone to mess it up. Even though it's still sitting back at home, by the time I leave this city... I might only be able to bring the bow with me.","Учительница, которая меня учила, действительно подарила мне инструмент, но его очень быстро сломали. Хотя он до сих пор стоит дома, боюсь... когда я буду покидать этот город, смогу взять с собой только смычок."
+line-187,黑键,琴弓？只留着琴弓，能有什么用？,Just the bow? What's the purpose of that?,Смычок? Какой смысл хранить только смычок?
+line-189,白垩,只要看到琴弓，我就能想起老师的样子。,Seeing the bow is enough to remind me of my teacher.,"Пока я вижу смычок, я вспоминаю её образ."
+line-191,白垩,要是连琴弓也没了，我怕我会把老师忘掉。,"I'm afraid that if I were to lose the bow, I might forget my teacher as well.","Если исчезнет и он, я боюсь, что забуду своего учителя."
+line-193,黑键,忘掉？可你现在不是好好记着吗？,Forget? Don't you remember your teacher just fine?,Забудешь? Но ведь ты до сих пор её помнишь?
+line-195,白垩,其实已经开始忘了......,"Actually, I'm already starting to forget...","На самом деле, я уже начинаю забывать..."
+line-197,白垩,老师是个头发很长的萨科塔大姐姐，穿的衣服很素净，嘴上总是有笑意......,"My teacher was a nice Sankta lady with very long hair. She dressed plainly, and always had a smile on her face...","Она была Санкта с длинными волосами, носила строгую одежду, и у неё на губах всегда была легкая улыбка..."
+line-199,白垩,我以前能记住更多的，仿佛老师就站在我的眼前......现在不行了。,"I used to remember a lot more, as if she were standing right before my eyes... But not anymore.","Раньше я помнил гораздо больше, словно она стояла прямо передо мной... Сейчас уже не выходит."
+line-201,白垩,其实我曾经想记住很多人的......,There are actually a lot of others I've wanted to remember...,"Вообще-то, я хотел помнить многих людей..."
+line-203,白垩,所以，我需要一些纪念，保证我不会忘光。,"So, I need a few keepsakes, to make sure that I won't completely forget.","Поэтому мне нужны какие-то памятные вещи, чтобы точно не забыть всё до конца."
+line-205,黑键,......纪念。,"Keepsakes, huh...?",...Памятные вещи.
+line-207,黑键,那这次呢？你打算拿什么纪念车尔尼？,What about right now? What do you plan to remember Czerny by?,А в этот раз? Чем ты планируешь увековечить память о Черни?
+line-209,白垩,请他给我签个名就好。,I suppose a signature would do just fine.,Просто попрошу у него автограф.
+line-211,黑键,罗德岛的芙蓉呢？,What about Hibiscus from Rhodes Island?,"А как же Фуми из Родос? "
+line-213,白垩,芙蓉的话，或许可以找她要一个带罗德岛标志的空药瓶？,"For Hibiscus, maybe an empty medicine bottle with the Rhodes Island logo?","Фуми? Может, попрошу у неё пустой флакон из-под лекарства с эмблемой Родоса?"
+line-215,黑键,噗，这也太随便了。,Pfft. You're too easy to please.,"Ха, это как-то слишком просто."
+line-217,白垩,只要能让我想起来就好，形式不重要。,"So long as it helps me remember, the actual object doesn't matter.","Мне важно только то, чтобы вещь помогала вспомнить. Форма не имеет значения."
+line-219,黑键,我呢？就是这把大提琴了？,"What about me then? It'd be this cello, wouldn't it?",А я? Ты запомнишь меня благодаря этой виолончели?
+line-221,白垩,还是别吧。,Maybe something else.,Лучше не стоит.
+line-223,白垩,老师送我的大提琴很快就坏了，假如这一把也......,The cello from my teacher didn't last very long. If this one also...,"Виолончель, которую подарил учитель, очень быстро сломалась. А если и эта..."
+line-225,黑键,也有道理。,Fair enough.,В этом есть смысл.
+line-227,白垩,我想留一枚你送我的硬币，钻个孔，做个小小的挂坠，应该挺不错的。,I want to keep a coin that you gave me. Maybe punch a hole through it and wear it as a pendant. That sounds like a pretty good idea.,"Я хочу сохранить монету, которую ты мне дал. Просверлю в ней отверстие и сделаю маленький кулон. Думаю, это будет неплохо."
+line-229,黑键,纪念我的怎么是钱啊！,Money is how you'll remember me?!,Почему в память обо мне — просто деньги!
+line-231,白垩,欸，不行吗？那我换一个......,"Eh? Is there something wrong with that? Then, I'll pick something else...","Ой, нельзя? Тогда я выберу что-то другое..."
+line-233,黑键,不用、不用，也挺好的。,"No, no, it's a fine idea.","Не нужно, не нужно. Это тоже отличная идея."
+line-235,黑键,我们现在就回家练习？,Shall we head back home and practice?,Пойдем домой репетировать?
+line-237,白垩,不，我想......我们先去车尔尼先生家一趟吧。,"Actually, I was thinking... Why don't we pay a visit to Herr Czerny's first?","Нет, я думаю... Давай сначала зайдем к господину Черни."
+line-239,黑键,啊？,Oh?,А?
+line-241,黑键,免了，他一看见我就来气，我又不是不知道。,I'll pass. It's no secret that he gets all pissy when he sees me.,"Обойдемся. Он злится, как только меня видит, я знаю."
+line-243,白垩,只是误会而已，会解开的。,I'm sure that's just a misunderstanding. It'll get cleared up.,"Это просто недоразумение, оно обязательно разрешится."
+line-245,黑键,从我们第一天遇见他，你就在说我和他有误会了。,You've been saying that since the first day we met him.,С первого дня нашего знакомства с ним ты твердишь об этом «недоразумении».
+line-247,黑键,就算真有误会，我觉得也已经解不开了，还是算了吧。,"Even if it really is some sort of misunderstanding, I think we're well beyond the point of clearing anything up. So yes, I'll pass after all.","Даже если оно было, я думаю, его уже не исправить. Забудь."
+line-249,白垩,昨天车尔尼先生不也认可过你了嘛。,"But Herr Czerny approved of you yesterday, didn't he?",Но вчера господин Черни признал твои способности.
+line-251,白垩,误会都是一点一点解开的。,All misunderstandings have to be resolved bit by bit.,Недоразумения разрешаются понемногу.
+line-253,黑键,......,......,...
+line-255,白垩,走吧，我也想找车尔尼先生试试你给我买的琴。,Let's go. I want to see him so we can try out the cello you just got for me.,"Пойдем. Я хочу сыграть господину Черни на инструменте, который ты купил."
+line-257,白垩,这么好的琴，如果没有懂行的听众，那也太可惜了。,It'd be a shame if such a wonderful instrument didn't have a knowledgeable audience.,"Такой прекрасный инструмент, и без знающих слушателей? Это же просто преступление."
+line-266,芙蓉,您好，请问您有时间吗？,"Excuse me, are you busy right now?","Здравствуйте, у вас есть время?"
+line-268,迟疑的感染者,芙蓉？不好意思，我不是很有空......,"Hibiscus? Sorry, but now's not a very good time.","Фуми? Прости, сейчас не особо..."
+line-270,芙蓉,您只需要回答几个问题就行。,I'd just like you to answer a few questions.,Вам нужно всего лишь ответить на несколько вопросов.
+line-272,芙蓉,如果其中有您不愿意回答的，您也可以选择不回答。,You're also free to not answer if there's anything you're not comfortable disclosing.,"Если на какой-то из них вы не захотите отвечать, можете просто пропустить его."
+line-274,迟疑的感染者,不抽我的血？,You're not gonna take my blood?,Без забора крови?
+line-276,芙蓉,没得到您的允许，我是不会那么做的。,I wouldn't do that without your consent.,Без вашего согласия я этого делать не буду.
+line-278,迟疑的感染者,好吧。,Okay.,Ладно.
+line-290,车尔尼,我个人不是很想承认，但这样的琴可不是你们一上午就能在夕照区淘到的。,"I don't want to believe it, but this cello isn't something you can find in the Afterglow after one morning of shopping around.","Не хотелось бы признавать, но такой инструмент вы бы точно не смогли купить в Закатном районе за одно утро."
+line-292,车尔尼,你们去高庭区了吧。,"You went to the Cliffy Patio, didn't you?","Вы ходили в Район Высокого Суда, да?"
+line-294,白垩,是的。,I did.,Да.
+line-296,车尔尼,胆子不小。,Bold of you.,Смело.
+line-298,白垩,其实......为了让我进店，黑键还和乐器店的店员吵了一架。,Actually... Ebenholz got into an argument with a store clerk just so I could go into the store.,"Вообще-то... чтобы я смог зайти в магазин, Черному Ключу пришлось даже поспорить с продавцом."
+line-300,车尔尼,吵架？他还嫌你这身衣服在高庭区不够显眼？,An argument? Did he think your clothes weren't fancy enough for the Cliffy Patio?,"Поспорить? Ему было мало того, что ты и так выделялся своим видом в Высоком Районе?"
+line-302,黑键,那个店员说是“衣着不整不得入店”，可白垩这身衣服哪里不整了？他们无非是看白垩一身平民的衣服，故意找茬罢了！,"The clerk said something about 'not being able to enter the store unless dressed appropriately,' but do you see anything wrong with Kreide's attire? They were purposely fault-finding because Kreide was wearing commoner's clothes!","Тот продавец твердил о «неподобающем виде», но что в одежде Белого Мела не так? Они просто увидели на нем одежду простолюдина и решили придраться!"
+line-304,车尔尼,你一个贵族，倒开始为平民打抱不平了。,"So you, a noble, have begun to fight for the commoners.","Ты, аристократ, начал заступаться за простолюдина?"
+line-306,黑键,我是为白垩打抱不平！,I did it for Kreide!,Я заступаюсь за Белого Мела!
+line-308,黑键,不论到底是贵族还是平民，他的水平完全配得上那家店里的乐器。,"Regardless of whether he's a noble or a commoner, his skill is more than worthy of the instruments inside that store.","Неважно, аристократ он или простолюдин, его уровень игры полностью соответствует качеству инструментов в том магазине."
+line-310,黑键,不让白垩进店，反而把精品卖给那些空有花架子的贵族，简直就是把上好的木料当柴火烧。,To deny Kreide entry but to sell those magnificent wares to nobles who needlessly fill their shelves with them would be to treat the finest lumber as firewood.,"Не пускать его внутрь, но продавать такие инструменты тем аристократам, у которых только пустые понты — это всё равно что топить печь дорогой древесиной."
+line-312,车尔尼,（点头）,(Nods),(кивает)
+line-314,车尔尼,难为你能说出这样的话。,I didn't expect to hear those words out of your mouth.,"Удивительно, что ты способен на такие слова."
+line-316,车尔尼,白垩，你去熟悉一下新琴吧。,"Kreide, go ahead and get acquainted with your new instrument.","Белый Мел, привыкай к новому инструменту."
+line-318,车尔尼,我给黑键伴奏，让他单独练一会儿，看看能不能改一改他的习惯。,I'll accompany Ebenholz and have him practice solo for a bit. Let's see if we can change some of his old habits.,"Я подыграю Черному Ключу, пусть потренируется отдельно. Посмотрим, сможет ли он избавиться от своих вредных привычек."
+line-320,黑键,改一改我的习惯......这个，我还是——,Change my habits...? I dare say––,"Избавиться от привычек... Ну, я, пожалуй..."
+line-322,白垩,没问题，车尔尼先生！,"Yes, Herr Czerny!","Конечно, господин Черни!"
+line-330,白垩,（小声）你看，误会是会一点一点解除的。,"(Whispers) See, all misunderstandings have to be resolved bit by bit.",(шепотом) Видишь? Недоразумения понемногу уходят.
+line-332,白垩,（小声）车尔尼先生的态度已经在转变了，现在就看你啦。,(Whispers) Herr Czerny's attitude is already changing. The rest is up to you.,"(шепотом) Отношение господина Черни уже меняется, теперь всё зависит от тебя."
+line-352,芙蓉,您好——,Hello—,Здравствуйте —
+line-354,蛮横的感染者,魔族佬？,You that devil?,"Опять ты, дьявольское отродье?"
+line-356,蛮横的感染者,赶紧滚，你还没长记性吗？,Git outta here. Do you have memory problems or somethin'?,"Проваливай отсюда, тебе еще мало досталось?"
+line-358,芙蓉,......抱歉，打扰您了。,Sorry to bother you.,...Извините за беспокойство.
+line-360,蛮横的感染者,——你给我回来。,––Git yer ass back here.,"— А ну стой, вернись."
+line-362,芙蓉,您还有事？,Did you need something?,У вас что-то случилось?
+line-364,蛮横的感染者,你肯定又想回你那办事处躲着去吧？,"You plannin' to go hide back in your office again, aren't you?","Наверняка опять хочешь спрятаться в своем офисе, да?"
+line-366,芙蓉,我——,I—,Я...
+line-373,咖啡店主,这么做多少有点过火了。,You're being a bit unreasonable.,"По-моему, это уже перебор."
+line-375,蛮横的感染者,你算哪根葱——,Who the hell d'you think you are––,Ты еще кто такой...
+line-377,咖啡店主,你可还欠着我不少咖啡钱呢，你觉得我算哪根葱？,"You still owe me quite a lot of coffee money, so who do you think I am?","Ты до сих пор должен мне за кучу кофе, так что я — твой кредитор. Или напомнить, кто я?"
+line-379,蛮横的感染者,呃，原来是别格勒店长......不好意思，我刚刚没注意......,"Oh, it's you, Herr Biegler... Sorry, didn't notice you there.","Э-э... А, господин Беглер... извините, я не заметил..."
+line-387,芙蓉,谢谢您。,Thank you.,Спасибо вам.
+line-389,别格勒,不用谢。,Don't mention it.,Не за что.
+line-391,别格勒,夕照区毕竟是感染者聚居区，虽然很有活力，可蛮不讲理的人也不少，你最好还是小心一些。,"At the end of the day, the Afterglow is an Infected settlement. It's real lively here, but you'll run into plenty who can't be reasoned with. Best be careful out there.","Закатный район — место для зараженных, тут полно жизни, но и грубиянов хватает. Будь осторожнее."
+line-393,芙蓉,多谢您的提醒。,Thank you for the reminder.,Благодарю за совет.
+line-395,别格勒,这是我的名片，上面有我咖啡店的电话，想喝了可以打给我，我们的外送服务很快的。,"Here's my business card, with the phone number of my coffee shop on the front side. If you're ever thirsty, give me a call. We deliver too, real fast.","Вот моя визитка, там телефон кофейни. Захочешь пить — звони, у нас очень быстрая доставка."
+line-397,芙蓉,哈哈......,Haha...,Ха-ха...
+line-399,别格勒,说起来，罗德岛办事处之前不一直是行板在打理吗，你是刚调派到这里来的？,"By the way, hasn't Andante always been the one in charge of the Rhodes Island office? Did you just get dispatched over here?","Кстати, офисом Родос до этого всегда занимался Иамб. Ты новенькая?"
+line-401,芙蓉,不，我其实是来调查这里的异常现象的。,"Actually, I'm here to investigate some strange happenings.","Нет, я здесь, чтобы расследовать аномальные явления."
+line-403,芙蓉,对了，别格勒先生，您的病情——,"Oh, Mr. Biegler, regarding your condition––","Кстати, господин Беглер, насчет вашего состояния..."
+line-405,别格勒,异常现象？什么异常现象，我完全不知道啊。,Strange happenings? What kind of strange are you talking about? I haven't heard a thing.,"Аномальные явления? Впервые слышу, понятия не имею."
+line-407,芙蓉,是这样的......,So this is what happened...,Дело в том...
+line-422,格特鲁德,状况如何？,How fares the situation?,Как обстоят дела?
+line-424,轻浮的贵族,拉赫曼的行动很成功。,Lachmann's plans proceeded spectacularly.,Операция Рахмана прошла успешно.
+line-426,轻浮的贵族,乌提卡伯爵大体按照预期行动，虽然对拉赫曼造成了一定的妨碍，但他应该是无心的，也没引发什么后果。,"Graf Urtica's actions were largely within expectations. Though he did cause some hindrance to Lachmann, it was most likely accidental and did not incur any lasting consequences.","Граф Утика действовал согласно ожиданиям. Хотя он и помешал Рахману, уверен, это было непреднамеренно и к серьезным последствиям не привело."
+line-428,格特鲁德,这没什么。我本来也不指望靠一个拉赫曼就把罗德岛的人赶出夕照区。,That's nothing. I never expected Lachmann alone to drive Rhodes Island out of the Afterglow.,"Неважно. Я и не рассчитывала, что один Рахман выгонит Родос из Закатного района."
+line-430,轻浮的贵族,至于车尔尼，为了请那些眼高于顶的评论家出席音乐会，他几乎把以前的人情全用了，还搭了不少版权进去。,"As for Czerny, he already had to expend most of the goodwill he's earned, not to mention copyrights, just to invite those haughty critics to the concert.","А что до Черни... чтобы пригласить на концерт тех критиков, которые возомнили о себе невесть что, он потратил почти все свои связи и отдал немало прав."
+line-432,轻浮的贵族,还有消息说，他捏着鼻子，给自己以前很看不起的一个贵族的曲集写了推荐文章......,Word also has it that he held his nose and wrote a glowing recommendation for a noble's album that he held nothing but disdain for.,"Ходят слухи, что он, преодолев брезгливость, написал рекомендательную статью к сборнику одного аристократа, которого раньше презирал..."
+line-434,格特鲁德,对他而言，做到这种程度，已经不可能回头了。,"For someone like him, there's no going back now that he's stooped to this level.",Для него путь назад уже закрыт.
+line-436,格特鲁德,前几天那个萨科塔呢？我记得她入城申报的时候说自己是从拉特兰来莱塔尼亚采风的？,"What about the Sankta from a few days ago? If I remember right, when she applied for entry into the city, she said she came from Laterano to immerse herself in Leithanian culture?","Что с той Санкта, которая была здесь на днях? Помню, она заявляла при въезде, что приехала из Латерано в Лейтанию ради сбора материалов?"
+line-438,轻浮的贵族,按照记录，她已经结束了在维谢海姆的游览，在今天早些时候离开了维谢海姆，前往下一个目的地了。,"According to the records, she concluded her tour around Vyseheim and left earlier today for her next destination.","Согласно записям, она завершила тур по Вишехайму и сегодня утром уехала в следующий пункт назначения."
+line-440,格特鲁德,那她的事就不用管了。,So we don't have to worry about her.,Тогда забудь о ней.
+line-442,格特鲁德,走吧，我们该去夕照厅了。,Let's go. We should be on our way to Afterglow Hall.,Пойдем. Нам пора в Закатный зал.
+line-444,轻浮的贵族,可我们和车尔尼约的时间是晚上。,But our appointment with Czerny isn't until tonight.,Но встреча с Черни назначена на вечер.
+line-446,格特鲁德,准备工作还很多。,There's no shortage of prep work to be done.,Подготовительной работы еще много.
+line-448,格特鲁德,而且，万一那个人一时兴起去夕照厅闲逛，我们布置的人可拦不住他，到时候就麻烦了。,"Plus, if that one ever decides to head to Afterglow Hall on a whim, our hired muscle won't be enough to stop him. That's when things get troublesome.","К тому же, если тот человек внезапно решит прогуляться по Закатному залу, наши люди его не остановят. А это обернется большими неприятностями."
