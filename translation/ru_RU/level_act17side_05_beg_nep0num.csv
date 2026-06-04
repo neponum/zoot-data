@@ -1,0 +1,235 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act17side
+__chapter__,,Chapter Name,activities/act17side/level_act17side_05_beg,灯塔控制室
+,,,,
+char-1,Aya,Aya,Aya,Айя
+char-2,Frost,Frost,Frost,Фрост
+char-3,Alty,Alty,Alty,Алти
+char-4,Dan,Dan,Dan,Дэн
+char-5,喘息的教徒,喘息的教徒,Out-of-Breath Cultist,Задыхающийся культист
+char-6,恐鱼,恐鱼,Sea Terror,Морской хищник
+char-7,惊疑不定的镇民,惊疑不定的镇民,Terrified Townsperson,Ошеломленный горожанин
+char-8,蒂亚戈,蒂亚戈,Thiago,Тьяго
+char-9,极境,极境,Elysium,Элизиум
+char-10,审判官艾丽妮,审判官艾丽妮,Inquisitor Irene,Инквизитор Ирен
+char-11,乔迪,乔迪,Jordi,Джоди
+char-12,幽灵鲨,幽灵鲨,Specter,Спектр
+char-13,最后的骑士,最后的骑士,The Last Knight,Последний рыцарь
+char-14,大审判官达里奥,大审判官达里奥,High Inquisitor Dario,Великий Инквизитор Дарио
+char-15,罗辛南特,罗辛南特,Rocinante,Росинант
+char-16,圣徒卡门,圣徒卡门,Saint Carmen,Святой Кармен
+char-17,凯尔希,凯尔希,Kal'tsit,Кель'цит
+char-18,冷静的镇民,冷静的镇民,Calm Townsperson,Хладнокровный горожанин
+,,,,
+line-9,Aya,你等不及了？,Can't wait any longer?,Тебе уже не терпится?
+line-11,Frost,......,......,......
+line-13,Alty,如果凯尔希说的那些是真的，那我们大概都等不及了。,"If what Kal'tsit said was true, then none of us can really afford to wait around.","Если то, что говорит Кель'цит, правда, то времени у нас почти не осталось."
+line-14,Alty,就算我们行走在陆地上，我们还是存在于海里。那些腐败的后裔......它们在改变的是“环境”。,"Even while we walk this land, we are still a part of the sea. Those corrupted descendants are... in the process of changing the 'environment.'","Даже когда мы ступаем по суше, мы всё равно существуем в море. Эти отпрыски разложения... они меняют саму «среду»."
+line-15,Alty,我们迟早无法幸免。现在是在坐以待毙。,"In time, none of us will be spared. All we're doing now is sitting around waiting for the end to come.",Рано или поздно нас ждет гибель. Сейчас мы просто сидим и ждем конца.
+line-17,Aya,坐以待毙的不止我们，而且大家的原因还都不一样。,"We're not the only ones sitting around though, and everyone's reasons are different.","Не только мы, и у каждого на то свои причины."
+line-18,Aya,想开点，说不定只是这片大地不适合我们生存了。,"Think about it more broadly. Who knows, maybe these lands aren't suited for our survival?","Не бери в голову, возможно, эта земля просто больше не пригодна для нашей жизни."
+line-20,Frost,（表示赞同的独奏）,(Riffs in agreement),(Одобряющее соло)
+line-21,Frost,音乐......还不够。,Not harmonious enough.,Музыки... недостаточно.
+line-22,Frost,我想做点什么。,There's something I wanna try.,Я хочу что-то предпринять.
+line-24,Dan,为了音乐，做点什么吧！,"Time to mix it up, all for the tunes!",Сделай же что-нибудь ради музыки!
+line-26,Frost,（表示赞同的独奏）,(Riffs in agreement),(Одобряющее соло)
+line-28,Alty,怎么办？,So what exactly do you have in mind?,Что будем делать?
+line-30,Aya,唔......在这等着也是等着......,"Uh... Well, we're not exactly accomplishing much over here.",Хм... здесь всё равно делать нечего...
+line-31,Aya,就当演唱会前的体能训练吧，别游太远，Frost。,"Just treat it as a little pre-concert workout. Don't swim too far out, Frost.","Считай это разминкой перед концертом. Только не уплывай далеко, Фрост."
+line-33,Frost,......体能训练，那你们？,A workout. Huh. What about the rest of you?,"......Разминка, а вы?"
+line-35,Aya,我就算了。,I think I'll pass.,Я пас.
+line-37,Alty,我懒。,Too lazy.,Мне лень.
+line-39,Dan,我感觉就快要把灵感完成了，就差一点，一丁点。,I can feel the inspiration on its way. It's so close. Just a liiittle bit more.,"Чувствую, вдохновение уже близко, еще чуть-чуть, совсем немного."
+line-41,Frost,......好吧。（激昂的独奏）,...Alright. (Riffs enthusiastically),......Ну хорошо. (Пылкое соло)
+line-42,Frost,我出发了。,I'll be off then.,Я отправляюсь.
+line-56,喘息的教徒,哈啊......哈啊......,*pant*... *pant*...,Ха-а... ха-а...
+line-57,喘息的教徒,不，那个审判官和那个女人做了什么，他们怎么能这么轻易地抹除海的恩赐！,"No, what did that woman and the Inquisitor do? How could they so easily erase the gift of the sea?!","Нет, что натворили этот Инквизитор и эта женщина? Как они могли так легко стереть дар моря!"
+line-58,喘息的教徒,阿戈尔......一定是阿戈尔人，那些阿戈尔人留下的东西，那些古怪的机械！必须要毁掉那些机械！,"Ægir... It must've been the Ægir. What the Ægir left behind, those strange machines! They must be destroyed!","Агор... это точно агорцы, то, что оставили после себя агорцы, эти странные механизмы! Мы должны уничтожить эти механизмы!"
+line-69,恐鱼,（攀附上小腿的窸窣声）,(Makes a slithering sound as it clings to the cultist's calves),(Шорох цепляющихся щупалец)
+line-71,喘息的教徒,是的......兄弟，惩戒军已经包围了这里，突围失败了......我们无路可退。,"That's right, my brother, the Penal Battalion has this place surrounded, and we've failed to break through... We've nowhere to run.","Да... брат, карательные отряды окружили нас, прорыв не удался... нам некуда отступать."
+line-72,喘息的教徒,但是——我们尊敬的先知已经回到了海洋。,But... our exalted prophet has returned to the sea.,Но — наш глубокоуважаемый пророк уже вернулся в море.
+line-73,喘息的教徒,我们所要做的，只剩下，为她铺平道路。,All that's left... is to pave the way for Her.,"И всё, что нам осталось сделать — это расчистить ей путь."
+line-90,恐鱼,（急躁的窸窣声）,(Impatient slithering sounds),(Раздраженный шорох)
+line-92,喘息的教徒,如果他们想要阻拦潮汐，就让我们去毁灭他们，我的生命也只是漫长道路的一小部分。,"If they seek to hold back the tide, then let them dash against the rocks. My life is but one brick in a lengthy road.","Если они хотят остановить прилив, мы должны уничтожить их. Моя жизнь — лишь малая часть этого долгого пути."
+line-103,惊疑不定的镇民,咿！,Eek!,Ай!
+line-111,蒂亚戈,别慌，是我。你怎么没去避难？,"Don't panic, it's just me. Why haven't you taken refuge yet?","Не паникуй, это я. Почему ты не ушел в убежище?"
+line-113,惊疑不定的镇民,蒂、蒂亚戈镇长......我喝醉了，睡得像头钳兽，啥也没听见......,"M-Mayor Thiago... I was drunk and out as cold as a gloompincer, so I didn't hear anything.","М-мэр Тьяго... я напился, спал как бревно, ничего не слышал..."
+line-114,惊疑不定的镇民,结果我醒过来的时候，外面乱糟糟的，地上全是这种恶心的东西......,"By the time I woke up, everything had gone to shit, and these disgusting things were all over the place.","А когда проснулся, снаружи творился хаос, земля была покрыта этой гадостью..."
+line-115,惊疑不定的镇民,这里发生什么了？审判庭来人了吗？我们会怎么样？,What happened here? Has the Inquisition sent anyone yet? What's going to happen to us?,Что здесь происходит? Пришла Инквизиция? Что с нами будет?
+line-117,蒂亚戈,......大海没有犯下任何罪过，但审判庭不同，他们捏着所谓的律法，他们判我们有罪。,"...The great ocean is not guilty of any crime, but the Inquisition does not agree. They control the so-called law, and have condemned us as sinners.","......Море не совершало никаких преступлений, но Инквизиция иная. Они вершат суд по своим законам, они признали нас виновными."
+line-119,蒂亚戈,只要等一段时间，恐鱼会回到海里的......但是我不能让审判官就这么宣判格兰法洛死刑。,"Soon enough, the Sea Terrors will return to the ocean. But I cannot allow the Inquisitors to condemn Gran Faro to death just like that.","Нужно лишь подождать, морские хищники вернутся в море... но я не позволю Инквизитору вот так просто вынести смертный приговор Гран-Фаро."
+line-121,惊疑不定的镇民,你在说什么——你疯了？,What are you talking about? Have you gone mad?,Что ты такое говоришь — ты сошел с ума?
+line-123,蒂亚戈,我没疯！我只是想知道！在审判庭摧毁这座小镇，然后把我们全部抓走审讯之前，我们还应该做什么！,Mad? I'm not the one who's mad! I simply need to know! What can we do before the Inquisition destroys this town and rounds us all up to stand trial?!,"Я не сумасшедший! Я просто хочу знать! Что еще мы должны сделать перед тем, как Инквизиция разрушит этот городок и заберет нас всех на допрос!"
+line-124,蒂亚戈,审判官早就在这里了，我躲在小巷子里看见过那个人。我从来没见过那么老的审判官，我有种不好的预感......,"An Inquisitor has already arrived. I saw that clearly when hiding in a little alley. I've never seen one that old before, and they gave me the chills...","Инквизитор уже здесь, я видел его, прячась в переулке. Никогда не видел такого старого Инквизитора, у меня дурное предчувствие..."
+line-126,惊疑不定的镇民,那你打算怎么办，蒂亚戈？难道你要冲到他面前讲道理？,"What are you gonna do then, Thiago? Go up to them and try to reason with them?","И что ты собираешься делать, Тьяго? Надеешься броситься к нему и взывать к здравому смыслу?"
+line-128,蒂亚戈,又到了选边站的时候，对吧？,"We'll have to choose sides again, right?","Снова время выбирать сторону, верно?"
+line-130,蒂亚戈,阿戈尔人被带走的时候，大部分人就那么看着，他们也有机会站在阿戈尔人那边，但是没人站出来。,"When the Ægir were taken away, most people looked on, just like that. They had a chance to stand up for them, but nobody stepped forward.","Когда уводили агорцев, большинство просто смотрело. У них был шанс встать на сторону агорцев, но никто не решился."
+line-132,惊疑不定的镇民,蒂亚戈，你......,"Thiago, you—","Тьяго, ты..."
+line-134,蒂亚戈,现在，我们又有个机会。看着审判庭把格兰法洛的全部人带走审判，或者......,"Now, we have another chance. Either watch the Inquisition put everyone in Gran Faro on trial, or—","Теперь у нас есть еще один шанс. Позволить Инквизиции забрать всех жителей Гран-Фаро на суд, или..."
+line-136,惊疑不定的镇民,你疯了？！审判官，审判官哎！他解决我们都不需要动手！,"Have you lost your marbles?! Inquisitor! Hey, Inquisitor! He can handle us all without raising a hand!","Ты спятил?! Инквизитор! Это же Инквизитор! Ему даже пальцем шевелить не нужно, чтобы с нами расправиться!"
+line-138,蒂亚戈,带我去见他们。,Take me to them.,Отведи меня к ним.
+line-140,惊疑不定的镇民,......你在说什么？,...What are you talking about?,......О чем ты?
+line-142,蒂亚戈,别装了。你以为我在这座小镇生活了多久？,Drop the act. How long do you think I've lived in this town?,"Хватит притворяться. Как долго, по-твоему, я живу в этом городе?"
+line-144,惊疑不定的镇民,......,......,......
+line-145,惊疑不定的镇民,好吧，跟我来。如果你的目标真的是向审判官复仇的话......,"Alright, follow me. If your goal really is to take revenge on the Inquisitors...","Хорошо, иди за мной. Если твоя цель действительно месть Инквизитору..."
+line-147,蒂亚戈,......,......,......
+line-154,极境,蒂亚戈镇长，你到底......,"Just what are you up to, Mayor Thiago?","Мэр Тьяго, что ты, черт возьми..."
+line-166,审判官艾丽妮,......,......,......
+line-168,乔迪,......就快了。,Almost there.,......скоро.
+line-170,审判官艾丽妮,已经很慢了。,This is already taking too long.,Это слишком медленно.
+line-172,乔迪,抱、抱歉......,S-Sorry.,П-простите...
+line-174,审判官艾丽妮,......不，是我太急躁了。,"It's not your fault. It's mine, for not having enough patience.","......Нет, это я была слишком нетерпелива."
+line-176,审判官艾丽妮,......,......,......
+line-178,乔迪,那个......审判官阁下，如果您担心其他几位，可以去帮他们的。这里有我就够了。,"Um... Doña Inquisitor, if you're worried about the others, you can go help them. I think I can handle things up here.","Тот... господин Инквизитор, если вы беспокоитесь о других, можете помочь им. Здесь со мной всё в порядке."
+line-180,审判官艾丽妮,长官给我的任务是保护你。那些怪物无孔不入，你也看见了，我不能轻易离开你的身边。,"The High Inquisitor gave me a order to protect you. As you've seen, those monsters are everywhere. I can't just leave you alone.","Мое задание от начальника — защищать тебя. Эти монстры вездесущи, ты и сам видел, я не могу оставлять тебя одного."
+line-182,乔迪,可我不想变成您无法战斗的理由，我只是......,But I don't want to be what's holding you back from joining the battle... I just—,"Но я не хочу становиться причиной, по которой вы не можете сражаться, я просто..."
+line-184,审判官艾丽妮,只要你能点亮这座塔，长官的判断就是正确的。我只是服从长官的判断。,"As long as you can light up this tower, then the High Inquisitor will have made the correct decision. I simply defer to his judgment.","Если ты сможешь зажечь эту башню, значит, суждение моего начальника было верным. Я лишь подчиняюсь его приказу."
+line-186,乔迪,......我明白了。,...I understand.,......Я понял.
+line-188,审判官艾丽妮,你关于这座伊比利亚之眼的知识，是来自你的父母？,Did your knowledge of the Eye of Iberia come from your parents?,Твои знания об этом Оке Иберии — они от родителей?
+line-190,乔迪,是，准确来说，是整座格兰法洛过往生活的结晶。他们都是伊比利亚最好的灯塔工程师，起码蒂亚戈叔叔是这么告诉我的。,"Yes. Or more precisely, it's the sum of all of Gran Faro's past. They gathered all the best lighthouse engineers in all of Iberia, or at least that's what my uncle told me.","Да, точнее сказать, это кристаллизация всей прошлой жизни Гран-Фаро. Они были лучшими инженерами маяков в Иберии, по крайней мере, так говорил дядя Тьяго."
+line-192,审判官艾丽妮,那里曾是审判庭划定的阵地，直到连续发生了数起与阿戈尔人和深海教会有关的案件而遭到废弃。,"The territory used to be demarcated by the Inquisition, until it was abandoned after a string of incidents involving the Ægir and the Church of the Deep.","Это место когда-то было опорным пунктом Инквизиции, пока его не забросили после нескольких дел, связанных с агорцами и Церковью Бездны."
+line-194,乔迪,......,......,......
+line-196,审判官艾丽妮,我不是想揭你的伤疤，我只是在想......出发前我阅览过当时的判决的卷宗......不，没什么。,"I'm not trying to reopen old wounds, but I've been thinking. Before I left, I read the dossier about the sentence handed down at the time. ...No, never mind.","Я не хочу сыпать соль на раны, я просто подумала... Я читала архивные дела о тех приговорах перед отправлением... Нет, ничего."
+line-198,审判官艾丽妮,你不讨厌审判庭吗？,Do you hate the Inquisition?,Ты не ненавидишь Инквизицию?
+line-200,乔迪,呃......这个......,Um... To be honest...,Э-э... это...
+line-201,乔迪,如果那座小镇上真的有什么压得人喘不过气，除了天上散不开的乌云，就只有“审判庭”三个字了吧......,"If there's anything that always hangs over the heads of the people back home, other than the ubiquitous dark clouds, it would be the word 'Inquisition.'","Если что-то в том городке и заставляло людей задыхаться, кроме бесконечных туч над головой, так это только само слово «Инквизиция»..."
+line-202,乔迪,那座小镇曾闪闪发亮，给了我们重建家园的信心。工人和工程师们一腔热忱，对抗灾难，但在灾难来临之前，审判庭就夺走了一切。,"The town once glimmered, giving us the confidence to rebuild our homes. The workers and engineers gave everything they had to fight the disaster, but the Inquisition took everything before it even struck.","Городок сиял, даря нам надежду на восстановление дома. Рабочие и инженеры трудились не покладая рук, противостоя катастрофам, но еще до прихода бедствия Инквизиция отняла у нас всё."
+line-204,审判官艾丽妮,你今天仍旧这么认为？,And do you still believe that today?,Ты до сих пор так считаешь?
+line-206,乔迪,我是在那里长大的。我能看到和听到的，都这么告诉我。,It's the place I grew up in. Everything I've ever seen or heard has only reinforced that lesson.,"Я вырос там. Всё, что я видел и слышал, говорит мне об этом."
+line-208,乔迪,还有，呃，抱歉。审判官阁下。,"And, um, I'm sorry, ma'am.","И еще, э-э, прошу прощения, господин Инквизитор."
+line-210,审判官艾丽妮,你只是如实陈述，市民。你的行为会证明你是个忠诚于伊比利亚的人。,"You are simply stating your lived experiences, citizen. It is your actions that will prove your loyalty to Iberia.","Ты просто изложил факты, гражданин. Твои действия докажут, что ты верен Иберии."
+line-212,审判官艾丽妮,......但我很意外，原来你敢当着审判官的面说这些话。,"...Still, I'm astonished you had the guts to say all that in front of an Inquisitor.","......Но я удивлена, что ты осмелился сказать это прямо в лицо Инквизитору."
+line-214,乔迪,来到这里之前，我当然不敢......但是......我见到了伊比利亚之眼。长久以来，它只在我的梦里出现，只是广场上的一座雕塑。,"I never would've dared, not until I came here... But, then I saw the Eye. For the longest time, it's only appeared in my dreams, nothing more than a sculpture sitting in the plaza.","До прихода сюда я, конечно, не посмел бы... но... я увидел Око Иберии. Долгое время оно существовало лишь в моих снах, как простая статуя на площади."
+line-215,乔迪,每一个格兰法洛的长辈都在口口相传的，我们本该做到的事情......,"Everyone in Gran Faro who came before me has passed this all down. Our duty, what we must do...","То, о чем все старшие Гран-Фаро передавали из уст в уста, то, что мы должны были сделать..."
+line-216,乔迪,我现在其实非常感动——,It's all surging through me right now—,"На самом деле, сейчас я очень тронут —"
+line-221,乔迪,——呃，审判官阁下，塔的下面是不是有什么东西在发亮？蓝色的，星星点点......,"—Um, ma'am, do you see something glimmering at the base of the lighthouse? Something blue, and sparkling like stars...","— э-э, господин Инквизитор, разве под башней не светится что-то? Синее, мерцающее..."
+line-223,审判官艾丽妮,那是——,That's—,Это —
+line-225,审判官艾丽妮,——溟痕！,—The nethersea brand!,— след Бездны!
+line-234,幽灵鲨,你真的在和我战斗吗？骑士先生？,"Do you really think you can fight me, Mister Knight?",Ты правда сражаешься со мной? Сэр Рыцарь?
+line-236,最后的骑士,......,......,......
+line-238,幽灵鲨,你的眼里只有这座灯塔，为什么？你为什么要执着于它？,You only care about the lighthouse. Why? Why do you cling to it so?,"Твои глаза видят только этот маяк, почему? Почему ты так одержим им?"
+line-240,最后的骑士,巨浪......滔天......,Monstrous waves... Swallowing the sky...,Гигантская волна... разверзнется...
+line-241,最后的骑士,......小麦都应闭口无言，硕物将倾。,...Even the stalk of wheat... consumed by silence. All things great and small... returned to nothing.,"......Пшеница должна молчать, ибо свершится неизбежное."
+line-255,恐鱼,（激动的窸窣声）,(Agitated slithering sounds),(Взволнованный шорох)
+line-257,大审判官达里奥,他能言语，但却没有号令他的族群。恐鱼在混乱。,"He can speak, but not command his kin. The Sea Terrors are in disarray.","Он говорит, но не отдает приказы своему рою. Морские хищники в смятении."
+line-258,大审判官达里奥,我们当速战速决。,Let us put an end to this.,Мы должны закончить это быстро.
+line-268,最后的骑士,（沙哑的咆哮）——！,(Rasping roar) —!,(Хриплый рык) —!
+line-290,幽灵鲨,——真让人惊讶，骑士先生，你的动作似乎和刚才不太一样。,"—What a surprise, Mister Knight. You're not moving like you were before.","— Удивительно, сэр Рыцарь, кажется, ваши движения изменились."
+line-292,最后的骑士,......,......,......
+line-294,大审判官达里奥,人类的动作。库兰塔骑士独有的冲锋起步。你究竟是什么？,"Those are human movements. A charging wind-up, unique to Kuranta knights. What exactly are you?",Человеческие движения. Уникальный стиль рыцаря-курсанты. Кто ты такой?
+line-296,最后的骑士,......,......,......
+line-297,,骑士仍旧没有理睬二人。他将目光投向了第三个方向。,The knight continues to ignore his two opponents. His attention is solely on the third.,Рыцарь продолжал игнорировать обоих. Он устремил взгляд в ином направлении.
+line-299,,巨大的灯塔没有因为他的攻击撼动分毫。即使是大静谧都没能摧毁伊比利亚之眼，何况一个骑士？,"Even with his attack, the towering lighthouse does not even shake. If even the Profound Silence failed to destroy the Eye, what chance does a lone knight have?","Огромный маяк не дрогнул от его атак. Даже Великая Тишина не смогла разрушить Око Иберии, что уж говорить о каком-то рыцаре?"
+line-300,,这让他感到困惑。也让他更加跃跃欲试。,It bewilders him. It pushes him to try even harder.,Это его озадачило. И раззадорило еще больше.
+line-302,最后的骑士,（沙哑的低吟）云，群峦，灰烬......陈列在腐蚀的温床。,"(Rasping murmur) Clouds, rolling hills, pillars of ash... arrayed across a hotbed of decay.","(Хриплый шепот) Облака, пики гор, пепел... лежат на ложе разложения."
+line-303,最后的骑士,浪花......不灭......,The tides... unending...,Брызги... не угаснут...
+line-317,恐鱼,（激烈地蠕动）,(Violent slithering),(Бешеное извивание)
+line-319,大审判官达里奥,恐鱼被你吸引，你负伤了。,"You're injured, and the Sea Terrors are drawn to you.","Морские хищники привлечены тобой, ты ранен."
+line-321,幽灵鲨,似乎是这样。只是不小心擦伤——,So it appears. Got a little scratched up on accident—,"Кажется, так. Просто небольшая царапина —"
+line-322,幽灵鲨,呃......,Ngh...,Э-э...
+line-334,大审判官达里奥,......让开。你不适合继续战斗。,Step aside. You're no longer fit to fight.,......Отойди. Ты больше не способна сражаться.
+line-336,,达里奥迅速扫视了一眼面前的深海猎人。她明显在刚才的缠斗中表露出了数次不自然的停顿。,Dario's eyes quickly dart across the Abyssal Hunter in front of him. Her movements had paused unnaturally a few times during the previous clash.,Дарио бегло осмотрел стоявшую перед ним Охотницу на демонов бездны. Она явно допускала неестественные заминки в движениях после недавней стычки.
+line-337,,达里奥听过关于她的一些报告。她与盐风城的实验有关，与那场激战之后，达里奥亲眼所见的那个女人大不相同。,"He's heard reports about her. She was involved in the Sal Viento experiments, but the woman who stands before him is completely different from the one who emerged from that fierce battle.","Дарио слышал отчеты о ней. Она связана с экспериментами в Салт-Уинде, и она совершенно не похожа на ту женщину, которую Дарио видел после тех сражений своими глазами."
+line-338,,她是谁？她现在是谁？,Who was she? And who is she now?,Кто она? Кто она теперь?
+line-340,大审判官达里奥,你应该没有大碍，可你连站都站不稳了。,"They've hardly touched you, yet you seem barely able to stand.","С тобой, кажется, ничего серьезного, но ты даже стоять нормально не можешь."
+line-341,大审判官达里奥,是盐风城时落下的病根？,Maybe an illness you contracted in Sal Viento?,Это последствия Салт-Уинда?
+line-347,幽灵鲨,......海风让人有些沉醉。,"...The scent of the sea is rather intoxicating, that's all.",......Морской бриз пьянит.
+line-349,最后的骑士,......骑士......同胞。为什么，你要咀嚼空气，你要感受温度，你从不享用，文明的果实。,"...Knight ...Comrade. Why, why must you gag on the air, and endure the heat? You'll never taste... the fruits of civilization.","......Рыцарь... собрат. Почему ты жуешь воздух, почему чувствуешь температуру, но никогда не вкушаешь плодов цивилизации."
+line-350,最后的骑士,唔......！,Urgh...!,Хм...!
+line-357,,地面在震动。,The ground is shaking.,Земля содрогалась.
+line-358,,久违的能量正顺着管线充盈着伊比利亚之眼残破的躯体，以支撑它睁开眼眸。,"Energy long-lost floods through the pipelines and into the broken body of the Eye of Iberia, prying open its eyelids.","Давно утраченная энергия наполняла разрушенное тело Ока Иберии, заставляя его открыть свои очи."
+line-360,幽灵鲨,......它醒了。整座小岛低吟着初醒的呓语，就像睡了几个世纪一样漫长，它将把冬天从身上撤去。,"It has awakened. The entire island whispers the groans of its first light. Slowly it shakes off its winter, as if waking from centuries of hibernation.","......Оно проснулось. Весь остров шептал в полузабытьи, словно просыпаясь от многовекового сна, он стряхивал с себя зимнюю спячку."
+line-362,最后的骑士,......万物之轮......,...The cycle of all existence...,......Колесо всего сущего...
+line-363,最后的骑士,它不属于海......,Does not belong to the sea...,Оно не принадлежит морю...
+line-364,,骑士在巨大的灯塔阴影中仰头观望。,"The knight lifts his head, gazing up from the shadow beneath the great lighthouse.","Рыцарь смотрел вверх, стоя в тени огромного маяка."
+line-365,,他在迷茫。,He is perplexed.,Он в замешательстве.
+line-366,最后的骑士,......这不是巨浪。,That... is not the monstrous waves.,......Это не гигантская волна.
+line-367,最后的骑士,巨浪，何在？,Where... are they?,Где же гигантская волна?
+line-384,,并没有任何气息，仿佛阴影顺着光芒的方向倾斜那般自然，幽灵鲨挥舞着武器。,"Without drawing a single breath, as naturally as a shadow slants in the direction of the light, Specter brings down her weapon.","Не было ни звука, Спектр взмахнула оружием с такой естественностью, будто тень скользила вслед за светом."
+line-385,,却被眼前这只人形的海嗣以不可思议的爆发力避开。,"But the humanoid Seaborn in front of her avoids it, with logic-defying explosive force.",Но гуманоидный морской хищник увернулся с невероятной взрывной силой.
+line-390,,半空中的骑士凝望着远方。,"In midair, the knight looks far out into the distance.","Рыцарь, парящий в полувоздухе, вглядывался вдаль."
+line-391,,他在听，新的海浪将至。他要去击碎海浪。,"He is listening, listening for the coming of new waves. And he will break them.",Он прислушивался — новые волны близки. Он хочет сокрушить их.
+line-396,最后的骑士,......Ishar......mla......,...Ishar... mla...,......Ишар-мла......
+line-402,最后的骑士,（沙哑的咆哮）——罗辛——南特——！,(Rasping growl) —Roci—nante—!,(Хриплый рык) — Росинант — Нант —!
+line-417,罗辛南特,（嘶鸣）——！！,(Braying) —!!,(Ржание) —!!
+line-425,最后的骑士,（不清晰的发音）追！,(Unintelligible sounds) Chase!,(Невнятное произношение) В погоню!
+line-434,幽灵鲨,原来骑士先生会害怕光芒。,"Turns out, Mister Knight is afraid of the light.","Оказывается, сэр Рыцарь боится света."
+line-436,大审判官达里奥,别追，这样的海嗣不止一只，护卫灯塔，才是任务。,Don't pursue him. He's not the only Seaborn like that out there. Our only duty is to defend this lighthouse.,"Не преследуй его. Таких морских хищников много, защита маяка — наша задача."
+line-438,幽灵鲨,骑士先生只是对灯塔失去了兴趣。,He's only lost interest in the lighthouse.,Сэр Рыцарь просто потерял интерес к маяку.
+line-440,大审判官达里奥,我对怪物的动机也没有兴趣。,I don't care about the motivations of monsters.,Мне нет дела до мотивов монстра.
+line-442,幽灵鲨,你是在说，我也是怪物？,Are you saying... I'm also a monster?,"Ты хочешь сказать, что я тоже монстр?"
+line-444,大审判官达里奥,你？,You?,Ты?
+line-445,大审判官达里奥,你正在发生变化。我并不清楚这种变化是否会发生在每一个深海猎人身上。,You are undergoing a transformation. I don't know whether this is something that happens with every Abyssal Hunter.,"Ты меняешься. Я не знаю, происходит ли это со всеми Охотниками на демонов бездны."
+line-446,大审判官达里奥,但如果有必要，这片礁石将是你们最后踏足的陆地。,"But if necessary, this reef will be the last bit of land you'll ever step on.","Но если понадобится, этот риф станет последней землей, на которую вы ступите."
+line-448,幽灵鲨,我们明明被海洋环绕，你还称这里作陆地？,"You would still call this land, when we're clearly surrounded by ocean?","Нас окружает океан, а ты всё еще называешь это землей?"
+line-450,大审判官达里奥,因灾难而改变的是海岸线，不是国境线。,"Disasters change coastlines, not national boundaries.","Катастрофа меняет береговую линию, но не государственные границы."
+line-451,大审判官达里奥,被大静谧吞噬的每一寸土地仍然服从于伊比利亚的律法。,Every last centimeter of land swallowed by the Profound Silence is still subject to the laws of Iberia.,"Каждый дюйм земли, поглощенный Великой Тишиной, всё еще подчиняется законам Иберии."
+line-453,幽灵鲨,律法，高尚的词语。但并非所有生灵都认可这种高尚。,"Laws, a virtuous word. Yet not all creatures recognize this virtue.",Закон... высокое слово. Но не все существа признают это благородство.
+line-462,大审判官达里奥,......准备迎战。,...Ready your blade.,......Приготовиться к бою.
+line-471,乔迪,还、还差最后一点！,J-Just a little bit more!,Е-еще чуть-чуть!
+line-476,恐鱼,（蠕动的窸窣声）,(Slithering sounds),(Шорох извивающихся щупалец)
+line-485,审判官艾丽妮,还差一点就快点！再这样拖下去，这座塔会被溟痕吞噬的！,"Hurry up then! If this drags out any longer, the lighthouse will be swallowed up by the nethersea brand!","Если осталось чуть-чуть, так поторапливайся! Если будем тянуть, эту башню поглотит след Бездны!"
+line-487,乔迪,......遇到了一点麻烦！,...Ran into a little bit of a hitch!,......Возникла небольшая проблема!
+line-489,乔迪,也许是哪个附属建筑遭到了损伤，可、可就算排查，也太花时间了！,"One of the auxiliary structures might've been damaged, b-but that would take too much time to investigate!","Возможно, какая-то вспомогательная конструкция повреждена, но, но на проверку уйдет слишком много времени!"
+line-501,审判官艾丽妮,只要打开核心设施就行，我们需要调取大船的位置信息，最好能重建与海岸线的联络——,"Just booting up the core facility will suffice. We still have to retrieve the flagship's coordinates, ideally reestablishing a connection with the line running along the coast—","Нужно просто запустить основные мощности, нам нужно получить координаты большого корабля, желательно восстановить связь с берегом —"
+line-503,乔迪,我、我明白了，但是——恐怕那些东西在更上面的地方！,"I, I know, but— Those things might be even higher up!","Я, я понял, но — боюсь, они выше по уровню!"
+line-505,审判官艾丽妮,那就走！快！,Then keep going! Hurry!,Тогда идем! Быстрее!
+line-507,乔迪,......不。,...No.,......Нет.
+line-508,乔迪,我必须留在这里......开启大灯塔只需要拉下最显眼的那个开关，但我得在这里盯着电力系统重启完毕......,"I have to stay here... Turning on the lighthouse is as simple as pulling the most conspicuous lever, but I need to stay here and oversee the power system rebooting.","Я должен остаться здесь... Чтобы запустить главный маяк, достаточно нажать самый заметный выключатель, но я должен следить, чтобы система питания перезагрузилась..."
+line-510,乔迪,审判官阁下，您上去吧。,"You should go, ma'am.","Господин Инквизитор, идите вы наверх."
+line-512,审判官艾丽妮,什么——可如果你被漏网的恐鱼袭击了，我们就——,"What? But if you're attacked by a Sea Terror that slipped through the net, we'll all—","Что — но если на тебя нападет морской хищник, который пробрался внутрь, мы —"
+line-514,乔迪,我知道——但是，我、我也不想功亏一篑！,"I know! But I, I don't want to come up one step short, not now!","Я знаю — но, я, я не хочу, чтобы всё было напрасно!"
+line-516,乔迪,那些怪物——它们就算主动袭击人类，也只是因为我们入侵了它们的巢穴，对吧？,"Those monsters— They only lashed out against humans because we invaded their nest, right?","Те монстры — даже если они нападают на людей, то лишь потому, что мы вторглись в их гнездо, верно?"
+line-517,乔迪,如果真是这样，它们是不会继续破坏这些设备的，发生战斗反而比较危险，您上去吧！,"If that's the case, they won't keep destroying the facilities. If anything, getting into a fight will only make things more dangerous, so you should keep climbing instead!","Если это так, они не будут продолжать разрушать оборудование. Наоборот, вступать в бой опасно, идите вы!"
+line-519,审判官艾丽妮,......主开关是吧。,"...A conspicuous lever, right?","......Главный выключатель, значит."
+line-521,乔迪,对，最显眼的拉杆，至少能保证灯光设备在内的主要设备都恢复运作......那个，只要笔记上没写错的话。,"Yeah, it should be obvious. Flip that, and at least the main facilities, including the lighting equipment, will start up again. ...Assuming what the log said is correct.","Да, самый заметный рычаг, по крайней мере, это гарантирует восстановление работы основного оборудования, включая освещение... если я ничего не перепутал в записях."
+line-523,审判官艾丽妮,好。,Alright.,Хорошо.
+line-525,审判官艾丽妮,我很快就回来，乔迪。,"I'll be right back, Jordi.","Я скоро вернусь, Джоди."
+line-536,审判官艾丽妮,控制台......唔，是这个。,"The console... Well, this is it.","Консоль... хм, вот эта."
+line-538,审判官艾丽妮,......,......,......
+line-541,,从塔里看不见外面的情况。,Nothing on the outside is visible from within the tower.,"Из башни не было видно, что происходит снаружи."
+line-542,,那艘斯图提斐拉真的还没有沉没？他们要如何找到那艘大船？,Could the Stultifera really not have sunk? How are they supposed to find that great dreadnought?,Та «Стутифера» действительно еще не затонула? Как они собираются найти этот корабль?
+line-543,,惩戒军来不来得及援助长官与猎人们？格兰法洛的深海教徒是不是还藏着更多秘密？,Is it too late for the Penal Battalion to come to their aid? Are the cultists of Gran Faro hiding even more secrets?,Успеют ли каратели помочь начальнику и охотникам? Остались ли у морских культистов Гран-Фаро еще секреты?
+line-546,,只要拉下手里的拉杆，这一切就会得到解答。,"Just by pulling down on lever in her hand, all of these questions would be answered.","Стоит лишь потянуть за рычаг, и всё станет ясно."
+line-547,,艾丽妮本该困惑。她接受了太多。她知晓了海洋的种种，她也亲眼目睹。,"Irene should have been conflicted. She had accepted too much, learned much of the sea, and seen it all with her own eyes.","Ирен должна была колебаться. Она слишком много приняла на себя. Она узнала о море столько, что видела собственными глазами."
+line-551,审判官艾丽妮,——时候到了。,—Now's the time.,— Время пришло.
+line-553,审判官艾丽妮,希望你准备好了，艾丽妮。,"I hope you're ready, Irene.","Надеюсь, ты готова, Ирен."
+line-562,,刺眼的光穿透了海洋，穿透了一切。,"Dazzling light penetrates the ocean, piercing through everything.","Ослепительный свет пронзил океан, пронзил всё."
+line-563,,光会引领方向，光能驱散阴影。,The light will lead the way. The light can dispel the darkness.,"Свет укажет путь, свет разгонит тьму."
+line-566,审判官艾丽妮,......成功了......！,It worked!,......Удалось......!
+line-568,审判官艾丽妮,喂！乔迪！你看得见吗！我们成功——,"Hey, Jordi! Did you see that? We did it—",Эй! Джоди! Ты видишь?! У нас все...
+line-579,恐鱼,（摩擦墙面的窸窣声）,"(Slithering sounds, rubbing against the wall)",(Шорох трения о стену)
+line-581,审判官艾丽妮,糟糕——,Merda...,Черт —
+line-602,圣徒卡门,原来你还有心思欣赏这座雕塑。,I didn't think you still had it in you to appreciate this sculpture.,"Оказывается, у тебя всё еще есть настроение любоваться этой скульптурой."
+line-604,凯尔希,伊比利亚之眼......阿戈尔与伊比利亚技术结合的结晶。陆地上，只有移动城市一城之内可以无障碍通讯，跨城，则如隔天堑。,"The Eye of Iberia... The offspring of the marriage between Ægir and Iberian technology. On land, each nomadic city can only seamlessly communicate within its own walls. Between cities, however, is like crossing a moat.","Око Иберии... кристаллизация объединения технологий Агора и Иберии. На суше только в пределах одного мобильного города связь бесперебойна, а связь между городами подобна преодолению пропасти."
+line-606,圣徒卡门,没有通讯手段能解决富源石环境带来的干扰。唯一的办法，是冒着随时因天灾毁弃的风险架设基站。,No system of communication can resolve the interference caused by Originium-rich zones. The only solution is to set up base stations that are at constant risk of being destroyed by Catastrophes.,"Никакие средства связи не могут справиться с помехами, создаваемыми высоким уровнем ориджиниума. Единственный выход — устанавливать станции, рискуя, что их в любой момент могут уничтожить стихийные бедствия."
+line-607,圣徒卡门,我听说有的国家已经拥有了移动基站的技术，在各个城市间以固定轨道航行，那些工程师，与守卫灯塔之人，其实并无差别。,I hear some countries have already adopted the technology of mobile base stations that navigate on a fixed route between cities. Their engineers are no different from those who guard our lighthouses.,"Я слышал, что некоторые страны уже обладают технологиями мобильных базовых станций, курсирующих по фиксированным путям между городами. Эти инженеры ничем не отличаются от тех, кто охраняет маяки."
+line-608,圣徒卡门,即使到了今天，人类在这片大地上，仍在冥行盲索，不得其道。大家都在用同样的方式摸索着泰拉大地。,"Even today, humans still stumble about across this great land, blindly grasping for clues. We must still grope our way across Terra in near total darkness.","Даже по сей день человечество на этой земле блуждает в потемках, не зная верного пути. Все ищут способ покорить землю Терры, но методы у всех одни и те же."
+line-610,圣徒卡门,但是，海洋呢？,"But, what of the ocean?",Но что насчет океана?
+line-612,凯尔希,海洋中没有源石。阿戈尔的通讯技术远领先于陆地各国，伊比利亚之眼不只是一座灯塔。,There is no Originium in the ocean. The Ægir's communication technology vastly surpasses anything we have on land. The Eye of Iberia is not just a set of lighthouses.,"В океане нет ориджиниума. Технологии связи Агора намного опережают технологии стран суши, Око Иберии — это не просто маяк."
+line-614,圣徒卡门,当然，它是伊比利亚的眼。而且极少有人知道，它是布雷奥甘留给我们的，连通伊比利亚的话筒。,"It is, of course, Iberia's vision. Very few people know that it was left to us by Breogan, as a microphone to connect all of Iberia.","Конечно, это глаза Иберии. И мало кто знает, что это рупор связи с Иберией, оставленный нам Бреоганом."
+line-621,冷静的镇民,长官，久疏问候。,"It's been a while, sir.","Начальник, прошу прощения за долгое отсутствие."
+line-623,圣徒卡门,审判庭能如此迅速地对凯尔希女士的提议做出反应，你们功不可没。,Your work was invaluable in allowing the Inquisition to respond so quickly to Dame Kal'tsit's proposal.,"Ваша заслуга в том, что Инквизиция так быстро отреагировала на предложение госпожи Кель'цит, неоценима."
+line-624,圣徒卡门,如何，在格兰法洛的日子还好吗？,How about you? Have you enjoyed your time in Gran Faro?,"Ну и как, жизнь в Гран-Фаро?"
+line-626,冷静的镇民,比起其他同僚蛰伏的城市，这里谈不上危险。,"Compared to the other cities where our colleagues lay dormant, this place can hardly be considered dangerous.","По сравнению с другими городами, где скрываются мои коллеги, здесь не так уж опасно."
+line-628,凯尔希,......,......,......
+line-630,圣徒卡门,那么，你在这里有什么发现？,"So, what have you found here?","Итак, что ты здесь обнаружил?"
+line-632,冷静的镇民,很抱歉，长官。我所知的，恐怕不比您和这位女士多出多少。,"My sincere apologies, sir. I doubt I know much more than you and the Dame.","Прошу прощения, начальник. Боюсь, я знаю не больше вас или этой госпожи."
+line-633,冷静的镇民,大审判官阁下给我的命令是监视格兰法洛是否存在更多潜在的敌人，违背我们的律法，亵渎我们的国家。,"The order given to me by the High Inquisitor was to monitor Gran Faro for more potential enemies, those who would violate our laws and desecrate our country.","Приказ Великого Инквизитора заключался в том, чтобы отслеживать, не появляются ли в Гран-Фаро новые потенциальные враги, нарушающие наши законы и оскверняющие нашу страну."
+line-634,冷静的镇民,我的结论是没有。只是暂时没有。,"My conclusion being, no. Not for the time being.","Мой вывод — нет. Ну, по крайней мере, временно."
+line-636,圣徒卡门,在深海教徒出现的时候，你并没有及时通知你所属的队伍。,"When the Church's cultists appeared, you didn't notify your team in time.","Когда появились морские культисты, ты не оповестил свой отряд вовремя."
+line-638,冷静的镇民,是，我判断那些邪教徒不成气候，惩戒军撤离，正是钓出这些幕后黑手的好时机。,"Correct, I determined those cultists to be impotent, and took advantage of the Penal Battalion's withdrawal as a prime opportunity to go after their true mastermind.","Да, я счел, что эти еретики не представляют угрозы, и вывод карательного отряда — лучший способ выманить организаторов."
+line-640,圣徒卡门,他们的领袖是谁？是否有更多的......虚假的主教，主持着海洋对陆地的侵袭？,"And did you find them? Are there more... false bishops, presiding over the sea's invasion of the land?","Кто их предводитель? Есть ли еще... лже-епископы, возглавляющие вторжение океана на сушу?"
+line-642,冷静的镇民,他们的领袖......我只有猜测，没有证据。,"Without concrete evidence, I can only speculate as to who their leader is.","Их лидер... у меня есть лишь догадки, никаких доказательств."
+line-643,冷静的镇民,镇长蒂亚戈，来自伊比利亚腹地的工人，现在是这座小镇名义上的镇长。,"But Mayor Thiago, a worker from the Iberian hinterlands, is nominally the mayor of this town.","Мэр Тьяго, рабочий из глубинки Иберии, сейчас является номинальным мэром города."
+line-644,冷静的镇民,自伊比利亚之眼计划废止，审判庭迅速清理了格兰法洛中的叛徒后，他就对审判庭颇有微词，且毫不掩饰。,"Since the Eye of Iberia project was scrapped and the Inquisition made quick work of the traitors in Gran Faro, it's been no secret that he has been a pointed critic of the Inquisition.","С тех пор как проект «Око Иберии» был заморожен, а Инквизиция быстро зачистила Гран-Фаро от предателей, он открыто и не скрывая высказывал недовольство Инквизицией."
+line-646,圣徒卡门,蒂亚戈......格兰法洛的工人，他窝藏着邪教徒，看来，他就是我们的目标了，凯尔希女士。,"Thiago... One of Gran Faro's laborers, sheltering the cultists. It would seem we have our next target, Dame Kal'tsit.","Тьяго... рабочий из Гран-Фаро, укрывающий еретиков. Похоже, он и есть наша цель, госпожа Кель'цит."
+line-648,凯尔希,......,......,......
+line-650,冷静的镇民,......还有一件事，那个，卡门长官。惩戒军似乎遭遇了袭击。,"There's one other thing. Umm, Lord Carmen, the Penal Battalion seems to have come under attack.","......И еще кое-что, начальник Кармен. Похоже, на карательный отряд совершено нападение."
+line-652,圣徒卡门,什么......？,What...?,Что...?
+line-654,圣徒卡门,惩戒军投入了一个大阵的兵力，仅凭盘踞在格兰法洛的这点邪恶，连看清他们的徽记都是奢求。他们遇到了什么？,"They've invested a Tercio just to quash the evil writhing in Gran Faro, to the point that it's a rare luxury to see even a single badge. What could they up against?","Карательный отряд был развернут в составе крупного соединения, даже если все зло, затаившееся в Гран-Фаро, объединится, они даже мечтать не могли бы увидеть их эмблемы. С чем они столкнулись?"
+line-656,冷静的镇民,溟痕从地下渗至地表，在格兰法洛周围五十公里左右......划了一个圆。,"The nethersea brand has seeped through the ground to the surface, drawing a circle roughly fifty kilometers around Gran Faro.","След Бездны просочился из-под земли на поверхность, вокруг Гран-Фаро, примерно в пятидесяти километрах... очертив круг."
+line-657,冷静的镇民,而且，是一个完美的圆。就像用圆规画出的那样......,"And, it's a perfect circle, almost as if it was drawn with a compass...","Причем, идеальный круг. Как будто начерченный циркулем..."
+line-658,冷静的镇民,被包围的不是这座小镇，而是我们。,"It's not the town that's been surrounded, though. It's us.",Окружены не горожане. Окружены мы.
