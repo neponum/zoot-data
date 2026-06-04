@@ -1,0 +1,685 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,main_13
+__chapter__,,Chapter Name,obt/main/level_st_13-03,灾厄积渐
+,,,,
+char-1,浑浊的声音,浑浊的声音,Muddled Voice,Мутный голос
+char-2,赫德雷,赫德雷,Hoederer,Хедри
+char-3,凯尔希,凯尔希,Kal'tsit,Кельси
+char-4,推进之王,推进之王,Siege,Сидж
+char-5,戴菲恩,戴菲恩,Delphine,Даффина
+char-6,？？？,？？？,???,???
+char-7,Mon3tr,Mon3tr,Mon3tr,Mon3tr
+char-8,W,W,W,W
+char-9,伊内丝,伊内丝,Ines,Инес
+char-10,厄尔苏拉,厄尔苏拉,Ulšulah,Эрсула
+char-11,阿米娅,阿米娅,Amiya,Амия
+char-12,Logos,Logos,Logos,Логос
+char-13,珀茜瓦尔,珀茜瓦尔,Percival,Персиваль
+char-14,九,九,Nine,Девять
+char-15,塔露拉,塔露拉,Talulah,Талула
+char-16,“校官”,“校官”,'The Brigadier',«Офицер»
+char-17,爱布拉娜,爱布拉娜,Eblana,Эребру
+char-18,疲惫的感染者,疲惫的感染者,Worn-out Infected,Усталый зараженный
+char-19,整合运动成员,整合运动成员,Reunion Member,Участник Воссоединения
+char-20,陈,陈,Ch'en,Чэнь
+char-21,冷漠的感染者,冷漠的感染者,Indifferent Infected,Равнодушный зараженный
+char-22,愤怒的感染者,愤怒的感染者,Angry Infected,Разгневанный зараженный
+char-23,维多利亚士兵A,维多利亚士兵A,Victorian Soldier A,Викторианский солдат А
+char-24,维多利亚士兵B,维多利亚士兵B,Victorian Soldier B,Викторианский солдат Б
+char-25,风笛,风笛,Bagpipe,Флейт
+char-26,受伤的士兵,受伤的士兵,Injured Soldier,Раненый солдат
+char-27,开斯特公爵,开斯特公爵,Duke of Caster,Герцог Кейстер
+char-28,高多汀公爵,高多汀公爵,Duke of Gododdin,Герцог Гододин
+char-29,威灵顿公爵,威灵顿公爵,Duke of Wellington,Герцог Веллингтон
+char-30,可露希尔,可露希尔,Closure,Клоссир
+char-31,自救军战士,自救军战士,Self-Salvation Corps Fighter,Боец Армии освобождения
+char-32,困倦的佣兵,困倦的佣兵,Beleaguered Mercenary,Сонный наемник
+char-33,饥饿的佣兵,饥饿的佣兵,Starving Mercenary,Голодный наемник
+char-34,查尔斯·林奇,查尔斯·林奇,Charles Lynch,Чарльз Линч
+char-35,特蕾西娅,特蕾西娅,Theresa,Терезия
+char-36,曼弗雷德,曼弗雷德,Manfred,Манфред
+,,,,
+line-11,浑浊的声音,我为什么要帮你，萨卡兹？,"Why should I help you, Sarkaz?","С чего бы мне помогать тебе, сарказу?"
+line-13,浑浊的声音,你以为你解救了我？反正我也没死，而且不管死不死的，这具躯壳都已是被我遗弃的玩意。,"Do you think you saved me? I didn't die, though that doesn't even matter—this shell is merely a plaything I abandoned long ago.","Ты думаешь, что спас меня? Я в любом случае не умер, да и жива эта оболочка или нет — она для меня уже давно лишь отработанный материал."
+line-15,浑浊的声音,更何况，猎杀我的，不就是萨卡兹吗？,"Besides, aren't the Sarkaz the ones hunting me down?","И к тому же, разве не сарказы охотились на меня?"
+line-17,赫德雷,您看过了多少历史？,How much history have you seen?,Как много истории вы повидали?
+line-19,浑浊的声音,我曾经历过的全部。,All that I have experienced.,"Я пережил всё, что только можно."
+line-21,赫德雷,在传言中，您会为人们揭露真相的一角，或给出预兆的提示。,"Rumors say that you will divulge a piece of truth, or hint at an omen.","Ходят слухи, что вы приоткрываете людям завесу истины или даете знамения."
+line-23,浑浊的声音,你们这些小小的生物，将我游荡的涟漪视作幻觉，沉溺其中，还要怨我？,"You tiny little creatures treat my drifting ripples as hallucinations while indulging in them, and yet you harbor resent?","Вы, крошечные существа, принимаете мои мимолетные колебания за галлюцинации, тонете в них, а потом еще и вините меня?"
+line-25,浑浊的声音,被那些疯子瓜分之后......哦，有一部分还被一个堕天使带在身边，我所看见的、听见的，不如说更加有趣。,"After I was divided up by those lunatics... there's even a fallen angel carrying a part of me around, and what I've seen and heard since has actually gotten more interesting.","После того как меня растащили эти безумцы... о, а часть и вовсе носит с собой падший ангел, то, что я вижу и слышу, стало куда интереснее."
+line-27,浑浊的声音,反而是这些所谓的......厚重的历史、深刻的话题，让我备感无聊。,"On the contrary, what makes me feel absolute boredom are these so-called... bulky histories and profound topics.","Напротив, вся эта... «тяжелая история» и глубокомысленные темы вызывают у меня лишь скуку."
+line-29,赫德雷,备感无聊......您说得对。,Absolute boredom... you're not wrong on that.,Лишь скуку... Вы правы.
+line-31,赫德雷,在这片大地上，历史总是重复它自身。回望历史竟也成了看向未来。,History always repeats itself on this land. Looking at the past is now a means of looking towards the future.,На этой земле история всегда повторяется. Взгляд в прошлое стал для нас взглядом в будущее.
+line-33,浑浊的声音,于是，我居然也成了个预言家！我这辈子——如果现在的我还算在这辈子里，从没想过，自己还会有这么个身份。,"And so, I have actually become a prophet! In this life of mine—if you can still count my current form as the same life as before—I've never thought of having such an identity.","Выходит, я стал провидцем! За всю свою жизнь — если нынешнее мое состояние еще можно назвать жизнью — я и представить не мог, что примерю на себя такую роль."
+line-35,赫德雷,那么......您是否会期待“新的结论”？,Then... are you looking for a 'new conclusion'?,Тогда... ждете ли вы «новых выводов»?
+line-37,浑浊的声音,你以为我活了多久？小家伙。,Just how old do you think I am? You little rascal.,"Как долго, по-твоему, я живу, малыш?"
+line-39,浑浊的声音,自从你们变成了现在这副模样，就不会有新的结论。,"There won't be any new conclusions to draw, with the way all of you look like now.","С тех пор как вы стали такими, какими являетесь сейчас, новых выводов больше не будет."
+line-41,浑浊的声音,是啊，现在我这把老骨头上发生了些奇怪的事，一只兔子戴上了萨卡兹的王冠，她和一个男女妖，在我的脑袋上同血魔打架。,"Yes, something strange has happened to these decrepit bones of mine. A rabbit wears a Sarkaz's crown, and she together with a male Banshee are fighting a Vampire on top of my head.","Да уж, сейчас с моими старыми костями творятся странные вещи: кролик нацепил корону сарказов и вместе с эльфом и суккубом дерется в моей голове с Повелителем крови."
+line-43,浑浊的声音,当然，还有那只和你混在一起的，摆弄影子的羊。,"Of course, there's that sheep playing with shadows who hangs out with you too.","Конечно, не забыть и ту овечку, что управляет тенями и околачивается рядом с тобой."
+line-45,浑浊的声音,很新奇吗？可能有点。,"Are these new to me? A little, perhaps.","Это что-то новое? Возможно, немного."
+line-47,浑浊的声音,但你们赢不了的。,But you can't win.,Но вам не победить.
+line-49,赫德雷,您很确定。,You seem so sure.,Вы в этом уверены?
+line-51,赫德雷,我们也曾属于您曾看过的、反复轮回的历史吗？,"Do we also belong to the history you've seen, that has comes full circle time and time again?","Неужели мы тоже лишь часть того самого повторяющегося цикла истории, который вы наблюдали?"
+line-53,浑浊的声音,这片大地从来不缺乏反抗者，但他们总会落入相同的窠臼。,"There's never been a shortage of those who resist on this great land, but they always fall into the same trap.","На этой земле никогда не было недостатка в бунтарях, но все они попадали в одну и ту же ловушку."
+line-55,浑浊的声音,况且，我了解那只血魔的手腕，毕竟就是他当年扒了我的皮。,"Besides, I understand that Vampire's tricks. He was the one who peeled off my skin back then.","К тому же, я знаком с повадками того Повелителя крови. В конце концов, именно он в свое время содрал с меня шкуру."
+line-57,赫德雷,打个赌吧，巨兽。,"Let's have a wager, Feranmut.","Давайте заключим пари, Зверь."
+line-59,赫德雷,您眼中的这帮奇怪的人——兔子，羊，女妖，萨卡兹，会赢下那只曾猎杀您的血魔。,"This strange bunch of people—Cautus, Caprinae, Banshee, Sarkaz; they'll triumph over the Vampire that tried to hunt you.","Эта странная компания, что перед вашими глазами — кролик, овца, суккуб и сарказы — одолеет того самого Повелителя крови, что когда-то охотился на вас."
+line-61,浑浊的声音,你在向我示好？你觉得，如果帮我报了仇，我就会对你们另眼相看。,Are you trying to win my favor? Do you think I'll look at you differently for helping me?,"Пытаешься задобрить меня? Думаешь, если отомстишь за меня, я изменю свое отношение к вам?"
+line-63,浑浊的声音,我根本无所谓。不过，赌注是什么？,I couldn't care any less about that. But what are you putting on the table?,Мне совершенно плевать. Но какая будет ставка?
+line-65,赫德雷,如果我们赢了，您就协助我们，带我们回到来时的地方。,"If we win, you'll lend us your help, and bring us back to where we came from.","Если мы выиграем, вы поможете нам вернуться туда, откуда мы пришли."
+line-67,浑浊的声音,如果你们输了呢？,And if you lose?,А если проиграете?
+line-69,赫德雷,......反正那时候我们也都死了。,We'll all be dead by that point.,"...В любом случае, к тому времени мы уже будем мертвы."
+line-71,浑浊的声音,无本的买卖啊，小东西。,"You're making an empty offer, little thing.","Беспроигрышный вариант, мелкий ты негодник."
+line-73,浑浊的声音,我赌了。,I accept.,Я принимаю ставку.
+line-75,赫德雷,......您确实平易近人。,You really are easy to talk over.,...Вы на удивление сговорчивы.
+line-77,浑浊的声音,不，因为我知道，你们所有的一切都不过是我漾起的水波，转眼就归于平静。,"No, it's because I know that all you have are just the waves I toss up, that will calm to a still in the blink of an eye.","Нет, просто я знаю, что все вы — лишь рябь на воде, вызванная мною, которая в мгновение ока вернется к спокойствию."
+line-79,浑浊的声音,不妨就稍稍抬起眼皮，反正也不费什么力气。,So I might as well spare a little effort and raise my eyelids a little.,"Почему бы и не приподнять веки, в конце концов, это не стоит мне никаких усилий."
+line-84,,你们确实赢了，赢了一小步棋。但赌约可还远远没有结束。,"You have indeed won, by a miniscule move. But the bet is far from over.",Вы действительно победили. Выиграли маленький раунд. Но пари еще далеко не закончено.
+line-85,,\n你们真的赢下他了吗？赢下那只血魔所代表的仇恨、杀戮与血腥了吗？,"\nDid you really win? Did you triumph over the enmity, slaughter, and blood that Vampire represents?","Вы правда одолели его? Одолели ненависть, убийства и кровь, которые олицетворял этот Повелитель крови?"
+line-87,,不如，让我们稍微扩大一下赌局的范围吧。,Why don't we expand our wager by a little?,А не расширить ли нам рамки нашего пари?
+line-88,,\n我带你们回去。,\nI'll bring all of you back.,Я верну вас обратно.
+line-89,,\n然后，继续在循环往复的历史之中等着你们。,\nAnd then continue to waiting for you in the cycles of history.,А затем продолжу ждать вас в бесконечно повторяющейся истории.
+line-99,凯尔希,......,......,......
+line-102,,他们已经走了多久了？,How long have they been gone?,Сколько времени они уже отсутствуют?
+line-105,凯尔希,三个小时十四分钟。,Three hours and fourteen minutes.,Три часа четырнадцать минут.
+line-108,,我很担心他们。;......;血魔大君也能流血而死，对吧？,"I'm really worried about them.;......;Even a Sanguinarch can bleed and die, right?","Я очень за них беспокоюсь. Повелитель крови ведь тоже может истечь кровью и умереть, верно?"
+line-111,凯尔希,你该相信他们。,You should trust them.,Ты должна верить в них.
+line-113,凯尔希,我们也只能相信他们。,It's all we can do.,"У нас нет иного выбора, кроме как верить."
+line-118,推进之王,我们的战斗任务也结束了。,We're done with our combat mission too.,Наша боевая задача также завершена.
+line-120,推进之王,......损失算不上轻，这里的部队，确实称得上训练有素。,Our losses aren't light. Their forces here are indeed well-trained.,"...Потери нельзя назвать легкими, здешние войска действительно были обучены весьма профессионально."
+line-122,推进之王,大部分萨卡兹选择死战到底，但，也有一小批萨卡兹最后选择投降。,"Most of the Sarkaz chose to fight to the end, but a small number also chose to surrender.","Большинство сарказов предпочли сражаться до последнего, но небольшая группа всё же решила сдаться."
+line-125,,你可以把他们交给W的佣兵队。;......;你会处决他们吗？,You can hand them over to W's mercenary squad.;......;Will you execute them?,Ты можешь передать их наемникам W. ...Ты их казнишь?
+line-128,推进之王,不，我不会移交他们。,"No, I'm not doing that.","Нет, я не буду их передавать."
+line-131,推进之王,看来，你希望我自己做决定。,It seems like you want me to make my own decision.,"Похоже, ты ждешь, что я сама приму решение."
+line-134,推进之王,我确实很想这么做，队伍里这样的呼声也很高。,"That's how I wish to do so, and so does the rest.","Мне действительно очень хочется это сделать, и в отряде многие требуют того же."
+line-137,推进之王,但我也不会让他们简单死去。,But I refuse to let them die so simply just like that.,Но я не позволю им так просто умереть.
+line-139,推进之王,也许在战争的当下，审判是艰难的。,Perhaps it's difficult to put them on trial during wartime.,"Возможно, во время войны вершить суд непросто."
+line-141,推进之王,我们确实很难调查清楚，那些现在放下了武器、胆战心惊的萨卡兹，每个人的手上到底沾上了多少鲜血。,It's definitely a difficult task to judge just how much blood is on the hands of every terror-stricken Sarkaz who laid down their arms.,"Нам действительно трудно досконально выяснить, сколько крови на руках каждого из этих сарказов, что сложили оружие и дрожат от страха."
+line-143,推进之王,但，如果我们像他们一般行事，我们与他们就没有了区别。,"But if we act just like they do, then we'll be no different than them.","Но если мы будем поступать как они, то ничем от них не отличимся."
+line-148,戴菲恩,维娜，我希望承担调查这些萨卡兹战俘罪行的工作。,"Vina, I'd like to take on the responsibility of investigating the crimes committed by these Sarkaz prisoners of war.","Вигна, я хочу взять на себя работу по расследованию преступлений этих пленных сарказов."
+line-150,推进之王,......,......,......
+line-152,戴菲恩,我有专业的情报背景，我也很清楚，该怎么撬开他们的嘴。,"I have a professional covert intelligence background too, so I'm well versed in the ways to get them to talk.","У меня профессиональный опыт в разведке, и я точно знаю, как заставить их раскрыть рты."
+line-154,戴菲恩,我知道你在担心什么，我......,"I know what you're worried about, I...","Я знаю, о чем ты беспокоишься, я..."
+line-156,推进之王,不，我不担心。,"No, I'm not.","Нет, я не беспокоюсь."
+line-158,推进之王,交给你了。,I'll leave it to you.,Поручаю это тебе.
+line-160,戴菲恩,......嗯。,...Alright.,......Хм.
+line-162,戴菲恩,我不会让哪怕一滴血，没有归处。,I won't let a single drop of blood go unaccounted for.,Я не позволю ни одной капле крови остаться безнаказанной.
+line-172,凯尔希,做好战斗准备，那只巨兽要回来了。,Prepare for battle. The Feranmut will be back soon.,"Будьте готовы к бою, Зверь возвращается."
+line-174,凯尔希,Mon3tr，待命。,"Mon3tr, standby.","Mon3tr, к бою."
+line-176,凯尔希,我们无法确定，归来的到底是谁。,There's no way we can be sure who'll be on this return trip.,"Мы не можем быть уверены в том, кто именно вернется."
+line-188,,庞大的骸骨终于再度浮现。,The gigantic skeleton finally reappears.,Огромный остов наконец вновь показался на поверхности.
+line-189,,\n时间的洪流似乎冲刷掉了它身上所有的战斗痕迹，它只是悬浮在那里，和以往的任何一次，并无不同。,"\nThe torrents of time seem to have washed away any trace of battle, and it hovers in the air, no different than it was at any other point of time.","Поток времени, казалось, смыл все следы битвы с него. Он просто парил там, ничем не отличаясь от любого предыдущего раза."
+line-206,凯尔希,Mon3tr！,Mon3tr!,Mon3tr!
+line-213,？？？,喂，放我下来，你这——,"Hey! Let go of me, you damn—","Эй, отпусти меня, ты,..."
+line-214,？？？,啧，看来那老女人醒了，你觉得有人给你撑腰了？,Ugh. Seems like that old hag's awake. Think you got her backing you up now?,"Тц, кажется, эта старая ведьма проснулась, и ты думаешь, что теперь у тебя есть поддержка?"
+line-215,？？？,我的最后一枚手雷，叼好了，小怪物！,"That's my last grenade, so bite onto it tight, you little freak!","Моя последняя граната, держи покрепче, мелкий уродец!"
+line-218,Mon3tr,（愤怒的嘶吼）,(Angry howling),(Яростный рык)
+line-221,凯尔希,......Mon3tr，放她下来。,"...Put her down, Mon3tr.","...Mon3tr, опусти ее."
+line-226,W,真晦气。,Shitty luck today.,Какая гадость.
+line-229,W,唉，本来只是想回来的时候，给自己放一发礼炮——,*sigh* I just wanted to give myself a ceremonial salute to announce my return—,"Эх, собиралась же, когда буду возвращаться, устроить себе салют..."
+line-231,W,结果这骨头架子一停稳，就要看见臭脸色的老女人。,Didn't think I'd see an old hag with a scowl on her face once the skeleton stopped.,"А в итоге, как только эта куча костей остановилась, первое, что вижу — недовольную физиономию старой ведьмы."
+line-239,伊内丝,W，无论你在这里炸坏了多少结构，别忘了，我们在占领它以后，还要修好它。,"W, don't forget we have to repair any structures you blow up here after taking over the place.","W, сколько бы структур ты здесь ни подорвала, не забывай: захватив это место, нам придется его чинить."
+line-241,伊内丝,谁弄坏的谁修。,Anything destroyed will be fixed by the same hand.,"Кто сломал, тот и чинит."
+line-243,W,啊？我怎么会修这玩意？！,Huh? What makes you think I'd even know how to fix this kinda thing?!,А? С чего бы мне это чинить?!
+line-245,赫德雷,凯尔希，博士。,"Kal'tsit, Doctor.","Кельси, Доктор."
+line-247,赫德雷,巨兽的骸骨已经被我们夺取，指挥官厄尔苏拉也被俘虏。,"We've captured the Feranmut's skeleton, as well as Commander Ulšulah.","Остов Зверя захвачен нами, командующая Эрсула взята в плен."
+line-249,赫德雷,其余的骸骨驻军，都已经阵亡。,The rest of the skeleton garrison have been eliminated.,Остальной гарнизон остова уничтожен.
+line-251,厄尔苏拉,......,......,......
+line-253,厄尔苏拉,你就是那位凯尔希勋爵？,So you're <i>the </i> Dame Kal'tsit?,Вы и есть та самая леди Кельси?
+line-255,厄尔苏拉,我可听过不少你的故事。,I've heard so much about you.,Я наслышана о вас.
+line-257,凯尔希,你是疤痕商场的人。,You're one of the Scar Market's people.,Ты из «Шрамовой торговой площадки».
+line-259,厄尔苏拉,......远在维多利亚的你，也能对卡兹戴尔的一草一木掌握得一清二楚。,"...You know every little thing that's happening in Kazdel clearly, even from somewhere as far as Victoria.","...Даже находясь в Виктории, вы способны знать всё о каждой травинке в Казтеле."
+line-261,厄尔苏拉,看来，那些老家伙说得没错。,Seems like those old guys weren't lying.,"Похоже, те старики были правы."
+line-263,凯尔希,等这里的事务结束，我会通过你，与你口中的那些“老家伙”谈谈。,"I'll have a talk with those 'old guys', as you call them, through you when we're done with business here.","Когда здесь всё закончится, я через тебя поговорю с теми самыми «стариками»."
+line-265,凯尔希,留守卡兹戴尔的是他们，而巫妖已经接触到现在管理卡兹戴尔的军事委员会成员。,"They are the ones who stayed behind to watch over Kazdel, and the Lich have already contacted the Military Commission that currently governs the place.","Именно они остались в Казтеле, а Личи уже вышли на контакт с членами военного совета, которые сейчас управляют страной."
+line-267,凯尔希,他们就快要做出自己的选择了。,They'll be making their decision soon.,Им пора сделать свой выбор.
+line-270,,阿米娅和Logos呢？,Where's Amiya and Logos?,А где Амия и Логос?
+line-278,阿米娅,博士！,Doctor!,Доктор!
+line-281,,阿米娅。,Amiya.,Амия.
+line-287,,娇小的卡特斯女孩撞入了你的怀中。,The little Cautus crashes into your arms.,Миниатюрная девочка-катерс врезалась в ваши объятия.
+line-291,,欢迎回来。;......;你身上都是血，受伤了吗？,Welcome back.;......;There's blood all over you. Are you hurt?,"С возвращением. ...Ты вся в крови, ты ранена?"
+line-294,阿米娅,我没事。这些血只是......血魔留下的。,I'm fine. The blood... it was the Vampire's.,Я в порядке. Эта кровь просто... оставлена Повелителем крови.
+line-296,凯尔希,阿米娅。,Amiya.,Амия.
+line-298,凯尔希,你的戒指......你使用了力量。,Your rings... you used them.,Твое кольцо... ты использовала силу.
+line-300,阿米娅,嗯。,Yeah.,Да.
+line-302,凯尔希,阿米娅，让我看看你的手。,Let me see your hands.,"Амия, покажи мне руку."
+line-307,,阿米娅手上的一枚戒指已经崩解，连碎片都无影无踪。,"A ring on Amiya's hand has already disintegrated, leaving not even a trace or fragment.","Одно из колец на пальце Амии рассыпалось, не осталось даже осколков."
+line-311,阿米娅,这是......直面他所必需的，抱歉。,I... had to use it against him. I'm sorry.,"Это было... необходимо, чтобы противостоять ему. Прошу прощения."
+line-313,凯尔希,......你对于情感与记忆的运用越来越熟练了。,...You've become more skilled with using emotions and memories.,...Ты всё искуснее управляешься с чувствами и воспоминаниями.
+line-316,,阿米娅，你之前还因为解放戒指晕倒过。,"Amiya, you fainted from releasing a ring before.","Амия, ты ведь раньше падала в обморок, освобождая кольца."
+line-318,,凯尔希，我们需要帮阿米娅再做一次检查。,"Kal'tsit, we need to run another check on Amiya.","Кельси, нам нужно еще раз осмотреть Амию."
+line-321,阿米娅,不，博士，别担心。,"No, Doctor. Don't worry.","Нет, Доктор, не беспокойтесь."
+line-323,阿米娅,我只是......有些累。,I'm just... kind of tired.,Я просто... немного устала.
+line-325,凯尔希,仍然是右手食指的戒指碎裂。还好，只是力量使用过度的结果。,"The ring on your right index remains broken. Fortunately, that's just an effect of exerting yourself.","Снова разбилось кольцо на указательном пальце правой руки. К счастью, это лишь результат чрезмерного использования силы."
+line-327,凯尔希,你又一次因愤怒而燃烧。,You were burning from rage again.,Ты вновь сгорела от гнева.
+line-329,阿米娅,我......愤怒吗？,Me.. angry?,Я... испытывала гнев?
+line-331,阿米娅,我以为我会很生气，血魔大君，他残害过很多人。,I thought I'd be angry at the Sanguinarch of Vampires for slaughtering so many people.,"Мне казалось, я буду очень зла на Повелителя крови, он ведь причинил стольким людям боль."
+line-333,阿米娅,可我所感受到的，远远不只是愤怒。,But what I felt was not just that.,"Но то, что я почувствовала, было далеко не только гневом."
+line-335,阿米娅,还有......悲伤。,There was also... sadness.,Там была еще... печаль.
+line-340,,悲伤。,Sadness.,Печаль.
+line-341,,\n恍惚间，一双永远藏着悲伤的粉色眸子在凯尔希的回忆间闪过。,\nKal'tsit pauses briefly and a pair of pink eyes always hiding sadness within flashes through her memory.,"В полузабытьи, в воспоминаниях Кельси промелькнули глаза розового цвета, в которых вечно таилась печаль."
+line-342,,\n凯尔希停顿了几秒，又再度端详起阿米娅的手指。,"\nA few seconds after, she comes to her senses and takes a second look at Amiya fingers.","Кельси на несколько секунд замерла, а затем снова вгляделась в пальцы Амии."
+line-346,凯尔希,这些戒指，本意是为了帮你适应魔王的力量，和伴随而来的汹涌情感。,"These rings are meant to help you adapt to the Lord of Fiends' power, and the surge of emotions that come with it.","Эти кольца предназначались для того, чтобы помочь тебе адаптироваться к силе Короля демонов и сопутствующим ей бушующим эмоциям."
+line-348,凯尔希,又一枚戒指有了裂痕。,Another ring has cracked.,На еще одном кольце появилась трещина.
+line-350,凯尔希,也许......我们只能一次次目睹这些淋漓的伤口。,Perhaps... we can do nothing but to witness these wounds open again and again.,Возможно... мы можем лишь раз за разом наблюдать за этими кровоточащими ранами.
+line-352,阿米娅,凯尔希医生，请放心。无论我面对过谁，又即将要面对谁......,"Please don't worry, Dr. Kal'tsit. No matter who I've faced, or who I will face next...","Доктор Кельси, пожалуйста, не беспокойтесь. С кем бы мне ни приходилось сталкиваться и кому бы еще ни пришлось противостоять..."
+line-354,阿米娅,我不会比他们更早倒下。,I won't fall before they do.,Я не упаду раньше них.
+line-356,Logos,血魔大君坠落于未知之地。,the Sanguinarch of Vampires fell into someplace we don't know about.,Повелитель крови пал в неизвестном месте.
+line-358,Logos,他的王庭，尚有余息。但他的威胁，不复存在。,"His court still remains, but no longer poses a threat to us.","Его королевский двор еще дышит. Но угроза, которую он представлял, исчезла."
+line-360,Logos,只是，我们还是没能阻止，那个诅咒的降临。,"However, we failed to prevent the curse from being cast.","Однако, мы всё же не смогли предотвратить наступление этого проклятия."
+line-362,阿米娅,伦蒂尼姆的方向......到底发生了什么？,It's coming from Londinium... what's happening over there?,Что же... происходит в направлении Лондиниума?
+line-364,凯尔希,......原本，自救军认为切断这条物资补给线，将会成为终结战争的手段。,The Self-Salvation Corps originally believed that cutting off this supply line would be a way to end the war.,"...Первоначально Армия самообороны полагала, что перерезание этого маршрута снабжения станет способом закончить войну."
+line-366,凯尔希,现在情况有变。这场“战争”，无论如何都不会长久。,But things have changed. This 'war' will not last for much longer.,Сейчас ситуация изменилась. Эта «война» в любом случае не продлится долго.
+line-368,凯尔希,我们需要尽快赶往那里。这具骸骨，或许能成为新的据点，或是，出其不意的交通工具。,"We need to hurry over. This skeleton might be able to become a new stronghold, or an unprecedented means of transport.",Нам нужно как можно скорее добраться туда. Этот остов может стать новой базой или неожиданным транспортным средством.
+line-370,凯尔希,......但愿，它能派上想象中的用场。,Hopefully it can be put to good use.,"...Надеюсь, он пригодится так, как мы предполагаем."
+line-372,推进之王,决战就在眼前。,The decisive battle is right before us.,Решающая битва близко.
+line-374,阿米娅,嗯。萨卡兹不能成为下一轮浩劫的元凶。,Mhm. The Sarkaz cannot be the culprits of the next calamity.,Да. Сарказы не могут стать причиной новой катастрофы.
+line-376,阿米娅,而且......,Also...,И еще...
+line-378,阿米娅,凯尔希医生。血魔的执念，他的期许，他所说的诅咒，是“源石”。,"Dr. Kal'tsit. The Vampire's obsession, his hopes, and what he called a curse, is 'Originium'.","Доктор Кельси. Одержимость Повелителя крови, его надежды, проклятие, о котором он говорил — всё это «Оригиниум»."
+line-380,凯尔希,......嗯。,...Yes.,...Да.
+line-382,凯尔希,最古老的卡兹戴尔比任何文明聚落都先一步接触到了“源石”。,The oldest Kazdel came into contact with 'Originium' before any other civilization did.,Древнейший Казтель столкнулся с «Оригиниумом» раньше любой другой цивилизации.
+line-384,凯尔希,那并非天灾的遗迹，并非堆积在岩层中沉默的矿物。那是一枚古老的“源石”。,"It was not the remnants of a Catastrophe, or a mineral silently buried within rock formations. It was a hunk of 'Originium' from antiquity.","Это не были остатки бедствий, не просто молчаливый минерал, скопившийся в скальных породах. Это был древний, настоящий «Оригиниум»."
+line-386,凯尔希,由它，诞生了最古老的巫术，最古老的......感染者。,"And it birthed the oldest witchcraft, and the most ancient of... Infected.",Из него родилось древнейшее колдовство и... древнейшие зараженные.
+line-388,凯尔希,假如血魔真的对这件事有所认知，甚至为此抱有执念，认为它能带来力量......,"If the Vampire really knew of this fact, and developed his obsession from that, thinking it could grant him power...","Если Повелитель крови действительно был осведомлен об этом и даже был одержим этим, считая, что это принесет силу..."
+line-390,凯尔希,......那接下来所决定的，就远不是伦蒂尼姆一城的命运了。,Then it won't just be Londinium's fate that will be determined next.,...то на кону сейчас стоит не просто судьба одного лишь Лондиниума.
+line-400,珀茜瓦尔,......我们又回来了。,Back here again.,...Мы вернулись.
+line-402,珀茜瓦尔,伦蒂尼姆。,Londinium.,Лондиниум.
+line-404,九,是啊，在经历了这一切之后......我们终于到了维多利亚的首都。,"Yeah, after all we've been through... we're finally in Victoria's capital.","Да, после всего случившегося... мы наконец добрались до столицы Виктории."
+line-406,九,可惜，它如今已经被萨卡兹和大公爵的军队给围了个水泄不通。,A pity it's now completely surrounded by the Sarkaz and the Dukes' armies.,"Жаль, что сейчас она наглухо окружена армией сарказов и герцогов."
+line-408,九,Guard，立刻安排......,"Guard, quickly arrange...","Гард, немедленно организуй..."
+line-410,九,......,......,......
+line-412,珀茜瓦尔,......,......,......
+line-414,九,珀茜瓦尔，安排我们的队伍再做一次筛查，我知道，有不少矿石病还在恶化的成员。,"Percival, arrange another Oripathy screening for our members. I know some of them are still deteriorating.","Персиваль, организуй повторный осмотр нашего отряда. Я знаю, что есть те, чья орипатия продолжает прогрессировать."
+line-416,九,非战斗人员在这片树林驻扎，珀茜瓦尔，照顾好他们，保持和我们的联络。,"Non-combatants will be stationed in this forest. Percival, take good care of them and keep in touch with us.","Некомбатанты остаются в этом лесу. Персиваль, присмотри за ними, поддерживай с нами связь."
+line-418,珀茜瓦尔,......我们真的要去伦蒂尼姆？,...Are we really going in there?,...Мы правда идем в Лондиниум?
+line-420,九,无论这场战争的结果是什么，感染者都会遍及伦蒂尼姆周遭。,"The Infected will be everywhere throughout the city, no matter how the war ends.","Каким бы ни был исход этой войны, зараженные будут повсюду вокруг Лондиниума."
+line-422,九,萨卡兹还是维多利亚人，军人还是贵族，又或是农民、工人、商人，短时间内，他们没法做出身份的判断。,"Sarkaz or Victorian, soldiers or nobles, and even farmers, workers, traders. They won't be able to judge their own identity so quickly.","Сарказы или викторианцы, военные или аристократы, фермеры, рабочие или торговцы — поначалу им не удастся определить, на чьей они стороне."
+line-424,九,也许，直到和平年代重新到来，直到他们再一次遭到倾轧，他们才会恍然大悟。,"Perhaps they won't even realize it until peace returns and they're once again marginalized, and then it hits them.","Может быть, до наступления мирных времен, пока их снова не раздавят, они будут пребывать в неведении."
+line-426,九,Guard的事......提醒了我这一点。,I was reminded of this... because of what happened to Guard.,Случай с Гардом... напомнил мне об этом.
+line-428,珀茜瓦尔,......,......,......
+line-430,九,但是，无妨。,"But, no matter.",Но не важно.
+line-432,九,我们要在这里，让整片大地的感染者，知道我们又举起了旗帜。,We have to let every Infected on this land know that our flag flies high once again.,"Мы должны сделать так, чтобы зараженные всей этой земли знали, что мы снова подняли знамена."
+line-434,九,更重要的是，知道我们的旗帜，到底是什么。,"And more importantly, what it stands for.","И что еще важнее, знали, что именно означают наши знамена."
+line-436,九,当他们有朝一日再度沦为阶下囚，当他们意识到这片大地的公正必须靠斗争得来的时候，他们会想起我们的旗帜。,"Once day, when they become prisoners again, they will think of our flag as they realize the justice on this land must be won through struggle.","Когда однажды они снова окажутся в кандалах и осознают, что справедливость на этой земле должна быть завоевана борьбой, они вспомнят наши знамена."
+line-438,珀茜瓦尔,怎么做？,What's the plan?,Что нам делать?
+line-440,九,分头去做。而且，也不是一朝一夕。,We'll split up. It won't happen overnight.,Действовать порознь. И это не произойдет за один день.
+line-442,九,根除病灶的任务就交给别人吧。我们要确保的是，压迫不再理所当然。为此，我们需要直接的力量和展示。,"Other people can handle the task of eradicating the disease, while we'll make sure oppression will no longer be tolerated. We'll need to directly demonstrate this with our strength.","Задачу искоренения болезни оставьте другим. Мы должны гарантировать, что угнетение перестанет считаться чем-то само собой разумеющимся. Для этого нам нужна прямая сила и демонстрация."
+line-444,九,至少，在维多利亚，我们得把——,"In Victoria, we need to at the very least—","По крайней мере, в Виктории мы должны..."
+line-447,塔露拉,——九。,——Nine.,...Девять.
+line-449,塔露拉,山丘的那头，有火光。至多一两百米距离。,"There's fire on the other side of the hill, a hundred or two hundred meters away at most.",За холмом — огонь. Максимум сто-двести метров.
+line-451,塔露拉,火的颜色不自然。,It's glowing an unnatural hue.,Цвет пламени неестественный.
+line-453,九,......珀茜瓦尔。,...Percival.,...Персиваль.
+line-455,九,前方的侦察队伍多久没传回讯息了？,How long has it been since the scouting team last replied us?,Как давно наш передовой отряд не выходил на связь?
+line-457,珀茜瓦尔,啊？我检查一下......,Huh? Let me go check...,А? Сейчас проверю...
+line-459,珀茜瓦尔,......确实超过了预估时间。但这也不是第一次了，通讯设备都是捡来的破烂。,"...Yeah, it's been longer than our estimations. But this isn't the first time, our comms equipment are just junk after all.","...Время уже действительно вышло. Но это не в первый раз, аппаратура связи — один сплошной хлам."
+line-461,珀茜瓦尔,我问问雷德......,I'll go ask Red...,Спрошу у Рэд...
+line-466,,塔露拉盯着那一抹火光。,Talulah stares at the flames.,Талула пристально смотрела на тот огонек.
+line-467,,\n没有缘由，没有先兆，仅有一种强烈的直觉。,\nThere is no reason or omen. Only a strong feeling.,"Никакой причины, никакого предзнаменования, лишь сильное предчувствие."
+line-468,,\n她从火光中嗅到了死亡。,\nShe smells the stench of death cast by the firelight.,В этом огне она почуяла смерть.
+line-479,“校官”,我不知道殿下会亲自来这里。,I didn't know Your Highness would be here in person.,"Не знал, что Ваше Высочество лично пожалует сюда."
+line-481,“校官”,只是不值一提的小事，一支脆弱的感染者武装力量。被迫团结起来反抗的可怜人。,This is only a trifling swarm of Infected with weapons. Weak and pitiable people forced to unite and fight.,"Это пустяковое дело — горстка слабых зараженных. Бедняги, вынужденные объединиться, чтобы дать отпор."
+line-483,爱布拉娜,......呵。哪怕他们之中，还有一个幸存的德拉克？,...Heh. Even if there is a surviving Draco among them?,...Хм. Даже если среди них остался хоть один выживший драко?
+line-485,“校官”,我们会确认她的身份，然后为您处理好一切。,We'll confirm her identity and handle everything on your behalf.,"Мы подтвердим ее личность, а затем уладим всё для вас."
+line-487,爱布拉娜,我当然没有在责怪你。,"I'm not blaming you, of course.",Я вовсе не виню вас.
+line-489,爱布拉娜,嗯......侦察兵发现目标了？,Hmm... have the scouts located the target?,М-м... разведчики нашли цель?
+line-491,“校官”,是，与情报一致。,Yes. It's consistent with our intel.,"Да, всё согласно информации."
+line-493,“校官”,但是，恕我直言，我们需要这么在意她吗？,"However, with all due respect—why do we have to be so concerned about her this much?","Но, с вашего позволения, нужно ли нам настолько сильно беспокоиться о ней?"
+line-495,“校官”,即使她真的是红龙的血脉——那也只意味着，她的“身份”对您所宣称的有些许不利。,Even if she has the red dragon's blood—her 'identity' will only pose a slight detriment to your claim.,"Даже если она действительно из крови красного дракона — это лишь значит, что ее «статус» может быть несколько неудобен для того, что вы провозглашаете."
+line-497,“校官”,但如果情报属实，她如今还有一个身份，是“感染者”。,"But if our intel is accurate, her current identity is that of an 'Infected'.","Но если верить данным, у нее сейчас есть другой статус — «зараженная»."
+line-499,“校官”,那她对您......,So what does she mean to...,Тогда для вас она...
+line-501,爱布拉娜,感染者呀。,"An Infected, hm?","Зараженная, значит."
+line-503,爱布拉娜,似乎，我们还认识一位德拉克感染者。,Don't we know another Infected Draco as well?,"Кажется, мы знакомы еще с одной драко-зараженной."
+line-505,“校官”,......,......,......
+line-507,爱布拉娜,我的妹妹也快要回到我身边了。,My sister will soon return to my side.,Моя сестра скоро вернется ко мне.
+line-509,爱布拉娜,就当是，为了滋养我们之间的土壤，排除一些不必要的变数吧。,Just think of it as eliminating some unnecessary variables to nourish the soil between us.,Примем это как устранение ненужных переменных для питания почвы между нами.
+line-511,“校官”,我们可以——,We can—,Мы можем...
+line-513,爱布拉娜,那是一条德拉克。,A Draco.,То была драко.
+line-515,爱布拉娜,呵呵......我从没和家人以外的德拉克接触过。,Hehe... I've never come into contact with a Draco outside of family before.,"Ха-ха... я никогда не контактировала с драко, кроме членов своей семьи."
+line-517,“校官”,......,......,......
+line-519,爱布拉娜,你们在这里等着。,"All of you, wait here.",Оставайтесь здесь.
+line-521,爱布拉娜,我亲自去。,I shall take a look myself.,Я пойду сама.
+line-529,疲惫的感染者,啊——,Ah—,Ах...
+line-531,塔露拉,小心些。,Careful.,Будь осторожнее.
+line-533,疲惫的感染者,......谢谢。,......Thank you.,...Спасибо.
+line-534,疲惫的感染者,这片沼泽地，很不好走。,This swamp is miserable to wade through.,Это болото... по нему очень тяжело идти.
+line-536,塔露拉,是啊。,Yeah.,Да.
+line-538,塔露拉,补给并不充裕，很多人吃不饱肚子，也没法得到像样的治疗。,"Our supplies are low, and people aren't getting enough to eat. We haven't been able to get any decent medication either.","Запасов мало, многим не хватает еды, нет доступа к нормальному лечению."
+line-540,塔露拉,要扶着吗？,Do you need my help?,Помочь тебе?
+line-542,疲惫的感染者,不，不用了。,"No, no thank you.","Нет, не нужно."
+line-543,疲惫的感染者,我已经从乌萨斯走到了这里，不差这点路。,"I walked all the way from Ursus, and this isn't so different from back then.","Я прошел пешком от самой Урсуса, и этот путь не будет сложнее."
+line-545,塔露拉,......,......,......
+line-550,,塔露拉放慢了脚步。,Talulah's footsteps slow down.,Талула замедлила шаг.
+line-551,,\n队伍在她的身侧缓缓行进，掠过灌木，掠过芦苇荡。,\nThe group slowly marches next to her through the shrubs and reeds.,"Отряд медленно двигался рядом с ней, минуя кустарники и тростниковые заросли."
+line-552,,\n沙沙的声响比沉默更安静。,\nThe rustling sounds are quieter than silence itself.,"Шелест звучал тише, чем молчание."
+line-556,九,怎么？,What is it?,Что такое?
+line-558,塔露拉,九。,Nine.,Девять.
+line-560,塔露拉,能解开这些......束缚吗？还有你的法术。,Can you release these... restraints? And your Arts too.,Можно ли снять эти... путы? И твои заклинания.
+line-562,九,你应该知道自己不被允许使用源石技艺。这是你的枷锁和镣铐。,You should be well aware you're not allowed to use your Originium Arts. These are your yoke and fetters.,"Ты прекрасно знаешь, что тебе запрещено использовать ориджиниум-арты. Это твои оковы и кандалы."
+line-564,九,只有在那些维多利亚的同胞们面前，你才是“英雄塔露拉”。,"You're 'Talulah, the Hero' only when before our Victorian compatriots.",Только перед теми викторианцами ты — «героиня Талула».
+line-566,塔露拉,我不是什么英雄。,"I'm not a hero, or anything like that.",Я не какая не героиня.
+line-568,塔露拉,我只是不希望再有人因为我——,I just don't want history to repeat itself because of m—,"Я просто не хочу, чтобы кто-то еще из-за меня..."
+line-573,,话没有说完。,She does not finish her sentence.,Она не договорила.
+line-582,,死亡的烈火自沼泽深处燃起，包围了整支迷茫的队伍。,"Flames of death ignite from the depths of the swamp, encircling the group in their confusion.","Пламя смерти вспыхнуло из глубин болота, окружив весь растерянный отряд."
+line-587,整合运动成员,怎、怎么回事？！,Wh-What's going on?!,Ч-что происходит?!
+line-589,整合运动成员,这火是怎么烧起来的？！,Where did this fire come from?!,Откуда взялся этот огонь?!
+line-591,九,全队警戒！,All units on alert!,Отряду занять круговую оборону!
+line-593,九,那是——,What is that—,Это...
+line-606,,话音未落，不祥的暗紫色攀上了九的身体，顷刻间将她溺在死亡正中。,"An ominous deep purple climbs up Nine's body before she can finish speaking, engulfing her in death instantly.","Не успела она закончить, как зловещее темно-фиолетовое пламя окутало тело Девяти, вмиг погружая ее в самый центр смерти."
+line-607,,\n冰冷的死火吞尽一切。,\nCold flames of death swallow everything.,Ледяной мертвый огонь поглотил всё вокруг.
+line-615,爱布拉娜,......“整合运动”，感染者。,...'Reunion'. Infected.,"...«Воссоединение», зараженные."
+line-617,爱布拉娜,又是一群可怜的人，反抗自己可怜的命运。坚韧，强大，绚丽。,"Another group of pitiable people, fighting against their pitiable fate. Tenacious, powerful, magnificent.","Очередная группа бедолаг, восставших против своей жалкой судьбы. Упорные, сильные, прекрасные."
+line-619,爱布拉娜,却全然不知，自己被卷入了又一个可悲的阴谋，德拉克与阿斯兰，红龙与狮子。,"And yet completely unaware they're involved in another lamentable conspiracy. Draco and Aslan, red dragon and lion.","И при этом даже не ведающие, что оказались втянуты в очередной плачевный заговор драко и асланов, красных драконов и львов."
+line-621,爱布拉娜,自遥远的乌萨斯崛起的你们，却被一位红龙的末裔引导，走到今天。,"You people, who rose up from Ursus, were actually lead to where you stand today by a descendant of the red dragon.","Вы поднялись из далекого Урсуса, но, ведомые потомком красного дракона, дошли лишь до сегодняшнего дня."
+line-623,爱布拉娜,最后招来毁灭。,Who will ultimately bring about your demise.,Чтобы в итоге обрести гибель.
+line-625,爱布拉娜,“塔露拉·雅特利亚斯”，德拉克，你是什么样的人？,"'Talulah Artorius'. What sort of woman are you, Draco?","«Талула Артриус», драко, что ты за человек?"
+line-627,爱布拉娜,如果你值得我的关注，就从死里走出来。,"If you're deserving of my attention, then come forth from death.","Если ты стоишь моего внимания, восстань из мертвых."
+line-632,,......,......,......
+line-633,,\n跃溅的火花为死亡代言，枯枝与芦苇皆作飞灰。,"\nSparks fly as death's voice, with dead branches and reeds all reduced to ashes.","Разлетающиеся искры стали гласом смерти, сухие ветки и тростник обратились в пепел."
+line-634,,\n......可花还开着。,\n...But the flowers are still in bloom.,...Но цветы продолжали цвести.
+line-635,,\n花在拒斥死亡。,\nThey are rejecting death.,"Цветы, что отвергали смерть."
+line-639,爱布拉娜,......花？,Flowers?,...Цветы?
+line-641,爱布拉娜,这里竟还有......火燃不尽的花？,To think there would even be... flowers that can withstand my flames?,"Неужели здесь есть... цветы, которые не в силах сжечь мой огонь?"
+line-664,塔露拉,九。,Nine.,Девять.
+line-666,九,......我没事。,I'm fine.,...Я в порядке.
+line-668,九,这火焰很特殊。,These flames are special.,Это пламя — особенное.
+line-671,塔露拉,嗯。,Yes.,Да.
+line-673,塔露拉,她是冲着我来的，我会解决。,"She came for me, so I'll handle her.","Она пришла за мной, я сама с ней разберусь."
+line-675,九,......,......,......
+line-677,塔露拉,很多人没有做好战斗的准备。,Many of us here aren't combat-ready.,Многие не готовы к бою.
+line-679,塔露拉,你要保护他们所有人。,You have to keep them all safe.,Ты должна защитить их всех.
+line-681,九,......整合运动会拽着你的链条。,Reunion will pull on your chain.,...Воссоединение будет держать тебя на цепи.
+line-683,九,你还没有被审判。别死。,"You haven't been judged, so don't die just yet.",Тебя еще не судили. Не умирай.
+line-688,,她的死火被斩开了。,Her flames of death are cut open.,Ее мертвый огонь был разрублен.
+line-689,,\n不。她的死亡被娇弱的花草挡下，被盛怒的火焰点燃。,"\nNo. Her death is blocked by delicate vegetation, ignited by flames of fury.","Нет. Ее смерть была заблокирована хрупкими цветами, подожжена яростным пламенем."
+line-690,,\n火被火点燃。,\nFire ignites fire.,Огонь был подожжен огнем.
+line-691,,\n感染者在她面前背过身去。,\nThe Infected turns away from her.,Зараженные отвернулись от нее.
+line-692,,\n她从未被忽视到如此地步。,\nShe has never been ignored like this before.,Ее еще никогда так не игнорировали.
+line-696,爱布拉娜,......,......,......
+line-700,,但随即，爱布拉娜醒悟过来。,Eblana comes to her senses at once.,Но тут же Эблана пришла в себя.
+line-701,,\n这个名为塔露拉的德拉克从未挪开过眼神。,\nThe gaze of the Draco named Talulah never shifted away from her.,"Талула, драко, так и не отвела взгляд."
+line-703,,烈火在撕咬死火。,Raging flame cleaves into mortal flame.,Живое пламя впивалось в мертвый огонь.
+line-704,,\n情感在撕咬情感。,\nEmotion rends emotion.,Эмоции рвали эмоции.
+line-705,,\n塔露拉在撕咬爱布拉娜。,\nTalulah tears into Eblana.,Талула впивалась в Эблану.
+line-706,,\n此刻虚无的鲜血淋漓。,\nThe void is now awash with blood.,Кровь в этот миг была лишь бессмысленной оболочкой.
+line-707,,\n爱布拉娜笑了。,\nEblana laughs.,Эблана рассмеялась.
+line-711,爱布拉娜,塔露拉·雅特利亚斯，爱德华的女儿，维多利亚王座的合法继承人。,"Talulah Artorius, daughter of Edward, and legitimate heir to the Victorian throne.","Талула Артриус, дочь Эдварда, законная наследница престола Виктории."
+line-713,爱布拉娜,这就是——,This is—,Вот она —
+line-715,爱布拉娜,货真价实的你。,Your true self.,настоящая ты.
+line-727,塔露拉,我们毫无瓜葛，深池的德拉克。,"We have nothing to do with each other, Draco of Dublinn.","У нас нет ничего общего, драко из Глубины."
+line-728,爱布拉娜,这是你说了算的吗？,Is that for you to say?,Тебе ли решать?
+line-729,爱布拉娜,瞧瞧你，红龙，你如此强大，如此澎湃。,"Just look at you, red dragon. How strong and powerful you are.","Посмотри на себя, красный дракон, ты так сильна, так неукротима."
+line-730,爱布拉娜,你就这么心甘情愿，把红龙的荣耀再度拱手让出，让那些阿斯兰再度践踏西部大堂的红色地毯？,"And yet despite your might, you once again willingly toss aside the glory of the red dragon to the Aslans so easily, to let them trample on the red carpets of Westhaleg?","Неужели ты так добровольно отдаешь славу красного дракона, позволяя этим асланам снова топтать красные ковры Западного зала?"
+line-731,爱布拉娜,维多利亚是德拉克建立的国家，塔露拉。,"Victoria is a country founded by Draco, Talulah.","Виктория — страна, созданная драко, Талула."
+line-732,塔露拉,......,......,......
+line-748,爱布拉娜,你为什么只是在抵挡呢？,Why do you only resist?,Почему ты лишь защищаешься?
+line-749,爱布拉娜,我能从你的火中嗅到任何人都无法想象的愤怒。,I can smell an unimaginable fury in your flames.,"В твоем огне я чувствую ярость, невообразимую ни для кого другого."
+line-750,爱布拉娜,你不渴望吗？你怎么可能不渴望！,Do you not crave it? How can that be?!,Разве ты не жаждешь? Как ты можешь не жаждать!
+line-751,塔露拉,......愤怒？,...Fury?,...Ярость?
+line-752,爱布拉娜,你还要和感染者们玩过家家的游戏吗？你怎能如此狭隘！,Do you still wish to continue playing house with the Infected? How are you this narrow-minded!,Ты все еще хочешь играть в игры с этими зараженными? Как ты можешь быть такой ограниченной!
+line-753,爱布拉娜,感染者？这种身份不足挂齿。你可以跨过它，你可以无视它，你可以拯救它。,"Infected? This status does not merit mention. You can step over it, disregard it, save it.","Зараженные? Этот статус не стоит и ломаного гроша. Ты можешь переступить через него, игнорировать его или спасти его."
+line-754,爱布拉娜,现在，我可以给你一个机会，塔露拉。,"I give you a chance now, Talulah.","Сейчас я дам тебе шанс, Талула."
+line-755,爱布拉娜,我可以不在乎你感染者的身份，我甚至可以不在乎你掌控的、这个可怜的互助会。,"I can disregard your Infected status, and even this pitiful mutual aid program you control.","Мне плевать на твой статус зараженной, мне даже плевать на эту жалкую «Ассоциацию взаимопомощи», которой ты управляешь."
+line-756,塔露拉,......,......,......
+line-771,爱布拉娜,你的火令我备受感动，塔露拉，与我并肩，我向你保证，你所要的一切都可以实现。,"Your flames move me, Talulah. Stand with me, and I pledge that everything you desire shall be realized into reality.","Твой огонь меня впечатлил, Талула. Встань со мной плечом к плечу, и я обещаю, что всё, чего ты хочешь, исполнится."
+line-772,爱布拉娜,到我的身边来，向我臣服，那么塔拉将与你并立。,"Come to my side, submit to me, and Tara shall stand together with you.","Приди ко мне, склонись передо мной, и тогда Тала будет стоять вровень с тобой."
+line-773,爱布拉娜,我们的事业并不冲突。你和这场感染者的运动，需要一个更强盛的结局。,Our careers hold no conflict with each other at all. Both you and this Infected movement of yours need an end more powerful and prosperous than this.,Наши цели не противоречат друг другу. Тебе и этому движению зараженных нужен более достойный финал.
+line-774,塔露拉,说完了吗？,Are you finished speaking?,Ты закончила?
+line-786,爱布拉娜,......！,......!,......!
+line-788,爱布拉娜,你——,You—,Ты...
+line-790,塔露拉,德拉克。,Draco.,Драко.
+line-792,塔露拉,你的眼里只有欲望。,Your eyes have only desire in them.,В твоих глазах — лишь жадность.
+line-794,塔露拉,解放塔拉，向维多利亚复仇，还是满足你的私欲，又或者......,"A desire to free Tara, exact revenge on Victoria, fulfil your own desires, or perhaps...","Освобождение Талы, месть Виктории или удовлетворение собственных желаний, а может быть..."
+line-796,塔露拉,连你自己都还没有弄懂那深不见底的渴求究竟是什么。,You have yet to even grasp what exactly lies in the depths of your desires.,"даже ты сама еще не поняла, что это за бездонная жажда."
+line-798,塔露拉,愤怒......确实如此，我不否认。,"Fury... It's true, and I won't deny it.","Ярость... да, это так, я не отрицаю."
+line-800,塔露拉,所以......,And that's why...,Поэтому...
+line-802,塔露拉,再往前，我的火会吞噬你。,"Come any closer, and my flames will consume you whole.","сделай еще шаг, и мой огонь поглотит тебя."
+line-807,,火。,Fire.,Огонь.
+line-808,,\n愤怒。,\nFury.,Ярость.
+line-809,,\n平静的愤怒。,\nA calm fury.,Спокойная ярость.
+line-810,,\n平静的愤怒却在她的死亡末端燃烧。,\nIt burns at the extremities of her death.,"Спокойная ярость, что горит на грани ее смерти."
+line-814,爱布拉娜,......,......,......
+line-816,塔露拉,我对德拉克的血统没有兴趣，对权力和国家都没有兴趣。,"I'm not interested in the Draco's lineage, power or the country.","Мне не интересна родословная драко, не интересны ни власть, ни страна."
+line-818,塔露拉,你......,You...,Ты...
+line-820,塔露拉,是凭借你这么狭隘的欲望和想法，引领着塔拉人的反抗吗？,Do you lead the Tarans' resistance with such a narrow-sighted desire and ideals?,"Неужели ты руководишь сопротивлением таланцев, полагаясь лишь на столь узкие желания и мысли?"
+line-822,塔露拉,那也许在这里杀死你，会更好。,"If so, then perhaps it's better if I just cut you down, here and now.","Тогда, быть может, убить тебя здесь — к лучшему."
+line-824,爱布拉娜,......,......,......
+line-826,爱布拉娜,......确实可惜。,Truly a pity.,...И правда жаль.
+line-828,爱布拉娜,对血统没有兴趣，对权力和国家都没有兴趣。,"Uninterested in lineage, power, nor country.","Не интересна родословная, не интересны власть и страна."
+line-830,爱布拉娜,历史的总结，虚构的冠冕，被煽动的反抗。你说得很好。,"Our history summarized. An imaginary crown, an instigated resistance. Well said.","Суммирование истории, вымышленные короны, разжигание восстаний. Ты хорошо говоришь."
+line-832,爱布拉娜,难道我不明白？难道你觉得，我沉醉于此？,Perhaps I don't know what's going on? Or could it be... do you think I'm indulging myself with my actions?,"Неужели ты думаешь, что я не понимаю? Неужели ты думаешь, что я этим упиваюсь?"
+line-834,爱布拉娜,你将是我最得力的附庸。尽管臣子们巴不得我杀掉其余德拉克，来端正我的“正统性”。,"You shall be my most powerful vassal, though my other subjects are eager for me to kill any other living Draco to uphold my 'legitimacy'.","Ты станешь моим лучшим приспешником. Даже несмотря на то, что мои подданные жаждут, чтобы я уничтожила остальных драко, ради чистоты моей «легитимности»."
+line-836,爱布拉娜,可他们都不知道我究竟为何要建立国家。,But they don't know why exactly I wish to establish a nation.,"Но они не знают, ради чего именно я создаю страну."
+line-838,塔露拉,你自己就知道吗？,And you know it yourself?,А ты сама знаешь?
+line-840,爱布拉娜,当然。,Of course.,Конечно.
+line-842,爱布拉娜,而我的妹妹会替我完成。,And my sister will do it in my stead.,И моя сестра закончит всё за меня.
+line-844,塔露拉,......别把事情全部丢给亲人，德拉克。,"Don't leave your affairs for your family to do, Draco.","...Не перекладывай всё на плечи близких, драко."
+line-846,塔露拉,草菅人命的是你。作践生命的是你。,You're the one ruining the lives of others with utter disregard.,Это ты попираешь жизни. Это ты играешь жизнями.
+line-848,爱布拉娜,死亡只是我的阶下囚。,Death is only my prisoner.,Смерть — лишь мой узник.
+line-850,爱布拉娜,没有死亡理所应当，也没有死亡空无意义。,"No death is taken for granted, or without meaning.","Нет смерти напрасной, нет смерти, лишенной смысла."
+line-852,爱布拉娜,一切有力者都将死得其所。,All with power will die worthy deaths.,"Каждый, кто имеет силу, умрет там, где ему и суждено."
+line-854,塔露拉,由你来定吗？,Is that up for you to decide?,Тебе решать?
+line-856,塔露拉,你是不是自己都没有发现，你的礼貌、温柔、慈爱，乃至你的傲慢和鄙夷，也都是假的？,"Haven't you realized yet that your manners, gentleness, affection, and even your arrogance and scorn are all fake?","Неужели ты не замечаешь, что твоя вежливость, мягкость, сострадание, и даже твое высокомерие и презрение — всё это фальшь?"
+line-858,塔露拉,无论你怎么高谈阔论，你都只是个虚伪的暴君。,You're just a hypocritical tyrant despite your bombastic words.,"Как бы высокопарно ты ни рассуждала, ты лишь лживый тиран."
+line-860,塔露拉,死亡只是你的权杖，而我见过了暴君。,"Death is just a scepter for you to brandish your authority, and you're not the first tyrant I've met either.","Смерть — лишь твой скипетр, а я уже видела тиранов."
+line-862,塔露拉,从整合运动面前滚开。,Stay away from Reunion.,Убирайся прочь от «Воссоединения».
+line-864,爱布拉娜,......这样的回答无趣至极。,What an extremely dull answer.,……Такой ответ донельзя скучен.
+line-866,爱布拉娜,可毕竟，答案是会变的，让你死，难免有些可惜。,"But your answer will change in the end, so it'd be a pity for you to die here.","Но в конце концов, ответы меняются. Было бы жаль, если бы ты умерла."
+line-868,爱布拉娜,“整合运动”，说得对，方才那朵未被死亡点燃的花，同样惹人怜爱。,"'Reunion'. Indeed, those flowers death could not burn earlier are equally deserving of affection.","«Воссоединение» — верно подмечено. Тот цветок, что еще не был опален смертью, вызывает не меньше жалости."
+line-870,爱布拉娜,如果我说，你不臣服，深池的部队就会对整合运动赶尽杀绝......你会怎么做？,"So, what if I tell you... Dublinn's forces will exterminate every last one of Reunion's members if you refuse to submit to me...? What will you do then?","Если я скажу, что если ты не подчинишься, войска Глубокого колодца истребят «Воссоединение» до последнего... что ты предпримешь?"
+line-872,塔露拉,你......,You...,Ты...
+line-874,爱布拉娜,你想要与我们为敌吗？,Do you wish for us to be enemies?,Ты хочешь стать нашим врагом?
+line-876,爱布拉娜,我不知道你离开维多利亚，在乌萨斯苟且偷生的岁月里发生了什么，但我能感受到。,"I don't know what happened in the time you spent drifting about Ursus after leaving Victoria, but I can feel it.","Я не знаю, что произошло за те годы, пока ты покинула Викторию и влачила жалкое существование в Урсусе, но я это чувствую."
+line-878,爱布拉娜,从你强大又无力，深刻又肤浅，愤怒又懊悔的火中。,"From your flames—strong and weak, profound and superficial, angry and remorseful.","В твоем пламени — одновременно сильном и бессильном, глубоком и поверхностном, полном ярости и раскаяния."
+line-880,塔露拉,......,......,......
+line-882,塔露拉,我——,I—,Я—
+line-884,九,她是整合运动的罪人。,She's a sinner from Reunion.,Она — грешница «Воссоединения».
+line-886,九,别太高看自己，德拉克。,"Don't think too highly of yourself, Draco.","Не переоценивай себя, Драко."
+line-888,爱布拉娜,啊，小花。,Ah. The little flower.,"Ах, маленький цветочек."
+line-890,爱布拉娜,你的队伍可还没走远，你真惦记她。,Your team's not too far away. You must be so concerned for her.,"Твой отряд еще не успел уйти далеко, ты так о ней заботишься."
+line-892,九,没关系，这不是整合运动第一次面对强权。,"It doesn't matter, this isn't the first time Reunion is up against a strong foe.","Ничего страшного, это не первый раз, когда «Воссоединение» противостоит силе."
+line-894,九,深池的部队？你没直接把高速军舰带来，就是你的失误。,Dublinn's forces? You already erred by not calling in your high-speed battleships immediately.,"Войска Глубокого колодца? То, что ты не привела сюда сразу свои скоростные линкоры, — твоя ошибка."
+line-896,九,无人机抵达之前，我们会杀了你。拼尽全力、不惜代价地杀了你。,"We'll kill you before your drones arrive. I'll do my best, and everything it takes to kill you.","Мы убьем тебя до того, как прибудут твои дроны. Убьем, выложившись на полную, не считаясь с потерями."
+line-898,九,你的欲望、野心，我们不在乎，我也没心情听你和塔露拉的红龙对谈。,"Your desires and ambitions—we don't care for them, and I'm in no mood to listen to your red dragon chat with Talulah.","Твои желания и амбиции нас не волнуют, и у меня нет желания слушать твои диалоги о красных драконах с Талулой."
+line-900,九,我只知道，你会死。,All I know is that you'll die.,Я знаю лишь одно: ты умрешь.
+line-902,九,一定会。,For sure.,Обязательно умрешь.
+line-904,爱布拉娜,......,......,......
+line-906,爱布拉娜,别摆出那副眼神了，你我都不希望事态继续发展，对吗？,"Enough with that look. All of us have no wish for this to continue, right?","Перестань смотреть на меня так, никто из нас не хочет, чтобы события развивались подобным образом, правда?"
+line-908,爱布拉娜,——这样吧，塔露拉，又一位红龙的末裔。,"—Alright, Talulah, other descendant of the red dragon.","— Давай поступим так, Талула, еще одна наследница красных драконов."
+line-910,爱布拉娜,哪怕你拒绝了我，哪怕你所行之事与我的塔拉并无交点。,"Even if you reject me, and your actions have wholly nothing to do with my Tara...","Даже если ты отвергла меня, даже если твой путь не пересекается с моим путем Тары."
+line-912,爱布拉娜,但你的愤怒，你的反抗，你的欲望和答案——你的终点同样在我。,"But your fury, resistance, desires and answers—your end lies me with too.","Но твой гнев, твое сопротивление, твои желания и твои ответы — твой путь все равно приведет ко мне."
+line-914,爱布拉娜,让我们把今天的相会当作一次预言吧。,Let us treat today's meeting as a first prophecy.,Пусть эта встреча станет предзнаменованием.
+line-916,爱布拉娜,塔拉的忠诚的仆人将会前仆后继地抵达这里。,Tara's loyal servants shall come here one after the other.,Верные слуги Тары будут приходить сюда один за другим.
+line-918,爱布拉娜,走吧，整合运动。给维多利亚带来些混乱，给我们创造些机会。,"Go, Reunion. Bring some chaos to Victoria, and create some opportunities for us.","Ступайте, «Воссоединение». Посейте немного хаоса в Виктории, создайте для нас возможности."
+line-920,爱布拉娜,下次相见的时候......,The next time we meet...,"В следующий раз, когда мы встретимся..."
+line-922,爱布拉娜,总有一条红龙，会咬死另一条的。,One red dragon is bound to bite the other to death.,Один красный дракон непременно загрызет другого.
+line-933,陈,......,......,......
+line-936,陈,出来吧。别躲了。,That's enough hiding. Come out already.,Выходите. Хватит прятаться.
+line-938,陈,入夜后这里只会更加潮湿，你们现在捡来的木柴，点不着的。,"It's only going to become more humid after night falls, and you won't be able to light the firewood you got.","Ночью здесь станет только сырее, дрова, которые вы собрали, не разгорятся."
+line-940,冷漠的感染者,你......你是谁？,Who... are you?,Ты... ты кто такая?
+line-942,陈,......你们是感染者。,...You're Infected.,......Вы зараженные.
+line-944,陈,没关系，我也是感染者。我不会对你们做什么。,"Doesn't matter, I'm the same. I won't harm you or anything.","Не бойтесь, я тоже заражена. Я ничего вам не сделаю."
+line-946,愤怒的感染者,......,......,......
+line-948,陈,不必这么警惕，千真万确，我是感染者。,"There's no need to be so wary. I'm not lying, I really am Infected.","Не нужно так настороженно смотреть, это сущая правда, я заражена."
+line-950,愤怒的感染者,你......你不是维多利亚人？,You're... not a Victorian?,Ты... ты не викторианка?
+line-952,陈,大炎人。,I'm from Yan.,Я из Янь.
+line-954,愤怒的感染者,大炎人怎么会在这里？,What's a Yanese doing here?,Что житель Янь забыл здесь?
+line-956,陈,......,......,......
+line-958,陈,家里来做生意的，被这场战事牵连。本来想和家人们一起撤离，结果我意外感染了矿石病。,"My family came here for business and got caught up in the war. I was going to evacuate with them, but I accidentally contracted Oripathy.","Приехала по делам семьи, оказалась втянута в эту войну. Собиралась эвакуироваться с родными, но случайно заразилась орипатией."
+line-960,陈,就被抛下了。,So they left me behind.,И меня бросили.
+line-962,愤怒的感染者,哼。哪里都不会给感染者好脸色。你运气可真差。,Hmph. Everyone's unfair to the Infected everywhere. Your luck sure sucks.,Хм. Нигде к зараженным хорошо не относятся. Тебе крупно не повезло.
+line-964,愤怒的感染者,但我们也帮不了你。,But we can't help you either.,Но мы ничем не можем тебе помочь.
+line-966,陈,看出来了。,I can tell.,Вижу.
+line-968,陈,你们连生火的办法都没有，所以你们不擅长使用源石技艺。,"You don't even have a way to start a fire, so you're probably no Arts users.","Вы даже разжечь огонь не умеете, значит, не владеете искусствами ориниума."
+line-970,陈,也不像是会打猎的样子，你们活不过几天。,"Don't seem to be hunters either, so you won't live more than a few days.","Да и на охотников вы не похожи, долго вам не продержаться."
+line-972,陈,无论是作为感染者被军人抓住，还是作为维多利亚人被萨卡兹抓住，都没好下场，对吧？,"Getting captured by the military as an Infected, or by the Sarkaz as a Victorian, either way is a terrible way to go, right?","Что если вас поймают военные как зараженных, что если саказы как викторианцев — добра не жди, так ведь?"
+line-974,冷漠的感染者,所以呢？,So?,И что с того?
+line-976,陈,至少我能帮你们生火。,I can help you get a fire going at least.,"По крайней мере, я могу разжечь вам огонь."
+line-981,陈,看吧。,Watch.,Смотрите.
+line-983,愤怒的感染者,喔哦！真的烧起来了，这么容易？,Woah! It's really burning! It was that easy?,Ого! И правда горит! Это было так просто?
+line-985,愤怒的感染者,感谢你，大炎人，非常感谢。,"Thank you so, so much, Yanese lady.","Спасибо тебе, житель Янь, огромное спасибо."
+line-987,愤怒的感染者,你呢？你需要我们做什么？,What about you? Do you need us for anything?,А ты? Что нам сделать для тебя?
+line-989,陈,天色也不早了。能让我借地休息吗？,The sky's getting dark. Can I rest here for the night?,Уже поздно. Позволите мне здесь передохнуть?
+line-991,陈,明早我就离开。,I'll leave at first light tomorrow.,Завтра утром я уйду.
+line-993,冷漠的感染者,......你一个异国难民，这么从容不迫？,How's a foreign refugee like you this calm and unruffled?,"......Ты иностранная беженка, а ведешь себя так спокойно?"
+line-995,冷漠的感染者,还有你的剑......我都能看出来它不同凡响。,And your sword... even I can tell it ain't some ordinary blade.,"И твой меч... даже я вижу, что он необычный."
+line-997,陈,......正因为它不同凡响。炎国有走镖的说法，类似于信使。,"You're right... I'm what they call a zoubiao in Yan, like the Messengers here.","......Именно потому что он необычный. В Янь есть такое понятие — «даобяо», нечто вроде курьера."
+line-999,陈,我身手不错，也习惯跋山涉水，野外生存对我来说不是难事。,"I'm pretty skilled, and not a stranger to traversing adverse conditions either. Surviving in the wild isn't that difficult for me.","Я умею за себя постоять, привыкла к долгим странствиям, выживание в дикой местности для меня не проблема."
+line-1001,冷漠的感染者,你帮我们生了火......我就当是这样吧。,You helped us start a fire... I'll leave it at that.,Ты помогла нам разжечь огонь... пусть будет так.
+line-1003,冷漠的感染者,唉......只要不被萨卡兹抓到就行。就算被军人们发现，我也认了。,"*sigh*...I'll admit what we did, even if it's the soldiers who find out. As long as the Sarkaz don't catch us.","Эх... главное, чтобы саказы не поймали. А если военные найдут, так тому и быть."
+line-1005,愤怒的感染者,他们可不会给你好果子吃。,It's not like they'll reward you with a feast.,Они тебя по головке не погладят.
+line-1007,冷漠的感染者,我们现在连口吃的都没有，还谈什么？,Is that worth discussing when we don't even have a crumb to eat right now?,"У нас даже еды нет, о чем еще говорить?"
+line-1009,冷漠的感染者,整合运动那群疯子......害我们沦落到这般田地......,Those Reunion crazies... they're the reason why it's so dire for us now...,Эта кучка безумцев из «Воссоединения»... довели нас до такого состояния...
+line-1011,陈,整合运动？,Reunion?,«Воссоединение»?
+line-1013,愤怒的感染者,你不知道？哦，你才成为感染者没多久。,"You haven't heard? Well, you've only been recently Infected, after all.","Ты не знаешь? О, ты ведь стала зараженной совсем недавно."
+line-1015,陈,......嗯。,...Mm.,......Мгм.
+line-1017,愤怒的感染者,一个感染者组织，本来我们都指望那是我们的救星。,"They're a band of Infected, and we were all counting on them to be our saviors.","Организация зараженных. Поначалу мы все верили, что они станут нашими спасителями."
+line-1019,陈,你们发生了冲突？,You fought over something?,У вас произошел конфликт?
+line-1021,冷漠的感染者,呸。,Bah.,Тьфу.
+line-1023,冷漠的感染者,我们抢劫了一个萨卡兹，他们就认定我们在杀害感染者“同胞”。,"We robbed a Sarkaz, but they were of the opinion that we killed one of their Infected 'countrymen'.","Мы ограбили одного саказа, а они решили, что мы убиваем «собратьев»-зараженных."
+line-1025,愤怒的感染者,谁和萨卡兹是同胞？他们害死了我的女儿！,Sarkaz? Countrymen? My daughter's dead because of them!,Кто мне собрат с саказами? Они погубили мою дочь!
+line-1027,愤怒的感染者,我的女儿......我的女儿......唉！唉！,My daughter... my girl... *sigh* Oh!,Мою дочь... мою дочь... ох! Ох!
+line-1029,陈,......,......,......
+line-1031,陈,他们是不是有个领袖......,Do they have a leader...?,У них есть лидер...
+line-1033,愤怒的感染者,“九”。,'Nine'.,«Девять».
+line-1035,冷漠的感染者,对。就是她，把我们赶出来的。,Yeah. She's the one who chased us away.,Да. Именно она выгнала нас.
+line-1037,陈,......,......,......
+line-1039,愤怒的感染者,还有一个被称作Guard的小头目，不过死了。,"There was another one they called Guard, but he's dead.","Был еще мелкий главарь по кличке Гард, но он сдох."
+line-1041,愤怒的感染者,......啧，真想烤点什么吃。,...Grr. I really want to roast something for dinner.,"......Черт, так хочется что-нибудь поджарить."
+line-1043,愤怒的感染者,我不知道整合运动到底什么样，但起码我们接触到的这一批，就是一群虚伪的废物。,"I don't know what Reunion is exactly, but the group we encountered were a bunch of hypocrites who belong in a dumpster.","Я не знаю, что из себя представляет «Воссоединение», но те, с кем столкнулись мы — кучка лицемерных отбросов."
+line-1045,愤怒的感染者,怎么？呵，要我和萨卡兹握手言和？我再见一个那样的，一样打死。,"What? Heh, you want me to shake hands with the Sarkaz and make peace? I'll beat the next one I see to death.","Что? Ха, предлагают мне помириться с саказами? Встречу такого — пришибу."
+line-1047,陈,......,......,......
+line-1049,冷漠的感染者,还有，我们老听说的那些传言，那些乌萨斯冻土上的传言。,"Right, remember the rumors we always heard? From the Ursus tundra?","И еще, те слухи, о которых мы постоянно слышали, слухи из ледяных пустошей Урсуса."
+line-1051,冷漠的感染者,——塔露拉？,——Talulah?,— Талула?
+line-1053,陈,......,......,......
+line-1055,冷漠的感染者,“感染者的英雄”？我看没什么大不了的。,'Hero of the Infected'? She didn't seem much at all to me.,"«Герой зараженных»? Ничего особенного, как по мне."
+line-1057,冷漠的感染者,我有留意，她一直跟在九的后面，基本就没说过几句话。,"I remember she was always trailing behind Nine, and never said anything more than a few words.","Я наблюдал за ней, она все время ходила за Девять и почти слова не выронила."
+line-1059,冷漠的感染者,那些老感染者之间流传的谣言根本就不可信。也许从头到尾，九才是说了算的那个。,The hearsay from those old Infected weren't worth shite. Nine might have been the actual decision maker all along.,"Слухам среди старых зараженных верить нельзя. Возможно, все это время именно Девять всем заправляла."
+line-1061,冷漠的感染者,......唉。谈这些也没用。大炎人，你想加入他们也来不及了。,"...*sigh*. This is all just useless banter. It's too late for you to join them, Yanese fella.","......Эх. Пустые разговоры. Житель Янь, даже если захочешь присоединиться к ним, уже поздно."
+line-1063,陈,他们去哪儿了？,Where did they go?,Куда они направились?
+line-1065,愤怒的感染者,我哪知道。,And how would I know?,Понятия не имею.
+line-1067,愤怒的感染者,我当时一气之下就拽着他离开了。我记得这个方向再走十几公里，有个信使驿站来着。,Back then I left in a huff with this guy in tow. I remember there being a Messenger station in this direction about a dozen kilometers from here.,"Я тогда в сердцах потащил его прочь. Помню, что в этом направлении, километрах в десяти, был почтовый пост."
+line-1069,陈,......那就早点休息吧。,An early rest for us today then.,"......Что ж, тогда отдыхайте."
+line-1071,陈,明天还要赶路。,We have to get back on the road tomorrow.,Завтра снова в путь.
+line-1082,维多利亚士兵A,......没有状况。,...Nothing unusual to report.,......Чисто.
+line-1084,维多利亚士兵A,你听说了吗？公爵们似乎碰头了。,Did you hear? The dukes seemed to have bumped into each other.,"Слышал? Герцоги, кажется, собрались вместе."
+line-1086,维多利亚士兵B,温德米尔公爵阁下牺牲了。其他大人们也坐不住了。,"Duke Windermere sacrificed herself, and the other lords can no longer sit still either.",Герцогиня Уиндермир погибла. Остальным знатным господам тоже не сидится на месте.
+line-1088,维多利亚士兵B,唉。那位女士的传奇故事至今还存在我的移动终端里......,*sigh* The madam's legendary tale is still in my mobile terminal...,Эх. Легенды об этой даме до сих пор хранятся на моем мобильном терминале...
+line-1090,维多利亚士兵A,传奇已经不管用了。,Legends are useless now.,Легенды больше не помогают.
+line-1092,维多利亚士兵A,不过......你知道在我们接管切特雷之前，是哪些人守着这里的？我以为这里早就被萨卡兹占了。,But... do you know who was keeping watch here at Chetleigh before we took command? I thought the Sarkaz seized this place long ago.,"Но... ты знаешь, кто удерживал Четрей до нашего прибытия? Я был уверен, что это место уже давно заняли саказы."
+line-1094,维多利亚士兵B,可能是哪支部队的散兵游勇？说不定是传闻中至今还在活跃的伦蒂尼姆市民自救军呢。,Could they have been stragglers from some army? Maybe it's the Londinium Citizens' Self-Salvation Corps. Rumors abound that they're still active.,"Может, остатки какого-то отряда? Или, как говорят, это Армия освобождения граждан Лондиниума, которые до сих пор действуют."
+line-1096,维多利亚士兵A,......真厉害啊。现场都找不到什么像样的设备，他们真能顶住。,That's ace. They managed to stand up to the Sarkaz even though there's no decent equipment to be found here.,"......Впечатляет. На месте даже нормального оборудования нет, а они смогли продержаться."
+line-1098,维多利亚士兵B,是啊。肯定是些身经百战的猛士，以一敌百的游侠。,Yeah. They're definitely veterans roaming about the country who can take on a hundred alone.,"И не говори. Должно быть, это были закаленные воины, странствующие рыцари, способные справиться с сотней врагов в одиночку."
+line-1100,维多利亚士兵A,不然呢？难道是地痞流氓和下三滥的工人们突然站起来了？,Right? No way they're just some local thugs or worker riffraff.,"А как иначе? Неужели это были просто уличные бродяги и рабочие, решившие внезапно восстать?"
+line-1105,维多利亚士兵A,斥候传回情报了。,The scouts sent their intel.,Разведчики передали данные.
+line-1107,维多利亚士兵A,基本都和长官预料的差不多......那就是根本没法预料。,Basically it was pretty much what the commander predicted... which was 'impossible to predict'.,"В основном все так, как и предполагал командир... то есть, это вообще невозможно было предсказать."
+line-1109,维多利亚士兵A,唉，送去帐篷里吧，我也看不懂。萨卡兹的军事手段太不合常理了。,"Meh. Send it to the tent, I can't make heads or tails of it either. The Sarkaz army's methods are just too unconventional.","Эх, отнеси это в палатку, я ничего не понимаю. Тактика саказов слишком нелогична."
+line-1111,维多利亚士兵B,好。,Sure.,Понял.
+line-1113,维多利亚士兵A,......等等。,...Wait.,......Постой.
+line-1115,维多利亚士兵A,斥候说，他们侦测到了一个奇怪的部队识别码。,The scouts say they detected a strange squad identification code.,"Разведчики говорят, что зафиксировали странный идентификационный код подразделения."
+line-1117,维多利亚士兵B,要一起报告吗？,Want to report it together?,Доложим об этом вместе?
+line-1119,维多利亚士兵A,......,......,......
+line-1121,维多利亚士兵A,“典范军”？,'The Exemplars'?,«Армия чести»?
+line-1123,维多利亚士兵A,“典范军”不是四国战争时期的......,Isn't that name from the War of the Four Nations...?,«Армия чести» не была ли во времена Четырехсторонней войны...
+line-1125,维多利亚士兵B,......,......,......
+line-1127,维多利亚士兵A,......我要怎么说？说我们的斥候，看见了一个幽灵？,What am I supposed to tell them? Our scouts saw a specter?,"......Как мне об этом доложить? Сказать, что наши разведчики видели призрака?"
+line-1134,风笛,......“典范军”。,...'The Exemplars'.,......«Армия чести».
+line-1136,风笛,你知道这件事吗？,Know anythin' about them?,Ты что-нибудь знаешь об этом?
+line-1138,受伤的士兵,不......我是法夫公爵第四步兵营......呃。不重要了。,No... I'm from the Duke of Fife's 4th infantry battalion...um. That's no longer important.,Нет... Я из 4-го пехотного батальона герцога Файфа... эх. Неважно.
+line-1140,风笛,是呀，你现在只是个感染者，而我则是个逃兵......,"Aye, you're just an Infected now, and I'm basically a deserter...","Да уж, теперь ты всего лишь зараженный, а я — дезертир..."
+line-1142,风笛,哈哈，我们都挺曲折的嘛。没想到来到切特雷镇，反而要畏首畏尾的。,"Haha, we're both in a wee bit of a pickle, aren't we? Didn't think I'd have to be so overcautious here in Chetleigh.","Ха-ха, наши судьбы извилисты. Не ожидала, что в городке Четрей мне придется ходить, озираясь по сторонам."
+line-1144,受伤的士兵,风笛小姐......我笑不出来。,Bagpipe... I can't find this funny at all.,Госпожа Флейт... мне не до смеха.
+line-1146,受伤的士兵,切特雷镇已经在军队的管辖之下了，我们是不是......,"Chetleigh's now under the army's jurisdiction, so are we...","Городок Четрей уже под контролем военных, может нам стоит..."
+line-1148,风笛,......唉。,...Sigh.,......Эх.
+line-1150,风笛,你肯定不知道这个季节草垛的温度有多迷人。我也想和故乡的军人朋友们击掌欢庆呢。,I'm sure you have no clue how enchantin' the hay piles are this time of year. I want to celebrate with me army chums back home too.,"Ты даже не представляешь, какое тепло идет от стогов сена в это время года. Я так хотела отпраздновать победу вместе с друзьями из родного полка."
+line-1152,风笛,但我不能轻易暴露自己，他们对待逃兵没比对砧板上的羽兽好多少。,But I can't expose myself so easily like that. They treat deserters no better than fowlbeasts on the chopping block for dinner.,"Но я не могу просто так раскрыть себя, с дезертирами они обходятся не лучше, чем с птицей на разделочной доске."
+line-1154,受伤的士兵,风笛小姐是个好人，一定能解开误会的......,"You're a good one, miss. I'm sure you can sort this misunderstanding out...","Госпожа Флейт — хороший человек, вы наверняка сможете прояснить недоразумение..."
+line-1156,风笛,这话留给一年前的我吧，她也许会信呢。,Tell me that a year back and I might have believed ye.,"Прибереги эти слова для меня прошлогодней, она, может, и поверила бы."
+line-1158,风笛,“典范军”......,'The Exemplars'...,«Армия чести»......
+line-1160,风笛,......我记得，“典范军”是风暴突击队的前身部队来着？,...Ain't that the Tempest Platoon's former name?,"......Я помню, что «Армия чести» — это предшественник отряда Штурмовиков?"
+line-1168,陈,你们还跟着我？,Still following me?,Вы все еще следуете за мной?
+line-1170,愤怒的感染者,呃。,Uhm.,Э-э.
+line-1172,愤怒的感染者,你看着挺强的......而且我们也有两天没吃饭了......,You seem strong... and we haven' eaten at all the past two days...,Ты выглядишь довольно сильной... и мы уже два дня ничего не ели...
+line-1174,冷漠的感染者,我们都是感染者，对吧。,"We're all fellow Infected, aren't we?","Мы все зараженные, не так ли."
+line-1176,陈,......我们再同行一段路。,We'll travel together for a while more.,......Пройдемте еще немного вместе.
+line-1178,陈,也许过一个山坡，就能看到你们说的那处驿站。,You might be able to see the station you mentioned after this hillside.,"Может, за тем холмом мы увидим пост, о котором вы говорили."
+line-1180,冷漠的感染者,也许已经被毁掉了吧......等等。,Or maybe it's been smashed to bits... wait.,"Может, он уже разрушен... постой."
+line-1182,冷漠的感染者,看、看那边，是不是有人？,"Look, over there. People, right?","Смотри, смотри туда, там кто-то есть?"
+line-1184,陈,是有人。,Right.,Кто-то есть.
+line-1186,陈,别紧张，起码武装人员的数量有限。,"Stay calm. Their numbers are limited, at the very least.","Не паникуйте, по крайней мере вооруженных людей там немного."
+line-1188,愤怒的感染者,慢着，慢着，是维多利亚人！我看出来了！,"Wait, hold on! They're Victorians! I can see them!","Подождите, подождите, это викторианцы! Я вижу!"
+line-1190,愤怒的感染者,他们是难民队伍？还有士兵护卫！,Are they a squad of refugees? I can see some soldier guards too!,Это отряд беженцев? И солдатская охрана!
+line-1192,冷漠的感染者,怎么办？,What do we do?,Что делать?
+line-1194,冷漠的感染者,虽然比遇到萨卡兹好多了，但我们是感染者......会不会......,"This is much better than running into Sarkaz, but we're Infected... are we going to be...","Хотя это лучше, чем столкнуться с саказами, мы ведь зараженные... не будет ли..."
+line-1196,愤怒的感染者,......,......,......
+line-1198,愤怒的感染者,感染者已经把我们抛下了，去问问总比饿死在荒地上好。,"The Infected already abandoned us, so we might as well ask them for food than starve to death out here.","Зараженные уже нас бросили, попытаться спросить лучше, чем умирать с голоду в пустоши."
+line-1200,愤怒的感染者,再、再说，这场仗，会导致多少人感染啊？他们真的敢不给感染者半点活路？,"B-besides, think about it. How many people are going to emerge from this war with Oripathy? Surely they'll let us live somehow?","И потом, сколько людей заразится от этой войны? Неужели они рискнут не дать зараженным ни единого шанса на выживание?"
+line-1202,愤怒的感染者,肯定不会的，肯定不会的。对，不会的。,"Of course. Definitely. For sure, I'm sure they will.","Конечно нет, конечно нет. Да, они не сделают этого."
+line-1204,愤怒的感染者,我去看看。,I'll go take a look.,Я схожу узнаю.
+line-1211,冷漠的感染者,喂！,Hey!,Эй!
+line-1213,陈,......,......,......
+line-1215,冷漠的感染者,他、他真的是！万一士兵动手了可怎么办？,Heavens! What's going to happen if the soldiers <i>do</i> turn hostile?,"Он, он же... а что, если солдаты начнут стрелять?"
+line-1217,冷漠的感染者,还有，呃，你是大炎人......万一......,"And, um, you're a Yanese... what if...","И еще, э-э, ты из Янь... а вдруг..."
+line-1219,陈,......好像不用太担心。,...I think you can ease up on the anxiety.,"......Кажется, не стоит так сильно волноваться."
+line-1221,陈,看啊。他们似乎聊得挺开心。,Look. They seem to be getting along well.,"Смотри. Кажется, они довольно мило беседуют."
+line-1223,冷漠的感染者,呃？,Huh?,А?
+line-1225,冷漠的感染者,好、好像还真是，他在招手了，我去看看。,"I-it really does look like it. He's waving, I'll go over.","Кажется, правда, он машет нам рукой, я пойду гляну."
+line-1227,陈,......,......,......
+line-1232,,陈看着两位感染者和他们的同胞打成一片。,Ch'en watches the two Infected mingle with their compatriots.,"Чэнь наблюдала, как двое зараженных нашли общий язык со своими соотечественниками."
+line-1233,,\n警惕，攀谈，闲聊。,"\nVigilance, talking, casual chatting.","Бдительность, расспросы, пустой треп."
+line-1234,,\n很快，有人搭上了他们的肩，谈笑声传进了陈的耳中。,"\nSoon someone puts their arm on their shoulders, and their cheery chatter reaches Ch'en's ears.","Вскоре кто-то уже хлопал их по плечу, и смех долетал до ушей Чэнь."
+line-1235,,\n陈驻步良久。,\nCh'en stays at her spot for a long time.,Чэнь стояла неподвижно очень долго.
+line-1245,愤怒的感染者,大炎人！大炎人！,Yanese lady!,Житель Янь! Житель Янь!
+line-1247,愤怒的感染者,我和他们说好了，我们可以一起走——,"I talked with them, we can travel together—","Я договорился с ними, мы можем идти вместе —"
+line-1249,愤怒的感染者,呃。人呢？,Huh. Where'd she go?,Э-э. Куда она подевалась?
+line-1254,陈,“你打死了一个萨卡兹，好哇，你真是我们的英雄。”,"'You beat a Sarkaz to death? Hell yeah, you're our heroes!'","«Ты убил одного саказа, отлично, ты настоящий герой»."
+line-1255,陈,......,......,......
+line-1256,陈,哼。,Hmph.,Хм.
+line-1264,开斯特公爵,......您终于回应了我的邀约，高多汀公爵。,"You finally replied to my invitation, Duke Gododdin.","......Вы наконец откликнулись на мое приглашение, герцог Гододин."
+line-1266,开斯特公爵,看来，就连您也意识到，现在情况的严峻了。,It seems that even you realize now how serious the situation is.,"Похоже, даже вы осознали, насколько серьезно сейчас обстоят дела."
+line-1268,高多汀公爵,是啊，严峻到我们谨慎的开斯特公爵，都决定离开自己的领地，亲临前线了。,"Yes, it's gotten so serious that our cautious Duke Caster has actually left her territory to grace the front lines in person.","Да уж, настолько серьезно, что даже наш осторожный герцог Кейстер решил покинуть свои владения и лично прибыть на фронт."
+line-1270,开斯特公爵,一位维多利亚的大公爵死在了战场上......已经有多少年没有发生过这样的事了。,A Victorian Duke has died on the battlefield... how many years has it been since something like this has happened?,Великий герцог Виктории погиб на поле боя... сколько же лет подобного не случалось.
+line-1272,高多汀公爵,在背后怀疑您的贵族同仁们可不少啊。毕竟，谁都知道，您和温德米尔公爵向来不对付。,"Quite a few of our fellow nobles suspect you behind your back, you know. After all, everyone knows you never got along with the Duke of Windermere.","Ваши коллеги-аристократы подозревают вас, ведь все знают, что вы с герцогиней Уиндермир никогда не ладили."
+line-1274,高多汀公爵,那位固执的温德米尔，也绝不会支持您入主伦蒂尼姆的小小计划。,That stubborn Windermere would never support your little plot to take over Londinium.,Эта упрямая Уиндермир никогда бы не поддержала ваш план по воцарению в Лондиниуме.
+line-1276,开斯特公爵,......,......,......
+line-1278,高多汀公爵,但我知道，不会是您。,But I know it wouldn't be you.,"Но я знаю, что это были не вы."
+line-1280,高多汀公爵,您确实期待温德米尔的失利，乃至惨败。但......现在她死了，您的麻烦反而大了。,"You welcome any loss she suffers, even if they were major. But now... your problems have only increased with her death.","Вы, конечно, надеялись на неудачу или даже разгром Уиндермир. Но... теперь, когда она мертва, у вас стало только больше проблем."
+line-1282,高多汀公爵,不如说，我们所有人，都惹上了一个大麻烦。,"In fact, all of us here have attracted a big problem.","Точнее сказать, у всех нас возникла одна большая проблема."
+line-1284,开斯特公爵,......外界盛传，如今这位年轻的高多汀公爵沉湎于风花雪月，再无高多汀家族的睿智和机敏。,There are rumors from outside that the young Duke Gododdin today is obsessed with notions of romance and lacks the wisdom and wits of his house.,"......Внешний мир судачит, что молодой герцог Гододин погряз в светских развлечениях, лишившись мудрости и проницательности своего рода."
+line-1286,开斯特公爵,看来我们这个国家已衰弱如斯，连识人的本事都已丧失殆尽。,It seems that our country has become so weak that we've exhausted our ability to understand people.,"Похоже, наша страна ослабла до такой степени, что даже способность разбираться в людях почти утрачена."
+line-1288,高多汀公爵,别奉承我，我只是懒得操心很多事情，包括你的那些。,"Don't flatter me, I'm only disinclined to care about other matters, yours included.","Не нужно лести, мне просто лень волноваться о многих вещах, включая ваши дела."
+line-1290,高多汀公爵,唉，奈何这场战争逼着我们正视自己的责任呢？我也只能走出酒庄，把自己扔到时代的牌桌上。,Alas. Why does this war compel us to face our responsibilities? All I can do is to walk out the winery and throw myself down at the table of today.,"Эх, но эта война заставляет нас осознать свою ответственность, не так ли? Мне пришлось покинуть винодельню и бросить себя на игровой стол эпохи."
+line-1292,高多汀公爵,为此，我还带来了一位牌友。,And for this end I've even brought a friend.,Для этого я пригласил еще одного игрока.
+line-1294,高多汀公爵,把他从高速军舰上请下来可不容易。,It was not easy to bring him off his high-speed battleship.,Уговорить его сойти со скоростного линкора было непросто.
+line-1301,开斯特公爵,......,......,......
+line-1303,威灵顿公爵,......,......,......
+line-1305,开斯特公爵,居然是威灵顿公爵亲自到访。,To think the Duke of Wellington would grace us with his presence.,Сам герцог Веллингтон почтил нас своим присутствием.
+line-1307,威灵顿公爵,我的时间不多。,My time grows short.,У меня мало времени.
+line-1309,开斯特公爵,听说，您在正面战场上似乎遭遇了一些麻烦，那位食腐者之王并不是一位好对付的对手。,I hear you met with some troubles on the frontline. The Nachzehrer King is not an easy enemy to deal with.,"Слышал, что на фронте у вас возникли некоторые проблемы, этот Король Сборщиков не такой уж легкий противник."
+line-1311,威灵顿公爵,......哼。,...Hmph.,......Хм.
+line-1313,威灵顿公爵,不过是一只萨卡兹。,No more than just a Sarkaz.,Всего лишь один саказ.
+line-1315,高多汀公爵,您要保重自己的身体，毕竟，您如今已经......,"You must take care of yourself. After all, you're already...","Вам следует беречь свое здоровье, ведь вы сейчас уже..."
+line-1317,威灵顿公爵,我还没有老到要你来告诉我自己的年龄。,I'm not at the age where I need you to tell me how old I am.,"Я еще не настолько стар, чтобы ты напоминал мне о моем возрасте."
+line-1319,威灵顿公爵,前线的僵持很快就会结束，温德米尔的溃败对整体战局的影响......微乎其微。,"The stalemate on the frontline will soon end, and Windermere's defeat will have a... minimal impact on the war situation.","Застой на фронте скоро закончится, поражение Уиндермир почти не повлияло на общую картину."
+line-1321,威灵顿公爵,我们很快就能夺回阵线。,We will be able to retake the frontlines in no time.,Мы скоро вернем свои позиции.
+line-1323,高多汀公爵,由于您的英勇进军，各大公爵的部队也已经全方面和萨卡兹的军团接触了。,Your valiant march onwards has caused the ducal armies to clash with the Sarkaz military on all fronts.,"Благодаря вашему героическому наступлению, войска крупных герцогов уже вошли в полный контакт с армиями саказов."
+line-1325,威灵顿公爵,还不够。,It's not enough.,Этого недостаточно.
+line-1327,威灵顿公爵,要赢下这场战争，我们必须得执行真正有成效的进攻计划，而不是继续守着各自零碎的防线。,We must execute an effective offensive than continue defending our fragmented defenses to win this war.,"Чтобы выиграть эту войну, мы должны перейти к по-настоящему эффективному плану наступления, а не продолжать держать свои разрозненные оборонительные рубежи."
+line-1329,威灵顿公爵,反攻必须开始。,Our counterattack must begin.,Контрнаступление должно начаться.
+line-1331,开斯特公爵,......我同意。,...I agree.,......Я согласен.
+line-1333,高多汀公爵,真难得，您二位的意见居然一致。,A rare sight to see the two of you in agreement.,"Надо же, мнения вас двоих совпали, это редкость."
+line-1335,开斯特公爵,伦蒂尼姆已经被萨卡兹正式宣布占领，这说明他们已经没有遮掩的必要了。,Londinium is now officially declared to be under the Sarkaz's occupation. This means they no longer have a need to hide.,"Лондиниум был официально объявлен захваченным саказами, это значит, что им больше незачем скрываться."
+line-1337,开斯特公爵,这对我们绝不是好消息。,This does not bode well for us at all.,Это отнюдь не лучшая новость для нас.
+line-1339,威灵顿公爵,三天后，我的后续部队将会集结。,My follow-up units will assemble in three days.,Через три дня мои подкрепления будут собраны.
+line-1341,威灵顿公爵,我们在之前的战争中受了些损失，但威灵顿的战舰仍会第一个冲入风暴。,"We suffered some losses in the previous war, but Wellington's battleships will still be the first to rush into the storm.","Мы понесли некоторые потери в прошлых битвах, но корабли Веллингтона первыми ворвутся в этот шторм."
+line-1343,开斯特公爵,......我会参与。我会保证法夫公爵和诺曼底公爵也参与。,I will participate as well. And see to it that the Dukes of Normandy and Fife join our efforts.,"......Я поддержу. Я прослежу, чтобы герцоги Файф и Норманди также приняли участие."
+line-1345,高多汀公爵,那亚伯科恩和阿什沃思当然也会当明事理的人啦——,"Abercorn and Ashworth will of course, also be reasonable people—","Тогда Аберкорн и Эшворт, конечно же, тоже проявят благоразумие —"
+line-1347,高多汀公爵,公爵们开着高速军舰，炮轰伦蒂尼姆的城墙，这可是前所未有的事情。,What an unprecedented sight to behold. The dukes speeding to Londinium on their battleships to shell the city walls.,"Герцоги ведут скоростные линкоры, обстреливая стены Лондиниума — это беспрецедентно."
+line-1349,威灵顿公爵,哼，希望只发生这一次。,"Hmph, I hope there won't be a second time.","Хм, надеюсь, это случится лишь один раз."
+line-1351,威灵顿公爵,通告你们的军队，这场战役将由我指挥。,Inform your troops that I will take command in this battle.,"Оповестите свои армии, этой кампанией буду командовать я."
+line-1353,高多汀公爵,您自然当仁不让。,Naturally.,Это право по праву принадлежит вам.
+line-1355,威灵顿公爵,那么，前线还有很多事务等着我处理，我就先失陪了。,"Well then, if you will excuse me. There are many matters waiting for me to handle on the front line.","Что ж, на фронте много дел, требующих моего внимания, так что прошу меня простить."
+line-1361,高多汀公爵,......这就走了。真是雷厉风行。,And just like that. Truly a swift and decisive man.,......И ушел. Действительно решителен.
+line-1363,高多汀公爵,我从小听着“帝国丧钟”的故事长大，没想到，他也有头发胡子全白了的这天。,"I grew up listening to the tales of 'The Empire's Death Knell', but I didn't think his hair would actually turn completely white.","Я вырос на историях об «Имперском колоколе», не думал, что придет день, когда его волосы и борода станут белыми как снег."
+line-1365,高多汀公爵,唉，公爵们的军事同盟。放在以前，可是惊天动地的大事，可看看咱们，连个像样的会议都没有。,"*sigh* Forming a military alliance with other dukes used to be an earth-shaking affair, but look at us now; we can't even have a presentable meeting.","Эх, военный альянс герцогов. Раньше это было событием мирового масштаба, а теперь посмотрите на нас — мы даже нормального собрания не смогли провести."
+line-1367,开斯特公爵,......,......,......
+line-1369,高多汀公爵,听听他刚才的发言，他也成了一位不愿承认受挫、刚愎自用的老家伙。,"Judging from his words, he's become a stubborn old man unwilling to admit his setbacks.","Слышали, что он сказал? Он тоже превратился в упрямого старика, не желающего признавать поражения."
+line-1371,高多汀公爵,开斯特公爵，我对打仗一窍不通，可看老威灵顿的状态，我们恐怕不能完全信任他......,"Duke Caster, I know nothing about war, but looking at old Wellington's condition, I fear we won't be able to completely trust him...","Герцог Кейстер, я ничего не смыслю в войне, но, глядя на состояние старика Веллингтона, боюсь, мы не можем доверять ему целиком..."
+line-1373,高多汀公爵,开斯特公爵？,Caster?,Герцог Кейстер?
+line-1375,开斯特公爵,......是啊，信任。,Indeed... trust.,"......Да, доверие."
+line-1377,开斯特公爵,不，没事，我只是想起来了一些年轻时候的往事。,"No, it's nothing. I merely recalled some past events from my youth.","Нет, ничего, просто вспомнила кое-что из своей молодости."
+line-1379,开斯特公爵,老威灵顿......他在遮掩他的急躁，他的不安，甚至有点力不从心，他也确实上了年纪。,"Old Wellington... he conceals his impatience, his unease, and even his shortcomings. He <i>is</i> getting older as well.","Старый Веллингтон... он пытается скрыть свое нетерпение, беспокойство и даже некоторое бессилие, он действительно постарел."
+line-1381,开斯特公爵,可他瞒不过我，这都不是真的。,But he can't fool me. It's all fake.,"Но он не смог обмануть меня, это все не взаправду."
+line-1383,高多汀公爵,您和他相识许久。,You've known him for a long time.,Вы знакомы очень давно.
+line-1385,开斯特公爵,我认识他太多年了......那时我甚至还是个不谙世事的小姑娘。,For far too many years... even from when I was just a little girl with no experience.,Я знаю его слишком много лет... тогда я была еще неопытной маленькой девочкой.
+line-1387,高多汀公爵,您的看法是？,What are your thoughts on the matter?,Ваше мнение?
+line-1389,开斯特公爵,......他说起食腐者时的眼神，和他年轻时一模一样。,The look in his eyes as he spoke of the Nachzehrer was exactly the same as it used to be in his youth.,"......Его взгляд, когда он говорил о Сборщиках, был точно таким же, как в его молодые годы."
+line-1391,开斯特公爵,无论对敌人还是对盟友，他总像一只等待撕裂饮血的饥渴野兽。,"Be it friend or foe, he is like a beast thirsting to tear the other to feast on their blood.","Он всегда походил на алчущего крови зверя, ждущего момента, чтобы растерзать врага или союзника."
+line-1393,开斯特公爵,想扯出他们的内脏，想把他们的骨头都嚼碎咽下。,"To rip out their entrails, chew their bones, and swallow them.","Хочет вырвать их внутренности, хочет раздробить их кости и проглотить их."
+line-1395,开斯特公爵,狩猎，吞食，壮大，他曾是那样一个战士。,"Hunt, devour, grow. He has always been this sort of warrior.","Охотиться, пожирать, становиться сильнее — таким он был воином."
+line-1397,高多汀公爵,他老人家的胃口一直不错。,The old man's appetite has always been good.,Аппетит у старика всегда был хороший.
+line-1399,高多汀公爵,您认识他的时候，谁进了威灵顿公爵的肚子？,"Who was already in Duke Wellington's belly, when you met him?","Когда вы с ним познакомились, кто оказался в животе у герцога Веллингтона?"
+line-1401,开斯特公爵,伊凡·叶夫根耶维奇。,Ivan Evgenevich.,Иван Евгеньевич.
+line-1403,开斯特公爵,赫尔昏佐伦。,Herkunftshorn.,Херцолен.
+line-1405,开斯特公爵,以及，科西嘉一世。,As well as Corsica I.,А также Корсика I.
+line-1407,高多汀公爵,......喔。,...I see.,......О.
+line-1409,高多汀公爵,那时您确实还......很年轻。,You were really... quite young back then.,Тогда вы действительно были еще... очень юны.
+line-1411,开斯特公爵,有句话曾在开斯特公爵领的贵族间，被视作某种不吉利的象征。,"There used to be a saying in the among the nobles in Caster territory, regarded as an ominous symbol.","В кругах аристократии владений Кейстер была фраза, считавшаяся дурным предзнаменованием."
+line-1413,开斯特公爵,“四国战争后，维多利亚只有一位真正的大公爵。”,'Victoria only has one true Duke after the War of the Four Nations.',«После Четырехсторонней войны у Виктории был лишь один настоящий Великий герцог».
+line-1415,开斯特公爵,在那之后，我们限制他、削弱他，持续了六十多年。民众在和平中忘记英雄，贵族在恐惧中排斥丧钟。,"For we restricted and weakened him after that fort more than sixty years. The people forget about heroes in peacetime, and the nobles repel the death knell in their fear.","После этого мы ограничивали его, ослабляли на протяжении более шестидесяти лет. Народ забыл героев в мире, а аристократия сторонилась колокола в страхе."
+line-1417,开斯特公爵,方才让他露出如今的疲态。,He revealed his fatigue earlier.,Именно это заставило его выглядеть таким утомленным сегодня.
+line-1419,开斯特公爵,可我在想，我一直在想，一直在想我们都还年轻的时候，他对着延绵千里的战线露出的微笑......,"But I think of, and I've always been thinking of something—the smile on his face when we were both young, flashed towards the endless expanse of the battlefront...","Но я думаю, я все время думаю о том времени, когда мы были молоды, о его улыбке, глядящей на простирающиеся на тысячи миль линии фронта..."
+line-1421,开斯特公爵,他和乌萨斯的皇帝并肩，他目睹过巫王术法，他见识过最伟大的君王，他拆解过最庞大的现代城市。,"He stood side by side with the Emperor of Ursus, he witnessed the Witch King's arts, he saw the greatest of monarchs and dismantled the largest modern cities to exist then.","Он стоял плечом к плечу с царем Урсуса, видел магию Короля-чародея, встречал величайших правителей и разрушал мощнейшие современные города."
+line-1423,开斯特公爵,......这样的他，怎么会，如此甘愿地遭人宰割呢？,How can someone like him willingly throw himself to the slaughter?,"......Как же он мог, будучи таким, добровольно позволить себя зарезать?"
+line-1425,高多汀公爵,嗯......,Hmm...,Гм......
+line-1427,高多汀公爵,你是在告诉我，我们不得不让一个忍气吞声了数十年的，很可能仍是维多利亚最强大的将军，露出真面目了？,"So you're telling me, our man who has had no choice but to swallow his pride for decades and might be still Victoria's strongest general, has divulged his true feelings?","Ты хочешь сказать, что мы вынуждены были заставить того, кто десятилетиями терпел унижения и, вероятно, все еще остается самым мощным генералом Виктории, показать свое истинное лицо?"
+line-1429,开斯特公爵,呵呵，他可是你请上牌桌的。你知道他还有底牌。,"Heheh, you're the one who invited him to the table. You know he has a trump card up his sleeve.","Ха-ха, ведь это ты пригласил его за игровой стол. Ты знал, что у него есть козыри в рукаве."
+line-1431,高多汀公爵,我有点打寒战了，今晚窗外的风可真大。,I'm feeling a little chilly. The wind outside tonight is rather strong.,"У меня мурашки по коже, ветер за окном сегодня такой сильный."
+line-1433,开斯特公爵,冷吗？那千万别着凉了，高多汀公爵。,"Chilly? Be sure not to catch a cold, Duke Gododdin.","Холодно? Тогда смотри не простудись, герцог Гододин."
+line-1435,高多汀公爵,啊哈哈，怎么会，请放心。,"Ahaha, of course not. Please be at ease.","А-ха-ха, как такое возможно, не переживайте."
+line-1437,高多汀公爵,尽管如大家所说，我确实好吃懒做，比起军舰，更乐意待在我那可爱的庄园里欣赏田园美景......,"Despite what everyone says about me, I really am lazy and would much rather stay in my lovely estate appreciating the countryside view than to be on a battleship.","Хотя все говорят, что я ленив, и вместо военных кораблей предпочитаю любоваться пейзажами в своем милом поместье..."
+line-1439,高多汀公爵,但我唯独喜欢冬天。,But I do like winter.,Я люблю только зиму.
+line-1451,可露希尔,啊！收到了！,Ah! I got it!,А! Получила!
+line-1453,自救军战士,你又在捣鼓通讯设备了吗？,You tinkering with the radio equipment again?,Ты опять копаешься в коммуникационном оборудовании?
+line-1455,自救军战士,我应该跟你说过很多次了，可露希尔。,"Didn't I already tell you multiple times, Closure?","Я же тебе уже много раз говорил, Клоссир."
+line-1457,自救军战士,我们最近的巡逻路线都没有深入到可以接收伦蒂尼姆城内信号的地方。,Our recent patrols haven't gone far enough to pick up any signals coming from inside Londinium.,"Наши текущие патрульные маршруты не заходят так глубоко, чтобы принимать сигнал из самого Лондиниума."
+line-1459,可露希尔,但我也跟你说了很多次啊，我可是罗德岛的工程师——可露希尔！,"And I already told you so many times, I'm a Rhodes Island engineer!","А я тебе уже много раз отвечала, я инженер Родос — Клоссир!"
+line-1461,可露希尔,你看，在经过这么多次改装后，我这台罗德岛专用的通讯设备也能接收其他频道的信号了！,"Look, my equipment specially made for Rhodes Island communications can now receive signals from other channels after my many modifications!","Смотри, после стольких модификаций моя специальная аппаратура связи Родос научилась принимать сигналы и других каналов!"
+line-1463,可露希尔,让我看看——,Let's see—,Дай-ка гляну —
+line-1472,,“伦蒂尼姆自救军广播，*嘈杂的电流声*。重复，克洛维希娅指挥官和没有离开的自救军战士仍在战斗。重复，需要援助——”,"'Londinium Self-Salvation Corps broadcast, *Electric current noise*. Repeat, Commander Clovisia and the other members who have not left are still fighting. Repeat, we need back up——'","«Радио Армии освобождения Лондиниума, *шум помех*. Повторяю, командир Кловиция и оставшиеся бойцы Армии освобождения все еще сражаются. Повторяю, нужна помощь —»"
+line-1476,自救军战士,克洛维希娅指挥官！我就知道她和其他的战士会没事的！,Commander Clovisia! I knew she and the others were fine!,"Командир Кловиция! Я знал, что она и другие воины выживут!"
+line-1478,自救军战士,我们得赶紧回去把这个消息告诉大家。,We need to hurry and tell everyone about this.,Нам нужно немедленно вернуться и рассказать всем об этом.
+line-1480,可露希尔,太好了，他们没事，我手里这工具也调试完毕了。,"Great, they're all right and I'm done debugging this tool in my hand.","Отлично, они живы, и мой инструмент тоже удалось настроить."
+line-1482,可露希尔,等一下，还有一条罗德岛频道的消息。,"Wait, there's another message from the Rhodes Island channel.","Подожди, еще одно сообщение на канале Родоса."
+line-1484,可露希尔,不会是......煌他们出了什么事，还有那么多普通的感染者在......,"It can't be... what happened to Blaze and the rest with her, and what's with all the regular Infected...","Неужели с Блейз и остальными что-то случилось, там ведь столько обычных зараженных..."
+line-1493,,“*嘈杂的电流声*前往维多利亚伦蒂尼姆的离舰申请已批准*嘈杂的电流声*请当地办事处干员做好接应准备。”,"'*Electric current noise* The disembarkment application for Londinium, Victoria has been approved *Electric current noise* Local branch operators, please make preparations.'",«*шум помех* Заявка на убытие в викторианский Лондиниум одобрена *шум помех* Просьба операторам местного офиса подготовиться к приему».
+line-1494,,\n“重复，请做好准备。”,"\n'Repeat, please make preparations.'","«Повторяю, просьба подготовиться»."
+line-1508,困倦的佣兵,还有那么多书，但是没有菜梗了。,"So many books here, but not even a vegetable stem to be found.","Книг еще много, а вот овощей больше нет."
+line-1510,饥饿的佣兵,没有菜梗，有再多书也没用。,The number of books won't matter if we don't find any stems.,Без овощей даже от тысячи книг толку никакого.
+line-1512,饥饿的佣兵,你真的觉得这里能找到吃的？,Are you sure we can find something edible here?,"Ты реально думаешь, что здесь можно найти что-то поесть?"
+line-1514,困倦的佣兵,实在不行，就踹开哪一家的门。,"If we don't, then we can just kick down some house door after.",В крайнем случае просто выбьем какую-нибудь дверь.
+line-1516,饥饿的佣兵,他们不会反抗？,Won't they put up a fight?,А если они будут сопротивляться?
+line-1518,困倦的佣兵,他们都被抓走了。,We already took them all away.,Их всех уже повязали.
+line-1520,困倦的佣兵,（呵欠）唉，好累。,"(yawn) Man, I'm beat.","(Зевает) Эх, так устал."
+line-1522,困倦的佣兵,以前的生活多简单。,Life was so much simpler before.,Раньше жизнь была проще.
+line-1524,困倦的佣兵,挥剑，砍人，接着挥剑，砍下一个人，然后钱就到手了。,"Swing our sword, cut someone down, swing again, cut down another, and then boom. Money.","Взмах мечом, рубанул, еще взмах, рубанул следующего, а потом деньги у тебя в кармане."
+line-1526,困倦的佣兵,现在呢？连菜梗都没有了。,But now? We can't even find a single stem to eat.,А сейчас? Даже зелени нет.
+line-1528,饥饿的佣兵,那现在伦蒂尼姆还属于维多利亚吗？,Is Londinium still considered Victoria's now?,Так Лондиниум сейчас еще принадлежит Виктории?
+line-1530,饥饿的佣兵,我是说，我们完全占领了这里。那这里应该算是萨卡兹的新城市？还是维多利亚？,"I mean, we occupied it, so does it count as a new city of ours now? Or is it still Victoria's?","Я к тому, что мы полностью захватили это место. Это теперь город саказов? Или всё-таки Виктория?"
+line-1532,困倦的佣兵,我不知道。,I don't know.,Не знаю.
+line-1534,困倦的佣兵,我只知道，最近的天更阴了。那座大厦的塔顶......诡异得很。,All I know is the clouds have been gathering lately. The top of that building... is extremely unusual.,"Я знаю лишь то, что небо стало еще мрачнее. И вершина того небоскреба... что-то в ней есть жуткое."
+line-1536,饥饿的佣兵,摄政王在那里，我们瞎操什么心。,What's there to worry? That's where the regent is.,"Регент там, зачем нам забивать себе голову лишним."
+line-1543,饥饿的佣兵,你有没有听见......奇怪的声音？,Do you hear a... strange noise?,Ты не слышал... странный звук?
+line-1545,困倦的佣兵,啊？没有啊。,Huh? Nah.,А? Нет.
+line-1547,饥饿的佣兵,真奇怪......,That's so strange...,Странно...
+line-1576,,巨大的身姿自阴影中浮现，火红的光线刺破了死寂的街道。,"A huge figure emerges from the shadows, and a ray of light blazes through the deathly still streets.","Огромный силуэт возник из тени, багровый свет прорезал мертвую тишину улиц."
+line-1577,,\n它抬起自己沉重的右臂，然后狠狠地沉下。,"\nIt raises it's heavy right arm, and then harshly drops it.","Он поднял свою тяжелую правую руку, а затем с силой опустил её."
+line-1587,查尔斯·林奇,......,......,......
+line-1591,,仿佛只是个幻觉，甲胄又陷入了沉默，只有头盔中渗出的一丝微弱火光表明他还没有死去。,"The armor falls into silence, like it was just an illusion. A faint fire seeping from its helmet is the only sign that it still lives.","Словно видение, латы снова погрузились в молчание, лишь слабый отблеск огня в шлеме указывал на то, что он еще жив."
+line-1598,？？？,......,......,......
+line-1602,,她伸出手想要触碰骑士，却被甲胄上残余的炽热逼退。,"She stretches out her hand to touch the knight, but is forced to refrain from the residual heat on the armor.","Она протянула руку, чтобы коснуться рыцаря, но была вынуждена отступить из-за жара, исходящего от лат."
+line-1603,,\n甲胄只是沉默不语。,\nThe armor remains silent.,Латы лишь продолжали хранить безмолвие.
+line-1629,特蕾西娅,......,......,......
+line-1631,曼弗雷德,殿下，您在看什么？,"Your Highness, what are you looking at?","Госпожа, на что вы смотрите?"
+line-1633,特蕾西娅,阴云。,Dark clouds.,На тучи.
+line-1635,曼弗雷德,......碎片大厦的聚能已经完成，根据赦罪师们的研究，这种能够操纵源石反应的装置，也能控制那片“源石”。,"The Shard's energy is gathered. According to the Confessarii research, a device like this able to manipulate Originium's reactions will also be able to control that piece of 'Originium'.","......Энергия Осколочного небоскреба уже накоплена. Исследования наших Исповедников показывают, что это устройство, способное управлять реакцией ориниума, может также контролировать и этот «Ориниум»."
+line-1637,曼弗雷德,大公爵们的军队已经开始调动，数天后......,"The dukes have begun mobilizing their forces, and in a few days...","Армии великих герцогов уже начали выдвижение, через несколько дней..."
+line-1639,特蕾西娅,不，不是这里的阴云。,"No, I don't mean the clouds here.","Нет, я не об этих тучах."
+line-1641,特蕾西娅,伦蒂尼姆将要发生的事，已经不可改变。,What's about to happen in Londinium is set in stone.,"То, что должно произойти в Лондиниуме, уже нельзя изменить."
+line-1643,特蕾西娅,......,......,......
+line-1645,特蕾西娅,曼弗雷德，你出生在卡兹戴尔，你记忆中的那里，是什么样子？,"Manfred, you were born in Kazdel. What does it look like in your memories?","Манфред, ты вырос в Каздейле. Каким он остался в твоей памяти?"
+line-1647,曼弗雷德,在我成长的时代，卡兹戴尔就已经被您搬上了移动城市的轮毂。,It was already the hub unit of your nomadic city while I was growing up.,"В те времена, когда я рос, Каздейл уже давно был помещен вами на шасси мобильного города."
+line-1649,曼弗雷德,我印象中的那里......天也总是很阴沉，说实话，比维多利亚还要糟。空气中永远是刺鼻的工业废气的味道。,"My memories of the place... the sky was always overcast. Even worse than Victoria's skies, to be honest. There was always a pungent stench of industrial waste in the air.","Там, что мне запомнилось... небо всегда было таким же пасмурным, честно говоря, даже хуже, чем в Виктории. В воздухе вечно стоял резкий запах промышленных выбросов."
+line-1651,特蕾西娅,你会把那里称作......“家”吗？,Would you can that place... 'home'?,Ты бы назвал это место... «домом»?
+line-1653,曼弗雷德,......,......,......
+line-1655,曼弗雷德,我会。,I would.,Назвал бы.
+line-1657,特蕾西娅,是吗。,Really.,Вот как.
+line-1659,特蕾西娅,我在想，萨卡兹总是在阴霾中穿行。,I was thinking how we Sarkaz always travel within a haze.,"Я думаю, что саказы всегда бредут сквозь густой туман."
+line-1661,特蕾西娅,我们立志于撕破这片阴霾......,We are determined to tear the clouds apart...,Мы стремимся разогнать этот туман...
+line-1663,特蕾西娅,可，等到一切终被揭露——,"But, when everything is finally revealed—",Но когда всё тайное станет явным —
+line-1665,特蕾西娅,真正的灾难才会尾随而来。,The true calamity will follow.,За этим последует истинная катастрофа.
+line-1667,特蕾西娅,......我们来得及吗？,Will we make it in time?,......Успеем ли мы?
+line-1669,特蕾西娅,......,......,......
+line-1671,特蕾西娅,希望我看向的光，在彼时仍能闪耀。,I hope the light I've been looking at can still shine then.,"Надеюсь, тот свет, на который я смотрю, будет сиять и в тот час."
+line-1673,特蕾西娅,即使，我已在黑暗深处。,Even if I'm already in the depths of the darkness.,Даже если я сама уже нахожусь в пучине тьмы.
