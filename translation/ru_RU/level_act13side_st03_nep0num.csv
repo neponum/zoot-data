@@ -1,0 +1,378 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act13side
+__chapter__,,Chapter Name,activities/act13side/level_act13side_st03,酣眠的城市
+,,,,
+char-1,砾,砾,Gravel,Граний
+char-2,阿米娅,阿米娅,Amiya,Амия
+char-3,罗伊,罗伊,Roy,Рой
+char-4,格蕾纳蒂,格蕾纳蒂,Greynuty,Грейнади
+char-5,索娜,索娜,Sona,Сона
+char-6,烛骑士,烛骑士,The Candle Knight,Рыцарь-Свеча
+char-7,企业员工,企业员工,A Corporate Employee,Сотрудник компании
+char-8,莫妮克,莫妮克,Monique,Моника
+char-9,托兰,托兰,Toland,Торан
+char-10,逐魇骑士,逐魇骑士,Nightmare Knight,Рыцарь Ужаса
+char-11,玛嘉烈,玛嘉烈,Margaret,Маргарет
+char-12,玛莉娅,玛莉娅,Maria,Мария
+char-13,佐菲娅,佐菲娅,Zofia,Зофия
+char-14,老骑士,老骑士,Old Knight,Старый рыцарь
+char-15,老工匠,老工匠,Old Craftsman,Старый мастер
+char-16,光头马丁,光头马丁,Bald Marcin,Лысый Мартин
+char-17,年长的骑士,年长的骑士,An Aged Knight,Рыцарь в возрасте
+char-18,卡西米尔骑士,卡西米尔骑士,A Kazimierz Knight,Казимирский рыцарь
+char-19,游客,游客,A Tourist,Турист
+char-20,发言人麦基,发言人麦基,Spokesman McKee,Представитель Макки
+char-21,围观的路人,围观的路人,An Onlooker,Зевающий прохожий
+char-22,玛恩纳,玛恩纳,Młynar,Марлен
+char-23,电话那头的声音,电话那头的声音,A Voice from the Phone,Голос на другом конце провода
+char-24,发言人马克维茨,发言人马克维茨,Spokesman Malkiewicz,Представитель Марковиц
+,,,,
+line-8,,确认卡瓦莱利亚基陷入紧急情况。,"Kawalerielki has entered a state of emergency, confirmed.",Подтверждаю: Кавалерини находится в чрезвычайной ситуации.
+line-9,,确认讯号代码正确。确认部队识别码正确。,"Correct signal code, confirmed. Correct squad identification code, confirmed.",Код сигнала подтвержден. Идентификационный код отряда подтвержден.
+line-10,,全队听令。,Heed my orders.,Всем отрядам слушать приказ.
+line-11,,撤下伪装，进城。,"Remove your disguises, and enter the city.","Снять маскировку, входим в город."
+line-17,砾,......距离电力完全恢复，还需要一点时间。,It'll still be some time until the power is completely restored.,......До полного восстановления электричества потребуется еще немного времени.
+line-18,砾,罗德岛的各位已经在指引下回到了房间休息，如果二位想要确认的话......,"The Rhodes Islanders have returned to their rooms, as advised. If you two would like to review...","Все сотрудники Родос Айленд уже вернулись в свои комнаты под нашим присмотром, если вам двоим нужно убедиться в этом......"
+line-20,阿米娅,......博士，我想去看看各位。,"Doctor, I want to go see them.","......Доктор, я хочу навестить остальных."
+line-21,阿米娅,事发突然，也许会有一些干员弄不清状况，这些天对感染者的抗议，也让干员们积攒了不少压力。,"Everything happened so quickly, I'm sure there are many operators who still don't quite understand the situation. With all the anti-Infected protests going on, there's been a lot of pressure on everyone.","Все случилось слишком внезапно, возможно, некоторые оперативники не понимают, что происходит, да и недавние протесты против зараженных накопили немало стресса."
+line-23,,那就有劳阿米娅了。;......;真的不需要我帮忙吗？,"I'll be counting on you again then, Amiya.;......;Are you sure you don't need my help?","Тогда это на вас, Амия. ;......; Действительно ли мне не нужна помощь?"
+line-26,阿米娅,啊，没关系的，博士。,"Oh, it's fine, Doctor.","Ах, все в порядке, Доктор."
+line-28,阿米娅,这些天一直是博士在应付各种商业洽谈和社交活动，其实我还挺过意不去的。,"I know how busy you've been with business negotiations and social events recently. To be honest, I feel bad about it.","В эти дни вы постоянно занимались деловыми переговорами и светскими мероприятиями, мне от этого даже немного неловко."
+line-30,阿米娅,趁着这个机会，赶紧休息一下吧。,You should get some rest while you still can.,"Пользуясь случаем, отдохните немного."
+line-33,阿米娅,......啊哈哈，博士已经很累了吧。,"Ahaha, you must already be worn out, Doctor.","......А-ха-ха, Доктор, вы, должно быть, очень устали."
+line-34,阿米娅,毕竟从昨天开始就一直在应付那些企业家，嗓子都哑了吧？,"After all, you've been dealing with those businesspeople nonstop since yesterday. Of course you'd lose your voice, right?","В конце концов, со вчерашнего дня вы постоянно имели дело с этими предпринимателями, у вас даже голос охрип?"
+line-37,阿米娅,没关系，有芙蓉小姐在，应该不会出什么差错。,"But it's okay, with Hibiscus here, I'm sure we won't have any trouble.","Все в порядке, с мисс Фунси вряд ли что-то случится."
+line-38,阿米娅,我也只是去确认一下各位的情况，很快就会回来的。,I just want to go around and see how everyone's doing. I'll be right back.,Я только схожу проверить состояние остальных и скоро вернусь.
+line-41,砾,请阿米娅小姐放心吧，您不在的时间里，我会照顾好博士的。,"There's no need to worry, Amiya. I'll take real good care of the Doctor while you're gone.","Не волнуйтесь, мисс Амия, пока вас не будет, я присмотрю за Доктором."
+line-43,阿米娅,啊......嗯。,Oh... Okay.,А...... м-м.
+line-45,阿米娅,那么我先下去啦。,See you later then.,Тогда я пошла.
+line-52,砾,......{@nickname}博士。,...{@nickname}Doctor.,......Доктор {@nickname}.
+line-53,砾,最近商业联合会有一些动向，恐怕会对罗德岛不利。,There've been some developments in the General Chamber of Commerce that may be disadvantageous to Rhodes Island.,"Недавно у Бизнес-объединения появились планы, которые, боюсь, могут навредить Родос Айленд."
+line-54,砾,加上现在的停电事件，恐怕下一步会是更加明目张胆的阴谋。,"Coupled with the ongoing power outage, I'm afraid that what happens next will be nothing less than an open conspiracy.","В сочетании с нынешним отключением электричества, опасаюсь, что следующим их шагом станет еще более открытый заговор."
+line-55,砾,最近......请千万不要离开我的视线。当然，您要是自愿留在我的身边，那是再好不过。,"For the time being... do not leave my side, whatever you do. Of course, it'd be even better if you decided to stay with me of your own accord.","В последнее время...... пожалуйста, не уходите из моего поля зрения. Конечно, если бы вы по собственному желанию остались рядом со мной, было бы совсем замечательно."
+line-57,,想出去逛逛吗？,Want to take a look around?,Хочешь прогуляться?
+line-60,砾,......嘻嘻，您突然这么解风情，倒是让我有些吃惊。,"Heehee, I didn't expect you to be so forward. Caught me off guard.","......Хи-хи, вы вдруг стали такими обходительными, я даже удивлена."
+line-61,砾,怎么了？难道发生了什么好事吗？,Did something good happen?,Что случилось? Неужели произошло что-то хорошее?
+line-63,,砾小姐，您是怎么看待商业联合会的？,"Miss Gravel, what do you think of the K.G.C.C.?","Мисс Граний, что вы думаете о Бизнес-объединении?"
+line-66,砾,......您不是问过类似的问题了吗？怎么，是想多听一听我的声音吗？可以哦。,"Didn't you ask me something like this before? Or, do you just love the sound of my voice that much?","......Вы ведь уже задавали похожий вопрос? Что, хотите подольше послушать мой голос? Можно."
+line-68,砾,他们是卡西米尔的蛀虫。,They're parasites on Kazimierz.,Они — паразиты Казимира.
+line-69,砾,商人们联合起来，腐蚀骑士和城市，最终达成他们自己的目的。,"The business class bands together, corrupting the knights and the city, just to chase their ambitions.","Купцы объединяются, чтобы разлагать рыцарей и города, в конечном итоге достигая собственных целей."
+line-71,,不。,No.,Нет.
+line-73,,商业联合会，如其名，只是“联合”罢了。,"The General Chamber of Commerce, as its name implies, is just a 'general' assemblage.","Бизнес-объединение, как следует из названия, лишь «объединение»."
+line-75,,利益是连系他们的纽带，他们当然可被分割。,"There is little that binds them beyond common interest, and they can be divided.","Прибыль — это нить, связывающая их, и, конечно, их можно разделить."
+line-77,,不过是与骑士们的对抗，让他们看起来，像一个整体。,It feels like they're acting as a unit because they're fighting against the knights.,Лишь противостояние рыцарям заставляет их выглядеть как единое целое.
+line-80,砾,......,......,......
+line-81,砾,......您做了什么？,What did you do?,......Что вы сделали?
+line-83,,商业联合会的常务董事大致有四类人。,There are roughly four types of executive directors in the K.G.C.C.,Исполнительных директоров Бизнес-объединения можно разделить на четыре категории.
+line-86,砾,嘻......愿闻其详。,Heh... Care to tell me more?,Хи...... готова выслушать подробности.
+line-88,,急于推进时代，取缔骑士阶层的激进分子。,"One is committed, so radical as to eliminate the knight class.","Радикалы, жаждущие ускорить смену эпох и упразднить сословие рыцарей."
+line-90,,守旧却扎实，一步一脚印的稳健派。,"One is old-fashioned, a rock-solid faction that moves forward step by step.","Консерваторы, которые, однако, действуют основательно, шаг за шагом."
+line-92,,没有任何立场，只要有利益就趋之若鹜的逐利者。,"Another has no principles, just a group of opportunists flocking to potential profit.","Искатели наживы, не имеющие никаких принципов и бросающиеся туда, где есть выгода."
+line-95,砾,......最后一种呢？,And the last one?,......А последний тип?
+line-97,,对于如今的罗德岛而言，还为时尚早。,The type that Rhodes Island is not ready to contact yet.,Для нынешнего Родос Айленд это пока преждевременно.
+line-99,,贸然接触，反而危险。,Rushing to contact them will only hurt us.,Безрассудное сближение будет лишь опасным.
+line-102,砾,......您的意思是，联合会内部有分歧？而您......已经抓住了那些分歧？,So what you're saying is there are cracks in the K.G.C.C.? And you... have already taken stock of them?,"......Вы хотите сказать, что внутри Объединения есть разногласия? И вы...... уже ухватились за эти разногласия?"
+line-104,,很难说是分歧。;他们根本就不可能存在“团结”。;皆为利来，皆为利往。,"I wouldn't call it 'cracks.';More like it was never possible for them to 'unite' in the first place.;Live for the sake of profit, die for the sake of profit.",Трудно назвать это разногласиями. ; В них не может существовать никакого «единства». ; Все они движимы лишь корыстью.
+line-107,砾,......但您不过初来乍到，只是通过发言人的渠道，结识了一部分常务董事......,"But this is only your first time here, and you were only able to get to know a portion of the executives through your ties with a spokesman.","......Но вы здесь всего лишь новичок, и познакомились с частью директоров только через представителя......"
+line-108,砾,您怎么敢如此断言？一旦您选错了信任对象，其后果绝非监正会可以承担......,"How can you be so sure of yourself? The moment you place your trust in the wrong person, the Adeptus Sprawiedliwi will no longer bear the consequences.","Как вы смеете делать такие выводы? Если вы выберете не тот объект для доверия, последствия будут такими, что даже Совет Рыцарства их не потянет......"
+line-110,,罗德岛从未考虑过依赖他人牺牲来达成自己的目的。;您总不能认为，我是真的毫无牺牲觉悟去参加那些宴会的吧？,Rhodes Island has never relied on the sacrifices of others to advance its goals.;As if I'd approach those banquets if I wasn't ready to sacrifice something.,"Родос Айленд никогда не рассматривал возможность достижения своих целей за счет чьих-то жертв. ; Вы же не могли подумать, что я действительно отправился на эти банкеты без всякой готовности к жертвам?"
+line-113,砾,......不。,No.,......Нет.
+line-115,砾,您当然不。,Of course not.,"Конечно, нет."
+line-142,罗伊,你们还有时间可以浪费吗？,Do you still have time to waste?,"У вас еще есть время, которое можно потратить впустую?"
+line-143,罗伊,关于感染者的通缉令已经发出，等到大隔断的影响过去，你们无路可逃。,"About the bounty placed on the Infected, once the interference from the Great Separation has passed, you'll have no escape route.","Ордер на арест зараженных уже выдан, как только закончится влияние Великого Отсечения, вам будет некуда бежать."
+line-145,罗伊,啊，顺便一提，之所以叫“大隔断”，是因为在失去核心电力后各地块会出现短暂的漂移现象......,"Ah, by the way, the reason it's called the 'Great Separation' is because after power from the core is lost, each plate will experience a short period of drift.","А, кстати, «Великим Отсечением» это называют потому, что после потери центрального энергоснабжения в различных районах происходят кратковременные смещения..."
+line-147,罗伊,现在，联合会周遭的地块连接都中断了，你们逃不出去。,"Right now, the connections to the plates around the K.G.C.C. have broken off, and you won't be able to escape.","Сейчас все связи между районами вокруг Объединения разорваны, вам не выбраться."
+line-154,格蕾纳蒂,......呃......该死......,Ugh... Goddammit...,......Эх...... Черт возьми......
+line-156,索娜,......好像不是可以正面打赢的对手啊。,This doesn't seem like an enemy we can take head-on.,"......Похоже, это не тот противник, которого можно победить в лоб."
+line-158,罗伊,感谢你总算理解了你早该理解的事情。那我再问一遍，要不要把东西交给我？那我可以放走你们。,"I'm glad you finally understand what you should've always understood. So let me ask again, will you hand me the goods? I wouldn't mind letting you go.","Благодарю за то, что вы наконец поняли то, что должны были понять раньше. Спрошу еще раз: вы собираетесь отдать вещь мне? Тогда я вас отпущу."
+line-160,索娜,嘿，无胄盟什么时候这么好心了？,"Heh, when is the Armorless Union a charity?","Хэй, с каких это пор Арбитр стал таким добрым?"
+line-162,罗伊,......心情问题吧，终于从漫长的......斗争里看到了曙光。,"I guess it was a matter of mindset. After a long, long struggle... I finally saw the light.","......Вопрос настроения, наверное. Наконец-то увидел свет в конце долгой...... борьбы."
+line-163,罗伊,从玻利瓦尔的废墟，到卡西米尔的平原，最后来到这里。,"From the ruins of Bolívar, to the prairies of Kazimierz, and finally here.","От руин Боливара до равнин Казимира, и в конце концов сюда."
+line-164,罗伊,没有正常人会觉得杀人是一件快乐的事情，只有那些养尊处优的蠢货喜欢观赏他人流血。,No normal person finds joy in the slaughter of others. Only idiotic pampered princelings derive any pleasure from seeing people bleed.,"Ни один нормальный человек не считает убийство чем-то приятным, это только те холеные дураки любят смотреть, как другие истекают кровью."
+line-166,罗伊,现在，你能拯救我，感染者，我也可以帮你摧毁无胄盟。,"Now, you can save me, Infected, and I can help you dismantle the Armorless Union.","Теперь ты можешь спасти меня, зараженная, а я могу помочь тебе уничтожить Арбитра."
+line-169,索娜,......抱歉，就算你说的是真的，我也不打算把这东西交给你。,"Sorry, but even if that's true, I'm not about to give you this.","......Прости, даже если это правда, я не собираюсь отдавать тебе эту вещь."
+line-171,罗伊,为什么？,Why not?,Почему?
+line-173,索娜,我们已经厌倦了受他人操纵的日子了，无胄盟。,We're sick and tired of being manipulated.,"Мы устали от дней, когда нас контролировали другие, Арбитр."
+line-176,索娜,小灰！,Ashley!,Грей!
+line-178,格蕾纳蒂,明白，看这一炮如何！？,Got it! Have a taste of this!,"Поняла, посмотри, как тебе этот выстрел!?"
+line-180,罗伊,——唔。,Urgh...,——Угх.
+line-190,罗伊,咳咳......咳咳......搞什么。,"*cough*, *cough* *cough*... What's the meaning of this...?",Кхе-кхе...... кхе-кхе...... Что за ерунда.
+line-192,索娜,跑，小灰！,"Ashley, run!","Беги, Грей!"
+line-194,格蕾纳蒂,我知道！,I know!,Я знаю!
+line-202,罗伊,......在这座城市的构造区乱跑，小心失足跌进引擎里，变成肉末啊。,"Running into the substructure? One wrong step, and you'll be mincemeat in the engine.","......Бегая по техническим зонам этого города, будьте осторожны, чтобы не оступиться и не упасть в двигатель, превратившись в фарш."
+line-203,罗伊,你可跑不了——,There's nowhere for you to run––,Тебе не убежать——
+line-205,罗伊,——唔。,Hngh.,——Угх.
+line-213,索娜,......！？,......?!,......!?
+line-215,索娜,小灰！小心！,Ashley! Watch out!,Грей! Осторожно!
+line-217,格蕾纳蒂,——,—,——
+line-231,,青色的箭矢贯穿了焰尾骑士的盔甲。,A cyan arrow pierces Flametail Knight's armor.,Синяя стрела пронзила доспехи Рыцаря Пламенного Хвоста.
+line-232,,索娜试图格挡，但是巨大的冲击力依然让她娇小的身躯失去控制。,"Sona tries to block it, but the massive force of the impact sends her petite body flying.","Сона попыталась заблокировать удар, но огромная сила импульса все равно лишила ее тело контроля."
+line-233,,她在半空中挣扎，飞向城区地块之间的间隙。,"Struggling in midair, she is launched into the gap between the city's plates.","Она боролась в воздухе, улетая в просвет между городскими блоками."
+line-235,格蕾纳蒂,索娜——！,Sona––!!,Сона——!
+line-244,罗伊,（......歪了点，刚才突然眼前黑了一下......）,(Off the mark. Something blurred my vision for a second there...),"(......Промахнулся немного, только что перед глазами внезапно потемнело......)"
+line-246,罗伊,（疲劳产生的错觉吗......？不，确实是被干扰了......）,"(An illusion caused by my fatigue...? No, something got in my way after all.)","(Галлюцинации из-за переутомления......? Нет, это было вмешательство......)"
+line-249,格蕾纳蒂,——罗伊——！,Roy–––!!,——Рой——!
+line-253,罗伊,......！,......!,......!
+line-265,罗伊,失去理智了吗。,You've lost your mind.,Ты лишилась рассудка?
+line-281,罗伊,啧啧啧，这么近的距离开火，你是打算同归于尽了吗？,"Tisk tisk, firing from such close range. Are you trying to get us both killed?","Ц-ц-ц, стрелять с такого близкого расстояния, ты намерена умереть вместе со мной?"
+line-284,格蕾纳蒂,你......你竟然......对索娜......！,You... How dare you... do that to Sona!,Ты...... ты посмел...... с Соной......!
+line-286,罗伊,......确实有些不小心。,"I'll admit, it was careless of me.","......Действительно, немного неосторожно."
+line-288,罗伊,还没确认那枚芯片是不是真的被销毁了，这很危险，我可不敢担这个责任。,"I haven't had a chance to check if the chip is still intact. That's bad news, I wouldn't want that responsibility sitting on my shoulders.","Еще не подтвердил, был ли уничтожен тот чип, это опасно, я не могу взять на себя эту ответственность."
+line-290,格蕾纳蒂,少废话！,"Shut up, bastard!",Хватит болтать!
+line-305,罗伊,（该怎么办，赶紧杀掉灰毫，想办法下去确认一下尸体吗？）,"(What to do, what to do. Hurry and kill Ashlock, and look for a way to go check the corpse?)","(Что делать? Поторопиться убить Грей, попытаться спуститься вниз, чтобы опознать тело?)"
+line-307,罗伊,（不，这也太危险了，而且电力就快要恢复了，我可不想被夹在铁板中间啊。）,"(No, this is far too dangerous. The power is about to come back on, and I wouldn't want to be caught between those plates.)","(Нет, это слишком опасно, к тому же скоро восстановится электричество, я не хочу оказаться зажатым между железными плитами.)"
+line-310,格蕾纳蒂,我要你血债血偿——！！,I'll have you pay in blood––!!,Я заставлю тебя заплатить кровью——!!
+line-312,罗伊,直来直往，失去理智之后你的动作还真是好看穿啊——,"So straightforward, so predictable. You've been all too easy to read since you lost your ability to think––","Прямолинейно, после потери рассудка твои движения стали такими предсказуемыми——"
+line-314,格蕾纳蒂,——是吗？,Oh really?,——Правда?
+line-317,罗伊,！？,?!,!?
+line-327,罗伊,唔，竟然是我大意了吗？,Hrmph. Was I the careless one?,"Угх, неужели это я проявил неосторожность?"
+line-332,罗伊,......跑了？,She's gone?,......Убежала?
+line-333,罗伊,这么说，那股怒火是装出来的......？,Was she only pretending to be enraged...?,"Значит, этот гнев был притворством......?"
+line-342,,......为了感染者而成为骑士。,Become a knight for the Infected.,......Стать рыцарем ради зараженных.
+line-343,,为了感染者而奋战至死。,Fight to the bitter end for the Infected.,Сражаться до смерти ради зараженных.
+line-344,,我很荣幸。,That is my honor.,Для меня это честь.
+line-345,,很荣幸......死于一场荣耀的事业。,There is no greater honor... than to die for a glorious cause.,Честь...... умереть за достойное дело.
+line-352,索娜,......虽然很想大义凛然地这么说，但是......这是什么情况？,"I would've liked to go out in a blaze of glory, but... what's going on now?","......Хотя я очень хотела сказать это гордо, но...... что происходит?"
+line-354,烛骑士,罗伊还在这附近，他一定会发现我的法术，我们不能久留。,"Roy is still around here somewhere. He'll discover my Arts sooner or later, so we mustn't tarry here.","Рой где-то неподалеку, он обязательно обнаружит мою магию, мы не можем долго оставаться."
+line-355,烛骑士,通知你的同伴，让她逃走吧，如有必要，我会在暗中帮助她。,Contact your companion and have her escape. I'll do what I can for her.,"Дай знак своей спутнице, пусть бежит, если потребуется, я буду тайно помогать ей."
+line-358,索娜,......喂，小灰，我没事。,"Hey, Ashley, I'm fine.","......Эй, Грей, я в порядке."
+line-359,索娜,别让他察觉到，找机会逃走，我趁着帮你挡箭的时候把芯片扔进你兜里了，确认一下。,"Don't let him know, and look for a chance to escape. I slipped the chip into your pocket when I blocked that arrow for you. Go ahead and double-check.","Не дай ему заметить, ищи возможность сбежать, пока я прикрывала тебя, я подбросила чип тебе в карман, проверь."
+line-360,索娜,不用回复，我们回头见。,No need to reply. See you on the way back.,"Отвечать не нужно, увидимся позже."
+line-365,索娜,......你接住的我？怎么做到的？,You broke my fall? But how?,......Ты поймала меня? Как тебе это удалось?
+line-367,烛骑士,法术的应用方法多种多样，经过刻苦学习的莱塔尼亚人，无论其原本法术是什么性质，几乎都能使用基础的法术形式。,"Arts can be applied in many different ways. After extensive studying, almost all Leithanians are able to use basic Arts, regardless of the nature of these Arts.","Способов применения магии множество, усердно обучающиеся жители Лейтании, независимо от того, какова природа их изначальной магии, почти всегда могут использовать базовые магические формы."
+line-369,索娜,......你是，烛骑士，对吧？,"You're the Candle Knight, right?","......Ты — Рыцарь-Свеча, верно?"
+line-370,索娜,你这样的大骑士，为什么要救我......救一个感染者？,Why would a great knight like you... save an Infected like me?,"Такой великий рыцарь, как ты, зачем тебе спасать меня...... спасать зараженную?"
+line-372,烛骑士,有个人想要见你。,There's someone who wants to see you.,Один человек хочет встретиться с тобой.
+line-374,索娜,谁？,Who?,Кто?
+line-376,烛骑士,还不能说。,I can't tell you yet.,Пока нельзя сказать.
+line-378,索娜,啊......你也知道我们正在做什么事，瘫痪城市，袭击联合会......我可没有时间郊游喔？,"Oh... You should already know that we're pretty busy right now, paralyzing the city, attacking the K.G.C.C... I don't have time for a picnic, you know?","А...... ты ведь знаешь, что мы делаем: парализуем город, нападаем на Объединение...... у меня нет времени на прогулки?"
+line-380,烛骑士,......你不信任我，也情有可原。,It's understandable that you would distrust me.,"......Ты мне не доверяешь, и это вполне оправданно."
+line-382,索娜,不，我相信你。,"No, I believe you.","Нет, я верю тебе."
+line-383,索娜,只要看有些人一眼，你就能从她的眼里读出他们的想法。,"You can tell what someone's thinking, just gotta look into their eyes.","Стоит взглянуть на некоторых людей, и ты сразу можешь прочесть их мысли в их глазах."
+line-385,索娜,当然，这招可不是百分之百准确的，但是现在情况紧急，对吧。,"Of course, this trick doesn't work a hundred percent of the time, but this is desperate times, right?","Конечно, это не на сто процентов точно, но ситуация сейчас критическая, верно?"
+line-392,企业员工,唉，怎么遇上这种事，路也不通，车也打不到，今晚又回不了家了吗......,"Ugh... What the hell is going on? The roads are blocked, and I can't get a taxi. Do I not get to go home tonight either?","Эх, как же мы попали в такую историю, дороги перекрыты, машину не вызвать, неужели и сегодня домой не попасть......"
+line-393,企业员工,该死的组长，说什么报表昨天就该做完......一天能做完个鬼......,What an idiot... 'finish in one day' my ass... That report should've been done yesterday...,"Чертов начальник, твердил, что отчет надо было сдать еще вчера...... черт возьми, за день такое невозможно сделать......"
+line-410,企业员工,唔啊啊啊，怎、怎么了！？？,Wh—What... what's happening?!,"Уа-а-а-а, ч-что случилось!??"
+line-416,莫妮克,让开，否则我就连你一起射穿。,"Out of my way, or I'm shooting through all of you.","Отойди, иначе я прострелю тебя вместе с ними."
+line-419,企业员工,咿————别、别，我这就让——,"Eep! P-P-Please don't, I'm moving––","И-и-и...... не надо, не надо, я сейчас отойду——"
+line-421,托兰,别乱动，小哥，你也不想脑袋搬家吧？,"Stop moving around, lad. You wouldn't want that noggin of yours finding a new home, eh?","Не дергайся, парень, ты же не хочешь расстаться с головой, верно?"
+line-424,企业员工,但、但是她让我动——,B-But she told me to move––,Н-но она велела мне двигаться——
+line-426,托兰,一个张口闭口就要杀你的人，你会相信吗？,Would you really trust someone who'd take your head off on a whim?,"Ты веришь человеку, который только и делает, что грозится тебя убить?"
+line-428,企业员工,我——我——,I... I...,Я—— я——
+line-430,莫妮克,托兰，躲在普通人身后，是不是有点太难看了？,"Toland, have you no shame hiding behind a civilian?","Торан, прятаться за спиной обычного человека, не кажется ли тебе это жалким?"
+line-433,企业员工,啊啊啊——,Aaaaagh—!,А-а-а-а——
+line-435,托兰,也有点道理，我数到三？,Good point. I'll count to three?,Тоже верно. Считаю до трех?
+line-439,企业员工,求、求求你们了，别管我，别管我！,"P-P-P-please, I'm begging you, l-leave me alone!","У-умоляю вас, не трогайте меня, оставьте меня в покое!"
+line-441,托兰,一。,One.,Один.
+line-444,企业员工,咿呀——,Nooooooo––!!,И-ия——
+line-446,托兰,二。,Two.,Два.
+line-451,莫妮克,......,......,......
+line-453,托兰,三！,Three!,Три!
+line-475,企业员工,两个疯子，两个疯子——,They're both insane! They're both insane––!,"Два безумца, два безумца——"
+line-476,企业员工,这条路通向哪儿——等等，那里是——,"Where does this road lead–– Wait, over there, that's––","Куда ведет эта дорога—— подождите, там......"
+line-478,企业员工,骑士先生！骑士老爷！,Mr. Knight! Mr. Knight!,Мистер Рыцарь! Рыцарь-господин!
+line-479,企业员工,我是玫瑰报业的员工，您帮帮我，您知道我们吗？我会向编辑部推荐您的，那边有两个不法之徒——,"I'm an employee of the Rose Paper Union! Please help me! You know who I am, right? I'll recommend you to the editorial department! There are two criminals over––","Я сотрудник «Роуз Пресс», помогите мне, вы нас знаете? Я порекомендую вас редакции, там двое преступников——"
+line-485,逐魇骑士,......,......,......
+line-488,企业员工,——咿——,Eek...!,——И——
+line-490,逐魇骑士,......,......,......
+line-499,托兰,......你的箭是用不完的吗？,Do you ever run out of arrows?,"......У тебя что, стрелы бесконечные?"
+line-501,莫妮克,啧，我还是第一次好几分钟没能追上猎物......了不起，托兰·卡什。,"Grrr... This is the first time my prey's eluded me for several minutes... Not half bad, Toland Cash.","Ц, впервые за несколько минут не могу догнать добычу...... потрясающе, Торан Каш."
+line-502,莫妮克,你的目的就是拖住我吗？,Is it your goal to stall me here?,Твоя цель — просто задержать меня?
+line-504,托兰,呵呵......你呢，你的目的是陪我玩吗？,Haha... What about you? Are you here to play with me?,Хе-хе...... а твоя? Ты играешь со мной?
+line-506,莫妮克,不，你的人头值很多钱，任何时候，我们都需要钱。,"No, there's a handsome bounty on your head, and we're always in need of money.","Нет, твоя голова стоит больших денег, деньги нужны нам всегда."
+line-508,托兰,哦？你家里有病重的弟弟吗？还是有需要赡养的老父亲？,Oh? Do you have a sickly little brother back home? Or maybe an elderly father who needs your support?,О? У тебя дома тяжелобольной младший брат? Или престарелый отец на иждивении?
+line-510,莫妮克,......这份工作能为我带来你无法想象的财富，赏金猎人。,"This job brings more wealth than you can imagine, bounty hunter.","......Эта работа приносит мне богатство, о котором ты не можешь и вообразить, наемник."
+line-511,莫妮克,我们比你们，比骑士，比任何一个卡西米尔人都更懂得这个社会的运作规则。,"We know the rules of this society better than you, better than any of the knights.","Мы лучше вас, лучше рыцарей, лучше любого жителя Казимира понимаем правила, по которым работает это общество."
+line-512,莫妮克,我们只是选了一条捷径，等今晚的猎杀结束之后，我们将迎来新的开始。,"We simply chose to take a little detour, and after tonight's hunt, we'll usher in a new beginning.","Мы просто выбрали кратчайший путь, и как только сегодняшняя охота закончится, нас ждет новое начало."
+line-514,莫妮克,不过现在，好像又有一个蠢货想要搅局。,"But right now, it seems there's another idiot hellbent on messing things up.","Хотя сейчас, похоже, еще один дурак хочет все испортить."
+line-516,托兰,......,......,......
+line-522,逐魇骑士,......在这座，死气沉沉的城市里......还能见到这样的夜空。,To think you could still see such a splend'rous night sky in this death-choked city.,......В этом мертвом городе...... можно увидеть такое ночное небо.
+line-523,逐魇骑士,这才是我所熟悉的夜晚，让这人造的孽物搁浅于此......放空这座城市的血，做得好，不知名的反抗者！,"This is the kind of night I've always known. Let this manmade malediction be left behind... and shed every last drop of this city's blood! Bravo, ye faceless rebels!","Вот такая ночь мне знакома, позволить этому искусственному отродью сесть на мель здесь...... спустить кровь из этого города, хорошо сделано, неизвестный бунтарь!"
+line-525,托兰,......真是一位奇怪的骑士，私斗可不挣钱啊。,What a strange knight. The private duels must not be paying well.,"......Странный рыцарь, частные поединки денег не приносят."
+line-527,莫妮克,啧，闹剧。,Clown.,"Ц, балаган."
+line-537,玛嘉烈,大家都没事吧！,Is everyone okay?,Все в порядке?
+line-539,玛莉娅,姐姐！我刚把备用电池找出来......唔......这盏灯就不开了吧？感觉撑不了多久......,"Margaret, I just found the spare battery... Alright, see, now the light's on, yeah? Doesn't feel like it'll last long though.","Сестра! Я нашла запасные батарейки...... у-у...... эту лампу не будем зажигать? Боюсь, она долго не продержится......"
+line-541,佐菲娅,......看来大家都没事。老弗和科瓦尔去外面查看情况了，一会回来。,Looks like everyone's okay. V and Kowal went to check on the situation. They'll be back later.,"......Кажется, все в порядке. Старик Фред и Коваль ушли на разведку, скоро вернутся."
+line-542,佐菲娅,玛恩纳呢？,Where's Młynar?,А где Марлен?
+line-544,玛莉娅,叔叔待在家里，说是难得可以从工作中解脱出来，想一个人待一会......,"He stayed home. Said it would be difficult to get away from work, and wanted some time alone.","Дядюшка дома, говорит, что это редкая возможность отдохнуть от работы, хочет побыть один......"
+line-545,玛莉娅,闪灵姐姐和夜莺姐姐呢？,What about Shining and Nightingale?,А где сестры Шайнинг и Найтингейл?
+line-547,玛嘉烈,她们担心博士被无胄盟盯上，已经赶回感染者收容中心了。,"They were worried that the Armorless Union might have their sights on the Doctor, and rushed back to the Infected shelter.","Они обеспокоены, что Арбитр может начать охоту на Доктора, и уже вернулись в центр приема зараженных."
+line-549,玛莉娅,......,......,......
+line-551,玛嘉烈,没事的，她们都是很可靠的人。,Don't worry. They're both very dependable.,"Все хорошо, они очень надежные люди."
+line-553,玛莉娅,不......只是......我好像还是不知道姐姐的任何事情......,"No, it's just that... I still don't know anything about the things going on around you.","Нет...... просто...... мне кажется, я до сих пор ничего не знаю о сестре......"
+line-555,玛嘉烈,抱歉，是我坚持不让你们有任何接触的......我不能把博士他们卷入我自己的事情中来。,"Sorry, but I deliberately kept you out of the loop. I can't afford to get Doctor and the others tangled up with my personal affairs.","Прости, это я настояла, чтобы вы не контактировали...... я не могу позволить, чтобы Доктор и остальные оказались втянуты в мои дела."
+line-557,玛嘉烈,但也许迟早有一天，你们会相逢、相识。也许有一天，玛莉娅，你会登上那艘船。,"But maybe one day, you'll get to know each other. Maybe one day, Maria, you'll also find yourself aboard that ship.","Но, возможно, когда-нибудь вы встретитесь и познакомитесь. Возможно, однажды, Мария, ты взойдешь на этот корабль."
+line-559,玛嘉烈,理想者的光辉终究会指引所有人，即使他们的前路各不相同，信念迥异，也没有什么能动摇他们心中的意志。,"Their dazzling idealism will eventually guide everyone forward. Even if they hold vastly different beliefs and walk different paths, nothing can shake the conviction in their hearts.","Сияние идеалистов в конечном итоге направит всех, даже если их пути различны, а убеждения далеки друг от друга, ничто не сможет поколебать волю в их сердцах."
+line-561,玛莉娅,......就像......,That reminds me of...,......Как......
+line-563,玛嘉烈,就像骑士小说里的骑士那样。,The knights from the stories.,Как рыцари из романов.
+line-570,老骑士,我回来了！,I'm back!,Я вернулся!
+line-572,老工匠,真的一片漆黑啊......隔壁卖手电筒的今天都要断货了吧......,"It's pitch black... The flashlight merchant next door should've restocked by now, right?","Действительно полная темнота...... сосед, продающий фонарики, сегодня останется без товара......"
+line-574,光头马丁,玛嘉烈，你来了。,"Oh, it's Margaret.","Маргарет, ты пришла."
+line-576,老骑士,现在外面是一团乱啦，我看，我们就老老实实待在这里，等着电力恢复如何？,"It's an absolute mess outside right now. I say we behave ourselves, stay indoors, and wait for the power to come back.","Снаружи сейчас полный хаос, я думаю, давайте посидим здесь и подождем восстановления электричества, как вам?"
+line-578,老工匠,就干等着？本来今天是不是也有比赛来着？,Just sit here doing nothing? Wasn't there supposed to be a match today?,Просто ждать? Разве сегодня не должны были быть соревнования?
+line-580,玛嘉烈,本来是决出第一个八强骑士的日子。,It was supposed to be the day the eight strongest knights were decided.,Сегодня должен был определиться первый рыцарь в восьмерке лучших.
+line-582,佐菲娅,......你有关注血骑士的动向吗？,Have you seen the latest news of the Blood Knight?,......Ты следишь за действиями Кровавого Рыцаря?
+line-584,玛嘉烈,了解过一些......他是这赛季从选拔阶段到特锦赛的无败王者......不仅如此......,"More or less... He's the undefeated king this season, from the qualifiers to the Major... But beyond that...","Немного узнала...... он непобедимый король этого сезона, от отборочного этапа до турнира...... не только это......"
+line-585,玛嘉烈,他还是感染者的英雄。,He's also the hero of the Infected.,Он еще и герой зараженных.
+line-594,索娜,......我们要去哪儿？不是我抱怨，我真的没有太多时间......,"Where are we going? I'm not complaining, but I really don't exactly have a lot of free time on my hands.","......Куда мы идем? Не жалуюсь, но у меня правда мало времени......"
+line-596,烛骑士,就是这。,We're here.,Сюда.
+line-598,索娜,......冠军墙展厅？,...the Wall of Champions exhibit hall?,......Зал Стены Чемпионов?
+line-600,烛骑士,这是一次秘密的会面，还请您不要声张。,"This is a secret meeting, so try to keep your voice down.","Это тайная встреча, прошу вас, не разглашайте."
+line-602,索娜,是哪个骑士要见我吗？,So which knight wanted to meet me?,Со мной хочет встретиться какой-то рыцарь?
+line-604,烛骑士,骑士吗......说的没错，确实是一位可敬的骑士。,"Knight...? Well, you're not technically wrong. She was indeed a respectable knight.","Рыцарь? Ну, можно и так сказать, это достойный рыцарь."
+line-606,索娜,......,......,......
+line-608,烛骑士,呵呵，别紧张......是位年纪有些大的女士。,"Haha, but don't be nervous... She's just a regular old lady now.","Хе-хе, не волнуйтесь...... это дама в возрасте."
+line-609,烛骑士,你先进去吧。,Head on in.,Заходите.
+line-611,索娜,......你不进来？,You're not coming?,......А ты не пойдешь?
+line-613,烛骑士,她可能是卡西米尔为数不多的几位，让我有些害怕的人呢。,Let's just say... she's one of the few people in Kazimierz who scares me even a bit.,"Она, возможно, одна из немногих в Казимире, кого я побаиваюсь."
+line-615,索娜,哇哦......手握烛剑的烛骑士也会有害怕的人？那我真的没问题吗？,"Wow... Even the Candle Knight, bearer of the Candle Sword, is afraid of someone? What chance do I have then?","Вау...... неужели Рыцарь-Свеча, владеющая свечным мечом, тоже кого-то боится? Тогда со мной все будет в порядке?"
+line-617,烛骑士,......可能不太一样吧。,It probably won't be the same for you.,"......Может быть, все немного иначе."
+line-619,烛骑士,毕竟名义上，她算我的半个养母。,"After all, she counts as my half adoptive mother, at least in name.","В конце концов, номинально она считается моей приемной матерью."
+line-626,索娜,（和联合会一样的紧急电源......没有被大隔断的断电影响吗......）,(It's the same emergency power supply as the K.G.C.C... Was this place not affected by the outage either?),"(Чрезвычайное питание, такое же, как у Объединения...... неужели на него не повлияло отключение при Великом Отсечении......)"
+line-628,索娜,（骑士和......联合会......）,(Both the knights... and the General Chamber...),(Рыцари и...... Объединение......)
+line-629,索娜,（......还在这片黑夜里闪着光。）,(...are still shining through the darkness.),(......Все еще светятся в этой ночи.)
+line-630,索娜,......,......,......
+line-633,,灯光扑闪。,The lights flicker.,Лампы вспыхнули.
+line-634,,打断了索娜的思绪。,And so does Sona's train of thought.,Это прервало мысли Соны.
+line-635,,骑士和资本一并避开了这浓稠的夜色。,"The knights, and the money, were able to avoid the deep night.",Рыцарство и капитал вместе избегали этой густой тьмы.
+line-636,,谁会在今夜溺亡？,Who drowns in the darkness?,Кто утонет этой ночью?
+line-641,年长的骑士,......焰尾骑士，索娜。,Flametail Knight... Sona.,"......Рыцарь Пламенного Хвоста, Сона."
+line-642,年长的骑士,快过来些，让我好好看看你。,Come here and let me have a closer look at you.,"Подойди ближе, дай мне хорошенько на тебя посмотреть."
+line-645,索娜,——！,—!,——!
+line-646,索娜,您、您是......！！,You! You're...!,"Вы, вы......!!"
+line-648,年长的骑士,哎。我今天不是以公务之身来见你的。,"Now, now. I didn't come here today to talk business.",Ай. Я сегодня не по службе к тебе пришла.
+line-649,年长的骑士,我听说了......感染者骑士和监正会的一些骑士，做了笔交易。,I heard... the Infected knights made some kind of deal with the knights of the Adeptus Sprawiedliwi.,Я слышала...... рыцари-зараженные заключили сделку с некоторыми рыцарями из Совета Рыцарства.
+line-650,年长的骑士,是骑士协会和监正会议员，德米安。,"Between the Knights Association and Demian, a member of the Adeptus.","С Ассоциацией рыцарей и членом Совета Рыцарства, Демианом."
+line-652,索娜,......,......,......
+line-654,年长的骑士,感染者为了能在大骑士领活下去，答应在他的配合下，进行了本次行动。,"In order for the Infected to survive in the Grand Knight Territory, they agreed to participate in this operation with his cooperation.","Чтобы выжить в Большом Рыцарском Лене, зараженные согласились провести эту акцию при его содействии."
+line-655,年长的骑士,四城大隔断......监正会默许了这件事再次发生。,"The Great Kawalerielki Separation... the Adeptus gave in, letting it happen once more.","Великое Отсечение четырех городов...... Совет Рыцарства допустил, чтобы это произошло снова."
+line-657,年长的骑士,看看这面墙......这些骑士，他们本该成为真正的英雄，而不是以这种姿态，被人关注。,"Look at this wall... These knights were supposed to become real heroes. Not... this, symbols for spectators to gawk at.","Посмотри на эту стену...... эти рыцари, они должны были стать настоящими героями, а не привлекать к себе внимание в таком виде."
+line-658,年长的骑士,唉，你不感到......悲哀吗？,Does this sight not fill you with great sorrow?,"Эх, тебе не...... печально?"
+line-660,索娜,......悲哀，女士。,"It certainly does, ma'am.","......Печально, госпожа."
+line-662,索娜,但我为感染者们至今仍不能受到公正的待遇而悲哀，为那些沉溺在享乐与欲望之中的人们而悲哀。,"But I feel more sorrow for... the Infected who still need equal treatment, and for those totally lost to entertainment and materialism.","Но мне печально от того, что зараженные до сих пор не получают справедливого отношения, печально за тех, кто тонет в роскоши и желаниях."
+line-663,索娜,为每一个......努力活着，却举步维艰的卡西米尔人......而悲哀。,I cry... for each and every person struggling to make it to the next sunrise here in Kazimierz.,"Печально за каждого...... жителя Казимира, который пытается выжить, преодолевая нечеловеческие трудности."
+line-665,年长的骑士,......真是漂亮的就职演说，小松鼠。,"Truly a spectacular inaugural speech, young squirrel.","......Красивая инаугурационная речь, бельчонок."
+line-667,索娜,监正会能让我们过普通的生活吗？,Can the Adeptus Sprawiedliwi really give us a normal life?,Может ли Совет Рыцарства позволить нам жить обычной жизнью?
+line-669,年长的骑士,手续、公文、国民院认可的法律文件。当然，监正会都会为你办妥。这是老德米安答应你的。,"Paperwork, procedures, any documentation the National Council needs. Of course, the Adeptus will handle it all for you. That is what Demian promised you.","Процедуры, документы, юридические акты, признанные Национальным собранием. Конечно, Совет Рыцарства все для вас оформит. Это то, что старый Демиан обещал тебе."
+line-670,年长的骑士,可你身上的源石结晶呢？,But what about the Originium crystals on your body?,Но что насчет кристаллов ориджиниума на твоем теле?
+line-672,索娜,......,......,......
+line-674,年长的骑士,我欣赏你们，红松骑士团，但是你们必须克服的，是一些更模糊的问题。,"I admire Pinus Sylvestris, but the problems you must overcome... are not so well-defined.","Я восхищаюсь вами, Рыцари Красного Сосны, но то, что вам предстоит преодолеть — это более абстрактные проблемы."
+line-675,年长的骑士,之后，德米安会和你们对接的。就相信他吧，虽然办法笨了点，但他有的是想法。,"In time, Demian will reach out to you. He may not be the sharpest tool in the shed, but trust him. He has his ways.","Позже Демиан свяжется с вами. Просто поверьте ему, пусть методы у него и неуклюжие, зато идей хоть отбавляй."
+line-677,索娜,......好。,Alright.,......Хорошо.
+line-679,年长的骑士,......好了，我的骑士团也快到了，赶紧去找你的同伴们会合吧。,"Good. My knightclub will be here shortly, so hurry and find your companions.","......Ну, мой отряд тоже скоро прибудет, поторопись встретиться со своими товарищами."
+line-680,年长的骑士,还有，告诉薇薇安娜一声，让她偶尔有空也来陪我吃顿饭吧。,"Also, tell Viviana to come and have a meal with me when she's not busy.","И еще, передай Вивианне, пусть при случае заглянет ко мне на обед."
+line-682,索娜,......,......,......
+line-684,索娜,............骑士意味着什么，女士？,".........Ma'am, what does it mean to be a knight?","............Что означает быть рыцарем, госпожа?"
+line-686,年长的骑士,每个人都有不一样的答案，孩子。,"The answer to the question is different for everyone, child.","У каждого свой ответ, дитя."
+line-687,年长的骑士,你不会想听到我的答案的，我们这些老家伙呀，走过太多的路啦。,"You wouldn't be interested in mine anyway. Us old folks, we've seen too much.","Ты не захочешь слышать мой ответ, мы, старики, прошли слишком много дорог."
+line-689,年长的骑士,走吧，小松鼠，走吧。,"Go, little squirrel, go.","Иди, бельчонок, иди."
+line-690,年长的骑士,去看看卡西米尔的朝阳，是不是还那样炽热。,See if the sunrise in Kazimierz still blazes ever-bright.,"Посмотри на утреннее солнце Казимира, такое же ли оно жаркое."
+line-697,罗伊,......追丢了啊。,...I lost her.,......Потерял след.
+line-699,罗伊,之后再发布围剿任务比较有效率吗......,Would it be more efficient to post a surround and suppress mission later?,Будет ли эффективнее выпустить задание на облаву позже......
+line-701,罗伊,是我，怎么了吗？,I'm here. What's the matter?,"Это я, что случилось?"
+line-704,罗伊,......什......多少？,What...? How many?,......Чт...... сколько?
+line-726,逐魇骑士,......卓越的剑术。,Exceptional swordsmanship.,......Превосходное фехтование.
+line-728,托兰,唉，我可不想继续陪你浪费时间啊，骑士老兄。,"Ahh, I'd prefer not to waste any more time here with you, old friend.","Эх, не хочу тратить на тебя время, дружище-рыцарь."
+line-730,莫妮克,......这个疯子......,Goddamned maniac...,......Этот сумасшедший......
+line-732,莫妮克,杀了托兰之后，就立刻撤退好了。,I'd best get out of here after I kill Toland.,Убью Торана и сразу отступлю.
+line-735,莫妮克,......我在陪“公会领袖”和梦魇捉迷藏，有什么事一会再说。,I'm in a game of hide-and-seek with the 'Guildmaster' and a Nightzmora. Not the best time to chat.,"......Я играю в прятки с «лидером гильдии» и кошмаром, поговорим позже."
+line-737,莫妮克,......,......,......
+line-740,莫妮克,不......我立刻就去。,No... I'll head there now.,Нет...... сейчас иду.
+line-743,莫妮克,游戏到此为止了，托兰。,"Let's wrap up our little game, Toland.","На этом игры закончены, Торан."
+line-745,托兰,你要逃走？,You're running?,Ты собираешься сбежать?
+line-747,莫妮克,不。,No.,Нет.
+line-748,莫妮克,还有你也是，梦魇。,"Same goes for you, Nightzmora.","И ты тоже, Кошмар."
+line-751,托兰,——！你是梦魇！？,What? You're a Nightzmora?!,——! Ты — Кошмар!?
+line-753,逐魇骑士,......,......,......
+line-755,莫妮克,暂时停手吧。,Let's call it here for now.,Прекратите на время.
+line-756,莫妮克,你是......来卡瓦莱利亚基寻找同胞和试炼的，对吧？,"You came to Kawalerielki to find your people and a good fight, right?","Ты...... пришел в Кавалерини в поисках сородичей и испытаний, так ведь?"
+line-758,逐魇骑士,别把荣耀的传统说得如此轻浮，卡西米尔人，你没有这个资格。,"Don't speak so lightly of our tradition of glory, Kazimierzian. You don't have that right.","Не говори о славных традициях так легкомысленно, казимирка, у тебя нет на это права."
+line-760,莫妮克,不，只是好心提醒你一句，梦魇。,"No, I'm just offering you a warning, Nightzmora, out of the kindness of my heart.","Нет, просто по-доброму напоминаю, Кошмар."
+line-761,莫妮克,别在我们这里白费力气。,Don't waste your energy on us.,Не трать свои силы здесь понапрасну.
+line-763,托兰,这倒是句公道话。,I can agree with that.,А вот это справедливо.
+line-765,逐魇骑士,......无凭无据......,Boastful nonsense.,......Без доказательств......
+line-767,莫妮克,......哼，后会无期，蠢货。,"Hmph. See you never, dumbass.","......Хм, больше не увидимся, идиот."
+line-774,企业员工,交通还没恢复吗？我听说有些地方已经通电了啊......,Is the traffic still stuck? I heard the power's already come back in some places.,"Движение еще не восстановили? Я слышал, в некоторых местах уже включили свет......"
+line-776,卡西米尔骑士,这么大的损失，难道骑士协会不应该赔偿我们吗！,Shouldn't the Knights Association compensate us for our terrible losses?!,"Такой огромный ущерб, разве Ассоциация рыцарей не должна нам компенсировать?"
+line-778,游客,说得没错！政府应该补偿旅游津贴！,Yeah! The government should pay us back our travel expenses!,Верно сказано! Правительство должно выплатить компенсацию за турпоездку!
+line-780,企业员工,唉......冰箱里的鲜肉没问题吧......,Ugh... I hope the meat in the fridge didn't go bad.,"Эх...... интересно, мясо в холодильнике еще не испортилось......"
+line-784,莫妮克,......确定了吗？,Are you sure?,......Уверена?
+line-786,罗伊,唉。,Sigh...,Эх.
+line-787,罗伊,你知道吗，他们中的任何一个人，我们都可以独自解决。,"You know, we can take out any single one of their people, alone.","Знаешь, с любым из них мы могли бы справиться в одиночку."
+line-788,罗伊,但两个人，就需要我们联手。,"Two of them, we'll need to bring help.",Но против двоих нам придется объединиться.
+line-789,罗伊,三个人，将是一场空前绝后的苦战。,"Three of them, and it's going to be one hell of a rough battle.","Трое — это будет битва не на жизнь, а на смерть."
+line-790,罗伊,如果是三个及以上......那可以视作一支战术小队了，无胄盟承担不起这个损失。,"If there's three or more of them... that could take a full tactical squad, and the Armorless Union can't afford those losses.","А если трое и больше...... это можно считать тактической группой, Арбитр не выдержит таких потерь."
+line-791,罗伊,要是超过双手之数，把无胄盟全体成员叫上，怕是都不够他们杀的。,"If there's more of them than you can count on your fingers, calling in the entire Armorless Union might not even be enough to put them down.","А если их больше десяти, то даже если созвать всех членов Арбитра, боюсь, нас не хватит, чтобы они нас перебили."
+line-793,莫妮克,这我知道，我还是见过他们的，不劳你好心提醒了。,"I know, I've seen them before. Your concern is better placed elsewhere.","Я знаю, я их видела, не утруждай себя напоминаниями."
+line-794,莫妮克,岗哨看到多少人？,"So, how many did the scouts see?",Сколько человек увидел пост?
+line-796,罗伊,四十来个。,Roughly forty.,Около сорока.
+line-798,莫妮克,太糟糕了......在这个节骨眼？,Well shit... Right at this juncture?,Ужасно...... в такой момент?
+line-800,罗伊,......是啊。已经通知董事会了。,Yes. I've already notified the Board of Directors.,......Да. Уже уведомили совет директоров.
+line-801,罗伊,他们是想攻陷四城联合吗？,Do they intend to capture the Kawalerielki Alliance?,Они хотят захватить Четырехгородское объединение?
+line-809,发言人麦基,......这不可能！,Impossible!,......Это невозможно!
+line-810,发言人麦基,不，这不可能......军事顾问呢！监视征战骑士的人呢！？,"No, this can't be! Where are the military consultants? Where are the people monitoring the knights?!","Нет, это невозможно...... где военные советники? Где те, кто следит за рыцарями-завоевателями!?"
+line-811,发言人麦基,之前监正会调动的那批征战骑士，上一次汇报的时候他们在哪里？,Those campaign knights dispatched by the Adeptus Sprawiedliwi... Where were they in the last report?,"Та партия рыцарей-завоевателей, которую мобилизовал Совет Рыцарства, где они были в последний раз в отчетах?"
+line-812,发言人麦基,......五百七十三公里。,Five hundred and seventy-three kilometers.,......Пятьсот семьдесят три километра.
+line-814,发言人麦基,常规征战骑士小队的行军速度不可能来得及......太快了，这太快了......,There's no way a normal squad of campaign knights would be able to march that fast... It's impossible...,"Обычный отряд рыцарей-завоевателей не мог так быстро маршировать...... слишком быстро, это слишком быстро......"
+line-815,发言人麦基,难道监正会背着联合会，调动了另一支？不对，这不可能......,"Did the Adeptus mobilize another branch behind the General Chamber's back? No, that can't be...","Неужели Совет Рыцарства за спиной Объединения мобилизовал еще один? Нет, это невозможно......"
+line-817,发言人麦基,......慢着。,Wait.,......Подожди.
+line-818,发言人麦基,......银枪皮加索斯的急行军......最快的一次记录是多少......？,The Silverlance fast-response squad... What's their fastest record?,......Марш Серебряного Копья Пегаса...... какой у них был самый быстрый зафиксированный рекорд......?
+line-821,发言人麦基,可......他们......伪装了自己的军队识别码......？甚至，伪装了自己的甲胄和长枪？,Could they have disguised their military identification code? And even their armor and lances?,Но...... они...... замаскировали идентификационный код своей армии......? Даже свои доспехи и копья?
+line-828,卡西米尔骑士,嗯？是不是亮一些了？,"Hm? It's a little brighter now, isn't it?",Хм? Светло как-то стало?
+line-830,企业员工,看那边！路那头的光芒！那边一定是恢复电力了！,Look over there! That little halo of light on the other side of the road! The power must've come back over there!,"Смотри туда! Свет в конце дороги! Должно быть, там восстановили электричество!"
+line-832,游客,但是......灯还是灭的......,But... the lights still won't turn on...,Но...... лампы все еще не горят......
+line-833,游客,那更像是......月光......？,That looks a lot more like... moonlight?,Это больше похоже на...... лунный свет......?
+line-837,,月光。,Moonlight.,Лунный свет.
+line-838,,通电玻璃管的兴盛让现代人逐渐遗忘了月光原本的模样。,The prosperity afforded by the advent of the energized glass tubes gradually led to modern man forgetting the appearance of the primordial moonlight.,"Процветание электрических стеклянных трубок заставило современных людей забыть, как на самом деле выглядит лунный свет."
+line-839,,这座片刻黑暗的城市——,"This city, engulfed in a brief moment of darkness––",Этот город на мгновение погрузился во тьму——
+line-840,,——已经被银光照亮。,––is illuminated by a silver glow.,——И был озарен серебряным светом.
+line-849,围观的路人,.....................那、那也是骑士？,Are..... are those knights over there?,".....................Э, это тоже рыцари?"
+line-850,卡西米尔骑士,征、征战骑士！？在这里！？,Th-The campaign knights?! Here?!,Р-рыцари-завоеватели!? Здесь!?
+line-852,,骑士穿过人群。,The knights pass through the crowd.,Рыцари проходят сквозь толпу.
+line-853,,穿过这座被誉为骑士之城的城市。,Through the city known as the City of Knights.,"Сквозь город, известный как город рыцарей."
+line-854,,城市不承认这群骑士。,Through the city that does not recognize them.,Город не признает этих рыцарей.
+line-855,,正如骑士也不承认这座城。,Through the city that they do not recognize.,"Так же, как рыцари не признают этот город."
+line-856,,他们从遥远的边境要塞而来。,They came from a faraway fortress close to the border.,Они пришли из далеких пограничных крепостей.
+line-857,,他们的身上沾染着清晰可闻的泥土气息。,Their bodies are stained with the clear and tangible scent of the soil.,От них исходит отчетливый запах земли.
+line-858,,夹杂着血肉，白骨，埋葬在战场上的无数英豪。,"A scent mixed with flesh, blood, bones, and the lives of countless heroes buried on battlefields past.","Смешанный с плотью, костями, бесчисленными героями, похороненными на поле боя."
+line-866,罗伊,......通知无胄盟全体成员，不管手头有什么活儿，全部停下。,"Inform all members of the Armorless Union to stop whatever they're doing this instant, no matter what it is.","......Уведомить всех членов Арбитра, неважно, какая у них работа, немедленно прекратить."
+line-867,罗伊,不想惹麻烦就什么都别做，绝对别轻举妄动。,Do not make any moves unless you want trouble. Do not act rashly.,"Если не хотите неприятностей, ничего не делайте, абсолютно никаких действий."
+line-869,莫妮克,唔。,Hmm.,Угх.
+line-871,罗伊,莫妮克？,Monique?,Моника?
+line-873,莫妮克,那边......那个人......,That one... over there...,Там...... этот человек......
+line-879,玛恩纳,......,......,......
+line-881,托兰,......怀念吗？,Nostalgic?,......Тоскуешь?
+line-883,玛恩纳,不。,No.,Нет.
+line-885,托兰,......我倒是很怀念。,...I certainly am.,......А я тоскую.
+line-886,托兰,怀念那个......还误以为这片大地没那么糟糕的时候，那本来是个意气风发的时代。,I miss... that time when I stupidly thought this place wasn't so bad. Those were good times. Exciting times.,"Тоскую по тем временам...... когда ошибочно полагал, что этот мир не так уж плох, это была эпоха, полная энтузиазма."
+line-888,玛恩纳,......,......,......
+line-890,托兰,如果你真的没有任何想法，你是不会出现在这里的，对吧？,"If you had really given up, then you wouldn't still be here, would you?","Если бы у тебя не было никаких мыслей, тебя бы здесь не было, верно?"
+line-892,托兰,玛恩纳，看看四周吧，这座城市睡着了，谁也未曾想过。,"Młynar, take a good look all around you. The city sleeps, and nobody has ever even woken up.","Марлен, посмотри вокруг, этот город спит, никто и не подозревал."
+line-893,托兰,可你呢？,But what about you?,А ты?
+line-901,企业员工,报告！已经修复了一部分通讯线路——！,Reporting! A portion of the communications lines are back––!,Докладываю! Частично восстановили линии связи——!
+line-903,发言人麦基,——接通国民院副审官。,––Connect me to the associate justice of the National Council.,——Соедините с заместителем судьи Национального собрания.
+line-905,企业员工,是。,Yessir.,Есть.
+line-908,发言人麦基,......副审官阁下？,Your honor?,......Господин заместитель судьи?
+line-909,发言人麦基,你知道我要说什么，这批征战骑士未经许可进入大骑士领，已经触犯了第二法案的——,"You already know what I'm about to say. This band of campaign knights trespassed into the Grand Knight Territory without authorization, violating the Second Act––","Вы знаете, что я собираюсь сказать, эти рыцари-завоеватели вошли в Большой Рыцарский Лен без разрешения, это нарушение второго закона——"
+line-911,电话那头的声音,前国民院副审官杜克，涉嫌受贿、参与非法贸易、谋杀和渎职等多项罪名，已被依法拘留。,"Former Associate Justice Duke of the National Council, has been detained on suspicion of bribery, smuggling, murder, and dereliction of duty.","Бывший заместитель судьи Национального собрания Дьюк, подозреваемый в коррупции, участии в незаконной торговле, убийствах и должностных преступлениях, задержан в соответствии с законом."
+line-913,发言人麦基,......,......,......
+line-915,电话那头的声音,冷静选择你说的每一句话，发言人阁下。,"I would advise you to choose your words calmly and carefully, Spokesman.","Тщательно подбирайте каждое слово, господин представитель."
+line-916,电话那头的声音,大骑士领因大断电处于紧急状态，监正会有权在城市处于紧急状态时派军入驻。,"The Grand Knight Territory is in a state of emergency due to a blackout, and the Adeptus Sprawiedliwi has the authority to send troops into the city during a state of emergency.","Большой Рыцарский Лен находится в чрезвычайном положении из-за отключения электричества, Совет Рыцарства имеет право вводить войска, когда город находится в чрезвычайном состоянии."
+line-917,电话那头的声音,还有什么疑问吗？,Do you have any further questions?,Есть еще вопросы?
+line-919,发言人麦基,......没有。打扰了，先生。,"None. I apologize for the intrusion, sir.","......Нет. Беспокою, господин."
+line-922,发言人马克维茨,......麦基先生。,Mr. McKee.,......Мистер Макки.
+line-924,发言人麦基,......嗯。,Yes?,......М-м.
+line-926,发言人马克维茨,通讯基本恢复了，麦基先生。,"Communications are more or less restored, Mr. McKee.","Связь почти восстановлена, мистер Макки."
+line-927,发言人马克维茨,看看他们忙碌的样子......你觉得电话是什么？,Look how busy they are over there... What do you think a phone is?,"Посмотрите, как они заняты...... как вы думаете, что такое телефон?"
+line-929,发言人麦基,......？当然是通讯工具......,Huh? Obviously a communication tool...,"......? Разумеется, средство связи......"
+line-931,发言人马克维茨,不。电话是现代社会的纺锤与犁，是编织这个现代社会的渠道。,"No. The phone is the spindle and plough of modern society, the pathway that weaves the fabric of life as we currently know it.","Нет. Телефон — это веретено и плуг современного общества, канал, ткущий это современное общество."
+line-932,发言人马克维茨,是伟大的象征，麦基先生。,"It is a symbol of greatness, Mr. McKee.","Это великий символ, мистер Макки."
+line-934,发言人麦基,......,......,......
+line-936,,麦基一言未发。,McKee's words fail him.,Макки не произнес ни слова.
+line-937,,他只是突然从马克维茨身上感到了一种气势。,"Suddenly, he senses an aura of sorts from Malkiewicz.","Он просто внезапно почувствовал некую силу, исходящую от Марковица."
+line-938,,这个数月前创业失败，一事无成，唯唯诺诺的人身上，有一种近乎天然的气势。,"Over the last few months, a business venture failed spectacularly, amounting to nothing. Those who have been whipped almost naturally give off a certain kind of aura.","В этом человеке, который несколько месяцев назад провалил стартап, был ни на что не годен и был робким, скрывалась почти природная сила."
+line-939,,他曾在不少人身上看到过这种气势。,He has seen this kind of aura in many people before.,Он замечал такую силу у немалого числа людей.
+line-940,,他们大都在变迁与博弈中血肉模糊，至于活下来的那些——,Most of them were chewed up and mangled by the changing times or by the competition. As for the few who survived––,"Большинство из них превращались в кровавое месиво в процессе перемен и борьбы, а что касается тех, кто выжил——"
+line-941,,——几乎都成为了某种形态的一部分。,––nearly all of them turned out the same.,——почти все они стали частью некоей формы.
