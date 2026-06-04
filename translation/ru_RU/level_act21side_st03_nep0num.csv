@@ -1,0 +1,335 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act21side
+__chapter__,,Chapter Name,activities/act21side/level_act21side_st03,剜刺
+,,,,
+char-1,卢比奥之女,卢比奥之女,Rubio's Daughter,Дочь Рубио
+char-2,拉维妮娅,拉维妮娅,Lavinia,Лавиния
+char-3,贝洛内家族成员,贝洛内家族成员,Bellone Mafioso,Член семьи Беллоне
+char-4,卢比奥,卢比奥,Rubio,Рубио
+char-5,能天使,能天使,Exusiai,Экзузиай
+char-6,空,空,Sora,Сора
+char-7,德克萨斯,德克萨斯,Texas,Техас
+char-8,收音机,收音机,Radio,Радио
+char-9,贝纳尔多,贝纳尔多,Bernardo,Бернардо
+char-10,莱昂图索,莱昂图索,Leontuzzo,Леонтузо
+char-11,家族成员,家族成员,Mafioso,Член семьи
+char-12,拉普兰德,拉普兰德,Lappland,Лаппланд
+char-13,忠诚的家族成员,忠诚的家族成员,Loyal Mafioso,Преданный член семьи
+char-14,阿尔贝托,阿尔贝托,Alberto,Альберто
+char-15,洗车工,洗车工,Carwash Worker,Мойщик машин
+,,,,
+line-17,卢比奥之女,啊，真的是法官阁下！,"Oh, you really came, Judge Lavinia!","А, правда, господин судья!"
+line-19,拉维妮娅,你就是卢比奥阁下的女儿，是吗？,"You must be Segretario Rubio's daughter, yes?","Ты ведь дочь господина Рубио, верно?"
+line-21,卢比奥之女,是的......我还以为，父亲跟我说您会来照看我是在开玩笑。,Yeah! I thought my father was just joking around when he said you'd come babysit me!,"Да... я думала, что отец шутил, когда говорил, что вы присмотрите за мной."
+line-23,卢比奥之女,我和我朋友都特别崇拜您。,My friends and I all adore you.,Мы с друзьями просто восхищаемся вами.
+line-25,卢比奥之女,和我父亲那样的人一比，您简直就是政府里唯一的清流。,"Compared to people like my father, you're like, the only clean person in the government.","По сравнению с такими людьми, как мой отец, вы — единственный луч света в нашем правительстве."
+line-27,拉维妮娅,......你和卢比奥先生关系不好吗。,Do you not get along well with your father?,...У тебя плохие отношения с господином Рубио?
+line-29,卢比奥之女,......谈不上好不好。,"Meh, so-so, I guess.","...Не сказала бы, что плохие или хорошие."
+line-31,卢比奥之女,我还是挺喜欢父亲的，因为他时间总是很多，经常陪我玩。,"I still like him as a person, because he always makes time for me and plays with me a lot.","Я всё ещё очень люблю отца, у него всегда было много времени, и он часто играл со мной."
+line-33,卢比奥之女,但是，现在我也觉得，父亲这样只知道所谓明哲保身的人，实在是太没有志气了。,"But you know, I think people like him, who only care about protecting themselves and not rocking the boat, really should have bigger goals in life.","Но сейчас я тоже считаю, что отец — человек, который знает лишь как выживать, проявляя осторожность, — просто не имеет никаких амбиций."
+line-35,卢比奥之女,曾经和他一起从基层做起的同僚，现在都飞黄腾达了。,His old work friends who started out on the same level as him are way up there now.,"Его бывшие коллеги, которые начинали с самых низов вместе с ним, давно преуспели."
+line-37,卢比奥之女,只有他到了这个岁数才混了一个边缘的职位，而且一点上进心都没有。,"It took him this long to land a half-decent job, and he doesn't want to do anything more with it.","Только он к своим годам смог получить лишь второстепенную должность, и у него совершенно нет стремления к росту."
+line-39,拉维妮娅,他曾经的同僚？,His old work friends?,Его бывшие коллеги?
+line-41,卢比奥之女,是啊，前阵子死掉的那个建设部部长卡拉奇就是。,"Yeah, one of them was Carracci, Ministro dei Lavori Pubblici, who just died not too long ago.","Да, например, недавно погибший министр строительства Караччи."
+line-43,拉维妮娅,那是个危险的位置。,It's a dangerous job.,Это была опасная должность.
+line-45,卢比奥之女,我知道......但是，我天天都能在电视上看到那个人，而且大家族的人都会对他有所礼让。,"I know... But, I saw him on TV every day, and wise guys from all the big famiglie treated him really well.","Я знаю... но я каждый день видела этого человека по телевизору, и люди из Великих семей относились к нему с почтением."
+line-47,卢比奥之女,您不觉得，如果要当官的话，就得做到那种地步才有意义吗？,"I dunno, I just think it doesn't make sense trying to be a politician if you can't make it to that level.","Разве вы не считаете, что если уж идти на госслужбу, то только ради того, чтобы достичь таких высот?"
+line-49,拉维妮娅,或许吧。,That might be true.,Возможно.
+line-51,卢比奥之女,所以，父亲这次忽然接任了建设部部长的位置，我其实是很惊讶的。,"So, that's why I was really surprised when my father suddenly decided to become the new Ministro dei Lavori Pubblici.","Поэтому я очень удивилась, когда отец внезапно принял пост министра строительства."
+line-53,卢比奥之女,不知道他怎么就忽然开窍了......要是他早点这么做，母亲也不会和他离婚了吧。,"I'm not sure what finally made things click for him... But if he did it sooner, my mother probably wouldn't have divorced him.","Не знаю, что на него нашло... если бы он сделал это раньше, мама, возможно, не развелась бы с ним."
+line-55,拉维妮娅,离婚？,Divorced?,Развелись?
+line-57,卢比奥之女,是啊，母亲也觉得父亲太窝囊了，所以前几年和他离婚了。,"Yeah, she thought he was a good-for-nothing, so she left him a few years ago.","Да, мама тоже считала отца бесхребетным, поэтому несколько лет назад ушла от него."
+line-59,卢比奥之女,不过，我母亲性格也不太好，所以我最后还是选择了跟着父亲。,"But my mother has a temper, so I decided to stay with my father.","Впрочем, у моей матери тоже характер не подарок, так что в итоге я решила остаться с отцом."
+line-61,卢比奥之女,对了，法官阁下，您一定知道父亲是怎么被选为建设部部长的吧，跟我说说吧。,"Oh, by the way, you know how he got appointed ministro, right? Can you tell me more about it?","Кстати, господин судья, вы ведь наверняка знаете, как отца выбрали на пост министра строительства? Расскажите мне."
+line-63,拉维妮娅,......抱歉，我不知道。,"Sorry, I actually don't know anything...","...Прости, я не знаю."
+line-65,卢比奥之女,欸，好吧。,"Aww, okay then.","Эх, ну ладно."
+line-67,卢比奥之女,那您在房间里随便坐坐吧。,"Anyway, you can sit anywhere you'd like.","Тогда присаживайтесь, чувствуйте себя как дома."
+line-69,卢比奥之女,今天，我也不打算出去，就打算听一听父亲的就职演讲。,"I'm not going anywhere today, but I do want to listen to my father's inaugural speech.","Сегодня я не планирую выходить, хочу послушать инаугурационную речь отца."
+line-71,拉维妮娅,......,......,...
+line-77,拉维妮娅,（卢比奥部长的房间......比想象中的整洁。）,(Segretario Rubio... keeps his room tidier than I would've expected.),"(Комната министра Рубио... она гораздо опрятнее, чем я думала.)"
+line-79,卢比奥之女,很奇怪吧，父亲看起来是个邋遢的人，其实生活很规律。,"You're surprised too, huh? He probably seems like he'd be a total slob, but he keeps things pretty organized.","Странно, да? Отец кажется неряшливым, но на самом деле он живёт по строгому распорядку."
+line-81,卢比奥之女,对了，他还有写日记的习惯。,"Oh right, and he keeps a diary.","Кстати, у него была привычка вести дневник."
+line-83,拉维妮娅,日记？,Really?,Дневник?
+line-85,卢比奥之女,对，我记得，对了，就摆在这里。,"Yeah, lemme think... Right, he keeps it over here.","Да, помню... а, вот он, лежит здесь."
+line-87,卢比奥之女,说是日记，其实我看他是想到了才会写一点上去。,He only writes in it when he feels like it. It's not an every day thing.,"Если это вообще можно назвать дневником; кажется, он писал в него только тогда, когда приходило вдохновение."
+line-89,卢比奥之女,这些年断断续续加起来也就写了这么一些。,"After years of jotting stuff down, he's still got all these blank pages.",За все эти годы накопилось лишь столько.
+line-91,拉维妮娅,随便看没关系吗？,Does he not care if you snoop around his things?,"Ничего, если я посмотрю?"
+line-93,卢比奥之女,没事的，父亲放在这里，就是不介意别人看到。,It's totally fine. He left it there because he doesn't mind people reading it.,"Всё в порядке, раз отец оставил его здесь, значит, он не против, чтобы другие его читали."
+line-95,卢比奥之女,我看过几次，上面写的都是些无聊的东西，要我说呀，就是一本活脱脱的中年男人生活实录，枯燥又冗长。,"I've flipped through it a few times, but it's all boring stuff. I'd call it like, chronicles of a middle-aged man? Boring, it drags on and on.","Я заглядывала пару раз — там написаны всякие скучные вещи. По мне, так это просто запись жизни обычного мужчины средних лет: нудная и затянутая."
+line-97,卢比奥之女,您要是有兴趣，尽管看。,You can take a look if you want.,"Если вам интересно, читайте сколько хотите."
+line-99,拉维妮娅,......,......,...
+line-104,,3月5日,March 5th,5 марта
+line-105,,餐厅偶遇卡拉奇，久违地一起小酌了一杯。,I ran into Carracci at a restaurant. We had a drink for the first time in a long while.,"Случайно встретил Караччи в ресторане, давненько мы не выпивали вместе."
+line-106,,念及往事，不禁潸然泪下。,"Reminiscing about old times, I couldn't help but to get teary-eyed.","Вспоминая прошлое, невольно прослезился."
+line-115,贝洛内家族成员,卢比奥先生，这里就是您发表演讲的地方了。,"Signor Rubio, this is where you'll be giving your speech.","Мистер Рубио, это то самое место, где вы произнесете речь."
+line-117,卢比奥,都出去吧。,Please leave me.,Выходите все.
+line-119,贝洛内家族成员,但......我们接到的命令是保护您。,But we've got orders to protect you.,Но... мы получили приказ охранять вас.
+line-121,卢比奥,没有人进得来，不是吗？,"Nobody could get in here, right?","Никто ведь не сможет войти, верно?"
+line-123,贝洛内家族成员,我知道了。,Right. Okay.,Я понял.
+line-129,卢比奥,......,......,...
+line-131,卢比奥,啧啧，权力。,"Hmph. Power, huh.","Тц-тц, власть."
+line-139,卢比奥,用沙发把门堵住......能做的也就只有这么多了。,Now I'll barricade the door with the sofa... This is about as much as I can do.,"Заблокировать дверь диваном... это всё, что я мог сделать."
+line-141,卢比奥,然后嘛......,Okay...,А дальше...
+line-143,卢比奥,卡拉奇，再等我一会儿，马上我就来陪你了。,"Well, Carracci, I won't keep you waiting much longer. See you soon.","Караччи, подожди меня ещё немного, я скоро составлю тебе компанию."
+line-157,能天使,怎么样了？,How's it looking?,Как он?
+line-159,空,......医生说，对方下手的位置恰好偏离了心脏几厘米，所以没有立刻致死。,"The doctor says the strike just missed her heart by a few centimeters, so she didn't die instantly.","...Врач сказал, что рана пришлась в нескольких сантиметрах от сердца, поэтому смерть не наступила мгновенно."
+line-160,空,但是情况还是很不好。,"But, she's still in really bad shape.",Но состояние всё ещё тяжёлое.
+line-161,空,德克萨斯呢？,Where's Texas?,А Техас?
+line-163,能天使,嗯......,Umm...,М-м...
+line-169,德克萨斯,......,......,...
+line-171,能天使,从昨天回来开始就一副失魂落魄的样子。,She's been in a stupor ever since she got back yesterday.,"С тех пор как она вернулась вчера, ходит сама не своя."
+line-173,能天使,坐在那里，一动不动，让她吃饭也没有反应。,She just sits there motionless. Won't even respond when I ask if she wants to eat.,"Сидит там, не шевелится, на предложение поесть никак не реагирует."
+line-175,空,......让她好好想一想吧，我和可颂继续在医院守着，她就交给你了。,"Just give her some time. Croissant and I will guard the hospital, so please take care of her.","...Пусть обдумает всё как следует. Мы с Кроссан продолжим дежурить в больнице, а её оставь на себя."
+line-177,能天使,放心，你们在医院也注意安全。,No need to worry about me. You two look after yourselves.,"Хорошо, вы тоже берегите себя в больнице."
+line-183,能天使,......唉，好无聊。,*sigh*... So bored.,"...Эх, скука."
+line-185,能天使,对了，我记得今天好像有什么演讲？,"Oh right, I heard there was supposed to be some speech today?","Кстати, сегодня, кажется, должна быть какая-то речь?"
+line-187,能天使,听听看好了。,Maybe I'll give it a listen.,Послушаю-ка я.
+line-192,收音机,各位亲爱的市民朋友们，你们好。,"Buongiorno, my dear friends and citizens.","Приветствую вас, дорогие граждане."
+line-194,收音机,想必你们之中的大部分对我并不了解，这不奇怪。,"I imagine most of you don't know much about me, and I can't blame you for that.","Полагаю, большинство из вас меня не знает, и это неудивительно."
+line-196,收音机,毕竟我在过去担任了食品安全部部长这样一个并不重要的职位。,"After all, I came held very minor and unimportant role of Segretario di Sicurezza Alimentare before this.","В конце концов, я занимал незначительную должность министра продовольственной безопасности."
+line-198,收音机,实际上，我想，大部分市民朋友，除了前任部长卡拉奇以及我们的拉维妮娅法官，恐怕对我们的政府知之甚少。,"In fact, I believe that most of our dear citizens, apart from the late Ministro Carracci and the honorable Judge Lavinia, know very little about our government.","На самом деле, думаю, большинство горожан, помимо бывшего министра Караччи и нашего судьи Лавинии, вряд ли знают хоть что-то о нашем правительстве."
+line-200,收音机,我与法官阁下并不熟，但是，我与卡拉奇前部长，倒是有些交流。,"I do not know Judge Lavinia very well, but I do have somewhat of a history with the late Ministro Carracci.","Я не был близко знаком с госпожой судьёй, но с бывшим министром Караччи нас связывало общение."
+line-202,收音机,我想，今天的演讲，就从这位大家都熟知的人开始讲起吧。,"I believe it would be appropriate to begin my speech with him, a figure everyone here should already be familiar with.","Думаю, сегодняшнюю речь стоит начать именно с этого человека, которого все так хорошо знали."
+line-211,收音机,我与卡拉奇是同期进入市场监管局的。,Carracci and I both joined L'Autorità Garante della Concorrenza e del Mercato around the same time.,Мы с Караччи пришли в Управление по надзору за рынком одновременно.
+line-213,收音机,他身强力壮，精力充沛，负责实地考察，而我则在后方进行一些文书工作。,"He was strong and energetic, taking care of the fieldwork while I handled the paperwork behind the scenes.","Он был крепким и энергичным, отвечал за полевые проверки, а я занимался бумажной работой в тылу."
+line-215,收音机,他在当时就以敢说敢做而闻名系统内，连大家族他都敢惹。,"He became known within the system for his bold words and actions, and he even dared to challenge prominent famiglie.","Уже тогда он был известен своей прямотой и решительностью, он не боялся бросать вызов даже Великим семьям."
+line-217,收音机,说实在的，他也算是命硬，有好几次差点就被对他不满的家族给除掉了，要么被他躲了过去，要么被他扛了下来。,"To be perfectly honest, it seemed like the guy was indomitable. He was almost taken out a few times by dissatisfied famiglie, but managed to weather the storm or push through the situation.","Честно говоря, у него была завидная живучесть. Несколько раз он был на волосок от гибели из-за недовольства семей, но либо уворачивался, либо выдерживал удар."
+line-219,收音机,总之，当时，局里都把他当做一个刺头，没人想帮他。,"But at the time, L'Autorità staff saw him as a pain, and nobody wanted to help him.","Короче говоря, тогда в управлении его считали занозой, и никто не хотел ему помогать."
+line-221,收音机,于是，给他上报工作的任务，就丢给了同样不受待见的我。,"So the job of reporting to him naturally fell to me, unpopular as I was.","Поэтому задачу готовить для него отчеты свалили на меня, который тоже не пользовался особым расположением."
+line-223,收音机,给他上报工作，可是费了我好大的功夫。,"And let me tell you, that job took a whole lot out of me.",Подготовка отчетов для него стоила мне огромных усилий.
+line-225,收音机,但是，做这项工作又给了我一些成就感。,"But at the same time, it filled me with a sense of accomplishment.",Однако эта работа приносила мне удовлетворение.
+line-227,收音机,虽然我没有办法像他那样直接，但是他替我做了我想做的事，我能在这方面帮衬他，也算是一种回报。,"Though I could never be as direct and straightforward as him, I could do what I wanted to do through him vicariously, and that was a reward in itself.","Пусть я и не мог быть таким же прямолинейным, как он, но он делал то, что хотел сделать я, и возможность помочь ему в этом была своеобразной наградой."
+line-229,收音机,一来二去的，我们也算是熟络了起来。,"Throughout this process, the two of us became fairly well-acquainted.",Так мы постепенно сблизились.
+line-234,贝纳尔多,莱昂，你这两年也在卡拉奇身边做事，我知道你对他评价很高。,"Leon, you were working with Carracci for the last two years, and I know you thought highly of him.","Леон, последние пару лет ты работал с Караччи, я знаю, что ты был о нём высокого мнения."
+line-236,贝纳尔多,你所知道的他，是什么样的人？,Does this account match with what you knew of him?,Каким человеком он был в твоих глазах?
+line-238,莱昂图索,......他是一个很有活力的人。,He certainly was energetic.,"...Он был человеком, полным энергии."
+line-240,莱昂图索,他知道如何应付家族，而且他并不是单纯地圆滑，他知道如何在巧妙地让家族得到好处的同时，让他们为他的目的服务。,"He knew exactly how to deal with the famiglie, and that went beyond just being tactful. He knew how to help them under the table while also getting them to serve his interests.","Он знал, как управляться с семьями. И он был не просто хитрецом — он умел ловко добиваться выгоды для семей, заставляя их служить своим собственным целям."
+line-242,莱昂图索,许多事情原本会受到诸多来自不同家族的阻碍，到了他手上，总是能被一一办妥。,"A lot of what he wanted to do would've been blocked by various famiglie, but in his hands, he always managed to get things done, step by step.","Многие дела, которые обычно тормозились из-за противостояния разных семей, у него всегда решались без проблем."
+line-244,贝纳尔多,看得出来，你的行事手段，受到了他不小影响。,I can tell you learned a lot from him.,"Видно, что методы твоей работы во многом были сформированы под его влиянием."
+line-246,莱昂图索,......我只是觉得，他的做法和我的想法有相似的地方。,I just thought there were some similarities in the way I saw things and the way he operated.,"...Я просто считаю, что его подход перекликается с моими мыслями."
+line-248,莱昂图索,现在已经不再是打打杀杀能够解决问题的时代了，父亲。,"The days when problems can be solved with fighting and killing are over, padre mio.","Сейчас уже не та эпоха, отец, когда проблемы решаются только грубой силой."
+line-250,莱昂图索,家族如果想要顺应时代，应当做出相应的改变。,"If the famiglie are going to survive, they have to adapt accordingly.","Если семьи хотят идти в ногу со временем, они должны измениться."
+line-252,贝纳尔多,莱昂，你还是不明白。,"You still don't understand, Leon.","Леон, ты всё ещё ничего не понимаешь."
+line-254,莱昂图索,我不明白什么？,What do I not understand?,Чего именно я не понимаю?
+line-256,贝纳尔多,你下意识地把自己和拉维妮娅还有卡拉奇放在一起。,You've subconsciously lumped yourself in with Lavinia and Carracci.,Ты подсознательно ставишь себя в один ряд с Лавинией и Караччи.
+line-258,贝纳尔多,但永远不要忘记，你和他们不一样。,"But don't ever forget, you are not one of them.",Но никогда не забывай: ты — не они.
+line-260,莱昂图索,我知道。,I know.,Я знаю.
+line-262,贝纳尔多,如果你真的知道，你就不会站在这里。,"If you really knew, you wouldn't be standing here.","Если бы ты действительно это понимал, ты бы здесь не стоял."
+line-264,贝纳尔多,可惜，已经没有时间了。,"Unfortunately, you're out of time.","К сожалению, времени больше нет."
+line-266,莱昂图索,父亲？,Padre?,Отец?
+line-276,贝纳尔多,莱昂，如果你能活下来......,"Leon, if you get through this alive...","Леон, если сможешь выжить..."
+line-278,贝纳尔多,罢了。,It's what it is.,Неважно.
+line-288,,......,......,...
+line-290,收音机,不过，他虽然是许多家族的眼中钉，但能力之强，也是大家有目共睹的。,"Even though he was a thorn in the side of many famiglie, his talents were evident to all.","Хотя он и был бельмом на глазу для многих семей, никто не мог отрицать его выдающиеся способности."
+line-292,收音机,于是，他还是远早在我之前得到了晋升。,"And so, he rose through the ranks long before I did.",Поэтому он получил повышение гораздо раньше меня.
+line-294,收音机,实际上，我当时以为，他晋升后会死得很快。,"In fact, I thought he wouldn't last long after his promotion.","Честно говоря, тогда я думал, что после повышения он быстро погибнет."
+line-296,收音机,因为我始终觉得，他之前是在一个不触及太多利益的地方，所以没招致真正的杀身之祸。,"I used to think that, because he was never in a place where too many different interests overlapped, he wouldn't face any serious attempts on his life.","Потому что всегда считал: до тех пор он оставался в тени, не затрагивая важных интересов, поэтому избегал смертельной опасности."
+line-298,收音机,但是随着他的地位上升，他如果还是那副样子，那一定会惹到惹不起的人。,"If he kept behaving the same way he always did as he rose through the ranks, sooner or later, he was bound to step on toes that he could not afford to step on.","Но если бы он продолжал в том же духе, заняв высокую должность, то непременно задел бы тех, с кем шутки плохи."
+line-300,收音机,我错了。,I was wrong.,Я ошибся.
+line-304,卢比奥之女,......我从来都不知道，父亲原来是这么健谈的一个人。,I never knew my father could be such a talkative person.,"...Я никогда не знала, что отец может быть таким красноречивым."
+line-306,卢比奥之女,您觉得呢，法官阁下？,"What do you think, Judge Lavinia?","А вы как думаете, госпожа судья?"
+line-308,卢比奥之女,法官阁下？,Judge Lavinia?,Госпожа судья?
+line-310,,卢比奥的女儿发现，拉维妮娅完全没有注意到她的呼唤。,Lavinia seems completely oblivious to the calls of Rubio's daughter.,"Дочь Рубио заметила, что Лавиния даже не услышала её зова."
+line-311,,她全神贯注地投入在了阅读手中的日记上。,She is engrossed in the words of the diary in her hands.,"Она была полностью поглощена чтением дневника, который держала в руках."
+line-315,,5月3日,May 3rd,3 мая
+line-316,,......,......,...
+line-317,,解决了一桩小事，有感而发。,"Just resolved a small case, but it touched me deeply.","Решил маленькое дело, нахлынули мысли."
+line-318,,有一个问题是所有人都没有察觉的，或者说，视而不见的。,"There's a problem that everyone is unaware of. Or, should I say, is turning a blind eye to.","Есть вопрос, который никто не замечает или предпочитает игнорировать."
+line-319,,为什么，即使来到了西西里夫人的时代，叙拉古依然是表里两套秩序共存？,"Why, even in the age of Signora Sicilia, does Siracusa have two different sets of rules at once—one internal, and one external?",Почему даже в эпоху госпожи Сицилии в Сиракузах продолжают сосуществовать два порядка — явный и скрытый?
+line-320,,家族的粗暴与贪婪早已被历史证实，而粗暴与贪婪如他们，却选择了不由自己来掌控这一切。,"The brutality and greed of the famiglie have long been documented, but as brutal and greedy as they may be, they have chosen not to control things themselves.","История не раз доказывала грубость и алчность семей, но даже с их пороками они предпочли не управлять всем напрямую."
+line-321,,这其中是存在理由的。,There's a reason for this.,На это есть причина.
+line-322,,而这个理由，事实上也非常简单。,It's actually quite simple.,И причина эта на самом деле проста.
+line-323,,人口。,Population.,Население.
+line-324,,家族的建立基于血缘或人格上的认同。,The institution of a famiglia is based on bloodline or personal identity.,Семьи строятся на кровном родстве или личном признании.
+line-325,,而这种低效率的方式，注定了一个家族的人数规模永远无法达到一个足以管理哪怕是一座移动城市的量级。,And this inefficient organization means that the numbers in any given famiglia will never reach the order of magnitude required to manage even a nomadic city.,"И такая неэффективная структура предопределяет, что количество членов семьи никогда не достигнет масштаба, необходимого для управления даже одним передвижным городом."
+line-326,,这使得他们必须依赖于由普通人建立的体系，他们只能通过在背后操控这个体系来完成对叙拉古这样一个庞然大物的控制。,"This means they must rely on a system established by the common citizenry, and they can only seize control of a behemoth such as Siracusa by manipulating this system behind the scenes.","Это вынуждает их полагаться на систему, созданную обычными людьми, и контролировать такого гиганта, как Сиракузы, лишь скрытно."
+line-327,,西西里夫人显然意识到了这一点，所以，她在上台后，更为明确地划分了家族与普通人的界限。,"Signora Sicilia was acutely aware of this fact, so after she rose to power, she drew an even more pronounced line between mafiosi and ordinary folk.","Госпожа Сицилия, очевидно, осознавала это, поэтому после прихода к власти чётко обозначила границы между семьями и обычными людьми."
+line-328,,而她通过强调自身绝对的武力以及掌控力，在这几十年中，让所有人都认为，在叙拉古，“表里两套秩序的存在是理所当然的”。,"And by emphasizing her absolute might and control, she, over the past few decades, has gotten everyone in Siracusa to believe that in Siracusa, 'the existence of two orders, internal and external, is taken for granted.'","Подчёркивая собственную абсолютную силу и контроль, за эти десятилетия она заставила всех поверить, что в Сиракузах «существование двойного порядка — вещь естественная»."
+line-329,,以至于所有人都被迫遗忘了一个事实，叙拉古的地下秩序之所以能够成立，竟是因为地上秩序的自洽。,To the extent that everyone was forced to forget how the establishment of Siracusa's underground order was only made possible by the consistency of the outward-facing order.,"Настолько, что все были вынуждены забыть один факт: подземный порядок Сиракуз существует только благодаря самодостаточности наземного порядка."
+line-330,,这不可谓不是一种政治智慧的体现。,This cannot be called anything other than a manifestation of political wisdom.,Это ли не пример подлинной политической мудрости?
+line-334,拉维妮娅,卢比奥，你究竟......,"Rubio, you...","Рубио, что ты вообще..."
+line-345,收音机,实际上，在我们的系统里，并不乏与卡拉奇拥有相同初衷的人。,"In fact, in our system, there is no shortage of people with the same fundamental intentions as Carracci.","На самом деле в нашей системе немало людей, разделявших цели Караччи."
+line-347,收音机,只不过，因为各种各样的原因，他们在最后选择了向家族屈服，甚至谄媚。,"However, for various reasons, they finally chose to submit to these famiglie, even becoming their cronies.",Но из-за разных причин многие в конечном итоге решили склониться перед семьями и даже начать им льстить.
+line-349,收音机,但卡拉奇不同，他不仅没有屈服，反而时刻在寻找着与他们对抗的方法。,"But Carracci was different. Not only did he not give in, he was always looking for ways to fight against them.","Но Караччи был иным: он не только не склонился, но и постоянно искал способы противостоять им."
+line-351,收音机,而他的努力是有价值的。,"And, his efforts paid off.",И его усилия не были напрасны.
+line-353,收音机,他不仅没有如我所想地轻易死去，反而越爬越高。,"He did not die as easily as I thought he would, and he even managed to climb higher.","Он не погиб так легко, как я ожидал, а продолжал подниматься всё выше и выше."
+line-355,收音机,而当我们在某个宴会上重逢时，他对我说了一句我至今记忆犹新的话——,"And when we met again at a banquet, he said something that I will never forget—","И когда мы встретились на одном из приёмов, он сказал мне слова, которые я до сих пор помню:"
+line-357,收音机,“如今的家族是软弱的。”,'The famiglie these days are weak.',«Нынешние семьи слабы».
+line-361,能天使,这个大叔胆子还挺大的嘛......,This dude's pretty brave...,А этот дядька довольно смелый...
+line-363,能天使,嗯？,Huh?,М-м?
+line-382,能天使,嗯......德克萨斯，外面好像有点状况，我去确认一下。,"Umm... Texas, there seems to be something happening outside. Lemme go check it out.","М-м... Техас, снаружи что-то происходит, я схожу проверю."
+line-384,德克萨斯,......,......,...
+line-386,德克萨斯,能天使。,Exusiai.,Экзузиай.
+line-388,能天使,嗯？,Huh?,М-м?
+line-390,德克萨斯,你觉得，如果我们把乔万娜带回龙门，怎么样？,Do you think... we could bring Giovanna back to Lungmen?,"Что ты думаешь, если мы заберем Джованну с собой в Лунмэнь?"
+line-392,能天使,可以啊。,Why not?,Да запросто.
+line-394,能天使,我觉得她是个很有趣的人欸。,She seems fun.,"Мне кажется, она очень интересная личность."
+line-396,能天使,但是——我也觉得，你不是这么想的哦？,"But, it doesn't feel like that's what you think. Right?","Но... мне ведь кажется, или ты думаешь совсем иначе?"
+line-401,,德克萨斯将视线转向窗边的桌子，那里摆放着一条项链。,"Texas turns her eyes to the table by the window, upon which a necklace sits.","Техас перевела взгляд на стол у окна, где лежало ожерелье."
+line-402,,那是西西里夫人的信物。,It was a symbol of trust from Signora Sicilia.,Это символ власти госпожи Сицилии.
+line-403,,乔万娜为她留下的礼物。,A gift that Giovanna left for her.,"Подарок, оставленный ей Джованной."
+line-404,,在爷爷眼中，哥伦比亚的家族们是变味了的。,"In her grandfather's eyes, the Columbian famiglie had soured.",В глазах деда колумбийские семьи давно испортились.
+line-405,,他们为了利益，可以染指那些毫无底线的产业，可以去进行没有道义可言的谋杀。,"They'd do anything for the sake of profit, getting involved in the lowest businesses, committing murders with no morals at all.",Ради выгоды они готовы браться за любой бесчестный бизнес и идти на любые безнравственные убийства.
+line-406,,在父亲眼中，叙拉古的家族们是腐朽的。,"In her father's eyes, the Siracusan famiglie had decayed.",В глазах отца сиракузские семьи сгнили.
+line-407,,放着唾手可得的利益不去争取，仅仅是为了所谓的道义限制自己的脚步，只能被称为愚蠢。,"Passing up profit and opportunity, not fighting for their interests, limiting their progress for the sake of supposed morality. All of it was the pinnacle of stupidity.","Не пытаться урвать выгоду, что лежит под ногами, ограничивая себя ради какой-то морали — это просто глупость."
+line-408,,而在德克萨斯看来，爷爷和父亲都是正确的，又都是错误的。,"In Texas's eyes, her father and grandfather were right and wrong.","А в глазах Техас и дед, и отец были правы — и оба заблуждались."
+line-409,,如果，如果她只是愤怒于乔万娜的遭遇。,"If... If she is only angry about what happened to Giovanna,","Если бы она была просто в ярости из-за того, что случилось с Джованной..."
+line-410,,那她可以像七年前那样离开，只是这一次，她会带上乔万娜。,"then she could leave just like she did seven years ago, only this time bringing Giovanna with her.","Она могла бы уйти, как семь лет назад, только на этот раз она забрала бы Джованну с собой."
+line-411,,但是，当她得知爷爷的死讯时，当她对那名洗车工视而不见时，当她对父亲求助的命令视而不见时，她心中想的是——,"However, when she got news of her grandfather's death, when she turned a blind eye to the carwash worker, when she turned her back on her father's orders to help, the only thought on her mind was—","Но когда она узнала о смерти деда, когда проигнорировала мойщика машин, когда проигнорировала приказ отца о помощи, она подумала лишь об одном:"
+line-412,,这一切似乎没有尽头。,There's no end to it all.,"Этому, кажется, нет конца."
+line-422,收音机,他向我展示了他应付家族成员的方法，他的手段简单到令人发笑——,He showed me how to deal with the famiglie in a comically simple way—,"Он показал мне свои методы общения с членами семей, и они были до смешного просты —"
+line-424,收音机,他给出了他们无法拒绝的货物，以及利益。,He offered them goods they couldn't refuse. Benefits.,"Он давал им товары и выгоду, от которых они не могли отказаться."
+line-426,收音机,家族们并非不能强占他所拥有的渠道。,It's not as if the famiglie couldn't take what he had.,"Семьи вполне могли захватить каналы, которыми он владел."
+line-428,收音机,然而，一个优秀的管理者是他们所缺少的，他们只知掠夺，却从来不知道何为真正的管理。,"But what they always lacked was a great manager. They only knew how to plunder, but never actually learned how to govern.","Однако им не хватало хорошего управленца: они умели лишь грабить, но никогда не знали, что такое настоящее управление."
+line-430,收音机,他凭借着自身出色的能力，一步一步成了几大家族之间的红人。,"Relying on his outstanding abilities, he gradually became a celebrity to several prominent famiglie.",Благодаря своему таланту он шаг за шагом стал любимчиком среди главных семей.
+line-432,收音机,并在大家族们因为建设部部长的位置大打出手时，成了那个让所有人都满意的人选。,"And when they fought over who would fill the role of Ministro dei Lavori Pubblici, he became the candidate that everyone was happy with.","И когда Великие семьи передрались из-за поста министра строительства, он стал кандидатурой, которая устроила всех."
+line-434,收音机,说到这里，我想会有人提出疑问——,"Having said all this, I'm sure a lot of you will have questions—",На этом моменте у кого-то наверняка возникнет вопрос —
+line-436,收音机,这样听来，卡拉奇似乎和那些左右逢源的人并无区别。,You might think Carracci sounds like a guy who played both sides.,"Звучит так, будто Караччи ничем не отличался от приспособленцев."
+line-438,收音机,但我想说的是，在叙拉古这样一个国家，在这样一个以恶为基底的国家之中，从一开始，就不可能存在一个好人。,"But what I'd like to say is, in a country like Siracusa, a country rooted in evil, it has never been possible for a good person to exist.","Но я хочу сказать: в такой стране, как Сиракузы, стране, построенной на фундаменте зла, с самого начала не могло быть хороших людей."
+line-440,收音机,偏激一些地说，我们都是邪恶的。,"To put it mildly, we are all evil.",Скажу прямо: все мы порочны.
+line-444,卢比奥之女,......这些话，是应该在就职演讲上说的吗？,Should he be saying stuff like that in an inaugural speech?,...Такое вообще уместно говорить на инаугурационной речи?
+line-446,拉维妮娅,......,......,...
+line-452,,10月15日,October 15th,15 октября
+line-453,,与那位拉维妮娅法官见了一面。,"I met with that judge, Lavinia.",Встретился с судьёй Лавинией.
+line-454,,实际上，光听她的一些传闻也能想象，她一定与卡拉奇一样，是一个不愿意掩饰自己的正直之人。,"From the way people talk about her, I imagined someone like Carracci, a righteous person who wasn't willing to throw away her integrity.","На самом деле, судя по слухам, можно было догадаться, что она, как и Караччи, человек честный, не желающий скрывать свою натуру."
+line-455,,见面之后果然如此。,Meeting her only confirmed that.,Встреча подтвердила это.
+line-456,,她不会不知道自己的所作所为在当下的环境是徒劳的。,"There's no way she's unaware of the futility of what she's doing, in our current landscape.","Она не может не понимать, что в нынешних условиях её действия тщетны."
+line-457,,她不会不知道自己若是真的招致了家族的不满，处境会十分危险——,"There's no way she's unaware of the fact that should she ever cross any of the famiglia, her life would be in grave danger.","Она не может не понимать, что если действительно навлечет на себя гнев семей, то окажется в крайне опасном положении —"
+line-458,,当然，这其中讽刺的点又在于，她站在法官立场上试图维护的普通人的权利，在家族看来，不值一提。,"The irony of all this is, the rights of ordinary people that she strives to protect as a judge mean nothing in the eyes of the famiglie.","Ирония в том, что права обычных людей, которые она пытается защищать на посту судьи, в глазах семей ничего не стоят."
+line-459,,以至于她居然没有被扼杀在前进的道路上。,They mean so little to them that she has not been snuffed out on her path forward.,"Вплоть до того, что её до сих пор не устранили на её пути."
+line-460,,与她的交流相当折磨，因为我必须按捺住对她的欣赏，以我一贯的态度对待她。,"Talking to her was torture, because I had to hold back my admiration for her and treat her like I would anyone else.","Общение с ней дается мучительно, ведь я должен скрывать свою симпатию и относиться к ней, как обычно."
+line-461,,卡拉奇曾与我开玩笑说，我的位置令他安心，因为这样他至少知道，自己哪怕死了，也会有我捡起他的遗志。,"Carracci once joked that my position made him feel at ease because even if he died, he knew I would be there to pick up the torch.","Караччи в шутку говорил мне, что моё место его успокаивает, ведь он знает: если он погибнет, я подхвачу его дело."
+line-462,,但是——如果我也死了呢？,But... what if I also died?,Но... что если погибну и я?
+line-463,,这些年，我并非没有在培养与拉拢一些年轻人，但他们缺少一个像卡拉奇那样有张力的领导者。,"It's not as if I haven't cultivated and won over a number of youths, but they've never had a leader with any real sway like Carracci.","Все эти годы я пытался воспитывать и привлекать на свою сторону молодых людей, но им не хватает харизмы лидера, как у Караччи."
+line-464,,而拉维妮娅法官无疑是一个理想的接班人。,"And undoubtedly, Judge Lavinia would make an ideal successor.","И судья Лавиния, несомненно, была бы идеальной преемницей."
+line-465,,我当然不能将我的想法强加于她。,"Of course, I can't push my ideas on her.","Конечно, я не могу навязывать ей свои мысли."
+line-466,,只是，我的时间恐怕也不多了。,"But, I'm afraid I don't have much time left either.","Только вот времени у меня, похоже, осталось мало."
+line-467,,眼下的机会千载难逢，我没有时间将我的想法一一传达给她。,There is a once-in-a-lifetime opportunity in front of me. I don't have time to convey each and every one of my thoughts to her.,"Момент сейчас уникальный, и я не успею передать ей всё, что хотел."
+line-468,,但我相信，如果我的计划能够成功，拉维妮娅法官至少会愿意帮我保住我的女儿吧。,"I do believe, however, that if my plan goes well, Judge Lavinia will at least be willing to look after my daughter.","Но я верю: если мой план удастся, судья Лавиния хотя бы согласится помочь мне защитить мою дочь."
+line-469,,唉，卡拉奇老友，就让我借你的死一用吧。,"Alas... Carracci, my old friend, let me put your death to good use.","Ох, старый друг Караччи, позволь мне воспользоваться твоей смертью."
+line-470,,若是你我的灵魂还能见面，我再向你道歉。,"If our souls can meet once more, I'll have to apologize to you again.","Если наши души когда-нибудь встретятся, я попрошу у тебя прощения."
+line-471,,——不过，像你这么高洁的灵魂，恐怕和我的去处并不相同吧，哈哈。,"—But, a noble soul like yours probably won't end up in the same place as mine, haha.","Хотя, такая чистая душа, как твоя, вряд ли окажется там же, где я, ха-ха."
+line-475,拉维妮娅,......,......,...
+line-497,能天使,唔，果然应该趁早转移一下阵地的。,"Ugh, I knew we should've relocated as soon as we could.","М-м, надо было всё-таки сменить позицию пораньше."
+line-499,能天使,不过昨天发生了那样的事，也没有办法就是了。,"But we're just gonna have to work with this, considering everything that happened yesterday.","Но учитывая, что произошло вчера, выбора особо не было."
+line-501,家族成员,啧，好厉害的萨科塔。,"Gah, that Sankta's a pain in the ass.","Тц, какая резвая Санкта."
+line-502,家族成员,她只有一个人，围住她！,It's just one woman! Surround her!,"Она одна, окружить её!"
+line-504,能天使,我的好搭档现在正在休息，你们能不能安静一点？,"My trusty partner here is trying to relax, so mind keeping it down?","Моя напарница сейчас отдыхает, не могли бы вы вести себя потише?"
+line-513,能天使,唉，真是些喜欢扰民的家伙。,"Ugh, you guys sure love raising hell, don't you?","Эх, ну и шумные же вы типы."
+line-515,能天使,......啊，这种时候其他人在，一定会说，“能天使，你也很扰民！”,"Oh, if anyone else was here, they'd probably be like, 'But Exusiai, you also love raising hell too!'","...А, остальные сейчас сказали бы: «Экзузиай, ты сама очень шумная!»"
+line-517,能天使,一个人好没劲哦。,It sure sucks having to do this alone.,Одной так скучно.
+line-525,拉普兰德,看起来，这里有需要帮助的家伙？,What's this? Someone need a helping hand?,"Похоже, здесь кто-то нуждается в помощи?"
+line-527,能天使,我之前就有些好奇了，你这家伙，难道说......很闲？,"I've been wondering, do you, like... have way too much time on your hands?","Я уже давно любопытствую: ты, что, совсем без дела?"
+line-529,拉普兰德,我只是和你一样，都在等待一个答案罢了。,I'm just like you. We're all waiting for an answer.,"Я, как и ты, просто жду ответа."
+line-531,能天使,什么意思？,What do you mean by that?,Что это значит?
+line-533,能天使,德克萨斯回不回龙门对你来说很重要吗？,Does it make a big difference to you whether or not Texas goes back to Lungmen?,Вернется Техас в Лунмэнь или нет — тебе от этого так важно?
+line-535,拉普兰德,很重要。,Absolutely.,Важно.
+line-537,拉普兰德,而且，现在的话，我希望她回。,"And as of right now, I want her to go back.","И сейчас я надеюсь, что она вернется."
+line-539,能天使,嗯......那也就是说，你是站在我这边的？,Hmm... Does that mean you're on our side?,"Хм... значит, ты на моей стороне?"
+line-541,拉普兰德,正确。,Sure does.,Верно.
+line-549,能天使,好吧，多一个人总比只有我自己好。,Great. Can't party alone.,"Ну ладно, лучше с кем-то, чем совсем одной."
+line-563,收音机,抱歉抱歉，说了一些扫兴的话。,"Sorry, sorry. I shouldn't have said all that depressing stuff.","Прошу прощения, наговорил тут лишнего."
+line-565,收音机,不过，大家应当也发现了，今天，我坐在这里，并不是来发表就职演讲的。,"However, it should be clear to everyone by now that I'm not here to give an inaugural speech.","Впрочем, вы наверняка уже поняли: я здесь не для того, чтобы произнести инаугурационную речь."
+line-567,收音机,我是来说一些心里话的。,I came here to speak from my heart.,"Я здесь, чтобы выговориться."
+line-569,收音机,卡拉奇这样一个心怀抱负的人，却从来没有向我表达过他对于新城市的展望。,"Carracci, as bold as his vision was, never mentioned anything to me about his outlook regarding the new city.","Караччи, человек столь полный амбиций, никогда не говорил со мной о своих взглядах на новый город."
+line-571,收音机,这是因为，当他坐上这个位置时，他就已经做好了赴死的准备。,"The reason for that is, when he took up his position, he was already prepared to die.","А всё потому, что когда он занял этот пост, он уже был готов умереть."
+line-573,收音机,他在这两年里做的事大家是有目共睹的。,We've all borne witness to what he did over the past two years.,"То, что он делал последние два года, видели все."
+line-575,收音机,就在我以为他能撑到新城市建立时，他却在前几天那么突然地死去。,"And just when I thought he might make it long enough to see the birth of the new city, he suddenly died a few days ago.","Я думал, он продержится до самого строительства города, но он внезапно погиб пару дней назад."
+line-577,收音机,而我，终究是咽不下这口气。,"As for me, that was the last straw.","А я, в конце концов, не смог смириться с этим."
+line-579,收音机,所以，我接近了贝洛内家族，向他们自荐，获得了这个位置。,"So, I cozied up to Famiglia Bellone, recommended myself to them, and obtained this position.","Поэтому я сблизился с семьей Беллоне, предложил им свою кандидатуру и получил эту должность."
+line-581,收音机,而我也在这个过程中，了解到了贝洛内家族与萨卢佐家族的惊天密谋——,"In that process, I discovered a shocking conspiracy the Bellone and Saluzzo famiglie have been brewing—",И в процессе я раскрыл чудовищный сговор семей Беллоне и Салуццо —
+line-583,收音机,他们从一开始就计划着搅乱城内的局势，并图谋着夺取新建造的移动城市。,"From the very beginning, they plotted to plunge this city into chaos and seize the newly-built nomadic city.",Они с самого начала планировали дестабилизировать ситуацию в городе и намеревались захватить новый передвижной город.
+line-585,收音机,然后，以此来对抗西西里夫人。,"Then, they will seek to leverage it against Signora Sicilia.","А затем, с его помощью, выступить против госпожи Сицилии."
+line-597,忠诚的家族成员,老爷，这——,"Don Alberto, this—","Господин, это..."
+line-599,阿尔贝托,......,......,...
+line-601,阿尔贝托,贝纳尔多有没有反应？,Any news from Bernardo yet?,Есть какая-то реакция от Бернардо?
+line-603,忠诚的家族成员,没有。,"No, Don Alberto.",Нет.
+line-605,阿尔贝托,......贝纳尔多这个老东西，到底在想什么？,"What's the meaning of this, Bernardo?",...О чем только думает этот старый хрыч Бернардо?
+line-610,阿尔贝托,丹布朗。,Danbrown.,Дэн Браун.
+line-612,洗车工,......,......,...
+line-615,阿尔贝托,丹布朗！,Danbrown!,Дэн Браун!
+line-617,洗车工,......我在。,...I'm here.,...Я здесь.
+line-619,阿尔贝托,你在卢比奥附近吧。,"You're near Rubio's location, right?",Ты ведь рядом с Рубио?
+line-621,洗车工,对。,Yes.,Да.
+line-623,阿尔贝托,去解决这个疯癫的家伙。,Whack that lunatic.,Разберись с этим безумцем.
+line-625,洗车工,......好。,"Yes, Don Alberto.",...Хорошо.
+line-640,卢比奥,好吧......我猜也拦不住真想进来的人。,"Alright... I guess I can't keep you out, if you really want to come in.","Что ж... полагаю, того, кто действительно хочет войти, не остановить."
+line-642,洗车工,你真蠢。,You're an idiot.,Ты глупец.
+line-644,洗车工,做这种事又有什么意义？,What's the point of all this?,"Какой смысл в том, что ты делаешь?"
+line-646,洗车工,......,......,...
+line-648,卢比奥,看你的打扮，你平时是工人吗？,The way you're dressed... Are you an ordinary worker?,"Судя по виду, ты обычный рабочий?"
+line-650,洗车工,我平时在一家洗车店工作，叫“丹布朗洗车店”。,I work at a carwash. It's called 'Auto Lavaggio Danbrown.',"Я работаю на автомойке, «Автомойка Дэна Брауна»."
+line-652,卢比奥,噢，我好像有印象。,"Oh, that rings a bell.","О, припоминаю."
+line-654,洗车工,对。,Yes.,Да.
+line-656,卢比奥,所以你叫丹布朗？,"So, you must be Danbrown then?",Так тебя зовут Дэн Браун?
+line-658,洗车工,是。,That's me.,Да.
+line-660,卢比奥,你对自己的这份工作有什么感想吗？,Do you have any particular concerns about your job?,Что ты думаешь о своей работе?
+line-662,洗车工,没有。,No.,Ничего.
+line-664,洗车工,叙拉古变得越来越温吞了，我无事可做，才给自己找了点事做。,"Siracusa's gotten soggy and stale. I've had nothing to do, so I found some work for myself.","Сиракузы стали слишком вялыми, мне было нечем заняться, вот я и нашел себе дело."
+line-666,卢比奥,可惜啊，你应该多看一看的。,That's a shame. You should've looked a little harder.,"Жаль, тебе стоило присмотреться получше."
+line-668,卢比奥,你们这些高高在上的家族成员啊，以为能够永远支配我们。,You arrogant wise guys think you can lord over us forever.,"Вы, члены семей, сидящие на вершине, думаете, что сможете вечно нами управлять."
+line-670,卢比奥,你们以为，你们的敌人永远只有彼此，而对我们不屑一顾。,"You think your only enemies are each other, you never take any of us seriously.","Вы думаете, что ваши враги — только другие семьи, и не обращаете на нас никакого внимания."
+line-672,卢比奥,但是，时代是在前进的，没有什么是一成不变的。,"But, the times are changing. Nothing stays the same forever.","Но время идет, и нет ничего постоянного."
+line-674,洗车工,就算你说得再好听，你所做的也不过是说了几句话。,"No matter how nice your words might sound, they're just words.","Как бы красиво ты ни говорил, всё, что ты сделал — это просто пустые слова."
+line-676,洗车工,几句话就能推翻家族，推翻西西里夫人？,"Can words overthrow the famiglie, or Signora Sicilia?","Неужели ты думаешь, что парой слов можно свергнуть семьи, свергнуть госпожу Сицилию?"
+line-678,卢比奥,但是，在这个千载难逢的机会中，我的想法已经传达了出去。,"No, but I've taken this once-in-a-lifetime opportunity and said what I needed to say.",Но в этот уникальный момент мои мысли были услышаны.
+line-680,卢比奥,贝纳尔多和西西里夫人谁会赢，我不知道，我也没有兴趣。,"As for who'll win between the Bellones and Signora Sicilia, I don't know, or care.","Кто из них — Бернардо или Сицилия — победит? Я не знаю, да мне и неинтересно."
+line-682,卢比奥,我所相信的是——时代终将会抛弃你们。,All I know is—this new era has no room for the likes of you.,Я верю лишь в одно: время рано или поздно отвергнет вас всех.
+line-684,卢比奥,叙拉古如果注定迎来新的时代，那其中的主角，必定不是名为家族的存在。,"If the next chapter of Siracusan history is about to be written, the heroes of that story won't be the famiglie.","Если Сиракузам суждено прийти к новой эпохе, то главными действующими лицами в ней будут вовсе не «семьи»."
+line-686,卢比奥,我们没有力量，我们确实弱小。,We may have no power. We may indeed be weak.,"У нас нет власти, мы действительно слабы."
+line-688,卢比奥,但是，所谓的文明，本就是为了克服暴力而存在的。,But we know that civilization rose to overcome this savagery.,"Но так называемая цивилизация существует именно для того, чтобы преодолеть насилие."
+line-690,卢比奥,我们追求着一种平等，一种不建立在暴力之上的秩序。,"We pursue a form of equality, an order not rooted in violence.","Мы стремимся к равенству, к порядку, который не строится на насилии."
+line-692,洗车工,暴力才是我们的本能。,Violence is in our nature.,Насилие — наша единственная природа.
+line-694,卢比奥,是吗？那么，为什么所有家族都在向着同一个方向前进？,"Really now? Why, then, are all the famiglie moving in the same direction?",Правда? Тогда почему все семьи стремятся в одном направлении?
+line-696,卢比奥,为什么他们都在追求着金钱与权力，而非暴力与斗争？,Why are they chasing money and power instead of violence and conflict?,"Почему они гонятся за деньгами и властью, а не за насилием и борьбой?"
+line-698,卢比奥,正如，今天在这里杀了我，难道只是一种暴力的宣泄？,Is killing me today just a cathartic release of this violence?,"Например, то, что ты пришел убить меня здесь сегодня — это просто всплеск насилия?"
+line-700,卢比奥,难道不是因为——我妨碍了你背后的人获取权力？,Or is it because... I got in the way of the people behind you taking power?,"Или это потому, что я мешаю тем, кто стоит за твоей спиной, обрести власть?"
+line-702,洗车工,......,......,...
+line-704,卢比奥,你看，你知道答案。,"See, you already know the answer.",Видишь? Ты знаешь ответ.
+line-706,卢比奥,并且，如果你不介意的话，我希望由我自己来了结自己。,"And, if you don't mind, I'd like to be the one to finish myself off.","И если ты не против, я хотел бы сделать это сам."
+line-708,卢比奥,你知道这是什么吗？,Do you know what this is?,"Знаешь, что это?"
+line-710,洗车工,铳？,A gun?,Огнестрел?
+line-712,卢比奥,对，几年前通过一些渠道，从黑钢买来的。,"That's right. I purchased it from Blacksteel a few years ago, through my connections.","Да, купил несколько лет назад через посредников из «Блэкстил»."
+line-714,卢比奥,铳不仅使用困难，而且对于好勇斗狠的家族成员来说，这东西也不一定能解决他们。,"It's hard to use, and it's not very useful against a pack of wise guys lunging at you.","Огнестрел не только сложен в использовании, но и для таких боевых типов, как вы, не всегда гарантирует решение."
+line-716,卢比奥,最多不过是用来防备和自己一样弱小的人。,All it can do is offer a little protection to one as weak as myself.,"Максимум — защита от таких же слабых, как я сам."
+line-718,卢比奥,现在看来，我早几年就已经想好了，用它来指着谁。,"By the looks of things, I already figured out who I should be pointing it at years ago.","Похоже, я уже давно знал, на кого направлю этот ствол."
+line-720,卢比奥,......,......,...
+line-721,,卢比奥缓缓将铳口对准自己的太阳穴。,Rubio slowly raises the gun's muzzle to his temple.,Рубио медленно приставил дуло к виску.
+line-723,卢比奥,对了，丹布朗。,"Oh right, Danbrown.","Кстати, Дэн Браун."
+line-725,卢比奥,但愿有一天，你能在叙拉古的土地上，只作为一名洗车工存在，而不必拿起武器。,"I hope that one day, you can just be a regular carwash worker here in Siracusa. One who never has to hold a weapon, ever again.","Надеюсь, однажды ты сможешь жить на сиракузской земле просто как мойщик машин, не хватаясь за оружие."
+line-737,,10月19日,October 19th,19 октября
+line-738,,我多想在演讲中将这些年积压在胸中的一切抒发出来。,How I yearn to unload everything on my chest in a speech.,"Как же я хотел выплеснуть в этой речи всё, что накопилось в душе за эти годы."
+line-739,,然而我不能。,"But, I cannot.",Но я не мог.
+line-740,,我必须让他们相信，我是因为卡拉奇的死而决定报复家族们。,I have to convince them that I decided to take revenge on the famiglie because of Carracci's death.,"Я должен был заставить их поверить, что решил мстить семьям из-за смерти Караччи."
+line-741,,而且，有些话还太早。,"Plus, there are some words that cannot be spoken yet.",Да и многие слова были бы ещё слишком преждевременны.
+line-742,,我并不是为了改变时代而来，我没有那么自大。,I'm not here to usher in a new era. I'm not arrogant enough to think that.,"Я пришел не для того, чтобы менять эпоху, я не настолько самонадеян."
+line-743,,我甚至不相信能有多少人会因此有所启发。,I don't even know how many hearts my words will be able to reach.,"Я даже не верю, что многие вдохновятся этим."
+line-744,,但我至少相信，这个国家有卡拉奇与我，有拉维妮娅法官这样的人。,"But, I believe that as long as this country still has people like me, Carracci, and Lavinia...","Но я хотя бы верю: раз в этой стране есть Караччи, я и судья Лавиния —"
+line-745,,那么这个国家就还有希望。,Then there is still hope for Siracusa.,"Значит, у этой страны есть надежда."
+line-746,,于是，权且让我把那些想说的话写在这里吧：,"So, I will write what I wanted to say here:","Позвольте мне написать здесь то, что я не успел сказать:"
+line-747,,说了这么多与卡拉奇相关的事，实际上，你们或许发现了，我想说的并不是卡拉奇。,"Having said so much about Carracci, the reality is, as you may realize, I'm not here to talk about Carracci.","Сказав так много о Караччи, вы, возможно, поняли, что я хотел сказать не о нём."
+line-748,,我想说的是我，是我们，市民朋友们。,"I'm here to talk about myself. And all of us, my dear citizens.","Я хотел сказать о себе, о нас, дорогие граждане."
+line-749,,我们生活在一个名为家族的牢笼之中。,We live in a cage called the famiglie.,"Мы живем в клетке, которую называют «семья»."
+line-750,,他们并不直接影响我们的生活，却又在我们的生活中无处不在。,"They may not always directly affect our lives, but they are always a part of it.","Они не влияют на нас напрямую, но при этом присутствуют везде в нашей жизни."
+line-751,,每一个在叙拉古长大的普通人，都会在成长过程中通过各种方式完成自己对家族的认识。,"Every ordinary person in Siracusa, over the course of their lives, will come to gain their own understanding of the famiglie through various ways.","Каждый обычный человек, выросший в Сиракузах, по мере взросления разными путями познает семьи."
+line-752,,并最后对此习以为常。,"And eventually, they get used to it.",И в конце концов привыкает к этому.
+line-753,,但是，我希望各位可以看一看身边的人，回顾一下自己的生活。,"However, I hope you can take a good look at the people around you, and look back at your own life.",Но я прошу вас оглянуться вокруг и переосмыслить свою жизнь.
+line-754,,我们应当认识到一点——,There is one thing we all should understand—,Мы должны осознать одну вещь —
+line-755,,我们是活生生的人，我们的生活是真实的，我们不是被圈养的动物。,We are human beings. Our lives are very much real. We are not livestock in a pen.,"Мы — живые люди, наша жизнь реальна, мы не животные в клетках."
+line-756,,而且，我们是拥有力量的。,"And above all, we are powerful.",И у нас есть сила.
+line-757,,我们的力量就是我们创造的生活本身。,Our power comes from the very lives we have created.,"Наша сила — в самой жизни, которую мы создаем."
+line-758,,那些家族成员们所享受的生活也是我们创造的。,The lives the mafiosi relish in were also created by our hands.,"Жизнь, которой наслаждаются эти члены семей, создаем мы сами."
+line-759,,这是我们一步一步打造的国家。,"This is the country we've built, brick by brick.",Эту страну шаг за шагом строили мы.
+line-763,拉维妮娅,......,......,...
+line-765,卢比奥之女,法官小姐，我在做梦吗？父亲，他......居然会那样和一个杀手说话。,"Judge Lavinia, am I dreaming? Why is my father... talking with a hitman like that?","Госпожа судья, я сплю? Отец... он правда говорил так с убийцей?"
+line-768,卢比奥之女,不，父亲......他有危险！,"No, father! He's in danger!","Нет, отец... он в опасности!"
+line-770,拉维妮娅,......,......,...
+line-773,,拉维妮娅感到眼泪湿润了自己的眼眶。,Lavinia feels tears welling up in her eyes.,"Лавиния почувствовала, как слезы наворачиваются на глаза."
+line-774,,但她来不及抹掉，因为她心中已经有所预感。,"But she does not have time to wipe them, because she already has a premonition in her heart.","Но она не успела их вытереть, потому что уже почувствовала неладное."
+line-775,,她走到卢比奥女儿的身边，轻轻捂住了她的耳朵。,She moves to Rubio's daughter and gently covers her ears.,Она подошла к дочери Рубио и мягко закрыла ей уши.
+line-785,,沃尔西尼的居民永远不会忘记这一天。,The inhabitants of Volsinii will never forget this day.,Жители Вольсини никогда не забудут этот день.
+line-786,,这一天的清晨，一声清脆的铳声，通过广播，传遍了整座沃尔西尼城。,"On a clear morning, the crisp clarion call of a pistol's muzzle reverberates across Volsinii through every radio.",В то утро один отчетливый звук выстрела по радио пронесся через весь город.
+line-787,,前沃尔西尼食品安全部部长，卢比奥，在接任建设部部长的就职演讲中身亡。,"Former Volsinii Segretario di Sicurezza Alimentare Rubio died during his inaugural speech, taking over as Ministro dei Lavori Pubblici.","Бывший министр продовольственной безопасности Вольсини, Рубио, погиб во время своей инаугурационной речи на посту министра строительства."
+line-788,,随后发生的诸多混乱，虽然仅在半日内就得到了控制，却成了改变叙拉古未来的开端。,"The chaos that ensued, though it would be subdued before half a day's time, in fact became the first step toward a new era for Siracusa.","Последовавший хаос был подавлен всего за полдня, но это стало началом, изменившим будущее Сиракуз."
