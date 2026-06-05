@@ -1,0 +1,210 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act32side
+__chapter__,,Chapter Name,activities/act32side/level_act32side_01_end,城市主题展
+,,,,
+char-1,雷内尔,雷内尔,Reynell,Рейнер
+char-2,艾拉,艾拉,Ela,Эла
+char-3,工作人员,工作人员,Staff,Сотрудник
+char-4,广告,广告,Ad,Реклама
+char-5,医生,医生,Doc,Доктор
+char-6,双月,双月,Iana,Двойная Луна
+char-7,兴奋的莱塔尼亚旅客,兴奋的莱塔尼亚旅客,Excited Leithanian Tourist,Взволнованный летанский путешественник
+char-8,高兴的莱塔尼亚旅客,高兴的莱塔尼亚旅客,Happy Leithanian Tourist,Радостный летанский путешественник
+char-9,鬼祟的叙拉古游客,鬼祟的叙拉古游客,Sneaky Siracusan Tourist.,Скрытный сиракузский турист
+char-10,可疑的叙拉古游客,可疑的叙拉古游客,Suspicious Siracusan Tourist,Подозрительный сиракузский турист
+char-11,路过的萨科塔,路过的萨科塔,Sankta Passerby,Проходящий мимо санка
+char-12,萨卡兹佣兵,萨卡兹佣兵,Sarkaz Mercenary,Наемник-саказ
+char-13,主持人的声音,主持人的声音,Host,Голос ведущего
+char-14,雷内尔的声音,雷内尔的声音,Reynell's Voice,Голос Рейнера
+char-15,赌场打手,赌场打手,Casino Bouncer,Вышибала в казино
+char-16,街头艺术家,街头艺术家,Street Artist,Уличный художник
+char-17,马特奥,马特奥,Mateo,Матео
+char-18,米沃什,米沃什,Miłosz,Милош
+char-19,导火索,导火索,Fuze,Запал
+char-20,保安们,保安们,Security Guards,Охранники
+char-21,多嘴的保安,多嘴的保安,Talkative Guard,Болтливый охранник
+char-22,进攻方保安A,进攻方保安A,Guard Attacker A,Атакующий охранник А
+char-23,进攻方保安B,进攻方保安B,Guard Attacker B,Атакующий охранник Б
+char-24,防守方保安A,防守方保安A,Guard Defender A,Обороняющийся охранник А
+char-25,防守方保安B,防守方保安B,Guard Defender B,Обороняющийся охранник Б
+char-26,防守方保安C,防守方保安C,Guard Defender C,Обороняющийся охранник В
+char-27,防守方保安D,防守方保安D,Guard Defender D,Обороняющийся охранник Г
+char-28,进攻方保安C,进攻方保安C,Guard Attacker C,Атакующий охранник В
+char-29,进攻方保安D,进攻方保安D,Guard Attacker D,Атакующий охранник Г
+char-30,空爆,空爆,Catapult,Пустой взрыв
+char-31,龙舌兰,龙舌兰,Tequila,Текила
+,,,,
+line-13,雷内尔,哦，艾拉小姐，你的朋友们没一起来吗？,Miss Ela. Are your friends not with you?,"О, мисс Эла, разве твои друзья не пришли вместе с тобой?"
+line-15,艾拉,你雇的保安对导火索很“感兴趣”，在底下缠着他问东问西。正好你也想派个人训练他们，我就把他留在那里了。,Your guards are very interested in Fuze and wouldn't stop asking questions. I left him there since you said you wanted to get them trained up.,"Твой наемный охранник проявил «живой интерес» к запалу, вот и остался там, донимая его расспросами. К тому же ты хотел, чтобы кто-то обучил их, так что я решила оставить его там."
+line-17,雷内尔,我记得你们昨天有四个人呢。,You said there were four of you.,"Если я правильно помню, вас вчера было четверо."
+line-19,艾拉,之前我们应该说好了，一半的人手保护你，其他人会继续进行我们在这里的搜寻任务，只在需要人手的时候加入进来。,"Going by what we agreed on, two of us will protect you while the others continue our search here. They'll be on hand if we need them.","Мы же вроде договорились: половина команды охраняет тебя, а остальные продолжают наши поиски здесь, подключаясь только тогда, когда потребуется помощь."
+line-20,艾拉,今天你又不出席什么公众活动。,You're not going out in public today anyway.,К тому же сегодня у тебя нет никаких публичных мероприятий.
+line-22,雷内尔,别绷着脸嘛，不过是好奇问两句。事实上，跟着我的人越少我反而越轻松。,"Just curious. In fact, it's easier on me with fewer people around.","Не хмурься так, я просто из любопытства спросил. На самом деле, мне даже легче, когда рядом меньше людей."
+line-24,艾拉,我看到了，你今天的行程里有两场会议，保密度极高。,I saw you have two top-secret meetings on your schedule.,Я видела твой сегодняшний график. Там два совещания под грифом строгой секретности.
+line-26,雷内尔,会议？什么会议？,I do? What meetings?,Совещания? Какие еще совещания?
+line-36,艾拉,蹦极？这就是你的“会议”？,Bungee jumping? That's a meeting?,Банджи-джампинг? Это и есть твое «совещание»?
+line-38,雷内尔,当然，之前米沃什根本不允许我来玩，他今天在外面办事，我当然要抓住这个机会来试试。,"Of course. Miłosz wouldn't let me do this, but he's not here today. Why not seize the opportunity?","Конечно. Раньше Милош ни за что не разрешил бы мне прыгать, но сегодня он по делам, так что я просто обязан воспользоваться случаем."
+line-40,艾拉,......作为保镖，我建议你放弃这个计划。,As your bodyguard... I advise you to rethink this.,"……Как твой телохранитель, я советую тебе отказаться от этой затеи."
+line-42,雷内尔,那作为雇主，我建议你少提些建议。,"As your employer, I advise you to advise less.","А как твой работодатель, я советую тебе поменьше раздавать советы."
+line-44,雷内尔,我的安全带调整好了吗？,Is my safety harness ready?,Ремни безопасности подогнаны?
+line-46,工作人员,没问题，先生，您可以往下跳了。,"Yes, sir. You're good to jump anytime.","Все в порядке, сэр, можете прыгать."
+line-48,雷内尔,那......回见。,See you later.,Тогда… увидимся.
+line-54,雷内尔,哇哦————！,Yahooo—!,У-у-у-х!!!
+line-58,艾拉,呃......这家伙真是个混账。,What an asshole.,Эх… ну и мерзавец же он.
+line-60,工作人员,女士，您不必紧张，我们使用的都是专业设备，不会有什么危险。,Nothing to worry about. Our equipment is first-rate. There's no danger at all.,"Мадам, не стоит волноваться. Мы используем профессиональное снаряжение, опасности нет никакой."
+line-62,艾拉,如果没有危险，你就不会让他去填那份免责声明了。,You wouldn't have had him sign that waiver if there was no danger.,"Если бы опасности не было, ты бы не заставил его подписывать тот отказ от ответственности."
+line-64,工作人员,那您还跳吗？安全装置我已经为您绑好了。,"Would you like to come back and remove your safety harness, then?",Так вы будете прыгать? Я уже закрепил страховочный трос для вас.
+line-69,艾拉,哈，为什么不呢，反正是我老板掏钱。,"On the other hand, my boss did pay for it.","Ха, а почему бы и нет? В конце концов, платит мой босс."
+line-74,,背对跳台，艾拉站到边缘处，脚跟的悬空让她产生了丝丝麻意，顺着被绑束的地方蔓延上背脊。,"Ela backs up to the edge and feels nothing but air on her heels, a tingling feeling that goes straight up her spine along the harness.","Повернувшись спиной к платформе, Эла подошла к краю. От пустоты под каблуками по спине пробежала легкая дрожь, распространившаяся по местам крепления снаряжения."
+line-75,,对着工作人员，她轻轻扯出一个笑容，随即向后倒去，享受被失重感捏紧心脏的快意。,"She smiles at the worker and falls backwards, allowing the feeling of weightlessness to seize her heart.","Одарив сотрудника легкой улыбкой, она опрокинулась назад, наслаждаясь удовольствием от чувства невесомости, сжимающего сердце."
+line-85,,在不停降落的过程中，艾拉等待着绳索延展到极致，然后回弹，将她向上牵拉。,"She waits for the rope to become fully stretched, then bounce back, pulling her back up.","Во время непрекращающегося падения Эла ждала, когда трос натянется до предела и, пружиня, дернет ее вверх."
+line-91,,但在耳旁呼啸的风声里，她先听到了水花绽开的声音。,Then she hears the sound of a splash in the roaring wind.,Но в свисте ветра у нее в ушах она первой услышала звук всплеска воды.
+line-92,工作人员,*粗口*，那个沃尔珀居然自己解开了自己的安全扣？！,"Oh no, that Vulpo unlocked his own harness?!","*Ругательство*, этот вульпо отстегнул свой карабин сам?!"
+line-93,艾拉,Gówno！,Gówno!,Gówno!
+line-106,广告,海滨风光无限，莫让阳光灼伤脸颊，“大帽老哥”防晒霜，让你的肌肤远离紫外线的伤害。现在订购还可获赠一套尾巴护理油......,Don't get sunburned when you enjoy the beach! Buy Sombrero Dude sunscreen now and get a free set of tail care oil...,"Побережье прекрасно, не дайте солнцу обжечь ваши щеки! Солнцезащитный крем «Старик в шляпе» защитит вашу кожу от губительного ультрафиолета. При заказе прямо сейчас вы получите набор масла по уходу за хвостом в подарок…"
+line-113,医生,梅捷，你在看什么东西？,What is that?,"Мей, что ты там читаешь?"
+line-115,双月,那边的......呃，猫耳女郎，在向路人派发这些东西，我就顺手拿了一张。,That girl with cat ears was handing them out. I took one.,"Там… э-э, девушка с кошачьими ушами раздавала это прохожим, я и взяла одну листовку."
+line-117,医生,确实，这地方紫外线强度的确比较高。,It's true that UV rays are strong around here.,"Действительно, уровень ультрафиолета здесь довольно высок."
+line-119,双月,不，我是在看这个。,"Not that, this.","Нет, я смотрю не на это."
+line-121,医生,磨角石？打错了吧，是不是角质——,Polishing stone for horns? What are they babbl—,"Камень для шлифовки рогов? Наверное, опечатка, может быть, для удаления ороговевшей кожи…"
+line-129,兴奋的莱塔尼亚旅客,想不到战事频发的玻利瓦尔竟然藏了这么一个度假胜地，这次出差我原本都不想来的。,Who would have thought there would be such a wonderful vacation spot in war-torn Bolívar? I was dreading this business trip at first.,"Никогда бы не подумал, что в Боливар, где вечно неспокойно, есть такой курорт. Даже ехать сюда поначалу не хотел."
+line-131,高兴的莱塔尼亚旅客,是啊，这几天过得很开心，就是角在盐水里泡久了之后变得很粗糙，一会儿回旅馆得好好打磨一下。,"It's been great, except the salt water makes your horns rough. I need to polish mine when we get back to the hotel.","Да уж, последние дни прошли просто отлично. Правда, рога после долгого пребывания в соленой воде стали совсем грубыми. Сейчас вернусь в отель и хорошенько отшлифую их."
+line-140,医生,......,...,……
+line-141,医生,传单上还有沃尔珀、鲁珀和菲林专用的毛发柔顺剂。,"And conditioner tailored to Vulpo, Lupo and Feline.","На листовке также есть кондиционер для шерсти, специально для вульпо, лупо и фелинов."
+line-143,双月,十升大包装？耳朵和尾巴用得到这么多吗？,"Ten-liter set?! I mean, I know they have ears and tails and all...",Десятилитровые канистры? Неужели на уши и хвост нужно столько?
+line-153,鬼祟的叙拉古游客,现在到了一批好货，明天我们在沙滩浴场见面时细谈。,This batch is a good one. Let's talk details on the beach tomorrow.,"Только что подогнали товар получше. Завтра встретимся на пляже, обсудим детали."
+line-155,可疑的叙拉古游客,哼，希望它们对得起我出的价。,They'd better be worth the price.,"Хм, надеюсь, они стоят тех денег, что я плачу."
+line-167,双月,......他们确实需要。,"Okay, they need it.",…Им они действительно нужны.
+line-169,医生,实话说，现在无论看见什么，我都不会觉得奇怪了。,Nothing could surprise me now.,"Честно говоря, теперь меня здесь уже ничто не удивит."
+line-179,路过的萨科塔,（不屑地皱眉）,(Frowns disapprovingly),(Пренебрежительно хмурится)
+line-181,萨卡兹佣兵,（嫌弃地绕走）,(Goes around scornfully),(С отвращением обходит стороной)
+line-195,医生,......上帝啊......,Sacré dieu...,…Господи…
+line-197,双月,......,...,…
+line-200,主持人的声音,......让我们欢迎今天的嘉宾，多索雷斯的文化产业新秀，雷内尔·科瓦尔斯基先生！,"Let's welcome our guest today, Mr. Reynell Kowalski, the new star of Dossoles's art scene!","…А теперь поприветствуем сегодняшнего гостя, новую восходящую звезду культурной индустрии Дольсореса, господина Рейнера Ковальского!"
+line-201,雷内尔的声音,感谢多索雷斯电视台给我一个被电视机前的观众唾骂的机会，也感谢电视台给这些观众一条发泄压力的途径。,"Thank you, Dossoles TV, for giving me the chance to be scorned by thousands sitting in front of their television screens, and a way for them to let off some steam.","Благодарю телеканал Дольсореса за возможность услышать проклятия в свой адрес от зрителей по ту сторону экрана, а также за то, что предоставили этим зрителям отличный способ выпустить пар."
+line-203,双月,啊，那不是克里斯达尔艺术馆的老板吗？,"Hey, isn't that the owner of Galería Krysztauowa?","А, это ведь владелец галереи «Кристалл», да?"
+line-205,医生,想不到在街道上也能听到那家伙的声音。,I didn't expect to hear his voice on the street.,Не ожидал услышать этого парня прямо на улице.
+line-207,医生,不知道艾拉和导火索能不能与他和平相处，直觉告诉我那是个相当能惹人生气的家伙。,I wonder if Ela and Fuze are getting along with him. I have a hunch he's one to get on your nerves.,"Интересно, смогут ли Эла и Запал поладить с ним. Интуиция подсказывает, что это весьма раздражающий тип."
+line-211,赌场打手,去去去，不赌就别来店门口转！瞧你穿的那一身行头，吓得客人都不来了。,"If you're not playing, get lost! You're scaring away customers with that shabby outfit.","А ну, пошел отсюда! Не играешь — не крутись у входа! Посмотри, во что ты вырядился, распугиваешь всех клиентов."
+line-213,双月,嗯......？,Hm?,М-м…?
+line-216,街头艺术家,我前几天来过的，就站在这儿宣传自己社区的狂欢节，又不赶你们的客人。,I'm just advertising our community festival. I'm not bothering your guests.,"Я уже заходил сюда пару дней назад, просто стою здесь и продвигаю карнавал нашего района. Клиентов ваших я не гоню."
+line-217,赌场打手,你最好别。,You'd better not be.,Лучше не стоит.
+line-229,街头艺术家,嘿，哥们，有没有兴趣来看看我们社区的东西？给，这是传单！我们街头艺术社区有一场真正的艺术狂欢节！,"Hey, folks! Wanna check out our festival? Take a flyer! It's a real special event in the street art community!","Эй, приятели, есть интерес глянуть, что у нас в районе творится? Держите листовку! На нашем карнавале уличного искусства вас ждет настоящее искусство!"
+line-234,医生,谢谢，恐怕我们有自己的事情要做，所以......,"Thanks, but I don't think we'll have the time...","Спасибо, боюсь, у нас свои дела, так что…"
+line-238,街头艺术家,你们不会是要去那个玻璃房子的开幕式吧？别被那家伙宣传的东西骗了，他懂个屁的艺术！,"You're not going to that glass house opening, are you? Don't let that guy fool you with his fancy talk! He doesn't know anything about art!","Вы ведь не собираетесь на открытие того «стеклянного дома», надеюсь? Не ведитесь на рекламу этого типа, он в искусстве ни бельмеса не смыслит!"
+line-243,医生,呃......,Er...,Э-э…
+line-247,街头艺术家,没关系，拿着吧，传单而已，看看嘛。,"Come on, take a flyer.","Ничего страшного, возьмите. Это всего лишь листовка, просто посмотрите."
+line-254,双月,传单上写了什么？,What does it say?,Что там написано?
+line-256,医生,别说，如果他们真的能做出来，我还挺想去看看的。,"Hmm, I would be interested in checking it out, if they manage to pull it off.","Если они действительно смогут это реализовать, я бы с удовольствием взглянул."
+line-259,雷内尔的声音,......我可以向诸位保证，此次开幕式将会激发多索雷斯在文化艺术领域的产业活力。,...This ceremony will stimulate Dossoles's artistic and cultural fields.,"…Я могу гарантировать вам, что данная церемония открытия придаст новый импульс развитию культурно-художественного сектора Дольсореса."
+line-260,雷内尔的声音,为此我和员工们准备了一系列的并购计划、商业提振计划、产业升级计划......,"My staff and I have prepared extensive plans for acquisitions, business development, sector growth...","Для этого мы с моими сотрудниками подготовили серию планов по слиянию и поглощению, стимулированию бизнеса, модернизации отрасли…"
+line-261,雷内尔的声音,这将成为一个重大契机，克里斯达尔艺术馆的建立将为多索雷斯的经济发展提供强大的推力。,The opening of Galería Krysztauowa will be a turning point in Dossoles's economic history.,"Это станет важнейшим поворотным моментом, и создание галереи «Кристалл» даст мощный толчок экономическому развитию города."
+line-263,双月,比起这个来，我确实更想看看传单上的东西。,Now I'm more interested in what's on the flyer.,"Лучше бы я взглянул на то, что на листовке."
+line-276,艾拉,咳咳......*粗口*，这个混账是疯了吗？,"*Cough* Are you out of your mind, you son of a vixen?!","Кхм-кхм… *ругательство*, этот негодяй спятил?"
+line-285,艾拉,醒醒！你这混蛋！,"Wake up, you bastard!","Очнись! Ты, придурок!"
+line-286,艾拉,我能摸到你的脉搏，少给我装死！,Stop playing dead! I can feel your pulse!,"Я чувствую твой пульс, хватит притворяться мертвым!"
+line-290,雷内尔,呕......咳咳，哈哈哈哈......咳咳......,*Cough* Haha... *cough*,"У-э-э… кхм-кхм, ха-ха-ха-ха… кхм-кхм…"
+line-295,雷内尔,只是一次小小的率性而为罢了，在离水面最近的地方，解开束缚自己的安全扣，自由地落入水中......,"Just a moment of capriciousness. Releasing the shackles that bind me at the closest point to the surface, and falling freely into the water...","Просто небольшая минутная слабость. В самой нижней точке, прямо над водой, отстегнуть ремни и свободно упасть вниз…"
+line-297,雷内尔,这不比单纯地随着绳子上蹿下跳有意思多了？,Isn't that so much more fun than just bouncing up and down on a rope?,"Разве это не интереснее, чем просто болтаться на веревке вверх-вниз?"
+line-299,艾拉,......雷内尔先生，很抱歉，我认为我无法继续承担您的安保工作。感谢您提供的住处，明天我会和伙伴们搬离那里。,"...I'm sorry, Mr. Reynell, but I don't think I can continue to serve as your bodyguard. Thank you for giving us a place to stay. My squad and I will move out tomorrow.","…Господин Рейнер, мне очень жаль, но я больше не могу выполнять вашу охрану. Спасибо за предоставленное жилье, завтра мы с товарищами съедем."
+line-301,雷内尔,离职？不至于吧，你这么生气的吗？别这么紧张，我试过从更夸张的高度入水，真的，这不还是活得好好的。,"Come on, I've fallen into water from even greater heights. See, I'm completely fine, am I not? No need to get angry.","Увольняешься? Это чересчур, нет? Ты чего такая напряженная? Не волнуйся, я прыгал с гораздо более экстремальных высот, и как видишь, до сих пор цел."
+line-303,艾拉,我无法保护一个拿自己生命开玩笑的人。,I can't protect a man who plays jokes with his life.,"Я не могу защищать человека, который играет собственной жизнью."
+line-305,雷内尔,你误会了，艾拉小姐，我有个计划多年的目标，在完成它之前，我会把自己的生命看得比什么都重要。,"You're mistaken, Miss Ela. I have a goal that I've been working toward for many years. Until it's complete, no one values his life more than I do.","Ты неправильно поняла, мисс Эла. У меня есть цель, которой я шел много лет, и до тех пор, пока я её не достигну, я буду беречь свою жизнь превыше всего."
+line-306,雷内尔,记得把身上的水擦擦，别着凉了，看得出......你的身体并没有“我们”这么强壮。,Remember to wipe yourself dry. I can tell your constitution is not as strong as 'ours.',"Не забудь вытереться, а то простудишься. Видно же… твое тело не такое крепкое, как у «нас»."
+line-321,马特奥,知道吗？一只脚跨进这扇门的时候，回不回得去就由不得你自己了。,"Don't you know? Once you step through this door, it's not up to you whether you get to step back through it again.","Знаешь что? Стоит сделать шаг через этот порог, и сможешь ли ты вернуться — решать уже не тебе."
+line-323,米沃什,我是带着好意来的，马特奥上尉。,"I come in good faith, Capitán Mateo.","Я пришел с добрыми намерениями, капитан Матео."
+line-325,马特奥,好意？我的人刚被你老板好好“招待”了一番，今天你就带着好意上门了？,Good faith? After the reception my men got from your boss?,"Добрыми намерениями? Моих парней только что хорошенько «поприветствовал» твой босс, а теперь ты заявляешься сюда с добрыми намерениями?"
+line-327,米沃什,上尉，您和雷内尔为什么非要闹个你死我活呢？,Why can't you and Reynell stop bickering with one another?,"Капитан, зачем вы с Рейнером так настойчиво пытаетесь свести счеты?"
+line-329,马特奥,那好啊，我想要街头艺术社区那块地，让他直接拱手让给我啊？,Interesting question. Is he going to hand over the plot of land where that street art community is squatting?,"Отлично, тогда пусть он просто отдаст мне землю квартала уличного искусства, прямо сейчас."
+line-330,马特奥,挡我的路，就是挡玻利瓦尔联合政府的路。,"Get in my way, and you get in the way of Bolívar's Coalition government.",Вставать у меня на пути — значит стоять на пути правительства Боливара.
+line-331,马特奥,一个除了钱什么都没有的卡西米尔人，别以为雇得起几个佣兵就能跟联合政府的代言人谈判了，他还没那个资格。,A Kazimierzian with nothing but money thinks he can negotiate with a government representative just because he hired a few mercenaries?,"Типичный казимирец, у которого за душой ничего, кроме денег. Не думай, что если нанял пару наемников, то можешь вести переговоры с представителем правительства. У него нет таких полномочий."
+line-333,米沃什,雷内尔并不想和您争那块地的所有权。如果我们双方能达成合作，他很愿意把那块地让给您......或者让给联合政府，没什么差别。,"Reynell doesn't want to fight you over that piece of land. If we can reach an agreement, he is happy to cede control of the land to you... or to the Coalition government. It makes no difference.","Рейнер вовсе не хочет бороться за право собственности на эту землю. Если мы придем к соглашению, он охотно уступит её вам… или правительству, разницы нет."
+line-335,马特奥,你替他说了算？,And you speak for him?,Ты решаешь за него?
+line-337,米沃什,嗯......我的意思代表了他的意思。,I do.,М-м… Я лишь транслирую его волю.
+line-338,米沃什,如果没有那场不周密的绑架，我们本应该在更和睦的气氛下聊这些。,"We could have been talking about this under more amicable circumstances, if not for that ill-conceived kidnapping attempt.","Если бы не то неловкое похищение, мы могли бы поговорить об этом в гораздо более дружелюбной атмосфере."
+line-340,马特奥,你指责我？,You blame me for that?,Ты меня обвиняешь?
+line-342,米沃什,那只是一场不幸的误会。,It was an unfortunate misunderstanding.,Это было лишь прискорбное недоразумение.
+line-344,马特奥,不用给我台阶下，我不在乎这些。你最好直接告诉我事实，雷内尔到底想从我这儿得到什么？,"No need to make excuses for me. I don't care. Just tell me, what does Reynell want?","Не надо меня подкупать, мне это не интересно. Лучше выкладывай начистоту, чего именно Рейнер хочет от меня добиться?"
+line-346,米沃什,在玻利瓦尔立足，如果没有您这样有背景的人支持，怎么能行呢？,One doesn't do business in Bolívar for long without the support of a powerful patron... someone like you.,"Закрепиться в Боливаре без поддержки человека с таким весом, как у вас, было бы невозможно, не так ли?"
+line-348,马特奥,我在军队里的日子比在学校里多，听不懂你们这些弯弯绕，有话直说。,"I spent most of my years in the army, not the classroom. Get to the point.","Я провел в армии больше времени, чем в школе, ваших дипломатических выкрутасов не понимаю. Говори прямо."
+line-350,米沃什,唉......那片社区与其说是流浪艺术家的聚居区，不如说是帮派横行的法外之地。,Well... that neighborhood is not so much a home for artists as a lawless place where gangs roam unchecked.,"Эх… тот район, скорее, не пристанище для художников-бродяг, а зона беззакония, где правят банды."
+line-352,米沃什,我们之前有过开发那里的计划，但里面的人一个比一个凶悍。更重要的是，那里还生活着一些感染者，非常难办。,"We had plans for its development, but the residents were utterly vicious. Even worse, there are Infected living among them.","У нас были планы по его развитию, но люди там живут свирепые. А что еще хуже — там обитают зараженные, с ними очень трудно справиться."
+line-354,马特奥,哼，说白了还是你们手头只有钱，以为在多索雷斯什么都能用钱解决。,Hmph. You thought money could solve all your problems in Dossoles.,"Хм, по сути, у вас есть только деньги, и вы думали, что в Дольсоресе всё можно решить деньгами."
+line-356,米沃什,是啊，总归是有能力解决问题的人才配享用最后的果实。,Yes. Only those who are can solve problems get to enjoy the ultimate fruit.,"Так и есть. Но лишь те, кто способны решать проблемы, достойны собирать плоды."
+line-370,导火索,抱歉各位，我对各位的作战风格和战术素养还一无所知，对此最快的了解方法是直接进行一场攻防战。,"I don't know your style or skills, so I think the quickest way would be a simulated engagement.","Прошу прощения, господа, но я ничего не знаю о вашей тактике и навыках. Лучший способ быстро во всем разобраться — провести учебную схватку."
+line-371,导火索,四人一组，两组对战，三局两胜。对局的核心是解救人质。,"Two teams, four in each team, best of three.","Делимся на две группы, играем до двух побед. Суть в спасении заложника."
+line-372,导火索,进攻方需要确认人质所在并将其从所在地安全带走，防守方需要阻止进攻方营救人质。,"Attacking team tries to locate the hostage and rescue him, defending team tries to stop the attackers from rescuing the hostage.","Атакующие должны обнаружить заложника и безопасно вывести его из здания, обороняющиеся — помешать им."
+line-373,导火索,我说得够清楚吧？,Any questions?,Все понятно?
+line-376,保安们,......,...,……
+line-377,多嘴的保安,那谁是人质？,Who's the hostage?,И кто будет заложником?
+line-379,导火索,公平起见，我来。,"For the sake of fairness, me.",Для честности — я.
+line-395,进攻方保安A,报告！我从窗户进来了！,I'm in through the window!,Отчет! Я пробрался через окно!
+line-396,进攻方保安A,这个房间完全没人！我去下一个房间看看。,Room's empty! Moving on to the next one.,В этой комнате никого нет! Проверю следующую.
+line-403,进攻方保安B,见鬼，你走路不长眼睛吗？嘘！动作小点！,"Hey, watch where you're going!","Чертовщина, ты куда смотришь? Тсс! Тише!"
+line-404,进攻方保安A,明明是你没看路撞老子！,<i>You</i> watch where <i>you're</i> going!,"Это ты в меня врезался, не глядя под ноги!"
+line-418,进攻方保安B,能不能安静点！你要去的那几个方向我都搜过了，没有看到人，你没听通讯里面讲吗？,Quiet! I've already searched the direction you're going in. There's nobody there. Didn't you hear it on the radio?,"Можно потише?! Я уже обыскал все те направления, людей там нет. Ты что, связь не слушал?"
+line-419,进攻方保安A,通讯？什么通讯？你是说这个？这东西刚刚掉窗户外面了，正好找你要个新的。赶紧给我一个。,"Radio? Oh, I dropped my earpiece out the window. I was looking for you to get a new one.",Связь? Какую связь? Ты об этом? Эта штука только что выпала в окно. Дай новую. Быстрее.
+line-435,防守方保安A,十几米外就能听到这大嗓门了。报告，消灭两人。,Two enemies down. I could hear them from a mile away.,"Их вопли слышно за десять метров. Докладываю, двое выбыли."
+line-446,防守方保安B,老兄，能不能拜托你配合下，蹲到这个板子后面，最好露个头顶，这样就能吸引他们过来。,"How about you crouch behind this board? Maybe show an inch or two of your head, so as to draw their attention.","Приятель, помоги нам, сядь за эту перегородку, желательно так, чтобы верхушка головы торчала — они на это клюнут."
+line-447,防守方保安C,我们三个人守着唯一的门，他们进来一个我们打一个。,The three of us will guard the only door and take them out as they enter.,"Мы втроем охраняем единственный вход, каждый, кто сунется, сразу получает."
+line-449,导火索,......就不怕我受伤？,...You're not concerned that I could get hurt?,"…Вы не боитесь, что я пострадаю?"
+line-451,防守方保安D,怎么可能受伤，他们进来的时候，就被我们消灭掉了，哈哈！,"Get hurt? Nah, we got them the moment they step inside.","Да как ты можешь пострадать? Они даже войти не успеют, как мы их нейтрализуем, ха-ха!"
+line-461,防守方保安B,*粗口*，是源石技艺！我看不见了！,Dammit! The Originium Arts! I can't see!,"*Ругательство*, это искусство Артс! Я ничего не вижу!"
+line-462,防守方保安C,他们、他们从窗户进来了！别过来！,Th-They're coming in through the window! Stay back!,Они… они прорвались через окно! Не подходи!
+line-464,进攻方保安C,成功找到人质，屋里还有三个傻子在门口等我们，可惜进攻又不是只有这一条路能走。,Hostage found. There were three idiots waiting by the door. Looks like they forgot there's more than one way in.,"Заложник найден. Там трое придурков на входе дежурили, жаль, что штурмовать можно не только оттуда."
+line-465,进攻方保安D,这个闪光的源石技艺看着挺有效的......等一下，那个人在......,"The bright flash looks like it works well... hey, what's that guy doing?","Эта световая магия выглядит довольно эффективно… погодите, тот человек…"
+line-469,防守方保安C,可恶！别过来！都别想靠近我！,Get away from me! Dammit! Get away!,Проклятье! Не подходить! Никому не приближаться!
+line-473,进攻方保安C,报告，报告！这个人被晃瞎了正在胡乱攻击！可恶！我队友呢！怎么人都倒了！,H-He's just shooting blindly! Where are my teammates? All down?!,"Отчет, отчет! Этот человек ослеплен и бьет наугад! Черт! Где мои напарники? Как они могли все лечь?!"
+line-484,导火索,......,...,……
+line-494,导火索,*俄语粗口*，全都停下！,"*Russian swearing*. Stop, stop!","*Русское ругательство*, всем стоять!"
+line-495,导火索,真是让我大开眼界了。,You guys are a real eye-opener.,Вы открыли мне глаза.
+line-510,米沃什,想不到你这么早就回来了，我不在身边，你现在不该对那些平时我禁止你去的地方跃跃欲试吗？,You're back early. I thought you would be out enjoying places I don't let you go.,"Не ожидал, что ты вернешься так рано. Раз меня не было рядом, не должен ли ты был пуститься во все тяжкие в тех местах, куда я тебе запрещаю соваться?"
+line-512,雷内尔,出了些小意外。,There was an accident.,Вышли небольшие накладки.
+line-514,米沃什,受伤了？,You're hurt?,Ранен?
+line-516,雷内尔,不，是艾拉小姐不干了。,"No, Miss Ela quit.","Нет, мисс Эла уволилась."
+line-518,米沃什,......这已经是你气走的第三十二个私人保镖了，我不可能一直陪着你，我自己还有工作要做。,...This is the 32nd bodyguard who's had enough of you. I can't spend all day with you when I've got my own job to do.,"…Это уже тридцать второй личный телохранитель, которого ты довел до ухода. Я не могу вечно возиться с тобой, у меня есть своя работа."
+line-520,雷内尔,先换个话题，你和那位上尉谈得怎么样？,What about your negotiations with the Capitán?,Давай сменим тему. Как прошли переговоры с тем капитаном?
+line-522,米沃什,他上钩了。,He took the bait.,Он на крючке.
+line-524,雷内尔,不错，接下来就看看我们在那片社区的“朋友们”如何表现了。,Good. Now we'll see how our 'friends' in that community perform.,"Отлично. Посмотрим, как покажут себя наши «друзья» в том квартале."
+line-526,米沃什,他之后还有的头痛。,He'll have his hands full.,Ему еще предстоит хлебнуть горя.
+line-528,雷内尔,放心，和社区那些艺术家来来回回斗了这么久，他们惹麻烦的能力我还是清楚的。,"I've spent long enough dealing with those artists to know that if there's one thing they do well, it's causing trouble.","Не волнуйся, за столько времени разборок с местными художниками я прекрасно знаю их способность доставлять неприятности."
+line-537,雷内尔,嗨，艾拉小姐，离职手续办得怎么样？,Miss Ela! Have you handed in your resignation papers yet?,"Хэй, мисс Эла, как проходят дела с увольнением?"
+line-539,艾拉,很失败，没人告诉我人事部的人今天不上班。,No one told me HR is closed today.,"Безуспешно. Никто не сказал мне, что отдел кадров сегодня не работает."
+line-541,雷内尔,没办法，我手底下的员工一向如此随心所欲，说来就来，说走就走，我也很头痛。,"Ah, my staff have always been capricious. It's such a headache.","Ничего не поделаешь, мои сотрудники всегда делают, что хотят — приходят и уходят, когда пожелают. У меня самого от этого голова болит."
+line-543,艾拉,......,...,……
+line-545,艾拉,对了，在离开前有件事我得告诉您，特展区中心那座雕塑是赝品。,"Before I go, you should know that the sculpture at the center of the special exhibit is a counterfeit.","Кстати, перед уходом должна кое-что сказать: та скульптура в центре выставочного зала — подделка."
+line-547,艾拉,它和那位雕塑家的其他作品比起来有几处细微的不同，您可能得查一查这座雕塑的来历。,It's a tiny bit different from the other works by the same sculptor. You should look into it.,По сравнению с другими работами этого мастера там есть мелкие различия. Вам стоит проверить происхождение скульптуры.
+line-549,雷内尔,啊？,Oh?,А?
+line-551,艾拉,也许您被艺术品贩子骗了，对您这样的商人来说，这也算是常事。,Maybe your dealer ripped you off. I guess that's a fact of life for a businessman like you.,"Может, вас обманул торговец предметами искусства. Для такого бизнесмена, как вы, это обычное дело."
+line-553,雷内尔,噗——噗哈哈哈哈，艾拉小姐，我现在有点不想让你走了。,"Hahaha! I'm starting to regret letting you go, Miss Ela.","Пфф… ха-ха-ха-ха, мисс Эла, сейчас мне уже не хочется, чтобы ты уходила."
+line-555,艾拉,啊？,Oh yeah?,А?
+line-557,雷内尔,你看得很准，真的很准。那座雕塑是我仿的，我觉得还不错，就把它放在那里了。,"You have a good eye. I was the one who made the counterfeit. I kind of liked it, so I just left it out.","Ты очень наблюдательна, правда. Эту скульптуру я сам подделал. Мне показалось, что вышло неплохо, и я поставил её там."
+line-558,雷内尔,雕塑摆在那里这么长时间，除了你，没有一个人看出来。,It's been there for a while. You're the first one to realize it's a fake.,"Она простояла там так долго, и кроме тебя, никто не заметил подвоха."
+line-560,艾拉,或许是因为他们看出来了也不敢驳您这位大老板的面子。,Maybe others just don't dare point it out.,"Может быть, другие тоже заметили, но не решились пойти против воли такого большого босса."
+line-562,艾拉,既然这对雷内尔先生您来说不是问题，那我和我的朋友便离开了。,"Since that doesn't bother you, my friends and I will be going now.","Раз для вас, господин Рейнер, это не проблема, тогда мы с друзьями пойдем."
+line-564,雷内尔,慢着，艾拉小姐。,"Just a moment, Miss Ela.","Постой, мисс Эла."
+line-566,艾拉,还有什么事？,What is it?,Что-то еще?
+line-568,雷内尔,如果之后我安分一点，你能继续为我工作吗？,Would you keep working for me if I promised to behave?,"Если я буду вести себя приличнее, ты останешься у меня на работе?"
+line-570,米沃什,（小声）还真是罕见......,"(Mumble) Well, that's something you don't see every day...",(Шепотом) Вот это редкость…
+line-572,艾拉,您在挽留我？,You're trying to persuade me to stay?,Вы меня уговариваете остаться?
+line-574,雷内尔,是啊。,Yes.,Именно.
+line-575,雷内尔,你难道就不想看看那座雕塑的真品吗？你观察得那么仔细，一定在那位雕塑家的作品处停了很久吧。,Don't you want to see the authentic piece? You must have spent a lot of time with that sculptor's work to notice such tiny details.,"Разве тебе не хочется увидеть оригинал той скульптуры? Ты так внимательно её рассматривала, должно быть, долго задерживалась у работ этого скульптора."
+line-577,艾拉,......,...,……
+line-578,艾拉,希望您真的能像您保证的那样安分。,I hope you can keep your promise.,"Надеюсь, вы действительно сможете вести себя так прилично, как обещали."
+line-596,空爆,埃内斯托，我们到多索雷斯还有多远啊？,"How far to Dossoles, Ernesto?","Эрнесто, сколько нам еще до Дольсореса?"
+line-598,龙舌兰,按照现在的速度，就快了。,We're almost there.,С нашей скоростью — уже скоро.
+line-600,空爆,这话你已经说了好几天了！,You've been saying that for days!,Ты твердишь это уже несколько дней!
+line-602,龙舌兰,真的快到了......等把这批新药送到当地人手里，我一定给你介绍个又有阳光，又有沙滩，又能一躺一整天的地方。,"Yes, we're almost there... once I deliver this batch of medicine, I'll take you to a sunny beach where you can lie down for a whole day.","Правда, почти приехали. Как только доставим эту партию лекарств местным, я обязательно покажу тебе местечко, где есть и солнце, и пляж, и можно лежать целыми днями."
+line-604,龙舌兰,而且远离赌场和酒吧，包你满意。,Far away from any casinos or bars.,"Причем вдали от казино и баров, обещаю, тебе понравится."
+line-606,空爆,酒吧之类的倒也还好，毕竟借酒消愁的人我也能理解......等下，你怎么知道我不喜欢赌场？,"I could live with bars. I understand that some people need to drink their troubles away... hey, how did you know I don't like casinos?","Ну, бары — это ладно, тех, кто заливает горе вином, я еще могу понять… Погоди, откуда ты знаешь, что я не люблю казино?"
+line-608,龙舌兰,我也是第一次带搭档的干员回多索雷斯，自然是要周到接待的，所以出发前特意去找梓兰姐问了你的喜好。,"It's my first time taking a partner operator home to Dossoles, so I asked Orchid about you before we left.","Я впервые беру оперативника напарником в Дольсорес, поэтому хотел организовать всё как следует. Перед отъездом специально спросил у сестры Цзылань про твои предпочтения."
+line-610,空爆,那，我离开家乡的事......,Then you know what happened when I left my homeland...,Тогда… насчет моего отъезда из родных краев…
+line-612,龙舌兰,勇敢的义举。,A brave act.,Смелый поступок.
+line-614,空爆,我后来又回家乡的事......,And when I went back...,"А насчет того, что я потом вернулась домой…"
+line-616,龙舌兰,可敬的抉择。,An honorable choice.,Достойный выбор.
+line-618,空爆,......,...,……
+line-620,空爆,算了，又不是什么难以启齿的经历，只是这些光荣事迹明明应该在酒酣耳热的时候一口气讲出来的，现在嘛......唉。,"Well, it's not something I'm ashamed of... it's just a little more fit to be shared over a drink or two, not like this...","Да ладно, ничего такого, о чем стоило бы молчать. Просто эти «героические подвиги» следовало бы рассказать залпом за рюмкой чего-нибудь крепкого, а сейчас… эх."
+line-622,空爆,到了多索雷斯，记得请我喝一杯，就当是听故事的报酬了，怎么样？,"Well, you can buy me a drink when we get to Dossoles. That's my price for hearing the story. Deal?","Как приедем в Дольсорес, не забудь угостить меня выпивкой — в качестве гонорара за прослушивание истории, договорились?"
+line-624,龙舌兰,乐意之至。,Deal.,С огромным удовольствием.
