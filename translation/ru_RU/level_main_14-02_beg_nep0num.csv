@@ -1,0 +1,301 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,main_14
+__chapter__,,Chapter Name,obt/main/level_main_14-02_beg,破解锤砧战术
+,,,,
+char-1,凯尔希,凯尔希,Kal'tsit,Кельси
+char-2,Logos,Logos,Logos,Logos
+char-3,阿米娅,阿米娅,Amiya,Амия
+char-4,“老财”,“老财”,'Shopkeep',«Старик»
+char-5,“矿工”,“矿工”,'Miner',«Шахтер»
+char-6,“司机”,“司机”,'Driver',«Водитель»
+char-7,？？？,？？？,???,???
+char-8,Mon3tr,Mon3tr,Mon3tr,Mon3tr
+char-9,“灵幛”,“灵幛”,Sudaram,«Духовный покров»
+,,,,
+line-9,,行动开始后十三小时,Thirteen hours into the operation...,Тринадцать часов после начала операции.
+line-14,凯尔希,情况正变得越来越糟。,"The further we go, the more dire the situation becomes.",Ситуация становится всё хуже.
+line-16,凯尔希,新生的峡谷，改道的河流......曾经供巨型城市通行的航道，已经被撕碎、重组，变成了无人能知晓全貌的样子。,"Freshly-rent canyons, diverted rivers... pathways that withstood the weight of great normadic cities, now torn, distorted, warped beyond recognition.","Новые каньоны, измененные русла рек... пути, по которым когда-то проходили мегаполисы, были разорваны и перестроены в нечто, чей полный облик теперь никому не ведом."
+line-17,凯尔希,曾经的地图成了一张废纸，每一条小径都需要重新寻觅。,The maps of the past are now no more than scrap paper. Every trail must be charted anew.,"Прежние карты стали бесполезны, каждую тропу приходится искать заново."
+line-19,Logos,但“提卡兹之血”无疑就在这个方向，我与它之间的纽带正在颤动。,"There is no doubt that the Blood of Teekaz lies this way, though. Our bond yet hums.","Но «Кровь Тиказов» определенно в этом направлении, связь между ней и мной вибрирует."
+line-21,凯尔希,越靠近战场中心，一切“信息”与源石的结合率就越高。,"The closer we get to the heart of the battlefield, the higher the rate that Originium integrates with all information.","Чем ближе мы подходим к центру поля боя, тем выше становится коэффициент соединения всей «информации» с Ориджиниумом."
+line-22,凯尔希,岩石，泥土，水源与生灵......在泰拉，源石的影响无处不在，可也许早没有人能记起，它作用的根本机制是什么。,"The rocks, the soil, the waters, the peoples... Originium's influence has its clutch around virtually everything on Terra, yet perhaps we have long forgotten the fundamental principles of how it works.","Камни, почва, источники воды и живые существа... На Терре влияние Ориджиниума повсюду, но, возможно, уже никто не помнит, в чем заключается фундаментальный механизм его действия."
+line-25,,凯尔希，你刚刚提到了“信息”？,"What did you mean by 'information' just now, Kal'tsit?","Кельси, вы только что упомянули «информацию»?"
+line-28,凯尔希,......,...,...
+line-29,凯尔希,也许，你很快就会知道了，博士。,"Perhaps you shall find out rather soon, Doctor.","Возможно, вы скоро узнаете, Доктор."
+line-31,凯尔希,又或者......不，没什么。,"Or maybe... No, never mind.","Или же... нет, ничего."
+line-33,凯尔希,这一片还在蔓延的、被源石充分浸染的土地在客观上确实有利于特雷西斯的军事行动，维多利亚人的阵线几乎被彻底摧毁。,"Objectively speaking, this Originium contaminated terrain does give a tactical advantage to Theresis's military operations. In contrast, the Victorian front is all but shattered.","Эта земля, всё еще охваченная пламенем и пропитанная Ориджиниумом, объективно способствует военным действиям Терезиса; линии фронта викторианцев практически полностью уничтожены."
+line-34,凯尔希,但如今这些源石活性化的程度远非之前看似可怕的“天灾打击”可以相比。,But this level of Originium activity still pales in comparison to the Catastrophe strike earlier.,"Однако нынешний уровень активности Ориджиниума здесь не идет ни в какое сравнение с тем, что мы раньше принимали за устрашающие «удары катастроф»."
+line-35,凯尔希,特雷西斯绝不可能仅仅为了一点点的战术优势，就选择如此鲁莽地利用源石，他知道这会带来的后果。,"Theresis will never use Originium so recklessly just to gain a slight tactical advantage, this much I know of him. He knows the consequences.","Терезис ни за что не стал бы столь безрассудно использовать Ориджиниум ради незначительного тактического преимущества; он знает, к каким последствиям это приведет."
+line-38,,听起来我们这一路上会遇到很多困难。,Sounds like we're in for a difficult journey.,"Похоже, на нашем пути возникнет немало трудностей."
+line-46,阿米娅,那边开过来一辆载具？,There's a vehicle heading this way!,Там едет какой-то транспорт?
+line-48,Logos,“停止”。,'HALT'.,«Стоп».
+line-58,,货车跌跌撞撞地停了下来，从上面走下来几个熟面孔。,The truck shudders to a STOP as several familiar faces hop off.,"Грузовик, спотыкаясь, остановился, и из него вышли несколько знакомых лиц."
+line-66,“老财”,女妖老爷......还有，“魔王”大人。,"Master Banshee, and... and the <i>King of Sarkaz</i>.",Господин Банши... а также госпожа «Королева демонов».
+line-68,“矿工”,我就让你别开这条路！这下彻底跑不掉了吧！,I told you we shouldn't have taken this road! We can't run away now!,Я же говорил тебе не ехать по этой дороге! Теперь нам точно не уйти!
+line-70,“司机”,可他们又不是什么坏人......,"Well, it's not like they're bad guys...",Но они ведь не плохие люди...
+line-74,阿米娅,你们......不是应该留在“生命脊椎”上吗？,You... Weren't you supposed to stay at the Lifebone?,Вы... разве вы не должны были оставаться на «Позвоночнике жизни»?
+line-80,“老财”,哎哟......我，我就坦白了吧......,"Ah, well, I... I-I'll be honest, here...",Ой... я... я признаюсь во всем...
+line-81,“老财”,女妖老爷，魔王殿下......我们实在是太害怕了，留在那个骨头架子上，不知道还会碰上什么事，我们就逃了出来......,"Master Banshee, Your Highness, we were scared. Terrified. Having to stay inside that skeleton, not knowing who or what might come running over the hills to attack us. So we ran...","Господин Банши, Ваше Величество Королева демонов... нам было так страшно. Оставаться на тех костях — неизвестно, с чем еще мы могли бы столкнуться, вот мы и сбежали..."
+line-82,“老财”,我知道这是大罪！可是......我们也派不上用场，对吧？,"I-I know that desertion is a crime! But... we were never going to be any use, were we?","Я знаю, это тяжкое преступление! Но... мы ведь все равно бесполезны, верно?"
+line-83,“老财”,求求您，别......别处决我们，我们愿意挨鞭子！挨多少都行！,"So I beseech you, milord, Your Highness, p-please don't execute us! We'll happily take the whip instead! However many lashings you wish!","Умоляю вас, не... не казните нас, мы готовы принять удары кнутом! Сколько угодно!"
+line-87,阿米娅,......我不会处决你们，也从未打算过让你们为我战斗。,"I'm not going to execute you, and I never demanded that you fight for me.",...Я не стану вас казнить и никогда не собиралась заставлять вас сражаться за меня.
+line-89,阿米娅,如果你们想要离开，就离开吧。,"If you want to go, then you may go.",Если хотите уйти — уходите.
+line-95,“老财”,谢谢您，谢谢您！果然，魔王殿下都是智慧又慈悲的——,"Oh, thank you, thank you so much, Your Highness! You are wise and merciful and—","Спасибо вам, спасибо! И правда, Ваше Величество Королева демонов мудра и милосердна —"
+line-97,“司机”,可以让我们和你们一起走吗？,Can we three go along with you?,А можно нам пойти вместе с вами?
+line-99,“老财”,嘘——别说啦！魔王殿下饶我们一命已经是大恩大德了，你还想怎么样？,"Shh! Say no more! Her Highness has already done us an incredible kindness by sparing our lives, and you would still demand more of her?","Тсс — замолчи! Королева демонов уже подарила нам жизнь, это величайшая милость, чего тебе еще нужно?"
+line-101,“司机”,别傻了老财，就靠我们三个，还有这辆破车，指不定就在哪被炸弹炸死了。,"Don't be a fool, Shopkeep. How much of a chance do you think the three of us and that broken truck's got? We'd probably get blown up by a bomb, or worse.","Не будь дураком, Старик. Втроем, на этой развалюхе, нас могут в любой момент подорвать на бомбе."
+line-102,“司机”,魔王殿下，恳请您，带着我们离开这片战场吧。我会献上我的所有，只要您能让这两个家伙活下来，我会......我会对您效忠。,"Your Highness, this is just my humble request, but please get us off this battlefield. I'll give you everything I have. As long as these two live. I... I'll swear my undying fealty to you.","Ваше Величество Королева демонов, умоляю, возьмите нас с собой, уведите с этого поля боя. Я отдам всё, что у меня есть, если вы позволите этим двоим выжить, я... я буду вам верен."
+line-106,阿米娅,你们......不，不是这个问题。如果你们跟着我们，同样会很危险。,"You... No, that's not the issue here. If you were to follow us, I'm sorry to say that it would be just as dangerous.","Вы... нет, вопрос не в этом. Если вы пойдете с нами, вы тоже подвергнетесь опасности."
+line-107,阿米娅,博士，你觉得我们该怎么办？,"What do you think we should do, Doctor?","Доктор, как думаете, что нам делать?"
+line-110,,他们恐怕很难靠自己活着走出这片战场。;他们有可能会向军事委员会透露我们的行踪。;他们的货车不错，可以抢过来。,"I can't imagine they'll survive the battlefield on their own.;They might expose our whereabouts to the Military Commission.;Their ride's not bad, we could commandeer it.","Боюсь, они вряд ли сами выберутся с этого поля боя живыми.; Они могут выдать наше местоположение Военному совету.; Их грузовик неплох, можно его забрать."
+line-113,阿米娅,嗯......,Hmm...,Хм...
+line-119,“老财”,不不不！怎么会呢？,"No, no! We would never! ",Нет-нет-нет! Как можно!
+line-120,“老财”,我发誓，我们真的不再干佣兵的行当了，再也不了！,"I swear, we will never be mercenaries ever again! On our lives!","Клянусь, мы больше не будем заниматься наемничеством, никогда больше!"
+line-124,阿米娅,考虑到这一点，还是让他们与我们同行比较稳妥。,"Now that you've mentioned it, Doctor, I think it would be more prudent if they came with us.","Принимая это во внимание, будет безопаснее, если они пойдут с нами."
+line-128,阿米娅,博士......我们真的要这么做吗......？,Doctor... Do you really want to do that...?,Доктор... нам действительно стоит так поступить...?
+line-130,阿米娅,不......博士又在和我开玩笑了。,I see... you're just trying to liven the mood.,Нет... Доктор снова шутит надо мной.
+line-134,阿米娅,好吧，司机小姐，我们可以带你们走一段。,"Very well then, Driver. We can travel together for a while.","Хорошо, мисс водитель, мы можем подвезти вас часть пути."
+line-135,阿米娅,穿过这片战区后，你们就彻底离开维多利亚吧。,"After we pass through the warzone, you should leave Victoria once and for all.","Когда пересечем эту зону боевых действий, покиньте Викторию навсегда."
+line-141,“矿工”,谢谢你们。,Thank you.,Спасибо вам.
+line-143,“司机”,感谢......这辆载具还能载你们一程。,"My deepest gratitude. And please use our transport, it should carry us far enough.",Благодарю... этот транспорт всё еще может вас довезти.
+line-145,“老财”,哎哟，这这这，魔王大人这样仁义，我真的是不知道怎么报答您了——,"O K-K-King of Sarkaz, you are a most magnanimous soul, and I truly do not know how I could repay this kindness of yours—","Ой-ой-ой, Королева демонов столь великодушна, я просто не знаю, как вас отблагодарить —"
+line-149,Logos,硬币。,The coin.,Монета.
+line-151,“老财”,啊？,Huh?,А?
+line-153,Logos,我交予你的硬币。,The coin I gave you.,"Монета, которую я тебе дал."
+line-155,“老财”,我都忘了，哈哈，幸好没丢。来，给您！,"Ah, I completely forgot about that, haha, good thing I didn't drop it. Here, for you, milord!","Я уж и забыл, ха-ха, хорошо, что не потерял. Вот, возьмите!"
+line-156,“老财”,我知道错了！为女妖大人服务应当是我的荣幸，我怎敢再收您的好处？,"I was wrong to beg it of you! It was my honor to serve, Banshee Lord. How could I have expected payment for such a privilege?","Я знаю, что был неправ! Служить господину Банши — моя честь, как я мог принять от вас подарок?"
+line-158,Logos,......,...,...
+line-161,,你好像吓到他了。;你很想要回自己的硬币。,I think they're scared of you.;You really wanted your coin back.,"Кажется, ты его напугал.; Ты очень хочешь вернуть свою монету."
+line-164,Logos,希望我在你心中并非如此吝啬的形象。,I hope you don't think me a miser.,"Надеюсь, в твоих глазах я не выгляжу настолько скупым."
+line-166,Logos,我需要确保，他们还是“他们”本人。,I need to ensure that they are not imposters.,"Мне нужно было убедиться, что они — это действительно они сами."
+line-167,Logos,不必紧张，我无恶意。,"You need not fear, I hold no malice against you.","Не волнуйся, я не желаю вам зла."
+line-170,,Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币又出现在了老财的手里。,"Logos moves his finger, and the coin in his palm vanishes, only to reappear in the Shopkeep's hand in a heartbeat.","Logos пошевелил пальцами, и монета, лежавшая на ладони, мгновенно исчезла; в тот же миг она появилась в руках у Старика."
+line-171,,老财盯了会那只往常一抬起来就地动山摇的手，看了看自己手中的硬币，又瞅了瞅女妖一本正经的面容，颇有些不知所措。,"The shopkeep stares, first at the hand capable of quaking the earth and shaking mountains with a single pen stroke, then at the coin in his own hand, and finally back at the deadpan Banshee, unsure of how to react.","Старик некоторое время смотрел на ту самую руку, чей жест обычно сотрясал землю, потом взглянул на монету в своей ладони, а затем перевел взгляд на невозмутимое лицо Банши, пребывая в полном замешательстве."
+line-173,“老财”,这、这是变魔术？,Was that... a magic trick?,Э-это... фокус?
+line-174,“老财”,......哈哈，这可太精彩了，女妖大人还真是多才多艺！,"Haha, how delightful! You are a man of many talents, sire!","...Ха-ха, просто потрясающе, господин Банши и правда такой разносторонний!"
+line-175,“老财”,我......那个，我去帮司机发动车子！,"I... Well, I better go help Driver start the car!","Я... в общем, пойду помогу водителю завести машину!"
+line-181,Logos,......,...,...
+line-184,,很有意思的表演。;表演似乎没能起到效果。,"A most interesting performance.;Tough crowd, huh?","Очень забавный трюк.; Похоже, выступление не возымело эффекта."
+line-187,Logos,嗯。我只见Scout和Outcast示范过几回，可能动作不够纯熟，所以没起到很好的效果。,"I saw Scout and Outcast demonstrate it several times, but I could never quite get the movements right. It is my lack of skill that made for a lackluster effect.","Мда. Я видел, как Scout и Outcast демонстрировали это несколько раз, возможно, мои движения недостаточно отточены, поэтому эффект получился не таким хорошим."
+line-190,,没想到你还有这样的一面。;难不成，其实你很喜欢开玩笑？,I've never seen that side of you.;Are you a bit of a jokester?,"Не ожидал, что у тебя есть и такая сторона.; Неужели тебе на самом деле нравится шутить?"
+line-193,Logos,博士，有时候我也会遗憾于我们之间相处的许多记忆消散无踪。,"Doctor, there are times when I also regret the fact that many of our shared memories have disappeared into the ether.","Доктор, иногда я тоже жалею, что многие воспоминания о времени, проведенном вместе, растворились бесследно."
+line-196,,我们很少聊起往事......;总是找不到恰当的时机聊这些。,We never did talk about the past much...;I suppose the right time never came up.,Мы редко говорим о прошлом...; Вечно не удается найти подходящий момент для таких бесед.
+line-199,Logos,倘若我们之后有时间闲谈叙旧，或许您也会对自己过去的逸闻感到惊喜。,"If we ever find ourselves time to reminisce after this ordeal, perhaps you will be pleasantly surprised by the anecdotes of your past.","Если у нас позже найдется время для спокойной беседы, возможно, вы будете приятно удивлены историями из нашего общего прошлого."
+line-201,Logos,现在，我们出发吧。,"But for now, we must go.","А теперь, в путь."
+line-213,阿米娅,这附近......什么声音都没有。,There's... no sound here.,Здесь... не слышно ни звука.
+line-214,阿米娅,这里安静得出奇。我听不到我们的呼吸声和载具行进声，我甚至感觉不到......自己的心跳。,This stillness is... strange. I can't hear the sound of our breathing or the vehicle's engine. I can't even hear my own heartbeat.,"Здесь подозрительно тихо. Я не слышу ни нашего дыхания, ни шума транспорта, я даже не чувствую... собственного сердцебиения."
+line-215,阿米娅,是某种源石技艺吗？有人想要隐藏自己的行动，于是小心地遮蔽了这里所有的声息？,Is this some kind of Originium Arts? Could someone have blocked all sounds in the vicinity to conceal themselves?,Это какая-то ориджиниумная техника? Кто-то скрывает свои действия и потому тщательно заглушил здесь любые звуки?
+line-217,Logos,不，阿米娅，仔细去听。,"No, Amiya. Listen carefully.","Нет, Амия, прислушайся внимательнее."
+line-218,Logos,并非是声音弃绝了这里，只是另一种轰鸣太过庞大，以至于再没有其他任何存在可以与之匹敌。,"It is not that sound has forsaken this place. Instead, there is a great, tremendous roar, so great that it drowns out its lessers.","Не звуки покинули это место, просто другой гул настолько огромен, что ничто другое не может с ним сравниться."
+line-219,Logos,这里的死亡......震耳欲聋。,It is the deafening cry of death itself.,Здешняя смерть... оглушительна.
+line-221,阿米娅,你们看，那里——,"Look, over there!","Смотрите, там —"
+line-222,阿米娅,那边的叶子......,That leaf...,Листья там...
+line-225,,有一枚叶片，极低处的一枚叶片，正染上一种诡异而绚烂的色彩，像是画家随意涂抹的颜料，也像是油脂在阳光下奇异的反光。,"A leaf hangs from the lowest branch, its surface tinted with vibrant yet bizarre colors, like the work of a haphazard artist or sunlight reflecting off a puddle of grease.","Один листок, самый нижний, окрашивался в какой-то странный и причудливый цвет, будто художник небрежно нанес краску или масляные пятна странно отливали на солнце."
+line-227,,像是某种法术的痕迹。;......;像是某种真菌感染。,Like the vestiges of some sort of Arts.;...;Like some kind of fungal infection.,Похоже на следы какого-то заклинания.; ...; Похоже на грибковую инфекцию.
+line-230,Logos,......,...,...
+line-231,Logos,它在腐败。,It is rotting.,Он разлагается.
+line-232,Logos,衰朽张开巨口，啃食着它所能看见的一切，只留下斑斓的啮痕。,"Decay unhinges its maw, gnawing at all in its sight, leaving behind only iridescent bite marks.","Тление разинуло свою пасть, пожирая всё, что только можно было увидеть, оставляя лишь пятнистые следы от укусов."
+line-236,,只是几句话的工夫，明快却反常的色泽就蔓延到了整棵植株，乃至整片灌木丛。,"Within a few seconds, the sprightly yet strange coloration spreads across the entire plant and even onto other bushes.","Всего за несколько мгновений яркая, но неестественная окраска распространилась на всё растение и даже на весь кустарник."
+line-237,,原本肥厚的叶片化为泛着白沫的液体滴落，只剩下交错的叶脉微微颤动。,"The once succulent leaves become drips of foaming liquid, leaving behind only bare vein networks quivering in the wind.","Некогда сочные листья превратились в пенящуюся жидкость и опали, остались лишь переплетенные прожилки, слегка подрагивающие."
+line-238,,如同鳞肉被享用殆尽后残存的鳞骨，被弃置一旁。,"Just like a finbeast's skeleton after its flesh has been picked clean, unceremoniously discarded.","Словно обглоданные кости, брошенные в сторону после того, как с них была съедена вся плоть."
+line-239,,风更紧了，仿佛扯着皮肉。,"The wind rises, as if wanting to tear at their skin.","Ветер усилился, словно сдирая кожу."
+line-240,,那是食客因仍未满足而发出的叹息。,It is the sigh of an unsatiated beast.,"Это был вздох того, кто ест, но еще не наелся."
+line-242,阿米娅,Logos先生，沼泽里！,"Logos, the marsh!","Господин Logos, в болоте!"
+line-254,,银白色的咒文流泻而出，涌向沼泽的深处。,"Silver incantations flow forth, plunging into the depths of the marsh.","Серебристые заклинания хлынули потоком, устремляясь вглубь болота."
+line-264,,解决掉了吗？,Did you manage to stop it?,Покончено?
+line-267,Logos,......不。,...No.,...Нет.
+line-272,,一道窒塞的水声荡漾开来，在死寂的空间中打着转。,"The muffled sound of water sloshing ripples from the marsh, echoing about in the deathly silence.","Раздался глухой всплеск, эхом отдаваясь в мертвой тишине."
+line-273,,有人从淤泥中拔出脚，再踩下。浑浊的水波翻涌，直抵岸边。,"The sound of a foot pulling from the ooze, then stepping down again. Steady, unseen steps churn the muddy water, slopping it to the shore.","Кто-то вытащил ногу из ила и снова ступил на него. Мутная вода всколыхнулась, докатившись до берега."
+line-275,阿米娅,做好战斗准备。博士，不要离开我的视线！,"Prepare for battle. Stay where I can see you, Doctor!","Приготовиться к бою. Доктор, не отходите от меня!"
+line-290,,黑色的法术被投入沼泽的深处，轰鸣转瞬即逝，仿佛被人咽下。,"Black Arts shoot into the marsh, but the burst of sound quickly dies down, as though swallowed up.","Черное заклинание было направлено в глубину болота, но гул мгновенно стих, будто его проглотили."
+line-294,,那双脚再度抬起又踏出，仍是之前的节奏，仍是之前的水纹。,"The steps begin again, their rhythm unchanging, their resolve unyielding.","Те ноги снова поднялись и опустились, всё в том же ритме, с теми же расходящимися кругами на воде."
+line-295,,破碎的衣角漂浮于浊流之上，波纹与波纹相撞，化为杂乱的线条。,"A tattered hem floats above the surface of the water as ripples crash into ripples, becoming a chaotic jumble of lines and shapes.","Разорванные лоскуты одежды плавали на поверхности мутного потока, круги на воде сталкивались друг с другом, превращаясь в запутанные узоры."
+line-299,？？？,......,...,...
+line-301,凯尔希,Mon3tr。,Mon3tr.,Mon3tr.
+line-304,Mon3tr,（谨慎的低吼）,(Cautious growl),(Осторожное низкое рычание)
+line-316,,耀眼的光芒从Mon3tr的口中喷射而出，仿若长矛的光束却迷失在了沼泽之中。,"A dazzling beam of light spews forth from Mon3tr's mouth, but the shining lance is lost amidst the dark swamp.","Ослепительный свет вырвался из пасти Mon3tr, но луч, подобный копью, словно заблудился в болоте."
+line-317,,水声终于起了变化。,The slow sloshing changes.,Шум воды наконец изменился.
+line-321,？？？,嗬——,Hah—,Кх-...
+line-327,,一连串急促的脚步声乍然响起，所有丢失已久的声音猛然重回这片土地之上，这么地鲜明，这么地刺耳。,"A series of hurried footsteps erupt in the silence, and all lost sounds return once more. A brilliant cacophony, an ear-splitting din.","Внезапно раздались частые шаги, все звуки, давно пропавшие, хлынули обратно на эту землю — такие отчетливые, такие режущие слух."
+line-360,？？？,......,...,...
+line-361,？？？,死亡......追上你们了。,Death... has come for you all.,Смерть... догнала вас.
+line-363,“老财”,什么鬼东西，别过来！,"Stay back, you... whatever you are!","Что за чертовщина, прочь!"
+line-365,“司机”,当心！,Look out!,Осторожно!
+line-373,Logos,“牢笼”。,'CAGE'.,«Клетка».
+line-383,Logos,Sudaram......“灵幛”。,A Sudaram...,Sudaram... «Духовный покров».
+line-385,Logos,缠裹已死之躯的衣袍。,"A burial shroud, still wrapped around a corpse.","Одеяние, что окутывает бренную плоть."
+line-387,凯尔希,他的躯体早就朽坏了，普通的攻击并不能造成决定性的影响。,His body has already rotten away. Conventional attacks will have no real effect.,"Его тело уже давно истлело, обычные атаки не окажут решающего воздействия."
+line-389,凯尔希,这是一种食腐者与生俱来的巫术，或者说......一种古老的传统。,"This is a form of witchcraft innate to the Nachzehrer, or possibly... an ancient tradition.","Это врожденное колдовство Падальщиков, или, вернее сказать... древняя традиция."
+line-391,凯尔希,食腐者们吞噬生命，滋养肉体，但普通肉体的成长终有尽头。,"Nachzehrers devour life to nourish their bodies, but all bodies have an end.","Падальщики пожирают жизнь, чтобы питать свою плоть, но рост обычной плоти всегда имеет предел."
+line-392,凯尔希,在达到临界点后，强大的食腐者会用自己的身体给养弱小的同胞，换来极致的速度与令人恐惧的力量，以及凡躯所无法承受的巫术能量。,"Once at the cusp of that end, powerful Nachzehrers will nourish weaker ones with their flesh, gaining unfathomable speed and strength in return, alongside witchcraft energy that no ordinary body could bear.","Достигнув критической точки, могущественные Падальщики отдают свои тела для питания слабых сородичей, получая взамен экстремальную скорость, устрашающую силу и магическую энергию, непосильную для смертного тела."
+line-393,凯尔希,他们将成为更强大的生物，食腐者的社会也得以发展。就像落叶滋养土地，土地供养新的生命，死与生，构成循环。,"In so doing, they become even more powerful creatures, while their nourishment allows the Nachzehrer society to sustain and grow. Just as fallen leaves nourish the land, and the land supports new lives. An eternal cycle.","Они становятся более совершенными существами, и общество Падальщиков развивается. Словно опавшие листья питают землю, а земля дает жизнь новым существам — смерть и жизнь образуют цикл."
+line-395,Logos,“涨潮”。,'FLOOD'.,«Прилив».
+line-409,,沼泽中的泥水飞速扬起，如幕布般，当头罩住了食腐者的躯干。,"The muddy waters of the swamp rise swiftly, like a curtain, immersing the Nachzehrer up to his torso.","Болотная жижа взметнулась вверх, накрыв собой, словно занавесом, тело Падальщика."
+line-410,,与此同时，咒文缠绕在所有人的身侧，抵挡住了腐败在这一刻的入侵。,"At the same time, incantations wend and weave their way around the group, holding back the rot's incessant bite.","В то же время заклинания окружили всех присутствующих, отражая вторжение разложения в этот самый момент."
+line-412,阿米娅,这边，快，我们进林子里去！,Over there! Quick! We'll head into the forest!,"Сюда, быстрее, в лес!"
+line-424,Logos,别踏入泥泞。,Don't step on the mud.,Не ступайте в грязь.
+line-432,,黑蒙蒙的地面像是张开了一张嘴，沼泽在上升，或者是空中缭绕的雾气在下沉。人们的行动变得迟缓，就连喘气都费劲。,"With the swamp rising, or perhaps the mist sinking, the dark ground becomes a gaping mouth, trying to engulf all. The group struggles through the mire, each breath growing more labored.","Черная земля, словно разверзла пасть, болото поднималось, или же густой туман опускался вниз. Люди стали двигаться медленнее, даже дыхание давалось с трудом."
+line-433,,一个念头开始占据所有人的大脑——“活着”竟是一件很费劲的事，转过头去拥抱“死亡”，则将获得一场安眠。,"A singular thought seizes the collective mind: living is a tedious and futile effort compared to the peaceful, eternal slumber that awaits if they simply turned around and embraced death.","Мысль овладела умами всех присутствующих: «жизнь» — это такое утомительное занятие, а если повернуть назад и принять «смерть», то обретешь вечный сон."
+line-435,凯尔希,Mon3tr——护住博士。,"Mon3tr, protect the Doctor.",Mon3tr — защити Доктора.
+line-438,Mon3tr,（急促的低吼）,(Urgent growl),(Срочное низкое рычание)
+line-440,阿米娅,他过来了！,He's here!,Он идет!
+line-443,,唯一的声响，来自那把突然落下的生锈长刀。,The only sound they can hear is the whistling of the corroded blade as it swings down.,Единственный звук — от упавшего ржавого меча.
+line-444,,与死亡同行的食腐者已来到跟前。,"The Nachzehrer, the one who walks alongside death, has arrived before them.","Падальщик, идущий рука об руку со смертью, подошел вплотную."
+line-450,“灵幛”,——,—,—
+line-464,Mon3tr,（尖锐的嘶鸣）,(Piercing cry),(Резкий визг)
+line-466,阿米娅,Mon3tr......也感到了痛苦？,Did Mon3tr... also feel the pain?,Mon3tr... тоже почувствовал боль?
+line-468,Logos,任何生命，都会凋零。,All life withers before his Arts.,Любая жизнь увядает.
+line-470,Logos,一旦被食腐者的巫术捕获，我们的生命力会化作养分，不断地流失。,"If we are caught in the Nachzehrer's witchcraft, our life force will be sapped to become its nourishment.","Как только нас улавливает колдовство Падальщика, наша жизненная сила становится питательным веществом и начинает непрерывно утекать."
+line-481,阿米娅,好快......！,He's fast!,Так быстро...!
+line-483,阿米娅,他是从泥里钻出来的吗？还是从树上结出来的？,Did he come from the mud or drop from a tree?,Он вылез из грязи? Или вырос из дерева?
+line-485,凯尔希,都有可能。,Either is possible.,"Возможно и то, и другое."
+line-486,凯尔希,从生到死，从荣到枯，整个循环过程都可能被食腐者汲取，变成孕育食腐者的种子。,"From life to death, from blossom to wither, they draw upon the entire life cycle, turning it into seeds that produce new Nachzehrers.","От рождения до смерти, от расцвета до увядания — весь этот цикл может быть поглощен Падальщиком, превращаясь в семя, порождающее нового Падальщика."
+line-488,阿米娅,我能感觉到，源源不断的巫术力量正在向我们涌来。,"I can feel it, the unending flow of witchcraft energy flooding towards us.","Я чувствую, как на нас хлынул поток колдовской энергии."
+line-489,阿米娅,并不仅仅来自这一名敌人本身......沼泽里，树林中，哪里都是。,"And not just from the enemy before us... From the marsh, amidst the trees. It's everywhere.","И она исходит не только от этого врага... в болоте, в лесу — везде."
+line-491,Logos,我们已经身处食腐者的挽幛中。,We have been wrapped in the Nachzehrer's shroud.,Мы уже находимся внутри савана Падальщика.
+line-492,Logos,他将死亡悬于我们头顶。,"By his hands, death hangs above our very heads.",Он повесил смерть над нашими головами.
+line-493,Logos,只有撕开这层巫术屏障，才能击败他。,Only by tearing apart this barrier of witchcraft can we defeat him.,"Только разорвав этот колдовской барьер, мы сможем победить его."
+line-495,“老财”,呼......呼......矿工，我是不是要死了？,"*whimpers* ...Miner, am I about to die?","Фух... фух... Шахтер, я что, умираю?"
+line-497,“矿工”,......,...,...
+line-499,“司机”,他太累了，老财，拉着我，我们不能分开。我......,"He's tired, Shopkeep. Here, hold on to me so we don't get separated. I...","Он слишком устал, Старик, держись за меня, мы не должны расставаться. Я..."
+line-505,阿米娅,司机小姐！抓着我的手，不要倒下去！,"Driver! Hold my hand! Whatever you do, don't fall!","Мисс водитель! Держитесь за мою руку, не падайте!"
+line-507,“司机”,我......,I...,Я...
+line-509,阿米娅,她的意识在下沉，我快抓不住她了！,She's fading out of consciousness! I can't hold her up much longer!,"Ее сознание угасает, я почти не могу удержать ее!"
+line-511,凯尔希,普通的治疗缺乏意义。食腐者的巫术正在吞噬所有人。,Ordinary healing techniques won't help. Nachzehrer witchcraft is devouring us all.,Обычное лечение здесь бесполезно. Колдовство Падальщика пожирает каждого из нас.
+line-518,“司机”,放开......放开我吧。,Lea... Leave me.,Отпусти... отпусти меня.
+line-519,“司机”,我不能......害你......,I'll only... hold you back...,Я не могу... подвергать тебя опасности...
+line-520,“司机”,哈......你可以丢下我们的。,*gasp* You can let go of us.,Ха... ты можешь оставить нас.
+line-521,“司机”,我知道的，要不是我们，你和女妖大人可以更加轻松地......战斗。,I know that if it wasn't for us... you and Sir Banshee could fight... more easily...,"Я знаю, если бы не мы, тебе и господину Банши было бы гораздо легче... сражаться."
+line-523,阿米娅,不。,No.,Нет.
+line-525,阿米娅,我承诺过会带你们走出战场，我们是一起的。,I promised that I would get you out of the battlefield. We're in this together.,"Я обещала, что выведу вас с поля боя, мы заодно."
+line-527,“司机”,这样......吗？,Is that... so?,Вот как...?
+line-528,“司机”,也好。,Good.,"Что ж, хорошо."
+line-530,Logos,血的味道，正在弥漫。,The scent of blood. It pervades the air.,Запах крови... он распространяется.
+line-532,阿米娅,是司机小姐他们受伤了......,It's Driver and the others' wounds...,Это мисс водитель и остальные ранены...
+line-534,Logos,不。是血的......巫术。,No. This blood is... witchcraft.,Нет. Это кровь... колдовства.
+line-536,阿米娅,嗯？,Huh?,А?
+line-538,阿米娅,是......血魔吗？这片树林里除了食腐者，还有血魔？,As in... a Vampire? This forest has Nachzehrers <i>and</i> Vampires?,"Это... Сангвинархи? В этом лесу, кроме Падальщиков, есть еще и Сангвинархи?"
+line-545,,薄薄的血雾在四周浮起。,A thin fog of blood floats all around them.,Тонкий кровавый туман поднялся вокруг.
+line-546,,和他们见过的，鲜血之主的法术完全不同。它是微弱的，像是从铺天盖地的腐败之雾中硬挤出来了几缕丝线。,"This is entirely different from the Prince of Blood's Arts they witnessed before. It is subtle, like delicate strands of silk nearly smothered by the all-encompassing mist of decay around them.","Он был совсем не похож на то заклинание Повелителя крови, что они видели ранее. Он был слабым, словно несколько нитей, насильно вырванных из всепоглощающего тумана разложения."
+line-547,,但这些丝线，轻轻挑动了凝滞的空气。,But it is these silken strands that slightly stir the stagnant air.,Но эти нити слегка подергивали застывший воздух.
+line-549,Logos,阿米娅，感受风的流向。,"Amiya, feel the flow of wind.","Амия, почувствуй направление ветра."
+line-555,Logos,我会令这层“挽幛”的编织痕迹暴露出来，找到最脆弱的部分。,I will expose the weave of this shroud and locate its weakest point.,Я обнажу следы плетения этого «савана» и найду самую уязвимую часть.
+line-557,阿米娅,......我明白了。,Got it.,...Я поняла.
+line-560,,黑色的法术在阿米娅身前凝成一支长矛。,"Black Arts gather before Amiya's body, condensing into a spear.",Черное заклинание превратилось в копье перед Амией.
+line-561,,Logos抬起手，指向浓雾深处。,"Logos raises his hand, pointing at the depths of the thick fog.","Logos поднял руку, указывая в глубь густого тумана."
+line-563,Logos,“穿刺”。,'PIERCE'.,«Пронзание».
+line-576,“灵幛”,（沉闷的低吼）,(Dull growl),(Глухое рычание)
+line-577,“灵幛”,报丧者。,Herald of death.,Вестник смерти.
+line-578,“灵幛”,你......抵挡腐败的蔓延。,You... resist the spread of the rot.,Ты... препятствуешь распространению разложения.
+line-579,“灵幛”,但，无力逆转。,But... to no avail.,Но... бессильна это обратить.
+line-580,“灵幛”,死亡......,"In the end, death...",Смерть...
+line-581,“灵幛”,会为你收殓。,Will claim your corpse.,"придет, чтобы похоронить тебя."
+line-583,Logos,我从未怀疑过这一点。,I have never once doubted that.,Я никогда в этом не сомневался.
+line-584,Logos,“散落”。,'DISPERSE'.,«Рассеивание».
+line-595,,长刀插进泥土，宛如墓碑。,"His giant blade falls, sticking into the soil like a gravestone.","Длинный нож вонзился в землю, подобно надгробию."
+line-596,,食腐者身上的衣袍猎猎作响。,The Nachzehrer's shroud flutters and billows.,Одеяние на Падальщике затрепетало на ветру.
+line-597,,几乎只是一瞬间，那高大的身躯就崩解了，只留下数十条残缺的布条缓缓地飘落。,"In an instant, his imposing figure disintegrates, leaving behind only several tattered strips of cloth gently falling to the ground.","Почти в одно мгновение огромное тело распалось, остались лишь десятки обрывков ткани, медленно опускавшихся вниз."
+line-599,“老财”,他、他死了吗？,Is-Is he dead?,О-он умер?
+line-600,“老财”,终于可以喘口气——,I can finally breathe—,Наконец-то можно перевести дух —
+line-607,,咔咔。,Clack clack.,Хрусть-хрусть.
+line-608,,骨头与骨头之间的摩擦声。,It's the sound of bone scraping against bone.,Звук трения костей друг о друга.
+line-613,,一只枯槁的手从泥地里伸出来。,A withered hand stretches out of the mud.,Сухая рука вытянулась из грязи.
+line-615,“老财”,啊？啊——！,Eh? Ahh—!,А? Ааа—!
+line-617,“司机”,小心。,Watch out.,Осторожно.
+line-628,“老财”,烂了......？,It fell apart...?,Сгнил...?
+line-630,“司机”,至少看起来是这样。,Looks like it to me.,"По крайней мере, так кажется."
+line-632,“老财”,呼......司机，你什么时候变得这么厉害了？,"*phew* When'd you become such a badass, Driver?","Фух... водитель, когда это ты стала такой сильной?"
+line-634,“司机”,魔王殿下，我们是不是该走了？,"Shouldn't we keep going, Your Highness?","Ваше Величество Королева демонов, не пора ли нам уходить?"
+line-636,阿米娅,嗯，在食腐者再次醒过来，追上我们之前......我们最好离开这里。,"Yes. It's best we leave at once, before the Nachzehrer reawakens and catches up to us again.","Да, пока Падальщик снова не очнулся и не нагнал нас... лучше нам убраться отсюда."
+line-649,阿米娅,这里居然有一座血魔的法阵。,I wasn't expecting a vampiric Arts Circle here.,Тут оказалась магическая формация Сангвинархов.
+line-651,凯尔希,它依然在运作。,It is still working.,Она всё еще работает.
+line-653,阿米娅,我们和“灵幛”作战的时候，凭空出现的血魔法术......是不是就是它的作用？,Those vampiric Arts that suddenly appeared as we were fighting the Sudaram... Was it because of this Circle?,"То заклинание Сангвинархов, что возникло из ниоткуда, когда мы сражались с «Духовным покровом»... это дело рук формации?"
+line-655,凯尔希,恐怕没有那么简单。,I'm afraid it's not that simple.,"Боюсь, всё не так просто."
+line-657,凯尔希,阿米娅，你很清楚。刚刚的法术，就来自血魔。,"I'm sure you're well aware, Amiya, that those Arts were cast by a Vampire.","Амия, ты прекрасно понимаешь. То заклинание исходило от Сангвинарха."
+line-665,阿米娅,是......血魔的子裔？,Perhaps... a descendent of a Vampire?,Это... потомок Сангвинархов?
+line-667,阿米娅,我设想过，血魔大君已经离开了这片战场，但他的恩赐不会轻易消失。,"I assume that while the Sanguinarch has been taken off the battlefield, the gifts he bestowed will not so easily fade away.","Я предполагала, что Великий Сангвинарх уже покинул это поле боя, но его дары не исчезнут так просто."
+line-669,阿米娅,没关系，和之前一样，我会尽我的力量，让这些被扭曲的生命安息。,"It doesn't matter. I'll do my best to put these corrupted lives to rest, as I've done before.","Ничего страшного, как и в прошлый раз, я приложу все силы, чтобы эти искаженные жизни обрели покой."
+line-671,阿米娅,Logos先生，请和我一起——,"Logos, could you please assist me—","Господин Logos, пожалуйста, вместе со мной —"
+line-673,Logos,......阿米娅。,...Amiya.,...Амия.
+line-680,,响动越来越清晰了，就来自那些布满血痕的巨石背后。这是肢体与地面摩擦的声音，在之前的战斗中，他们听到过无数次。,"The sound becomes ever clearer, coming from behind the bloodstained boulders. It is the sound of limbs dragging across the ground, a sound that they've heard countless times in previous battles.","Звуки становились всё отчетливее, доносясь из-за огромных камней, покрытых пятнами крови. Это был звук трения конечностей о землю — за время битвы они слышали его бесчисленное множество раз."
+line-681,,阿米娅注意到Logos的眼神。,Amiya notices the expression on Logos's face.,Амия заметила взгляд Logos.
+line-682,,他没有看向石柱，他看的是阿米娅，眼底飞快地掠过了一丝情绪。,"He looks not at the stone columns, but at Amiya, a trace of emotion flitting across his eyes.","Он не смотрел на каменный столб, он смотрел на Амию, и в глубине его глаз на мгновение мелькнула эмоция."
+line-683,,那是悲伤。阿米娅一下就辨认了出来。,It is sorrow. Amiya recognizes it instantly.,Это была печаль. Амия тут же узнала её.
+line-684,,这场战争开始以来，她已经感受过太多次。有的时候来自敌人，更多时候......都是来自身边的同伴。,"She has felt sorrow countless times since the war began, sometimes from an enemy, but mostly... from her companions.","С тех пор как началась эта война, она ощущала её слишком часто. Иногда от врагов, но чаще... от своих товарищей рядом."
+line-687,阿米娅,......司机小姐。,Driver.,...Мисс водитель.
+line-694,“司机”,......,...,...
+line-695,“司机”,魔王殿下。,Your Highness.,Ваше Величество Королева демонов.
+line-697,阿米娅,什么时候的事？是在......我们和食腐者战斗那会吗？,When did it happen? Was it while we were fighting the Nachzehrer?,Когда это случилось? Во время... нашей битвы с Падальщиками?
+line-699,“司机”,嗯。,Yes.,Да.
+line-700,“司机”,离开骸骨的时候，我带了一块......先前军事委员会叫我们运的石头在身上。,"When we left the skeleton, I brought along a rock that the Military Commission had ordered us to transport.","Когда мы уходили из мест, где были кости, я прихватила с собой камень... тот, что Военный совет приказал нам перевозить."
+line-701,“司机”,我想，之前它让我们变厉害了，说不定真打起来了也能派上用场。,"I thought since it made us stronger before, it might come in handy in a battle.","Я подумала, раз раньше он сделал нас сильнее, то может пригодиться, если начнется настоящий бой."
+line-702,“司机”,你看，的确起了点作用，对吧？,"It really did help, right?","Видишь, это действительно немного помогло, верно?"
+line-703,“司机”,能跟着你一起打赢那个古怪的敌人，换作以前，我想都不敢想。,I never dared to imagine that I could fight alongside you and defeat that strange enemy.,"Раньше я и мечтать не могла о том, чтобы вместе с вами победить такого странного врага."
+line-705,凯尔希,你使用了血魔遗留的血色结晶。,You used a blood crystal left behind by a Vampire.,"Ты использовала кровавый кристалл, оставленный Сангвинархом."
+line-706,凯尔希,是用它刺破了你的身体吗？不，那还不至于催生这么激烈的变化。,"Did you pierce your body with it? No, that wouldn't have induced such a drastic change.","Ты пронзила им свое тело? Нет, этого недостаточно, чтобы спровоцировать такие радикальные изменения."
+line-707,凯尔希,你吞服了一部分碎屑。,You swallowed some fragments.,Ты проглотила часть осколков.
+line-709,凯尔希,你主动接纳了杜卡雷的鲜血和法术。,You willingly accepted Duq'arael's blood and Arts.,Ты добровольно приняла кровь и колдовство Дукарей.
+line-711,“司机”,我本就有血魔的血脉，虽然稀薄得很......但我还是能感受到大君的召唤，哪怕只是微乎其微。,"I've always had the Vampire bloodline, even though it's pretty faint by now... But I could still sense the Sanguinarch's call, even if it felt nothing more like a whisper.","У меня самой есть кровь Сангвинархов, пусть и очень разбавленная... но я всё еще чувствую зов Великого, пусть даже самый слабый."
+line-712,“司机”,我见过那些蠕虫从死去的萨卡兹雇佣兵身上爬出来。所以，你们不必担心我不知道后果。,"I've seen those worms crawl out of Sarkaz corpses before, so there's no need to pity me for not knowing the consequences.","Я видела, как те черви выползали из тел погибших наемников-Сарказов. Так что не волнуйтесь, я знала последствия."
+line-713,“司机”,只是，与其跟一条真正的虫子一样，无声无息地陷在烂泥里死掉，我宁可接受更强的力量，作为一个不那么丢人的萨卡兹，死在战场上。,"Instead of dying in the gutter like a real worm without so much as a yelp, I rather accept this power and die on the battlefield. Like a real Sarkaz.","Просто лучше умереть на поле боя как Сарказ, пусть даже и не в самом лучшем виде, чем бесследно сгинуть в грязи, как обычный червь."
+line-714,“司机”,那个时候我也是这么想的。几个月前，我正在荒野里漫无目的地开着车，从广播里听到了伦蒂尼姆的事......,"This isn't a spur-of-the-moment decision. A few months ago, while driving aimlessly through the wilderness, I heard a broadcast about what was happening in Londinium...",Тогда я думала так же. Несколько месяцев назад я бесцельно ехала на машине по пустошам и услышала по радио о событиях в Лондиниуме...
+line-715,“司机”,不知怎么就朝着这个方向一路开过来了。,"And somehow, I just drove all the way here.","Не знаю почему, но я просто поехала в этом направлении."
+line-716,“司机”,老财说我骑士故事读多了......他瞎说。谁都知道，卡兹戴尔不需要骑士。,Shopkeep says I read too many stories about knights... That's rubbish. Everyone knows that Kazdel doesn't need knights.,"Старик говорит, что я начиталась историй о рыцарях... он врет. Все знают, что Казделию не нужны рыцари."
+line-717,“司机”,我不过是想确认，自己的人生是不是也可以在某条路上行进，会有一个终点，而不是被单纯地浪费掉。,"I just wanted to know if there was a real path in life that I could follow, one with a proper end. If I could give some meaning to my life without just wasting it.","Я просто хотела убедиться, может ли моя жизнь проходить по какому-то пути, может ли у нее быть конец, а не просто пустая трата."
+line-718,“司机”,直到我遇见了你。“魔王走过的地方就是道路”——我们一起，呃，在这条路上并肩战斗过了。,"And then I met you. 'The path of the King of Sarkaz is the path for me.' We—gah—We fought alongside each other on this path. Like you said, we're in this together.","Пока я не встретила вас. «Там, где прошла Королева демонов, и есть дорога» — мы вместе, ну, плечом к плечу сражались на этой дороге."
+line-719,“司机”,现在，战斗暂时结束了。我的同伴也大多活了下来。,"And now, the fighting's stopped. At least, for now. My buddies are still alive.",Теперь битва временно закончена. Большинство моих товарищей выжили.
+line-720,“司机”,魔王殿下，你可以处置我了。,"Your Highness, you can deal with me as you see fit.","Ваше Величество Королева демонов, вы можете распорядиться мной."
+line-726,“老财”,处、处置？这是什么意思？,D-Deal with you? What are you all talking about?,Ра-распорядиться? Это что значит?
+line-727,“老财”,司机，你怎么变成了这副......这副......,"Driver, why've you become like... like...?","Водитель, почему ты стала такой... такой..."
+line-729,“司机”,是不是很可怕？,"Real scary, aren't I?",Разве это не ужасно?
+line-731,“老财”,......,...,...
+line-732,“老财”,魔王殿下，求求您，帮帮司机吧！还、还有，女妖大人，我把这枚硬币还给您，这是我身上仅剩的财产了。,"Your Highness, please, I beg of you, help her! A-And, Lord Banshee, sire, I humbly return this coin to you. It is the only thing of worth I have.","Ваше Величество Королева демонов, умоляю, помогите водителю! И... и господин Банши, я возвращаю вам эту монету, это всё, что у меня осталось."
+line-734,Logos,她的状态是巫术诱发，却并非巫术导致。,"Witchcraft is the trigger to her condition, not the cause.","Её состояние вызвано колдовством, но оно не является его результатом."
+line-736,Logos,即便是我和阿米娅，乃至凯尔希医生，都做不到逆转你们所见的结果。,"There is nothing I, Amiya, and even Dr. Kal'tsit could do to reverse the changes.","Даже я, Амия и доктор Кельси не в силах обратить результат, который вы видите."
+line-738,“老财”,那怎么办啊？你们难道要杀了她，就像杀了那些红色虫子一样吗？,Then what are you going to do? Don't tell me you're going to kill her like you killed those red worms?,"И что теперь? Вы собираетесь убить её, как тех красных червей?"
+line-740,“司机”,老财，让开吧。这是我自愿的。,"Stand aside, Shopkeep. This was my decision.","Старик, отойди. Это был мой выбор."
+line-741,“司机”,魔王殿下，我听说......在过去，萨卡兹最英勇的战士，在死前有资格得到魔王赐予的“愿景”。,"Your Highness, I heard that... in the past, the greatest warriors of the Sarkaz, right before they died, could request that the King grant them a vision.","Ваше Величество Королева демонов, я слышала... в прошлом самые отважные воины Сарказов перед смертью получали от Королевы демонов «видение»."
+line-742,“司机”,我不知道，呃，不知道自己算不算。,I don't know if *cough* if I count or not.,"Я не знаю, ну, не знаю, можно ли считать меня таковой."
+line-744,阿米娅,......,...,...
+line-747,,阿米娅抬起手。,Amiya raises her hand.,Амия подняла руку.
+line-748,,黑色的法术在她指尖积聚。,Black Arts coalesce at her fingertips.,Черное колдовство собралось на кончиках её пальцев.
+line-749,,司机绝望地笑了起来，下意识看向卡特斯的头顶，寻找那顶传说中的黑色冠冕。,"A desperate smile emerges on the Driver's face as she unconsciously looks at the top of the Cautus's head, searching for the legendary Black Crown.","Водитель в отчаянии рассмеялась, подсознательно взглянув на голову Карты в поисках той легендарной черной короны."
+line-751,“司机”,我的......魔王......,My... King...,Моя... Королева демонов...
+line-752,“司机”,我会看到什么呢？但愿......不会是在卡兹戴尔开我的破车吧，哈哈。,"What will I see? I just hope... it won't be me driving that piece of junk around Kazdel, haha.","Что же я увижу? Надеюсь... не то, как я вожу свою развалюху по Казделии, ха-ха."
+line-754,阿米娅,司机小姐，能不能告诉我你的名字？,"Driver, can you tell me your name? Your real one.","Мисс водитель, не скажете ли вы мне свое имя?"
+line-756,“司机”,这也是仪式的一部分吗？,Is this part of the ceremony too?,Это тоже часть ритуала?
+line-758,阿米娅,唔......知道名字，会方便很多。,"Well... If I knew your name, it would be a lot easier.",Хм... знать имя было бы гораздо удобнее.
+line-760,“司机”,......玛瑞拉。很普通的名字。,...Maryla. A common name.,...Марелла. Очень обычное имя.
+line-762,阿米娅,（卡西米尔语）玛瑞拉。,(Kazimierzian) Maryla.,(на языке Казимира) Марелла.
+line-763,阿米娅,我在卡西米尔待的时间不太久，可能发音不够好。,"Sorry, I never stayed in Kazimierz for long, so my pronunciation might be off.","Я недолго пробыла в Казимире, возможно, произношу не совсем верно."
+line-765,“司机”,不，很好。妈妈死后，已经很久没有人这样温柔地叫我了。,"No, it's good. It's been so long since anyone called my name so gently, ever since my mother died.","Нет, очень хорошо. После смерти мамы никто так нежно не называл меня уже очень давно."
+line-767,阿米娅,嗯，玛瑞拉，我拒绝你的请求。,"Maryla, I refuse your request.","Марелла, я отклоняю твою просьбу."
+line-769,“司机”,你拒绝为我赐下慰藉？也是，我本来就算不了什么战士......,You won't grant me a vision? I suppose... I was never a warrior to begin with.,"Ты отказываешь мне в утешении? Ну конечно, я ведь никогда не считалась воином..."
+line-771,阿米娅,不是的，玛瑞拉。我拒绝让你死在这里，死在我手上。,"No, that's not it. I refuse to let you die here, by my hand, Maryla.","Нет, Марелла. Я отказываюсь позволить тебе умереть здесь, от моей руки."
+line-772,阿米娅,你并没有变成血魔的造物。,You have not become the Vampire's creation.,Ты не превратилась в порождение Сангвинархов.
+line-773,阿米娅,你只是，外貌发生了一些变化。我并未感知到你变得更邪恶，或者更疯狂。,"Your looks have changed, but I don't sense you becoming any more evil or bloodthirsty.","Ты лишь немного изменилась внешне. Я не чувствую, что ты стала злее или безумнее."
+line-774,阿米娅,就算多了一点......远古血脉留下的痕迹，你也依旧是你自己。,"And even if you are showing a bit more of your ancient bloodline, you're still you.","Даже если на тебе остался след от древней крови, ты по-прежнему остаешься собой."
+line-775,阿米娅,你无需被惩罚，也不该由我来嘉奖。,"You do not deserve punishment, nor should I be the one to give you your honor.","Тебя не нужно наказывать, и не мне тебя награждать."
+line-777,“司机”,你是魔王......,But you are the King of Sarkaz...,Ты — Королева демонов...
+line-779,阿米娅,请叫我阿米娅吧。,"Please, call me Amiya.","Пожалуйста, называй меня Амия."
+line-780,阿米娅,玛瑞拉小姐，我是有过一些苦恼，因为你们......呃，并不是罗德岛的干员。,"Miss Maryla, I've had my share of worries because your team, er, isn't comprised of Rhodes Island operators.","Мисс Марелла, меня немного беспокоило то, что вы... э-э, не являетесь оперативниками Родос Айленд."
+line-781,阿米娅,我刚刚也在想，究竟该以什么方式与你们相处。但其实，这根本算不上什么问题。,"I was thinking earlier about how we could get along with you three. But in truth, it wasn't a problem at all.","Я тоже думала о том, как мне с вами общаться. Но на самом деле это совсем не проблема."
+line-783,阿米娅,如果你愿意为我们的共同目标战斗，那我就欢迎你。,"If you wish to fight alongside us for our common goal, then I welcome you with open arms.","Если ты готова сражаться за наши общие цели, я буду рада видеть тебя."
+line-786,,年轻的卡特斯保持着伸手的姿势，眨了眨她的蓝眼睛。,"The young Cautus keeps her arms outstretched, her blue eyes blinking.","Юная Карт замерла с протянутой рукой, хлопая своими голубыми глазами."
+line-787,,萨卡兹女性握住了那纤细的手指。,The Sarkaz woman grasps her slender fingers.,Женщина-Сарказ сжала тонкие пальцы.
+line-788,,明明并没有感到多么悲伤，两行鲜红的泪水依然滚过了她的脸颊。,"Despite not feeling much sorrow, two rows of scarlet tears still flow down her cheeks.","Хоть она и не чувствовала сильной печали, две ярко-красные слезы всё же покатились по её щекам."
+line-800,凯尔希,......,...,...
+line-803,,你在看阿米娅？,Were you watching Amiya?,Ты смотришь на Амию?
+line-806,凯尔希,这些年，阿米娅的变化很大。,She's changed a lot these past few years.,За эти годы Амия сильно изменилась.
+line-809,,阿米娅变得更成熟了。;阿米娅从来都是合格的领袖。,She's become more mature.;She's always been a good leader.,Амия стала более зрелой.; Амия всегда была достойным лидером.
+line-812,Logos,血魔仪式的核心发生了改变。,The core of the Vampire's ritual has changed.,Ядро ритуала Сангвинархов изменилось.
+line-813,Logos,不再仅是萨卡兹力量的增幅器，也不再单纯收集能量。,"It is no longer just a tool to amplify the strength of the Sarkaz, nor a simple collector of energy. ","Теперь это не просто усилитель силы Сарказов, и он больше не занимается лишь сбором энергии."
+line-815,凯尔希,它在将萨卡兹的血脉与源石......与“阿喃那”进一步相连。,It is deepening the Sarkaz bloodlines' bond with Originium... with Amnannam.,Он всё глубже связывает кровь Сарказов с Ориджиниумом... с «Ананной».
+line-816,凯尔希,“提卡兹之血”正以某种形式发挥作用。,The Blood of Teekaz is playing a role in this somehow.,«Кровь Тиказов» действует определенным образом.
+line-818,凯尔希,萨卡兹血脉的力量将直接催动源石扩散，寄宿于源石之中的“信息”也将反向强化血脉......不仅是力量，还有一些表征。,"The strength of the Sarkaz bloodlines acts as a direct catalyst to the Originium’s spread. In turn, the information within Originium empowers the bloodlines, changing their powers and other traits.","Сила крови Сарказов будет напрямую способствовать распространению Ориджиниума, а «информация», содержащаяся в Ориджиниуме, в свою очередь будет усиливать кровь... не только силу, но и некоторые внешние признаки."
+line-821,,这法术效果有些熟悉。,The effect of these Arts seems familiar.,Этот эффект заклинания кажется знакомым.
+line-823,,那个萨卢斯就融合了很多血脉。;赦罪师擅长用这种方式催动血脉力量。,Didn't Salus merge a lot of bloodlines?;Confessarii are skilled at bringing out the power in bloodlines.,Тот Саллус соединил в себе много видов крови.; Исповедники умеют использовать такой метод для активации силы крови.
+line-826,凯尔希,我们要做好准备。,We must be ready.,Мы должны быть готовы.
+line-828,凯尔希,“阿喃那”......带来的威胁极有可能超出所有人的预期。,The threat that Amnannam represents... may very well be far greater than anything we expected.,"Угроза, исходящая от «Ананны»... весьма вероятно, превзойдет все ожидания."
