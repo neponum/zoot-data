@@ -1,0 +1,182 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act34side
+__chapter__,,Chapter Name,activities/act34side/level_act34side_02_beg,评议式迎接
+,,,,
+char-1,西昆妲,西昆妲,Secunda,Секунда
+char-2,海巡队队员,海巡队队员,Sea Patroller,Офицер патруля
+char-3,艾丽妮,艾丽妮,Irene,Ирен
+char-4,西昆妲＆艾丽妮,西昆妲＆艾丽妮,Secunda & Irene,Секунда и Ирен
+char-5,乔迪,乔迪,Jordi,Джоди
+char-6,阿维图斯,阿维图斯,Avitus,Авитус
+char-7,“小帮手”,“小帮手”,'Little Handy',«Помощник»
+char-8,幽灵鲨,幽灵鲨,Specter,Спектр
+char-9,斯卡蒂,斯卡蒂,Skadi,Скади
+char-10,凯尔希,凯尔希,Kal'tsit,Кель'цит
+char-11,热情的阿戈尔人,热情的阿戈尔人,Excited Ægir,Восторженный агорец
+char-12,疲惫的阿戈尔人,疲惫的阿戈尔人,Tired Ægir,Уставший агорец
+char-13,布兰都斯,布兰都斯,Blandus,Брандус
+char-14,阿戈尔女性,阿戈尔女性,Ægir Woman,Агорская женщина
+char-15,卡西娅,卡西娅,Cassia,Кассия
+char-16,卢契拉,卢契拉,Lucilla,Лучила
+char-17,克莱门莎,克莱门莎,Clementia,Клеменция
+char-18,？？？,？？？,???,???
+,,,,
+line-11,西昆妲,这段时间，都没人进来过吗？,No one has been in here the whole time?,За это время кто-нибудь сюда заходил?
+line-13,海巡队队员,没有。,Affirmative.,Нет.
+line-14,海巡队队员,房间内小帮手的中控元件也确认过了，没有发现被篡改过的痕迹。,"No signs that the Little Handy's logs have been altered, either.","Центральный контроллер «Помощника» в комнате также был проверен, следов несанкционированного доступа не обнаружено."
+line-16,艾丽妮,您好，请问这里这个记录要怎么查看？,"Excuse me, how do I view those records?","Здравствуйте, подскажите, пожалуйста, как мне просмотреть здесь эту запись?"
+line-18,西昆妲,给她打开权限。,Grant her the permissions.,Открой ей доступ.
+line-20,海巡队队员,是。,"Yes, ma'am.",Есть.
+line-22,艾丽妮,啊，谢谢你！,"Ah, very nice!","А, спасибо тебе!"
+line-24,,西昆妲取下了腰间挂着的装置。她的笔尖飞舞，仿佛水藻般纠缠不清的线条不断地在装置的表面浮现。,"Secunda takes a device from her belt and dances her pen across its surface, leaving trails like a labyrinth of seaweeds.","Секунда сняла устройство, висевшее у неё на поясе. Кончик её пера порхал, и на поверхности устройства то и дело появлялись запутанные, словно морские водоросли, линии."
+line-26,艾丽妮,你们的指挥官这是在？,What's your Praefecta doing?,Что это делает ваш командир?
+line-28,海巡队队员,写写画画有助于她快速思考，这是西昆妲的习惯，听说她还是研究员的时候就这样。,She scribbles whenever she's thinking. Says it helps her organize her thoughts. It's a habit she's had ever since she was a researcher.,"Рисование помогает ей быстрее думать. Это такая привычка у Секунды, слышал, она так делала ещё будучи исследователем."
+line-29,海巡队队员,旁人理解不了，上面也没记什么关键词，全是一些只有她自己才能看懂的......呃，抽象画。,No one else can decipher what she's writing... or drawing? Not even that's clear. She's the only one who can parse it.,"Посторонним этого не понять, да и наверху она никаких ключевых слов не записывает, всё это... э-э... абстрактные рисунки, понятные только ей самой."
+line-34,西昆妲,（书籍按照薄厚的顺序排列，贝壳装饰物按照大小顺序摆放，从斗智场下载的所有资料则根据时间进行了归类。）,"(Books are arranged by thickness, shell decorations by size, and data downloaded from the Sophontheatrum by time.)","(Книги расставлены по толщине, украшения из ракушек — по размеру, а все материалы, загруженные из Агоры, рассортированы по времени.)"
+line-35,西昆妲,（浮藻脂质霜剂，能有效防止皮肤干燥脱水，是因为弥利亚留姆要靠近海岸？）,(Seaweed cream to prevent dry skin. Is it because Milliarium is approaching the coast?),"(Липидный крем с водорослями эффективно предотвращает пересыхание кожи — неужели это потому, что Милиариум находится близко к побережью?)"
+line-37,西昆妲,（这个分量，几乎够用三年。）,(There's enough to last three years.),(Этого количества хватит почти на три года.)
+line-38,西昆妲,（一名普通的阿戈尔女性。谨慎，甚至有些胆小和刻板，与发展规划所提供的资料相符。）,"(An ordinary Ægir woman. Cautious, timid even. Matches the data from the Institute of Development Planning.)","(Обычная женщина-агор. Осторожная, местами пугливая и педантичная, что соответствует предоставленным отделом планирования данным.)"
+line-40,西昆妲,（那些微型水培箱——）,(Those hydroponic tanks—),(Эти миниатюрные гидропонные боксы...)
+line-42,艾丽妮,那些箱子是干什么用的？明明都空了，却还挂在墙上？,What are these boxes for? Why put them on the wall if they're empty?,"Для чего эти боксы? Они ведь пустые, но всё равно висят на стене?"
+line-44,西昆妲,是的。水培箱应该是切入点。,"Yes, the hydroponic boxes may provide a lead.",Верно. Гидропонные боксы должны стать отправной точкой.
+line-45,西昆妲,对房间里所有与植物栽培相关的设备进行扫描。,Scan all equipment in the room related to plant cultivation.,"Просканируйте всё оборудование в комнате, связанное с выращиванием растений."
+line-47,海巡队队员,是。,"Yes, ma'am.",Есть.
+line-49,西昆妲,以及，从图利娅的档案里调取相关的信息，她或许有这方面的爱好。,"Also, pull whatever you can from Tullia's files. Education, employment, hobbies; anything that might be relevant.","И ещё, запросите информацию из досье Туллии, возможно, у неё было такое хобби."
+line-54,海巡队队员,图利娅曾就职于生态艺术创作所，主要负责濒危深海藻类的培育。,"She previously worked at the Institute of Ecological Art, with a focus on the cultivation of endangered seaweed.",Туллия работала в Институте экологического искусства и в основном отвечала за выращивание редких глубоководных водорослей.
+line-55,海巡队队员,根据生态艺术创作所的资料......,To quote straight from the IEA's files...,Согласно данным Института экологического искусства...
+line-56,海巡队队员,经过艺术家的精心培育，这些深海藻类能够在生长的过程中相互交织，组成一幅不断反映着生命进程的、动态的画。,"'The artist has carefully cultivated these deep-sea seaweeds to weave a dynamic, ever-evolving portrait of life as they grow.'","Благодаря тщательной культивации художников эти глубоководные водоросли в процессе роста переплетались, образуя динамическую картину, отражающую жизненный цикл."
+line-57,海巡队队员,这些微型水培箱是图利娅的个人资产，这里有她当时的作品影像。,These hydroponic boxes were Tullia's belongings. Images of her artwork are also available.,"Эти миниатюрные гидропонные боксы — личная собственность Туллии, здесь есть записи её работ того времени."
+line-63,西昆妲＆艾丽妮,很漂亮。,How beautiful.,Красиво.
+line-66,西昆妲＆艾丽妮,......,...,...
+line-69,艾丽妮,但这些水培箱看起来已经空置了很长时间。,They look like they've been left empty for quite some time.,"Но эти гидропонные боксы выглядят так, будто пустовали очень долго."
+line-71,西昆妲,档案刚刚提到，图利娅是转岗后才加入的航道计划。,"According to the files, she joined the Waterway Program after a reassignment.","В досье только что упоминалось, что Туллия перевелась в «Проект фарватера» незадолго до исчезновения."
+line-73,艾丽妮,她是因为某些原因放弃了过去的生活吗？,She wouldn't have abandoned her old life for no reason.,Она оставила свою прошлую жизнь по каким-то причинам?
+line-75,西昆妲,嗯。她的失踪很可能与职业生涯的变故有关。,True. Her disappearance may very well be related to her career change.,"Хм. Её исчезновение, скорее всего, связано с переменами в карьере."
+line-76,西昆妲,扫描结果怎么样？,How's that scan coming?,Что показало сканирование?
+line-78,海巡队队员,各类植物栽培设备并无异常，但我们在房间的集成终端上发现了一份操作记录。,"Nothing unusual with the cultivation equipment, but we found an operating log in the integrated terminal.","С оборудованием для выращивания растений всё в порядке, но мы нашли журнал операций на терминале в комнате."
+line-79,海巡队队员,图利娅在失踪前两天，从信标塔中控室下载过一份数据，并在自己的房间内制作了一份备份。,"Two days before she went missing, she downloaded some data from the beacon tower control center and made a backup.",За два дня до своего исчезновения Туллия скачала данные из центра управления маяком и создала резервную копию в своей комнате.
+line-80,海巡队队员,但我们在房间内并没有发现它。,"We were unable to locate the file itself, though.",Однако в самой комнате мы её не обнаружили.
+line-82,西昆妲,追踪她的行程，同时联系中控室，从他们那边的下载记录去追溯数据内容。,Try to backtrack her steps. Contact the control center and trace the data from their download logs.,"Отследите её передвижения и свяжитесь с центром управления, чтобы восстановить содержимое данных по логам загрузок с их стороны."
+line-84,艾丽妮,如果她在失踪前还能正常地在工作场所与住所之间往来，那她的同僚或亲友也许对她的行为有所了解？,"If she was still going to work before she disappeared, couldn't her friends or colleagues know something?","Если до исчезновения она нормально перемещалась между работой и домом, может, её коллеги или родные что-то знают?"
+line-86,西昆妲,是的。,Perhaps.,Да.
+line-87,西昆妲,对主要社会关系的问询安排好了吗？报案人呢？,What's the situation on her social relationships? What about the person who made the report?,"Опросы основных контактов уже назначены? А что с тем, кто заявил об исчезновении?"
+line-89,海巡队队员,已经安排妥当，很快就可以与她们会面。,We've arranged a questioning.,"Всё организовано, скоро встретимся с ними."
+line-102,乔迪,......,...,...
+line-106,阿维图斯,乔迪，有什么我能帮到你的吗？,"Anything I can help you with, Jordi?","Джоди, чем я могу тебе помочь?"
+line-107,乔迪,抱歉，我脑袋里问题太多，有点不知道......,"Sorry. I have so many questions, I don't know where to start...","Простите, у меня в голове слишком много вопросов, я даже не знаю..."
+line-108,乔迪,这棵......金属的“树”？我只要对它提问就好了吗？我小时候也听过古树保管知识的传说，但我从没见过这样的......,"This, er, metal tree? Do I just ask it? I've heard legends of ancient trees acting as repositories of knowledge, but I've never seen anything like this...","Это... металлическое «дерево»? Мне просто нужно задавать ему вопросы? В детстве я слышал легенды о хранении знаний в древних деревьях, но никогда не видел ничего подобного..."
+line-109,阿维图斯,被你称作“树”的珊瑚状装置是一个巨型集成终端，它是阿戈尔千百年来知识与文化的沉淀。,This coral-shaped integrated terminal is the culmination of centuries of Ægir's knowledge and culture.,"Это коралловидное устройство, которое ты называешь «деревом», — гигантский интеграционный терминал, вместилище знаний и культуры Агора за многие тысячелетия."
+line-110,阿维图斯,我们的所想、所知、所作、所赏，乃至许多仍待解答的问题，都储存在这里。它构成了斗智场的核心。,"Everything we think, know, create, appreciate, and even the questions we have yet to answer... they're all here. It's the heart of the Sophontheatrum.","Наши мысли, знания, свершения, эстетические предпочтения и даже вопросы, ждущие ответов — всё хранится здесь. Это ядро Арены мудрости."
+line-121,乔迪,所以，斗智场究竟是......,"And what is the Sophontheatrum, exactly?",Так что же такое Арена мудрости?
+line-123,阿维图斯,最早由伟大的人类学家暨先史文明研究者玛利图斯提出创意并主持修建的公共设施，对整个国家都影响深远的伟大设计。,"Conceived and established by Mártus, the great scholar of anthropology and prehistoric civilization, it is a public facility that has had a profound impact on the nation.","Это общественное сооружение, впервые предложенное и построенное великим антропологом и исследователем доисторических цивилизаций Маритусом, великий замысел, повлиявший на всю страну."
+line-124,阿维图斯,除了海面上互相支撑的环礁城市群和海沟下模块化的城市网络，我们的其他城市大多形态各异，很少有同质化的设计。,"Aside from the mutually-supporting atoll city clusters above sea level and the modular city networks in the trenches, most of our other cities have unique forms and designs.","Помимо цепочек рифовых городов на поверхности и модульных сетей под желобами, наши остальные города крайне разнообразны, и в них редко встречается однотипный дизайн."
+line-125,阿维图斯,但许多城市都不约而同地采纳了玛利图斯的设计，设立了自己的斗智场。,"Yet even so, nearly all of them have chosen to adopt Mártus's design and establish their own Sophontheatrum.",Но многие города не сговариваясь приняли проект Маритуса и создали собственные Арены мудрости.
+line-126,阿维图斯,看看周围的人，他们在此思考、质疑、辩论，最后取得理解，做出决定。,"Look around you. This is a place for people to think, doubt, and debate, eventually coming to an understanding and making a decision. A coliseum of wits, if you will.","Посмотри на людей вокруг: они здесь размышляют, сомневаются, спорят, чтобы в итоге прийти к пониманию и принять решение."
+line-127,阿维图斯,最复杂的公式，最古老的图纸，最优美的诗歌......还有最适合的道路，都在这里诞生。这正是玛利图斯希望看到的景象吧。,"The most complex equations, the most ancient drawings, the most beautiful songs, and the most well-traveled roads were all born here. I believe this is exactly what Mártus himself wanted.","Сложнейшие формулы, древнейшие чертежи, прекраснейшая поэзия... и вернейшие пути — всё рождается здесь. Именно это и хотел видеть Маритус."
+line-129,乔迪,您一直在提的玛利图斯......那是个怎样的人？,You keep mentioning this Mártus... what kind of man was he?,Вы постоянно упоминаете Маритуса... Каким он был человеком?
+line-131,阿维图斯,要细数他为阿戈尔做出的所有贡献，恐怕一整天的时间也不够用。不过除此之外，我倒是还了解一些他的性格特质。,"Simply listing all his contributions to Ægir would take an entire day, perhaps more. But I do happen to have some insight into his personality.","Чтобы перечислить все его заслуги перед Агором, не хватит и дня. Однако, помимо этого, я знаю кое-что о его характере."
+line-133,乔迪,您认得他？,"Oh, you knew him?",Вы были с ним знакомы?
+line-135,阿维图斯,没有没有，玛利图斯生活在两百多年前，早在我出生之前，他就已经从阿戈尔消失了。,"No, no, he lived more than two centuries ago. He'd been gone from Ægir long before I was born.","Нет-нет, Маритус жил более двухсот лет назад, задолго до моего рождения он уже исчез из Агора."
+line-137,阿维图斯,不过，他的怪脾气是我们学科的导师们津津乐道的话题。玛利图斯的理论推演能力极为出众，却很不喜欢自己得出结论。,"But our professors liked to speak of his eccentricities. He was unmatched in theoretical and deductive reasoning, yet was always reluctant to draw a conclusion.","Однако его чудачества до сих пор обсуждают наши научные руководители. Маритус обладал выдающейся способностью к теоретическим выводам, но очень не любил делать их самостоятельно."
+line-138,阿维图斯,在别人看来已经确凿无疑的事情，他也还要与自己辩论良久，才愿意得出结论。,"Even on issues where the answer was plain to all, he would refuse to put the question to rest until after an extended debate with himself.","Даже в том, что другим казалось очевидным, он продолжал долго спорить сам с собой, прежде чем согласиться на вывод."
+line-139,阿维图斯,有人认为他是过分在意事物的价值与意义，才会陷入这无休止的辩论，但这不正是我们身为人类的天性？,Some would say that trapping himself in endless debate showed he cared too much about the value and meaning of things. But is that not in our human nature?,"Кто-то считал, что он впадал в бесконечные споры из-за чрезмерной озабоченности ценностью и смыслом вещей, но разве это не наша человеческая природа?"
+line-140,阿维图斯,正因如此，他才主持修建了斗智场。事实证明，我们确实需要一个随时能让我们与自己、与他人展开思辨的场所。,"Which is why he built the Sophontheatrum. We needed a place where we could engage in intellectual discourse, both with ourselves and with others.","Именно поэтому он и настоял на строительстве Арены мудрости. История доказала, что нам действительно нужно место, где мы всегда можем вступить в диалог с собой и другими."
+line-142,乔迪,我没有什么可以用来辩论的观念，阿维图斯先生......但我确实还有很多问题。我是该问您，问我自己，还是问这台终端？,"I wouldn't say I'm up for a debate, but I do have a lot of questions. Should I ask you, myself, or this terminal?","У меня нет концепций для споров, господин Авитус... но у меня много вопросов. Кого мне спрашивать: вас, себя или этот терминал?"
+line-149,“小帮手”,——,—,——
+line-154,阿维图斯,看来，我们的小讨论得暂时让步于一场更大的交锋了。,It seems our little discussion must give way to a greater showdown.,"Похоже, наша дискуссия должна уступить место чему-то более масштабному."
+line-156,乔迪,怎么了？,What do you mean?,Что случилось?
+line-158,阿维图斯,这里接下来要进行一场重要的评议会，和你那三位同行者相关。,"They're holding a tribunal, and it concerns three of those you arrived with.","Скоро здесь состоится важный совет, касающийся твоих трёх спутниц."
+line-160,乔迪,深海猎人？！,The Abyssal Hunters?!,Охотники на демонов?!
+line-170,幽灵鲨,哎呀，我是不是看见了我们迷茫的陆地朋友？他在一脸紧张地为我们担心呢。,"Oh, hey, is that our landbound friend I spy? Aw, he looks worried about us.","Ой, неужели я вижу нашего потерянного наземного друга? Он так нервно беспокоится за нас."
+line-172,幽灵鲨,（招手）,(Waves),(Машет рукой)
+line-174,斯卡蒂,隔得太远了，他很难注意到。,He won't see you from that far away.,"Слишком далеко, он вряд ли заметит."
+line-176,斯卡蒂,但已经有其他人朝这边看过来了。,"Others are looking this way, though.",Но уже кто-то другой смотрит в эту сторону.
+line-178,凯尔希,这场评议会引起了过多计划外的关注。,This tribunal has drawn more attention than expected.,Этот совет привлёк слишком много нежелательного внимания.
+line-180,幽灵鲨,深海猎人原本就足够引人注目了，“死而复生”又让故事平添了许多波折......,"We Hunters always have, and now they even have the lovely story of our return from the dead.","Охотники на демонов и так достаточно заметны, а «воскрешение из мёртвых» сделало нашу историю ещё запутаннее..."
+line-181,幽灵鲨,不论我们意愿如何，“深海猎人”都已经是这个舞台上的主角了。,"Like it or not, the Abyssal Hunters are in the spotlight now.","Хотим мы того или нет, «Охотники на демонов» уже стали главными героями на этой сцене."
+line-183,斯卡蒂,鲨鱼，这场评议会是我们最后的“检查”了吧？,"This tribunal will be our final 'checkup,' yes?","Акула, этот совет — наша последняя «проверка», да?"
+line-184,斯卡蒂,实话说，我已经有些厌烦了。,"Frankly, they're getting tiresome.","Честно говоря, мне это уже порядком надоело."
+line-187,,幽灵鲨，你的状态还好吗？;斯卡蒂，别着急。;这么大阵仗，就当欢迎仪式吧。,"Are you okay, Specter?;Take it easy, Skadi.;Consider it our warm welcome.","Спектр, ты в порядке?; Скади, не торопись.; Такой масштабный приём, сочтём это приветственной церемонией."
+line-190,凯尔希,深海猎人需要保持低调。但是博士，你我也需要谨慎行事。,"The Hunters need to keep a low profile. We must also act with prudence, Doctor.","Охотникам на демонов нужно вести себя тише. Но, Доктор, и нам нужно действовать осторожно."
+line-193,,罗德岛的处境总是这么微妙。,We always find ourselves in delicate situations.,Положение Родос Айленд всегда столь неоднозначно.
+line-196,凯尔希,是。这一次，我们不仅是在两个国家之间斡旋，更是在海洋与陆地之间，在两种文明之间斡旋。,"Indeed. This time, we're not merely mediating between two countries, but between land and the sea. Two vastly different civilizations.","Да. В этот раз мы маневрируем не только между двумя странами, но и между океаном и сушей, между двумя цивилизациями."
+line-197,凯尔希,接下来我会短暂地离开你们，为歌蕾蒂娅策应。会议结束后，我将正式与阿戈尔的执政官接触，以求海陆合作能够达成。,"Following the tribunal, I will formally address Ægir's consul to foster cooperation between land and sea. But for now, you'll need to assist Gladiia independently, Doctor.","Сейчас я ненадолго покину вас, чтобы поддержать Гладию. После совета я официально встречусь с архонтом Агора, чтобы добиться сотрудничества между морем и сушей."
+line-198,凯尔希,只是，这座城市和我们所面对的局势都还不明朗。身处关注的焦点，有些事情我很难放开手脚去做。,The situation remains uncertain for both the city and ourselves. Certain matters become more difficult if I am placed at the center of attention.,"Просто ситуация в городе и вокруг нас пока неясна. Находясь в центре внимания, мне трудно действовать свободно."
+line-201,,但很少有人会关注你带来的“小助理”。;所以应当由我来见机行事，对吧？,But no one will be watching your 'assistant'?;So I should play it by ear?,"Но мало кто обращает внимание на твоего «маленького помощника».; Значит, мне стоит действовать по обстоятельствам, верно?"
+line-204,凯尔希,嗯。务必注意行事方式，我不希望在与执政官谈判的时候，需要临时更换任务目标。,"Yes, but be careful. I would prefer not to have to change our objective in the middle of negotiations with the Consul.","Хм. Будь предельно осторожен, я не хочу менять цели миссии прямо во время переговоров с архонтом."
+line-210,幽灵鲨,博士，凯尔希医生在有些话题上总是格外依赖修辞艺术，不是吗？,"Dr. Kal'tsit sure uses a lot of big words, doesn't she?","Доктор, доктор Кель'цит всегда излишне полагается на риторику в некоторых темах, не так ли?"
+line-212,斯卡蒂,绕来绕去的，她不是一直都这样讲话？,Does she ever get straight to the point?,"Ходит вокруг да около, она же всегда так разговаривает?"
+line-214,幽灵鲨,我们的医生呀，总是在考虑太多的东西，却不善于表达自己的关心。,"Our dear Dr. Kal'tsit thinks too much about too many things, and not nearly enough about how to convey that she cares.","Наш врач постоянно думает о слишком многих вещах, но не умеет выражать свою заботу."
+line-215,幽灵鲨,博士，你是不是也觉得，阿戈尔更加直率的沟通方式，更方便我们互相了解？,"Wouldn't you agree that more direct, Ægir-style communication is better, Doctor?","Доктор, вы тоже считаете, что более прямолинейный способ общения Агора помог бы нам лучше понять друг друга?"
+line-218,,同意。;凯尔希有她的考量。,Absolutely.;Kal'tsit has her reasons.,Согласен.; У Кель'цит свои соображения.
+line-221,斯卡蒂,放心，我和鲨鱼可以保护好你。,"Don't worry, Shark and I will protect you.","Не волнуйся, мы с Акулой сможем тебя защитить."
+line-222,斯卡蒂,说起来，二队长怎么还没来？,"Say, where's Captain Gladiia?","Кстати, почему второй командир ещё не пришла?"
+line-224,幽灵鲨,她应该会和克莱门莎执政官一起出现。毕竟，今天需要站在正中央的人，其实是她。,"I imagine she'll show up with Consul Clementia. After all, she's the one who will be taking the stand today.","Она должна появиться вместе с архонтом Клеменцией. В конце концов, сегодня главный человек на сцене — это она."
+line-231,热情的阿戈尔人,那个，请问，您是劳伦缇娜小姐吗？,Excuse me! A-Are you Laurentina?,"Скажите, пожалуйста, вы госпожа Лорентина?"
+line-243,疲惫的阿戈尔人,顾问，您果然在这里。,"I had a hunch I'd find you here, advisor.","Советник, вы действительно здесь."
+line-244,疲惫的阿戈尔人,这批环境样本的检测结果已经出来了，需要您过目一下，判断是否需要临时补充一轮新的基因检测。,The environmental sample test results are out. We need you to take a look and see if we need another round of genetic testing.,"Результаты анализов партии образцов окружающей среды готовы, нужно, чтобы вы взглянули и определили, нужен ли дополнительный раунд генетического тестирования."
+line-247,布兰都斯,啊，抱歉......你发了消息，但我没有注意终端。,"Oh... Sorry, didn't see your message.","А, извини... ты отправлял сообщения, но я не смотрел на терминал."
+line-250,疲惫的阿戈尔人,您似乎很关心深海猎人的这场评议会。,You seem preoccupied by the Abyssal Hunter's tribunal.,"Вы, кажется, очень беспокоитесь о совете Охотников на демонов."
+line-251,疲惫的阿戈尔人,我记得您原来在深海猎人研究所工作过？,"You used to work at the Abyssal Hunter Lab, right?","Помню, вы работали в Институте Охотников на демонов?"
+line-254,布兰都斯,我倒宁愿不提那份工作。,I'd rather not talk about it.,Я бы предпочёл не вспоминать ту работу.
+line-255,布兰都斯,不过是的，我在那研究基因嵌合的方式，尝试为深海猎人找到更安全、更有效的改造方案。,"But yes, I was researching gene splicing methods that would provide a safer and more effective way to perform the Hunter modifications.","Хотя да, я исследовал методы генетической химеры, пытаясь найти более безопасные и эффективные варианты трансформации для Охотников на демонов."
+line-258,疲惫的阿戈尔人,您不喜欢深海猎人计划？,But you didn't like the program?,Вам не нравится проект Охотников на демонов?
+line-261,布兰都斯,一个付出了惨痛的牺牲，却没取得什么像样成果的失败项目罢了，谈不上什么喜欢不喜欢。,"It's not about liking or disliking it. It's that it failed to produce results, despite all the sacrifices we made.","Это просто провальный проект, потребовавший ужасных жертв, но не давший никаких стоящих результатов, так что не о чем тут рассуждать."
+line-263,布兰都斯,不过歌蕾蒂娅她们还活着，这是最重要的。就算为了她们几个，我也得来。,"But what matters now is that they're alive, Gladiia and the others. I have to be here, if only for them.","Впрочем, Гладия и остальные живы, это главное. Даже ради них одних я должен был прийти."
+line-266,疲惫的阿戈尔人,你们关系很好？,Were you two close?,Вы в хороших отношениях?
+line-269,布兰都斯,哈哈。要是歌蕾蒂娅也这么觉得就好了。,"Hah. If only she thought so, too.","Ха-ха. Было бы здорово, если бы Гладия тоже так думала."
+line-282,阿戈尔女性,阿维图斯老师，我能坐您旁边吗？,Magister Avitus. May I sit here?,"Учитель Авитус, можно мне сесть рядом с вами?"
+line-284,阿维图斯,当然了，卡西娅。小心些坐，你刚接受过胚胎分离手术，还需要恢复。,"Of course, Cassia. Be careful, though; recovery from embryo separation surgery takes time.","Конечно, Кассия. Садись осторожнее, ты только перенесла операцию по разделению эмбриона, нужно восстановиться."
+line-285,阿维图斯,这位是来自伊比利亚的客人，乔迪。,"This is Jordi, a guest from Iberia.","Это гость из Иберии, Джоди."
+line-287,卡西娅,谢谢。你好。,Thank you. And hello.,Спасибо. Привет.
+line-290,乔迪,啊，您，您好。,"Oh, er, hello.","А, з-здравствуйте."
+line-294,卡西娅,阿维图斯老师，今天的参加者是不是太多了点？,There are more participants than I expected.,"Учитель Авитус, не слишком ли много участников сегодня?"
+line-295,卡西娅,三个月前设施管理所也因为城市单元骨架的改造进行过一次评议，但关联单位只有两个。,"Even when the Institute of Facility Management held a tribunal to discuss modifications to the city's unit framework, only two departments were involved.","Три месяца назад в Управлении сооружений тоже проводили совет из-за реконструкции каркаса городских модулей, но затронутых ведомств было всего два."
+line-297,阿维图斯,毕竟评议会是严格以解决问题为导向的，只有问题复杂到单一部门无法解决，才会让间接相关的部门也参与进来。,"The tribunal system exists to solve problems, after all. The only reason to involve more departments is when the problem is too complex for one.","Совет строго ориентирован на решение проблем; только если проблема слишком сложна для одного ведомства, приглашаются косвенно причастные подразделения."
+line-299,卡西娅,可现在斗智场已经坐了快一半人，深海猎人的回归，真的会有这么大的影响吗？,But the Sophontheatrum is already half-full. Is the return of the Abyssal Hunters really such a big deal?,"Но сейчас Арена мудрости заполнена почти наполовину, неужели возвращение Охотников на демонов имеет такое влияние?"
+line-301,阿维图斯,一项经过近两百年的争论才实际启动的计划......它的理念几乎动摇了阿戈尔的根基，它的动向同样牵动着阿戈尔的命脉。,"It's a project that took two centuries of debate before implementation. Its philosophy shook the very foundations of Ægir, and its every progress tucks the string of Ægir's future.","Проект, который фактически запустили после почти двухсот лет споров... Его идеи почти пошатнули основы Агора, а развитие событий влияет на саму судьбу Агора."
+line-303,阿维图斯,况且，航道计划已经进行到了最关键的阶段，任何预期之外的情况都值得关注。,"Besides, the Waterway Program is reaching its most critical juncture. Even the smallest thing out of the ordinary is worthy of attention.","К тому же «Проект фарватера» достиг критической стадии, любая непредвиденная ситуация заслуживает внимания."
+line-304,阿维图斯,仅靠垂直上报注定无法得到周全的结论，克莱门莎执政官需要听取更多领域的专业判断。,Simply reading a report is not nearly enough to come to an informed decision. Consul Clementia needs the counsel of experts in multiple fields.,"Одних лишь отчётов по вертикали недостаточно, архонту Клеменции нужно услышать экспертные мнения из разных областей."
+line-305,阿维图斯,不过，现场应该还有很多人是自发前来旁听的。在这个敏感的时间点上，三位猎人的回归，或许会让许多人感到不安。,"I'm sure that many have come of their own accord, though. The return of three Hunters is bound to cause unease at such a sensitive time.","Хотя, похоже, многие пришли добровольно послушать. В этот чувствительный момент возвращение трёх охотников может вызвать тревогу у многих."
+line-314,热情的阿戈尔人,我和这场评议会没有直接的关系，只是听说您可能会出席......,"I'm not really here for the tribunal, but I heard you might make an appearance, so...","Я не имею прямого отношения к совету, просто слышал, что вы будете присутствовать..."
+line-316,幽灵鲨,你是？,And who might you be?,Ты кто?
+line-318,热情的阿戈尔人,啊，抱歉。,"Oh, sorry.","А, простите."
+line-320,热情的阿戈尔人,我叫卢契拉，曾经和您的父母有过一面之缘！,I'm Lucilla. I had the honor of meeting your parents once.,"Меня зовут Лучила, я однажды встречалась с вашими родителями!"
+line-322,幽灵鲨,标尺、墨水......你在这座城市的穹顶系统工作？,Rulers and ink... Are you an architect working on the dome system here?,"Линейки, чернила... ты работаешь в системе купола этого города?"
+line-324,卢契拉,我、我去年刚刚从那里调离，不过还在设施管理所，在地面负责城市单元骨架的检修和洋流测绘。,"I-I transferred out of that last year, but I'm still with the Institute of Facility Management. Now I maintain the city unit framework and measure ocean currents.","Я... я перевелась оттуда в прошлом году, но всё ещё в Управлении сооружений, отвечаю за ремонт каркаса городских модулей на поверхности и картирование течений."
+line-326,幽灵鲨,“不要去羡慕太阳，我们给予自身永恒的群星和无限的海洋。”,"'Envy not the sun, for we have given ourselves the eternal stars and the infinite sea.'","«Не завидуй солнцу, мы даруем себе вечные звёзды и бесконечный океан»."
+line-328,卢契拉,......,...,...
+line-329,卢契拉,很小的时候，公共养育所的抚养人带我们在这里进行过一次演出。,"When I was little, the foster parents at the Institute of Incubation took us to hold a performance here.","Когда я была совсем маленькой, воспитатель из общественного питомника приводил нас сюда на выступление."
+line-331,卢契拉,我们设想将微型光学机械编制成矩阵，用光点的明暗变化，将人思考时的神经活动以美观的方式呈现出来。,"We created a matrix of tiny optical machines, representing neural activity with changes to the brightness of the dots.","Мы представляли, что микроскопические оптические машины выстраиваются в матрицу, используя мерцание световых точек, чтобы красиво отразить нейронную активность человека во время мышления."
+line-333,卢契拉,大家排练了很久。但演出当天，斗智场罕见地出现了故障，整个场地一瞬间暗了下去，只有那些小机器闪着光。,"We'd rehearsed thoroughly, but the Sophontheatrum malfunctioned on the day of the performance, and the whole place went dark. Except for those little machines.","Мы долго репетировали. Но в день выступления на Арене мудрости произошёл редкий сбой, весь зал в одно мгновение погрузился во тьму, горели лишь эти маленькие машинки."
+line-335,卢契拉,当时观众里有对很般配的叔叔阿姨，他们变了个魔术——一条条光带凭空垂落在斗智场，穹顶伸出须腕，邀我们的小机器一同起舞。,"But a couple in the audience worked their magic, and ribbons of light fell from the dome, as if arms reaching out to invite our little machines to dance.","Среди зрителей была одна подходящая пара, они показали фокус — из воздуха на Арену опустились полосы света, а купол протянул щупальца, приглашая наши машинки танцевать."
+line-336,卢契拉,一切是那么美轮美奂，场地的故障反而显得像是精心安排的......,It was so beautiful that the blackout almost felt intentional...,"Всё было так сказочно, что поломка арены казалась тщательно спланированной..."
+line-338,幽灵鲨,我能想象那两个家伙得意的神情了。说不定，所谓的故障还真的应该算到他们头上。,"Ha, I can picture the smug look on their faces. In fact, I wouldn't be surprised if they really had something to do with it.","Я могу представить их гордые лица. Возможно, этот «сбой» действительно их рук дело."
+line-340,卢契拉,等到发展规划所进行职业评估时，我几乎毫不犹豫地填报了穹顶系统。直到那时候我才知道，他们是很有名的穹顶设计师。,"When the Institute of Development Planning did its career assessment, I applied for the dome system without a second thought. It was only then that I learned they were famous dome designers.","Когда отдел планирования проводил профессиональную оценку, я почти без раздумий выбрала систему купола. И только тогда узнала, что они знаменитые дизайнеры куполов."
+line-342,卢契拉,......后来我就没有再见过他们。,...That was the only time I saw them.,...Потом я их больше не видела.
+line-344,幽灵鲨,他们启发了你，一面之缘，恰如其分。,So they were at the right time and place to inspire you.,"Они вдохновили тебя, одна встреча — в самый раз."
+line-346,幽灵鲨,不过，你刚刚说自己变更了职务。既然你已经和我们头顶这透明的巨构结下了缘分，为什么......,"But you said you transferred out of dome work. Why, when you've already formed such a special bond with our big, transparent friend above?","Хотя ты только что сказала, что сменила должность. Раз уж ты связала судьбу с этим прозрачным гигантом над головой, почему..."
+line-348,卢契拉,我......,I...,Я...
+line-350,卡西娅,卢契拉！评议会快开始了，你要坐在这边吗？,Lucilla! The tribunal is about to start. You want to sit here?,"Лучила! Совет скоро начнётся, ты сядешь здесь?"
+line-352,卢契拉,抱歉，劳伦缇娜小姐，我的同事在叫我——欢迎回家，祝你们顺利。,"Sorry, my colleague is calling out to me. Anyway, welcome home, Laurentina, and I wish you the best of luck.","Извините, госпожа Лорентина, коллега зовёт — с возвращением домой, удачи вам."
+line-358,幽灵鲨,......,...,...
+line-366,斯卡蒂,该来的人差不多都到齐了......,Pretty much everyone's here...,"Похоже, все нужные люди собрались..."
+line-368,斯卡蒂,欸，博士，你要去哪？,"Hey, where you going, Doctor?","Эй, Доктор, ты куда?"
+line-371,,深海猎人太引人注目了。;只是不想被各种人盯着看，不用管我。,The Hunters draw too much attention.;I'll just be watching from the stands.,"Охотники на демонов слишком заметны.; Просто не хочу, чтобы на меня все пялились, не обращай внимания."
+line-374,斯卡蒂,好吧，你还真是听凯尔希的话。,"Kal'tsit's words really got to you, haven't they?","Ну ладно, ты и правда слушаешься Кель'цит."
+line-389,克莱门莎,相信各位已经知道，弥利亚留姆近日成功与伊比利亚方面建立联系。这意味着航道计划即将进入最为关键的阶段......,"As you're all well aware, Milliarium has successfully made contact with Iberia. As such, the Waterway Program now enters its most critical phase.","Полагаю, все уже знают, что Милиариум недавно успешно наладил контакт с Иберией. Это означает, что «Проект фарватера» переходит в самую критическую стадию..."
+line-391,,一缕光纹从庞大的珊瑚状终端脱离，环绕着克莱门莎，在空气中连接成轻盈的环，随着执政官的话语而舞动。,"A thread of light leaves the massive coral-shaped terminal to surround her, forming a giant ethereal ring in the air that dances to the consul's words.","Световая полоса отделилась от огромного коралловидного терминала, окружила Клеменцию, соединилась в воздухе в лёгкое кольцо и танцевала под слова архонта."
+line-392,,光纹交织成城市与浪潮、猎人与海嗣，言语被转化成可视的影像，声音在这一刻获得了纹理。,"More threads weave together to form cities and tides, Hunters and Seaborn, transmuting words to images and giving substance to sound.","Световые полосы переплелись в города и волны, охотников и морских чудовищ, речь превращалась в визуальные образы, а звук в этот миг обрёл текстуру."
+line-393,,刚刚还在喧嚣的人群，转瞬间便安静下来。,The crowd quiets down.,"Толпа, до этого шумевшая, в мгновение ока затихла."
+line-395,克莱门莎,值此关键时刻，歌蕾蒂娅、斯卡蒂、劳伦缇娜，三位幸存的深海猎人顺利返回了阿戈尔。,"And at this crucial juncture, we also welcome home our surviving Abyssal Hunters: Gladiia, Skadi, and Laurentina.","В этот решающий момент Гладия, Скади и Лорентина, три выживших Охотника на демонов, благополучно вернулись в Агор."
+line-396,克莱门莎,她们的体检结果，以及歌蕾蒂娅提交的任务报告已经上传至斗智场的终端，相信诸位已经自行查阅过了。,The results of their physical examinations and Gladiia's mission report have been uploaded to the Sophontheatrum's terminal and are available for your perusal. I'm sure many of you have already done so.,"Результаты их медицинского осмотра, а также отчёт о миссии, представленный Гладией, были загружены в терминал Арены мудрости, полагаю, вы все ознакомились самостоятельно."
+line-397,克莱门莎,就其中的种种异常状况......,Concerning the irregular circumstances therein...,Относительно всех имеющихся аномалий...
+line-398,克莱门莎,深海猎人总战争设计师之一，阿戈尔荣誉军团长，歌蕾蒂娅执政官将在此接受诸位的质询。,"I now call upon Consul Gladiia—leader of Ægir's Honor Exercitus, and Chief Designer of Warfare of the Abyssal Hunters—to answer your questions.","Один из генеральных дизайнеров войны Охотников на демонов, почётный командир легиона Агора, архонт Гладия, примет здесь ваши вопросы."
+line-407,,你越过几排阿戈尔人，找到一个相对靠后的位置，坐了下来。从这里看过去，斗智场中发生的一切尽收眼底，座位周围也没那么拥挤。,"You navigate through several rows of Ægir and sit in one of the back rows. With plenty of room around you, you have a clear view of everything happening in the Sophontheatrum.","Ты прошёл мимо нескольких рядов агорцев, нашёл свободное место подальше и сел. Отсюда всё происходящее на Арене мудрости было как на ладони, и вокруг сидело не так много людей."
+line-408,,评议会已经开始，偌大的环形建筑，没有人高声说话，但每个人的发言都无比清晰。歌蕾蒂娅站在场中，所有人的目光都投注在她身上。,"The tribunal has already begun. The speakers do not raise their voices, yet every word is clear in the massive ring-like structure. Gladiia steps forward, drawing everyone's gaze.","Совет начался, в огромном кольцевом здании никто не говорил громко, но каждое выступление было отчётливо слышно. Гладия стояла в центре, и взгляды всех присутствующих были устремлены на неё."
+line-411,,很轻的脚步声，几不可闻。仿佛幽邃的穹顶在你身侧投下了一块阴影。,"Suddenly, you hear footsteps so soft they are almost inaudible, like a shadow from the somber dome touching the floor.","Тихие шаги, почти неслышные. Словно глубокий купол отбросил тень прямо рядом с тобой."
+line-415,？？？,不要声张。,Not a sound.,Не шуми.
+line-416,？？？,否则我会掐断你的喉咙。,Or I'll crush your throat.,Иначе я перережу тебе глотку.
+line-421,,......,...,...
