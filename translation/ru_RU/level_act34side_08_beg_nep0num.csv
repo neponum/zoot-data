@@ -1,0 +1,340 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act34side
+__chapter__,,Chapter Name,activities/act34side/level_act34side_08_beg,“何谓存续？”
+,,,,
+char-1,卡西娅,卡西娅,Cassia,Кассия
+char-2,？？？,？？？,???,？？？
+char-3,卢契拉,卢契拉,Lucilla,Лучилла
+char-4,西昆妲,西昆妲,Secunda,Сикунда
+char-5,克莱门莎,克莱门莎,Clementia,Клеменса
+char-6,战列舰驾驶员,战列舰驾驶员,Battleship Pilot,Пилот линкора
+char-7,港口枢纽管理员,港口枢纽管理员,Port Administrator,Администратор порта
+char-8,海嗣,海嗣,Seaborn,Морское чудовище
+char-9,斯卡蒂,斯卡蒂,Skadi,Спектр
+char-10,幽灵鲨,幽灵鲨,Specter,Спектр
+char-11,歌蕾蒂娅,歌蕾蒂娅,Gladiia,Гладиа
+char-12,“海嗣”,“海嗣”,'Seaborn',«Морское чудовище»
+char-13,凯尔希,凯尔希,Kal'tsit,Кельси
+char-14,Mon3tr,Mon3tr,Mon3tr,Mon3tr
+char-15,圣徒卡门,圣徒卡门,Saint Carmen,Кармен
+char-16,乔迪,乔迪,Jordi,Джоди
+char-17,艾丽妮,艾丽妮,Irene,Эйрин
+char-18,审判庭文员,审判庭文员,Inquisition Clerk,Сотрудник инквизиции
+char-19,乌尔比安,乌尔比安,Ulpianus,Ульпиан
+char-20,新生的生命,新生的生命,Newborn Lifeform,Новая жизнь
+char-21,停下来的海嗣,停下来的海嗣,Stopping Seaborn,Остановившееся чудовище
+,,,,
+line-17,卡西娅,咳咳——,*cough*—,Кхе-кхе...
+line-18,卡西娅,还好，差点被那家伙追上......,Phew. That woman nearly got me—,"Хорошо, что я почти оторвалась от того типа..."
+line-20,？？？,卡、卡西娅，我一直在找你，你怎么消失了这么久？,C-Cassia? I've been looking for you forever! Where'd you run off to earlier?,"Ка-Кассия, я всё это время искала тебя, почему ты исчезла на так долго?"
+line-22,卡西娅,......卢契拉？,Lucilla?,...Лучилла?
+line-28,卡西娅,你这孩子，傻站在这里干嘛？,"What are you doing here, child?","Что ты, дитя, стоишь тут столбом?"
+line-30,卢契拉,城市单元骨架需要检修，这也是战斗的一部分。信标塔的方向......城市里究竟发生了什么？,The city unit framework needs servicing; it's a standard combat duty. But... look at the beacon tower... What happened inside the city?,"Каркас городского модуля нуждается в техническом осмотре, это тоже часть борьбы. Направление сигнальной башни... что в конце концов произошло в городе?"
+line-32,卡西娅,海嗣侵入了弥利亚留姆，那座塔已经变成了巢穴。,The Seaborn have broken into Milliarium. That tower has become one of their nests.,"Морские чудовища проникли в Мириллиум, та башня уже превратилась в гнездо."
+line-33,卡西娅,这里交给我吧，你赶紧去避险。,"Leave this to me. You should get out of here, quick.","Оставь это на меня, ты быстрее иди в безопасное место."
+line-35,卢契拉,太危险了......我留下来，我和你一起。,It's too risky. I'll stay here with you.,"Это слишком опасно... Я останусь, я буду с тобой."
+line-37,卡西娅,不用，呼——,No need to—Urgh.,"Не нужно, фух..."
+line-39,卢契拉,卡西娅，你受伤了？！,Are you hurt?!,"Кассия, ты ранена?!"
+line-41,卡西娅,嗯。,Yes.,Мгм.
+line-43,卢契拉,你赶过来的时候，被那些海嗣——,It must have been the Seaborn as you came over—,"Когда ты прорывалась сюда, тебя задели те морские чудовища..."
+line-45,卢契拉,不对，这种擦伤不可能是海嗣造成的......,"Wait, no, a scratch like this couldn't be left by a Seaborn...","Нет, такая царапина не могла быть оставлена морскими чудовищами..."
+line-46,卢契拉,有人攻击了你？,Did someone attack you?,Кто-то напал на тебя?
+line-49,卡西娅,咳咳！,*cough*!,Кхе-кхе!
+line-58,卢契拉,等等，你把安全阀拉出来做什么？,"Wait, why are you pulling out the safety valve?","Подожди, зачем ты вытаскиваешь предохранительный клапан?"
+line-61,卢契拉,欸欸，别往前推，这样会切断底层的自检系统，这里的城市单元骨架会停止运作的......,"Hey, don't push it! It'll cut off the ground level self-diagnostic system, and the city framework will stop working—","Эй, эй, не дави дальше, так ты отключишь систему самодиагностики нижнего уровня, каркас городского модуля перестанет работать..."
+line-63,卢契拉,不对，你当然比我清楚......,"No, you know that way better than I do...","Нет, ты, конечно, знаешь это лучше меня..."
+line-71,卢契拉,卡西娅，这才是你的目的吗？你是，你是深海教会的人？,"You've been trying to do this all along, Cassia? Are you... with the Church of the Deep?","Кассия, это и есть твоя цель? Ты... ты из Церкви Глубин?"
+line-72,卢契拉,......,......,...
+line-74,卢契拉,所以你才在海巡队调查图利娅的时候，故意引导她们去怀疑她？难道说，她的失踪，就是你......,"When the Sea Patrol investigated Tullia, you deliberately turned them against her? Don't tell me it was you who made her disappear— ","Так вот почему, когда отряд патрулирования моря расследовал дело Туллии, ты намеренно навела их на подозрения против неё? Неужели её исчезновение — твоих рук дело..."
+line-76,卢契拉,你在我脖子上放了什么？,What's this you've put on my neck?,Что ты повесила мне на шею?
+line-78,卡西娅,长须栉齿草，一个负责培育行道珊瑚的朋友的作品。别乱动，如果被它的触须扎破皮肤，会很痛苦地死去。,"Longbeard combtooth grass. Something made by a friend in charge of raising road-side coral. Don't move. You'll die if its bristles pierce your skin. Quite painfully, if I may add.","Длинноусую гребенчатую траву, работу одного друга, ответственного за выращивание уличных кораллов. Не дёргайся, если её усики проткнут кожу, умрёшь в страшных муках."
+line-79,卡西娅,现在，孩子，咳......离开这里。等你走得足够远，它会自动脱落。,"Now—*cough*—Leave this place, child. Once it senses you've gone far enough, it'll fall off by itself.","А теперь, дитя, кхе... уходи отсюда. Когда отойдёшь достаточно далеко, она сама отпадёт."
+line-83,卡西娅,你想走的，对吗？,"You want to leave, don't you?","Ты ведь хочешь уйти, правда?"
+line-84,卡西娅,其实在我们成为同僚之前，我就在发展规划所偶然看过你的评估资料。,"To be honest, before we became coworkers, I happened to see your assessment at the Institute of Development Planning.","На самом деле, ещё до того, как мы стали коллегами, я случайно видела твои оценочные данные в отделе развития и планирования."
+line-86,卢契拉,......,......,...
+line-88,卡西娅,你之所以在意那个数据员，是因为自己始终没有忘记弥利亚留姆的那次撤离，对吧？,"You care so much about that data scientist because you've never forgotten that evacuation of Milliarium, have you?","Причина, по которой тебя волнует тот оператор данных, в том, что ты сама до сих пор не забыла ту эвакуацию из Мириллиума, верно?"
+line-89,卡西娅,眼看着远处的火山能源站的光亮一点点熄灭，周围只剩下无尽的黑暗，黑暗中只剩下海流的轰鸣和窸窣的异响......,"You watched as the distant lights of the volcanic power station went out, surrounded in endless darkness, with only strange rumbles and rustling carried to you by the currents...","Глядя, как гаснут огни дальней вулканической энергетической станции, а вокруг остаётся лишь бесконечная тьма, и в этой тьме лишь гул морских течений и шорох странных звуков..."
+line-90,卡西娅,那才是海洋原本的模样。,The ocean as it once was.,Вот каким океан является на самом деле.
+line-92,卡西娅,那一刻，你是整个弥利亚留姆离海洋最近的人，你站在穹顶的夹层，周围一个人都没有。,"At that very moment, you were the closest to the ocean out of all of Milliarium. You, standing at the mezzanine of the dome, all alone.","В тот момент ты была ближе всех в Мириллиуме к океану, ты стояла в прослойке купола, и вокруг не было ни души."
+line-93,卡西娅,发展规划所评估你的心理压力过大，才同意你从穹顶系统转来地面。至于“恐高”，只是个无伤大雅的玩笑。,"The IDP assessment was that there was too great a psychological burden, which is why they agreed to transfer you from the dome system to ground level. Your so-called 'fear of heights' was just a little joke of yours.","Отдел планирования оценил уровень твоего психологического напряжения как критический, поэтому перевёл тебя с купольной системы на поверхность. А что до «боязни высоты» — это была просто безобидная шутка."
+line-95,卡西娅,恐怕连你自己都没有意识到，自己的内心深处藏着怎样的......,I'm afraid that you yourself don't even realize what lies deep within your heart.,"Боюсь, ты сама не осознавала, что скрыто в глубине твоей души..."
+line-97,卢契拉,......,......,...
+line-99,卡西娅,剩余的海嗣很快就会发现这条路还能通过，你不会想再次面对它们的。,The remaining Seaborn will soon discover that this route is still open. You wouldn't want to meet them again.,"Оставшиеся морские чудовища скоро обнаружат, что этот путь ещё проходим, ты же не хочешь снова столкнуться с ними."
+line-100,卡西娅,快走吧，还来得及。,"Go, quickly, before it's too late.","Уходи быстрее, пока ещё есть время."
+line-102,卢契拉,......,......,...
+line-106,,卡西娅握住了安全阀，继续向前推着，她没有再看旁边这个总是爱开玩笑的后辈。,Cassia grips the safety valve and continues to push it. She no longer looks at the joke-loving colleague by her side.,"Кассия схватилась за предохранительный клапан и продолжила толкать его вперёд, не взглянув больше на свою коллегу, любившую пошутить."
+line-107,,安全阀突然停住，发出刺耳的锐响，卡西娅没能再推动一丝一毫——,"The valve stops abruptly, releasing an ear-piercing shriek. She can push it no further.","Клапан внезапно остановился, издав пронзительный звук, и Кассия не смогла сдвинуть его ни на миллиметр —"
+line-108,,一双纤细的手抵住了另一端。,A pair of slender hands are pushing back from the other side.,Тонкие руки упёрлись в другую сторону.
+line-110,卡西娅,卢契拉？,Lucilla?,Лучилла?
+line-112,卢契拉,哈，要是在平时，我一定会很生气地反驳你，或者把这株什么草塞进我的墨水瓶里，跟你说这种恶作剧的水平太低。,"Hah, in any other situation, I'd definitely give you a piece of my mind, or stuff this whatever-grass into my ink bottle and tell you this sort of practical joke is beneath you.","Ха, в обычное время я бы обязательно в гневе возразила тебе или засунула бы эту траву в свою чернильницу, сказав, что уровень твоих розыгрышей слишком низок."
+line-114,卢契拉,可是，好亮啊......信标塔沉下去的方向，还有我们头顶的穹顶，整块大陆架上的海嗣都在朝弥利亚留姆涌过来，对吧？,"But it's so bright... the light from where the tower sank in, from the dome above us... Every Seaborn on the whole continental shelf is rushing towards Milliarium, right?","Но, как же ярко... направление, куда погрузилась сигнальная башня, и купол над нами — морские чудовища со всего континентального шельфа движутся к Мириллиуму, верно?"
+line-115,卢契拉,这些色彩诡异的光亮背后是什么？,Just what is behind those strangely colored lights?,Что стоит за этим странным свечением?
+line-116,卢契拉,卡西娅，你说的没错，海嗣在侵蚀我们的生活，我已经真真切切经历过一次了，我没法忘记。,"You're not wrong, Cassia. The Seaborn have eroded away at our lives. I've experienced the truth of that myself, and I'll never forget.","Кассия, ты права, морские чудовища разрушают нашу жизнь, я уже однажды пережила это и не могу забыть."
+line-117,卢契拉,我很羡慕图利娅，我们经历了类似的事情，可是从始至终，她都能守着自己珍视的东西，她很厉害！,"I envied Tullia. Our experiences were so similar, but she was able to protect what she treasured all along. An amazing woman, really!","Я завидую Туллии, мы пережили схожие вещи, но с самого начала она смогла защитить то, что ей дорого. Она очень сильная!"
+line-119,卢契拉,而我却从穹顶逃到了地面，刚刚你来之前，我也真的想过从这里逃开......,"And look at me, I escaped the dome and got back to the ground. Before you arrived, I was even thinking of escaping from here, too.","А я сбежала из-под купола на поверхность. До того, как ты пришла, я правда подумывала о том, чтобы просто сбежать отсюда..."
+line-120,卢契拉,可是我应该去哪里呢？,But where would I go?,Но куда мне идти?
+line-122,卢契拉,卡西娅，我不能让你破坏城市单元骨架，我不能让海嗣涌进弥利亚留姆的其他城市单元，哪怕这株草真的能要了我的命！,"I can't let you break the framework, Cassia. I can't let the Seaborn get into any other Milliarium's unit, even if this grass thing kills me in the process!","Кассия, я не позволю тебе разрушить каркас городского модуля, не позволю морским чудовищам ворваться в другие городские модули Мириллиума, даже если эта трава правда может убить меня!"
+line-124,卢契拉,因为，因为我的身后已经没有路了。,Because... Because there's no going back for me.,Потому что... позади меня уже нет пути.
+line-127,卡西娅,咳咳......,*cough*...,Кхе-кхе...
+line-129,卡西娅,你这孩子，力气还真大......,"You really are strong, child.","А ты, дитя, и правда сильная..."
+line-131,卢契拉,劳伦缇娜小姐的父母让我知道，穹顶可以很漂亮，可这块透明的结构，实际上是阿戈尔城市的眼睛。,"Laurentina's parents once told me that while the dome may be beautiful, this transparent structure is actually the true eye of the city.","Родители мисс Лаурентины дали мне понять, что купол может быть красивым, но эта прозрачная структура на самом деле — глаза города Агри."
+line-133,卢契拉,其实，我最近一直在问我自己......我们身处在一场战争里，眼睛就应该负责注视危险，不是吗？,"In fact, I've been asking myself recently... Since we're at war right now, shouldn't the eye be on the lookout for danger?","На самом деле, в последнее время я постоянно спрашивала себя... мы находимся в состоянии войны, глаза ведь должны следить за опасностью, не так ли?"
+line-135,,她逼迫自己往前看，那些诡异的色彩倒映在她的瞳孔里，耳边传来呼啸的潮声和大海子嗣的呢喃。,"She forces herself to look ahead, the strange colors reflecting in her pupils. The roar of the tides and the whispering of the ocean's progeny resound in her ears.","Она заставила себя смотреть вперёд, эти причудливые цвета отражались в её зрачках, а в ушах стоял свист прилива и шёпот отпрысков моря."
+line-136,,年轻的阿戈尔人紧紧抵住安全阀，她没有松手，她不敢松手。,The young Ægir presses hard against the safety valve. She does not let go. She dares not let go.,"Молодая агри крепко упёрлась в предохранительный клапан, она не разжала рук, она не посмела их разжать."
+line-144,,一只有力的手按住了她的肩膀，自己已经僵硬的肌肉几乎是被强迫着一点点放松，她这才回过神来。,"Only once a firm hand presses down on her shoulder, forcing her stiff muscles to relax, does she come back to her senses.","Сильная рука нажала на её плечо, и её окостеневшие мышцы почти насильно стали расслабляться, только тогда она пришла в себя."
+line-149,西昆妲,放松，放松，卢契拉小姐。,"You can let go now, Lucilla.","Расслабься, расслабься, мисс Лучилла."
+line-151,卢契拉,卡西娅她......,"Cassia, she...",Кассия она...
+line-153,西昆妲,暂时的麻痹。我失手射偏，只造成了擦伤，才导致毒素生效延迟了这么久。,"Temporarily paralyzed. I only managed to graze her with my shot, which is why the paralytic took so long to take effect.","Временный паралич. Я промахнулась при выстреле, задела лишь по касательной, поэтому действие токсина так сильно задержалось."
+line-154,西昆妲,抱歉，让你的安全受到了威胁。,Sorry for putting you at risk.,"Извини, что поставила твою безопасность под угрозу."
+line-159,克莱门莎,执政官克莱门莎广播，弥利亚留姆全城听令！,"This is Consul Clementia. Citizens of Milliarium, heed me!","Говорит архонт Клеменса, всему городу Мириллиум принять приказ!"
+line-160,克莱门莎,信标塔所在城市单元完成切割后，城市剩余部分向陆地方向迁移，撤出海嗣包围圈！,"Once the city unit containing the beacon tower has been fully ejected, the rest of the city shall break through the Seaborn encirclement and move towards dry land!","После завершения отсоединения городского модуля с сигнальной башней, оставшаяся часть города перемещается в направлении суши, чтобы выйти из окружения морских чудовищ!"
+line-161,克莱门莎,迁移过程中重启城市单元骨架联动装置，进行结构性重组，力场全开，阻挡涌向陆地的海嗣潮！,Reactivate the linkage mechanism in the city's framework and perform a structural reorganization. Force fields at full power! We'll stop the Seaborn tide from setting a single tentacle onto land!,"Во время перемещения перезапустить связующее устройство каркаса городских модулей, провести структурную реорганизацию, открыть силовое поле на полную мощность, чтобы сдержать поток морских чудовищ, движущихся к суше!"
+line-162,克莱门莎,第八、第十军团以及海巡队，所有还能行驶的舰船轮流出港，为城市护航！,"Legions VIII and X, along with the Sea Patrol: send all operational warships out in turn to escort the city!","Восьмой и десятый легионы, а также патруль морского дозора, всем способным к плаванию кораблям по очереди выходить из порта для охраны города!"
+line-164,西昆妲,卢契拉小姐，我想，关于卡西娅的事件报告，或许由你来完成比较合适。,"It might be more appropriate if you were the one to handle the report regarding Cassia, Lucilla.","Мисс Лучилла, полагаю, отчёт об инциденте с Кассией лучше доверить тебе."
+line-166,卢契拉,您直接去港口枢纽吧，执政官发布的战斗任务更紧急。,I see. You should be heading straight to the port now. The mission just declared by the consul is more urgent.,"Идите прямо к узлу порта, боевая задача архонта более срочная."
+line-168,卢契拉,卡西娅已经被制服，我会先带她去看医师，然后......她应该受到惩罚。,"Cassia's already subdued. I'll take her to a doctor first, and then... she should be punished.","Кассия уже обезврежена, я сначала отведу её к врачу, а затем... она должна понести наказание."
+line-169,卢契拉,以及，我在想，如果城市要进行结构性重组的话，穹顶系统需要作为力场发生的原点，正面对抗海嗣潮，那边的人手......,"And if the city is going to undergo structural reorganization, the dome system will be the focal point of the force field to hold off the Seaborn. So they could probably use some extra hands up there...","И ещё, я думаю, если город должен пройти структурную реорганизацию, купольная система должна стать отправной точкой для генерации силового поля, чтобы лицом к лицу противостоять потоку чудовищ. Людей там..."
+line-170,卢契拉,或许我该提交一份回调岗位的紧急申请。,Maybe I should submit an urgent application to return to my old post.,"Возможно, мне стоит подать срочное заявление о возвращении на должность."
+line-172,西昆妲,卢契拉小姐，你很勇敢。,"You're very brave, Lucilla.","Мисс Лучилла, ты очень смелая."
+line-174,卢契拉,原来您听到了......,"Oh, so you heard all that earlier...","Оказывается, вы слышали..."
+line-176,西昆妲,嗯。在那之前，你或许也应该看一下医师，长须栉齿草确实有很强的神经毒性。,"I did. Before you submit that application though, you ought to see a doctor yourself. Longbeard combtooth grass does in fact contain a potent neurotoxin.","Мгм. До этого тебе, возможно, стоит обратиться к врачу, длинноусая гребенчатая трава действительно обладает сильным нейротоксином."
+line-178,卢契拉,啊——好。,"Ah. Right, I will.",А — хорошо.
+line-192,战列舰驾驶员,冲撞装甲、舰炮挂载、监测单元、伪装涂层、推进系统......全系统检测完毕，随时可以出发。,"Ramming armor, check. Ship cannon mounts, check. Monitors, check. Camouflage coating, check. Propulsion system, check. All system diagnostics complete, ready to launch.","Противоударная броня, подвеска пушек, модули мониторинга, маскировочное покрытие, двигательная система... вся система протестирована, можно отправляться в любой момент."
+line-193,战列舰驾驶员,我们将以最快速度到达指定海域，阻挡来自北侧的海嗣潮。,We'll be heading to the designated waters at full speed to block the Seaborn tide from the north.,"Мы на максимальной скорости достигнем назначенного морского района, чтобы перехватить поток чудовищ с северной стороны."
+line-195,港口枢纽管理员,武器系统的所有权限已经开通，不必有所保留。别让它们靠近弥利亚留姆。,All weapon system permissions granted. No need to hold back. Don't let them get near Milliarium.,"Все права доступа к системам вооружения открыты, не нужно себя сдерживать. Не дайте им приблизиться к Мириллиуму."
+line-197,战列舰驾驶员,我们会尽全力。,We'll do everything we can.,Мы приложим все усилия.
+line-199,港口枢纽管理员,你们只是第一批。接下来，所有还能运作的舰船都会投入战斗。,You're just part of the first sortie. We'll be sending the rest of our ships into battle after you.,Вы лишь первая партия. Далее все исправные корабли будут брошены в бой.
+line-200,港口枢纽管理员,你们将轮流出航，为重组中的弥利亚留姆护航，并作为“高墙”的延伸，阻挡涌向陆地的海嗣群。,"You're to escort Milliarium in shifts while it's reorganizing, serving as an extension of its 'Great Wall' and preventing the Seaborn from making landfall.","Вы будете по очереди выходить в плавание, сопровождая перегруппировывающийся Мириллиум, и, как продолжение «Высокой стены», блокировать скопления чудовищ, движущихся к суше."
+line-201,港口枢纽管理员,所以记住，收到换防指令，必须马上返航补给。,"So remember, the moment you get the order to change shifts, you must return to resupply immediately.","Поэтому запомните, при получении приказа о смене караула — немедленно вернуться на пополнение запасов."
+line-203,战列舰驾驶员,明白。,Understood.,Понял.
+line-217,港口枢纽管理员,......发现海嗣！,Seaborn spotted!,...обнаружены морские чудовища!
+line-218,港口枢纽管理员,残留在城市内的海嗣侵入了港口枢纽，不能让它们靠近舰艇库！,The remaining Seaborn in the city are attacking the port! Do not let them approach the warship docks!,"Оставшиеся в городе морские чудовища проникли в узел порта, нельзя позволить им подойти к докам с кораблями!"
+line-230,海嗣,（痛苦地扭曲身体）,(Pained convulsions),(Болезненно изгибает тело)
+line-234,斯卡蒂,看起来，这些家伙不仅在巢穴里埋伏了我们，还偷袭了我们的城市。,"Not content with ambushing us in their nest, they made a sneak attack on our city, too?","Похоже, эти ребята не только устроили нам засаду в гнезде, но и совершили внезапное нападение на наш город."
+line-235,斯卡蒂,......真是糟心。,...How annoying.,...просто тошно.
+line-249,海嗣,（急促地扇动翼膜）,(Rapidly flaps fins),(Судорожно хлопает крыловидными мембранами)
+line-255,幽灵鲨,裹在雕塑上？怎么，进入城市后，海嗣也开始有审美意识了？,"Wrapping around a statue? What, have the Seaborn developed a taste for art since entering the city?","Укутана в статую? Что, после проникновения в город морские чудовища тоже начали обладать эстетическим чувством?"
+line-256,幽灵鲨,只不过，这尊《饮痛之人》也谈不上什么杰作，切坏了也没什么可惜的。,"That said, the Sorrowdrinker is hardly a masterpiece, so I won't feel too bad when I've reduced it to rubble.","Впрочем, эту «Страдающую» нельзя назвать шедевром, ничего страшного, если откололась."
+line-269,斯卡蒂,其实，断掉一只手臂，看起来反而更有魅力了。,"Honestly, I think it's got more charm with an arm broken off.","На самом деле, без одной руки она теперь выглядит даже более очаровательно."
+line-271,幽灵鲨,谢谢夸奖，斯卡蒂。你还好吗？,"Thanks for the glowing review, Skadi. Are you feeling better now?","Спасибо за комплимент, Спектр. Как ты?"
+line-273,斯卡蒂,离开巢穴后，已经缓过劲来了。,"Yeah, ever since we left the nest.","После того как мы покинули гнездо, уже пришла в себя."
+line-275,幽灵鲨,那就好。,Good to hear.,Вот и хорошо.
+line-277,港口枢纽管理员,......是猎人们！,It's the Hunters!,...это охотники!
+line-280,港口枢纽管理员,深海猎人平安返回了城市！,The Abyssal Hunters have safely returned to the city!,Охотники на морских чудовищ благополучно вернулись в город!
+line-287,幽灵鲨,剑鱼。,Swordfish.,Рыба-меч.
+line-289,斯卡蒂,二队长，你见到......,"Captain Gladiia, you've met...","Второй капитан, ты видела..."
+line-291,歌蕾蒂娅,嗯。,Yes.,Да.
+line-292,歌蕾蒂娅,我见过他了。,I saw him.,Я видела его.
+line-293,歌蕾蒂娅,我们回来得刚好，你们应该已经听到了西昆妲在加急频道里的通报。,We've arrived at the right time. You must have heard Secunda's report over the emergency frequency.,"Мы вернулись как раз вовремя, вы уже должны были слышать сообщение Сикунды по экстренному каналу."
+line-295,歌蕾蒂娅,秘密潜入弥利亚留姆，入侵信标塔中控室，处死航道计划的武器技术顾问，最后选择与海嗣共同回归大洋。,"Infiltrating Milliarium, breaking into the beacon tower's control room, murdering the weapons technology advisor of the Waterway Program, and finally, choosing to return to the ocean with the Seaborn.","Тайное проникновение в Мириллиум, вторжение в центр управления сигнальной башней, убийство технического консультанта по вооружению проекта «Фарватер» и, наконец, решение вернуться в океан вместе с морскими чудовищами."
+line-296,歌蕾蒂娅,乌尔比安身上的嫌疑恐怕很难再洗清了。,Ulpianus has not made it easy to clear him of suspicion.,"Подозрения с Ульпиана, боюсь, смыть будет уже не так просто."
+line-297,歌蕾蒂娅,抓捕，甚至处决他，将是深海猎人今后不可推卸的任务之一。,"To capture him, or even execute him is a duty we Abyssal Hunters must perform in the future.","Его поимка, а возможно и казнь, станет одной из неотъемлемых задач охотников на морских чудовищ в будущем."
+line-299,斯卡蒂,二队长......,Captain Gladiia...,Второй капитан...
+line-301,幽灵鲨,......,......,...
+line-303,歌蕾蒂娅,但此时此刻，我们的任务是搜索散落在各个城市单元的海嗣，将那些渣滓赶尽杀绝。,"But for the moment, our mission is to search for the remaining Seaborn scattered around the city units, and put every last one of them to the sword.",Но прямо сейчас наша задача — найти разбросанных по городским модулям морских чудовищ и истребить этих отбросов до последнего.
+line-314,“海嗣”,......该说的，我已说完。,"...What must be said, I have said.","...то, что нужно было сказать, я уже сказал."
+line-316,克莱门莎,玛利图斯，你始终在回避最核心的问题。,"You've avoided answering the question at the heart of all this, Mártus.","Малитус, ты всё время уходишь от самого главного вопроса."
+line-318,“海嗣”,最核心的......问题......？,The question... at the heart...?,Самый главный... вопрос...?
+line-320,克莱门莎,在你的描述中，遗迹之下的一切变故，你犯下的罪行与招致的恶果，仿佛都只出自某种笼罩着神秘色彩的“必然性”。,"From your description, everything that transpired beneath the ruins, the crimes you committed and the consequences incurred... They all seemed to stem from some mysterious 'inevitability.'","В твоих описаниях всё произошедшее под руинами, совершённые тобой преступления и пожинаемые горькие плоды кажутся проистекающими из некой окутанной мистикой «неизбежности»."
+line-322,克莱门莎,但我所知的玛利图斯，他是一个怪脾气的善思者，他习惯性地怀疑，从不武断地做任何决定。,"But the Mártus I know was an eccentric yet gifted man. He was doubtful by nature, and not one for making arbitrary decisions.","Но Малитус, которого знала я, был человеком с чудаковатым характером и острым умом, он всегда сомневался и никогда не принимал решений необдуманно."
+line-323,克莱门莎,他不会轻易地抛却理智，陷入神秘主义的陷阱；更不会否定自己的存在，漠视他人的价值。,"He would not have rashly discarded all reason and played at being the mystic. And he would have been even less inclined to reject his own existence, or ignore the worth of others.","Он не стал бы легко отбрасывать рассудок, попадая в ловушку мистицизма, и тем более не стал бы отрицать своё существование или пренебрегать ценностью других."
+line-325,“海嗣”,......我做出选择，我造就结果。,"The choices I have made, the outcomes I have borne.","...я сделал выбор, я создал результат."
+line-327,“海嗣”,曾经的玛利图斯，在做出那个决定前的所思所想，为何值得你如此在意？,"Why do you care what the past Mártus thought, before he made his decision?",Почему мысли и чувства прежнего Малитуса перед принятием того решения так тебя волнуют?
+line-329,凯尔希,玛利图斯曾经的选择铸就了如今的你。不理解玛利图斯为何做出那个决定，就无法理解你是怎样的存在。,"His past choices have made you who you are now. Without understanding his reasoning, we cannot understand your existence.","Прежний выбор Малитуса сформировал тебя сегодняшнего. Без понимания, почему Малитус принял то решение, невозможно понять, что ты за существо."
+line-331,“海嗣”,......凯尔希，连你也关注这些细枝末节？,"You would care about such trifles as well, Kal'tsit?","...Кельси, даже ты придаёшь значение этим мелким деталям?"
+line-334,“海嗣”,（颅腔内的核转动）,(The nuclei within its skull spin),(Вращается ядро в черепной коробке)
+line-338,“海嗣”,我明白了。,I understand now.,Я понял.
+line-339,“海嗣”,你们当然在意，你们怎可能不在意。,Of course you would care. How could you not?,"Конечно, вас это волнует. Разве могло быть иначе?"
+line-340,“海嗣”,曾经的那个人类，在吃下异种的血肉前，也经历过漫长的挣扎......一天，还是几个日夜？在遗迹的深处，时间无法度量。,"The human that once ate the strange flesh experienced such struggle, too. Was it a day, or perhaps several? In the depths of the ruins, time holds no measure.","Тот человек, перед тем как вкусить плоть инородца, тоже прошёл через долгие терзания... день или несколько суток? В глубине руин время измерить невозможно."
+line-341,“海嗣”,他恐惧，他怀疑，他被逼迫着思考一切的可能性。,He feared. He doubted. He was compelled to think over every possibility.,"Он боялся, он сомневался, он был вынужден обдумывать все вероятности."
+line-342,“海嗣”,危机从何处来？它何时降临泰拉？他穷尽自己毕生所知，尝试解读不可解读的，理解不可理解的。,"Where will the next crisis come from? When will it descend upon Terra? He used a lifetime of knowledge to attempt to decipher the undecipherable, to comprehend the incomprehensible.","Откуда пришёл кризис? Когда он снизойдёт на Терру? Он исчерпал всё, что знал за свою жизнь, пытаясь расшифровать нерасшифровываемое и понять непостижимое."
+line-343,“海嗣”,如果存在一种生命形式，甚至只是一个生物个体，能够在万物寂灭的宇宙中存活，它到底会怎样诞生？,"If there exists a lifeform that could survive the cosmos of quietus, even if only as a singular being, how would it be born?","Если существует некая форма жизни или хотя бы один биологический индивид, способный выжить в пустой вселенной, где всё угасает, как именно она должна была зародиться?"
+line-344,“海嗣”,如果时间无限长，一尾细小的鳞也能在终端上拍打出终极真理。但对我们而言，时间恰恰是最奢侈的资源......,"Given infinite time, even the tiniest fin will be able to type out the ultimate truth of all things on a terminal using its tail. But time was our most precious resource.","Если время бесконечно велико, даже крошечная чешуйка может выбить на терминале истину. Но для нас время — самый дорогой ресурс..."
+line-346,“海嗣”,眼前的巨兽固然预见了毁灭的前景，但祂与祂的子嗣究竟能不能成为生机的延续者？,"Admittedly, the Feranmut before him had foreseen our ruinous prospects, but could He and His progeny continue bearing the torch of life through it all?","Хотя чудовище перед глазами предвидело крах, могут ли оно и его потомки стать продолжателями жизни?"
+line-347,“海嗣”,倘若能......那它们需要多庞大的种群规模，多夸张的繁衍效率，才能在有限的时间内凭借本能穷举出克服毁灭的答案？,"Supposing they could, before they instinctually iterate a way of overcoming that destruction in a limited time, how large a population and how efficient a fecundity would they require?","Если могут... то какая численность популяции, какой коэффициент воспроизводства им нужен, чтобы за ограниченное время инстинктивно перебрать все ответы на преодоление краха?"
+line-348,“海嗣”,它们需要蛀空一片海域、一颗行星，还是一个星系？它们的生，要以多少的死为代价？,Would they have to consume a patch of sea? A whole planet? An entire star system? How many must die to support their lives?,"Им нужно выесть дочиста океан, планету или целую галактику? Какой ценой смертей оплачена их жизнь?"
+line-349,“海嗣”,倘若它们不能，那真正的答案又在哪里？大洋的另一面，天穹的另一侧，还是泰拉人无法触及的星海之间？,"Supposing they could not, then where did the true answer lie? On the other side of the ocean? On the other side of the sky? Or perhaps it is somewhere out in the sea of stars, untouchable by Terran hands?","А если не могут, то где тогда истинный ответ? На другой стороне океана, за небосводом или в звёздном море, недосягаемом для людей Терры?"
+line-351,凯尔希,......哪怕穷尽你的一生，你也不可能得出准确的结论。,"Even if you spent your entire life simulating, you would not have been able to obtain a definite conclusion.","...Даже если ты посвятишь этому всю свою жизнь, ты не придёшь к верному выводу."
+line-352,凯尔希,你所掌握的信息根本不足以供你演算所有的可能性。,The information you possessed was simply insufficient to calculate every possibility.,"Информация, которой ты владеешь, абсолютно недостаточна, чтобы просчитать все вероятности."
+line-354,“海嗣”,是的，凯尔希。但是曾经的玛利图斯不得不尝试推演。,"Indeed, Kal'tsit. But the past Mártus had no choice but to try.","Да, Кельси. Но Малитус был вынужден попытаться просчитать."
+line-355,“海嗣”,危机与可能性同时悬于他的头顶，而他的脚下，是一根无形的钢丝......,"Danger and possibility both hung above his head, while below his feet he found only an unseen tightrope.","Кризис и возможности висели у него над головой, а под ногами была невидимая стальная проволока..."
+line-357,克莱门莎,你本可以第一时间通报国家。,You could have informed your country from the start.,Ты мог бы в первую же минуту сообщить государству.
+line-358,克莱门莎,阿戈尔会接过你所惧怕的一切，科学院最古老的典籍能验证你所见的过去，技术院最先进的设备能预演你所见的未来。,Ægir would have helped take on your burdens. The oldest records of the Academy of Science could verify the past you saw. The latest inventions of the Academy of Technology could model the future you envisioned.,"Агри приняла бы на себя всё, чего ты боялся, древнейшие архивы Академии наук смогли бы проверить прошлое, которое ты видел, а самое современное оборудование Института технологий — просчитать будущее."
+line-360,“海嗣”,将选择权交予他人，是解脱，还是逃避？,"To cede the choice to others. Is that a solution, or an escape?",Передать право выбора другим — это освобождение или бегство?
+line-361,“海嗣”,百千万人所做出的选择，相比于寥寥几人所做出的选择，是更准确，还是更模糊？更郑重，还是更随意？,"The choices of the countless many against the choices of the few. Are they more accurate, or more ambiguous? More earnest, or more capricious?","Выбор, сделанный тысячами или миллионами людей, по сравнению с выбором немногих — более точен или более размыт? Более серьёзен или более легкомыслен?"
+line-362,“海嗣”,倘若生机延续的手段不是文明，克服毁灭的物种不是人类，阿戈尔会是怎样的态度......,"Suppose the means for life to continue is not civilization, and the species that transcends ruin is not humanity. If so, how would Ægir react?","Если средство продолжения жизни не является цивилизацией, а преодолевающий крах вид не является человечеством, как бы к этому отнеслись Агри..."
+line-364,克莱门莎,够了，玛利图斯。,"Enough, Mártus.","Довольно, Малитус."
+line-365,克莱门莎,如果你一开始就想到了种种可能性，预见到了这些惨痛的代价，那你最后选择堕落的行为只会更加不可原谅。,"If you <i>had</i> thought of every possibility and foresaw the bitter price to pay, then your final decision is even more inexcusable.","Если ты изначально думал о множестве возможностей и предвидел эти болезненные последствия, то твой выбор скатиться к деградации выглядит ещё более непростительным."
+line-367,“海嗣”,不，阿戈尔人，我没有在为自己辩解。,"No, Ægir, I do not mean to defend my choices.","Нет, агри, я не оправдываюсь."
+line-368,“海嗣”,我想说的是——就在那时，有一只幼小的生命体打断了我的胡思乱想。,"What I wanted to say was that, at the time, there was an immature lifeform that interrupted my flights of fancy.","Я хочу сказать, что именно тогда одна крошечная форма жизни прервала мои блуждания в мыслях."
+line-380,“海嗣”,它的触肢细小，身体也不协调，半透明的皮膜下，简单的脏器清晰可见......,"Its tentacles were minute, and its body yet uncoordinated. Beneath its translucent membranes, simple organs could be clearly seen.","Её щупальца были крошечными, тело несогласованным, под полупрозрачной кожей были отчётливо видны простые внутренние органы..."
+line-381,“海嗣”,它从Ishar-mla体内诞生，它不知道何时爬过了舱壁，正在毫无顾忌地舔舐着我的脚踝......,"Born from Ishar-mla, it had unknowingly crawled past the cabin wall, and was licking my ankle happily.","Она родилась из тела Ишар-млы, не знаю, как она переползла через переборку и без тени сомнения лизала мою лодыжку..."
+line-382,“海嗣”,它难道不知道自己很快就将死去？,Was it unaware of how swiftly its death would come?,"Разве она не знала, что скоро умрёт?"
+line-383,“海嗣”,监测面板上的生物讯号密密麻麻，它不知道自己的结局只是变成其中一个毫无意义的字符？,Did it not know that it was destined to become one of those insignificant dots among the millions of bio-signatures on the monitor?,"На панели мониторинга биологические сигналы шли плотным потоком, неужели она не знала, что её финал — просто стать одним из бессмысленных символов среди них?"
+line-384,“海嗣”,它由巨兽所孕育，它难道看不见巨兽所见的那可怖的景象？它难道不清楚整个族群的宿命，都只在于预告毁灭、迎接毁灭？,"Being the progeny of a Feranmut, could it have not seen the frightful vision its parent saw? Was it unaware that the destiny of its entire race was only to foretell and greet ruination?","Она была порождена чудовищем, разве она не видела той ужасающей картины, что видело чудовище? Неужели она не осознавала, что судьба всего её вида — лишь предвещать крах и приветствовать крах?"
+line-385,“海嗣”,不......它只是向着注定的毁灭平静地蠕行着。本能，只靠本能。,"It just wriggled calmly towards its foreordained destruction, acting out of instinct only.","Нет... она просто ползла к неизбежному краху. Инстинкт, просто инстинкт."
+line-386,“海嗣”,而我们呢，在做出一个决定之前，总有无数可能要去衡量，无数顾虑要去取舍。,"As for us, there are countless possibilities to consider before making a decision, countless trade-offs to worry over.","А мы? Перед тем как принять решение, всегда имеем несметное множество вариантов, которые нужно взвесить, несметное количество опасений, которыми нужно пожертвовать."
+line-387,“海嗣”,我们无法不在意自己的决定会带来怎样的代价、造成怎样的结果、又能创造怎样的价值......它到底，有没有意义......,"We find ourselves unable to ignore the costs of our decisions, or the results, or the value and meaning of those results.","Мы не можем не задаваться вопросом, какую цену принесёт наше решение, какой результат повлечёт, какую ценность сможет создать... есть ли в этом смысл..."
+line-388,“海嗣”,人类啊，咕——所以我们永远自我囚困，所以我们永远迟“命运”一步。,"Humanity, glub—Humanity is ever a prisoner of itself, ever one step behind 'fate.'","О люди, гу... поэтому мы всегда сами себя заключаем в тюрьму, поэтому мы всегда опаздываем на шаг от «судьбы»."
+line-389,“海嗣”,这是，海嗣与人类最本质的区别。这是，它们足以承载存续之使命的原因。,This is the essential difference between humanity and the Seaborn. This is why they are suited to bear the duty of continued existence.,"В этом — фундаментальное различие между морскими чудовищами и людьми. В этом причина того, почему они способны нести миссию выживания."
+line-400,,所以你吃下了异种的血肉？;所以你变成了现在这个模样？;所以你决定插手文明的演化？,That's why you ate the strange flesh?;That's why you became like this?;That's why you interfered with civilization's evolution?,"Поэтому ты вкусил плоть инородца? / Поэтому ты стал таким, как сейчас? / Поэтому ты решил вмешаться в эволюцию цивилизации?"
+line-403,“海嗣”,在那个万物寂灭的未来里，有任何生命能以任何形式存活下来......,"If there is any life that can survive that future of quietus, no matter what form it takes...","В том будущем, где всё угасает, любая жизнь, способная выжить в любой форме..."
+line-404,“海嗣”,都值得我以任何代价去争取。,"It is worth fighting for, no matter the cost.","Стоит того, чтобы я боролся за это любой ценой."
+line-405,“海嗣”,......“此处并无正义，唯有前路。”,'There is no justice here. Only the path ahead.',"...«Здесь нет справедливости, только путь впереди»."
+line-409,“海嗣”,现在，你应该理解，你应该帮助大群进化。,You should understand now why you must help we many evolve.,"Теперь ты должен понять, ты должен помочь эволюции стаи."
+line-411,凯尔希,我与博士曾面对过许多存在——他们中有些甚至已经不再能被称为人类。出于类似的决意，他们都艰难地做出了取舍。,"You are not the first one the Doctor and I have seen who can barely qualify as human, but they all made their hard choices.","Я и доктор сталкивались с множеством сущностей — некоторые из них уже даже не могли называться людьми. Исходя из схожей решимости, они все делали нелёгкий выбор."
+line-413,凯尔希,唯有你的决意，令人胆寒。,No one had ever made a choice as horrifying as yours.,Лишь твоя решимость приводит в ужас.
+line-414,凯尔希,在吃下异种的血肉变成海嗣之前，你便放弃了作为人类去思考。,"Before you ate that flesh to become a Seaborn, you had already renounced thinking as a human does.","Ещё до того, как вкусить плоть инородца и стать чудовищем, ты перестал мыслить как человек."
+line-415,凯尔希,在我看来，那些在最后一刻被你抛下的怀疑、顾虑、担忧和挣扎，才是最珍贵的事物......,"From my perspective, that which you abandoned in your final moments—your doubts, misgivings, concerns, and struggles—were the most precious of treasures.","На мой взгляд, те сомнения, опасения и терзания, которые ты отбросил в последний момент — это и есть самое ценное..."
+line-419,,它们可贵，正因它们没有尽头。,They're treasures because they're unending.,"Они драгоценны именно тем, что у них нет конца."
+line-422,“海嗣”,......,......,...
+line-424,凯尔希,海嗣正在吞噬泰拉的其他生命——你没有否认也无法更改这个事实。我们要如何认同它为，“希望”？,"The Seaborn are swallowing Terra's life whole. You have not denied this, nor can you stop it. How are we to see them as our hope?","Морские чудовища пожирают другие формы жизни Терры — ты не отрицаешь этот факт, и его невозможно изменить. Как нам признать это за «надежду»?"
+line-426,“海嗣”,凯尔希，难道你选择孵育“源石”？,"What is your choice then, Kal'tsit? To incubate Originium?","Кельси, неужели ты выбираешь выращивание «ориджиниума»?"
+line-427,“海嗣”,崩塌的星门，熄灭的石棺......无数的计划已经崩毁，如今仍在运转的，是否只剩下，源石？,"The collapsed stargate, the extinguished sarcophagi... Of the countless failed plans, is Originium the only one still in operation?","Рухнувшие звёздные врата, погасшие каменные гробы... несметное множество планов уже рухнуло, неужели сейчас функционирует лишь ориджиниум?"
+line-428,“海嗣”,土地与空气中的石头，沉默的石头，它们是顽疾，它们同样在伤害陆地上的生命。,"Stones amidst the land and sky, ever silent. They are an incurable disease, harming life atop dry land.","Камни в земле и воздухе, безмолвные камни — они как неизлечимая болезнь, они так же ранят жизнь на суше."
+line-429,“海嗣”,它们同样是先史文明遗留的计划，它们同样被期待能够在最后的最后，保护所有生命和存在......以常人难以理解的方式。,"And yet, they are a plan left by the prehistoric civilization, one expected to save all existence at the very end... In ways incomprehensible to the average person.","Они — такой же проект, оставленный доисторической цивилизацией, на них так же возлагают надежды, что в самом конце они защитят всё живое... в манере, недоступной пониманию обычного человека."
+line-430,“海嗣”,咕——生存的阶梯，只能由毁灭来铸造。,Glub—The stairwell to survival can only be forged in the fires of destruction.,Гу... лестница выживания может быть выстроена лишь ценой разрушения.
+line-432,凯尔希,不，这种毁灭不应该发生。,No. Such destruction must not happen.,"Нет, такое разрушение не должно происходить."
+line-433,凯尔希,与深蓝之树一样，源石同样在某个时间点，发生了一些无人知晓，且已经永远无法扭转的变化......它导向你所说的毁灭。,"Much like Caerula Arbor, Originium at some point turned to the annihilation you speak of. It changed in ways none can understand, and none can reverse.","Как и Глубинное древо, ориджиниум в какой-то момент претерпел изменения, о которых никто не знает и которые уже невозможно обратить... он ведёт к тому разрушению, о котором ты говоришь."
+line-434,凯尔希,既然它已经发生，那它应该被阻止。,"And since it has changed, it must now be stopped.","Раз уж это произошло, значит, это должно быть предотвращено."
+line-435,凯尔希,无论如何，以生机喂养生机，以毁灭堆砌毁灭，这都是在抹杀生命的意义。,"Whatever the case, using life to feed life or ruin to beget ruin would only serve to remove all meaning from survival.","В любом случае, кормить жизнь жизнью, громоздить разрушение на разрушение — это всё стирает смысл самой жизни."
+line-439,“海嗣”,......凯尔希，资料里的AMa-10，你让我感到意外。,"...Kal'tsit. Or rather, AMa-10 from the records. You surprise me.","...Кельси, я удивлён тобой, из того, что было в материалах AMa-10."
+line-440,“海嗣”,你我本应殊途同归。不，你应当比我更加理性，更加决绝。,"You and I should have arrived at the same conclusion via different paths. No. You should have been even more rational, more decisive.","Мы должны были идти разными путями к одной цели. Нет, ты должна быть более рациональной и решительной, чем я."
+line-441,“海嗣”,我只是意外发现了先史文明的火种，接下了它。而你却是为此而生。在我之前，你已经执火奔行了上万年。,"I merely noticed a spark of the prehistoric civilization and took on its mantle. You, however, were born for this task. You held aloft its torch eons before I did.",Я лишь случайно обнаружил искру доисторической цивилизации и подхватил её. А ты рождена для этого. Ещё до меня ты несла этот огонь на протяжении десяти тысяч лет.
+line-442,“海嗣”,你守望遥远的夙愿与遗产，你践行被赋予的使命。你见证变迁，你承受失去......一个人类，做不到这般苦心孤诣。,You have kept watch over their distant aspirations and legacies. You have carried out your assigned mission. You witnessed changes. You bore loss... No human could have toiled for as long as you have.,"Ты сторожишь далёкие надежды и наследие, ты исполняешь возложенную на тебя миссию. Ты свидетельствуешь смену эпох, ты переносишь утраты... человек не может быть настолько целеустремлённым."
+line-444,“海嗣”,但现在的你......,But now...,Но ты сейчас...
+line-445,“海嗣”,凯尔希，漫长的“寿命”反而让你变得软弱，变得像一个人类了吗？,"Has endless 'life' rendered you feeble, Kal'tsit? Has it turned you human?","Кельси, не стала ли твоя долгая жизнь причиной того, что ты ослабла и стала похожа на человека?"
+line-448,,凯尔希一直如此。;你完全不了解凯尔希。,Kal'tsit has always been like this.;You don't know Kal'tsit at all.,Кельси всегда была такой. / Ты совершенно не понимаешь Кельси.
+line-451,“海嗣”,因为......这个人？,Was it... because of this one?,Потому что... этот человек?
+line-452,“海嗣”,Dr.{@nickname}，还是......“预言家”？,"Dr. {@nickname}, or rather... Oracle?","Доктор, или... «Пророк»?"
+line-453,“海嗣”,许多处设施，许多扇门扉，指纹、面容、声音......那深蓝的洞穴，遗迹群中的无数所在，留有你的痕迹。,"Many facilities, many doors, your fingerprints, face, voice... Within the cerulean cave, among the ruins... traces of you lie everywhere.","Множество объектов, множество дверей, отпечатки пальцев, лица, голоса... эта глубокая синяя пещера, бесчисленные места среди руин — везде твой след."
+line-454,“海嗣”,你曾到访过海洋深处。,You have visited the depths of the abyss before.,Ты бывал в глубинах океана.
+line-457,,是吗？;可惜我想不起来了......,Have I?;A pity I don't remember...,"Неужели? / К сожалению, я не могу вспомнить..."
+line-460,“海嗣”,我认出了你。但与凯尔希交流，效率更高。,I recognized you. I have been speaking with Kal'tsit until now only because it is more efficient.,Я узнал тебя. Но общение с Кельси эффективнее.
+line-461,“海嗣”,你绝不可能不知情，你的到访必定事出有因，或许，你能解释项目为何停滞。,You must know the truth. Your visitation is sure to have meaning. Perhaps you are able to explain why the project is at a standstill.,"Ты не мог не знать, твой визит точно был неслучаен, возможно, ты сможешь объяснить, почему проект был приостановлен."
+line-462,“海嗣”,但你改变了称呼，你的身上一定发生了什么......否则，与你同行的凯尔希不会对计划的变故存有疑问。,"But your title is different now; something has happened to you. Otherwise, Kal'tsit would have held no doubts about what had happened to the plan.","Но ты изменил обращение, с тобой определённо что-то произошло... иначе Кельси, сопровождающая тебя, не имела бы вопросов о переменах в плане."
+line-464,凯尔希,......因为某些原因，博士已经不记得当年发生的许多事情。,"For several reasons, the Doctor is unable to remember many of the things back then.",...по некоторым причинам Доктор уже не помнит многих событий тех лет.
+line-467,“海嗣”,（颅腔内的核转动）,(The nuclei within its skull spin),(Вращается ядро в черепной коробке)
+line-468,“海嗣”,“失去记忆”......咕，并不意外。,"'Memory loss'... Glub, unsurprising.","«Потеря памяти»... гу, не удивляет."
+line-469,“海嗣”,应当说，对你们而言，失去记忆或许只是最微不足道的牺牲。,Losing one's memory is perhaps the most insignificant sacrifice you could make.,"Надо сказать, для вас потеря памяти — возможно, лишь самая ничтожная жертва."
+line-470,“海嗣”,上万年的时间，哪怕再坚韧的生命，也无法对抗如此漫长时间的侵蚀，而你仍存在于如今的泰拉，这本身已是奇迹。,Even the most resilient of life cannot withstand the ravages of tens of thousands of years. The fact that you still exist upon Terra is in itself a miracle.,"Десять тысяч лет, даже самая стойкая жизнь не выдержит эрозии столь долгого времени, то, что ты до сих пор существуешь на Терре — само по себе уже чудо."
+line-473,,......,......,...
+line-476,“海嗣”,我所见的，祂，祂们所见的，那些可怖的景象，对你们而言，是绝对的真实。,"What I saw, what He saw, what They saw. Those frightful visions are an absolute truth to you.","То, что видел я, то, что видели Они — те ужасающие картины — для вас являются абсолютной реальностью."
+line-477,“海嗣”,你们失去引以为傲的文明和家园，大地与星空都褪去色彩，时间和空间变成了漫无边际的监牢......,You have lost your proud civilization and homeland. Heaven and earth have lost all color. Time and space have become vast prisons.,"Вы потеряли цивилизацию и дом, которыми так гордились, земля и небо потеряли краски, время и пространство превратились в бесконечную тюрьму..."
+line-478,“海嗣”,你们被绝望放逐，你们在泰拉停歇，你们没有躲过注定的毁灭......一切人消陨，一切事无意义。,"You have been exiled by despair. You have stopped to rest upon Terra. You have not escaped your fated ruin... All men will perish, all things rendered meaningless.","Вы были изгнаны отчаянием, вы остановились на Терре, вы не избежали предначертанного краха... всё человеческое исчезло, всё стало бессмысленным."
+line-480,“海嗣”,尽管如此，你们依然不曾停止争抢希望，这颗星球上永存着你们抗争的痕迹......尽管它们多数只剩残骸和废墟。,"Despite this, you have not stopped fighting for hope. This planet has been forever marked by your resistance... Even if those marks are mostly wreckages.","Несмотря на это, вы не переставали бороться за надежду, на этой планете навечно остались следы вашего сопротивления... хотя от большинства из них остались лишь обломки и руины."
+line-481,“海嗣”,我敬畏你，和你们的事业——上个时代的人们。,"I revere you and your cause. You, the people of a bygone age.",Я уважаю тебя и ваше дело — людей прошлой эпохи.
+line-484,,一只海嗣肯定了我的过去？;如果你说的事业也包括了如今的“海嗣”......;也许项目停滞，正因参与者意识到了代价。,A Seaborn acknowledges my past?;If that 'cause' involves today's Seaborn...;Maybe the project stalled because they realized the cost.,"Морское чудовище признало моё прошлое? / Если дело, о котором ты говоришь, включает в себя и нынешних «морских чудовищ»... / Возможно, проект был приостановлен именно потому, что участники осознали цену."
+line-487,“海嗣”,Dr.{@nickname}，肯定，否定，不作表态，你都可以。我并不希望从你的话语中获得任何理解。,"Dr. {@nickname}, whether you accept it, deny it, or are undecided, it matters not to me. I am not hoping to win your understanding.","Доктор, подтверждение, отрицание, отсутствие позиции — всё это можно. Я не надеюсь получить хоть какое-то понимание из твоих слов."
+line-488,“海嗣”,我并非在寻求你的认同。,I seek not your approval.,Я не ищу вашего признания.
+line-489,“海嗣”,你，你的同僚们，确实在海洋深处种下了一个希望，一个可能，一枚火种。,"You, and your comrades, had planted hope in the depths of the sea. A possibility. A spark.","Ты, твои коллеги, действительно посеяли в глубинах океана надежду, возможность, искру."
+line-490,“海嗣”,或许你们遗忘了它，或许你们放弃了它，或许你们如今要对抗它，无论发生了什么......现在，是我照拂它的光亮，让它不被熄灭。,"Perhaps you have forgotten it. Perhaps you have renounced it. Perhaps you now stand against it, come what may. Now, it is I who tends to this light. And I shall not see it extinguished.","Возможно, вы забыли её, возможно, отказались от неё, возможно, теперь вы боретесь с ней, что бы ни произошло... теперь я тот, кто хранит её свет, чтобы она не погасла."
+line-491,“海嗣”,来自引火之人的否定，也不能动摇如今的族群。,The rejection of our flame's kindler will not waver the many's resolution.,"Отрицание со стороны того, кто этот огонь разжёг, не поколеблет нынешнюю стаю."
+line-495,“海嗣”,让我们抛弃无谓的自证吧，让我们回归现实本身。,Let's stop trying to prove ourselves. We shall return to the reality itself.,"Давайте отбросим бессмысленные доказательства, давайте вернёмся к самой реальности."
+line-500,“海嗣”,族群感受到了危机，那云层之外的眼睛或许已窥见泰拉的异常，危机正悬于所有人的头顶。,"We many sense the oncoming crisis. Perhaps the eye beyond the clouds has caught a glimpse of Terra's exceptionality, a sword hanging above all our heads.","Стая почувствовала кризис, те глаза за облаками, возможно, уже увидели аномалию на Терре, кризис навис над головой каждого."
+line-501,“海嗣”,泰拉只是囚笼，它困住了无数不知真相的人。,"Terra is but a cage, trapping countless souls unaware of the truth.","Терра — лишь тюрьма, она заточила несметное количество людей, не знающих правды."
+line-502,“海嗣”,现在，“囚笼”出现缺口。这是危机，也是生机。,"Now there is a crack in the bars. A crisis, also an opportunity.","Теперь в «тюрьме» появилась брешь. Это кризис, но и шанс."
+line-506,“海嗣”,听。看。嗅闻。触摸。海浪在欢涌。,Sight. Sound. Smell. Touch. The rushing of the ocean waves.,Слушайте. Смотрите. Вдыхайте. Прикасайтесь. Волны в радости.
+line-507,“海嗣”,在泰拉的囚笼当中，海的子嗣，已然是生命力最为强韧的族群，它没有一刻停止进化......,"Within the cage that is Terra, the children of the sea are the most resilient race. Never have they stopped evolving.","В тюрьме Терры потомки моря — самая стойкая и жизнеспособная стая, она ни на миг не прекращала эволюцию..."
+line-508,“海嗣”,你们无可否认，大群，已经成长为壮美的奇迹。它们会成为宇宙大爆炸后的火种，整个宇宙重新绽放的基点......,"You cannot deny that We Many have become the most magnificent of miracles. They will become the sparks in the wake of the Big Bang, the seeds from which the cosmos will blossom once more.","Вы не можете отрицать, что стая выросла в дивное чудо. Они станут искрой после Большого взрыва вселенной, точкой, с которой вселенная расцветёт заново..."
+line-509,“海嗣”,它们最接近......成功。,They are the closest to... success.,Они ближе всех к... успеху.
+line-511,“海嗣”,回答我，凯尔希，Dr.{@nickname}，还有阿戈尔人......,"Tell me, Kal'tsit, Dr. {@nickname}, and the Ægir...","Ответьте мне, Кельси, Доктор, и вы, агри..."
+line-512,“海嗣”,时至今日，你们选择支持人类，源石，还是海嗣？,"Do you now choose humanity, Originium, or the Seaborn?","По сей день, кого вы выбираете поддерживать — человечество, ориджиниум или морских чудовищ?"
+line-516,凯尔希,的确，危机正在迫近，而我仍有许多问题无法解答，许多真相无从得知。,It is true that a crisis fast approaches. There are still many questions I am unable to answer. Many truths I am unable to grasp.,"Действительно, кризис приближается, и у меня всё ещё много вопросов, на которые нет ответов, много правды, которую невозможно узнать."
+line-517,凯尔希,但这不意味着，生命就只能被抽象成一个空洞的概念，这无异于抹杀它本来的意义。,But this does not imply that life can be reduced to a hollow concept. That would simply erase its original meaning.,"Но это не значит, что жизнь можно свести к пустому понятию, это равносильно тому, чтобы стереть её изначальный смысл."
+line-519,凯尔希,玛利图斯，你认为这是一种软弱。而我认为，这是漫长“寿命”赋予我的决意。,"You consider this a weakness, Mártus. I consider it my drive, bestowed upon me by this endless life of mine.","Малитус, ты считаешь это слабостью. А я считаю, что это решимость, дарованная мне долгой «жизнью»."
+line-522,,生命的价值应该由生命自己赋予。;生命的意义应该由生命自己谱写。,Life's worth should be determined by the living.;Life's meaning should be written by the living.,Ценность жизни должна быть определена самой жизнью. / Смысл жизни должен быть написан самой жизнью.
+line-525,凯尔希,海嗣是必须消除的灾难。,The Seaborn are a calamity that must be stopped.,"Морские чудовища — катастрофа, которая должна быть устранена."
+line-526,凯尔希,在这一点上，我和博士的态度不会改变，罗德岛的态度不会改变。,"On this, the Doctor and I will not change our positions, and neither will Rhodes Island.","В этом вопросе моя позиция и позиция Доктора не изменятся, позиция «Родос Айленд» не изменится."
+line-528,凯尔希,......没有文明，谈何存续？,"Without civilization, how can you speak of survival?","...нет цивилизации, о каком продолжении может идти речь?"
+line-530,“海嗣”,......,......,...
+line-531,“海嗣”,没有存续，谈何文明？,"Without survival, how can you speak of civilization?","Нет продолжения, о какой цивилизации может идти речь?"
+line-541,克莱门莎,这场荒唐的辩论到此为止，玛利图斯。,"This ridiculous debate has gone far enough, Mártus.","На этом абсурдные дебаты окончены, Малитус."
+line-542,克莱门莎,弥利亚留姆已经将病变的器官清除出体外，你那些渗入城市的同类正在被清剿......,We have excised the diseased organ from Milliarium. Your 'kin' in the city are being eliminated as we speak.,"Мириллиум уже очистился от болезнетворных органов, твои собратья, проникшие в город, подвергаются зачистке..."
+line-543,克莱门莎,在监牢中，你会有足够的时间反思一切，交代还没有交代的事情。,You'll have plenty of time to reflect on what you've done and share the rest of your secrets with us in prison.,"В тюрьме у тебя будет достаточно времени, чтобы всё обдумать и рассказать то, что ещё не было рассказано."
+line-549,Mon3tr,（愤怒的嘶鸣）,(Furious howl),(Разъярённый визг)
+line-553,“海嗣”,阿戈尔人，还有那漆黑的小怪物......,"You, Ægir, and that ebon monster...",Агри и это маленькое тёмное чудовище...
+line-554,“海嗣”,不用试图留下我，仅凭你们，仅凭这座城市，没有能力杀死我，杀死Ishar-mla。,"It is futile to contain me. You alone, your city alone, are not enough to slay me. To slay Ishar-mla.","Не пытайтесь удержать меня, одни вы, один этот город — у вас нет сил убить меня, убить Ишар-млу."
+line-555,“海嗣”,这座城市已经完成了重组，我能想象到它横亘在海流中的身姿，但族群会越过它。,"The city has completed its reorganization. I can imagine how it will look as it bars our current, but we many will surpass it.","Этот город завершил реорганизацию, я могу представить его облик в потоке течений, но стая пройдёт сквозь него."
+line-556,“海嗣”,我们没有对错。就让所剩无多的时间，就让这场对抗，为我们提供最有力的明证。,There is no right or wrong here. So let your brief resistance provide our soundest proof.,"Мы не правы и не виноваты. Пусть то немногое оставшееся время, пусть это противостояние дадут нам самые веские доказательства."
+line-557,“海嗣”,接下来，我将唤醒沉眠的“初生”，我将引领族群前往月亮。,"Next, I will rouse the slumbering Firstborn. I will lead our kin to the moons.","Далее я пробужу спящее «Перворождённое», я поведу стаю к луне."
+line-558,“海嗣”,凯尔希，还有Dr.{@nickname}，你们将成为这壮美循环的一部分。,"You will become a part of this magnificent cycle, Kal'tsit. As will you, Dr. {@nickname}.","Кельси и Доктор, вы станете частью этого дивного круговорота."
+line-577,圣徒卡门,......,......,...
+line-582,乔迪,老师。,Maestro.,Учитель.
+line-584,艾丽妮,圣徒阁下，艾丽妮向您复命。,"Su Santidad, I am here to make my report.","Святой отец, Эйрин пришла доложить."
+line-587,圣徒卡门,不必多说，阿戈尔已经向我们同步了水下发生的一切。,No need. Ægir has already informed us of what transpired beneath the waves.,"Не нужно слов, Агри уже синхронизировала с нами всё происходящее под водой."
+line-588,圣徒卡门,凯尔希和罗德岛的博士呢？,What of Kal'tsit and the Doctor of Rhodes Island?,А где Кельси и доктор с «Родос Айленд»?
+line-590,乔迪,还在那座城市里。,They're still in the city.,Всё ещё в том городе.
+line-596,审判庭文员,——接通了。,"We're connected, sir.",— Соединение установлено.
+line-598,乔迪,这、这是？,Th-This is...?,Э-это что?
+line-600,圣徒卡门,海面上的实时影像，由阿戈尔的无人机矩阵直接投映在大灯塔的显示系统上。,A real-time image of the sea's surface. All thanks to Ægir's drone matrix projecting directly onto the great lighthouse's display.,"Реальное видео с поверхности моря, напрямую проецируемое матрицей дронов Агри на дисплей Большого маяка."
+line-601,圣徒卡门,海嗣潮与阿戈尔的城市，同时在靠近陆地......距离我们不过十余海里。,"The Seaborn tide and the Ægirian city, both approaching the land. They're less than ten nautical miles away.",Поток морских чудовищ и город Агри одновременно приближаются к суше... расстояние до нас не более десяти морских миль.
+line-609,乔迪,那些翻飞的泡沫，那些交错的水流，全都是......海嗣？它们甚至改变了海水本身的颜色......,"That stirring spray, those intertwined currents... Are they all... Seaborn? Even the color of the seawater has changed...","Эта порхающая пена, эти пересекающиеся течения — всё это... морские чудовища? Они даже изменили цвет самой морской воды..."
+line-610,艾丽妮,这还只是它们暴露在海面上的部分，只是冰山一角。,That's only the portion exposed to the surface. The tip of the iceberg.,"Это лишь та часть, что показалась над поверхностью воды, лишь верхушка айсберга."
+line-611,艾丽妮,海嗣利用了阿戈尔与陆地接触的契机，整片海域几乎都已经化作它们的巢穴。,The Seaborn took advantage of Ægir's landfall. This entire sector of sea has become their nest.,"Морские чудовища воспользовались моментом контакта Агри с сушей, почти вся акватория превратилась в их гнёзда."
+line-612,圣徒卡门,阿戈尔的防线——画面里那座变形的城市，能支撑多久？,Ægir's defensive perimeter... How long can that transformed city of theirs hold?,"Оборонительная линия Агри — тот трансформирующийся город на экране, как долго он сможет продержаться?"
+line-613,艾丽妮,我不清楚。,I do not know.,Не знаю.
+line-614,圣徒卡门,是否可以认定，阿戈尔的航道计划以失败告终了？,Have we come to the conclusion that Ægir's Waterway Program has failed?,"Можно ли считать, что проект «Фарватер» Агри провалился?"
+line-615,乔迪,弥利亚留姆，现在城市里所有的阿戈尔人......都还没有放弃努力。,All the Ægir in Milliarium are still fighting as hard as they can.,"Мириллиум, все агри в городе сейчас... всё ещё не оставили попыток."
+line-616,圣徒卡门,两个月来，惩戒军从伊比利亚的海岸线上征调了所有还能航行的船只，它们已经在格兰法洛休整完毕，准备出海。,"For the past two months, the Penal Battalion has requisitioned all operational vessels along Iberia's coast. They've been on standby in Gran Faro, and are now ready to set sail.","За два месяца штрафной легион мобилизовал с побережья Иберии все способные к плаванию корабли, они завершили отдых в Гранфало и готовы выйти в море."
+line-617,圣徒卡门,我会亲自带领惩戒军出发，作为阿戈尔防线的补充，共同抵御海嗣浪潮。,"I will personally lead them to reinforce Ægir's defensive perimeter. Together, we will stem the Seaborn tide.","Я лично поведу штрафной легион, как дополнение к оборонительной линии Агри, чтобы вместе противостоять волне морских чудовищ."
+line-618,圣徒卡门,艾丽妮，你没有太多休息的时间。,"I'm afraid you won't have much time to rest, Irene.","Эйрин, у тебя не так много времени на отдых."
+line-619,艾丽妮,是，我已经在灯塔下看到了列阵的审判官们。,It seems not. I saw the Inquisitors in formation at the base of the lighthouse earlier.,"Да, я уже видела выстроенных инквизиторов под маяком."
+line-620,圣徒卡门,终于，伊比利亚不再拥有哪怕一丝行差踏错的余裕。,"In the end, Iberia has found herself walking a tightrope with no margin for error.","Наконец, Иберия больше не имеет права на малейшую ошибку."
+line-621,圣徒卡门,存续......或者毁灭，别无他途。,"Survival, or utter destruction. There are no other paths before us.","Выживание... или разрушение, другого пути нет."
+line-622,圣徒卡门,如果阿戈尔的高墙倾倒，那就由我们告诉那些海嗣，陆地存在的意义，以及亵渎它的代价。,"Should Ægir's great wall fall, it will be up to us to educate the Seaborn on the significance of land, and the price they must pay for desecrating it.","Если высокая стена Агри рухнет, то мы сами расскажем этим морским чудовищам, в чём смысл существования суши и какова цена её осквернения."
+line-634,乔迪,——,—,—
+line-635,乔迪,那、那个，老师，艾丽妮阁下！,M-Maestro! Doña Irene!,"Э-эй, учитель, госпожа Эйрин!"
+line-637,艾丽妮,乔迪，你就留在这里。,"You stay here, Jordi.","Джоди, оставайся здесь."
+line-638,艾丽妮,这座灯塔是我们最后的据点，惩戒军在战场上的所有军事行动需要依赖它发出的信号。做你能做的。,This lighthouse will be our final bastion. The Penal Battalion's operations will depend on its signals. Do what you can to keep it going.,"Этот маяк — наш последний оплот, все военные действия штрафного легиона на поле боя зависят от сигналов, которые он посылает. Делай, что можешь."
+line-640,乔迪,不是......,"No, not that—",Нет...
+line-641,乔迪,你们看窗户外面......,Look out the window.,Смотрите за окно...
+line-642,乔迪,......光亮。,...Light.,...свет.
+line-648,乔迪,那好像是——灯塔的光亮？,Is that... a lighthouse?,"Похоже, это — свет маяка?"
+line-650,艾丽妮,可是伊比利亚之眼，不是只剩我们脚下这一座还能运作吗？,But aren't we at the only operational Eye of Iberia?,"Но «Глаз Иберии», разве не остался только один, тот, что под нашими ногами, способный работать?"
+line-651,艾丽妮,怎么回事，为什么突然接收到了这么多相同的信号？,What's going on? Why are we suddenly receiving so many identical signals?,"Как такое может быть, почему внезапно получили столько одинаковых сигналов?"
+line-653,乔迪,我想，已经被汪洋吞噬的海岸线上......,"The lighthouses along the submerged coast, which have sat in silence for more than half a century...","Думаю, на побережье, поглощённом океаном..."
+line-654,乔迪,那些死寂了半个多世纪的灯塔......全都亮起来了！,They have all lit up at once!,"Те маяки, что безмолвствовали больше полувека... все они загорелись!"
+line-656,艾丽妮,*伊比利亚感叹词*！,¡Dios mío!,*Восклицание Иберии*!
+line-659,圣徒卡门,这些沉默的岛民科技，它们在回应什么？,The silent technology of the Islanders... What are you responding to?,"Эти технологии молчаливых островитян, на что они реагируют?"
+line-672,乌尔比安,......,......,...
+line-679,,乌尔比安听到城市重组的轰鸣在头顶响起，看着失去辉光的信标塔缓缓沉入海渊。,Ulpianus hears the rumbling of the city reorganizing above his head as he watches the lightless beacon tower slowly sinks into the depths.,"Ульпиан услышал грохот структурной реорганизации города над головой, глядя, как потерявшая сияние сигнальная башня медленно погружается в океанскую пучину."
+line-680,,那座曾承载无数同胞伟大愿景的建筑已经被海嗣选作了新的育生巢。,The building that once supported the grand aspirations of his people is now a Seaborn brood nest.,"Здание, когда-то нёсшее великие надежды бесчисленных соотечественников, было выбрано морскими чудовищами в качестве нового гнезда для выращивания."
+line-681,,衰老的个体将身躯化作养分倾注其中，它们的征程将由不计其数的新生个体延续。,The old and feeble will use their bodies as nutrients for the next generation. Their journeys will continue with their newborn kin.,"Стареющие особи отдают тела в качестве питательных веществ, их поход продолжат бесчисленные новые существа."
+line-682,,海嗣总是如此，对于认定的同胞，它们毫无保留地奉献，不遗余力地哺育。,"This is how the Seaborn have always been. They spare nothing in their devotion to their kin, and do their utmost to nurture them.","Морские чудовища всегда таковы: к тем, кого они признали собратьями, они бескорыстно посвящают себя, не жалея сил на вскармливание."
+line-683,,这让乌尔比安短暂地感到恶心。,The thought brings a brief moment of sickness to Ulpianus.,Это на мгновение вызвало у Ульпиана отвращение.
+line-684,,巨锚的重量顺着手臂清晰地传递到他的肩头，意识到自己将永远不再被认同、不再被铭记的那个瞬间，乌尔比安感到前所未有地清醒。,"The weight of the great anchor in his hand stretches to his shoulder. The moment he realizes that he will never be recognized or remembered, he feels more clear-headed than ever.","Вес огромного якоря через руку передавался на плечо, осознав момент, когда его больше никогда не будут признавать и помнить, Ульпиан почувствовал себя небывало ясным."
+line-685,,他还不能斩断自己与海嗣之间那令人作呕的联系，但他应当还有余力截断涌向城市的狂潮。,"He is yet unable to cut the disgusting connection between himself and the Seaborn, but he still has the strength to cut off the tide surging towards the city.","Он ещё не мог разорвать тошнотворную связь между собой и морскими чудовищами, но должен был иметь силы прервать поток, устремившийся к городу."
+line-686,,歌蕾蒂娅说得没错，在急剧孵化的巢穴战斗，自己或许很快就会被海嗣同化，那么等待自己的究竟是死亡，还是......,"Gladiia was right. Battling in the rapidly proliferating nest might only hasten his assimilation. All that awaits him is death, or worse.","Гладиа была права: сражаясь в стремительно инкубируемом гнезде, он, возможно, скоро будет ассимилирован морскими чудовищами. Так что ждёт его в конце концов, смерть или..."
+line-687,,乌尔比安奋力挥锚。,Ulpianus puts all his might into swinging his anchor.,Ульпиан изо всех сил взмахнул якорем.
+line-693,,像是能预知乌尔比安的动作，微小的新生命轻盈地躲过他的挥击，而后若无其事地拂过他的锚爪。他调整气息，计算方向，再次挥出——,"As if able to read his thoughts, the tiny hatchlings gracefully avoid his swing before calmly flickering past the grip of his anchor. He adjusts his breathing, recalculates, and swings once more.","Словно предвидя движения Ульпиана, крошечная новая жизнь изящно избежала взмаха, а затем невозмутимо скользнула по его когтям якоря. Он выровнял дыхание, просчитал направление и снова ударил —"
+line-694,新生的生命,（极其微弱的机械鸣响）,(Faint mechanical cry),(Крайне слабый механический шум)
+line-696,乌尔比安,——！,—!,—!
+line-709,,一只新生的幼小生命从乌尔比安的眼前掠过，它优雅地翻身，肚腹中微小的精密机械结构一闪而过。,"An immature lifeform, freshly hatched, flits across Ulpianus's vision. It flips over gracefully, revealing minute yet precise mechanical structures in its belly for just a moment.","Крошечная новая жизнь промелькнула перед глазами Ульпиана, она изящно перевернулась, в брюшке на мгновение мелькнула простая прецизионная механическая структура."
+line-717,,然后是两只，三只——新生的集群连成一道纤细的光路，点亮了混沌的浪潮。,"Then there are two, then three. The school of newborns link together into a fine path of light, illuminating the chaotic waves.","Затем две, три — стая новорождённых соединилась в тонкую световую линию, осветив хаотичный поток."
+line-718,,形态各异的成体海嗣紧密地簇拥着它们，为它们扇动海流，护它们游向远方。,"Adult Seaborn of all shapes crowd around them tightly, directing the currents and protecting them as they swim into the distance.","Морские чудовища в различных формах плотно окружали их, создавая для них поток течений, охраняя их плавание вдаль."
+line-719,乌尔比安,海嗣，你们在簇拥什么，保护什么？,"What are you escorting, Seaborn? What is it you're protecting?","Морские чудовища, что вы окружаете, что защищаете?"
+line-720,停下来的海嗣,......,......,...
+line-721,停下来的海嗣,养分。,Nutrients.,Питательные вещества.
+line-722,停下来的海嗣,生命。,Life.,Жизнь.
+line-723,停下来的海嗣,同胞。,Kin.,Сородичи.
+line-724,停下来的海嗣,还有你，Ul-pianus......,"And you, Ul-pianus.","И ты, Ульпианус..."
+line-725,停下来的海嗣,大群，连成一体......,"We many, together as one...",Стая объединилась в одно целое...
+line-726,乌尔比安,......,......,...
+line-731,,作为技术院曾经最优秀的执政官之一，乌尔比安确信自己不会认错，眼前这些源源不断从信标塔中脱离的奇妙个体......,"As a former consul of the Academy of Technology, one at the top of his field, Ulpianus is certain he is not mistaken. The steady flow of wondrous things streaming out of the beacon tower...","Как один из бывших лучших архонтов Института технологий, Ульпиан был уверен, что не ошибся: перед ним крошечные планктонные механизмы, отделяющиеся от сигнальной башни..."
+line-732,,是曾经寄居在信标塔中的微型浮游机械，一段中止的历史，一个夭折的梦。,Are nanomachines once ensconced in there. A history cut off. A dream that died young.,"Это история, которая когда-то оборвалась, прерванная мечта."
+line-733,,而作为深海猎人，他同样信任自己的嗅觉——它们的气味与海嗣无异。,"As an Abyssal Hunter, he trusts his sense of smell as much as he does his scientific intuition. Their scent is no different from the Seaborn.","А как охотник на морских чудовищ, он доверял своему обонянию — их запах был неотличим от морских чудовищ."
+line-734,,那些早在两百年前便胎死腹中的“信标”重新获得了生命，它们由海嗣重新孵育，再与海嗣一起，游向狂潮凝聚的海面。,"Those 'beacons,' dead in the cradle nearly two hundred years ago, now thrum with new life. Incubated by the Seaborn, they now swim together towards the tidal confluence on the surface.","Те «маяки», что погибли ещё двести лет назад, обрели новую жизнь, они были заново инкубированы морскими чудовищами, чтобы затем, вместе с ними, устремиться к морю, охваченному потоком."
+line-735,乌尔比安,阿戈尔，自取灭亡的阿戈尔，你仍然没有放弃博弈，还是，这本来就在你的计算里？,"Have you not yet given up on these games, Ægir, despite your own noose around your neck? Or is this also a part of your plan?","Агри, Агри, берущая на себя разрушение, ты до сих пор не оставила игру, или это изначально было в твоих расчётах?"
+line-741,,起初，只是一点荧光。,"At first, there was only a mote of fluorescence.",Сначала лишь капля флуоресценции.
+line-742,,继而，是一根流动的线条。,"Then, a flowing line.",Затем текучая линия.
+line-743,,紧接着，是一方轻盈的网格，在海面延展开来。,"And after that, an elegant lattice, spreading out across the surface of the sea.","Следом лёгкая сетка, развернувшаяся на поверхности океана."
+line-744,,......,......,...
+line-770,,数以亿计的微型浮游机械与海的子嗣一同摆动身躯，与浪涛同沉同浮。,"Billions of nanomachines sway alongside the children of the sea, bobbing up and down on the ocean waves.","Миллиарды микроскопических планктонных механизмов двигались вместе с отпрысками моря, погружаясь и всплывая с волнами."
+line-771,,它们的光芒微小却清晰，渺茫却坚定。光的通路在海嗣的躯体间跳跃。,"Their shimmer is minute yet clear, indistinct yet unwavering. The passage of light reflects about among the Seaborns' bodies.","Их свет был слаб, но ясен, призрачен, но непоколебим. Пути света прыгали между телами морских чудовищ."
+line-772,,海流串联起散落在大洋中的每一处巢穴，海嗣源源不断地从海洋各处向陆地汇拢，却也为光的通路画出了曼妙的延长线——,"The currents connect every nest scattered across the seas. Seaborn gather together from every corner of the ocean for their excursion onto land, gracefully extending the paths of light.","Течения связывали каждое гнездо, разбросанное по океану, морские чудовища непрерывно стекались отовсюду к суше, рисуя прекрасные линии света —"
+line-773,,纵横交错，彼此呼应，光路织成的网如同星河在海面铺开，以弥利亚留姆为起点，逶迤向海洋的最深处，无限远的地方。,"They intertwine with one another. The golden net they weave is like a galaxy strewn across the sea's surface, from Milliarium down into the deepest depths of the ocean.","Переплетаясь, откликаясь друг на друга, сеть, сотканная из световых путей, как звёздная река расстилалась по поверхности океана, начинаясь от Мириллиума и уходя в бесконечную даль глубочайшего океана."
+line-774,,航道——海洋中的路网，连通陆地与海洋，跨越狂乱无序的空间与平静流动的时间。,"The Waterway. The network of the ocean, one connecting land and sea, one transcending chaotic space and placid time.","Фарватер — сеть дорог в океане, соединяющая сушу и море, пересекающая безумное и хаотичное пространство и спокойно текущее время."
+line-775,,它与大群同在。,Bound together with We Many.,Он пребывает в единстве со стаей.
