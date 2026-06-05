@@ -1,0 +1,173 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act32side
+__chapter__,,Chapter Name,activities/act32side/level_act32side_st03,艺术馆餐厅
+,,,,
+char-1,雷内尔,雷内尔,Reynell,Рене
+char-2,龙舌兰,龙舌兰,Tequila,Текила
+char-3,迪亚兹,迪亚兹,Diaz,Диас
+char-4,坎黛拉,坎黛拉,Candela,Канделия
+char-5,市长保镖,市长保镖,Mayor's Bodyguard,Телохранитель мэра
+char-6,空爆,空爆,Catapult,Блэкнайт
+char-7,商业联合会员工,商业联合会员工,A General Chamber of Commerce Employee,Сотрудник Бизнес-объединения
+char-8,米沃什,米沃什,Miłosz,Милош
+char-9,艾拉,艾拉,Ela,Эш
+char-10,导火索,导火索,Fuze,Фьюз
+char-11,战车,战车,Tachanka,Чар
+char-12,灰烬,灰烬,Ash,Эш
+char-13,闪击,闪击,Blitz,Блиц
+char-14,双月,双月,Iana,Монтань
+char-15,霜华,霜华,Frost,Фрост
+char-16,医生,医生,Doc,Доктор
+char-17,社区画家,社区画家,Community Artist,Художник из сообщества
+char-18,窘迫的贵族,窘迫的贵族,Destitute Noble,Смущенный аристократ
+char-19,社区居民,社区居民,Community Resident,Житель сообщества
+char-20,特克诺,特克诺,Tecno,Текно
+,,,,
+line-13,雷内尔,我记得现在是午休时间，如果需要提审，你可能要晚点来——,"If I recall correctly it's my lunch break now, so any interrogation will have to wait until—","Помню, сейчас обеденный перерыв. Если тебе нужно провести допрос, придется прийти позже..."
+line-18,龙舌兰,我不是来提审你的。,I'm not here for that.,"Я пришел не для того, чтобы тебя допрашивать."
+line-20,雷内尔,你是......,It's you...,Ты ведь...
+line-21,雷内尔,哦，怎么，罗德岛也想踩着我的尸体分一杯羹吗？欢迎欢迎。,What now? Does Rhodes Island want to trample on my corpse too? By all means.,"О, надо же, «Родос» тоже хочет урвать кусок, шагая по моим трупам? Добро пожаловать, добро пожаловать."
+line-23,龙舌兰,我只是来替坎黛拉女士告知你多索雷斯对你的最终处理结果。,I'm only here on behalf of Ms. Candela to inform you of Dossoles's decision on how to handle you.,"Я просто пришел от имени госпожи Канделы, чтобы сообщить тебе о принятом в Дос-Сольесе окончательном решении по твоему делу."
+line-24,龙舌兰,依据多索雷斯市长办公室的判断，多索雷斯将不会审判你的罪行。,The Dossoles Mayoral Office has determined that they will not try you for your crimes.,"Согласно вердикту офиса мэра, Дос-Сольес не будет судить тебя за твои преступления."
+line-26,雷内尔,让我猜猜，把我交给联合政府？,Let me guess. You're handing me over to the Coalition government?,"Дай угадаю, меня передадут Объединенному правительству?"
+line-27,雷内尔,虽然马特奥是个蠢货，但他毕竟是联合政府在多索雷斯的代表。,"Mateo's an idiot, but he's still the Coalition's representative in Dossoles.","Хоть Матео и был идиотом, он все же являлся представителем Объединенного правительства в Дос-Сольесе."
+line-29,雷内尔,嗯......我三番五次地耍他玩，联合政府肯定等不及要把我挫骨扬灰。,Hmm... I've toyed with him so much the Coalition is probably itching to tear me apart.,"Хм... я столько раз водил их за нос, они наверняка мечтают стереть меня в порошок."
+line-31,龙舌兰,你对局势的判断很精准。联合政府确实想把你抓去拉乌尼达公审，就像他们对马特奥做的一样。,"That's an accurate reading of your situation. The Coalition government wants to haul you to La Unidad for a trial, just like Mateo.","Ты точно оцениваешь ситуацию. Объединенное правительство действительно хочет забрать тебя для публичного суда в Ла-Униде, так же, как они поступили с Матео."
+line-33,雷内尔,一场公审？很好，我很期待。,"A public trial? Great, I'm looking forward to it.","Публичный суд? Прекрасно, я с нетерпением жду этого."
+line-35,龙舌兰,不，雷内尔先生。,"No, Señor Reynell.","Нет, господин Рене."
+line-36,龙舌兰,你将被送回卡西米尔。,You're being sent back to Kazimierz.,Тебя отправят обратно в Казимеж.
+line-38,雷内尔,......你再说一遍？,...Come again?,"...Повтори, что ты сказал?"
+line-40,龙舌兰,商业联合会向坎黛拉施加了压力，希望将你送回卡西米尔。,The General Chamber of Commerce is pressuring Candela to send you back to Kazimierz.,"Бизнес-объединение оказало давление на Канделию, чтобы тебя вернули в Казимеж."
+line-43,雷内尔,你再说一遍？！,COME AGAIN?!,Повтори еще раз?!
+line-45,龙舌兰,你父亲在联合会中留下的人脉发挥了作用，你现在不必留在多索雷斯，也不用去拉乌尼达，你可以回家了。,"Your father's KGCC contacts pulled some strings, and you no longer have to remain in Dossoles. So instead of heading to La Unidad, you can go home.","Связи, которые оставил твой отец в Объединении, сработали. Теперь тебе не нужно оставаться в Дос-Сольесе или отправляться в Ла-Униду, ты можешь вернуться домой."
+line-47,雷内尔,不......我不会回去。,No... I'm not going back.,Нет... я не вернусь.
+line-48,雷内尔,我不会回到那些最卑劣、最下贱、最可悲的东西中去......,"I'm not going back to that utterly despicable, depraved, and deplorable...","Я не вернусь к тому самому подлому, низкому и жалкому окружению..."
+line-50,龙舌兰,事到如今也由不得你了，雷内尔先生，不管你的最终归属是哪里，都是你鲁莽行动造成的结果。,"You don't have a say here, Señor Reynell. It's your own reckless actions bringing you wherever your final destination may be.","Сейчас это уже не зависит от тебя, господин Рене. Кем бы ты в итоге ни стал, это результат твоих опрометчивых действий."
+line-51,龙舌兰,是苦是甜，你都得自己咽下。,"You have to swallow your medicine, be it sweet or bitter.",Горькая или сладкая — тебе придется проглотить эту пилюлю.
+line-53,雷内尔,呵，老东西......你还真是阴魂不散啊。,"Old man... You're never going to leave me alone, are you?","Ха, старик... ты все еще преследуешь меня, как призрак."
+line-55,龙舌兰,对了，还有一件事，你需要决定你财产的归属问题。,"Right, there's one more thing. You need to decide where your assets are going.","Кстати, еще одно: тебе нужно решить вопрос с владением твоим имуществом."
+line-57,雷内尔,说得好像，我真的能自己决定一样，坎黛拉不是早就想方设法把它们挪去其他地方了吗？,You say it like I have a choice in the matter. Hasn't Candela already used all the methods at her disposal to move them elsewhere?,"Звучит так, будто я действительно могу что-то решать. Разве Канделия не пыталась всеми силами переписать всё на кого-то еще?"
+line-59,龙舌兰,还有一些固定资产......没有人敢接手......,There are some... fixed assets that nobody dares to take...,Остались некоторые основные средства... никто не осмеливается их принять...
+line-60,龙舌兰,你就在这份转让合同上随便写个名字吧。,Just write any name on this transfer contract.,Просто впиши любое имя в этот контракт о передаче собственности.
+line-67,雷内尔,......那就是下一个路过这里的人好了——,Fine... I'll just write the name of whoever wanders by next—,"...Тогда пусть это будет следующий человек, который пройдет мимо —"
+line-74,龙舌兰,迪亚兹先生，你来监区干什么？？,"Señor Diaz, what are you doing here?","Мистер Диас, что вы делаете в блоке содержания под стражей??"
+line-76,迪亚兹,指认假装人质的马特奥手下啊。反倒是你，你喊我干嘛？,Identifying Mateo's men. The ones who were playing hostage earlier. And you? What did you call me for? Need something?,"Опознаю людей Матео, которые притворялись заложниками. А ты что тут делаешь, и чего вообще окликаешь меня?"
+line-78,龙舌兰,没、没事。,N-No.,"Н-ничего, неважно."
+line-80,迪亚兹,那我走了。,"Adios, then.",Ну тогда я пошел.
+line-87,龙舌兰,哎......你......反正还没落笔，你随时可以反悔——,"Say... you... anyway, you haven't given a name yet, right? You can always take back what you—","Эй... ты... в любом случае, чернила еще не высохли, ты в любой момент можешь передумать —"
+line-89,雷内尔,反悔？我从来都不反悔。,I never go back on my word.,Передумать? Я никогда не меняю своих решений.
+line-90,雷内尔,......何况，这么一想也不赖。,Besides... this isn't such a bad choice.,"...К тому же, если подумать, это неплохо."
+line-91,雷内尔,把它留给真正热爱艺术的家伙。,Let a genuine art lover have it.,"Оставлю это тому, кто действительно любит искусство."
+line-105,坎黛拉,雷内尔最后真的把那位老消防员的名字写上去了？,Reynell really put that old firefighter's name on it?,Рене в итоге правда вписал имя того старого пожарного?
+line-107,龙舌兰,是的。送他出多索雷斯的时候，我最后向他确认了一次，他还是在监区的那套说辞。,"Yes. I confirmed it one last time as I was escorting him out of Dossoles, and he didn't change his mind.","Да. Когда я провожал его из Дос-Сольеса, я в последний раз уточнил у него, и он ответил то же самое, что и в изоляторе."
+line-109,坎黛拉,......他真是连他父亲一丁点的特质都没有继承。,He really inherited none of his father's qualities.,...Он действительно не унаследовал от отца ни единой черты.
+line-111,龙舌兰,说实话，他大概不讨厌这种评价。,"Honestly, he would probably appreciate that evaluation.","Честно говоря, ему, наверное, даже нравится такое суждение."
+line-113,坎黛拉,当然，但这句话可不是在夸他。,"Of course, but I didn't mean it as a compliment.","Разумеется, но это вовсе не было похвалой в его адрес."
+line-115,龙舌兰,哈哈......,Haha...,Ха-ха...
+line-118,市长保镖,坎黛拉女士，您和埃内斯托先生的咖啡。,"Lady Candela. Your coffee, as well as Ernesto's.","Госпожа Канделия, ваш кофе и кофе господина Эрнесто."
+line-124,龙舌兰,好浓的香气！布克先生，我能请教一下用的是哪种咖啡豆吗？,"The aroma is so strong! What beans did you use for this, Señor Booker?","Какой густой аромат! Мистер Бук, могу я узнать, какой сорт кофе вы использовали?"
+line-126,市长保镖,是坎黛拉女士最近常喝的三种深烘豆拼配。请二位慢用。,A triple dark roast blend Lady Candela has been drinking lately. Please enjoy.,"Это смесь из трех сортов кофе темной обжарки, которые госпожа Канделия пьет в последнее время. Приятного аппетита."
+line-128,坎黛拉,现在事情告一段落，要见见你在多索雷斯其他的熟人吗？,Any plans to catch up with old friends now that everything has died down?,"Теперь, когда всё утихло, не хочешь повидаться с другими своими знакомыми в Дос-Сольесе?"
+line-130,龙舌兰,其实我在进城之前没想过要惊动任何人。,"I wasn't intending to bother anyone before I got to the city, actually.",На самом деле перед въездом в город я не собирался никого беспокоить.
+line-132,坎黛拉,的确，假如一切都风平浪静的话，你本可以不惊动任何人，但多索雷斯永远不可能风平浪静，你从来都知道这一点。,"Indeed you wouldn't have, if that whole ruckus didn't happen. But you know how it is in Dossoles. Never a quiet day for us.","И правда, если бы всё было спокойно, ты мог бы никого не беспокоить. Но в Дос-Сольесе никогда не бывает спокойно, и ты всегда это знал."
+line-134,龙舌兰,......是啊。,...Yeah.,"...Да, это так."
+line-136,坎黛拉,就像现在，雷内尔的这场闹剧过后，联合政府在多索雷斯的声势遭到了沉重打击。,"Just like now, Reynell's antics have dealt a heavy blow to the Coalition government's influence.","Как и сейчас, после этого фарса с Рене, позиции Объединенного правительства в Дос-Сольесе сильно пошатнулись."
+line-137,坎黛拉,尽管从拉乌尼达寄来的抗议信一封接一封，但雷内尔和他的财产，他们想都别想。多索雷斯不是他们俯首帖耳的附庸。,"La Unidad has been issuing letters of protest, but they can only dream of getting Reynell and his assets. Dossoles is not at their beck and call.","И хотя письма с протестами из Ла-Униды приходят одно за другим, им даже не стоит надеяться на Рене и его имущество. Дос-Сольес — не их вассал, чтобы слепо подчиняться."
+line-138,坎黛拉,可与之相应，其余两方也已经迫不及待——,The other two factions are also itching to get their hands on him—,"Однако, соответственно, остальные две стороны уже не могут дождаться —"
+line-142,坎黛拉,......瞧我，光顾着说这些没意思的东西了。,"Oh, look at me. I seem to have slipped into a meaningless ramble.","...Ох, посмотрите на меня, я лишь болтаю об этих скучных вещах."
+line-144,龙舌兰,怎么会，这些都是很有意义的信息。,"No, not at all, this is very important information.","Что вы, это очень важная информация."
+line-146,坎黛拉,来，埃内斯托，尝尝看这种拼配合不合你的口味。,"Alright, Ernesto. Have a taste and see if this blend is to your liking.","Давай, Эрнесто, попробуй, подходит ли тебе такой купаж по вкусу."
+line-152,龙舌兰,很浓郁......但也很奇妙的口感。,It's so strong... but the texture is fantastic.,Очень насыщенный... но и вкус довольно необычный.
+line-154,坎黛拉,说来听听？,Do elaborate.,Расскажешь?
+line-156,龙舌兰,我能分辨出三种豆的品种和香气，但我说不清究竟哪种豆才是其中占比最大的。,"I can discern each bean's species and aroma, but I can't tell which bean has the biggest ratio in the blend.","Я могу различить три сорта зерен и их ароматы, но не могу сказать, какой из них преобладает."
+line-157,龙舌兰,三种香气原本各自为战，此消彼长，可很快又会在口中融汇成浓烈的焦香，再也不分彼此。,"All three aromas are fighting to come out on top, but soon they all converge into a strong and unified caramelized flavor.","Три аромата сначала соперничали, усиливая и ослабляя друг друга, но вскоре смешались на языке в интенсивную горечь, становясь неразличимыми."
+line-159,坎黛拉,精准。,Precisely.,Точно подмечено.
+line-160,坎黛拉,这种拼配最大的卖点在于它没有严苛的比例限制，只要三种豆的占比不出现太大差距，就总能保持这种稳定的焦香。,"The main selling point of this blend is that the blend ratio isn't set in stone, but you still get that caramel flavor as long as their proportions are roughly balanced.","Главное преимущество этой смеси в отсутствии жестких пропорций. Пока соотношение трех сортов не сильно разнится, всегда сохраняется эта стабильная горькая нотка."
+line-162,龙舌兰,原来是这样。,I see.,Вот оно что.
+line-164,坎黛拉,怎么样，合你的口味吗？,"So, does it suit your taste?","Ну что, по вкусу?"
+line-166,龙舌兰,我......,I...,Я...
+line-170,坎黛拉,还没法下结论？,Still can't decide?,Еще не готов сделать вывод?
+line-172,龙舌兰,......,...,...
+line-174,坎黛拉,没关系，那家店就在那里，只要你回来，随时都喝得到。,"It's alright, the shop is just over there. You can always try a second cup, as long as you come back.","Ничего страшного. Эта кофейня никуда не денется, вернешься — и сможешь выпить в любой момент."
+line-175,坎黛拉,不仅如此，只要你想，让那家咖啡店按你的想法调配豆子，甚至往咖啡里加气泡水，也绝非不可能。,"They'll even modify the blend to your ideal ratio, or you can ask them to brew you a cup with sparkling water.","Более того, если захочешь, можно попросить их готовить по твоему рецепту, или даже добавить газировку в кофе — это вполне возможно."
+line-177,龙舌兰,哈哈，您说笑了。,"Haha, you're joking.","Ха-ха, вы шутите."
+line-179,坎黛拉,说笑吗？我倒不这么认为。,A joke? I wouldn't say so.,Шучу? Я бы так не сказала.
+line-180,坎黛拉,因为我的确很期待你的选择，埃内斯托。,"Because I really am looking forward to seeing what you choose, Ernesto.","Ведь я действительно с нетерпением жду твоего выбора, Эрнесто."
+line-192,空爆,哟，埃内斯托，你和这位坎黛拉市长聊了好长时间啊。,"Yo, Ernesto. Your chat with Mayor Candela took forever.","О, Эрнесто, ты довольно долго беседовал с этой госпожой Канделией."
+line-197,龙舌兰,没办法，我和她也算是老相识，还有挺多东西要聊的。,I had no choice. We go way back and have too many things to talk about.,"Ничего не поделаешь, мы с ней старые знакомые, было о чем поговорить."
+line-199,空爆,聊了这么久，她是不是还挺喜欢你的？,She must still like you if you guys talked for that long.,"Раз так долго общались, может, она к тебе неравнодушна?"
+line-201,龙舌兰,还好吧。,I guess so.,Вроде того.
+line-203,空爆,你这人......和自己相关的东西，是真的一句话也不愿多说啊。,Hmph... always clamping up so fast whenever it's time to talk about you.,Ну ты и человек... О себе ты действительно не готов сказать лишнего слова.
+line-205,空爆,算了，既然你不愿意说，那我就不打听了，哼哼......,"Fine, since you're so unwilling to talk, I don't have to ask <i>you</i>, hehe...","Ладно, раз не хочешь говорить, я не буду расспрашивать, хм-м..."
+line-207,龙舌兰,就算你去问拉菲艾拉，她也不会告诉你的。,"Rafaela won't tell you, even if you ask.","Даже если пойдешь спрашивать Рафаэллу, она тебе ничего не расскажет."
+line-209,空爆,你是会什么读心的源石技艺吗？你怎么知道我要去问拉菲艾拉的？,How did you know I was gonna ask her? Do you have mind-reading Arts or something?,"Ты что, владеешь искусством чтения мыслей? Как ты узнал, что я собиралась спросить Рафаэллу?"
+line-211,龙舌兰,都写在你脸上了。,It's written all over your face.,У тебя все на лице написано.
+line-213,空爆,啧啧啧，这人好可怕啊。,"Ooh, scary man we have here.","Тц-тц-тц, ну и страшный же ты человек."
+line-215,龙舌兰,顺便，我倒是从早上出发前就知道肯定会迟到，也很感谢你一直在这里等我，但我们现在已经错过和迪亚兹约好的时间了哦？,"By the way, I already knew this morning we would be late, and I appreciate that you've been waiting for me the whole time, but we've already missed our appointment with Diaz, you know?","Кстати, я с самого утра знал, что мы опоздаем, и благодарен, что ты меня дождалась, но сейчас мы уже пропускаем время встречи с Диазом, понимаешь?"
+line-219,空爆,——糟了！,"—Oh, shit!",— О нет!
+line-228,商业联合会员工,那么，雷内尔·科瓦尔斯基先生，您先请上车，我去拿行李。,"Well then, Mr. Reynell Kowalski. Please get in the car while I fetch your luggage.","Итак, господин Рене Ковальски, пожалуйста, садитесь в машину, а я пойду заберу багаж."
+line-234,,雷内尔面无表情地坐进后座，等车门合上后，他觉得温度有些高，于是将外套脱下放在一旁，随后倚在靠背上，正准备松开自己的衣领。,"Reynell sits in the back with a blank expression. The door shuts, and it feels slightly warm, so he takes off his coat and leans back as he begins to loosen his collar.","Рене с бесстрастным лицом сел на заднее сиденье. После того как дверь закрылась, он почувствовал, что внутри слишком жарко, поэтому снял пиджак, отложил его в сторону, откинулся на спинку и уже собрался расстегнуть воротник."
+line-240,,但车外一声异响打断了他的动作，他转头看向窗外，看见商业联合会的员工晕倒在车旁，不省人事。,"A strange noise outside the car interrupts him, and he turns to look out the window. The General Chamber of Commerce employee lies on the ground, unconscious.","Но странный звук снаружи прервал его движение. Он повернул голову к окну и увидел сотрудника Бизнес-объединения, который лежал без сознания рядом с машиной."
+line-241,,随后，轻敲玻璃的声响从车的另一侧响起，他顺着声音回头，看见有个熟悉的人站在车外。,"He then hears a tapping noise from the opposite window, and follows the sound to see a familiar face standing outside the car.","Затем с другой стороны машины раздался стук по стеклу. Он обернулся и увидел знакомое лицо, стоявшее снаружи."
+line-242,,雷内尔摇下车窗，与一双黑亮的眼睛对上。,Reynell rolls down the window and sees a pair of dark eyes.,Рене опустил стекло и встретился взглядом с парой ярких черных глаз.
+line-246,米沃什,可以麻烦您载我一程吗，先生？,"Mind giving me a ride, sir?","Могу я попросить вас подвезти меня, сэр?"
+line-248,雷内尔,那你要去哪里呢？,And where are you wanting to go?,И куда же ты хочешь отправиться?
+line-250,米沃什,这不一向是由你来决定的吗？,Hasn't that always been up to you to decide?,Разве это не всегда было твоим решением?
+line-252,雷内尔,以前你总跟着我四处奔波，或许这次该由你来决定我们的目的地。,"You've been following me for a while, so maybe this time you take the lead and decide our destination.","Раньше ты всегда следовал за мной по пятам, возможно, в этот раз ты решишь, куда нам держать путь."
+line-254,雷内尔,你真的没有想去的地方吗，米沃什？,"Do you really have nowhere you want to go, Miłosz?","Ты правда не хочешь никуда попасть, Милош?"
+line-256,米沃什,去哪里都一样，不是吗？,"It'll be the same as before, no matter where we go, yes?","Какая разница, куда ехать, верно?"
+line-258,雷内尔,还是有些不一样的，这次我真的身无分文了，除了后备箱那两个行李箱。,"Things are different this time. I'm broke, aside from the two suitcases in the trunk.","Все же разница есть. В этот раз я действительно остался без гроша в кармане, не считая двух чемоданов в багажнике."
+line-260,米沃什,既然如此，我来开车好了，等到燃料耗尽，车停在哪里，我们就去哪里。,"Then I'll drive until our fuel runs out, and we'll go wherever the car takes us.","Раз так, я сам сяду за руль. Куда доедем, пока не кончится топливо, там и останемся."
+line-262,雷内尔,嗯......好，你说了算。,"Well... fine, you're the one in charge now.","Хм... ладно, как скажешь."
+line-269,,冲雷内尔露出一个笑容，米沃什打开前门，坐上了驾驶位，在启动前，他从后视镜看到了雷内尔的脸。,"Miłosz smiles at Reynell, and gets into the driver's seat, looking at the other face through the rearview mirror before starting the engine.","Милош улыбнулся Рене, открыл переднюю дверь и сел на водительское кресло. Перед тем как завести мотор, он посмотрел в зеркало заднего вида на лицо Рене."
+line-270,,此刻，雷内尔的表情混合着迷惑、欣喜和些许的犹豫。,"There is a blend of confusion, delight and a slight hint of hesitation on Reynell's face.","В этот момент на лице Рене смешались замешательство, радость и легкая нерешительность."
+line-273,米沃什,你看起来有些话想问我。,You seem like you have something to ask me.,"Похоже, ты хочешь о чем-то спросить."
+line-275,雷内尔,为什么回来？为什么不离开？,Why did you come back? Why didn't you leave?,Почему ты вернулся? Почему не ушел?
+line-277,米沃什,你难道不知道答案吗？,Don't you already know the answer?,Неужели ты не знаешь ответа?
+line-279,雷内尔,也许我不是询问，我只是想证实那个答案。,Maybe my question was to confirm that answer.,"Возможно, я не спрашиваю, я лишь хочу подтверждения этому ответу."
+line-281,米沃什,......别这么笃定，或许我很快就会因为忍受不了你而选择离开。,Don't be so sure. My patience might run out on you and you'll find I leave pretty soon.,"...Не будь в этом так уверен, возможно, я скоро не выдержу тебя и уйду."
+line-283,雷内尔,但不是今天。,But not today.,Но не сегодня.
+line-285,米沃什,对，不是今天。,"No, not today.","Да, не сегодня."
+line-290,,从后视镜收回视线，米沃什重重发动引擎，银色轿车绝尘而去。,"Miłosz looks away from the mirror, starts the engine, and the silver car sets off.","Отведя взгляд от зеркала, Милош нажал на газ, и серебристый седан умчался прочь."
+line-298,,如今，克里斯达尔艺术馆的展厅仍然保持着那一天的样貌。,Galería Krysztauowa's exhibition hall is still the same as it was the other day.,Сегодня залы галереи искусств «Кристал» все еще хранят следы того дня.
+line-299,,破碎的展柜，被烧焦的地面，出现裂痕的墙体；五彩斑斓的射灯，肆意妄为的涂鸦，狂放不羁的音乐......,"Shattered glass cases, scorched ground, cracks in the walls; colorful spotlights, wanton graffiti, and frantic music going wild...","Разбитые витрины, обугленный пол, треснувшие стены; разноцветные прожекторы, дерзкие граффити, неистовая музыка..."
+line-300,,除了房间正中央的大圆桌。,Everything is the same except the additional presence of a big round table in the center of the room.,За исключением большого круглого стола прямо в центре комнаты.
+line-301,,火候正好的烤肉正在桌子上滋滋作响，散发出诱人的香气。,"A grill sizzles on the table at the perfect temperature, emanating an enticing aroma.","На столе аппетитно шкварчит свежеприготовленное мясо, источая манящий аромат."
+line-312,迪亚兹,动手呀，怎么都没反应？难道不饿？,"Well, why isn't anyone ordering? Not hungry?","Налетайте, чего застыли? Не проголодались, что ли?"
+line-313,艾拉,......只是没想到这里会变成烤肉店。,I didn't expect you to turn the place into a barbecue restaurant.,"...Просто не ожидали, что это место превратится в барбекю-ресторан."
+line-314,迪亚兹,嗐，这栋楼被当成了战场，又被炸弹炸了一通，那些艺术品没法放在这，楼空着又可惜，不如拿来搞点副业。,"Hah. The building got bombed into a war zone, and the art can't stay here anymore. So I thought, we might as well turn it into a side gig instead of leaving it empty.","Эх, это здание стало полем боя, потом его еще и бомбами закидали. Произведения искусства здесь больше не разместишь, а пустовать зданию негоже, почему бы не подзаработать."
+line-315,迪亚兹,正好多索雷斯电视台缺了雷内尔这个热点，开始把鼻子伸到我们社区来，造谣说我们的艺术家们没人会做饭，整天吃仙人掌干过日子。,"The TV stations in Dossoles lost their money-maker Reynell, so now they've started sticking their noses here and spreading rumors that none of our artists can cook and just survive on dried cactus.","Тем более, что телеканалу Дос-Сольеса не хватает такого инфоповода, как Рене, они начали совать нос в наше сообщество, распуская слухи, будто наши художники не умеют готовить и живут на одних кактусах."
+line-316,迪亚兹,我倒要让他们看看什么才是真正的玻利瓦尔美食！,So I have to show them what true Bolívarian cuisine is!,"Я покажу им, что такое настоящая боливарианская кухня!"
+line-317,导火索,那，这个串烤洋葱蘑菇驮兽肉来一份——,"Then, I'll have one of those onion and mushroom meat skewers—","Тогда мне порцию шашлыка из лука, грибов и мяса вьючного зверя —"
+line-318,战车,两份。,Make it two.,Две порции.
+line-319,迪亚兹,好嘞！,Coming right up!,Сделаем!
+line-321,灰烬,呼......迪亚兹先生的手艺真是没的说。,Hmm... Mr. Diaz's really good at this.,Фух... мастерству мистера Диаза нет равных.
+line-322,闪击,说真的，我们四个也在泰拉游历了许多地方，玻利瓦尔的烤肉可还是头一次品尝。,"I have to be honest, we've traveled all over Terra, but this is the first time we've tasted Bolívarian BBQ.","Честно говоря, мы четверо объездили много мест по всей Терре, но боливарианский шашлык пробуем впервые."
+line-323,双月,你们之前都去了哪里？,Where have you all been?,Где вы побывали до этого?
+line-324,闪击,我们一开始落在了萨尔贡的荒漠里，在罗德岛短暂停留，取得了“彩虹小队”身份之后，我们各自又去了一些地方。,"We started from the Sargonian desert, and after a brief stay on Rhodes Island where we got our 'Team Rainbow' moniker, we each went off to a few more places.","Мы сначала высадились в пустыне Саргона, ненадолго остановились на «Родосе», получили статус команды «Рэйнбоу», а потом разбрелись кто куда."
+line-325,闪击,萨尔贡的雨林，萨米的冰原，哥伦比亚的矿场和城市，乌萨斯针叶林间的村庄......,"The rainforests of Sargon, the icefields of Sami, Columbia's mines and cities, villages in the Ursus taiga...","Джунгли Саргона, ледяные пустоши Сами, шахты и города Колумбии, деревни среди хвойных лесов Урсуса..."
+line-326,霜华,尽管如此，我们踏足过的地方也只是这片大地很小的一部分。,"Even so, we've only ever set foot on a small piece of these lands.","Тем не менее, места, где мы ступали, — лишь малая часть этого континента."
+line-327,战车,唯一的遗憾是列维·克里奇科和他疯狂的实验室一起埋在了萨尔贡的地下。,My only regret is burying Levi Klitschko under the sands of Sargon along with his mad lab.,Единственное сожаление — Леви Кричко и его безумная лаборатория остались похоронены под землей Саргона.
+line-328,战车,如果有人犯了思乡病，恐怕只能找一条和来时不一样的路回去了。,"If you're homesick, you'll have to start thinking of a different way to go back.","Если кто-то заскучает по дому, боюсь, ему придется искать путь обратно, не похожий на тот, которым он пришел."
+line-329,双月,那你们找到了吗？,Have you found one?,И вы нашли такой путь?
+line-330,战车,（耸肩）还差得远。,(shrugs) Not even a lead.,(Пожимает плечами) Еще далеко до этого.
+line-331,导火索,我想你们一定不介意多几个旅伴帮你们一起找。,I guess you wouldn't mind a few more traveling companions on your quest?,"Думаю, вы не будете против, если к вам присоединится пара попутчиков, чтобы помочь в поисках."
+line-332,战车,哈哈哈，越多越好！,Hahaha. The more the merrier!,"Ха-ха-ха, чем больше, тем лучше!"
+line-333,医生,呃，Lord，那个是......,"Uh, Lord, what is that...?","Э-э, Лорд, а это что..."
+line-334,闪击,各位，我来替Lord隆重介绍一下这款“乌萨斯特饮”——,"Everyone, let me, on behalf of Lord, introduce this 'Ursus Specialty Beverage'—","Ребята, позвольте мне торжественно представить Лорду этот «особый напиток Урсуса» —"
+line-340,,窗外忽然传来吵闹声。,There is a sudden noise outside the window.,Снаружи донесся шум.
+line-341,,吃饱喝足的彩虹小队成员们扭头看去，习惯性地以为克里斯达尔艺术馆外又出了什么麻烦——,"The members of Team Rainbow turn their heads full of food and drink toward the source of the noise, wondering what kind of trouble has erupted this time—","Сытые члены команды «Рэйнбоу» повернули головы, по привычке решив, что у галереи «Кристал» снова какие-то неприятности —"
+line-342,,然后，第一个明白了是什么情况的人无奈地耸了耸肩。,"And then, the first one to realize what is going on shrugs in resignation.","А затем первый, кто понял, в чем дело, с обреченным видом пожал плечами."
+line-347,社区画家,我们已经跟老爹说好了，今天轮到我们跳沃尔珀小步舞的用这块广场，你们的古典音乐该关掉了！,"Papá says it's our turn to dance our Vulpo minuet today, so turn off your classical music!","Мы уже договорились с папашей, что сегодня эта площадь наша, чтобы танцевать менуэт вольпо, выключайте свою классическую музыку!"
+line-349,窘迫的贵族,可特克诺说她最近就喜欢听我们三拍子的华尔兹！不信你问她，她就在墙边上！,"But Tecno says she likes our triple meter waltz! Go and ask her if you don't believe me, she's over by the wall!","Но Текно сказала, что в последнее время ей нравятся наши вальсы на три четверти! Не веришь — спроси ее, она стоит у стены!"
+line-351,社区居民,就是就是！,"Yeah, exactly!",Именно так!
+line-353,社区画家,特克诺，你过来，你说这事到底怎么办？,"Come over here, Tecno. What do you make of this?","Текно, иди сюда, скажи, что нам делать?"
+line-355,特克诺,哼，别用这种事烦我！,"Hmph, don't bother me with this kinda stuff!","Хм, не приставайте ко мне с такой ерундой!"
+line-357,特克诺,有时间为了放什么音乐吵架，不如来看看我的作品！,"If you can spare the time to argue over what music to play, then maybe take a look at my work!","Вместо того чтобы спорить о музыке, лучше посмотрите на мои работы!"
+line-359,社区画家,你的作品？可你的手......,Your work? But your hand...,Твои работы? Но твоя рука...
+line-361,特克诺,哎呀，过来就知道了。,"Oh, just come over and you'll see.","Ой, подойдите и сами увидите."
+line-364,社区画家,呜哦！这......这真是你画的？,Wow! You... you drew this yourself?,Ого! Это... это правда нарисовала ты?
+line-366,特克诺,哈哈，我苦练了这么长时间，终于抓到用左手用劲的门道了！,"Haha! I practiced a lot, and I'm finally used to drawing with my left hand—","Ха-ха, я так долго тренировалась, что наконец-то поняла, как нужно прикладывать усилия левой рукой!"
+line-368,迪亚兹,特克诺，别练了，快进来！你肯定没喝过这种叫乌萨斯特饮的东西，再晚可就没有了！,"Forget about the doodles and get your butt inside, Tecno! You have to try this 'Ursus Specialty Beverage' before they down the last drop of it! It's truly something else!","Текно, заканчивай с тренировками, заходи! Ты точно еще не пила этот напиток Урсуса, опоздаешь — не достанется!"
