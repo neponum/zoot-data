@@ -1,0 +1,263 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,main_14
+__chapter__,,Chapter Name,obt/main/level_main_14-03_end,通讯静默解除
+,,,,
+char-1,可露希尔,可露希尔,Closure,Клози
+char-2,狙击干员,狙击干员,Sniper Operator,Оперативник-снайпер
+char-3,术师干员,术师干员,Caster Operator,Оперативник-заклинатель
+char-4,近卫干员,近卫干员,Guard Operator,Оперативник-гвардеец
+char-5,“灵幛”,“灵幛”,Sudaram,«Духовная пелена»
+char-6,？？？,？？？,???,???
+char-7,芬,芬,Fang,Фэн
+char-8,Misery,Misery,Misery,Misery
+char-9,达格达,达格达,Dagda,Дагда
+char-10,费斯特,费斯特,Feist,Фест
+char-11,推进之王,推进之王,Siege,Королева дорог
+char-12,号角,号角,Horn,Хорн
+char-13,风笛,风笛,Bagpipe,Файпайп
+char-14,戴菲恩,戴菲恩,Delphine,Дельфина
+char-15,高级军官,高级军官,Flag Officer,Высокопоставленный офицер
+char-16,高多汀公爵,高多汀公爵,Duke of Gododdin,Герцог Годотин
+char-17,摩根,摩根,Morgan,Морган
+char-18,因陀罗,因陀罗,Indra,Индра
+char-19,痛苦的难民,痛苦的难民,Pained Refugee,Страдающий беженец
+,,,,
+line-11,可露希尔,......,...,......
+line-18,狙击干员,队长，衍射仪的传感器可能出问题了。,I think something's wrong with the diffractometer's sensor.,"Командир, похоже, датчики на дифрактометре неисправны."
+line-20,可露希尔,......没坏。,Nothing's wrong with it.,......Они в порядке.
+line-25,术师干员,我就说吧维克多，我的检查结果也是这样。,"You see, Viktor? I'm getting the same results.","Я же говорила, Виктор, мои результаты проверки точно такие же."
+line-26,术师干员,显示不了有效数据，也不一定是仪器出了错，有可能是数据本身超出了区间。,It's not always the equipment's fault that you're not getting valid data. The data itself may exceed the scope.,"То, что данные не отображаются, не обязательно означает ошибку прибора; возможно, они просто выходят за пределы диапазона."
+line-27,术师干员,嗯，源石反应指标，大于......预设上限。,Originium reaction metrics are above the default limit.,"Хм, индекс реакции Ориниума выше... установленного максимума."
+line-31,近卫干员,各位，敌人已经围上来了，我们还有三分钟。,"They're coming, guys. We have three minutes.","Коллеги, враги нас окружили, у нас есть три минуты."
+line-35,术师干员,维克多年龄最小，我们要是用上所有办法，应该还能给他争取一个逃生机会......,"Viktor is the youngest of us. If nothing else, we should try to get him out...","Виктор самый младший, если мы используем все средства, то, возможно, сможем обеспечить ему шанс на спасение......"
+line-39,狙击干员,小易，你以为我申请参加伦蒂尼姆行动，是为了谁？,Who did you think was the reason that I signed up for the Londinium operation?,"Сяо И, ты хоть понимаешь, ради кого я подал заявку на участие в операции в Лондиниуме?"
+line-43,术师干员,你这家伙，真是从来都不听劝。,"Never could just do as you're told, could you?","Ну ты и упрямец, тебя никогда невозможно переубедить."
+line-47,近卫干员,可露希尔，你那边的情况怎么样？,"How are you doing over there, Closure?","Клози, как обстоят дела у тебя?"
+line-49,可露希尔,我还活着，没关系的，我的无人机上可是装了——,"Still alive. I've got my drones, and they're loaded with—","Я все еще жива, не переживай, на моем дроне установлены——"
+line-53,近卫干员,我好像听到了无人机坠毁的声音。,I think I hear the sound of drones crashing.,"Кажется, я слышал, как упал дрон."
+line-54,近卫干员,在以前，那些无人机可都是你的宝贝。,They used to be your babies.,Раньше эти дроны были для тебя настоящим сокровищем.
+line-56,可露希尔,哈哈——,Haha—,Ха-ха——
+line-61,术师干员,队长啊，你让自救军撤退的时候，就知道了吧？那是最后的窗口期了。,"You knew it when you ordered the Self-Salvation Corps to pull out, didn't you? That was the last chance to escape.","Командир, ты ведь знала об этом еще тогда, когда отдавала приказ отступать силам самообороны? Это было последнее окно возможностей."
+line-63,可露希尔,源石活动数据还没有拟合完毕。,The Originium activity data is incomplete.,Данные об активности Ориниума еще не были обработаны.
+line-64,可露希尔,我需要......各位的数据。,I need data... from all of you.,Мне нужны... ваши данные.
+line-69,近卫干员,可露希尔，阿米娅不在，你就是我的队长。,"Amiya's not here, so you're my captain, Closure.","Клози, раз Амии здесь нет, ты — наш командир."
+line-70,近卫干员,在来伦蒂尼姆之前，我们每一个人都和阿米娅聊过的。,We all talked to Amiya before we came to Londinium.,Перед прибытием в Лондиниум каждый из нас беседовал с Амией.
+line-71,近卫干员,阻止战争，同时拯救维多利亚人和萨卡兹？说真的，就靠我们，这该有多难啊？,"Stop a war, and save both the Victorians and the Sarkaz? With just the few of us? That's next to impossible.","Остановить войну и при этом спасти жителей Виктории и Сарказов? Серьезно, как нам это сделать в одиночку?"
+line-72,近卫干员,可我还是选择相信你们，相信......罗德岛的理想。,But I chose to trust all of you. Trust in the dream of Rhodes Island.,"Но я все равно решил поверить вам, поверить... в идеалы Родос Айленда."
+line-73,近卫干员,哪个罗德岛干员不想看见矿石病被治好，大家的日子过得越来越好的那一天？这在大多数人眼里不也是笑话吗？,"There isn't a single Rhodes Island operator who doesn't want to see the day when there is a cure for Oripathy, when everybody's living a better life. Doesn't that sound ridiculous to most folks?","Кто из сотрудников Родоса не мечтает дожить до дня, когда Орипатия будет побеждена, а жизнь всех людей станет лучше? Разве в глазах большинства это не звучит как шутка?"
+line-74,近卫干员,非要说......死在这里，我真觉得有点亏。,My only regret about dying here... is that I won't get to see that day.,Если честно... умирать здесь мне правда обидно.
+line-76,可露希尔,......,...,......
+line-81,狙击干员,小易，收到我的数据了吗？,"Did you get my data, Yvres?","Сяо И, ты получил мои данные?"
+line-86,术师干员,收到了。队长，新一批的数据传给你了。,"Yup. Just sent the newest batch of data over, Captain.","Получил. Командир, новая партия данных отправлена тебе."
+line-87,术师干员,哦对，我也没那么无私......发论文的时候带一下我的名字。,"Oh, and I'm not that selfless, so don't forget to put my name in when you publish your paper.","Ах да, я тоже не такой уж бескорыстный... при публикации статьи не забудь упомянуть мое имя."
+line-89,可露希尔,......好。,...Will do.,......Хорошо.
+line-95,,“通讯异常，通讯异常，正在失去信号。”,'Communication failure detected. Signal lost imminent.',"«Сбой связи, сбой связи, сигнал теряется»."
+line-96,,“能量波动数据传入，自动分析模块启动。”,'Importing energy fluctuation data. Initializing automatic analysis module.',"«Данные о колебаниях энергии получены, запуск модуля автоматического анализа»."
+line-97,,“天灾规模已确定，开始计算未来二十四小时内源石环境模拟演变趋势......”,'Catastrophe scale confirmed. Developing prediction model on Originium induced environmental changes for the next 24 hours...',"«Масштаб катастрофы подтвержден, начат расчет прогноза эволюции среды Ориниума на ближайшие 24 часа...»"
+line-98,,......,...,......
+line-99,,“滋滋滋......队长，防护罩......损坏......”,"'Bzzzz—Captain, shield... damaged...'","«Ш-ш-ш... Командир, защитное поле... повреждено...»"
+line-100,,“他们......正在......”,'They're... about to...',«Они... сейчас...»
+line-101,,“小易......坚持......我正在向你移动......滋滋滋......”,'Hang in there... Yvres... moving towards your position— Bzzzz',«Сяо И... держись... я двигаюсь к тебе... ш-ш-ш...»
+line-102,,“滋滋滋——”,'Bzzzz—',«Ш-ш-ш——»
+line-106,,“可露希尔，加油。”,"'Make it happen, Closure.'","«Клози, вперед»."
+line-113,可露希尔,......,...,......
+line-114,可露希尔,我会的。,I will.,Я справлюсь.
+line-119,,工程师死死地盯着眼前的操作屏幕。,The engineer's eyes are glued to the screen in front of her.,Инженер впилась взглядом в экран управления.
+line-120,,快一些，再快一些。如果不能将这片战场的源石活动数据拟合完毕，小队所有的努力都会白费。,"Faster. Faster. If they fail to compile the Originium activity data, then all the squad's efforts would be for naught.","Быстрее, еще быстрее. Если данные об активности Ориниума на поле боя не будут сопоставлены, все усилия отряда окажутся напрасными."
+line-121,,在她四周，战争的咆哮正越来越近。,The din of war approaches.,Вокруг нее рев войны становился всё ближе.
+line-122,,无人机所剩无几，她已经能感觉到敌人冰冷的呼吸。,"Only a few drones remain. She can feel the enemy's cold, freezing breath.","Дронов почти не осталось, и она уже чувствовала ледяное дыхание врагов."
+line-123,,“......模型拟合成功。”,'...Model successfully compiled.',«...Модель успешно сопоставлена».
+line-124,,“正在输出安全区位置——”,'Outputting safe zone locations—',«Идет вывод координат безопасной зоны——»
+line-126,可露希尔,终于，成功了！,YES!,"Наконец-то, получилось!"
+line-127,可露希尔,接下来，只要竖起通讯塔——,All that's left is the signal tower—,"Теперь, осталось только установить вышку связи——"
+line-145,“灵幛”,......血魔。叛徒。,...Vampire. Traitor.,......Кровавый демон. Предатель.
+line-146,“灵幛”,战争不会停止，你会成为养料。,"This war will go on, and you will feed it.","Война не прекратится, ты станешь питательной средой."
+line-152,可露希尔,好险！,Yikes!,Опасно!
+line-153,可露希尔,无人机——,My drone—,Дрон——
+line-156,,刚刚升空的无人机被“灵幛”的剑锋劈过，哀鸣着坠毁在地。,"The Sudaram's blade slices the hovering drone, sending it crashing to the ground.",Только что взлетевший дрон был разрублен клинком «Духовной пелены» и с жалобным звуком рухнул на землю.
+line-157,,那是她的最后一架战斗无人机。,That was her last combat drone.,Это был её последний боевой дрон.
+line-159,可露希尔,该死，别挡路！,Get out of the way!,"Проклятье, не стой на пути!"
+line-168,“灵幛”,可笑的法术，羸弱的法术。,Your Arts are weak and pathetic.,"Смешная магия, жалкая магия."
+line-169,“灵幛”,怎么会有如你一般弱小的血魔。,How could such a frail Vampire exist?,"Как может существовать столь слабый кровавый демон, как ты?"
+line-184,可露希尔,疼！！,Ouch!,А-а!!
+line-187,,剧痛袭来，可露希尔感觉自己的半边身体一瞬间就麻木了。,Searing pain erupts and Closure feels an entire side of her body go numb.,"Острая боль пронзила Клози, она почувствовала, как половина её тела мгновенно онемела."
+line-188,,腐败的气息正钻进她的身体。,The breath of decay invades her.,Аромат гниения проникал в её тело.
+line-189,,可露希尔几乎已经握不住手上的通讯信号塔，她只能勉强把这复杂的设备插在地上，支撑着自己的身体。,"Closure can barely hold onto the signal tower. With great effort, she plants the complex equipment into the ground to lean on.","Клози едва могла удержать в руках вышку связи, ей оставалось лишь с трудом воткнуть сложное устройство в землю, опираясь на него всем весом."
+line-193,,“通讯强度不足，设备受干扰程度——高。无法广播安全区位置。”,'Insufficient signal strength. Strong interference detected. Unable to broadcast safe zone location.,"«Сила сигнала недостаточна, уровень помех устройства — высокий. Невозможно транслировать координаты безопасной зоны»."
+line-194,,“请按设置说明——”,'Please follow the equipment manual—',"«Пожалуйста, следуйте инструкциям по настройке——»"
+line-196,可露希尔,闭嘴，我知道！,I know! Shut up!,"Заткнись, я знаю!"
+line-198,可露希尔,可露希尔，你不是血魔吗，修复伤口啊！多扛一会，至少再久一点点......,"What kind of Vampire are you, Closure? Close those wounds! Hang in there, just a little longer...","Клози, ты же кровавый демон, залечи рану! Продержись еще немного, хотя бы самую малость..."
+line-199,可露希尔,只要把这玩意竖起来——,Just get this thing up right—,Лишь бы установить эту штуку——
+line-220,,......又累得在走廊上睡着了？你这样会生病的。,...Sleeping in the corridors again? You'll catch a cold.,......Снова уснула в коридоре от усталости? Так ты заболеешь.
+line-221,,罗德岛的基本功能都上线了，接下来，大概可以试试看远航了吧？,Rhodes Island's basic functions are online. I think she's ready for a grand voyage.,"Основные функции Родоса запущены, теперь можно попробовать выйти в дальнее плавание, да?"
+line-222,,谢谢你，我的首席工程师，我们最初的约定达成了。,"Thank you, Chief Engineer. You've delivered your promise.","Спасибо тебе, мой главный инженер, наш изначальный договор выполнен."
+line-223,,如果你想离开这艘船，回到卡兹戴尔......嗯，我知道的，你对那里不感兴趣。,"If you want to leave this ship and go back to Kazdel... Right, you told me before. You're not interested in that place.","Если хочешь покинуть этот корабль и вернуться в Каздель...... хм, я знаю, тебя это не интересует."
+line-224,,但能不能答应我，不要再说自己是毫无源石技艺天赋的血魔？,But at least promise me you won't call yourself a talentless Vampire anymore.,"Но пообещай мне, не говори больше, что ты кровавый демон без таланта к искусству Ориниума?"
+line-225,,可露希尔，你是我见过最有天赋的人。你只是，和别的血魔有些不一样。,"You're the most talented person I've ever known, Closure. You're just different from other Vampires.","Клози, ты самый одаренный человек, которого я встречал. Ты просто немного... не такая, как другие кровавые демоны."
+line-226,,这样吧，只要你仍想看看更广阔的、从未见过的大地，那我们就永远是同行者。,"So here's my offer: as long as you still want to see the vast and unexplored parts of this land, we'll always be each other's companion.","Давай так: пока ты хочешь видеть более обширный и неизведанный мир, мы навсегда останемся попутчиками."
+line-230,可露希尔,（不要辜负......不能辜负......）,(I can't... I won't...),(Только не подвести... нельзя подвести......)
+line-231,可露希尔,（不想对不起所有人......）,(Won't let... everyone down...),(Не хочу подводить всех остальных......)
+line-232,可露希尔,（还有自己。）,(...And myself.),(И саму себя.)
+line-236,,可露希尔感觉到，“灵幛”冰冷的手，已经抚上自己的脖子。,Closure can feel the Sudaram's cold grip close in around her neck.,"Клози почувствовала, как ледяная рука «Духовной пелены» легла ей на шею."
+line-237,,她已经被战争淹没了。,War has finally claimed her.,Война поглотила её.
+line-242,？？？,可露希尔！,Closure!,Клози!
+line-247,可露希尔,谁......,Who...?,Кто...
+line-248,可露希尔,谁还活着？,A survivor?,Кто еще жив?
+line-249,可露希尔,信号......通讯信号在亮......,Signal... there's a signal...,Сигнал... сигнал связи горит......
+line-250,可露希尔,罗德岛的信号。,A Rhodes Island signal.,Сигнал Родос Айленда.
+line-255,？？？,可露希尔，抓住我的手！,"Grab my hand, Closure!","Клози, хватайся за мою руку!"
+line-257,可露希尔,......杜宾？,...Dobermann?,......Дубин?
+line-270,芬,是我。,It's me.,Это я.
+line-271,芬,还有力气吗？,Can you stand?,У тебя еще остались силы?
+line-273,可露希尔,芬......,Fang...,Фэн......
+line-277,“灵幛”,你们——,You—,Вы——
+line-291,,一柄小巧的匕首洞穿了“灵幛”的胸膛，巨大的能量随即爆发而出。,"A dagger pierces the Sudaram's chest, causing a massive burst of energy.","Маленький кинжал пронзил грудь «Духовной пелены», и следом высвободилась колоссальная энергия."
+line-296,Misery,抱歉，来晚了。,Sorry I'm late.,"Прости, припозднился."
+line-301,芬,多亏Misery先生通知了我们位置。,Misery gave us the location.,"Спасибо мистеру Misery за то, что сообщил нам местоположение."
+line-302,芬,别担心，更多人在路上。,More are coming.,"Не волнуйся, остальные уже в пути."
+line-304,可露希尔,快，还差一点，掩护我！,Almost got it! Cover me!,"Скорее, осталось совсем чуть-чуть, прикройте меня!"
+line-305,可露希尔,挡住他们！,Keep them away!,Сдержите их!
+line-314,,我们的使命究竟是什么？在刚加入还叫巴别塔的罗德岛时，可露希尔曾向不止一个人问出过这个问题。,"What is our mission? When Closure first joined Rhodes Island, then known as Babel, she asked many operators this question.","Какова же наша миссия? Когда Клози только присоединилась к Родосу, который тогда еще назывался Вавилоном, она не раз задавала этот вопрос разным людям."
+line-315,,在那时，每个人的答案都各不相同。,She got a different answer every time.,В те времена у каждого был свой ответ.
+line-316,,有人的理想很远大，有人的愿望却很渺小。,"Some dreams are big. Others, less so.","У кого-то были высокие идеалы, у кого-то — скромные желания."
+line-317,,有人说得很具体，有人却只是支支吾吾，最后挠挠头，露出一个微笑。,"Some gave details. Others mumbled, scratched their heads, and gave an abashed smile.","Кто-то отвечал четко, кто-то лишь мямлил, а потом чесал затылок и улыбался."
+line-318,,但在某种时刻，所有的人都会露出一样的表情。,But there comes a time when they all have the same expression.,Но в определенные моменты все люди делали одно и то же выражение лица.
+line-319,,在某种时刻，所有的人都会做出一样的选择。,And a time when they all make the same choice.,В определенные моменты все они делали один и тот же выбор.
+line-320,可露希尔,差的这最后一点点......补上了。,Almost there... this is the last one.,Последний недостающий кусочек... восполнен.
+line-327,,“核心模块上线，通讯恢复。”,'Core module online. Communications restored.',"«Базовый модуль запущен, связь восстановлена»."
+line-346,达格达,可露希尔，我们来了！坚持住！,"We're coming, Closure! Hang in there!","Клози, мы здесь! Держись!"
+line-347,费斯特,我们向典范军同步了你们的位置，支援马上就到！,We sent your location to the Exemplars! Help is on the way!,"Мы передали ваши координаты армии «Парадигма», помощь уже близко!"
+line-351,可露希尔,终于——,Finally—,Наконец-то——
+line-358,芬,喂，可露希尔，可露希尔，你还好吗——,Closure? Closure! Are you okay—,"Эй, Клози, Клози, ты в порядке——"
+line-368,推进之王,注意和敌人拉开距离，给炮兵队和弩手提供支援。,Keep your distance. Cover the artilleries and crossbowmen.,"Держитесь на расстоянии от врага, обеспечьте поддержку артиллерии и арбалетчикам."
+line-369,推进之王,食腐者的出现和天灾关联紧密，不要怕他们的巫术，看起来再古怪，也是一种源石技艺！,"The appearance of the Nachzehrers is closely linked to Catastrophes. Do not fear their witchcraft. However bizarre it is, it's still Arts!","Появление Пожирателей тесно связано с катастрофой, не бойтесь их колдовства, каким бы странным оно ни казалось, это лишь форма искусства Ориниума!"
+line-370,推进之王,记住我们这一路是怎样在天灾中行军的——,Remember how we marched through a Catastrophe—,"Помните, как мы прошли этот путь сквозь бедствия——"
+line-372,推进之王,我们能扛住天灾，也能抵御住这帮萨卡兹！,We survived a Catastrophe. We'll survive the Sarkaz!,"Мы можем выдержать катастрофу, а значит, выстоим и против этих Сарказов!"
+line-377,号角,......风笛。,...Bagpipe.,......Файпайп.
+line-379,风笛,嗯嗯？我在。,Aye? I'm here.,М-м? Я здесь.
+line-381,号角,高多汀公爵说得没错，“风暴突击队”......本来就是议会直属的部队。,The Duke of Gododdin spoke the truth. Tempest Platoon is under the direct authority of Parliament.,"Герцог Годотин прав, «Штормовой отряд»...... изначально подчинялся непосредственно Совету."
+line-382,号角,听从议会的命令，是我们的职责。,We have an obligation to answer Parliament's call.,Следовать приказам Совета — наш долг.
+line-384,号角,这比公爵的邀请......更具有正当性。,It's a more legitimate cause for action than the duke's invitation.,"Это более легитимно, чем приглашение герцога."
+line-385,号角,更不必说，答应他的话，你、罗本，还有许多不得已跟着我们行动的残兵，所有人的身份问题都能得到解决。,"Not to mention that by accepting his invitation, you, Robben, and everyone who came with us because they had no choice... will have proper identities.","Не говоря уже о том, что если согласиться на его предложение, то вопрос со статусом для тебя, Роберта и многих других солдат, вынужденных следовать за нами, будет решен."
+line-387,风笛,身份问题？队长，你忘了吗，我本来就退役了呀。,"Identity? Did you forget, captain? I'm retired anyways.","Вопрос со статусом? Командир, ты забыла, что я и так в отставке."
+line-388,风笛,而且......你刚刚站在推进之王身前架起盾的时候，可是一点犹豫都没有欸。,"Besides, in that standoff with the duke earlier, ye didn't hesitate to put yer shield in front of Siege.","К тому же... когда ты встала перед Королевой дорог, защищая её щитом, ты ни на секунду не заколебалась."
+line-390,号角,......嗯。,...True.,......Хм.
+line-392,风笛,他们说啊，推进之王带着诸王之息......队长，你见过诸王之息吗？,"Word is Siege's carryin' the Sighs of Kings... have ye seen it before, Captain?","Говорят, у Королевы дорог есть Дыхание королей...... Командир, ты видела Дыхание королей?"
+line-394,号角,见过。,I have.,Видела.
+line-395,号角,推进之王说得对，那只是一根有些意义的“铁条”而已。,Siege was right. It's just a piece of metal that happens to mean something to some people.,"Королева дорог права, это всего лишь «железка», имеющая некоторое значение."
+line-400,达格达,推进之王，有队伍正在迅速从侧翼接近......,Troops approaching on our flank.,"Королева дорог, отряд быстро приближается с фланга......"
+line-402,戴菲恩,......他们没有识别码，但我认得出来，是高多汀公爵的步兵。,"No ID code, but I recognize them. They're the Duke of Gododdin's men.","......У них нет идентификационных кодов, но я узнаю их, это пехота герцога Годотина."
+line-404,戴菲恩,他们开始正式与萨卡兹交战......并且，刚刚掩护了我们的一支小队。,They've engaged the Sarkaz... and covered one of our squads just now.,Они вступили в бой с Сарказами... и только что прикрыли один из наших отрядов.
+line-408,推进之王,好。,Good.,Хорошо.
+line-410,推进之王,如果这是高多汀“交朋友”的方法，那我们也会给予同等的回报。,"If that's Gododdin's way of showing friendship, then we'll show him the same in return.","Если это способ Годотина «заводить друзей», то мы ответим тем же."
+line-411,推进之王,典范军全员，与高多汀的军队协同作战——,Attention Exemplars! Stand with the soldiers of Gododdin!,"Армия «Парадигма», сражайтесь совместно с войсками Годотина——"
+line-413,推进之王,直到最后一个敌人被打退为止！,"Not one step backward, until the last foe is vanquished!",Пока последний враг не будет отброшен!
+line-425,高级军官,公爵阁下，高速军舰已经起航，我们已经暂时脱离危险。,"The ship has reached cruising speed, sir. We're out of danger for now.","Ваше Светлейшество, скоростной военный корабль отплыл, мы временно вне опасности."
+line-427,高多汀公爵,挺好。,Good.,Очень хорошо.
+line-428,高多汀公爵,萨卡兹使用的巫术确实千奇百怪。与其让他们不断地骚扰我们的后方，还不如......露出点破绽。,The Sarkaz's witchcraft is most peculiar indeed. Better to fake a moment of vulnerability than to have them constantly harassing our rear.,"Колдовство, которое используют Сарказы, действительно причудливо. Вместо того чтобы позволить им бесконечно беспокоить наш тыл, лучше... показать им уязвимость."
+line-430,高级军官,从作战情况来看，“食腐者”的头领，还有其他已知的拥有强大作战能力的萨卡兹并没有现身此处。,"The leader of the Nachzehrers has not been sighted, nor any other known powerful Sarkaz.","Судя по ходу боевых действий, лидер «Пожирателей» и другие известные Сарказы, обладающие мощным боевым потенциалом, здесь не появлялись."
+line-432,高多汀公爵,唉，在他们眼里，高多汀的威胁性，大概远不及温德米尔和威灵顿吧。,I suppose they don't see Gododdin as nearly the threat that Windermere or Wellington are.,"Эх, в их глазах угроза от Годотина, вероятно, гораздо меньше, чем от Уиндем или Веллингтона."
+line-434,高多汀公爵,这倒是......值得庆幸。,I could call that a relief.,"И это... стоит того, чтобы радоваться."
+line-436,高级军官,阁下，诸王之息仍未离开吉布森镇。是否启动后续计划？,"The Sighs of Kings has not left Gibsonham, sir. Should we move on to the next phase?","Ваше Светлейшество, Дыхание королей всё еще не покинуло город Гибсон. Запустить последующий план?"
+line-438,高多汀公爵,你怎么看？,What do you think of them?,Что ты думаешь?
+line-440,高级军官,比预想中的要多花一些功夫，亚历山德莉娜的队伍在逐渐壮大，作战能力也比先前估计的要强一些......,"More of a challenge than expected. Alexandrina's forces are growing, and they are more organized and effective than we thought...","На это уходит больше усилий, чем ожидалось, отряд Александрины постепенно растет, а их боевые способности выше, чем предполагалось ранее......"
+line-442,高多汀公爵,啊，我问的并不是作为对手的看法。,"Oh, I don't mean as an adversary.","Ах, я спрашивал не как у противника."
+line-443,高多汀公爵,“典范军”......你也说了，他们打得有模有样的。,"The Exemplars... like you said, they look the part.","«Армия «Парадигма»»...... ты и сам сказал, они сражаются весьма неплохо."
+line-444,高多汀公爵,他们和我们留下的那些部队的协同，也还不错。,And they've worked well enough with the troops that we left behind.,"И их взаимодействие с теми частями, что мы оставили, тоже на уровне."
+line-446,高多汀公爵,丽塔和他们待在一块儿，看起来还真比她爸爸更像传说中的白狼。温德米尔家的小姑娘也没情报里那么娇弱。,"Rita is with them, and looks more like the legendary White Wolf than her father did. And Windermere isn't quite as weak as the intel had her.","Рита вместе с ними, и она действительно больше похожа на легендарного Белого волка, чем её отец. И девчонка из семьи Уиндем не такая хрупкая, как в отчетах."
+line-448,高多汀公爵,年轻人们想当英雄典范，说不定啊，真不是玩笑。,"Maybe it's not such a joke after all, that those kids could become the Exemplars.","Может быть, молодые люди действительно хотят стать героическими идеалами — это вовсе не шутка."
+line-450,高级军官,您的意思是，放弃由我们来护送国剑的想法？,"Do you intend to abandon the plan for us to escort the Realmblade, then?","Вы хотите сказать, что отказываетесь от идеи взять сопровождение национального меча на себя?"
+line-452,高多汀公爵,哈哈，怎么能说成放弃呢？,Abandon! Such a strong word.,"Ха-ха, почему это отказ?"
+line-454,高多汀公爵,既然高多汀重视的是将来，那以后的路上，“亚历山德莉娜”“诸王之息”“典范军”，甚至“罗德岛”......都未必不会与我们同行。,"It is the future that Gododdin values. Alexandrina, the Sighs of Kings, the Exemplars, even Rhodes Island... perhaps we'll cross paths again on our way to the future.","Раз Годотин ценит будущее, то в предстоящем пути «Александрина», «Дыхание королей», «Армия «Парадигма»», и даже «Родос Айленд»... вполне могут оказаться с нами в одном строю."
+line-466,达格达,......我们的战车正在镇子东面和最后一批萨卡兹交战。,Our tanks are fighting the last pocket of Sarkaz on the east side of town.,......Наш танк сражается с последней группой Сарказов на востоке города.
+line-468,达格达,吉布森镇算是守住了。这里可以被当作通往银石崖前线的补给点，但是......,We've successfully defended Gibsonham. It will serve as a supply point on the way to Silverrock Bluffs. However...,"Город Гибсон можно считать защищенным. Его можно использовать как пункт снабжения на пути к фронту у Серебряной скалы, но......"
+line-470,推进之王,地形变了。,The terrain has changed.,Ландшафт изменился.
+line-472,推进之王,“阿喃那”在不断地改变伦蒂尼姆周边的环境。本不该存在的地裂、山崖、湍流，到处都是。,"The environment around Londinium is constantly changing because of Amnannam's influence. Fissures, cliffs, and rapids that should not have been there are emerging everywhere.","«Ананна» постоянно меняет окружающую среду вокруг Лондиниума. Повсюду трещины в земле, скалы, водовороты, которых здесь быть не должно."
+line-474,达格达,银石崖一带几乎每时每刻都在发生剧烈的天灾。我们接下来的每一步会踩在哪里，都难以预料。,Silverrock Bluffs is almost constantly under severe Catastrophe. It's hard to say where our foot will land when we put it forward.,"У Серебряной скалы почти ежесекундно происходят мощные катастрофы. Трудно предсказать, куда мы наступим следующим шагом."
+line-476,摩根,说真的，要不是我知道罗德岛的情报不可能出错，我都不敢相信这是我们的伦蒂尼姆。,I wouldn't have believed this was our Londinium if I had anything less than absolute faith in Rhodes Island's data.,"Честно говоря, если бы я не знала, что разведка Родоса не может ошибаться, я бы не поверила, что это наш Лондиниум."
+line-478,摩根,田野的微风弥漫温暖♪♫朝阳照耀我们的家♬♪......,The sun on the meadow is summery warm♪♫Filling our home with euphoria♬♪...,Теплый ветерок над полями♪♫ восходящее солнце освещает наш дом♬♪......
+line-480,摩根,恐怕到时候，就连国歌的歌词都得变一变了。,"After this war, we might have to change our national anthem's lyrics.","Боюсь, к тому времени даже слова государственного гимна придется изменить."
+line-482,因陀罗,......你还有心情开玩笑！,Is this time to be havin' a laugh?,......У тебя еще есть настроение шутить!
+line-484,摩根,“打回去再考虑”，你一定想说这个。,"You wanted to say 'we'll think about it after we take it back,' didn't you?","«Сначала вернемся, а потом подумаем», ты ведь это хотела сказать."
+line-485,摩根,可就算我们真的回去了......我们的家还能回到以前的样子吗？,But even if we really went back... would our home ever return to the way it was?,"Но даже если мы действительно вернемся...... наш дом сможет стать таким, как прежде?"
+line-487,因陀罗,......,...,......
+line-489,推进之王,所以我们不仅要赢得这场战争。,That's why we're not just going to win the war.,Поэтому мы должны не только выиграть эту войну.
+line-491,推进之王,我们还不能看着萨卡兹......用战争彻底毁掉伦蒂尼姆。,We're not going to let the Sarkaz destroy Londinium in the war.,"Мы не можем допустить, чтобы Сарказы...... полностью уничтожили Лондиниум войной."
+line-493,推进之王,前面的风暴，我们会闯过去。,We'll overcome the storm ahead.,Мы прорвемся сквозь шторм впереди.
+line-495,推进之王,风暴碾过的家园，我们也不能放弃。,And we won't abandon the home that the storm has ravaged.,"И не отступимся от родного края, разоренного этим штормом."
+line-496,推进之王,刚刚费斯特已经跟我说过了，他的小队在附近收到了更多求救信号，希望能救出更多人。,Feist told me his squad picked up more distress signals nearby. There may be more lives saved yet.,"Фест только что сказал мне, что его отряд получил больше сигналов бедствия поблизости, они надеются спасти еще людей."
+line-497,推进之王,吉布森镇上，与食腐者交战过的区域也需要特殊处理，罗德岛干员会一如既往地提供帮助。,The areas where fighting occurred with the Nachzehrers will need to be cleaned up. Rhodes Island operators will provide the usual assistance.,"В городе Гибсон районы, где велись бои с Пожирателями, требуют специальной обработки, сотрудники Родоса, как и всегда, окажут помощь."
+line-499,推进之王,我需要我们的人一起完成这些后方的工作。,I want the Exemplars to work with them on these post combat affairs.,Нам нужно вместе выполнить эту работу в тылу.
+line-501,推进之王,搭建补给线，搜救和转移伤员，集结更多愿意加入我们的人。,"Establish supply lines, rescue and transfer the injured, and rally those who want to join us.","Налаживать линии снабжения, искать и эвакуировать раненых, собирать тех, кто готов к нам присоединиться."
+line-513,戴菲恩,维娜，跟着我们去前线的队伍已集结完毕。,The troops who returned from the front line have assembled.,"Вина, отряд, следующий с нами на передовую, сформирован."
+line-514,戴菲恩,加上那些被抹去识别码的高多汀士兵，典范军的规模已经远远超过一个团。,"Counting in the Gododdin soldiers who had their IDs wiped, the Exemplars have far exceeded the scale of a regiment.","Вместе с теми солдатами Годотина, у которых стерли коды идентификации, численность «Парадигмы» уже намного превышает один полк."
+line-519,推进之王,他们打算加入我们？,They want to join us?,Они планируют присоединиться к нам?
+line-521,戴菲恩,是的，我去见了那支队伍里的军官们，他们声称在他们登上运输舰之前，高多汀公爵就已经离开了。,I met with their officers. They said the Duke of Gododdin left before they could board the transports.,"Да, я встретилась с офицерами того отряда, они утверждают, что герцог Годотин покинул город еще до того, как они сели на транспортные корабли."
+line-522,戴菲恩,从我们的初步接触结果来看，他留下的这支队伍，全都由感染者组成。,Preliminary screening indicates that all of them are Infected.,"Судя по нашим предварительным контактам, весь этот оставленный отряд состоит из инфицированных."
+line-524,戴菲恩,似曾相识，对吧？,"Sounds familiar, eh?","Звучит знакомо, не так ли?"
+line-526,推进之王,和他的同僚一样，高多汀公爵也抛下了感染者士兵？,"The Duke of Gododdin left his Infected soldiers behind, just like the other dukes?","Как и его коллеги, герцог Годотин бросил солдат-инфицированных?"
+line-528,戴菲恩,嗯......又或者......,Or maybe...?,Хм...... или......
+line-530,推进之王,又或者，他故意筛选了一批不幸感染的战士，把他们送到我们的队伍里。,"Or maybe, he intentionally picked a bunch of soldiers who had unfortunately gotten Infected, and sent them over to us.",Или же он намеренно отобрал партию不幸 зараженных воинов и отправил их в наши ряды.
+line-532,戴菲恩,我猜他的确不怀好意。,I suspect he has ulterior motives.,"Подозреваю, у него действительно злые намерения."
+line-533,戴菲恩,从高多汀的军队在吉布森镇的表现来看，这批感染者士兵和我们过去遇见的那些不一样，很难被称为“残兵”。,The performance of those Infected troops indicates that they're different from those we've seen before. I wouldn't call them stragglers.,"Судя по действиям армии Годотина в Гибсоне, эти солдаты-инфицированные не похожи на тех, кого мы встречали раньше, их сложно назвать «остатками»."
+line-534,戴菲恩,假如高多汀的目的是跟踪、监视我们，那我们最好想办法把这群人甩开。实在甩不开，就在战术上隔离......,"If Gododdin's intention is to keep an eye on us, then we should probably try to lose these people, or at least separate them tactically...","Если цель Годотина — отслеживать и следить за нами, то лучше нам найти способ избавиться от них. Если не получится — изолировать тактически......"
+line-536,推进之王,......不。,No.,......Нет.
+line-538,推进之王,戴菲恩，你比我更懂大公爵的手段。我明白，你的猜测极有可能是正确的。,"You know the dukes better than I, Delphine. There's a very good chance that you're right.","Дельфина, ты лучше меня знаешь методы великих герцогов. Я понимаю, твое предположение, скорее всего, верно."
+line-539,推进之王,但眼下我们正是需要团结的时候。,"But right now, there's nothing we need more than unity.","Но сейчас именно тот момент, когда нам необходимо единство."
+line-541,推进之王,如果连典范军都会筛选哪一部分维多利亚是该被“团结”的......,If even the Exemplars chose which parts of Victoria they united...,"Если даже армия «Парадигма» начнет выбирать, какую часть Виктории следует «объединять»......"
+line-542,推进之王,那我们希冀的未来，又怎么可能成立呢？,What would happen to the future that we dream of?,"То как тогда может существовать будущее, к которому мы стремимся?"
+line-544,戴菲恩,高多汀很可能就是料到了典范军无法拒绝接纳那些战士，才轻易放我们离开。,Gododdin very likely knew that we couldn't reject those men. That's why he let us leave so easily.,"Годотин, скорее всего, рассчитывал на то, что «Парадигма» не сможет отказать в принятии этих воинов, поэтому легко позволил нам уйти."
+line-546,推进之王,那就做好应对的准备。,Then we need to be ready.,"Значит, будем готовы ко всему."
+line-547,推进之王,我们这一路，还会遇到很多挑战。,"This is not the first challenge we've had to overcome, nor will it be the last.",На нашем пути еще будет много испытаний.
+line-549,推进之王,萨卡兹，“阿喃那”......还有开斯特，以及其他大公爵。,Sarkaz. Amnannam. Caster. The dukes.,"Сарказы, «Ананна»...... а еще Кестер и другие великие герцоги."
+line-551,推进之王,典范军要闯过的“风暴”，不可能只有一种。,It's not just one storm that the Exemplars will have to weather.,"«Штормов», через которые предстоит пройти «Парадигме», может быть немало."
+line-553,戴菲恩,嗯。我会通知希勒少尉。,I'll let Lieutenant Shearer know.,Хм. Я сообщу об этом лейтенанту Хиллеру.
+line-555,戴菲恩,其实，有新人加入，大家都是高兴大于担忧的。,"To be honest, everyone's happy to get some new blood.","На самом деле, новому пополнению все рады больше, чем обеспокоены."
+line-557,推进之王,而且，他们都是感染者。,"Plus, they're all Infected.","И к тому же, все они — инфицированные."
+line-558,推进之王,如果他们真的没有被高多汀抛弃......这难道不也值得我们高兴吗？,"If it's really true that Gododdin has not abandoned them... that, in itself, is worth celebrating.",Если их действительно не бросил Годотин...... Разве это не повод для радости?
+line-560,推进之王,不可能发生的“联合”，在未来，说不定会变成现实。,"Perhaps, the unity that once seemed impossible is actually within reach.",Невозможное «объединение» в будущем может стать реальностью.
+line-572,痛苦的难民,......能遇到像你们一样的人，真是奇迹啊。,It's a miracle to run into people like you.,"......Встретить таких людей, как вы, — это просто чудо."
+line-574,芬,女士，“奇迹”不是我们带来的。,"We're not the miracle, ma'am.","Мадам, «чудо» — это не то, что принесли мы."
+line-575,芬,你们直到最后一刻都没有放弃，这才创造了属于你们自己的“奇迹”。,"You are, all of you, for being strong until the very end.","Вы не сдавались до самого конца, именно это и создало ваше собственное «чудо»."
+line-577,痛苦的难民,不管您怎么说，都请让我好好感谢您吧。,"Thank you so much, regardless.","Что бы вы ни говорили, позвольте мне отблагодарить вас."
+line-578,痛苦的难民,我的身体还撑得住，我会帮您一起安置更需要帮助的人。,I can still move. Let me help you with the others.,"У меня еще остались силы, я помогу вам обустроить тех, кто нуждается в помощи больше."
+line-579,痛苦的难民,您也能稍微休息一下......仔细看看，您也就和我的孩子差不多大啊。,"This way, you can get some rest... you're not much older than my own child, now that I get a better look at you.","Вы тоже могли бы немного отдохнуть...... присмотреться, вы ведь ровесники моих детей."
+line-585,芬,在去下一个地点实施救援之前，我们可以休整十分钟。,We have about ten minutes of rest before we head to the next location.,"Прежде чем отправляться к следующему месту спасательных работ, у нас есть десять минут на отдых."
+line-587,芬,......可露希尔？,...Closure?,......Клози?
+line-589,可露希尔,再多给我一点时间......,A little more time...,Дай мне еще немного времени......
+line-591,芬,你握着的通讯施术单元够完美了。,There's not much room for improvement on that Arts Unit you're holding.,"Устройство связи, которое ты держишь, и так совершенно."
+line-592,芬,就算Raidian和Mechanist见了，也很难再提出什么改进意见。,Even Raidian and Mechanist could hardly do better.,Даже Райдиан и Механист вряд ли смогли бы внести какие-либо улучшения.
+line-594,可露希尔,......接下来的源石环境还会更恶劣。我做得更好一点，你们就能更安全一些。,"Conditions will only get worse from here. The better I do, the safer you guys will be.","......Дальше среда Ориниума будет еще хуже. Если я сделаю всё лучше, вы будете в большей безопасности."
+line-596,芬,嗯......谢谢。,Thanks.,Хм...... спасибо.
+line-598,芬,吉布森镇附近的搜救工作已接近尾声。接下来我们会去搜索......你的工程小队最后失踪的地点。,"Rescue work around Gibsonham is complete. Next, we'll be going to... where your squad's signal was lost.","Спасательные работы вокруг Гибсона почти завершены. Дальше мы отправимся на поиски...... места, где пропал твой инженерный отряд."
+line-600,可露希尔,好。,I see.,Хорошо.
+line-602,芬,无论这几位干员是否牺牲，我们都会去一一确认。,"We'll find them, alive or... otherwise.","Независимо от того, погибли ли эти оперативники, мы проверим всё до конца."
+line-603,芬,埋在沙暴中、被源石吞噬......都不会毫无痕迹。,"Even if they're buried in the sand, or Originium... there will be traces.","Погребенные в песчаной буре, поглощенные Ориниумом...... ничто не останется без следа."
+line-605,芬,我们找到他们，带着他们，或者他们的遗物回家。,We'll find them and bring them home.,"Мы найдем их и вернем домой — их или то, что от них осталось."
+line-607,可露希尔,芬，虽然我清楚自己的想法......但我也想听听更多人的心里话。,"I know how I feel, but Fang... I want to hear your thoughts, too.","Фэн, хотя я и осознаю свои чувства...... но я хочу услышать, что у других на душе."
+line-609,可露希尔,一个与眼前战争双方都无关的罗德岛干员，为了萨卡兹和维多利亚人之间的战争而牺牲......是不是真的很遗憾？,"Is it regrettable for a Rhodes Island operator to die in a war between the Sarkaz and the Victorians, when they have nothing to do with either side of the war?","Неужели действительно так прискорбно, что оперативник Родоса, не имеющий отношения к обеим сторонам нынешней войны, погиб из-за конфликта между Сарказами и жителями Виктории......?"
+line-611,芬,任何任务，只要有牺牲，都很遗憾。,Any sacrifice is regrettable.,"Любая миссия, где есть жертвы, — это скорбь."
+line-612,芬,Ace大哥牺牲之后，米格鲁抱着他的盾哭了好几夜。,"After Ace died, Beagle cried for many nights with his shield in her arms.",После гибели Эйса Миглю не могла успокоиться и плакала над его щитом несколько ночей подряд.
+line-613,芬,为什么偏偏是他，会在那个时间那个地点离开？,Why him? Why there? Why then?,Почему именно он ушел в то время и в том месте?
+line-615,可露希尔,......我也每一次都有这种感觉。,I get that feeling too. Every single time.,......У меня тоже каждый раз возникает это чувство.
+line-616,可露希尔,但是，我想知道的......是牺牲者的感受。,But what I really want to know is... how did the people who sacrificed feel?,Но я хотела бы знать...... каково это — быть жертвой.
+line-618,芬,唔......自己的遗憾，肯定也会有吧。,Hm... I'm sure they have their own regrets.,Хм...... наверняка есть и сожаления.
+line-619,芬,我们都不是不怕死的圣人。可露希尔，你也不是。所以你会为之前的决定感到痛苦。,We're none of us saints. That's why we fear death. That's why you feel pain over your decision.,"Мы не святые, которые не боятся смерти. Клози, ты тоже не святая. Поэтому ты чувствуешь боль из-за своих предыдущих решений."
+line-620,芬,但是，作为参加本次支援行动的人，我不后悔。,But I have no regrets about participating in this operation.,"Но как участник этой операции по поддержке, я не жалею."
+line-622,芬,哪怕不说为了炎熔和芙蓉，或者其他萨卡兹朋友，只是为了这些未曾谋面的人，我也愿意。,"If not for Lava, Hibiscus, or our other Sarkaz friends, then at least for the people here, even though I don't know any of them.","Даже если не говорить об Ифрит, Флуф или других друзьях-Сарказах, я готова пойти на это ради тех, кого никогда не встречала."
+line-623,芬,让我从哥伦比亚来到罗德岛的，就是一场天灾。,It was a Catastrophe that brought me from Columbia to Rhodes Island.,Именно катастрофа заставила меня покинуть Колумбию и прийти в Родос.
+line-625,芬,从那个时候我就知道，灾难落到每个人头上的时候，并不会区分我们谁是谁。,That Catastrophe taught me one thing: that suffering does not discriminate.,"С тех пор я знаю, что когда на голову каждого обрушивается беда, она не делит нас на своих и чужих."
+line-627,芬,今天我来到这里，是因为我知道，当我的故乡和我在意的人陷入危难的时候，你们也会来。,"I came here today because I know that you will come when my home needs help, when the people I care about need help.","Я здесь сегодня, потому что знаю: когда моя родина и дорогие мне люди попадут в беду, вы тоже придете."
+line-629,可露希尔,......嗯。,You're right.,......Хм.
+line-631,可露希尔,是啊，我们一定会来。,We'll be there.,"Да, мы обязательно придем."
+line-635,,罗德岛，“我们”。,"<i>'We'</i>, Rhodes Island.","Родос, «мы»."
+line-636,,很小的时候，我就开始沉迷网络。因为我觉得，网络之外的空间，都充满了隔阂。,"You know something? I've been addicted to the web since a very young age, because that's the only place I knew without segregation.","Еще в раннем детстве я увлеклась интернетом. Потому что мне казалось, что пространство вне сети полно преград."
+line-637,,别的血魔小孩和我，血魔和其他萨卡兹，萨卡兹和所有种族。天灾，国家，阶级，疾病。,"The other Vampire children and I, Vampires and other Sarkaz, Sarkaz and everyone else, Catastrophe, nations, class, disease.","Другие дети-кровавые демоны и я, кровавые демоны и другие Сарказы, Сарказы и все остальные расы. Бедствия, страны, классы, болезни."
+line-638,,直到她......直到特蕾西娅把我拉出家门。她让我看到了另一种可能性。,It was Theresa who took me from the confines of my home and showed me another possibility.,Пока она...... пока Терезия не вывела меня из дома. Она позволила мне увидеть иную возможность.
+line-639,,一艘可以在灾难中行进的船，将受苦的人们打捞上来，用利益之外的东西，吸引大家成为同行者。,"A ship that sails the waves of disaster, rescues those who are suffering, and fosters companionships beyond personal interest.","Корабль, способный идти сквозь бедствия, поднимающий на борт страждущих и привлекающий людей стать попутчиками чем-то большим, чем просто выгода."
+line-640,,是不是听起来很缥缈，很不现实？,"Sounds surreal, huh?","Звучит эфемерно и нереально, верно?"
+line-641,,但罗德岛行过的路，是实实在在的。,But the road that Rhodes Island has traveled thus far is very real.,"Но путь, пройденный Родосом, реален."
+line-642,,阿米娅，我会继续分析“阿喃那”带来的异常源石现象。我也会等你和凯尔希，还有博士的意见。,"I'll continue to analyze the anomalies caused by Amnannam. I also want to hear your answer to my question. Kal'tsit's and the Doctor's, too.","Амия, я продолжу анализировать аномальные явления Ориниума, вызванные «Ананной». Я также буду ждать твоего мнения, мнения Кельци и Доктора."
+line-643,,这份数据，属于小易、白轮和维克多，属于罗德岛......未来可能也会属于所有人。,"This data belongs to Yvres, to Balin, to Viktor, to Rhodes Island... one day, it may belong to everyone.","Эти данные принадлежат Сяо И, Байлуню и Виктору, они принадлежат Родосу...... и в будущем, возможно, они будут принадлежать всем."
