@@ -1,0 +1,175 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act34side
+__chapter__,,Chapter Name,activities/act34side/level_act34side_st02,如海流倒灌
+,,,,
+char-1,乔迪,乔迪,Jordi,Джоди
+char-2,乌尔比安,乌尔比安,Ulpianus,Ульпиан
+char-3,幽灵鲨,幽灵鲨,Specter,Спектр
+char-4,斯卡蒂,斯卡蒂,Skadi,Скрати
+char-5,歌蕾蒂娅,歌蕾蒂娅,Gladiia,Гладия
+char-6,？？？,？？？,???,???
+char-7,海嗣,海嗣,Seaborn,Морское чудовище
+,,,,
+line-19,乔迪,乌尔......比安阁下？,Señor... Ulpianus?,Уль... Ульпиан?
+line-21,乌尔比安,你？,You?,Ты?
+line-23,乔迪,呼，看来我没有认错。,"Phew... So it is you, okay.","Фух, кажется, я не ошибся."
+line-24,乔迪,我们见过的，在格兰法洛，还是您找上的我......虽然我来到这里后才知道您叫什么。,"We met once, at Gran Faro, actually it was you who approached me... Though I never learned your name until after I got here.","Мы встречались в Гран-Фаро, вы сами тогда меня нашли... Хотя я узнал, как вас зовут, только когда прибыл сюда."
+line-25,乔迪,您不能闯入这里，这里是......,"Please, you're not supposed to be here, it's—","Вы не должны были сюда проникать, это..."
+line-27,乌尔比安,信标塔核心中控室。,Control center for the beacon tower.,Центральный пульт управления ядра маяковой башни.
+line-29,乔迪,地上的这个人，您把他？,That man on the floor... did you do that?,Этот человек на полу — это вы его...?
+line-31,乌尔比安,一个堕落者最应有的下场。,It's the most fitting end for one who fell.,Заслуженный финал для падшего.
+line-33,乔迪,他做了什么？,What did he do?,Что он натворил?
+line-35,乌尔比安,这和你无关，年轻人。为了你自己的人身安全，离开这里。,"None of your business, young one. Leave this place, for your own safety.","Это тебя не касается, парень. Ради собственной безопасности уходи отсюда."
+line-42,乌尔比安,所有的巢穴信标都已经激活，被篡改的武器也已经激发，还能如何提醒猎人们......,The nest beacons have all been activated. The sabotaged weapons are warming up. How else can I warn the Hunters...?,"Все маяки гнезда активированы, модифицированное оружие запущено. Как еще я мог предупредить охотников..."
+line-44,乔迪,劳伦缇娜小姐她们有危险？,Is Laurentina's group in danger?,Мисс Лаурентина и остальные в опасности?
+line-45,乔迪,是地上这个人做的，所以您才......,Did this man do it? Is that why you...?,"Это сделал тот человек на полу, поэтому вы его и..."
+line-47,乌尔比安,......,...,......
+line-49,乔迪,您沉默了。您不相信我......其实我也不相信您。毕竟您总是这么突然出现，而且眼前这个情况，更值得怀疑的是您。,"You won't tell me. You don't trust me... Well, I don't trust you either, honestly. You never introduce yourself, and seeing all this, it's really only right to suspect you.","Вы молчите. Вы мне не доверяете... Впрочем, я и вам не доверяю. Вы всегда так внезапно появляетесь, да и в сложившейся ситуации именно вы вызываете больше всего подозрений."
+line-50,乔迪,但劳伦缇娜小姐她们是我的朋友。您也是猎人，你们之间的故事，我大概知道一点。,"But they're your friends. You're a Hunter, too. I think I know a little about your tales together.","Но мисс Лаурентина и остальные — мои друзья. Вы тоже охотник, и я кое-что знаю о вашей истории."
+line-52,乌尔比安,她们在出发前被动了手脚。,He did his dirty work on them before they left.,Перед выходом в рейд их системы подверглись вмешательству.
+line-54,乌尔比安,此刻，她们仍在海嗣潮中。我不确定具体会发生什么，但危险只大不小。,"They're still caught in the Seaborn tide for now. I'm not entirely certain what's going to happen, but the danger is definite.","Сейчас они все еще среди прилива морских чудовищ. Не знаю точно, что произойдет, но опасность огромна."
+line-56,乔迪,如果她们是去投放信标，而且还在巢穴的话，或许我们可以通过这座塔向信标发送讯号，来提醒她们。,"If they went to plant the beacon and are still in the nest, maybe we could send their beacon a signal from this tower, to warn them.","Если они отправились устанавливать маяки и все еще находятся в гнезде, возможно, мы сможем отправить им сигнал через эту башню, чтобы предупредить их."
+line-57,乔迪,我之前就在这里帮忙，大概的操作原理也懂一点。,I was helping out here earlier. I know roughly how the basic controls work.,"Я помогал здесь раньше, поэтому немного понимаю принцип работы."
+line-59,乌尔比安,......去做。,...Then do it.,......Делай.
+line-61,乔迪,好、好的。,O-Okay.,Хо-хорошо.
+line-71,乌尔比安,怎么样？,Well?,Как успехи?
+line-73,乔迪,虽然实际上要复杂很多，但信标塔的运行框架看起来和大灯塔的主控系统确实很像。,"It's much more complex in practice, but I can say this tower seems to operate on a very similar framework to a lighthouse's control system.","Хотя в реальности всё гораздо сложнее, рабочая структура маяковой башни действительно очень похожа на систему управления Великого маяка."
+line-75,乌尔比安,据我所知，布雷奥甘曾经途经这座城市，为这座塔的工程重构提供过帮助。,"As far as I'm aware, Breogan passed through this city and aided the tower reconstruction effort.","Насколько мне известно, Бреоган когда-то проезжал через этот город и помог с реконструкцией проекта этой башни."
+line-77,乔迪,技术员先生说过，信标全部激活后，信标塔会自主为武器提供导航，其他的相关操作在程序上都是被禁止的。,"The technician mentioned that the tower will automatically navigate the weapons once every beacon is active, and all other controls will be locked out by the program.","Техник говорил, что после полной активации маяков башня самостоятельно обеспечивает навигацию оружия, а любые другие операции программно запрещены."
+line-78,乔迪,如果要向其中的一个信标发送讯号——我看看......,So if we want to send a signal to one of these beacons—let me see...,Если мне нужно отправить сигнал на один из маяков... дай-ка посмотрю...
+line-82,乔迪,确实无法继续操作了。,"Just as I feared, it's impossible to resume control.","Действительно, продолжить невозможно."
+line-84,乌尔比安,你有办法绕开封锁程序吗？,Do you have any way to circumvent the lockdown?,У тебя есть способ обойти протокол блокировки?
+line-86,乔迪,布雷奥甘先生参与过这座塔的工程重构......那么或许，只是或许，我有一个很笨的方法。,"If Breogan was involved in the reconstruction, then maybe, just maybe... I have a very stupid plan.","Мистер Бреоган участвовал в реконструкции... Так что, возможно, просто возможно, у меня есть один довольно примитивный способ."
+line-87,乔迪,在弥利亚留姆的这段时间，我一直在试图了解那位布雷奥甘。,"My entire time here in Milliarium, I've been trying to get to understand the man Breogan was.","Все то время, что я провел в Мириллиуме, я пытался изучить наследие Бреогана."
+line-88,乔迪,他是个习惯记录的人，总在记录自己的思考，记录自己的怀疑，哪怕到了陆地上，这个习惯也没有改过。,"He had a habit of writing things down. Always noting his thoughts, his suspicions, etc. He kept it up even on dry land.","Он имел привычку записывать всё: свои мысли, свои сомнения. Даже оказавшись на суше, он не оставил этой привычки."
+line-90,乔迪,记录是为了防止遗忘？我想，我可以试着暂时关闭主控面板上的数据解算系统，像这样——,"Was it so he wouldn't forget things? I think... I can try temporarily shutting down the main control panel's data decomposition system, like this—","Записывал, чтобы не забыть? Думаю, я могу попытаться временно отключить систему расчета данных на главной панели, вот так..."
+line-97,乔迪,乌尔比安阁下，当时您向我提起过......我的身世......,"Um, before, you were bringing up... my history...","Ульпиан, вы тогда упомянули... мое происхождение..."
+line-98,乔迪,您说我是布雷奥甘的后裔，可只要看过他影像的人，都能看出来我和那位天才设计师没有一丁点相似的地方。,"You called me Breogan's descendant, but just from looking at his images, you can tell I don't resemble the genius architect one bit.","Вы сказали, что я потомок Бреогана, но любой, кто видел его записи, поймет, что я ни капли не похож на того гениального конструктора."
+line-100,乔迪,我的父母只是“土生土长”的阿戈尔人。在伊比利亚，在其他陆上国家，有很多这样的阿戈尔人，严格意义上，我们并不属于......,"My parents were just Ægirs 'rooted' to the land. There are plenty of us across Iberia and the other terrestrial countries. Strictly speaking, we don't even count as...","Мои родители были просто «коренными» айберийцами. В Иберии, в других наземных странах есть много таких абиссалов, но строго говоря, мы не принадлежим к..."
+line-102,乌尔比安,那又如何？,So what?,И что с того?
+line-104,乔迪,我、我曾经为此困惑过，但这段时间，我在慢慢学会让自己释怀，不去想这么多。,"It... it used to trouble me, but recently I've been learning to let myself get over it, to not think so hard about it.","Я... я когда-то был сбит с толку этим, но в последнее время учусь отпускать ситуацию и не думать об этом так много."
+line-105,乔迪,只是，您是第一个向我提起这件事的人，我还是想跟您确认，您为什么认为我......,"It's just, you were the first to ever mention that to me, so I wanted to be sure. Um, why did you think I was...","Просто вы первым заговорили об этом, и я все же хочу подтвердить, почему вы думаете, что я..."
+line-107,乌尔比安,的确，我猜错了，但我从不做毫无根据的猜测。,"True, I did miss the mark, but I never engage in baseless speculation.","Действительно, я мог ошибиться, но я никогда не делаю беспочвенных предположений."
+line-108,乌尔比安,你们之间并非毫无渊源。,There is more of a bond between you than you think.,Между вами есть связь.
+line-110,乔迪,渊源？,A bond?,Связь?
+line-112,乌尔比安,大静谧摧毁了伊比利亚。海岸上的明灯陷入沉默，怀疑与猜忌随之开始喧嚣。,"The Profound Silence ruined Iberia. The lighthouses fell dark along the coast, and doubt and suspicion grew in their shadow.","Великая Тишина уничтожила Иберию. Огни на побережье погасли, и с тех пор в воздухе царят подозрения и недоверие."
+line-113,乌尔比安,布雷奥甘不得不逃离自己亲手设计的辉煌。逃亡期间，他也曾在格兰法洛藏身，你父母留下的那些研究笔记毫无疑问与他有关。,Breogan was forced to flee the splendor he himself had designed. Gran Faro was one place he sheltered while on the run. The research notes your parents left you are undoubtedly connected to him.,"Бреоган был вынужден бежать из величия, которое сам же и создал. Во время бегства он скрывался в Гран-Фаро, и исследовательские заметки, оставленные твоими родителями, вне всякого сомнения, связаны с ним."
+line-114,乌尔比安,他们是布雷奥甘认定值得托付自己心血的人。,They were people he knew he could entrust his life's work to.,"Он считал их теми, кому можно доверить свое наследие."
+line-116,乌尔比安,看看你此刻在做的事情，年轻人，或许你并非布雷奥甘的后裔，但你无疑继承了他的某些智慧。,"Look at what you're doing now, young one. You may not be his descendant by blood, but you have most certainly inherited a portion of his wisdom.","Посмотри, что ты делаешь сейчас, парень. Возможно, ты не потомок Бреогана, но ты определенно унаследовал часть его мудрости."
+line-118,乔迪,我......,I...,Я...
+line-120,乌尔比安,弥利亚留姆，是你来到的第一座阿戈尔城市，而它恰巧是布雷奥甘离开阿戈尔前的最后一站。,"Milliarium is the first Ægirian city you visited and, coincidentally, the last Breogan stopped at before leaving the country entirely.","Мириллиум — это первый город абиссалов, куда ты прибыл, и по воле случая он был последней точкой в путешествии Бреогана перед тем, как он покинул глубины."
+line-121,乌尔比安,他沿着绵延的海床一路游历，他尝试向各地卓有声望的人物分享自己对陆地的推论，对未来泰拉局势的猜想。,"His trail covers the entire seabed, and everywhere he went he visited those of great repute to share his thoughts on dry land, his conjectures on Terra's future.","Он странствовал вдоль морского дна, пытаясь поделиться с влиятельными лицами в разных местах своими выводами о суше и прогнозами о будущем Терры."
+line-122,乌尔比安,他希望有人能够与他共同前往陆地，为将来海洋与陆地能够共抗危机寻找可能性。,"He had hoped someone would head for the continent with him, so that one day land and sea might stand against crisis together, seek new possibilities together.","Он надеялся, что кто-то согласится отправиться с ним на поверхность, чтобы найти способ предотвратить грядущий кризис."
+line-124,乌尔比安,很多人都欣赏他的才华，但或许是因为他的提议过于超前，最终回应他邀请的人寥寥无几。,"Many admired him for his talent, but perhaps his suggestions were too ahead of his time, for in the end hardly any responded to his invitation.","Многие восхищались его талантом, но его идеи были слишком прогрессивны, и почти никто не откликнулся на приглашение."
+line-126,乌尔比安,来到弥利亚留姆的时候，他主动参与了这座信标塔的工程重构，以此换取了与当时的执政官沟通的机会。,"In Milliarium, he even volunteered to take part in this tower's reconstruction, in exchange for an audience with the then consul.","Прибыв в Мириллиум, он добровольно участвовал в реконструкции башни, чтобы получить шанс договориться с местным правителем."
+line-128,乔迪,那这一次？,And?,А в этот раз?
+line-130,乌尔比安,毫无疑问，遭到了拒绝。,Do you need to ask? He was rejected.,"Без сомнений, получил отказ."
+line-132,乌尔比安,但在工程重构完成之时，他毅然决定结束自己漫长的游历，正式前往那遥远的土地......,"But as the work finished, he made the final decision to wrap up his winding tour and officially depart for the faraway soils.","Но как только реконструкция была завершена, он решительно прекратил свои долгие странствия и отправился на те далекие земли..."
+line-133,乌尔比安,尽管这一路以来，他几乎没有收获任何的支持。,Even if his time on the road had gained him practically no support.,Хотя на всем пути он не получил никакой поддержки.
+line-135,乔迪,......,...,......
+line-137,乌尔比安,再想想你过去做的事情，你离开了自己熟悉的小镇，来到素未谋面的所谓家乡，这同样需要莫大的勇气。,"Think over what you've done. You left the town you knew, and came to this alien place they call your home. That, too, took incredible courage.","Подумай о том, что делал ты: ты покинул знакомый городок и отправился на так называемую «родину», которую никогда не видел. Это тоже требует огромной храбрости."
+line-138,乌尔比安,在这方面，你与布雷奥甘不无相似之处。相反，如果你与他的联系仅存在于血缘层面，你才应该感到羞愧。,"In this respect, you and Breogan are not dissimilar. Conversely, if all you'd shared was just blood, then <i>that</i> would have been something to be ashamed of.","В этом ты похож на Бреогана. Наоборот, если бы твоя связь с ним ограничивалась лишь кровными узами, тебе следовало бы стыдиться."
+line-142,乌尔比安,我通常不负责心理疏导，乔迪·方塔纳罗萨。,"I do not usually play psychological counselor, Jordi Fontanarossa.","Обычно я не занимаюсь психологической поддержкой, Джоди Фонтанароза."
+line-144,乔迪,我想我其实......,"I think, really, I...","Думаю, на самом деле я..."
+line-146,乔迪,啊。,Ah.,А.
+line-147,乔迪,可以了。至少向一个信标发送讯号，应该没有问题——我看看，第三十七号巢穴......,"That did it. At the very least, signaling a single beacon shouldn't be an issue—let's see, Nest 37...","Получилось. По крайней мере, отправить сигнал на один маяк я должен суметь — дай-ка гляну, гнездо номер тридцать семь..."
+line-149,乔迪,希望劳伦缇娜小姐她们能够注意到信标的变化。,I hope Laurentina and her friends notice.,"Надеюсь, мисс Лаурентина и остальные заметят изменения в работе маяка."
+line-154,乔迪,对了，乌尔比安阁下。,"Actually, Señor Ulpianus.","Кстати, Ульпиан."
+line-155,乔迪,您觉不觉得，从刚刚开始，空气变得闷了起来？,"Is it just me, or is the air getting... stuffy?","Вам не кажется, что с недавних пор воздух стал каким-то спертым?"
+line-157,乌尔比安,......,...,......
+line-170,幽灵鲨,我的通讯设备检测到了微弱的引力波。能通过眼睛确认时空的荡漾，很奇妙。,"My comms just picked up a faint gravitational wave. What a strange feeling, seeing the ripples in spacetime with my own eyes.",Мои коммуникаторы зафиксировали слабые гравитационные волны. Удивительно — видеть глазом рябь пространства-времени.
+line-172,斯卡蒂,和手册上说的没有区别，看来信标已经激活了。,Just like in the manual. Seems the beacon's already active.,"Как и сказано в руководстве, похоже, маяк активирован."
+line-174,歌蕾蒂娅,按照克莱门莎的说法，这一处信标激活后，第Ⅳ级武器就会自动开始运作。,"According to Clementia, this beacon going live should mean the Class IV weapon array will automatically come online.","Согласно словам Клеменции, после активации этого маяка оружие IV уровня заработает автоматически."
+line-175,歌蕾蒂娅,我们应当立刻原路返回。,"We should head back the way we came, immediately.",Нам следует немедленно вернуться назад.
+line-177,幽灵鲨,剑鱼，我还以为我们会留下来，坐在第一排欣赏它们的谢幕演出呢！,"Aw, and here I was thinking we'd stay behind and enjoy our front-row seats!","Меч-рыба, а я-то думала, мы останемся в первом ряду, чтобы насладиться их прощальным выступлением!"
+line-179,斯卡蒂,无非是炮火轰来轰去，有什么好看的。,What's so fun about watching cannons fire?,"Просто пушки стреляют туда-сюда, что в этом красивого?"
+line-181,幽灵鲨,这次应该不会是那种动静了吧？,Oh? Weren't we supposed to have something rather different in store?,"В этот раз, должно быть, все будет иначе?"
+line-182,幽灵鲨,整片海域的海嗣无声无息地迎接一场“凋亡”，很诗意，很配这帮畜生的罪孽，不是吗？,"I thought we'd see the Seaborn silently 'popping' all at once across the entire stretch. How poetic, how fitting, when you consider all the little bastards' wrongs, no?","Все морские чудовища в округе безмолвно встретят свое «угасание». Очень поэтично, самое то для грехов этой твари, не находишь?"
+line-184,歌蕾蒂娅,第Ⅳ级武器虽然不会对我们产生影响，但无谓的逗留只会徒增变数。,"Though Class IV weaponry may not affect us, pointless dithering will only invite more variables.","Оружие IV уровня не причинит нам вреда, но бесцельная задержка лишь добавит непредвиденных осложнений."
+line-186,幽灵鲨,唔，好吧，走了。,"Hrmph, fine. Off we go, then.","М-м, ладно, пошли."
+line-193,？？？,（欢快地旋转液泡）,(Vacuole merrily whirls),(Весело крутит пузырьками жидкости)
+line-214,,温柔的呢喃在幽灵鲨的耳边响起，她回头，对上一只眼睛，准确说，一个跃动的“核”。,"A soft murmur reaches Specter's ear, and when she turns to look, she meets with an eye. More accurately, a 'nucleus' leaping to and fro.","Нежный шепот раздался у самого уха Спектр. Она обернулась и встретилась взглядом с глазом, точнее, с пульсирующим «ядром»."
+line-215,,海嗣细腻的鞭毛黏上了她的脸颊，轻柔得如同亲吻。幽灵鲨清楚地看见核在律动，与自己的心跳几乎同频。,"The flagella of the Seaborn sticks to her cheek, soft as a kiss. Specter sees the nucleus pulsing in a clear rhythm, blending with her own heartbeat.","Тонкие жгутики морского чудовища коснулись её щеки, нежно, как поцелуй. Спектр отчетливо видела, как ядро пульсирует, почти в такт её собственному сердцебиению."
+line-218,幽灵鲨,——！,—!,——!
+line-219,斯卡蒂,鲨鱼！,Shark!,Акула!
+line-220,歌蕾蒂娅,先不要攻击，斯卡蒂。,"Don't attack yet, Skadi.","Не атакуй, Скрати."
+line-234,斯卡蒂,它就这样直接越过了我们？,It went straight past us?,Оно просто пролетело мимо нас?
+line-236,幽灵鲨,看起来不是我们惊动了它，它像是被什么东西吸引了。,Doesn't strike me that we spooked it. More like something pulled it away.,"Похоже, не мы его потревожили. Оно было чем-то привлечено."
+line-238,歌蕾蒂娅,......,...,......
+line-240,歌蕾蒂娅,信标！,The beacon!,Маяк!
+line-250,斯卡蒂,二队长？,Captain?,Второй капитан?
+line-251,斯卡蒂,这玩意发出的引力波，不该突然变得这么不规律吧？,"The gravitational waves coming from this thing aren't supposed to be so irregular, are they?","Гравитационные волны от этой штуки не должны становиться такими нерегулярными, верно?"
+line-253,歌蕾蒂娅,......,...,......
+line-256,歌蕾蒂娅,斯卡蒂，小心身后！,"Skadi, behind you!","Скрати, осторожно сзади!"
+line-271,斯卡蒂,滚开！,Move!,Прочь!
+line-280,海嗣,（兴奋地旋转液泡）,(Vacuole merrily whirls),(Взволнованно крутит пузырьками жидкости)
+line-291,海嗣,（愉悦地鼓动柔软的膜）,(Soft membrane cheerily stirs),(Радостно пульсирует мягкой мембраной)
+line-295,海嗣,（激动地扇动多褶的皮）,(Creased skin excitedly shudders),(Возбужденно хлопает складчатой кожей)
+line-304,,海流倒涌。,The currents reverse.,Морские течения хлынули обратно.
+line-305,,裹挟着海嗣群的浪潮涌回巢穴，膜翼震颤的声音、褶皱舒展的声音、口器鼓噪的声音、水流呼啸的声音......,"The tide sweeping the Seaborn surges back into the nest. The sound of beating membranous wings, of compressing and unfolding, of clamoring mouthparts, of roaring streams...","Волны, несущие стаи морских чудовищ, устремились к гнезду. Звук дрожащих мембран, разглаживающихся складок, гулких пастей и рев воды..."
+line-306,,整个空间都回荡着层层叠叠的鸣响——欢欣鼓舞！,The whole space reverberates with layer upon layer of cries—of pure elation!,Все пространство заполнилось наслоениями звуков — ликование!
+line-311,斯卡蒂,信标已经完全被覆盖住了。,The beacon's been completely drowned out.,Маяк полностью покрыт ими.
+line-312,斯卡蒂,那些卵和幼体在以肉眼可见的速度增殖！,The eggs and newborns are multiplying rapidly!,Эти яйца и личинки размножаются с невероятной скоростью!
+line-314,幽灵鲨,按照克莱门莎的说法，所有没有成形的幼体会直接凋亡，成熟的个体会逃离这片海域。,"Clementia said all formless newborns would enter straight into necrosis, and the mature individuals would flee from the area.","Согласно Клеменции, все несформировавшиеся личинки должны были погибнуть, а зрелые особи — покинуть этот регион."
+line-315,幽灵鲨,而菌毯、植物......整个巢穴会从环境本身开始衰败。,"While the fungal mat, the vegetation... the whole nest would decay, starting from the environment.","А грибница, растения... всё гнездо должно было начать разрушаться."
+line-317,幽灵鲨,但显然，我们眼前的景象，很难称得上是“群体性的凋亡”，对吧？,"But clearly we're not seeing much of a 'collective necrosis' here, are we?","Но, очевидно, то, что мы видим перед собой, едва ли можно назвать «массовым угасанием», верно?"
+line-318,幽灵鲨,应该说，它们——很有活力！,"If anything, I'd say they're full of life!","Скорее, они — полны жизни!"
+line-321,歌蕾蒂娅,离开这里！,Pull back!,Уходим отсюда!
+line-330,,歌蕾蒂娅在话音结束的瞬间转身，长槊贯穿她身前的海嗣，组织碎片如血液般绽开。,"Gladiia turns the instant she barks the order, her lance piercing the Seaborn ahead as ruptured tissues bursts about like blood.","В тот момент, когда Гладия закончила фразу, она развернулась, пронзив копьем морское чудовище перед собой, и фрагменты его ткани брызнули, словно кровь."
+line-333,幽灵鲨,......,...,......
+line-334,幽灵鲨,从刚刚和那只该死的畜生脸贴脸开始，我就觉得有一股睡意......,"Ever since that little bastard touched my face, I've been feeling sleepy, somehow...","С того момента, как я оказалась лицом к лицу с этой проклятой тварью, на меня навалилась сонливость..."
+line-335,幽灵鲨,真是奇怪，很久没有过这种感觉了......,How very strange. It's been so long since I felt this way...,"Странно, давно я не чувствовала ничего подобного..."
+line-337,斯卡蒂,呃，我还以为是我的错觉。,"Ugh, I thought it was just me.","Эх, а я-то думала, что мне показалось."
+line-339,歌蕾蒂娅,不应该......,This shouldn't be...,Этого не должно быть...
+line-340,歌蕾蒂娅,战斗只会让深海猎人更加清醒。,Combat only sharpens an Abyssal Hunter's lucidity.,Битва должна лишь обострять чувства Охотников на морских чудовищ.
+line-344,歌蕾蒂娅,布兰都斯？,Blandus?,Брандус?
+line-346,幽灵鲨,你是说自适应接点手术？,You mean the auto-adaptive junction surgery?,Ты имеешь в виду операцию по адаптивному сопряжению?
+line-348,歌蕾蒂娅,我们发现了异常，布兰都斯确实做了处理，但他依然在手术中动了其他手脚。,"We discovered an anomaly, and Blandus certainly treated us, but he also tampered with the procedure.","Мы обнаружили аномалии, и Брандус действительно провел корректировку, но он всё равно внес свои правки в ход операции."
+line-349,歌蕾蒂娅,但无论是刻意为之还是巧合，当时深海教会的袭击让我们打消了对他的怀疑。,"Yet whether coincidence or not, the Church's attack cleared our suspicions of him.","Но был ли это умысел или случайность, атака Церкви Бездны тогда заставила нас отбросить подозрения в его адрес."
+line-350,歌蕾蒂娅,......我的失职。,...This was my mistake.,......Моя профессиональная ошибка.
+line-352,斯卡蒂,可是，顾问他，为什么？,"But, he's the Advisor. Why would he?",Но... почему советник поступил так?
+line-368,歌蕾蒂娅,要想得到答案，我们必须回到城市。,"If we want answers, we must make it back to the city.","Чтобы получить ответы, мы должны вернуться в город."
+line-374,幽灵鲨,......,...,......
+line-394,,幽灵鲨跃步上前，她的舞步依然优雅，只是一次旋转，高速转动的圆锯已经将面前的海嗣切割成两半。,"Specter skips ahead at the vanguard, her dance as graceful as ever. With but a twirl, a high-RPM sawblade leaves the Seaborn ahead carved in two.","Спектр рванула вперед. Её движения все еще были элегантны — один лишь поворот, и высокоскоростная дисковая пила разрезала преградившее путь морское чудовище пополам."
+line-401,海嗣,（兴奋地鼓胀液泡）,(Vacuole excitedly swells),(Возбужденно раздувает пузырьки)
+line-404,歌蕾蒂娅,这帮畜生已经发现了我们，却始终没有展现出强烈的攻击意愿。,"The beasts have noticed us, and yet show hardly any will to attack.","Эти твари заметили нас, но все еще не проявляют ярко выраженного желания атаковать."
+line-406,斯卡蒂,二队长，鲨鱼，你们觉不觉得，从刚刚开始，海水的流速变慢了？,"Captain, Shark, have you noticed the water flowing... slower?","Второй капитан, Акула, вам не кажется, что с недавних пор скорость морского течения стала падать?"
+line-408,幽灵鲨,保持清醒，斯卡蒂。,"Get a hold of yourself, Skadi.","Сохраняй бдительность, Скрати."
+line-410,歌蕾蒂娅,不对，斯卡蒂的感觉没有错。,"No, wait. She's right.","Нет, Скрати не ошиблась."
+line-412,幽灵鲨,......,...,......
+line-414,歌蕾蒂娅,......,...,......
+line-415,歌蕾蒂娅,这帮畜生在忙着结壳。,These animals are secreting something.,Эти твари заняты формированием панциря.
+line-422,,终于，一波海流退去，巢穴短暂露出了它变化的真相。,"Finally, the tide receding, the nest temporarily bares the truth of its transformation.","Наконец, очередное течение отступило, и гнездо на мгновение обнажило правду о своих изменениях."
+line-423,,活着的，死去的，海嗣落进海床上的每一处沟壑，巢穴的边界开始泛白，几丁质结成厚重的壳。,"Seaborn living and dead fall into every ravine in the seabed. The nest's borders have begun to bleach, chitin coming together into a thick crust.","Живые и мертвые, морские чудовища заполнили каждую впадину на морском дне. Границы гнезда побелели, и хитин начал образовывать тяжелый панцирь."
+line-425,歌蕾蒂娅,有什么为它们提供了巨量的营养，整个巢穴都在结壳，促使其中的所有生命体加速进化。,"Something has provided them immense nutrition. The whole nest is forming a carapace, and spurring every life within to evolve faster.","Что-то обеспечило их колоссальным количеством питательных веществ. Все гнездо покрывается панцирем, заставляя все живые организмы в нем ускоренно эволюционировать."
+line-426,歌蕾蒂娅,“壳衣”——如果说伊比利亚人口中的溟痕是一种生物扩张的形式，壳衣则是扩张前的最后蓄力。,"A 'shell.' If we take the Iberian's so-called 'nethersea brand' as the roadmap for the organisms' expansion, then this shell is the final act of fuelling before it begins.","«Панцирная ткань» — если иберийцы называют морской след формой биологической экспансии, то панцирная ткань — это финальный рывок перед расширением."
+line-428,幽灵鲨,......,...,......
+line-430,斯卡蒂,......,...,......
+line-432,歌蕾蒂娅,信标毫无征兆地发出不规律的引力波，海嗣紧接着开始癫狂地围绕信标筑巢......,"Without warning, the beacon pulsed irregular gravitational waves. Right afterward, the Seaborn swarm began to nest around it...","Маяк начал посылать нерегулярные гравитационные волны без всяких причин, и морские чудовища следом начали безумно строить гнезда вокруг него..."
+line-433,歌蕾蒂娅,要么是武器本身发生了不可知的异变，要么是城市里有人在尝试远程操作信标，向此处传递信息——又或者，二者皆有。,"Either this is some elusive aberration in the weapons themselves, or someone in the city is trying to remotely control the beacon to transmit information. Or possibly both.","Либо оружие претерпело непредвиденную мутацию, либо кто-то в городе пытается дистанционно управлять маяком, передавая сюда информацию — или же и то, и другое."
+line-434,歌蕾蒂娅,布兰都斯在手术中动的手脚让我们的敏锐度降低了。,Whatever Blandus did to us during surgery has dulled our senses.,"То, что Брандус провернул во время операции, притупило наши чувства."
+line-435,歌蕾蒂娅,就当是狩猎吧，速战速决，离开这里！,Consider the hunt on! Time is of the essence! Get out of here!,Будем считать это охотой. Быстро закончим дело и уйдем отсюда!
+line-457,乔迪,呼，咳——,"*pant*, *cough*—","Фух, кхе..."
+line-459,乌尔比安,你的脸涨得通红，衣服也湿透了。,"Your cheeks are flushed, and your clothes soaked through with sweat.","Твое лицо покраснело, а одежда промокла насквозь."
+line-461,乔迪,我、我没有紧张！,I-I'm not nervous!,Я... я не нервничаю!
+line-463,乌尔比安,不。,No.,Нет.
+line-464,乌尔比安,你习惯了干燥的陆地，对潮湿环境的感知要比普通的阿戈尔人更敏感。,"You're accustomed to dry, arid land. You're more sensitive to dampness than an average Ægir.","Ты привык к сухой земле, поэтому воспринимаешь влажную среду гораздо острее, чем обычные абиссалы."
+line-465,乌尔比安,是空气湿度不对劲。,The humidity is wracking you.,Дело в неправильной влажности воздуха.
+line-476,乔迪,这是......,Hold on...,Это же...
+line-478,乔迪,乌尔比安阁下，快看、快看海图上！,"Look, look at the chart!","Ульпиан, быстро посмотрите на морскую карту!"
+line-479,乔迪,密集的生物信号......就，就来自我们头顶？,Densely packed bio-signatures... from—from right above us?,"Плотные биологические сигналы... они, они прямо у нас над головой?"
+line-481,乌尔比安,......,...,......
+line-482,乌尔比安,是信标塔上方的穹顶......海嗣正从那里渗入这座城市。,It's the dome above the tower... The Seaborn are seeping into the city through there.,Это купол над маяковой башней... Морские чудовища проникают в город оттуда.
+line-484,乔迪,不对，不是说两支军团正在海洋里和海嗣进行对抗吗，还有猎人们......,"No, but weren't there two Legions out there keeping them at bay? Plus the Hunters...",Не может быть. Разве две армии сейчас не противостоят им в океане? А еще охотники...
+line-485,乔迪,就算、就算来自其他巢穴的海嗣绕过了防线，弥利亚留姆的穹顶上也还有无数的监测单元，还有那么多复杂的防御工事......,"Even, even if some from other nests slipped around the perimeter, Milliarium still has countless sensor units across the dome, and all sorts of complex defenses...","Даже если... даже если морские чудовища из других гнезд обошли линию фронта, на куполе Мириллиума есть несчетное количество мониторов и огромное число сложных оборонительных сооружений..."
+line-486,乔迪,海嗣为什么可以悄无声息地进入城市？,How could the Seaborn get into the city without a sound?,Почему морские чудовища смогли войти в город без звука?
+line-487,乔迪,这座塔吸引了它们？,Did this tower draw them in?,Их привлекла эта башня?
+line-491,乔迪,咳咳，呼——为什么？,"*cough* *cough*, *pant*—But why?","Кхе-кхе, фух... почему?"
+line-493,乌尔比安,......,...,......
+line-494,乌尔比安,我想，是有人给它们指明了道路。,"My guess is, someone showed them the path.","Полагаю, кто-то указал им путь."
+line-496,乌尔比安,布兰都斯，你是否知晓自己的愚行会酿成这样的恶果？,"Blandus, had it ever dawned on you that your folly would lead to such disaster?","Брандус, ты хоть осознаешь, к каким ужасным последствиям привела твоя глупость?"
+line-499,,乌尔比安若有所思。,Ulpianus is pensive.,Ульпиан погрузился в свои мысли.
+line-500,,他没有回头去看躺在地上的元凶，他紧紧盯着面前的全息海图，象征着海嗣集群的光点此刻正在弥利亚留姆的坐标上汇聚。,"He does not turn to look at the culprit of all this, lying motionless on the floor. He stares closely at the holographic sea chart. Dots representing the Seaborn swarm converge right on Milliarium's coordinates.","Он не обернулся, чтобы взглянуть на лежащего на полу виновника, он пристально смотрел на голографическую карту перед собой, где световые точки, символизирующие стаи морских чудовищ, сходились в координатах Мириллиума."
+line-501,,它们亮如星辰。,They shine like the stars.,"Они сияли, словно звезды."
