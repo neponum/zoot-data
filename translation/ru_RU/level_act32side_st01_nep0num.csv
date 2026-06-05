@@ -1,0 +1,240 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act32side
+__chapter__,,Chapter Name,activities/act32side/level_act32side_st01,特别参观通道
+,,,,
+char-1,艾拉,艾拉,Ela,Эла
+char-2,医生,医生,Doc,Доктор
+char-3,双月,双月,Iana,Двойная Луна
+char-4,导火索,导火索,Fuze,Запал
+char-5,痛苦的军人,痛苦的军人,Grumbling Soldier,Мучающийся солдат
+char-6,带队的军官,带队的军官,Commanding Officer,Командир группы
+char-7,懈怠的军人,懈怠的军人,Tired Soldier,Ленивый солдат
+char-8,雷内尔,雷内尔,Reynell,Рейнель
+char-9,米沃什,米沃什,Miłosz,Мивош
+char-10,米沃什&雷内尔,米沃什&雷内尔,Miłosz & Reynell,Мивош & Рейнель
+char-11,疑惑的军人,疑惑的军人,Bewildered Soldier,Озадаченный солдат
+char-12,机警的军人,机警的军人,Alert Soldier,Бдительный солдат
+char-13,油滑的军人,油滑的军人,Slick Soldier,Скользкий солдат
+char-14,打扮夸张的杜林人,打扮夸张的杜林人,Strangely-Dressed Durin,Дурин с причудливым видом
+char-15,艺术馆保安,艺术馆保安,Galería Security,Охранник художественной галереи
+,,,,
+line-16,艾拉,我们已进入磁山二号，重复一遍，我们已进入磁山二号。,"We've arrived at Magnethill No. 2. Repeat, we've arrived at Magnethill No. 2.","Мы вошли в Магнитную гору-2, повторяю, мы вошли в Магнитную гору-2."
+line-17,艾拉,医生，你和导火索那边情况如何？,"Doc, how are things over on your side?","Доктор, как дела у тебя и «Запала»?"
+line-19,医生,已确认外围安全。,Exterior clear.,Периметр безопасности подтвержден.
+line-20,医生,考虑到磁山二号实验室的特殊性，我建议从现在开始会合，一起行动。,"Considering the unique properties of Magnethill No. 2, I suggest we meet up.","Учитывая специфику лаборатории на Магнитной горе-2, предлагаю встретиться и действовать вместе с этого момента."
+line-22,艾拉,好。,Agreed.,Хорошо.
+line-23,艾拉,双月，报告一下无人机侦察结果。,"Drone recon report, Iana.","Двойная Луна, доложи о результатах разведки с дрона."
+line-25,双月,和我们上次撤离时几乎没有差别，仪表读数相差无几，设施内部也没有发现其他人活动。,"Almost no different from the way we left it. Readings are virtually the same, and there is no sign of activity from any other party.","Почти нет никакой разницы по сравнению с тем, как мы эвакуировались в прошлый раз, показания приборов почти такие же, внутри объекта никакой активности не обнаружено."
+line-27,双月,看来我们上次离开之后，磁山二号的封锁做得很彻底。,Looks like the quarantine on Magnethill No. 2 has been pretty well enforced.,"Похоже, после нашего последнего ухода Магнитную гору-2 заблокировали крайне тщательно."
+line-29,艾拉,也就是说，根本没人。,"Which is to say, there's nobody here.","Значит, там никого нет."
+line-30,艾拉,我们的任务是来寻找失踪的灰烬小队，没人算不上好消息。,"And that's not good news, because we're here to look for the missing Ash squad.","Наша задача — найти пропавший отряд «Пепел», и то, что там никого нет, — не самая лучшая новость."
+line-32,艾拉,注意警戒，会合后我们直接往列维的主实验室原址前进。,Keep your eyes open. We'll proceed to Levi's main lab once we rendezvous.,"Сохраняйте бдительность, после встречи мы направимся прямо к первоначальному месту расположения главной лаборатории Леви."
+line-45,艾拉,我们到了。,Here we are.,Мы на месте.
+line-53,医生,你确定？,Are you sure?,Ты уверена?
+line-57,艾拉,没错，按照地图，这里就是列维的主实验室应该在的地方。,"This is where Levi's main lab was, according to the map.","Да, согласно карте, это место, где должна была находиться главная лаборатория Леви."
+line-59,双月,当时我们只比科恩他们晚了一步，先是感到一阵震动，然后......,"We were only one step behind Cohen. There were tremors, then...","Мы прибыли всего на шаг позже Коэна и остальных, сначала почувствовали дрожь, а потом..."
+line-60,双月,不知道是列维那个疯子干的还是仪器本身出了问题，总之，整个主实验室凭空消失了。,"I don't know if it was that madman Levi, or something wrong with the equipment, but the whole lab disappeared into thin air.","Не знаю, сделал ли это сумасшедший Леви или произошла неполадка с самим оборудованием, но вся главная лаборатория исчезла в никуда."
+line-63,医生,确定是“凭空消失”？,Into thin air? Are you sure?,"Уверена, что она «исчезла в никуда»?"
+line-66,双月,结合当时的情况和专家的意见，这是最合理的解释。,"I'd say that in my expert opinion, it's the most fitting description of the events.","Если учитывать обстоятельства того времени и мнение экспертов, это самое разумное объяснение."
+line-69,医生,但这太不现实了。,That just doesn't seem possible.,Но это же совершенно нереально.
+line-71,导火索,没有哪种现实中的爆炸能完全抹除一座实验室的所有痕迹，留下巨大的空洞，外面的人却只觉得震了两下。,"No explosion can wipe out all evidence that a lab ever existed. It wouldn't have left a big hole like this, sending only a few tremors through those outside.","Не существует взрыва в реальности, способного полностью стереть все следы лаборатории, оставив огромную пустоту, при том что люди снаружи почувствовали лишь парочку толчков."
+line-80,医生,地震？还是你们说的......？,Earthquake? Or is it like you said...,"Землетрясение? Или то, о чем вы говорили...?"
+line-82,双月,不，不是地震！,It's not an earthquake!,"Нет, это не землетрясение!"
+line-84,艾拉,震动极有可能与失踪事件相关！,The tremors might well be linked to the disappearance.,Дрожь очень вероятно связана с инцидентом исчезновения!
+line-85,艾拉,各位，原地寻找掩体，等待震动平息！,Find cover and wait for the tremors to pass!,Всем занять укрытие на месте и дождаться прекращения тряски!
+line-103,痛苦的军人,队长，请问艺术馆到底有多少层？我腿都要走折了。,How many floors are there? My legs are starting to scream.,"Капитан, сколько же этажей в художественной галерее? У меня ноги скоро отвалятся."
+line-105,带队的军官,呼......反正往上爬，爬到顶楼就对了，雷内尔就在那儿。,"Keep going up, we need to reach the Reynell's penthouse.","Фух... В общем, поднимайтесь наверх, доберетесь до последнего этажа — Рейнель там."
+line-107,痛苦的军人,我们就不能坐电梯吗？为什么要在这里一圈一圈地爬楼梯？,Can't we take the elevator? Why do we have to climb these stairs floor by floor?,Мы не могли поехать на лифте? Зачем здесь кругами подниматься по лестнице?
+line-109,带队的军官,你以为我不想吗？,You think I don't want to?,"Думаешь, я сам не хотел?"
+line-110,带队的军官,出发前我们摸清了这里的安保布置。,Recon report on the security here indicates that the penthouse is only accessible by these stairs and his own private elevator.,Перед выходом мы разведали план охраны здесь.
+line-111,带队的军官,那家伙狡猾得很，建筑内只有这部楼梯和一部他自己用的电梯可以通到顶楼，每层电梯口都有人把守。,There are guards posted by the elevator on every floor.,"Этот тип хитрый, в здании есть только эта лестница и лифт, которым он сам пользуется, чтобы подняться на последний этаж, и на каждом этаже у выхода к лифту стоит охрана."
+line-112,带队的军官,楼梯是防守最为薄弱的一环，我们只能从这里突破。,"Security is weakest on the stairs, that's where we break through.","Лестница — самое слабозащищенное место, мы можем прорваться только отсюда."
+line-114,痛苦的军人,他不就是个来这儿捞钱的卡西米尔人吗？身后连个撑腰的人都没有，不过是强迫他签份转让协议，我们何苦做得这么谨慎？,"Guy's just a Kazimierzian who came to make some money, isn't he? It's not like he has anybody backing him up. Why do we have to be so careful just to get him to sign a transfer agreement?","Разве он не просто казимирец, приехавший сюда заработать? У него за спиной даже никого нет, кто мог бы его прикрыть, зачем нам быть такими осторожными, чтобы просто заставить его подписать договор о передаче?"
+line-116,带队的军官,呵，这个地方有钱撑腰还不够吗？,He has money. That's all the backing he needs.,"Ха, разве денег недостаточно, чтобы иметь поддержку в этом месте?"
+line-117,带队的军官,楼下那个，快走两步，别东张西望的了！,Keep moving. Quit looking around!,"Ты, внизу, поторопись, не глазей по сторонам!"
+line-119,懈怠的军人,队长，真走不动了......我宁愿坐电梯去和他的保安拼刀拼弩。,"I'm completely spent, boss... I'd rather take the lift and fight my way through.","Капитан, правда, больше не могу идти... Я лучше поеду на лифте и сражусь с его охраной на мечах и арбалетах."
+line-121,带队的军官,嘘......,Shh...,Тс-с...
+line-123,懈怠的军人,队长......？,Captain?,Капитан...?
+line-125,带队的军官,（小声）我们马上就到那家伙办公室了！脚步放轻......,(Whisper) We've almost reached the office! Quiet down..,(Шепотом) Мы сейчас доберемся до офиса этого типа! Тише шаги...
+line-145,雷内尔,信？米沃什，我记得前几天跟你说过了，寄给我的信你直接看就好，不必来问我。,"A letter? I told you, you can open those on your own. No need to ask me.","Письмо? Мивош, я, кажется, говорил тебе несколько дней назад, что если приходят письма на мое имя, ты можешь просто сам их читать, не нужно спрашивать меня."
+line-147,米沃什,可这上面写的是“望您亲启”哦，雷内尔。,"It says for your eyes only, Reynell.","Но здесь написано «лично в руки», Рейнель."
+line-149,雷内尔,信是从哪寄来的？,Where is it from?,Откуда письмо?
+line-151,米沃什,这一封是从卡西米尔......好像是你叔叔的。,Kazimierz... looks like it's from your uncle.,"Это из Казимира... кажется, от твоего дяди."
+line-153,雷内尔,哦，知道了，是来要遗产的。,"Ah, the usual inheritance demand.","А, понятно, приехал за наследством."
+line-155,米沃什,还有一封......来自多索雷斯市政府。,Also... one from the Dossoles municipal government.,Еще одно... от городской администрации Доссолеса.
+line-157,雷内尔,同一个城区发信件给我？看来里面讲的事也不怎么要紧，八成又是无聊的宴会邀请函。,A letter from the city? Probably nothing important. Should be another stupid banquet invitation.,"Письмо из того же города? Похоже, дело не такое уж срочное, скорее всего, очередное скучное приглашение на банкет."
+line-159,米沃什,说不定坎黛拉也会去，我们可以和她聊聊开幕式的事情。艺术馆已经竣工，开幕式就在不久后，你在上面花费了许多心血......,"Maybe Candela will be there. We could discuss the opening ceremony with her. It's not far off, after all, and you've spent so much time and effort on it...","Может быть, Кандела тоже пойдет, мы могли бы поговорить с ней об открытии. Художественная галерея уже построена, открытие состоится совсем скоро, и ты вложил в него столько сил..."
+line-160,米沃什,我希望它能足够震撼。,It's probably going to be spectacular.,"Надеюсь, оно произведет впечатление."
+line-162,雷内尔,过来，米沃什，和我站在一起。,"Come, stand with me, Miłosz.","Подойди, Мивош, встань рядом со мной."
+line-167,,男人走上前去，站到和红发沃尔珀肩并肩的位置上。,The man walks up and stands by the red-haired Vulpo's side.,Мужчина подошел и встал плечом к плечу с рыжим вульпо.
+line-168,,二人一同端详起房间深处大概两人高的艺术作品。,"They admire the artwork at the end of the room, about the height of two persons.",Двое вместе разглядывали произведение искусства высотой почти в два человека в глубине комнаты.
+line-174,雷内尔,米沃什，你觉得我将这件作品命名为“秩序的崩塌”怎么样？,I'm naming it 'The Fall of Order'. What do you think?,"Мивош, как думаешь, если я назову это произведение «Крах порядка»?"
+line-176,米沃什,呃......挺好的，你打算放在开幕式？,Er... sure. You want to show it at the opening?,"Э-э... неплохо, собираешься представить его на открытии?"
+line-178,雷内尔,我们一向有话直说，不是吗？,"We've always been straight with each other, haven't we?","Мы же всегда говорим прямо, не так ли?"
+line-180,米沃什,......那个扭曲的弧线代表的是“崩塌”吗？,Is that twisted curve intended to represent the 'fall'?,...Та изогнутая линия представляет «крах»?
+line-182,雷内尔,不，那代表了整个社会对人的一瞥。,"No, it represents the fleeting gaze of society on man.","Нет, она представляет собой взгляд всего общества на человека."
+line-183,雷内尔,一种带着强烈规训意味的、将一切不合规者审判为疯狂的凝视，一种只有在大静谧发生之后的伊比利亚才能诞生的画作里的线条。,A dogmatic gaze that considers all that does not conform to be madness. Lines that can only emerge from a post-Profound Silence Iberia.,"Взгляд, наполненный сильным дисциплинарным оттенком, который клеймит безумием всех, кто не вписывается, линии на картине, которые могли родиться только в Иберии после Великого Молчания."
+line-185,米沃什,嗯......伊比利亚审判庭，确实，秩序的象征。,The Iberian Inquisition. Certainly a symbol of order.,"Хм... Инквизиция Иберии, конечно, символ порядка."
+line-187,雷内尔,......,...,...
+line-189,米沃什,那右边......形状难以形容的角锥，代表的难道是莱塔尼亚的尖塔？,On the right... does that indescribable cone represent the spires of Leithanien?,"А справа... эта пирамида неописуемой формы, не представляет ли она шпили Летани?"
+line-191,雷内尔,不，你想想萨尔贡千年的风沙，王酋、帕夏、黄金之城......对异域的想象同样是一种内在秩序的建构。,"No. Imagine Sargon and its millennia of wind and sand, the lords ameer, the Padishah, the golden city... fantasizing the exotic is also a construct of internal order.","Нет, вспомни тысячелетние ветры Саргона, королей-вождей, пашей, золотые города... воображение об экзотических местах — это тоже своего рода построение внутреннего порядка."
+line-193,雷内尔,那是一种行将就木的想象力，起先还保持着一定的宽度，可最后除了陈词滥调之外一无所有。,"The last gasp of imagination, once broad, now left with nothing but cliche.","Это разновидность угасающего воображения, поначалу сохраняющего некоторую широту, но в конце не остается ничего, кроме клише."
+line-195,米沃什,哦......没错，很有道理。,"Yes... Right, that makes sense.","О... верно, очень разумно."
+line-197,雷内尔,其实......刚刚那些话都是我胡诌的。,I pulled all of that directly out of my behind.,"На самом деле... все, что я только что сказал — просто чепуха."
+line-199,米沃什,呃......,Er...,Э-э...
+line-200,米沃什,......毕竟你的艺术总是那么特立独行，从材质到表达都是。,"Your artistic style has always been unique, from medium to expression.","...В конце концов, твое искусство всегда такое своеобразное, от материалов до выражения."
+line-201,米沃什,这玩意儿你是用多少高尔夫球搭的？一千颗？两千颗？,How many golf balls did it take? A thousand? Two thousand?,Из скольких мячей для гольфа ты собрал эту штуку? Тысяча? Две тысячи?
+line-203,雷内尔,那不重要，我们需要关注的只有最后一颗。怎么样，要不要帮我放上去，完成这件作品？,"That's not important. What's important is the last one. Would you do me a favor and put the finishing touch on it, by placing this one on top?","Это неважно, нам нужно сосредоточиться только на последнем. Ну что, поможешь мне его положить и закончить произведение?"
+line-205,米沃什,哦，放上去会发生什么？,What would happen?,"О, и что произойдет, если я его положу?"
+line-207,雷内尔,这件作品会完成，也会在完成的那一刻——,"It will be completed, and at that moment—","Произведение будет закончено, и в тот же момент, когда это произойдет —"
+line-213,,男人还没来得及把话讲完，便看到办公室门缝下走动的阴影。,He sees shadows flash past the bottom gap of the office door.,"Мужчина не успел договорить, как увидел тень, проходящую под щелью офисной двери."
+line-218,,不等他反应，那道门便被人踹开，连带着整个房间都轻微晃动，令他面前本就岌岌可危的雕塑坍塌了一半，高尔夫球散落一地。,"The door is kicked open before he could react. The whole room trembles, causing the teetering sculpture before him to collapse, sending golf balls flying everywhere.","Не успел он среагировать, как дверь выбили, из-за чего вся комната слегка затряслась, а шаткая скульптура перед ним наполовину обрушилась, мячи для гольфа разлетелись повсюду."
+line-222,米沃什,......崩塌？,...'The Fall'?,...Крах?
+line-232,带队的军官,雷内尔，还有那个小秘书，抱头蹲下，别想乱动。,"Reynell and you, secretary over there. Hands on your heads and get down. No sudden moves.","Рейнель, и ты, маленький секретарь, на пол, руки за голову, и не вздумайте дергаться."
+line-237,米沃什,什么人？,Who are you?,Кто вы такие?
+line-243,带队的军官,我们是什么人不重要，你和你老板得跟我们走一趟，否则别怪我们不客气。,"Doesn't matter. You and your boss are going to come quietly, if you know what's good for you.","Кто мы такие — неважно, вы со своим боссом должны проследовать с нами, иначе не обессудьте."
+line-248,,似乎有什么东西在快速接近天花板。,Something is approaching rapidly from above.,Что-то быстро приближалось к потолку.
+line-249,,管他呢，大概是什么巨大的羽兽吧，带队的军官想着，举起手里的弩，隔着半座高尔夫球雕塑对准了雷内尔——,"Must be a particularly big fowlbeast, the officer thought. He pays no heed to it and points his crossbow at Reynell, the half-collapsed golf ball sculpture standing between them.","Плевать, наверное, какая-нибудь огромная птица, подумал командир группы, подняв арбалет и прицелившись в Рейнеля через остатки скульптуры из мячей для гольфа —"
+line-253,,然后，他听见，就在“硕果仅存”的雕塑正上方，天花板上传来一声巨响。,"Then, he hears a loud noise from the ceiling, right above what remains of the sculpture.","А затем, прямо над «чудом уцелевшей» скульптурой, он услышал громкий удар по потолку."
+line-257,,接着又是一声。,Then another.,Затем еще один.
+line-265,,这次，伴着板材被砸穿的巨响，天花板上出现一个大洞。,"This time, a large hole appears in the ceiling, along with the sound of broken planks.","На этот раз, под грохот пробиваемого покрытия, в потолке появилась огромная дыра."
+line-266,,穿过夹杂着各种碎片的烟尘，几团黑影接连掉在雷内尔办公室的地上，将剩下半座雕塑砸得稀烂，高尔夫球在房间里四处弹飞。,"Several dark shadows fall through the shrapnel-mixed dust onto the floor of Reynell's office, smashing what remained of the sculpture, sending golf balls flying in all directions.","Сквозь пыль и дым, смешанные с обломками, несколько черных силуэтов один за другим упали на пол в кабинете Рейнеля, превратив остатки скульптуры в хлам, мячи для гольфа запрыгали по всей комнате."
+line-267,,军人刚想骂两句粗口，话却突然卡在了嗓子眼里。,"The soldier was about to let out an expletive, but it died in his throat.","Солдат уже хотел было выругаться, но слова застряли у него в горле."
+line-268,,他发现那几团黑影突然动了起来。,The shadows began to move.,"Он заметил, что черные силуэты внезапно зашевелились."
+line-274,艾拉,各位，你们还好吗？,Everybody alright?,Все в порядке?
+line-281,双月,还好，一点轻微擦伤。,Just a little scrape.,"Да, легкие царапины."
+line-283,导火索,我没问题。,I'm fine.,Со мной все в порядке.
+line-287,艾拉,医生？,Doc?,Доктор?
+line-290,医生,呃......我还好......,I... I'm okay.,Э-э... Я в порядке...
+line-297,,双月试图把还坐在地上的医生扶起来，随即看到医生手里拿着一枚高尔夫球，额头上是被那枚高尔夫球压出来的圆圆的红印。,"Iana gives Doc a hand and sees he is holding a golf ball, which left a round mark on his forehead.","Двойная Луна попыталась поднять доктора, который все еще сидел на полу, и тут же заметила, что он держит в руке мяч для гольфа, а на его лбу виден красный круг от нажатия этого самого мяча."
+line-305,医生,一切正常，除了被不知道哪里来的高尔夫球硌了一下。,I'm fine... other than a little knock from a golf ball.,"Все нормально, если не считать того, что меня придавило непонятно откуда взявшимся мячом для гольфа."
+line-309,艾拉,下一个问题。,Next question.,Следующий вопрос.
+line-310,艾拉,除了我们好像落进了高尔夫球筐里之外，有人明白刚刚还发生了什么事吗——,"Anyone know what happened, other than that we somehow fell into a pile of golf balls?","Помимо того, что мы, кажется, упали в корзину с мячами для гольфа, кто-нибудь понимает, что сейчас произошло? —"
+line-319,带队的军官,......,...,...
+line-324,米沃什&雷内尔,......,...,...
+line-328,疑惑的军人,头儿，咱们当时怎么就没想到从顶层突入呢？那不就不用爬楼梯了。,Why didn't we go just in through the roof? We wouldn't have had to climb the stairs if we did that.,"Шеф, почему мы сразу не подумали прорваться с последнего этажа? Тогда бы не пришлось лезть по лестнице."
+line-330,带队的军官,闭嘴，来者不善，准备进攻！,Shut up. Prepare to engage!,"Заткнись, противник враждебен, приготовиться к атаке!"
+line-340,艾拉,弩箭？,A crossbow?,Арбалетные стрелы?
+line-345,艾拉,......准备接敌。,...Prepare to engage.,...Приготовиться к бою.
+line-350,雷内尔,呵，看这剑拔弩张的场面，你们应该不是一起来的吧。,I guess you aren't exactly friends.,"Ха, глядя на эту напряженную сцену, вы, похоже, пришли не вместе."
+line-351,雷内尔,你带武器了吗，米沃什？,"Did you bring a weapon, Miłosz?","Ты взял оружие, Мивош?"
+line-353,米沃什,（耸肩）没带上来。,(Shrugs) Nope.,(Пожимает плечами) Не взял с собой.
+line-355,雷内尔,那就没办法了。,"Well, in that case...",Тогда ничего не поделаешь.
+line-356,雷内尔,诸位，如果你们都想绑架我，我建议你们先比个高下，毕竟......我人只有一个。,"You'd better duke it out amongst yourselves to decide who gets to kidnap me. There's only one of me, after all.","Господа, если вы оба хотите меня похитить, предлагаю сначала выяснить, кто из вас сильнее, ведь... я всего один."
+line-365,雷内尔,米沃什，怎么样，要不要也来一杯？,"A drink, Miłosz?","Мивош, как насчет того, чтобы тоже выпить?"
+line-367,米沃什,免了，我还得护着你呢。,Pass. I still have to protect you.,"Обойдусь, мне еще тебя защищать."
+line-371,医生,绑架？,Kidnap?,Похищение?
+line-373,导火索,兽耳绑架派对？够新鲜的。,A furry kidnapping party? That's new.,Вечеринка по похищению с участием зверолюдей? Довольно свежо.
+line-376,带队的军官,别嘀嘀咕咕了！放下铳械，乖乖从雷内尔旁边滚开，否则别怪我们的家伙不长眼！,"Enough chit-chat! Drop your weapons and get away from Reynell, or we'll shoot!","Хватит болтать! Бросайте оружие и покорно убирайтесь от Рейнеля, иначе наши «игрушки» не посмотрят на то, что вы сделаны из плоти и крови!"
+line-378,双月,不管是不是绑架，对面都要冲我们来了。,"Well, they're coming for us, kidnappers or not.","Неважно, похищение это или нет, они собираются атаковать нас."
+line-388,艾拉,就地寻找掩体！,Find cover!,Занять укрытие на месте!
+line-389,艾拉,双月、医生，优先带非武装人员撤离！我和导火索掩护你们！,"Iana, Doc, take the non-combatants and get out of here! Fuze and I will cover you!","Двойная Луна, Доктор, в приоритете эвакуация невооруженного персонала! Я и Запал прикрываем!"
+line-431,带队的军官,没有光环，不是萨科塔......和黑钢的人也不像！,"No Sankta halos, and they don't look like Blacksteel either...","Нет нимба, это не санката... И на людей «Черной стали» не похожи!"
+line-432,带队的军官,这群笨蛋，就因为铳械看起来很拉风，连命都不要了？,Do these idiots have a death wish? They just think guns look cool?,"Эти идиоты, просто потому что их оружие выглядит круто, они решили расстаться с жизнью?"
+line-433,带队的军官,上，给我上！不能让他们带着雷内尔跑了！,Move! Don't let them get away with Reynell!,"Вперед, атакуйте! Не дайте им сбежать с Рейнелем!"
+line-450,艾拉,双月，十点钟方向！,"On your ten, Iana!","Двойная Луна, 10 часов!"
+line-479,双月,敌人倒下！,Hostile down!,Враг повержен!
+line-484,机警的军人,头儿，不对劲，这些人的铳械不是样子货！,Those guns aren't just for looks!,"Шеф, что-то не так, это оружие у них — не пустышки!"
+line-486,带队的军官,怕什么，我们还有后援！,Stand your ground! We have backup!,"Чего бояться, у нас есть подкрепление!"
+line-487,带队的军官,预备队，别在走廊里躲清闲了，赶紧进来赶紧收工！,Reserve squad! Quit fooling around and get out here!,"Резерв, хватит прятаться в коридоре, быстро заходите и заканчивайте с этим!"
+line-510,医生,无法到达非武装人员所在地点！对面人数太多，我和双月被压制在掩体后方了——,I can't get to the non-combatants! There are too many of them. Iana and I are suppressed—,"Нет возможности добраться до невооруженного персонала! Врагов слишком много, мы с Двойной Луной подавлены за укрытием —"
+line-511,医生,换弹！,Reloading!,Перезарядка!
+line-513,双月,交给我！,I'm up!,Предоставь это мне!
+line-521,双月,手雷已掷出！,Frag out!,Граната брошена!
+line-536,双月,啧......手雷效果不佳！敌人对爆炸的耐受力比预想水平更高！,Ineffective! Hostiles are blast resistant!,Тц... Эффект от гранаты слабый! Устойчивость врагов к взрывам выше ожидаемой!
+line-538,艾拉,收到。导火索，烟雾弹。,"Roger. Fuze, smoke.","Принято. Запал, дымовая шашка."
+line-547,导火索,烟雾弹已掷出。,Smoke grenade out.,Дымовая шашка брошена.
+line-562,导火索,烟雾弹没法从根本上解决问题。需要霰射炸药吗？我这里还有不少。,Smoke won't solve the real problem. Need a Cluster Charge? I still have plenty.,Дымовая шашка не решит проблему в корне. Нужна дробная взрывчатка? У меня ее еще полно.
+line-564,艾拉,是个好主意，不过雷鸣地雷更适合这里。,"That's one way, but Grzmot works better here.","Хорошая идея, но здесь лучше подойдут громовые мины."
+line-565,艾拉,双月、医生，去带非武装人员寻找掩体！我和导火索负责火力压制！,"Iana, Doc, get those non-combatants to cover! Fuze and I will cover!","Двойная Луна, Доктор, идите эвакуируйте невооруженных! Я и Запал обеспечим подавляющий огонь!"
+line-570,导火索,开火，开火！,Firing!,"Огонь, огонь!"
+line-586,米沃什,别过来！,Stay back!,Не подходите!
+line-588,双月,只是来带你们转移到隐蔽地点，不要抵抗！,Don't resist! I'm taking you to cover!,"Просто хотим перевести вас в безопасное место, не сопротивляйтесь!"
+line-590,米沃什,为什么要转——,Why do we have to—,Зачем переводить —
+line-592,双月,小心！,Look out!,Осторожно!
+line-602,米沃什,偷袭？！,A sneak attack?!,Атака из-за спины?!
+line-606,机警的军人,看来你不光做秘书，还是个保镖？,Looks like you're more than just a secretary!,"Похоже, ты не только секретарь, но еще и телохранитель?"
+line-608,米沃什,......废话真多。,You talk too much.,...Слишком много болтаешь.
+line-610,医生,先生，退开，这样我们没法瞄准——,"Get back, sir! You're in the line of fi—","Сэр, отойдите, так мы не можем прицелиться —"
+line-627,机警的军人,用酒瓶和正经的武器对拼？你还早呢——,Trying to fight real weapons with a wine bottle? Dumbass—,"Сражаться с настоящим оружием, используя бутылку? Ты еще слишком рано —"
+line-638,医生,你也还早呢。,Very immature.,Ты тоже слишком рано.
+line-639,医生,双月，我来背这个被打晕的人，你去引导那个穿白衣服的家伙！,He's out cold. I'll carry him. You get that guy in white.,"Двойная Луна, я заберу этого вырубленного, а ты веди того парня в белом!"
+line-644,带队的军官,他们要带着雷内尔躲起来！拦住他们！,They're trying to take Reynell away! Stop them!,Они собираются спрятать Рейнеля! Остановите их!
+line-646,油滑的军人,头儿，不行！他们连发铳的射速太快，我们近不了身！,We can't get close! Their guns fire too quickly!,"Шеф, не выходит! Скорострельность их оружия слишком велика, мы не можем подобраться близко!"
+line-648,带队的军官,*粗口*，他们没开火的时候你们在干什么？！,"Dammit, what the hell are you doing when they're not firing!","*Грубая брань*, что вы делали, когда они не стреляли?!"
+line-650,油滑的军人,这几个人太会找死角了！还有他们的配合——,They keep finding dead zones! And their coordination—,Эти люди слишком хорошо умеют использовать углы! Плюс их слаженность —
+line-652,带队的军官,我们这么多人，你跟我说四个人的配合？！,There are only four of them! How many guys do <i>we</i> have?!,"Нас так много, и ты говоришь мне про слаженность четверых?!"
+line-682,医生,我们已找到掩体，可以抵挡一段时间！,We're in cover! We can hold out for a while!,"Мы нашли укрытие, можем продержаться некоторое время!"
+line-684,导火索,换弹！,Reloading!,Перезарядка!
+line-687,带队的军官,那个男的哑火了，快上！,That guy's out! Get him!,"У этого парня заклинило, быстрее, вперед!"
+line-689,艾拉,双月，烟雾弹！,"Iana, smoke!","Двойная Луна, дымовая шашка!"
+line-696,双月,烟雾弹已掷出！,Smoke grenade out!,Дымовая шашка брошена!
+line-708,带队的军官,咳、咳......又是烟雾弹？你们也就这点能耐了——,*cough* *cough* Another smoke grenade? Is that the best you can—,"Кхе, кхе... Опять дымовая шашка? Это все, на что вы способны —"
+line-711,艾拉,雷鸣地雷已掷出......,Flying out.,Громовая мина брошена...
+line-712,艾拉,......已粘上。,...Sticking it.,...Прикрепилась.
+line-713,艾拉,这是给你们的纪念品。,Here's a memento.,Это вам сувенир.
+line-715,艾拉,导火索，闪开！,"Get out of the way, Fuze!","Запал, в сторону!"
+line-728,油滑的军人,头儿，剩下那两个也要躲起来了！,The other two are trying to hide!,"Шеф, двое оставшихся тоже собираются скрыться!"
+line-730,带队的军官,给我把他们一网打尽——,Surround them and—,Схватить их всех до единого —
+line-747,医生,这些人一拥而上，完全没想过防备爆炸物，简直毫无战术意识。,They swarmed without any caution for possible explosives. No tactical awareness whatsoever.,"Эти люди накинулись скопом, даже не подумав о защите от взрывчатки, у них абсолютно отсутствует тактическое мышление."
+line-749,艾拉,先缴械再说吧。医生，伤员救护也交给你了。,"Let's disarm them first. Tend to the wounded, Doc.","Сначала разоружим. Доктор, лечение раненых тоже на тебе."
+line-750,艾拉,已净空。,Clear.,Очищено.
+line-752,双月,已净空。,Clear.,Очищено.
+line-754,导火索,已净空。,Clear.,Очищено.
+line-756,医生,已净空，无人员死亡，算是个好消息。,All clear. No casualties. That's good news.,"Очищено, без летальных исходов, это можно считать хорошей новостью."
+line-757,医生,我们固然没有刻意瞄准要害，但这些人皮糙肉厚得也的确有些超乎常识。连刚刚那个近距离吃了一发霰弹的家伙也侥幸没有生命危险。,"Even though we were shooting to incapacitate rather than kill, these guys were still unusually tough. That one there survived a full shotgun blast at point-blank range.","Конечно, мы не целились в жизненно важные органы специально, но эти люди на удивление крепки, что выходит за рамки здравого смысла. Даже тот парень, который в упор получил заряд дроби, чудом избежал угрозы жизни."
+line-759,艾拉,确实是好消息。,Good news indeed.,"Действительно, это хорошая новость."
+line-761,医生,还有另一个消息，不知道是好是坏，但很奇怪。这些人头上的兽耳......仔细看可以看到血管......,"One more thing. Not sure what it means, but look at the animal ears... you can see blood vessels, if you look closely.","Есть и другая новость, не знаю, хорошая или плохая, но очень странная. Звериные уши на головах этих людей... если присмотреться, видно кровеносные сосуды..."
+line-763,艾拉,什么？？,What?!,Что??
+line-765,导火索,我可不知道列维还在研究这种事情。,Is that part of Levi's research too?,"Я не знала, что Леви занимался еще и такими исследованиями."
+line-767,双月,艾拉，我的指南针失效，医生，你身上的呢？,"My compass isn't working. What about yours, Doc?","Эла, мой компас вышел из строя, Доктор, как твой?"
+line-769,医生,如果我们真的还在乌拉尔山南部的磁山二号附近......,If we're really near Magnethill No. 2 in the Southern Urals...,Если мы действительно все еще находимся рядом с Магнитной горой-2 на юге Уральских гор...
+line-774,,医生转头看向身后，风恰好把窗帘吹了起来。,"Doc looks behind him, where the wind is blowing the curtains open.","Доктор обернулся, ветер как раз раздул занавески."
+line-775,,几人走上阳台，得以眺望之前一直无暇顾及的窗外景象。,The squad walks out to the balcony and takes in the sight outside.,"Все вышли на балкон, получив возможность оглядеть пейзаж за окном, на который раньше не было времени."
+line-785,,夕阳从林立的高楼中间缓缓下落，把不知是海还是大湖的水域染得一片橘红。,"The setting sun shines down between towering skyscrapers, painting the waters red.","Заходящее солнце медленно опускалось среди высоких зданий, окрашивая акваторию, будь то море или большое озеро, в оранжево-красный цвет."
+line-786,,水边的沙滩上，冰淇淋车播放着音乐，几个穿着清凉的游客稀稀拉拉地躺在水边，享受着假日傍晚的慵懒气息。,"Tourists in swimsuits lie on the beach, enjoying a lazy holiday afternoon set to ice cream truck music.","На пляже у воды фургончик с мороженым играл музыку, несколько туристов в легкой одежде разрозненно лежали у воды, наслаждаясь ленивой атмосферой праздничного вечера."
+line-787,,在几人身后，房间里唯一一个还能正常走路的人踱了过来。,The only man in the room who can still stand slowly walks towards them.,"Позади них в комнату зашел единственный человек, который все еще мог нормально ходить."
+line-788,导火索,这是个*粗口*的乌拉尔山。,"If this is the Urals, then I'm George Clooney.",Это чертовы Уральские горы.
+line-789,艾拉,至少可以确定，我们确实不在任务原定区域了。,It's clear we're no longer in the mission area.,"По крайней мере, мы можем быть уверены, что точно не находимся в изначальной зоне задания."
+line-790,双月,......传送？,Did we teleport?,...Телепортация?
+line-791,艾拉,那我们被传送到了哪里？马尔代夫？,Where to? The Maldives?,И куда же нас телепортировало? На Мальдивы?
+line-792,双月,这里确实像个专门供人旅游度假的地方，但......不像。我不觉得这里是马尔代夫。,It looks like a vacation spot alright... but I don't think it's the Maldives.,"Здесь действительно похоже на место для отпуска, но... нет. Не думаю, что это Мальдивы."
+line-793,艾拉,或许我们能问问那两位不幸的受害者——哦，已经来了。,"Maybe we can ask the unfortunate victims—Oh, speak of the devil.","Может, спросим у тех двоих несчастных жертв — а, они уже пришли."
+line-805,艾拉,先生，不妨讲讲，您是哪位，这是哪里，那些武装人员又是怎么回事？,"Could you answer a few questions, sir? Who are you? What is this place? And who were those armed men?","Господин, не расскажете, кто вы, где мы находимся, и что это были за вооруженные люди?"
+line-807,雷内尔,几位给我的作品制造了一个出人意料的结局，出于“感激”，我很高兴能替各位介绍。,"I'm happy to explain a few things, out of 'gratitude' for the surprising ending that you created for my work.","Вы создали неожиданную концовку для моего произведения, из «благодарности» я буду рад представить вас."
+line-809,雷内尔,不过，正式开始介绍前，请允许我纠正各位的一个错误......我从来都不是什么不幸的受害者。,"Before formal introductions, however, I must correct one premise... I was never an unfortunate victim.","Однако, прежде чем начать представление, позвольте мне исправить одну вашу ошибку... я никогда не был никакой «несчастной жертвой»."
+line-810,雷内尔,过去不是，现在不是，未来不是——从来都不是。,"Not before, not now, not ever.","В прошлом — нет, сейчас — нет, в будущем — нет — никогда не был."
+line-814,双月,我们可以进入正题了吗？,Can we get back on topic?,Можем мы перейти к делу?
+line-819,雷内尔,好吧，各位，欢迎踏上玻利瓦尔的黑色心脏......,Very well. Welcome to the dark heart of Bolívar...,"Хорошо, господа, добро пожаловать в черное сердце Боливара..."
+line-820,雷内尔,欢迎来到多索雷斯。,Welcome to Dossoles.,Добро пожаловать в Доссолес.
+line-822,雷内尔,我是雷内尔·科瓦尔斯基。,My name is Reynell Kowalski.,Я Рейнель Ковальски.
+line-824,艾拉,那么，雷内尔先生，你可以叫我艾拉。,"Call me Ela, Mr. Reynell.","Что ж, господин Рейнель, можете звать меня Эла."
+line-826,艾拉,不过，考虑到我们需要快速把握现在的情况，我希望能省去介绍环节，我来问问题，你来回答，可以吗？,"But, given that we need to quickly grasp our situation, I think we can cut the introductions. I'll ask, and you'll answer. Alright?","Однако, учитывая, что нам нужно быстро вникнуть в нынешнюю ситуацию, надеюсь, мы обойдемся без представлений, я задаю вопросы, вы отвечаете, договорились?"
+line-828,雷内尔,没事，看来我也没什么选择。,Doesn't look like I have a choice.,"Ну, похоже, у меня особо нет выбора."
+line-830,艾拉,雷内尔先生，请问多索雷斯属于哪个国家？,Which country does Dossoles belong to?,"Господин Рейнель, подскажите, какой стране принадлежит Доссолес?"
+line-832,雷内尔,名义上属于玻利瓦尔。,"Bolívar. In name, at least.",Номинально принадлежит Боливару.
+line-834,艾拉,玻利瓦尔......玻利维亚？我不记得玻利维亚有座叫多索雷斯的城市。双月，你有印象吗？,"Bolívar... You mean Bolivia? I don't know a city called Dossoles in Bolivia. What about you, Iana?","Боливар... Боливия? Я не припомню, чтобы в Боливии был город под названием Доссолес. Двойная Луна, у тебя есть идеи?"
+line-838,双月,......不。,...No.,...Нет.
+line-843,艾拉,......我换个问法。我们身处哪个大洲？南美洲？,Let's try another way. Which continent are we on? South America?,...Задам вопрос по-другому. На каком континенте мы находимся? Южная Америка?
+line-845,雷内尔,“大洲”？我不明白你的意思。如果你的意思是“大片的陆地”，那不就是泰拉吗？,"Continent? I'm not sure what you mean. If you mean the name of our 'landmass,' that's Terra, obviously?","«Континент»? Я не понимаю, что вы имеете в виду. Если вы имеете в виду «большой участок суши», то это же Терра?"
+line-847,艾拉,Gówno......,Gówno......,Gówno...
+line-849,雷内尔,（卡西米尔语）家乡话？还真是意外呢。,(Kazimierzian) Oh? It's not every day I hear my mother tongue spoken.,(На языке Казимира) Родной язык? Вот уж неожиданно.
+line-851,艾拉,家乡话？,Your mother tongue?,Родной язык?
+line-853,雷内尔,没什么，你可以继续提问。,Nothing. Keep going.,"Ничего, можете продолжать спрашивать."
+line-855,艾拉,......难以相信我居然真的想问这个问题......,"I never thought I would be asking this, but...","...Не верится, что я действительно хочу задать этот вопрос..."
+line-856,艾拉,雷内尔先生，我们身处的是否还是那颗被称为地球的行星？,"Mr. Reynell, are we on Planet Earth?","Господин Рейнель, находимся ли мы все еще на той планете, которую называют Земля?"
+line-858,雷内尔,“地球”“行星”......说实话，艾拉小姐，我本来只等着解答你的问题。但听了你的问题之后，我的问题也多起来了。,"Planet...? Earth...? I thought all I had to do was answer questions, but now I'm beginning to have a few of my own.","«Земля», «планета»... Честно говоря, мисс Эла, я ожидал, что буду отвечать на ваши вопросы. Но после ваших вопросов у меня самого их появилось немало."
+line-860,艾拉,......,...,...
+line-862,艾拉,双月，也许你会有一些更好的问法......,"Iana, maybe you can do better with the questions...","Двойная Луна, возможно, у тебя найдутся вопросы получше..."
+line-864,艾拉,双月？,Iana?,Двойная Луна?
+line-869,,双月没有回话。,Iana does not answer.,Двойная Луна не ответила.
+line-870,,她瞪大双眼，直勾勾地看向与夕阳落下方向相反的天际线。,"Her eyes are wide, staring at the horizon in the opposite direction of the setting sun.","Она широко открыла глаза, немигающе глядя на линию горизонта, противоположную той, где заходило солнце."
+line-874,,众人随着双月目视的方向看去。,The others follow her gaze.,"Все посмотрели в ту сторону, куда смотрела Двойная Луна."
+line-875,,一明一暗，两轮月亮正在缓缓升起。,"Two moons are rising slowly in the distance, one brighter than the other.","Две луны, одна яркая, другая темная, медленно поднимались."
+line-884,打扮夸张的杜林人,真是运气差，才画了一个轮廓就被发现了......,"Damn, only had time for one doodle before they found out.","Ну надо же так не повезло, только набросала контур, как сразу обнаружили..."
+line-886,打扮夸张的杜林人,差点就被抓到了......乌泱泱追出来一大群人，吓死了吓死了。,That was close... gave me a fright when all those people showed up.,"Едва успела убежать... целая толпа гналась за мной, так испугалась, жуть."
+line-890,艺术馆保安,给我站住，你这丫头，在艺术馆墙上乱涂乱画还想跑。,"Hold it right there, girl! You won't get away with vandalizing the Galería!","А ну стоять, девчонка, разрисовала стены галереи и думала сбежать."
+line-892,打扮夸张的杜林人,不好，他找过来了，我得赶紧走了。,Shoot. I'd better go.,"Плохо дело, он идет за мной, надо уходить."
+line-894,打扮夸张的杜林人,哼，就算你今天运气好......雷内尔。,You got lucky today... Reynell.,"Хм, ну сегодня тебе повезло... Рейнель."
