@@ -1,0 +1,299 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,main_14
+__chapter__,,Chapter Name,obt/main/level_main_14-07_beg,抵近支援作战
+,,,,
+char-1,摩根,摩根,Morgan,Морган
+char-2,戴菲恩,戴菲恩,Delphine,Дельфина
+char-3,因陀罗,因陀罗,Indra,Индра
+char-4,推进之王,推进之王,Siege,Королева-в-изгнании
+char-5,号角,号角,Horn,Хорн
+char-6,达格达,达格达,Dagda,Дагда
+char-7,“灰礼帽”,“灰礼帽”,'Trilby Asher',«Серый цилиндр»
+char-8,高级军官,高级军官,Flag Officer,Герцог Веллингтон
+char-9,开斯特公爵,开斯特公爵,Duke of Caster,Герцог Кейтс
+char-10,萨卡兹战士,萨卡兹战士,Sarkaz Warrior,Воин саркази
+char-11,维多利亚士兵,维多利亚士兵,Victorian Soldier,Солдат Виктории
+char-12,风笛,风笛,Bagpipe,Пайп
+char-13,“副官希尔”,“副官希尔”,'Adjutant Hill',«Адъютант Хилл»
+char-14,“校官”,“校官”,'The Brigadier',Рассказчик/Система
+char-15,爱布拉娜,爱布拉娜,Eblana,«Духовный покров»
+char-16,“灵幛”,“灵幛”,Sudaram,Нерезер
+char-17,孽茨雷,孽茨雷,Nezzsalem,Герцог Веллингтон
+char-18,威灵顿公爵,威灵顿公爵,Duke of Wellington,Герцог Веллингтон
+char-19,赤铁近卫队成员,赤铁近卫队成员,Redsteel Guard Member,Рассказчик/Система
+,,,,
+line-12,摩根,天上飞的那都是......什么啊？！,What the hell are those things up in the sky?!,Что это... там в небе?!
+line-14,戴菲恩,卧倒！,Get down!,Ложись!
+line-44,摩根,呃......咳咳咳！,Urgh! *cough* *cough* *cough!,Угх... кха-кха-кха!
+line-46,摩根,戴菲恩，你的左手——,"Delphine, your right hand—","Дельфина, твоя левая рука..."
+line-48,戴菲恩,......别碰。,Don't touch.,...Не трогай.
+line-50,戴菲恩,这不是普通的炮。萨卡兹的巫术......带有腐蚀性。我有些使不上力。,This isn't any normal cannonfire. Sarkaz witchcraft... is corrosive in nature. I won't be much help.,Это не обычные снаряды. Саркази используют колдовство... оно разъедает. Я почти не чувствую руку.
+line-52,摩根,陷进污染区的那些人......,Those people still trapped in the polluted area...,"Те, кто застрял в зоне заражения..."
+line-54,戴菲恩,都没救了。,It's too late for them.,Им уже не помочь.
+line-56,因陀罗,这天上飞的，地里长的，再加上到处都是结晶和粉尘，连走一步都难！,"You got shit in the air, stuff growing on the ground, AND crystals and dust everywhere! Can't even take a damn step!","То, что летает в небе, то, что растет из земли, да еще и повсюду эти кристаллы с пылью — шаг ступить невозможно!"
+line-58,推进之王,萨卡兹要的，就是把战场变成他们最熟悉的样子，再把我们都逼下载具，堵住了蒙头打一顿。,The Sarkaz want to turn this battlefield into their home turf – forcing us to put down our gear and cower while they pummel us.,"Саркази именно этого и добиваются: превратить поле боя в свою среду, выманить нас из транспорта и задавить числом."
+line-60,推进之王,真论步兵硬碰硬，弹药将尽的情况下，萨卡兹的身体素质一定占优。,"When it comes to a head-to-head infantry battle, the Sarkaz will surely have an advantage due to their natural physique.","Если дело дойдет до открытого боя пехоты, особенно когда боеприпасы на исходе, физические показатели саркази возьмут верх."
+line-62,因陀罗,行吧，我懂了，净耍阴招！,"Alright, I get it now. It's all just a dirty trick!","Понятно, значит, играют грязно!"
+line-64,推进之王,所以我们一定不能被打蒙。这第一下蒙了，那就立刻全完蛋了。,"Which is why we can't afford to get caught off guard. If they ever get the drop on us, we're done for on the spot.","Поэтому мы не должны дать себя сбить с толку. Если дрогнем сейчас, то проиграем окончательно."
+line-66,推进之王,摩根，尽量让我们的车能动的都动起来，避免和萨卡兹步兵短兵相接。,"Morgan, get as many of our vehicles up and running as you can. Avoid any close combat with Sarkaz infantry.","Морган, сделай всё возможное, чтобы наши машины оставались в движении, и избегай ближнего боя с пехотой саркази."
+line-68,推进之王,就算车坏了，也别轻易放弃车上的炮，那是我们最高效的武器。,"Even if a vehicle's destroyed, don't overlook the mounted cannon. They're the best weapons we've got.","Даже если машина выйдет из строя, не бросай орудия — это наше самое эффективное оружие."
+line-70,摩根,好的！,Understood!,Поняла!
+line-72,推进之王,戴菲恩，通信兵尽量铺开。至少要保证典范军内部还能相互联络。,"Delphine,send the signalers out as widely as you feasibly can. The Exemplars will be able to maintain communication that way, at the least.","Дельфина, разверни связистов. Нам нужно обеспечить координацию внутри образцовой армии."
+line-74,戴菲恩,是。,Of course.,Так точно.
+line-76,推进之王,要往前走的话，我们得拿下前面的移动祭坛。,"If we want to push forward, we're going to have to take down that altar up ahead.","Если хотим двигаться дальше, нам нужно захватить тот мобильный алтарь."
+line-78,推进之王,号角小姐，我需要炮手掩护！,"Horn, covering fire!","Хорн, мне нужно прикрытие артиллерии!"
+line-80,号角,明白！,Roger!,Вас поняла!
+line-89,推进之王,因陀罗小队负责牵制敌方的——不管那是术师还是法术造物——就天上飞的那些东西！,"Indra, your team's responsible for holding the enemy back. Doesn't matter if it's casters or Arts Creations or whatever those things are up in the sky.","Отряд Индры, ваша задача — связать боем противника — будь то маги или магические конструкции — разберитесь с тем, что летает в небе!"
+line-91,因陀罗,懂。,You got it.,Принято.
+line-93,推进之王,达格达小队跟着我。,"Dagda's team, you're with me.","Отряд Дагды, за мной."
+line-95,达格达,老样子？,Same as always?,Как обычно?
+line-97,推进之王,老样子。,Same as always.,Как обычно.
+line-99,推进之王,我看到核心了——行动。,I can see the core – move out.,Я вижу ядро — начинаем.
+line-106,,又一座萨卡兹的巫术祭坛。,Another altar of Sarkaz witchcraft.,Еще один магический алтарь саркази.
+line-107,,攀登，借力，跃起，挥锤。,"Climb, pull up, leap, bring down the hammer.","Взлет, толчок, прыжок, удар молотом."
+line-108,,随着战争的持续进行，她们开始对这些恶魔眼睛一样的战争器械越来越熟悉了。,"As the war rages on, they've become more and more familiar with these war machines resembling the devils' eyes.","По мере того как война продолжалась, они всё лучше узнавали эти военные машины, похожие на демонические глаза."
+line-109,,她们对战争本身也越来越熟悉。,They've become more and more familiar with war itself.,Они начали лучше понимать саму войну.
+line-110,,维娜时常感到因陀罗、摩根和达格达有些变了。她相信同样的变化也能在自己身上看见。,"Vina often feels as if Indra, Morgan, and Dagda have changed somewhat. She trusts that the very same changes can be seen in her.","Вина часто замечала, что Индра, Морган и Дагда изменились. Она верила, что те же перемены видны и в ней самой."
+line-111,,这变化是好的吗？又或者，她们的变化还是来得太迟了？,Is it a change for the better? Or a change that came far too late?,Хороши ли эти перемены? Или же они пришли слишком поздно?
+line-112,,赤红的恶魔之眼凝视着她。,The devil's crimson eye stares at her.,Багровый демонический глаз пристально смотрел на нее.
+line-122,,锤子重重地落下，在推进之王落到地面上之前，祭坛开始坍塌。,"The hammer comes down hard, and the altar begins to collapse before Siege even reaches the ground.","Молот тяжело опустился, и, прежде чем Королева-в-изгнании коснулась земли, алтарь начал рушиться."
+line-124,达格达,成功了......呼。,It worked! Phew...,Получилось... фух.
+line-126,达格达,这一次，比上次还要快一些。,We took it down even quicker than the last one.,В этот раз вышло быстрее.
+line-128,推进之王,......有声音。,I hear something.,...Какой-то звук.
+line-130,推进之王,后退！,Back up!,Назад!
+line-147,因陀罗,那玩意儿......长出来了！又一座祭坛，就离我们干倒的那东西不远！,"Something's... growin' outta that bloody thing! It's another altar, not far from the one we knocked down!","Эта тварь... она выросла! Еще один алтарь, прямо недалеко от того, что мы только что разбили!"
+line-149,因陀罗,这地里到底埋着多少这种要命的东西？真的是......,How many of these little buggers did they bury in the ground? Bloody hell...,Сколько же еще этих проклятых штук зарыто в земле? Это просто...
+line-152,,没完没了。,There's no end to them.,Бесконечно.
+line-153,,推进之王握紧了锤子。,Siege tightly grips her hammer.,Королева-в-изгнании крепче сжала молот.
+line-154,,她们的确在适应。但还是不够快。,They are adapting. But not quickly enough.,Они действительно адаптируются. Но недостаточно быстро.
+line-156,推进之王,......“灰礼帽”，剑座的位置有变化吗？,"Trilby Asher, has the location of the Stone of the Sword changed?","...«Серый цилиндр», есть изменения в позиции Цитадели?"
+line-158,“灰礼帽”,我并未收到计划变更的消息。,I haven't been notified of any changes to the plan.,Я не получал сообщений об изменении плана.
+line-160,推进之王,到处都是这么夸张的源石晶簇，船还能动？,"Can the ship still move, with all the Originium crystals everywhere?","Повсюду такие огромные скопления ориджиниума, корабль сможет пройти?"
+line-162,“灰礼帽”,维多利亚拥有最强大的陆上舰队。,"I'll have you know, Victoria has the most powerful fleet on land.",Виктория обладает мощнейшим сухопутным флотом.
+line-164,“灰礼帽”,或许行进的速度会受到影响，但我们还不至于束手无策。,"We might be slowed a little, but we're certainly not without options.","Возможно, скорость движения и пострадает, но мы не в безвыходном положении."
+line-176,推进之王,......舰炮声。,I hear naval guns.,...Звуки корабельной артиллерии.
+line-178,“灰礼帽”,听声音，是铁公爵的“加斯特里尔”号。,"I believe it's the Iron Duke's Gastrell, going by the sound.","Судя по звуку, это «Гастирил» Железного герцога."
+line-180,“灰礼帽”,我们的新一轮进攻开始了。,The next round of our assault is beginning.,Наше новое наступление началось.
+line-197,高级军官,亚伯科恩的一艘突击舰撞上了萨卡兹的先遣大队！,One of Abercorn's assault ships has run into the Sarkaz advance brigade!,Один из штурмовых кораблей Аберкорна столкнулся с передовым отрядом саркази!
+line-198,高级军官,敌人躲在迷雾里，突然就冒了出来——,The enemy was hiding in the fog and suddenly appeared–,Враг прятался в тумане и внезапно возник из ниоткуда —
+line-199,高级军官,我们的视野被源石晶簇遮挡得厉害，根本捕捉不到他们的动向！,Our vision is severely limited by the Originium crystals and we can't follow their movements at all!,"Наш обзор сильно ограничен кристаллами ориджиниума, мы никак не можем отследить их движения!"
+line-201,开斯特公爵,中距离通讯恢复了吗？,Has mid-range communication been restored yet?,Связь на средних дистанциях восстановлена?
+line-203,高级军官,舰载通讯塔依旧失灵。工程队正在尝试修复，但这样的源石环境......,"The ship's comm tower is still out of commission. Engineering's trying to repair it, but in this Originium-dense zone...","Корабельные вышки связи всё еще не работают. Инженерная группа пытается их починить, но в таких условиях ориджиниума..."
+line-204,高级军官,......公爵阁下，您怎么到甲板上来了？,"Your Grace, what are you doing on deck?","...Ваша светлость, как вы оказались на палубе?"
+line-205,高级军官,外面到处都是源石粉尘，您还是尽量不要离开指挥室......,"There's Originium dust everywhere outside, please try not to leave the command center...","Снаружи повсюду пыль ориджиниума, вам лучше не покидать командный пункт..."
+line-207,开斯特公爵,我听说，威灵顿一直都会站在“加斯特里尔”号的甲板上，亲自指挥他的前线部队。,"I've heard that Wellington always stands on the deck of the Gastrell, personally commanding his frontline troops.","Я слышал, Веллингтон всегда стоит на палубе «Гастирила», лично командуя передовыми частями."
+line-209,高级军官,铁公爵身经百战，您......,"The Iron Duke has been through many battles, but you...","Железный герцог прошел через сотни битв, а вы..."
+line-211,开斯特公爵,刚刚，“加斯特里尔”号开炮了。,"Just now, the Gastrell opened fire.",Только что «Гастирил» открыл огонь.
+line-213,“灰礼帽”,您没听错。,Your ears did not deceive you.,Вы не ошиблись.
+line-215,开斯特公爵,他还在前进？,Is he still pressing forward?,Он всё еще продвигается?
+line-217,“灰礼帽”,恐怕是的。铁公爵的队伍突进得比我们想象的更深，应该很快就要撞上萨卡兹的中心部队了。,"I'm afraid so. The Iron Duke's forces have penetrated deeper than we thought, and are about to collide with the Sarkaz core units.","Боюсь, что да. Силы Железного герцога продвинулись гораздо глубже, чем мы предполагали, скоро они должны столкнуться с основными силами саркази."
+line-219,开斯特公爵,他......,Wellington...,Он...
+line-221,“灰礼帽”,铁公爵难道是想斩首那个萨卡兹的君主？,Does he plan to take the head of the Sarkaz regent?,Неужели Железный герцог хочет обезглавить этого монарха саркази?
+line-223,开斯特公爵,......我认识的维斯利·威灵顿，在成为铁公爵之前，的确是一名战士。,The Wesley Wellington I knew was indeed a warrior before he became the Iron Duke.,"...Уэсли Веллингтон, которого я знал, до того как стал Железным герцогом, был настоящим воином."
+line-225,开斯特公爵,他的勇敢或许沾着点疯狂......但他从不会拿战局当赌注。,His bravery might have bordered on madness... but he would never gamble with the outcome of a battle.,Его храбрость граничит с безумием... но он никогда не сделает ставку на исход сражения.
+line-227,“灰礼帽”,无论如何，铁公爵的冒进为我们带来了很大的风险。,"Regardless, the Iron Duke's recklessness has placed us at great risk.","Как бы то ни было, поспешность Железного герцога подвергает нас огромному риску."
+line-229,“灰礼帽”,按照最初的指令，亚伯科恩公爵和阿什沃思公爵的队伍正跟着铁公爵前行......我们的前锋部队也在其中。,"As per the initial orders, Duke Abercorn's and Duke Ashworth's men are following the Iron Duke... and among them, our vanguard as well.","Согласно первоначальному приказу, войска герцогов Аберкорна и Ашворса следуют за Железным герцогом... наши передовые части тоже в их числе."
+line-231,“灰礼帽”,加上源石地形阻碍，我们的阵线正在被拉长。,"Factoring in the surrounding Originium, our front line is being stretched thin.","К тому же, из-за рельефа с ориджиниумом наша линия фронта растягивается."
+line-233,开斯特公爵,你放在“加斯特里尔”号上的“眼睛”呢？,What of the 'eyes' you placed aboard the Gastrell?,Что с твоими «глазами» на «Гастириле»?
+line-235,“灰礼帽”,什么都看不见。,Nothing yet.,Ничего не видно.
+line-237,“灰礼帽”,即便是我们“灰礼帽”之间的通讯......也大幅度延迟了。,Even us Trilby Ashers are experiencing some... serious delays in communication.,"Даже связь между нами, «Серыми цилиндрами»... работает с огромной задержкой."
+line-239,开斯特公爵,艾琳，确认剑座状态。,"Aileen, confirm the status of the Stone of the Sword.","Эйлин, подтверди статус Цитадели."
+line-241,高级军官,目前没有问题！,No issues so far!,Пока всё в порядке!
+line-242,高级军官,我们绝不会让萨卡兹的巫术污染剑座。,We will never allow the Stone of the Sword to be tainted by Sarkaz witchcraft.,Мы ни за что не позволим колдовству саркази заразить Цитадель.
+line-244,“灰礼帽”,阁下，“诗人”发射了信号弹。,"Your Grace, the Poet has launched a flare.","Ваша светлость, «Поэт» запустил сигнальную ракету."
+line-246,开斯特公爵,这么说，亚历山德莉娜和诸王之息快到了。,So Alexandrina and the Sighs of Kings will arrive soon.,"Значит, Александрина и Дыхание королей скоро будут."
+line-248,开斯特公爵,让你的人跟紧些。别让剑在战场上迷了路。,Have your people keep a close eye on them. Don't let the sword get lost on the battlefield.,Пусть твои люди держатся ближе. Не дай Мечу потеряться на поле боя.
+line-250,开斯特公爵,我们必须让诸王之息马上发挥作用。,We must put the Sighs of Kings to work immediately.,"Мы должны сделать так, чтобы Дыхание королей немедленно вступило в дело."
+line-252,开斯特公爵,除非完全恢复通讯......否则所谓的公爵联军，并不能真正成立。,Unless the comms are restored fully... the so-called ducal alliance is a non-entity.,Пока связь не будет полностью восстановлена... так называемая коалиция герцогов не может считаться полноценной.
+line-263,达格达,敌人似乎在变强。,The enemy seems to be getting stronger.,Враг кажется всё сильнее.
+line-265,达格达,同一种巫术......侵蚀我们，增强他们。,The same witchcraft... eats away at us while strengthening them.,"Одно и то же колдовство... разъедает нас, усиливает их."
+line-267,达格达,推进之王，小心！,"Siege, watch out!","Королева-в-изгнании, берегись!"
+line-269,萨卡兹战士,——,––,—
+line-280,达格达,唔呃——！,Argh—!,Угх—!
+line-282,推进之王,达格达！,Dagda!,Дагда!
+line-291,,锤子落下，食腐者战士的身躯塌陷了一块。,"The hammer falls, and a portion of the Nachzehrer warrior's body is caved in.","Молот опустился, и тело воина-падальщика просело от удара."
+line-292,,但他依然在前进。,But he continues to advance.,Но он продолжал наступать.
+line-294,推进之王,——！,–––!,—!
+line-311,,第二锤，第三锤。,A second swing. Then a third.,"Второй удар, третий."
+line-312,,达格达跳了回来，钢爪劈开腰腹。,"Dagda leaps back, splitting his waist with her metal claws.","Дагда отпрыгнула назад, стальные когти вспороли живот врага."
+line-313,,“灰礼帽”的焰刃刺穿胸膛。,The Trilby Asher's flaming blade pierces his chest.,Огненный клинок «Серого цилиндра» пронзил грудь.
+line-316,萨卡兹战士,（沉闷的喘息）,(Dull gasps),(глухое хрипение)
+line-322,“灰礼帽”,这才一个。前面还有......那么多。,That's just one. There are still... many more ahead.,Это только один. Впереди их... еще столько.
+line-324,“灰礼帽”,这些萨卡兹真是......,These Sarkaz are truly...,Эти саркази просто...
+line-326,维多利亚士兵,怪物！,Monsters!,Монстры!
+line-328,维多利亚士兵,魔族佬都是怪物，该死，根本不是活着的人！,"These bloody devils are all monsters, goddamn it! They're not even flesh-and-blood !","Эти демоны — монстры, черт побери, они вовсе не живые люди!"
+line-330,维多利亚士兵,是不是只有死人......死人才能......,Do you think they're already dead? Only the dead can...,Неужели только мертвецы... могут...
+line-332,推进之王,......死人？,Already dead...?,...Мертвецы?
+line-335,,奇异的响动自四周传来。,Strange noises can be heard in all directions.,Вокруг послышались странные звуки.
+line-336,,不同于源石晶簇刺破地面的声响，也并非结晶粉尘炸开的前兆。,They are distinct from the sounds of Originium crystal clusters piercing the ground. They are not omens to the explosion of Originium dust.,"Это было не похоже на треск кристаллов ориджиниума, пробивающих землю, и не на грохот взрывающейся пыли."
+line-338,风笛,队长，再这样下去不是办法！,"Captain, we can't hold out like this!","Капитан, так продолжаться не может!"
+line-340,风笛,敌人——越杀越多！,There's no end to them!,Врагов — всё больше!
+line-349,号角,那就盯着眼前的这一个。,"Better focus on the one right in front of you, then.","Тогда сосредоточься на том, что перед тобой."
+line-351,号角,总会有人走到最前面的。,There's always going to be someone standing up front.,Кто-то всегда идет первым.
+line-359,,架盾，开炮。重复了无数遍的动作。,"Raise the shield, fire the cannon. Repeat, ad infinitum.","Поставить щит, открыть огонь. Движения, повторенные тысячи раз."
+line-360,,维多利亚拥有大地上最强的武器。一枚炮弹，能轻松炸开一个萨卡兹的甲胄。,Victoria possesses the strongest weapons in all of Terra. One shell can easily blow apart a Sarkaz's armor.,Виктория обладает мощнейшим оружием на материке. Один снаряд может легко разнести доспех саркази.
+line-361,,然而很快，两个萨卡兹同时冲过来。之后是三个。,"Just as quickly, two more Sarkaz rush forth at the same time to take the place. Then three.",Однако вскоре бросаются в атаку сразу двое саркази. Затем трое.
+line-362,,炮火竭尽全力地倾泻着，却挡不住汹涌而来的浪潮。,"The artillery fire unleashes its fury, but it cannot stem the surging tide.","Артиллерия стреляла изо всех сил, но не могла сдержать нахлынувшую волну."
+line-364,号角,呵......呼......,*huff*... *pant*...,Ха... фух...
+line-367,,无穷无尽的敌人。,There's no end to the enemies.,Бесконечные враги.
+line-368,,她几乎看不清到底面前有多少萨卡兹，站着的，躺着的。,"She can hardly tell how many Sarkaz are on the ground in front of her; some standing, some lying.","Она почти не видела, сколько перед ней саркази — стоящих, лежащих."
+line-369,,死去的维多利亚人，说不定更多。,The number of fallen Victorians is perhaps even greater.,"Погибших викторианцев, возможно, было даже больше."
+line-371,,她能听见风笛的呼喊，破城矛依旧在动。这是最大的安慰，足以支撑她继续战斗下去。,"She can hear Bagpipe's shouts and the whistling of her spear. From those she finds utmost solace, and that's enough to keep her fighting on.","Она слышала крики Пайп, копье по-прежнему работало. Это было единственным утешением, которого хватало, чтобы продолжать сражаться."
+line-372,,一抹火光突然在不远处跳了跳。,A plume of firelight suddenly springs up not too far away.,Вспышка света внезапно мелькнула неподалеку.
+line-374,号角,......,...,...
+line-376,号角,风笛......,Bagpipe...,Пайп...
+line-378,风笛,怎么了，队长？,"What is it, Captain?","Что такое, капитан?"
+line-380,号角,我好像......又看到了希尔。,I think... I just saw Hill again.,Мне кажется... я снова видела Хилла.
+line-383,,嗯，希尔。,"Oh, Hill.","Да, Хилл."
+line-384,,还是那张脸。那张时不时出现在她的噩梦中，提醒她队友是如何惨死的......属于叛徒的脸。,"That same face again. The same face that appears in her nightmares every now and then, reminding her of how tragically her teammates died... The face of that traitor.","То самое лицо. Лицо, которое время от времени появляется в ее кошмарах, напоминая о том, как жестоко погибли ее товарищи... лицо предателя."
+line-386,号角,......他死了。,...He's dead.,...Он мертв.
+line-388,风笛,是那个......躺着的人？他好像战死了有一段时间了......呃，队长，他刚刚是不是......是不是......,"Is he that one... lyin' over there? Seems to have been killed in action some time ago... Um, Captain, just now, did he...?","Это тот... лежащий человек? Кажется, он погиб в бою уже какое-то время назад... э-э, капитан, он только что..."
+line-390,号角,动了。,He moved.,Пошевелился.
+line-392,号角,他正在......站起来。,He's... standing up again.,Он... встает.
+line-394,“副官希尔”,......,...,...
+line-397,,穿着威灵顿部队制服的男人，摇摇晃晃地朝他们走过来。,The man clad in the uniform of Wellington's forces staggers towards them.,Мужчина в форме отряда Веллингтона шатаясь шел к ним.
+line-398,,他举起握着的刀，劈向号角面前的一个萨卡兹。,"He lifts the blade in his hands, and slashes at the Sarkaz in front of Horn.",Он поднял зажатый в руке нож и ударил по саркази перед Хорн.
+line-399,,甲胄太厚，反过来震开了他的手。他的胳膊奇怪地扭曲着，又劈了第二次，第三次。,"The armor is too thick, and the recoil pushes his hands away. His arms contort strangely and he strikes a second time, then a third.","Доспех был слишком толстым, удар отпружинил, вывернув ему руку. Он нанес второй удар, третий."
+line-400,,那张熟悉的面孔距离她们越来越近——,That familiar visage is getting closer and closer to them–,Знакомое лицо становилось всё ближе к ним —
+line-401,,一片死寂的灰白之中，只有一点紫色正在跃动。,"In the midst of the dead silent gray, only a tiny speck of purple dances.",В этой мертвенной серости пульсировала лишь одна точка фиолетового света.
+line-403,风笛,是她。,It's her.,Это она.
+line-405,风笛,是——深池！,It's... Dublinn!,Это — Deepcolor!
+line-416,,“我放下战士的荣誉，只为以后塔拉的土地不必再被鲜血浸泡，德拉克的同族不必再刀剑相向。”,"'I lay down now my soldier's honor here, so that in time the soil of Tara need no longer be soaked in carmine blood, and Draco cross no swords with Draco kin.'","«Я отказываюсь от чести воина, лишь бы в будущем землю Тары не пропитывала кровь, а сородичам-драконам не пришлось поднимать друг на друга меч»."
+line-417,,“除非有朝一日，红龙的火焰能令死去的战士从熔炉中复生。”,"'Be that unless a day comes, whereupon Red Dragon's flame should lead all those that fell, our fighters from the forge to be reborn.'","«Лишь до тех пор, пока пламя красного дракона не сможет воскресить павших воинов из горнила»."
+line-420,“校官”,第三组祭坛，破坏完毕！,The third set of altars has been crushed!,Третья группа алтарей уничтожена!
+line-422,“校官”,殿下，术师和飞行兵都已就位。我们正接近最大的祭坛！,"Milady, our casters and flying soldiers are in position. We're about to approach the largest altar!","Ваше высочество, маги и летающие бойцы на позициях. Мы приближаемся к главному алтарю!"
+line-424,“校官”,虽说死去的同胞替我们抵挡了魔族佬的污染......但此处巫术的杀伤力空前！,"Our deceased compatriots have managed to protect us from the devils' vile pollution, but the destructive power of their witchcraft is unprecedented!",Хотя павшие соратники приняли на себя удар заражения этих демонов... мощь колдовства здесь беспрецедентна!
+line-426,爱布拉娜,让开。,Allow me.,Отойди.
+line-428,“校官”,......殿下？,...Milady?,...Ваше высочество?
+line-430,“校官”,您要......亲自前去破坏祭坛？,You're... going to destroy the altar yourself?,Вы хотите... лично уничтожить алтарь?
+line-432,爱布拉娜,作为臣子的你们，已经尽力了。,"You, as my subjects, have done all you needed to do.","Вы, мои подданные, уже сделали всё, что могли."
+line-434,爱布拉娜,作为君主的我，理应带领你们前进。,"I, as your sovereign, ought to lead you forward.","Как ваша правительница, я обязана вести вас вперед."
+line-436,爱布拉娜,倘若我没有亲自踏上这片土地，又如何将它变成我的国度？,How can I take this land as my own if I have never set foot upon it?,"Если я сама не ступлю на эту землю, как я сделаю ее своим государством?"
+line-438,爱布拉娜,红龙的火......会像过去千万年一样，落在战争的最前线。,"The Red Dragon's flame... shall fall upon the battlefield's front lines, just as it has for thousands of years.","Огонь красного дракона... как и тысячи лет назад, падет на передовую войны."
+line-453,萨卡兹战士,——祭坛正在遭到破坏！,––Our altar's being razed!,— Алтарь подвергается атаке!
+line-455,萨卡兹战士,维持阵型！不要被火冲散——继续施术！,Stay in formation! Don't get scattered by those flames – keep casting!,Держать строй! Не дайте огню разорвать его — продолжайте колдовать!
+line-457,萨卡兹战士,不过又是一些软弱的异族人——,They're nothing but a ragtag bunch of impotent outbloods–,Всего лишь кучка жалких иноверцев —
+line-459,爱布拉娜,可别这样说。,I wouldn't be so sure about that.,Не говори так.
+line-461,爱布拉娜,我们和活在蜜里的维多利亚人，可完全不一样。,We are nothing like those Victorians who have it easy.,"Мы совсем не похожи на викторианцев, живущих в неге."
+line-463,爱布拉娜,每一个塔拉战士，都曾在阴影里蛰伏，被痛苦千锤百炼。,"Every Taran warrior has been forged within the shadows, tempered by pain and suffering.","Каждый воин Тары таился в тенях, закаленный нестерпимой болью."
+line-465,爱布拉娜,我们曾以鬼魂为名，最熟悉与死亡为伍的滋味。,"We were once known as specters, for we knew most intimately the scent of death.","Мы звались призраками, мы как никто знаем вкус смерти."
+line-467,萨卡兹战士,我不能让你——！,I won't let you–!,Я не позволю тебе —!
+line-469,爱布拉娜,想以自己为施法材料......引爆祭坛？,Trying to turn yourself into an Arts catalyst... to detonate the altar?,Хочешь использовать себя как материал... чтобы взорвать алтарь?
+line-471,爱布拉娜,如你所愿。,As you wish.,Как пожелаешь.
+line-473,萨卡兹战士,不......！,No...!,Нет...!
+line-475,萨卡兹战士,我......来不及......,I'm... too late...,Я... не успеваю...
+line-480,,生命的火正在渐渐暗淡。,The spark of life gradually fades.,Пламя жизни медленно угасало.
+line-481,,取而代之的，是紫色的死火，同时跃动在垂死的萨卡兹战士身上，还有爱布拉娜的眼睛里。,"And in its place burns a deathly purple flame, leaping across the body of the slain Sarkaz warrior just as it dances in Eblana's eyes.","На смену ему пришел фиолетовый адский огонь, пульсирующий как в теле умирающего воина саркази, так и в глазах Эблане."
+line-488,爱布拉娜,没有什么主宰死亡的王庭。,There is no Royal Court in death's domain.,"Нет никакого Королевского двора, властвующего над смертью."
+line-490,爱布拉娜,萨卡兹，你们熟悉死亡，不过是因为......经历的战争足够多而已。,"Sarkaz, your people know death so well... only because you've fought enough wars.","Саркази, вы знакомы со смертью лишь потому, что... прошли через слишком много войн."
+line-492,“校官”,都看见了吗？,See that?,«Офицер»... в твоих глазах горит огонь.
+line-494,“校官”,死亡是站在我们这边的！我们不是在和一群看不清模样的魔鬼交战！,Death itself stands with us! Our enemies are not inscrutable demons!,Смерть на нашей стороне! Мы сражаемся не с кучкой неясных демонов!
+line-496,“校官”,把萨卡兹从装模作样的法阵里揪出来，让他们尝一尝我们的弩和炮的滋味！,Drag those Sarkaz out from their pretentious Arts Circles and give them a taste of our crossbows and cannons!,"Вытащить саркази из их притворных магических кругов, пусть попробуют на вкус наши арбалеты и пушки!"
+line-498,爱布拉娜,“校官”......你的眼睛里，有火在烧。,Brigadier... I see a flame burning within your eyes.,Я и бесчисленные солдаты из Тары ждали этого слишком долго.
+line-500,“校官”,我，还有无数塔拉出身的将士，都已经等了太久太久。,"I've waited far too long for this, just like countless other Taran warriors.","Кто из нас не вырос на легендах о похоронном колоколе Империи, уходя в армию с полным сердцем?"
+line-502,“校官”,我们谁不是听着帝国丧钟的传奇长大，带着一腔热血从军的？,"All of us grew up hearing the legends of the Empire's Death Knell, and enlisted with burning fervor in our hearts!","Но последние десятилетия владения Веллингтона и герцоги были в тисках, а мы сами оказались зажаты между столами переговоров других герцогов."
+line-504,“校官”,可过去几十年，威灵顿领和公爵阁下被死死钳制着，我们也一样被夹在其他公爵的谈判桌的缝隙中。,"But over the last few decades, Wellington's administrator and the Duke have had their hands tied, and we've also been caught between the cracks of the other dukes' negotiation tables.",Столько храбрых воинов были подавлены из-за своего происхождения или бесславно погибли в интригах викторианцев.
+line-506,“校官”,那么多满怀热血的战士，要么因出身而被打压，要么憋屈地死在维多利亚人的阴谋诡计里。,"So many hot-blooded warriors were repressed because of their background, while many others perished in the Victorians' conspiracies.","Я терпел столько лет, позволил себе стать интриганом, только ради настоящей войны — войны, развязанной не ради личной выгоды аристократов."
+line-508,“校官”,我忍耐这么多年，甚至放任自己也成了耍弄心计的小人，就是为了一场真正的战争，一场并不是由贵族私利点燃的战争。,"I've endured for so many years, even to see myself turn into a scheming villain, all for the sake of witnessing a real war – not one ignited by the nobles' petty power-jockeying.",Только на таком поле боя гибель воина славна и осмысленна.
+line-510,“校官”,只有在这样的战场上，战士的死才是光荣的，才是有意义的。,Only on such a battlefield can a warrior's death be glorious and meaningful.,Если я погибну в этой битве —
+line-512,“校官”,如果我在这场战斗中死去——,If I am to die in this battle–,"Пожалуйста, используйте свой огонь, чтобы поднять меня снова!"
+line-514,“校官”,请务必用您的火，让我重新站起来！,Then please bestow upon me your flames so that I may stand once more!,"Пока пламя не сожжет мое бренное тело, пока наше идеальное государство не будет построено — я не сложу оружие!"
+line-516,“校官”,在烈火焚尽我的残躯之前，在我们理想的国度得以建立之前——我绝不放下武器！,"Until my remains are consumed fully by the fire, until our promised nation has been established, I shall never lay down my arms!","Отлично, тогда следуй за мной вперед."
+line-518,爱布拉娜,很好，那就随我上前去。,"Excellent. Now then, come with me.",Видишь... этот трон из сухого дерева?
+line-520,爱布拉娜,看到......那枯木王座了吗？,Do you see... that throne of deadwood?,Это главарь саркази.
+line-522,“校官”,那是萨卡兹的头领。,That's the Sarkaz leader.,"Падальщик Нерезер, он именует себя королем войны и смерти."
+line-524,爱布拉娜,食腐者孽茨雷，他自称战争与死亡的王。,"The Nachzehrer, Nezzsalem. He who calls himself the lord of war and death.",Королевский двор саркази любит подобные преувеличенные титулы.
+line-526,“校官”,萨卡兹王庭很喜欢这类夸大的称谓。,The Sarkaz Royal Court sure has a thing for these overblown titles.,Преувеличенные?.. Нет.
+line-528,爱布拉娜,夸大？......不。,Overblown...? Hardly.,Он просто достаточно древен.
+line-530,爱布拉娜,他只是足够古老。,He just happens to be ancient enough.,Но он не единственная живая легенда.
+line-532,爱布拉娜,但活着的传说，不是只有他一个。,"But, he is not the only living legend here.",...Конечно!
+line-534,“校官”,......当然！,Why of course!,Неподалеку грохотали корабельные пушки.
+line-537,,不远处，舰炮轰鸣。,"Not far away, naval guns roar.","Сила, способная разрушать горы, конечно, никогда не принадлежала исключительно древнему колдовству."
+line-538,,能让山峦崩裂的力量，自然从不独属于古老的巫术。,Ancient witchcraft is not the only force that can cause mountains to move.,Пусть война встретит войну... а смерть — смерть.
+line-540,爱布拉娜,就让战争对战争......死亡对死亡吧。,"Now, let us pit war against war... and death against death.","Глава клана, охота сорвалась."
+line-555,“灵幛”,宗长，围猎被打断了。,"My Patriarch, the hunt has been cut short.",Этот драконий огонь разорвал наш строй.
+line-557,“灵幛”,那条德拉克的火，截断了我们的阵型。,That Draco's flames have broken our formation.,...Дракон.
+line-559,孽茨雷,......德拉克。,...Draco.,"Тысячи лет назад саркази, только что потерявшие родину, сражались с красными драконами на этих землях."
+line-561,孽茨雷,数千年前，刚刚失去家园的萨卡兹，也曾在这片土地上与红龙交战。,"Thousands of years ago, after the Sarkaz first lost their homeland, they once did battle against a red dragon on this very soil.","Тысячи саркази превратились в обугленные камни под этим пламенем. Сейчас они у нас под ногами, рядом с нами."
+line-563,孽茨雷,成千上万的萨卡兹在火焰下化作焦黑的石头。它们此刻就在我们脚下，我们身边。,"Those flames turned fields of Sarkaz into charred stone. They are still beside us, and beneath our feet.",Мы пойдем и убьем ее.
+line-565,“灵幛”,我们去杀死她。,We will slay her.,Один красный дракон насытит нас на какое-то время.
+line-567,“灵幛”,一条红龙，够我们饱腹一阵了。,A red dragon will sate our appetite for a while.,Не она движет этой войной.
+line-569,孽茨雷,正驱使着这场战争的，并不是她。,She is not the one who drives this war.,Король Падальщиков перевел взгляд в сторону сражения.
+line-570,,食腐者之王将目光投向战场的某一处。,The Nachzehrer King turns his gaze towards a certain part of the battlefield.,"Позади огня и дыма, принесенных красным драконом, огромная тень с немыслимой для таких размеров скоростью мчалась к ним."
+line-571,,在那红龙带来的火与烟之后，有一个庞大的影子正以与身形不符的速度冲向他们。,"Behind the Red Dragon's smoke and flames, a huge shadow is rushing toward them at an unexpected speed.","Гигант, отбрасывающий тень на всю землю, чей вздох заставляет дрожать горы и реки —"
+line-573,孽茨雷,将阴影投于大地，一吐息就能使得山河震颤的巨物——,"A titan that casts a shadow across the land, able to shake mountains and rivers with but a single breath–",Это уже давно не красный дракон.
+line-575,孽茨雷,早已不再是红龙。,No longer is it a mere red dragon.,«Параметры установлены!»
+line-581,,“参数设定完毕！”,'All parameters set!',«Заряжено!»
+line-582,,“装填完毕！”,'Loading complete!',«Запуск помех!»
+line-583,,“干扰弹发射！”,'Firing interference shells!',«Цель зафиксирована —»
+line-584,,“锁定目标——”,'Target locked on–',"«Главный калибр, первый залп!»"
+line-585,,“主舰炮，第一轮齐射！”,"'Main guns, first salvo!'",Подтверждаю попадание!
+line-596,高级军官,确认击碎！,Confirmed hit!,"Генерал, препятствие расчищено."
+line-598,高级军官,将军，路障已清理完毕。,"General, we've swept the obstacles away.",Хорошо.
+line-603,威灵顿公爵,好。,Good.,"«Гастирил», полный вперед."
+line-605,威灵顿公爵,“加斯特里尔”号，全速前进。,"Gastrell, all ahead full.",Цель — трон Падальщика.
+line-607,威灵顿公爵,目标——食腐者的王座。,Our objective – the Nachzehrer's throne.,Грохот корабельных пушек.
+line-629,,舰炮轰鸣。,The naval guns roar.,"Веллингтон хорошо знал своего самого верного старого соратника — старейшее орудие корабля, что когда-то вместе с ним разнесло ворота Лингоса."
+line-630,,威灵顿熟悉他最忠诚的老部下——船上最老的一门舰炮，曾随他一同轰开过林贡斯的大门。,"Wellington is well-acquainted with his most loyal subject – the oldest gun aboard the ship, that which assisted him in blowing open the gates of Lingones.",Он уничтожил тот процветающий город на колесах. Вырвал его позвоночник из мертвого тела и превратил в часть военного корабля.
+line-631,,他杀死了那座大地上最强盛的移动城市。他将它的脊骨从尸身上抽出来，做成了军舰的一部分。,He killed the mightiest nomadic city on Terra. He pulled the spine from its corpse and made it a part of his warship.,После этого он и «Гастирил» побывали во многих местах и победили многих врагов.
+line-632,,之后他又和“加斯特里尔”号一起，去过许多地方，战胜了很多敌人。,"Afterwards, he took the Gastrell to many lands, and conquered many foes.","Магические сферы магов Летании, щиты авангарда Урсуса, золотые клинки наемных убийц Саргона — он собирал самые ценные части со всех поверженных врагов, модернизируя флагман."
+line-633,,莱塔尼亚术师的法术球，乌萨斯先锋的盾，萨尔贡刺客的黄金刃——他将所有敌人身上最有价值的部分收集并改装，放在这艘旗舰上。,"The Arts orbs of Leithanian casters, the shields of Ursine vanguards, the golden blades of Sargonian assassins – he collected and modified the most valuable components of his enemies, and placed them upon his flagship.","И вовсе не ради памяти. Только люди, ставшие слабыми с годами, нуждаются в таких напоминаниях о прошлом."
+line-634,,并非为了纪念。只有随着岁月变得软弱的人，才需要通过这些往日的痕迹缅怀过去。,But not for the sake of commemoration. Only those who have become weak and frail through the passage of time need to rely on these vestiges to remember the past.,"«Гастирил» должен был топтать кости врагов, впитывая их силу, чтобы становиться мощнее."
+line-635,,“加斯特里尔”号必须踏过敌人的骸骨，吸纳它们的力量，从而变得更强壮。,"The Gastrell must step over the bones of its enemies, assimilating their power so that it may become stronger.",Только так они могли сообща побеждать более грозных врагов.
+line-636,,只有这样，他们才能一同战胜更强大的敌人。,Only this way can the two of them defeat even stronger enemies together.,Перехват!
+line-643,“灵幛”,拦截！,Intercept them!,Барьер из кристаллов... разрушен.
+line-655,“灵幛”,晶簇屏障......已碎。,The crystal barrier... has been shattered.,Враг всё еще движется.
+line-657,“灵幛”,敌人仍在前进。,The enemy continues to advance.,"Пробивайте путь артиллерией, жаждите смерти."
+line-659,“灵幛”,用炮火开道，渴求被赐予死亡。,"How they must long for death, using artillery fire to cleave a path.",Волны обстрелов обрушивались на ориджиниумовое море.
+line-662,,一波又一波的炮击，倾泻在源石海面上。,Wave after wave of cannonfire pours down onto the sea of Originium.,"Золотая крошка рассыпалась, в гигантских застывших волнах появились бреши."
+line-663,,金色的碎末崩解四散，凝结的巨浪出现缺口。,"Golden fragments crack and split apart, revealing a gap within those congealed waves.",Как он смеет... приближаться так близко —
+line-665,“灵幛”,它竟敢......如此靠近——,How dare they... approach us––,Густой туман окутал корабль.
+line-668,,浓雾漫上战舰。,A thick haze envelops the battleship.,"Бесчисленные воины-падальщики опустились на палубу, окутав весь корабль магическим светом."
+line-669,,无数食腐者战士落到甲板上，巫术的光笼罩整艘船。,"Countless Nachzehrer warriors land on its deck, the entire vessel enveloped in the glow of witchcraft.","Укусы, разбор на части, разъедание."
+line-670,,撕咬，拆解，腐蚀。,"Rend, dismantle, corrode.",Пушки умолкли.
+line-671,,炮火沉寂了下去。,The cadence of gunfire gradually slows.,"Как и все остальные жертвы, попавшие в зону действия магии Падальщиков, крепкий стальной корпус переваривался."
+line-672,,就像之前所有陷入食腐者法术阵地的猎物一样，坚硬的钢铁之躯正在被消化。,"The hard, steel hull is being digested, just like all other prey that has fallen into the Nachzehrers' Arts circles.",Захват... завершен.
+line-674,“灵幛”,捕获......完成。,Capture... complete...,...
+line-676,孽茨雷,......,...,Еще нет.
+line-678,孽茨雷,还没有。,Not yet.,Он поднял посох.
+line-679,,他举起法杖。,He lifts his scepter.,"Ветки стремительно вырастали из-под трона, преграждая путь воинам-падальщикам."
+line-680,,枝条自王座之下极速生长，挡在食腐者战士阵前。,"Branches grow rapidly from beneath the throne, blocking the front of the Nachzehrer warriors.",Снаряд застрял между ветвями.
+line-681,,一枚炮弹嵌在枝条之间。,A shell lodges within the branches.,"Через несколько секунд снаряд взорвался, ветки разлетелись в щепки."
+line-682,,数秒后，炮弹炸开，枝条尽数断裂。,"A few seconds later, the shell explodes, tearing the branches asunder.",Впервые с начала войны трон Падальщиков дрогнул.
+line-683,,开战之后第一次，食腐者的王座摇晃了一下。,"For the first time since the battle began, the Nachzehrer's throne shakes.",Глава клана!
+line-685,“灵幛”,宗长！,My Patriarch!,Не важно.
+line-687,孽茨雷,无妨。,It matters not.,Сквозь густой гнилостный туман постепенно вырисовывались очертания корабля.
+line-690,,腐败的浓雾之中，渐渐露出了舰船的影子。,"From the thick haze of corruption, the warship slowly comes into view.","Внешняя обшивка была разъедена, орудия повреждены наполовину, но стальной скелет всё еще испускал свет."
+line-691,,外层的部分已在腐败的侵蚀下剥落，主副舰炮也在巫术飞弹的轰击下损伤近半，唯有一副钢铁骨架，仍在闪烁光芒。,"Its outer layer flayed off by the corruption, almost half its main and secondary guns disabled due to the bombardment of witchcraft shells, only the steel frame remains shining.","Это всё еще был «Гастирил», самый мощный военный корабль на материке."
+line-692,,她依旧是“加斯特里尔”号，陆地上最强大的军舰。,"Yet she is nevertheless still Gastrell, the mightiest warship in the land.",А его хозяин —
+line-693,,而她的主人——,And her master–,"Саркази на троне опустил взгляд, среди кристаллов заметив крошечный силуэт."
+line-694,,王座上的萨卡兹低下头，于晶簇之间找到了一个小小的影子。,"The Sarkaz atop the throne lowers his head, noticing a faint shadow among the crystal clusters.","Генерал, основные силы авангарда саркази действительно были отвлечены «Гастирилом»!"
+line-701,赤铁近卫队成员,将军，萨卡兹的前锋主力的确被“加斯特里尔”号吸引！,"General, the Gastrell has successfully drawn the attention of the main Sarkaz force!","Они не знают, что мы уже покинули главный корабль —"
+line-703,赤铁近卫队成员,他们不知道我们已经从主舰上转移——,They didn't even notice that we were transferred from the main ship–,"Нет, что-то стремительно приближается!"
+line-705,赤铁近卫队成员,不，有东西正在飞速靠近！,"Wait, something's coming in fast!","Охрана, сомкнуть ряды!"
+line-707,赤铁近卫队成员,护卫队，收缩阵型！,"Guardsmen, tighten your formation!",Залп артиллерии.
+line-718,,一轮炮击。,A salvo of artillery fire.,Лишь несколько тонких веток упали вместе с пылью.
+line-719,,只有几缕细小的枝条随烟尘落下。,Only a few tiny twigs fall from the smoke and dust.,"Сила, способная сокрушить кристальную волну, не пошатнула парящую фигуру ни на йоту."
+line-720,,足以让结晶浪潮碎裂的力量，未能撼动半空中的身影分毫。,The force that was enough to shatter those crystalline waves cannot even shake the figure floating in the air.,"Король Падальщиков взирал на командующего в центре строя, а недалеко за спиной престарелого Фелина жаждущий крови корабль ждал, чтобы разорвать гниющую плоть."
+line-721,,食腐者之王俯视军阵中央的指挥官，苍老的菲林背后的不远处，那艘渴血的军舰正等待着撕扯腐烂的血肉。,"The Nachzehrer King casts his gaze down upon the commander at the center of the army. Not far behind the old Feline, the bloodthirsty warship is waiting, eager to tear at his rotting flesh.",Герцог... Виктории.
+line-723,孽茨雷,维多利亚的......公爵。,Duke... of Victoria.,"Мы поглотили многих викторианцев. Генералы, графы, какие бы ни были титулы — вкус у всех один."
+line-725,孽茨雷,我们吞吃了许多维多利亚人。将军，伯爵，无论什么头衔，大多都是一个味道。,"We have devoured many Victorians. General, Duke. Whatever the title, they all tasted the same.","Интриганы, торговцы, а не воины."
+line-727,孽茨雷,阴谋家，商人，而不是战士。,Conspirators. Merchants. But none of their warriors.,"Они считают поле боя столом для песочницы, воинов — фигурами, а войну — инструментом для захвата власти. Они так презирают войну."
+line-729,孽茨雷,他们以为战场是桌子上的沙盘，战士是一枚枚棋子，战争是争权夺利的工具。他们如此地轻视战争。,"They saw the battlefield as little more than a sandbox atop a table. The soldiers, mere chess pieces; war itself, only a tool for power and profit. How frivolous war was to them.",А ты другой. Твой корабль тоже поглотил многих врагов.
+line-731,孽茨雷,而你，不太一样。你的船同样吃掉过许多敌人。,"But, you are different. Your ship has also feasted on many enemies.","Урсусцы, летанцы, галлы... саркази. Я чувствую вкус их плоти."
+line-733,孽茨雷,乌萨斯人，莱塔尼亚人，高卢人......萨卡兹。我能闻到他们血肉的味道。,"Ursine. Leithanian. Gaulish... And, Sarkaz. I can smell their flesh.",Они тоже были поглощены Падальщиками.
+line-735,孽茨雷,他们也曾被食腐者吸纳。,They have also been absorbed by the Nachzehrers.,Саркази... я прочитал бесчисленное количество записей о тебе.
+line-737,威灵顿公爵,萨卡兹......我曾读过无数关于你的记录。,Sarkaz... I've read plenty of records about you.,"Древние Падальщики, сдерживавшие армию Виктории у ворот Казделия, имея лишь десятую часть их сил."
+line-739,威灵顿公爵,古老的食腐者，以维多利亚军队十分之一的兵力，将其阻拦于卡兹戴尔之外。,"The ancient Nachzehrers, with a tenth of the Victorian Army's numbers, were able to halt their advance on Kazdel.","Невероятная, не поддающаяся преподаванию в военных академиях и невозможная к повторению война."
+line-741,威灵顿公爵,不可思议，无法被军事学院教授，也不可能被复制的战争。,"A feat of war that defies all reason, one that cannot be taught in military academies or replicated.","Ты пришел, чтобы отомстить?"
+line-743,孽茨雷,你为寻仇而来？,Are you here to take revenge?,"...Ха-ха. Я лишь сожалею, что не родился двести лет назад."
+line-745,威灵顿公爵,......呵呵。我只遗憾，两百年前，我并未出生。,Haha. My only regret is that I hadn't been born two hundred years ago.,Они называют тебя «Богом войны»?
+line-747,威灵顿公爵,他们叫你“战争之神”？,They apparently call you the 'God of War'?,Нет. В войне не может быть абсолютного владыки.
+line-749,威灵顿公爵,不。战争不可能有什么绝对的主宰者。,No. There are no gods when it comes to war.,Есть лишь... исход текущего момента.
+line-751,威灵顿公爵,只有......当下的胜负。,There only exists... the moment of victory or defeat.,Веллингтон выхватил свой меч и направил прямо на парящего в воздухе саркази.
+line-755,,威灵顿拔出了自己的佩剑，笔直地指向半空中的萨卡兹。,Wellington draws his sword and points it at the Sarkaz in midair.,За его спиной все корабельные орудия развернулись в одном направлении.
+line-756,,在他身后，所有的舰炮都调转到了同一个方向。,"Behind him, all the guns on his ship are pointed in the same direction.","Нерезер, я одолею тебя."
+line-758,威灵顿公爵,孽茨雷，我会战胜你。,"Nezzsalem, I will defeat you.","Так же, как я одолел тех давным-давно павших сильных врагов."
+line-760,威灵顿公爵,就如我战胜那些早已死去的强敌。,Just like all the other mighty foes that have fallen at my hands.,"Так же, как я одолел тех могучих врагов, что давно сгинули."
