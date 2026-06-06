@@ -1,0 +1,397 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act38side
+__chapter__,,Chapter Name,activities/act38side/level_act38side_09_end,狼群与群狼
+,,,,
+char-1,拉维妮娅,拉维妮娅,Lavinia,Лавиния
+char-2,伊雷妮,伊雷妮,Eirene,Ирен
+char-3,德克萨斯,德克萨斯,Texas,Техас
+char-4,家族成员A,家族成员A,Mafioso A,Член Семьи А
+char-5,家族成员B,家族成员B,Mafioso B,Член Семьи Б
+char-6,卡彭,卡彭,Capone,Капоне
+char-7,卡车司机,卡车司机,Truck Driver,Водитель грузовика
+char-8,德米特里,德米特里,Demetri,Дмитрий
+char-9,莱昂图索,莱昂图索,Leontuzzo,Леонтуццо
+char-10,家族成员,家族成员,Mafioso,Член Семьи
+char-11,安东尼奥,安东尼奥,Antonio,Антонио
+char-12,柳德米拉,柳德米拉,Lyudmila,Людмила
+char-13,？？？,？？？,???,？？？
+char-14,拉普兰德,拉普兰德,Lappland,Лапленд
+char-15,英格丽,英格丽,Ingrid,Ингрид
+char-16,甘比诺,甘比诺,Gambino,Гамбино
+char-17,恺撒,恺撒,Caesar,Цезарь
+char-18,扎罗,扎罗,Zaaro,Заро
+char-19,瓦古,瓦古,Vargo,Вагу
+char-20,狼之主们,狼之主们,Signori dei Lupi,Владыки Волков
+char-21,卢奇诺,卢奇诺,Luchino,Лукино
+char-22,卡车司机A,卡车司机A,Truck Driver A,Водитель грузовика А
+,,,,
+line-10,,<p=2>1100年11月9日    11:10 P.M.</>,"<p=2>November 9th, 1100    11:10 P.M.</>",<p=2>9 ноября 1100 года    23:10</>
+line-18,拉维妮娅,......这是？,What is this?,……Это что?
+line-20,伊雷妮,根据司机们的供述整理的名单，这大半年，名单上的人一直在通过各种手段威胁他们往城里运送违禁品。,"A list of people who have been coercing drivers to smuggle contraband into the city, compiled from the truckers' testimonies.","Список, составленный на основе показаний водителей. Последние полгода люди из этого списка разными способами угрожали им, заставляя ввозить в город контрабанду."
+line-21,伊雷妮,很显然，那天晚上的车祸、新沃尔西尼港的大火，还有此时此刻广场上的动乱，都是同一群人所为——家族。,"It is the same people behind the accident that night, the fire at Nuova Volsinii port, and the insurrection on the square that's happening right now. The mafia.","Очевидно, что автокатастрофа той ночью, пожар в порту Нового Вольсини и беспорядки, что происходят прямо сейчас на площади — дело рук одних и тех же людей. Семьи."
+line-23,拉维妮娅,......原来是这样。,...I see.,……Вот оно что.
+line-24,拉维妮娅,伊雷妮，卡车工会遭遇的事情，你应该早点告诉我。昨天我去了一趟营地，但没有见到你——,You should have told me about the things that happened to the Truckers' Union. I went to the camp yesterday but didn't find you—,"Ирен, тебе следовало рассказать мне о том, что происходит с профсоюзом водителей грузовиков, раньше. Я заезжала в лагерь вчера, но не встретила тебя…"
+line-26,伊雷妮,说这些已经迟了，拉维妮娅法官。当务之急是，审判他们。,"Too late for that now, Your Honor. The important thing right now is to put these people on trial.","Об этом уже поздно говорить, судья Лавиния. Сейчас главное — судить их."
+line-28,拉维妮娅,审判？,Trial?,Судить?
+line-30,伊雷妮,这帮人想占领法院，趁着狂欢节彻底解决他们的威胁......莱昂图索之后，就是你，拉维妮娅法官。,"They want to take over the courthouse and eliminate their greatest threat before Carnevale is done... first Signore Leontuzzo, then you, Judge Lavinia.","Эти люди хотят захватить суд и воспользоваться праздником, чтобы окончательно устранить угрозу… После Леонтуццо придет твоя очередь, судья Лавиния."
+line-31,伊雷妮,此时此刻，他们已不再是新沃尔西尼市民，他们已犯下《新都市管理法案》所禁止的最为严重的罪行。,They are no longer citizens of Nuova Volsinii. They have violated everything that the New Urban Management Act stands for.,"В данный момент они уже не являются гражданами Нового Вольсини, они совершили тягчайшие преступления, запрещенные «Актом об управлении новым городом»."
+line-32,伊雷妮,眼前的一切就是现成的物证，司机们都是人证。,The evidence is right before you. The drivers are the witnesses.,"Всё, что мы видим перед собой — готовые улики, а водители — живые свидетели."
+line-34,伊雷妮,这位德克萨斯小姐，她既不属于政府也不属于家族，和卡车互助会更没有关系，完全可以充当临时陪审员。,"Signorina Texas here belongs neither to the government, the famiglie, nor the Truckers' Union. She is eminently qualified to be the jury.","Эта мисс Техас… Она не принадлежит ни к правительству, ни к Семьям, и никак не связана с профсоюзом грузоперевозчиков. Она вполне может выступить в роли присяжного заседателя."
+line-37,德克萨斯,呃......,Er...,Э-э…
+line-41,伊雷妮,而你是新沃尔西尼的大法官，这已经满足紧急审判程序的基本条件了......“紧急审判程序”，是叫这个名字吧？,And you are the Supreme Justice of Nuova Volsinii. The conditions have been met for emergency judicial procedures... did I get the term right?,"А ты — главный судья Нового Вольсини. Этого уже достаточно для соблюдения базовых условий «Процедуры чрезвычайного судопроизводства»… Она ведь так называется, верно?"
+line-42,伊雷妮,在极端情势下，只要满足最基本的条件，法院就可以对严重威胁到新沃尔西尼公共安全的犯罪者进行缺席判决。,"Under extreme circumstances, the courts may, when the basic conditions have been fulfilled, try persons who present a significant risk to the public security of Nuova Volsinii in absentia.","В экстремальных обстоятельствах, при соблюдении минимальных условий, суд может вынести заочный приговор преступникам, представляющим серьезную угрозу общественной безопасности Нового Вольсини."
+line-44,拉维妮娅,......,...,……
+line-45,拉维妮娅,当务之急应该是控制局势，确保民众的安全和狂欢节的顺利进行。,"The most important matter at hand is to bring the situation under control, to ensure the safety of the citizens and the smooth progress of Carnevale.","Первоочередная задача — взять ситуацию под контроль, обеспечить безопасность жителей и беспрепятственное проведение праздника."
+line-47,伊雷妮,这正是我的目的，拉维妮娅法官。你下达判决，卡车工会可以帮助你执行判决。,"That's what I'm here for, Your Honor. Deliver your judgment, and the Truckers' Union will carry it out.","Именно этого я и добиваюсь, судья Лавиния. Вы выносите приговор, а профсоюз водителей поможет вам его исполнить."
+line-49,拉维妮娅,是吗？,Is that so?,Правда?
+line-57,拉维妮娅,你列出的这份名单——,This list of names that you gave me—,"Этот список, который ты составила…"
+line-59,拉维妮娅,有些太过详细了，伊雷妮。,"It's a little too detailed, Eirene.","Он слишком детальный, Ирен."
+line-60,拉维妮娅,威尼斯、萨卢佐、美第奇、雷欧帝、吉诺维斯......好几个家族......这些人真的都在外面的广场上吗？,"Venezia, Saluzzo, Medici, Leoti, Genovese... are all of these famiglie on the square outside?","Венеция, Салуццо, Медичи, Леоди, Джиновезе… Сразу несколько Семей… Эти люди действительно сейчас на площади снаружи?"
+line-62,伊雷妮,拉维妮娅法官，上面没有一个人是无辜的。,"Nobody on this list is innocent, Your Honor.","Судья Лавиния, среди них нет ни одного невиновного."
+line-64,拉维妮娅,......,...,……
+line-65,拉维妮娅,一旦启用紧急审判程序，签署了这份判决书，就意味着名单上的所有人都成为了《新都市管理法案》认定的极端犯罪者......,"If emergency judicial procedures are activated, once I sign this verdict, everyone on this list becomes an outlaw under the New Urban Management Act...","Как только будет запущена процедура чрезвычайного судопроизводства и подписан этот обвинительный акт, это будет означать, что все люди из списка признаны экстремистами согласно «Акту об управлении новым городом»…"
+line-66,拉维妮娅,任何人都能根据紧急避险原则控制他们，甚至处决他们，而不被追究责任。,"By law, anyone may apprehend, even execute them at their own discretion, without legal consequence.",Любой желающий сможет задержать или даже казнить их на основании принципа крайней необходимости без риска быть привлеченным к ответственности.
+line-68,拉维妮娅,眼前的局势，还不足以支持我作出这样的判断。,The present situation is not enough for me to justify such a measure.,"Текущей ситуации недостаточно для того, чтобы я могла вынести такое решение."
+line-70,伊雷妮,可他们本就是要来对付你的，拉维妮娅。,"But they're here for you, Lavinia, and they're not coming with good intentions.","Но ведь они сами пришли, чтобы расправиться с тобой, Лавиния."
+line-72,拉维妮娅,没错。可伊雷妮，你今天来的真实目的是什么呢？,"That may be true, Eirene. But what intentions are YOU coming here with?","Верно. Но Ирен, какова же твоя истинная цель сегодня?"
+line-74,拉维妮娅,你今天开来这么多辆卡车围住法院，究竟是为了保护一个朋友，还是......为了方便拿到一份可以解决自己身上所有麻烦的凭据？,Why have you surrounded the courthouse with all these trucks? Is it to protect a friend... or to take the opportunity to solve all the problems you're facing?,"Ты пригнала сюда столько грузовиков и окружила суд — чтобы защитить друга или… чтобы получить юридическое обоснование, которое решит все твои проблемы?"
+line-79,伊雷妮,昨天，你去营地找我的时候，我正在尝试为索默尔收尸......,"When you came to the camp yesterday, I was trying to find Sommer's body...","Вчера, когда ты приходила в лагерь, я пыталась забрать тело Соммера…"
+line-81,拉维妮娅,——,—,——
+line-83,伊雷妮,谢谢你还记得他......是的，他已经死了。但我动员了许多人，都没能找到他的尸体。,"Thank you for remembering him... yes, he's dead. I mobilized a lot of people, but we never found his body.","Спасибо, что помнишь о нем… Да, он мертв. Но я подняла многих людей, и мы так и не смогли найти его тело."
+line-84,伊雷妮,我不知道凶手具体是谁，可我知道凶手就在外面。,"I don't know who killed him, but I know he—or she—is out there, in the darkness below.","Я не знаю, кто именно убийца, но я знаю, что он прямо здесь, снаружи."
+line-86,伊雷妮,我甚至知道凶手并非具体的某个人，而是一道阴影，它始终悬在我们头顶，哪怕我们逃到了这座新城市，也还是没能逃开。,"It's not any one man or woman who killed him. It's a shadow that has always hung above our heads, one that has continued to stalk us, even after coming to this new city.","Я даже знаю, что убийца — это не какой-то конкретный человек, а тень, что постоянно висит над нами. Мы сбежали в этот новый город, но так и не смогли от нее скрыться."
+line-88,伊雷妮,我想让害死索默尔的凶手得到应有的惩罚，我想让剩下的那些人都不再受到伤害......,I want the murderers to get the punishment they deserve. I want to protect the rest of them and prevent the same fate from befalling anyone else.,"Я хочу, чтобы убийца Соммера понес заслуженное наказание, я хочу, чтобы остальным больше никто не причинил вреда…"
+line-89,伊雷妮,拉维妮娅法官，这就是我的目的。,"That's my intention, Your Honor.","Судья Лавиния, вот моя цель."
+line-95,伊雷妮,我该出去了，他们没有经历过这种场面，我得在他们身边......,I should go. They're not used to this kind of stuff. I got to be by their side...,"Мне пора выходить. Они никогда не бывали в подобных ситуациях, я должна быть рядом с ними…"
+line-97,伊雷妮,我理解，一下子知道太多事情，你需要一点时间想一想。我会安排人守住法院的门口，保证你们不被打扰。,"I know it's a lot to take in all at once, and you need time to process. I'll make sure you're not disturbed.","Я понимаю, тебе нужно время, чтобы все обдумать. Я прикажу своим людям охранять вход в здание суда, чтобы вас никто не потревожил."
+line-98,伊雷妮,但别太久。,But don't take too long.,Но не затягивай.
+line-113,家族成员A,怎么回事？这是中了埋伏？,What's going on? An ambush?,В чем дело? Это засада?
+line-114,家族成员A,市政厅早就知道了我们今天晚上的行动？,Did City Hall know about our plans?,Мэрия знала о наших планах на сегодняшний вечер заранее?
+line-116,家族成员B,我刚刚看到他们的头头进了法院，肯定是去找那个法官了......,I saw their leader go into the courthouse. She must have gone to see that judge...,"Я только что видел, как их глава зашла в здание суда, наверняка пошла к этой судье…"
+line-119,卡彭,慌什么？不过是拉货的卡车，又不是开火的战车。,"What'cha scared of? It's trucks, not tanks.","Чего паникуете? Это всего лишь грузовики для перевозки товаров, а не боевые машины."
+line-120,卡彭,而且，政府的人自己缩在里面，让一帮开车的出头，还有什么好怕的？,"The government's so scared, they have to hide behind a bunch of truckers.","К тому же, правительственные чиновники спрятались внутри, а вперед выставили кучку водителей. Чего тут бояться?"
+line-122,卡彭,别管他们。进法院！,Forget 'em. We're going in!,"Не обращайте на них внимания. Вперед, в суд!"
+line-133,卡车司机,伊雷妮，怎、怎么样？,E-Eirene! What do we do?,"Ирен, ну, к-как там?"
+line-135,伊雷妮,......给她一点时间吧。,Give her some time.,…Дай ей немного времени.
+line-139,伊雷妮,各位，我知道你们是谁，也知道你们想干什么。,"Signore e signori, I know who you are, and I know what you're planning.","Господа, я знаю, кто вы такие и чего хотите."
+line-140,伊雷妮,但别再往前了。,I suggest you go no further.,Но дальше вы не пройдете.
+line-157,德米特里,......真热闹，很难想象叙拉古会有这样全城人都参与其中的庆典。,"...It's quite a scene. I never imagined there would a festival in Siracusa like this, where everybody is part of it.","…Как оживленно. Трудно представить, что в Сиракузах бывают такие праздники, в которых участвует весь город."
+line-159,莱昂图索,因为这座新城市属于他们每一个人。,It's because this city belongs to all of them.,Потому что этот новый город принадлежит каждому из них.
+line-161,德米特里,莱昂，在你的设想中，叙拉古未来会有多少座像这样的城市？,"Tell me, Leon... in those grand dreams of yours, how many cities like this will there be in Siracusa?","Леон, сколько, по твоим расчетам, в будущем будет таких городов в Сиракузах?"
+line-163,莱昂图索,......,...,……
+line-165,德米特里,你沉默了。这不像是你会有的反应。,You're quiet. It's not like you.,Ты молчишь. Это не похоже на твою обычную реакцию.
+line-167,莱昂图索,我只是在想，我该说出一个确切的数字，还是告诉你，“整个叙拉古”。,"Just thinking about whether I should give you an actual figure, or just say, all of Siracusa.","Я просто думаю, стоит ли называть точную цифру или ответить: «Целые Сиракузы»."
+line-168,莱昂图索,如果自成体系的法律、没有家族的新秩序只在新沃尔西尼有效，那它们会让这座城市越发成为一座孤岛......,"If Nuova Volsinii is the only place where this legal system, this new order without the famiglie exists, then it will be nothing but a lonely island in the ocean...","Если независимая правовая система и порядок без Семей будут работать только в Новом Вольсини, город станет все более изолированным островом…"
+line-169,莱昂图索,这一点，我和拉维妮娅已经有了深刻的体会。,This is something that Lavinia and I have taken to heart.,Мы с Лавинией уже осознали это на горьком опыте.
+line-170,莱昂图索,在泥潭中拔起一座孤岛是没有用的，但在那之前，我需要向西西里夫人证明，这种可能性在叙拉古能够实现。,"One lonely island in a swamp matters little. Before that, though, I must demonstrate to Signora Sicilia that this is possible in Siracusa.","Бесполезно поднимать остров из болота в одиночку, но прежде чем двигаться дальше, мне нужно доказать синьоре Сицилии, что в Сиракузах это возможно."
+line-172,德米特里,到那时，会有多少在你看来落后的人和事被抛下？,"How many people, how many things will you leave behind in the process?","И сколько людей и дел, которые ты считаешь пережитком прошлого, будет отброшено к тому времени?"
+line-174,莱昂图索,......,...,……
+line-176,德米特里,莱昂，你还是那个你，说到理想时会滔滔不绝，很清醒也很坚定。,"You haven't changed one bit, Leon. You're firm, unwavering, and very talkative when you talk about your dreams.","Леон, ты всё тот же: когда говоришь об идеалах, ты красноречив, рассудителен и тверд."
+line-178,德米特里,但我压根没有兴趣在这里和你探讨叙拉古的未来该往何处去。,But I'm not interested in engaging in a philosophical debate about the future of Siracusa with you here.,Но у меня нет ни малейшего интереса обсуждать с тобой будущее Сиракуз.
+line-179,德米特里,这几个月，市政厅驳回了以贝洛内为名的企业的所有入驻申请，这其中有你的授意吧？,"In the past few months, City Hall has rejected all applications by businesses associated with the Bellones. You're behind it, aren't you?","Последние несколько месяцев мэрия отклоняла все заявки на ведение деятельности компаний, связанных с Беллоне. Ты приложил к этому руку?"
+line-181,莱昂图索,我不否认。,I won't deny it.,Я не отрицаю этого.
+line-183,德米特里,我能理解你的做法，为了与过往割席，为了证明市政厅的纯洁......,"I can understand why you did it. You wanted to separate yourself from the past, to demonstrate the purity of City Hall... ","Я могу понять твой поступок: желание порвать с прошлым, стремление доказать чистоту мэрии…"
+line-185,德米特里,那么，究竟是谁心里没有放下“家族”？,Who's the one who hasn't let the famiglia go?,Так кто же на самом деле не отпустил «Семьи»?
+line-186,德米特里,你应该记得，一年前，哪怕首领掀起的那场动乱让大多数人脱离了家族，但依然有不少成员留了下来。,"You remember how some associates of the famiglia chose to stay one year ago, even after most left because of what the old man did.","Ты должен помнить, что год назад, хотя беспорядки, поднятые лидером, заставили большинство людей уйти из Семей, многие члены остались."
+line-187,德米特里,你不知道的是，在我们组成新的家族，商量今后要以什么名义活动时，几乎每个人都选择了保留“贝洛内”这个名字。,"What you don't know is that, as we discussed where we would go from there, there was unanimous agreement from the remaining associates to keep the Bellone name.","Ты не знаешь того, что когда мы формировали новую Семью и обсуждали, под каким именем будем действовать дальше, почти все решили сохранить название «Беллоне»."
+line-188,德米特里,尽管在叙拉古，继续以“贝洛内”自居意味着其他家族的落井下石，一个又一个仇家找上门来，无穷无尽的麻烦......,"Even if the name put a target on our backs for the other famiglie, for all our enemies, and gave us trouble after trouble...","Хотя в Сиракузах продолжение использования имени «Беллоне» означало удары в спину от других Семей, бесконечные враги и непрекращающиеся проблемы…"
+line-189,德米特里,我们也因此不得不转而来新沃尔西尼寻找机会。,Even if it forced us to seek new opportunities in Nuova Volsinii...,Нам пришлось отправиться в Новый Вольсини в поисках шанса.
+line-191,德米特里,但他们并不后悔。他们曾在贝洛内家族一起生活，一起流血流汗，一起挣下一块块地盘，一起赢得所有人的尊重......,"They don't regret it. They had lived together, fought together, and bled together under the Bellone name, carved out our own bit of turf together, earned the respect of everyone together...","Но они не жалеют. Они жили вместе в Семье Беллоне, вместе проливали кровь и пот, вместе захватывали территории, вместе добивались уважения всех окружающих…"
+line-192,德米特里,连首领和少主的背叛都没法剥离那份认同感。,Not even the betrayal of the Don and his heir could shake this sense of belonging.,Даже предательство лидера и наследника не смогло разрушить это чувство общности.
+line-194,莱昂图索,......,...,……
+line-196,德米特里,你和首领都想破旧立新，从根本上改变这个国家，多么决绝，多么伟大。,"You and the Don wanted to do away with the old and bring in the new, to change this country from the foundation. How admirable. How determined.","Ты и лидер хотели разрушить старое и построить новое, чтобы изменить эту страну в корне. Как решительно, как величественно."
+line-198,德米特里,但如果你们的伟大理想里甚至容不下曾经一起出生入死的兄弟，那是不是太过残忍了？,"But isn't it a little cruel, if there is no room in your great ambitions for the fratelli who have had your back all this time, who had gone through hell and high water with you?","Но если в ваших великих идеалах нет места для братьев, с которыми вы когда-то прошли через огонь и воду, не слишком ли это жестоко?"
+line-199,德米特里,莱昂，你让他们敬佩，却也......,"They respect you, Leon. But they're also...","Леон, ты вызываешь восхищение, но также…"
+line-201,莱昂图索,却也让他们失望。,Disappointed.,Но также и разочарование.
+line-203,德米特里,是啊，“失望”......原来你一直都知道。,"Yes, disappointed... you knew.","Именно, «разочарование»… Оказывается, ты всегда знал."
+line-207,德米特里,真冷漠啊，莱昂图索。,"How cold of you, Leontuzzo.","Какая холодность, Леонтуццо."
+line-209,莱昂图索,......,...,……
+line-211,德米特里,如果新沃尔西尼将我们拒之门外，只是因为市长大人曾是贝洛内的少主，贝洛内的企业入驻会引起不必要的舆论风波——,"If Nuova Volsinii rejects purely because the mayor was once the heir of Bellone, because of the potential backlash that permitting the entry of Bellone business might bring—","Если Новый Вольсини отказывает нам только потому, что господин мэр когда-то был наследником Беллоне, и деятельность бизнеса Беллоне вызовет нежелательный общественный резонанс —"
+line-212,德米特里,那么如果你消失了，问题同样可以迎刃而解。,The problem can be solved by taking you out of the equation.,"То, если ты исчезнешь, проблема также может быть легко решена."
+line-214,莱昂图索,......,...,……
+line-215,莱昂图索,你的手下都在附近占好了位置，狂欢的人群根本没注意到我们，这件事对你来说不难。,You men are in place nearby. The reveling crowd pays no heed to us. It's not hard for you.,"Твои люди заняли позиции поблизости, гуляющая толпа даже не заметила нас. Для тебя это будет несложно."
+line-217,德米特里,很容易。,Barely an inconvenience.,Очень легко.
+line-218,德米特里,一年前我就说过，我必须对留下来的人负责。,I said a year ago that I am responsible to those left behind.,"Я же говорил год назад, что должен нести ответственность за тех, кто остался."
+line-222,德米特里,这些话，我本打算那天晚上在餐厅跟你说，已经迟了几天了......,"I had intended to tell you this, that night at the restaurant. I've had to push it back for a few days.","Эти слова я собирался сказать тебе в ресторане той ночью, но прошло уже несколько дней…"
+line-223,德米特里,你的车祸确实与我无关，但如果你真的成为了我们的阻碍，我会除掉你，市长大人。,"I didn't have anything to do with your accident, Signor Mayor. But I will not hesitate to get you out of our way, if you become an obstacle to us.","Твоя автокатастрофа действительно не была моей рук делом, но если ты станешь препятствием, я устраню тебя, господин мэр."
+line-225,莱昂图索,我相信你，德米特。你从不开玩笑。,I believe it. You were never the joking type.,"Я верю тебе, Дмитрий. Ты никогда не шутишь."
+line-227,德米特里,所以——,So—,Поэтому —
+line-234,德米特里,这是什么动静？,What's that sound?,Что это за шум?
+line-235,德米特里,更大型的花车？莱昂，市政厅在狂欢节上安排了什么神秘节目吗？,An even bigger float? Did the City Hall plan a surprise for the parade?,"Более масштабная передвижная платформа? Леон, мэрия устроила какой-то секретный номер на празднике?"
+line-237,莱昂图索,......,...,……
+line-247,伊雷妮,......我不清楚附近还藏了多少你们的人，但今天晚上，从正式成员到临时雇佣人员，工会的司机几乎全在这里。,"I don't know how many of you are skulking out there tonight, but I can tell you pretty much every driver from the guild is here, be it full members or temporary contractors.","…Я не знаю, сколько еще ваших людей скрывается поблизости, но сегодня вечером здесь почти все водители профсоюза, от постоянных членов до временных наемников."
+line-249,家族成员,呵，敢情这是打群架啊，谁人多谁说话就有底气。,"Hah, strength in numbers, she says.","Ха, похоже на массовую драку. Кто численностью взял, тот и прав."
+line-250,家族成员,别告诉我你们待会儿还要从后备箱抽出什么扳手、千斤顶和钢条......,What's next? You'll whip out a spanner from the trunk or something?,"Только не говорите, что сейчас начнете доставать из багажников гаечные ключи, домкраты и монтировки…"
+line-251,家族成员,今天晚上的事情，可以不和你们计较。现在，让开！,"I'll tell you what, get out of my sight right this instant, all of you, and I'll pretend I didn't see you tonight.","Считайте, что мы можем простить вам сегодняшний вечер. А теперь, прочь с дороги!"
+line-253,伊雷妮,我知道人数再多也不一定就能挡住你们。,I never thought we could stop you through strength of numbers alone.,"Я знаю, что большое количество людей не обязательно сможет вас остановить."
+line-254,伊雷妮,一群臭开车的，别说杀人了，甚至连打架都不怎么会。毕竟生活已经够累了，需要我们去躲去让的东西已经够多了。,"A bunch of haulers who could hardly hold their own in a drunken brawl, much less fight to the death. Life's already hard enough. There's too much in life that we have to give up.","Кучка обычных водителей… молчу уже про убийства, мы даже толком драться не умеем. В конце концов, жизнь и так достаточно утомительна, нам и так приходилось слишком часто уступать и убегать."
+line-256,伊雷妮,你们的态度让我更加确定了一件事。家族不会把我们放在眼里，以前不会，现在不会，以后更不会。,"You've proven one thing: The famiglie will never give a second thought about us. Not then, not now, not ever.","Ваше отношение лишь убедило меня в одном. Семьи никогда не считались с нами. Раньше — нет, сейчас — нет, и в будущем — тем более."
+line-257,伊雷妮,继续躲继续让，只会让我们看到更多的血，自己的、朋友的、亲人的......,"Continue to cower, and all we'll continue to see is blood. Our own, our friends', our family's...","Дальше уступать и бежать — значит только видеть еще больше крови. Своей, друзей, родных…"
+line-259,家族成员,......,...,……
+line-270,安东尼奥,你们已经耽误了足足十分钟。,It's been a full ten minutes.,Вы потеряли уже десять минут.
+line-273,卡彭,......,...,……
+line-276,安东尼奥,卡彭，你能联系上甘比诺吗？,Can you reach Gambino?,"Капоне, ты можешь связаться с Гамбино?"
+line-279,卡彭,通讯从刚才起就没有接通过......,"No, I ain't getting through at all...",Связь не отвечает с самого начала…
+line-283,卡彭,有些不对劲......,Something's not right...,Что-то не так…
+line-284,卡彭,这个时间点，陆行舰应该已经到达指定位置并完成接驳，运货的车队也已经出发，但到现在，港口那边一点动静都没有......,"The landship shoulda reached the rendezvous point and made port, and the convoys shoulda been on their way already. But there's no movement at the docks at all...","К этому времени сухопутный корабль уже должен был прибыть в назначенную точку и завершить стыковку, а грузовой конвой должен был отправиться в путь. Но до сих пор в порту ни звука…"
+line-287,安东尼奥,所以，你还要听那个司机说漂亮话到什么时候？,"Are you going to listen to that driver talk until morning, Capone?",Так сколько ты собираешься слушать сладкие речи этого водителя?
+line-290,卡彭,安东尼奥，他们只是一群臭开车的。真的要——,"They're just a bunch of haulers, Antonio. Are you sure—","Антонио, они всего лишь кучка водителей. Неужели нам нужно…"
+line-293,安东尼奥,他们挡在了你的路上，卡彭。,"They're in the way, Capone.","Они стоят на твоем пути, Капоне."
+line-305,卡彭,————,————,————
+line-308,伊雷妮,————,————,————
+line-309,伊雷妮,发生了什么？怎么感觉整个移动地块都在震动......,What's going on? Feels like the whole plate is shaking...,"Что случилось? Почему кажется, что весь передвижной сектор дрожит…"
+line-310,伊雷妮,震动是从港口的方向传来的——,It came from the direction of the port—,Дрожь идет со стороны порта…
+line-312,柳德米拉,喂，你们快看那边——,"Hey, that way—","Эй, вы, посмотрите туда —"
+line-314,家族成员,那是咱们的陆行舰......吗？,That's our landship... right?,Это наш сухопутный корабль…?
+line-320,,一个气球挣脱了线，从地面缓缓升起，直到十数秒后才撞到某个庞然巨物顶部的棱角，变成了碎片——,"A balloon escapes the thread that bound it and rises into the air for a dozen seconds, until it comes to an abrupt end when it meets a corner at the top of a massive object.","Один воздушный шар сорвался с нитки и медленно поднялся с земли, пока через десяток секунд не столкнулся с выступом гигантской махины, превратившись в лоскуты —"
+line-332,,那是一艘特制的货运陆行舰。,It is a custom-built cargo landship.,Это был специализированный грузовой сухопутный корабль.
+line-333,,往来于移动城市间的超级载具，巨大且坚硬，以便运载足够多的货物，挺过频发的天灾和复杂的地形。它绝不该出现在城市内部。,"A massive vehicle that travels from city to city, its enormous, resilient hull able to protect massive amounts of cargo from Catastrophes and hazardous terrain. It is not an object that one would expect to see inside a city.","Супер-транспорт, курсирующий между мобильными городами, огромный и прочный, чтобы перевозить достаточно грузов и преодолевать частые бедствия и сложный ландшафт. Ему не место внутри города."
+line-334,,但现在，它以蛮力强行挤进了新沃尔西尼，履带将地面压碎，砖石横飞，两侧的建筑物被它剐蹭到，外立面的碎片纷落如雨。,"But it has forced its way into Nuova Volsinii by brute force, its tracks crushing the ground underneath it, sending gravel flying. It tears buildings apart like paper as it brushes past them, and the resultant rubble falls from the sky like a rain of stone.","Но сейчас он грубой силой втиснулся в Новый Вольсини. Гусеницы дробили землю, кирпичи разлетались в стороны, здания по обе стороны задевались, а осколки фасадов сыпались дождем."
+line-350,,陆行舰已经挤进广场，但依然没有停下的架势，原本围住法院的卡车被撞飞，家族成员和卡车司机们惊慌地向两侧退开。,"It shows no sign of stopping even as it enters the square, casually brushing aside the trucks that surrounded the courthouse, while mafioso and truck drivers alike scatter, fleeing for their lives.","Сухопутный корабль уже втиснулся на площадь, но не собирался останавливаться. Грузовики, окружавшие суд, были отброшены, а члены Семей и водители в панике отступили в стороны."
+line-362,,......陆行舰终于停了下来。,"Finally, slowly, the landship comes to a rumbling halt.",…Сухопутный корабль наконец остановился.
+line-368,,到这时，人们才发现这艘本应奔行于荒野的钢铁巨兽，从上到下都挂上了彩带和气球......它是来参加今晚的庆典的！,"That was when they noticed that there are ribbons and balloons all over this behemoth of steel, meant to roam the wilderness. It is here for the festival.","Только тогда люди заметили, что этот стальной гигант, созданный для диких земель, был украшен лентами и воздушными шарами… Он приехал участвовать в вечернем празднике!"
+line-369,？？？,Ciao~,Ciao!,Ciao~
+line-370,？？？,咳咳——今夜可是狂欢节，你们怎么这么拘束，狼崽子们！,"*cough* *cough* Why so serious, wolf pups? It's Carnevale! A time to celebrate and party!","Кхе-кхе… Сегодня же карнавал! Почему вы такие скованные, волчата?"
+line-371,,一句呵斥，或者嘲弄，清晰地传进所有人的耳朵——声音来自陆行舰的甲板。,"Be it admonishment or taunt, all could hear the voice coming from the deck of the landship.",Упрек или насмешка отчетливо раздались в ушах у каждого — голос доносился с палубы корабля.
+line-375,,在所有人的注视下，白狼缓缓揭下了面具。,The White Wolf removes her mask. No one can take their eyes off her.,На глазах у всех белая волчица медленно сняла маску.
+line-391,,几束射灯为她扫清周围的黑暗，夜风知趣地抖开她肩头的红色，耀眼的红。,Beams from spotlights sweep away the darkness around her. The tactful night breeze brushes open the bright red on her shoulder.,"Несколько прожекторов разогнали темноту вокруг нее, а ночной ветер охотно развернул красный цвет на ее плечах. Ослепительно красный."
+line-392,,叙拉古最敬业的剪裁师别出心裁地将玫瑰与鲜血缝进白狼的礼服，让她与舞台和荒野都十分相称。,"The best tailor in Siracusa has weaved roses and blood into the dress of the White Wolf, equally at home on stage or in the wilds.","Лучший портной Сиракуз изобретательно вшил розы и кровь в платье белой волчицы, сделав ее образ подходящим как для сцены, так и для дикой пустоши."
+line-393,,广场上的家族成员和卡车司机都目瞪口呆地仰头看着，拉普兰德显然对观众们的反应很满意，她以最灿烂的微笑向所有人致意。,"Seemingly satisfied at the reaction of the audience of mafioso and truck drivers, Lappland delivers her brightest smile, and takes a graceful bow.","Члены Семей и водители грузовиков на площади завороженно смотрели вверх. Лапленд, очевидно, была довольна реакцией зрителей и приветствовала всех лучезарной улыбкой."
+line-408,拉普兰德,你们跳不跳舞？跟不上舞步的那一方会被割下尾巴的那种。,"Shall we dance? Fall behind, lose your tail.","Танцевать будете? У того, кто не поспеет за ритмом, отрежут хвост."
+line-409,拉普兰德,再不济也该行个贴面礼吧，你们为什么只是像罚站一样杵在原地？,"Well, why are you standing there like a bunch of statues? The least you could do is blow a kiss or two.","В крайнем случае, можно просто поцеловаться при встрече. Почему вы все застыли, словно в наказание?"
+line-410,拉普兰德,作为狂欢的最后一站，你们难道不该用最盛大的演出迎接游行的人们吗？,"This is the final stop of the night of wonders. What are you doing, if you're not welcoming the parade with the grandest show of them all?","Как последняя остановка карнавала, разве вы не должны встретить участников шествия грандиозным представлением?"
+line-411,拉普兰德,......,...,……
+line-412,拉普兰德,哦——我明白了，你们大部分人的手里还空空如也！,"Oh, I see! Most of you are still empty-handed!",О-о… Я поняла! У большинства из вас в руках пусто!
+line-413,拉普兰德,真是的，游戏当然要公平，演出当然要尽兴，更何况，早就有人为各位准备好了道具——,"My bad, my bad. A game has got to be fair, and a performance has got to be grand. Thankfully, someone has prepared the props ahead of time—","Ну что ж, игра должна быть честной, выступление — полноценным, тем более, что для всех уже давно подготовили реквизит…"
+line-415,,不知道从何处响起了音乐，拉普兰德随着节奏迈步，她旁若无人，声情并茂，一边说话，一边将甲板上的箱子一个接一个地踢下去。,"Music begins to play, and Lappland puts her foot forward to the rhythm. Acting like she owns the place, she kicks box after box off the deck; all the while, she never stops talking.","Неизвестно откуда зазвучала музыка. Лапленд зашагала в такт, никого не замечая вокруг, с выражением и страстью. Она говорила и одновременно пинками сбрасывала ящики с палубы один за другим."
+line-429,,箱子在空中解体，里面的东西四散开来——各式各样的施术单元、铳械、法杖、制式弩箭、源石爆炸物......,"The boxes break apart in mid-air, sending their contents scattered across the plaza—Arts units, guns, staves, crossbows, Originium explosives...","Ящики рассыпались в воздухе, и их содержимое разлетелось во все стороны — разнообразные устройства для магии, огнестрельное оружие, посохи, арбалеты, взрывчатка с Ориджиниумом…"
+line-430,,法院广场下起了武器的雨，雨滴砸得到处都是，落在每一个人都触手可及的位置。,It is a rain of weapons that falls everywhere. All one has to do is stretch out their hand to pick up the raindrops.,"Над площадью суда пролился дождь из оружия. Капли падали повсюду, оказываясь в пределах досягаемости каждого."
+line-443,卡彭,......,...,……
+line-453,伊雷妮,......,...,……
+line-462,家族成员,......,...,……
+line-472,卡车司机,......,...,……
+line-483,拉普兰德,这不是各位一直在等待，一直在找寻的东西吗？,"Don't be shy, don't be shy! It's what you've been waiting for, what you've been looking for, isn't it?",Разве не этого вы все так долго ждали и искали?
+line-484,拉普兰德,别急别急，人人有份！,"No rush, no hurry! There's plenty for everybody!","Не спешите, не спешите, всем хватит!"
+line-485,拉普兰德,新沃尔西尼的朋友们，别辜负良夜！,"The night is young, Nuova Volsinii!","Друзья из Нового Вольсини, не тратьте время зря!"
+line-502,安东尼奥,萨卢佐家的白狼，劫持了我们的陆行舰......,The White Wolf of Saluzzo has hijacked our landship...,Белая волчица из дома Салуццо угнала наш сухопутный корабль…
+line-503,安东尼奥,这是阿尔贝托的布置？不对，调用陆行舰是临时的决定，之前阿尔贝托只是在卡车工会的事上和我较劲。,"Is this Alberto's doing? No, the use of the landship was a last-minute decision. Alberto hasn't shown any sign of intervening, other than the two of us butting heads on the matter of the Truckers' Union.","Это план Альберто? Нет, использование сухопутного корабля было временным решением. Раньше Альберто соперничал со мной только из-за профсоюза водителей."
+line-505,安东尼奥,那个拉普兰德究竟想干什么......总不会是为了好玩吧？,"What is that Lappland thinking? She's not doing this just for fun, is she?",Чего добивается эта Лапленд… Не может же это быть просто ради забавы?
+line-519,卡彭,安东尼奥，我还是联系不上甘比诺......,Still can't get through to Gambino.,"Антонио, я до сих пор не могу связаться с Гамбино…"
+line-521,安东尼奥,你最好祈祷他还活着。,You better pray he's still alive.,"Лучше молись, чтобы он был еще жив."
+line-523,卡彭,那......,Uh...,Тогда…
+line-525,安东尼奥,紧张什么？,No need to be anxious.,Чего нервничаешь?
+line-527,安东尼奥,拉普兰德直接帮我们把武器运到了广场，除了动静闹得大了一些，目前的情况和我们的计划没有太大出入。,"Lappland just spared us the effort of delivering the weapons to the square. Other than the commotion being a little bigger than expected, things are going largely according to plan.","Лапленд сама доставила нам оружие на площадь. Если не считать шума, ситуация пока не сильно отклоняется от нашего плана."
+line-528,安东尼奥,我现在去港口，拉普兰德只有一个人，新沃尔西尼港纵使出了意外，也还来得及处理。,"I'm going to the docks. Lappland is just one Lupo. Even if something did happen at the Nuova Volsinii port, there will be enough time to deal with it.","Я сейчас направляюсь в порт. Лапленд одна, даже если в порту Нового Вольсини произошла осечка, мы успеем с этим разобраться."
+line-529,安东尼奥,法院广场这边交给你，让附近几个城区的成员都往法院广场靠拢，货散了，就好好清点，好好交接。,You take care of things here at Court Square. Get the guys from adjacent districts to come over towards Court Square. Take inventory and make sure the goods are delivered properly.,Площадь суда оставляю на тебя. Пусть члены Семьи из ближайших районов подтянутся к суду. Груз распределен — пересчитайте его и примите к сведению.
+line-530,安东尼奥,只要攥紧了这座城市的大脑和心脏，其他部位再怎么动弹都是可控的。,"The city's brain and heart is what's really important. Once that's under control, everything else will fall into place.","Пока мы держим в руках мозг и сердце города, остальные части под контролем."
+line-532,卡彭,明白。,You got it.,Понял.
+line-533,卡彭,我已经让人清理出了一条路，可以避开游行的队伍和警察，让你能最快速度到达新沃尔西尼港。,"I had the boys clear a path that takes you away from the parade and cops, so that you can get to the Nuova Volsinii port in the shortest amount of time.","Я уже расчистил путь, чтобы избежать столкновения с парадом и полицией, так что ты доберешься до порта Нового Вольсини кратчайшим путем."
+line-534,卡彭,路线发到你的终端了。,The route has been sent to your terminal.,Маршрут отправил на твой терминал.
+line-536,安东尼奥,我已经在路上了——,I'm on my way—,Я уже в пути —
+line-544,安东尼奥,......,...,……
+line-545,安东尼奥,卡彭？,Capone?,Капоне?
+line-547,卡彭,呼，让你从阴影里走出来真不容易啊，老板。,"Wasn't easy to get you out of the shadows, boss.","Уф, нелегко было выманить тебя из тени, босс."
+line-549,安东尼奥,背信弃义也是西西里人的光荣传统？,Is betrayal a proud Sicilian tradition too?,Предательство тоже славная традиция сицилийцев?
+line-551,安东尼奥,你投靠了谁？市政厅？萨卢佐家？还是察觉到了城内变化，想要浑水摸鳞的其他家族？,Who are you wagging your tail to? City Hall? Saluzzo? Or one of the other famiglie that's trying to take advantage of the situation in the city?,"К кому ты подался? К мэрии? К Салуццо? Или к какой-то другой Семье, что почуяла перемены в городе и решила половить рыбку в мутной воде?"
+line-553,卡彭,只是有个人要见你，我帮忙搭个线。,"Oh, just putting you in touch with somebody who wanted to meet you.","Просто кое-кто хочет с тобой встретиться, а я помог организовать контакт."
+line-555,安东尼奥,......,...,……
+line-558,,脚步声在身后响起，安东尼奥回头，那个他再熟悉不过的身影就站在巷子的尽头，慢慢朝他走来。,"Antonio hears footsteps behind him. He turns around and sees the familiar figure at the end of the alley, walking slowly towards him.","Шаги зазвучали позади. Антонио обернулся. Та самая фигура, которую он знал лучше всего, стояла в конце переулка и медленно шла к нему."
+line-563,英格丽,......,...,……
+line-565,卡彭,至于你刚刚那个问题......,As for your question...,А что касается твоего вопроса…
+line-566,卡彭,虽然有点喜怒无常，但不得不说，你是个很能干的老板。所以拉普兰德那个阴魂不散的家伙找来的时候，我还是很有负罪感的。,"You weren't such a bad boss, you know. Temperamental, but sharp. I actually felt pretty guilty when that crazy Lappland came knockin'.","Хотя ты немного своенравен, должен признать, ты очень способный босс. Поэтому, когда эта назойливая Лапленд объявилась, я чувствовал угрызения совести."
+line-568,卡彭,但就在刚刚，那玩意清空啦。,Glad I don't feel that way now. Thanks for that one.,Но только что… они исчезли.
+line-569,卡彭,家族之间，有一百种方法对付仇人或者叛徒，切下他们的舌头，或者割断他们的喉咙，必要的时候斩草除根。,"The famiglie got a hundred ways to deal with enemies and traitors. Cut their tongues, slit their throats, bury 'em alive with their families...","У Семей есть сотни способов расправиться с врагами или предателями: отрезать им языки, перерезать горло, а при необходимости — вырвать с корнем."
+line-571,卡彭,我们会教训合不来的政府，什么坏事都干，但混得再差的家族，也不会把要给我们交保护费的普通人当成对手......,"We're villains through and through, and there ain't much we wouldn't do... but no famiglia would raise a hand against honest folk who pay their protection money.","Мы можем проучить неугодное правительство, мы совершаем любые мерзости, но даже самая захудалая Семья не станет объявлять войну обычным людям, которые платят нам дань…"
+line-573,安东尼奥,什么？,What?,Что?
+line-575,卡彭,不管时代再怎么变化，叙拉古有些规矩总是不变的，安东尼奥。,"Times may change, but there's some rules in Siracusa that never do.","Как бы ни менялись времена, некоторые правила Сиракуз остаются неизменными, Антонио."
+line-577,卡彭,算了，你终究是一个玻利瓦尔人。,"I guess, when all's said and done, you're still a Bolívarian, Antonio.","Забудь. В конце концов, ты всего лишь боливарец."
+line-579,安东尼奥,......,...,……
+line-581,卡彭,你来得真快。,That was quick.,Ты пришла так быстро.
+line-583,英格丽,是你的消息太慢了。,You need to get your news faster.,Это у тебя новости слишком медленные.
+line-584,英格丽,我一直在附近等。,I was waiting nearby all this time.,Я все время ждала поблизости.
+line-586,卡彭,......,...,……
+line-588,英格丽,还是感谢你。,"Still, thank you.",Все равно благодарю тебя.
+line-590,卡彭,你要谢就谢拉普兰德吧，虽然我到现在还是不知道那家伙到底图什么。,"If you wanna thank someone, thank Lappland. Not that I got any clue what she's planning.","Благодари Лапленд. Хотя я до сих пор не понимаю, чего она добивалась."
+line-592,英格丽,......等有机会。,...If I get a chance.,…Как-нибудь при случае.
+line-594,卡彭,要帮忙吗？,Need a hand?,Помощь нужна?
+line-596,英格丽,你可以走了。,You can go.,Можешь идти.
+line-598,卡彭,......,...,……
+line-604,安东尼奥,......英格丽。,Ingrid...,…Ингрид.
+line-619,,德克萨斯站在某栋行政大楼的楼顶。,Texas stands on the roof of one of the administrative buildings.,Техас стояла на крыше одного из административных зданий.
+line-620,,她是从法院的楼顶翻过来的，夜风吹得衣摆猎猎作响。她尽量贴着护栏向目标移动，不去理会地面上的动静。,"She had came here from the courthouse's rooftop. The night wind rustles her clothes. She tries to keep herself pressed against the fence as she moves towards her mark, ignoring the commotion on the ground.","Она перебралась туда с крыши суда, ночной ветер трепал полы ее одежды. Она старалась двигаться вдоль перил к цели, не обращая внимания на суету внизу."
+line-633,拉维妮娅,那艘陆行舰......登记在威尼斯载具公司的名下。,That landship... it's registered with Venezia Trucking.,Этот сухопутный корабль… зарегистрирован на венецианскую транспортную компанию.
+line-634,拉维妮娅,他们竟然秘密运来了一整船的武器......,They secretly brought an entire ship's full of weapons...,Они тайно ввезли целый корабль оружия…
+line-636,德克萨斯,已经不是秘密了。,It's no longer a secret.,Это уже не тайна.
+line-638,拉维妮娅,拉普兰德这样做，只会让局面彻底失控。,Lappland's actions threaten to cause the situation to spiral out of control.,Поступки Лапленд приведут лишь к полной потере контроля над ситуацией.
+line-640,德克萨斯,或许这正是她的目的......我们不能指望一个表演欲过剩的独狼能做出多理智的事。,Maybe that's what she wants... never expect an attention-seeking lone wolf to act rationally.,"Возможно, именно этого она и добивается… Не стоит ожидать здравых решений от волка-одиночки с манией к театральным эффектам."
+line-641,德克萨斯,拉普兰德这一次的目标并不是我。我担心她还有更过分的举动。,It's not me that Lappland is after this time. I'm concerned that she might not stop at this.,"Цель Лапленд на этот раз — не я. Я боюсь, что она задумала что-то более опасное."
+line-642,德克萨斯,那家伙之前说过，整个叙拉古都是她的敌人。,She once said that all of Siracusa is her enemy.,"Та девчонка как-то сказала, что все Сиракузы — ее враги."
+line-644,拉维妮娅,你去吧，德克萨斯。,"Go, Texas.","Иди, Техас."
+line-646,德克萨斯,......,...,……
+line-647,德克萨斯,但你一个人......,But you'll be by yourself...,Но ты одна…
+line-649,拉维妮娅,我们被困在法院，能做的事情已经不多，只能尽可能地排除隐患。,"Not much we can do here, trapped in the courthouse. The best we can do is to neutralize potential risks as best as we can.","Мы заперты в суде, сделать мы можем немногое, только минимизировать угрозы."
+line-650,拉维妮娅,威尼斯家族和卡车工会的目标都是我，我必须在这里......再说我也没有你那样的身手。,"Both Venezia and the Truckers' Union are here for me. That's why I must stay... besides, I can't really move like you do.","Цель Семьи Венеции и профсоюза водителей — я, я должна быть здесь… Да и навыков, как у тебя, у меня нет."
+line-651,拉维妮娅,伊雷妮......我相信她暂时不会真的对我做什么。,"I don't think Eirene intends to do anything to me, for the time being at least.","Ирен… Я верю, что она пока не решится на что-то реальное против меня."
+line-653,拉维妮娅,至于拉普兰德......,As for Lappland...,А насчет Лапленд…
+line-655,德克萨斯,那个家伙就交给我吧。,Leave her to me.,Оставь ее на меня.
+line-657,拉维妮娅,只是，陆行舰破坏了地面，广场上已经乱成一团，法院的大门也被堵住了......,"The landship's tore up the ground, the square is in mayhem, and the courthouse door is blocked...","Но сухопутный корабль разрушил дорогу, площадь превратилась в хаос, а вход в суд заблокирован…"
+line-658,拉维妮娅,你要怎么去到她身边？,How will you get to her?,Как ты собираешься добраться до нее?
+line-671,,德克萨斯突然有些想念企鹅物流的朋友们。,Texas suddenly misses her friends at Penguin Logistics.,Техас внезапно стало не хватать друзей из «Пингвин Логистик».
+line-672,,如果是可颂，应该会举着她的盾牌在前面开路，直接在混乱的人群里撞出一条路来。至于能天使，或许会想到一些更跳脱的法子。,Croissant would bash a path through the chaotic crowd with her shield. Exusiai would probably come up with something even more outlandish.,"Если бы тут была Кроссант, она бы наверняка расчищала путь своим щитом прямо сквозь хаотичную толпу. А Эксизия, возможно, придумала бы что-то более эксцентричное."
+line-673,,德克萨斯确认了一眼大概的方位。,Texas takes one look to estimate a direction.,Техас сверилась с примерными ориентирами.
+line-674,,她深呼吸，然后一跃而下。,"She takes a deep breath, and takes a leap of faith.",Она глубоко вздохнула и прыгнула вниз.
+line-698,拉普兰德,（鼓掌）,(Claps),(Аплодирует)
+line-699,拉普兰德,哇哦，很别致的出场，德克萨斯。,"What a dramatic entrance, Texas!","Вау, очень эффектный выход, Техас."
+line-701,德克萨斯,怎么，抢了你的风头？,"What, not happy that I stole the show?","Что, украла твой звездный час?"
+line-703,拉普兰德,哈哈，怎么会呢，毕竟你可是急着见我才这样的。,"Why would I be, when you're so eager to come and see me?","Ха-ха, ну что ты! Ведь ты именно потому так и сделала, что спешила со мной встретиться."
+line-704,拉普兰德,要不要给你找个医生看看腿有没有摔断？,Did you break your leg? Do you need a doctor?,"Может, позвать врача, проверить, не сломала ли ты ноги?"
+line-706,拉普兰德,哎呀，有医生现在也过不来，你还是先随便找个地方坐下来吧。,"Well, it's not like a doctor could get here in this mess. Just find a place and sit down.","Ой, даже если позову, врач сейчас не доберется. Просто садись где-нибудь."
+line-708,德克萨斯,......,...,……
+line-709,德克萨斯,坐哪里？,Sit where?,Где садиться?
+line-711,德克萨斯,你把这艘船的甲板布置得像是一个，呃，舞台......,You've turned the deck into a... stage?,"Ты обустроила палубу этого корабля словно… э-э, сцену…"
+line-712,德克萨斯,你甚至还，专门定做了一身新套装？,Did you seriously get this costume custom-made just for this?,Ты даже… заказала новый костюм?
+line-714,拉普兰德,毕竟是狂欢节嘛。,"It's the Carnevale, after all.","Ну, это же карнавал."
+line-716,拉普兰德,怎么样，是不是比你这一身要好看些？,"Looks better than what you're wearing, doesn't it?","Ну как, лучше, чем твой наряд?"
+line-722,拉普兰德,喂，甘比诺！,"Hey, Gambino!","Эй, Гамбино!"
+line-728,甘比诺,（喘气）,(Panting),(Задыхаясь)
+line-730,拉普兰德,糖果都发完了吗？,Have you given out all the candy?,Конфеты все раздали?
+line-732,甘比诺,......还剩一点在船舱。,...There's a little left in the hold.,…Немного осталось в трюме.
+line-734,拉普兰德,船舱里有个小鬼在偷糖果，去处理一下......好像就是跟着你溜上来的。,Go deal with that candy thief in the hold... I think he came up with you.,"Там в трюме шныряет мелкий воришка, разберись-ка… Похоже, пробрался вслед за тобой."
+line-736,拉普兰德,把最前排的观众席留给我和德克萨斯。,Leave the front-row seats for me and Texas.,Оставь места в первом ряду для меня и Техас.
+line-738,甘比诺,......,...,……
+line-749,恺撒,快看那个可怜的孩子——箱子在他身旁裂开，半个箱子的武器都砸进了他的怀里。,"Look, the poor child. The box cracked next to him, and a whole box of weapons spilled into his arms.","Посмотрите на этого беднягу — ящик раскололся прямо у него под боком, половина содержимого с оружием свалилась ему в руки."
+line-750,恺撒,看他目瞪口呆的样子，他不知道那是做什么用的吗？对面那些戴着面具的家伙注意到了他，他下意识地举起了手里的铳......,See how he stares with mouth agape. Does he not know how it works? The ones in the masks have seen him. He raises the gun in his hand by instinct...,"Посмотрите на его ошарашенный вид. Он понятия не имеет, для чего это нужно? Ребята в масках напротив заметили его, и он машинально поднял пистолет…"
+line-757,扎罗,你终于肯说话了，恺撒。,"Finally talking, Caesar?","Ты наконец решил заговорить, Цезарь."
+line-759,恺撒,不然呢？,What did you think?,А иначе зачем?
+line-760,恺撒,不愿意说话的可不止我。阿涅塞，瓦古......在你的狼崽子出现之前，我们都恶心得想要咬开你的喉咙了。,"It's not just I who didn't want to speak. Agnese, Vargo... we were ready to rip your throat out, until your little pup showed up.","Не только я один не хотел говорить. Аньезе, Вагу… пока твои волчата не объявились, нас всех тошнило от желания вцепиться тебе в глотку."
+line-761,恺撒,扎罗，这就是那个叫拉普兰德的家伙要向我们展示的东西吗？,Is this what that Lappland wanted to show us?,"Заро, это то, что хочет показать нам эта Лапленд?"
+line-762,恺撒,和那些张灯结彩的街道、浮夸的礼炮和烟花相比，不过是稍微像样子了一点而已。,Only a little better than those colorful streets and flippant fireworks.,"По сравнению с украшенными гирляндами улицами, помпезными салютами и фейерверками, это выглядит лишь чуть более пристойно."
+line-763,恺撒,所谓“人类的游戏”，是指直到现在，那些人类都不愿意揭下那可笑的面具，以真面目示人？,Does the 'human game' refer to how those humans still refuse to remove their absurd masks and show their true face?,"Так называемая «игра людей» — это то, что даже сейчас они не желают снимать свои нелепые маски и показать истинные лица?"
+line-764,恺撒,它值得所有的狼之主今夜聚集于此？,Is this worth all the Signori dei Lupi gathering here tonight?,"Это стоит того, чтобы все Владыки Волков собрались здесь сегодня ночью?"
+line-766,扎罗,你很着急吗，恺撒？,"Are you anxious, Caesar?","Ты очень спешишь, Цезарь?"
+line-768,恺撒,唔，着急的应该是瓦古。,"Well, Vargo is the one who should be anxious right now.","Хм, спешить должен Вагу."
+line-769,恺撒,多亏了你的帮忙，红此时应该已经找到了那家名为“德蒙塔诺”的裁缝店。,"Thanks to your help, Red should be paying a visit to the Tailor de Montano as we speak.","Благодаря твоей помощи, Красная к этому времени должна была найти ателье под названием «Демонтано»."
+line-774,瓦古,......,...,……
+line-775,瓦古,我以你为耻，扎罗。,"I am ashamed of you, Zaaro.","Мне стыдно за тебя, Заро."
+line-777,扎罗,哈哈，瓦古，我的同胞，狼之主之间应该有这种情感吗？,"Hah, is that an emotion worthy of the Signori dei Lupi, Vargo?","Ха-ха, Вагу, сородич, разве между Владыками Волков должны быть такие чувства?"
+line-778,扎罗,更何况，真正破坏了规矩的是你。,"Besides, you were the one who broke the rules first.","К тому же, настоящим нарушителем правил являешься ты."
+line-779,扎罗,你直接干预了游戏。你委托东国那条狗找来的杀手，甚至当街袭击了恺撒与阿涅塞的獠牙。,You interfered directly in the game. The killer that you had the Higashi dog find attacked the fangs of Caesar and Agnese in public.,"Ты вмешался напрямую. Убийца, которого ты нанял через того пса из Хигури, даже атаковал клыки Цезаря и Аньезе прямо на улице."
+line-781,瓦古,哼。,Hmph.,Хм.
+line-783,恺撒,本轮游戏已经出现了太多变数，阿涅塞、瓦古......不止一位同胞有了其他的想法。看来我们不得不审视游戏本身。,"There have been too many irregularities in this round. Agnese, Vargo... it is a position shared by more than one kindred. The game itself must be reviewed.","В этой игре появилось слишком много переменных. Аньезе, Вагу… не один сородич изменил свои взгляды. Кажется, нам придется пересмотреть саму игру."
+line-784,恺撒,但是——,But—,Но —
+line-791,瓦古,......！,...!,……！
+line-793,,原本懒散地蹲伏在甲板各处的狼群突然动了起来。,The wolves that laid lazily upon the deck suddenly spring up.,"Волчья стая, до этого лениво лежавшая в разных частях палубы, внезапно пришла в движение."
+line-794,,以恺撒为首的狼之主将瓦古和阿涅塞围在了中间，他们交换着位置，伏低身子，发出狠戾的吟啸。,"With Caesar, the Signori dei Lupi surround Vargo and Agnese, shifting and crouching while bellowing belligerently.","Во главе с Цезарем Владыки Волков окружили Вагу и Аньезе, сменяя позиции, пригибаясь к земле и издавая угрожающий рык."
+line-795,,可惜夜风喧嚣，地面的人类听不见狼之主狩猎的动静，不然难以名状的恐惧会瞬间将他们淹没。,"If not for the night wind that drowned out the sound of the Signori dei Lupi's hunt, those on the ground would have been overwhelmed by terror beyond fathoming.","Увы, ночной ветер шумел слишком сильно, и люди внизу не слышали, как охотятся Владыки, иначе неописуемый страх мгновенно поглотил бы их."
+line-797,扎罗,哈哈哈哈，多少年了，游戏又从獠牙之间打来打去变回了我们自己相互撕咬。,"Well, well. After all these years, we're going back from using our literal fangs.","Ха-ха-ха-ха, сколько лет прошло, игра снова превратилась из перепалки клыков в то, что мы грызем друг друга."
+line-799,恺撒,......闭嘴，扎罗。,"...Shut up, Zaaro.","…Заткнись, Заро."
+line-800,恺撒,仅剩的三位獠牙都已经现身，在本轮游戏分出胜负之前，狼之主必须好好待在这里，不得插手任何事情！,"The last three fangs have revealed themselves. The Signori dei Lupi shall stay here until this round is decided, and shall not intervene in any manner!","Все трое оставшихся клыков на месте, и до тех пор, пока в этой игре не определится победитель, Владыки Волков должны оставаться здесь и не вмешиваться ни во что!"
+line-801,恺撒,否则，他将被狼群视为离群者，在未来无限的岁月里接受最残忍的惩罚，永远无法解脱！,"Any in violation shall be exiled from the pack, and be punished in the most cruel way for eternity!","В противном случае, он будет признан стаей изгоем и будет нести самое жестокое наказание бесконечные годы, не зная покоя!"
+line-805,狼之主们,这是狼群的决议！,The pack has spoken!,Это решение стаи!
+line-809,扎罗,就让我们耐心看下去吧。,Let us watch with patience.,Давайте наберемся терпения и посмотрим.
+line-810,扎罗,看看所谓“人类的游戏”，是否真如拉普兰德所说，要“有趣得多得多”。,"We will see if the human game is truly so much more interesting, as Lappland said.","Посмотрим, станет ли «игра людей», как сказала Лапленд, «куда интереснее»."
+line-825,瓦古,......,...,……
+line-827,恺撒,瓦古？,Vargo?,Вагу?
+line-841,甘比诺,小鬼，难道没人告诉你，按照叙拉古的规矩，偷溜进别人的地盘，膝盖以下会被砍掉，后半辈子只能靠爬？,"Didn't nobody tell you that by the rules of Siracusa, sneaking onto somebody else's turf gets your leg cut off at the knee?","Малец, никто не говорил тебе, что по сиракузским правилам, если проберешься на чужую территорию, тебе отрубят ноги по колено, и остаток жизни проведешь ползая?"
+line-842,甘比诺,现在，离开那堆箱子，找个角落蹲好。,Now get outta those boxes and go sit in a corner.,А теперь отойди от ящиков и присядь где-нибудь в углу.
+line-847,卢奇诺,......,...,……
+line-849,卢奇诺,要找个地方蹲好的人是你，大块头。,"It's you who should sit down, big guy.","Тебе стоит самому найти местечко, чтоб присесть, верзила."
+line-851,甘比诺,德蒙塔诺的小裁缝？,"Oh, it's you, the little de Montano tailor.",Мелкий портной из Демонтано?
+line-852,甘比诺,放了你一条生路，你反过来一路跟踪我去了新沃尔西尼港，又混进这艘陆行舰？,"So, after I spared your life, you tailed me to the Nuova Volsinii port, and sneaked onto this landship?","Я оставил тебе жизнь, а ты, наоборот, выследил меня до порта Нового Вольсини и пробрался на этот корабль?"
+line-854,甘比诺,看不出来你在这方面很有些天赋。,"You got talent on this front, I'll give you that.","Не знал, что у тебя такой талант к подобным вещам."
+line-856,卢奇诺,要不是这样，我还不知道你们偷偷把这么多的武器运进城！小威尼斯到底在酝酿什么大阴谋？,I wouldn't have known that you were smuggling so much weapons into the city if I didn't! What's Venezia junior planning?,"Если бы не это, я бы не узнал, что вы тайком ввозите в город столько оружия! Что за заговор готовит этот Венеция?!"
+line-858,甘比诺,你说呢？,Whaddya think?,Как думаешь?
+line-860,卢奇诺,你们知不知道这样会死多少人？,Have you any idea how many people will die?,"Вы хоть понимаете, сколько людей погибнет из-за этого?"
+line-862,甘比诺,你不是向往进入家族，成为大人物吗？难道你只知道大人物拥有很多地盘，风光无限，却没有想过他们靠的是什么手段？,Didn't you wanna join a famiglia and become somebody? Never thought about what the somebody had to do to get there?,"Ты ведь стремился попасть в Семью, стать важной шишкой? Неужели ты думал, что важные люди владеют территориями просто так, и не задумывался, какими методами они этого добиваются?"
+line-864,卢奇诺,爷爷说得没错......,Nonno was right...,Дедушка был прав…
+line-866,卢奇诺,在叙拉古，你们这些大人物身上都浸着血，所以才要那么频繁地做新衣服......,A somebody like you keep ordering new clothes because they keep getting soaked in blood...,"В Сиракузах такие, как вы, важные люди, пропитаны кровью, потому и вынуждены так часто шить новые костюмы…"
+line-868,卢奇诺,你们根本不算什么大人物，爷爷他瞧不上你们！,You're no big shot! Nonno's too good for people like you!,"Вы никакие не важные люди, дедушка вас за людей не считает!"
+line-870,甘比诺,我要是你，就会乖乖听他老人家的话，哭完鼻子后好好学习缝扣子。,"If I was you, I'd listen to my nonno, swallow my tears, and learn how to sew buttons.","Будь я на твоем месте, я бы слушал старика, перестал реветь и учился бы лучше пришивать пуговицы."
+line-872,卢奇诺,......,...,……
+line-873,卢奇诺,我不能让你们得逞！,I won't let you!,Я не позволю вам преуспеть!
+line-875,甘比诺,就凭你？,Who's gonna stop me? You?,Ты? Серьезно?
+line-878,卢奇诺,别、别过来！,G-Get back!,Н-не подходи!
+line-881,,卢奇诺踢开了一块木板，红色的缝纫线在箱子内穿来绕去，像是精巧的花绳，线的末端被卢奇诺紧紧地攥在手里。,"Luchino kicks open a plank. Red sewing threads nimbly weave through it, with Luchino holding the end.","Лукино отшвырнул доску. Красная нить металась внутри ящика, словно запутанная веревка, и ее конец был крепко зажат в руке Лукино."
+line-883,甘比诺,......炸药？这是你在黑帮电影里学的手法？,...Explosives? You learn that from the movies?,…Взрывчатка? Это метод из гангстерского фильма?
+line-885,卢奇诺,所有的源石炸药都被串在了一起，只要我拉动这根缝纫线，你面前的所有武器就会变成一摊碎片......,"All the Originium explosives are connected by this thread. All I need to do is pull it, and these weapons will burn to ash...","Все бомбы с Ориджиниумом соединены вместе, и стоит мне дернуть за эту нитку, как все оружие перед тобой превратится в груду мусора…"
+line-887,甘比诺,你有没有想过，自己会首先变成碎片？,You know what's gonna burn to ash? You.,"Ты подумал о том, что ты первым превратишься в пыль?"
+line-889,卢奇诺,......,...,……
+line-891,甘比诺,还是说，你只是想着当不了家族的大人物，就来当制裁家族的正义使者？,Or you give up that dream of becomin' a famiglia somebody? Decided to be a hero who teaches the famiglie a lesson?,"Или ты просто решил, что если нельзя стать большой шишкой в Семье, то можно стать героем-избавителем?"
+line-892,甘比诺,明天的报纸上会刊登你的头版头条，“拯救新沃尔西尼的小英雄卢奇诺”，说不定市长大人会亲自给你颁发荣誉奖章......,"Sure, the headlines will all be talkin' about the young hero Luchino who saved Nuova Volsinii. Maybe you'll get a medal from the Mayor.","Завтрашние газеты выйдут с заголовками на первой полосе: «Юный герой Лукино спас Новый Вольсини», глядишь, господин мэр лично наградит тебя медалью…"
+line-893,甘比诺,你再也不是一个小裁缝了，以后所有人走在街上都会向你鞠躬问好......,You won't be that little tailor anymore. Everyone'll tip their hats when they see you on the streets...,"Ты больше не мелкий портной, и теперь все на улице будут кланяться тебе при встрече…"
+line-895,甘比诺,到此为止吧，臭小鬼，这会儿没空陪你玩“如何成为大人物”的游戏。,"That's enough, pup. I don't got time to play What I Wanna Be When I Grow Up with you.","На этом хватит, мелкий засранец. Сейчас некогда играть в игру «как стать большой шишкой»."
+line-897,卢奇诺,......,...,……
+line-898,卢奇诺,我、我不需要。,I-I don't need that.,Мне… мне это не нужно.
+line-900,甘比诺,什么？,What're you talkin' about?,Что?
+line-902,卢奇诺,我自己惹了麻烦，我自己解决，不需要谁知道。,"I caused trouble, I'll deal with it myself. Nobody needs to know.","Я сам нажил проблему, я сам ее и решу. Мне не нужно, чтобы кто-то об этом знал."
+line-903,卢奇诺,卢奇诺·德蒙塔诺不会就这么稀里糊涂地过完一辈子......或许到头来我还是只能当一个裁缝，但起码现在我不这样想！,"Luchino de Montano won't spend his entire life as a nobody... Maybe I'll never be more than a tailor, but right now, I don't think so!","Лукино Демонтано не проживет жизнь, ничего не добившись… возможно, в конце концов, я так и останусь портным, но сейчас я так не считаю!"
+line-904,卢奇诺,还有，大块头，我不喜欢你刚刚的语气。,"And I don't like the way you were talking, big guy.","И еще, верзила, мне не нравится твой тон."
+line-906,卢奇诺,别小瞧一个裁缝！你永远不知道他们能用针和线做到多少事！,Don't look down on tailors! You don't know what we can do with a needle and a thread!,"Не смей недооценивать портного! Никогда не знаешь, на что способны игла и нить!"
+line-908,甘比诺,......,...,……
+line-910,甘比诺,啧。,Hmph.,Цц.
+line-912,甘比诺,小子，说真的，我有点喜欢你了。你让我想起了年轻的时候。,"You know, kid, I'm startin' to like you. You remind me of me, when I was a pup.","Парень, честно говоря, ты мне начинаешь нравиться. Напоминаешь меня в молодости."
+line-914,卢奇诺,啊？,Huh?,А?
+line-916,甘比诺,我刚懂事的时候，有两件事情便已经板上钉钉——西西里是叙拉古最古老的家族；因为西西里夫人的卸任，它早就不复存在了。,"Two things was common knowledge by the time I got old enough to know my own name—Sicilia is the oldest famiglia in Siracusa, and it ain't around no more because of Signora Sicilia.","Когда я вошел в сознательный возраст, две вещи были уже предрешены: Сицилия — старейшая Семья Сиракуз; и из-за отставки синьоры Сицилии она давно прекратила существование."
+line-917,甘比诺,向西西里夫人邀宠献媚的人最终都竹篮打水，而想要光复家族的统统被驱逐出了这个国家，“西西里人”就是一个笑话。,"All who tried to curry favor with Signora Sicilia came up empty, and all who tried to revive the famiglia were banished. The name 'Sicilian' was a big, fat joke.","Те, кто пытался заигрывать и льстить синьоре Сицилии, оставались ни с чем, а тех, кто хотел восстановить Семью, вышвыривали из страны. «Сицилиец» стало шуткой."
+line-919,甘比诺,但它没经过老子的同意，就成了老子的标签！就像所有人都小裁缝小裁缝地叫你。,But it became my label without my say-so! Just like how everyone calls you 'little tailor'.,"Но это клеймо прилепилось ко мне без моего согласия! Точно так же, как все называют тебя «мелким портным»."
+line-920,甘比诺,所以我当时告诉自己要干一番大事业。叙拉古必须承认甘比诺·里奇，他是个西西里人！,"That's why I told myself I was gonna be somebody. All Siracusa's gonna know the name of Gambino Ricci, the Sicilian!",Поэтому я сказал себе: «Я совершу великие дела. Сиракузы должны признать Гамбино Риччи — он настоящий сицилиец!»
+line-922,卢奇诺,呃，现在呢？,Um... and how'd that go?,"Э-э, а теперь?"
+line-924,甘比诺,现在依然如此。,Didn't go.,Все еще так же.
+line-926,卢奇诺,......,...,……
+line-928,甘比诺,如果你只是不想让小威尼斯好过，那他现在已经很不好过了。,"If you just want Venezia Junior to suffer, he's sufferin' enough right now.","Если ты просто не хочешь, чтобы маленькой Венеции жилось спокойно, то ему и так сейчас несладко."
+line-929,甘比诺,这艘船已经不归他掌控，你使错了力气，小子。,"This ship ain't under his control. You're barking up the wrong tree, kid.","Этот корабль больше не под его контролем, ты не туда направил свои усилия, малец."
+line-931,甘比诺,看到甲板上那个疯子没有，你不该来搅和她的事。,You see that crazy bitch on the deck? Stay clear of her. She's trouble.,Видишь ту безумную на палубе? Не стоило тебе мешать ее делам.
+line-933,卢奇诺,......,...,……
+line-934,卢奇诺,别以为你说这些，我就会相信——,You think I'd believe—,"Не думай, что раз ты это сказал, я поверю —"
+line-943,卢奇诺,——,—,——
+line-946,,自己还是太年轻了，卢奇诺这样想。,"I'm just too young, thought Luchino when it happened.","«Я все еще слишком молод», — подумал Лукино."
+line-947,,甘比诺一直在找机会靠近他。更糟糕的是，因为太过紧张，他发现自己扯断了缝纫线——,"Gambino had been drawing closer and closer. Even worse, Luchino had accidentally snapped the thread in his panic—","Гамбино все это время искал шанс приблизиться. Хуже того, от сильного напряжения он заметил, что порвал нить —"
+line-948,,但没有爆炸，什么都没有发生。袅袅的雾包裹住了一切。,"But there was no explosion, nothing. Everything was obscured by fog.","Но взрыва не последовало, ничего не случилось. Легкий дым заволок всё вокруг."
+line-957,,下一个瞬间，他看见甘比诺倒飞了出去，紧接着，自己的身体也悬在了半空，笔直地跌下了陆行舰。,"The next instant, he saw Gambino floating in mid-air, then he finds himself in mid-air too, falling off the landship and heading straight towards the ground.","В следующее мгновение он увидел, как Гамбино отлетел назад, а затем его собственное тело зависло в воздухе, и он полетел прямо за борт сухопутного корабля."
+line-958,,他隐约听到了一声叹息。,He seems to hear a faint sigh.,Ему послышался вздох.
+line-967,瓦古,......,...,……
+line-978,家族成员A,*叙拉古粗口*，*叙拉古粗口*！那个白狼脑袋抽筋了吗？她到底想做什么？,Cazzo! Cazzo! What is wrong with that white wolf?! What is she doing?,"*Сиракузская ругань*, *Сиракузская ругань*! У той белой волчицы крыша поехала? Чего она вообще хочет?"
+line-979,家族成员A,收拢队伍，捡起武器，让附近所有的人都靠过来。,Form up and pick up the weapons. Have the guys nearby join up here.,"Соберите всех, подберите оружие, пусть все поблизости подтянутся."
+line-980,家族成员A,再分一拨人到陆行舰上去，那可是咱们的东西！,Get a group to board that landship. It belongs to us!,"Отправьте еще группу на сухопутный корабль, это ведь наша вещь!"
+line-982,家族成员B,好。,Gotcha.,Хорошо.
+line-1000,卡车司机A,站、站住！,S-Stop right there!,С-стой!
+line-1001,卡车司机A,伊雷妮说了，不、不能放你们任何一个人过去。,"E-Eirene's orders, nobody gets through.","Ирен сказала, н-не пускать вас никуда."
+line-1003,家族成员B,该死，这些臭开车的，怎么就盯死我们了！,"Merda, when will these haulers learn to give up?","Черт, почему эти водители вцепились в нас мертвой хваткой!"
+line-1019,拉普兰德,哈哈，看来一时半会儿不会有人来打扰我们，德克萨斯。,"Well, looks like we won't be disturbed for a while.","Ха-ха, похоже, какое-то время нас никто не потревожит, Техас."
+line-1021,德克萨斯,......,...,……
+line-1023,拉普兰德,干嘛这副表情？,What's that look on your face?,Чего такая физиономия?
+line-1024,拉普兰德,我可是揭穿了一个家族想要将暴力重新带回新沃尔西尼的阴谋，你们难道不应该感谢我吗？,I was expecting more gratitude for exposing a famiglia plot to bring violence back to Nuova Volsinii. Maybe even a medal.,"Я ведь раскрыла заговор Семьи, желавшей вернуть насилие в Новый Вольсини. Разве вы не должны меня поблагодарить?"
+line-1026,德克萨斯,以这种方式？,Like THIS?,Таким образом?
+line-1027,德克萨斯,拉普兰德，这不是龙门的安魂夜，那一箱箱施术单元和爆炸物更不是糖果。,"This is not Sauin in Lungmen, Lappland, and those Arts units and explosives aren't candies.","Лапленд, это не Реквием в Лунмэне, а эти ящики с устройствами и взрывчаткой — совсем не конфеты."
+line-1028,德克萨斯,几百个和政府撕破了脸的家族成员，想要趁乱彻底控制法院和市政厅，狂欢的人群里还有多少势力在坐看局势恶化......,Hundreds of mafiosi are trying to take over the courthouse and city hall. And there are many out there in that revelry who want to see things get worse.,"Сотни членов Семьи, что пошли против правительства, хотят воспользоваться хаосом и захватить суд с мэрией. И сколько еще фракций в толпе выжидают ухудшения ситуации…"
+line-1029,德克萨斯,你我都知道这意味着什么。,You know what this means as well as I do.,"Ты и я знаем, что это означает."
+line-1031,拉普兰德,意味着死性不改、死而复生的家族又掀起了一场城邦内乱？,That famiglia haven't changed their ways and incited another civil disorder?,"Означает, что Семья, неисправимая и возродившаяся, вновь разожгла гражданскую войну в городе-государстве?"
+line-1032,拉普兰德,意味着新沃尔西尼和叙拉古其他二十二座移动城市其实没有什么两样？,That Nuova Volsinii isn't really any different from the other twenty-two nomadic cities in Siracusa?,"Означает, что Новый Вольсини ничем не отличается от остальных двадцати двух мобильных городов Сиракуз?"
+line-1034,拉普兰德,还是，意味着狂欢节终于名副其实了？,Or that Carnevale is finally living up to its name?,"Или означает, что карнавал наконец стал оправдывать свое название?"
+line-1036,德克萨斯,此时此刻，这个广场上还有近千名卡车司机，拉普兰德。,There are almost a thousand truck drivers on this square.,"Прямо сейчас на площади почти тысяча водителей грузовиков, Лапленд."
+line-1037,德克萨斯,在场的所有家族成员都捡起了武器，为了自保，这群普通人也不得不和他们去争抢——,"The mafiosi are picking up the weapons, and these ordinary folk have to do the same in order to protect themselves—","Все присутствующие члены Семьи вооружились, и ради самозащиты обычным людям придется сражаться с ними за это оружие…"
+line-1039,拉普兰德,......,...,……
+line-1040,拉普兰德,德克萨斯，你为什么选择这种从天而降的出场方式？谁封住了法院的大门？,"Why did you decide to come down from the sky, Texas? Who blocked the courthouse doors?","Техас, почему ты выбрала такой способ появления? Кто заблокировал вход в суд?"
+line-1041,拉普兰德,在这场狂欢节上，戴着面具的可不止那些死性不改的家族成员。,The mafiosi are not the only ones wearing masks on this square.,На этом карнавале маски носят не только неисправимые члены Семьи.
+line-1043,德克萨斯,......,...,……
+line-1045,拉普兰德,威尼斯家族一直在虚与委蛇，想要用这些武器控制城市。此时此刻，你们需要知晓他们的阴谋，那些司机也需要保护自己......,Famiglia Venezia has been plotting to take over the city with these weapons. You needed to discover their plot. Those drivers needed to protect themselves...,"Семья Венеции все это время хитрила, желая использовать это оружие для контроля над городом. Прямо сейчас им нужно знать об их заговоре, и тем водителям нужно защитить себя…"
+line-1046,拉普兰德,我不过是把所有人都渴望的东西摆在了台面上而已，德克萨斯。,All I did was bring out into the open what everybody wanted.,"Я просто выложила на стол то, чего жаждали все, Техас."
+line-1048,拉普兰德,你知道的，我最讨厌假惺惺的棋手了，我喜欢直接踩在棋盘上。,You know how much I hate chess players. I prefer to put my foot down on the chessboard.,"Знаешь, я ненавижу лицемерных игроков, я предпочитаю наступать прямо на доску."
+line-1049,拉普兰德,今夜可是狂欢节，检阅这座崭新的城市一年来的建设成果的好日子。每个人都有权表达自己对它的看法和诉求，不是吗？,"Tonight is Carnevale. It's a time to review the progress that this new city has made in the past year. Everyone has the right to express their views and their demands about it, don't they?","Сегодня карнавал, день, когда оценивают результаты строительства нашего нового города за год. Каждый имеет право высказать свое мнение и требования, верно?"
+line-1050,拉普兰德,光靠糖果可不能让大家尽兴。,Candy alone isn't enough to make everybody happy.,Одними конфетами сыт не будешь.
+line-1051,拉普兰德,看看那边......,Look over there...,Посмотри туда…
+line-1061,德克萨斯,......,...,……
+line-1062,拉普兰德,别着急，德克萨斯。,"No rush, Texas.","Не спеши, Техас."
+line-1063,拉普兰德,我知道你有很多问题要问，但在那之前，让我们先来打个赌。,I know you have a lot of questions. but why don't we make a bet first.,"Я знаю, что у тебя есть вопросы, но прежде, давай поспорим."
+line-1064,德克萨斯,我拒绝。,Not interested.,Отказываюсь.
+line-1065,拉普兰德,那我就当你同意了。,I'll take that as a yes.,"Значит, считай, что ты согласилась."
+line-1066,德克萨斯,......,...,……
+line-1067,拉普兰德,一直以来，你都清醒得可怕。,"You were always more alert, more vigilant than anyone.",Ты всегда была пугающе здравомыслящей.
+line-1068,拉普兰德,你从来不自诩拥有什么伟大的理想，但很凑巧，不管在炎国还是在叙拉古，你总是站在正义的那一边。,"You never claimed to have high and lofty ideals, but you have a funny way of ending up on whichever side stood for justice, whether in Yan or Siracusa.","Ты никогда не кичилась великими идеалами, но по странному стечению обстоятельств — будь то в Яне или в Сиракузах — ты всегда оказывалась на стороне справедливости."
+line-1069,拉普兰德,现在是十一点三十分。不出意外的话，十五分钟后游行的队伍就会到达法院广场。,The time now is 11:30. The parade procession will arrive at Court Square in fifteen minutes.,"Сейчас 23:30. Если не случится непредвиденного, через пятнадцать минут колонна парада доберется до площади суда."
+line-1070,拉普兰德,你猜猜在这期间，谁会先动手？,Who do you think will fire the first shot?,"Как думаешь, кто первый начнет?"
+line-1071,拉普兰德,数十万新沃尔西尼人到时候看到的，是两支队伍夹道欢迎，其乐融融的场面......,Will hundreds of thousands of Nuova Volsinians see two groups lining the streets to welcome them in perfect peace and harmony...,"Сотни тысяч жителей Нового Вольсини увидят, как две стороны радушно приветствуют друг друга в праздничной обстановке…"
+line-1072,拉普兰德,还是两拨人激烈火并，横尸遍地，属于叙拉古人的狂欢迎来真正的高潮？,"Or will they see the streets run red with blood, and bring this truly Siracusan festival to a climax?","Или же две группы сразятся насмерть, усеяв площадь трупами, и сиракузский карнавал достигнет своей истинной кульминации?"
+line-1073,拉普兰德,我看过天气预报，今晚的天气好得很，可不会突然下一场雨，及时把血迹都冲刷干净。,I've seen the weather forecast. Clear skies are expected tonight. There will be no rain to wash away the blood.,"Я видела прогноз погоды, сегодня ночью будет прекрасная погода, дождя не будет, и кровь не смоет мгновенно."
