@@ -1,0 +1,337 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act18mini
+__chapter__,,Chapter Name,activities/act18mini/level_act18mini_st06,未明启示
+,,,,
+char-1,伊内丝,伊内丝,Ines,Инесса
+char-2,赫德雷,赫德雷,Hoederer,Хедерей
+char-3,哥伦比亚军官,哥伦比亚军官,Columbian Military Officer,Колумбийский офицер
+char-4,通讯那头的声音,通讯那头的声音,Voice from the Communicator,Голос на связи
+char-5,恭敬的侍者,恭敬的侍者,Respectful Attendant,Почтительный слуга
+char-6,莱塔尼亚贵族,莱塔尼亚贵族,Leithanian Noble,Лейтанианский дворянин
+char-7,卡西米尔报业主编,卡西米尔报业主编,Kazimierzian Editor-in-Chief,Редактор газеты Казимира
+char-8,卡西米尔职员,卡西米尔职员,Kazimierzian Staff Member,Сотрудник редакции Казимира
+char-9,维什戴尔,维什戴尔,Wiš'adel,Виш’дэль
+char-10,？？？,？？？,???,???
+char-11,曼弗雷德,曼弗雷德,Manfred,Манфред
+char-12,叙拉古家族成员,叙拉古家族成员,Siracusan Mafioso,Член Сиракузской семьи
+char-13,神秘的男人,神秘的男人,Mysterious Man,Загадочный мужчина
+char-14,帕尤卡卡,帕尤卡卡,Paryaqaqa,Паюкака
+char-15,Misery,Misery,Misery,Мизери
+char-16,Logos,Logos,Logos,Логос
+char-17,雇佣兵斥候,雇佣兵斥候,Mercenary Scout,Наемник-разведчик
+char-18,死魂灵的声音,死魂灵的声音,Revenant's Voice,Голос Мертвого духа
+char-19,萨卡兹战士,萨卡兹战士,Sarkaz Warrior,Боец Сарказ
+char-20,阿米娅,阿米娅,Amiya,Амия
+char-21,教宗骑士,教宗骑士,Apostolic Knight,Рыцарь Папы
+char-22,拉特兰特勤队成员,拉特兰特勤队成员,Lateran Commando,Член спецотряда Латерано
+char-23,伊万杰利斯塔十一世,伊万杰利斯塔十一世,Yvangelista XI,Евангелист XI
+,,,,
+line-9,,<p=1>“生命脊椎”</><p=2>1098年10月，萨卡兹大撤军</>,"<p=1>Lifebone</><p=2>October 1098, during the retreat of the Sarkaz forces</>","«Позвоночник жизни» Октябрь 1098 года, Великое отступление Сарказов"
+line-17,伊内丝,赫德雷，接受使用骸骨撤退的我都带上来了。,"Hoederer, I've brought along everyone who agreed to use the bones to retreat.","Хедерей, я привела всех, кого ты просил эвакуировать через скелеты."
+line-19,伊内丝,大多都是没法坚持住长途行军的家伙。年长的，年纪小的，还有很多伤员，几乎都在了。,"Most of them wouldn't be able to withstand the long journey—the old, the young, and more injured Sarkaz than you can count.","Большинство из них — те, кто не выдержал бы долгого похода. Старики, дети и множество раненых, они почти все здесь."
+line-21,伊内丝,W放话“随便他们要不要送死”的伤员也被她小队里其他人抬上来了。,"W said, and I quote, 'Let them die if they want,' but the other members of her squad carried them here.","Тех раненых, о которых W заявила, что им «все равно суждено сдохнуть», другие члены её отряда тоже погрузили на транспорт."
+line-22,伊内丝,她活着的手下竟然还不少，够在“生命脊椎”内部维护秩序，也够盯着被关押的厄尔苏拉。,"Somehow, she still has quite a few living subordinates—enough to maintain order within the Lifebone and watch over Ulšulah in captivity.","У неё осталось на удивление много живых подчинённых: их достаточно, чтобы поддерживать порядок внутри «Позвоночника жизни» и следить за пленённой Урсулой."
+line-23,伊内丝,所以不必担心你在路上突然死了，没人能接手驾驶员的位置。,So at least you won't have to worry about having no one to take the wheel if you accidentally die on the road.,"Так что можешь не бояться, что ты внезапно умрёшь в пути, и некому будет встать за штурвал."
+line-25,赫德雷,......好。,...Got it.,…Хорошо.
+line-27,伊内丝,你在等什么？,What are you waiting for?,Чего ты ждёшь?
+line-37,,“生命脊椎”在战场的废墟上投下一片阴影。,The Lifebone casts a shadow over the ruins of the battlefield.,«Позвоночник жизни» отбрасывал тень на руины поля боя.
+line-38,,没有萨卡兹抬头，他们或许知道，或许已经习惯，将有一片更大的阴影笼罩这支绵延数里的队伍。,None of the Sarkaz raise their heads. They may already know of—or have grown accustomed to—the greater shadow that will soon envelop their kilometers-long procession.,"Никто из Сарказов не поднимал головы; возможно, они знали, или же просто привыкли к тому, что ещё большая тень вот-вот накроет этот растянувшийся на мили караван."
+line-39,,为了翻越高速军舰留下的沟壑，大多数人步履缓慢。,Most of them move slowly as they cross the trenches left behind by the high-speed battleships.,"Чтобы преодолеть рвы, оставленные скоростными военными кораблями, большинству приходилось двигаться медленно."
+line-50,赫德雷,我只是在想......撤军的队伍竟然那么长。,I was just thinking... Look how long the line of soldiers is.,"Я просто думаю… о том, как же растянулся караван отступающих."
+line-51,赫德雷,卡兹戴尔和维多利亚之间的路，我们都走过，都知道要走多久。,We've all traveled that road from Kazdel to Victoria before. We all know how long it is.,"Мы оба прошли путь между Казделлом и Викторией, мы оба знаем, сколько он занимает."
+line-53,伊内丝,可要是维多利亚人现在出尔反尔，对着萨卡兹的队伍开炮，你也做不了什么。,"But if the Victorians break their word and open fire on the retreating Sarkaz forces, there'll be nothing you can do about it.","Но если Викторианцы сейчас нарушат слово и откроют огонь по Сарказам, ты ничего не сможешь сделать."
+line-55,赫德雷,是啊，事情一向如此。,Yes. That's how it's always been.,"Да, так было всегда."
+line-57,赫德雷,哪怕不是现在......等我们向全泰拉发出信号的时候，各国必定有所反应。,"Maybe not immediately, but after the signal we send to all of Terra, every nation will be forced to respond.","Даже если не сейчас… когда мы подадим сигнал всей Терре, остальные страны обязательно отреагируют."
+line-59,伊内丝,你确定那个办法能奏效吗？,Are you sure that will work?,"Ты уверен, что этот план сработает?"
+line-60,伊内丝,如此张扬地撤退回卡兹戴尔，恐怕会令很多国家产生恐慌。,Such a blatant retreat back to Kazdel will probably cause many countries to panic.,Такое показное отступление обратно в Казделл наверняка вызовет панику во многих странах.
+line-62,赫德雷,但的确没有更好的办法了。,But there really is no better way.,Но лучшего выхода попросту нет.
+line-64,赫德雷,这支队伍必须继续向所有势力展现出最强势的一面。一旦失去挥动武器的力气，这些人立马就会被吃得骨头都不剩。,"Our squad must continue to present the strongest possible front to all factions. The moment we lose the strength to wield our weapons, we'll be devoured without a trace.","Этот отряд обязан продолжать демонстрировать свою мощь перед всеми фракциями. Стоит им утратить силы для того, чтобы сжать рукояти мечей, как от них не оставят даже костей."
+line-65,赫德雷,那位新的“魔王”也一样。,The same goes for the new 'King of Sarkaz'.,То же касается и новой «Королевы демонов».
+line-66,赫德雷,主动权必须握在我们自己的手里。,We must seize the initiative here.,Инициатива должна оставаться в наших руках.
+line-69,,透过骸骨看向外面，飞空艇若隐若现，舰炮的索敌状态也一直没有解除。,"The airship in the distance is faintly visible through the bones, and the ship's cannons remain locked in targeting mode.","Глядя сквозь кости наружу, можно было заметить то появляющиеся, то исчезающие авианосцы, а захват целей корабельной артиллерией всё ещё не был снят."
+line-70,,而在它的周围，是一片随着撤军队伍移动的巨大天灾云。,"A massive Catastrophe cloud still hovers around the ship, following the Sarkaz forces as they retreat.","Вокруг них двигалось огромное облако стихийного бедствия, следуя за колонной отступающих."
+line-72,伊内丝,但还有另一件事，我非常担心。,But there's something else that's got me very worried.,"Но есть ещё кое-что, что меня очень беспокоит."
+line-74,伊内丝,你确定让W看守曼弗雷德是个好主意？,Are you sure it's a good idea to have W guard Manfred?,"Ты уверен, что поручить W присматривать за Манфредом — хорошая идея?"
+line-76,赫德雷,她的确是最合适的人选。,She's the best for the job.,Она действительно самая подходящая кандидатура.
+line-90,哥伦比亚军官,队伍已抵达指定地点。,The squad has reached its destination.,Отряд прибыл в назначенную точку.
+line-91,哥伦比亚军官,天气晴朗，能见度良好。,"The weather is clear, and visibility is good.","Погода ясная, видимость хорошая."
+line-96,通讯那头的声音,持续瞭望东南方向。,Keep looking to the southeast.,Продолжайте наблюдение за юго-восточным направлением.
+line-97,通讯那头的声音,我们已经收到了国防部同步给我们的最新情报，其中还包括了卡兹戴尔的大概坐标。,"We've received the latest intelligence from the Ministry of Defense, which includes Kazdel's approximate coordinates.","Мы получили свежие разведданные от Министерства обороны, включая примерные координаты Казделла."
+line-98,通讯那头的声音,请持续关注萨卡兹军队在撤军返乡的旗号掩护下有何实际动作。,"Please closely monitor the Sarkaz army, to ensure their retreat home isn't a cover for another military maneuver.","Пожалуйста, следите за тем, какие реальные действия предпринимают войска Сарказов под прикрытием возвращения на родину."
+line-100,哥伦比亚军官,明白。,Understood.,Вас понял.
+line-103,,事实上，军官并不明白关注萨卡兹有什么意义。,"The officer does not, in fact, understand why he needs to monitor the Sarkaz.","На самом деле, офицер не понимал, какой смысл следить за Сарказами."
+line-104,,但出于对合作伙伴的尊重，他坐在侦察车里，聚精会神地盯着无人机传回的数据。,"However, out of respect for his comrades, he sits in the reconnaissance vehicle and stares intently at the data being sent back by the drones.","Но из уважения к партнёрам он сидел в разведмашине, сосредоточенно глядя на данные, поступающие с беспилотника."
+line-105,,风平浪静。,All is calm.,Тишь да гладь.
+line-107,哥伦比亚军官,目前没有异常状况，先生。所以，只是随便聊聊......梅兰德很少派您这样身份的代表出面与军方联系。,"There's nothing unusual to report at the moment, sir. By the way—and I'm just making small talk—Maylander rarely sends someone of your status to liaise with the military.","Пока без происшествий, сэр. И раз уж мы просто болтаем… «Меланд» редко присылает представителей вашего уровня для связи с военными."
+line-109,通讯那头的声音,呵呵，维多利亚人自以为将伦蒂尼姆的灾难掩饰得很好。,"Heh, the Victorians think they've done a fine job covering up the disaster in Londinium.","Ха-ха, Викторианцы думали, что смогут скрыть катастрофу в Лондиниуме."
+line-110,通讯那头的声音,梅兰德需要调查一些情况，然后跟他们谈谈。,Maylander needs to investigate the situation before we have a talk with them.,"«Меланду» нужно кое-что расследовать, а потом поговорить с ними."
+line-112,哥伦比亚军官,明白。,Understood.,Понял.
+line-118,通讯那头的声音,......少尉，少尉！,...Lieutenant! Lieutenant!,"…Младший лейтенант, младший лейтенант!"
+line-119,通讯那头的声音,及时报告情况！,You are to report any new developments immediately!,Докладывайте ситуацию немедленно!
+line-121,哥伦比亚军官,是，目前没有新情况......,"Of course, sir. There's nothing to report right now.","Да, пока новых данных нет…"
+line-123,通讯那头的声音,什么都没有？！,Nothing at all?!,"В смысле, ничего?!"
+line-125,哥伦比亚军官,呃，那是......？,Wait. What's that...?,"Э-э, это что…?"
+line-131,,军官放下了通讯器。车载天灾预警系统正在发出尖锐的警报声。,The officer puts down the communicator. The Catastrophe detection system on the vehicle is blaring an alarm.,Офицер отложил рацию. Бортовая система раннего предупреждения о бедствиях издавала пронзительный вой.
+line-132,,他望向特区的方向，这个距离下他几乎看不见移动城市的轮廓。,"He looks toward the capital district, but at this distance, he can barely make out the outline of the nomadic city.","Он посмотрел в сторону Особого района, но с этого расстояния контуры передвижного города были едва различимы."
+line-133,,但他看到天灾云投下了一片庞大的阴影，从特区的上空一直蔓延到自己的头顶。,"But he can clearly see the massive shadow cast by the Catastrophe cloud, stretching from above the capital district all the way to where he stands.","Однако он увидел, как облако стихийного бедствия отбросило огромную тень, протянувшуюся от неба над Особым районом прямо к нему."
+line-144,恭敬的侍者,是的，他知道您与叙拉古的那些人相熟，所以希望您这一次有机会施展才能。,"Yes. He knows you are familiar with the people of Siracusa, so he hopes you'll have a chance to display your talents this time.","Да, он знает, что вы знакомы с теми людьми из Сиракуз, поэтому надеется, что вы воспользуетесь своим талантом."
+line-146,莱塔尼亚贵族,请放心。数量庞大的萨卡兹是灾祸，是无序的军事力量......但也是佣兵。,"Not to worry. The Sarkaz hordes are a chaotic, calamitous force, but they are ultimately mercenaries.","Не волнуйтесь. Огромное количество Сарказов — это бедствие, это беспорядочная военная сила… но они же и наёмники."
+line-147,莱塔尼亚贵族,现在我们已经知道，我们的邻居维多利亚没能看管好他们。,"We are now well aware that our neighbor, Victoria, has failed to keep them on a tight leash.","Теперь мы знаем, что наши соседи-Викторианцы не смогли их сдержать."
+line-148,莱塔尼亚贵族,但我有信心，不让那些污秽干扰莱塔尼亚的辉煌乐章。,But I shall not allow such filth to disrupt Leithanien's glorious Güldenesgesatz. Of this I am quite certain.,"Но я уверен, что не дам этим нечистотам нарушить славную симфонию Лейтании."
+line-149,莱塔尼亚贵族,请您如此传话给您的主人——,Please send this message along to your master—,Передайте своему господину следующее —
+line-153,,骤然昏暗的天色打断了他的话。,The noble is interrupted by a suddenly darkening sky.,Внезапно наступившая тьма прервала его речь.
+line-155,莱塔尼亚贵族,......怎么回事？,...What's going on?,…Что происходит?
+line-157,恭敬的侍者,请随我进屋，先生！是天灾！,"Come inside with me now, sir! It's a Catastrophe!","Прошу, пройдемте в дом, сэр! Это стихийное бедствие!"
+line-167,哥伦比亚军官,联络基地，要求指令......见鬼......信号全断了！真见鬼！车队马力全部开到最大！,Contact the base for further orders... Damn! We've got no signal! What the hell is going on? Push the fleet forward. Full throttle!,"Связь с базой, запросить инструкции… Черт… сигнал полностью пропал! Черт побери! Выжать максимум мощности из двигателей!"
+line-168,哥伦比亚军官,等等——,Wait—,Погодите —
+line-175,,天灾预警系统显示的数据让他感到一阵更加强烈的恶寒。,The data from the Catastrophe detection system sends a chill down his spine.,"Данные, отображаемые системой предупреждения, вызвали у него еще более сильный холод в груди."
+line-176,,天灾云骤然停止了膨胀，就如同几分钟前，它毫无征兆地出现。,"The cloud has stopped expanding, just as suddenly as it had appeared a few minutes ago.","Облако стихийного бедствия внезапно перестало расширяться, так же, как и появилось без предупреждения несколько минут назад."
+line-179,,狂风将源石粉尘卷上天空，但源石没有再落下来。,"The strong wind blows Originium dust up into the sky, but it doesn't fall back down.","Сильные ветры подняли в небо пыль Ориджиниума, но сам Ориджиниум больше не падал."
+line-183,,而后，阴云缓缓散去，透出日光。,Then the cloud starts to dissipate as the sunlight peaks through.,"Затем тучи медленно рассеялись, пропуская солнечный свет."
+line-186,哥伦比亚军官,......,.....,…
+line-191,通讯那头的声音,......能听到吗，少尉？,"Can you hear me, lieutenant?","…Вы слышите меня, младший лейтенант?"
+line-193,哥伦比亚军官,是，先生......我们什么都没观测到，天灾云是突然出现的......,"Yes, sir! The Catastrophe cloud appeared out of nowhere. There were no signs at all before it happened...","Да, сэр… мы ничего не засекли, облако бедствия появилось внезапно…"
+line-195,通讯那头的声音,当然，当然。这是一次该死的展示、炫耀以及威胁。,"Of course, of course. This was meant as a display, a show of force to intimidate us.","Конечно, конечно. Это была чертовски демонстративная акция, хвастовство и угроза."
+line-197,哥伦比亚军官,您认为是萨卡兹的军队——？！,You think the Sarkaz troops did this...?!,"Вы думаете, это армия Сарказов —?!"
+line-199,通讯那头的声音,梅兰德不需要你们协助调查了，请及时撤回。当然，也麻烦您对本次合作的全部内容保密。,"Maylander no longer requires your help with our investigation. Please withdraw at once. Of course, do not disclose any information about our cooperation.","«Меланду» больше не нужна ваша помощь в расследовании, возвращайтесь немедленно. Конечно, будьте добры сохранить всё наше сотрудничество в строгой тайне."
+line-201,哥伦比亚军官,......是。,...Yes sir.,…Есть.
+line-203,通讯那头的声音,仍愿泰拉......保佑我们。,May Terra bless us.,Пусть Терра… хранит нас.
+line-213,卡西米尔报业主编,够了，把热线电话掐掉！关于天灾云的目击描述已经够多了！,Enough. Deactivate the tip line. We have more than enough eyewitness accounts of the Catastrophe cloud!,"Хватит, обрубите горячую линию! Описаний очевидцев стихийного бедствия уже более чем достаточно!"
+line-214,卡西米尔报业主编,大家都看得清清楚楚，我们这些坐在高楼里的人离它更近！,Everyone saw what happened. Those of us living in the high rises got an even closer look!,"Все и так прекрасно видели, а мы, сидя в небоскребе, находимся еще ближе!"
+line-215,卡西米尔报业主编,现在最重要的是拿出你们的解释，写出合格的新闻。每个人都写，随便你是把它解释成广告商投影还是莱塔尼亚的新法术流派。,"For now, I need all of you to come up with explanations and file your stories. Everyone writes a report—whether you explain it away as an advertising hologram or new Arts from Leithanien, that's up to you.","Сейчас самое важное — представить объяснения и написать качественную статью. Пишите все, неважно, объявите ли вы это проекцией рекламодателя или новой школой магии Лейтании."
+line-216,卡西米尔报业主编,......你还有什么事？,...Do you need anything else?,…У тебя есть еще что-то?
+line-218,卡西米尔职员,不，不是市民来电......,"Sir, this call wasn't from a citizen...","Нет, звонки не от горожан…"
+line-219,卡西米尔职员,我们的信使传讯回来了......崔林特尔梅、拉特兰城，还有蒙特卢佩......各国首都的上空都陆续出现了天灾云。,"We just received word from our Messengers... Zwillingstürme, Laterano, Montelupe... Catastrophe clouds have appeared over the capitals of every nation.","Наш гонец передал известие… над Трилтерн-Мэй, Латерано и Монтелупо… над столицами всех стран друг за другом появляются облака стихийных бедствий."
+line-221,卡西米尔报业主编,圣骏堡和麦克斯特区呢？,What about Deity Grypherburg and Max D.C.?,А как же Санкт-Мориц и Макс-территория?
+line-223,卡西米尔职员,......也一样。,...Same situation.,…То же самое.
+line-235,维什戴尔,“阿喃那”这小玩意儿还挺好用，竟然转眼就能把天灾给人送到家门口。,That little 'Amnannam' thingamajig is pretty handy. It can send a Catastrophe to someone's doorstep before you can blink.,"Эта штуковина, «Ананна», довольно удобная — доставит стихийное бедствие прямо кому-то на порог в один миг."
+line-236,维什戴尔,啧，难怪我们要带走它的时候，博士和老女人会那么紧张，小兔子还非要跟上来看着我。,"Tch, no wonder Doctor and the hag were so nervous when we came to take it away, and the little bunny insisted on tagging along to keep an eye on me.","Тс, неудивительно, что Доктор и эта старая карга так нервничали, когда мы собрались её забрать, а мелкий кролик даже увязался следом, чтобы следить за мной."
+line-238,维什戴尔,嗯......要是我们干脆一鼓作气把那几个核心圈国家的首都给毁了......,"Hmm...What if we just, like, destroyed every capital of the Core all at once?",М-м… а если мы просто возьмем и разрушим столицы этих стран из «ядерного круга»…
+line-240,？？？,它或许的确能将恐惧降临在核心圈国家的首都，但那不代表能摧毁那些国家。,"While it may indeed be able to rain down disaster on those nations, that doesn't mean it can destroy them.","Она, может, и способна навлечь ужас на столицы этих стран, но это не значит, что она может их уничтожить."
+line-241,？？？,我很肯定，这份侮辱能换回来的，只有对卡兹戴尔的报复。我们最初的历史已经证明了这一点。,"I have no doubt that doing so would bring nothing but retaliation against Kazdel. Our history has repeatedly proven this, even from the earliest records.","Я уверен, что таким оскорблением мы добьемся лишь ответного удара по Казделлу. Наша история это уже доказала."
+line-242,？？？,这不是个明智的决定，维什戴尔。况且，谨慎使用它，它对思维和身体造成的负担远超我的想象。,"It would be unwise, Wiš'adel. In fact, you must use Amnannam sparingly—the strain it places on the mind and body is even greater than I imagined.","Это неразумное решение, Виш’дэль. К тому же, используй её осторожно, нагрузка на разум и тело гораздо сильнее, чем я предполагал."
+line-243,？？？,你刚刚才切身体会过那种痛苦。,You just experienced that pain firsthand.,Ты ведь только что лично испытала эту боль.
+line-245,维什戴尔,轮不到你来告诉我，曼弗雷德。,"You don't get to tell me that, Manfred.","Не тебе меня учить, Манфред."
+line-252,曼弗雷德,如果我们能理解“阿喃那”正确的使用方式，它所能做到的，远非只有恐吓这么简单。,"Amnannam's potential extends far beyond intimidation, assuming we figure out the proper use for it.","Если бы мы поняли, как правильно использовать «Ананну», её потенциал заключался бы не только в запугивании."
+line-254,曼弗雷德,两位殿下所期许的，也并非如此。它的确是武器，是威慑，但更是摆脱我们宿命的基石——,"Their Highnesses had much higher hopes for it. Yes, it is a weapon, a deterrent, but more importantly, it is the means by which we will break free from our destiny—","То, на что рассчитывали обе Ваших Высочества, — это не оно. Это оружие, это средство сдерживания, но прежде всего — это фундамент для освобождения от нашей судьбы."
+line-256,维什戴尔,你比赫德雷更烦人。,"You know, you're even more annoying than Hoederer.","Ты даже более раздражающий, чем Хедерей."
+line-257,维什戴尔,曼弗雷德，不要忘了自己的身份。你只是一个囚徒，你现在还活着的唯一原因是卡兹戴尔需要你活着。,"Don't forget who you are, dude. You're a prisoner, and we're only keeping you alive 'cause Kazdel needs you alive.","Манфред, не забывай, кто ты. Ты просто пленник, и единственная причина, почему ты ещё жив — это то, что Казделлу нужно, чтобы ты был жив."
+line-258,维什戴尔,而军事委员会还能够存在的唯一原因，也只是还活着的萨卡兹依旧需要一个信念支撑他们回到家。,"Hell, the only reason we let the Military Commission stick around is that the surviving Sarkaz still need something to believe in on the way home.","А единственная причина, по которой Военный совет до сих пор существует, — это то, что выжившим Сарказам всё ещё нужна вера, чтобы вернуться домой."
+line-260,维什戴尔,妈的，特雷西斯真是好算计。,"Fucking Theresis sure thought of everything, huh?","Черт возьми, Терезис умеет строить козни."
+line-262,曼弗雷德,......赫德雷早猜到了，不是吗？,"...I'm guessing Hoederer saw this coming long ago too, didn't he?","…Хедерей ведь уже догадался, правда?"
+line-263,曼弗雷德,这本就是摄政王殿下的阳谋，被仇恨再次凝聚在一起的族群，重新团结在卡兹戴尔的周围——,This was always the Regent's overt strategy: to reunite a people—brought together once more by hatred—around Kazdel—,"Это была открытая стратегия Его Высочества Регента: сплотить народ, вновь объединенный ненавистью, вокруг Казделла…"
+line-265,曼弗雷德,巴别塔和军事委员会的再一次合作，为了同一个目标。,"Even Babel and the Military Commission are working together again, united toward a common goal.",Сотрудничество «Вавилона» и Военного совета вновь ради одной цели.
+line-267,维什戴尔,不要妄想这样你就能躲过审判，曼弗雷德。记住我的话。,"Yeah yeah, but don't expect to wriggle your way out of this one, Manfred. Remember what I said.","Не надейся, что так ты избежишь суда, Манфред. Запомни мои слова."
+line-269,曼弗雷德,维什戴尔......,Wiš'adel...,Виш’дэль…
+line-271,维什戴尔,你还没说完？,"What, still got more to say?",Ты ещё не закончил?
+line-273,曼弗雷德,如果卡兹戴尔真有和其他国家恢复正常关系的那一天，就如特蕾西娅殿下曾努力的那样......,"If, someday, Kazdel really does normalize its relations with the other nations, just as Her Highness Theresa once strived for...","Если настанет день, когда Казделл действительно восстановит нормальные отношения с другими странами, как того старалась добиться Его Высочество Терезия…"
+line-275,曼弗雷德,我，还有军事委员会的其他人都必须和卡兹戴尔划清界线。,"Then I, along with the rest of the Military Commission, will have to draw a clear line between ourselves and Kazdel.",Я и остальные члены Военного совета должны будем дистанцироваться от Казделла.
+line-277,曼弗雷德,对萨卡兹而言，外族人是为我们带来仇恨的人，而我们对那些国家的人亦然。,"As the Sarkaz see it, outbloods bring only pain and hatred, just as we do to them.","Для Сарказов чужаки — те, кто принес нам ненависть, и так же мы выглядим в глазах людей тех стран."
+line-279,维什戴尔,......,.....,…
+line-281,曼弗雷德,他们迟早会宣称我们犯下的罪并未清洗，而我会等着那些复仇者找到我们——,"Sooner or later, they will claim that we haven't paid for the crimes we have committed, and on that day I will be waiting for those hateful avengers to find us—","Рано или поздно они заявят, что наши грехи не смыты, и я буду ждать тех мстителей…"
+line-283,维什戴尔,闭嘴吧，曼弗雷德。少摆出一副好好先生的模样。,Just shut up already. Stop acting like you're a saint or whatever.,"Заткнись, Манфред. Хватит строить из себя святошу."
+line-284,维什戴尔,特雷西斯和你们干了蠢事，蠢到我恨不得把你们全都挫骨扬灰。,Theresis and the rest of you assholes screwed up big time. You were so goddamned stupid I wish I could blow you to pieces right now.,"Терезис и вы натворили глупостей, таких глупостей, что мне хочется стереть вас всех в порошок."
+line-286,维什戴尔,别忘了，那些真心相信你们计划的战争疯子可几乎都陪食腐者死在了伦蒂尼姆。,"Don't forget: almost all the lunatics who actually believed in your plan died in Londinium, along with the Nachzehrer.","Не забывай, те безумцы, что искренне верили в ваш план, почти все погибли в Лондиниуме вместе с Пожирателями."
+line-287,维什戴尔,你们亲手坑死了那些蠢货。我们能救下来、能带着撤走的人已经不剩多少。,You killed them with your own hands. There were hardly any left to even evacuate.,"Вы сами загнали этих глупцов в могилу. Тех, кого нам удалось спасти и вывести оттуда, осталось совсем немного."
+line-289,曼弗雷德,......,.....,…
+line-291,维什戴尔,但萨卡兹犯下的错，萨卡兹自然会承担。,But the Sarkaz will pay for their own mistakes.,"Но ошибки, совершенные Сарказами, Сарказы и должны искупать."
+line-292,维什戴尔,巴别塔还没有懦弱到会为了一群敢来挑衅卡兹戴尔的杂碎，就把军事委员会一股脑全扔到城外。,Babel's not so spineless as to cast the entire Commission from the city just because a few dumbasses were bold enough to provoke Kazdel.,"«Вавилон» не настолько труслив, чтобы выкинуть весь Военный совет за стены города ради группы мерзавцев, осмелившихся бросить вызов Казделлу."
+line-293,维什戴尔,殿下绝不会这么干，我也不会。,"Her Highness would never do that, and neither will I.","Её Высочество никогда бы так не поступила, и я тоже."
+line-295,维什戴尔,他们要是敢来，我不介意再打一架。,"If they're stupid enough to come, I don't mind giving 'em a fight.","Если они осмелятся прийти, я не прочь устроить еще одну бойню."
+line-296,维什戴尔,你要是继续啰哩啰嗦，我就把你扔给某个愿意和你扯这些蠢事的人。,"But if you keep talking shit, I'll just toss you over to someone who's willing to put up with your crap.","А если продолжишь болтать ерунду, я брошу тебя кому-нибудь, кто захочет обсудить с тобой этот бред."
+line-298,曼弗雷德,......,.....,…
+line-308,叙拉古家族成员,你不害怕吗？,You're not afraid of it?,Тебе не страшно?
+line-309,叙拉古家族成员,你看那边移动的天灾云，明明看着很远，但总感觉随时会突然跑到我头顶上......,"Look at that moving Catastrophe cloud over there. It seems so far away, but I can't shake the feeling it might suddenly appear right above my head...","Ты посмотри на то движущееся облако бедствия, оно вроде и далеко, но кажется, что в любой момент может оказаться прямо у меня над головой…"
+line-316,神秘的男人,怕，怕极了。人哪有不怕天灾的。,Of course I'm afraid. Who isn't afraid of Catastrophes?,"Страшно, еще как. Кто же не боится стихийных бедствий?"
+line-318,神秘的男人,不过我在萨米学会了一招，一旦害怕，就把帽子扣在头上，蹲在那里想点开心的事，想着想着，恐怖的东西就自己过去了。,"But there's a trick I picked up in Sami: whenever I'm scared, I just pull my hat over my head, crouch down, and think of something happy. The things you're afraid of will disappear before you even know it.","Хотя в Сами я научился одному трюку: если становится страшно, натягиваю шляпу поглубже, сажусь и начинаю думать о чем-то приятном, и так, потихоньку, ужасное проходит само собой."
+line-320,神秘的男人,再说，我只是在走我自己的路，他们不会平白无故地为难我吧？,"After all, I'm just minding my own business—they wouldn't give me a hard time for no reason, would they?","К тому же, я просто иду своим путем, вряд ли они станут чинить мне препятствия без всякой причины?"
+line-322,叙拉古家族成员,上周你还说自己不知道是第几次被不同家族的人抓起来审问了。,Just last week you said you'd lost count of how many times you'd been captured and interrogated by one of the Famiglie.,"На прошлой неделе ты говорил, что уже не помнишь, сколько раз тебя задерживали для допросов люди разных семей."
+line-324,神秘的男人,哎呀，给你们添麻烦了。,*sigh* I'm sorry for the trouble.,"Ой, извините, что доставил вам неудобства."
+line-326,叙拉古家族成员,......,.....,…
+line-328,神秘的男人,但是误会总是会解开的。你们不还是把我放了嘛。,"But misunderstandings always get cleared up in the end. I mean, you guys <i>did</i> let me go, didn't you?",Но недоразумения всегда разрешаются. Вы же меня отпустили.
+line-330,叙拉古家族成员,......真是想不通你这家伙是怎么活着一路穿过萨米和乌萨斯的，总不会是在吹牛吧？,"...I really can't figure out how you managed to make it all the way through Sami and Ursus in one piece. You ain't lying about that too, are ya?","…Просто ума не приложу, как ты умудрился выжить, проходя через Сами и Урсус, ты ведь не просто хвастаешься, да?"
+line-332,神秘的男人,我总是能遇到讲道理的人，就像你们一样。,I just happen to come across perfectly reasonable people like you all the time.,"Мне всегда попадаются рассудительные люди, точно такие же, как вы."
+line-334,叙拉古家族成员,哼，天灾不听人讲道理。,"Hmph. Try reason your way out of Catastrophes, then.","Хм, стихийное бедствие не станет слушать твои доводы."
+line-335,叙拉古家族成员,你要去哪里来着，“黑流树海”？,Remind me again where you're going? Some place called 'Black Flow'?,"Куда ты там собирался, в «Море Черного течения»?"
+line-337,神秘的男人,是的。也是回家，朋友，回玻利瓦尔。,"Yes, and I'm also going home, friend, back home to Bolívar.","Да. Тоже путь домой, друг, возвращаюсь в Боливар."
+line-339,叙拉古家族成员,那地方那么远，不差这一两天，而且你揣着的那张破符纸又不会过期。,"That's one long-ass journey. An extra day or two won't make a difference. Besides, that tattered paper talisman you're carrying ain't gonna expire.","Там так далеко, день-два ничего не изменят, да и твоя паршивая бумажка-амулет не испортится."
+line-340,叙拉古家族成员,无论如何，我劝你等等，等那帮疯子的队伍过去。他们发动了战争，他们能毁灭城市。,"Anyhow, I advise you to wait for that parade of crazies to pass. They started a war; they can destroy cities.","В любом случае, советую подождать, пока пройдут эти безумцы. Они развязали войну, они могут уничтожать целые города."
+line-341,叙拉古家族成员,或者，等别的东西替你试试那场天灾。,Or maybe wait for someone or something else to test out the Catastrophe for you.,"Или подожди, пока кто-то другой испытает это стихийное бедствие за тебя."
+line-342,叙拉古家族成员,只是一个朋友的忠告。,Just some friendly advice.,Просто дружеский совет.
+line-343,叙拉古家族成员,那群魔族佬这么张扬，总会有人想要试探着从他们那咬下来一块肉的。,Those devils are bold as hell—someone's bound to try and take a bite out of 'em sooner or later.,"Раз уж эти демоны ведут себя так вызывающе, всегда найдется тот, кто захочет откусить от них кусочек."
+line-345,神秘的男人,......,.....,…
+line-348,,他能听到远方天灾云的恐怖声势，也能隐隐听到军舰引擎轰鸣的声音。,"He can hear the terrifying roar of the Catastrophe cloud off in the distance, along with the faint rumble of battleship engines.","Он слышал пугающий гул облака бедствия вдали, и слабое рычание двигателей военных кораблей."
+line-349,,这位叙拉古的朋友说得没错，或许搅和进这件事里并不明智。但......,"The Siracusan is right. It may be wiser not to get involved in this, however...","Этот сиракузский друг был прав: возможно, ввязываться в это дело неразумно. Но…"
+line-351,叙拉古家族成员,帕尤卡卡......你总不能，真的被那骇人的天灾云迷住了吧？,"Paryaqaqa, you ain't actually... fascinated by that cloud, are ya?",Паюкака… ты ведь не серьезно? Неужели тебя и правда заворожило это жуткое облако?
+line-353,帕尤卡卡,也许吧。我看到没见过的景象，就按捺不住好奇心。,Maybe I am. I find it hard to hide my excitement whenever I encounter something I've never seen before.,"Может быть. Я вижу то, чего никогда не видел, и любопытство берет верх."
+line-355,帕尤卡卡,的确，我在萨米时因为这个毛病吃过亏，可惜我就是改不掉自己的毛病。,"True, I paid a price for it back in Sami, but I just can't get rid of this bad habit.","Действительно, я не раз попадал из-за этой привычки в беду, будучи в Сами, но, увы, ничего не могу с собой поделать."
+line-357,帕尤卡卡,更准确地说，我想去看看顶着天灾云走路的那群人。,"To be more precise, I want to take a look at the people walking beneath the Catastrophe cloud.","Точнее говоря, я хочу посмотреть на тех, кто идет прямо под этим облаком."
+line-372,Misery,情况怎样？但愿没有人为难你。,How is it going? I hope no one is giving you any trouble.,"Как обстановка? Надеюсь, никто тебя не беспокоил."
+line-374,Logos,只是又一场普通的葬礼。,Just another ordinary funeral.,Просто очередные похороны.
+line-376,Misery,......天灾下的葬礼，恐怕算不上普通了。这对很多人不公平，他们本应该和我们一起回到卡兹戴尔。,...A funeral beneath a Catastrophe cloud is hardly ordinary. It's unfair to so many—they should have been able to return to Kazdel with us.,"…Похороны под облаком стихийного бедствия — это уже само по себе неординарно. Это несправедливо по отношению ко многим, они должны были вернуться в Казделл вместе с нами."
+line-378,Logos,死亡已是我们中绝大多数人最容易触碰到的平等，Misery。,"Death is the one form of equality most readily attainable to all, Misery.","Смерть стала для большинства из нас самым доступным видом равенства, Мизери."
+line-380,Logos,绝大多数死者已无亲故，亦无姓名。,"The vast majority of the deceased have no relatives, nor even names.","У большинства погибших нет ни родных, ни имен."
+line-381,Logos,当初我请他们留下遗言时，他们不知谁会为自己哀悼。,"When I asked them to leave their final words, they could not even identify anyone who might remember them after they were gone.","Когда я просил их оставить завещание, они не знали, кто будет по ним скорбеть."
+line-383,Logos,我令雾气在众人安葬之处缭绕，以免野兽惊扰，但对大多数人而言，他们终究未能如愿归乡，将尸骨投入熔炉。,"I shrouded the burial site in mist to keep beasts away. Unfortunately, most of the dead were still unable to return to the furnace at home as they wished.","Я окутал туманом место их захоронения, чтобы звери их не потревожили, но, по правде говоря, большинство так и не вернулось домой, чтобы упокоиться в плавильной печи."
+line-385,Misery,Logos，你知道再往前走一些，是什么地方吗？,"Logos, do you know what lies a little further up ahead?","Логос, ты знаешь, что это за место, если пройти еще немного вперед?"
+line-387,Logos,我之前的任务......很少需要在这附近行动。,My previous missions... rarely required me to come this way.,Мои прошлые миссии… редко проходили в этой местности.
+line-389,Misery,再往南走一点，就是拉特兰了。不远。,"Laterano is just south of here, not far.","Если пройти чуть южнее, там Латерано. Совсем недалеко."
+line-391,Logos,......,.....,…
+line-393,Misery,Outcast和我一起在附近出任务时，她常常带我来这边喝酒。,"When Outcast and I went on missions together in this area, she'd often bring me here to drink.","Когда мы с Оуткэст были на задании неподалеку, она часто приводила меня сюда выпить."
+line-394,Misery,我们打过一个愚蠢的赌——我会找机会偷偷溜进去尝尝拉特兰当地的冰淇淋。,We once made a foolish bet—that I'd find a way to sneak in and try Lateran ice cream.,У нас был глупый спор — что я найду способ тайком пробраться туда и попробовать местного латеранского мороженого.
+line-395,Misery,我做到了，没人能看到我。,"Well, I did it. No one caught me.","Я справился, никто меня не заметил."
+line-396,Misery,......我也没能让她看到。,But I never got the chance to tell her.,…Но она этого так и не увидела.
+line-397,Misery,哈，至少这次失约的不是我。,Ha. At least <i>I'm</i> not the one breaking my promise this time.,"Ха, по крайней мере, в этот раз я не тот, кто нарушил обещание."
+line-399,Logos,所以你特意拒绝了和阿斯卡纶一同回本舰的命令。,So you deliberately refused the order to return to the ship with Ascalon.,Так вот почему ты отказался от приказа вернуться на флагман вместе с Аскалон.
+line-401,Logos,你知道我们的撤退路线会经过这里。,You knew we'd pass through here during the retreat.,"Ты знал, что наш путь отступления будет проходить через это место."
+line-403,Misery,别瞎猜我的心思，Logos。,"Don't try to guess my intentions, Logos.","Не пытайся читать мои мысли, Логос."
+line-404,Misery,有阿斯卡纶在，护送我们那些牺牲的同僚和他们的信物回到本舰的任务不会有任何问题。,"With Ascalon here, we'll have no issues escorting our fallen comrades and their tokens back to the ship.",С Аскалон миссия по сопровождению наших павших товарищей и их жетонов на флагман пройдет без проблем.
+line-405,Misery,况且，她也需要一些独处的时间......告别过去。,Besides... she also needs some time to herself. To say goodbye to the past.,"К тому же, ей нужно время, чтобы побыть одной… попрощаться с прошлым."
+line-407,Logos,我尝试过与她讨论撤军事宜，但她保持了缄默。,"I tried speaking to her about the retreat, but she remained silent.","Я пытался обсудить с ней план отступления, но она молчала."
+line-409,Misery,也许之后的事务她都不会再有什么看法。,"Perhaps she won't have anything to say about what happens next, either.","Возможно, у неё больше не будет своего мнения ни по каким вопросам."
+line-410,Misery,她亲历了一个时代的落幕，Logos。那种感觉不会好受，恐怕未来我们的会议又要少一个参会者了。,"She witnessed the end of an era, Logos. It couldn't have been easy for her, and I fear we'll have one less participant at our future meetings.","Она стала свидетельницей заката целой эпохи, Логос. Это чувство не из приятных, боюсь, в будущем нас на собраниях станет еще меньше."
+line-413,,Misery叹了一口气。,Misery lets out another sigh.,Мизери вздохнул.
+line-416,Misery,谁也说不准将来还会发生什么。,No one can say for sure what will happen next.,"Кто знает, что произойдет в будущем."
+line-417,Misery,就像我们头顶上的天灾云......虽然我不喜欢这个计划，但我不得不承认，这就是对任何想要趁机与萨卡兹开战的军队最大的威慑。,"It's just like the Catastrophe cloud above our heads... I may not like this plan, but I must admit it's the best deterrent we have against those who wish to seize the chance to declare war on the Sarkaz.","Как и это облако бедствия у нас над головой… хотя мне не нравится этот план, должен признать, что для любой армии, желающей воспользоваться случаем и начать войну с Сарказами, это лучшее средство сдерживания."
+line-418,Misery,若不以强硬手段避免战争，返归卡兹戴尔的旅程会有更多无谓的牺牲。,"Without a strong measure like that to avoid war, there would only be more unnecessary sacrifices on the road back to Kazdel.","Если не избегать войны жесткими методами, возвращение в Казделл обернется множеством напрасных жертв."
+line-420,Logos,暴力是手段，不是目的。这并无不妥。,"Violence is a means, never an end. There is nothing wrong with that.","Насилие — это инструмент, а не цель. Тут нет ничего предосудительного."
+line-422,Misery,但，或许是我太过悲观......,Maybe I'm just a pessimist...,"Но, быть может, я слишком пессимистичен…"
+line-423,Misery,我只觉得，雨终归是会落下来的。,"But I still think the rain will come down, sooner or later.","Мне просто кажется, что дождь в итоге все равно пойдет."
+line-433,帕尤卡卡,呃，所以能放开我了吗？,Uh-huh. So can you let me go?,"Э-э, так может вы отпустите меня?"
+line-435,雇佣兵斥候,你到底是什么人？,"Who the hell are you, anyway?","Кто ты такой, черт возьми?"
+line-437,帕尤卡卡,我真的只是一个探险家......,I'm really just an explorer.,Я правда просто исследователь…
+line-439,雇佣兵斥候,我可没见过能让天灾云里的雷电都躲着的探险家，就像、就像它们在害怕你......,What kinda explorer could stop the lightning in a Catastrophe cloud? I-It's like the thunderbolts themselves are afraid of you...,"Я еще не видел таких исследователей, от которых прячутся молнии в облаке стихийного бедствия, словно… словно они тебя боятся…"
+line-441,帕尤卡卡,也许是喜欢我？,Maybe they've taken a liking to me?,"Может, я им нравлюсь?"
+line-443,帕尤卡卡,你看，不是有几道雷电就在我身边炸开了吗！,See? A few of them just landed right next to me!,"Смотри, разве молнии не бьют прямо вокруг меня!"
+line-445,雇佣兵斥候,......,.....,…
+line-446,雇佣兵斥候,你这么说，只会让自己看起来更可疑。,"You do realize that just makes you even more suspicious, right?",Своими словами ты делаешь себя еще более подозрительным.
+line-447,雇佣兵斥候,我想我们头上这些天灾云的意味已经很清楚了。别靠近，也别想试探我们！,"Personally, I think the Catastrophe's sending a clear message—don't come near us, and don't try and test us!","Думаю, значение этих облаков бедствия над нашими головами предельно ясно. Не приближайся и не вздумай испытывать нас!"
+line-449,帕尤卡卡,等等，我只是想来研究一下你们弄出来的奇怪天灾云，顺便提醒一下你们——,"Now now, let's not be hasty. I just wanted to study the strange Catastrophe cloud you created, as well as remind you that—","Подождите, я просто хотел изучить эти странные облака бедствия, которые вы создали, и заодно предупредить вас —"
+line-451,雇佣兵斥候,我不喜欢你。,I don't like you.,Ты мне не нравишься.
+line-452,雇佣兵斥候,你的假话太多了。,You tell too many lies.,Слишком много лжешь.
+line-455,,萨卡兹佣兵掂量着眼前这人的真实实力，犹豫着要不要动手。,"The Sarkaz mercenary sizes up the man standing before him, and hesitates about whether to make a move.","Наемник-Сарказ оценивал истинную силу этого человека, колеблясь, стоит ли нападать."
+line-456,？？？,这就是那个有问题的人？,This guy's the one you were talking about?,Это тот самый подозрительный субъект?
+line-461,维什戴尔,看上去也很普通嘛。,He looks pretty normal to me.,Выглядит довольно обычно.
+line-462,维什戴尔,老东西，你确定没有认错？,"You sure you got this right, old geezer?","Старик, ты уверен, что не ошибся?"
+line-467,死魂灵的声音,他身上有我讨厌的味道。,"He is giving off a particular scent, one I loathe.","От него веет тем, что я ненавижу."
+line-468,死魂灵的声音,（古老的萨卡兹语）“施矛狄卡”......外来的敌人。,(Ancient Sarkaz language) 'Šmal'deqa'... 'enemies from outside'.,(Древний язык Сарказов) «Шимодика»… чужак-враг.
+line-469,死魂灵的声音,不，不是那些家伙亲自来了，是他随身带着的一个东西。,"No... It is not coming from him, it is what he brought with him.","Нет, не те, кто пришел лично, это вещь, которую он носит с собой."
+line-470,死魂灵的声音,奇怪，好像只是......一张纸？,Strange. It seems to be... a piece of paper?,"Странно, похоже, всего лишь… листок бумаги?"
+line-472,维什戴尔,嘁，你真是烧糊涂了，老东西。,"Pfft. You really are confused, you old coot.","Тс, ты совсем мозги прожарил, старик."
+line-473,维什戴尔,意思是不用再警惕他了？喂，怎么不说话了？,So does this mean we don't need to worry about him anymore? Hey! Why aren't you saying anything?,"Хочешь сказать, больше не надо его опасаться? Эй, почему замолчал?"
+line-475,雇佣兵斥候,老大，我——,"Boss, I—","Босс, я —"
+line-477,维什戴尔,说了以后叫议长。麻烦死了，赫德雷非要搞这些无聊的规矩。,"I told you, call me 'Chairman' from now on. Tch, what a pain in the ass. Why did Hoederer have to make up all these stupid rules?","Я же говорила называть меня Председателем. Как же это бесит, Хедерей помешан на своих дурацких правилах."
+line-478,维什戴尔,......明明议长只能是殿下——,Only Her Highness should be called 'Chairman'...,…Ведь председателем может быть только Её Высочество —
+line-480,维什戴尔,行了，派你们这支小队出来侦察，你们就继续去干侦察的活儿，这家伙交给我。,"Anyway, your squad's out here to scout, so just keep on scouting. Leave this guy to me.","Ладно, раз вас отправили в разведку, продолжайте заниматься своими делами, с этим типом я разберусь сама."
+line-482,雇佣兵斥候,听你的。,Got it.,Как скажешь.
+line-488,维什戴尔,有话直说。别搞小动作。,"You. If you've got something to say, say it. Don't try and pull a fast one on me.","Говори, что хотел. Без глупостей."
+line-489,维什戴尔,我保证我动作会比你更快。,I guarantee I'm faster than you.,"Я уверяю тебя, я буду быстрее."
+line-491,帕尤卡卡,......,.....,…
+line-493,帕尤卡卡,有舰队朝你们过来。没法确定来自哪个国家，他们关闭了所有信号识别。,There's a fleet heading your way. Don't know which nation they're from—they've disabled all identifying signals.,"К вам приближается флот. Непонятно, чьи они, они отключили все сигналы идентификации."
+line-495,帕尤卡卡,方向是那边。那一带有地形掩护，军队很容易埋伏。,They're coming from that direction. The terrain provides a lot of cover. It would be easy to plan an ambush.,"С того направления. Там отличный рельеф, очень удобно для засады."
+line-497,维什戴尔,说不定谁都想插一脚呢。,I guess everyone wants in on this.,"Похоже, каждый хочет сунуть сюда свой нос."
+line-499,维什戴尔,啧，一群懦夫。害怕我们，又想假装信心满满。,"Tch, what a bunch of cowards. Afraid of us, yet always acting cocky.","Тс, трусы. Боятся нас и одновременно хотят сделать вид, будто уверены в себе."
+line-501,维什戴尔,好，让我转告给那些冲在前面送死的老伙计,"Alright, I'll pass on the word to the guys charging to their deaths on the frontlines","Хорошо, передам нашим парням, что стоят впереди и готовы принять удар…"
+line-503,维什戴尔,——喂，听到了吗？侦察时注意埋伏。,"—Hello? Can you hear me? While you're out there, watch out for an ambush.","— Эй, слышали? Будьте внимательны в разведке, возможна засада."
+line-505,维什戴尔,作为感谢，要不我请你看一会儿天灾云？你不是来“探险”的吗？,"So as a thank-you, how about I invite you to watch the Catastrophe cloud with me? You're here to 'explore', right?",В качестве благодарности хочешь посмотреть на облако бедствия? Ты ведь за этим пришел «исследовать»?
+line-507,帕尤卡卡,哈哈，还是不了......我怕得发抖。,Hahaha... I'd really rather not. I'm shaking in my boots here.,"Ха-ха, лучше не надо… меня от этого дрожь берет."
+line-509,维什戴尔,哼。,Hmph.,Хм.
+line-510,维什戴尔,你走吧，要是再有萨卡兹不长眼抓你，就告诉他们放你走的人的名字——维什戴尔。,"Alright. Your loss. Now scram. If any clueless Sarkaz grabs you again, just tell them who let you go—Wiš'adel.","Ступай. Если кто-то из Сарказов еще раз решит тебя схватить, назови мое имя — Виш’дэль."
+line-512,帕尤卡卡,多谢。,You have my thanks.,Благодарю.
+line-513,帕尤卡卡,好险好险，要不是有你搭救，我就要不明不白地死在旅途上了。,"That sure was a close call. If you hadn't rescued me, this journey would have been my last.","Повезло-повезло, если бы не ты, я бы бесславно погиб в этом путешествии."
+line-515,维什戴尔,别再在我面前撒谎了，我知道你是故意被抓住的。,Drop the act around me. I know you got caught on purpose.,"Хватит лгать мне в лицо, я знаю, что ты дал себя схватить намеренно."
+line-517,帕尤卡卡,......,.....,…
+line-519,维什戴尔,真是奇怪，我怎么总能撞上一些跟萨卡兹没有半点关系、偏偏要来帮忙的好心人？,"It's so weird. Why do I keep running into people who have nothing to do with the Sarkaz, but want to help anyway?","Странно, как я вечно натыкаюсь на таких доброхотов, которые не имеют к Сарказам никакого отношения, но так и норовят помочь?"
+line-522,,黎博利看着眼前这个貌似轻松的萨卡兹，他敏锐地发现了这位应该是这群人首领的人，注意力早已不在自己的身上。,"The Liberi eyes the seemingly relaxed Sarkaz before him, quickly realizing she's likely the leader of the group—and that her attention has long since shifted away from him.","Либери смотрел на эту, на первый взгляд, беззаботную Сарказ, и заметил, что лидер этого отряда больше не обращает на него внимания."
+line-523,,她在关注远方，她相信了自己的警告。,She is focused on the distant horizon. She is heeding his warning.,"Она смотрела вдаль, она поверила его предупреждению."
+line-524,,风带来了大地的声音......或是军舰的引擎声。,The wind brings with it the sounds of the land... or maybe the rumbling of ships' engines.,Ветер донес голос земли… или рокот двигателей военных кораблей.
+line-525,,纷争，战乱，探险家一路走来已经看过了太多。,"Conflicts, wars... the explorer has already seen too much along the way.","Распри, войны — исследователь повидал их слишком много на своем пути."
+line-527,帕尤卡卡,唉......,*sigh*...,Эх…
+line-537,,“老样子，我们不当等着挨打的那一个。”,"'As always, we don't want to be the ones waiting for a beating.'","«Как обычно, мы не будем стоять и ждать удара»."
+line-538,,“放出去的法术造物都被摧毁了，他们知道我们接近了。不过我本来也没想藏。”,"'All the Arts creations we sent out have been destroyed. They know we're getting closer, but I never planned on hiding anyway.'","«Магические конструкции, что мы выслали, уничтожены, они знают, что мы рядом. Впрочем, я и не собиралась прятаться»."
+line-539,,“得派些倒霉蛋去送死，其他人才有登舰作战的机会。是你的队伍还是我的队伍？”,'Some unlucky souls have to be sent to their deaths so the others can board the ship and fight. Will it be your squad or mine?',"«Нужно послать смертников, чтобы остальные получили шанс высадиться на борт. Твой отряд или мой?»"
+line-540,,“听巴别塔和军事委员会的指挥，还轮不到你自己决定。”,'Follow the orders of Babel and the Military Commission—this isn't for you to decide on your own.',"«Слушайте приказы «Вавилона» и Военного совета, не вам самим решать»."
+line-541,,“见到的敌人全都杀死。队伍中但凡有手下留情的、跟自己人抢夺战利品的，也杀死。”,'Kill every hostile you encounter. Anyone in the squad who spares an enemy or takes spoils from their comrades—kill them too.',«Убивать всех врагов. Кто проявит пощаду или начнет мародерствовать — тоже убивать».
+line-542,,“准备爆破物。在行进路线上设置祭坛。”,'Prepare the explosives. Set up altars along the route.',«Готовьте взрывчатку. Установите алтари по маршруту следования».
+line-543,,“一般来说，祭坛的法术效力不足以穿透高速军舰的装甲，但这次天灾站在我们这边。”,"'Normally, the altars' Arts can't penetrate the armor of high-speed battleships. But this time, we have the Catastrophe cloud on our side.'","«Обычно магической мощи алтарей недостаточно, чтобы пробить броню скоростного корабля, но на этот раз стихийное бедствие на нашей стороне»."
+line-548,萨卡兹战士,......他们来了。,They're here.,…Они идут.
+line-549,萨卡兹战士,就知道要回去没那么容易。,I knew going home wouldn't be that easy.,"Знал же, что вернуться будет не так просто."
+line-554,,大地在震动。,The earth is shaking.,Земля содрогалась.
+line-555,,高速军舰从阴影中缓缓驶出，拦在了萨卡兹前进的道路上。,"The high-speed battleships slowly emerge from the shadows, blocking the Sarkaz's path forward.","Скоростные военные корабли медленно выплыли из тени, преградив путь Сарказам."
+line-556,,在伦蒂尼姆时，战士已经几次发起这样的冲锋，他认为自己应该是百里挑一的幸运儿。,"The warrior launched a few charges like this while in Londinium, and considers himself one of the fortunate few.","В Лондиниуме этот боец уже не раз ходил в подобные атаки, считая, что он счастливчик, выживший из тысячи."
+line-557,,他也很清楚，想回到卡兹戴尔，能走的不是一条路，而是一片尸山血海的战场。,"He also knows full well that the path back to Kazdel is not a road, but a battlefield, full of corpses and awash in blood.","Он прекрасно понимал: чтобы вернуться в Казделл, нужно пройти не просто по дороге, а по полю боя, усеянному трупами."
+line-558,,在军舰主炮所能抵达的最远距离之外，萨卡兹的大部队停下了脚步。,The Sarkaz procession stops at the edge of the firing range of the battleships' cannons.,За пределами максимальной дальности стрельбы главных орудий кораблей основные силы Сарказов остановились.
+line-559,,天色变得阴沉，头顶的黑云翻滚着雷霆，他们的敌人越来越近。,"The sky grows dark, as the black cloud overhead lets loose with rolling thunder. Their enemy is approaching.","Небо потемнело, в черных облаках над головой рокотали громы, враги подступали всё ближе."
+line-567,维什戴尔,所有人按指挥做好准备。,"Everyone, commence preparations like you were ordered.",Всем приготовиться по команде.
+line-568,维什戴尔,做好自己的事。,Each of you just do your own job.,Делайте свою работу.
+line-569,维什戴尔,我不想看到任何傻子在这时候逞能——,I don't want to catch any idiots of you showing off—,"Не хочу видеть, как кто-то из вас проявляет излишнее рвение —"
+line-577,,“停下。”,'Halt.',«Стойте».
+line-582,维什戴尔,......,.....,…
+line-589,,“你们都不能再向前了。”,'You may not advance any further.',«Никто из вас не сделает ни шагу вперед».
+line-594,,只有很少一部分萨卡兹注意到了队伍里那个小小的卡特斯女孩。,Only a few Sarkaz have noticed the young Cautus girl within their ranks.,"Лишь немногие из Сарказов заметили маленькую девочку-курса, стоявшую в отряде."
+line-595,,她一路走到队伍的最前列。,She marches towards the head of the line.,"Она прошла вперед, к самой линии фронта."
+line-604,,然后，她挥动法杖，在身后画下一条线。黑色的线在大地上蔓延。,"Then, with a wave of her staff, the girl draws a line behind where she stands. The black line spreads across the earth.","Затем она взмахнула посохом, прочертив линию позади себя. Черная линия расползлась по земле."
+line-612,,接着，黑墙升起，横贯大地。,A black wall rises up where the line once was.,"После чего поднялась черная стена, рассекая землю."
+line-613,,黑色丝线织出的、无法逾越的高墙，将对峙的双方隔绝开来。,"An impregnable wall, woven of black silk threads, separates the two opposing forces.","Непреодолимая стена, сотканная из черных нитей, разделила противоборствующие стороны."
+line-614,,所有萨卡兹都不再能看到黑墙那头的卡特斯少女——,The Sarkaz can no longer see the Cautus girl on the other side of the wall.,Никто из Сарказов больше не мог видеть девочку-курса за этой стеной —
+line-623,,他们只能记得她头顶悬浮的黑冠。,But one thing remains imprinted in their memories—the black crown floating above her head.,"Они лишь видели черную корону, парящую над её головой."
+line-624,,魔王。,The King of Sarkaz.,Королева демонов.
+line-625,,他们的魔王没有抛弃他们？他们拥有了一位新的魔王？,Their king has not abandoned them? They have a new king?,Их королева их не бросила? У них новая королева демонов?
+line-626,,可为何是......异族的魔王？,But... why an outblood king?,Но почему… королева чужой крови?
+line-627,,卡特斯的声音同一时间在在场的所有萨卡兹心中响起，而前来阻拦萨卡兹的舰队也清楚地听到了黑墙下那位少女的话语——,"The new king's voice resonates in the minds of every Sarkaz present. Meanwhile, the fleet sent to block them clearly hears her words:","В тот же миг голос курса прозвучал в сердцах всех присутствующих Сарказов, а флот, пришедший перехватить их, тоже отчетливо услышал слова девочки под черной стеной —"
+line-628,阿米娅,萨卡兹将会回家。,The Sarkaz are going home.,Сарказы вернутся домой.
+line-629,阿米娅,如果必须使用暴力，我不会排斥......我清楚这顶黑色王冠的重量。,I will not rule out violence if necessary. I know full well the weight of this Black Crown.,"Если придется прибегнуть к насилию, я не буду противиться… я осознаю вес этой черной короны."
+line-630,阿米娅,特蕾西娅小姐已经带着众魂离开，萨卡兹第一次拥有了选择的余地。,"Theresa has already led the myriad souls away. For the first time, the Sarkaz have a choice.","Госпожа Терезия уже ушла вместе с душами, Сарказы впервые получили шанс на выбор."
+line-631,阿米娅,我不能容忍她的努力白费。,I will not let her efforts be in vain.,Я не позволю её усилиям пойти прахом.
+line-632,阿米娅,我也不想萨卡兹，或是你们再次掀起另一场战争。,"Nor do I want the Sarkaz, or any of you, to start another war.","И я не хочу, чтобы Сарказы или вы снова развязали войну."
+line-633,阿米娅,......仇恨的循环，该结束了。,The cycle of hatred and revenge must end.,…Круг ненависти должен быть разорван.
+line-634,,特蕾西娅在内化宇宙中教会了阿米娅关于黑王冠的一切后，阿米娅第一次毫无保留地展示了自己的身份。,This is the first time Amiya has openly revealed her identity since Theresa taught her all there was to know about the Black Crown inside the Assimilated Universe.,"После того, как Терезия открыла Амии всё о черной короне в интернализированной вселенной, Амия впервые без колебаний открыла свою сущность."
+line-635,,而她也在那一瞬间，听到了萨卡兹群体中嘈杂的声音。,Now she can hear noisy cries from amidst the Sarkaz.,И в тот же миг она услышала шум голосов Сарказов.
+line-638,,“这不可能......这不可能！”,'Impossible! It can't be!',«Это невозможно… это невозможно!»
+line-639,,“异族盗走了萨卡兹的王冠？凭什么？！”,'An outblood stole the Sarkaz's crown? How?! Why?!',«Чужак украла корону Сарказов? С чего это?!»
+line-640,,“她是我们的王？我该为她献上什么，她才会满意？”,'She is our king? Do I have to make a tribute? What does she want from us?',"«Она — наш король? Что мне принести ей в жертву, чтобы она осталась довольна?»"
+line-641,,“走吧，我们去下一个战场！”,'Let's go! It's onto the next battlefield!',"«Пошли, к следующему полю боя!»"
+line-644,,恐惧，质疑，崇敬，迷狂，无数情绪涌入阿米娅的脑海。,"Terror, suspicion, reverence, ecstasy. A wave of emotions floods Amiya's mind.","Страх, сомнения, почитание, экстаз — бесчисленные эмоции хлынули в сознание Амии."
+line-645,,以前，她也多次尝试探索那顶黑色王冠中储存的信息，但从未走得这么远。,"In the past, she has made several attempts to explore the information stored within the Black Crown, but she has never gone this far.","Раньше она не раз пыталась исследовать информацию, заложенную в короне, но никогда не заходила так далеко."
+line-646,,信息的浪潮几乎要将她卷走，千万年来，萨卡兹们急切地寻求着“魔王”，寻求着缥缈的愿景。,"The tide of information nearly overwhelms her. For millennia, the Sarkaz have desperately sought their 'King', chasing an elusive vision.","Волна информации чуть не смыла её; тысячелетиями Сарказы отчаянно искали «королеву демонов», искали призрачную мечту."
+line-647,,她竭力稳定思绪，维持着那堵不可撼动的黑墙。,She tries her best to steady her thoughts and maintain the unshakable black wall.,Она изо всех сил старалась унять мысли и удержать эту несокрушимую черную стену.
+line-648,阿米娅,我不是统治者，也不是萨卡兹的王。,"I am no ruler, nor am I the King of Sarkaz.",Я не правитель и не король Сарказов.
+line-649,阿米娅,即使萨卡兹会因此憎恨我，我亦接受。,"If the Sarkaz hate me for this, I will accept that.",Даже если Сарказы будут меня за это ненавидеть — я приму это.
+line-650,阿米娅,我会指引前路，直抵苦难的尽头。,"I will show them the way forward, the path to end their suffering.",Я укажу путь к концу всех страданий.
+line-651,阿米娅,都退下吧。,Both sides should stand down.,Отступите.
+line-652,阿米娅,不会有更多的战争了。,There won't be any more war.,Больше не будет войн.
+line-653,,黑墙依旧，天灾也盘旋于荒野之上。,"The black wall still stands, just as the Catastrophe swirls above the wilderness.","Стена осталась на месте, а облако бедствия всё ещё кружило над пустошью."
+line-654,,僵持许久之后，舰队中的第一艘军舰终于开始调转方向。,"After a long stalemate, the first battleship in the fleet begins to change direction.",После долгого затишья первый из кораблей флота начал разворачиваться.
+line-655,阿米娅,太好了，总算......,Great. Finally...,"Хорошо, наконец-то…"
+line-656,,纷繁的思绪突然退去，她听到一个异常清晰的声音——,"The wave of thoughts suddenly fade away, and she hears an unusually clear voice—","Смятение мыслей внезапно утихло, и она услышала удивительно ясный голос —"
+line-659,,“......你是谁？”,'...Who are you?',«…Кто ты такая?»
+line-672,教宗骑士,保持缄默。,Remain silent.,Сохраняйте молчание.
+line-673,教宗骑士,......这是教宗阁下的命令。,As His Holiness commanded.,…Это приказ Вашего Святейшества Папы.
+line-675,拉特兰特勤队成员,即使萨卡兹已在一座城市犯下累累罪行，即使圣城拉特兰从未受过如此挑衅与亵渎？,Even though the Sarkaz have committed countless crimes within our holy city? Even though Laterano has never before faced such provocation and desecration?,"Даже если Сарказы совершили ужасные преступления в городе, даже если святой город Латерано никогда не подвергался таким провокациям и святотатству?"
+line-676,拉特兰特勤队成员,哪怕他们的军队正堂而皇之地威胁到圣城周边居民的安全，我们都还不能作出反应吗？,"Even though their army is openly threatening the safety of our residents? Even then, we will not respond?","Даже если их армия открыто угрожает безопасности жителей вокруг святого города, мы всё ещё не можем ответить?"
+line-678,教宗骑士,是的。教宗阁下认为拉特兰不应干涉此事。,Yes. His Holiness believes that Laterano should not interfere in this matter.,"Да. Ваше Святейшество считает, что Латерано не должен вмешиваться в это дело."
+line-680,拉特兰特勤队成员,我希望见他——我要提出抗议！,I wish to see him. I'm going to file a protest!,Я хочу встретиться с ним — я хочу подать протест!
+line-682,教宗骑士,......我们不确定他现在在哪里。,...We are unsure where he is right now.,"…Мы не уверены, где он сейчас находится."
+line-693,伊万杰利斯塔十一世,光环刹那间的扰动，以及突然的信息洪流......,"The sudden disturbance of the halo, and the flood of information...",Мгновенное возмущение ореола и внезапный поток информации…
+line-694,伊万杰利斯塔十一世,它因为某种情况突然感知到了什么。,"For whatever reason, it suddenly became aware of something.",Оно почувствовало нечто из-за каких-то обстоятельств.
+line-695,伊万杰利斯塔十一世,“对话”。,'A conversation'.,«Диалог».
+line-696,伊万杰利斯塔十一世,它在......与某种和它相似的存在对话。,It is... having a conversation. With something similar to itself.,"Оно… разговаривает с чем-то, подобным ему самому."
+line-697,伊万杰利斯塔十一世,既然它已主动做出选择，恐怕我也应该效仿。它的预示，已非拉特兰一己之力所能承担。,"Since it has decided to make its choice, I am afraid I must follow suit. The new revelation it has showed us is something Laterano can no longer bear on its own.","Раз уж оно сделало свой выбор, боюсь, и мне стоит последовать этому примеру. Его предзнаменование уже не под силу нести Латерано в одиночку."
+line-698,伊万杰利斯塔十一世,让我想想......从第一个问题开始吧。,Let me think... let's start with the first question.,Дай подумать… начнем с первого вопроса.
+line-699,伊万杰利斯塔十一世,......你是谁？,...Who are you?,…Кто ты такая?
+line-708,,“我无法否认，教宗阁下。这是一段漫长的路途。”,"'I have to admit, Your Holiness, that this is a long road.'","«Я не могу отрицать, Ваше Святейшество. Это долгий путь»."
+line-709,,“即使没有困于源石中的众魂万年的呢喃，萨卡兹与这片大地也需要长久的时光来放下仇恨。”,"'Even without the whispers of the myriad souls trapped in Originium for millennia, it will still take a long time for the Sarkaz and this land to let go of their hatred.'","«Даже без шепота душ, томящихся в Ориджиниуме тысячи лет, Сарказам и этой земле потребуется немало времени, чтобы забыть ненависть»."
+line-710,,“那么，名叫阿米娅的孩子，如果我们并没有那么多时间呢？”,"'Well then, Amiya, my child, what if we do not have that much time?'","«Тогда, ребенок по имени Амия, что, если у нас нет столько времени?»"
+line-719,,“如果泰拉已不在它的童年期，而是已经到了无暇轻松谈论未来的时刻——”,'What if Terra is no longer in its infancy and has come to the point where it has to face its future—',"«Если Терра уже вышла из своего детского возраста и настало время, когда нет возможности спокойно обсуждать будущее —»"
+line-720,,“......特蕾西娅小姐警告过我这种可能。”,'Theresa warned me this might happen.',«…Госпожа Терезия предупреждала меня о такой возможности».
+line-729,,静止的虚空之中，有人踏了进来。,Someone walks into the static void.,В застывшей пустоте кто-то сделал шаг вперед.
+line-730,,他追随着另一个人的脚步，尽管那足迹已经永远地消失在这里。,"He is following someone else's footsteps, although their footprints have vanished from this place forever.","Он следовал по следам другого человека, хотя те уже навсегда исчезли отсюда."
+line-731,,塔仍在崩溃，暗示着刚刚发生的一切。,"The tower is still collapsing, a hint at everything that has transpired.","Башня всё еще рушилась, намекая на всё только что произошедшее."
+line-732,,哪怕时间在这里都毫无意义，他也必须忍受自己慢了一步的事实。,"Although time has no meaning here, he must admit that he's a step late.","Даже если время здесь не имело значения, он обязан был терпеть факт того, что опоздал на один шаг."
+line-733,,她已不在可被触及的任何地方。,She is already completely out of reach.,Её уже нигде нельзя было коснуться.
+line-734,,如今，他的眼中，只有金色的海洋，和天空中孤独的菱形。,Now all he can see is the golden ocean and the lonely diamond in the sky.,Теперь в его глазах был лишь золотой океан и одинокий ромб в небе.
+line-737,,“阿米娅，即使身为教宗，我也不知灾难会发生在何时何地。”,"'Amiya, not even I, the pope, know when or where the disaster will occur.'","«Амия, даже будучи Папой, я не знаю, когда и где произойдет катастрофа»."
+line-738,,“但我确信，那是我们从未面对过的危机——”,'But I am certain that it will be a crisis that we've never faced before—',"«Но я уверен, что это кризис, с которым мы никогда не сталкивались —»"
+line-739,,“它近在眼前。”,'It is right before our eyes.',«Он уже прямо перед нами».
