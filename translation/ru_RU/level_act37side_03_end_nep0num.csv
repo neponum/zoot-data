@@ -1,0 +1,203 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act37side
+__chapter__,,Chapter Name,activities/act37side/level_act37side_03_end,议会公决
+,,,,
+char-1,号角,号角,Horn,Хорн
+char-2,粗犷的议员,粗犷的议员,Rowdy MP,Грубый депутат
+char-3,维娜,维娜,Vina,Винья
+char-4,矜持的议员,矜持的议员,Reserved MP,Сдержанный депутат
+char-5,愤怒的议员,愤怒的议员,Angry MP,Разгневанный депутат
+char-6,席位上的声音,席位上的声音,MP,Голос с мест
+char-7,戴菲恩,戴菲恩,Delphine,Дельфина
+char-8,慌张的女士,慌张的女士,Frightened Woman,Встревоженная дама
+char-9,平静的佣兵,平静的佣兵,Calm Mercenary,Спокойный наемник
+char-10,黑暗中的人,黑暗中的人,Figure in the Darkness,Человек из тьмы
+char-11,通讯器内的声音,通讯器内的声音,Voice from Communicator,Голос в коммуникаторе
+char-12,声音颤抖的队员,声音颤抖的队员,Trembling Voice,Дрожащий боец
+char-13,“铣痕”,“铣痕”,Millscar,«Фрезерный след»
+char-14,微弱的广播声,微弱的广播声,Faint Radio Broadcast,Приглушенное радио
+char-15,车内的声音,车内的声音,Voice from the Car,Голос в машине
+,,,,
+line-12,,<p=1>西涅塞德大堂议会厅</><p=2>1098年12月15日 4:02 P.M.</>,"<p=1>The Sineselde, Parliamentary Chamber</><p=2>December 15th, 1098, 4:02 P.M.</>","<p=1>Зал заседаний Синеседского дворца</><p=2>15 декабря 1098 года, 16:02</>"
+line-19,号角,各位向城防军申请调阅的卷宗我都带过来了。,I brought the Defense Forces files that were requested.,"Я принесла все досье, которые вы запрашивали у гарнизона."
+line-20,号角,议长阁下，从城防军巡逻队组建以来，我们已经收到了不下两百起牵涉“铣痕”及其手下的求助案例。,"Madam Speaker, since the establishment of the patrols, we have received no fewer than two hundred requests for assistance involving Millscar and her followers.","Господин председатель, с момента формирования патрулей гарнизона мы получили не менее двухсот обращений, связанных с «Фрезерным следом» и его подручными."
+line-21,号角,“铣痕”他们涉嫌违反议会新修法律条款的罪行均有实证。,There is concrete evidence of their violation of Parliament's newly-enacted laws.,"Имеются неопровержимые доказательства того, что «Фрезерный след» и его люди нарушили новые законодательные акты, принятые советом."
+line-23,粗犷的议员,那还等什么？！这些人已经干扰到我们上工了，您直接给命令，把他们全掀了完事！,What are we waiting for? They're getting in the way of honest people doing honest work! Give the order! Put their heads on pikes outside the Sineselde!,"Чего же мы тогда ждем?! Эти люди уже мешают нам работать! Отдайте приказ, и мы разберемся с ними раз и навсегда!"
+line-25,维娜,我知道你们的情况，费斯特和洛洛已经找过我。,Feist and Rockrock have already reported the situation to me.,"Я в курсе вашей ситуации, Фейст и Лоло уже приходили ко мне."
+line-26,维娜,我也不想城区重建的进度被耽搁，但议会不是这么运作的。,"I want the rebuilding to progress smoothly as much as you do, but that's not how Parliament works.","Я тоже не хочу, чтобы реконструкция города затягивалась, но совет так не работает."
+line-30,维娜,......艾瑞莎子爵，您说。,"Go ahead, Viscount Elsa.","......Виконтесса Ареша, вам слово."
+line-32,矜持的议员,“铣痕”他们的行为的确有待裁定，但他们提供的药物的确暂时稳定了许多无药可用之人的情绪——,"Millscar's behavior is certainly questionable, but their medicine has at least provided consolation to those suffering from the current shortage, if nothing else—","Действия «Фрезерного следа» действительно требуют юридической оценки, но предоставляемые ими лекарства помогли стабилизировать состояние многих людей, лишенных доступа к медицине —"
+line-35,愤怒的议员,放屁！,Balderdash!,Чушь!
+line-36,愤怒的议员,他们放出来的是药，收回去的是命！,They're exacting payment in lives!,"Они дают им лекарства, но забирают их жизни!"
+line-38,号角,亚伦议员，坐回你的位置上，这里是议会！,"Sit <i>DOWN,</i> Lord Alan! You are in Parliament!","Депутат Аарон, вернитесь на свое место, это совет!"
+line-40,号角,艾瑞莎子爵，他们长期借助战时遗留的地下工事躲避搜捕。,"They are using underground facilities, relics from the war, to evade our pursuit, Viscount Elsa.","Виконтесса Ареша, они долгое время использовали подземные сооружения, оставшиеся с военных времен, чтобы скрываться от преследования."
+line-41,号角,除去他们刻意将据点分散之外，也有证据表明议会中一直有人在协助他们躲开追查。,"They've been decentralizing their operations, of course, but there is also evidence indicating that someone associated with Parliament is helping them.","Помимо того, что они намеренно рассредоточили свои базы, есть доказательства, что кто-то в совете помогал им избегать обнаружения."
+line-42,号角,这件事是否也需要一个解释？,"I believe we need an explanation for that, don't we?",Не требует ли этот факт объяснений?
+line-44,矜持的议员,斯卡曼德罗斯中尉是希望代表伦蒂尼姆城防军向我们申请协助调查吗？,"Are the Londinium Defense Forces requesting our assistance with the investigation, Lieutenant Skamandros?","Лейтенант Скамандрос, вы надеетесь, что гарнизон Лондиниума попросит нас о содействии в расследовании?"
+line-45,矜持的议员,我们当然非常支持尽快为市民们扫清“铣痕”带来的威胁。我可以联络开斯特公爵阁下，抽调人手赶到伦蒂尼姆——,"We are, of course, eager to help the citizens face the Millscar threat. I could contact Her Grace the Duke of Caster to arrange for personnel to be deployed to Londinium—","Мы, разумеется, всецело поддерживаем скорейшее устранение угрозы, которую представляет «Фрезерный след» для горожан. Я могу связаться с герцогом Кастером, чтобы мобилизовать людей и направить их в Лондиниум —"
+line-47,维娜,艾瑞莎子爵，既然开斯特终于愿意对议会施以援手，不妨也问问其他几位公爵阁下是否也愿意提供帮助？,"It is much reassuring to hear that Her Grace the Duke of Caster has, at long last, deigned to generously offer her valuable assistance to Parliament, Viscount Elsa. I am very curious to know if other dukes will do the same.","Виконтесса Ареша, раз уж Кастер наконец изъявил желание помочь совету, почему бы не поинтересоваться у остальных герцогов, готовы ли они тоже предложить свою помощь?"
+line-48,维娜,海克特男爵，吉地恩子爵，海曼医生，还有埃文学士，也劳烦各位“顺便”联系一下其他几位公爵，如何？,"Baron Hector, Viscount Gideon, Dr. Herman, and Academician Erwin... may I trust you to pass on the message to the other dukes should you, by chance, have the opportunity to communicate with them?","Барон Гектор, виконт Гидеон, доктор Хейман и ученый Эван, не могли бы вы «заодно» связаться с остальными герцогами?"
+line-53,,人群中几位低调的议员微微错愕之后，只能微笑着起身向维娜鞠躬。,"Startled, the members whose names are called, who have been keeping a low profile in the room, are left with little choice but to smile and bow to Vina.","Несколько сдержанных депутатов в толпе, слегка опешив, с улыбкой поднялись и поклонились Винье."
+line-54,,没有肯定，也没有否定。但议会厅中的争执却消失了，就好像刚才的争吵从来没有发生过。,"There is no affirmation or denial, but the argument in the chamber has evaporated, as though it never existed to begin with.","Ни подтверждения, ни отрицания. Но споры в зале утихли, словно их и не было вовсе."
+line-56,维娜,“铣痕”的问题，议会将挑选议员组成特别临时法庭即刻处理。当然，我们承认“铣痕”为自己辩护的权利。,"A special provisional court will be convened of the Members of Parliament to deal with the Millscar issue. Millscar will, of course, be granted the opportunity to present her defense.","Вопрос о «Фрезерном следе» будет немедленно рассмотрен специальным временным трибуналом из числа депутатов. Разумеется, мы признаем право «Фрезерного следа» на защиту."
+line-59,,席位间窃窃私语，但无人反对。,"There is whispering amongst the seats, but no objections.","По залу пронесся шепот, но никто не возразил."
+line-60,席位上的声音,说是审判......她怎么会愿意公然出现在这里？,"Will she show up for the trial, though?","Говорят, это суд... почему она вообще согласилась открыто здесь появиться?"
+line-62,维娜,如果她不出现，则将被视作放弃辩护的机会。临时法庭会做出公正的裁定。,"If she does not appear, she will forfeit her right to a defense, and the court shall pass judgment in a fair and just manner.","Если она не явится, это будет расценено как отказ от права на защиту. Временный трибунал вынесет справедливое решение."
+line-64,维娜,另外，号角小姐，麻烦通知城防军巡逻队全城搜捕“铣痕”，带她来议会厅。,"Horn, kindly instruct patrols to take Millscar into custody and bring her to the Parliamentary Chamber.","Кроме того, мисс Хорн, прошу оповестить патрули гарнизона о поиске «Фрезерного следа» по всему городу и доставить её в зал совета."
+line-65,维娜,在议会今天的工作时间内......,Prior to Parliament's recess today...,В рамках сегодняшних рабочих часов совета...
+line-67,维娜,她还剩下两个小时，我会在这里等她。,She has two hours. I will wait for her here.,"У неё осталось два часа, я буду ждать её здесь."
+line-79,戴菲恩,维娜，你可以先回办公室休息一会儿，你的状态看上去并不好。,"You should wait in the office, get some rest. You don't look so well.","Винья, может, вернешься в офис и отдохнешь немного? Ты выглядишь неважно."
+line-80,戴菲恩,她如果来了，我会通知——,I'll let you know if she comes—,"Если она появится, я сообщу —"
+line-82,维娜,我说了我会在这等！,"I said, I'll wait here!","Я сказала, что буду ждать здесь!"
+line-84,戴菲恩,......好。,Right then.,......Хорошо.
+line-86,维娜,抱歉，我只是......我只是，有点——,Sorry. I'm just—,"Прости, я просто...... я просто немного —"
+line-88,戴菲恩,我知道。,I know.,Я знаю.
+line-90,维娜,我真不明白，明明我们有更要紧的事情需要去做——需要治疗的感染者，缺少的物资，城市的重建，秩序的恢复......,"I don't understand. There are so many things that are much more urgent—Infected in need of treatment, shortage of supplies, rebuilding the city, restoring order...","Я правда не понимаю, у нас есть дела поважнее — нуждающиеся в лечении зараженные, нехватка ресурсов, восстановление города, восстановление порядка..."
+line-91,维娜,每天都有数不清的重要事项涌到我的办公桌上需要确认。,My desk is constantly covered in important matters that require my attention.,"Каждый день на мой стол ложатся бесконечные важные вопросы, требующие решения."
+line-93,维娜,但他们却更愿意花上一整天来争吵一件没有异议的事——,But they would rather spend an entire day bickering over something that they don't even disagree about—,"А они предпочитают тратить целый день на споры об одном вопросе, по которому и так нет разногласий —"
+line-95,维娜,唉......,*sigh*...,Ох...
+line-96,维娜,是我做得还不够好。,I'm not doing a good enough job.,"Значит, я делаю недостаточно."
+line-98,戴菲恩,维娜，我记得我向你承诺过，只要让我的人还有城防军全力搜捕她，她没有任何逃脱的机会。但当时你拒绝了。,"I remember that I promised you she would not get away, if you give my people and the Defense Forces free rein to search for her.","Винья, я помню, что обещала тебе: если позволишь мне и гарнизону начать полноценный розыск, у неё не будет шанса скрыться. Но тогда ты отказалась."
+line-100,维娜,我们的人手并不充裕。用这种方式去解决问题，就必须无视掉城内其他更需要解决的问题——,"We're short-handed. Trying to solve the problem this way means ignoring other, more urgent problems in the city—","У нас не хватает людей. Чтобы решить проблему таким способом, пришлось бы проигнорировать другие, более важные проблемы в городе —"
+line-102,戴菲恩,那为什么你现在又反倒会觉得自己做得还不够好？,Then why do you think you're not doing a good enough job?,"Тогда почему ты сейчас винишь себя в том, что делаешь недостаточно?"
+line-103,戴菲恩,不要试图把一整座移动城市背在背上移动，它靠的是下面的履带。,Don't try to carry a nomadic city on your back. That's what the tracks underneath it are for.,"Не пытайся нести на плечах целый передвижной город, он держится на гусеницах."
+line-104,戴菲恩,你也没有义务去成为那些人口中最完美的领袖，那个理所应当该解决一切问题的人。,"You don't have to become the perfect leader that they talk about, for whom solving every single problem is taken for granted.","Ты не обязана быть идеальным лидером, о котором твердят все вокруг, тем самым человеком, что должен решить абсолютно всё."
+line-106,戴菲恩,况且......“铣痕”、示威、药物短缺，最近的种种事背后，都不乏公爵的影子。,"Besides... from Millscar to the protests to the medicine shortage, the shadow of the dukes loom large over all these recent affairs.","К тому же... «Фрезерный след», демонстрации, нехватка лекарств — за всем этим стоят герцоги."
+line-108,维娜,我知道“铣痕”这件事一定有开斯特的推动，但总归需要有个结果。“铣痕”......已经越线了。,"There is no doubt that Caster is behind the Millscar matter, but something has to give. Millscar has gone too far.","Я знаю, что за делом «Фрезерного следа» стоит Кастер, но это должно чем-то закончиться. «Фрезерный след»...... она перешла черту."
+line-110,戴菲恩,不过我们的确很难抓到她，按因陀罗和达格达的说法，她还和一个奇怪的血魔有牵连。,"Catching her is no easy task, though. Indra and Dagda say she has associated with a strange Vampire.","Однако поймать её действительно трудно. По словам Индры и Дагды, она замешана в делах со странным сангвинарком."
+line-112,维娜,戴菲恩......如果她没来——,Delphine... if she doesn't show—,Дельфина...... если она не придет —
+line-114,戴菲恩,你希望她来吗，维娜？,"Do you want her to, Vina?","А ты хочешь, чтобы она пришла, Винья?"
+line-124,,<p=1>“铣痕”的藏身处</><p=2>1098年12月15日 5:17 P.M. </>,"<p=1>Millscar Hideout</><p=2>December 15th, 1098, 5:17 P.M.</>","<p=1>Убежище «Фрезерного следа»</><p=2>15 декабря 1098 года, 17:17</>"
+line-129,慌张的女士,为什么还要蒙上我的眼睛......我丈夫的账我已经还清了不是吗？,Wh-Why are you blindfolding me? I've paid my husband's bill!,"Почему вы снова завязываете мне глаза... Я же выплатила долг мужа, разве нет?"
+line-131,平静的佣兵,的确，女士，您是讲信用的人。,"Yes, ma'am, you're an honest woman.","Верно, госпожа, вы человек слова."
+line-132,平静的佣兵,米基·罗宾森的账您的确还清了。对了，老大让我向您表达她的遗憾。您丈夫生前的确为这座城市做出了无可替代的贡献。,You have paid the bill of Mickey Robinson. The boss sends her condolences. Your husband made many contributions to the city.,"Долг Мики Робинсона вы действительно погасили. Кстати, босс просила передать вам свои соболезнования. Ваш муж при жизни действительно внес неоценимый вклад в этот город."
+line-134,慌张的女士,......那我，可以走了吗？,C-Can I go now?,"......Тогда, я могу идти?"
+line-136,平静的佣兵,当然，只要您再还清您欠下的债务就好了。,"Of course. Once you've paid your other debt, that is.","Разумеется, как только вы погасите оставшийся долг."
+line-137,平静的佣兵,两份合同。一份是您丈夫签的，也就是您还清的那份。另一份，不是您替您丈夫签的吗？,"Two contracts. One, signed by your husband, the one you just paid. Another, signed by you on behalf of your husband.","Два контракта. Один подписал ваш муж, тот, что вы уже закрыли. А второй — разве не вы подписывали его за него?"
+line-140,慌张的女士,可他都不在了！,But he's gone!,Но ведь его уже нет в живых!
+line-142,平静的佣兵,人的确不在了，但是药不是还在吗？您收下吧，就在这。现在我们是不是可以聊聊您的账单了？,"He's gone, but the medicine isn't. Here, do take it. Now, let's talk about your bill...","Человека нет, но лекарства-то остались? Возьмите, они здесь. Теперь можем обсудить ваш счет?"
+line-143,平静的佣兵,当然，我们接受赊——,"We accept credit, of course—","Разумеется, мы принимаем в долг —"
+line-146,黑暗中的人,我们不接受赊账。,We don't.,Мы не принимаем в долг.
+line-148,平静的佣兵,呃，老大，什么时候改了？,"Oh, boss. Er... Since when we don't—","Э-э, босс, а когда это изменилось?"
+line-151,黑暗中的人,刚刚。送她去“休息”吧。,Just now. Take her to 'get some rest'.,Только что. Отправьте её «отдохнуть».
+line-153,平静的佣兵,......好。那之后呢？,Alright. And then?,......Хорошо. А потом?
+line-156,黑暗中的人,送她去西涅塞德大堂。那些议员们不是在等我吗？,"Send her to the Sineselde. The honorable MPs are waiting for me, aren't they?",Отправьте её в зал Синесед. Разве депутаты не ждут меня?
+line-168,,<p=1>西涅塞德大堂议会厅</><p=2>1098年12月15日 5:58 P.M.</>,"<p=1>The Sineselde, Parliamentary Chamber</><p=2>December 15th, 1098, 5:58 P.M.</>","<p=1>Зал заседаний Синеседского дворца</><p=2>15 декабря 1098 года, 17:58</>"
+line-173,戴菲恩,都让开，不要影响医生抢救！,Out of the way! Let the doctors work!,"Все назад, не мешайте врачам спасать её!"
+line-175,戴菲恩,维娜，查清楚了，被人送到议会来的是劳伦斯女士，出身诺伯特区。,"We've identified the victim, Vina. One Mrs. Lawrence, of Norport.","Винья, я выяснила, в совет доставили госпожу Лоуренс, она из района Норберт."
+line-177,维娜,有生命危险吗？,Are the injures life-threatening?,Угроза жизни есть?
+line-179,戴菲恩,没有下死手。伤口都避开了重要器官，但是也失血过多。动手的是......“铣痕”的人。,"No, the vital organs were unharmed. She's just lost a lot of blood. Millscar's people did it.","Убивать не собирались. Раны нанесены так, чтобы избежать жизненно важных органов, но потеря крови большая. Это дело рук людей...... «Фрезерного следа»."
+line-180,戴菲恩,不过还是有一些消息传开了，影响很不好。,"But rumors are beginning to spread, and that's not a good thing.","Тем не менее, информация просочилась, последствия будут тяжелыми."
+line-182,戴菲恩,她的丈夫，米基·罗宾森刚刚因为矿石病急性发作且没有得到有效的药物治疗去世了——,"Her husband, Mickey Robinson, recently passed away from acute Oripathy after being unable to get proper treatment.","Её муж, Мики Робинсон, только что скончался из-за острого приступа орипатии при отсутствии эффективного лечения —"
+line-184,维娜,他还是典范军的成员，跟着我们一起回家的。,He was one of the Exemplars who came home with us.,"Он тоже был членом Армии образцовых солдат, возвращался вместе с нами."
+line-185,维娜,这就是她的回应。,This is her answer.,Вот каков её ответ.
+line-187,维娜,戴菲恩，保护劳伦斯女士去城防军的医疗营地。,"Escort Mrs. Lawrence to the Defense Forces medical camp, Delphine.","Дельфина, проследи, чтобы госпожу Лоуренс доставили в медицинский лагерь гарнизона."
+line-189,戴菲恩,你呢？,What about you?,А ты?
+line-191,维娜,......还有两分钟。,...Two more minutes.,......Осталось еще две минуты.
+line-192,维娜,我会兑现临时法庭的承诺，还有我的......承诺。,I will keep the word of the provisional court... and my own.,"Я сдержу обещание, данное временному трибуналу, и свое...... обещание."
+line-206,,几位热心的议员在戴菲恩的示意下挤了上来，小心稳妥地保护着昏迷的女士离开议会厅。她的血染红了议会刚刚换过不久的地毯。,"At Delphine's behest, several MPs carefully carry the unconscious woman out of the Parliamentary Chamber. The carpet on the floor, which has only recently been replaced, is soaked in her blood.","Несколько неравнодушных депутатов по знаку Дельфины пробрались вперед, осторожно и бережно защищая бессознательную даму, пока её выносили из зала. Её кровь окрасила ковер, который в совете поменяли совсем недавно."
+line-207,,而两个月以前，当这里还是冲突区时，在此流干了鲜血的，是萨卡兹。,It was the Sarkaz who had bled here two months ago.,"А два месяца назад, когда здесь была зона конфликта, на этом же месте истекали кровью Сарказы."
+line-216,,议会厅中再次恢复了秩序。,There is order on the floor again.,Порядок в зале заседаний был восстановлен.
+line-217,,最后一分钟。无人出现。只有两片黑色的羽毛，似乎凝视着维娜。,"One more minute. There is no one, except two black feathers that seem to be staring at Vina.","Последняя минута. Никто не появился. Лишь два черных пера, словно пристально смотревшие на Винью."
+line-218,,它们是从那位昏迷的女士身上落下的，可随着护送女士前往医疗营地的人群走过，它们再次被卷向了空中，轻盈地摇摆着。,"They fell from the unconscious woman. As the group carrying her walked past, they were swept up into the air, only to slowly drift down.","Они упали с той бессознательной женщины, но когда толпа, сопровождавшая её, прошла мимо, они снова взмыли в воздух, легко покачиваясь."
+line-219,,那本该是她站着的位置。,That is the place where she should have stood.,Там должно было быть её место.
+line-223,,时钟的指针指向了六点整。,The clock strikes six.,Стрелка часов указала ровно на шесть.
+line-228,维娜,......,......,......
+line-229,维娜,各位议员，时间到了。“铣痕”既然放弃了为自己辩护的权利，那就依照法律处理。,"It is time. Esteemed members of Parliament, as Millscar has forfeited her right to a defense—","Господа депутаты, время вышло. Раз «Фрезерный след» отказалась от своего права на защиту, поступим согласно закону."
+line-230,维娜,我以伦蒂尼姆议会现任议长，维娜·维多利亚的身份代表议会颁布特别通缉令——,"In accordance with the law, I, Vina Victoria, Speaker of the Parliament of Londinium, pronounce—","Я, Винья Виктория, как действующий председатель совета Лондиниума, от имени совета издаю особый ордер на арест —"
+line-231,维娜,通缉“铣痕”，生死不论，并组织城防军巡逻队全力清剿“铣痕”相关人员。,"A special warrant is hereby issued for the arrest of Millscar, dead or alive. Defense Forces patrols are to apprehend Millscar personnel by any means necessary.","Объявить «Фрезерный след» в розыск, живой или мертвой, и мобилизовать патрули гарнизона для полной зачистки лиц, связанных с ней."
+line-232,维娜,此命令即刻生效。,Effective... immediately.,Приказ вступает в силу немедленно.
+line-235,维娜,另，请发布全城通知，议会将加快履行已公开的有关城市安全的法案。,"Also, issue a city-wide announcement that Parliament will accelerate the enactment of the City Safety Act.","Кроме того, прошу опубликовать городское уведомление: совет ускорит исполнение обнародованных законопроектов, касающихся безопасности города."
+line-236,维娜,我代表议会向所有伦蒂尼姆市民承诺，新的警察系统将在一个月内完成最后的重组，届时伦蒂尼姆将全面解除宵禁。,"On behalf of Parliament, I vow to the citizens of Londinium that the curfew will be fully lifted within a month, when the reorganization of the police forces is complete.","Я от лица совета обещаю всем жителям Лондиниума, что новая система полиции завершит реорганизацию в течение месяца, после чего в городе будет полностью снят комендантский час."
+line-237,维娜,而临时法庭将在两个月内完成人员变动和聘用，并正式更名为伦蒂尼姆城市法庭。,"The provisional court will complete the necessary personnel movement and additions within two months, at which point it will be renamed the Londinium City Court.",А временный трибунал завершит кадровые перестановки и наем сотрудников в течение двух месяцев и будет официально переименован в Городской суд Лондиниума.
+line-238,维娜,法庭将持续配合审理自战争结束以来，所有涉及威胁市民安全的积压案件。,The court will continue to process backloaded cases concerning public safety following the conclusion of the war.,"Суд будет продолжать содействовать рассмотрению всех дел, связанных с угрозой безопасности горожан, накопившихся со времен окончания войны."
+line-239,维娜,我和议会将确保每一个人都得到公正的对待——,Parliament and I will ensure that everyone is treated in a fair and just manner—,Я и совет обеспечим справедливое отношение к каждому —
+line-240,维娜,无论他们是否曾因任何原因而受到优待——,"Regardless of any privileges that one may have enjoyed, for whatever reason—","Независимо от того, пользовались ли они когда-либо какими-либо привилегиями —"
+line-241,维娜,法律都将一视同仁。,All shall stand equal before the law.,Закон будет един для всех.
+line-252,,维娜，你希望成为一个什么样的领袖？,"What kind of leader do you want to be, Vina?","Винья, каким лидером ты хочешь стать?"
+line-256,维娜,......我，不知道，博士。,"I... I don't know, Doctor.","......Я не знаю, Доктор."
+line-257,维娜,呃，但至少得知道什么是对，什么是错吧？,"But I should at least know what is right and what is wrong, no?","Э-э, но ведь нужно хотя бы отличать правильное от неправильного?"
+line-260,,可有时，对错只在于立场。,"Sometimes, right and wrong depend entirely on where you stand.",Иногда разница между ними заключается лишь в позиции.
+line-263,维娜,......那我应该怎么做？,Then what should I do?,......Тогда что мне делать?
+line-266,,接受那些憎恶你的人，他们会警醒你。;坚守你所笃信的正确信念，它们会陪伴你战胜孤独。,"Accept those who despise you, for they keep you vigilant.;Stay true to what you believe in, to help you triumph over solitude.","Прими тех, кто тебя ненавидит — они будут держать тебя в тонусе. Твердо придерживайся убеждений, в правоте которых ты уверена, — они помогут тебе преодолеть одиночество."
+line-268,,这也是我从一位刚刚离开的朋友身上学到的。,I learned that from a friend who recently left us.,"Этому я научился у друга, который только что покинул нас."
+line-271,维娜,......,......,......
+line-285,通讯器内的声音,这里是风笛，T-11、T-32区清剿任务完成，但没有找到“铣痕”。,Bagpipe reporting in. Sweep complete in T-11 and T-32. No sign of Millscar.,"На связи Флейт, зачистка секторов Т-11 и Т-32 завершена, но «Фрезерный след» не найдена."
+line-286,通讯器内的声音,你们的情况如何？,How's things over there?,Какова ситуация у вас?
+line-287,通讯器内的声音,队长，C-11和C-20任务顺利，但也没找到“铣痕”。,"No sign of Millscar in C-11 and C-20, ma'am.","Капитан, задание в С-11 и С-20 выполнено успешно, но «Фрезерный след» не найдена."
+line-288,通讯器内的声音,L-10区的情况呢？为什么不汇报？,What about L-10? No reports yet?,Что с сектором L-10? Почему нет отчета?
+line-289,通讯器内的声音,蒙诺，你那边遇到什么情况了吗？,Reynold? Is there a situation?,"Моно, у тебя возникли проблемы?"
+line-291,声音颤抖的队员,队长，我，我在！,I-I'm here!,"Капитан, я, я здесь!"
+line-292,声音颤抖的队员,我们小队刚刚搜查完L-10，这里什么人都没有——,Th-There's nobody here in L-10—,"Наш отряд только что закончил обыск в L-10, здесь никого нет —"
+line-297,,他看了看自己眼前的那柄紫色锋刃，乞求地望着“铣痕”。,"His gaze alternates between the purple blade before him and Millscar, imploring for mercy.","Он посмотрел на фиолетовое лезвие перед собой, с мольбой глядя на «Фрезерный след»."
+line-299,“铣痕”,（点点头）,(Nods),(кивает)
+line-303,声音颤抖的队员,队长，我，我现在就准备归队。,I-I'm coming back now.,"Капитан, я, я уже готов вернуться в строй."
+line-305,通讯器内的声音,蒙诺，那有找到什么有用的线索吗？,Did you find anything useful?,"Моно, удалось найти какие-нибудь полезные улики?"
+line-307,声音颤抖的队员,没有，什么也没有！,N-No! Nothing at all!,"Нет, ничего, совсем ничего!"
+line-310,,他缓缓地后撤着，那柄紫色的锋刃也慢慢放下了。,The purple blade is lowered. He slowly backs off.,"Он медленно отступил, и фиолетовое лезвие тоже постепенно опустилось."
+line-312,“铣痕”,......,......,......
+line-315,通讯器内的声音,好，那就归队，在通知的地方集合。,Alright. Meet up at the rendezvous point.,"Хорошо, возвращайся, сбор в условленном месте."
+line-317,声音颤抖的队员,我，我马上就到。,B-Be there in a minute.,"Я, я буду скоро."
+line-323,“铣痕”,通讯器留下。,Leave the communicator.,Коммуникатор оставь.
+line-325,声音颤抖的队员,......好。,O-Okay.,......Хорошо.
+line-332,,他死死盯着阴影中的“铣痕”，确认她没有准备对自己动手后，才放下通讯器转身逃走。,"He keeps his eyes on Millscar in the shadows. Once he is sure that she is not going to kill him, he drops the communicator, and flees for his life.","Он пристально смотрел на «Фрезерный след» в тени, убедившись, что она не собирается на него нападать, лишь после этого он отложил устройство и бросился наутек."
+line-342,,<p=1>伦蒂尼姆卡文迪许街</><p=2>1098年12月15日 9:58 P.M.</>,"<p=1>Cavendish Street, Londinium</><p=2>December 15th, 1098, 9:58 P.M.</>","<p=1>Лондиниум, Кавендиш-стрит</><p=2>15 декабря 1098 года, 21:58</>"
+line-347,“铣痕”,真安静啊......,So quiet...,Какая тишина...
+line-348,“铣痕”,我还是更喜欢地下，至少那里的声音不会让我觉得——,I prefer the underground. At least the sound there doesn't make me feel—,"Все же в подземельях мне нравилось больше, по крайней мере, звуки там не заставляют меня чувствовать —"
+line-350,“铣痕”,呵。,Aha.,Ха.
+line-353,,战后议会尚未解除宵禁，他们试图保护市民......从她这样的人手中。,Parliament has yet to lift the post-war curfew. They are trying to protect the people... from people like her.,"После войны совет еще не отменил комендантский час, они пытаются защитить горожан... от таких, как она."
+line-354,,她刚刚得到的通讯器内还在不断传出巡逻队的最新消息。,The communicator that she just obtained continues to supply the latest news about the patrols.,"Из коммуникатора, который она только что получила, продолжали доноситься последние новости патрулей."
+line-358,,“铣痕”慢慢走过临街的店铺，闪着微亮灯光的店铺内传出了广播声，她不由停了下来。,"Millscar strolls past the shops by the roadside. She hears the faint sound of radio from one of them, and stops before the dimly-lit storefront.","«Фрезерный след» медленно шла мимо магазинов, из освещенных витрин доносились звуки радио, и она невольно остановилась."
+line-364,微弱的广播声,——议长阁下承诺在城市治安保障系统恢复后将分区块解除宵禁政策，汉斯先生您怎么看？,"What do you think about Madam Speaker's announcement that the curfew will be lifted in stages as law and order are restored, Hans?","— Господин председатель пообещала, что после восстановления системы охраны правопорядка комендантский час будет отменен по секторам. Что скажете, господин Ганс?"
+line-365,微弱的广播声,主持人，我觉得以目前的进度，完全重建警察系统和法庭并解除宵禁就是骗人的笑话。该谁来抓人，又该谁来审人？,"Considering the current pace at which the police and courts are being reorganized? A joke, if you ask me. Who's arresting whom, and who's judging whom?","Ведущий, я думаю, что при нынешнем темпе полное восстановление полиции и суда с отменой комендантского часа — просто пустая болтовня. Кому ловить людей и кому судить?"
+line-366,微弱的广播声,汉斯先生，您不相信议会？这两个月来，议会对那些残余魔族佬的扫荡可是让许多市民都安心不少。,"You don't trust Parliament? Many citizens sleep sounder in their beds, knowing that Parliament has been hard at work rooting out the remaining devils over the past two months.","Господин Ганс, вы не доверяете совету? За два месяца зачистка остатков магических существ советом принесла многим жителям немалое спокойствие."
+line-367,微弱的广播声,而今天对地下势力的全城突击扫荡更是效果显著啊，几乎又解决了一个长期威胁市民安全的隐患。,"Today's sweep of underground insurgents has been particularly effective, eliminating another long-term threat to public safety.","А сегодняшняя масштабная зачистка подпольных группировок принесла блестящие результаты, практически устранив еще одну давнюю угрозу безопасности горожан."
+line-368,微弱的广播声,您看，仅三个小时，我们就收到了数百份市民来信，希望对议会表达感谢，尤其是对那位身份特殊的议长阁下。,"In the span of three hours, we have received thousands of messages from citizens expressing their gratitude to Parliament, in particular to our honorable—dare I say, majestic, even—Madam Speaker.","Посмотрите, всего за три часа мы получили сотни писем от жителей с благодарностью совету, особенно той самой госпоже председателю с особым статусом."
+line-369,微弱的广播声,主持人，我没法否认议长阁下是一位雷厉风行的实干领袖，但我们还能继续期待他们这类人多久？,"I do not deny that she has been a decisive leader, up till now. How long do you think she can keep it up, though?","Ведущий, я не могу отрицать, что госпожа председатель — решительный лидер, но долго ли мы сможем ожидать чего-то от таких людей?"
+line-370,微弱的广播声,我打赌，不出几个月，她就会变得和那些满嘴瞎话的老爷们没区别——,"I bet you ten pounds that in three months, you wouldn't be able to tell her from those fat, filthy, lying nobles—","Держу пари, через несколько месяцев она ничем не будет отличаться от тех болтунов-господ —"
+line-375,“铣痕”,哼。,Hmph.,Хм.
+line-380,,她看到一辆华丽的载具稳稳地停在自己身边。门开了，只有一位司机......和一套熟悉的衣服。,A lavish car stops next to her. The door opens. There is only the driver... and a set of familiar clothing.,"Она увидела роскошную машину, плавно остановившуюся рядом с ней. Дверь открылась, внутри был только водитель... и комплект знакомой одежды."
+line-381,,她认得上面的标记——“坎伯兰家族”。,She recognizes the emblem of House Cumberland.,Она узнала знак на ней — «Дом Камберлендов».
+line-382,车内的声音,你还活着。公爵阁下已经认可你还有更多的价值。,You're alive. Her Grace the Duke is willing to recognize your value.,"Ты все еще жива. Герцогиня признала, что ты представляешь большую ценность."
+line-383,车内的声音,她决定给你回来的机会。,She is giving you a chance to come back.,Она решила дать тебе шанс вернуться.
+line-385,“铣痕”,......,......,......
+line-387,“铣痕”,告诉她，坎伯兰死了。,Tell her that Cumberland has died.,"Скажи ей, Камберленд умер."
+line-388,“铣痕”,一个死人，是不会怕再死一次的。,And one who has already died once is not afraid to die again.,Мертвец не боится умереть еще раз.
+line-391,车内的声音,......,......,......
+line-398,,车门关上了。载具缓缓远去，消失在街道的尽头。,"The door closes, and the car leaves, disappearing at the end of the street.",Дверь захлопнулась. Машина медленно удалилась и исчезла в конце улицы.
+line-400,“铣痕”,*维多利亚粗口*......这下想杀我的人，可能不止你了，维娜。,"Bloody hell... looks like it's not just you who want to kill me, Vina.","*Викторианское ругательство*...... теперь убить меня хотят, возможно, не только вы, Винья."
+line-402,“铣痕”,你最好能赶在别人前面......,You'd better hurry...,"Тебе лучше поспешить, чтобы опередить остальных..."
+line-408,,她默默地走在街边的阴影里，然后彻底消失在夜幕里。,"She walks silently in the shadows by the side of the street, disappearing into the night.","Она молча пошла по тени на обочине улицы, а затем окончательно растворилась в ночи."
+line-409,“铣痕”,不过，至少有更多的人会相信，你能给他们现在最宝贵的东西——安全。,"At least there will be more people who believe that you can give them that most precious, most valuable of things right now—safety.","Впрочем, по крайней мере, больше людей поверят, что ты можешь дать им самое дорогое сейчас — безопасность."
+line-410,“铣痕”,亚历山德莉娜，希望你喜欢我留给你的最后的礼物......,"I hope you like my final gift to you, Alexandrina...","Александрина, надеюсь, тебе понравится мой последний подарок, который я оставила тебе..."
+line-411,“铣痕”,以后，我就什么都不欠你的了。,"After this, we're even.",Теперь я больше ничего тебе не должна.
+line-424,,<i>在我们对食腐者位于圣王会西部大堂区域的阵地发起进攻前，大伙的士气都无比高涨。但对城里的人来说，却不是这样。</i>,<i>Morale was high before our attack on the Nachzehrer position at the Palace of Westhaleg. Couldn't say the same about the people in the city though.</i>,"<i>Перед тем как мы начали наступление на позиции Пожирателей в западном зале Священного собрания, дух наших людей был на подъеме. Но для жителей города всё обстояло иначе.</i>"
+line-425,,\n<i>他们在那些萨卡兹的统治下生活了太长时间，甚至几乎快要忘了，他们还拥有反抗的可能。所以我和达格达说服还有战斗能力的市民们加入我们队伍的效果并不好......</i>,\n<i>They had lived for so long under Sarkaz rule that they could hardly even conceive of resistance. Dagda and I found it difficult to persuade able-bodied citizens to join us...</i>,"<i>Они слишком долго жили под властью Сарказов и почти забыли, что у них есть возможность сопротивляться. Поэтому наши с Дагдой попытки убедить граждан, способных держать оружие, вступить в наши ряды, не увенчались успехом...</i>"
+line-426,,\n<i>直到维娜的出现扭转了情况。</i>,\n<i>Until Vina showed up.</i>,<i>Ситуация изменилась только с появлением Виньи.</i>
+line-429,,<i>但她穿着一套我从未想过会出现在她身上的衣服......王室的衣服。她没有说是谁留给她的，但是我们都能猜到——</i>,"<i>She was wearing an outfit I never thought I would see her in... an outfit for a king. She never said who gave it to her, but we could all guess the answer.</i>","<i>Но на ней было одеяние, которого я никогда не ожидал на ней увидеть... королевское одеяние. Она не сказала, кто ей его оставил, но мы все могли догадаться —</i>"
+line-430,,\n<i>是阿勒黛。</i>,\n<i>Allerdale.</i>,<i>Это была Алдей.</i>
+line-433,,<i>我在惊讶之余，看到了达格达，她明显在强忍着颤抖。</i>,"<i>I was dumbfounded. I looked at Dagda, and saw her fighting to contain her trembling.</i>","<i>Помимо удивления, я заметил Дагду, она явно пыталась сдержать дрожь.</i>"
+line-434,,\n<i>我看着人群近乎狂热地在大街小巷间穿梭，越来越多的人拥了过来，加入了我们。</i>,"\n<i>I saw the frenzied crowd rush through streets and alleys, scrambling over one another to join us.</i>","<i>Я смотрел, как толпа почти фанатично мечется по улицам и переулкам, людей становилось все больше, они присоединялись к нам.</i>"
+line-435,,\n<i>维娜被他们簇拥着，离我越来越远。</i>,"\n<i>They carried Vina, further and further away from me.</i>","<i>Винья была окружена ими, удаляясь от меня все дальше.</i>"
+line-438,,<i>“亚历山德莉娜殿下回来了，她将带领她的子民驱逐萨卡兹，夺回家园！”</i>,<i>'Her Royal Highness Alexandrina has returned! She'll lead her people to drive out the Sarkaz and take back our home!</i>,"<i>«Её Высочество Александрина вернулась, она поведет свой народ на изгнание Сарказов и вернет наши дома!»</i>"
+line-445,,<p=1>伦蒂尼姆卡文迪许街</><p=2>1098年9月30日 9:22 P.M.</>,"<p=1>Cavendish Street, Londinium</><p=2>September 30th, 1098, 9:22 P.M.</>","<p=1>Лондиниум, Кавендиш-стрит</><p=2>30 сентября 1098 года, 21:22</>"
+line-450,戴菲恩,......我本以为你会拒绝我的这个提议。,I thought you would reject my proposal.,"......Я думала, ты отклонишь это предложение."
+line-455,维娜,现在最重要的，是赢下最后这场仗。我分得清孰轻孰重。,The important thing is to win this final battle. Everything else is secondary.,Сейчас главное — выиграть эту последнюю битву. Я умею отличать главное от второстепенного.
+line-457,戴菲恩,所以，那位坎伯兰公爵的孩子的确还活着？,The scion of Cumberland yet lives?,"Значит, ребенок того герцога Камберленда действительно жив?"
+line-459,维娜,我希望如此。不管发生什么，我都认为她值得拥有从头再来的机会。,"I hope so. She deserves a second chance, no matter what.","Надеюсь на это. Что бы ни случилось, я считаю, что она заслуживает второго шанса."
+line-461,戴菲恩,那你呢？你知道穿上这件衣服意味着什么吗？,What about you? Do you understand the significance of donning this garment?,"А как же ты? Понимаешь ли ты, что значит надеть эту одежду?"
+line-463,维娜,我知道。但我一直都有的选，不是吗？,"I do. But I always had a choice, didn't I?","Понимаю. Но у меня всегда был выбор, верно?"
+line-465,,维娜在戴菲恩的陪伴下穿过拥挤的人群，所有人都向她致敬。,"Vina walks through the crowd, escorted by Delphine. Everyone bows to her in reverence.","Винья в сопровождении Дельфины прошла сквозь плотную толпу, все отдавали ей честь."
+line-467,维娜,......不过我可受不了这个......,"This is hard to take, though...",......Я к этому не привыкла...
+line-470,维娜,嗯——？,Hm...?,Эм——?
+line-472,,她好像看到一个身影被不断向前挤来的士兵和市民淹没了。,"She thought she saw a certain figure in the crowd, drowned out by the onrushing soldiers and citizens.","Ей показалось, что чей-то силуэт утонул в потоке наступающих солдат и горожан."
+line-474,戴菲恩,怎么了？,What is it?,Что случилось?
+line-476,维娜,......没什么，重整队伍吧，该到结束的时候了。,...Nothing. Let's get the troops in order. It's time to put an end to this.,"......Ничего, перегруппируйтесь, пора заканчивать."
+line-493,,“维娜，我相信你和你的队伍一定会胜利，我留给你的礼物——那套本就属于你的衣服——也不过是你最后胜利时的点缀而已。”,"'You and your friends will win, Vina. The present I left you, the garb that always belonged to you, is merely icing on the cake of your final victory.'","«Винья, я верю, что ты и твои люди обязательно победите, а подарок, который я тебе оставила — тот наряд, что по праву принадлежит тебе, — будет лишь украшением твоего финального триумфа»."
+line-494,,“遗憾的是，这场胜利里，你的身边已经不再有我的位置了。这是我自己的决定。”,'There is no place for me by your side when victory comes. This is the choice that I made.',"«Печально, что в этой победе рядом с тобой уже не будет места для меня. Это мое собственное решение»."
+line-495,,“不过，我想这场荒唐的战争的结束，才是真正属于你的故事的开始。那时，恐怕你不会再是那个一路胜利的传奇了。”,'But the end of this absurd war is simply the beginning of your story. Can you remain the ever-victorious legend when that time comes?',"«Впрочем, думаю, окончание этой абсурдной войны — начало твоей собственной истории. Тогда ты вряд ли останешься легендой, идущей от победы к победе»."
+line-496,,“维多利亚不会轻易被人改变，哪怕那个人是你。”,"'Victoria is not easily changed by anyone, not even you.'","«Викторию нелегко изменить, даже если этот человек — ты»."
+line-497,,“......不，或许，过去的我说不定真会愿意去相信——”,"'But perhaps, I would truly have believed—'","«......Нет, возможно, прежняя я и правда хотела бы в это верить —»"
+line-500,,“再见，维娜......再见。”,"'Goodbye, Vina... Goodbye.'","«Прощай, Винья...... прощай»."
