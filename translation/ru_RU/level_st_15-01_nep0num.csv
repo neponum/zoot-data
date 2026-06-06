@@ -1,0 +1,161 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,main_15
+__chapter__,,Chapter Name,obt/main/level_st_15-01,过去与现在的终点
+,,,,
+char-1,疲惫的伤员,疲惫的伤员,Tired Wounded,Усталый раненый
+char-2,坚强的感染者,坚强的感染者,Tough Infected,Стойкий зараженный
+char-3,恐惧的孩子,恐惧的孩子,Frightened Child,Испуганный ребенок
+char-4,满脸厌恶的孩子,满脸厌恶的孩子,Disgusted Child,"Ребенок с лицом, полным отвращения"
+char-5,沉默的孩子,沉默的孩子,Silent Child,Молчаливый ребенок
+char-6,兴奋的军人,兴奋的军人,Excited Soldier,Возбужденный солдат
+char-7,整合运动成员,整合运动成员,Reunion Member,Член Воссоединения
+char-8,主教,主教,Bishop,Епископ
+char-9,阿米娅,阿米娅,Amiya,Амия
+char-10,特雷西斯,特雷西斯,Theresis,Терезис
+,,,,
+line-9,,<color=#000000>“宇宙”。</color>,<color=#000000>'Universe'.</color>,<color=#000000>«Вселенная».</color>
+line-12,,<color=#000000>我们应当如何解释这个词语？数学，物理，信仰，空想——</color>,"<color=#000000>How should we interpret this word? With mathematics, physics, faith, imagination—</color>","<color=#000000>Как нам следует объяснить это слово? Математика, физика, вера, фантазия —</color>"
+line-15,,<color=#000000>我们穷尽思维，试图用不同的语言模型描述这个依旧陌生的词语，并傲慢地宣称我们掌握了绝对正确的“知识”。</color>,"<color=#000000>We exhausted our minds attempting to define this still unfamiliar word in a variety of languages, and arrogantly claimed to have mastered true 'knowledge'.</color>","<color=#000000>Мы истощаем свой разум, пытаясь описать это всё ещё чуждое нам слово с помощью различных языковых моделей, и высокомерно заявляем, что овладели абсолютно верным «знанием».</color>"
+line-18,,<color=#000000>可为何毁灭真正近在咫尺时，大多数人却又缄默不语？</color>,<color=#000000>So why are most of us silent when destruction is so near?</color>,"<color=#000000>Но почему, когда гибель действительно близка, большинство молчит?</color>"
+line-21,,<color=#000000>知识是不可逆转的。既然我们已从无数谬论中窥到了片面的真理，自然也无法安然退回到无知的黑暗中，漠视终结的降临。</color>,"<color=#000000>You cannot turn back from knowledge. Since we have glimpsed the partial truths of countless fallacies, it is only natural that we cannot retreat into the darkness of ignorance, and ignore the advent of the end.</color>","<color=#000000>Знание необратимо. Раз уж мы мельком увидели частичную истину среди бесчисленных заблуждений, мы уже не сможем спокойно отступить обратно в невежественную тьму и игнорировать приближающийся конец.</color>"
+line-24,,<color=#000000>我想，也许我已经触碰到解答终极问题的关键——</color>,"<color=#000000>I think, perhaps I've touched on the key to resolving this ultimate question—</color>","<color=#000000>Думаю, я, возможно, уже коснулся ключа к решению главного вопроса —</color>"
+line-27,,<color=#000000>用我和你创造的语言，{@nickname}。</color>,"<color=#000000>Use the language you and I created, {@nickname}.</color>","<color=#000000>На языке, который создали мы с тобой, {@nickname}.</color>"
+line-38,,“Dr.{@nickname}，这场战争该结束了。”,"'It's time for this war to end, Dr. {@nickname}.'","«Доктор {@nickname}, этой войне пора закончиться»."
+line-39,,“那位德拉克点燃城墙的紫火极大地推动了战争的进程。当典范军和公爵联军的队伍推进至孽茨雷最后的阵地前时——”,'The purple flames ignited by that Draco have accelerated the course of the war. Once the Exemplars and the ducal alliance's troops push onto Nezzsalem's final stronghold—',"«Фиолетовое пламя, которым та Драко подожгла крепостную стену, значительно ускорило ход войны. Когда отряды Армии Образцов и коалиции герцогов продвинулись к последним позициям Ньецлера —»"
+line-40,,“我们停下这场战争的目的也终于触手可及。”,'Our goal of concluding this war will finally be within reach.',"«Цель, ради которой мы остановили эту войну, наконец стала достижима»."
+line-41,,“可......凯尔希医生，最后这短短的一段路还得花上多少时间？”,"'But... Dr. Kal'tsit, how long will it take for us to cover this short stretch?'","«Но... доктор Кель'си, сколько ещё времени займёт этот последний короткий путь?»"
+line-42,,“没人能保证，阿米娅。”,"'There's no way to tell, Amiya.'","«Никто не может гарантировать, Амия»."
+line-46,,<p=1>伦蒂尼姆外围战场，“荣光”号残骸</>,"<p=1>Londinium outskirts battlefield, wreck of the <i>Gloriana</i></>","<p=1>Внешний фронт Лондиниума, обломки корабля «Слава»</>"
+line-52,疲惫的伤员,源石......,Originium...,Ориниум...
+line-53,疲惫的伤员,这些该死的源石真的斩断了这艘旗舰。我必须留在这里，加入这里的驻军继续战斗......,Bloody Originium's really chopped this battleship in halves. I have to remain here and continue the fight with the local garrison...,"Этот проклятый ориниум действительно разрезал этот флагман. Я должен остаться здесь и присоединиться к гарнизону, чтобы продолжить сражаться..."
+line-54,疲惫的伤员,抱歉，我不能继续陪你往前走了，孩子。,"Sorry, kid. I can't go on with you.","Прости, я не могу больше идти с тобой, дитя."
+line-59,坚强的感染者,我们一路过来，只有废墟和那些死去的......我没有看到任何驻军。,This whole time we've seen nothing but ruins and dead... no garrisons at all.,"Мы проделали весь путь, видя лишь руины и тех, кто погиб... Я не встретил никакого гарнизона."
+line-61,坚强的感染者,还有，请不要叫我孩子！修道院的大伙已经为我的成年庆祝过了——,Also! Please don't call me kid! The monastery's already celebrated my coming-of-age!,"И еще, пожалуйста, не называй меня ребенком! Ребята из монастыря уже отпраздновали мое совершеннолетие —"
+line-63,疲惫的伤员,哈哈，你的脾气还真像我的女儿。,"Haha, you remind me of my daughter.","Ха-ха, твой характер и правда похож на характер моей дочери."
+line-64,疲惫的伤员,看到那边高处还闪着光芒的地方了吗？那是开斯特公爵阁下的“荣光”号的一部分。,See the light shining up high there? That's part of Her Grace the Duke of Caster's <i>Gloriana.</i>,"Видишь там, наверху, место, где еще мерцает свет? Это часть «Славы» Его Светлости герцога Кэстера."
+line-65,疲惫的伤员,那门舰炮还在运作，说明我从广播里接收到的通讯是真的。我原先的队伍既然隶属开斯特公爵阁下，现在自然该归队了。,"That gun's still working, which means the news I got from the broadcast is true. My squad served the Duke, so I have to go back.","Раз корабельное орудие все еще работает, значит, информация, которую я получил по радио, правдива. Мой отряд принадлежал герцогу Кэстеру, так что теперь мне, естественно, нужно вернуться в строй."
+line-67,坚强的感染者,可你的伤势......,But your wounds...,Но твои раны...
+line-69,疲惫的伤员,有你帮忙治疗，我已经能走动路了。,"I can walk, since you helped patch me up.",Благодаря твоей помощи я уже могу передвигаться.
+line-70,疲惫的伤员,倒是你，你确定要继续往城里走吗？那是污染最严重的地方，活性源石环境会害死你的。,"But you, are you sure you want to go back to the city? It's the most polluted place there is. The active Originium in there will be the death of you.","А вот ты, ты уверена, что хочешь продолжать путь в город? Это место с самым сильным загрязнением, активная среда ориниума тебя погубит."
+line-72,坚强的感染者,主教爷爷说过，那位从矿场救下我的好心人为了送我回修道院，也吃了很多的苦，走过很多的路。,The Bishop told me that the kind person who saved me from the mines went through hell and back to deliver me all the way to the monastery.,"Дедушка-епископ говорил, что тот добрый человек, который спас меня из шахты, чтобы вернуть в монастырь, тоже много натерпелся и прошел долгий путь."
+line-74,坚强的感染者,救赎从来不是毫无代价的，我很早就清楚。,So I knew from an early age that salvation never comes without a cost.,"Я давно поняла, что спасение никогда не дается даром."
+line-76,坚强的感染者,不用担心我，修士们教会了我很多避开危险的办法。,Don't worry about me. The clergy taught me many ways to keep myself safe.,"Не волнуйся за меня, монахи научили меня многим способам избегать опасности."
+line-77,坚强的感染者,在我走到终点之前，只要能再多救一个人，任何一个人......,"As long as I can save one more person, anyone, before I reach my end...","Пока я не дойду до конца, если я смогу спасти хотя бы еще одного человека, любого..."
+line-79,疲惫的伤员,说实话，我从来没有见过有哪一位修道院里的修士像你这样虔诚......谢谢你，维多利亚以你的善良为荣。,"To be frank, this is the first time I've seen a cleric as devout as you... Your kind heart is the pride of Victoria.","Честно говоря, я еще никогда не видел, чтобы кто-то из монахов в монастыре был так предан вере... Спасибо тебе, Виктория гордится твоей добротой."
+line-81,坚强的感染者,主教爷爷说，信仰并不是为了一己的荣誉......怀有信仰的人，是虔诚地相信，善举会将这片大地变得更好......,The Bishop says faith is not at all for pride or glory... the faithful believe with sincerity that good deeds will better this land...,"Дедушка-епископ говорил, что вера — это не ради собственной славы... Те, у кого есть вера, искренне верят, что добрые дела сделают этот мир лучше..."
+line-83,疲惫的伤员,变得更好吗......哈，或许吧。,"Better this land...? Hah, maybe.","Сделают лучше, значит... Ха, возможно."
+line-84,疲惫的伤员,但无论如何，谢谢你，小兔子，为你做的一切。,"But anyway, thanks, little Cautus. For everything.","Но в любом случае, спасибо тебе, маленький кролик, за все, что ты сделала."
+line-85,疲惫的伤员,能最后帮我一个忙吗，孩子？如果你回到了城里，我的家还在，我的女儿......也还在......,"Could you help me out one last time, kid? If you make it back to the city, if my family... and my daughter's still there...","Можешь сделать для меня последнее одолжение, дитя? Если ты вернешься в город, а мой дом все еще стоит, моя дочь... тоже все еще там..."
+line-86,疲惫的伤员,麻烦告诉她，爸爸一直在保护着她。,Please tell her that papa's always protected her.,"Пожалуйста, скажи ей, что папа всегда её защищал."
+line-94,,维多利亚军人努力抬起受伤的手臂，向卡特斯敬了一个不甚标准的军礼，然后坦然地转身走向远处军舰的残骸，消失在源石的丛林里。,"The Victorian soldier struggles to raise his injured arm, and gives a non-standard salute to the Cautus, before calmly turning towards the distant wreckage and vanishing into the thicket of Originium.","Викторианский солдат с трудом поднял раненую руку, отдал не совсем правильное воинское приветствие карцу и, не колеблясь, повернулся и пошел к обломкам военного корабля, исчезнув в джунглях ориниума."
+line-98,,卡特斯望着远处舰炮上那抹淡淡的金光，不由得叹了一口气。,The Cautus looks to the faint light emanating from the ship's gun and cannot help but to sigh.,Карц посмотрел на слабый золотистый свет на орудии корабля вдали и невольно вздохнул.
+line-101,,远处炮火正响，小小的卡特斯继续向着天际线上的那座城市——伦蒂尼姆进发。,"Artillery sounds in the distance, and the tiny Cautus continues towards the city on the horizon—Londinium.","Вдалеке грохотала артиллерия, маленький карц продолжал путь к городу на горизонте — Лондиниуму."
+line-109,,“我也能听到炮击的声音了，Dr.{@nickname}，凯瑟琳女士的‘爬行号’已经在冲击食腐者的阵地。”,"'I hear the cannon fire too, Dr. {@nickname}. Madam Catherine's Crawler is already assaulting the Nachzehrer's front.'","«Я тоже слышу звуки обстрела, Доктор {@nickname}. "
+line-110,,“可击败了食腐者就能结束战争吗？还有那些被波及的无辜者......他们该怎么办？”,'But will the war end once we beat them? And the innocents who've suffered... what will happen to them?',"«Но разве победа над Пожирателями положит конец войне? А как же те невинные, кого она затронула... что им делать?»"
+line-111,,“我们没法在战争中救下每一个人，阿米娅。我们能做的，只有帮助伦蒂尼姆人更快地结束这场灾难。”,"'There's no way to save every single life in a war, Amiya. What we can do is help the Londiniers end this misery as soon as we can.'","«Мы не можем спасти каждого во время войны, Амия. Мы можем лишь помочь жителям Лондиниума поскорее положить конец этой катастрофе»."
+line-112,,“那就意味着，食腐者并非是我们最后的难题。”,'And that means the Nachzehrer aren't our ultimate problem.',"«Значит, Пожиратели — не последняя наша трудность»."
+line-116,,<p=1>伦蒂尼姆无名避难所</>,<p=1>Nameless Londinium Refuge</>,<p=1>Безымянное убежище в Лондиниуме</>
+line-122,坚强的感染者,玛丽，戴维，请不要把这孩子藏在这里的事情告诉其他人。,"Mary, Davey, please don't tell anyone else this kid is hiding here.","Мари, Дэвид, пожалуйста, не говорите остальным, что этот ребенок прячется здесь."
+line-123,坚强的感染者,我在城墙下遇到了他，他已经没有其他地方能去。他的父母都是伦蒂尼姆人，他说，很久以前你们在公园里见过面，不是吗？,"I met him at the city walls, and he has nowhere to go. His parents are Londiniers, he said, and he met you two in the park a long while ago, yes?","Я встретила его у крепостной стены, ему больше некуда было идти. Его родители — жители Лондиниума, он сказал, что вы виделись в парке давным-давно, разве не так?"
+line-129,恐惧的孩子,......,......,......
+line-136,满脸厌恶的孩子,我不记得了。但你帮了我们，我答应帮你忙。是帮你，不是帮他！,"I don't remember. You helped us, and I promised to help you. But he's not you!","Я не помню. Но ты помогла нам, и я обещаю тебе помочь. Помочь тебе, а не ему!"
+line-141,沉默的孩子,......,......,......
+line-147,坚强的感染者,谢谢你们。他只会躲在这，不会乱跑，也不会出声。我保证他不会吓到任何人。,Thank you. He'll just hide here and won't run off or make a sound. I guarantee he won't give anyone a fright.,"Спасибо вам. Он будет только здесь прятаться, не станет бегать туда-сюда и не издаст ни звука. Я обещаю, что он никого не напугает."
+line-149,恐惧的孩子,（快速地点头）,(Nods quickly),(быстро кивает)
+line-151,坚强的感染者,我很快就回来，我答应了一个人，要找到他的女儿。,I'll be back soon. I promised someone I'd find his daughter.,"Я скоро вернусь, я обещала одному человеку найти его дочь."
+line-153,坚强的感染者,我没法在外面保护你，外面街道上到处都是充满敌意的人——,It's impossible for me to protect you out there when there's so many hostiles—,"Я не могу защитить тебя снаружи, на улицах полно враждебно настроенных людей —"
+line-154,坚强的感染者,抱歉，我也找不到更好的地方暂时安置你。至少，这里许多人都接受过我的帮助，我相信这些孩子。,"Sorry, I couldn't find anywhere better for you to settle down. I've helped quite a lot of people here though, so I trust these kids to keep you safe.","Прости, я не нашла места получше, чтобы временно тебя разместить. По крайней мере, многие здесь получали от меня помощь, я доверяю этим детям."
+line-159,,小萨卡兹紧紧拽住了卡特斯的手臂，却摸到了那些尖锐的源石结晶。,"The tiny Sarkaz tugs sharply on the Cautus's arm, but touches the pointy Originium crystals instead.","Маленький саркази крепко ухватился за руку карца, но коснулся тех острых кристаллов ориниума."
+line-163,,他下意识地缩回了手。,He pulls back his hand on reflex.,Он инстинктивно отдернул руку.
+line-165,恐惧的孩子,（小声）对，对不起！我和爸爸妈妈在一起的时候......很少接触感染者。,(softly) S-Sorry! When I was with my pa and ma... we rarely came in contact with Infected.,(шепотом) П-прости! Когда я был с мамой и папой... я редко контактировал с зараженными.
+line-167,坚强的感染者,......我会回来找你的。,...I'll come back for you.,......Я вернусь за тобой.
+line-173,恐惧的孩子,......,......,......
+line-179,满脸厌恶的孩子,......,......,......
+line-181,沉默的孩子,......,......,......
+line-193,,卡特斯离开的时间并不长。,The Cautus is not gone for long.,Карц отсутствовала недолго.
+line-194,,当她按照地址找到军人的家时，那里已经什么都不剩了。,"When she arrives at the soldier's home as directed, there is nothing left.","Когда она нашла дом солдата по адресу, там уже ничего не осталось."
+line-195,,但从废墟中找到的信来看，军人的女儿已经加入了城内一支反抗萨卡兹的队伍——“典范军”。,But letters found in the ruin tell her the soldier's daughter joined a force rebelling against the Sarkaz in the city—the Exemplars.,"Но, судя по письму, найденному в руинах, дочь солдата уже вступила в один из отрядов, противостоящих саркази в городе — «Армию Образцов»."
+line-196,,卡特斯返回避难所的路并不好走，在维多利亚人联合向圣王会西部大堂的萨卡兹阵地进攻时，城内被源石影响的区域仍在不断扩大。,"It is a difficult journey for the Cautus as she returns to the refuge. When the Victorians joined forces to attack the Sarkaz front at the Palace of Westhaleg, Originium continued to spread throughout the city.","Путь карца обратно в убежище был непростым: пока викторианцы совместно атаковали позиции саркази в Западном зале Святого Королевства, территории города, затронутые ориниумом, продолжали расширяться."
+line-197,,还有那些四处流窜的狂热萨卡兹佣兵，正仿佛失去了主心骨一般肆意行动。,"There are also those mad Sarkaz mercenaries wandering recklessly around, as if they've lost any semblance of humanity.","А еще были те бродячие фанатичные наемники-саркази, которые действовали хаотично, словно потеряв лидера."
+line-198,,她感到头疼，因为城内这糟糕的现状，也因为她身体上那些糟糕的黑色结晶。,"Her head hurts, from the city's terrible condition, but also from the horrific black crystals on her body.",У нее болела голова — из-за ужасного положения в городе и из-за тех ужасных черных кристаллов на ее теле.
+line-199,,“或许，我也快走到终点了，主教爷爷。”,"'I might be nearing my end now, Father Bishop.'","«Возможно, я тоже приближаюсь к своему концу, дедушка-епископ»."
+line-213,坚强的感染者,请问......刚刚是你们在那些佣兵骚扰避难所时保护了这些人吗？,Excuse me... were you the troops who protected the people here from those mercenaries?,"Скажите... это вы только что защитили этих людей, когда наемники беспокоили убежище?"
+line-218,兴奋的军人,是的。我们这支小队里典范军和公爵联军的士兵都有，准备去圣王会西部大堂阵地时突然收到了求救。,"Yes. We have both Exemplar and ducal alliance troops in our squad, and we got a distress call while we were gearing up to enter the Palace.","Да. В нашем отряде были солдаты как из Армии Образцов, так и из коалиции герцогов, мы собирались к позициям Западного зала Святого Королевства, когда получили сигнал о помощи."
+line-219,兴奋的军人,请相信，这场混乱马上就会结束了。也感谢您照顾这些孩子和避难的人。,"Trust me, this mess will be over soon. Thank you too, for taking care of the kids and refugees.","Поверьте, этот хаос скоро закончится. И спасибо вам за заботу об этих детях и людях в убежище."
+line-221,坚强的感染者,......,......,......
+line-223,兴奋的军人,欸，您在找什么人吗？,"Uh, are you looking for someone?","Эй, вы кого-то ищете?"
+line-225,,卡特斯摇了摇头。,The Cautus shakes her head.,Карц покачала головой.
+line-227,兴奋的军人,对了，我们顺便也清理了一下周围躲着的魔族佬，他们眼看快败了，也想躲起来。,"Right, we did mop up some of the devils hiding about. Probably here because their side's about to lose.","Кстати, мы попутно зачистили тех демонических ребят, что прятались поблизости, они увидели, что скоро проиграют, и решили спрятаться."
+line-229,坚强的感染者,——！,—!,——！
+line-231,兴奋的军人,再会，我们得赶去前线了。,See you. We have to hurry on to the front.,"До встречи, нам нужно на фронт."
+line-243,坚强的感染者,......我没看到那个孩子。,...I didn't see that kid.,......Я не нашла того ребенка.
+line-245,沉默的孩子,......,......,......
+line-247,满脸厌恶的孩子,......跟我来。,...Follow me.,......Иди за мной.
+line-254,,孩子带着卡特斯穿过工厂层层叠叠的掩体，卡特斯看到避难所的其他人沉默地搬运着萨卡兹的尸体。,"The child leads the Cautus through bunker after bunker within the factory, and the latter spots other refuge residents silently carrying away Sarkaz corpses.","Ребенок провел карца сквозь слои укрытий завода, карц видела, как остальные обитатели убежища молча переносят трупы саркази."
+line-255,,走到一堆集装箱之前，孩子费力地挪开了凌乱的遮掩。,"They walk up to a pile of containers, and the child struggles but manages to push the messed up lid open.","Подойдя к куче контейнеров, ребенок с трудом отодвинул беспорядочные прикрытия."
+line-256,,那个蜷缩的萨卡兹孩子惊恐地看着他们。,The cowering Sarkaz child from before looks at them in fear.,Сжавшийся в комок ребенок-саркази с ужасом смотрел на них.
+line-258,满脸厌恶的孩子,她来了。,She's here.,Она пришла.
+line-259,满脸厌恶的孩子,我答应过帮你。刚才事情比较突然，我也没有其他地方能藏他了。,"I promised you I'd help you, didn't I? It all happened so suddenly earlier, so this was the only place I could hide him.","Я обещал помочь тебе. Только что ситуация была внезапной, и мне больше некуда было его спрятать."
+line-261,沉默的孩子,但他不能继续留在这里。,But he can't stay here.,Но он не может здесь оставаться.
+line-263,坚强的感染者,......回来的路上我遇到了一支名叫整合运动的队伍，他们可以收留这个孩子。,"On my way back, I met a group called Reunion. They can take him in.","......На обратном пути я встретила отряд под названием «Воссоединение», они могут приютить этого ребенка."
+line-273,整合运动成员,放心，那个孩子我们会照顾好的——但是你呢？,"Don't worry, we'll take good care of that one—but what about you?","Не волнуйся, мы позаботимся об этом ребенке — но как насчет тебя?"
+line-274,整合运动成员,你的感染状况很糟糕......你应该和我们一起走。,Your Oripathy's serious... you should come with us too.,Твое состояние заражения очень тяжелое... тебе стоит пойти с нами.
+line-276,坚强的感染者,我......还有其他的事没有做完。,I... still have some things to do.,У меня... остались еще незаконченные дела.
+line-278,整合运动成员,好吧，我不会勉强你，你和我认识的很多同伴很像。,"Alright, I won't force you. You remind me of a lot of my comrades.","Хорошо, я не буду тебя заставлять, ты очень похожа на многих моих товарищей."
+line-279,整合运动成员,这些抑制剂和防护装备我留给你了。再见。,Here's some suppressants and protective gear. Good luck.,Я оставлю тебе эти ингибиторы и защитное снаряжение. Прощай.
+line-285,坚强的感染者,......再见。,...You too.,......Прощай.
+line-287,,远处，维多利亚人前仆后继地向食腐者之王最后的阵地走去，生命在消逝。,Victorians advance in waves from afar towards the Nachzehrer King's last stand as life fades away.,"Вдали викторианцы один за другим шли к последним позициям Короля Пожирателей, жизни угасали."
+line-288,,那不是她的战争，她感到恐惧，她也无法理解支撑这些人克服死亡恐惧的力量来源于何处。,"That is not her war. She feels fear, and has no way of comprehending how these people overcome their fear of death, what keeps them pushing onward.","Это была не её война, она чувствовала страх, и она не могла понять, откуда берется сила, позволяющая этим людям преодолеть страх смерти."
+line-289,,但她希望救下更多的人，继续麻木地救下更多的人......一个又一个。,"But she hopes to save people too, to continue numbly... one life after another.","Но она надеялась спасти как можно больше людей, продолжать онемело спасать их... одного за другим."
+line-290,,......哪怕只是徒劳。,...Even if it's all in vain.,......Пусть даже тщетно.
+line-291,,她想起离开修道院那天，主教与她坐在河畔教堂外的告别。,She recalls the day she left the monastery. When she and the Bishop bid each other farewell by the riverside church.,"Она вспомнила день ухода из монастыря, прощание с епископом у церкви на берегу реки."
+line-300,主教,你问，何为信仰？,"What is faith, you ask?","Ты спрашиваешь, что такое вера?"
+line-301,主教,呵呵......我年轻游历时曾去过伊比利亚，我亲眼目睹过大静谧下身边人生活的崩溃，但那个顽强的国家却从未彻底屈服。,"Heheh... I traveled to Iberia in my youth, and saw with my own eyes how the lives of those around me collapsed during the Profound Silence, but that tenacious nation has never once yielded.","Хе-хе... Когда я был молод и путешествовал, я был в Иберии, я своими глазами видел крах жизни окружающих во время Великой Тишины, но та стойкая страна так до конца и не сдалась."
+line-302,主教,起初，我只是在为那个国家的生命力而赞叹，但随着我活过的岁月越来越久，我才逐渐醒悟......,"At first, I only admired the country's vitality, but as I lived my life, I came to realize...","Сначала я лишь восхищался жизнеспособностью той страны, но чем дольше я жил, тем больше начинал осознавать..."
+line-303,主教,那样的生命力，就是信仰。,"That vitality, <i>that</i> is faith.",Такая жизнеспособность и есть вера.
+line-304,主教,有谁教育过我，或是其他那些伊比利亚人，我们应该何去何从？有谁曾许诺过，我们一定会跨过那样恐怖的灾难？,"Who was there to teach me, or even the other Iberians, what path to take in life? Did anyone promise us we would surmount such a terrifying disaster?","Кто учил меня или тех других иберийцев, куда нам идти? Кто обещал нам, что мы обязательно преодолеем такую ужасную катастрофу?"
+line-305,主教,没有，但我们总会在灾难面前说服我们自己。我们经历的一切总有意义，苦难终有尽头，我们会有一个美好的未来。,"No, but faced with calamity we always convince ourselves. Everything we go through is inevitably for something, suffering will eventually end, and we will enjoy a wonderful future.","Никто, но мы всегда убеждали себя перед лицом катастрофы. Все, через что мы прошли, имеет смысл, страданиям рано или поздно придет конец, и нас ждет прекрасное будущее."
+line-306,主教,这就是信仰。,That is faith.,Это и есть вера.
+line-307,主教,信仰不在经文上，也不在祷告词和赞美诗当中，而是在我们的生命中。,"Faith does not reside in scripture, nor in our prayers and hymns, but in our lives.","Вера не в священных текстах, не в молитвах и псалмах, а в наших жизнях."
+line-308,主教,信仰在我们的身体和思维中，在我们的心脏的每一次律动中，在一呼一吸之中。是我们一切力量的来源。,"Faith is in our bodies and minds, in every heartbeat, in every breath. It is the source of all strength.","Вера в наших телах и умах, в каждом ударе нашего сердца, в каждом вдохе и выдохе. Это источник всей нашей силы."
+line-309,主教,......只因为我们相信。,...Only because we believe.,"......Просто потому, что мы верим."
+line-315,坚强的感染者,主教爷爷。如果真如您所说，一切苦难终归是有尽头的，那个美好的将来，又在何处呢......,"Father Bishop, if it is as you say, that all suffering eventually ends, then where is our wonderful future you're talking about...?","Дедушка-епископ. Если, как вы говорите, всем страданиям в конечном итоге придет конец, то где же то прекрасное будущее..."
+line-316,坚强的感染者,主教爷爷......我应该，已经尽力了。,Father Bishop... I think... I've tried my best.,"Дедушка-епископ... Я, кажется, сделала все, что могла."
+line-326,,卡特斯疲惫地倒在废墟中，听到远处传来的炮火声和隐隐的哭喊。,"The Cautus collapses from exhaustion among the ruins, to the sounds of gunfire and cries from afar.","Карц устало упала в руины, слыша доносящиеся издалека звуки выстрелов и неясный плач."
+line-327,,剧烈的疼痛提醒着她这副身体已经行至终点的残酷事实。,An Intense pain reminds her of a cruel truth: this body has met its end.,"Острая боль напоминала ей о жестоком факте, что её тело дошло до предела."
+line-328,,她向周围那些被她从死亡前救下的人招了招手，独自留在远离其他人的空旷处。,"She waves to those nearby whom she saved from death, staying alone in a wide open space far away from them.","Она помахала окружающим, которых спасла от смерти, и осталась одна в пустом месте, подальше от остальных."
+line-330,,她的身体开始崩解。,Her body begins to disintegrate.,Ее тело начало распадаться.
+line-332,坚强的感染者,......我愿意去相信......,...I'm willing to believe...,......Я хочу верить...
+line-335,,卡特斯眼睛所能捕捉到的光越来越黯淡，直至陷入漫长的黑夜。,"The light caught in the Cautus's eyes begin to dim, until she sinks into endless night.","Свет, который улавливали глаза карца, становился все тусклее, пока не наступила долгая черная ночь."
+line-341,,然后她看到似乎有人握住了她近乎破碎的手，光线开始重新涌回她的眼睛。,"Then, she seems to see someone hold her almost shattered hand, and light begins to flow back into her eyes.","Затем она увидела, как кто-то взял ее почти разбитую руку, и свет начал снова возвращаться в ее глаза."
+line-354,阿米娅,......！,...!,......！
+line-357,,阿米娅，怎么了？,"What's wrong, Amiya?","Амия, что случилось?"
+line-360,阿米娅,我好像听到了，感染者发生崩解的声音......又一次。,I think I heard the sound of an Infected disintegrating... again.,"Мне кажется, я слышала звук распада зараженного... снова."
+line-361,阿米娅,我几乎都能远远看见离去的人最后时刻迸发的光芒，距离我们并不远。,I could almost even see their final burst of light. Not too far from us.,"Я почти видела издалека свет, исходящий в последний момент уходящего человека, это было недалеко от нас."
+line-363,阿米娅,这段时间，我们已经见过太多次......,We've seen this happen too often lately...,За последнее время мы видели это слишком много раз...
+line-366,,走吧。;该去结束这一切了。,Let's go.;It's time we end this.,Идем. Пора положить этому конец.
+line-368,,我们去面对特雷西斯。,Let's go confront Theresis.,Мы идем навстречу Терезису.
+line-371,阿米娅,博士，走吧。,"Let's go, Doctor.","Доктор, пойдемте."
+line-374,,......,......,......
+line-377,阿米娅,博士？,Doctor?,Доктор?
+line-380,,凯尔希，我突然有一个疑问。,"Kal'tsit, a thought occurs.","Кель'си, у меня внезапно возник вопрос."
+line-382,,源石内化宇宙中的静滞......到底意味着什么？;我们曾涉足的那个地方，是不是连时间都无法逃脱？,What exactly does... stasis within the Assimilated Universe mean?;Does that place we've been prevent even time from escaping?,"Что же на самом деле означает стазис внутри ориниумной вселенной? То место, где мы когда-то побывали, не означает ли, что даже время не может оттуда ускользнуть?"
+line-392,,信息的浪涌冲击着他，试图将他吞没。,"A surge of information rushes forward, trying to engulf him.","Поток информации ударил по нему, пытаясь поглотить."
+line-393,,但特雷西斯屹立不动。,But Theresis does not budge.,Но Терезис стоял непоколебимо.
+line-399,特雷西斯,我终于亲眼看到了你创造的伟绩，特蕾西娅。,"I finally see with my own eyes what great feat you've managed, Theresa.","Я наконец увидел собственными глазами великое свершение, которое ты создала, Терезия."
+line-401,,<p=1>源石内化宇宙</><p=2>未知时间</>,<p=1>Originium Assimilated Universe</><p=2>Time Unknown</>,<p=1>Ориниумная вселенная</><p=2>Неизвестное время</>
+line-405,,他抬头望向矗立在虚空中的高塔，崩溃的碎屑重新化作无序的信息回归虚空。,He looks up at the tower standing in the void as falling fragments turn back into irregular information and return into the nothingness.,"Он поднял голову и посмотрел на высокую башню, стоящую в пустоте, обломки распада возвращались в пустоту в виде беспорядочной информации."
+line-406,,特雷西斯握住了飘散而下的碎屑，可手中转瞬却又一无所有。,"Theresis grabs a fragment that has drifted down to him, but it instantly turns to nothing in his palm.","Терезис схватил обломки, что пролетали мимо, но в руке мгновенно не осталось ничего."
+line-407,特雷西斯,你为我打开了这扇门，最后这段路，我会替你走完，特蕾西娅。,"You opened this door for me, so I'll finish this last part of the journey in your stead, Theresa.","Ты открыла для меня эту дверь, последний отрезок пути я пройду за тебя, Терезия."
+line-408,特雷西斯,夺下这枚属于萨卡兹的源石，萨卡兹将第一次拥有自己主宰自己命运的权力。,"Once we Sarkaz seize the Originium that belongs to us, we shall for the first time hold the power to determine our own fate.","Захватив этот ориниум, принадлежащий саркази, саркази впервые получат власть самостоятельно вершить свою судьбу."
+line-409,,他握紧了手中的剑，冷冷地注视着虚空中那逐渐靠近的巨大菱形。,"He grips the blade in his hand, and stares coldly at the large rhombus approaching him.","Он крепче сжал меч и холодно смотрел на огромный ромб, постепенно приближающийся в пустоте."
+line-410,,随即，他走向了崩溃的塔。他很清楚，他将要面对的存在就在那里。,"Then, he walks toward the crumbling tower. He knows well his opponent will be there.","Затем он направился к разрушающейся башне. Он прекрасно понимал, что существо, с которым ему предстоит встретиться, находится там."
+line-411,,毁灭些什么，来铸造阶梯。特蕾西娅已为他留下了道路。,"Destroy anything, just to create a ladder. Theresa has left a path for him.","Разрушить что-то, чтобы выстроить лестницу. Терезия уже оставила для него путь."
+line-414,,“直至消散也未曾放弃抗争的众魂啊，在源石之中为萨卡兹做了最后一件事——”,"'The myriad souls who never gave up resisting until they completely dissipated, did one last thing for the Sarkaz within the Originium—'","«О души, что не перестали бороться даже до момента исчезновения, вы сделали последнее дело для саркази внутри ориниума —»"
+line-415,,“为所有仍活着的人搏一个有权为平等生存而抗争的未来。”,"'They fought for a future where everyone has a right to survive, for the ones still alive.'","«Вы боролись за будущее для всех, кто еще жив, где они имеют право бороться за равное существование»."
+line-416,,“大家，向前走吧。”,"'Onward, everyone.'","«Все, продолжайте идти вперед»."
+line-419,特雷西斯,一如过往，你为我指引方向，我的剑会开辟前路。,"Just as always, my blade will cut our path forward. And you will lead the way.","Как и прежде, ты указываешь мне направление, а мой меч проложит путь."
+line-420,特雷西斯,我未曾食言，特蕾西娅——,"I never break my promises, Theresa—","Я не нарушил своего слова, Терезия —"
+line-425,,他走上了阶梯，走向了濒临崩毁的塔之巅。,"He walks up the flight of stairs, towards the top of the nearly collapsed tower.",Он ступил на лестницу и направился к вершине濒濒濒濒瀕 разрушающейся башни.
