@@ -1,0 +1,243 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,nep0num
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,main_15
+__chapter__,,Chapter Name,obt/main/level_main_15-10_end,一段长梦将醒
+,,,,
+char-1,Stormeye,Stormeye,Stormeye,Stormeye
+char-2,Sharp,Sharp,Sharp,Sharp
+char-3,源石结晶体,源石结晶体,Originium Entity,源石结晶体
+char-4,Pith,Pith,Pith,Pith
+char-5,残损的通讯装置,残损的通讯装置,Broken Communicator,残损的通讯装置
+char-6,Misery,Misery,Misery,Misery
+char-7,阿斯卡纶,阿斯卡纶,Ascalon,阿斯卡纶
+char-8,通讯中的声音,通讯中的声音,Communicator,通讯中的声音
+char-9,源石侵蚀的机械,源石侵蚀的机械,Originium-Infested Machine,源石侵蚀的机械
+char-10,Mon3tr,Mon3tr,Mon3tr,Mon3tr
+char-11,凯尔希,凯尔希,Kal'tsit,凯尔希
+char-12,Raidian,Raidian,Raidian,Raidian
+char-13,阿兰娜,阿兰娜,Alanna,阿兰娜
+char-14,华法琳,华法琳,Warfarin,华法琳
+char-15,克洛伊,克洛伊,Chloe,克洛伊
+char-16,阿米娅,阿米娅,Amiya,阿米娅
+,,,,
+line-17,Stormeye,备用电力系统还没接通吗？,Is the backup power online yet?,Резервная система питания ещё не подключена?
+line-19,Sharp,接线盒摔坏了。切断那条受损的线路试试，也许短路保护开关还在工作。,The junction box broke. Try cutting off that damaged circuit. Maybe short-circuit protection is still kicking in.,"Клеммная коробка разбита. Попробуй отрезать поврежденную линию, может быть, предохранитель короткого замыкания всё ещё работает."
+line-20,Sharp,注意脚下。,Watch your feet.,Смотри под ноги.
+line-22,Stormeye,我看得清。,I can see.,"Я вижу, куда иду."
+line-36,Sharp,运气不错。,We're in luck.,Нам повезло.
+line-38,Stormeye,这些源石结晶几乎是在一瞬间冒出来的。,The Originium crystals all appeared in an instant.,Эти кристаллы Ориджиниума появились почти в мгновение ока.
+line-39,Stormeye,还是联系不到其他人吗？,Still no word from anyone else?,Всё ещё не удается связаться с остальными?
+line-41,Sharp,通讯干扰仍然存在，应急频段都无法正常使用。,Comms are still jammed. Even the emergency frequencies are out.,"Помехи связи всё ещё сильны, даже аварийные частоты не работают."
+line-43,Stormeye,我这还有一个更坏的消息，不知道为什么，罗德岛正在以极限速度向西北方向航行。,"I have even worse news. For some reason, Rhodes Island is currently headed northwest at maximum speed.","У меня новость похуже: не знаю почему, но «Родос» идет на северо-запад на предельной скорости."
+line-44,Stormeye,这样下去的话，我们很可能会与沿途的移动采矿平台发生碰撞。,"At this rate, it's only a matter of time before we collide with a mobile mining platform.","Если так пойдет и дальше, мы рискуем столкнуться с мобильными добывающими платформами на нашем пути."
+line-46,Sharp,必须想办法排除航道上可能会出现的意外，从外围保护本舰，也避免把无辜的人卷进来。,"We must eliminate all possible dangers along the course. Protect the ship from the outside, and prevent collateral damage.","Нужно найти способ предотвратить непредвиденные инциденты на курсе, защитить корабль снаружи и не дать втянуть в это невинных людей."
+line-47,Sharp,先离开这里，前往“坏家伙”号的舱室确认载具设备状况。,Let's get out of here and check our vehicle inventory in the <i>Bad Guy's</i> cabin.,"Сначала уходим отсюда, отправляемся в отсек «Плохого парня», чтобы проверить состояние транспортного средства."
+line-48,Sharp,附近的空间结构已经发生变化，原本的路线图不再可靠，务必跟紧我。,Space around here has been transformed. Existing maps are no longer reliable. Stay close to me.,"Пространственная структура поблизости изменилась, прежняя карта маршрута больше не надежна, держись рядом со мной."
+line-50,Stormeye,（突然停下）,(Comes to a sudden stop),(Внезапно останавливается)
+line-52,Sharp,有什么问题吗？,Is something wrong?,Что-то не так?
+line-54,Stormeye,它们又来了。,They're coming again.,Они снова здесь.
+line-59,,话音刚落，箭矢破空的声音随即响起。,Hardly had he finished when an arrow whooshed through the air.,"Едва успев это сказать, он услышал свист стрел, разрезающих воздух."
+line-63,Sharp,......落空了？,Missed?,......Промахнулся?
+line-65,,无人回应。,There is no answer.,Ответа не последовало.
+line-72,Sharp,......Stormeye？,Stormeye?,......Stormeye?
+line-74,,Sharp猛然回头，身后的餐厅出口不知何时变成了一堵源石滋生的金属墙壁。,Sharp turns around to see that the door to the restaurant has turned into a metal wall crawling with Originium.,"Sharp резко обернулся; выход из столовой, который был за его спиной, превратился в стену, поросшую металлом и Ориджиниумом."
+line-79,,但站在他身后的，并不是Stormeye——,But it is not Stormeye standing behind him—,Но за его спиной стоял вовсе не Stormeye —
+line-90,源石结晶体,（无声地逼近）,(Approaches soundlessly),(Бесшумно приближается)
+line-108,Pith,就这么解决了？,Is that it?,"И это всё, что нужно было сделать?"
+line-117,Pith,通讯依旧被屏蔽。,Communications are still out.,Связь по-прежнему заблокирована.
+line-118,Pith,不知道其他人的情况怎么样了。,I wonder how the others are doing.,"Интересно, как там остальные."
+line-120,,Pith沉默地盯着手中的通讯器，眉头越拧越紧。,Pith gazes at the communicator silently with a furrowed brow.,"Pith молча смотрела на коммуникатор в своей руке, её брови нахмурились ещё сильнее."
+line-126,,脚步声远去。,The footsteps disappear into the distance.,Шаги удалились.
+line-136,,而那些倒下的源石结晶体，却再度站了起来，动作完全一致地行动着，跨过了脚边损坏的通讯装置。,"But the fallen Originium entities rise again, moving in perfect unison, striding over the damaged communicator on the ground.","Но поверженные кристаллические сущности Ориджиниума вновь поднялись на ноги, действуя синхронно, они переступили через поврежденное устройство связи у своих ног."
+line-140,残损的通讯装置,“——滋......所有能够收到通讯......干员注意......”,'—*Bzzt* All operators... receiving this message...',"«——шш... всем, кто принимает сигнал... внимание операторы...»"
+line-141,残损的通讯装置,“......不要相信......滋......通讯受阻......”,'Do not... trust... communications blocked...',«......не доверяйте......шш... связь нарушена......»
+line-142,残损的通讯装置,“滋......罗德岛......醒了......”,'*Bzzt*... Rhodes Island... awake...',«шш...... Родос...... проснулся......»
+line-151,Misery,“醒了”？,'Awake'?,«Проснулся»?
+line-153,阿斯卡纶,注意侧方。,Watch the sides.,Следи за флангами.
+line-175,阿斯卡纶,很诡异，它们死不透。,Very strange. These things won't die.,"Очень странно, они не умирают окончательно."
+line-177,,阿斯卡纶的袖刃弹出，指向不远处一片浮动不定的阴影。,Ascalon points her sleeve-blade towards a wavering shadow not far away.,"Ручные клинки Аскалон выдвинулись, указывая на колеблющуюся тень неподалеку."
+line-178,,重重叠叠的人影如鬼魅般浮现，从阴影中不断涌出。每一个脚步落下时，都伴随着结晶破碎的声响。,"Silhouettes manifest from the shadows like ghosts, every step accompanied by the sound of crystal cracking.","Многослойные силуэты, словно призраки, всплыли и начали нескончаемым потоком выходить из тени. Каждый их шаг сопровождался хрустом разрушающихся кристаллов."
+line-180,Misery,它们身上的衣服——整合运动？还有食腐者......真是再见到谁都不会奇怪了。,The clothes they wear—Reunion? And Nachzehrers too... nothing can surprise me now.,"Одежда на них — это «Воссоединение»? И «Сборщики»... что ж, уже ничему не удивляюсь."
+line-182,阿斯卡纶,它们的身体完全由源石构成，不能用过去的经验来判断。,Their bodies are composed entirely of Originium. We cannot rely on past experience.,"Их тела полностью состоят из Ориджиниума, нельзя полагаться на прежний опыт."
+line-184,Misery,明白了，那就随机应变。,Guess we'll have to improvise.,"Понял, будем импровизировать."
+line-186,阿斯卡纶,不能一直被动留在原地，要先找到这些东西的来源。,We can't just stay here. We have to find where these things came from.,"Нельзя всё время пассивно оставаться на месте, нужно найти источник этих существ."
+line-188,Misery,我们暂时无法确定这些敌人的目的。博士那边的情况还不清楚，如果......,"The intention of these enemies is unclear, as is the situation on the Doctor's side. If...","Мы пока не можем определить цели врага. Ситуация у Доктора до сих пор неясна, если..."
+line-190,阿斯卡纶,博士那边有阿米娅在，无需担忧。,Amiya is with the Doctor. No need to worry.,"Доктор под защитой Амии, волноваться не о чем."
+line-191,阿斯卡纶,继续执行我们的任务——确定异变的根源。,We continue with our mission—ascertaining the source of the abnormal events.,Продолжаем выполнять наше задание — установить корень этих аномалий.
+line-193,阿斯卡纶,如果这就是凯尔希一直在戒备的状况，这些东西必然在遵循某个未知意志的指挥......,"If this is what Kal'tsit was guarding against, then these things must follow the command of some unknown actor...","Если это та самая ситуация, к которой Кель'си готовилась всё это время, эти твари неизбежно следуют воле какого-то неизвестного разума......"
+line-199,Misery,通讯也被隔离了，还是没法联系上其他人。,Communications are still out. We can't reach anyone else.,"Связь тоже изолирована, до сих пор не могу связаться с остальными."
+line-200,Misery,不知道其他的精英干员——,I wonder if the other elite operators—,"Не знаю, что с остальными элитными операторами —"
+line-201,Misery,阿斯卡纶......,Ascalon...,Аскалон......
+line-204,,走过身旁的源石结晶时，Misery敏锐地从结晶的多个棱面中捕捉到了一个一晃而过的身影。,"As they pass by the Originium crystals, Misery catches a glimpse of a fleeting image in the multi-faceted reflections of the crystals.","Проходя мимо кристалла Ориджиниума, Misery отчетливо заметил в его гранях промелькнувшую фигуру."
+line-206,Misery,我好像看到了Outcast？,Did I just see Outcast?,"Мне показалось, или я видел Ауткуст?"
+line-216,,咔、咔——,"Clack, clack—","Клац, клац——"
+line-217,,一只利爪从源石结晶的表面剥离，继而是蜷曲的犄角、嶙峋的躯干和一根长满尖刺的长尾。,"A sharp claw separates itself from the surface of the Originium crystal, then curled horns, rugged silhouette, and spiked tail.","Острый коготь отделился от поверхности кристалла Ориджиниума, затем показались свернутые рога, костлявое туловище и длинный хвост, покрытый шипами."
+line-218,,这样的生物曾不止一次地出现在罗德岛的作战记录中，但在任何记载里，它都并非由纯粹的源石构成。,"This creature is not unfamiliar to Rhodes Island's battle records, but never has it been composed solely of Originium.","Такие существа уже не раз фигурировали в боевых сводках «Родоса», но ни в одной из них не было сказано, что оно состоит из чистого Ориджиниума."
+line-221,,就在这前所未见的生命形式即将迈出它的第一步时，一根冷箭贯穿了它的咽喉，击碎了它的头颅。,"As the never-before-seen form of life takes its first step, an arrow impales its throat and shatters its skull.","В тот самый момент, когда эта невиданная форма жизни собиралась сделать свой первый шаг, холодная стрела пронзила её горло, расколов череп."
+line-225,Stormeye,——暂时安全了。,—Safe. For now.,—— Временная безопасность.
+line-230,,Stormeye靠在墙上，大口喘息了片刻，才匆忙处理起身上的伤口。,"Stormeye leans against the wall and pauses to catch his breath, before tending to his wounds.","Stormeye прислонился к стене и тяжело дышал несколько мгновений, прежде чем спешно обработать раны на теле."
+line-232,Stormeye,还好......不会影响战斗。,At least it won't hinder me in battle.,Хорошо...... на боеспособность не повлияет.
+line-237,通讯中的声音,（杂乱的噪音）,(Static),(Хаотичный шум)
+line-239,Stormeye,Sharp，Sharp，能否收到消息？,"Sharp. Come in, Sharp. Can you hear me?","Шарп, Шарп, слышишь меня?"
+line-240,Stormeye,尝试留下任何可辨识信号，我去找你会合。,"If you hear me, leave a sign somewhere, any way you can. I'll come and find you.","Попробуй оставить хоть какой-то распознаваемый сигнал, я иду на встречу с тобой."
+line-242,通讯中的声音,（杂乱的噪音）,(Static),(Хаотичный шум)
+line-244,Stormeye,......该死——,...Dammit—,......Черт——
+line-246,通讯中的声音,滋——Stor......Stormeye——警惕——滋——,*Bzzt*—Stor...Stormeye—Careful—*bzzt—,"шш—— Стор...... Сторми, будь осторожен—— шш——"
+line-248,Stormeye,Sharp？！同步位置！,Sharp?! What's your location?,Шарп?! Скинь координаты!
+line-250,通讯中的声音,滋——接敌——Whitesmith——住手——,*Bzzt*—Engaging—Whitesmith—Stop—,шш—— бой—— Уайтсмит—— остановись——
+line-252,Stormeye,......？等我。,...? Wait for me!,......? Жди меня.
+line-262,源石侵蚀的机械,......援助......,...Assist...,......помощь......
+line-264,,更多失控的机械造物从走廊两侧涌了出来，它们眼中的光芒按照相同的频率闪烁。,"More rampaging machines rush into the corridor, the light in their eyes flashing in sync.","Из коридоров по обе стороны показалось ещё больше вышедших из-под контроля механических созданий, свет в их глазах мерцал с одинаковой частотой."
+line-265,,它们简陋的发声单元似乎突破了设计的限制，一遍遍重复着求救的呼喊。,"Their simple voice units repeat a call for help, defying the limitations of their design.","Их примитивные голосовые модули, казалось, преодолели конструктивные ограничения, раз за разом повторяя призыв о помощи."
+line-267,Stormeye,不是现在！,Not now!,Не сейчас!
+line-282,,Stormeye射出的箭矢精准地摧毁了两台失控机械的核心，接着他便头也不回地向来路奔去。,"Stormeye's arrow pierces the cores of two of the machines with unerring accuracy. Then he makes a run for it, not pausing to look back.","Стрела, пущенная Stormeye, точно уничтожила ядра двух вышедших из-под контроля механизмов, после чего он, не оглядываясь, бросился обратно."
+line-289,Stormeye,至少......三十个。,At least... thirty.,Как минимум...... тридцать.
+line-290,Stormeye,前面的岔路口......,A fork...,Впереди развилка......
+line-292,,两条几乎一模一样的走廊在Stormeye眼前不断延伸。,Two virtually identical corridors extend as far as Stormeye's eye could see.,Перед Stormeye бесконечно тянулись два почти идентичных коридора.
+line-293,,罗德岛内部的道路已陷入无序的变化，谁也不知道这刚刚出现的走廊分别通向怎样的命运。,"The pathways within Rhodes Island are undergoing constant, haphazard changes. No one knows to which fates the diverging corridors lead.","Дороги внутри «Родоса» погрузились в хаотичные изменения, никто не знает, к какой судьбе приведут эти внезапно появившиеся коридоры."
+line-294,,而在他身后，那群失控的机械已经追了上来。,The rampaging machines are catching up.,А за его спиной группа обезумевших машин уже настигала его.
+line-304,Mon3tr,（愤怒的嘶鸣）,(Furious howl),(Сердитое шипение)
+line-306,凯尔希,意外比我们预估的要来得早一点，罗德岛还没有做好应对的准备。,Faster than expected. Rhodes Island is not ready.,"Неожиданность наступила раньше, чем мы предполагали, «Родос» ещё не готов к такому ответу."
+line-307,凯尔希,面对她的话，无论什么样的准备都称不上万全。,If there is such a thing as being ready for her.,"Перед лицом того, что она из себя представляет, никакая подготовка не может быть исчерпывающей."
+line-309,Mon3tr,（警惕的低吼）,(Alerted growl),(Настороженное рычание)
+line-311,凯尔希,但是显然，她的状态也存在某些问题，否则不应该用如此低效的手段。,"However, something is clearly not right with her as well. She would not resort to such inefficient means otherwise.","Но очевидно, что её текущее состояние тоже вызывает вопросы, иначе она не использовала бы столь низкоэффективные методы."
+line-312,凯尔希,现在恐怕是我们能够取得优势的最后机会了。,This may be our last chance to gain the upper hand.,"Сейчас, вероятно, наш последний шанс получить преимущество."
+line-318,源石结晶体,（沉默地逼近）,(Approaches silently),(Бесшумно приближается)
+line-321,凯尔希,Mon3tr，突破一条通路即可，不必恋战。,"Clear a way, Mon3tr. Don't get stuck in a fight.","Mon3tr, достаточно пробить путь, не ввязывайся в затяжной бой."
+line-322,凯尔希,局势很危急，必须抓紧时间。,Time is of the essence.,"Ситуация критическая, нужно поторопиться."
+line-324,,凯尔希眼前的通路再次发生了骤变，试图扰乱她前进的方向。,"The passage before Kal'tsit changes again, in an attempt to lead her astray.","Путь перед Кель'си снова внезапно изменился, пытаясь сбить её с толку."
+line-325,,但空间的诡变于凯尔希并无作用，她依旧能够感知到那里——Dr.{@nickname}的石棺。,But the warping of space does not affect Kal'tsit. She can still sense her target—the Sarcophagus of Dr. {@nickname}.,"Но странные метаморфозы пространства не действовали на Кель'си, она всё ещё чувствовала направление — саркофаг Доктора."
+line-326,,那是被铭刻在她底层记忆中的信息。,The information is etched into the bottommost layer of her memory.,Эта информация была глубоко запечатлена в её памяти.
+line-334,凯尔希,Mon3tr，拦住所有靠近石棺的危险目标。我需要你帮我争取一些时间。,Mon3tr. Eliminate all threats that approach the Sarcophagus. Buy me time.,"Mon3tr, блокируй все опасные цели, приближающиеся к саркофагу. Мне нужно, чтобы ты выиграл мне немного времени."
+line-337,Mon3tr,（兴奋的嘶吼）,(Excited howling),(Восторженный рык)
+line-339,,她重新站到了这个熟悉的石棺之前。,"Once again, she stands before the familiar Sarcophagus.",Она снова стояла перед этим знакомым саркофагом.
+line-340,,曾经，她将沉眠在其中的希望唤醒，却最终只收获了难以抹去的痛苦。,"Once, she awoke the hope that slumbered within, only to find pain that could not be easily wiped away.","Когда-то она пробудила надежду, спящую внутри, но в итоге обрела лишь неизгладимую боль."
+line-341,,此时，这也是最后的希望。,"Now, it is their last hope.",Сейчас это была последняя надежда.
+line-343,凯尔希,我不能完全保证这能够奏效，Mon3tr。,"I can't guarantee that this is going to work, Mon3tr.","Я не могу гарантировать, что это сработает, Mon3tr."
+line-344,凯尔希,但我也不会坐视渺茫的机会从我的手中溜走。,But I won't just sit around and watch a fighting chance slip away.,Но я не позволю ускользнуть даже призрачному шансу.
+line-347,,凯尔希走向了石棺，她将一朵白色的花放在其上。,Kal'tsit walks towards the Sarcophagus and places a white flower on top of it.,Кель'си подошла к саркофагу и положила на него белый цветок.
+line-355,凯尔希,这是她遗留的馈赠，当时的她还不知道，这是从“神明”那里盗取的火种。,This is her legacy. Little did she know at the time that it was fire stolen from the 'gods'.,"Это наследие, оставленное ею, в то время она ещё не знала, что это был огонь, украденный у «богов»."
+line-356,凯尔希,......我们都要去挑战那些更高的存在，才能夺来一线生机。,...We must all challenge those higher beings and fight for a chance to live.,"......Мы все должны бросить вызов этим высшим сущностям, чтобы завоевать хоть какой-то шанс на выживание."
+line-357,Mon3tr,（紧张的低鸣）,(Nervous growl),(Напряженный стон)
+line-358,凯尔希,如果发生了什么意外，Mon3tr，接下来需要你自行判断行动策略。,"If something goes wrong, Mon3tr, act on your own discretion.","Если произойдет что-то непредвиденное, Mon3tr, дальше действуй по своему усмотрению."
+line-364,,她进入了石棺之中。,She enters the Sarcophagus.,Она вошла внутрь саркофага.
+line-372,Raidian,唔，干扰过于严重。,The interference is really bad.,"Хм, помехи слишком сильные."
+line-373,Raidian,不仅无法接收到任何信号，这里的环境甚至在压制我的源石技艺。,"Not only am I not getting any signals, my Originium Arts are also being suppressed by the environment.","Мало того, что я не могу получить ни одного сигнала, здешняя среда даже подавляет моё искусство Ориджиниума."
+line-374,Raidian,得想办法——,"Think, think—",Надо что-то придумать——
+line-380,,“Raidian......”,'Raidian...',«Raidian......»
+line-384,Raidian,这个信号特征——？！PRTS？,This signal profile—PRTS?!,Этот сигнатурный признак——?! PRTS?
+line-386,Raidian,是可露希尔吗？怎么可能......终端上明明依旧显示断线。,Closure? But the terminal still shows disconnected.,"Это Клозир? Как возможно...... на терминале ясно сказано, что связи нет."
+line-390,,“追踪我......”,'Track me...',«Следуй за мной......»
+line-393,,Raidian跟随那微弱的信号，却定位到了完全出乎意料的人。,Raidian tracks the faint signal to an unexpected source.,"Raidian следовала за слабым сигналом, но обнаружила того, кого совсем не ожидала."
+line-395,Raidian,凯尔希医生？！,Dr. Kal'tsit?!,Доктор Кель'си?!
+line-396,Raidian,怎么会，你的状态——无论你怎么做到的，你必须——,"How? But you're—no matter how you did it, you need to—","Как это возможно, ваше состояние—— независимо от того, как вы это сделали, вы должны——"
+line-398,Raidian,......不，你已经不能停下了。,"...No, you can't stop now.","......Нет, вы уже не можете остановиться."
+line-399,Raidian,谢谢你，凯尔希医生。,"Thank you, Dr. Kal'tsit.","Спасибо вам, Доктор Кель'си."
+line-400,Raidian,我知道接下来该做什么了。,I know what to do now.,"Я знаю, что делать дальше."
+line-405,,“这里是Raidian。”,'This is Raidian speaking.',«На связи Raidian.»
+line-406,,“依托特殊的助力，我已建立覆盖全舰的临时电磁通讯环境。”,"'With assistance, I have been able to establish a temporary electromagnetic communications environment.'","«Благодаря особой помощи, я создала временную электромагнитную среду связи, покрывающую весь корабль.»"
+line-407,,“根据凯尔希医生的情报，造成如今一系列异状的根源，就在罗德岛上名为Abyss的核心区域。”,'Intel provided by Dr. Kal'tsit indicates that the abnormal events currently occurring on Rhodes Island originated from the core area known as the Abyss.',"«Согласно данным доктора Кель'си, корень нынешних аномалий находится в центральной зоне Родоса, называемой Бездной (Abyss).»"
+line-408,,“现在我会将Abyss的基本信息同步给各位。接下来需要各位精英干员在保证自身安全的情况下，锁定Abyss的位置。”,"'You are now receiving a briefing about the Abyss. All elite operators are asked to locate the Abyss, while making every effort to ensure your own safety.'","«Сейчас я передам вам основную информацию об Abyss. Элитным операторам необходимо, обеспечив собственную безопасность, определить местонахождение Abyss.»"
+line-409,,“重复一遍，定位Abyss，但不要擅自靠近，时刻保持联络。”,"'I repeat. Locate the Abyss, but do not approach without permission. Maintain constant communication at all times.'","«Повторяю, локализуйте Abyss, но не приближайтесь самостоятельно, поддерживайте постоянную связь.»"
+line-410,,“所有精英干员，请继续执行你们的任务——”,"'Do your duty, elite operators—'","«Все элитные операторы, пожалуйста, продолжайте выполнять свою задачу——»"
+line-411,,“凯尔希医生会成为你们的眼睛。”,'Dr. Kal'tsit will be your eyes.',«Доктор Кель'си будет вашими глазами.»
+line-421,Pith,......凯尔希？谢谢。,...Kal'tsit? Thanks.,......Кель'си? Спасибо.
+line-422,Pith,所有尚能战斗的罗德岛干员们，我是Pith。向我汇报你们目前的情况。,This is Pith calling to all combat-effective operators. Report.,"Всем боеспособным операторам «Родоса», я Pith. Докладывайте о текущей обстановке."
+line-425,阿兰娜,我们还在阻止这些不断溢出来的怪东西！,We're still trying to stop these... things!,"Мы всё ещё сдерживаем этих тварей, которые постоянно вылезают!"
+line-426,阿兰娜,但怎么也清不干净！,But they just keep coming!,Но их невозможно до конца перебить!
+line-428,Pith,我们尚无直接处理这些源石敌人的有效手段，所有策略以自保为最终目的。,We lack the means to completely neutralize these hostile Originium entities. Survival is your first priority.,"У нас нет эффективных средств борьбы с этими врагами из Ориджиниума, все стратегии должны быть направлены на самосохранение."
+line-429,Pith,受伤者不许恋战，即刻向Touch求援！,Any injured personnel are to immediately disengage and seek assistance from Touch.,"Раненым не ввязываться в бой, немедленно запрашивайте помощь у Touch!"
+line-439,华法琳,凯尔希......你又干了什么？,Kal'tsit... what have you done THIS time?,Кель'си...... что ты опять натворила?
+line-441,克洛伊,华法琳医生，小心！,Dr. Warfarin! Look out!,"Доктор Вафарлин, осторожно!"
+line-443,华法琳,这些怪东西暂时还没法伤到我。只是它们实在太多了，要护着你们不被伤害确实有点棘手。,These things can't hurt me for now. But there are too many of them. It's not easy trying to protect everyone.,"Эти твари пока не могут мне навредить. Просто их слишком много, трудно защитить вас, не получив повреждений."
+line-445,华法琳,不过按照刚刚Raidian同步的资料，这些家伙是杀不死的。,Raidian's intel indicates that these things can't be killed.,"Однако, судя по материалам, переданным Raidian, эти гады бессмертны."
+line-447,克洛伊,“杀”......华法琳医生，它们......还算得上有生命吗？,'Kill'... are these things even alive?,"«Убить»...... доктор Вафарлин, они...... считаются живыми существами?"
+line-448,克洛伊,Touch医生和凯尔希医生是不是也遇到了这些怪物？,Have Dr. Touch and Dr. Kal'tsit run into these monsters too?,Доктор Тач и доктор Кель'си тоже встретили этих монстров?
+line-450,华法琳,保护好你自己，我们没你想的那么脆弱——,Protect yourself. We're not as weak as you think—,"Береги себя, мы не такие хрупкие, как ты думаешь——"
+line-477,华法琳,*萨卡兹粗口*！,*Sarkaz expletive*!,*Сарказм сарказов*!
+line-490,华法琳,我真想把你们全都拆散了，看看你们到底会不会彻底死透——,"What I wouldn't do for a chance to take you apart, piece by piece, to find out for sure whether you monsters can die—","Я бы хотела разобрать вас всех на части, чтобы посмотреть, окончательно ли вы сдохнете——"
+line-492,华法琳,克洛伊，闪开！,"Get clear, Chloe!","Клои, отойди!"
+line-496,,持续拥上来的源石结晶体不断冲向华法琳，而就在她无暇顾及的瞬间，已经有两个源石结晶体突破了她的防御。,The Originium entities continue to rush towards Warfarin. Two successfully penetrate her defenses.,"Кристаллы Ориджиниума продолжали напирать на Вафарлин, и в тот самый момент, когда ей было не до защиты, двое прорвались сквозь её оборону."
+line-497,,它们来到了克洛伊的面前，抬起了手——,They raise their hands towards Chloe—,Они подошли к Клои и подняли руки——
+line-500,,随后停住了。没有攻击，反倒像是一种邀请，邀请眼前这个几乎快要触及死亡的病人——,"Then stop. Their motion is not one of aggression, more like an invitation to the patient in front of them, one who is so close to death's door—","Затем замерли. Никакой атаки, скорее похоже на приглашение, приглашение для пациента, который почти коснулся смерти——"
+line-506,克洛伊,......,......,......
+line-509,华法琳,——？！,——?!,——?!
+line-513,源石结晶体,（寂静地凝视）,(Gazes silently),(Молчаливо наблюдает)
+line-516,华法琳,退后！不要接触它们！,Get back! Don't touch them!,Назад! Не трогай их!
+line-520,克洛伊,可、可我能听到他在......哀嚎？那些痛苦的声音，就像刻在我的脑子里一样......,B-But I can hear him... screaming? It's like those pained voices are etched into my mind...,"Но, но я слышу, как он...... стонет? Эти мучительные звуки, как будто они вырезаны у меня в мозгу......"
+line-521,克洛伊,我们、我们很像......很像......,W-We're very... alike...,"Мы, мы так похожи...... так похожи......"
+line-526,,克洛伊握住了源石结晶体的手，眼神中却满是悲伤。,Chloe takes the hand of the Originium entity. Her eyes are filled with sorrow.,"Клои взяла кристалл Ориджиниума за руку, но в её глазах была лишь печаль."
+line-528,克洛伊,为什么......你们反倒不会伤害我......,Why... why don't you hurt me?,Почему...... вы не причиняете мне вреда......
+line-529,克洛伊,......同类？,...Are we the same?,......Сородичи?
+line-532,华法琳,......是因为你的感染？从你身上发现的那些以前我们从未见过的病征......源石在改变。,Is it because of your infection? The symptoms we've never seen before... Originium is changing.,"......Это из-за твоего заражения? Те симптомы, которые мы обнаружили у тебя и никогда не видели раньше...... Ориджиниум меняется."
+line-533,华法琳,——所以你的矿石病病理进程才超出了我们的预计！,—That's why your condition progressed quicker than expected!,——Поэтому патологический процесс твоей орипатии превысил наши прогнозы!
+line-537,克洛伊,......华法琳医生，是不是这意味着我能帮你们找到对付它们的方法？,Does this mean I can help you find a way to deal with them?,"......Доктор Вафарлин, означает ли это, что я могу помочь вам найти способ борьбы с ними?"
+line-538,克洛伊,我想试试，我想帮你们。,I want to try. I want to help you.,"Я хочу попробовать, я хочу помочь вам."
+line-539,克洛伊,我不希望你失望，也不想Touch医生和凯尔希医生受伤......,"I don't want to disappoint you, or let Dr. Touch or Dr. Kal'tsit get hurt...","Я не хочу вас разочаровывать, и не хочу, чтобы доктор Тач или доктор Кель'си пострадали......"
+line-549,,华法琳驱逐了那个与克洛伊对视的源石结晶体，守护在这个可怜的病人身前。,Warfarin repels the Originium entity in front of Chloe and stands before her patient in a defensive posture.,"Вафарлин отогнала кристалл Ориджиниума, который смотрел на Клои, защищая этого бедного пациента."
+line-551,华法琳,你知道这个承诺意味着什么吗？,Do you understand what it is you're offering?,"Ты понимаешь, что означает это обещание?"
+line-553,克洛伊,（微笑）我不清楚，但我也不害怕。,(Smiles) I don't. But I'm not afraid.,"(Улыбаясь) Я не знаю, но я и не боюсь."
+line-588,Sharp,你的速度没有你夸口的那么快，Stormeye。,"Not as fast as you say, Stormeye.","Твоя скорость не так велика, как ты хвастался, Stormeye."
+line-590,Stormeye,地形变动太大，耽误了些时间。,I got sidetracked by the changes to the deck plan.,"Рельеф изменился слишком сильно, это заняло время."
+line-591,Stormeye,幸好有凯尔希医生和Raidian重建了通讯，否则难说还会遇到什么。,"Luckily, Dr. Kal'tsit and Raidian were able to reestablish communications. Who knows what else I would've run into.","К счастью, доктор Кель'си и Raidian восстановили связь, иначе сложно сказать, с чем бы мы ещё столкнулись."
+line-592,Stormeye,你在通讯里提到了Whitesmith？,You mentioned Whitesmith over the radio?,Ты упоминал Уайтсмит в сообщении?
+line-594,Sharp,......,......,......
+line-595,Sharp,前一秒她还远远地招呼我到她的炉火前喝酒跳舞，但下一秒她就消失不见，只留下了一堆被源石污染的机械从锻炉里爬出来攻击我。,"One instant she was inviting me to drink and dance in front of her fire. The next instant she was gone, leaving only a bunch of Originium-polluted machines crawling out of the furnace to attack me.","Секунду назад она издалека звала меня пить и танцевать у её горна, а в следующую секунду исчезла, оставив после себя лишь гору зараженных Ориджиниумом машин, которые вылезли из кузницы, чтобы атаковать меня."
+line-597,Stormeye,幻觉？,A hallucination?,Галлюцинации?
+line-599,Sharp,我分得清什么是真，什么是假，Stormeye。但刚刚的情况，绝对已经超过了我的认知。,"I can tell what's real and what's not, Stormeye. But what's happening here is beyond anything I can comprehend.","Я могу отличить правду от лжи, Stormeye. Но то, что произошло только что, определенно выходит за рамки моего понимания."
+line-600,Sharp,但恐怕并不只有我遇到了这种怪事。,Not that I'm the only one who's seeing strange things.,"Но боюсь, не я один столкнулся с такой странностью."
+line-603,,源石的晶簇正以肉眼可见的速度生长，他们对这些石头本不陌生，但现在，那些晶石的棱面却仿佛连他们的思维都要吸进去。,"Originium formations are growing at a visible pace. They thought they knew Originium well enough, but now the facets of the crystals threaten to draw their very minds in.","Кристаллические скопления Ориджиниума росли с видимой скоростью, они были не понаслышке знакомы с этими камнями, но сейчас грани кристаллов, казалось, готовы поглотить даже их мышление."
+line-607,Stormeye,......？,...?,......?
+line-609,,Stormeye眯起眼睛，他明明看见Sharp在开口说话，但他的耳中却听不到一点动静。,"Stormeye narrows his eyes. He sees Sharp's mouth moving, but his ears hear nothing.","Stormeye прищурился, он видел, как Шарп открывает рот, говоря что-то, но его уши не слышали ни звука."
+line-610,,一切都安静了下来。渐渐地，连自己的心跳声都听不到了。,"All is quiet. Soon, he cannot even hear his own heartbeat.",Всё затихло. Постепенно он перестал слышать даже биение собственного сердца.
+line-611,,然后，他看见Sharp脸上的表情也发生了变化。,The expression he sees on Sharp's face changes.,"Затем он увидел, что выражение лица Шарпа изменилось."
+line-613,,下一刻，所有的声音都从罗德岛上消失了，Raidian建立起的电磁通讯信道中也只剩下一片死寂。,"The next instant, all sound disappears from Rhodes Island, leaving only dead silence in the communications channel that Raidian established.","В следующий момент все звуки исчезли с Родоса, а электромагнитный канал связи, установленный Raidian, погрузился в гробовую тишину."
+line-617,,“Stormeye，快点跟上来。”,"'Don't fall behind, Stormeye.'","«Stormeye, поторопись за мной.»"
+line-621,,他看到了一些熟悉的身影，他们也曾情同手足......,"He sees familiar figures, men who were once brothers to him...","Он увидел несколько знакомых фигур, они были ему как братья......"
+line-623,Stormeye,——？！,——?!,——?!
+line-625,,他与曾经共同流浪的兄弟重逢了。可明明......他们早已死去了。,He has been reunited with the brothers from his wandering days. But they died long ago...,"Он воссоединился со своими братьями, с которыми когда-то скитался. Но ведь...... они давно погибли."
+line-629,,“刚抢来的啤酒，再不喝可就变温了。你在担心什么？”,'That beer we looted is gonna get warm if you don't drink it quick. What are you so worried about?',"«Только что добытое пиво, не выпьешь — согреется. О чем ты беспокоишься?»"
+line-634,Stormeye,（无声的话语）,(Soundless words),(Беззвучные слова)
+line-638,,“是啊，石头已经长到我的喉咙上了，但只要它没长到舌头上，就不影响我喝酒。”,"'Yeah, the rocks have gotten to my throat, but I can still drink. Haven't gotten my tongue yet.'","«Да, камень уже вырос у меня на горле, но пока он не дошел до языка, пить мне не мешает.»"
+line-639,,“难道你真想跟着那群人走？呵，那你去吧，要是你死在了那个叫罗德岛的地方，我不会为你流泪的。”,'You really want to go with those people? Suit yourself. Won't shed any tears for you if you die on that Rhodes Island.',"«Неужели ты правда хочешь уйти за теми людьми? Ха, тогда иди, если умрешь в этом Родосе, я не буду лить по тебе слёз.»"
+line-640,,“但......你走之前，在这营火边再坐一会儿吧。月亮快要升起来了，不想看看吗？”,'But... sit a while longer by the fire before you go. The moons are almost up. Don't you want to see them?',"«Но...... перед тем как уйти, посиди ещё немного у этого костра. Луна скоро взойдет, не хочешь взглянуть?»"
+line-643,,他曾无比渴望能和这些好兄弟们有一个平静的告别，但Stormeye此刻只感受到了愤怒。,"He had yearned for a peaceful parting with his brothers, but right now all Stormeye feels is anger.","Он когда-то отчаянно жаждал спокойного прощания с этими братьями, но сейчас Stormeye чувствовал лишь ярость."
+line-651,,与此同时，罗德岛的另一边。,"At the same time, on the other side of Rhodes Island...","Тем временем, на другой стороне Родоса."
+line-655,,“你要去哪？”,'Where are you going?',«Куда ты направляешься?»
+line-660,阿斯卡纶,......,......,......
+line-664,,“阿斯卡纶，你已经见到了我。”,"'You've already found me, Ascalon.'","«Аскалон, ты уже встретила меня.»"
+line-665,,“不必再往前了。”,'There's no need to go any further.',«Не нужно идти дальше.»
+line-674,,Misery及时推醒了阿斯卡纶，才让她躲过了一团爆裂开的源石晶簇。,Only a timely push by Misery saved Ascalon from the flying Originium shrapnel.,"Misery вовремя привел Аскалон в чувство, позволив ей увернуться от взорвавшегося скопления кристаллов Ориджиниума."
+line-678,,“Misery，我之前的赌约还没结束呢。”,"'We haven't settled our bet yet, Misery.'","«Misery, наш спор ещё не окончен.»"
+line-679,,“别走神，你看，我的铳里还剩下四发子弹。”,"'Don't get distracted. Look, I still have four rounds left in my gun.'","«Не отвлекайся, смотри, у меня в пистолете осталось четыре пули.»"
+line-684,Misery,......,......,......
+line-686,,环境中的源石突兀地生长，而那些来历不明的结晶敌人也出现得越来越频繁，还有这些让他们不得不分心的“幻影”——,"Originium is growing rampant, and the appearances of the mysterious Originium enemies are ever more frequent, accompanied by 'illusions' that they cannot help but be distracted by—","Ориджиниум в окружающей среде рос неестественно быстро, враги из кристаллов неизвестного происхождения появлялись всё чаще, а ещё эти «фантомы», заставляющие их терять концентрацию——"
+line-687,,周围发生的一切，都意味着这片区域正在竭尽一切将他们驱逐出去。,The very place itself is trying to drive them out.,"Всё, что происходило вокруг, означало, что эта зона делает всё возможное, чтобы их вытеснить."
+line-688,,“我已经定位了Abyss的大致所在”，阿斯卡纶想要将这个消息告诉Raidian......,"Ascalon wants to reach Raidian, to tell her that the Abyss has been located...","«Я определила примерное местоположение Abyss», — Аскалон хотела сообщить об этом Raidian......"
+line-689,,但源石吞噬了所有人的声音。,But the Originium drowns out all sound.,Но Ориджиниум поглотил все голоса.
+line-690,,"这死一般的寂静，是一个巨大的谜，一座铅铸的坟墓，要将罗德岛拖入无可逃避的深渊—— ","The deathly silence is a mystery, a tomb made of lead, threatening to drag Rhodes Island into an abyss from which there is no escape—","Эта гробовая тишина — огромная загадка, свинцовая могила, которая должна была увлечь Родос в неизбежную бездну——"
+line-694,,“这里是Mantra。”,'This is Mantra'.,«На связи Mantra.»
+line-695,,“凯尔希医生联系上了我，我无法容忍回忆和情感被亵渎。”,'I've spoken to Dr. Kal'tsit. I will not suffer this mockery of memory and emotion.',"«Доктор Кель'си связалась со мной, я не могу допустить, чтобы воспоминания и чувства осквернялись.»"
+line-697,,Mantra的声音在罗德岛全舰每个干员的脑中响起，这是她的源石技艺。每个人都能感受到其中的力量，还有愤怒的情感。,"Every operator on Rhodes Island hears Mantra's voice in their head. It is her Originium Arts, the power and fury of which all of them can sense.","Голос Mantra зазвучал в мозгу каждого оператора Родоса, это было её искусство Ориджиниума. Каждый мог почувствовать исходящую от него силу, а также яростные эмоции."
+line-704,,“它试图用沉默来阻止我们。”,'If it tries to stop us with silence—',«Оно пытается остановить нас с помощью тишины.»
+line-705,,“那我就成为诸位联系各方的咽喉——”,'—Then I will be the voice that connects us.',"«Тогда я стану горлом, через которое вы все будете общаться——»"
+line-706,,“诸位，现在，我把声音还给你们。”,"'Now, I return your voices to you.'","«Господа, сейчас я возвращаю вам ваши голоса.»"
+line-715,阿米娅,是Mantra女士！,It's Mantra!,Это госпожа Mantra!
+line-717,阿米娅,她正把目前所有人收集到的情报同步给我们。,She's sharing the information that the others have collected.,"Она синхронизирует всю информацию, собранную всеми нами."
+line-718,阿米娅,阿斯卡纶和Misery已经定位到了靠近Abyss的位置。,Ascalon and Misery are close to the Abyss.,Аскалон и Misery уже локализовали местоположение вблизи Abyss.
+line-719,阿米娅,他们把Abyss的特征信号同步给了Raidian，即便空间结构折叠变化，她也可以再次追踪到它的位置。,"They've sent over the Abyss's signal profile to Raidian, who will be able to trace it, even if the spatial environment changes again.","Они синхронизировали сигнатуры Abyss с Raidian, даже если пространственная структура сворачивается и меняется, она может снова его отследить."
+line-720,阿米娅,现在他们决定暂时守住那片区域，配合Raidian建立以他们自身生物信号为主的信息锚点。,"They are currently holding position, helping Raidian establish an information anchor based on their own biosignals.","Теперь они решили временно удерживать ту зону, сотрудничая с Raidian, создавая информационные якоря, основанные на их собственных биологических сигналах."
+line-723,,太危险。;他们需要增援。,It's too dangerous.;They need reinforcements.,Слишком опасно. Им нужна подмога.
+line-726,阿米娅,煌和迷迭香已经回应了他们，增援不会拖延太久。,Blaze and Rosmontis are on their way. It won't take long.,"Блейз и Розмарис уже ответили им, подкрепление не заставит себя ждать."
+line-728,阿米娅,博士，我也很担心凯尔希医生。,"I'm worried about Dr. Kal'tsit too, Doctor.","Доктор, я тоже очень переживаю за доктора Кель'си."
+line-729,阿米娅,根据Raidian的情报，凯尔希医生目前的状况不容乐观......,Raidian's information indicates that Dr. Kal'tsit is in a dangerous predicament...,"Согласно данным Raidian, состояние доктора Кель'си сейчас далеко не радужное......"
+line-732,,以阿斯卡纶和Misery所在位置为集结点重整队伍。,Regroup at Ascalon and Misery's position.,"Перегруппироваться, используя местоположение Аскалон и Misery как опорный пункт."
+line-734,,然后我们一起寻找突破Abyss的方法。,"Then, we'll work together to find a way through the Abyss.",Затем мы вместе найдем способ прорваться в Abyss.
+line-736,,我们不会让凯尔希等待太久。,We won't make Kal'tsit wait too long.,Мы не заставим Кель'си долго ждать.
+line-739,阿米娅,嗯。现在依靠Raidian和Mantra女士的源石技艺，我们的通讯系统可以暂时继续运作。但她们的源石技艺都会对身体造成极大的负担。,"Yeah. We're able to maintain communications thanks to Raidian and Mantra's Arts, but this puts a lot of stress on both of them.","Хм. Сейчас, опираясь на искусства Ориджиниума Raidian и госпожи Mantra, наши системы связи могут временно работать. Но их искусства ложатся огромной нагрузкой на их тела."
+line-740,阿米娅,时间很紧张，博士，我们快走吧。,"Time is of the essence, Doctor. Let's go.","Время не ждет, Доктор, пошли скорее."
+line-743,,你牵着阿米娅小心地在源石晶簇中穿行，你可以精准地计算出它们爆发的位置和时间，这足以带来极大的优势。,You carefully lead Amiya through a forest of Originium shards. Your ability to precisely predict when and where explosions will occur is a major advantage.,"Ты, держа Амию за руку, осторожно пробираешься сквозь кристаллические скопления Ориджиниума, ты можешь точно вычислить место и время их вспышек, что дает огромное преимущество."
+line-744,,但就在你们聚精会神地行进时，你并未注意到刚刚路过的那根巨大的源石结晶上的细节。,"Focused on the path ahead, you fail to notice a little detail on the massive crystal formation that you just passed.","Но пока вы сосредоточенно продвигаетесь вперед, ты не заметил деталей на огромном кристалле Ориджиниума, мимо которого только что прошли."
+line-746,,源石结晶光滑的棱面正对着你们，但上面倒映出的却并非你们的身影。,It is not your figures that are reflected in the smooth surface of the Originium crystal.,"Гладкая грань кристалла обращена прямо к вам, но в ней отражены вовсе не вы."
+line-747,,一个背对着你们的卡特斯女孩，她瘦弱纤细的手被另一人牵起，恰似此刻的你和阿米娅。,"A Cautus girl with her back to you, her thin, fragile hand held by another, just like you and Amiya right now.","Катхус-девушка, стоящая к вам спиной, её худенькую и изящную руку держит кто-то другой, точь-в-точь как сейчас ты и Амия."
