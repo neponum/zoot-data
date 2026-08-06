@@ -1,0 +1,496 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,neksi0762
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act8mini
+__chapter__,,Chapter Name,activities/act8mini/level_act8mini_st01,我不曾怀揣希望
+,,,,
+char-1,煌,煌,Blaze,Блейз
+char-2,迪伦,迪伦,Dylan,Дилан
+char-3,医疗干员,医疗干员,Medic Operator,Оператор-Медик
+char-4,？？？,？？？,???,???
+char-5,坎诺特,坎诺特,Cannot,Каннот
+char-6,阿米娅,阿米娅,Amiya,Амия
+char-7,企业负责人,企业负责人,Officer-in-Charge,Руководитель предприятия
+char-8,小阿米娅,小阿米娅,Young Amiya,Маленькая Амия
+char-9,博士,博士,Doctor,Доктор
+char-10,广播新闻,广播新闻,News Broadcast,Радионовости
+char-11,企业工作人员,企业工作人员,Corporate Staff,Сотрудник компании
+char-12,感染者,感染者,Infected,Инфицированный
+char-13,感染者戴夫,感染者戴夫,Infected Dave,Заражённый Дэйв
+char-14,哥伦比亚警察,哥伦比亚警察,Columbian Police,Колумбийский полицейский
+char-15,恶魔帮成员,恶魔帮成员,Fiends Gang Member,Бандит «Демонов»
+char-16,锈锤成员,锈锤成员,Rusthammer Member,Член «Ржавых Молотов»
+,,,,
+line-9,,5:20 P.M. 天气/晴,5:20 P.M. \ Clear,17:20. Погода: ясно
+line-10,,哥伦比亚城市，提卡伦多,"Columbia City, Tkaronto","Колумбийский город, Ткаронто"
+line-11,,我是迪伦，罗德岛近地飞行器的驾驶员，我正在城市里东奔西跑。,"The name's Dylan, Rhodes Island low-altitude aircraft pilot, and I'm currently running pell-mell around the city.","Я Дилан, пилот  мало-высотного самолёта «Родоса», и я ношусь по всему городу."
+line-12,,我应当坐在飞行器驾驶座上，手中握着操纵杆，我要在工作中面对的对象理应是地形和乱流。,"I should be sitting in the cockpit of my aircraft, joystick in hand. The only things I should be facing down are turbulence and terrain.","По идее, я должен сидеть в пилотском кресле, сжимая в руках штурвал, и бороться с рельефом местности и турбулентностью во время работы."
+line-13,,而我现在手中正抓着半把全自动突击弩，我就连它的设备型号都是早上才听说的，就算只剩一半，它也还是沉得吓人。,"Instead, I'm clutching one half of an automatic assault crossbow in my hands, and hell, the first time I heard of this model was earlier this morning. Even just half of it is damned heavy.","А сейчас я сжимаю в руках половинку автоматического штурмового арбалета — я даже название модели узнал только сегодня утром, — и даже будучи сломанным пополам, он пугающе тяжел."
+line-14,,我手心里全是汗，如果我得面对一个战场，那这个战场不应该在地面上，更不应该是在这样的哥伦比亚暗巷里。,"My palms are all sweaty. If I have to end up in a warzone, I sure as hell shouldn't be on the ground, let alone in some dark alley in Columbia.","Мои ладони вспотели. Если уж мне и суждено оказаться на поле боя, то это точно не должно было произойти на земле, а тем более в тёмном колумбийском переулке."
+line-15,,如果我有得选，我希望自己的敌人不是......呃。,I just hope to God that my enemy isn't... Ugh.,"Если бы у меня был выбор, я бы предпочел, чтобы моим врагом был не... э-э."
+line-17,煌,迪伦，我腾不开手，帮我看看，这上面写着什么？,"Dylan, I got my hands full over here. Can you help a gal out and tell me what it says?","Дилан, у меня руки заняты, помоги взглянуть, что здесь написано?"
+line-19,迪伦,警察，煌大姐头，是提卡伦多的“警察”。,It says Police. The 'police' of Tkaronto.,"Полиция, Блейз, это «полиция» Ткаронто."
+line-21,煌,是他先动手的。,He started it.,Он первым начал.
+line-23,迪伦,但是这个证件看起来......应该不是真的，这个做工也太差了。,But it seems... probably not the real deal. A real botch-job if I've ever seen one.,"Но это удостоверение выглядит... сомневаюсь, что оно подлинное, слишком уж плохо сделано."
+line-25,煌,至少他的穿着打扮确实是那么回事，跟早晨楼顶上那几个差不多，比其他没准备制服的人像话多了。,"At least he looked the part, pretty much the same as the guys up on the roof earlier this morning. Better than the ones that didn't have a uniform ready.","По крайней мере, одет он соответственно, почти как те ребята на крыше утром. Выглядит куда приличнее остальных, кто даже не удосужился надеть форму."
+line-26,煌,这个问题我一定得问第二次，哪里的警察会在问话的同时把全自动突击弩给开上？,So let me ask this question again: what kind of cops wind their automatic assault crossbows during questioning?,"И я обязана задать этот вопрос во второй раз: где это видано, чтобы копы начинали допрос с того, что открывали огонь из автоматического штурмового арбалета?"
+line-28,迪伦,哥伦比亚？	,Columbian cops? 	,В Колумбии?
+line-30,煌,别贫。你知道他不是警察，至少不是我们熟悉的那种警察。,"Very funny. You know he's not a cop, at least not the kind we're used to dealing with.","Не умничай. Ты же знаешь, что он не коп, по крайней мере, не из тех, к которым мы привыкли."
+line-33,,我抬头看了一眼巷子对面倒下的黑衣人，再低头看了一眼自己手里的半截武器。,"I lift my eyes to cast a glance at the black-clad man collapsed in the alley, and then lower my gaze again to the half-a-weapon in my hands.","Я поднял взгляд на упавшего в переулке человека в черном, а затем посмотрел на обломок оружия в своих руках."
+line-34,,它在片刻之前还指着我的前胸，现在已经被硬生生砸成两截。,"It was pointed straight at my chest just a moment ago, but now it's smashed into two pieces.","Мгновение назад он был нацелен мне в грудь, а теперь разбит на две части."
+line-35,,这位“警察”已经失去了意识，如果煌出手的时候还记得博士的指示，那他应该还能保全性命。,"This 'policeman' is unconscious. If Blaze remembered the Doctor's instructions when she struck, then he should still be able to cling to life.","Этот «полицейский» потерял сознание. Если Блейз помнила указания Доктора, когда наносила удар, он должен остаться в живых."
+line-36,,罗德岛代表团是昨天抵达提卡伦多市的。,The Rhodes Island team arrived in Tkaronto yesterday.,Делегация «Родоса» прибыла в Ткаронто вчера.
+line-37,,不论体会过多少次，这种速度都让我这个驾驶员感到讶异——,"No matter how many times I experience it, this kind of speed always surprises me as a pilot—","Сколько бы раз я это ни переживал, такая скорость всё равно поражает меня как пилота —"
+line-38,,罗德岛还在赶往大骑士领的路上，我们就已经从空中穿过了整个西部荒地，整个西部荒地诶。,"Rhodes Island is in the process of steaming to the Grand Knight Territory, and we've crossed over the entire western wastelands by air. The entire western wastelands, I say.","«Родос» еще даже не добрался до Территории Великого Рыцаря, а мы уже пересекли по воздуху всю Западную пустошь. Всю. Западную. Пустошь!"
+line-39,,根据计划，等到博士和阿米娅把事情谈妥，我们再原路飞回罗德岛本舰，大骑士领可能在这时还没完成城区组装。,"According to the plan, after Amiya and the Doctor finish their business, we'll take the same route back to Rhodes Island. The Grand Knight Territory might not have finished its urban subdivision assembly at this time.","По плану, как только Доктор и Амия закончат дела, мы вернёмся обратно на основной корабль, и, возможно, Территории Великого Рыцаря к тому времени еще даже не завершит сборку городских кварталов."
+line-40,,我只知道罗德岛受邀在卡西米尔骑士特别锦标赛期间进行访问，但不知道具体的时间和目的，不过，按理说，肯定是越早回去准备越好。,"All I know is Rhodes Island was invited to visit during the Kazimierz Major, but I'm in the dark about when and why. But anyway, the sooner we can head back, the better.","Я знал лишь то, что «Родос» пригласили на специальный рыцарский турнир в Казимеже, но не знал ни точных сроков, ни целей. Но, логично полагать, чем раньше вернемся, тем лучше подготовимся."
+line-41,,如果不是时间紧迫，我还想请假在这座大都市待上几天......现在我是不想了。,"If I wasn't in such a hurry, I wouldn't mind taking a few days off to chill in the metropolis... but after this, I'm not in the mood for that anymore.","Если бы время не поджимало, я бы сам попросил отпуск, чтобы задержаться в этом мегаполисе на несколько дней... теперь я об этом даже не мечтаю."
+line-44,医疗干员,我们......安全了吗？,Are we... safe?,Мы... мы в безопасности?
+line-46,煌,不安全，直到离开提卡伦多之前都——甚至可能在离开哥伦比亚前都不安全。,"No, not until we leave Tkaronto— Maybe not even until we leave Columbia.","Нет. Мы не будем в безопасности, пока не покинем Ткаронто — возможно, даже пока не покинем Колумбию."
+line-47,煌,帮我看一眼这人还有没有气，如果还有，那就最好让他接下来还能继续喘气。,Check for me if he's still breathing. It'd be nice if you made sure he kept on breathing.,"Проверь, дышит ли он. Если жив, то лучше бы ему продолжать дышать и дальше."
+line-49,医疗干员,我......呜，好的。,"I... Um, alright.","Я... угу, хорошо."
+line-51,迪伦,我是第一次见到这么厉害的自动弩，这种武器在哥伦比亚这么普及？,This is my first time seeing such a powerful automatic crossbow. Are these weapons common in Columbia?,Я впервые вижу такой мощный автоматический арбалет. Неужели в Колумбии такое оружие настолько распространено?
+line-53,煌,这种全自动武器也算是哥伦比亚的特色了。,Automatic weapons like that are a Columbian specialty.,Подобное автоматическое оружие — это своего рода местная колумбийская особенность.
+line-55,迪伦,不知道博士怎么样了......,I wonder how the Doctor's doing...,"Интересно, как там Доктор..."
+line-57,煌,袭击刚开始的时候博士和阿米娅就先行坐车离开了，也不知道可露希尔捣鼓的那套自动驾驶系统靠不靠谱......,"As soon as the raid started, the Doctor and Amiya left in a car. No clue if the autopilot system that Closure was fiddling with will work though...","Как только нападение началось, Доктор и Амия уехали на машине. Не знаю, насколько надежна та система автопилота, которую собрала Клозур..."
+line-59,迪伦,我们这是被算计惨了，连博士和阿米娅都没料到。,What a disaster... Even those two got caught off guard.,Что за катастрофа.... даже Доктор и Амия этого не предвидели.
+line-61,煌,博士和阿米娅......他们也是人，偶尔也会有误判。,They're only human after all... Sometimes shit happens.,"Доктор и Амия... они тоже люди, иногда и они ошибаются."
+line-63,医疗干员,他们占领了酒店，就这样抢走了我们留下的药物样品......,They took over the hotel and seized all the drug samples we kept behind...,"Они захватили отель и вот так просто забрали образцы лекарств, которые мы оставили..."
+line-65,煌,算了，先不管那些。,"Whatever, we can worry about that later.","Забудь, об этом мы можем подумать позже."
+line-66,煌,我们得先想办法安全转移，得离开这个城市。,We've gotta think of a way to get out of this city safely first.,"Сначала нам нужно придумать, как безопасно выбраться из этого города."
+line-78,？？？,到现在，我们失去了一切，但是你依然没有站在我身边。,"We've lost everything, but you are still not standing by my side.","Мы потеряли всё, но ты так и не встал на мою сторону."
+line-79,？？？,那么你所做的一切，又是为了什么？,Then what has it all been for?,"Тогда ради чего всё то, что ты делал?"
+line-80,？？？,或许，只是为了留下一点点希望？,Just to leave the faintest sliver of hope?,"Может быть, лишь для того, чтобы оставить хотя бы крошечную искру надежды?"
+line-81,？？？,可是，希望？,"But, hope?",Но надежда...?
+line-82,？？？,希望？,Hope?,Надежда?
+line-83,？？？,你知道吗，怀揣希望是一件非常残酷的事情。,"Don't you know, that hope is a cruel thing indeed?","Разве ты не знаешь, что надежда — поистине жестокая вещь?"
+line-84,？？？,当你发现一切无法挽回，当你发现自己无能为力，当你面对走投无路的困境时。,"When you realize it can't be undone, when you realize you are powerless, when you find yourself nothing but desperate...","Когда обнаруживаешь, что ничего нельзя исправить, когда понимаешь, что ты бессилен, когда стоишь перед безвыходной ситуацией."
+line-85,？？？,希望足以逼疯一个至善之人。,Hope is enough to drive a perfectly good person mad.,Надежда способна свести с ума даже святого.
+line-87,,但是......,But...,Но...
+line-89,,你想说什么，但是你发现无法控制自己的身体。,"You want to say something, but you can't move your body.","Ты хочешь что-то сказать, но понимаешь, что не можешь управлять своим телом."
+line-90,,你仿佛漂浮在虚空，眼前的一切如此熟悉，又如此遥远。这些记忆，属于你的一部分记忆，像是碎片一样，和你一起漂浮。,"You seem to be drifting in the void, everything before your eyes so familiar and yet so distant. These are a part of your memories, floating alongside you like fragments.","Ты словно паришь в пустоте, всё вокруг кажется таким знакомым, и в то же время таким далеким. Эти воспоминания — часть твоей памяти — подобны осколкам, что парят вместе с тобой."
+line-91,,你与无穷的思绪一起就这样漂浮着，看着眼前那位熟悉的女性逐渐远去。,"Like this, you continue to drift with your ceaseless thoughts, watching the familiar woman before you gradually fade away.","Ты паришь вместе с бесконечным потоком мыслей, глядя, как удаляется та знакомая женщина."
+line-92,,你睁开眼睛，眼前是一望无际的岩漠，以及一顶丑陋的，古怪的铁桶头盔。,"You open your eyes, and before you stretches an endless rocky desert. You see a strange, ugly iron bucket helm.","Ты открываешь глаза. Перед тобой — бескрайняя каменистая пустыня и уродливый, странный шлем в виде ведра."
+line-93,,一个造型诡异的男人正看向你这边，你无法透过那顶粗糙的桶状头盔，看到他的表情。,"A peculiar man seems to be looking your way, but you cannot see his expression through that rough bucket helm.",Мужчина в странном облачении смотрит прямо на тебя. Ты не можешь прочесть выражение его лица через этот грубый шлем-ведро.
+line-104,,"10:43 A.M. 天气/晴 ",10:43 A.M. \ Clear,10:43. Погода: ясно
+line-105,,加斯帕荒原,Gaspar Wildland,Пустоши Гаспар
+line-108,坎诺特,早上好，中午好，以及晚上好，朋友。,"Good morning, good afternoon, and good evening, friend.","Доброе утро, добрый день и добрый вечер, друг."
+line-109,坎诺特,能说话么？,Can you talk?,Можешь говорить?
+line-112,,你？你是哪位？这里是？,You? Who are you? Where am I?,Ты? Кто ты такой? Где это я?
+line-115,坎诺特,这位朋友醒了，小兔子。,"The friend awakens, little rabbit.","Друг очнулся, маленький кролик."
+line-118,阿米娅,博士！,Doctor!,Доктор!
+line-121,,你感觉自己的腰部被人紧紧地抱住。,You feel someone tightly embrace your waist.,"Ты чувствуешь, как чьи-то руки крепко тебя обнимают."
+line-122,,在感受这个温暖的拥抱之前，背后岩石坚硬的触感与头部的阵痛依然在提醒着你，很多事情尚且没有结束。,"But before experiencing this warm embrace, the cold, hard touch of the rocks behind you and the throbbing pain in your head remind you that all is not well.","Прежде чем ты успеваешь в полной мере ощутить это тепло, твердая поверхность скалы за спиной и пульсирующая боль в голове напоминают: многое еще не закончено."
+line-125,阿米娅,太好了！你醒了......我还在担心你要是醒不过来该怎么办......,I'm so glad! You're awake... I don't know what I would've done if you didn't wake up...,"Слава богу! вы очнулись... Я так боялась, что вы не придете в себя..."
+line-126,阿米娅,你还好吗？有没有什么地方不舒服？,How are you feeling? Does it hurt anywhere?,Вы как? Ничего не болит?
+line-129,,没事......只是头有点痛。;......没有大碍。;我还没那么脆弱。,I'm fine... Just my head hurts a little.;...Nothing serious.;I'm not that frail.,Всё в порядке... Просто голова немного болит.; ...Ничего страшного.; Я не такой хрупкий.
+line-132,阿米娅,头痛？是撞到了吗？让我看一下喔。,Your head hurts? Did you hit it? Let me have a look.,Голова болит? Вы ударились? Позвольте посмотреть.
+line-136,阿米娅,博士，真的没有问题吗？需要我扶你起来吗？,"Are you sure you're fine, Doctor? Do you need me to help you up?","Доктор, вы уверены, что всё в порядке? Вам нужно помочь встать?"
+line-140,阿米娅,博士......你还是要谨慎一点，你的身体状况可没那么好。,Doctor... you should still be careful. You're not in the best shape.,"Доктор... вам стоит поберечься, состояние вашего здоровья оставляет желать лучшего."
+line-144,坎诺特,别担心，小兔子，这位“博士”没什么问题，至少物理层面没什么问题。,"Worry not, little rabbit. There is nothing wrong with this 'Doctor,' at least not physically.","Не волнуйся, кролик, с этим «Доктором» всё хорошо, по крайней мере, на физическом уровне."
+line-145,坎诺特,精神层面上就不好说了。你刚才嘟囔着说了不少梦话，不过别担心，我没有仔细听。,"On a spiritual level, however, one cannot say. You were mumbling a great deal in your slumber, but before you complain, I did not listen closely.","А вот о ментальном состоянии сказать трудно. Ты бормотал во сне много всякого, но не бойся, я не прислушивался."
+line-148,,......您是？,Who are you...?,...Вы кто?
+line-151,坎诺特,啊，忘记自我介绍了，真是不好意思。,"Ah, pardon me for not introducing myself.","О, прошу прощения, забыл представиться."
+line-152,坎诺特,如您所见，我是个商人。,"As you can see, I am a merchant.","Как видите, я торговец."
+line-153,坎诺特,你可以叫我坎诺特，也可以叫我古德英纳夫先生，你怎么开心怎么来。,"You can call me Cannot, or Mr. Goodenough should you prefer that instead.","Можете звать меня Каннот, а можете — мистер Гуденаф, как вам удобнее."
+line-154,坎诺特,"实话说，朋友，刚才那个可真是太刺激了，这年头不是每天都能看到有人从悬崖上飞下来做源石技艺表演，非常优秀。 ","To be honest, friend, that display you put on earlier was simply too exhilarating. It is not every day one sees someone performing Originium Arts while flying off a cliff. A most excellent show indeed.","Честно говоря, друг, это было захватывающе. В наше время не часто увидишь, как кто-то исполняет трюк с использованием Ориджиниумных искусств падая со скалы. Очень достойно."
+line-157,,悬崖上？我们之前......;......可露希尔的自动驾驶系统可能有点问题......,Off a cliff? What were we...;There might've been a problem with Closure's autopilot system...,"Со скалы? Мы до этого...; ...Похоже, с системой автопилота Клозур что-то не так..."
+line-160,阿米娅,这里应该是在哥伦比亚荒地......东侧荒地。,This should be Columbia's... eastern wastelands.,"Должно быть, мы в Колумбийской...  восточной пустоше."
+line-162,坎诺特,没错，小兔子，这里是加斯帕荒原，你们的运气还算不错。,"That is correct, little rabbit. This is the Gaspar Wildland, and you two are quite fortunate.","Верно, кролик, это пустоши Гаспар. Вам еще повезло."
+line-164,阿米娅,运气？,Fortunate?,Повезло?
+line-166,坎诺特,是啊，运气不错，你们要是再向南多开两公里，那边可是毒气沼泽区，车陷进去就真的别想出来了。,"Yes, yes. Quite fortunate indeed. Two kilometers further south is a poisonous swamp, and had your car gotten stuck in that, good luck getting it out.","Именно. Проедь вы на пару километров южнее — там зона ядовитых болот, если бы машина увязла, оттуда бы вы уже не выбрались."
+line-169,,不知道其他人怎么样了。;......;其他人呢？,I wonder how the others are doing.;......;Where are the others?,"Интересно, как там остальные.; ...; Где остальные?"
+line-172,阿米娅,其他干员和我们分头行动了，我相信煌有办法保护他们......,The other operators split off on their own. I'm sure Blaze is taking good care of them...,"Остальные оперативники разделились с нами. Я уверена, что Блейз сможет их защитить..."
+line-173,阿米娅,但是我们没办法和他们取得联系，也没办法和其它办事处取得联系。,"But we can't get a hold of them, or any other branch offices.","Но у нас нет связи ни с ними, ни с другими офисами."
+line-176,,等等，那通讯器呢？;等等，其他的补给呢？,"Wait, what about the communicator?;Wait, what about the provisions?","Подожди, а как же коммуникатор?; Подожди, а что с остальными припасами?"
+line-179,阿米娅,全都放在“坏家伙”号上了......,We left it all on the 'Bad Guy.',Всё осталось на борту «Плохого Парня»...
+line-180,阿米娅,不仅是通讯设备，我们连食物和水都没来得及带。,Not just the communicator. We didn't even have time to pack food or water.,"Не только средства связи, мы даже еду и воду не успели взять."
+line-182,坎诺特,听起来可是相当绝望啊，朋友？,"Sounds like a desperate situation indeed, friends?","Звучит довольно безнадежно, друзья?"
+line-183,坎诺特,不过办法总是有的，如果你不介意的话......,"But there is always a way, if you don't mind...","Но выход всегда есть, если вы не возражаете..."
+line-186,,眼下没什么好介意的。,Might as well.,Сейчас уже не до возражений.
+line-189,坎诺特,这片区域我已经很熟悉了，我可以带你们去最近的信使站点，在那里你们可以联系到你们的朋友，顺利的话。,"I am quite familiar with this area. I can show you to the nearest Messenger Outpost where, should all go well, you will be able to contact your friends.","Я хорошо знаю этот район. Могу отвести вас к ближайшей станции Посланник, там, если повезет, вы сможете связаться с друзьями."
+line-192,,我们是被谁袭击的？,Who attacked us?,Кто на нас напал?
+line-195,坎诺特,这个问题问得非常好，不过现场能回答这个问题的人已经没法开口了。,"An excellent question indeed, but the only ones who could answer it are no longer able to speak.","Отличный вопрос, но те, кто мог бы на него ответить, уже не в состоянии открыть рот."
+line-197,,罐头人指了指不远处的悬崖下，一辆造型别致的武装车辆冒着浓烈的黑烟，看起来已经失事有一阵子了。,"The bucket-headed man points to the nearby cliff, where a unique-looking armed vehicle is emitting a thick, black smoke. By the looks of things, it's been wrecked for quite some time now.","Ведроголовый указал на обрыв недалеко от нас, где из бронированной машины необычной формы валил густой черный дым. Видимо, она разбилась довольно давно."
+line-200,阿米娅,是雇佣兵。我们出城之后，他们也一直穷追不舍。,Mercenaries. They've been chasing us even after we left the city.,"Это были наемники. После того как мы покинули город, они гнались за нами по пятам."
+line-202,坎诺特,非常敬业，敬业到命都不要了。,Dedicated to their job. Dedicated to the point of giving up their own lives.,"Очень преданные делу ребята, настолько, что и жизни не пожалели."
+line-203,坎诺特,说真的，哥伦比亚佣兵良莠不齐，但这前前后后有钱雇得起这种佣兵的人，用手指头都能数过来。,"To be frank, Columbian mercenaries range from peerless to useless, and the ones with the resources to hire such dedicated mercenaries can be counted on one hand.","Честно говоря, колумбийские наемники бывают разные, но тех, кто может позволить себе нанять подобных профи, можно пересчитать по пальцам."
+line-204,坎诺特,他们似乎对你很有兴趣啊，朋友，你是怎么得罪这些大企业家了？,"They seem to have taken quite an interest in you, friends. How exactly did you offend these great moguls?","Кажется, вы им очень интересны, друзья. Чем вы так насолили этим крупным предпринимателям?"
+line-206,阿米娅,果然是他们......,So it was them...,"Значит, это были они..."
+line-217,企业负责人,所以，阿米娅小姐，你们真的不考虑一下么？,"So, Miss Amiya, are you really unwilling to consider the offer?","Итак, мисс Амия, вы всё же не передумаете?"
+line-218,企业负责人,在哥伦比亚，你们很难找到比我们约翰老妈更合适的合作方了，我们能够为罗德岛的药物销售提供相当优惠的条件。,"In Columbia, you'll be hard-pressed to find a more suitable partner than Mama John's. We can provide fairly favorable terms for Rhodes Island's drug sales.","В Колумбии вам не найти партнера лучше, чем наша «Мама Джон». Мы можем предложить «Родосу» крайне выгодные условия по сбыту лекарств."
+line-220,阿米娅,谢谢您的好意，但是......,"Thank you for your generosity, but...","Спасибо за предложение, но..."
+line-221,阿米娅,我们此行的目的仅限于技术交流，罗德岛目前还没有更深层商业合作的打算。,We're only here for technical exchange. Rhodes Island has no plans for any deeper-level commercial cooperation.,"Цель нашего визита ограничивается лишь техническим обменом, и на данный момент «Родос» не планирует более глубокого коммерческого сотрудничества."
+line-222,阿米娅,而且我们带来的这些矿石病镇痛剂还在试验中，它们只有技术验证意义，并不是完成品。,And the Oripathy analgesics we brought are still undergoing trials. These are more of a proof of concept than a finished product.,"Более того, представленные нами обезболивающие от орипатии всё еще проходят испытания. Это лишь технические прототипы, а не готовая продукция."
+line-223,阿米娅,矿石病治疗的研究过程复杂又漫长，我们以后在这方面还有很多合作的机会。,"The process of researching and developing Oripathy treatments is long and complicated, and in these areas, we still have many opportunities for cooperation in the future.","Исследования методов лечения орипатии сложны и долги, но в будущем у нас будет еще много возможностей для сотрудничества."
+line-225,企业负责人,您说的是，您说的是，我们以后还有很多合作的机会，哈哈哈。,Many opportunities for cooperation in the future...? Hahaha...,В будущем будет много возможностей для сотрудничества...? Ха-ха-ха...
+line-236,阿米娅,这件事从一开始就是设计好的......,They planned this from the very beginning...,Всё это было спланировано с самого начала...
+line-239,,我们是不是应该先找警察？,Should we contact the police first?,"Может, нам стоит сначала обратиться в полицию?"
+line-242,坎诺特,报警？朋友，你可太不了解这个地方了。,"Police? Friend, you don't seem to understand where you are.","В полицию? Друг, ты совсем не знаешь этих мест."
+line-243,坎诺特,约翰老妈是提卡伦多最大的地方企业，连警察局的局长都会把自己和企业老总的合影摆在桌子上来彰显身份，我建议你还是换个思路。,Mama John's is the largest firm in Tkaronto. The chief of police boasts of his connections to their corporate leadership in order to display his status. I suggest you change your mind.,"«Мама Джон» — крупнейшее предприятие в Ткаронто. Начальник полиции вешает на стену в своем кабинете совместное фото с главой корпорации, чтобы все видели, кто тут главный. Советую сменить план."
+line-244,坎诺特,他们敢在城市里直接动手抢你们的东西，那说明打一开始就没把你们放在眼里。,"The fact that they dared to steal your goods in the urban core means that from the very beginning, they never thought anything of you.","Если они посмели открыто грабить вас прямо в городе, это значит, что они с самого начала ни во что вас не ставили."
+line-246,阿米娅,都是我的错......我太轻易相信他们的说辞了。,It's all my fault... I bought into their talk.,Это моя вина... Я слишком легко доверилась их словам.
+line-249,,别这么想，没有人能预料到他们这么下作。;......;不，我也有责任，阿米娅。我应该想到的。,"Don't blame yourself. Nobody could've expected them to be like this.;......;No, I'm just as responsible, Amiya. I should've known.","Не думай так, никто не мог предугадать, что они опустятся до такого.; ...; Нет, Амия, это и моя ответственность. Я должен был предвидеть."
+line-252,阿米娅,古德......因......先生？,Mr... Good...y?,Мистер... Гуде...?
+line-254,坎诺特,啊，有什么事呢，兔子小姐。,"Ah. What is it, Miss Rabbit?","О, в чем дело, мисс Кролик?"
+line-256,阿米娅,您刚才说可以带我们穿过这片荒地是吗？,"You just said you could take us through the wastelands, right?","Вы только что сказали, что можете провести нас через эту пустошь?"
+line-258,坎诺特,没错，兔子小姐。,"That I did say, Miss Rabbit.","Именно так, мисс Кролик."
+line-260,阿米娅,您要怎么做到呢？您以前从事过天灾信使的工作吗？,How do you plan to do that? Were you a Catastrophe Messenger?,Как вы это сделаете? Вы раньше работали Посланником Катастроф?
+line-262,坎诺特,这一点您就尽管放心就是了。,That is nothing you need to concern yourself over.,На этот счет можете не переживать.
+line-264,坎诺特,我已经在这片荒地上行商多年了，还是有那么点躲避天灾的诀窍的。,"I have plied my trade in the wastelands for many years, and that has given me a knack for avoiding Catastrophes.","Я торгую на этих пустошах уже много лет, так что пара способов пережить Катастрофу у меня найдется."
+line-266,坎诺特,当然，我需要一点点微薄的领路费，两个精炼源石锭，在这种情况下不算过分吧。,"Of course, I do ask for a small guide fee, two refined Originium Ingots in this case. Not too much to ask for in such a situation, yes?","Конечно, мне потребуется небольшая плата за сопровождение: пара слитков очищенного ориджиниума. В таких обстоятельствах, думаю, это не слишком дорого."
+line-268,阿米娅,我们只有哥伦比亚金券，要和本舰取得联络之后才能支付您报酬，这样您能接受吗？,"We only have Columbian Gold Certificates, and won't be able to pay you until we get in touch with our ship. Is that alright?","У нас есть только колумбийские ваучеры, мы сможем оплатить услуги только после связи с нашим кораблем. Вы согласны?"
+line-270,坎诺特,没有问题！我的朋友。,No problem! My friend.,Без проблем! Мои друзья.
+line-272,阿米娅,博士......你怎么看？我们也可以想办法回到城里，和煌他们会合。,"Doctor... What do you think? We could also figure a way back into the city, to meet up with Blaze and the others.",Доктор... что вы думаете? Мы можем попытаться вернуться в город и соединиться с остальными.
+line-275,,风险太大了，看起来我们没得选。;这位先生似乎已经帮我们选择了，对吧？,"It's too dangerous. Looks like we don't have a choice.;This gentleman seems to have made the choice for us, right?","Риск слишком велик, похоже, у нас нет выбора.; Кажется, этот господин уже сделал выбор за нас, верно?"
+line-278,坎诺特,话不能这么说，我们的生活总是有很多选择，当然，我们也总能从中挑出最优解。,"That is scarcely the case. We always have many choices at any point in our lives, but of course, we tend to pick the best one from the available options.","Не стоит так говорить. В нашей жизни всегда есть много выборов, и, конечно, мы всегда можем найти оптимальный."
+line-281,,那希望我们在接下来的几天里......合作愉快？,I hope we can have... a fruitful relationship in the coming days?,"Тогда надеюсь, что наши следующие несколько дней... будут приятными?"
+line-284,坎诺特,当然，我的朋友！,"Of course, my friend!","Разумеется, друг мой!"
+line-286,坎诺特,我相信这一定是一趟令人愉快的旅程。,I trust that this will be a most enjoyable journey.,"Уверен, это будет приятное путешествие."
+line-297,,五小时后,Five hours later...,Пять часов спустя
+line-300,坎诺特,......就像我之前说的那样，荒地上最大的威胁并不是匪帮。我以前认识一个胆子非常大的本地人，他竟然......,"...As I said, bandits are not the biggest threat in the wastelands. I once knew the most courageous local– he even...","...Как я уже говорил, бандиты — не самая большая угроза в пустошах. Я знал одного местного парня, он был таким смельчаком, что..."
+line-302,阿米娅,博士，给我手。,"Doctor, give me your hand.","Доктор, дайте мне руку."
+line-309,阿米娅,嘿，上来了。,"Phew, we're up.","Угх, поднялись."
+line-312,,我们翻过多少山包了？,How many hills have we crossed?,Сколько холмов мы уже преодолели?
+line-315,阿米娅,这才是第二个啊，博士。,"This is only the second one, Doctor.","Это только второй, Доктор."
+line-318,,让我歇歇......让我歇歇......;（沉默，并大口喘气）;看来我平时有些疏于锻炼......,"Let me rest... Let me rest...;(Stay silent, gasping for breath);I really... let myself go...","Дай мне передохнуть... дай мне передохнуть...; (молчит, тяжело дыша); Кажется, мне не хватает физической подготовки..."
+line-321,阿米娅,哈哈，博士你先坐这里吧。,"Haha, Doctor, sit down here for a minute.","Ха-ха, Доктор, присядьте здесь."
+line-323,坎诺特,朋友，按照你这个速度，我们最少得多走一天。,"Friend, at your speed, we will be on the road for at least another whole day.","Друг, с таким темпом нам идти как минимум на день дольше."
+line-325,阿米娅,按博士的身体情况，可能不能走得这么急。,The Doctor might not be able to maintain such a brisk pace.,"Учитывая состояние здоровья Доктора, возможно, не стоит так спешить."
+line-327,坎诺特,我们可以减慢速度，但是......,"We can slow down a touch, but...","Мы можем замедлиться, но..."
+line-329,阿米娅,走慢一点会有什么问题吗？,Why can't we go a bit slower?,"А что будет, если мы пойдем медленнее?"
+line-331,坎诺特,即便作为荒地行商，我也不可能随身携带那么多食水。,"Even as a merchant of the wastelands, there is a limit to the amount of food and water I can carry on me.","Даже как торговец пустошей, я не могу нести с собой так много еды и воды."
+line-333,坎诺特,如果我们放慢速度，就会不可避免地遭遇补给缺口。,"If we slow down too much, we will inevitably run into a supply shortage.","Если мы замедлимся, то неизбежно столкнемся с дефицитом припасов."
+line-335,阿米娅,这样的话......坎诺特先生？,If that's the case... Mr. Cannot?,В таком случае... мистер Каннот?
+line-337,坎诺特,嗯？,Hmm?,М?
+line-339,阿米娅,我们现在位置的附近有森林吗？我听说哥伦比亚东侧是有荒地绿洲的。,Is there a forest nearby? I've heard of an oasis in the wastes of eastern Columbia.,"Есть ли поблизости леса? Слышала, что на востоке Колумбии есть оазисы в пустошах."
+line-341,坎诺特,有倒是有，你要做什么？,"There is, but what use is it?","Ну, вообще есть. А что?"
+line-350,,夜晚，荒地之上，漆黑的山隘里。,"Night, above the wastelands, in a dark mountain pass.","Ночь. Пустоши, черный горный перевал."
+line-351,,干枯的树枝在火堆中炸响，木勺搅碰饭盒的声音伴随着阿米娅的哼唱声，回响在峡谷中。,"A tongue of flame consumes dry branches, and the sound of a wooden spoon tapping against a bowl echoes across the canyon along with Amiya's humming.","Сухие ветки трещат в костре, звук ложки, скребущей по котелку, вторит напевам Амии, разносясь по ущелью."
+line-353,阿米娅,这几种野菜，还有这种蘑菇，基本上都是可以吃的，只要煮熟了就行。,"These vegetables, as well as the mushrooms here, are pretty much all edible as long as they're cooked through.","Эти травы, и эти грибы — их вполне можно есть, если хорошо сварить."
+line-355,阿米娅,这种......稍微有点毒性，不过也是能应急的。,"This kind... is slightly toxic, but can still be eaten in an emergency.","А вот эти... чуть ядовиты, но как крайняя мера тоже сгодятся."
+line-357,坎诺特,......你让我刮目相看了，兔子小姐。,"I should've given you more credit, Miss Rabbit.","...Я впечатлен, мисс Кролик."
+line-359,坎诺特,实话说，大部分生活在移动城市里的朋友......是不具备什么野外生存能力的，我知道的许多人终其一生不会踏足荒地。,"To be honest, most friends from the nomadic cities... have no sense of how to survive in the wilds. Many I know will never once step foot in the wastelands.","Честно говоря, большинство людей, живущих в передвижных городах... не обладают навыками выживания в дикой природе. Многие из них за всю жизнь даже не ступают в пустоши."
+line-361,坎诺特,你这也算是一把生存好手了，你是哪里人？雷姆必拓人？,I see that you have a decent survivalist's skillset. Where are you from? Rim Billiton?,Да ты прирожденная выживальщица. Ты откуда родом? Из Рим-Билитона?
+line-363,坎诺特,如果是雷姆必拓人的话，那倒不奇怪了......,I would not be surprised if you were in fact from Rim Billiton...,"Если ты из Рим-Биллитона, тогда неудивительно..."
+line-365,阿米娅,这些其实都是博士教我的，几年前......,"Actually, the Doctor taught me all of this, a few years ago...",Этому меня научил Доктор несколько лет назад...
+line-368,,啊？我？,Huh? I did?,А? Я?
+line-371,阿米娅,......嗯。当时......,Yes. Back then...,...М-м. Тогда...
+line-384,小阿米娅,博士......这个能吃吗？,Doctor... Are these edible?,Доктор... это можно есть?
+line-385,博士,这几种野菜，还有这种蘑菇，基本上都是可以吃的，只要煮熟了就行。,"These vegetables, as well as the mushrooms here, are pretty much all edible as long as they're cooked through.","Эти травы и грибы можно есть, если их хорошо сварить."
+line-395,阿米娅,......是一段，很艰苦，但是很开心的日子。,"Those were trying times, harrowing times. But they were also good times.","...Это было время тяжелое, но очень счастливое."
+line-398,,......,......,...
+line-401,,似乎有什么在你的脑内回溯，但又逐渐变得模糊。,"It seems that something is stirring in the back of your mind, but it gradually blurs out.","Кажется, в твоем сознании что-то промелькнуло, но тут же стало размытым."
+line-402,,你尝试再次回想起那一幕，但模糊的记忆就像是偶尔浮现在水面的泡沫，很快就消失不见。,"You try to recall that scene again, but the vague memory is like bubbles that occasionally rise to the water's surface, only to disappear just as quickly.","Ты пытаешься вспомнить ту сцену еще раз, но воспоминание подобно пузырьку, всплывшему на воду и тут же исчезнувшему."
+line-404,阿米娅,博士？,Doctor?,Доктор?
+line-407,,我......是以前的事情吗？,I... Is this something that happened before then?,Я... это было давно?
+line-410,阿米娅,啊，没什么，确实是几年前的事情，想不起来也没关系。,"Ah, it's nothing. It did happen a few years ago, but it doesn't matter if you can't remember.","О, ничего страшного. Это было действительно несколько лет назад, не расстраивайся, если не помнишь."
+line-412,,她低下头继续搅动着饭盒，脸上的笑容似乎多了一点点落寞。,"She lowers her head and continues to stir the bowl, but the smile on her face seems somewhat lonelier.","Она опустила голову и продолжила помешивать содержимое котелка, а в её улыбке промелькнула грусть."
+line-415,坎诺特,"咳咳，说起来，这个宿营地选得也很好。在这个位置即便生火，也不太容易被察觉。 ","Ahem, I must also say, you've chosen a most prudent location to make camp. Even though we've made a fire, our position is not easy to detect.","Кхм-кхм, кстати, отличное место для лагеря. Даже если развести огонь, заметить его будет непросто."
+line-418,,这附近有什么匪帮么？;......;会被谁发现？,Are there any bandits around here?;......;Who's looking for us?,Поблизости есть бандиты?; ...; Кто нас может обнаружить?
+line-420,坎诺特,匪帮，赏金猎人，数不清的锈锤组织，这片土地上可不缺麻烦。,"Bandits, bounty hunters, and countless Rusthammers. There are no shortage of annoyances in this land.","Бандиты, охотники за головами, бесчисленные группировки Ржавого Молота... в этой земле нет недостатка в неприятностях."
+line-423,阿米娅,锈锤......我之前听说过，是一群很凶恶的劫匪？,"Rusthammer... I've heard the name before. They're a group of vicious marauders, right?","«Ржавые Молоты»... слышала, это группа очень свирепых мародёров?"
+line-425,坎诺特,这个说法也不算太严谨。,That description would not be a very rigorous one.,Это не совсем точное определение.
+line-427,坎诺特,锈锤是一个非常松散的组织，内部也有很多个杂七杂八的小团体。,"Rusthammer is a loose organization, and it is made up of various smaller groups.","«Ржавые Молоты» — это крайне децентрализованная организация, внутри которой множество мелких банд."
+line-428,坎诺特,比如全都是萨卡兹人组成的恶魔帮，还有一群把天灾当作神明崇拜的怪人，好像叫天灾追随者什么的。,"For example, there is 'Fiends Gang' made up of Sarkaz, and also a group of strange folks who worship Catastrophes as gods. I think they're called 'Followers of the Archosauria', or something.","Например, банда «Демонов», состоящая из сарказов, или странные ребята, поклоняющиеся Катастрофам как божествам, кажется, называются «Последователи Катастроф»."
+line-430,阿米娅,崇拜天灾？,They worship Catastrophes?,Поклоняются Катастрофам?
+line-433,,追随天灾？真是疯狂。;......;萨卡兹？恶魔帮？,Followers of the Archosauria? What a crazy bunch.;......;Sarkaz? Fiends Gang?,Поклоняются Катастрофам? Безумие.; ...; Сарказы? Банда «Демонов»?
+line-436,坎诺特,我以前听说，萨尔贡那边有一伙自称“阿达克利斯恶魔”的锈锤团伙，好像一直在找什么“头上长着巨角的阿达克利斯战神”。,I heard something about a Rusthammer gang in Sargon that called themselves 'Archosauria Devils.' They seemed to have been searching for an 'Archosauria war-god with massive horns on its head.',"Слышал, в Саргоне орудует банда «Ржавых Молотов», называющая себя «демонами-архозаврами», всё ищут какого-то «Бога войны Архозавров с огромными рогами»."
+line-438,阿米娅,我之前听哥伦比亚来的干员讲，锈锤以前只是一些非常零散的小组织，这几年他们的数量越来越多了，从乌萨斯山区到哥伦比亚荒地......,"An operator from Columbia once told me that Rusthammer used to be just a few, small, scattered groups. Over the past few years though, their numbers have greatly increased, stretching from the mountains of Ursus to the wastelands of Columbia.","Оперативники из Колумбии рассказывали, что раньше «Ржавые Молоты» состояли из разрозненных мелких групп, но в последние годы их количество растет — от гор Урсуса до пустошей Колумбии..."
+line-440,坎诺特,天下不太平，朋友。,"Our world is not a peaceful one, friend.","Мир стал беспокойным, друзья."
+line-442,坎诺特,而且荒地就是这样的地方，什么怪人怪事你们都能遇到。,And the wastelands is no exception. You will encounter all sorts of strange people and strange occurrences.,"Да и пустоши — такое место, здесь можно встретить кого угодно и что угодно."
+line-444,坎诺特,不过你们会适应的。,But you will adapt.,Но вы привыкнете.
+line-453,阿米娅,给，博士，晚饭！,"Here, Doctor! Dinner's ready!","Держите, Доктор! Ужин готов!"
+line-456,,谢谢你，阿米娅。,"Thank you, Amiya.","Спасибо, Амия."
+line-459,坎诺特,好啊，真是温馨的一幕。,Very good. What a heartfelt scene of intimacy.,"Красота, какая трогательная сцена."
+line-461,阿米娅,坎诺特先生！,Mr. Cannot!,Мистер Каннот!
+line-463,坎诺特,咳咳......我胡说的，不好意思，别当真。,"Ahem... I am simply jesting. My apologies, please do not take it seriously.","Кхм... не бери в голову, прошу прощения."
+line-474,？？？,如果继续这样，你会失去一切。,"At this rate, you will lose everything.","Если так продолжится, ты потеряешь всё."
+line-475,？？？,你会孑然一身，一无所有。你觉得这样值得吗？,"You will be alone, with nothing. Is it worth it?","Ты останешься один, у тебя ничего не будет. Думаешь, оно того стоит?"
+line-476,？？？,孤独是侵蚀心智的毒药，你对此有多少预期？,Loneliness is a poison that erodes the mind. How much do you think you can withstand?,"Одиночество — яд, разъедающий разум. Насколько ты к этому готов?"
+line-477,？？？,等到你醒来，你的身边不会再有同类，没有人能够认识到你的牺牲，更不会对此还有记忆，这就是你期待的未来吗？,"By the time you awaken, there will be no kin at your side. Nobody will recognize your sacrifice, let alone remember it. Is this the future you look forward to?","Когда ты проснешься, рядом с тобой не будет подобных тебе, никто не оценит твою жертву и никто не будет помнить о ней. Это будущее, которого ты ждешь?"
+line-484,,你醒了。,You wake up.,Ты проснулся.
+line-488,,红色光芒从遥远的地平线上浮现，影月留给人间的黑暗逐渐退潮。,"A crimson glow spills forth from the distant horizon, and the darkness left unto humanity by the Shadow-Moon gradually ebbs.","На далеком горизонте забрезжил красный свет, мрак, что оставила Луна, начал отступать."
+line-491,,略显刺骨的寒风刮过脸颊，泰拉大地又迎来了新的黎明。,"Frigid wind gnaws at your cheeks as it blows across your face, and the land of Terra once again ushers in a new dawn.","Холодный утренний ветер коснулся щек, земля Терры встретила новый рассвет."
+line-496,坎诺特,你醒得可真早，朋友。,"You are up very early, friend.","Ты рано встал, друг."
+line-499,,早上的空气很清新。,The morning air is refreshing.,Утренний воздух очень свежий.
+line-502,坎诺特,小兔子呢？还没醒？,Where's the little rabbit? Is she not awake yet?,А кролик? Еще спит?
+line-505,,让她再睡一会儿吧，你在做什么？;也许早餐的香气更有用一些。,Let her rest a bit longer. What are you doing?;Maybe the aroma of breakfast will be more effective.,"Пусть поспит еще.; Аромат завтрака, возможно, будет полезнее."
+line-508,坎诺特,短尾羽兽，没什么肉，不过作为充饥的早餐还是可以的。,"Short-tailed fowlbeasts don't have much meat, but they can suffice as breakfast.","Краткохвостая птица, мяса мало, но для завтрака сойдет."
+line-510,坎诺特,这可是哥伦比亚荒地的特产，你放心，这一顿不收钱。,"This is a specialty of the Columbian wastelands. Worry not, it's free of charge.","Это фирменное блюдо пустошей Колумбии. Не беспокойся, за это я денег не возьму."
+line-512,坎诺特,泰拉荒地上新的一天，情况还没有发生可见的变化，但是，早上好，朋友！,"A new day comes to Terra, and the situation has not changed, as far as I can tell. Nevertheless, good morning, friend!","Новый день в пустошах Терры, ситуация всё та же, но с добрым утром, друг!"
+line-514,坎诺特,你昨天晚上还是在说梦话，朋友，你的精神状态一直不是很稳定，你得注意点。,"You were talking in your sleep last night. Your mental state has seemed a bit unstable, do be careful.","Ты снова бормотал во сне. Твое душевное состояние нестабильно, тебе стоит быть внимательнее."
+line-517,,你听到了什么？,What did you hear?,Что ты слышал?
+line-520,坎诺特,我是个诚信的人，我说过我没有仔细去听，就更加不会记下来。而且你只会嘟嘟哝哝的，其实听不太清。,"I am a trustworthy person. I didn't go out of my way to listen, let alone remember anything. Plus, you were only mumbling. Couldn't really hear anything clearly.","Я человек слова, сказал, что не прислушиваюсь, значит, не запоминал. Ты лишь невнятно бормотал, так что ничего не разобрать."
+line-522,坎诺特,不过......每天晚上，小兔子倒是一直很在意你的梦话。,"But... Every night, the little rabbit is very concerned about your sleep-talking.",Но... каждый вечер кролик очень внимательно вслушивается в твои слова.
+line-524,坎诺特,不要埋怨我多管闲事，不过这一路上聊下来，有的东西是很难不留下印象的。你是失忆了，还是怎么样？,"Pardon me for being nosy, but after all the chatting we've done on our journey, it is hard not to take certain impressions. Have you lost your memories, or something of that sort?","Не подумай, что я лезу не в свое дело, но за этот путь сложно не обратить внимание. Ты потерял память или как?"
+line-527,,......,......,...
+line-530,坎诺特,啊，如果有什么隐情，就当我没问吧。这个问题确实不够礼貌，我也只是出于好奇。,"I see. If that's some sort of secret, let's say I never asked. It is an uncouth question indeed, and I asked out of simple curiosity.","О, если здесь есть тайна, считай, что я не спрашивал. Вопрос и правда был нетактичным, просто любопытство."
+line-533,,我......遇到了一些事故，失去了一部分记忆。,"Some things... happened to me, and I lost some of my memories.",Я... попал в аварию и потерял часть памяти.
+line-535,,......也许是大部分记忆。,...Maybe most of them.,"...Возможно, большую часть."
+line-537,,偶尔我会想起来一些......一丁点碎片。,"Occasionally, I will recall some of them... just tiny fragments.",Иногда мне удается вспомнить... крошечные осколки.
+line-539,,好吧，不是偶尔，其实没几次。,"Well, maybe not occasionally. Only a few rare times.","Ладно, не иногда, на самом деле — очень редко."
+line-542,坎诺特,朋友，我大概能建立一个场景。,"Friend, I have a vague idea of what's going on.","Друг, я могу представить эту сцену."
+line-544,坎诺特,假设你的记忆是一张铺开的报纸，现在有人把一桶油漆洒在了上面。,"Suppose your memory is a spread-out newspaper, and now, someone has spilled a bucket of paint on it.","Допустим, твоя память — это развернутая газета, а кто-то вылил на неё ведро краски."
+line-546,坎诺特,你只能从油漆遮盖的间隙中看到一点点内容，你也无法认清这些内容的全貌。,"You can only see bits and pieces of the content through the gaps in the paint, but you can't grasp the full picture of that content.","Ты можешь видеть лишь кусочки текста в промежутках между пятнами краски, но не можешь охватить всё содержание."
+line-549,,这个描述很符合我的感受。我对自己......很陌生。;我甚至不确定你的这种比喻是否准确，我......不知道。,That seems like a pretty good description of my experiences. I am... a stranger to myself.;I can't even say if your analogy is accurate. I... don't know.,"Очень точное описание. Я чувствую себя... незнакомцем самому себе.; Я даже не уверен, что твоя метафора точна, я... не знаю."
+line-552,坎诺特,听起来真是一言难尽啊，朋友。,"It sounds like something that defies all words, friend.","Звучит довольно печально, друг."
+line-554,坎诺特,不过我也不是精神科医生，帮不了你什么。,"But I am no psychiatrist, and there is not much I can do for you.","Но я не психиатр, помочь ничем не могу."
+line-557,,甚至有些时候我也会思考，在失忆之前，我又是个什么样的人。,"Sometimes, I even find myself thinking about the kind of person I was before all this.","Иногда я задаюсь вопросом, каким я был до потери памяти."
+line-559,,我不知道我是谁，只能从别人的只言片语中拼凑出我自己。,I don't know who I am. I can only piece myself together from the words of others.,"Я не знаю, кто я, и могу собирать себя по кусочкам лишь из обрывков фраз окружающих."
+line-562,坎诺特,那不重要，朋友。,"That's not important, friend.","Это неважно, друг."
+line-564,坎诺特,我们的存在往往基于别人的认知，你的一切都会变成别人通过听觉、视觉以及情感交互带来的反馈。,"Our existence is often based on how others perceive us. The sum of your 'self' is but the feedback of auditory, visual, and emotional interaction with others.","Наше существование часто определяется восприятием других. Твоя личность формируется через визуальный, аудиальный и эмоциональный отклик окружающих."
+line-566,坎诺特,“你”是一个什么样的人或许没什么所谓，从社会性上说，你应该很清楚别人需要一个什么样的你吧。,"It doesn't matter what kind of person 'you' are, but from a social point of view, it should be quite clear what kind of person others need you to be.","Не важно, какой «ты» на самом деле, с социальной точки зрения ты должен хорошо понимать, каким тебя хотят видеть окружающие."
+line-569,,你就没有什么能够让人快速恢复记忆的东西吗？;如果我真的想找回记忆，你是不是有一些门道？;也许我需要一种，下定决心后能快速恢复记忆的方法。,Do you happen to have anything that can restore memories quickly?;Do you know any tricks that could help me get my memories back as soon as possible?;Do you perhaps know some way of restoring my memory quickly after I make up my mind?,"У тебя нет ничего, что помогло бы быстро восстановить память?; Если я действительно хочу вернуть память, есть ли у тебя какие-то способы?; Может, мне нужно что-то вроде метода, чтобы быстро восстановить память, приняв решительное решение?"
+line-572,坎诺特,有是有，但我不推荐。我想想应该怎么表述吧。,"I do, but I can't recommend it. Let me think of how to put this...","Есть, но я не рекомендую. Попробую объяснить."
+line-574,坎诺特,我们的生活是一条公平的裤腰带，你拽长这一边，另一边就会变短。,"Our lives are like an elastic belt. If you stretch out one side, the other side will contract.","Наша жизнь — это справедливый пояс, если вы потянете за один конец, другой станет короче."
+line-576,坎诺特,你想要“快速”地恢复记忆，那么你就得承担很多不可控的后果。,"If you want to restore your memories 'quickly,' you will have to endure many unmanageable consequences.","Если хочешь восстановить память «быстро», придется столкнуться с массой неконтролируемых последствий."
+line-578,坎诺特,你那奇妙的脑袋瓜不一定经得起这么折腾。再说，这也只适用于最普通的“失忆”。,"That quaint head of yours might not withstand such a tussle. Besides, this only applies to the most common forms of 'amnesia.'","Твоя чудесная головушка может этого не выдержать. И потом, это работает только при обычной «потере памяти»."
+line-580,坎诺特,不管是为了你自己，还是为了你这么看重的小兔子，都还是慢慢来吧。,"Whether for your own sake, or for that of the little bunny who you value so much, I'd recommend just taking things easy.","Неважно, ради себя или ради дорогого тебе кролика, лучше не торопиться."
+line-582,坎诺特,顺带一说，小兔子醒了。,"By the way, the little rabbit's up.","Кстати, кролик проснулся."
+line-584,阿米娅,博士......早上好。,Doctor... Good morning.,Доктор... с добрым утром.
+line-587,,"早上好，阿米娅。 ","Morning, Amiya.","С добрым утром, Амия."
+line-590,坎诺特,你们先聊吧，我再去捡一点柴火。,I'll leave you two to it then. I'm going to fetch some firewood.,"Вы тут пообщайтесь, я схожу за дровами."
+line-596,,阿米娅安静地站在你身边，望着远方逐渐升起的太阳。,"Amiya stands beside you quietly, watching the sun rising in the distance.","Амия тихо стоит рядом, глядя на восходящее вдалеке солнце."
+line-597,,阳光正在缓慢地冲淡荒地的冷色调，每一片岩漠都在逐渐升高的太阳照耀下明亮起来。,"The rays of light are slowly melting the cold tones of the wastelands, every piece of the rocky desert dyed by the gradually rising sun.","Солнечные лучи медленно разбавляют холодные тона пустошей, каждая скала озаряется светом поднимающегося солнца."
+line-598,,或许你们不曾踏足过这一片土地，但是在泰拉广袤大地的某个角落，你曾与阿米娅一起漫步过。,"Perhaps you have never set foot upon this land, but in a corner of Terra's vast domain, you once wandered with Amiya.","Может, вы и не бывали в этих краях, но где-то на бескрайних просторах Терры ты уже гулял вместе с Амией."
+line-599,,你们曾经一起在这片人烟罕至的大地上留下过足迹。,You once left your footprints in this sparsely populated world.,Вы уже оставляли следы на этой безлюдной земле.
+line-600,,这本该是你的印象，是你的记忆碎片——但真相是，这是凯尔希告诉你的“故事”。,"This should have been your impression, your fragments of your memory— but the truth is, this is the 'story' Kal'tsit told you.","Это должно быть твоим впечатлением, твоим осколком памяти, но правда в том, что это «история», рассказанная тебе Кальцит."
+line-601,,在清晨的寒风中，你努力地运转着大脑，尝试从模糊的记忆中寻找到一丝痕迹。,"In the cold wind of the early morning, you rack your brain, trying to find a tangible thread within your hazy memory.","На утреннем холодном ветру ты изо всех сил пытаешься напрячь мозг, стараясь найти след в тумане воспоминаний."
+line-602,,清晨日光、荒地寒风、你和阿米娅、阿米娅和你。你想得起来，你又想不起来。,"The light of daybreak, the cold wind of the wastelands. You and Amiya, Amiya and you. You can remember, and yet you cannot remember.","Утренний свет, холодный ветер пустошей, ты и Амия, Амия и ты. Ты пытаешься вспомнить, но не можешь."
+line-603,,阿米娅握住了你的手。,Amiya takes hold of your hand.,Амия взяла тебя за руку.
+line-606,阿米娅,博士，你还好吗？,"Doctor, are you okay?","Доктор, вы в порядке?"
+line-609,,"......我还好。 ",...I'm fine.,...Я в порядке.
+line-612,阿米娅,我记得那个时候，也是这样，我们在荒地上度过第一个夜晚，像这样看着太阳从地平线上升起来。,"I remember it was around the same time. We spent our first night in the wastelands, and watched the sun rise over the horizon just like this.","Помню, тогда, мы провели первую ночь в пустошах и точно так же смотрели на восход солнца."
+line-614,阿米娅,那个时候你还问过我很多奇怪的问题......,You asked me a bunch of weird questions...,Тогда вы задали мне много странных вопросов...
+line-616,阿米娅,哈哈......明明是几年前的事情了，但是好像一切都才发生过。,"Haha... Of course, all of that happened years ago, but it seems like it was just yesterday.","Ха-ха... прошло уже несколько лет, но кажется, будто это было только вчера."
+line-619,,"......对不起，阿米娅......我...... ","Sorry, Amiya... I...","...Прости, Амия... я..."
+line-622,阿米娅,没有关系，博士。,"It's okay, Doctor.","Ничего страшного, Доктор."
+line-624,阿米娅,只要你还在这里，总有一天，都会变好的。,"As long as you're here, one day, things will get better.","Пока вы здесь, однажды всё наладится."
+line-636,,一天后,The next day,На следующий день
+line-637,,2:39 P.M. 天气/晴,2:39 P.M. \ Clear,14:01. Погода: ясно
+line-638,,信使站点,Messenger Outpost,Станция Посланников
+line-640,,岩漠荒滩之上，数辆体积巨大的工程车辆与武装越野运输车组成圆阵，将几个临时搭建的棚屋围在中间。,"Several huge engineering vehicles and armed off-road transports make a circular formation on the rocky, barren expanses, surrounding several makeshift sheds.","На берегу каменистой пустыни несколько огромных инженерных машин и бронированных внедорожников образовали круг, в центре которого расположились временные постройки."
+line-641,,发电机嘈杂的噪音和源石锅炉运作的轰鸣远近可闻，旅客与信使们大声的交谈也混杂在其中。,"The noisy din of generators and the roar of running Originium boilers can be heard near and far, intermingled with the loud conversations of travelers and Messengers.","Гул генераторов и шум работающих ориджиниумных котлов слышны издалека, смешиваясь с громкими разговорами путешественников и Посланников."
+line-642,,信使站点，荒地生态绿洲之外的文明绿洲，你们的目的地。,"The Messenger Outpost, an oasis of civilization beyond the ecological oasis of the wastelands, your destination.","Станция курьеров — оазис цивилизации посреди пустошей, ваше место назначения."
+line-645,坎诺特,终于终于！咱们平安到站了。,Finally! We've arrived safely at the post!,Наконец-то! Мы прибыли в целости и сохранности.
+line-647,坎诺特,这一路上没遇到什么大麻烦，也没遇到天灾，你的运气真的很不错，朋友。,"We didn't encounter any major difficulties on our journey, nor did a Catastrophe befall us. You are quite lucky indeed, friend.","По пути не было серьезных неприятностей или Катастроф, тебе очень повезло, друг."
+line-649,坎诺特,左数第三辆车就是这边的信使联络站了，你们可以在那边想办法联络你们的人，这边的信使收费还算划算。,The third car from the left is the Messenger contact station here. You might be able to contact your group there. The Messenger rates here are pretty good.,"Третья машина слева — пост Посланников, там сможете связаться со своими, расценки у них приемлемые."
+line-651,阿米娅,可是......那边的屋子上面好像印着约翰老妈的标记，真的没有问题吗？,But... the room over there has the logo of Mama John's on it. Are you sure it's fine?,"Но... на этой постройке, кажется, марка «Мамы Джон», это правда безопасно?"
+line-653,坎诺特,只要你们低调一点别惹麻烦，就不会有问题，这里可是信使站点，就算在哥伦比亚，也很少有企业会主动得罪信使。,"As long as you keep a low profile and don't cause any trouble, there won't be any problems. This is a Messenger outpost after all. Even in Columbia, few companies will go out of their way to get on the Messengers' bad side.","Если будете вести себя скромно, проблем не возникнет. Это станция Посланников, даже в Колумбии мало кто из компаний рискнет открыто портить отношения с курьерами."
+line-655,阿米娅,博士......你在这里等我一会儿，我没有你那么显眼，我去和信使联络站说。,"Doctor... Wait here for me. I don't stand out as much as you do, so I'll head down to the Messenger contact station.","Доктор... подождите меня здесь. Я не такая заметная, как вы, я схожу на пост."
+line-657,阿米娅,坎诺特先生，能再麻烦您陪一会儿博士吗？我马上回来。,"Mr. Cannot, can I trouble you to stay with the Doctor for a while? I'll be right back.","Мистер Каннот, не составите компанию Доктору? Я скоро."
+line-659,坎诺特,放心吧，小兔子，我很擅长从好奇目光里把人藏起来，不会有什么问题的。,"Don't worry, little rabbit. I am good at hiding people from prying eyes. There won't be any problems.","Не волнуйся, кролик, я мастер прятать людей от любопытных глаз, проблем не будет."
+line-662,,......,......,...
+line-665,坎诺特,放轻松，朋友，看到那边的武装车辆了么，看到那几门反装甲弩炮了么？相信我，这里非常安全。,"Relax, friend. Look at those armed vehicles over there. Do you see those anti-armor turrets? Trust me, it's very safe here.","Расслабься, друг. Видишь те броневики? Видишь те бронебойные баллисты? Поверь, здесь очень безопасно."
+line-667,坎诺特,给，喝点。,"Here, have a sip.","Держи, выпей."
+line-669,坎诺特,这是本地一家小作坊的特产，尝尝看。,It's a specialty from a local microbrewery. Give it a try.,"Местная продукция одного цеха, попробуй."
+line-672,,这是......啤酒？,Is this... beer?,Это... пиво?
+line-675,坎诺特,是，据说这座小酒庄的老板是一个感染者，没想到吧？即便是在哥伦比亚的拓荒者里，能做到这一步的人都很少。,"Indeed. I've heard the owner of this microbrewery is an Infected. Unexpected, yes? Even among Columbia's pioneers, there are few who can accomplish this much.","Ага, говорят, владелец — заражённый, представляешь? Даже среди колумбийских первопроходцев таких немного."
+line-678,,现在不是喝酒庆祝的时候。,Now is not the time to drink and make merry.,Сейчас не время для алкоголя.
+line-681,坎诺特,好吧，那就来听听新闻，放松一下吧。,Fair enough. Why don't we go relax over there and listen to the news?,"Ладно, тогда послушай новости, расслабься."
+line-683,坎诺特,你知道，在哥伦比亚最好的一点，就是他们给每一个拓荒点都配置了广播基站，你在哪儿都能通过收音机听到新闻。,"You know, the very best thing about Columbia is that they provide radio base stations for all the wasteland outposts. You can hear the news on the radio from just about anywhere.","Знаешь, лучшее в Колумбии — это то, что каждый поселок оснащен радиостанцией, новости слышны отовсюду."
+line-685,坎诺特,几乎所有国家都有市内广播，但给每个拓荒地都配上基站的待遇可是全泰拉独一份，你该感受一下，就当是观光了。,"Almost all cities have intra-city broadcasting, but the decision to cover the wilderness with base stations is unique in Terra. You should take it all in, and treat it like sightseeing.","Везде есть городские вещания, но радиостанции на каждой стоянке — только в Колумбии. Послушай для общего развития, считай, экскурсия."
+line-689,广播新闻,......发生在提卡伦多北区的武装冲突已经逐步平息，警方在现场发现了大量运用弩械交战的痕迹，但是没有抓到犯罪嫌疑人......,"...The armed conflict that occurred in the Northern District of Tkaronto has gradually subsided. On site, police found evidence of a large-scale crossbow shoot-out, but have not apprehended any suspects...","...Вооруженный конфликт в северном районе Ткаронто понемногу стихает, полиция обнаружила следы применения арбалетов, но подозреваемые не задержаны..."
+line-690,广播新闻,提卡伦多警方公布，此次冲突的其中一方为外国企业“罗德岛”的成员，本台尚不掌握该组织的具体情况......,"...The Tkaronto Police announced that one of the parties involved in the conflict has ties to a foreign company, 'Rhodes Island.' The specifics of this organization are not known at this time...","По заявлению полиции Ткаронто, одной из сторон конфликта стали члены иностранной компании «Родос», подробности деятельности которой на данный момент не установлены..."
+line-691,广播新闻,......有消息人士指出，该外国企业与本地企业有一定的商业矛盾，但本地相关企业发言人拒绝就此发表评论。,"...Some sources note that this foreign company has certain commercial conflicts with a local firm, but the spokesperson of this local business declined to comment on the matter.","...Источники сообщают о коммерческих разногласиях между иностранной компанией и местными фирмами, однако официальные представители отказались от комментариев."
+line-692,广播新闻,警方认为，这可能是一场针对提卡伦多的恐怖袭击，有关此次武装冲突的具体细节还需要等待进一步调查......,"The police believe that this may have been a terrorist attack on Tkaronto, and the specifics of this armed conflict are pending further investigation.","Полиция полагает, что это могла быть попытка террористического акта против Ткаронто, детали происшествия требуют расследования..."
+line-695,阿米娅,博士。,Doctor.,Доктор.
+line-697,坎诺特,小兔子，你回来了？,"You're back, little rabbit?","Кролик, ты вернулась?"
+line-699,阿米娅,信使联络站的人下午两点才上班，还得等一会儿。,"The people at the Messenger contact station didn't come to work until three past noon, so we'll have to wait.","Станция связи Посланников работает с двух часов, придется подождать."
+line-701,阿米娅,刚才的新闻......,The news just now...,Эти новости...
+line-703,坎诺特,听起来你们的人都成功撤出来了，这是好事啊。,"It sounds like your people have withdrawn successfully, which is a good thing.","Звучит так, будто ваши ребята успешно вышли из окружения, это хорошие новости."
+line-705,坎诺特,不过约翰老妈的人多半拿到了他们想要的东西。非常遗憾。,But Mama John's probably got what it came for. Most regrettable.,"Но «Мама Джон», скорее всего, получила то, что хотела. Очень жаль."
+line-708,,我们是受害者，现在反倒变成被警察调查的对象了。;......;在阴谋风格方面，这里和卡西米尔还挺接近的。,"We're the victims, but the police are looking for us.;......;The corporate intrigue here reminds me of Kazimierz.","Мы — пострадавшая сторона, а теперь стали объектами расследования полиции.; ...; В плане интриг это место очень похоже на Казимеж."
+line-711,坎诺特,哈，这在哥伦比亚也算是常规操作，这群人动作很快，提前把屁股擦得非常干净。,"Hah, something like this is a routine operation in Columbia. That bunch moved quickly and wiped their asses in advance.","Ха, это обычная практика в Колумбии. Эти ребята работают быстро и оперативно заметают следы."
+line-713,坎诺特,别想了，朋友。,"Don't dwell on it, friend.","Не забивай голову, друг."
+line-715,坎诺特,你们马上就要离开这里了，现在纠结这种问题已经太晚了，下次多留个心眼吧。,"You'll leave this place soon enough. It's too late to manage this problem now, but be more mindful about it next time.","Вы скоро уедете отсюда, поздно терзаться этим вопросом. В следующий раз будьте осмотрительнее."
+line-718,,但是，他们抢走一批半成品的镇痛剂样品，到底意义何在？;在此之前，万事通先生，你能为我解答他们大费周章的原因吗？,"But what do they get out of a batch of semi-finished medicine samples?;Before that, Mr. Know-It-All, can you tell me why they're so desperate?","Но зачем им похищать партию незаконченных образцов обезболивающего?; Перед тем как мы уйдем, мистер Всезнайка, объяснишь, почему они пошли на такие хлопоты?"
+line-721,坎诺特,好吧......看来你是不再犹豫了。,Very well... It seems that you've made up your mind.,"Ладно... вижу, ты больше не сомневаешься."
+line-723,坎诺特,你了解哥伦比亚的企业么，我的朋友？以前你和他们打过多少交道？,"Are you familiar with Columbia's business, my friend? How many times have you had to deal with them in the past?","Ты знаком с колумбийскими компаниями, друг? Много ли ты имел с ними дел?"
+line-725,阿米娅,罗德岛和哥伦比亚的一些科技公司有简单的业务往来。,Rhodes Island has had some simple dealings with a few Columbian technology companies.,«Родос» имеет простые деловые контакты с некоторыми колумбийскими технологическими компаниями.
+line-727,坎诺特,喔，“简单的业务往来”，大概是一些体面的好事情。,"Oh, I'm sure 'simple dealings' are decently good on the surface.","О, «простые деловые контакты», наверное, что-то вполне приличное."
+line-729,坎诺特,但是，我的朋友啊，不体面的事情往往不会摆在台面上给所有人看。,"But, my friend, the ugly and indecent parts are not often placed on the table for everyone to see.","Но, друг мой, неприличные вещи обычно не выставляют на всеобщее обозрение."
+line-731,坎诺特,来吧，我带你们去一个地方，看点好玩的。,"Come then. I will take you someplace, so you can see something fun.","Идем, я покажу вам кое-что интересное."
+line-741,企业工作人员,下一位！,Next!,Следующий!
+line-742,感染者,你......您好，请给我这个月的药。,H-Hello... I need this month's dose.,"Вы... здравствуйте, можно мне мое лекарство на этот месяц?"
+line-743,企业工作人员,好的，让我看看......,"Sure, let's take a look...","Так, посмотрим..."
+line-744,企业工作人员,戴夫先生是吧，啊，我看到您提交的申请了，您这个月的工作完成得非常好，这是您这个月的药物配给。,"Mr. Dave, is it? Ah yes, I saw your application. You've been a model employee this past month. Here's your monthly medicine ration.","Мистер Дэйв, верно? Вижу ваше заявление. В этом месяце вы отлично справились с работой, вот ваше ежемесячное пособие."
+line-745,感染者戴夫,谢谢您......谢谢您......,Thank you... Thank you...,Спасибо вам... спасибо...
+line-746,感染者戴夫,那个，我能不能......预支下个月的药物补给？我太太的病情最近加重了，我需要......,"Um, would it be possible... to get next month's dose in advance? My wife is in pretty bad shape lately, and I need...","А можно... получить лекарство за следующий месяц авансом? У жены состояние ухудшилось, мне нужно..."
+line-747,企业工作人员,戴夫先生，依据公司的管理规定，我们无法为您预支药物配给，希望您能理解。,"Mr. Dave, according to company regulations, we are unable to provide any medication in advance. Thank you for your understanding.","Мистер Дэйв, согласно регламенту компании, мы не можем выдавать лекарства авансом. Надеюсь на понимание."
+line-748,企业工作人员,但是您知道的，我们始终有准备额外的药品进行市售，您可以直接在隔壁点位购买更多的矿石病抑制药。,"But as you know, we always prepare additional medicine for commercial sale, and you can always go next door to purchase more Oripathy suppressants.","Но, как вы знаете, мы продаем дополнительные препараты. Можете купить больше ингибиторов по соседству."
+line-749,感染者戴夫,可、可是......,B-But...,"Но, но..."
+line-750,企业工作人员,戴夫先生，企业规定，希望您能理解。,"Company regulations, Mr. Dave. Thank you for your understanding.","Мистер Дэйв, правила компании. Надеюсь на понимание."
+line-751,企业工作人员,下一位！,Next!,Следующий!
+line-753,阿米娅,这......这是什么地方？,What... what is this place?,Это... где мы?
+line-755,坎诺特,嘘，小声一点，这里是约翰老妈的边境拓荒队办事处，你们别太暴露了。,"Shhhh, hush. This is the Frontier Department of Mama John's. Keep a low profile.","Тише, не шумите. Это офис пограничного департамента «Мамы Джон», не светитесь."
+line-757,阿米娅,他们在给感染者发药？,They're passing out medicine to the Infected?,Они выдают инфицированным лекарства?
+line-759,坎诺特,在哥伦比亚，很多事情的运作方式在全泰拉都是独一份的。,"In Columbia, many things operate in a way unlike elsewhere in Terra.",В Колумбии способы ведения бизнеса уникальны для всей Терры.
+line-760,坎诺特,比如这些拓荒者们——拓荒者，哥伦比亚向西开拓的命脉，哥伦比亚荒野故事的书写者，哥伦比亚梦的主角们。,"For example, consider the wasteland pioneers— Pioneers, the lifeblood of Columbia's westward expansion, the writers of Columbia's wilderness stories, the protagonists of the Columbian dream.","Например, эти первопроходцы — кровь Колумбийской западной экспансии, писатели о дикой природе Колумбии, главные герои колумбийской мечты."
+line-762,坎诺特,他们跟约翰老妈公司签了合同，他们在荒地上开拓土地，为哥伦比亚和企业建立居民区。,"They sign a contract with Mama John's and open up land in the barren wastes, establishing residential areas for Columbia and its companies.","Они подписали контракт с «Мамой Джон», осваивают земли, строят жилые районы."
+line-763,坎诺特,依据工作情况，企业也会给他们提供医疗和物资上的补给，算是一种工钱。,"Depending on how they work, companies will also provide them with medicine and supplies, as a sort of wage.","В зависимости от работы компания предоставляет им медицинскую и материальную помощь, своего рода зарплата."
+line-765,坎诺特,给，拿着。,"Here, take this.",Держи.
+line-768,,固体液体分别包装，各占一半，这是他们发的药？;......;这......这根本就是......,The solid and liquid components are packaged separately. This is the medicine they distribute?;......;What... What on earth...?,"Упаковано раздельно, поровну, это они так выдают лекарства?; ...; Это же просто..."
+line-771,坎诺特,这就是他们发给感染者的药，你是专家，应该不需要我来解释。,"This is the medication that they give to the Infected. You are the expert here, I doubt you need me to explain.","Это и есть их «лекарства», вы эксперты, объяснять мне не нужно."
+line-773,阿米娅,这不是矿石病抑制剂。,This is not an Oripathy suppressant.,Это не ингибиторы орипатии.
+line-775,坎诺特,当然不是，你比我清楚，这一半是止疼剂，另一半是营养液。,"Of course not, you know better than me. This half is a generic painkiller and the other half is a nutrient solution.","Конечно нет. Половина — обезболивающее, половина — питательные растворы."
+line-777,阿米娅,......为什么？,Why?,...Почему?
+line-779,坎诺特,不为什么，你不明白么？他们不需要卖真的抑制剂。,"It's not a question of why, don't you see? They don't need to sell real suppressants.","Дело не в том, почему, понимаешь? Им не нужно продавать настоящие ингибиторы."
+line-781,坎诺特,这些开拓者，这些来自各个地方的感染者，他们也没见过真的矿石病抑制剂。,"These pioneers, Infected from all over the world, have never seen a real Oripathy suppressant.","Эти первопроходцы, заражённые отовсюду, никогда в жизни не видели настоящих ингибиторов."
+line-783,坎诺特,这东西虽然不能抑制矿石病本身，倒是能改善病发的症状，约翰老妈发的东西管用，见效快，对他们来说就够了。,"Though these things can't actually suppress Oripathy itself, they can relieve the symptoms of the disease. The product of Mama John's works, and works quickly, and that's good enough for them.","Эта штука не лечит орипатию, зато облегчает симптомы. То, что выдает «Мама Джон», работает быстро, и им этого достаточно."
+line-784,坎诺特,“抑制剂”在大地上原本就是个新概念，他们自然不会知情。,"The concept of 'suppressant' is new to Terra, and naturally they wouldn't know.","«Ингибиторы» — это вообще новая концепция, откуда им знать."
+line-787,,......既然他们能造镇痛剂，也不需要真实的抑制剂。,"Since they can make painkillers, they don't need to make real suppressants...","...Раз они умеют делать обезболивающее, им не нужны настоящие ингибиторы."
+line-789,,为什么还要觊觎罗德岛的技术？,Why do they care about our technology then?,Зачем тогда им технология «Родоса»?
+line-792,坎诺特,哈哈哈哈......这个故事讲起来就更有趣了。,Hahahaha... That story would be even more interesting.,Ха-ха-ха... эта история еще интереснее.
+line-794,坎诺特,你知道么，约翰老妈在做大之前，只是个卖甜甜圈的连锁店，他们怎么可能掌握药物的生产技术。,"Did you know, before Mama John's became a big name, they were just a donut chain. How could they have mastered the technology to produce drugs?","Знаете, до того как стать гигантом, «Мама Джон» была сетью по продаже пончиков. Какая там фармакология?"
+line-796,坎诺特,他们所有的医药生产线全是从其他公司那采购来的，沙滩伞、塔山科技、莱茵生命......,"All their pharmaceutical production lines are purchased from other companies such as Beachbrella, Tower Mountains, Rhine Lab...","Все производственные линии они закупали у других —""Beachbrella"",  ""Tower Mountains"", ""Rhine Lab""..."
+line-798,坎诺特,现在他们把镇痛剂当抑制药卖，赚这么多钱，你觉得其他医药公司能接受这件事吗？,"Now that they sell painkillers as suppressants and make so much money, do you think the other pharmaceutical companies will sit on their hands?","Теперь они продают обезболивающее под видом ингибиторов и гребут деньги лопатой. Думаете, другие фармкомпании будут молчать?"
+line-800,坎诺特,他们挨了其它企业一顿收拾，但也吃一堑长一智。他们这次选择直接踢掉自己的合作方，这可是非常标准的哥伦比亚做派。,"They've been thoroughly beaten down by other companies, but they've also learned a whole lot. This time, they've decided to directly off their partner, something that is distinctively Columbian.","Их прижали, но они извлекли урок. Теперь они решили просто кинуть своих партнеров — чистый колумбийский стиль."
+line-802,坎诺特,有了你们的那一批样品，我相信这种廉价药马上会更新换代。,"With your batch of samples in hand, I suspect the landscape of their cheap drugs will soon change.",С вашими образцами их «дешевое лекарство» обновится.
+line-804,坎诺特,药效更好，镇痛作用更强，更多的人会相信这就是“矿石病抑制药”。,A more efficacious drug with a stronger analgesic will convince more people that this in fact is an 'Oripathy suppressant.',"Будет эффективнее, сильнее обезболивать, и еще больше людей поверят, что это — «Ингибитор орипатии»."
+line-807,阿米娅,这怎么可以！罗德岛的那批样品根本不是矿石病抑制剂，那些样品还没经过安全测试，可能有大量的副作用，我们还没有......,How can that be allowed?! Rhodes Island's samples are not Oripathy suppressants at all. Those samples haven't been tested for safety yet and might have serious side effects. We haven't...,"Как можно! Образцы «Родоса» — не ингибиторы, они не прошли тесты безопасности, у них куча побочек, мы еще не..."
+line-809,坎诺特,我来告诉你接下来会发生什么。,Let me tell you what will happen next.,"Позволь я скажу, что будет дальше."
+line-811,坎诺特,约翰老妈公司的人会用你们的技术，来制作更多成本更低的“抑制药”。,Mama John's will use your technology to make more and more 'suppressants' at lower costs.,"«Мама Джон» использует ваши технологии, чтобы делать более дешевые «ингибиторы»."
+line-813,坎诺特,当然，这些可怜的开拓者就是试验品了。,"Of course, those poor pioneers will become the guinea pigs.","Конечно, подопытными будут эти бедолаги-первопроходцы."
+line-815,坎诺特,他们会死么？我来说句实话，就算没有约翰老妈，他们也会死——,"Will they die? Let me tell you the truth. Even without Mama John's, they will still die—",Умрут ли они? Скажу правду: даже без «Мамы Джон» они бы умерли.
+line-816,坎诺特,——哥伦比亚的边疆都是拓荒者用鲜血和生命开辟的，他们的预期寿命原本就不长。,—Columbia's frontiers have been bought with the blood of the pioneers. Their life expectancy is not long regardless.,"Колумбийский фронтир построен на крови этих людей, их ожидаемая продолжительность жизни и так невелика."
+line-818,坎诺特,但是剩下的人，那些没有死在拓荒中的人，会更心甘情愿地为他们工作，来换一点这些所谓的抑制药。,"But those who remain, those whose lives were not claimed while paving the wilderness, are ever more likely to work for them in exchange for these so-called suppressants.","А те, кто выживет, будут еще усерднее работать в надежде получить этот «ингибитор»."
+line-819,坎诺特,这药能让他们短暂地缓解病痛，说不定还真能多活几年。,This medicine gives some short-term pain relief. Maybe it can even buy them a few extra years.,"Это лекарство позволит им временно забыть о боли, может, даже лишний год прожить."
+line-821,坎诺特,然后，接下来哥伦比亚各大城市的报纸头条都会刊登他们的丰功伟绩，我连头版标题都想好了。,"Then, the newspapers across Columbia's major cities will publish headline after headline of their great achievements, right on the front page.",А потом газеты всех колумбийских городов напишут об этом подвиге. Я даже заголовок придумал:
+line-823,坎诺特,“约翰老妈大步迈进医疗产业，感染者的新希望到来！”,"'Mama John's Strides Into Pharmaceuticals, Bringing New Hope to the Infected!'","«Мама Джон уверенно входит в фарминдустрию, новая надежда для инфицированных!»"
+line-826,坎诺特,完美！,Impeccable!,Идеально!
+line-828,坎诺特,至于真相呢，真相在镇痛的实际作用面前一点都不重要。,"As for the truth, it is not at all important compared to the actual effectiveness of the analgesics.",А что до правды? Правда перед фактом утоления боли ничего не значит.
+line-829,坎诺特,你就是现在告诉这些可怜人，“你们吃的抑制药其实治不了矿石病，最多算是昂贵的止疼剂和安慰剂”，又能怎么样呢？,"Of course you can tell these poor people, 'those drugs that you're taking can't actually cure Oripathy, but can best be regarded as expensive painkillers and placebos.' And then what?","Даже если вы скажете этим несчастным: «ваши таблетки — просто дорогое обезболивающее и плацебо», что они сделают?"
+line-831,坎诺特,然后你再把实话说下去，说其实最好的矿石病抑制药也没法让他们回到完全正常的生活，说他们的一生都得伴随着病痛，直到死去。,"You keep telling the truth, saying that even the best suppressants by far can't bring back their completely normal lives and that they will continue to be accompanied by sickness and pain until they die.","А потом добавите, что даже лучшие ингибиторы «Родоса» не вернут их к нормальной жизни и им придется страдать до самой смерти."
+line-833,坎诺特,在矿石病的问题上，罗德岛确实是这片大地上最顶尖的，这个判断是实话，那他们听得了实话吗？,"On the subject of Oripathy, Rhodes Island indeed stands at the bleeding edge in this world, so you know the truth. But is it a truth that they can stomach?","В вопросе орипатии «Родос» действительно лучший на этой земле, это правда. Но готовы ли они слышать правду?"
+line-835,坎诺特,这就是哥伦比亚，我的朋友。,"And this... is Columbia, my friend.","И... Это Колумбия, друг мой."
+line-837,坎诺特,什么都不会改变，一切都是如此的合理，人们怀揣希望来到哥伦比亚，在希望中创造价值，在希望中死去。,"Nothing will change, and everything makes sense. People come to Columbia with hope, create value with hope, and die with hope.","Ничего не изменится. Всё так рационально: люди приходят сюда с надеждой, создают ценность надеждой и умирают надеждой."
+line-839,阿米娅,可是我们不能看着他们利用罗德岛去......,But we can't just sit around and watch them use Rhodes Island to...,Но мы не можем позволить им использовать «Родос» чтобы...
+line-841,坎诺特,你看，这就非常现实了。,"See, this is very practical.","Смотри, это жизнь."
+line-843,坎诺特,你救不了他们，没人救得了，更别提你们现在自保都很难。,"You cannot save them, nobody can save them. Not to mention, it is difficult even to protect yourselves now.","Вы не спасете их, никто не спасет. Тем более сейчас, когда вы сами с трудом выживаете."
+line-845,坎诺特,对于这些心怀希望的感染者来说，希望打一开始就不存在，你们比他们更清楚。,"For the Infected who harbor hope in their hearts, hope never existed in the first place, and you know this better than they do.","Для этих инфицированных, надеющихся на чудо, надежда была ложной с самого начала, вы знаете это лучше них."
+line-847,坎诺特,你们还是早点联系自己人，想办法回去吧。,"You should contact your people sooner rather than later, and find a way to get back.",Лучше свяжитесь со своими и выбирайтесь отсюда.
+line-850,,你说得对，坎诺特先生。;......;......我不想承认，但似乎，事实就在眼前。,"You're right, Mr. Cannot.;......;I don't want to admit it, but facts are facts.","Вы правы, мистер Каннот.; ...; Я не хочу признавать, но, кажется, факты говорят сами за себя."
+line-853,阿米娅,博士......,Doctor...,Доктор...
+line-856,坎诺特,我知道，怀揣希望是一件非常残酷的事情。,"I know, that hope is a cruel thing indeed.","Я знаю, что надежда — поистине жестокая вещь."
+line-857,坎诺特,当发现一切无法挽回，当发现自己无能为力，当面对走投无路的困境时——,"When you realize it can't be undone, when you realize you are powerless, when you find yourself nothing but desperate...","Когда всё неисправимо, когда ты бессилен, когда ты в тупике —"
+line-858,坎诺特,希望足以逼疯一个至善之人。,Hope is enough to drive a perfectly good person mad.,Надежда способна свести с ума доброго человека.
+line-859,坎诺特,人们相信自己愿意相信的事情，这会让他们好受许多。,"People believe what they want to believe, and that makes them feel much better.","Люди верят в то, во что хотят верить, это облегчает жизнь."
+line-861,,你看着阿米娅。你看着她的耳朵缓缓地向下耷拉，你看着她的眼神中先是溢满悲伤，然后又写上无奈。,"You look over at Amiya. You watch her ears slowly droop, her eyes filled with sadness, then stained with helplessness.","Ты смотришь на Амию. Уши медленно опускаются, в глазах — океан печали, а затем смирение."
+line-862,,你们已经见过很多，你们还将见到更多，你和她都明白这些道理，其实并不需要一个荒地行商来重新解释。,"The two of you have seen much, but you both will see more still. You both understand all this, and in fact, there is no need for the wasteland merchant to explain it again.","Вы уже много видели, и еще больше увидите. Вы оба понимаете эти истины, и торговцу из пустошей не нужно было их объяснять."
+line-865,,远处，在荒原与天际的交界线上。太阳正在缓缓地下沉。,"In the distance, along the border between the wastelands and the sky, the sun slowly sinks.","Вдалеке, на горизонте пустошей, солнце медленно опускается."
+line-866,,泰拉荒地上的一天就要结束了。光芒就要退去，双月很快就会接替它登上天幕。,"Day is about to draw to an end in Terra's wastelands. The light is about to fade, and the twin moons will soon take its place in the sky.","День в пустошах Терры подходит к концу. Свет гаснет, двойная луна скоро взойдет на небосвод."
+line-867,,太阳明天依然会升起，但不是每个感染者都能看到明天的曙光。,"The sun will still rise tomorrow, but not every Infected will see the coming dawn.","Солнце завтра снова взойдет, но не каждый заражённый увидит его."
+line-868,,即便此时此地真的有足量的矿石病抑制药物，对许多人来说也已经太迟了。一切都不会改变。,"Even if there are enough drugs to suppress Oripathy in this place, it is too late for so many more. Nothing will change.","Даже если бы здесь было достаточно ингибиторов, для многих уже поздно. Ничего не изменится."
+line-869,,一切都不会改变吗？,Nothing will change?,Ничего не изменится?
+line-872,,但是——坎诺特先生。,But— Mr. Cannot.,Но — мистер Каннот.
+line-874,,即便怀揣希望会给我们带来痛苦，我认为也是值得的。,"Even if hope will continue to bring us pain, I still think it's worth it.","Даже если надежда приносит боль, я считаю, что она стоит того."
+line-876,,放弃了希望，我们经历的一切又有什么意义？,"If we give up on hope, what is the meaning of everything we've had to endure?","Если отказаться от надежды, в чем смысл всего, что мы пережили?"
+line-879,阿米娅,博士......！,Doctor...!,Доктор...!
+line-881,坎诺特,喔！振奋人心的发言，朋友。,"Oh! Quite the rousing speech, friend.","О! Вдохновляющая речь, друг."
+line-883,坎诺特,你没有说服我，你很难说服我，但我感受到你的真挚情感了。,"You did not convince me, for you will find it hard to do so, but I felt the sincerity of your emotions.","Ты не убедил меня, это трудно, но я почувствовал твою искренность."
+line-885,坎诺特,我就喜欢你们这样在理解现实之后依然拒绝向现实低头的人，虽然，我说实话，你们已经够狼狈了。,"I do like how you still refuse to bow to reality despite having seen it, though to be honest, you've already embarrassed yourselves.","Мне нравятся такие люди, которые осознают реальность, но отказываются перед ней склониться, хоть вы, честно говоря, в довольно потрепанном виде."
+line-887,坎诺特,先把正义演讲放到一边，我知道你们其实都是很现实的人，所以我要问一个现实的问题，我非常好奇，你打算怎么办呢？,"Let's put that speech aside for now. I know that you two are very practical people, so I will also pose a very practical question. I'm quite curious, what will you do next?","Отложим пафосные речи. Я знаю, вы реалисты, поэтому задам реальный вопрос: что вы собираетесь делать?"
+line-889,坎诺特,你们已经在边境的信使站点了，你们很快就能离开这里了。,"You've already arrived at the Messenger Outpost at the border, and you will be leaving this place soon.","Вы на пограничной станции Посланников, вы скоро уедете отсюда."
+line-891,坎诺特,你现在要掉头回去？然后呢？,Do you plan to turn around and head back? What then?,Вернетесь? А что потом?
+line-893,坎诺特,说真的，我的朋友，除非你有什么办法能从他们手上把你们的东西抢回来，不然事情是很难收场的。,"To be frank, my friend, unless you have some way of getting your things back from them, you will have a very hard time resolving these matters.","Серьезно, если у вас нет способа отбить свое имущество, история будет печальной."
+line-895,坎诺特,你要单枪匹马地杀过去？要不我借你一头驮兽，这样你就能像哥伦比亚那些部落民传说里的山谷英雄一样了。,Will you charge there single-handedly with all guns blazing? Should I lend you a burdenbeast so you can look like a hero of the vale from the indigenous Columbian peoples' folklore?,"Хотите идти в одиночку? Могу одолжить вьючное животное, будете как герои легенд из колумбийских пустошей."
+line-897,坎诺特,哦，我差点忘了，你不擅长战斗。,"Oh, I almost forgot, you can't fight.","О, забыл, вы ведь не боец."
+line-899,阿米娅,坎诺特先生，请不要这样说博士。,"Mr. Cannot, please don't say that about the Doctor.","Мистер Каннот, пожалуйста, не говорите так о Докторе."
+line-902,,不，阿米娅，他说的是对的。,"No, Amiya, he's right.","Нет, Амия, он прав."
+line-904,,有时我们并不需要施加武力。;利用他们的方法解决问题——我恰好刚进行过一些实践。;为了让罗德岛能够安然无事离开这里，得取巧。,"Sometimes, we don't necessarily need to use force.;We can use their own ways to resolve the problem— and I just happen to have some practice.;In order to get Rhodes Island out of here safely, we have to get crafty.","Иногда не нужно применять грубую силу.; Использовать их же методы для решения проблемы — как раз то, что я практиковал.; Чтобы «Родос» смог спокойно уйти, нужно схитрить."
+line-907,坎诺特,听你这说法，这是打算要讲道理？,"From the sound of things, you plan to appeal to reason?","Похоже, вы что-то придумали?"
+line-918,,四天后,Four days later,Четыре дня спустя
+line-919,,4:01 P.M. 天气/晴,4:01 P.M. \ Clear,16:01. Погода: ясно
+line-920,,哥伦比亚拘留所,Columbia Detention Center,Колумбийский изолятор
+line-921,哥伦比亚警察,好了，你可以走了。,"Alright, you can leave now.","Всё, можешь идти."
+line-923,,谢谢您，非常感谢。,Thank you. Thank you very much.,"Спасибо, огромное спасибо."
+line-926,阿米娅,博士！,Doctor!,Доктор!
+line-929,,怎么样了，阿米娅。,"It went well, Amiya.","Как дела, Амия?"
+line-932,阿米娅,下次不要这样了！我真的......真的很担心你！,Don't do that again! I was really... I was worried sick!,Больше так не делайте! Я правда... очень переживала за вас!
+line-934,坎诺特,这一套把戏玩得可真好，我的朋友，很高明。,"You played your bag of tricks quite well, my friend. Very clever.","Ловко разыграно, мой друг. Мастерски."
+line-936,坎诺特,不枉我带你们走几步，也不枉我在这外面等几天，我真是小看你了。,"I'm glad that the little excursion I took you on was not in vain, nor was me waiting out here for a few days. I really did underestimate you.","Не зря я потратил время на сопровождение и ожидание, я тебя недооценил."
+line-938,坎诺特,不过我现在稍微有点害怕你了，我的朋友。,"But, I am a bit scared of you now, my friend.",Но теперь я тебя немного опасаюсь.
+line-941,,我当您是夸我了。;......没有大碍。;不瞒您说，醒来见到一个铁脑袋，我也挺害怕的。,"I'll take that as a compliment.;...It's alright.;To be honest, I was a bit scared too when I woke up to a bucket-head.","Приму за комплимент.; ...Ничего страшного.; Не буду врать, увидев железную голову сразу после пробуждения, я тоже испугался."
+line-944,阿米娅,我......我还是没有理解......发生了什么。,I... I still don't understand... what happened.,Я... я всё еще не понимаю... что произошло.
+line-946,坎诺特,简单说......我们这位聪明朋友主动向哥伦比亚边关管理局自首，说自己所属的企业向哥伦比亚走私了一批矿石病相关药物制品。,"Simply stated... our clever friend here voluntarily surrendered to Columbian Customs and Border Protection, saying that your company had smuggled a batch of Oripathy-related drugs into Columbia.","Проще говоря... наш умный друг сам сдался пограничному управлению, заявив, что компания, в которой он работает, занимается контрабандой лекарственных препаратов."
+line-948,坎诺特,如果你对哥伦比亚的法律有了解，就应该知道矿石病相关的药物是管理最为严格的医疗产品。,"If you know anything about Columbian laws, you should know that Oripathy-related drugs are the most strictly-regulated medical products.","Если ты знаешь колумбийские законы, то должна понимать, что медикаменты — строго контролируемый товар."
+line-949,坎诺特,当年游说推行这条法律的企业为了垄断整个哥伦比亚的药物市场可是花了不少功夫。,The company that lobbied to implement this law in the past spent a lot of efforts to monopolize the drug market in Columbia.,"Компании, пролоббировавшие этот закон ради монополии, приложили немало усилий."
+line-951,坎诺特,这位朋友提供的信息肯定会惊动哥伦比亚烟酒施术单元以及源石制品管理局，他们可不是省油的灯。,"The information provided by our friend here definitely alarmed the Columbian Bureau of Alcohol, Tobacco, Arts Units, and Originium, and they certainly aren't easy to deal with.","Информация от нашего друга встревожила Колумбийское бюро по контролю за алкоголем, табаком, модулями искусств и ориджиниумом, а они — ребята серьезные."
+line-953,坎诺特,按照惯例，管理局的安全部队很快就会到场，扣押这场走私制品交易的所有物件。,"Per protocol, the Bureau's security forces went there in no time and seized all items in this smuggled product trade.","В соответствии с протоколом, сотрудники службы безопасности Бюро оперативно прибыли на место и изъяли все товары, являвшиеся предметом контрабандной торговли."
+line-955,阿米娅,可是我们与他们的商务合作有完整的合同与申请报告，很容易查到......,"But, we have complete contracts and records of our cooperation with them, which should be easy to find...","Но у нас были полные контракты и отчеты о коммерческом сотрудничестве, это легко проверить..."
+line-957,坎诺特,哈哈哈哈，这就是重点。,"Hahaha, that's the important part.","Ха-ха-ха, в этом и соль."
+line-959,坎诺特,兔子小姐，他们选择向你们出手，就没有打算留下马脚，他们会销毁这次合作的所有资料，查无对证。,"Miss Rabbit, when they chose to attack you, they had no intention of leaving any footprints. They have destroyed all evidence of this cooperation, and nothing would match up in the investigation.","Мисс Кролик, они не собирались оставлять следов, они уничтожили все документы по сделке."
+line-960,坎诺特,那么是什么样的情况才会让一个公司不留下任何交易的证据呢？,So what kind of situation will prevent a company from leaving behind any evidence of a transaction?,А при каких обстоятельствах компания не оставляет следов сделки?
+line-961,坎诺特,当然是见不得人的生意了。,What else but shady business.,"Конечно, когда бизнес нечист."
+line-963,阿米娅,所以是哥伦比亚政府扣押了所有的样品......,So it was the Columbian government that seizes all the samples...,"Значит, правительство конфисковало все образцы..."
+line-965,坎诺特,按照法律，他们会销毁这些走私品，然后呢？就没有然后了。约翰老妈在这附近手眼遮天，但如果把范围扩大到整个哥伦比亚呢？,"According to law, they will destroy these smuggled goods, and then? There's nothing after that. Mama John's is pretty much omnipotent around here, but what if the scope extends to cover all of Columbia?","По закону они их уничтожат, и что потом? «Мама Джон» всесильна здесь, но в масштабах Колумбии?"
+line-967,坎诺特,哥伦比亚烟酒施术单元以及源石制品管理局，这名字真拗口，它们有的是能耐。它们虎视眈眈。,"Columbian Bureau of Alcohol, Tobacco, Arts Units, and Originium. Their name might be a mouthful, but they have some competent people. And they'll be watching closely.","Колумбийское бюро по контролю за алкоголем, табаком, модулями искусств и ориджиниумом. Название может звучать сложно, но у них работают компетентные люди. И они будут внимательно следить за ситуацией."
+line-969,阿米娅,我明白了......但这样一来，罗德岛岂不是变成了一家有案底的公司？,"I understand now... But even with that being the case, won't Rhodes Island have a blackened record?",Я поняла... но теперь «Родос» станет компанией с уголовным прошлым?
+line-971,坎诺特,哈哈哈，这里可是哥伦比亚，没有哪家公司的屁股能这么干净。,"Hahaha, this is Columbia after all. There's not a company out there with a perfectly wiped rear.","Ха-ха, это Колумбия, ни одна компания не чиста."
+line-973,坎诺特,支付罚金，在整改意见文件和保证书上签字，用不了多久就没人会在乎这件事了——可能现在已经没人在乎了。,"Pay a fine, sign off on the ticket, and it won't be long until people forget about it— perhaps, people might have stopped caring already.","Штрафы, подписи под документами об исправлении — никто и не вспомнит об этом через месяц."
+line-975,坎诺特,毕竟约翰老妈为了遏制其影响，指不定帮罗德岛也顺便打了掩护——万一管理局真找上罗德岛，麻烦的还是他们。,"After all, in order to cover their ass, Mama John's might have inadvertently given Rhodes Island its best cover— and in case the Bureau really came for Rhodes Island, they would be the ones in trouble.","«Мама Джон» наверняка помогла «Родосу» замести следы, лишь бы не привлекать внимание Управления к себе."
+line-977,坎诺特,当然，你的博士还是在管理局的拘留室里待上了三天，这也算是代价了。,"Of course, your Doctor did spend three days in the Bureau's detention room, which is its own price.","Конечно, цена вопроса — три дня Доктора в изоляторе."
+line-979,阿米娅,我很难评价这件事，博士......,"It's hard for me to evaluate this move, Doctor...","Мне сложно оценить этот шаг, доктор..."
+line-981,阿米娅,凯尔希医生会生气的。,Dr. Kal'tsit is going to be mad.,Доктор Кальцит будет злиться.
+line-984,,她确实会生气，但按我对她的了解......;其实真要说，这些手段还是我向她学的。,"That she will be, but if there's anything I know about her...;I'll just tell her I learned it from watching her.","Она будет злиться, но по моему опыту...; На самом деле, этим методам я научился у нее."
+line-990,煌,我可不敢当着凯尔希医生的面说这种话......,I wouldn't mouth off like that if I were you...,Я бы побоялась сказать такое при Кальцит...
+line-993,,啊，煌你们都在。,"Oh, Blaze. The gang's all here.","О, Блейз. Вся компания в сборе."
+line-996,,大个子菲林干员正在一脸无奈地看着你。,The well-built Feline operator is looking at you with eyes of helplessness.,Крупный оперативник-фелин смотрела на тебя с выражением беспомощности.
+line-999,煌,博士，你这次闹得可真大......,"Doctor, you caused a real big uproar this time around...","Доктор, ну вы и наворотили..."
+line-1000,煌,罚款金、额外赔付、拘留、哥伦比亚政府参与其中的不正当商业行为调查......,"Fines, fees, jail time, and even the Columbian government investigating illegitimate business practices...","Штрафы, компенсации, задержание, расследование о недобросовестном поведении..."
+line-1001,煌,虽然我也没搞懂你最后到底是怎么解决这件事的，我差一点都要直接联络凯尔希医生了......,But I have no clue how you managed to sort it all out. I almost had to call Dr. Kal'tsit myself.,"Хотя я так и не поняла, как ты всё решил, я чуть не позвонила Кальцит..."
+line-1002,煌,你回去要怎么和凯尔希医生交代啊！,How the hell are you gonna explain all this to her when you get back?,"Что ты ей скажешь, когда вернешься?"
+line-1005,,办法......办法总会有的。;......;呃，求饶。,"I... have my ways.;......;Uhh, beg for mercy.","Способы... способы найдутся.; ...; Э-э, молить о прощении."
+line-1008,阿米娅,博士！下次请不要再这样冒险了，我们明明可以联络本舰等待支援的！,Doctor! Please don't ever take a gamble like this in the future. We could contact the ship and wait for support!,"Доктор! В следующий раз не рискуйте, мы ведь могли связаться с кораблем!"
+line-1010,阿米娅,而且罗德岛遇到这种情况时其实有一套完整的应急方案。,"Besides, Rhodes Island actually has a contingency plan for dealing with situations like this.","Кроме того, на Родосском острове существует план действий на случай подобных ситуаций."
+line-1013,,......至少这趟荒地旅行挺开心的，不是么？,"At least the trip through the wastelands was fun, wasn't it?","...По крайней мере, путешествие было приятным, нет?"
+line-1016,阿米娅,开心......是有一点......,"Fun? ...I suppose, just a little...","Приятным... ну, немного..."
+line-1018,阿米娅,博士！不要岔开话题！,Doctor! Don't change the subject!,Доктор! Не меняйте тему!
+line-1020,阿米娅,回去之后可要给凯尔希医生说实话，文书报告的部分我会帮你的。,"After we get back, you have to tell the whole truth to Dr. Kal'tsit. I'll help you with the report.","Вернемся — расскажешь всё честно, с документацией я помогу."
+line-1023,,......好。;......麻烦了。,Okay...;Thanks...,...Хорошо.; ...Спасибо.
+line-1026,坎诺特,那么是时候道别了，我的朋友。,"Then I suppose it is time to part ways, my friend.","Что ж, пора прощаться, друзья."
+line-1028,坎诺特,就如同我之前说的那样，这是一趟令人感到愉快的旅途。,"As I said before, our journey together was most enjoyable.","Как я и говорил, это была приятная поездка."
+line-1031,,是的，非常愉快，坎诺特先生，非常感谢您。;麻烦您了，后会有期。,"Yes, it definitely was. Thank you so much, Mr. Cannot.;Thanks for everything. We may meet again someday.","Да, очень приятно, мистер Каннот, спасибо.; Спасибо вам, до встречи."
+line-1034,坎诺特,我相信不久的将来，我们还会再见面的。,I do believe we will meet again in the near future.,"Уверен, скоро увидимся."
+line-1036,坎诺特,在那之前，祝你身体健康，我们后会有期。,"Until then, I wish you good health. See you later.","До тех пор — будьте здоровы, до встречи."
+line-1038,煌,这人是谁啊......怎么感觉总是阴阳怪气的。,Who was that? Gave me the sense there was something else under that nice front of his...,Кто это был... постоянно загадками говорит.
+line-1040,阿米娅,博士？,Doctor?,Доктор?
+line-1043,,嗯？,Hmm?,М?
+line-1046,阿米娅,有个问题我一直想问你......,There's something I'd like to ask you...,"Есть вопрос, который я давно хотела задать..."
+line-1048,阿米娅,那个时候你说需要让坎诺特先生帮你一个小忙，具体是什么呢？,"Back then, you said you needed Mr. Cannot to do a little favor for you. What was it?","Тогда ты сказал, что Каннот должен сделать для тебя маленькое одолжение. Какое именно?"
+line-1060,,三天前,Three days ago,Три дня назад
+line-1061,,3:27 P.M. 天气/晴,3:27 P.M. \ Clear,15:27. Погода: ясно
+line-1062,,荒地某处,Somewhere in the wastelands,Где-то в пустошах
+line-1064,坎诺特,你可真是太疯狂了，朋友。,"You're a real crazy one, friend.","Ты просто безумен, друг."
+line-1066,坎诺特,这一招有点损啊。,That's a rather destructive trick you've got there.,План довольно грязный.
+line-1068,坎诺特,那么，你需要我帮你什么忙呢？,"So, what do you need my help with?",Так какое одолжение тебе нужно?
+line-1071,,虽然我们不想用武力解决问题，但我还是得保留这个选项。,"Though we don't want to use force, I still want to keep the option open.","Хотя мы не хотим применять силу, я все же хочу оставить этот вариант открытым."
+line-1073,,我想请你的人保护好阿米娅，直到她安全离开。;也许你的人能保证罗德岛不受到直接的武力威胁。;如果有什么万一，我想请你的人替我做一些善后工作。,"I would like your people to protect Amiya, up until she leaves safely.;Maybe your people can ensure that Rhodes Island doesn't come under attack.;In case of emergency, I'd like your people to do some clean-up work for me.","Я бы хотел, чтобы ваши люди защищали Амию до тех пор, пока она не вернётся на «Родос» в безопасности; возможно, ваши люди смогут обеспечить, чтобы Родосский остров не подвергся нападению; в случае чрезвычайной ситуации я бы хотел, чтобы ваши люди выполнили для меня некоторые работы по уборке."
+line-1076,坎诺特,喔！稍等，稍等。,"Oi! Hold up, easy now.","О! Погоди, погоди."
+line-1078,坎诺特,什么叫我的人，我可没听懂。,What do you mean by 'my people?',"Какие еще «мои люди», я не понял."
+line-1081,,坎诺特先生，我希望至少现在我们能坦诚一点。;这一路上，其实一直有人在暗处跟着我们，对吧？;如你所说，我们运气很好，但真的只是运气好么？,"Mr. Cannot, I hope you can at least be honest with me now.;We've been followed the whole way, right?;We might just be lucky, as you said. But is it really just luck?","Мистер Каннот, я надеюсь, мы будем честны.; Весь путь нас кто-то сопровождал в тени, верно?; Как вы и сказали, нам очень повезло, но было ли это лишь везение?"
+line-1084,坎诺特,......,......,...
+line-1086,,你看到这个古怪的男人沉默了，你无法判断他在那厚重诡异的桶形头盔下的表情。但是这种沉默并不代表着愤怒与不满，你能感受到。,"The strange man has gone silent, but you can't judge his expression under the thick bucket helm. However, you feel that the silence harbors neither anger nor dissatisfaction.","Ты видишь, что этот странный человек молчит. Ты не можешь понять его выражение лица под этим нелепым шлемом. Но это молчание — не гнев или недовольство, ты чувствуешь это."
+line-1089,坎诺特,非常漂亮，Dr.{@nickname}。,"Well done, Dr. {@nickname}.","Очень хорошо, Dr.{@nickname}."
+line-1091,坎诺特,我以为我的朋友们藏得很好，我本以为你现在只是个多愁善感的聪明人。,"I thought my friends did a good job concealing themselves. This whole time, I took you for an intelligent but overly sentimental person.","Я думал, мои друзья спрятались хорошо. Я думал, ты всего лишь сентиментальный умник."
+line-1093,坎诺特,你真是一个充满惊喜的人。,You truly are full of surprises.,"Ты человек, полный сюрпризов."
+line-1095,坎诺特,那么，Dr.{@nickname}。,"Well then, Dr. {@nickname}.","Тогда, Dr.{@nickname}."
+line-1097,坎诺特,我当然可以帮你这个小忙，而且我相信以阿米娅小姐的能力，她也不太需要我帮忙。,"Of course I can help you with this little favor, though I believe that with Miss Amiya's skills, she won't really need my help.","Конечно, я сделаю для тебя это одолжение. Уверен, способностей Амии хватит и без моей помощи."
+line-1099,坎诺特,但是生意归生意，我能拿到什么好处呢？,"But business is business, and what can you offer me?",Но бизнес есть бизнес. Что я получу взамен?
+line-1102,,我就不计较你从我们车上拿走的那几份文件了。,I'll turn a blind eye to the documents you took from our car.,"Закрою глаза на документы, которые ты вытащил из нашей машины."
+line-1104,,你觉得这个交易如何？,How does that sound to you?,Как тебе такая сделка?
+line-1107,坎诺特,哈哈哈......,Hahaha...,Ха-ха...
+line-1109,坎诺特,非常完美，朋友，成交。,"Beautifully played, friend. It's a deal.","Идеально, друг. По рукам."
+line-1112,,如果一切顺利，我们三天后见。,"If everything goes well, we will see you in three days.","Если всё пройдет гладко, увидимся через три дня."
+line-1115,坎诺特,当然，我的朋友，祝愿你一切顺利。,"Of course, my friend. I wish you the best of luck.","Конечно, друг. Желаю удачи."
+line-1125,坎诺特,......,......,...
+line-1127,坎诺特,好了，你们可以出来了。,"All right, you can come out now.","Всё, можете выходить."
+line-1133,恶魔帮成员,那人走了？这就结束了？,You alone? Is it over?,Он ушел? Всё закончилось?
+line-1135,坎诺特,还没有完全结束，接下来应该有好戏看了。,Not quite. The upcoming show should be quite entertaining.,Еще не всё. Скоро начнется представление.
+line-1137,恶魔帮成员,这个人，非常危险，我们不应该就这么放这家伙走。,That one's extremely dangerous. We shouldn't let 'em go.,Этот человек опасен. Не стоило его отпускать.
+line-1143,锈锤成员,这个罗德岛，也许会成为我们的敌人，为什么要帮他们。,We could come up against that Rhodes Island. Why should we help them?,«Родос» может стать нашим врагом. Зачем помогать?
+line-1145,坎诺特,相信我吧，他们这样的组织存在，对我们都是好事。,Just trust me. The existence of an organization like theirs is good for us.,"Поверь мне, существование таких организаций идет нам на пользу."
+line-1147,坎诺特,这样的人活得久一点，这片大地会变得有趣很多。,"The longer such people live, the more interesting this world will become.","Пока такие люди живут, этот мир будет намного интереснее."
+line-1149,坎诺特,走吧，朋友们，我们还有很多工作要做。,"Let's go, friends. We still have a lot of work to do.","Идемте, друзья, у нас еще полно работы."
