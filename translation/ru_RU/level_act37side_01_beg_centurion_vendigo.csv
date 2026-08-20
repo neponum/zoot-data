@@ -1,0 +1,256 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,centurion_vendigo
+__language__,,Language,en_US,ru_RU
+char-1,镇定的女士,镇定的女士,Calm Lady,Спокойная женщина
+char-2,谨慎的佣兵,谨慎的佣兵,Cautious Mercenary,Осторожный наёмник
+char-3,疲惫的佣兵,疲惫的佣兵,Tired Mercenary,Усталый наёмник
+char-4,终端里的声音,终端里的声音,Voice on the Terminal,Голос из терминала
+char-5,广播声,广播声,Radio,Радиопередача
+char-6,摩根,摩根,Morgan,Морган
+char-7,维娜,维娜,Vina,Вина
+char-8,戴菲恩,戴菲恩,Delphine,Дельфина
+char-9,门外的声音,门外的声音,Voice Outside the Door,Голос за дверью
+char-10,局促的议员,局促的议员,Uneasy MP,Встревоженный депутат
+char-11,雍容的议员,雍容的议员,Graceful MP,Благородная депутатка
+char-12,醉酒的议员,醉酒的议员,Drunken MP,Пьяный депутат
+char-13,萨卡兹凶手,萨卡兹凶手,Sarkaz Assassin,Сарказ-убийца
+char-14,长弩,长弩,Longshot,Арбалет
+char-15,因陀罗,因陀罗,Indra,Индра
+char-16,达格达,达格达,Dagda,Дагда
+,,,,
+line-11,,<p=1>伦蒂尼姆废弃工厂</><p=2>1098年12月8日 4:43 P.M. </>,"<p=1>Londinium, Abandoned Factory</><p=2>December 8th, 1098, 4:43 P.M.</>","Заброшенный завод в Лондиниуме. 8 декабря 1098 года, 16:43."
+line-21,镇定的女士,G12区......看上去废弃了段时间，连编号都看不清......是这吗？,Section G12... All these linkage numbers have faded away since this place was abandoned... Is this it?,"Сектор G12... выглядит так, словно его давно забросили, даже номера не разглядеть... Мы на месте?"
+line-22,镇定的女士,呼——千万别再撞上那些该死绝的魔族佬——,*phew* I'm praying I don't run into those damned devils again—,Фух... Только бы не наткнуться снова на этих проклятых сарказов...
+line-29,谨慎的佣兵,女士，我想你迷路了。,"I think you're lost, lady.","Мисс, похоже, вы заблудились."
+line-30,谨慎的佣兵,（喂，新来的，把她送走。顺便“温柔地”问问她怎么找到这的。）,"(Hey, new guy, get her out of here. And while you're at it, ask her <i>nicely</i> how she found this place.)","(Эй, новичок, проводи её. И по пути ""вежливо"" расспроси, как она вообще сюда попала.)"
+line-31,谨慎的佣兵,（记住，这次把尾巴打扫干净。别让老大再发火。）,"(Remember, keep your tail clean this time. Don't make the boss mad.)","(Смотри, заметай следы. Не хочу, чтобы босс снова вышел из себя.)"
+line-33,疲惫的佣兵,唉，你也听到了。跟我来，女士——,"You heard him, lady. Come with me—","Эх, вы сами всё слышали, мисс. Пройдёмте за мной."
+line-46,镇定的女士,放开我的手！,Let go of me!,Убери от меня руки!
+line-47,镇定的女士,你们连对女士的基本尊重都没有吗？,Is this any way to treat a lady?,"У вас что, совсем нет элементарного уважения к дамам?"
+line-48,镇定的女士,米基·罗宾森，典范军的英雄......呃，“之一”，也就是我的先生，委托我来取药。,"Mickey Robinson, hero of the Exemplars... Or rather, <i>one of</i> the heroes, is my husband. He entrusted me to fetch some medicine.","Микки Робинсон, герой «образцовой армии»... ну, то есть «один из» героев, мой муж, поручил мне достать лекарство."
+line-49,镇定的女士,缓、缓解那些可怕黑石子病的药。我先生快走不了路了......,Th-The medicine to dull the pain from those hideous black stones. He can hardly even walk...,О-от... лекарство от этой ужасной орипатии. Мой муж скоро совсем ходить не сможет...
+line-54,疲惫的佣兵,呵，又一个倒霉蛋——,"Hah, yet another unlucky bugger—","Ха, ещё одна бедолага..."
+line-56,谨慎的佣兵,闭嘴。,Shut it.,Заткнись.
+line-60,谨慎的佣兵,听好了，我没听说过什么米基。,"Listen, I haven't heard of any Mickey.","Слушай сюда, я ничего не слышал о каком-то Микки."
+line-61,谨慎的佣兵,这鬼地方你只能找到流浪者的过期致幻剂和死掉魔族佬的骨头棒子。,All you'll find in this blasted place are some bum's expired fun drugs and the dead devils' bones.,В этой чёртовой дыре ты найдешь только просроченные галлюциногены бродяг да кости дохлых сарказов.
+line-63,镇定的女士,可——,But—,Но...
+line-65,谨慎的佣兵,还有，想要治矿石病的药，去新建的疗养院里找，这事还是那位新任的议长大人承诺的。,"Anyways, if you want Oripathy meds, go look for that newly-built Sanatorium. The new Speaker lady promised it'd be stocked.","И вообще, если нужно лекарство от орипатии — иди в новый санаторий, это ведь сам новый председатель обещал."
+line-67,镇定的女士,——等等，我们确实没有其他办法了，那里的药根本不够分。,"Wait, we really have no other choice. There's simply not enough medicine there.","— Подождите, у нас правда нет другого выхода, в санатории лекарств на всех не хватает."
+line-68,镇定的女士,我知道这儿能拿到药，我丈夫他......,"I know I can get it here. My husband, he...","Я знаю, что здесь можно достать медикаменты, мой муж он..."
+line-69,镇定的女士,听着，我存了些值钱玩意儿在一个很安全的地方，都是那个坎伯兰公爵府上的好东西，以前公爵阁下赏我们的。只要能拿到药——,"Listen, I have a few valuables stashed away somewhere safe, all from Cumberland Manor. The late duke gave them to us. If I could just get some medicine—","Послушайте, я припрятала кое-какие ценные вещи в надёжном месте. Это хорошие вещи из герцогского дома Камберлендов, которые когда-то нам подарили. Если только удастся получить лекарство..."
+line-74,谨慎的佣兵,别引起外面巡逻的城防军注意。,Don't give a reason for the Defense Forces patrolling out there to come sniffing around here.,Не привлекай внимания городской стражи снаружи.
+line-76,疲惫的佣兵,走吧，“女士”。,"Just go already, <i>lady.</i>","Пойдёмте, «мисс»."
+line-81,终端里的声音,把单子给她签字，让她明天来拿药。,"Make her sign the list, then let her come by tomorrow to pick up the meds.","Дай ей бумаги на подпись и скажи, чтобы завтра пришла за лекарствами."
+line-83,谨慎的佣兵,是，老大！可万一她没钱......,"Yes, boss! But what if she doesn't have the money...?","Есть, босс! Но что, если у неё вдруг не окажется денег?.."
+line-85,终端里的声音,那就老办法。,We do it the old-fashioned way then.,Тогда действуй по старинке.
+line-91,疲惫的佣兵,奇了怪了，老大好像从来没直接管过这档子事呀。呃，那我现在......？,"That's weird, I don't think the boss ever stuck her nose into this sort of thing. Err, what should I...?","Странно, босс вроде никогда раньше не вмешивался в такие дела. Э-э, что мне теперь делать...?"
+line-93,谨慎的佣兵,哼，给她合同。,Hmph. Just give her the contract.,"Хм, дай ей контракт."
+line-99,镇定的女士,谢谢，谢——这上面的条款，他从来没提过有这么苛刻的条件！要是签了这东西，那我们......,"Thank you, tha—Wait, these clauses... My husband never mentioned them! If I signed this, then we...","Спасибо, спаси... Эти пункты в договоре... Он никогда не упоминал, что условия такие жесткие! Если мы подпишем это, то..."
+line-101,谨慎的佣兵,会活得很好，至少在我们讨债之前。,"He'll live well, at least before we come calling for our due.","Будете жить припеваючи, по крайней мере до того момента, как мы придём за долгом."
+line-102,谨慎的佣兵,看来你那位英雄丈夫对自己的妻子不太坦诚。,"Seems that hero husband of yours wasn't quite so honest with his better half, eh?","Похоже, твой муж-герой не слишком откровенен с собственной женой."
+line-103,谨慎的佣兵,来，笔拿稳，别抖。要实在不行，我们可以代签。,"C'mon, hold that pen steady. If you can't, we can sign it for you.","Ну же, держи ручку крепче, не дрожи. Если сама не можешь, мы можем подписать за тебя."
+line-106,镇定的女士,——,—,—
+line-109,,佣兵死死握住了她拿笔的手，她抖得厉害，方才的镇定再也装不下去了。,The mercenary holds her writing hand tight. The trembling overtakes her. She can no longer maintain her veneer of calm.,"Наёмник крепко сжал её руку, державшую ручку. Она сильно дрожала, и прежнее спокойствие больше не получалось сохранять."
+line-110,,她闭上了眼，咬紧牙，任凭佣兵引导她的手。,"She shuts her eyes, grits her teeth, and lets the mercenary guide her hand.","Она закрыла глаза, крепко стиснула зубы и позволила наёмнику направлять свою руку."
+line-116,谨慎的佣兵,享受活着的每一天吧，*维多利亚粗口*的战争结束了。,"Go on, enjoy your life. Bloody war's over, after all.","Наслаждайтесь каждым прожитым днём, *викторианское ругательство* война окончена."
+line-117,谨慎的佣兵,找“铣痕”求助会是您和您先生最明智的决定，女士。,"Asking Millscar for help will be the best decision you and your husband have ever made, lady.","Обращение за помощью к «Фрезер» будет самым мудрым решением для вас и вашего мужа, мисс."
+line-131,广播声,伦蒂尼姆临时公共卫生行政官兼临时物资筹备主任梅杰女士今晨被发现于新奥克特里格区的公共办公室中去世。,"This morning, Londinium's interim health-secretary-cum-provisioner-general Madam Major was found dead in her office in New Auchterigg District.","Сегодня утром госпожа Мейджер, исполняющая обязанности администратора общественного здравоохранения и временного директора по распределению ресурсов Лондиниума, была найдена мертвой в своем кабинете в районе Нью-Октриг."
+line-132,广播声,亚历山德莉娜议长阁下在今日代表议会，对梅杰女士的感染者帮扶工作表达认可，并哀悼她的离去。,"In today's parliamentary session, Madam Speaker Alexandrina expressed her support of Madam Major's work in caring for the Infected, and lamented her untimely passing.",Председатель Александрина от имени Совета выразила признательность госпоже Мейджер за работу по оказанию помощи зараженным и принесла соболезнования в связи с её кончиной.
+line-133,广播声,梅杰女士逝世前的最后一项日程是前往诺曼底公爵领商谈药物采买，以缓解城内药物短缺的困境。,The final point in Madam Major's itinerary before she passed was a trip to the Dukedom of Normandy to discuss a purchase of medicine so as to relieve the shortages within Londinium's walls.,"Последним запланированным делом госпожи Мейджер перед смертью была поездка в герцогство Нормандия для переговоров о закупке лекарств, чтобы смягчить проблему нехватки медикаментов в городе."
+line-134,广播声,但据可靠的消息来源称，梅杰女士死于矿石病急性发作。,"But according to some reliable sources, Madam Major died of an acute Oripathy attack.","Однако, по достоверным источникам, госпожа Мейджер скончалась от острого приступа орипатии."
+line-135,广播声,她不仅隐瞒了自己感染矿石病的实情，还在近期内被频繁目击到与议长发生争执。,"Not only did she conceal her infection, she was also often seen arguing furiously with the Speaker, in recent times.","Она не только скрывала факт собственного заражения, но и в последнее время её часто видели вступающей в споры с председателем."
+line-136,广播声,在城内上报的感染者数字呈指数增长的敏感时期，失去世袭爵位的梅杰女士离世背后显然还有更多值得挖掘的内幕消息。,"In this sensitive period where the number of reported Infected within the city is growing exponentially, it is clearly worth looking into the death of Madam Major, who had lost her hereditary peerage.","В столь чувствительный период, когда количество зарегистрированных зараженных в городе растет в геометрической прогрессии, за смертью потерявшей титул госпожи Мейджер явно скрывается нечто большее."
+line-137,广播声,萨卡兹撤军两个月后的现在，萨卡兹相关恶性事件为何仍然频频发生？,"Even now, two months after the Sarkaz withdrawal, why are their sinister plots coming back to the fore?",Почему же спустя два месяца после вывода войск Сарказов из города всё ещё происходят связанные с ними преступления?
+line-138,广播声,而典范军，这支传奇队伍的安置方案是否已有定论？,"As for the Exemplars, are the terms of the resettlement program still not finalized?",И принят ли окончательный план по размещению легендарного отряда «образцовой армии»?
+line-139,广播声,所有人的目光都聚焦在那位得到绝大多数公爵支持的新任议长身上。,"All eyes are on the newly-appointed Speaker, who has won the backing of a majority of the dukes.","Все взгляды прикованы к новому председателю, заручившемуся поддержкой большинства герцогов."
+line-140,广播声,我们特意联系了与议长关系匪浅的凯特·莫瑞根女士，进一步挖掘了——,"We have managed to connect with the Speaker's close confidant, Miss Kate Morrigan, digging deeper into—","Мы специально связались с госпожой Кейт Морриган, близко знакомой с председателем, чтобы глубже узнать..."
+line-145,,议长办公室内的广播声戛然而止。,The broadcast in the Speaker's office suddenly falls silent.,Радио в кабинете председателя внезапно замолчало.
+line-150,摩根,这些人真是胡说八道！,"Those louts are a real crock of shit, I tell you!",Да что они вообще несут?!
+line-151,摩根,他们明明就蹲守在疗养院的食堂，故意等我吃饭的时候凑上来套话......,"They were loafing about the Sanatorium cafeteria, waiting for me to sit down for lunch before they tried to wheedle some info out of me...","Они же специально караулили в столовой санатория и дожидались, пока я буду обедать, чтобы привязаться с вопросами..."
+line-157,维娜,然后你狠狠地揍了这帮人一顿。,Then you beat the hell out of them.,А потом ты как следует отлупила эту шайку.
+line-159,摩根,我以为......至少这样他们就不敢再随便乱报道......,"I thought... That way, they wouldn't dare run their mouths on the news again...",Я думала... хотя бы так они побоятся распускать слухи...
+line-160,摩根,对不起。我没想过会影响到大家对你的看法——,Sorry. I didn't think about how it'd affect the way everyone sees you—,"Прости. Я не думала, что это повлияет на мнение людей о тебе..."
+line-162,维娜,不，如果是我，我也会一脚把他们全踹出去。,"No, I would have kicked them out too, literally.","Нет. Будь я на твоём месте, я бы тоже вышвырнула их всех одним пинком."
+line-164,摩根,啊？可是......,Huh? But...,А? Но ведь...
+line-166,维娜,无论你在那些以满足自我臆想为生的消息贩子面前说什么，都不会改变他们早就盘算好的答案。,It doesn't matter what you say to those newshounds when they're in the business of making up fluff. They've already decided what to put in their latest story a long time ago.,"Что бы ты ни сказала этим торгашам новостей, которые живут лишь ради удовлетворения своих фантазий, ты всё равно не изменишь ответ, который они уже давно для себя придумали."
+line-167,维娜,反正没法让他们闭嘴，还不如直接点。,"Since there's no way of shutting them up, might as well get straight to the point.","Всё равно их не заставишь замолчать, так что лучше сразу действовать на прямую"
+line-175,,维娜双拳相击，熟练地用起了刻在本能里的步伐。,"Vina strikes her two fists together, putting herself through the paces engraved in her instincts with ease.",Вина сжала кулаки и уверенно перешла на отточенные до инстинкта движения.
+line-176,,就像过去在拳馆时的每一天一样。,Just like she always did back in the gym.,"Точно так же, как тогда, когда она ещё была в бойцовском клубе."
+line-178,摩根,哈！这才是我认识的维娜！我就知道，汉娜还说——,"Hah! That's the Vina I know! I knew it, Hannah even said—","Ха! Вот это та Вина, которую я знаю! Я так и знала, а Ханна ещё говорила..."
+line-184,摩根,呃——,Whoa.,Э-э...
+line-186,维娜,......这身衣服真碍事。是不是该找人再改改——,These clothes really do get in the way. Maybe I should find someone to make some alterations—,...Этот наряд так мешает. Надо бы попросить кого-то перешить его...
+line-189,戴菲恩,我确实认识一个不错的裁缝。,I happen to know a pretty good tailor.,Я как раз знаю одного неплохого портного.
+line-196,戴菲恩,年轻时还给王室做过衣服，这次运气好活了下来。可惜现在没人敢找他干活。,"He made clothes for the royal family when he was younger. Luckily, he made it through everything alive. Shame nobody dares hire him nowadays.","В молодости он шил для королевской семьи, удача, что он выжил. Жаль, что сейчас никто не рискует давать ему работу."
+line-198,维娜,......也感染了？,Infected as well?,...Тоже заражён?
+line-200,戴菲恩,嗯。,Yes.,Да.
+line-202,摩根,咳，对了，你通讯里提到的那件事是不是有进展了？,"*cough* Ah yeah, any progress on that thing you mentioned in your message?","Кхм, кстати, кстати, как там то дело, о котором ты упоминала по связи?"
+line-204,戴菲恩,情况有点复杂。,The situation is complicated.,Ситуация сложная.
+line-206,戴菲恩,那个动手伤人的萨卡兹我们抓到了，人现在就扣在西涅塞德大堂的议会厅里。,We've captured the Sarkaz who have been hurting people. They're now cuffed in the Sineselde's parliamentary chamber.,"Мы схватили того сарказа, который напал на людей, он сейчас под стражей в зале Совета в Синисайд-холле."
+line-207,戴菲恩,我的初步判断是这事或许和那些在废弃地下工厂内活动的团伙脱不开干系。,I suspect this might have something to do with the gangs operating out of the abandoned underground factories.,"По моим предварительным оценкам, это дело может быть связано с группировками, орудующими на заброшенных подземных заводах."
+line-209,维娜,......“铣痕”。,Millscar.,...«Фрезер».
+line-211,戴菲恩,至于背后是否还有诺曼底公爵那位继承人的手段——,As for whether or not the Duke of Normandy's heir is behind all this—,"А что касается того, не замешана ли здесь наследница герцога Нормандии..."
+line-213,维娜,我会再和她......,She and I will resume...,Я сама с ней...
+line-215,维娜,交涉。,Negotiations.,Поговорю.
+line-217,维娜,梅杰女士的遭遇，城里市民们的药物供应，还有“铣痕”的团伙和那些萨卡兹。,"Madam Major's death, the Londiniers' medicine supply, as well as Millscar's gang and those Sarkaz...","Дело госпожи Мейджер, поставки лекарств горожанам, и группировка «Фрезер» вместе с теми сарказами."
+line-218,维娜,现在城里许多事，已经没法像两个月前那样纯靠拳头解决了。,"There're a lot of things to handle in this city, and none we can solve with our fists like we did two months ago.","Многие дела в городе теперь не решить одними кулаками, как два месяца назад."
+line-220,戴菲恩,你适应得很快，维娜。我相信现在的议会能解决这些事情，放心，我会协助你。,"You've settled into the job quick, Vina. I believe Parliament as it is now can manage these issues, so relax. I'm here to help you.","Ты быстро адаптируешься, Вина. Я верю, что нынешний Совет справится с этим, не волнуйся, я буду помогать тебе."
+line-222,戴菲恩,过去妈妈对我的训练本就是为了应对这样的场面......我不会让她丢脸。,Mother taught me how to handle this sort of situation. I won't let her down.,"Обучение, которое мне дала мама, было как раз для таких ситуаций... Я не заставлю её краснеть."
+line-224,摩根,......,...,...
+line-232,戴菲恩,摩根？,Morgan?,Морган?
+line-235,门外的声音,我先去议会厅等你们。,I'm heading over to Parliament. See you there.,"Я пока пойду в зал Совета, подожду вас там."
+line-237,维娜,......,...,...
+line-238,维娜,她只是有些不太适应现在这种生活。我们都是。,She's not quite used to this sort of life yet. None of us are.,Она просто пока не может привыкнуть к этой жизни. Как и все мы.
+line-240,维娜,有些事，推进之王能做，但这个所谓的议长却做不得。,There are some things Siege could do that this so-called Speaker can't.,"Есть вещи, которые Сидж могла бы сделать, а этот так называемый председатель — нет."
+line-242,维娜,被那个萨卡兹伤到的当事人情况如何？,How's the victim of the Sarkaz attack?,"Как дела у пострадавшего, на которого напал тот сарказ?"
+line-244,戴菲恩,委托了罗德岛的医疗部同事照看，暂无生命危险。,"In the care of our colleagues at Rhodes Island's medical department. No life-threatening complications, for the time being.","Я поручила коллегам из медицинского отдела Родос Айленда присматривать за ним, угрозы жизни нет."
+line-245,戴菲恩,而且我们追查到的那批劣质药物，大部分的源头都是“铣痕”。,"Moreover, we've traced the source of those low-quality medicines. Most of them came from Millscar.","К тому же, большая часть той партии некачественных лекарств, которую нам удалось отследить, поступила от группировки «Фрезер»."
+line-246,戴菲恩,不少人病急乱投医，到头来却被那帮流窜分子骚扰得苦不堪言。,"Many turned to them in desperation, but in the end, all they got was a pile of harassment from that gang of wandering goons.","Немало людей в отчаянии хватались за любую возможность получить лечение, но в итоге эта шайка преступников так их донимала, что те не знали, куда деваться."
+line-247,戴菲恩,至于“铣痕”本人是否知情，或者这只是她管教手下不严，我不确定——,"As for whether this Millscar is in the know, or if it's the work of some overeager underlings, I'm not too sure—","А вот знает ли об этом сама «Фрезер», или это просто результат плохого контроля над подчиненными — я не уверена..."
+line-249,维娜,阿勒黛知道。,Allerdale knows.,Аллердейл знает.
+line-256,,“铣痕”，潜伏于伦蒂尼姆阴影中的凶徒里最猖獗的一个。,Millscar. The wildest villain running rampant in Londinium's shadows.,"«Фрезер» — одна из самых опасных преступных группировок, скрывающихся в тенях Лондиниума"
+line-260,,阿勒黛，已经死去的，永远高洁的坎伯兰家族的最后余晖。,Allerdale. She's dead. The final furious flame of Cumberland the Ever on High.,"Аллердейл — ушедший в небытие, вечно благородный последний отблеск семьи Камберленд."
+line-261,,维娜自己都快忘记，是从什么时候开始，这两个名字下的身影逐渐融为一体。,Vina herself has already forgotten when the figures behind those two names slowly became one.,"Вина уже почти забыла, с какого момента эти два образа стали неразделимы."
+line-262,,是在战争几乎已经结束的时候吗？,Was it when the war was nearly over?,"Было ли это, когда война уже подходила к концу?"
+line-268,,她下意识地摸了摸身上的衣服，当典范军的“英雄领袖”披着这身王室旧铠走出圣王会西部大堂时......,She subconsciously paws at her clothes. By the time the Exemplars' 'heroic leader' walked out of the Palace of Westhaleg wearing this old suit of royal armor...,"Она машинально коснулась своей одежды, когда «героический лидер» образцовой армии вышла из западного зала Святого Королевского Совета в этих старых королевских доспехах..."
+line-269,,她已在黎明时分扯下了卡兹戴尔军事委员会的旗帜，也看到了一个熟悉的身影与蒸汽骑士默默隐入了漫天的蒸汽之中。,"She had already torn down the flag of Kazdel's Military Commission at the break of dawn, and had seen a familiar figure and the Steam Knight fade away into the all-encompassing vapor.","Она уже сорвала флаг Военного совета Казделя на рассвете, и видела, как знакомый силуэт вместе с Паровым рыцарем молча растворился в клубах пара."
+line-270,,那一天，阿勒黛没有来见她，而是转身离去消失在满目疮痍的城市的阴影里。,"That day, Allerdale did not go to her. Rather, she turned and disappeared into the shadows of the ruined city.","В тот день Аллердейл не встретилась с ней, а развернулась и исчезла в тенях разрушенного города."
+line-272,维娜,......走吧，该去议会厅了。,Let's go. To Parliament.,"...Пойдём, пора в зал Совета."
+line-285,,<i>西涅塞德大堂，过去王室的地产，总是出租给贵族们作为宴会的场所。当所有人都头疼新的议会厅该选在哪时，维娜才发现留给伦蒂尼姆人的选择并不多。</i>,"<i>The Sineselde, once a royal estate often rented by nobles as a banquet hall. It wasn't until everyone was dealing with the headache of where to house Parliament that Vina realized there weren't many choices left for the Londiniers.</i>","<i>Синисайд-холл, бывшая королевская собственность, которую всегда сдавали в аренду аристократам для банкетов. Когда все ломали голову, где разместить новый Совет, Вина поняла, что у жителей Лондиниума не так уж много вариантов.</i>"
+line-286,,\n<i>那场混乱摧毁了这座城市的太多东西。</i>,\n<i>The chaos of war had destroyed far too much of this city.</i>,"
+<i>Тот хаос уничтожил слишком многое в этом городе.</i>"
+line-288,,<i>我在海报和电影里见过这个房间很多次。过去我老觉得它大得惊人，大到足以让我们几个大区的帮派头头带着所有兄弟们一起坐下来聊聊各自的地盘。</i>,"<i>I've seen this room many times before on posters and in movies. I used to be astonished by how massive it was, big enough for every gang boss to bring all their boys and girls in to sit down and have a chat about their turfs.</i>","<i>Я много раз видела этот зал на плакатах и в фильмах. Раньше он казался мне невероятно огромным, настолько большим, чтобы главари банд из нескольких районов могли сесть и обсудить свои территории.</i>"
+line-289,,\n<i>但现在，这地方让我很失望，真是局促到可以闷死人。</i>,"\n<i>But now, it disappoints me. It's filled to the gills, all cramped and suffocating.</i>","
+<i>Но сейчас это место меня разочаровало: здесь так тесно, что хоть задыхайся.</i>"
+line-290,,\n<i>尽管维娜从没亲口承认过，但我保证她和我的想法铁定一样——</i>,"\n<i>Though Vina's never admitted it, I know her and I are of like mind—</i>","
+<i>Хотя Вина никогда не признавалась в этом вслух, я уверена, что она думает точно так же —</i>"
+line-298,局促的议员,（摩根老大......摩根老大......）,(Miss Morgan... Miss Morgan...),(Босс Морган... Босс Морган...)
+line-300,摩根,欸？,Huh?,А?
+line-302,局促的议员,我不是故意打断你写东西，只是，只是......,"I didn't mean to interrupt your writing, it's just that... that...","Я не нарочно прерываю вас, просто, просто..."
+line-303,局促的议员,（巴纳比又迟到了，我想去找找他。我担心他又在哪醉倒了。）,"(Barnaby's late again, I'm thinking of going to look for him. I'm worried he's gone and gotten himself soused again.)","(Барнаби снова опаздывает, я хочу его найти. Боюсь, как бы он опять где-нибудь не напился.)"
+line-305,摩根,反正维娜还没到，想去就去呀，不用特意——,"Well, Vina's not here yet. If you're gonna look, go look, no need to ask me—","Раз Вина ещё не пришла, хочешь — иди, не нужно специально..."
+line-307,摩根,等等！,Wait!,Подожди!
+line-308,摩根,我想起来了，你上次也这么说，然后你俩整场会议都没回来。,"Now that I think about it, you said the same last time, and the two of you never came back the entire session.","Вспомнила, в прошлый раз ты так же сказал, и вы оба пропустили всё заседание."
+line-310,局促的议员,上、上次只是被关在外面了......,W-We were just locked out last time...,Т-тогда нас просто заперли снаружи...
+line-311,局促的议员,摩根老大，不瞒你说，我抱着工厂里那堆图纸都过了大半辈子了。,"In all honesty, Miss Morgan, I've been carrying around the factory's design sheets for near my entire life.","Босс Морган, честно говоря, я всю жизнь проработал с чертежами на заводе."
+line-312,局促的议员,要是让我参加质检评审会，随便什么零件的数据我都门儿清，没一个工头敢挑我的刺。,"If you asked me to do a quality inspection, I'd know all the ins and outs of whichever part you'd like, and there wasn't a foreman out there who'd dare say I was wrong.","Если нужно оценить деталь, я знаю все данные наизусть, ни один мастер не сможет придраться."
+line-313,局促的议员,可是坐这......还和那边那几个贵族老爷平起平坐，盯着这堆啥也看不懂的文件来管理这么大一个城市——,"But sitting here with those lords and ladies, trying to read these documents covered in gobbledygook so we can manage such a ridiculously huge city...","Но сидеть здесь... на равных с этими господами-аристократами и пытаться управлять городом, разглядывая бумаги, в которых ничего не понимаю..."
+line-314,局促的议员,（我这辈子管过最大的地儿也就我负责的那一个车间。唔，我心里真发怵。）,"(Biggest thing I've looked after in my life was my workshop. God, my heart's pounding like mad.)","(Самое большое, чем я управлял в жизни, — это мой цех. Ух, мне не по себе.)"
+line-316,摩根,有我们罩着，怕那些贵族混账干嘛？,"With us at your back, why be scared of some tosspot nobles?","Раз мы рядом, чего бояться этих аристократических отбросов?"
+line-325,,衣着华丽的议员看到了摩根的目光，微笑着点头致意。,"An elegantly-dressed member of parliament's eyes meets Morgan's gaze, and she smiles and nods her head in greeting.",Элегантно одетая депутатка заметила взгляд Морган и с улыбкой кивнула в знак приветствия.
+line-327,雍容的议员,天气不错，诸位安康。,Fine weather we're having today. I hope you are all in good health.,"Погода сегодня отличная, дай вам бог здоровья."
+line-329,摩根,咳......你也安康。,"Ah, yeah. Good health to you too.",Кхе... И вам того же.
+line-331,局促的议员,我们很好，我们很好。,"We're fine, just fine, thanks.","Мы в порядке, в полном порядке."
+line-336,摩根,（呃，就当帮维娜撑场子了。）,(Well... Just treat it as helping Vina fill the seats.),"(Эх, поддержу Вину.)"
+line-337,摩根,（虽然他们也不是，嗯，所有人都那么混账，但坐这管理伦蒂尼姆的权利可是我们自己拿命拼回来的。）,"(I suppose they're not <i>all</i> tosspots, but keep in mind that we put our lives on the line to take back the right to sit here.)","(Хотя не все они такие уж отбросы, но право управлять Лондиниумом мы завоевали своими жизнями.)"
+line-338,摩根,（难道你又想回到过去那种日子里吗？那在那些混账继续乱来之前，我可要先揍你了。）,"(Are you seriously thinking of going back to the days before that? If so, I'll have to sort you out first before these bastards ruin this city again.)","(Разве ты хочешь вернуться к той жизни, что была раньше? А то до того, как они продолжат творить беспредел, я тебе саму вломлю.)"
+line-340,局促的议员,我懂，我懂。因陀罗老大和达格达老大不来吗？,"Alright, I get it, I get it. Are Miss Indra and Miss Dagda not showing up today?","Ладно, я понимаю, понимаю. Индра и Дагда не придут?"
+line-342,摩根,她们还忙着处理一些治安的乱子。,They're busy handling some public safety stuff.,Они заняты решением проблем с безопасностью.
+line-344,局促的议员,（唉，我也宁愿回去抱着我的锤子睡觉。）,(*sigh* I'd rather hold my hammer tight and go back to bed too.),"(Эх, я бы тоже лучше вернулся к своему молоту и лёг спать.)"
+line-354,雍容的议员,议长阁下，您到......您这是？,"Oh, Madam Speaker, you're here—What's this?","Госпожа председатель, вы прибыли... Это ещё кто?"
+line-356,摩根,维娜！欸，你背着的那人......,"Vina! Wait, who's that you're carrying?","Вина! Эй, а кого это ты тащишь на спине..."
+line-359,局促的议员,巴纳比！,Barnaby!,Барнаби!
+line-367,醉酒的议员,克、克莱夫......,C-Clive...,К-Клайв...
+line-369,维娜,戴菲恩，帮忙把他送到座位上吧。,"Help him to his seat, Delphine.","Дельфина, помоги отнести его на место."
+line-382,戴菲恩,他喝多了趴在西涅塞德大堂门口睡大觉，还扯着维娜不放。,He drank until he passed out in front of the Sineselde's doors. Now he won't let go of Vina.,"Он напился и завалился спать у входа в Синьесид-холл, не отпуская Вину."
+line-385,醉酒的议员,我是在等议长阁下！,I'm waiting for the Speaker!,Я вообще-то ждал госпожу председателя!
+line-386,醉酒的议员,我有一、一整套能马上改善药物短缺问题的提案——,I've got... got a whole lot of proposals to help with the meds shortage—,"У меня е-есть план, как немедленно решить проблему нехватки лекарств..."
+line-388,戴菲恩,......那你应该正式呈文。我们改革议会颁布的这些规则，本就是为了约束我们自己。,Then you should include them in your formal petition. We reformed the rules issued by Parliament all so we could bind ourselves.,"...Тогда тебе следовало подать официальный документ. Правила, которые мы приняли в реформированном Совете, нужны именно для того, чтобы сдерживать нас самих."
+line-390,局促的议员,戴菲恩阁下，巴纳比他不是故意耍浑，他和我说过很多次他的构想！,"Lady Delphine, I swear Barnaby here's not trying to be a simpleton on purpose. He and I have talked about his ideas loads of times!","Дельфина, Барнаби не хотел безобразничать, он много раз рассказывал мне свои идеи!"
+line-391,局促的议员,他只是和我一样，一进了这鬼地方就浑身不得劲，就跟魂都被抽走了一样。不光话说不清，连砍魔族佬时不怕死的胆子都全没了。,"He's just like me, sick to our stomachs the moment we stepped foot into this bloody place, like the soul's getting sucked right out of us. It's not just that we can't speak right, all the brass courage we had while chopping down devils is gone.","он просто как и я чуствует себя не в своей тарелке как только входит сюда, из нас будто душу высосали. и говорить толком не можем, бестрашие с которым мы рубили сарказов тоже куда-то делось "
+line-392,局促的议员,所以我才出了馊主意，说或许灌点酒就......就......,So I came up with this stupid idea. That maybe a bit of drink would... would...,"Поэтому я и предложил эту дурацкую идею — мол, может, немного выпить, чтобы расслабиться..."
+line-394,摩根,放心好了，维娜她才不会因为这个生气。,"Relax, Vina's not going to get mad over something like that.","Не волнуйся, Вина точно не станет из-за этого злиться."
+line-396,戴菲恩,不用紧张，如今的新议会本就极为复杂。所有人都在观察，我们也都在适应和学习......包括议长阁下。,"Right, you needn't worry. Parliament nowadays is incredibly complex by nature. Everyone here's on the lookout, getting used to things and learning on the job... That includes the Speaker.","Успокойтесь, нынешний новый Совет — дело крайне сложное. Все наблюдают, все мы адаптируемся и учимся... включая госпожу председателя."
+line-397,戴菲恩,想要在战场之外赢那些对我们不怀好意的人，我们就不得不去学习他们的思考方式。,"If we're going to defeat those who wish us ill off the battlefield, we're going to have to learn how they think.","Чтобы победить тех, кто не желает нам добра вне поля боя, нам придётся научиться мыслить так же, как они."
+line-398,戴菲恩,这个过程对大家来说，都不会轻松。你们已经做得够好了。,"It's not going to be an easy process for any of us. The two of you have done pretty well, all things considered.",Этот путь ни для кого из вас не будет лёгким. Вы и так уже сделали достаточно.
+line-400,摩根,......如果我们最后也变得像那些人一样了呢？,What if we become them once we learn enough about them...?,"...А если в итоге мы станем такими же, как они?"
+line-402,局促的议员,我，我绝对不会，摩根老大！,"I-I certainly won't, Miss Morgan!","Я, я ни за что не стану такими как они, босс Морган!"
+line-404,摩根,我没说你会，克莱夫。,"I'm not saying you will, Clive.","Я не говорю, что ты станешь таким, Клайв."
+line-406,戴菲恩,我没法保证事情最终不会变成那样，摩根。没人敢保证。,"I can't guarantee that won't be the case, Morgan. Nobody can.","Я не могу гарантировать, что в итоге всё не обернется именно так, Морган. Никто не может."
+line-408,摩根,我相信维娜。汉娜和达格达也一样......不管你们怎么想。,I believe in Vina. So do Hannah and Dagda... I don't care what you all think.,Я верю в Вину. Ханна и Дагда тоже... что бы вы там ни думали.
+line-420,维娜,我们今天召开临时会议的原因大伙应该都很清楚。,I'm sure we're all very clear on why we have convened this emergency meeting.,"Все вы, вероятно, хорошо понимаете причину нашего сегодняшнего экстренного заседания."
+line-421,维娜,议会重新组建以来，我们一直致力于解决依旧活动在城内的萨卡兹所造成的问题。,"Ever since Parliament was reestablished, we have worked around the clock to resolve the issue of the Sarkaz who continue to operate within Londinium's walls.","С момента реформирования Совета мы стремились решить проблемы, создаваемые сарказами, всё ещё остающимися в городе."
+line-422,维娜,伦蒂尼姆的市民拥有议会的许诺——“安全”。,We gave our citizens a promise. A promise of safety.,Граждане Лондиниума получили от Совета обещание — «безопасность».
+line-423,维娜,无论是危险的萨卡兹，还是诸如“铣痕”等流窜在城内的佣兵，议会都在竭力予以解决。,"It matters not if it is the Sarkaz, or roving mercenaries such as Millscar hiding within the city; Parliament will strive to settle the matter.","Совет сделает всё возможное, чтобы разобраться и с опасными сарказами, и с наёмниками вроде «Фрезер», орудующими в городе."
+line-424,维娜,议会不会容忍任何威胁市民安全的恶意行为。,We will brook no evil that threatens the safety of our people.,"Совет не потерпит никаких злонамеренных действий, угрожающих безопасности граждан."
+line-426,萨卡兹凶手,......你们想要审判我？,...You're putting me on trial?,...Вы собираетесь судить меня?
+line-428,维娜,没有审判，萨卡兹。议会新通过的临时法案里已经明确了处置你的办法，临时法庭也已经审理通过。,"There will be no trial, Sarkaz. Parliament's new interim bill dictates how we handle you. The provisional court has passed it as well.","Это не суд, сарказ. В новом временном законе, принятом Советом, четко указан порядок действий в отношении тебя, временный суд уже вынес решение."
+line-429,维娜,——以所有人都认同的方式。,You will be dealt with in a manner that all agree upon.,"— Таким способом, который признают все."
+line-431,萨卡兹凶手,不是所有人，是你们。,Not everyone. Just you people.,"Не все, а вы."
+line-433,维娜,你重伤了一位善良的店主，为了一盘他本就准备留给你的面包。,"You caused grave injury to a kind-hearted shopkeep, all for a loaf of bread he had already set aside for you.","Ты тяжело ранил добропорядочного лавочника, из-за той самой порции хлеба, которую он приготовил для тебя."
+line-435,萨卡兹凶手,......他还活着吗？,He's still alive?,...Он ещё жив?
+line-437,维娜,活着。,He is.,Жив.
+line-439,萨卡兹凶手,好。你准备什么时候宰了我？,"Good. So, when's the execution?",Хорошо. Когда вы собираетесь меня прикончить?
+line-441,维娜,......你当初真的应该跟着你的同族们一起离开。,You really should have left with the rest of your kind when the war ended.,...Тебе действительно следовало уйти вместе со своими сородичами.
+line-443,萨卡兹凶手,你还记得我？也是，毕竟在他们大撤军的时候，是你放了我。,"You still remember me? Of course you do. You were the one who let me go during the big retreat, after all.",Ты меня помнишь? Ещё бы. Ведь во время их отступления именно ты меня отпустила.
+line-444,萨卡兹凶手,说起来，你还是我的救命恩人，典范军的头头。,"I'd say you were my savior, head of the Exemplars.","Кстати, ты моя спасительница, лидер образцовой армии."
+line-446,维娜,......你——,You—,...Ты —
+line-453,萨卡兹凶手,“长弩”，我女儿叫我“长弩”。你当时没问过我的名字，我想你身边这些人现在也不在乎我的名字。,"'Longshot'. That's what my daughter calls me. You didn't ask me my name at the time, and I'm betting the people sitting by your side don't give a damn what it is.","«Арбалет». Моя дочь называла меня «Арбалетом». Ты тогда не спросила моего имени. Думаю, этим людям рядом с тобой сейчас тоже всё равно, как меня зовут."
+line-454,长弩,但“长弩”想替一些人问问坐在这里的所有人——,"But I'm going to ask everyone here something, on behalf of a few others.","Но «Арбалет» хочет спросить от имени некоторых людей у всех, кто здесь сидит:"
+line-455,长弩,那些生下来就在伦蒂尼姆，一辈子都没离开的萨卡兹，还算维多利亚人吗？,"Are Sarkaz born and bred in Londinium, who have never left the city, still considered Victorians?","А Сарказы, которые родились в Лондиниуме и всю жизнь никуда отсюда не уезжали, всё ещё считаются викторианцами?"
+line-464,,<i>说实话，我从来没有想过那个问题。</i>,"<i>To be honest, I've never really thought about that question.</i>","<i>Честно говоря, я никогда не задумывалась об этом.</i>"
+line-465,,\n<i>那个自称“长弩”的萨卡兹说话声音不重，但原本还吵吵嚷嚷的议会厅一下子彻底安静了。</i>,"\n<i>The Sarkaz who called himself Longshot never yelled or shouted, but the rowdy, chattering chamber went dead quiet as he spoke.</i>","
+<i>Сарказ, называющий себя «Арбалет», говорил негромко, но в шумном зале Совета внезапно воцарилась полная тишина.</i>"
+line-466,,\n<i>我一直观察着周围的人，尤其是那些贵族们的表情。</i>,"\n<i>I looked at the people all around me, paying special attention to the nobles' expressions.</i>","
+<i>Я наблюдала за окружающими, особенно за выражениями лиц аристократов.</i>"
+line-469,,<i>心里早就有答案的人不想随便说话。而没什么想法，心里直打鼓的人只敢偷瞄谁会最先发言好准备之后附和。</i>,"<i>Those who had long made up their minds on the issue didn't feel like speaking up. As for those who hadn't, the more nervous of them had their eyes darting about, waiting for someone else to speak up first.</i>","<i>Те, у кого уже давно был ответ, молчали. А те, у кого не было мыслей, только украдкой посматривали, кто заговорит первым, чтобы потом согласиться.</i>"
+line-470,,\n<i>可我嘛，我属于第三种人——什么都懒得想，因为现在有维娜替我想了。</i>,"\n<i>But me? I was part of the third kind of people. I didn't have to make up my mind, because Vina'd do it for me.</i>","
+<i>А я вот отношусь к третьему типу — мне лень вообще о чём-либо думать, ведь теперь за меня думает Вина.</i>"
+line-471,,\n<i>所以那天，我只需要等维娜的回答。</i>,"\n<i>So that day, all I had to do was wait for her answer.</i>","
+<i>Поэтому в тот день мне оставалось лишь дождаться ответа Вины.</i>"
+line-474,,<i>就像我在城墙上，望着出城的萨卡兹队伍时，等待维娜给我的回答。</i>,"<i>Just like the time I was up on the city walls, watching the Sarkaz troops leave the city, waiting for her to give me an answer.</i>","<i>Так же, как тогда, стоя на городской стене и провожая взглядом уходящий из города отряд Сарказов, я ждала ответа Вины..</i>"
+line-493,,<i>那场面我恐怕到老都忘不掉。</i>,"<i>I don't think I'm ever going to forget that sight, so long as I live.</i>","<i>Боюсь, эту сцену я не забуду до самой старости.</i>"
+line-494,,\n<i>那天，我也问了维娜一个问题——那些害死了贝尔德的萨卡兹，凭什么能这样大张旗鼓地离开？</i>,"\n<i>Back then, I also had a question for Vina: Why're we allowing those Sarkaz who killed Baird to leave with so much pomp and circumstance?</i>","
+<i>В тот день я тоже задала Вине один вопрос — почему те Сарказы, убившие Бэрд, могут вот так открыто уйти?</i>"
+line-503,,<i>但那天，维娜什么也没说。</i>,<i>She never said anything that day.</i>,<i>Но в тот день Вина ничего не ответила.</i>
+line-508,,<p=1>伦蒂尼姆城墙上</><p=2>1098年10月8日 8:48 P.M. </>,"<p=1>Atop Londinium's Walls</><p=2>October 8th, 1098, 8:48 P.M.</>","Лондиниум, крепостная стена. 8 октября 1098 года, 20:48."
+line-512,,萨卡兹的队伍离开了。,The Sarkaz troops are leaving.,Армия сарказов ушла.
+line-513,,飞空艇的阴影落在肃杀且有序的队伍中，“生命脊椎”荡起的波纹撕开了城外废墟之上的阴云。,"The airship's shadow looms over the silent, orderly soldiers, the Lifebone tearing ripples through the dark clouds hanging above the ruins outside the city.","Тень дирижабля легла на организованные колонны, а рябь, вызванная «Позвоночником жизни», разогнала тучи над руинами за городом."
+line-514,,维娜站在城墙之上沉默地看着远去的军队。不久前，正是这些人撕裂了她的家园。,"Vina stands atop the walls, quietly watching them march into the distance. Not too long ago, they were tearing apart her home.","Вина молча стояла на городской стене, глядя вслед удаляющейся армии. Ведь ещё совсем недавно именно эти люди разрушили её родной дом."
+line-515,,大地满是疮痕与血痂。,The land is scarred and slick with blood.,Земля была покрыта шрамами и засохшей кровью.
+line-516,,“阿喃那”给伦蒂尼姆留下的创伤，又需要多少年才能恢复呢？,How many years will it take to recover from the wounds Amnannam left on Londinium?,"Сколько лет потребуется, чтобы Лондиниум оправился от ран, нанесенных «Ананной»?"
+line-519,因陀罗,维娜，我不知道博士和你说了什么，但我们现在还来得及把他们全都揍垮！,"I don't know what you and the Doctor talked about, Vina, but there's still time to beat the shite out of all those bastards!","Вина, я не знаю, что тебе сказал Доктор, но мы ещё успеем разнести их всех в клочья!"
+line-520,因陀罗,我们的人和从公爵那边联合过来的同伴都还在城墙下等着呢。只要——,Our men and the boys from the ducal alliance are still waiting down at the foot of the walls. Just—,"Наши люди и наши соратники, объединившиеся с герцогом, все ещё ждут у стены. Только дай команду..."
+line-521,戴菲恩,汉娜，现在最需要冷静的是我们。,"Hannah, we're the ones who most need to stay calm right now.","Ханна, сейчас нам нужно сохранять спокойствие."
+line-522,戴菲恩,我比你们谁都更想要把这些人全都留在这里......但事实就是，我们做不到。,"I'd like more than any of you to keep them here... But truth be told, we simply can't do it.","Я хочу удержать этих людей здесь больше, чем кто-либо из вас... Но факт в том, что мы не можем этого сделать."
+line-523,维娜,......,...,...
+line-524,达格达,大公爵们的主力舰队可都没后撤太远，戴菲恩。,"The dukes' main fleets haven't retreated too far away, Delphine.","Основные флоты великих герцогов отступили недалеко, Дельфина."
+line-525,摩根,达格达说得对！他们哪怕再有什么小心思，只要我们真打起来，为了装装面子他们也得帮我们。,"Dagda's right! They can hem and haw all they like, but once we start the fight again, they'll have to help us out, even if it's just keeping up pretenses.","Дагда права! Даже если у них есть свои коварные планы, как только мы начнем бой, ради приличия им придется помочь нам."
+line-526,戴菲恩,然后让好不容易活下来的这些人再去把命拼掉？,Then? Are you going to let these people who fought so hard to survive the war just throw their lives away?,"А потом заставить этих людей, которые с таким трудом выжили, снова поставить свои жизни на кон?"
+line-527,戴菲恩,停战协议的公告所有人都已经看过了，现在不是逞一时爽快的时候。,Don't forget the ceasefire agreement. Now's not the time to act recklessly.,"Все уже читали уведомление о прекращении огня, сейчас не время действовать на эмоциях."
+line-528,摩根,......,...,...
+line-529,因陀罗,忍忍忍，放他妈的屁！,"All you ever say is 'don't, don't, don't'! Screw this! Screw it all!","Терпеть, терпеть, да к черту всё это!"
+line-530,因陀罗,老子就是忍不了！,I can't take it any longer!,Я просто больше не могу терпеть!
+line-531,因陀罗,（哽咽）这么多人......这么多同伴......贝尔德......,(Choking back tears) All those people... Our friends... Baird...,(всхлипывает) Столько людей... столько товарищей... Бэрд...
+line-535,,因陀罗一刻也待不下去，她害怕自己会忍不住顺着城墙滑下去。,Indra stays not a moment longer. She fears she cannot stop herself from sliding down the walls to join the crowd below.,"Индра не могла оставаться на месте, она боялась, что не удержится и сорвется вниз со стены."
+line-536,,害怕自己会忍不住，带着那些唇边都咬出血的同伴们冲出去——,"She fears she cannot stop herself from leading the charge, pulling her battle-worn yet battle-hungry fellows back into the fray.","Боялась, что не выдержит и рванет вперед вместе с товарищами, у которых губы были искусаны в кровь..."
+line-537,维娜,汉娜......,Hannah...,Ханна...
+line-538,达格达,她这段时间一直都在压抑自己......维娜，别担心，我去盯着她。,"She's been bottling herself up this whole time. Don't worry, Vina. I'll go keep an eye on her.","Она всё это время сдерживалась... Вина, не волнуйся, я прослежу за ней."
+line-539,达格达,她只是嘴上说说，不是会干傻事的人。,She's just venting. She's not the foolhardy type.,"Она только на словах горячая, не пойдет на глупости."
+line-540,摩根,维娜，那些害死了贝尔德的萨卡兹，凭什么能这样大张旗鼓地离开？,Vina. Why're we allowing those Sarkaz who killed Baird to leave with so much pomp and circumstance?,"Вина, почему те Сарказы, убившие Бэрд, могут вот так открыто уйти?"
+line-541,维娜,......,...,...
+line-542,戴菲恩,这已经是博士和维什戴尔能争取到的最好结果了。,This is the best the Doctor and Wiš'adel could get us.,"Это лучший результат, которого смогли добиться Доктор и Виш'адель."
+line-543,戴菲恩,伦蒂尼姆遭不住再来一次战火的风险。死的人......够多了。,Londinium cannot withstand another war. There's... There's enough dead already.,Лондиниум не выдержит риска новой войны. Погибших... уже достаточно.
+line-544,戴菲恩,维娜......你最清楚。,"You know this, Vina.",Вина... ты понимаешь это лучше всех.
+line-545,维娜,呵......通知典范军所有人不要轻易行动——,"*sigh* Tell the Exemplars, no rash action from anyone—",Ха... Передай всем в образцовой армии не предпринимать необдуманных действий —
+line-549,维娜,博士？,Doctor?,Доктор?
+line-551,,罗德岛本舰同时收到了几位公爵的邀请。,Rhodes Island received a few invitations from the dukes.,Родос Айленд получил приглашение от нескольких герцогов одновременно.
+line-553,,他们想让我们旁听关于伦蒂尼姆的战后处置会议。,They want us to sit in on the post-war conference on handling Londinium.,"Они хотят, чтобы мы присутствовали на конференции по послевоенному урегулированию в Лондиниуме."
+line-555,维娜,处置......就在那些萨卡兹从我们眼皮子底下全部撤完之前？,Handling... You mean before all the Sarkaz are even gone?,Урегулированию... и это пока все Сарказы ещё не успели уйти прочь?
+line-557,维娜,他们就这么着急吗？,Are they really in such a rush?,"Они что, так спешат?"
+line-558,维娜,——我不觉得现在这座城市还会听由他们摆弄。,I don't think the city as it is now is willing to play ball with their machinations.,"— Не думаю, что этот город позволит им вертеть собой."
+line-560,,他们也很清楚这一点。;所以他们选中了你。,They realized that too.;That's why they chose you.,Они это прекрасно понимают. Поэтому они выбрали тебя.
+line-562,维娜,啧......,Hmph...,Тц...
+line-564,,你可以拒绝，维娜。,"You could always refuse, Vina.","Ты можешь отказаться, Вина."
+line-566,维娜,......,...,...
+line-567,维娜,博士，这里是我的家。,"This is my home, Doctor.","Доктор, это мой дом."
+line-568,戴菲恩,维娜，你决定了？,"Made your decision, Vina?","Вина, ты решилась?"
+line-569,维娜,从我们带领典范军的战友们率先突入城内的那一刻起，这件事不就已经注定了吗？,Wasn't it made the moment we lead the Exemplars on our charge into the city?,"Разве это не было предрешено с того самого момента, как мы, образцовая армия, первыми прорвались в город?"
+line-570,维娜,他们很清楚，我也很清楚。,"They know it, and I do too.","Они это знают, и я это знаю."
+line-571,戴菲恩,这不轻松，但我支持你的决定。,"It's not something to take lightly, but you have my full support.","Это будет непросто, но я поддерживаю твое решение."
+line-572,摩根,......,...,...
+line-574,,那罗德岛会“出席”会议。;我们会站在你的身边。,Then Rhodes Island will 'attend' the conference.;We'll stand by your side.,Тогда Родос Айленд будет «присутствовать» на встрече. Мы будем на твоей стороне.
+line-576,维娜,谢谢你，博士。,"Thank you, Doctor.","Спасибо, Доктор."
+line-577,维娜,也就是说，接下来，才是对我来说最大的挑战吧？,I suppose you're saying the biggest challenge is yet to come?,"Значит, впереди меня ждет самое большое испытание?"
+line-578,维娜,哈，我很好奇，那些人的漂亮嘴巴里，还能吐出些什么东西。,"Hah, I'm supremely curious as to what they'll spew out of those pretty little mouths of theirs.","Ха, любопытно, что ещё слетит с их сладкоречивых уст."
+line-580,,我们会马上与你会合。,We'll meet you as soon as we can.,Мы скоро встретимся с тобой.
+line-585,维娜,......回家也不总是一件轻松事，对吧？,"Coming home's not always easy, is it?","...Возвращаться домой — не всегда легкое дело, правда?"
