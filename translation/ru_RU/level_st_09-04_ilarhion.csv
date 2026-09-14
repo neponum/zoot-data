@@ -1,0 +1,523 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,ilarhion
+__language__,,Language,en_US,ru_RU
+char-1,后勤干员,后勤干员,Logistics Operator,Оперативник логистики
+char-2,可露希尔,可露希尔,Closure,Кложур
+char-3,凯尔希,凯尔希,Kal'tsit,Кальцит
+char-4,医疗干员,医疗干员,Medic Operator,Оперативник-медик
+char-5,煌,煌,Blaze,Блэйз
+char-6,近卫干员,近卫干员,Guard Operator,Оперативник-гвардеец
+char-7,九,九,Nine,Найн
+char-8,？？？,？？？,???,???
+char-9,塔露拉,塔露拉,Talulah,Талула
+char-10,整合运动士兵,整合运动士兵,Reunion Soldier,Солдат «Реюниона»
+char-11,Dijkstra,Dijkstra,Dijkstra,Дейкстра
+char-12,Guard,Guard,Guard,Гард
+char-13,游击队萨卡兹,游击队萨卡兹,Guerrilla Sarkaz,Сарказ-партизан
+char-14,整合运动术师,整合运动术师,Reunion Caster,Заклинатель «Реюниона»
+char-15,狙击干员,狙击干员,Sniper Operator,Снайпер «Родос Айленда»
+char-16,阿米娅,阿米娅,Amiya,Амия
+char-17,幻影弩手,幻影弩手,Phantom Crossbowman,Фантомный арбалетчик
+char-18,整合运动战士,整合运动战士,Reunion Warrior,Воин «Реюниона»
+char-19,Mon3tr,Mon3tr,Mon3tr,Мон3тр
+char-20,陈,陈,Ch'en,Чэнь
+char-21,风笛,风笛,Bagpipe,Бэгпайп
+,,,,
+line-3,,"9:33  A.M.  天气/大雾   ",9:33 A.M. \ Foggy,9:33 утра. Погода: сильный туман.
+line-10,,无名荒野，罗德岛内,"Nameless Barrenlands, Inside Rhodes Island","Безымянная пустошь, на борту «Родоса Айленд»."
+line-15,后勤干员,可露希尔小姐，早上好。您的早餐我就放在这里了。,"Good morning, Closure. Here's your breakfast.","Мисс Кложур, доброе утро. Я оставлю ваш завтрак здесь."
+line-17,可露希尔,哦！辛苦了！,"Oh, thanks!",О! Спасибо за службу!
+line-21,可露希尔,……没发霉吧？,"There's no mold or anything, right...?",...Он ведь не заплесневел?
+line-23,后勤干员,呃。应该没有吧，应该。,"Uh, probably not, I guess.","Э-э. Надеюсь, что нет. Скорее всего, нет."
+line-25,可露希尔,唉，已经被这鬼天气困在这里好几天啦……也不知道会耽误多久后续的航程……唔，这味道……,"*Sigh*... We've been stuck here for days thanks to this shitty weather... Who knows how bad this'll throw off our schedule... Hmm, this flavor...","Эх, мы застряли здесь из-за этой проклятой погоды уже на несколько дней... Кто знает, насколько задержится наш дальнейший путь... Уф, ну и запах..."
+line-27,后勤干员,毕竟是天灾诱发的大雾天气……万一迎头撞上天灾的余波可就麻烦大了。,"I mean, a Catastrophe caused this thick fog... It's not going to be good if we end up coming head to head with an aftershock.","В конце концов, этот туман вызван Катастрофой... Было бы большой проблемой, если бы мы столкнулись с её последствиями в лоб."
+line-28,后勤干员,昨夜的环境源石监测报告我需要现在提交吗？,Should I turn in the environmental Originium monitoring report for last night right now?,Мне нужно прямо сейчас подать отчёт о мониторинге Ориджиниума в окружающей среде за вчерашнюю ночь?
+line-30,可露希尔,凯尔希呢，她还在手术室吗？,Where's Kal'tsit? Is she still in the operating theater?,А где Кальцит? Она всё ещё в операционной?
+line-32,后勤干员,是的，从昨晚进行到现在。,"Yes, she's been there since last night.","Да, со вчерашнего вечера."
+line-34,可露希尔,……那就，先不着急。,"Don't worry about it right now, then.",...Тогда это может подождать.
+line-36,后勤干员,好。,Thank you.,Хорошо.
+line-37,后勤干员,还有什么我能帮得上忙的事情吗？,Can I help you with anything else?,Могу ли я чем-нибудь ещё помочь?
+line-39,可露希尔,嗯……我想想啊，要不然帮我把这些健康餐都吃掉？说真的，这玩意味道有点诡异。,Hm... Let's see. Wanna finish this health food for me? I mean it. This stuff's got a real funny taste.,"М-м... Дай-ка подумать. Может, поможешь мне съесть этот «здоровый завтрак»? Серьёзно, у этой штуки какой-то странный вкус."
+line-42,后勤干员,欸？！这么多都要我、我来吃吗？,Eh?! You want me to eat all that?,А?! Всё это должен съесть я?!
+line-44,可露希尔,哈哈，别紧张，开个玩笑啦。,"Haha, calm down. Just kidding.","Ха-ха, не напрягайся, это просто шутка."
+line-51,可露希尔,……嗯？,Huh?,...М-м?
+line-53,后勤干员,怎么了吗？,What's the matter?,Что-то случилось?
+line-55,可露希尔,新、新邮件？在这荒地？,New mail? Out in the wasteland?,Новое... новое письмо? Посреди этой пустоши?
+line-56,可露希尔,这附近有城镇或者信使驿站之类的吗？,Is there a town or a Messenger Outpost close by?,Разве поблизости есть поселения или почтовые станции Вестников?
+line-58,后勤干员,不……如果有的话，两三天前就该联系上了……,"No... If there was, we would've been in contact with them a couple days ago...","Нет... Если бы были, мы бы связались с ними ещё пару дней назад..."
+line-60,可露希尔,真是奇怪，我看看……,That's weird. Let's see...,"Странно, дай-ка посмотрю..."
+line-66,可露希尔,发件人是，Dijkstra……怎么是这家伙！？他不是在哥伦比亚吗？,"The sender's Dijkstra... What, Dijkstra?! I thought he was in Columbia!",Отправитель — Дейкстра... Почему он?! Разве он не в Колумбии?
+line-71,,TO Closure,TO Closure,Кому: Кложур
+line-72,,亲爱的Closure，好久不见。,"Dear Closure, it's been a while.","Дорогая Кложур, давно не виделись."
+line-73,,你最近怎么样，一切都还顺利吗。上次我们一起行动还是在夏天吧？,"How's things? Going well? The last time we worked together was back in summer, right?","Как ты поживаешь? Всё ли у тебя в порядке? Последний раз мы работали вместе летом, верно?"
+line-74,,Grace当时联系到我，说你有个点子的时候我还有些吃惊，毕竟挑衅卡西米尔的商业事务网络可不是一件小事。,I was really shocked when Grace got in touch with me and told me about your plan. Screwing around with Kazimierz corporate networks isn't exactly small potatoes.,"Грейс тогда связалась со мной и сказала, что у тебя есть идея. Я был немного удивлён, ведь бросить вызов коммерческой сети Казимежа — дело не из лёгких."
+line-75,,不过，这也确实是你一贯的风格。不管怎么说，这真的很愉快，也就比我们上上次在哥伦比亚干的那一票要差那么一点点！干得漂亮！,"I gotta hand it to you, though. That's exactly your style. Either way, it was a good time, second only to that hit we did in Columbia once! It was perfect!","Впрочем, это вполне в твоём стиле. Как бы то ни было, это было весело. Лишь самую малость скучнее того дельца, что мы провернули в Колумбии в прошлый раз! Отличная работа!"
+line-88,凯尔希,……,......,...
+line-89,凯尔希,急性病灶剥离成功。,Acute lesions successfully removed.,Иссечение острого очага прошло успешно.
+line-90,凯尔希,保持输液。,Keep the infusion going.,Продолжайте инфузию.
+line-92,医疗干员,好的！,Okay!,Поняла!
+line-94,凯尔希,创面清理完成……,Wound is clean...,Очистка раневой поверхности завершена...
+line-95,凯尔希,等等，确认一下患者体征。,"Hold on, confirm the patient's vitals.",Подождите. Проверьте показатели жизнедеятельности пациента.
+line-97,医疗干员,好的……！,Okay...!,Хорошо...!
+line-101,医疗干员,医生！患者心率异常……体温、体温在降低！,Doctor! The patient's heart rate is abnormal... Body... body temperature is dropping!,"Доктор! Пульс пациента аномальный... Температура, температура падает!"
+line-103,凯尔希,不要慌。,Calm down.,Без паники.
+line-104,凯尔希,调整内外压，立刻注射干预。,Adjust transmural pressure. I need an injection intervention right now.,"Отрегулируйте внутреннее и внешнее давление, немедленно введите препараты."
+line-105,凯尔希,准备止血。,Prepare to stop the bleeding.,Приготовьтесь остановить кровотечение.
+line-107,医疗干员,好的！,Okay!,Есть!
+line-109,凯尔希,……,......,...
+line-118,,但你也知道，无论黑掉多少家银行，解决多少个富人，哪怕半座城市的无人机都听我们号令，机械化作乌云，胆小的家伙吓到惊声尖叫——,"But you know. It doesn't matter how many banks we hack, how many millionaires we screw with. Even if we manage to take control of half the city's drones, put a stop to all the machines, and scare the cowards shitless—","Но ты сама знаешь: сколько бы банков мы ни взломали, сколько бы богачей ни разорили, даже если  половина городских дронов будут подчиняться нам, превращаясь в механические тучи, заставляя трусов визжать от ужаса —"
+line-119,,成效都是一时的。一时的，就等同于徒劳的。,"It's all just fleeting, and anything fleeting might as well be pointless.",Всё это лишь временный эффект. А временное равносильно тщетному.
+line-120,,对了，Closure。我有件事要告诉你。,"Before I forget, Closure. There's something I need to tell you.","Кстати, Кложур. Кое-что хочу тебе рассказать."
+line-121,,你还记得我曾经和你们说过，我认识的一个感染了矿石病的男人的事情吗。,There was this one time I mentioned a friend of mine who's got Oripathy. Do you remember?,"Помнишь, я рассказывал тебе об одном человеке, который заразился Орипатией?"
+line-133,煌,……哟，各位，该换班了。,"Hey, everyone... It's time to change shift.","...Эй, ребята, пора меняться."
+line-135,近卫干员,煌小姐！,Blaze!,Мисс Блэйз!
+line-137,煌,有什么情况吗？,Did something happen?,Есть новости?
+line-139,近卫干员,完全没有——虽然是这么说，但是这个能见度下，我们能信任的也只有监控设备了。,"Nope... Well, given this visibility, the surveillance equipment's about the only thing we can trust.",Вообще никаких. Хотя при такой видимости мы можем доверять только приборам наблюдения.
+line-140,近卫干员,就算是负责瞭望的那几位狙击干员，这种天气，可能也什么都看不见吧……,I doubt even the sniper operators on lookout can see anything in this weather...,"Даже снайперы в дозоре при такой погоде, наверное, ничего не видят..."
+line-142,煌,唉，说的也是啊，连日大雾，真让人提不起干劲……,"Eh, you're right. All this fog is a major buzzkill...","Эх, и то верно. Этот туман стоит уже несколько дней, совсем никакого энтузиазма..."
+line-143,煌,要是Stormeye晚上半个月出发，这种大雾应该难不倒他。可惜了！,Stormeye wouldn't have much trouble with the fog. If only he had left just two weeks later. Too bad.,"Если бы Стормай вылетел на полмесяца позже, этот туман вряд ли стал бы для него проблемой. Жаль!"
+line-144,煌,不过这已经是停止前进的第几天了？要真有什么事，早就该发生啦。,"It's been a few days since we stopped, though. If anything's gonna happen, it should already have happened by now.","Но какой уже день мы стоим на месте? Если бы что-то должно было случиться, оно бы уже случилось."
+line-145,煌,现在，你们先去好好休息吧。,You guys should head back and get some rest.,А теперь идите и хорошенько отдохните.
+line-147,近卫干员,啊，好的。,"Yeah, sure.","А, хорошо."
+line-159,,那个男人原本是个健康的人。,That man was as healthy as could be.,Тот человек изначально был совершенно здоров.
+line-160,,接受了还不错的教育，有一份还不错的工作，成了家，不过还没有孩子。,"He had a decent education and a decent job. He was married, though no kids.","Получил неплохое образование, имел неплохую работу, завёл семью, хотя детей у них ещё не было."
+line-161,,他自己也不知道是怎么得的矿石病，总之有一天早上他去上班，公司告示栏里就张贴了关于他得病的消息，所有同事看他的眼神都变了。,He didn't even know how he caught Oripathy. He just showed up to work one morning to find a posting on the company notice board about his infection. Everyone started looking at him different.,"Он и сам не знал, как подхватил Орипатию. Однажды утром он пришёл на работу, а на доске объявлений уже висело извещение о его болезни. Взгляды всех коллег вмиг изменились."
+line-162,,这事儿说实话，我都懒得去查，无非就是妒忌、陷害、明争暗斗那一套。,"To tell the truth, I was too lazy to look into it all that much. Someone was either jealous, or they were trying set him up, some kind of infighting.","Честно говоря, мне было лень копаться в подробностях, но наверняка там была обычная история: зависть, подстава или подковёрные игры."
+line-163,,不管怎么说吧，自那之后，这个人的生活就全毁了。工作丢了，妻子也离他而去——无可厚非，毕竟我们都知道这种病会传染。,"Anyway, after that, his life was ruined. He lost his job, and his wife left him. How can you blame them, though? We all know Oripathy's infectious.","Как бы то ни было, с того момента его жизнь была разрушена. Он потерял работу, жена ушла от него — и её нельзя винить, ведь все мы знаем, что эта болезнь заразна."
+line-164,,我碰上他是个偶然，帮他也是一时兴起。修改一下资料这种事对于我们来说太简单了，动动手指的事儿，就能改变一个人的命运，很神奇，对吗？,"I just met him by chance, and I decided to help him on a whim too. Making a few quick changes to a database here or there isn't much for people like us, you know. A few keystrokes and we change a man's fate. Almost magical, huh?","Я встретил его случайно и помог просто по прихоти. Изменить данные для нас проще простого — пара движений пальцами, и ты меняешь судьбу человека. Удивительно, правда?"
+line-165,,我当时就是这么想的。我认为他遭受的待遇并不公正，于是我就那么做了。,"So, that's what I figured. I thought it was unfair, so I did that for him.","Тогда я именно так и думал. Я считал, что с ним поступили несправедливо, поэтому я это сделал."
+line-166,,我自认自己帮了他。,I thought I was helping him.,"Я считал, что помог ему."
+line-167,,但事情的发展和我想的不同。,But things didn't unfold quite like I expected.,"Но всё пошло не так, как я ожидал."
+line-168,,他没有重新过上原本那样的生活。,He didn't go back to the life he once had.,Он не вернулся к прежней жизни.
+line-169,,我重新遇到这个人，是在哥伦比亚外的荒野上。他加入了一个感染者组织。他对我说，因为他们在乌萨斯的同胞需要帮助，所以他就过来了。,"I met the guy again in the barrenlands outside Columbia. He had joined an Infected organization. He told me his comrades in Ursus needed his help, and that's why he went there.","Снова я встретил его в пустошах за пределами Колумбии. Он вступил в организацию Заражённых. Он сказал мне, что пришёл сюда, потому что его собратьям в Урсусе нужна помощь."
+line-179,可露希尔,……感染者组织？,An Infected organization...?,...Организация Заражённых?
+line-180,可露希尔,唔……这家伙也会和感染者扯上关系吗……,Hmm... So this guy got caught up with the Infected too?,М-м... Неужели и этот парень связался с Заражёнными...
+line-184,,Closure，你猜猜这段故事中，我想告诉你的是什么？,"Closure, take a guess what I'm trying to tell you with this story.","Кложур, угадай, что я хочу тебе сказать этой историей?"
+line-185,,是眼睛。,Eyes.,Дело в глазах.
+line-186,,他们费尽心思找到我，我也不知道那些感染者是什么来头。,"They went to great lengths to find me, but I still didn't know the slightest thing about the Infected.","Они приложили уйму усилий, чтобы найти меня. Я и понятия не имел, что это за Заражённые такие."
+line-187,,他们风尘仆仆，装备落后，而且大多面黄肌瘦——,"They were travel-worn, their equipment was outdated, and most of them were malnourished—","Они были измотаны долгой дорогой, с плохим снаряжением и по большей части истощены —"
+line-188,,但他们的眼里有光。,But their eyes were full of light.,Но в их глазах был свет.
+line-189,,Closure，我们找了这一缕光很长时间。很长很长时间。,"Closure, it took us a long time to find this ray of light. A very, very long time.","Кложур, мы искали этот луч света очень долго. Очень, очень долго."
+line-190,,愤怒，不甘，为某个信念牺牲的准备，为某份事业捐躯的精神。,"Anger, unwillingness, the readiness to make sacrifices for a belief, the mind to give your life for a certain cause.","Гнев, нежелание смириться, готовность принести себя в жертву ради убеждений, дух самопожертвования ради общего дела."
+line-191,,就像我认识你，认识那些志同道合的伙伴，我们想要改变什么，我们知道什么是错的。,Same as you and your buddies over there. We want to change something. We know what's wrong.,"Так же, как я знаю тебя и других единомышленников — мы хотим что-то изменить, потому что знаем, что именно в этом мире не так."
+line-196,可露希尔,“所以我下定了决心，帮助这些人。哥伦比亚，卡西米尔，还有你曾和我说过的，萨卡兹的家——”,"'That's why I decided to help them. Columbia, Kazimierz, and the Sarkaz homeland you told me all about—'","«Поэтому я принял решение помочь этим людям. Колумбия, Казимеж и тот дом Сарказов, о котором ты мне когда-то рассказывала...»"
+line-197,可露希尔,“我们一直在做这样的事情，一直以来，哪怕是——”,"'That's what we've always been doing. Always, even—'","«Мы всегда занимались подобными вещами, всегда, даже...»"
+line-198,可露希尔,“——现在”。,'—Now.',«...сейчас».
+line-203,可露希尔,……没了？,...That's it?,...И всё?
+line-204,可露希尔,怎么这就没了，等等，什么现在——,"Is that supposed to be it? Hold on, what do you mean, 'Now?'","Почему на этом конец? Погоди, что значит «сейчас» —"
+line-211,可露希尔,呜哇！怎么回事？！,Whoa! What just happened?!,Уа-а! Что происходит?!
+line-212,可露希尔,震动……是从下层传来的，这种程度的摇动——是爆炸？！,"The tremor... came from below. It was huge, too—An explosion?!",Вибрация... идёт с нижних уровней. Такая тряска... Это взрыв?!
+line-223,医疗干员,哇！什、什么动静？！,Ahh! Wh-What's going on?!,Ой! Ч-что это за звук?!
+line-224,医疗干员,今天这场手术明明提前报备过，因为难度很大，所以需要绝对安静的！,We told everyone ahead of time how difficult this surgery was going to be. We told them we needed absolute silence!,Об этой операции было доложено заранее! Из-за её сложности здесь должна была быть абсолютная тишина!
+line-226,凯尔希,……,......,...
+line-232,医疗干员,呃，这里是手术室……什么？,"Uh, this is the operating theater... What?","Э-э, это операционная... Что?"
+line-233,医疗干员,安全门被……！？舱室内干员都被困住了？啊？这……,The security door's been... What?! All the bulkheads are locked? Huh? That's...,Герметичная дверь заблокирована...?! Оперативники в отсеке оказались в ловушке? А? Это...
+line-235,凯尔希,冷静。,Stay calm.,Спокойно.
+line-236,凯尔希,……通知还能通知到的干员，立刻赶往禁闭室。,Contact all the operators we can. Tell them to head to confinement immediately.,"...Свяжитесь со всеми оперативниками, до которых ещё можно дозвониться. Пусть немедленно отправляются к карцеру."
+line-237,凯尔希,以及，告诉煌，破坏一些船体设施也无妨。,"Also, tell Blaze that she may damage the ship's facilities as necessary.","И передайте Блэйз: она может разрушать любые конструкции корабля, если потребуется."
+line-239,医疗干员,好、好的！,R-Right!,Х-хорошо!
+line-241,凯尔希,剩下的人，继续手术。,"Everyone else, continue the operation.",Остальные — продолжаем операцию.
+line-242,凯尔希,外面的事情会有其他干员解决。,We'll leave what's going on outside to the other operators.,Остальное уладят другие оперативники.
+line-243,凯尔希,手术室里没有比患者的性命更重要的东西。不要分心。,There is nothing more important than the patient's life in the operating room. Don't get distracted.,В операционной нет ничего важнее жизни пациента. Не отвлекайтесь.
+line-245,医疗干员,啊，非常抱歉！我立刻准备！,"Ah, I'm truly sorry! I'll get ready right away!","А, прошу прощения! Я сейчас же всё подготовлю!"
+line-247,凯尔希,……,......,...
+line-249,凯尔希,…………,............,............
+line-271,九,……我原以为这会更困难。,I thought this would've been more difficult.,"...Я думала, это будет сложнее."
+line-272,九,这似乎是我们第一次“正式见面”，整合运动的“领袖”。,"But this must be our first formal meeting, 'Leader' of Reunion.","Кажется, это наша первая «официальная встреча», ""лидер"" «Реюниона»."
+line-274,？？？,……,......,...
+line-278,塔露拉,你们……整合运动。,You are... Reunion.,Вы... Реюнион.
+line-280,九,你似乎并不惊讶。,You don't seem very surprised.,"Ты, кажется, не удивлена."
+line-282,塔露拉,我只是比谁都清楚，感染者的怒火绝不会轻易熄灭。,I simply know better than anyone that the fires of Infected fury cannot be extinguished so easily.,"Я просто знаю лучше кого-либо другого, что ярость Заражённых не угаснет так просто."
+line-283,塔露拉,只是……,It's just...,Только...
+line-285,整合运动士兵,——好久不见了，“领袖”。,"—It's been a while, 'Leader.'","— Давно не виделись, «лидер»."
+line-287,塔露拉,——！,...!,—!
+line-288,塔露拉,你是……！,It's you...!,Ты...!
+line-296,整合运动士兵,你不认得我了？哈，你当然不会认得我！我只不过是个无名小卒，只是个在切尔诺伯格时侥幸没被你害死的人！,"Don't remember me? Ha, of course you don't! I was just a nameless pawn, someone lucky enough to avoid letting you kill me back in Chernobog!","Ты не узнаёшь меня? Ха, конечно ты меня не узнаешь! Я всего лишь безликий солдат, один из тех, кому посчастливилось не погибнуть по твоей вине в Чернобоге!"
+line-297,整合运动士兵,但你，塔露拉，“领袖”！你这张脸，我绝不会忘记！,"But you, Talulah, our 'Leader!' I will never forget your damned face!","Но тебя, Талула, нашего «лидера»! Твоё лицо я не забуду никогда!"
+line-299,塔露拉,你是在我们的队伍路过那个被税官毁掉的村庄时加入的，你叫……瓦利亚。,You joined us when our team passed through the village that was destroyed by the taxmen. Your name is... Valiya.,"Ты вступил в наш отряд, когда мы проходили мимо той деревни, разоренной налоговыми инспекторами... Тебя зовут... Валя."
+line-301,整合运动士兵,……你甚至还记得我的名字。那列昂季，丹尼斯，还有阿尔谢尼呢，你还记得他们吗，你知道他们怎么样了吗？,"You remember my name, huh...? So, what about Leontyev, Denis, and Arseny? Do you remember them? Do you know what happened to them?","...Ты даже помнишь моё имя. А Леонтий, Денис и Арсений? Ты их тоже помнишь? Знаешь, что с ними сталось?"
+line-302,整合运动士兵,我会参与这次行动，就是为了要亲自问你——为什么你要那么做？！你凭什么这么做？！你怎么能背叛我们？！,I'm here because I want to ask you myself: Why did you do what you did?! Who gave you the right?! How could you betray us?!,"Я участвую в этой операции только ради того, чтобы лично спросить тебя — почему ты это сделала?! Какое ты имела право?! Как ты могла предать нас?!"
+line-304,塔露拉,……,......,...
+line-306,九,……放开她的衣领吧。,Let go of her collar.,...Отпусти её воротник.
+line-307,九,现在还不是时候，我们得先离开这里。,Now's not the time. We need to leave this place first.,Сейчас не время. Сначала нам нужно выбраться отсюда.
+line-310,整合运动士兵,……啧。,Hmph.,...Тц.
+line-318,九,你听见了，感染者的领袖。,"You heard him, Leader of the Infected.","Ты его слышала, лидер Заражённых."
+line-319,九,所有人都需要得到一个答案。太多人因此痛苦，他们都在等一个机会，询问你的机会。,We all want answers. Many of us have suffered waiting for this chance. The chance to get them from you.,"Всем нужен ответ. Слишком многие пострадали, и все они ждут шанса — шанса спросить с тебя."
+line-320,九,别忘了，最有权审判你，决定你的下场，听你的狡辩与诉说的——应当是那些因你而起，也因你而亡的感染者们。,"Don't forget. Those who most deserve to judge you, to hear out your defense, and to determine your fate, are the Infected who rose and died for you.","Не забывай, те, кто имеет больше всего прав судить тебя, решать твою судьбу, выслушивать твои оправдания и жалобы — это те самые Заражённые, которые поднялись благодаря тебе и погибли из-за тебя."
+line-321,九,塔露拉，你必须和我们走。,"Talulah, you need to come with us.","Талула, ты должна пойти с нами."
+line-323,塔露拉,……,......,...
+line-332,后勤干员,可露希尔小姐！你还好吗？！刚刚那是……,Closure! Are you okay?! What was that just now?,Мисс Кложур! Вы в порядке?! Что это только что было...
+line-334,可露希尔,……开什么玩笑……,What kind of sick joke is this?,...Что за шутки...
+line-336,后勤干员,可露希尔小姐？,Closure?,Мисс Кложур?
+line-338,可露希尔,开什么玩笑！！他本人一定就在这附近，他瘫痪了罗德岛的系统！？,You've gotta be kidding me! He's definitely somewhere close by. He paralyzed Rhodes Island's systems!,Что за дурацкие шутки!! Он сам наверняка где-то поблизости. Он парализовал системы «Родоса Айленд»?!
+line-340,可露希尔,监控……还有侦查系统……哈，真有你的……,"The surveillance... and observation systems... Hah, not bad...","Видеонаблюдение... разведка... Ха, ну ты и даёшь..."
+line-345,后勤干员,是后勤部门的通讯！部分干员遭到了……整、整合运动的袭击！,I got a transmission from Logistics! Some of the operators have been ambushed by... R-Reunion!,Сообщение от службы логистики! Часть оперативников подверглась... нападению «Реюниона»!
+line-347,可露希尔,——这，整合运动！？,No way! Reunion?!,— Что?! «Реюниона»?!
+line-348,可露希尔,不行不行不行——快！快去通知阿米娅，可能有人是冲着塔露拉来的，我会优先恢复防御系统，我们行动一定要快！,"No, no, no—Hurry! Tell Amiya right now. They might be here for Talulah! I'll get these systems back up. We need to act fast!","Нет-нет-нет — быстро! Скорее сообщите Амии. Возможно, они пришли за Талулой. Я в первую очередь займусь восстановлением систем защиты, мы должны действовать быстро!"
+line-350,后勤干员,是、是！,"Y-Yes, ma'am!",Е-есть!
+line-358,可露希尔,这个时候怎么还有消息？！,"Why am I getting a message now, of all times?!",Почему сообщения продолжают приходить?!
+line-359,可露希尔,哇……！我的操作屏被锁定了？！,Argh! My control screen's locked?!,Ой...! Моя панель управления заблокирована?!
+line-363,Dijkstra,早上好，早上好？,Good morning. Good morning?,"Доброе утро, слышно меня?"
+line-364,Dijkstra,Closure，你在忙着修复系统吗？你现在是不是很生气？,"Hard at work fixing your system, Closure? You're kinda mad right now, aren't you?","Кложур, ты занята починкой системы? Ты, наверное, сейчас в бешенстве?"
+line-365,Dijkstra,啊，提前说一声，这是录好的音频，所以不用费功夫追踪了！,"Oh, I should probably mention this video's prerecorded. You don't have to waste time tracing me.","Ах да, скажу заранее: это аудиозапись, так что не трать силы на попытки меня отследить!"
+line-366,Dijkstra,还有还有，昨天半夜做准备的时候，我还特地区分了医疗部门的系统模块，这样也不算波及无辜了，不愧是我。,"Oh, also, I went through the trouble of keeping your Medical Department's system modules separate when I did all the prep work overnight. Spares the innocent, you know? I'm a stand-up guy, aren't I?","И ещё кое-что: когда я готовился вчера в полночь, я специально выделил системные модули медицинского отдела. Так что невинные пострадать не должны. Ай да я."
+line-368,可露希尔,Dijkstra——！,Dijkstra—!,Дейкстра——!
+line-371,Dijkstra,我得对你说一声抱歉，Closure。这次用你留在我这的手段偷袭是不怎么地道，不过……,"Sorry about this, Closure. I know it's pretty unchill to nail you with this hookup you so graciously gave me. But still...","Я должен извиниться перед тобой, Кложур. Использовать против тебя твои же методы, которыми ты со мной поделилась, — это не очень порядочно, но..."
+line-372,Dijkstra,不过这件事，我可一点也不后悔，我从不做后悔的事，你知道的。,I'd do it again. You know me. No regrets.,"Но об этом я ни капли не жалею. Я никогда не делаю того, о чём потом жалею, ты же знаешь."
+line-373,Dijkstra,当年你把这些技术雏形交给我的时候，你对我说，这是对付哥伦比亚现有网络程式最有效的办法，是你的最终手段。,"When you gave me the prototype back then, you said it was, at the time, the best option for taking down Columbian network programs. You called it your trump card.","Когда-то, передавая мне эти прототипы технологий, ты сказала, что это самый эффективный способ борьбы с сетевыми протоколами Колумбии, твой козырь."
+line-374,Dijkstra,而这几天的秘密工作里，我发现，你确实没有骗我。罗德岛的安全系统和你交给我的逻辑高度相似……,"And doing my wetwork the past couple days, I realized you weren't lying. Rhodes Island's security system works very similar to the logic you handed me.","И за последние дни секретной подготовки я убедился, что ты не лгала. Система безопасности «Родоса Айленд» построена на той же логике, которую ты мне когда-то показала..."
+line-375,Dijkstra,所以我利用了你的信赖，毫无疑问，但你有你的立场，我也有我的判断，对吧？,"So yeah, I abused your trust, no doubt about that. But you've got your position, I got my judgment. That's how it goes.","Да, я воспользовался твоим доверием, в этом нет сомнений. Но у тебя свои принципы, а у меня свои суждения, верно?"
+line-376,Dijkstra,我还记得当我认识那个身为“萨卡兹”的你的时候，我们是怎么成为朋友的。,"I still remember how I met you, just a Sarkaz back then, and how we became friends.","Я всё ещё помню, как мы стали друзьями, когда я встретил тебя, ту самую «Сарказку»."
+line-377,Dijkstra,我仍然希望我们是朋友……或者像过去一样，是战友。,"I hope we're still friends... Or, like before, war buddies.","Я всё ещё надеюсь, что мы останемся друзьями... или боевыми товарищами, как прежде."
+line-378,Dijkstra,——不过，Closure。,"—That said, Closure.","— Однако, Кложур."
+line-379,Dijkstra,在此之前，我是一个反抗者。我们从来都是反抗者。从来，都是。,"First and foremost, I'm a rebel. We've always been rebels. Always will be.",Прежде всего я — мятежник. Мы всегда были мятежниками. Всегда.
+line-384,可露希尔,……这家伙……冠冕堂皇的……！,"Where do you get off... c'mon, so damned full of yourself!",...Этот парень... Говорит так высокопарно...!
+line-385,可露希尔,不……现在不该管这个，通讯系统还能使用吗？,No... Now's not the time to worry about this. Is the comm system still working?,Нет... сейчас не до этого. Система связи работает?
+line-386,可露希尔,立刻通知全舰！,All stations!,Немедленно оповестите весь корабль!
+line-397,煌,啧，要是阿斯卡纶和Logos他们还在这里，可不会让你们这么恣意妄为——,"Grr, if Ascalon and Logos were here, you wouldn't be running around like you own the place—","Тц, если бы Аскалон и Логос были здесь, они бы не позволили вам так наглеть..."
+line-399,煌,——喂！出来。,—Hey! Get out here!,— Эй! Выходите.
+line-401,煌,我知道你们埋伏在走廊两侧，但这里可是罗德岛，你们怎么可能骗得过我？,"I know you're hiding on both sides of the hallway, but this is Rhodes Island, and you aren't fooling me!","Я знаю, что вы в засаде по обе стороны коридора. Но это «Родос Айленд», как вы надеялись меня обмануть?"
+line-407,Guard,是，煌姐，这里是罗德岛。,"Right, Blaze, this is Rhodes Island.","Да, сестра Блэйз, это «Родос Айленд»."
+line-408,Guard,我曾经就在这条走廊上，第一次，见到您和其他精英干员们凯旋归来。,It was this very same corridor where I first saw you and the other elite operators come home after a triumphant victory.,"Я когда-то стоял в этом самом коридоре и впервые видел, как вы и другие элитные оперативники с триумфом возвращаетесь домой."
+line-410,煌,——,—,—
+line-411,煌,Guard……？,Guard...?,Гард...?
+line-413,Guard,我犹豫过。当我得知袭击罗德岛的计划时，我当然犹豫过。,I hesitated. When I first learned about the plan to attack Rhodes Island. Of course I hesitated.,"Я колебался. Когда я узнал о плане нападения на «Родос Айленд», я, разумеется, колебался."
+line-414,Guard,这不是给自己找借口。但我觉得，正因如此，我反而该来。该来背负这个责任，该来见证这个计划。,"I'm not going to justify it, but I think this is exactly why I have to come back. Both to take responsibility and to bear witness to this plan's execution.","Это не оправдание. Но я чувствую, что именно поэтому я должен был прийти. Должен был взять на себя эту ответственность и стать свидетелем реализации этого плана."
+line-416,煌,“责任”……是吗？,'Responsibility...' huh?,«Ответственность»... вот как?
+line-418,Guard,是的。出现在这里，我就没打算给自己找什么道德上的借口。,"Right. If I'm here, I can't make excuses.",Да. Я не собираюсь искать себе оправданий перед лицом морали.
+line-419,Guard,只要有任何一个干员这么想，那么我就确实是“叛徒”。,"If there's even a single operator who thinks it, then I am indeed a 'traitor.'","Если хоть один оперативник так посчитает, то я действительно «предатель»."
+line-421,煌,……那么作为整合运动的你，如今回到这里来又打算做什么？,So you're with Reunion now... what are you doing back here?,"...Так что же ты, как член «Реюниона», собираешься делать теперь, вернувшись сюда?"
+line-423,Guard,为数不多的幸存者离开了乌萨斯，我们游荡在无国界的荒野上。,The few survivors who managed to make it out of Ursus drifted out in the borderless barrenlands.,Немногие выжившие покинули Урсус. Мы скитались по бескрайним пустошам.
+line-424,Guard,先是哥伦比亚，然后是莱塔尼亚，然后是叙拉古，维多利亚……这些国家，这些地方，都有感染者的身影，都在尝试与我们建立联系。,"First we got to Columbia, then Leithanien, and then Siracusa, Victoria... All these countries... there were Infected trying to get in touch with us.","Сначала Колумбия, потом Лейтания, потом Сиракуза, Виктория... Везде есть Заражённые, и все они пытаются наладить с нами связь."
+line-425,Guard,整合运动点燃了一把火。从冻土，烧向整片大地。,"Reunion managed to set a fire, and from the tundra all across the world.",«Реюнион» зажег огонь. И от вечных льдов он перекинулся на всю землю.
+line-426,Guard,可我们……我们要如何告诉那些曾因塔露拉而站起来的感染者们，因乌萨斯的整合运动而选择对抗命运的感染者们——,"But... what are we supposed to tell the Infected who chose to stand up for our cause because of Talulah, and to the Infected who chose to stand up against fate because of the Ursus Reunion Movement—","Но как... как мы скажем тем Заражённым, что поднялись благодаря Талуле, тем, кто решил бросить вызов судьбе из-за «Реюниона» в Урсусе —"
+line-427,Guard,如何告诉他们我们在切尔诺伯格遭到了怎样的失败？如何告诉他们整合运动不过是又一个被大国利用的弃子？,"How do we break it to them that we failed in Chernobog, and that Reunion was yet another pawn, tossed away by the great powers once it exhausted its usefulness?","Как нам сказать им, какое поражение мы потерпели в Чернобоге? Как сказать им, что «Реюнион» был лишь пешкой, использованной великой державой?"
+line-429,煌,……,......,...
+line-431,Guard,有太多不明所以的感染者在那场战争中失去了战友和同胞……,"There are way too many Infected left in the dark, Infected who lost friends and loved ones.",Слишком много ничего не подозревающих Заражённых потеряли своих товарищей и близких в той войне...
+line-432,Guard,所以整合运动需要那个真相。需要“领袖”给出一个答复。,That's why Reunion needs that truth. They need the 'leader' to answer to them.,Поэтому «Реюниону» нужна правда. Им нужен ответ от «лидера».
+line-434,Guard,然后……,And then...,И тогда...
+line-447,游击队萨卡兹,然后，我们会重新开始。,"Then, we will start all over.",И тогда мы начнём всё сначала.
+line-449,煌,——萨卡兹？,—Sarkaz?,— Сарказ?
+line-450,煌,不，你们不是普通的雇佣兵——,"No, you're no ordinary mercenaries—","Нет, вы не обычные наёмники —"
+line-452,游击队萨卡兹,当然。,Damned straight.,Конечно нет.
+line-453,游击队萨卡兹,听说W那个疯子后来和你们有什么牵连来着？随便吧。,"I heard that nutjob W started chumming with you guys after that? Well, whatever.","Слышал, эта сумасшедшая W потом как-то связалась с вами? Плевать."
+line-454,游击队萨卡兹,大尉死后，也并非所有的游击队战士，都选择与整合运动分道扬镳……,"After the Captain died, not all of the guerrilla fighters decided to part ways with Reunion...",После смерти Патриота не все воины-партизаны решили разойтись с «Реюнионом»...
+line-455,游击队萨卡兹,把塔露拉交给我们。既然整合运动还没有消失，那她就该在我们手里。,"Hand Talulah over. If Reunion still exists, then she belongs to us.","Отдайте нам Талулу. Раз уж «Реюнион» ещё существует, она должна быть в наших руках."
+line-457,煌,……哈。,...Hah.,...Ха.
+line-458,煌,难道我们真打算靠嘴皮子说服对方吗？,You think we're gonna talk this over and come to a nice agreement?,Неужели мы действительно собираемся решать это словами?
+line-460,游击队萨卡兹,当然不。,"Yeah, that's not gonna happen.","Разумеется, нет."
+line-461,游击队萨卡兹,只是，就像塔露拉背负着你们罗德岛与龙门人的性命一样，别忘了，你们的手上，也欠着大尉和叶莲娜的命。,"Talulah's got Lungmenite and Rhodes Islander blood on her hands, but let's not forget there's blood on your hands too. The Captain's, and Yelena's.","Только не забывай: хотя на Талуле лежат жизни ваших людей из «Родоса Айленд» и Лунмэня, на ваших руках тоже кровь Патриота и Елены."
+line-462,游击队萨卡兹,千万别以为，我们会有哪怕一丁点的手下留情。,Don't you think for a second we'll go easy on you.,"Даже не надейся, что мы проявим хоть каплю милосердия."
+line-498,整合运动士兵,九，这附近的隔离墙都启动了，区域已经封锁，短时间内我们只要应付这里剩下的人就行。,"Nine, the barriers have been activated. This whole area's sealed off. We just need to deal with the hostiles in here ASAP.","Найн, все переборки поблизости активированы, зона заблокирована. Нам нужно лишь разобраться с оставшимися здесь людьми в кратчайшие сроки."
+line-500,九,好。让外面的队员准备好，随时接应撤离。,Good. Get the team ready for rendezvous and exfiltration.,Хорошо. Пусть бойцы снаружи будут готовы прикрыть наш отход.
+line-502,整合运动士兵,没问题。,Sure thing.,Понял.
+line-504,整合运动术师,对面开始反击了，我们的人手不太够——,The enemies are fighting back. We don't have enough manpower—,"Противник начал контратаку, у нас не хватает людей —"
+line-506,九,不要恋战，优先逃脱！,We're not fighting for the sake of fighting here. Prioritize the evacuation!,"Не вступайте в затяжной бой, приоритет — отход!"
+line-509,近卫干员,想得美，不会让你们就这么离开！,In your dreams! You aren't getting away that easily!,"Размечтались, мы не дадим вам так просто уйти!"
+line-511,狙击干员,休想逃走！,Don't even think about it!,Даже не думайте о побеге!
+line-526,整合运动术师,啧，真是缠人。,"Ugh, why can't this ever be easy.","Тц, какие же они приставучие."
+line-527,整合运动术师,头儿，你们先走！,"Boss, you go on ahead!","Босс, уходите первыми!"
+line-542,九,……好。一定要跟上，我们之后见。,Right. Be sure to catch up. I'll see you later.,"...Хорошо. Обязательно догоняйте нас, увидимся позже."
+line-543,九,确认路线！,Confirm the exfiltration route!,Подтвердить маршрут!
+line-545,整合运动士兵,确认了，没问题！按计划从原路走就能顺利脱离！,Confirmed. No trouble at all! We'll make it out of here without a hitch if we keep to the plan!,"Подтверждаю, всё чисто! Если пойдём по плану старым путём, благополучно выберемся!"
+line-547,九,好，联系外部成员，按原计划行动！,"Good, contact the team outside. The plan is a go!","Хорошо, свяжитесь с группой прикрытия снаружи, действуем по плану!"
+line-549,整合运动士兵,是！,Roger!,Есть!
+line-555,？？？,站住！,Hold it!,Стоять!
+line-557,九,……,......,...
+line-559,？？？,——停下。你们不能离开。,—Stop. You are not leaving.,— Остановитесь. Вы не уйдёте.
+line-569,阿米娅,你们不能通过这里。,I won't let you through.,Вы здесь не пройдёте.
+line-570,阿米娅,……塔露拉，你不该踏出那个房间。,"Talulah, you should not have left that room.","...Талула, тебе не следовало выходить из той комнаты."
+line-571,阿米娅,他们是——整合运动？他们是来救你的吗？,Are these—Reunion? Are they here to rescue you?,Это бойцы «Реюниона»? Они пришли спасти тебя?
+line-582,塔露拉,……,......,...
+line-584,九,罗德岛的领袖。用“救”这个字不太贴切，不过也无所谓了。,"The leader of Rhodes Island herself. Well, the word 'rescue' isn't very appropriate here, not that it matters.","Лидер «Родос Айленда». Слово «спасти» не совсем подходит, но это не важно."
+line-585,九,另外，希望你能明白一点，在跟我们走这件事上，她其实没得选。,"Now I do hope you'll understand. She's coming with us, and she doesn't have a choice.","Кроме того, я надеюсь, ты понимаешь одну вещь: в вопросе ухода с нами у неё на самом деле нет выбора."
+line-587,阿米娅,……不，她得留下。,"No, she's staying here.","...Нет, она должна остаться."
+line-589,九,乌萨斯和龙门有理由追捕塔露拉。罗德岛当然也有理由扣下她。,"Ursus and Lungmen both have a right to prosecute Talulah, and naturally Rhodes Island has a reason to imprison her.","У Урсуса и Лунмэня есть причины преследовать Талулу. У «Родос Айленда», конечно, тоже есть причины удерживать её."
+line-590,九,但塔露拉也必须给整合运动一个交代……给感染者一个交代。,But Talulah also owes us an explanation. To Reunion... and to the Infected.,Но Талула также должна дать ответ «Реюниону»... дать ответ всем Заражённым.
+line-592,阿米娅,——那么，为什么你不愿信任罗德岛，等着塔露拉能够给出那个交代呢？,"—In that case, why not trust Rhodes Island, and wait until Talulah can give you that explanation?","— Тогда почему вы не хотите довериться «Родос Айленду» и подождать, пока Талула сможет дать этот ответ?"
+line-594,九,Guard也是用这样的说辞，让我们信任罗德岛。,"That's the same thing Guard said to us, he wanted us to trust you.","Гард говорил то же самое, убеждая нас доверять вам."
+line-595,九,而陈……龙门的陈警司也说过，她想要创造一个公平的条件，去审判她这样的感染者。,And Ch'en... Lungmen's Superintendent Ch'en once said she wanted to create fair terms by which an Infected like her could be judged.,"И Чэнь... инспектор Чэнь из Лунмэня тоже говорила, что хочет создать справедливые условия для суда над такой Заражённой, как она."
+line-596,九,可是，什么才是公平呢？,But what even counts as fair?,Но что такое справедливость?
+line-598,阿米娅,……,......,...
+line-600,九,切尔诺伯格和龙门，那么多的牺牲，那么多徒劳的死亡，纵使有千百种借口，她都难逃其咎。,"Chernobog and Lungmen have seen so much sacrifice, so much needless death. Even if she had a thousand excuses, she's still guilty.","Чернобог и Лунмэнь... столько жертв, столько тщетных смертей. Сколько бы ни было оправданий, она не сможет избежать вины."
+line-601,九,只允许罗德岛去创造那个未来，等待那个未来，却不允许……遭到最深刻背叛的整合运动，有任何发言吗？,"Rhodes Island is welcome to forge that future, to wait for it to come, but... Reunion, the ones she betrayed... they don't get a say?","Неужели только «Родос Айленду» позволено создавать это будущее, ждать его, а «Реюниону», пережившему глубочайшее предательство, даже не дают высказаться?"
+line-602,九,罗德岛的领袖，回答我。,"Answer me, as Rhodes Island's leader.","Лидер «Родос Айленда», ответь мне."
+line-604,阿米娅,那么，我们可以一起等待。,"In that case, we can wait together.",Тогда мы можем ждать вместе.
+line-605,阿米娅,盾卫们愿意相信，罗德岛的干员们愿意相信……愿意相信我们终有一天能给出一个答案……,The Shieldguards are willing to believe... and so do Rhodes Island's operators... that there will come a day we give everyone an answer...,"Щитоносцы готовы верить, оперативники «Родос Айленда» готовы верить... верить, что однажды мы найдём ответ..."
+line-606,阿米娅,而眼下这样——用这样的暴力，从罗德岛的手中夺走她，又如何让人再相信整合运动？,"But, right now, Reunion is trying to snatch her away from Rhodes Island through violence. How is anyone supposed to trust in Reunion?",А поступать вот так — силой забирать её из рук «Родос Айленда»... Разве это заставит людей снова поверить «Реюниону»?
+line-607,阿米娅,我不想再让感染者们流血，不想再与整合运动为敌，你们又为什么——,I don't want the Infected to see any more bloodshed. I don't want to fight the Reunion Movement again. But why must you—,"Я не хочу больше проливать кровь Заражённых, не хочу снова враждовать с вами, почему вы —"
+line-609,九,就算我愿意等，也许还有别人愿意等——但“整合运动”是等不了的。,"Even if I'm willing to wait, and there are others who are... 'Reunion' cannot wait.","Даже если я готова ждать, и, возможно, кто-то ещё готов — «Реюнион» ждать не может."
+line-611,阿米娅,……什么？,What?,...Что?
+line-613,九,……要说的就只有这些了。,That's all I have to say.,"...Это всё, что я хотела сказать."
+line-615,整合运动士兵,九！快到时间了！不能和她纠缠下去！,Nine! We have to move! We can't waste any more time with her!,Найн! Время на исходе! Нельзя больше с ней возиться!
+line-617,九,走吧，塔露拉。,"Let's go, Talulah.","Пойдём, Талула."
+line-619,塔露拉,……,......,...
+line-622,阿米娅,等等，你们不可以走——,"Wait, you can't—","Постойте, вам нельзя уходить —"
+line-624,整合运动士兵,这可不是你说不可以就能行的！,That's not for you to decide!,"Это не тебе решать, можно нам или нет!"
+line-625,整合运动士兵,所有人，拖住这个卡特斯！小心她的法术！,"Everyone, stop the Cautus! Watch her Arts!","Всем бойцам, задержать Каутуску! Опасайтесь её искусства!"
+line-676,游击队萨卡兹,罗德岛的感染者！你很强！若是我单枪匹马，绝不是你的对手！,"You're strong, Rhodes Island Infected! There's no way I could stop you alone!","Заражённая из «Родос Айленда»! Ты сильна! Если бы я был один, я бы тебе уступил!"
+line-678,煌,啧，谢谢夸奖，那你能让开不？,"Heh, I'll take that as a compliment. That mean you're letting me by?","Тц, спасибо за комплимент, а теперь отойдёшь?"
+line-680,游击队萨卡兹,不，我只是在想，叶莲娜托付生命的一战，至少她面对的是一个真正的战士！,"No, I was just thinking that at least Yelena gave her life fighting a true warrior!","Нет, я просто думаю о том, что в битве, которой Елена вверила свою жизнь, она сражалась против истинного воина!"
+line-682,煌,那抱歉了，我还急着赶路，你们可能要吃点苦头咯！,"Aw, too bad. I'm in a hurry, though. So you guys are in for a hard time!","Тогда извини, я спешу, так что вам придётся немного пострадать!"
+line-684,Guard,——弩手，拦住她！,"—Crossbowman, stop her!","— Арбалетчики, остановить её!"
+line-686,煌,还来——！？,There's more of you—?!,Опять —?!
+line-700,幻影弩手,……,......,...
+line-702,煌,等等——你们——？你们手里的那是？,Wait—You—? What's that you're holding?,Погодите — вы —? Что это у вас в руках?
+line-704,幻影弩手,队长的弩，你们保存得很好。,The captain's crossbow. You've been taking good care of it.,Арбалет командира. Вы хорошо его сохранили.
+line-705,幻影弩手,感谢你们。,Thank you.,Благодарим вас.
+line-706,幻影弩手,但既然我们还选择站在这里，那这把弩……就还没到被当作遗物封存的时刻。,"But as long as we choose to stand up, it's too early for that crossbow to be sealed away as a mere memento of the dead.","Но раз уж мы решили снова встать в строй, этому арбалету... ещё не время храниться как реликвии."
+line-707,幻影弩手,全员，准备。,"All hands, ready.",Всем приготовиться.
+line-721,整合运动战士,这只兔子……这么年轻，哪来的这股力量！？,This rabbit... She's so young. How is she this powerful?!,"Этот кролик... такая молодая, откуда в ней столько силы?!"
+line-723,阿米娅,哈……哈……,*Pant*... *pant*...,Ха... ха...
+line-724,阿米娅,让……开！,Out of... the way!,Прочь... с дороги!
+line-726,整合运动战士,嘁……我也是做好了牺牲的觉悟才参加这次突袭的。,Heh... I signed up for this ambush ready to sacrifice myself.,"Хм... Я шёл на этот штурм, будучи готовым принести себя в жертву."
+line-727,整合运动战士,来吧，卡特斯。我见识过你们在核心城的战斗，说实话，我佩服你们。,"Come, Cautus. I saw your battle at the core city. Honestly, I admire you people.","Давай, Каутуска. Я видел, как вы сражались в ядре города, и, честно говоря, я восхищаюсь вами."
+line-728,整合运动战士,但这一次，我不能让步，哪怕今天还是会以感染者的死来收场。,But I won't give in. Even if the Infected have to die here.,"Но в этот раз я не отступлю, даже если сегодняшний день закончится смертью ещё одного Заражённого."
+line-730,阿米娅,我——,I—,Я —
+line-737,阿米娅,——！,...!,—!
+line-739,九,……花期到了。,It's flowering season.,...Пора цветения настала.
+line-747,阿米娅,这、这是……花？什么时候——,A-Are those... flowers? When did—,Это... цветы? Когда они успели —
+line-749,九,在这种时候，你还避开了他们的要害。,"You take nonlethal shots, even at a time like this.",Даже в такой ситуации ты избегала ударов по жизненно важным точкам.
+line-750,九,罗德岛的领袖，确实名副其实，不过，现在你还是睡一会吧。,"You're a worthy leader, Rhodes Island, but it's about time you got some sleep.","Лидер «Родос Айленда» действительно достойна своего звания, но сейчас тебе лучше немного поспать."
+line-752,阿米娅,……不……,...No...,...Нет...
+line-753,阿米娅,（你们……不能……）,(You... can't...),(Вы... не должны...)
+line-759,整合运动战士,你的法术就没有什么更快生效的办法吗……算了，能拖多久？,"Um, can your Arts work a little faster...? I mean, how much time is this going to buy us?","Неужели твоя магия не может подействовать быстрее... Ладно, надолго её это задержит?"
+line-761,九,足够了，让所有小队向当前坐标靠近，飞行器马上就——,Enough. Have all teams move to our current position. The aircraft will be here—,"Достаточно. Пусть все отряды стягиваются к текущим координатам, летательный аппарат скоро будет —"
+line-768,整合运动战士,等等！九！Dijkstra说监控里有什么东西在快速靠近！,Wait! Nine! Dijkstra says he's got something approaching us fast on the camera feed!,"Погоди! Найн! Дейкстра говорит, что к нам что-то быстро приближается!"
+line-770,九,……难道还有别的干员……,Are there other operators...?,...Неужели другие оперативники...
+line-772,整合运动战士,不、不！那不是人类！,"No, no! That's not human!",Нет-нет! Это не человек!
+line-782,Mon3tr,（雀跃的咆哮声）,(Elated roar),(Ликующий рёв)
+line-784,整合运动战士,拦、拦住它！它的目标是九和塔露拉——,S-Stop that thing! It's after Nine and Talulah—,Оста-остановите его! Его цель — Найн и Талула!
+line-786,Mon3tr,（轻松地舒展四肢）,(Relaxedly stretches its limbs),(Легко расправляет конечности)
+line-787,Mon3tr,（尖啸）,(Howls),(Пронзительный крик)
+line-799,整合运动战士,唔啊！,Woah!,М-м-а-а!
+line-805,九,——这是，什么——？,Just what... is that—?,— Это ещё... что такое?
+line-807,Mon3tr,（咆哮）,(Roars),(Рёв)
+line-810,九,（糟糕！来不及施法——）,(Crap! My Arts can't—),(Черт! Не успеваю сплести заклинание —)
+line-840,塔露拉,……,......,...
+line-844,Mon3tr,（挑衅的咆哮声）,(Taunting roar),(Вызывающий рёв)
+line-846,九,……你……,...You...,...Ты...
+line-848,塔露拉,沉默并不是一种回答，整合运动。,"Silence isn't an answer, Reunion.","Молчание — это не ответ, «Реюнион»."
+line-849,塔露拉,现在，这才是我的答复。不过，你说过我没有选择就是了。,"Now, here's my answer. Not that I am given a choice, as you said.","Теперь вот мой ответ. Впрочем, ты сама сказала, что у меня нет выбора."
+line-851,九,……,......,...
+line-865,游击队萨卡兹,九！时间快不够了！我们拦不住那个菲林和这只怪物太长时间！,Nine! We don't have the time! We can't hold that Feline and the monster for very long!,Найн! Время на исходе! Мы не сможем долго сдерживать ту Фелинку и это чудовище!
+line-868,Mon3tr,（咆哮）,(Roars),(Рёв)
+line-870,游击队萨卡兹,呃——该死！,Ugh—Dammit!,Твою мать! Черт!
+line-872,九,……最后三十秒。,30 seconds more...,...Последние тридцать секунд.
+line-874,阿米娅,唔……嗯……,Hngh.... Mmm...?,М-м... ох...
+line-877,Mon3tr,（激昂的咆哮）,(Agitated roars),(Яростный рёв)
+line-879,游击队萨卡兹,它又冲着你们去了，九——,"It's charging you again, Nine—","Оно снова несётся к вам, Найн —"
+line-881,塔露拉,……罗德岛。,Rhodes Island.,...«Родос Айленд».
+line-882,塔露拉,我并不打算说服任何人，也不打算强迫任何人接受我的想法。,"I'm not going to convince anyone, nor will I force anyone to accept what I think.",Я не собираюсь никого убеждать или заставлять принимать мои идеи.
+line-883,塔露拉,只是，事情未了。,But it's not over yet.,Просто дело ещё не окончено.
+line-884,塔露拉,我会等着那一天来临，无论是她说的，还是你说的，我会等着所谓的审判来临。,"I will wait for that day to come. Whether it's the day she spoke of, or the day you did. I will wait for my so-called judgment.","Я буду ждать того дня, когда настанет время обещанного суда — будь то слова Амии или твои."
+line-885,塔露拉,但是在那之前——,But until then—,Но до тех пор —
+line-898,,火焰从她的指尖腾起。,Flames rise from her fingertips.,Пламя вспыхнуло на кончиках её пальцев.
+line-899,,仿佛一堵愤怒的高墙。,Like a great wall built of fury.,Словно воздвигнутая стена гнева.
+line-901,Mon3tr,——（极短的畏缩）！,—(Brief timid moans)!,— (Краткий миг испуга)!
+line-903,塔露拉,我会活下去。,I will live.,Я буду жить.
+line-907,,阿米娅！;塔露拉！,Amiya!;Talulah!,Амия! / Талула!
+line-909,,别想碰阿米娅！;除非你杀了我！,Don't touch her!;Over my dead body!,Не смей трогать Амию! / Только через мой труп!
+line-912,,你挡在了阿米娅的身前。,"You step in front of Amiya, shielding her.",Вы закрыли собой Амию.
+line-913,,高温带来的窒息感让你片刻恍惚，但奔袭的焰苗仍旧绕过了你们二人。,"The suffocatingly high temperature briefly dazes you, though the fire's sparks continue to dance in the air, leaving you two unharmed.","От сильного жара на мгновение перехватило дыхание, но бегущие языки пламени обошли вас обоих стороной."
+line-915,塔露拉,……放心吧，火绕过了她。,"Relax, I made sure the flames went around her.","...Не волнуйся, огонь её не коснулся."
+line-916,塔露拉,你们还会有更长的路要走，但愿……你们的心底没有阴霾。,You still have a long road ahead. I can only hope... nothing will cloud your hearts.,Вам предстоит ещё долгий путь. Надеюсь... в ваших душах не будет тьмы.
+line-924,Guard,时间到了！九！等不了了！,It's time! Nine! We can't wait any longer!,Время вышло! Найн! Мы больше не можем ждать!
+line-926,九,我知道。,I know.,Я знаю.
+line-927,九,那么……后会有期，罗德岛。,"Well, then... We'll meet again, Rhodes Island.","Что ж... До скорой встречи, «Родос Айленд»."
+line-929,,等等！,Wait!,Постойте!
+line-934,,那是——近地飞行器？,Is that... a low-altitude aircraft?,Это что — маловысотный летательный аппарат?
+line-940,凯尔希,把它打下来。,Take that thing down.,Сбейте его.
+line-943,Mon3tr,（尖啸）,(Howls),(Пронзительный крик)
+line-958,凯尔希,……,......,...
+line-961,,没有……命中？;他们不见了。,It... missed?;They're gone.,Мимо...? / Они исчезли.
+line-964,凯尔希,哥伦比亚标识的近地飞行器，他们始终在大雾天气等待着机会。,A Columbian low-altitude aircraft. They've been waiting for foggy weather.,Летательный аппарат с маркировкой Колумбии... они всё это время ждали возможности в тумане.
+line-965,凯尔希,现在先把阿米娅平放在地上，动作快。,Set Amiya down on the floor. Quick.,"Сейчас осторожно положите Амию на землю, быстро."
+line-968,,好的！,Okay!,Хорошо!
+line-971,凯尔希,……,......,...
+line-982,塔露拉,……,......,...
+line-984,九,那就是凯尔希。,So that's Kal'tsit.,Это была Кальцит.
+line-985,九,听Guard说，只要包括凯尔希在内，连带精英干员有超过三名在场，我们的袭击就不可能成功。,"Guard said that if, including Kal'tsit, there were just three elite operators around, our ambush wouldn't have worked.","Гард говорил, что если на месте будет Кальцит и более трёх элитных оперативников, наше нападение обречено на провал."
+line-986,九,所以今天，现在，是唯一的机会。,That's why today... that was our only chance.,Так что сегодня был единственный шанс.
+line-988,塔露拉,……你们准备了多久？,How long have you been preparing for this?,...Как долго вы готовились?
+line-990,九,很久。,A long time.,Долго.
+line-992,塔露拉,然后，我们去哪里？,So? Where are we going?,И куда мы теперь?
+line-994,九,开始的地方。,Where it all started.,"Туда, где всё началось."
+line-1002,阿米娅,唔……,Mmgh...,М-м...
+line-1004,,阿米娅还好吗？;……;阿米娅没事吧？,Is Amiya okay?;......;Is Amiya alright?,"Амия, ты в порядке? / ... / Амия, всё хорошо?"
+line-1007,凯尔希,别着急……只是睡着了而已。,Calm down... She passed out. That's all.,Не волнуйтесь... она просто заснула.
+line-1008,凯尔希,但并不是单纯的源石技艺，可能是植物毒素……煌。,"It's no mere Arts, though. It might be plant toxins... Blaze.","Но это не обычное Искусство Ориджиниума, возможно, растительный токсин... Блэйз."
+line-1010,煌,……,......,...
+line-1014,凯尔希,把阿米娅抱进医疗室。,Take Amiya to Medical.,Отнеси Амию в медпункт.
+line-1016,煌,……嗯。,Alright...,...Да.
+line-1018,凯尔希,你也不必摆出这种自责的表情，那些萨卡兹也非泛泛之辈。,I can see it on your face. Don't blame yourself. That Sarkaz was no run-of-the-mill fighter.,"Не нужно винить себя, те Сарказы тоже были не промах."
+line-1020,煌,可我还是让他们逃了。,But I still let them get away.,Но я всё равно дала им уйти.
+line-1023,煌,至少……至少如果能从Guard那家伙嘴里问出更多的事情——！,If... If only I had gotten more answers out of Guard—!,Хотя бы... хотя бы если бы удалось вытянуть больше из этого Гарда —!
+line-1025,凯尔希,Guard……,Guard...,Гард...
+line-1026,凯尔希,他们有备而来，而罗德岛，措手不及。,"They came prepared, and we weren't.","Они подготовились, а «Родос Айленд» застигли врасплох."
+line-1032,可露希尔,各、各位！情况如——,"H-Hey, everybody? How's everything—",Р-ребята! Как обст... —
+line-1033,可露希尔,阿、阿米娅……,A—Amiya...,А-амия...
+line-1035,凯尔希,先清点损失，安置伤员，剩下的话一会再说。,Let's get a damage report and take care of the wounded first. We'll talk about the rest later.,"Сначала подсчитайте потери, разместите раненых, остальное обсудим позже."
+line-1037,可露希尔,……,......,...
+line-1038,可露希尔,要不是被那家伙摆了一道，这次袭击……是可以制止的。,That guy played me like a fiddle... This ambush could've been avoided.,Если бы этот парень не обманул меня... этого нападения... можно было бы избежать.
+line-1039,可露希尔,可恶……！我明明是信任他才把那些——！,Dammit...! I gave him that thing because I trusted him—!,"Проклятье...! Я же доверяла ему, когда отдавала те —!"
+line-1040,可露希尔,凯尔希医生！,Dr. Kal'tsit!,Доктор Кальцит!
+line-1042,凯尔希,我在听。,I am listening.,Я слушаю.
+line-1044,可露希尔,这艘船……我们的罗德岛，也许会更频繁地面对更直接的威胁，就像过去那样！,"This ship... Rhodes Island might be finding itself under frequent, direct threats, just like we used to!","Этот корабль... наш «Родос Айленд» в будущем может столкнуться с более прямыми угрозами, как в старые времена!"
+line-1045,可露希尔,我需要立刻召开一次紧急会议。,I want to hold an emergency meeting right now.,Мне нужно немедленно созвать экстренное совещание.
+line-1047,凯尔希,……离我们进入维多利亚的预定日期已经很近了。,We'll be entering Victoria soon...,...Мы уже совсем скоро должны войти в Викторию.
+line-1048,凯尔希,你能调用的人手十分有限。,We don't have many operators at your disposal.,"Люди, которыми ты можешь распоряжаться, крайне ограничены."
+line-1050,可露希尔,我知道。,I know.,Я знаю.
+line-1052,凯尔希,……那么，博士。,Well then... Doctor.,"...Тогда, Доктор."
+line-1053,凯尔希,劳烦先帮可露希尔这个忙吧。她是很少……露出这种眼神的。,I'll have you assist Closure. That look on her face... it's seldom seen.,"Пожалуйста, помоги Кложур. Она редко... смотрит таким взглядом."
+line-1056,,嗯。;……;对不起，我也……,"Yeah.;......;Sorry, but I'm also...","Хорошо. / ... / Простите, я тоже..."
+line-1059,凯尔希,至少你在最后挺身保护了阿米娅。,At least you stood up and shielded Amiya in the end.,"По крайней мере, в конце ты защитил Амию."
+line-1060,凯尔希,……谢谢。,Thank you.,...Спасибо.
+line-1072,塔露拉,……,......,...
+line-1074,九,……,......,...
+line-1076,塔露拉,……这是什么？,What's this...?,...Что это?
+line-1078,九,新的镣铐。,Your new cuffs.,Твои новые кандалы.
+line-1079,九,实时监控你的位置，以及，如果你再像刚才那样施放源石技艺，会有一些不好的结果。,"They track your position in real time. And if you try to use your Arts again, you aren't going to enjoy it.","Они отслеживают твоё местоположение в реальном времени. И если ты снова применишь искусство, как только что, последствия будут неприятными."
+line-1081,塔露拉,……,......,...
+line-1083,九,塔露拉，你是我们的囚犯。,"Talulah, you are our prisoner.","Талула, ты — наша пленница."
+line-1085,塔露拉,你何时成为的整合运动？龙门人。,"When did you join Reunion, Lungmenite?",Когда ты успела примкнуть к «Реюниону»? Лунмэнька.
+line-1087,九,……,......,...
+line-1089,塔露拉,这片大地上的人注定会死，何况是感染者，更何况是我。,"Every soul who walks this world is fated to die, let alone the Infected, and let alone me.","Люди на этой земле обречены на смерть, тем более Заражённые, а уж я — и подавно."
+line-1090,塔露拉,只是，感染者遭到的屈辱，被奴役者的怒火，还没有得到伸张。,"That said, the humiliation the Infected have faced and the fury of the enslaved have not been answered for.",Но унижения Заражённых и гнев порабощённых ещё не были искуплены.
+line-1091,塔露拉,所以我不敢死。,That's why I can't die for nothing.,Поэтому я не смею умирать.
+line-1093,九,那么当事情迎来一个结果，你一定会死。,"When this comes to an end, you will die.","Когда всё закончится, ты обязательно умрёшь."
+line-1095,塔露拉,那就等到同胞扯下旧时代的旗帜，将一切不公与强权燃烧殆尽，再把他们的灰烬撒在我的坟墓上吧。,"Then let our brethren tear down the banners of the old era and set all injustice and tyranny ablaze. Then, and only then, scatter their ashes on my grave.","Что ж, тогда дождись дня, когда наши братья и сёстры сорвут знамёна старой эпохи, испепелят всю несправедливость и тиранию, а затем развеют их прах над моей могилой."
+line-1096,塔露拉,我知道，在那之前，你们想得知真相。,"But I know, of course, what you and your followers seek first is the truth.","Я знаю, что до этого вы хотите узнать правду."
+line-1098,九,……也许你和陈真的很像。,It's like you and Ch'en were cut from the same cloth.,"...Возможно, вы с Чэнь действительно похожи."
+line-1100,塔露拉,你认识她。,You know her.,Ты её знаешь.
+line-1102,九,当然，我熟悉的不止是陈警司，而是陈晖洁。所以你们很像。,I do. And not just Superintendent Ch'en. I know Ch'en Hui-chieh. So I can tell you two are alike.,"Конечно. Я знаю не только инспектора Чэнь, но и Чэнь Хуэйцзе. Поэтому вы похожи."
+line-1103,九,不过，那都是后话了。,"That's for another time, though.",Но это уже совсем другая история.
+line-1113,阿米娅,各位……抱歉，让大家担心了。,"Sorry, everyone... I made you worry.","Друзья... простите, что заставила вас волноваться."
+line-1115,可露希尔,阿米娅！你没事了？,Amiya! Are you okay?,Амия! Ты поправилась?
+line-1117,阿米娅,……嗯。,Yeah...,...Да.
+line-1118,阿米娅,我……没能拦住塔露拉。,I... I couldn't stop Talulah.,Я... не смогла остановить Талулу.
+line-1120,凯尔希,整合运动在大雾和天灾的掩护下追踪了本舰至少十多天，而对方早就渗透进了系统……没有急于动手，故意等待着我们最松懈的时刻。,"Reunion has been tracking our ship under cover of fog and Catastrophe for at least a dozen days, and they had infiltrated our systems long before that... They didn't make their move right away, and instead waited until we were least prepared.","«Реюнион» под прикрытием тумана и Катастрофы выслеживало наш корабль как минимум десять дней, а противник давно проник в систему... Они не спешили, выжидая момент, когда мы будем максимально расслаблены."
+line-1121,凯尔希,我们会追回塔露拉，不过现在，让龙门和乌萨斯不再有理由追踪罗德岛本舰，也并非全是坏事。,"We will get Talulah back, but it's not necessarily a bad thing that Lungmen and Ursus no longer have a reason to keep track of the Rhodes Island landship.","Мы вернём Талулу, но сейчас то, что у Лунмэня и Урсуса больше нет причин следить за «Родос Айлендом», даже к лучшему."
+line-1122,凯尔希,离维多利亚越发近了，阿米娅。,"We're getting closer and closer to Victoria, Amiya.","Мы всё ближе к Виктории, Амия."
+line-1124,阿米娅,……嗯。,We are...,...Да.
+line-1126,可露希尔,既然他能对我的系统下手……我也能确定他的位置。,If he managed to take my systems down... then I can trace him too.,Раз уж он смог взломать мою систему... я тоже смогу определить его местоположение.
+line-1127,可露希尔,他来不及清理所有记录，这其中一定有他大意留下的线索，终端的产地，位置信息，伪造的手段——,"He couldn't wipe all the records in time. There's gotta be some clues he left behind, like an origin terminal, geolocation info, and how he forged everything—","Он не успел стереть все записи, в них наверняка остались зацепки, оставленные по неосторожности: место производства терминала, информация о геопозиции, методы подделки —"
+line-1128,可露希尔,走着瞧吧，我会找到他们的！,Just watch! I will find them!,"Вот увидите, я их найду!"
+line-1131,,抱歉，阿米娅。;……;我没能为你做到什么。,"Sorry, Amiya.;......;I wasn't able to do anything for you.","Прости, Амия. / ... / Я не смог тебе ничем помочь."
+line-1134,阿米娅,……没关系的。,It's okay...,...Ничего страшного.
+line-1136,阿米娅,很不可思议……凯尔希医生，可露希尔小姐，博士。在这件事上，我总有一种感觉。,"It's strange... Dr. Kal'tsit, Closure, Doctor. I'm getting a weird feeling about this turn of events.","Это невероятно... Доктор Кальцит, мисс Кложур, Доктор. У меня по поводу всего этого есть одно предчувствие."
+line-1139,,什么？;……;很巧，我也有一种预感。,What?;......;What a coincidence. I've been getting a weird feeling too.,"Какое? / ... / Какое совпадение, у меня тоже есть предчувствие."
+line-1142,阿米娅,或许……有些事情就是注定会发生。或迟或早，我们总会要面对它。,"Maybe... certain things are fated to happen, and we, sooner or later, have to face them.",Возможно... некоторым вещам суждено случиться. Рано или поздно нам пришлось бы с этим столкнуться.
+line-1143,阿米娅,我总觉得……,I think...,Мне кажется...
+line-1145,阿米娅,这不会是结束。,...this isn't the end.,Это ещё не конец.
+line-1146,阿米娅,——我们还会再见面的，塔露拉。,"—We will meet again, Talulah.","— Мы ещё встретимся, Талула."
+line-1159,陈,……,......,...
+line-1161,风笛,——我找到能帮忙的信使啦，是我以前——,—I found a Messenger who can help! It's one of my old—,"— Я нашла Вестника, который может помочь! Это мой старый знакомый —"
+line-1163,风笛,陈陈？你在发呆吗？,Chenchen? Are you spaced off?,Чэнь-Чэнь? Ты задумалась?
+line-1165,陈,……不是。,No.,...Нет.
+line-1166,陈,只是，突然有种感觉……算了。,It's just... I'm getting this weird feeling... Whatever.,"Просто внезапно появилось какое-то чувство... ладно, забудь."
+line-1168,风笛,嗯？你们大炎人都这么敏感吗？这就是所谓的“天人感应”？,Hm? Is everyone from Yan that sensitive? Got some kind of sixth sense?,"А? Вы, выходцы из Яня, всегда такие чувствительные? Это то, что называют «связью с небом»?"
+line-1170,陈,是这样的，我们办案时一般会直接靠直觉猜真凶。,Exactly. We solve cases with nothing but intuition alone.,"Вроде того. Когда мы ведём дело, обычно сразу полагаемся на интуицию, чтобы вычислить преступника."
+line-1172,风笛,诶！？真的可以吗？,Eh?! Can you really?,Э?! И правда так можно?
+line-1174,陈,……呵。,...Heh.,...Ха.
+line-1175,陈,别傻了，该出发了。,Stop being an idiot. Let's go.,Не глупи. Нам пора идти.
+line-1182,,真冷啊。,It's cold.,Как же холодно.
+line-1183,,之前明明还是那么熟悉的风和雪，阔别重逢竟然变得生疏起来了。,"This cold wind and snow used to be a familiar sight, yet it all feels so foreign now.","Ветер и снег, когда-то столь привычные, после долгой разлуки кажутся чужими."
+line-1184,,风雪里夹杂着细小的砂石，令德拉克的面颊微微生痛。,"The snow breeze carries with it many tiny grains of rock, pricking away at the Draco's face.","Ветер со снегом несёт мелкие песчинки, которые колют щёки Драко."
+line-1185,,乌萨斯的冻原远比自己安静地开始褪色的回忆中更粗野，更生机勃勃。,Ursus's tundras are so much harsher and livelier than what she faintly remembers in her fading memories.,"Тундра Урсуса гораздо грубее и живее, чем в её собственных воспоминаниях, начавших понемногу тускнеть."
+line-1188,,真冷啊。,It's cold.,Как же холодно.
+line-1189,,有多久没有体会过这种温度了？,How long has it been since I last felt such cold?,Как давно она не ощущала такой температуры?
+line-1190,,是几个月，还是半年？一年？,A few months? Half a year? A year?,"Прошло несколько месяцев, полгода? Год?"
+line-1191,,……,......,...
+line-1192,,在那之后……,Has it really...,С того самого момента...
+line-1193,,原来已经过去这么久了吗？,Has it really been so long?,"Оказывается, утекло уже столько времени?"
+line-1198,整合运动战士,所以我们为什么还要心平气和地留她一命！？,"Like I said, why are we still keeping her alive like she did nothing wrong?!",Так почему мы должны спокойно оставлять её в живых?!
+line-1200,幻影弩手,最想吊死塔露拉的人是我们。,Nobody wants to see Talulah hanged more than us.,Больше всего на свете повесить Талулу хотим мы.
+line-1202,整合运动战士,……,......,...
+line-1204,幻影弩手,从雪原开始，到切尔诺伯格结束。这些年……一路走来的同胞，比任何人都无法接受她的背叛。,"We've been through it all, over the years, from our beginnings in the tundras all the way to the end in Chernobog... how do you think we stomach her betrayal?","Начиная со снежных полей и заканчивая Чернобогом... Те соратники, что прошли этот путь, меньше всего готовы принять её предательство."
+line-1205,幻影弩手,她曾经……她……嘁。,She used to... She... *sigh*.,Она когда-то... она... тц.
+line-1206,幻影弩手,切尔诺伯格的事情我们并不知晓全貌……事有蹊跷，我们需要更有力的答复。,"We don't know the whole story of Chernobog... but it's fishy, and we need a more concrete answer.","Мы не знаем всей картины того, что произошло в Чернобоге... Там есть что-то странное, нам нужны веские ответы."
+line-1208,整合运动战士,我们凭什么信任她！？,Why should we even trust her?!,С чего бы нам ей верить?!
+line-1210,幻影弩手,……交给九吧。,Leave it to Nine.,...Предоставь это Найн.
+line-1211,幻影弩手,队长他一定也不希望感染者们的士气跌入谷底……只有九在这件事上还比较冷静。,The captain wouldn't want to see Infected morale fall to rock bottom either... but Nine is a bit more calm when it comes to this mess.,"Наш командир наверняка бы тоже не хотел, чтобы боевой дух Заражённых пал на самое дно... Только Найн в этой ситуации сохраняет хладнокровие."
+line-1213,整合运动战士,她当然冷静！她是个半路入局的龙门人！她根本不懂整合——,Of course she is! She's a Lungmenite who joined us halfway through! She doesn't know what it means to be part of Reunion—,"Конечно она спокойна! Она лунмэнька, примкнувшая на полпути! Она ничего не смыслит в «Реюнионе» —"
+line-1215,幻影弩手,——注意你的态度！,—Watch your mouth!,— Следи за языком!
+line-1216,幻影弩手,你以为当年离开队伍，去其他国家的同胞们是从哪里出发的！？,Where did you think our comrades who left for the other countries started their journey?!,"Ты хоть знаешь, откуда уходили те наши соратники, что покинули отряд и разошлись по другим странам?!"
+line-1217,幻影弩手,就是在那个罪大恶极的叛徒的瞩目下，从你脚下的这片冻土，走向整片大地的！,They started from the snowfields beneath your feet and made their way across the world under the watchful eyes of that disgusting traitor!,Именно под взглядом этой самой предательницы они уходили с этой промёрзшей земли под твоими ногами во все уголки мира!
+line-1218,幻影弩手,你以为这件事真是个吊死她就能结束的背叛那么简单吗！？,Do you think hanging her will solve the whole thing?!,"Неужели ты думаешь, что всё это — лишь предательство, которое можно закончить, просто повесив её?!"
+line-1220,整合运动战士,我……抱歉。,I... Sorry.,Я... прости.
+line-1221,整合运动战士,我……我去冷静一下。,I'll... cool off.,Пойду... пойду остыну.
+line-1229,九,是伦蒂尼姆的感染者工人，他们在频繁地寻求外援，尝试与其他感染者建立联系。,"It's the Infected workmen from Londinium. They keep looking for help, trying to build relationships with other Infected.",Это рабочие-Заражённые из Лондиниума. Они часто ищут помощи извне и пытаются наладить связи с другими Заражёнными.
+line-1230,九,维多利亚……他们也是因你而起的，塔露拉。更不要提，你还是一条……德拉克。,"Victoria... They rose because of you, Talulah. And that's before we even say... you are a Draco.","Виктория... Они тоже поднялись благодаря тебе, Талула. Не говоря уже о том, что ты — Драко."
+line-1232,塔露拉,……,......,...
+line-1234,九,如你所说，你确实没有随随便便死去的权利。如果整片大地的整合运动都因你而揭竿而起，那么——,"Just as you said, you don't have the right to die as you please. If all Reunion across the world rose up in arms because of you, then—","Как ты и сказала, у тебя нет права просто так умереть. Если «Реюнион» по всему миру восстал из-за тебя, тогда —"
+line-1235,九,——要么让所有的反抗都徒劳无功。要么……就只能成为噼啪作响的薪柴。,—Either the resistance thus far has been futile or... we will need some new tinder for our fire to crackle loud again.,— Либо все восстания окажутся напрасными. Либо... ты станешь лишь трескучим хворостом в этом пламени.
+line-1237,塔露拉,所以，你们接下来的目的地是维多利亚。,That's why your next destination is Victoria.,"Значит, ваша следующая цель — Виктория."
+line-1239,九,不止如此，塔露拉。,"It's more than that, Talulah.","Не только, Талула."
+line-1241,塔露拉,……,......,...
+line-1243,九,难道你还想留在乌萨斯？,You still want to stay in Ursus?,Неужели ты хочешь остаться в Урсусе?
+line-1245,塔露拉,"我还要找一个人。 ","I'm looking for someone. ",Мне нужно найти одного человека.
+line-1246,塔露拉,找一个我本该烧尽的人。,Someone I should've burned to ashes.,"Того, кого я должна была испепелить давным-давно."
+line-1248,九,……谁?,Who?,...Кого?
+line-1250,塔露拉,一个自诩不死的恶神。,An evil god who calls himself immortal.,"Бессмертного злого бога, как он сам себя называет."
+line-1252,九,为了什么？,Why?,Ради чего?
+line-1254,塔露拉,反抗他。,To resist him.,Чтобы дать ему отпор.
+line-1256,九,……,......,...
+line-1257,九,这个国家多么庞大？只有几个月的时间，这完全是在大海捞针。,"You know how big this country is, don't you? You have only a few months. It's like a needle in a haystack.","Эта страна огромна. У нас есть всего несколько месяцев, это всё равно что искать иголку в стоге сена."
+line-1259,塔露拉,足够了。,That's enough time.,Достаточно.
+line-1260,塔露拉,我会寻出他的。,I will find him.,Я выслежу его.
+line-1270,塔露拉,……,......,...
+line-1272,九,你忽然又这么沉默寡言。,"You've gone quiet again, all of a sudden.",Ты вдруг снова стала немногословной.
+line-1274,塔露拉,只是……想到了一些事情。,I... remembered something.,Просто... вспомнилось кое-что.
+line-1276,九,就是这里，我们到了。,Here we are. This is it.,Вот мы и на месте.
+line-1278,塔露拉,……这里……,This place...,...Здесь...
+line-1281,九,曾是整合运动的据点。,This used to be Reunion's stronghold.,Здесь когда-то была база «Реюниона».
+line-1282,九,当然，是幸存者告诉我的，我并不知道当时是怎样一幅场景……,"Of course, I only heard about it from the survivors. I have no idea what it was like back then.","Конечно, мне это рассказали выжившие, я не знаю, как всё выглядело тогда..."
+line-1283,九,那你知道吗？你还记得吗？,What about you? Do you remember?,А ты знаешь? Помнишь?
+line-1285,塔露拉,……,......,...
+line-1289,,沉默的战士停住脚步。,The silent warrior stops in her tracks.,Безмолвный воин остановился.
+line-1290,,在乌萨斯又一年冬天的一片灰白色中，废弃的据点被大雪掩埋，已经没有半点过去的痕迹。,"Amid the vast white blanket brought forth by the Ursus winter, the abandoned stronghold is almost entirely covered in snow, leaving not a trace of its former appearance.","В серо-белой дымке очередной зимы в Урсусе заброшенная база оказалась погребена под снегом, от прежнего облика не осталось и следа."
+line-1291,,就连塔露拉自己也觉得奇怪，她好像仍能看到那时的景象，能一眼看出他们曾经在哪里点起篝火。,Even Talulah finds this strange. It is as though she can see those scenes unfolding before her. She can immediately tell where the campfire used to be.,"Даже самой Талуле это казалось странным: она словно видела картины прошлого, могла с первого взгляда определить, где когда-то они разжигали костры."
+line-1292,,他们的队伍艰难地行走，一点点壮大。战士们曾围在一起清唱一支歌，用只带一点点咸味的汤温暖各自从不被填满的胃部。,"The walk was difficult, but the team was as hardened as they could have been. The soldiers once gathered here to sing together and warm their ever-starving stomachs with a soup that had only a hint of salt for taste.","Их отряд с трудом продвигался вперёд, постепенно разрастаясь. Бойцы собирались в круг и вполголоса пели песни, согревая свои вечно пустые желудки бульоном с привкусом соли."
+line-1293,,而现在，在篝火曾被点燃的那块地方，只有几个不很规整的石土碑安静伫立。,"And now, where the campfire once burned, there stands solemnly a misshapen stone slab.","А теперь на том месте, где когда-то горел костер, безмолвно высятся лишь несколько неровных надгробных камней."
+line-1295,塔露拉,那就是……,That's...,Это...
+line-1297,九,……衣冠冢。算是纪念碑。,A cenotaph. It's like a monument.,...Кенотафы. Своего рода мемориал.
+line-1298,九,是那次活下来的战士们建的。,It was built by the warriors who survived.,"Их установили те воины, что выжили в тот раз."
+line-1299,九,无论生者对你如何评判，你的未来何去何从，首先，你都该回到这里。,"No matter how the living judge you, no matter what the future holds, you must return here first.","Как бы живые ни судили тебя, куда бы ни вёл твой дальнейший путь, прежде всего ты должна была вернуться сюда."
+line-1300,九,你必须先审问你自己。,You need to question yourself.,Ты должна сначала допросить саму себя.
+line-1302,塔露拉,……,......,...
+line-1305,整合运动术师,九，前方路线确认完毕。,"Nine, we've scouted the road ahead.","Найн, маршрут впереди проверен."
+line-1306,整合运动术师,我们从西边的村子绕过去，那里有我们的协助者，有战士会在那里接应。,We'll go around the village to the west. We'll rendezvous with some fighters there.,"Мы обойдём западную деревню. Там есть те, кто нам помогает, бойцы встретят нас там."
+line-1308,九,时间不多，让大家都再加把劲，争取比预定时间更早回到据点。,We don't have time. Have everyone go on the double. We need to make it back to the stronghold sooner than planned.,"Времени мало, пусть все поднажмут. Постараемся вернуться на базу раньше намеченного срока."
+line-1310,整合运动术师,好……,Okay...,Хорошо...
+line-1312,塔露拉,……有什么事吗？,—Is something the matter?,...Что-то не так?
+line-1314,整合运动术师,……我永远不会忘记你在切尔诺伯格和我们说过的话，塔露拉。,"I will never forget what you said to us in Chernobog, Talulah.","...Я никогда не забуду слова, что ты говорила нам в Чернобоге, Талула."
+line-1315,整合运动术师,我更不会忘记你在核心城的所作所为，每一件事，每一个决定，我要你挨个解释。,"And I definitely won't forget what you did in the core city. Everything you did, every decision you made, I will have you answer for them.","И уж тем более я не забуду твои поступки в ядре города. За каждое действие, за каждое решение я требую от тебя объяснений. По порядку."
+line-1316,整合运动术师,你别想逃。,Don't even think about running away.,Даже не надейся сбежать.
+line-1322,塔露拉,……,......,...
+line-1324,九,……你也听到了，现在这里并不安全。,You heard him. You're not safe here.,"...Сама слышишь, здесь сейчас небезопасно."
+line-1325,九,我们会在前面等你，不过不能很久。,"We'll meet up with you up ahead, but you don't have much time.","Мы будем ждать тебя впереди, но недолго."
+line-1326,九,去吧。,Go.,Ступай.
+line-1327,九,去见证你曾践踏过的那些牺牲，把他们铭记在心，把他们永远刻在你的脑海里。,See for yourself the sacrifices you trampled and hold them in your heart. Etch them into your brain forever.,"Взгляни на тех, чьими жертвами ты когда-то пренебрегла. Запомни их, пусть они навечно врежутся в твою память."
+line-1328,九,……记住。,Remember them.,...Помни.
+line-1334,塔露拉,……,......,...
+line-1339,,德拉克无言迈开脚步，只有她一人的脚印留在洁白的雪地上，踩压厚重的积雪，露出承载一人重量的泥土的痕迹。,"The Draco begins to walk in silence. Her footsteps alone remain on the white snowfields. With each step on the thick snow, the mud below is imprinted with her weight.","Драко молча двинулась вперёд. На белом снегу оставались только её следы; под тяжестью шагов снег проминался, обнажая землю."
+line-1340,,塔露拉的背脊绷得很直。,Talulah walks tall with her back perfectly straight.,Спина Талулы была напряжена и выпрямлена.
+line-1341,,除去那年冬天，被背上逐渐消失的温度压得喘不过气的那个时候以外，她还从不曾弯下腰。,"Aside from that one winter, when the slowly fading warmth behind her drained her of breath, she has never once slouched her back.","За исключением той зимы, когда угасающее тепло на её спине едва не заставило её задохнуться, она никогда больше не склоняла головы."
+line-1342,,粗糙的衣冠冢上，刻印姓名的部分似乎时常被人擦拭，已显得有些模糊。,The names etched on the crude cenotaph appear to have been scrubbed often; they are starting to fade.,"На грубых памятниках имена, кажется, часто протирали — они выглядели немного стёртыми."
+line-1350,塔露拉,……,......,...
+line-1351,塔露拉,…………,............,............
+line-1352,,时间像是只过了一瞬，又像已经很久很久，久到一切似乎就此静止，久到随雪花落入泥土的情绪只有大地能够承载。,"It feels as though only a brief moment has passed. At the same time, it also feels like an eternity, to the point that the world itself falls still, and that the weight of emotions falling on the mud amidst the snow can only be borne by the land.","Время словно замерло на миг, а может, прошло уже целая вечность. Всё вокруг стихло, и лишь сама земля могла вынести ту скорбь, что падала на неё вместе со снежинками."
+line-1353,,从远处看，战士像是化为一座沉默的雕像，又似乎在风雪中长成了一棵树。,"From afar, the warrior appears as both a solemn statue and a tree growing in the snowstorm.","Издалека воин казалась застывшей безмолвной статуей или деревом, выросшим посреди метели."
+line-1354,,她的根须深深扎入土壤，她的身影只露出雪面短短一截。在不可见的土壤之下，从德拉克身上流泻的庞大根基不断蔓延，缓缓沉淀。,"Her roots must dig deep into the earth. Her figure can only expose itself above the snow ever so slightly. Beneath the hidden soil, the massive roots trickling out of the Draco continue to expand and steadily take hold.","Её корни уходили глубоко в почву, а над снегом виднелась лишь малая часть. Под невидимым слоем земли от Драко расходились огромные, крепкие корни, медленно оседая в глубине."
+line-1355,,风雪似乎要吞没一切声音。就连沉默在此刻也一并被雪原吞没。,"At this moment, even the silence itself is engulfed by the snowstorm.","Метель, казалось, поглощала все звуки. Даже само молчание в этот миг было поглощено снежной равниной."
+line-1356,,战士扬起脸，飘落的雪花落在她的面盘上，还未化开，就已干涸。,"The warrior raises her head. A snowflake flutters downward onto her cheek, dried up before it can dissolve.","Воительница подняла лицо. Падающие снежинки касались её кожи и, не успев растаять, высыхали."
+line-1357,,雪其实早已经停了。北风竟破天荒地显露出些许温柔，云翳散尽，暖阳照拂。,"The snow ended long ago, in actuality. It's hard to believe that the northern wind granted her this bit of kindness, with the clouds dispersed and the sun shining down brightly.","Снег на самом деле уже давно прекратился. Северный ветер вдруг проявил редкую нежность, тучи рассеялись, и выглянуло тёплое солнце."
+line-1358,,今天是冻原冬天里难得的好天气。,The weather is fine today. A rare occurrence here in the tundra.,Для зимней тундры сегодня выдался на редкость погожий день.
+line-1359,塔露拉,……,......,...
+line-1360,塔露拉,真冷啊。,It's cold.,Как же холодно.
+line-1361,塔露拉,我好像得一个人重新适应这温度了。,Looks like I need to get used to this weather all by myself again.,"Похоже, мне придётся заново привыкать к этой температуре в одиночку."
+line-1362,塔露拉,抱歉，不能耽搁太久，我该继续走了，我得去给很多人一个交代。,"Sorry, I can't take too long. I need to go now. There are many to whom I owe an explanation.","Простите, я не могу задерживаться долго. Мне пора идти. Я должна дать ответ слишком многим людям."
+line-1363,塔露拉,总有一天，我们都会跨过这场风雪，走到自己该到的终点……,"One day, we will make it through this snowstorm and reach that end we must ultimately reach...",Однажды мы все пройдём сквозь эту метель и доберёмся до своего финала...
+line-1371,塔露拉,但是现在，看来这里还差一把能让它醒来的火。,"But, right now, it looks like this place needs a flame to awaken it.","Но сейчас кажется, что этому краю не хватает огня, способного его пробудить."
+line-1372,塔露拉,——我得去将它点起来。,—I'd better hurry and start a fire.,— И я должна его зажечь.
