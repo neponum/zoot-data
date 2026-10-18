@@ -1,0 +1,145 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,neksi0762
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,act47side
+__chapter__,,Chapter Name,activities/act47side/level_act47side_07_beg,停机坪
+,,,,
+char-1,特工A,特工A,Agent A,Агент А
+char-2,特工B,特工B,Agent B,Агент Б
+char-3,通讯音,通讯音,Communicator,Голос из коммуникатора
+char-4,费尔南,费尔南,Ferne,Ферне
+char-5,雅斯彭,雅斯彭,Aspen,Аспен
+char-6,急切的公司代表,急切的公司代表,Anxious Company Representative,Взволнованный представитель компании
+char-7,好奇的体验员,好奇的体验员,Curious Tester,Любопытный тестер
+char-8,斯凯,斯凯,Sky Jagger,Скай Джаггер
+char-9,协会成员,协会成员,Council Member,Член совета
+char-10,特工,特工,Agent,Агент
+char-11,锡人,锡人,Tin Man,Оловянный Человек
+char-12,娜斯提,娜斯提,Nasti,Насти
+char-13,？？？,？？？,???,???
+char-14,高登,高登,Gordon,Гордон
+char-15,园区广播,园区广播,Park Broadcast,Радио парка
+char-16,太空鳞兽,太空鳞兽,Space Finbeast,Космический зверь
+,,,,
+line-13,特工A,第三浮空平台第二次巡逻，目标舱室就位，暂未发现可疑人员。,"Platform 3 secondary patrol complete. Target pod in position, no suspicious individuals detected.","Второй обход третьей парящей платформы, целевой отсек на месте, подозрительных лиц пока не обнаружено."
+line-14,特工A,除了我们，这个小型浮空平台已经没有人了，你那边呢？,There's no one else left on this little platform but us. What's the sitch on your end?,"Кроме нас, на этой небольшой парящей платформе никого нет. А у тебя как?"
+line-16,特工B,四个舱室的引擎系统都进行了断点测试，就等园区开进城际网络的覆盖范围。,"The four pods' engines have undergone breakpoint testing, and the park's about to enter the intercity net's range.","Двигательные системы четырех отсеков успешно прошли стресс-тест, ждём, когда парк войдёт в зону покрытия межгородской сети."
+line-18,特工A,记得对外统一口径，将人员聚集到地面是暂时的，直播的展品概览环节结束后就能返回各自的展区。,"Remember the official line to the public: The gathering is only temporary, and they can all return to their respective exhibit areas once the broadcast's intro segment is done.","Не забудь согласовать общую легенду для всех: сбор персонала на земле — мера временная, и они смогут вернуться в свои зоны после окончания демонстрации экспонатов в прямом эфире."
+line-20,特工B,明白。,Understood.,Понял.
+line-26,特工B,你确定没人？锡人长官强调过，必须确认园区人员全部安全撤离后，才能发送行动信号。,You sure everyone's gone on your end? The Tin Man stressed we had to make sure all park personnel are safely evacuated before we send the operation signal.,"Ты уверен, что там никого нет? Офицер Тин Мэн подчеркивал: подавать сигнал к началу операции можно только после того, как мы убедимся, что весь персонал парка безопасно эвакуирован."
+line-28,特工A,主干通路一小时前已经封死，辅助平台的应急跳台全部关闭，索道站的缆车昨晚就改成了单向通行，没人上得来。,"The main road was sealed off an hour ago, the support platform's emergency jump pads are all shut, and the cable car routes were all diverted to only go in one direction last night, so no one's been able to get in.","Основные проходы заблокировали час назад, аварийные выходы вспомогательных платформ закрыты, канатную дорогу ещё вчера перевели в режим одностороннего движения. Сюда никто не проберется."
+line-30,特工B,保险起见……,Better play it safe...,Для верности...
+line-37,通讯音,……索道站需要支援，莱茵的那个助理研究员带着一群体验员把通行枢纽堵住了，很难缠……,"Ropeway station needs backup. That Rhine research assistant is blocking the access hub with a group of testers, and it's hard to get around them...","...На станции канатной дороги требуется подкрепление. Тот ассистент из Рейна привел толпу испытателей и заблокировал пересадочный узел, они ведут себя крайне настырно..."
+line-39,特工A,啧，先去支援。计划的时间节点非常重要，一定要赶在直播前完成所有布置。,"Gah, go back them up. It's crucial we time this right, every preparatory step has to be complete before the broadcast begins.","Тьфу, иди помоги им. Временные рамки плана очень важны, мы обязаны завершить всю подготовку до начала трансляции."
+line-41,特工B,那刚刚的动静……,What was that...?,Что это...?
+line-43,特工A,喏，你看。,"Look, over here.",Посмотри на это.
+line-45,特工B,汽水瓶盖？,A soda bottle cap?,Крышка от газировки?
+line-47,特工A,估计是浮空舱不稳，瓶盖从桌子上滚下来了。应该没什么事，走吧。,"Probably rolled off the table from the floating pod shaking. It's probably nothing, let's go.","Видимо, парящий отсек слегка тряхнуло, и крышка скатилась со стола. Ничего серьезного, пошли."
+line-62,费尔南,呼……雅、雅斯彭先生……,Phew... M-Mr. Aspen...,Фух... Ми-мистер Аспен...
+line-65,费尔南,你到底对那只气球有什么执念啊！沙发里就那点地方，你还要护着气球，我都要被挤死啦！,"What on earth is your obsession with that balloon?! The couch is small enough without you hanging onto that, I almost got squished flat!","Да какая у тебя зацикленность на этом шарике! На диване и так места мало, а ты ещё и шарик этот прикрываешь, я сейчас тут совсем задохнусь!"
+line-67,雅斯彭,不好意思，费尔南小姐……但我就是为了这点执念，才求你带我来这儿的……,"I'm sorry, Miss Barn... but I begged you to take me here just for this balloon...","Прошу прощения, мисс Барн... Но именно ради этой цели я и просил вас привезти меня сюда..."
+line-69,费尔南,从他们眼皮子底下开溜，又把你带过来，可是费了我好大的力气！,You have no idea how much effort it took slipping right out from under their noses and then getting you here!,Мне стоило огромных усилий вытащить тебя прямо из-под их носа и привезти сюда!
+line-71,雅斯彭,实在不好意思……能帮我递一下柜子里的工具箱吗？撤离的通知来得太突然，我还没来得及确认浮空舱不会在直播里出现任何问题……,"Really sorry about that... could you hand me the toolbox from the closet? The evacuation announcement came so suddenly, I didn't have the time to make sure the floating pods would be alright during the stream...","Искренне извиняюсь... Вы не могли бы подать мне ящик с инструментами из шкафа? Уведомление об эвакуации пришло так внезапно, я ещё не успел убедиться, что с парящим отсеком не возникнет проблем во время прямого эфира..."
+line-73,费尔南,你就那么想让“幸运瘤兽”在展会上亮相？,You want the Lucky Cystybeast on display at the expo that badly?,"Ты так сильно хочешь, чтобы «Удачливый опухолевый зверь» засветился на выставке?"
+line-74,费尔南,不顾听证会公示的结果，跟一个有多项前科的导游临时签约，还帮她从园区警卫的监视下逃走，只为了让她带你回到封锁的浮空层……,"Ignoring a public hearing, signing a temp contract with a tour guide with multiple charges under her belt, and helping her escape park security just so you can have her bring you back to a sealed-off levitation layer...","Игнорируешь результаты слушаний, нанимаешь гида с кучей судимостей и помогаешь ей сбежать из-под надзора охраны парка — и всё только для того, чтобы она вернула тебя в заблокированный парящий сектор..."
+line-75,费尔南,你们这帮人啊，对天空真的是太狂热了！,You guys! All nuts for the sky!,"Вы, ребята, просто одержимы этим небом!"
+line-77,雅斯彭,我背负的债款可是天文数字。只有“幸运瘤兽”在展会上亮相，拉来投资，我才能有一线生机。,I'm drowning in debt here. The only way to clear it is to have the Lucky Cystybeast at the show and draw in investors.,"На мне висит астрономический долг. Только если «Удачливый опухолевый зверь» появится на выставке и привлечет инвесторов, у меня появится шанс на спасение."
+line-79,费尔南,知道知道，“天空会给所有向往未来的人一个答案”嘛，“螺旋桨天堂”的宣传标语，就连贫民窟的垃圾桶盖上都能看到。,"Yeah, yeah. 'The sky will answer every future seeker', and all that jazz. Propeller Paradise's slogan is plastered all over the place, trashcan lids in the slums included.","Знаю, знаю, «небо даст ответ всем, кто стремится в будущее» — этот слоган «Рая пропеллеров» можно увидеть даже на мусорных баках в трущобах."
+line-81,雅斯彭,就算是盲信，我也走到了这一步，绝不会现在放手。,"Even if it's blind faith, I'm not going to give up now after coming this far.","Даже если это слепая вера, я зашел слишком далеко, чтобы отступать сейчас."
+line-87,雅斯彭,呼……元件没有任何问题，可以撑到展会结束。走吧。,Phew... nothing wrong with the components. They'll last till the show ends. Let's go.,"Фух... С элементами все в порядке, до конца выставки продержатся. Идём."
+line-94,雅斯彭,门怎么锁上了？,Why's the door locked?,Почему дверь заперта?
+line-96,费尔南,等等，你有没有听到什么声音？,"Wait, did you hear that?","Подожди, ты слышишь?"
+line-102,雅斯彭,听到了……难道我的产品真出了什么问题？,I did... don't tell me something's really up with my product?,Слышу... Неужели с моим продуктом действительно что-то не так?
+line-104,费尔南,不，不是从展示柜传来的，是从——,"No, I don't mean the exhibit. From—","Нет, звук доносится не из витрины, он идёт..."
+line-106,费尔南,我们脚下？,Under our feet?,У нас из-под ног?
+line-118,急切的公司代表,啧，前面怎么一动不动啊？再拖下去，直播都要开始了！,"Grr, why isn't the line moving? Drag this out any longer and the broadcast is gonna start!","Тьфу, почему впереди все замерло? Если будем так тянуть, трансляция начнется!"
+line-119,好奇的体验员,别着急，梅兰德的人好像过来处理了……有个人被他们围起来了，看制服样式像是莱茵的研究员？,"Calm down, Maylander guys are on their way to handle it... they've got someone surrounded. Seems like a Rhine Lab researcher, judging by the uniform?","Не спеши, кажется, люди из Мейландер подошли разобраться... Там кого-то окружили, судя по форме, похоже на исследователя из Рейна?"
+line-128,斯凯,请让我过去！装置树的硬盘和主板还没拆——,Let me through! The tree's hard drive and motherboard haven't been removed yet—,Пропустите меня! Жёсткий диск и материнская плата устройства-древа ещё не извлечены!
+line-130,协会成员,得寸进尺！,Don't push your luck!,Не наглей!
+line-131,协会成员,让装置树参与展会已经是各方能为莱茵做出的最大让步，而且都大发慈悲允许你们拷走数据用于后续研究了，你还想提要求？,"Allowing the Rhine tree at the expo has been our biggest concession to Rhine Lab, and we've even been so generous as to let you copy the data for future research. What more do you want?","То, что мы позволили устройству-древу участвовать в выставке — это максимальная уступка, на которую пошли все стороны ради Рейна, и мы ещё проявили милосердие, разрешив скопировать данные для ваших исследований, а ты ещё чего-то требуешь?"
+line-133,斯凯,只要五分钟，我保证不会做任何手脚！管理局的科学顾问不是已经出具了报告吗？装置树并不具备任何危险性啊！,I just need five minutes! I promise I won't pull any tricks either! Hasn't the ATAO's Science Consultant issued a report on the tree? It's completely harmless!,"Мне нужно всего пять минут, я обещаю, что ничего не испорчу! Разве научный консультант Администрации не подготовил отчет? Устройство-древо совершенно безопасно!"
+line-135,协会成员,不行。为了保证展品最终呈现的效果，浮空结构层的所有人员都要前往地面，等开幕致辞结束之后才可以返回。,"No. All levitation layer personnel are to return to the ground to ensure the exhibits are finalized, and only return after the opening speech.","Нельзя. Чтобы обеспечить презентабельность экспонатов, весь персонал парящего уровня должен отправиться на землю и вернуться только после завершения вступительной речи."
+line-136,协会成员,而且，现在上行缆车全部停运，装置树平台又在园区最高点，你过不去。,"Besides, the uplink cable cars aren't operating now, so there's no way you can reach the Rhine tree. It's at the highest point in the park.","К тому же, все канатные дороги остановлены, а платформа с устройством-древом находится в самой высокой точке парка, тебе туда не пройти."
+line-138,斯凯,……,......,...
+line-140,斯凯,在看到核心代码之前，我并不知道娜斯提主任为这项实验付出了那么多心血，现在想来，她从来没有放弃过对天空的梦想……,"I didn't realize how much effort Director Lunorey put into this experiment until I saw the core code, and now I remember, how she never abandoned her dreams for the sky...","Я не знал, что директор Насти вложила столько сил в этот эксперимент, пока не увидел основной код. Теперь я понимаю, она никогда не отказывалась от мечты о небе..."
+line-141,斯凯,哪怕只能节省一点点走回头路的时间，我也想多帮她一些……我必须过去！,"Even if it only saves a little backtracking time later, I want to help her somehow... you have to let me through!","Даже если это сэкономит лишь крупицу времени, я хочу помочь ей... Я обязан туда попасть!"
+line-143,协会成员,斯凯先生，你再胡搅蛮缠，我们只能动用特殊手段了。,"Mr. Jagger, one more move and we'll have to resort to more special methods.","Мистер Джаггер, если продолжите упорствовать, нам придется применить особые меры."
+line-152,斯凯,等等……树好像不太对劲。,Wait... the tree looks strange.,Подождите... С деревом что-то не так.
+line-155,协会成员,十分钟前你就用过这个说辞了。,You used the same excuse ten minutes ago.,Ты использовал этот довод ещё десять минут назад.
+line-160,斯凯,不不，真的不对！你自己看啊！,"No, no! It really looks weird! Look for yourself!","Нет, нет, правда! Посмотрите сами!"
+line-168,,展会即将开幕，哥伦比亚的阳光也灿烂得应景。顺着斯凯手指的方向，众人看到了那棵熠熠生辉的树。,"The expo is about to open, with the Columbian sun shining brightly. The crowd follows Sky's finger, and spots a dazzling tree.","Выставка вот-вот откроется, и солнце Колумбии светит как нельзя кстати. Глядя в направлении, куда указывал Скай, все увидели это сияющее дерево."
+line-169,,特殊材料包裹着的枝条本应如同陷进松脂里的小虫，保持绝对静滞。然而此刻，在阳光之下，破碎的枝条似乎泛出了……绿意。,"The branches wrapped in special material should have been completely still, like tiny insects trapped in resin. However, right here and now under the sunlight, the broken branches seem to glow... green.","Ветки, покрытые специальным материалом, должны были оставаться абсолютно неподвижными, словно насекомые, застрявшие в живице. Однако сейчас, под лучами солнца, на разбитых ветвях, казалось, проступила... зелень."
+line-177,斯凯,有机材料可不会进行光合作用……,Organic materials don't photosynthesize...,Органические материалы не занимаются фотосинтезом...
+line-180,协会成员,园区手册上写得很清楚，展品的外观在高空环境下发生变化是常事。,The park handbook states clearly it is common for exhibits to transform in high-altitude environments.,В руководстве парка четко сказано: изменение внешнего вида экспонатов в условиях больших высот — обычное дело.
+line-185,斯凯,莱茵的东西不会。,Rhine stuff doesn't do that.,Изделия Рейна так себя не ведут.
+line-188,协会成员,这不能成为你上去的借口。,And it doesn't give you an excuse to go back up there.,Это не дает тебе права подниматься наверх.
+line-193,斯凯,上去也解决不了问题，我根本不知道它到底是什么……,"Going up there won't solve the problem, I have no idea what exactly's going on...","Подняться — не значит решить проблему, я понятия не имею, что это вообще такое..."
+line-194,斯凯,但有一个人一定知道。,But I know who does.,"Но есть один человек, который точно знает."
+line-201,协会成员,欸，怎么突然就愿意走了？,"Huh? He just left, that easily?","Эй, с чего это ты вдруг решил уйти?"
+line-210,通讯音,……浮空结构层，十一个主平台、二十个辅助平台均已巡查完毕……,"...Levitation layer, eleven main platforms, and twenty support platforms have been inspected...",...Парящий уровень проверен: одиннадцать основных платформ и двадцать вспомогательных...
+line-211,通讯音,……九个小型浮空舱的发动机内已安装干扰器和备用引爆器，启动后这些舱室将依次坠毁……,"...Jammers and backup detonators have been installed in nine smaller levitation pods, which will crash one-by-one when activated...","...В двигатели девяти малых парящих отсеков установлены помехоподавители и запасные детонаторы, после запуска эти отсеки будут последовательно сброшены..."
+line-212,通讯音,……人员疏散完毕，侦察员根据风向和风力对坠落曲线进行了反复估算，已确认碎片不会影响到人员聚集的广场……,"...Personnel evacuation is complete. Scouts have done multiple calculations of the fallout curve based on current wind direction and force, and have confirmed falling debris will not reach the square serving as the evacuation spot...","...Эвакуация завершена, разведчик провел повторный расчет траектории падения с учетом направления и силы ветра, подтверждено, что обломки не затронут площадь, где собрались люди..."
+line-216,特工,各区域计划推进顺利，古斯塔夫先生从云中餐厅的驾驶室发来提醒，“螺旋桨天堂”将于五分钟后进入特区城际网络覆盖范围。,All areas progressing well. Gustave sends word from the Cloud restaurant's cockpit that Propeller Paradise will be within D.C. intercity net range in five minutes.,"План по секторам выполняется успешно, мистер Густав прислал напоминание из кабины «Ресторана в облаках»: «Рай пропеллеров» войдёт в зону действия межгородской сети через пять минут."
+line-217,特工,长官，请指示。,"Your orders, sir?","Ваши приказы, сэр?."
+line-222,锡人,有人见到二组的那两个新人了吗？,Anyone seen those two newbies from Bravo?,Кто-нибудь видел тех двух новичков из «Браво»?
+line-224,特工,负责转移那名女妖的？定位显示，他们现在仍在三号主平台，那里不在事先规划的动线范围内，需要派人去看看吗？,The ones responsible for that Banshee? Positioning shows they're still on Platform 3. That's not in the plan's operation range. Should we send someone to check it out?,"Тех, что отвечали за перевозку той Банши? Геолокация показывает, что они все ещё на третьей основной платформе. Это не входит в заранее оговоренный маршрут. Нужно отправить кого-то проверить?"
+line-226,锡人,看来他们的任务被“接手”了。,Seems like their mission's been 'taken over'.,"Похоже, их задачу «перехватили»."
+line-227,锡人,三号平台离引爆目标很远，不用担心，我之后会去解决这个问题。,"Platform 3 is far from the detonation target, so don't worry about that. I'll handle it later.","Третья платформа далеко от цели взрыва, не волнуйтесь, я сам с этим разберусь."
+line-228,锡人,各组，对齐时间，二阶段行动开始。,"All teams, sync chronos. Phase two begins now.","Всем группам, синхронизировать время, начинаем второй этап операции."
+line-238,,天空被监狱窗口裁成一个狭小的方块。,The jail cell window crops the sky into a tiny square.,"Небо, обрезанное тюремным окном, превратилось в тесный квадрат."
+line-239,,娜斯提研究的装置，莱茵最核心的项目，那棵普通却神秘的“树”，此刻被奇装异服的人影和飞舞的气球遮掩，不见形迹。,"The ordinary yet mysterious 'tree', centerpiece of Nasti's research, and Rhine Lab's core project, is now hidden from her view by strangely clothed figures and floating balloons.","Устройство, созданное Насти — ключевой проект Рейна, это обычное, но загадочное «дерево» — сейчас скрыто за фигурами людей в странных одеждах и летающими шарами."
+line-240,,几分钟后，展会直播即将开始，而一切与娜斯提无关。她身上的骨笔和机械装置已被尽数收缴，她只需扮演一名无法反抗的罪人。,"In a few minutes, the expo broadcast will begin, without Nasti's involvement. Her bone pen and mechanical devices were seized earlier, so all she needs to do now is to play the role of a helpless sinner.","Через несколько минут начнется трансляция выставки, и ничто из этого не касается Насти. Её костяное перо и механические устройства были изъяты, ей остается лишь играть роль преступницы, неспособной сопротивляться."
+line-241,,缪尔赛思要是在这里，说不定会变出八个水分身骂她傻。不过娜斯提并不后悔自己的决定，她只是挂念一个人。,"If Muelsyse were here, she'd probably summon eight water clones to scold her for being silly. But Nasti does not regret her decision, though there is one woman on her mind.","Будь здесь Мьюлсайз, она бы, наверное, создала восемь водяных клонов, чтобы отчитать её за глупость. Однако Насти не жалела о своем решении, она просто беспокоилась об одном человеке."
+line-242,,拂哀菈离开河谷的举动，始终令她不安，如果有机会……,Væla leaving the Convallis had always left her uneasy. If the chance came...,"То, что Вэла покинула долину, не давало ей покоя. Если бы представилась возможность..."
+line-248,娜斯提,谁？,Who's that?,Кто здесь?
+line-254,斯凯,娜斯提主任，你必须跟我去装置树的平台！,"Director Lunorey, you have to follow me to the tree platform!","Директор Насти, вы должны пойти со мной на платформу устройства-древа!"
+line-256,娜斯提,你应该保管好装置的数据跟核心代码，而不是来这里。,You're supposed to be keeping the device data and core code safe. What are you doing here?,"Ты должен охранять данные устройства и основной код, а не приходить сюда."
+line-258,斯凯,可那棵“树”正在“生长”！,But the 'tree' is <i>growing</i> now!,Но «дерево»... оно <i>растёт</i>!
+line-260,娜斯提,……“生长”？不可能。,...'Growing'? That's impossible.,"...""Растет""? Невозможно."
+line-262,斯凯,看来那不是装置的常态反应……如果影响到浮空模块，它一定会伤到地面上的人。,"So that's not supposed to happen... If it affects the levitation module, it'll definitely be dangerous to anyone on the ground.","Похоже, это нештатная реакция устройства... Если оно повлияет на парящий модуль, то неизбежно навредит людям на земле."
+line-264,娜斯提,浮空模块是绝对独立的，备用电源至少能提供五天的动力，但你所见的异常……只有进入“树”的内部才能排查出原因。,"The levitation module runs independently, with a backup power supply that can last for five days. But the abnormality you mentioned... the only way to find out why it's happening is to go inside the 'tree'.","Парящий модуль абсолютно автономен, резервного питания хватит как минимум на пять дней работы. Но то, что ты увидел... причины можно выяснить, только проникнув внутрь «дерева»."
+line-266,斯凯,快跟我走吧，主任。,"Come with me, Director.","Скорее идемте, директор."
+line-267,斯凯,监控已经被人设置了画面延迟，至少能撑二十分钟，而且不知道为什么，牢房的智能锁也被打开了，趁现在——,"The security cams have been rigged with a delayed feed that should buy us at least twenty minutes, and I'm not sure why, but the cell's smart locks are unlocked, so now's—","На мониторах настроена задержка изображения, хватит минимум на двадцать минут. И ещё, не знаю почему, но интеллектуальный замок тюремной камеры был открыт. Пользуясь моментом —"
+line-269,？？？,那是因为“螺旋桨天堂”的总长官提前帮你开通了权限。,That's because the chief executive of 'Propeller Paradise' opened them for you.,"Это потому, что директор «Рая пропеллеров» заранее предоставил вам доступ."
+line-276,斯凯,高登？,Gordon?,Гордон?
+line-296,斯凯,你……身上都是什么？手工制作的高空面罩、改装螺旋桨，还有二手的隔热太空服？,"What's... all that on you? A DIY high-altitude face shield, modified propellers, and a second-hand insulated spacesuit?","На тебе... что это на тебе? Самодельная маска для высотных работ, модифицированный пропеллер и подержанный утеплённый скафанд?"
+line-300,斯凯,你洗劫了园区的废品回收站？,Did you loot them from the park's scrap and recycle plant?,Ты ограбил свалку парка?
+line-302,高登,……,......,...
+line-304,斯凯,听证会上你颠倒黑白的证词可还在园区公示栏里挂着，现在主动帮我们越狱……总不能是你良心发现了吧？,"Your distorted testimony at the hearing is still up on the park's bulletin board, but now you're helping us escape...? Don't tell me you've had a sudden attack of conscience?","Твои лживые показания на слушаниях все ещё висят на доске объявлений парка, а теперь ты сам помогаешь нам сбежать... Неужели у тебя проснулась совесть?"
+line-306,高登,娜斯提，被收缴的骨笔和机械装置我都带来了。听证会的事，抱歉。,"Nasti, I got your bone pen and devices here. Sorry about the hearing.","Насти, я принес изъятые костяное перо и механические устройства. Прости за то, что было на слушаниях."
+line-307,高登,比起表演那人准备好的稿子，我宁愿跟你一起站在被告席上——好歹那些被收缴的装置确实是我的货物，我该为此承担罪责。,"I'd rather stand in the defendant's dock with you than recite that prepared speech—after all, the confiscated devices were my goods anyways, so I'll take the blame for that.","Лучше уж стоять с тобой на скамье подсудимых, чем зачитывать сценарий, подготовленный теми людьми — в конце концов, изъятые устройства действительно были моим грузом, и я должен понести за это наказание."
+line-309,斯凯,……你真的是高登·谭农？,...Who are you and what have you done with Gordon Tannen?,...Кто ты и что ты сделал с Гордоном Танненом?
+line-316,娜斯提,发生了什么？,What happened?,Что происходит?
+line-321,园区广播,特区市民们，收看展会直播的观众们，非常荣幸能为大家介绍即将在哥伦比亚历史上留下厚重一页的实验园区——“螺旋桨天堂”！,"My dear citizens of D.C., and those watching this live broadcast, it is my honor to introduce Propeller Paradise, an experimental park that is sure to leave its mark on Columbian history!","Жители столичного округа, зрители трансляции выставки, для нас большая честь представить вам экспериментальный парк, который впишет важную страницу в историю Колумбии — «Рай пропеллеров»!"
+line-323,高登,我们的时间不多了。,We don't have much time.,У нас мало времени.
+line-324,高登,娜斯提，你跟古斯塔夫做过交易，应当不会怀疑我接下来要说的秘密。,"Nasti, you've done deals with Gustave. I'm sure you won't doubt the intel I'm about to hand over.","Насти, вы заключили сделку с Густавом, так что, полагаю, не будете сомневаться в секрете, который я сейчас раскрою."
+line-326,娜斯提,你的老上司在跟梅兰德计划着什么，对吗？,"Your old boss is planning something with Maylander, correct?","Твой старый начальник что-то затевает вместе с Мейландер, верно?"
+line-328,高登,你比我想象的还要敏锐。,You're even sharper than I thought.,"Вы проницательнее, чем я думал."
+line-330,娜斯提,还有三十分钟就要致辞的园区总长官出现在这里，就是实证。,Seeing the park's chief executive here when he's supposed to be making a speech in half an hour is proof enough.,"Твое присутствие здесь, когда до начала речи остается тридцать минут, — лучшее доказательство."
+line-332,园区广播,市民朋友们，请你们望向窗外的天空。再动人的宣传词也比不上亲眼所见，云层之下的未来景致正在等待你们瞻望！,"Friends, look out your windows, up at the sky. No amount of marketing bluster can compare to what you'll see with your own eyes, where the future among the clouds is waiting for you!","Друзья, взгляните на небо. Ни один рекламный слоган не сравнится с увиденным собственными глазами — будущее под облаками ждёт вас!"
+line-334,高登,他们想用一场事故终止展会，断送“螺旋桨天堂”的未来，但我并不清楚他们的具体计划。,"They want to can the expo with an accident that'll kill the future of Propeller Paradise, though I've no idea exactly what their plan is.","Они хотят спровоцировать аварию, чтобы закрыть выставку и уничтожить будущее «Рая пропеллеров», но я не знаю конкретных деталей их плана."
+line-336,娜斯提,如果梅兰德参与其中，他们动手的速度会很快。,"If Maylander's involved, they'll move fast.","Если в этом замешан Мейландер, они будут действовать быстро."
+line-343,斯凯,什么声音！,What was that?,Что это было?
+line-345,园区广播,天，是我眼花了吗？浮空结构层有什么东西正在下坠——那是“幸运瘤兽”的浮空舱？！,"God, am I seeing things? Something's falling from the levitation layer—Is that the Lucky Cystybeast's floating pod?!","Боже, мне показалось? Что-то падает с парящего уровня — это что, парящий отсек «Удачливого опухолевого зверя»?!"
+line-346,园区广播,不，不止……三个、四个……这是开幕仪式的一环吗？串词里怎么没写？要是真砸下来了——,"No, there's more! Three... four... Is this part of the opening ceremony? They didn't mention this in the script! If they really come crashing down—","Нет, не только... три, четыре... это часть программы открытия? В сценарии этого не было! Если они упадут —"
+line-347,园区广播,等等！舱室好像停止坠落了？仿佛有什么牢牢拉住了它们……,Wait! The pods stopped falling? As if something's gripping them firmly...,Подождите! Отсеки перестали падать? Будто что-то крепко их удерживает...
+line-348,园区广播,啊，负责人你说什么？哦、哦，看来各家科技公司都准备了很多惊喜，连我也险些被骗了！,"Huh? What was that? Oh, oh! It seems the tech companies have prepared a surprise that even got me!","А? Что это было? Ой-ой! Похоже, технологические компании подготовили сюрприз, который застал врасплох даже меня!"
+line-349,园区广播,不需要任何学术论文和数据例证，屏幕前的观众们都亲眼看到了“螺旋桨天堂”在浮空领域的突破，而这仅仅是展会的开始！,"We have just witnessed Propeller Paradise's breakthrough in the field of levitation, with no need for papers or data, and this is only just the beginning!","Больше не нужны научные работы и примеры данных, зрители перед экранами сами увидели прорыв «Рая пропеллеров» в сфере парения, а это только начало выставки!"
+line-351,斯凯,不可能，哪怕是在研项目中，也没有一款急停模块可以做到这种程度……,"No way, there's no emergency stop module—even in ongoing projects—that could've done that...","Невозможно, даже в существующих проектах ни один модуль экстренной остановки не способен на такое..."
+line-353,娜斯提,斯凯，你的实地测算比较精准，下坠的浮空舱本来应该落到哪里？,"Sky, your field measurements are more precise. Where were the falling pods supposed to land?","Скай, твои расчеты точны: куда должны были упасть падающие отсеки?"
+line-355,斯凯,凭肉眼估算，浮空舱坠落时大概率会砸毁二号主平台，把连接上下层的主通道堵死——,"From visual estimates, they would have probably crashed into Platform 2, blocking the connecting lower layer tunnel—","Судя по оценке на глаз, отсеки с высокой вероятностью обрушились бы на вторую основную платформу, заблокировав главный проход между верхним и нижним уровнями —"
+line-356,斯凯,那是通往装置树平台的唯一路径。,That's the only path we can take to the tree.,Это единственный путь к платформе устройства-древа.
+line-358,娜斯提,……,......,...
+line-360,娜斯提,高登，我接受你刚刚的道歉，但我无暇参与你的计划。,"Gordon, I accept your apology, but I have no time for your plans.","Гордон, я принимаю твои извинения, но у меня нет времени участвовать в твоем плане."
+line-362,高登,刚刚发生的奇迹绝不是一时好运，它或许与你以及你的发明有关？,That miracle was no stroke of luck. Might have something to do with you and your invention?,"Только что произошедшее чудо — явно не удача. Возможно, это связано с вами и вашим изобретением?"
+line-364,娜斯提,这是威胁？,Is that a threat?,Это угроза?
+line-366,高登,这是我对所有“违规”事物的直觉性判断。,Just my intuitive judgment on all rule-breaking.,Это моя интуитивная оценка всех «нерегламентированных» вещей.
+line-367,高登,对付古斯塔夫这种小事根本用不着你帮忙，但我需要一个能在尘埃落定之后保住整个“螺旋桨天堂”的筹码。,"I don't need your help with Gustave, but I do need a bargaining chip to make sure Propeller Paradise stays afloat when everything's done and dusted.","Ваша помощь в борьбе с Густавом мне не нужна, но мне нужен козырь, чтобы сохранить весь «Рай пропеллеров» после того, как все закончится."
+line-369,娜斯提,我的装置树……,So my tree...,Значит моё дерево...
+line-371,高登,让你去处理只有你知道的事，就是我计划的一部分。,Letting you handle something only you know how to handle is part of my plan.,"Позволить вам заняться тем, что знаете только вы — часть моего плана."
+line-373,娜斯提,我明白了，莱茵的人会配合你。,Got it. Rhine Lab staff will cooperate with you.,Я поняла. Рейн будет сотрудничать с тобой.
+line-374,娜斯提,但是高登，无论你打算做什么，一旦有危险立刻向装置树靠拢，我会接应你。,"However. Whatever it is you're planning to do, go to the tree at the first sign of danger and I'll come get you.","Но Гордон, что бы ты ни задумал, если возникнет опасность, немедленно направляйся к устройству-древу, я тебя прикрою."
+line-381,高登,……,......,...
+line-383,高登,东西都准备好了吗，零五四？,"Everything ready, Five-Four?","Все готово, Пять-четыре?"
+line-385,太空鳞兽,准备好了。,Preparations complete.,Подготовка завершена.
+line-387,高登,走吧，快到开幕致辞的时间了。,Let's go. I have an opening speech to make.,"Пошли, скоро начало вступительной речи."
