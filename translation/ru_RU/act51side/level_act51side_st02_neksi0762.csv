@@ -16,7 +16,7 @@ char-9,凛冬,凛冬,Zima,Зима
 char-10,真理,真理,Istina,Истина
 char-11,古米,古米,Gummy,Гум
 char-12,早露,早露,Rosa,Роса
-char-13,弑君者,弑君者,Crownslayer,Краунслейер
+char-13,弑君者,弑君者,Crownslayer,Краунслеер
 char-14,安托沙,安托沙,Antosha,Антоша
 char-15,谨慎的工人,谨慎的工人,Cautious Worker,Осторожный рабочий
 char-16,兴奋的工人,兴奋的工人,Excited Worker,Воодушевленный рабочий
@@ -91,7 +91,7 @@ line-159,凛冬,哼，说到这个……,"Hmph, speaking of which...","Хм, к 
 line-161,古米,凛冬姐——,Zima—,Зима —
 line-162,古米,我已经道过歉啦！而且，我不也没怎么受伤吗？真理姐还说我有帮上忙，你不能再骂我了。,"I already apologized! Besides, I hardly got hurt at all, and Istina said I helped! Don't scold me.","Я уже извинилась! И я почти не пострадала, ведь правда? Истина сказала, что я помогла, так что больше не ругай меня."
 line-164,凛冬,谁说我要骂你了？,Who said I was scolding you?,"Кто сказал, что я ругаю?"
-line-165,凛冬,如果不是你和坚雷教官，还有……弑君者，之前闯出封锁区的时候，我们还得分出精力提防来自动力层的袭击。你们确实帮上了忙。,"If not for you and Instructor Dur-nar... and Crownslayer, we would have had to be on guard against attacks from the mobility layer. You definitely helped.","Если бы не ты, инструктор Дур-нар и... Краунслейер, когда мы прорывались через карантинную зону, нам бы пришлось отвлекаться на атаки из энергетического уровня. Вы действительно помогли."
+line-165,凛冬,如果不是你和坚雷教官，还有……弑君者，之前闯出封锁区的时候，我们还得分出精力提防来自动力层的袭击。你们确实帮上了忙。,"If not for you and Instructor Dur-nar... and Crownslayer, we would have had to be on guard against attacks from the mobility layer. You definitely helped.","Если бы не ты, инструктор Дур-нар и... Краунслеер, когда мы прорывались через карантинную зону, нам бы пришлось отвлекаться на атаки из энергетического уровня. Вы действительно помогли."
 line-167,早露,冬将军承认了呀。就像如果不是卓娅主动去听证会把这场戏演足，或许今天也不会有这么顺利的结果。,"Hey, she admits it. Just as today's operation may not have gone so smoothly if Zoya hadn't gone to the hearing and played her role.","Генерал Зима признала это. Как и то, что если бы Зоя не пошла на слушания и не сыграла свою роль, всё могло пройти не так гладко."
 line-168,早露,我们不会把任何人排除在外了。,We won't exclude anyone anymore.,Мы никого не оставим в стороне.
 line-170,凛冬,我没有想把她们排除在外……算了，事实证明这确实是我计划上的疏漏。,I wasn't excluding them... never mind. We all saw that my plan was bad.,"Я и не собиралась никого оставлять... Ладно, факты доказывают, что это была ошибка в моём планировании."
@@ -126,7 +126,7 @@ line-234,弑君者,你们来了。,There you are.,Вы пришли.
 line-236,凛冬,啊。难道这里其实是你的安全屋？,"Huh, this is your safehouse?","А. Это что, твоё убежище?"
 line-238,弑君者,就当作是罗德岛的吧。,Just consider it as Rhodes Island's.,"Считайте, что оно принадлежит Родос."
 line-240,真理,索尼娅，她是……？,"Sonya, is that...?","Соня, а она...?"
-line-242,凛冬,弑君者，柳德米拉。她和我们一样，也是圣骏堡办事处的派驻干员。,"'Crownslayer' Lyudmila. Operator for the Grypherburg office, just like us.","""Краунслейер"" Людмила. Она, как и мы, направленный оператор в офис Грифербурга."
+line-242,凛冬,弑君者，柳德米拉。她和我们一样，也是圣骏堡办事处的派驻干员。,"'Crownslayer' Lyudmila. Operator for the Grypherburg office, just like us.","""Краунслеер"" Людмила. Она, как и мы, направленный оператор в офис Грифербурга."
 line-244,弑君者,（点头）,(Nods),(Кивает)
 line-246,早露,……,......,......
 line-248,凛冬,她们看上去都不认识你。看来就算我专门找你说了，你也还是没往心里去啊。,They don't recognize you. Looks like you didn't really take what I said to heart.,"Они тебя не узнают. Похоже, ты не восприняла мои слова всерьёз."
@@ -167,8 +167,8 @@ line-326,弑君者,可我在切尔诺伯格。,But I was in Chernobog.,Но я �
 line-328,弑君者,我曾经是那个整合运动的一员，无论它产生的邪恶是否曾真的经过我的双手，我都需要与它共同承担罪责。,"I was part of Reunion. I share responsibility for its evils, whether they passed through my hands or not.","Я когда-то была частью того «Воссоединения», и прошла ли через мои руки та злоба, что оно породило — я всё равно должна нести ответственность."
 line-330,弑君者,逃避毫无用处。因此，我不奢求原谅或是和解。只是现在，这一次，至少这一次……,"Running away won't do any good. I don't ask for forgiveness or reconciliation. But this time, just this once...","Бегство бесполезно. Поэтому я не прошу прощения или примирения. Просто сейчас, в этот раз... по крайней мере, в этот раз..."
 line-331,弑君者,如果我还有挽回些什么的机会，那我一定要去做。,"If there's still a chance to make things right again, I have to go and take it.","Если у меня есть шанс что-то исправить, я обязана это сделать."
-line-333,,古米睁大了眼睛，似乎在思考着弑君者的发言。很快，她又微笑起来，从口袋里掏出一颗蜂蜜糖。,Gummy's eyes widen as she ponders Crownslayer's words. Then she smiles and takes out a honey drop from her pocket.,"Гум широко раскрыла глаза, словно обдумывая слова Краунслейер. Вскоре она улыбнулась и достала из кармана медовую конфету."
-line-335,,隔着手套，她把糖塞进弑君者的掌心里。,"Through the gloves, she puts it into Crownslayer's palm.",Через перчатку она вложила её в ладонь Краунслейер.
+line-333,,古米睁大了眼睛，似乎在思考着弑君者的发言。很快，她又微笑起来，从口袋里掏出一颗蜂蜜糖。,Gummy's eyes widen as she ponders Crownslayer's words. Then she smiles and takes out a honey drop from her pocket.,"Гум широко раскрыла глаза, словно обдумывая слова Краунслеера. Вскоре она улыбнулась и достала из кармана медовую конфету."
+line-335,,隔着手套，她把糖塞进弑君者的掌心里。,"Through the gloves, she puts it into Crownslayer's palm.",Через перчатку она вложила её в ладонь Краунслеера.
 line-337,弑君者,……这是什么——,What's this—,...Что это —
 line-339,古米,这是约定。,A promise.,Это обещание.
 line-340,古米,我明白凛冬姐为什么说不重要了。我们已经长大，长大到即使选择不去迁怒和怨恨，也能获得内心的平静。,"I know why Zima said it wasn't important. We've grown up, we're old enough that we can find calm in our hearts without having to take it out on someone, without having to hate.","Я понимаю, почему Зима сказала, что это не важно. Мы выросли — выросли настолько, что можем обрести покой в душе, выбрав не злиться и не мстить."
