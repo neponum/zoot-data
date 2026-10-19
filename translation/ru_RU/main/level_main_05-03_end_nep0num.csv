@@ -3,7 +3,7 @@ __translator__,,Translator,,nep0num
 __language__,,Language,en_US,ru_RU
 char-1,整合运动成员,整合运动成员,Reunion Member,Участник Воссоединения
 char-2,星熊,星熊,Hoshiguma,Хошигума
-char-3,近卫局成员,近卫局成员,L.G.D. Agent,Офицер ДГЛ
+char-3,近卫局成员,近卫局成员,L.G.D. Agent,Офицер ДОЛ
 char-4,陈,陈,Ch'en,Чэнь
 char-5,线人,线人,Informant,Информатор
 ,,,,
@@ -13,7 +13,7 @@ line-6,整合运动成员,别，别跑！她，她过来了！拦住她啊？,"S
 line-7,整合运动成员,其他人都去哪了？为什么......,Where are all the others?! Why...,Куда все делись? Почему...
 line-13,星熊,只剩你了。,You're the last one.,Остался только ты.
 line-15,整合运动成员,呃，呃......,Aaaaah...!,Э... э...
-line-16,整合运动成员,鬼......救，救命......,Demon... S-someone save me...,"Демон... Помогите, на помощь..."
+line-16,整合运动成员,鬼......救，救命......,Demon... S-someone save me...,"Демон... П-прошу, помогите!"
 line-18,星熊,......就这样也想阻拦我？,...You planned to stop me like this?,...И ты надеешься меня этим остановить?
 line-20,整合运动成员,不，我，不......,"No, I... No...","Нет, я... нет..."
 line-22,星熊,就这样——也想阻拦我？,You planned to stop me... like this?,Вот так — ты правда надеялся меня остановить?
@@ -46,7 +46,7 @@ line-92,线人,陈sir......我听见战斗的声音，仓库大门似乎也.....
 line-94,陈,不，那是我！你别挂断！,"Stop, that's me! Don't hang up!","Нет, это я! Не отключайся!"
 line-96,线人,是陈sir吗？那太好了......我在......最里面。,"Is that you, Madam Ch'en? That's a relief... I'm... all the way in the back.",Это офицер Чэнь? Слава богу... Я... в самом конце.
 line-104,陈,你的伤......你的眼睛怎么回事？,That wound... what happened to your eyes?,Твоя рана... Что с твоими глазами?
-line-105,线人,不小心中了法术。没事，不妨碍，我，咳，给你东西。,"I wasn't careful enough, got hit by Arts. Don't worry about it, it doesn't matter now. This... *cough*... is for you.","Случайно попал под Искусство. Ничего, не страшно, я... кха... отдам вам вещи."
+line-105,线人,不小心中了法术。没事，不妨碍，我，咳，给你东西。,"I wasn't careful enough, got hit by Arts. Don't worry about it, it doesn't matter now. This... *cough*... is for you.","Случайно попал под удар Искусства. Ничего, не страшно, я... кха... это для вас."
 line-106,陈,医师，给他止血！,"Medic, staunch his bleeding!","Медик, останови кровотечение!"
 line-107,线人,不。陈sir，不用了。我知道......,"No... Madam Ch'en, there's no need. I've already accepted...","Нет. Офицер Чэнь, не нужно. Я знаю..."
 line-108,陈,多话！,Stop talking!,Замолчи!
@@ -60,14 +60,14 @@ line-126,线人,虽然我起到作用了，可我没想到会是以这种方式�
 line-128,陈,我们都没想到。因为你的努力，我们才有机会阻止敌人。,"None of us did. Thanks to your bravery, we now have a chance to stop the enemy.",Мы тоже не ожидали. Благодаря твоим стараниям у нас есть шанс остановить врага.
 line-130,线人,哈哈，咳，我没喜欢过龙门，龙门也没喜欢过我。,"Haha... *cough*... I never liked Lungmen, and Lungmen never liked me.","Ха-ха... кха... Я никогда не любил Лунмэнь, а Лунмэнь никогда не любил меня."
 line-131,线人,但现在，我居然给整个龙门做了点什么，一个街头仔能做到这步，值喇。,"But now, I've finally managed to do something for Lungmen. Not bad for a bum like me, right...","Но сейчас я правда сделал что-то для всего Лунмэня. Для такого уличного бродяги, как я, сделать столько — оно того стоило."
-line-133,陈,中水三杰也算街头仔？,You're calling one of the Chung Shui Big Three a bum?,«Три героя Срединных вод» теперь считаются уличными бродягами?
+line-133,陈,中水三杰也算街头仔？,You're calling one of the Chung Shui Big Three a bum?,«Три великих Чун-шуя» теперь считаются уличными бродягами?
 line-135,线人,有鬼姐在，我永远都是街头仔。,"Compared to you, Madam Oni, I'm nothing more than a bum.","Пока Сестра-Демон рядом, я навсегда останусь уличным бродягой."
 line-136,线人,......,...,...
-line-137,线人,......陈sir，鬼姐她还好吗？还在当差吗？,"...Madam Ch'en, how's Madam Oni doing? Is she still working as Inspector?","...Офицер Чэнь, как Сестра-Демон? Всё ещё служит?"
+line-137,线人,......陈sir，鬼姐她还好吗？还在当差吗？,"...Madam Ch'en, how's Madam Oni doing? Is she still working as Inspector?","...Офицер Чэнь, как дела у Сестры-Демона? Всё ещё служит?"
 line-139,陈,还在。我和她搭档很长时间了。,She is. She's been my partner for a long time.,Да. Мы напарницы уже очень долго.
 line-141,线人,陈sir，鬼姐她......太耿直了。她在会里的时候没人，咳咳，敢动她。,"Madam Ch'en, Madam Oni... is too honest and frank. No one in the gang... *cough*... dared to challenge her.","Офицер Чэнь, Сестра-Демон... она слишком прямолинейная. Когда она была в банде, никто... кха-кха... не смел её и пальцем тронуть."
 line-142,线人,但她斗不过龙门的大人物。你一定得看好她。,But she is no match for those Lungmen moguls. Please keep an eye on her.,Но ей не выстоять против больших шишек Лунмэня. Вы должны присматривать за ней.
-line-143,线人,鬼姐绝对不能丢架，龙门那些趾高气扬的富人别想因为她的出身欺侮她！,Don't let anyone demean her. I won't let those stuck-up plutocrats insult her because of her background!,Сестра-Демон не должна ударить в грязь лицом. Не позволяйте заносчивым богачам из Лунмэня издеваться над ней из-за её прошлого!
+line-143,线人,鬼姐绝对不能丢架，龙门那些趾高气扬的富人别想因为她的出身欺侮她！,Don't let anyone demean her. I won't let those stuck-up plutocrats insult her because of her background!,Сестра-Демон ни в коем случае не должна опозориться. Не позволяйте заносчивым богачам из Лунмэня издеваться над ней из-за её прошлого!
 line-144,线人,我只求你这一件事。就这一件。咳......,This is the only favor I ask of you. Just one... *cough* *cough*...,Я прошу у вас только об одном. Только об этом. Кха...
 line-146,陈,不会的。星熊很强，没人能动得了她。,Don't worry about that. Hoshiguma is very strong. No one can hurt her.,"Этого не случится. Хошигума сильна, её никто не тронет."
 line-148,线人,双拳难敌四手。,"No matter how powerful, everyone has their limits.",Один в поле не воин.
@@ -77,14 +77,14 @@ line-153,线人,陈sir，你还在吗？,"Madam Ch'en, are you still here?","О�
 line-155,陈,在。,I am.,Здесь.
 line-157,线人,我算不算是个好人？,Am I a good person?,Как вы считаете... я хороший человек?
 line-159,陈,几年前，不好说。但现在你确实是。你是龙门引以为豪的好公民。,"A few years ago, a bit hard to say. But now you are, without a doubt. Lungmen is proud of having citizens like you.","Несколько лет назад — трудно было сказать. Но сейчас — безусловно. Ты добропорядочный гражданин, которым Лунмэнь может гордиться."
-line-161,线人,哈哈哈，咳，哈哈......矿石病衰仔也能是好人了？,Hahaha... *cough*... Haha... a pathetic Infected can be a good citizen?,Ха-ха-ха... кха... ха... Неудачник с Орипатией тоже может быть хорошим человеком?
+line-161,线人,哈哈哈，咳，哈哈......矿石病衰仔也能是好人了？,Hahaha... *cough*... Haha... a pathetic Infected can be a good citizen?,Ха-ха-ха... кха... ха... Разве жалкий инфицированный тоже может быть хорошим человеком?
 line-163,陈,有些龙门人会纠结矿石病，但你不如问问龙门城。,"Some people in Lungmen are indeed obsessed with Oripathy, but you'd be better off asking Lungmen directly.","Некоторые жители Лунмэня помешаны на Орипатии, но почему бы тебе не спросить сам город?"
 line-165,线人,怎么，我问它，它难道还会回答吗？,How do I do that? Will a city answer me?,"Что? Если я спрошу, неужели он ответит?"
 line-167,陈,哈，我替它回答吧。,"Heh. I will, on its behalf.","Ха, я отвечу за него."
 line-168,陈,“我不在乎。”,"And it says, 'I don't mind.'",«Мне всё равно».
 line-169,陈,阿发，你一直是、也永远是个龙门人。,"Phal, you have always been - and always will be - one of Lungmen's best.","А-Фа, ты всегда был и всегда будешь лунмэньцем."
 line-171,线人,谢谢你，陈sir。谢谢你。,"Thank you, Madam Ch'en. Thank you so much.","Спасибо вам, офицер Чэнь. Спасибо."
-line-172,线人,陈sir，有两句话，我想你带给鬼姐。,"Madam Chen, there are two things I'd like you to relay to Madam Oni.","Офицер Чэнь, я хотел бы кое-что передать Сестре-Демону."
+line-172,线人,陈sir，有两句话，我想你带给鬼姐。,"Madam Chen, there are two things I'd like you to relay to Madam Oni.","Офицер Чэнь, я хотел бы передать Сестре-Демону две вещи."
 line-174,陈,你自己和她说。,You should tell her yourself.,Скажи ей сам.
 line-176,线人,什么意思？你是说......,What do you mean? Are you saying...,В смысле? Вы хотите сказать...
 line-178,线人,......大姐？,...Boss?,...Сестра?

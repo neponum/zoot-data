@@ -7,7 +7,7 @@ char-3,煌,煌,Blaze,Блейз
 char-4,浮士德,浮士德,Faust,Фауст
 char-5,阿米娅,阿米娅,Amiya,Амия
 char-6,幻影弩手,幻影弩手,Phantom Crossbowman,Фантомный арбалетчик
-char-7,近卫局成员,近卫局成员,L.G.D. Agent,Офицер ДГЛ
+char-7,近卫局成员,近卫局成员,L.G.D. Agent,Офицер ДОЛ
 char-8,梅菲斯特的护卫,梅菲斯特的护卫,Mephisto's Guard,Страж Мефисто
 char-9,魏彦吾,魏彦吾,Wei Yenwu,Вэй Яньву
 char-10,诗怀雅,诗怀雅,Swire,Свайр
@@ -19,14 +19,14 @@ line-19,浮士德,唔。,Ngh...,Хм.
 line-21,煌,放下你的手！,Put your hands where I can see them!,Убери руки!
 line-22,煌,你的把戏已经被我看穿了，长鳞的小子！,"I've seen through all your tricks, kid with the scales!","Я раскусила твой трюк, чешуйчатый паренек!"
 line-34,煌,我说了，我看穿了。,"I told you, that's not going to work!","Я же сказала, я всё вижу насквозь."
-line-36,阿米娅,煌！,Blaze!,Блэйз!
+line-36,阿米娅,煌！,Blaze!,Блейз!
 line-38,煌,哼，不算什么，这点火力也就和炮仗差不多！,"Hmph, don't worry. These attacks hurt about as much as firecrackers!","Хм, пустяки. Такая огневая мощь едва ли сильнее петарды!"
 line-40,浮士德,你提前防御住了弩弹。,You blocked my shots in advance.,Ты заранее подготовила защиту от арбалетных болтов.
 line-41,浮士德,你知道他们的位置？,You know where they're coming from?,"Ты знала, где они находятся?"
 line-43,煌,那当然，我已经全都找出来了。,"Of course I do, I've already figured you out.","Разумеется, я их всех выследила."
 line-44,煌,阿米娅，后退，我该用那个了！,"Amiya, back off. I'm going to use 'that'!","Амия, отойди, пора применить это!"
 line-46,阿米娅,知道！我会再一次干扰梅菲斯特的护卫，抓紧时间！,"Got it! I'll disrupt Mephisto's guards again, so make it quick!","Поняла! Я снова помешаю страже Мефисто, поторопись!"
-line-48,煌,这点血是送你们做临别礼物的，整合运动的“幻影弩手”们！,"Take this bit of my blood as a farewell gift, Reunion's 'Phantom Crossbowmen!'","Эта кровь — ваш прощальный подарок, «Призрачные арбалетчики» из Воссоединения!"
+line-48,煌,这点血是送你们做临别礼物的，整合运动的“幻影弩手”们！,"Take this bit of my blood as a farewell gift, Reunion's 'Phantom Crossbowmen!'","Эта кровь — ваш прощальный подарок, «Фантомные арбалетчики» из Воссоединения!"
 line-49,煌,沸腾吧，爆开他们的伪装吧！,"Seethe, and blast apart their disguise!","Закипай, и пусть их маскировка развеется!"
 line-61,浮士德,——！,...!,—!
 line-62,浮士德,你泼洒自己的血，用血来点火？,You're using your own blood as an incendiary?,"Ты проливаешь собственную кровь, чтобы использовать её как топливо?"
@@ -64,27 +64,27 @@ line-120,浮士德,所以你不会知道我在想什么。,"So, you'd have no id
 line-122,阿米娅,——！,...!,—!
 line-131,煌,阿米娅！,Amiya!,Амия!
 line-137,阿米娅,我没事，他的弩弹我勉强挡得下来......！但这样的话，那些护卫......,"I'm fine, I can barely block his shots...! However, I won't be able to keep suppressing...","Я в порядке, его болт я едва смогла отразить...! Но в таком случае, эти стражи..."
-line-143,梅菲斯特的护卫,【杂乱的发音】,GRAAAAAAGHHH!! AAAARRRRGGHH!!,【Бессвязные звуки】
+line-143,梅菲斯特的护卫,【杂乱的发音】,GRAAAAAAGHHH!! AAAARRRRGGHH!!,*Бессвязные звуки*
 line-149,阿米娅,我的控制力在变弱！,My control is slipping!,Мой контроль ослабевает!
 line-151,浮士德,梅菲斯特，走。,"Mephisto, let's go.","Мефисто, уходим."
 line-152,浮士德,他们的援军正在消灭我们的队伍。,Their reinforcements are wiping out our forces.,Их подкрепление уничтожает наши отряды.
 line-153,浮士德,有些部队我们从没见过。计划有变，我们被算计了。,We've never even seen some of them before. There's been a change in the plan. Our moves have been read.,"Некоторые подразделения мы никогда не видели раньше. План изменился, нас перехитрили."
 line-155,梅菲斯特,......为什么整合运动，二十多支小队，两支大队，还没在这里？,"...Why haven't our forces come? We have over twenty squads and two major brigades, so why are none of them here still?","...Почему Воссоединение, больше двадцати отрядов, два больших батальона, всё ещё не здесь?"
-line-156,梅菲斯特,弑君者为什么还没在这里？霜星为什么不在这里？,Where is Crownslayer? Or FrostNova?,Почему Патриот не здесь? Почему Фростнова не здесь?
+line-156,梅菲斯特,弑君者为什么还没在这里？霜星为什么不在这里？,Where is Crownslayer? Or FrostNova?,Почему Цареубийца не здесь? Почему Фростнова не здесь?
 line-158,浮士德,这次和切尔诺伯格不同。我们没有切断对方的通讯，敌人有大量援军，抵抗很激烈。,"This isn't like Chernobog. We couldn't shut down the enemy's communications, so they were able to call lots of reinforcements and put up a vigorous resistance.","Это не Чернобог. Мы не смогли отрезать им связь, у врага много подкреплений, они оказывают яростное сопротивление."
 line-159,浮士德,梅菲斯特......,Mephisto...,Мефисто...
 line-161,梅菲斯特,为什么他们还没在这里！,Where are they still not here yet?!,Почему они до сих пор не здесь!
 line-163,浮士德,想知道原因，我们要亲眼去看。先离开这里。,We won't know the reason unless we see it for ourselves. Let's get out of here first.,"Чтобы узнать причину, нам нужно увидеть всё своими глазами. Покинем это место."
-line-169,阿米娅,煌，我差不多到极限了，你们能行吗？,"Blaze, I'm about to reach my limit. Can you finish this?","Блэйз, я почти на пределе, вы справитесь?"
+line-169,阿米娅,煌，我差不多到极限了，你们能行吗？,"Blaze, I'm about to reach my limit. Can you finish this?","Блейз, я почти на пределе, вы справитесь?"
 line-171,煌,没问题，我和那个姓陈的，应该够！,Sure thing. Just me and that Ch'en lady should suffice!,"Без проблем, я и та девица по фамилии Чэнь, мы должны справиться!"
 line-177,浮士德,快！,Quick!,Быстрее!
 line-180,陈,我允许你走了吗？,Did I give you permission to leave?,Я разве разрешила тебе уйти?
 line-182,梅菲斯特,你......护卫们！去杀了她！杀了她！,You... Guards! Kill her! Kill her!!,Ты... стражи! Убейте её! Убейте её!
 line-184,梅菲斯特的护卫,咯......咯！！！,Grrr... Grooooar!!!,Кх... кх!!!
-line-186,煌,嘁，十几个一起动，难办了啊。,Tsk... Over a dozen of them started moving at once. That's going to be a pain.,"Черт, десяток разом, дела плохи."
-line-189,梅菲斯特的护卫,【咆哮】！！！,GROOAAAAAR!!!,【Рык】!!!
+line-186,煌,嘁，十几个一起动，难办了啊。,Tsk... Over a dozen of them started moving at once. That's going to be a pain.,"Тц... десяток разом, дела плохи."
+line-189,梅菲斯特的护卫,【咆哮】！！！,GROOAAAAAR!!!,*Рык*!!!
 line-191,煌,他们要上了，姓陈的！,"They're coming at us, Ch'en!","Они идут, Чэнь!"
-line-193,陈,谢谢你，罗德岛的干员。现在没人干扰我了。,"Thank you, Rhodes Island operator. Now, nobody can get in my way.","Спасибо, оператор Родоса. Теперь мне никто не мешает."
+line-193,陈,谢谢你，罗德岛的干员。现在没人干扰我了。,"Thank you, Rhodes Island operator. Now, nobody can get in my way.","Спасибо, оперативница Родоса. Теперь мне никто не мешает."
 line-195,煌,啊？,Huh?,А?
 line-197,陈,（咳，还是不行？我甚至没法让它彻底接触空气......算了，做到这步，应该够了。）,"(Haah... it's still no good? I don't have a way to completely counteract their cloaking... Forget it, this should be good enough.)","(Кх, все ещё не получается? Я даже не могу заставить его полностью соприкоснуться с воздухом... ладно, того, что я сделала, должно хватить.)"
 line-198,陈,（赤霄，至少这时候......）,"(Chi Xiao, this time...)","(Чи Сяо, хотя бы в этот раз...)"
@@ -135,8 +135,8 @@ line-330,阿米娅,哪怕是暂时的，这也是我们的胜利。,"This is our
 line-338,陈,阿米娅......,Amiya...,Амия...
 line-340,陈,——,...,—
 line-342,陈,罗德岛是怎么撤出切城的？,How did Rhodes Island manage to make it out of Chernobog?,Как Родос эвакуировались из Чернобога?
-line-344,阿米娅,是这位罗德岛干员，煌小姐，及时支援了我们。,Miss Blaze came to our aid in the knick of time.,"Нам помогла этот оператор Родоса, Блэйз. Она вовремя пришла на помощь."
-line-345,阿米娅,也有一位说话音量很大的龙门警官在废城外接应......,There was also a loud-mouthed L.G.D. officer just outside the ruined city...,А ещё один очень шумный офицер из Лунмэня прикрывала нас за пределами разрушенного города...
+line-344,阿米娅,是这位罗德岛干员，煌小姐，及时支援了我们。,Miss Blaze came to our aid in the knick of time.,Нас спасла оперативница Родоса — Блейз. Она вовремя пришла на помощь.
+line-345,阿米娅,也有一位说话音量很大的龙门警官在废城外接应......,There was also a loud-mouthed L.G.D. officer just outside the ruined city...,А ещё один очень шумный офицер из Лунмэня прикрывал нас за пределами разрушенного города...
 line-347,煌,如果最开始近卫局没有袖手旁观的话，过程还会更顺利些。,It would've been easier if you had just helped us in the first place instead of watching from the sidelines.,"Если бы ДОЛ не стояли в стороне с самого начала, все прошло бы гораздо гладче."
 line-352,煌,我还在想你是不是会说些没有罗德岛的帮助你也能行，你宁可和他们同归于尽一类的话。,"I was expecting you to say something like 'I didn't need Rhodes Island's help anyway,' or 'I'd rather die than work with them.'","Я уже думала, ты скажешь, что справилась бы и без помощи Родоса, или что-нибудь в духе того, что ты предпочла бы погибнуть вместе с ними."
 line-353,煌,还行，看来你还没迂腐到那种程度。还有什么想说的？没有的话，我想回罗德岛了。,"But at least you don't seem to be that stubborn. Is there anything else you'd like to say? If not, I'd like to head back to Rhodes Island.","Неплохо, похоже, ты ещё не настолько упряма. Есть ещё что сказать? Если нет, я хочу вернуться на Родос."
