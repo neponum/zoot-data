@@ -9,14 +9,14 @@ char-2,迷迭香,迷迭香,Rosmontis,Росмонтис
 char-3,凯尔希,凯尔希,Kal'tsit,Кальцит
 char-4,罗德岛干员,罗德岛干员,Rhodes Island Operator,Оперативник Родос
 char-5,游击队战士,游击队战士,Guerrilla Fighter,Боец партизанского отряда
-char-6,传令兵,传令兵,Runner,Адъютант
+char-6,传令兵,传令兵,Runner,Связной
 char-7,？？？,？？？,???,???
 char-8,爱国者,爱国者,Patriot,Патриот
 ,,,,
 line-11,阿米娅,第三传令兵，解除！,"Runner Three, down!","Третий связной, устранен!"
 line-15,迷迭香,第七传令兵，成功摧毁！,"Runner Seven, destroyed!","Седьмой связной, уничтожен!"
 line-17,凯尔希,第八传令兵，截获。,"Runner Eight, intercepted.","Восьмой связной, перехвачен."
-line-18,凯尔希,Raidian，立刻展开佯攻！用你的法术扩大影响范围，直接种进他们神经系统里也可以！,"Raidian, execute the feint! Use your Arts to extend or hit their nervous systems directly!","Raidian, немедленно начинай отвлекающий маневр! Используй свою магию, чтобы расширить зону влияния, можешь даже внедрить её прямо им в нервную систему!"
+line-18,凯尔希,Raidian，立刻展开佯攻！用你的法术扩大影响范围，直接种进他们神经系统里也可以！,"Raidian, execute the feint! Use your Arts to extend or hit their nervous systems directly!","Рэдиан, немедленно начинай отвлекающий маневр! Используй своё Искусство, чтобы расширить зону влияния, можешь даже внедрить её прямо им в нервную систему!"
 line-19,凯尔希,把所有敌人都拉出去！,Pull all the enemies!,Вымани всех противников наружу!
 line-26,阿米娅,哈，哈......太艰难了。各位都还好吗？,*Pant* *pant*... so tough. Is everyone okay?,"Ха, ха... Слишком тяжело. Все в порядке?"
 line-28,罗德岛干员,现在还算没问题......但......真的太激烈了。我再怎么也没搞过这种规模的战斗......,No problems yet... But... it's really intense. I've never seen combat on this scale before...,Пока ещё держимся... но... это действительно слишком напряженно. Я никогда не участвовал в бою такого масштаба...
@@ -39,11 +39,11 @@ line-61,迷迭香,第十二组传令兵，摧毁！,"Runner Twelve, destroyed!",
 line-63,罗德岛干员,游击队战士开始收紧队伍了！现在是我们通过的最好机会！,The guerrilla fighters are closing ranks! Now's our best chance to break through!,Бойцы партизанского отряда начали стягивать ряды! Сейчас лучший шанс пройти!
 line-65,,不！可能是陷阱！,No! It could be a trap!,"Нет! Возможно, это ловушка!"
 line-70,阿米娅,......嗯......,...Hmm..,...Хм...
-line-71,阿米娅,明白。迷迭香，我们用法术搜索附近！,"Roger. Rosmontis, let's scan the area with our Arts.","Поняла. Рос몬тис, используем магию для поиска в окрестностях!"
+line-71,阿米娅,明白。迷迭香，我们用法术搜索附近！,"Roger. Rosmontis, let's scan the area with our Arts.","Поняла. Росмонтис, используем Искусство для поиска в окрестностях!"
 line-73,迷迭香,我够不到。敌人......有东西挡住了我。,I can't reach it. The enemy... is blocking me somehow.,"Я не могу дотянуться. Враг... там есть что-то, что меня блокирует."
-line-75,凯尔希,萨卡兹术师。只有他们有针对迷迭香这类法术的反制手段。,Sarkaz casters. They're the only ones who could interfere with Arts like Rosmontis's.,Кастеры Сарказ. Только они обладают средствами противодействия магии вроде магии Рос몬тис.
+line-75,凯尔希,萨卡兹术师。只有他们有针对迷迭香这类法术的反制手段。,Sarkaz casters. They're the only ones who could interfere with Arts like Rosmontis's.,Кастеры Сарказ. Только они обладают средствами противодействия Искусству вроде Искусства Росмонтис.
 line-77,阿米娅,那交给我......！,Then it's up to me...!,Тогда это на мне...!
-line-79,凯尔希,Raidian，还能支撑多久？,"Raidian, how long can you keep it up?","Raidian, сколько ты ещё сможешь продержаться?"
+line-79,凯尔希,Raidian，还能支撑多久？,"Raidian, how long can you keep it up?","Рэдиан, сколько ты ещё сможешь продержаться?"
 line-80,凯尔希,......我们会提速。,...We'll be quick.,...Мы ускоримся.
 line-84,阿米娅,我......我找到了。是的。在他们依靠的建筑物内部，藏有许多狙击手和术师。,I... I found them. Yes. They have a lot of snipers and casters hidden in those buildings.,"Я... я нашла их. Да. В здании, на которое они опираются, прячется много снайперов и кастеров."
 line-85,阿米娅,他们很平静......有一些激昂。但一点也不狂热。他们......坚守着据点。,They're calm... some agitated. But they're not fanatics. They're... fortifying that point.,Они очень спокойны... полны решимости. Но никакой фанатичности. Они... удерживают укрепленный пункт.
@@ -53,22 +53,22 @@ line-89,迷迭香,我在你的位置附近了。我来。,I'm nearby. I'm coming
 line-90,阿米娅,能做到吗？,Can you do it?,Справишься?
 line-91,迷迭香,能。我不粉碎整栋楼，我只破坏他们在的那层的地形，不然他们会打扰我们。,"Yes. I won't smash the whole building. I'll just destroy the level they're on, so they won't bother us.","Справлюсь. Я не буду разрушать все здание, я только разрушу этаж, на котором они находятся, иначе они будут нам мешать."
 line-92,迷迭香,阿米娅，我可以的。,"Amiya, I can do it.","Амия, я смогу."
-line-93,阿米娅,嗯，迷迭香......我知道你能行。一定。,"Right, Rosmontis... I know you can. Definitely.","М-м, Рос몬тис... я знаю, что ты сможешь. Обязательно."
+line-93,阿米娅,嗯，迷迭香......我知道你能行。一定。,"Right, Rosmontis... I know you can. Definitely.","М-м, Росмонтис... я знаю, что ты сможешь. Обязательно."
 line-94,迷迭香,......阿米娅会佩服我吗？,"...Amiya, will you p'ei fu me then?",...Амия будет восхищаться мной?
 line-95,阿米娅,呃，什么？,Err? What?,"Э-э, что?"
 line-96,迷迭香,我听煌说，很少能有人让阿米娅佩服呢。,I heard Blaze say there aren't many people who can make you p'ei fu them.,"Я слышала от Блейз, что мало кто может вызвать у Амии восхищение."
 line-97,阿米娅,佩服？啊......好像是说尊敬？不，我还不太会炎国的语言。应该是一个意思吧？,"P'ei fu? Oh... does that mean 'respect?' Sorry, I'm not so good with the Yan language. I'm pretty sure that's what it means?","Восхищение? А... может быть, имеется в виду уважение? Нет, я ещё не очень хорошо знаю язык Янь. Думаю, это одно и то же?"
 line-98,迷迭香,我不知道呀，阿米娅......,"I don't know, Amiya...","Я не знаю, Амия..."
-line-99,阿米娅,......没事。因为我从一开始就很“佩服”迷迭香了。,...Doesn't matter. Because I've always 'p'ei fu'd' Rosmontis.,...Ничего. Потому что я с самого начала «восхищаюсь» Рос몬тис.
-line-100,阿米娅,迷迭香真的很厉害。我的话，我克制不住......,"You're amazing, really. I couldn't do what you do...","Рос몬тис правда потрясающая. Что касается меня, я не могу справиться с..."
+line-99,阿米娅,......没事。因为我从一开始就很“佩服”迷迭香了。,...Doesn't matter. Because I've always 'p'ei fu'd' Rosmontis.,...Ничего. Потому что я с самого начала «восхищаюсь» Росмонтис.
+line-100,阿米娅,迷迭香真的很厉害。我的话，我克制不住......,"You're amazing, really. I couldn't do what you do...","Росмонтис правда потрясающая. Что касается меня, я не могу справиться с..."
 line-101,阿米娅,失去和孤独。,I couldn't bear that loss and loneliness.,Потерей и одиночеством.
-line-102,阿米娅,我不可能像迷迭香这样能忍受这些。我忍受不了。,"There's no way I could live with it like you do, suffer through it like you do.","Я не смогла бы вынести всё это, как Рос몬тис. Я не выдержу."
+line-102,阿米娅,我不可能像迷迭香这样能忍受这些。我忍受不了。,"There's no way I could live with it like you do, suffer through it like you do.","Я не смогла бы вынести всё это, как Росмонтис. Я не выдержу."
 line-103,迷迭香,阿米娅骗人。,You're lying.,Амия обманывает.
 line-104,阿米娅,......,......,...
 line-105,迷迭香,不过我没什么关系。阿米娅就算骗人，也是阿米娅。,"But it doesn't matter to me. Even if you're a liar, you're still Amiya to me.","Но мне все равно. Даже если Амия обманывает, ты все равно Амия."
 line-106,迷迭香,佩服我......我这样的人，也行吗？,Someone could... p'ei fu... a person like me?,"Восхищаешься мной... такая, как я, правда подходит для этого?"
-line-107,阿米娅,就像你说的，迷迭香。就因为迷迭香是迷迭香，我很尊敬你。无论是作为精英干员的你还是作为朋友的你。,"It's like you just said, Rosmontis. You're Rosmontis, so I respect you. As both an elite operator and a friend.","Как я и сказала, Рос몬тис. Именно потому что Рос몬тис — это Рос몬тис, я очень уважаю тебя. И как элитного оператора, и как подругу."
-line-108,阿米娅,迷迭香，加油。,"Keep at it, Rosmontis.","Рос몬тис, вперед."
+line-107,阿米娅,就像你说的，迷迭香。就因为迷迭香是迷迭香，我很尊敬你。无论是作为精英干员的你还是作为朋友的你。,"It's like you just said, Rosmontis. You're Rosmontis, so I respect you. As both an elite operator and a friend.","Как я и сказала, Росмонтис. Именно потому что Росмонтис — это Росмонтис, я очень уважаю тебя. И как элитной оперативницы, и как подругу."
+line-108,阿米娅,迷迭香，加油。,"Keep at it, Rosmontis.","Росмонтис, вперед."
 line-109,迷迭香,嗯，加油。,Okay. We'll keep at it.,"М-м, вперед."
 line-116,游击队战士,还没出现？他们在等什么？,Where are they? What are they waiting for?,Все ещё не появились? Чего они ждут?
 line-117,游击队战士,不，不行！绝不允许离开这片区域！只要他们出现，我们就立刻反击！不能再失去更多联络人了！,N-No! We can't leave the area! We strike as soon as they show their faces! No one else falls out of contact!,"Нет, нельзя! Категорически запрещено покидать этот район! Как только они появятся, мы немедленно контратакуем! Нельзя терять больше связных!"
@@ -84,15 +84,15 @@ line-135,迷迭香,......就像横切开土豆。,...Like slicing a potato.,...�
 line-136,,就像横切开土豆。,Like slicing a potato.,Прямо как разрезать картофелину.
 line-145,凯尔希,博士！到我身边来！,Doctor! Get over here!,Доктор! К моей стороне!
 line-146,,整栋楼被......拦腰划开？,The whole building... got cut in half?,Все здание... разрезано пополам?
-line-148,凯尔希,迷迭香在摧毁游击队的伏击点。当心落石！,Rosmontis is destroying the guerrillas' ambush point. Watch for falling debris!,Рос몬тис разрушает точку засады партизан. Остерегайся падающих камней!
+line-148,凯尔希,迷迭香在摧毁游击队的伏击点。当心落石！,Rosmontis is destroying the guerrillas' ambush point. Watch for falling debris!,Росмонтис разрушает точку засады партизан. Остерегайся падающих камней!
 line-149,,......那究竟是什么？,What the hell was that?,...Что это было?
-line-151,凯尔希,我假设你问的是迷迭香的法术。你看了这么多次，也许现在好向你解释一些了。,"Assuming you're talking about Rosmontis's Arts, it may be time to explain it to you, now that you've seen it so many times.","Я полагаю, ты спрашиваешь о магии Рос몬тис. Ты видел это так много раз, возможно, сейчас настало время кое-что тебе объяснить."
-line-152,凯尔希,那是被她自己塑造成型的精神状态。你可以理解成迷迭香拥有“无法被观察、无法被施加作用的巨大形体”。,"It is a state of mind she shapes herself. You can think of it like Rosmontis has a gigantic, second, invisible body that cannot be acted upon.","Это состояние разума, которое она сама сформировала. Можешь понимать это как то, что Рос몬тис обладает «огромным телом, которое невозможно наблюдать и на которое невозможно воздействовать»."
+line-151,凯尔希,我假设你问的是迷迭香的法术。你看了这么多次，也许现在好向你解释一些了。,"Assuming you're talking about Rosmontis's Arts, it may be time to explain it to you, now that you've seen it so many times.","Я полагаю, ты спрашиваешь об Искусстве Росмонтис. Ты видел это так много раз, возможно, сейчас настало время кое-что тебе объяснить."
+line-152,凯尔希,那是被她自己塑造成型的精神状态。你可以理解成迷迭香拥有“无法被观察、无法被施加作用的巨大形体”。,"It is a state of mind she shapes herself. You can think of it like Rosmontis has a gigantic, second, invisible body that cannot be acted upon.","Это состояние разума, которое она сама сформировала. Можешь понимать это как то, что Росмонтис обладает «огромным телом, которое невозможно наблюдать и на которое невозможно воздействовать»."
 line-153,凯尔希,无形延伸了她的触感。她能抓握，挤压，拈起，以及甩开。,"It is a formless extension of her sense of touch. She can grab, squeeze, lift up, and toss away.","Бесформенность расширяет её осязание. Она может хватать, сжимать, щипать и отбрасывать."
-line-154,凯尔希,但相对于她的精神主观，这种法术实际上缺乏客观体现。,"But these Arts lack objective manifestation, as opposed to her subjective mind.","Но по сравнению с её субъективным восприятием, у этой магии практически отсутствует объективное проявление."
-line-155,凯尔希,我们会被它施力，却不能对它施加力，也只能通过特殊的源石技艺析出“它确实存在”。,"It can act upon us with force, but we cannot act upon it. We only know it exists with the application of special Originium Arts.","Мы можем подвергнуться её воздействию, но не можем воздействовать на неё в ответ, мы лишь можем доказать, что «это действительно существует» с помощью особых искусств ориджиниума."
+line-154,凯尔希,但相对于她的精神主观，这种法术实际上缺乏客观体现。,"But these Arts lack objective manifestation, as opposed to her subjective mind.","Но по сравнению с её субъективным восприятием, у этого Искусства практически отсутствует объективное проявление."
+line-155,凯尔希,我们会被它施力，却不能对它施加力，也只能通过特殊的源石技艺析出“它确实存在”。,"It can act upon us with force, but we cannot act upon it. We only know it exists with the application of special Originium Arts.","Мы можем подвергнуться её воздействию, но не можем воздействовать на неё в ответ, мы лишь можем доказать, что «это действительно существует» с помощью особого Искусства Ориджиниума."
 line-156,凯尔希,难理解也无所谓，这可能不是你的领域。,You need not grasp it fully. This is not your area of expertise. ,"Если это сложно понять, не страшно, скорее всего это не твоя область."
-line-157,凯尔希,在被交予武器之前，迷迭香会造成更大程度的破坏。被移动城邦碾过般的光景，除了废墟，就只留下废墟中跪地大哭的幼年女性。,Rosmontis was much more destructive before we put a weapon in her hands. A lot like being crushed beneath the treads of a nomadic city. All that's left is a crying young girl alone in the ruins.,"До того, как ей передали оружие, Рос몬тис наносила гораздо больший урон. Сцена, будто после проезда мобильного города, где кроме руин, оставалась лишь маленькая девочка, рыдающая на коленях посреди развалин."
+line-157,凯尔希,在被交予武器之前，迷迭香会造成更大程度的破坏。被移动城邦碾过般的光景，除了废墟，就只留下废墟中跪地大哭的幼年女性。,Rosmontis was much more destructive before we put a weapon in her hands. A lot like being crushed beneath the treads of a nomadic city. All that's left is a crying young girl alone in the ruins.,"До того, как ей передали оружие, Росмонтис наносила гораздо больший урон. Сцена, будто после проезда мобильного города, где кроме руин, оставалась лишь маленькая девочка, рыдающая на коленях посреди развалин."
 line-158,凯尔希,那种情况无论如何都不该再发生。,Under no circumstances can that be allowed to happen again.,Такого ни при каких обстоятельствах больше не должно повториться.
 line-159,凯尔希,......博士。走。,"...Doctor, move.",...Доктор. Пошли.
 line-160,凯尔希,我看到了。指挥部队马上就会出现......,I see it. The command group is coming...,Я вижу. Командование вскоре объявится...
@@ -100,10 +100,10 @@ line-161,凯尔希,公园废墟的喷泉。底下应该建有水道。,There sho
 line-162,凯尔希,竟藏身在那样毫不起眼的地方。,They hid in such an inconspicuous place.,"Кто бы мог подумать, что они скрываются в таком неприметном месте."
 line-163,凯尔希,......栖身灰鬃峰七天七夜，连最强盛时的征战骑士都被他欺骗的那场伏击战，或许也是真的。,"...The story of the ambush on Graymane Peak, that supposedly involved seven straight days of stakeout and tricked the strongest of knights, may well have been true.","...Семь дней и семь ночей в засаде на вершине Серого Грифа, обманув даже Рыцарей-Завоевателей в их расцвете сил, возможно, это тоже правда."
 line-164,凯尔希,就是现在，我们走。Dr.{@nickname}，事不宜迟。,"Let's go, Dr. {@nickname}. No time to lose.","Прямо сейчас, идём. Доктор, промедление смерти подобно."
-line-165,凯尔希,Raidian，停止交火。找好隐蔽，现在我需要你专注提供通讯。,"Raidian, cease fire. Find a good place to hide. I need you to focus on keeping our comms up.","Raidian, прекрати огонь. Найди укрытие, сейчас мне нужно, чтобы ты сосредоточился на обеспечении связи."
+line-165,凯尔希,Raidian，停止交火。找好隐蔽，现在我需要你专注提供通讯。,"Raidian, cease fire. Find a good place to hide. I need you to focus on keeping our comms up.","Рэдиан, прекрати огонь. Найди укрытие, сейчас мне нужно, чтобы ты сосредоточился на обеспечении связи."
 line-166,凯尔希,Mantra-2，记录好我们所有的交谈。一字不落。,"Mantra-2, log all our conversations. Every last word.","Mantra-2, записывай все наши разговоры. До последнего слова."
 line-170,迷迭香,第十四组传令兵，成功截获。,"Runner Group Fourteen, successfully intercepted.","Четырнадцатая группа связных, успешно перехвачена."
-line-171,迷迭香,阿米娅，凯尔希医生。我准备好了。,"Amiya, Dr. Kal'tsit, I'm ready.","Амия, доктор Кельси. Я готова."
+line-171,迷迭香,阿米娅，凯尔希医生。我准备好了。,"Amiya, Dr. Kal'tsit, I'm ready.","Амия, доктор Кальцит. Я готова."
 line-177,游击队战士,（你没事吧......张嘴！看我！）,(Are you okay...? Talk to me! Look at me!),(Ты в порядке... Открой рот! Посмотри на меня!)
 line-179,游击队战士,（好，你醒着。我还好。没关系。你藏好，别被找到......我们要靠你重新组织队伍。）,"(Good, you're with us. I'm okay. Doesn't matter. You hide somewhere, don't let them find you... we need you to regroup.)","(Хорошо, ты в сознании. Я тоже. Ничего страшного. Ты спрячься, чтобы тебя не нашли... нам нужно, чтобы ты переформировал отряд.)"
 line-181,游击队战士,（我知道。我们来对抗敌人。你别出声！）,(I know. We'll get them. You stay quiet!),(Я знаю. Мы будем противостоять врагу. Ты молчи!)
@@ -140,7 +140,7 @@ line-231,迷迭香,阿米娅。我没办法。,Amiya. I'm out of options.,Ами
 line-233,阿米娅,可是......,But...,Но...
 line-235,迷迭香,我不会让他死。但他可能再也站不起来。,He won't die. But he may never walk again.,"Я не дам ему умереть. Но он, возможно, больше никогда не сможет встать."
 line-236,,等——,Wait—,Подождите —
-line-238,迷迭香,去吧。扎穿......,Go. Stab...,Вперед. Прoнзи...
+line-238,迷迭香,去吧。扎穿......,Go. Stab...,Вперед. Пронзи...
 line-247,？？？,你，不能。,"You, can't.","Ты, не сможешь."
 line-256,阿米娅,？！,?!,?!
 line-258,迷迭香,怎么......徒手打偏了我的剑？,How... you blocked my sword with your bare hands?,Как... голыми руками отразил мой меч?
@@ -150,9 +150,9 @@ line-261,迷迭香,不。咦......还是说......我以为是建筑倒塌的感�
 line-262,迷迭香,你一个人，不，你和你的队伍......连成一座......,"You, no, you and your team... You're like...","Ты один, нет, ты и твой отряд... слились в единую..."
 line-263,迷迭香,......山。,...a mountain.,...Гору.
 line-265,？？？,......,......,...
-line-269,凯尔希,迷迭香，收队。,"Rosmontis, fall back.","Рос몬тис, отступить."
+line-269,凯尔希,迷迭香，收队。,"Rosmontis, fall back.","Росмонтис, отступить."
 line-271,迷迭香,但我......,But I...,Но я...
-line-275,凯尔希,迷迭香，这是命令。,"That's an order, Rosmontis.","Рос몬тис, это приказ."
+line-275,凯尔希,迷迭香，这是命令。,"That's an order, Rosmontis.","Росмонтис, это приказ."
 line-276,凯尔希,命令。,An order.,Приказ.
 line-278,游击队战士,大尉......！,Captain...!,Капитан...!
 line-284,爱国者,你做得，够好。你走，归队。,"You did, well. Go, regroup.","Ты сделал, достаточно. Ты уходи, вернись в отряд."
@@ -164,7 +164,7 @@ line-294,凯尔希,身份是无所谓，但立场呢？,Are you sure you don't c
 line-296,爱国者,这，无关乎——,"Very, sure—","Это, не имеет отношения —"
 line-297,爱国者,等等......等等。,Wait... wait.,Подожди... подожди.
 line-298,爱国者,你是......,You...,Ты...
-line-300,凯尔希,......博卓卡斯替。,...Buldrokkas'tee.,...Бодроккаста.
+line-300,凯尔希,......博卓卡斯替。,...Buldrokkas'tee.,...Бол'дракаса.
 line-302,爱国者,你......怎么会......,You... how...?,Ты... как ты могла...
 line-304,凯尔希,久违了。,It's been a while.,Давно не виделись.
-line-306,爱国者,你......凯尔希，女勋爵？,You... Dame Kal'tsit?,"Ты... Кельси, леди-баронесса?"
+line-306,爱国者,你......凯尔希，女勋爵？,You... Dame Kal'tsit?,"Ты... Кальцит, леди?"

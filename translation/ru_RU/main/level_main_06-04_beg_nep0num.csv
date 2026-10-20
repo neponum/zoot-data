@@ -1,15 +1,15 @@
 ID,Character,Original Text,Reference,Translation
 __translator__,,Translator,,nep0num
 __language__,,Language,en_US,ru_RU
-char-1,近卫局成员,近卫局成员,L. G. D. Officer,Офицер ДГЛ
+char-1,近卫局成员,近卫局成员,L. G. D. Officer,Офицер ДОЛ
 char-2,牧群,牧群,Herd,Стадо
 char-3,煌,煌,Blaze,Блейз
 char-4,？？？,？？？,???,???
-char-5,近卫局队长,近卫局队长,L. G. D. Captain,Капитан Гвардии
+char-5,近卫局队长,近卫局队长,L. G. D. Captain,Капитан ДОЛ
 char-6,监察司,监察司,Censor,Инспектор
 char-7,诗怀雅,诗怀雅,Swire,Свайр
 char-8,陈,陈,Ch'en,Чэнь
-char-9,近卫局盾卫,近卫局盾卫,L. G. D. Defender,Щитоносец Гвардии
+char-9,近卫局盾卫,近卫局盾卫,L. G. D. Defender,Щитоносец ДОЛ
 char-10,灰喉,灰喉,GreyThroat,Грейтроут
 char-11,整合运动成员,整合运动成员,Reunion Member,Участник Воссоединения
 ,,,,
@@ -22,9 +22,9 @@ line-14,煌,......,......,...
 line-15,煌,......怎么会这样......,How could this happen...?,...Как же так...
 line-17,煌,混账白发小子！！他又干了什么！,What has that nasty little boy done?!,Чёртов белоголовый пацан!! Что он опять натворил?!
 line-18,煌,博士，动作快！我们快去预定地点和阿米娅汇合！,"Doctor, we need to move! We have to meet up with Amiya!","Доктор, шевелись! Нам нужно поскорее добраться до точки сбора и встретиться с Амией!"
-line-19,煌,这个数量级的牧群，不成型的火力小队是对付不了的，我们只能酌情行事！,A small fire team can't handle a herd of this size. We have to tread carefully!,С таким количеством Стада обычный отряд огневой поддержки не справится. Придётся действовать по ситуации!
-line-20,煌,这时候可别想着帮助近卫局作战，我们的处境可比他们窘迫多了。,There's nothing we can do for the L. G. D. now. We're in a much worse position than them.,"Сейчас не время думать о помощи Гвардии, наше положение гораздо хуже, чем у них."
-line-21,煌,先暂缓对近卫局的援助，我现在只敢保证你我的安全！,Set them aside. My top priority is to guarantee your safety.,Пока отложим помощь Гвардии. Сейчас я могу гарантировать безопасность только нам двоим!
+line-19,煌,这个数量级的牧群，不成型的火力小队是对付不了的，我们只能酌情行事！,A small fire team can't handle a herd of this size. We have to tread carefully!,С таким количеством стада обычный отряд огневой поддержки не справится. Придётся действовать по ситуации!
+line-20,煌,这时候可别想着帮助近卫局作战，我们的处境可比他们窘迫多了。,There's nothing we can do for the L. G. D. now. We're in a much worse position than them.,"Сейчас не время думать о помощи ДОЛ, наше положение гораздо хуже, чем у них."
+line-21,煌,先暂缓对近卫局的援助，我现在只敢保证你我的安全！,Set them aside. My top priority is to guarantee your safety.,Пока отложим помощь ДОЛ. Сейчас я могу гарантировать безопасность только нам двоим!
 line-28,近卫局成员,不行，这波我们实在扛不住了！,We're being overrun!,"Не пойдёт, этот натиск нам не сдержать!"
 line-29,近卫局成员,必须撤离！再不撤的话，我们小队就完了！,We're dead if we don't retreat!,"Нужно отступать! Если не уйдём сейчас, нашему отряду конец!"
 line-31,？？？,别慌张。,Don't panic.,Без паники.
@@ -57,7 +57,7 @@ line-86,？？？,你们去。,Go.,Идите.
 line-87,？？？,我从地上走过去。,I will move on the ground.,Я пойду по земле.
 line-94,？？？,......,......,...
 line-96,近卫局成员,攻势太猛烈了！！,We can't hold them!,Натиск слишком сильный!!
-line-97,近卫局成员,我们装备的都是穿刺性武器，没法有效对抗他们！,"All we have is piercing weapons, and they're useless against these things!","Наше оружие в основном колющее, мы не можем эффективно им противостоять!"
+line-97,近卫局成员,我们装备的都是穿刺性武器，没法有效对抗他们！,"All we have is piercing weapons, and they're useless against these things!","Наше оружие в основном колющее, мы не можем эффективно противостоять этим тварям!"
 line-98,近卫局队长,不能退后！,Hold your ground!,Ни шагу назад!
 line-99,近卫局队长,我们背后是安全区！要是让他们打进去了，里面的市民就完了！,We're the last line of defense for the civilians behind us!,"За нашей спиной безопасная зона! Если они прорвутся, горожанам конец!"
 line-100,近卫局成员,那怎么办？！,Then what do we do?!,Но что нам делать?!
@@ -71,26 +71,26 @@ line-108,近卫局队长,阿义！！！,Ah Yee!!!,А-И!!!
 line-110,？？？,真丢人！,How embarrassing!,Какой позор!
 line-112,？？？,纵贯白雷正法，去！,"Zongguan Bailei Zhengfa, loose!","Правосудие Белой Молнии, вперёд!"
 line-140,牧群,唔，唔！！,Nnng...!!,"Гх, гх!!"
-line-141,近卫局队长,雷电法术？！,Lightning Arts?!,Магия молнии?!
+line-141,近卫局队长,雷电法术？！,Lightning Arts?!,Искусство молнии?!
 line-142,近卫局队长,什，什么......一瞬间就把这些躁狂患者都消灭了？,H- how... you wiped them all out in one bright flash?,Ч-что... В одно мгновение уничтожил всех этих безумцев?
 line-144,？？？,哈，哈......,*Pant...* *pant...*,Ха... ха...
 line-145,？？？,刚才就说了不会出手不会出手，没想到，你们这些个样子怎么保护百姓？！,I just said I would not act. Little did I know how incapable you are of protecting the masses.,"Говорил же, что не буду вмешиваться... Не ожидал я, что вы в таком состоянии. Как вы собираетесь защищать народ?!"
 line-146,？？？,到最后居然还是让我动手了，太丢脸了！,"That I would be forced to take such action, it's humiliating!",В итоге мне всё же пришлось вмешаться. Позорище!
-line-148,近卫局队长,监察司长官......,Madam Censor...,Господин Инспектор...
-line-150,监察司,长官前长官后的，不是让你们当我不存在吗？,Madam nothing! Were you not told to ignore my presence?,"Всё заладили: «господин Инспектор» да «господин Инспектор»... Разве я не просил вас вести себя так, будто меня здесь нет?"
+line-148,近卫局队长,监察司长官......,Madam Censor...,Госпожа Инспектор...
+line-150,监察司,长官前长官后的，不是让你们当我不存在吗？,Madam nothing! Were you not told to ignore my presence?,"Всё заладили: «госпожа Инспектор» да «госпожа Инспектор»... Разве я не просила вас вести себя так, будто меня здесь нет?"
 line-152,近卫局队长,......我们没想......,...We never thought...,...Мы не хотели...
-line-154,监察司,本来想说精神可嘉，结果你们现在都活蹦乱跳的，还把事情丢给我解决，也不知道你们还能干些什么！,"I found your spirit laudable. How disappointing it was to see you hopping about aimlessly, leaving me to do your work. Honestly, what were you doing?","Сначала хотел похвалить ваш боевой дух, но в итоге вы тут все целы и невредимы, а разгребать всё пришлось мне. Даже не знаю, на что вы вообще годны!"
+line-154,监察司,本来想说精神可嘉，结果你们现在都活蹦乱跳的，还把事情丢给我解决，也不知道你们还能干些什么！,"I found your spirit laudable. How disappointing it was to see you hopping about aimlessly, leaving me to do your work. Honestly, what were you doing?","Сначала хотела похвалить ваш боевой дух, но в итоге вы тут все целы и невредимы, а разгребать всё пришлось мне. Даже не знаю, на что вы вообще годны!"
 line-155,监察司,走！去下个地方！,Now! To your place!,Пошли! К следующей точке!
 line-157,近卫局队长,可是你刚才说......,But you just said...,Но вы же только что сказали...
-line-159,监察司,快指路！我都动手了，你们怎么就不知道动作快点！,Chop chop! How have you not learned to move with haste even after witnessing me?,"Дорогу показывай! Раз уж я вступил в бой, могли бы и шевелиться побыстрее!"
-line-160,监察司,对了，刚刚我没出手过，一定给我记住了，明白吗？,"Oh, but of course. You did not witness me. I did nothing. Is that clear?","И кстати — меня здесь не было и я не сражался. Запомните это хорошенько, ясно?"
+line-159,监察司,快指路！我都动手了，你们怎么就不知道动作快点！,Chop chop! How have you not learned to move with haste even after witnessing me?,"Дорогу показывай! Раз уж я вступила в бой, могли бы и шевелиться побыстрее!"
+line-160,监察司,对了，刚刚我没出手过，一定给我记住了，明白吗？,"Oh, but of course. You did not witness me. I did nothing. Is that clear?","И кстати — меня здесь не было и я не сражалась. Запомните это хорошенько, ясно?"
 line-162,近卫局队长,明白！,Crystal!,Так точно!
 line-164,监察司,但百姓要是受到一分一毫的伤害，你们都该撤职，我也得辞职，全部失业！,"But if a single hair on the head of a single commoner comes to harm, you are all terminated. Even I must resign. We are all unemployed.","Но если хоть один мирный житель пострадает, вас всех уволят, а мне придётся уйти в отставку. Все останемся без работы!"
 line-166,近卫局队长,明，明白......我们会尽力的。,"Y- yes, of course... We'll fight with all our strength.","Т-так точно... Мы сделаем всё, что в наших силах."
 line-168,监察司,知道就好！还站在那干嘛？走呀！,Very good. Now why are you just standing there? Move!,То-то же! Чего вы там встали? Живо за мной!
-line-169,监察司,......对了，你们认识那些黑蓑吗？,By the way...? Do you know those Black Cloaks?,"...Кстати, вы знакомы с теми Черными плащами?"
+line-169,监察司,......对了，你们认识那些黑蓑吗？,By the way...? Do you know those Black Cloaks?,"...Кстати, вы знакомы с теми чёрными плащами?"
 line-171,近卫局队长,黑蓑？那是什么？,Black Cloak? What's that?,Чёрные плащи? О чем вы?
-line-173,监察司,眼力太差了吧！就是那些在楼顶上行动的，穿黑色蓑衣的人啊。,"Get your eyes checked! Those people on the rooftops, wearing the billowing black cloaks.","Ну и зрение у вас! Те, что на крышах, в чёрных дождевиках."
+line-173,监察司,眼力太差了吧！就是那些在楼顶上行动的，穿黑色蓑衣的人啊。,"Get your eyes checked! Those people on the rooftops, wearing the billowing black cloaks.","Ну и зрение у вас! Те, что на крышах, в чёрных плащах."
 line-175,近卫局队长,......抱歉长官，你说什么？,"Apologies, Madam. What are you talking about?","...Простите, сэр, что вы сказали?"
 line-185,诗怀雅,盾卫出列！,"Defenders, fan out!","Щитоносцы, выйти вперед!"
 line-187,陈,侦察队，后撤！死守火力点！,"Recon team, fall back! Hold firing position!","Разведка, отступить! Удерживайте огневые позиции любой ценой!"
@@ -104,12 +104,12 @@ line-200,陈,啊。,Huh.,А.
 line-217,诗怀雅,陈警司说了！！！侦察队！！！后撤！！！死守火力点！！！,SUPERINTENDENT CH'EN SAYS: RECON TEAM! FALL BACK! HOLD FIRING POSITION!,Инспектор Чэнь сказала!!! Разведка!!! Назад!!! Удерживать огневые позиции!!!
 line-219,诗怀雅,怎么样？,How was that?,Ну как?
 line-221,陈,啊？,Huh?,А?
-line-223,诗怀雅,我问你怎么样！火力小组，弩弹发射！,"I said how was that?! Fire team, loose explosive bolts!","Я спрашиваю, как я тебе! Огневая группа, залп из арбалетов!"
+line-223,诗怀雅,我问你怎么样！火力小组，弩弹发射！,"I said how was that?! Fire team, loose explosive bolts!","Я спрашиваю, как получилось! Огневая группа, залп из арбалетов!"
 line-240,陈,你说什么？？,What did you say?!,Что ты сказала?!
 line-242,诗怀雅,......,......,...
 line-244,陈,你把我弄耳鸣了！！,Am I deaf now thanks to you?!,У меня из-за тебя в ушах звенит!!
 line-245,陈,去，用你这本领通知带β号源石电台的通讯小组，让他通知其他各大队，牧群棘手，坚守位置，尽量减少伤亡，别省火力！,"Go. Use your talents to get the word out to the communications team at Originium Transciever Beta. Have them tell everyone: the herd is tough, hold your positions, minimize casualties, don't conserve firepower.","Раз так орешь, марш к группе связи с рацией «Ориджиниум-Бета». Пусть передадут остальным отрядам: Стадо опасно, держать позиции. Минимизировать потери, огонь не жалеть!"
-line-247,诗怀雅,你可真是个*不雅用语*！,You really are a *Lungmen profanity*!,Ну ты и *нецензурная брань*!
+line-247,诗怀雅,你可真是个*不雅用语*！,You really are a *Lungmen profanity*!,Ну ты и *Лунмэньское ругательство*!
 line-249,陈,我看到你的嘴型了！,I can read your lips!,"Я видела, что ты прошептала!"
 line-251,诗怀雅,（“丢”音的嘴型）,(Mouthing the word 'diu').,"(Движение губ, напоминающее ругательство)"
 line-253,近卫局成员,陈sir！,Sir!,Офицер Чэнь!
@@ -128,18 +128,18 @@ line-288,近卫局成员,......,......,...
 line-290,陈,说。没关系。,Go ahead. Speak.,Говори. Все в порядке.
 line-292,近卫局成员,我们有......客人。,We have... guests.,У нас... гости.
 line-294,陈,已经来了吗？看来已经顺势混进我们的小队里了。,"Already? They took the chance to infiltrate our unit, huh.","Уже здесь? Похоже, они воспользовались хаосом и внедрились в наш отряд."
-line-295,陈,也算是意料之中。他们不可能真放手让近卫局去做的。,I guess it's to be expected. They were never going to give us free rein.,"Впрочем, ожидаемо. Они бы ни за что не оставили всё на Гвардию."
+line-295,陈,也算是意料之中。他们不可能真放手让近卫局去做的。,I guess it's to be expected. They were never going to give us free rein.,"Впрочем, ожидаемо. Они бы ни за что не оставили всё на ДОЛ."
 line-296,陈,无所谓，不用改变任何计划。让他们看看龙门的实力。,"Anyway, it doesn't change our plans. Let them see how strong Lungmen is.","Неважно, план остается в силе. Пусть увидят мощь Лунмэня."
 line-298,近卫局成员,还有一个消息，我......不知道它的准确性怎么样。,One more thing. I... I'm not sure how accurate the reports are.,"Есть ещё одна новость... не знаю, насколько она достоверна."
 line-300,陈,你说。,Out with it.,Докладывай.
-line-302,近卫局成员,有队员目击到身穿黑色雨披的人。,Some units have reported sightings of individuals wearing black raincoats.,Некоторые бойцы видели людей в чёрных дождевиках.
+line-302,近卫局成员,有队员目击到身穿黑色雨披的人。,Some units have reported sightings of individuals wearing black raincoats.,Некоторые бойцы видели людей в чёрных плащах.
 line-304,陈,整合运动？,Reunion?,Воссоединение?
 line-306,近卫局成员,恰好相反，我们发现的都是整合运动与他们交战的痕迹。而且......,Thankfully no. We've seen evidence of them clashing with Reunion. And...,Наоборот. Мы нашли следы их столкновений с Воссоединением. И...
 line-308,陈,而且什么？,And what?,И что?
 line-310,近卫局成员,而且......那些整合运动的死状都很......,"And... the Reunion they clashed with all seem to have died in, how can I describe it...?","И... то, как погибли эти бойцы Воссоединения... это было..."
-line-312,陈,搞什么都市传说，大晴天的穿着黑色雨披在龙门里神出鬼没？真该去看精神科了......,"Sounds like an urban legend. You've got shadowy figures running around Lungmen in black raincoats on a bright, sunny day? Somebody needs help...",Что за городские легенды? Чтобы кто-то разгуливал по Лунмэню в чёрных плащах среди бела дня? Тебе пора провериться у психиатра...
+line-312,陈,搞什么都市传说，大晴天的穿着黑色雨披在龙门里神出鬼没？真该去看精神科了......,"Sounds like an urban legend. You've got shadowy figures running around Lungmen in black raincoats on a bright, sunny day? Somebody needs help...",Что за городские легенды? Чтобы кто-то разгуливал по Лунмэню в чёрных дождевиках среди бела дня? Тебе пора провериться у психиатра...
 line-316,陈,......,......,...
-line-317,陈,黑色雨披？,Black raincoats?,Чёрные плащи?...
+line-317,陈,黑色雨披？,Black raincoats?,Чёрные дождевики?...
 line-321,灰喉,......,......,...
 line-322,灰喉,这是......什么？,What is... that?,Что... это такое?
 line-327,？？？,......,......,...
@@ -149,7 +149,7 @@ line-330,？？？,前往下一区域。,Moving to next sector.,Переходи
 line-332,牧群,呃......呃......,Guh... Ugh...,Ух... а-а...
 line-333,牧群,（诡异的哭号）,(Strange crying).,(Жуткий вой)
 line-334,整合运动成员,为、为什么！为什么要伤害同胞，醒醒啊！,W- why! Why are you hurting your people? Snap out of it!,За-зачем?! Зачем вы нападаете на своих? Очнитесь!
-line-335,整合运动成员,不、不行！快逃，快逃啊！,N- no! Run! Hurry!,"Нет... не получится! Бегите, скорее бегите!"
+line-335,整合运动成员,不、不行！快逃，快逃啊！,N- no! Run! Hurry!,"Нет-нет! Бегите, скорее бегите!"
 line-336,整合运动成员,你们快走，别被他们抓住！快走啊！,Get out of here! Don't let them get you! Run!,"Уходите, не дайте им поймать вас! Скорее!"
 line-338,？？？,已发现额外目标。,Additional target acquired.,Обнаружены дополнительные цели.
 line-339,？？？,感染者流窜群体，发现于十三区、六区交界。四十四人。,Infected fugitive group on the border of Sectors 13 and 6. 44 individuals.,Группа беглых Инфицированных на границе тринадцатого и шестого секторов. Сорок четыре человека.

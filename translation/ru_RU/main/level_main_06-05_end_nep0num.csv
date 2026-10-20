@@ -7,7 +7,7 @@ char-3,塔露拉,塔露拉,Talulah,Талула
 char-4,霜星,霜星,FrostNova,Фростнова
 char-5,诗怀雅,诗怀雅,Swire,Свайр
 char-6,警员,警员,Guard,Офицер
-char-7,近卫局成员,近卫局成员,L. G. D. Officer,Офицер ДГЛ
+char-7,近卫局成员,近卫局成员,L. G. D. Officer,Офицер ДОЛ
 char-8,？？？,？？？,???,???
 char-9,林雨霞,林雨霞,Lin Yühsia,Линь Юся
 char-10,梅菲斯特,梅菲斯特,Mephisto,Мефисто
@@ -43,13 +43,13 @@ line-54,弑君者,......！,......!,...!
 line-56,霜星,杀完你的仇人，然后呢，你又该做什么？别忘了谁是真正的敌人。,"After you've killed your rival, then what? Don't forget your true enemy.","Убив своих врагов, что ты будешь делать дальше? Не забывай, кто твой настоящий враг."
 line-63,弑君者,——谁！,——Who?!,— Кто там!
 line-71,诗怀雅,给我接那个家伙！,Bring her to me!,Соедините меня с этим типом!
-line-73,警员,抱歉，诗小姐，你在说谁？！,"Sorry, Swire, bring you who?","Простите, мисс Свайр, вы о ком?!"
+line-73,警员,抱歉，诗小姐，你在说谁？！,"Sorry, Swire, bring you who?","Простите, Мисс Свайр, вы о ком?!"
 line-75,诗怀雅,那个家伙！！,Bring her to me!!!,Да про того типа!!
 line-77,警员,呃，啊？,Erm?,"Э-э, а?"
 line-79,警员,（她在说谁啊？）,(Who is she talking about?),(О ком она вообще говорит?)
 line-80,近卫局成员,（可能是说那个吧......）,"(I don't know, maybe...)","(Может, она имеет в виду того самого...)"
 line-82,诗怀雅,粉头发的下水道生物！100800-00200-rct211-93001！拨这个号码，她的电话！,That pink-haired sewer scum! Dial 100800-00200-rct211-93001! That's her number!,"Розоволосая тварь из канализации! 100800-00200-rct211-93001! Набери этот номер, это её телефон!"
-line-84,警员,（这么长？她怎么背得下来的？！）,(How did she memorize a number that long?),(Такой длинный? Как она его запомнила?! )
+line-84,警员,（这么长？她怎么背得下来的？！）,(How did she memorize a number that long?),(Такой длинный? Как она его запомнила?!)
 line-85,近卫局成员,（......这个号码，我有印象，是不是那家的小姐？）,(That number is familiar... Is it that one lady...?),"(...Этот номер, где-то я его видел, это не той ли девицы из той семьи?)"
 line-87,诗怀雅,还在交头接耳个什么！,What are you two whispering about?!,Чего вы там шушукаетесь!
 line-93,？？？,您好。,Hello.,Алло.
@@ -63,7 +63,7 @@ line-106,？？？,如果你是说特殊部队。是我。,"If you're talking ab
 line-108,诗怀雅,......,......,...
 line-109,诗怀雅,林雨霞，我听错了吧，我听错了对不对？,"Lin Yühsia, I think I misheard something. I misheard you, didn't I?","Линь Юся, я ослышалась, правда ведь, я ослышалась?"
 line-111,林雨霞,近卫局有近卫局该做的，我们有我们该做的。,"The L. G. D. has its business, and we have ours.","У ДОЛ свои обязанности, а у нас — свои."
-line-112,林雨霞,魏彦吾想你们维护龙门的秩序，而我们去除那些龙门不需要的东西。,"Wei Yenwu has you to keep order in Lungmen, and we are here to remove that which Lungmen does not need.","Вэй Янву хочет, чтобы вы поддерживали порядок в Лунмэне, а мы устраняем то, что Лунмэню не нужно."
+line-112,林雨霞,魏彦吾想你们维护龙门的秩序，而我们去除那些龙门不需要的东西。,"Wei Yenwu has you to keep order in Lungmen, and we are here to remove that which Lungmen does not need.","Вэй Яньву хочет, чтобы вы поддерживали порядок в Лунмэне, а мы устраняем то, что Лунмэню не нужно."
 line-114,诗怀雅,这支队伍，你知道他们在贫民区里做什么？,You know what this team did in the slums?,"Ты хоть знаешь, что этот отряд вытворяет в трущобах?"
 line-116,林雨霞,他们有好好帮你们消灭整合运动啊。,They helped you deal with Reunion quite efficiently.,Они очень даже прилежно помогают вам уничтожать Воссоединение.
 line-118,诗怀雅,好不容易搭建起来的龙门缓冲社区，这是你父亲的心血！,"That buffer zone was your father's blood, sweat, and tears!","Буферная зона трущоб Лунмэня, которую так трудно было создать — это плод усилий твоего отца!"
@@ -71,12 +71,12 @@ line-119,诗怀雅,如果没有你父亲的努力，现在的龙门怎么可能�
 line-121,林雨霞,你知道他们的目标？,Do you know their objective?,"Ты знаешь, в чём их цель?"
 line-123,诗怀雅,你们已经定好了，说贫民区是整合运动最大的潜藏点和入侵渠道，想要毁掉贫民区！,"You've made it very clear. The slums are full of places for Reunion to hide, not to mention their invasion route. You'd level them!","Вы уже всё решили, объявили трущобы главным логовом Воссоединения и каналом для вторжения, и теперь хотите уничтожить их!"
 line-124,诗怀雅,我说的对不对？,Isn't that right?,Я права или нет?
-line-125,诗怀雅,我们现在和罗德岛联手，整合运动完全不是我们的对手！你们不该做这些！,We're working with Rhodes Island now. Reunion is no match for us! You don't have to do this!,"Мы объединились с Родосом, и Воссоединение» нам теперь не противник! Вы не должны этого делать!"
+line-125,诗怀雅,我们现在和罗德岛联手，整合运动完全不是我们的对手！你们不该做这些！,We're working with Rhodes Island now. Reunion is no match for us! You don't have to do this!,"Мы объединились с Родосом, и Воссоединение нам теперь не противник! Вы не должны этого делать!"
 line-127,林雨霞,又在别人说明之前自顾自地猜测......,Jumping to conclusions before I even have a chance to explain...,"Опять строишь догадки, не дослушав до конца..."
 line-128,林雨霞,虽然整合运动确实不堪一击，但他们从来都不是民间力量能解决的问题。,"While Reunion is certainly no match for us, they're still not a problem for civilian forces to solve.","Хоть Воссоединение и правда слабаки, но это никогда не было проблемой, которую могут решить гражданские силы."
 line-129,林雨霞,运用真正的城邦力量清除威胁，这是我该做的。这是对抗入侵者的必需手段。,We must use the true power of our city to eradicate this threat. This is how I face the invaders.,Использовать реальную силу города-государства для устранения угрозы — это моя работа. Это необходимый метод борьбы с захватчиками.
-line-131,诗怀雅,为什么不相信罗德岛和我们近卫局？,Why can't you put your faith in Rhodes Island and our own L. G. D.?,Почему ты не веришь Родосу и нашему Департаменту охраны?
-line-133,林雨霞,我们不信任罗德岛。以及，为什么要弄脏近卫局的手？,Why should we trust Rhodes Island? And why dirty the hands of the L. G. D.?,"Мы не доверяем Родосу. К тому же, зачем пачкать руки Департаменту охраны?"
+line-131,诗怀雅,为什么不相信罗德岛和我们近卫局？,Why can't you put your faith in Rhodes Island and our own L. G. D.?,Почему ты не веришь Родосу и нашему ДОЛ?
+line-133,林雨霞,我们不信任罗德岛。以及，为什么要弄脏近卫局的手？,Why should we trust Rhodes Island? And why dirty the hands of the L. G. D.?,"Мы не доверяем Родосу. К тому же, зачем пачкать руки ДОЛ?"
 line-135,诗怀雅,......脏手？,What do you mean dirty...?,...Пачкать руки?
 line-136,诗怀雅,别告诉我你们要做绝。那里有你父亲的一切。,Don't tell me you had no other choice. That's your father's land.,"Только не говори мне, что вы собираетесь пойти на крайние меры. Там всё, что было дорого твоему отцу."
 line-138,诗怀雅,跟破坏比起来，建设要艰难得多！,It takes so much more to build than to destroy!,"Созидание дается куда тяжелее, чем разрушение!"
@@ -91,9 +91,9 @@ line-153,林雨霞,感染者......在不断增加。市民恐惧的是感染者�
 line-154,林雨霞,就这样了。别去搜排水系统。,"In short, don't go looking in the sewers.",На этом всё. Не лезь в систему канализации.
 line-158,诗怀雅,啊？,Huh?,А?
 line-159,诗怀雅,喂？喂？！臭老鼠！！,"Hello? Are you there?! Stinking, shit-eating rat!!",Эй? Алло?! Вонючая крыса!!
-line-160,诗怀雅,*龙门粗口粗口粗口*！你敢挂我电话！！你居然敢挂我电话！！,You dare hang up on me! Sei puk gaai syu ah! How dare you hang up on me?!!,*Лунмэньская брань*! Да как ты посмела бросить трубку!! Ты действительно посмела бросить трубку!!
+line-160,诗怀雅,*龙门粗口粗口粗口*！你敢挂我电话！！你居然敢挂我电话！！,You dare hang up on me! Sei puk gaai syu ah! How dare you hang up on me?!!,*Лунмэньское ругательство*! Да как ты посмела бросить трубку!! Ты действительно посмела бросить трубку!!
 line-167,林雨霞,......,......,...
-line-168,林雨霞,黑蓑们被陈逼走了？,Ch'en chased off the Black Cloaks?,Чёрные зонты отступили из-за Чэнь?
+line-168,林雨霞,黑蓑们被陈逼走了？,Ch'en chased off the Black Cloaks?,Чэнь отогнала Чёрных плащей?
 line-169,林雨霞,这可怎么办，我该怎么办......,What to do about that...,"Что же теперь делать, как мне быть..."
 line-170,林雨霞,......他们应该会跳过陈，暗地加快进度。嗯，就这么做。,"They'll move past her, and accelerate the pace. Hm, that will do.","...Они должны обойти Чэнь и тайно ускорить процесс. Да, так и сделаем."
 line-171,林雨霞,爸爸，如果当时的你是现在的我，你也会这么做的，对吧。,"Dad, if you were me, if the younger you were me, this is what you'd do too, isn't it?","Папа, если бы ты оказался на моем месте, ты бы поступил так же, правда?"
@@ -102,9 +102,9 @@ line-179,梅菲斯特,怎么会？你说什么？,What do you mean? That's impos
 line-181,幻影弩手,......你的牧群正在衰亡。,Your herd is shrinking.,...Твое стадо редеет.
 line-182,幻影弩手,虽然一开始它们的攻势确实惊人，但......我们不知道这段时间里发生了什么。根据侦察，他们的数量并没有继续增长。,"The initial attack was ferocious and terrifying, but... We're not really sure why, but our scouts report their numbers aren't growing.","Пусть поначалу их натиск был пугающим, но... мы не знаем, что произошло за это время. Согласно разведданным, их численность больше не растет."
 line-183,幻影弩手,虽然这个战术确实拖延了他们，但目前受到最大损伤的反而是一开始就遭到牧群袭击的整合运动队伍。,"Unfortunately, the group that suffered the most from this tactic was the Reunion squad that sustained the initial attack.","Эта тактика действительно их задержала, но самый большой урон в итоге понесли отряды Воссоединения, на которых стадо напало в самом начале."
-line-185,梅菲斯特,谁？是谁能做到？近卫局......近卫局不可能压制我的牧群！,Who? Who did this? The L. G. D.? The L. G. D. could never suppress my herd!,Кто? Кто способен на такое? Департамент охраны... Департамент охраны не смог бы подавить мое стадо!
+line-185,梅菲斯特,谁？是谁能做到？近卫局......近卫局不可能压制我的牧群！,Who? Who did this? The L. G. D.? The L. G. D. could never suppress my herd!,Кто? Кто способен на такое? ДОЛ... ДОЛ не смог бы подавить моё стадо!
 line-187,幻影弩手,可我们的同胞......,But our people...,Но наши собратья...
-line-189,梅菲斯特,近卫局的战术和装备我都考虑过了，想对抗我的牧群，必须要花上至少两天的时间，究竟是谁压制了我的牧群？！,I took the L. G. D.'s tactics and equipment into consideration. Facing my herd should have delayed them at least two days. So who is it that's done this?!,"Я учел тактику и оснащение Департамента охраны. Чтобы противостоять моему стаду, им понадобилось бы не меньше двух дней. Кто, черт возьми, подавил мое стадо?!"
+line-189,梅菲斯特,近卫局的战术和装备我都考虑过了，想对抗我的牧群，必须要花上至少两天的时间，究竟是谁压制了我的牧群？！,I took the L. G. D.'s tactics and equipment into consideration. Facing my herd should have delayed them at least two days. So who is it that's done this?!,"Я учел тактику и оснащение ДОЛ. Чтобы противостоять моему стаду, им понадобилось бы не меньше двух дней. Кто, черт возьми, подавил мое стадо?!"
 line-191,浮士德,穿黑色雨披的人。,People in black raincoats.,"Тот, кто носит чёрный плащ."
 line-193,幻影弩手,队长！,Captain!,Командир!
 line-195,梅菲斯特,浮士德！,Faust!,Фауст!

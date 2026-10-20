@@ -9,15 +9,15 @@ char-5,陨星,陨星,Meteorite,Метеорит
 char-6,阿米娅,阿米娅,Amiya,Амия
 char-7,杰西卡,杰西卡,Jessica,Джессика
 char-8,罗德岛干员,罗德岛干员,Rhodes Island Operator,Оперативник Родос
-char-9,雪怪小队成员,雪怪小队成员,Yeti Squad Member,Боец отряда Снежные монстры
+char-9,雪怪小队成员,雪怪小队成员,Yeti Squad Member,Боец отряда Йети
 char-10,霜星,霜星,FrostNova,Фростнова
 ,,,,
 line-8,,9：00 A.M. 天气/阴,9:00 A.M. / Overcast,09:00 Утра. Погода: пасмурно
-line-9,,近卫局大楼天台攻防战14小时之前,14 hours before the attack on L. G. D. Headquarters,За 14 часов до сражения на крыше здания Службы безопасности.
+line-9,,近卫局大楼天台攻防战14小时之前,14 hours before the attack on L. G. D. Headquarters,За 14 часов до сражения на крыше здания ДОЛ.
 line-10,,切尔诺伯格分城“14区”废墟上空300米处，“坏家伙”号,'Bad Guy' - 300 Meters above 'District 14' of Chernobog,"300 метров над руинами «Сектора 14» города Чернобог, воздушное судно «Плохиш»"
 line-11,,任务目标：与罗德岛救援小队合流，营救侦察小组,Mission objective: Join forces with Rhodes Island to rescue the reconnaissance team,"Цель миссии: соединиться со спасательным отрядом Родос, эвакуировать разведгруппу"
 line-12,,人员配置：,Assigned assets:,Личный состав:
-line-13,,“坏家伙”号及其飞行员；罗德岛精英干员-煌，及其小队成员,'Bad Guy' and its pilot; Rhodes Island elite operator Blaze and her team.,Воздушное судно «Плохиш» и его пилот; элитный оператор Родоса Блейз и её отряд
+line-13,,“坏家伙”号及其飞行员；罗德岛精英干员-煌，及其小队成员,'Bad Guy' and its pilot; Rhodes Island elite operator Blaze and her team.,Воздушное судно «Плохиш» и его пилот; элитная оперативница Родоса Блейз и её отряд
 line-14,,共一十四人。,14 individuals.,Всего четырнадцать человек.
 line-22,飞行员,我们已经到了，阿米娅她们就在这个位置附近！,This is your stop. Amiya and her people are nearby!,"Мы на месте, Амия и остальные где-то здесь!"
 line-23,飞行员,把小队放在城外，真的好吗？我们现在只有两个人，你下去你只有一个人！,Was it really okay to drop the team outside the city? You're gonna go down there by yourself?!,"Ты уверен, что стоит оставлять отряд за городом? Нас всего двое, а если ты спустишься, останешься один!"
@@ -41,11 +41,11 @@ line-60,飞行员,我在废城出口等你们。动作快点！,I'll wait for yo
 line-61,飞行员,啊，有联络。,Huh? The comms.,"О, связь."
 line-64,？？？,喂！！,HELLO?!,ЭЙ!!
 line-66,飞行员,......我听得到！声音别那么大！,I can hear you! You don't have to yell!,...Я слышу! Не ори так!
-line-68,？？？,啊，罗德岛频道的干员，你好！我是近卫局的，已经在废城出口处和你们的小队汇合了！,"Oh. Hi, Rhodes Islanders. I'm with the L. G. D. I've met up with your team by the ruins!","А, оператор канала Родос, привет! Я из Службы безопасности, уже встретилась с вашим отрядом у выхода из мёртвого города!"
-line-70,煌,近卫局不是撤离了吗？现在又是演什么戏？,Didn't the L. G. D. withdraw already? What are you trying to pull?,Разве Служба безопасности не эвакуировалась? Что они опять затеяли?
-line-72,？？？,我和另外那个姓陈的可不一样！相信我，我是来帮你们的。,"I'm not like that Ch'en lady! Trust me, I can help you.","Я не такая, как та, по фамилии Чэнь! Поверь, я пришла помочь вам."
+line-68,？？？,啊，罗德岛频道的干员，你好！我是近卫局的，已经在废城出口处和你们的小队汇合了！,"Oh. Hi, Rhodes Islanders. I'm with the L. G. D. I've met up with your team by the ruins!","А, оперативник канала Родос, привет! Я из ДОЛ, уже встретилась с вашим отрядом у выхода из мёртвого города!"
+line-70,煌,近卫局不是撤离了吗？现在又是演什么戏？,Didn't the L. G. D. withdraw already? What are you trying to pull?,Разве ДОЛ уже не отступил? Что они опять затеяли?
+line-72,？？？,我和另外那个姓陈的可不一样！相信我，我是来帮你们的。,"I'm not like that Ch'en lady! Trust me, I can help you.","Я не такая, как та другая Чэнь! Поверь, я пришла помочь вам."
 line-74,飞行员,请问贵姓？,And how should we call you?,Как ваша фамилия?
-line-76,？？？,免贵，叫代号吧，诗怀雅长官好了！,Use my codename. Call me Officer Swire!,"Не важно, зовите по позывному, Свайр одобряет!"
+line-76,？？？,免贵，叫代号吧，诗怀雅长官好了！,Use my codename. Call me Officer Swire!,"Не важно, зовите по позывному: офицер Свайр!"
 line-78,飞行员,......,......,...
 line-79,飞行员,那不就是姓？！,Isn't Swire just your name?,Это же фамилия?!
 line-80,飞行员,煌，你来处理下，我不知道怎么对付官员......,"Blaze, can you take care of this? I'm not good with bureaucrats...","Блейз, разберись с этим, я не знаю, как общаться с чиновниками..."
@@ -57,17 +57,17 @@ line-89,飞行员,飞吻个鬼啊！！,Mwah my ass!,Какого чёрта т�
 line-98,霜叶,呼，呼......,*Pant* *pant*...,"Фух, фух..."
 line-100,陨星,......她还好吧？,...Is she okay?,...Она в порядке?
 line-102,阿米娅,嗯，已经没有大碍，只是体温还有点低。,"Yes, it's nothing serious. Just her body temperature's a little low.","Да, самое страшное позади, но температура тела всё ещё низкая."
-line-104,霜叶,从来......就都很低。我没事了，让我......,It's always... low. I'm fine. I just...,"Она... всегда низкая. Я в порядке, дайте мне..."
+line-104,霜叶,从来......就都很低。我没事了，让我......,It's always... low. I'm fine. I just...,"Всегда... была низкой. Я в порядке, дайте мне..."
 line-106,阿米娅,霜叶......别急。你现在的体温，和平常比还是低了一点。,"Frostleaf, slow down. Your temperature is even lower than usual.",Фростлиф... не торопись. Твоя температура всё ещё ниже нормы.
 line-107,阿米娅,博士，请帮我拿一下绷带。,"Doctor, pass me a bandage.","Доктор, пожалуйста, подай мне бинты."
 line-109,,好的。,Here.,Хорошо.
-line-112,霜叶,说了，我很好。陨星的伤才更重。,"I told you, I'm fine. Meteorite got hit a lot harder.","Я же сказала, я в порядке. У Метеор раны серьёзнее."
+line-112,霜叶,说了，我很好。陨星的伤才更重。,"I told you, I'm fine. Meteorite got hit a lot harder.","Я же сказала, я в порядке. У Метеорита раны серьёзнее."
 line-114,陨星,不要紧。怎么说我也是个萨卡兹人，我还是更担心你一点。,It's okay. I'm a Sarkaz. I'm more worried about you.,"Ничего страшного. Я всё-таки саркази, за тебя я волнуюсь больше."
-line-116,阿米娅,杰西卡，雪怪小队的动向呢？,"Jessica, what is Yeti Squad doing?","Джессика, что там с отрядом «Снежников»?"
+line-116,阿米娅,杰西卡，雪怪小队的动向呢？,"Jessica, what is Yeti Squad doing?","Джессика, что там с отрядом «Йети»?"
 line-118,杰西卡,正，正在向我们的位置靠近！还有五百米左右！,Th- they're approaching our position! About 500 meters out!,"Они, они приближаются к нашей позиции! Примерно пятьсот метров!"
 line-120,阿米娅,排障作业还没完成吗？,And the debris clearing?,Работы по расчистке ещё не завершены?
 line-122,罗德岛干员,还要至少十五分钟！这里倒塌的建筑，结构比较复杂，我们不敢直接进行爆破作业。,We need about fifteen more minutes. The collapsed building has a pretty complicated superstructure and we can't risk blasting here.,"Осталось минимум пятнадцать минут! У завалов сложная структура, мы не рискуем проводить подрывные работы напрямую."
-line-124,阿米娅,......陨星，做好战斗准备。我们要再维持一会儿防线。,"Meteorite, get ready to fight. We have to hold this line.","...Метеор, готовься к бою. Нам нужно продержаться на этой линии обороны ещё некоторое время."
+line-124,阿米娅,......陨星，做好战斗准备。我们要再维持一会儿防线。,"Meteorite, get ready to fight. We have to hold this line.","...Метеорит, готовься к бою. Нам нужно продержаться на этой линии обороны ещё некоторое время."
 line-126,陨星,明白。你们带弩弹储备了吗？,Roger. Do we have a stock of bolts?,Поняла. Вы взяли запас арбалетных болтов?
 line-128,阿米娅,有的，让后勤干员给你......,Yes. Logistics can get them for you...,"Да, я попрошу тыловой отряд передать их тебе..."
 line-131,？？？,阿米娅在不在？,"Amiya, are you there?",Амия на связи?
@@ -75,12 +75,12 @@ line-133,阿米娅,......,......,...
 line-135,杰西卡,......,......,...
 line-138,罗德岛干员,......呃。,...guh.,...Эээ.
 line-140,阿米娅,是不是有谁的通讯频道是一直开着的？,Did somebody leave their comms open?,У кого-то открыт канал связи?
-line-143,？？？,这可是精英干员专用频道，我是能从我这边直接打开的。,"This is the elite operators' channel, I can open it from my end.","Это же спецканал элитных операторов, я могу подключиться напрямую."
+line-143,？？？,这可是精英干员专用频道，我是能从我这边直接打开的。,"This is the elite operators' channel, I can open it from my end.","Это же спецканал элитных оперативников, я могу подключиться напрямую."
 line-145,杰西卡,这个声音是......？,That voice...?,Этот голос...?
 line-147,霜叶,完了。居然派了她。,Oh no. They sent her.,Всё кончено. Её послали.
 line-149,杰西卡,请问......是谁？,Um... who is it?,Извините... кто это?
-line-152,,是啊，这是哪个干员，怎么这么激情？;......;她真能改善现在的局势吗？,"Yes, who is this? And what's got her so excited?;......;Can she really make a difference here?","Действительно, кто этот оператор, почему она такая энергичная?;...;Сможет ли она хоть как-то изменить ситуацию?"
-line-155,霜叶,一个叫煌的，能把身边所有东西全拆掉，还让所有人都流一身汗的干员。,They call her Blaze. She can certainly level the whole area and leave everyone pissing themselves.,"Оператор по имени Блейз, способная разнести всё вокруг и заставить всех вокруг вспотеть."
+line-152,,是啊，这是哪个干员，怎么这么激情？;......;她真能改善现在的局势吗？,"Yes, who is this? And what's got her so excited?;......;Can she really make a difference here?","Действительно, кто эта оперативница, почему она такая энергичная?;...;Сможет ли она хоть как-то изменить ситуацию?"
+line-155,霜叶,一个叫煌的，能把身边所有东西全拆掉，还让所有人都流一身汗的干员。,They call her Blaze. She can certainly level the whole area and leave everyone pissing themselves.,"Оперативница по имени Блейз, способная разнести всё вокруг и заставить всех вокруг вспотеть."
 line-158,煌,没错，是我！最后一个评价不太对啊。,Damn right it's me! But that last part is a little off.,"Верно, это я! Хотя насчёт последнего пункта — не совсем точно."
 line-160,阿米娅,别......别插科打诨了。,Please... let's be serious here.,Хватит... хватит шутить.
 line-161,阿米娅,煌，你在哪，我们需要你的支援。,"Where are you, Blaze? We need your support.","Блейз, где ты? Нам нужна твоя поддержка."
@@ -101,7 +101,7 @@ line-195,阿米娅,如果可以的话，我不要。你的小队呢？,I think I
 line-198,煌,留在城外了，一会儿就由他们来接应。,I left them outside the city. They'll be here in a bit.,"Оставила за городом, скоро они подойдут и помогут."
 line-200,阿米娅,风声很大，把通讯器关了！,I can't hear anything over the wind. Turn off your comms!,"Здесь очень ветрено, выключите передатчики!"
 line-201,阿米娅,各位......我们支援一下煌吧。,Everyone... move to support Blaze.,Все... давайте окажем поддержку Блейз.
-line-202,阿米娅,Dr.{@nickname}，一会儿无论她说什么。,"Dr. {@nickname}, no matter what she says...","Доктор, что бы она ни говорила,"
+line-202,阿米娅,Dr.{@nickname}，一会儿无论她说什么。,"Dr. {@nickname}, no matter what she says...","Доктор {@nickname}, что бы она ни говорила,"
 line-203,阿米娅,......都点头就好。,...just nod.,...просто кивни.
 line-206,,......？,......?,...?
 line-221,雪怪小队成员,掉下来的这是......,It dropped something...,"То, что спрыгнуло..."

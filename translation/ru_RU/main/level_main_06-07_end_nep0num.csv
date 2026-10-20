@@ -4,7 +4,7 @@ __language__,,Language,en_US,ru_RU
 char-1,煌,煌,Blaze,Блейз
 char-2,阿米娅,阿米娅,Amiya,Амия
 char-3,霜星,霜星,FrostNova,Фростнова
-char-4,雪怪小队成员,雪怪小队成员,Yeti Squad Member,Боец отряда Снежные монстры
+char-4,雪怪小队成员,雪怪小队成员,Yeti Squad Member,Боец отряда Йети
 char-5,陨星,陨星,Meteorite,Метеорит
 char-6,杰西卡,杰西卡,Jessica,Джессика
 char-7,霜叶,霜叶,Frostleaf,Фростлиф
@@ -80,7 +80,7 @@ line-161,陨星,好，我带阿米娅走！,"Okay, I've got Amiya!","Хорош�
 line-164,阿米娅,放手！,Put me down!,Отпусти!
 line-166,煌,阿米娅，你走，我来帮博士！相信我作为罗德岛干员的实力！,"Amiya, go. I'll get the Doctor! I'm an elite operator, I can do it!","Амия, уходи, я помогу Доктору! Поверь в мою силу как оперативника Родос!"
 line-168,阿米娅,......,......,...
-line-170,煌,嘁，看来还是要流点血。,"Welp, looks like we're not quite done.","Черт, похоже, без крови не обойтись."
+line-170,煌,嘁，看来还是要流点血。,"Welp, looks like we're not quite done.","Тц... Похоже, без крови не обойтись."
 line-172,煌,博士，我会用气流和真空压减缓你的坠落速度，撑开你身边的建筑，放心，它们压不到你！,"Doctor, I'm going to use airflow and pressure to slow your fall and push away the building beside you. Don't worry, it won't crush you!","Доктор, я замедлю ваше падение с помощью потока воздуха и вакуумного давления, раздвину здания вокруг вас, не волнуйтесь, они вас не раздавят!"
 line-173,煌,不要怕！千万不要怕！,Just don't panic! I've got you!,Не бойтесь! Ни в коем случае не бойтесь!
 line-174,煌,......一会儿见！,...See you soon!,...Увидимся!
@@ -95,14 +95,14 @@ line-204,雪怪小队成员,罗德岛的兔子，我们暂时休战怎么样？�
 line-206,阿米娅,可是各位......,But...,"Но, ребята..."
 line-208,雪怪小队成员,梅菲斯特告知大姊，说你杀了亚历克斯，所以大姊非常担忧你们接下来的行动。,"Mephisto told our sister you'd killed Alex, and she was very concerned about what you would do next.","Мефисто сказал старшей сестре, что ты убила Алекса, поэтому она очень переживала из-за ваших дальнейших действий."
 line-210,阿米娅,......亚历克斯是？,...Who's Alex?,...Кто такой Алекс?
-line-212,雪怪小队成员,碎骨。,Skullshatterer.,Скуллшэттер.
-line-214,阿米娅,很抱歉。碎骨确实是被我杀害的。,I'm sorry. I did kill Skullshatterer.,Мне очень жаль. Скуллшэттера действительно убила я.
+line-212,雪怪小队成员,碎骨。,Skullshatterer.,Скуллшаттерер.
+line-214,阿米娅,很抱歉。碎骨确实是被我杀害的。,I'm sorry. I did kill Skullshatterer.,Мне очень жаль. Скуллшаттерера действительно убила я.
 line-216,雪怪小队成员,......哎。,...Oh.,...Эх.
 line-218,阿米娅,感染者本来不该相互为敌的。很抱歉。,Infected really should not fight one another. I'm sorry.,Инфицированные не должны воевать друг с другом. Мне очень жаль.
 line-220,雪怪小队成员,有什么好道歉的？你们当时在交战吧？,"What's to apologize for? It was a battle, wasn't it?","Чего извиняться? Вы же были в состоянии боя, верно?"
 line-222,阿米娅,是。,It was.,Да.
 line-224,雪怪小队成员,那我们停火吧。大熊，你怎么说？,"So let's have a ceasefire. Nesti, what do you say?","Тогда давайте прекратим огонь. Большой Медведь, что скажешь?"
-line-226,雪怪小队成员,啊？*乌萨斯粗口*！,Huh? *Ursine profanity*!,А? *Урсутская брань*!
+line-226,雪怪小队成员,啊？*乌萨斯粗口*！,Huh? *Ursine profanity*!,А? *Урсусское ругательство*!
 line-228,雪怪小队成员,大熊说他也没问题。,Nesti says he's fine with it.,"Большой Медведь говорит, что он тоже не против."
 line-230,霜叶,我觉得他不是这么说的。,I don't think that's what he said.,"Мне кажется, он сказал не совсем это."
 line-232,雪怪小队成员,只要不在交战状态，就没理由再让谁去杀谁了吧？,"As long as we're not in battle, there's no reason to kill anyone, right?","Раз мы не в бою, то нет причины заставлять кого-то убивать кого-то, верно?"

@@ -5,14 +5,14 @@ char-1,阿米娅,阿米娅,Amiya,Амия
 char-2,罗德岛干员,罗德岛干员,Rhodes Island Operator,Оперативник Родос
 char-3,牧群,牧群,Herd,Стадо
 char-4,陈,陈,Ch'en,Чэнь
-char-5,近卫局成员,近卫局成员,L. G. D. Officer,Офицер ДГЛ
+char-5,近卫局成员,近卫局成员,L. G. D. Officer,Офицер ДОЛ
 char-6,？？？,？？？,???,???
 char-7,诗怀雅,诗怀雅,Swire,Свайр
 ,,,,
 line-8,阿米娅,......毫无人性。,They've lost all humanity...,...Нет никакой человечности.
 line-10,罗德岛干员,阿米娅......,Amiya...,Амия...
 line-12,阿米娅,嗯，我没事。,Yeah. I'm fine.,"Мх, со мной всё в порядке."
-line-13,阿米娅,依然能联系上煌、博士，以及灰喉吧？,"Can we still reach Blaze, Doctor, and GreyThroat?","Мы по-прежнему можем связаться с Блейз, Доктором и Грейтроат, верно?"
+line-13,阿米娅,依然能联系上煌、博士，以及灰喉吧？,"Can we still reach Blaze, Doctor, and GreyThroat?","Мы по-прежнему можем связаться с Блейз, Доктором и Грейтроут, верно?"
 line-15,罗德岛干员,没问题的。,No problem.,"Да, без проблем."
 line-17,阿米娅,好。保持通讯，为她们指引方位。,Good. Keep in touch with them. Help them find their way.,Хорошо. Поддерживайте связь и направляйте их.
 line-20,牧群,......,......,...
@@ -21,7 +21,7 @@ line-23,阿米娅,......现在的你们，我已经感受不到感情了。原�
 line-24,阿米娅,梅菲斯特怨恨的毒......我一定会清理干净。,I have to cleanse it... the poison of Mephisto's hate.,Я обязательно очищу этот яд ненависти Мефисто.
 line-25,阿米娅,我答应你们，我一定会。,I promise. I will.,"Я обещаю вам, я обязательно это сделаю."
 line-33,陈,我们已经清理了沿途的整合运动，抵达预定地点。但我们发现贫民区内的状况有些异样。,I've finished mopping up the Reunion stragglers and reached the waypoint. But we've found the situation in the slums is not what we expected.,"Мы зачистили путь от Воссоединения и прибыли на место. Однако мы обнаружили, что в трущобах происходит что-то странное."
-line-34,陈,驻守这个区域入口的近卫局小队并没有发现整合运动的踪迹，我想，我需要调查一下周围的情况。,The L. G. D. unit guarding the area found no traces of Reunion. I'm going to have to investigate myself.,"Отряд Департамента охраны, охраняющий вход в этот район, не обнаружил следов Воссоединения. Думаю, мне нужно изучить окрестности."
+line-34,陈,驻守这个区域入口的近卫局小队并没有发现整合运动的踪迹，我想，我需要调查一下周围的情况。,The L. G. D. unit guarding the area found no traces of Reunion. I'm going to have to investigate myself.,"Отряд ДОЛ, охраняющий вход в этот район, не обнаружил следов Воссоединения. Думаю, мне нужно изучить окрестности."
 line-35,陈,变异感染者的数量正在被削减？是你们的战果吗？,There's been a reduction in the Infected mutants? Is that your doing?,Количество мутировавших инфицированных сокращается? Это ваших рук дело?
 line-36,陈,不是？,No?,Нет?
 line-37,陈,......小心。未查明的事情背后往往潜伏着危险。,Stay frosty... You never know what danger might be hiding in the shadows.,...Будьте осторожны. За невыясненными обстоятельствами часто кроется опасность.
@@ -54,7 +54,7 @@ line-86,陈,你在抱歉什么？,What are you apologizing for?,За что ты
 line-88,近卫局成员,不知道，sir！,"I don't know, Sir!","Не знаю, офицер!"
 line-90,陈,......行了。是啊，凭什么要你们关心这里？,Whatever... Why should you care about anyone in a place like this?,"...Ладно. Да уж, с какой стати вам заботиться о том, что происходит здесь?"
 line-92,陈,现在，立刻派队封锁整个区域！,Hurry up and send out some teams to lock down the area!,А теперь немедленно отправьте отряд оцепить весь район!
-line-93,陈,不要让任何一个人、一辆交通工具漏过去，不管是整合运动还是什么东西！,No one gets in or out. No vehicles either. Reunion or otherwise!,"Никто и ни одно транспортное средство не должны проскользнуть мимо, будь то Воссоединение» или кто-то другой!"
+line-93,陈,不要让任何一个人、一辆交通工具漏过去，不管是整合运动还是什么东西！,No one gets in or out. No vehicles either. Reunion or otherwise!,"Никто и ни одно транспортное средство не должны проскользнуть мимо, будь то Воссоединение или кто-то другой!"
 line-94,陈,接下来，你，你，跟着我。我们去北边看看！,As for you... You come with me. We're going north.,"Дальше ты и ты — за мной. Мы отправимся на север и посмотрим, что там!"
 line-96,近卫局成员,是！,"Yes, Sir!",Есть!
 line-98,陈,（等等，别出声！）,(Shh. Don't make a sound!),"(Подождите, не шумите!)"
@@ -73,23 +73,23 @@ line-123,陈,......,......,...
 line-124,陈,是谁派你们来的？,Who sent you?,Кто вас послал?
 line-126,？？？,我没有向你解释的义务。,I do not answer to you.,Я не обязана перед тобой отчитываться.
 line-128,陈,你是不是想逃跑？如果你逃跑，我就立刻缉捕你们。,You think you can run? Try and I'll arrest you on the spot.,"Ты пытаешься сбежать? Если ты попытаешься, я немедленно прикажу вас арестовать."
-line-129,陈,没有人会相信一群不知来源没有身份的暴力武装分子，近卫局会严肃对待你们，甚至将你们直接击毙。,You're an unidentified armed element of unknown origin. How do you think the L. G. D. is going to treat you? We might just shoot you dead.,Никто не поверит группе вооруженных боевиков без опознавательных знаков. Департамент охраны отнесётся к вам со всей строгостью и при необходимости ликвидирует на месте.
-line-131,？？？,重新训练一支近卫局队伍会耗费龙门大量的时间、资产与人才。,"Training a new L. G. D. unit would be a waste of Lungmen's time, treasure, and talent.","На переподготовку нового отряда Департамента охраны у Лунмэня уйдёт много времени, средств и ценных кадров."
-line-132,？？？,损失整个近卫局，相当于折毁龙门民众的心理支柱。这不是你该冒的风险。,And eradicating the entire L. G. D. would be a crushing blow to the heart of the Lungmen community. You should not take the risk.,Потеря всего Департамента охраны равносильна подрыву психологической опоры граждан Лунмэня. Ты не должна идти на такой риск.
+line-129,陈,没有人会相信一群不知来源没有身份的暴力武装分子，近卫局会严肃对待你们，甚至将你们直接击毙。,You're an unidentified armed element of unknown origin. How do you think the L. G. D. is going to treat you? We might just shoot you dead.,Никто не поверит группе вооруженных боевиков без опознавательных знаков. ДОЛ отнесётся к вам со всей строгостью и при необходимости ликвидирует на месте.
+line-131,？？？,重新训练一支近卫局队伍会耗费龙门大量的时间、资产与人才。,"Training a new L. G. D. unit would be a waste of Lungmen's time, treasure, and talent.","На переподготовку нового отряда ДОЛ у Лунмэня уйдёт много времени, средств и ценных кадров."
+line-132,？？？,损失整个近卫局，相当于折毁龙门民众的心理支柱。这不是你该冒的风险。,And eradicating the entire L. G. D. would be a crushing blow to the heart of the Lungmen community. You should not take the risk.,Потеря всего ДОЛ равносильна подрыву психологической опоры граждан Лунмэня. Ты не должна идти на такой риск.
 line-134,陈,哈，我是该先对你的威胁感到“害怕”，还是该先谢谢你认真考虑了龙门的未来？,Hah! Is that threat supposed to scare me? Or should I be thanking you for your concern over Lungmen's future?,"Ха, мне сначала «испугаться» твоей угрозы или поблагодарить за то, что ты так заботишься о будущем Лунмэня?"
-line-136,？？？,陈，近卫局是龙门的颜面，也是龙门的支柱，龙门最出色的常规力量之一。,"Ch'en, the L. G. D. is the face of Lungmen, as well as a pillar of her community, and an exemplary show of her strength.","Чэнь, Департамент охраны — это лицо Лунмэня, его опора и одна из самых выдающихся регулярных сил города."
-line-137,？？？,除此之外的职务，近卫局不要染指。,And the L. G. D. should stay in its lane.,Департамент не должен совать нос в дела за пределами своих полномочий.
+line-136,？？？,陈，近卫局是龙门的颜面，也是龙门的支柱，龙门最出色的常规力量之一。,"Ch'en, the L. G. D. is the face of Lungmen, as well as a pillar of her community, and an exemplary show of her strength.","Чэнь, ДОЛ — это лицо Лунмэня, его опора и одна из самых выдающихся регулярных сил города."
+line-137,？？？,除此之外的职务，近卫局不要染指。,And the L. G. D. should stay in its lane.,ДОЛ не должен совать нос в дела за пределами своих полномочий.
 line-138,？？？,也不该染指。,Don't let it stick its nose where it doesn't belong.,И не должен совать.
 line-140,陈,威胁我没有用。回答问题，这片区域的居民去了哪里？,Your threats are really not impressing me. Hurry up and answer the question: where did all the locals go?,"Угрозы на меня не действуют. Отвечай на вопрос, куда делись жители этого района?"
 line-142,？？？,——,——,—
-line-144,陈,我的手指就按在全员通报键上，你们想和近卫局全面为敌只要短短一秒。,You're one tap of this 'alert all units' button away from making an enemy out of the entire L. G. D. ,"Мой палец лежит на кнопке общей тревоги. Достаточно одной секунды, чтобы объявить вас врагами Департамента охраны."
+line-144,陈,我的手指就按在全员通报键上，你们想和近卫局全面为敌只要短短一秒。,You're one tap of this 'alert all units' button away from making an enemy out of the entire L. G. D. ,"Мой палец лежит на кнопке общей тревоги. Достаточно одной секунды, чтобы объявить вас врагами ДОЛ."
 line-145,陈,或者，你可以在一秒钟之内，偏转我的剑刃，切掉我的手臂，拿下通讯器。,"Or I guess you could take a split second to knock away my sword, slice off my arm, and snatch away this transceiver. ","Или ты можешь за секунду выбить мой клинок, отрубить мне руку и отобрать рацию."
 line-146,陈,贫民区的居民究竟去了哪里？,Where did all the slum dwellers go?,Так куда же делись жители трущоб?
 line-148,？？？,我们会退出这里。陈，我们一起退出。现在这段时间，我们互不干扰。,"We will withdraw from this place. Ch'en, you and I both withdraw. For now, let us not interfere with one another.","Мы покинем это место. Чэнь, мы уйдём вместе. На данный момент мы не будем вмешиваться в дела друг друга."
 line-150,陈,你想去哪？,And where is it you think you're going?,Куда вы направляетесь?
 line-152,？？？,整合运动指挥官操纵的新型感染者，很可能会阻碍全盘战略的实施。,These new-type Infected Reunion is controlling may well interfere with our carefully laid plans.,"Новый тип инфицированных, управляемый командиром Воссоединения, может помешать реализации общей стратегии."
-line-153,？？？,我们会为近卫局快速消除他们的威胁，请迅速歼灭整合运动的主要部队。,"We will swiftly remove them for the L. G. D., please do your part to exterminate Reunion's main force.","Мы поможем Департаменту охраны быстро устранить эту угрозу, а вы займитесь уничтожением основных сил Воссоединения."
-line-154,？？？,如果近卫局想要实现原本的战略目标，就该把眼光放在自己的职责上。做好你们该做的事。,"If the L. G. D. seeks to actualize its strategic goals, it should focus on its own duties. You must do that which you must do.","Если Департамент хочет достичь своих стратегических целей, вам стоит сосредоточиться на своих обязанностях. Занимайтесь тем, что должны."
+line-153,？？？,我们会为近卫局快速消除他们的威胁，请迅速歼灭整合运动的主要部队。,"We will swiftly remove them for the L. G. D., please do your part to exterminate Reunion's main force.","Мы поможем ДОЛ быстро устранить эту угрозу, а вы займитесь уничтожением основных сил Воссоединения."
+line-154,？？？,如果近卫局想要实现原本的战略目标，就该把眼光放在自己的职责上。做好你们该做的事。,"If the L. G. D. seeks to actualize its strategic goals, it should focus on its own duties. You must do that which you must do.","Если ДОЛ хочет достичь своих стратегических целей, вам стоит сосредоточиться на своих обязанностях. Занимайтесь тем, что должны."
 line-156,陈,等下！你想就这样离开？,Wait! You think you can just leave?,"Постой! Думаешь, так просто уйти?"
 line-157,陈,想来就来，想走就走？！,Come and go as you please?!,"Пришли, когда захотели, и уходите, когда захотели?!"
 line-159,？？？,陈警司，提醒你一句。,"Superintendent Ch'en, let me give you a suggestion.","Инспектор Чэнь, позвольте дать вам совет."
