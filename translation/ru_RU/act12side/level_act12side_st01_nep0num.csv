@@ -15,7 +15,7 @@ char-8,白雪,白雪,Shirayuki,Сираюки
 char-9,护卫,护卫,Bodyguard,Стражник
 char-10,？？？,？？？,???,???
 char-11,坎黛拉,坎黛拉,Candela,Кандела
-char-12,陈&林雨霞,陈&林雨霞,Ch'en & Lin Yühsia,Чэнь & Лин Юйся
+char-12,陈&林雨霞,陈&林雨霞,Ch'en & Lin Yühsia,Чэнь & Линь Юся
 char-13,埃内斯托,埃内斯托,Ernesto,Эрнесто
 ,,,,
 line-11,海选主持人,这可真是太惊人了！没想到在万众瞩目的混战海选中，居然发生了这样的事！,"Well, if this isn't a shocker! Who could have known this would happen during the highly-anticipated scrimmage preliminaries?!","Это просто поразительно! Кто бы мог подумать, что на этом отборочном этапе в режиме «королевской битвы», к которому приковано столько внимания, произойдет нечто подобное!"
@@ -45,7 +45,7 @@ line-142,鼠王,她倒是不死心，每年这个时候都会给我和魏彦吾�
 line-144,林雨霞,商业联盟......哥伦比亚的那座？,Commercial alliance... The one in Columbia?,Торговый союз... из Колумбии?
 line-146,鼠王,不，玻利瓦尔的，你应当听说过，她是那里的市长。,"No, it's in Bolívar. You heard of it before. She's the mayor there.","Нет, из Боливара. Ты, наверное, слышала о ней, она там мэр."
 line-148,林雨霞,多索雷斯，坎黛拉·桑切斯？,Dossoles... Candela Sanchez?,"Досолес, Кандела Санчес?"
-line-149,林雨霞,那座城市，据说是个销金窟......父亲不去？,I heard that place is a money sink... Are you not going?,"Говорят, этот город — настоящая золотая жила... Отец, ты не поедешь?"
+line-149,林雨霞,那座城市，据说是个销金窟......父亲不去？,I heard that place is a money sink... Are you not going?,"Говорят, этот город — настоящая пропасть для денег... Отец, ты не поедешь?"
 line-151,鼠王,山高路远，过去作甚？我的老胳膊老腿可经不起折腾。,"It's halfway across the world, and what would I do there? My arms and legs are too old for that kind of abuse.","Путь неблизкий, зачем туда ехать? Мои старые кости такую дорогу не выдержат."
 line-152,鼠王,况且就算我想去，魏彦吾去不了就没有意义。,"Besides, even if I were in the mood for a trip, it's meaningless if Wei Yenwu doesn't go.","К тому же, даже если бы я захотел, нет смысла ехать, если Вэй Яньу не поедет."
 line-154,林雨霞,也是，对方想要交好的必是身为龙门长官的魏先生，而魏先生公事缠身，确实无法随意出行。,"That's right. The one they want to butter up to is the Chief of Lungmen, Mr. Wei, and it's true that he doesn't have the luxury to take a trip now, given all the responsibilities on his shoulders.","Верно, ей, должно быть, хочется наладить связи с господином Вэем как с главой Лунмэня, а он вечно занят делами и не может просто так уехать."
@@ -58,52 +58,52 @@ line-168,鼠王,嗯？文月夫人打来的电话？,Hm? A phone call from Lady 
 line-172,文月,林先生，是我。,"Mr. Lin, it's me.","Господин Линь, это я."
 line-174,鼠王,文月夫人，您怎么想起给我打电话了？,"Lady Fumizuki, to what do I owe the pleasure?","Госпожа Фумидзуки, с чего это вы решили мне позвонить?"
 line-176,林雨霞,是文月夫人的电话？那我不打扰......,A phone call from Lady Fumizuki? I'll give you the room...,Звонит госпожа Фумидзуки? Тогда я не буду мешать...
-line-178,文月,雨霞也在吗？别走，正好留下来，我要说的事与她有关。,Is that Yühsia? Ask her to stay. This has to do with her as well.,"Юйся тоже там? Не уходи, останься, то, что я хочу сказать, касается и её."
-line-180,鼠王,雨霞，留下。,"Yühsia, stay.","Юйся, останься."
+line-178,文月,雨霞也在吗？别走，正好留下来，我要说的事与她有关。,Is that Yühsia? Ask her to stay. This has to do with her as well.,"Юся тоже там? Не уходи, останься, то, что я хочу сказать, касается и её."
+line-180,鼠王,雨霞，留下。,"Yühsia, stay.","Юся, останься."
 line-182,林雨霞,是。,Alright.,Хорошо.
 line-187,文月,林先生，那封请帖你那边也收到了吧？,"Mr. Lin, I'm sure you, too, received the invitation?","Господин Линь, вы ведь получили то приглашение?"
 line-189,鼠王,一如既往。文月夫人有何指教？,As always. Is something the matter?,"Как обычно. Госпожа Фумидзуки, у вас есть какие-то указания?"
 line-191,文月,虽然我还是挺想去那里度假的，不过彦吾这人你也知道，他这个人，懒得很。,"Personally, I am quite fond of the idea of going on a holiday there, but you know how Yenwu is. You couldn't find a lazier person if you tried.","Хотя мне очень хотелось бы отправиться туда на отдых, вы ведь знаете Яньу, он человек очень ленивый."
 line-193,鼠王,是，不过看来文月夫人另有想法？,Of course. But it seems you have a different idea?,"Верно, но, кажется, у вас другие мысли, госпожа Фумидзуки?"
-line-195,文月,我想让雨霞代表彦吾过去。,I would like Yühsia to visit the city in Yenwu's stead.,"Я хочу, чтобы Юйся поехала туда от имени Яньу."
+line-195,文月,我想让雨霞代表彦吾过去。,I would like Yühsia to visit the city in Yenwu's stead.,"Я хочу, чтобы Юся поехала туда от имени Яньу."
 line-197,鼠王,这......,That's...,Это...
 line-199,文月,彦吾那边我会说服他，你不用担心。,I will persuade Yenwu. You needn't worry.,"Я убежу Яньу, не волнуйтесь."
 line-201,鼠王,这件事，确实是您做得了主的，这我并不担心......,"Absolutely, you are the boss, after all. But that's not what concerns me...","Это решение вы действительно можете принять, в этом я не сомневаюсь..."
-line-202,鼠王,但是，恕我直言，雨霞她还没到接过重担的时候。,I'll get to the point. It's far too soon for Yühsia to take on so much responsibility.,"Однако, прошу прощения за прямоту, Юйся ещё не пришло время брать на себя такую ответственность."
+line-202,鼠王,但是，恕我直言，雨霞她还没到接过重担的时候。,I'll get to the point. It's far too soon for Yühsia to take on so much responsibility.,"Однако, прошу прощения за прямоту, Юся ещё не пришло время брать на себя такую ответственность."
 line-206,林雨霞,爸，文月夫人说了什么？,"Dad, what did Lady Fumizuki say?","Папа, что сказала госпожа Фумидзуки?"
 line-208,鼠王,......夫人想让你代表魏彦吾前往多索雷斯。,She wants you to go to Dossoles in Wei Yenwu's stead.,"...Госпожа хочет, чтобы ты отправилась в Досолес вместо Вэй Яньу."
 line-210,林雨霞,我想去。,I'll go.,Я хочу поехать.
-line-212,鼠王,雨霞。,Yühsia.,Юйся.
+line-212,鼠王,雨霞。,Yühsia.,Юся.
 line-214,林雨霞,......,......,...
 line-220,林雨霞,我要去。,I am going.,Я поеду.
 line-222,文月,林先生？,Mr. Lin?,Господин Линь?
 line-224,鼠王,罢了，乖女要出去玩，我这做父亲的又岂有百般阻挠的理由？,"Fine, if my daughter wants to go on a trip, is it her father's place to say no?","Пусть будет так. Если моя дочь хочет поехать отдохнуть, разве я, отец, имею причины запрещать ей?"
 line-225,鼠王,就这么安排吧。,She can go.,Пусть всё будет устроено именно так.
-line-227,文月,好。雨霞记得做好出远门的准备。,"Very well. Yühsia, make sure to pack for a long trip.","Хорошо. Юйся, не забудь подготовиться к поездке."
+line-227,文月,好。雨霞记得做好出远门的准备。,"Very well. Yühsia, make sure to pack for a long trip.","Хорошо. Юся, не забудь подготовиться к поездке."
 line-229,林雨霞,我晓得。,I will.,Я поняла.
-line-236,鼠王,雨霞。,Yühsia.,Юйся.
+line-236,鼠王,雨霞。,Yühsia.,Юся.
 line-238,林雨霞,爸，我会给您带土特产的。,"I'll bring you some souvenirs, Dad.","Папа, я привезу тебе сувениров."
 line-240,鼠王,唉，你这丫头。,*Sigh*... Nei go sei seoi neoi ah...,"Ох, девочка моя."
 line-241,鼠王,行了，既然决定了，去做准备吧，这是一趟远门，让你妈帮你打点打点。,"Alright, then. It's settled. Get yourself ready for the trip. You will be away for some time. Have your mother help you pack.","Ладно, раз всё решено, иди собирайся. Путь предстоит неблизкий, пусть мама поможет тебе в сборах."
 line-243,林雨霞,好。,Alright.,Хорошо.
 line-249,鼠王,文月夫人这么做，恐怕醉翁之意不在酒，度假......莫不是与小陈有关？,"If this is what Lady Fumizuki wants, I am sure there is more to it than we know. A holiday... Does this have something to do with Ch'en?","Фумидзуки делает это не ради отдыха. Похоже, причина кроется в Чэнь?"
-line-250,鼠王,罢了，多想无益，夫人向来爱护后辈，想来不会对雨霞不利。,"Whatever... No use thinking about it so much. It's not like she'd want to pull any strings to take advantage of Yühsia, what with how fond of the youngsters she is.","Ладно, лишние раздумья ни к чему. Госпожа всегда бережно относилась к молодежи, не думаю, что она причинит вред Юйся."
+line-250,鼠王,罢了，多想无益，夫人向来爱护后辈，想来不会对雨霞不利。,"Whatever... No use thinking about it so much. It's not like she'd want to pull any strings to take advantage of Yühsia, what with how fond of the youngsters she is.","Ладно, лишние раздумья ни к чему. Госпожа всегда бережно относилась к молодежи, не думаю, что она причинит вред Юся."
 line-251,鼠王,比起这个......唉。,That aside... *Sigh*.,А если подумать... эх.
 line-252,鼠王,女大不中留啊。,Looks like there's no keeping her home when she's all grown up.,"Дочь выросла, не удержать её."
-line-263,魏彦吾,文月，林雨霞的事是你安排的？,"Fumizuki, did you arrange for Lin Yühsia's trip to Dossoles?","Фумидзуки, поездка Лин Юйся — это твоя затея?"
+line-263,魏彦吾,文月，林雨霞的事是你安排的？,"Fumizuki, did you arrange for Lin Yühsia's trip to Dossoles?","Фумидзуки, поездка Линь Юся — это твоя затея?"
 line-265,文月,对。,I did.,Да.
 line-267,魏彦吾,......,......,...
 line-269,文月,有什么问题，反正人家本来也只是请我们过去度假，又不是真的有事要和你谈。,What's the problem? They invited us not because they had any actual business to discuss with you. It's just a vacation trip.,"А в чем проблема? В конце концов, нас пригласили туда просто отдохнуть, а не обсуждать серьезные дела."
 line-271,魏彦吾,你其实是想让陈晖洁去，对不对？,"You wanted to send Hui-chieh, didn't you?","На самом деле ты хотела отправить туда Чэнь Хуэйцзе, верно?"
 line-273,文月,是啊，我也没打算瞒你就是了。,"That's right. I was never trying to hide it from you, however.","Верно, я и не собиралась это скрывать."
-line-275,魏彦吾,林雨霞代表我去，这样陈晖洁过去玩乐也不会受到限制，但......,"If Lin Yühsia is my representative there, Hui-chieh will get to take it easy and have as much fun as she wants, but...","Лин Юйся едет вместо меня, так что Чэнь Хуэйцзе сможет отдыхать там без ограничений, но..."
+line-275,魏彦吾,林雨霞代表我去，这样陈晖洁过去玩乐也不会受到限制，但......,"If Lin Yühsia is my representative there, Hui-chieh will get to take it easy and have as much fun as she wants, but...","Линь Юся едет вместо меня, так что Чэнь Хуэйцзе сможет отдыхать там без ограничений, но..."
 line-277,文月,小陈现在在罗德岛，虽然我很信任他们，但我终究不知道她过得好不好。,"Ch'en is at Rhodes Island right now. Although I trust them, I have no way of knowing how she is doing there.","Чэнь сейчас на Родосе. Хоть я им и доверяю, но всё же не знаю, как она там."
-line-278,文月,我也明白小陈现在的立场是没有资格代表你去赴约的，而雨霞办事一向办得很不错，这样不是正好。,"Besides, I know our little Ch'en is in no position to represent you right now. Yühsia, on the other hand, always does a good job with everything. She is the perfect substitute.","Я понимаю, что сейчас у неё нет статуса представлять тебя на встрече, но Юйся всегда отлично справляется с поручениями. Разве не удачное решение?"
+line-278,文月,我也明白小陈现在的立场是没有资格代表你去赴约的，而雨霞办事一向办得很不错，这样不是正好。,"Besides, I know our little Ch'en is in no position to represent you right now. Yühsia, on the other hand, always does a good job with everything. She is the perfect substitute.","Я понимаю, что сейчас у неё нет статуса представлять тебя на встрече, но Юся всегда отлично справляется с поручениями. Разве не удачное решение?"
 line-280,魏彦吾,鼠王的女儿不一定能成为鼠王。,The Rat King's daughter won't necessarily become the Rat King herself.,Дочь Крысиного Короля не обязательно станет Крысиным Королем.
 line-282,文月,但她既然有这个意思，就给她一个机会，抓得住，那就是她的本事。,"If that's what she wants, then give her a chance, and if she manages to seize the opportunity, it just shows how capable she is.","Но раз у неё есть желание, стоит дать ей шанс. Если она сумеет им воспользоваться, значит, это её достоинство."
 line-283,文月,还是说，魏大长官要对我这个弱女子的僭越兴师问罪？,"Or will the venerable Chief Wei send all of Lungmen's forces after me, a frail lady, for overstepping my boundaries?",Или же великий глава Лунмэня собирается устроить допрос этой слабой женщине за её дерзость?
 line-285,魏彦吾,这类决定我一向听你的意见，但是......,You know I always listen to you when I make these decisions. It's just...,"В подобных решениях я всегда прислушиваюсь к твоему мнению, однако..."
-line-286,魏彦吾,你见过坎黛拉，这个女人，陈晖洁和林雨霞，她们还太年轻，应付不来的。,You've met Candela. Hui-chieh and Yühsia are still far too young to handle her.,"Ты видела Канделу. Эта женщина... Чэнь Хуэйцзе и Лин Юйся ещё слишком молоды, они не справятся."
+line-286,魏彦吾,你见过坎黛拉，这个女人，陈晖洁和林雨霞，她们还太年轻，应付不来的。,You've met Candela. Hui-chieh and Yühsia are still far too young to handle her.,"Ты видела Канделу. Эта женщина... Чэнь Хуэйцзе и Линь Юся ещё слишком молоды, они не справятся."
 line-288,文月,你啊，整天说我瞎操心，到头来你才是最爱操心的那个。,"For how often you call me a worrywart, it certainly seems like you are the biggest in the room.","Ах ты, вечно говоришь, что я зря беспокоюсь, а в итоге ты сам — самый большой любитель понервничать."
 line-289,文月,你把你这性子改改，小陈也不会跟你那么不对付。,"If it wasn't for your personality, perhaps you could've found yourself on better terms with our little Ch'en.","Изменил бы ты свой нрав, глядишь, и Чэнь перестала бы так с тобой конфликтовать."
 line-291,魏彦吾,现在我们不是在说这个，文月。,"We are not discussing this right now, Fumizuki.","Сейчас не об этом речь, Фумидзуки."
@@ -112,10 +112,10 @@ line-294,文月,那里我又不是没有和你一起去过，那里啊，是你�
 line-295,文月,建立起这样的城市的人，你魏彦吾站在龙门长官的角度和你个人的角度，会忌惮她也是理所当然的。,"Given she built it singlehandedly, it's no wonder that you fear her, both as the Chief of Lungmen and from a personal standpoint.","Естественно, ты, как глава Лунмэня и просто человек, опасаешься того, кто построил такой город."
 line-297,魏彦吾,既然你也这么认为......,"You agree with me, then...",Раз ты тоже так считаешь...
 line-299,文月,但是，你们这些大人物，总是想着勾心斗角，城府算计那档子事，看别人也总是先去想这些。,"But you big shots are always so calculating, trying to get the upper hand over each other, and it's always the first thing that crosses your mind when meeting anyone.","Но вы, великие люди, всегда думаете о кознях, интригах и расчетах, и судите о других по себе."
-line-300,文月,要我说，我看到那个坎黛拉第一眼就知道，她会做许多事，好事坏事，但是唯有伤害小陈和雨霞这样的孩子的事她是绝对不会去做的。,"If I have to say, I saw it the moment I laid my eyes on Candela. She's the kind of person who's capable of many things. Bad things. But she definitely won't do anything that puts Ch'en and Yühsia in harm's way.","Я, взглянув на ту Канделу, сразу поняла: она сделает много дел, хороших или плохих, но она ни за что не причинит вреда таким детям, как Чэнь и Юйся."
+line-300,文月,要我说，我看到那个坎黛拉第一眼就知道，她会做许多事，好事坏事，但是唯有伤害小陈和雨霞这样的孩子的事她是绝对不会去做的。,"If I have to say, I saw it the moment I laid my eyes on Candela. She's the kind of person who's capable of many things. Bad things. But she definitely won't do anything that puts Ch'en and Yühsia in harm's way.","Я, взглянув на ту Канделу, сразу поняла: она сделает много дел, хороших или плохих, но она ни за что не причинит вреда таким детям, как Чэнь и Юся."
 line-301,文月,你担心两个孩子被她带坏，我反而觉得，她们会在那里过得很好。,"You think she will be a bad example for the children, but I think there's no better place to send them.","Ты боишься, что она их испортит, а я, наоборот, думаю, что им там будет очень хорошо."
 line-303,魏彦吾,......,......,...
-line-305,文月,你要是实在放不下心，现在雨霞应该还没有出发，给小陈的信我也还没有寄出去，还来得及。,"If you are so worried, Yühsia most likely hasn't left for Dossoles yet, and I haven't sent the letter out to Ch'en either. There is still time.","Если ты действительно не можешь успокоиться, то сейчас Юйся ещё, должно быть, не отправилась в путь, да и письмо для Чэнь я ещё не отправила. Ещё не поздно."
+line-305,文月,你要是实在放不下心，现在雨霞应该还没有出发，给小陈的信我也还没有寄出去，还来得及。,"If you are so worried, Yühsia most likely hasn't left for Dossoles yet, and I haven't sent the letter out to Ch'en either. There is still time.","Если ты действительно не можешь успокоиться, то сейчас Юся ещё, должно быть, не отправилась в путь, да и письмо для Чэнь я ещё не отправила. Ещё не поздно."
 line-307,魏彦吾,......,...,...
 line-308,魏彦吾,罢了，都依你。,"Fine, we'll do as you say.","Ладно, пусть будет по-твоему."
 line-319,陈,刚才在路上好像看到了罗德岛的其他人，难道他们也来汐斯塔了......,"Hm, I spotted a few Rhodes Islanders just now, I think...? Don't tell me they came to Siesta too...","Только что в пути, кажется, видела других сотрудников Родоса. Неужели они тоже приехали в Сиесту..."
@@ -198,13 +198,13 @@ line-523,坎黛拉,他可以不来，但不能随便派一个人来，否则，�
 line-524,坎黛拉,明天你就能在龙门和多索雷斯的报纸上看到无数条类似的新闻，很多事也会毫无必要地麻烦起来。,"You would've seen countless headlines in the newspapers of both cities, and way too many things would get unnecessarily problematic.","Завтра в газетах Лунмэня и Досолеса выйдет куча подобных новостей, и многие вещи станут излишне сложными."
 line-526,陈,也就是说，魏总督同时派了一个能代表他身份的人来。,So what you are saying is Chief Wei sent someone of sufficient status to represent him.,"То есть, Вэй одновременно прислал кого-то, кто может представлять его статус."
 line-528,坎黛拉,没错。,That's right.,Верно.
-line-530,陈,是星熊？不，诗怀雅吗......,"Is it Hoshiguma? No, maybe Swire...?","Это Хосикума? Или, может, Свайр..."
+line-530,陈,是星熊？不，诗怀雅吗......,"Is it Hoshiguma? No, maybe Swire...?","Это Хошигума? Или, может, Свайр..."
 line-532,坎黛拉,都不是。,Wrong on both counts.,"Ни та, ни другая."
 line-534,陈,那是......,Then...,Тогда кто...
 line-538,护卫,大人，到了。,"Ma'am, she's here.","Госпожа, мы прибыли."
 line-540,坎黛拉,瞧，来了。,There's your answer.,"Смотри, идёт."
 line-547,林雨霞,尊敬的多索雷斯市长，坎黛拉·桑切斯女士，我谨代表龙门总督魏......,"Lady Candela Sanchez, esteemed mayor of Dossoles, on behalf of the Chief of Lungmen Wei...","Уважаемая мэр Досолеса, госпожа Кандела Санчес, я представляю главу Лунмэня Вэя..."
-line-550,陈,林雨霞？！,Lin Yühsia?!,Лин Юйся?!
+line-550,陈,林雨霞？！,Lin Yühsia?!,Линь Юся?!
 line-553,林雨霞,陈晖洁？！,Ch'en Hui-chieh?!,Чэнь Хуэйцзе?!
 line-556,陈&林雨霞,怎么会是你？！,What are you doing here?!,Как ты здесь оказалась?!
 line-561,林雨霞,......我懂了，原来如此，难怪文月夫人会让我来。,Oh... I get it. No wonder Lady Fumizuki sent me.,"...Я поняла, вот оно что. Теперь понятно, почему госпожа Фумидзуки предложила мне приехать."
@@ -215,7 +215,7 @@ line-569,林雨霞,朋友的朋友，不算很熟。,She's a friend of a friend.
 line-571,坎黛拉,那么在这里重新认识一下不是很好的机会吗？,"In that case, wouldn't this be the perfect opportunity for you to reconnect?",Разве это не отличный повод узнать друг друга получше здесь?
 line-572,坎黛拉,总之，林世侄。,"Anyway, Lin, my dear niece.","В любом случае, племянница Линь."
 line-573,坎黛拉,和陈世侄一样，你也可以直接叫我的名字，不用太拘谨。,"Just like my niece Ch'en here, you may call me by my given name. No need to be so formal.","Можешь, как и племянница Чэнь, звать меня просто по имени, не нужно так церемониться."
-line-574,坎黛拉,即使你是代表魏总督来的也一样，不用想太多，不要有任何负担。,"Even though you're here to represent Chief Wei, you don't need to think too much about such things. No burdens on your shoulders.","Даже если ты приехала от имени Вэя — не думай ни о чем лишнем, не нужно никаких бремени."
+line-574,坎黛拉,即使你是代表魏总督来的也一样，不用想太多，不要有任何负担。,"Even though you're here to represent Chief Wei, you don't need to think too much about such things. No burdens on your shoulders.","Даже если ты приехала от имени Вэя — не думай ни о чем лишнем, не нужно никакого бремени."
 line-576,坎黛拉,你要做的事情很简单，那就是享受这座我引以为傲的城市。,All you need to do is enjoy this city I'm so proud of.,"Твоя единственная задача — наслаждаться этим городом, которым я так горжусь."
 line-578,林雨霞,......我明白了。,Understood...,...Я поняла.
 line-580,坎黛拉,啊，不过还有两件事。,"Oh, and two more things.","Ах, ещё две вещи."
@@ -315,7 +315,7 @@ line-759,林雨霞,......好。,Okay...,...Хорошо.
 line-768,陈,......,......,...
 line-770,林雨霞,......,......,...
 line-774,林雨霞,好久不见，陈晖洁。,"Long time no see, Ch'en Hui-chieh.","Давно не виделись, Чэнь Хуэйцзе."
-line-776,陈,好久不见，林雨霞。,"Long time no see, Lin Yühsia.","Давно не виделись, Лин Юйся."
+line-776,陈,好久不见，林雨霞。,"Long time no see, Lin Yühsia.","Давно не виделись, Линь Юся."
 line-778,林雨霞,上次见面是在什么时候？,How long has it been since we last met?,Когда мы виделись в последний раз?
 line-780,陈,忘了，前年诗怀雅的生日宴会上？,Don't remember. Swire's birthday two years ago?,Забыла? На банкете в честь дня рождения Свайр в позапрошлом году?
 line-782,林雨霞,那次我没去。,I wasn't there.,Я туда не ходила.
@@ -325,7 +325,7 @@ line-788,陈,哦，对。,"Oh, right.","О, точно."
 line-790,林雨霞,你看起来气色不错，文月夫人知道应该也会高兴。,You look like you're doing well. Lady Fumizuki will be glad.,"Выглядишь хорошо, думаю, госпоже Фумидзуки это было бы приятно."
 line-792,陈,或许吧。,Maybe.,Возможно.
 line-793,陈,诗怀雅现在怎么样？,How is Swire holding up?,Как сейчас Свайр?
-line-795,林雨霞,星熊没告诉你吗？,You haven't heard from Hoshiguma?,Хосикума тебе не рассказывала?
+line-795,林雨霞,星熊没告诉你吗？,You haven't heard from Hoshiguma?,Хошигума тебе не рассказывала?
 line-796,林雨霞,她现在算是代理，做得还不错，再过一阵子应该就能正式接过你的位子了。,"She's more or less the representative there now, and she's pretty good at it. It shouldn't be much longer before she formally takes over your job.","Она сейчас исполняет обязанности, справляется неплохо, ещё немного — и официально займет твое место."
 line-798,陈,挺好。她只要收一收她的性子，是担得起重任的。,"That's good. She's actually pretty capable of the responsibilities that come with the job, if she works on her temperament a little.","Хорошо. Ей просто нужно немного сбавить пыл, тогда справится с ответственностью."
 line-800,林雨霞,很难，收得了她也不叫诗怀雅了。,That's going to be difficult. She wouldn't be Swire if she knew how to mellow out.,"Сложно, если она станет спокойнее, это уже будет не Свайр."

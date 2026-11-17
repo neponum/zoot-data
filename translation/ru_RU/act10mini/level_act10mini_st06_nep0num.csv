@@ -5,7 +5,7 @@ __episode__,,Episode ID,,act10mini
 __chapter__,,Chapter Name,activities/act10mini/level_act10mini_st06,叮咚作响
 ,,,,
 char-1,整合运动战士,整合运动战士,Reunion Warrior,Боец Воссоединения
-char-2,Guard,Guard,Guard,Охранник
+char-2,Guard,Guard,Guard,Guard
 char-3,整合运动成员,整合运动成员,Reunion Member,Участник Воссоединения
 char-4,幻影弩手,幻影弩手,Phantom Crossbowman,Фантомный арбалетчик
 char-5,艾尔瓦,艾尔瓦,Elba,Эльва
@@ -27,10 +27,10 @@ line-21,整合运动战士,......一辆房车里就能种出这么多土豆，�
 line-23,整合运动战士,我以前真没见过这样的农场......,I've never seen farming like this before...,Я никогда раньше не видел таких ферм...
 line-25,整合运动战士,叫什么来着，这个技术？,What's it called? Hy... hy something...,Как там называется эта технология?
 line-27,Guard,哈哈哈......移动城市里的水培农场也是这几十年才开始普及的，你没见过很正常。,Hydroponics. It's only become commonplace among nomadic cities in the last few decades or so. I'm not surprised that you didn't know about it.,"Ха-ха... Гидропонные фермы в передвижных городах стали популярны только в последние десятилетия, так что неудивительно, что ты их не видел."
-line-29,整合运动战士,Guard先生很熟悉这些？,You seem to know a lot about these things.,"Вы хорошо в этом разбираетесь, господин Охранник?"
+line-29,整合运动战士,Guard先生很熟悉这些？,You seem to know a lot about these things.,"Вы хорошо в этом разбираетесь, господин Guard?"
 line-31,Guard,罗德岛上有很多这样的农场，我见过不少，也懂那么一点点。,A little bit. I've seen a lot of these farms on Rhodes Island.,На «Родосе» полно таких ферм. Я много их видел и кое-что понимаю.
 line-33,整合运动战士,不过光靠一辆房车肯定养不活所有人。,But one car won't feed everyone.,"Но одного фургона точно не хватит, чтобы прокормить всех."
-line-35,Guard,不要着急，有那几位卡西米尔的学者帮忙，我们需要的只是时间。,"No worries. It's only a matter of time, now that we have the help of the Kazimierz scholars.",Не торопись. С помощью тех казимижских ученых нам нужно лишь время.
+line-35,Guard,不要着急，有那几位卡西米尔的学者帮忙，我们需要的只是时间。,"No worries. It's only a matter of time, now that we have the help of the Kazimierz scholars.",Не торопись. С помощью тех казимежских ученых нам нужно лишь время.
 line-37,整合运动战士,但是所有的技术，只有那个工程师和他的团队懂。,But all that knowhow is in the hands of that engineer and his team.,Но всеми технологиями владеет только тот инженер со своей командой.
 line-39,整合运动战士,如果没有他们，一切都白搭。,We're completely reliant on them.,Без них всё пойдёт прахом.
 line-41,整合运动战士,我还是不信任他。,And I still don't trust him.,Я все равно ему не доверяю.
@@ -73,10 +73,10 @@ line-113,幻影弩手,他们会以为我们做的一切都只是缺乏组织的�
 line-115,整合运动战士,毕恩先生！你来了！,Mr. Bean! You're here!,Господин Бин! Вы вернулись!
 line-117,幻影弩手,报告，毕恩归队。,Bean reporting back.,Докладываю: Бин вернулся в строй.
 line-119,Guard,辛苦了！还顺利吗？,How did it go?,Хорошая работа! Все прошло гладко?
-line-121,幻影弩手,没什么问题，雷德队长已经把设备送到库房那边去了。,No problem. Captain Red has delivered the equipment to the warehouse.,"Никаких проблем, капитан Рэд уже доставил оборудование на склад."
+line-121,幻影弩手,没什么问题，雷德队长已经把设备送到库房那边去了。,No problem. Captain Red has delivered the equipment to the warehouse.,"Никаких проблем, капитан Ред уже доставил оборудование на склад."
 line-123,Guard,太好了，之前你们说情况有变，我还是非常担心的。,Good. I was getting worried when you reported a change in the situation.,"Отлично. Вы говорили, что ситуация изменилась, я очень переживал."
 line-125,幻影弩手,我们在卡拉顿确实遇到了一点计划外的事故，不过好在情况可控。,"We encountered something unexpected in Caladon, but nothing we couldn't deal with.","В Каладоне действительно случился небольшой непредвиденный инцидент, но, к счастью, ситуация под контролем."
-line-127,艾尔瓦,早上好，Guard先生。,"Good morning, Mr. Guard.","Доброе утро, господин Охранник."
+line-127,艾尔瓦,早上好，Guard先生。,"Good morning, Mr. Guard.","Доброе утро, господин Guard."
 line-129,Guard,艾尔瓦小姐！你也来了。,"Oh, hello, Miss Elba.",Госпожа Эльва! Вы тоже здесь.
 line-131,艾尔瓦,信使小队的人都到了。,The rest of the Messengers are here.,Весь отряд курьеров прибыл.
 line-133,Guard,哥伦比亚那边的情况怎么样？,What's the situation in Columbia?,Как обстоят дела в Колумбии?
@@ -91,7 +91,7 @@ line-149,Guard,辛苦了，艾尔瓦小姐！,"Good work, Miss Elba.","Спас�
 line-151,Guard,游击队那边呢？阿芙萝拉有回复吗？,What about the guerillas? Any response from Avrora?,Что насчет партизан? Есть ответ от Авроры?
 line-153,整合运动成员,阿芙萝拉队长去北原寻找之前留在那边的部队了，这次应该来不了。,Captain Avrora has travelled to the Northern Plains to find the troops who stayed behind. She probably won't make it here.,"Капитан Аврора ушла на север, чтобы найти отряды, оставшиеся там, так что в этот раз она прийти не сможет."
 line-154,整合运动成员,不过游击队派了几位萨卡兹战士过来，已经和九他们会合了。,"However, Sarkaz warriors from the guerillas have already rendezvoused with Nine's team.","Но партизаны прислали нескольких воинов Сарказов, они уже соединились с Девять."
-line-155,整合运动成员,卡西米尔那边的负责人昨天就到了，他们也带了不少人过来。,Reinforcements from Kazimierz arrived yesterday.,"Ответственные из Казимижа прибыли ещё вчера, они тоже привели немало людей."
+line-155,整合运动成员,卡西米尔那边的负责人昨天就到了，他们也带了不少人过来。,Reinforcements from Kazimierz arrived yesterday.,"Ответственные из Казимежа прибыли ещё вчера, они тоже привели немало людей."
 line-157,Guard,那差不多人已经到齐了。,Then we're almost at full numbers.,"Значит, почти все в сборе."
 line-159,Guard,我去机库那边看看情况，你们先去找九。,I'll check out the hangar. You guys go find Nine.,"Я пойду проверю ангар, а вы идите к Девять."
 line-161,整合运动成员,明白。,Got it.,Поняли.
@@ -99,10 +99,10 @@ line-172,,在一片嘈杂的机械声中，一台体积巨大的载具停在废�
 line-173,,整合运动的机械师们围绕着载具忙碌着，库房内充斥着金属切割与焊接的声音。,"Reunion mechanics busy themselves around it, the sounds of metal cutting and welding following them wherever they go.","Механики «Воссоединения» суетятся вокруг него, помещение заполнено звуками резки металла и сварки."
 line-175,雷德,轻点放！轻点放！小心别磕坏了！,Lightly! Lightly! Don't break it!,Аккуратнее! Аккуратнее! Не повредите его!
 line-177,Guard,这台发动机终于运出来了。,We've finally gotten the engine out of there.,Двигатель наконец-то доставили.
-line-179,雷德,啊，Guard先生！,"Oh hey, Mr. Guard!","А, господин Охранник!"
+line-179,雷德,啊，Guard先生！,"Oh hey, Mr. Guard!","А, господин Guard!"
 line-181,Guard,卡拉顿那边怎么样？城里的感染者们都还好吗？,How's the situation in Caladon? How are the Infected doing?,Как там в Каладоне? Как инфицированные в городе?
 line-183,雷德,怎么说呢？还算乐观。,"Could be worse, all things considered.","Как сказать? В целом, оптимистично."
-line-185,雷德,那位昂斯特议员暂且不提，城镇议会有一半的成员愿意维持感染者社区的运作，只要感染者社区能够持续运作，至少情况不会恶化。,"Setting aside Councilor Angst for a moment, we have half the city council in favor of maintaining the Infected community. Things won't get any worse as long as the community continues to operate.","Не говоря уже о том советнике Анстере, половина членов городского совета согласна поддерживать работу общины инфицированных. Пока она работает, ситуация не ухудшится."
+line-185,雷德,那位昂斯特议员暂且不提，城镇议会有一半的成员愿意维持感染者社区的运作，只要感染者社区能够持续运作，至少情况不会恶化。,"Setting aside Councilor Angst for a moment, we have half the city council in favor of maintaining the Infected community. Things won't get any worse as long as the community continues to operate.","Не говоря уже о том советнике Ангсте, половина членов городского совета согласна поддерживать работу общины инфицированных. Пока она работает, ситуация не ухудшится."
 line-187,雷德,两个月前，有个贵族买通了安保人员，偷偷破坏了感染者社区的发电机，好在我们安插在那边的兄弟里有工程术师，不然麻烦就大了。,"Two months ago, a nobleman bribed a security guard to sabotage their power generator. Things could've been really bad if we didn't happen to have an engineering Caster stationed there.","Два месяца назад один аристократ подкупил охрану и тайно повредил генератор общины, но, к счастью, среди наших братьев там были инженеры-операторы, иначе было бы плохо."
 line-189,雷德,但是即便如此......那边的感染者要面对的问题依然很多，他们还需要更多的帮助。,"Still, the Infected face a lot of difficulties. They need help.","Но даже так... инфицированным там все ещё приходится нелегко, им нужна дополнительная помощь."
 line-191,Guard,听说你们运送发动机的时候遇到了一点麻烦？,I heard you encountered some trouble when transporting the engine?,"Слышал, у вас возникли проблемы при перевозке двигателя?"
@@ -131,7 +131,7 @@ line-235,Guard,当然，这家企业并没有严格按照军方的标准销毁�
 line-237,Guard,而这位“荒地垃圾回收商”又把这些“垃圾”卖给了我们。,And this 'scrap recycler' sold the 'scrap' to us.,А тот продал этот «мусор» нам.
 line-239,雷德,......你们是从哪儿知道还有这么一台原型机的？,How did you even hear about the prototype?,...Откуда вы вообще узнали про этот прототип?
 line-241,工程术师安德烈,当然是Dijkstra那个臭小子提供的情报。,"That a-hole Dijkstra, of course.","Конечно, от того засранца Дейкстры."
-line-243,雷德,Dijkstra？那个奇怪的哥伦比亚术师？叫什么“黑客”的那个？,Dijkstra? That weird Columbian Caster? The one who calls himself a 'Cracker'?,Дейкстры? Того странного колумбийского оператора? Которого называют «хакером»?
+line-243,雷德,Dijkstra？那个奇怪的哥伦比亚术师？叫什么“黑客”的那个？,Dijkstra? That weird Columbian Caster? The one who calls himself a 'Cracker'?,Дейкстры? Того странного колумбийского кастера? Которого называют «хакером»?
 line-245,雷德,真有你们的。,That's pretty amazing.,Ну вы даете.
 line-247,Guard,怎么样，安德烈先生，这台发动机能用吗？,"So, what do you think, Andrey? Is the engine good to go?","Ну как, господин Андрей, двигатель можно использовать?"
 line-249,工程术师安德烈,发动机功率肯定是够了。,"It's got enough muscle, alright.",Мощности точно хватит.
@@ -145,14 +145,14 @@ line-263,Guard,九之前考虑过这个问题，不过Dijkstra说他有办法。
 line-265,工程术师安德烈,除了这个，眼前还有其他需要解决的问题。,"Either way, we've got more pressing issues right now.","Помимо этого, есть и другие проблемы."
 line-267,工程术师安德烈,电控系统需要换新的，这个必须得弄一套来，这东西我可搓不出来。,"We need a whole new control system, and that's not something I can whip up for you. You'll have to find one.","Электронную систему управления нужно менять на новую, я такую сам не соберу."
 line-269,工程术师安德烈,普通载具的可能不行，我需要一套采矿平台主控系统那样的设备。,"Not just any old thing will do, either. It needs to be something on the scale of a mining platform control system.","От обычной машины не подойдет, мне нужна система управления, как на горнодобывающей платформе."
-line-271,工程术师安德烈,源石发动机的隔热瓦也需要更换。,We'll also need to replace the insulation plates for the Originium engine.,Теплоизоляционные плитки оритиевого двигателя тоже нужно заменить.
+line-271,工程术师安德烈,源石发动机的隔热瓦也需要更换。,We'll also need to replace the insulation plates for the Originium engine.,Теплоизоляционные плитки Ориджиниевого двигателя тоже нужно заменить.
 line-273,工程术师安德烈,这些我之前已经给九讲过了，不知道准备得怎么样。,"I already told Nine about all this, but I don't know if there's been any progress on that front.","Я уже говорил об этом Девять, не знаю, как успехи."
 line-275,Guard,不用担心，过几天会有一个商人把这些零件送过来。,"No worries, a trader will be bringing them over in a few days.","Не волнуйтесь, через несколько дней торговец доставит запчасти."
 line-277,工程术师安德烈,商人？是之前那个铁桶头？这得是胆子多大才敢卖这些？这些东西都是被严格管控的技术设备，他怎么弄到的？,"Are you talking about that bucket-head? He's got nerve, selling this stuff... How did he even get his hands on classified technology anyway?","Торговец? Тот парень в жестяном ведре на голове? Насколько нужно быть смелым, чтобы такое продавать? Это же строго контролируемое оборудование, как он его достал?"
 line-279,九,那个商人有自己的办法，我们反而不应该问太多。,He's got his methods. Best not to ask too many questions.,"У этого торговца свои пути, нам лучше не спрашивать лишнего."
 line-281,Guard,九！你来了。,"Oh, Nine! Hey there.",Девять! Вы пришли.
 line-283,工程术师安德烈,行吧，这件事我们听你的。,"Well, you're the boss.","Ладно, слушаемся вас."
-line-285,九,说起来那个商人，可能需要Guard你带着雷德队长去和他碰一下头。,"Speaking of which, Guard, you may need to bring Captain Red over to meet with the trader.","Кстати, насчет торговца: возможно, вам, Охранник, придется взять капитана Рэда и встретиться с ним лично."
+line-285,九,说起来那个商人，可能需要Guard你带着雷德队长去和他碰一下头。,"Speaking of which, Guard, you may need to bring Captain Red over to meet with the trader.","Кстати, насчет торговца: возможно, вам, Guard, придется взять капитана Реда и встретиться с ним лично."
 line-287,九,他说需要我们的人到现场确认一下情况，“对货物的来源有一定的认知”。,"He wants someone from our side to be on site and 'have an understanding of the sourcing', in his own words.","Он сказал, что нашим нужно подтвердить ситуацию на месте, «иметь представление об источнике товара»."
 line-289,Guard,这个怪人......,What a weirdo...,Странный тип...
 line-291,Guard,我明白了。,But alright.,Я понял.
@@ -167,7 +167,7 @@ line-317,,远处，一个戴着奇怪头盔的人缓慢地向他们靠近。,A m
 line-318,,在他身后，跟着几个衣衫褴褛，穿着粗糙盔甲的大汉。,He is accompanied by several large men wearing shabby armor.,Вслед за ним следовали несколько оборванцев в грубых доспехах.
 line-320,雷德,......这简直就是把不靠谱写在脸上了。,Yup... He might as well be carrying a sign that says 'Shady' in big red letters.,"...Это прямо на лбу написано, что он ненадежный."
 line-326,坎诺特,早上好，中午好，以及晚上好，我的朋友。,"Good morning, good afternoon, and good evening, my friends.","Доброе утро, добрый день и добрый вечер, мои друзья."
-line-328,坎诺特,Guard先生！咱们又见面了！你看起来气色不错。,"Mr. Guard! How good to see you again, and looking so well too.",Господин Охранник! Мы снова встретились! Отлично выглядите.
+line-328,坎诺特,Guard先生！咱们又见面了！你看起来气色不错。,"Mr. Guard! How good to see you again, and looking so well too.",Господин Guard! Мы снова встретились! Отлично выглядите.
 line-330,Guard,你带着朋友一起来，确实有点意外，不过我没有看到任何货车与载具？,I wasn't expecting you to bring company. But I'm not seeing any trucks or vehicles?,"Вы пришли с друзьями, неожиданно. Но я не вижу грузовиков или транспорта?"
 line-332,Guard,那么，坎诺特先生，我们需要的货物......在哪里？,"Where are the goods, Mr. Cannot?","Так где наш груз, господин Каннот?"
 line-334,坎诺特,不要着急，我的朋友。,"No rush, my friend, no rush!","Не спешите, друзья мои."
@@ -178,7 +178,7 @@ line-345,,几分钟后，西边的地平线上，几辆武装车辆组成的车�
 line-347,坎诺特,他们来了。,Here they come.,Они здесь.
 line-349,Guard,望远镜给我。,Give me the binoculars.,Дай бинокль.
 line-351,Guard,......,......,...
-line-355,Guard,隐蔽！所有人都躲起来！他们车上有源石火炮！,Take cover! Take cover! They're armed with Originium cannons!,В укрытие! Всем спрятаться! У них на машинах оритиевые пушки!
+line-355,Guard,隐蔽！所有人都躲起来！他们车上有源石火炮！,Take cover! Take cover! They're armed with Originium cannons!,В укрытие! Всем спрятаться! У них на машинах Ориджиниевые пушки!
 line-357,艾尔瓦,这个标记......是沃尔沃特科钦斯基的车队！,That's... Volvort Kochinski's mark!,Этот знак... конвой «Вольворт-Кочински»!
 line-359,Guard,我需要一个解释，坎诺特先生！,"I want an explanation, Mr. Cannot!","Мне нужно объяснение, господин Каннот!"
 line-361,坎诺特,你们要的东西就在那边，我的朋友，看到最中间那台大型载具了吗？,"What you seek is right in front of you, my friend. You see that big one in the middle?","То, что вам нужно, там. Видите в центре большой транспорт?"
@@ -189,7 +189,7 @@ line-368,坎诺特,少安毋躁，我的朋友，你们是我的客户，我怎�
 line-370,坎诺特,这里是最好的观景台，你们只需要看着就可以了。,"Just sit back, and watch.",Это лучшая смотровая площадка. Вам нужно просто смотреть.
 line-372,Guard,......,......,...
 line-375,,十几分钟后，全副武装的载具小队缓慢驶过峡谷。,"About fifteen minutes later, the convoy passes through a canyon.",Через десять минут вооруженный конвой медленно проследовал через каньон.
-line-376,,全自动弩炮与源石火炮准备瞄准周围所有可能出现的活物。,"Ballista turrets and Originium cannons are on full alert, sweeping the surroundings for potential threats.",Автоматические арбалеты и оритиевые пушки были нацелены на все живое.
+line-376,,全自动弩炮与源石火炮准备瞄准周围所有可能出现的活物。,"Ballista turrets and Originium cannons are on full alert, sweeping the surroundings for potential threats.",Автоматические арбалеты и Ориджиниевые пушки были нацелены на все живое.
 line-377,,装着坚硬合金装甲板，动力强悍的大型车辆碾过崎岖不平的岩漠沙地。,"Driven by powerful engines, the heavily armored vehicles dash across the rugged landscape.",Тяжелые машины с толстой броней и мощными двигателями продавливали каменистую почву.
 line-378,,在泰拉荒地之上，这样的武力配置才能保证他们平稳地到达目的地。,It is a loadout intended to take them safely across the Terran wasteland to their destination.,Только такое вооружение гарантировало доставку груза в пустошах Терры.
 line-379,,然而在荒地之上，没有什么事情是绝对的。,But there are very few guarantees in the wastes.,Однако в пустошах нет ничего абсолютного.
@@ -202,13 +202,13 @@ line-389,,在一声爆响中，磐蟹狠狠地撞倒了大型载具的侧翼。,
 line-390,,在剧烈的撞击下，这台全副武装的装甲卡车骤然侧翻，连带着压扁了掩护侧翼的另一台车辆。,"The armored vehicle topples over violently, crushing one of its escorts.","От удара бронированный грузовик перевернулся, раздавив другую машину."
 line-391,,紧接着，山谷里传来了狂野的战吼与金属敲击声。,War cries and the sounds of clanging metal echo through the canyon.,Затем по долине разнесся яростный боевой клич и звон металла.
 line-392,,上百位衣着诡异的战士从岩壁与巨石的阴影中冲了出来。,"Hundreds of strangely dressed warriors charge out from the shadows, from behind rocks or cracks in the canyon walls.",Сотни воинов в странных одеждах бросились из тени скал.
-line-393,,他们投掷出用源石晶体制成的简易爆炸物，用巨大的土制弩炮向落单的敌人射击。,"They throw explosives made from Originium crystals at the convoy, and fire at stragglers using improvised ballistae.",Они бросали самодельные взрывчатки из оритиевых кристаллов и стреляли из огромных арбалетов по врагам.
+line-393,,他们投掷出用源石晶体制成的简易爆炸物，用巨大的土制弩炮向落单的敌人射击。,"They throw explosives made from Originium crystals at the convoy, and fire at stragglers using improvised ballistae.",Они бросали самодельные взрывчатки из Ориджиниевых кристаллов и стреляли из огромных арбалетов по врагам.
 line-394,,武装车队的安保人员在混乱中四散奔逃。,"It is a scene of chaos, as the convoy's guards try to flee for their lives.",Охрана разбежалась в хаосе.
 line-395,,一场毫无悬念的战斗并不会持续太久。,The outcome of the battle is never once in doubt.,Такая битва долго не продлится.
 line-406,Guard,......,......,...
 line-408,坎诺特,......我还是希望这些朋友能稳妥一点，我稍微有点担心设备会有损坏，一会儿得检查一下。,"It would be nice if our friends over there could be a little more careful... I'll need to check up on the equipment later, make sure there's no damage.","...Я надеялся, что друзья будут действовать осторожнее, немного боюсь за оборудование, надо будет проверить."
 line-410,坎诺特,不过你看，虽然我很想在一开始见面的时候就把东西交给你们，但是计划赶不上变化......,"See, I would have liked to deliver the goods earlier, but things didn't go quite as planned...","Но посмотрите, я хотел отдать вам товар сразу, но планы меняются..."
-line-411,坎诺特,这支车队昨天为规避天灾而耽误了一些时间，所以今天才到这个峡谷。,"The convoy took a detour to avoid a Catastrophe, delaying their arrival.","Конвой вчера задержался из-за бедствия, поэтому они приехали в каньон только сегодня."
+line-411,坎诺特,这支车队昨天为规避天灾而耽误了一些时间，所以今天才到这个峡谷。,"The convoy took a detour to avoid a Catastrophe, delaying their arrival.","Конвой вчера задержался из-за Катастрофы, поэтому они приехали в каньон только сегодня."
 line-425,雷德,（掏出武器）,(Draws weapon),(Вытаскивает оружие)
 line-429,整合运动战士,（掏出武器）,(Draws weapon),(Вытаскивает оружие)
 line-435,坎诺特,......你们这个反应，看起来是有点什么误会了？,Dear me. It seems we have a misunderstanding here.,"...Ваша реакция... кажется, тут какое-то недопонимание?"
@@ -298,7 +298,7 @@ line-632,加勒斯,没事，我们已经聊完了。,It's fine. We've said what 
 line-634,坎诺特,那我们就准备出发吧。,"Very well then, let's go.",Тогда в путь.
 line-650,坎诺特,特地在这里等着我，看来我们还有什么需要商量的事情？,"Well, look who's waiting for us. Did you have any unfinished business?","Специально ждали меня? Значит, есть о чем поговорить?"
 line-652,坎诺特,我竟然完全没有察觉到你们俩。,"Impressive, by the way, to completely elude my notice.","Я даже не заметил, как вы подошли."
-line-654,九,可不要小看整合运动的天灾信使哦。,Do not underestimate Catastrophe Messengers.,Не стоит недооценивать курьеров бедствий «Воссоединения».
+line-654,九,可不要小看整合运动的天灾信使哦。,Do not underestimate Catastrophe Messengers.,Не стоит недооценивать гонцов Катастрофы «Воссоединения».
 line-656,艾尔瓦,......坎诺特先生，你还记得我吗？,"Do you remember me, Mr. Cannot?","...Господин Каннот, вы помните меня?"
 line-658,坎诺特,当然，艾尔瓦小姐。,"Of course, Miss Elba.","Конечно, госпожа Эльва."
 line-659,坎诺特,我记得我见过的每一个人，这一年来你变化很大，我差一点没认出来。,"I remember everyone I've ever met. That said, you've changed so much over the past year that I could barely recognize you.","Я помню каждого, кого видел. Вы сильно изменились за этот год, я почти не узнал."
@@ -348,9 +348,9 @@ line-747,九,整合运动不可能像你说的那样，去解决这片大地的�
 line-749,坎诺特,我懂，我懂，但是整合运动会成为一个契机，我非常相信这件事。引擎需要先发动起来，然后才可以奢侈地去谈论方向。,I understand. But it can be a catalyst. We must start the engine before we discuss which way to go.,"Я понимаю, но «Воссоединение» станет поводом. Нужно запустить двигатель, а уже потом роскошествовать обсуждением направления."
 line-751,九,你要找的或许是罗德岛，那种理想主义者扎堆的地方才会有你需要的人。,You're better off looking to the idealists of Rhodes Island.,"Может, вам нужен «Родос», там куча идеалистов."
 line-753,坎诺特,仅仅依靠一个罗德岛还不足以改变一切，就算罗德岛汇聚了这片大地的精英，这依然不够。,"Rhodes Island alone is not enough, despite the talent they've gathered.","Одного «Родоса» недостаточно, даже если там собраны элиты Терры."
-line-755,九,你听说他们在卡西米尔做的事情了吗？,Have you heard of what they did in Kazimierz?,"Вы слышали, что они сделали в Казимиже?"
+line-755,九,你听说他们在卡西米尔做的事情了吗？,Have you heard of what they did in Kazimierz?,"Вы слышали, что они сделали в Казимеже?"
 line-757,坎诺特,我知道，我就在现场。,Of course. I was there.,"Знаю, я был там."
 line-759,坎诺特,他们确实下了一步好棋，但是对于一个如此巨大的棋局来说，一步好棋还不足以影响最终的输赢，执棋者自己对此最心知肚明。,"They made a fine move, but one move will not be enough to bring victory in this great game. No one is more aware of that than themselves.","Они сделали хороший ход, но для такой огромной игры этого недостаточно, чтобы повлиять на финал, и игроки это знают."
-line-761,坎诺特,即便是那位耀骑士，她那如同灯塔般璀璨的心灵之火也不足以驱散笼罩整片大地的阴云。,Even the resplendent fire burning in the Radiant Knight's heart is not enough to drive the dark clouds from the land.,"Даже сияющее сердце той Рыцаря-Сияния недостаточно яркое, чтобы разогнать облака над землей."
+line-761,坎诺特,即便是那位耀骑士，她那如同灯塔般璀璨的心灵之火也不足以驱散笼罩整片大地的阴云。,Even the resplendent fire burning in the Radiant Knight's heart is not enough to drive the dark clouds from the land.,"Даже сияющее сердце Лучезарного рыцаря недостаточно яркое, чтобы разогнать облака над землей."
 line-763,坎诺特,当然了，在这个充满苦难与仇恨的世界上，依然有他们这样的人，这令人感到欣慰。,"Of course, it is still gratifying to see people like them, in this world of pain and hatred.","Конечно, в мире, полном страданий, наличие таких людей вселяет оптимизм."
 line-765,坎诺特,“在黑暗阴云的尽头，依然有火花在闪耀。”,"'Even as dark clouds gather, the spark of hope glows bright.'",«В конце темных облаков все ещё сияют искры».

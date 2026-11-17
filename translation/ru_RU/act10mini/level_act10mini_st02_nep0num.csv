@@ -8,7 +8,7 @@ char-1,保安A,保安A,Security Guard A,Охранник А
 char-2,保安B,保安B,Security Guard B,Охранник Б
 char-3,保安队长,保安队长,Security Chief,Начальник охраны
 char-4,夜烟,夜烟,Haze,Хейз
-char-5,感染者少女,感染者少女,Infected Girl,Девочка-инфицировання
+char-5,感染者少女,感染者少女,Infected Girl,Девочка-инфицированная
 char-6,？？？,？？？,???,???
 char-7,魁梧的黑衣人,魁梧的黑衣人,Imposing Black-Suit,Здоровый мужчина в чёрном
 char-8,鬼祟的黑衣人,鬼祟的黑衣人,Sly Black-Suit,Хитрый тип в черном
@@ -23,7 +23,7 @@ line-33,保安A,前面。,Up ahead.,Впереди.
 line-48,保安A,还在前面，我好像看见她了。,They're over there still. I think I can see her.,"Все ещё впереди, кажется, я её видел."
 line-49,保安A,等等，这块路牌，我们刚才是不是见过？,"Wait, didn't we just pass this road sign?","Погоди, мы ведь уже проходили мимо этого дорожного знака, верно?"
 line-51,保安B,我们回到原地了，我是说，又回到原地了。,"We're back to where we were. I mean, we're running in circles.","Мы вернулись в исходную точку. Я имею в виду, мы снова ходим по кругу."
-line-52,保安B,那我说对了，那个菲林的源石技艺肯定有鬼。,"See, I knew it. There's something funny about the Feline's Arts.","Значит, я был прав — с искусством ориджини умений этой фелин определенно что-то не так."
+line-52,保安B,那我说对了，那个菲林的源石技艺肯定有鬼。,"See, I knew it. There's something funny about the Feline's Arts.","Значит, я был прав — с искусством ориджини этой фелин определенно что-то не так."
 line-54,保安A,先别急，前面就是感染者社区了，那个小贼肯定就躲在里面。,Calm down. The Infected community's up ahead. The thief's definitely hiding somewhere in there.,"Не торопись. Впереди район инфицированных, эта воровка наверняка прячется там."
 line-55,保安A,该死的感染者......今天就是把这里掀个底朝天也要把那个贼揪出来，看谁敢拦我们。,"Damned Infected... I'll find them, even if I have to flip the place upside down.","Проклятые инфицированные... Сегодня мы перевернем здесь всё вверх дном, но вытащим эту воровку. Посмотрим, кто осмелится нас остановить."
 line-61,保安队长,算了，回去吧。,That's enough. Let's head back.,Забудьте. Уходим.
@@ -143,7 +143,7 @@ line-382,年迈的贵族,......我在写议案，天亮之前不要来打扰我�
 line-383,仆人,好的老爷。,"Very good, sir.","Хорошо, господин."
 line-388,夜烟,......,......,...
 line-391,年迈的贵族,这位，女士......咳......咳......,Miss... *cough*... *cough*...,Мисс... кхе... кхе...
-line-392,年迈的贵族,我没猜错的话，您应该是感染者对吧？,"If my hunch is correct, you should be an Infected.","Если я не ошибаюсь, вы ведь инфицировання, верно?"
+line-392,年迈的贵族,我没猜错的话，您应该是感染者对吧？,"If my hunch is correct, you should be an Infected.","Если я не ошибаюсь, вы ведь инфицированна, верно?"
 line-393,年迈的贵族,不要紧张......我不会伤害您......,Don't be afraid. I won't hurt you.,Не нервничайте... я не причиню вам вреда...
 line-394,年迈的贵族,我......,I...,Я...
 line-395,,年迈的萨弗拉贵族突然捂住了心脏，发出了痛苦的声音。,The elderly Savra noble suddenly grabs his chest and lets out a pained moan.,Пожилой аристократ-Савра вдруг схватился за сердце и издал стон боли.
@@ -169,7 +169,7 @@ line-467,魁梧的黑衣人,但要小心她的源石技艺。不确定有没有�
 line-469,魁梧的黑衣人,她到底有什么本事——,Let's see what she's capable of—,Да что она из себя представляет —
 line-475,魁梧的黑衣人,又平地起雾了？是她在施术！,It's fogging up again? She's castin'!,Опять туман из ниоткуда? Это она использует заклинание!
 line-489,魁梧的黑衣人,她躲进去了。,"She ducked in here, huh?",Она спряталась внутри.
-line-491,鬼祟的黑衣人,“绿意火花”......这是酒吧？看着不太像。,'Green Spark...' Some kinda pub? Don't look like it.,«Зеленая искра»... Это бар? Не похоже.
+line-491,鬼祟的黑衣人,“绿意火花”......这是酒吧？看着不太像。,'Green Spark...' Some kinda pub? Don't look like it.,«Зелёная искра»... Это бар? Не похоже.
 line-493,魁梧的黑衣人,这边的房屋构造应该都是一样的，这些老房子除了正门没有别的出口，她逃不了了。,All these old buildings are pretty much the same. There's no way out but the way she came in. She's trapped.,"Конструкция у этих домов одинаковая. В старых зданиях нет других выходов, кроме парадной двери. Ей не сбежать."
 line-495,鬼祟的黑衣人,慢着，先别急。,Slow down. No rush.,"Погоди, не спеши."
 line-497,鬼祟的黑衣人,那个菲林的源石技艺很厉害，小心那股黑烟。想抓她太难了，要打到也不容易。,"The Feline's got some fancy Arts. Watch the smoke. Won't be easy to catch her alive, or take her down either.","Искусство ориджини этой фелин сильное, опасайся чёрного дыма. Её трудно поймать, да и попасть по ней непросто."
@@ -210,7 +210,7 @@ line-598,夜烟,每天拿一个，可以去威纶奶奶那边换点吃的。,Tak
 line-600,夜烟,还有这个。,And here.,И ещё это.
 line-601,,菲林女巫掏出一个黑色的帆布宽檐帽子和一枚精致的戒指。,The Feline witch takes out a black hat and an exquisite ring.,Ведьма-фелин достает чёрную широкополую шляпу из парусины и изысканное кольцо.
 line-603,夜烟,（唉，女巫的仪式......现在也没什么意义了。）,(*Sigh*... The Witch's Ceremony... Not that it has much meaning left to it anymore.),"(Эх, ритуал ведьмы... сейчас это уже не имеет значения.)"
-line-605,夜烟,我是巫女林的第一百一十三位女巫，夜烟......,"I am Haze, the Hundred and Thirteenth Witch of the Witch Forest...","Я — сто тринадцатая ведьма Леса Ведьм, Найтмейр..."
+line-605,夜烟,我是巫女林的第一百一十三位女巫，夜烟......,"I am Haze, the Hundred and Thirteenth Witch of the Witch Forest...","Я — сто тринадцатая ведьма Леса Ведьм, Хейз..."
 line-607,夜烟,灰山地的先贤见证一切。,May the Grey Hills' sages of the past bear witness to it all.,Мудрецы Серых гор свидетельствуют обо всём.
 line-609,夜烟,见证一位新人的加入......,Witness the entrance of a new member to our ranks...,Свидетельствуют о принятии новичка...
 line-611,夜烟,见证一个新的灵魂......,Witness the birth of a new soul...,Свидетельствуют о рождении новой души...
@@ -244,7 +244,7 @@ line-673,,一切就要结束了。,It's all coming to an end.,Всё подхо�
 line-676,,然而她的耳边，却传来了阵阵啜泣声。,"Yet, suddenly, she hears someone sobbing.",И вдруг до её ушей донеслись всхлипы.
 line-686,夜烟,怎么到最后关头，还有人打搅......,"I can't even have my last moments to myself, can I...?","Как же так, в последний момент кто-то мешает..."
 line-688,夜烟,这种地方还有人啊。,Now I know this place gets visitors.,"Надо же, кто-то есть в таком месте."
-line-689,,追随着传到耳边的声音，夜烟来到了废楼的另一个区域。,Haze follows the wailing to another part of the abandoned tower.,"Следуя за звуком, Найтмейр пришла в другую часть разрушенного здания."
+line-689,,追随着传到耳边的声音，夜烟来到了废楼的另一个区域。,Haze follows the wailing to another part of the abandoned tower.,"Следуя за звуком, Хейз пришла в другую часть разрушенного здания."
 line-690,,在她的眼前，有一个菲林女孩正颤颤巍巍地站在废弃高楼的窗边。,"In front of her, a Feline girl stands next to a window, trembling.","Перед ней, у окна заброшенного высотного здания, дрожа, стоит девочка-фелин."
 line-692,夜烟,......唉。,*Sigh*.,...Эх.
 line-695,苏茜,（啜泣）,(Sobs),(Всхлипывает)
@@ -258,15 +258,15 @@ line-711,夜烟,我是谁不重要哦。,Nobody important.,"Не важно, к�
 line-713,夜烟,不过在你要跳下去之前，我得告诉你几件事。,But I do need to tell you a few things before you jump.,"Но прежде чем ты прыгнешь, я должна сказать тебе кое-что."
 line-715,夜烟,跳下去的话，真的会摔得很难看哦，我实在是不推荐你做这种事。,"After you do it, you won't be nearly as adorable as you are now. Honestly, I can't recommend it.","Если прыгнешь, ты упадешь очень некрасиво, не советую этого делать."
 line-717,夜烟,等明天你的朋友看到你的时候，他们会很痛苦吧。,Your friends will be awfully sad to see you in that state when they find you tomorrow.,"Если твои друзья увидят тебя завтра, им будет очень больно."
-line-719,苏茜,......朋友......夏栎姐......,Friends... Quercus...,...Друзья... сестра Оак...
+line-719,苏茜,......朋友......夏栎姐......,Friends... Quercus...,...Друзья... сестра Кверкус...
 line-720,,啜泣的女孩犹豫着，离开了窗边。,The sobbing girl hesitates and steps back from the window.,Всхлипывающая девочка в нерешительности отошла от окна.
 line-722,夜烟,这就对啦！,"That's better, now!",Вот так-то лучше!
 line-724,夜烟,我该怎么称呼你呢，小猫猫？,"What do I call you, little kitten?","Как тебя зовут, кошечка?"
 line-726,苏茜,......苏茜......苏茜·格里特。,Susie... Susie Glitter.,...Сьюзи... Сьюзи Грит.
 line-728,夜烟,这个名字挺好听的。,That's a pretty name.,Красивое имя.
-line-730,夜烟,你叫我夜烟就可以了。,You can call me Haze.,Можешь звать меня Найтмейр.
-line-732,苏茜,夜烟......小姐......,Miss... Haze...,Найтмейр... мисс...
-line-734,苏茜,夜烟小姐......这么晚了，为什么在这里？,Miss Haze... What are you doing out here so late?,"Мисс Найтмейр... так поздно, почему вы здесь?"
+line-730,夜烟,你叫我夜烟就可以了。,You can call me Haze.,Можешь звать меня Хейз.
+line-732,苏茜,夜烟......小姐......,Miss... Haze...,Хейз... мисс...
+line-734,苏茜,夜烟小姐......这么晚了，为什么在这里？,Miss Haze... What are you doing out here so late?,"Мисс Хейз... так поздно, почему вы здесь?"
 line-736,夜烟,我还要问你呢，这儿可是我专属的秘密据点，你是怎么发现的？,"I was about to ask you the same. This is my personal, secret hideout. How did you find it?",Это я должна спрашивать. Это мое секретное убежище. Как ты его нашла?
 line-738,夜烟,算啦，我也可以特别允许可爱的猫猫来这里玩哦，但用来跳楼可不行。,"Oh, well, I can give a cute little kit like you special permission to play about here. But not if you've come for a cordless bungee jump, however.","Ладно, я разрешаю милым кошечкам играть здесь, но прыгать с крыши — нет."
 line-740,苏茜,呜......呜呜......,*Sniffles*...,У-у... у-у-у...
@@ -320,16 +320,16 @@ line-835,苏茜,不......不用了......谢谢你......,No... It's okay... Thank
 line-837,夜烟,这就对了嘛。,That's more like it.,Вот и отлично.
 line-839,夜烟,以前大女巫说过，只要还能看到明天的太阳，一切就还都有希望。,"The Great Witch says, as long as the sun rises tomorrow, there is still hope.","Великая ведьма говорила: пока видишь завтрашнее солнце, есть надежда."
 line-841,夜烟,至少......还有......明......,As long as... there... is a...,По крайней мере... ещё есть... завтра...
-line-850,苏茜,欸，欸欸！夜烟小姐！你怎么了？,"Hum? Um?! Miss Haze, what's the matter?!","Эй, эй-эй! Мисс Найтмейр! Что с вами?"
+line-850,苏茜,欸，欸欸！夜烟小姐！你怎么了？,"Hum? Um?! Miss Haze, what's the matter?!","Эй, эй-эй! Мисс Хейз! Что с вами?"
 line-852,夜烟,小心......别靠近我......,Be careful... stay away from me...,Осторожно... не подходи...
-line-854,苏茜,夜烟小姐！你怎么了？,Miss Haze! What's wrong?,Мисс Найтмейр! Что с вами?
+line-854,苏茜,夜烟小姐！你怎么了？,Miss Haze! What's wrong?,Мисс Хейз! Что с вами?
 line-856,夜烟,你......快走......,Go... hurry...,Ты... уходи...
 line-858,苏茜,怎么回事，身上怎么这么烫？,What's wrong? Why is your body so hot?,"Что такое, почему она такая горячая?"
 line-860,苏茜,振作一点！醒醒！,Hang in there! Wake up!,Возьми себя в руки! Очнись!
 line-862,苏茜,来人啊！救命！,Somebody! Please help!,Сюда! Помогите!
-line-874,苏茜,夜烟小姐......你坚持一下，我们，马上就到城区了......,Miss Haze... Stay with me. We... We're almost to the city...,"Мисс Найтмейр... держитесь, мы... скоро будем в городе..."
+line-874,苏茜,夜烟小姐......你坚持一下，我们，马上就到城区了......,Miss Haze... Stay with me. We... We're almost to the city...,"Мисс Хейз... держитесь, мы... скоро будем в городе..."
 line-876,苏茜,我......我要背不动你了......,I... I can barely carry you anymore...,Я... я не могу вас нести...
-line-878,苏茜,不，不是说夜烟小姐太重了，一点也不重，是我力气太小了......,"S-Sorry, I don't mean you're heavy, you're really very light, I just don't have much strength...","Нет, не то чтобы мисс Найтмейр тяжелая, совсем не тяжелая, это я слабая..."
+line-878,苏茜,不，不是说夜烟小姐太重了，一点也不重，是我力气太小了......,"S-Sorry, I don't mean you're heavy, you're really very light, I just don't have much strength...","Нет, не то чтобы мисс Хейз тяжёлая, совсем не тяжёлая, это я слабая..."
 line-879,,背上的女孩，气息越来越弱。,The girl on her back grows weaker and weaker by the minute.,Дыхание девушки на спине слабело.
 line-880,,她能感觉到，一个鲜活的生命正在淡去。,She can feel a vibrant life slowly fading away.,"Она чувствовала, как угасает жизнь."
 line-881,,一种潮湿且温暖的触感从背上传来，逐渐扩散。,"A wet, yet warm feeling gushes onto her back and gradually spreads all over.",Теплый и влажный след на спине начал расползаться.
@@ -338,12 +338,12 @@ line-885,苏茜,这是......血？,Is it... blood?,Это... кровь?
 line-886,,暗红色的鲜血从少女的口鼻中渗出，滴落在地面上。,"Dark red blood spills from the girl's mouth and nose, dripping onto the ground.","Темно-алая кровь сочилась изо рта и носа девушки, капая на землю."
 line-887,,她明白这代表着什么，每个感染者都明白。,Susie knows what this means. All Infected do.,"Она понимала, что это значит. Каждый инфицированный это понимает."
 line-889,苏茜,不要......不要......不要......,No... No... No...,Не надо... не надо... не надо...
-line-891,苏茜,夜烟小姐......不要......求求你......,Haze... Please... I'm begging you...,Мисс Найтмейр... не надо... прошу...
+line-891,苏茜,夜烟小姐......不要......求求你......,Haze... Please... I'm begging you...,Мисс Хейз... не надо... прошу...
 line-894,,从五年前离开家乡起，她已经不止一次目睹过感染者的离去。,"Ever since she left home five years ago, she's witnessed the passing of many Infected.","С тех пор как пять лет назад она покинула родной дом, она не раз видела уход инфицированных."
 line-895,,伴随着每一次身边熟知的人消逝，她对死亡的感知也更加麻木。,"With each death she's seen, she's grown increasingly numb to them.","С каждым близким человеком, уходившим в небытие, её восприятие смерти становилось всё более бесчувственным."
 line-896,,每个感染者都要面对这样的命运。,This is the fate that awaits all Infected.,Каждый инфицированный должен встретить такую судьбу.
 line-897,,但是这一次，不知道为什么，她不愿意承受目睹眼前生命消逝的痛苦。,"But, for some reason, she finds herself unwilling to bear the pain of this life disappearing before her.","Но в этот раз, по какой-то причине, она не хотела нести боль свидетеля угасания жизни перед глазами."
-line-899,苏茜,求求你！夜烟小姐......求求你......不要......,Please! Miss Haze... Please... No...,Прошу тебя! Мисс Найтмейр... прошу... не надо...
+line-899,苏茜,求求你！夜烟小姐......求求你......不要......,Please! Miss Haze... Please... No...,Прошу тебя! Мисс Хейз... прошу... не надо...
 line-901,苏茜,坚持住......我们就快到......,Hang on... We're almost there...,Держись... мы почти...
 line-904,,她让背上的女孩平躺在地上，想要减少她的痛苦。,She sets the girl down to ease her pain.,"Она уложила девушку на землю, чтобы уменьшить её страдания."
 line-905,,她紧紧地握着眼前这位女孩的手，她尝试去擦拭对方脸上的血迹。,She tightly grasps Haze's hand and tries her best to wipe away the blood on her face.,"Она крепко сжимала руку девушки, пытаясь стереть кровь с её лица."
