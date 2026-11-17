@@ -10,7 +10,7 @@ char-6,开朗的万国信使,开朗的万国信使,Cheery Legatus,Веселый
 char-7,哥伦比亚富商,哥伦比亚富商,Columbian Magnate,Колумбийский магнат
 char-8,活泼的拉特兰市民,活泼的拉特兰市民,Brisk Lateran Citizen,Бодрый житель Латерано
 char-9,沉稳的拉特兰市民,沉稳的拉特兰市民,Sedate Lateran Citizen,Сдержанный житель Латерано
-char-10,艾泽尔,艾泽尔,Ezell,Эзелл
+char-10,艾泽尔,艾泽尔,Ezell,Эзель
 char-11,莫斯提马,莫斯提马,Mostima,Мостима
 char-12,微光守夜人,微光守夜人,Shimmering Vigil,Мерцающий Ночной Страж
 char-13,不叫微光守夜人的黎博利,不叫微光守夜人的黎博利,The Liberi Formerly Known As Shimmering Vigil,"Либери, которую не зовут Мерцающий Ночной Страж"
@@ -22,7 +22,7 @@ char-18,奥伦,奥伦,Oren,Орен
 char-19,费德里科,费德里科,Federico,Федерико
 char-20,无奈的万国信使,无奈的万国信使,Reluctant Legatus,Озадаченный легат
 char-21,冷静的万国信使,冷静的万国信使,Calm Legatus,Спокойный легат
-char-22,薇尔丽芙,薇尔丽芙,Velliv,Веллив
+char-22,薇尔丽芙,薇尔丽芙,Velliv,Вильлив
 char-23,教宗骑士,教宗骑士,Apostolic Knight,Апостольский рыцарь
 char-24,教宗,教宗,The Pope,Папа
 char-25,虔诚的修士,虔诚的修士,Pious Sister,Благочестивая сестра
@@ -65,14 +65,14 @@ line-86,塞茜莉亚,妈妈要离开我吗？,"Are you going to leave me, Mamma?
 line-88,病重的母亲,不，咳咳……妈妈从来没有想过……离开你……,"No, *cough* *cough*... Mamma's never, ever wanted... to leave you...","Нет, *Кашель*... мама никогда не хотела... оставлять тебя..."
 line-89,病重的母亲,妈妈只是不得不……,She's just got no choice...,У неё просто нет выбора...
 line-91,塞茜莉亚,妈妈要去哪儿？我也一起去，可以吗？,"Where are you going, Mamma? Can I go with you too? Is that okay?","Мама, куда ты собираешься? Можно мне с тобой?"
-line-93,病重的母亲,妈妈要去的地方，塞茜莉亚不能去……那里很冷，很寂寞，什么都没有。,"You can't go where I'm about to go, Cecelia... It's very cold, very lonely, and so, so empty.","Туда, куда идет мама, Сесилии нельзя... там очень холодно, очень одиноко, и там ничего нет."
+line-93,病重的母亲,妈妈要去的地方，塞茜莉亚不能去……那里很冷，很寂寞，什么都没有。,"You can't go where I'm about to go, Cecelia... It's very cold, very lonely, and so, so empty.","Туда, куда идёт мама, Сесилии нельзя... там очень холодно, очень одиноко, и там ничего нет."
 line-95,塞茜莉亚,我和妈妈一起，我陪着妈妈，妈妈就不会寂寞了。,"I'll go with you, I'll be with you so you won't be lonely.","Я буду с мамой, я побуду рядом, и маме не будет одиноко."
 line-97,病重的母亲,……塞茜莉亚，对不起。,"...I'm sorry, Cecelia.","...Сесилия, прости меня."
 line-98,病重的母亲,你本应该有更幸福的童年……,Your childhood should have been so much more blessed...,Твое детство должно было быть намного счастливее...
 line-100,塞茜莉亚,我和妈妈在一起，非常幸福。,"I HAVE been blessed. With you, Mamma.","Я СЧАСТЛИВА, пока я с тобой, мама."
 line-102,病重的母亲,……塞茜莉亚，塞茜莉亚，听着，听着。,"Cecelia... Cecelia. Listen now, listen.","Сесилия... Сесилия, послушай меня."
 line-104,塞茜莉亚,妈妈，我在。,"I'm listening, Mamma.","Я слушаю, мама."
-line-106,病重的母亲,之后，妈妈不能照顾你了……会有人来接你。,I won't be able to look after you soon... Someone will come pick you up.,Скоро мама не сможет больше заботиться о тебе... кто-то придет за тобой.
+line-106,病重的母亲,之后，妈妈不能照顾你了……会有人来接你。,I won't be able to look after you soon... Someone will come pick you up.,Скоро мама не сможет больше заботиться о тебе... кто-то придёт за тобой.
 line-107,病重的母亲,跟着他，跟着他去找爸爸。,Go with him. He'll take you to Papà.,"Иди за ним, иди за ним к отцу."
 line-108,病重的母亲,爸爸会代替妈妈照顾你，好吗？,"Papà will look after you for me, okay?","Папа позаботится о тебе вместо меня, хорошо?"
 line-110,塞茜莉亚,妈妈不和我一起去见爸爸吗？爸爸一定也想要见妈妈……,Can't you come with me? I bet Papà really wants to see you...,"Мама, а ты не пойдешь со мной к папе? Папа ведь тоже наверняка хочет тебя увидеть..."
@@ -110,10 +110,10 @@ line-197,哥伦比亚富商,嗯，来都来了……,Hmm. Seeing as I'm here...,
 line-198,哥伦比亚富商,嗯？那边在做些什么？,Hm? What are they up to over there?,Хм? Что там делают?
 line-206,活泼的拉特兰市民,安装好了吗？,All set up?,Установили?
 line-208,沉稳的拉特兰市民,我好了，你那边呢？,I'm good. How's your end?,"Я закончил, а у тебя?"
-line-210,活泼的拉特兰市民,搞定。艾泽尔小哥，周边都疏散好了吗？,"Done. Ezell, have we dispersed everyone in the area?","Готово. Эзелл, окрестности эвакуированы?"
+line-210,活泼的拉特兰市民,搞定。艾泽尔小哥，周边都疏散好了吗？,"Done. Ezell, have we dispersed everyone in the area?","Готово. Эзель, окрестности эвакуированы?"
 line-215,艾泽尔,可能受到直接影响的公民已经疏散完毕，次级影响范围内的公民也已经确认知晓。,"All the citizens likely to be directly affected, yes. Those in the secondary effect range are confirmed to be notified as well.","Граждане, которые могут быть непосредственно затронуты, эвакуированы, остальные в зоне вторичного воздействия проинформированы."
 line-217,活泼的拉特兰市民,那我们可以开始了吗？,Shall we get started then?,Тогда можем начинать?
-line-219,艾泽尔,嗯……现在是1099年3月15日上午10时22分，接下来这次爆破行为，将在公证所候补执行者艾泽尔的见证下执行。,"Mm-hm... Current time is 10:22, on March 15th, 1099. The following act of demolition is carried out with Reserve Executor Ezell of the Notarial Hall as witness.","Хм... сейчас 15 марта 1099 года, 10:22 утра. Данная операция по подрыву проводится под наблюдением Эзелля, заместителя экзекутора Нотариального зала."
+line-219,艾泽尔,嗯……现在是1099年3月15日上午10时22分，接下来这次爆破行为，将在公证所候补执行者艾泽尔的见证下执行。,"Mm-hm... Current time is 10:22, on March 15th, 1099. The following act of demolition is carried out with Reserve Executor Ezell of the Notarial Hall as witness.","Хм... сейчас 15 марта 1099 года, 10:22 утра. Данная операция по подрыву проводится под наблюдением Эзеля, заместителя экзекутора Нотариального зала."
 line-221,活泼的拉特兰市民,好嘞。那么，三——,"Alright. Here goes, three—",Хорошо. Тогда... три...
 line-223,哥伦比亚富商,（那三个萨科塔围在那根柱子旁做什么？）,(What're those three Sankta doing standing around that pillar?),(Что эти трое Санкта делают у той колонны?)
 line-225,活泼的拉特兰市民,二——,Two—,Два...
@@ -181,18 +181,18 @@ line-437,,在外交实践中，拉特兰官方人员受托传递特殊事件重�
 line-438,,万国信使制度建立之后，本代教宗将前述职能常态化、机制化。万国信使成为奔走于国家间的一支特殊力量。,This role was normalized and institutionalized with the establishment of the Legatus system. They have become a special force moving between the nations.,"После создания системы легатов нынешний Папа превратил вышеупомянутые функции в постоянный механизм. Легаты стали особой силой, курсирующей между нациями."
 line-439,,万国信使队伍的宗旨在于，在坚守拉特兰绝对中立立场的基础之上，促进重要信息的国家间流通。,"With Laterano's absolute neutrality as a foundation, the Legati aim to promote the circulation of important information between countries.","Цель легатов — содействовать обмену важной информацией между странами, основываясь на строгом нейтралитете Латерано."
 line-440,,1098年，经由万国信使，教宗向泰拉诸国发出邀请：,"1098: via the Legati, the Pope sends an invitation to all nations of Terra:",В 1098 году через легатов Папа разослал нациям Терры приглашения:
-line-441,,于拉特兰召集会议，邀请诸国遣使商讨集体安全事宜。,'Gather for a conference at Laterano. I invite every nation to dispatch its envoys for a discussion regarding our collective security.',"""Собраться на конференцию в Латерано для обсуждения вопросов коллективной безопасности."""
+line-441,,于拉特兰召集会议，邀请诸国遣使商讨集体安全事宜。,'Gather for a conference at Laterano. I invite every nation to dispatch its envoys for a discussion regarding our collective security.',«Собраться на конференцию в Латерано для обсуждения вопросов коллективной безопасности.»
 line-442,,1099年，万国信使制度诞生三十周年。,1099: the Legatus system celebrates its thirtieth anniversary.,"1099 год, тридцатая годовщина создания системы легатов."
 line-443,,同年三月，散落于泰拉大地各处的万国信使偕同多国使节，前往拉特兰。,"In March of that year, Legati from all across Terra proceed for Laterano together with the envoys of numerous nations.","В марте того же года легаты, разбросанные по всей Терры, вместе с многочисленными дипломатами прибыли в Латерано."
 line-456,艾泽尔,刚才那两个人，一个气质上很像戍卫队的人，另一个……难道是万国信使？,"One of those two just now seemed a lot like a Pontifica Cohors, and the other... was that a Legatus?","Те двое... та по манерам очень похожа на члена когорты, другая... неужели легат?"
 line-458,艾泽尔,奇妙的组合。,A strange combination.,Любопытная комбинация.
-line-460,活泼的拉特兰市民,艾泽尔小哥，见证工作已经完成了，你还留在这里吗？,"Ezell, are you gonna stick around now that your witness work's done?","Эзелл, свидетельская работа закончена, ты ещё остаешься?"
+line-460,活泼的拉特兰市民,艾泽尔小哥，见证工作已经完成了，你还留在这里吗？,"Ezell, are you gonna stick around now that your witness work's done?","Эзель, свидетельская работа закончена, ты ещё остаешься?"
 line-462,沉稳的拉特兰市民,请放心，我们会按照之前的申请文书，把这根柱子还原，重新竖立起来。,"Don't worry, we'll rebuild the pillar as good as new, just like we wrote in our application.","Будьте спокойны, мы в соответствии с поданным ранее заявлением восстановим и вернем эту колонну на место."
 line-464,艾泽尔,好的，那就辛苦你们。我还有任务，得先走了。,"Good, I'll leave you to it then. I'll be going now, I've still got quite a bit on my plate.","Хорошо, спасибо вам. У меня ещё есть дела, мне пора."
 line-470,艾泽尔,咦，确认遗嘱登记情况的对象……去世了？,"Er. Just to confirm, I'm looking for a will registered by someone who's... passed away?","Хм, объект для регистрации завещания... умер?"
 line-481,费德里科,……,......,...
 line-484,,典型的独身女人居所，没有第二个人生活的痕迹。,"A typical single woman's residence, with no trace of any other occupants.","Типичное жилище одинокой женщины, следов жизни другого человека нет."
-line-485,,卧室之中，女人遗容安详。没有中毒迹象，没有暴力迹象。,"In the bedroom, her body lies serenely. No signs of poisoning, no signs of violence.","В спальне спокойно лежит ее тело. Нет признаков отравления, нет признаков насилия."
+line-485,,卧室之中，女人遗容安详。没有中毒迹象，没有暴力迹象。,"In the bedroom, her body lies serenely. No signs of poisoning, no signs of violence.","В спальне спокойно лежит её тело. Нет признаков отравления, нет признаков насилия."
 line-490,费德里科,是我，费德里科。,Federico here.,"Это я, Федерико."
 line-491,费德里科,司提望区瑟法斯街7-265号发现一具女性公民遗体。,"Female citizen's body discovered at 7-265 Via Thervatius, Pagus Stevonus.","Тело гражданки обнаружено по адресу: улица Терватиус, 7-265, Пагус Стевонус."
 line-492,费德里科,初步判断死因为自然死亡，请通知辖区安魂教堂前来收容遗体。,Preliminary determination of the cause of death: natural. Please notify the Ecclesia Requietum of the pagus to come and inter the remains.,"Предварительная причина смерти — естественная, прошу уведомить Экклесию Реквиетум для вывоза тела."
@@ -203,8 +203,8 @@ line-507,,别出门。,Don't go out.,Не выходи.
 line-508,,不要被其他人发现。,Don't let anyone else find you.,Не дай себя обнаружить.
 line-509,,绝对不能靠近穿着制服的人。,"Never, ever approach anyone in uniform.",Ни в коем случае не приближайся к людям в форме.
 line-510,,妈妈是这样说的。,That's what Mamma said.,Так говорила мама.
-line-511,,穿制服的人走了吗？还没有走吗？,Is the uniform man gone? Or still here?,Человек в форме ушел? Или ещё нет?
-line-512,,没关系，就像平时那样，有人来做客，塞茜莉亚就去自己的小沙发上睡午觉。睡醒了就可以继续陪妈妈了。,"It's alright. When someone visits, just take a nap on your little sofa, just like always. You can go back to Mamma when you wake up.","Ничего, как обычно, когда приходят гости, Сесилия идет спать на свой диванчик. Проснёшься — и сможешь снова быть с мамой."
+line-511,,穿制服的人走了吗？还没有走吗？,Is the uniform man gone? Or still here?,Человек в форме ушёл? Или ещё нет?
+line-512,,没关系，就像平时那样，有人来做客，塞茜莉亚就去自己的小沙发上睡午觉。睡醒了就可以继续陪妈妈了。,"It's alright. When someone visits, just take a nap on your little sofa, just like always. You can go back to Mamma when you wake up.","Ничего, как обычно, когда приходят гости, Сесилия идёт спать на свой диванчик. Проснёшься — и сможешь снова быть с мамой."
 line-513,,不要慌……塞茜莉亚。为什么心慌？,Don't panic... Cecelia. Why are you so worried?,Не паникуй... Сесилия. Почему ты так волнуешься?
 line-514,,为什么睡不着？,Why can't you fall asleep?,Почему не можешь уснуть?
 line-515,,没关系、没关系……只要等奇怪的人离开。,"It's okay, it's okay... you just need to wait for the stranger to leave.","Ничего, ничего... просто подожди, пока незнакомец уйдёт."
@@ -214,7 +214,7 @@ line-544,无奈的万国信使,别提了，帕夏们是很积极，只可惜每�
 line-545,无奈的万国信使,他们派来的使者彼此没有打起来我已经谢天谢地了。,I'm already thanking Heaven they haven't started brawling yet.,"Я уже благодарен судьбе за то, что посланные ими люди не передрались между собой."
 line-547,奥伦,卡西米尔呢，他们的阵仗可不小。,"What about Kazimierz? Their military's sizeable, no matter how you slice it.",А Казимеж? Их состав делегации немал.
 line-549,冷静的万国信使,监正会回绝了我们的提议，商业联合会倒是很有兴趣。,"The Adeptus Sprawiedliwi turned down our proposal, but the K.G.C.C. was actually very interested.","«Adeptus Sprawiedliwi» отклонили наше предложение, но Г.Т.П.К проявил к нему большой интерес."
-line-550,冷静的万国信使,甚至有一位代表主动找到了我。,One rep even sought me out.,Даже один из представителей сам нашел меня.
+line-550,冷静的万国信使,甚至有一位代表主动找到了我。,One rep even sought me out.,Даже один из представителей сам нашёл меня.
 line-551,冷静的万国信使,他和我聊了很多……这个人对于国际形势的了解，不亚于万国信使。,We had a long chat... he understood the international situation as well as any Legatus.,Мы долго общались... этот человек понимает международную ситуацию не хуже легатов.
 line-552,冷静的万国信使,如果不是他太忙，也许会亲自来这一趟。,"He might even come in person, if he's not too busy.","Если бы он не был так занят, возможно, приехал бы лично."
 line-554,无奈的万国信使,别光说我们，你呢，奥伦。,"But enough about us. How about you, Oren?","Но хватит о нас. А как насчет тебя, Орен?"
@@ -244,7 +244,7 @@ line-599,无奈的万国信使,就差莫斯提马了。,We're only missing Mosti
 line-601,奥伦,莫斯提马？哦，我刚才看到她了。,"Mostima? Ooh, I just happened to see her.","Мостима? Ох, я только что видел её."
 line-603,薇尔丽芙,她在干什么？,What's she doing?,Что она делает?
 line-605,奥伦,她正在享受家乡的气息。,Right now? Taking in her native air again.,Прямо сейчас? Наслаждается атмосферой родного города.
-line-607,薇尔丽芙,不用管她，本来也没有期待她会来。,"Ah, forget her. We were never counting on her to come anyway.","Ах, забудьте о ней. Мы все равно не рассчитывали на ее приезд."
+line-607,薇尔丽芙,不用管她，本来也没有期待她会来。,"Ah, forget her. We were never counting on her to come anyway.","Ах, забудьте о ней. Мы всё равно не рассчитывали на её приезд."
 line-608,薇尔丽芙,和以前一样，把她向阁下的汇报排到最后就行。,"She can report to His Holiness last and we're good, just like always.","Как и раньше, просто доложит Его Святейшеству последней."
 line-615,教宗骑士,教宗阁下到。,Sanctitas advenit.,Его Святейшество Папа прибыл.
 line-618,,霎时间，大厅静谧无声。,"In a split second, the hall is silent and still.",В одно мгновение в зале наступила тишина.
@@ -282,7 +282,7 @@ line-707,菲亚梅塔,"去哪里？ ","Where to? ",Куда?
 line-709,莫斯提马,当然是去见她。,"To see her, of course.","Конечно, встретиться с ней."
 line-716,莫斯提马,……啊，她是不是已经转院了？,"Oh, maybe she's in a different hospital now?","...а, она что, уже сменила больницу?"
 line-718,菲亚梅塔,……你上次回来都是多久之前的事了。,"It's been ages since the last time you returned, after all.","...ты хоть помнишь, сколько лет назад ты была здесь в последний раз?"
-line-720,菲亚梅塔,跟我走吧。,Follow me.,Идем со мной.
+line-720,菲亚梅塔,跟我走吧。,Follow me.,Идём со мной.
 line-729,艾泽尔,之前没怎么来过这个区，这里离城郊好像不远了……快到了吧？瑟法斯街7-265号……,"I haven't been to this pagus too often. It seems not too far from the outskirts... I should be nearly there, right? 7-265, Via Thervatius...","Раньше я не часто бывал в этом районе, кажется, это уже недалеко от пригорода... Скоро буду? Улица Терватиус, 7-265..."
 line-730,艾泽尔,停在那一家门口的……是安魂教堂的仪柩车？,Is that an... Ecclesia Requietum hearse stopped by that door?,Припаркован у входа... это катафалк Экклесии Реквиетум?
 line-732,艾泽尔,您好……修士！,"Hello? Excuse me, Sister!",Здравствуйте... сестра!
@@ -304,7 +304,7 @@ line-769,艾泽尔,哎，这样的病，放弃住院治疗也可以理解……�
 line-782,艾泽尔,嗯……？是邻居的孩子吗，为什么躲着我啊……,Hm...? Is that a neighbor's child? Why is she hiding from me...?,Хм...? Ребенок соседей? Почему она прячется от меня...?
 line-796,艾泽尔,小心！,Watch out!,Осторожно!
 line-803,艾泽尔,什么，不会吧，摔晕过去了？好像只是绊倒了，怎么至于……,Wha—did she faint? But why? She only tripped...,Что— она упала в обморок? Но почему? Она просто споткнулась...
-line-814,艾泽尔,有谁认识这孩子的父母吗！是住在附近的孩子吗？,Does anyone know who this child's parents are?! Does she live nearby?,Кто-нибудь знает родителей этого ребенка?! Она живет неподалеку?
+line-814,艾泽尔,有谁认识这孩子的父母吗！是住在附近的孩子吗？,Does anyone know who this child's parents are?! Does she live nearby?,Кто-нибудь знает родителей этого ребенка?! Она живёт неподалеку?
 line-816,关切的拉特兰市民,我没见过这孩子啊。她是晕过去了吗……不会摔倒时撞到头了吧？,I've never seen her before. Is she passed out...? What if she bumped her head when she fell?,Я её не видел до этого. Она в обмороке? Не ударилась ли головой при падении?
 line-818,冷静的拉特兰市民,我也没有见过，也许是新搬来的？可以问问社区办事处的人。,I've never seen her either. Maybe she just moved in? I can ask around at the neighborhood hall.,"Я тоже не видел, может, недавно переехали? Можно спросить в управлении района."
 line-820,热心的拉特兰市民,还找什么办事处！如果真摔到脑袋了，得赶紧去医院啊！,"What for?! If she's hit her head, then we need to get her to the hospital!","Какое управление?! Если она ударилась головой, ей нужно срочно в больницу!"

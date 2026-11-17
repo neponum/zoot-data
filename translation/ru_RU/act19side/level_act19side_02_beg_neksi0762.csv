@@ -6,7 +6,7 @@ __chapter__,,Chapter Name,activities/act19side/level_act19side_02_beg,拓荒者�
 ,,,,
 char-1,格雷伊,格雷伊,Greyy,Грей
 char-2,桑尼,桑尼,Sonny,Сонни
-char-3,莱茵防卫科成员,莱茵防卫科成员,Rhine Defense Member,Член охраны Rhine Lab
+char-3,莱茵防卫科成员,莱茵防卫科成员,Rhine Defense Member,Член охраны Рейн Лаб
 char-4,玛丽,玛丽,Mary,Мэри
 char-5,埃琳娜,埃琳娜,Elena,Елена
 char-6,赫默,赫默,Silence,Сайленс
@@ -66,7 +66,7 @@ line-117,格雷伊,欸？我只是实话实说。,Eh? I'm just telling it like i
 line-119,格雷伊,在来之前，我就一直想看看哥伦比亚大名鼎鼎的拓荒区是什么模样。,I'd always wanted to see what the famous Columbian frontier was like.,"До приезда сюда я всё хотел увидеть, как выглядит знаменитые первопроходческие районы Колумбии."
 line-121,桑尼,那你失望了吗？这里说不定比你的家乡还要荒凉。,"Well, you disappointed? Might be more desolate than your hometown here.","И ты разочарован? Тут, возможно, ещё более пусто, чем у тебя на родине."
 line-123,格雷伊,不，领队先生，我还是学到了很多。,"No, Mr. Sonny, I think I've learned a lot.","Нет, сэр, я всё же многому научился."
-line-124,格雷伊,比如说，你们的电源线路设计果然和Mechanist先生说得一样，简洁且有效率啊。,"For example, the way your power lines are designed really is economical and efficient, just as Mechanist described.","Например, дизайн ваших линий электропередач действительно такой же, как говорил господин Механист: лаконичный и эффективный."
+line-124,格雷伊,比如说，你们的电源线路设计果然和Mechanist先生说得一样，简洁且有效率啊。,"For example, the way your power lines are designed really is economical and efficient, just as Mechanist described.","Например, дизайн ваших линий электропередач действительно такой же, как говорил господин Mechanist: лаконичный и эффективный."
 line-136,莱茵防卫科成员,警长，载具准备好了。,"Officer, the vehicle's ready.","Офицер, транспорт готов."
 line-138,玛丽,带上防具。,Make sure you've got the right equipment.,"Убедитесь, что у вас есть необходимое оборудование."
 line-139,玛丽,我刚看见了，他们手上有自制手弩。,I saw them with handmade crossbows.,Я видела у них в руках самодельные арбалеты.
@@ -90,7 +90,7 @@ line-179,桑尼,……,......,...
 line-181,桑尼,我，一个拓荒者，现在恐怕还成了绑架犯……向你描述中这么好的公司投递简历？,"Me, a Pioneer, and looking like a kidnapper now... handing my CV to a company as fine as you're talking about?","Я, первопроходец, и теперь, похоже, ещё и похититель... собираюсь отправить резюме в компанию, которую ты так расхваливаешь?"
 line-182,桑尼,别拿我开玩笑了。,Pretty funny joke there.,Хватит шутить надо мной.
 line-184,桑尼,你再怎么谦虚，我也能看出来，你是一个多么富有潜力的工程师。,"Humble yourself all you want, but I can still tell how much potential you got as an engineer.","Как бы ты ни скромничал, я вижу, какой ты талантливый инженер."
-line-186,桑尼,更别提你那三位同事……她们身为感染者，还能被莱茵生命雇佣，你知道这有多难吗？,"Not to mention your three ladies in there... They're all Infected, and they still got hired by Rhine Lab? Do you know how tough that is?","Не говоря уже о твоих трех коллегах... будучи инфицированными, они смогли продолжить работать в Rhine Lab. Ты понимаешь, насколько это сложно?"
+line-186,桑尼,更别提你那三位同事……她们身为感染者，还能被莱茵生命雇佣，你知道这有多难吗？,"Not to mention your three ladies in there... They're all Infected, and they still got hired by Rhine Lab? Do you know how tough that is?","Не говоря уже о твоих трех коллегах... будучи инфицированными, они смогли продолжить работать в Рейн Лаб. Ты понимаешь, насколько это сложно?"
 line-188,格雷伊,唔……她们的确很优秀……,"Um... yeah, they definitely are outstanding...",М-м... они действительно очень талантливы...
 line-190,桑尼,不，不止是优秀。她们是万里挑一，在各自领域出类拔萃。,"No, not just outstanding. They're one in a million. Top of their fields.","Нет, не просто талантливы. Они единственные в своем роде, лучшие в своих областях."
 line-191,桑尼,每年有那么多感染者，只有极少数天才能得到“赦免”。,"You got so many Infected each year, and only the tiniest number of talents ever get 'pardoned.'","Каждый год тысячи инфицированных пытаются получить «помилование», но лишь единицы гениев его добиваются."
@@ -124,7 +124,7 @@ line-249,埃琳娜,唔……这不算安抚吧？,"Yeah... not much of a consola
 line-250,埃琳娜,再怎么说，我在罗德岛治病的那些日子里，还给主任写完了三篇顶会论文啊。,"I mean, all the time I was getting treated at Rhodes Island, I ended up writing the director three entire conference papers.","В конце концов, за те дни, что я лечилась в Родосе, я всё равно успела написать три научные статьи для руководителя."
 line-252,赫默,我理解你的想法，因为我也差不多。,I understand your perspective; I'm more or less the same.,"Я понимаю твою мысль, потому что я такая же."
 line-254,赫默,我远不及你乐观纯粹，我担忧过未来，也因此感激过帕尔维斯和莱茵生命。,"I'm far less purely optimistic than you. I've worried about the future, and following from that, I was thankful to Parvis and Rhine Lab, for a time.","Я далеко не так оптимистична и чиста, как ты. Я беспокоилась о будущем и была благодарна Парвису и компании."
-line-255,赫默,可我……我也从未怀疑过自己的天赋，以及我的天赋能带给莱茵生命的回报。,"But I... I've never doubted my own abilities, nor what they could do for Rhine Lab in return.","Но я... я никогда не сомневалась в своих способностях и в том, какую пользу они принесут Rhine Lab."
+line-255,赫默,可我……我也从未怀疑过自己的天赋，以及我的天赋能带给莱茵生命的回报。,"But I... I've never doubted my own abilities, nor what they could do for Rhine Lab in return.","Но я... я никогда не сомневалась в своих способностях и в том, какую пользу они принесут Рейн Лаб."
 line-257,赫默,矿石病对我们来说是必须要克服的挑战，它不会蚕食全部的生活。,"For us, Oripathy is a challenge to overcome; it's not going to gnaw our entire lives away.","Орипатия для нас — лишь вызов, который мы обязаны преодолеть, она не съест всю нашу жизнь."
 line-258,赫默,而这就是为何……格雷伊能做到我们都做不到的事。,And that's why... Greyy can do what we can't.,"Вот почему... Грейи способен на то, на что мы не способны."
 line-270,格雷伊,桑尼先生，我想指出，您说的话里有一些互相冲突的地方。,"Mr. Sonny, I'd like to point out, there's a kind of contradiction in what you're saying.","Господин Сонни, я хочу отметить, что в ваших словах есть некоторые противоречия."

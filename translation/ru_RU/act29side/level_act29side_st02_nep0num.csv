@@ -22,7 +22,7 @@ char-15,莱辛,莱辛,Lessing,Лессинг
 char-16,宪兵,宪兵,Gendarmerie,Жандарм
 char-17,“阿尔图罗”,“阿尔图罗”,'Arturia',Артуро
 ,,,,
-line-11,薇薇安娜,......升起的乌提卡密室破坏了路德维格大学原有的地块，加上受赫尔昏佐伦的术式影响，学校暂时无法照常运转。,"...The rising of the Urticas' secret chamber destroyed the original plate of Ludwigs-Universität. Coupled with the influence of Herkunftshorn's Arts, the school can no longer function normally.","...Поднявшаяся комната Утицы разрушила фундамент Университета Людвига, и из-за воздействия術式 (заклинаний) Герхонцолена школа временно не может функционировать в обычном режиме."
+line-11,薇薇安娜,......升起的乌提卡密室破坏了路德维格大学原有的地块，加上受赫尔昏佐伦的术式影响，学校暂时无法照常运转。,"...The rising of the Urticas' secret chamber destroyed the original plate of Ludwigs-Universität. Coupled with the influence of Herkunftshorn's Arts, the school can no longer function normally.","...Поднявшаяся комната Утицы разрушила фундамент Университета Людвига, и из-за воздействия Искусств Герхонцолена школа временно не может функционировать в обычном режиме."
 line-12,薇薇安娜,目前女皇之声已从宪兵手上接过了清扫任务。未受波及的师生也都被迁出了学校，安置在距离最近的奥斯滕多夫区块。,"For now, the Empresses' Voice have taken over the cleanup operation from the Gendarmerie. Unaffected students and faculty have been relocated to neighboring Ostendorfhof.","На данный момент «Голос Императрицы» взял на себя задачу по зачистке территории от жандармов. Ученики и преподаватели, которых это не затронуло, уже эвакуированы из школы и размещены в ближайшем квартале Остендорф."
 line-13,薇薇安娜,清扫工作会持续一周左右，在这之后，他们将能重返校园......,"The cleanup will take about a week. Thereafter, they will be able to return to campus...","Работы по зачистке продлятся около недели, после чего они смогут вернуться в университет..."
 line-15,？？？,不必了。路德维格大学图书馆将移至新利奥波德区，归帝国博物院管辖。其余校舍与位于巴赫区的帝国法术学院合并。,No need. Ludwigs-Universität's library will be relocated to Neuleopoldshof and fall under the purview of the Reichsmuseum. The other campuses and faculties will be merged into the Reichskunstakademie in Bachshof.,В этом нет необходимости. Библиотека Университета Людвига будет перенесена в район Нового Леопольда и перейдёт под управление Императорской Академии художеств. Остальные корпуса будут объединены с Императорской Академией искусств в районе Баха.
@@ -194,7 +194,7 @@ line-380,黑键,“尘世之音”不是钥匙，我对双子女皇没有用了�
 line-382,莱辛,因为没有......,Because there is no...,Потому что нет...
 line-384,黑键,......没有必要，对吗？,...No need? Is that it?,"...Нет необходимости, верно?"
 line-386,黑键,那我的兄弟呢？他甚至就那样死了。死在......用你们的话说，一个和钳兽放的“闷屁”差不多的蠢计划里。多么难听......多么讽刺！,"Then what about my brother? He died. He died because of a stupid plan like... To borrow a phrase, like a gloompincer's depressing fart. Such nonsense... such <i>irony</i>!","А как же мой брат? Он просто погиб. Погиб в... как вы сказали, глупом плане, не лучше «глухого пука» зверя. Как грубо... какая ирония!"
-line-388,黑键,直到死前，他还在感激......感激与我的相遇，感激他的老师教会他拉琴。,"He was grateful, you know, right up until he died... Grateful for our meeting, grateful for the instructor who taught him the cello.","До самой смерти он был благодарен... благодарен за нашу встречу, благодарен за то, что его учитель научил его играть на скрипке."
+line-388,黑键,直到死前，他还在感激......感激与我的相遇，感激他的老师教会他拉琴。,"He was grateful, you know, right up until he died... Grateful for our meeting, grateful for the instructor who taught him the cello.","До самой смерти он был благодарен... благодарен за нашу встречу, благодарен за то, что его учитель научил его играть на виолончели."
 line-389,黑键,可我们的相遇是被格特鲁德利用的。他思念着的老师还和巫王残党有牵扯。,But our meeting was exploited by Gertrude. The teacher he admired was mixed up with the Witch King's remains.,"А ведь наша встреча была использована Гертрудой. Его учитель, о котором он тосковал, все ещё связан с остатками Короля-Чародея."
 line-391,黑键,哈哈，到了此时此刻......你们告诉我，“尘世之音”都成了个误会！,"Hah, and now you tell me... you tell me the Voice of Mundane was all a wacky misunderstanding the entire time!","Ха, и в этот самый момент... вы говорите мне, что «Звуки бренного мира» — это недоразумение!"
 line-392,黑键,那我们活着，死去，相遇，离别，到底有什么意义？,"So we lived, died, met, parted, all for what? Where is the meaning in any of it?","Тогда в чем смысл наших жизней, смертей, встреч и прощаний?"
@@ -276,7 +276,7 @@ line-620,“阿尔图罗”,啊，您看，您克制不了这个念头的诞生�
 line-621,“阿尔图罗”,如果站在这里的是您的父亲，他会怎么做？,"If your father were standing here, what would he do?","Если бы здесь стоял ваш отец, что бы он сделал?"
 line-623,薇薇安娜,父亲......,My father...,Отец...
 line-624,薇薇安娜,......他什么都不会做。,He wouldn't do anything.,...Он ничего бы не сделал.
-line-625,薇薇安娜,他会接受命运的安排，背过身去。,"He would accept fate's plan, and turn away.",Он принял бы安排 (устройство/план) судьбы и отвернулся бы.
+line-625,薇薇安娜,他会接受命运的安排，背过身去。,"He would accept fate's plan, and turn away.",Он принял бы уготовленное судьбой и отвернулся бы.
 line-627,“阿尔图罗”,即便在这之后，他会活在无尽的痛苦与悔恨之中。,Even though he would go on to live with endless pain and regret.,Даже если после этого он будет жить в бесконечной боли и раскаянии.
 line-628,“阿尔图罗”,那么，您呢？您也一样......吗？,"And so, what about you? Would you... do the same?",А вы? Вы тоже... такая же?
 line-630,薇薇安娜,我和他......,He and I...,Я и он...

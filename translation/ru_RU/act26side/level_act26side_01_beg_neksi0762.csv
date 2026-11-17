@@ -9,9 +9,9 @@ char-2,修道院居民,修道院居民,Monastery Inhabitant,Житель мон�
 char-3,福尔图娜,福尔图娜,Fortuna,Фортуна
 char-4,德尔菲娜,德尔菲娜,Delfina,Дельфина
 char-5,？？？,？？？,???,???
-char-6,莱蒙德,莱蒙德,Raimund,Раймунд
-char-7,斯普莉雅,斯普莉雅,Serpilia,Серпилия
-char-8,里凯莱,里凯莱,Richele,Ришель
+char-6,莱蒙德,莱蒙德,Raimund,Раймонд
+char-7,斯普莉雅,斯普莉雅,Serpilia,Спририя
+char-8,里凯莱,里凯莱,Richele,Рикеле
 char-9,费德里科,费德里科,Federico,Федерико
 char-10,阿尔图罗,阿尔图罗,Arturia,Артурия
 char-11,杰拉尔德,杰拉尔德,Gerald,Джеральд
@@ -50,15 +50,15 @@ line-68,蕾缪安,嗯，这个嘛……,"Well, um, about that...","Ну, нас�
 line-69,蕾缪安,这个问题，我也很想问一问我的上级呢。,It's a question I'd like to ask my superiors.,Я бы и сама очень хотела задать этот вопрос своему начальству.
 line-81,福尔图娜,……,...,...
 line-91,福尔图娜,为什么我们不回去？,Why don't we go back?,Почему мы не возвращаемся?
-line-93,德尔菲娜,因为莱蒙德他们不能和我们一起！这个理由还不足够？,Because Raimund and the others can't go with us! Isn't that reason enough?,Потому что Раймунд и остальные не могут с нами! Этого аргумента мало?
+line-93,德尔菲娜,因为莱蒙德他们不能和我们一起！这个理由还不足够？,Because Raimund and the others can't go with us! Isn't that reason enough?,Потому что Раймонд и остальные не могут с нами! Этого аргумента мало?
 line-95,德尔菲娜,难道你要抛下他们？我做不到！,"You want to leave them behind? Well, I don't!",Или ты хочешь их бросить? Я не могу!
 line-103,福尔图娜,（笨蛋菲娜，难道我看起来是这么冷血的人吗？要把从小一起长大的朋友丢下，这我当然也做不到啊。）,"(Stupid Fina, do you really think I'm that cold-blooded? Of course I'm not going to leave behind the people I grew up with.)","(Глупая Фина, неужели я выгляжу настолько бессердечной? Конечно, я не могу просто так бросить друзей, с которыми выросла.)"
-line-104,福尔图娜,（可是继续像现在这样僵持下去也不是办法，最近大家脾气都开始变坏了……）,"(But, we can just stay stuck like this forever either. Tempers have really been high lately...)","(Но продолжать оставаться  — не выход, в последнее время все начали злиться из-за пустяков...)"
+line-104,福尔图娜,（可是继续像现在这样僵持下去也不是办法，最近大家脾气都开始变坏了……）,"(But, we can just stay stuck like this forever either. Tempers have really been high lately...)","(Но продолжать оставаться — не выход, в последнее время все начали злиться из-за пустяков...)"
 line-105,福尔图娜,（真的就没有什么更好的解决方法了吗？）,(Is there no better solution?),(Неужели нет никакого лучшего способа это решить?)
 line-107,福尔图娜,唉……,*sigh*...,*Вздох*...
 line-109,？？？,怎么了，怎么又唉声叹气？,What's wrong? What are you sighing for this time?,"Что случилось, почему опять вздыхаешь?"
 line-115,莱蒙德,真稀奇，怎么就你一个人，德尔菲娜竟然没和你在一起？,That's odd... Why are you here by yourself? Delfina's not with you?,"Странно, как это ты одна, разве Дельфины нет рядом с тобой?"
-line-124,福尔图娜,莱蒙德！,Raimund!,Раймунд!
+line-124,福尔图娜,莱蒙德！,Raimund!,Раймонд!
 line-126,福尔图娜,你这话什么意思，我和菲娜也不是时时刻刻都在一起吧？,What's that supposed to mean? It's not like Delfina and I are stuck together!,"Что ты имеешь в виду? Мы с Финой не обязаны быть вместе каждую секунду, верно?"
 line-128,莱蒙德,差不多吧，你们不是关系好得就差睡一张床了吗。,"You might as well be. You're close enough, just one step from sharing a bed.","Почти, вы же так близки, что чуть ли не в одной постели спите."
 line-130,福尔图娜,我们有时候是会一起睡……呃，不对，重点不是这个！,"We do sleep together sometimes though... Hey wait, that's not the point!","Иногда мы спим вместе... э-э, нет, не в этом суть!"
@@ -78,7 +78,7 @@ line-154,莱蒙德,我是想问，你们要不要和我们一起……,I wanted 
 line-156,,青年的话语在中途停住了。,The young man stopped speaking halfway through.,Молодой человек запнулся на полуслове.
 line-157,,他忽然沉默起来。,He suddenly falls silent.,Он внезапно замолчал.
 line-159,莱蒙德,……,...,...
-line-161,福尔图娜,莱蒙德？,Raimund?,Раймунд?
+line-161,福尔图娜,莱蒙德？,Raimund?,Раймонд?
 line-163,莱蒙德,……算了，没什么。,"Never mind, it's no big deal.","...забудь, ничего."
 line-165,莱蒙德,一会我要出去一趟，可能得晚一点回来。,"I need to leave for a bit, and might not be back until late.","Я сейчас ухожу по делам, вернусь, возможно, поздно."
 line-166,莱蒙德,福尔图娜，晚餐前你能来楼顶的圣堂一趟吗？,"Fortuna, can you come to the roof of the sacrarium before dinner?","Фортуна, ты сможешь подойти к часовне на крыше перед ужином?"
@@ -99,7 +99,7 @@ line-208,里凯莱,下午好，这位先生，我们三人来自拉特兰，不�
 line-210,莱蒙德,……,...,...
 line-211,莱蒙德,拉特兰的人来这种荒郊野岭有何贵干？,What brings some Laterans all the way out to these remote mountains?,Что люди из Латерано делают в такой глуши?
 line-213,里凯莱,呃，我们是受教宗阁下派遣，来这里寻找我们的两位同僚……,"Um, we were sent by His Holiness in search of two compatriots.","Э-э, мы отправлены Его Святейшеством, чтобы найти здесь двух наших коллег..."
-line-215,费德里科,你是在浪费时间，里凯莱。,"You're wasting your time, Richele.","Ты теряешь время, Ришель."
+line-215,费德里科,你是在浪费时间，里凯莱。,"You're wasting your time, Richele.","Ты теряешь время, Рикеле."
 line-216,费德里科,从表现来看，我认为他很清楚我们的身份与来此的动机，并且怀有敌意。,It is clear to me that he knows exactly who we are and why we have come. He has hostile intent.,"Судя по его поведению, он прекрасно знает, кто мы такие и зачем пришли, и настроен враждебно."
 line-218,费德里科,你对拉特兰很反感，表现出了明显的排斥以及不满。你的敌意从何而来？,"You clearly have strong animosity towards Laterano, judging from the displeasure on your face. From where does your hostility come?","Ты крайне неприязненно относишься к Латерану, демонстрируя явное отторжение и недовольство. Откуда эта враждебность?"
 line-220,莱蒙德,……我不知道你在说什么。,...I have no idea what you're talking about.,"...не знаю, о чем ты говоришь."
@@ -166,7 +166,7 @@ line-383,莱蒙德,哼，说得好听。,Hmph. You sure can talk.,"Хм, зву�
 line-384,莱蒙德,你管他这样的叫没有敌意？,That bruiser of yours means me no harm?,"Ты называешь такого, как он, «без враждебности»?"
 line-386,费德里科,？,?,?
 line-388,里凯莱,咳，我可以发誓。总之……可以先放我们进去吗？如果方便通知一下这边的负责人就最好不过了。,"Ahem, well, you have my word. Either way... could you please let us through? If you could tell the man in charge we're here, that would be ideal.","Кхе, могу поклясться. В общем... можно нам войти? Если не трудно, было бы хорошо сообщить кому-то из руководства."
-line-390,里凯莱,斯普莉雅……咦，斯普莉雅人呢？,Serpilia... Huh? Where did Serpilia go?,"Серпилия... э, а где Серпилия?"
+line-390,里凯莱,斯普莉雅……咦，斯普莉雅人呢？,Serpilia... Huh? Where did Serpilia go?,"Спририя... э, а где Спририя?"
 line-392,费德里科,她已经进去了。,She's already inside.,Она уже внутри.
 line-395,莱蒙德,啊？那个女人什么时候——？！,Huh? When she–?!,А? Когда эта женщина успела—?!
 line-397,费德里科,刚刚。,Just now.,Только что.
@@ -177,9 +177,9 @@ line-404,费德里科,……,...,...
 line-406,莱蒙德,我警告你们，别想着和那个女人一样乱跑——,"A warning, first: no running off like that woman–","Предупреждаю, не вздумайте разгуливать тут, как та женщина—"
 line-412,克莱芒,不好了！快、快来人！,"Oh no! Hurry, s-someone!","Беда! Скорей, помогите кто-нибудь!"
 line-414,莱蒙德,克莱芒？怎么了，发生什么事了？！,Clément? What's wrong? What happened?!,"Клемент? Что случилось, в чем дело?!"
-line-416,克莱芒,莱蒙德！太好了，快通知其他人——,"Thank goodness, Raimund! Let the others know–","Раймунд! Хорошо, что ты здесь, нужно срочно предупредить остальных—"
+line-416,克莱芒,莱蒙德！太好了，快通知其他人——,"Thank goodness, Raimund! Let the others know–","Раймонд! Хорошо, что ты здесь, нужно срочно предупредить остальных—"
 line-418,费德里科,有敌袭？,A raid?,Вражеская атака?
-line-420,克莱芒,呃，是的！不对，莱蒙德，这两位是……？,"Yeah, that's right! Err, Raimund, who are these two?","Да, всё верно! Э-э, Раймунд, кто эти двое?"
+line-420,克莱芒,呃，是的！不对，莱蒙德，这两位是……？,"Yeah, that's right! Err, Raimund, who are these two?","Да, всё верно! Э-э, Раймонд, кто эти двое?"
 line-422,莱蒙德,别管他们！具体是什么情况？！,Don't worry about them! What's going on?!,Не важно кто они! Что происходит?!
 line-424,克莱芒,啊，对，对……不好了！,"Oh, r-right... It's terrible!","А, д-да... беда!"
 line-425,克莱芒,我刚刚修缮窗户时，看到不远处有些动静——,"I was repairing the windows just now, when I saw something moving in the distance–",Я только что чинил окно и заметил движение в далеке—

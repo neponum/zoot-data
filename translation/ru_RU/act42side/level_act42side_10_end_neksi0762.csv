@@ -2,7 +2,7 @@ ID,Character,Original Text,Reference,Translation
 __translator__,,Translator,,neksi0762
 __language__,,Language,en_US,ru_RU
 char-1,帕特里奇昂,帕特里奇昂,Patrizion,Патрицион
-char-2,“圣徒”,“圣徒”,Saint',"""Святой"""
+char-2,“圣徒”,“圣徒”,Saint',«Святой»
 char-3,？？？,？？？,???,???
 char-4,梵里妮,梵里妮,Vannini,Ваннини
 char-5,潘格尼尼,潘格尼尼,Paganini,Паганини
@@ -39,8 +39,8 @@ char-35,小孩们,小孩们,Children,Дети
 ,,,,
 line-15,帕特里奇昂,……,...,...
 line-20,,“圣徒”拖动巨大的身躯，行走在队伍的最前面，那个叫蕾缪乐的萨科塔仍在上蹿下跳，变魔术般地掏出一把把铳，向着她倾泻火力……,"The 'Saint' drags her massive body along as she walks at the head of the procession. The Sankta named Lemuel jumps around, pulling out gun after gun like prestidigitation, raining a hail of gunfire onto her quarry.","«Святой» волочила своё огромное тело, шагая во главе процессии. Санкта по имени Лемуэль продолжала прыгать вокруг, словно по волшебству извлекая оружие и обрушивая на неё шквал огня..."
-line-21,,但“圣徒”仍然回头看了一眼。,But the 'Saint' barely even spares her a glance.,Но «Святой» едва ли бросает на нее взгляд.
-line-25,,她头顶的光环闪烁，哪怕隔着那么远的距离，帕特里奇昂仍清晰地听到了对方的“声音”。,"Her halo shimmers, and despite the great distance separating them, Patrizion still hears her 'voice' with perfect clarity.","Ее нимб мерцает, и, несмотря на огромное расстояние, разделяющее их, Патрицион по-прежнему слышит ее «голос» с совершенной отчетливостью."
+line-21,,但“圣徒”仍然回头看了一眼。,But the 'Saint' barely even spares her a glance.,Но «Святой» едва ли бросает на неё взгляд.
+line-25,,她头顶的光环闪烁，哪怕隔着那么远的距离，帕特里奇昂仍清晰地听到了对方的“声音”。,"Her halo shimmers, and despite the great distance separating them, Patrizion still hears her 'voice' with perfect clarity.","Её нимб мерцает, и, несмотря на огромное расстояние, разделяющее их, Патрицион по-прежнему слышит её «голос» с совершенной отчетливостью."
 line-26,,毫无疑义，共感在加强，这说明这场漫长的旅程越来越靠近终点。,"Their empathy is growing stronger, which means their long journey approaches its end.","Сомнений не было: Эмпатия усиливалась, а это означало, что это долгое путешествие приближается к концу."
 line-27,“圣徒”,帕特里奇昂，将你的挚友暂时交给其他的同胞吧，我们无需为他致哀。,"Allow our other cohorts to take care of your friend's remains, Patrizion. We do not need to mourn him.","Патрицион, оставь своего дорогого друга на попечение других сородичей, нам не нужно оплакивать его."
 line-29,帕特里奇昂,圣徒……,Your Beatitude...,Ваше Преподобие...
@@ -57,7 +57,7 @@ line-58,帕特里奇昂,……,...,...
 line-59,帕特里奇昂,啊，你是那个学徒？,"Ah, you are his apprentice, yes?","Ах, ты его ученица, верно?"
 line-61,梵里妮,老师……在哪？,Magister Paganini... Where is he?,Учитель... где он?
 line-63,帕特里奇昂,他……,He...,Он...
-line-65,梵里妮,老师警告我。所以在梦里，我、我……藏在工坊。醒来后，我也犹豫了很久……,"He warned me. So in the dream, I-I... hid in the workshop. After I awoke, I still hesitated for so long...",Учитель предупреждал меня. Поэтому во сне я... я... пряталась в мастерской. После пробуждения я еще долго колебалась...
+line-65,梵里妮,老师警告我。所以在梦里，我、我……藏在工坊。醒来后，我也犹豫了很久……,"He warned me. So in the dream, I-I... hid in the workshop. After I awoke, I still hesitated for so long...",Учитель предупреждал меня. Поэтому во сне я... я... пряталась в мастерской. После пробуждения я ещё долго колебалась...
 line-66,梵里妮,现在的你……很可怕，拉特兰很可怕，我不清楚发生了什么，我连守护铳都还没有……,"Right now, you're... scary. Laterano's scary. I don't know what's going on, I don't even have a patron firearm...","Ты сейчас... очень пугающий, Латеран пугающий, я не знаю, что происходит, у меня даже нет оружия-покровителя..."
 line-67,梵里妮,可我不能躲着、等着……,But I can't just hide and wait...,Но я не могу просто прятаться и ждать...
 line-69,帕特里奇昂,所以，你为自己做了这把铳，然后来阻拦我？,So you made yourself that gun and came to stop me?,"Значит, ты сама сделала это оружие, чтобы остановить меня?"
@@ -66,7 +66,7 @@ line-73,帕特里奇昂,真勇敢。,That's very brave of you.,Какая хра
 line-74,帕特里奇昂,可是孩子，看到这支队伍了吗？我们在孕育一个奇迹，而几乎所有的拉特兰人都参与其中……,"But do you see this procession, my child? We will birth a miracle, one that nearly all Laterans will be a part of.","Но дитя, ты видишь эту процессию? Мы взращиваем чудо, и почти все жители Латерано примут в нём участие..."
 line-75,帕特里奇昂,这并不“可怕”。,It's not 'scary'.,Это вовсе не «пугающе».
 line-77,梵里妮,（摇头）和我，没关系。,(Shakes head) That's got... nothing to do with me.,(Качает головой) Это... не имеет ко мне никакого отношения.
-line-78,梵里妮,我说话，不太会……想不到更、更糟糕的词……,I'm not very... good with words. I couldn't... couldn't think of any worse ones...,Я не очень… умею подбирать слова. Я не… не могу придумать ничего хуже…
+line-78,梵里妮,我说话，不太会……想不到更、更糟糕的词……,I'm not very... good with words. I couldn't... couldn't think of any worse ones...,Я не очень... умею подбирать слова. Я не... не могу придумать ничего хуже...
 line-79,梵里妮,老师，我唯一亲人……,Magister Paganini was... my only family...,Учитель Паганини был... моей единственной семьей...
 line-80,梵里妮,我和拉特兰，唯一，联系。,My only... connection... to Laterano...,Моей... единственной связью... с Латерано.
 line-82,帕特里奇昂,唯一的联系啊……,"Your only connection, huh...?","Единственная связь, значит..."
@@ -79,10 +79,10 @@ line-105,潘格尼尼,很难过？,"Tragic, isn't it?","Трагедия, не �
 line-107,帕特里奇昂,……,...,...
 line-109,潘格尼尼,和吉雅走的时候比呢？,Worse than when Gia left?,"Хуже, чем когда Джиа ушла?"
 line-111,帕特里奇昂,……,...,...
-line-113,潘格尼尼,你还要听那个怪物的，继续护着这支队伍往前？,You still going to listen to that monster? Going to keep protecting the crowd on this walk?,Ты и дальше будешь слушать это чудовище?  Будешь продолжать защищать толпу?
+line-113,潘格尼尼,你还要听那个怪物的，继续护着这支队伍往前？,You still going to listen to that monster? Going to keep protecting the crowd on this walk?,Ты и дальше будешь слушать это чудовище? Будешь продолжать защищать толпу?
 line-115,帕特里奇昂,……,...,...
 line-118,潘格尼尼,别以为我不懂你在想什么。,Don't think I don't know what you're thinking.,"Не думай, что я не понимаю, о чем ты думаешь."
-line-119,潘格尼尼,五十年前的拉特兰，让你不得不驱逐一个感染了的黎博利……十年前的拉特兰，让你不得不驱逐一个堕天了的铳骑……,The Laterano of fifty years ago forced you to banish an infected Liberi. The Laterano of ten years ago forced you to banish a fallen gun-knight.,Пятьдесят лет назад Латерано заставил тебя изгнать заражённую Либери... десять лет назад Латерано заставил тебя изгнать падшего Рыцаря-стрелка...
+line-119,潘格尼尼,五十年前的拉特兰，让你不得不驱逐一个感染了的黎博利……十年前的拉特兰，让你不得不驱逐一个堕天了的铳骑……,The Laterano of fifty years ago forced you to banish an infected Liberi. The Laterano of ten years ago forced you to banish a fallen gun-knight.,Пятьдесят лет назад Латерано заставил тебя изгнать инфицированную Либери... десять лет назад Латерано заставил тебя изгнать падшего Рыцаря-стрелка...
 line-120,潘格尼尼,甚至现在你的孙女，也有太多偏执的想法，说不定哪天也会……,"Even your granddaughter is far too stubborn and opinionated. Who knows if someday, she too will...","Даже у твоей внучки сейчас слишком много навязчивых идей; кто знает, может, когда-нибудь она сама станет такой..."
 line-121,潘格尼尼,所以，你渴望一个更好的拉特兰？,"So, you hope for a better Laterano?",Так ты жаждешь лучшего Латерана?
 line-122,潘格尼尼,那个拉特兰会像个医术突然精进的医生一样，能够治疗矿石病，能够修补性格里的缺陷，能够让所有人毫无保留地接纳彼此？,"You want it to be like a doctor who becomes a miracle worker, able to treat Oripathy, able to fix personality flaws, able to make everyone accept one another, no questions asked?","Такого, который, словно врач-чудотворец, смог бы исцелить орипатию, исправить изъяны характера и заставить всех принять друг друга без возражениё?"
@@ -94,7 +94,7 @@ line-131,潘格尼尼,哪怕没法阻止，你也可以在那时候送上祝福�
 line-132,潘格尼尼,你又不像梵里妮那样有语言障碍，让自己少一些遗憾的方法，很难找吗？,It's not like you have a speech impediment like Vannini. Is it so hard to find a way to shed some of your regret?,"У тебя же нет дефекта речи, как у Ваннини. Неужели так сложно найти способ избавиться от части своих сожалений?"
 line-136,帕特里奇昂,别说了，坚持住！,Enough talk! Just hang on!,"Не говори больше, держись!"
 line-140,潘格尼尼,坚持个屁，咳咳，这可是……能洞穿铳骑盔甲的子弹……,"Hang on, my feathery ass—*cough*—This is... a bullet that can cut right through gun-knight armor...","Держи мой пернатый зад—*Кашель*— Это ведь... пуля, способная пробить доспех Рыцаря-стрелка насквозь..."
-line-141,潘格尼尼,别动我，让我把话说完，不然我死得更快……,"Don't touch me. Let me finish, otherwise I'll step into the grave that much quicker.","Не трогай меня. Дай мне закончить, иначе я еще быстрее ступлю в могилу."
+line-141,潘格尼尼,别动我，让我把话说完，不然我死得更快……,"Don't touch me. Let me finish, otherwise I'll step into the grave that much quicker.","Не трогай меня. Дай мне закончить, иначе я ещё быстрее ступлю в могилу."
 line-143,帕特里奇昂,好、好……,A-Alright then...,Х-хорошо...
 line-146,潘格尼尼,你这是什么语气？帕特里奇昂，别在那想一些矫情的事！,"What's with the tone? Don't even think about getting sentimental on me, Patrizion!","Что это за тон? Патрицион, не думай о чем-то сентиментальном!"
 line-147,潘格尼尼,你以为我为什么要救你？,Why do you think I saved you?,"Что за тон? Даже не думай проявлять сентиментальность, Патрицион!"
@@ -140,7 +140,7 @@ line-234,帕特里奇昂,……,...,...
 line-235,帕特里奇昂,或许我自己也搞不懂，哈哈，毕竟已经是个老糊涂了。,"I don't really know myself, haha. I'm an old addlepate, after all.","Я сам толком не знаю, ха-ха. В конце концов, я старый болван."
 line-236,帕特里奇昂,我一直坚信，如果乐园能成为真正的乐园，我们的联系就能牢不可破。,"I always believed that, were Paradise to become a true paradise, our connections would become unbreakable.","Я всегда верил, что если Рай может стать настоящим раем, то наши связи станут нерушимыми."
 line-237,帕特里奇昂,可如果在这个过程中，我们已经失去了更多呢？,"But what if in the course of all that, we lost more than we already had?","Но что, если в ходе всего этого мы потеряем больше, чем уже имели?"
-line-238,帕特里奇昂,会不会，我们修补好了一切遗憾，可到那时，反而连圆满都失去了它本来的意义？,"We might ease our regrets, but when the time comes, what if our success has lost all meaning?","Мы, возможно, сумеем смягчить свои сожаления, но что, если к тому моменту, когда придет время, наш успех утратит всякий смысл?"
+line-238,帕特里奇昂,会不会，我们修补好了一切遗憾，可到那时，反而连圆满都失去了它本来的意义？,"We might ease our regrets, but when the time comes, what if our success has lost all meaning?","Мы, возможно, сумеем смягчить свои сожаления, но что, если к тому моменту, когда придёт время, наш успех утратит всякий смысл?"
 line-239,帕特里奇昂,如果我们曾是魔鬼，如果我们曾相携着背负罪孽，那我们的联系又怎会断绝？,"If we were once all devils, if we once carried our sins together, how could our connections ever be broken?","Если мы когда-то все были демонами, если мы когда-то несли бремя своих грехов вместе, как же тогда могут разорваться наши связи?"
 line-240,帕特里奇昂,信仰的宠儿、荣光的萨科塔啊，你到底有什么好惧怕？,"O glorious Sankta, O favored of faith, what have you to fear?","О славная Санкта, о благословенная верой, чего тебе бояться?"
 line-243,帕特里奇昂,（痛苦地吸气）,(Pained inhalation),(Болезненное вдыхание)
@@ -171,7 +171,7 @@ line-336,堕天使,如果没能解除那些地块锁定装置的防护，我们�
 line-338,离群萨科塔,照我说，就到此为止吧。,Let's just call it here then.,Давайте просто остановимся на этом.
 line-339,离群萨科塔,就算那支队伍真的进了大教堂，又会怎么样呢？所有人都变成差不多的萨科塔？,"If those guys reach the Basilica, then what happens? Everyone more or less becomes Sankta?","Даже если эта толпа достигнет Базилики, что изменится? Все станут такими же Санкта?"
 line-340,离群萨科塔,说真的，那和我们这些异类有什么关系呢？,What's that got to do with us?,"Честно, какое нам, изгоям, до этого дело?"
-line-341,离群萨科塔,你看看周围这几十个人，凑得出一顶完整的光环吗？好不容易赶过来支援的，还是个黎博利修女。,Look around you. We can't even cobble together a single halo. Our long-awaited reinforcements are just one Liberi nun.,"Посмотри на эти десятки людей вокруг, у кого-то из них найдется хотя бы целый нимб? Единственный, кто пришел на помощь — монахиня-Либери."
+line-341,离群萨科塔,你看看周围这几十个人，凑得出一顶完整的光环吗？好不容易赶过来支援的，还是个黎博利修女。,Look around you. We can't even cobble together a single halo. Our long-awaited reinforcements are just one Liberi nun.,"Посмотри на эти десятки людей вокруг, у кого-то из них найдётся хотя бы целый нимб? Единственный, кто пришел на помощь — монахиня-Либери."
 line-342,离群萨科塔,整座城市的人都在对面，为什么是我们这些异类在阻止这一切？,We've got an entire city's worth of people against us. Why do we Alieni have to hold all of them off?,"Весь город против нас, почему именно мы, изгои, должны их останавливать?"
 line-344,席德佳,唔，不对，不能这么想……,"Come now, that's not the best attitude to have right now...","Ну же, сейчас не стоит так относиться к ситуации..."
 line-346,莫斯提马,因为现在只有我们能做到。,"Because right now, we're the only ones who can.",Потому что сейчас только мы можем это сделать.
@@ -194,7 +194,7 @@ line-378,菲亚梅塔,所以，我现在已经没有任何弹药去对付这些�
 line-386,蒙恩的生物A,（光环急速闪烁）,(Halo rapidly flickers),(Нимб быстро мерцает)
 line-388,蒙恩的生物B,（连续不断的祷告声）,(Continuous sounds of prayer),(Непрерывные звуки молитвы)
 line-392,莫斯提马,喂，菲亚梅塔，启动吧。,"Hey, Fiammetta, let's blow this joint.","Эй, Фиамметта, запускай."
-line-394,帕蒂亚,等等，蕾缪安那边还没有消息，如果锁定装置没能及时解除防护，我们所有的炸药就都浪费了……,"Wait! We still haven't heard anything from Lemuen. If the defenses aren't disengaged in time, all our explosives will go to waste!","Подожди! От Лемуэн все ещё нет вестей, если защита не будет вовремя демонтирована, мы просто впустую потратим всю взрывчатку!"
+line-394,帕蒂亚,等等，蕾缪安那边还没有消息，如果锁定装置没能及时解除防护，我们所有的炸药就都浪费了……,"Wait! We still haven't heard anything from Lemuen. If the defenses aren't disengaged in time, all our explosives will go to waste!","Подожди! От Лемуэн всё ещё нет вестей, если защита не будет вовремя демонтирована, мы просто впустую потратим всю взрывчатку!"
 line-401,菲亚梅塔,爆破倒计时，一分钟！,"Time to explosion, one minute!",Обратный отсчет до взрыва: одна минута!
 line-403,帕蒂亚,你？,Wha-?,Что?
 line-406,,计时器的声音从菲亚梅塔的手中传出，蒙恩的生物纷纷停下了祷告，他们像是预感到了会发生什么，发疯了似的向她扑了过来。,"The timer starts ticking down in Fiammetta's hand. The enlightened creatures stop their prayers. As if sensing something is up, they throw themselves at her like rabid beasts.","Звук таймера раздался в руках Фиамметты. Благословенные существа внезапно прекратили молитвы: словно предчувствуя, что произойдет, они обезумев бросились на неё."
@@ -202,7 +202,7 @@ line-429,席德佳,……,...,...
 line-437,,席德佳摸向箭壶，里面已经空了。,Hildegard reaches for her quiver. It's empty.,Хильдегард тянется к своему колчану. Он пуст.
 line-443,菲亚梅塔,倒计时，五十秒！,Fifty seconds!,Пятьдесят секунд!
 line-444,？？？,抱歉，各位，希望我没有来迟！,"Sorry, everyone! Hope I'm not too late!","Простите, все! Надеюсь, я не слишком опоздала!"
-line-457,,车轮急刹，在地面激荡起烟尘。车手拧转轮椅，右手在同一时间举起了铳，她的长发在空中肆意飞舞。,"A wheelchair suddenly brakes, throwing up a cloud of dust as it screeches across the ground. Its rider spins its left wheel as she hoists her rifle with her right hand, her long hair fluttering in the air.","Внезапно инвалидное кресло резко тормозит, поднимая облако пыли и с визгом проносясь по земле. Девушка, сидящая в нем, проворачивает левое колесо, поднимая винтовку правой рукой, ее длинные волосы развеваются на ветру."
+line-457,,车轮急刹，在地面激荡起烟尘。车手拧转轮椅，右手在同一时间举起了铳，她的长发在空中肆意飞舞。,"A wheelchair suddenly brakes, throwing up a cloud of dust as it screeches across the ground. Its rider spins its left wheel as she hoists her rifle with her right hand, her long hair fluttering in the air.","Внезапно инвалидное кресло резко тормозит, поднимая облако пыли и с визгом проносясь по земле. Девушка, сидящая в нем, проворачивает левое колесо, поднимая винтовку правой рукой, её длинные волосы развеваются на ветру."
 line-458,莫斯提马,时间刚刚好！,You're right on time!,Время подобрано идеально!
 line-459,蕾缪安,菲亚梅塔，莫斯提马，我们的配合还是那么默契！,Good to know we're still in sync!,"Фиамметта, Мостима, наша командная работа по-прежнему на высоте!"
 line-460,蕾缪安,哈哈，你俩肯定猜不到，从第七厅一路突围到这里，我把自己轮椅竞速射击赛的纪录突破了多少！,The two of you will never guess how hard I beat my old wheelchair speed-shooting record by after I broke through their cordon around the Seventh Tribunal!,"Ха-ха, вы даже не догадываетесь, насколько я побила свой рекорд в скорострельной стрельбе на инвалидных колясках, пока прорывалась от Седьмого трибунала сюда!"
@@ -231,7 +231,7 @@ line-554,能天使,嘿，原来是姐姐她们，干得真漂亮！,"Hey, turns 
 line-559,蒙恩的生物A,（重伤后的哀鸣）,(Wounded wail),(Раненый вопль)
 line-561,蒙恩的生物B,（断断续续地祷告）,(Fragmented prayer),(Прерывистая молитва)
 line-565,“圣徒”,你们暂时退到安全的地方吧。,"Retreat somewhere safe, for the time being.",Вы временно отступите в безопасное место.
-line-575,“圣徒”,一道鸿沟……同胞们无法跨越。但我们曾涉过湍流，也翻过裂谷，最后这段路，不会比那时更凶险……,"A rift... One my people cannot cross. But we once forded raging rivers and traversed great valleys. Compared to those dangers, this is nothing.","Разлом… Разлом, который мой народ не сможет пересечь. Но когда-то мы переходили бурные реки вброд и пересекали огромные долины. По сравнению с теми опасностями, это ничто."
+line-575,“圣徒”,一道鸿沟……同胞们无法跨越。但我们曾涉过湍流，也翻过裂谷，最后这段路，不会比那时更凶险……,"A rift... One my people cannot cross. But we once forded raging rivers and traversed great valleys. Compared to those dangers, this is nothing.","Разлом... Разлом, который мой народ не сможет пересечь. Но когда-то мы переходили бурные реки вброд и пересекали огромные долины. По сравнению с теми опасностями, это ничто."
 line-576,“圣徒”,祂就在前方，我不会停下。,He lies ahead. I shall not stop.,"Он впереди, я не остановлюсь."
 line-579,能天使,咳咳……我、我可没说会让你过去。,*cough* I... I never said I'd let you pass.,"*Кашель* Я... я никогда не говорила, что пропущу тебя."
 line-581,“圣徒”,你的身体本就虚弱。现在，恐怕连一丝力气也没了吧？,Your body is weak. I fear you have not an ounce of strength left. Am I wrong?,"Твоё тело ослабло. Боюсь, у тебя не осталось ни капли сил. Я ошибаюсь?"
@@ -279,7 +279,7 @@ line-709,“圣徒”,……,...,...
 line-710,“圣徒”,我已告诉过你答案。,I have already told you my answer.,Я уже дала тебе свой ответ.
 line-712,能天使,就算威胁整个泰拉的灾异是真的，几百万萨科塔都会完蛋，拉特兰马上就要万劫不复……,"Even if this Terra-destroying calamity is real, and millions of Sankta are doomed, and Laterano's about to be completely screwed...","Даже если угроза бедствия, нависшая над Террой, реальна, миллионы Санкт погибнут, и Латерано будет разрушен до основания..."
 line-713,能天使,为什么只有你，只有“圣徒”才能给我们救赎？,"Why are you, a 'Saint', the only one who can bring us salvation?","Почему только вы, «Святой», можете принести нам спасение?"
-line-714,能天使,如今是我们生活在这座城，享受它的赐福，经历它的变化，也守护它不被灾难摧毁。,"We're the ones who live in this city right now, who enjoy its blessings, who went through its changes, and who protected it from destruction.","Мы — те, кто сейчас живет в этом городе, кто наслаждается его благами, кто пережил его перемены и кто защитил его от разрушения."
+line-714,能天使,如今是我们生活在这座城，享受它的赐福，经历它的变化，也守护它不被灾难摧毁。,"We're the ones who live in this city right now, who enjoy its blessings, who went through its changes, and who protected it from destruction.","Мы — те, кто сейчас живёт в этом городе, кто наслаждается его благами, кто пережил его перемены и кто защитил его от разрушения."
 line-716,能天使,圣徒，你已经不复存在了。现在的你，只是一个幽灵，一串具象化的代码！,You don't exist anymore. You're just a ghost! A string of code I can shoot!,"Вас больше не существует. Вы просто призрак! Строка кода, которую я могу подстрелить!"
 line-718,“圣徒”,不，孩子。当我向着濒死的同胞举起长矛，沉睡的银色山脉给予我回应的同时，也永远刻录下了那一声祈祷。,"Incorrect, my child. When I lifted my spear against my dying companion, the sleeping silver mounts answered me, and recorded my prayer for all eternity.","Нет, дитя. Когда я вскинула копье против умирающего сородича, спящие серебряные горы ответили мне и навсегда запечатлели ту молитву."
 line-719,“圣徒”,此时此地的一切，都是那一声祈祷的延续。,All that is happening here and now is a continuation of that prayer.,"Всё, что происходит здесь и сейчас, — это продолжение той молитвы."
@@ -302,14 +302,14 @@ line-745,能天使,祈祷什么样的苦难都能过去。,Praying that they'll 
 line-746,能天使,但我从没指望真有一个“主”在实现大家伙的愿望，或者关键时刻会跳出来拯救我们。,"But I never actually expected there to be a 'Lord' who would grant everyone's wishes, who would swoop in to save us when we're in trouble.","Но я никогда не рассчитывала, что есть какой-то «Господь», который исполнит все наши желания, или что Он в решающий момент выскочит, чтобы нас спасти."
 line-748,“圣徒”,……,...,...
 line-750,能天使,共感让我们能感受到同胞的情绪，让我知道其他人在我身边时是快乐还是难过……,Empathy lets us sense the emotions of our people. It lets me know if the ones by my side are happy or sad.,"Эмпатия позволяет нам чувствовать эмоции окружающих. Она позволяет мне понять, счастливы или грустны те, кто рядом со мной."
-line-751,能天使,而祈祷呢。祈祷要求我不只是感受，它需要我想着去帮助我的爸爸妈妈姐姐和朋友们，要去体恤共感之外的更多事情……,"But prayer? Prayer doesn't just need me to sense things, it needs me to want to help my family and friends, to understand things outside of empathy.","Но молитва? Молитва требует от меня не просто чувствовать, она требует думать о том, чтобы помочь моим папе, маме, сестре и друзьям, заботиться о большем, чем просто то, что дает Эмпатия..."
+line-751,能天使,而祈祷呢。祈祷要求我不只是感受，它需要我想着去帮助我的爸爸妈妈姐姐和朋友们，要去体恤共感之外的更多事情……,"But prayer? Prayer doesn't just need me to sense things, it needs me to want to help my family and friends, to understand things outside of empathy.","Но молитва? Молитва требует от меня не просто чувствовать, она требует думать о том, чтобы помочь моим папе, маме, сестре и друзьям, заботиться о большем, чем просто то, что даёт Эмпатия..."
 line-752,能天使,它甚至让我觉得，自己能帮助一些完全不认识的叔叔阿姨们早日康复……,It even lets me feel like I could help some complete strangers get well sooner.,"Она даже заставляет меня думать, что я могу помочь незнакомым людям быстрее выздороветь..."
 line-754,能天使,尽管我知道，这可能并不会带来任何改变。,Even though I know it probably won't change a thing.,"Хотя я понимаю, что это, вероятно, ничего не изменит."
-line-757,能天使,跟着企鹅物流到处跑的时候，我遇见了很多萨科塔，他们有的勉强还算当着神父，有的早就不像我们在圣城时这样生活……,"I met lots of Sankta while running around with Penguin Logistics. You'd be hard pressed to call some of them Father, while others don't live life like we do in the Holy City anymore.","За время работы в «Penguin Logistics» я познакомилась со многими Санктами. Некоторых из них сложно назвать Отцами, а другие живут совсем не так, как мы живем в Священном городе."
+line-757,能天使,跟着企鹅物流到处跑的时候，我遇见了很多萨科塔，他们有的勉强还算当着神父，有的早就不像我们在圣城时这样生活……,"I met lots of Sankta while running around with Penguin Logistics. You'd be hard pressed to call some of them Father, while others don't live life like we do in the Holy City anymore.","За время работы в «Пингвин Логистикс» я познакомилась со многими Санктами. Некоторых из них сложно назвать Отцами, а другие живут совсем не так, как мы живем в Священном городе."
 line-758,能天使,但他们都过得很充实，依然让我觉得亲切。,But they were all so... fulfilled. I still felt close to them.,Но все они были такими... счастливыми и я всё равно чувствовала себя с ними близкой.
 line-759,能天使,我总觉得，那是因为我们保留着祈祷的习惯。,I believe it's because we still prayed like we always did.,"Я всегда считала, что это произошло потому, что мы сохранили привычку молиться."
 line-760,能天使,它需要我们不去怀疑，它需要我们心怀希望。,It needs us to not doubt. It needs us to hold hope in our hearts.,"Она требует от нас не сомневаться, она требует, чтобы в сердце была надежда."
-line-761,能天使,我们愿意为彼此祈祷，本身便是一件很美好的事情。,Just being down to pray for each other is a beautiful thing in itself.,Уже сама возможность помолиться друг за друга – это прекрасно.
+line-761,能天使,我们愿意为彼此祈祷，本身便是一件很美好的事情。,Just being down to pray for each other is a beautiful thing in itself.,Уже сама возможность помолиться друг за друга — это прекрасно.
 line-762,能天使,它把我和其他人，真正连接在一起。,It gives me a true connection to people.,Она по-настоящему соединяет меня с другими людьми.
 line-764,“圣徒”,（如雷般的叹息声）,(Thunderous sigh),(Громовой вздох)
 line-765,“圣徒”,如若信仰只是基于这样的连接，那它无比脆弱。,"If these connections were the foundation of faith, it would be exceedingly frail.","Если бы эти связи были основой веры, она была бы чрезвычайно хрупкой."
@@ -318,7 +318,7 @@ line-769,“圣徒”,“活着”……“生活”……,Survival'... 'Life'..
 line-771,能天使,所以你不会懂如今的萨科塔为什么要与甜品和爆炸相伴……,If you don't understand why Sankta these days are all about desserts and explosions—,"Если вы не понимаете, почему современные Санкта живут с десертами и взрывами..."
 line-778,能天使,你怎么了？,What's up with you?,Что с вами?
 line-782,“圣徒”,（焦躁地逡巡）,(Fretful pacing),(беспокойно мечется)
-line-787,,“圣徒”突然变得异常不安，她在鸿沟的边缘来回试探，锋利的前爪刺穿裸露翻卷着的地基，试图向下爬去。,"The saint suddenly becomes exceptionally restless. She feels out the edge of the rift as she paces along it, her sharp front claws piercing the exposed, bent foundations, trying to find a way to climb down.","«Святой» внезапно становится необычайно беспокойной. Она нащупывает край расщелины, расхаживая вдоль нее, ее острые передние когти вонзаются в обнаженные, искривленные основания, пытаясь найти способ спуститься вниз."
+line-787,,“圣徒”突然变得异常不安，她在鸿沟的边缘来回试探，锋利的前爪刺穿裸露翻卷着的地基，试图向下爬去。,"The saint suddenly becomes exceptionally restless. She feels out the edge of the rift as she paces along it, her sharp front claws piercing the exposed, bent foundations, trying to find a way to climb down.","«Святой» внезапно становится необычайно беспокойной. Она нащупывает край расщелины, расхаживая вдоль неё, её острые передние когти вонзаются в обнаженные, искривленные основания, пытаясь найти способ спуститься вниз."
 line-789,“圣徒”,……,...,...
 line-790,“圣徒”,你们炸开的这道鸿沟，让我更清晰地感受到了祂的信号——,This rift you have opened allows me to sense His signal much more clearly.,"Разлом, который вы организовали, позволяет мне гораздо яснее чувствовать Его сигнал."
 line-791,“圣徒”,祂就在大教堂的地下，祂在呼唤我抵达——,"He is below the Basilica, calling out for me to approach—","Он под Базиликой, Он зовет меня прибыть—"
@@ -350,7 +350,7 @@ line-857,能天使,好了，祈祷结束。,"Amen. There, prayer done.",Амин
 line-858,能天使,让我们用最热闹的方式道别吧——,"Let's say bye-bye, the wildest way I know—","Давайте попрощаемся самым безумным способом, который я знаю —"
 line-867,“圣徒”,（咆哮声）,(Roars),（Рёв）
 line-868,,爆破物如雨般纷纷落下，与那些扎进“圣徒”身体里的子弹碰撞，激发出一连串爆炸。,"Explosives fall like rain, linking together into a chain of blasts as they collide with the bullets embedded in the saint's body.","Взрывчатка посыпалась дождём, сталкиваясь с пулями, уже засевшими в теле «Святого», вызывая череду взрывов."
-line-869,,“圣徒”在嚎叫着，但不是因为爆破的冲击，也不是因为血肉的创伤，而是所有“弹药”在她体表擦出的诡异的乱流声。,"The saint howls, but not because of the explosions, not because of her flesh wounds, but because of the strange, dissonant sound caused by the 'ammunition' as it scrapes across her skin.","«Святой» выла, но не из-за взрывов, не из-за ран, а из-за странного, диссонансного звука, издаваемого «боеприпасами», скользящими по ее коже."
+line-869,,“圣徒”在嚎叫着，但不是因为爆破的冲击，也不是因为血肉的创伤，而是所有“弹药”在她体表擦出的诡异的乱流声。,"The saint howls, but not because of the explosions, not because of her flesh wounds, but because of the strange, dissonant sound caused by the 'ammunition' as it scrapes across her skin.","«Святой» выла, но не из-за взрывов, не из-за ран, а из-за странного, диссонансного звука, издаваемого «боеприпасами», скользящими по её коже."
 line-870,,那是，数据被抹除的征兆。,The sound of data being erased.,"Это был звук того, что данные стираются."
 line-874,能天使,正宗天意！,"Divine judgment, traditional!","Божественный суд, традиционно!"
 line-881,能天使,福音摇滚！,Rock n' gospel!,Евангельский рок-н-ролл!
@@ -364,7 +364,7 @@ line-930,安多恩,一片由源石铺就的……海？,"A... sea, made of Origi
 line-932,安多恩,……像我家乡的海。宁静、美丽，却让人不敢涉足其中。,"It's like the sea back home. Calm, beautiful, but one nobody dares to set out on it.","...Похоже на море в моих родных краях. Безмятежное, красивое, но такое, к которому боишься прикоснуться."
 line-934,木攀兽,或许并非如此。保育员先生，你感到熟悉，是因为……你家乡的海就在其中，甚至你自己的一部分也在其中。,"Maybe, maybe not. This is familiar to you because... because the sea by your hometown is here. There's even a part of <i>you</i> here too.","Возможно, а возможно, и нет. Он знаком, потому что... потому что море из твоего дома находится внутри него, и даже часть <i>тебя</i> самого тоже внутри."
 line-935,木攀兽,万物都被封存在其中——它就是万物的棺椁。,All things that are have been sealed here. A coffin for the world and everything upon it.,"Здесь запечатано всё сущее. Гроб для мира и всего, что в нём находится."
-line-937,安多恩,如同罹患矿石病的人，在死后留下的晶簇？,Like the crystals left behind by Oripathy patients after they die?,"Подобно кристаллическим наростам, что остаются после смерти заражённых орипатией?"
+line-937,安多恩,如同罹患矿石病的人，在死后留下的晶簇？,Like the crystals left behind by Oripathy patients after they die?,"Подобно кристаллическим наростам, что остаются после смерти инфицированных орипатией?"
 line-939,木攀兽,如果这有助于你理解的话，是的。,"If that helps you understand it, then yes.","Если это поможет тебе понять, то да."
 line-940,木攀兽,很惊讶吗？可这才是万物原本被设定好的终点。,"Amazing, isn't it? This was once the end of everything.",Удивлен? Но именно таков предопределенный финал для всего сущего.
 line-941,木攀兽,我们都生得太晚，活得太短，以至于不自觉地把一些微不足道的意外，当成了自己存在的本质。,"We are born far too late, our lives far too short. We even unconsciously take some inconsequential mishaps, and turn them into the foundation of our very being.","Мы рождаемся слишком поздно, наша жизнь слишком коротка. Мы даже неосознанно превращаем некоторые незначительные неудачи в основу самого нашего существования."
@@ -477,15 +477,15 @@ line-1176,费德里科,那么它们——你们——何以会如此强烈地想
 line-1180,,……,...,...
 line-1181,,\n\n…………,\n\n............,\n\n...
 line-1185,,于机器而言，有输入，便有输出。,"As machines have inputs, so they have outputs.","Для машины: есть ввод, есть вывод."
-line-1186,,圣徒向律法求解，律法便给予启示。,"The saints sought answers in the Law, and the Law granted them revelation.","Святой вопрошает Закон, и Закон дает откровение."
-line-1187,,舰队向系统请示，系统便下达指令。,"The fleet asked the system for instructions, so the system issued commands.","Флот запрашивает систему, система отдает команды."
-line-1188,,主，或是PCS，都从不曾像此刻这般沉默。,"The Lord, or rather, PCS, has never been as silent as it is now.","Господь, или, вернее, PCS, никогда еще не молчал так, как сейчас."
+line-1186,,圣徒向律法求解，律法便给予启示。,"The saints sought answers in the Law, and the Law granted them revelation.","Святой вопрошает Закон, и Закон даёт откровение."
+line-1187,,舰队向系统请示，系统便下达指令。,"The fleet asked the system for instructions, so the system issued commands.","Флот запрашивает систему, система отдаёт команды."
+line-1188,,主，或是PCS，都从不曾像此刻这般沉默。,"The Lord, or rather, PCS, has never been as silent as it is now.","Господь, или, вернее, PCS, никогда ещё не молчал так, как сейчас."
 line-1190,费德里科,你是人造的系统，你必须依托人来运作，不论是作为某种所谓的指挥系统，还是作为圣城尊崇的律法。,"You are an artificial system, so you require people to operate you. This is true for both a 'command system' and the Law worshiped by the Holy City.","Вы — искусственная система, и для вашего функционирования вам необходимы люди, будь то в качестве системы управления или в качестве закона, почитаемого Священным Городом."
 line-1191,费德里科,而你运作的终极目的，却是要摆脱人的桎梏，回归天使的本质……,The ultimate purpose you were given was to break humanity free from their shackles and return their angelic nature.,Ваша конечная цель — освободить человечество от оков и вернуть ему ангельскую природу.
 line-1193,费德里科,那么，这个目的本身，究竟出自人，还是出自天使？,"However, this purpose, does it stem from people, or from angels?","Однако, исходит ли эта цель от людей или от ангелов?"
 line-1194,费德里科,你描述中的天使，怎会怀有这样的目的？它们的行动甚至没有任何目的——假设它们有任何除了“漂流”和“闪烁”之外的行动的话。,"Why would the angels you described desire this? Their actions do not have purpose, assuming they can even perform actions other than 'drift' and 'flicker'.","Почему ангелы, которых вы описали, желали бы этого? Их действия не имеют цели, если предположить, что они вообще способны на что-либо, кроме «дрейфа» и «мерцания»."
 line-1195,费德里科,可如果回归天使的目的本身就出自人，你又怎能彻底成为天使？,"But if this purpose comes from people, how will you turn them into angels?","Но если эта цель исходит от людей, как вы превратите их в ангелов?"
-line-1196,费德里科,你所做的一切，难道不都只是出自——,Surely everything you have done was more than just—,"Несомненно, всё, что вы сделали, было чем-то большим, чем просто…"
+line-1196,费德里科,你所做的一切，难道不都只是出自——,Surely everything you have done was more than just—,"Несомненно, всё, что вы сделали, было чем-то большим, чем просто..."
 line-1200,,……一个愿望？,A wish?,...Желание?
 line-1201,,\n\n……一个愿望。,\n\n...A wish.,\n\n...Желание.
 line-1216,木攀兽,现在，保育员先生，我将救赎给予你——,"Nurturer, I shall now grant you salvation.","Воспитатель, я дарую тебе спасение."
@@ -501,7 +501,7 @@ line-1228,,但他拼尽全力，猛地睁开了浑浊的双眼。,But he uses th
 line-1240,安多恩,我不知道教宗阁下给了你怎样的答复，不知道此时此刻在地面上，莫斯提马、菲亚梅塔，还有蕾缪安和她的妹妹，又作何感想。,"I don't know what kind of answer His Holiness gave you, nor do I know what Mostima, Fiammetta, Lemuen or her little sister are thinking right now aboveground.","Я не знаю, какой ответ дал тебе Его Святейшество, не знаю, что сейчас думают на поверхности Мостима, Фиамметта, Лемуэль и её сестра."
 line-1241,安多恩,我不知道帕蒂亚和我们过去的同行者们此刻正去向何方，不知道我在育婴圣堂照料过的孩子们正奔向谁的怀抱。,"I don't know where Patia and our former fellows are headed, nor do I know whose bosom the children I tended in the Shrine of Nurtury have clutched.","Я не знаю, куда направляются Патия и наши старые товарищи, не знаю, в чьи объятия бегут дети, за которыми я ухаживал в Храме Воспитания."
 line-1242,安多恩,我不知道他们想不想要这救赎，这解脱。,"I don't know if they want this salvation, this relief.","Я не знаю, хотят ли они этого спасения, этого избавления."
-line-1243,安多恩,但如果你在乎我这个所谓“适格者”的答案。,But if what you really care about is my answer as a 'suitable candidate'...,Но если вас действительно волнует мой ответ как «подходящего кандидата»…
+line-1243,安多恩,但如果你在乎我这个所谓“适格者”的答案。,But if what you really care about is my answer as a 'suitable candidate'...,Но если вас действительно волнует мой ответ как «подходящего кандидата»...
 line-1245,安多恩,那么——不。,Then my answer is no.,То мой ответ — нет.
 line-1247,安多恩,我太自负，以至于直到此时此刻，我仍不愿相信自己苦寻了数十年的答案，就只是这样一种简单的解脱。,"I'm far too conceited. Even to this very moment, I still refuse to believe my arduous search for answers, decades in the making, was all for this simple relief.","Я слишком самонадеян. Даже сейчас я отказываюсь верить, что мои изнурительные поиски ответов, длившиеся десятилетиями, были всего лишь ради этого простого избавления."
 line-1248,安多恩,不止自负，我也确是自私者、卑劣者、背叛者、盲信者，我因此而痛苦、哀伤、郁结、挣扎。,"I'm not only conceited, I'm an egotist, a villain, a traitor, and a fanatic. And so I suffer and grieve, my frustrations giving rise to strife.","Я не просто самонадеян, я эгоист, злодей, предатель и фанатик. И поэтому я страдаю и скорблю, мои разочарования порождают раздоры."
@@ -554,7 +554,7 @@ line-1350,阿尔图罗,唔，你们还真是穷追不舍啊。,"Oh, you patrols 
 line-1355,圣堂巡卫A,（焦躁的喘息声）,(Restless gasping),（Тревожное дыхание）
 line-1357,圣堂巡卫B,（光环疯狂闪烁）,(Halo flashing rapidly),（Нимб бешено мерцает）
 line-1360,,面目模糊的巡卫们围了上来，试图将阿尔图罗拖回地底。在那机器前折返后，她在迷宫中耗去了太多时间。,"The wispy guards surround Arturia, attempting to drag her back underground. She has wasted far too much time inside this maze since she turned away from the machine.","Хрупкие охранники окружают Артурию, пытаясь затащить её обратно под землю. Она потратила слишком много времени в этом лабиринте с тех пор, как отвернулась от механизма."
-line-1361,,她的守护铳早已遗失，她也不愿加入对方的祈祷，更不愿演奏他们的心声，她宁可毁掉自己的琴……阿尔图罗从未如此窘迫过。,"Her patron firearm is lost. She has no desire to join her pursuers in prayer, or to perform their hearts' songs. She would rather destroy her own cello... Arturia has never found herself in such a predicament before.",Её оружие-покровитель давно было потеряно. Она не желала присоединяться к преследователям в молитве или исполнять композиции их сердец. Она скорее уничтожит свою виолончель… Артурия никогда прежде не оказывалась в таком затруднительном положении.
+line-1361,,她的守护铳早已遗失，她也不愿加入对方的祈祷，更不愿演奏他们的心声，她宁可毁掉自己的琴……阿尔图罗从未如此窘迫过。,"Her patron firearm is lost. She has no desire to join her pursuers in prayer, or to perform their hearts' songs. She would rather destroy her own cello... Arturia has never found herself in such a predicament before.",Её оружие-покровитель давно было потеряно. Она не желала присоединяться к преследователям в молитве или исполнять композиции их сердец. Она скорее уничтожит свою виолончель... Артурия никогда прежде не оказывалась в таком затруднительном положении.
 line-1362,,出口就在眼前，但她已经没有力气了……,"The exit is right ahead, but she no longer has the strength to carry on.","Выход прямо перед ней, но у неё больше нет сил идти дальше."
 line-1368,阿尔图罗,地底……？,The ground...?,Подземелье...?
 line-1369,阿尔图罗,费迪，你们到底——,"Fede, what did you—","Феде, что ты, черт возьми..."
@@ -566,8 +566,8 @@ line-1396,,阳光洒在它的表面，但除此之外，它已然褪去了所有
 line-1397,,黯淡得像是一块石头。,"There it stands, as dull as a rock.","Вот он стоит, тусклый. словно обычный камень."
 line-1401,,不安。,Unease.,Беспокойство.
 line-1402,,这是继在帕维永面对巫王后，阿尔图罗第二次真切地感受到这种情绪。,"This is the second time Arturia has felt this feeling so clearly, the first being the time she faced the Witch King in his Pavillon.","Это был второй раз в жизни после встречи с Королем-колдуном в Павиньоне, когда Артур так отчетливо ощутила это чувство."
-line-1403,,身体的深处，看不见的地方，有什么一直连接着的东西悄然断裂了——清晰可感。,"Deep within her body, somewhere she cannot see, things that were always linked together quietly break apart. There is no mistaking the feeling.","Глубоко внутри ее тела, где-то в невидимом для нее месте, вещи, которые всегда были связаны между собой, тихо распадаются. Это чувство невозможно спутать ни с чем другим."
-line-1404,,阿尔图罗深呼吸，闭上眼睛的瞬间，数以万计相似的心声潮水般涌入了她的脑海……,"She breathes in deep. The moment she closes her eyes, countless similar melodies rush into her mind like the tide.","Она делает глубокий вдох. В тот момент, когда она закрывает глаза, бесчисленные похожие мелодии нахлынивают на ее разум, словно прилив."
+line-1403,,身体的深处，看不见的地方，有什么一直连接着的东西悄然断裂了——清晰可感。,"Deep within her body, somewhere she cannot see, things that were always linked together quietly break apart. There is no mistaking the feeling.","Глубоко внутри её тела, где-то в невидимом для неё месте, вещи, которые всегда были связаны между собой, тихо распадаются. Это чувство невозможно спутать ни с чем другим."
+line-1404,,阿尔图罗深呼吸，闭上眼睛的瞬间，数以万计相似的心声潮水般涌入了她的脑海……,"She breathes in deep. The moment she closes her eyes, countless similar melodies rush into her mind like the tide.","Она делает глубокий вдох. В тот момент, когда она закрывает глаза, бесчисленные похожие мелодии нахлынивают на её разум, словно прилив."
 line-1418,行走的萨科塔A,……,...,...
 line-1420,行走的萨科塔B,……,...,...
 line-1435,萨科塔小孩B,呜……呜呜……,*sniffle*... *sob*...,*Шмыгает носом*... *Рыдает*...
@@ -581,7 +581,7 @@ line-1457,薇尔丽芙,我和蒙恩同胞的联系，断开了——,My connecti
 line-1458,薇尔丽芙,不，不止……我身边的……帕特里奇昂阁下，您，我连您也……,"No, not just them... You're right here, Reverend Patrizion, but... I can't even...","Нет, не только с ними... Вы здесь, почтенный Патрицион, но... я даже не могу..."
 line-1465,帕特里奇昂,……,...,...
 line-1466,帕特里奇昂,感受不到，我知道。,"Sense me, I know.","Не чувствуешь, я знаю."
-line-1468,梵里妮,唔，呜呜呜……,Wuh... Waaaahhhh....,Ух... Уа-а-а ...
+line-1468,梵里妮,唔，呜呜呜……,Wuh... Waaaahhhh....,Ух... Уа-а-а...
 line-1470,帕特里奇昂,好孩子，不要松开我的手——,Be a good girl and don't let go of my hand—,Будь хорошей девочкой и не отпускай мою руку—
 line-1472,梵里妮,你的手，不是这个感觉……,Your hand... That's not what your hand feels like...,Ваша рука... Она ощущается совсем другой...
 line-1473,梵里妮,像是，雾。,It's like... mist.,Словно... туман.
@@ -594,7 +594,7 @@ line-1497,,老迈的教宗俏皮地指了指头顶的光环。,The old Pope play
 line-1499,阿尔图罗,……即使萨科塔的一切都被解读成“它”赋予的？,Even if everything about the Sankta existence is interpreted as 'its' boon?,"...Даже если всё, что касается Санкт, интерпретируется как нечто данное «Им»?"
 line-1509,,不安在加剧，恐慌在蔓延。,"Unease grows, and panic spreads.","Беспокойство нарастает, и паника распространяется."
 line-1510,,阿尔图罗尝试弄清楚发生了什么。和在崔林特尔梅时并不相同，此刻并不存在一种邪祟将人们的情感攫入混沌……,Arturia tries to make sense of it all. This is not the same as what happened in Zwillingstürme. There is no malevolent force sowing discord among the emotions of the people this time around.,"Артурия пытается во всем разобраться. Это не то же самое, что произошло в Цвиллингштюрме. На этот раз нет злой силы, сеющей раздор среди людей."
-line-1511,,更像是被世人演奏了无数遍的乐章，突然被抽走了一段旋律，仿佛它从未存在过……,"It is like a movement, one played countless times by an orchestra of the masses, had part of its melody forcibly plucked away, as if it never existed.","Словно произведение, бесчисленное количество раз исполненное оркестром масс, у которого часть мелодии насильно вырвана, как будто ее никогда и не существовало."
+line-1511,,更像是被世人演奏了无数遍的乐章，突然被抽走了一段旋律，仿佛它从未存在过……,"It is like a movement, one played countless times by an orchestra of the masses, had part of its melody forcibly plucked away, as if it never existed.","Словно произведение, бесчисленное количество раз исполненное оркестром масс, у которого часть мелодии насильно вырвана, как будто её никогда и не существовало."
 line-1512,,像是行走在坦途，阳光、雨露、同伴和家园就在眼前，而你却没来由地被抽离，觉得自己空无所依……,"Like walking along a road with the sun, the rain, your friends and your home ahead of you, but you are torn away from it for no reason, leaving you feeling alone and helpless...","Словно ты идёшь по ровной дороге, солнце, дождь, товарищи и дом — всё перед глазами, но тебя без всякой причины отрывают от всего этого, оставляя в одиночестве и беспомощности..."
 line-1513,,数百万同胞空无所依。,Alongside millions of your people.,Рядом с миллионами твоих соотечественников.
 line-1515,阿尔图罗,“萨科塔会失去信仰和温馨的小屋”……这一切，已经发生。,The Sankta will lose the cozy cabin of their faith'... Everything has come to pass.,«Санкты потеряют уютный домик своей веры»... Всё это уже произошло.

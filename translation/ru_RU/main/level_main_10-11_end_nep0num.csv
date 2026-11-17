@@ -14,16 +14,16 @@ char-7,罗本,罗本,Robben,Робен
 char-8,曼弗雷德,曼弗雷德,Manfred,Манфред
 char-9,？？？,？？？,???,???
 char-10,萨卡兹战士,萨卡兹战士,Sarkaz Warrior,Воин Сарказов
-char-11,Misery,Misery,Misery,Мизери
+char-11,Misery,Misery,Misery,Misery
 char-12,蔓德拉,蔓德拉,Mandragora,Мандрагора
 char-13,深池士兵,深池士兵,Dublinn Soldier,Солдат Дублинна
 char-14,塔拉密探,塔拉密探,Taran Secret Agent,Тара-разведчик
 ,,,,
 line-10,阿米娅,好奇怪，博士，我们明明甩脱了之前的萨卡兹士兵......,"It's so strange, Doctor. We definitely shook off the Sarkaz warriors from before...","Очень странно, Доктор. Мы ведь явно оторвались от тех солдат Сарказов..."
 line-13,,但他们还在源源不断地过来。;就好像他们知道我们的位置。,But they're still coming without end.;It's like they know our position.,"Но они продолжают прибывать нескончаемым потоком. Как будто знают, где мы."
-line-16,阿米娅,可露希尔，我们的通讯信号有没有被追踪？,"Closure, are our communications being traced?","Клосс, наш сигнал связи отслеживают?"
+line-16,阿米娅,可露希尔，我们的通讯信号有没有被追踪？,"Closure, are our communications being traced?","Кложер, наш сигнал связи отслеживают?"
 line-18,可露希尔,这不可能啊，阿米娅！我特地给信号发射器做了三重处理，要是那些萨卡兹有这技术，罗德岛号早就被特雷西斯攻破一百次了！,"Not a chance, Amiya, I guarantee it! I set up triple-layer encryption on our transmitters! If they had the tech for that, then Theresis would've breached the landship a hundred times over by now!","Это невозможно, Амия! Я специально настроила передатчик сигнала с тройной защитой. Если бы у этих Сарказов были такие технологии, «Родос» был бы захвачен Терезисом уже сто раз!"
-line-20,阿米娅,......博士，我相信可露希尔。,"...Doctor, I believe Closure.","...Доктор, я верю Клосс."
+line-20,阿米娅,......博士，我相信可露希尔。,"...Doctor, I believe Closure.","...Доктор, я верю Кложер."
 line-21,阿米娅,他们一定是用了什么别的方法......,They must be using some other method then.,Они должно быть использовали какой-то другой способ...
 line-23,费斯特,阿米娅小姐，我们马上就到会合点了！,"Miss Amiya, we're a stone's throw from the rendezvous point!","Мисс Амия, мы почти у точки сбора!"
 line-24,费斯特,只要和六队会合，我们就能和地下的接应部队取得联系，等回到地下以后，萨卡兹们就没法再追着我们......,"As long as we link up with Team 6, we can get in contact with the subterranean support unit. Once we're underground, the Sarkaz pursuing us will be out of luck.","Как только мы встретимся с Шестым отрядом, мы сможем связаться с подпольными силами поддержки. Когда мы вернемся под землю, Сарказы уже не смогут нас преследовать..."
@@ -41,7 +41,7 @@ line-43,阿米娅,你的意思是......,You mean...,Ты хочешь сказа
 line-45,推进之王,六队遇上的人，有着非常恐怖的源石技艺。他们死亡的现场......就好像屠杀一样。许多战士甚至连武器都没拔出来。,The enemy they faced had terrifying Originium Arts... It was more of a massacre than a battle. Hardly any of them had even drawn their weapons.,"Те, с кем столкнулся Шестой отряд, обладали ужасающими искусствами Ориджиниума. Место их гибели... это выглядело как бойня. Многие воины даже не успели достать оружие."
 line-47,因陀罗,那真的是源石技艺吗？,You sure it was Originium Arts?,Это действительно были искусства Ориджиниума?
 line-48,因陀罗,我不敢相信！,I don't believe that!,Я не могу в это поверить!
-line-49,因陀罗,我看到有红色的虫子一样的东西撕裂了战士们的胸膛。维娜，你也看见了，那是真正的怪物！,"I saw this red bug thing tear the soldiers' chests apart. Vina, you saw it too! That was a genuine monster!","Я видела нечто похожее на красных насекомых, которые разрывали грудные клетки бойцов. Вигна, ты ведь видела, это были настоящие монстры!"
+line-49,因陀罗,我看到有红色的虫子一样的东西撕裂了战士们的胸膛。维娜，你也看见了，那是真正的怪物！,"I saw this red bug thing tear the soldiers' chests apart. Vina, you saw it too! That was a genuine monster!","Я видела нечто похожее на красных насекомых, которые разрывали грудные клетки бойцов. Вина, ты ведь видела, это были настоящие монстры!"
 line-51,推进之王,......,......,...
 line-53,阿米娅,......动手的不是普通萨卡兹。,...So the perpetrator is no ordinary Sarkaz.,...Это были не обычные Сарказы.
 line-54,阿米娅,我们必须换个方向。费斯特先生，有其他路可以走吗？,"We have to change course. Mr. Feist, are there any other routes we can take?","Мы должны сменить маршрут. Мистер Фестер, есть другой путь?"
@@ -167,16 +167,16 @@ line-483,号角,您到底是谁？,Just who are you?,Кто вы в конце �
 line-485,？？？,Misery。我是罗德岛的Misery。,Misery. I'm Misery of Rhodes Island.,Misery. Я Misery из Родоса.
 line-487,号角,罗德岛？,Rhodes Island?,Родос?
 line-488,号角,抱歉......,I'm sorry...,Прошу прощения...
-line-490,Misery,以后你会有机会从风笛那里得到完整的解释。,You'll get a chance to hear a full explanation from Bagpipe in due time.,В будущем у тебя будет возможность получить подробные объяснения от Пайп.
-line-492,号角,风笛？,Bagpipe?,Пайп?
+line-490,Misery,以后你会有机会从风笛那里得到完整的解释。,You'll get a chance to hear a full explanation from Bagpipe in due time.,В будущем у тебя будет возможность получить подробные объяснения от Бэгпайп.
+line-492,号角,风笛？,Bagpipe?,Бэгпайп?
 line-494,Misery,她现在算我同事了。,She's a coworker at this point.,Теперь она моя коллега.
 line-495,Misery,而且......她还是我最好的朋友结交的最后一位朋友。,Not to mention... the last friend my best friend ever made.,"Более того... она была последним другом, которого завела моя лучшая подруга."
 line-497,号角,听起来我错过了很多信息。,Sounds like I've been quite a bit out of the loop.,"Похоже, я упустила много информации."
-line-498,号角,在我为风笛感到高兴之前，请容我再次向您与罗德岛致谢。,"But before I lose myself to the joy that Bagpipe made it out, allow me to once again thank you and Rhodes Island.","Прежде чем порадоваться за Пайп, позвольте мне ещё раз поблагодарить вас и Родос."
+line-498,号角,在我为风笛感到高兴之前，请容我再次向您与罗德岛致谢。,"But before I lose myself to the joy that Bagpipe made it out, allow me to once again thank you and Rhodes Island.","Прежде чем порадоваться за Бэгпайп, позвольте мне ещё раз поблагодарить вас и Родос."
 line-500,Misery,先离开这里。以后我们很有可能还会见面。,Let's get out of here first. Chances are we'll be meeting again soon enough.,"Сначала уходим отсюда. Мы, вероятно, ещё встретимся."
 line-501,Misery,曼弗雷德几乎追踪到了我的源石技艺的真相。他随时都可能追上来。,Manfred's almost worked out the truth of my Originium Arts. He could be coming after us any moment now.,Манфред почти разгадал правду о моих искусствах Ориджиниума. Он может нагнать нас в любой момент.
 line-503,号角,......不。我想，他此刻大概在忙着处理另一件事。,...No. I imagine he'll be busy with something else right now.,"...Нет. Думаю, сейчас он занят другим делом."
-line-505,Misery,你是说深池。,You mean Dublinn.,Ты имеешь в виду Deepcolor?
+line-505,Misery,你是说深池。,You mean Dublinn.,Ты имеешь в виду Дублинна?
 line-506,Misery,小丘郡的蔓德拉......她不可能离开这座厂房了。,County Hillock's Mandragora... There's no way she's leaving this factory now.,Мандрагора из Хиллрока... она уже не сможет покинуть этот завод.
 line-508,号角,......,......,...
 line-510,Misery,你是在惋惜自己无法亲手为战友复仇吗？,Are you giving yourself grief for not being able to personally avenge your comrades?,"Ты сожалеешь, что не смогла отомстить за товарищей своими руками?"
@@ -214,7 +214,7 @@ line-617,蔓德拉,......死了？,...Did you just die?,...Умер?
 line-618,蔓德拉,你怎么可以就这样简单地死了......我......,Who said you could die so easily...? I...,Как ты мог так просто умереть... я...
 line-620,蔓德拉,基里安，基里安......你个混账东西！我不许你死在这里，你给我起来，起来啊！,"Cillian, Cillian... you bloody disgrace! I'm not letting you die here, you stand up for me, stand up!","Килиан, Килиан... ты, никчемный ублюдок! Я не разрешала тебе умирать здесь, вставай, вставай же!"
 line-622,曼弗雷德,不必着急。,No need to work yourself up.,Не спеши.
-line-623,曼弗雷德,你也活不了多久了，蔓德拉。你和你的塔拉老朋友，很快就能相聚。,"You won't live much longer either, Mandragora. You and your old Taran friend will meet again before you know it.","Ты тоже недолго проживешь, Мандрагора. Ты и твой старый друг Тара скоро воссоединитесь."
+line-623,曼弗雷德,你也活不了多久了，蔓德拉。你和你的塔拉老朋友，很快就能相聚。,"You won't live much longer either, Mandragora. You and your old Taran friend will meet again before you know it.","Ты тоже недолго проживешь, Мандрагора. Ты и твой старый друг-таранец скоро воссоединитесь."
 line-625,蔓德拉,......,......,...
 line-627,蔓德拉,哈......哈哈哈哈！,Ha... hahahaha!,Ха... ха-ха-ха-ха!
 line-628,蔓德拉,曼弗雷德，你又欠了我十一条命。,"Manfred, you cost me another eleven lives.","Манфред, ты снова должен мне одиннадцать жизней."

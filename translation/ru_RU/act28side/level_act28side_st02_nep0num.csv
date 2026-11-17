@@ -13,7 +13,7 @@ char-6,迈尔斯,迈尔斯,Miles,Майлз
 char-7,伍德洛,伍德洛,Woodrow,Вудро
 char-8,海伦娜,海伦娜,Helena,Хелена
 char-9,里昂,里昂,Leone,Леон
-char-10,黑钢工程小队成员,黑钢工程小队成员,Blacksteel Engineering Team Member,Участник инженерного отряда Blacksteel
+char-10,黑钢工程小队成员,黑钢工程小队成员,Blacksteel Engineering Team Member,Участник инженерного отряда Блэкстил
 char-11,冷漠的混混,冷漠的混混,Hard-hearted Hoodlum,Холодный бандит
 char-12,蛮横的混混,蛮横的混混,Rude Ruffian,Дерзкий бандит
 char-13,作乱的混混,作乱的混混,Troublemaking Thug,Бесчинствующий бандит
@@ -25,8 +25,8 @@ char-18,银行经理,银行经理,Bank Manager,Менеджер банка
 char-19,银行员工,银行员工,Bank Employee,Банковский сотрудник
 char-20,无措的地块居民,无措的地块居民,Helpless Plate Resident,Обеспокоенный житель участка
 char-21,？？？,？？？,???,???
-char-22,黑钢资深干员,黑钢资深干员,Blacksteel Senior Operator,Старший оперативник Blacksteel
-char-23,黑钢情报小组成员,黑钢情报小组成员,Blacksteel Intelligence Squad Member,Сотрудник разведки Blacksteel
+char-22,黑钢资深干员,黑钢资深干员,Blacksteel Senior Operator,Старший оперативник Блэкстил
+char-23,黑钢情报小组成员,黑钢情报小组成员,Blacksteel Intelligence Squad Member,Сотрудник разведки Блэкстил
 ,,,,
 line-11,,半个月后,Two weeks later...,Полгода спустя
 line-18,芙兰卡,优等生，我们快在这儿傻等一天了。,"Hey, Teacher's Pet? We've been waiting here for nearly a whole day already.","Отличница, мы тут торчим уже почти целый день."
@@ -40,7 +40,7 @@ line-32,雷蛇,害怕什么？,Of what?,Напугана чем?
 line-34,芙兰卡,我不知道，我只是......不知道达维镇的事到底会怎么收场。,I don't know. I just... really can't tell how this whole thing will go down.,"Не знаю, я просто... не знаю, чем закончится история с городом Дэви."
 line-36,雷蛇,......,......,...
 line-38,,雷蛇略显焦躁地把通讯器贴到耳边。,"Liskarm brings her communicator to her ear, looking slightly impatient.",Лизерд с лёгким раздражением прижала коммуникатор к уху.
-line-43,,没有可接收的信号，这证明那艘被黑钢干员们称为“本舰”的巴伦基地还未进入通讯的范围。,"It's not receiving any signal. This proves that Fort Barron, known to Blacksteel's operators as 'the landship,' has yet to enter transmission range.","Сигнала нет. Это доказывает, что база Баррон, которую оперативники Blacksteel называют «главным кораблем», ещё не вошла в радиус связи."
+line-43,,没有可接收的信号，这证明那艘被黑钢干员们称为“本舰”的巴伦基地还未进入通讯的范围。,"It's not receiving any signal. This proves that Fort Barron, known to Blacksteel's operators as 'the landship,' has yet to enter transmission range.","Сигнала нет. Это доказывает, что база Баррон, которую оперативники Блэкстил называют «главным кораблем», ещё не вошла в радиус связи."
 line-56,罗拉,杰西卡，不再烤一会儿火了吗？,"Not going to warm yourself up a little longer, Jessica?","Джессика, может, ещё погреешься у огня?"
 line-58,杰西卡,不了......天马上就要黑了，无论如何都会觉得冷的。,I'll pass... It's almost dark. I'll feel cold regardless.,"Нет... скоро совсем стемнеет, холодно будет в любом случае."
 line-63,罗拉,杰西卡，你也别太担心，虽然银行确实让人生气，但本舰马上就要来了。,"You shouldn't worry too much. I mean, yeah, I'm real mad about the bank too, but the landship is almost here.","Джессика, не переживай так. Хотя банк действительно бесит, наш главный корабль скоро прибудет."
@@ -57,7 +57,7 @@ line-85,杰西卡,哪里？,Where?,Где?
 line-87,罗拉,就地块上，靠近矿厂厂区的部分，可能是取暖失火了——,"Right on the plate, close to the mining district... Maybe they started a fire by accident while heating themselves up—","На участке, ближе к территории шахты. Может, кто-то неудачно развел костер —"
 line-92,罗拉,等等，不对，起火点不止一个......这、这究竟......,"Hold on, no, there's not just one... Wh-What is this...","Подожди, нет, очагов возгорания несколько... Что, что здесь происходит?"
 line-103,罗拉,杰西卡？！,Jessica?!,Джессика?!
-line-115,通讯音,......小队，黑钢......舰预计将在......后到达......,"...team, Blacksteel... ship estimated to... arrive in...","...отряд, Blacksteel... корабль прибудет через..."
+line-115,通讯音,......小队，黑钢......舰预计将在......后到达......,"...team, Blacksteel... ship estimated to... arrive in...","...отряд, Блэкстил... корабль прибудет через..."
 line-117,雷蛇,收到。,Acknowledged.,Принято.
 line-119,雷蛇,杰西卡，你去告诉大家——,"Jessica, let everybody know—","Джессика, иди скажи остальным —"
 line-123,杰西卡,队长，地块上有数个起火点，不知道出了什么问题，我得去看看！,"Captain, there are multiple distinct fires on the plate! I don't know what's going on, but I have to go check!","Капитан, на участке началось несколько пожаров, не знаю, что случилось, я должна пойти проверить!"
@@ -158,7 +158,7 @@ line-618,西尔维娅,您这是......什么意思？,What do you mean...?,Что
 line-620,银行经理,其他人没告诉你吗？我们的合作伙伴即将到来，这些家伙马上就要没用了。,"Has no one told you? Our business partners will be here soon. Before you know it, those men will be useless to us.","Разве остальные не сказали? Скоро прибудут наши партнеры, и эти подонки станут нам не нужны."
 line-621,银行经理,所以，他们主动提出临走前带点土特产再出发，我们也没理由不默许。,"Which is why when they suggested they'd leave town with some... souvenirs, we had no reason not to go along with it.","Поэтому, раз они сами предложили прихватить напоследок кое-что из имущества, у нас нет причин им мешать."
 line-622,银行经理,我们只需要等待就好，就像我们之前无数次做过的那样，耐心等待，该来的都会来的——,"All we have to do is wait patiently, like we've done so many times. Hold tight, and everything will be as it should be—","Нам нужно только ждать, как мы уже делали это тысячи раз. Терпеливо ждать, всё, что должно произойти — произойдет."
-line-624,银行员工,经理，我们收到通讯了，是来自黑钢的！他们的本舰提前到达了！,"Manager, I just got a transmission from Blacksteel! Their landship is arriving sooner than expected!","Менеджер, мы получили сообщение от Blacksteel! Их главный корабль прибыл раньше времени!"
+line-624,银行员工,经理，我们收到通讯了，是来自黑钢的！他们的本舰提前到达了！,"Manager, I just got a transmission from Blacksteel! Their landship is arriving sooner than expected!","Менеджер, мы получили сообщение от Блэкстил! Их главный корабль прибыл раньше времени!"
 line-626,银行经理,啧，不光来了，还来得早了一些......,"Tsk, not only are they here, they're here sooner than we thought...","Тц, мало того что прибыли, так ещё и раньше..."
 line-627,银行经理,不过，对我们来说，都是一样的。,But it's all the same to us.,"Впрочем, для нас это ничего не меняет."
 line-637,伍德洛,看来上次去找你，你还是没记住教训。,Looks like you didn't learn your lesson.,"Кажется, прошлый урок ты так и не усвоил."

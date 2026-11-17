@@ -11,7 +11,7 @@ char-4,异常的THRM-EX,异常的THRM-EX,Abnormal THRM-EX,Аномальный T
 char-5,异常的Castle-3,异常的Castle-3,Abnormal Castle-3,Аномальный Castle-3
 char-6,异常的Lancet-2,异常的Lancet-2,Abnormal Lancet-2,Аномальный Lancet-2
 char-7,特雷弗·弗里斯顿,特雷弗·弗里斯顿,Trevor Friston,Тревор Фристон
-char-8,Lancet-2,Lancet-2,Lancet-2,Ланцет-2
+char-8,Lancet-2,Lancet-2,Lancet-2,Lancet-2
 char-9,“正义骑士号”,“正义骑士号”,'Justice Knight',Рыцарь справедливости
 char-10,Castle-3,Castle-3,Castle-3,Кастл-3
 char-11,THRM-EX,THRM-EX,THRM-EX,Термал-EX
@@ -19,10 +19,10 @@ char-12,可露希尔,可露希尔,Closure,Кложер
 char-13,阿米娅,阿米娅,Amiya,Амия
 char-14,Raidian,Raidian,Raidian,Raidian
 char-15,Mantra,Mantra,Mantra,Mantra
-char-16,Misery,Misery,Misery,Мизери
+char-16,Misery,Misery,Misery,Misery
 char-17,Logos,Logos,Logos,Logos
 char-18,Mechanist,Mechanist,Mechanist,Mechanist
-char-19,Sharp,Sharp,Sharp,Шарп
+char-19,Sharp,Sharp,Sharp,Sharp
 char-20,Stormeye,Stormeye,Stormeye,Штормай
 char-21,Pith,Pith,Pith,Пит
 char-22,Touch,Touch,Touch,Тач
@@ -36,7 +36,7 @@ line-21,煌,......？！,...?!,...?!
 line-22,煌,Friston-3，现在不是唱歌的时候！,"Now's not the time for karaoke, Friston-3!","Фристон-3, сейчас не время для песен!"
 line-24,Friston-3,你以为我想吗？！,You think I wanted to do that?!,"Думаешь, я сам хочу?!"
 line-25,Friston-3,我的播放组件是被自定义的，遥控器又不在我手上——,"My playback module is customized, and I don't have the remote—","Мой аудиомодуль был перенастроен, а пульт не у меня в руках —"
-line-27,Friston-3,该死的可露希尔！,"Damn you, Closure!",Проклятая Кло，!
+line-27,Friston-3,该死的可露希尔！,"Damn you, Closure!",Проклятая Кложер!
 line-28,Friston-3,煌，注意正义骑士号！,Blaze! Watch out for Justice Knight!,"Блейз, берегись Рыцаря справедливости!"
 line-29,Friston-3,可露希尔到底把我的代码同步功能放在哪个子菜单里了？！,Which damnable subdirectory did Closure put my code synchronization function in?!,В каком подменю Кло вообще спрятала функцию синхронизации моего кода?!
 line-31,,——把女孩子最珍重的眼泪献给你~♪,—Gonna give you my tears♪,"— Дарю тебе слезы, что дороже всего для девушки~♪"
@@ -124,25 +124,25 @@ line-261,Lancet-2,罗德岛......怎么变成了这样？,What happened to Rhode
 line-263,煌,欸，Friston-3，他们都已经恢复了吗？,Friston-3? Are they all back to normal?,"Эй, Фристон-3, они все уже в порядке?"
 line-265,Friston-3,暂时如此。,For now.,Пока что да.
 line-266,Friston-3,我覆写了目前他们所有代码中与PRTS相关的部分，用我的核心代码来保证他们的基本运作。,"I rewrote the sections of their code associated with PRTS, ensuring their basic operation with my own core code.","Я перезаписал все части их кода, связанные с PRTS, и использовал свой основной код, чтобы гарантировать их нормальную работу."
-line-268,煌,太好了，小猫，这下我们可以放心去支援Misery他们了。,"Great. Now we can go and help Misery's team, kitten.","Отлично, Котёнок, теперь мы можем спокойно поддержать Мизери и остальных."
+line-268,煌,太好了，小猫，这下我们可以放心去支援Misery他们了。,"Great. Now we can go and help Misery's team, kitten.","Отлично, Котёнок, теперь мы можем спокойно поддержать Misery и остальных."
 line-270,迷迭香,Friston-3，接下来你要去哪？,"Where are you going next, Friston-3?","Фристон-3, куда ты теперь?"
 line-272,Friston-3,和这几位刚刚清醒过来的家伙商量一下，我想我们多少还能帮上点忙。,"I'll have a meeting with the kids, now that they've woken up. There should be something that we can help with.","Обсужу все с этими ребятами, что только что пришли в себя, думаю, мы ещё сможем чем-то помочь."
 line-273,Friston-3,可露希尔那边我会沟通。我还准备找她算账呢。,I'll talk to Closure. I've got a score to settle with her anyway.,С Кло я свяжусь. Мне ещё нужно свести с ней счеты.
 line-288,可露希尔,阿米娅，似乎小车们的状态已经暂时恢复正常了。,"Looks like the buggies are back to normal for now, Amiya.","Амия, похоже, состояние маленьких машин временно нормализовалось."
 line-291,阿米娅,弗里斯顿先生的状态如何？,What about Mr. Friston?,Как себя чувствует мистер Фристон?
 line-294,可露希尔,呃，除了有点生我的气，其他都还挺好的。,"Well, he seems a little pissed at me... other than that, everything looks alright.","Эх, если не считать того, что он немного сердится на меня, все в порядке."
-line-295,可露希尔,嘿嘿，多亏他想到能借助他的核心代码直接覆写与PRTS相关的底层代码，否则还真挺棘手的。,"Great idea, rewriting PRTS-associated code with his own. Would have been a lot of trouble otherwise.","Хе-хе, хорошо, что он придумал использовать свой основной код для прямой перезаписи底层-кода, связанного с PRTS, иначе было бы совсем сложно."
+line-295,可露希尔,嘿嘿，多亏他想到能借助他的核心代码直接覆写与PRTS相关的底层代码，否则还真挺棘手的。,"Great idea, rewriting PRTS-associated code with his own. Would have been a lot of trouble otherwise.","Хе-хе, хорошо, что он придумал использовать свой основной код для прямой перезаписи низкоуровневого кода, связанного с PRTS, иначе было бы совсем сложно."
 line-298,阿米娅,......可露希尔小姐，如今我们拥有的PRTS权限已经全部失效？,Are all our PRTS permissions gone?,"...Мисс Кло, все наши права доступа к PRTS аннулированы?"
 line-301,可露希尔,恐怕是这样。,I'm afraid so.,"Боюсь, что да."
 line-302,可露希尔,PRTS主动屏蔽了我们所有人对其的访问，如今它的所有运行都在黑箱中完成。,PRTS is actively blocking all of our access. All of its operations take place in a black box now.,"PRTS заблокировала всем нам доступ, теперь вся её работа происходит в черном ящике."
-line-303,可露希尔,虽然凯尔希在试图争夺其控制权，但我担心她也没法坚持太久。,"Kal'tsit is fighting to take control, but I'm not sure how long she can keep it up.","Хотя Кель'си пытается вернуть контроль, я боюсь, что она не продержится долго."
+line-303,可露希尔,虽然凯尔希在试图争夺其控制权，但我担心她也没法坚持太久。,"Kal'tsit is fighting to take control, but I'm not sure how long she can keep it up.","Хотя Кальцит пытается вернуть контроль, я боюсь, что она не продержится долго."
 line-307,,强制切断PRTS的核心能源。;强制启动备用系统争夺本舰控制权。,Cut off the core power supply of PRTS.;Manually activate the backup system and fight for control over the ship.,Принудительно отключить основное питание PRTS.; Принудительно запустить резервную систему для захвата контроля над кораблем.
 line-310,可露希尔,强制切断核心能源意味着我们必须直接进入Abyss内部，这一计划的风险很大。,Cutting off the core power supply means going into the Abyss directly. It's risky.,"Принудительное отключение питания означает, что мы должны напрямую войти в Abyss, это очень рискованный план."
 line-313,阿米娅,那我会保护博士。,I'll protect the Doctor.,Тогда я буду защищать Доктора.
 line-314,阿米娅,而且，我们并非孤身作战，精英干员们都站在我们的身后。,"Besides, we're not alone. The elite operators stand with us.","К тому же, мы боремся не в одиночку, элитные оперативники стоят за нашими спинами."
 line-316,阿米娅,我不会放弃博士，也不会放弃罗德岛。,I'm not abandoning the Doctor or Rhodes Island.,Я не брошу Доктора и не брошу «Родос».
 line-321,可露希尔,我的ZOOT系统并不能完全做到与PRTS争夺控制权。,My ZOOT system is unable to fully wrestle control from PRTS.,Моя система ZOOT не может полностью конкурировать с PRTS за контроль.
-line-322,可露希尔,我与凯尔希进行过此种情况的演算。,Kal'tsit and I have done simulations about this sort of situation.,Я проводила расчеты с Кель'си на случай такой ситуации.
+line-322,可露希尔,我与凯尔希进行过此种情况的演算。,Kal'tsit and I have done simulations about this sort of situation.,Я проводила расчеты с Кальцит на случай такой ситуации.
 line-323,可露希尔,若是借助本舰的能源动力强行启动，短时间内或许它能够拿回某些非核心区域的控制权......,"By force-booting it with the ship's power, it may be able to temporarily establish control over certain non-core areas...","Если использовать энергетическую мощность корабля для принудительного запуска, на короткое время, возможно, получится вернуть контроль над некоторыми неосновными зонами..."
 line-324,可露希尔,但每次的结果都是过载启动后它的核心元件直接损毁。,But all outcomes end with destruction of its core components due to overload.,Но каждый раз это заканчивается выходом из строя основных компонентов из-за перегрузки при запуске.
 line-327,阿米娅,可露希尔小姐，你早就有判断了，对吧？,"You've already made a decision, haven't you?","Мисс Кло, вы ведь уже все решили, верно?"
@@ -176,7 +176,7 @@ line-419,可露希尔,该死，拼了！,Dammit. It's all or nothing!,"Черт 
 line-425,,警告：核心组件严重受损。,Warning: Severe core component damage.,Внимание: Основные компоненты серьезно повреждены.
 line-430,,警告：备用供能不足，预计剩余时间：二十一分钟。,Warning: Insufficient backup power. Time remaining: Twenty-one minutes.,"Внимание: Резервное питание недостаточно, предполагаемое оставшееся время: двадцать одна минута."
 line-432,,通讯系统已上线。,Communications are online.,Система связи запущена.
-line-438,可露希尔,博士，PRTS正在疯狂攻击我们，ZOOT会协同凯尔希展开防御。,"We're being attacked by PRTS, Doctor. ZOOT will coordinate defenses with Kal'tsit.","Доктор, PRTS атакует нас изо всех сил, ZOOT будет координировать оборону вместе с Кель'си."
+line-438,可露希尔,博士，PRTS正在疯狂攻击我们，ZOOT会协同凯尔希展开防御。,"We're being attacked by PRTS, Doctor. ZOOT will coordinate defenses with Kal'tsit.","Доктор, PRTS атакует нас изо всех сил, ZOOT будет координировать оборону вместе с Кальцит."
 line-439,可露希尔,接下来就交给你们了！,The rest is up to you!,Дальше все зависит от вас!
 line-448,,所有人测试通讯设备。,"All personnel, comm check.",Всем проверить устройства связи.
 line-455,Raidian,已就位。,In position.,На позиции.
@@ -192,7 +192,7 @@ line-505,Pith,在。,I'm here.,На месте.
 line-509,Touch,正在集合。,Assembling.,Собираюсь.
 line-513,阿斯卡纶,等你。,Waiting for you.,Жду вас.
 line-521,,各位，目标已同步。,Objectives updated.,"Господа, цели синхронизированы."
-line-523,,优先目标——支援凯尔希。,Priority objective—support Kal'tsit.,Приоритетная цель — поддержка Кель'си.
+line-523,,优先目标——支援凯尔希。,Priority objective—support Kal'tsit.,Приоритетная цель — поддержка Кальцит.
 line-525,,核心任务——进入Abyss，切断PRTS的核心能源。,Core objective—enter Abyss and cut off PRTS's core power supply.,"Основная задача — проникновение в Abyss, отключение основного питания PRTS."
 line-538,,预计进度：,,Ожидаемый прогресс:
 line-539,,■,Progress: ■ ■ ■ ■ ■ ■ ■ ■ ■,■

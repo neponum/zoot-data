@@ -12,7 +12,7 @@ char-5,Mantra,Mantra,Mantra,Mantra
 char-6,阿兰娜,阿兰娜,Alanna,Аланна
 char-7,Pith,Pith,Pith,Пит
 char-8,Touch,Touch,Touch,Тач
-char-9,Sharp,Sharp,Sharp,Шарп
+char-9,Sharp,Sharp,Sharp,Sharp
 char-10,Stormeye,Stormeye,Stormeye,Штормай
 char-11,Logos,Logos,Logos,Logos
 char-12,萨卡兹锅炉工,萨卡兹锅炉工,Sarkaz Boiler Worker,Котельщик Сарказ
@@ -21,7 +21,7 @@ char-14,被困住的源石结晶体,被困住的源石结晶体,Trapped Originiu
 char-15,阿米娅,阿米娅,Amiya,Амия
 char-16,可露希尔,可露希尔,Closure,Кложер
 char-17,Mechanist,Mechanist,Mechanist,Mechanist
-char-18,Misery,Misery,Misery,Мизери
+char-18,Misery,Misery,Misery,Misery
 char-19,阿斯卡纶,阿斯卡纶,Ascalon,Аскалон
 char-20,Mantra的声音,Mantra的声音,Mantra's Voice,Mantra
 char-21,煌,煌,Blaze,Блейз
@@ -32,7 +32,7 @@ char-25,异常的Castle-3,异常的Castle-3,Abnormal Castle-3,Аномальны
 char-26,异常的Lancet-2,异常的Lancet-2,Abnormal Lancet-2,Аномальный Lancet-2
 char-27,Friston-3,Friston-3,Friston-3,Фристон-3
 ,,,,
-line-13,,凯尔希进入了石棺之中。,Kal'tsit enters the Sarcophagus.,Кел'си вошла внутрь Саркофага.
+line-13,,凯尔希进入了石棺之中。,Kal'tsit enters the Sarcophagus.,Кальцит вошла внутрь Саркофага.
 line-14,,她曾在漫长岁月中守候在这座石棺旁，陪同这座石棺的主人等待一个飘渺的希望。,"She had once stood watch over this very Sarcophagus, waiting for an elusive speck of hope from the Sarcophagus's master.","Она провела долгие годы, охраняя этот Саркофаг, ожидая вместе с его владельцем призрачной надежды."
 line-15,,这一方空间跨越了文明维度的时间，联通向这艘舰船最深处的秘密。,"Transcending the temporal constraints of civilization, this space leads to the secrets in the deepest reaches of the ship.","Это пространство преодолело временные измерения цивилизации, соединившись с самой глубокой тайной этого корабля."
 line-28,,警告：识别到权限外数据接入。,Warning: Unauthorized access detected.,Предупреждение: обнаружен несанкционированный доступ к данным.
@@ -45,19 +45,19 @@ line-42,,\n\n警告：非管理员访问，权限受限。,\n\nWarning: No admin
 line-46,,\n\n警告：无法加载修复模块，适配未完成——,\n\nWarning: Unable to load repair module. Adaptation incomplete—,"Предупреждение: невозможно загрузить модуль восстановления, адаптация не завершена —"
 line-50,,\n\n警告：错误误误误误误误误误——,\n\nWarning: Error. Error. Errorerrorerrorerror—,Предупреждение: ошибка-ка-ка-ка-ка-ка-ка...
 line-63,,ID信息识别中......身份确认。,Identifying... ID confirmed.,Идентификация ID... Личность подтверждена.
-line-64,,\n\nID编码：凯尔希,\n\nID: Kal'tsit,ID-код: Кел'си
-line-68,凯尔希,——？！,——?!,—？！
+line-64,,\n\nID编码：凯尔希,\n\nID: Kal'tsit,ID-код: Кальцит
+line-68,凯尔希,——？！,——?!,—?!
 line-76,,虚拟机载入完成。,Virtual machine loading complete.,Загрузка виртуальной машины завершена.
-line-80,？？？,（未知语言）凯尔希，当你触发这份加密人工智能模型的时候，想必我留下的期许已经遭到了阻滞——,"(Unknown language) Dear Kal'tsit. If you have triggered this encrypted AI model, that means the hopes I left behind have been impeded—","(Неизвестный язык) Кел'си, раз ты активировала эту зашифрованную модель ИИ, значит, возложенные мной ожидания, должно быть, столкнулись с препятствиями —"
+line-80,？？？,（未知语言）凯尔希，当你触发这份加密人工智能模型的时候，想必我留下的期许已经遭到了阻滞——,"(Unknown language) Dear Kal'tsit. If you have triggered this encrypted AI model, that means the hopes I left behind have been impeded—","(Неизвестный язык) Кальцит, раз ты активировала эту зашифрованную модель ИИ, значит, возложенные мной ожидания, должно быть, столкнулись с препятствиями —"
 line-87,预言家,（未知语言）甚至我本人也已遭遇不测。,(Unknown language) Perhaps I myself have come to an untimely end.,"(Неизвестный язык) Даже со мной, возможно, случилась беда."
-line-89,凯尔希,（未知语言）Dr.{@nickname}......,(Unknown language) Dr. {@nickname}...,(Неизвестный язык) Доктор...
-line-91,预言家,（未知语言）你对我的出现表现出了惊讶。我失败了吗，凯尔希？,"(Unknown language) You are surprised by my appearance, Kal'tsit. Have I failed?","(Неизвестный язык) Ты удивлена моему появлению. Я потерпел неудачу, Кел'си?"
+line-89,凯尔希,（未知语言）Dr.{@nickname}......,(Unknown language) Dr. {@nickname}...,(Неизвестный язык) Доктор {@nickname}...
+line-91,预言家,（未知语言）你对我的出现表现出了惊讶。我失败了吗，凯尔希？,"(Unknown language) You are surprised by my appearance, Kal'tsit. Have I failed?","(Неизвестный язык) Ты удивлена моему появлению. Я потерпел неудачу, Кальцит?"
 line-93,凯尔希,（未知语言）如今泰拉的未来......尚未可知。,(Unknown language) The future of Terra is yet unknown.,(Неизвестный язык) Будущее Терры в наши дни... пока ещё неведомо.
-line-94,凯尔希,（未知语言）Dr.{@nickname}，我并未想到可以再次见到你——,"(Unknown language) I never expected to see you again, Dr. {@nickname}—","(Неизвестный язык) Доктор, я не ожидала, что смогу увидеть тебя снова —"
+line-94,凯尔希,（未知语言）Dr.{@nickname}，我并未想到可以再次见到你——,"(Unknown language) I never expected to see you again, Dr. {@nickname}—","(Неизвестный язык) Доктор {@nickname}, я не ожидала, что смогу увидеть тебя снова —"
 line-96,预言家,（未知语言）这只是编入了我意识模式的加密程序。,(Unknown language) This is simply an encrypted program encoded within my cognition model.,"(Неизвестный язык) Это всего лишь зашифрованная программа, в которую внедрена модель моего сознания."
 line-97,预言家,（未知语言）它基于逻辑分析输入数据并作出合适的反应。换而言之，它并不具备我的情感或记忆。,"(Unknown language) It analyses data input and provides an appropriate response. In other words, it does not possess my emotions or memories.","(Неизвестный язык) Она анализирует входящие данные на основе логики и выдает соответствующие реакции. Другими словами, у нее нет моих чувств или воспоминаний."
 line-99,凯尔希,......,......,...
-line-101,预言家,（未知语言）我并不想让你再徒增失望，凯尔希。,"(Unknown language) I do not wish to disappoint you again, Kal'tsit.","(Неизвестный язык) Я не хочу, чтобы ты вновь испытывала разочарование, Кел'си."
+line-101,预言家,（未知语言）我并不想让你再徒增失望，凯尔希。,"(Unknown language) I do not wish to disappoint you again, Kal'tsit.","(Неизвестный язык) Я не хочу, чтобы ты вновь испытывала разочарование, Кальцит."
 line-103,凯尔希,（未知语言）......你为何留下它？,(Unknown language) ...Why did you leave it behind?,(Неизвестный язык) ...Почему ты оставил её?
 line-105,预言家,（未知语言）因为你。,(Unknown language) Because of you.,(Неизвестный язык) Из-за тебя.
 line-110,预言家,（未知语言）我了解你，唯有所有的希望都已断绝之时，你才会回到这里寻找最后的希望。,"(Unknown language) I know that you will only return here when all hope seems lost, in search of one last chance.","(Неизвестный язык) Я знаю тебя: только когда все надежды будут потеряны, ты вернешься сюда в поисках последней надежды."
@@ -65,7 +65,7 @@ line-111,预言家,（未知语言）但抱歉，恐怕那时连我也已无力�
 line-113,凯尔希,（未知语言）你无法再帮上我？,(Unknown language) You cannot help me anymore?,(Неизвестный язык) Ты больше не можешь мне помочь?
 line-115,预言家,（未知语言）在我仍可触及的领域内，我的石棺会为你提供最后的助力......,"(Unknown language) My Sarcophagus will render what assistance is possible, to the extent that it is possible for me...","(Неизвестный язык) В тех областях, до которых я все ещё могу дотянуться, мой Саркофаг окажет тебе последнюю поддержку..."
 line-116,预言家,（未知语言）哪怕是在祂将要降临的时刻。,(Unknown language) Even when It descends upon us.,"(Неизвестный язык) Даже в момент, когда Он придёт."
-line-118,凯尔希,（未知语言）Dr.{@nickname}，我并不为寻求庇护而来，但危险的确近在咫尺。,"(Unknown language) I didn't come to seek sanctuary, Dr. {@nickname}, but it's true that danger is very near.","(Неизвестный язык) Доктор, я пришла не за убежищем, но опасность действительно близко."
+line-118,凯尔希,（未知语言）Dr.{@nickname}，我并不为寻求庇护而来，但危险的确近在咫尺。,"(Unknown language) I didn't come to seek sanctuary, Dr. {@nickname}, but it's true that danger is very near.","(Неизвестный язык) Доктор {@nickname}, я пришла не за убежищем, но опасность действительно близко."
 line-119,凯尔希,（未知语言）我需要夺回PRTS，我需要你的协助。,(Unknown language) I need your help to take back PRTS.,"(Неизвестный язык) Мне нужно вернуть PRTS, мне нужна твоя помощь."
 line-121,预言家,（未知语言）这恐怕是很困难的事。,(Unknown language) That will be difficult.,(Неизвестный язык) Это будет крайне сложно.
 line-122,预言家,（未知语言）PRTS的核心数据库，会禁止名为AMa-10的个体的访问。这是她设下的绝对禁令。,(Unknown language) The core databank of PRTS will deny access to the individual known as AMa-10. She has set this as an absolute prohibition.,"(Неизвестный язык) Основная база данных PRTS запрещает доступ для субъекта по имени AMa-10. Это абсолютный запрет, установленный ею."
@@ -88,22 +88,22 @@ line-146,预言家,（未知语言）我尊重你的选择。,(Unknown language)
 line-147,预言家,（未知语言）再见。,(Unknown language) Goodbye.,(Неизвестный язык) Прощай.
 line-151,,备用能源启动。,Backup power is now online.,Резервное питание запущено.
 line-152,,\n\nPRTS权限已更新。管理员权限已确认。,\n\nPRTS permissions updated. Administrator permissions confirmed.,Полномочия PRTS обновлены. Права администратора подтверждены.
-line-153,,\n\n欢迎回来，Dr.{@nickname}。,"\n\nWelcome back, Dr. {@nickname}.","С возвращением, Доктор."
+line-153,,\n\n欢迎回来，Dr.{@nickname}。,"\n\nWelcome back, Dr. {@nickname}.","С возвращением, Доктор {@nickname}."
 line-157,,\n\n警告：修复模块供能不足，已默认关闭。,\n\nWarning: Repair module has been disabled due to insufficient power.,"Предупреждение: питания для модуля восстановления недостаточно, он отключен по умолчанию."
 line-158,,\n\n通信模块全频段开启，通信接收模块超频完成。,\n\nAll communication module channels open. Communications receiver module overclocking procedure completed.,"Коммуникационный модуль запущен на всех частотах, оверклокинг модуля приёма связи завершен."
 line-159,,\n\n正在连接PRTS本地数据库......连接完成。,\n\nConnecting to local PRTS databank... connection complete.,Подключение к локальной базе данных PRTS... Подключение завершено.
 line-171,凯尔希,......,......,...
 line-177,,警告：操作者生命体征出现剧烈变化，无法加载修复模块。,Warning: Operator vital signs unstable. Unable to load repair module.,"Предупреждение: жизненные показатели оператора резко изменились, невозможно загрузить модуль восстановления."
-line-193,,凯尔希感受到了剧烈的痛苦。,Kal'tsit feels intense pain.,Кел'си ощутила острую боль.
+line-193,,凯尔希感受到了剧烈的痛苦。,Kal'tsit feels intense pain.,Кальцит ощутила острую боль.
 line-194,,将思维与石棺完全连接之后，以文明为单位的庞大数据流开始以她的身体为媒介高速传输。,"With her mind connected to the Sarcophagus, vast amounts of data on a civilizational scale begin transmitting with her as the medium.","После полного соединения сознания с Саркофагом, огромный поток данных, равный по объему целой цивилизации, начал передаваться через её тело."
 line-195,,她看到了拉特兰地下的主机......,She sees the main server beneath Laterano...,Она увидела главный компьютер под Латерано...
 line-196,,看到了已经沉寂无声的保存间......,The silent preservation room...,Увидела безмолвную камеру хранения...
 line-197,,看到了海洋深处的深蓝之树......,The Caerula Arbor deep beneath the waves...,Увидела Древо Глубин в недрах океана...
 line-198,,看到了影月自泰拉背面的巨构中升起......,The Shadow-Moon rising from the megastructure on the dark side of Terra...,"Увидела, как Теневая Луна поднимается над мегаструктурой на обратной стороне Терры..."
-line-199,,泰拉的时间与空间被压缩成凯尔希思维中的一张网，她看到了泰拉的一切，也看到了此刻罗德岛的每一个角落。,"Time and space are compressed into a single web within Kal'tsit's consciousness. She sees all of Terra, and all of Rhodes Island.",Время и пространство Терры сжались в сеть в сознании Кел'си; она видела всё на Терре и каждый уголок Родоса в этот момент.
+line-199,,泰拉的时间与空间被压缩成凯尔希思维中的一张网，她看到了泰拉的一切，也看到了此刻罗德岛的每一个角落。,"Time and space are compressed into a single web within Kal'tsit's consciousness. She sees all of Terra, and all of Rhodes Island.",Время и пространство Терры сжались в сеть в сознании Кальцит; она видела всё на Терре и каждый уголок Родоса в этот момент.
 line-200,,她获得了与万物相连的感受。,She gains a connection to everything.,Она обрела чувство связи со всем сущим.
 line-201,,但是对应地，她与Mon3tr——这个在上万年的时间中与她紧密相连的存在——她们之间的联系正在不断地衰弱下去。,"At the same time, however, the connection between her and Mon3tr, one that has existed for ten thousand years and more, grows weaker by the moment.","Но в то же время связь с Mon3tr — существом, тесно связанным с ней на протяжении десяти тысяч лет — начала неуклонно слабеть."
-line-202,凯尔希,......Dr.{@nickname}......这份使命并非枷锁。,...Dr.{@nickname}... this duty is not a shackle.,...Доктор... Эта миссия — не оковы.
+line-202,凯尔希,......Dr.{@nickname}......这份使命并非枷锁。,...Dr.{@nickname}... this duty is not a shackle.,...Доктор {@nickname}... Эта миссия — не оковы.
 line-203,凯尔希,这早已是我自己的选择。,It was always my choice.,Это давно был мой собственный выбор.
 line-211,,<color=#FF4200>警告：操作者生命体征出现剧烈变化，无法加载修复模块。</color>,<color=#FF4200>Warning: Operator vital signs unstable. Unable to load repair module.</color>,"Предупреждение: жизненные показатели оператора резко изменились, невозможно загрузить модуль восстановления."
 line-213,,<color=#FF4200>警告：识别到未知错误。</color>,<color=#FF4200>Warning: Unknown error.</color>,Предупреждение: обнаружена неизвестная ошибка.
@@ -113,23 +113,23 @@ line-222,,<color=#FF4200>警告：识别到未知错误。</color>,<color=#FF420
 line-235,凯尔希,——Mon3tr，我无法确定接下来我们还会遭遇什么。,"I have no idea what lies ahead, Mon3tr.","— Mon3tr, я не могу быть уверена в том, с чем мы столкнемся дальше."
 line-236,凯尔希,在我真正面对她之前，这是我唯一能为你做的——,This is the only thing I can do for you before I go to face her.,"До того, как я встречусь с ней лицом к лицу, это единственное, что я могу сделать для тебя —"
 line-237,凯尔希,接下来，你需要依靠你自己了。,The rest is up to you.,Дальше тебе придется полагаться на себя.
-line-238,,凯尔希冲破了造主为她设下的所有限制。,Kal'tsit breaks the limits that her creator placed upon her.,"Кел'си сокрушила все ограничения, установленные для нее Создателем."
+line-238,,凯尔希冲破了造主为她设下的所有限制。,Kal'tsit breaks the limits that her creator placed upon her.,"Кальцит сокрушила все ограничения, установленные для нее Создателем."
 line-239,,以剥离生命的一半为代价，她获得新生。,"In exchange for half of her life, she is reborn.",Ценой отделения половины своей жизни она обрела перерождение.
-line-253,,石棺之外传来了Mon3tr紧张且疑惑的吼叫，那是Mon3tr第一次完全失去了对凯尔希的感知。,"Outside the Sarcophagus, Mon3tr roars in anxiety and bewilderment. It has lost track of Kal'tsit for the first time.",Снаружи Саркофага послышался напряженный и недоуменный рев Mon3tr; в тот момент Mon3tr впервые полностью потерял связь с Кел'си.
-line-254,,它与凯尔希之间的连接被彻底切断了。,The connection between it and Kal'tsit has been completely severed.,Его связь с Кел'си была полностью разорвана.
+line-253,,石棺之外传来了Mon3tr紧张且疑惑的吼叫，那是Mon3tr第一次完全失去了对凯尔希的感知。,"Outside the Sarcophagus, Mon3tr roars in anxiety and bewilderment. It has lost track of Kal'tsit for the first time.",Снаружи Саркофага послышался напряженный и недоуменный рев Mon3tr; в тот момент Mon3tr впервые полностью потерял связь с Кальцит.
+line-254,,它与凯尔希之间的连接被彻底切断了。,The connection between it and Kal'tsit has been completely severed.,Его связь с Кальцит была полностью разорвана.
 line-255,凯尔希,我的目标并不在泰拉遥远的彼端，她就在这里。,I am not going to the far side of Terra. She is here.,"Моя цель не в далеких краях Терры, она здесь."
 line-256,凯尔希,就在我的身边。,Right here by my side.,Прямо рядом со мной.
 line-270,,检测到管理员权限接入，管理员权限验证完毕。,Administrator access detected. Permission verified.,"Обнаружен вход с правами администратора, проверка прав администратора завершена."
-line-271,,\n\nDr.{@nickname}已接入。,"\n\nWelcome, Dr. {@nickname}.",Доктор вошел в систему.
+line-271,,\n\nDr.{@nickname}已接入。,"\n\nWelcome, Dr. {@nickname}.",Доктор {@nickname} вошел в систему.
 line-277,凯尔希,我找到你了。,I've found you.,Я нашла тебя.
 line-290,,............,......,...
-line-293,,你不是{@nickname}。,You're not {@nickname}.,Ты не Доктор.
+line-293,,你不是{@nickname}。,You're not {@nickname}.,Ты не {@nickname}.
 line-294,,AMa-10？,AMa-10?,AMa-10?
-line-300,凯尔希,我是凯尔希。,My name is Kal'tsit.,Я Кел'си.
+line-300,凯尔希,我是凯尔希。,My name is Kal'tsit.,Я Кальцит.
 line-304,,你越界了。,You have crossed the line.,Ты перешла черту.
 line-309,凯尔希,那又如何——,And what of it—,И что с того? —
 line-311,凯尔希,（未知语言）普瑞赛斯。,(Unknown language) Priestess.,(Неизвестный язык) Пристесс.
-line-314,,凯尔希终于说出了她的名字。,Kal'tsit finally speaks her name.,Кел'си наконец произнесла её имя.
+line-314,,凯尔希终于说出了她的名字。,Kal'tsit finally speaks her name.,Кальцит наконец произнесла её имя.
 line-317,,你在上传未经验证的数据，AMa-10。,"You are uploading unvalidated data, AMa-10.","Ты загружаешь непроверенные данные, AMa-10."
 line-318,,可惜你不可能坚持到结束。,But you will not see it through to the end.,"Жаль, что ты не сможешь довести дело до конца."
 line-324,凯尔希,是吗？,Is that so?,Правда?
@@ -151,7 +151,7 @@ line-373,,“同步完成。”,'Synchronization complete.',«Синхрониз
 line-374,,“本舰所有同僚，不必惊慌，这里是Mantra。”,"'Attention all hands, this is Mantra speaking.'","«Всем коллегам на борту, не паникуйте, это Mantra»."
 line-375,,“现在出现在你们脑海中的数据是当前罗德岛本舰的实时扫描数据。”,'You are currently seeing in your mind real-time scan data of Rhodes Island's current state.',"«Данные, что сейчас появились в вашем сознании, — это данные сканирования Родоса в реальном времени»."
 line-376,,“你们或许正遭遇未知来源的袭击，或许因完全失去了方向而孤立无援。”,"'Perhaps you are under attack from unknown sources, or isolated and lost.'","«Возможно, вы подверглись нападению неизвестного источника или остались без поддержки, потеряв ориентиры»."
-line-377,,“但现在有凯尔希医生的指引，我们正重新夺回主动权。”,"'But we are now taking back the initiative, under the direction of Dr. Kal'tsit.'","«Но теперь, под руководством доктора Кел'си, мы возвращаем инициативу»."
+line-377,,“但现在有凯尔希医生的指引，我们正重新夺回主动权。”,"'But we are now taking back the initiative, under the direction of Dr. Kal'tsit.'","«Но теперь, под руководством доктора Кальцит, мы возвращаем инициативу»."
 line-378,,“此次紧急情况的事态已经超过了诸位自行判断处理的极限，接下来的行动请务必听从我的建议。”,'The scale of the current emergency exceeds the scope of individual discretion. You are hereby directed to act in accordance with my instructions.',"«Чрезвычайная ситуация вышла за пределы ваших возможностей самостоятельно оценить обстановку, поэтому в дальнейших действиях обязательно следуйте моим рекомендациям»."
 line-379,,“诸位判断情况，及时与身边的同僚会合。”,'Rendezvous with nearby operators as soon as reasonably possible under your individual circumstances.',«Оцените ситуацию и своевременно встретьтесь с коллегами поблизости».
 line-380,,“请务必定时检查各自的防护设备是否仍在正常运转，并尽量避开高威胁区域。”,'Regularly monitor the status of your protective equipment and avoid high-threat areas if at all possible.',«Обязательно регулярно проверяйте исправность ваших защитных устройств и старайтесь избегать зон повышенной опасности».
@@ -190,7 +190,7 @@ line-476,,“靠近Abyss的冲突区将是我们最后必须突破的关键区�
 line-477,,“在刚刚结束的精英干员会议中，我们一致通过了由全体精英干员共同突破Abyss的决定。”,'The elite operators have conferred and unanimously voted to break into the Abyss together.',«На только что завершившемся совещании элитных оперативников мы единогласно приняли решение о совместном прорыве Abyss всеми элитными силами».
 line-478,,“我们会成为破开黑暗的尖刀，也会是保卫罗德岛的最终防线。”,"'We are the knife that cuts through the darkness, and we are Rhodes Island's last line of defense.'","«Мы станем острием ножа, рассекающим тьму, и последним рубежом обороны Родоса»."
 line-479,,“各位同僚，不必因为恐惧而闭上双眼。”,"'Do not let fear avert your eyes, comrades.'","«Коллеги, не закрывайте глаза из страха»."
-line-480,,“相信我的声音。相信凯尔希医生。”,'Trust in my voice. Trust in Dr. Kal'tsit.',«Верьте моему голосу. Верьте доктору Кел'си».
+line-480,,“相信我的声音。相信凯尔希医生。”,'Trust in my voice. Trust in Dr. Kal'tsit.',«Верьте моему голосу. Верьте доктору Кальцит».
 line-481,,“相信罗德岛。”,'Trust in Rhodes Island.',«Верьте в Родос».
 line-491,,<p=2>罗德岛本舰能源动力区域</>,"<p=2>Rhodes Island Landship, Mobility Layer</>",Энергетический отсек корабля Родос.
 line-496,Logos,看来您已清除了威胁。,Seems like you've eliminated the threat.,"Похоже, вы устранили угрозу."
@@ -218,13 +218,13 @@ line-563,华法琳,克洛伊，我们没有人会放弃。,"None of us is giving
 line-564,华法琳,——我们的一切努力都不会白费。,Our efforts are not futile. We will not allow them to be futile.,— Все наши усилия не будут напрасны.
 line-565,华法琳,他们会收到你的礼物，我保证......,I guarantee that they will receive your gift...,"Они получат твой подарок, я обещаю..."
 line-570,被困住的源石结晶体,（奋力挣扎）,(Struggles),(Отчаянно борется)
-line-572,华法琳,你会解脱的，很快。最新数据已经全部上传给凯尔希，只要证明有效——,You'll be free soon. The latest data have been uploaded to Kal'tsit. Once it's validated—,"Скоро ты освободишься. Новейшие данные уже переданы Кел'си, как только мы докажем их эффективность —"
+line-572,华法琳,你会解脱的，很快。最新数据已经全部上传给凯尔希，只要证明有效——,You'll be free soon. The latest data have been uploaded to Kal'tsit. Once it's validated—,"Скоро ты освободишься. Новейшие данные уже переданы Кальцит, как только мы докажем их эффективность —"
 line-577,,源石的造物在无声中粉碎了，粉末顺着通风系统的管道被彻底排出实验室。,"The Originium entity shatters silently, every last fragment removed from the lab through the ventilation system.","Творение Ориджиниума беззвучно рассыпалось, и порошок был полностью выведен из лаборатории через систему вентиляции."
 line-578,,这个奇怪的东西不会再困扰华法琳了。,This strange thing will trouble Warfarin no more.,Эта странная штука больше не будет беспокоить Варфарин.
 line-580,华法琳,......成功了。,...Success.,...Успех.
 line-582,,但她却很难为此开心。,But she finds little joy in it.,Но ей было трудно этому радоваться.
 line-594,阿米娅,本舰已经有减速的迹象了，Logos的任务进行得很顺利。,The ship is slowing down. Logos has been successful.,"Корабль уже замедляется, миссия Logos проходит успешно."
-line-596,阿米娅,博士，Logos所提醒的航行轨迹......凯尔希医生已经演算出了三条大致轨迹。,About the course that Logos brought up... Dr. Kal'tsit has charted three possible courses.,"Доктор, насчет траектории, о которой предупреждал Logos... Доктор Кел'си уже вычислила три примерных курса."
+line-596,阿米娅,博士，Logos所提醒的航行轨迹......凯尔希医生已经演算出了三条大致轨迹。,About the course that Logos brought up... Dr. Kal'tsit has charted three possible courses.,"Доктор, насчет траектории, о которой предупреждал Logos... Доктор Кальцит уже вычислила три примерных курса."
 line-597,阿米娅,三条预测的轨迹都存在相似的特点。,There is one thing in common among all three predictions.,Все три прогнозируемых курса имеют общие черты.
 line-598,阿米娅,它们都直冲塔尔干主矿脉，我有理由相信那片矿脉区才是PRTS真正的目的地。,They all end in the Targangils Prime Vein. I believe that is the course that PRTS has set.,"Они направлены прямо к основной минеральной жиле Тал, у меня есть основания полагать, что этот район — настоящая цель PRTS."
 line-601,,本舰正在被刻意引导向矿脉前进？,This ship is being guided towards the vein?,Корабль намеренно направляют к месторождению?
@@ -234,17 +234,17 @@ line-608,,......,......,...
 line-611,,你有没有发现不对劲？,Don't you find it strange?,Ты не замечаешь ничего странного?
 line-614,阿米娅,的确很奇怪，我们目前头疼的所有威胁都并不是冲着彻底摧毁罗德岛的方向发展。,Definitely strange. All the threats that we're dealing with right now don't seem bent on completely destroying Rhodes Island.,"Действительно странно: все угрозы, с которыми мы столкнулись, не направлены на полное уничтожение Родоса."
 line-615,阿米娅,断联的PRTS、突然出现的源石造物、自主变化的本舰区域、刻意引导的航向，这些都不可能真正击溃我们。,"Losing PRTS, the appearance of the Originium entities, the shifts in the ship's internals, the change of course... none of these things would truly destroy us.","Отключившийся PRTS, внезапно возникшие создания из Ориджиниума, самопроизвольные изменения отсеков корабля, намеренно измененный курс — всё это не способно нас разгромить."
-line-622,华法琳,Dr.{@nickname}，针对那些源石怪物我这边有了突破。,"I have a breakthrough regarding the Originium monsters, Dr. {@nickname}.","Доктор, у меня есть прорыв в борьбе с теми Ориджиниум-монстрами."
-line-623,华法琳,所有实验数据我上传给凯尔希后，她改造了源石弧底层逻辑，并且已经把升级包同步给了所有精英干员。,"After uploading the experiment data to Kal'tsit, she has modified the bottom-level logic of Originium Arc and distributed the upgrade package to all operators.","После того как я загрузила все данные экспериментов Кел'си, она изменила базовую логику дуги Ориджиниума и уже разослала обновление всем элитным оперативникам."
+line-622,华法琳,Dr.{@nickname}，针对那些源石怪物我这边有了突破。,"I have a breakthrough regarding the Originium monsters, Dr. {@nickname}.","Доктор {@nickname}, у меня есть прорыв в борьбе с теми Ориджиниум-монстрами."
+line-623,华法琳,所有实验数据我上传给凯尔希后，她改造了源石弧底层逻辑，并且已经把升级包同步给了所有精英干员。,"After uploading the experiment data to Kal'tsit, she has modified the bottom-level logic of Originium Arc and distributed the upgrade package to all operators.","После того как я загрузила все данные экспериментов Кальцит, она изменила базовую логику дуги Ориджиниума и уже разослала обновление всем элитным оперативникам."
 line-624,华法琳,这足够让他们更好地应付那些源石玩意儿了。,It will allow them to more effectively deal with these Originium entities.,"Этого достаточно, чтобы они могли справиться с этими Ориджиниумными штуками."
 line-627,,升级？;......你的实验数据是从哪来的？,Upgrade?;Where did your data come from?,Обновление? ...Откуда у тебя данные экспериментов?
-line-630,华法琳,这些麻烦解决完后，我会找你和凯尔希聊聊。,"Let's have a long chat, you and I and Kal'tsit, after we get out of this mess.","Когда разберемся с этими проблемами, я поговорю с тобой и Кел'си."
+line-630,华法琳,这些麻烦解决完后，我会找你和凯尔希聊聊。,"Let's have a long chat, you and I and Kal'tsit, after we get out of this mess.","Когда разберемся с этими проблемами, я поговорю с тобой и Кальцит."
 line-631,华法琳,就这样。,That's all I have to say.,Вот так.
 line-632,华法琳,......我还需要照顾剩下的病人。,...I still have patients to attend to.,...Мне ещё нужно позаботиться об оставшихся пациентах.
 line-638,阿米娅,......华法琳医生。,Dr. Warfarin...,...Доктор Варфарин.
-line-640,阿米娅,博士，无论如何，华法琳医生和凯尔希医生替我们解决了一个大麻烦。,"Whatever the case, Dr. Warfarin and Kal'tsit have taken care of a big problem for us.","Доктор, так или иначе, доктор Варфарин и доктор Кел'си избавили нас от большой неприятности."
+line-640,阿米娅,博士，无论如何，华法琳医生和凯尔希医生替我们解决了一个大麻烦。,"Whatever the case, Dr. Warfarin and Kal'tsit have taken care of a big problem for us.","Доктор, так или иначе, доктор Варфарин и доктор Кальцит избавили нас от большой неприятности."
 line-641,阿米娅,但我想，所有这些威胁只是在暂时拖延我们解决问题的脚步罢了。,But all these threats only serve to delay our solution to the problem.,"Но мне кажется, что все эти угрозы лишь временно задерживают нас на пути к решению проблемы."
-line-642,阿米娅,Dr.{@nickname}，有没有可能我们要面对的人并不想与我们为敌？,"Is it possible that the one we're facing doesn't want to be our enemy, Dr. {@nickname}?","Доктор, а может ли быть так, что те, с кем мы должны столкнуться, вовсе не хотят быть нашими врагами?"
+line-642,阿米娅,Dr.{@nickname}，有没有可能我们要面对的人并不想与我们为敌？,"Is it possible that the one we're facing doesn't want to be our enemy, Dr. {@nickname}?","Доктор {@nickname}, а может ли быть так, что те, с кем мы должны столкнуться, вовсе не хотят быть нашими врагами?"
 line-645,,不，更有可能是无可奈何。,"More likely, they just have no choice.","Нет, скорее они действуют в безвыходной ситуации."
 line-647,,真实的情况，只要进入Abyss便清楚了。,We'll know what's going on once we're in the Abyss.,"Истинное положение дел станет ясно, как только мы войдём в Abyss."
 line-649,,Raidian，麻烦帮忙定位可露希尔。;Mantra，辛苦帮忙通知可露希尔。,"Give me a location on Closure, Raidian.;Pass the word on to Closure, Mantra.","Raidian, помоги найти Closure. Mantra, будь добра, помоги оповестить Closure."
@@ -262,10 +262,10 @@ line-680,Mechanist,除此之外，我和可露希尔在此基础上捣鼓出来�
 line-683,可露希尔,换而言之，我们可以暂时无视区域变化带来的麻烦了。,"In other words, the spatial shifting won't trouble us for a while.","Другими словами, мы можем временно не обращать внимания на неприятности, вызванные изменениями зон."
 line-687,,既然如此，事不宜迟。,There's no time to waste then.,"Раз так, не будем терять времени."
 line-689,,我们继续深入，尝试进入Abyss。,We'll attempt to penetrate the Abyss.,Идём дальше и попытаемся проникнуть в Abyss.
-line-691,,在那之前，我们得先集结支援凯尔希。,"Before that, we must assemble and provide support to Kal'tsit.",А перед этим нужно собрать силы для поддержки Кел'си.
+line-691,,在那之前，我们得先集结支援凯尔希。,"Before that, we must assemble and provide support to Kal'tsit.",А перед этим нужно собрать силы для поддержки Кальцит.
 line-693,,我知道她在哪。,I know where she is.,"Я знаю, где она."
 line-706,Misery,该死，这些鬼东西怎么源源不断——,These damn things just won't stop coming—,"Черт возьми, почему эти твари не заканчиваются? —"
-line-720,Misery,——？！,——?!,—？！
+line-720,Misery,——？！,——?!,—?!
 line-726,阿斯卡纶,你出刀慢了。,You're too slow.,Ты ударил слишком медленно.
 line-727,阿斯卡纶,现在你有机会撤退。,Now's the time for you to get out.,У тебя ещё есть шанс отступить.
 line-729,,Misery摇了摇头。,Misery shakes his head.,Misery покачал головой.
@@ -274,9 +274,9 @@ line-731,Misery,目前这里已经是最接近Abyss的地方，我们是唯二�
 line-733,阿斯卡纶,你真正在意的不是这个。,That's not what you're really thinking about.,Тебя на самом деле заботит не это.
 line-735,Misery,......这次我不想再慢一步。,I don't want to be too slow again.,...На этот раз я не хочу снова опоздать.
 line-736,Misery,你不也一样吗，阿斯卡纶？,"Isn't that the same for you, Ascalon?","А разве ты нет, Ascalon?"
-line-741,Mantra的声音,两位，迷迭香和煌的支援小队已经靠近你们，但她们遇到了点小麻烦。,"Rosmontis and Blaze's squad is approaching your location, but they've run into a small problem.","Двое, отряд поддержки Розмари и Блейз приближается к вам, но они столкнулись с небольшой проблемой."
+line-741,Mantra的声音,两位，迷迭香和煌的支援小队已经靠近你们，但她们遇到了点小麻烦。,"Rosmontis and Blaze's squad is approaching your location, but they've run into a small problem.","Двое, отряд поддержки Росмонтис и Блейз приближается к вам, но они столкнулись с небольшой проблемой."
 line-742,Mantra的声音,恐怕得再花上点时间了。,They've been delayed.,"Боюсь, это займет ещё немного времени."
-line-752,,煌挠了挠头，有些无助地看着迷迭香。,Blaze scratches her head and looks at Rosmontis helplessly.,"Блейз почесала затылок, беспомощно глядя на Розмари."
+line-752,,煌挠了挠头，有些无助地看着迷迭香。,Blaze scratches her head and looks at Rosmontis helplessly.,"Блейз почесала затылок, беспомощно глядя на Росмонтис."
 line-754,煌,呃，小猫，这应该怎么处理？,"How do we handle this, kitten?","Э-э, котенок, как с этим быть?"
 line-756,迷迭香,我......也并不清楚。,I... I'm not sure.,Я... тоже не знаю.
 line-765,异常的“正义骑士号”,......,......,...

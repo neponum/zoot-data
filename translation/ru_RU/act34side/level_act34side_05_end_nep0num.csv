@@ -59,7 +59,7 @@ line-82,西昆妲,现在，说。,Now speak.,А теперь — говори.
 line-96,斯卡蒂,二队长。,Captain.,Второй капитан.
 line-98,歌蕾蒂娅,斯卡蒂，离我们出发的时间很近了。,"It's almost time for us to leave, Skadi.","Скади, времени до нашего выхода осталось мало."
 line-100,斯卡蒂,我知道情况很紧急。,I know it's urgent.,"Я знаю, что ситуация критическая."
-line-102,歌蕾蒂娅,前线的军力只能勉强与海嗣维持均势，整整两支舰队完全覆灭的恶果到现在完全显现了出来。,The frontline is barely holding ground against the Seaborn. The loss of two entire fleets is really hitting us hard now.,Военные силы на передовой с трудом удерживают равновесие против морских ужасов; последствия гибели двух целых флотов проявляются в полной мере только сейчас.
+line-102,歌蕾蒂娅,前线的军力只能勉强与海嗣维持均势，整整两支舰队完全覆灭的恶果到现在完全显现了出来。,The frontline is barely holding ground against the Seaborn. The loss of two entire fleets is really hitting us hard now.,Военные силы на передовой с трудом удерживают равновесие против рыбоедов; последствия гибели двух целых флотов проявляются в полной мере только сейчас.
 line-103,歌蕾蒂娅,按照他们刚刚传回的消息，第八、第十军团几次尝试变阵都以失败告终，他们陷入了苦战。,"According to their most recent missive, Legions VIII and X failed to regroup into formation, and they are now mired in a bitter struggle.","Согласно последним донесениям, 8-й и 10-й легионы потерпели неудачу в нескольких попытках перестроения, они погрязли в тяжелых боях."
 line-105,歌蕾蒂娅,如果无法将信标投放到巢穴内的指定位置，继续僵持......意味着航道计划的失败。,"If the beacon cannot be deployed at the designated position within the nest, and the deadlock continues... it will mean the failure of the Waterway Program.","Если не удастся разместить маяки в указанных точках внутри гнезда, продолжающийся тупик... будет означать провал «Плана фарватера»."
 line-107,斯卡蒂,我明白。,Understood.,Я понимаю.
@@ -112,7 +112,7 @@ line-212,乌尔比安,博士。,Doctor.,Доктор.
 line-215,,看来你已经得到了你想要的证据。,Seems you got the evidence you wanted.,"Похоже, ты получил необходимые доказательства."
 line-218,乌尔比安,嗯，你的帮助很大。,Yes. You've been of great assistance.,"Да, твоя помощь оказалась очень кстати."
 line-221,,那么，结果是？;不打算将发现同步给我吗？,"So, what's the verdict?;Not going to fill me in?","Итак, каков результат? Не планируешь поделиться со мной открытиями?"
-line-224,乌尔比安,我先前提到，尚在城内的信标与已经投放进海嗣巢穴的信标之间，存在异常的信息交互。,"As previously mentioned, there are unusual data interactions between the beacon within the city and the ones deployed in the nests.","Как я и упоминал, между маяками, всё ещё находящимися в городе, и теми, что уже сброшены в гнездо морских ужасов, существовал аномальный обмен данными."
+line-224,乌尔比安,我先前提到，尚在城内的信标与已经投放进海嗣巢穴的信标之间，存在异常的信息交互。,"As previously mentioned, there are unusual data interactions between the beacon within the city and the ones deployed in the nests.","Как я и упоминал, между маяками, всё ещё находящимися в городе, и теми, что уже сброшены в гнездо рыбоедов, существовал аномальный обмен данными."
 line-225,乌尔比安,现在来看，大部分操作都是在C-22研究所，也就是我们刚刚潜入的地方完成的。,"It seems the bulk of the work was handled by Lab C-22. Namely, the facility we just infiltrated.","Теперь ясно, что большая часть операций проводилась в институте C-22, месте, куда мы только что проникли."
 line-226,乌尔比安,我并不完全了解信标系统与第Ⅳ级武器的原理，但从这些信息交互的内容依然能模糊地推断出——,"While I do not fully understand the principles behind the beacon system or the Class IV weapons, the contents of these interactions can still be inferred.","Я не до конца разбираюсь в принципах работы системы маяков и оружия IV уровня, но содержание этих информационных обменов позволяет сделать вывод —"
 line-227,乌尔比安,信标与武器的联动关系被改变了。,The coordination between the beacons and the weapons has been altered.,Связь между маяками и оружием была изменена.
@@ -136,7 +136,7 @@ line-263,乌尔比安,......来自阿戈尔。几百年前的款式，现在只�
 line-266,,几百年前？,Hundreds of years old?,Многовековой?
 line-269,乌尔比安,根据那个水脉仪的异化情况判断，它至少已经在伊莎玛拉体内留存了两百年。,"Based on the degradation, it had sat within Ishar'mla's body for two centuries.","Судя по степени разрушения от воздействия среды, он находился внутри Ишамары по меньшей мере двести лет."
 line-270,乌尔比安,但当初我得到的说法是，在我们之前，阿戈尔从未有人接触过“初生”的本体。,But I had been told that no other Ægir had ever managed to reach the Firstborn before us.,"Но мне говорили, что до нас никто из Агир никогда не контактировал с телом «Перворожденного»."
-line-271,乌尔比安,即是说，早在海嗣这种生物进入阿戈尔的视野之前，就已经有阿戈尔人与“初生”有过接触，而阿戈尔对此一无所知。,"That is to say, before Ægir was even aware of it, its people had secretly come into contact with the Firstborn.","То есть, задолго до того, как морские ужасы попали в поле зрения Агир, кто-то из наших жителей уже контактировал с «Перворожденным», а в Агир об этом не знали ровным счётом ничего."
+line-271,乌尔比安,即是说，早在海嗣这种生物进入阿戈尔的视野之前，就已经有阿戈尔人与“初生”有过接触，而阿戈尔对此一无所知。,"That is to say, before Ægir was even aware of it, its people had secretly come into contact with the Firstborn.","То есть, задолго до того, как рыбоеды попали в поле зрения Агир, кто-то из наших жителей уже контактировал с «Перворожденным», а в Агир об этом не знали ровным счётом ничего."
 line-272,乌尔比安,阿戈尔平静水面下的暗流，比所有人想象的都更加汹涌。,The undercurrents beneath tranquil Ægir are more turbulent than anyone could imagine.,"Подводные течения под спокойной гладью Агир оказались гораздо бурнее, чем кто-либо мог представить."
 line-275,,你拿到证据的同时，我也发现了异样。,I also found something odd while you were out.,"Пока ты собирал доказательства, я тоже обнаружил странности."
 line-277,,猎人们苏醒之后立刻离开了，很急。,"As soon as the Hunters awoke, they left.",Охотники ушли сразу после пробуждения. В спешке.

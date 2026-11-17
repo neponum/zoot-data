@@ -14,8 +14,8 @@ char-7,修道院居民,修道院居民,Monastery Inhabitant,Житель мон�
 char-8,受惊吓的居民,受惊吓的居民,Startled Inhabitant,Испуганный житель
 char-9,谨慎的萨卡兹居民,谨慎的萨卡兹居民,Cautious Sarkaz Inhabitant,Осторожный житель Сарказ
 char-10,杰拉尔德,杰拉尔德,Gerald,Джеральд
-char-11,斯普莉雅,斯普莉雅,Serpilia,Серпилия
-char-12,里凯莱,里凯莱,Richele,Ришель
+char-11,斯普莉雅,斯普莉雅,Serpilia,Спририя
+char-12,里凯莱,里凯莱,Richele,Рикеле
 ,,,,
 line-13,蕾缪安,我们一般不会用铳招待客人，特殊情况除外。,"We don't usually greet our visitors at gunpoint, save for special occasions.","Мы обычно не встречаем гостей выстрелами, если только не происходит ничего особенного."
 line-15,蕾缪安,如果有哪里招待不周，还请谅解一下。,Pardon me if you're dissatisfied with your treatment in any way.,"Если я оказала вам не самый радушный приём, прошу меня извинить."
@@ -131,7 +131,7 @@ line-301,杰拉尔德,知道了，这边交给我。,Got it. Leave this to me.,"
 line-303,谨慎的萨卡兹居民,行。,Okay.,Ладно.
 line-305,谨慎的萨卡兹居民,可要是赫曼一直不出现，咱们……还等吗？,"But if Hyman never shows up, should we... wait?","Но если Хайман так и не появится, нам... ждать её дальше?"
 line-307,杰拉尔德,……,...,...
-line-309,杰拉尔德,最多等到明天早上，参加完晨会，如果到时候人还没回来，你和莱蒙德就按计划带上其他人出发。,"Tomorrow morning at the latest. If anyone's still not back after Matins, you and Raimund will set off with rest as planned.","Максимум до завтрашнего утра. Если после утреннего собрания люди не вернутся, ты и Раймунд отправляйтесь с остальными, как договаривались."
+line-309,杰拉尔德,最多等到明天早上，参加完晨会，如果到时候人还没回来，你和莱蒙德就按计划带上其他人出发。,"Tomorrow morning at the latest. If anyone's still not back after Matins, you and Raimund will set off with rest as planned.","Максимум до завтрашнего утра. Если после утреннего собрания люди не вернутся, ты и Раймонд отправляйтесь с остальными, как договаривались."
 line-311,谨慎的萨卡兹居民,可是，头儿……,But...,Но...
 line-313,杰拉尔德,我会留下。活要见人死要见尸，我会找到赫曼。,"I'll stay behind. Dead or alive, I'll find Hyman.","Я останусь. Живой или мёртвой, я найду Хайман."
 line-315,杰拉尔德,放心，我不会丢下你们中的任何一个人。,"I swear, I'd never abandon a single one of you.","Не волнуйтесь, я не брошу ни одного из вас."
@@ -144,7 +144,7 @@ line-327,杰拉尔德,哈哈哈，我有分寸。,Hahaha. I know what I'm doing.
 line-329,杰拉尔德,行了，别做这副表情。去吧，都准备起来。,"Forget all that, no need to look so sad. Go on, get everything good and ready.","Хватит, не делай такое лицо. Иди, готовьтесь."
 line-337,斯普莉雅,交班。,Shift change.,Смена.
 line-340,里凯莱,哇……！,Wargh...!,Ой...!
-line-342,里凯莱,吓了我一跳……是你啊，斯普莉雅。,"There's a fright... hi there, Serpilia.","Напугала... Это ты, Серпилия."
+line-342,里凯莱,吓了我一跳……是你啊，斯普莉雅。,"There's a fright... hi there, Serpilia.","Напугала... Это ты, Спририя."
 line-344,斯普莉雅,不是我还能是谁？费德里科耐烦干这活吗？,Who else would you expect? Does Federico ever bother with this sort of work?,А кто ещё? Разве Федерико станет заниматься такой работой?
 line-346,斯普莉雅,房间里的那姑娘怎么样了……状态很差？,How's the girl in there...? Doing bad?,Как там девушка...? Ужасно?
 line-348,里凯莱,不算好。一直没说过话，看起来受的打击不小。,Bad in a way. She hasn't said a word. Seems she's in shock.,"Она не сказала ни слова. Похоже, она в шоке."
@@ -158,7 +158,7 @@ line-362,里凯莱,什么？哦，你说受伤的人可能已经死亡这事？�
 line-364,里凯莱,对方的情绪不稳定，告诉她实情反而会有点麻烦……,She's unsettled right now. Telling her the truth could just as well cause more problems.,"Она и так эмоционально нестабильна, если я скажу ей правду, будет только сложнее..."
 line-366,斯普莉雅,所以你是怎么说的？骗她说应该没出事，总之先糊弄过去，是不是？,"So what <i>is</i> your plan? Lie to her and say nothing's wrong, muddle through, figure out the rest later, I bet?","И <i>что</i> же ты ей сказал? Наврал, что все в порядке, просто пудрил мозги, так что ли?"
 line-368,里凯莱,你说得真不好听……不过，我没什么要反驳的。,"You make it sound so bad... but still, that's basically it.",Звучит довольно ужасно... Но я не стану отрицать.
-line-370,里凯莱,斯普莉雅，你的情绪好像有点不对劲。发生了什么？,"Serpilia, something seems a little fishy with your emotions. What happened?","Серпилия, у тебя какой-то странный настрой. Что-то случилось?"
+line-370,里凯莱,斯普莉雅，你的情绪好像有点不对劲。发生了什么？,"Serpilia, something seems a little fishy with your emotions. What happened?","Спририя, у тебя какой-то странный настрой. Что-то случилось?"
 line-372,斯普莉雅,……和你没关系。我好得很。,None of your business. I'm doing great.,...Тебя это не касается. Со мной все отлично.
 line-374,里凯莱,你这么说，那我就当你没问题了。,"If you say so, then. No problems in Serpilia-land.","Раз так, значит, у тебя проблем нет."
 line-376,里凯莱,那斯普莉雅，这里就交给你了。,Okay. I'll leave her to you.,"Тогда, оставляю все на тебя."
@@ -201,7 +201,7 @@ line-516,费德里科,别动。,Stay still.,Не двигайся.
 line-519,克莱芒,？！,?!,?!
 line-525,费德里科,有人过来了。,Someone is here.,Кто-то идёт.
 line-527,？？？,……我听到这里有铳声，所以过来碰碰运气。,"I heard gunfire this way, so I came to test my luck.","...Я услышала здесь выстрелы, решила попытать удачу."
-line-533,费德里科,枢机辅佐官蕾缪安，斯普莉雅的汇报中提及你不会外出行动。,"Cardinal Aide Lemuen, Serpilia's report stated that you would not be operating in the field.","Лемуэн, помощница кардинала, в отчете Серпилии говорилось, что ты не покидаешь свое место."
+line-533,费德里科,枢机辅佐官蕾缪安，斯普莉雅的汇报中提及你不会外出行动。,"Cardinal Aide Lemuen, Serpilia's report stated that you would not be operating in the field.","Лемуэн, помощница кардинала, в отчете Спририи говорилось, что ты не покидаешь свое место."
 line-535,蕾缪安,别怪斯普莉雅，我原本确实是那么打算的。,"Don't blame her. If I'm honest, I didn't think I would be either.","Не вини её, я действительно так и собиралась сделать."
 line-537,蕾缪安,只是遇到了一点意外……,But then came a slight twist...,Просто вышла небольшая неожиданность...
 line-539,蕾缪安,叙旧先放一边，只有你一个人吗，费德里科？其他人没有和你一起行动？,"We'll catch up later. Are you on your own, Federico? Is nobody else operating with you?","Давай опустим лишнее, ты один, Федерико? Остальные не с тобой?"

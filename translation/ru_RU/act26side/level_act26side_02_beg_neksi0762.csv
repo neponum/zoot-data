@@ -12,13 +12,13 @@ char-5,温和的教士,温和的教士,Gentle Priest,Мягкий священн
 char-6,奥卢斯,奥卢斯,Aulus,Авл
 char-7,杰拉尔德,杰拉尔德,Gerald,Джеральд
 char-8,费德里科,费德里科,Federico,Федерико
-char-9,里凯莱,里凯莱,Richele,Ришель
+char-9,里凯莱,里凯莱,Richele,Рикеле
 char-10,修道院主教,修道院主教,Abbot,Аббат
 char-11,德尔菲娜,德尔菲娜,Delfina,Дельфина
 char-12,萨卡兹居民,萨卡兹居民,Sarkaz Resident,"Житель-Сарказ "
 char-13,卡洛琳,卡洛琳,Caroline,Кэролайн
 char-14,蕾缪安,蕾缪安,Lemuen,Лемуэн
-char-15,斯普莉雅,斯普莉雅,Serpilia,Серпилия
+char-15,斯普莉雅,斯普莉雅,Serpilia,Спририя
 char-16,熟悉的男声,熟悉的男声,Familiar Male Voice,Знакомый мужской голос
 char-17,福尔图娜,福尔图娜,Fortuna,Фортуна
 char-18,克莱芒,克莱芒,Clément,Клемент
@@ -110,7 +110,7 @@ line-224,费德里科,但你们还是选择派出信使联系拉特兰。,But yo
 line-226,修道院主教,这是别无选择的选择……,A choice made in the absence of choice...,"Это выбор, сделанный в отсуствие самого выбора..."
 line-228,修道院主教,拉特兰愿意为我们提供援助，也愿意接纳我们回归拉特兰本土。,"Laterano is willing to provide us with assistance, and is also willing to welcome us back in.",Латерано готов предоставить нам помощь и принять нас обратно.
 line-229,修道院主教,只是，就算是愿意给出最大程度让步的蕾缪安特使，也提出了一个绝不容动摇的条件——,"However, even Lemuen, the nuncio willing to grant us the most concessions, still held one non-negotiable condition–","Однако даже Лемуэн, нунций, готовая пойти нам на самые большие уступки, всё же выдвинул одно не подлежащее обсуждению условие:"
-line-231,修道院主教,“乐园不容萨卡兹。”,'Sarkaz have no place in Paradise.',"""Сарказам нет места в Раю""."
+line-231,修道院主教,“乐园不容萨卡兹。”,'Sarkaz have no place in Paradise.',«Сарказам нет места в Раю».
 line-234,修道院主教,为何不容？！,No place? Why?!,Нет места? Почему?!
 line-236,修道院主教,只因种族？只因他们是萨卡兹？！,On the basis of race alone? Just because they are Sarkaz?!,"Только из-за расы? Только потому, что они Сарказы?!"
 line-237,修道院主教,他们与我们有什么不同？如果没有这些善战的兄弟姐妹，我们早就难以为继！,"How are they any different from us? Without these stalwart brothers and sisters, we would've lost our fight for survival long ago!","Чем они отличаются от нас? Если бы не эти братья и сёстры, умелые в бою, мы бы давно перестали существовать!"
@@ -226,9 +226,9 @@ line-471,斯普莉雅,没意思——,Booooo...,Неинтересно —
 line-473,蕾缪安,好了，言归正传。教宗阁下不会安排你一个人来这里，这点我还是可以确定的。那么……,"Alright then, back to business. I know His Holiness wouldn't send you here alone, which means...","Ладно, к делу. Папа не послал бы тебя сюда одну, в этом я уверена. Так что..."
 line-474,蕾缪安,我需要你汇报你的任务，以及队伍构成。,"I need you to report your mission, as well as who's with you.","Мне нужно, чтобы ты отчиталась о своем задании и составе команды."
 line-476,斯普莉雅,变成公事公办的口吻了，好吧，蕾缪安枢机辅佐官阁下。,"Switched to your business voice, huh? Alright then, Cardinal Aide Lemuen.","Заговорила в официальном тоне? Хорошо, госпожа помощница Кардинала Лемуэн."
-line-478,斯普莉雅,本次任务由教宗阁下直接派遣，由公证所执行者费德里科带队，成员有同是执行者的里凯莱·科伦波，以及主动申请加入的本人。,"This mission was commissioned directly by His Holiness and is led by Federico, executor of the Notarial Hall. The other functionary is Richele Colombo, another executor who volunteered to come.","Задание поручено непосредственно Папой, группу возглавил Федерико из Нотариального зала, участники — Ришель Коломбо, тоже экзекутор, и я сама, добровольно подавшая заявку."
+line-478,斯普莉雅,本次任务由教宗阁下直接派遣，由公证所执行者费德里科带队，成员有同是执行者的里凯莱·科伦波，以及主动申请加入的本人。,"This mission was commissioned directly by His Holiness and is led by Federico, executor of the Notarial Hall. The other functionary is Richele Colombo, another executor who volunteered to come.","Задание поручено непосредственно Папой, группу возглавил Федерико из Нотариального зала, участники — Рикеле Коломбо, тоже экзекутор, и я сама, добровольно подавшая заявку."
 line-479,斯普莉雅,我们接到的首要任务是找到你和奥伦，次要任务是调查这座修道院。,"Our first objective is to locate you and Oren, and the second is to investigate this monastery.","Наша главная задача — найти тебя и Орена, второстепенная — расследование дел в монастыре."
-line-480,斯普莉雅,哦对了，费德里科还有个维稳的任务，我觉得教宗阁下这次真是找错人了。,"Oh right, Federico also has another mission to maintain order. Unfortunately, I think His Holiness picked the wrong guy for the job this time.","Ах да, у Федерико есть еще одна задача — поддерживать порядок. К сожалению, я думаю, что на этот раз Его Святейшество выбрал для этой работы не того человека."
+line-480,斯普莉雅,哦对了，费德里科还有个维稳的任务，我觉得教宗阁下这次真是找错人了。,"Oh right, Federico also has another mission to maintain order. Unfortunately, I think His Holiness picked the wrong guy for the job this time.","Ах да, у Федерико есть ещё одна задача — поддерживать порядок. К сожалению, я думаю, что на этот раз Его Святейшество выбрал для этой работы не того человека."
 line-482,斯普莉雅,汇报完毕。,And that concludes my report.,Отчет окончен.
 line-484,蕾缪安,嗯……原来如此，教宗阁下竟然派了那个费德里科来吗……,"Mmhmm... I see. So, His Holiness actually sent that Federico, huh...","М-м... вот оно что, Папа действительно послал этого Федерико..."
 line-486,蕾缪安,情况我大致了解了。辛苦了，莉雅。,"Okay. I get the gist of things. Gratias, Ria.","Ситуация мне ясна. Потрудилась на славу, Рия."
@@ -289,7 +289,7 @@ line-619,福尔图娜,唔，让我看看……,"Um, let's see...","Так, по�
 line-620,福尔图娜,面粉，蛋……,"Flour, eggs...","Мука, яйца..."
 line-621,福尔图娜,还有，还有……上次剩下来的那点糖被我放哪了……,"And, uh... Where's the leftover sugar from last time...?","И ещё, ещё... где я положила тот сахар, что остался в прошлый раз..."
 line-630,福尔图娜,……唉，明明每天都有努力节省晚饭的食材了，怎么还是只有这么一点啊……,"Ugh, I've been trying so hard to scrounge up leftover ingredients from dinner ever day, so why is there still so little?","...Эх, даже несмотря на то, что каждый день старалась экономить на ингредиентах для ужина, как же всё-таки мало осталось..."
-line-631,福尔图娜,要给斯普莉雅的，给斯特凡诺爷爷的，给菲娜和莱蒙德……还有杰拉尔德叔叔，克莱芒叔叔，卡洛琳姐，还有……,"I need enough for Serpilia, Avus Stefano, Fina, and Raimund... And also, Patruus Gerald, Patruus Clément, Seniora Caroline, and...","Надо отдать Серпилии, дедушке Стефано, Фине и Раймунду... ещё дяде Джеральду, дяде Клементу, сестре Кэролайн, и ещё..."
+line-631,福尔图娜,要给斯普莉雅的，给斯特凡诺爷爷的，给菲娜和莱蒙德……还有杰拉尔德叔叔，克莱芒叔叔，卡洛琳姐，还有……,"I need enough for Serpilia, Avus Stefano, Fina, and Raimund... And also, Patruus Gerald, Patruus Clément, Seniora Caroline, and...","Надо отдать Спририи, дедушке Стефано, Фине и Раймонду... ещё дяде Джеральду, дяде Клементу, сестре Кэролайн, и ещё..."
 line-632,福尔图娜,……,...,...
 line-634,福尔图娜,不管怎么分都不够嘛……,There's not going to be enough though.,"Как ни дели, на всех не хватит..."
 line-639,德尔菲娜,小福？,Tuna?,Туна?
@@ -317,15 +317,15 @@ line-682,福尔图娜,欸？,Huh?,А?
 line-683,福尔图娜,菲娜，你在说什么……？,"Fina, what are you talking about?","Фина, ты о чем...?"
 line-685,德尔菲娜,我是个不合格的萨科塔吗？,Can I even really be called a Sankta?,Я недостойная Санкта?
 line-686,德尔菲娜,或许我确实是。,Maybe I can.,"Может, и так."
-line-687,德尔菲娜,但我在乎你，我在乎莱蒙德，我在乎斯特凡诺爷爷和杰拉尔德叔叔，还有克莱芒叔叔，妮娜婶婶，卡洛琳……,"But, I care about you, and Raimund, and Avus Stefano and Patruus Gerald. And Patruus Clément, Amita Nina, Caroline...","Но я забочусь о тебе, о Раймунде, о дедушке Стефано, дяде Джеральде, дяде Клементе, тете Нине, Кэролайн..."
+line-687,德尔菲娜,但我在乎你，我在乎莱蒙德，我在乎斯特凡诺爷爷和杰拉尔德叔叔，还有克莱芒叔叔，妮娜婶婶，卡洛琳……,"But, I care about you, and Raimund, and Avus Stefano and Patruus Gerald. And Patruus Clément, Amita Nina, Caroline...","Но я забочусь о тебе, о Раймонде, о дедушке Стефано, дяде Джеральде, дяде Клементе, тете Нине, Кэролайн..."
 line-688,德尔菲娜,我在乎这里的所有人。我只有这一个家，只有这么点家人。,"I care about everyone here. This is my only home, and they are my only family.",Я забочусь о всех здесь. У меня только этот дом и только такая семья.
 line-690,福尔图娜,你到底在说什么啊，菲娜！我当然也在乎大家，我和你一样——,"What are you talking about, Fina? Of course I care about everyone else, just like you–","Что ты несешь, Фина! Я тоже забочусь обо всех, также, как ты —"
 line-693,德尔菲娜,不！不一样！,"No, it's not the same!","Нет, это совсем не так!"
 line-695,德尔菲娜,如果你和我一样……,If you were just like me...,"Если ты так же, как я..."
-line-696,德尔菲娜,如果你知道莱蒙德他们过的是怎样的日子，你怎么还能在这样的时候有心情做这种玩笑一样的甜点，说那样天真的话？！,"If you knew how hard Raimund and the others have it, then you wouldn't be in the mood to make your joke of a pizzella at a time like this! You wouldn't be so naïve!","Если ты знаешь, в каких условиях живут Раймунд и остальные, как у тебя может быть настроение печь эти дурацкие сладости и говорить такие наивные вещи?!"
+line-696,德尔菲娜,如果你知道莱蒙德他们过的是怎样的日子，你怎么还能在这样的时候有心情做这种玩笑一样的甜点，说那样天真的话？！,"If you knew how hard Raimund and the others have it, then you wouldn't be in the mood to make your joke of a pizzella at a time like this! You wouldn't be so naïve!","Если ты знаешь, в каких условиях живут Раймонд и остальные, как у тебя может быть настроение печь эти дурацкие сладости и говорить такие наивные вещи?!"
 line-698,德尔菲娜,有时候我会觉得，自从拉特兰的人来了之后，你就有点变了。,I kinda feel like you changed after those people from Laterano showed up.,"Иногда мне кажется, что с приходом этих людей из Латерано ты изменилась."
 line-700,福尔图娜,……什么？我没有……,Huh? Of course I haven't...,...Что? Я нет...
-line-702,德尔菲娜,小福，你的那把铳，是那个叫蕾缪安的拉特兰人帮你修好的吗？,"Tuna, that gun of yours... Was Lemuen the Lateran who fixed it up for you?","Туна, это оружиие починила та латеранка по имени Лемуэн?"
+line-702,德尔菲娜,小福，你的那把铳，是那个叫蕾缪安的拉特兰人帮你修好的吗？,"Tuna, that gun of yours... Was Lemuen the Lateran who fixed it up for you?","Туна, это оружие починила та латеранка по имени Лемуэн?"
 line-714,克莱芒,主教阁下，我按您的吩咐，让两位客人在修道院内自由行动了。,"Your Excellency, I've allowed the two visitors freedom of movement around the monastery, as you ordered.","Ваше Преосвященство, я всё выполнил, позволил гостям свободно перемещаться по монастырю."
 line-715,克莱芒,这样真的好吗？您……您看起来好像不太舒服，还是先休息一下吧？,"But, are you sure it's alright? You... You don't look too good. Do you want to get some rest first?","Но вы уверены что все будет хорошо? Вы... вы выглядите неважно, может, стоит отдохнуть?"
 line-717,修道院主教,克莱芒啊，我没事，不要担忧。,"Oh, Clément, it's nothing you need to worry about.","Клемент, я в порядке, не тревожься."

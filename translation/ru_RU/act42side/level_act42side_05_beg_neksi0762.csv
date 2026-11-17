@@ -20,10 +20,10 @@ char-16,蒙恩的生物A,蒙恩的生物A,Enlightened Creature A,Благосл�
 char-17,蒙恩的生物B,蒙恩的生物B,Enlightened Creature B,Благословенное существо Б
 ,,,,
 line-16,萨卡兹工人A,喂，你赶着投胎啊，走这么快！我们抬的是一块源石结晶板欸，待会儿摔了就都死翘翘了。,Slow down! You got a death wish or something? We're carrying a damned Originium plate! We're all dead if you drop it!,"Притормози! Ты что, хочешь сдохнуть? Мы несём проклятую пластину из ориджиниума! Мы все умрём, если ты её уронишь."
-line-17,萨卡兹工人A,这家人也真是的，用这玩意儿压菜缸，也不怕吃进嘴里的都是源石颗粒！,"Seriously, what the hell is wrong with this family, using this as a pickling stone? Do they like their pickles with a touch of Originium?","Серьезно, что, черт возьми, не так с этой семьей, что они используют это как камень для засолки? Они что, любят свои соленья с добавлением Ориджиниума?"
-line-19,萨卡兹工人B,别*萨卡兹粗口*啰啰嗦嗦了，赶紧的。,Shut your *Sarkaz expletive* mouth and keep moving.,Заткни свой *Ругательство Сарказов* рот  и шевелись давай.
+line-17,萨卡兹工人A,这家人也真是的，用这玩意儿压菜缸，也不怕吃进嘴里的都是源石颗粒！,"Seriously, what the hell is wrong with this family, using this as a pickling stone? Do they like their pickles with a touch of Originium?","Серьёзно, что, черт возьми, не так с этой семьей, что они используют это как камень для засолки? Они что, любят свои соленья с добавлением Ориджиниума?"
+line-19,萨卡兹工人B,别*萨卡兹粗口*啰啰嗦嗦了，赶紧的。,Shut your *Sarkaz expletive* mouth and keep moving.,Заткни свой *Ругательство Сарказов* рот и шевелись давай.
 line-20,萨卡兹工人B,今天之内清理完这个城区，这任务可不轻，你也不想头儿被那个老巫妖骂得臭血淋头后再把我们骂得臭血淋头吧。,"We gotta clear this whole district before the end of the day, unless you want the overseer to chew our heads off after the Lich chews his.","Нам нужно зачистить этот район до конца дня. Ты же не хочешь, чтобы надзиратель отгрыз нам головы после того, как сам её лишится от Лича."
-line-22,萨卡兹工人A,这么多间屋子，要把沾着源石的地方都清理干净……巴别塔都组建了专门的城建队，为啥不干脆把它们推倒了重盖？,"So many houses, and we got to clean every single speck of Originium off 'em... doesn't Babel have a dedicated construction team? Why don't we just tear it all down and rebuild from scratch?","Столько домов, и в каждом нужно зачистить все места, затронутые ориджиниумом...  разве у Вавилона нет специальной строительной бригады? Почему бы нам просто не снести всё и не построить заново?"
+line-22,萨卡兹工人A,这么多间屋子，要把沾着源石的地方都清理干净……巴别塔都组建了专门的城建队，为啥不干脆把它们推倒了重盖？,"So many houses, and we got to clean every single speck of Originium off 'em... doesn't Babel have a dedicated construction team? Why don't we just tear it all down and rebuild from scratch?","Столько домов, и в каждом нужно зачистить все места, затронутые ориджиниумом... разве у Вавилона нет специальной строительной бригады? Почему бы нам просто не снести всё и не построить заново?"
 line-23,萨卡兹工人A,说起来，想到接下来哪哪儿都看不见源石，还真有点不适应。,"Say, it's gonna take some getting used to, not having any Originium around.","Кстати, если подумать, мне даже как-то непривычно, что теперь нигде не видно ориниума."
 line-25,萨卡兹工人B,闭上你那张臭嘴。,"I said, shut your *Sarkaz expletive* mouth.","Я сказал, заткни свой *Ругательство Сарказов* рот"
 line-26,萨卡兹工人B,以前是没办法，只有靠着矿脉的产出才能活，现在卡兹戴尔已经不用再为能源发愁了，当然要把屋子打扫干净……,"We didn't have a choice but to rely on the mines. Now that Kazdel doesn't need to worry about energy anymore, of course we gotta clean house...","У нас не было другого выбора, кроме как полагаться на шахты. Теперь, когда Казделю больше не нужно беспокоиться об энергии, конечно же, нам нужно навести порядок"
@@ -38,7 +38,7 @@ line-60,萨卡兹工人B,前面的房子？过去看看。,"It came from the hou
 line-64,埃芒加德,……让我去吧。,...I'll go.,...Позвольте мне.
 line-69,萨卡兹工人A,嗯？,Wha?,А?
 line-73,埃芒加德,那排房子紧挨着刚整合完毕的农田地块，刚刚的光，应该是监测土壤的信标感应到了你俩搬的源石结晶板。,"Those houses are right by the agricultural plate that has just been integrated. The light must be from one of the soil beacons, in reaction to the Originium plate that you're carrying.","Эти дома находятся прямо рядом с сельскохозяйственной плитой, которая только что была интегрирована. Свет — скорее всего, маячки мониторинга почвы которые отреагировали на ориджиниевою плиту, которую вы несли."
-line-75,埃芒加德,要是维什戴尔知道这两年好不容易开垦的农田被污染……,If Wiš'adel finds out the farmland that she's spent two years cultivating got polluted...,"Если Виш'адель узнает, что с таким трудом распаханные поля подверглись загрязнению..."
+line-75,埃芒加德,要是维什戴尔知道这两年好不容易开垦的农田被污染……,If Wiš'adel finds out the farmland that she's spent two years cultivating got polluted...,"Если Вишадель узнает, что с таким трудом распаханные поля подверглись загрязнению..."
 line-80,萨卡兹工人B,走吧走吧。,Alright. Let's get outta here.,Ладно. Давай убираться отсюда.
 line-100,塞茜莉亚,不、不要再往前了！,D-Don't come any closer!,Н-не подходите ближе!
 line-102,艾泽尔,唔……,Ugh...,Угх...
@@ -60,7 +60,7 @@ line-141,弗莱蒙特,……说。,...Go ahead.,...Говори.
 line-143,埃芒加德,我在节点炉这边发现了两个光环破碎的萨科塔……其中一个状态非常非常，不对劲。,I'm at the furnace node. I found two Sanktas with broken halos... one of them doesn't look right at all.,"Я нахожусь у узла печи, обнаружила двух Санкт с разбитыми нимбами... Состояние одного из них очень, очень скверное."
 line-145,弗莱蒙特,……,...,...
 line-146,弗莱蒙特,带他们回来，尽量别让其他人注意到，免得引起骚乱。,Bring them here. Try not to let anyone see you. We don't need a scene in the streets.,"Приведи их. Постарайся, чтобы никто не заметил, не нужно сеять панику."
-line-147,弗莱蒙特,我去把维什戴尔踹醒。到了需要这个议长主持紧急会议的时候了。,I'll go wake Wiš'adel. Looks like it's time for our Speaker to speak at an emergency meeting.,Я пойду пинками разбужу Виш'адель. Пришло время для нашего председателя председательствовать на экстренном совещании.
+line-147,弗莱蒙特,我去把维什戴尔踹醒。到了需要这个议长主持紧急会议的时候了。,I'll go wake Wiš'adel. Looks like it's time for our Speaker to speak at an emergency meeting.,Я пойду пинками разбужу Вишадель. Пришло время для нашего председателя председательствовать на экстренном совещании.
 line-161,伊维格娜德,……真是一份很长的名单啊。,...The list is a long one.,...Длинный список.
 line-163,伊维格娜德,也就是说，就职于崔林特尔梅各个高塔的四十三名萨科塔，未经任何允许，全部擅自脱离了自己的岗位。,You're saying that all forty-three Sanktas stationed at spires across Zwillingstürme have abandoned their posts without permission.,"Иными словами, все сорок три Санкты, работающих в шпилях по всему Цвиллингштюрме, самовольно покинули свои посты."
 line-165,米夏埃尔,是的，伊维格娜德。,"Yes, Ewigegnade.","Да, Эвигегнаде."
@@ -99,7 +99,7 @@ line-221,米夏埃尔,……,...,...
 line-233,奥罗拉,啧……,Tsk...,Тц...
 line-235,帐篷里的声音,……拉乌尼达东边的东边，白色的圣城，拉特兰♪,"...East of the east of La Unidad, Laterano, holy city of white♪","...К востоку от Ла-Унидада, белый священный город, Латерано♪"
 line-236,帐篷里的声音,那里的铳炮放出烟花，那里的靶子都是苹果♪,"The guns there shoot fireworks, the targets all apples♪","Там пушки стреляют фейерверками, там мишени — это яблоки♪"
-line-237,帐篷里的声音,当我们诚心祈祷，祂便给予面包♪,"When we pray sincere, He gives us bread♪","Коль от сердца мы молимся, хлеб Он нам подает,♪"
+line-237,帐篷里的声音,当我们诚心祈祷，祂便给予面包♪,"When we pray sincere, He gives us bread♪","Коль от сердца мы молимся, хлеб Он нам подаёт,♪"
 line-238,帐篷里的声音,当我们向祂奔去，祂便赐予救赎♪,"When we seek salvation, He sets us free♪","Коль спасения чаем, Он свободу дарует.♪"
 line-240,奥罗拉,唱吧，唱到睡着。,"Sing, sing until you're asleep.","Пойте, пойте, пока не уснете."
 line-242,奥罗拉,你们梦里的神可比拉特兰的主要仁慈。,The god in your dreams is kinder than Laterano's.,"Господь в ваших снах, куда милосерднее, чем в Латерано."
@@ -118,7 +118,7 @@ line-265,努艾达,我们在一起十年了，奥罗拉。对羽蛇来说，这�
 line-267,努艾达,我或许确实没有那么相信拉特兰，可我总该相信你。,Maybe I don't trust Laterano that much. But I do trust you.,"Возможно, я не достаточно доверяю Латерано. Но я доверяю тебе."
 line-269,努艾达,拉特兰剥夺了你的公民身份，你无数次在我唱诗时咒骂那座城市……,"The Lateran stripped you of citizenship, and you've cursed the city many times while I sang the hymns...","Латерано лишил тебя гражданства, ты столько раз проклинала этот город, пока я пела гимны..."
 line-270,努艾达,可看看你自己，哪怕你已经在玻利瓦尔待了那么久，却还是不肯脱下这身铳骑的甲胄……,"But look at yourself. After all these years in Bolívar, you still won't take off the gun-knight's armor...","Но посмотри на себя: даже проведя столько лет в Боливаре, ты до сих пор не сняла свои доспехи..."
-line-271,努艾达,哪怕你已经成为堕天使，无法再使用守护铳，却依然想尽办法淘来了这架黑钢的铳械，你从来都没有——,"Even though you've fallen, lost the ability to wield a patron firearm, you somehow got your hands on this Blacksteel gun, which means you never—","Даже став Падшей и не имея возможности использовать оружие-покровитель, ты все равно из кожи вон лезла, чтобы достать эту оружие из «Blacksteel», ты никогда не..."
+line-271,努艾达,哪怕你已经成为堕天使，无法再使用守护铳，却依然想尽办法淘来了这架黑钢的铳械，你从来都没有——,"Even though you've fallen, lost the ability to wield a patron firearm, you somehow got your hands on this Blacksteel gun, which means you never—","Даже став Падшей и не имея возможности использовать оружие-покровитель, ты все равно из кожи вон лезла, чтобы достать эту оружие из «Блэкстил», ты никогда не..."
 line-273,奥罗拉,闭嘴。,Shut up.,Заткнись.
 line-279,,堕天使突然将武器往前送，漆黑的铳管几乎抵在了羽蛇的唇边。,"The fallen angel suddenly raises her gun, the muzzle almost reaching the K'uk'ulkan's lips.","Падший ангел внезапно выдвинула оружие вперед, и чёрный ствол почти коснулся губ Кукулькана."
 line-281,奥罗拉,你要是相信我，就该记得我告诉过你很多次，那座圣城没那么友爱，没那么仁慈和宽容……,"If you trust me, you should remember that I've told you many times the Holy City is not so friendly, kind, or tolerant as you imagine...","Если веришь мне, то должна помнить, как я много раз говорила: этот Святой город не такой уж дружелюбный, не такой милосердный и терпимый..."
@@ -136,7 +136,7 @@ line-303,奥罗拉,你知道吗？十年前，也是在一座修道院，有个�
 line-304,奥罗拉,他渴望从我嘴里听到一些忏悔，一些祈求。他告诉我，如果能够诚心忏悔，或许还有回去的机会……,"He wanted to hear me repent, hear me pray. He said there was a chance I could go back, if I truly, sincerely repented for my sins...","Он хотел услышать от меня раскаяние, мольбы. Он говорил, что если я искренне покаюсь, возможно, будет шанс вернуться..."
 line-306,努艾达,你拒绝了？,You refused?,Ты отказалась?
 line-308,奥罗拉,我拒绝了。,I sure did.,Я отказалась.
-line-310,奥罗拉,那座城市想必出了不小的事，我回去，是要趁乱报复的。,Something seems to have gone really wrong in the Holy City. I'm going to seize this chance for revenge.,"В Святом городе наверняка стряслось что-то серьезное, и я возвращаюсь, чтобы воспользоваться этим хаосом и отомстить."
+line-310,奥罗拉,那座城市想必出了不小的事，我回去，是要趁乱报复的。,Something seems to have gone really wrong in the Holy City. I'm going to seize this chance for revenge.,"В Святом городе наверняка стряслось что-то серьёзное, и я возвращаюсь, чтобы воспользоваться этим хаосом и отомстить."
 line-319,,努艾达抬脸迎上冰冷的铳管，将它贴在脸侧。,"Nueda steps forward, and presses her face against the cold gun barrel.","Нуэда подняла лицо навстречу холодному стволу оружия, прислонив его к лицу."
 line-321,努艾达,放心，我们不会妨碍你的。,We won't stop you.,Мы тебе не помешаем.
 line-323,努艾达,我们只是需要一个领路人，一个知晓前方路途、能判明方向的人。,We just need a guide. Someone who knows the way.,"Нам просто нужен проводник, кто-то, кто знает дорогу впереди и может определить направление."
@@ -154,7 +154,7 @@ line-380,,他们匍匐在地，奋力向上摇晃着脑袋，似乎还不太适�
 line-383,阿尔图罗,唔，真是混沌的心声，难听。,"Urgh. That's one ugly, chaotic voice of the heart.","Ургх, только уродливый хаос в сердцах, слушать тошно."
 line-385,费德里科,如果出于某种暂不明确的原因，圣城中的所有人此前都深陷于某种巨大的群体性幻觉中……,If everyone in the Holy City has fallen into a sort of mass hallucination of an unknown source...,"Если все жители Священного города погрузились в своего рода массовую галлюцинацию, связанную с неизвестным источником..."
 line-386,费德里科,那么眼前的景象，是否意味着，真实与虚幻的界限被模糊了，实质性的灾难正在入侵拉特兰？,"Does this scene before us mean that the boundary between reality and falsehood is being blurred, and that Laterano is being invaded by a material threat?","То значит ли увиденное, что границы между реальностью и иллюзией стерты, и Бедствие в буквальном смысле вторгается в Латерано?"
-line-387,费德里科,这比你我在帕维永中的经历更加难以理解。,This is even more incomprehensible than what we experienced in the Pavillon.,"Это еще более непостижимо, чем то, что мы увидели в Павильоне."
+line-387,费德里科,这比你我在帕维永中的经历更加难以理解。,This is even more incomprehensible than what we experienced in the Pavillon.,"Это ещё более непостижимо, чем то, что мы увидели в Павильоне."
 line-389,阿尔图罗,费迪，有只家伙已经注意到我们了。,"One of them has noticed us, Fede.","Феде, один из них уже заметил нас."
 line-395,蒙恩的生物A,（祷告声）,(Praying),(Звуки молитвы)
 line-400,阿尔图罗,我们发出的杂音，似乎惊扰了他们的仪式。,The noise we made seems to have disrupted their ritual.,"Созданный нами шум, похоже, нарушил их ритуал."

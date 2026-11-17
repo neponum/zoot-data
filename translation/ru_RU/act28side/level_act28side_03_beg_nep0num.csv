@@ -10,7 +10,7 @@ char-3,芙兰卡,芙兰卡,Franka,Франка
 char-4,雷蛇,雷蛇,Liskarm,Лискарм
 char-5,银行经理,银行经理,Bank Manager,Менеджер банка
 char-6,杰西卡,杰西卡,Jessica,Джессика
-char-7,黑钢佣兵,黑钢佣兵,Blacksteel Mercenary,Наемник Blacksteel
+char-7,黑钢佣兵,黑钢佣兵,Blacksteel Mercenary,Наемник Блэкстил
 char-8,伍德洛,伍德洛,Woodrow,Вудро
 char-9,里昂,里昂,Leone,Леон
 char-10,模糊的声音,模糊的声音,Distant Voice,Размытый голос
@@ -36,7 +36,7 @@ line-46,芙兰卡,每次来银行都能看见这样的事......,Why do I see thi
 line-48,雷蛇,所以我们更要来银行，更要来参加这个所谓的“答谢酒会”，芙兰卡。,"All the more reason for us to be here. And especially for us to attend this so-called 'welcoming party,' Franka.","Именно поэтому нам стоит приходить в банк и посещать этот так называемый «приём в честь благодарности», Франка."
 line-50,雷蛇,如果不来亲眼见识见识......我们只会更加一无所知。,If we don't witness these things with our own eyes... we'll forever remain left in the dark.,Если не видеть всё своими глазами... мы так и будем оставаться в полном неведении.
 line-63,银行经理,由巴伦基地亲自来拖拽达维镇回到原本的航路？,Is Fort Barron going to tow Davistown back onto its original route all by itself?,"Вы хотите, чтобы База Барон лично отбуксировала город Дави обратно на основной маршрут?"
-line-65,雷蛇,此次任务是受州政府直接委托，最终结果会直接关系到黑钢的信誉与形象，我们一定会尽力而为。,This request was made directly by the regional government. The outcome will affect Blacksteel's image and credibility. We'll give this mission our all.,"Эта задача поручена нам напрямую властями штата. Результат напрямую влияет на репутацию и имидж Blacksteel, так что мы сделаем всё возможное."
+line-65,雷蛇,此次任务是受州政府直接委托，最终结果会直接关系到黑钢的信誉与形象，我们一定会尽力而为。,This request was made directly by the regional government. The outcome will affect Blacksteel's image and credibility. We'll give this mission our all.,"Эта задача поручена нам напрямую властями штата. Результат напрямую влияет на репутацию и имидж Блэкстил, так что мы сделаем всё возможное."
 line-67,银行经理,那可真是太好了，我们不胜感激。,Good to hear. We appreciate it.,Это замечательно. Мы безмерно благодарны.
 line-69,雷蛇,该做的而已。,All part of the job.,Это наша работа.
 line-71,银行经理,二位要喝啤酒还是香槟？我们这种小地方，能提供的东西未免不尽如人意，二位请多担待。,"Would the two of you like beer or champagne? We're out in the sticks, so you may find our selection rather unsatisfactory. All I ask is that you bear with us.","Что бы вы предпочли: пиво или шампанское? В таких захолустьях, как наше, выбор небогат, прошу прощения."
@@ -48,9 +48,9 @@ line-81,银行经理,......正如您所说，包括电力和取暖在内，我�
 line-83,芙兰卡,其他建筑好像没有这套备用系统啊。,Funny how no one else seems to have this backup system.,"Похоже, в других зданиях такой системы нет."
 line-85,银行经理,这是在早期规划建设时，第一任行长出于安全考虑做下的英明决定。,That would be due to the prescience of our first president during the early planning and development phases. An important safety consideration.,"Это было мудрое решение нашего первого управляющего, принятое ещё на этапе планирования из соображений безопасности."
 line-86,银行经理,金融机构提供的服务相对特殊，大笔资金流入流出，无论系统或者资源，都是自己的用着更靠谱。,"The services provided by a financial institution are somewhat unique. Large amounts of money flow in and out, and be it systems or resources, it's always better to be more self-reliant.",Финансовые институты предоставляют специфические услуги. При огромных потоках наличности надежнее полагаться на собственные ресурсы.
-line-87,银行经理,想必黑钢在达维镇营建自己的安全屋也是出于同样的考虑，您说呢，芙兰卡女士？,"Presumably, Blacksteel built their safe house here in Davistown out of the very same concerns. Isn't that right, Miss Franka?","Наверняка Blacksteel обустраивает свое убежище в Дави по тем же соображениям, не так ли, госпожа Франка?"
+line-87,银行经理,想必黑钢在达维镇营建自己的安全屋也是出于同样的考虑，您说呢，芙兰卡女士？,"Presumably, Blacksteel built their safe house here in Davistown out of the very same concerns. Isn't that right, Miss Franka?","Наверняка Блэкстил обустраивает свое убежище в Дави по тем же соображениям, не так ли, госпожа Франка?"
 line-89,芙兰卡,啊......来杯水就行，这瓶啤酒还是留给贵行员工加油打气吧。,Oh... I'm fine with just a glass of water. I'll leave the beer for your employees. To keep up morale.,"А... мне просто стакан воды. Эту бутылку пива лучше оставьте для персонала вашего банка, чтобы они могли поднять свой боевой дух."
-line-99,雷蛇,此次达维镇动力炉的修复情况，我们已经派人赶回黑钢总部汇报。,We've sent people back to Blacksteel HQ to report the repair status of Davistown's power plant.,Мы уже отправили людей в штаб Blacksteel с докладом о состоянии энергетического реактора города Дави.
+line-99,雷蛇,此次达维镇动力炉的修复情况，我们已经派人赶回黑钢总部汇报。,We've sent people back to Blacksteel HQ to report the repair status of Davistown's power plant.,Мы уже отправили людей в штаб Блэкстил с докладом о состоянии энергетического реактора города Дави.
 line-100,雷蛇,现在动力炉仍然没能恢复供应航行的能力，想必总部会拟定新的解决方案。,"As the plant has not been restored to a state where it can support navigation, HQ will naturally have to formulate a new solution.","Реактор всё ещё не способен обеспечивать движение, полагаю, штаб разработает новое решение."
 line-102,银行经理,我们也很感激贵公司对达维镇的付出。,We are very appreciative of your company's contributions to our town.,"Мы благодарны вашей компании за усилия, потраченные на нужды города Дави."
 line-103,银行经理,不过，在解决方案出台之前，我们有个不情之请。,"However, until a solution is in place, we do have one humble request.","Однако, пока мы ждём решения, у нас есть одна деликатная просьба."
@@ -89,7 +89,7 @@ line-203,黑钢佣兵,我......杰西卡小姐，有句话我不该说，但还�
 line-205,杰西卡,为、为什么？,Wh-Why's that?,П-почему?
 line-207,黑钢佣兵,像达维镇这样的地块，政府回收后不会继续维持原样，肯定另有安排，到时候地块上的产业、设施......甚至是居民，都是要换一拨的。,"Places like Davistown don't just go on like normal after getting reclaimed by the government. They've always got other plans on the docket, and when the time comes, the businesses, the infrastructure... even the residents will be replaced.","Города вроде Дави после того, как правительство берёт их под контроль, не останутся прежними. Будут перестановки: бизнес, инфраструктура... и даже жители будут заменены."
 line-209,杰西卡,换一拨？那原来的人呢？他们会去哪里？,"Replaced? Then, what happens to the original residents? Where do they go?",Заменены? А что будет с людьми? Куда они денутся?
-line-211,黑钢佣兵,我不知道黑钢会如何处理，但是在我的老东家，他们只负责赶人，赶出去的人去哪里，变成什么样，他们根本不关心。,"I don't know how Blacksteel usually handles it, but with my last employer, we were only responsible for kicking them out. What happened afterwards was none of our business.","Не знаю, как поступит Blacksteel, но на моей прежней работе их просто выгоняли. А куда они пойдут и что с ними станет, никого не волновало."
+line-211,黑钢佣兵,我不知道黑钢会如何处理，但是在我的老东家，他们只负责赶人，赶出去的人去哪里，变成什么样，他们根本不关心。,"I don't know how Blacksteel usually handles it, but with my last employer, we were only responsible for kicking them out. What happened afterwards was none of our business.","Не знаю, как поступит Блэкстил, но на моей прежней работе их просто выгоняли. А куда они пойдут и что с ними станет, никого не волновало."
 line-213,杰西卡,不关心？！这是违法的事情，他们凭什么赶走地块上的合法居民？！,How could they not care?! That's totally illegal! How could they just drive out all the locals?!,Не волновало?! Но это незаконно! Как они могут просто выселить легальных жителей?!
 line-215,黑钢佣兵,唉......这种快要破产的地块，由头多得是啊。什么欠债、税务调查、安全隐患......,"*sigh*... There's always an excuse when it comes to places like this on the verge of bankruptcy. Like, bad debts, tax investigations, security concerns...","Эх... у обанкротившегося города причин для этого всегда навалом: долги, налоговые проверки, угрозы безопасности..."
 line-217,杰西卡,欠债......,Debts...,Долги...
@@ -129,18 +129,18 @@ line-402,杰西卡,......能给我看看你爸爸的账单吗？也许我能帮�
 line-404,本尼,你......认真的？他的账单多得可怕......,You... Are you serious? His bills are something awful...,Вы... серьезно? У него огромные долги...
 line-417,里昂,这一圈看下来，能源塔里......没什么我们能做的了。,I took a gander and... there ain't a whole lot more we can do for the ol' tower this time around.,Обошел всё кругом — в энергетической башне делать больше нечего.
 line-419,迈尔斯,我早跟你说过，罗拉那小姑娘做事情很利索，该修补的地方都弄好了，你还非要来跑一趟。,"I already told you, that Laura girl did a great job tidying things up and fixing what could be fixed. But you just had to come out here yourself.","Я же говорил, что Лола отлично справляется со своей работой, всё, что нужно, исправлено. Зачем было так торопиться?"
-line-421,里昂,我就是想看看还有没有什么事，黑钢没做，我们能做的。,"Just wanted to see if there's anything Blacksteel missed, that we could handle.","Просто хотел узнать, нет ли дел, которые Blacksteel упустили, а мы могли бы сделать."
-line-423,迈尔斯,你觉得这样黑钢就会付你更多钱，让你把银行的贷款还清？,"What, you think they're gonna pay off your loans if you work overtime?","Думаешь, так Blacksteel заплатит тебе больше, чтобы ты погасил кредит?"
+line-421,里昂,我就是想看看还有没有什么事，黑钢没做，我们能做的。,"Just wanted to see if there's anything Blacksteel missed, that we could handle.","Просто хотел узнать, нет ли дел, которые Блэкстил упустили, а мы могли бы сделать."
+line-423,迈尔斯,你觉得这样黑钢就会付你更多钱，让你把银行的贷款还清？,"What, you think they're gonna pay off your loans if you work overtime?","Думаешь, так Блэкстил заплатит тебе больше, чтобы ты погасил кредит?"
 line-425,里昂,......至少有点指望。,"...I can dream, can't I?","...Ну, это хоть какая-то надежда."
 line-427,迈尔斯,你还不如指望天上下金券。,You're better off praying for goldbacks to fall from the sky.,"Ты бы ещё рассчитывал, что золото посыпется с неба."
 line-428,迈尔斯,我早跟你说过，把矿厂的股份卖了，这是你现在唯一能走的路。,"I told you, your only lifeline at this point is selling off all the shares you've got in the mine.","Я же говорил, продай акции шахты. Это твой единственный путь."
 line-430,里昂,不行。,No.,Нет.
 line-432,迈尔斯,我知道你在这些股份上花了一辈子的积蓄，还贷了款——,"I know you blew your life savings and took out loans to get those shares, but—","Я знаю, что ты вложил в эти акции все свои сбережения и даже взял кредит —"
 line-434,里昂,不行就是不行。,Hell no.,"Нет, значит нет."
-line-436,迈尔斯,那我问你，黑钢付你的钱能让你平多少账？该不会连利息都付不清吧？,"Then lemme ask you, how much debt is that payment from Blacksteel even gonna clear? I reckon it's nowhere close to even paying off the interest.","Тогда ответь, сколько долгов ты покроешь деньгами от Blacksteel? У тебя хоть на выплату процентов хватит?"
+line-436,迈尔斯,那我问你，黑钢付你的钱能让你平多少账？该不会连利息都付不清吧？,"Then lemme ask you, how much debt is that payment from Blacksteel even gonna clear? I reckon it's nowhere close to even paying off the interest.","Тогда ответь, сколько долгов ты покроешь деньгами от Блэкстил? У тебя хоть на выплату процентов хватит?"
 line-438,里昂,......,......,...
-line-440,迈尔斯,那这样，你帮我维护动力炉，正好这几天它能烧黑钢带来的燃料。,"How about this, then? Help me with the plant maintenance. We'll be able to keep it running off the fuel that Blacksteel brought.","Слушай, помоги мне с обслуживанием реактора, благо на днях он будет работать на топливе от Blacksteel."
-line-441,迈尔斯,我呢，正好放几天假，黑钢付我的那笔钱就当是你的报酬了，帮你从银行手里争取一点想清楚的时间。,"I also happen to have a few days off. I'll pay you with the money Blacksteel gave me, and that'll buy you some time with the bank, at least.","А я возьму отгул на пару дней. Отдай эту сумму, что выплатит Blacksteel, мне — считай, что это твое вознаграждение, и это даст тебе время подумать, как быть с банком."
+line-440,迈尔斯,那这样，你帮我维护动力炉，正好这几天它能烧黑钢带来的燃料。,"How about this, then? Help me with the plant maintenance. We'll be able to keep it running off the fuel that Blacksteel brought.","Слушай, помоги мне с обслуживанием реактора, благо на днях он будет работать на топливе от Блэкстил."
+line-441,迈尔斯,我呢，正好放几天假，黑钢付我的那笔钱就当是你的报酬了，帮你从银行手里争取一点想清楚的时间。,"I also happen to have a few days off. I'll pay you with the money Blacksteel gave me, and that'll buy you some time with the bank, at least.","А я возьму отгул на пару дней. Отдай эту сумму, что выплатит Блэкстил, мне — считай, что это твое вознаграждение, и это даст тебе время подумать, как быть с банком."
 line-443,里昂,不行，迈尔斯，那是你自己的血汗钱，再说这和白给有什么区别？,"No Miles, you earned that money. Besides, how's that any different from just giving it away?","Нет, Майлз, это твои кровно заработанные деньги. И вообще, разве это не одно и то же, что подачка?"
 line-445,迈尔斯,这也不行，那也不行，等银行帮你宣布破产，把一切都抢走的时候，你也靠一句不行把他们打发了？,"Not like this, not like that, sounds to me like you got an excuse to say no to everything. It ain't gonna matter when you're bankrupt and the bank's stealing the shirt off your back.","То не так, это не эдак. Когда банк объявит тебя банкротом и заберет всё, ты тоже собираешься отмахнуться от них словом «нет»?"
 line-447,里昂,......总会有办法的。,...There's gotta be a way.,...Я что-нибудь придумаю.

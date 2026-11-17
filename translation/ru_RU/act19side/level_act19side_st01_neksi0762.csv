@@ -9,13 +9,13 @@ char-2,？？？,？？？,???,???
 char-3,缪尔赛思,缪尔赛思,Muelsyse,Мюльсис
 char-4,塞雷娅,塞雷娅,Saria,Сария
 char-5,特里蒙市民,特里蒙市民,Trimountarian,Горожанин
-char-6,莱茵实验员,莱茵实验员,Rhine Lab Tech,Лаборант Rhine Lab
+char-6,莱茵实验员,莱茵实验员,Rhine Lab Tech,Лаборант Рейн Лаб
 char-7,埃琳娜,埃琳娜,Elena,Елена
 char-8,多萝西,多萝西,Dorothy,Дороти
 char-9,拓荒队成员,拓荒队成员,Pioneer,Член экспедиционного отряда
 char-10,桑尼,桑尼,Sonny,Сонни
 ,,,,
-line-10,,您好，这里是莱茵生命总辖克丽斯腾·莱特的私人办公室。,"Hello. You've reached the office of Rhine Lab Control, Kristen Wright.","Здравствуйте, вы связались с кабинетом Кристен Райт, генерального директора «Rhine Lab»."
+line-10,,您好，这里是莱茵生命总辖克丽斯腾·莱特的私人办公室。,"Hello. You've reached the office of Rhine Lab Control, Kristen Wright.","Здравствуйте, вы связались с кабинетом Кристен Райт, генерального директора «Рейн Лаб»."
 line-11,,莱特女士目前不方便接听您的电话，请在听到提示音后留言，谢谢。,Ms. Wright is currently unable to take your call. Please leave your message after the tone. Thank you.,"Госпожа Райт сейчас не может ответить на ваш звонок. Пожалуйста, оставьте сообщение после звукового сигнала. Спасибо."
 line-15,答录机,糟糕，克丽斯腾，我好像搞砸了……,"This is bad, Kristen. I think I screwed up...","Это плохо, Кристен, кажется, я всё испортила..."
 line-16,答录机,那个上校的确不是傻瓜，上次交货的时候，他发现了我的那些“小伎俩”。,I'll admit the Colonel's smart. He caught onto my 'little tricks' last time I made a delivery.,Тот полковник определенно не дурак. Во время прошлой поставки он раскусил мои «фокусы».
@@ -96,7 +96,7 @@ line-210,塞雷娅,我从没指望过她会守时，但从上一则通讯的情�
 line-212,特里蒙市民,她会不会又反悔了……,Maybe she backed out again...,"Может, она передумала..."
 line-213,特里蒙市民,我们都知道，莱茵生命的生态科主任总是笑盈盈的，却从来不爱说真话。,We all know the Director of Rhine Lab Ecological prefers to hide the truth behind all those smiles of hers.,"Все мы знаем, что директор отдела экологии всегда предпочитает скрывать правду за своими улыбками."
 line-215,塞雷娅,我不信任缪尔赛思。,I don't trust Muelsyse.,Я не доверяю Мюльсайз.
-line-216,塞雷娅,我不会轻易信任任何至今仍留在莱茵生命的人。,I wouldn't easily trust anyone choosing to remain at Rhine Lab at this point.,"Я вообще не доверяю тем, кто до сих пор остается в «Rhine Lab»."
+line-216,塞雷娅,我不会轻易信任任何至今仍留在莱茵生命的人。,I wouldn't easily trust anyone choosing to remain at Rhine Lab at this point.,"Я вообще не доверяю тем, кто до сих пор остается в «Рейн Лаб»."
 line-218,塞雷娅,可信任并非达成合作的唯一前提。当初我找到你的时候，你难道就信任我？,But partnerships are built on more than just trust. Did you trust me the moment I first met you?,"Но доверие — не единственное условие сотрудничества. Когда я нашла тебя, разве ты доверял мне?"
 line-220,特里蒙市民,咳咳……要我说实话吗，女士？,"*cough*... The truth, ma'am?","*Кашель*... Сказать правду, госпожа?"
 line-221,特里蒙市民,当时看到你站在我家门前，我差点就想躲进厨房，拿上点什么东西防身，再顺带报个警。,"When I saw you standing outside my door, I almost went straight to the kitchen to grab a knife or something, and call the cops along the way.","Увидев вас на пороге, я едва не спрятался на кухне, схватив первое, что под руку попалось, чтобы защититься, а потом ещё и хотел вызвать полицию."
@@ -140,7 +140,7 @@ line-318,,摄入过量咖啡因可能会加重矿石病，埃琳娜小姐。,"Ex
 line-321,埃琳娜,你说得对，但我还不想为了一种可能性而放弃我的生活。,"I hear you, but I'm still not about to give up my life for the word 'may.'","Ты права, но я не хочу отказываться от жизни из-за одной лишь вероятности."
 line-322,埃琳娜,要是什么都听医生的，那我现在最好和姐姐一起留在罗德岛。,"If the docs had the final word, I'd be best off staying at Rhodes Island with my sister.","Если слушать врачей во всём, то мне лучше остаться на Родосе вместе с сестрой."
 line-323,埃琳娜,你不也是吗，乔伊丝？医疗部的干员们都希望你长期留舰。,"Same for you, right, Joyce? Medical wants you aboard long-term.","А как же ты, Джойс? Операторы отдела медицины надеются, что ты останешься на корабле надолго."
-line-326,,按照规定，我需要定期回莱茵生命述职。,Regulations state I must report back to Rhine Lab at regular intervals.,"Согласно регламенту, я должна периодически возвращаться в «Rhine Lab» для сдачи отчетов."
+line-326,,按照规定，我需要定期回莱茵生命述职。,Regulations state I must report back to Rhine Lab at regular intervals.,"Согласно регламенту, я должна периодически возвращаться в «Рейн Лаб» для сдачи отчетов."
 line-328,,来到这个基地提供医疗服务，只是临时任务。,Provision of medical services at this site is only a temporary assignment.,Работа здесь — лишь временное задание.
 line-331,埃琳娜,嗯……再过两三天，你就会回城与赫默医生会合吧？,"Sure... just a few days, and then you'll meet back up with Dr. Silence in the city, right?","М-м... через пару дней ты вернешься в город и встретишься с доктором Сайленс, верно?"
 line-332,埃琳娜,我和多萝西会想你的。,Me and Dorothy'll miss you.,Мы с Дороти будем скучать.

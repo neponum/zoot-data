@@ -12,13 +12,13 @@ char-5,恭敬的侍者,恭敬的侍者,Respectful Attendant,Почтительн
 char-6,莱塔尼亚贵族,莱塔尼亚贵族,Leithanian Noble,Лейтанианский дворянин
 char-7,卡西米尔报业主编,卡西米尔报业主编,Kazimierzian Editor-in-Chief,Казимежский главный редактор
 char-8,卡西米尔职员,卡西米尔职员,Kazimierzian Staff Member,Казимежский сотрудник
-char-9,维什戴尔,维什戴尔,Wiš'adel,Виш'адель
+char-9,维什戴尔,维什戴尔,Wiš'adel,Вишадель
 char-10,？？？,？？？,???,???
 char-11,曼弗雷德,曼弗雷德,Manfred,Манфред
 char-12,叙拉古家族成员,叙拉古家族成员,Siracusan Mafioso,Член Сиракузской семьи
 char-13,神秘的男人,神秘的男人,Mysterious Man,Загадочный мужчина
 char-14,帕尤卡卡,帕尤卡卡,Paryaqaqa,Парякака
-char-15,Misery,Misery,Misery,Мизери
+char-15,Misery,Misery,Misery,Misery
 char-16,Logos,Logos,Logos,Logos
 char-17,雇佣兵斥候,雇佣兵斥候,Mercenary Scout,Наемник-разведчик
 char-18,死魂灵的声音,死魂灵的声音,Revenant's Voice,Голос духа
@@ -171,11 +171,11 @@ line-357,帕尤卡卡,更准确地说，我想去看看顶着天灾云走路的�
 line-372,Misery,情况怎样？但愿没有人为难你。,How is it going? I hope no one is giving you any trouble.,"Как обстановка? Надеюсь, никто тебя не беспокоил."
 line-374,Logos,只是又一场普通的葬礼。,Just another ordinary funeral.,Просто очередные похороны.
 line-376,Misery,......天灾下的葬礼，恐怕算不上普通了。这对很多人不公平，他们本应该和我们一起回到卡兹戴尔。,...A funeral beneath a Catastrophe cloud is hardly ordinary. It's unfair to so many—they should have been able to return to Kazdel with us.,"...Похороны под Катастрофой — это уже само по себе неординарно. Это несправедливо по отношению ко многим, они должны были вернуться в Каздель вместе с нами."
-line-378,Logos,死亡已是我们中绝大多数人最容易触碰到的平等，Misery。,"Death is the one form of equality most readily attainable to all, Misery.","Смерть стала для большинства из нас самым доступным видом равенства, Мизери."
+line-378,Logos,死亡已是我们中绝大多数人最容易触碰到的平等，Misery。,"Death is the one form of equality most readily attainable to all, Misery.","Смерть стала для большинства из нас самым доступным видом равенства, Misery."
 line-380,Logos,绝大多数死者已无亲故，亦无姓名。,"The vast majority of the deceased have no relatives, nor even names.","У большинства погибших нет ни родных, ни имен."
 line-381,Logos,当初我请他们留下遗言时，他们不知谁会为自己哀悼。,"When I asked them to leave their final words, they could not even identify anyone who might remember them after they were gone.","Когда я попросил их сказать последние слова, они даже не смогли назвать никого, кто мог бы помнить их после их смерти."
 line-383,Logos,我令雾气在众人安葬之处缭绕，以免野兽惊扰，但对大多数人而言，他们终究未能如愿归乡，将尸骨投入熔炉。,"I shrouded the burial site in mist to keep beasts away. Unfortunately, most of the dead were still unable to return to the furnace at home as they wished.","Я окутал туманом место их захоронения, чтобы звери их не потревожили, но, по правде говоря, большинство так и не вернулось домой, чтобы упокоиться в Печи."
-line-385,Misery,Logos，你知道再往前走一些，是什么地方吗？,"Logos, do you know what lies a little further up ahead?","Логос, ты знаешь, что это за место, если пройти ещё немного вперед?"
+line-385,Misery,Logos，你知道再往前走一些，是什么地方吗？,"Logos, do you know what lies a little further up ahead?","Logos, ты знаешь, что это за место, если пройти ещё немного вперед?"
 line-387,Logos,我之前的任务......很少需要在这附近行动。,My previous missions... rarely required me to come this way.,Мои прошлые миссии... редко проходили в этой местности.
 line-389,Misery,再往南走一点，就是拉特兰了。不远。,"Laterano is just south of here, not far.","Латерано находится чуть южнее отсюда, неподалеку."
 line-391,Logos,......,.....,...
@@ -186,13 +186,13 @@ line-396,Misery,......我也没能让她看到。,But I never got the chance to 
 line-397,Misery,哈，至少这次失约的不是我。,Ha. At least <i>I'm</i> not the one breaking my promise this time.,"Ха, по крайней мере, в этот раз <i>я</i> не тот, кто нарушил обещание."
 line-399,Logos,所以你特意拒绝了和阿斯卡纶一同回本舰的命令。,So you deliberately refused the order to return to the ship with Ascalon.,Так вот почему ты отказался от приказа вернуться на корабль вместе с Аскалон.
 line-401,Logos,你知道我们的撤退路线会经过这里。,You knew we'd pass through here during the retreat.,"Ты знал, что наш путь отступления будет проходить через это место."
-line-403,Misery,别瞎猜我的心思，Logos。,"Don't try to guess my intentions, Logos.","Не пытайся читать мои мысли, Логос."
+line-403,Misery,别瞎猜我的心思，Logos。,"Don't try to guess my intentions, Logos.","Не пытайся читать мои мысли, Logos."
 line-404,Misery,有阿斯卡纶在，护送我们那些牺牲的同僚和他们的信物回到本舰的任务不会有任何问题。,"With Ascalon here, we'll have no issues escorting our fallen comrades and their tokens back to the ship.",С Аскалон миссия по сопровождению наших павших товарищей и их жетонов на корабль пройдёт без проблем.
 line-405,Misery,况且，她也需要一些独处的时间......告别过去。,Besides... she also needs some time to herself. To say goodbye to the past.,"К тому же, ей нужно время, чтобы побыть одной... попрощаться с прошлым."
 line-407,Logos,我尝试过与她讨论撤军事宜，但她保持了缄默。,"I tried speaking to her about the retreat, but she remained silent.","Я пытался обсудить с ней план отступления, но она молчала."
 line-409,Misery,也许之后的事务她都不会再有什么看法。,"Perhaps she won't have anything to say about what happens next, either.","Возможно, у неё больше не будет своего мнения ни по каким вопросам."
-line-410,Misery,她亲历了一个时代的落幕，Logos。那种感觉不会好受，恐怕未来我们的会议又要少一个参会者了。,"She witnessed the end of an era, Logos. It couldn't have been easy for her, and I fear we'll have one less participant at our future meetings.","Она стала свидетельницей заката целой эпохи, Логос. Это чувство не из приятных, боюсь, в будущем нас на собраниях станет ещё меньше."
-line-413,,Misery叹了一口气。,Misery lets out another sigh.,Мизери вздохнул.
+line-410,Misery,她亲历了一个时代的落幕，Logos。那种感觉不会好受，恐怕未来我们的会议又要少一个参会者了。,"She witnessed the end of an era, Logos. It couldn't have been easy for her, and I fear we'll have one less participant at our future meetings.","Она стала свидетельницей заката целой эпохи, Logos. Это чувство не из приятных, боюсь, в будущем нас на собраниях станет ещё меньше."
+line-413,,Misery叹了一口气。,Misery lets out another sigh.,Misery вздохнул.
 line-416,Misery,谁也说不准将来还会发生什么。,No one can say for sure what will happen next.,"Кто знает, что произойдет в будущем."
 line-417,Misery,就像我们头顶上的天灾云......虽然我不喜欢这个计划，但我不得不承认，这就是对任何想要趁机与萨卡兹开战的军队最大的威慑。,"It's just like the Catastrophe cloud above our heads... I may not like this plan, but I must admit it's the best deterrent we have against those who wish to seize the chance to declare war on the Sarkaz.","Как и эта Катастрофа у нас над головой... хотя мне не нравится этот план, должен признать, что для любой армии, желающей воспользоваться случаем и начать войну с Сарказами, это лучшее средство сдерживания."
 line-418,Misery,若不以强硬手段避免战争，返归卡兹戴尔的旅程会有更多无谓的牺牲。,"Without a strong measure like that to avoid war, there would only be more unnecessary sacrifices on the road back to Kazdel.","Если не избегать войны жесткими методами, возвращение в Каздель обернется множеством напрасных жертв."

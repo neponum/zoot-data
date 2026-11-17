@@ -6,7 +6,7 @@ __chapter__,,Chapter Name,activities/act19side/level_act19side_03_beg,动力装�
 ,,,,
 char-1,Mechanist,Mechanist,Mechanist,Mechanist
 char-2,塞雷娅,塞雷娅,Saria,Сария
-char-3,霍尔海雅,霍尔海雅,Ho'olheyak,Хо'олхейак
+char-3,霍尔海雅,霍尔海雅,Ho'olheyak,Хоолхейак
 char-4,哥伦比亚雇佣兵,哥伦比亚雇佣兵,Columbian Mercenary,Колумбийский наемник
 char-5,拓荒队成员,拓荒队成员,Pioneer Team Member,Член экспедиционного отряда
 char-6,桑尼,桑尼,Sonny,Сонни
@@ -14,7 +14,7 @@ char-7,赫默,赫默,Silence,Сайленс
 char-8,埃琳娜,埃琳娜,Elena,Елена
 char-9,温柔的女声,温柔的女声,Gentle Female Voice,Нежный женский голос
 char-10,斐尔迪南,斐尔迪南,Ferdinand,Фердинанд
-char-11,莱茵实验员,莱茵实验员,Rhine Lab Tech,Лаборант Rhine Lab
+char-11,莱茵实验员,莱茵实验员,Rhine Lab Tech,Лаборант Рейн Лаб
 char-12,？？？,？？？,???,???
 char-13,帕尔维斯,帕尔维斯,Parvis,Парвис
 char-14,多萝西,多萝西,Dorothy,Дороти
@@ -44,9 +44,9 @@ line-48,,你刚刚才亲眼目睹了这一幕，过去也曾无数次在战场�
 line-51,,钙质化？;有敌人吗？！,Calcification?;Danger?!,Кальцификация?; Рядом враги?!
 line-54,,塞雷娅没有回答你。,Saria does not answer.,Сария не ответила тебе.
 line-55,,她突然抬手，坚硬的拳头瞬间逼近你的鼻尖。,"Suddenly, she raises her hand, and you find her fist in front of your nose faster than you can blink.","Она внезапно подняла руку, и твердый кулак оказался в считанных сантиметрах от кончика твоего носа."
-line-64,,一声磐石与金属碰撞的锐响，你知道是Mechanist的机械臂替你挡下了这一击。,"You hear the sound of mineral impacting metal, and know that Mechanist blocked the attack for you.","Раздался резкий лязг металла о камень — ты понял, что это механическая рука Механиста приняла удар на себя."
+line-64,,一声磐石与金属碰撞的锐响，你知道是Mechanist的机械臂替你挡下了这一击。,"You hear the sound of mineral impacting metal, and know that Mechanist blocked the attack for you.","Раздался резкий лязг металла о камень — ты понял, что это механическая рука Mechanist приняла удар на себя."
 line-65,,可你还来不及喘气，就看到一道白光抵上了自己的咽喉。,"Before you can catch your breath, you feel something cold touch your neck.","Но не успел ты перевести дыхание, как увидел белое лезвие у своего горла."
-line-66,,塞雷娅的一只手的确被Mechanist挡下了，她的另一只手也没有动。,Saria's other hand never moved.,"Одна рука Сарии действительно была заблокирована Механистом, но её вторая рука даже не шелохнулась."
+line-66,,塞雷娅的一只手的确被Mechanist挡下了，她的另一只手也没有动。,Saria's other hand never moved.,"Одна рука Сарии действительно была заблокирована Mechanist, но её вторая рука даже не шелохнулась."
 line-67,,但钙质的利刃确实架在你的脖子上。,"But there is a calcified blade at your throat, nonetheless.","Тем не менее, лезвие из кальция плотно прижалось к твоей шее."
 line-68,,你下意识屏住了呼吸。,You instinctively hold your breath.,Ты невольно затаил дыхание.
 line-70,Mechanist,……塞雷娅，解释你的行为。,"Explain yourself, Saria.","...Сария, объясни свои действия."
@@ -67,12 +67,12 @@ line-94,Mechanist,……刚刚要不是博士冲我摆手，我的攻击目标�
 line-96,塞雷娅,所幸我们足够默契。,Good thing we know each other so well.,"К счастью, мы понимаем друг друга без слов."
 line-98,塞雷娅,博士，接下来我需要去见一个人。,There's someone I want to see.,"Доктор, теперь мне нужно встретиться с кое-кем."
 line-99,塞雷娅,据我所知，他是这批实验动力甲最初的使用者。,"As far as I know, he's the first to actually use this prototype power armor.","Насколько мне известно, он был первым, кто использовал эту экспериментальную силовую броню."
-line-100,塞雷娅,我想请你与Mechanist先生同行。,"I would like you to come, with Mechanist.",Я хочу попросить вас пойти вместе с господином Механистом.
+line-100,塞雷娅,我想请你与Mechanist先生同行。,"I would like you to come, with Mechanist.",Я хочу попросить вас пойти вместе с господином Mechanist.
 line-111,霍尔海雅,你看见他们去了大学附近的一家酒吧？,You saw them go into a bar near the university?,"Ты видел, как они зашли в бар недалеко от университета?"
 line-113,哥伦比亚雇佣兵,是的，女士。他们三个人都在。,"Yes, ma'am. All three of them.","Да, госпожа. Все трое."
 line-115,霍尔海雅,我能猜到塞雷娅想去找谁。,I can guess who it is Saria's looking for.,"Я могу догадаться, кого хочет найти Сария."
 line-116,霍尔海雅,我们上周才刚去见过他。,We just saw him last week.,Мы виделись с ним на прошлой неделе.
-line-118,哥伦比亚雇佣兵,那家伙？他不是在您面前信誓旦旦地说不会见任何莱茵生命的人吗？！,Didn't he agree not to meet anyone from Rhine Lab?,"Этот тип? Разве он не клялся перед вами, что больше не встретится ни с кем из «Rhine Lab»?!"
+line-118,哥伦比亚雇佣兵,那家伙？他不是在您面前信誓旦旦地说不会见任何莱茵生命的人吗？！,Didn't he agree not to meet anyone from Rhine Lab?,"Этот тип? Разве он не клялся перед вами, что больше не встретится ни с кем из «Рейн Лаб»?!"
 line-120,霍尔海雅,塞雷娅……她还算是莱茵生命的人吗？,Is Saria still Rhine?,Сария... Считается ли она до сих пор сотрудником компании?
 line-121,霍尔海雅,恐怕连她自己都不清楚。,I don't think she knows the answer herself.,"Боюсь, даже она сама этого не знает."
 line-123,哥伦比亚雇佣兵,那我们要不要阻止他们见面？,Should we stop them?,Должны ли мы вмешаться?
@@ -83,7 +83,7 @@ line-131,霍尔海雅,对了，还有……洛肯·威廉姆斯是哥伦比亚�
 line-133,哥伦比亚雇佣兵,洛肯·威廉姆斯……是谁？,Loken Williams...? Who is that?,Локен Уильямс... кто это?
 line-135,霍尔海雅,……时间过得可真快，不是吗？,I guess time really does fly.,"...Время летит так быстро, не правда ли?"
 line-136,霍尔海雅,一次实验事故，就足以令一颗学界新星坠入尘埃，从此无人知晓。,"One accident, and everyone forgets the brightest star of academia.","Один неудачный эксперимент — и вот новая звезда науки упала в пыль, забытая всеми."
-line-138,霍尔海雅,无论如何，塞雷娅还有莱茵生命总辖也毕业于这所学校。,Saria and the Control of Rhine Lab went to the same school.,"В любом случае, и Сария, и основательица «Rhine Lab» тоже выпускники этого вуза."
+line-138,霍尔海雅,无论如何，塞雷娅还有莱茵生命总辖也毕业于这所学校。,Saria and the Control of Rhine Lab went to the same school.,"В любом случае, и Сария, и основательица «Рейн Лаб» тоже выпускники этого вуза."
 line-139,霍尔海雅,哥伦比亚科技界的社交晚宴就像他们的校友聚会一样。,Social gatherings in Columbia's tech sector are basically all TIT reunions.,Светские вечера колумбийских ученых похожи на встречу выпускников.
 line-141,霍尔海雅,唉，早知道这么热闹，我也该去这所学校待一段时间的。,I wish I could've spent some time at that school myself.,"Ох, знала бы, что там так весело, сама бы поучилась там некоторое время."
 line-143,霍尔海雅,走吧，说不定……现在去凑凑热闹也还不算太晚。,Let's go. Maybe it's not too late to join the fun.,"Пойдём. Кто знает... может, ещё не поздно влиться в веселье."
@@ -193,7 +193,7 @@ line-448,多萝西,心疼我，还是心疼咖啡？,"Are you worried about me, 
 line-450,埃琳娜,……,......,...
 line-451,埃琳娜,对我嬉皮笑脸可没有用，弗兰克斯主任。你再怎么跟我扮可怜，我都不会借钱给你吃饭的。,"You can smile and plead all you want, but I'm not lending you lunch money.","Твои шуточки со мной не пройдут, Фрэнкс. Как бы ты ни притворялась несчастной, я всё равно не одолжу тебе денег на обед."
 line-453,多萝西,好吧，那我下个月吃速热米饭。,Looks like it's plain rice for the rest of the month then.,"Ладно, буду в следующем месяце питаться лапшой быстрого приготовления."
-line-455,埃琳娜,你呀……你是莱茵生命的主任，隔三差五来蹭我一个小研究员的饭，这传出去会被人当笑话的吧？,"A director of Rhine Lab, begging for food from a low-level researcher... can you imagine the scandal?","Директор Rhine Lab просит еды у рядового научного сотрудника... можете себе представить, какой скандал это вызовет?"
+line-455,埃琳娜,你呀……你是莱茵生命的主任，隔三差五来蹭我一个小研究员的饭，这传出去会被人当笑话的吧？,"A director of Rhine Lab, begging for food from a low-level researcher... can you imagine the scandal?","Директор Рейн Лаб просит еды у рядового научного сотрудника... можете себе представить, какой скандал это вызовет?"
 line-457,多萝西,源石技艺应用科是五个科研科里最穷的啊……,"Originium Art Section is the poorest of the five, after all.",Отдел ориджиниевых искусств — самый бедный среди всех пяти отделов...
 line-459,多萝西,我又不是斐尔迪南，总能拉来成堆的赞助，把自己从耳朵到尾巴都打扮得金光闪闪。,"I'm not Ferdinand, I don't have sponsors lined up waiting to dress me in gold from head to tail.","Я ведь не Фердинанд, который всегда притягивает горы спонсоров и украшает себя от ушей до хвоста в золото."
 line-461,埃琳娜,……老板的品味好歹还不错。,At least the boss has good taste.,"...У босса, по крайней мере, неплохой вкус."

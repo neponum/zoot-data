@@ -8,7 +8,7 @@ char-1,明椒,明椒,Paprika,Паприка
 char-2,伊内丝,伊内丝,Ines,Инес
 char-3,？？？,？？？,???,???
 char-4,赫德雷,赫德雷,Hoederer,Хёдерер
-char-5,维什戴尔,维什戴尔,Wiš'adel,Виш'адель
+char-5,维什戴尔,维什戴尔,Wiš'adel,Вишадель
 char-6,“灰礼帽”,“灰礼帽”,'Trilby Asher',Трилби Эшер
 char-7,联军士兵,联军士兵,Alliance Soldier,Солдат коалиции
 char-8,戴菲恩,戴菲恩,Delphine,Дельфина
@@ -35,7 +35,7 @@ char-28,绝望的士兵,绝望的士兵,Forlorn Soldier,Отчаявшийся �
 char-29,夜莺,夜莺,Nightingale,Найтингейл
 char-30,闪灵,闪灵,Shining,Шайнинг
 char-31,芬,芬,Fang,Фанг
-char-32,Misery,Misery,Misery,Мизери
+char-32,Misery,Misery,Misery,Misery
 char-33,“小公爵”,“小公爵”,'The Young Duke',Маленький герцог
 char-34,蒸汽骑士,蒸汽骑士,Steam Knight,Паровой рыцарь
 char-35,凯瑟琳,凯瑟琳,Catherine,Кэтрин
@@ -76,7 +76,7 @@ line-85,伊内丝,哼，那更好。所以外面的情况如何？,"Even better.
 line-87,维什戴尔,城墙上那场大火之后，那些维多利亚人的军队推进得很迅猛，食腐者的阵线溃散得也很快......,The Victorians made a big push right after the fire on the walls. The Nachzehrer lines collapsed right away.,"После того пожара на городских стенах викторианская армия продвигается стремительно, а строй Нахцехреров быстро рушится..."
 line-89,赫德雷,食腐者之王呢？,What about the Nachzehrer King?,А Король Нахцехреров?
 line-91,维什戴尔,没死，但退守到城内了——,"Still kicking, but he retreated into the city—","Жив, но отступил внутрь города —"
-line-93,明椒,......维什戴尔小姐，还、还有将军他的消息吗？,"I—Is there any news about the General, Miss Wiš'adel?","...Мисс Виш'адэль, а есть н-новости о Генерале?"
+line-93,明椒,......维什戴尔小姐，还、还有将军他的消息吗？,"I—Is there any news about the General, Miss Wiš'adel?","...Мисс Вишадель, а есть н-новости о Генерале?"
 line-95,维什戴尔,没有，说不定死了哦。,Nope. Could be dead for all I know.,"Нет, может, уже сдох."
 line-97,明椒,......,...,...
 line-99,赫德雷,曼弗雷德没那么容易死。,Manfred wouldn't die so easily.,Манфред не умер бы так легко.
@@ -106,9 +106,9 @@ line-136,明椒,我和你们一起！将军可能也在指挥中心，我还有�
 line-138,明椒,可“生命脊椎”就这么扔在这吗？,But do we just leave the Lifebone here?,Но мы просто оставим здесь «Позвоночник жизни»?
 line-140,维什戴尔,你要是愿意，我可以帮你把它全炸碎了，你随身背着。,I could blow it to pieces if you want. If you're volunteering to carry everyone on your back instead.,"Если хочешь, могу помочь разнести его на куски, будешь носить с собой."
 line-142,赫德雷,W......,W...,W...
-line-144,维什戴尔,是维什戴尔！,It's WIŠ'ADEL!,Я ВИШ'АДЭЛЬ!
+line-144,维什戴尔,是维什戴尔！,It's WIŠ'ADEL!,Я ВИШАДЕЛЬ!
 line-146,维什戴尔,毛线球你放心，谁也猜不到它在这鬼地方。真有人敢靠近，我手下那些人也处理得了。,"Don't worry, Yarnball, no one'll ever guess it's here. And if anyone dares get close, my guys will take care of them.","Не переживай, никто не догадается, что он здесь. Если кто и посмеет приблизиться, мои люди разберутся."
-line-149,,维什戴尔饶有兴致地打量着这个如今已经一片狼藉的帝国君王的安眠之处。,"Wiš'adel surveys the resting place of kings, now barely-recognizable rubble.","Виш'адэль с интересом оглядывала это место упокоения имперского монарха, превратившееся ныне в руины."
+line-149,,维什戴尔饶有兴致地打量着这个如今已经一片狼藉的帝国君王的安眠之处。,"Wiš'adel surveys the resting place of kings, now barely-recognizable rubble.","Вишадель с интересом оглядывала это место упокоения имперского монарха, превратившееся ныне в руины."
 line-151,维什戴尔,况且，大骨头架子扔在坟场，挺般配的，不是吗？,"Besides, what better place to hide a pile of bones than a graveyard?","К тому же, большой скелет в кладбище смотрится вполне уместно, не так ли?"
 line-160,,<p=1>军事委员会指挥中心外</>,<p=1>Outside the Military Commission Command Center</>,Снаружи командного центра Военной Комиссии
 line-173,伊内丝,......,...,...
@@ -156,7 +156,7 @@ line-287,戴菲恩,你想保护他们。,You want to protect them.,Вы хоти
 line-289,赫德雷,也为了让他们不再制造更大的混乱。,And prevent further chaos.,И предотвратить дальнейший хаос.
 line-291,戴菲恩,你能保证？,Can you give your guarantee?,Можете гарантировать?
 line-293,赫德雷,我不能。但她能，巴别塔能。,No. But she can. Babel can.,"Не могу. Но она может, «Вавилон» может."
-line-296,,赫德雷指了指维什戴尔。,Hoederer points towards Wiš'adel.,Хёдерер указал на Виш'адэль.
+line-296,,赫德雷指了指维什戴尔。,Hoederer points towards Wiš'adel.,Хёдерер указал на Вишадель.
 line-298,赫德雷,这场战争已经失去了它最后一点夺人性命的理由，它该结束了。这与我曾经或现在的身份都无关。,"This war has long since lost its last justification for taking lives. It's time to bring it to an end. This has nothing to do with who I was, or who I am now.","У этой войны не осталось ни единого оправдания для лишения жизней, она должна закончиться. Это не связано ни с моим прошлым, ни с нынешним статусом."
 line-300,戴菲恩,......,...,...
 line-302,戴菲恩,好，我会放你们过去。,Very well. You can go in.,"Хорошо, я позволю вам пройти."
@@ -183,9 +183,9 @@ line-352,赫德雷,应该如凯尔希勋爵和博士所言，玫瑰河畔的人�
 line-354,维什戴尔,曼弗雷德和他的人呢？是怕被炸死还是怎么的？,What about Manfred and his men? Afraid of getting blown up or something?,"А где Манфред и его люди? Боятся, что их взорвут?"
 line-356,明椒,如果将军还......活着，他只会在一个地方——摄政王殿下的身边。,"If the General is still... alive, there's only one place he would be—by the Regent's side.","Если Генерал... жив, он может быть только в одном месте — рядом с Регентом."
 line-358,赫德雷,摄政王那边，我们都只能相信博士他们能够应对。,We'll have to count on the Doctor's group being able to handle the Regent.,"Насчет Регента мы можем лишь верить, что Доктор и остальные справятся."
-line-360,赫德雷,维什戴尔，接下来就交给你了。,"It's all yours, Wiš'adel.","Виш'адэль, дальше очередь за тобой."
+line-360,赫德雷,维什戴尔，接下来就交给你了。,"It's all yours, Wiš'adel.","Вишадель, дальше очередь за тобой."
 line-362,维什戴尔,哈哈，我还以为你会跟我抢话筒。,And I thought I'd have to fight you for the mic.,"Ха-ха, а я думала, ты отберешь у меня микрофон."
-line-364,赫德雷,你的第一次广播效果很好。维什戴尔......,Your first broadcast more than did the job. 'Wiš'adel'...,"Твое первое вещание прошло успешно. ""Виш'адэль""..."
+line-364,赫德雷,你的第一次广播效果很好。维什戴尔......,Your first broadcast more than did the job. 'Wiš'adel'...,"Твое первое вещание прошло успешно. ""Вишадель""..."
 line-366,维什戴尔,......干嘛突然这么严肃，不会又想叨叨些我听不懂的话吧？,Why so serious all of a sudden? About to spew a bunch of crap I don't understand again?,"...Чего это ты такой серьезный? Опять начнёшь читать нотации, которые я не понимаю?"
 line-368,赫德雷,（摇头）殿下留给你的新名字意味着很多事。,(Shakes head) The name Her Highness gave you holds many meanings.,"(Качает головой) Новое имя, оставленное тебе Её Высочеством, значит многое."
 line-372,维什戴尔,我知道。,I know.,Я знаю.
@@ -237,14 +237,14 @@ line-514,阿米娅,......驱散不了！,I can't get rid of them!,Я не мог
 line-516,Logos,尸布浸染腐败，挽幛勾勒死亡，食腐者的无形巫术亦有规律可循。,"The palls are immersed in decay, the shroud drawing in death. Even the formless witchcraft of the Nachzehrer has rules that can be followed.","Саван пропитан гниением, полог очерчивает смерть, у безмолвного колдовства Нахцехреров тоже есть свои закономерности."
 line-517,Logos,可眼前的浓雾，我竟无法解析......,But I am unable to decipher this fog...,Но этот туман перед глазами... я не могу проанализировать его...
 line-519,Logos,不由术法编织，也非自然而成。,"It is neither Arts, nor natural.","Он не соткан искусствами, но и не возник естественным путем."
-line-521,阿米娅,Logos先生，你是说他们采取了某种新的战术？,"Is this some new tactic, Logos?","Господин Логос, вы хотите сказать, что они используют какую-то новую тактику?"
+line-521,阿米娅,Logos先生，你是说他们采取了某种新的战术？,"Is this some new tactic, Logos?","Господин Logos, вы хотите сказать, что они используют какую-то новую тактику?"
 line-524,,如果是行之有效的战术，不会现在才拿出来。,They wouldn't wait this long to try a proven tactic.,"Если бы это была эффективная тактика, её не использовали бы только сейчас."
 line-527,Logos,或许是孽茨雷本身，或者食腐者本身......在变化。,Perhaps Nezzsalem is changing... or perhaps it's the Nachzehrer themselves that are changing.,"Возможно, Неззалем меняется... или, возможно, меняются сами Нахцехреры."
 line-529,凯尔希,这里只会比我们先前在城外战场上踏入的挽幛更凶险。,This place will soon be more dangerous than the shroud we stepped into on the battlefield outside the city.,"Здесь будет ещё опаснее, чем там, где мы ступали в полог за городской стеной."
 line-530,凯尔希,其他队伍的推进应该也受到了同样的干扰，通讯信号的传递也很困难。,The other units must have encountered the same interference. Even sending out a signal is difficult.,"Продвижение других отрядов должно быть затруднено не меньше, передача сигналов связи также осложнена."
 line-531,凯尔希,哪怕是只有三百米长的大堂广场，也足够拖住上千人的部队几天之久。,This three-hundred meter plaza is enough to delay a thousand men for days.,"Даже если площадь всего триста метров длиной, этого достаточно, чтобы удерживать тысячные армии неделями."
 line-534,,我们必须尽快找到特雷西斯。;......“阿喃那”还在特雷西斯手上。,We must find Theresis.;Theresis still has Amnannam.,Мы должны как можно скорее найти Терезиса. ...Амнаннам всё ещё у него в руках.
-line-536,,Logos，尝试解析挽幛。;可露希尔，清点通讯设备。,"Analyze the shroud, Logos.;How's our comms equipment, Closure?","Логос, попытайся проанализировать покров. Клозер, проверь оборудование связи."
+line-536,,Logos，尝试解析挽幛。;可露希尔，清点通讯设备。,"Analyze the shroud, Logos.;How's our comms equipment, Closure?","Logos, попытайся проанализировать покров. Клозер, проверь оборудование связи."
 line-539,Logos,已经在做了。,Already on it.,Уже делаю.
 line-541,Logos,“凡有规则，必能解析。”眼前这些反常的挽幛，必有源头......,Rules are bound to be analyzed. There must be a source for this unusual shroud.,"«Всё, что подчинено правилам, может быть познано». У этого должен быть источник..."
 line-543,Logos,我会需要些时间。,I'll just need a bit of time.,Мне потребуется время.
@@ -287,7 +287,7 @@ line-650,Logos,食腐者不再收敛本质，而是任由腐朽无序蔓延。,N
 line-653,,这意味着我们更难阻遏腐败的蔓延？,Meaning it'll be harder to stop the spread of rot?,"Это значит, нам сложнее сдерживать распространение гниения?"
 line-656,Logos,就如同双手拢不住漫溢的水。,A pair of hands cannot stop rushing water.,Ни одна пара рук не сможет остановить стремительный поток воды.
 line-659,,但能轻松把水泼得更远。,But they can easily spray the water further.,Но зато легко разбрызгать её дальше.
-line-661,,Logos，如果我们能把腐败“稀释”呢？,"What if we 'diluted' the rot, Logos?","Логос, что если мы «разбавим» гниение?"
+line-661,,Logos，如果我们能把腐败“稀释”呢？,"What if we 'diluted' the rot, Logos?","Logos, что если мы «разбавим» гниение?"
 line-675,玛嘉烈,坚持住，你会好的。,Hang in there. You'll get better.,"Держись, тебе станет лучше."
 line-678,受伤的士兵,呀啊啊啊啊啊啊啊啊啊我这是会好的样子吗？,AAAARRRRRGGGGHHHHH!!! DO I LOOK LIKE I'LL GET BETTER TO YOU?!,"ААААРРРРРГГГГХХХХ!!! Я ЧТО, ПОХОЖ НА ЧЕЛОВЕКА, КОТОРОМУ СКОРО СТАНЕТ ЛУЧШЕ?!"
 line-680,玛嘉烈,疗愈法术施放得太快就会这样，是正常的。,A natural effect of rapidly applying healing Arts.,"Целебные искусства так работают при поспешном применении, это нормально."
@@ -344,7 +344,7 @@ line-818,,“滋，滋滋，滋——”,'Bzzz—bzzzz—',"«Крш, крш, к
 line-819,,“可......希......滋滋——”,'Clo—sure—bzzz',«Кло... зу... крш-»
 line-821,可露希尔,稍微能听清一些了！但还是不够......,I'm getting a signal! But it's still not enough...,Я поймала сигнал! Но этого все ещё недостаточно...
 line-832,Misery,现在呢？,How about this?,А теперь?
-line-834,可露希尔,清晰多了！Misery先生，你是怎么......,"That's what I'm talking about! Wait, Misery? How did you...?","Вот о чём я говорю! Подожди, Мизери? Как ты...?"
+line-834,可露希尔,清晰多了！Misery先生，你是怎么......,"That's what I'm talking about! Wait, Misery? How did you...?","Вот о чём я говорю! Подожди, Misery? Как ты...?"
 line-836,Misery,我的刀刃能破开浓雾，给讯息创造通路。,I can cut a path through the fog for communications.,"Мои клинки могут рассекать туман, создавая проход для сообщений."
 line-838,可露希尔,太好了，声音都回来了——,Great! Now we can hear what—,"Отлично! Теперь мы можем услышать, что—"
 line-841,号角,典范军第三术师营，跟我回防阵线后面钻出来的食腐者！,3rd Caster Battalion! Engage the Nachzehrer emerging from behind the lines!,"3-й батальон кастеров, за мной! Нахцехреры прорвались в тыл!"
@@ -401,7 +401,7 @@ line-1001,Logos,“止息”！,'Perish.',«Упокойся»!
 line-1005,,你感到熟悉。,You feel a sense of deja vu.,Ты чувствуешь нечто знакомое.
 line-1006,,并不是你又回想起了什么，而是你无比清晰地意识到，自己的生命又一次变得如此渺小而脆弱。,"It is not that any memories came back to you. It is that, once again, you sense how tiny and frail your life is.","Это не воспоминания о чем-то конкретном, просто ты с предельной ясностью осознаешь, что твоя жизнь вновь стала такой ничтожной и хрупкой."
 line-1007,,不过是原野上的一根草芥，在死亡面前，与万千草芥有何区分？你们一样会化作来年新芽的养分。,A blade of grass in the wilderness. What is one blade or a thousand in the presence of death? You will all become nutrition for next year's sprouts.,"Всего лишь травинка в поле, чем ты отличаешься от тысяч других перед лицом смерти? Вы все так же станете удобрением для новых ростков следующего года."
-line-1008,,枯朽的浪潮越过阿米娅的黑色帷幕、Mon3tr的庞大身躯与Logos的咒言障壁，向你涌来。,"The tide of rot crosses Amiya's black curtain, Mon3tr's massive frame, and Logos's wall of incantations, rushing towards you.","Волна гниения пересекает чёрную завесу Амии, массивное тело Mon3tr'а и стену заклинаний Логоса, устремляясь прямо на вас."
+line-1008,,枯朽的浪潮越过阿米娅的黑色帷幕、Mon3tr的庞大身躯与Logos的咒言障壁，向你涌来。,"The tide of rot crosses Amiya's black curtain, Mon3tr's massive frame, and Logos's wall of incantations, rushing towards you.","Волна гниения пересекает чёрную завесу Амии, массивное тело Mon3tr и стену заклинаний Logos, устремляясь прямо на вас."
 line-1009,,下一秒，它戛然而止。,"The next instant, it comes to an abrupt halt.",В следующую секунду она внезапно остановилась.
 line-1015,孽茨雷,是你。,It is you.,Это ты.
 line-1018,,是我。;怎么？,It is me.;What?,Это я.;Что?
@@ -443,7 +443,7 @@ line-1103,,还有......食腐者之王？,And... the Nachzehrer King?,А как 
 line-1106,Logos,我的哨音会吹散浓雾。,My whistle shall disperse the fog.,Мой свист разгонит туман.
 line-1108,Logos,若此战可胜，结束的欢愉绝不只由我们独享。,"If we triumph, we will not celebrate victory alone.","Если в этой битве можно победить, то радость завершения достанется не только нам."
 line-1112,,你看到浓雾中隐约的步行战车，昂首冲上天际的蒸汽骑士，并肩作战的典范军和联军士兵——,"Through the fog, you can see the faint silhouette of a tank, the gushing steam of a Steam Knight, Exemplars and alliance soldiers fighting side-by-side—","Ты видишь смутные очертания техники в тумане, Парового рыцаря, взмывающего в небо, сражающихся плечом к плечу солдат Экземпляров и союзников —"
-line-1113,,而你的耳边不断响起可露希尔和维什戴尔等人的通讯——,"You hear the communications of Closure, Wiš'adel, and the others—","А в ушах непрерывно звучат сообщения от Клозур, Виш'адэль и других —"
+line-1113,,而你的耳边不断响起可露希尔和维什戴尔等人的通讯——,"You hear the communications of Closure, Wiš'adel, and the others—","А в ушах непрерывно звучат сообщения от Клозур, Вишадель и других —"
 line-1114,,许多人正为了同一个目标而战......,All of them fighting for the same end...,Многие сражаются ради одной и той же цели...
 line-1118,,——终结战争。,—An end to this war.,— закончить войну.
 line-1120,,我们去见特雷西斯。,Let's go meet Theresis.,Мы идём к Терезису.

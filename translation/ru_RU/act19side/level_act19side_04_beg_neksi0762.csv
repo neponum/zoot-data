@@ -5,13 +5,13 @@ __episode__,,Episode ID,,act19side
 __chapter__,,Chapter Name,activities/act19side/level_act19side_04_beg,无人的小巷
 ,,,,
 char-1,塞雷娅,塞雷娅,Saria,Сария
-char-2,霍尔海雅,霍尔海雅,Ho'olheyak,Хо'олхейак
+char-2,霍尔海雅,霍尔海雅,Ho'olheyak,Хоолхейак
 char-3,醉醺醺的男人,醉醺醺的男人,Drunkard,Пьяница
 char-4,酒吧客人,酒吧客人,Bar Patron,Посетитель бара
-char-5,莱茵实验员,莱茵实验员,Rhine Lab Tech,Лаборант Rhine Lab
+char-5,莱茵实验员,莱茵实验员,Rhine Lab Tech,Лаборант Рейн Лаб
 char-6,斐尔迪南,斐尔迪南,Ferdinand,Фердинанд
 char-7,Mechanist,Mechanist,Mechanist,Mechanist
-char-8,莱茵防卫科成员,莱茵防卫科成员,Rhine Defense Section Employee,Член охраны Rhine Lab
+char-8,莱茵防卫科成员,莱茵防卫科成员,Rhine Defense Section Employee,Член охраны Рейн Лаб
 char-9,玛丽,玛丽,Mary,Мэри
 char-10,埃琳娜,埃琳娜,Elena,Елена
 char-11,赫默,赫默,Silence,Сайленс
@@ -89,13 +89,13 @@ line-154,莱茵实验员,好……好。,Yes... sir.,Хо... хорошо.
 line-158,斐尔迪南,……,......,...
 line-160,莱茵实验员,先生……,Sir...,Сэр...
 line-162,斐尔迪南,老山羊居然真的没有耍花招。,"I'll be damned, the old goat wasn't playing.",Старый козёл и правда не мухлевал.
-line-163,斐尔迪南,剩下就看霍尔海雅的了……她最好给我拦住塞雷娅。,It's all up to Ho'olheyak now... she'd better take care of Saria.,Всё остальное зависит от Хо'олхейак... Ей лучше остановить Сарию.
+line-163,斐尔迪南,剩下就看霍尔海雅的了……她最好给我拦住塞雷娅。,It's all up to Ho'olheyak now... she'd better take care of Saria.,Всё остальное зависит от Хоолхейак... Ей лучше остановить Сарию.
 line-177,霍尔海雅,能被前莱茵防卫科主任称作不得不解决的问题，我很荣幸。,I'm honored that the former head of Rhine's Defense Section thinks I'm a problem.,"Для меня большая честь называться проблемой, которую должен решить бывший директор Рейна."
 line-179,塞雷娅,你究竟是什么人？,Who are you?,Кто ты?
 line-181,霍尔海雅,你没见过我，塞雷娅主任。,"We've never met, Director Saria.","Мы раньше не встречались, директор Сария."
 line-182,霍尔海雅,但我听过你的许多事迹。,But I've heard of you.,Но я много слышала о ваших подвигах.
-line-183,霍尔海雅,莱茵生命创始人之一，同样毕业于特里蒙理工大学，取得生物医学工程博士学位以后，却几乎在学界销声匿迹，转而负责防卫科——,"One of the co-founders of Rhine Lab, graduate of the Trimounts Institute of Technology, who left academia after earning her PhD in biomedical engineering to become the head of the Defense Section.","Один из основателей Rhine Lab, также выпускница технологического университета Тримаунтса, получившая докторскую степень по биомедицинской инженерии, но практически исчезнувшая из академических кругов ради работы в отделе защиты—"
-line-184,霍尔海雅,提到莱茵生命，人人皆知克丽斯腾·莱特，却很少有人听说过你。,"Everyone associates Rhine Lab with Kristen Wright, but few have heard of you.","Когда упоминают Rhine Lab все вспоминают Кристен Райт, но мало кто слышал о вас."
+line-183,霍尔海雅,莱茵生命创始人之一，同样毕业于特里蒙理工大学，取得生物医学工程博士学位以后，却几乎在学界销声匿迹，转而负责防卫科——,"One of the co-founders of Rhine Lab, graduate of the Trimounts Institute of Technology, who left academia after earning her PhD in biomedical engineering to become the head of the Defense Section.","Один из основателей Рейн Лаб, также выпускница технологического университета Тримаунтса, получившая докторскую степень по биомедицинской инженерии, но практически исчезнувшая из академических кругов ради работы в отделе защиты—"
+line-184,霍尔海雅,提到莱茵生命，人人皆知克丽斯腾·莱特，却很少有人听说过你。,"Everyone associates Rhine Lab with Kristen Wright, but few have heard of you.","Когда упоминают Рейн Лаб все вспоминают Кристен Райт, но мало кто слышал о вас."
 line-185,霍尔海雅,这么多年来，你有过不甘心吗？,"Have you never resented that, after all these years?",И за столько лет вы ни разу не испытали горечи и обиды?
 line-187,塞雷娅,没这个必要。,That's unnecessary.,Это излишне.
 line-189,塞雷娅,这是我自己的选择，也是我的职责所在。,"I made my choice, I took up my duty.",Это мой осознанный выбор и мой долг.
@@ -128,7 +128,7 @@ line-297,Mechanist,为了性命考虑，该走的是各位。,Hitting the road w
 line-304,酒吧客人,天哪！天花板快塌了，快、快走！,Shit! The ceiling's coming down! Go! Go!,"Боже мой! Потолок рушится, уходим, быстрее!"
 line-310,Mechanist,博士！你没事吧？,"Are you okay, Doctor?",Доктор! Вы целы?
 line-313,,我没事。;这位线人先生问题比较大。,I'm fine.;I'm more worried about the informant.,Я в порядке.; Я больше беспокоюсь о информаторе.
-line-315,,Mechanist，去帮塞雷娅。,"Go help Saria, Mechanist.","Механист, помоги Сарии."
+line-315,,Mechanist，去帮塞雷娅。,"Go help Saria, Mechanist.","Mechanist, помоги Сарии."
 line-343,霍尔海雅,这么急着结束战斗啊……,So eager to stop the fight...,Так спешишь закончить бой...
 line-344,霍尔海雅,你难道不想让我多陪你一会吗？,Won't you stay a while longer?,"Разве ты не хочешь, чтобы я побыла с тобой подольше?"
 line-345,霍尔海雅,在哥伦比亚，能扛下你一击的人不多吧？,There aren't many in Columbia who could take a hit from you and stay standing.,"В Колумбии не так много людей, способных выдержать твой удар, верно?"
@@ -142,13 +142,13 @@ line-369,塞雷娅,你有太多问题。我必须把你留下。,Too many questi
 line-371,Mechanist,塞雷娅！,Saria!,Сария!
 line-374,,塞雷娅看清楚了自己同僚所在的位置。敌人的后路已被封锁。,Saria takes note of her position and that of her colleague. The enemy's path of retreat is cut off.,"Сария увидела, где находится её коллега. Пути к отступлению врага были отрезаны."
 line-375,,并不需要更多交流，她不假思索地施放了源石技艺。,There is no need to drag this out. She unleashes her Arts without hesitation.,"Ей не нужно было больше ничего обсуждать, она без колебаний применила свои искусства."
-line-376,,珐琅质的坚壁瞬间显现，手刀直指霍尔海雅的要害。,"An enamel wall appears out of thin air, and Saria takes aim at Ho'olheyak's vitals.","Эмалевая стена мгновенно появилась, а ребро ладони было направлено прямо в жизненно важные органы Хо'олхейак."
+line-376,,珐琅质的坚壁瞬间显现，手刀直指霍尔海雅的要害。,"An enamel wall appears out of thin air, and Saria takes aim at Ho'olheyak's vitals.","Эмалевая стена мгновенно появилась, а ребро ладони было направлено прямо в жизненно важные органы Хоолхейак."
 line-384,霍尔海雅,看来谈话该结束了。,Looks like the time for talk is over.,"Кажется, наш разговор подошёл к концу."
 line-386,塞雷娅,你不躲？,You're not dodging?,Ты не уклонишься?
 line-388,霍尔海雅,没这个必要。我从来不做成功率太低的事。,Don't need to. I'm not in the habit of taking long shots.,"Нет необходимости. Я никогда не делаю того, у чего низкий шанс на успех."
 line-391,,塞雷娅的五指本该触碰到对面之人的腹部。,Saria's fingers should have found her opponent's abdomen.,Пальцы Сарии должны были коснуться живота противницы.
 line-392,,奇怪的是，那并非人类血肉的触感。,But she does not feel the warm touch of soft flesh.,"Странно, но это было совсем не похоже на прикосновение к человеческой плоти."
-line-393,,霍尔海雅的脸上丝毫没有疼痛的痕迹。,There is no sign of pain on Ho'olheyak's face.,На лице Хо'олхейак не было ни следа боли.
+line-393,,霍尔海雅的脸上丝毫没有疼痛的痕迹。,There is no sign of pain on Ho'olheyak's face.,На лице Хоолхейак не было ни следа боли.
 line-394,,她甚至凑得更近，嘴唇几乎触碰到了塞雷娅的耳廓。,"She leans forward, her lips nearly touching Saria's ear.","Она даже подалась ближе, и её губы почти коснулись уха Сарии."
 line-396,霍尔海雅,塞雷娅，不管你信不信，我真的只是想找你聊聊。,"Believe it or not, Saria, I just wanted to chat.","Сария, хочешь верь, хочешь нет, но я правда хотела просто поговорить."
 line-397,霍尔海雅,我对你很好奇……我对莱茵生命很好奇。,I'm curious about you... about Rhine Lab.,Мне любопытно узнать о вас... о Рейне.
@@ -224,7 +224,7 @@ line-551,埃琳娜,你不是项目成员，除非你向公司提出申请……,
 line-553,赫默,别再用这样的说辞搪塞我了。,Stop dodging the question.,Хватит кормить меня этими отговорками.
 line-555,埃琳娜,……,......,...
 line-557,赫默,我知道你跟我隐瞒了很多事。,I know you're hiding a lot from me.,"Я знаю, что ты многое от меня скрываешь."
-line-558,赫默,我并不生气。我们是朋友，也是同事。莱茵生命的保密规定一向严格，规则之外，每个人也习惯于隐藏自己的真实想法。,"I'm not angry. We're friends, and we're colleagues. Rhine Lab has strict rules on confidentiality, and all of us are used to hiding our opinions, rules or no rules.","Я не сержусь. Мы друзья и коллеги. В Rhine Lab правила секретности всегда были строгими, и за их рамками все привыкли скрывать свои истинные мысли."
+line-558,赫默,我并不生气。我们是朋友，也是同事。莱茵生命的保密规定一向严格，规则之外，每个人也习惯于隐藏自己的真实想法。,"I'm not angry. We're friends, and we're colleagues. Rhine Lab has strict rules on confidentiality, and all of us are used to hiding our opinions, rules or no rules.","Я не сержусь. Мы друзья и коллеги. В Рейн Лаб правила секретности всегда были строгими, и за их рамками все привыкли скрывать свои истинные мысли."
 line-560,埃琳娜,奥利维亚，我不是……,"Olivia, I'm not...","Оливия, я не..."
 line-562,赫默,你不是故意的。,You're not doing it on purpose.,Ты не специально.
 line-563,赫默,我知道。我怎么可能不知道？,I know. How could I not?,Я знаю. Как я могла не знать?
@@ -292,8 +292,8 @@ line-717,塞雷娅,我并不计较任意一场战斗的输赢。,I'm not concern
 line-719,Mechanist,……我明白博士的意思。,...I get what the Doctor is saying.,"...Я понял, что имеет в виду доктор."
 line-720,Mechanist,那个黎博利赢不了我们，但也不至于输得那么快。,That Liberi isn't strong enough to beat us.,Эта Либери не настолько сильна что бы одолеть нас.
 line-721,Mechanist,她至少还能再坚持个三分钟左右。,But she's not so weak that she couldn't hold out for a few minutes.,Но она могла продержаться как минимум ещё минуты три.
-line-724,,又或者，她可以在Mechanist赶来之前撤走。,She could have gotten away before Mechanist arrived.,"Или она могла отступить до того, как подоспел Механист."
-line-726,,她像是故意等Mechanist和我赶到。;她像是故意留下什么信息。,Seems like she was waiting for Mechanist and I to arrive.;Seems like she intended to leave a message behind.,"Похоже, она ждала нашего с Механистом прибытия.; Похоже, она хотела оставить какое-то сообщение."
+line-724,,又或者，她可以在Mechanist赶来之前撤走。,She could have gotten away before Mechanist arrived.,"Или она могла отступить до того, как подоспел Mechanist."
+line-726,,她像是故意等Mechanist和我赶到。;她像是故意留下什么信息。,Seems like she was waiting for Mechanist and I to arrive.;Seems like she intended to leave a message behind.,"Похоже, она ждала нашего с Mechanist прибытия.; Похоже, она хотела оставить какое-то сообщение."
 line-729,塞雷娅,她想引我们进这条巷子。,She's luring us into the alley.,Она хочет заманить нас в этот переулок.
 line-731,Mechanist,那我们还要进去吗？,Should we still go?,Тогда мы всё равно пойдём туда?
 line-734,,进。,Yes.,Да.

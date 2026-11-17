@@ -75,12 +75,17 @@ def main() -> int:
                         conflicts.append(f"{filename} [{row_id}] — в строке нет пятой колонки")
                         continue
                     current = row[col]
+                    if current == new:
+                        # правка уже применена ранее — считаем успехом (идемпотентность)
+                        applied += 1
+                        seen.add(row_id)
+                        continue
                     if current == old:
                         new_row[col] = new
                     elif old in current:
                         # частичная правка: «было» — уникальный фрагмент поля
                         new_row[col] = current.replace(old, new)
-                    elif new == current or (new in current and old not in current):
+                    elif new in current and old not in current:
                         # правка уже применена ранее — считаем успехом
                         applied += 1
                         seen.add(row_id)

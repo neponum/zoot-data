@@ -12,7 +12,7 @@ char-5,Mon3tr,Mon3tr,Mon3tr,Mon3tr
 char-6,赦罪师直属卫兵,赦罪师直属卫兵,Confessarius Guard,Личный страж Исповедника
 char-7,赦罪师,赦罪师,Confessarius,Конфессарий
 char-8,？？？,？？？,???,???
-char-9,特雷西斯,特雷西斯,Theresis,Тересис
+char-9,特雷西斯,特雷西斯,Theresis,Терезис
 char-10,费斯特,费斯特,Feist,Фест
 char-11,洛洛,洛洛,Rockrock,Рокрок
 char-12,可露希尔,可露希尔,Closure,Кложер
@@ -26,13 +26,13 @@ line-14,凯尔希,停泊完成。,Docking complete.,Швартовка заве�
 line-16,华法琳,没什么意外情况......呼，你是不是也能稍微休息一下了？,Nothing out of the ordinary... Phew. Maybe you should take a break now?,"Никаких неожиданностей... фух, может, теперь ты сможешь хоть немного отдохнуть?"
 line-18,华法琳,还是说，你准备马上......,Or are you going to start...,Или ты собираешься сразу же...
 line-20,凯尔希,......安静。,Quiet.,...Тише.
-line-26,样貌奇特的老者,......凯尔希女勋爵，好久不见。,"Dame Kal'tsit, it's been a while...","...Леди Кельси, давно не виделись."
+line-26,样貌奇特的老者,......凯尔希女勋爵，好久不见。,"Dame Kal'tsit, it's been a while...","...Леди Кальцит, давно не виделись."
 line-28,华法琳,这这这腐烂的味道......,T-Th-This rotten smell...,Этот... этот запах гниения...
 line-30,样貌奇特的老者,血魔。你竟然披着医者的外袍......真稀奇。,A Vampire. In a doctor's gown too... How strange.,Сангвинарк. И ты носишь одеяние медика... Как любопытно.
 line-32,华法琳,嘶......,*Hiss*...,Ссс...
 line-34,样貌奇特的老者,收起你的尖牙吧。,Retract your fangs.,Убери свои клыки.
 line-36,样貌奇特的老者,就连最古老的红眼魔都不敢触碰我的血肉，他们都是胆小鬼，唯恐这些翻腾的怨怒会蚀烂他们的牙根。,"Not even the oldest red eyes dare to approach my flesh. They are cowards all, and fear my seething anger could cause their fangs to rot.","Даже самые древние красноглазые демоны не смеют коснуться моей плоти; они трусы, опасающиеся, что этот клокочущий гнев разъест корни их зубов."
-line-38,华法琳,凯尔希，能让我一下子控制不住本能的萨卡兹......有几个？,"Kal'tsit, how many Sarkaz are there who could cause me to lose my composure, even for a moment?","Кельси, сколько таких сарказов, из-за которых я могу потерять контроль над своими инстинктами, вообще существует?"
+line-38,华法琳,凯尔希，能让我一下子控制不住本能的萨卡兹......有几个？,"Kal'tsit, how many Sarkaz are there who could cause me to lose my composure, even for a moment?","Кальцит, сколько таких сарказов, из-за которых я могу потерять контроль над своими инстинктами, вообще существует?"
 line-40,凯尔希,至少你眼前这位算一个。,"There's at least one, right in front of you.","По крайней мере, тот, что перед тобой, — один из них."
 line-42,凯尔希,我已许久未见萨卡兹古老的英雄行走于大地之上。是什么缘由令阁下来到这片荒地，食腐者的王？,"It's been a long time since I last saw an old Sarkaz hero walking Terra. I presume there must be a reason that you are gracing these barrenlands with your presence, King of the Nachzehrer?","Я давно не видела, чтобы древние герои сарказов ступали по этой земле. Что привело вас в эти пустоши, Король Падальщиков?"
 line-44,样貌奇特的老者,你可以暂且当我是来拜访老朋友。,You could say I'm here to visit an old friend.,"Можешь считать, что я пришел навестить старого друга."
@@ -49,11 +49,11 @@ line-64,样貌奇特的老者,告诉我——,Tell me—,Скажи мне —
 line-66,样貌奇特的老者,杀死了最后一只纯血温迪戈的，是什么？,What killed the last pure-blooded Wendigo?,что убило последнего чистокровного вендиго?
 line-68,凯尔希,......,......,...
 line-71,样貌奇特的老者,勋爵，回答我！,"Answer me, Dame!","Леди, отвечай мне!"
-line-73,华法琳,凯尔希，你你你快让Mon3tr出来啊！！他要动手了！,Kal'tsit! H-Hu-Hurry up and get Mon3tr out! He's going to strike!,"Кельси, ну же, вызови Mon3tr!! Он собирается атаковать!"
+line-73,华法琳,凯尔希，你你你快让Mon3tr出来啊！！他要动手了！,Kal'tsit! H-Hu-Hurry up and get Mon3tr out! He's going to strike!,"Кальцит, ну же, вызови Mon3tr!! Он собирается атаковать!"
 line-75,华法琳,本舰就在旁边，我们不能......,The landship is right there! We can't just...,"Наш корабль совсем рядом, мы не можем..."
 line-77,凯尔希,......食腐者之王。,"Hear me, Nachzehrer King.",...Король Падальщиков.
 line-79,凯尔希,我不会在这里与你战斗。,I will not fight you here.,Я не буду сражаться с тобой здесь.
-line-81,凯尔希,博卓卡斯替已经走出了困住他一生的樊笼，我不会用一场没有结果的暴力玷污他最后的决心。,Buldrokkas'tee has departed the cage that had confined him for his entire life. I will not tarnish his last wish with pointless violence.,"Патриот уже вырвался из клетки, которая сковывала его всю жизнь, и я не стану осквернять его последнее решение насилием, которое не приведет ни к чему."
+line-81,凯尔希,博卓卡斯替已经走出了困住他一生的樊笼，我不会用一场没有结果的暴力玷污他最后的决心。,Buldrokkas'tee has departed the cage that had confined him for his entire life. I will not tarnish his last wish with pointless violence.,"Болдракасти уже вырвался из клетки, которая сковывала его всю жизнь, и я не стану осквернять его последнее решение насилием, которое не приведет ни к чему."
 line-84,样貌奇特的老者,这就是你口中祭奠一位萨卡兹英雄的方式吗？这样丑陋的......逃避？,Is this your way of commemorating a Sarkaz hero? By running away... so loathsomely?,Вот как ты чтишь память героя сарказов? Столь уродливым... бегством?
 line-86,凯尔希,......,......,...
 line-88,凯尔希,我没有逃避。,I am not running away.,Я не бегу.
@@ -61,12 +61,12 @@ line-90,凯尔希,我给出了你要的回答，就如当初那位温迪戈想�
 line-92,凯尔希,再说一次。食腐者之王，我拒绝与你在此动武。,"I will say it again, Nachzehrer King. I refuse to fight you here.","Повторяю ещё раз. Король Падальщиков, я отказываюсь сражаться с тобой здесь."
 line-94,凯尔希,你们啖下敌人的血肉，将他们的悲嚎与悔恨纳入自己的身体，以此来作为下一次战斗的食粮。,You feed on the flesh of your enemies and swallow their cries and regrets to fuel your next battle.,"Вы пожираете плоть своих врагов, впитывая в себя их скорбь и сожаления, чтобы использовать это как пищу для следующей битвы."
 line-96,凯尔希,而我们并不是敌人。我们有过并肩的时光，也会因暂时的立场不同而不得不刀剑相向。,"Yet we are not enemies. There were times when we fought alongside each other, and there were also times when we had to raise swords against each other over differing opinions.","Но мы — не враги. Мы провели немало времени бок о бок, и нам ещё придется скрестить мечи из-за временных разногласий в позициях."
-line-98,凯尔希,这同样适用于当时的罗德岛与整合运动的博卓卡斯替——,"Likewise, this applies to Rhodes Island and Buldrokkas'tee when he sided with Reunion.","Это в равной степени относится и к тем отношениям, что были между Родосом и Патриотом из «Воссоединения» —"
+line-98,凯尔希,这同样适用于当时的罗德岛与整合运动的博卓卡斯替——,"Likewise, this applies to Rhodes Island and Buldrokkas'tee when he sided with Reunion.","Это в равной степени относится и к тем отношениям, что были между Родосом и Болдракасти из «Воссоединения» —"
 line-100,凯尔希,就像你见证了她的逝去一样，我见证了一位温迪戈的精魂回归卡兹戴尔。,"Just as you witnessed her passing, I witnessed the return of a Wendigo soul to Kazdel.","точно так же, как ты был свидетелем её ухода, я была свидетелем того, как дух вендиго вернулся в Каздель."
 line-102,样貌奇特的老者,你说，你是那个见证者。,You say you are his witness.,"Ты говоришь, что была тем свидетелем."
 line-104,凯尔希,我是。,I am.,Я была.
 line-106,样貌奇特的老者,是他自己选择了你？,And he chose you himself?,Он сам выбрал тебя?
-line-108,凯尔希,博卓卡斯替......在最后的时刻，他想要一位相称的对手，也想要一位能够对话的故友。,"In his final moments... Buldrokkas'tee wanted a fitting opponent, and a friend to talk to.","Патриот... в свои последние минуты он искал достойного противника и старого друга, с которым можно было бы поговорить."
+line-108,凯尔希,博卓卡斯替......在最后的时刻，他想要一位相称的对手，也想要一位能够对话的故友。,"In his final moments... Buldrokkas'tee wanted a fitting opponent, and a friend to talk to.","Болдракасти... в свои последние минуты он искал достойного противника и старого друга, с которым можно было бы поговорить."
 line-110,样貌奇特的老者,哈......哈哈哈！,Hah... hahahaha!,Ха... ха-ха-ха!
 line-112,样貌奇特的老者,好。你的答案，我收下了。,Very well. I accept your answer.,Хорошо. Я принимаю твой ответ.
 line-114,样貌奇特的老者,......你也出来吧，赦罪师。,"Now, you show yourself, Confessarius.","...Выходи и ты, Исповедник."
@@ -81,7 +81,7 @@ line-132,闪灵,......,......,...
 line-134,样貌奇特的老者,忤逆的后果，你真能承担？,Can you carry the burden of your disobedience?,Ты действительно сможешь вынести последствия неповиновения?
 line-136,闪灵,......无关我能不能。自我出生起，那些罪孽就一直在我身上。,"It doesn't matter whether I can or cannot. Since the moment I was born, I have carried these sins.","...Дело не в том, смогу ли я. С самого моего рождения эти грехи неотступно следуют за мной."
 line-138,样貌奇特的老者,不错！你比在伦蒂尼姆戴着面具的那个要有趣一点。,Exactly! You fascinate me more than the masked one in Londinium!,"Неплохо! Ты куда интереснее той, что носит маску в Лондиниуме."
-line-140,样貌奇特的老者,还有那位年轻的大女妖。他不在这里？,"And the Great Banshee, the young one. Is he not here?",А как же та юная Банши? Его здесь нет?
+line-140,样貌奇特的老者,还有那位年轻的大女妖。他不在这里？,"And the Great Banshee, the young one. Is he not here?",А как же тот юный Банши? Его здесь нет?
 line-142,样貌奇特的老者,他虽然年轻，但被他母亲教得很好。假如有他在，你们的胜算还会多上几分。,"He is young in years, but his mother taught him well. If he were here, your odds would be a fair bit higher.","Он хоть и молод, но мать хорошо его воспитала. Если бы он был здесь, ваши шансы на победу были бы куда выше."
 line-144,凯尔希,你的怒意已经淡去了，食腐者之王。,"Your anger has quelled, Nachzehrer King.","Твой гнев поутих, Король Падальщиков."
 line-146,样貌奇特的老者,这并不意味着我不想杀死你。,That does not mean I do not wish to kill you.,"Это не значит, что я не хочу тебя убить."
@@ -111,14 +111,14 @@ line-194,样貌奇特的老者,在我亲眼见到那顶黑冠之前，我又怎�
 line-196,凯尔希,你会看见的。,You will.,Ты это увидишь.
 line-198,凯尔希,她会超出你......不，超出我们所有人的想象。,"She will surpass what you... no, what any of us could ever imagine.","Она превзойдет твои... нет, превзойдет ожидания нас всех."
 line-200,样貌奇特的老者,......朋友之间的交谈到此为止了。,Let's put an end to our friendly conversation.,...На этом наш разговор между друзьями закончен.
-line-202,样貌奇特的老者,不老的勋爵，特立独行的血魔，还有......离群的赦罪师。,"An eternally young dame, a free-willed vampire, and... a Confessarius who left her kind.","Вечно юная леди, своевольный сангвинарк и... отбившаяся от своих Исповедник."
+line-202,样貌奇特的老者,不老的勋爵，特立独行的血魔，还有......离群的赦罪师。,"An eternally young dame, a free-willed vampire, and... a Confessarius who left her kind.","Вечно юная леди, своевольный сангвинарк и... отбившаяся от своих Исповедница."
 line-204,样貌奇特的老者,我们伦蒂尼姆见。,We shall meet again in Londinium.,Увидимся в Лондиниуме.
-line-209,华法琳,呼......凯尔希，他走了。,"Phew... He's gone, Kal'tsit.","Фух... Кельси, он ушел."
+line-209,华法琳,呼......凯尔希，他走了。,"Phew... He's gone, Kal'tsit.","Фух... Кальцит, он ушел."
 line-211,华法琳,不瞒你说，我刚才血液流速都变了。虽然我已经活了几百年，但我还有很多事情没有做完。,"Truth be told, that really got my blood pumping. I've lived for a few centuries now, but there are still a lot of things I haven't finished.","Не буду скрывать, у меня пульс подскочил. Хотя я живу уже сотни лет, у меня всё ещё много невыполненных дел."
 line-213,闪灵,......在他眼中，正式的战场在别处。,In his eyes... the real battlefield lies elsewhere.,...В его глазах настоящее поле битвы находится в другом месте.
 line-215,闪灵,这是他放过罗德岛的唯一理由。,That's the only reason he let Rhodes Island be.,"Это единственная причина, по которой он пощадил Родос."
 line-217,华法琳,我还说什么不想打回卡兹戴尔......我不去找麻烦，麻烦也会自己找上门啊！,"And I was just saying I don't want to go back to Kazdel... Even if I don't go looking for trouble, trouble's knocking on my door!","А я-то думала, что не хочу возвращаться в Каздель... Но даже если я не ищу неприятностей, они сами находят меня!"
-line-219,华法琳,凯尔希，像这种情况，不能再发生了。否则的话，等你们离开以后，我很难保证罗德岛的安全。,"Kal'tsit, we can't let something like this happen again. Otherwise, I'm not sure I can guarantee Rhodes Island's safety. We could be in trouble the second you two leave the ship.","Кельси, такое больше не должно повториться. Иначе я не смогу гарантировать безопасность Родоса, когда вы уйдёте."
+line-219,华法琳,凯尔希，像这种情况，不能再发生了。否则的话，等你们离开以后，我很难保证罗德岛的安全。,"Kal'tsit, we can't let something like this happen again. Otherwise, I'm not sure I can guarantee Rhodes Island's safety. We could be in trouble the second you two leave the ship.","Кальцит, такое больше не должно повториться. Иначе я не смогу гарантировать безопасность Родоса, когда вы уйдёте."
 line-221,凯尔希,......,......,...
 line-223,凯尔希,我们是该启程了。,It's time for us to depart.,Нам пора в путь.
 line-225,凯尔希,闪灵，你的决定是？,"Shining, what's your decision?","Шайнинг, что ты решила?"
@@ -163,7 +163,7 @@ line-322,赦罪师,一位赦罪师的性命还不值得你用自己的命来交�
 line-324,,阴影没有任何变化。它不会移动，更不会回答。,"The shadow shows no sign of change. It does not move, much less answer.",Тень не дрогнула. Она не двигалась и тем более не отвечала.
 line-325,,赦罪师的视线穿过了那片空白，回到窗外。那里同样只有空白。,The Confessarius gazes past the swath of emptiness to the window and beyond. There is nothing but another swath of emptiness there.,Взгляд Исповедника проскользнул сквозь пустоту и вернулся к окну. Там тоже была лишь пустота.
 line-326,,一缕金芒从他纹丝不动的双手间飘了起来，一同回到了窗外稀薄的日光里。,A golden ray of light flutters from his motionless hand toward the faint sunlight outside the window.,Золотистый блик сорвался с его неподвижных рук и растворился в бледном солнечном свете за окном.
-line-328,赦罪师,等到了王座之前......你或许会撞见不止一位殿下。,When you reach the throne... you might meet much more than just His Majesty.,"Когда предстанешь перед троном... возможно, ты встретишь не одного Его Высочество."
+line-328,赦罪师,等到了王座之前......你或许会撞见不止一位殿下。,When you reach the throne... you might meet much more than just His Majesty.,"Когда предстанешь перед троном... возможно, ты встретишь не одного Его Высочества."
 line-330,赦罪师,真期待你那时候的表情啊，阿斯卡纶。,"I look forward to seeing the look on your face, Ascalon.","С нетерпением жду выражения твоего лица в тот момент, Аскалон."
 line-342,特雷西斯,这么说，他们到了。,So they have arrived.,"Значит, они прибыли."
 line-344,赦罪师直属卫兵,是的，摄政王殿下。我们的首领已在议事厅里见到了他们中的一位。,"Yes, Your Majesty. Our leader has already met one of them in the legislature.","Да, Ваше Высочество Регент. Наш глава уже встретил одного из них в зале заседаний."
@@ -174,12 +174,12 @@ line-352,赦罪师直属卫兵,我们理解您对曼弗雷德的信任，殿下�
 line-354,赦罪师直属卫兵,但我不得不强调，他目前正忙于应对各方不死心的反抗者，从结果来看，他并没有第一时间发现罗德岛的靠近。,"But I must emphasize that he is busy dealing with the rebels on all sides. Judging by the results, it seems he did not immediately detect Rhodes Island's approach.","Но я вынужден подчеркнуть, что в настоящее время он занят подавлением неугомонных повстанцев повсюду, и, судя по результатам, он не заметил приближения Родоса вовремя."
 line-356,特雷西斯,说出你的人选。,Tell me the candidates.,Назови свои варианты.
 line-358,赦罪师直属卫兵,众王对那位赝品一直心存兴趣，除了已经有所行动的那两位，血魔大君也已厌倦了与城内贵族的冗长应酬。,"The kings have shown keen interest in that fake for some time now. Aside from the two who have already begun their moves, the Sanguinarch has also grown tired of superfluous social engagements with the city's nobles.","Короли всегда проявляли интерес к той подделке. Помимо тех двоих, что уже начали действовать, Великий Сангвинарк тоже устал от бесконечных светских обязанностей в городе."
-line-360,赦罪师直属卫兵,他很乐意前往萨迪恩区，助曼弗雷德一臂之力。,"He is happy to head to Sudean, to Manfred's aid.",Он будет рад отправиться в район Сардиен и помочь Манфреду.
+line-360,赦罪师直属卫兵,他很乐意前往萨迪恩区，助曼弗雷德一臂之力。,"He is happy to head to Sudean, to Manfred's aid.",Он будет рад отправиться в район Сардин и помочь Манфреду.
 line-362,特雷西斯,提醒他。,Remind him.,Напомни ему.
 line-364,特雷西斯,一旦发现“魔王”和{@nickname}，立刻带他们来见我。,"That should he ever find the 'The Sarkaz King' and {@nickname}, bring them to me at once.","Как только обнаружите «Короля Демонов» и {@nickname}, немедленно доставьте их ко мне."
 line-366,赦罪师直属卫兵,那位女勋爵呢？当然，食腐者之王会盯着她。但我们也需要做好准备。,"What of the Dame? Of course, the Nachzehrer King will keep an eye on her, but we must be prepared too.","А как же леди? Конечно, Король Падальщиков присмотрит за ней. Но нам нужно быть готовыми."
 line-368,特雷西斯,让血魔自行处置。,Let the vampires deal with her as they see fit.,Пусть Сангвинарк распорядится сам.
-line-370,赦罪师直属卫兵,好的，殿下。大君会很期待的。,"Very well, Your Majesty. I'm sure the Prince of Blood will be elated.","Хорошо, Ваше Высочество. Великий господин будет ждать."
+line-370,赦罪师直属卫兵,好的，殿下。大君会很期待的。,"Very well, Your Majesty. I'm sure the Prince of Blood will be elated.","Хорошо, Ваше Высочество. Сангвинарк будет рад."
 line-372,赦罪师直属卫兵,此外，首领想知道，您的周围需不需要安排更多卫队？,"On another note, our leader would like to know if you would have us arrange more guards to secure your surroundings?","Кроме того, глава хотел узнать, нужно ли усилить охрану вокруг вас?"
 line-374,特雷西斯,不需要。如果有人想来找我，让他们尽管来。,"No need. If anyone wishes to call on me, let them come.","Нет необходимости. Если кто-то хочет найти меня, пусть приходят."
 line-376,赦罪师直属卫兵,还有一事......假设“她”有与那群人会面的想法，我们是否应该加以干涉？,"There is one more thing... Suppose 'she' wants to meet with that group, should we interfere?","И ещё... если у «нее» возникнет желание встретиться с теми людьми, должны ли мы вмешаться?"
@@ -193,11 +193,11 @@ line-390,赦罪师直属卫兵,但赦罪师存在的意义，就是为萨卡兹�
 line-392,特雷西斯,没有意义。,No need.,Бессмысленно.
 line-394,特雷西斯,一具受困于牢笼中的傀儡无法在战场上号令萨卡兹。,A puppet locked inside a cage cannot lead the Sarkaz on the battlefield.,"Марионетка, запертая в клетке, не может вести сарказов в бой."
 line-396,特雷西斯,告诉赦罪师，我最多说一次。,Tell the Confessarii that I will say this only once.,"Скажи Исповеднику, я повторю это в последний раз."
-line-398,特雷西斯,别再用像上面这样的说辞侮辱特蕾西娅......也别再侮辱我。,Do not ever insult Theresa again with these excuses... and do not ever insult me again.,"Больше не используй подобные оправдания, чтобы оскорбить Терезию... и не смей оскорблять меня."
+line-398,特雷西斯,别再用像上面这样的说辞侮辱特蕾西娅......也别再侮辱我。,Do not ever insult Theresa again with these excuses... and do not ever insult me again.,"Больше не используй подобные оправдания, чтобы оскорбить Терезу... и не смей оскорблять меня."
 line-410,费斯特,各位，走到这里就差不多了。,We should be nearly there.,"Народ, на этом всё."
 line-412,洛洛,......有信号。,Got a signal...,...Есть сигнал.
 line-414,费斯特,这信号的意思是......呃，紧急会议？,What does it mean... Huh? An emergency meeting?,"Этот сигнал означает... э-э, экстренное совещание?"
-line-416,费斯特,是有什么突发情况？！洛洛，我们得赶紧回去。,"Was there some kind of emergency?! Rockrock, we have to get back!","Что-то случилось?! Лоро, мы должны вернуться немедленно."
+line-416,费斯特,是有什么突发情况？！洛洛，我们得赶紧回去。,"Was there some kind of emergency?! Rockrock, we have to get back!","Что-то случилось?! Рокрок, мы должны вернуться немедленно."
 line-418,洛洛,那这些人怎么办？,What about them?,А как быть с ними?
 line-420,费斯特,指挥官的命令是把他们带到这个位置，但现在她不会有空来见他们的。,"The commander's order is to bring them to this position, but she wouldn't have time to see them now.","Приказ командира был доставить их сюда, но сейчас у нее не будет времени на встречу."
 line-422,洛洛,留下他们。,Leave them here.,Оставь их.
@@ -212,11 +212,11 @@ line-438,费斯特,我试探过他们了......,I've already tested them...,Я у
 line-440,洛洛,你是挺聪明的，我承认，但你还是太容易相信人。,"You're quite smart, I'll admit, but you trust others too easily.","Ты довольно умен, признаю, но ты слишком доверчив."
 line-442,洛洛,你再仔细看看你这些刚结识的朋友，尤其是那位也带着无人机的。,Take a closer look at your new friends. Especially the one who's also into drones.,"Приглядись внимательнее к этим друзьям, которых ты только что завел, особенно к той, что с дроном."
 line-444,可露希尔,欸欸？你是在说我吗？,Huh? Who? Me?,"Э-э, что? Это ты обо мне?"
-line-446,洛洛,她是......萨卡兹。,She's... a Sarkaz.,Она... сарказы.
-line-448,可露希尔,是啊，我是萨卡兹，怎么啦？这里也不光我是萨卡兹啊，还有......,"Yeah, I'm a Sarkaz, what's the matter? Well, I am not the only Sarkaz here, there...","Да, я сарказы, и что с того? Здесь не только я сарказы, есть и другие..."
+line-446,洛洛,她是......萨卡兹。,She's... a Sarkaz.,Она... сарказ.
+line-448,可露希尔,是啊，我是萨卡兹，怎么啦？这里也不光我是萨卡兹啊，还有......,"Yeah, I'm a Sarkaz, what's the matter? Well, I am not the only Sarkaz here, there...","Да, я сарказ, и что с того? Здесь не только я сарказ, есть и другие..."
 line-451,可露希尔,唔唔唔？阿、阿米娅？,"Hmm, huh? A-Amiya?",М-м-м? А... Амия?
 line-453,阿米娅,......,......,...
-line-455,阿米娅,是的，洛洛小姐，他们是萨卡兹，也是我们倾心信任的同伴。,"Right, Miss Rockrock. They are Sarkaz, and they are also our trusted friends.","Да, мисс Лоро, они сарказы, но они также наши верные товарищи, которым мы доверяем всем сердцем."
+line-455,阿米娅,是的，洛洛小姐，他们是萨卡兹，也是我们倾心信任的同伴。,"Right, Miss Rockrock. They are Sarkaz, and they are also our trusted friends.","Да, мисс Рокрок, они сарказы, но они также наши верные товарищи, которым мы доверяем всем сердцем."
 line-457,阿米娅,我们......与头顶那些霸占了你们家园的萨卡兹不一样。,We are not like the Sarkaz who took over your home up there.,"Мы... мы отличаемся от тех сарказов, что захватили ваш дом."
 line-459,洛洛,一样还是不一样，不是由你们说了算。,Whether they're the same is not for you to decide.,Одинаковые вы или разные — не вам решать.
 line-461,因陀罗,你这什么意思？,What's that supposed to mean?,Что это значит?
@@ -227,24 +227,24 @@ line-469,因陀罗,呃......不管你怎么说......,Ugh... It doesn't matter wh
 line-471,推进之王,我们都是一起的。,We live together. We die together.,Мы все — одно целое.
 line-474,,在这里的都是罗德岛的干员。;每一个人都值得同等的信任。 ,We are all Rhodes Island Operators.;All of them are equally trustworthy.,Здесь присутствуют все операторы Родоса. Каждый из них заслуживает одинакового доверия.
 line-477,阿米娅,就像博士说的这样......,It's just as the Doctor said...,Как сказал Доктор...
-line-479,阿米娅,洛洛小姐......我们刚才已经交换了许多信息。,Miss Rockrock... We've already exchanged plenty of intelligence.,Мисс Лоро... мы только что обменялись множеством данных.
+line-479,阿米娅,洛洛小姐......我们刚才已经交换了许多信息。,Miss Rockrock... We've already exchanged plenty of intelligence.,Мисс Рокрок... мы только что обменялись множеством данных.
 line-480,阿米娅,假如到目前为止，你们都不愿意给予我们最基本的信任的话，我们也不必勉强一起走下去了。,"If you still won't afford us the most basic trust, I don't think we should force ourselves to keep walking this tunnel together.","Если на данный момент вы не готовы оказать нам базовое доверие, то нам нет нужды идти дальше вместе."
 line-482,阿米娅,费斯特先生，罗德岛会感谢您刚才的援手。,"Mr. Feist, on behalf of Rhodes Island, thank you for assisting us earlier.","Мистер Фест, Родос благодарит вас за помощь."
 line-483,阿米娅,之后，我们会另外找路离开......,We will leave you and find our own way out.,Дальше мы найдём другой путь...
 line-485,费斯特,......等一下！,Wait!,...Подождите!
-line-487,费斯特,那个，洛洛她不是这个意思......,"Erm, that's not what Rockrock meant.","Послушайте, Лоро имела в виду не это..."
-line-489,阿米娅,我知道。我多少能体会到洛洛小姐的情绪。没有任何恨意是无来由的，我更不会也不能因此责怪她。,"I know. I can see where Miss Rockrock is coming from and how she feels. Resentment always has a root cause, and I definitely won't blame her for this.","Я знаю. Я в некоторой степени могу понять чувства мисс Лоро. Никакая ненависть не возникает из пустоты, и я уж точно не стану винить её за это."
+line-487,费斯特,那个，洛洛她不是这个意思......,"Erm, that's not what Rockrock meant.","Послушайте, Рокрок имела в виду не это..."
+line-489,阿米娅,我知道。我多少能体会到洛洛小姐的情绪。没有任何恨意是无来由的，我更不会也不能因此责怪她。,"I know. I can see where Miss Rockrock is coming from and how she feels. Resentment always has a root cause, and I definitely won't blame her for this.","Я знаю. Я в некоторой степени могу понять чувства мисс Рокрок. Никакая ненависть не возникает из пустоты, и я уж точно не стану винить её за это."
 line-491,阿米娅,从过去到现在，罗德岛一直在面临类似的问题。,"Rhodes Island has faced similar problems, both before and now.",С самого начала и по сей день Родос сталкивается с подобными вопросами.
 line-493,阿米娅,无论是由于我们的感染者身份而无法信任我们，还是因为我们与萨卡兹站在一起而对我们的动机产生怀疑，对罗德岛来说都是一样的。,"Whether the suspicion and distrust arose because we are Infected or because we stand with the Sarkaz, it's all one and the same to us.","Будь то недоверие к нам из-за нашего статуса инфицированных или сомнения в наших намерениях из-за того, что мы на стороне сарказов — для Родоса это всё одно и то же."
 line-495,阿米娅,我们会用行动证明罗德岛的立场。,We will prove Rhodes Island's position with our actions.,Мы докажем позицию Родоса своими действиями.
 line-497,阿米娅,但是......也请你们理解，我们无法接受与这些异样的眼光同行。,But... I hope you can also understand that we can't stand side by side next to someone who looks at us with such a disdainful gaze.,"Однако... пожалуйста, поймите, что мы не можем принять такие подозрительные взгляды в свой адрес."
 line-499,洛洛,......,......,...
-line-501,洛洛,你说得很好，卡特斯小姐，你是个很好的头领。但这不会改变我的看法。我也要为我的战友负责。,"Well said, Cautus. You're a fine leader, but that's not going to change my position. I am responsible for my brothers and sisters in arms too.","Ты хорошо говоришь, леди из расы Картес, ты — отличный лидер. Но это не изменит моего мнения. Я должна отвечать за своих товарищей."
+line-501,洛洛,你说得很好，卡特斯小姐，你是个很好的头领。但这不会改变我的看法。我也要为我的战友负责。,"Well said, Cautus. You're a fine leader, but that's not going to change my position. I am responsible for my brothers and sisters in arms too.","Ты хорошо говоришь, леди из расы Каутус, ты — отличный лидер. Но это не изменит моего мнения. Я должна отвечать за своих товарищей."
 line-503,洛洛,费斯特......队长，我先走一步，通知大家做好准备。你真想好了的话，就带这些人去见指挥官。,"Feist... Captain Feist. I'll get going now. Send the word out and have everyone get ready. If you've really thought it through, take these people to the commander.","Фест... капитан, я пойду вперед и дам знать остальным подготовиться. Если ты решил, веди этих людей к командиру."
 line-505,洛洛,指挥官会做出判断，到时候，不管她的命令是什么，我都会遵守。,"She will make the final decision, and whatever her orders are, I will follow them.","Командир вынесет решение, и каким бы ни был её приказ, я его исполню."
-line-507,费斯特,洛洛！,Rockrock!,Лоро!
+line-507,费斯特,洛洛！,Rockrock!,Рокрок!
 line-512,可露希尔,阿米娅，不会是我说错话，导致我们跟他们的友谊破裂了吧......？,"Amiya, did I say something wrong? Our relationship didn't break down because of me, right?","Амия, неужели я сказала что-то не то и наша дружба с ними разрушена...?"
-line-514,阿米娅,没有，可露希尔，我们是不是朋友，这要看费斯特先生怎么选。,"No, Closure. Whether or not we are friends is for Mr. Feist to decide.","Нет, Клозир, станем ли мы друзьями — зависит от решения мистера Феста."
+line-514,阿米娅,没有，可露希尔，我们是不是朋友，这要看费斯特先生怎么选。,"No, Closure. Whether or not we are friends is for Mr. Feist to decide.","Нет, Кложер, станем ли мы друзьями — зависит от решения мистера Феста."
 line-516,费斯特,......,......,...
 line-518,费斯特,来吧，罗德岛的朋友们。但愿我的判断没有出错......不然的话，我的副队长一定不会放过我，我也没脸再见指挥官。,"Come, my Rhodes Island friends. I sure hope my judgment is correct... Otherwise, my lieutenant definitely won't forgive me, and I won't be able to show my face in front of our commander again.","Пошли, друзья из Родоса. Надеюсь, я не ошибся в своем решении... иначе мой заместитель не простит меня, да и в глаза командиру я смотреть не смогу."
 line-520,阿米娅,那好，费斯特先生，我们会跟你走。正好，我也想见见你们的指挥官。,"Very well, Mr. Feist. We'll follow you. It's a good thing that I want to meet your commander too.","Хорошо, мистер Фест, мы пойдём с вами. К слову, я тоже хочу встретиться с вашим командиром."

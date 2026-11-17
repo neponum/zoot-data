@@ -8,7 +8,7 @@ char-1,阿米娅,阿米娅,Amiya,Амия
 char-2,飞空艇的“幽灵”,飞空艇的“幽灵”,Airship 'Apparition',Призрак дирижабля
 char-3,巴别塔成员,巴别塔成员,Babel Member,Член Бабеля
 char-4,将死的刺客,将死的刺客,Dying Assassin,При смерти ассасин
-char-5,特雷西斯,特雷西斯,Theresis,Тересис
+char-5,特雷西斯,特雷西斯,Theresis,Терезис
 char-6,特蕾西娅,特蕾西娅,Theresa,Терезис
 char-7,W,W,W,W
 char-8,？？？,？？？,???,???
@@ -35,12 +35,12 @@ line-72,阿米娅,抱歉，但我必须过去。,"Sorry, but I can't stop here."
 line-85,,黑色波纹自阿米娅的身边荡开，挤压着阴影。,"Black waves ripple from Amiya, suppressing the shadows.","Чёрная рябь разошлась от Амии, сдавливая тени."
 line-86,,阿米娅缓缓向前走去，无视了从身旁划过的刀刃。,"She advances slowly, ignoring the blades streaking past her.","Амия медленно двинулась вперед, игнорируя лезвия, пролетавшие мимо."
 line-88,飞空艇的“幽灵”,......,...,...
-line-89,飞空艇的“幽灵”,“魔王”......,'King of Sarkaz'...,«Король демонов»...
+line-89,飞空艇的“幽灵”,“魔王”......,'King of Sarkaz'...,«Король Демонов»...
 line-90,飞空艇的“幽灵”,你是她的继承者。,You are her successor.,Ты — её наследница.
 line-92,阿米娅,......,...,...
 line-95,,幽灵们不断地逼近阿米娅，又不断地自她身边被推开，跌落回阴影之中。,"The apparitions keep approaching Amiya, but are incessantly pushed away from her, falling back into the shadows.","Призраки непрерывно приближались к Амии, но раз за разом их отталкивало от неё, и они падали обратно в тени."
 line-96,,阿米娅往前走去。,Amiya continues forward.,Амия продолжала идти вперед.
-line-98,阿米娅,博士......凯尔希医生......特蕾西娅小姐......,Doctor... Dr. Kal'tsit... Theresa...,Доктор... Доктор Кель’цит... Госпожа Терезия...
+line-98,阿米娅,博士......凯尔希医生......特蕾西娅小姐......,Doctor... Dr. Kal'tsit... Theresa...,Доктор... Доктор Кальцит... Госпожа Тереза...
 line-106,,她触碰到了那片阴影。,She touches the shadow.,Она коснулась этой тени.
 line-107,,她看到了走廊尽头那扇彻底结晶化的门，以及直冲自己而来的刀刃。,"She sees a completely crystallized door at the corridor's end, and a blade rushing toward her.","Она увидела полностью кристаллизовавшуюся дверь в конце коридора и лезвие, летящее прямо в неё."
 line-112,,黑色在她的手掌中汇聚，随即她握住了那刀刃......,"Shades of black coagulate in her palm, and she immediately catches the incoming blade...","Чернота собралась у неё в ладонях, и затем она схватила это лезвие..."
@@ -107,7 +107,7 @@ line-290,飞空艇的“幽灵”,呵，你试图阻止殿下......唯有跨过�
 line-291,飞空艇的“幽灵”,哪怕仅剩我一人。,Even if I am the only one left.,Даже если останусь только я.
 line-295,阿米娅,......,...,...
 line-297,飞空艇的“幽灵”,你在心软。,Your heart is going soft.,Ты проявляешь слабость.
-line-298,飞空艇的“幽灵”,如果连我都不敢面对，你凭什么认为自己敢面对殿下，“魔王”！,"If you can't even face me and defeat me, what makes you think you can face Her Highness, 'King of Sarkaz'?!","Если ты не смеешь столкнуться даже со мной, с чего ты взяла, что осмелишься столкнуться с Её Высочеством, «Король демонов»!"
+line-298,飞空艇的“幽灵”,如果连我都不敢面对，你凭什么认为自己敢面对殿下，“魔王”！,"If you can't even face me and defeat me, what makes you think you can face Her Highness, 'King of Sarkaz'?!","Если ты не смеешь столкнуться даже со мной, с чего ты взяла, что осмелишься столкнуться с Её Высочеством, «Король Демонов»!"
 line-299,飞空艇的“幽灵”,你迟早要面对自己的命运。,You will eventually have to face your own fate.,Рано или поздно тебе придется встретиться со своей судьбой.
 line-301,阿米娅,......,...,...
 line-303,阿米娅,当我决定踏上这艘舰艇时，就已经下定了决心。,My mind was already made up the moment I stepped onto this airship.,"Когда я решила подняться на этот корабль, я уже приняла решение."
@@ -122,27 +122,27 @@ line-343,,我们本是需要被焚尽的腐朽，那又为何不能为您所描�
 line-344,,我们曾在巴别塔失败过一次，便不会再失败第二次。,"We failed Babel once, and it will not happen twice.","Мы однажды провалились в «Вавилоне», и больше не провалимся во второй раз."
 line-345,,我们会保护您。,We shall protect you.,Мы будем защищать вас.
 line-346,,死亡会见证我们的承诺。,Death will witness our promise.,Смерть станет свидетелем нашего обещания.
-line-347,,懦夫不会食言，特蕾西娅殿下......,"This coward will not break their promise, Your Highness Theresa...","Трусы не нарушат своего слова, Ваше Высочество Терезия..."
+line-347,,懦夫不会食言，特蕾西娅殿下......,"This coward will not break their promise, Your Highness Theresa...","Трус не нарушит своего слова, Ваше Высочество Тереза..."
 line-362,W,——？！,—?!,—?!
 line-363,W,谁在这会儿瞎玩我的手雷？,Who the hell's fooling around with my grenades?,Кто тут втихаря играет с моими гранатами?
 line-366,,不要分心，死魂灵的影子试图把你拽入黑暗中！;小心！我们似乎不能对它造成实质性伤害。,Stay focused! The revenant's shadow is trying to pull you into the darkness!;Careful! It seems like we can't harm it in any tangible way.,"Не отвлекайся, тень Пожирателя душ пытается затащить тебя в темноту! Осторожно! Кажется, мы не можем нанести ей существенный урон."
-line-372,W,啧，比起这些甩都甩不掉的鬼东西，我更讨厌那个话痨鬼一直在我耳边叨叨！,Gah. That chatty bastard pisses me off even more than these clingy sons of bitches!,"Тц, чем возиться с этой нечистью, от которой не отвяжешься, я лучше прикончу того болтуна, который постоянно бубнит у меня над ухом!"
+line-372,W,啧，比起这些甩都甩不掉的鬼东西，我更讨厌那个话痨鬼一直在我耳边叨叨！,Gah. That chatty bastard pisses me off even more than these clingy sons of bitches!,"Тц, эта нечисть, от которой не отвяжешься, ещё полбеды, но тот болтун, который постоянно бубнит у меня над ухом, просто сводит меня с ума!"
 line-373,W,老东西，你要是再不闭嘴，我非把你的老窝拆成碎片不可。,"Keep yapping, old coot, and I'll blow your nest into bits.","Старик, если ты не заткнешься, я разнесу твое логово в клочья."
 line-379,W,它的核心被那些黑色的影子死死保护着。,Those black shadows are persistently protecting its core.,Его ядро надежно защищено этими черными тенями.
 line-380,W,寻常的爆破伤不到它。,Regular bombs aren't going to do shit.,Обычный взрыв его не возьмёт.
 line-383,W,{@nickname}，它的精神压迫对你不起作用。,{@nickname}. It can't affect your mind.,"{@nickname}, его психическое давление на тебя не действует."
 line-384,W,别告诉我你什么办法都没想出来。,So you better not tell me you're out of ideas.,"Только не говори мне, что ты не придумал никакого способа."
 line-387,,......我对死魂灵并没有这么了解。;有更合适的专家能帮我们处理。,...I don't know much about revenants.;We have an expert on our side to ask for help.,"...Я не так много знаю о Пожирателях душ. У нас есть специалист, который поможет нам с этим справиться."
-line-390,W,？,?,？
-line-391,W,等等，Mon3tr躲去哪了？,"Wait, where did Mon3tr go?","Погоди, куда спрятался Монстр?"
+line-390,W,？,?,?
+line-391,W,等等，Mon3tr躲去哪了？,"Wait, where did Mon3tr go?","Погоди, куда спрятался Mon3tr?"
 line-394,,专注原本的计划，继续爆破核心舱室。;我对它有另外的安排。,"Keep to our original plan, and continue bombing the core cabin.;I gave it something else to do.","Сосредоточься на изначальном плане, продолжай взрывать отсек ядра. У меня на него другие планы."
-line-397,W,——？,—?,—？
+line-397,W,——？,—?,—?
 line-399,W,我好像猜到你的计划了。,I think I figured it out.,"Кажется, я догадалась, что ты задумал."
 line-400,W,既然如此，那不如让场面更热闹点！,"If that's the case, then let's make some noise in here!","Раз так, тогда устроим здесь настоящий фейерверк!"
 line-401,W,不过，这样我可没工夫护你了，兜帽人。,"Though I won't have time to protect you, hood.","Только вот времени прикрывать тебя, человек в капюшоне, у меня теперь нет."
 line-402,W,你自求多福吧。,So you better start praying.,Выживай как хочешь.
 line-405,,......,...,...
-line-413,,W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的气息。,"W aims her launcher up high, and the place feels increasingly dangerous with each pull of the trigger.","W подняла вверх передатчик, и каждый снаряд, вылетающий из него, излучал угрозу."
+line-413,,W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的气息。,"W aims her launcher up high, and the place feels increasingly dangerous with each pull of the trigger.","W подняла вверх гранатомёт, и каждый снаряд, вылетающий из него, излучал угрозу."
 line-414,,每一寸穹顶，每一根长柱，每一个区域......,"Every inch of the dome, every pillar, everywhere...","Каждый дюйм купола, каждая колонна, каждый сектор..."
 line-415,,爆炸物转瞬便附着于你们目之所及的所有区域。,Explosives instantly latch onto everything you see.,"Взрывчатка в одно мгновение прикрепилась ко всем поверхностям, что были в поле вашего зрения."
 line-419,,毫无意义！,Futile!,Бессмысленно!
@@ -178,7 +178,7 @@ line-525,,她看到了充斥着愤怒的投影。,She sees a projection brimming
 line-526,,死魂灵将自己的情绪凝为长矛的虚影，悬于四处。,"The revenant condenses his emotion into a phantom lance, towering above everything.","Пожиратель душ превратил свои эмоции в призрачные копья, зависшие повсюду."
 line-527,,可为何......愤怒之下还隐藏着更深的情绪？,But why... is there an emotion hidden even deeper underneath his rage?,Но почему... под яростью скрывались ещё более глубокие чувства?
 line-528,,一种无比熟悉的情绪，一种与那些已然消逝的幽灵们所共鸣的情绪。,"A feeling all too familiar, one that resonates with the vanished apparitions.","Чувство до боли знакомое, то, что резонировало с душами тех призраков, что уже исчезли."
-line-531,,异族的魔王！,Outblood King!,Чужеземный Король демонов!
+line-531,,异族的魔王！,Outblood King!,Чужеземный Король Демонов!
 line-532,,你胆敢落下虚伪的泪水——,"You, who dare to shed false tears—",Как ты смеешь проливать свои лицемерные слезы —
 line-533,,你，又凭何，为萨卡兹的悲哀而悲哀！,What makes you grieve for Sarkaz sorrows?!,"Ты, и с какой стати, скорбеть о горе Сарказов!"
 line-537,,死魂灵的手中，长矛几乎快要凝聚为实体。,The lance seems almost physical in the revenant's hand.,Копье в руках Пожирателя душ почти обрело форму.
@@ -202,25 +202,25 @@ line-590,,她看到了燃烧的熔炉最深处的火焰。,She sees a blaze in t
 line-591,,她看到了失去头颅的空洞巨铠在天灾中逆行，身后拖拽的祭祀古石在大地上留下漫长的痕迹。,"She sees a huge, headless, hollow suit of armor as it trudges against a Catastrophe, leaving an endless trail on the land as it hauls ancient sacrificial stones behind its back.","Она видела обезглавленные доспехи-гиганты, идущие против течения бедствия, а древние жертвенные камни, которые они волокли за собой, оставляли длинные следы на земле."
 line-592,,她看到了神民的术法划过天际，将石质的城墙碾为齑粉。,"She sees Elder Arts streaking across the horizon, smashing walls of stone into powder.","Она видела, как магия божественных народов рассекает небо, превращая каменные стены в пыль."
 line-593,,她看见一个萨卡兹。,She sees a Sarkaz.,Она увидела одного Сарказа.
-line-594,,他背靠着巨石而立。家园的基石，卡兹戴尔的碎片。,"He stands with his back to a monolith. The foundation stone of his homeland, a fragment of Kazdel.","Он стоял, опираясь на огромный камень. Краеугольный камень родины, осколки Каз’деля."
+line-594,,他背靠着巨石而立。家园的基石，卡兹戴尔的碎片。,"He stands with his back to a monolith. The foundation stone of his homeland, a fragment of Kazdel.","Он стоял, опираясь на огромный камень. Краеугольный камень родины, осколки Казделя."
 line-595,,那个萨卡兹向他的王呐喊道：,The Sarkaz shouts toward his King:,Тот Сарказ прокричал своему королю:
-line-598,,卡兹戴尔就在我的身后，他们无法夺去。,Kazdel stands behind me. They will not take it.,"Каз’дель за моей спиной, они не смогут его отобрать."
+line-598,,卡兹戴尔就在我的身后，他们无法夺去。,Kazdel stands behind me. They will not take it.,"Каздель за моей спиной, они не смогут его отобрать."
 line-599,,贪婪的“霸主”想要这片土地，那便来取吧。,"If that greedy Hegemon wants this piece of land, they can come and try.","Если алчный «Повелитель» хочет эту землю, пусть приходит и берёт."
 line-600,,但是王啊，你说过，除去废墟，他们带不走任何东西。,"But O King, as you say, there is nothing they can take away but ruin.","Но король, ты ведь говорил, что, кроме руин, они ничего не смогут забрать."
 line-601,,我的眼泪已经流干，我的胸膛中跳动的只有愤怒。,"My tears have dried, and only rage remains, pulsing in my chest.","Мои слезы высохли, и в моей груди бьется лишь ярость."
 line-602,,我会留下，我会守住这片土地，在死亡之前。,"I will stay. I will guard this land, till death.","Я останусь, я буду защищать эту землю до самой смерти."
 line-603,,这是我的使命。,This is my mission.,Это моя миссия.
 line-612,,阿米娅看到了萨卡兹将手指向冷漠以待的神民。,Amiya sees the Sarkaz pointing toward the aloof Elders.,"Амия видела, как Сарказ указывает пальцем на равнодушно наблюдающих божественных существ."
-line-613,,她看到了“霸主”在神民的簇拥下冲向了卡兹戴尔的人群。,"She sees the Hegemon surrounded by Elders, charging towards the group from Kazdel.","Она видела, как «Повелитель» в окружении своих слуг устремился к народу Каз’деля."
+line-613,,她看到了“霸主”在神民的簇拥下冲向了卡兹戴尔的人群。,"She sees the Hegemon surrounded by Elders, charging towards the group from Kazdel.","Она видела, как «Повелитель» в окружении своих слуг устремился к народу Казделя."
 line-617,,呐喊声。哭喊声。无力的喘息声。,Shouts. Cries. Powerless gasps.,Крики. Плач. Бессильные вздохи.
 line-620,,我的眼泪明明已经流干，我的胸膛中跳动的本该只有愤怒......,"My tears have already dried, and it should be only rage that remains, pulsing in my chest...","Мои слезы ведь высохли, и в моей груди должен был биться только гнев..."
 line-621,,可为什么我依旧在为我们族群的消亡而痛苦？,But why do I still feel pain over my people's demise?,Но почему я всё ещё страдаю от гибели нашего народа?
 line-622,,王啊，我不会在这道守卫的阵线上退后半步——,"O King, I will not retreat even half a step from the frontline—","Король, я не отступлю ни на шаг с этой линии обороны —"
 line-626,,阿米娅看过那段残酷的历史。,"Amiya has seen it before, that cruel segment of history.",Амия видела ту жестокую историю.
-line-627,,她看过，初代魔王引爆了那前所未有的天灾，所有围攻这座城市的“霸主”与他们的军队在同一天消失......,"She has seen the first King of Sarkaz ignite an unprecedented Catastrophe, and every Hegemon and their troops besieging the city disappeared that very day...","Она видела, как первый Король демонов взорвал небывалое доселе бедствие, и все «Повелители», осаждавшие этот город, со своими армиями исчезли в один день..."
+line-627,,她看过，初代魔王引爆了那前所未有的天灾，所有围攻这座城市的“霸主”与他们的军队在同一天消失......,"She has seen the first King of Sarkaz ignite an unprecedented Catastrophe, and every Hegemon and their troops besieging the city disappeared that very day...","Она видела, как первый Король Демонов взорвал небывалое доселе бедствие, и все «Повелители», осаждавшие этот город, со своими армиями исчезли в один день..."
 line-628,,一同消失的还有那位王与他的誓死效忠的子民。,Along with that King and his loyal subjects.,Вместе с ними исчезли тот король и его верные до смерти подданные.
 line-631,,可为何那场遮蔽天空的漆黑天灾蒸发了我的躯体，却又没有让我死去？,"But why did the pitch-black Catastrophe that engulfed the sky disintegrate my body, while refusing to let me die?","Но почему то чёрное бедствие, закрывшее небо, испарило мое тело, но не дало мне умереть?"
-line-632,,那道光，在卡兹戴尔的土石上永远烙印下了我的影子。,That flash of light branded my figure into Kazdel's soil and rock for eternity.,Тот свет навеки запечатлел мою тень на почве Каз’деля.
+line-632,,那道光，在卡兹戴尔的土石上永远烙印下了我的影子。,That flash of light branded my figure into Kazdel's soil and rock for eternity.,Тот свет навеки запечатлел мою тень на почве Казделя.
 line-633,,死亡背叛了我，我已成了家园永恒的阴影。,"Death betrayed me, and I became an eternal shadow of my homeland.","Смерть предала меня, я стал вечной тенью своего дома."
 line-639,阿米娅,您的使命已经结束了......那座城市已经成为往日的虚影。,Your mission has already ended... That city has become a phantom from the past.,Ваша миссия окончена... этот город стал лишь призраком прошлого.
 line-643,,......结束？,...Ended?,...Окончена?
@@ -243,11 +243,11 @@ line-694,阿米娅,我们得想办法彻底......结束死魂灵的使命。,We 
 line-696,W,别看我，我已经试过用炸弹把这里都犁一遍了。,Don't look at me. I already tried bombing this place.,"Не смотрите на меня, я уже пробовала прочесать здесь всё бомбами."
 line-698,W,没用。,It's useless.,Бесполезно.
 line-701,？？？,对付他，我们并非完全束手无策。,We're not entirely helpless.,Против него у нас не всё потеряно.
-line-707,,凯尔希。;看来Mon3tr成功了。,Kal'tsit.;Seems like Mon3tr made it.,"Кель’цит. Похоже, Монстр справился."
+line-707,,凯尔希。;看来Mon3tr成功了。,Kal'tsit.;Seems like Mon3tr made it.,"Кальцит. Похоже, Mon3tr справился."
 line-711,Mon3tr,（兴奋的高鸣）,(Excited cry),(Возбужденный крик)
 line-713,凯尔希,博士，你时机把握得很准。,"Doctor, your timing was impeccable.","Доктор, вы точно рассчитали момент."
 line-714,凯尔希,你们吸引了死魂灵的所有注意力之后，他对我的控制自然就放松了。,The revenant relaxed his hold on me after you drew his complete attention.,"Когда вы отвлекли на себя всё внимание Пожирателя душ, его контроль над мной ослаб."
-line-715,凯尔希,Mon3tr也终于能够感应到我的位置。,And Mon3tr managed to locate me.,И Монстр наконец смог определить мое местоположение.
+line-715,凯尔希,Mon3tr也终于能够感应到我的位置。,And Mon3tr managed to locate me.,И Mon3tr наконец смог определить мое местоположение.
 line-717,Mon3tr,（兴奋地挥舞）,(Waving claws excitedly),(Возбужденно машет)
 line-719,W,嘁。,Grr.,Тц.
 line-721,凯尔希,也感谢你，W，你为博士争取了时间。,"Thank you too, W. For buying the Doctor some time.","Спасибо и тебе, W, ты выиграла для Доктора время."
@@ -256,7 +256,7 @@ line-725,W,哼，我还有很多账要和他算——,"Hmph, I still have scores
 line-735,W,什么情况！,What's going on now?!,Что происходит?!
 line-738,,......你们有没有感觉到......飞空艇在加速？;飞空艇在试图挣脱骸骨！,...Do you guys feel... the airship accelerating?;The airship's trying to free itself from the skeleton!,...Вы не чувствуете? Дирижабль ускоряется? Он пытается вырваться из скелета!
 line-741,阿米娅,是死魂灵......他快要脱困了！,It's the revenant... he's about to break free!,Это Пожиратель душ... он скоро выберется!
-line-743,凯尔希,......特蕾西娅在帮助他。,...Theresa's helping him.,...Терезия помогает ему.
+line-743,凯尔希,......特蕾西娅在帮助他。,...Theresa's helping him.,...Тереза помогает ему.
 line-744,凯尔希,看来她的谋划已经到最后的关键阶段了，死魂灵在回应她的呼唤。,It seems like she's already on the last stage of her plan. The revenant is responding to her call.,"Похоже, её план вошел в финальную стадию, Пожиратель душ откликается на её зов."
 line-746,W,......,...,...
 line-747,W,我可没在这里找到她。,I didn't see her here.,Я её здесь не нашла.
@@ -271,8 +271,8 @@ line-769,W,不就是给他搬个家嘛，听上去也没那么复杂。,"We're b
 line-776,,（古老的萨卡兹语）使命......,(Ancient Sarkaz language) Mission...,(Древний язык Сарказов) Миссия...
 line-777,,（古老的萨卡兹语）宿命......,(Ancient Sarkaz language) Fate...,(Древний язык Сарказов) Судьба...
 line-778,,（古老的萨卡兹语）终结......,(Ancient Sarkaz language) End...,(Древний язык Сарказов) Конец...
-line-783,,卡兹戴尔最古老的护卫已经从束缚中苏醒。,Kazdel's oldest guard awakens from his shackles.,Древнейший страж Каз’деля очнулся от оков.
-line-784,,魔王让他抓住了自己九千年前的一丝灵光。,The King of Sarkaz had him capture a sliver of his own consciousness from nine thousand years ago.,"Король демонов позволил ему ухватиться за луч света, что был с ним девять тысяч лет назад."
+line-783,,卡兹戴尔最古老的护卫已经从束缚中苏醒。,Kazdel's oldest guard awakens from his shackles.,Древнейший страж Казделя очнулся от оков.
+line-784,,魔王让他抓住了自己九千年前的一丝灵光。,The King of Sarkaz had him capture a sliver of his own consciousness from nine thousand years ago.,"Король Демонов позволил ему ухватиться за луч света, что был с ним девять тысяч лет назад."
 line-785,,他从未如此刻一般清醒，他从未忘记。,"He has never been more clear than he is now, nor has he ever forgotten.","Он никогда не был так ясен, он никогда не забывал."
 line-786,,他不再用愤怒掩盖悲伤。,He no longer masks his sorrow with anger.,Он больше не скрывает свою печаль яростью.
 line-789,,我会终结你们，也会终结我们的宿命。,"I will end you all, and our fate too.","Я покончу с вами, и покончу с нашей судьбой."

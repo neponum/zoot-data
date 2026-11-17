@@ -20,12 +20,12 @@ char-13,费斯特,费斯特,Feist,Фест
 char-14,号角,号角,Horn,Хорн
 char-15,伦蒂尼姆市民,伦蒂尼姆市民,Londinium Citizen,Гражданин Лондиниума
 char-16,萨卡兹雇佣兵,萨卡兹雇佣兵,Sarkaz Mercenary,Сарказ-наемник
-char-17,Misery,Misery,Misery,Мизери
+char-17,Misery,Misery,Misery,Misery
 ,,,,
 line-10,曼弗雷德,少了十三个平民，九个士兵。,We're down thirteen civilians and nine soldiers.,"Минус тринадцать гражданских, девять солдат."
 line-12,曼弗雷德,罗德岛......,Rhodes Island...,Родос...
 line-14,曼弗雷德,他们可真是给我添了不少麻烦。,They're proving to be quite troublesome.,Они действительно доставили мне немало хлопот.
-line-16,萨卡兹战士,将军，剩下的深池士兵清点完了。,"General, we've finished the head count on the remaining Dublinn soldiers.","Генерал, остатки солдат «Глубинных пучин» пересчитаны."
+line-16,萨卡兹战士,将军，剩下的深池士兵清点完了。,"General, we've finished the head count on the remaining Dublinn soldiers.","Генерал, остатки солдат Дублинна пересчитаны."
 line-18,曼弗雷德,给他们一个机会。,Give them one chance.,Дайте им шанс.
 line-19,曼弗雷德,愿意加入我们的，进雇佣兵编队。,Those willing to join us will enter the mercenary squad.,Желающие присоединиться к нам — в отряд наёмников.
 line-21,曼弗雷德,不愿意的......你知道该怎么做。,As for those who aren't... You already know what to do with them.,"А те, кто не хочет... ты знаешь, что делать."
@@ -64,7 +64,7 @@ line-92,曼弗雷德,走吧，这场仗还远远没有结束。,Let's go. This b
 line-102,克洛维希娅,受伤的人有多少？立刻带他们去治疗！,How many injured are there? Take them to get treated right now!,Сколько раненых? Немедленно отправьте их к медикам!
 line-104,医疗干员,我也来帮忙！,I'll also help out!,Я тоже помогу!
 line-106,克洛维希娅,嗯，谢谢。,"Mhm, thank you.","Хорошо, спасибо."
-line-107,克洛维希娅,让哈默来见我。我们需要加快撤退的进度。,Bring Harmo over here. We have to speed up the evacuation.,Пусть Хаммер придёт ко мне. Нам нужно ускорить отступление.
+line-107,克洛维希娅,让哈默来见我。我们需要加快撤退的进度。,Bring Harmo over here. We have to speed up the evacuation.,Пусть Хармо придёт ко мне. Нам нужно ускорить отступление.
 line-108,克洛维希娅,还有......派信使出城。最坏的情况下，我们要做好将大部分人转移去城外的准备。,"Also, dispatch some Messengers outside the city. Worst case scenario, we need to be prepared to relocate the bulk of the population.",И ещё... пошлите гонца из города. В худшем случае нам нужно подготовиться к выводу большинства людей за стены.
 line-110,自救军战士,是，指挥官！,"Yes, Commander!","Есть, командир!"
 line-112,克洛维希娅,推进之王小姐......,Miss Siege...,Мисс Сидж...
@@ -101,7 +101,7 @@ line-183,费斯特,我们是在伦蒂尼姆。绝大多数工业材料都被萨�
 line-185,可露希尔,你们这工作环境也太......,Your work environment is way too...,Ваши условия труда просто...
 line-187,费斯特,寒酸？你想说就说吧，指挥官不在这里。,"Impoverished? You can speak your mind, the commander isn't here.","Скромные? Можешь так и сказать, командира здесь нет."
 line-189,可露希尔,......太具有挑战性了吧，咳咳咳。,...Way too much of a challenge. *cough* *cough*...,"...Слишком амбициозны, ха-ха-ха."
-line-191,费斯特,可露希尔小姐......,Miss Closure...,Мисс Клозиер...
+line-191,费斯特,可露希尔小姐......,Miss Closure...,Мисс Кложер...
 line-193,可露希尔,怎么啦？,What's up?,Что такое?
 line-195,费斯特,你......你知道吗？在说到有挑战的时候，你的两只眼睛都在......“物理层面”地放光。,"D-Did you know, when you talk about being challenged, your eyes seem to... light up? Physically.","Ты... ты знала? Когда говоришь о «вызовах», у тебя глаза светятся... в буквальном смысле."
 line-197,可露希尔,欸？有吗？可能我是有些兴奋......会不会很吓人？,Huh? Really? Must be because I'm getting excited... Is it scary?,"А? Правда? Может, я просто немного взволнована... это выглядит пугающе?"
@@ -145,7 +145,7 @@ line-278,推进之王,......,......,...
 line-280,推进之王,做一名单纯的战士，说不定是一件更简单的事。,Becoming a run-of-the-mill soldier might be the easy way out.,"Быть простым бойцом, возможно, даже легче."
 line-282,推进之王,但我的姓氏......无论你们怎么称呼我，我都无法否认自己的姓氏。这是我与生俱来的一部分。,"But my family name... No matter what you all decide to call me, I can't deny my name. It's a part of me.","Но моя фамилия... как бы вы меня ни называли, я не могу отрицать её. Это часть меня с рождения."
 line-290,推进之王,希望我吐露的真相并没有吓到你，博士。,"I hope I didn't scare you by telling you the truth, Doctor.","Надеюсь, правда, которую я открыла, не напугала вас, Доктор."
-line-291,推进之王,凯尔希医生说可以由她开口，但我决定自己告诉你。,"Dr. Kal'tsit said she was willing to tell you, but I decided to do it myself.","Кэл'цит говорила, что может рассказать сама, но я решила, что должна сделать это лично."
+line-291,推进之王,凯尔希医生说可以由她开口，但我决定自己告诉你。,"Dr. Kal'tsit said she was willing to tell you, but I decided to do it myself.","Кальцит говорила, что может рассказать сама, но я решила, что должна сделать это лично."
 line-294,,你的姓氏......维多利亚？,Your family name... is Victoria?,Твоя фамилия... Виктория?
 line-297,推进之王,你的表情......好平静。,You don't seem all that surprised.,Твоё лицо... такое спокойное.
 line-300,,也许因为我不记得过去。;也许因为我只关心现在。;也许因为我更着眼未来。,Maybe because I don't remember the past.;Maybe because I only care about the present.;Maybe because I'm looking ahead to the future.,"Может, потому что я не помню прошлого. Может, потому что меня волнует лишь настоящее. Может, потому что я смотрю в будущее."
@@ -174,7 +174,7 @@ line-362,阿米娅,您......还会医术？,You... practice medicine?,Вы... у
 line-364,海蒂,只是一些粗浅的护理知识。,Only some basic nursing techniques.,Только базовые навыки ухода.
 line-365,海蒂,这份工作难免会让我遇到一些危急时刻，为了让我和朋友们有更多活下来的机会，我至少得学会应急药箱怎么用。,"This job inevitably brings me into emergency situations. To give me and my friends a better shot at survival, I had to at least learn to use a first-aid kit.","В этой работе часто случаются критические ситуации, и чтобы у меня и моих друзей было больше шансов выжить, я должна была научиться пользоваться аптечкой."
 line-367,阿米娅,您很了不起。,You're really amazing.,Вы потрясающая.
-line-369,海蒂,我们做的不过是守护自己的家园。而凯尔希......还有你，阿米娅，你们肩负着更多的责任。,"All we're doing is protecting our home. But Kal'tsit... and you, Amiya, you all carry so much more responsibility on your shoulders.","Мы лишь защищаем свой дом. А Кэл'цит... и вы, Амия, несете гораздо большую ответственность."
+line-369,海蒂,我们做的不过是守护自己的家园。而凯尔希......还有你，阿米娅，你们肩负着更多的责任。,"All we're doing is protecting our home. But Kal'tsit... and you, Amiya, you all carry so much more responsibility on your shoulders.","Мы лишь защищаем свой дом. А Кальцит... и вы, Амия, несете гораздо большую ответственность."
 line-371,阿米娅,......在这次行动中，我们损失了很多人。,...We've lost a lot of people on this operation.,...В этой операции мы потеряли много людей.
 line-372,阿米娅,我......我感受到了自救军战士的痛苦。他们之前对付的敌人都没有那么可怕。,I... I feel the pain of the Self-Salvation Corps' soldiers. They've never had to deal with such horrific enemies before.,"Я... я почувствовала боль бойцов Сил самообороны. Раньше враги, с которыми они сталкивались, не были такими ужасными."
 line-374,阿米娅,那位血魔大君......他之所以会来这里，是不是因为我们的出现？,The Sanguinarch... Did he come here because of us?,Тот Кровавый демон... он пришел сюда из-за нашего появления?
@@ -185,7 +185,7 @@ line-381,阿米娅,如果合作的确给他们带来了更大的危险......,If 
 line-383,海蒂,昨夜的行动，假如没有罗德岛的参与，会发生什么？,"During last night's operation, what would've happened if Rhodes Island had not been there?","Что бы произошло, если бы Родос не участвовал в прошлой ночной операции?"
 line-384,海蒂,没有W里应外合，没有她挡住那位雇佣兵首领......也没有其他罗德岛干员牵制曼弗雷德，我们之间的这场交谈根本没有机会发生。,"Without W colluding, had she not stopped the mercenary leader... and without Rhodes Island's operators keeping Manfred at bay, we wouldn't even be having this conversation right now.","Без W, работающей изнутри, без неё, задержавшей предводителя наёмников... и без других оперативников, сдерживавших Манфреда, наш разговор не состоялся бы вовсе."
 line-385,海蒂,用一些人命去换另一些人命的计算方式，对于罗德岛来说，当然并不成立——,The calculus of exchanging one set of lives for another simply does not exist for Rhodes Island—,"Расчет жизнями одних людей ради жизней других для Родоса, конечно, неприемлем —"
-line-387,海蒂,但即便是凯尔希在这里，她也一定会说，任何机遇都伴随着风险。,"But even if Kal'tsit were here, I'm sure she would say every opportunity comes with its risks.","Но даже Кэл'цит здесь сказала бы, что любая возможность сопряжена с риском."
+line-387,海蒂,但即便是凯尔希在这里，她也一定会说，任何机遇都伴随着风险。,"But even if Kal'tsit were here, I'm sure she would say every opportunity comes with its risks.","Но даже Кальцит здесь сказала бы, что любая возможность сопряжена с риском."
 line-389,阿米娅,......,......,...
 line-391,阿米娅,我明白。,I understand.,Я понимаю.
 line-392,阿米娅,这就是为什么我们必须做更多准备。,That's why we have to be better prepared.,Вот почему мы должны готовиться ещё тщательнее.

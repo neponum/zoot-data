@@ -16,7 +16,7 @@ char-9,安东尼,安东尼,Anthony,Энтони
 char-10,多萝西,多萝西,Dorothy,Дороти
 char-11,惊慌的司机,惊慌的司机,Panicking Driver,Испуганный водитель
 char-12,司机,司机,Driver,Водитель
-char-13,霍尔海雅,霍尔海雅,Ho'olheyak,Хо'олхейак
+char-13,霍尔海雅,霍尔海雅,Ho'olheyak,Хоолхейак
 ,,,,
 line-14,伊芙利特,……,......,...
 line-16,迷迭香,你不说话……房间好安静。,You aren't talking... The room is quiet.,Ты молчишь... В комнате так тихо.
@@ -58,7 +58,7 @@ line-88,伊芙利特,真的吗？,You do?,Правда?
 line-90,迷迭香,嗯。离开罗德岛的时候，煌和温蒂一直在劝我，煌还差点烧了那封信。,"Yep. When I left Rhodes Island, Blaze and Weedy kept trying to talk me out of it. Blaze almost burned the letter.","Угу. Когда я покидала Родос, Блейз и Уиди всё время отговаривали меня, Блейз даже чуть не сожгла то письмо."
 line-91,迷迭香,虽然阿米娅和凯尔希医生最后还是同意了，但我能看出，她们其实并没有那么想我回哥伦比亚……她们很担心，就像塞雷娅一样？,"Amiya and Dr. Kal'tsit let me go in the end, but I could tell they didn't actually want me to come back to Columbia... They were really worried, maybe just like Saria?","Хотя Амия и доктор Кальцит в конце концов согласились, я видела, что они вовсе не хотели, чтобы я возвращалась в Колумбию... Они беспокоились, совсем как Сария?"
 line-93,伊芙利特,那些大人都一个样。,Adults are all like that.,Все взрослые одинаковые.
-line-95,迷迭香,但我想要记起来那些被我遗忘的东西，哪怕这会让我丢失得更多……,"But I want to remember the things that I've forgotten, even if I'll lose even more...","Но я хочу вспомнить те вещи, которые забыла, даже если это приведет к тому, что я потеряю ещё больше..."
+line-95,迷迭香,但我想要记起来那些被我遗忘的东西，哪怕这会让我丢失得更多……,"But I want to remember the things that I've forgotten, even if I'll lose even more...","Но я хочу вспомнить те вещи, которые забыла, даже если это приведёт к тому, что я потеряю ещё больше..."
 line-97,迷迭香,我应该回来……这是我唯一确定的事情。,I'm right to come back... It's the one thing I'm sure of.,"Я должна была вернуться... Это единственное, в чем я уверена."
 line-99,迷迭香,你记性比我好，那你一定比我更清楚自己应该做什么。,You have a better memory than I do. That must mean you know what you have to do more than I do.,"У тебя память лучше, чем у меня, значит, ты точно знаешь, что должна делать."
 line-101,伊芙利特,我就是这个意思！,That's exactly what I mean!,Я именно это и имела в виду!
@@ -73,7 +73,7 @@ line-141,赫默,……终于离开十三区了。,Finally made it out of Distric
 line-143,赫默,多亏了雅拉主任的这套新装备，无人机的旋翼应该是某种超性能的光学材料吧，隐匿效果提升了好多，监控范围也因此大了一倍……,"I'll have to thank Director Jara for the new equipment. The drone's rotor is probably made of some kind of high-performance optical material, its camouflage ability has increased greatly, and the surveillance range has doubled...","Стоит поблагодарить новое оборудованию директора Яры: несущие винты дрона сделаны из какого-то высокоэффективного оптического материала. Его маскировочные возможности значительно улучшились, а дальность наблюдения удвоилась..."
 line-145,赫默,接下来呢？,Now what next?,Но что дальше?
 line-150,递质,——,—,—
-line-157,赫默,这是唯一的线索……无论它通向哪里都好，只要能接近真相。,"This is my only clue... it doesn't matter where it leads me, as long as it brings me closer to the truth.","Это моя единственная зацепка... неважно, куда она меня приведет, главное, чтобы она приблизила меня к истине."
+line-157,赫默,这是唯一的线索……无论它通向哪里都好，只要能接近真相。,"This is my only clue... it doesn't matter where it leads me, as long as it brings me closer to the truth.","Это моя единственная зацепка... неважно, куда она меня приведёт, главное, чтобы она приблизила меня к истине."
 line-171,赫默,从靠近九区开始，递质的反应明显变得更强烈了……,The Transmitter's response has been growing stronger ever since I approached District 9...,По мере приближения к девятому району реакция Передатчика стала заметно сильнее...
 line-172,赫默,前面，我记得那片园区因为政府规划问题已经暂停使用了才对……,"If I remember correctly, the park right here should be closed due to some government planning issues.","Тот участок парка, если я помню, должен был быть закрыт из-за планов правительства..."
 line-174,递质,——,—,—
@@ -134,14 +134,14 @@ line-298,锡人,Dr.{@nickname}，那委托你也是一样的。,"Dr. {@nickname}
 line-301,,……,......,...
 line-304,锡人,我听凯尔希说了你的事情。,I heard about what happened from Kal'tsit.,"Я слышал от Кальцит о том, что с вами приключилось."
 line-305,锡人,时间过得真快啊，上一次见面……,It's been a long time. When last we met...,"Как быстро летит время, с нашей последней встречи..."
-line-306,锡人,呃，说起来……你害怕我这个样子？从刚刚起就一直盯着我看。,"Uh, speaking of... Are you afraid of me because of the way I look? You've been staring for a bit.","Э-э, кстати... Ты беспокоишься из-за моей внешности? С того самого момента как я зашел, ты не сводишь с меня глаз."
+line-306,锡人,呃，说起来……你害怕我这个样子？从刚刚起就一直盯着我看。,"Uh, speaking of... Are you afraid of me because of the way I look? You've been staring for a bit.","Э-э, кстати... Ты беспокоишься из-за моей внешности? С того самого момента как я зашёл, ты не сводишь с меня глаз."
 line-309,,你的脏器也是锡质的吗，还是说肚子里空空如也？;你要是生锈的话，算皮肤病吗？;你会得关节炎吗，需不需要定期涂抹润滑油保养？,"Are your organs made of tin, too? Or is there nothing in your belly?;What happens if your skin rusts? Does that count as a skin disease?;Do you get arthritis? Do you put WD-40 on your joints?","Твои внутренние органы тоже металлические или внутри пусто?; Если ты заржавеешь, это считается кожным заболеванием?; У тебя бывает артрит? Нужно ли регулярно обрабатывать суставы с помощью WD-40?"
 line-312,锡人,……,......,...
 line-313,锡人,你确实改变了很多，博士。,"You've changed, Doctor.","Ты действительно сильно изменился, Доктор."
 line-314,锡人,言归正传，我们没有太多时间，而且现在的你……也不太适合叙旧。,"Back on topic. We don't have much time, and given your condition... There is not much catching up to do.","Вернемся к теме. У нас мало времени, и, учитывая ваше состояние... Наверстывать упущенное не имеет смысла."
 line-315,锡人,梅兰德基金会希望罗德岛能够协助我们阻止军方……暗杀副总统。,The Maylander Foundation wishes for Rhodes Island to help us stop the military... from assassinating the Vice President.,"Фонд Мейландер надеется, что «Родос» поможет нам остановить военных от... покушения на вице-президента."
 line-322,锡人,博士，你看起来并不惊讶……,"Doctor, you don't seem surprised.","Доктор, вы выглядите не очень удивленным..."
-line-323,锡人,我们也是刚得到情报，明天杰克逊要去参观莱茵生命，布莱克会在那个时候动手。,"We've just got this piece of intel ourselves. Tomorrow, Jackson will visit Rhine Lab, and that's when Blake will make his move.","Мы только что получили разведданные: завтра Джексон посетит «Rhine Lab», и Блейк собирается нанести удар именно в это время."
+line-323,锡人,我们也是刚得到情报，明天杰克逊要去参观莱茵生命，布莱克会在那个时候动手。,"We've just got this piece of intel ourselves. Tomorrow, Jackson will visit Rhine Lab, and that's when Blake will make his move.","Мы только что получили разведданные: завтра Джексон посетит «Рейн Лаб», и Блейк собирается нанести удар именно в это время."
 line-324,锡人,想必凯尔希已经和你同步过“地平弧光计划”的信息，我就不多解释了。,"No doubt Kal'tsit has already gone over the 'Horizon Arc Project' with you, so I won't touch on that.","Думаю, Кальцит уже поделилась с вами информацией о проекте «Горизонт Дуги», так что объяснять не буду."
 line-325,锡人,罗德岛在这件事中，应当和梅兰德基金会站在同一阵线，这是凯尔希和我的约定，也是你们得以进入特里蒙的前提条件。,"Rhodes Island should be on the same side as the Maylander Foundation in this. It's a promise that Kal'tsit made to me, and it is also the prerequisite for your entry into Trimounts.",Родос в этом деле должен выступить на стороне Фонда Мейландер. Это условие нашего соглашения с Кальцит и вашего пребывания в Тримаунтсе.
 line-326,锡人,协同梅兰德基金会阻止军方的荒唐行径。这次，你可以将这视为一种“命令”，博士。,"Assist the Maylander Foundation in stopping the military's absurd act of treason. You can see this as an 'order,' Doctor.","Работайте вместе с Фондом, чтобы пресечь нелепые действия военных. На этот раз вы можете воспринимать это как «приказ», Доктор."
@@ -156,7 +156,7 @@ line-338,锡人,因为那往往是崩溃的先兆。,Because that's always an om
 line-341,,不用再征求凯尔希的意见？;……;就这么交给我？,"You sure you don't want Kal'tsit's opinion first?;......;You're gonna leave this to me, just like that?",Уверен что не хочешь узнать мнения Кальцит?; ...; Просто оставляешь это мне?
 line-344,锡人,这是梅兰德对罗德岛的委托，你是罗德岛的博士。既然凯尔希依然选择相信你，我自然没什么好怀疑的。,"This is an official request that Maylander is making to Rhodes Island. You are the Doctor of Rhodes Island. If Kal'tsit continues to have her faith in you, I have no reason to doubt your abilities.","Это офицальное поручение Фонда Мейландер для «Родос». Раз Кальцит по-прежнему доверяет вам, Доктор, у меня нет причин сомневаться."
 line-345,锡人,时间紧张，博士，希望我们配合默契。,"Time's a wasting, Doctor. I hope you will cooperate with us well.",Время поджимает. Надеюсь на наше слаженное сотрудничество.
-line-351,,也许我该继续联系凯尔希。;也许我该继续联系塞雷娅。;可惜Mechanist离开了特里蒙。,Maybe I should try to get in touch with Kal'tsit.;Maybe I should try to get in touch with Saria.;Too bad Mechanist just left Trimounts.,"Может, мне стоит связаться с Кальцит?; Может, мне стоит связаться с Сарией?; Жаль, что Механист покинул Тримаунтс."
+line-351,,也许我该继续联系凯尔希。;也许我该继续联系塞雷娅。;可惜Mechanist离开了特里蒙。,Maybe I should try to get in touch with Kal'tsit.;Maybe I should try to get in touch with Saria.;Too bad Mechanist just left Trimounts.,"Может, мне стоит связаться с Кальцит?; Может, мне стоит связаться с Сарией?; Жаль, что Mechanist покинул Тримаунтс."
 line-358,伊芙利特,博士，让我和迷迭香去抓刺杀副总统的刺客！,"Doctor, let me and Rosmontis catch the hitman who's after the Vice President!","Доктор, позвольте нам с Росмонтис поймать убийц что нацелились на вице-президента!"
 line-361,,……,......,...
 line-364,伊芙利特,凯尔希在找那个什么“弧光一号”的入口，塞雷娅回莱茵生命找资料去了，博士，我们必须马上行动起来。,"Kal'tsit's still looking for the entrance to that 'Arc-01' thing, and Saria's gone back to Rhine Lab to look for data. Doctor, we have to get on this right now!","Кальцит ищет вход к этому «Арк-01», Сария вернулась в Рейн за документами, Доктор, мы должны действовать немедленно!"
@@ -181,8 +181,8 @@ line-416,安东尼,我无法否认。,I can't deny it.,Я не могу отри
 line-418,缪尔赛思,不过，这片大地上没有如果，我知道。,But there are no 'ifs' in this world. I know that.,"Но на этой земле нет сослагательного наклонения, это я знаю."
 line-420,缪尔赛思,赫默研究员，我说这些是希望你能明白一点——,I'm telling you all this because I want you to understand something—,"Сайленс, я говорю это, чтобы ты поняла одну вещь —"
 line-421,缪尔赛思,如果你想做正确的事，首先你要知道什么是正确的。其次，你要知道，并不是做正确的事情就不需要付出代价。,"If you want to do the right thing, you need to first be able to tell what's actually right. You also need to understand that doing the right thing doesn't necessarily mean you don't have a price to pay.","Если хочешь делать правильные вещи, прежде всего нужно знать, что есть «правильно». А во-вторых, понимать, что за правильные поступки всегда приходится платить."
-line-429,多萝西,不止是能量科和源石技艺应用科，这条线会通向哪里，牵扯出多少人，我没法告诉你。,It's not just Energy and Originium Art. I can't tell you where this trail will lead and how many people it will end up dragging into the mess.,"Речь не только об отделах энергетики и ориджиниевых искусств, я не могу сказать, куда приведет эта нить и сколько людей окажется замешано."
-line-430,多萝西,但你一定会接触到……你未曾了解过的莱茵生命。,But you will no doubt come to see... a side of Rhine Lab that you have never known.,"Но вы, несомненно, увидите... ту сторону Rhine Lab, о которой никогда раньше не знали."
+line-429,多萝西,不止是能量科和源石技艺应用科，这条线会通向哪里，牵扯出多少人，我没法告诉你。,It's not just Energy and Originium Art. I can't tell you where this trail will lead and how many people it will end up dragging into the mess.,"Речь не только об отделах энергетики и ориджиниевых искусств, я не могу сказать, куда приведёт эта нить и сколько людей окажется замешано."
+line-430,多萝西,但你一定会接触到……你未曾了解过的莱茵生命。,But you will no doubt come to see... a side of Rhine Lab that you have never known.,"Но вы, несомненно, увидите... ту сторону Рейн Лаб, о которой никогда раньше не знали."
 line-431,多萝西,无论是“炎魔事件”，还是359号基地，你知道了莱茵生命并不像招聘会上宣传片里展示的那样美好，它可能依然会……让你不适。,"Be it the 'Diαbolic Crisis' or Site 359, you know that Rhine Lab is nowhere near as wonderful as the recruitment videos make it seem. Even then, it may still... disgust you.","Будь то инцидент с фрагментом Диабло или участок 359, ты уже узнала, что Рейн не так прекрасен, как это показывают в рекламных роликах. Даже в этом случае она может... вызывать у тебя отвращение."
 line-432,多萝西,必要时，你可以借用我源石技艺应用科主任的权限。,"If it comes down to it, you may use my permissions as the director of the Originium Art Section.",В случае необходимости можешь воспользоваться моими полномочиями директора отдела.
 line-434,多萝西,如果你要用这份权限去做一些别的事，我也会假装不知道。,"If you use my permissions to do anything else, I will turn a blind eye to that too.","Если ты воспользуешься моим разрешением для чего-либо ещё, я также закрою на это глаза."
@@ -214,11 +214,11 @@ line-498,,下一秒钟，他觉得自己像是突然坐在了过山车上。空�
 line-501,赫默,……！,......!,...!
 line-516,,水。,Water.,Вода.
 line-521,,突然出现的水滴像是锁链般扣住了车轮，失控的载具几乎是擦着赫默滑过，摩擦出刺耳的声响。,"Drops of water suddenly appear and chain the car's wheels to a halt, and the out-of-control vehicle seems to almost graze Silence as it slides past her, scorching the tarmac with a shrill sound.","Внезапно появившиеся капли воды, словно цепи, сковали колеса. Неуправляемое транспортное средство пронеслось мимо Сайленс, высекая скрежет."
-line-522,,半个路面被淋湿，像是刚刚下过一场阵雨。,"Half the road is completely drenched, as if it has only just rained.","Половина проезжей части намокла, как будто прошел ливень."
+line-522,,半个路面被淋湿，像是刚刚下过一场阵雨。,"Half the road is completely drenched, as if it has only just rained.","Половина проезжей части намокла, как будто прошёл ливень."
 line-525,司机,你、你没事吧？对不起，我也不知道发生了什么……,"A-Are you okay? Sorry, I have no idea what just happened...","В-вы в порядке? Простите, я сам не знаю, что произошло..."
 line-527,赫默,……,......,...
 line-532,缪尔赛思,赫默，特里蒙的车那么多，心不在焉可是很容易出事故的哦！,"Silence, Trimounts has a ton of cars on the road. You could get run over if you keep spacing out like that.","Сайленс, в Тримаунтсе столько машин, нельзя же быть такой рассеянной, можно попасть в аварию!"
-line-534,赫默,缪尔赛思主任？刚刚……,Director Muelsyse? Just now...,Директор Мюльсайз? Это только что...
+line-534,赫默,缪尔赛思主任？刚刚……,Director Muelsyse? Just now...,Директор Мюльсис? Это только что...
 line-536,缪尔赛思,碰巧经过，感谢的话就不用说啦。,I'm just passing by. No need to thank me.,"Проходила мимо, благодарности не нужны."
 line-538,缪尔赛思,对了，你什么时候招惹了那个疯女人……,"By the way, when did you piss off that psycho?","Кстати, когда ты успела нажить врага в лице той сумасшедшей женщины..."
 line-539,缪尔赛思,以她的能力，应该可以更直接点才对，在空气里做手脚，看起来只是个顺手为之的恶作剧。,"Knowing what she's capable of, she might have been more direct and messed with the air. Looks like it was just a prank she pulled while she was at it.",С её способностями она могла бы действовать более прямолинейно. Манипуляции с воздухом выглядят как мимолетная проделка.
@@ -232,9 +232,9 @@ line-552,缪尔赛思,她和罗德岛的博士在一起。,She's with Rhodes Isl
 line-554,赫默,博士也来了？,"The Doctor is here, too?",Доктор тоже приехал?
 line-556,缪尔赛思,欸，你们居然不是一起的吗？,Huh? I thought you two were here together.,А? разве вы не вместе приехали?
 line-559,,缪尔赛思惊讶的表情很生动，生动到赫默瞬间察觉到了她的来意。,"Muelsyse's surprised expression is very vivid, to the point that Silence immediately realizes what she is here for.","Удивление на лице Мюльсайс настолько отчетливо видно, что Сайленс сразу понимает, зачем она здесь."
-line-560,,缪尔赛思固然是善意的。被卷入高层的博弈太过危险，她善意地想要让一个小小的研究员离此时此刻的莱茵生命远一些。,"There is no doubt that Muelsyse is doing this out of kindness. The games that the higher-ups are playing are too dangerous, and she is trying to get this lowly researcher to stay away from Rhine Lab while this is going on.","Нет сомнений, что Мюльсайз делает это из добрых побуждений. Игры, которые затевает начальство, слишком опасны, и она пытается убедить этого рядового исследователя держаться подальше от Рейна, пока это происходит."
+line-560,,缪尔赛思固然是善意的。被卷入高层的博弈太过危险，她善意地想要让一个小小的研究员离此时此刻的莱茵生命远一些。,"There is no doubt that Muelsyse is doing this out of kindness. The games that the higher-ups are playing are too dangerous, and she is trying to get this lowly researcher to stay away from Rhine Lab while this is going on.","Нет сомнений, что Мюльсис делает это из добрых побуждений. Игры, которые затевает начальство, слишком опасны, и она пытается убедить этого рядового исследователя держаться подальше от Рейна, пока это происходит."
 line-561,,海顿一号实验室、359号基地、特莱顿工厂……,"Haydn 1 Laboratory, Site 359, Triton Factory...","Лаборатория Хейдн, участок 359, фабрика Трайтон..."
-line-562,,帕尔维斯、多萝西、雅拉、缪尔赛思……,"Parvis, Dorothy, Jara, Muelsyse...","Парвис, Дороти, Яра, Мюльсайз..."
+line-562,,帕尔维斯、多萝西、雅拉、缪尔赛思……,"Parvis, Dorothy, Jara, Muelsyse...","Парвис, Дороти, Яра, Мюльсис..."
 line-563,,她一路摸索过来，她还要遇见多少壁障？赫默突然感受到一种前所未有的无力感。,"She has stumbled her way to this point. How many obstacles will she still have to face? All of a sudden, Silence is struck with a sense of helplessness that she has never felt before.","Она прошла весь путь, ощупью пробираясь вперед, сколько ещё стен ей предстоит встретить? Сайленс внезапно почувствовала беспрецедентную беспомощность."
 line-565,赫默,伊芙利特，还有博士，他们在哪儿？,Where are Ifrit and the Doctor?,"Ифрит, и Доктор, где они?"
 line-573,霍尔海雅,原本只是想让你给布莱克制造点麻烦，没想到竟然查到了老山羊那儿……,I was only going to have you make some trouble for Blake. Never did I expect you to follow the trail to the old goat...,"Я всего лишь хотела, чтобы ты доставил Блейку немного хлопот. Совсем не ожидала, что ты пойдёшь по следу к старому козлу..."

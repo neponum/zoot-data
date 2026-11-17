@@ -12,7 +12,7 @@ char-5,达格达,达格达,Dagda,Дагда
 char-6,萨卡兹雇佣兵,萨卡兹雇佣兵,Sarkaz Mercenary,Сарказ-наемник
 char-7,？？？,？？？,???,???
 char-8,号角,号角,Horn,Хорн
-char-9,Misery,Misery,Misery,Мизери
+char-9,Misery,Misery,Misery,Misery
 ,,,,
 line-17,,我是第一个见到那位斥候的人。,I was the first to see the scout.,"Я был первым, кто увидел того разведчика."
 line-19,,在我尝试隔岸侦察对面广场旁那排死寂的高大市政楼时，他的尸体正死死抓着岸边的芦苇在水中摇荡。,"While I scouted the silent government buildings next to the plaza on the other bank, his dead body drifting in the water, still grabbing the reeds by the bank.","Когда я пытался провести разведку с того берега, разглядывая те высокие и безмолвные муниципальные здания у площади, его тело, намертво вцепившееся в камыши, покачивалось в воде."
@@ -45,7 +45,7 @@ line-73,推进之王,我们是罗德岛的干员，熟悉以小队为编组的�
 line-75,推进之王,还有几个士兵和市民自愿跟了上来，他们也想要支援那支曾声名远扬的“风暴突击队”，但我们不能带走太多人......,We have a few volunteer soldiers and civilians who want to offer their support for the legendary Tempest Platoon. But there are only so many people we can bring...,"Есть ещё несколько солдат и горожан, которые добровольно вызвались пойти за нами, они тоже хотят поддержать тот прославленный «Штормовой отряд», но мы не можем взять с собой слишком много людей..."
 line-77,推进之王,希勒少尉走后，我们不能无视队伍防卫空虚的事实。,"We need people to stay behind for defense, with Lieutenant Shearer gone.","После того как младший лейтенант Хиллер ушел, мы не можем игнорировать тот факт, что оборона нашего отряда ослабла."
 line-81,,我没怎么听维娜接下来的说辞。,I hardly hear what Vina is saying.,"Я почти не слушал, что Вина говорила дальше."
-line-82,,\n这是“灰礼帽”恶劣的玩笑吗？还是......这就是战场上的常态？,\nIs this a bad joke by Trilby Asher? Or is this how the battlefield is?,Это жестокая шутка «Серых шляп»? Или... это просто обычные будни на войне?
+line-82,,\n这是“灰礼帽”恶劣的玩笑吗？还是......这就是战场上的常态？,\nIs this a bad joke by Trilby Asher? Or is this how the battlefield is?,Это жестокая шутка «Трилби Эшер»? Или... это просто обычные будни на войне?
 line-83,,\n求救讯号，救与不救，还有救一些人总要牺牲一些人的......规律。,"\nThe call for help, deciding whether to answer, and the sacrifices that must be made to help... the laws of the battlefield.","Сигналы бедствия, спасать или не спасать, и эта... закономерность, что ради спасения одних приходится жертвовать другими."
 line-87,推进之王,戴菲恩......我知道你在想什么。,"I know what you're thinking, Delphine.","Дельфина... я знаю, о чем ты думаешь."
 line-88,推进之王,这又是个掺杂了个人感情的行动，但我不能无视那个求援信号。,"There are personal sentiments involved, but I can't ignore the SOS.","Это очередная операция, замешанная на личных чувствах, но я не могу проигнорировать этот сигнал о помощи."
@@ -88,7 +88,7 @@ line-233,,\n它汇入了卡慕河，与水流声共鸣，越来越快，越来�
 line-240,？？？,我看到你们了。,I see you.,Я вас вижу.
 line-244,,她们暴露了？,They've been discovered?,Их раскрыли?
 line-245,,\n等等，楼顶有人站在月亮前招手？那是......维娜吗？,"\nSomeone's waving from the top of the building, the moon at her back. It's... Vina?","Подождите, кто-то стоит на крыше перед луной и машет рукой? Это... Вина?"
-line-259,推进之王,这里是推进之王。,Siege here.,На связи Король Сигнал.
+line-259,推进之王,这里是推进之王。,Siege here.,На связи Сидж.
 line-264,号角,风暴突击队号角，我已经接入了你们的频道，是否收到？,"Horn, Tempest Platoon. Do you hear me?","Говорит Хорн из Штормового отряда, я подключилась к вашему каналу, слышите меня?"
 line-266,推进之王,我们收到了你们的求援信号，已确认你们的位置——对岸居民区桥口防御阵地。,"We got your SOS. We've confirmed your location—the bridgehead at the residential district, on the other side.","Мы получили ваш сигнал о помощи, ваше местоположение подтверждено — оборонительная позиция у моста в жилом районе на том берегу."
 line-267,推进之王,我们来救你们了。,We're coming to help.,"Мы пришли, чтобы спасти вас."
@@ -102,7 +102,7 @@ line-295,号角,感谢你，但是抱歉，我们不会撤离。镇里有萨卡�
 line-296,号角,最近的一支收到我们求援信号的维多利亚部队会在最晚一周后到达，我们必须守住入口，届时我们身后切特雷镇的幸存者才能安全。,"The nearest Victorian battalion that received our SOS will arrive within one week. We must guard the entrance until then, and ensure the safety of the survivors of Chetleigh.","Ближайшее подразделение Виктории, получившее наш сигнал, прибудет максимум через неделю, мы обязаны удержать вход, чтобы выжившие в городке Четре были в безопасности."
 line-298,号角,*嘈杂的通讯声*,*Radio noise*,*Шумная связь*
 line-299,号角,这是我们全票通过后的决定。,We voted on this. The decision was unanimous.,Это решение было принято нами единогласно.
-line-301,号角,包括了......Misery先生。感谢他。,Including... Misery. Much obliged.,Включая... мистера Майзери. Спасибо ему.
+line-301,号角,包括了......Misery先生。感谢他。,Including... Misery. Much obliged.,Включая... мистера Misery. Спасибо ему.
 line-309,,频道一片死寂。,Dead silence.,В канале наступила мёртвая тишина.
 line-310,,\n她声音听上去很轻松。,\nShe sounded like she was talking about the weather.,Голос у неё звучал так спокойно.
 line-311,,\n投票。战场上的投票唯有两个选择，生与死。,"\nA vote. On a battlefield, there are only two choices you get to vote for: Life, or death.",Голосование. На войне у голосования есть только два выбора: жизнь или смерть.
@@ -118,12 +118,12 @@ line-340,,我甚至没法去想那天的事。,I can't even bring myself to thin
 line-341,,\n戴菲恩......戴菲恩，先专注眼前。,"\nFocus, Delphine. Focus.","Дельфина... Дельфина, сосредоточься на настоящем."
 line-342,,\n哨戒任务已结束，该去和她们会合了。,\nThe overwatch mission has ended. Time to meet up with them.,"Задание дозора завершено, пора идти на встречу с ними."
 line-355,推进之王,天快亮了......我们的准备工作到什么地步了？,It's almost dawn. How go the preparations?,Скоро рассвет... на каком этапе наша подготовка?
-line-357,摩根,内部门窗加固很顺利，周围的暗哨Misery先生也清理得很干净。,The windows and doors are being reinforced. Misery's been cleaning up enemy sentries.,"Укрепление внутренних окон и дверей проходит успешно, мистер Майзери также зачистил все тайные дозоры вокруг."
+line-357,摩根,内部门窗加固很顺利，周围的暗哨Misery先生也清理得很干净。,The windows and doors are being reinforced. Misery's been cleaning up enemy sentries.,"Укрепление внутренних окон и дверей проходит успешно, мистер Misery также зачистил все тайные дозоры вокруг."
 line-363,Misery,我会继续在外围警戒。,I'll continue to keep a watch on the outskirts.,Я продолжу следить за внешним периметром.
 line-364,Misery,军营的情况我会随时和你们同步。,I'll get in touch if there are any changes at the camp.,Я буду оперативно сообщать вам об обстановке в лагере.
-line-369,推进之王,辛苦您了，Misery先生。,"Thank you, Misery.","Благодарю вас, мистер Майзери."
+line-369,推进之王,辛苦您了，Misery先生。,"Thank you, Misery.","Благодарю вас, мистер Misery."
 line-380,推进之王,我们从伦蒂尼姆分头行动时约定好去布伦特伍德镇会合，为什么你们会出现在切特雷镇？,We were supposed to meet up at Brentwood when we split up at Londinium. Why are you here at Chetleigh?,"Мы договаривались разделиться после Лондиниума и встретиться в городке Брентвуд, почему вы оказались в Четре?"
-line-382,号角,我们路过时Misery先生发现了异样，刚好赶上一场屠杀，我们没法放着不管。,"Misery noticed something unusual when we passed by. We got here in time to see a massacre, and we couldn't just walk away.","Мы проезжали мимо, мистер Майзери обнаружил неладное, мы как раз поспели к началу резни, мы не могли просто пройти мимо."
+line-382,号角,我们路过时Misery先生发现了异样，刚好赶上一场屠杀，我们没法放着不管。,"Misery noticed something unusual when we passed by. We got here in time to see a massacre, and we couldn't just walk away.","Мы проезжали мимо, мистер Misery обнаружил неладное, мы как раз поспели к началу резни, мы не могли просто пройти мимо."
 line-384,推进之王,你们确定让我指挥？号角小姐是专业的军人，戴菲恩也受过最精英的军事教育。,"Are you sure you want me to be in charge? You're a professional soldier, Horn, and Delphine had elite military training.","Вы уверены, что хотите доверить командование мне? Мисс Хорн — профессиональный военный, Дельфина тоже получила лучшее военное образование."
 line-386,号角,我知道你们在诸王长眠之所的行动，很了不起。你为我们带回了那把剑。,I know what you guys did at the Mausoleum of Kings. You brought back that sword for us.,"Я знаю об ваших действиях в месте упокоения королей, это было потрясающе. Вы вернули нам тот меч."
 line-388,推进之王,那只是根铁条。,Just a piece of metal.,Это просто кусок железа.
@@ -135,7 +135,7 @@ line-397,号角,是啊。,You're right.,Да.
 line-398,号角,你们的支援已经证明了这一点。,You've proven as much.,Ваша поддержка уже доказала это.
 line-399,号角,我们这里的人员，状态和物资条件都难以真正执行什么复杂的战术。接下来的战斗，我们需要的，更多的是决心和勇气。,"We don't have the personnel, condition or resources to implement complex tactics. What we need for the coming fight is courage and determination.","У наших людей здесь, состояние и материальные ресурсы не позволяют осуществлять сложную тактику. В грядущем бою нам нужно больше решимости и мужества."
 line-400,号角,在灾难面前，人本身，比传说或者神器重要得多。,"In the face of disaster, the human spirit is much more important than any legend or artifact.",Перед лицом катастрофы человек сам по себе куда важнее легенд или магических артефактов.
-line-402,号角,推进之王，你可以向我们证明这一点。,"Prove it, Siege.","Король Сигнал, вы можете доказать нам это."
+line-402,号角,推进之王，你可以向我们证明这一点。,"Prove it, Siege.","Сидж, вы можете доказать нам это."
 line-404,推进之王,......好。,...Alright.,...Хорошо.
 line-417,推进之王,我们的队伍大多不是专业战斗人员，占据高点做好防御射击就行。,Most of us are not professional soldiers. We'll just tell them to take the high ground and shoot any enemy that approaches.,"Большинство наших бойцов — не профессионалы, займите высоты и обеспечьте оборонительный огонь, этого достаточно."
 line-418,推进之王,那些漏进来的萨卡兹......我们几个作为突击手必须以最快的速度清理掉。,The few of us here will form a response team to take out any Sarkaz that gets past.,"А тех сарказов, что прорвутся... мы, как штурмовики, должны будем зачистить как можно быстрее."
@@ -146,7 +146,7 @@ line-424,摩根,我们要做的只是守住一栋楼，听上去没有那么难�
 line-425,摩根,“卡慕河保卫战”——,The Defense of Camus River—,«Битва за реку Каму» —
 line-431,因陀罗,喂，我刚想说这个名字！很酷，值得拍一部电影！,"Hey, that was what I was going to say! It would make a great movie.","Эй, я как раз хотела предложить это название! Звучит круто, стоит снять об этом фильм!"
 line-436,达格达,汉娜，别吵。一点钟方向一百米有巡逻队靠近，所有射击口准备就绪。,"Quiet, Hannah. Patrol approaching from 1 o'clock, hundred meters out. At the ready.","Ханна, не шуми. На один час, в ста метрах, приближается патруль, всем стрелковым позициям приготовиться."
-line-437,达格达,推进之王，要下令射击吗？,"Shall we fire, Siege?","Король Сигнал, давать команду к стрельбе?"
+line-437,达格达,推进之王，要下令射击吗？,"Shall we fire, Siege?","Сидж, давать команду к стрельбе?"
 line-444,,我看到维娜小姐握锤的手在微微颤抖。,Vina's hands were trembling.,"Я увидел, как рука Вины, сжимающая молот, слегка дрожит."
 line-445,,\n兴奋？恐惧？又或是二者皆有？,\nExcitement? Fear? Or both?,"Волнение? Страх? Или и то, и другое?"
 line-446,,\n我不知道，我的双手冰凉无比。,"\nI do not know. My hands are cold, almost frozen.","Не знаю, мои руки были холодны как лед."
@@ -175,7 +175,7 @@ line-572,戴菲恩,地雷区缺口我补上了！好消息是本蒂勒还有气�
 line-573,戴菲恩,达格达小姐今天醒了吗？,Is Dagda awake?,Мисс Дагда уже пришла в себя?
 line-578,摩根,......醒了，但不方便移动。,"Awake, but she can't be moved yet.","...Очнулась, но двигаться ей пока нельзя."
 line-579,摩根,她太拼命了，我尽量照顾她。,She's been trying too hard. I'll do my best to care for her.,"Она выложилась слишком сильно, я стараюсь присматривать за ней."
-line-584,推进之王,Misery先生，萨卡兹军营那边是否有新的动向？他们前三天强行攻楼的成果不大，说不定已经有了新的计划。,"Is there any news from the Sarkaz camp? They may be planning something else, after the assault on the building failed.","Мистер Майзери, есть ли новости из лагеря сарказов? Их попытки прорваться в первые три дня были безуспешны, возможно, у них новый план."
+line-584,推进之王,Misery先生，萨卡兹军营那边是否有新的动向？他们前三天强行攻楼的成果不大，说不定已经有了新的计划。,"Is there any news from the Sarkaz camp? They may be planning something else, after the assault on the building failed.","Мистер Misery, есть ли новости из лагеря сарказов? Их попытки прорваться в первые три дня были безуспешны, возможно, у них новый план."
 line-585,推进之王,您还能找到更多的地雷让我们扩大地雷防御区吗？,Can you find any more mines to expand the minefield?,"Можете ли вы достать ещё мин, чтобы расширить периметр?"
 line-591,Misery,恐怕不行，我们那位萨卡兹朋友的游击雇佣兵团的位置可不好找。,I'm afraid not. Our Sarkaz friend's mercenary band isn't so easy to find.,"Боюсь, что нет, найти расположение наемников нашего друга-сарказов не так просто."
 line-596,Misery,现在能依靠的只有我*电流声*——,We'll have to count on my *static*—,Сейчас я могу полагаться только на... *электрический шум*
@@ -208,7 +208,7 @@ line-724,Misery,如果我没猜错，这东西的巫术核心储备的能量需�
 line-726,推进之王,也就是说，只要在它蓄能完成的时候干掉巫术核心就可以让它炸掉自己，对吧？,So it'll blow itself up if its witchcraft core is destroyed when fully charged?,"То есть, если уничтожить ядро в момент зарядки, он взорвется сам, верно?"
 line-727,Misery,理论上可以，但我也是第一次见到这东西出现在战场上，没有把握保证——,"In theory, but I've never seen it in action personally. I can't guarantee—","Теоретически да, но я впервые вижу эту штуку на поле боя, не могу обещать..."
 line-729,推进之王,知道这些就够了，我去顶层找机会，只有从高位才有机会接近到巫术核心。,That's good enough. I'll go up to the roof to look for an opportunity. The only way to approach the core is from above.,"Этого достаточно, я пойду на крышу, только с высоты можно подобраться к ядру."
-line-730,推进之王,Misery先生，你能在祭坛启动时帮我延缓炮手一小会儿吗？哪怕只有一秒？,Can you distract the operator for a little while when the altar is activated? Every second helps.,"Мистер Майзери, можете ли вы задержать стрелка, когда алтарь запустится? Хотя бы на секунду?"
+line-730,推进之王,Misery先生，你能在祭坛启动时帮我延缓炮手一小会儿吗？哪怕只有一秒？,Can you distract the operator for a little while when the altar is activated? Every second helps.,"Мистер Misery, можете ли вы задержать стрелка, когда алтарь запустится? Хотя бы на секунду?"
 line-731,Misery,......我答应你。,...Will do.,...Я обещаю.
 line-738,戴菲恩,维娜——,Vina—,Вина —
 line-748,,我愣在了通往二层的楼梯口。,"I stand at the staircase to the second floor, dumbfounded.",Я застыл у лестницы на второй этаж.
@@ -245,14 +245,14 @@ line-826,,他们已经瞄准我们了。,They've taken aim.,Они уже нац
 line-827,,\n猛蜇我心脏的恶意让我恶心。,\nThe malice is sickening.,"Злоба, пронзившая мое сердце, вызывает тошноту."
 line-832,戴菲恩,呼——他们随时都可能开炮。,They could fire at any time.,Фух — они могут выстрелить в любой момент.
 line-834,因陀罗,被那鬼东西盯上可真不好受。,Not exactly a great feeling to be in that thing's crosshairs.,Неприятно быть под прицелом этой твари.
-line-840,推进之王,Misery先生？,Misery?,Мистер Майзери?
+line-840,推进之王,Misery先生？,Misery?,Мистер Misery?
 line-844,Misery,随时可以——,Whenever you're ready—,Готов —
 line-846,推进之王,动手。,Do it.,Начали.
 line-860,,红色。,Red.,Красный.
 line-861,,\n我想起了甲板上的颜色。,\nThe color on the deck flashes back before my eyes.,Я вспомнил цвет на палубе.
 line-863,,祭坛中的恶魔之眼在直视我。,The demonic eye in the altar peers at me.,Демонический глаз в алтаре смотрит прямо на меня.
 line-878,,而一道弧形的银光逼开了恶魔的眼睛。,It is averted by a silver arc.,Серебристая дуга отвела взгляд демона.
-line-879,,\n匕首划过了一排萨卡兹炮手的脖子，欢快地跳回了Misery的手里。,"\nThe dagger rips open the necks of a file of Sarkaz artillerymen, leaping back joyfully into Misery's hand.",Кинжал перерезал горла сарказов-стрелков и вернулся в руку Майзери.
+line-879,,\n匕首划过了一排萨卡兹炮手的脖子，欢快地跳回了Misery的手里。,"\nThe dagger rips open the necks of a file of Sarkaz artillerymen, leaping back joyfully into Misery's hand.",Кинжал перерезал горла сарказов-стрелков и вернулся в руку Misery.
 line-880,,\n他们落向核心的手停滞了一刹，在惯性的牵引下继续着他们死前的决定。,"\nTheir hands slow for a moment as they reach for the core, continuing their movements from before they died under the pull of inertia.","Их руки, тянувшиеся к ядру, замерли, продолжая по инерции свой путь к смерти."
 line-892,,从天而降的巨锤与红色的波纹轻轻碰撞。,"A hammer falls from the sky, impacting lightly with the red wave.",Упавший с небес молот столкнулся с красной рябью.
 line-919,,“砰”。,Bang.,«Бам».

@@ -87,7 +87,8 @@ def apply_terms(text: str, terms: dict, enabled: set[str], counters: dict) -> st
 
 
 MULTISPACE_RE = re.compile(r"\s{2,}")
-# апостроф НЕ трогаем: он часть транслитерации (Хо'олхейак, Виш'адель)
+# апостроф в русских словах запрещён (решение NUM 2026-11-16);
+# замена апострофных форм делается tools/global_canon_pass.py
 QUOTE_CHARS_RE = re.compile(r"[«»„“”\"]")
 
 

@@ -17,7 +17,7 @@ line-18,,少烦我。;......;该怎么样才算是好心情？,Leave me alone.;.
 line-21,PRTS,Dr.{@nickname}表现出一定的攻击性。,Dr. {@nickname} is displaying aggression.,Доктор {@nickname} проявляет признаки агрессии.
 line-22,PRTS,请放心，系统不会因此电击你，不用太过顾忌系统对你的检测。,Rest assured the system will not electrocute you. There is no need to fear these tests.,"Пожалуйста, не волнуйтесь, система не ударит вас током за это, нет нужды беспокоиться о мониторинге со стороны системы."
 line-25,PRTS,Dr.{@nickname}陷入了沉默。,Dr. {@nickname} fell silent.,Доктор {@nickname} замолчал.
-line-26,PRTS,无论是无声抗议还是不愿进行沟通，我认为这都是一种孤独性精神障碍症的表现。,"Whether silent protest or refusal to communicate, I believe it is an expression of an autism spectrum disorder.","Будь то молчаливый протест или нежелание общаться, я считаю это проявлением расстройства психики на почве одиночества."
+line-26,PRTS,无论是无声抗议还是不愿进行沟通，我认为这都是一种孤独性精神障碍症的表现。,"Whether silent protest or refusal to communicate, I believe it is an expression of an autism spectrum disorder.","Будь то молчаливый протест или нежелание общаться, я считаю это проявлением расстройства аутистического спектра."
 line-27,PRTS,当然，请便，系统会平等对待所有人。,"Please, by all means. The system treats all equally.","Конечно, как пожелаете, система относится ко всем одинаково."
 line-30,PRTS,好与坏是一种主观判断。,Good and bad are subjective judgments.,Хорошо или плохо — это субъективное суждение.
 line-31,PRTS,不过，本系统集成了几乎所有有记载的精神活动状态，以及各类神经兴奋的激素标准。,"However, this system has collected nearly all documented states of mental activity, as well as hormonal criteria for various types of neurological excitement.","Однако эта система интегрировала почти все зарегистрированные состояния психической активности, а также стандарты различных нейрогормонов возбуждения."
@@ -25,13 +25,13 @@ line-32,PRTS,所以你可以认为，本系统的主观判断是无限接近客�
 line-33,PRTS,因此，无论Dr.{@nickname}将要采取什么样的行动，系统都能在一定程度上进行模拟。,"Therefore, no matter what action Dr. {@nickname} may take, the system will be able to process it to some degree.","Следовательно, какие бы действия ни предпринял доктор {@nickname}, система может в определенной степени их смоделировать."
 line-34,PRTS,所以，想做什么就去做吧。,Which is to say: you may do as you wish.,"Поэтому делайте то, что хотите."
 line-35,PRTS,PRTS具备相应的无害安抚机能。,PRTS is equipped with a nonlethal pacification function.,PRTS обладает соответствующими функциями безобидного умиротворения.
-line-36,PRTS,当你采取过激行动时你会立刻昏厥并在3.55个工作时后醒来，这可以保证你的行为向正常标准贴近。,"Should you take unreasonable action, you will lose consciousness for 3.55 working hours, ensuring you maintain a behavioral standard close to normal.","Когда вы совершите чрезмерно агрессивные действия, вы немедленно потеряете сознание и придёте в себя через 3,55 рабочих часа, что гарантирует, что ваше поведение будет соответствовать нормальным стандартам."
+line-36,PRTS,当你采取过激行动时你会立刻昏厥并在3.55个工作时后醒来，这可以保证你的行为向正常标准贴近。,"Should you take unreasonable action, you will lose consciousness for 3.55 working hours, ensuring you maintain a behavioral standard close to normal.","Когда вы совершите чрезмерно агрессивные действия, вы немедленно потеряете сознание и придёте в себя через 3,55 рабочего часа, что гарантирует, что ваше поведение будет соответствовать нормальным стандартам."
 line-39,PRTS,"Welcome home, Doctor。","Welcome home, Doctor.","С возвращением домой, Доктор."
 line-40,,......这里真的能算家吗？,Can this really be called home?,...Разве это место действительно можно назвать домом?
 line-46,？？？,你是，Dr.{@nickname}？,Are you Dr. {@nickname}?,"Ты, Доктор {@nickname}?"
 line-47,,啊？;......？;你好？,Huh?;......?;Hello?,А?;...?;Привет?
 line-50,？？？,......是你，没有错。,It's you. I'm sure of it.,"...Это ты, несомненно."
-line-51,？？？,我感觉到了......虽然，不太一样。,I can feel it... you're a little different.,"Я чувствую это... Хотя, всё немного иначе."
+line-51,？？？,我感觉到了......虽然，不太一样。,I can feel it... you're a little different.,Я чувствую это... Хотя... ты немного другой.
 line-52,？？？,不过......你怀里的人，穿的制服......,"But... the person you're holding, that uniform...","Но... человек у тебя на руках, эта форма..."
 line-53,？？？,我可以问一问，你抱着的是谁吗？,Can I ask who's that you're holding?,"Можно спросить, кого ты держишь?"
 line-54,,一介战士。;一位同胞。;一个朋友。,A fighter.;One of my people.;A friend.,Воин.;Соратница.;Друг.
@@ -41,7 +41,7 @@ line-59,？？？,不，不是......这伤口，不是会杀死人的伤口。,"
 line-62,？？？,她也是感染者......？,Is she Infected too...?,Она тоже инфицирована...?
 line-63,？？？,不，你不是这个意思。,"No, that's not what you meant.","Нет, ты не это имел в виду."
 line-64,？？？,Dr.{@nickname}，你像是失去了什么。,"Dr. {@nickname}, you seem like you lost something.","Доктор {@nickname}, ты словно что-то потерял."
-line-67,？？？,她是你的朋友？,She's your friend?,Она была твоим другом?
+line-67,？？？,她是你的朋友？,She's your friend?,Она твой друг?
 line-68,？？？,可是，朋友......她和你相联系的时间，很短很短。,But... you barely know her at all.,"Но друг... время, которое она была связана с тобой, очень, очень короткое."
 line-69,？？？,我不知道......我不知道这会不会很快就消失。,I don't know... this might disappear soon.,"Я не знаю... я не знаю, исчезнет ли это вскоре."
 line-71,,你能......感受到什么？,,Что ты... чувствуешь?

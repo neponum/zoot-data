@@ -14,7 +14,7 @@ char-7,哥伦比亚士兵,哥伦比亚士兵,Columbian Soldier,Колумбий�
 char-8,雅拉,雅拉,Jara,Яра
 char-9,？？？,？？？,???,???
 char-10,沉默的动力甲,沉默的动力甲,Quiet Power Armor,Молчаливая силовая броня
-char-11,霍尔海雅,霍尔海雅,Ho'olheyak,Хо'олхейак
+char-11,霍尔海雅,霍尔海雅,Ho'olheyak,Хоолхейак
 char-12,动力甲士兵,动力甲士兵,Power Armor Operator,Солдат в силовой броне
 char-13,缪尔赛思,缪尔赛思,Muelsyse,Мюльсис
 char-14,迷迭香,迷迭香,Rosmontis,Росмонтис
@@ -24,7 +24,7 @@ line-16,克丽斯腾,……最后的调试工作还需要四十五分钟。,Fina
 line-18,洛肯,足够了。,Plenty.,Этого хватит.
 line-19,洛肯,只要完成这些数据的传输……我这一生最具开创性的成果就完成了。,My greatest achievement will be complete once this data is transferred.,Стоит только завершить передачу этих данных... и моё величайшее достижение в жизни будет готово.
 line-21,克丽斯腾,我会留下你的研究记录。,I will retain your research records.,Я сохраню твои записи об исследованиях.
-line-23,洛肯,我知道。给那个叫霍尔海雅的年轻姑娘，或者随便谁……我不在乎。,"I know. Give it to that girl, Ho'olheyak, or someone else... I don't care.","Знаю. Отдай их той юной девице по имени Хо'олхейак, или ешё кому... мне всё равно."
+line-23,洛肯,我知道。给那个叫霍尔海雅的年轻姑娘，或者随便谁……我不在乎。,"I know. Give it to that girl, Ho'olheyak, or someone else... I don't care.","Знаю. Отдай их той юной девице по имени Хоолхейак, или ещё кому... мне всё равно."
 line-25,洛肯,在我的生命即将走到尽头的时候，还能有机会完成这个研究，我差点就要忘记自己这一生的缺憾。,Being able to finish this research here in my final days almost lets me forget all the regrets in my life.,"Раз уж моя жизнь подходит к концу, возможность завершить это исследование заставила меня почти забыть обо всех своих неудачах."
 line-26,洛肯,哈哈……咳咳咳。,Haha... *cough*.,Ха-ха... *Кашель*.
 line-27,洛肯,还记得你第一次把这东西展现给我看的时候，我有多么难以接受。,I still remember how hard it was to accept when you showed this to me for the first time.,"Я до сих пор помню, как трудно было это принять, когда ты впервые мне это показала."
@@ -67,7 +67,7 @@ line-114,研究员,不，不需要！我这就去整理……,"N-No, sir, I'll p
 line-116,斐尔迪南,不用了。就这台终端，打开它。,No need. This terminal right here. Turn it on.,Не надо. Просто открой этот терминал.
 line-118,研究员,长官，这些都是比较粗糙的原始数据，缺乏可视化图表的话，可能不那么好、好理解……,"But sir, this is raw data without visualization...","Но сэр, это довольно грубые необработанные данные, без визуализации их может быть... нелегко понять..."
 line-120,斐尔迪南,……我是斐尔迪南·克鲁尼。,...I'm Ferdinand Clooney.,...Я Фердинанд Клуни.
-line-121,斐尔迪南,我是莱茵生命能量科主任。,Rhine Lab's Director of Energy.,Я директор энергетического отдела «Rhine Lab».
+line-121,斐尔迪南,我是莱茵生命能量科主任。,Rhine Lab's Director of Energy.,Я директор энергетического отдела «Рейн Лаб».
 line-122,斐尔迪南,整个特里蒙的能量循环系统是我设计的。你面前这台大型计算终端核心处理器所使用的源石能源转换公式以我的名字命名。,I designed the Trimountian energy circulation system. The processor of the terminal in front of you is based on an Originium energy conversion formula named after me.,"Я спроектировал всю энергосистему Тримаунтса. Формула преобразования энергии ориджиниума, которую использует центральный процессор этого терминала перед тобой, названа в мою честь."
 line-125,研究员,斐尔迪南……公式？！您、您是……,The Clooney... Formula?! Y-You're...,Формула... Клуни?! В-вы...
 line-127,斐尔迪南,你浪费了我整整两分钟时间。数据，现在。,"You've wasted two minutes. Data, now.","Ты потратил ровно две минуты моего времени. Данные, сейчас же."
@@ -231,7 +231,7 @@ line-576,布莱克,通知所有人——,Let everyone know—,Сообщите �
 line-577,布莱克,我们面对的，是最先进的实验用无人动力装甲。,We're facing the latest prototype unmanned power armor.,Мы противостоим самой современной экспериментальной беспилотной силовой броне.
 line-592,霍尔海雅,嗯，第三个。,Third one.,"Хм, третий."
 line-594,,房间里的特制墙壁阻隔了所有的惨叫，但监控屏幕上到处都是爆炸的火光。,"The walls of the room block all screams, but the explosions can be clearly seen on the monitors.","Специальные стены в комнате заглушали все крики, но на экранах мониторов ясно виднелись вспышки взрывов."
-line-595,,霍尔海雅并没有看屏幕。从第一个猎物踏入陷阱开始，她的双眼就从未从书本上离开过。,Ho'olheyak does not look at the screen. Her eyes have not left the book since the first prey stepped into the trap.,"Хо'олхейак не смотрела на экраны. С того момента, как первая жертва ступила в ловушку, её глаза ни разу не оторвались от книги."
+line-595,,霍尔海雅并没有看屏幕。从第一个猎物踏入陷阱开始，她的双眼就从未从书本上离开过。,Ho'olheyak does not look at the screen. Her eyes have not left the book since the first prey stepped into the trap.,"Хоолхейак не смотрела на экраны. С того момента, как первая жертва ступила в ловушку, её глаза ни разу не оторвались от книги."
 line-596,,她只是百无聊赖地甩动着尾巴，按下一个又一个按钮，导演着不远处上演的动作戏。,"She swings her tail back and forth in boredom, pressing one button after another, directing the show happening not far from here.","Она лишь скучающе виляла хвостом, нажимая на кнопки одну за другой, режиссируя разыгрывающуюся неподалёку драму."
 line-601,霍尔海雅,……准备去哪儿？,Where are you going?,...Куда собрался?
 line-603,洛肯,去实现我最后的愿望。,To fulfill my final wish.,Исполнить своё последнее желание.
@@ -247,7 +247,7 @@ line-619,洛肯,你还年轻。终点迫近时的疯狂，不该出现在你的�
 line-621,霍尔海雅,很遗憾，时间从未公平地对待每一个人。走吧，老家伙。在死亡把你打捞起来之前，去做完你那最后一场梦吧。,"Time does not treat us all fairly. Go, old man, and dream your last dream before death carries you away.","Очень жаль, но время никогда ни к кому не было справедливо. Иди, старик. Прежде чем смерть выловит тебя, заверши свою мечту."
 line-622,霍尔海雅,晚安。,Good night.,Доброй ночи.
 line-625,霍尔海雅,至于我……我也该处理最后的麻烦了。,As for me... it's time for me to deal with my last problem.,Ну а я... должна разобраться с последними неприятностями.
-line-627,,霍尔海雅放下书本，用尾巴将一样东西从书堆里勾起。,Ho'olheyak puts down the book and hooks something from the pile of books with her tail.,Хо'олхейак отложила книгу и хвостом подцепила что-то из стопки книг.
+line-627,,霍尔海雅放下书本，用尾巴将一样东西从书堆里勾起。,Ho'olheyak puts down the book and hooks something from the pile of books with her tail.,Хоолхейак отложила книгу и хвостом подцепила что-то из стопки книг.
 line-628,,那是一颗金属制成的头颅。,A metal head.,Это была металлическая голова.
 line-629,,她轻轻地朝那颗头颅吹了一口气，看着那缕白色的雾气穿过金属空壳，哪儿都没去，飞快地消散在空气里。,"She blows lightly at the head and sees the white vapor pass through the metal shell, then dissipate into thin air without going anywhere.","Она слегка дунула на эту голову, глядя, как полоска белого тумана проходит сквозь пустую оболочку металла, никуда не направляясь, и быстро растворяется в воздухе."
 line-631,霍尔海雅,梅兰德特工和特种部队共同行动，也算是难得一见。,It's not everyday that you get to see Maylander agents work with commandos.,"Оперативники Мейландера и армейский спецназ действуют вместе, зрелище не из частых."
@@ -256,10 +256,10 @@ line-633,霍尔海雅,那您可要错过接下来最精彩的场面了。,You'll
 line-645,赫默,咳咳……咳咳咳，敌人是……谁？,*cough* *cough* Who's the enemy?,*Кашель*... *Кашель* Кто враг?
 line-650,雅拉,能让梅兰德的眼睛瞬间全部失效的，只有掌握了内部识别码的人。,Only someone with the internal access codes can disable all of Maylander's eyes at the same time.,"Только тот, кто владеет внутренними кодами идентификации, может мгновенно ослепить глаза Мейландер."
 line-652,赫默,总辖身边还有梅兰德的人？,Control has someone from Maylander with her?,Рядом с гендиректором есть ещё люди и Мейландер?
-line-654,雅拉,梅兰德高级特工，代号霍尔海雅。她是接替我监视克丽斯腾的人。直到此刻，我才确定，原来她也已经背叛了。,"An elite Maylander agent, codename Ho'olheyak. She took over the task of monitoring Kristen from me. I wasn't sure if she had turned traitor... until now.","Элитный агент Мэйлендер, Хо'олхейак. Она переняла у меня задачу слежки за Кристен. Я не был уверен, не предала ли она меня... до сих пор."
-line-656,赫默,霍尔海雅？,Ho'olheyak?,Хо'олхейак?
+line-654,雅拉,梅兰德高级特工，代号霍尔海雅。她是接替我监视克丽斯腾的人。直到此刻，我才确定，原来她也已经背叛了。,"An elite Maylander agent, codename Ho'olheyak. She took over the task of monitoring Kristen from me. I wasn't sure if she had turned traitor... until now.","Элитный агент Мэйлендер, Хоолхейак. Она переняла у меня задачу слежки за Кристен. Я не был уверен, не предала ли она меня... до сих пор."
+line-656,赫默,霍尔海雅？,Ho'olheyak?,Хоолхейак?
 line-658,雅拉,……昨天。,Yesterday.,...Вчера.
-line-659,雅拉,“霍尔海雅”这个词的意思是，昨天。也许这并不是她的代号，可也无人知晓这是不是她的真名。,Ho'olheyak means 'yesterday.' It's unknown whether it's her codename or the one she was born with.,"«Хо'олхейак» означает «вчера». Может, это не её кодовое имя, никто не знает, настоящее ли это имя."
+line-659,雅拉,“霍尔海雅”这个词的意思是，昨天。也许这并不是她的代号，可也无人知晓这是不是她的真名。,Ho'olheyak means 'yesterday.' It's unknown whether it's her codename or the one she was born with.,"«Хоолхейак» означает «вчера». Может, это не её кодовое имя, никто не знает, настоящее ли это имя."
 line-660,雅拉,一年前，克丽斯腾将她带到莱茵生命，告诉我，她是莱茵新聘请的文献学顾问。,"Kristen brought her to Rhine Lab one year ago, saying she was Rhine Lab's new bibliology consultant.","Год назад Кристен привела её в Рейн, сказав мне, что она новый консультант-библиолог."
 line-661,雅拉,我调查了她，却几乎没有收获。,I looked into her background but found nothing.,"Я проверила её биографию, но ничего не нашла."
 line-662,雅拉,当然，梅兰德替她隐藏了大部分档案。可坦率地说，这对我而言并不是难题。,"Maylander had concealed most of her files, of course, but that wasn't much of a problem for me.","Конечно, Мейландер скрыл большую часть архивов. Но, честно говоря, для меня это не было проблемой."
@@ -293,7 +293,7 @@ line-741,霍尔海雅,需要给你们留一点时间投降吗？,Do you need tim
 line-752,缪尔赛思,唔……我们应该到了。,Mm... we're almost there.,М-м...кажется мы пришли.
 line-753,缪尔赛思,前面这栋建筑就是克丽斯腾为洛肯安排的藏身处。,That's the hideout Kristen prepared for Loken.,"Это здание впереди — убежище, которое Кристен устроила для Локена."
 line-756,,我们在地下走了几个小时。;原来通道的尽头这么普通。,We walked a few hours underground.;I thought the end of the passage would look more normal.,"Мы несколько часов шли под землей; Мне казалось, что конец прохода будет выглядеть более обычным."
-line-758,,缪尔赛思，你的情报是从哪儿得来的？,"Where did you get your info, Muelsyse?","Мюльсайз, откуда у тебя эта информация?"
+line-758,,缪尔赛思，你的情报是从哪儿得来的？,"Where did you get your info, Muelsyse?","Мюльсис, откуда у тебя эта информация?"
 line-761,缪尔赛思,找了一个……呃，直性子的工程师朋友，和她套了套交情。,"I befriended a... er, straightforward engineer.","Нашла одного... э-э, прямолинейного друга-инженера и завязала с ней знакомство."
 line-763,缪尔赛思,唔，这里的味道……可说不上好。,Whew... I've smelled better.,"М-м, запах здесь... мягко говоря, не лучший."
 line-764,缪尔赛思,克丽斯腾这家伙，还是老样子。只要一投入实验，就算把她扔进垃圾场都无所谓。,"Kristen hasn't changed. You could throw her into a garbage dump when she's in the middle of an experiment, and she wouldn't care one bit.","Кристен ничуть не изменилась. Её можно выбросить на свалку, когда она находится в разгаре эксперимента, и ей будет совершенно всё равно."
@@ -307,7 +307,7 @@ line-786,,迷迭香……;迷迭香？,Rosmontis...;Rosmontis?,Росмонти�
 line-789,迷迭香,……,......,...
 line-791,缪尔赛思,小猫怎么了？她好像呆呆的，是在想什么吗？,What's with the kitten? Is she thinking about something?,"Что с кошечкой? Она какая-то отрешённая, о чём-то задумалась?"
 line-794,,她对战场环境应该很敏感。;有什么其他因素在干扰她的思绪。,I think she's sensitive to the battlefield environment.;There's something interfering with her thoughts.,"Она очень чувствительна к боевой обстановке.; Есть какой-то другой фактор, что мешает её мыслям."
-line-797,缪尔赛思,博士，你先多照看她一下，我得想想进入这栋建筑的办法……可能我可以操控水从通风管道进去，然后破解隔离门的电路……,"Keep an eye on her, Doctor. I need to find a way in... maybe I can use my water to get in through the vents, then hack the door circuits...","Присмотрите за ней, доктор. Мне нужно найти способ проникнуть внутрь... может быть, я смогу использовать свою воду что бы попасть внутрь через вентиляционные отверстия, а затем взломать схемы дверей..."
+line-797,缪尔赛思,博士，你先多照看她一下，我得想想进入这栋建筑的办法……可能我可以操控水从通风管道进去，然后破解隔离门的电路……,"Keep an eye on her, Doctor. I need to find a way in... maybe I can use my water to get in through the vents, then hack the door circuits...","Присмотрите за ней, Доктор. Мне нужно найти способ проникнуть внутрь... может быть, я смогу использовать свою воду что бы попасть внутрь через вентиляционные отверстия, а затем взломать схемы дверей..."
 line-802,,缪尔赛思，别找了。;迷迭香，门开了。,"No need to look, Muelsyse.;The door's open, Rosmontis.","Нет смысла, Мюльсайс; Дверь открыта, Росмонтис."
 line-814,缪尔赛思,这就是……,This is...,Это...
 line-817,,克丽斯腾在里面建了一座实验室。;洛肯的实验室。,Kristen built a lab inside.;Loken's lab.,Кристен устроила внутри лабораторию.; Лаборатория Локена.

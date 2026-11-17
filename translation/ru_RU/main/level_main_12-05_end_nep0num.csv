@@ -9,7 +9,7 @@ char-2,饥饿的暴徒,饥饿的暴徒,Starving Thug,Голодный банди
 char-3,冷静的暴徒,冷静的暴徒,Calm Thug,Хладнокровный бандит
 char-4,？？？,？？？,???,???
 char-5,雷德,雷德,Red,Ред
-char-6,Misery,Misery,Misery,Мизери
+char-6,Misery,Misery,Misery,Misery
 char-7,号角,号角,Horn,Хорн
 char-8,自救军战士,自救军战士,Self-Salvation Corps Fighter,Боец Сил самообороны
 char-9,萨卡兹士兵,萨卡兹士兵,Sarkaz Soldier,Солдат Сарказов
@@ -38,7 +38,7 @@ line-56,饥饿的暴徒,还不老实——,Still trying to hide—,Все ещё
 line-61,？？？,他的话就那么不值得你们相信吗？,Are his words really so untrustworthy?,Неужели его слова настолько не заслуживают вашего доверия?
 line-62,？？？,感染者偶尔也会走运一回，捡到点吃的吧。这又有什么稀奇。,"Even the Infected get lucky sometimes and find food, right? What's so strange about that?",Инфицированным тоже иногда везет найти немного еды. Разве это так удивительно?
 line-64,饥饿的暴徒,你又是谁？也是来抢东西的？,"And who are you? Here to rob him, too?",А ты ещё кто? Тоже пришел что-то отобрать?
-line-66,？？？,你们好，我叫雷德。,Hello. My name is Red.,"Приветствую, меня зовут Рэд."
+line-66,？？？,你们好，我叫雷德。,Hello. My name is Red.,"Приветствую, меня зовут Ред."
 line-67,雷德,以前在乌萨斯的时候，他们也叫我“红刀”。,"Back in my Ursus days, they all called me 'Redblade.'","Когда я был в Урсусе, меня называли «Красный клинок»."
 line-103,Misery,加快速度，跟上我们。,Pick up the pace. Stay close.,"Ускоряйтесь, не отставайте."
 line-105,号角,再坚持一下！我们就快到了！,Hang in there! We're almost there!,Ещё немного! Мы почти на месте!
@@ -69,7 +69,7 @@ line-168,,号角转过身，面对着如潮水一般涌来的敌人。,Horn turn
 line-169,,她微微扯了扯嘴角，这一切也该结束了。,She smirks a little. It is high time this all came to an end.,"Она слегка тронула уголки губ, все это должно было закончиться."
 line-170,,这些逃亡，这些战斗，这些彻夜难眠的夜晚。,"All this fleeing, the battles, and these sleepless nights.","Эти побеги, эти битвы, эти бессонные ночи."
 line-171,,军人本就该死在战争中。,Soldiers are meant to die in war.,Военный и должен погибать на войне.
-line-174,号角,不知道......风笛现在怎么样。,I wonder... what Bagpipe is up to right now.,Интересно... как там сейчас Флеймтейл.
+line-174,号角,不知道......风笛现在怎么样。,I wonder... what Bagpipe is up to right now.,Интересно... как там сейчас Бэгпайп.
 line-177,,她握紧武器，准备冲锋。,She tightens her grip on her weapon and prepares to charge.,"Она сжала оружие, готовясь к атаке."
 line-178,,阴云笼罩的天空下，一阵奇怪的声音传来，由远及近。,"Under the dark, cloudy sky, a strange sound can be heard zooming in ever closer from afar.","Под затянутым тучами небом раздался странный звук, приближающийся издалека."
 line-189,,很熟悉的声音，只是很久没有再在伦蒂尼姆城内响起。,"A familiar sound, although it has been a long time since it was last heard in Londinium.","Очень знакомый звук, хотя его давно не было слышно в Лондиниуме."
@@ -94,10 +94,10 @@ line-284,费斯特,可是等在这里一样是死。我不知道我的那些朋�
 line-286,可露希尔,我的无人机上有个小型激光切割装置，这些钢板很厚，但只要再给我点时间......,"My drone has a small laser cutting device. These steel plates may be thick, but if you give me some time...","На моем дроне есть небольшое лазерное резательное устройство. Стальные листы толстые, но если дашь мне ещё немного времени..."
 line-288,费斯特,要多少时间？,How long will it take?,Сколько времени нужно?
 line-290,可露希尔,别急！我得先测试功率......,"Oh, keep your pants on! I need to test the output first...",Не торопи меня! Сначала нужно проверить мощность...
-line-295,洛洛,费斯特，还记得老比尔的事情吗？,"Feist, do you remember what happened to Old Bill?","Фэст, ты помнишь, что случилось со стариком Биллом?"
+line-295,洛洛,费斯特，还记得老比尔的事情吗？,"Feist, do you remember what happened to Old Bill?","Фест, ты помнишь, что случилось со стариком Биллом?"
 line-297,洛洛,一定是......一定是那种怪物又混进了我们之中，他又一次欺骗了我们！,It has to be... One of those monsters has got to have infiltrated us again. He fooled us again!,"Должно быть... должно быть, какой-то монстр снова затесался среди нас, он снова нас обманул!"
 line-298,洛洛,我们太大意了，我们应该早点发现的！,We were too careless. We should've noticed sooner!,"Мы проявили такую неосторожность, мы должны были догадаться раньше!"
-line-300,洛洛,那种能够变换外貌的萨卡兹......费斯特，会不会这里也有？,Feist... Are those Sarkaz who can change their faces here too?,"Тот самый Сарказ, что может менять облик... Фэст, а что если здесь тоже есть такой?"
+line-300,洛洛,那种能够变换外貌的萨卡兹......费斯特，会不会这里也有？,Feist... Are those Sarkaz who can change their faces here too?,"Тот самый Сарказ, что может менять облик... Фест, а что если здесь тоже есть такой?"
 line-301,洛洛,有那种东西存在，我们到底......该信任谁？,"When those <i>things</i> exist, how... how can we trust anyone?","Когда такая тварь среди нас, кому... кому нам доверять?"
 line-303,费斯特,......,......,...
 line-305,费斯特,如果......不是呢？,What if... that's not what this is?,"А что, если... нет?"
@@ -113,7 +113,7 @@ line-320,费斯特,克洛维希娅说过，说到底，我们不过是些普通�
 line-322,费斯特,我必须承认......就连我，都同样恐惧离开。,"I have to admit that... even I fear leaving, just like them.",Должен признать... даже я боюсь уходить.
 line-323,费斯特,逃避和退缩，是我们每个普通人在面对一场战争时......最下意识的选择。,Fleeing and cowering... is the most instinctive choice that all normal people make when they are confronted with war.,"Избегание и отступление — это то, что каждый обычный человек... подсознательно выбирает перед лицом войны."
 line-325,洛洛,那你大可以留下！和你的那些朋友们一起！,Then <i>you</i> stay! Stay here with your friends!,Тогда ты мог просто остаться! Со своими друзьями!
-line-327,费斯特,我不会这么做，洛洛。,"I won't do that, Rockrock.","Я не сделаю этого, Лоро."
+line-327,费斯特,我不会这么做，洛洛。,"I won't do that, Rockrock.","Я не сделаю этого, Лоло."
 line-329,费斯特,我必须认清恐惧，才能警醒自己......勇气的价值。,I have to face my fear. That's the only way I can remind myself... of the worth of bravery.,"Я должен признать свой страх, чтобы напомнить себе... о цене мужества."
 line-330,费斯特,我愿意相信，他们还不至于真的跨过那条线。我愿意相信，他们只是被恐惧所裹挟。,I have faith that they haven't crossed that line. I have faith that they were only sucked into this choice by fear.,"Я хочу верить, что они не перешли черту. Я хочу верить, что ими просто завладел страх."
 line-331,费斯特,可这些都无关紧要了。,But none of it matters now.,Но теперь это не имеет значения.
@@ -128,8 +128,8 @@ line-361,费斯特,闪灵小姐——,Shining—,Мисс Шайнинг —
 line-373,？？？,啊，闪灵，好久不见。听说你去了家族聚会？,"Oh, hey, Shining. Been a while. I heard you went to a family reunion?","А, Шайнинг, давно не виделись. Слышала, ты была на семейном сборе?"
 line-375,闪灵,......W，你来了。,"W, you're here.","...W, ты пришла."
 line-380,可露希尔,W！现在半个伦蒂尼姆都听到这里的动静了！,W! Half of Londinium heard that just now!,"W! Сейчас половина Лондиниума слышала, что здесь творится!"
-line-385,W,很隆重，对吧，我对炸药的分量把握得一直很准。,"The curtain's drawn, right? I've always been pretty accurate with my explosives. Just the right amount.","Громко, не так ли? Я всегда точно рассчитываю дозировку взрывчатки."
-line-387,W,我听说凯尔希被揍得很惨，于是就百忙之中抽空来看看咯。,"I heard Kal'tsit got beat up real bad, so I thought I'd find some time to come take a look.","Я слышала, Кельси знатно досталось, вот и решила выкроить минутку в своем плотном графике, чтобы посмотреть."
+line-385,W,很隆重，对吧，我对炸药的分量把握得一直很准。,"The curtain's drawn, right? I've always been pretty accurate with my explosives. Just the right amount.","Пышно, не правда ли? Я всегда точно рассчитываю дозировку взрывчатки."
+line-387,W,我听说凯尔希被揍得很惨，于是就百忙之中抽空来看看咯。,"I heard Kal'tsit got beat up real bad, so I thought I'd find some time to come take a look.","Я слышала, Кальцит знатно досталось, вот и решила выкроить минутку в своем плотном графике, чтобы посмотреть."
 line-391,W,呜哇，果然很惨，特雷西斯还真是不留情面。,"Whoa, she did really did take a beating. Theresis doesn't know how to hold back, huh?","Ух ты, и правда ужасно. Терезис и правда не щадит никого."
 line-392,W,我还以为那男人会对自己的“老朋友”温柔一点呢。,And here I thought the guy would go gentler on his 'old friend.',"А я-то думала, этот мужчина будет помягче со своей «старой подругой»."
 line-394,闪灵,她还没醒。,She's still unconscious.,Она ещё не пришла в себя.
@@ -146,7 +146,7 @@ line-441,Mon3tr,......,......,...
 line-443,Mon3tr,（妥协的低鸣）,(Compromising low roar),(Примирительный стон)
 line-445,W,这还差不多。,Now that's more like it.,То-то же.
 line-449,可露希尔,王庭军的人正在赶过来！快点，我们得在他们来之前......,"The Royal Court fighters are heading this way! Quick, we gotta get out of here before they...","Войска Королевского двора уже здесь! Скорее, нам нужно, пока они не..."
-line-451,W,别吵吵嚷嚷的，可露希尔，耳朵疼。,"Oh, quit your yapping, Closure. It hurts my ears.","Хватит шуметь, Клозиер, уши болят."
+line-451,W,别吵吵嚷嚷的，可露希尔，耳朵疼。,"Oh, quit your yapping, Closure. It hurts my ears.","Хватит шуметь, Кложер, уши болят."
 line-453,可露希尔,你以为都是谁的错！,Whose fault do you think that is?!,Как будто это не твоя вина!
 line-455,W,那就快点让你的人迈开腿。,"If you're so worried, get your men to move double time already.",Тогда пусть твои люди шевелятся быстрее.
 line-456,W,我在伦蒂尼姆城外倒是有几个好去处，要来瞧瞧吗？,I know a couple good spots outside the city. Wanna take a look?,"У меня за пределами Лондиниума есть пара хороших местечек, хочешь взглянуть?"

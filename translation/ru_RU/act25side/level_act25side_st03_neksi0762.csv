@@ -15,14 +15,14 @@ char-8,总辖构件科雇员A,总辖构件科雇员A,Components Control Section 
 char-9,总辖构件科雇员B,总辖构件科雇员B,Components Control Section Employee B,Сотрудник управления компонентами Б
 char-10,总辖构件科雇员C,总辖构件科雇员C,Components Control Section Employee C,Сотрудник управления компонентами С
 char-11,缪尔赛思,缪尔赛思,Muelsyse,Мюльсис
-char-12,缪尔赛思的声音,缪尔赛思的声音,Muelsyse's Voice,Голос Мюльсайз
+char-12,缪尔赛思的声音,缪尔赛思的声音,Muelsyse's Voice,Голос Мюльсис
 char-13,塞雷娅,塞雷娅,Saria,Сария
 char-14,赫默,赫默,Silence,Сайленс
 char-15,“保存者”,“保存者”,'Preserver',Сохранитель
 char-16,凯尔希,凯尔希,Kal'tsit,Кальцит
 char-17,锡人,锡人,Tin Man,Оловянный Человек
 char-18,特雷弗·弗里斯顿,特雷弗·弗里斯顿,Trevor Friston,Тревор Фристон
-char-19,霍尔海雅,霍尔海雅,Ho'olheyak,Хо'олхейак
+char-19,霍尔海雅,霍尔海雅,Ho'olheyak,Хоолхейак
 char-20,Mon3tr,Mon3tr,Mon3tr,Mon3tr
 char-21,广播的声响,广播的声响,Broadcasted Voice,Голос из динамиков
 char-22,杰克逊,杰克逊,Jackson,Джексон
@@ -39,7 +39,7 @@ char-31,气泡,气泡,Bubbles,Пузырёк
 line-9,,伊比利亚随处可见的海岸。,A coastal view that one can see anywhere in Iberia.,"Прибрежный вид, который можно увидеть в любой точке Иберии."
 line-10,,不远处的断壁残垣昭示着这里曾经或许是一座繁荣的村庄，而如今，只有墙上残留的风铃孤独地应和着海浪拍打沙滩的声音。,"Rubble close by indicates the place may have once been a prosperous village, but now, only a solitary wind chime left hanging on a wall echoes the waves as they hit the shore.","Остатки стен неподалеку свидетельствуют о том, что когда-то здесь, возможно, была процветающая деревня, а теперь лишь уцелевшие на стенах ветряные колокольчики одиноко отзываются на шум морских волн, бьющихся о берег."
 line-11,恐鱼,……（迷茫的窸窣声）,...... (Bewildered slithering sounds),...(Растерянный шорох)
-line-12,,海浪将一只恐鱼冲上了沙滩。,A wave washes a Sea Terror onto the beach.,Волна выбросила морской ужас на песок.
+line-12,,海浪将一只恐鱼冲上了沙滩。,A wave washes a Sea Terror onto the beach.,Волна выбросила рыбоед на песок.
 line-13,,不，许是它顺着海浪来到了陆地。,"No, perhaps it might have followed the wave to dry land.","Нет, возможно, оно само выбралось на сушу, следуя за волной."
 line-14,,无论如何，它看起来并没有下一步的目的，它只是徘徊着，张望着，如同它所有的同族那样。,"Whatever it was, it didn't seem to have a goal in mind. It merely wanders, looks around, just like its brethren do.","Как бы то ни было, у него, похоже, нет никакой цели. Оно просто бродит и озирается, подобно всем своим сородичам."
 line-15,,它本应一无所获。这里一片荒芜，站在这里，能看到的仅有漫无边际的海洋以及天空。,It shouldn't have found anything. All it can see while standing in this overgrowth is the endless ocean and the sky.,"Оно должно было остаться ни с чем. Здесь лишь пустошь; стоя здесь, можно увидеть только бескрайний океан да небо."
@@ -123,14 +123,14 @@ line-208,总辖构件科雇员B,我知道，我正在操作……这种时候真
 line-217,总辖构件科雇员B,呼——好了，稳住了……现在检查返地程序。,"Phew——Alright, it's stable... now to check the return protocol.","Фух — ладно, всё стабильно... теперь проверим протокол возврата."
 line-218,总辖构件科雇员B,减速伞和引导伞已打开，开始自动调整落地轨道……抬头看一眼，还来得及向总辖告别。,"The drogue and pilot parachutes have been launched, landing trajectory is on auto-adjust... if you look up, there's still time to bid your farewells to Control.","Тормозной и направляющий парашюты раскрылись, орбита приземления корректируется автоматически... подними голову, успеешь ещё попрощаться с гендиректором."
 line-221,总辖构件科雇员C,喂，布利特，你看走廊里，那是……,"Hey, Bullitt, look at the corridor, isn't that...","Эй, Буллит, посмотри в коридор, это же..."
-line-222,总辖构件科雇员C,缪尔赛思主任？,Director Muelsyse?,Директор Мюльсайз?
+line-222,总辖构件科雇员C,缪尔赛思主任？,Director Muelsyse?,Директор Мюльсис?
 line-229,缪尔赛思,……,......,...
-line-234,总辖构件科雇员C,缪尔赛思主任，快进内舱室，里面还有座位，您的认证码应该能刷开。,"Director Muelsyse, get in quick, there's still seats, you should have clearance to enter.","Директор Мюльсайз, поторопитесь, места ещё есть, ваш код доступа должен сработать."
+line-234,总辖构件科雇员C,缪尔赛思主任，快进内舱室，里面还有座位，您的认证码应该能刷开。,"Director Muelsyse, get in quick, there's still seats, you should have clearance to enter.","Директор Мюльсис, поторопитесь, места ещё есть, ваш код доступа должен сработать."
 line-236,缪尔赛思,……,......,...
 line-237,缪尔赛思,这是逃生舱段……？,This is the escape pod...?,Это... спасательная капсула?
 line-239,总辖构件科雇员C,逃生舱段在“弧光一号”设计之初就存在了，导航测试和压力测试都做过好几轮，您放心吧。,"This escape pod has existed since the very beginning of Arc-01's design phase, and we ran several rounds of navigation and pressure tests before, so don't worry.","Они были предусмотрены ещё при разработке «Арк-01», мы провели немало тестов на навигацию и прочность, не волнуйтесь."
 line-241,缪尔赛思,你叫克罗德对吧，我记得你……你，你们在总辖构件科待了很多年。,"You're Claude, right? I remember you... you, you've all been in Components Control for many, many years.","Тебя зовут Клауд, верно? Я помню тебя... вы с ребятами проработали в отделе управления компонентами много лет."
-line-243,总辖构件科雇员C,聚焦发生器升空前，总辖，不，克丽斯腾女士便解散了现在的莱茵生命总辖构件科。,"Before H.A.M.H.R.R. took flight, Control, no, Kristen disbanded the Rhine Lab Components Control Section.","Перед запуском фокусирующего генератора гендиректор, нет, госпожа Кристен расформировала наш отдел."
+line-243,总辖构件科雇员C,聚焦发生器升空前，总辖，不，克丽斯腾女士便解散了现在的莱茵生命总辖构件科。,"Before H.A.M.H.R.R. took flight, Control, no, Kristen disbanded the Rhine Lab Components Control Section.","Перед запуском фокусирующего генератора гендиректор, нет, мисс Кристен расформировала наш отдел."
 line-244,总辖构件科雇员C,充能和聚焦需要人手辅助，这是她为我们安排的最后一项工作。现在所有的校准、维护和守卫任务都已经完成了……,"The last job she assigned us was to assist the energy charging and focusing. All calibration, maintenance and security tasks have already been completed...","Для зарядки и фокусировки требовались дополнительные руки, это была последняя задача, которую она нам поручила. Сейчас все работы по калибровке, обслуживанию и охране завершены..."
 line-245,总辖构件科雇员C,回到地面之后，我们这帮人便会拿到新的合同，离开莱茵生命，离开特里蒙。,"When we return to the ground, we'll all get new contracts, leave Rhine, and leave Trimounts.","Вернувшись на землю, мы получим новые контракты, покинем Рейн, покинем Тримаунтс."
 line-246,总辖构件科雇员C,对了……,"Oh, right...","Ох, верно..."
@@ -143,7 +143,7 @@ line-262,缪尔赛思,先别急……这是……这么多年来的……,Not so
 line-264,缪尔赛思,……说吧。,...Go.,...Говори.
 line-266,总辖构件科雇员C,万星园突破阻隔层后的极短时间内，七百五十三种植物的死亡率已经超过百分之九十。剩下的……估计也很难存活。,"In the short span of time after Galleria Stellaria broke through the barrier, the death rate of the seven hundred and fifty-three plants has exceeded ninety percent. The rest... aren't expected to survive.","В течение очень короткого времени после того, как «Galleria Stellaria» прорвал барьерный слой, смертность среди 753 видов растений превысила 90%. Остальные... скорее всего, тоже вряд ли выживут."
 line-268,缪尔赛思,……哈哈。,...Haha.,...Ха-ха.
-line-269,缪尔赛思,克丽斯腾，星荚之外，究竟是怎样的所在？,"Kristen, what exactly does it look like, beyond the starpod?","Кристен, что же находится за пределами звездного кокона?"
+line-269,缪尔赛思,克丽斯腾，星荚之外，究竟是怎样的所在？,"Kristen, what exactly does it look like, beyond the starpod?","Кристен, что же находится за пределами звёздного кокона?"
 line-270,缪尔赛思,明知可能如此，你也不愿终止旅程吗？,"You're fully aware of sharing the same possible fate, and yet you're unwilling to call off your trip?","Зная, что всё может так закончиться, ты всё равно не захотела прекратить путешествие?"
 line-271,缪尔赛思,你兑现了对所有人的承诺。但从一开始，你就没打算与任何人同行吗？,"You've kept your promise to us all. But did you plan on travelling solo, from the very beginning?","Ты выполнила обещание, данное всем. Но с самого начала ты собиралась идти в одиночку, не так ли?"
 line-272,缪尔赛思,那塞雷娅她……,"Then, Saria, she...",А как же Сария...?
@@ -177,7 +177,7 @@ line-348,,逃生舱段在高速下坠，大量水流被重力牵引，逸散，�
 line-349,,克罗德觉得自己看到了一个没有湖岸和湖床的湖泊。自己正从湖底仰望湖面，水波层层叠叠，在头顶摇荡。,"Claude feels like he is seeing a lake without a shore or a lakebed. He looks at it from the bottom, and the waves are folding in layers as they sway over his head.","Клауду показалось, что он видит озеро без берегов и дна. Он смотрел на поверхность воды со дна, водная рябь накладывалась друг на друга, качаясь над головой."
 line-350,,要不是自顾不暇，他一定要有模有样地学乌萨斯诗人搜刮些词汇来形容眼前的景象——,"If he wasn't currently busy trying to save himself, he feels as if he must follow and learn from the Ursus poets on how to look for the right words describe the scene in front of him—","Если бы он сейчас не был занят попытками спастись, он чувствовал бы, что должен следовать примеру поэтов Урсуса и учиться у них тому, как подбирать правильные слова для описания разворачивающейся перед ним сцены."
 line-351,,室内同样涌起了水流，男人被推回舱室。,"Water also rises in the cabin, and he is pushed back in the interior.","Внутри кабины тоже хлынула вода, отталкивая мужчину обратно в каюту."
-line-352,总辖构件科雇员C,缪尔赛思主任……您正在……,Director Muelsyse... you're...,Директор Мюльсайз... вы...
+line-352,总辖构件科雇员C,缪尔赛思主任……您正在……,Director Muelsyse... you're...,Директор Мюльсис... вы...
 line-353,总辖构件科雇员C,……融化？！,...Melting?!,...Таете?!
 line-358,缪尔赛思,塞雷娅，看来你和克丽斯腾是打了一架啊……,Saria... I guess you did end up fighting with Kristen after all...,"Сария, похоже, вы с Кристен всё-таки устроили драку..."
 line-360,缪尔赛思,原来连你也追不上她。我们最终什么都没能做到……,"So even you couldn't stop her. In the end, we couldn't do anything...","Оказывается, даже ты не смогла её остановить. Мы так ничего и не смогли сделать..."
@@ -248,7 +248,7 @@ line-499,塞雷娅,你会告诉我吗？,Will you tell me?,Ты расскаже
 line-500,赫默,我会。,I will.,Конечно.
 line-501,赫默,我需要知晓一切。同样地，塞雷娅，我也需要你知晓一切，做好准备。这样我们才能确保未来的路不会走错。,"I need to know everything. Likewise, Saria, I need you to be fully informed, to be better prepared. This is the only way we can ensure that we won't make any missteps on the road ahead of us.","Мне нужно знать всё. Сария, мне нужно, чтобы ты была полностью информирована, чтобы лучше подготовлена. Только так мы сможем гарантировать, что не допустим никаких ошибок на предстоящем пути."
 line-502,塞雷娅,听起来，你已经有了主意……,It sounds like you already have an idea...,"Похоже, у тебя уже есть план..."
-line-503,赫默,抓紧我的肩膀，路不好走，我可没办法完全把你扛起来，我们需要一起走。,"Hold onto my shoulder, the road is hard to walk and I have no way of lifting you up completely, so we have to go together.","Держись за мое плечо, дорога трудная, и я не могу поднять тебя полностью, поэтому мы должны идти вместе."
+line-503,赫默,抓紧我的肩膀，路不好走，我可没办法完全把你扛起来，我们需要一起走。,"Hold onto my shoulder, the road is hard to walk and I have no way of lifting you up completely, so we have to go together.","Держись за моё плечо, дорога трудная, и я не могу поднять тебя полностью, поэтому мы должны идти вместе."
 line-515,总辖构件科雇员A,咳、咳——,"*Cough*, *cough*—","*Кашель*, *Кашель*—"
 line-516,总辖构件科雇员A,克罗德？班赛？约翰？布利特？,Claude? Benji? Johan? Bullitt?,Клауд? Бенджи? Йохан? Буллит?
 line-518,,逃生舱段在地面砸出深坑，舱门飞了出去，砸碎了一块巨大的岩石。,"The escape pod makes a deep hole in the ground, and the hatch flies out, smashing a boulder into pieces.","Спасательный отсек врезался в землю, оставив глубокую воронку, дверь отлетела и раздробила огромный валун."
@@ -262,12 +262,12 @@ line-533,总辖构件科雇员A,别那么矫情，布利特。说起来你小子
 line-534,总辖构件科雇员A,是安妮在为你祈祷吧，我记得你们好像是明年举办婚礼？,"Must have been Annie's prayers working on you, huh? Aren't you guys getting married next year?","Может, это Энни за тебя молилась? Помнится, ваша свадьба в следующем году?"
 line-536,总辖构件科雇员B,嗯，嘿。对了，我怎么觉得自己像是溺水了，你们的身上也都湿透了……逃生舱段也没降落到大湖啊，发生了什么？,"Uh, hey. Why do I feel like I drowned earlier, and all of you are soaking wet too... It's not like the pod landed in a lake, so what even happened?","Эм, хей. Кстати, почему мне кажется, что я тонул, вы все тоже промокли... мы ведь приземлились не в озере, что произошло?"
 line-539,总辖构件科雇员C,……,......,...
-line-540,总辖构件科雇员C,你们有没有看到缪尔赛思主任……,Have you guys seen Director Muelsyse...?,Кто-нибудь видел директора Мюльсайз...?
+line-540,总辖构件科雇员C,你们有没有看到缪尔赛思主任……,Have you guys seen Director Muelsyse...?,Кто-нибудь видел директора Мюльсис...?
 line-542,,仍有水流从逃生舱段的舱壁连接结构间流出，但周围已经没多泥泞。,"Water is still flowing out of the bulkhead connected to the escape pod, but there is no mud in the area.","Из стыковочных узлов капсулы всё ещё сочилась вода, но вокруг уже не было влаги."
 line-543,,晚风很快会将大地吹干。,The night breeze will soon dry up the earth.,Ночной ветер скоро осушит землю.
 line-554,“保存者”,凯尔希……女士。,Kal...Dame Kal'tsit.,Кальцит... леди.
 line-555,“保存者”,我必须承认，我们才是同类。,I must admit that we are alike.,"Должен признать, что мы похожи."
-line-556,“保存者”,认同Dr.{@nickname}的情感不过来自于这几万年来都未被磨灭的情感模块罢了。我不是那位弗里斯顿本人，我只是被制造出的工具。,"My empathy with Dr. {@nickname}'s emotions merely comes from an emotional module that has yet to be erased even after these tens of thousands of years. I'm not Friston himself, merely a tool that was made.","Моё сопереживание эмоциям доктора {@nickname} проистекает лишь из эмоционального модуля, который до сих пор не стёрт даже спустя десятки тысяч лет. Я не сам Фристон, а всего лишь созданный им инструмент."
+line-556,“保存者”,认同Dr.{@nickname}的情感不过来自于这几万年来都未被磨灭的情感模块罢了。我不是那位弗里斯顿本人，我只是被制造出的工具。,"My empathy with Dr. {@nickname}'s emotions merely comes from an emotional module that has yet to be erased even after these tens of thousands of years. I'm not Friston himself, merely a tool that was made.","Моё сопереживание эмоциям Доктора {@nickname} проистекает лишь из эмоционального модуля, который до сих пор не стёрт даже спустя десятки тысяч лет. Я не сам Фристон, а всего лишь созданный им инструмент."
 line-557,“保存者”,……但是你比我更有血有肉，也更加自由。这让我有些……羡慕。,"But you are of more flesh and blood than I am, with more freedom. This makes me feel a little... envious.","...Но вы куда более живая, чем я, и куда более свободная. Это вызывает у меня... зависть."
 line-559,凯尔希,安慰的话会显得我在蔑视你的使命，弗里斯顿。,"Any words of comfort will sound like I'm belittling your mission, Friston.","Любые слова утешения будут восприняты как пренебрежение вашей миссией, Фристон."
 line-560,凯尔希,我很庆幸能够拥有这样的生命，不止一段。,"I'm glad to have a life like this, and not just this one.","Я счастлива, что обладаю такой жизнью, причем не одной."
@@ -279,11 +279,11 @@ line-566,“保存者”,如果有机会的话，我很乐意。,"If there is a 
 line-567,“保存者”,……我有一个请求。,...I have a request.,...У меня есть просьба.
 line-568,“保存者”,唯有你懂得如何操作这一系统，我想让你删除关于这扭曲的……四百七十六万五千四百零三天的数据。,"You're the only one who knows how to operate this system, so I would like you to erase these twisted data spanning... 4,765,403 days.","Только вы знаете, как управлять этой системой. Я хочу, чтобы вы удалили данные об этих искаженных... 4 765 403 днях."
 line-569,“保存者”,只保留我的情感和原始的记忆吧。让我以特雷弗·弗里斯顿……哪怕只是一个复制品的身份死去。,Keep only my emotions and original memories. Let me die as Trevor Friston... even if I can only die as a replica.,Сохраните только мои эмоции и оригинальные воспоминания. Позвольте мне умереть как Тревору Фристону... даже если я умру лишь как его копия.
-line-571,凯尔希,我理解你的决定，但这个过程需要不少的时间，而你——,"I understand your decision, but this process will take a lot of time, and you—","Я уважаю твое решение, но этот процесс займет много времени, а ты —"
+line-571,凯尔希,我理解你的决定，但这个过程需要不少的时间，而你——,"I understand your decision, but this process will take a lot of time, and you—","Я уважаю твоё решение, но этот процесс займёт много времени, а ты —"
 line-574,,而你会在这个过程中逐渐滑向绝望。;这对你来说太残酷了。,—Will gradually slide into despair in the process.;This is too cruel a fate for you.,— В процессе будешь лишь всё глубже погружаться в отчаяние.; Это слишком жестокая участь для тебя.
 line-576,“保存者”,但是我不想作为一个高高在上的审判者，或是一个幽灵，去面对那片曾经自由的天空。,"I wish to face the skies that were once free, but not as a lofty judge in an ivory tower, nor as a ghost.","Я хочу взглянуть в небо, некогда свободное, но не как высокомерный судья и не как призрак."
 line-577,“保存者”,至少……让我以人的身份去面对亲手葬送同胞的懊悔与愧疚。至少让我以最纯粹的姿态目睹你们将要面对的未来。,"At least... let me face the remorse and guilt I have as a person, from sending my compatriots to their doom with my own hands. Let me at the very least, see from a purest perspective, how you will face the future.","По крайней мере... позвольте мне взглянуть в лицо раскаянию и чувству вины, которые я испытываю как личность за то, что собственноручно похоронил своих соотечественников. Позвольте мне хотя бы взглянуть на будущее с самой чистой точки зрения."
-line-578,“保存者”,想一想那片天空吧……这是我最后的愿望。,To think of that sky... this is my final wish.,Вспомнить то небо... это мое последнее желание.
+line-578,“保存者”,想一想那片天空吧……这是我最后的愿望。,To think of that sky... this is my final wish.,Вспомнить то небо... это моё последнее желание.
 line-580,,你不必那么自责。;……;这更接近救赎……比起被更长的岁月折磨。,You don't have to blame yourself like that.;......;This is closer to redemption... than continuing to be tormented for eternity.,Тебе не нужно так себя винить.; ...Это ближе к искуплению... чем быть замученным временем.
 line-582,“保存者”,……谢谢。,...Thank you.,...Спасибо.
 line-583,“保存者”,即使傲慢，我也必须这样说：生命的重量——文明的重量——现在的你们根本无法想象。没有人能够替他人决定生命的价值。,"You might call this arrogance, but I must say this nonetheless: the weight of life—the weight of civilization—you can't possibly even begin to imagine how heavy it is right now. No one has the capability to decide for others what the value of their lives are.","Вы можете назвать это высокомерием, но я всё же должен сказать следующее: тяжесть жизни — тяжесть цивилизации — вы даже не можете себе представить, насколько она сейчас велика. Никто не в состоянии решать за других, какова ценность их жизни."
@@ -291,7 +291,7 @@ line-584,“保存者”,属于过去的，我不会为此多费口舌。但请�
 line-585,“保存者”,不过眼下……再说一遍，谢谢。这是我最后能说的。,"But presently... I'll say this again, thank you. This is the final thing I can say.","А пока... повторюсь, спасибо. Это последнее, что я могу сказать."
 line-586,“保存者”,去吧，凯尔希，权限已经全部打开。,"Go, Kal'tsit. I have already granted all privileges.","Идите, Кальцит, все права доступа открыты."
 line-587,“保存者”,让我以“人”的身份迎接结局。,Let me meet my end as a 'person.',Позвольте мне встретить конец как «личность».
-line-589,凯尔希,……我尊重你的决定。,...I respect your decision.,...Я уважаю твое решение.
+line-589,凯尔希,……我尊重你的决定。,...I respect your decision.,...Я уважаю твоё решение.
 line-590,凯尔希,稍等片刻。,Please wait just a moment.,"Пожалуйста, подожди немного."
 line-593,,凯尔希……;……;……没有别的选项吗？,Kal'tsit...;......;Is there no other choice?,Кальцит...;...;Неужели нет другого выбора?
 line-596,“保存者”,“博士”。一无所知的“博士”。,'Doctor.' The Doctor that knows nothing.,«Доктор». Ничего не знающий Доктор.
@@ -323,7 +323,7 @@ line-626,“保存者”,而普瑞赛斯是那个疯狂的起点。而你……�
 line-628,,——？！,——?!,—?!
 line-630,,那么我们可以医治矿石病吗？！;那源石和我有什么关系？！;那接下来我能做些什么？！,So can we cure Oripathy?!;What does Originium have to do with me?!;Then what can I do next?!,Так можем ли мы вылечить орипатию?!; Какое отношение Ориджиниум имеет ко мне?!; Что же мне делать дальше?!
 line-632,“保存者”,我无法告诉你进一步的答案。源石……严格来说，现在的源石形态已经超过了我的认知。,"I'm incapable of guiding your next steps. Strictly speaking, Originium in just its current form, it has already exceeded my understanding of it.","Я не в состоянии направлять ваши дальнейшие шаги. Строго говоря, Ориджиниум в его нынешнем виде уже превзошёл мои представления о нём."
-line-633,“保存者”,矿石病并非严谨计划的产物，从现状来看，“治愈”是困难的，但也许有别的手段“停止”，或是“利用”。,"Oripathy is not something that was carefully planned and produced. In your current situation, 'curing' it is difficult, but there may be other ways you can 'stop' or 'use' it.","Орипатия — не продукт четкого плана, судя по всему, «исцеление» невозможно, но, быть может, есть другие способы «остановить» или «использовать» его."
+line-633,“保存者”,矿石病并非严谨计划的产物，从现状来看，“治愈”是困难的，但也许有别的手段“停止”，或是“利用”。,"Oripathy is not something that was carefully planned and produced. In your current situation, 'curing' it is difficult, but there may be other ways you can 'stop' or 'use' it.","Орипатия — не продукт чёткого плана, судя по всему, «исцеление» невозможно, но, быть может, есть другие способы «остановить» или «использовать» его."
 line-634,“保存者”,你与普瑞赛斯的过去似乎是凯尔希最忌讳的事情。而我确实不知道全貌……根据我的推测，你的出现，你的参与，你的……“失忆”……,"Your past with Priestess seems to be Kal'tsit's greatest taboo. And I don't even have the full picture... according to my hypotheses, your appearance, participation, and... 'amnesia'...","Ваше прошлое со Жрицей — это тема, которой Кальцит боится больше всего. И я действительно не знаю всей картины... но, судя по моим выводам, ваше появление, ваше участие, ваша... «потеря памяти»..."
 line-635,“保存者”,都不是毫无缘由的。,They are not without purpose.,...всё это не случайно.
 line-636,“保存者”,你必须自己得到答案。不要怪我故弄玄虚，当你迟早有一天面对过去的真相时，你会明白凯尔希的良苦用心。,"You have to find your own answers. Don't blame me for being so cryptic with my words, but sooner or later, when you face the truth of the past, you will understand Kal'tsit's thoughtful intentions.","Вы должны найти ответы сами. Не вините меня за туманность слов, когда-нибудь, столкнувшись с правдой прошлого, вы поймете, почему Кальцит так старалась."
@@ -350,9 +350,9 @@ line-668,“保存者”,（不规则的发音）,(Unnatural sound),(Бессв�
 line-670,,你还好吗？;……;你还记得我吗？,Are you alright?;......;Do you remember me?,Ты в порядке?;...;Ты помнишь меня?
 line-672,“保存者”,（未知语言）……你？生物？在这里？,(Unknown Language) You? A living creature? Here?,(Неизвестный язык)...Ты? Живое существо? Здесь?
 line-673,“保存者”,（未知语言）你必须……等等。,(Unknown Language) You must... wait.,(Неизвестный язык) Ты должен... подожди.
-line-674,“保存者”,（未知语言）为什么这里如此暗淡？我这是……,(Unknown Language) Why is it so dark here? I'm in...,(Неизвестный язык) Почему здесь так темно? Я что...
+line-674,“保存者”,（未知语言）为什么这里如此暗淡？我这是……,(Unknown Language) Why is it so dark here? I'm in...,(Неизвестный язык) Почему здесь так тёмно? Я что...
 line-675,“保存者”,（不规则的发音）,(Unnatural sound),(Бессвязные звуки)
-line-676,“保存者”,（未知语言）太长……太黑……,(Unknown Language) Too long... too dark...,(Неизвестный язык) Слишком долго... слишком темно...
+line-676,“保存者”,（未知语言）太长……太黑……,(Unknown Language) Too long... too dark...,(Неизвестный язык) Слишком долго... слишком тёмно...
 line-677,“保存者”,（未知语言）不！不！还有第十七万三千零五次！还有下一次！,(Unknown Language) No! No! There's still the one hundred seventy three thousand and fifth attempt! And the next!,(Неизвестный язык) Нет! Нет! Осталась ещё сто семьдесят три тысячи пятая попытка! Следующая!
 line-678,“保存者”,（未知语言）下一次……,(Unknown Language) The next time...,(Неизвестный язык) В следующий раз...
 line-679,“保存者”,（未知语言）有谁听见吗？回答！回答我！,(Unknown Language) Can anyone hear me? Answer! Answer me!,(Неизвестный язык) Кто-нибудь меня слышит? Ответьте! Ответьте мне!
@@ -366,7 +366,7 @@ line-693,凯尔希,……,......,...
 line-695,“保存者”,（不规则的发音）,(Unnatural sound),(Бессвязные звуки)
 line-697,“保存者”,（未知语言）可恨！该死！,(Unknown Language) I hate this! Damn it!,(Неизвестный язык) Проклятье! Черт возьми!
 line-698,“保存者”,（未知语言）为什么我要遭受这种折磨？！为什么必须是我？！,(Unknown Language) Why must I suffer this torture?! Why must it be me?!,(Неизвестный язык) Почему я должен подвергаться таким мучениям?! Почему я?!
-line-700,“保存者”,（未知语言）即使他们全都复活，我也不再是一个活生生的人了！我做出了如此巨大的牺牲，你们却都抛弃了我！,"(Unknown Language) Even if they all come back to life, I myself won't be a living person! I made such a great sacrifice, and yet you've all abandoned me!","(Неизвестный язык) Даже если они все оживут, я сам не стану живым человеком! Я принес такую огромную жертву, и все же вы все меня бросили!"
+line-700,“保存者”,（未知语言）即使他们全都复活，我也不再是一个活生生的人了！我做出了如此巨大的牺牲，你们却都抛弃了我！,"(Unknown Language) Even if they all come back to life, I myself won't be a living person! I made such a great sacrifice, and yet you've all abandoned me!","(Неизвестный язык) Даже если они все оживут, я сам не стану живым человеком! Я принес такую огромную жертву, и всё же вы все меня бросили!"
 line-701,“保存者”,（未知语言）是谁赋予了我这样的使命？！,(Unknown Language) Who as it that gave me such a duty?!,(Неизвестный язык) Кто возложил на меня этот долг?!
 line-702,“保存者”,（不规则的发音）,(Unnatural sound),(Бессвязные звуки)
 line-703,“保存者”,（未知语言）是……我自己。,(Unknown Language) It... was myself.,(Неизвестный язык) Это... я сам.
@@ -379,7 +379,7 @@ line-718,锡人,洞穴坍塌了，我就知道下面出了岔子！,I knew somet
 line-720,凯尔希,先离开这里。这是克丽斯腾留下的施工通道？,Let's leave this place first. Is this the man-made passage left behind by Kristen?,"Уходим. Это строительный тоннель, оставленный Кристен?"
 line-722,锡人,是的，我估计是通向能量井的。天知道军方为什么始终没有发现这条密道……,"Yes, I reckon it will lead us to the S.H.A.F.T. Only heaven knows why the army never discovered this secret path.","Да, полагаю, он ведёт к энергетической скважине. Только небесам известно, почему военные так и не обнаружили этот секретный ход..."
 line-724,凯尔希,如果不是“保存者”关闭了系统，你是不可能发现这条通道的。,"If the 'Preserver' had not shut down its system, it would have been impossible for you to find this passage.","Если бы «Хранитель» не отключил систему, вы бы никогда не нашли этот проход."
-line-727,,霍尔海雅呢？,What happened to Ho'olheyak?,А что насчет Хо'олхейак?
+line-727,,霍尔海雅呢？,What happened to Ho'olheyak?,А что насчет Хоолхейак?
 line-730,锡人,她被我困在外面，梅兰德会和她好好谈一次的。,"I have her trapped outside, and Maylander will have a nice long chat with her later.","Я запер её снаружи, позже Мэйландер сможет долго и обстоятельно с ней пообщаться."
 line-731,锡人,勋爵，我需要知道……,"Madame, I need to know...","Леди, мне нужно знать..."
 line-733,凯尔希,那里除了一位迈向死亡的老人，没有别的东西。,There was nothing there other than an old man marching towards death.,"Там нет ничего, кроме старика, идущего навстречу смерти."
@@ -407,7 +407,7 @@ line-782,霍尔海雅,您好，如果这里便是写满神谕的庭院，如果�
 line-783,霍尔海雅,您能为我插上羽蛇血脉中的翅膀吗？您能向我展现……那些风与雷，那些翱翔的荣耀，那些壮丽的身姿吗？,"Can you install in me, wings from the blood of the K'uk'ulkan? Can you show me... their wind and thunder, the glory of soaring in the skies, their magnificent forms?","можете ли вы даровать мне крылья моей крови Кукулькан? Можете ли показать мне... эти ветры и грозы, славу полета, это великолепное величие?"
 line-784,霍尔海雅,我带着羽蛇家族四百五十一年的执念走到您的面前，只为了您的首肯，您的应答。,"I come to you bringing four hundred and fifty-one years of obsession from the K'uk'ulkan people, only for your approval, and your answer.","Я прихожу к вам, неся с собой четыреста пятьдесят один год одержимости народа Кукулькан, только ради вашего одобрения, вашего ответа."
 line-786,特雷弗·弗里斯顿,（未知语言）原来如此，我开始明白了。,"(Unknown Language) So that's how it is, I'm starting to understand.","(Неизвестный язык) Вот оно что, начинаю понимать."
-line-787,特雷弗·弗里斯顿,（未知语言）我在削去我的存在。我在死亡。嗯，像是我这个老混蛋会做的事情。,"(Unknown Language) My existence is fading away. I am dying. Well, this sure sounds like something a bastard like me would do.","(Неизвестный язык) Я стираю свое существование. Я умираю. Что ж, в духе меня, этого старого мерзавца."
+line-787,特雷弗·弗里斯顿,（未知语言）我在削去我的存在。我在死亡。嗯，像是我这个老混蛋会做的事情。,"(Unknown Language) My existence is fading away. I am dying. Well, this sure sounds like something a bastard like me would do.","(Неизвестный язык) Я стираю своё существование. Я умираю. Что ж, в духе меня, этого старого мерзавца."
 line-788,特雷弗·弗里斯顿,……,......,...
 line-789,特雷弗·弗里斯顿,（未知语言）你不觉得这里太闷了吗？对于终点而言……太压抑。,(Unknown Language) Don't you think it's too stuffy here? For a place deemed a destination... it's too stifling.,"(Неизвестный язык) Вам не кажется, что здесь слишком душно? Для конца пути... слишком давяще."
 line-790,特雷弗·弗里斯顿,（未知语言）从年轻的时候，我就憎恨地下掩体。感觉还不如躲藏在随便什么小行星带里。,"(Unknown Language) I've hated bunkers ever since I was little. I had thought, why not hide within an asteroid belt instead.","(Неизвестный язык) С самой юности я ненавидел подземные бункеры. Как по мне, так лучше спрятаться в любом астероидном поясе."
@@ -418,33 +418,33 @@ line-796,特雷弗·弗里斯顿,（未知语言）好吧，虽然不知道你�
 line-797,特雷弗·弗里斯顿,（未知语言）但在将死的老人最后的幻境中……有道真实的视线，也好。,"(Unknown Language) But in a dying old man's final vision... you are on the true path, yes.",(Неизвестный язык) Но в последнем видении умирающего старика... пусть это будет хотя бы честный взгляд.
 line-798,特雷弗·弗里斯顿,（未知语言）我多么想再见她一次，我的晨光……,"(Unknown Language) I so badly want to see her one more time, my morning light...","(Неизвестный язык) Как же я хотел увидеть её вновь, мой утренний свет..."
 line-799,特雷弗·弗里斯顿,（未知语言）我——,(Unknown Language) I——,(Неизвестный язык) Я—
-line-810,,冰凉的风掠过了霍尔海雅的面庞，不带有丝毫尘土的迹象。,An icy wind blows over Ho'olheyak's without traces of any dust.,"Холодный ветер пронёсся по лицу Хо'олхейак, не принеся с собой ни следа пыли."
+line-810,,冰凉的风掠过了霍尔海雅的面庞，不带有丝毫尘土的迹象。,An icy wind blows over Ho'olheyak's without traces of any dust.,"Холодный ветер пронёсся по лицу Хоолхейак, не принеся с собой ни следа пыли."
 line-811,,她发现自己在眨眼之间来到了一处荒野之中。,"In the blink of an eye, she finds herself in the wilderness.","Она обнаружила, что в мгновение ока оказалась посреди дикой местности."
 line-812,,幻觉？法术？怎样的源石技艺？这个呓语不断的神以这种方式给予了回应？,A hallucination? Arts? What kind of Originium Arts is this? This is how that crazy God has given her His answer?,"Галлюцинация? Искусство? Что это за ориджиниевое искусство? Божество, постоянно бормочущее бессвязные речи, ответило таким образом?"
-line-813,,霍尔海雅环顾四周，她没有发现任何符合她想象的东西。,"Ho'olheyak looks around in all directions, and does not find anything matching what she had in mind.","Хо'олхейак огляделась по сторонам, но не нашла ничего, что соответствовало бы её ожиданиям."
+line-813,,霍尔海雅环顾四周，她没有发现任何符合她想象的东西。,"Ho'olheyak looks around in all directions, and does not find anything matching what she had in mind.","Хоолхейак огляделась по сторонам, но не нашла ничего, что соответствовало бы её ожиданиям."
 line-814,,她只看见不远处有一对父女在水边嬉戏，而女儿有一头熟悉的淡金色长发。,"She only sees a pair of father and daughter playing by the water, and the girl sporting long and familiar locks of pale gold.","Она лишь увидела неподалёку отца с дочерью, играющих у воды, и у девочки были знакомые светло-золотистые волосы."
 line-815,,……很像那个克丽斯腾。,A girl who looks a lot like Kristen.,"...Очень похожа на ту, что звали Кристен."
-line-816,,霍尔海雅耐心地等待着。她以为这个无趣的、逼真的场景会发生变化，但是什么都没有。,"Ho'olheyak waits patiently. She expects this boring and realistic scene to change, but nothing happens.","Хо'олхейак терпеливо ждала. Она полагала, что эта скучная, реалистичная сцена изменится, но не происходило ничего."
+line-816,,霍尔海雅耐心地等待着。她以为这个无趣的、逼真的场景会发生变化，但是什么都没有。,"Ho'olheyak waits patiently. She expects this boring and realistic scene to change, but nothing happens.","Хоолхейак терпеливо ждала. Она полагала, что эта скучная, реалистичная сцена изменится, но не происходило ничего."
 line-817,,她足够虔诚了。,She is devout enough.,Она была достаточно благочестива.
 line-818,,但眼前的一切都没有变化。,But nothing in front of her changes.,Но всё перед её глазами оставалось прежним.
 line-820,霍尔海雅,……这究竟是什么意思？,So what does this actually all mean?,...Что всё это значит?
 line-821,霍尔海雅,请不要浪费我的时间。,Please don't waste my time.,"Пожалуйста, не тратьте моё время."
 line-823,,没有回应。,There is no response.,Никакого ответа.
-line-824,,霍尔海雅开始感到厌倦。她试图靠近那对父女，但是又始终捉摸不透那两副面庞。,"Ho'olheyak is starting to feel weary. She tries to get closer to the pair, but to no avail, failing to identify their faces.","Хо'олхейак начала утомляться. Она попыталась приблизиться к отцу и дочери, но так и не смогла разглядеть их лица."
+line-824,,霍尔海雅开始感到厌倦。她试图靠近那对父女，但是又始终捉摸不透那两副面庞。,"Ho'olheyak is starting to feel weary. She tries to get closer to the pair, but to no avail, failing to identify their faces.","Хоолхейак начала утомляться. Она попыталась приблизиться к отцу и дочери, но так и не смогла разглядеть их лица."
 line-825,,直到——,Until—,Пока —
 line-832,,——直到父亲扛起女儿，望向天空。,"—Until the father picks his daughter up, and they look towards the sky.","— пока отец не поднял дочь на плечи, глядя в небо."
-line-833,,霍尔海雅才发现，在她最熟悉不过的视野里，有某些克丽斯腾最疯狂的想象都没有描述过的事物。,"Only now does Ho'olheyak discover in the view she had gotten too familiar with, that there is something not even Kristen's wildest descriptions had mentioned.","Только тогда Хо'олхейак заметила, что в поле её зрения, более привычном, чем что-либо другое, открылось то, чего не описывала даже самая безумная фантазия Кристен."
+line-833,,霍尔海雅才发现，在她最熟悉不过的视野里，有某些克丽斯腾最疯狂的想象都没有描述过的事物。,"Only now does Ho'olheyak discover in the view she had gotten too familiar with, that there is something not even Kristen's wildest descriptions had mentioned.","Только тогда Хоолхейак заметила, что в поле её зрения, более привычном, чем что-либо другое, открылось то, чего не описывала даже самая безумная фантазия Кристен."
 line-837,,她看到了一个巨大的、巨大的月亮。,"She sees a gigantic, enormous moon.","Она увидела огромную, невообразимо огромную луну."
 line-838,,仅仅一瞬。,For just a moment.,Лишь на мгновение.
 line-843,霍尔海雅,——！,—!,—!
 line-845,,脚下的大地似乎不再那么真实。周遭的温度正在上升。,The ground under her feet no longer feels real. The surrounding temperature seems to rise.,Земля под ногами перестала казаться настоящей. Температура вокруг начала расти.
-line-846,,霍尔海雅死死盯着仪器，那惊鸿一瞥并没有留给她任何思考的空间。,"Ho'olheyak stares right at the instrument, and the fluid glimpse leaves her no room to think.",Хо'олхейак не сводила глаз с приборов; этот мимолётный взгляд не оставил ей пространства для раздумий.
+line-846,,霍尔海雅死死盯着仪器，那惊鸿一瞥并没有留给她任何思考的空间。,"Ho'olheyak stares right at the instrument, and the fluid glimpse leaves her no room to think.",Хоолхейак не сводила глаз с приборов; этот мимолётный взгляд не оставил ей пространства для раздумий.
 line-847,,但一个荒诞的念头在她脑海里浮现。,But a preposterous thought appears in her mind.,Но в её голове возникла абсурдная мысль.
 line-849,霍尔海雅,……那才是……泰拉……？,Was that... Terra?,...Неужели это и есть... Терра...?
 line-852,霍尔海雅,刚才那是什么？您做了什么？！是法术……不，巨兽的能力吗？还是和锡人一样的巫术？！,"What was that just now? What did you do?! Is it Arts...? No, is it a Feranmut's power? Or witchcraft like the Tin Man's?!","Что это сейчас было? Что вы сделали?! Это искусства... нет, способности Феранмута? Или колдовство, как у Тин Мэна?!"
 line-854,特雷弗·弗里斯顿,……,......,...
 line-855,,沉默。,Silence.,Тишина.
-line-856,,霍尔海雅并不知道，离开那个美好的梦境的只她一人。,"Ho'olheyak is completely unaware, that she is the only one who has left that beautiful dreamland.","Хо'олхейак не знала, что она единственная, кто покинул эту прекрасную страну грез."
+line-856,,霍尔海雅并不知道，离开那个美好的梦境的只她一人。,"Ho'olheyak is completely unaware, that she is the only one who has left that beautiful dreamland.","Хоолхейак не знала, что она единственная, кто покинул эту прекрасную страну грез."
 line-858,霍尔海雅,哈。如果这就是克丽斯腾所见到的，那她的那些话语真是一点也不错。,"Hah. If this is what Kristen saw, then what she said was completely right.","Ха. Если это то, что видела Кристен, то её слова были абсолютно верны."
 line-859,霍尔海雅,……克丽斯腾·莱特……你可真招人嫉恨。,Kristen Wright... you really do invite jealousy.,...Кристен Райт... Ты и правда вызываешь жгучую зависть.
 line-861,霍尔海雅,这就是，你的“神”，最后留给我的启示。,"This is, the enlightenment that your 'God', has left me.","Вот оно, последнее откровение, оставленное мне твоим «божеством»."
@@ -463,7 +463,7 @@ line-896,锡人,如果您不配合我们，我会诉诸武力。,"If you do not 
 line-901,Mon3tr,（憋屈的鸣叫）,(Sullen crowing),(Недовольный визг)
 line-903,凯尔希,如你所愿。,As you wish.,Как пожелаешь.
 line-905,锡人,……,......,...
-line-911,霍尔海雅,这么剑拔弩张？如果再杀一次这个铁皮罐头，我还算有点经验。,"What's with all the tension? If I kill this tin can again, I'll still learn a little something.","Столько враждебности? Если придётся снова разобрать эту жестянку, я все равно чему-нибудь научусь.."
+line-911,霍尔海雅,这么剑拔弩张？如果再杀一次这个铁皮罐头，我还算有点经验。,"What's with all the tension? If I kill this tin can again, I'll still learn a little something.","Столько враждебности? Если придётся снова разобрать эту жестянку, я всё равно чему-нибудь научусь..."
 line-913,锡人,——！你是什么时候……其他特工不应该已经抓捕了你吗？,——! When did you...? Shouldn't the other agents have caught you by now?,—! Ты откуда здесь... Разве другие агенты не должны были тебя схватить?
 line-915,霍尔海雅,这不重要。,That's not important.,Это неважно.
 line-916,霍尔海雅,……但我觉得我们谁都别轻举妄动比较好。别打破这个局势。,But I think it's best for none us to act rashly now. Don't mess this situation up.,"...Но мне кажется, лучше никому из нас не делать резких движений. Не будем нарушать это равновесие."
@@ -496,12 +496,12 @@ line-973,锡人,……,......,...
 line-975,霍尔海雅,嚯？,Oh?,О?
 line-977,凯尔希,你对底下发生的一切不予追究，是因为有更高层的人替你做好了决策。,"The reason why you haven't looked into the underground at all yet, is because someone above you has already made the decision for you.","Причина, по которой ты вообще не изучал произошедшее внизу, заключается в том, что кто-то выше уже принял решение за тебя."
 line-978,凯尔希,而那个人足够高瞻远瞩，他推测到了所有事情。,For that person has enough foresight to guess everything that has happened here.,"И этот человек достаточно проницателен, чтобы догадаться обо всем, что здесь произошло."
-line-980,锡人,……就算指挥权不在我，我也觉得杀了霍尔海雅，为他夺回遗产，是更合理的行为。,"Even if the power to make decisions isn't with me right now, I still think killing Ho'olheyak to retrieve his legacy is the more reasonable thing to do.","Даже если сейчас у меня нет возможности принимать решения, я всё равно считаю, что убийство Хо'олхейак ради возвращения его наследия — более разумное решение."
+line-980,锡人,……就算指挥权不在我，我也觉得杀了霍尔海雅，为他夺回遗产，是更合理的行为。,"Even if the power to make decisions isn't with me right now, I still think killing Ho'olheyak to retrieve his legacy is the more reasonable thing to do.","Даже если сейчас у меня нет возможности принимать решения, я всё равно считаю, что убийство Хоолхейак ради возвращения его наследия — более разумное решение."
 line-982,凯尔希,那么那个人也知道，谁才拥有复原它的手段。,About that. Your boss should also know just which party has the capabilities to restore him.,"Значит, этот человек также знает, у кого именно есть средства для его восстановления."
 line-983,凯尔希,抢走霍尔海雅的施术单元，梅兰德历史协会也只是多了一项伟大的考古发现。,Snatching Ho'olheyak's Arts Unit will only add to the gigantic pile of the Maylander Historical Association's archaeological discoveries.,"Если отнять у неё этот модуль искусств, для Исторической Ассоциации Мейландер это станет лишь очередным великим археологическим открытием."
 line-985,锡人,……,......,...
 line-987,凯尔希,那个人不会允许梅兰德对罗德岛出手的。,That one will not allow Maylander to act against Rhodes Island.,Этот человек не позволит Мейландер выступить против Родоса.
-line-988,凯尔希,你的胁迫自然也不成立，霍尔海雅。你只能把东西交给我，或者，我把你交给锡人。,"Your coercing efforts also fall flat, Ho'olheyak. You can only hand it over to me, or, I will hand you over to the Tin Man.","Твои угрозы бесполезны, Хо'олхейак. Ты должна отдать это мне, либо я отдам тебя Тин Мэну."
+line-988,凯尔希,你的胁迫自然也不成立，霍尔海雅。你只能把东西交给我，或者，我把你交给锡人。,"Your coercing efforts also fall flat, Ho'olheyak. You can only hand it over to me, or, I will hand you over to the Tin Man.","Твои угрозы бесполезны, Хоолхейак. Ты должна отдать это мне, либо я отдам тебя Тин Мэну."
 line-990,霍尔海雅,……,......,...
 line-992,Mon3tr,（嘲讽的低鸣）,(Taunting growl),(Насмешливый рык)
 line-994,霍尔海雅,……讨人厌的压迫感……你原来还养着这么个怪东西。,"Such a horrid, oppressive feeling... so you've even been keeping this strange thing by your side.","Какое ужасное, гнетущее чувство... значит, ты носишь с собой такую странную штуку."
@@ -521,7 +521,7 @@ line-1026,凯尔希,……克丽斯腾……但愿你不会为泰拉带来灾难
 line-1028,锡人,差不多……,More or less...,Вот как...
 line-1032,锡人,……我知道了。那么……,...I see. Then...,...Понял. Тогда...
 line-1033,锡人,您猜的没错，勋爵。我该离开一小会了。我在外面等你们。,"Your guess was right, Madame. I will take my leave for the moment. I'll be outside waiting.","Вы были правы, леди Кальцит. Мне пора ненадолго отойти. Буду ждать вас снаружи."
-line-1034,锡人,霍尔海雅。,Ho'olheyak.,Хо'олхейак.
+line-1034,锡人,霍尔海雅。,Ho'olheyak.,Хоолхейак.
 line-1036,霍尔海雅,……怎么？你这就提前退场了？,What? You're leaving already?,...Чего? Уходишь раньше времени?
 line-1038,锡人,你手里的筹码确实出乎预料，但这也是最后一次机会。,"I didn't expect that bargaining chip in your hand, but this is also your final chance.","Я не ожидал, что у тебя в руках окажется такой козырь, но это также твой последний шанс."
 line-1039,锡人,交出你从下面得到的东西。,Hand over the thing you got from below.,"Отдай то, что получила внизу."
@@ -533,7 +533,7 @@ line-1053,锡人,我们并不对等，勋爵。开诚布公的谈判，可能不
 line-1060,凯尔希,……,......,...
 line-1063,,锡人为什么提前离开了？,Why did the Tin Man leave early?,Почему Тин Мэн ушёл раньше?
 line-1066,凯尔希,……尽快和迷迭香取得联系。我们需要警惕任何的意外。,Contact Rosmontis ASAP. We need to be wary of any other surprises.,Свяжитесь с Росмонтисом как можно скорее. Нам необходимо быть готовыми к любым неожиданностям.
-line-1067,凯尔希,霍尔海雅，感谢你的选择，但是我需要你试着从锡人离开的方向找到其他离开的通道。,"Ho'olheyak, I'm grateful for your choice, but I need you to try and find a different escape route from the direction the Tin Man left.","Хо'олхейак, спасибо за твой выбор, но мне нужно, чтобы ты попыталась найти другой путь отхода, отличный от того, куда ушёл Тин Мэн."
+line-1067,凯尔希,霍尔海雅，感谢你的选择，但是我需要你试着从锡人离开的方向找到其他离开的通道。,"Ho'olheyak, I'm grateful for your choice, but I need you to try and find a different escape route from the direction the Tin Man left.","Хоолхейак, спасибо за твой выбор, но мне нужно, чтобы ты попыталась найти другой путь отхода, отличный от того, куда ушёл Тин Мэн."
 line-1069,霍尔海雅,怎么？我还觉得我不一定打得过你这只黑色的玩意呢。,What? I'm not so sure I'll be able to defeat this black plaything of yours.,"Чего? Мне казалось, я не обязательно смогу одолеть эту твою чёрную штуковину."
 line-1071,凯尔希,并非出于警惕你，而是……,"I'm not being wary of you, but rather...","Это не из опасения к тебе, а..."
 line-1072,凯尔希,……确保有另一条出路。,I want to make sure there's another way out.,...чтобы убедиться в наличии другого выхода.
@@ -639,13 +639,13 @@ line-1278,锡人,凯尔希勋爵，还有Dr.{@nickname}，你们耽搁了不少�
 line-1280,霍尔海雅,我真的很认真地在完成工作，博士。,"I'm serious about getting my work done, Doctor.","Я действительно очень старалась выполнить работу, Доктор."
 line-1282,霍尔海雅,也许我们应该现在杀了这个铁皮罐头——算了，估计也没意义吧。,"Perhaps we should kill Mr. Tin Can here and now—Forget it, that's probably a meaningless act.","Может, нам стоит прямо сейчас прикончить эту жестянку — хотя нет смысла в этом мало."
 line-1284,锡人,……总统收回了命令，这确实出乎我的意料。,"The President has rescinded the order, which honestly came as a surprise to me.","...Президент отменил приказ, это действительно неожиданно."
-line-1285,锡人,勋爵，霍尔海雅交给你的东西，修好它。虽然我不知道那到底是什么，又损坏到了什么程度。,"Madame, fix whatever Ho'olheyak has handed over to you. Even though I have no idea what it is, or the scope of the damage.","Леди, восстановите то, что отдала вам Хо'олхейак. Хоть я и не знаю, что это и насколько оно повреждено."
+line-1285,锡人,勋爵，霍尔海雅交给你的东西，修好它。虽然我不知道那到底是什么，又损坏到了什么程度。,"Madame, fix whatever Ho'olheyak has handed over to you. Even though I have no idea what it is, or the scope of the damage.","Леди, восстановите то, что отдала вам Хоолхейак. Хоть я и не знаю, что это и насколько оно повреждено."
 line-1286,锡人,总统先生给了你时间。我不知道具体有多久，但是到时候，我们一定会取回遗失之物。,"Mr. President has given you time. I don't know how long, but when your time's up, we will definitely retrieve what was lost.","Президент дал вам время. Я не знаю сколько именно, но мы обязательно вернём утраченное."
 line-1288,凯尔希,这是交易吗？,Is this a deal?,Это сделка?
 line-1290,锡人,算是吧。毕竟你恪守了我们之前的约定，这几天也确实给到了不少帮助。,"I suppose. After all, you have abided by our previous agreement, and have indeed helped us a lot the past few days.","Можно и так сказать. В конце концов, вы придерживались нашей договорённости и действительно помогли в последние дни."
 line-1291,锡人,作为交易的回报，你们可以安然离开特里蒙，回到那艘船上。,"So in return, you can leave Trimounts safely and return to your landship.",В качестве награды вы можете спокойно покинуть город и вернуться на свой корабль.
 line-1292,锡人,而博士，你已经在哥伦比亚烟酒施术单元以及源石制品管理局里待过三天，我想罗德岛也不愿意你在境内留下新的犯罪记录。,"As for the Doctor, you have already spent three days with the Columbian Bureau of Alcohol, Tobacco, Arts Units, and Originium, and I don't think Rhodes Island would want an updated criminal record.","А что до вас, Доктор, вы провели три дня в Бюро по алкоголю, табаку, модулям искусств и ориджиниума, не думаю, что Родос хочет новых отметок о преступлениях на территории страны."
-line-1293,锡人,至于霍尔海雅……,And as for Ho'olheyak...,А что касается Хо'олхейак...
+line-1293,锡人,至于霍尔海雅……,And as for Ho'olheyak...,А что касается Хоолхейак...
 line-1294,锡人,我姑且问一句，她现在算是和罗德岛合作了吗？,"For the time being, I'll only ask this, is she currently a collaborator of Rhodes Island's?",Спрошу прямо: она теперь сотрудничает с Родос?
 line-1297,,算吧……;能不算吗……,I guess...;Can we say no...?,Допустим...; Мы можем сказать нет?
 line-1300,凯尔希,……罗德岛会需要她的帮助。,Rhodes Island will need her help.,...Родосу понадобится её помощь.
@@ -662,7 +662,7 @@ line-1322,,你是突然注意到的，夜风并不算小，但前方的泥土里
 line-1323,,零星的泡沫逶迤向前， 像是一串极轻极轻的脚步。,"The sporadic bubbles meander forward, like a series of extremely light footsteps.","Отдельные пузырьки тянутся вперёд, словно череда невидимых, невесомых следов."
 line-1324,,是的，泡沫。你眺望远方，你发现特里蒙黎明前的时刻，漫天都是易碎的泡影。,"Yes, bubbles. You look into the distance, and discover that the skies of Trimounts, in the moment before dawn, is full of fragile bubbles.","Да, пузырьки. Вы смотрите вдаль и обнаруживаете, что небо над городом в предрассветный момент усеяно хрупкими пузырьками."
 line-1326,,凯尔希，我先要去找个人。,"Kal'tsit, I'm going to look for someone first.","Кальцит, я сначала хочу кое-кого найти."
-line-1340,,莱茵生命总部大楼 生态园,Rhine Lab Headquarters Building Vivarium,"Штаб-квартира «Rhine Lab», вивариум"
+line-1340,,莱茵生命总部大楼 生态园,Rhine Lab Headquarters Building Vivarium,"Штаб-квартира «Рейн Лаб», вивариум"
 line-1341,,你像是走进了湖底。,You feel as if you've just entered the bottom of a lake.,Ты словно вошёл на дно озера.
 line-1342,,空无一人。唯有氤氲的淡蓝色，和轻柔的水声。,There is no one. Only a dense light blue and the soft sound of water.,Ни души. Только тускло-синее сияние и нежный шум воды.
 line-1344,,巨大的环形玻璃将整个空间分成两块，除了外侧狭窄的走廊，整个生态园都已经被水浸没，仿佛一个湖泊。,"A huge glass ring divides the entire space into two. Other than the narrow corridor on the outside, the rest of the vivarium has been entirely flooded, like a lake.","Огромное стеклянное кольцо разделяет все пространство на две части, за исключением узкого прохода снаружи, весь вивариум затоплен, словно озеро."
@@ -673,9 +673,9 @@ line-1348,山桃草丛,……,......,...
 line-1349,哥伦比亚灰橡,……,......,...
 line-1350,淡杉,……,......,...
 line-1352,,一个气泡从淡杉丛中浮起，被水流晃动，仿佛随时会破碎，再无影踪。,"A bubble floats from the Pale Fir, and is rocked by the current, looking as if it could pop any time and disappear without a trace.","Пузырёк поднимается из зарослей пихты, колеблемый потоком воды, готовый разбиться в любую секунду и исчезнуть."
-line-1354,,缪尔赛思？,Muelsyse?,Мюльсайз?
+line-1354,,缪尔赛思？,Muelsyse?,Мюльсис?
 line-1357,气泡,咕——,*gurgle*,*бульканье*
-line-1359,,我吵醒你了吗，缪尔赛思？;可以不用现身，缪尔赛思。,"Did I wake you up, Muelsyse?;You don't have to show yourself, Muelsyse.","Я тебя разбудил, Мюльсайз?; Тебе не обязательно показываться, Мюльсайз"
+line-1359,,我吵醒你了吗，缪尔赛思？;可以不用现身，缪尔赛思。,"Did I wake you up, Muelsyse?;You don't have to show yourself, Muelsyse.","Я тебя разбудил, Мюльсис?; Тебе не обязательно показываться, Мюльсис"
 line-1364,缪尔赛思,……博士，你怎么找来了这里？,Doctor... why have you come?,"...Доктор, как ты нашёл это место?"
 line-1367,,我不是来兴师问罪的。;你的法术都快把特里蒙变成泡沫之都了。,I'm not here to take you to task.;Your Arts are going to turn Trimounts into the capital of bubbles.,Я пришёл не с обвинениями.;Твои искусства почти превратили Тримаунтс в столицу пузырей.
 line-1370,缪尔赛思,对不起，我背叛了我们的合作。,Sorry for betraying you.,"Прости, я предала наше сотрудничество."
@@ -688,14 +688,14 @@ line-1380,缪尔赛思,博士，你没能进入万星园，但我同样被关在
 line-1381,缪尔赛思,我甚至差点害死了塞雷娅，最后还来得及做的，只有尽可能去救下一些人……,"I even almost killed Saria, and the only thing I managed to do was try to save a handful of people...","Я чуть не погубила Сарию, и последнее, что я успела сделать — это попытаться спасти хоть кого-то..."
 line-1385,,万星园的事情我已经知道了，不用再说什么。,"I already know what happened up there, so you don't have to say any more.","Я уже знаю, что там произошло, так что больше ничего говорить не нужно."
 line-1389,缪尔赛思,咕——,*gurgle*,*бульканье*
-line-1392,,你很虚弱，缪尔赛思。;别说话了，缪尔赛思。,"You're weak, Muelsyse.;Don't speak any more, Muelsyse.","Ты очень слаба, Мюльсайз.; Больше ни слова, Мюльсайз"
+line-1392,,你很虚弱，缪尔赛思。;别说话了，缪尔赛思。,"You're weak, Muelsyse.;Don't speak any more, Muelsyse.","Ты очень слаба, Мюльсис.; Больше ни слова, Мюльсис"
 line-1395,缪尔赛思,我泵尽了身体里的所有水分，我以为自己会就此消散……,"I pumped out all the water from my body, and expected myself to evaporate...","Я выкачала всю влагу из своего тела, думала, что на этом исчезну..."
 line-1396,缪尔赛思,可我只是短短地、浅浅地睡了一觉，甚至来不及做一个完整的梦。,"But I only had a short and shallow sleep, and didn't even get to finish my dream.","Но я просто коротко, поверхностно поспала, даже не успев увидеть полноценный сон."
 line-1397,缪尔赛思,我甚至无法杀死我自己。,I can't even kill myself.,Я даже не могу убить саму себя.
 line-1398,缪尔赛思,……,......,...
-line-1399,缪尔赛思,博士进来之前，我好像……我好像正跟着年幼的缪尔赛思离开特伦多镇的孤儿院……,"Before you came in, I think... I think I was leaving the orphanage in Trenton with a kid version of myself.","Перед тем как пришёл Доктор, мне снилось... мне снилось, как юная Мюльсайз уходит из приюта в Тренто..."
-line-1400,缪尔赛思,我好像看见缪尔赛思蹲在淡杉树旁，清理那些我从未谋面的父母和族人的墓园……我想要伸手去拍一拍她的肩膀……,"I think I saw a Muelsyse crouching next to a pale fir tree, tidying up the graves of my parents and my kin that I've never met... I wanted to reach out and pat her on the shoulder.","Я видела, как Мюльсайз сидит рядом с бледной пихтой, расчищая кладбище родителей и сородичей, которых я никогда не знала... Я хотела протянуть руку и похлопать её по плечу..."
-line-1401,缪尔赛思,我好像遇见了刚从萨米离开的缪尔赛思。,I think I met a Muelsyse who had just left Sami.,"Мне снилась Мюльсайз, только что ушедшая из Сами."
+line-1399,缪尔赛思,博士进来之前，我好像……我好像正跟着年幼的缪尔赛思离开特伦多镇的孤儿院……,"Before you came in, I think... I think I was leaving the orphanage in Trenton with a kid version of myself.","Перед тем как пришёл Доктор, мне снилось... мне снилось, как юная Мюльсис уходит из приюта в Тренто..."
+line-1400,缪尔赛思,我好像看见缪尔赛思蹲在淡杉树旁，清理那些我从未谋面的父母和族人的墓园……我想要伸手去拍一拍她的肩膀……,"I think I saw a Muelsyse crouching next to a pale fir tree, tidying up the graves of my parents and my kin that I've never met... I wanted to reach out and pat her on the shoulder.","Я видела, как Мюльсис сидит рядом с бледной пихтой, расчищая кладбище родителей и сородичей, которых я никогда не знала... Я хотела протянуть руку и похлопать её по плечу..."
+line-1401,缪尔赛思,我好像遇见了刚从萨米离开的缪尔赛思。,I think I met a Muelsyse who had just left Sami.,"Мне снилась Мюльсис, только что ушедшая из Сами."
 line-1402,缪尔赛思,晨雾打湿了她的头发，她连随身的伞都没有撑，很冷。她缩着脖子，耷拉着脑袋，我从来没见自己那么垂头丧气过……,"Her hair was wet from the morning mist, and she wasn't even holding her usual parasol, and it was so cold. Her neck was tucked in and her head drooping. I've never seen myself so dispirited.","Утренний туман намочил её волосы, у неё не было даже зонта, ей было очень холодно. Она втянула голову в плечи, повесила голову — я никогда не видела себя такой подавленной..."
 line-1405,,萨米的森林里居住着你的族人吗？;你见到了其他的精灵？,Were your people living in the forests of Sami?;You saw other Elves?,В лесах Сами жили твои сородичи?; Ты видела других эльфов?
 line-1408,缪尔赛思,是的。,Yup.,Агась.
@@ -707,7 +707,7 @@ line-1413,缪尔赛思,我见到一棵参天大树立在林地里，和其他萨
 line-1414,缪尔赛思,树下空洞深邃无际，树木粗枝盘桓缠绕，如琥珀般的生态圈静静躺在根系织成的网中。,"An endless Hollow beneath the tree, its thick branches entangling with one another, an ecosphere woven into the roots as if it was encased in amber.","Под деревом простирается бесконечная впадина, его толстые ветви переплетаются друг с другом, экосфера вплетена в корни, словно заключена в янтарь."
 line-1415,缪尔赛思,……这片大地上竟然存在着那样的精灵聚落。,To think there was such a settlement for Elves on Terra.,"Подумать только, на Терре существовало эльфийское поселение."
 line-1418,,你想要劝说他们离开？;他们不愿离开自己的家？,You want to persuade them to leave?;Were they unwilling to leave their homes?,Ты хотела уговорить их уйти?; Они не захотели бросить дом?
-line-1421,缪尔赛思,不，博士，我甚至没能说出这些话。,"No, Doctor. I couldn't even bring myself to ask them.","Нет, доктор. Я даже не смогла их спросить."
+line-1421,缪尔赛思,不，博士，我甚至没能说出这些话。,"No, Doctor. I couldn't even bring myself to ask them.","Нет, Доктор. Я даже не смогла их спросить."
 line-1422,缪尔赛思,那些精灵对我没有敌意，但我无法融入他们，并非因为我这身来自城市的装束，有什么天然的东西区隔了我们。,"They were not hostile to me, but I had no way of integrating into their society, not because of my metropolitan fit, but there was something natural separating us.","Они не были враждебно настроены ко мне, но у меня не было возможности интегрироваться в их общество, не из-за моей одежды, а потому что нас разделяло нечто естественное."
 line-1423,缪尔赛思,我们有着相似的外形，我们面临同样的困境，我们明明是同类，却又无比陌生。,"We look similar, and face the same struggle, we're clearly alike, and yet we're also complete strangers to one another.","Мы похожи внешне и сталкиваемся с одними и теми же трудностями, мы явно похожи, и в то же время мы совершенно чужды друг другу."
 line-1424,缪尔赛思,……我们无法理解，我们无法交流，我们是两道波频完全相异的电波。,"We had no way of understanding or communicating with each other, like two waves on completely different frequencies.","...Мы не могли понять, не могли общаться, мы были как две радиоволны на разных частотах."
@@ -736,7 +736,7 @@ line-1458,缪尔赛思,孤独。,Lonely.,Одинокой.
 line-1460,缪尔赛思,博士，如果我生来注定只能孑然一身，而对这所谓命运的发现与反抗最终又会让我了无所依……,"Doctor, if I was destined to always be alone, and if discovering and resisting this thing called fate still only leaves me all alone...","Доктор, если я рождена быть одинокой, а открытие и сопротивление судьбе в конечном счёте оставят меня ни с чем..."
 line-1461,缪尔赛思,是不是意味着，我永远无法摆脱它？,Does that mean I'll never be able to rid myself of it?,"Означает ли это, что я никогда не смогу от неё избавиться?"
 line-1464,,……,......,...
-line-1468,,你尝试靠近缪尔赛思。但隔着玻璃，隔着沉沉的湖水，她依然离你很远。,"You attempt to get closer to Muelsyse. But through the glass and the dense lake, she still seems to be far away.",Ты пытаешься приблизиться к Мюльсайз. Но сквозь стекло и густое озеро она всё ещё кажется далекой.
+line-1468,,你尝试靠近缪尔赛思。但隔着玻璃，隔着沉沉的湖水，她依然离你很远。,"You attempt to get closer to Muelsyse. But through the glass and the dense lake, she still seems to be far away.",Ты пытаешься приблизиться к Мюльсис. Но сквозь стекло и густое озеро она всё ещё кажется далекой.
 line-1470,,来之前，我刚刚送别了一个人。,I bid farewell to someone before coming here.,Перед приходом сюда я попрощался с одним человеком.
 line-1473,缪尔赛思,唔……谁？,Uh... who?,М-м... с кем?
 line-1476,,一位朋友。;一位陌生人。,A friend.;A stranger.,С другом.; С незнакомцем.
@@ -764,11 +764,11 @@ line-1518,,时间无法丈量他在黑暗中的守望与等待。,Time could not
 line-1520,,……我能做的只是为他送别。,All I could do was to say goodbye.,"Всё, что я мог сделать, это попрощаться."
 line-1524,缪尔赛思,……难怪你看起来这么疲惫，博士。,"No wonder you look so exhausted, Doctor.","...Неудивительно, что ты выглядишь таким уставшим, Доктор."
 line-1527,,……,......,...
-line-1529,,你停了下来，隔着玻璃，隔着沉沉的湖水，缪尔赛思注视着你的眼睛。,"You stop moving, and Muelsyse looks into your eyes through the glass, across the still water.","Ты остановился. За стеклом, за толщей озёрной воды, Мюльсайз смотрит тебе прямо в глаза."
+line-1529,,你停了下来，隔着玻璃，隔着沉沉的湖水，缪尔赛思注视着你的眼睛。,"You stop moving, and Muelsyse looks into your eyes through the glass, across the still water.","Ты остановился. За стеклом, за толщей озёрной воды, Мюльсис смотрит тебе прямо в глаза."
 line-1531,缪尔赛思,Dr.{@nickname}，原来你也会感到孤独……,"So you also get lonely, Dr. {@nickname}...","Значит, вам тоже бывает одиноко, Доктор {@nickname}..."
 line-1534,,经常。;……;偶尔。,Frequently.;......;Occasionally.,Часто.;...;Порой.
 line-1537,缪尔赛思,那你动摇过吗？你会不会因此怀疑许多事情的意义？,"Then, have you ever wavered in your resolve? Will you doubt the significance of certain things because of it?","Тогда, ты когда-нибудь колебался в своих решениях? Из-за этого ты сомневался в значимости тех или иных вещей?"
-line-1538,缪尔赛思,对罗德岛，对陪伴在你身边的那些干员和朋友，对你已经遗忘却一直在找寻的那个人？,"Rhodes Island, the Operators and friends by your side, that person who you forgot but still have been searching for?","В отношении Родоса, в отношении друзей и подчинённых, в отношении того человека, о котором ты забыл, но которого все ещё ищешь?"
+line-1538,缪尔赛思,对罗德岛，对陪伴在你身边的那些干员和朋友，对你已经遗忘却一直在找寻的那个人？,"Rhodes Island, the Operators and friends by your side, that person who you forgot but still have been searching for?","В отношении Родоса, в отношении друзей и подчинённых, в отношении того человека, о котором ты забыл, но которого всё ещё ищешь?"
 line-1539,缪尔赛思,……对你自己？,...And yourself?,...В отношении самого себя?
 line-1542,缪尔赛思,咕——,*gurgle*,*бульканье*—
 line-1544,缪尔赛思,博士，这座生态园马上就会完全封闭，你快离开吧。,"Doctor, this vivarium will shut down soon, so you should get out of here.","Доктор, этот вивариум скоро закроется, так что вам следует уйти отсюда."
@@ -779,11 +779,11 @@ line-1558,缪尔赛思,你会淹死的……,You'll drown...,Ты утонешь
 line-1559,缪尔赛思,别担心我，我只是想要再睡一会儿，睡得更长一些。,"Don't worry about me, I just want to sleep a bit more, a bit longer.","Не беспокойся обо мне, я просто хочу поспать ещё немного, подольше."
 line-1561,,来之前，我刚刚被问过类似的问题。,"Before I came here, I was asked a similar question.",Перед приходом сюда мне задали похожий вопрос.
 line-1563,,我的答案是，“始终如一”。,"My answer was, and is, 'just as I always have been.'",Мой ответ был: «я всегда оставался неизменным».
-line-1565,,“孤独”是一种力量，缪尔赛思。,"Being 'alone' is a type of strength, Muelsyse.","«Одиночество» — это сила, Мюльсайз."
+line-1565,,“孤独”是一种力量，缪尔赛思。,"Being 'alone' is a type of strength, Muelsyse.","«Одиночество» — это сила, Мюльсис."
 line-1568,,哪怕是像机器那样的人，也会被这种情绪淹没。,Even a machine-like person can be submerged in such an emotion.,"Даже те, кто подобен машине, бывают захлестнуты этим чувством."
 line-1569,,你会悲伤 ，你会怀念，你会不安。,"You will be sad, you will reminisce, you will worry.","Ты будешь грустить, ты будешь тосковать, ты будешь беспокоиться."
 line-1570,,而在更为漫长的时间里，这一切可能并不会好转。,"And in the long term, it might not even improve.",И на протяжении долгого времени всё это может не стать лучше.
 line-1571,,但它确实是一种力量。,But it is indeed a kind of power.,Но это действительно сила.
 line-1572,,生命在消逝前经历的一切，都会有意义留存。,Every life experience that eventually fades away will still hold some meaning.,"Всё, что переживает жизнь до своего ухода, имеет смысл."
 line-1573,,我记得你说过，你不喜欢被追着问问题。,"I remember you said before, that you don't like being peppered with questions.","Помню, ты говорила, что не любишь, когда тебя донимают вопросами."
-line-1579,,但我会伸出我的手，缪尔赛思。,"But I will still hold out my hand, Muelsyse.","Но я всё равно протяну тебе свою руку, Мюльсайз."
+line-1579,,但我会伸出我的手，缪尔赛思。,"But I will still hold out my hand, Muelsyse.","Но я всё равно протяну тебе свою руку, Мюльсис."

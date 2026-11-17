@@ -8,9 +8,9 @@ char-1,克莱芒,克莱芒,Clément,Клемент
 char-2,杰拉尔德,杰拉尔德,Gerald,Джеральд
 char-3,福尔图娜,福尔图娜,Fortuna,Фортуна
 char-4,德尔菲娜,德尔菲娜,Delfina,Дельфина
-char-5,斯普莉雅,斯普莉雅,Serpilia,Серпилия
+char-5,斯普莉雅,斯普莉雅,Serpilia,Спририя
 char-6,费德里科,费德里科,Federico,Федерико
-char-7,里凯莱,里凯莱,Richele,Ришель
+char-7,里凯莱,里凯莱,Richele,Рикеле
 char-8,修道院居民,修道院居民,Monastery Inhabitant,Житель монастыря
 char-9,年迈的修道院居民,年迈的修道院居民,Elderly Monastery Inhabitant,Пожилой житель монастыря
 char-10,妮娜,妮娜,Nina,Нина
@@ -20,7 +20,7 @@ char-12,修道院主教,修道院主教,Abbot,Аббат
 line-14,克莱芒,……,...,...
 line-15,克莱芒,杰拉尔德，你是打算和我一起去敲钟吗？,"Gerald, are you coming to ring the bell with me or something?","Джеральд, ты собираешься звонить в колокол вместе со мной?"
 line-17,杰拉尔德,很奇怪吗？,Is that weird?,Разве это так странно?
-line-19,克莱芒,奇怪。之前有一回我托你帮忙敲钟，你不乐意，最后还是使唤莱蒙德那小伙子。,"It is. I asked you once before to help me ring the bell, and you were having none of it. You ended up sending Raimund instead.","Странно. Раньше я просил тебя помочь со звоном, но ты был не в восторге и в итоге всегда заставлял делать это Раймунда."
+line-19,克莱芒,奇怪。之前有一回我托你帮忙敲钟，你不乐意，最后还是使唤莱蒙德那小伙子。,"It is. I asked you once before to help me ring the bell, and you were having none of it. You ended up sending Raimund instead.","Странно. Раньше я просил тебя помочь со звоном, но ты был не в восторге и в итоге всегда заставлял делать это Раймонда."
 line-21,杰拉尔德,好像是有这么回事。,I guess that did happen.,"Кажется, что-то такое было."
 line-23,克莱芒,我记得你不喜欢钟声。,I thought you didn't like the sound.,"Я помню, что ты не любишь звон колоколов."
 line-25,杰拉尔德,谈不上喜欢不喜欢，都这么多年了。,Can't say either way. After all these years.,"Не могу сказать ни да, ни нет. После всех этих лет."
@@ -34,7 +34,7 @@ line-47,克莱芒,这话你别当我的面说啊……,You're not supposed to sa
 line-49,杰拉尔德,哈哈，抱歉抱歉。,"Hahaha! Sorry, sorry.","Ха-ха, прости, прости."
 line-51,杰拉尔德,……,...,...
 line-52,杰拉尔德,昨晚我们在外头扎营，收获不算很多，但处理起来也不轻松。,"We set up camp last night. Didn't get the greatest haul, and it wasn't easy to handle either.","Вчера вечером мы разбили лагерь снаружи, улов был невелик, но и с ним пришлось повозиться."
-line-53,杰拉尔德,莱蒙德给他的猎物放血，我把火生起来。看着那点火苗逐渐向上蹿，也不知道怎么了，我忽然想起爱琳。,"Raimund bled his game while I lit the fire. I was watching that tiny flame gradually sputtered to life, and I don't know what came over me, but I suddenly started thinking of Eileen.","Раймунд разделывал свою добычу, а я разводил костер. Глядя на то, как языки пламени тянутся вверх, не знаю почему, я вдруг вспомнил Эйлин."
+line-53,杰拉尔德,莱蒙德给他的猎物放血，我把火生起来。看着那点火苗逐渐向上蹿，也不知道怎么了，我忽然想起爱琳。,"Raimund bled his game while I lit the fire. I was watching that tiny flame gradually sputtered to life, and I don't know what came over me, but I suddenly started thinking of Eileen.","Раймонд разделывал свою добычу, а я разводил костер. Глядя на то, как языки пламени тянутся вверх, не знаю почему, я вдруг вспомнил Эйлин."
 line-55,克莱芒,杰拉尔德……,Gerald...,Джеральд...
 line-57,杰拉尔德,我其实很久没有想到过她了。但直到我想起，我才意识到……,"To be honest, I hadn't thought of her for the longest time. It was only when she came to mind that I realized...","На самом деле, я очень давно о ней не вспоминал. Но когда вспомнил, то осознал..."
 line-59,杰拉尔德,我甚至记不清她的脸。,I can't even remember her face.,Что даже не могу вспомнить её лицо.
@@ -45,7 +45,7 @@ line-66,杰拉尔德,爱琳是真的喜欢这里的钟声。一直到她走的�
 line-68,克莱芒,所以你不喜欢钟声。,So that's why you don't like it.,Поэтому ты не любишь звон колоколов.
 line-70,杰拉尔德,……或许只是害怕。我怕它再带来坏消息。,Maybe I'm just afraid... Afraid it'll be a harbinger of bad news.,"Может, я просто боюсь... Боюсь, что это будет предвестником плохих вестей."
 line-72,克莱芒,如果那时候我们有足够的药，或许她受的伤就不会恶化，也不会就这么……,"If only we had enough medicine back then, her injuries might not have taken a turn for the worse, and it might not have come to that...","Если бы тогда у нас было достаточно лекарств, возможно, её рана не обострилась бы, и она не ушла бы так..."
-line-74,杰拉尔德,没有如果。,There are no ifs.,"Никаких ""если бы"" быть не может."
+line-74,杰拉尔德,没有如果。,There are no ifs.,Никаких «если бы» быть не может.
 line-76,克莱芒,……愿她能获得救赎。,I hope she finds salvation.,...Надеюсь она обрела покой.
 line-78,杰拉尔德,是啊，但愿。,"Yes, we all do.",Мы все на это надеемся.
 line-80,克莱芒,……,...,...
@@ -53,8 +53,8 @@ line-82,克莱芒,杰拉尔德，你们真的决定要走？,"Gerald, is it true
 line-84,杰拉尔德,是真的。,Yes.,Правда.
 line-86,克莱芒,我没想到会这么急……,I didn't think it'd be this sudden...,"Я не думал, что так скоро..."
 line-88,杰拉尔德,本来该提前和你说一声，只是一直没找到机会开口。,"I should've told you earlier, but never had a chance.","Вообще-то следовало предупредить тебя заранее, просто никак не находил случая."
-line-90,克莱芒,莱蒙德和福尔图娜他们恐怕要难受一阵子了，他们几个孩子一向关系好，这次一定很不好受……,It's probably going to be hard on Raimund and Fortuna for a while. Those kids have always gotten along. They're not going to take it easy.,"Раймунду и Фортуне, боюсь, будет нелегко. Эти ребята всегда были близки, для них это будет большим ударом..."
-line-92,杰拉尔德,莱蒙德还太年轻。他来到这儿时还太小，记不住太多事。他还没能理解身为萨卡兹究竟是怎么一回事。,"Raimund's too young. He was so little when he first came here, he doesn't remember a whole lot. He doesn't yet understand what it means to be Sarkaz.","Раймунд ещё слишком молод. Когда он прибыл сюда, он был совсем маленьким и мало что помнит. Он ещё не осознал, что на самом деле значит быть Сарказом."
+line-90,克莱芒,莱蒙德和福尔图娜他们恐怕要难受一阵子了，他们几个孩子一向关系好，这次一定很不好受……,It's probably going to be hard on Raimund and Fortuna for a while. Those kids have always gotten along. They're not going to take it easy.,"Раймонду и Фортуне, боюсь, будет нелегко. Эти ребята всегда были близки, для них это будет большим ударом..."
+line-92,杰拉尔德,莱蒙德还太年轻。他来到这儿时还太小，记不住太多事。他还没能理解身为萨卡兹究竟是怎么一回事。,"Raimund's too young. He was so little when he first came here, he doesn't remember a whole lot. He doesn't yet understand what it means to be Sarkaz.","Раймонд ещё слишком молод. Когда он прибыл сюда, он был совсем маленьким и мало что помнит. Он ещё не осознал, что на самом деле значит быть Сарказом."
 line-93,杰拉尔德,但他总会了解，总要习惯。,But he will understand. He will come to terms with it.,"Но он поймет это со временем, он должен привыкнуть."
 line-94,杰拉尔德,或许这就是萨卡兹的宿命。,Perhaps that is the Sarkaz's fate.,"Возможно, такова судьба Сарказов."
 line-96,克莱芒,宿命不是什么好词。,Fate isn't a pleasant word.,Судьба — не самое лучшее слово.
@@ -89,14 +89,14 @@ line-162,福尔图娜,我知道杰拉尔德叔叔他们，可能、可能不能�
 line-163,福尔图娜,但我想再努力一下！如果能让拉特兰的人明白，杰拉尔德叔叔他们都是很好很好的人，或许就能——,"But I still want to try my best! If I can get the Laterans to understand that Gerald's people are all good, then maybe–","Но я хочу попытаться! Если бы удалось убедить людей из Латерано, что дядя Джеральд и его друзья — замечательные люди, может быть, мы бы смогли—"
 line-165,德尔菲娜,或许能什么？或许他们能同意，让大家一起去拉特兰生活？,Maybe what? They'd agree to let us all live together in Laterano?,Что смогли? Что они согласятся взять нас всех в Латерано?
 line-166,德尔菲娜,我算是明白了……这就是你总愿意和那个蕾缪安说话的原因？你觉得自己在替其他人充当说客？,I get it now... Is that why you're always so willing to chat with that Lemuen woman? You think you're putting in a good word for them?,"Теперь я поняла... это причина, по которой ты всегда готова говорить с этой Лемуэн? Ты думаешь, что сможешь замолвить словечко за них?"
-line-169,德尔菲娜,你求她了吗？为了能让莱蒙德他们不被抛下，你觉得我们必须要恳求，是不是？,"Did you beg her? You think we have to get on our knees and beg for Raimund's people to not get left behind, is that it?","Ты умоляла её? Ты думаешь, мы должны умолять, чтобы Раймунда и остальных не бросили?"
+line-169,德尔菲娜,你求她了吗？为了能让莱蒙德他们不被抛下，你觉得我们必须要恳求，是不是？,"Did you beg her? You think we have to get on our knees and beg for Raimund's people to not get left behind, is that it?","Ты умоляла её? Ты думаешь, мы должны умолять, чтобы Раймонда и остальных не бросили?"
 line-171,福尔图娜,菲娜……,Fina...,Фина...
 line-173,德尔菲娜,你想劝他们改变主意，但你成功了吗？,You're trying to get them to change their minds. So what do you have to show for it?,"Ты пыталась убедить их изменить мнение, но добилась ли успеха?"
 line-175,福尔图娜,我……我还在努力……,I... I'm still working on them...,Я... я всё ещё стараюсь...
 line-177,德尔菲娜,你不会成功的。,You're wasting your time.,У тебя не выйдет.
 line-178,德尔菲娜,那只是你的一厢情愿，小福。,"Wasting it on a hope and a prayer, Tuna.","Это лишь твои иллюзии, Туна."
-line-179,德尔菲娜,你我和莱蒙德哪里不同？和卡洛琳哪里不同？,How are we different from Raimund? Or Caroline?,Чем мы с тобой отличаемся от Раймунда? Или от Кэролайн?
-line-181,福尔图娜,……莱蒙德比我能干多了，卡洛琳姐也比我更聪明。,Raimund can do way more than I can... and Caroline is a lot smarter than me.,"...Раймунд намного способнее меня, а Кэролайн умнее."
+line-179,德尔菲娜,你我和莱蒙德哪里不同？和卡洛琳哪里不同？,How are we different from Raimund? Or Caroline?,Чем мы с тобой отличаемся от Раймонда? Или от Кэролайн?
+line-181,福尔图娜,……莱蒙德比我能干多了，卡洛琳姐也比我更聪明。,Raimund can do way more than I can... and Caroline is a lot smarter than me.,"...Раймонд намного способнее меня, а Кэролайн умнее."
 line-183,德尔菲娜,你看，你自己也清楚。,"See, you get it.","Видишь, ты сама это понимаешь."
 line-184,德尔菲娜,他们区分我们，他们承认我们是同胞，却同时贬低我们真正的同胞。,"They're splitting us up. They've accepted us as their people, but at the same time, they're looking down on the ones we truly belong with.","Они нас разлучают. Они приняли нас как своих, но в то же время смотрят свысока на тех, к кому мы действительно принадлежим."
 line-186,德尔菲娜,我不能忍受这些。我宁愿不去这样的拉特兰。,I can't accept it. I'd rather not go to Laterano at all.,Я не могу с этим смириться. Я бы предпочла вообще не ехать в Латерано.
@@ -108,7 +108,7 @@ line-195,福尔图娜,你觉得那已经只是幻想？,Do you really think so? 
 line-197,德尔菲娜,我只是没有你那么乐观。我只知道，自从那些拉特兰人出现，修道院里的气氛越来越奇怪。,"I'm not as optimistic as you are. All I know is, ever since those Laterans showed up, the air in the monastery has gotten weirder and weirder.","Я просто не такая оптимистка, как ты. Я вижу лишь то, что с появлением латеранцев жизнь в монастыре становится всё страннее."
 line-198,德尔菲娜,是，我们的日子是过得很难，但我从来不讨厌这样的日子！,"It's true, our lives here have been incredibly difficult, but I've never resented that!","Да, мы живем тяжело, но мне никогда не была ненавистна такая жизнь!"
 line-200,德尔菲娜,我喜欢听斯特凡诺爷爷每周的布道，也喜欢杰拉尔德叔叔说的那些过去的故事。,"I love listening to Avus Stefano's sermons, and Patruus Gerald's stories about the past.","Мне нравилось слушать еженедельные проповеди дедушки Стефано, и мне нравились истории о прошлом, которые рассказывал дядя Джеральд."
-line-201,德尔菲娜,有的时候吃不饱，卡洛琳会偷偷给我们多塞两根肉干，妮娜婶婶会给莱蒙德多加一勺最稠的菜粥，我们就在一起分着把它们吃完……,"Sometimes, when we didn't have enough food, Caroline would slip us a couple extra pieces of jerky, or Amita Nina would give an extra scoop of the thickest veggie porridge to Raimund, and we'd get together and share it.","Иногда мы недоедали, Кэролайн тайком подсовывала нам лишние куски вяленого мяса, тетушка Нина накладывала Раймунду лишнюю ложку густой похлебки, и мы делили это поровну..."
+line-201,德尔菲娜,有的时候吃不饱，卡洛琳会偷偷给我们多塞两根肉干，妮娜婶婶会给莱蒙德多加一勺最稠的菜粥，我们就在一起分着把它们吃完……,"Sometimes, when we didn't have enough food, Caroline would slip us a couple extra pieces of jerky, or Amita Nina would give an extra scoop of the thickest veggie porridge to Raimund, and we'd get together and share it.","Иногда мы недоедали, Кэролайн тайком подсовывала нам лишние куски вяленого мяса, тетушка Нина накладывала Раймонду лишнюю ложку густой похлебки, и мы делили это поровну..."
 line-202,德尔菲娜,我觉得这样很好……,I was fine with that.,"Я считала, что так и должно быть..."
 line-204,福尔图娜,菲娜……,Fina...,Фина...
 line-206,德尔菲娜,可是现在呢？,But what about now?,Но что теперь?
@@ -146,7 +146,7 @@ line-299,福尔图娜,菲娜？你怎么了，你别吓我……,Fina? What's wr
 line-302,福尔图娜,菲娜！！,FINA!,ФИНА!!
 line-314,斯普莉雅,哟，总算找到你们了。,Yo. Finally caught up to you guys.,"Эй, ну наконец-то я вас нашла."
 line-315,斯普莉雅,怎么样，还顺利吗？,"So, what's the word? Everything going well?","Ну как, всё прошло успешно?"
-line-322,费德里科,斯普莉雅，单独行动需要提前告知。,"Serpilia, you need to notify us in advance if you're going to act on your own.","Серпилия, о самостоятельных вылазках нужно предупреждать заранее."
+line-322,费德里科,斯普莉雅，单独行动需要提前告知。,"Serpilia, you need to notify us in advance if you're going to act on your own.","Спририя, о самостоятельных вылазках нужно предупреждать заранее."
 line-325,斯普莉雅,别这么死板嘛，我也是为了尽快完成任务。,"Don't be such a hardass, will ya? All I want is to finish the job as soon as possible.","Не будь таким занудой, я просто хотела быстрее завершить задание."
 line-326,斯普莉雅,对了，一个好消息，我找到蕾缪安了，她就在修道院内。,"First, the good news. I found Lemuen. She's inside the monastery.","Кстати, хорошая новость: я нашла Лемуэн, она в монастыре."
 line-327,斯普莉雅,还有个坏消息——她没打算过来和我们会合。,And then the bad news— she doesn't want to come with us.,И плохая новость — она не собирается идти с нами.
@@ -157,7 +157,7 @@ line-340,费德里科,好。,Alright.,Хорошо.
 line-343,斯普莉雅,啊？好什么……等会，你是在开玩笑吧？,"Huh? Alright what...? Wait, you've gotta be joking, right?","А? Что хорошо... погоди, ты ведь шутишь?"
 line-347,费德里科,不是。,No.,Нет.
 line-350,斯普莉雅,……,...,...
-line-354,里凯莱,斯普莉雅，教你一个公证所内部小知识。,"Serpilia, let me give you a little insider tip from the Notarial Hall.","Серпилия, позволь мне поделиться с тобой небольшим секретом из Нотариального зала."
+line-354,里凯莱,斯普莉雅，教你一个公证所内部小知识。,"Serpilia, let me give you a little insider tip from the Notarial Hall.","Спририя, позволь мне поделиться с тобой небольшим секретом из Нотариального зала."
 line-357,斯普莉雅,什么玩意？,What is it?,Чего ещё?
 line-361,里凯莱,费德里科不会开玩笑。他没这个功能。,Federico never cracks jokes. He isn't capable.,Федерико не шутит. У него нет такой функции.
 line-364,斯普莉雅,……,...,...
@@ -168,7 +168,7 @@ line-378,斯普莉雅,费德里科。,Federico.,Федерико.
 line-380,斯普莉雅,我现在可算是知道你为什么上了教皇厅那么多姑娘的黑名单了。,Now I understand why so many girls in the Curia have you blacklisted.,"Теперь-то я понимаю, почему ты попал в чёрные списки стольких девушек в Курии."
 line-384,费德里科,？,?,？
 line-387,斯普莉雅,算了，先不说这个。你们那边怎么样……你们已经和这里的人说上话了？,"Well, whatever, let's set that aside for now. What's the situation over there? Did you manage to talk to the people?","Ладно, неважно. Как там у вас... вы уже поговорили с местными?"
-line-396,修道院居民,里凯莱先生……？,Senior Richele...?,Сеньор Ришель...?
+line-396,修道院居民,里凯莱先生……？,Senior Richele...?,Сеньор Рикеле...?
 line-397,修道院居民,这位也是你们的同伴吗？,Is this one with you?,Это тоже ваш спутник?
 line-399,里凯莱,嗯，没错，我们都是同事。,Yes. We're all colleagues.,"Да, верно, мы коллеги."
 line-402,年迈的修道院居民,……年轻的萨科塔，你们还想问什么？,"What else do you want to know, young Sankta?","...Юные Санкты, о чем вы ещё хотите спросить?"
@@ -218,7 +218,7 @@ line-493,费德里科,雇佣兵。,A mercenary.,Наемник.
 line-495,斯普莉雅,你们俩的对话就像“晚上吃什么？”“吃饭。”一样无聊。,The average conversation between the two of you is about as interesting as 'What'd you eat last night?' 'Dinner.',"Ваши диалоги скучны, как вопрос «Что на ужин?» и ответ «Еда»."
 line-496,斯普莉雅,费德里科，想要你多说一个字得付多少钱？你开个价，我回去找教宗阁下报销。,"Federico, how much do I have to pay you for a few extra words? You name the price, and I'll send the bill to His Holiness.","Федерико, сколько тебе надо заплатить, чтобы ты сказал на одно слово больше? Назови цену, я выпишу счёт Его Святейшеству."
 line-498,费德里科,我没有考虑过这个问题。,I have never considered this question.,Я никогда не задумывался над этим вопросом.
-line-500,里凯莱,放过费德里科吧。对了，既然蕾缪安没什么问题，那……奥伦呢？,"Give the guy a break. Oh, right. We know now Lemuen is well, but... what about Oren?","Оставь Федерико в покое. Раз с Лемуэн всё в порядке, тогда...  где Орен?"
+line-500,里凯莱,放过费德里科吧。对了，既然蕾缪安没什么问题，那……奥伦呢？,"Give the guy a break. Oh, right. We know now Lemuen is well, but... what about Oren?","Оставь Федерико в покое. Раз с Лемуэн всё в порядке, тогда... где Орен?"
 line-502,斯普莉雅,那家伙一早就跑了，蕾缪安也不知道他的下落。,The guy ran off a while ago. Even Lemuen doesn't know where he ended up.,"Этот тип сбежал ещё утром, Лемуэн сама не знает, где он."
 line-503,斯普莉雅,他那个人最会自保，要我说……他现在指不定在哪打他的算盘呢。,"But he's pretty good with the self-preservation. If you ask me... he's probably hiding somewhere, planning his next move.","Он печется только о своей шкуре, я ставлю на то... что он сейчас где-то строит свои планы."
 line-505,里凯莱,嗯？嗯……,Huh? Uh...,Хм? М-да...
@@ -253,7 +253,7 @@ line-565,修道院居民,大伙都想着要是真能去拉特兰，那儿、那�
 line-566,修道院居民,要是拉特兰附近有林子就好了，至少能多捡点树枝回来生火，让年纪小点的孩子冬天暖和些。,"It'd be nice if there were some forests nearby. At least we'd be able to forage some branches to start a fire, so the kids could stay warm during the winter.","Вот бы рядом с Латерано был лес, хотя бы можно было собрать больше веток для костра, чтобы детишки не мерзли зимой."
 line-568,克莱芒,是啊，你说得对，至少让孩子们暖和些……,"Yes, you're right... At least the kids would stay warm.","Да, ты прав, нужно хотя бы детям согреться..."
 line-570,克莱芒,可我们到了拉特兰，真的就会有好日子吗……？,"But, would our lives really improve after we got to Laterano?",Но ждёт ли нас в Латерано на самом деле хорошая жизнь...?
-line-572,修道院居民,应该吧……要不然咱们还能上哪去？,"Probably? I mean, where else would we go?","Наверное? В смысле, куда еще нам пойти?"
+line-572,修道院居民,应该吧……要不然咱们还能上哪去？,"Probably? I mean, where else would we go?","Наверное? В смысле, куда ещё нам пойти?"
 line-573,修道院居民,你也别太担心了，克莱芒……神会保佑我们的。,"You don't need to worry yourself over that too much, Clément... God will protect us.","Не переживай так сильно, Клемент... Бог нас не оставит."
 line-575,克莱芒,……,...,...
 line-581,修道院居民,什么声音……这又是怎么了……？,What was that sound? What's going on this time...?,Что это за звук... что опять...?

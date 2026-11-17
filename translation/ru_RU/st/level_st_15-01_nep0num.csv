@@ -13,7 +13,7 @@ char-6,兴奋的军人,兴奋的军人,Excited Soldier,Возбужденный 
 char-7,整合运动成员,整合运动成员,Reunion Member,Участник Воссоединения
 char-8,主教,主教,Bishop,Епископ
 char-9,阿米娅,阿米娅,Amiya,Амия
-char-10,特雷西斯,特雷西斯,Theresis,Тересис
+char-10,特雷西斯,特雷西斯,Theresis,Терезис
 ,,,,
 line-9,,<color=#000000>“宇宙”。</color>,<color=#000000>'Universe'.</color>,<color=#000000>«Вселенная».</color>
 line-12,,<color=#000000>我们应当如何解释这个词语？数学，物理，信仰，空想——</color>,"<color=#000000>How should we interpret this word? With mathematics, physics, faith, imagination—</color>","<color=#000000>Как нам следует объяснить это слово? Математика, физика, вера, фантазия —</color>"
@@ -25,10 +25,10 @@ line-27,,<color=#000000>用我和你创造的语言，{@nickname}。</color>,"<c
 line-38,,“Dr.{@nickname}，这场战争该结束了。”,"'It's time for this war to end, Dr. {@nickname}.'","«Доктор {@nickname}, этой войне пора закончиться»."
 line-39,,“那位德拉克点燃城墙的紫火极大地推动了战争的进程。当典范军和公爵联军的队伍推进至孽茨雷最后的阵地前时——”,'The purple flames ignited by that Draco have accelerated the course of the war. Once the Exemplars and the ducal alliance's troops push onto Nezzsalem's final stronghold—',"«Фиолетовое пламя, которым та Драко подожгла крепостную стену, значительно ускорило ход войны. Когда отряды Армии Образцов и коалиции герцогов продвинулись к последним позициям Ньецлера —»"
 line-40,,“我们停下这场战争的目的也终于触手可及。”,'Our goal of concluding this war will finally be within reach.',"«Цель, ради которой мы остановили эту войну, наконец стала достижима»."
-line-41,,“可......凯尔希医生，最后这短短的一段路还得花上多少时间？”,"'But... Dr. Kal'tsit, how long will it take for us to cover this short stretch?'","«Но... доктор Кель'си, сколько ещё времени займёт этот последний короткий путь?»"
+line-41,,“可......凯尔希医生，最后这短短的一段路还得花上多少时间？”,"'But... Dr. Kal'tsit, how long will it take for us to cover this short stretch?'","«Но... доктор Кальцит, сколько ещё времени займёт этот последний короткий путь?»"
 line-42,,“没人能保证，阿米娅。”,"'There's no way to tell, Amiya.'","«Никто не может гарантировать, Амия»."
 line-46,,<p=1>伦蒂尼姆外围战场，“荣光”号残骸</>,"<p=1>Londinium outskirts battlefield, wreck of the <i>Gloriana</i></>","<p=1>Внешний фронт Лондиниума, обломки корабля «Слава»</>"
-line-52,疲惫的伤员,源石......,Originium...,Ориниум...
+line-52,疲惫的伤员,源石......,Originium...,Ориджиниум...
 line-53,疲惫的伤员,这些该死的源石真的斩断了这艘旗舰。我必须留在这里，加入这里的驻军继续战斗......,Bloody Originium's really chopped this battleship in halves. I have to remain here and continue the fight with the local garrison...,"Этот проклятый ориниум действительно разрезал этот флагман. Я должен остаться здесь и присоединиться к гарнизону, чтобы продолжить сражаться..."
 line-54,疲惫的伤员,抱歉，我不能继续陪你往前走了，孩子。,"Sorry, kid. I can't go on with you.","Прости, я не могу больше идти с тобой, дитя."
 line-59,坚强的感染者,我们一路过来，只有废墟和那些死去的......我没有看到任何驻军。,This whole time we've seen nothing but ruins and dead... no garrisons at all.,"Мы проделали весь путь, видя лишь руины и тех, кто погиб... Я не встретил никакого гарнизона."
@@ -140,22 +140,22 @@ line-368,,我们去面对特雷西斯。,Let's go confront Theresis.,Мы идё
 line-371,阿米娅,博士，走吧。,"Let's go, Doctor.","Доктор, пойдемте."
 line-374,,......,......,...
 line-377,阿米娅,博士？,Doctor?,Доктор?
-line-380,,凯尔希，我突然有一个疑问。,"Kal'tsit, a thought occurs.","Кель'си, у меня внезапно возник вопрос."
+line-380,,凯尔希，我突然有一个疑问。,"Kal'tsit, a thought occurs.","Кальцит, у меня внезапно возник вопрос."
 line-382,,源石内化宇宙中的静滞......到底意味着什么？;我们曾涉足的那个地方，是不是连时间都无法逃脱？,What exactly does... stasis within the Assimilated Universe mean?;Does that place we've been prevent even time from escaping?,"Что же на самом деле означает стазис внутри ориниумной вселенной? То место, где мы когда-то побывали, не означает ли, что даже время не может оттуда ускользнуть?"
 line-392,,信息的浪涌冲击着他，试图将他吞没。,"A surge of information rushes forward, trying to engulf him.","Поток информации ударил по нему, пытаясь поглотить."
 line-393,,但特雷西斯屹立不动。,But Theresis does not budge.,Но Терезис стоял непоколебимо.
-line-399,特雷西斯,我终于亲眼看到了你创造的伟绩，特蕾西娅。,"I finally see with my own eyes what great feat you've managed, Theresa.","Я наконец увидел собственными глазами великое свершение, которое ты создала, Терезия."
-line-401,,<p=1>源石内化宇宙</><p=2>未知时间</>,<p=1>Originium Assimilated Universe</><p=2>Time Unknown</>,<p=1>Ориниумная вселенная</><p=2>Неизвестное время</>
+line-399,特雷西斯,我终于亲眼看到了你创造的伟绩，特蕾西娅。,"I finally see with my own eyes what great feat you've managed, Theresa.","Я наконец увидел собственными глазами великое свершение, которое ты создала, Тереза."
+line-401,,<p=1>源石内化宇宙</><p=2>未知时间</>,<p=1>Originium Assimilated Universe</><p=2>Time Unknown</>,<p=1>Ориджиниумная вселенная</><p=2>Неизвестное время</>
 line-405,,他抬头望向矗立在虚空中的高塔，崩溃的碎屑重新化作无序的信息回归虚空。,He looks up at the tower standing in the void as falling fragments turn back into irregular information and return into the nothingness.,"Он поднял голову и посмотрел на высокую башню, стоящую в пустоте, обломки распада возвращались в пустоту в виде беспорядочной информации."
 line-406,,特雷西斯握住了飘散而下的碎屑，可手中转瞬却又一无所有。,"Theresis grabs a fragment that has drifted down to him, but it instantly turns to nothing in his palm.","Терезис схватил обломки, что пролетали мимо, но в руке мгновенно не осталось ничего."
-line-407,特雷西斯,你为我打开了这扇门，最后这段路，我会替你走完，特蕾西娅。,"You opened this door for me, so I'll finish this last part of the journey in your stead, Theresa.","Ты открыла для меня эту дверь, последний отрезок пути я пройду за тебя, Терезия."
+line-407,特雷西斯,你为我打开了这扇门，最后这段路，我会替你走完，特蕾西娅。,"You opened this door for me, so I'll finish this last part of the journey in your stead, Theresa.","Ты открыла для меня эту дверь, последний отрезок пути я пройду за тебя, Тереза."
 line-408,特雷西斯,夺下这枚属于萨卡兹的源石，萨卡兹将第一次拥有自己主宰自己命运的权力。,"Once we Sarkaz seize the Originium that belongs to us, we shall for the first time hold the power to determine our own fate.","Захватив этот ориниум, принадлежащий саркази, саркази впервые получат власть самостоятельно вершить свою судьбу."
 line-409,,他握紧了手中的剑，冷冷地注视着虚空中那逐渐靠近的巨大菱形。,"He grips the blade in his hand, and stares coldly at the large rhombus approaching him.","Он крепче сжал меч и холодно смотрел на огромный ромб, постепенно приближающийся в пустоте."
 line-410,,随即，他走向了崩溃的塔。他很清楚，他将要面对的存在就在那里。,"Then, he walks toward the crumbling tower. He knows well his opponent will be there.","Затем он направился к разрушающейся башне. Он прекрасно понимал, что существо, с которым ему предстоит встретиться, находится там."
-line-411,,毁灭些什么，来铸造阶梯。特蕾西娅已为他留下了道路。,"Destroy anything, just to create a ladder. Theresa has left a path for him.","Разрушить что-то, чтобы выстроить лестницу. Терезия уже оставила для него путь."
+line-411,,毁灭些什么，来铸造阶梯。特蕾西娅已为他留下了道路。,"Destroy anything, just to create a ladder. Theresa has left a path for him.","Разрушить что-то, чтобы выстроить лестницу. Тереза уже оставила для него путь."
 line-414,,“直至消散也未曾放弃抗争的众魂啊，在源石之中为萨卡兹做了最后一件事——”,"'The myriad souls who never gave up resisting until they completely dissipated, did one last thing for the Sarkaz within the Originium—'","«О души, что не перестали бороться даже до момента исчезновения, вы сделали последнее дело для саркази внутри ориниума —»"
 line-415,,“为所有仍活着的人搏一个有权为平等生存而抗争的未来。”,"'They fought for a future where everyone has a right to survive, for the ones still alive.'","«Вы боролись за будущее для всех, кто ещё жив, где они имеют право бороться за равное существование»."
 line-416,,“大家，向前走吧。”,"'Onward, everyone.'","«Все, продолжайте идти вперед»."
 line-419,特雷西斯,一如过往，你为我指引方向，我的剑会开辟前路。,"Just as always, my blade will cut our path forward. And you will lead the way.","Как и прежде, ты указываешь мне направление, а мой меч проложит путь."
-line-420,特雷西斯,我未曾食言，特蕾西娅——,"I never break my promises, Theresa—","Я не нарушил своего слова, Терезия —"
-line-425,,他走上了阶梯，走向了濒临崩毁的塔之巅。,"He walks up the flight of stairs, towards the top of the nearly collapsed tower.",Он ступил на лестницу и направился к вершине濒濒濒濒瀕 разрушающейся башни.
+line-420,特雷西斯,我未曾食言，特蕾西娅——,"I never break my promises, Theresa—","Я не нарушил своего слова, Тереза —"
+line-425,,他走上了阶梯，走向了濒临崩毁的塔之巅。,"He walks up the flight of stairs, towards the top of the nearly collapsed tower.",Он ступил на лестницу и направился к вершине разрушающейся башни.

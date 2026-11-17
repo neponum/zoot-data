@@ -15,7 +15,7 @@ char-8,瓦莱丝,瓦莱丝,Valais,Валис
 char-9,恩希亚,恩希亚,Ensia,Энсия
 char-10,魏斯,魏斯,Weiss,Вейсс
 char-11,古罗,古罗,Gulo,Гуло
-char-12,Sharp,Sharp,Sharp,Шарп
+char-12,Sharp,Sharp,Sharp,Sharp
 char-13,谢拉格战士A,谢拉格战士A,Kjerag Warrior A,Боец Кьерага А
 char-14,谢拉格战士B,谢拉格战士B,Kjerag Warrior B,Боец Кьерага Б
 char-15,？？？,？？？,???,???
@@ -169,10 +169,10 @@ line-407,Sharp,看来恩希欧迪斯先生事务缠身，是无暇亲自迎接�
 line-409,锏,是。,Correct.,Да.
 line-411,锏,放下武器，我不想冒犯贵客的护卫。,Put your weapon down. I would rather not offend our guest's bodyguard in any way.,"Опустите оружие, я не хочу оскорбить охрану гостя."
 line-413,Sharp,携带武器是我工作的一部分，而你不是我的上司。,"It's part of my job to carry a weapon at all times, and you're not my boss.","Ношение оружия — часть моей работы, а вы не мой начальник."
-line-416,,Sharp，可以了，在这里不要流血。,"Enough, Sharp. No bloodshed here.","Шарп, достаточно. Никакого кровопролития здесь."
+line-416,,Sharp，可以了，在这里不要流血。,"Enough, Sharp. No bloodshed here.","Sharp, достаточно. Никакого кровопролития здесь."
 line-419,Sharp,......我是博士的护卫，我和博士一起去。,"I'm the Doctor's bodyguard. Wherever the Doctor goes, I go.","...Я телохранитель Доктора, я пойду с ним."
 line-421,古罗,老爷说了，只要博士一个人。,"My instructions are to invite the Doctor, and the Doctor alone.","Господин сказал, только Доктор."
-line-424,,无妨，Sharp你在其他地方待命。,"It's okay, Sharp. You go stand by somewhere else.","Ничего страшного, Шарп, жди распоряжений в другом месте."
+line-424,,无妨，Sharp你在其他地方待命。,"It's okay, Sharp. You go stand by somewhere else.","Ничего страшного, Sharp, жди распоряжений в другом месте."
 line-427,Sharp,......听你的。,If you say so...,...Слушаюсь.
 line-429,恩希亚,博士，难道你要去吗？,"Doctor, are you seriously going?","Доктор, вы правда собираетесь идти?"
 line-432,,不用担心。;不是你的错。;这么有趣的事怎么能错过？,Don't worry.;This isn't your fault.;Hell yeah. This sounds like fun.,Не волнуйся.;Это не твоя вина.;Как я могу пропустить такое интересное событие?
@@ -299,7 +299,7 @@ line-727,切斯特,在阿克托斯老爷的要求下，罗德岛一行的领袖D
 line-729,切斯特,在公司层面，待博士处理完手头的事后，将重新向各位作正式介绍。,We will formally introduce the Doctor to everyone at the company once all the tasks at hand are complete.,"На уровне компании, как только Доктор закончит текущие дела, мы проведем официальное представление."
 line-731,切斯特,下一项议题，同时也是本次会议的中心议题。,"Onto our next topic, the meat of our meeting today.","Следующий пункт, он же главный предмет сегодняшнего совещания."
 line-733,切斯特,是有关如何切割公司权力并移交给圣女的初期讨论。,The preliminary discussions on how to partition the company's power and hand it over to the Saintess.,"Это начальное обсуждение того, как разделить власть компании и передать её Святой."
-line-735,切斯特,首先，是关税方面的调整......,"First off, on the matter of tariffs...","Во-первых,调整 пошлины..."
+line-735,切斯特,首先，是关税方面的调整......,"First off, on the matter of tariffs...","Во-первых, корректировка пошлин..."
 line-747,阿克托斯,我该怎么称呼你，外乡人？,"What do I call you, outsider?","Как мне к тебе обращаться, иноземец?"
 line-750,,{@nickname}。;叫我博士就好。,{@nickname}.;Call me Doctor.,Доктор.;Просто Доктор.
 line-753,阿克托斯,怪名字。,Funny name.,Странное имя.

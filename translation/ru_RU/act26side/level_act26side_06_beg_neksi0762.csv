@@ -8,16 +8,16 @@ char-1,杰拉尔德,杰拉尔德,Gerald,Джеральд
 char-2,费德里科,费德里科,Federico,Федерико
 char-3,老练的拉特兰特勤队成员,老练的拉特兰特勤队成员,Veteran Lateran Commando,Опытный оперативник спецназа Латерано
 char-4,年轻的拉特兰特勤队成员,年轻的拉特兰特勤队成员,Young Lateran Commando,Юный оперативник спецназа Латерано
-char-5,斯普莉雅,斯普莉雅,Serpilia,Серпилия
+char-5,斯普莉雅,斯普莉雅,Serpilia,Спририя
 char-6,福尔图娜,福尔图娜,Fortuna,Фортуна
 char-7,？？？,？？？,???,???
 char-8,奥伦,奥伦,Oren,Орен
 char-9,压低的男声,压低的男声,Low Male Voice,Низкий мужской голос
-char-10,莱蒙德,莱蒙德,Raimund,Раймунд
+char-10,莱蒙德,莱蒙德,Raimund,Раймонд
 char-11,蕾缪安,蕾缪安,Lemuen,Лемуэн
 char-12,谨慎的萨卡兹居民,谨慎的萨卡兹居民,Cautious Sarkaz Inhabitant,Осторожный житель Сарказ
 char-13,克莱芒,克莱芒,Clément,Клемент
-char-14,里凯莱,里凯莱,Richele,Ришель
+char-14,里凯莱,里凯莱,Richele,Рикеле
 ,,,,
 line-13,杰拉尔德,都检查过了，屋内没有打斗的迹象，两个孩子没被吵醒，都还在睡。,There's no sign of fighting inside the house. The children are still sleeping.,Я все проверил. В доме нет признаков борьбы. Оба ребенка все ещё спят.
 line-14,杰拉尔德,赫曼不可能会伤害孩子们，这点你可以放心。,Hyman wouldn't harm the kids. You can be sure of that.,"Хайман не стала бы причинять вред детям, можешь быть спокоен."
@@ -80,7 +80,7 @@ line-130,老练的拉特兰特勤队成员,就像之前抓到的那个萨卡兹�
 line-131,老练的拉特兰特勤队成员,只要是萨卡兹，就一个都别想跑。,Not a single one of them is getting away.,Никто из них не уйдёт.
 line-133,年轻的拉特兰特勤队成员,是！,"Yes, sir!",Так точно!
 line-147,斯普莉雅,我拿了吃的回来。能找到的东西不多，稍微吃一点？,"I got some food. It's not much, but it's better than nothing.","Я принесла поесть. Найти удалось не так много, но попробуй хоть немного съесть?"
-line-149,福尔图娜,对不起，斯普莉雅……我没有胃口……,"Sorry, Serpilia... I'm not hungry...","Прости, Серпилия... у меня нет аппетита..."
+line-149,福尔图娜,对不起，斯普莉雅……我没有胃口……,"Sorry, Serpilia... I'm not hungry...","Прости, Спририя... у меня нет аппетита..."
 line-151,斯普莉雅,没事，我先放这，没准一会你就感觉饿了。,"Well, I'll leave it here. You might start to feel hungry in a bit.","Ничего страшного, я оставлю здесь. Может, через некоторое время проголодаешься."
 line-153,福尔图娜,……,......,...
 line-154,福尔图娜,谢谢你，斯普莉雅……,"Gratias, Serpilia...",Спасибо тебе...
@@ -113,18 +113,18 @@ line-219,？？？,才这么一段时间不见，你的警觉度就已经低到�
 line-221,斯普莉雅,啧。你这家伙说话还是这么让人讨厌。,The way you talk still makes me want to punch you.,Ц. Твой голос по-прежнему так же раздражает.
 line-222,斯普莉雅,真怀疑你当时在维多利亚是怎么干活的，该不会净给拉特兰在外头结仇了吧，奥伦？,"I'm wondering how you operated in Victoria. Did you spend all your time making enemies for Laterano, Oren?","Интересно, как ты вообще работал в Виктории? Неужели ты только и делал, что наживал для Латерано врагов, Орен?"
 line-228,奥伦,这可就冤枉我了，明明我才是最兢兢业业的那一个。,I resent that characterization. No one takes his job more seriously than me.,Клевета. Я был самым добросовестным работником из всех.
-line-230,奥伦,说到工作，你那边应该已经准备好了吧，斯普莉雅？,"Speaking of job, you're ready on your side, aren't you, Serpilia?","Кстати о работе, у тебя всё готово, Серпилия?"
+line-230,奥伦,说到工作，你那边应该已经准备好了吧，斯普莉雅？,"Speaking of job, you're ready on your side, aren't you, Serpilia?","Кстати о работе, у тебя всё готово, Спририя?"
 line-232,斯普莉雅,也许？,Maybe?,Возможно?
 line-234,奥伦,我不太喜欢兜圈子，给我一个肯定的回复。,I need a less ambiguous answer.,"Я не люблю ходить вокруг да около, дай мне утвердительный ответ."
 line-235,奥伦,没什么意外的话，天亮前就动手。,"We move at dawn, if there are no complications.","Если не будет непредвиденных обстоятельств, начнём до рассвета."
-line-246,福尔图娜,（奇怪……斯普莉雅怎么还没回来？）,(Strange... Serpilia hasn't come back yet?),(Странно... почему Серпилия до сих пор не вернулась?)
+line-246,福尔图娜,（奇怪……斯普莉雅怎么还没回来？）,(Strange... Serpilia hasn't come back yet?),(Странно... почему Спририя до сих пор не вернулась?)
 line-247,福尔图娜,（外面没有动静了……）,(Things seemed to have calmed down outside...),(Снаружи всё затихло...)
 line-253,福尔图娜,（什、什么声音？）,(Wh-What's that sound?),(Ч-что это за звук?)
 line-254,福尔图娜,斯普莉雅……？是你吗？,S-Serpilia? Is that you?,С-серпилия...? Это ты?
 line-261,福尔图娜,呀……唔！,Oh! Mmph...,А-а!... Мф!
 line-263,压低的男声,嘘，别出声。,Shh.,Тише.
 line-276,莱蒙德,是我。,It's me.,Это я.
-line-278,福尔图娜,莱蒙德？！,Raimund?!,Раймунд?!
+line-278,福尔图娜,莱蒙德？！,Raimund?!,Раймонд?!
 line-280,莱蒙德,跟我走，福尔图娜。,"Come with me, Fortuna.","Идём со мной, Фортуна."
 line-295,蕾缪安,终于出来了。,Finally outside.,Наконец-то вышла.
 line-297,费德里科,为什么你会在这，蕾缪安。,"Why are you here, Lemuen?","Почему ты здесь, Лемуэн?"
@@ -155,7 +155,7 @@ line-349,蕾缪安,之前有点在意那边的事情，所以稍微了解过一�
 line-350,蕾缪安,教宗阁下最近也在头痛这件事，没想到竟然会在这里碰上……,They've caught His Holiness's attention. I didn't expect to run into them here...,"Его Святейшество Папа тоже озабочен этим вопросом, не думала, что мы столкнемся с этим здесь..."
 line-352,费德里科,不好处理。,It's a difficult problem.,Это непросто.
 line-354,蕾缪安,是的哦，很棘手，也很危险……刚刚拦住我的那一个，如果不是对方主动退开的话，我应该赢不了呢。,Difficult and dangerous... I doubt I would've gotten the upper hand if that visitor was trying to do more than slow me down.,"Да, очень сложно и очень опасно... Тот, кто задержал меня, — если бы он не отступил первым, я бы, наверное, не победила."
-line-355,蕾缪安,让人有点火大……看来还是得更快一点恢复到过去的水平才行。不然的话，别说那个笑眯眯的教士了，就连斯普莉雅也敢小瞧我了呢。,This is irritating... I really need to get back to form. Even Serpilia will start looking down on me at this rate.,"Это ужасно раздражает... Мне действительно нужно вернуться в форму. Даже Серпилия начнет смотреть на меня свысока, если так пойдет дальше."
+line-355,蕾缪安,让人有点火大……看来还是得更快一点恢复到过去的水平才行。不然的话，别说那个笑眯眯的教士了，就连斯普莉雅也敢小瞧我了呢。,This is irritating... I really need to get back to form. Even Serpilia will start looking down on me at this rate.,"Это ужасно раздражает... Мне действительно нужно вернуться в форму. Даже Спририя начнет смотреть на меня свысока, если так пойдет дальше."
 line-357,蕾缪安,说到这个，费德里科，你把这些都告诉那位杰拉尔德先生真的好吗？,"Back to the situation at hand, are you sure you should have told Gerald all that?","Кстати об этом, Федерико, ты уверен, что стоило рассказывать обо всем этом Джеральду?"
 line-359,费德里科,他有知情的权利。,He has a right to know.,Он имеет право знать.
 line-361,蕾缪安,好吧，你决定就好。现在你准备怎么做？,Alright. What's the plan now?,"Хорошо, тебе виднее. Что ты планируешь делать дальше?"
@@ -169,7 +169,7 @@ line-387,谨慎的萨卡兹居民,还好，有不少人本来就睡不着，一�
 line-388,谨慎的萨卡兹居民,人我都通知到了，杰拉尔德，我们随时能出发。,I've let everyone know. We can leave at any time.,"Я всех оповестил, Джеральд, мы готовы выступать в любую минуту."
 line-389,谨慎的萨卡兹居民,不过……你之前不是还说要等到早上再走？怎么忽然改变主意了？,But didn't you say we were leaving in the morning? What changed?,"Хотя... ты ведь раньше говорил, что подождем утра? Почему вдруг изменил решение?"
 line-390,谨慎的萨卡兹居民,是因为那场火……？,Is it because of the fire?,Это из-за того пожара...?
-line-391,谨慎的萨卡兹居民,杰拉尔德，我可以保证，这事绝对不是莱蒙德那小子干的，所以我们没必要这么急匆匆地——,I guarantee you it wasn't Raimund who did it. We don't need to—,"Джеральд, я могу поручиться, это точно не Раймунд натворил, так что нам не обязательно так спешить —"
+line-391,谨慎的萨卡兹居民,杰拉尔德，我可以保证，这事绝对不是莱蒙德那小子干的，所以我们没必要这么急匆匆地——,I guarantee you it wasn't Raimund who did it. We don't need to—,"Джеральд, я могу поручиться, это точно не Раймонд натворил, так что нам не обязательно так спешить —"
 line-393,杰拉尔德,不，我不怀疑他。,"No, I don't suspect him.","Нет, я не подозреваю его."
 line-395,谨慎的萨卡兹居民,那你……,Then...,Тогда ты...
 line-397,杰拉尔德,有突发情况。这个之后再解释，总之，我们等不到早上了。,We have a situation. I'll explain later. But we can't wait until morning.,"Возникли чрезвычайные обстоятельства. Позже объясню, в общем, мы не можем дожидаться утра."
@@ -177,7 +177,7 @@ line-399,杰拉尔德,之前出去的队伍还没有消息？,Still no word from
 line-401,谨慎的萨卡兹居民,没有，很不对劲，我怕他们是遇上了什么麻烦。,No. It's strange. They might have run into trouble.,"Нет, что-то не так, боюсь, они попали в беду."
 line-402,谨慎的萨卡兹居民,怎么办，杰拉尔德，需要我再带几个人一起出去探路吗？,Should I take a few guys and check it out?,"Что будем делать, Джеральд, мне взять ещё людей и отправиться на поиски?"
 line-404,杰拉尔德,……不用，我们一起走，到时候提醒其他人跟紧队伍，任何人都不要落单。,"No, we'll go together. Make sure everyone sticks together. No one wanders off on their own.","...Не нужно, пойдём вместе. Предупреди остальных, чтобы держались плотнее, никто не должен отставать."
-line-405,杰拉尔德,我在前面探路，让那几个老家伙跟着我一起。你带着莱蒙德守住后方，没问题吧。,"I'll scout ahead. Have the old folks come with me. You take the rear guard with Raimund, alright?","Я буду в авангарде, пусть старики следуют за мной. Ты возьми Раймунда и прикрой тыл, справишься?"
+line-405,杰拉尔德,我在前面探路，让那几个老家伙跟着我一起。你带着莱蒙德守住后方，没问题吧。,"I'll scout ahead. Have the old folks come with me. You take the rear guard with Raimund, alright?","Я буду в авангарде, пусть старики следуют за мной. Ты возьми Раймонда и прикрой тыл, справишься?"
 line-407,谨慎的萨卡兹居民,……有问题。你的态度不对劲。,Something's not alright. I can see it on your face.,Что-то не так. Я вижу это по твоему лицу.
 line-408,谨慎的萨卡兹居民,到底出了什么事？杰拉尔德，你在紧张，因为什么？,What's going on? You're anxious. Why?,"Что, черт возьми, происходит? Джеральд, ты нервничаешь, из-за чего?"
 line-409,谨慎的萨卡兹居民,……是因为那些拉特兰人？,Because of the Laterans?,...Из-за этих латеранцев?
@@ -215,25 +215,25 @@ line-485,里凯莱,奥伦，是我。,"Oren, it's me.","Орен, это я."
 line-487,里凯莱,你是不是快要动手了？现在你那里应该有人手吧？,"Are you gonna do it? You've got the guys there, right?",Вы уже собираетесь начинать? У тебя там есть люди под рукой?
 line-488,里凯莱,我建议你最好查一查这个叫斯特凡诺的主教，我觉得他不太对劲，搞不好还有点危险。,I suggest you look into this Bishop Stefano. Something's not right with him. It could be dangerous.,"Советую тебе проверить этого епископа Стефано, мне кажется, он не в себе, возможно, он даже опасен."
 line-489,里凯莱,直觉？,A hunch?,Интуиция?
-line-490,里凯莱,可能算是吧……这座修道院给我的感觉不怎么好，唉，也不能这么说，就是因为还算不错，所以才不太好。,"Maybe... I have a bad feeling about this abbey. Well, I guess that's not the right way to put it... it's bad because things aren't that bad.","Возможно… у меня плохое предчувствие насчет этого аббатства. Хотя, наверное, это не совсем подходящая формулировка… плохое потому, что на самом деле все не так уж плохо."
+line-490,里凯莱,可能算是吧……这座修道院给我的感觉不怎么好，唉，也不能这么说，就是因为还算不错，所以才不太好。,"Maybe... I have a bad feeling about this abbey. Well, I guess that's not the right way to put it... it's bad because things aren't that bad.","Возможно... у меня плохое предчувствие насчет этого аббатства. Хотя, наверное, это не совсем подходящая формулировка... плохое потому, что на самом деле все не так уж плохо."
 line-491,里凯莱,你在这的时间比我久，难道没有这种感觉？,You've been here longer than I have. Don't you feel it?,"Ты ведь дольше меня здесь находишься, неужели у тебя нет такого ощущения?"
 line-493,里凯莱,你说，怎么会有这种所有人都挺努力，但却偏偏没什么希望的地方？,"How could there be a place where everyone works so hard, yet feels no hope at all?","Скажи, как может существовать место, где все стараются, но при этом нет никакой надежды?"
 line-494,里凯莱,这也太让人难受了。,That's such a sad thing.,Это просто невыносимо.
-line-507,克莱芒,事情就是这样……我没想到莱蒙德还不知道这个消息，就把德尔菲娜和福尔图娜的事情告诉他了。,"So, I told Raimund about Delfina and Fortuna, not knowing that he didn't know.","Вот такая ситуация... Я не знал, что Раймунд ещё не в курсе событий, и проговорился ему о Дельфине и Фортуне."
+line-507,克莱芒,事情就是这样……我没想到莱蒙德还不知道这个消息，就把德尔菲娜和福尔图娜的事情告诉他了。,"So, I told Raimund about Delfina and Fortuna, not knowing that he didn't know.","Вот такая ситуация... Я не знал, что Раймонд ещё не в курсе событий, и проговорился ему о Дельфине и Фортуне."
 line-508,克莱芒,他看起来很激动，说实话，我有点担心。,He got very worked up. I'm concerned.,"Он выглядел очень взволнованым, честно говоря, я обеспокоен."
 line-510,杰拉尔德,……,......,...
 line-512,克莱芒,你……还好吗？杰拉尔德？,Gerald...? Are you okay?,Ты... в порядке? Джеральд?
 line-514,杰拉尔德,……我没事。别担心。,I'm fine. Don't worry.,...Я в порядке. Не волнуйся.
 line-515,杰拉尔德,这不是你的问题，是我没来得及找机会告诉他。,It's not your fault. I just didn't have the chance to tell him.,"Это не твоя вина, я сам не нашел возможности сказать ему раньше."
-line-517,杰拉尔德,莱蒙德人呢？,Where's Raimund?,А где Раймунд?
+line-517,杰拉尔德,莱蒙德人呢？,Where's Raimund?,А где Раймонд?
 line-519,克莱芒,他问了我福尔图娜的事，然后就冲出去了。我听到他说要去把福尔图娜带回来。,He ran out after asking me about Fortuna. He said he was going to get her back.,"Он расспросил меня о Фортуне и бросился вон. Я слышал, как он сказал, что собирается вернуть её."
 line-520,克莱芒,福尔图娜那里应该有拉特兰的使者守着，真的不要紧吗……？,They have Laterans guarding Fortuna. Are you sure about this?,"Там ведь латеранцы с Фортуной, ты правда уверен что всё будет в порядке...?"
 line-522,杰拉尔德,……萨科塔不可能允许他这么干。,The Sankta won't allow it.,...Санкта не могут позволить ему сделать такое.
-line-523,杰拉尔德,莱蒙德他出生在这里，这里和外面不同。他对我们和萨科塔之间的关系还是不够了解。,Raimund was born here. Things are different out there. He doesn't understand our relationship with the Sankta.,"Раймунд родился здесь, это место отличается от внешнего мира. Он недостаточно понимает отношения между нами и Санкта."
+line-523,杰拉尔德,莱蒙德他出生在这里，这里和外面不同。他对我们和萨科塔之间的关系还是不够了解。,Raimund was born here. Things are different out there. He doesn't understand our relationship with the Sankta.,"Раймонд родился здесь, это место отличается от внешнего мира. Он недостаточно понимает отношения между нами и Санкта."
 line-525,克莱芒,我记得你说过，萨科塔和萨卡兹的关系……,"I remember, you've said that relations between the Sankta and Sarkaz are...","Я помню, ты говорил, отношения между Санкта и Сарказами..."
 line-527,杰拉尔德,很糟。,Bad.,Ужасные.
 line-528,杰拉尔德,如果我们真的只是平民，或许还不会糟到这个地步……,It might not have been so bad if we were all just civilians...,"Если бы мы действительно были просто гражданскими, всё, возможно, не было бы так плохо..."
-line-530,克莱芒,那莱蒙德现在岂不是很危险？！,Won't Raimund be in danger?!,Тогда Раймунд сейчас в большой опасности?!
+line-530,克莱芒,那莱蒙德现在岂不是很危险？！,Won't Raimund be in danger?!,Тогда Раймонд сейчас в большой опасности?!
 line-532,杰拉尔德,我现在去找他。多谢你告诉我这些。,I'll find him. Thanks for telling me.,"Я сейчас иду за ним. Спасибо, что рассказал."
 line-534,克莱芒,我能做的事情很少……,There isn't much I can do...,Я мало что могу сделать...
 line-535,克莱芒,杰拉尔德，现在我开始觉得你的决定是正确的，你们该早点离开这里。,"I'm beginning to think you were right, Gerald. You should leave this place.","Джеральд, теперь я начинаю думать, что твое решение было верным, вам стоило убраться отсюда пораньше."

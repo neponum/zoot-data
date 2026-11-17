@@ -4,8 +4,8 @@ __language__,,Language,en_US,ru_RU
 char-1,西西里夫人,西西里夫人,Signora Sicilia,Синьора Сицилия
 char-2,阿格尼尔,阿格尼尔,Agenir,Агенир
 char-3,惊慌的学徒,惊慌的学徒,Panicked Apprentice,Паникующий ученик
-char-4,“桥夹”克里夫,“桥夹”克里夫,Clip' Cliff,"""Клип"" Клифф"
-char-5,黑钢高层,黑钢高层,Blacksteel Administrator,Администратор Blacksteel
+char-4,“桥夹”克里夫,“桥夹”克里夫,Clip' Cliff,«Клип» Клифф
+char-5,黑钢高层,黑钢高层,Blacksteel Administrator,Администратор Блэкстил
 char-6,蒂拉,蒂拉,Tila,Тила
 char-7,杰西卡,杰西卡,Jessica,Джессика
 char-8,伍德洛,伍德洛,Woodrow,Вудро
@@ -26,10 +26,10 @@ line-15,,……,...,...
 line-16,,祈祷爸爸妈妈姐姐没病没灾，永远健康快乐！,"I pray that Papà, Mamma, and my sister will always be safe, healthy, and happy!","Молюсь, чтобы папа, мама и моя сестра никогда не болели и всегда были здоровы и счастливы!"
 line-17,,祈祷主常在！,I pray that the Lord will always be with us!,"Молюсь о том, чтобы Господь всегда был с нами!"
 line-18,,祈祷属灵的光永远笼罩拉特兰！,I pray that the spiritual light will always shine on Laterano!,Пусть духовный свет вечно озаряет Латерано!
-line-21,,“蕾缪乐，实验不是结束了吗？”,"I thought the experiment was over, Lemuel.'","""Лемуэль, разве эксперимент не закончился?"""
-line-22,,“你还不知道啊，调查员今天来学校告诉我们结果啦，还特地带了水果挞当礼物呢！”,Didn't you hear? The investigators came to school today to tell us our results. They even brought fruit tarts!',"""Ты ещё не слышала? Сегодня в школу приходил следователь и рассказал нам о результатах, даже специально принёс в подарок фруктовые пирожки!"""
-line-23,,“法柏尔区中心医院的那两组病人都在今天出院了……唔，也就是说，他们的康复情况，和我们这两个月的祈祷没有关系，哈哈。”,"The two patient groups at Faber Central Hospital were discharged today... basically, their recovery had nothing to do with our praying the past two months.'","""Обе группы пациентов в центральной больнице района Фабер выписались сегодня... Хм, это значит, что их выздоровление никак не связано с нашими молитвами в последние два месяца, ха-ха""."
-line-24,,“调查员让我们不要难过，说那本身就只是第六厅的社会实验而已。”,The investigators told us not to be sad. It was all a social experiment by the Sixth Tribunal.',"""Следователь сказал нам не расстраиваться, мол, это был всего лишь социальный эксперимент Шестого трибунала""."
+line-21,,“蕾缪乐，实验不是结束了吗？”,"I thought the experiment was over, Lemuel.'","«Лемуэль, разве эксперимент не закончился?»"
+line-22,,“你还不知道啊，调查员今天来学校告诉我们结果啦，还特地带了水果挞当礼物呢！”,Didn't you hear? The investigators came to school today to tell us our results. They even brought fruit tarts!',"«Ты ещё не слышала? Сегодня в школу приходил следователь и рассказал нам о результатах, даже специально принёс в подарок фруктовые пирожки!»"
+line-23,,“法柏尔区中心医院的那两组病人都在今天出院了……唔，也就是说，他们的康复情况，和我们这两个月的祈祷没有关系，哈哈。”,"The two patient groups at Faber Central Hospital were discharged today... basically, their recovery had nothing to do with our praying the past two months.'","«Обе группы пациентов в центральной больнице района Фабер выписались сегодня... Хм, это значит, что их выздоровление никак не связано с нашими молитвами в последние два месяца, ха-ха»."
+line-24,,“调查员让我们不要难过，说那本身就只是第六厅的社会实验而已。”,The investigators told us not to be sad. It was all a social experiment by the Sixth Tribunal.',"«Следователь сказал нам не расстраиваться, мол, это был всего лишь социальный эксперимент Шестого трибунала»."
 line-33,,……,...,...
 line-34,,若祈祷无用——,If prayer doesn't help—,Если молитвы тщетны —
 line-35,,那我们因何祈祷？,Why do we pray?,Тогда ради чего мы молимся?
@@ -73,7 +73,7 @@ line-150,蒂拉,怎么了？,Why do you ask?,Почему ты спрашива�
 line-152,黑钢高层,那一沓文件之前就已经给他确认过了，法务老姐们只是稍微做了一些格式上的调整，至于看那么久吗？,"These are all documents that he reviewed. The only thing Legal changed was the formatting. He shouldn't need to spend so much time with them, should he?","Все эти документы он уже просмотрел. Единственное, что изменил юридический отдел, — это форматирование. Ему ведь не стоило бы тратить на них столько времени, правда?"
 line-154,蒂拉,我想克里夫先生在看的恐怕是那封信。,I think Mr. Cliff is looking at that letter.,"Думаю, мистер Клифф смотрит скорее на то письмо."
 line-156,黑钢高层,那封从拓荒地寄来的信？我记得是个叫“伍德洛”的家伙写的。,The letter from the frontier? What was the name on it again? Woodrow?,"То письмо с фронтира? Напомни, как звали отправителя? Вудро?"
-line-157,黑钢高层,可是信上拢共不就四个字嘛……“你好，勿念”……没了。,But there were only four words in it. 'Am well. Take care.' That's it.,"Но в письме было всего три слова… «Здравствуйте, не волнуйтесь»… и всё."
+line-157,黑钢高层,可是信上拢共不就四个字嘛……“你好，勿念”……没了。,But there were only four words in it. 'Am well. Take care.' That's it.,"Но в письме было всего четыре слова... «Здравствуйте, не волнуйтесь»... и всё."
 line-158,黑钢高层,达维镇的事情我多少听过一些……,I've heard a couple things about Davistown...,Я кое-что слышал о событиях в Дэвистауне...
 line-160,蒂拉,你到底想说什么？,What are you getting at?,К чему ты клонишь?
 line-162,黑钢高层,蒂拉，再有半天，本舰就要进入麦克斯哥伦比亚特区的航线范围了。咱们为了把生意做进特区已经布局多久了？,This ship will be approaching Max D.C. in twelve hours' time. How long have we been planning our entry into the capital market?,"Тила, через полдня наш корабль войдёт пришвартуется у Округа Макс. Как долго мы планировали наш выход на столичный рынок?"
@@ -83,7 +83,7 @@ line-166,蒂拉,就在本舰出发前，克里夫先生刚去见过一位大人�
 line-168,黑钢高层,副、副总统阁下？,Th-The Vice President?,В-вице-президентом?
 line-169,黑钢高层,你的意思是，我们这次和特区那些公司的合作，头儿已经得到哥伦比亚官方层面的保证了——,Do you mean to say the boss has gotten the official nod to our cooperation with the companies in DC—,"Ты хочешь сказать, что наше сотрудничество со столичным округом уже получило гарантии на официальном уровне Колумбии?"
 line-171,蒂拉,别那么激动。,Don't get too excited.,Не волнуйся так.
-line-172,蒂拉,作为黑钢国际的成员，你完全没必要怀疑“桥夹”克里夫。你想不到的，他都能想到；你拎不清的，他都能拎清。,"No employee of Blacksteel Worldwide should doubt 'Clip' Cliff. Anything you don't think of, he will; anything you can't figure out, he will.","Как работнику «Blacksteel Worldwide», тебе нет нужды сомневаться в ""Клип"" Клиффе. Он видит то, чего не видишь ты, и понимает то, в чём ты путаешься."
+line-172,蒂拉,作为黑钢国际的成员，你完全没必要怀疑“桥夹”克里夫。你想不到的，他都能想到；你拎不清的，他都能拎清。,"No employee of Blacksteel Worldwide should doubt 'Clip' Cliff. Anything you don't think of, he will; anything you can't figure out, he will.","Как работнику «Блэкстил Ворлдвайд», тебе нет нужды сомневаться в «Клип» Клиффе. Он видит то, чего не видишь ты, и понимает то, в чём ты путаешься."
 line-173,蒂拉,是他聚集起了这么多人，是他将铳械变成了一种可在拉特兰之外流通的武器。,"He was the one who put this team together, and he was the one who spread firearms beyond the walls of Laterano.","Это он собрал всех этих людей. Это он превратил огнестрельное оружие в товар, который может обращаться за пределами Латерано."
 line-174,蒂拉,是他将我们的生意铺满了拓荒地的每一处，甚至延伸至哥伦比亚之外的许多地方。,"He was the one who expanded our business across the frontier, and beyond Columbia.",Это он расширил наш бизнес на каждый уголок фронтира и даже далеко за пределы Колумбии.
 line-175,蒂拉,克里夫先生是一位可靠的领袖，一位与众不同的萨科塔。不是吗？,"Mr. Cliff is a great leader, and a remarkable Sankta.",Мистер Клифф — великий лидер и замечательный Санкта.
@@ -191,7 +191,7 @@ line-433,努艾达,奥罗拉打探清楚了周围的情况，今天晚上，她�
 line-434,努艾达,我们可能会往北去到平原，也可能会进入更南边的雨林地带，旅途很长，好在今年的作物都收获了，我们的口粮还足够……,"We might go north into the plains, or south into the jungles. It will be a long trip, but we've been blessed with a good harvest. We will have enough food...","Мы можем отправиться на север к равнинам или на юг в тропические леса. Путь долгий, но, к счастью, урожай в этом году собран, и провизии нам хватит..."
 line-435,玻利瓦尔小孩,修女——,Sister—,Сестра...
 line-436,努艾达,别紧张，雨果。,"Don't worry, Hugo.","Не нервничай, Хьюго."
-line-437,努艾达,相信奥罗拉，相信我，相信自己和身边的人，也相信“拉特兰”……,Trust Aurela. Trust me. Trust yourself and those around you. And trust 'Laterano'...,"Верь Ауреле, верь мне, верь в себя и в тех, кто рядом, и верь в ""Латерано""..."
+line-437,努艾达,相信奥罗拉，相信我，相信自己和身边的人，也相信“拉特兰”……,Trust Aurela. Trust me. Trust yourself and those around you. And trust 'Laterano'...,"Верь Ауреле, верь мне, верь в себя и в тех, кто рядом, и верь в «Латерано»..."
 line-438,努艾达,声音别抖，没忘记后面的诗句吧？,"Keep your voice steady. You remember the last verse, don't you?","Пусть голос не дрожит, ты ведь не забыл следующие строки?"
 line-439,,拉乌尼达东边的东边♪,East of the east of La Unidad♪,К востоку от Ла-Унидада♪
 line-440,,白色的圣城，拉特兰♪,"Laterano, holy city of white♪","Белый священный город, Латерано♪"
@@ -210,7 +210,7 @@ line-467,,那里有圣主，慈爱像父亲♪,"Abode of our Lord, font of paren
 line-468,,所有恶人祂都惩罚，所有不公祂都铲除♪,He punishes evil and drives out injustice♪,"Злодеев Он покарает, несправедливость искоренит♪"
 line-469,,所有人都由祂来爱♪,All shall bask in His love♪,И всех Он будет любить♪
 line-470,,不论生着疮疤，还是长着石头♪,Whether they have scars or stones♪,Будь то со шрамами или с камнями♪
-line-471,,当我们诚心祈祷，祂便给予面包♪,"When we pray sincere, He gives us bread♪","Коль от сердца мы молимся, хлеб Он нам подает,♪"
+line-471,,当我们诚心祈祷，祂便给予面包♪,"When we pray sincere, He gives us bread♪","Коль от сердца мы молимся, хлеб Он нам подаёт,♪"
 line-472,,当我们向祂奔去，祂便赐予救赎♪,"When we seek salvation, He sets us free♪","Коль спасения чаем, Он свободу дарует.♪"
 line-484,奥罗拉,*拉特兰俚语*——！,<i>Merda!</i>,*Латеранское ругательство*!
 line-497,阿格尼尔,……,...,...
@@ -263,7 +263,7 @@ line-636,,云朵在洁净的街面投下影子，微风搅动空气中的甜味�
 line-637,,毫无疑问，她的生活发生了一些变化。但她的脚步轻快，她欣然地迎接这些变化。,Her life has undoubtedly changed. But her steps are light. She gladly welcomes these changes.,"Несомненно, в её жизни произошли перемены. Но её походка была легкой, и она с радостью приветствовала эти изменения."
 line-638,,蕾缪安向来如此。,Lemuen has always been that way.,Лемуэн всегда была такой.
 line-639,,或者说，拉特兰人向来如此。,The Laterans have always been that way.,"Или, скорее, латеранцы всегда были такими."
-line-644,,“平常的一天，愿律法与你我同在。”,Have an uneventful day. May the Law be with you and me.',"""Желаю вам спокойного дня. Да пребудет Закон с вами и со мной""."
+line-644,,“平常的一天，愿律法与你我同在。”,Have an uneventful day. May the Law be with you and me.',«Желаю вам спокойного дня. Да пребудет Закон с вами и со мной».
 line-645,,蕾缪安这么低声念着。,Lemuen utters those words.,Тихо прошептала Лемуэн.
 line-666,,就在前路的尽头，一座建筑拔地而起，它异常巨大，几乎耸入云端，流线型的结构与周围低矮的教堂建筑群格格不入。,At the end of the street is a massive building that nearly touches the clouds. The streamlined structure seems decidedly out of place amongst the low profile of church buildings around it.,"В самом конце дороги ввысь устремилось здание. Оно было необычайно огромным, почти касаясь облаков; его обтекаемая конструкция совершенно не вписывалась в окружающий ансамбль приземистых церквей."
 line-667,,“拔地而起”——这并非一种夸张的形容，那座建筑几乎是凭空出现，却又仿佛从始至终都矗立在圣城——,"It is no exaggeration to say that it virtually appeared out of nowhere, yet it also seems like it has always been there.","Без преувеличения можно сказать, что оно появилось практически из ниоткуда, и в то же время казалось, будто оно стояло в Священном городе изначально."

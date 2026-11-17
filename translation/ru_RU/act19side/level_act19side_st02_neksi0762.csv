@@ -14,7 +14,7 @@ char-7,格雷伊,格雷伊,Greyy,Грей
 char-8,玛丽,玛丽,Mary,Мэри
 char-9,缪尔赛思,缪尔赛思,Muelsyse,Мюльсис
 char-10,Mechanist,Mechanist,Mechanist,Mechanist
-char-11,霍尔海雅,霍尔海雅,Ho'olheyak,Хо'олхейак
+char-11,霍尔海雅,霍尔海雅,Ho'olheyak,Хоолхейак
 char-12,哥伦比亚雇佣兵,哥伦比亚雇佣兵,Columbian Mercenary,Колумбийский наемник
 char-13,拓荒队成员,拓荒队成员,Pioneer Team Member,Член экспедиционного отряда
 char-14,沉默的动力甲,沉默的动力甲,Quiet Power Armor,Молчаливая силовая броня
@@ -120,7 +120,7 @@ line-209,桑尼,是，警长。,"You got it, Officer.","Есть, офицер."
 line-212,,拓荒队的兄弟姐妹们正在不远处呼喊他的名字。,"Not far away, his brothers and sisters on the Pioneer Team call out to him.",Братья и сёстры из отряда первопроходцев звали его по имени неподалеку.
 line-213,,桑尼知道，这一次，自己真正做好了启程的准备。,"Sonny knows that, this time, he's truly prepared to go on his journey.","Сонни знал, что в этот раз он по-настоящему готов к началу пути."
 line-220,缪尔赛思,……基地的清理工作开始了。,They started cleaning up the mess at the test site.,...Начались работы по очистке участка.
-line-223,,明明是你们的能量科主任捅出来的篓子……;负责清理的依然是莱茵生命。,It was your Energy Director who made the mess anyway...;Rhine Lab's still in charge of cleanup.,Всю эту кашу заварил ваш директор отдела энергетики...; А очисткой всё равно отвечает «Rhine Lab».
+line-223,,明明是你们的能量科主任捅出来的篓子……;负责清理的依然是莱茵生命。,It was your Energy Director who made the mess anyway...;Rhine Lab's still in charge of cleanup.,Всю эту кашу заварил ваш директор отдела энергетики...; А очисткой всё равно отвечает «Рейн Лаб».
 line-226,缪尔赛思,嗯……这是莱茵身为大企业应当承担的社会责任吧？,"Yeah... I guess this is a kinda corporate social responsibility for us, huh?","М-м... Это социальная ответственность, которую Рейн должна нести как крупная компания, верно?"
 line-229,,我更愿意相信这是交易。;……;仅就这句话本身而言，我同意。,"I'm more willing to believe this is a deal.;......;On the essence of what you just said, I agree.","Я скорее верю, что это сделка.;...; Что ж... в этом конкретном случае я согласен."
 line-232,缪尔赛思,好吧，会相信这说法的人都不在这里。,"Alright, not like there's anyone who believes that explanation here.","Ну, тех, кто в это поверит, здесь всё равно нет."
@@ -142,7 +142,7 @@ line-277,霍尔海雅,……您放心，事情都处理好了，不会有民众�
 line-279,霍尔海雅,是的，我已经离开特里蒙，正在前往特区的路上。,"Yes, I'm well out of Trimounts already, on my way to Max D.C. now.","Да, я покинула Тримаунтс и направляюсь в Столичный округ."
 line-281,霍尔海雅,斐尔迪南……,Ferdinand...?,Фердинанд...?
 line-283,霍尔海雅,他不会再构成任何威胁了，我向您保证。,He's no threat anymore. You can be sure of that.,"Он больше не представляет угрозы, я вас уверяю."
-line-288,哥伦比亚雇佣兵,女士……您、您明明就在莱茵生命外面，您为什么要欺骗副总统？,Ma'am... Y-You're standing right outside Rhine Lab. Why did you lie to the vice president?,"Мэм... В-вы же находитесь прямо перед штаб-квартирой «Rhine Lab», почему вы обманули вице-президента?"
+line-288,哥伦比亚雇佣兵,女士……您、您明明就在莱茵生命外面，您为什么要欺骗副总统？,Ma'am... Y-You're standing right outside Rhine Lab. Why did you lie to the vice president?,"Мэм... В-вы же находитесь прямо перед штаб-квартирой «Рейн Лаб», почему вы обманули вице-президента?"
 line-290,霍尔海雅,因为……,Because...,Потому что...
 line-292,霍尔海雅,我从来不会忘记自己最初的目标。,I still remember my original goal.,Я никогда не забываю о своих первоначальных целях.
 line-301,,他记不清楚自己走了多远。,He doesn't know how far he's walked.,"Он не помнил, как далеко ушел."
@@ -151,7 +151,7 @@ line-303,,可是……特里蒙仿佛就在身后。,However... It feels as thou
 line-304,,又可能是在身前。,It could be right in front of him too.,"Или, может быть, впереди."
 line-305,,移动城市的阴影无比巨大，甚至随着时间的流逝而不断生长着。,"The shadow of a nomadic city is enormous, and it grows endlessly with the passage of time.",Тень передвижного города была невероятно огромной и с течением времени только росла.
 line-306,,他要尽快……尽快……,He must hurry... hurry...,Ему нужно скорее... скорее...
-line-307,,尽快去哪里？最近的接应地点……那里的人会不会和埃琳娜还有霍尔海雅一样，背叛他？,"Where is he going in such a hurry? Will someone betray him at the next waypoint, just as Elena and Ho'olheyak did?","Куда скорее? Ближайшая точка эвакуации... станут ли люди там так же, как Елена и Хо'олхейак, предавать его?"
+line-307,,尽快去哪里？最近的接应地点……那里的人会不会和埃琳娜还有霍尔海雅一样，背叛他？,"Where is he going in such a hurry? Will someone betray him at the next waypoint, just as Elena and Ho'olheyak did?","Куда скорее? Ближайшая точка эвакуации... станут ли люди там так же, как Елена и Хоолхейак, предавать его?"
 line-311,拓荒队成员,……站住。,Hold it there.,...Стоять.
 line-313,沉默的动力甲,……,......,...
 line-315,拓荒队成员,我们知道你是谁。,We know who you are.,"Мы знаем, кто ты."
@@ -200,7 +200,7 @@ line-387,克丽斯腾,研究者只会探索一切可能性。,A researcher is he
 line-389,克丽斯腾,我从不做预言。,I don't make predictions.,Я не занимаюсь предсказаниями.
 line-391,？？？,假如记忆能够跨越时间的限制，预言不过就是重新发现被掩埋的历史。,Suppose that memories can leap past the limitations of time. Predictions are nothing more than rediscovering history that's been buried.,"Если память способна преодолеть ограничения времени, предсказание — это не что иное, как повторное открытие погребенной истории."
 line-396,霍尔海雅,我们重新认识一下彼此吧，克丽斯腾·莱特。,"Why don't we reacquaint ourselves, Kristen Wright?","Давайте познакомимся заново, Кристен Райт."
-line-398,霍尔海雅,我是霍尔海雅，历史学者，哥伦比亚占星研究协会名誉会长。,"I'm Ho'olheyak, historian and Honorary President of the Columbian Astrological Research Association.","Я Хо'олхейак, историк, почетный президент Колумбийской ассоциации астрологических исследований."
+line-398,霍尔海雅,我是霍尔海雅，历史学者，哥伦比亚占星研究协会名誉会长。,"I'm Ho'olheyak, historian and Honorary President of the Columbian Astrological Research Association.","Я Хоолхейак, историк, почетный президент Колумбийской ассоциации астрологических исследований."
 line-400,霍尔海雅,就让我冒昧地做一次预言——,And forgive me for making a prediction right here and now—,Позвольте мне рискнуть сделать одно предсказание —
 line-402,霍尔海雅,也许……很快我就会成为你最需要的合作伙伴。,"Perhaps... I will be the partner you will most need, and very soon.",Возможно... вскоре я стану вашим самым необходимым партнером.
 line-409,莱茵研究员,星极小姐，埃琳娜研究员还没有回来。,"Miss Astesia, Researcher Elena isn't back yet.","Мисс Астезия, исследователь Елена ещё не вернулась."

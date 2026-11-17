@@ -9,7 +9,7 @@ char-2,风笛,风笛,Bagpipe,Бэгпайп
 char-3,高多汀公爵,高多汀公爵,Duke of Gododdin,Герцог Гододин
 char-4,推进之王,推进之王,Siege,Сидж
 char-5,戴菲恩,戴菲恩,Delphine,Дельфина
-char-6,Misery,Misery,Misery,Мизери
+char-6,Misery,Misery,Misery,Misery
 char-7,“灵幛”,“灵幛”,Sudaram,Сударам
 char-8,号角&风笛,号角&风笛,Horn & Bagpipe,Хори & Пайп
 char-9,可露希尔,可露希尔,Closure,Кложер
@@ -53,8 +53,8 @@ line-66,推进之王,公爵阁下，您亲自找上我们，大概不是为了�
 line-68,高多汀公爵,如果......我说是呢？,What if I say I have?,"А что, если... я скажу, что именно ради этого?"
 line-70,推进之王,请您说得更直白些。我们中的大部分都不是贵族，也没受过什么高等教育，不习惯话里藏话。,Most of us are neither nobles nor intelligentsia. It would be best if you didn't beat around the bush.,"Выражайтесь яснее. Большинство из нас не дворяне и не получали высшего образования, мы не привыкли говорить загадками."
 line-72,高多汀公爵,亚历山德莉娜殿下，您果然和传闻中一样......飒爽直接。,Your Royal Highness Alexandrina is as direct as they say.,"Александрина, вы и впрямь такая, как о вас говорят... резкая и прямая."
-line-74,高多汀公爵,要不然，我还是和您的同伴一样，称呼您为推进之王吧？您可能也会更舒适一些。,"Or would you prefer that I called you 'Siege', like your friends do?","Или мне, как и вашим спутникам, называть вас Король-автомобиль? Возможно, так вам будет комфортнее."
-line-75,高多汀公爵,推进之王小姐，其实我很理解，“典范军”这一路上避让公爵部队的原因。,I fully understand why the Exemplars avoided the ducal armies along the way.,"Мисс Король-автомобиль, на самом деле я прекрасно понимаю, почему «Армия образцов» всю дорогу избегала отрядов герцогов."
+line-74,高多汀公爵,要不然，我还是和您的同伴一样，称呼您为推进之王吧？您可能也会更舒适一些。,"Or would you prefer that I called you 'Siege', like your friends do?","Или мне, как и вашим спутникам, называть вас Сидж? Возможно, так вам будет комфортнее."
+line-75,高多汀公爵,推进之王小姐，其实我很理解，“典范军”这一路上避让公爵部队的原因。,I fully understand why the Exemplars avoided the ducal armies along the way.,"Мисс Сидж, на самом деле я прекрасно понимаю, почему «Армия образцов» всю дорогу избегала отрядов герцогов."
 line-76,高多汀公爵,您不愿意让这支队伍被公爵之间的利益纷争裹挟。,You didn't want them to get involved in the machinations of the dukes.,"Вы не хотите, чтобы этот отряд был втянут в борьбу интересов между герцогами."
 line-77,高多汀公爵,您希望......它能够和当年那支传奇队伍一样，仅为维多利亚和维多利亚人民而战。,"You want to fight only for Victoria and her people, like the legendary unit that you're named after.","Вы надеетесь... что он, подобно тому легендарному отряду прошлых лет, будет сражаться только за Викторию и её народ."
 line-78,高多汀公爵,所以，我来到这里，也并不是以高多汀公爵的名义。,"And so, I'm not here as the Duke of Gododdin.",Поэтому я пришел сюда не от имени герцога Гододина.
@@ -62,7 +62,7 @@ line-80,高多汀公爵,我，维多利亚议会成员肖恩·高多汀，向你
 line-81,高多汀公爵,放下那个过时的识别码小盒吧，我希望你们以议会的名义，介入这场战争。,Leave that outdated identification code behind. I'm asking that you intervene in this war in the name of Parliament.,"Отбросьте этот устаревший идентификационный код. Я хочу, чтобы вы вмешались в эту войну от имени Парламента."
 line-95,Misery,......矿工们的营地，已经完全烧毁。,The miners' camp has burned to the ground.,...Лагерь шахтеров полностью выжжен.
 line-96,Misery,没有发现萨卡兹士兵的踪迹。,No sign of Sarkaz soldiers.,Следов солдат Сарказов не обнаружено.
-line-99,,Misery感到微微有些冷。这些燃烧殆尽的营地几乎没有一点热量。,Misery feels a slight chill. The campsite’s charred debris has cooled.,Мизери почувствовал лёгкий холод. В этих догорающих руинах почти не осталось тепла.
+line-99,,Misery感到微微有些冷。这些燃烧殆尽的营地几乎没有一点热量。,Misery feels a slight chill. The campsite’s charred debris has cooled.,Misery почувствовал лёгкий холод. В этих догорающих руинах почти не осталось тепла.
 line-100,,他拨开坍塌的木构，发现了几具早已面目全非的尸体。,"He moves some collapsed wooden beams aside, and finds a few unrecognizable bodies.",Он отбросил обломки деревянных конструкций и обнаружил несколько изуродованных до неузнаваемости тел.
 line-102,Misery,矿工。感染者的遗体。,Miners. Remains of the Infected.,Шахтеры. Останки инфицированных.
 line-103,Misery,......在哪里都一样。,"It's all the same, everywhere.",...Везде одно и то же.
@@ -71,8 +71,8 @@ line-117,Misery,“灵幛”，居然藏在地里。,"Nice hiding spot, Sudaram.
 line-122,Misery,吉布森镇西北郊发现食腐者——,Nachzehrer spotted to the northwest of Gibsonham—,Обнаружены Пожиратели в северо-западном пригороде города Гибсон —
 line-126,Misery,......这就超过了通讯距离吗。,Out of comms range already?,...Связь уже оборвалась?
 line-131,“灵幛”,死亡，抓住你了。,Death has you.,Смерть схватила тебя.
-line-139,,数把镌刻着铭文的剑从Misery脚下的土地中猛然刺出，可Misery却已不在他刚才的位置。,"Several rune swords pierce out of the ground beneath Misery's feet, but he is no longer there.","Несколько мечей, испещренных руническими надписями, стремительно вырвались из земли под ногами Мизери, но тот уже успел отступить."
-line-147,,匕首割破空间，Misery已经退到了他们的攻击范围之外。倾颓的废墟转瞬间化为牢笼，锁住了食腐者们干枯的身体。,"Misery rips through the fabric of space with his dagger and retreats out of range. The collapsed ruins turn into a cage, trapping the Nachzehrer's withered bodies.","Кинжал разрезал пространство, Мизери уже оказался вне зоны их атаки. Рушащиеся обломки в одно мгновение превратились в темницу, заперев высохшие тела Пожирателей."
+line-139,,数把镌刻着铭文的剑从Misery脚下的土地中猛然刺出，可Misery却已不在他刚才的位置。,"Several rune swords pierce out of the ground beneath Misery's feet, but he is no longer there.","Несколько мечей, испещренных руническими надписями, стремительно вырвались из земли под ногами Misery, но тот уже успел отступить."
+line-147,,匕首割破空间，Misery已经退到了他们的攻击范围之外。倾颓的废墟转瞬间化为牢笼，锁住了食腐者们干枯的身体。,"Misery rips through the fabric of space with his dagger and retreats out of range. The collapsed ruins turn into a cage, trapping the Nachzehrer's withered bodies.","Кинжал разрезал пространство, Misery уже оказался вне зоны их атаки. Рушащиеся обломки в одно мгновение превратились в темницу, заперев высохшие тела Пожирателей."
 line-149,Misery,别吵......,Shush now...,Тише...
 line-150,Misery,我也抓住你们了。,I have you too.,Я тоже схватил вас.
 line-162,推进之王,......公爵阁下。,...Duke Gododdin.,...Ваша Светлость.
@@ -120,7 +120,7 @@ line-248,推进之王,既然所有的这些话，您都可以在打完这场仗�
 line-249,推进之王,那么，假如我现在说“不”，我和我的同伴，可以带着诸王之息转身离开吗？,"Then if I refuse now, can my friends and I leave with the Sighs of Kings?","То если я сейчас скажу «нет», смогу ли я вместе с соратниками и «Дыханием королей» просто уйти?"
 line-251,高多汀公爵,......,...,...
 line-253,高多汀公爵,哈哈。,Hah.,Ха-ха.
-line-266,号角,推进之王，小心。,Siege!,"Король-автомобиль, осторожно."
+line-266,号角,推进之王，小心。,Siege!,"Сидж, осторожно."
 line-268,风笛,队长，外面有弩手！,Crossbowmen outside!,"Командир, снаружи арбалетчики!"
 line-272,戴菲恩,我们被包围了。或者说，早在他出现的时候，就已经......,We're surrounded. Maybe we already were the moment he showed up...,"Мы в окружении. Точнее, это было ясно с того самого момента, как он появился..."
 line-278,推进之王,......挺好，除了开斯特的“承诺”之外，我们还见识到了高多汀的“友谊”。,"Well, well. First we learn what a 'commitment' is to Caster, now we learn what 'friendship' is to Gododdin.","...Приятно, помимо «обещаний» Кастера, мы теперь познакомились с «дружбой» Гододина."
@@ -130,13 +130,13 @@ line-285,高多汀公爵,至少......我也给了这位同乡小朋友用破城�
 line-299,可露希尔,第六号无人机又失去了信号——唉唉，这环境真的太差了！,Lost the signal from Drone 6 again... blasted place!,"Беспилотник №6 снова потерял связь — эх-эх, здесь просто ужасные условия!"
 line-300,可露希尔,白轮，小易，维克多，没办法了，还是得靠大家手动控制探测点。,"Alright, Balin, Yvres, Viktor. We have to do this manually.","Уайтвил, Сяо И, Виктор, делать нечего, придется управлять датчиками вручную."
 line-302,可露希尔,你们各自情况怎么样？,"Status reports, everyone?",Как у вас обстоят дела?
-line-307,术师干员,没问题。信标已经打进去了，传感器开始运作。风沙的干扰还是有点强，我正在过滤噪声。,All good here. The beacon's in there and the sensor's running. We're still getting strong interference from the wind and sand. I'm trying to filter out the noise.,"Без проблем. Маяк установлен, сенсоры начали работу. Помехи от пыли всё ещё сильные, фильтрую шум. Виктор, шевелись быстрее!"
+line-307,术师干员,没问题。信标已经打进去了，传感器开始运作。风沙的干扰还是有点强，我正在过滤噪声。,All good here. The beacon's in there and the sensor's running. We're still getting strong interference from the wind and sand. I'm trying to filter out the noise.,"Без проблем. Маяк установлен, сенсоры начали работу. Помехи от пыли всё ещё сильные, фильтрую шум."
 line-308,术师干员,维克多，你也快一点！,"Waiting on you now, Viktor!","Виктор, не отставай!"
 line-312,狙击干员,五分钟。地面比预期的软。,Five minutes. The ground's softer than expected.,"Пять минут. Земля мягче, чем ожидалось."
 line-314,术师干员,小心流沙！,"Careful, quicksand!",Осторожнее с зыбучими песками!
 line-315,术师干员,这一带地质和之前采样结果差距很大。这部分数据我也传回去了，队长，你收到了没？,"The soil's very different from the samples we collected. I've sent the data back. You got that, captain?","Геология в этой области сильно отличается от предыдущих образцов. Передала эти данные, капитан, получила?"
 line-319,可露希尔,多亏了你啊，小易，我就知道把你挖过来是对的。咳咳......不枉我被地灵瞪了好几天。,"I knew it was a good idea to get you onboard, Yvres. Worth a few days of angry stares from Earthspirit.","Спасибо тебе, Сяо И, я знала, что забрать тебя — правильное решение. Кхе-кхе... не зря я несколько дней терпела гнев Earthspirit."
-line-324,近卫干员,可露希尔小姐，你也得找一个好一些的作业环境，别吃进去太多沙子......,"I think you can do with a better working environment, Closure. Try not to get too much sand in your mouth...","Мисс Клозиер, вам бы тоже найти место поспокойнее, а то наглотаетесь песка..."
+line-324,近卫干员,可露希尔小姐，你也得找一个好一些的作业环境，别吃进去太多沙子......,"I think you can do with a better working environment, Closure. Try not to get too much sand in your mouth...","Мисс Кложер, вам бы тоже найти место поспокойнее, а то наглотаетесь песка..."
 line-330,可露希尔,白轮，不要学阿米娅的语气好不好！,"Stop talking like Amiya, Balin!","Уайтвил, не вздумай подражать тону Амии!"
 line-332,可露希尔,我的血可是有自我净化功能的......,My blood is self-cleansing...,У моей крови есть функция самоочистки...
 line-335,可露希尔,咳咳咳......,*cough* *cough*...,Кхе-кхе-кхе...
@@ -145,13 +145,13 @@ line-339,可露希尔,你也别光笑话我，快干活啊！越快搞定这个�
 line-341,费斯特,我在努力了啊！罗德岛的设备这么特殊，我的学习速度够惊人了。,"I'm trying! Rhodes Island equipment isn't like anything else I've seen. I'm already doing an 'exemplary' job, get it?","Я стараюсь! Оборудование Родос такое особенное, я и так учусь с невероятной скоростью."
 line-343,可露希尔,我是认真的，你和洛洛根本就不该跟我留在这个位置。,"Seriously, though. You and Rockrock shouldn't be here with me in the first place.","Я серьезно, вам с Лорой вообще не стоило оставаться со мной на этой позиции."
 line-345,洛洛,无人机借给你了，我当然要和无人机在一起。,You have my drones. Of course I'm staying here with them.,"Ты одолжила мне дрон, конечно, я буду рядом с ним."
-line-347,费斯特,你看，洛洛都这么说了。,"Well, that <i>is</i> a solid reason.","Видишь, Лора так сказала."
+line-347,费斯特,你看，洛洛都这么说了。,"Well, that <i>is</i> a solid reason.","Видишь, Рокрок так сказала."
 line-349,可露希尔,我懂，你们是在操心我的安全......呃，一下打不死那些子裔也没什么丢人的吧？血魔和血魔之间的差距，本来就有那——么大！,"I know you’re concerned about my safety, but I’m actually really strong! What’s that… those Vampire worms would disagree? Well, not <i>all</i> Vampires are built the same, you know?","Я понимаю, вы беспокоитесь о моей безопасности... э-э, нет ничего позорного в том, что не справилась с теми отродьями сразу? Кровопийцы бывают очень разными, разница между ними вот такая — огромная!"
 line-350,可露希尔,倒是你俩，最好找头盔戴一下。变成感染者可不是什么开玩笑的事。,It's you two I'm worried about. Put your helmets on. Oripathy infection is no joke.,Лучше наденьте шлемы. Стать инфицированным — это не шутки.
 line-352,费斯特,好啦，多谢关心。倒是你们......在战场上跑来跑去也很危险。,"Alright, alright. But you lot are the ones who need to be careful, running around the battlefield like this.","Ладно, спасибо за заботу. А вы... бегать по полю боя тоже опасно."
 line-354,可露希尔,我们？,'You lot'?,Мы?
 line-356,费斯特,罗德岛的大家啊。不顾自身安危，在这片战场上四处奔波。,"Rhodes Island. You lot are all over the battlefield, not caring for your own safety at all.","Все в Родос. Не жалея себя, носитесь по этому полю боя."
-line-358,费斯特,而且，白轮先生是维多利亚出身的感染者，小易小姐是感染者但不是维多利亚人，维克多先生既不是感染者，也不是维多利亚人。,"Balin is an Infected from Victoria. Yvres is Infected, but not Victorian. Viktor isn't Infected <i>or</i> Victorian. How amazing...","К тому же, мистер Уайтвил — инфицированный из Виктории, мисс Сяо И — инфицировання, но не из Виктории, мистер Виктор — не инфицированный и не викторианец."
+line-358,费斯特,而且，白轮先生是维多利亚出身的感染者，小易小姐是感染者但不是维多利亚人，维克多先生既不是感染者，也不是维多利亚人。,"Balin is an Infected from Victoria. Yvres is Infected, but not Victorian. Viktor isn't Infected <i>or</i> Victorian. How amazing...","К тому же, мистер Уайтвил — инфицированный из Виктории, мисс Сяо И — инфицированная, но не из Виктории, мистер Виктор — не инфицированный и не викторианец."
 line-360,可露希尔,罗德岛干员本来就哪里来的都有啊。,Why? Everyone knows Rhodes Island operators come from everywhere.,В Родос и так все отовсюду.
 line-362,费斯特,这些天，我还是难以避免会想起奶奶，克洛维希娅，还有......汤米他们。,"I can't help but think of my Granny, Clovisia... plus Tommy and the gang.","В эти дни я не могу не вспоминать бабушку, Кловизию и... Томми."
 line-363,费斯特,我曾经希望，自救军也能和我所见到的罗德岛干员一样团结。,I once hoped that the Self-Salvation Corps could be as united as the Rhodes Island operators I'd seen.,"Я когда-то надеялся, что «Армия самоспасения» будет такой же сплоченной, как оперативники Родос, которых я видел."
@@ -161,11 +161,11 @@ line-368,费斯特,有一天，自救军也能成为一个联结紧密、行动�
 line-369,费斯特,就像如今向着同一个目标挺进的“典范军”。我们能在灾厄环境中一往无前，也准备好了直面失利乃至背叛。,"Just like the Exemplars, now all fighting for the same thing. We're ready to brave the worst, ready to deal with defeat, even betrayal.","Как «Армия образцов», идущая сейчас к одной цели. Мы можем двигаться вперед в условиях катастрофы, готовы встретить поражение и даже предательство."
 line-370,费斯特,但团结我们的未必是相同的种族、出身或境遇......就像罗德岛。,"But it's not necessarily race, upbringing or circumstance that will unite us... just like Rhodes Island.","Но объединяет нас вовсе не раса, происхождение или обстоятельства... как в Родос."
 line-372,可露希尔,好了好了，别夸，知道你想留下我们的设备了。要不然合同签一下？,"Alright, alright, enough with the compliments, I know you want to keep our equipment. Should I get you a contract now?","Ладно-ладно, хватит хвалить, поняла, что хочешь оставить наше оборудование. Может, контракт подпишем?"
-line-374,费斯特,可露希尔小姐，我并不羡慕罗德岛。,"I'm not jealous of Rhodes Island, Miss Closure.","Мисс Клозиер, я не завидую Родос."
+line-374,费斯特,可露希尔小姐，我并不羡慕罗德岛。,"I'm not jealous of Rhodes Island, Miss Closure.","Мисс Кложер, я не завидую Родос."
 line-375,费斯特,倒不如说，你们给我的感觉，和你手中这个神奇的通讯设备差不多。,You lot give me the same kind of feeling as this strange communication equipment you're holding.,"Скорее, вы вызываете у меня такие же чувства, как этот удивительный прибор связи у вас в руках."
 line-377,费斯特,一种可能性——让我知道，自己并不是过于幼稚，对未来抱有痴心妄想。,A possibility. Something that proves I'm not just a naive dreamer.,"Надежда — знак того, что я не такой уж наивный, мечтая о будущем."
 line-379,可露希尔,......等等。,Wait.,...Подожди.
-line-381,洛洛,费斯特，是不是你话太多了，影响可露希尔小姐工作......,"Maybe your monologue is starting to bother Closure, Feist...","Фест, ты не слишком много болтаешь, это мешает мисс Клозиер работать..."
+line-381,洛洛,费斯特，是不是你话太多了，影响可露希尔小姐工作......,"Maybe your monologue is starting to bother Closure, Feist...","Фест, ты не слишком много болтаешь, это мешает мисс Кложер работать..."
 line-388,洛洛,什么声音？,What's that sound?,Что за звук?
 line-389,洛洛,我看看洛克十八传回来的画面——,Let me check the feed from Rock-18...,"Посмотрю, что передает Лок-18 —"
 line-395,,监视器中，在充满了噪点的图像里，烟尘正滚滚而来。,"In the monitor's pixelated image, a sand storm approaches quickly.","На мониторе, сквозь помехи, были видны клубы пыли."

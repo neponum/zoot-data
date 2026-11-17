@@ -14,7 +14,7 @@ char-7,伊内丝&W,伊内丝&W,Ines & W,Инес и W
 char-8,W,W,W,W
 char-9,伊内丝,伊内丝,Ines,Инес
 char-10,？？？,？？？,???,???
-char-11,特雷西斯,特雷西斯,Theresis,Тересис
+char-11,特雷西斯,特雷西斯,Theresis,Терезис
 ,,,,
 line-12,博士,启用管理员权限加密。,Enable administrator-level encryption.,Включение шифрования с правами администратора.
 line-13,博士,影像编号<color=#FF4200>（0018_admin）</color>......,Image number <color=#FF4200>(0018_admin)</color>.,Идентификатор видео <color=#FF4200>(0018_admin)</color>...
@@ -50,7 +50,7 @@ line-49,博士,......我该怎么做？,What should I do?,...Что мне де�
 line-50,博士,普瑞赛斯......我该怎么做？,Priestess... What should I do?,Жрица... что мне делать?
 line-61,,也许我应该把一切向凯尔希与特蕾西娅和盘托出。,Perhaps I should reveal everything to Kal'tsit and Theresa.,"Возможно, мне стоит рассказать всё Кальцит и Терезе."
 line-62,,源石已经引领他们走向大致正确的道路。尽管傲慢，但这确实足以让这些生灵创造别样的奇迹。,"Originium has led them down roughly the correct path. Arrogant though it may be, this has been sufficient for these souls to perform a new kind of miracle.","Ориджиниум уже направил их на верный путь. Хотя это звучит самонадеянно, этого действительно достаточно, чтобы эти существа сотворили иное чудо."
-line-67,,<color=#000000>也许我必须重新审视特蕾西娅和凯尔希的计划。</color>,<color=#000000>Perhaps I must re-examine Theresa and Kal'tsit's plan.</color>,"<color=#000000>Возможно, мне нужно пересмотреть план Терезиы и Кальцит. </color>"
+line-67,,<color=#000000>也许我必须重新审视特蕾西娅和凯尔希的计划。</color>,<color=#000000>Perhaps I must re-examine Theresa and Kal'tsit's plan.</color>,"<color=#000000>Возможно, мне нужно пересмотреть план Терезы и Кальцит. </color>"
 line-68,,<color=#000000>巴别塔的研究超乎预计，但泰拉的政治形态非常原始，巴别塔尚无跨过种族和国家的隔阂代表整体的能力。</color>,"<color=#000000>Babel's research has proceeded faster than expected, but Terra's political structure is rather primitive, and Babel does not yet have the ability to transcend the barriers of race and nation so that it may represent Terra as a whole.</color>","<color=#000000>Исследования «Вавилона» превосходят ожидания, но политическая форма Терры очень примитивна, и «Вавилон» пока не обладает способностью преодолеть барьеры между расами и странами, чтобы представлять их всех. </color>"
 line-77,,相信泰拉。相信人们总能够赢得自己的未来。,Believe in Terra. Believe in the people to build their own future.,"Верь в Терру. Верь, что люди всегда смогут завоевать своё будущее."
 line-84,,<color=#000000>推进计划。至少让他们存在过的痕迹得以在源石中保留。</color>,<color=#000000>Carry on with the project. At least the vestiges of those who came before can live on within Originium.</color>,"<color=#000000>Продвигай план. По крайней мере, сделай так, чтобы следы их существования сохранились в Ориджиниуме. </color>"
@@ -133,7 +133,7 @@ line-290,？？？,我不会和无名之辈交流......恶灵。,I will not spea
 line-291,？？？,你是谁？,Who are you?,Кто ты?
 line-292,博士,......{@nickname}。Dr.{@nickname}。,...{@nickname}. <i>Doctor</i> {@nickname}.,...{@nickname}. Доктор {@nickname}.
 line-299,特雷西斯,......{@nickname}。,...{@nickname}.,...{@nickname}.
-line-300,,特雷西斯放下了武器，雨水滑过眼角的沟壑坠向大地。,"Theresis lowers his weapon, the rain falling from the corners of his eyes onto the earth.","Тересис опустил оружие, дождевая вода стекала по бороздам в уголках его глаз на землю."
+line-300,,特雷西斯放下了武器，雨水滑过眼角的沟壑坠向大地。,"Theresis lowers his weapon, the rain falling from the corners of his eyes onto the earth.","Терезис опустил оружие, дождевая вода стекала по бороздам в уголках его глаз на землю."
 line-301,,他并未看向那个邀请自己秘密赴约的人，而是高抬目光，停留在名为“英雄”的巨大雕像上。,"He does not look at the one who invited him to this clandestine meeting, instead gazing upwards at the colossal statues of so-called <i>heroes.</i>","Он не смотрел на того, кто пригласил его на тайную встречу, его взгляд был устремлён вверх, на гигантскую статую, именуемую «Герои»."
 line-302,,那是纪念建立卡兹戴尔移动城市的双子的雕像。,Statues raised to commemorate the founding of the nomadic city of Kazdel by a pair of twins.,"Это была статуя близнецов, основавших подвижный город Каздель."
 line-303,,他的石像百余年之后依然执剑立于她的身侧，无论天灾或风雨都未曾使其倒塌。,"Even after a hundred years, his stone self still stands, sword drawn, by her side, despite the best efforts of Catastrophe and storm.","Спустя более сотни лет его статуя всё ещё стоит с мечом рядом с ней, и ни Катастрофы, ни ливни не заставили её пасть."
@@ -146,7 +146,7 @@ line-309,博士,军事委员会就是她的敌人。,Does the Military Commissio
 line-310,特雷西斯,不，卡兹戴尔的任何一个部分都不曾真正与她为敌，我才是她的敌人。,"No. There is no part of Kazdel that has truly risen up against her. Her foe is me, and me alone.","Нет, ни одна часть Каздели никогда не была её врагом по-настоящему. Это я — её враг."
 line-311,特雷西斯,那么，你呢？,And what of you?,А ты?
 line-312,博士,......,......,...
-line-313,,特雷西斯看着脸庞隐藏在兜帽中的人，那人衣服上沾染了污迹，衣角聚拢的水滴有节奏地向下滴落着。,"Theresis looks at the figure before him: Rainwater gathering at the hem of a long, hooded coat, rhythmically dripping onto the ground.","Тересис смотрел на человека, чьё лицо было скрыто капюшоном; одежда на нём была в грязи, капли воды собирались на краях и ритмично стекали вниз."
+line-313,,特雷西斯看着脸庞隐藏在兜帽中的人，那人衣服上沾染了污迹，衣角聚拢的水滴有节奏地向下滴落着。,"Theresis looks at the figure before him: Rainwater gathering at the hem of a long, hooded coat, rhythmically dripping onto the ground.","Терезис смотрел на человека, чьё лицо было скрыто капюшоном; одежда на нём была в грязи, капли воды собирались на краях и ритмично стекали вниз."
 line-314,,水滴在他们脚下的浅浅水洼中荡起一环又一环的涟漪。,The shallow puddles below ripple as falling drops strike them.,Эти капли создавали круги на воде в неглубоких лужах у их ног.
 line-315,特雷西斯,理应记得这处地方的萨卡兹，大多都已经死在历史之中。能找到这里的人寥寥无几。,"You ought to remember that most Sarkaz who once lived here have long since died, lost to history. There are only a handful left who know how to find this place.","Сарказы, что должны помнить это место, уже давно мертвы. Найти его могут немногие."
 line-316,特雷西斯,你是徒步走来的。走了很远？,You came here on foot. How far have you walked?,Ты пришёл пешком. Долго шёл?
@@ -163,7 +163,7 @@ line-326,博士,你们能在维多利亚的高压下做到哪一步？你们打�
 line-327,博士,我可以给你答案。,I can give you the answer you need.,Я могу дать тебе ответ.
 line-328,特雷西斯,很大的口气。,You are a boastful one.,Смелое заявление.
 line-329,特雷西斯,那么，你又需要我做什么，恶灵？,"So, what is it you wish me to do, evil spirit?","Что же тебе нужно от меня, Призрак?"
-line-333,博士,......摧毁巴别塔，驱散她的追随者，让特蕾西娅加入你的计划。,...Destroy Babel. Scatter her followers. Let Theresa in on your plans.,"...Уничтожить Вавилон, разогнать её последователей, заставить Терезию присоединиться к твоему плану."
+line-333,博士,......摧毁巴别塔，驱散她的追随者，让特蕾西娅加入你的计划。,...Destroy Babel. Scatter her followers. Let Theresa in on your plans.,"...Уничтожить Вавилон, разогнать её последователей, заставить Терезу присоединиться к твоему плану."
 line-334,博士,让萨卡兹统一在军事委员会统治的卡兹戴尔之下。,Unify the Sarkaz under a Kazdel ruled by the Military Commission.,Пусть сарказы объединятся в Казделе под правлением Военной комиссии.
 line-335,,博士设想过很多次他说出这句话时的情绪。,"The Doctor has imagined the emotions that speaking these words would incite, many times over.","Доктор много раз представлял свои чувства, когда говорил эти слова."
 line-336,,“摧毁巴别塔”......,'Destroy Babel'...,«Уничтожить Вавилон»...
@@ -185,12 +185,12 @@ line-351,博士,诸神是如何死去的？,Why did those gods die?,Как по�
 line-355,,雨大了，博士扯紧了自己的衣帽，立于那座高耸的雕像之下。,"The rain intensifies. The Doctor draws tight that trademark hood, and stands below the towering statues.","Дождь усилился, Доктор запахнул капюшон, стоя под высокой статуей."
 line-356,,雕像的阴影笼罩了博士，让石像下的身形愈发渺小。,"The shadows of the statues envelop the Doctor, making this figure seem ever more insignificant.","Тень статуи накрыла Доктора, отчего фигура под камнем казалась ещё более крошечной."
 line-357,,特雷西斯突然觉得眼前独自站在雨中的人似乎更加难以琢磨。,Theresis suddenly feels that the one standing before him in the rain is even harder to read than before.,"Терезис внезапно почувствовал, что того, кто стоит перед ним под дождём, стало ещё труднее понять, чем прежде."
-line-358,博士,我肩负着不止于萨卡兹的未来。特雷西斯，如果要毁灭些什么来铸造我所期望的阶梯......,The burden I bear is greater than the future of the Sarkaz. If I must destroy some things to create a ladder I hope for...,"На моих плечах будущее не только Сарказов. Тересис, если нужно что-то разрушить, чтобы построить лестницу, к которой я стремлюсь..."
+line-358,博士,我肩负着不止于萨卡兹的未来。特雷西斯，如果要毁灭些什么来铸造我所期望的阶梯......,The burden I bear is greater than the future of the Sarkaz. If I must destroy some things to create a ladder I hope for...,"На моих плечах будущее не только Сарказов. Терезис, если нужно что-то разрушить, чтобы построить лестницу, к которой я стремлюсь..."
 line-359,博士,我会去做。我只能做。,I will do it. It's all I can do.,Я сделаю это. Я обязан это сделать.
 line-360,博士,我已经犹豫太久了。,I've already hesitated for far too long.,Я слишком долго колебался.
 line-361,特雷西斯,......毁灭些什么，来铸造阶梯。,"Destroy some things, to create a ladder...","...Разрушить что-то, чтобы построить лестницу."
 line-362,特雷西斯,你把牺牲说得很轻松。,You speak lightly of sacrifice.,Ты говоришь о жертвах так легко.
-line-363,博士,绝不轻松，特雷西斯。,"Nothing light here, Theresis.","Совсем не легко, Тересис."
+line-363,博士,绝不轻松，特雷西斯。,"Nothing light here, Theresis.","Совсем не легко, Терезис."
 line-364,博士,而且相信我，我所经历的，你根本无法想象。,"Believe me when I say, you couldn't even conceive of what I've been through.","И поверь мне, то, что я пережил, ты даже вообразить не сможешь."
 line-365,特雷西斯,......,......,...
 line-366,特雷西斯,合作的诚意呢？,And where do I see your sincerity for our cooperation?,А как же искренность намерений для сотрудничества?
@@ -208,7 +208,7 @@ line-377,特雷西斯,想让特蕾西娅活下来，也想让巴别塔的成员�
 line-378,特雷西斯,唯有巴别塔被彻底摧毁，那些人的侥幸被完全掐灭，特蕾西娅才能够与我共同前往伦蒂尼姆。,Only with the destruction of Babel and the complete eradication of its members can Theresa leave for Londinium with me.,"Только когда Вавилон будет полностью уничтожен, а надежды этих людей окончательно растоптаны, Тереза сможет отправиться со мной в Лондиниум."
 line-379,特雷西斯,否则，只不过是军事委员会对平民、移居者、反战者的又一次镇压，又一次分裂。,"Otherwise, it would merely be a case of the Military Commission quashing and dispersing yet another group of civilians, migrants, and pacifists.","Иначе это будет лишь очередное подавление мирных жителей, беженцев и пацифистов, очередной раскол."
 line-380,特雷西斯,根本不用我下令，这些事势必会自然发生。,"Even without my order, such things will happen naturally.",И без моего приказа эти вещи произойдут естественным образом.
-line-381,特雷西斯,可你认为特蕾西娅会甘愿目睹这一切吗？她不会。所以她一定会抗争到底。,Perhaps you believe that Theresa would be willing to step back and watch it before her eyes? She will not. And so she will resist.,"Но ты ведь думаешь, что Терезия согласится наблюдать за всем этим? Нет. Поэтому она будет бороться до конца."
+line-381,特雷西斯,可你认为特蕾西娅会甘愿目睹这一切吗？她不会。所以她一定会抗争到底。,Perhaps you believe that Theresa would be willing to step back and watch it before her eyes? She will not. And so she will resist.,"Но ты ведь думаешь, что Тереза согласится наблюдать за всем этим? Нет. Поэтому она будет бороться до конца."
 line-382,特雷西斯,你知道答案。如果你真的想救下你身边的更多人，让他们心甘情愿地接受失败，投诚于我......,"You know what I ask of you. If you truly wish to save the many who stand by your side, make them willingly admit defeat and surrender to me...","Ты знаешь ответ. Если ты действительно хочешь спасти тех, кто рядом, заставь их добровольно принять поражение и сдаться мне..."
 line-383,特雷西斯,那就杀死他们的王。,Then slay their king.,Тогда убей их короля.
 line-384,博士,......,......,...

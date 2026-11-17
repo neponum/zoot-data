@@ -13,8 +13,8 @@ char-6,埃琳娜,埃琳娜,Elena,Елена
 char-7,拓荒队成员,拓荒队成员,Frontier Team Member,Член экспедиционного отряда
 char-8,白面鸮,白面鸮,Ptilopsis,Птилопсис
 char-9,玛丽,玛丽,Mary,Мэри
-char-10,莱茵防卫科成员,莱茵防卫科成员,Rhine Defense Member,Член охраны Rhine Lab
-char-11,莱茵实验员,莱茵实验员,Rhine Lab Tech,Лаборант Rhine Lab
+char-10,莱茵防卫科成员,莱茵防卫科成员,Rhine Defense Member,Член охраны Рейн Лаб
+char-11,莱茵实验员,莱茵实验员,Rhine Lab Tech,Лаборант Рейн Лаб
 char-12,斐尔迪南,斐尔迪南,Ferdinand,Фердинанд
 char-13,格雷伊,格雷伊,Greyy,Грей
 char-14,温柔的女声,温柔的女声,Gentle Female Voice,Нежный женский голос
@@ -34,20 +34,20 @@ line-33,Mechanist,既然它们出现在这里，那说明有人并不希望我�
 line-34,Mechanist,这个人会是谁？,Who's that someone going to be?,И кто бы это мог быть?
 line-36,塞雷娅,有多种可能性。,There are many possibilities.,Вариантов много.
 line-37,塞雷娅,我与缪尔赛思联络不多，只知道她在失踪前正在参与某项由莱茵生命主导的秘密实验。,I don't contact Muelsyse much. I only know she was participating in some Rhine Lab-headed secret experiment before she disappeared.,"Я мало общалась с Мюльсайз, знаю лишь, что перед исчезновением она участвовала в неком секретном эксперименте компании."
-line-38,塞雷娅,考虑到我早已离开莱茵，她向我透露上述信息已经违反保密协议。,"Considering I left Rhine long ago, her divulging as much to me already violated her NDA.","Учитывая, что я давно покинула Rhine Lab, она уже нарушила протокол, рассказав мне об этом."
-line-40,Mechanist,莱茵防卫科会出动尖端武器干掉泄密的员工吗？,Does Rhine Defense dispatch cutting-edge weapons to eliminate info-leaking employees?,"Отдел защиты Rhine Lab использует передовое оружие, чтобы избавляться от болтливых сотрудников?"
+line-38,塞雷娅,考虑到我早已离开莱茵，她向我透露上述信息已经违反保密协议。,"Considering I left Rhine long ago, her divulging as much to me already violated her NDA.","Учитывая, что я давно покинула Рейн Лаб, она уже нарушила протокол, рассказав мне об этом."
+line-40,Mechanist,莱茵防卫科会出动尖端武器干掉泄密的员工吗？,Does Rhine Defense dispatch cutting-edge weapons to eliminate info-leaking employees?,"Отдел защиты Рейн Лаб использует передовое оружие, чтобы избавляться от болтливых сотрудников?"
 line-42,塞雷娅,……,......,...
 line-44,Mechanist,我知道了，这也是保密条款。,Got it. That's non-disclosure too.,Понял. Это тоже часть протокола.
 line-45,Mechanist,罗德岛真是良心企业，是吧，Dr.{@nickname}？,"Rhodes Island sure is a friendly enterprise, isn't it, Dr. {@nickname}?","Родос— по-настоящему ответственная организация, правда, Доктор?"
 line-48,,罗德岛不仅仅是一家企业。;……;要不然也招募不到你们。,Rhodes Island isn't just an enterprise.;......;How else did we get either of you?,Родос — это не просто организация.;...;Иначе нам бы не удалось тебя нанять.
-line-51,塞雷娅,缪尔赛思不是莱茵生命的普通员工。,Muelsyse isn't an ordinary Rhine Lab employee.,Мюльсайз не рядовой сотрудник Rhine Lab.
+line-51,塞雷娅,缪尔赛思不是莱茵生命的普通员工。,Muelsyse isn't an ordinary Rhine Lab employee.,Мюльсайз не рядовой сотрудник Рейн Лаб.
 line-52,塞雷娅,能将她逼至绝境，对方的专业程度不亚于我。,"If they can drive her to the edge, their professionalism has to be on par with mine.","Раз уж им удалось загнать её в угол, то уровень профессионализма противника не уступает моему."
 line-53,塞雷娅,这种型号的动力甲大约在半年前出现在了某些雇佣兵团体中。,This model of power armor made a showing in certain mercenary groups about half a year ago.,Силовые доспехи такого типа появились в некоторых отрядах наемников около полугода назад.
 line-54,塞雷娅,它所使用的防御材料与装配武器都并不出彩，整体性能与五年前的军方量产动力甲相当。,"Neither its defensive material nor its equipped weaponry are outstanding. All in all, it's comparable to military-manufactured power armor from five years ago.",Используемые ими защитные материалы и вооружение ничем не примечательны; их характеристики идентичны армейским серийным моделям пятилетней давности.
 line-56,塞雷娅,只有一点很特殊——它对使用者没有要求。,Save for one very notable point—it doesn't demand anything from its user.,Только одно в них необычно — к пилоту нет никаких требований.
 line-58,Mechanist,没有要求……是多低的要求？,Anything... how low do the requirements go?,Никаких требований... Насколько низких?
 line-60,塞雷娅,任何生理指标能维持一般运动状态的个体都能满足要求。,Any being whose physiological parameters can maintain a standard exercise state satisfies the requirements.,"Любой индивид, чьи физиологические показатели позволяют совершать базовые движения, справится."
-line-61,塞雷娅,我可以，Mechanist先生可以，博士也可以。,"I can, you can, and the Doctor can.","Я смогу, господин Механист сможет, Доктор тоже."
+line-61,塞雷娅,我可以，Mechanist先生可以，博士也可以。,"I can, you can, and the Doctor can.","Я смогу, господин Mechanist сможет, Доктор тоже."
 line-63,Mechanist,……,......,...
 line-66,,那是够低的了。;……;我还真想试试。,"Yeah, that's low.;......;I'm kind of dying to try.",Это действительно низкий порог.;...;Я бы даже хотел попробовать.
 line-69,Mechanist,你不会喜欢这感觉的，博士，我向你保证。,"You won't like the feeling of it, Doctor, I can guarantee you.","Тебе не понравится, Доктор, уверяю тебя."
@@ -72,7 +72,7 @@ line-102,塞雷娅,反对缺乏意义。,No point in fighting it.,Протест
 line-103,塞雷娅,雇佣兵们很清楚，手里拿着的新型武器可能会爆炸，但也可能比对手的武器威力更强。,"The mercenaries are fully aware the new weapons in their hands could explode, but they could also be stronger than whatever their opponents are wielding.","Наемники прекрасно понимают: новое оружие в их руках может как взорваться, так и оказаться эффективнее вражеского."
 line-105,塞雷娅,在法律上，这些你情我愿的交易都是接近合规的。,"Legally, these mutually consenting deals are on the verge of compliance.","С точки зрения закона, эти сделки по взаимному согласию вполне легальны."
 line-107,Mechanist,……,......,...
-line-109,塞雷娅,Mechanist先生，你有什么新发现吗？,"Mr. Mechanist, have you discovered anything new?","Господин Механист, у вас есть что-то новое?"
+line-109,塞雷娅,Mechanist先生，你有什么新发现吗？,"Mr. Mechanist, have you discovered anything new?","Господин Mechanist, у вас есть что-то новое?"
 line-111,Mechanist,不对劲……,Something feels off...,Что-то не так...
 line-112,Mechanist,从刚刚开始，我就觉得哪里不对劲。,Something's felt off from the very beginning.,С самого начала меня не покидает странное чувство.
 line-113,Mechanist,这动力甲里面没有人——为什么我没有一眼看出来？,Nobody in the power armor—how did I not tell that at a glance?,Внутри этих доспехов никого нет — почему я не понял этого сразу?
@@ -140,7 +140,7 @@ line-367,玛丽,别跟我装傻，刚才那震动你没感觉到？,"Knock it of
 line-368,玛丽,那些飘来飘去的是什么新型号的无人机吗？你们莱茵自己研发的？该死！,Were those floaty things some new model of drone or something? You Rhiners developed those yourself? Dammit!,Что это за новая модель дронов? Ваши разработки? Черт побери!
 line-370,莱茵防卫科成员,我只能向您保证，我们没有违反您的命令对基地采取任何行动。,"I can only tell you that we did not take any action against the site, on your orders.","Могу лишь заверить вас, что мы не предпринимали никаких действий против участка вопреки вашим приказам."
 line-372,玛丽,你老大叫什么来着？斐尔迪南是吧？,"Who was your boss, again? Ferdinand?","Как зовут твоего начальника? Фердинанд, кажется?"
-line-374,莱茵防卫科成员,斐尔迪南·克鲁尼先生是莱茵生命能量科的主任。,Mr. Ferdinand Clooney is the Director of Rhine Lab's Energy Section.,Господин Фердинанд Клуни — директор энергетического отдела Rhine Lab.
+line-374,莱茵防卫科成员,斐尔迪南·克鲁尼先生是莱茵生命能量科的主任。,Mr. Ferdinand Clooney is the Director of Rhine Lab's Energy Section.,Господин Фердинанд Клуни — директор энергетического отдела Рейн Лаб.
 line-376,玛丽,我才不管你们公司是什么架构。,I don't care how your company's structured.,Мне плевать на вашу корпоративную структуру.
 line-377,玛丽,给我通讯器，我要跟他通话。,Give me your comm. I want to talk to him.,"Дай мне коммуникатор, я буду с ним говорить."
 line-379,莱茵防卫科成员,斐尔迪南主任非常忙碌……,Director Clooney is extremely busy...,Директор Фердинанд очень занят...
@@ -215,4 +215,4 @@ line-548,温柔的女声,我改装了一下实验室的扩音设备——希望�
 line-550,埃琳娜,你没事吧？,Are you alright?,Ты в порядке?
 line-552,温柔的女声,我很安全，请不必为我担心。,I'm completely safe. You don't need to worry about me.,"Я в безопасности, пожалуйста, не беспокойтесь обо мне."
 line-553,温柔的女声,实验区的建筑更结实，也能为大家抵挡威胁。,"The laboratory buildings are sturdier, and they will help you resist the threat.","Здание экспериментальной зоны прочнее, оно сможет укрыть всех от угрозы."
-line-554,温柔的女声,各位——无论是拓荒队的朋友们，还是莱茵的同事们，实验区的大门将为你们打开。,"Everyone—be you Pioneer Team friends, or Rhine coworkers, the laboratories' doors are open to you.","Господа — друзья из отряда первопроходцев и коллеги из Rhine Lab, двери лабораторий открыты для вас."
+line-554,温柔的女声,各位——无论是拓荒队的朋友们，还是莱茵的同事们，实验区的大门将为你们打开。,"Everyone—be you Pioneer Team friends, or Rhine coworkers, the laboratories' doors are open to you.","Господа — друзья из отряда первопроходцев и коллеги из Рейн Лаб, двери лабораторий открыты для вас."

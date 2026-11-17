@@ -11,7 +11,7 @@ char-4,“洛肯”,“洛肯”,'Loken',Локен
 char-5,哥伦比亚士兵,哥伦比亚士兵,Columbian Soldier,Колумбийский солдат
 char-6,布莱克,布莱克,Blake,Блэк
 char-7,动力甲士兵,动力甲士兵,Power Armor Operator,Солдат в силовой броне
-char-8,霍尔海雅,霍尔海雅,Ho'olheyak,Хо'олхейак
+char-8,霍尔海雅,霍尔海雅,Ho'olheyak,Хоолхейак
 char-9,塞雷娅,塞雷娅,Saria,Сария
 char-10,缪尔赛思,缪尔赛思,Muelsyse,Мюльсис
 char-11,？？？,？？？,???,???
@@ -19,7 +19,7 @@ char-12,动力甲士兵？,动力甲士兵？,Power Armor Operator?,Операт
 char-13,伊芙利特,伊芙利特,Ifrit,Ифрит
 ,,,,
 line-13,,花……好漂亮呀。,The flowers... they're so beautiful.,Цветы... так прекрасны.
-line-14,,你又来看我了吗？今天的花我不认识，你能不能教我怎么拼？,Have you come to see me again? I don't know today's flowers. Can you teach me how to spell them?,"Ты снова пришел меня навестить? Я не узнаю сегодняшние цветы, не мог бы ты научить меня их составлять?"
+line-14,,你又来看我了吗？今天的花我不认识，你能不能教我怎么拼？,Have you come to see me again? I don't know today's flowers. Can you teach me how to spell them?,"Ты снова пришёл меня навестить? Я не узнаю сегодняшние цветы, не мог бы ты научить меня их составлять?"
 line-18,熟悉的影子,当然，纳西莎。你学会之后，想做什么呢？,"Of course, Narcissa. What do you want to do after you learn it?","Конечно, Нарцисса. А что ты хочешь сделать, когда научишься?"
 line-19,,和以前一样，我想把这些花瓣留下来，放进我的画本里。,"I want to put these petals in my picture book, just like I used to.","Как и раньше, хочу сохранить эти лепестки и вклеить их в свой альбом."
 line-20,,妈妈最喜欢花，爸爸和你一样，懂很多植物知识。,"Mom loved flowers. Dad knew a lot about plants, just like you.","Мама больше всего любила цветы, а папа, как и ты, знал о них очень много."
@@ -48,7 +48,7 @@ line-54,熟悉的影子,是的。,Yes.,Да.
 line-55,熟悉的影子,进过那座植物园的，都会变成最被命运宠爱的孩子。,Those who pass through its doors are blessed by fate.,"Все, кто переступает порог этого места, благословлены судьбой."
 line-56,,走廊的尽头是……,At the end of the corridor is...,В конце коридора...
 line-61,,迷迭香，迷迭香！,Rosmontis! Rosmontis!,"Росмонтис, Росмонтис!"
-line-62,,这扇门为什么打不开了？缪尔赛思，能不能想想办法，我们得跟上去！,"I can't get the door open! Any ideas, Muelsyse? We need to go!","Почему эта дверь не открывается? Мюльсайз, придумай что-нибудь, мы должны идти за ними!"
+line-62,,这扇门为什么打不开了？缪尔赛思，能不能想想办法，我们得跟上去！,"I can't get the door open! Any ideas, Muelsyse? We need to go!","Почему эта дверь не открывается? Мюльсис, придумай что-нибудь, мы должны идти за ними!"
 line-63,,迷迭香……Rosmontis。,Rosmontis...,Росмонтис...
 line-64,,不要过去，至少不要一个人过去。,Don't go... not alone...,"Не ходи туда, по крайней мере, не ходи одна."
 line-69,,迷迭香。,Rosmontis.,Росмонтис.
@@ -130,8 +130,8 @@ line-231,霍尔海雅,我是不是早该这么做了？你可是险些杀死我�
 line-233,布莱克,各单位……注意……,All units...,Всем подразделениям... внимание...
 line-235,布莱克,全力……进攻！,Attack...!,Атакуйте!
 line-238,霍尔海雅,你想当烈士。,You want to be a martyr.,Хочешь стать мучеником.
-line-242,霍尔海雅,或许我真该成全你。,Perhaps I should oblige.,"Пожалуй, мне стоит выполнить твое желание."
-line-264,霍尔海雅,咦？是你来啦，大英雄。,"Oh, there you are, hero.","Ой? Ты пришел, великий герой."
+line-242,霍尔海雅,或许我真该成全你。,Perhaps I should oblige.,"Пожалуй, мне стоит выполнить твоё желание."
+line-264,霍尔海雅,咦？是你来啦，大英雄。,"Oh, there you are, hero.","Ой? Ты пришёл, великий герой."
 line-271,塞雷娅,军方和梅兰德已经包围了这栋建筑，你们没有胜算了。,The military and Maylander have this building surrounded. You can't win.,Военные и Мейландер окружили здание. В не победите.
 line-273,霍尔海雅,胜算？,Win?,Победа?
 line-275,霍尔海雅,不，你不明白。我要的并不是胜利，而是一个机会。,It's not victory that I'm looking for. It's a chance.,"Я ищу не победы, а шанса."
@@ -163,13 +163,13 @@ line-430,霍尔海雅,哦，对了……还有那个可爱的黎博利。,"Oh, a
 line-431,霍尔海雅,褐色的小鸟，她是那样地富有道德感和同情心。我刚刚还在军方的飞行器里看见她了呢。,"The little brown bird, so full of morality and empathy. I saw her in one of the military aircraft.",Эта коричневая пташка... полна морали и сочувствия. Я видела её только что на воздушном транспорте военных.
 line-432,塞雷娅,……,......,...
 line-433,霍尔海雅,这样的表情原来也会出现在你的脸上。,I didn't know you had that expression in you.,"Я и не знала, что ты можешь строить такое выражение лица."
-line-434,霍尔海雅,你的手越来越无力了。所有事情都在脱离掌控，就连自己的心也一样……类似感受对像你这样的人来说，是不是特别陌生？,"Your hands are growing weaker. Everything is going out of control, even your own heart. Is that not a strange feeling to a woman like you?","Твои руки слабеют. Всё выходит из-под контроля, даже твое собственное сердце... Такое ощущение для тебя в новинку?"
+line-434,霍尔海雅,你的手越来越无力了。所有事情都在脱离掌控，就连自己的心也一样……类似感受对像你这样的人来说，是不是特别陌生？,"Your hands are growing weaker. Everything is going out of control, even your own heart. Is that not a strange feeling to a woman like you?","Твои руки слабеют. Всё выходит из-под контроля, даже твоё собственное сердце... Такое ощущение для тебя в новинку?"
 line-435,塞雷娅,你的挑衅毫无意义。,Your taunts are meaningless.,Твои провокации бессмысленны.
 line-436,霍尔海雅,啧啧，可怜的塞雷娅，你的眼睛，你的手，你全身上下都不是这么说的。,"Poor Saria. That's not what your eyes, your hands, every inch of your body is saying.","Ц-ц, бедная Сария, твои глаза, твои руки, всё в тебе говорит об обратном."
 line-437,霍尔海雅,你真的不想立刻马上现在就飞奔到那边的实验室去吗？,Are you sure you don't want to run over to the lab there right this instant?,"Ты ведь хочешь прямо сейчас сорваться и помчаться в ту лабораторию, верно?"
 line-438,霍尔海雅,说不定……已经迟了哦？,It may already be too late.,Может быть... уже поздно?
 line-446,塞雷娅,你——,You—,Ты—
-line-456,,只是短短一瞬间，霍尔海雅已经跃上了一旁半坍塌的高墙。,"In an instant, Ho'olheyak is standing on top of a half-collapsed wall.",За одно мгновение Хо'олхейак взлетела на полуразрушенную стену.
+line-456,,只是短短一瞬间，霍尔海雅已经跃上了一旁半坍塌的高墙。,"In an instant, Ho'olheyak is standing on top of a half-collapsed wall.",За одно мгновение Хоолхейак взлетела на полуразрушенную стену.
 line-457,,连续几次跳跃，她就离开了这片战场。,"A few more leaps, and she is gone from the battlefield.",После нескольких прыжков она исчезла с поля боя.
 line-468,霍尔海雅,……,......,...
 line-469,霍尔海雅,实验室那边的门被攻破了……怎么会？,The door to the lab is broken... how could it be?,Дверь в лабораторию прорвана... как это возможно?
@@ -234,7 +234,7 @@ line-599,,他想找回迷迭香的记忆。;他想挑起迷迭香的愤怒。,He
 line-601,,然后让迷迭香杀死他。,Then have Rosmontis kill him.,А затем заставить Росмонтис себя убить.
 line-603,,这就是他所说的“礼物”。,That's his 'gift.',Это и есть его «подарок».
 line-606,缪尔赛思,啊？,Huh?,А?
-line-608,缪尔赛思,他是终于失心疯了吗？我早听说过在监狱里待久了，人的精神都会变得很不正常的！,Did he finally go off the deep end? They say being in prison too long makes you go crazy.,"Он что, окончательно сошел с ума? Я слышала, что от долгого заключения в тюрьме психика людей сильно портится!"
+line-608,缪尔赛思,他是终于失心疯了吗？我早听说过在监狱里待久了，人的精神都会变得很不正常的！,Did he finally go off the deep end? They say being in prison too long makes you go crazy.,"Он что, окончательно сошёл с ума? Я слышала, что от долгого заключения в тюрьме психика людей сильно портится!"
 line-610,缪尔赛思,可是……唔，我不知道这样说好不好，洛肯曾经那样对待过小猫，她也是有理由愤怒的吧？,"But... well, I'm not sure I should say it, but the kitten has a reason to be angry after Loken did all that to her, doesn't she?","Но... хм, не знаю, стоит ли такое говорить, но у котенка есть причины злиться после всего, что Локен с ней сделал, не так ли?"
 line-611,缪尔赛思,我看到伊芙芙的实验记录的时候，也很生气很生气，气到想过一口气把那个废墟淹掉欸。,"I was angry when I saw Iffy's experiment logs, angry enough that I wanted to flood those ruins six feet deep.","Когда я читала записи экспериментов над Ифрит, я тоже была так зла... так зла, что хотела затопить эти руины."
 line-612,缪尔赛思,怎么说洛肯也算是恶有恶报吧。假设，只是假设啊，迷迭香真的考虑复仇的话，呃……我搞不清楚该以什么立场阻止……,"Loken would be getting what he deserved. Assuming, just assuming, that Rosmontis really had vengeance on her mind... I'm not sure I'm really in a position to stop her...","Локен получит по заслугам. Предполагая, просто предполагая, что Росмонтис действительно захочет отомстить... Я не уверена, что смогу её остановить..."

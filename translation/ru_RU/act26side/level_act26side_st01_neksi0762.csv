@@ -19,7 +19,7 @@ char-12,沧桑的猎户,沧桑的猎户,Weathered Hunter,Пожилой охот
 char-13,瘦削的修道院居民,瘦削的修道院居民,Gaunt Monastery Inhabitant,Худой прихожанин монастыря
 char-14,杰拉尔德,杰拉尔德,Gerald,Джеральд
 char-15,强壮的青年,强壮的青年,Bulky Youth,Крепкий юноша
-char-16,莱蒙德,莱蒙德,Raimund,Раймунд
+char-16,莱蒙德,莱蒙德,Raimund,Раймонд
 char-17,温和的教士,温和的教士,Gentle Priest,Мягкий священник
 char-18,“进食的黑影”,“进食的黑影”,'Devouring Shadow',Пожирающая тень
 char-19,萨科塔少女,萨科塔少女,Sankta Girl,Девушка санката
@@ -28,8 +28,8 @@ char-21,福尔图娜,福尔图娜,Fortuna,Фортуна
 char-22,克莱芒,克莱芒,Clément,Клемент
 char-23,严肃的少女,严肃的少女,Solemn Girl,Серьезная девушка
 char-24,德尔菲娜,德尔菲娜,Delfina,Дельфина
-char-25,里凯莱,里凯莱,Richele,Ришель
-char-26,斯普莉雅,斯普莉雅,Serpilia,Серпилия
+char-25,里凯莱,里凯莱,Richele,Рикеле
+char-26,斯普莉雅,斯普莉雅,Serpilia,Спририя
 ,,,,
 line-9,,人们都说，拉特兰是一座乐园。,They say Laterano is Paradise.,"Они говорят, что Латерано — это Рай."
 line-10,,这里自由，欢乐，富有秩序，是纷乱的世间为数不多的净土。,"A land of freedom, happiness and order, one of the few left in this chaotic world.","Здесь царят свобода, радость и порядок; это одна из немногих тихих гаваней на нашей неспокойной земле."
@@ -106,9 +106,9 @@ line-206,精神的拉特兰人,我看着像是工作服，这款式还有那么�
 line-208,快乐的拉特兰人,在哪干活能领到这么帅的工作服啊？我现在就去投简历！,Where do you get a uniform like that? I'm applying!,"Где нужно работать, чтобы выдавали такую крутую форму? Пойду прямо сейчас резюме подам!"
 line-210,费德里科,……不确定是否为标准工作服饰。,...I'm not sure it's a standard uniform.,"...Не уверен, что это стандартная униформа."
 line-211,费德里科,如有意，请持简历前往教皇厅进行投递。,You can submit your curriculum vitae to the Curia.,Вы можете подать свое резюме в Курию.
-line-224,伊万杰利斯塔十一世,“……他们带领萨科塔，他们建起城市，称之为拉特兰。”,'....They led the Sankta. They built a city and named it Laterano.',"""...Повели они Санкт и возвели они город, и дали ему имя Латерано""."
-line-225,伊万杰利斯塔十一世,“而当灾难再次逼近，将有新的启示落在萨科塔中，新的领路人随之而现，指引众人……”,"'And when disaster looms once more, a new revelation shall dawn upon the Sankta, and a new guide shall lead forth...'","""И коль бедствие вновь приблизится, придёт к Санктам откровение новое, явится проводник Его, и наставит их на путь верный..."""
-line-226,伊万杰利斯塔十一世,“在世人见证之下，萨科塔的乐园将矗立不朽。”,"'The Paradise of the Sankta shall remain eternal, as witnessed by the world.'","""И засвидетельствует мир, Рай Санкт простоит вечно""."
+line-224,伊万杰利斯塔十一世,“……他们带领萨科塔，他们建起城市，称之为拉特兰。”,'....They led the Sankta. They built a city and named it Laterano.',"«...Повели они Санкт и возвели они город, и дали ему имя Латерано»."
+line-225,伊万杰利斯塔十一世,“而当灾难再次逼近，将有新的启示落在萨科塔中，新的领路人随之而现，指引众人……”,"'And when disaster looms once more, a new revelation shall dawn upon the Sankta, and a new guide shall lead forth...'","«И коль бедствие вновь приблизится, придёт к Санктам откровение новое, явится проводник Его, и наставит их на путь верный...»"
+line-226,伊万杰利斯塔十一世,“在世人见证之下，萨科塔的乐园将矗立不朽。”,"'The Paradise of the Sankta shall remain eternal, as witnessed by the world.'","«И засвидетельствует мир, Рай Санкт простоит вечно»."
 line-231,万国信使,我等在此见证。,We bear witness.,"Мы здесь, чтобы засвидетельствовать это."
 line-234,教宗骑士,我等在此见证。,We bear witness.,"Мы здесь, чтобы засвидетельствовать это."
 line-237,修士,我等在此见证。,We bear witness.,"Мы здесь, чтобы засвидетельствовать это."
@@ -228,22 +228,22 @@ line-463,杰拉尔德,……,......,...
 line-465,杰拉尔德,我理解。,I understand.,Я понимаю.
 line-467,瘦削的修道院居民,啊，啊……那就好，那就好……,"I-I see, that's good... yes...","А, а... Ну и хорошо, ну и хорошо..."
 line-479,强壮的青年,……,......,...
-line-481,杰拉尔德,辛苦你跑一趟，莱蒙德。,"Thanks for coming, Raimund.","Спасибо, что сходил, Раймунд."
+line-481,杰拉尔德,辛苦你跑一趟，莱蒙德。,"Thanks for coming, Raimund.","Спасибо, что сходил, Раймонд."
 line-482,杰拉尔德,走吧，剩下的事不用我们插手。赫曼还没有回来吗？,Let's go. We're not needed here. Is Hyman back yet?,"Пойдём, остальное нас не касается. Хайман ещё не вернулась?"
 line-484,莱蒙德,今天都没见到人，刚刚戴维他们已经出去找人了，一会我也会去。,Haven't seen her all day. Davy led a group out to look for her. I'll join them later.,"Весь день её не видел, Дэви с остальными уже отправились на поиски, я тоже скоро пойду."
 line-485,莱蒙德,还有，出去探路的队伍也已经安排好了，等晚上人回来应该就能有确切消息。,We have a scout team ready. We'll have concrete intel when they get back tonight.,"Ещё, разведка тоже организована, к вечеру, когда люди вернутся, должна быть точная информация."
 line-487,杰拉尔德,你做得很好。继续做准备吧。,Good. Carry on.,Ты молодец. Продолжай готовиться.
 line-493,莱蒙德,……等一下，杰拉尔德老大！,Brother Gerald...,"...Подожди, Джеральд!"
 line-495,莱蒙德,我们难道真的要就这么接受现状吗？！,Are we really going to accept things as they are right now?,Мы правда собираемся просто принять всё как есть?!
-line-497,杰拉尔德,冷静点，莱蒙德。,"Calm down, Raimund.","Успокойся, Раймунд."
+line-497,杰拉尔德,冷静点，莱蒙德。,"Calm down, Raimund.","Успокойся, Раймонд."
 line-498,杰拉尔德,你应该清楚，我们从来没有太多选择。,You know we never had of a choice.,"Ты должен понимать, у нас никогда не было большого выбора."
 line-500,莱蒙德,那我们就这么妥协了？,So we're compromising?,"Значит, мы просто сдадимся?"
 line-501,莱蒙德,这么多年我们到底算什么？我们和他们又有什么不同，我们不过是——,What are we? What have all these years been for? What's the difference between us and them? We're just—,"Кем мы были все эти годы? И чем мы отличаемся от них, мы же просто..."
-line-503,杰拉尔德,莱蒙德！,Raimund!,Раймунд!
+line-503,杰拉尔德,莱蒙德！,Raimund!,Раймонд!
 line-504,杰拉尔德,够了，别任性。,That's enough.,Хватит.
 line-506,莱蒙德,可是！,But—,Но!
 line-508,杰拉尔德,没有可是。,No buts.,Никаких «но».
-line-509,杰拉尔德,我知道你不好受，莱蒙德。,"I know you don't like it, Raimund.","Я знаю, тебе это не нравится, Раймунд."
+line-509,杰拉尔德,我知道你不好受，莱蒙德。,"I know you don't like it, Raimund.","Я знаю, тебе это не нравится, Раймонд."
 line-511,杰拉尔德,趁今天还有时间……如果还有什么人要见，就快去吧。,"There's still time. If there's someone you want to see, go and see them.","Пока сегодня ещё есть время... если тебе нужно с кем-то увидеться, иди быстрее."
 line-522,,进食。,Eating.,Приём пищи.
 line-523,,为满足个体的生存需求而咀嚼吞咽。,Ingestion of food for the organism's survival.,Жевание и глотание ради удовлетворения потребностей организма.
@@ -308,7 +308,7 @@ line-656,福尔图娜,菲娜，蕾缪安也是萨科塔，你能感受到她没�
 line-657,福尔图娜,为什么你就这么讨厌拉特兰的人？但是我们不也……我们原本不也应该是拉特兰人吗？,"Why do you hate people from Laterano so much? We were Laterans too, weren't we?","Почему ты так не любишь латеранцев? Мы ведь тоже были из Латерано, разве нет?"
 line-658,福尔图娜,斯特凡诺爷爷之前明明说我们很快就能回去了，那为什么要把拉特兰的使者抓起来？,Father Stefano says we can go back soon. Why did we lock up the Lateran emissaries?,"Отец Стефано говорил, что скоро мы вернёмся, так почему же заперли посланников Латерано?"
 line-659,福尔图娜,为什么我们不回去？,Why don't we go back?,Почему мы не возвращаемся?
-line-661,德尔菲娜,因为莱蒙德他们不能和我们一起！这个理由还不足够？,Because Raimund and the others can't go with us! Isn't that reason enough?,Потому что Раймунд и остальные не могут с нами! Этого аргумента мало?
+line-661,德尔菲娜,因为莱蒙德他们不能和我们一起！这个理由还不足够？,Because Raimund and the others can't go with us! Isn't that reason enough?,Потому что Раймонд и остальные не могут с нами! Этого аргумента мало?
 line-663,德尔菲娜,难道你要抛下他们？我做不到！,"You want to leave them behind? Well, I don't!",Или ты хочешь их бросить? Я не могу!
 line-665,福尔图娜,我不是那个意思！,That's not what I mean!,Я не это имела в виду!
 line-667,德尔菲娜,那你是什么意思？！,Then what <i>do</i> you mean?!,А <i>что</i> тогда?!
@@ -346,7 +346,7 @@ line-761,克莱芒,……没有人？,...No one?,...Никого?
 line-762,克莱芒,是我眼花了吗……,Am I seeing things?,Померещилось...
 line-772,里凯莱,这里的地形真奇怪，这属于什么？戈壁？下面还有一道峡谷？,The terrain is so strange. Do you still call this a desert? There's a canyon below?,"Тут странный рельеф, что это? Пустыня? Внизу ещё каньон?"
 line-773,里凯莱,小心脚下。,Mind your step.,Смотри под ноги.
-line-774,斯普莉雅,谢谢啦，我头一次知道你这么绅士，里凯莱。,"I never knew you were such a gentleman, Richele.","Спасибо, впервые вижу, что ты такой джентльмен, Ришель."
+line-774,斯普莉雅,谢谢啦，我头一次知道你这么绅士，里凯莱。,"I never knew you were such a gentleman, Richele.","Спасибо, впервые вижу, что ты такой джентльмен, Рикеле."
 line-775,里凯莱,别了吧，被你这么夸总觉得没什么好事。,Nothing good ever happens comes from you complimenting me...,"Ничего хорошего не происходит, если ты делаешь мне комплименты..."
 line-776,斯普莉雅,别这么小心眼，这回不会让你破财的。,Don't be so uptight. Your bank account is safe this time.,"Не будь таким мелочным, в этот раз ты не разоришься."
 line-777,斯普莉雅,目标的移动修道院……我看看，就是前面那个？,Is that the nomadic abbey we're looking for?,"Это и есть то кочевое аббатство, которое мы ищем?"

@@ -7,7 +7,7 @@ __chapter__,,Chapter Name,activities/act12d0/level_act12d0_01_end,高空坠物
 char-1,阿达克利斯人A,阿达克利斯人A,Archosauria A,Архозаврия А
 char-2,嘉维尔,嘉维尔,Gavial,Гавиал
 char-3,阿达克利斯人B,阿达克利斯人B,Archosauria B,Архозаврия Б
-char-4,Lancet-2,Lancet-2,Lancet-2,Ланцет-2
+char-4,Lancet-2,Lancet-2,Lancet-2,Lancet-2
 char-5,刻俄柏,刻俄柏,Ceobe,Цеоба
 char-6,凯尔希,凯尔希,Kal'tsit,Кальцит
 char-7,煌,煌,Blaze,Блейз
@@ -31,14 +31,14 @@ line-52,Lancet-2,迪伦刚才想要反抗这群阿达克利斯人被他们打昏
 line-54,刻俄柏,啊，嘉维尔，迪伦在这里！,"Oh! Gavial, I found Dylan here!","О, Гавиал, Дилан здесь!"
 line-56,嘉维尔,好，把他拖过来吧，我来看看伤势。,Good. Drag him over. I'll take a look at the damage.,"Хорошо, тащи его сюда, я осмотрю раны."
 line-58,刻俄柏,喔。,Okay!,Ага.
-line-60,嘉维尔,对了，Lancet-2，你应该会修这个飞行器吧？,"Say, Lancet-2, you can fix this aircraft, right?","Кстати, Ланцет-2, ты ведь сможешь починить этот летательный аппарат?"
+line-60,嘉维尔,对了，Lancet-2，你应该会修这个飞行器吧？,"Say, Lancet-2, you can fix this aircraft, right?","Кстати, Lancet-2, ты ведь сможешь починить этот летательный аппарат?"
 line-62,Lancet-2,是的，在出发前，可露希尔为我录入了大量飞行器相关的知识。,Yes! Closure input lots of aircraft knowledge into me before we left.,Да. Перед отъездом Кложур загрузила в меня большой объем данных по обслуживанию летательных аппаратов.
 line-63,Lancet-2,原本在成功迫降后，依靠维修工具应该是能完成维修的。,"In principle, following a successful emergency landing, the tools provided should be sufficient for a repair.","Изначально, после успешной аварийной посадки, я могла бы завершить ремонт с помощью инструментов."
 line-64,Lancet-2,但是......,Only...,Но...
 line-66,嘉维尔,小刻，我让你把他拖过来，不是让你真的用拖的。,"Kay, I asked you to drag him over, not to LITERALLY drag him over.","Кеобе, я сказала притащить его, а не тащить волоком по земле."
 line-68,刻俄柏,喔，对不起。,Oh. Sorry.,"Ой, прости."
 line-70,嘉维尔,......看起来对面也没下死手，嗯？看不出来，这家伙内裤挺花哨......咳，估计躺半天就自己醒了。,"...Looks like they didn't get any kills on us, huh? Wow, who knew this guy's underwear would be so gaudy... heh. Yeah, let him have his beauty sleep and he'll wake himself up.","...Похоже, они не собирались его убивать. Хм? А у парня-то трусы в цветочек... Кхм. Наверное, полежит полдня и сам очнется."
-line-72,嘉维尔,然后，Lancet-2，你说什么但是？,"Lancet-2, you were saying? Only what?","Так, Ланцет-2, что там за «но»?"
+line-72,嘉维尔,然后，Lancet-2，你说什么但是？,"Lancet-2, you were saying? Only what?","Так, Lancet-2, что там за «но»?"
 line-74,Lancet-2,但是刚才那群阿达克利斯人，把引擎抢走了。,"Only, the Archosauria we just met stole the engine.",Но те адаклисы только что украли двигатель.
 line-76,嘉维尔,哈？引擎？,Hah? The engine?,Ха? Двигатель?
 line-78,Lancet-2,是的，在他们发现我之前，我在舱内看到他们首先找到了飞行器的引擎并直接把它拆了下来并带走了。,"Correct. Before they noticed me, I sighted them from the deck. They found the aircraft's engine, pulled it out, and carried it away with them.","Да. Пока они меня не заметили, я видела из кабины, как они первым делом нашли двигатель, демонтировали его и унесли с собой."
@@ -81,7 +81,7 @@ line-161,凯尔希,阿米娅最近很忙，如果她想去，我不会允许，�
 line-162,凯尔希,那里无论如何依然是萨尔贡的境内，罗德岛在萨尔贡设立的办事处很少，不要引起不必要的麻烦，无论是对你的，还是对罗德岛的。,"Keep in mind that you are technically entering Sargon territory. Rhodes Island has very few offices in Sargon. Don't make trouble for yourselves, or for Rhodes Island.","В любом случае, это территория Саргона, а у Родоса там мало представительств. Не создавай ненужных проблем ни для себя, ни для организации."
 line-163,凯尔希,以及，近地飞行器即使在罗德岛也是非常珍贵的交通工具。萨尔贡境内环境恶劣，希望你能完好无损地把它带回来，Dr.{@nickname}。,"Further, Rhodes Island's low-altitude aircraft are tremendously important to us, and Sargon is a rough environment. I trust you to bring the vehicle back safe and sound, Dr. {@nickname}.","И ещё: низковысотные летательные аппараты — очень ценный транспорт даже для Родоса. Условия в Саргоне суровые, так что я надеюсь, вы вернете его в целости и сохранности, доктор {@nickname}."
 line-170,嘉维尔,哦，这么一说，确实有这么一回事。,"Ohhh. Now that you mention it, yeah, that sounds about right.","О, теперь припоминаю, так всё и было."
-line-171,嘉维尔,哎，别紧张，博士，这里是我老家，我熟得很。Lancet-2，只要找到刚才那群崽子，把引擎抢回来就行了吧？,"Hey, relax, Doctor! This is my homeland. I know it like the back of my hand. Lancet-2, we've just gotta find the kiddos who stole the engine and steal it right back, yeah?","Да ладно тебе, Доктор, не нервничай. Это мои родные края, я тут всё знаю. Ланцет-2, нам ведь просто нужно найти тех паршивцев и забрать двигатель, верно?"
+line-171,嘉维尔,哎，别紧张，博士，这里是我老家，我熟得很。Lancet-2，只要找到刚才那群崽子，把引擎抢回来就行了吧？,"Hey, relax, Doctor! This is my homeland. I know it like the back of my hand. Lancet-2, we've just gotta find the kiddos who stole the engine and steal it right back, yeah?","Да ладно тебе, Доктор, не нервничай. Это мои родные края, я тут всё знаю. Lancet-2, нам ведь просто нужно найти тех паршивцев и забрать двигатель, верно?"
 line-173,Lancet-2,嗯......对方似乎懂一些机械技术，引擎被拆卸的过程中没有对其他部分造成很大破坏。,"Yes... They definitely seemed to have some understanding of technology, at least. They hardly damaged anything else in the removal process.","М-м... Похоже, они немного разбираются в технике. При демонтаже двигателя остальные части не сильно пострадали."
 line-174,Lancet-2,如果能找到引擎的话，我应该能够指导各位把它装回去。,"In the event we do get the engine back, I should be able to guide you through reinstallation.","Если мы найдём двигатель, я смогу проинструктировать вас, как установить его обратно."
 line-175,Lancet-2,以及，现在我需要做一些紧急维护防止它爆炸，大家请等我一下。,"On that note, there's some emergency maintenance I must carry out before any of this ends up exploding. Please hold...","А сейчас мне нужно провести экстренное обслуживание, чтобы избежать взрыва. Пожалуйста, подождите немного."
@@ -140,7 +140,7 @@ line-282,嘉维尔,嗯？你说什么？,Huh? Whawazzat?,М-м? Что ты ск
 line-284,特米米,没、没什么！,N-Nothing!,Н-ничего!
 line-285,,......,......,...
 line-288,Lancet-2,博士，紧急维护已经完成了，我们要出发了吗？,"Doctor, emergency maintenance has been completed. Are we setting off now?","Доктор, экстренное обслуживание завершено. Мы выдвигаемся?"
-line-290,嘉维尔,辛苦你了，Lancet-2，没错，接下来我们要去神庙。,"Nice work, Lancet-2. Yeah, we're heading to the Temple next.","Спасибо за работу, Ланцет-2. Верно, дальше мы идём к храму."
+line-290,嘉维尔,辛苦你了，Lancet-2，没错，接下来我们要去神庙。,"Nice work, Lancet-2. Yeah, we're heading to the Temple next.","Спасибо за работу, Lancet-2. Верно, дальше мы идём к храму."
 line-293,特米米,哇啊！机器说话了！,Wowww! The machine talks!,Ой! Железяка разговаривает!
 line-295,Lancet-2,虽然有过心理准备，但总是这样的反应还是稍微有些伤人呢，虽然我不是人......,"I like to think I'm ready for it, but it still hurts my heart a little whenever I get that sort of reaction. Not that I technically have a heart...","Я была к этому готова, но такая реакция всё равно немного обидна... хоть я и не человек."
 line-297,嘉维尔,现在飞行器不会爆炸了吧？,"Aircraft won't explode now, right?",Теперь аппарат не взорвется?
@@ -174,7 +174,7 @@ line-363,刻俄柏,咿呀！竟敢抢我的蜜饼！不要跑！,Nooo! Don't ste
 line-370,Lancet-2,小刻一个人在那里和空气战斗的样子......唔，这难道是中毒导致的错觉？,"Kay appears to be fighting the air... Um, this could be a case of poison-induced hallucination.","Кеобе сражается с воздухом... Хм, неужели это галлюцинации от отравления?"
 line-372,嘉维尔,哦！完蛋！忘记说了！这一带路边有不少野生的蘑菇和果实，里面大半是不能吃的，吃了就会变成那样。,"Oh! Shit! I forgot to warn you! There's a hell of a lot of mushrooms and fruits growing wild along the road here, and more than most of them you can't eat. If you do, you end up like that.","Ой! Проклятье! Забыла сказать! Вдоль дорог здесь растет полно диких грибов и ягод, и большинство из них ядовитые. Если их съесть, будет вот такое."
 line-373,嘉维尔,忘了这孩子比我还野，大概是趁我们聊天的时候出去转了一圈吃掉的吧。,Forgot the kid was even wilder than me. I bet she snuck off while we were busy talking and helped herself to the buffet.,"Забыла, что эта девчонка ещё более дикая, чем я. Наверное, пока мы болтали, она успела где-то перекусить."
-line-374,嘉维尔,呃，总之，把她绑起来，Lancet-2你们一起带回去吧，过一阵子应该就好了。,"Uh, damn it. Okay. Go tie her up and take her back with you, Lancet-2. She'll be fine after a while, probably.","Э-э, в общем, свяжите её. Ланцет-2, забирайте её с собой. Скоро должно пройти."
+line-374,嘉维尔,呃，总之，把她绑起来，Lancet-2你们一起带回去吧，过一阵子应该就好了。,"Uh, damn it. Okay. Go tie her up and take her back with you, Lancet-2. She'll be fine after a while, probably.","Э-э, в общем, свяжите её. Lancet-2, забирайте её с собой. Скоро должно пройти."
 line-376,Lancet-2,交给我吧~,Leave it to me~,Предоставьте это мне~
 line-377,Lancet-2,以及，友情提醒，周边的气温比较高，而且这种环境通常昼夜温差较大，不要忘记带足补给哦。,"Oh, one last friendly reminder. Our surroundings are quite hot, but such environments are prone to drastic nighttime temperature swings. Please bring the necessary supplies with you.","И ещё, дружеское напоминание: температура воздуха высокая, а в таких условиях обычно большой перепад между днем и ночью. Не забудьте взять достаточно припасов."
 line-379,嘉维尔,哦，没错，博士，还有特米米，你们去飞行器里多拿点补给。,"Oh, nice catch. Doctor, Tomimi, you two make sure you grab what you need from the aircraft.","О, точно. Доктор, Томими, сходите к аппарату и возьмите побольше припасов."

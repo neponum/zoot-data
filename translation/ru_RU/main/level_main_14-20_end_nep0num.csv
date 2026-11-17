@@ -10,7 +10,7 @@ char-3,凯尔希,凯尔希,Kal'tsit,Кальцит
 char-4,？？？,？？？,???,???
 char-5,W,W,W,W
 char-6,特蕾西娅,特蕾西娅,Theresa,Терезис
-char-7,维什戴尔,维什戴尔,Wiš'adel,Виш'адель
+char-7,维什戴尔,维什戴尔,Wiš'adel,Вишадель
 char-8,Logos,Logos,Logos,Logos
 char-9,兴奋的佣兵,兴奋的佣兵,Excited Mercenary,Возбужденный наемник
 char-10,崩溃的士兵,崩溃的士兵,Crumbling Soldier,Сломленный солдат
@@ -22,7 +22,7 @@ char-15,闪灵,闪灵,Shining,Шайнинг
 char-16,玛嘉烈,玛嘉烈,Margaret,Маргарет
 char-17,娜汀,娜汀,Nadine,Надин
 char-18,曼弗雷德,曼弗雷德,Manfred,Манфред
-char-19,特雷西斯,特雷西斯,Theresis,Тересис
+char-19,特雷西斯,特雷西斯,Theresis,Терезис
 ,,,,
 line-13,垂死的感染者,呼......呼......咳......,"Huff, huff... *cough*...",Ху... Ху... кха...
 line-15,垂死的感染者,你又来了......阿米娅。,You're here again... Amiya.,Ты снова пришла... Амия.
@@ -32,9 +32,9 @@ line-21,垂死的感染者,但我看不见了......从昨天起就看不见了�
 line-23,阿米娅,......,...,...
 line-25,阿米娅,我有办法了！我先进来——,"Oh, I know! I'll come in—",Я придумала! Я сейчас зайду внутрь —
 line-27,垂死的感染者,不要进来，我随时可能会——,Don't. I might just—,"Не заходи, я в любой момент могу..."
-line-29,阿米娅,没事的，姐姐，你忘了？我也是感染者。而且，巴别塔的医生都在附近，他们会照顾好我们的。,"It's alright, Miss. I'm Infected too, remember? Babel's doctors are close, so I'm sure they'll take good care of us.","Все в порядке, сестренка, ты забыла? Я ведь тоже инфицировання. К тому же врачи Вавилона рядом, они позаботятся о нас."
+line-29,阿米娅,没事的，姐姐，你忘了？我也是感染者。而且，巴别塔的医生都在附近，他们会照顾好我们的。,"It's alright, Miss. I'm Infected too, remember? Babel's doctors are close, so I'm sure they'll take good care of us.","Все в порядке, сестренка, ты забыла? Я ведь тоже инфицирована. К тому же врачи Вавилона рядом, они позаботятся о нас."
 line-31,阿米娅,姐姐，快把手给我，我画给你看！,"Miss, give me your hand, and I'll draw it out for you!","Сестренка, дай мне руку, я покажу тебе рисунок!"
-line-33,,小卡特斯轻轻拉起病床上感染者的手——黑色的晶石爬满了她的身躯，晶体内流转着源石迷人的色彩。,"The tiny Cautus gently takes the hand of the Infected patient lying on the sickbed into her own—Black crystals cover her entire body, an enchanting Originite sheen circulating inside the crystals.","Маленькая Каттус осторожно взяла за руку инфицированую, лежавшую на койке — её тело было покрыто черными кристаллами, внутри которых переливались чарующие цвета Ориджиниума."
+line-33,,小卡特斯轻轻拉起病床上感染者的手——黑色的晶石爬满了她的身躯，晶体内流转着源石迷人的色彩。,"The tiny Cautus gently takes the hand of the Infected patient lying on the sickbed into her own—Black crystals cover her entire body, an enchanting Originite sheen circulating inside the crystals.","Маленькая Каутус осторожно взяла за руку инфицированую, лежавшую на койке — её тело было покрыто черными кристаллами, внутри которых переливались чарующие цвета Ориджиниума."
 line-34,,阿米娅知道，这对感染者意味着什么。她早已见过。,Amiya knows what this means for an Infected. She has seen it before.,"Амия знала, что это значит для инфицированных. Она уже видела это раньше."
 line-35,,她的手指在感染者的手掌上认真地划动着。,Her finger earnestly traces a shape on the patient's palm.,Её пальцы старательно выводили узор на ладони инфицированной.
 line-37,阿米娅,姐姐，你说家人给你起的名字是一种你从没见过的花。,You said the name you got from your parents is a flower you've never seen.,"Сестренка, ты говорила, что имя, которое дала тебе семья — это цветок, которого я никогда не видела."
@@ -59,7 +59,7 @@ line-70,,阿米娅，那时的你，也才刚刚跟随博士来到巴别塔。,"
 line-71,,我仍然记得，那天你坐在隔离舱的门口等了很久，你不肯离开。,"I still remember you sat at the door of the quarantine cabin for a long time, persistently refusing to move.","Я до сих пор помню, как ты долго сидела у дверей изоляционной камеры, отказываясь уходить."
 line-72,,博士找到了沉默的你，坐在你的身边陪着你。直到被博士抱在怀里，你才忍不住哭了出来。,"The Doctor found you in silence, and sat down to join you. You only started crying when the Doctor hugged you.","Доктор нашел тебя, молчаливую, и сел рядом, чтобы составить компанию. Лишь когда Доктор взял тебя на руки, ты не выдержала и заплакала."
 line-73,,我那时也多想把你抱在怀里，但我不忍打扰你们。,"I too, wanted to hold you in my arms, but I couldn't bear to disturb you both.","Мне тогда тоже так хотелось обнять тебя, но я не посмела помешать вам."
-line-74,,阿米娅......你是一个聪明的孩子。你明明知道，那位感染者不会再回来。,Amiya... you're a bright child. You knew that Infected would never return.,"Амия... ты умный ребенок. Ты прекрасно знала, что та инфицировання уже не вернется."
+line-74,,阿米娅......你是一个聪明的孩子。你明明知道，那位感染者不会再回来。,Amiya... you're a bright child. You knew that Infected would never return.,"Амия... ты умная девочка. Ты прекрасно знала, что та инфицированная уже не вернётся."
 line-75,,她不想让你看到她的离去，那对一个孩子而言太残忍。但她不知道，你远比她想象的要坚强。,She didn't want you to see her leave. It would be too cruel for a child to witness. But she didn't know just how strong you are.,"Она не хотела, чтобы ты видела её уход — для ребенка это слишком жестоко. Но она не знала, что ты куда сильнее, чем она могла вообразить."
 line-76,,我从你温柔的眼神中看到了很多东西。你想帮助他们......,I see many things from your gentle eyes. You want to help them...,Я многое прочла в твоем нежном взгляде. Ты хотела помогать им...
 line-77,,不论种族，不论是否是感染者，在你的眼里，他们都是鲜活而可爱的人。,"No matter their race or Infection status—you see them all as lively, lovely people.","Неважно, какая у них раса, инфицированы они или нет — в твоих глазах они все были живыми и дорогими людьми."
@@ -155,7 +155,7 @@ line-285,特蕾西娅,唔，虽然当年是想要等到卡兹戴尔的命运尘�
 line-287,W,等等，殿下，等等！我，我......没懂......,"Wait, Your Highness! Hold on, I, I... still don't get...","Подождите, Ваше Величество, подождите! Я... я не поняла..."
 line-289,W,让我缓缓！不对，我应该记下来！,"Give me some time! Wait, no! I should be writing this down!","Дайте мне прийти в себя! Нет, я должна это записать!"
 line-291,W,算了，不管了，我准备好了！,"Screw it, I don't care anymore! I'm ready!","Да плевать, я готова!"
-line-293,特蕾西娅,“维什戴尔”。,'Wiš'adel'.,«Виш'дэль».
+line-293,特蕾西娅,“维什戴尔”。,'Wiš'adel'.,«Вишадель».
 line-295,W,......,...,...
 line-297,特蕾西娅,......会有点难记吗？,...Will that be hard to remember?,...Сложно запомнить?
 line-299,W,......怎么会。,How could it be?,...Как можно.
@@ -166,10 +166,10 @@ line-307,特蕾西娅,嗯。卡兹戴尔的命运，可以请你代我去看看�
 line-309,W,可......我......您......特雷西斯......,But... I... you... Theresis...,Но... я... вы... Терезис...
 line-311,特蕾西娅,卡兹戴尔的未来握在你们的手中，而不是我和特雷西斯。,"Kazdel's future is in your hands. Not mine, nor Theresis's.","Будущее Каздель в ваших руках, а не в моих или Терезиса."
 line-313,特蕾西娅,等到了那一天，你会明白的。,You'll understand when the day comes.,"Когда настанет этот день, ты поймешь."
-line-315,维什戴尔,哈哈......好！维什戴尔......维什——戴尔......,Haha... Alright! Wiš'adel... Wiš'a—del...,Ха-ха... хорошо! Виш'дэль... Виш—дэль...
+line-315,维什戴尔,哈哈......好！维什戴尔......维什——戴尔......,Haha... Alright! Wiš'adel... Wiš'a—del...,Ха-ха... хорошо! Вишадель... Виш—дэль...
 line-317,维什戴尔,我记住了，我会用一辈子记住的！,It's engraved onto my brain forever. I'll never forget it!,"Я запомнила, я буду помнить это всю свою жизнь!"
 line-319,维什戴尔,我喜欢这个名字，比赫德雷扔给我的字典上拽的字眼都强多了。,I like it. Sounds so much better than the names Hoederer threw at me from his dictionary.,"Мне нравится это имя, оно круче любых слов, которые Хедри кидал мне из словаря."
-line-321,维什戴尔,凯尔希，阿米娅，戴兜帽的，都听到了吗？以后我就叫维什戴尔了。你们一个个都别叫错。,"Kal'tsit, Amiya, and you in the hood. Heard that? Call me Wiš'adel from now on. And you'd better not get it wrong.","Келси, Амия, и ты, в капюшоне, вы слышали? Отныне я Виш'дэль. И попробуйте только перепутать."
+line-321,维什戴尔,凯尔希，阿米娅，戴兜帽的，都听到了吗？以后我就叫维什戴尔了。你们一个个都别叫错。,"Kal'tsit, Amiya, and you in the hood. Heard that? Call me Wiš'adel from now on. And you'd better not get it wrong.","Келси, Амия, и ты, в капюшоне, вы слышали? Отныне я Вишадель. И попробуйте только перепутать."
 line-323,维什戴尔,还有，我刚刚决定去军事委员会楼下，用炸弹再拼一遍我的名字。这样以后谁见了都忘不掉。,"Also, I just decided to head down to the Military Commission later and bomb my name out with explosives. That way, nobody'll ever forget it.",А ещё я только что решила пойти под здание Военного совета и выложить свое имя бомбами. Чтобы никто и никогда его не забыл.
 line-325,维什戴尔,或者去楼顶。我要让爆炸的火光，传得很远很远，远到就连伦蒂尼姆都......,Or maybe the roof's better. I want the flames to spread so far you can even see it from Londinium...,"Или на крышу. Я хочу, чтобы отблески взрывов видели издалека, настолько далеко, чтобы даже в Лондиниуме..."
 line-327,阿米娅,......维什......戴尔。,Wiš'a...del.,...Виш— дэль.
@@ -209,7 +209,7 @@ line-400,特蕾西娅,谢谢你。,Thank you.,Спасибо тебе.
 line-401,凯尔希,......,...,...
 line-402,阿米娅,特蕾西娅小姐......在消失......,Theresa... she's disappearing...,Госпожа Тереза... исчезает...
 line-403,维什戴尔,消失？小兔子你在胡说什么，殿下不是还在吗？我明明抱着她——,"She's what? Bunny, what kinda nonsense is that? Isn't Her Highness with us right now? I'm even hugging—","Исчезает? Маленький кролик, что ты несешь, разве Ваше Величество не здесь? Я ведь её держу —"
-line-404,特蕾西娅,维什戴尔，你已经实现了你所有的心愿不是吗......,"Wiš'adel, haven't you achieved what you wanted to do...?","Виш'дэль, ты ведь исполнила все свои желания, не так ли..."
+line-404,特蕾西娅,维什戴尔，你已经实现了你所有的心愿不是吗......,"Wiš'adel, haven't you achieved what you wanted to do...?","Вишадель, ты ведь исполнила все свои желания, не так ли..."
 line-405,特蕾西娅,见到我，战胜我，最终杀死我。,"You met, defeated me, and finally, killed me.","Найти меня, победить меня, в конце концов убить меня."
 line-406,特蕾西娅,不必留恋。,It's time to let go.,Не нужно привязанностей.
 line-407,特蕾西娅,我将彻底离去，不会再存在于任何你们所能见到的地方。,"I will leave without a trace, and no longer exist anywhere you can see.","Я ухожу навсегда и не останусь ни в одном из мест, где вы могли бы меня встретить."
@@ -316,16 +316,16 @@ line-666,特蕾西娅,博士，我得走了，你们也是......,"Doctor, I have
 line-668,特蕾西娅,如果不想永远困在这无尽的虚无中。,"If you have no intention of being trapped in this infinite nothingness for all eternity, that is.",Если не хотите вечно быть запертыми в этой бесконечной пустоте.
 line-670,特蕾西娅,再见，Dr.{@nickname}。,"Goodbye, Dr. {@nickname}.","Прощай, Доктор {@nickname}."
 line-672,特蕾西娅,我未曾谋面的，挚友。,My dear friend whom I've never met.,"Мой дорогой друг, с которым мы не успели познакомиться."
-line-683,,——特蕾西娅！,—Theresa!,— Терезия!
+line-683,,——特蕾西娅！,—Theresa!,— Тереза!
 line-685,,没有回应。,There is no response.,Никакого ответа.
 line-686,,高塔顶上，那个白色的身影，已经消失不见。,The white figure atop the tower has vanished.,На вершине высокой башни та белая фигура исчезла.
 line-687,,什么都没有留下。,Nothing remains.,Не осталось ничего.
-line-689,阿米娅,特蕾西娅小姐......她离开了。,Theresa... She's gone.,Госпожа Терезия... она ушла.
+line-689,阿米娅,特蕾西娅小姐......她离开了。,Theresa... She's gone.,Госпожа Тереза... она ушла.
 line-691,维什戴尔,......啊。,...Oh.,...ах.
 line-693,凯尔希,博士，刚刚你看到了什么？,"Doctor, what did you see?","Доктор, что ты только что увидел?"
-line-696,,特蕾西娅......告诉了我......,Theresa... told me...,Терезия... рассказала мне...
+line-696,,特蕾西娅......告诉了我......,Theresa... told me...,Тереза... рассказала мне...
 line-698,,她是一个怎样的人。;我是一个怎样的人。,What kind of person she was.;What kind of person I am.,Каким человеком была она. И каким человеком был я.
-line-700,,我找到了......“阿喃那”的位置。,I found it... where 'Amnannam' is.,Я нашел... местоположение «Ананты».
+line-700,,我找到了......“阿喃那”的位置。,I found it... where 'Amnannam' is.,Я нашел... местоположение «Ананны».
 line-707,,我们会就此离去。,We'll leave this place.,Мы уйдём отсюда.
 line-708,,信息涌动的浪涛已停歇。,The waves of information have subsided.,Волны информационного потока стихли.
 line-709,,你听到众魂远去的歌声了吗，女妖——,"Do you hear the voices of the myriad souls departing, Banshee—","Слышишь ли ты песню уходящих душ, Банши —"
@@ -423,12 +423,12 @@ line-878,,挽歌自他的唇边响起，他亦准备踏着水面走去。,An ele
 line-879,,年轻的女妖为众魂送行。,The young Banshee sends the myriad souls off.,Юный Банши провожал души в путь.
 line-889,“灵幛”,（含糊不清的萨卡兹语）......离去......宗长......,(Indistinct Sarkaz language) ...Leave... Patriarch...,(Неразборчивый сарказийский язык) ...уход... глава...
 line-891,孽茨雷,她走了。,She is gone.,Она ушла.
-line-893,孽茨雷,（古老的萨卡兹语）“阿喃那”已绽放，命运已握于我们手中。,"(Ancient Sarkaz language) 'Amnannam' has bloomed, destiny already in our hands.","(Древний сарказийский язык) «Ананта» расцвела, судьба теперь в наших руках."
+line-893,孽茨雷,（古老的萨卡兹语）“阿喃那”已绽放，命运已握于我们手中。,"(Ancient Sarkaz language) 'Amnannam' has bloomed, destiny already in our hands.","(Древний сарказийский язык) «Ананна» расцвела, судьба теперь в наших руках."
 line-895,孽茨雷,她兑现了她的承诺，战争亦需向她颔首。,"She honored her vow, so the war will also abide by her.","Она сдержала своё обещание, и войне тоже придется склониться перед ней."
 line-897,孽茨雷,去吧，不必再匿身于雾中。用死亡浇灌死亡，用胜利纪念离别。,"Go, no longer shroud yourself with the fog. Water death with death, and honor departure with victory.","Ступайте, больше не нужно прятаться в тумане. Поливайте смерть смертью, а прощание отмечайте победой."
 line-899,孽茨雷,维多利亚的哀悼......我亲自替她来取。,Victoria's condolences... I shall personally receive it in her stead.,Траур Виктории... я возьму его на себя лично.
 line-908,,蓝色的羽兽啄食着白角恶魔的眼泪。,The blue fowlbeast pecks at the tears of the white-horned demon.,Синяя птица клевала слезы белого рогатого демона.
-line-909,,她轻抚着羽兽眉间的绒羽，灵魂本就被虚无填满的夜莺又能否感受到那份离去的痛苦呢？,She caresses the fowlbeast's feathers on its brow—Can Nightingale's inherently empty soul feel the pain of that departure?,"Она нежно погладила пушок между бровей птицы; сможет ли Соловей, чья душа и так заполнена пустотой, почувствовать ту боль утраты?"
+line-909,,她轻抚着羽兽眉间的绒羽，灵魂本就被虚无填满的夜莺又能否感受到那份离去的痛苦呢？,She caresses the fowlbeast's feathers on its brow—Can Nightingale's inherently empty soul feel the pain of that departure?,"Она нежно погладила пушок между бровей птицы; сможет ли Найтингейл, чья душа и так заполнена пустотой, почувствовать ту боль утраты?"
 line-911,闪灵,丽兹......你能感受到吗？,Liz... did you feel that?,Лиз... ты чувствуешь это?
 line-913,闪灵,这份来自灵魂的悸动，回响在我们脑海中的呢喃哀曲。,"The throbbing in our souls, lamenting whispers echoing in our minds.","Эту дрожь из самой души, этот печальный мотив, что эхом отдается в нашем сознании."
 line-916,,熟睡的丽兹眼角微动，无法给出回应。,"The corners of Liz's eyes twitch minutely, unable to respond in her deep slumber.","Спящая Лиз едва заметно шевельнулась, не в силах ответить."
@@ -467,16 +467,16 @@ line-995,曼弗雷德,殿下，这就是您所说的代价吗......？,"Your Hig
 line-997,曼弗雷德,为了萨卡兹的未来......,For the Sarkaz's future...,Ради будущего сарказов...
 line-1006,特雷西斯,从今往后，连源石中也不再会有你存在过的痕迹......,"From today onwards, there will be no trace of your existence anywhere, even within Originium...",Отныне даже в Ориджиниуме не останется следов твоего существования...
 line-1008,特雷西斯,你会在那条路的尽头见到他们吗？“神明”，或是自诩为造物主的傲慢生灵......,"The 'gods', or the arrogant being professing to be the creator...","Встретишь ли ты их в конце того пути? «Боги» или высокомерные существа, называющие себя творцами..."
-line-1010,特雷西斯,......特蕾西娅？,Will you see them at the end of your path... Theresa?,...Терезия?
+line-1010,特雷西斯,......特蕾西娅？,Will you see them at the end of your path... Theresa?,...Тереза?
 line-1012,特雷西斯,在我感觉到你与我擦肩而过的那个瞬间之后，我便越发听不清你的声音。,"After I felt you brushing past me, your voice has turned harder to hear.","С того момента, как я почувствовал, что ты прошла мимо меня, я все хуже и хуже слышал твой голос."
 line-1014,特雷西斯,如今，我只能从周围的空洞中听到沉闷无趣的杂音。,"All I hear now from the void surrounding me is muffled, vapid noise. ",Теперь я могу слышать лишь тупые и скучные шумы в окружающих пустотах.
 line-1016,特雷西斯,前路已通，这里的一切到了该结束的时候了。,"The path ahead is clear, and it's time for everything to end.","Путь открыт, и всему здесь пора подойти к концу."
-line-1018,特雷西斯,特蕾西娅——,Theresa—,Терезия —
+line-1018,特雷西斯,特蕾西娅——,Theresa—,Тереза —
 line-1024,,“你是否还能听见我的声音......”,'Can you still hear my voice...?',«Можешь ли ты ещё слышать мой голос...»
 line-1029,,我能听见。,I can.,Я слышу.
 line-1030,,你的、新生的、将死去的......在这里，我们能听见所有萨卡兹的声音......,"Yours, the newborns, and the dying ones... here, we can hear the voice of every Sarkaz...","Твой, новорожденных, тех, кто умрёт... здесь мы слышим голоса всех сарказов..."
 line-1031,,灵魂搁浅在无意识的海洋中，在溺亡前呼喊我们的名字，期待着指引。,"The souls are stranded in an ocean of unconsciousness, shouting our names before they drown as they await guidance.","Души, выброшенные на мель в океане бессознательного, кричат наши имена перед тем, как утонуть, ожидая наставления."
-line-1032,,在不会存在于任何时间记录的现在，我们回应最多的名字......是“特蕾西娅”。,"In a present no longer recorded anywhere in time, the name we respond to the most... is 'Theresa'.","В настоящем, которое не будет записано ни в одной временной летописи, имя, на которое мы отвечаем чаще всего... это «Терезия»."
+line-1032,,在不会存在于任何时间记录的现在，我们回应最多的名字......是“特蕾西娅”。,"In a present no longer recorded anywhere in time, the name we respond to the most... is 'Theresa'.","В настоящем, которое не будет записано ни в одной временной летописи, имя, на которое мы отвечаем чаще всего... это «Тереза»."
 line-1033,,我能听见万余年前自星海中坠入冰原的骸骨所激荡出的轰鸣。未知，恐惧，震撼人心。,"I can hear the raging rumbling from skeletons that fell from the sea of stars into the ice field ten thousand years ago. Unknown, dreadful, terrifying.","Я слышу гул, поднятый костями, упавшими из звездного моря на ледяные равнины десять тысяч лет назад. Неизвестность, ужас, потрясающий сердца."
 line-1034,,我们终结了于彼时起便烙印在血脉中的压迫......不，我们未曾终结。,"We have ended the oppression that was branded into our blood from that time onward... No, we have yet to do so.","Мы положили конец гнету, что был запечатлен в крови ещё тогда... нет, мы не закончили."
 line-1035,,那我们的反抗是否有意义？我们向我们自己发出质疑。,We questioned ourselves: Did our resistance hold any meaning then?,Был ли смысл в нашем сопротивлении? Мы сами задаем себе этот вопрос.
@@ -495,7 +495,7 @@ line-1065,,熔炉焚烧死亡而撒下的黑色尘埃落在了脆弱的花瓣上
 line-1066,,死亡与光明，在此相聚。女孩为燃烧死亡而创造的美落下了泪。,"Here, death and light congregate. The girl shed tears at the beauty created by setting death aflame.","Смерть и свет встретились здесь. Девочка проронила слезу из-за красоты, созданной для сжигания смерти."
 line-1067,,那一天之后，路过魂灵熔炉的萨卡兹们看到一个女孩每天出现在这里，为一朵生长在源石尘埃与骨骸余烬中的鲜花浇灌露滴。,"After that day, Sarkaz passing by the Soul Furnace would see a girl show up every single day to water a flower growing in the Originium dust and bones with drops of dew.","После того дня сарказы, проходившие мимо горна душ, видели девочку, которая каждый день приходила сюда, чтобы поливать росой цветок, выросший из пыли Ориджиниума и пепла костей."
 line-1068,,她向光明献礼，直到花朵枯萎死去的那一天。,She offered tribute to the light until the day that flower withered and died.,"Она приносила дар свету до самого того дня, когда цветок увял и умер."
-line-1077,,“这就是童话的结局吗......特蕾西娅小姐？为什么会如此哀伤呢？”,"'Is that how the story ends...? Why is it so sad, Theresa?'",«Это конец сказки... госпожа Терезия? Почему он такой печальный?»
+line-1077,,“这就是童话的结局吗......特蕾西娅小姐？为什么会如此哀伤呢？”,"'Is that how the story ends...? Why is it so sad, Theresa?'",«Это конец сказки... госпожа Тереза? Почему он такой печальный?»
 line-1078,,“哀伤吗？我看到的，反倒是希望已至的喜悦，阿米娅。”,"'Sad? I actually see it as a happy tale of hope arriving, Amiya.'","«Печальный? Я же вижу радость от пришедшей надежды, Амия»."
 line-1079,,“花朵枯萎，归于尘土。但新生的种子也已经种下。”,"'The flower withered, returned to dust. But the seed of new life has already been sown.'",«Цветок увял и вернулся в прах. Но семена новой жизни уже посажены».
 line-1084,维什戴尔,......他被抛下了？,...Did the revenant get left behind?,...его бросили?
@@ -507,7 +507,7 @@ line-1094,凯尔希,我无从得知。,I have no way of knowing.,Мне неве
 line-1096,维什戴尔,呵......看来殿下也不是不会骗人嘛......,Heh... so it's not like Her Highness can't lie...,"Хм... кажется, Ваше Величество тоже не так уж плоха во лжи..."
 line-1098,维什戴尔,老东西，没想到最后你还是落到了我的手上。,"I didn't expect you to end up in my hands, old fossil.","Старушка, не думала, что в итоге ты все-таки попадешь ко мне в руки."
 line-1100,阿米娅,W小姐，我们已经没有必要再伤害他了。,"There's no reason to harm him anymore, W.","Госпожа W, у нас уже нет необходимости причинять ему вред."
-line-1102,维什戴尔,说了叫我维什戴尔！,I told you to call me Wiš'adel!,Я же просила называть меня Виш'дэль!
+line-1102,维什戴尔,说了叫我维什戴尔！,I told you to call me Wiš'adel!,Я же просила называть меня Вишадель!
 line-1104,维什戴尔,放轻松，小兔子，我没准备砸了他......我只是要带他走。,"Relax, bunny. I'm not going to smash him to bits... I'm just taking him away with me.","Расслабься, маленький кролик, я не собираюсь его ломать... я просто хочу забрать его с собой."
 line-1106,维什戴尔,老东西死过一次了，殿下让他活过来的想法不难猜。,"He already died once, so it's not hard to guess why Her Highness let him remain here.","Старик уже однажды умирал, несложно догадаться, зачем Ваше Величество вернула его к жизни."
 line-1108,维什戴尔,她至死都渴求萨卡兹的团结，她对死魂灵的安排很简单——,"Up 'til her death she always craved for the Sarkaz to unite, so her plan for the revenants is super simple—","Она до самой смерти жаждала единства сарказов, её план насчет мёртвых душ был прост —"
@@ -516,27 +516,27 @@ line-1112,维什戴尔,你也不必再烧来烧去了，你们的使命早该结
 line-1114,维什戴尔,嘁，暂时先在这把武器里待一会儿吧。,"Bah, just stay in this weapon for the time being, yeah?","Цыц, побудь пока в этом оружии."
 line-1119,,“还记得那个小布人的故事吗，阿米娅？他走进了泪水汇成的大河，沉入河底......”,"'Do you still remember the story about the puppet, Amiya? He went into a river of tears, and sank to the riverbed...'","«Помнишь историю о маленьком тряпичном человечке, Амия? Он вошел в великую реку слез и утонул на дне...»"
 line-1120,,“哀伤，绝望......可这并非就一定是真正的结局。故事本就可以无限延伸，更关键的，是讲故事的人。”,"'Grief, despair... But it doesn't mean it's a true ending set in stone. You can always continue a story for as long as you want, but what's more important, is the storyteller.'","«Печаль, отчаяние... но это не обязательно истинный финал. Истории могут тянуться бесконечно, главное — это рассказчик»."
-line-1121,,“讲故事的人......您是在说您自己吗，特蕾西娅小姐？”,"'The storyteller... are you talking about yourself, Theresa?'","«Рассказчик... Вы говорите о себе, госпожа Терезия?»"
+line-1121,,“讲故事的人......您是在说您自己吗，特蕾西娅小姐？”,"'The storyteller... are you talking about yourself, Theresa?'","«Рассказчик... Вы говорите о себе, госпожа Тереза?»"
 line-1122,,“我？不......阿米娅，我更希望，那个人是你。”,"'Me? No... Amiya, I'd prefer the storyteller be you.'","«Я? Нет... Амия, я больше надеюсь, что этим человеком станешь ты»."
 line-1127,阿米娅,等等，我们难道要从上来的地方原路返回？这能做到吗？,"Hold on, do we have go back to where we came from to leave? Is that possible?","Погодите, мы что, должны возвращаться той же дорогой, которой пришли? Это возможно?"
 line-1129,凯尔希,来不及，这里变化的速度比我想象中要快。,We won't have time. This place is changing faster than I expected.,"Слишком поздно, изменения здесь происходят быстрее, чем я предполагала."
 line-1131,维什戴尔,兜帽人，你和老女人本来的计划是什么？我们怎么从这个鬼地方出去？,So what are you and the crone planning? How the hell are we leaving this place?,"Человек в капюшоне, какой план у вас с этой старой женщиной? Как нам выбраться из этой дыры?"
 line-1134,,我还在尝试！,I'm still trying to figure that out!,Я ещё пытаюсь!
 line-1137,维什戴尔,（掏出炸药）,(Takes out explosives),(Достает взрывчатку)
-line-1139,阿米娅,维什戴尔，别激动！,Wiš'adel! Calm down!,"Виш'дэль, не горячись!"
+line-1139,阿米娅,维什戴尔，别激动！,Wiš'adel! Calm down!,"Вишадель, не горячись!"
 line-1141,凯尔希,博士，我无法向你述说离开的原理，毕竟其中的奥秘连我都无法触及。,"Doctor, I cannot tell you how to leave this place. The secrets in here are beyond even me.","Доктор, я не могу объяснить вам принцип выхода, в конце концов, тайны этого недоступны даже мне."
-line-1143,凯尔希,但我相信，特蕾西娅一定已经向你提及了其中的关键。,But I believe Theresa definitely mentioned a piece of key information to you.,"Но я верю, что Терезия наверняка уже упомянула тебе о самом главном."
+line-1143,凯尔希,但我相信，特蕾西娅一定已经向你提及了其中的关键。,But I believe Theresa definitely mentioned a piece of key information to you.,"Но я верю, что Тереза наверняка уже упомянула тебе о самом главном."
 line-1150,维什戴尔,又他妈怎么了！,NOW WHAT?!,"Что опять случилось, черт возьми!"
-line-1152,阿米娅,博士，凯尔希医生，快看！这些根系在破碎，它们......正在向上飘浮？！,"Doctor, Dr. Kal'tsit! These roots are breaking apart, and... floating upwards?!","Доктор, доктор Кельси, смотрите! Эти корни разрушаются, они... они поднимаются вверх?!"
-line-1177,,“特蕾西娅小姐，或许，小布人从来都不是一个人呢......泪水的大河之下，小布人的同伴们早就等在那里！”,"'Theresa, what if... the puppet was never alone in the first place...? Maybe his companions were waiting for him down there all along!'","«Госпожа Терезия, возможно, тряпичный человечек никогда не был один... Под великой рекой слез его друзья уже ждали его!»"
-line-1178,,“就像我们。博士，凯尔希医生，您......还有巴别塔的大家一样！”,"'Just like us. Doctor, Dr. Kal'tsit, and you... and everyone in Babel!'","«Как и мы. Доктор, доктор Кельси, вы... и все в Вавилоне!»"
+line-1152,阿米娅,博士，凯尔希医生，快看！这些根系在破碎，它们......正在向上飘浮？！,"Doctor, Dr. Kal'tsit! These roots are breaking apart, and... floating upwards?!","Доктор, доктор Кальцит, смотрите! Эти корни разрушаются, они... они поднимаются вверх?!"
+line-1177,,“特蕾西娅小姐，或许，小布人从来都不是一个人呢......泪水的大河之下，小布人的同伴们早就等在那里！”,"'Theresa, what if... the puppet was never alone in the first place...? Maybe his companions were waiting for him down there all along!'","«Госпожа Тереза, возможно, тряпичный человечек никогда не был один... Под великой рекой слез его друзья уже ждали его!»"
+line-1178,,“就像我们。博士，凯尔希医生，您......还有巴别塔的大家一样！”,"'Just like us. Doctor, Dr. Kal'tsit, and you... and everyone in Babel!'","«Как и мы. Доктор, доктор Кальцит, вы... и все в Вавилоне!»"
 line-1179,,“有许许多多的小石头人，白的，黑的，青的，红的......好多好多。”,"'Little people made of pebbles, white, black, green, red... a whole lot of them!'","«Там было множество маленьких каменных человечков: белых, чёрных, зеленых, красных... очень много»."
 line-1180,,“他们会紧紧围住小布人，带着他顺着汹涌河水的冲击远去——”,'They'll surround the puppet and bring him far away following the fierce river waters—',"«Они тесно обступали тряпичного человечка, неся его вдоль течения бурной реки —»"
 line-1181,,“唔，可他们能去哪呢......？”,'Hm... but where can they go...?',"«М-м, но куда же они могут отправиться...?»"
 line-1200,凯尔希,我们所在的这个平台在“下坠”。,We are currently 'falling' from this platform.,"Платформа, на которой мы стоим, «опускается»."
-line-1202,凯尔希,“她”......终于意识到了特蕾西娅做了什么。,'She'... finally noticed what Theresa has done.,"«Она»... наконец осознала, что сделала Терезия."
+line-1202,凯尔希,“她”......终于意识到了特蕾西娅做了什么。,'She'... finally noticed what Theresa has done.,"«Она»... наконец осознала, что сделала Тереза."
 line-1204,凯尔希,这座塔正在被抹除。这些被组合起来的有序信息正被重新打散。,This tower is being erased. All the information that was organized and put together here is being broken apart.,"Эта башня стирается. Информация, что была собрана в упорядоченную структуру, разлетается вновь."
-line-1206,阿米娅,凯尔希医生，可我还能感知到特蕾西娅小姐，就好像她还存在于这些逸散的信息中......,"But I can still feel Theresa's presence here, as if she still exists within the scattered information...","Доктор Кельси, но я все ещё чувствую госпожу Терезию, как будто она существует в этих рассеивающихся потоках информации..."
+line-1206,阿米娅,凯尔希医生，可我还能感知到特蕾西娅小姐，就好像她还存在于这些逸散的信息中......,"But I can still feel Theresa's presence here, as if she still exists within the scattered information...","Доктор Кальцит, но я все ещё чувствую госпожу Терезу, как будто она существует в этих рассеивающихся потоках информации..."
 line-1208,阿米娅,无处不在，却又迅速消散——,"Everywhere, although it's vanishing quickly—","Вездесущая, но стремительно исчезающая —"
 line-1210,凯尔希,她在抵抗......众魂在抵抗。,She's fighting against it... as are the myriad souls.,Она сопротивляется... души сопротивляются.
 line-1212,维什戴尔,兜帽人，再动动你的脑袋！连我们站的地方都在崩溃了！,"Get your head moving, hood! Even the platform we're on is breaking apart!","Человек в капюшоне, пошевели мозгами! Даже место, где мы стоим, рушится!"
@@ -550,20 +550,20 @@ line-1227,,我没有看到罗德岛舰船！;......Logos呢？,I don't see the l
 line-1240,Logos,舰船已随海浪的平静被一同拂去。,The landship got swept away with the ocean waves when it was coming to a calm.,Корабль ушел вместе с тишиной морских волн.
 line-1241,Logos,但我仍在，可为你们撑起渡船。,"But I remain, and I will be your ferry.","Но я все ещё здесь, могу стать для вас переправой."
 line-1242,Logos,博士，我说过，待我们重聚时，这里将风平浪静。,"I told you, Doctor. We will reunite in peace and tranquility.","Доктор, я сказал, когда мы встретимся вновь, здесь будет тихо и спокойно."
-line-1253,,“我想到了！我知道小布人最后去了哪里，特蕾西娅小姐！”,"'I got it! I know where the puppet will go, Theresa!'","«Я придумала! Я знаю, куда в итоге попал тряпичный человечек, госпожа Терезия!»"
+line-1253,,“我想到了！我知道小布人最后去了哪里，特蕾西娅小姐！”,"'I got it! I know where the puppet will go, Theresa!'","«Я придумала! Я знаю, куда в итоге попал тряпичный человечек, госпожа Тереза!»"
 line-1254,,“小布人被小石头人们簇拥着，顺着泪水的长河前行——”,'The pebble people will take the puppet along the river of tears—',"«Тряпичного человечка обступили каменные человечки, и они двинулись по реке слез —»"
 line-1261,,<color=#000000>“{@nickname}。”</color>,<color=#000000>'{@nickname}.'</color>,<color=#000000>«{@nickname}».</color>
 line-1268,,“尽管他们被河底的暗流冲击得头昏眼花，但他们只要仍然没有放弃，手拉手站在一起......”,"'Even if they get dizzy from the river's current, as long as they don't give up and stay together hand in hand...'","«Хотя подводные течения кружили их так, что кружилась голова, но пока они не сдавались и стояли, держась за руки...»"
 line-1269,,“他们就不会在悲伤的泪水中迷失——”,'They'll never get lost within the tears of sadness—',«Они не терялись в слезах печали —»
 line-1275,,<color=#000000>“当你对一切都感到困惑的时候，你会想起——答案一直都在这里。”</color>,"<color=#000000>'When you are truly confused by everything, you will remember: the answers you seek were here all along.'</color>","<color=#000000>«Когда ты во всем сомневаешься, вспоминай — ответ всегда был здесь».</color>"
 line-1279,,......我想，我知道该怎么出去了。,...I think I figured out how to leave.,"...думаю, я знаю, как выбраться."
-line-1284,阿米娅,特蕾西娅小姐，真的是你在指引我吗？博士——,"Theresa, are you the one guiding us? Doctor—","Госпожа Терезия, это правда вы направляете меня? Доктор —"
+line-1284,阿米娅,特蕾西娅小姐，真的是你在指引我吗？博士——,"Theresa, are you the one guiding us? Doctor—","Госпожа Тереза, это правда вы направляете меня? Доктор —"
 line-1287,,（点头）,(Nods),(Кивает)
 line-1289,,你和阿米娅同时下意识地抬起了手。,You and Amiya subconsciously raise your hands at the same time.,Ты и Амия одновременно подняли руки.
 line-1290,,寂静的空间中，一艘熟悉的舰艇便自信息之海中升起。,"Within the silent space, a familiar ship rises from the sea of information.",В безмолвном пространстве знакомый корабль поднялся из информационного моря.
 line-1291,,飞空艇，那艘本已破碎的舰艇已随你们的心意重构，悬停于你们的脚下。,"The airship that was supposedly shattered into pieces is reconstructed anew according to your intentions, hovering below you.","Летающий корабль, тот, что уже был разрушен, пересобрался по вашему желанию и завис под вашими ногами."
 line-1292,,你和阿米娅看向了遥远虚空中的巨大菱形......,The both of you gaze at the giant diamond shape in the distant void...,Ты и Амия посмотрели на огромный ромб в далекой пустоте...
-line-1293,,源石。真相。普瑞赛斯。特蕾西娅。,Originium. Truth. Priestess. Theresa.,Ориджиниум. Истина. Приес. Терезия.
+line-1293,,源石。真相。普瑞赛斯。特蕾西娅。,Originium. Truth. Priestess. Theresa.,Ориджиниум. Истина. Приес. Тереза.
 line-1294,,“我们该离开这里了。”,'It's time we left this place.',«Нам пора уходить отсюда».
 line-1295,,飞空艇已加速冲撞上去，撕开虚无，进入光明。,"The airship accelerates forward, tearing apart the void as it enters the light.","Летающий корабль ускорился и врезался в пустоту, разрывая её и входя в свет."
 line-1298,,“小布人和他的朋友们不知道时间过去了多久，但哪怕他们都已经很累很累也没有放弃......”,"'The puppet and his friends don't know how much time has passed, but they never give up, even though they're super tired...'","«Тряпичный человечек и его друзья не знали, сколько времени прошло, но они не сдавались, даже если были очень-очень уставшими...»"

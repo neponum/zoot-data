@@ -22,7 +22,7 @@ char-15,摩根,摩根,Morgan,Морган
 char-16,戴菲恩,戴菲恩,Delphine,Дельфина
 char-17,希勒少尉,希勒少尉,Shearer,Лейтенант Ширер
 char-18,达格达,达格达,Dagda,Дагда
-char-19,Misery,Misery,Misery,Мизери
+char-19,Misery,Misery,Misery,Misery
 char-20,欢呼的市民,欢呼的市民,Cheering Civilian,Ликующий горожанин
 ,,,,
 line-13,,恐惧，我们对其有天然的耐受性，就像植物能适应那些足以糜烂自己根茎的化肥。,"Fear. It's a tolerance that we are naturally born with, just like how plants are able to adapt to soil that make havoc of their own rootstocks.","Страх — мы обладаем к нему естественной устойчивостью, подобно тому как растения привыкают к удобрениям, способным разъесть их корни."
@@ -41,7 +41,7 @@ line-53,玛格达尔,这里是我的家。,This is my home.,Это мой дом
 line-54,玛格达尔,你是有新的订单吗？我可以连昨天的花一并送过去。,Do you have a new order for me? I can bring it to you along with the flowers last night.,"У тебя новый заказ? Я могу доставить его вместе с цветами, которые не принесла вчера."
 line-56,王庭军尉官,......你今后不用再为那些订单操心了。,...You don't have to worry about those orders anymore.,...Тебе больше не нужно беспокоиться о заказах.
 line-57,王庭军尉官,我是来向你告别的。,I'm here to say goodbye.,Я пришел попрощаться.
-line-58,王庭军尉官,我即将前往食腐者之王阁下的军团中......作战。,I'm leaving soon... to fight as part of the Nachzehrer King's army...,Я отправляюсь в легион Короля Пожирателей... сражаться.
+line-58,王庭军尉官,我即将前往食腐者之王阁下的军团中......作战。,I'm leaving soon... to fight as part of the Nachzehrer King's army...,Я отправляюсь в легион Короля падальщиков... сражаться.
 line-60,玛格达尔,......,......,...
 line-62,玛格达尔,好吧......,Alright...,Понятно...
 line-64,玛格达尔,再见。如果这是你想听到的问候。,"Goodbye, if that's what you wanted to hear from me.",Прощай. Если ты хотел это услышать.
@@ -129,12 +129,12 @@ line-320,？？？,队长，我抓住她了！,"Captain, I got her!","Капит
 line-321,？？？,所有人注意！抓稳滑索，不要接触地面！,"Everyone, hold onto the ropes as tight as you can. Do not touch the ground, no matter what!","Всем внимание! Крепче держитесь за тросы, не касайтесь земли!"
 line-322,？？？,赶紧救人！,Hurry and help them!,"Быстрее, спасайте остальных!"
 line-338,洛洛,玛格达尔小姐，现在还不能睡哦！,"Magdelene, you can't fall asleep!","Мисс Магдаль, сейчас спать нельзя!"
-line-342,玛格达尔,洛洛小姐？,Rockrock?,Мисс Лоло?
+line-342,玛格达尔,洛洛小姐？,Rockrock?,Мисс Рокрок?
 line-347,费斯特,这家伙可真沉！,This guy's so heavy!,Ну и тяжелая же она!
 line-350,昏迷的市民,唔......,Mmm...,Мгм...
 line-352,玛格达尔,费斯特先生......自救军......怎么会？,Feist... The Self-Salvation Corps... Why are you...?,Мистер Фест... Отряды самообороны... Как вы здесь оказались?
 line-357,费斯特,我们看到镇里大白天放烟花就猜到出事了！我们昨天打开的缺口被封上了，但你们的那门礼炮炸出了新的路线。,"We figured something went wrong when we saw fireworks in the middle of the day! They sealed the wall we blew open yesterday, but that cannon gave us a new path.","Мы увидели фейерверк среди бела дня и поняли, что что-то стряслось! Вчерашний пролом заделали, но ваша пушка пробила новый путь."
-line-359,费斯特,抓紧洛洛的手，玛格达尔！我们的战斗部队不足，只能先带着大家尽快撤退！,"Hold onto Rockrock's hand, Magdelene! Our forces don't have enough manpower, and we're bringing everyone to evacuate as soon as we can!","Держись крепче за руку Лоло, Магдаль! У нас мало боевых сил, мы можем только быстро увести всех отсюда!"
+line-359,费斯特,抓紧洛洛的手，玛格达尔！我们的战斗部队不足，只能先带着大家尽快撤退！,"Hold onto Rockrock's hand, Magdelene! Our forces don't have enough manpower, and we're bringing everyone to evacuate as soon as we can!","Держись крепче за руку Рокрок, Магдаль! У нас мало боевых сил, мы можем только быстро увести всех отсюда!"
 line-361,洛洛,喔哦！费斯特，你改良后的滑索速度好像更快了！,"Woahh! Feist, your zipline's even faster after those modifications you made!","Ого! Фест, твои улучшенные тросы стали ещё быстрее!"
 line-363,洛洛,对了，芙蕾达镇长在哪？我们没找到她的位置。,"Right, where is Mayor Freda? We haven't been able to locate her.","Кстати, а где староста Фрида? Мы её не нашли."
 line-367,玛格达尔,......芙蕾达她——,...Freda is—,...Фрида она...
@@ -148,7 +148,7 @@ line-403,费斯特,这座小镇里的驻军正在组织反攻，他们的气势.
 line-404,费斯特,外面的老维斯还有多少炸药？他来得及支援我们吗？,How much explosive does Old Weiss still have outside? Can he make it here in time to back us up?,Сколько взрывчатки осталось у старого Виса? Он успеет нас поддержать?
 line-406,洛洛,估计不太行，除去布设滑索的成员，我们能参与战斗的人员本来就不多。,"Probably not happening. Not counting the members who laid the ziplines for us, we barely had any fighting men to begin with.","Вряд ли, если вычесть тех, кто ставит тросы, у нас почти не осталось бойцов."
 line-408,费斯特,把那几台爬行者都开起来，我们需要强行突围！,Start the Crawlers! We need to break through by force!,"Заводите «ползунов», нужно прорываться силой!"
-line-409,费斯特,洛洛，小心！你们的滑索！,"Rockrock, watch out! Your zipline!","Лоло, осторожно! Твой трос!"
+line-409,费斯特,洛洛，小心！你们的滑索！,"Rockrock, watch out! Your zipline!","Рокрок, осторожно! Твой трос!"
 line-422,洛洛,啊——,Ah—,А-а—
 line-432,洛洛,好疼——,That hurts—,Больно—
 line-434,洛洛,没事吧，玛格达尔小姐？,"Magdelene, are you okay?","Мисс Магдаль, ты в порядке?"
@@ -156,8 +156,8 @@ line-436,洛洛,你还能走吗？啧，这些恶心的玩意——,"Can you wal
 line-447,,在碎裂的大地上，猩红的蠕虫不停涌出，这些东西噬咬着一切它们能接触到的生灵，吮吸着他们的血。,"On the sundering earth, a large number of red worms keep gushing onto surface. They chew on every soul they can reach and suck their blood.","На расколотой земле извиваются алые черви, они вгрызаются во всё живое, до чего могут дотянуться, высасывая кровь."
 line-451,萨卡兹雇佣兵,这是大君的赐福，这是鲜血的王庭为我们保留的仁慈。,This is the Prince's blessing. It's the kindness the Royal Court left for us.,"Это благословение Лорда, это милость, дарованная нам Двором Крови."
 line-452,萨卡兹雇佣兵,我们体内......纯净的血脉正在苏醒，别和这些维多利亚人浪费时间了！,In our bodies... our purest blood is now awakening. Let's waste no more time on these Victorians!,"Наши чистые родословные пробуждаются, не тратьте время на этих викторианцев!"
-line-454,玛格达尔,洛洛小姐，你先走吧——,"Rockrock, you should go—","Мисс Лоло, идите без меня —"
-line-465,,这名被称作洛洛的菲林女孩抽出腰间的匕首，塞到了我的手中。,The Feline girl named Rockrock takes out a dagger from her waist and stuffs it into my hand.,Девушка-фелин по имени Лоло вытащила кинжал из пояса и вложила его мне в руку.
+line-454,玛格达尔,洛洛小姐，你先走吧——,"Rockrock, you should go—","Мисс Рокрок, идите без меня —"
+line-465,,这名被称作洛洛的菲林女孩抽出腰间的匕首，塞到了我的手中。,The Feline girl named Rockrock takes out a dagger from her waist and stuffs it into my hand.,Девушка-фелин по имени Рокрок вытащила кинжал из пояса и вложила его мне в руку.
 line-466,,\n大批萨卡兹正向我们的位置拥来。,\nA large group of Sarkaz are closing in on our location.,Огромная толпа сарказов движется в нашу сторону.
 line-470,洛洛,玛格达尔小姐，做好战斗准备。,"Magdelene, get ready to fight.","Мисс Магдаль, приготовьтесь к бою."
 line-472,洛洛,没那么难，我们以前......也都没经历过战斗。,It's not that hard. None of us... had any combat experience before.,"Это не так уж сложно, мы раньше... тоже никогда не сражались."
@@ -168,7 +168,7 @@ line-483,,\n就像......那个倒在散落花瓣中的萨卡兹尉官。,\nJust 
 line-485,,我握紧了匕首。,I grip the dagger tight.,Я крепче сжала кинжал.
 line-503,,炮声破空而来。,A shot rings out.,Грохот орудий разорвал воздух.
 line-508,洛洛,火炮？我们的炸药不是用完了吗？,Artillery fire? I thought we used up all our explosives!,Артиллерия? Но у нас же закончилась взрывчатка!
-line-518,费斯特,快，洛洛，玛格达尔小姐，趁现在！,"Quick, Rockrock, Magdelene, now!","Быстрее, Лоло, мисс Магдаль, сейчас!"
+line-518,费斯特,快，洛洛，玛格达尔小姐，趁现在！,"Quick, Rockrock, Magdelene, now!","Быстрее, Рокрок, мисс Магдаль, сейчас!"
 line-520,费斯特,我们接收到了几位老熟人的联络，他们带来了一支支援部队！他们甚至有个识别码——,We were contacted by a few old friends. They brought a whole backup unit! They even have an identification code—,"Мы получили сигнал от старых знакомых, они привели подкрепление! У них даже есть код доступа —"
 line-525,,识别码？,Identification code?,Код доступа?
 line-526,,\n是军队吗？维多利亚的军队，是了，响应战争的军队。,\nIs it the military? Victorian... Right... the military is responding to the war.,"Это армия? Викторианская армия, точно, армия, откликнувшаяся на призыв к войне."
@@ -189,11 +189,11 @@ line-591,推进之王,让战车尽量抵近法阵的核心，我来搞定那东�
 line-596,摩根,维娜！,Vina!,Вина!
 line-601,推进之王,你们还有其他的任务。,You have other tasks.,У вас другие задачи.
 line-602,推进之王,所有人员按照常规部署整队。摩根，汉娜，你们和号角小姐按原计划指挥战车开路。,"All units, follow regular deployment formation. Morgan, Hannah, follow Horn's orders and cut open a path for the tank.","Всем по штатным позициям. Морган, Ханна, вы с Хорн по плану прокладываете путь броневиком."
-line-603,推进之王,希勒少尉、达格达、戴菲恩，麻烦你们指挥地面编队组织防线，拦住那些血魔大君的小虫。,"Lieutenant Shearer, Dagda, Delphine, take command of the ground forces and form a defensive line. Stop the Sanguinarch's worms.","Лейтенант Хиллер, Дагда, Дефен, прошу вас командовать наземными группами, создайте оборону и задержите этих тварей Пожирателя крови."
+line-603,推进之王,希勒少尉、达格达、戴菲恩，麻烦你们指挥地面编队组织防线，拦住那些血魔大君的小虫。,"Lieutenant Shearer, Dagda, Delphine, take command of the ground forces and form a defensive line. Stop the Sanguinarch's worms.","Лейтенант Хиллер, Дагда, Дельфина, прошу вас командовать наземными группами, создайте оборону и задержите этих червей Сангвиниара."
 line-609,戴菲恩,放心。,I'm on it.,Будет сделано.
 line-616,希勒少尉,收到。,Acknowledged.,Принято.
 line-623,达格达,收到。,Acknowledged.,Принято.
-line-628,推进之王,Misery先生，敌方部队的指挥官交给你了。,"Mr. Misery, I'll leave the commander of the enemy forces to you.","Мистер Мизери, командир вражеских сил — на вас."
+line-628,推进之王,Misery先生，敌方部队的指挥官交给你了。,"Mr. Misery, I'll leave the commander of the enemy forces to you.","Мистер Misery, командир вражеских сил — на вас."
 line-634,Misery,你大胆执行你的计划即可。,All you need to do is boldly execute your plan.,Можешь смело приступать к выполнению плана.
 line-640,推进之王,费斯特，好久不见，寒暄放在之后。我需要自救军帮我布置滑索到法阵上方。,"Feist, it's been a while. We shall exchange pleasantries later. I need the Self-Salvation Corps to help set up a zipline that will take me above the Arts Circle.","Фест, давно не виделись, любезности потом. Мне нужно, чтобы отряды самообороны помогли мне натянуть тросы над кругом."
 line-642,费斯特,没问题！,On it!,Без проблем!

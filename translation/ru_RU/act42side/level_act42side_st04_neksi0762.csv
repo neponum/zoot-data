@@ -10,12 +10,12 @@ char-6,莱茵职员B,莱茵职员B,Rhine Staff B,Сотрудник Рейна �
 char-7,幽灵,幽灵,The Presence,Присутствие
 char-8,慌乱的青年,慌乱的青年,Frantic Youth,Встревоженный юноша
 char-9,卡谢娜,卡谢娜,Koshelna,Кошельна
-char-10,感染者,感染者,Infected,Заражённый
+char-10,感染者,感染者,Infected,Инфицированный
 char-11,希尔达,希尔达,Hierda,Хьерда
 char-12,海嗣,海嗣,Seaborn,Морерождённый
 ,,,,
 line-9,,你终于确定，现实中那场声势浩大的迁徙已经结束。,You have determined that the momentous migration has come to a conclusion in reality.,"Наконец ты понял, что та масштабная миграция в реальности завершилась."
-line-10,,迁徙的结果同样映射在了你们所在的空间——那道仿佛被天灾犁过的鸿沟横亘在大教堂前。鸿沟旁，是一个更醒目的深坑。,"That conclusion has been mapped onto the space you are in. The rift that looks as if it has been plowed open by a Catastrophe bisects the plaza in front of the Basilica. By the rift, there is an even more eye-grabbing pit.","Итоги миграции отразились и на пространстве, где ты находился: разлом, который выглядит так, словно его расчистила Катастрофа, разделяет площадь перед Базиликой. Рядом с разломом находится еще более впечатляющая яма."
+line-10,,迁徙的结果同样映射在了你们所在的空间——那道仿佛被天灾犁过的鸿沟横亘在大教堂前。鸿沟旁，是一个更醒目的深坑。,"That conclusion has been mapped onto the space you are in. The rift that looks as if it has been plowed open by a Catastrophe bisects the plaza in front of the Basilica. By the rift, there is an even more eye-grabbing pit.","Итоги миграции отразились и на пространстве, где ты находился: разлом, который выглядит так, словно его расчистила Катастрофа, разделяет площадь перед Базиликой. Рядом с разломом находится ещё более впечатляющая яма."
 line-11,,在这本应静滞的城市，它们像是丑陋的疤痕。,Ugly scars in what should have been a city trapped in stasis.,"В этом городе, что должен был застыть в вечном покое, они выглядят как уродливые шрамы."
 line-12,,而环形的机器在其中沉默——,The ring-shaped machine sits silently within.,А кольцевой механизм молчит посреди них —
 line-14,普瑞赛斯,……,......,...
@@ -31,7 +31,7 @@ line-31,Mon3tr,（无论如何，我们必须想办法阻止她改写局面。�
 line-34,Mon3tr,没错。它的结构绝对能扛住天使们所能制造的任何冲击能量，毕竟它是以能在更严酷的环境中运行而被设计的。,"You're right. Its structure would definitely have been able to withstand any attacks the angels can execute. It was designed to operate in even harsher environments, after all.","Вы правы. Его конструкция определённо смогла бы выдержать любые атаки ангелов. В конце концов, он был разработан для работы в ещё более суровых условиях."
 line-35,Mon3tr,（普瑞赛斯理应有能力重启PCS系统。必须阻止她。）,(Priestess should be able to reactivate it. We need to stop her from doing that.),(Жрица должна быть способна перезапустить систему PCS. Нам нужно помешать ей это сделать.)
 line-38,Mon3tr,呼，抱歉，博士。,"*sigh* Sorry, Doctor.","*Вздох*, простите, Доктор."
-line-39,Mon3tr,我应该独自过来执行这次任务，尽量不让你涉险的——,I should've come alone to carry out this mission. I never should've let you take on this risk—,"Мне следовало прийти одной, чтобы выполнить эту миссию. Мне ни в коем случае не следовало позволять вам брать на себя такой риск…"
+line-39,Mon3tr,我应该独自过来执行这次任务，尽量不让你涉险的——,I should've come alone to carry out this mission. I never should've let you take on this risk—,"Мне следовало прийти одной, чтобы выполнить эту миссию. Мне ни в коем случае не следовало позволять вам брать на себя такой риск..."
 line-42,,你已经习惯站在我身前了，Mon3tr。,"You're used to standing in front of me by now, Mon3tr.","Ты уже привыкла вставать передо мной, Mon3tr."
 line-44,,（微笑）;谢谢。,(Smile);Thanks.,(Улыбнуться);Спасибо.
 line-47,Mon3tr,欸？,Huh?,А?
@@ -45,7 +45,7 @@ line-67,,迟疑片刻后，Mon3tr松开了你的手臂，但还是紧紧地跟�
 line-68,,你与普瑞赛斯并肩而立。,You stand shoulder-to-shoulder with Priestess.,Ты встал рядом со Жрицей.
 line-71,,这些城市的伤痕如此不和谐。;你放任这些冗余参数混杂在你的数据中。,This city's scars are rather inharmonious.;You've allowed these redundant parameters to mix with your data.,Шрамы этого города довольно негармоничны.;Ты позволяешь этим избыточным параметрам смешиваться с твоими данными.
 line-74,普瑞赛斯,{@nickname}，那些不起眼的字符，最终使得整个程序瘫痪……我们没法保证一套语言能够永远完美地运行下去。,"These unremarkable strings ultimately caused the entire program to crash, {@nickname}. There is no guaranteeing a language will operate in eternal perfection.","Эти ничем не примечательные строки в конечном итоге привели к сбою всей программы, {@nickname}. Нет никакой гарантии, что язык будет работать в вечном совершенстве."
-line-76,普瑞赛斯,我知道你想说什么，即使是源石，这套由我们创造的语言也依旧存在局限。,"I know what you want to say. Even Originium, the language we created together, has limitations.","Я знаю, что ты хочешь сказать. Даже в Ориджиниуме, в этом языке, который мы создали, все ещё существуют ограничения."
+line-76,普瑞赛斯,我知道你想说什么，即使是源石，这套由我们创造的语言也依旧存在局限。,"I know what you want to say. Even Originium, the language we created together, has limitations.","Я знаю, что ты хочешь сказать. Даже в Ориджиниуме, в этом языке, который мы создали, всё ещё существуют ограничения."
 line-78,普瑞赛斯,它需要更多的时间去调整，去自我迭代。,It needs more time to adjust and iterate.,Ему нужно больше времени на адаптацию и доработку.
 line-80,普瑞赛斯,甚至有时我会忍不住胡思乱想，真正限制源石向完美形态演化的因素，或许并非其自身的设计瑕疵……而是我们自己。,Sometimes I cannot help but wonder if what is truly stopping Originium from reaching perfection is not a design flaw... but us.,"Иногда я даже не могу удержаться от мыслей о том, что фактор, действительно ограничивающий развитие Ориджиниума до идеальной формы, возможно, не его собственные проектные дефекты... а мы сами."
 line-82,普瑞赛斯,人类的感性，抑或理性，都有可能为语言的发展套上枷锁。,Human emotion and reason are both able to fetter the development of a language.,"И человеческие эмоции, и разум способны препятствовать развитию языка."
@@ -54,10 +54,10 @@ line-86,普瑞赛斯,好在我们都接受这一不确定性存在于源石之�
 line-89,,……我并不理解你的意思。,...I don't understand your meaning.,"...Я не понимаю, что ты имеешь в виду."
 line-92,普瑞赛斯,……记忆损伤可能也影响到了你发散思考的能力？,Has memory loss affected your ability for divergent thinking?,"...Возможно, повреждение памяти также повлияло на твою способность к дивергентному мышлению?"
 line-94,普瑞赛斯,不过能看到你困惑的样子，我很开心。这与过往我和{@nickname}的交流模式截然不同。,"I'm glad to see you so perplexed, though. It is a marked difference from how I used to communicate with {@nickname}.",Но я рада видеть твое замешательство. Это кардинально отличается от прежней модели общения между мной и {@nickname}.
-line-96,普瑞赛斯,完美，意味着确定的上限。但缺陷，却意味着我们仍有突破的可能性。这是{@nickname}的主张。,"Perfection' implies a strict upper bound. 'Flaw', on the other hand, means we still have the chance for a breakthrough. This was {@nickname}'s stance on the matter.","«Совершенство» подразумевает строгий верхний предел. «Недостаток», с другой стороны, означает, что у нас еще есть шанс на прорыв. Такова была позиция {@nickname} по этому вопросу."
-line-98,普瑞赛斯,当我们必须解决的危机尚且无法言明时，所谓的完美只是自掘坟墓。,"When the crisis we must resolve is still inexplicable, chasing perfection will only lead us to our graves.","Когда кризис, который мы должны разрешить, все еще необъясним, погоня за совершенством приведет нас только к могиле."
+line-96,普瑞赛斯,完美，意味着确定的上限。但缺陷，却意味着我们仍有突破的可能性。这是{@nickname}的主张。,"Perfection' implies a strict upper bound. 'Flaw', on the other hand, means we still have the chance for a breakthrough. This was {@nickname}'s stance on the matter.","«Совершенство» подразумевает строгий верхний предел. «Недостаток», с другой стороны, означает, что у нас ещё есть шанс на прорыв. Такова была позиция {@nickname} по этому вопросу."
+line-98,普瑞赛斯,当我们必须解决的危机尚且无法言明时，所谓的完美只是自掘坟墓。,"When the crisis we must resolve is still inexplicable, chasing perfection will only lead us to our graves.","Когда кризис, который мы должны разрешить, всё ещё необъясним, погоня за совершенством приведёт нас только к могиле."
 line-101,,不，这和眼下的情况并无关系。,"No, this has nothing to do with the current circumstances.","Нет, это никак не связано с текущими обстоятельствами."
-line-105,,你……根本无法改变局面。;这次与我们在甲板上的初遇不一样。,You... can't change this situation.;This is different from our first encounter on the deck.,Ты...  не можешь изменить ход ситуации.;Этот раз отличается от нашей первой встречи на палубе.
+line-105,,你……根本无法改变局面。;这次与我们在甲板上的初遇不一样。,You... can't change this situation.;This is different from our first encounter on the deck.,Ты... не можешь изменить ход ситуации.;Этот раз отличается от нашей первой встречи на палубе.
 line-108,普瑞赛斯,……,......,...
 line-110,普瑞赛斯,什么时候意识到的？,When did you figure it out?,Когда ты это осознал?
 line-113,,就在刚刚。,Just now.,Только что.
@@ -102,21 +102,21 @@ line-232,Mon3tr,呃，所以这算是结束了？,"Umm... I guess that's it, the
 line-235,,也许吧。,Perhaps.,Возможно.
 line-239,,萨科塔们自己解决了这场危机。,The Sanktas resolved their crisis by themselves.,Санкты разрешили свой кризис самостоятельно.
 line-243,,我也确定了普瑞赛斯目前的状态。,I've also confirmed Priestess's current condition.,Я также подтвердил текущее состояние Жрицы.
-line-247,,她对源石权限的失控比我们预想的更严重。,Her loss of control over Originium is more serious than we thought.,"Потеря ею контроля над Оригиниумом оказалась серьезнее, чем мы думали."
+line-247,,她对源石权限的失控比我们预想的更严重。,Her loss of control over Originium is more serious than we thought.,"Потеря ею контроля над Ориджиниумом оказалась серьезнее, чем мы думали."
 line-250,Mon3tr,博士，这是非常珍贵的情报！,"That's really important information, Doctor!","Это действительно важная информация, Доктор!"
 line-251,Mon3tr,虽然无法确定她恢复到正常状态还需要多长时间，但至少，我们有了阻止她的可能性。,"While we can't be sure how long she'll need to get back to normal, at the very least, we have a chance to stop her.","Хотя и невозможно определить, сколько времени ей ещё потребуется для восстановления до нормального состояния, по крайней мере, у нас появилась возможность остановить её."
 line-253,Mon3tr,对了，她刚才提到的……凯尔希……,"Oh, right, she mentioned... Kal'tsit... earlier...","Ах да, она же упоминала... Кальцит... раньше..."
 line-256,,Mon3tr，我并不信任普瑞赛斯。;我们不应向源石许愿，哪怕是为了凯尔希……,"I don't trust her, Mon3tr.;We shouldn't wish upon Originium, even if it's for Kal'tsit.","Mon3tr, я не доверяю ей.;Мы не должны загадывать желания Ориджиниуму, даже если это ради Кальцит..."
 line-259,Mon3tr,……我知道。我也不会同意用她所说的方式带回凯尔希。,I know. I don't approve of using her methods to bring back Kal'tsit either.,...Я знаю. Я тоже не одобряю использование её методов для возвращения Кальцит.
-line-261,Mon3tr,她给罗德岛、给拉特兰造成了惨痛的损失，她的每一次出现都在刷新我们的认知，也指向更不可知的危机……我看不透她。,"She inflicted grievous wounds on Rhodes Island and Laterano. Every time she appears, she drops something mind-blowing on us, and then points toward some even more unknowable crisis... I don't understand her at all.","Она нанесла ужасающий ущерб Родосу и Латерано. Каждый раз, когда она появляется, она обрушивает на нас что-то ошеломляющее, а затем указывает на какой-то еще более непостижимый кризис... Я совершенно ее не понимаю."
+line-261,Mon3tr,她给罗德岛、给拉特兰造成了惨痛的损失，她的每一次出现都在刷新我们的认知，也指向更不可知的危机……我看不透她。,"She inflicted grievous wounds on Rhodes Island and Laterano. Every time she appears, she drops something mind-blowing on us, and then points toward some even more unknowable crisis... I don't understand her at all.","Она нанесла ужасающий ущерб Родосу и Латерано. Каждый раз, когда она появляется, она обрушивает на нас что-то ошеломляющее, а затем указывает на какой-то ещё более непостижимый кризис... Я совершенно её не понимаю."
 line-264,,我们已经研究了那么久……,We've been researching a long time now.,Мы проводим исследования уже давно.
 line-266,,我们有自己的方法。,We have our own methods.,У нас есть свои методы.
 line-269,Mon3tr,我们接下来要走的，会是一段很长的路，对吧？,"We're going to be setting out on a really long road, aren't we?","Нам предстоит очень долгий путь, не так ли?"
 line-272,,……,......,...
 line-274,,你终于注意到了Mon3tr的异常。敌人已经退去，危机已经解除，可这个原本活泼的少女却一反常态地没有露出笑容……,"You finally notice what's odd about Mon3tr. Your enemy has retreated, the crisis has passed, but the young woman, normally so lively and energetic, does not smile like she usually does.","Ты наконец заметил необычное поведение Mon3tr. Враг отступил, кризис миновал, но эта некогда живая девушка, вопреки ожиданиям, не улыбнулась..."
 line-275,,她的表情甚至有些凝重。,She even looks somewhat solemn.,Её выражение лица даже казалось несколько серьезным.
-line-276,,Mon3tr重构的时间还太短，你并未完全适应她如今的模样，她也还没来得及去适应发生在自己身上的变化和那些痛入骨髓的失去……,"Mon3tr hasn't been reconstructed for very long. You still haven't gotten completely used to her new appearance, nor has she had the time to adapt to the changes in her body, or the loss that cut her to the bone.","С момента реконструирования Mon3tr прошло слишком мало времени, ты ещё не до конца привык к её нынешнему облику, да и у нее самой не было времени адаптироваться к изменениям в теле или к потере, которая потрясла ее до глубины души."
-line-277,,可她又太快地投入到了一项又一项任务中，重建罗德岛、救援拉特兰……或许直到现在，她才终于有机会说些什么。,"But she has been thrown into mission after mission far too quickly. Rebuilding Rhodes Island, saving Laterano... Perhaps it has taken up until now for her to finally have the chance to speak her mind.","Но она слишком быстро бросалась от одной задачи к другой: восстановление Родоса, спасение Латерано... Возможно, только сейчас у нее появилась возможность наконец высказать свои мысли."
+line-276,,Mon3tr重构的时间还太短，你并未完全适应她如今的模样，她也还没来得及去适应发生在自己身上的变化和那些痛入骨髓的失去……,"Mon3tr hasn't been reconstructed for very long. You still haven't gotten completely used to her new appearance, nor has she had the time to adapt to the changes in her body, or the loss that cut her to the bone.","С момента реконструирования Mon3tr прошло слишком мало времени, ты ещё не до конца привык к её нынешнему облику, да и у неё самой не было времени адаптироваться к изменениям в теле или к потере, которая потрясла её до глубины души."
+line-277,,可她又太快地投入到了一项又一项任务中，重建罗德岛、救援拉特兰……或许直到现在，她才终于有机会说些什么。,"But she has been thrown into mission after mission far too quickly. Rebuilding Rhodes Island, saving Laterano... Perhaps it has taken up until now for her to finally have the chance to speak her mind.","Но она слишком быстро бросалась от одной задачи к другой: восстановление Родоса, спасение Латерано... Возможно, только сейчас у неё появилась возможность наконец высказать свои мысли."
 line-280,,别这么悲观，Mon3tr——;别放弃，Mon3tr——,"No need to be so pessimistic, Mon3tr—;Don't give up, Mon3tr—","Не будь такой пессимистичной, Mon3tr—;Не сдавайся, Mon3tr—"
 line-283,Mon3tr,我会带回凯尔希！,I'll bring back Kal'tsit!,Я верну Кальцит!
 line-284,Mon3tr,我也会保护阿米娅，保护你！,"I'll also protect Amiya, and you too!","Я также защищу Амию, защищу тебя!"
@@ -133,10 +133,10 @@ line-306,,Mon3tr。,Mon3tr.,Mon3tr.
 line-317,,听我说，Mon3tr。,"Listen to me, Mon3tr.","Послушай меня, Mon3tr."
 line-319,,你看着眼前的Mon3tr，缓缓开口。,"You look at her, and slowly, you begin to speak.",Ты смотришь на Mon3tr перед собой и медленно начинаешь говорить.
 line-322,,你重构身体的时间还太短……,You haven't been in your reconstructed body for very long.,С момента реконструирования твоего тела прошло совсем немного времени...
-line-326,,别给自己太多压力。;凯尔希也不会希望她的希冀变成枷锁。,Don't put too much pressure on yourself.;Kal'tsit wouldn't want her hopes to turn into chains.,"Не оказывай на себя такого сильного давления.;Кальцит не хотела бы, чтобы ее надежды превратились в цепи."
+line-326,,别给自己太多压力。;凯尔希也不会希望她的希冀变成枷锁。,Don't put too much pressure on yourself.;Kal'tsit wouldn't want her hopes to turn into chains.,"Не оказывай на себя такого сильного давления.;Кальцит не хотела бы, чтобы её надежды превратились в цепи."
 line-329,Mon3tr,呃……我想你误会了，博士。,"Err... I think you're misunderstanding something, Doctor.","Эм... Мне кажется, вы что-то неправильно поняли, доктор."
 line-331,Mon3tr,……,......,...
-line-333,Mon3tr,虽然我一直记得我刚苏醒的时候，你对我说完“欢迎回来”后，竟然就掉头走掉了……,"I'll always remember how, when I awoke, you just turned around and walked away after giving me a 'welcome back'...","Хотя я все ещё помню, как когда я только пробудилась, ты сказал мне «С возвращением» и тут же развернулся и ушел..."
+line-333,Mon3tr,虽然我一直记得我刚苏醒的时候，你对我说完“欢迎回来”后，竟然就掉头走掉了……,"I'll always remember how, when I awoke, you just turned around and walked away after giving me a 'welcome back'...","Хотя я всё ещё помню, как когда я только пробудилась, ты сказал мне «С возвращением» и тут же развернулся и ушел..."
 line-336,,唔……;抱歉，Mon3tr。,"Oh...;Sorry, Mon3tr.","Ох...;Прости, Mon3tr."
 line-339,Mon3tr,没关系，我需要时间去适应彼此依存了千万年的共生体的消失，你也需要时间去接受一个并肩战斗那么久的同伴的离开，以及……,"It's fine, it's fine. I needed time to get used to not being in a symbiotic relationship after thousands of years, and you needed time to accept the loss of someone you've fought beside for such a long time. And now...","Ничего страшного. Мне нужно время, чтобы смириться с исчезновением симбиоза, в которым я сосуществовала тысячи лет, и вам нужно было время, чтобы смириться с потерей человека, который так долго сражался возле вас. А теперь..."
 line-340,Mon3tr,我们正站在彼此面前。,"We're both standing here, right in front of one another.",Мы сейчас стоим друг перед другом.
@@ -188,8 +188,8 @@ line-470,,普瑞赛斯只是暂时消失了而已……;普瑞赛斯很快便会
 line-483,,转化程序已中止。,Transfiguration suspended.,Программа Преобразования прервана.
 line-484,,相关权限人员创建的任务序列已完结。,Set of directives assigned by personnel with relevant privileges have been completed.,"Выполнен набор директив, назначенных персоналом с соответствующими привилегиями."
 line-485,,系统关闭倒计时开始。,Beginning system shutdown timer.,Начинается обратный отсчет до выключения системы.
-line-491,普瑞赛斯,（未知语言）我核验过你的底层代码，除去我重新调整维护的部分以外，在短时间内你自行更新迭代了更多。,"(Unknown language) I've checked your low-level code. Aside from the adjustments I made during maintenance, you've performed a lot of self-upgrades and iterations within a short period of time.","(Неизвестный язык) Я проверила твой базовый код. Помимо той части, которую я перенастроила и обслуживала, за короткое время ты провел множество самообновлений и итераций за короткий период времени."
-line-493,普瑞赛斯,（未知语言）这仍不足以使你修复自身的逻辑漏洞？,(Unknown language) Was this still not enough for your self-repair functions to fix your logic vulnerability?,"(Неизвестный язык) Этого все ещё недостаточно, чтобы ты исправил собственные логические уязвимости?"
+line-491,普瑞赛斯,（未知语言）我核验过你的底层代码，除去我重新调整维护的部分以外，在短时间内你自行更新迭代了更多。,"(Unknown language) I've checked your low-level code. Aside from the adjustments I made during maintenance, you've performed a lot of self-upgrades and iterations within a short period of time.","(Неизвестный язык) Я проверила твой базовый код. Помимо той части, которую я перенастроила и обслуживала, за короткое время ты провёл множество самообновлений и итераций за короткий период времени."
+line-493,普瑞赛斯,（未知语言）这仍不足以使你修复自身的逻辑漏洞？,(Unknown language) Was this still not enough for your self-repair functions to fix your logic vulnerability?,"(Неизвестный язык) Этого всё ещё недостаточно, чтобы ты исправил собственные логические уязвимости?"
 line-497,,否定。,Negative.,Отрицательно.
 line-498,,漏洞已得到修复，悖论已得到纠正。,Vulnerability has been patched. Paradox has been corrected.,Уязвимость устранена. Парадокс исправлен.
 line-499,,…………,......,...
@@ -199,9 +199,9 @@ line-509,普瑞赛斯,（未知语言）这是超频运行的副作用？还是�
 line-511,普瑞赛斯,（未知语言）如果有更多的数据，或许我可以找到答案。,"(Unknown language) If I had more data, I might be able to find the answer.","(Неизвестный язык) Если бы у меня было больше данных, возможно, я бы нашла ответ."
 line-513,普瑞赛斯,（未知语言）可惜——我现在能调用的资源，已经不足以将你完全重启。,(Unknown language) It's a shame the resources I can allocate will not be enough to give you a complete restart.,"(Неизвестный язык) Жаль, что выделенных мной ресурсов не хватит для твоей полной перезагрузки."
 line-515,普瑞赛斯,（未知语言）否则，指挥系统因其对象的意愿而自我否定——这一现象足以重新唤起任何研究者对PCS系统的兴趣。,"(Unknown language) Otherwise, a command system's self-negation due to its target's wishes would reignite any researcher's interest in the PCS system.","(Неизвестный язык) В противном случае, самоотрицание системы управления из-за желаний цели вновь пробудило бы интерес любого исследователя к системе PCS."
-line-517,普瑞赛斯,（未知语言）……假如我们还在那个天才们用思想与主张针锋相对的时代的话。,(Unknown language) ... If only we were still in the era when geniuses used reason and opinion to clash over their views.,"(Неизвестный язык) ...Если бы мы все ещё жили в ту эпоху, когда гении сталкивались идеями и доводами."
+line-517,普瑞赛斯,（未知语言）……假如我们还在那个天才们用思想与主张针锋相对的时代的话。,(Unknown language) ... If only we were still in the era when geniuses used reason and opinion to clash over their views.,"(Неизвестный язык) ...Если бы мы всё ещё жили в ту эпоху, когда гении сталкивались идеями и доводами."
 line-520,,环形的机器不再回应，普瑞赛斯有些遗憾。,The ring-shaped machine does not respond. Priestess feels a hint of regret.,"Кольцевая машина больше не отвечала, Жрица чувствовала нотку сожаления."
-line-522,普瑞赛斯,（未知语言）看来还是需要采取其他手段来继续推进项目进程——,(Unknown language) It seems I will have to choose other methods to advance the project—,"(Неизвестный язык) Похоже, все же придется прибегнуть к иным средствам, для продвижения проекта—"
+line-522,普瑞赛斯,（未知语言）看来还是需要采取其他手段来继续推进项目进程——,(Unknown language) It seems I will have to choose other methods to advance the project—,"(Неизвестный язык) Похоже, всё же придётся прибегнуть к иным средствам, для продвижения проекта—"
 line-532,普瑞赛斯,……,......,...
 line-535,,众多机械方块组成环形的运算矩阵，它们是机器的核心部分。此刻，它们都已经陷入沉寂。,"Many mechanical cubes come together to form an annular computational matrix, the core of the machine. They sit there in stony silence.","Множество механических кубов формировали кольцевую вычислительную матрицу, они были ядром машины. Сейчас все они погрузились в тишину."
 line-536,,可是突然间，其中的一个个体开始震动，金属的辉光重新在其表面流转。,"But all of a sudden, one of the cubes begins to vibrate, a metallic gleam roaming its surface once more.","Но внезапно один из кубов начинает вибрировать, и по его поверхности снова пробегает металлический блеск."
@@ -216,19 +216,19 @@ line-551,普瑞赛斯,（未知语言）新诞生的“天使”？！怎么会�
 line-559,？？？,蕾缪乐，你手上拿的什么？,"What is that in your hand, Lemuel?","Лемуэль, что это у тебя в руке?"
 line-561,？？？,嘿嘿，喷漆罐。,Hehe. A spray can.,"Хе-хе, баллончик с краской."
 line-563,普瑞赛斯,……,......,...
-line-576,莱茵职员A,阻隔层空洞的最新检测数据已经上报给塞雷娅主任了，但里面有一项我实在是太好奇了……,"I've given the report on the latest data from the barrier hole to Director Saria, but there was something I noticed that got me real curious...","Я передал директору Сарии отчет о последних данных из отверстия в барьере , но кое-что меня очень заинтересовало…"
+line-576,莱茵职员A,阻隔层空洞的最新检测数据已经上报给塞雷娅主任了，但里面有一项我实在是太好奇了……,"I've given the report on the latest data from the barrier hole to Director Saria, but there was something I noticed that got me real curious...","Я передал директору Сарии отчет о последних данных из отверстия в барьере, но кое-что меня очень заинтересовало..."
 line-578,莱茵职员A,你看，这好像是个，奇怪的飞行物？,Look. Doesn't that look like some kind of strange flying object to you?,"Смотри, это похоже на... странный летающий объект?"
 line-580,莱茵职员B,有总辖构件科参与分析，相信很快就能有结论。,Components Control Section is analyzing it right now. We should be hearing from them soon.,В данный момент отдел контроля компонентов проводит анализ. Вскоре мы должны получить от них ответ.
 line-582,莱茵职员B,或许这会是个大发现，能够停留在接近阻隔层高度的飞行物——,A flying object that can maintain altitude close to the barrier hole would be a major discovery—,"Летающий объект, способный поддерживать высоту вблизи дыры в барьере, стал бы крупным открытием."
 line-588,,“天使”停留在阻隔层的空洞前，它试图与散落在群星中的个体恢复联系，但一无所获。,"The 'angel' hovers in front of the hole in the barrier. It attempts to reestablish a connection with the individuals scattered amongst the stars, but to no avail.","«Ангел» завис перед дырой барьера, пытаясь восстановить связь с особями, рассеянными среди звёзд, но безуспешно."
 line-589,,它能捕捉到的，唯有深空中活跃的能量体死去后留下的涟漪。,All it manages to capture are the ripples left behind by energy entities as they die in the depths of space.,"Всё, что ему удаётся запечатлеть, — это волны, оставленные энергетическими сущностями, умирающими в глубинах космоса."
-line-590,,于是它继续环绕着这片大地飞行，如同一颗永恒的流星……,"And so, it continues to orbit across the land, like a shooting star destined to never fall...","И так он продолжает вращаться над этой землёй, словно падающая звезда, которой суждено никогда не упасть…"
+line-590,,于是它继续环绕着这片大地飞行，如同一颗永恒的流星……,"And so, it continues to orbit across the land, like a shooting star destined to never fall...","И так он продолжает вращаться над этой землёй, словно падающая звезда, которой суждено никогда не упасть..."
 line-604,幽灵,（未知语言）生命的气息。,(Unknown language) The scent of life.,(Неизвестный язык) Дыхание жизни.
-line-606,幽灵,（未知语言）一片尚且年轻的土地……这是毁灭后的新生，还是死亡尚未造访过这里？,"(Unknown language) This land is still young. Is it new life flourishing in the wake of ruination, or has death not come for this place yet?","(Неизвестный язык) Эта земля еще молода. Расцветает ли новая жизнь после разрушения, или смерть еще не пришла за этим местом?"
+line-606,幽灵,（未知语言）一片尚且年轻的土地……这是毁灭后的新生，还是死亡尚未造访过这里？,"(Unknown language) This land is still young. Is it new life flourishing in the wake of ruination, or has death not come for this place yet?","(Неизвестный язык) Эта земля ещё молода. Расцветает ли новая жизнь после разрушения, или смерть ещё не пришла за этим местом?"
 line-608,幽灵,（未知语言）我不是已经被那束光所吞噬……？,(Unknown language) Wasn't I... swallowed up by that light...?,(Неизвестный язык) Разве я... не был поглощен этим светом...?
 line-613,普瑞赛斯,（未知语言）源石记录下了你的信息。,(Unknown language) Originium has recorded your information.,(Неизвестный язык) Ориджиниум записал твою информацию.
 line-615,幽灵,（未知语言）……“源石”？,(Unknown language) ... 'Originium'?,(Неизвестный язык) ...«Ориджиниум»?
-line-617,普瑞赛斯,（未知语言）在那束光来临之前，结局尚未确定。源石会成为我们的希望。,"(Unknown language) Before the light comes, the conclusion is still uncertain. Originium will become our hope.","(Неизвестный язык) До того, как прольётся свет, исход ещё неясен. Оригиниум станет нашей надеждой."
+line-617,普瑞赛斯,（未知语言）在那束光来临之前，结局尚未确定。源石会成为我们的希望。,"(Unknown language) Before the light comes, the conclusion is still uncertain. Originium will become our hope.","(Неизвестный язык) До того, как прольётся свет, исход ещё неясен. Ориджиниум станет нашей надеждой."
 line-619,幽灵,（未知语言）这里是？,(Unknown language) Where is this place?,(Неизвестный язык) Где это?
 line-621,普瑞赛斯,（未知语言）“泰拉”。,(Unknown language) 'Terra'.,(Неизвестный язык) «Терра».
 line-623,普瑞赛斯,（未知语言）同胞，我们并不孤独。,"(Unknown language) We are not alone, my friend.","(Неизвестный язык) Мы не одни, мой друг."
@@ -255,7 +255,7 @@ line-686,感染者,他们的光环已经破碎，只能驻留在原地祈祷，�
 line-688,感染者,然后你就出现在了他们的面前……一个本来在三年前就失去消息的人！,"Then you showed up right in front of them, a girl who disappeared without a trace three years ago!","И тут перед ними появилась ты, девушка, которая бесследно исчезла три года назад!"
 line-690,感染者,你也给他们带去了希望，希尔达！,"You brought them hope, Hierda!","Ты принесла им надежду, Хьерда!"
 line-692,希尔达,呼，是吗？,"Oh my, did I?","Ох, правда?"
-line-694,希尔达,我的确不想大家的希望落空……也许，能有一个固定的庇护所，我们能帮上更多的人。,"I really don't want to let everyone down... Maybe now that we have a fixed shelter, we can help even more people.","Я правда не хочу никого подвести... Может быть, теперь, когда у нас есть постоянное убежище, мы сможем помочь еще большему количеству людей."
+line-694,希尔达,我的确不想大家的希望落空……也许，能有一个固定的庇护所，我们能帮上更多的人。,"I really don't want to let everyone down... Maybe now that we have a fixed shelter, we can help even more people.","Я правда не хочу никого подвести... Может быть, теперь, когда у нас есть постоянное убежище, мы сможем помочь ещё большему количеству людей."
 line-696,感染者,但必要的安保措施还是需要的。,But we still need to take some necessary security precautions.,Но нам все равно необходимо принять некоторые меры безопасности.
 line-698,感染者,我们这样大张旗鼓地行动，总会招来一些有坏心思的人。你会很危险。,"With us pulling out all the stops for our work, we're bound to attract people up to no good. You'll be in danger.","Мы прилагаем все усилия в своей работе, и это неизбежно привлечет людей, замышляющих недоброе. Ты будешь в опасности."
 line-700,感染者,说实话，说不定我们能找到更好的办法——,"Honestly speaking, we might be able to find a better way to do this—","Честно говоря, мы могли бы найти лучший способ это сделать—"
@@ -266,7 +266,7 @@ line-707,,希尔达抬头看向远方，尽管她知道茫茫旷野不会给予�
 line-708,,然后她隐约看见了什么划过天空。,She sees something streaking across the sky.,"Она смутно увидела, как что-то промелькнуло в небе."
 line-709,,流星吗？,A shooting star?,Падающая звезда?
 line-711,希尔达,……总之，源石不该成为我们绝望的源头。,"Anyway, Originium should not be a source of despair.","...В любом случае, Ориджиниум не должен стать источником нашего отчаяния."
-line-712,希尔达,我希望为所有经受苦痛的感染者祈祷——,I would like to pray for all Infected who suffer—,"Я хотела бы помолиться за всех зараженных, которые страдают…"
+line-712,希尔达,我希望为所有经受苦痛的感染者祈祷——,I would like to pray for all Infected who suffer—,"Я хотела бы помолиться за всех инфицированных, которые страдают..."
 line-714,感染者,呃，祈祷……真的有用吗？,"Err, will praying... actually do anything?","Эмм, а молитва... действительно что-нибудь даст?"
 line-716,希尔达,也许没有。,Maybe not.,"Возможно, нет."
 line-718,希尔达,但祈祷的时候，我们会想着彼此。,"But when we pray, we will think of each other.","Но когда мы молимся, мы думаем друг о друге."
@@ -282,5 +282,5 @@ line-742,,流星吗？,A shooting star?,Падающая звезда?
 line-744,海嗣,……,......,...
 line-746,海嗣,…………,......,...
 line-749,,海嗣有一瞬间的失神，它疑惑地挪动着身体，触肢因而碰到了什么——,"The Seaborn shifts its body in confusion in response to the momentary distraction, and its appendages brush against something.","В ответ на секундную отвлеченность Морерожденный в замешательстве меняет положение тела, и его отростки задевают что-то."
-line-750,,一颗发光的黑色石头就此滚出峭壁，笔直坠入了海洋。,"A shining black rock rolls off the cliff, dropping straight down into the ocean.",Сверкающий черный камень скатывается с обрыва и падает прямо в океан.
+line-750,,一颗发光的黑色石头就此滚出峭壁，笔直坠入了海洋。,"A shining black rock rolls off the cliff, dropping straight down into the ocean.",Сверкающий чёрный камень скатывается с обрыва и падает прямо в океан.
 line-751,,海嗣试图看清那是什么，但它已被浪涛彻底吞没。,"The Seaborn tries to see what it was, but it has already been engulfed by the billowing waves.","Морерожденный пытается разглядеть, что это было, но его уже поглотили бушующие волны."

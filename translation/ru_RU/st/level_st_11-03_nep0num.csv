@@ -16,7 +16,7 @@ char-9,洛洛,洛洛,Rockrock,Рокрок
 char-10,费斯特,费斯特,Feist,Фест
 char-11,维多利亚雇佣兵,维多利亚雇佣兵,Victorian Mercenary,Викторианский наемник
 char-12,铅踝,铅踝,Totter,Тоттер
-char-13,Misery,Misery,Misery,Мизери
+char-13,Misery,Misery,Misery,Misery
 char-14,号角,号角,Horn,Хорн
 char-15,阿斯卡纶,阿斯卡纶,Ascalon,Аскалон
 char-16,阿米娅,阿米娅,Amiya,Амия
@@ -33,7 +33,7 @@ line-12,推进之王,......,......,...
 line-14,因陀罗,维娜！,Vina!,Винья!
 line-16,推进之王,我睡着了？,Did I fall sleep?,Я уснула?
 line-18,摩根,你受了不轻的伤，只晕了这么一小会，已经很不错了。,You're lucky to be out for just a little bit after your injuries.,"Ты была тяжело ранена, и то, что ты пришла в себя так быстро, — уже неплохо."
-line-20,达格达,......推进之王，自救军来接应我们了。这里还算安全，请好好休息。我们会守在你身侧。,"Siege, Self-Salvation Corps reinforcements have arrived. This place is relatively safe. Rest well; we'll be at your side.","...Принцесса, Армия самообороны прибыла, чтобы забрать нас. Здесь относительно безопасно, так что отдыхай. Мы будем охранять тебя."
+line-20,达格达,......推进之王，自救军来接应我们了。这里还算安全，请好好休息。我们会守在你身侧。,"Siege, Self-Salvation Corps reinforcements have arrived. This place is relatively safe. Rest well; we'll be at your side.","...Принцесса, Силы самообороны прибыли, чтобы забрать нас. Здесь относительно безопасно, так что отдыхай. Мы будем охранять тебя."
 line-22,推进之王,嗯......,Mm...,М-м...
 line-23,,她的目光逐一扫过同伴们的面庞。,She scans the faces of her friends.,Её взгляд по очереди скользнул по лицам товарищей.
 line-24,,所有人都和她一样伤痕累累。可是至少......她们都还活着，眼睛里也没有失去希望。,"Everyone is bruised and battered, just as she is. But they are alive, and there is still hope in their eyes.","Все они, как и она, были покрыты шрамами. Но, по крайней мере... они все живы, и в их глазах ещё не погасла надежда."
@@ -115,7 +115,7 @@ line-179,费斯特,不过，我相信很快我们的队伍又会壮大起来的�
 line-181,费斯特,毕竟......有博士和指挥官在呢。,"We have the Doctor and the commander, after all.",В конце концов... с нами Доктор и командир.
 line-184,,克洛维希娅，情况如何？;克洛维希娅，自救军还好吗？,"What's the situation, Clovisia?;How is the Corps faring, Clovisia?","Кловисия, как обстановка?; Кловисия, с Армией самообороны всё в порядке?"
 line-187,克洛维希娅,......撤退得还算及时，但伤亡依然很惨重。,"The retreat was initiated on-time, but we suffered heavy casualties.","...Отступили вовремя, но потери всё равно огромны."
-line-188,克洛维希娅,还有......阿勒黛失踪之后，自救军还将面临严峻的物资问题。,And we're facing a supply shortage after Allerdale went missing.,И ещё... после исчезновения Алледей Армия самообороны столкнётся с серьёзными проблемами со снабжением.
+line-188,克洛维希娅,还有......阿勒黛失踪之后，自救军还将面临严峻的物资问题。,And we're facing a supply shortage after Allerdale went missing.,И ещё... после исчезновения Алердея Силы самообороны столкнутся с серьёзными проблемами со снабжением.
 line-189,克洛维希娅,呼......要是有更多人手就好了......,If only we had more hands...,Ох... если бы у нас было больше людей...
 line-196,维多利亚雇佣兵,把我们也算上呗。,You've got a few here.,Запишите и нас тоже.
 line-198,克洛维希娅,铅踝先生？,Totter?,Мистер Свинцовая Лодыжка?
@@ -126,11 +126,11 @@ line-205,铅踝,而且，我们和达格达小姐她们在那个墓穴里并肩�
 line-206,铅踝,没有她们的话，我也未必能活着出来。,"I may not have made it out alive, if not for them.","Если бы не они, я бы вряд ли выбрался живым."
 line-207,铅踝,我又欠下了一份人情......退休时间得推后了。,Another debt... I guess I need to push my retirement back.,Я остался в долгу... так что выход на пенсию придётся отложить.
 line-213,Misery,......博士，我们也来了。,"Doctor, we're here.","...Доктор, мы тоже здесь."
-line-216,,你好，Misery。;你依然很准时。,"Hello, Misery.;On time as usual.","Привет, Мизари.; Ты, как всегда, пунктуален."
+line-216,,你好，Misery。;你依然很准时。,"Hello, Misery.;On time as usual.","Привет, Misery.; Ты, как всегда, пунктуален."
 line-219,号角,抱歉，我们原本还可以行动得更快一些......这样的话，说不定能在之前的指挥塔战场上帮到您。,Sorry. I wished we'd moved quicker and helped you at the command tower.,"Прошу прощения, мы могли бы двигаться быстрее... в таком случае, возможно, нам удалось бы помочь вам в битве за командную башню."
 line-221,克洛维希娅,这位是......,And you are...?,Это...
 line-223,号角,维多利亚风暴突击队第二分队指挥官号角，向您报到。,"Horn, leader of the 2nd squad of the Tempest Platoon of Victoria.",Командир 2-го отряда викторианских штурмовых сил «Хорн» прибыла по вашему приказу.
-line-224,号角,几个小时前，Misery先生协助我们突袭了位于奥克特里格区和海布里区交界处的一处监狱。,Misery helped us break into a prison at the border of Auchterigg and Highbury a few hours ago.,"Несколько часов назад мистер Мизари помог нам совершить налёт на тюрьму, расположенную на границе районов Октридж и Хайбери."
+line-224,号角,几个小时前，Misery先生协助我们突袭了位于奥克特里格区和海布里区交界处的一处监狱。,Misery helped us break into a prison at the border of Auchterigg and Highbury a few hours ago.,"Несколько часов назад мистер Misery помог нам совершить налёт на тюрьму, расположенную на границе районов Октридж и Хайбери."
 line-225,号角,我们成功解救了一支不愿为萨卡兹作战的城防军小队。他们差一点就要被处决了。,We rescued a Defense Force patrol that was about to be executed for refusing to fight for the Sarkaz.,"Мы успешно освободили отряд городской стражи, которые не хотели сражаться за сарказов. Их должны были казнить."
 line-226,号角,日后我们将与罗德岛和自救军一起行动。,We'll be operating with Rhodes Island and the Self-Salvation Corps from this point on.,Отныне мы будем действовать вместе с «Родос» и Армией самообороны.
 line-229,,克洛维希娅，看来我们有了一些新朋友。,"Looks like we have some new friends, Clovisia.","Кловисия, похоже, у нас появились новые друзья."
@@ -184,7 +184,7 @@ line-353,,能否告诉我，你看见了什么？,Can you tell me what you saw?,
 line-356,阿斯卡纶,......四年前，你命我离开本舰，执行一项任务。,"Four years ago, you sent me on a mission away from the landship.",...Четыре года назад ты приказал мне покинуть корабль для выполнения задания.
 line-357,阿斯卡纶,当我赶回来的时候，殿下已经离开我们。,Her Majesty had left us by the time I returned.,"Когда я вернулась, Её Высочество уже покинула нас."
 line-360,,当时罗德岛怎么样了？;阿米娅呢？,What was the situation at Rhodes Island?;What about Amiya?,Что тогда стало с «Родос»?; А что с Амией?
-line-363,阿斯卡纶,罗德岛必须在特雷西斯的大军围上来之前逃出去。,Rhodes Island had to escape before Theresis's army surrounded us.,"«Родос» должен был выбраться до того, как армия Тересиса окружит нас."
+line-363,阿斯卡纶,罗德岛必须在特雷西斯的大军围上来之前逃出去。,Rhodes Island had to escape before Theresis's army surrounded us.,"«Родос» должен был выбраться до того, как армия Терезиса окружит нас."
 line-366,阿斯卡纶,阿米娅刚刚继承魔王的力量，陷入了长时间的昏迷。,Amiya was in a coma after inheriting the King of Sarkaz's powers.,Амия только-только унаследовала силу Повелителя демонов и впала в глубокую кому.
 line-370,,凯尔希呢？,What about Kal'tsit?,А Кельси?
 line-373,阿斯卡纶,她要救罗德岛，救阿米娅，还要救你。,"She wanted to save Rhodes Island, save Amiya, and save you.","Она пыталась спасти «Родос», спасти Амию и спасти тебя."
@@ -197,21 +197,21 @@ line-391,,阿米娅......,Amiya...,Амия...
 line-394,,我在这里。;我不会离开你。,I'm here.;I won't leave you.,Я здесь.; Я не уйду.
 line-397,,阿米娅下意识抓住了你的衣角，又一点点松开了。,"Amiya grabs your clothing subconsciously, then slowly loosens her grip.","Амия машинально ухватилась за край вашей одежды, а затем понемногу разжала пальцы."
 line-398,,大颗大颗的泪滴从她的眼睛里涌出来。,Tears flow from her eyes.,Крупные капли слёз покатились из её глаз.
-line-399,阿米娅,特蕾西娅小姐......,Theresa...,Терезия...
+line-399,阿米娅,特蕾西娅小姐......,Theresa...,Тереза...
 line-400,阿米娅,她让我听见了......萨卡兹众魂的声音。,She showed me the voices of the Sarkaz souls.,Она дала мне услышать... голоса душ сарказов.
 line-402,阿米娅,他们要向伤害萨卡兹的所有人复仇，他们要向......凯尔希医生复仇。,They wanted to take revenge on everyone who has wronged the Sarkaz. They wanted to take revenge on Dr. Kal'tsit.,"Они хотят отомстить всем, кто причинил им вред, они хотят отомстить... доктору Кельси."
 line-405,,凯尔希？;这与她有什么关系？,Kal'tsit?;What does this have to do with her?,Кельси?; Как она с этим связана?
 line-408,阿米娅,......博士，我相信自己感受到的一切都是真实的。,"...I believe that everything I felt was real, Doctor.","...Доктор, я верю, что всё, что я чувствую — истина."
-line-409,阿米娅,我记得罗德岛上的很多个夜晚，凯尔希医生与特蕾西娅小姐的促膝长谈。,I remember how Dr. Kal'tsit and Theresa spent many nights talking at Rhodes Island.,"Я помню многие ночи на «Родос», когда доктор Кельси и Терезия беседовали по душам."
+line-409,阿米娅,我记得罗德岛上的很多个夜晚，凯尔希医生与特蕾西娅小姐的促膝长谈。,I remember how Dr. Kal'tsit and Theresa spent many nights talking at Rhodes Island.,"Я помню многие ночи на «Родос», когда доктор Кельси и Тереза беседовали по душам."
 line-410,阿米娅,我记得凯尔希医生为了救治一群萨卡兹感染者，连续一周不眠不休。,I remember how Dr. Kal'tsit went a whole week without sleeping to save a group of Sarkaz Infected.,"Я помню, как доктор Кельси не спала и не ела целую неделю, пытаясь вылечить группу инфицированных сарказов."
 line-412,阿米娅,然而......她也确实在两百年前那样伤害过萨卡兹......,"But it's true that she wronged the Sarkaz, two hundred years ago...",Однако... она действительно причинила сарказам такую боль двести лет назад...
-line-413,阿米娅,凯尔希医生一定早就给过特蕾西娅小姐她当时为何要这么做的答案。,Dr. Kal'tsit must have told Theresa why she did it at the time.,"Доктор Кельси наверняка уже дала Терезии ответ, почему она поступила именно так."
-line-414,阿米娅,特蕾西娅小姐也一定理解了，所以她们才能成为亲密无间的朋友。,"And Theresa must have accepted it, which was why they became such good friends.","Терезия наверняка поняла её, поэтому они и смогли стать близкими подругами."
+line-413,阿米娅,凯尔希医生一定早就给过特蕾西娅小姐她当时为何要这么做的答案。,Dr. Kal'tsit must have told Theresa why she did it at the time.,"Доктор Кельси наверняка уже дала Терезы ответ, почему она поступила именно так."
+line-414,阿米娅,特蕾西娅小姐也一定理解了，所以她们才能成为亲密无间的朋友。,"And Theresa must have accepted it, which was why they became such good friends.","Тереза наверняка поняла её, поэтому они и смогли стать близкими подругами."
 line-416,阿米娅,可是，即便是我......即便我那么熟悉凯尔希医生......,"But even I... even I, who knows Dr. Kal'tsit so well...","Но даже я... даже при том, что я так хорошо знаю доктора Кельси..."
 line-417,阿米娅,在感受到关于那场战争的回忆的时候，我依然感到了愤怒与悲哀。,I felt anger and sorrow when I felt the memories of the war.,"Вспоминая о той войне, я всё ещё чувствую гнев и печаль."
 line-419,阿米娅,......,........,...
-line-421,阿米娅,或许这就是特蕾西娅小姐想告诉我的。,Maybe that's what Theresa wanted to tell me.,"Возможно, это то, что Терезия хотела мне сказать."
-line-422,阿米娅,特蕾西娅小姐想告诉我，她为何与萨卡兹众魂站在一起。,Theresa wanted to tell me why she sided with the souls of the Sarkaz.,"Терезия хотела мне сказать, почему она встала на сторону душ сарказов."
+line-421,阿米娅,或许这就是特蕾西娅小姐想告诉我的。,Maybe that's what Theresa wanted to tell me.,"Возможно, это то, что Тереза хотела мне сказать."
+line-422,阿米娅,特蕾西娅小姐想告诉我，她为何与萨卡兹众魂站在一起。,Theresa wanted to tell me why she sided with the souls of the Sarkaz.,"Тереза хотела мне сказать, почему она встала на сторону душ сарказов."
 line-423,阿米娅,此时此刻，他们就在......整个伦蒂尼姆的头顶。,They are there... above Londinium.,Прямо сейчас они... над всем Лондиниумом.
 line-426,,......,......,...
 line-431,,你注意到了雷声的迫近。,The sound of thunder approaches.,Вы заметили приближение раскатов грома.

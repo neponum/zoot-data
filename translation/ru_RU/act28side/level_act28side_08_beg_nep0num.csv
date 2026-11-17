@@ -8,21 +8,21 @@ char-1,杰西卡,杰西卡,Jessica,Джессика
 char-2,里昂,里昂,Leone,Леон
 char-3,伍德洛,伍德洛,Woodrow,Вудро
 char-4,海伦娜,海伦娜,Helena,Хелена
-char-5,黑钢佣兵,黑钢佣兵,Blacksteel Mercenary,Наемник Blacksteel
+char-5,黑钢佣兵,黑钢佣兵,Blacksteel Mercenary,Наемник Блэкстил
 char-6,“桥夹”克里夫,“桥夹”克里夫,'Clip' Cliff,Клип Клифф
 char-7,秘书,秘书,Secretary,Секретарь
 char-8,芙兰卡,芙兰卡,Franka,Франка
 char-9,雷蛇,雷蛇,Liskarm,Лискарм
-char-10,烦躁的黑钢佣兵,烦躁的黑钢佣兵,Twitchy Blacksteel Mercenary,Раздраженный наемник Blacksteel
-char-11,无奈的黑钢佣兵,无奈的黑钢佣兵,Helpless Blacksteel Mercenary,Усталый наемник Blacksteel
-char-12,冷静的黑钢佣兵,冷静的黑钢佣兵,Calm Blacksteel Mercenary,Хладнокровный наемник Blacksteel
-char-13,理智的黑钢佣兵,理智的黑钢佣兵,Rational Blacksteel Mercenary,Рассудительный наемник Blacksteel
+char-10,烦躁的黑钢佣兵,烦躁的黑钢佣兵,Twitchy Blacksteel Mercenary,Раздраженный наемник Блэкстил
+char-11,无奈的黑钢佣兵,无奈的黑钢佣兵,Helpless Blacksteel Mercenary,Усталый наемник Блэкстил
+char-12,冷静的黑钢佣兵,冷静的黑钢佣兵,Calm Blacksteel Mercenary,Хладнокровный наемник Блэкстил
+char-13,理智的黑钢佣兵,理智的黑钢佣兵,Rational Blacksteel Mercenary,Рассудительный наемник Блэкстил
 char-14,迈尔斯,迈尔斯,Miles,Майлз
 char-15,本尼,本尼,Benny,Бенни
 char-16,卡尔,卡尔,Carl,Карл
 char-17,温柔的女声,温柔的女声,Gentle Female Voice,Нежный женский голос
 ,,,,
-line-13,杰西卡,顶多十分钟，黑钢的车队就会赶来。,Hold on for ten more minutes. Blacksteel's convoy will be here soon.,Через десять минут максимум прибудет конвой Blacksteel.
+line-13,杰西卡,顶多十分钟，黑钢的车队就会赶来。,Hold on for ten more minutes. Blacksteel's convoy will be here soon.,Через десять минут максимум прибудет конвой Блэкстил.
 line-15,里昂,那都不够我们跑到能源塔。,That's not going to take us to the energy tower.,"Нам этого времени не хватит, чтобы добежать до энергетической башни."
 line-17,伍德洛,我留在这里......你们先走。,I'll stay behind... Y'all go on ahead.,Я останусь здесь... Вы идите первыми.
 line-19,海伦娜,你能争取多少时间？,How much time can you buy us?,Сколько времени ты сможешь выиграть?
@@ -70,18 +70,18 @@ line-127,芙兰卡,......你是打算遵命吗？,And you're going to follow it?
 line-129,雷蛇,......芙兰卡，无论我们是要帮助他们......还是要抓捕他们，留给我们的时间都不多了。,"...We can help them, or we could take them in. But either way it's a race against time.","...Франка, неважно, хотим ли мы помочь им... или поймать их, у нас почти не осталось времени."
 line-131,雷蛇,我们必须赶在所有人之前，先找到他们。,We need to find them before anyone else does.,Мы должны найти их раньше всех остальных.
 line-144,杰西卡,海伦娜女士，里昂先生，我只能送你们到这里了。,"Helena, Leone, this is as far as I can take you.","Мисс Хелена, мистер Леон, дальше я с вами пойти не могу."
-line-145,杰西卡,载具声音不是从主街方向传来的，黑钢应该是加派人手来追捕了，和我们当初预计的一样。,"I'm hearing sounds of transports that aren't from main street. Blacksteel probably sent additional men after us, just as we anticipated.","Звук техники доносится не со стороны главной улицы, Blacksteel отправили подкрепление, как мы и ожидали."
+line-145,杰西卡,载具声音不是从主街方向传来的，黑钢应该是加派人手来追捕了，和我们当初预计的一样。,"I'm hearing sounds of transports that aren't from main street. Blacksteel probably sent additional men after us, just as we anticipated.","Звук техники доносится не со стороны главной улицы, Блэкстил отправили подкрепление, как мы и ожидали."
 line-149,海伦娜,按计划进行吗？,Are we going through with the plan?,Действуем по плану?
 line-152,杰西卡,嗯，我留在外面吸引他们。,"Yeah, I'll stay outside to lure them away.","Да, я останусь снаружи, чтобы отвлечь их."
 line-156,里昂,保重......最后这段路，交给我们就好。,Godspeed... Leave this last leg of the journey to us.,Береги себя... последний отрезок пути возьмём на себя.
 line-166,杰西卡,呼......杰西卡......,"Phew... Okay, Jessica...",Фух... Джессика...
 line-167,杰西卡,到现在，你也只能相信自己了。,Now you can only trust yourself.,Теперь ты можешь верить только в себя.
-line-178,里昂,看来黑钢拖拽地块离开也就是这几天的事情了。门口就留了几个人，他们应该是将所有人都调去接驳处做起航准备了。,Looks like Blacksteel will be dragging the plate off to the city in the next couple days. They have only a few guys guarding the door. Bet they have everyone else working on the connection.,"Похоже, буксировка участка Blacksteel начнется со дня на день. У входа осталось всего пара человек, вероятно, остальных перевели на место стыковки для подготовки к отплытию."
+line-178,里昂,看来黑钢拖拽地块离开也就是这几天的事情了。门口就留了几个人，他们应该是将所有人都调去接驳处做起航准备了。,Looks like Blacksteel will be dragging the plate off to the city in the next couple days. They have only a few guys guarding the door. Bet they have everyone else working on the connection.,"Похоже, буксировка участка Блэкстил начнется со дня на день. У входа осталось всего пара человек, вероятно, остальных перевели на место стыковки для подготовки к отплытию."
 line-180,海伦娜,正好......对付起来也不费劲。,"Perfect... Won't be too hard to deal with, then.",Отлично... разобраться с ними не составит труда.
 line-182,里昂,那几个大兵现在......？,How are those soldiers doing...?,Что с теми солдатами сейчас...?
 line-184,海伦娜,睡得正香呢，就是起来后脖子可能会痛。,Sleeping like babies. Might wake up with a sore neck though.,"Спят крепким сном, только вот после пробуждения шеи у них будут болеть."
 line-186,里昂,我们得尽快了，要炸毁动力炉，彻底封闭那条密道，这些炸药都得安装上去。,"We need to hurry. If we want to blow up the power plant and seal off that passage completely, we need to set up the explosives there.","Нам надо поторопиться. Чтобы взорвать силовую установку и полностью заблокировать тот тайный путь, нужно установить всю взрывчатку."
-line-188,海伦娜,看那些车灯......黑钢的人已经接近矿厂外围了。,Look at those car lights... the Blacksteel people must be getting close to the mine.,Посмотри на огни машин... люди Blacksteel уже подошли к окраине шахты.
+line-188,海伦娜,看那些车灯......黑钢的人已经接近矿厂外围了。,Look at those car lights... the Blacksteel people must be getting close to the mine.,Посмотри на огни машин... люди Блэкстил уже подошли к окраине шахты.
 line-190,里昂,海伦娜......你快走吧，这些事我一个人也能行。,Helena... you should go. I can take care of this by myself.,"Хелена... уходи скорее, я справлюсь с этим один."
 line-192,海伦娜,......里昂。,Leone...,...Леон.
 line-194,里昂,你的事比较要紧。,Your job is more important.,Твое дело важнее.
@@ -93,7 +93,7 @@ line-219,烦躁的黑钢佣兵,支援到了吗？,Is the backup here yet?,Под
 line-221,无奈的黑钢佣兵,还没有。,Not yet.,Ещё нет.
 line-228,烦躁的黑钢佣兵,把车停在这里吧......让剩下的人带上装备，我们从小路绕后突破。,Let's stop the car here... Have everyone still with us bring their gear. We'll go around the road and break through from there.,"Остановите машины здесь... пусть остальные возьмут снаряжение, мы обойдем по узкой тропинке и ударим в тыл."
 line-261,冷静的黑钢佣兵,前面有埋伏......,Ambush up ahead...,Впереди засада...
-line-263,理智的黑钢佣兵,看弹痕......是黑钢的蚀刻子弹，好消息，我们找到那位大小姐了。,"Going by the bullet marks... That's Blacksteel etched ammo. Good news, we found our princess.","Посмотри на следы от пуль... это травящие пули Blacksteel. Хорошие новости, мы нашли эту барышню."
+line-263,理智的黑钢佣兵,看弹痕......是黑钢的蚀刻子弹，好消息，我们找到那位大小姐了。,"Going by the bullet marks... That's Blacksteel etched ammo. Good news, we found our princess.","Посмотри на следы от пуль... это травящие пули Блэкстил. Хорошие новости, мы нашли эту барышню."
 line-265,冷静的黑钢佣兵,......把扩音器给我吧。,...Give me the amplifier.,...Дай-ка мне громкоговоритель.
 line-270,冷静的黑钢佣兵,咳咳，杰西卡小姐，不论你是出于什么理由加入这场劫案，只要你愿意配合我们的抓捕......我们是不会为难你的。,"Ahem... Miss Brynley. Whatever your reasons are for participating in this robbery, we won't make this hard on you as long as you cooperate and turn yourself in.","Кхм-кхм, мисс Джессика, неважно, по какой причине вы участвуете в этом ограблении, если вы готовы сотрудничать, мы не будем вам вредить."
 line-272,理智的黑钢佣兵,（小声）你在这里吸引她的注意力，我放出无人机侦察她的踪迹。,(Whispers) Draw her attention. I'll send out a drone to track her.,"(Тихо) Ты отвлекай её внимание, я запущу дрон для разведки её местоположения."
@@ -101,7 +101,7 @@ line-281,杰西卡,别靠近了，我不会束手就擒。,Stay back. I'm not su
 line-284,理智的黑钢佣兵,（小声）子弹是从前面那家餐馆射出的。,(Whispers) The bullet came from that diner over there.,(Тихо) Выстрелы идут из того ресторана впереди.
 line-285,理智的黑钢佣兵,（小声）我们先去部署，准备好了就开始突袭。,(Whispers) Let's get in position. We'll attack as soon as we're ready.,"(Тихо) Сначала займем позиции, как только будем готовы — начнём штурм."
 line-290,冷静的黑钢佣兵,杰西卡小姐，你可能不清楚劫案发生后你即将面临的一切，牢底坐穿、亲朋离弃、世人白眼......你真的受得了吗？,"Miss Brynley, you may not understand what's going to happen to you after this. You will be sent to prison, be abandoned by your friends and family, and society will look at you with disdain... Can you really bear all that?","Мисс Джессика, вы, возможно, не понимаете, что ждёт вас после ограбления: тюремное заключение, отречение друзей и близких, презрение мира... вы действительно это вынесете?"
-line-292,杰西卡,先生......在黑钢与大家共事那么久，我不是当初那个不谙世事的大小姐了。,"Sir... With all due respect, I've worked with everyone at Blacksteel for a long time now. I'm not the naive rich girl I used to be.","Сэр... проработав в Blacksteel так долго, я уже не та наивная барышня."
+line-292,杰西卡,先生......在黑钢与大家共事那么久，我不是当初那个不谙世事的大小姐了。,"Sir... With all due respect, I've worked with everyone at Blacksteel for a long time now. I'm not the naive rich girl I used to be.","Сэр... проработав в Блэкстил так долго, я уже не та наивная барышня."
 line-293,杰西卡,我很清楚......代价是什么。,I know better than anyone what the price of this is.,Я прекрасно понимаю... какова цена.
 line-294,杰西卡,但我还是要做......,But I still have to do it...,Но я всё равно это сделаю...
 line-295,杰西卡,有些事情，不计代价也得去做。,"There are some things you just do, no matter the price.","Есть вещи, которые нужно совершить, несмотря ни на что."
@@ -113,7 +113,7 @@ line-318,无奈的黑钢佣兵,这么远您也能听到？,He can hear us from t
 line-321,伍德洛,我待过比这里更加嘈杂的地方，都靠着这双敏锐的耳朵活了下来。,I've lived in far noisier places than this. I only survived this long thanks to my sharp ears.,"Я бывал в местах пошумнее этого, и выжил только благодаря своему чуткому слуху."
 line-325,无奈的黑钢佣兵,像您这样的传奇佣兵，想必经历一定足够震撼人心。,A legendary mercenary like you must have a lot of awe-inspiring stories to tell.,Легендарный наемник вроде вас наверняка пережил нечто по-настоящему захватывающее.
 line-328,伍德洛,传奇佣兵......还是第一次有人这么形容我。,A legendary mercenary... Now that's the first time anyone's described me like that.,Легендарный наемник... впервые слышу такую характеристику.
-line-332,无奈的黑钢佣兵,黑钢有条长廊，挂着创始人与战友的照片，我在上面见过您和老板的合照。是一个隐秘的位置，但我注意到了。,"There's a long corridor in Blacksteel where pictures of our founder and his war buddies are hung. I saw one with you and our boss in it. It's inconspicuous, but I noticed it.","В Blacksteel есть коридор с фотографиями основателей и их боевых товарищей. Я видел там вашу совместную фотографию с боссом. Она висит в укромном месте, но я заметил её."
+line-332,无奈的黑钢佣兵,黑钢有条长廊，挂着创始人与战友的照片，我在上面见过您和老板的合照。是一个隐秘的位置，但我注意到了。,"There's a long corridor in Blacksteel where pictures of our founder and his war buddies are hung. I saw one with you and our boss in it. It's inconspicuous, but I noticed it.","В Блэкстил есть коридор с фотографиями основателей и их боевых товарищей. Я видел там вашу совместную фотографию с боссом. Она висит в укромном месте, но я заметил её."
 line-335,伍德洛,......真是遗憾，我的经历并不如你想的那样传奇，我只经历过一场战争。,What a shame... My stories ain't as legendary as you think. All I've been through is war.,"...Увы, моя жизнь не так легендарна, как вы думаете. Я участвовал всего в одной войне."
 line-339,烦躁的黑钢佣兵,那无所谓......我一直很想和老板交手试试，但他是老板，我不能真的拔出铳对着他。,"That doesn't matter... Actually, I've wanted to fight the boss for quite a well, too. Still, he's the boss. I can't exactly pull a gun on him.","Это неважно... я всегда мечтал сразиться с боссом, но он босс, я не могу просто так поднять на него пушку."
 line-340,烦躁的黑钢佣兵,老爷子，你能和他在一张照片里出现，你的身手如何呢？,"But if you and him are in the same picture, old man, I wonder what that says about your skills.","Старик, раз ты на одной фотографии с ним, как ты в деле?"
@@ -288,7 +288,7 @@ line-858,伍德洛,......海伦娜知道吗？,Does Helena know?,...Хелена
 line-860,杰西卡,我......联系不到她......,I... I can't reach her...,Я... не могу с ней связаться...
 line-862,伍德洛,你在哭吗，杰西卡？,Are you crying?,"Ты плачешь, Джессика?"
 line-864,杰西卡,......我在哭吗？我好像是哭了。,Am I? I think I am.,"...Я плачу? Кажется, да."
-line-866,伍德洛,唉，一切都结束了，你会没事的。我想......你是黑钢的人，还是布林雷的孩子，他们应该也不会将你怎么样......,"*sigh*... It's all over now. You'll be fine. Let's see... You're from Blacksteel, and a Brynley. They won't touch you.","Эх, всё кончено, с тобой всё будет хорошо. Думаю... ты из Blacksteel, да ещё и дитя Бринли, они не станут причинять тебе вреда..."
+line-866,伍德洛,唉，一切都结束了，你会没事的。我想......你是黑钢的人，还是布林雷的孩子，他们应该也不会将你怎么样......,"*sigh*... It's all over now. You'll be fine. Let's see... You're from Blacksteel, and a Brynley. They won't touch you.","Эх, всё кончено, с тобой всё будет хорошо. Думаю... ты из Блэкстил, да ещё и дитя Бринли, они не станут причинять тебе вреда..."
 line-868,杰西卡,......你要去哪里，伍德洛？我......能去找你吗？,"Where are you going, Woodrow? Can... Can I come look for you?","...Куда ты, Вудро? Я... могу пойти с тобой?"
 line-870,伍德洛,我还有些事要做......带着你不方便。,I still got some stuff to take care of... Can't go bringing you with me.,У меня ещё есть дела... с тобой будет неудобно.
 line-872,杰西卡,......我还能再见你吗？,...Will I ever see you again?,...Мы ещё увидимся?

@@ -10,7 +10,7 @@ char-3,演员B,演员B,Performer B,Актер Б
 char-4,演员C,演员C,Performer C,Актер В
 char-5,人事干员,人事干员,Human Resources Operator,Сотрудник отдела кадров
 char-6,薄绿,薄绿,Mint,Минт
-char-7,Ms.Christine,Ms.Christine,Miss.Christine,Мисс Кристин
+char-7,Ms.Christine,Ms.Christine,Miss.Christine,Мисс Christine
 char-8,罗德岛干员,罗德岛干员,Rhodes Island Operator,Оперативник Родос
 ,,,,
 line-6,,女士们，先生们，欢迎各位今夜到来，下面让我们观赏本剧团的最新剧目！,"Mesdames et Messieurs, we thank you for coming tonight. Let us give our eyes and ears to the troupe's latest production!","Дамы и господа, добро пожаловать сегодня вечером! Давайте же начнём представление нашей труппы!"
@@ -110,7 +110,7 @@ line-244,薄绿,咦，有人来了。,Oh! Someone's here.,"Ой, кто-то и�
 line-247,,请进。,Come in.,Войдите.
 line-254,人事干员,打扰了，博士。,"Sorry to interrupt, Doctor.","Беспокою вас, Доктор."
 line-255,人事干员,这里有一份档案需要确认，您现在有时间吗？,There's a file that needs checking over. Do you have the time right now?,"Здесь есть досье, которое нужно подтвердить, у вас есть сейчас время?"
-line-256,人事干员,凯尔希医生和阿米娅说，关于这件事可以来这里找您处理。,Dr. Kal'tsit and Amiya both said I should come here to ask you about this.,"Доктор Кель'си и Амия сказали, что по этому вопросу можно обратиться к вам."
+line-256,人事干员,凯尔希医生和阿米娅说，关于这件事可以来这里找您处理。,Dr. Kal'tsit and Amiya both said I should come here to ask you about this.,"Доктор Кальцит и Амия сказали, что по этому вопросу можно обратиться к вам."
 line-259,,让我看看吧。,Let me have a look.,Давайте посмотрим.
 line-263,人事干员,（将档案资料递给博士）,(She hands the file materials over to the Doctor).,(Передает документы Доктору)
 line-265,人事干员,就是这一份档案。,"This file, here.",Вот эта папка.
@@ -161,7 +161,7 @@ line-336,人事干员,真的吗，博士？！,"Really, Doctor?!","Правда,
 line-337,人事干员,应该是开玩笑的吧？真是的，博士，别随便乱开这种玩笑啊......,"You're kidding, right? Really, Doctor, you can't just joke like that...","Вы ведь шутите? Доктор, ну нельзя же так пугать людей..."
 line-340,人事干员,比起狮蝎小姐的无可奈何，干员傀影的话，感觉就只是单纯的在用自己的源石技艺，避开所有人而已。,Miss Manticore's case was more helplessness. I get the feeling that Operator Phantom's just using his Originium Arts to dodge us. On purpose.,"В отличие от мисс Скорпион, Фантом, кажется, просто использует свои способности, чтобы уклоняться от общения."
 line-342,薄绿,这样啊......,Is that so...,Вот как...
-line-344,人事干员,关于这件事，凯尔希医生和阿米娅都说可以来找博士帮忙，博士，你有什么好主意吗？,"Dr. Kal'tsit and Amiya said we could ask you to help us out with this. Do you have any good ideas, Doctor?","По этому поводу и Кель'си, и Амия сказали прийти за помощью к вам. Доктор, у вас есть идеи?"
+line-344,人事干员,关于这件事，凯尔希医生和阿米娅都说可以来找博士帮忙，博士，你有什么好主意吗？,"Dr. Kal'tsit and Amiya said we could ask you to help us out with this. Do you have any good ideas, Doctor?","По этому поводу и Кальцит, и Амия сказали прийти за помощью к вам. Доктор, у вас есть идеи?"
 line-347,,不是完全没办法。,It's not like there isn't a way.,Это не совсем безнадежно.
 line-350,人事干员,真的？太好了，要怎么才能找到对方？,"You mean it? Great! What should we do to find him, then?","Правда? Отлично, как же нам его найти?"
 line-353,,这种时候，一般我们需要征求女士的意见。,"At times like this, we seek the Madam's opinion.",В таких случаях обычно нужно спросить совета у дам.
@@ -179,7 +179,7 @@ line-384,傀影,流淌不止的河流在我耳边唱出乐声，向我冲刷，�
 line-386,傀影,或许从未有人真正离去。,Or perhaps they never really left.,"Возможно, никто не уходил по-настоящему."
 line-390,傀影,（嗯？有脚步声，这个声音是......）,(Hm? The sound of footfall. The sound of...),"(Хм? Шаги, этот звук...)"
 line-397,Ms.Christine,喵。,Meow.,Мяу.
-line-399,傀影,是你啊，Ms.Christine。,"So it was you, Miss.Christine.","Это ты, мисс Кристин."
+line-399,傀影,是你啊，Ms.Christine。,"So it was you, Miss.Christine.","Это ты, мисс Christine."
 line-401,Ms.Christine,喵~,Meow~,Мяу~
 line-403,傀影,怎么了。,What is it?,Что такое?
 line-404,傀影,你看起来心情不错。,You seem in a good mood.,Ты выглядишь довольной.
@@ -205,10 +205,10 @@ line-452,人事干员,确实是敏锐到可怕的听觉......哎，笨重的那�
 line-454,薄绿,呃，我觉得这不是在说体重的问题啦。,"Er, I feel he didn't specifically mean your actual weight.","Э-э, думаю, дело не в весе."
 line-456,傀影,......,......,...
 line-459,傀影,说吧，来找我有什么事。,"Go on, then. What might you need me for?","Говорите, зачем пожаловали."
-line-460,傀影,Ms.Christine很少带客人来，看来你确实很受青睐。,Miss.Christine rarely brings guests. It seems you've gained her favor.,"Мисс Кристин редко приводит гостей, видимо, вы действительно в почете."
+line-460,傀影,Ms.Christine很少带客人来，看来你确实很受青睐。,Miss.Christine rarely brings guests. It seems you've gained her favor.,"Мисс Christine редко приводит гостей, видимо, вы действительно в почете."
 line-463,,我很荣幸。;你刚刚躲在哪里？,I'm honored.;Where were you hiding?,Для меня это честь. ;Где ты только что прятался?
 line-466,Ms.Christine,喵，喵呜~,Meow. Meowww~,"Мяу, мяу-у~"
-line-468,傀影,嗯，Ms.Christine在表达赞同。,Mm. Miss.Christine expresses her approval.,"Хм, мисс Кристин выражает согласие."
+line-468,傀影,嗯，Ms.Christine在表达赞同。,Mm. Miss.Christine expresses her approval.,"Хм, мисс Christine выражает согласие."
 line-471,傀影,我没有躲藏，只是眼睛在欺骗你。,I was not hiding. Your eyes were simply cheating you.,"Я не прятался, это ваши глаза вас обманывали."
 line-472,傀影,眼、耳、喉、鼻，所有的感官都会骗人。,"Eyes, ears, throat, nose. All senses capable of tricking someone.","Глаза, уши, горло, нос — все чувства могут обмануть."
 line-474,傀影,......甚至连回忆也会。,"...All, even memory.",...даже воспоминания.

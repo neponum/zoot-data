@@ -5,7 +5,7 @@ __episode__,,Episode ID,,main_14
 __chapter__,,Chapter Name,obt/main/level_main_14-02_end,破解锤砧战术
 ,,,,
 char-1,推进之王,推进之王,Siege,Сидж
-char-2,Misery,Misery,Misery,Мизери
+char-2,Misery,Misery,Misery,Misery
 char-3,摩根,摩根,Morgan,Морган
 char-4,因陀罗,因陀罗,Indra,Индра
 char-5,达格达,达格达,Dagda,Дагда
@@ -49,11 +49,11 @@ line-97,洛洛,啊，我的无人机回来了。,"Oh, my drone's back.","А, м�
 line-104,洛克十八,——,—,—
 line-110,洛洛,......糟透了，整个动力系统里都卡满了结晶粉尘。,"How awful, the entire propulsion system has been clotted up by crystal dust.","...Ужасно, вся система привода забита кристаллической пылью."
 line-117,洛洛,看监测仪的数据，环境中源石浓度的涨落还是非常剧烈。,"Based on monitored data, environmental Originium concentration is still fluctuating wildly.","Судя по данным монитора, скачки концентрации ориджиниума в окружающей среде по-прежнему очень резкие."
-line-119,可露希尔,洛洛，把最新的数据发给我，我们又迭代了一版活性化源石发展趋势的模型，看看这次的演算结果能不能拟合得上。,"Send me that data you just got, Rockrock. We've got a new iteration of our Originium activation trend model, and I want to see if our calculations fit real-world data.","Лоло, отправь мне последние данные. Мы подготовили новую итерацию модели развития активного ориджиниума, посмотрим, смогут ли нынешние расчеты совпасть с реальностью."
+line-119,可露希尔,洛洛，把最新的数据发给我，我们又迭代了一版活性化源石发展趋势的模型，看看这次的演算结果能不能拟合得上。,"Send me that data you just got, Rockrock. We've got a new iteration of our Originium activation trend model, and I want to see if our calculations fit real-world data.","Рокрок, отправь мне последние данные. Мы подготовили новую итерацию модели развития активного ориджиниума, посмотрим, смогут ли нынешние расчеты совпасть с реальностью."
 line-125,可露希尔,啧，看来数据量还是不够，这个曲线的走势......等维克多他们那里衍射仪的分析报告出来，我们应该就能实时计算出安全区的位置了。,"Ugh, looks like there's not enough data to do that. The trend of this curve... Let's wait for Viktor's team to finish off that diffractometer analysis report, then we should be able to calculate the safe areas in real-time.","Ц, похоже, данных все ещё недостаточно, кривая показывает... как только придёт отчет об анализе от дифрактометра Виктора и остальных, мы сможем в реальном времени вычислять положение безопасных зон."
 line-127,可露希尔,这片鬼地方，也许上一秒看起来风平浪静，下一秒就会从地里长出什么恐怖的源石大山。安全区的位置一直在变化。,"This place freaks me out. It's like one minute it's deadly quiet, the next there's some terrifying Originium mountain pushing its way up out of the dirt. The safe areas keep changing.","В этом проклятом месте: секунду назад всё могло выглядеть тихо и спокойно, а в следующую из земли вырастет какая-нибудь ужасная гора ориджиниума. Безопасные зоны постоянно меняются."
 line-129,可露希尔,现在虽然短距离的通讯已经勉强恢复，但是距离稍微长一点，通讯还是会有干扰。,"Although we've managed to reestablish short-range comms after working our asses off, if you go even a step out of range, all that interference'll just get in the way again.","Хотя связь на коротких дистанциях едва восстановилась, на больших расстояниях помехи всё ещё присутствуют."
-line-130,可露希尔,多亏我有先见之明，在来伦蒂尼姆之前，找Raidian讨了她的施术单元，稍微仿制了一下......效果虽然不如正版，但够帮上忙了。,"Good thing I planned ahead and asked Raidian for her Arts Unit before we left for Londinium. After a little copy and paste, I made a knockoff version. It's not as good as the real deal, but it should help.","Хорошо, что я была предусмотрительна и до прибытия в Лондиниум выпросила у Рэйдиан её операторский модуль, слегка скопировав его... эффект, конечно, не как у оригинала, но помощь от него есть."
+line-130,可露希尔,多亏我有先见之明，在来伦蒂尼姆之前，找Raidian讨了她的施术单元，稍微仿制了一下......效果虽然不如正版，但够帮上忙了。,"Good thing I planned ahead and asked Raidian for her Arts Unit before we left for Londinium. After a little copy and paste, I made a knockoff version. It's not as good as the real deal, but it should help.","Хорошо, что я была предусмотрительна и до прибытия в Лондиниум выпросила у Raidian её операторский модуль, слегка скопировав его... эффект, конечно, не как у оригинала, но помощь от него есть."
 line-131,可露希尔,等到我们的几座便携通讯塔都竖起来，安全区的地点就能发送给战场上每一个有需要的人。,"Once we've got these portable communications towers up, we'll be able to transmit the locations of the safe areas to anyone on the battlefield who needs them.","Когда мы установим наши переносные вышки связи, координаты безопасных зон можно будет разослать каждому нуждающемуся на поле боя."
 line-133,推进之王,这个信息能救很多人的命。,This information will save many lives.,Эта информация спасет много жизней.
 line-135,可露希尔,当然，我们罗德岛就是干这个的。,"Well, yeah. That's what Rhodes Island does.","Разумеется, мы, Родос, именно этим и занимаемся."
@@ -67,7 +67,7 @@ line-156,号角,我们没有贸然接触，以免产生不必要的误会。,We 
 line-158,推进之王,知道了，我们会尽快与你们会合。,Understood. We'll rendezvous with you as soon as we can.,"Поняла, мы постараемся соединиться с вами как можно скорее."
 line-165,推进之王,天快黑了。,It's getting dark.,Скоро стемнеет.
 line-167,推进之王,看来，如果一切顺利，我们的战士还能稍作休息，喝上一碗热汤。,Seems like everything's going smoothly. Best we let our fighters get some rest and some hot soup in them.,"Похоже, если всё пройдёт гладко, наши бойцы смогут немного отдохнуть и съесть по миске горячего супа."
-line-169,可露希尔,记得给我的人留点，他们忙完再赶回来还要点时间。洛洛和我也还得去费斯特那里一趟......,Remember to save some for my team! They'll be taking a while longer to get back after their work is done. Rockrock and I still have to head over to Feist...,"Не забудь оставить порцию моим ребятам, им ещё нужно время закончить работу и добраться сюда. Лоло и мне тоже нужно будет ещё сходить к Фесту..."
+line-169,可露希尔,记得给我的人留点，他们忙完再赶回来还要点时间。洛洛和我也还得去费斯特那里一趟......,Remember to save some for my team! They'll be taking a while longer to get back after their work is done. Rockrock and I still have to head over to Feist...,"Не забудь оставить порцию моим ребятам, им ещё нужно время закончить работу и добраться сюда. Рокрок и мне тоже нужно будет ещё сходить к Фесту..."
 line-170,可露希尔,今天晚上说不定能把通讯范围再扩大一倍，我们争取尽早完工。,"I'm not sure if we'll be able to double our communication range by nightfall, but we'll do our best to finish ASAP.","Если повезет, сегодня вечером мы сможем увеличить зону связи ещё вдвое, мы постараемся закончить как можно раньше."
 line-172,推进之王,放心，我们一定把最好的菜留给你们。,"No need to worry, we'll save the best for your people.","Не волнуйся, мы обязательно оставим для вас лучшее."
 line-174,可露希尔,......反正也就是罐头军粮吧。,"...It's all just the same canned provisions though, right?",...Все равно ведь это будет армейский паек из консервов.
@@ -96,8 +96,8 @@ line-247,,弹壳落地的声音消失后，也没有预想的爆炸声传来。,
 line-249,戴菲恩,号角小姐，你确定那是弹壳落地的声音吗？,"Are you sure that was falling casings, Horn?","Мисс Хорн, вы уверены, что это был звук падения гильз?"
 line-251,号角,我很确定，而且，那是维多利亚精锐部队才会配给的特殊型号。,Absolutely sure. That's a special model only allocated to elite Victorian troops.,"Я уверена. К тому же, это специфический тип, который выдают только элитным войскам Виктории."
 line-253,推进之王,这里没有发现有人生活的痕迹——,No traces of anyone living here—,Здесь нет следов человеческого жилья—
-line-255,号角,推进之王，停步。,"Don't move, Siege.","Королева Идти, остановитесь."
-line-258,,推进之王刚抬起的脚又小心地放回了原地。,Siege carefully puts her foot down back to where it was.,Королева Идти осторожно вернула только что поднятую ногу на место.
+line-255,号角,推进之王，停步。,"Don't move, Siege.","Сидж, остановитесь."
+line-258,,推进之王刚抬起的脚又小心地放回了原地。,Siege carefully puts her foot down back to where it was.,Сидж осторожно вернула только что поднятую ногу на место.
 line-259,,号角指向地面上微不可察的，一条细细的绊线。,"Horn points at a thin tripwire, barely visible against the ground. ",Хорн указала на едва заметную тонкую леску на земле.
 line-261,号角,藏得很好，这条绊线刚好被管道挡住，很难发现。,"Nicely concealed, what with the surrounding piping obstructing the view. Real tricky to spot.","Хорошо спрятано, эту растяжку как раз закрывает труба, заметить очень сложно."
 line-263,推进之王,诡雷？,A booby trap?,Мина-ловушка?
@@ -117,18 +117,18 @@ line-344,受伤的士兵,这支队伍，恐怕不是那些一般的——,"These
 line-349,号角,......,...,...
 line-353,受伤的士兵,她......她能挡开你的破城矛？,She... She can block your piledriver spear? ,Она... она смогла отбить ваше пробивное копье?
 line-366,风笛,......,...,...
-line-367,风笛,队长？还有推进之王？,Captain? And Siege too?,Капитан? И Королева Идти?
+line-367,风笛,队长？还有推进之王？,Captain? And Siege too?,Капитан? И Сидж?
 line-369,号角,......菲奥娜，真的是你。,"It really is you, Fiona.","...Фиона, это действительно ты."
 line-381,,红色长发的姑娘猛然扑进她的队长的怀中。,"The lady with long, red hair suddenly throws herself into the arms of her captain.",Девушка с рыжими волосами бросилась в объятия своего капитана.
 line-382,风笛,原来，你们都还活着......,So ye were alive all along...,"Значит, вы все ещё живы..."
 line-383,风笛,太好了，真的太好了......,Wonderful... how wonderful.,"Как хорошо, просто невероятно хорошо..."
-line-390,,号角轻轻松开了风笛，却又捏了捏她的肩膀。,"Horn gently releases Bagpipe from her embrace, then claps a hand on her shoulder.","Хорн слегка отстранила Пайп, но затем сжала её плечи."
+line-390,,号角轻轻松开了风笛，却又捏了捏她的肩膀。,"Horn gently releases Bagpipe from her embrace, then claps a hand on her shoulder.","Хорн слегка отстранила Бэгпайп, но затем сжала её плечи."
 line-392,号角,还好，没受伤，也没瘦多少。,"Good to see you in one piece, and in rather good shape, too.","Хорошо, не ранена и почти не исхудала."
 line-394,风笛,报、报告队长！我做到了，我把鬼魂部队的情报带了出去，我还查清楚了他们到底想干什么！,"I-I'll make my report now, Captain! I've done it, I've managed tae extract the intelligence on the Spectre Force, and I ken what they're plannin' now!","До-докладываю, капитан! Я сделала это, я вынесла сведения о «призрачных отрядах», и я выяснила, что именно они задумали!"
 line-396,风笛,我活了下来，带着记忆，带着真相，一直活着！,"I survived! I got my memories, I got the truth, and I stayed alive!","Я выжила, сохранив память, сохранив правду, я продолжала жить!"
 line-398,风笛,你的命令......我一个字都没忘。,Yer orders... I never forgot a word of 'em.,Ваш приказ... я не забыла ни слова.
 line-400,号角,很好，我知道你能做到，从来都知道。,Good to hear. I knew you could do it. I always knew.,"Отлично, я знала, что ты справишься, всегда знала."
-line-401,号角,——风笛，欢迎归队。,"Welcome back, Bagpipe.","— Пайп, добро пожаловать обратно в отряд."
+line-401,号角,——风笛，欢迎归队。,"Welcome back, Bagpipe.","— Бэгпайп, добро пожаловать обратно в отряд."
 line-405,受伤的士兵,这是......？你们到底——,"Wait, she's...? You're not—",Что это...? Кто вы вообще такие —
 line-407,戴菲恩,各位，都请出来吧，我们没有恶意。,"Everyone, we mean you no harm. It's alright to come out.","Господа, пожалуйста, выходите, мы не причиним вам вреда."
 line-421,,一个个人影从黑暗中走了出来。,"One by one, silhouettes emerge from the shadows.",Из темноты начали выходить фигуры.
@@ -143,8 +143,8 @@ line-442,号角,除了和你一起过来的那些法夫公爵的感染者残兵�
 line-443,号角,明明公爵的联军前几天刚经过这里，他们却宁愿放弃可能被救援的机会，也不愿意寻求大公爵们的帮助。,"The ducal alliance armies came through here a few days ago, but they rather give up a chance at being rescued than seek help from the Grand Dukes.","Хотя союзные войска герцога проходили здесь всего несколько дней назад, они скорее предпочли отказаться от шанса на спасение, чем искать помощи у великих герцогов."
 line-445,达格达,军人们还好理解，无论是担心自己的感染状况，还是担心军事条令的处罚，都算是有个理由。可是平民们......,"It's understandable why the soldiers would avoid them. They're either worried about the status of their infection, or worried about a court-martial. But as for the civilians...","Военных ещё можно понять, будь то беспокойство из-за их статуса заражения или страх перед дисциплинарными взысканиями — у них есть причина. Но мирные жители..."
 line-446,达格达,这一年，也许伦蒂尼姆周围的人们，被迫重新认识了自己的国家和那些挂着勋章的上位者们。,Perhaps this was the year the people living around Londinium got to reassess their country and those decorated higher-ups.,"В этом году, возможно, люди вокруг Лондиниума были вынуждены заново узнать свою страну и тех, кто носит медали и занимает высокие посты."
-line-448,号角,风笛，你是怎么获得他们的信任——,"Bagpipe, how did you manage to get their trust—","Пайп, как тебе удалось получить их доверие—"
-line-452,号角,......你在听吗，风笛？,"...Are you listening, Bagpipe?","...ты меня слушаешь, Пайп?"
+line-448,号角,风笛，你是怎么获得他们的信任——,"Bagpipe, how did you manage to get their trust—","Бэгпайп, как тебе удалось получить их доверие—"
+line-452,号角,......你在听吗，风笛？,"...Are you listening, Bagpipe?","...ты меня слушаешь, Бэгпайп?"
 line-454,风笛,......,...,...
 line-456,风笛,啊，队长！,"Huh? Oh, er, aye, Captain!","А, капитан!"
 line-458,号角,开战术会议的时候需要聚精会神。地图在那里，不在我脸上。,"You need to pay attention during tactical meetings. The map's on the wall, not my face.","На тактических совещаниях нужно быть сосредоточенной. Карта там, а не у меня на лице."
@@ -165,7 +165,7 @@ line-487,号角,......,...,...
 line-489,风笛,......,...,...
 line-491,号角,早在风暴突击队成立的时候，那支四国战争时期的传奇部队就连一个空番号都不剩了。,"The Exemplars... When the Tempest Platoon was first established, nothing was left of this legendary unit from the War of the Four Nations, not even its unassigned unit ID.","Задолго до основания штурмовых отрядов, от той легендарной части времен четырехсторонней войны не осталось даже свободного номера подразделения."
 line-492,号角,但是现在，它又回到了这片战场上。,"But now, it has returned once more to the battlefield.","Но сейчас, оно снова вернулось на это поле битвы."
-line-493,号角,风笛，我们现在都是典范军的一员了。,"We're all members of the Exemplars now, Bagpipe.","Пайп, теперь мы обе — часть Армии Моделей."
+line-493,号角,风笛，我们现在都是典范军的一员了。,"We're all members of the Exemplars now, Bagpipe.","Бэгпайп, теперь мы обе — часть Армии Моделей."
 line-494,号角,我们的队伍还在，我们就不会停止战斗。,"As long as our team is still here, we will never stop fighting the good fight.","Пока наш отряд существует, мы не перестанем сражаться."
 line-509,推进之王,......,...,...
 line-511,戴菲恩,里面不是在开作战会议吗？你怎么在外面的冷风里站着？,Isn't there a strategy meeting inside? Why're you standing out here in the cold?,Разве внутри не идёт военное совещание? Почему ты стоишь здесь на холодном ветру?

@@ -15,9 +15,9 @@ char-10,塔露拉,塔露拉,Talulah,Талула
 line-5,霜叶,咳，咳......,*cough* *cough*...,"Кх, кх..."
 line-7,阿米娅,陨星！我们击退了雪怪小队！,Meteorite! We've managed to push the Yeti Squadron back!,Метеорит! Мы отбросили отряд «Йети»!
 line-8,阿米娅,可是——,But...,Но...
-line-10,霜星,确实，我有点低估你们罗德岛了。,"I seem to have underestimated you, Rhodes Island.","И правда, я немного недооценила вас."
+line-10,霜星,确实，我有点低估你们罗德岛了。,"I seem to have underestimated you, Rhodes Island.","И правда, я немного недооценила вас, Родос."
 line-11,霜星,下手是不是，还是太轻了些。,Perhaps I held back a bit too much.,"Может, я ударила недостаточно сильно?"
-line-13,阿米娅,（手指已经没有知觉了......可恶......）,(I can't feel my fingers anymore... Damn it...),(Мои пальцы уже не чувствуют ничего... черт...)
+line-13,阿米娅,（手指已经没有知觉了......可恶......）,(I can't feel my fingers anymore... Damn it...),(Мои пальцы уже не чувствуют ничего... чёрт...)
 line-14,阿米娅,......怎么回事.....？,...What's going on...?,...Что происходит...?
 line-15,阿米娅,寒流......还在凝聚？,The cold current... is still gathering around her?,Холодный поток... он всё ещё концентрируется?
 line-17,霜星,这一次......,This time...,В этот раз...
@@ -33,7 +33,7 @@ line-30,霜星,就让纯粹无瑕的冰霜，埋葬你们的愤怒吧。,May you
 line-32,阿米娅,......唔......！,...Nnngh...!,...Мгх...!
 line-34,霜星,......♩......,...♩...,...♩...
 line-43,霜星,......！？,...?!,...!?
-line-44,霜星,有什么，阻止了寒冷继续汇集......,Something... is stopping the cold from gathering...,Что-то не дает холоду собраться...
+line-44,霜星,有什么，阻止了寒冷继续汇集......,Something... is stopping the cold from gathering...,Что-то не даёт холоду собраться...
 line-46,霜叶,......咕......,...Gah...,...Гх...
 line-48,霜星,是你做的吗？,Is this your doing?,Это ты сделала?
 line-50,霜叶,我不是说过......,Didn't I already tell you...,Разве я не говорила...
@@ -60,10 +60,10 @@ line-94,陨星,呃......！,Agh...!,Угх...!
 line-96,阿米娅,陨星！！,Meteorite!!,Метеорит!!
 line-98,陨星,不是直接命中，没什么关系！,"Don't worry, it wasn't a direct hit!","Не прямое попадание, ничего страшного!"
 line-104,整合运动成员,还，还能跑吗？,"She, she's still able to run?!",Она... она всё ещё может бежать?
-line-105,整合运动成员,可恶！,Damn it!,Черт!
+line-105,整合运动成员,可恶！,Damn it!,Чёрт!
 line-106,整合运动成员,都说了！你凭什么靠近雪怪们啊！,I told you! You'll never reach the Yetis!,"Я же сказал! С чего ты взяла, что сможешь подобраться к Йети!"
 line-107,整合运动成员,继续射击！不要给她机会！,Keep firing! Don't give her an opening!,Продолжать стрельбу! Не дайте ей ни шанса!
-line-113,陨星,——糟了！,...Oh no!,— Черт возьми!
+line-113,陨星,——糟了！,...Oh no!,— Чёрт возьми!
 line-115,陨星,喀......！,Gaah...!,Кх...!
 line-117,杰西卡,不！！她被......她被击中了，不......,Nooo!! She... she was hit... It can't be...,"Нет!! В неё... в неё попали, нет..."
 line-119,陨星,......小伤而已！这样就想挡住我，还太早了！！,...It's just a scratch! You'll have to do better than that if you want to stop me!!,"...Пустяки! Думали, что так меня остановите? Слишком рано!"
@@ -86,7 +86,7 @@ line-156,阿米娅,果然！那个霜星是靠小队埋设的源石来创造寒�
 line-157,阿米娅,陨星！！趁现在——！,Meteorite!! Now's your chance!,Метеорит!! Сейчас —!
 line-163,陨星,霜叶......,Frostleaf...,Фростлиф...
 line-164,陨星,我......一定......会救你！！,I... I promise to save you!!,Я... я обязательно... спасу тебя!!
-line-165,陨星,所以，等我......,"So, wait for me...","Поэтому, жди меня..."
+line-165,陨星,所以，等我......,"So, wait for me...",Поэтому жди меня...
 line-166,陨星,等我！,Please wait for me!,Жди!
 line-171,？？？,醒醒！,Wake up!,Очнись!
 line-173,霜叶,呃......？,Nnh...?,Эх...?
@@ -94,8 +94,8 @@ line-175,？？？,我抓到你了！,I've got you!,Я тебя поймала!
 line-177,霜叶,谁......,Who...,Кто...
 line-179,？？？,上来！快！抱稳我！,Up here! Quick! Hold on to me!,Залезай! Быстрее! Держись за меня покрепче!
 line-181,霜叶,......陨......星？,Meteo...rite?,...Метеорит...?
-line-183,陨星,你逞什么英雄！,Who said you could play the hero?!,Что ты из себя героя корчишь?!
-line-184,陨星,我有蠢到，会眼睁睁地看着你送命吗！,Do you think I could just sit there and watch you die?,"Неужели я настолько глупа, чтобы просто смотреть, как ты лезешь на рожон?!"
+line-183,陨星,你逞什么英雄！,Who said you could play the hero?!,Что ты из себя героиню корчишь?!
+line-184,陨星,我有蠢到，会眼睁睁地看着你送命吗！,Do you think I could just sit there and watch you die?,"Неужели я настолько глупа, чтобы просто смотреть, как ты погибнешь?!"
 line-189,霜叶,放我下来......我又不是什么......小动物......,Put me down... I'm not... some pet...,Поставь меня... я не какая-то... маленькая зверушка...
 line-191,陨星,我可是不会松手的！,I won't let go of you!,Ни за что не отпущу!
 line-197,陨星,阿米娅！杰西卡！！,Amiya! Jessica!!,Амия! Джессика!!
