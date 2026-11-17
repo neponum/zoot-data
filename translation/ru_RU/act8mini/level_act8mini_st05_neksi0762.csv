@@ -13,7 +13,7 @@ char-6,医疗干员,医疗干员,Medic Operator,Медик
 char-7,普通感染者A,普通感染者A,Ordinary Infected A,Обычный инфицированный А
 char-8,普通感染者B,普通感染者B,Ordinary Infected B,Обычный инфицированный Б
 char-9,后勤干员,后勤干员,Logistics Operator,Оперативник логистики
-char-10,特蕾西娅,特蕾西娅,Theresa,Терезис
+char-10,特蕾西娅,特蕾西娅,Theresa,Тереза
 char-11,娇小的卡特斯,娇小的卡特斯,Small Cautus,Маленькая каута
 char-12,阿米娅,阿米娅,Amiya,Амия
 ,,,,
@@ -48,7 +48,7 @@ line-76,Scout,我坚持不让瑞卡受到任何处分。,I insist that Reyka not
 line-78,博士,因为她是个孤儿？军队的纪律可承载不了泛滥的同情心。,Because she's an orphan? Military discipline isn't a bleeding heart operation.,Потому что она сирота? Военная дисциплина не терпит чрезмерной жалости.
 line-80,Scout,瑞卡的父亲曾是萨卡兹雇佣兵，死于内战。,Reyka's father was a Sarkaz mercenary who died in the civil war.,Отец Рейки был наемником и погиб в гражданской войне.
 line-82,博士,这在卡兹戴尔不算什么新鲜事。,She's in good company in Kazdel.,В Казделе это не новость.
-line-84,Scout,瑞卡的母亲身患严重的矿石病，没有抚养她的能力。特蕾西娅殿下知晓此事后，一直为她们家提供经济上的资助。,"Her mother suffered from severe Oripathy and was unable to raise her. Upon learning about this, Her Majesty Theresa has been providing financial support to their family.","Мать Рейки страдала тяжелой формой орипатии и не могла её растить. Когда Её Величство Тереза узнала об этом, она начала оказывать финансовую поддержку их семье."
+line-84,Scout,瑞卡的母亲身患严重的矿石病，没有抚养她的能力。特蕾西娅殿下知晓此事后，一直为她们家提供经济上的资助。,"Her mother suffered from severe Oripathy and was unable to raise her. Upon learning about this, Her Majesty Theresa has been providing financial support to their family.","Мать Рейки страдала тяжелой формой орипатии и не могла её растить. Когда Её Величество Тереза узнала об этом, она начала оказывать финансовую поддержку их семье."
 line-86,博士,这也没什么特别的。如果没有更充分的理由......,Nothing special about that either. If you don't have any better reason...,В этом тоже нет ничего необычного. Если у тебя нет более веской причины...
 line-88,Scout,瑞卡参军仅是为了报答殿下的恩情。,Reyka only enlisted in the army to repay Her Majesty's kindness.,"Рейка пошла в армию только ради того, чтобы отплатить за доброту госпожи."
 line-89,Scout,她曾对我说，为殿下而战是她唯一的愿望，是她生命的全部......,She once told me that fighting for Her Majesty is her only wish and the entire purpose of her life...,"Она однажды сказала мне, что сражаться за Её Величество— её единственное желание, весь смысл её жизни..."
@@ -64,7 +64,7 @@ line-104,博士,Scout，我希望你和你的小队在未来用行动回应质�
 line-106,Scout,一定。指挥官，女士，我先回去了。,"I swear to do this. Commander, Dame, I'll be taking my leave.","Обязательно. Командир, Леди, я вернусь к своим делам."
 line-108,博士,走之前答应我一件事。请至少把自己的生命和名誉，放在与其他队员同等的高度上。,Promise me one thing before you go. Value your own life and reputation the same as you do your teammates.,"Перед уходом пообещай мне одно. Пожалуйста, хотя бы ставь свою жизнь и честь наравне с другими бойцами."
 line-110,Scout,我会的。,I will.,Хорошо.
-line-123,凯尔希,......此外，可露希尔或许会找你商讨伦蒂尼姆的问题，她很关心我在这件事上的立场。,Additionally... Closure may approach you to discuss the Londinium issue. She's very concerned about my position on this matter.,"...К тому же, Клозур, возможно, захочет обсудить с тобой проблему Лондиниума, она беспокоится о моей позиции в этом вопросе."
+line-123,凯尔希,......此外，可露希尔或许会找你商讨伦蒂尼姆的问题，她很关心我在这件事上的立场。,Additionally... Closure may approach you to discuss the Londinium issue. She's very concerned about my position on this matter.,"...К тому же, Кложер, возможно, захочет обсудить с тобой проблему Лондиниума, она беспокоится о моей позиции в этом вопросе."
 line-124,凯尔希,你可以和她多分享一些决策过程，毕竟她也是潜在的作战成员。,"You can share some more of the decision-making process with her. After all, she is also a potential combat operator.","Ты можешь поделиться с ней деталями процесса принятия решений, в конце концов, она тоже потенциальный участник операций."
 line-125,凯尔希,当然，你们也可以......聊些别的。,"Of course, you can also discuss... other things.","Конечно, вы можете... поговорить о чем-то другом."
 line-136,,11:27 A.M. 天气/晴 ,11:27 A.M. \ Clear,11:27 A.M. Погода: ясно
@@ -90,7 +90,7 @@ line-173,凯尔希,我需要你多为博士着想一些。没人想在忙得焦�
 line-175,可露希尔,好好好，怎么突然这么严肃。,"Yeah, sure. Why so serious all of a sudden?","Ладно, ладно, чего такая серьезная?"
 line-176,可露希尔,可能是有点怵失忆前的博士吧，我现在总想搞点恶作剧。,"Maybe it's something about how I knew the old Doctor, but I keep getting this uncontrollable urge to pull the most hilarious pranks.","Может быть, я всё ещё боюсь прежнего Доктора, вот и тянет на шалости."
 line-177,可露希尔,尤其是最后那段日子里，博士的表现越来越古怪......,"Especially before, when the Doctor was acting weirder and weirder...","Особенно в последние дни, Доктор вел себя всё более странно..."
-line-179,凯尔希,打住，可露希尔，相关话题到此为止。更禁止你对博士提起这些。,"Enough, Closure. No more on this subject. I forbid you from mentioning a word of this to the Doctor.","Стоп, Клозур, на этом закончим. И запрещаю тебе говорить об этом Доктору."
+line-179,凯尔希,打住，可露希尔，相关话题到此为止。更禁止你对博士提起这些。,"Enough, Closure. No more on this subject. I forbid you from mentioning a word of this to the Doctor.","Стоп, Кложер, на этом закончим. И запрещаю тебе говорить об этом Доктору."
 line-181,可露希尔,放心吧，我有分寸。对了凯尔希，去伦蒂尼姆前，我准备开展对“待规划区”的整修，至少得对舰体材料进行加厚。,"Don't worry, I'm not that clueless. By the way, Kal'tsit, before we go to Londinium, I'm going to carry out a renovation of the 'under-development area.' Gotta thicken that hull, at least.","Не волнуйся, я знаю меру. Кстати, Кальцит, перед отъездом в Лондиниум я собираюсь реконструировать «Незастроенную зону», как минимум — усилить обшивку корпуса."
 line-182,可露希尔,虽说是一笔很大的开销，但作为可靠的工程师，我认为这点程度的投资还是非常有必要的。,"It'll be pricey, but I, a reliable engineer that I am, think that level of investment is still absolutely necessary.","Хотя это и дорого, как ответственный инженер считаю такие вложения необходимыми."
 line-184,可露希尔,所以啊，我已经代表工程部决定了，奋战三天三夜，让“待规划区”焕然一新！,"So, on behalf of the Engineering Department, I've decided to fight for three days and nights to give the 'under-development area' a brand new look!",Так что я от лица инженерного отдела решила: три дня и три ночи работы — и Незастроенная зона преобразится!
@@ -115,9 +115,9 @@ line-244,普通感染者B,你这老忘事的毛病啥时候也该让凯尔希医
 line-245,普通感染者B,医护小姑娘连续一周来咱病房打招呼，说准备把大家转移到康纳郡的临时医疗安置点。你这不是让人家口舌全白费嘛。,"That lass from the Medical Department came over to our ward for a week or so to touch bases, and said that she was going to transfer all of us to a temporary medical settlement in Connor County. What's the point of other people talking if you're not gonna remember a word of it?","Медсестра целую неделю заходила к нам и говорила, что нас переведут во временный пункт в графстве Коннор. А ты всё пропустил мимо ушей."
 line-247,医疗干员,哈哈，不要紧的大伯，毕竟也是比较突然的安排。,"Haha, don't worry, sir. After all, the arrangement was made rather hastily.","Ха-ха, ничего страшного, сэр, это всё было довольно внезапно."
 line-248,医疗干员,这边再唠叨一下，罗德岛本舰近期会在维多利亚周边开展一系列模拟演习。,"I'll be reminding everyone again, the Rhodes Island landship will be conducting a series of mock exercises around Victoria in the near future.",Напомню ещё раз: Родос в ближайшее время проведет ряд учений вокруг Виктории.
-line-249,医疗干员,考虑到大家的安全，决定将各位暂时转移到康纳郡的医疗安置点。,We've decided to temporarily transfer you to a medical settlement in Connor County out of consideration for your safety.,Ради вашей безопасности было решено временно перевести вас в медицинский пункт в гравстве Коннор.
+line-249,医疗干员,考虑到大家的安全，决定将各位暂时转移到康纳郡的医疗安置点。,We've decided to temporarily transfer you to a medical settlement in Connor County out of consideration for your safety.,Ради вашей безопасности было решено временно перевести вас в медицинский пункт в графстве Коннор.
 line-250,医疗干员,请大家放心，康纳郡的医护设施齐全，且大部分医护人员也会陪同前往。,"Please rest assured that the medical facilities there are comprehensive, and you will be accompanied by most of the medical staff.","Пожалуйста, не волнуйтесь, там отличное оборудование, и большинство медперсонала поедет с вами."
-line-252,普通感染者A,你看看，这才是艾莉——,"Look, now that's Ari—","Вот видишь, это всё..."
+line-252,普通感染者A,你看看，这才是艾莉——,"Look, now that's Ari—","Вот видишь, это Ари..."
 line-255,普通感染者A,啊啊凯尔希医生！您什么时候站我边上的？瞧我这眼神......,"Gaaaah, Dr. Kal'tsit! How long have you been standing right next to me?","А-а-а, доктор Кальцит! Как долго вы здесь находитесь?"
 line-258,凯尔希,不要紧，我也刚到。,Don't worry. I just got here.,"Не волнуйтесь, я только что подошла."
 line-260,凯尔希,艾莉，把这位病人今天的血液检测报告递给我。,"Ari, pass me this patient's blood works report.","Ари, дай мне отчет о сегодняшнем анализе крови этого пациента."
@@ -143,7 +143,7 @@ line-307,凯尔希,不必推辞，哪怕是最细微的工作，罗德岛所有�
 line-310,,时间有限，正式开始转移。;节省时间。;开始干活吧。,Our time is limited. Let's get the transfer underway.;Saves time.;Let's get a move-on.,"Время не ждёт, начинаем. Сэкономим время. За работу."
 line-312,,库斯，你过来抬大伯的上半身，注意医疗设备连接线。,"Qus, come here and help me lift his upper body, and pay attention to the medical equipment cable.","Кус, подойди сюда и помоги мне поднять его верхнюю часть тела, и обрати внимание на кабель медицинского оборудования."
 line-315,后勤干员,好嘞。艾莉，这台新的仪器是？之前从来没有见过。,"Sure thing. Ari, what's this new device? Never seen it before.","Слушаюсь. Ари, а что это за прибор? Раньше никогда его не видел."
-line-317,,融晶仪，莱茵生命CR-01实验型，内置源石回路。,"It's a crystal melting instrument, Rhine Lab CR-01 experimental model, with a built-in Originium circuit.","Кристаллизатор, опытный образец ""Рейн Лаб"" CR-01, встроенный ориджиниевой схемой."
+line-317,,融晶仪，莱茵生命CR-01实验型，内置源石回路。,"It's a crystal melting instrument, Rhine Lab CR-01 experimental model, with a built-in Originium circuit.","Кристаллизатор, опытный образец «Рейн Лаб» CR-01, со встроенной ориджиниевой схемой."
 line-319,,中晚期矿石病患者体内被结晶填充，脏器易受损破裂。,"In the middle and late stages of Oripathy, the body becomes filled with crystals, and the organs are easily damaged and ruptured.","У пациентов со средней и тяжелой стадией орипатии органы заполняются кристаллами, из-за чего они легко повреждаются."
 line-321,,融晶仪通过能量的有序集中释放对结晶进行消解。,The crystal melting instrument utilizes the sequential release of concentrated energy to dissolve the crystallization.,Кристаллизатор рассеивает кристаллы за счёт направленного высвобождения энергии.
 line-324,医疗干员,是这样的没错！我就说吧，博士果然什么都知道。,"That's exactly right! See, it's just as I said, the Doctor really knows everything.","Именно так! Говорила же, Доктор знает всё."
@@ -164,7 +164,7 @@ line-377,博士,昨晚的作战会议气氛很微妙，想必消耗了你大量�
 line-379,特蕾西娅,不必担心。倒是博士，我要为一些与会者的言辞道歉，他们无意冒犯，只是情绪稍有激动。,"No worries. Conversely, Doctor, I would like to apologize for the words spoken by some of the participants. They did not intend to offend, but were slightly agitated.","Не волнуйтесь. Кстати, Доктор, я должна извиниться за слова некоторых участников, они не хотели вас обидеть, просто эмоции взяли верх."
 line-380,特蕾西娅,他们担心我的安全，但我心里明白，博士一定考虑了所有可能的情况。这是最优解。,"They were worried about my safety, but I understand that you must surely have considered all possible situations. This is the best solution.","Они беспокоятся за меня, но я знаю, что Доктор просчитал все варианты. Это оптимальное решение."
 line-382,博士,特雷西斯想夺回战争的主动权。他深知你的优势同时也是你的软肋。,Theresis wants to regain the initiative. He knows that your strengths are also your weaknesses.,"Терезис хочет вернуть инициативу в войне. Он знает, что твои достоинства — это твои же слабости."
-line-383,博士,但他想不到的是，你会为萨卡兹人作出多大的牺牲。,But what he doesn't know is how much you're willing to sacrifice for the Sarkaz people.,"Но он не догадывается, на какие жертвы ты готова пойти ради Сарказ."
+line-383,博士,但他想不到的是，你会为萨卡兹人作出多大的牺牲。,But what he doesn't know is how much you're willing to sacrifice for the Sarkaz people.,"Но он не догадывается, на какие жертвы ты готова пойти ради сарказов."
 line-384,博士,当阿斯卡纶率领的部队出现在小镇上时，他将会意识到自己败局已定。,"When Ascalon's troops arrive in town, he'll see the writing on the wall.","Когда отряд Аскалон появится в городке, он поймет, что проиграл."
 line-386,特蕾西娅,你总是这么令人安心。博士，听你说话可比睡一觉让人精神多了。,"You're always so reassuring. Doctor, listening to your words is more refreshing than sleeping.","Ты всегда так успокаиваешь. Доктор, от твоего голоса я бодрюсь больше, чем от сна."
 line-387,,特蕾西娅疲惫的脸上展露出一丝欣慰的笑，这份笑容在她看向门外时变得更加温柔了。,"Theresa's weary face flashes a smile of relief, a smile that becomes gentler as she looks out the door.","Усталое лицо Терезы осветила улыбка, которая стала ещё нежнее, когда она посмотрела за дверь."
@@ -181,7 +181,7 @@ line-410,阿米娅,可是......可是阿斯卡纶姐姐说过，她绝对不会�
 line-411,阿米娅,我担心发生了什么事，就想着偷偷来指挥室看一眼......,"I was worried, so I snuck in here to take a look...",Я забеспокоилась и решила тихонько заглянуть...
 line-413,特蕾西娅,阿米娅呀阿米娅，是博士交给了阿斯卡纶一个小任务，他们不用多久就会回来的。,"Amiya, my dear Amiya, the Doctor gave Ascalon a little job. They'll be back soon enough.","Ох, Амия, это Доктор дал Аскалон маленькое задание, они скоро вернутся."
 line-414,特蕾西娅,你想想，博士指挥的战斗，哪一次不是速战速决？,"Think about it, has one of the Doctor's battles ever run long?","Подумай сама, разве битвы под руководством Доктора когда-нибудь затягивались?"
-line-416,阿米娅,确......确实，如果是博士的意见，我就放心了。,"Y-You're right.. If that's what Doctor wants, I feel much better.","Вы правы... Если этого желание Доктора, мне намного спокойнее."
+line-416,阿米娅,确......确实，如果是博士的意见，我就放心了。,"Y-You're right.. If that's what Doctor wants, I feel much better.","Вы правы... Если таково желание Доктора, мне намного спокойнее."
 line-417,阿米娅,博士是最能给人安全感的。,Doctor is the best at making everyone feel safe.,Доктор всегда дарит чувство защищенности.
 line-419,博士,阿米娅，你该休息了。,"Amiya, you should rest.","Амия, тебе пора спать."
 line-421,阿米娅,我这就回去！大家晚安。,"Okay I'm going to bed! Good night, everyone!",Уже иду! Всем спокойной ночи.
@@ -196,7 +196,7 @@ line-448,凯尔希,刚才说的事，都是在你常规日程之外的......,"No
 line-449,凯尔希,博士，你还在听吗？,"Doctor, are you still listening?","Доктор, ты меня слушаешь?"
 line-452,,我在听。;......;听着呢，很清楚。,"I am.;......;I'm listening, very clearly.","Слушаю. ...Да, слушаю очень внимательно."
 line-462,凯尔希,博士，怎样才算真正地活着？,"Doctor, what does it mean to be truly alive?","Доктор, что значит быть по-настоящему живым?"
-line-464,,这问题有些突然。;......没想过。;这问题也太深刻了。,Where did that come from?;Never thought about it...;Way too abstract.,Откуда такой вопрос?. ...Не задумывался об этом. Слишком абстрактный вопрос.
+line-464,,这问题有些突然。;......没想过。;这问题也太深刻了。,Where did that come from?;Never thought about it...;Way too abstract.,Откуда такой вопрос? ...Не задумывался об этом. Слишком абстрактный вопрос.
 line-466,凯尔希,服从他人意志，失去前行的理由，这算活着吗？,"Obeying someone else's will, losing your reason to move on. Does that count as being alive?","Жить чужой волей, потерять причину идти вперед — можно ли это назвать жизнью?"
 line-468,,那不过是行尸走肉。;......;那是机器人吧？,That's just a walking corpse.;......;Isn't that just a robot?,"Это лишь ходячий труп. ...Это робот, не иначе?"
 line-470,凯尔希,保有躯体，抽离记忆，又算活着吗？,"Keeping your body, but being separated from your memories. Does that count as being alive?","Иметь тело, но не иметь воспоминаний — можно ли это назвать жизнью?"

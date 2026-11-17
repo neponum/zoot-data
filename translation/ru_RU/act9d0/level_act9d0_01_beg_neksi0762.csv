@@ -9,11 +9,11 @@ char-2,赫德雷,赫德雷,Hoederer,Хёдерер
 char-3,衣衫褴褛的萨卡兹女性,衣衫褴褛的萨卡兹女性,Disheveled Sarkaz Woman,Женщина сарказов в лохмотьях
 ,,,,
 line-8,,是我。,It's me.,Это я.
-line-9,,已经抵达目标地点，肉眼确认到信号烟坐标。,I've reached the target destination. I have visual confirmation of the smoke signal's coordinates.,"Прибыл на место назначения, визуально подтверждаю координаты сигнальной ракеты."
+line-9,,已经抵达目标地点，肉眼确认到信号烟坐标。,I've reached the target destination. I have visual confirmation of the smoke signal's coordinates.,"Прибыл на место назначения, визуально подтверждаю координаты сигнального дыма."
 line-10,,......很久没有和同行打交道，稍微有点损失。,...It's been a while since our last fight with the other mercenaries. We've taken some losses.,"...Давненько я не имел дела с коллегами, понес небольшие потери."
 line-11,,但是他们在地下发报站藏着的物资也很充裕，好歹能挽回一些。,But they hid plenty of supplies in the underground bunker. We won't come back empty-handed.,"Но у них в подземном узле связи припрятано немало припасов, так что удастся кое-что отыграть."
 line-12,,嗯，是的，斥候可以先出发了。,"Mm, yeah. The scout can go on ahead.","Хм, да, разведчик может выдвигаться."
-line-13,,我会尽快。,I'll catch up soon.,Я буду как можно скорее.
+line-13,,我会尽快。,I'll catch up soon.,Я догоню как можно скорее.
 line-14,,......对了，有个意料之外的损失。,"...Right, there was an unexpected casualty.","...Кстати, возникла непредвиденная потеря."
 line-15,,W死了。,W is dead.,W мертв.
 line-26,伊内丝,......,...,...
@@ -27,8 +27,8 @@ line-37,伊内丝,......什么时候的事？,...When did it happen?,...Когд
 line-39,赫德雷,两小时前，通讯被隔断的时候，小队遭到了埋伏。,"Two hours ago, when our communications were cut off. The squad got ambushed.","Два часа назад, когда связь была прервана, отряд попал в засаду."
 line-40,赫德雷,W摧毁了废墟，然后我们逃了出来，他死战到了最后一刻。,W blew apart the ruins and gave us a chance to escape. He fought until the bitter end. ,"W обрушил руины, и мы смогли выбраться, он сражался до последнего вздоха."
 line-42,伊内丝,可惜。,Poor guy.,Бедняга.
-line-44,赫德雷,......的确，如果他能活着回到营地，按人头来算，他会超过我成为这里最值钱的雇佣兵。,"Yeah. If only he made it back to camp alive. His kill count was well past mine. He would've come out as top merc, easy.","...Действительно, если бы он живым вернулся в лагерь, по всем расценкам он стал бы самым ценным наемником у нас."
-line-45,赫德雷,算了，事到如今说这些也没意义，至少他不用再打仗了。,"Forget it, no point talking about that stuff now. At least he's earned his rest.","Забудь, сейчас уже нет смысла об этом говорить, по крайней мере ему больше не придется воевать."
+line-44,赫德雷,......的确，如果他能活着回到营地，按人头来算，他会超过我成为这里最值钱的雇佣兵。,"Yeah. If only he made it back to camp alive. His kill count was well past mine. He would've come out as top merc, easy.","...Действительно, если бы он живым вернулся в лагерь, по всем расценкам он стал бы самым ценным наёмником у нас."
+line-45,赫德雷,算了，事到如今说这些也没意义，至少他不用再打仗了。,"Forget it, no point talking about that stuff now. At least he's earned his rest.","Забудь, сейчас уже нет смысла об этом говорить, по крайней мере ему больше не придётся воевать."
 line-47,伊内丝,敌人已经撤退，要去回收吗？,"With the enemy routed, we should probably bring him back?","Враг отступил, стоит ли нам забрать его?"
 line-49,赫德雷,不可能，重新深入的风险太大，谁也承担不起。,Impossible. We can't risk exposing ourselves like that. Don't want to get caught out.,"Невозможно, слишком большой риск снова лезть туда, мы не можем так себя подставлять."
 line-50,赫德雷,怎么？莫非你们关系很好？我怎么不知道？,Why would you even want to? Were you two that close? Nobody told me.,Зачем тебе это вообще нужно? Неужели вы были так близки? Не знал об этом.
@@ -49,7 +49,7 @@ line-72,赫德雷,这只是建议，不是命令，好吗？,"That's a suggestio
 line-74,伊内丝,哼......,Hmph...,Хм...
 line-75,伊内丝,W的死，能给我们加上多少筹码？,How much you think we can milk W's death for?,Сколько мы сможем выжать из смерти W?
 line-77,赫德雷,很多。,A lot.,Много.
-line-78,赫德雷,他是一名优秀的雇佣兵，明码标价的优秀。,He was a helluva merc. Everybody knew.,"Он был отличным наемником, и цена за него превосходная. Все это знали"
+line-78,赫德雷,他是一名优秀的雇佣兵，明码标价的优秀。,He was a helluva merc. Everybody knew.,"Он был отличным наёмником, и цена за него превосходная. Все это знали."
 line-80,伊内丝,那至少他......不算白白送死。,At least... his death won't be in vain.,По крайней мере... его смерть не будет напрасной.
 line-81,伊内丝,他最后有没有留下什么——,"In the end, did he leave anything—","В конце концов, оставил ли он что-нибудь—"
 line-85,伊内丝,——安静。,—Shh!,—Тихо.
@@ -65,13 +65,13 @@ line-104,伊内丝,不说话？那么，死吧。,"Not talking? Then, die.",Мо
 line-106,赫德雷,等等。,"Wait, hold up.",Постой.
 line-107,赫德雷,她是跟着我们来的。,She followed us here.,Она шла за нами.
 line-109,衣衫褴褛的萨卡兹女性,......,...,...
-line-111,伊内丝,......你放任她跟踪你？,...You let her follow you?,...Ты позволил ей преследовать нас?
+line-111,伊内丝,......你放任她跟踪你？,...You let her follow you?,...Ты позволил ей преследовать тебя?
 line-113,赫德雷,我们的行进速度不慢，她在取得了W的遗物之后徒步跟上了我们，以她的身手，徒步。,"We haven't exactly been dragging our feet, but she's kept up with us purely through her own skills, even after grabbing W's gear.","Мы двигались быстро, но она догнала нас пешком, даже после того, как забрала снаряжение W."
 line-114,赫德雷,她是个“有经验”的萨卡兹，我想在撤离的时候也许会需要一个本地向导。,"She's an 'experienced' Sarkaz, and I may need a local guide when it's time to bounce.","Она «опытный» сарказ, думаю, при отступлении нам может пригодиться местный проводник."
 line-116,伊内丝,——你在发什么疯？那不是更应该在这里杀了她吗？,—Are you insane? Isn't that all the more reason to kill her right here?,—Ты с ума сошел? Не проще ли было убить её прямо здесь?
-line-117,伊内丝,你要是想害死我们所有人，大可直接动手。,"If you want us all dead, you might as well just do it yourself.","Если хочешь погубить нас всех, то мог бы просто сказать."
+line-117,伊内丝,你要是想害死我们所有人，大可直接动手。,"If you want us all dead, you might as well just do it yourself.","Если хочешь погубить нас всех, то мог бы просто сделать это сам."
 line-119,赫德雷,我怎么敢。,I wouldn't dare.,Я бы не посмел.
-line-121,伊内丝,那如果她是个刺客呢？如果她把我们带进布好的陷阱里呢？,What if she's an assassin? What if she leads us straight into a trap?,А если она наемная убийца? Если она заманит нас в ловушку?
+line-121,伊内丝,那如果她是个刺客呢？如果她把我们带进布好的陷阱里呢？,What if she's an assassin? What if she leads us straight into a trap?,А если она наёмная убийца? Если она заманит нас в ловушку?
 line-122,伊内丝,你知道卡兹戴尔有多少人想要你的脑袋吗？,Did you forget how many people in Kazdel want your head?,"Ты хоть знаешь, сколько людей в Казделе жаждут твоей головы?"
 line-124,赫德雷,喔，有多少？,Oh? How many?,"О, и сколько?"
 line-126,伊内丝,......你面前就有一个。,...There's one right in front of you.,...Одна из них прямо перед тобой.
@@ -90,7 +90,7 @@ line-144,衣衫褴褛的萨卡兹女性,......,...,...
 line-146,伊内丝,可她只是个外人，那套规矩也不该——,"But, she's an outsider. Our ways don't apply to—","Но она чужак, эти правила не должны—"
 line-147,伊内丝,——啊，算了。,"—You know what, forget it.","—А, забудь."
 line-148,伊内丝,十分钟后出发，我不在乎出发的是几个人。,I'm leaving in ten minutes. I don't care how many come with me.,"Выдвигаемся через десять минут, мне все равно, сколько нас будет."
-line-149,伊内丝,但如果我还要额外处理一具尸体——不管是谁的，都建议你动作快点。,"But if you're gonna give me any more corpses to deal with, I don't care whose, you better make it quick.","Но если мне придется убирать ещё один труп — неважно, чей — советую тебе поторопиться."
+line-149,伊内丝,但如果我还要额外处理一具尸体——不管是谁的，都建议你动作快点。,"But if you're gonna give me any more corpses to deal with, I don't care whose, you better make it quick.","Но если мне придётся убирать ещё один труп — неважно, чей — советую тебе поторопиться."
 line-157,赫德雷,呵呵，真是没耐心。,"Heh. Quite the impatient one, aren't you.","Хе-хе, ну и нетерпеливая же ты."
 line-158,赫德雷,......好了，你，认真听我说。,"...All right, you. Listen carefully.","...Ладно, ты, слушай внимательно."
 line-160,衣衫褴褛的萨卡兹女性,......,...,...
@@ -101,7 +101,7 @@ line-167,赫德雷,......,...,...
 line-168,赫德雷,最后一次机会。,This is your last chance.,Это твой последний шанс.
 line-170,衣衫褴褛的萨卡兹女性,......,...,...
 line-172,衣衫褴褛的萨卡兹女性,嗯......机会？,Last... chance?,Последний... шанс?
-line-173,衣衫褴褛的萨卡兹女性,......我从来不觉得我有选择的余地，转过身的时候，你会出剑，我就会倒下。,"...I don't think I ever had a choice. The second I turn around, you draw your blade and cut me down.","...Я не думаю что у меня был выбор. В ту же секунду, как я обернусь, ты вытащишь свой клинок и убьешь меня."
+line-173,衣衫褴褛的萨卡兹女性,......我从来不觉得我有选择的余地，转过身的时候，你会出剑，我就会倒下。,"...I don't think I ever had a choice. The second I turn around, you draw your blade and cut me down.","...Я не думаю, что у меня был выбор. В ту же секунду, как я обернусь, ты вытащишь свой клинок и убьёшь меня."
 line-174,衣衫褴褛的萨卡兹女性,从一开始......你的另一只手，就搭在剑柄上。,This whole time... your other hand has been on that hilt.,С самого начала... твоя вторая рука покоилась на рукояти меча.
 line-176,赫德雷,......很好。,...Very good.,...Очень хорошо.
 line-177,赫德雷,你也许见过我们，或者曾经为别人干活，我不在乎。,"You may have seen us before, or maybe you worked for someone else. None of that concerns me.","Возможно, ты видела нас раньше или работала на кого-то ещё, мне безразлично."

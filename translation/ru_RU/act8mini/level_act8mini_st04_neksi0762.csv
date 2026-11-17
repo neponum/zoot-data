@@ -4,7 +4,7 @@ __language__,,Language,en_US,ru_RU
 __episode__,,Episode ID,,act8mini
 __chapter__,,Chapter Name,activities/act8mini/level_act8mini_st04,我所思不止于此
 ,,,,
-char-1,特蕾西娅,特蕾西娅,Theresa,Терезис
+char-1,特蕾西娅,特蕾西娅,Theresa,Тереза
 char-2,Scout,Scout,Scout,Scout
 char-3,凯尔希,凯尔希,Kal'tsit,Кальцит
 char-4,博士,博士,Doctor,Доктор
@@ -61,7 +61,7 @@ line-107,特蕾西娅,至少现在，分开是损伤最少的选择。,"At least
 line-109,博士,每个萨卡兹人都有跟随自己信念的渴望。我能感受到你的理想，也会有众多萨卡兹人追随你。,"Every Sarkaz has a desire to follow her beliefs. I can feel your convictions, and there will be many Sarkaz following you.","Каждый сарказ жаждет следовать своим идеалам. Я чувствую твои стремления, и многие сарказы пойдут за тобой."
 line-110,博士,但我不会帮你做出选择，我只会见证。,But I will not help you make a decision. I can only bear witness.,"Но я не стану помогать тебе делать выбор, я буду лишь свидетелем."
 line-112,凯尔希,......,......,...
-line-114,特蕾西娅,嗯，这是目前最好的安排了，Dr.{@nickname}。,"Yes. That's the best arrangement in front of us so far, Dr. {@nickname}.","Что ж, это лучшее решение на данный момент, доктор {@nickname}."
+line-114,特蕾西娅,嗯，这是目前最好的安排了，Dr.{@nickname}。,"Yes. That's the best arrangement in front of us so far, Dr. {@nickname}.","Что ж, это лучшее решение на данный момент, Доктор {@nickname}."
 line-116,特蕾西娅,好了，事不宜迟，二位也赶快收拾行李准备出发吧！,"Alright then, without further ado, the two of you should pack up and get ready to set out!","Хорошо, медлить нельзя, собирайте вещи и готовьтесь к отбытию!"
 line-118,博士,能带走多少东西？,How much can we take with us?,Сколько вещей мы сможем забрать?
 line-120,特蕾西娅,很遗憾，并不多。许多设施都可能要遗弃，阿斯卡纶会为我们拖延时间。,"Unfortunately, not much. We may have to abandon a large number of our facilities. Ascalon will buy us time.","К сожалению, немного. Многие объекты придется оставить, Аскалон выиграет нам время."
@@ -183,7 +183,7 @@ line-387,博士,特蕾西娅，如果我说，到目前为止，他算是最无�
 line-391,Mon3tr,（嘶吼声）,(Shrieks),(Рык)
 line-397,凯尔希,......Dr.{@nickname}。这里不需要风趣的笑话，Scout也不会认为自己掺和进了一场滑稽的玩笑。,"Dr. {@nickname}, This is no time to be cracking jokes. Scout probably doesn't see himself as a part of your skit either.","...Доктор {@nickname}. Здесь не место остроумным шуткам, и Scout не считает, что оказался втянут в фарс."
 line-399,凯尔希,可至少，这个萨卡兹确实并不在先前俘虏供认的间谍名单之中，特蕾西娅。,"But at least this Sarkaz is indeed not on the list of spies that the captives named, Theresa.","Но по крайней мере, этот сарказ действительно не значился в списке признавшихся шпионов, Тереза."
-line-401,萨卡兹谋反者,一个外族人！竟敢直呼殿下其名......！,Damned outsider! How dare you call Her Majesty by name...!,Проклятая чужачка! Как ты смееешь называть Её Величество по имени...!
+line-401,萨卡兹谋反者,一个外族人！竟敢直呼殿下其名......！,Damned outsider! How dare you call Her Majesty by name...!,Проклятая чужачка! Как ты смеешь называть Её Величество по имени...!
 line-403,特蕾西娅,......你痛恨凯尔希吗？痛恨博士吗？,Do you hate Kal'tsit...? Do you hate the Doctor?,...Ты ненавидишь Кальцит? Ненавидишь Доктора?
 line-405,特蕾西娅,只因为，他们不是萨卡兹？而非因为他们所做的事情，将要做的事情？,"Just because they are not Sarkaz? Not because of what they've done, or what they will do?","Только потому, что они не сарказы? А не за то, что они сделали или собираются сделать?"
 line-407,萨卡兹谋反者,......是，是这样，殿下！,"Yes, that's exactly right, Your Majesty!","...Да, всё так, Ваше Величество!"
@@ -219,9 +219,9 @@ line-464,凯尔希,我反对。,I'm opposed.,Я против.
 line-466,凯尔希,即使现有证据无法证明他和军事委员会有所牵连，我也不认为放走一个公然袭击指挥官的士兵，能有什么益处。,"Even if the existing evidence does not prove his involvement with the Military Council, I do not deem it prudent to release a soldier who openly attacked his commander.","Даже если доказательств связи с Военной комиссией нет, я не считаю, что отпустить солдата, открыто напавшего на командира, принесет хоть какую-то пользу."
 line-468,凯尔希,......特蕾西娅。,Theresa.,...Тереза.
 line-470,博士,......,......,...
-line-472,萨卡兹谋反者,殿、殿下......,Y-Your Majesty...,В-ваше Величество...
+line-472,萨卡兹谋反者,殿、殿下......,Y-Your Majesty...,В-Ваше Величество...
 line-474,特蕾西娅,......军功。,Leave it to the army.,...Пусть этим занимается армия.
-line-476,特蕾西娅,是啊，马尔科，你是一个......萨卡兹佣兵。,"Yes, Marco, you are... a Sarkaz mercenary.","Да, Марко, ты...наемник Сарказ ."
+line-476,特蕾西娅,是啊，马尔科，你是一个......萨卡兹佣兵。,"Yes, Marco, you are... a Sarkaz mercenary.","Да, Марко, ты... наемник Сарказ."
 line-478,特蕾西娅,所以，Scout。带他去见阿斯卡纶吧。,"So, Scout, take him to see Ascalon.","Поэтому, Scout. Отведи его к Аскалон."
 line-480,特蕾西娅,巴别塔会定你的罪，阿斯卡纶会定你的罪。,Babel will decide your fate. Ascalon will decide your fate.,«Вавилон» решит твою судьбу. Аскалон решит твою судьбу.
 line-482,特蕾西娅,既然你还自认是一位卡兹戴尔的萨卡兹，你就不能离开。,That you consider yourself a Sarkaz of Kazdel means you cannot leave.,"Раз ты до сих пор считаешь себя сарказом из Казделя, ты не можешь уйти."
@@ -229,7 +229,7 @@ line-484,萨卡兹谋反者,——殿下！您要，处死我——？,"—Your 
 line-486,特蕾西娅,......,......,...
 line-488,凯尔希,Scout，在他有什么过激情绪之前，把他——,"Scout, before he has any outbursts of emotion, restrain—","Scout, пока он не натворил глупостей, отведи его—"
 line-491,萨卡兹谋反者,——不！,——No!,—Нет!
-line-493,萨卡兹谋反者,不！不！不！您——您做得对——没错，杀死我！您就该如此，让优柔寡断见鬼去吧！,"No! No! No! You— You're right— That's right, kill me! You're doing the right thing, sending a flake like me to hell!","Нет! Нет! Нет! Вы... вы правы... правильно, убейте меня! Вы правы, к чертутакого глупца как я!"
+line-493,萨卡兹谋反者,不！不！不！您——您做得对——没错，杀死我！您就该如此，让优柔寡断见鬼去吧！,"No! No! No! You— You're right— That's right, kill me! You're doing the right thing, sending a flake like me to hell!","Нет! Нет! Нет! Вы... вы правы... правильно, убейте меня! Вы правы, к черту такого глупца, как я!"
 line-495,萨卡兹谋反者,——您曾是战争的英雄！处死一个叛徒，处死我这样一个庸人，是您真正该做的！,"—You were a war hero! To execute a traitor, a nobody like me, is what you should do!","—Вы были героем войны! Казнить предателя, казнить меня, такую ничтожность, — вот что вы должны были сделать!"
 line-497,Scout,老实点！,Behave yourself!,Успокойся!
 line-499,特蕾西娅,......,......,...

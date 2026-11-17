@@ -11,7 +11,7 @@ char-4,暴雨,暴雨,Heavyrain,Хэвирейн
 char-5,米诺斯士兵,米诺斯士兵,Minoan Soldier,Миносский солдат
 char-6,萨卡兹杀手,萨卡兹杀手,Sarkaz Assassin,Убийца Сарказа
 ,,,,
-line-8,,此处已经不再是你的容身之所。,This place will no longer shelter you.,Этому месту больше нет дела до твоего существования.
+line-8,,此处已经不再是你的容身之所。,This place will no longer shelter you.,Здесь тебе больше не найти приюта.
 line-9,,逃吧，逃吧。战士啊，你那可悲的命运已经定下结局。将不会再留有和你相符的生的职位。,"Begone, dear warrior. Turn about and flee. Your pitiful destiny is already set in stone. You have no place in this world any longer.","Беги же, беги. О воин, судьба твоя уже предрешена, и она прискорбна. Тебе больше не найдется места в мире живых."
 line-10,,是的，你的生，对我们来说已经毫无意义。,"Indeed, your existence has no meaning for us anymore.","Да, твоя жизнь для нас уже не имеет никакого значения."
 line-11,,......于是，从不因敌人的鼓声有一次颤抖，从不会因残忍的对手的嘶吼而退却的战士，她逃离此处。,"......Thus, the warrior fled. She, who never once trembled in fear under the thundering of the enemy's drums, who never faltered against the roars of her cruel opponents, turned and ran.","...И тогда воин, что никогда не дрожала от боевых барабанов врага и никогда не отступала перед ревом жестоких противников, бежала отсюда."
@@ -61,7 +61,7 @@ line-88,帕拉斯,让擅长的人去做擅长的事，我遵照着这份准则�
 line-89,帕拉斯,你只需确保自己的使命达成，其余担忧......自有可以化解的办法。,"You need only ensure your mission is completed. As for other matters... they will be resolved, one way or the other.","Тебе нужно лишь убедиться в исполнении своей миссии, а остальные тревоги... у них найдутся способы решения."
 line-91,萨卡兹佣兵,既然你只是听了听我的话，又不想改变想法，换谁来看着她不是一样？,"Since you refuse to change your mind even after listening to me, wouldn't it be the same if someone else was looking after her?","Раз ты только выслушала меня и не собираешься менять решение, какая разница, кто будет за ней следить?"
 line-93,帕拉斯,你在这里做了三个月的雇佣兵了，清楚这里是怎么回事。,You've been working as a mercenary here for three months now. I'm sure you're aware of the situation.,"Ты здесь наемником уже три месяца, прекрасно понимаешь, как здесь всё устроено."
-line-94,帕拉斯,如果是米诺斯人，别说两小时，不过十分钟，他们的愧疚便会蛀蚀那纯洁的心，迫使他们无从违抗自己的良心，不顾危险地伸出援助之手......,"If it were left to the Minoans, this would be over in ten minutes, much less two hours. Their guilt would gnaw at those pure hearts of theirs, bidding them to lend a hand, regardless of the danger...","Будь это миносец, не то что два часа, десяти минут хватило бы — чувство вины съело бы чистое сердце, вынуждая их нарушить голос разума и, не думая об опасности, протянуть руку помощи..."
+line-94,帕拉斯,如果是米诺斯人，别说两小时，不过十分钟，他们的愧疚便会蛀蚀那纯洁的心，迫使他们无从违抗自己的良心，不顾危险地伸出援助之手......,"If it were left to the Minoans, this would be over in ten minutes, much less two hours. Their guilt would gnaw at those pure hearts of theirs, bidding them to lend a hand, regardless of the danger...","Будь это миносец, не то что два часа, десяти минут хватило бы — чувство вины съело бы чистое сердце, вынуждая их подчиниться голосу совести и, не думая об опасности, протянуть руку помощи..."
 line-95,帕拉斯,如果是在这样的场景下，那些背叛真的发生了，村民们那颗赤忱的心该会多么动摇啊。,"In such a scenario, how badly shaken would those sincere hearts of theirs be, if that betrayal really came to fruition?","Если бы в подобной ситуации произошло предательство, как бы дрогнули сердца жителей деревни."
 line-97,萨卡兹佣兵,哈，说到底，你也承认这些村民就是婆婆妈妈的好心肠，把可能是敌人的命也看得那么重。,"Hah. In the end, even you admit that those villagers are way too soft-hearted, to value the life of a potential enemy.","Ха, в конечном счёте ты признаешь, что жители — это сердобольные простаки, которые ценят жизнь врага не меньше своей."
 line-99,帕拉斯,我能够理解你，萨卡兹人。村中的人有些已经认同了你，老人家也将你视如己出，这是善意的接纳。,"I understand you, Sarkaz. Some of the villagers have accepted you, and the elders view you as one of our own. You have their goodwill to thank for that.","Я могу тебя понять, сарказ. Некоторые в деревне тебя уже приняли, старики относятся к тебе как к своему, это проявление доброго принятия."
@@ -177,7 +177,7 @@ line-298,萨卡兹佣兵,......哦，总算出来了。,"Oh, finally out huh.","
 line-301,暴雨,萨卡兹人......,Sarkaz...,Сарказ...
 line-303,萨卡兹佣兵,怎么，看到我的个头和角就害怕了？,"What, my horns alone enough to scare you?","Что, боишься моего роста и рогов?"
 line-305,暴雨,你......！,You...!,Ты...!
-line-307,萨卡兹佣兵,既有嫌弃，又带点恐惧，这种第一眼就忌惮的样子我*萨卡兹粗口*见得太多了。,That look of fear and disgust... I've been judged at a glance too damned many times.,"И брезгливость, и страх — слишком часто я вижу такие глаза при первой встрече, *саргонское ругательство*."
+line-307,萨卡兹佣兵,既有嫌弃，又带点恐惧，这种第一眼就忌惮的样子我*萨卡兹粗口*见得太多了。,That look of fear and disgust... I've been judged at a glance too damned many times.,"И брезгливость, и страх — слишком часто я вижу такие глаза при первой встрече, *сарказское ругательство*."
 line-309,帕拉斯,还请见谅，勇敢的战士。你在此存在并无任何过错。,"I seek your forgiveness, brave warrior. Your existence is not at fault.","Прошу прощения, отважный воин. Ты ни в чем не виновата."
 line-311,萨卡兹佣兵,哼，你个祭司这么想，她呢？她才不会听你的劝。,"Hmph, I'm sure you think so, priestess. But what about her? She won't listen to you.","Хм, жрица, ты так думаешь, а она? Она тебя слушать не будет."
 line-313,暴雨,我......祭司，你说的是，帐篷外是米诺斯人驻守。,"I... Priestess, you said that there were Minoans standing guard outside.","Я... жрица, ты говорила, что снаружи дежурят миносцы."
@@ -186,7 +186,7 @@ line-317,帕拉斯,唔，的确是我的劝诫还不足以令人敬重，明明�
 line-319,暴雨,不见面更好。,Probably better this way.,Лучше не встречаться.
 line-320,暴雨,我马上就走，不在你们的战场闲逛。,I'll be leaving immediately. I don't want to loiter around your battlefield.,"Я сейчас же уйду, не буду бродить по вашему полю боя."
 line-322,帕拉斯,哎呀，现在就走吗，无畏的旅行者？,"Oh? Are you leaving now, fearless traveler?","Ой-ой, неужели сейчас уходишь, бесстрашная путешественница?"
-line-323,帕拉斯,阿克罗蒂最负盛名的村子离这里不远，如果你是位赶路的旅客，在此驻足欣赏一番或许会有别样的享受。,The famous village of Akroti is but a stone's throw away. You might find it worth your while to pay a visit.,"Самый известный город Акроти недалеко отсюда. Если ты путешествуешь, остановка здесь, чтобы насладиться видами, могла бы подарить тебе особое удовольствие."
+line-323,帕拉斯,阿克罗蒂最负盛名的村子离这里不远，如果你是位赶路的旅客，在此驻足欣赏一番或许会有别样的享受。,The famous village of Akroti is but a stone's throw away. You might find it worth your while to pay a visit.,"Самая известная деревня Акроти недалеко отсюда. Если ты путешествуешь, остановка здесь, чтобы насладиться видами, могла бы подарить тебе особое удовольствие."
 line-325,暴雨,不。,No.,Нет.
 line-327,帕拉斯,有，有剧场和影院哦？还有好吃的米诺斯餐厅......,E-Even if there are theaters and cinemas? There's also a really good Minoan restaurant...,Есть театр и кино! И вкуснейшие миносские рестораны...
 line-329,暴雨,没，兴，趣。,No. Thank. You.,"Не, ин, тересно."
@@ -211,7 +211,7 @@ line-360,帕拉斯,啊......可怜的，背负令人痛惜的悲伤过往的年�
 line-361,帕拉斯,至少留下你的姓名，我会为你祈祷，或是为你寻求即将面对的危险亦或是幸福之所的启示。,"Please at least leave your name, so that I may pray for you, whether it be strength to face the dangers ahead or guidance to the place you may find happiness.","Оставь хотя бы своё имя, я буду молиться за тебя или искать откровение о предстоящих тебе опасностях или месте счастья."
 line-363,暴雨,这个对萨尔贡人管用吗？,Are these prayers any good for people from Sargon?,Это работает на саргонцев?
 line-365,萨卡兹佣兵,哼，反正我是不太信。,"Heh. I don't believe in it, for what it's worth.","Хм, я, если честно, не особо верю."
-line-367,帕拉斯,（踩）,(Stomps on his foot),(Топот)
+line-367,帕拉斯,（踩）,(Stomps on his foot),(Наступает на ногу)
 line-370,萨卡兹佣兵,嘶......你个帕拉斯......！,*Hiss*... Pallas...!,"С-с... ты, Паллада...!"
 line-372,暴雨,“帕拉斯”？,'Pallas'?,«Паллада»?
 line-374,帕拉斯,（哎，暴露的事情要归咎于你了，萨卡兹勇士。）,"(*sigh* The blame for exposing me lies with you, Sarkaz warrior.)","(Ох, что проболталась, вини во всем себя, воин Сарказа.)"
@@ -294,7 +294,7 @@ line-510,萨卡兹杀手,——除非，她的这番荒唐的自由论调让我�
 line-511,萨卡兹杀手,我没猜错吧，你这满是破绽的巫女？,"I haven't guessed wrongly, have I? Witch.","Я угадал, правда, ты, дырявая шаманка?"
 line-513,帕拉斯,......实在是，毫无礼仪与品德的一头困兽。,What an uncultured and ill-manned beast.,"...Ты просто грязный, невоспитанный зверь в клетке."
 line-514,帕拉斯,你将自己看做一把肮脏的刀，不愿接受任何规劝，真的如此吗？,You view yourself as a dirty blade and refuse all counsel. Is that really the case?,"Ты считаешь себя грязным клинком, не желающим слышать ни одного совета, правда?"
-line-516,萨卡兹杀手,*萨卡兹粗口*，够了。我的同族，我和你没仇，睁只眼闭只眼吧，识趣些从这让开。,"*spits* That's enough. Kinsman, I have no quarrel with you. Close one eye and leave, if you know what's good for you.","*Саргонское ругательство*, хватит. Сородич, у меня нет к тебе ненависти, просто закрой глаза, уйди с дороги, будь разумным."
+line-516,萨卡兹杀手,*萨卡兹粗口*，够了。我的同族，我和你没仇，睁只眼闭只眼吧，识趣些从这让开。,"*spits* That's enough. Kinsman, I have no quarrel with you. Close one eye and leave, if you know what's good for you.","*Сарказское ругательство*, хватит. Сородич, у меня нет к тебе ненависти, просто закрой глаза, уйди с дороги, будь разумным."
 line-524,,杀手正欲将大刀砍向米诺斯祭司。此时，萨卡兹佣兵挡在祭司身前，纹丝不动。,"The assassin prepares to strike at the priestess. However, the mercenary steps in front of her, not moving an inch.","Убийца уже занес большой клинок на миносскую жрицу. В этот момент наемник Сарказа встал перед жрицей, не шелохнувшись."
 line-526,帕拉斯,......,......,...
 line-528,萨卡兹杀手,呵，怎么，身为萨卡兹人，你真的认为自己受了米诺斯人的洗礼，能够当个受人尊重的保镖？,"Oh, what's this? You're a Sarkaz, do you really think that you'll be treated as an honored bodyguard, with nothing but the blessings of the Minoans?","О, что такое, будучи Сарказом, ты всерьез думаешь, что после миносского крещения сможешь стать уважаемым телохранителем?"

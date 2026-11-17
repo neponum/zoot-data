@@ -16,9 +16,9 @@ line-12,PRTS,这段时间里......你一直徘徊在......,This entire time... Y
 line-13,PRTS,距离上次访问，已经过了1555555555555——,"Since your last visit, it has been 1555555555555—",С момента вашего последнего визита прошло 1 555 555 555 555 —
 line-14,？？？,嗯？这段对话听上去有点耳熟......,Hm? This sounds familiar...,М? Звучит как-то знакомо...
 line-15,PRTS,——555天。,—555 days.,— 555 дней.
-line-16,PRTS,欢迎使用原生罗德岛终端服务。,Welcome to the Primitive Rhodes Island Terminal Service.,"Добро пожаловать в службу обслуживания терминалов ""Родос"" ."
+line-16,PRTS,欢迎使用原生罗德岛终端服务。,Welcome to the Primitive Rhodes Island Terminal Service.,Добро пожаловать в службу обслуживания терминалов «Родос».
 line-17,PRTS,确认权限——42。,Confirming permissions—42.,Подтверждение прав доступа — 42.
-line-18,PRTS,——欢迎回来，LeaderOne。,"—Welcome, LeaderOne.","— С возвращением, Лидер Один."
+line-18,PRTS,——欢迎回来，LeaderOne。,"—Welcome, LeaderOne.","— С возвращением, LeaderOne."
 line-19,？？？,我肯定在哪听过类似的话。哎，说真的，我想听的是故事，不是这种啦......,"I'm pretty sure I heard this before. Eh, seriously, I want a story, not something like this...","Где-то я это уже слышал. Эй, серьезно, я хотел услышать историю, а не вот это..."
 line-20,PRTS,请理解，这并不是我擅长的领域。,Please understand that this is outside my area of expertise.,"Прошу понять, это не входит в область моих компетенций."
 line-21,？？？,好了好了，让大家互相多一些理解，共赴美好明天，是吧？我知道了。,"Okay, okay. Let's have everyone understand each other so we'll all live a better tomorrow, right? Yeah, I get it.","Ладно-ладно, больше взаимопонимания, стремимся к прекрасному будущему, да? Я понял."
@@ -45,24 +45,24 @@ line-57,可露希尔,哎，别这么沉默，这又不是坏事，只能说你�
 line-58,可露希尔,虽然现在我还是没办法搞懂数据库里那些分支结构的状况，更不用说读取的规律了......,"Though I still can't make heads or tails of all these branching structures in your database, let alone the rules for how things are even read in that thing...","Хотя я до сих пор не могу разобраться в тех ветвящихся структурах базы данных, не говоря уже о закономерностях считывания..."
 line-59,可露希尔,但至少我和凯尔希还是一起修改并且整理了其中的一部分。,"At the very least, Kal'tsit and I managed to fix and reorganize a decent chunk of it.",Но по крайней мере мы с Кальцит вместе модифицировали и упорядочили часть из них.
 line-60,可露希尔,怎么样，现在没有人会比我更了解你啦！,How's that? No one knows you better than me right now!,"Ну как, теперь никто не знает тебя лучше меня!"
-line-62,PRTS,......很遗憾我也无法在这方面帮助LeaderOne小姐。,"I feel terribly sorry that I can't help with that, LeaderOne.","...К сожалению, я тоже не могу помочь в этом Лидер Один."
+line-62,PRTS,......很遗憾我也无法在这方面帮助LeaderOne小姐。,"I feel terribly sorry that I can't help with that, LeaderOne.","...К сожалению, я тоже не могу помочь в этом LeaderOne."
 line-64,可露希尔,哈哈，突然这么恭敬做什么，如果遇到疑难杂症的病患都能自行诊断，那大部分医生就都得失业了。,"Haha, why so polite all of a sudden? If anyone could just self-diagnose themselves no matter what kinda weird diseases they had, then all the doctors in the world would be out of a job.","Ха-ха, откуда вдруг такая вежливость? Если бы пациенты со сложными заболеваниями могли диагностировать себя сами, большинство врачей остались бы без работы."
 line-69,可露希尔,欸，这里的内容是什么？,"Eh, what's this stuff in here?",Э? А это что тут у нас?
 line-70,可露希尔,我看看......,Let's see...,Дай-ка гляну...
-line-72,PRTS,你忘了吗？这是——,Have you forgotten? This is—,ВЫ забыли? Это —
+line-72,PRTS,你忘了吗？这是——,Have you forgotten? This is—,Вы забыли? Это —
 line-74,可露希尔,——是针对石棺的营救行动的模拟方案验证！,—The sarcophagus rescue operation simulated test runs!,— это проверка симуляционных сценариев спасательной операции саркофага!
 line-75,可露希尔,好复杂的线路......这么多行进路线模拟数据，就算我没去过现场，也能把那边可通行的路径都认识得差不多了。,"There were so many complicated routes... and we have so much data on these simulations. I may not have gone there myself, but I can recognize more or less all the pathways they could've taken.","Такие сложные линии... Столько данных моделирования маршрутов, что даже не бывав там, я почти выучила все доступные пути."
-line-80,,“——”,'——',“—”
-line-81,,“——进程04291601 验证失败......”,"'—Process 04291601, validation failed...'",“— Процесс 04291601: проверка не пройдена...”
-line-82,,“——进程07201159 验证损耗超标，结果失败......”,"'—Process 07201159, expenditure exceeded, validation failed...'","“— Процесс 07201159: потери при проверке превышают норму, результат провален...”"
-line-83,,“——进程08210957 验证结果成功......”,"'—Process 08210957, validation succeeded...'",“— Процесс 08210957: результат проверки успешен...”
-line-84,,“——进程09081800 验证失败，中断于......”,"'—Process 09081800, validation failed, terminated at...'","“— Процесс 09081800: проверка не пройдена, прервано на...”"
+line-80,,“——”,'——',«—»
+line-81,,“——进程04291601 验证失败......”,"'—Process 04291601, validation failed...'",«— Процесс 04291601: проверка не пройдена...»
+line-82,,“——进程07201159 验证损耗超标，结果失败......”,"'—Process 07201159, expenditure exceeded, validation failed...'","«— Процесс 07201159: потери при проверке превышают норму, результат провален...»"
+line-83,,“——进程08210957 验证结果成功......”,"'—Process 08210957, validation succeeded...'",«— Процесс 08210957: результат проверки успешен...»
+line-84,,“——进程09081800 验证失败，中断于......”,"'—Process 09081800, validation failed, terminated at...'","«— Процесс 09081800: проверка не пройдена, прервано на...»"
 line-89,可露希尔,虽然我印象中的确是进行过不少尝试......,My impression is that we did run this quite a few times...,"Хотя по моим воспоминаниям, попыток было действительно немало..."
 line-90,可露希尔,但——,But—,Но —
-line-96,,“——进程11290957 验证结果成功......”,"'—Process 11290957, validation succeeded...'",“— Процесс 11290957: результат проверки успешен...”
-line-97,,“——进程12010955 ............”,'—Process 12010955...',“— Процесс 12010955 ...”
-line-98,,“......”,'......',“...”
-line-99,,“——进程项目合计共167项，执行节点数3711。”,'—Process tally: 167; execution nodes: 3711.',"“— Итого процессов: 167, количество узлов выполнения: 3711.”"
+line-96,,“——进程11290957 验证结果成功......”,"'—Process 11290957, validation succeeded...'",«— Процесс 11290957: результат проверки успешен...»
+line-97,,“——进程12010955 ............”,'—Process 12010955...',«— Процесс 12010955 ...»
+line-98,,“......”,'......',«...»
+line-99,,“——进程项目合计共167项，执行节点数3711。”,'—Process tally: 167; execution nodes: 3711.',"«— Итого процессов: 167, количество узлов выполнения: 3711.»"
 line-104,可露希尔,但没想到次数竟然有这么多？！,Did it seriously run THAT many times though?!,Неужели это действительно происходило ТАК много раз?!
 line-106,PRTS,即使如此，也仅有两次模拟的结果是成功营救博士并安全撤离切尔诺伯格。,"While that may be the case, the Doctor was successfully evacuated from Chernobog in only two of the simulations.","Даже при этом, только два результата симуляции привели к успешному спасению Доктора и безопасной эвакуации из Чернобога."
 line-107,PRTS,这是在当时有限时间内能做到的最多次演算。若行动前还有时间，一定会进行更多的测试以寻求更稳定合理的营救方案。,"These are all the simulations I was able to complete with the short amount of time I had. Had there been more time, I would have conducted even more test runs to find an even more optimal and stable rescue plan.","Это было максимальное количество вычислений, возможных за ограниченное время. Если бы перед операцией было ещё время, мы бы обязательно провели больше тестов для поиска более стабильного и разумного плана спасения."
@@ -74,7 +74,7 @@ line-115,可露希尔,讨论已经发生的事其实没什么意义，毕竟现�
 line-116,可露希尔,啊不对，偏题了。不管怎么说，如果当初我们真的否决了这个行动，那就意味着......,"Uh, anyways... if we'd called this operation off, that'd also mean...","Ай, нет, отвлеклась. В любом случае, если бы тогда мы действительно отклонили эту операцию, это означало бы..."
 line-117,可露希尔,哈，我不太想这么说，你可能会觉得听起来太夸张，太煽情了。但确实，我有的时候真的会这么觉得，如果当时我们否决了救援行动——,"Heh, I don't really wanna say this, and it probably sounds like I'm exaggerating, and it's too sentimental, but the idea pops into my head every once in a while. If we'd called it off—","Ха, не очень хочется это говорить, вы подумаете, что это звучит слишком пафосно и сентиментально. Но правда, иногда мне действительно кажется, что если бы мы тогда отклонили спасательную операцию —"
 line-118,可露希尔,那我们可能已经失去未来。,It would've cost us our future.,— то мы могли бы уже потерять наше будущее.
-line-120,PRTS,LeaderOne。,LeaderOne.,Лидер Один.
+line-120,PRTS,LeaderOne。,LeaderOne.,LeaderOne.
 line-122,可露希尔,嗯，怎么了？,Hmm? What's up?,"Да, что такое?"
 line-124,PRTS,将未来赌在一个人身上真的合理吗？,Is it really reasonable to bet it all on one single person?,Разумно ли ставить будущее на одного человека?
 line-125,PRTS,我能理解你们以此付诸行动的动机。但从成功率上，我并不支持这样的行动。,"I can understand what had driven you to make this decision. However, considering the odds, I do not support an operation like this.","Я понимаю мотивацию, с которой вы пошли на этот шаг. Но с точки зрения вероятности успеха, я не поддерживаю подобные действия."
@@ -187,7 +187,7 @@ line-281,PRTS,很少看你这么严肃评价一个人。,It isn't often that you
 line-283,可露希尔,嗯......那大概是因为我是真的，从心底敬佩博士吧。,"Yeah... that's probably because I really admire the Doctor, from the bottom of my heart.","М-м... Наверное, это потому, что я действительно от всей души восхищаюсь Доктором."
 line-284,可露希尔,在特蕾西娅离开后的那段时间，我们过得很难，两年间我们失去了太多人......这些你是最清楚的。,It was hard on everyone when Theresa left us. We lost way too many people in those two years... You know that better than anyone else.,"В тот период после ухода Терезы нам было очень трудно, за два года мы потеряли слишком многих... Ты это знаешь лучше всех."
 line-285,可露希尔,我们可以说是走投无路，无论选择什么方向，都一样是在走随时会崩断的钢丝绳。,"We were driven into a corner, basically. No matter which way we decided to go, we were walking a rope that could snap at any time.","Можно сказать, мы оказались в тупике, любой выбор был как хождение по тонкой проволоке, которая вот-вот порвется."
-line-286,可露希尔,最终阿米娅提出，我们必须要打破当时的困境。,"In the end, it was Amiya who decided we had to do something to get us out of that mess.","В В конце концов, именно Амия решила, что мы должны что-то предпринять, чтобы выбраться из этой передряги."
+line-286,可露希尔,最终阿米娅提出，我们必须要打破当时的困境。,"In the end, it was Amiya who decided we had to do something to get us out of that mess.","В конце концов, именно Амия решила, что мы должны что-то предпринять, чтобы выбраться из этой передряги."
 line-288,PRTS,结论是——迎回博士。,And her conclusion—bring back the Doctor.,И её решение — вернуть Доктора.
 line-290,可露希尔,没错。阿米娅相信博士会改变很多事，那个时候的罗德岛迫切需要一些变化。,"That's right. Amiya believed the Doctor would bring lots of change, something that Rhodes Island desperately needed at the time.","Именно. Амия верила, что Доктор изменит многое, в то время Родосу остро требовались изменения."
 line-291,可露希尔,这确实就是一场豪赌。,"It was a gamble, really.",Это действительно была огромная ставка.
@@ -201,7 +201,7 @@ line-300,可露希尔,PRTS，我从来都觉得你的存在非常不可思议。
 line-301,可露希尔,你已经完全是像个人类一样在思考，但......还缺一点点，或许你还缺一点点人类会有的东西。,"The way you think is basically on the level of humans, but... you're still lacking something... something human.","Ты думаешь совершенно как человек, но... не хватает самую малость, возможно, тебе не хватает того, что есть у людей."
 line-303,PRTS,......那是什么？,What would that be...?,...Что это?
 line-305,可露希尔,执着。,Persistence.,Упорство.
-line-306,可露希尔,这是一种可能会促成人们做成很伟大的事并令他们变成魔鬼的东西。,"That's the kinda thing that drives people to achieve great things, and sometimes turns them into monsters.","Именно это побуждают людей к великим свершениям, а порой и превращает их в чудовищ."
+line-306,可露希尔,这是一种可能会促成人们做成很伟大的事并令他们变成魔鬼的东西。,"That's the kinda thing that drives people to achieve great things, and sometimes turns them into monsters.","Именно это побуждает людей к великим свершениям, а порой и превращает их в чудовищ."
 line-316,可露希尔,......哎？等等，不对啊，我刚开始好像是说要和你讲个故事来着？,"Eh...? Wait, what am I doing? I thought I was gonna tell you a story.","...Эй? Подожди, нет, я ведь начала с того, что хотела рассказать тебе историю?"
 line-317,可露希尔,可恶，本来是想讲讲我“卡兹戴尔信息世界的破坏者”英勇帅气的冒险故事的，怎么不知不觉就偏题了......,"Dammit, I was going to talk about my heroic adventures as the 'Destroyer of the Kazdel Information World,' but somehow I got so off topic...","Черт, хотела же рассказать свою героическую и классную историю приключений «Разрушителя информационного мира Казделя», как я умудрилась отвлечься..."
 line-319,PRTS,我认为今天的谈话很有意义。,I think our conversation today has been meaningful.,"Я считаю, что сегодняшний разговор очень значим."
@@ -211,20 +211,20 @@ line-324,可露希尔,不行！今天的对话不允许记录啊！我可不想�
 line-325,可露希尔,......等一下，你不会故意播给她听吧？,"Hold on... You won't play this for her, right?","...Подожди, ты ведь не будешь намеренно проигрывать ей этот разговор?"
 line-327,PRTS,不会。,I won't.,Нет.
 line-329,可露希尔,那就好......,"Well, that's good to hear...",Ну и хорошо...
-line-331,PRTS,LeaderOne。,LeaderOne.,Лидер Один.
+line-331,PRTS,LeaderOne。,LeaderOne.,LeaderOne.
 line-333,可露希尔,嗯？,Hmm?,Да?
-line-335,PRTS,你还记得午夜零点自动播放“可露希尔的午夜录像超商”的那个舱室吗？,Do you remember when you set a cabin to play 'Closure's Midnight Video Market' every night at 00:00?,Помните как каждую полночь вы включали в своей кабинке «Полуночный видеорынок Клозур»?
+line-335,PRTS,你还记得午夜零点自动播放“可露希尔的午夜录像超商”的那个舱室吗？,Do you remember when you set a cabin to play 'Closure's Midnight Video Market' every night at 00:00?,Помните как каждую полночь вы включали в своей кабинке «Полуночный видеорынок Кложер»?
 line-337,可露希尔,啊？,Huh?,А?
 line-339,PRTS,我认为今天你对博士的评价情真意切，令作为非生命体的我也有所触动，理应在博士的办公室内循环播放至少一个月......,"Your evaluation of the Doctor has been so sincere that even I, an inorganic being, was moved. We should have it on loop in the Doctor's office for at least a month...","Ваша оценка Доктора сегодня была очень искренней и тронула даже меня, неживое существо, поэтому её стоит покрутить в кабинете Доктора хотя бы месяц..."
 line-342,可露希尔,停！停停停，千万别！,"Stop! Stop, stop, stop! Don't do it!","Стоп! Стоп-стоп, ни в коем случае!"
-line-343,可露希尔,千万别这么干！在被凯尔希抓出来之前，我就会因为羞耻过度而吐血，然后成为血魔真正的耻辱！,"Seriously, don't you dare! I'd start coughing up blood from embarrassment even before Kal'tsit got to me. Now that'd make me a real disgrace to the vampires!","Не смей! Я помру от стыда ааньше, чем меня схватит Кальцит, и я стану настоящим позором для всех вампиров!"
+line-343,可露希尔,千万别这么干！在被凯尔希抓出来之前，我就会因为羞耻过度而吐血，然后成为血魔真正的耻辱！,"Seriously, don't you dare! I'd start coughing up blood from embarrassment even before Kal'tsit got to me. Now that'd make me a real disgrace to the vampires!","Не смей! Я помру от стыда раньше, чем меня схватит Кальцит, и я стану настоящим позором для всех вампиров!"
 line-345,PRTS,好吧。令人遗憾。,Alright. What a shame.,Хорошо. Жаль.
 line-347,可露希尔,没什么好遗憾的！真的。你的性格是不是变坏了？这次我一定要给你设个程序限制你的播放权限。,"What's a shame?! Sheesh, your personality's really taken a turn for the worse. I'm gonna set a program that restricts your playback permissions one of these days.",Ничего не жаль! Серьезно. Твой характер испортился? В этот раз я точно поставлю ограничение на воспроизведения.
 line-353,可露希尔,权限限制......好，这就行了！,"Restricting permissions... Right, this will do!","Ограничение... хорошо, вот так!"
 line-358,可露希尔,嗯，你的检查也差不多结束了，那我今天就先走——,"Yep, your checkup is just about done. Well, I'll get going—","Хм, твоя проверка почти закончилась, тогда я сегодня пойду —"
 line-361,可露希尔,——哇！{@nickname}博士！,—Whoa! Dr. {@nickname}!,— Ой! Доктор {@nickname}!
 line-362,可露希尔,你怎么在这......你是从什么时候起在这里的啊？！,What are you doing here... How long have you been there?!,Ты как здесь... с какого момента ты тут?!
-line-365,,刚刚才来。;......;可能是刚刚才来吧。,I just got here.;......;I just got here... maybe.,Только пришел.;...;Только пришел... Возможно
+line-365,,刚刚才来。;......;可能是刚刚才来吧。,I just got here.;......;I just got here... maybe.,Только пришел.;...;Только пришел... Наверное.
 line-368,可露希尔,怎么感觉怪可疑的。,Feels kinda suspicious.,Как-то подозрительно.
 line-370,PRTS,......,......,...
 line-372,可露希尔,博士是来查看之前的作战记录吗？哎，别站在门口了，快进来快进来。正好我刚结束PRTS的检查。,"Are you here to check the battle records from the other day? Eh, don't just stand there. Come on in! I just finished PRTS's checkup.","Доктор пришел посмотреть записи предыдущих боёв? Эй, хватит стоять у двери, заходи. Я как раз закончила проверку PRTS."
@@ -236,7 +236,7 @@ line-382,,......,......,...
 line-386,,PRTS。,PRTS.,PRTS.
 line-388,PRTS,请说。,"Please, go ahead.",Слушаю.
 line-390,,......,......,...
-line-392,PRTS,LeaderOne的评价很准确，你确实变得更加沉默了。,LeaderOne's evaluation was very much on point. You've gotten quieter.,"Оценка Лидер Один точна, вы действительно стали более молчаливы."
+line-392,PRTS,LeaderOne的评价很准确，你确实变得更加沉默了。,LeaderOne's evaluation was very much on point. You've gotten quieter.,"Оценка LeaderOne точна, вы действительно стали более молчаливы."
 line-393,PRTS,如果希望查询目前罗德岛运作的细节，或针对过往资料有任何疑问，都可以直接提出。,"Please feel free to ask anything you would like, from Rhodes Island's current operational details to any questions you have regarding our archived files.","Пожалуйста, не стесняйтесь задавать любые вопросы. Если вы хотите узнать детали работы Родоса или у вас есть вопросы по старым материалам, вы можете задать их напрямую."
 line-395,,真的什么都可以？,Anything at all?,Действительно любой?
 line-397,PRTS,任何存储在我的资料库中，并且符合Dr.{@nickname}你所拥有的权限的条目。,As long as they are files in my database and you possess the sufficient permissions.,"Любой пункт, который хранится в моей базе данных и соответствует правам доступа, которыми вы, Доктор {@nickname}, обладаете."

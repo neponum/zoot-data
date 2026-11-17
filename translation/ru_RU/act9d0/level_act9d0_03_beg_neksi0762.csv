@@ -11,7 +11,7 @@ char-4,凯尔希,凯尔希,Kal'tsit,Кальцит
 char-5,？？？,？？？,???,???
 char-6,娇小的卡特斯,娇小的卡特斯,Small Cautus,Маленькая каута
 char-7,可露希尔,可露希尔,Closure,Кложер
-char-8,特蕾西娅,特蕾西娅,Theresa,Терезис
+char-8,特蕾西娅,特蕾西娅,Theresa,Тереза
 ,,,,
 line-14,,那些萨卡兹都停下了。,The Sarkaz stopped.,Те Сарказы остановились.
 line-15,,燃烧着的废墟向中心挤压过来，那些怪物一样的敌人居高临下。,The burning ruins collapsed in towards the center. Those monstrous creatures looked down on us from above.,"Пылающие руины смыкались к центру, и те чудовищные враги возвышались над нами."
@@ -33,7 +33,7 @@ line-41,,她的伤很重......如果我们不在这里作应急处理......,She 
 line-42,,......如果......他......会找到这里......我们没有时间......,...If... he... finds this place... We're out of time...,...Если... он... найдёт это место... у нас нет времени...
 line-43,,......凯尔希，来搭把手。,"...Kal'tsit, give me a hand.","...Кальцит, помоги мне."
 line-46,,......唉，好吧。,...*Sigh*. Fine.,...*Вздох*. Ладно.
-line-56,W,——！,——!,—！
+line-56,W,——！,——!,—!
 line-57,W,这里是——,Where am I...?,Где мы—
 line-59,伊内丝,船上。,On a landship.,На корабле.
 line-61,W,船......？,Landship...?,На корабле...?
@@ -50,7 +50,7 @@ line-76,伊内丝,......他在和雇主......不，他在和......和这里的�
 line-78,W,也对，既然你还愿意乖乖待在这里，那赫德雷肯定没事。,"Right. If you're still hanging around here, Hoederer must be fine.","Верно. Раз ты все ещё послушно сидишь здесь, значит, с Хёдерером точно все в порядке."
 line-80,伊内丝,啧。,Tch.,Тц.
 line-82,W,那么，这里的主人是怎么回事？,So what's the deal with 'the boss of this place?',Так что насчет хозяина этого места?
-line-83,W,你好像很紧张，我不需要你那种有害视力的源石技艺就能感觉到。,You look nervous. And I don't need to blind myself with Originium Arts to figure that out.,"Ты, кажется, очень напряжена. Мне даже не нужно ослеплять себя Ориджиниумными искусствами, чтобы это понять."
+line-83,W,你好像很紧张，我不需要你那种有害视力的源石技艺就能感觉到。,You look nervous. And I don't need to blind myself with Originium Arts to figure that out.,"Ты, кажется, очень напряжена. Мне даже не нужно ослеплять себя ориджиниумными искусствами, чтобы это понять."
 line-85,伊内丝,......你不会以为，我待在这里真的是在关心你吧？,Don't tell me you think I'm hanging out here because I care about you?,"...Ты ведь не думаешь, что я остаюсь здесь только из беспокойства о тебе?"
 line-87,W,我想也不是，那是为了什么？,Definitely not. So what's the reason?,"Думаю, нет. Так ради чего?"
 line-89,伊内丝,唉。,*Sigh.*,*Вздох.*
@@ -61,11 +61,11 @@ line-100,凯尔希,......你不用这么紧张，会影响到会议的效率。,
 line-101,凯尔希,你们尽力做到了最好，而泄露了情报是我们的失误。,You did the best you could. The leak was our fault. ,"Вы сделали всё, что могли, а утечка информации — это наша ошибка."
 line-103,赫德雷,......战场上无论对错，我很清楚我们在和谁作对。,We don't really look for fault on the battlefield. I know who I'm dealing with.,"...На поле боя не бывает правых и виноватых, я прекрасно понимаю, против кого мы сражаемся."
 line-105,凯尔希,那就好。,Good.,Хорошо.
-line-107,赫德雷,可我没想到那位指挥官......原来真的是殿下身边的人。,But I can't say I expected that commander... to be one of Her Majesty's own.,"Но я не ожидал, что тот командир... на самом деле человек, приближенный к Вашему Высочеству."
+line-107,赫德雷,可我没想到那位指挥官......原来真的是殿下身边的人。,But I can't say I expected that commander... to be one of Her Majesty's own.,"Но я не ожидал, что тот командир... на самом деле человек, приближенный к Её Высочеству."
 line-108,赫德雷,您的......那种力量也让我深感意外，我还没有为您出手相助正式道谢，凯尔希医生。,"You're... a lot stronger than I expected. I haven't had a chance to thank you yet, Dr. Kal'tsit.","Ваша... сила также стала для меня неожиданностью. Я ещё не успел официально поблагодарить вас за помощь, доктор Кальцит."
 line-110,凯尔希,谢特蕾西娅吧，是她的意思。,Theresa's the one you should be thanking.,"Благодарите Терезу, это было её решение."
 line-113,？？？,我怎么了？,What was that about me?,Благодарить меня?
-line-116,赫德雷,——！,——!,—！
+line-116,赫德雷,——！,——!,—!
 line-118,赫德雷,殿下——,Your Majesty——,Ваше Высочество—
 line-124,？？？,这里不是卡兹戴尔，不必多礼，我们坐下谈吧，赫德雷。,"We're not in Kazdel anymore. Let's not stand on ceremony. We're here to sit down and talk, Hoederer.","Мы не в Казделе, не нужно лишних церемоний. Давайте сядем и поговорим, Хёдерер."
 line-126,赫德雷,......遵命。,By your command.,...Слушаюсь.
@@ -84,7 +84,7 @@ line-152,W,好吧，那我就换条路吧。,Okay. I'll go somewhere else.,"Ла
 line-154,娇小的卡特斯,谢谢。,Thanks.,Спасибо.
 line-160,W,......真有礼貌啊，那双耳朵，果然不是萨卡兹吧。,"What a nice kid. With those ears, she's definitely not Sarkaz.",...Очень вежливая. Эти уши... она точно не Сарказ.
 line-161,W,说起来，那个比伊内丝还讨人厌的女人，好像是个医生来着？也不是萨卡兹......,"Come to think of it, that one lady who sucks even more than Ines, that doctor, she isn't a Sarkaz either...","Кстати, та женщина, которая ещё неприятнее Инес, кажется, врач? Тоже не Сарказ..."
-line-162,W,这里到底是怎么回事，明明身在战场的中心，尽是些萨卡兹之外的——,What's going on here? I look around in the middle of a battle and nobody's Sarkaz?,"Что здесь происходит? Мы должны находиться в центре поля боя, но вокруг ни одного Сарказа"
+line-162,W,这里到底是怎么回事，明明身在战场的中心，尽是些萨卡兹之外的——,What's going on here? I look around in the middle of a battle and nobody's Sarkaz?,"Что здесь происходит? Мы должны находиться в центре поля боя, но вокруг ни одного Сарказа."
 line-166,,怎么又卡住了啊！！,How could you be jammed again?!,Почему оно снова зависло!!
 line-168,W,唔？,Huh?,М?
 line-174,？？？,冷、冷静点，可露希尔，不过是今天的第七次短路——,"Happy place, Closure. That's only the seventh short circuit today...","С-спокойнее, Клозур, это всего лишь седьмое замыкание за сегодня—"
@@ -101,15 +101,15 @@ line-189,可露希尔,——就把它替换成可以弄明白的！非常简单�
 line-191,？？？,......那，就交给你了。,Well... I'll leave you to it then.,...Тогда я доверю это тебе.
 line-193,可露希尔,得令！,Roger that!,Есть!
 line-195,？？？,......唉。,...*Sigh*.,...*Вздох*.
-line-196,？？？,罗德岛......还要很久才能投入使用吗......,Rhodes Island... how long will it be until you're up and running...?,"""Родос""... сколько времени пройдёт, прежде чем ты будешь готов...?"
-line-201,W,罗德岛？,Rhodes Island?,"""Родос""?"
+line-196,？？？,罗德岛......还要很久才能投入使用吗......,Rhodes Island... how long will it be until you're up and running...?,"«Родос»... сколько времени пройдёт, прежде чем ты будешь готов...?"
+line-201,W,罗德岛？,Rhodes Island?,«Родос»?
 line-203,？？？,啊——,Oh...,А—
 line-204,？？？,你是......我记得是和赫德雷一起的......,"You're... I remember, you were with Hoederer...","Ты... я помню, ты была с Хёдерером..."
 line-205,？？？,你醒了吗？你之前伤的很重。,You've regained consciousness? Your wounds were quite serious.,Ты очнулась? У тебя были тяжелые ранения.
 line-207,W,（她刚才那算是被吓到了吗......）,(Did I scare her...?),"(Она что, испугалась?...)"
-line-208,W,佣兵W，我在找赫德雷队长，然后不小心迷路——,"I'm W, the mercenary. I'm looking for Captain Hoederer and I kinda got lost...",Наемница W. Я искала капитана Хёдерера и случайно заблудилась—
+line-208,W,佣兵W，我在找赫德雷队长，然后不小心迷路——,"I'm W, the mercenary. I'm looking for Captain Hoederer and I kinda got lost...",Наёмница W. Я искала капитана Хёдерера и случайно заблудилась—
 line-210,？？？,侦查的时候要留神点，有些区域还在施工，电缆都裸露在外，小心触电。,Be careful where you wander. This place is still being built. There are a lot of exposed wires. You could get shocked.,"Будь осторожнее. Некоторые зоны всё ещё на ремонте, кабели обнажены, берегись удара током."
-line-211,？？？,不过这种程度的谨慎应该也算是你们雇佣兵的天性了吧。,"But I have a feeling such caution is second nature to you, no?","Впрочем, такая осмотрительность — часть вашего наемничьего естества."
+line-211,？？？,不过这种程度的谨慎应该也算是你们雇佣兵的天性了吧。,"But I have a feeling such caution is second nature to you, no?","Впрочем, такая осмотрительность — часть вашего наёмничьего естества."
 line-213,W,......,......,...
 line-215,？？？,W，是吗。,"W, was it?","W, верно?"
 line-216,？？？,叫我特蕾西娅吧。,You may call me Theresa.,Зови меня Тереза.
@@ -124,7 +124,7 @@ line-230,特蕾西娅,这也不是件小事。,It's not just a door.,Это во
 line-232,W,是......吗？,O... kay?,...хорошо?
 line-234,特蕾西娅,有多少事是真的不值得去关注的呢？,How many things are there totally unworthy of my attention?,"Много ли есть вещей, которые на самом деле не заслуживают внимания?"
 line-236,W,......,......,...
-line-237,W,......那罗德岛是？,So what's Rhodes Island?,"...Так, что такое ""Родос""?"
+line-237,W,......那罗德岛是？,So what's Rhodes Island?,"...Так, что такое «Родос»?"
 line-239,特蕾西娅,欸，你听见了啊。,"Oh, you heard that.","Ох, ты услышала."
 line-240,特蕾西娅,是这艘船的名字，虽然还没有正式的命名仪式，我......想这么称呼它。,That is the name of this vessel. Although it has not yet been officially christened... that is the name I wish for it.,"Это имя корабля. Официальной церемонии ещё не было, но я... хочу называть его так."
 line-241,特蕾西娅,只是一厢情愿而已，说不定博士和凯尔希会反对用它的“本名”呢。,Maybe it's just my whimsy. The Doctor and Kal'tsit may reject its 'true name.',"Это лишь мое желание, возможно, Доктор и Кальцит будут против того, чтобы использовать его «истинное имя»."
@@ -152,7 +152,7 @@ line-274,特蕾西娅,那你呢？,What about you?,А как насчет теб
 line-276,W,我？,What about me?,Меня?
 line-278,特蕾西娅,我是特蕾西娅，它是罗德岛，你呢？,"I am Theresa, this is Rhodes Island, and you are?","Я — Тереза, это — Родос, а кто ты?"
 line-280,W,“W”......,'W'......,«W»...
-line-282,特蕾西娅,不是说那个，“W”只代表一个雇佣兵。你的名字才能代表你自己。,That's not what I mean. 'W' is a mercenary codename. I want to know your true name. The one that represents you..,Я не об этом. «W» — лишь псевдоним наемника. Только твое имя представляет тебя саму.
+line-282,特蕾西娅,不是说那个，“W”只代表一个雇佣兵。你的名字才能代表你自己。,That's not what I mean. 'W' is a mercenary codename. I want to know your true name. The one that represents you..,Я не об этом. «W» — лишь псевдоним наёмника. Только твое имя представляет тебя саму.
 line-283,特蕾西娅,不要让这种沾满战火气息的伪装持续太久，不光是说名字，就算是我多管闲事吧。,You need not cloak yourself in a disguise tainted by war. This goes beyond names. Let's just say I'm nosy.,"Не позволяй этому пропитанному войной камуфляжу затянуться надолго. И я не только про имя... считай, что я лезу не в свое дело."
 line-285,W,......,......,...
 line-287,特蕾西娅,啊......抱歉。,Oh... forgive me.,А... прошу прощения.
@@ -166,12 +166,12 @@ line-296,特蕾西娅,就像罗德岛一样，如果有个名字的话，听上�
 line-298,W,......,......,...
 line-299,W,我没想过这种......,I never really thought about it...,Я никогда не думала об этом...
 line-305,凯尔希,特蕾西娅，通讯。,"Theresa, message.","Тереза, сообщение."
-line-306,凯尔希,卡兹戴尔有动作，博士已经在着手布置了。,Kazdel is on the move. The Doctor is getting ready.,"Казделб в движение, Доктор уже занимается планом."
+line-306,凯尔希,卡兹戴尔有动作，博士已经在着手布置了。,Kazdel is on the move. The Doctor is getting ready.,"Каздель в движении, Доктор уже занимается планом."
 line-308,特蕾西娅,嗯，我马上就去。,"Right, I'm on my way.","Хорошо, я иду."
 line-309,特蕾西娅,W？,W?,W?
 line-311,W,啊，嗯，我在。,"Oh, yeah, I'm here.","А, да, я здесь."
 line-313,特蕾西娅,如果你还愿意为我们而战，无论你那时在做什么，这里都随时欢迎你。,"If you are willing to fight for us still, you will always be welcome here. No matter what.","Если ты ещё хочешь сражаться за нас, что бы ты ни делала, здесь тебе всегда рады."
-line-320,凯尔希,......唉。,...*Sigh*.,...*Вздох*
+line-320,凯尔希,......唉。,...*Sigh*.,...*Вздох*.
 line-321,凯尔希,我不会对特蕾西娅的决定指手画脚，但是......,"I'm not going to criticize Theresa's decision, but...","Я не буду указывать Терезе, что делать, но..."
 line-322,凯尔希,不要以为你会在这里大受欢迎，我看过你的全部履历，你很危险。,Don't expect too warm a welcome. I've seen your record. You're dangerous.,"Не думай, что здесь тебе все обрадуются. Я видела твое досье, ты очень опасна."
 line-324,W,呃，彼此彼此？,Oh. Same?,"О, взаимно?"
@@ -194,7 +194,7 @@ line-350,W,（是不是看向这边了......）,(Is that person... looking my wa
 line-351,W,（......）,（......）,(...)
 line-352,W,（怎么回事......为什么......）,(What the... Why...?),(Что происходит... почему...)
 line-353,W,（我在害怕？怕什么？他给人的感觉就是普通的......不，太模糊了，我没见过这样诡异的人......）,"(Am I scared? Scared of what? That person gives off pretty normal vibes, but...? No, it's too vague. I've never seen anyone that weird before...)","(Мне страшно? Чего я боюсь? От него исходит ощущение обычного... нет, слишком расплывчато, я не видела таких странных людей...)"
-line-354,W,（啊......巴别塔的战地指挥官，我好像想起来了......）,(Oh... that's Babel's battlefield commander. I remember now...),"(А... полевой командир Вавилона, кажется, я начинаю вспоминать...)"
+line-354,W,（啊......巴别塔的战地指挥官，我好像想起来了......）,(Oh... that's Babel's battlefield commander. I remember now...),"(А... полевой командир «Вавилона», кажется, я начинаю вспоминать...)"
 line-355,W,（“博士”，是吗。）,"('The Doctor,' huh?)","(«Доктор», значит.)"
 line-360,,我开始明白伊内丝为什么不敢靠近殿下了。,I'm starting to get why Ines wouldn't go near Her Majesty.,"Я начала понимать, почему Инес не решается подойти к Высочеству."
 line-361,,也许我也该担忧一下，才是对自己好吧。,Maybe it would be better to look out for myself every once in a while.,"Может, мне тоже стоит начать беспокоиться о собственной безопасности."
