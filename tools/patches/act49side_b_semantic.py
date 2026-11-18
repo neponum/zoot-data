@@ -1,0 +1,122 @@
+# -*- coding: utf-8 -*-
+"""Full RU<->ZH<->EN semantic review, act49side second half (07_beg .. st02)."""
+PATCHES = [
+    # --- 07_beg: inverted negation ("永远都不会" = never, not "always will be") ---
+    ('act49side/level_act49side_07_beg_nep0num.csv', 'line-169',
+     'Разве она всегда будет такой?',
+     'Разве она никогда не станет такой?'),
+
+    # --- 07_end: extra sentence duplicating line-287; chess/Go; place; 时辰=2h ---
+    ('act49side/level_act49side_07_end_nep0num.csv', 'line-286',
+     ' в пол-очка. Однако игрок был уже на грани истощения.',
+     ' в пол-очка.'),
+    ('act49side/level_act49side_07_end_nep0num.csv', 'line-287',
+     'А шахматист был уже при смерти.',
+     'А игрок был уже при смерти.'),
+    ('act49side/level_act49side_07_end_nep0num.csv', 'line-549',
+     'мою Хранительницу едва удалось избежать по пути сюда',
+     'моя Хранительница чуть не застала меня дома'),
+    ('act49side/level_act49side_07_end_nep0num.csv', 'line-567',
+     'Примерно час назад.',
+     'Примерно два часа назад.'),
+
+    # --- 08_beg: 时辰=2h; "出招吧" = attack, not "defend" ---
+    ('act49side/level_act49side_08_beg_nep0num.csv', 'line-429',
+     'очнется через час.',
+     'очнется через два часа.'),
+    ('act49side/level_act49side_08_beg_nep0num.csv', 'line-522',
+     'Защищайтесь.',
+     'Атакуйте!'),
+
+    # --- 08_end: 小年 = Сяо Нянь, not "Сянь" (cf. 10_end line-423) ---
+    ('act49side/level_act49side_08_end_nep0num.csv', 'line-267',
+     'Но Сянь рассказывала мне',
+     'Но Сяо Нянь рассказывала мне'),
+
+    # --- 09_beg: 阿戈尔 canon = Агор (not Ægirian калька) ---
+    ('act49side/level_act49side_09_beg_nep0num.csv', 'line-282',
+     'вторжения Эгир с моря',
+     'вторжения Агор с моря'),
+
+    # --- 09_end: 睚 is female ("祂" here), cf. line-549 "Она так ненавидела" ---
+    ('act49side/level_act49side_09_end_nep0num.csv', 'line-548',
+     'Аватар не желал называть своих сородичей именами, которые дали им люди, но тут же осознал:',
+     'Аватар не желала называть своих сородичей именами, которые дали им люди, но тут же осознала:'),
+
+    # --- 10_beg: straight quotes -> nested „…“ ---
+    ('act49side/level_act49side_10_beg_nep0num.csv', 'line-580',
+     'иероглиф "досуг"',
+     'иероглиф „досуг“'),
+    ('act49side/level_act49side_10_beg_nep0num.csv', 'line-615',
+     'проиграл "непостижимости человеческого сердца"',
+     'проиграл „непостижимости человеческого сердца“'),
+    ('act49side/level_act49side_10_beg_nep0num.csv', 'line-708',
+     '«"И что с того"?»',
+     '«„И что с того?“?»'),
+
+    # --- 11_end: stone->star river was reversed; "Ориджиниум" canon; genders ---
+    ('act49side/level_act49side_11_end_nep0num.csv', 'line-72',
+     'как звездная река, ставшая чёрным камнем, приближалась',
+     'как звездная река, в которую превратился чёрный камень, приближалась'),
+    ('act49side/level_act49side_11_end_nep0num.csv', 'line-181',
+     'свет ориниума',
+     'свет Ориджиниума'),
+    ('act49side/level_act49side_11_end_nep0num.csv', 'line-229',
+     'этот ориниум',
+     'этот Ориджиниум'),
+    ('act49side/level_act49side_11_end_nep0num.csv', 'line-350',
+     'проклятый ориниум',
+     'проклятый Ориджиниум'),
+    ('act49side/level_act49side_11_end_nep0num.csv', 'line-363',
+     'Тот ориниум',
+     'Тот Ориджиниум'),
+    ('act49side/level_act49side_11_end_nep0num.csv', 'line-424',
+     'вызвать этот ориниум',
+     'вызвать этот Ориджиниум'),
+    ('act49side/level_act49side_11_end_nep0num.csv', 'line-442',
+     'оранжевый свет ориниума',
+     'оранжевый свет Ориджиниума'),
+    ('act49side/level_act49side_11_end_nep0num.csv', 'line-444',
+     'Зверь, ориниум.',
+     'Зверь, Ориджиниум.'),
+    ('act49side/level_act49side_11_end_nep0num.csv', 'line-446',
+     'первоначальный ориниум',
+     'первоначальный Ориджиниум'),
+    ('act49side/level_act49side_11_end_nep0num.csv', 'line-447',
+     'энергии ориниума',
+     'энергии Ориджиниума'),
+    ('act49side/level_act49side_11_end_nep0num.csv', 'line-648',
+     'Ты вернулась.',
+     'Ты вернулся.'),
+    ('act49side/level_act49side_11_end_nep0num.csv', 'line-650',
+     'Заставила тебя беспокоиться.',
+     'Заставил тебя беспокоиться.'),
+
+    # --- st01: 生机 = life/vitality, not "hope" ---
+    ('act49side/level_act49side_st01_nep0num.csv', 'line-478',
+     'искру надежды',
+     'искру жизни'),
+
+    # --- st02: 均 (二姐) is female; 重岳 is male; 源石 canon ---
+    ('act49side/level_act49side_st02_nep0num.csv', 'line-260',
+     'как ты её сюда притащил?',
+     'как ты её сюда притащила?'),
+    ('act49side/level_act49side_st02_nep0num.csv', 'line-265',
+     'Я только вышел из Тяньцзинге, увидел, что она валяется на земле и спит без задних ног, разбудить не смог',
+     'Я только вышла из Тяньцзинге, увидела, что она валяется на земле и спит без задних ног, разбудить не смогла'),
+    ('act49side/level_act49side_st02_nep0num.csv', 'line-465',
+     'исследование Источника камней',
+     'исследование Ориджиниума'),
+    ('act49side/level_act49side_st02_nep0num.csv', 'line-468',
+     'проблемы Источника камней',
+     'проблемы Ориджиниума'),
+    ('act49side/level_act49side_st02_nep0num.csv', 'line-484',
+     'проблемы Источника камней',
+     'проблемы Ориджиниума'),
+    ('act49side/level_act49side_st02_nep0num.csv', 'line-496',
+     'вопросу Источника камней',
+     'вопросу Ориджиниума'),
+    ('act49side/level_act49side_st02_nep0num.csv', 'line-666',
+     'единственная, кто может его понять',
+     'единственный, кто может его понять'),
+]
