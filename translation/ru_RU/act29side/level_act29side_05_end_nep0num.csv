@@ -23,8 +23,8 @@ char-16,宪兵C,宪兵C,Gendarmerie C,Жандарм В
 char-17,积极的学徒,积极的学徒,Motivated Student,Усердная ученица
 ,,,,
 line-14,恐惧的学徒,那、那是什么东西？,Wh-What the hell is that?,Ч-что это за штука?
-line-15,恐惧的学徒,巫王塔......是巫王塔吗？！,The Witch King's Spire...? Is that the Witch King's Spire?!,Башня Короля-лича... это Башня Короля-лича?!
-line-17,恐惧的学徒,巫王回来了，那恐怖的君主，邪恶的术师，他回来了！,The Witch King is back. That terrifying tyrant... that evil caster... He's back!,"Король-лич вернулся! Этот ужасный монарх, этот злой колдун — он вернулся!"
+line-15,恐惧的学徒,巫王塔......是巫王塔吗？！,The Witch King's Spire...? Is that the Witch King's Spire?!,Башня Короля-ведьмы... это Башня Короля-ведьмы?!
+line-17,恐惧的学徒,巫王回来了，那恐怖的君主，邪恶的术师，他回来了！,The Witch King is back. That terrifying tyrant... that evil caster... He's back!,"Король-ведьма вернулся! Этот ужасный монарх, этот злой колдун — он вернулся!"
 line-25,宪兵,停下，别往回跑，不能推挤——,"Stop, don't turn back. Don't push—","Стой, не бегите назад, не создавайте давку!"
 line-27,愤怒的学徒,哈哈哈跑什么？这是伟大的赫尔昏佐伦对我们降下的惩罚，烧啊，烧起来！,"Hahaha, where would you even run? This is the punishment that the great Herkunftshorn is laying down on us. Burn! Burn!","Ха-ха-ха, зачем бежать? Это великий Херрюнцоллен наслал на нас кару. Гори, гори всё огнем!"
 line-29,宪兵,你干什么？你在把黑焰引过来！,What are you doing? You're attracting the flames!,Ты что творишь? Ты притягиваешь чёрное пламя!
@@ -45,7 +45,7 @@ line-69,金律法卫,降下帷幕，集中精力，对付黑焰。,Lower the cur
 line-82,米夏埃尔,不起作用！,It's not working!,Бесполезно!
 line-84,金律法卫,这一轮攻击足以覆灭一支卡西米尔的征战骑士先锋队。,This assault was more than enough to decimate a vanguard of Kazimierzian campaign knights.,"Этой атаки хватило бы, чтобы уничтожить авангард отряда рыцарей-завоевателей Казимежа."
 line-86,女皇的术师,赫尔昏佐伦的术式难以根除。,Herkunftshorn's enchantments are not so easily removed.,Техники Херрюнцоллена почти невозможно искоренить.
-line-87,女皇的术师,传说他运用源石技艺的方法与其他术师已有本质差异。当年的巫王塔之战，其他术师的法术全部失效，唯有女皇们仍能奏响旋律。,"As the legend goes, the way he used Arts was fundamentally different from other casters. During the Battle of the Witch King's Spire years ago, only the Kaiserinnen were able to perform their melodies unimpeded. All other casters' Arts failed.","Легенды гласят, что его методы использования Ориджиниумных искусств принципиально отличались от других магов. Во время той битвы у Башни Короля-лича все заклинания других магов оказались неэффективны — лишь Императрицы смогли извлечь мелодию."
+line-87,女皇的术师,传说他运用源石技艺的方法与其他术师已有本质差异。当年的巫王塔之战，其他术师的法术全部失效，唯有女皇们仍能奏响旋律。,"As the legend goes, the way he used Arts was fundamentally different from other casters. During the Battle of the Witch King's Spire years ago, only the Kaiserinnen were able to perform their melodies unimpeded. All other casters' Arts failed.","Легенды гласят, что его методы использования Ориджиниумных искусств принципиально отличались от других магов. Во время той битвы у Башни Короля-ведьмы все заклинания других магов оказались неэффективны — лишь Императрицы смогли извлечь мелодию."
 line-89,金律法卫,......那座塔。,...That spire.,...Эта башня.
 line-90,金律法卫,我们必须攻下那座塔，从源头解决......,"We must lay siege to it, and take care of the problem at its source.","Мы должны захватить её, решить всё в самом источнике..."
 line-92,珂拉,布兰特。,Brandt.,Брант.
@@ -57,7 +57,7 @@ line-104,,云层裂开了。,The clouds begin to crack.,Облака раско�
 line-109,,没有声响，没有震动，没有任何征兆，一道紫黑色的闪电从高处落下。,"There is no sound, no shaking, and no omen of any kind. A bolt of purple-black lightning simply crashes down from high above.","Без звука, без дрожи, без каких-либо признаков — фиолетово-чёрная молния ударила с небес."
 line-110,,它同样没有引起华丽的爆炸，没有伴随什么震撼人心的轰鸣。,"Likewise, it is not accompanied by any kind of flashy explosion or shocking roar.",Она не вызвала громкого взрыва и не сопровождалась потрясающим гулом.
 line-111,,它仅仅只是贯穿了塔身，从最高处到最底下，一层一层地碾碎了那座看似不可侵犯的塔。,"It merely pierces the spire's body and crushes the seemingly impenetrable tower, layer after layer, from top to bottom.","Она просто пронзила башню насквозь, от самого шпиля до основания, слой за слоем перемалывая то, что казалось неприступным."
-line-113,,当第一块建筑残骸落地的时候，那座新生的“巫王塔”已经不复存在，就像它并未出现过一般。,"By the time the first piece of falling rubble reaches the ground, the reborn 'Witch King's Spire' has already ceased to be, as though it had never existed in the first place.","Когда на землю упал первый фрагмент руин, новорожденная «Башня Короля-лича» уже исчезла, будто её никогда и не было."
+line-113,,当第一块建筑残骸落地的时候，那座新生的“巫王塔”已经不复存在，就像它并未出现过一般。,"By the time the first piece of falling rubble reaches the ground, the reborn 'Witch King's Spire' has already ceased to be, as though it had never existed in the first place.","Когда на землю упал первый фрагмент руин, новорожденная «Башня Короля-ведьмы» уже исчезла, будто её никогда и не было."
 line-114,,地面后知后觉地震动了起来。,"Finally, the earth starts trembling, as though reacting to the spire's fall.",Земля содрогнулась лишь спустя мгновение.
 line-115,,人们从女皇的术师结成的法术墙后惶恐地睁眼，在废墟的最高处，看到了一道身影和她手中翻腾着紫黑色电光的长剑。,"Behind the wall of Arts conjured by the Imperial casters, the crowd stands in terror with their eyes wide open. At the highest point of the ruins, they see a figure holding a sword emitting purple-black sparks of lightning.","Люди боязливо открыли глаза за магической стеной, возведенной магами Императрицы, и увидели на вершине руин фигуру с мечом, охваченным фиолетово-чёрным электричеством."
 line-121,赫琳玛特,莱塔尼亚的土地上，不允许再投下赫尔昏佐伦的阴影。,Herkunftshorn's shadow will no longer be permitted to shroud Leithanian soil.,Земля Лейтании больше не допустит тени Херрюнцоллена.
@@ -95,7 +95,7 @@ line-210,阿尔图罗,悔恨始终折磨着您。,"In the end, you remain tormen
 line-211,阿尔图罗,可是学者先生，您不曾真正得到过自由，又何须为曾经的选择感到后悔？,"But Herr Scholar, you have never truly been free. Why must you feel regret over past decisions?","Но, господин ученый, вы никогда не были по-настоящему свободны. Почему же вы сожалеете о своих прошлых решениях?"
 line-213,格哈德,我并不......自由？,I'm... not free?,Я... не был свободен?
 line-215,阿尔图罗,您伤痕累累的内心，正袒露在我面前。,"Your tattered, weary heart is now laid bare before me.",Ваше израненное сердце открыто передо мной.
-line-216,阿尔图罗,我感受到了您感受的一切。在巫王塔搏杀的那个夜晚，您的心里充满了对暴君的愤恨。可除此之外......还有疑惧。,"I can feel everything you feel. On the night of the battle at the Spire, your heart was filled with spite toward the tyrant. But aside from that... there was also doubt.","Я чувствую всё, что чувствуете вы. В ту ночь, когда вы сражались в Башне Короля-лича, ваше сердце было полно ненависти к тирану. Но помимо этого... был ещё и страх."
+line-216,阿尔图罗,我感受到了您感受的一切。在巫王塔搏杀的那个夜晚，您的心里充满了对暴君的愤恨。可除此之外......还有疑惧。,"I can feel everything you feel. On the night of the battle at the Spire, your heart was filled with spite toward the tyrant. But aside from that... there was also doubt.","Я чувствую всё, что чувствуете вы. В ту ночь, когда вы сражались в Башне Короля-ведьмы, ваше сердце было полно ненависти к тирану. Но помимо этого... был ещё и страх."
 line-218,格哈德,那是理所当然的，我要杀死的可是赫尔昏佐伦，莱塔尼亚的君主。,"Of course. The man I was about to kill, Herkunftshorn, was the rightful ruler of Leithanien.","Это само собой разумеется, я собирался убить Херрюнцоллена, правителя Лейтании."
 line-220,阿尔图罗,那么，是什么在您心中种下了这颗情绪的种子呢？,"Then, what planted the seeds of that emotion?",Тогда что же посеяло это семя эмоций в вашем сердце?
 line-222,格哈德,是什么......在影响我？,You mean... what influenced me to think that?,Что... что влияет на меня?
@@ -127,7 +127,7 @@ line-279,费德里科,执行者更在意死者的遗言。,An executor is more c
 line-281,阿尔图罗,你让生者相信自己的意志在死后仍能得到贯彻，我令他们最为绚烂的情感在音乐中延续。,"You make the living believe that their wills will be carried out even after death, while I allow their most splendid emotions to live on in music.","Ты заставляешь живых верить в то, что их воля будет исполнена после смерти, а я позволяю их самым ярким чувствам продолжаться в музыке."
 line-282,阿尔图罗,我们都是在证实活着的意义，只是途径不同而已。,Both of us substantiate the meaning of having lived. We just go about it in different ways.,"Мы оба подтверждаем смысл жизни, просто пути у нас разные."
 line-284,费德里科,我在这里，是为了执行任务，没有必要听罪人的辩驳。,I am here to execute my mission and nothing more. I have no need to listen to a sinner's sophistry.,"Я здесь, чтобы выполнить задание, мне незачем слушать оправдания преступника."
-line-286,阿尔图罗,唉，你就不能和许久未见的亲人好好聊上几句吗？费德里科，说不定，不久后我也会死去哦？,"*sigh* We're family, and haven't seen each other for so long. Can't you at least hold a proper conversation, Federico? Who's to say I won't die tomorrow?","Ох, разве нельзя просто поболтать с давним знакомым? Федерико, может быть, скоро и я умру?"
+line-286,阿尔图罗,唉，你就不能和许久未见的亲人好好聊上几句吗？费德里科，说不定，不久后我也会死去哦？,"*sigh* We're family, and haven't seen each other for so long. Can't you at least hold a proper conversation, Federico? Who's to say I won't die tomorrow?","Ох, разве нельзя просто поболтать с родственником? Федерико, может быть, скоро и я умру?"
 line-288,费德里科,你将自身置于危险之中，造成上述结果并不意外。,You intentionally put yourself in danger. It would not be entirely surprising if you did.,"Ты подвергаешь себя опасности, и результат неудивителен."
 line-290,阿尔图罗,我也不会意外。,I wouldn't find it surprising either.,Я тоже не удивлюсь.
 line-291,阿尔图罗,人是一定会死去的。躯壳给养大地，变成新的生命的一部分。这是躯壳的意义。,"We're all bound to die. When we do, our bodies give nutrients back to the land and become a part of new life. This is the meaning of our flesh. It's the circle of life.",Люди обязательно умрут. Оболочки станут пищей для земли и частью новой жизни. В этом смысл оболочки.
@@ -142,7 +142,7 @@ line-306,阿尔图罗,毫无疑问。,"Oh, I don't doubt that.",Безуслов
 line-308,阿尔图罗,终有一天，杀死阿尔图罗·吉亚洛的一定是费德里科·吉亚洛。可你觉得......白日能杀死黑夜，秩序能杀死混沌，理性能杀死感情吗？,"It'll happen one day, and there's no doubt that it will be Federico Giallo who kills Arturia Giallo. But do you think that daylight can kill the dark night, order can kill chaos, and reason can kill emotion?","Однажды Артуро Джалло убьет именно Федерико Джалло. Но как ты думаешь... сможет ли день убить ночь, порядок — хаос, а разум — чувства?"
 line-310,费德里科,堆叠的意象并不能掩盖实质。,Layering metaphors cannot cover up the essential truth.,Громоздкие образы не могут скрыть сути.
 line-311,费德里科,你是罪犯，我是执行者，我追捕你，是为了履行名为职责的契约。,"You are a criminal, and I am an executor. I pursue you in order to fulfill the contract that is my duty.","Ты преступник, я — исполнитель, я преследую тебя, чтобы выполнить контракт, именуемый долгом."
-line-313,阿尔图罗,你认为疑惑也是一种情绪，因此总是试图用理性分析来得到答案。但将你一次次引向我的，并不是理性，而是你的困惑。,You believe uncertainty to be a kind of emotion. That's why you're always seeking answers through rational analysis. But it's not your rationality that's led you to me again and again. It's your confusion.,"Ты считаешь сомнение эмоцией, поэтому всегда пытаешься найти ответы с помощью рационального анализа. Но к тебе меня приводило не рациональное, а твое смятение."
+line-313,阿尔图罗,你认为疑惑也是一种情绪，因此总是试图用理性分析来得到答案。但将你一次次引向我的，并不是理性，而是你的困惑。,You believe uncertainty to be a kind of emotion. That's why you're always seeking answers through rational analysis. But it's not your rationality that's led you to me again and again. It's your confusion.,"Ты считаешь сомнение эмоцией, поэтому всегда пытаешься найти ответы с помощью рационального анализа. Но тебя ко мне приводило не рациональное, а твоё смятение."
 line-315,阿尔图罗,你也听到了，看见了。今天，无数生命在混乱中死去。,"You saw and heard it yourself. Today, countless lives were lost in chaos.",Ты ведь всё слышал и видел. Сегодня в хаосе погибло бесчисленное множество жизней.
 line-316,阿尔图罗,假如你听从劝告，放弃来找我，去帮助一路与你同行的那名女皇密使......以你的敏锐与身手，你会更早地找到躲在幕后的“混乱制造者”。,"If only you'd followed my advice and given up on me, instead lending your aid to that envoy of the Empress... With your skills, and how sharp you are, you could've easily found the one hiding in the shadows, manipulating the chaos.","Если бы ты послушался совета и перестал преследовать меня, а помог бы той посланнице Императрицы, что шла с тобой... при твоей проницательности и навыках, ты бы нашел того, кто прятался за кулисами, гораздо раньше."
 line-317,阿尔图罗,可一次又一次，你总是选择优先来找我。,"But again and again, you choose to prioritize looking for me.",Но раз за разом ты предпочитал в первую очередь искать меня.
@@ -179,7 +179,7 @@ line-394,费德里科,假如莱塔尼亚能确保阿尔图罗不会再犯下罪�
 line-396,费德里科,但是，如她所说，我并未感到满足。,"However, as she said, I feel no satisfaction in this.","Однако, как она и сказала, я не почувствовал удовлетворения."
 line-408,薇薇安娜,......,......,...
 line-410,,塔外变得安静了许多，但黑焰依旧燃烧着。,"It has become much quieter outside the spire, yet the black flames continue to burn.","Снаружи башни стало тише, но чёрное пламя продолжало гореть."
-line-411,,薇薇安娜忘记了自己在塔的第几层。这些螺旋状的阶梯，看起来总是过于相似。,Viviana has forgotten which floor of the spire she is on. The spiral stairs all look the same.,"Вивьенна забыла, на каком этаже башни находится. Эти винтовые лестницы всегда казались слишком похожими друг на друга."
+line-411,,薇薇安娜忘记了自己在塔的第几层。这些螺旋状的阶梯，看起来总是过于相似。,Viviana has forgotten which floor of the spire she is on. The spiral stairs all look the same.,"Вивиана забыла, на каком этаже башни находится. Эти винтовые лестницы всегда казались слишком похожими друг на друга."
 line-415,,烛火摇曳了数下，终于熄灭了。,Her candlelight flickers a few times before finally going out.,Свеча несколько раз качнулась и наконец погасла.
 line-422,宪兵C,德罗斯特......女士？,Frau... Droste?,Госпожа... Дрост?
 line-424,薇薇安娜,皮姆？你怎么还在这里？,Pym? Why are you still here?,Пим? Почему ты всё ещё здесь?
@@ -188,7 +188,7 @@ line-428,薇薇安娜,你被黑焰灼伤了，半边身体都......,You were bur
 line-430,宪兵C,不要紧。,It's fine.,Ничего страшного.
 line-431,宪兵C,看到您就好了，看到您，我至少知道自己没有变成什么死了还在行走的怪物。,"I'm glad I got to see you again. By seeing you, I can at least confirm that I haven't turned into some kind of monster that walks even in death.","Хорошо, что я увидел вас. Видя вас, я хотя бы знаю, что не превратился в какого-то бродячего мертвеца."
 line-432,宪兵C,灾难解决了，对吧？,"The disaster's been averted, right?","Бедствие устранено, верно?"
-line-433,宪兵C,女皇之声，还有金律法卫......都到了吧？巫王残党都死了，学生们安全了？,"The Empresses' Voice, the Gesatzswächter... they're all here, right? Are the Witch King's remains all dead, and the students safe?","Голос Императрицы и Страж Золотого Закона... они прибыли? Остатки Короля-лича мертвы, студенты в безопасности?"
+line-433,宪兵C,女皇之声，还有金律法卫......都到了吧？巫王残党都死了，学生们安全了？,"The Empresses' Voice, the Gesatzswächter... they're all here, right? Are the Witch King's remains all dead, and the students safe?","Голос Императрицы и Страж Золотого Закона... они прибыли? Остатки Короля-ведьмы мертвы, студенты в безопасности?"
 line-435,薇薇安娜,我想是的。,I suppose so.,"Думаю, да."
 line-437,宪兵C,嗯。真奇怪啊，我刚刚见到了队长。,Hm. It's strange. I saw the captain just now.,"Хм. Странно, я только что видел капитана."
 line-439,薇薇安娜,......洛里斯·博尔丁先生？,Herr Loris Bordin...?,...Господина Лориса Болдина?
@@ -202,14 +202,14 @@ line-451,宪兵C,我刚来崔林特尔梅的时候，每天训练都很累很累
 line-457,薇薇安娜,......,......,...
 line-459,,他不该就这样永远地睡在螺旋楼梯上。,He did not deserve to fall into eternal slumber on these spiral stairs.,Он не должен был просто так уснуть навсегда на этой винтовой лестнице.
 line-460,,就算只有一点点光也好，一点点温暖也好。,"If he could have just a little more light, a little more warmth.","Пусть хотя бы немного света, немного тепла."
-line-461,,薇薇安娜知道自己不是灯塔。但这件事，她能够做到。,"Viviana knows that she is not a lighthouse, but she is capable of that much.","Вивьенна знала, что она не маяк. Но это она могла сделать."
+line-461,,薇薇安娜知道自己不是灯塔。但这件事，她能够做到。,"Viviana knows that she is not a lighthouse, but she is capable of that much.","Вивиана знала, что она не маяк. Но это она могла сделать."
 line-468,薇薇安娜,再见了，皮姆。,"Auf Wiedersehen, Pym.","Прощай, Пим."
 line-469,薇薇安娜,但愿这点烛光，能伴你沉入永恒的梦乡。,May this candlelight accompany you as you drift into eternal slumber.,Пусть этот свет свечи проводит тебя в вечный сон.
 line-480,金律法卫,赫琳玛特的密使说，她就在前面。,Grimmacht's envoy said she's just up ahead.,"Посланница Херлинмарт сказала, что она впереди."
 line-481,金律法卫,珂拉，你先让开。我清理下这些废墟。,"Step aside, Cora. Let me take care of the rubble here first.","Кора, отойди. Я расчищу обломки."
 line-483,珂拉,还是我来吧，你已经......,Let me do it. You've already...,"Давай лучше я, ты уже..."
 line-489,珂拉,等一下，这脚步声是......,Wait. These footsteps...,"Подожди, это шаги..."
-line-491,珂拉,薇薇安娜！,Viviana!,Вивьенна!
+line-491,珂拉,薇薇安娜！,Viviana!,Вивиана!
 line-496,薇薇安娜,洛文斯坦女士，布兰特阁下......,Frau Löwenstein... Herr Reiner...,"Госпожа Ловенштайн, господин Брант..."
 line-498,金律法卫,......好。,...Good.,...Хорошо.
 line-499,金律法卫,......,......,...
@@ -220,7 +220,7 @@ line-507,珂拉,他不会容许自己在这么多人面前倒下。,He'd never l
 line-508,珂拉,这么多年以来，布兰特还是太累了。,"Brandt's really worn himself out, all these years.",За все эти годы Брант слишком сильно устал.
 line-510,薇薇安娜,在战斗开始前，他把我看成了父亲。,"Before the battle, he saw me as my father.",Перед началом битвы он принял меня за моего отца.
 line-512,珂拉,......这是他的心结。,That's always weighed heavily on his mind.,...Это его давняя рана.
-line-513,珂拉,二十三年前，霍赫贝格家族在巫王塔下死伤惨重。碍于金律法卫的身份，布兰特未能及时驰援。,"Twenty-three years ago, House Hochberg suffered great losses at the Witch King's Spire, and because of his position as a Gesatzswächter, Brandt wasn't able to come to their aid in time.","Двадцать три года назад семья Хохберг понесла огромные потери под Башней Короля-лича. Будучи Стражем Золотого Закона, Брант не смог своевременно прийти на помощь."
+line-513,珂拉,二十三年前，霍赫贝格家族在巫王塔下死伤惨重。碍于金律法卫的身份，布兰特未能及时驰援。,"Twenty-three years ago, House Hochberg suffered great losses at the Witch King's Spire, and because of his position as a Gesatzswächter, Brandt wasn't able to come to their aid in time.","Двадцать три года назад семья Хохберг понесла огромные потери под Башней Короля-ведьмы. Будучи Стражем Золотого Закона, Брант не смог своевременно прийти на помощь."
 line-514,珂拉,这导致了他最好的朋友，霍赫贝格家族的继承人恩斯特战死......也导致了你的父亲沃尔纳不得不继任选帝侯。,"Because of that, Ernst, his closest friend and the heir to the Hochbergs, perished in battle... That's also why your father Werner had to succeed him as Kurfürst.","Это привело к тому, что его лучший друг, наследник семьи Хохберг Эрнст, погиб... и это привело к тому, что твоему отцу Вольнару пришлось стать курфюрстом."
 line-515,珂拉,对恩斯特和沃尔纳的愧疚一直蚕食着他的心灵。直到今天，他在湮灭奏鸣塔和救你之间，选择了救你。,"The remorse he felt toward Ernst and Werner has been eating away at his soul all this time. And today, when forced to choose between destroying Sonata Spire and saving you, he chose you.","Чувство вины перед Эрнстом и Вольнаром терзало его душу. Сегодня он выбрал спасти тебя вместо того, чтобы уничтожить Башню Звучания Сонаты."
 line-517,薇薇安娜,我没有想到......,I never imagined...,Я и не подозревала...
@@ -233,7 +233,7 @@ line-527,薇薇安娜,我努力过了，还是没有办法把他们都带出来�
 line-529,珂拉,术师们正在想办法清除黑焰。死难者都会得到安置。,The casters will figure out how to eliminate the black flames. The victims will be taken care of.,Маги уже ищут способ убрать чёрное пламя. Пострадавшим будет оказана помощь.
 line-530,珂拉,会好起来的。,Things will get better.,Всё наладится.
 line-531,珂拉,人们所受的苦不会白费，明天的这个地方会焕然一新。,They won't have suffered for nothing. This place will be completely different tomorrow.,"Страдания людей не будут напрасными, завтра это место изменится до неузнаваемости."
-line-532,珂拉,薇薇安娜，我会让你看见的。,"I'll make sure you get to see that for yourself, Viviana.","Вивьенна, я покажу тебе это."
+line-532,珂拉,薇薇安娜，我会让你看见的。,"I'll make sure you get to see that for yourself, Viviana.","Вивиана, я покажу тебе это."
 line-533,珂拉,一定。,I promise.,Обязательно.
 line-544,阿尔图罗,很美丽的暮色啊。,What a beautiful sunrise.,Прекрасные сумерки.
 line-546,阿尔图罗,（哼唱）,(Humming),(Напевает)
@@ -244,9 +244,9 @@ line-561,女皇的术师,您和您的大提琴，都不能发出声音。,"Now, 
 line-563,阿尔图罗,——,—,—
 line-565,阿尔图罗,（无声的哼唱）,(Silent humming),(Беззвучное напевание)
 line-578,莱辛,你做出了决定。,You made up your mind.,Ты принял решение.
-line-580,黑键,“尘世之音”......我巴不得有人快点拿走这玩意儿。既然你们没打算拿它来炸掉什么，那就给你们吧。,"The Voice of Mundane... I've been dying to have someone take it away. If you've no plans to use it as a bomb, then be my guest.","«Звуки мира»... я бы хотел, чтобы кто-то поскорее забрал эту штуку. Раз вы не собираетесь использовать её, чтобы что-то взорвать, забирайте."
+line-580,黑键,“尘世之音”......我巴不得有人快点拿走这玩意儿。既然你们没打算拿它来炸掉什么，那就给你们吧。,"The Voice of Mundane... I've been dying to have someone take it away. If you've no plans to use it as a bomb, then be my guest.","«Голос мирского»... я бы хотел, чтобы кто-то поскорее забрал эту штуку. Раз вы не собираетесь использовать её, чтобы что-то взорвать, забирайте."
 line-582,莱辛,你终于相信我了？,So you finally believe me?,Ты наконец поверил мне?
-line-584,黑键,我的确欠你一句道歉，还有一句感谢。没有你的话，现在活下来的可能早就不是黑键......而是不知道什么东西了。,"I... admit I owe you an apology. And a word of thanks. If it wasn't for you, then I might not be Ebenholz right now, but some other <i>thing</i>.","Я действительно должен извиниться перед тобой, и поблагодарить. Если бы не ты, то, что выжило сегодня, было бы уже не Чёрным Ключом... а чем-то другим."
+line-584,黑键,我的确欠你一句道歉，还有一句感谢。没有你的话，现在活下来的可能早就不是黑键......而是不知道什么东西了。,"I... admit I owe you an apology. And a word of thanks. If it wasn't for you, then I might not be Ebenholz right now, but some other <i>thing</i>.","Я действительно должен извиниться перед тобой, и поблагодарить. Если бы не ты, то, что выжило сегодня, было бы уже не Эбенхольцем... а чем-то другим."
 line-585,黑键,不过，请不要提及“信任”。我怕自己刚说完“相信你”，你就跳起来用剑敲我脑袋了。,"But please, spare me all this nonsense about 'trust' or what have you. I'd rather not see you pounce on me and knock me out with your sword the moment I spit out the words 'I trust you.'","Но, пожалуйста, не говори о «доверии». Боюсь, как только я скажу «я верю тебе», ты прыгнешь и ударишь меня мечом по голове."
 line-587,莱辛,我暂时没有这个打算。,I wasn't planning to. For now.,У меня пока нет таких планов.
 line-589,黑键,......那就好。,"...Well, that's nice.",...Ну и хорошо.
@@ -282,7 +282,7 @@ line-685,积极的学徒,老师......我的老师叫阿尔图罗。,Um... Arturi
 line-687,黑键,她是萨科塔吗？一个头发很长，穿得很素净的萨科塔？,"Is she a Sankta? A Sankta with very long hair, who dresses plainly?","Она сакта? Санкта с очень длинными волосами, одетая в очень скромные одежды?"
 line-689,积极的学徒,您也认识她吗？我今天还见过她，是她让我在这里练琴，还说不要管外面的响动。,"Do you know her too? I saw her just today. She told me to keep practicing here, without worrying about the sounds outside.","Вы тоже её знаете? Я видел её сегодня, это она велела мне практиковаться здесь и сказала не обращать внимания на шум снаружи."
 line-691,黑键,......外面的响动？,...Without worrying about the sounds?,...Шум снаружи?
-line-692,黑键,那个萨科塔，她也是巫王残党吗？！,That Sankta... Is she a remnant of the Witch King too?!,Эта сакта... она тоже из остатков Короля-лича?!
+line-692,黑键,那个萨科塔，她也是巫王残党吗？！,That Sankta... Is she a remnant of the Witch King too?!,Эта сакта... она тоже из остатков Короля-ведьмы?!
 line-694,积极的学徒,不、不可能，老师是个很好的人。,"N-No, that's impossible. She's very kind.","Нет, не может быть, учительница — очень хороший человек."
 line-696,黑键,她在哪里？我要见她，我要当面问问她！我......,Where is she? I need to see her. I need to question her myself! I...,"Где она? Я хочу встретиться с ней, я хочу спросить её лично! Я..."
 line-703,黑键,呃！,Ugh!,Арх!
