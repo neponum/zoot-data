@@ -38,7 +38,7 @@ line-23,,你说的这位老师......,Who is this teacher you speak of?,"Этот
 line-24,,......已经不在了。,...No longer with us.,...уже покинул этот мир.
 line-25,,那你今天来又是为了什么？是来借书？,Then why did you come here today? To borrow books?,Тогда зачем ты пришел сегодня? Чтобы взять книги?
 line-26,,查些档案资料......,I'm here to look up some case files...,Ищу кое-какие документы...
-line-27,,礼部最近筹办庆典，需要参考一些旧时礼制......,"The Ministry of Rites is preparing for a grand celebration, and we need to refer to some old rituals.","Министерство обрядов готовит торжество, нужно изучить старые ритуалы..."
+line-27,,礼部最近筹办庆典，需要参考一些旧时礼制......,"The Ministry of Rites is preparing for a grand celebration, and we need to refer to some old rituals.","Министерство ритуалов готовит торжество, нужно изучить старые ритуалы..."
 line-29,,呵......,Hah...,Ха...
 line-31,,你是欺我这个大理寺少卿有眼无珠，还是不认字？,"I'm a deputy minister for the Judicial Review Office. Do you take me for blind, or merely illiterate?","Ты принимаешь меня, младшего судью Далисы, за слепца или за того, кто читать не умеет?"
 line-32,,你手上拿的卷宗，分明是十五年前，太师谋逆的案子！,"That thing you have in your hand is clearly the case file from fifteen years ago, when the Grand Preceptor committed treason!","В бумагах, что у тебя в руках, ясно сказано: дело пятнадцатилетней давности о заговоре Великого наставника!"
@@ -93,7 +93,7 @@ line-146,小大厨,本来是想让大家交流学习互通有无，结果搞成�
 line-148,煌,不去什么？,Not have gone where?,Не что?
 line-150,小大厨,咳......！,Ahem...!,Кхе...!
 line-152,小大厨,总之你要知道的是，鼎丰楼作为百灶历史最久、名声最响的饭店，选拔厨师的标准自然也是高得离谱。,"In any case, what you need to know is that, as the most famous restaurant in Baizao, Ding Feng Lou, and its Chef Selection Competition, has extremely high standards.","В общем, Динфэнлоу — старейший и самый известный ресторан в Байцзао, поэтому их требования к отбору поваров просто заоблачные."
-line-153,小大厨,鼎丰楼已经好多年没有招过厨师学徒了，要不是最近他们遇上了点麻烦，又恰逢百珍宴筹备，急缺人手，才不会破例举办比赛。,Ding Feng Lou has not taken on any new disciples in many years. The only reason they're hosting this competition now is because they suddenly got short-handed right when they needed to start preparing for the Feast of a Hundred Delicacies.,"Они годами не нанимали учеников, и только потому, что у них возникли проблемы, да ещё и приурочили это к «Банкету ста драгоценностей», они решили сделать исключение."
+line-153,小大厨,鼎丰楼已经好多年没有招过厨师学徒了，要不是最近他们遇上了点麻烦，又恰逢百珍宴筹备，急缺人手，才不会破例举办比赛。,Ding Feng Lou has not taken on any new disciples in many years. The only reason they're hosting this competition now is because they suddenly got short-handed right when they needed to start preparing for the Feast of a Hundred Delicacies.,"Они годами не нанимали учеников, и только потому, что у них возникли проблемы, да ещё и приурочили это к «банкету сотни яств», они решили сделать исключение."
 line-155,行箸,可是我也听说，那位莫大厨年事已高，但迟迟没有找到可以接班的学徒......,But I've also heard that Chef Mo is advancing in age and still hasn't found an apprentice to take over the business...,"Но я слышала, что шеф-повар Мо уже в годах, а достойного преемника так и не нашел..."
 line-157,小大厨,比赛的方式花样很多，每次都有所不同，但唯一不变的是，参赛的厨师要做一道自己最拿手的菜——,"The format of the competition is different each time, but there is one requirement that stays constant: each chef has to showcase their best dish.","Форматы соревнований каждый раз разные, но неизменно одно: каждый участник обязан приготовить свое «коронное блюдо» —"
 line-159,煌,等一下等一下——,Wait a second...,Подожди-подожди —
@@ -101,8 +101,8 @@ line-161,煌,你们说了这么多，所以像这种等级的比赛，我怎么�
 line-163,小大厨,按理说，想要让一个没什么做饭经验的人通过鼎丰楼的厨师测试，听上去是不太靠谱。,Logic would dictate that an amateur chef with absolutely no culinary experience would have little hope of winning.,"По идее, обучить человека без опыта готовки пройти тест Динфэнлоу — затея сомнительная."
 line-165,小大厨,不过既然有我在，我可以教你一道既好学，又一定会在百珍宴上用到的菜——,"However, you have me in your corner. I can teach you a recipe that is easy to cook and is perfect for the occasion—","Но раз есть я, то научу тебя блюду, которое и приготовить легко, и на банкете оно точно понадобится —"
 line-167,小大厨,长寿面。,Longevity noodles.,Лапшу долголетия.
-line-169,煌,长寿面？百珍宴上为什么会吃长寿面？,Longevity noodles? Why would they serve longevity noodles at the Feast of a Hundred Delicacies?,Лапшу долголетия? Зачем она на Банкете ста драгоценностей?
-line-171,行箸,当今真龙的寿辰，恰好就在中秋节这天。所以每年的百珍宴上，都会固定有一道长寿面送给真龙。,"The reigning True Lung's birthday just happens to coincide with the Mid-Autumn Festival, so every year, they serve longevity noodles at the Feast.",День рождения нынешнего Истинного дракона приходится как раз на Праздник середины осени. Поэтому каждый год на банкете обязательно подают лапшу долголетия для него.
+line-169,煌,长寿面？百珍宴上为什么会吃长寿面？,Longevity noodles? Why would they serve longevity noodles at the Feast of a Hundred Delicacies?,Лапшу долголетия? Зачем она на банкете сотни яств?
+line-171,行箸,当今真龙的寿辰，恰好就在中秋节这天。所以每年的百珍宴上，都会固定有一道长寿面送给真龙。,"The reigning True Lung's birthday just happens to coincide with the Mid-Autumn Festival, so every year, they serve longevity noodles at the Feast.",День рождения нынешнего Истинного Дракона приходится как раз на Праздник середины осени. Поэтому каждый год на банкете обязательно подают лапшу долголетия для него.
 line-173,行箸,可是一般来说，长寿面都是很家常的做法......真的适合参加这种比赛吗？,But it's such a simple dish. Is it really appropriate for a major competition like this?,Но обычно это самое простое домашнее блюдо... правда ли оно подходит для конкурса такого уровня?
 line-175,小大厨,谁说家常菜就看不出厨子水平？,Who told you that simple dishes can't show great skills?,"Кто сказал, что по уровню повара нельзя судить по домашней еде?"
 line-177,小大厨,我就小露一手......看好了。,Just watch and learn.,Сейчас покажу класс... Смотри внимательно.
@@ -118,8 +118,8 @@ line-214,小大厨,都别愣着了，尝尝吧。,Don't just stand there. Dig in
 line-226,煌,呼......,Wow.,Фух...
 line-228,煌,我收回对你的评价！,I take back any criticism I had of your food!,Я беру свои слова обратно!
 line-230,小大厨,囫囵吞枣的......你吃出什么名堂了吗？,You just inhaled it! Did you even taste the flavor?!,"Проглотила и не распробовала... Ну, что скажешь?"
-line-232,行箸,如果煌小姐真的能完全复制出这种味道，说不定就能见到鼎丰楼的那位总厨......,"If Blaze can actually replicate that taste, maybe she really can meet Chef Mo.","Если мисс Хун сможет в точности воспроизвести этот вкус, то, возможно, ей удастся встретиться с тем самым шеф-поваром Динфэнлоу..."
-line-233,行箸,可是煌小姐......能做到吗？,"But are you really up to the task, Blaze?",Но мисс Хун... сможет ли она?
+line-232,行箸,如果煌小姐真的能完全复制出这种味道，说不定就能见到鼎丰楼的那位总厨......,"If Blaze can actually replicate that taste, maybe she really can meet Chef Mo.","Если мисс Блейз сможет в точности воспроизвести этот вкус, то, возможно, ей удастся встретиться с тем самым шеф-поваром Динфэнлоу..."
+line-233,行箸,可是煌小姐......能做到吗？,"But are you really up to the task, Blaze?",Но мисс Блейз... сможет ли она?
 line-235,小大厨,想要琢磨出来这碗面的独门秘方不容易，但只要严格照着配方去做，复现出来总不难吧。,Figuring out the secret to this recipe would be difficult indeed. But simply following its steps should not be too much trouble.,"Постичь секретную рецептуру непросто, но если строго следовать инструкции, повторить блюдо не так уж сложно."
 line-236,小大厨,之前下过厨吗？,Have you ever cooked anything before?,Ты раньше готовила?
 line-238,煌,那当然！,Of course!,Конечно!
@@ -148,14 +148,14 @@ line-292,,<color=#ff0000>\n\n未检索到结果</color>,<color=#ff0000>\n\nNo re
 
 Результатов не найдено</color>"
 line-296,,查询\t顾筌,Search\tGu Quan,Поиск	Гу Цюань
-line-297,,\n筛选条件\t礼部,\nFilter\tMinistry of Rites,Фильтр	Министерство обрядов
+line-297,,\n筛选条件\t礼部,\nFilter\tMinistry of Rites,Фильтр	Министерство ритуалов
 line-298,,\n\n......,\n\n......,...
 line-299,,<color=#ff0000>\n\n未检索到结果</color>,<color=#ff0000>\n\nNo results</color>,"<color=#ff0000>
 
 Результатов не найдено</color>"
 line-301,麟青砚,怎么回事......,What is going on?,Что за ерунда...
-line-311,麟青砚,顾筌，维多利亚归侨，1074年开始定居炎国，1076年考入百灶学宫，完成学业后入职礼部......,"Gu Quan, an ethnic Yanese born and raised in Victoria, returned to Yan in 1074. In 1076, he was admitted to Baizao Academy. After completing his studies, he joined the Ministry of Rites...","Гу Цюань, репатриант из Виктории, с 1074 года поселился в Янь, в 1076 году поступил в Академию Байцзао, после завершения учебы устроился в Министерство обрядов..."
-line-312,麟青砚,那场案件的死者仅存的一点人事档案。,These are the only records left for the deceased in that case.,Последние сохранившиеся кадры из дела погибшего.
+line-311,麟青砚,顾筌，维多利亚归侨，1074年开始定居炎国，1076年考入百灶学宫，完成学业后入职礼部......,"Gu Quan, an ethnic Yanese born and raised in Victoria, returned to Yan in 1074. In 1076, he was admitted to Baizao Academy. After completing his studies, he joined the Ministry of Rites...","Гу Цюань, репатриант из Виктории, с 1074 года поселился в Янь, в 1076 году поступил в Академию Байцзао, после завершения учебы устроился в Министерство ритуалов..."
+line-312,麟青砚,那场案件的死者仅存的一点人事档案。,These are the only records left for the deceased in that case.,Последние сохранившиеся документы из дела погибшего.
 line-319,麟青砚,凡是从学宫毕业后进入朝中六部工作的官员，档案都会在学宫留档......但为什么搜不到？,They should have files for all mandarins who graduated from the Imperial Academy and went to work in the Six Ministries of the court… but why can't I find him in the system?,"Все чиновники, поступившие на службу в шесть ведомств после окончания Академии, должны иметь там личное дело... Почему же я ничего не нахожу?"
 line-320,麟青砚,顾筌，你到底......,"Gu Quan, what did you...?","Гу Цюань, ты кто такой на самом деле..."
 line-325,门外的声音,教授，我也只是和您确认一下，倒也不用麻烦您亲自过来......,"Professor, I was just trying to confirm that with you. I didn't mean to ask you to come here in person...","Профессор, я просто хотел уточнить у вас, не стоило вас беспокоить, чтобы вы лично приходили..."
@@ -220,7 +220,7 @@ line-462,麟青砚,除非......,Unless...,Разве что...
 line-463,麟青砚,除非他之前就来过炎国，或者说......他根本不是什么维多利亚归侨，就是炎国人......,"Unless he had visited Yan before, or maybe he wasn't born and raised in Victoria after all? Maybe he was a native Yanese?","Разве что он бывал в Янь раньше, или же... он никакой не репатриант, а самый настоящий выходец из Янь..."
 line-465,景教授,你嘀咕什么呢？,What are you mumbling about?,Ты что там бормочешь?
 line-467,麟青砚,如果说......顾筌在礼部的信息有假，而他曾经的确是学宫的学生，那学宫的档案里一定可以查到一些线索......,"If Gu Quan's Ministry of Rites records were modified, but he was indeed a student at the Academy, well then, there would definitely be something worth digging up in the Academy's files.","Если информация о Гу Цюане в Министерстве обрядов ложная, и он действительно был студентом Академии, то в архивах должны быть хоть какие-то зацепки..."
-line-468,麟青砚,按照煌出生的年纪，再往前推的话......,What year was Blaze born? If we work back from there...,Если взять возраст Хун и отмотать назад...
+line-468,麟青砚,按照煌出生的年纪，再往前推的话......,What year was Blaze born? If we work back from there...,Если взять возраст Блейз и отмотать назад...
 line-470,麟青砚,这个学籍系统中，能查到1052年至1062年之间入学学生的信息吗！,Does this system have the records of students enrolled between 1052 and 1062?,"В этой базе данных можно найти информацию о студентах, поступивших в период с 1052 по 1062 год?!"
 line-472,景教授,你......,You...,Ты...
 line-474,麟青砚,帮我一次......这件事真的很重要......,Help me just this once. It's extremely important...,Помоги мне в последний раз... Это действительно очень важно...
@@ -229,7 +229,7 @@ line-478,麟青砚,那个人在礼部任职，在学宫应该也是在礼部下�
 line-480,景教授,如果你要找的那个人不是身居要职的官员，或许可以从1055年之后开始找。,"If the person you are looking for was not a high-ranking mandarin, you may want to start looking at files after 1055.","Если человек, которого ты ищешь, не занимал высоких постов, попробуй поискать после 1055 года."
 line-481,景教授,那一年学宫制度改革，办学宗旨从单一的为行政体系输送人才变成了普及教育，也因此扩招了许多学生。,"That year, the Academy was restructured. It became a true public education institution, instead of just serving as a talent pipeline for the government. The enrollment figures shot up.","В том году в Академии прошла реформа образования, и цель изменилась с подготовки узких специалистов для администрирования на массовое обучение, поэтому набор студентов был увеличен."
 line-483,麟青砚,......多谢！,I see... Duoxie!,...Благодарю!
-line-485,景教授,抓紧吧......你只有一个时辰的时间。,Go. You only have two hours.,Поторапливайся... у тебя всего час.
+line-485,景教授,抓紧吧......你只有一个时辰的时间。,Go. You only have two hours.,Поторапливайся... у тебя всего два часа.
 line-491,麟青砚,找到了......,Found you...,Нашла...
 line-496,麟青砚,......顾笙。,...Gu Sheng.,...Гу Шэн.
 line-497,麟青砚,男，1037年出生于琅珆，于1055年考入百灶学宫，分入礼部下属的教育科......是学宫改制后第一批入学的学生。,"Male, born in Langyi in 1037, accepted into Baizao Academy in 1055. He was assigned to the Education Department administered by the Ministry of Rites... and was among the first batch of students to enroll after the school was restructured.","Мужчина, родился в 1037 году в Ланъя, в 1055 году поступил в Академию Байцзао, факультет педагогики при Министерстве обрядов... первый набор студентов после реформы."
@@ -239,7 +239,7 @@ line-501,麟青砚,这份档案......是失踪人员档案？,This is a missing 
 line-503,,“顾笙与其妻女二人，于1062年失踪。以此档封存。”,"'Gu Sheng, along with his wife and daughter, disappeared in 1062. Accordingly, this file has been sealed.'",«Гу Шэн с женой и дочерью пропали в 1062 году. Дело закрыто».
 line-505,麟青砚,他在百灶时就是有家人的......一家三口，全部失踪......,So he was already a family man when he was in Baizao... and all three of them disappeared...,"Значит, ещё в Байцзао у него была семья... все трое пропали..."
 line-506,麟青砚,1062年......为什么偏偏是1062年？,1062... Is there something special about 1062?,1062 год... Почему именно 1062?
-line-516,麟青砚,煌，我再确认一遍......,Blaze... I need to confirm something...,"Хун, я переспрошу ещё раз..."
+line-516,麟青砚,煌，我再确认一遍......,Blaze... I need to confirm something...,"Блейз, я переспрошу ещё раз..."
 line-517,麟青砚,你是1062年，在维多利亚出生的，对吧？,"You were born in 1062, in Victoria, right?","Ты родилась в 1062 году в Виктории, так?"
 line-519,煌,对啊，从我记事起，我就是在维多利亚长大的。,"Yes. From as far back as I can remember, I lived in Victoria.","Да, я с самого детства росла в Виктории."
 line-521,麟青砚,我是在问你在哪里出生......！,I asked you where you were <i>born</i>!,"Я спрашиваю, где ты родилась...!"
@@ -257,18 +257,18 @@ line-565,煌,好！稍等一下，马上我学会了揉面，就好好地下一�
 line-567,行箸,刚刚......你是不是还有什么别的话想对我说？,Did you... have something else you wanted to say to me just now?,Ты только что... хотела сказать мне что-то ещё?
 line-569,煌,什么别的话？,What?,Что-то ещё?
 line-571,行箸,没......没什么......,N-Never mind...,Нет... ничего...
-line-572,行箸,平心而论，那位小大厨给出来的配方的确已经足够简明，大概他也没有想到，对煌小姐来说，最大的难点，居然是和面......,"To be fair, the recipe the Young Chef gave you was indeed simple enough. He probably didn't expect that your biggest difficulty would be kneading the dough.","Честно говоря, рецепт от того шеф-повара предельно прост. Думаю, он сам не ожидал, что для мисс Хун самым сложным будет замесить тесто..."
+line-572,行箸,平心而论，那位小大厨给出来的配方的确已经足够简明，大概他也没有想到，对煌小姐来说，最大的难点，居然是和面......,"To be fair, the recipe the Young Chef gave you was indeed simple enough. He probably didn't expect that your biggest difficulty would be kneading the dough.","Честно говоря, рецепт от того шеф-повара предельно прост. Думаю, он сам не ожидал, что для мисс Блейз самым сложным будет замесить тесто..."
 line-574,煌,你还帮他说话！,Look at you defending him!,Ты ещё и его защищаешь!
 line-576,行箸,对不起......,I'm sorry...,Прости...
 line-578,煌,我有什么办法，我就是这样的体质啊......一干活体温就容易升高，面团揉两下就变干了。,"I'm doing all I can do. It's hard. When I work, my body temperature rises, and the dough starts to dry out in just a few seconds.","Ничего не поделаешь, такая у меня конституция... как начинаю работать, температура тела поднимается, и тесто сразу сохнет."
 line-580,煌,面多加水水多加面，又是加面又是加水......原本就拳头大小的面团，现在都跟我脑袋差不多大了！,"I add more water to the flour, and then more flour to the water, and then more flour and water... The dough that was originally the size of my fist is now almost as big as my head!","Добавляю воды — надо муки, добавляю муки — надо воды... Тесто, которое было размером с кулак, теперь уже с мою голову!"
-line-582,行箸,煌小姐的这种体质，的确少见......,The situation with your rising body temperature is certainly unique...,Такое телосложение у мисс Хун действительно редкость...
+line-582,行箸,煌小姐的这种体质，的确少见......,The situation with your rising body temperature is certainly unique...,Такое телосложение у мисс Блейз действительно редкость...
 line-584,行箸,不过乐观一点，只要学会了和面，这碗长寿面你也就学得八九不离十啦。,"Anyway, you need to think positively: so long as you learn to knead the dough, making the longevity noodles will be no problem at all!","Но будь оптимисткой, как только освоишь замес, лапша долголетия будет готова на восемьдесят процентов."
-line-586,行箸,说起来，煌小姐虽然没有怎么做过饭，但刀工意外地还不错呢。,"Speaking of which, for someone who has never cooked before, you certainly have some impressive knife skills.","Кстати, мисс Хун, хоть вы и нечасто готовите, но с ножом управляетесь неожиданно ловко."
+line-586,行箸,说起来，煌小姐虽然没有怎么做过饭，但刀工意外地还不错呢。,"Speaking of which, for someone who has never cooked before, you certainly have some impressive knife skills.","Кстати, мисс Блейз, хоть вы и нечасто готовите, но с ножом управляетесь неожиданно ловко."
 line-588,煌,原来在罗德岛的时候——就是我工作的地方，在紧急关头，像我这样的精英干员都是会给自己做点应急手术的。,"Well, back at Rhodes Island, elite operators like me perform surgery on ourselves in emergency situations.","Раньше на «Родосе» — где я работаю, в экстренных случаях такие элитные оперативники, как я, сами себе делаем экстренные операции."
 line-589,煌,只要不像小大厨那样咔嚓咔嚓地切菜，手术刀和菜刀，我感觉用起来也差不太多。,"I guess there's not much difference between using a scalpel and a kitchen knife, assuming you're not using it like the Young Chef does when he chops vegetables.","Если не пытаться резать овощи так, как тот шеф-повар, то нож для операции и кухонный нож для меня почти одно и то же."
 line-591,煌,我给自己缝伤口练出来的手艺，都可以自己补衣服了。,I can even use the skills I learned from stitching my own wounds to mend my own clothes.,"С навыками, полученными при зашивании собственных ран, я могу и одежду починить."
-line-593,行箸,没想到......煌小姐的工作竟然这么危险......,I wouldn't have thought your job would be this dangerous.,Не ожидал... работа мисс Хун такая опасная...
+line-593,行箸,没想到......煌小姐的工作竟然这么危险......,I wouldn't have thought your job would be this dangerous.,Не ожидал... работа мисс Блейз такая опасная...
 line-595,煌,哼......谁还不是，从不会到会，慢慢学过来的。,"Hmph, not a big deal if you have the time to practice.",Хм... кто бы говорил. Все мы учимся всему с нуля.
 line-601,煌,越想越气，他就不能，耐心点吗？,"The more I think about it, the angrier I get. Can't he just have more patience with me?","Чем больше думаю, тем злее становлюсь. Он не мог быть чуть терпимее?!"
 line-603,行箸,嗯？这个力道是对的，保持住！,Hey! Look! I think you're getting the hang of it. The amount of force is just right. Keep it up!,"А? Сила нажатия верная, продолжай!"
@@ -293,7 +293,7 @@ line-655,行箸,不过，我也一直有些害怕过生日......,"However, I've 
 line-657,煌,有人记挂着你的生日，不是好事吗？,Isn't it nice that other people remember your birthday?,"Разве не здорово, когда кто-то помнит о твоем дне рождения?"
 line-659,行箸,我也说不清那是种什么感觉。总觉得，每次一过生日我就会被很多人围起来，他们又要让我笑，又盼着我哭......,"I can't really explain it. I always feel that every time I have a birthday party, I will be surrounded by a lot of people who want me to laugh, and also to cry.","Не знаю, как это описать. Каждый раз на день рождения меня окружает много людей, они хотят, чтобы я улыбалась, и ждут, что я заплачу..."
 line-660,行箸,但我在那里或是不在那里，似乎又并不要紧......,But it doesn't seem to matter whether I'm there or not...,"Но нахожусь я там или нет, кажется, это не так уж важно..."
-line-662,行箸,还是别说我啦......说起来，煌小姐是维多利亚人，那里也有吃长寿面的习俗吗？,Enough talk about me. You're from Victoria. Do they eat longevity noodles there?,"Впрочем, не будем обо мне... Кстати, мисс Хун, вы из Виктории, там тоже есть традиция есть лапшу долголетия?"
+line-662,行箸,还是别说我啦......说起来，煌小姐是维多利亚人，那里也有吃长寿面的习俗吗？,Enough talk about me. You're from Victoria. Do they eat longevity noodles there?,"Впрочем, не будем обо мне... Кстати, мисс Блейз, вы из Виктории, там тоже есть традиция есть лапшу долголетия?"
 line-664,煌,我只是在维多利亚长大，但父母都是炎国人——至少在血统上是。,"I grew up in Victoria, but my parents are both Yanese, at least, by blood.","Я выросла в Виктории, но родители — из Янь, по крайней мере, по происхождению."
 line-665,煌,小时候每次过生日，我妈都会给我做一碗长寿面。味道也没什么特别的，就是家常菜吧。,"When I was little, every year, on my birthday, my mom would make me a bowl of longevity noodles. The taste was nothing special. It was just regular old home cooking.","В детстве мама каждый год готовила мне лапшу долголетия на день рождения. Ничего особенного, просто домашняя еда."
 line-666,煌,后来离开家，吃不到我妈做的饭，自己也都忘了还有过生日这回事。,"After I left home and could no longer eat my mom's home cooking, I even forgot what it was like to celebrate a birthday.","Позже, когда уехала, еду мамы пробовать перестала, да и сама забыла, что когда-то были дни рождения."
@@ -309,14 +309,14 @@ line-692,煌,怎么，难道当上精英干员就连泡面也不能吃了吗？,
 line-694,Touch,你的队长不是在责备你又在猛塞垃圾食品，他的意思是......,The captain isn't scolding you for eating junk food. He's saying...,"Твой капитан тебя не ругает за то, что ты ешь фастфуд, он хочет сказать..."
 line-695,Touch,今天你过生日欸，难道就吃这个？,"Today is your birthday, and you're eating instant noodles?","Сегодня твой день рождения, неужели ты будешь это есть?"
 line-697,煌,生日......？,My birthday...?,День рождения...?
-line-698,煌,可是凯尔希医生不是说......,But didn't Dr. Kal'tsit say—,Но доктор Кельцит же сказала...
+line-698,煌,可是凯尔希医生不是说......,But didn't Dr. Kal'tsit say—,Но доктор Кальцит же сказала...
 line-700,Scout,所以才让你小声点。,That's why I told you to lower your voice.,Поэтому и просили тебя быть потише.
 line-701,Scout,只要动静别闹太大，我猜就算她听到了，也会装作不知情的吧？,"So long as we don't make too much noise, even if she hears us, she'll pretend not to hear, yes?","Если сильно шуметь не будем, думаю, даже если она услышит, сделает вид, что не знает."
 line-703,Mechanist,我甚至怀疑，她故意将我们外勤任务的空档调到一起，就是为了给你办一场生日会。,"I even suspect that she deliberately arranged for our fieldwork breaks to overlap, just so we could throw you a birthday party.","Подозреваю, что она специально подогнала время наших заданий так, чтобы мы смогли устроить тебе вечеринку."
 line-704,Mechanist,你就当这也是她给你的生日祝福吧......虽然很难想象。,Think of it as her way of giving you a birthday blessing... even if it's hard to imagine.,Считай это её поздравлением... хоть в это и трудно поверить.
-line-706,Touch,煌，你是我们中的一员，是罗德岛的一员。你不是一个人。,"Blaze, you are one of us, a part of Rhodes Island. You are not alone.","Хун, ты один из нас, ты часть «Родоса». Ты не одна."
+line-706,Touch,煌，你是我们中的一员，是罗德岛的一员。你不是一个人。,"Blaze, you are one of us, a part of Rhodes Island. You are not alone.","Блейз, ты не одна из нас, ты часть «Родоса». Ты не одна."
 line-708,煌,大家......我，那个，谢谢你们！,I... you... thank you all so much!,"Ребята... я, это... спасибо вам!"
-line-710,Ace,好了，现在已经到零点了。生日快乐，煌。,"Alright. It's already midnight. Happy birthday, Blaze!","Хорошо, полночь. С днем рождения, Хун."
+line-710,Ace,好了，现在已经到零点了。生日快乐，煌。,"Alright. It's already midnight. Happy birthday, Blaze!","Хорошо, полночь. С днем рождения, Блейз."
 line-712,Scout,大猫，生日快乐！,"Happy birthday, Big Cat!","Большая кошка, с днем рождения!"
 line-714,Mechanist,生日快乐。,Happy Birthday.,С днем рождения.
 line-716,Touch,生日快乐！还有，阿米娅不在本舰上，她让我替她送上祝福，生日快乐，她希望你永远开心健康。,"Happy birthday! Also, Amiya isn't on the ship right now, but she asked me to pass on the birthday wishes. She hopes you stay happy and healthy!","С днем рождения! Амия сейчас не на корабле, она просила передать свои поздравления, желает тебе счастья и здоровья."

@@ -20,12 +20,12 @@ char-13,卡车司机B,卡车司机B,Truck Driver B,Водитель грузов
 ,,,,
 line-7,？？？,索默尔，这是怎么回事？,"What's going on here, Sommer?","Соммер, что происходит?"
 line-8,索默尔,我也不知道！我正开车呢，发动机出了故障，结果发现这个人就躺在路边。吓我一跳，我还以为是我撞到了人。,"I dunno either! I was just driving my truck when the engine blew a gasket, then I noticed this kid lying down by the road. Scared the hell out of me! Thought I hit her.","Я и сам не знаю! Я вел грузовик, мотор начал барахлить, и тут я увидел, что на обочине кто-то лежит. Я так перепугался, думал, что сбил человека."
-line-9,索默尔,这孩子一个人晕倒在荒野上，嘴里还一直念叨着要找一个穿红色连帽衫的家伙。,"She fainted out in the wilds on her lonesome, kept saying she was looking for someone in a red hoodie.","Эта девочка лежала без сознания в пустошах в полном одиночестве и все твердила, что ищет кого-то в красной толстовке."
+line-9,索默尔,这孩子一个人晕倒在荒野上，嘴里还一直念叨着要找一个穿红色连帽衫的家伙。,"She fainted out in the wilds on her lonesome, kept saying she was looking for someone in a red hoodie.","Эта девочка лежала без сознания в пустошах в полном одиночестве и всё твердила, что ищет кого-то в красной толстовке."
 line-10,索默尔,我想总不能把她扔在那，就先带她回来了......,"I couldn't just leave her out there, so I brought her back here...","Я подумал, что нельзя же оставить её там одну, вот и решил привезти её с собой..."
 line-11,？？？,找我？可我完全不认识她啊。,"Looking for me? I've got no idea who she is, though.",Ищет меня? Но я её совсем не знаю.
 line-12,索默尔,她看上去就是个孤零零的倒霉蛋，或许能留她在营地？我们最近忙成这样，补充一个人手也行啊。,"Seems like an unlucky loner to me. Think we can let her stay in our camp? Considering how busy we've been lately, having another pair of hands would be nice.","Она выглядит как несчастная бедолага, может, оставим её в лагере? Мы сейчас так загружены, пара лишних рук не помешала бы."
 line-13,？？？,索默尔，你明知道互助会的每一个成员都是要经过严格审查的。,"You know every member of the association has to go through a strict background check, Sommer.","Соммер, ты же знаешь, что каждый член Ассоциации перевозчиков проходит строгую проверку."
-line-14,？？？,像她这样的感染......来历不明的人，万一和家族有什么关系怎么办？,An Infecte—person of unknown origin like her... What if she has something to do with the famiglie?,"Она инфицировання... человек с неизвестным прошлым, а что, если она связана с Семьей?"
+line-14,？？？,像她这样的感染......来历不明的人，万一和家族有什么关系怎么办？,An Infecte—person of unknown origin like her... What if she has something to do with the famiglie?,"Она инфицированная... человек с неизвестным прошлым, а что, если она связана с Семьей?"
 line-15,索默尔,唉......,*sigh*...,Эх...
 line-16,？？？,医生说她情况还算稳定，等她醒来后，就让她离开吧。,"The doctor said her condition's stable, so once she's up, send her on her way.","Врач сказал, что её состояние стабилизировалось. Пусть уходит, как только придёт в себя."
 line-17,索默尔,好，好吧。,A-Alright then.,Ла-ладно.
@@ -160,7 +160,7 @@ line-369,卡车司机A,开夜车......不会是什么我不知道的家族黑话
 line-371,卡车司机B,当然只是字面意思而已！你这家伙，口气怎么和警察一模一样！再说，那都是过去的事了。,"It means exactly what it sounds like, driving at night! You're talking like a police officer! I'm tellin' ya, it's all in the past now.","Конечно, это значит ровно то, что сказано! Слушай, чего ты разговариваешь прямо как коп! И вообще, это всё в прошлом."
 line-373,卡车司机A,不过说实在的，罗米，你最近吃的罚单是有点多了。,"Now that you mention it, Romi, you've been getting more tickets than usual lately.","Ну, по правде говоря, Роми, ты в последнее время получаешь слишком много штрафов."
 line-375,卡车司机B,狂欢节嘛，人多车多，大街小巷都不太好走，你又不是不知道。,"It's Carnevale. The whole city's packed full of both people and cars. You know that, man.","Карнавал же, людей много, машин много, на улицах не протолкнуться, ты же сам знаешь."
-line-376,卡车司机B,我又没在满是废墟的移动城市里一边开车一边躲天灾过！,"And just so you know, I used to drive around a nomadic city full of ruins while trying to hide from a Catastrophe!","Я же не гонял по руинам мобильного города, пытаясь удрать от природного бедствия!"
+line-376,卡车司机B,我又没在满是废墟的移动城市里一边开车一边躲天灾过！,"And just so you know, I used to drive around a nomadic city full of ruins while trying to hide from a Catastrophe!","Я же не гонял по руинам мобильного города, пытаясь удрать от Катастрофы!"
 line-378,卡车司机A,你还沉浸在柳德米拉的故事里呢？,"Still stuck in one of Lyudmila's stories, huh?",Ты всё ещё под впечатлением от историй Людмилы?
 line-379,卡车司机A,话说，柳德米拉，这些故事真的只是你在乌萨斯的时候听来的吗？你讲得有鼻子有眼的，好像亲身经历过一样......,"Speaking of, those stories are just ones you heard while in Ursus, right? You go into so much detail, it's almost like they were actually about you...","Кстати, Людмила, эти истории — ты их правда просто услышала, пока была в Урсусе? Ты рассказываешь так убедительно, будто сама всё это пережила..."
 line-382,柳德米拉,......,......,...
@@ -185,7 +185,7 @@ line-423,卡车司机A,嘿嘿，不好意思！,"Alright, I'm sorry, I'm sorry!"
 line-424,柳德米拉,......我就算了吧。,...I'm good.,"...Я, пожалуй, воздержусь."
 line-425,索默尔,柳德米拉，大家伙都知道的。,"Look, everyone knows, Lyudmila.","Людмила, все мы знаем."
 line-428,索默尔,倒也不是说完全不在意。说实话，我摘下你的面罩时......真的吓了一跳。,"Though I wouldn't say we don't completely mind. To tell you the truth, when I took off your mask... It scared the hell out of me.","Не то чтобы нас это сильно заботило. Если честно, когда я снял твою маску... я действительно испугался."
-line-429,索默尔,不过你是感染者，你只会比我们更在意会不会影响到别人。,"We just understand that... as an Infected, you're probably more worried than us about it spreading around.","Но ты — инфицировання, и ты беспокоишься о том, как бы не навредить другим, куда больше нас."
+line-429,索默尔,不过你是感染者，你只会比我们更在意会不会影响到别人。,"We just understand that... as an Infected, you're probably more worried than us about it spreading around.","Но ты — инфицированная, и ты беспокоишься о том, как бы не навредить другим, куда больше нас."
 line-430,柳德米拉,......,......,...
 line-431,索默尔,你也别怪罗米他们几个老是缠着你问东问西的，他们没恶意，就是想多了解你一些。,Don't blame Romi and the others for pestering you with questions. They don't mean anything bad about it. They just want to get to know you a little better.,"Не вини Роми и остальных за то, что они постоянно пристают с расспросами, у них нет злого умысла, просто хотят узнать тебя получше."
 line-432,索默尔,别把我们当外人，柳德米拉。,"Don't be a stranger, Lyudmila.","Не считай нас чужими, Людмила."

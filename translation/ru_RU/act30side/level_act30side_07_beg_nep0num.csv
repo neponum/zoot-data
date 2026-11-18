@@ -17,11 +17,11 @@ char-10,？？？,？？？,???,???
 char-11,烈夏,烈夏,Leto,Лето
 char-12,围观的谢拉格人,围观的谢拉格人,Spectating Locals,Зеваки-кьерагцы
 char-13,店主,店主,Shopkeeper,Продавец
-char-14,“灰礼帽”&烈夏,“灰礼帽”&烈夏,'Trilby Asher' & Leto,Серый цилиндр & Леша
+char-14,“灰礼帽”&烈夏,“灰礼帽”&烈夏,'Trilby Asher' & Leto,Трилби Эшер & Лето
 char-15,初雪,初雪,Pramanix,Праманикс
 ,,,,
 line-13,休露丝,侍女长，周围的人都已经疏散了，你怎么还留在这里？,"Hey, maid, everyone else about has already scarpered off. Why are you still here?","Старшая горничная, всех окружающих уже эвакуировали, почему вы всё ещё здесь?"
-line-15,雅儿,休露丝夫人才是，您不是应该已经回避了吗？,"Shouldn't you have left as well, Madam Sciurus?","То же самое можно спросить и у вас, леди Широси, разве вы не должны были уже уйти?"
+line-15,雅儿,休露丝夫人才是，您不是应该已经回避了吗？,"Shouldn't you have left as well, Madam Sciurus?","То же самое можно спросить и у вас, госпожа Шюрюс, разве вы не должны были уже уйти?"
 line-17,休露丝,哼，你说回避我就要回避吗？,"Do I really have to, just because you tell me to?","Хм, ты думаешь, я уйду только потому, что ты так сказала?"
 line-18,休露丝,这座雕像可是所有人的心血，要是出了岔子，我要怎么和其他人交代？,"This statue is the fruit of everyone's labors. If anything happened to it, how could I break the bad news to them?","Эта статуя — плод усилий всех нас. Если что-то пойдёт не так, как я буду смотреть людям в глаза?"
 line-20,雅儿,是所有人的心血，还是恩希欧迪斯的心血？,"Is it the fruits of everyone's labors, or Enciodes's?","Плод усилий всех нас, или всё-таки Энсиодиса?"
@@ -30,8 +30,8 @@ line-24,雅儿,夫人并不惊讶。,You hardly sound surprised.,"Вы не уд
 line-26,休露丝,我又不是傻子，圣女大人看起来毫不知情，但她怎么可能真的毫不知情？,"I'm not an idiot. She looked completely blindsided, but how could that possibly be?","Я же не дура. Святая Дева выглядит так, будто ничего не знает, но как она может на самом деле ничего не знать?"
 line-27,休露丝,只是，以她的立场来说，知道，但又不知道，才是她最应该做的事。,"It's just that, looking at it from her perspective, the best position she can be in is knowing a little bit, but not too much.","Просто с её позиции знать, но делать вид, что не знаешь — это именно то, что она должна делать."
 line-28,休露丝,而她现在派你来捅破这层窗户纸，说吧，什么事？,"And so she sent you to go the last mile for her, huh? Well, what is it then?","И теперь она послала тебя, чтобы ты раскрыла мне глаза. Говори, что случилось?"
-line-30,雅儿,正在靠近这里的人，一个是锏，一个是维多利亚的“灰礼帽”。,"Of the people currently drawing close, one is Degenbrecher, while the other is a Trilby Asher from Victoria.",К нам приближаются двое: Дегенбрехер и «Серый цилиндр» из Виктории.
-line-32,休露丝,“灰礼帽”？！,A Trilby Asher?!,«Серый цилиндр»?!
+line-30,雅儿,正在靠近这里的人，一个是锏，一个是维多利亚的“灰礼帽”。,"Of the people currently drawing close, one is Degenbrecher, while the other is a Trilby Asher from Victoria.",К нам приближаются двое: Дегенбрехер и «Трилби Эшер» из Виктории.
+line-32,休露丝,“灰礼帽”？！,A Trilby Asher?!,«Трилби Эшер»?!
 line-34,休露丝,啧，他难道......不，应该不至于......,"He couldn't... No, he wouldn't go that far...","Тц, неужели он... Нет, вряд ли это возможно..."
 line-38,休露丝,圣女大人是特意留你在这里给我提醒的？,"Did the Saintess ask you to stay, just so you could warn me about this?","Святая Дева оставила тебя здесь специально, чтобы ты меня предупредила?"
 line-40,雅儿,您就当作是这么一回事吧。,Let's go with that.,"Считайте, что так."
@@ -41,11 +41,11 @@ line-72,“灰礼帽”,咳......！,Urk...!,Кха...!
 line-73,“灰礼帽”,......不愧是黑骑士，个人实力不容小觑。,"Sure enough, you are the Black Knight. I will not underestimate you.","...Не зря вас называют Чёрным рыцарем, ваша личная сила впечатляет."
 line-74,“灰礼帽”,不过如果只是这样，您应该清楚，您是对付不了我的。,But that is precisely why you should realize that you cannot best me.,"Но если это всё, на что вы способны, вы должны понимать, что вам меня не одолеть."
 line-76,锏,哦？,Oh?,О?
-line-77,锏,我不讨厌有自信的人。,I like the confidence.,Не люблю самоуверенных людей.
+line-77,锏,我不讨厌有自信的人。,I like the confidence.,Мне не неприятны самоуверенные люди.
 line-79,锏,不过，我的耐心有限。,But my patience runs thin.,"Впрочем, мое терпение не безгранично."
 line-80,锏,你来回逃窜的样子，已经开始让我觉得有点无聊了。,The way you scurry and flit about has already started to bore me.,Твои метания из стороны в сторону уже начали меня утомлять.
 line-82,“灰礼帽”,我很抱歉，女士。让您感到无聊是我的失职。,"My apologies, Madam. I have been derelict in my duty, if you feel that way.","Прошу прощения, леди. То, что я вас утомил — моя недоработка."
-line-83,“灰礼帽”,只不过，恕我直言，锏女士，您的招式中没有杀意。,"However, if I may speak freely, Madam Degenbrecher, I feel no murderous intent in your swings.","Однако, осмелюсь заметить, леди Дегенбрехер, в ваших движениях нет желания убить."
+line-83,“灰礼帽”,只不过，恕我直言，锏女士，您的招式中没有杀意。,"However, if I may speak freely, Madam Degenbrecher, I feel no murderous intent in your swings.","Однако, осмелюсь заметить, госпожа Дегенбрехер, в ваших движениях нет желания убить."
 line-84,“灰礼帽”,曾经在卡西米尔所向披靡，以一把巨剑令对手闻风丧胆的黑骑士，如今却用着这样没有锋刃的武器——,"You were invincible during your days in Kazimierz, the Black Knight that struck terror into her opponents with her mighty blade, but now you're reduced to using these edgeless toys—","Непобедимый в Казимеже Чёрный рыцарь, чей гигантский меч внушал ужас врагам, теперь использует оружие без лезвия —"
 line-88,“灰礼帽”,嘶！,Grkh!,Ссс!
 line-92,锏,这种没有锋刃的武器对付你足够了。,These edgeless toys will be enough for the likes of you.,"Такого оружия без лезвия вполне достаточно, чтобы справиться с тобой."
@@ -64,8 +64,8 @@ line-118,锏,来找恩希欧迪斯麻烦的人很多，如果每一个都能碾�
 line-120,锏,可惜，有些人活着比死去更有用处。,"But unfortunately, there are some people who are much more useful alive than dead.","К сожалению, некоторые полезнее живыми, чем мертвыми."
 line-121,锏,就比如你。,"You, for example.","Например, ты."
 line-123,“灰礼帽”,咳、咳咳......原来如此。,"*cough*, *cough*... I see.","Кха, кха-кха... Вот как."
-line-124,“灰礼帽”,看来还要多谢，锏女士手下留情。,"I thank you for your mercy, Madam Degenbrecher.","Полагаю, стоит поблагодарить леди Дегенбрехер за проявленное милосердие."
-line-126,锏,锏。,These weapons.,Дегенбрехер.
+line-124,“灰礼帽”,看来还要多谢，锏女士手下留情。,"I thank you for your mercy, Madam Degenbrecher.","Полагаю, стоит поблагодарить госпожу Дегенбрехер за проявленное милосердие."
+line-126,锏,锏。,These weapons.,Это оружие.
 line-128,锏,我用它的理由很简单。,I use them for a very simple reason.,"Причина, по которой я его использую, проста."
 line-130,锏,它没有刃，用它，留你们这样的人一条命会变得轻松一点。,"They have no edge, so it's much easier for me to keep men like you alive.","У него нет лезвия. Использовать его, чтобы оставить таким, как вы, жизнь — намного проще."
 line-131,锏,就算是这种没有利刃的武器，只要再多用一点力气，大部分人就会变成一摊肉泥。,"If I were to use a little more force with these blunt weapons, most would become nothing more than mincemeat.","Даже таким оружием без острых краев, если приложить немного больше сил, от большинства людей останется только месиво."
@@ -84,7 +84,7 @@ line-154,锏,别误会。,Hardly.,Не ошибись.
 line-155,锏,如果你再认真一点，我也得费点心思。,"If you had been even the slightest bit more serious, I would have had to put in a lot more effort.","Если бы ты старался чуть усерднее, мне тоже пришлось бы приложить усилия."
 line-157,“灰礼帽”,我很遗憾，作为情报人员，我应该认真的地方，从来不是战斗。,"Unfortunately for me, as an intelligence officer, it is not in battle where I have to get serious.","Мне жаль, но как разведчик, я никогда не считал, что должен стараться именно в бою."
 line-175,雅儿,哇哦，他们已经打到脚手架上去了。,"Wow, they've already climbed up all the scaffolding.","Ого, они уже добрались до строительных лесов."
-line-177,雅儿,这个“灰礼帽”还真有点本事。,These Trilby Ashers are skilled indeed.,А этот «Серый цилиндр» на что-то способен.
+line-177,雅儿,这个“灰礼帽”还真有点本事。,These Trilby Ashers are skilled indeed.,А этот «Трилби Эшер» на что-то способен.
 line-178,雅儿,在锏的手下从雪山一路逃窜到湖心岛，放眼整个谢拉格，应该没人能做得到。,There is not a person in all of Kjerag who could scarper from the mountains to this island while getting hunted by Degenbrecher.,Убежать от Дегенбрехер через заснеженные горы до острова посреди озера — во всем Кьераге никто другой бы так не смог.
 line-180,雅儿,而这样的人竟然在维多利亚还有许多？,Could there be many such people in Victoria?,"И таких, как он, в Виктории ещё полно?"
 line-182,雅儿,哎呀，这片大地真可怕。,"Truly, there are terrors all about these lands.","Ой-ой, этот мир такой пугающий."
@@ -93,7 +93,7 @@ line-187,雅儿,别想啦，圣女有今天的地位不也是你自找的吗？,
 line-188,雅儿,你和你哥哥在这方面倒是挺像的，总是喜欢给自己找事做。,You truly do resemble your brother in that regard. You both love giving yourselves things to do.,Ты и твой брат в этом похожи — любите сами себе создавать работу.
 line-191,恩雅,不许说我和他一样。,I am nothing like him.,"Не смей говорить, что я похожа на него."
 line-193,雅儿,好吧好吧，那就他和你一样，行了吧？,"Oh, yes, alright, he's very much like you, then. Is that better?","Ладно, ладно. Пусть будет он похож на тебя, так лучше?"
-line-196,恩雅,雅儿。,Kjarr.,Яэр.
+line-196,恩雅,雅儿。,Kjarr.,Яр.
 line-198,雅儿,嗯？,Yes?,М?
 line-201,恩雅,你还记得我们的约定吧？,Do you still remember our agreement?,Ты помнишь наш договор?
 line-203,雅儿,嗯？哪一个？,Hmm? Which one?,М? Какой именно?
@@ -108,7 +108,7 @@ line-222,雅儿,反正，我只是来看一看还能不能给这座雕像动动�
 line-225,恩雅,你果然没放弃——,I can't believe you haven't given up on that ye—,Ты всё же не сдалась...
 line-234,雅儿,只有这一点，我是绝对不会放弃的。,This is one matter that I'm definitely not giving up on.,Только от этого я точно никогда не откажусь.
 line-252,雅儿,哇，锏刚才那一脚，我总觉得整座雕像好像歪了一点。,Wow. I think the statue might be a bit slanted after Degenbrecher's kick just now.,"Вау, после того удара Дегенбрехер мне показалось, что статуя слегка накренилась."
-line-253,雅儿,唔，“灰礼帽”也不差，居然抓住雕像的手指调整身体的平衡，真不是盖的。,That Trilby Asher isn't half bad either. Him grabbing the statue's finger to adjust the balance of his body sure was a surprise. That there's the real deal.,"Хм, «Серый цилиндр» тоже неплох, ухватился за палец статуи, чтобы сохранить равновесие. Действительно мастер."
+line-253,雅儿,唔，“灰礼帽”也不差，居然抓住雕像的手指调整身体的平衡，真不是盖的。,That Trilby Asher isn't half bad either. Him grabbing the statue's finger to adjust the balance of his body sure was a surprise. That there's the real deal.,"Хм, «Трилби Эшер» тоже неплох, ухватился за палец статуи, чтобы сохранить равновесие. Действительно мастер."
 line-254,雅儿,他们能不能帮我瘦个脸啊？,Do you think they could help me thin out the face a bit?,Могут ли они заодно сделать мне лицо поуже?
 line-255,雅儿,唉，最早的时候不懂事，觉得外表怎样都好，也就不太在乎自己的仪表。,"*sigh* I was far too naïve from the start, thinking that it didn't matter what I looked like on the outside. Made me not really care much about my appearance.","Эх, поначалу была глупой, думала, внешность не важна, и не следила за собой."
 line-256,雅儿,后来交流得多了，审美也就跟着人变了，才逐渐有了今天的样貌。,"After many interactions with others, my aesthetic senses changed alongside the people, and so we end up with the look I have today.","Позже, когда стала общаться с людьми, вкусы изменились, и со временем я стала такой, как сейчас."
@@ -122,9 +122,9 @@ line-263,雅儿,而且，认识恩雅以后，反倒跟着她开始注意起自�
 line-264,雅儿,每次陪着她偷偷出去逛街，她都会推荐一堆可爱的小玩意，不知道什么时候开始，我自己也喜欢上这些东西了。,"I would always go with her when she would sneak out for walks, recommending me various cute ornaments and trinkets. After who knows how long, I started to like those things myself.","Каждый раз, когда мы тайком выбирались по магазинам, она советовала кучу милых безделушек. Не знаю, когда это началось, но мне самой всё это полюбилось."
 line-265,雅儿,对哦，刚才鬓角削掉的地方或许可以改成饰品。,Hmm. Maybe we can replace that lock of hair that got shaved off with a big piece of jewelry.,"Точно, то место, где стерлись бакенбарды, можно превратить в украшение."
 line-266,雅儿,这个可以记一下。,I should write that down somewhere.,Надо запомнить.
-line-280,雅儿,哇，“灰礼帽”好惨，想要从头顶跳下来，但是被锏一脚给踢飞了。,"Must be tough being a Trilby Asher. Looked like he was about to jump down from the top of the head himself, but then Degenbrecher sent him flying with a mean kick.","Ого, «Серый цилиндр» такой жалкий, хотел спрыгнуть с головы, но Дегенбрехер его пнула."
+line-280,雅儿,哇，“灰礼帽”好惨，想要从头顶跳下来，但是被锏一脚给踢飞了。,"Must be tough being a Trilby Asher. Looked like he was about to jump down from the top of the head himself, but then Degenbrecher sent him flying with a mean kick.","Ого, «Трилби Эшер» такой жалкий, хотел спрыгнуть с головы, но Дегенбрехер его пнула."
 line-281,雅儿,真可怜。,Poor guy.,Бедолага.
-line-294,雅儿,我在想，锏以前的对手，是不是就和“灰礼帽”现在的心情一样？,"Now that I think about it, those other fellows that Degenbrecher fought. I wonder if they felt the same way as this Trilby Asher?","Интересно, прежние соперники Дегенбрехер чувствовали то же самое, что сейчас «Серый цилиндр»?"
+line-294,雅儿,我在想，锏以前的对手，是不是就和“灰礼帽”现在的心情一样？,"Now that I think about it, those other fellows that Degenbrecher fought. I wonder if they felt the same way as this Trilby Asher?","Интересно, прежние соперники Дегенбрехер чувствовали то же самое, что сейчас «Трилби Эшер»?"
 line-295,雅儿,明知道自己不是对手，但没有办法，总要挣扎一下，说不定有机会呢？,"Knowing that you are not truly a match, but with no other option but to struggle for your life, unsure if you'll have the opportunity to get out in one piece?","Зная, что они не ровня, но всё равно пытаются сопротивляться в надежде на мизерный шанс?"
 line-297,雅儿,直到最后发现自己果然还是没有机会。,Until finally you realize that there really is no such opportunity.,"И только в конце осознают, что шанса у них и не было."
 line-300,锏,不。,No.,Нет.
@@ -147,7 +147,7 @@ line-331,锏,......,......,...
 line-333,雅儿,交给我吧。,Allow me to take the lead.,Предоставь это мне.
 line-335,锏,你？,You?,Тебе?
 line-337,雅儿,确切地说，交给圣女大人吧。,"Or, to be more precise, allow the Saintess.","Точнее, предоставь это Святой Деве."
-line-340,,雅儿晃了晃手中的通讯终端。,Kjarr buzzes the communications terminal in her hand.,Яэр потрясла терминалом связи в своей руке.
+line-340,,雅儿晃了晃手中的通讯终端。,Kjarr buzzes the communications terminal in her hand.,Яр потрясла терминалом связи в своей руке.
 line-342,雅儿,你都听到了吗，圣女大人？,"Did you get all that, Saintess?","Вы всё слышали, Святая Дева?"
 line-348,恩雅,交给我吧。,Allow me to take the lead.,Предоставь это мне.
 line-349,恩雅,锏小姐辛苦了。,"You did well, Degenbrecher.","Благодарю за работу, мисс Дегенбрехер."
@@ -222,14 +222,14 @@ line-572,初雪,终于找到你们了。,Finally found you.,Наконец-то 
 line-574,哈洛德,咦，圣女大人？,Eh?! Saintess?,"О, Святая Дева?"
 line-576,“灰礼帽”,圣女？,The Saintess?,Святая?
 line-578,烈夏,初雪？,Pramanix?,Праманица?
-line-580,初雪,咦，烈夏，你也在啊，那正好。,"Ah, Leto! You're here too, perfect.","О, Леша, ты тоже здесь? Отлично."
+line-580,初雪,咦，烈夏，你也在啊，那正好。,"Ah, Leto! You're here too, perfect.","О, Лето, ты тоже здесь? Отлично."
 line-582,烈夏,正好？,Me?,Отлично?
-line-584,初雪,子爵阁下应当记得，今晚会在银心湖边举办一场篝火晚会，作为明天落成仪式的预热。,"Lord Viscount, I hope you remember tonight's bonfire banquet by the lakeside. The one that will serve as a warm-up before tomorrow's ceremony?","Ваша Светлость, надеюсь, вы помните, что сегодня вечером у озера Сильвер-Айс состоится праздничный костер в преддверии завтрашней церемонии?"
+line-584,初雪,子爵阁下应当记得，今晚会在银心湖边举办一场篝火晚会，作为明天落成仪式的预热。,"Lord Viscount, I hope you remember tonight's bonfire banquet by the lakeside. The one that will serve as a warm-up before tomorrow's ceremony?","Ваша Светлость, надеюсь, вы помните, что сегодня вечером у озера Серебряного Сердца состоится праздничный костер в преддверии завтрашней церемонии?"
 line-585,初雪,我听说您最近四处游山玩水，怕您忘了，所以特意来提醒一二。,"I had heard that you had been having your fill of scenic tours of Kjerag lately, and I feared that you had forgotten, which is why I decided to give you this little reminder.","Я слышала, вы в последнее время много путешествовали, вот и решила напомнить."
 line-587,哈洛德,我当然记得，请放心，我一定到场。,"Of course I remember! Worry not, for I shall definitely be there.","Конечно помню, не беспокойтесь, я обязательно буду."
-line-589,初雪,烈夏也一起来吧？,"Will you be coming too, Leto?","Леша, ты тоже приходи?"
+line-589,初雪,烈夏也一起来吧？,"Will you be coming too, Leto?","Лето, ты тоже приходи?"
 line-591,烈夏,篝火晚会？好啊，好啊，我一定到。,"To the bonfire banquet? Sure, I'll come.","Праздничный костер? Здорово, обязательно буду."
-line-593,初雪,这位“灰礼帽”先生，我可以认为是您的朋友吗？,And I believe this Trilby Asher is a friend of yours?,А этот господин «Серый цилиндр» — ваш друг?
+line-593,初雪,这位“灰礼帽”先生，我可以认为是您的朋友吗？,And I believe this Trilby Asher is a friend of yours?,А этот господин «Трилби Эшер» — ваш друг?
 line-595,哈洛德,......是的，当然。,Yes... quite.,"...Да, разумеется."
 line-597,初雪,既然是子爵阁下的朋友，那就是我谢拉格的客人，希望您也能赏脸参加这场晚会。,"As a friend of the Lord Viscount, naturally you too are a guest of Kjerag. I hope that you will do me the honor of attending our humble banquet.","Если он друг Вашей Светлости, значит, он и гость Кьерага. Надеюсь, вы тоже почтите нас своим присутствием."
 line-599,“灰礼帽”,......既然是圣女大人的邀请，岂有不从的道理？,Whatever reason could I have to refuse an invitation from the Saintess herself?,"...Раз уж сама Святая Дева приглашает, как я могу отказаться?"

@@ -13,7 +13,7 @@ char-6,锏,锏,Degenbrecher,Дегенбрехер
 char-7,出租驮兽的牧民,出租驮兽的牧民,Burdenbeast Renter,Пастух
 char-8,活泼的谢拉格人,活泼的谢拉格人,Lively Local,Житель Кьерага
 char-9,冷静的谢拉格人,冷静的谢拉格人,Calm Local,Житель Кьерага
-char-10,摔倒的“灰礼帽”,摔倒的“灰礼帽”,Fallen 'Trilby Asher',Серый цилиндр
+char-10,摔倒的“灰礼帽”,摔倒的“灰礼帽”,Fallen 'Trilby Asher',Трилби Эшер
 ,,,,
 line-9,,<color=#000000>罗莎琳是坏孩子！</color>,<color=#000000>Rosalind's a rotten girl!</color>,Розалин — плохая девочка!
 line-10,,<color=#000000>她没有爸爸，我们不要和她一起玩，她是个怪胎！</color>,"<color=#000000>We don't want to play with her, she's a freak without a papa!</color>","У нее нет папы, мы не будем с ней играть, она уродка!"
@@ -66,7 +66,7 @@ line-138,阿克托斯,罗莎琳，你是我的女儿。,"Rosalind, you're my dau
 line-155,恩希欧迪斯,这真是稀客。,A most unusual guest.,Редкий гость.
 line-156,恩希欧迪斯,菈塔托丝，什么事能让你这样急着上门来见我？,"What business has you hurrying over here today, Ratatos?","Рататос, что заставило тебя так спешно прийти ко мне?"
 line-158,菈塔托丝,你应该很清楚我为什么来，恩希欧迪斯。,"You must know exactly what it is, Enciodes.","Ты прекрасно знаешь, почему я пришла, Энсиодес."
-line-160,菈塔托丝,你确定按照我们现在的做法，一点没根没据的诱导，就能骗得过那个维多利亚的“灰礼帽”？,Are you sure we can fool that Victorian Trilby Asher with our bait?,"Ты уверен, что нашим нынешним подходом, всеми этими безосновательными манипуляциями, можно обмануть того «Серого цилиндра» из Виктории?"
+line-160,菈塔托丝,你确定按照我们现在的做法，一点没根没据的诱导，就能骗得过那个维多利亚的“灰礼帽”？,Are you sure we can fool that Victorian Trilby Asher with our bait?,"Ты уверен, что нашим нынешним подходом, всеми этими безосновательными манипуляциями, можно обмануть того «Трилби Эшера» из Виктории?"
 line-162,恩希欧迪斯,越聪明的人，越容易对自己的判断深信不疑，不是吗？,"The smarter a man is, the more confident he is in his own judgement, correct?","Чем умнее человек, тем больше он верит в свои суждения, не так ли?"
 line-164,菈塔托丝,我不否认这一点。,That's for sure.,Я этого не отрицаю.
 line-165,菈塔托丝,只是恩希欧迪斯，我也要告诫你，别太小瞧其他人。,"But Enciodes, here's a warning for you too. Don't underestimate people.","Просто, Энсиодес, хочу предупредить тебя: не стоит недооценивать других."
@@ -112,7 +112,7 @@ line-245,“灰礼帽”,我投降，锏女士。,I surrender.,"Я сдаюсь,
 line-246,“灰礼帽”,我们之间有什么斗争的必要呢？这整条线索都是错误的。,Is there a need for us to fight? This is a complete misunderstanding.,Зачем нам драться? Вся эта цепочка событий — ошибка.
 line-247,“灰礼帽”,您说得对，我该下山吃午饭了。,"You were right, I should head down the mountain for lunch.","Вы правы, мне пора спускаться с горы на обед."
 line-249,锏,......,......,...
-line-252,,“灰礼帽”坦然地举起双手，走过锏的身边。,The Trilby Asher calmly raises his hands and walks past Degenbrecher.,«Серый цилиндр» спокойно поднял руки и прошел мимо Дегенбрехер.
+line-252,,“灰礼帽”坦然地举起双手，走过锏的身边。,The Trilby Asher calmly raises his hands and walks past Degenbrecher.,«Трилби Эшер» спокойно поднял руки и прошел мимо Дегенбрехер.
 line-253,,但是，当他走到锏的背后时，他忽然停住。,"But as his back faces hers, he suddenly stops moving.","Но, оказавшись у нее за спиной, он внезапно остановился."
 line-255,“灰礼帽”,不过......,However...,Впрочем...
 line-256,“灰礼帽”,这只是我的一些小小猜测，锏女士。,"This is only a little guess of mine, Madam Degenbrecher.","Это лишь мои небольшие догадки, госпожа Дегенбрехер."
@@ -123,7 +123,7 @@ line-260,“灰礼帽”,会不会，佩尔罗契家运的酒，或者说，佩�
 line-261,“灰礼帽”,罗莎琳小姐的出现是个纯粹的意外。,Madam Larina's appearance was an unexpected affair.,Появление госпожи Розалин было чистой случайностью.
 line-262,“灰礼帽”,而正因为如此，你们担心我见到罗莎琳小姐之后，可能会阴差阳错地查到佩尔罗契家，发现一些我不该发现的东西。,"And it is precisely because of that, you worry that once I meet her, I might just stumble upon Clan Paleroche in the course of my investigation and discover something I shouldn't have.","И именно поэтому вы боялись, что после встречи с ней я случайно выйду на дом Перроче и узнаю то, чего не должен."
 line-263,“灰礼帽”,才演了这样一出戏给我看。,This is why you've performed an entire show for me.,Поэтому и устроили этот спектакль.
-line-266,,锏没有说话，只是缓缓举起了手中的锏。,"Degenbrecher does not answer, and merely raises her weapons, slowly.","Дегенбрехер не проронила ни слова, лишь медленно подняла свой меч."
+line-266,,锏没有说话，只是缓缓举起了手中的锏。,"Degenbrecher does not answer, and merely raises her weapons, slowly.","Дегенбрехер не проронила ни слова, лишь медленно подняла свое оружие."
 line-268,“灰礼帽”,佩尔罗契家负责了谢拉格各种资源的运输。,The Paleroches are in charge of transporting various resources for Kjerag.,Семья Перроче отвечает за транспортировку всех ресурсов Кьерага.
 line-269,“灰礼帽”,而谢拉格所有运输铁路有一个共同的汇聚点，那就是银心湖。进一步说，重要的......是耶拉冈德像脚下的湖心岛。,"And all transport railways in the country converge on the same spot, Lake Silberneherze. To elaborate, what's important is... the island in the middle of the lake underneath the Kjeragandr statue.","А все железные дороги Кьерага сходятся в одной точке — у озера Серебряного Сердца. И точнее... важно то, что на острове посреди озера, у ног статуи Йелаганд."
 line-270,“灰礼帽”,那座耶拉冈德像上，恐怕有些秘密。,Perhaps there are some secrets hidden there.,"Боюсь, та статуя Йелаганд скрывает какие-то тайны."
@@ -133,8 +133,8 @@ line-275,“灰礼帽”,人各有长。论武力，放眼整个维多利亚您�
 line-276,“灰礼帽”,您并不能完美控制那些自己都意识不到的细微表情。,You cannot control the subtle expressions you're not even aware you're making.,Вы не можете идеально контролировать свои мимолетные выражения лица.
 line-278,锏,......,......,...
 line-280,“灰礼帽”,我认为我猜对了。,I believe my guess is correct.,"Думаю, я угадал."
-line-289,,锏毫不留情地挥下武器，然而，“灰礼帽”早有准备。,"Degenbrecher wields her weapons with no mercy in mind, but the Trilby Asher is one step ahead of her.","Дегенбрехер безжалостно взмахнула оружием, но «Серый цилиндр» был готов."
-line-290,,他避过气浪，避过飞雪，避过杀意，向着山下大步而去。,"He dodges the blast waves, the snow flying everywhere, and her murderous intent as he leaps down the mountain.","Он уклонился от порыва ветра, от летящего снега, от смертоносной атаки и широкими шагами направился вниз с горы."
+line-289,,锏毫不留情地挥下武器，然而，“灰礼帽”早有准备。,"Degenbrecher wields her weapons with no mercy in mind, but the Trilby Asher is one step ahead of her.","Дегенбрехер безжалостно взмахнула оружием, но «Трилби Эшер» был готов."
+line-290,,他避过气浪，避过飞雪，避过杀意，向着山下大步而去。,"He dodges the blast waves, the snow flying everywhere, and her murderous intent as he leaps down the mountain.","Он уклонился от порыва ветра, от летящего снега, от убийственного намерения и широкими шагами направился вниз с горы."
 line-291,,锏紧随其后。,Degenbrecher gives chase.,Дегенбрехер последовала за ним.
 line-301,出租驮兽的牧民,通往银心湖的驮兽观览车即将发车。,The burdenbeast observation car is about to depart for Lake Silberneherze.,Поезд с вьючными зверями до озера Серебряного Сердца скоро отправляется.
 line-302,出租驮兽的牧民,经过专业训练的驮兽，能带你走过每个景点，看到最好的风景！,Our professionally trained burdenbeasts can bring you to every scenic spot and all the best views!,"Наши звери обучены и довезут вас до каждой достопримечательности, чтобы вы увидели лучшие виды!"
@@ -148,7 +148,7 @@ line-317,出租驮兽的牧民,（口哨）,(Whistle),(Свистит)
 line-324,出租驮兽的牧民,就它了，我手下最快的孩子，塔克米。,"That's the one. Fastest girl I got, Takme.","Пусть будет он, мой самый быстрый малый — Такми."
 line-325,出租驮兽的牧民,放心，我不会告诉别人的，先生。,"And don't worry, sir. My lips are sealed.","Не волнуйтесь, я никому не скажу, сэр."
 line-327,“灰礼帽”,多谢。,Many thanks.,Благодарю.
-line-333,,“灰礼帽”敏捷地跳进驮兽背上的座位。,The Trilby Asher nimbly jumps into the seat on the burdenbeast's back.,«Серый цилиндр» ловко запрыгнул в седло на спине зверя.
+line-333,,“灰礼帽”敏捷地跳进驮兽背上的座位。,The Trilby Asher nimbly jumps into the seat on the burdenbeast's back.,«Трилби Эшер» ловко запрыгнул в седло на спине зверя.
 line-335,,而后，驮兽迈开脚步，向着银心湖开始奔跑。,"The beast begins to move, and breaks into a run towards the lake.",Затем вьючный зверь двинулся в путь и побежал к озеру Серебряного Сердца.
 line-341,出租驮兽的牧民,啧啧，外国人还真有意思，等女儿回来可得给她说道说道。,Pfft. Foreigners are so funny. I'll have to tell my girl about this when she comes back.,"Ну надо же, иностранцы такие забавные, надо будет рассказать дочке, когда вернется."
 line-348,锏,有没有看到一个身穿黑色大衣的外国人？,Have you seen a foreigner dressed in a black coat?,Не видела иностранца в черном пальто?
@@ -186,7 +186,7 @@ line-455,冷静的谢拉格人,好好好。,"Okay, okay, okay.","Ладно, л�
 line-461,“灰礼帽”,抱歉，借工具一用。,"Sorry, I need to borrow these for a bit.","Простите, одолжу снаряжение."
 line-466,活泼的谢拉格人,哎，我的滑冰鞋！,"Hey, my skates!","Эй, мои коньки!"
 line-470,“灰礼帽”,用这些钱去买双新的吧。,Here's some money for a new pair.,Купите на эти деньги новые.
-line-477,,在四处调查的时候，“灰礼帽”曾经见过冬日的暖阳下，谢拉格人在冰面上滑行的情景。,"During his thorough investigation of Kjerag, the Trilby Asher has seen many locals skating on the ice underneath the warm winter sun.","Исследуя окрестности, «Серый цилиндр» не раз видел, как жители Кьерага катаются на коньках под зимним солнцем."
+line-477,,在四处调查的时候，“灰礼帽”曾经见过冬日的暖阳下，谢拉格人在冰面上滑行的情景。,"During his thorough investigation of Kjerag, the Trilby Asher has seen many locals skating on the ice underneath the warm winter sun.","Исследуя окрестности, «Трилби Эшер» не раз видел, как жители Кьерага катаются на коньках под тёплым зимним солнцем."
 line-478,,他觉得这种活动确实有些乐趣，如果有时间的话，他也想尝试一下。,"He's thought that an activity like this could be somewhat enjoyable, and has wanted to try it, if he had the time.","Ему казалось, что это занятие приносит радость, и если бы было время, он хотел бы попробовать."
 line-479,,没想到机会这就来了。,An opportunity has unexpectedly presented itself to him.,"Кто бы мог подумать, что такой шанс представится."
 line-480,,但他马上发现自己错估了一件事——,"But soon, he discovers he has made a gross misjudgment—","Но он сразу понял, что недооценил одну вещь —"
@@ -199,8 +199,8 @@ line-495,锏,让开一点。,Move.,Подвинься.
 line-500,冷静的谢拉格人,咦？,Eh?,А?
 line-502,活泼的谢拉格人,哇啊啊啊，天上有个人飞过来了！,Whoaaaaa! Someone's flying in from up high!,"Ва-а-а-а, кто-то летит по воздуху!"
 line-508,“灰礼帽”,重心，重心，对，对，我明白了！,"Stability, balance, right, yes, I've got it!","Равновесие, равновесие, да, да, я понял!"
-line-520,,“轰”的一声，冰面在锏的攻击下裂开了一个巨大的口子。,"With a loud bang, Degenbrecher's attack smashes a gigantic hole into the icy surface.",С грохотом лед треснул под ударом Дегенбрехер.
-line-521,,千钧一发之际，“灰礼帽”闪开了。,The Trilby Asher dodges the blow in the nick of time.,В самый последний момент «Серый цилиндр» успел отскочить.
+line-520,,“轰”的一声，冰面在锏的攻击下裂开了一个巨大的口子。,"With a loud bang, Degenbrecher's attack smashes a gigantic hole into the icy surface.","С грохотом лед треснул под ударом Дегенбрехер, образовав огромную трещину."
+line-521,,千钧一发之际，“灰礼帽”闪开了。,The Trilby Asher dodges the blow in the nick of time.,В самый последний момент «Трилби Эшер» успел отскочить.
 line-533,“灰礼帽”,哇哦，我学会了！,"Wow, I got it down!","Ого, я научился!"
 line-534,“灰礼帽”,太愉快了，回国之后，我一定要推广一下这项运动！,How delightful. I'll definitely promote this sport after I return home!,"Так здорово, вернусь на родину — обязательно популяризирую этот вид спорта!"
 line-535,“灰礼帽”,当然，首先我得活过今天才行。,"Of course, I have to survive the day first.","Конечно, сначала надо дожить до конца дня."
