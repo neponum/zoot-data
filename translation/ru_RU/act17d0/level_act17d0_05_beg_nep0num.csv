@@ -12,7 +12,7 @@ char-5,芙兰卡,芙兰卡,Franka,Франка
 char-6,闪击,闪击,Blitz,Блиц
 char-7,霜华,霜华,Frost,Фрост
 ,,,,
-line-10,灰烬,加油！Lord！,You can do it! Lord!,Давай! Лорд!
+line-10,灰烬,加油！Lord！,You can do it! Lord!,Давай! Lord!
 line-13,战车,嗯......嗯！！呃！,Hnng... Grrrgh! Gah...!,М-м... М-м!! Эх!
 line-16,灰烬,差一点！还差一点！,Almost! Just a little more!,Почти! Ещё чуть-чуть!
 line-19,战车,嗯......哈！,And... Hah!,М-м... Ха!
@@ -42,11 +42,11 @@ line-62,灰烬,就是这块结晶了。,This chunk of crystal.,"Вот, этот
 line-64,战车,看着像是能量源，它是算发射药还是战斗部？,Looks like an energy source. Is that a propellant or a warhead?,"Похоже на источник энергии, это считается метательным зарядом или боевой частью?"
 line-66,巡林者,老夫从前听拉特兰工匠讲过，每一发蚀刻子弹内都装着一块微型施术单元，这些施术单元都与拉特兰铳的结构相互对应。,A Laterano gunsmith once told me that every single etched bullet contains a miniature casting unit that matches up with the structure of a Laterano gun.,"Я слышал от латеранских мастеров, что в каждой травленой пуле находится микроскопический кастерный юнит, который соответствует конструкции латеранского оружия."
 line-67,巡林者,也就是说，不仅是铳器本身，就连它们发射的每一发蚀刻子弹都等同于术师的法杖，所以蚀刻子弹才会造价高昂。,"That means it's not only the gun, but every etched bullet, is basically a caster's staff. That's why they're so expensive, and why they need such complicated Arts that only Sankta can make much use of them.","Иными словами, не только само оружие, но и каждая выпущенная пуля работает как магический посох кастера, поэтому они такие дорогие."
-line-68,巡林者,与之对应的源石技艺也复杂深奥，只有萨科塔人才会大量使用铳器，其他人则会选择更易于使用的远程武器。,Other peoples go with easier ranged weapons.,"Искусство ориджини, лежащее в их основе, сложно и глубоко, поэтому только санкаты массово используют огнестрел, остальные предпочитают более простое дальнобойное оружие."
+line-68,巡林者,与之对应的源石技艺也复杂深奥，只有萨科塔人才会大量使用铳器，其他人则会选择更易于使用的远程武器。,Other peoples go with easier ranged weapons.,"Искусства Ориджиниума, лежащие в их основе, сложно и глубоко, поэтому только санкаты массово используют огнестрел, остальные предпочитают более простое дальнобойное оружие."
 line-70,战车,拉特兰是国名，萨科塔是种族名，拉特兰人并不都是萨科塔......我明白了。,"So Laterano is the name of the country, Sankta is the name of the race. Laterano people are not necessarily Sankta... Got it.","Латеран — название страны, санката — название расы, не все латеранцы — санкаты... Я понял."
 line-71,战车,但关于子弹的部分可真是个坏消息。,But that's real bad news about the bullets.,Но с патронами — это плохие новости.
-line-72,战车,这个世界上就没有什么普通枪械吗？不需要“源石技艺”的那种。,Do we have any gun here that doesn't require those 'Originium Arts' to work?,"В этом мире вообще есть обычное огнестрельное оружие? Такое, где не нужно «искусство ориджини»?"
-line-74,巡林者,......不需要源石技艺的铳械，老夫可从来没听说过。,I've never heard about those firearms that don't need Originium Arts.,"...Об огнестрельном оружии, не требующем искусства ориджини, я никогда не слышал."
+line-72,战车,这个世界上就没有什么普通枪械吗？不需要“源石技艺”的那种。,Do we have any gun here that doesn't require those 'Originium Arts' to work?,"В этом мире вообще есть обычное огнестрельное оружие? Такое, где не нужно «Искусства Ориджиниума»?"
+line-74,巡林者,......不需要源石技艺的铳械，老夫可从来没听说过。,I've never heard about those firearms that don't need Originium Arts.,"...Об огнестрельном оружии, не требующем Искусств Ориджиниума, я никогда не слышал."
 line-76,战车,唉......,(Sigh)...,Эх...
 line-78,灰烬,走一步看一步吧，至少那些爆炸物大家都能用。,One step at a time. At least everybody can use explosives.,"Будем решать проблемы по мере их поступления, по крайней мере, взрывчаткой могут пользоваться все."
 line-80,战车,库兹他们在哪？,Where did Kötz go with them?,Где Куз и остальные?
@@ -57,7 +57,7 @@ line-97,雷蛇,有可能......我得试试看。,Maybe... I'll have to see.,Во
 line-105,芙兰卡,好了，你们躲开一点，优等生要开始表演了。,"Okay, you all take a step back. The valedictorian is about to do her stuff.","Готово, отойдите в сторону, сейчас отличница начнёт представление."
 line-106,雷蛇,......充能准备......,...Charging...,...Подготовка к зарядке...
 line-115,闪击,喔！喔！喔！,Oh! Ooh! Oooh!,Ого! Ого! Ого!
-line-116,闪击,这就是源石技艺？这效果也太酷炫了。,Was that Arts? It was pretty cool.,Это и есть искусство ориджини? Выглядит очень круто.
+line-116,闪击,这就是源石技艺？这效果也太酷炫了。,Was that Arts? It was pretty cool.,Это и есть Искусства Ориджиниума? Выглядит очень круто.
 line-117,灰烬,真是......让人印象深刻。,It definitely... leaves an impression.,Действительно... впечатляюще.
 line-124,芙兰卡,好了吗？,Is it working?,Ну что?
 line-126,雷蛇,启动了！,It's on!,Запустилось!
@@ -68,11 +68,11 @@ line-133,雷蛇,不行，还是无法接通。,No good. It's still not connectin
 line-134,雷蛇,可能是晶体电子单元损坏太严重了，也可能是其他地方的电路有肉眼不易察觉的损坏。,The crystal electronics unit may be too damaged. Or there may be some damage somewhere else in the circuit we can't see with the naked eye.,"Возможно, кристаллический электронный блок поврежден слишком сильно, или же есть повреждения цепи, которые не видны невооруженным глазом."
 line-135,雷蛇,这里也没有维修源石电路的专业设备，没法系统性地排查问题。,"We don't have any equipment for repairing Originium circuits here, so we can't troubleshoot.","Здесь нет профессионального оборудования для ремонта цепей ориджини, невозможно системно выявить проблему."
 line-137,芙兰卡,唉，看起来是没戏了。,"*Sigh*, sounds pretty hopeless.","Эх, похоже, ничего не выйдет."
-line-142,战车,这种源石技艺什么的，普通人能学会吗？,Can ordinary people do these Originium Arts too?,"Этому искусству ориджини или как его там, обычный человек может научиться?"
-line-144,芙兰卡,理论上说......绝大多数人经过培训之后都可以学会一定程度的源石技艺。,"Theoretically... almost anyone can learn to do Arts at some level, with enough training.",Теоретически... подавляющее большинство людей после обучения могут овладеть искусством ориджини в какой-то мере.
-line-145,芙兰卡,只是源石技艺的学习需要付出心血与时间，而且也与天赋密切相关。,"It's just that studying Arts takes time and effort, and that gets tied up pretty close with talent.","Только вот изучение искусства ориджини требует сил и времени, и тесно связано с талантом."
+line-142,战车,这种源石技艺什么的，普通人能学会吗？,Can ordinary people do these Originium Arts too?,"Этому Искусствам Ориджиниума или как его там, обычный человек может научиться?"
+line-144,芙兰卡,理论上说......绝大多数人经过培训之后都可以学会一定程度的源石技艺。,"Theoretically... almost anyone can learn to do Arts at some level, with enough training.",Теоретически... подавляющее большинство людей после обучения могут овладеть Искусствами Ориджиниума в какой-то мере.
+line-145,芙兰卡,只是源石技艺的学习需要付出心血与时间，而且也与天赋密切相关。,"It's just that studying Arts takes time and effort, and that gets tied up pretty close with talent.","Только вот изучение Искусства Ориджиниума требует сил и времени, и тесно связано с талантом."
 line-146,芙兰卡,很多人即便是付出了远超他人的艰辛，最后也只能掌握一些最基础的法术。,"Lots of people master only the most basic Arts, even after pushing themselves a lot harder than others.","Многие, даже приложив гораздо больше усилий, чем остальные, в итоге могут освоить лишь самые базовые заклинания."
-line-148,巡林者,老夫就是比较愚钝的人，自始至终都没能学会什么源石技艺。,"I'm a dumb old man, and I've never learned any Originium Arts.","Я человек недалекий, и с самого начала так и не смог выучить никакого искусства ориджини."
+line-148,巡林者,老夫就是比较愚钝的人，自始至终都没能学会什么源石技艺。,"I'm a dumb old man, and I've never learned any Originium Arts.","Я человек недалекий, и с самого начала так и не смог выучить никаких Искусств Ориджиниума."
 line-150,灰烬,你在想什么？,What are you thinking?,О чем задумался?
 line-152,战车,没什么，只是一些对现状的畅想......有点疯癫，还缺乏实践意义。,"Nothing... Just brainstorming about our situation here... some wild, impractical ideas.","Ни о чем, просто мечты о будущем... немного безумные и далекие от практики."
 line-154,雷蛇,啊，对了，库兹先生。,"Oh, right, Mr. Kötz.","А, точно, мистер Куз."
@@ -80,8 +80,8 @@ line-155,雷蛇,来试试看吧，这面盾牌。,Take a look at this shield her
 line-157,闪击,这是怎么......盾牌上面装了什么？,What's... what's that on the shield?,Что это... что ты установила на щит?
 line-159,雷蛇,我根据你盾牌的原本结构和功能，安装了高功率射灯和通用源石回路，应该能发挥出你惯用装备的作用。,I installed a high-powered spotlight and a universal Originium circuit based on the original design and function of your shield. It should work just like you're used to.,"Я установила мощный прожектор и универсальный контур ориджини, основываясь на изначальной структуре и функциях твоего щита, он должен работать не хуже твоего привычного снаряжения."
 line-161,闪击,非常感谢！,Thanks a bundle!,Премного благодарен!
-line-163,闪击,......嗯......可是我也不会“源石技艺”啊。,...Oh... But I can't use 'Originium Arts'.,...М-м... Но я ведь тоже не владею «искусством ориджини».
-line-165,芙兰卡,严格地说，通用源石回路，就是让不会使用源石技艺的人也能使用源石设备的现代科技成果。这些设备里可以储存一些简单的源石技艺。,"Strictly speaking, a universal Originium circuit is a piece of modern technology that lets people who don't know how to use Arts use it anyway. It is loaded with a few simple Originium Arts.","Строго говоря, универсальный контур ориджини — это достижение современных технологий, позволяющее тем, кто не владеет искусством ориджини, пользоваться устройствами на ориджини. В этих устройствах можно сохранять некоторые простые приемы."
+line-163,闪击,......嗯......可是我也不会“源石技艺”啊。,...Oh... But I can't use 'Originium Arts'.,...М-м... Но я ведь тоже не владею «Искусствами Ориджиниума».
+line-165,芙兰卡,严格地说，通用源石回路，就是让不会使用源石技艺的人也能使用源石设备的现代科技成果。这些设备里可以储存一些简单的源石技艺。,"Strictly speaking, a universal Originium circuit is a piece of modern technology that lets people who don't know how to use Arts use it anyway. It is loaded with a few simple Originium Arts.","Строго говоря, универсальный контур ориджини — это достижение современных технологий, позволяющее тем, кто не владеет Искусствами Ориджиниума, пользоваться устройствами на ориджини. В этих устройствах можно сохранять некоторые простые приемы."
 line-167,雷蛇,当然，装置供能和设备维护还是需要专业术师来做。,"Of course, the power supply and equipment maintenance still need to be carried out by a trained caster.","Разумеется, подзарядка и обслуживание оборудования все равно требуют профессионального кастера."
 line-175,闪击,好啊，让我看看，还真有点沉。,"All right, let's see. It's still pretty heavy.","Хорошо, дай-ка посмотрю, а он и вправду тяжеловат."
 line-177,闪击,......开关......激发装置......,...Turn it on... Hit the switch...,...Переключатель... детонатор...

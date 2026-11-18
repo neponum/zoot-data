@@ -13,10 +13,10 @@ char-6,格特鲁德,格特鲁德,Gertrude,Гертруда
 ,,,,
 line-11,白垩,（哈欠）,(Yawn),(зевает)
 line-13,白垩,来了，来了......,"Coming, I'll be right there...","Иду, иду..."
-line-20,白垩,......芙蓉？,Hibiscus?,...Фурго?
+line-20,白垩,......芙蓉？,Hibiscus?,...Гибискус?
 line-22,白垩,早上好......你起得好早啊，天刚刚亮——,Good morning... You're up early today. It's barely light out––,"Доброе утро... Ты так рано встала, солнце только взошло —"
-line-24,芙蓉,黑键呢？,Where's Ebenholz?,Где Чёрная Клавиша?
-line-26,白垩,黑键？黑键还在睡啊。,Hm? He's still asleep.,Чёрная Клавиша? Чёрная Клавиша ещё спит.
+line-24,芙蓉,黑键呢？,Where's Ebenholz?,Где Эбенхольц?
+line-26,白垩,黑键？黑键还在睡啊。,Hm? He's still asleep.,Эбенхольц? Эбенхольц ещё спит.
 line-28,白垩,你眼睛好红，难道是熬夜了？,Your eyes are all bloodshot... Did you stay up all night?,"У тебя такие красные глаза, ты что, всю ночь не спала?"
 line-30,芙蓉,——把他也叫起来，赶快。,––Wake him too. Hurry.,— Разбуди его. Скорее.
 line-42,黑键,假愈？,False recovery?,«Ложное исцеление»?
@@ -52,7 +52,7 @@ line-100,黑键,确实想不到。,Nothing's coming to mind.,Действите�
 line-102,芙蓉,以防万一，你们两人跟我去一趟办事处，让我检查一下，可以吗？,"Can the two of you come down to the office with me and let me check something real quick, just in case?","На всякий случай, пройдемте оба со мной в офис, позвольте мне провести осмотр, хорошо?"
 line-114,芙蓉,从指标上看，一个是再正常不过的健康人，一个是稳定期的矿石病患者......,"Judging by the markers, one of you is a completely healthy man, and the other is in the stable phase of Oripathy...","Судя по показателям, один — абсолютно нормальный здоровый человек, другой — пациент с орипатией в стабильной стадии..."
 line-116,芙蓉,这怎么可能......,How could this be...?,Как это возможно...
-line-126,行板,芙蓉，这次是夕照厅后面乐器店的老板！,"Hibiscus, this time, it's the owner of a music shop behind Afterglow Hall!","Фурго, на этот раз это владелец музыкального магазина за Залом Заката!"
+line-126,行板,芙蓉，这次是夕照厅后面乐器店的老板！,"Hibiscus, this time, it's the owner of a music shop behind Afterglow Hall!","Гибискус, на этот раз это владелец музыкального магазина за Залом Заката!"
 line-128,芙蓉,——情况如何？,––How's the situation?,— Как обстановка?
 line-130,行板,还好，老板和高庭区的医院签过协议，人已经被接走了。,"Thankfully, he signed an agreement with the hospital in the Cliffy Patio, and has already been picked up.","Все в порядке, у владельца есть соглашение с больницей Высокого Двора, его уже забрали."
 line-132,芙蓉,也是假愈？,Another case of false recovery?,Тоже ложное исцеление?
@@ -64,7 +64,7 @@ line-142,行板,那我去了！,Then I'll be off!,Тогда я пошел!
 line-149,芙蓉,我再问一遍，你们有任何能想到的线索吗？,"I have to ask again, is there anything you can think of?","Я спрошу ещё раз, у вас есть хоть какие-то догадки?"
 line-151,芙蓉,现在时间就是生命，拜托了！,"Every moment is the difference between life and death, so please!","Сейчас время на вес золота, умоляю!"
 line-155,芙蓉,......,......,...
-line-157,芙蓉,这样，黑键，你先出来，我们单独聊聊。,"How about this. Ebenholz, why don't you come with me first? Let's have a chat about this.","Давай так, Чёрная Клавиша, ты выходи, мы поговорим наедине."
+line-157,芙蓉,这样，黑键，你先出来，我们单独聊聊。,"How about this. Ebenholz, why don't you come with me first? Let's have a chat about this.","Давай так, Эбенхольц, ты выходи, мы поговорим наедине."
 line-159,芙蓉,白垩，你在屋里等一会儿，好吗？,"Kreide, would you mind waiting a bit inside?","Белый Мел, подожди в комнате немного, хорошо?"
 line-172,黑键,单独把我叫出来是什么意思？,Why'd you drag me out here by myself?,Что значит позвать меня наедине?
 line-174,芙蓉,如果有误判的地方我很抱歉，但是......,"I apologize in advance if this comes off the wrong way, but...","Мне жаль, если я ошиблась, но..."
@@ -102,12 +102,12 @@ line-236,黑键,......我不知道，但我保证会来找你的。,...I don't k
 line-238,芙蓉,好，我相信你一次。,"Alright, I'll trust you this once.","Хорошо, я поверю тебе в этот раз."
 line-250,白垩,我——我不同意。,I... I don't agree to this.,Я — я не согласен.
 line-252,芙蓉,......？,......?,...?
-line-254,白垩,黑键好不容易才获得了参加音乐会的资格，好不容易才得到了车尔尼先生的认可......在这种时候半途而废，实在太可惜了！,"Ebenholz worked so hard to perform in the concert, and finally managed to win over Herr Czerny... It'd be a travesty if he just walked away at this point!","Чёрная Клавиша с таким трудом получил право на участие в концерте, с таким трудом получил признание мистера Черни... Бросить всё на полпути в такой момент — это просто ужасно!"
+line-254,白垩,黑键好不容易才获得了参加音乐会的资格，好不容易才得到了车尔尼先生的认可......在这种时候半途而废，实在太可惜了！,"Ebenholz worked so hard to perform in the concert, and finally managed to win over Herr Czerny... It'd be a travesty if he just walked away at this point!","Эбенхольц с таким трудом получил право на участие в концерте, с таким трудом получил признание мистера Черни... Бросить всё на полпути в такой момент — это просто ужасно!"
 line-256,芙蓉,这不是认可不认可的问题，是人命关天的大事啊！,You're missing the bigger picture! We're talking about peoples' lives here!,"Дело не в признании, на кону человеческие жизни!"
 line-258,白垩,可是——,But—,Но...
-line-260,芙蓉,黑键？,Ebenholz?,Чёрная Клавиша?
-line-262,白垩,黑键，你要去哪儿？,"Ebenholz, where are you going?","Чёрная Клавиша, ты куда?"
-line-265,白垩,黑键！,Ebenholz!,Чёрная Клавиша!
+line-260,芙蓉,黑键？,Ebenholz?,Эбенхольц?
+line-262,白垩,黑键，你要去哪儿？,"Ebenholz, where are you going?","Эбенхольц, ты куда?"
+line-265,白垩,黑键！,Ebenholz!,Эбенхольц!
 line-279,格特鲁德,您看起来气喘吁吁，难道是一路跑来的？,You look like you're all out of breath. Did you run the entire way here?,"Вы выглядите запыхавшимся, вы что, бежали всю дорогу?"
 line-281,格特鲁德,我不推荐您用这种方式来找我，暴露的可能性——,I'd urge you not to seek me out in this manner. The risk of being exposed is––,"Я не рекомендую вам искать меня таким образом, возможность раскрытия —"
 line-283,黑键,暴露？,Exposed?,Раскрытия?
@@ -115,8 +115,8 @@ line-285,黑键,事到如今，您还谈什么暴露？,"Things are starting to 
 line-287,黑键,我问您，您所谓的尘世之音的共振，会不会对其他人造成影响？,I want to ask you something. Does the Resonanz from your so-called Voice of Mundane have any effect on other people?,"Ответьте мне, может ли резонанс «звуков земного мира», о котором вы говорили, повлиять на других?"
 line-289,格特鲁德,共振？不会。,The Resonanz? No.,Резонанс? Нет.
 line-291,格特鲁德,只要不是刻意驱使，尘世之音的共振不会对人产生任何影响。,"As long as it is not deliberately directed, the Voice of Mundane's Resonanz should not affect others in any way.","Если только не призывать их целенаправленно, резонанс «звуков земного мира» никак не повлияет на людей."
-line-293,黑键,那为什么芙蓉把我和白垩当成假愈现象的源头？,Then why did Hibiscus see me and Kreide as the source of the false recoveries?,Тогда почему Фурго считает нас с Белым Мелом источником ложного исцеления?
-line-295,格特鲁德,芙蓉？,Hibiscus?,Фурго?
+line-293,黑键,那为什么芙蓉把我和白垩当成假愈现象的源头？,Then why did Hibiscus see me and Kreide as the source of the false recoveries?,Тогда почему Гибискус считает нас с Белым Мелом источником ложного исцеления?
+line-295,格特鲁德,芙蓉？,Hibiscus?,Гибискус?
 line-297,黑键,罗德岛来维谢海姆出差的干员。,A Rhodes Island operator dispatched to Vyseheim.,"Оперативник «Родоса», приехавшая в командировку в Висхайм."
 line-299,格特鲁德,罗德岛把这种现象称为“假愈”？不愧是专业人士，精准而简洁的描述方式。,"So Rhodes Island has termed this phenomenon 'false recovery?' A clear and concise description, as you would expect of such professionals.","«Родос» называет этот феномен «ложным исцелением»? Достойно профессионалов, точное и лаконичное описание."
 line-301,黑键,您......果然知道。,You... knew about it after all.,Вы... всё-таки знали.
@@ -135,7 +135,7 @@ line-327,格特鲁德,只不过，用以治愈感染者的能量之源，是感�
 line-329,格特鲁德,以感染者自己为法术装置，以他们体内的源石为能源，增进他们的代偿功能......这就是白垩的尘世之音引发的“假愈”。,"Using the Infected themselves as Arts devices, using the Originium inside their bodies to enhance their compensatory functions... This is the 'false recovery' caused by Kreide's Voice of Mundane.","Используя самих инфицированных как устройство для искусства, а Ориджиниум в их телах как источник энергии для увеличения их компенсаторных функций... это и есть «ложное исцеление», вызванное звуками Белого Мела."
 line-331,格特鲁德,大概从很久以前，白垩就一直保持着这样的状态，一直在影响着周围的感染者了。,"Kreide has been in this state for a long, long time, continuously affecting the Infected around him.","Вероятно, Белый Мел пребывает в таком состоянии уже давно и постоянно влияет на окружающих инфицированных."
 line-333,黑键,如果一直都是这样，他的异常早就应该被人发现了！,"If this has been going on for so long, someone should've figured it out by now!","Если так было всегда, его аномалию должны были обнаружить давным-давно!"
-line-335,格特鲁德,这就是您的功劳了，黑键先生。,"The credit for that goes to you, Herr Ebenholz.","Вот здесь ваша заслуга, господин Чёрная Клавиша."
+line-335,格特鲁德,这就是您的功劳了，黑键先生。,"The credit for that goes to you, Herr Ebenholz.","Вот здесь ваша заслуга, господин Эбенхольц."
 line-337,黑键,我？！,Me?!,Моя?!
 line-339,格特鲁德,共振。,Resonanz.,Резонанс.
 line-341,黑键,......共振增强了白垩尘世之音的泄漏，所以假愈现象才会在这几天集中爆发？,"Resonanz amplifies the leakage of Kreide's Voice of Mundane, which is causing an explosion in the recent cases of false recovery?","...Резонанс усилил утечку «звуков земного мира» у Белого Мела, поэтому ложное исцеление вспыхнуло в последние дни?"

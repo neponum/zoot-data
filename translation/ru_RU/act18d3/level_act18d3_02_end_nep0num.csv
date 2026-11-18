@@ -47,7 +47,7 @@ line-89,女性居民,那你是来做什么的呢？唱歌吗？,"So what did you
 line-91,斯卡蒂,我是来找人的。,I came to find someone.,Я ищу человека.
 line-93,女性居民,那个人是谁？也是一位流浪歌手么？,Who? Also a wandering singer?,Кто этот человек? Тоже бродячий музыкант?
 line-95,斯卡蒂,是的。她是我的伙伴，我们是同僚。,Yes. She is a fellow of mine. We are colleagues.,"Да. Она мой напарник, мы коллеги."
-line-97,女性居民,她也来了盐风城？,Did she come to Sal Viento too?,Она тоже пришла в Соляной Город?
+line-97,女性居民,她也来了盐风城？,Did she come to Sal Viento too?,Она тоже пришла в Соляной город?
 line-99,斯卡蒂,对。你见过她么？,Correct. Have you seen her?,Да. Ты её видела?
 line-101,女性居民,你还没说她长什么样子呢......算啦！我刚才也说过了，像你这样的人，我以前从来没见过。,"You haven't told me what she looks like yet... oh, well! I said it just before, but you're the first time I've ever seen anyone like you.","Ты ещё не сказала, как она выглядит... хотя неважно! Как я уже говорила, таких, как ты, я никогда раньше не видела."
 line-103,斯卡蒂,我去问其他人。你能带路吗？,I'll go and ask others. Can you guide me?,Спрошу у других. Можешь показать дорогу?
@@ -69,7 +69,7 @@ line-143,居民,九十九......,Ninety-nine...,Девяносто девять..
 line-148,斯卡蒂,......,......,...
 line-149,斯卡蒂,你们这里，怎么问问题？,How do I ask questions here?,Как вы здесь задаете вопросы?
 line-151,女性居民,咦？你在外面一般怎么问？,Huh? How do you usually ask them on the outside?,А? А как обычно спрашиваешь ты?
-line-153,斯卡蒂,（砰一声放下背上箱子）,"(With a thump, she sets down the case she was carrying.)",(Громко опускает ящик на спину)
+line-153,斯卡蒂,（砰一声放下背上箱子）,"(With a thump, she sets down the case she was carrying.)","(Громко опускает на землю ящик, который несла на спине)"
 line-154,斯卡蒂,用这个问。,With this.,Этим.
 line-156,女性居民,啊？萨......萨克斯？你用乐器问问题？,Um? The saxo... saxophone? You use instruments to ask questions?,А? Сак... саксофон? Ты задаешь вопросы инструментом?
 line-158,斯卡蒂,......嗯。,Yes.,...Мгм.
@@ -144,7 +144,7 @@ line-369,老年居民,再后来他说要保护我。他答应我的——他说�
 line-370,老年居民,他要把我藏起来的吃的都骗走——咳咳，我假装答应了他，捡起了我母亲留下的银花瓶——咳咳咳咳——,"He wanted to swindle me out of all the food I'd kept—*cough* *cough*, I pretended to agree, and I took the silver vase my mother left behind—*cough* *cough* *cough* *cough*—","Он хотел обманом забрать еду, которую я припрятала — кхе-кхе, я притворилась, что согласна, и подняла серебряную вазу, оставшуюся от матери — кхе-кхе-кхе-кхе —"
 line-371,老年居民,红色的......我喜欢红色的......不，我不要......,"Red... I like red... no, I don't want...","Красное... мне нравится красное... нет, не хочу..."
 line-373,女性居民,佩特拉奶奶，佩特拉奶奶！您别说这些了，只要一说这些，您就会喘不过气。,"Grandma Petra, Grandma Petra! Just leave it, okay? You always get out of breath once you start going on about this.","Бабушка Петра, бабушка Петра! Не надо об этом, как начнёшь, сразу дыхание перехватывает."
-line-374,女性居民,今天我带人来找您，是想问别的问题。,The one I brought to see you today wanted to ask about something else.,"Я привела человека, чтобы спросить о другом."
+line-374,女性居民,今天我带人来找您，是想问别的问题。,The one I brought to see you today wanted to ask about something else.,"Я привела человека, чтобы он спросил о другом."
 line-376,老年居民,问问题？谁要问问题？,Ask? Who's asking?,Спросить? Кто хочет спросить?
 line-378,女性居民,是她，一位外面来的流浪歌手。,Her. A wandering singer from the outside.,"Это она, бродячий музыкант из внешнего мира."
 line-381,,],],]
@@ -185,8 +185,8 @@ line-468,斯卡蒂,你们还信这些。,And you believe in those.,Вы до с�
 line-470,女性居民,不然哩？在我小时候，还有佩特拉奶奶嘴里的、过去那段黑暗的日子，我们曾经犯过错。,"What else would we do? When I was very young, Grandma Petra even told me that in those dark days past, we had made mistakes.","А иначе как? Когда я была маленькой, в те мрачные дни, о которых говорит бабушка Петра, мы совершили ошибку."
 line-471,女性居民,那时候大家都只顾着自己，躲在各自家里，从来不说话。有时候挖出一个罐头，我们还会，呃，打架。,"In those times, each one of us only looked after ourselves, hiding in each home, never speaking. Sometimes a can would be dug out, and we would, um, fight over it.","Тогда каждый думал только о себе, прятался в своем доме и никто никогда не говорил. Иногда, когда находили банку консервов, мы, эх, дрались."
 line-472,女性居民,后来情况慢慢变好了。我们现在会住在一起，偶尔说话。大家开始，呃，学会分享。,"Then things gradually got better. Now we'll live together, and occasionally talk. Everyone's started to, erm—learn to share.","Потом всё постепенно наладилось. Теперь мы живем вместе, иногда разговариваем. Все стали, эх, учиться делиться."
-line-474,女性居民,——“我们想活下去，所以我们更加爱彼此。因为爱，我们紧密相连。不能抢劫，不能争斗。”,"—'We want to survive, so we must love one another even more. For love is the inseparable bond between us. We may not steal, we may not fight.'","—«Мы хотим жить, поэтому любим друг друга сильнее. Из-за любви мы связаны крепко. Нельзя грабить, нельзя воевать»."
-line-475,女性居民,“要使得自身强健，更要令族群更强健，这样才能有更好的生活。”,"'Make oneself sturdy, but our whole self sturdier still. Only this way will bring a better life.'","«Нужно быть сильными самому и делать сильнее других, только так можно жить лучше»."
+line-474,女性居民,——“我们想活下去，所以我们更加爱彼此。因为爱，我们紧密相连。不能抢劫，不能争斗。”,"—'We want to survive, so we must love one another even more. For love is the inseparable bond between us. We may not steal, we may not fight.'","—«Мы хотим жить, поэтому любим друг друга сильнее. Из-за любви мы связаны крепко. Нельзя грабить, нельзя драться»."
+line-475,女性居民,“要使得自身强健，更要令族群更强健，这样才能有更好的生活。”,"'Make oneself sturdy, but our whole self sturdier still. Only this way will bring a better life.'","«Нужно быть сильными самому и укреплять нашу общину, только так можно жить лучше»."
 line-477,斯卡蒂,这话听着耳熟。,This sounds familiar.,Звучит знакомо.
 line-479,女性居民,是吗？教士说，外面的大家也都信这些。,Really? The priest says everyone from the outside believes this too.,"Правда? Священник говорит, что все снаружи тоже в это верят."
 line-480,女性居民,忘了说，这些都是教士教给我们的！,"I forgot to say, the priest taught us this!","Забыла сказать, этому нас научил священник!"
@@ -225,7 +225,7 @@ line-563,女性居民,有什么问题的话，你也可以在那个时候去找�
 line-564,女性居民,在那一天之内，到第二天太阳升起来之前，他都会待在教堂里呢。,"On such days, until the sun rises the next morning, he'll be in the chapel waiting.",В тот день он остается в церкви до восхода солнца.
 line-566,女性居民,对哦，他还可以帮你找人！那位教士的话，知道的肯定比我们多！,"That's right, he can also help you in your search! I'm sure the priest would know much more than any of us!",Точно! Он может помочь тебе найти человека! Этот священник точно знает больше нас!
 line-568,斯卡蒂,......一段时间是多久？,How long is 'every so often?',...Сколько длится это «время»?
-line-570,女性居民,唔，最近挺久没见到他了。我不像他们，不怎么数日子。可应该就这两天吧？大家的食物都快吃光了。,"Um, I haven't seen him in the recent while. I'm not like them—I don't really count the days. But it should be the next two days? All our food is about to run bare.","Мм, давненько я его не видела. Я не как они, не считаю дни. Но, наверное, скоро? У всех почти кончилась еда."
+line-570,女性居民,唔，最近挺久没见到他了。我不像他们，不怎么数日子。可应该就这两天吧？大家的食物都快吃光了。,"Um, I haven't seen him in the recent while. I'm not like them—I don't really count the days. But it should be the next two days? All our food is about to run bare.","Мм, давненько я его не видела. Я не как они, не считаю дни. Но, наверное, в ближайшие пару дней? У всех почти кончилась еда."
 line-572,斯卡蒂,好。,Alright.,Хорошо.
 line-575,女性居民,奇怪，当你说好的时候，我老觉得你不像是真心答应。,"Strange. Whenever you say alright, I always feel like it isn't a sincere reply.","Странно, когда ты говоришь «хорошо», мне кажется, что ты не искренна."
 line-576,女性居民,这不对，教士说了，我们不该怀疑他人。哎，他们都说我总是爱想各种问题，这样对好的生活并没有帮助。,"No, that's wrong of me. The priest said, we shouldn't doubt others. Ugh, they all say I'm so fond of thinking of all these questions, and it won't help me lead a good life in any way.","Это неправильно, священник говорил, нельзя сомневаться в других. Эх, они все говорят, что я вечно всё обдумываю, а это не помогает хорошей жизни."

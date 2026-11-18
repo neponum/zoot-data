@@ -29,18 +29,18 @@ line-21,Mechanist,不过……你是怎么知道它里面是空心的？,But I'm
 line-23,塞雷娅,我和这批动力甲交手过几次。,I've sparred with this power suit a few times before.,Мне уже доводилось сталкиваться с этой партией силовых доспехов.
 line-25,Mechanist,你也被它们追杀过？,You've been hunted by them too?,И тебя они тоже пытались выследить?
 line-27,塞雷娅,算是吧。,In a sense.,Можно и так сказать.
-line-30,,它们不是塞雷娅的对手。;……;反过来还差不多……,"They're not out for Saria.;......;Could be the other way around, honestly...",Они здесь не ради Сарии.;...; Скорее даже наоборот...
-line-33,Mechanist,既然它们出现在这里，那说明有人并不希望我们追查缪尔赛思的下落。,"If they're showing up here, that goes to show someone really doesn't want us tracking Muelsyse's whereabouts.","Раз они появились здесь, значит, кто-то не хочет, чтобы мы нашли Мюльсайз."
+line-30,,它们不是塞雷娅的对手。;……;反过来还差不多……,"They're not out for Saria.;......;Could be the other way around, honestly...",Они не соперники Сарии.;...; Скорее даже наоборот...
+line-33,Mechanist,既然它们出现在这里，那说明有人并不希望我们追查缪尔赛思的下落。,"If they're showing up here, that goes to show someone really doesn't want us tracking Muelsyse's whereabouts.","Раз они появились здесь, значит, кто-то не хочет, чтобы мы нашли Мюльсис."
 line-34,Mechanist,这个人会是谁？,Who's that someone going to be?,И кто бы это мог быть?
 line-36,塞雷娅,有多种可能性。,There are many possibilities.,Вариантов много.
-line-37,塞雷娅,我与缪尔赛思联络不多，只知道她在失踪前正在参与某项由莱茵生命主导的秘密实验。,I don't contact Muelsyse much. I only know she was participating in some Rhine Lab-headed secret experiment before she disappeared.,"Я мало общалась с Мюльсайз, знаю лишь, что перед исчезновением она участвовала в неком секретном эксперименте компании."
+line-37,塞雷娅,我与缪尔赛思联络不多，只知道她在失踪前正在参与某项由莱茵生命主导的秘密实验。,I don't contact Muelsyse much. I only know she was participating in some Rhine Lab-headed secret experiment before she disappeared.,"Я мало общалась с Мюльсис, знаю лишь, что перед исчезновением она участвовала в неком секретном эксперименте компании."
 line-38,塞雷娅,考虑到我早已离开莱茵，她向我透露上述信息已经违反保密协议。,"Considering I left Rhine long ago, her divulging as much to me already violated her NDA.","Учитывая, что я давно покинула Рейн Лаб, она уже нарушила протокол, рассказав мне об этом."
 line-40,Mechanist,莱茵防卫科会出动尖端武器干掉泄密的员工吗？,Does Rhine Defense dispatch cutting-edge weapons to eliminate info-leaking employees?,"Отдел защиты Рейн Лаб использует передовое оружие, чтобы избавляться от болтливых сотрудников?"
 line-42,塞雷娅,……,......,...
 line-44,Mechanist,我知道了，这也是保密条款。,Got it. That's non-disclosure too.,Понял. Это тоже часть протокола.
-line-45,Mechanist,罗德岛真是良心企业，是吧，Dr.{@nickname}？,"Rhodes Island sure is a friendly enterprise, isn't it, Dr. {@nickname}?","Родос— по-настоящему ответственная организация, правда, Доктор?"
+line-45,Mechanist,罗德岛真是良心企业，是吧，Dr.{@nickname}？,"Rhodes Island sure is a friendly enterprise, isn't it, Dr. {@nickname}?","Родос — по-настоящему ответственная организация, правда, Доктор {@nickname}?"
 line-48,,罗德岛不仅仅是一家企业。;……;要不然也招募不到你们。,Rhodes Island isn't just an enterprise.;......;How else did we get either of you?,Родос — это не просто организация.;...;Иначе нам бы не удалось тебя нанять.
-line-51,塞雷娅,缪尔赛思不是莱茵生命的普通员工。,Muelsyse isn't an ordinary Rhine Lab employee.,Мюльсайз не рядовой сотрудник Рейн Лаб.
+line-51,塞雷娅,缪尔赛思不是莱茵生命的普通员工。,Muelsyse isn't an ordinary Rhine Lab employee.,Мюльсис не рядовой сотрудник Рейн Лаб.
 line-52,塞雷娅,能将她逼至绝境，对方的专业程度不亚于我。,"If they can drive her to the edge, their professionalism has to be on par with mine.","Раз уж им удалось загнать её в угол, то уровень профессионализма противника не уступает моему."
 line-53,塞雷娅,这种型号的动力甲大约在半年前出现在了某些雇佣兵团体中。,This model of power armor made a showing in certain mercenary groups about half a year ago.,Силовые доспехи такого типа появились в некоторых отрядах наемников около полугода назад.
 line-54,塞雷娅,它所使用的防御材料与装配武器都并不出彩，整体性能与五年前的军方量产动力甲相当。,"Neither its defensive material nor its equipped weaponry are outstanding. All in all, it's comparable to military-manufactured power armor from five years ago.",Используемые ими защитные материалы и вооружение ничем не примечательны; их характеристики идентичны армейским серийным моделям пятилетней давности.
@@ -104,7 +104,7 @@ line-248,埃琳娜,一旦被撞到的话后果不堪设想——我们是不是�
 line-250,桑尼,最好不要这么做。,Better we don't.,Лучше этого не делать.
 line-252,埃琳娜,为什么？,Why?,Почему?
 line-271,赫默,那是……我们待的那间屋子……,That's... the building we were in...,"Это же... то строение, в котором мы были..."
-line-274,,在看不见的巨大力量的冲击下，拓荒者的小屋剧烈地摇晃着，并不算太牢靠的门窗纷纷开裂。,"Under an invisible, massively powerful attack, the Pioneers' hut violently sways, the flimsy windows and doors shattering in quick succession.","Под воздействием невидимой колоссальной силы хижина первопроходцев затряслась, а его не самые прочные двери и окна пошли трещинами."
+line-274,,在看不见的巨大力量的冲击下，拓荒者的小屋剧烈地摇晃着，并不算太牢靠的门窗纷纷开裂。,"Under an invisible, massively powerful attack, the Pioneers' hut violently sways, the flimsy windows and doors shattering in quick succession.","Под воздействием невидимой колоссальной силы хижина первопроходцев затряслась, а её не самые прочные двери и окна пошли трещинами."
 line-275,,几乎在同一时间，原本盘旋在半空的奇特物体都涌向了那间屋子。,"At practically the same time, the peculiar objects that were hanging in the air before fly straight at the room.",Почти в то же мгновение все парившие в воздухе причудливые объекты устремились к этому домику.
 line-276,,银色的液体飞快地渗进门窗的裂痕中，就如同闻到血腥味的微小生物前赴后继地钻进猎物的伤口里。,"Silver liquid oozes through the cracks in every frame at lightning speed, just as a minute creature would smell blood and dig fearlessly into its prey's wounds.","Серебристая жидкость стремительно просочилась в щели, словно мелкие существа, почуявшие запах крови и проникающие в рану своей жертвы."
 line-277,,而下一瞬间，令在场的科学家们都无法理解的事情发生了。,"But in the next instant, something that defies all comprehension, including the scientists', decides to take place.","А в следующее мгновение произошло то, что ученые не смогли осознать."
@@ -132,7 +132,7 @@ line-334,拓荒队成员,领、领队……我把……摩尔医生……带出�
 line-336,白面鸮,……,......,...
 line-338,埃琳娜,乔伊丝！,Joyce!,Джойс!
 line-340,拓荒队成员,还、还好……她没事……,Th—Thank God... she's okay...,В-всё в порядке... она цела...
-line-348,赫默,……他的伤势不算重，但是体力接近透支，急需休息。,"His wounds aren't severe, but his endurance has been overtaxed. He urgently needs rest.","...Ранения не тяжелые, но она истощена и нуждается в отдыхе."
+line-348,赫默,……他的伤势不算重，但是体力接近透支，急需休息。,"His wounds aren't severe, but his endurance has been overtaxed. He urgently needs rest.","...Ранения не тяжёлые, но он истощён и нуждается в отдыхе."
 line-350,桑尼,我们不能留在这个地方。整个拓荒者居住区都不再安全。,We can't hang around this place. None of the Pioneer quarters are safe anymore.,Нам нельзя оставаться здесь. Весь жилой сектор первопроходцев небезопасен.
 line-363,玛丽,你都看到了吗？,Did you see that?,Ты всё видел?
 line-365,莱茵防卫科成员,我不知道您指的是什么。,I don't know what you're referring to.,"Я не знаю, о чем вы."
