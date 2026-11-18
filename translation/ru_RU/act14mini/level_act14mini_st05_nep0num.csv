@@ -20,7 +20,7 @@ char-12,老族长,老族长,Clan Elder,Старый глава клана
 line-10,着急的小孩,怎么样怎么样？,How'd it go?,"Ну что, как там?"
 line-11,霸道的小孩,拿到了......,I got it...,Взял...
 line-12,着急的小孩,没被族长发现吧？,"The Elder didn't see you, did he?",Старейшина не заметил?
-line-13,霸道的小孩,族长不在家。好像是去移山庙给先祖换贡品了......,He wasn't home. I think he went to the Yishan Temple to make an offering to the ancestors.,"Старейшины нет дома. Кажется, он ушел в Храм Горной Переправы, чтобы принести подношения предкам..."
+line-13,霸道的小孩,族长不在家。好像是去移山庙给先祖换贡品了......,He wasn't home. I think he went to the Yishan Temple to make an offering to the ancestors.,"Старейшины нет дома. Кажется, он ушел в Храм Перемещения Гор, чтобы принести подношения предкам..."
 line-14,着急的小孩,那就好，不然又得挨骂了......快拿出来快拿出来。,"That's good. I don't wanna get chewed out again... Anyway, hurry up, let's take a look!","Ну и хорошо, а то снова бы отругал... Скорее, доставай, скорее!"
 line-19,着急的小孩,这些按钮是干嘛用的，这个圆圆的，像是嵌着一个手电筒......它真的是信使姐姐说的那个摄......什么机吗？,What are all these buttons for? This round thing here... looks like a flashlight stuck inside... Is this really the camder-thingamajig lady Messenger was talking about?,"А зачем нужны эти кнопки? Эта круглая, похожа на встроенный фонарик... Это правда тот самый фо... как там его... аппарат, о котором говорила сестренка-посланница?"
 line-20,霸道的小孩,“摄像机”。,'Camcorder.',«Видеокамера».
@@ -97,7 +97,7 @@ line-228,方小石,我今天一定要下山。,"I'm telling you, I'm going down 
 line-229,方小石,就算你们今天堵住了我的嘴，拿到了那笔钱，小爷日后也一定要揭发你们。,"Even if you somehow manage to keep my mouth shut and get your cash, I will expose you sooner or later.","Даже если вы заткнете мне рот и получите эти деньги, я, господин Сяоши, всё равно разоблачу вас."
 line-231,方小石,小爷“死”了，也会“活”过来！你们有本事现在就把我从这里推下去！,"Even if I 'die,' I'm going to 'live' on! Or, if you think you've got what it takes, kill me right here!","Я «умру», но «оживу»! Если смелые, сбросьте меня отсюда прямо сейчас!"
 line-236,着急的村民,我算是看明白了。方小石，你就是个喂养不熟的野兽崽子。,"I see, I get it now, Fang Xiaoshi. You're just a wild beast cub that we haven't domesticated.","Теперь я понял. Фан Сяоши, ты просто неблагодарный звереныш."
-line-241,着急的村民,三年前你炸了移山庙，断了村子的气脉；三年后，你还要接着把全村人往死路上逼呀！,"Three years ago, you blew up the Yishan Temple and cut off the lifeblood of our village; three years later, you're going to drive every last one of us to our deaths!","Три года назад ты взорвал Храм Горной Переправы, разрушив поток ци деревни; три года спустя ты снова хочешь припереть всех к стенке!"
+line-241,着急的村民,三年前你炸了移山庙，断了村子的气脉；三年后，你还要接着把全村人往死路上逼呀！,"Three years ago, you blew up the Yishan Temple and cut off the lifeblood of our village; three years later, you're going to drive every last one of us to our deaths!","Три года назад ты взорвал Храм Перемещения Гор, разрушив поток ци деревни; три года спустя ты снова хочешь припереть всех к стенке!"
 line-243,方小石,你们想干什么......？,What are you doing...?,Что вы хотите сделать...?
 line-248,着急的村民,......,......,...
 line-251,？？？,住手！,Stop!,Стоять!
@@ -105,7 +105,7 @@ line-263,紧张的村民&着急的村民,呃——,Huh?,Угх —
 line-278,方小石,女侠姐姐，你，没有走？！,Master? You're still here?!,"Сестренка-воительница, ты, ты не ушла?!"
 line-293,桑葚,嵯峨师父，我实在不理解......,"Shifu Saga, I don't understand...","Наставница Сага, я правда не понимаю..."
 line-294,桑葚,那位族长看起来也不像是坏人，到底为什么......,"That Elder didn't seem like a bad man, so why...?","Тот старейшина не похож на плохого человека, почему же..."
-line-296,嵯峨,小僧适才想起了云游时听过的一个故事。桑葚施主要不要听？,"I am reminded of a story I heard on my travels. Wouldst thou have me recount it, good Mulberry?","Я только что вспомнила одну историю, которую слышала во время странствий. Хотите послушать, благодетельница Сан Жэнь?"
+line-296,嵯峨,小僧适才想起了云游时听过的一个故事。桑葚施主要不要听？,"I am reminded of a story I heard on my travels. Wouldst thou have me recount it, good Mulberry?","Я только что вспомнила одну историю, которую слышала во время странствий. Хотите послушать, благодетельница Малберри?"
 line-298,桑葚,......嗯。,Yes.,...Хорошо.
 line-300,嵯峨,说是有一名捕快，一生兢兢业业，尽忠职守，虽然清贫，倒也自在安稳。,"There once was a bukuai, a lawman, who worked hard all his life and devoted himself to his duties. Though he was poor, he eked out a stable, comfortable life.","Говорят, был один стражник, всю жизнь усердно служил, был честным и неподкупным, жил бедно, но спокойно."
 line-301,嵯峨,有一次，他奉命在山中捉拿一伙盗匪。当他看到囤积了满满一山洞的财宝时，难以抑制地起了歹念。,"Once, he was ordered to capture a group of bandits in the mountains. When he did see their cave full of hoarded treasure, he could not restrain the evil thoughts that arose within him.","Однажды ему приказали поймать банду разбойников в горах. Увидев пещеру, полную сокровищ, он не смог подавить в себе жадность."
@@ -124,7 +124,7 @@ line-322,嵯峨,住持爷爷讲过，“恶念”是关在人心里的猛兽，�
 line-324,嵯峨,毕竟放出笼的猛兽，想要将它关回去，可是不容易哟。,"After all, it is difficult to contain a wild beast, once it is freed from its cage.","Ведь если выпустишь зверя из клетки, запереть его обратно будет ох как непросто."
 line-329,,云游僧弓下腰，捻起一撮沾着火药灰的泥土。,The drifting monk bends down and rubs a pinch of gunpowder-stained clay between her fingers.,"Странствующая монахиня склонилась и подняла щепотку земли, испачканную в пороховой гари."
 line-332,嵯峨,人们常说，这天气的阴晴变化就如人心一样难以捉摸。,They say the weather is as unpredictable as the human heart.,"Люди часто говорят, что погода меняется так же непредсказуемо, как человеческое сердце."
-line-334,嵯峨,风雨时令顺逆无常，该如何应对才能不让它祸及人间，只能交给桑葚施主这样的专业人士来判断。小僧也只能带这一段路啦。,"The winds and rains are unpredictable indeed, and managing them to avert calamity is best left to experts such as thyself. All I can offer is to join thee on one leg of thy journey.","А уж как с этим справляться, чтобы беда не обрушилась на людей, решать таким профессионалам, как вы, благодетельница Сан Жэнь. А я лишь немного пройдусь этим путем."
+line-334,嵯峨,风雨时令顺逆无常，该如何应对才能不让它祸及人间，只能交给桑葚施主这样的专业人士来判断。小僧也只能带这一段路啦。,"The winds and rains are unpredictable indeed, and managing them to avert calamity is best left to experts such as thyself. All I can offer is to join thee on one leg of thy journey.","А уж как с этим справляться, чтобы беда не обрушилась на людей, решать таким профессионалам, как вы, благодетельница Малберри. А я лишь немного пройдусь этим путем."
 line-335,嵯峨,小僧该下山了。,I ought to go down the mountain.,Пора мне спускаться с горы.
 line-350,仇白,......,......,...
 line-352,方小石,......,......,...
@@ -172,7 +172,7 @@ line-473,老族长,我真的没有想到，怎么就迷了心窍，同意了冒�
 line-474,老族长,我真的没有想到，深更半夜，那么大的暴雨，会有一个少年那么巧经过驰道边......,"I never thought that in the middle of the night, during such a heavy rainstorm, a boy would chance upon the Chidao...","Я правда не ожидал, что глубокой ночью в такой ливень подросток так удачно окажется у служебной дороги..."
 line-476,老族长,我只是想着......驰道要是毁掉这么一截，维修工程就能再拖个一年半载，哪怕三两个月也好......,"All I could think was... if this part of the Chidao was destroyed, that would've kept the maintenance work going for another half a year or so... Even two or three months would've been enough...","Я лишь думал... если этот участок дороги разрушится, ремонт затянется на год или полтора, ну или хотя бы на пару-тройку месяцев..."
 line-477,老族长,一开工，大家伙儿就能再多一笔工钱的收入，现在年成这么差，总比干等着老天爷开眼要强啊。,"Once the work started, we'd all have an extra bit of income. Things have been so rough the last few years; it'd at least be better than sitting around waiting for Heaven to do something.","Как только начнутся работы, каждый получит прибавку к заработку, сейчас времена такие трудные, всё лучше, чем ждать милости небес."
-line-478,老族长,以前，移山庙还在村子正中央，如今位置都到了村口。您从大山怀里为后人挖出来的容身之地，这几十年，又被大山一点点吃了回去。,"The Yishan Temple used to be the heart of the village, but now it's at the entrance. The place you dug out from the mountains for future generations has slowly been reclaimed, devoured over the last few decades.","Раньше Храм Горной Переправы стоял в центре деревни, теперь же он у входа. Земля, которую вы отвоевали у гор для своих потомков, за эти десятилетия была по кусочкам отвоевана горой обратно."
+line-478,老族长,以前，移山庙还在村子正中央，如今位置都到了村口。您从大山怀里为后人挖出来的容身之地，这几十年，又被大山一点点吃了回去。,"The Yishan Temple used to be the heart of the village, but now it's at the entrance. The place you dug out from the mountains for future generations has slowly been reclaimed, devoured over the last few decades.","Раньше Храм Перемещения Гор стоял в центре деревни, теперь же он у входа. Земля, которую вы отвоевали у гор для своих потомков, за эти десятилетия была по кусочкам отвоевана горой обратно."
 line-480,老族长,还指着这山，这地，我们就快连您这间庙也守不住了。,"If we keep pushing our luck on this mountain, on this land... Soon we won't even have this temple.","Надеясь на эту гору и землю, мы скоро не сможем даже ваш храм защитить."
 line-481,老族长,所以我才......,"So that's why, I...",Поэтому я...
 line-482,老族长,所以我才偷偷埋了那些炸药，想着借入春的暴雨，做那么一场事故......,"That's why I buried those explosives, to take advantage of the torrential spring rains to cause an 'accident'...","Поэтому я тайно заложил взрывчатку, надеясь с помощью весеннего ливня устроить такой вот несчастный случай..."
@@ -185,7 +185,7 @@ line-512,猎户,孩子，再等等......,"Just hold on there, my boy.","Сыно
 line-514,方小石,爹，他们刚刚差点把我从这山崖上推下去！,"They almost pushed me off a cliff, Dad!","Пап, они только что чуть не сбросили меня с этого обрыва!"
 line-515,方小石,他们不是什么好人，他们什么事情都做得出来！,These aren't good people! There's no telling how low they'll stoop!,"Они никакие не хорошие, они на всё способны!"
 line-517,猎户,......谁也没有想到，官府的调查员提前了一天过来。,Nobody knew the mandarins would come a day early.,"...никто не ожидал, что следователь от чиновников придёт на день раньше."
-line-518,猎户,事发突然，大家乱了方寸......做事难免就......,"Things happened too quickly, and everyone was in a panic... Some things were unavoidable...","Всё случилось внезапно, все растерялись... делая то, что вряд ли..."
+line-518,猎户,事发突然，大家乱了方寸......做事难免就......,"Things happened too quickly, and everyone was in a panic... Some things were unavoidable...","Всё случилось внезапно, все растерялись... и в панике не выбирают средств."
 line-520,方小石,......,......,...
 line-522,猎户,爹知道、爹知道刚刚乡亲们确实太过火了一些。等过几天，爹一定让族长给你一个交代。,"I know... I know everybody went a little overboard. But I promise, I'll have the Elder explain things.","Отец знает, отец знает, что сельчане сейчас поступили слишком жёстко. Через несколько дней отец заставит старейшину дать тебе ответ."
 line-524,猎户,但这会儿不能下山......,"Still, you can't go down there now.",Но сейчас с горы нельзя...
@@ -194,7 +194,7 @@ line-528,猎户,不是爹要帮着他们......,I'm not trying to cover for anybo
 line-532,仇白,我记得我问过你。,I remember asking you this.,"Я помню, что задавала тебе вопрос."
 line-546,仇白,但是留在村子里，就能保全平安吗？,Will staying in the village really guarantee safety and peace?,"Но будет ли в безопасности тот, кто останется в деревне?"
 line-548,猎户,乡亲们不会把小石怎么样的......,The villagers wouldn't do anything to Xiaoshi.,Сельчане не тронут Сяоши...
-line-549,猎户,昨天，在移山庙里，当着他们先祖的面，族长、全村人都向我保证过......,"Yesterday, they swore before their ancestors at the Yishan Temple, the Clan Elder and all of them promised me...","Вчера в Храме Горной Переправы, перед лицом предков, старейшина и все жители дали мне слово..."
+line-549,猎户,昨天，在移山庙里，当着他们先祖的面，族长、全村人都向我保证过......,"Yesterday, they swore before their ancestors at the Yishan Temple, the Clan Elder and all of them promised me...","Вчера в Храме Перемещения Гор, перед лицом предков, старейшина и все жители дали мне слово..."
 line-551,仇白,就凭一句口头承诺？,You'll take their word for it?,И всё это лишь пустые обещания?
 line-553,猎户,......,......,...
 line-555,仇白,你应该也清楚，以方小石的性子，他不可能答应这件事，他会像当年护着你们那块地一样护着自己的名字。,"I'm sure you know Fang Xiaoshi's temperament. He won't go along with them. He'll insist on keeping his name, just as he did with your land those years ago.","Ты ведь должен понимать, что с характером Фан Сяоши он не согласится на это, он будет защищать свое имя так же, как когда-то защищал вашу землю."
@@ -258,10 +258,10 @@ line-684,嵯峨,唉，族长施主，小僧方才已经说过了，小僧只是�
 line-685,嵯峨,再说，谁的心里，没有恶念呢？,"Besides, is there a man whose heart truly harbors no evil?","К тому же, у кого в сердце нет злых мыслей?"
 line-687,老族长,修行之人，不应该渡恶劝善吗？小师父身为僧侣，心里如果有恶念，难道不会坏了修行？,Shouldn't a monk shun evil and uphold virtue? Wouldn't it ruin your practice to harbor evil in your heart?,"Разве практикующий не должен избавлять от зла и поощрять добро? Если у монаха в сердце есть зло, разве это не повредит его практике?"
 line-689,嵯峨,施主为何觉得，心有恶念，便会坏了修行呢？,Dost thou believe that having such thoughts ruins one's practice?,"Почему вы считаете, что злые мысли вредят практике?"
-line-694,,离开夕先生的画卷之前，小僧有缘见过身为赌徒的自己。,"Before leaving Dusk's scroll, I happened upon a version of myself that had become a gambler.","До того, как покинуть свиток госпожи Си, я имела возможность увидеть себя в роли игрока."
-line-695,,那个小僧无论如何都摆脱不了骰子与筹码的诱惑，典当了木鱼，变卖了身家，放浪形骸，呼朋引伴，做了许许多多伤天害理的勾当。,"That me could not resist the temptation of dice and chips, pawning her ceremonial mokugyo, selling her possessions, giving in to unrestrained debauchery, getting friends and companions involved, and carrying out all sorts of unconscionable acts.","Тот монах не мог устоять перед искушением игральных костей и фишек, закладывал молитвенный барабан, продавал имущество, вел разгульную жизнь, водился с дурными людьми, совершая множество постыдных дел."
-line-696,,当年离开寺庙之前，住持爷爷叫住小僧，一人一棍，好生打了一场。,"Before she left the temple, the head priest called out for her to stop, and they each took a stick in hand and enjoyed a most excellent duel.","Перед уходом из храма настоящий дедушка остановил меня, и мы устроили славный бой палками."
-line-697,,从斜月初升，到日出东方，小僧也不懂为何住持爷爷一招一式都在苦苦相逼，似乎不为切磋比试，而是性命相搏。,"From the beginning of the crescent moon's ascent to the dawning of the sun in the east, the monk never understood why the head priest struggled with each move, as if fighting for survival rather than sport.","С рассвета до заката я не понимала, почему он давит на меня каждым движением, будто не для тренировки, а насмерть."
+line-694,,离开夕先生的画卷之前，小僧有缘见过身为赌徒的自己。,"Before leaving Dusk's scroll, I happened upon a version of myself that had become a gambler.","До того, как покинуть свиток госпожи Даск, я имела возможность увидеть себя в роли игрока."
+line-695,,那个小僧无论如何都摆脱不了骰子与筹码的诱惑，典当了木鱼，变卖了身家，放浪形骸，呼朋引伴，做了许许多多伤天害理的勾当。,"That me could not resist the temptation of dice and chips, pawning her ceremonial mokugyo, selling her possessions, giving in to unrestrained debauchery, getting friends and companions involved, and carrying out all sorts of unconscionable acts.","Та монахиня не могла устоять перед искушением игральных костей и фишек, закладывала мокугё, продавала имущество, вела разгульную жизнь, водилась с дурными людьми, совершая множество постыдных дел."
+line-696,,当年离开寺庙之前，住持爷爷叫住小僧，一人一棍，好生打了一场。,"Before she left the temple, the head priest called out for her to stop, and they each took a stick in hand and enjoyed a most excellent duel.","Перед уходом из храма дедушка-настоятель остановил меня, и мы устроили славный бой палками."
+line-697,,从斜月初升，到日出东方，小僧也不懂为何住持爷爷一招一式都在苦苦相逼，似乎不为切磋比试，而是性命相搏。,"From the beginning of the crescent moon's ascent to the dawning of the sun in the east, the monk never understood why the head priest struggled with each move, as if fighting for survival rather than sport.","От восхода молодого месяца до рассвета я не понимала, почему он давит на меня каждым движением, будто не для тренировки, а насмерть."
 line-698,,小僧已然忘了那一场比试的结果......,She had already forgotten the result of that duel.,Я уже забыла результат той битвы...
 line-699,,只是偶尔会有些恍惚，最后小僧的长棍悬停在住持爷爷的头顶，那一瞬间小僧是否突如其来动了敲下去的念头呢？,"Only occasionally, in a trance, would she remember her stick hovering above the priest's head. In that moment, did she think to complete the downward strike?","Лишь изредка меня охватывает забытье: в тот миг, когда мой посох завис над головой дедушки, возникла ли у меня внезапная мысль ударить?"
 line-704,嵯峨,许多恶念，都在意料之外，但又是如此顺理成章。,"To harbor evil thoughts is hardly unexpected. Logical, even.","Многие злые мысли возникают неожиданно, но кажутся такими закономерными."
@@ -347,7 +347,7 @@ line-867,方小石,......,......,...
 line-871,仇白,......,......,...
 line-874,,猎户低下了头，少年看起来像是冷静了下来，还想再说什么，但终究没有再开口。,"The hunter lowers his head. The boy seems to calm down somewhat, and though he still has more to say, he does not open his mouth again.","Охотник опустил голову, юноша, казалось, остыл, хотел что-то сказать, но смолчал."
 line-875,,细沙扑在人的脸上，春天的荒山上，风还是这般干燥。,"Fine sand splashes across the people's faces. In these desolate mountains, the wind is ever dry, even during spring.","Песок летел в лицо, на весенней бесплодной горе ветер был таким же сухим."
-line-876,,没有人说话。剑客悄悄向着崖边挪动了几步。,Nobody says a word. The swordswoman quietly moves a few steps closer to the edge of the cliff.,Никто не говорил. Мечник тихо подошел к краю обрыва.
+line-876,,没有人说话。剑客悄悄向着崖边挪动了几步。,Nobody says a word. The swordswoman quietly moves a few steps closer to the edge of the cliff.,Никто не говорил. Мечница тихо подошла к краю обрыва.
 line-880,方小石,爹，你抬头看我。,"Dad, lift your head and look at me.","Пап, посмотри мне в глаза."
 line-882,猎户,（摇头）,(Shakes his head),(Качает головой)
 line-884,方小石,爹，是不是只要方小石死成了，对所有人都好？,"Dad, is it better for everyone if Fang Xiaoshi dies?","Пап, если Фан Сяоши действительно умрёт, всем будет лучше?"
@@ -356,7 +356,7 @@ line-887,猎户,“方小石”，不应该活着。,'Fang Xiaoshi' should be no
 line-898,,小时候他经常将一颗又一颗的小石头从山崖上踢下去，耐心听远远传来的声响。,"When he was little, he used to kick pebbles off the cliff one after another, patiently waiting for the sound to come from afar.","В детстве он часто пинал камешек за камешком с этого обрыва, терпеливо слушая отголоски где-то внизу."
 line-899,,他和他的名字，都像那些石头。,"He, and his name, are just like those small stones.",Он и его имя были как те камни.
 line-900,,他现在，真的让自己成为了那样的石头。,"And now, he has become one with those stones.",Теперь он действительно стал таким камнем.
-line-901,,坠崖的速度似乎也没那么快。他甚至想起了和仇白在树林间遇到的那只牙兽，想起了那头畜生临死的眼神。,"The speed with which he plummets from the cliff is not so fast. He even has time to think of the tuskbeast he and Qiubai saw in the woods, remembering the look in its dying eyes.","Скорость падения казалась не такой уж быстрой. Он даже вспомнил того зверя, которого встретил в лесу с Цю Бай, и его предсмертный взгляд."
+line-901,,坠崖的速度似乎也没那么快。他甚至想起了和仇白在树林间遇到的那只牙兽，想起了那头畜生临死的眼神。,"The speed with which he plummets from the cliff is not so fast. He even has time to think of the tuskbeast he and Qiubai saw in the woods, remembering the look in its dying eyes.","Скорость падения казалась не такой уж быстрой. Он даже вспомнил того зверя, которого встретил в лесу с Цюбай, и его предсмертный взгляд."
 line-902,,那是怎样的不甘心，怎样的惊恐，又是怎样的......解脱？,"Was it one of unwillingness, panic, or... relief?",Что это было? Негодование? Ужас? Или... освобождение?
 line-906,,是风吗？,Is it the wind?,Ветер?
 line-907,,风托住了他的背。,The wind supports his back.,Ветер подхватил его в спину.

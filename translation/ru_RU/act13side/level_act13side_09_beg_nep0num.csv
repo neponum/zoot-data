@@ -32,7 +32,7 @@ line-10,砾,......好消息，博士。,"Good news, Doctor.","...Хорошие 
 line-11,砾,监正会同意罗德岛各位的外出申请了，“让重要的合作伙伴游览城市也是必要的”。,The Adeptus Sprawiedliwi has approved Rhodes Island's applications. 'It's necessary for our valued partners to visit the city.',"Комиссия по делам рыцарства одобрила заявку на выход для всех сотрудников «Родос», ведь «позволить важным партнерам осмотреть город — это вполне обоснованная необходимость»."
 line-12,砾,本来，如果没有这一系列事件发生的话，您可以在大骑士领更自由一些的。,"If none of these things happened in the first place, you would've been able to enjoy the Grand Knight Territory more freely.","Честно говоря, если бы не вся эта череда событий, вы могли бы чувствовать себя в Большом Рыцарском Городе гораздо свободнее."
 line-21,阿米娅,博士？您找我们吗？,"Doctor, were you looking for me?",Доктор? Вы нас искали?
-line-23,芙蓉,啊！骑士姐姐！正好我还有剩下的健康餐，你打包带回家吗？,"Oh, Gravel! I still have some healthy food leftovers. Want to take them with you?","А! Рыцарь-сан! Как раз кстати, у меня тут осталось немного полезной еды. Возьмёшь с собой?"
+line-23,芙蓉,啊！骑士姐姐！正好我还有剩下的健康餐，你打包带回家吗？,"Oh, Gravel! I still have some healthy food leftovers. Want to take them with you?","А! Сестрица-рыцарь! Как раз кстати, у меня тут осталось немного полезной еды. Возьмёшь с собой?"
 line-25,砾,......,......,...
 line-27,夜莺,......您好，砾小姐，博士。,"Good day, Gravel, Doctor.","...Здравствуйте, мисс Гравель, Доктор."
 line-29,,难得有机会去卡西米尔的其他地方参观。;想不想出去逛逛？;休——假——时——间——,We rarely get a chance to visit the other parts of Kazimierz.;Want to take a look around?;It's–– vacation–– time––!,Редкая возможность посетить другие уголки Казимежа.;Хотите прогуляться?;Вр-е-м-я о-т-д-ы-х-а
@@ -76,7 +76,7 @@ line-167,芙蓉,啊！好可爱！,Aww! It's so cute!,А! Какая милая!
 line-169,阿米娅,......等等，这家店，难道全是......,"Wait a minute, this shop... Is it all dedicated to...","...Подождите, этот магазин, неужели он весь..."
 line-174,店主,哟，几位客人，是耀骑士的粉丝？,Yo! Are you folks fans of the Radiant Knight too?,"Эй, гости, фанаты Сияющего Рыцаря?"
 line-175,店主,那你可来对地方啦，这里是耀骑士周边专卖！黏土小人、毛绒玩偶、临光家族徽章应有尽有！,"Then, you've come to the right place! This is a specialty store for everything Radiant Knight! Clay figurines, plush dolls, Nearl family crests – you name it, we've got it!","Тогда вы по адресу! Это специализированный магазин мерча Ниарл: глиняные фигурки, плюшевые игрушки, гербы семьи Ниарл — здесь есть всё!"
-line-176,店主,顺便一提，如果耀骑士能打败风骑士再度进入决赛，供货商还考虑制作精炼源石雕刻纪念品！现在可以先付定金哦？,"By the way, if the Radiant Knight manages to defeat the Wind Knight and advance to the finals, our supplier is considering making exclusive commemorative medals from refined Originium! Want to put in a pre-order?","К слову, если Сияющий Рыцарь победит Рыцаря Ветров и снова выйдет в финал, поставщики планируют выпустить сувениры из очищенного ориджиниума! Сейчас можно внести залог?"
+line-176,店主,顺便一提，如果耀骑士能打败风骑士再度进入决赛，供货商还考虑制作精炼源石雕刻纪念品！现在可以先付定金哦？,"By the way, if the Radiant Knight manages to defeat the Wind Knight and advance to the finals, our supplier is considering making exclusive commemorative medals from refined Originium! Want to put in a pre-order?","К слову, если Сияющий Рыцарь победит Рыцаря Ветра и снова выйдет в финал, поставщики планируют выпустить сувениры из очищенного ориджиниума! Сейчас можно внести залог?"
 line-177,店主,反正耀骑士一定会赢嘛！哈哈哈！,"I mean, the Radiant Knight's pretty much sure to win! Hahaha!",В любом случае Сияющий Рыцарь точно победит! Ха-ха!
 line-179,,(替夜莺买一个玩偶。);(询问定金是多少。);(反问对方耀骑士用过的盾牌能不能当做镇店之宝。),(Buy the doll for Nightingale.);(Ask how much the pre-order is.);(Rhetorically ask if the store would consider a shield used by the Radiant Knight its greatest treasure.),"(Купить игрушку для Найтингейл.);(Спросить размер залога.);(Спросить, нельзя ли сделать щит, который использовал Сияющий Рыцарь, главной реликвией магазина.)"
 line-182,店主,谢谢惠顾！,Thanks for your patronage!,Спасибо за покупку!
@@ -123,7 +123,7 @@ line-296,,一匹梦魇伫立在赛场上。,A Nightzmora stands in the arena.,К
 line-297,,四肢放松，破绽百出，头盔下的视线不知扫视着何处。,His limbs are at ease. His flaws are exposed. He knows not where to cast his gaze from beneath that helmet.,"Расслабленные конечности, полон уязвимостей, взгляд под шлемом блуждает неизвестно где."
 line-298,,他哼着一首古老的歌谣。,He hums an ancient ballad.,Он напевал старую песню.
 line-299,,直到黑夜将他的视野涂抹♪直到骨塔矗立在心头♪,Until the black night paints over his vision ♪ Until a tower of bone stands erect in his heart ♪,Пока чёрная ночь не закрасит обзор♪ Пока башня из костей не вырастет в сердце♪
-line-300,,直到毒参扼住朦胧的故土♪,Until hemlock chokes his hazy home ♪,Пока болиголов не сдаст родную землю♪
+line-300,,直到毒参扼住朦胧的故土♪,Until hemlock chokes his hazy home ♪,Пока болиголов не задушит родную землю♪
 line-303,血骑士,......,......,...
 line-304,逐魇骑士,......,......,...
 line-305,血骑士,祷告结束了？,Done saying your prayers?,Молитва окончена?
@@ -144,7 +144,7 @@ line-352,莫妮克,......赦罪师，耀骑士，还有那个给人感觉很古�
 line-353,莫妮克,罗德岛到底是什么？,What the hell is Rhodes Island supposed to be anyway?,Что такое «Родос»?
 line-355,闪灵,之前一直没有机会问问你们......你们......,"I never had a chance to ask you before, but... You people...",У меня не было возможности спросить вас раньше... вы...
 line-356,闪灵,从哪里听到“赦罪师”这个名字的？,Where did you hear the name 'Confessarius'?,Откуда вы слышали имя «Исповедник»?
-line-358,,莫妮克不是没有见过面前的萨卡兹出手。,Monique has seen the skills of the Sarkaz before her.,"Моника видела, как этот саркас сражался."
+line-358,,莫妮克不是没有见过面前的萨卡兹出手。,Monique has seen the skills of the Sarkaz before her.,"Моник видела, как этот саркас сражался."
 line-359,,出色的剑术，夹杂着一些无法理解的源石技艺，也许是巫术，和耀骑士一起挡住了玄铁一箭。,"Excellent swordsmanship. Complex, seemingly incomprehensible Originium Arts - perhaps witchcraft. Along with the Radiant Knight, she was able to block a Darksteel arrow.","Выдающееся фехтование, смешанное с непостижимым искусством ориджиниума, возможно, колдовство, вместе с Сияющим Рыцарем она заблокировала стрелу «Чёрного железа»."
 line-360,,她心底里其实想过，也许那时候的“出手阻拦”还不是这个萨卡兹的全部面貌。,"She had a suspicion at the time, that perhaps... 'blocking arrows' was not the full extent of the Sarkaz's abilities.","В глубине души она думала, что то «вмешательство» было лишь частью силы этого саркаса."
 line-361,,但是现在，她确信了一件事。,"But now, she is convinced of one thing.",Но сейчас она убедилась в одном.
@@ -194,7 +194,7 @@ line-451,血骑士,不必羞耻，缺乏实战经验本来就是你的弱点。,
 line-452,血骑士,你离所谓的“怯薛”，似乎还差得很远。,You are still a far cry from the so-called 'Kheshig.',"Ты все ещё очень далек от того, что называют «кешиком»."
 line-479,莫妮克,......你和耀骑士挡下玄铁一箭的画面，确实让人印象深刻，哪怕是银枪的天马也不可能轻易挡下玄铁的惩罚。,The sight of you and the Radiant Knight blocking Darksteel's arrow made a deep impression. Even a Silverlance Pegasus would have trouble withstanding Darksteel's punishment.,"...То, как вы с Сияющим Рыцарем заблокировали стрелу «Чёрного железа», произвело впечатление; даже «Серебряный Пегас» не смог бы легко выдержать наказание «Чёрного железа»."
 line-480,莫妮克,情报人员和我说，你们和耀骑士自称“使徒”，是一个治疗感染者的组织。,"My sources tell me you and the Radiant Knight call yourselves the 'Followers,' an organization that treats the Infected.","Мои информаторы сказали мне, что вы называете себя и Сияющего Рыцаря «Апостолами», организацией, лечащей инфицированных."
-line-482,莫妮克,“医师”，呵，看来，我该把这个情报人员丢进钳兽笼。,"A 'physician,' huh? Looks like I need to toss that informant of mine into the gloompincer cage.","«Врачи», ха, похоже, мне стоит отправить этого информатора в клетку к щипцам."
+line-482,莫妮克,“医师”，呵，看来，我该把这个情报人员丢进钳兽笼。,"A 'physician,' huh? Looks like I need to toss that informant of mine into the gloompincer cage.","«Врачи», ха, похоже, мне стоит отправить этого информатора в клетку к клешнезверю."
 line-484,闪灵,......很遗憾，我并不喜欢战斗。,"Unfortunately, I'm not fond of fighting.","...К сожалению, я не люблю сражаться."
 line-486,莫妮克,......是吗。,Is that so?,...Так значит?
 line-487,莫妮克,我以前是个维多利亚的军人。,I used to be in the Victorian army.,Я была солдатом Виктории.
@@ -204,7 +204,7 @@ line-491,闪灵,......,......,...
 line-493,莫妮克,所以，我对自己的射术还是很自信的。,"So, I'm quite confident in my aim.",Поэтому я все ещё очень уверена в своей стрельбе.
 line-494,莫妮克,这个距离，正面接下我三箭，我就放弃对罗德岛的计划，怎么样？,"From this distance, take three of my arrows head on, and I'll drop my plans for Rhodes Island. Deal?","На этом расстоянии, если примешь прямо три мои стрелы, я откажусь от плана против «Родоса», как тебе?"
 line-496,闪灵,我如何相信你？,Why should I trust you?,Как я могу тебе верить?
-line-498,莫妮克,......信不信由你，无胄盟有无数种办法对付罗德岛。,Whether or not you do is up to you. The Armorless Union has no shortage of ways to deal with Rhodes Island.,"...Верь или нет, у «Безликого Альянса» есть миллионы способов расправиться с «Родосом»."
+line-498,莫妮克,......信不信由你，无胄盟有无数种办法对付罗德岛。,Whether or not you do is up to you. The Armorless Union has no shortage of ways to deal with Rhodes Island.,"...Верь или нет, у Бесправных есть миллионы способов расправиться с «Родосом»."
 line-499,莫妮克,比如在他们现在毫无戒心拿在手上的玩偶，涂抹上一些有挥发性的药物......,"For example, we could've applied some volatile chemicals to those dolls that they're clutching so unsuspectingly right now...","Например, смазать игрушки, которые они сейчас так беспечно держат в руках, какими-нибудь летучими ядами..."
 line-501,闪灵,......,......,...
 line-503,莫妮克,别拿这种眼神看我，安排这种事并不困难。,Don't give me that look. Anyone could arrange something like that.,"Не смотри на меня так, организовать это не составит труда."
@@ -212,15 +212,15 @@ line-505,闪灵,三箭。,Three shots.,Три стрелы.
 line-507,莫妮克,......三箭。,Three shots.,...Три стрелы.
 line-508,莫妮克,呼......,(Exhales) ...,Фух...
 line-510,莫妮克,第一箭。,Number one.,Первая стрела.
-line-511,,莫妮克张弓搭箭，维多利亚最标准的姿势。,Monique draws her bowstring. A picture-perfect Victorian form.,"Моника натянула лук, в самой стандартной стойке Виктории."
-line-512,,那些在军队里的日子，年轻的莫妮克即是如此百步穿杨，深得赏识。,"Back in her military days, the young Monique could pierce a willow branch at a hundred paces. She was famous for it.","В те дни в армии юная Моника именно так пронзала цель со ста шагов, снискав признание."
+line-511,,莫妮克张弓搭箭，维多利亚最标准的姿势。,Monique draws her bowstring. A picture-perfect Victorian form.,"Моник натянула лук, в самой стандартной стойке Виктории."
+line-512,,那些在军队里的日子，年轻的莫妮克即是如此百步穿杨，深得赏识。,"Back in her military days, the young Monique could pierce a willow branch at a hundred paces. She was famous for it.","В те дни в армии юная Моник именно так пронзала цель со ста шагов, снискав признание."
 line-517,莫妮克,......！,......!,...!
 line-525,闪灵,这一箭，太浅。,Didn't draw enough for that one.,Эта стрела была слишком слабой.
 line-526,,眼前的萨卡兹甚至没有拔剑。,The Sarkaz before her didn't even draw her sword.,Саркас перед ней даже не вытащила меч.
 line-528,,出乎预料的结果使莫妮克顿时感到胸中一阵闷热，不甘涌上心头。,"The unexpected result sends a stifling heat through Monique's chest, the unwanted sensation rushes toward her heart.",Неожиданный результат заставил Монику почувствовать прилив духоты и недовольства.
 line-529,莫妮克,......第二箭。,Number two.,...Вторая стрела.
 line-530,,再一次拉弓。,She draws her bow taut a second time.,Снова натянула лук.
-line-531,,曾在某个雨夜，莫妮克袭击了一位一阶征战骑士。,"On a rainy night, Monique once attacked a first-order campaign knight.",Однажды в дождливую ночь Моника напала на рыцаря-завоевателя первого ранга.
+line-531,,曾在某个雨夜，莫妮克袭击了一位一阶征战骑士。,"On a rainy night, Monique once attacked a first-order campaign knight.",Однажды в дождливую ночь Моник напала на рыцаря-завоевателя первого ранга.
 line-532,,对方不是什么名声大噪的英雄，却也是个实打实的乌卡战争老兵。,"The opponent was not some famous hero, but a true veteran of the Ursus-Kazimierz War.","Тот не был прославленным героем, но был настоящим ветераном войны Урса-Казимеж."
 line-533,,灵敏的反应令他察觉到了暗箭，双方扭打起来，跌落山崖。,"His quick reflexes spared him the arrow from the darkness, and the two ended up locked in combat until they plunged off a cliff.","Чувствительная реакция позволила ему заметить скрытую стрелу, они сцепились и упали с обрыва."
 line-534,,早春的卡西米尔树林，春寒料峭，一场密林中的追逐战，持续了七天七夜。,"The forests of Kazimierz were cold and steep in the early spring, and the chase through the dense woods lasted seven days and nights.","В раннем весеннем лесу Казимежа стоял холод, и погоня в чаще длилась семь дней и ночей."
