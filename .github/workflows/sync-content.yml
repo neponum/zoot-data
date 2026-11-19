@@ -45,6 +45,8 @@ jobs:
             --table .game-data/en/gamedata/excel/handbook_info_table.json
           python3 tools/build_voice_templates.py \
             --table .game-data/en/gamedata/excel/charword_table.json
+          python3 tools/build_index.py \
+            --stories .game-data/cn/gamedata/story
 
       - name: Commit
         run: |

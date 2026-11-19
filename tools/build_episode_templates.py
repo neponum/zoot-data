@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """Досоздаёт CSV-шаблоны эпизодов, у которых ещё нет файла перевода.
 
-Читалка ищет перевод как `translation/<lang>/<эпизод>/<сценарий>[_<ник>].csv`,
+Читалка ищет перевод как `translation/<lang>/story/<эпизод>/<сценарий>[_<ник>].csv`,
 поэтому шаблон — обычный файл без суффикса: переводчик заполняет колонку
 `Translation`, и он сразу становится переводом.
 
@@ -26,7 +26,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT_DIR = ROOT / "translation" / "ru_RU"
+OUT_DIR = ROOT / "translation" / "ru_RU" / "story"
 
 TAG_PREFIX = re.compile(
     r"^(\s*(?:\[(?:[^\"'\]]|\"(?:[^\"\\]|\\.)*\"|'(?:[^'\\]|\\.)*')*\]\s*)*)(.*)$"

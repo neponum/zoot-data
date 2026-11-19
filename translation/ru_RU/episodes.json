@@ -5,6 +5,10 @@
       "naoshka_v"
     ]
   },
+  "act10d0": {
+    "files": 7,
+    "translators": []
+  },
   "act10d5": {
     "files": 7,
     "translators": [
@@ -20,11 +24,12 @@
   "act11d0": {
     "files": 20,
     "translators": [
+      "end_nep0num",
       "nep0num"
     ]
   },
   "act11d7": {
-    "files": 1,
+    "files": 2,
     "translators": [
       "nep0num"
     ]
@@ -41,6 +46,14 @@
       "nep0num"
     ]
   },
+  "act12d6": {
+    "files": 4,
+    "translators": []
+  },
+  "act12d7": {
+    "files": 1,
+    "translators": []
+  },
   "act12mini": {
     "files": 7,
     "translators": [
@@ -48,7 +61,7 @@
     ]
   },
   "act12side": {
-    "files": 20,
+    "files": 21,
     "translators": [
       "nep0num"
     ]
@@ -65,8 +78,12 @@
       "nep0num"
     ]
   },
+  "act13mini": {
+    "files": 6,
+    "translators": []
+  },
   "act13side": {
-    "files": 24,
+    "files": 27,
     "translators": [
       "nep0num"
     ]
@@ -102,7 +119,7 @@
     ]
   },
   "act15side": {
-    "files": 19,
+    "files": 20,
     "translators": [
       "nep0num"
     ]
@@ -120,7 +137,7 @@
     ]
   },
   "act16side": {
-    "files": 28,
+    "files": 36,
     "translators": [
       "neksi0762",
       "nep0num"
@@ -132,6 +149,14 @@
       "nep0num"
     ]
   },
+  "act17d1": {
+    "files": 1,
+    "translators": []
+  },
+  "act17d7": {
+    "files": 2,
+    "translators": []
+  },
   "act17mini": {
     "files": 6,
     "translators": [
@@ -139,7 +164,7 @@
     ]
   },
   "act17side": {
-    "files": 24,
+    "files": 25,
     "translators": [
       "nep0num"
     ]
@@ -180,6 +205,22 @@
       "neksi0762"
     ]
   },
+  "act1lock": {
+    "files": 3,
+    "translators": []
+  },
+  "act1sandbox": {
+    "files": 4,
+    "translators": []
+  },
+  "act1vautochess": {
+    "files": 1,
+    "translators": []
+  },
+  "act1vhalfidle": {
+    "files": 1,
+    "translators": []
+  },
   "act20mini": {
     "files": 6,
     "translators": [
@@ -187,7 +228,7 @@
     ]
   },
   "act20side": {
-    "files": 18,
+    "files": 19,
     "translators": [
       "nep0num"
     ]
@@ -199,7 +240,7 @@
     ]
   },
   "act21side": {
-    "files": 23,
+    "files": 25,
     "translators": [
       "nep0num"
     ]
@@ -211,26 +252,30 @@
     ]
   },
   "act23side": {
-    "files": 19,
+    "files": 20,
     "translators": [
       "nep0num"
     ]
   },
+  "act24side": {
+    "files": 19,
+    "translators": []
+  },
   "act25side": {
-    "files": 24,
+    "files": 25,
     "translators": [
       "neksi0762"
     ]
   },
   "act26side": {
-    "files": 27,
+    "files": 38,
     "translators": [
       "neksi0762",
       "nep0num"
     ]
   },
   "act27side": {
-    "files": 19,
+    "files": 20,
     "translators": [
       "nep0num"
     ]
@@ -242,7 +287,7 @@
     ]
   },
   "act29side": {
-    "files": 23,
+    "files": 24,
     "translators": [
       "nep0num"
     ]
@@ -254,7 +299,7 @@
     ]
   },
   "act31side": {
-    "files": 19,
+    "files": 20,
     "translators": [
       "nep0num"
     ]
@@ -278,20 +323,24 @@
     ]
   },
   "act35side": {
-    "files": 19,
+    "files": 20,
     "translators": [
       "nep0num"
     ]
   },
+  "act36side": {
+    "files": 16,
+    "translators": []
+  },
   "act37side": {
-    "files": 18,
+    "files": 19,
     "translators": [
       "centurion_vendigo",
       "nep0num"
     ]
   },
   "act38side": {
-    "files": 24,
+    "files": 25,
     "translators": [
       "nep0num"
     ]
@@ -308,8 +357,12 @@
       "nep0num"
     ]
   },
+  "act3fun": {
+    "files": 2,
+    "translators": []
+  },
   "act40side": {
-    "files": 17,
+    "files": 20,
     "translators": [
       "nep0num"
     ]
@@ -321,7 +374,7 @@
     ]
   },
   "act42side": {
-    "files": 24,
+    "files": 25,
     "translators": [
       "neksi0762"
     ]
@@ -333,7 +386,7 @@
     ]
   },
   "act44side": {
-    "files": 19,
+    "files": 20,
     "translators": [
       "nep0num"
     ]
@@ -345,7 +398,7 @@
     ]
   },
   "act46side": {
-    "files": 24,
+    "files": 25,
     "translators": [
       "nep0num"
     ]
@@ -363,7 +416,7 @@
     ]
   },
   "act49side": {
-    "files": 24,
+    "files": 25,
     "translators": [
       "nep0num"
     ]
@@ -374,8 +427,12 @@
       "nep0num"
     ]
   },
+  "act4fun": {
+    "files": 8,
+    "translators": []
+  },
   "act50side": {
-    "files": 16,
+    "files": 18,
     "translators": [
       "nep0num"
     ]
@@ -394,7 +451,7 @@
     ]
   },
   "act53side": {
-    "files": 18,
+    "files": 20,
     "translators": [
       "num4ar"
     ]
@@ -405,11 +462,19 @@
       "num4ar"
     ]
   },
+  "act55side": {
+    "files": 25,
+    "translators": []
+  },
   "act5d0": {
     "files": 26,
     "translators": [
       "nep0num"
     ]
+  },
+  "act5fun": {
+    "files": 2,
+    "translators": []
   },
   "act6d5": {
     "files": 3,
@@ -417,17 +482,29 @@
       "nep0num"
     ]
   },
+  "act6fun": {
+    "files": 1,
+    "translators": []
+  },
   "act7d5": {
     "files": 6,
     "translators": [
       "nep0num"
     ]
   },
+  "act7fun": {
+    "files": 7,
+    "translators": []
+  },
   "act7mini": {
     "files": 6,
     "translators": [
       "nep0num"
     ]
+  },
+  "act8d2": {
+    "files": 1,
+    "translators": []
   },
   "act8mini": {
     "files": 6,
@@ -449,16 +526,50 @@
   },
   "guide": {
     "files": 2,
-    "translators": [
-      "nep0num"
-    ]
+    "translators": []
   },
   "main": {
-    "files": 372,
+    "files": 374,
     "translators": [
       "ilarhion",
       "nep0num"
     ]
+  },
+  "rogue1": {
+    "files": 5,
+    "translators": []
+  },
+  "rogue2": {
+    "files": 5,
+    "translators": []
+  },
+  "rogue3": {
+    "files": 5,
+    "translators": []
+  },
+  "rogue4": {
+    "files": 6,
+    "translators": []
+  },
+  "rogue5": {
+    "files": 6,
+    "translators": []
+  },
+  "rogue6": {
+    "files": 5,
+    "translators": []
+  },
+  "sandbox": {
+    "files": 12,
+    "translators": []
+  },
+  "sandbox1": {
+    "files": 9,
+    "translators": []
+  },
+  "sandbox2": {
+    "files": 7,
+    "translators": []
   },
   "spst": {
     "files": 11,
@@ -475,8 +586,6 @@
   },
   "ui": {
     "files": 2,
-    "translators": [
-      "nep0num"
-    ]
+    "translators": []
   }
 }
