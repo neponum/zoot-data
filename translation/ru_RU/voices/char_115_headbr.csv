@@ -1,39 +1,39 @@
-id,title,original,translation
-char_115_headbr_CN_001,Appointed as Assistant,I'm here to help. So? Whose ass are we kicking next?,
-char_115_headbr_CN_002,Talk 1,"You can't go out without permission? Что? Aren't you the one in charge? Screw the rules, let's just get out.",
-char_115_headbr_CN_003,Talk 2,You said something? My headphones were on.,
-char_115_headbr_CN_004,Talk 3,The leader of Rhodes Island looks younger than even Istina. How can you let a kid like that go to battle?!,
-char_115_headbr_CN_005,Talk after Promotion 1,"Why do I stare at you all the time? 'cause I'm onto you, gotta see what you're doing.",
-char_115_headbr_CN_006,Talk after Promotion 2,Every soldier wants to be the general. And I trust you have no opinion on me taking your position someday?,
-char_115_headbr_CN_007,Talk after Trust Increase 1,"Plans for the future? Don't have any. You got a problem with that? I'm still young, no need to plan ahead.",
-char_115_headbr_CN_008,Talk after Trust Increase 2,"I found Istina and the girls out there in the field. We used to have a bunch more, too. What happened to them…? I dealt with 'em. Had no choice, they wouldn't play nice.",
-char_115_headbr_CN_009,Talk after Trust Increase 3,"Huh? Chernobog? Who'd ever wanna go back to that miserable city? We've got new lives here at Rhodes Island. So, let's keep it together, Doctor.",
-char_115_headbr_CN_010,Idle,…You really finished all your work?,
-char_115_headbr_CN_011,Onboard,"I'm Zima, leader of the Ursus Student Self-governing Group. I can make do without one, but my comrades need a place to call home. Let's cut the crap, gimme a job to do. I know lodging here ain't free.",
-char_115_headbr_CN_012,Watching Battle Record,Not too bad.,
-char_115_headbr_CN_013,Promotion 1,"A promotion? Cool! So I'll keep getting promoted if I keep doing a good job knocking heads, yeah?",
-char_115_headbr_CN_014,Promotion 2,"I'll be frank: if I keep getting promoted, I might end up replacing you someday. Oh, you think I'm joking? Sorry, pal, I'm dead serious here.",
-char_115_headbr_CN_017,Added to Squad,Don't care if I'm leading or following. Whatever.,
-char_115_headbr_CN_018,Appointed as Squad Leader,What a pain...,
-char_115_headbr_CN_019,Depart,Time to go.,
-char_115_headbr_CN_020,Begin Operation,Roll out.,
-char_115_headbr_CN_021,Selecting Operator 1,"Duh, it's me!",
-char_115_headbr_CN_022,Selecting Operator 2,I'm heading into the thick of it.,
-char_115_headbr_CN_023,Deployment 1,Spineless scumbags.,
-char_115_headbr_CN_024,Deployment 2,Hah.,
-char_115_headbr_CN_025,In Battle 1,What're you scared of?!,
-char_115_headbr_CN_026,In Battle 2,"Bring it on, bastards!",
-char_115_headbr_CN_027,In Battle 3,For power and glory!,
-char_115_headbr_CN_028,In Battle 4,Victory or death!,
-char_115_headbr_CN_029,4-star Result,Who else has a death wish? Happy to help!,
-char_115_headbr_CN_030,3-star Result,Not bad. A solid win.,
-char_115_headbr_CN_031,Sub 3-star Result,"Anyway, this place is ours now.",
-char_115_headbr_CN_032,Operation Failure,"Man, you suck. Get lost!",
-char_115_headbr_CN_033,Assigned to Facility,What do you want me to do here?,
-char_115_headbr_CN_034,Tap,Huh?,
-char_115_headbr_CN_036,Trust Tap,"Hey, you're getting better at giving orders these days. I bet you also see the fun in fighting now, eh?",
-char_115_headbr_CN_037,Title,Arknights.,
-char_115_headbr_CN_038,New Year's blessing,"Morning. Everyone's so damned noisy today. All those grown-ass people running around crazy excited for New Year's like a bunch of kids… Say, you aren't planning to waste the first day of the year sitting around here, are you? I bought a whole ton of fireworks, so you're gonna come have some fun with me.",
-char_115_headbr_CN_042,Greeting,You need something?,
-char_115_headbr_CN_043,Birthday,"Privet, this one's for you. Hey, who said you could open it right now? Whatever, not like it's anything special. It plays music, same model as mine. Gets the job done, as far as I'm concerned… You've had my back for a while, so a little token of appreciation is the least I can do. Happy birthday, Doctor.",
-char_115_headbr_CN_044,Anniversary Celebration,"Rhodes Island gave us a place to live. I'm not about to forget that. I'm gonna get stronger, strong enough to make sure I'm worthy of the 'General Zima' title - for my comrades. Now, you'd better work twice as hard from here on, or that chair's gonna be mine. I'm dead serious!",
+id,title,original,original_zh,translation
+char_115_headbr_CN_001,Appointed as Assistant,I'm here to help. So? Whose ass are we kicking next?,我来帮忙了，说吧，接下来要打谁？,"Пришла помочь. Ну, кого будем бить теперь?"
+char_115_headbr_CN_002,Talk 1,"You can't go out without permission? Что? Aren't you the one in charge? Screw the rules, let's just get out.",未经许可你就不能外出走动？这里是谁管事啊，不是你吗？真麻烦，总之快跟我一起出门走走。,"Без разрешения нельзя выйти? Кто здесь главный — разве не ты? Скучно... Ладно, пошли со мной."
+char_115_headbr_CN_003,Talk 2,You said something? My headphones were on.,你刚才有话要说吗？我戴着耳机没听见。,Ты что-то говорила? Я в наушниках не расслышала.
+char_115_headbr_CN_004,Talk 3,The leader of Rhodes Island looks younger than even Istina. How can you let a kid like that go to battle?!,罗德岛的首领看起来比真理年纪还小吧，你怎么能让那样的孩子上战场？嗯？,Начальница Родоса выглядит даже младше Истины. Как ты можешь отправлять такого ребёнка на поле боя? А?
+char_115_headbr_CN_005,Talk after Promotion 1,"Why do I stare at you all the time? 'cause I'm onto you, gotta see what you're doing.",为什么我成天盯着你？我就是想看看，看看你这家伙每天都在做什么。,"Почему я на тебя пялюсь? Да так, смотрю, чем ты каждый день занимаешься."
+char_115_headbr_CN_006,Talk after Promotion 2,Every soldier wants to be the general. And I trust you have no opinion on me taking your position someday?,所有的士兵都想当上将军，那么，我想取代你好像也没什么问题吧？,"Все солдаты мечтают стать генералом. Так что я вроде как тоже могу тебя подменить, да?"
+char_115_headbr_CN_007,Talk after Trust Increase 1,"Plans for the future? Don't have any. You got a problem with that? I'm still young, no need to plan ahead.",未来的打算？没想过那种事。怎么，有什么不满吗？我们又不是那种需要为将来做打算的年龄。,"Планы на будущее? Не думала об этом. Что, не нравится? Мы ещё не того возраста, чтобы строить планы."
+char_115_headbr_CN_008,Talk after Trust Increase 2,"I found Istina and the girls out there in the field. We used to have a bunch more, too. What happened to them…? I dealt with 'em. Had no choice, they wouldn't play nice.",真理她们是我在路上捡到的，不过一开始可不只有她们几个人。你问其他人在哪？哦……收拾掉了，因为那些家伙，不怎么老实。,Истину и остальных я подобрала в дороге. Сначала нас было больше. Где остальные? О... я с ними разобралась — они вели себя не очень-то мирно.
+char_115_headbr_CN_009,Talk after Trust Increase 3,"Huh? Chernobog? Who'd ever wanna go back to that miserable city? We've got new lives here at Rhodes Island. So, let's keep it together, Doctor.",切尔诺伯格？谁要回一个没有希望的城市？现在罗德岛才是我们真正的起点。就是这样，以后还请多担待点喽，博士。,"Чернобог? Кто захочет вернуться в город без будущего? Сейчас Родос — наше настоящее начало. Вот так. И дальше прошу вас терпеть нас, Доктор."
+char_115_headbr_CN_010,Idle,…You really finished all your work?,……这就没事做了？,...Ты уже всё закончил?
+char_115_headbr_CN_011,Onboard,"I'm Zima, leader of the Ursus Student Self-governing Group. I can make do without one, but my comrades need a place to call home. Let's cut the crap, gimme a job to do. I know lodging here ain't free.",凛冬，乌萨斯学生自治团团长。我自己怎么样无所谓，但现在我的同伴需要一个安身之处。好了，快给我安排些工作，我知道在这里生活不是免费的。,"Зима, командир Союза студентов Урсуса. Что до меня — всё равно, но моим товарищам нужно место, где жить. Хватит болтать, дай мне работу. Я знаю, что здесь жить не бесплатно."
+char_115_headbr_CN_012,Watching Battle Record,Not too bad.,这个不赖嘛。,Неплохо.
+char_115_headbr_CN_013,Promotion 1,"A promotion? Cool! So I'll keep getting promoted if I keep doing a good job knocking heads, yeah?",晋升？有趣，也就是说只要一直取得战功，就能不断晋升下去，对吧？,"Повышение? Интересно. Значит, если всё время одерживать победы, можно повышаться снова и снова, да?"
+char_115_headbr_CN_014,Promotion 2,"I'll be frank: if I keep getting promoted, I might end up replacing you someday. Oh, you think I'm joking? Sorry, pal, I'm dead serious here.",让我们相互坦白点吧，如果我一直晋升下去，最后就能取代你了吧？……玩笑话？不好意思啊，我可不是在开玩笑。,"Давай поговорим честно: если я буду повышаться, в конце концов я заменю тебя, да?.. Шутка? Прости, но я не шутила."
+char_115_headbr_CN_017,Added to Squad,Don't care if I'm leading or following. Whatever.,当队长还是队员，我都无所谓。,Буду ли я капитаном или рядовой — мне всё равно.
+char_115_headbr_CN_018,Appointed as Squad Leader,What a pain...,麻烦。,Хлопотно.
+char_115_headbr_CN_019,Depart,Time to go.,走了。,Пошли.
+char_115_headbr_CN_020,Begin Operation,Roll out.,上。,Вперёд.
+char_115_headbr_CN_021,Selecting Operator 1,"Duh, it's me!",当然，是我！,"Конечно, я!"
+char_115_headbr_CN_022,Selecting Operator 2,I'm heading into the thick of it.,我要去战斗。,Я иду в бой.
+char_115_headbr_CN_023,Deployment 1,Spineless scumbags.,胆小鬼。,Трусы.
+char_115_headbr_CN_024,Deployment 2,Hah.,哼。,Хм.
+char_115_headbr_CN_025,In Battle 1,What're you scared of?!,怕什么！,Чего бояться?!
+char_115_headbr_CN_026,In Battle 2,"Bring it on, bastards!",你们一口气上吧！,Нападайте все разом!
+char_115_headbr_CN_027,In Battle 3,For power and glory!,力量与荣耀！,За силу и славу!
+char_115_headbr_CN_028,In Battle 4,Victory or death!,胜利与死亡！,За победу и смерть!
+char_115_headbr_CN_029,4-star Result,Who else has a death wish? Happy to help!,急着送命就来找我，我这里不需要排队。,Хочешь умереть — ко мне. Очередь не нужна.
+char_115_headbr_CN_030,3-star Result,Not bad. A solid win.,不错的战果。,Неплохой результат.
+char_115_headbr_CN_031,Sub 3-star Result,"Anyway, this place is ours now.",反正，这地盘现在是我们的了。,"В любом случае, теперь это наша территория."
+char_115_headbr_CN_032,Operation Failure,"Man, you suck. Get lost!",丢人，你马上给我退出战场！,Позор! Немедленно выходи из боя!
+char_115_headbr_CN_033,Assigned to Facility,What do you want me to do here?,这是什么地方？,Что это за место?
+char_115_headbr_CN_034,Tap,Huh?,嗯？,А?
+char_115_headbr_CN_036,Trust Tap,"Hey, you're getting better at giving orders these days. I bet you also see the fun in fighting now, eh?",嘿，最近你的指挥越来越像样了，是不是觉得打架也挺有趣的？,"Эй, в последнее время ты стал командовать совсем как надо. Может, драться тебе тоже стало интересно?"
+char_115_headbr_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_115_headbr_CN_038,New Year's blessing,"Morning. Everyone's so damned noisy today. All those grown-ass people running around crazy excited for New Year's like a bunch of kids… Say, you aren't planning to waste the first day of the year sitting around here, are you? I bought a whole ton of fireworks, so you're gonna come have some fun with me.",哦，早上好。今天好吵啊。真是，明明都是大人了，怎么还会因为新年这么兴奋……喂，你怎么还坐在这，难道打算在新年的第一天坐在这里度过吗？快跟我出去。我专门买了好多烟花呢。,"О, доброе утро. Сегодня так шумно. Ну вот, все взрослые, а так радуются Новому году... Эй, ты всё ещё сидишь? Неужто решила провести первый день года здесь? Иди со мной. Я специально купила кучу фейерверков."
+char_115_headbr_CN_042,Greeting,You need something?,干什么？有事吗？,Чего? Тебе что-то нужно?
+char_115_headbr_CN_043,Birthday,"Privet, this one's for you. Hey, who said you could open it right now? Whatever, not like it's anything special. It plays music, same model as mine. Gets the job done, as far as I'm concerned… You've had my back for a while, so a little token of appreciation is the least I can do. Happy birthday, Doctor.",喂，这个送给你。欸，不要现在打开啊——没什么特别的，是和我同款的随身听，我觉得还挺好用的……也算是受了你不少照顾，今天总得有点表示吧。那个，生日快乐。,"Эй, это тебе. Эй, не открывай сейчас!.. Ничего особенного — такой же плеер, как у меня. Кажется, удобный... Ты меня выручала, так что сегодня надо как-то отблагодарить. Ну, с днём рождения."
+char_115_headbr_CN_044,Anniversary Celebration,"Rhodes Island gave us a place to live. I'm not about to forget that. I'm gonna get stronger, strong enough to make sure I'm worthy of the 'General Zima' title - for my comrades. Now, you'd better work twice as hard from here on, or that chair's gonna be mine. I'm dead serious!",罗德岛给我们提供了安身之处，这个恩情我一直记得。为了保护其他几个人，也为了“凛冬将军”这个称号，我一定会努力变强。喂，如果你不好好干的话，我可是很快会取代你的。我是认真的！,"Родос дал нам кров, и я это помню. Чтобы защитить остальных и чтобы звание «Генерал Зима» не было пустым, я обязательно стану сильнее. Эй, если ты не будешь стараться, я быстро тебя подменю. Я серьёзно!"

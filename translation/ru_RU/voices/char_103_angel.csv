@@ -1,39 +1,39 @@
-id,title,original,translation
-char_103_angel_CN_001,Appointed as Assistant,"Hey, leader! Got some work for us?",
-char_103_angel_CN_002,Talk 1,"Leader, how about we throw a party? We can play some hip-hop and eat apple pie. The best life is the party life! No party, no life!",
-char_103_angel_CN_003,Talk 2,"Locked and loaded, ready for action! What's the objective today, Leader?",
-char_103_angel_CN_004,Talk 3,"Some people believe money can buy anything. But, uh-uh, that saying doesn't really apply to me. Wealth won't make a lick of difference to where my targets end up.",
-char_103_angel_CN_005,Talk after Promotion 1,"My first wish: more guns! We angels all have a patron firearm, a special gun we grow up with, but owning just one gun is kinda lame. I want eight more!",
-char_103_angel_CN_006,Talk after Promotion 2,My second wish: get someone to turn off this light over my head!,
-char_103_angel_CN_007,Talk after Trust Increase 1,"I've always got Texas covered, that's why she lives so carefree. So obvious it goes without saying, right?",
-char_103_angel_CN_008,Talk after Trust Increase 2,"If you ever run into an angel with black horns oozing ominous vibes, please tell her for me: I've never forgotten her.",
-char_103_angel_CN_009,Talk after Trust Increase 3,"Us Penguin Logistics girls ain't so bad, right? What do you say, leader? Wanna come be our boss? Hehe, just kidding.",
-char_103_angel_CN_010,Idle,Oh Lord… is this another soul for us to save?,
-char_103_angel_CN_011,Onboard,Password: 'Long live the Penguin Empire.' So you're the client? Call me Exusiai. I'm nothing like that Lupo ice queen. I'm always down for some fun!,
-char_103_angel_CN_012,Watching Battle Record,I'm lovin' this feeling!,
-char_103_angel_CN_013,Promotion 1,"Thanks for the promotion, leader.",
-char_103_angel_CN_014,Promotion 2,"Leader... No, savior, I swear on this gun in my hand, I will protect you until the day of reckoning.",
-char_103_angel_CN_017,Added to Squad,Squad combat? I'm very familiar with that.,
-char_103_angel_CN_018,Appointed as Squad Leader,You've got a good eye. No one makes a better leader than me.,
-char_103_angel_CN_019,Depart,Let's go! Take them all by storm!,
-char_103_angel_CN_020,Begin Operation,"Relax, I already called dibs on the most lucrative real estate in Hell, to share with all of you.",
-char_103_angel_CN_021,Selecting Operator 1,All right!,
-char_103_angel_CN_022,Selecting Operator 2,Is it my turn?,
-char_103_angel_CN_023,Deployment 1,Follow me!,
-char_103_angel_CN_024,Deployment 2,Let me double their trouble.,
-char_103_angel_CN_025,In Battle 1,Divine judgment!,
-char_103_angel_CN_026,In Battle 2,Rock n' roll!,
-char_103_angel_CN_027,In Battle 3,Barrage!,
-char_103_angel_CN_028,In Battle 4,Apple pie!,
-char_103_angel_CN_029,4-star Result,Perfect! Let's keep up the momentum and charge on!,
-char_103_angel_CN_030,3-star Result,May my hail of bullets bring you eternal peace.,
-char_103_angel_CN_031,Sub 3-star Result,"Victory is a heavenly melody. Alright, let's go home and grab some beers!",
-char_103_angel_CN_032,Operation Failure,"Life is like a gun, sometimes it just jams. Don't get discouraged, leader, we'll get'em next time.",
-char_103_angel_CN_033,Assigned to Facility,Wowee! I love this place!,
-char_103_angel_CN_034,Tap,Oh!,
-char_103_angel_CN_036,Trust Tap,"Leader, wanna try out my weapon?",
-char_103_angel_CN_037,Title,Arknights.,
-char_103_angel_CN_038,New Year's blessing,"Happy New Year, Leader! The party's about to start, Employee Performance Competition Night's over, and I'm not dead last! Here's your booze and apple pie. Let's heat ourselves up to the hip-hop beat, and set this firework tower to the sky~ Here we go! Three, two—BANG!",
-char_103_angel_CN_042,Greeting,"Sup, leader!",
-char_103_angel_CN_043,Birthday,"Leader, c'mere, c'mon! Welcome to your birthday party! Turn out the lights and blow out your candles! Oh, but remember, even as the candles go out, my halo will shine on you in the dark. Never worry that you'll lose your way—the angel's Blessings will be forever at your side.",
-char_103_angel_CN_044,Anniversary Celebration,"We are led in differing directions. But by your power and wisdom, you may guide us on our journey together. Should the soul in you that protects us be a constant, we too will open a brand new path for you by our souls of honesty and ardor.",
+id,title,original,original_zh,translation
+char_103_angel_CN_001,Appointed as Assistant,"Hey, leader! Got some work for us?",老板，安排点差事给我们吧~,"Босс, найдите нам какое-нибудь дельце~"
+char_103_angel_CN_002,Talk 1,"Leader, how about we throw a party? We can play some hip-hop and eat apple pie. The best life is the party life! No party, no life!",老板，不办个派对吗？来点嘻哈，再来点烤苹果派~完美的人生可是不能停止聚会的！No party，No life！,"Босс, давай устроим вечеринку! Включим хип-хоп, запечём яблочный пирог~ Идеальная жизнь не может обходиться без тусовок! No party, no life!"
+char_103_angel_CN_003,Talk 2,"Locked and loaded, ready for action! What's the objective today, Leader?",子弹上膛，准备万全★老板，今天送点什么呀！,"Пушки заряжены, всё готово★ Босс, что сегодня доставим!"
+char_103_angel_CN_004,Talk 3,"Some people believe money can buy anything. But, uh-uh, that saying doesn't really apply to me. Wealth won't make a lick of difference to where my targets end up.",有人认为只要有钱什么都能做到，不过在我这里可是行不通的哦。如果我要那个人安息，他有多少钱都没有用~,"Кто-то думает, что за деньги можно всё купить — у меня это не срабатывает. Сколько бы ни было у того человека денег, это не спасёт его от моей пули~"
+char_103_angel_CN_005,Talk after Promotion 1,"My first wish: more guns! We angels all have a patron firearm, a special gun we grow up with, but owning just one gun is kinda lame. I want eight more!",第一个愿望！请送我八把铳当礼物！我们天使都有自己的守护铳，但只有一把可不够看！,"Первое желание! Подарите мне восемь пушек! У всех ангелов есть своя патронная пушка, но одной явно мало!"
+char_103_angel_CN_006,Talk after Promotion 2,My second wish: get someone to turn off this light over my head!,第二个愿望……找个人把我头上这盏日光灯管关掉！,"Второе желание... найти кого-нибудь, кто выключит эту лампу дневного света у меня над головой!"
+char_103_angel_CN_007,Talk after Trust Increase 1,"I've always got Texas covered, that's why she lives so carefree. So obvious it goes without saying, right?",德克萨斯那家伙能活得这么潇洒，可多亏有我罩着她，这不是明摆着的事嘛~,"То, что Техас живёт так беззаботно, — целиком моя заслуга, её прикрываю. Это же очевидно, правда~?"
+char_103_angel_CN_008,Talk after Trust Increase 2,"If you ever run into an angel with black horns oozing ominous vibes, please tell her for me: I've never forgotten her.",如果您见到一名长着漆黑的角，散发着不祥气息的天使，请一定替我转告她：我从来没有忘记过她。,"Если встретите ангела с чёрными рогами и зловещим свечением, передайте ей, пожалуйста: я её никогда не забывала."
+char_103_angel_CN_009,Talk after Trust Increase 3,"Us Penguin Logistics girls ain't so bad, right? What do you say, leader? Wanna come be our boss? Hehe, just kidding.",老板，咱们企鹅物流还是挺不错的吧？要不要来当当我们的老大？欸嘿嘿~开玩笑的~,"Босс, Пингвин Логистикс — неплохая конторка, правда? Не хотите стать нашим главой? Хи-хи~ шучу."
+char_103_angel_CN_010,Idle,Oh Lord… is this another soul for us to save?,……主啊，这个人也是我们要拯救的吗？,"...Господи, неужели и эту душу нам предстоит спасти?"
+char_103_angel_CN_011,Onboard,Password: 'Long live the Penguin Empire.' So you're the client? Call me Exusiai. I'm nothing like that Lupo ice queen. I'm always down for some fun!,口令是“企鹅帝国万岁”，你就是雇主吗？叫我能天使。我和那个冷淡的鲁珀人可不一样，你要是想找点有趣的事做，随时都可以来叫我！,"Пароль: «Да здравствует Пингвинья империя». Вы наниматель? Зовите меня Эксузай. Я совсем не похожа на ту холодную лупо-девушку — если хотите развлечься, зовите в любую минуту!"
+char_103_angel_CN_012,Watching Battle Record,I'm lovin' this feeling!,我喜欢这种感觉！,Обожаю это чувство!
+char_103_angel_CN_013,Promotion 1,"Thanks for the promotion, leader.",老板，多谢提拔~,"Босс, спасибо за повышение~"
+char_103_angel_CN_014,Promotion 2,"Leader... No, savior, I swear on this gun in my hand, I will protect you until the day of reckoning.",老板……不，义人，以手中的这把铳起誓，我将守护您的生命直至万物终结之日。,"Босс... Нет, праведник, клянусь этой пушкой в руке — я буду хранить вашу жизнь до дня, когда всему придёт конец."
+char_103_angel_CN_017,Added to Squad,Squad combat? I'm very familiar with that.,小组作战，我熟得很～,Работа в группе — это моя стихия~
+char_103_angel_CN_018,Appointed as Squad Leader,You've got a good eye. No one makes a better leader than me.,没有比我更适合当队长的人！您真是别具慧眼！,Лучше меня в капитаны не найти! У вас и правда глаз на месте!
+char_103_angel_CN_019,Depart,Let's go! Take them all by storm!,出发！让我们像风暴一样碾过去！,"Вперёд! Пройдёмся по ним, как ураган!"
+char_103_angel_CN_020,Begin Operation,"Relax, I already called dibs on the most lucrative real estate in Hell, to share with all of you.",我帮你们预定了地狱黄金地段的房产，请放心！,"Я уже забронировала вам лучшие места в аду, не волнуйтесь!"
+char_103_angel_CN_021,Selecting Operator 1,All right!,好！,Отлично!
+char_103_angel_CN_022,Selecting Operator 2,Is it my turn?,轮到我出场了吗？,Моя очередь?
+char_103_angel_CN_023,Deployment 1,Follow me!,跟我来！,За мной!
+char_103_angel_CN_024,Deployment 2,Let me double their trouble.,让我来制造点混乱。,Пусть я добавлю им хлопот.
+char_103_angel_CN_025,In Battle 1,Divine judgment!,天意！,Божественный суд!
+char_103_angel_CN_026,In Battle 2,Rock n' roll!,摇滚！,Рок-н-ролл!
+char_103_angel_CN_027,In Battle 3,Barrage!,弹幕！,Заградительный огонь!
+char_103_angel_CN_028,In Battle 4,Apple pie!,苹果派！,Яблочный пирог!
+char_103_angel_CN_029,4-star Result,Perfect! Let's keep up the momentum and charge on!,好！就照这个劲头向前冲！,Вот! Так и несемся вперёд!
+char_103_angel_CN_030,3-star Result,May my hail of bullets bring you eternal peace.,愿我的弹雨能熄灭你们的苦痛。,Пусть мой град пуль утолит вашу боль.
+char_103_angel_CN_031,Sub 3-star Result,"Victory is a heavenly melody. Alright, let's go home and grab some beers!",胜利的讯息即是甜蜜的福音。好~回去喝一杯吧！,"Весть о победе — сладкая песнь. Ладно, пошли домой выпьем!"
+char_103_angel_CN_032,Operation Failure,"Life is like a gun, sometimes it just jams. Don't get discouraged, leader, we'll get'em next time.",铳有卡壳的时候，人生也是如此，别介意别介意~,"Пушка порой заклинивает — и жизнь тоже. Не переживайте, в следующий раз достанем их~"
+char_103_angel_CN_033,Assigned to Facility,Wowee! I love this place!,我喜欢这个地方！,Мне нравится здесь!
+char_103_angel_CN_034,Tap,Oh!,哟！,О!
+char_103_angel_CN_036,Trust Tap,"Leader, wanna try out my weapon?",老板！来试试我的武器吗？,"Босс, хотите попробовать моё оружие?"
+char_103_angel_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_103_angel_CN_038,New Year's blessing,"Happy New Year, Leader! The party's about to start, Employee Performance Competition Night's over, and I'm not dead last! Here's your booze and apple pie. Let's heat ourselves up to the hip-hop beat, and set this firework tower to the sky~ Here we go! Three, two—BANG!",新年快乐啊，老板！派对就要开始了，业绩决战夜刚刚结束，我没有垫底~！这是您的酒和苹果派，让我们跟着嘻哈的节奏，一起炸了面前这座烟花塔吧~来，三、二、一——嘣！！,"С Новым годом, Босс! Вечеринка вот-вот начнётся, конкурс на лучшего работника закончился, и я не на последнем месте~! Вот ваши выпивка и яблочный пирог. Давай под хип-хоп подожжём эту башню с фейерверками~ Ну, три, два — БАХ!!"
+char_103_angel_CN_042,Greeting,"Sup, leader!",哟，老板！,"Йо, Босс!"
+char_103_angel_CN_043,Birthday,"Leader, c'mere, c'mon! Welcome to your birthday party! Turn out the lights and blow out your candles! Oh, but remember, even as the candles go out, my halo will shine on you in the dark. Never worry that you'll lose your way—the angel's Blessings will be forever at your side.",老板，快来快来，欢迎来到你的生日派对！把灯关上吹蜡烛吧~即便蜡烛熄灭，天使的光环也会为您照亮此方黑暗。您不必担心失去方向，天使的祝福将会永伴您的左右。,"Босс, сюда, скорее — добро пожаловать на твой день рождения! Выключи свет и задуй свечи~ Даже когда они погаснут, ореол ангела осветит вам этот мрак. Не бойтесь сбиться с пути — благословение ангела всегда будет рядом."
+char_103_angel_CN_044,Anniversary Celebration,"We are led in differing directions. But by your power and wisdom, you may guide us on our journey together. Should the soul in you that protects us be a constant, we too will open a brand new path for you by our souls of honesty and ardor.",我们被指引去往不同的方向，以您的力量和智慧，引领我们踏上一段共同的旅程吧。若您守护我们的心从未改变，我们亦会以诚实和热忱之心，为您开辟全新的道路。,"Нас ведут в разные стороны, но вашей силой и мудростью вы можете повести нас вместе по одному пути. Если сердце, что хранит нас, останется прежним — мы тоже проложим для вас новую дорогу искренностью и рвением."

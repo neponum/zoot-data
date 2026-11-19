@@ -1,39 +1,39 @@
-id,title,original,translation
-char_101_sora_CN_001,Appointed as Assistant,"Yahoo, Doctor! Whacha doing? Looks like fun!",
-char_101_sora_CN_002,Talk 1,"Does Rhodes Island have a karaoke place? It'd be great if we had a place to sing the night away, especially when we don't have battles to fight!",
-char_101_sora_CN_003,Talk 2,My job as an idol is to make the fans happy with my songs and performances. But what should I do as an operator of Rhodes Island... ?,
-char_101_sora_CN_004,Talk 3,"Hi, hi, Doctor! Anything I can help with? Don't judge me by my look— I actually do some heavy lifting at Penguin Logistics.",
-char_101_sora_CN_005,Talk after Promotion 1,"Yup, my special skill is singing! I can do a cappella, lead vocals, choir singing, pop music, and I can even rap, yo yo! But, I guess that's not a very useful skill for an Operator. If only I had a more practical skill…",
-char_101_sora_CN_006,Talk after Promotion 2,"M-My ears...? Uh, I can't tell you! A-And even if you ask Texas, she's not going to tell you either! Ehhh—Sorry, I'll explain if I get the chance someday…",
-char_101_sora_CN_007,Talk after Trust Increase 1,"You know, Texas actually saved my life. She also taught me so much I never knew. Which is why I... want to be there with her whenever I can... I, uhh, I'm just trying to show my gratitude for her, that's all!",
-char_101_sora_CN_008,Talk after Trust Increase 2,"You think I look upset? Um... it's because... Exusiai went on a mission with Texas again, right? If only I were as good as Exusiai…",
-char_101_sora_CN_009,Talk after Trust Increase 3,Doctor! Could you teach me to use a weapon? My songs have no practical use except for support and encouragement. If I could fight with a weapon... What? You're not good at fighting either?!,
-char_101_sora_CN_010,Idle,Texas... are you listening to my song?,
-char_101_sora_CN_011,Onboard,"(｡･∀･)ﾉﾞHiiii! I'm the loveable idol from Monster Siren Records: Sora! Oops, sorry, introducing myself like this at Rhodes Island must be kinda weird. Aww…",
-char_101_sora_CN_012,Watching Battle Record,Leveling—up!,
-char_101_sora_CN_013,Promotion 1,A promotion? Do we also have an idol ranking on Rhodes Island?,
-char_101_sora_CN_014,Promotion 2,"I can feel the surge in my heart. It's like back to my first concert. I'm just delighted that you trust me so much, Doctor! All my hard work has paid off! Hmm? My ears? Wh-What about them?",
-char_101_sora_CN_017,Added to Squad,"As a squad member, I'll try my best to learn from the basics!",
-char_101_sora_CN_018,Appointed as Squad Leader,I'm the leader? Is that like standing at the center of the idol group?,
-char_101_sora_CN_019,Depart,Singing on the battlefield... Now that's a fresh experience!,
-char_101_sora_CN_020,Begin Operation,If only my music could put an end to all this fighting...,
-char_101_sora_CN_021,Selecting Operator 1,Is it my turn?,
-char_101_sora_CN_022,Selecting Operator 2,"Yes, I can handle this!",
-char_101_sora_CN_023,Deployment 1,It's show time!,
-char_101_sora_CN_024,Deployment 2,"Alright, let's make some noise!",
-char_101_sora_CN_025,In Battle 1,"Come on, we can do it!",
-char_101_sora_CN_026,In Battle 2,You have my full support!,
-char_101_sora_CN_027,In Battle 3,Now we change the game!,
-char_101_sora_CN_028,In Battle 4,"Don't lose heart, we can win this one!",
-char_101_sora_CN_029,4-star Result,"I heard your cheering loud and clear, everyone! Thank you!",
-char_101_sora_CN_030,3-star Result,"Awesome! A smashing victory! Texas, did you see how I sparkled on the stage?",
-char_101_sora_CN_031,Sub 3-star Result,"We did a good job, team. Thank you for your hard work!",
-char_101_sora_CN_032,Operation Failure,I'm sorry... I wasn't good enough to be your help...,
-char_101_sora_CN_033,Assigned to Facility,This place is much bigger than the dorms at Penguin Logistics!,
-char_101_sora_CN_034,Tap,Sparkle spark!,
-char_101_sora_CN_036,Trust Tap,"Ehehe, thanks, Doctor!",
-char_101_sora_CN_037,Title,Arknights.,
-char_101_sora_CN_038,New Year's blessing,"It looks like I can't hold a solo live this year, but that doesn't change my desire to sing. Happy New Year! This year, I'm going to bring even more smiles to my fans—um, no, that's not the word... Oh, right! I'm going to bring even more music to everyone at Rhodes Island!",
-char_101_sora_CN_042,Greeting,"I hope you have a fantastic day, Doctor!",
-char_101_sora_CN_043,Birthday,"A lot of fans say my singing can bring people true happiness, and I really hope they're right. Doctor, today I've got a song just for you. Happy birthday! This is for a beautiful life and a cheerful you, all year long!",
-char_101_sora_CN_044,Anniversary Celebration,"Idols and Messengers are both jobs about passing on love. Seeing fans and audiences smile is a source of happiness in my own life. I'm sure, together with everyone at Rhodes Island, we can spread this blessing even further. It's a tiny little dream, but I'll do my best to make it come true!",
+id,title,original,original_zh,translation
+char_101_sora_CN_001,Appointed as Assistant,"Yahoo, Doctor! Whacha doing? Looks like fun!",嗨~博士！您在做什么呢？好像很有趣的样子！,"Йо-хо~, Доктор! Что вы делаете? Выглядит так весело!"
+char_101_sora_CN_002,Talk 1,"Does Rhodes Island have a karaoke place? It'd be great if we had a place to sing the night away, especially when we don't have battles to fight!",罗德岛有没有适合唱歌的场所呢？我希望没有战斗的时候，大家能有个一起唱卡拉OK放松放松的地方！,"Есть ли на Родосе место, где можно петь? Хорошо бы, когда нет боёв, все могли бы собраться и спеть караоке!"
+char_101_sora_CN_003,Talk 2,My job as an idol is to make the fans happy with my songs and performances. But what should I do as an operator of Rhodes Island... ?,做偶像的时候，用歌声和表演来抓住Fans的心是我的工作，可是作为干员，我又该做些什么呢……？,Работа айдола — радовать фанатов песнями и выступлениями. А что я должна делать как оперативник Родоса...?
+char_101_sora_CN_004,Talk 3,"Hi, hi, Doctor! Anything I can help with? Don't judge me by my look— I actually do some heavy lifting at Penguin Logistics.",博士博士，有什么我能帮忙的吗？别看我这样，在企鹅物流里，我可也是会做些体力活的哦。,"Доктор, Доктор, чем я могу помочь? Не судите по внешности — в Пингвин Логистикс я иной раз и тяжёлое поднимаю."
+char_101_sora_CN_005,Talk after Promotion 1,"Yup, my special skill is singing! I can do a cappella, lead vocals, choir singing, pop music, and I can even rap, yo yo! But, I guess that's not a very useful skill for an Operator. If only I had a more practical skill…",果然我的专长就是唱歌！单人清唱也好，合唱领唱也行，流行歌曲偶像歌曲都没问题，甚至RAP都不在话下！不过，好像这些对干员的工作没什么帮助呢……如果能更多地帮到大家就好了。,"И правда, мой талант — пение! Соло, подголосок в хоре, поп, айдол-песни, даже рэп — всё могу! Только вот оперативникам это вроде не слишком помогает... Эх, был бы у меня более практичный талант..."
+char_101_sora_CN_006,Talk after Promotion 2,"M-My ears...? Uh, I can't tell you! A-And even if you ask Texas, she's not going to tell you either! Ehhh—Sorry, I'll explain if I get the chance someday…",耳、耳朵的事？就算您这么问，我也不能……那个，就算问德克萨斯她也是不会说的！以后有机会我会向您解释……！,"У-уши? Нет, даже если вы спросили — я не скажу! И у Техас не спрашивайте — она тоже не скажет! Э-э... Если вдруг будет случай, я объясню...!"
+char_101_sora_CN_007,Talk after Trust Increase 1,"You know, Texas actually saved my life. She also taught me so much I never knew. Which is why I... want to be there with her whenever I can... I, uhh, I'm just trying to show my gratitude for her, that's all!",德克萨斯是我的救命恩人，还教了我很多事情，所以只要有时间我都想待在她身边，帮她做点什么……嗯，只是想报恩而已！,"Техас спасла мне жизнь и многому научила, поэтому я хочу быть рядом с ней, когда только могу, и чем-нибудь помочь... Мм, просто хочу отблагодарить её, и всё!"
+char_101_sora_CN_008,Talk after Trust Increase 2,"You think I look upset? Um... it's because... Exusiai went on a mission with Texas again, right? If only I were as good as Exusiai…",我看上去不太高兴？呣……因为，今天和德克萨斯一起做任务的人还是能天使对吧。哈……如果我也能像能天使那样强的话……,"Я кажусь вам расстроенной? Мм... потому что сегодня с Техас снова ходила Эксузай, да? Хах... Если бы я была сильной, как она..."
+char_101_sora_CN_009,Talk after Trust Increase 3,Doctor! Could you teach me to use a weapon? My songs have no practical use except for support and encouragement. If I could fight with a weapon... What? You're not good at fighting either?!,博士！能不能教教我怎么使用武器！唱歌什么的，只能在后方支援大家，要是我能用武器战斗的话……欸欸？您也不太擅长战斗？,"Доктор! Научите меня пользоваться оружием! Пение годится лишь для поддержки и ободрения, а если бы я могла сражаться... Эй, эй? Вы тоже не очень умеете драться?!"
+char_101_sora_CN_010,Idle,Texas... are you listening to my song?,……德克萨斯，你在听我的歌吗？,"...Техас, ты слышишь мою песню?"
+char_101_sora_CN_011,Onboard,"(｡･∀･)ﾉﾞHiiii! I'm the loveable idol from Monster Siren Records: Sora! Oops, sorry, introducing myself like this at Rhodes Island must be kinda weird. Aww…",(｡･∀･)ﾉﾞ嗨！我是来自MSR的，大家的偶像空~！呃，抱歉抱歉~这种风格的自我介绍，好像不太适合罗德岛吧。呜……,"(｡･∀･)ﾉﾞПривет! Я — милая айдол из MSR, Сора! Ой, простите-простите~ Такое представление в Родосе как-то странно... Уу..."
+char_101_sora_CN_012,Watching Battle Record,Leveling—up!,升级！,Повышение уровня!
+char_101_sora_CN_013,Promotion 1,A promotion? Do we also have an idol ranking on Rhodes Island?,晋升？是像偶像等级一样的制度吗？,Повышение? У нас в Родосе тоже есть айдол-ранги?
+char_101_sora_CN_014,Promotion 2,"I can feel the surge in my heart. It's like back to my first concert. I'm just delighted that you trust me so much, Doctor! All my hard work has paid off! Hmm? My ears? Wh-What about them?",这样雀跃的心情，简直就像回到了初次站上LIVE舞台的那天……博士能这样信赖我，我真的很开心！至今为止的努力得到回报了……嗯？我的耳朵？怎、怎么了嘛……？,"Такой трепет в груди — точь-в-точь как в день первого живого выступления... Доктор, я так счастлива, что вы мне доверяете! Все старания наконец оправдались... Эй? Мои уши? Ч-Что с ними...?"
+char_101_sora_CN_017,Added to Squad,"As a squad member, I'll try my best to learn from the basics!",作为小队的一员，我会从基础知识开始学习的。,"Как член отряда, я буду учиться с самых основ!"
+char_101_sora_CN_018,Appointed as Squad Leader,I'm the leader? Is that like standing at the center of the idol group?,队长吗？就像Center位一样吧？,Капитан? Это как центральная позиция в айдол-группе?
+char_101_sora_CN_019,Depart,Singing on the battlefield... Now that's a fresh experience!,在战场上唱歌，真是新奇体验呢~,Петь на поле боя — вот это необычный опыт~
+char_101_sora_CN_020,Begin Operation,If only my music could put an end to all this fighting...,如果我的歌声能阻止这场战争就好了。,Если бы моя песня могла остановить эту войну...
+char_101_sora_CN_021,Selecting Operator 1,Is it my turn?,该我出场了吗？,Моя очередь?
+char_101_sora_CN_022,Selecting Operator 2,"Yes, I can handle this!",我的话没问题！,Со мной всё в порядке!
+char_101_sora_CN_023,Deployment 1,It's show time!,演唱会要开始喽！,Концерт начинается!
+char_101_sora_CN_024,Deployment 2,"Alright, let's make some noise!",开始了哦~！,Начали~!
+char_101_sora_CN_025,In Battle 1,"Come on, we can do it!",大家加油~！,"Все, давайте~!"
+char_101_sora_CN_026,In Battle 2,You have my full support!,我会支持你！,Я вас поддержу!
+char_101_sora_CN_027,In Battle 3,Now we change the game!,让形势逆转吧！,Переломите ход боя!
+char_101_sora_CN_028,In Battle 4,"Don't lose heart, we can win this one!",别输了！,Не проигрывайте!
+char_101_sora_CN_029,4-star Result,"I heard your cheering loud and clear, everyone! Thank you!",大家的热情欢呼，今天也成功地传达给空了哟~！谢谢！,Ваши восторженные возгласы сегодня тоже дошли до Соры~! Спасибо!
+char_101_sora_CN_030,3-star Result,"Awesome! A smashing victory! Texas, did you see how I sparkled on the stage?",成功了！大获全胜！德克萨斯，看到我活跃的表现了吗？,"Ура! Полная победа! Техас, ты видела, как я старалась на сцене?"
+char_101_sora_CN_031,Sub 3-star Result,"We did a good job, team. Thank you for your hard work!",大家辛苦了！,"Все молодцы! Спасибо за работу, команда."
+char_101_sora_CN_032,Operation Failure,I'm sorry... I wasn't good enough to be your help...,对不起……我没能成为大家的力量……,Простите... я не смогла стать опорой для всех...
+char_101_sora_CN_033,Assigned to Facility,This place is much bigger than the dorms at Penguin Logistics!,这里比企鹅物流的宿舍要大上好多呢！,"Здесь куда просторнее, чем в общежитии Пингвин Логистикс!"
+char_101_sora_CN_034,Tap,Sparkle spark!,闪闪发光！,Сияем-сияем!
+char_101_sora_CN_036,Trust Tap,"Ehehe, thanks, Doctor!",欸嘿嘿~博士，谢谢你~！,"Э-э-э~, Доктор, спасибо~!"
+char_101_sora_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_101_sora_CN_038,New Year's blessing,"It looks like I can't hold a solo live this year, but that doesn't change my desire to sing. Happy New Year! This year, I'm going to bring even more smiles to my fans—um, no, that's not the word... Oh, right! I'm going to bring even more music to everyone at Rhodes Island!",今年似乎不能举办个人演唱会了呢，不过，想要唱歌的心情是不会改变的。新年快乐！今年我也要为各位粉丝带来更多的欢笑——嗯，不对不对，是为罗德岛的各位带来更多的歌曲哦！,"Кажется, в этом году не получится устроить сольный концерт... Но желание петь от этого не изменилось. С Новым годом! В этом году я тоже принесу море улыбок фанатам — э, нет, не то слово... Ах, верно! Принесу ещё больше песен всем на Родосе!"
+char_101_sora_CN_042,Greeting,"I hope you have a fantastic day, Doctor!",今天也要开开心心哦，博士。,"И сегодня будьте счастливы, Доктор."
+char_101_sora_CN_043,Birthday,"A lot of fans say my singing can bring people true happiness, and I really hope they're right. Doctor, today I've got a song just for you. Happy birthday! This is for a beautiful life and a cheerful you, all year long!",有许多粉丝说，我的歌声可以给人带来幸福，如果真是这样就好了呢。博士，今天这首歌，只唱给你一个人听哦。祝你生日快乐！今年一整年都要幸福开心！,"Многие фанаты говорят, что моё пение даёт людям настоящее счастье — очень хочется верить, что это правда. Доктор, сегодня я пою только для вас. С днём рождения! Пусть весь год будет прекрасным и радостным!"
+char_101_sora_CN_044,Anniversary Celebration,"Idols and Messengers are both jobs about passing on love. Seeing fans and audiences smile is a source of happiness in my own life. I'm sure, together with everyone at Rhodes Island, we can spread this blessing even further. It's a tiny little dream, but I'll do my best to make it come true!",偶像和信使，都是传递爱与希望的工作。看到粉丝和客人的笑容，我也可以收获一份幸福。跟着罗德岛各位一起，一定可以把幸福的心情传递到更远的地方吧。为了这个小小的理想，继续努力吧！,"Айдол и курьер — обе работы о том, чтобы нести любовь и надежду. Видя улыбки фанатов и клиентов, я и сама обретаю счастье. Думаю, вместе со всеми на Родосе мы сможем донести это чувство ещё дальше. Ради этой маленькой мечты я буду стараться!"

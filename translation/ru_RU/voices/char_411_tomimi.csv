@@ -1,39 +1,39 @@
-id,title,original,translation
-char_411_tomimi_CN_001,Appointed as Assistant,"Gavial doesn't do this kind of work, and nobody in the tribe wants to do this stuff either. So, that's why I help out a bit when I have the time.",
-char_411_tomimi_CN_002,Talk 1,"If there's no trainee nurse at the Medical Department, I can give it a try. I have some basic nursing knowledge.",
-char_411_tomimi_CN_003,Talk 2,"Doctor, this pen seems to be out of ink. Oh, wait! Please don't throw that out! If it's not too much to ask... Um... could I have that?",
-char_411_tomimi_CN_004,Talk 3,"I can't dig up the floors on Rhodes Island? There's no buried treasure? But where are all your precious things, then? Locked inside rooms? Oh, that's too bad…",
-char_411_tomimi_CN_005,Talk after Promotion 1,"My tail's gotten even bigger. If this keeps up, everyone's going to hate me for sure. Wuh... What do I do…?",
-char_411_tomimi_CN_006,Talk after Promotion 2,"Some people are born strong and cool, others, smart. For me, I've got a big tail... Since we can't choose what we're born with, let's embrace our uniqueness and make the most of it. Um, of course, if you could help me out every now and then, Doctor... that would be best.",
-char_411_tomimi_CN_007,Talk after Trust Increase 1,"I understand Gavial skipping work, but why would she skip a meal? Could something be bothering her so much that even she has to hide? And no one else even noticed. I'm the only one who can save her! Ah, Doctor, good thing you're here. Can you help me with something?",
-char_411_tomimi_CN_008,Talk after Trust Increase 2,"Are you sure you want to see what's inside my backpack? Okay... I haven't organized it in a while so it might be kind of messy. Let's see… An amber wrapped in a leaf. A loose fang...? A bloodstained black crystal... and a stack of autographs?! Uh, Doctor, that's all for today! Sorry, but we're done here!",
-char_411_tomimi_CN_009,Talk after Trust Increase 3,"She shines with such brilliance that I can't help but stare, even as her flames scorch my eyes dry. That's my Gavial, she shines like the sun. Oh, by the way, I came across that passage in a book and thought it sounded nice, so I memorized it. It really fits Gavial, doesn't it?",
-char_411_tomimi_CN_010,Idle,"I'll leave this dreamcatcher over here… May you have a pure and peaceful dream, Doctor.",
-char_411_tomimi_CN_011,Onboard,"Hello, Doctor. Er, I'm not here to cause trouble. I'm here to… to... Study! Right, study. No reason for me to stay home alone if Gavial is here, right?",
-char_411_tomimi_CN_012,Watching Battle Record,"Hmm... Maybe I should just practice on the battlefield, I guess…",
-char_411_tomimi_CN_013,Promotion 1,"Thank you for giving me such a pretty badge, Doctor. What? It's a promotion badge? Ah, uh, y-you sure...? A-A-Am I really qualified to have this?",
-char_411_tomimi_CN_014,Promotion 2,"I'll be worthy of this flag one day, I swear I will.",
-char_411_tomimi_CN_017,Added to Squad,"I'll watch and learn, Doctor. It would be great if I could actually master some of your skills…",
-char_411_tomimi_CN_018,Appointed as Squad Leader,You're leaving it to me? Really?,
-char_411_tomimi_CN_019,Depart,Let's go. We are gonna F… um… beat them up!,
-char_411_tomimi_CN_020,Begin Operation,"Wait, I'm not ready yet!",
-char_411_tomimi_CN_021,Selecting Operator 1,"Please not me, please not me…",
-char_411_tomimi_CN_022,Selecting Operator 2,Maybe I'll have a go…,
-char_411_tomimi_CN_023,Deployment 1,H-Here I go!,
-char_411_tomimi_CN_024,Deployment 2,Who needs beating? Come over!,
-char_411_tomimi_CN_025,In Battle 1,"C-Come on, you can do this!",
-char_411_tomimi_CN_026,In Battle 2,"A little more, a little more!",
-char_411_tomimi_CN_027,In Battle 3,Haah!,
-char_411_tomimi_CN_028,In Battle 4,Wh-Who's next!,
-char_411_tomimi_CN_029,4-star Result,"I got beaten like that before, by you, Doctor.",
-char_411_tomimi_CN_030,3-star Result,"We won, yay.",
-char_411_tomimi_CN_031,Sub 3-star Result,"Phew, my back's sore. I need a break.",
-char_411_tomimi_CN_032,Operation Failure,I'm sorry... so sorry…,
-char_411_tomimi_CN_033,Assigned to Facility,Ah! Please don't throw that away yet. Can you leave it to me? I'll take care of it.,
-char_411_tomimi_CN_034,Tap,M-My tail...,
-char_411_tomimi_CN_036,Trust Tap,"Want to try Sargonian barbecue? I'll work the grill, you just enjoy the food, Doctor.",
-char_411_tomimi_CN_037,Title,Arknights.,
-char_411_tomimi_CN_038,New Year's blessing,"If today's a holiday, does that mean I can take the day off? Haghhh… Oh, where's Gavial? Have you seen her, Doctor? If I've got a free day, of course I'm going to spend it with Gavial!",
-char_411_tomimi_CN_042,Greeting,Hnngh... Doctor…,
-char_411_tomimi_CN_043,Birthday,"Doctor! I brought you a birthday present! Umm... huh? Wh-Where did it go? I hid it behind my back so I could surprise you. How could it go missing...? Wahh… Oh! Here it is! It was stuck under my tail... Sorry about that, and happy birthday to you, Doctor. Hehe.",
-char_411_tomimi_CN_044,Anniversary Celebration,"Doctor, I got a paper slip from the fortune box, and it says if I say five positive words to a plant every day, it will grow even bigger. Let me try it with this one! Tail, backpack, barbecue, sweet dreams... And... Gavial. Hehe... Doctor! Why are you laughing at me?",
+id,title,original,original_zh,translation
+char_411_tomimi_CN_001,Appointed as Assistant,"Gavial doesn't do this kind of work, and nobody in the tribe wants to do this stuff either. So, that's why I help out a bit when I have the time.",这些工作嘉维尔是不会做的，部族里也没人想到要做，所以，我有空的时候会干一些。,"Гавиал такой работы не делает, и в племени никто её делать не хочет — вот я и помогаю, когда есть время."
+char_411_tomimi_CN_002,Talk 1,"If there's no trainee nurse at the Medical Department, I can give it a try. I have some basic nursing knowledge.",医疗部缺实习护士的话，我可以去试试看，基础护理知识，我还是多少懂一点的。,"Если в медчасти нужен стажёр-медсестра, я могу попробовать. Основы ухода я хоть немного да знаю."
+char_411_tomimi_CN_003,Talk 2,"Doctor, this pen seems to be out of ink. Oh, wait! Please don't throw that out! If it's not too much to ask... Um... could I have that?",博士，签字笔好像没墨了。啊，等下，请不要扔！如果您不介意的话，那个，能留给我吗？,"Доктор, у этой ручки, кажется, кончились чернила. Ой, погодите! Не выбрасывайте! Если не трудно... э-э... можно мне её оставить?"
+char_411_tomimi_CN_004,Talk 3,"I can't dig up the floors on Rhodes Island? There's no buried treasure? But where are all your precious things, then? Locked inside rooms? Oh, that's too bad…",罗德岛不能往下挖吗？地下没有宝物吗？珍贵的东西都锁在房间里？好可惜啊……,На Родосе нельзя копать вниз? Под землёй нет сокровищ? Тогда где вы храните ценное? В запертых комнатах? Очень жаль...
+char_411_tomimi_CN_005,Talk after Promotion 1,"My tail's gotten even bigger. If this keeps up, everyone's going to hate me for sure. Wuh... What do I do…?",尾巴，又长了啊，再这样长下去，真的会被人嫌弃的啊，呜呜……好烦恼。,"Хвост снова вырос. Если так пойдёт и дальше, меня точно все возненавидят. Ууу... что же делать..."
+char_411_tomimi_CN_006,Talk after Promotion 2,"Some people are born strong and cool, others, smart. For me, I've got a big tail... Since we can't choose what we're born with, let's embrace our uniqueness and make the most of it. Um, of course, if you could help me out every now and then, Doctor... that would be best.",尾巴大是天生的，强大又帅气是天生的，脑袋好也是天生的。既然没法选择出身，就怀抱着自己的独特生活下去吧。唔，当然博士您偶尔能帮帮我的话……是最好啦。,"Кто-то рождается сильным и статным, кто-то — умным. А я — с большим хвостом... Раз не выбирают, кем родиться, надо жить со своей особенностью и радоваться ей. Э-э, конечно, если бы вы, Доктор, иногда мне помогали... было бы совсем хорошо."
+char_411_tomimi_CN_007,Talk after Trust Increase 1,"I understand Gavial skipping work, but why would she skip a meal? Could something be bothering her so much that even she has to hide? And no one else even noticed. I'm the only one who can save her! Ah, Doctor, good thing you're here. Can you help me with something?",嘉维尔会旷工我是可以理解的，但她怎么会旷餐呢？是有什么东西让她困惑，害得她不得不躲起来吗？别人好像都没发现，能救她的只有我了！啊博士您在啊，能帮我一个忙吗？,"Я понимаю, почему Гавиал прогуливает работу, но почему она пропускает обед? Может, что-то её до сих пор тревожит и ей приходится прятаться? Никто, кроме меня, не заметил. Только я могу её спасти! А, Доктор, вы здесь. Помогите мне, ладно?"
+char_411_tomimi_CN_008,Talk after Trust Increase 2,"Are you sure you want to see what's inside my backpack? Okay... I haven't organized it in a while so it might be kind of messy. Let's see… An amber wrapped in a leaf. A loose fang...? A bloodstained black crystal... and a stack of autographs?! Uh, Doctor, that's all for today! Sorry, but we're done here!",您真的要看吗，背包里东西可能会有点多哦？好吧，我也好久没清点过了。唔，我们来看看：包裹着树叶的琥珀、一颗牙齿？一块带血黑结晶……一沓签名？！博士您不能再看了！到此为止！,"Вы точно хотите смотреть, что у меня в рюкзаке? Ладно... Я давно не разбирала его, там наверняка беспорядок. Посмотрим... Янтарь, завёрнутый в лист. Выпавший зуб... Кусок чёрного кристалла с кровью... И пачка автографов?! Доктор, на сегодня хватит! Всё, больше не смотрите!"
+char_411_tomimi_CN_009,Talk after Trust Increase 3,"She shines with such brilliance that I can't help but stare, even as her flames scorch my eyes dry. That's my Gavial, she shines like the sun. Oh, by the way, I came across that passage in a book and thought it sounded nice, so I memorized it. It really fits Gavial, doesn't it?",能够引人直视，直到炽热的火焰烧干眼眶也不愿合上眼皮。嘉维尔她，大概就是这样闪耀的东西吧。哦对了，之前那段描述是我从书上看的，我觉得不错就背下来自己用了，还合适吧。,"Она сияет так ярко, что я не могу отвести взгляд, даже когда её пламя опаляет мне глаза. Вот такая Гавиал — сияет, как солнце. О, кстати, я вычитала это описание в книге, оно мне понравилось, и я его выучила. Подходит Гавиал, правда?"
+char_411_tomimi_CN_010,Idle,"I'll leave this dreamcatcher over here… May you have a pure and peaceful dream, Doctor.",捕梦网，就放这里吧，希望您有个干净舒适的好梦。,"Оставлю ловец снов здесь... Пусть у вас будет чистый и спокойный сон, Доктор."
+char_411_tomimi_CN_011,Onboard,"Hello, Doctor. Er, I'm not here to cause trouble. I'm here to… to... Study! Right, study. No reason for me to stay home alone if Gavial is here, right?",您好，博士。呃我不是来捣乱的，我是，嗯，学习，对，来学习的。嘉维尔都过来了，我也不好一个人待在家乡，对吧。,"Здравствуйте, Доктор. Э-э, я не хулиганить пришла. Я... учиться. Да, учиться. Раз Гавиал уже здесь, мне же нельзя одной оставаться в племени, правда?"
+char_411_tomimi_CN_012,Watching Battle Record,"Hmm... Maybe I should just practice on the battlefield, I guess…",还，还是上战场直接操练一下比较好，对吧。,"М-может, лучше сразу потренироваться на поле боя, да?"
+char_411_tomimi_CN_013,Promotion 1,"Thank you for giving me such a pretty badge, Doctor. What? It's a promotion badge? Ah, uh, y-you sure...? A-A-Am I really qualified to have this?",谢谢您送我这么好看的徽章，博士。嗯？唉，晋升奖章？啊，呃，呜呜……我，真的有资格拿吗？,"Спасибо за такую красивую медаль, Доктор. Что? Это медаль за повышение? А, э-э... я, правда, достойна её?"
+char_411_tomimi_CN_014,Promotion 2,"I'll be worthy of this flag one day, I swear I will.",我总有一天会配得上这面旗的，总有一天。,"Однажды я буду достойна этого флага, честно-честно."
+char_411_tomimi_CN_017,Added to Squad,"I'll watch and learn, Doctor. It would be great if I could actually master some of your skills…",让我学学看您的技巧，要是真能学会就好了。,"Дайте мне посмотреть на ваши приёмы, Доктор. Если бы я хоть что-то переняла..."
+char_411_tomimi_CN_018,Appointed as Squad Leader,You're leaving it to me? Really?,交给我吗，真的吗？,Мне? Правда?
+char_411_tomimi_CN_019,Depart,Let's go. We are gonna F… um… beat them up!,走了，打，嗯，打爆他们。,"Пошли, бьём, э-э, бьём их!"
+char_411_tomimi_CN_020,Begin Operation,"Wait, I'm not ready yet!",等一下，我还没准备好！,"Подождите, я ещё не готова!"
+char_411_tomimi_CN_021,Selecting Operator 1,"Please not me, please not me…",您没看见我，没看见我……,"Только не я, только не я..."
+char_411_tomimi_CN_022,Selecting Operator 2,Maybe I'll have a go…,试试看？,"Может, я попробую..."
+char_411_tomimi_CN_023,Deployment 1,H-Here I go!,上，上了！,Я-иду!
+char_411_tomimi_CN_024,Deployment 2,Who needs beating? Come over!,需要挨打的家伙，都站出来！,Кому нужна взбучка? Выходите!
+char_411_tomimi_CN_025,In Battle 1,"C-Come on, you can do this!",振作起来！,"Д-Давай, давай!"
+char_411_tomimi_CN_026,In Battle 2,"A little more, a little more!",再撑一会，再撑一会！,"Ещё чуть-чуть, ещё чуть-чуть!"
+char_411_tomimi_CN_027,In Battle 3,Haah!,哈！,Ха!
+char_411_tomimi_CN_028,In Battle 4,Wh-Who's next!,还有谁！,К-Кто следующий!
+char_411_tomimi_CN_029,4-star Result,"I got beaten like that before, by you, Doctor.",以前博士您就是这么暴打我的。,"Раньше вы, Доктор, вот так же меня и били."
+char_411_tomimi_CN_030,3-star Result,"We won, yay.",赢了呢。,"Мы победили, ура."
+char_411_tomimi_CN_031,Sub 3-star Result,"Phew, my back's sore. I need a break.",唔，背好酸，休息一下。,"Фух, спина болит. Отдохну."
+char_411_tomimi_CN_032,Operation Failure,I'm sorry... so sorry…,我……对不起……,Простите... простите...
+char_411_tomimi_CN_033,Assigned to Facility,Ah! Please don't throw that away yet. Can you leave it to me? I'll take care of it.,啊啊，这个还不能丢，请给我吧，我自己来处理。,"А! Это ещё нельзя выбрасывать, отдайте мне, я сама разберусь."
+char_411_tomimi_CN_034,Tap,M-My tail...,尾，尾巴……,Х-Хвост...
+char_411_tomimi_CN_036,Trust Tap,"Want to try Sargonian barbecue? I'll work the grill, you just enjoy the food, Doctor.",来尝尝萨尔贡土法烧烤好不好，我来烤，您吃就好。,"Хочешь попробовать саргонское барбекю? Я буду жарить, а ты, Доктор, просто ешь."
+char_411_tomimi_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_411_tomimi_CN_038,New Year's blessing,"If today's a holiday, does that mean I can take the day off? Haghhh… Oh, where's Gavial? Have you seen her, Doctor? If I've got a free day, of course I'm going to spend it with Gavial!",放假的话，是不是就可以休息了？呼啊——嘉维尔在哪里啊，博士您见到她了吗？今天没有事情做，当然要和嘉维尔待在一起啦！,"Если сегодня выходной — значит, можно отдохнуть? Ха-а... Где Гавиал, Доктор, вы её не видели? Раз сегодня свободный день, конечно же я проведу его с Гавиал!"
+char_411_tomimi_CN_042,Greeting,Hnngh... Doctor…,唔唔，博士。,"Ммм, Доктор..."
+char_411_tomimi_CN_043,Birthday,"Doctor! I brought you a birthday present! Umm... huh? Wh-Where did it go? I hid it behind my back so I could surprise you. How could it go missing...? Wahh… Oh! Here it is! It was stuck under my tail... Sorry about that, and happy birthday to you, Doctor. Hehe.",博士！我给您带来了生日礼物！……欸？怎么、怎么不见了？我明明藏在腰后面，准备拿出来当惊喜的！去哪里了，呜呜……啊！原来被夹到尾巴下面了，嘿嘿，博士，生日快乐！,"Доктор! Я принесла вам подарок на день рождения! Э-э? Куда он делся? Я же спрятала за спиной, чтобы сделать сюрприз... Как он мог пропасть, ууу... А! Он застрял под хвостом. Хе-хе, с днём рождения, Доктор."
+char_411_tomimi_CN_044,Anniversary Celebration,"Doctor, I got a paper slip from the fortune box, and it says if I say five positive words to a plant every day, it will grow even bigger. Let me try it with this one! Tail, backpack, barbecue, sweet dreams... And... Gavial. Hehe... Doctor! Why are you laughing at me?",博士，我在幸运箱里抽到了张纸条，上面写每天对植物说五个好词，它就会长得更好。这个盆栽，让我来试试！尾巴、背包、烧烤、好梦……嘉维尔。嘿嘿……博士！为什么笑我？,"Доктор, я вытянула из ящика удачи бумажку: если каждый день говорить растению пять хороших слов, оно вырастет ещё лучше. Давай попробуем на этом! Хвост, рюкзак, барбекю, добрые сны... Гавиал. Хе-хе... Доктор, почему вы надо мной смеётесь?"

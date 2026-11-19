@@ -1,33 +1,33 @@
-id,title,original,translation
-char_503_rang_CN_001,Appointed as Assistant,"Doctor, I greatly admire your genius. It's my honor to be your guard.",
-char_503_rang_CN_002,Talk 1,"A man of my experience can tell you'll be a great leader one day, Doctor.",
-char_503_rang_CN_003,Talk 2,"I have an unusual skin tone, you say? Hah. Just a souvenir from back when I snuck into a biolab, and... Please, I'm joking around.",
-char_503_rang_CN_004,Talk 3,"I need to wear this scarf, even when I sleep, or else my neck will get cold.",
-char_503_rang_CN_007,Talk after Trust Increase 1,"This face of mine might be a little too exotic for your typical townsfolk. Heh, I tend to draw a curious crowd when I wander.",
-char_503_rang_CN_008,Talk after Trust Increase 2,I'm surprised how polite you are to this old man! Not many besides Durin ask after my health.,
-char_503_rang_CN_009,Talk after Trust Increase 3,"When I go barefoot, I can sense enemies through their vibrations on the ground.",
-char_503_rang_CN_010,Idle,Hmm... Snoring is a bad habit. The other rangers will hear you.,
-char_503_rang_CN_011,Onboard,"I'm Rangers, the Sniper. Call whenever you need me.",
-char_503_rang_CN_012,Watching Battle Record,Not bad.,
-char_503_rang_CN_017,Added to Squad,"My turn, is it?",
-char_503_rang_CN_018,Appointed as Squad Leader,Good. Let me show you what an old man can do.,
-char_503_rang_CN_019,Depart,Let's get going.,
-char_503_rang_CN_020,Begin Operation,Prey spotted. Commence operation.,
-char_503_rang_CN_021,Selecting Operator 1,I'm waiting for orders.,
-char_503_rang_CN_022,Selecting Operator 2,What are your orders?,
-char_503_rang_CN_023,Deployment 1,Alright.,
-char_503_rang_CN_024,Deployment 2,Got it.,
-char_503_rang_CN_025,In Battle 1,Found you!,
-char_503_rang_CN_026,In Battle 2,Taste my arrow!,
-char_503_rang_CN_029,4-star Result,"Challenge after challenge. Exactly what we wanted. Right, Noir Corne?",
-char_503_rang_CN_030,3-star Result,What a satisfying battle!,
-char_503_rang_CN_031,Sub 3-star Result,A few of them got through. I'd call that decent.,
-char_503_rang_CN_032,Operation Failure,"Oh no, I'm out of breath...",
-char_503_rang_CN_033,Assigned to Facility,"If you need anything, just say the word.",
-char_503_rang_CN_034,Tap,"Urgh! Please, leave my tail be...",
-char_503_rang_CN_036,Trust Tap,"You like me that much, huh? Weird taste, I gotta say.",
-char_503_rang_CN_037,Title,Arknights.,
-char_503_rang_CN_038,New Year's blessing,"Doctor, it's been three hours, and the kiddos still clamoring for more of my stories. Talk to them, will ya...? The New Year always makes the young'uns so astonishingly lively. I can't compete with that…",
-char_503_rang_CN_042,Greeting,"Doctor, how can I help you?",
-char_503_rang_CN_043,Birthday,"I'm kinda too old to follow what you young'uns may want. But here's a little something I like. This scarf's made out of my favorite material, lightweight but warm. It will keep you cozy when it's cold, Doctor. Happy birthday.",
-char_503_rang_CN_044,Anniversary Celebration,"Retirement? Too soon for that. Not while I still eat five buns for breakfast. Once my appetite declines, then—and only then, will I find some place to bask in the sun. But for now, don't you worry.",
+id,title,original,original_zh,translation
+char_503_rang_CN_001,Appointed as Assistant,"Doctor, I greatly admire your genius. It's my honor to be your guard.",博士，老夫非常敬佩你的胆识，很荣幸担任你的护卫。,"Доктор, я глубоко восхищаюсь вашей смелостью. Для меня честь быть вашим телохранителем."
+char_503_rang_CN_002,Talk 1,"A man of my experience can tell you'll be a great leader one day, Doctor.",老夫不会看错人的，将来，博士您一定会成为一位出色的领导人。,"Я, старик, не ошибаюсь в людях: someday вы станете превосходным предводителем, Доктор."
+char_503_rang_CN_003,Talk 2,"I have an unusual skin tone, you say? Hah. Just a souvenir from back when I snuck into a biolab, and... Please, I'm joking around.",老夫我这样的体色很稀有吧？哈哈，那是在以前，潜入一间生化实验室的时候……哈，开玩笑的，开玩笑。,"Необычный у меня цвет кожи, говорите? Ха. Это сувенир с тех пор, как я проник в одну биологическую лабораторию... Ха, я же шучу, шучу."
+char_503_rang_CN_004,Talk 3,"I need to wear this scarf, even when I sleep, or else my neck will get cold.",老夫我睡觉的时候也得戴着这条围巾，不然脖子啊，会着凉的。,"Я, старик, ношу этот шарф даже во сне — иначе шея замерзает."
+char_503_rang_CN_007,Talk after Trust Increase 1,"This face of mine might be a little too exotic for your typical townsfolk. Heh, I tend to draw a curious crowd when I wander.",老夫这幅样貌，对一些偏僻小镇的居民来说实在是太稀奇了。呵，招来一些异样的目光也是没办法的事。,"Моя физиономия, может, слишком экзотична для жителей захолустных городков. Хи, когда я брожу, любопытные всегда собираются."
+char_503_rang_CN_008,Talk after Trust Increase 2,I'm surprised how polite you are to this old man! Not many besides Durin ask after my health.,没想到博士竟然这么在意老夫，除了杜林，可很少有人这样追问我平日里过的怎么样了。,"Не ожидал, что вы так заботитесь о старике! Кроме Дурина, мало кто расспрашивает, как я живу."
+char_503_rang_CN_009,Talk after Trust Increase 3,"When I go barefoot, I can sense enemies through their vibrations on the ground.",实际上，老夫光着脚，就能根据地面的振动幅度来测量敌人的距离，这样也能更容易掌握敌人的方位。,"Когда я хожу босиком, то чую врагов по сотрясениям земли — так проще измерить расстояние и понять, где они."
+char_503_rang_CN_010,Idle,Hmm... Snoring is a bad habit. The other rangers will hear you.,哈……打呼噜可不好，会被其他巡林者听见的。,Хм... Храпеть — дурная привычка. Другие смотрители леса услышат.
+char_503_rang_CN_011,Onboard,"I'm Rangers, the Sniper. Call whenever you need me.",狙击干员巡林者，等候差遣。,"Снайпер Рейнджерс, к вашим услугам."
+char_503_rang_CN_012,Watching Battle Record,Not bad.,真不错。,Недурно.
+char_503_rang_CN_017,Added to Squad,"My turn, is it?",轮到老夫我出场了吗？,"Моя очередь, выходит?"
+char_503_rang_CN_018,Appointed as Squad Leader,Good. Let me show you what an old man can do.,好，老夫我大展身手的时候到了。,"Ладно, покажу, на что способен старик."
+char_503_rang_CN_019,Depart,Let's get going.,出发了！,В путь!
+char_503_rang_CN_020,Begin Operation,Prey spotted. Commence operation.,我看到猎物了，作战开始。,Вижу добычу. Начинаем.
+char_503_rang_CN_021,Selecting Operator 1,I'm waiting for orders.,请您吩咐。,Жду приказаний.
+char_503_rang_CN_022,Selecting Operator 2,What are your orders?,有什么命令？,Каковы указания?
+char_503_rang_CN_023,Deployment 1,Alright.,好。,Ладно.
+char_503_rang_CN_024,Deployment 2,Got it.,知道了。,Понял.
+char_503_rang_CN_025,In Battle 1,Found you!,我看到你了！,Я вас вижу!
+char_503_rang_CN_026,In Battle 2,Taste my arrow!,尝尝老夫这一箭！,Получай мою стрелу!
+char_503_rang_CN_029,4-star Result,"Challenge after challenge. Exactly what we wanted. Right, Noir Corne?",无穷无尽的挑战哪，这正是咱们一直期望的不是吗，黑角？,"Вызовы без конца — именно этого мы и хотели, не правда ли, Нуар Корн?"
+char_503_rang_CN_030,3-star Result,What a satisfying battle!,真是一场酣畅淋漓的战斗！,Какая удовлетворяющая битва!
+char_503_rang_CN_031,Sub 3-star Result,A few of them got through. I'd call that decent.,有得有失，马马虎虎吧。,Кое-кто прорвался... Более-менее.
+char_503_rang_CN_032,Operation Failure,"Oh no, I'm out of breath...",糟糕啊……呼吸乱了……,"Ой, у меня дыхание сбилось..."
+char_503_rang_CN_033,Assigned to Facility,"If you need anything, just say the word.",想要老夫我做什么，请不必顾虑，尽管说。,"Если что понадобится — не стесняйтесь, говорите."
+char_503_rang_CN_034,Tap,"Urgh! Please, leave my tail be...",尾巴，可别拽断了。,Ох! Только не тяните за хвост...
+char_503_rang_CN_036,Trust Tap,"You like me that much, huh? Weird taste, I gotta say.",没想到您居然好这口。,"Вам я так нравлюсь? У вас странный вкус, скажу я."
+char_503_rang_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_503_rang_CN_038,New Year's blessing,"Doctor, it's been three hours, and the kiddos still clamoring for more of my stories. Talk to them, will ya...? The New Year always makes the young'uns so astonishingly lively. I can't compete with that…",博士，他们正吵着还要继续听老夫讲故事，帮忙劝劝吧，已经三个小时了啊……年轻人在新年这一天的活力果然非比寻常，比不了了……,"Доктор, уже три часа, а они всё просят старика рассказать ещё! Уговорите их, ладно?.. Молодёжь в Новый год необычайно оживлённая — мне не сравниться с ней."
+char_503_rang_CN_042,Greeting,"Doctor, how can I help you?",博士，有什么事？,"Доктор, чем могу помочь?"
+char_503_rang_CN_043,Birthday,"I'm kinda too old to follow what you young'uns may want. But here's a little something I like. This scarf's made out of my favorite material, lightweight but warm. It will keep you cozy when it's cold, Doctor. Happy birthday.",老夫已经不太知道你们年轻人喜欢什么了，就送点平常自己用得好的吧。这条围巾用的是老夫最喜欢的面料，又轻又暖和，天冷了就戴上，博士，生日快乐。,"Я уже не слишком разбираюсь, что нравится вам, молодым, — подарю то, что сам люблю. Этот шарф из моей любимой ткани: лёгкий, но тёплый. Наденьте, когда станет холодно, Доктор, с днём рождения."
+char_503_rang_CN_044,Anniversary Celebration,"Retirement? Too soon for that. Not while I still eat five buns for breakfast. Once my appetite declines, then—and only then, will I find some place to bask in the sun. But for now, don't you worry.",退休？还早呢，老夫现在早上也能吃得下五个包子，等什么时候胃口开始不好了，老夫再找个地方好好地晒太阳去吧，现在，不用担心。,"На пенсию? Рано. Я, старик, ещё и по пять булочек за завтраком съедаю. Вот когда аппетит испортится — тогда найду местечко и буду греться на солнышке. А пока не беспокойтесь."

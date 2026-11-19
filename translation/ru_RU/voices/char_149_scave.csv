@@ -1,39 +1,39 @@
-id,title,original,translation
-char_149_scave_CN_001,Appointed as Assistant,Better to get your job done first than wasting time on chitchat.,
-char_149_scave_CN_002,Talk 1,You'd better remember that failing to adapt makes you a useless burden.,
-char_149_scave_CN_003,Talk 2,"Work, eat, run, repeat. Big fricking whoop. Isn't that how life is for anyone these days?",
-char_149_scave_CN_004,Talk 3,My job was to take care of 'troubles' for my employers. Eventually they started to call me Scavenger.,
-char_149_scave_CN_005,Talk after Promotion 1,"Just like the two sides of a coin, no matter how splendid the face is, the backside is always stained with dirt.",
-char_149_scave_CN_006,Talk after Promotion 2,"I've adapted to this place really well since I joined? Pfft, rubbish. It's just that I've gotten used to working on the surface.",
-char_149_scave_CN_007,Talk after Trust Increase 1,"That's Provence, isn't it…? The wretched girl who got Infected while rescuing people from a Catastrophe... Look at that massive tail she's got...",
-char_149_scave_CN_008,Talk after Trust Increase 2,"You know, Doctor... I hated the idea of working with other people, at first. I figured our methods would clash. But at some point, I came to realize that's not the case.",
-char_149_scave_CN_009,Talk after Trust Increase 3,"If only she were still alive... Now all I can do is carry on alone, carrying her dreams on my back.",
-char_149_scave_CN_010,Idle,How can you sleep so soundly when you're defenseless…?,
-char_149_scave_CN_011,Onboard,I'm Scavenger. Leave the dirty work to me. Just pay me like my other employers and we'll be good.,
-char_149_scave_CN_012,Watching Battle Record,"No, it's not enough...",
-char_149_scave_CN_013,Promotion 1,This still isn't enough. I need to become stronger...,
-char_149_scave_CN_014,Promotion 2,"Thanks, Doctor. I feel like I have a reason to fight now.",
-char_149_scave_CN_017,Added to Squad,Do I need to quip just 'cause I joined the team?,
-char_149_scave_CN_018,Appointed as Squad Leader,Don't you hold me back.,
-char_149_scave_CN_019,Depart,Conceal yourselves so the enemy won't find you.,
-char_149_scave_CN_020,Begin Operation,"Hmph, time for a clean up.",
-char_149_scave_CN_021,Selecting Operator 1,Hurry up.,
-char_149_scave_CN_022,Selecting Operator 2,Are we doing this?,
-char_149_scave_CN_023,Deployment 1,Tch.,
-char_149_scave_CN_024,Deployment 2,I know what to do.,
-char_149_scave_CN_025,In Battle 1,Garbage.,
-char_149_scave_CN_026,In Battle 2,Keep writhing in the gutter!,
-char_149_scave_CN_027,In Battle 3,There is no turning back for you!,
-char_149_scave_CN_028,In Battle 4,You get no sympathy!,
-char_149_scave_CN_029,4-star Result,Gotta say that mission was a special one.,
-char_149_scave_CN_030,3-star Result,Hmph. They have only their own weakness to blame.,
-char_149_scave_CN_031,Sub 3-star Result,"Tch, some of them got away. I'm disappointed in you.",
-char_149_scave_CN_032,Operation Failure,Dammit! Screwed up again...,
-char_149_scave_CN_033,Assigned to Facility,Just give me a dark corner.,
-char_149_scave_CN_034,Tap,Argh! Let go of me!,
-char_149_scave_CN_036,Trust Tap,What? You want me to dispose of you too?,
-char_149_scave_CN_037,Title,Arknights.,
-char_149_scave_CN_038,New Year's blessing,"New Year's? Tsk, just another day, nothing different. But if you need a reminder, crowded places mean more stupid crap can happen, so don't get too lost in the fun, okay?",
-char_149_scave_CN_042,Greeting,You got a job for me?,
-char_149_scave_CN_043,Birthday,"I did use to take birthdays seriously... but who's out there still counting every year they live these days...? Whatever. If you'd like, I could wish for you to have fun today or something.",
-char_149_scave_CN_044,Anniversary Celebration,Ugh. Just waiting for you to clear out before I grab some cheese from in there. What? My job's never been anything but cleaning up the filthiest of places. Telling me my name's gonna show up on your honor roll?,
+id,title,original,original_zh,translation
+char_149_scave_CN_001,Appointed as Assistant,Better to get your job done first than wasting time on chitchat.,与其花时间在这里唠唠叨叨，还不如赶紧把手上的工作做完。,"Чем тратить время на болтовню, лучше поскорее закончить работу."
+char_149_scave_CN_002,Talk 1,You'd better remember that failing to adapt makes you a useless burden.,最好记住，适应不了恶劣环境的家伙，就只是单纯的累赘。,"Запомни: кто не приспособился к тяжёлым условиям, тот просто обуза."
+char_149_scave_CN_003,Talk 2,"Work, eat, run, repeat. Big fricking whoop. Isn't that how life is for anyone these days?",工作、糊口、逃亡，不断循环，没什么大不了的，这世道，大家不都一样吗？,"Работа, пропитание, побег — по кругу, и ничего особенного. В этом мире все так живут, не правда ли?"
+char_149_scave_CN_004,Talk 3,My job was to take care of 'troubles' for my employers. Eventually they started to call me Scavenger.,我的工作就是处理那些大人物的“麻烦事”，所以他们都叫我“清道夫”。,"Моя работа — убирать «проблемы» больших людей, поэтому меня и зовут Скавенджер."
+char_149_scave_CN_005,Talk after Promotion 1,"Just like the two sides of a coin, no matter how splendid the face is, the backside is always stained with dirt.",就像硬币有正反面一样，表面再怎么光鲜的东西，背面一定是无比肮脏的。,"Как у монеты две стороны: как ни блести лицевая, изнанка всегда грязная."
+char_149_scave_CN_006,Talk after Promotion 2,"I've adapted to this place really well since I joined? Pfft, rubbish. It's just that I've gotten used to working on the surface.",我看起来比刚来的时候适应多了？嘁，还有这回事！我只是渐渐习惯了在地面上工作而已。,"Кажется, я адаптировалась лучше, чем в начале? Ц-ц, не говорите глупостей! Я просто привыкла работать на поверхности."
+char_149_scave_CN_007,Talk after Trust Increase 1,"That's Provence, isn't it…? The wretched girl who got Infected while rescuing people from a Catastrophe... Look at that massive tail she's got...",那家伙就是普罗旺斯吧……说是因为进入天灾区救人，结果被感染的倒霉家伙什么的……唔，尾巴居然变得那么大了吗……,"Этот тип — Прованс, да?.. Та, что заразилась, когда ходила в зону Катастрофы спасать людей... Хм, хвост-то разросся..."
+char_149_scave_CN_008,Talk after Trust Increase 2,"You know, Doctor... I hated the idea of working with other people, at first. I figured our methods would clash. But at some point, I came to realize that's not the case.",知道吗，博士……我本来很讨厌所谓的合作关系，因为我觉得，我们一定不会喜欢彼此的做事方式。不过，不知道从什么时候开始，我发现，事情并非如此。,"Знаете, Доктор... сначала я ненавидела саму идею работать с другими — думала, наши методы обязательно столкнутся. Но с какого-то момента я обнаружила, что это не так."
+char_149_scave_CN_009,Talk after Trust Increase 3,"If only she were still alive... Now all I can do is carry on alone, carrying her dreams on my back.",如果她还活着的话……现在，我只能背负着她的愿望，独自活下去。,"Если бы она была жива... Сейчас я могу лишь жить дальше, неся её мечты на себе."
+char_149_scave_CN_010,Idle,How can you sleep so soundly when you're defenseless…?,……为什么这家伙能在完全不设防的地方睡着？,"...Как этот тип может засыпать, совсем не защитившись?"
+char_149_scave_CN_011,Onboard,I'm Scavenger. Leave the dirty work to me. Just pay me like my other employers and we'll be good.,我是清道夫，肮脏的工作我来做，你和那些家伙一样，只要付钱就行了。,"Я Скавенджер. Грязную работу сделаю я, а ты, как и те, просто плати."
+char_149_scave_CN_012,Watching Battle Record,"No, it's not enough...",还没有，还不够……,Ещё нет. Ещё мало...
+char_149_scave_CN_013,Promotion 1,This still isn't enough. I need to become stronger...,还不够，我必须变得更强才行……,Мало. Я должна стать сильнее...
+char_149_scave_CN_014,Promotion 2,"Thanks, Doctor. I feel like I have a reason to fight now.",谢谢你，博士。战斗的理由，我现在似乎弄清楚了一些。,"Спасибо, Доктор. Кажется, я начала понимать, ради чего сражаюсь."
+char_149_scave_CN_017,Added to Squad,Do I need to quip just 'cause I joined the team?,入队而已，必须要说点什么吗？,Ну вступила в отряд — неужели надо что-то говорить?
+char_149_scave_CN_018,Appointed as Squad Leader,Don't you hold me back.,你们，别拖我后腿。,"Вы двое, не тяните меня назад."
+char_149_scave_CN_019,Depart,Conceal yourselves so the enemy won't find you.,隐藏气息，别被敌人发现了！,"Скрывайте дыхание, чтобы враг не обнаружил нас!"
+char_149_scave_CN_020,Begin Operation,"Hmph, time for a clean up.",哼，垃圾扫除的时间到了。,Хмф. Время уборки мусора.
+char_149_scave_CN_021,Selecting Operator 1,Hurry up.,赶快。,Быстрее.
+char_149_scave_CN_022,Selecting Operator 2,Are we doing this?,要动手？,Начинаем?
+char_149_scave_CN_023,Deployment 1,Tch.,嘁。,Ц-ц.
+char_149_scave_CN_024,Deployment 2,I know what to do.,我会做的。,Я сделаю.
+char_149_scave_CN_025,In Battle 1,Garbage.,垃圾。,Мусор.
+char_149_scave_CN_026,In Battle 2,Keep writhing in the gutter!,在阴沟里挣扎吧！,Барахтайся в канаве!
+char_149_scave_CN_027,In Battle 3,There is no turning back for you!,你已经没法回头了！,Тебе уже не вернуться!
+char_149_scave_CN_028,In Battle 4,You get no sympathy!,没人可怜你！,Тебя никто не пожалеет!
+char_149_scave_CN_029,4-star Result,Gotta say that mission was a special one.,真是一次意料之外的任务。,"Неожиданное задание, ничего не скажешь."
+char_149_scave_CN_030,3-star Result,Hmph. They have only their own weakness to blame.,这样的结果，要怪就怪他们自己太过弱小。,В этом результате виноваты только они сами — слишком слабые.
+char_149_scave_CN_031,Sub 3-star Result,"Tch, some of them got away. I'm disappointed in you.",嘁，放走了好几个人。如果你的指挥只有这种程度，算我白期待了。,"Ц-ц, несколько человек ушли. Если ты командуешь только так, то я зря ожидала большего."
+char_149_scave_CN_032,Operation Failure,Dammit! Screwed up again...,可恶！又搞砸了……,Чёрт! Опять облажалась...
+char_149_scave_CN_033,Assigned to Facility,Just give me a dark corner.,给我个阴暗的角落就行。,Дайте мне тёмный угол — и хватит.
+char_149_scave_CN_034,Tap,Argh! Let go of me!,唔呃！放开我！,Аргх! Отпусти!
+char_149_scave_CN_036,Trust Tap,What? You want me to dispose of you too?,你也想被“清理”一下吗？,"Ты тоже хочешь, чтобы тебя «почистили»?"
+char_149_scave_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_149_scave_CN_038,New Year's blessing,"New Year's? Tsk, just another day, nothing different. But if you need a reminder, crowded places mean more stupid crap can happen, so don't get too lost in the fun, okay?",新年？和平时没什么区别的一天罢了。如果需要我提醒你的话，人多的地方麻烦也多，最好别玩得太开心。,"Новый год? Обычный день, ничего больше. Если хочешь напоминания: где много народу — там и неприятностей много, так что не веселись слишком."
+char_149_scave_CN_042,Greeting,You got a job for me?,有任务？,Есть работа?
+char_149_scave_CN_043,Birthday,"I did use to take birthdays seriously... but who's out there still counting every year they live these days...? Whatever. If you'd like, I could wish for you to have fun today or something.",我确实曾经把生日当一回事……不过现在，谁要一年一年认真数自己活着的日子？你喜欢的话，就祝你今天过得开心好了。,Раньше я и правда относилась к дням рождения серьёзно... Но сейчас кто станет год за годом считать прожитые дни? Хочешь — желаю тебе сегодня хорошо провести время.
+char_149_scave_CN_044,Anniversary Celebration,Ugh. Just waiting for you to clear out before I grab some cheese from in there. What? My job's never been anything but cleaning up the filthiest of places. Telling me my name's gonna show up on your honor roll?,嘁，我只是在等你们散场，然后我来拿点奶酪，怎么了？我从来只负责打扫那些最脏的地方，难道你们的表彰名单里会有我的名字吗？,"Ц-ц, я просто ждала, пока вы разойдётесь, чтобы взять немного сыра. Что? Я всегда убирала только самые грязные места — неужели моё имя появится в вашем списке награждённых?"

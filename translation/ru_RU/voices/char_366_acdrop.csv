@@ -1,39 +1,39 @@
-id,title,original,translation
-char_366_acdrop_CN_001,Appointed as Assistant,"No problem, Doctor. I've got your back.",
-char_366_acdrop_CN_002,Talk 1,"How do I aim while I'm skatin'? It's a piece'a cake, no sweat. Wanna see? C'mere, put your hand on mine.",
-char_366_acdrop_CN_003,Talk 2,"Back in the day, me and my friends thought it was sick as hell to be different. But once I got infected, I found out that wasn't cool at all. You don't let a little Originium dust run your life, you gotta grab the wheel n' steer.",
-char_366_acdrop_CN_004,Talk 3,"An old cop taught me how to shoot a crossbow, n' his daughter threw in skateboardin' lessons. How'd I put 'em together? Pure street genius—straight up self-taught.",
-char_366_acdrop_CN_005,Talk after Promotion 1,"Don't get it twisted, skateboardin's just one of my jams... It's the first way I ever really found myself. But the good stuff comes after that. Wanna hear the whole story?",
-char_366_acdrop_CN_006,Talk after Promotion 2,"Why'd I wanna be a combat operator...? Doc, lemme ask you: what's the one thing us rowdy street kids really live for? Freedom, straight up. I'm cool to throw down for freedom, an' that's why I'm with Rhodes Island.",
-char_366_acdrop_CN_007,Talk after Trust Increase 1,"I'm real broken up about bein' Infected, y'know? Like that park mural I was sprayin'—left that one half-done. And I'm never gonna get those secret-recipe onion rings from that old cop again. Huh? That's all.",
-char_366_acdrop_CN_008,Talk after Trust Increase 2,"I came to Rhodes Island to get some help with this disease. Thought it'd be some sterile place that reeked of disinfectant, everyone all shut up in their rooms... But man was I surprised. Even though you don't allow tagging inside the cabins, that Ethan guy... Y'know what, never mind.",
-char_366_acdrop_CN_009,Talk after Trust Increase 3,"I figured out how to express myself with donut hamburger combos, skateboarding, and rap battles. What's your deal, Doctor? If you're feelin' burnt out, come kick it with me and Vigna. We'll... hang out. Hanging out is in our DNA. Gotta respect that.",
-char_366_acdrop_CN_010,Idle,"If you're tired, just go rest. I'll be here.",
-char_366_acdrop_CN_011,Onboard,"Aciddrop, Operator. This skateboard's a registered piece of equipment, got it? Any issues, just hit me up.",
-char_366_acdrop_CN_012,Watching Battle Record,"Damn, that's cool.",
-char_366_acdrop_CN_013,Promotion 1,"A promotion, huh? Thanks. Tryin' to remember the last time somethin' like this went down. Gotta be after I won the Crab Cup…",
-char_366_acdrop_CN_014,Promotion 2,The old man taught me to use a crossbow just so I could protect myself from the streets. Who woulda thought I'd end up usin' it to defend the freedom of the Infected.,
-char_366_acdrop_CN_017,Added to Squad,You got it.,
-char_366_acdrop_CN_018,Appointed as Squad Leader,Teamwork's an important part of scoring too.,
-char_366_acdrop_CN_019,Depart,Let's roll.,
-char_366_acdrop_CN_020,Begin Operation,Enemy sighted.,
-char_366_acdrop_CN_021,Selecting Operator 1,I'm right here.,
-char_366_acdrop_CN_022,Selecting Operator 2,"C'mon, how should I deal with these guys?",
-char_366_acdrop_CN_023,Deployment 1,Now I'm all pumped up.,
-char_366_acdrop_CN_024,Deployment 2,Some sweet terrain to ride.,
-char_366_acdrop_CN_025,In Battle 1,Ollie!,
-char_366_acdrop_CN_026,In Battle 2,Time to show off a bit.,
-char_366_acdrop_CN_027,In Battle 3,I'm over here.,
-char_366_acdrop_CN_028,In Battle 4,"Kickflip, then kick ass.",
-char_366_acdrop_CN_029,4-star Result,"Good work out there, Doctor... Oh, could you help me swap a couple of bolts when we get back?",
-char_366_acdrop_CN_030,3-star Result,That moment you clear a challenge always gets me all hyped up.,
-char_366_acdrop_CN_031,Sub 3-star Result,"Should we chase after 'em? If you ask me, I can still catch up.",
-char_366_acdrop_CN_032,Operation Failure,Ugh... Can't believe this amateur wipeout...,
-char_366_acdrop_CN_033,Assigned to Facility,"This looks perfect for a throw… Uh, I didn't say nothin'.",
-char_366_acdrop_CN_034,Tap,Wahh!,
-char_366_acdrop_CN_036,Trust Tap,"Wanna head to the canteen together? If I nail this trip without any wipeouts, promise you'll treat me to some juice.",
-char_366_acdrop_CN_037,Title,Arknights.,
-char_366_acdrop_CN_038,New Year's blessing,"Oh, Doctor, Happy New Year! We've got a block party in a bit. Why don't you come show off your moves? You could give breakdancin' a shot? It ain't that hard, I'll teach ya!",
-char_366_acdrop_CN_042,Greeting,"Hey, Doctor.",
-char_366_acdrop_CN_043,Birthday,"You're still working? Let's go get some exercise outside. Wait, you volunteered for overtime? Doctor, ain't no point in workin' this much. Life only begins once you clock out! C'mon, what do you wanna eat? It's on me.",
-char_366_acdrop_CN_044,Anniversary Celebration,"I used to skate to ditch class n' get away from the adults. Then, it was to lose the cops when I was out tagging. I said I did it in the name of freedom, but thinkin' back, I guess that was kinda selfish. We fight harder for other people's freedom than our own, don'tcha think? Like what we're doin' here.",
+id,title,original,original_zh,translation
+char_366_acdrop_CN_001,Appointed as Assistant,"No problem, Doctor. I've got your back.",没问题，博士，我就待在你身边。,"Без проблем, Доктор. Я рядом."
+char_366_acdrop_CN_002,Talk 1,"How do I aim while I'm skatin'? It's a piece'a cake, no sweat. Wanna see? C'mere, put your hand on mine.",滑行的时候瞄准？很简单啊，想学吗？来，扶着我的手。,"Прицелиться на ходу? Да легко. Хочешь, научу? Иди сюда, держи меня за руку."
+char_366_acdrop_CN_003,Talk 2,"Back in the day, me and my friends thought it was sick as hell to be different. But once I got infected, I found out that wasn't cool at all. You don't let a little Originium dust run your life, you gotta grab the wheel n' steer.",以前我和很多朋友一样都以标新立异为荣，等到真成了感染者，发现这一点也不酷。生活应该由自己掌握，而不是那么点源石粉尘。,"Раньше мы с друзьями гордились тем, что мы не как все. А когда я и правда стала инфицированной, оказалось, это совсем не круто. Жизнь надо держать в своих руках, а не отдавать горсточке ориджиниумовой пыли."
+char_366_acdrop_CN_004,Talk 3,"An old cop taught me how to shoot a crossbow, n' his daughter threw in skateboardin' lessons. How'd I put 'em together? Pure street genius—straight up self-taught.",用弩的技巧是个老警察教我的，滑板的技巧是他的女儿教我的，至于二者怎么结合起来的……这就叫无师自通吧。,"Стрелять из арбалета меня научил один старый коп, а кататься на скейтборде — его дочка. А как я это соединила... ну, сама дошла, называется."
+char_366_acdrop_CN_005,Talk after Promotion 1,"Don't get it twisted, skateboardin's just one of my jams... It's the first way I ever really found myself. But the good stuff comes after that. Wanna hear the whole story?",不要误会，滑板只是爱好的一部分……也是我找到自我的第一个途径，之后的精彩才是重头戏，想听吗？,"Не подумай, скейтборд — это лишь часть моих увлечений... Это был первый способ, которым я себя нашла. А всё самое интересное началось потом. Хочешь — расскажу?"
+char_366_acdrop_CN_006,Talk after Promotion 2,"Why'd I wanna be a combat operator...? Doc, lemme ask you: what's the one thing us rowdy street kids really live for? Freedom, straight up. I'm cool to throw down for freedom, an' that's why I'm with Rhodes Island.",为什么要成为作战干员……？博士，你觉得那些嘻嘻哈哈的“街头混混”最看重的是什么？当然是自由，我乐意为自由而战，所以我为罗德岛而战。,"Почему я стала боевым оперативником?.. Доктор, а как думаешь, что дороже всего для таких весёлых «уличных хулиганов», как я? Конечно, свобода. Я с радостью буду за неё драться — поэтому я и с Родосом."
+char_366_acdrop_CN_007,Talk after Trust Increase 1,"I'm real broken up about bein' Infected, y'know? Like that park mural I was sprayin'—left that one half-done. And I'm never gonna get those secret-recipe onion rings from that old cop again. Huh? That's all.",成为感染者的遗憾有很多，比如我在公园的涂鸦才刚到一半，比如现在吃不到那个老警察独家配方的洋葱圈，嗯？仅此而已哦。,"Из-за того, что я стала инфицированной, я много чего лишилась. Например, граффити в парке осталось наполовину готовым. И больше не отведать луковых колечек по секретному рецепту того старого копа. А? Это и всё."
+char_366_acdrop_CN_008,Talk after Trust Increase 2,"I came to Rhodes Island to get some help with this disease. Thought it'd be some sterile place that reeked of disinfectant, everyone all shut up in their rooms... But man was I surprised. Even though you don't allow tagging inside the cabins, that Ethan guy... Y'know what, never mind.",我是抱着治病的心态来到罗德岛的，本来以为会是个到处都是消毒水味，也不让人随意走动的地方……结果还真出乎预料，就是舰内不允许涂鸦，不过伊桑他……不，没什么。,"Я пришла на Родос, чтобы вылечиться. Думала, будет место, где везде пахнет антисептиком и никого никуда не пускают... Ан нет, удивила я вас. Разве что рисовать на стенах внутри корабля нельзя. Но этот Итан... Да ладно, неважно."
+char_366_acdrop_CN_009,Talk after Trust Increase 3,"I figured out how to express myself with donut hamburger combos, skateboarding, and rap battles. What's your deal, Doctor? If you're feelin' burnt out, come kick it with me and Vigna. We'll... hang out. Hanging out is in our DNA. Gotta respect that.",我在汉堡甜甜圈套餐，滑板和街舞比赛里找到了解放自己的方法，你呢，博士？太累了的话，来找我和红豆她们，就当……玩耍吧。玩耍是天性，是很重要的。,"Я нашла способ выразить себя в гамбургерах с пончиками, скейтборде и битвах брейк-данса. А ты, Доктор? Если совсем вымотался, заходи ко мне и к Винье с девчонками — просто... поводыряемся. Играть — это наша натура, и это важно."
+char_366_acdrop_CN_010,Idle,"If you're tired, just go rest. I'll be here.",累了就休息吧，还有我在。,Устал — отдыхай. Я здесь.
+char_366_acdrop_CN_011,Onboard,"Aciddrop, Operator. This skateboard's a registered piece of equipment, got it? Any issues, just hit me up.",干员，酸糖，这块滑板是登记的装备，嗯，有什么问题尽管交给我吧。,"Оперативник Эйсиддроп. Этот скейт — зарегистрированное снаряжение, понял? Если что-то не так — говори мне."
+char_366_acdrop_CN_012,Watching Battle Record,"Damn, that's cool.",还真酷。,"Ничего себе, круто."
+char_366_acdrop_CN_013,Promotion 1,"A promotion, huh? Thanks. Tryin' to remember the last time somethin' like this went down. Gotta be after I won the Crab Cup…",晋升吗，谢谢你。上一次这样还是在磐蟹杯上拿奖的时候吧。,"Повышение? Спасибо. В последний раз так было, когда я выиграла Крабовый кубок, кажется..."
+char_366_acdrop_CN_014,Promotion 2,The old man taught me to use a crossbow just so I could protect myself from the streets. Who woulda thought I'd end up usin' it to defend the freedom of the Infected.,那个老家伙教我用弩的初衷只是在混乱的街区里保护自己，谁想得到会有这一天呢，为感染者自由而战的这一天。,"Тот старик научил меня арбалету только для того, чтобы я могла защитить себя в беспокойном районе. Кто бы подумал, что дойдёт до такого дня — дня, когда я буду сражаться за свободу инфицированных."
+char_366_acdrop_CN_017,Added to Squad,You got it.,得令。,Поняла!
+char_366_acdrop_CN_018,Appointed as Squad Leader,Teamwork's an important part of scoring too.,团队合作也是得分的重点。,Командная работа тоже идёт в счёт.
+char_366_acdrop_CN_019,Depart,Let's roll.,出发。,Поехали.
+char_366_acdrop_CN_020,Begin Operation,Enemy sighted.,发现敌人。,Вижу противника.
+char_366_acdrop_CN_021,Selecting Operator 1,I'm right here.,我在这。,Я здесь.
+char_366_acdrop_CN_022,Selecting Operator 2,"C'mon, how should I deal with these guys?",说吧，怎么对付他们？,"Ну, как нам с ними справиться?"
+char_366_acdrop_CN_023,Deployment 1,Now I'm all pumped up.,真让人跃跃欲试啊。,Аж руки чешутся.
+char_366_acdrop_CN_024,Deployment 2,Some sweet terrain to ride.,漂亮的地形。,Классная трасса.
+char_366_acdrop_CN_025,In Battle 1,Ollie!,跳吧！,Прыгай!
+char_366_acdrop_CN_026,In Battle 2,Time to show off a bit.,炫技时间。,Время показать класс.
+char_366_acdrop_CN_027,In Battle 3,I'm over here.,我在这儿喔。,"Я тут, я!"
+char_366_acdrop_CN_028,In Battle 4,"Kickflip, then kick ass.",空翻，然后命中。,Сальто — и прямо в цель.
+char_366_acdrop_CN_029,4-star Result,"Good work out there, Doctor... Oh, could you help me swap a couple of bolts when we get back?",辛苦了，博士……啊，回去之后陪我换两颗螺丝钉吧？,"Молодец, Доктор... Ой, когда вернёмся, помоги мне поменять пару болтиков, ладно?"
+char_366_acdrop_CN_030,3-star Result,That moment you clear a challenge always gets me all hyped up.,挑战成功的瞬间永远是最有自豪感的，对吧？,"Момент, когда ты берёшь препятствие, — всегда самый гордый, правда?"
+char_366_acdrop_CN_031,Sub 3-star Result,"Should we chase after 'em? If you ask me, I can still catch up.",要追吗？我的话，追得上。,Будем догонять? Я-то догоню.
+char_366_acdrop_CN_032,Operation Failure,Ugh... Can't believe this amateur wipeout...,唔，这种低级的动作失误……,"Эх, такой глупый провал..."
+char_366_acdrop_CN_033,Assigned to Facility,"This looks perfect for a throw… Uh, I didn't say nothin'.",这块墙很适合……不，我什么都没说。,"Эта стенка как раз для... Нет, я ничего не сказала."
+char_366_acdrop_CN_034,Tap,Wahh!,唔哇！,Уаа!
+char_366_acdrop_CN_036,Trust Tap,"Wanna head to the canteen together? If I nail this trip without any wipeouts, promise you'll treat me to some juice.",要一起去小卖部吗？如果路上我没有一次失误，请我喝果汁。,Пойдём в столовую? Если по дороге я ни разу не упаду — угости меня соком.
+char_366_acdrop_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_366_acdrop_CN_038,New Year's blessing,"Oh, Doctor, Happy New Year! We've got a block party in a bit. Why don't you come show off your moves? You could give breakdancin' a shot? It ain't that hard, I'll teach ya!",啊，博士，新年快乐！一会儿我们还有个街头聚会，你也该来试试身手了吧？这次就尝试一下街舞怎么样？不难的，我教你！,"Ой, Доктор, с Новым годом! Скоро у нас тут уличная тусовка — пора бы и тебе показать, на что ты способен. Давай-ка попробуй брейк-данс? Это нетрудно, я тебя научу!"
+char_366_acdrop_CN_042,Greeting,"Hey, Doctor.",哟，博士。,"Йо, Доктор."
+char_366_acdrop_CN_043,Birthday,"You're still working? Let's go get some exercise outside. Wait, you volunteered for overtime? Doctor, ain't no point in workin' this much. Life only begins once you clock out! C'mon, what do you wanna eat? It's on me.",今天还在工作啊？走吧，一起出去活动活动。你是自愿加班的？博士，工作到这种程度就没必要了，下班时间才是真正的人生嘛！想吃什么？今天我请你！,"Всё ещё работаешь? Пойдём, разомнёмся. Ты сам вызвался сверхурочно? Доктор, до такого работать — уже перебор. Настоящая жизнь начинается после работы! Чего хочешь съесть? Сегодня я угощаю!"
+char_366_acdrop_CN_044,Anniversary Celebration,"I used to skate to ditch class n' get away from the adults. Then, it was to lose the cops when I was out tagging. I said I did it in the name of freedom, but thinkin' back, I guess that was kinda selfish. We fight harder for other people's freedom than our own, don'tcha think? Like what we're doin' here.",我之前滑滑板是为了逃补习班躲大人，后来是为了涂鸦甩开警察，当时说是为了自由，其实现在想来还是有些任性的。真正的自由应该是为了更多人而奋斗，对吧？就像我们现在做的事一样。,"Раньше я каталась, чтобы сбежать с дополнительных занятий и от взрослых, потом — чтобы уйти от копов, когда рисовала граффити. Я говорила, что ради свободы, а сейчас, оглядываясь, вижу: это был каприз. Настоящая свобода — когда ты борешься за других, правда? Как то, что мы делаем сейчас."

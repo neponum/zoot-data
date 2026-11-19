@@ -1,39 +1,39 @@
-id,title,original,translation
-char_150_snakek_CN_001,Appointed as Assistant,"Here I am! What should we play, baseball or board games? Oh, you're working?",
-char_150_snakek_CN_002,Talk 1,"Where was I born, you ask? Well, umm...no idea. But that doesn't matter, right?",
-char_150_snakek_CN_003,Talk 2,"Hello, Professor Rhodes Island! Wait, am I calling you by the right name?...",
-char_150_snakek_CN_004,Talk 3,"Hm, what's my assignment today? To capture some long, sleek animals?",
-char_150_snakek_CN_005,Talk after Promotion 1,"Hey! Don't knock on my backpack! Oh, sorry, I'm not mad, I'm just worried. If you're not careful, you could hurt your hand! Here, let me show you how it's done.",
-char_150_snakek_CN_006,Talk after Promotion 2,"If anyone dares to hurt you, I'll smash them with my baseball bat. Oh, uh... so... there really are people who hurt you? Um... actually, I'm not that good at fighting, hehe…",
-char_150_snakek_CN_007,Talk after Trust Increase 1,"I love spending the whole day just walking down the street. I get to watch the people, enjoy the sunshine, and then… lose my way!",
-char_150_snakek_CN_008,Talk after Trust Increase 2,"You've been treating my sickness, and you gave me a place to live... you're really so kind...",
-char_150_snakek_CN_009,Talk after Trust Increase 3,"Doctor, are you my big brother? Or big sister?... Well, doesn't matter! I'm not leaving you, even if you throw me out! It's not like I can walk far anyway.",
-char_150_snakek_CN_010,Idle,"Oh, the Doctor is busy. I'll just play by myself then...",
-char_150_snakek_CN_011,Onboard,Hm? Where am I? Who am I?,
-char_150_snakek_CN_012,Watching Battle Record,I can make myself super tough! It's my only special skill!,
-char_150_snakek_CN_013,Promotion 1,"Promotion? What's a promotion?... Whatever, let's play for a bit longer! You and me, together!",
-char_150_snakek_CN_014,Promotion 2,"New position or not, I don't really care. All I want is to be by your side every day. Can you grant this tiny wish of mine?",
-char_150_snakek_CN_017,Added to Squad,I've got lots of friends here!,
-char_150_snakek_CN_018,Appointed as Squad Leader,"Everybody, let's go!",
-char_150_snakek_CN_019,Depart,We'll be fine if we stick together!,
-char_150_snakek_CN_020,Begin Operation,"Everyone, let's play!",
-char_150_snakek_CN_021,Selecting Operator 1,I'm here~!,
-char_150_snakek_CN_022,Selecting Operator 2,Doctor!,
-char_150_snakek_CN_023,Deployment 1,Ora ora!,
-char_150_snakek_CN_024,Deployment 2,"Hey, dummies, bring it on!",
-char_150_snakek_CN_025,In Battle 1,Muda muda muda muda!,
-char_150_snakek_CN_026,In Battle 2,"C'mon, show me what you got!",
-char_150_snakek_CN_027,In Battle 3,This is my playground!,
-char_150_snakek_CN_028,In Battle 4,I won't back down!,
-char_150_snakek_CN_029,4-star Result,Was that tough? Didn't feel much different from any other battle.,
-char_150_snakek_CN_030,3-star Result,Homerun!,
-char_150_snakek_CN_031,Sub 3-star Result,Safe!,
-char_150_snakek_CN_032,Operation Failure,Aww... struck out…,
-char_150_snakek_CN_033,Assigned to Facility,"Just don't throw fireballs at me, okay?",
-char_150_snakek_CN_034,Tap,"Wow, fun!",
-char_150_snakek_CN_036,Trust Tap,Hey Doctor! Can we play a little bit longer? Just a little bit!,
-char_150_snakek_CN_037,Title,Arknights.,
-char_150_snakek_CN_038,New Year's blessing,"Happy new year, Doctor! I'm looking for the place I was first found. It's somewhere around on the deck. Was it here… or there?... Hm? Why am I looking for it? Because I was actually having a cozy nap when you guys found me. The sunshine was so warm... And I want to take a nap like that again! Hehe...",
-char_150_snakek_CN_042,Greeting,Heya! Doctor!,
-char_150_snakek_CN_043,Birthday,"Hey, hey, Doctor! Happy birthday! These are for you: this baseball bat, these mitts, and this baseball! Come on, let's play!... You still got work to do? You're working on your birthday? Can't you take a day off? Aww…",
-char_150_snakek_CN_044,Anniversary Celebration,"Hehe, they're all busy having fun outside! I'm gonna pack up my bag a little, then get out and return with cool stuff loaded on my back! What's in my bag? A baseball, pair of mitts, and… Doctor, just between you and me, and promise to keep it from the Medical Department—I also got some snacks in there!",
+id,title,original,original_zh,translation
+char_150_snakek_CN_001,Appointed as Assistant,"Here I am! What should we play, baseball or board games? Oh, you're working?",我来啦！棒球和桌上游戏，挑一个来玩吧？诶？工作中？,Я здесь! Во что поиграем — в бейсбол или в настольные игры? Эй? Ты работаешь?
+char_150_snakek_CN_002,Talk 1,"Where was I born, you ask? Well, umm...no idea. But that doesn't matter, right?",你问我，我是在哪儿出生的？唔，嗯……不太清楚。管它呢！,"Ты спрашиваешь, где я родилась? Мм, э-э... не знаю. Да всё равно!"
+char_150_snakek_CN_003,Talk 2,"Hello, Professor Rhodes Island! Wait, am I calling you by the right name?...",你好，罗德岛老师！嗯……好像你不是叫这个名字？,"Здравствуй, профессор Родос! Мм... кажется, тебя зовут как-то иначе?"
+char_150_snakek_CN_004,Talk 3,"Hm, what's my assignment today? To capture some long, sleek animals?",唔，我今天的工作是什么来着？是不是要抓一些细长的生物？,"Мм, какая у меня работа сегодня? Поймать каких-то длинных и скользких зверьков?"
+char_150_snakek_CN_005,Talk after Promotion 1,"Hey! Don't knock on my backpack! Oh, sorry, I'm not mad, I'm just worried. If you're not careful, you could hurt your hand! Here, let me show you how it's done.",不行！不要敲我的背包！啊，对不起，我不是冲你生气，不小心一点的话，手会受伤的。让我来给你演示一下！,"Не надо! Не стучи по моему рюкзаку! Ой, прости, я не на тебя сержусь — просто если не быть осторожным, можно поранить руку. Давай я тебе покажу, как надо!"
+char_150_snakek_CN_006,Talk after Promotion 2,"If anyone dares to hurt you, I'll smash them with my baseball bat. Oh, uh... so... there really are people who hurt you? Um... actually, I'm not that good at fighting, hehe…",以后谁要是敢欺负你，我就用球棍扁他们！呃，还、还真有？其实我对打架不太在行，嘿嘿……,"Если кто-нибудь посмеет тебя обидеть, я изобью его битой! Э-э... так, а обижать тебя и правда кто-то пытается? На самом деле я не очень-то умею драться, хи-хи..."
+char_150_snakek_CN_007,Talk after Trust Increase 1,"I love spending the whole day just walking down the street. I get to watch the people, enjoy the sunshine, and then… lose my way!",我啊，喜欢花一天时间从街头走到街尾，一边晒太阳一边观察行人，然后……然后就迷路啦！,"Я обожаю целыми днями гулять по улице от начала до конца: греюсь на солнышке, наблюдаю за прохожими, а потом... потом я заблуждаюсь!"
+char_150_snakek_CN_008,Talk after Trust Increase 2,"You've been treating my sickness, and you gave me a place to live... you're really so kind...",帮我看病，还给我住的地方，博士真是个好人……,"Ты лечишь меня и дал мне кров... Доктор, ты и правда очень добрый..."
+char_150_snakek_CN_009,Talk after Trust Increase 3,"Doctor, are you my big brother? Or big sister?... Well, doesn't matter! I'm not leaving you, even if you throw me out! It's not like I can walk far anyway.",博士是我的哥哥？还是姐姐？没关系，哪种都行！……就算你赶我走，我也是不会离开的！反正我也走不了多远嘛。,"Доктор — ты мне брат или сестра? Всё равно, кем бы ни был! Я не уйду от тебя, даже если ты меня прогонишь! Всё равно я и так недалеко уйду."
+char_150_snakek_CN_010,Idle,"Oh, the Doctor is busy. I'll just play by myself then...",博士没时间理我，我一个人玩会儿吧……,Доктору некогда со мной... поиграю-ка я одна...
+char_150_snakek_CN_011,Onboard,Hm? Where am I? Who am I?,欸？这里是什么地方？我是谁？,Эй? Где я? Кто я?
+char_150_snakek_CN_012,Watching Battle Record,I can make myself super tough! It's my only special skill!,变硬！除了变硬我什么都不会！,Твердею! Больше я ничего не умею!
+char_150_snakek_CN_013,Promotion 1,"Promotion? What's a promotion?... Whatever, let's play for a bit longer! You and me, together!",晋升？我不懂啊……比起这个，再玩一会儿吧，我们两个一起！！,"Повышение? Не понимаю... Лучше поиграем ещё немного, вдвоём!"
+char_150_snakek_CN_014,Promotion 2,"New position or not, I don't really care. All I want is to be by your side every day. Can you grant this tiny wish of mine?",博士博士，我不在乎什么新职位哦，我只要每天都有博士陪伴着我就好了，你能答应我吗？,"Доктор, Доктор, мне не важно, какая будет должность. Я хочу только одного — чтобы ты каждый день был рядом. Ты можешь мне это пообещать?"
+char_150_snakek_CN_017,Added to Squad,I've got lots of friends here!,有很多朋友在这里呢！,Здесь столько друзей!
+char_150_snakek_CN_018,Appointed as Squad Leader,"Everybody, let's go!",大家一起出发吧！,"Все вместе, вперёд!"
+char_150_snakek_CN_019,Depart,We'll be fine if we stick together!,大家一起的话，一定没问题的！,Если мы вместе — всё получится!
+char_150_snakek_CN_020,Begin Operation,"Everyone, let's play!",大家一起玩吧！,Давайте все играть вместе!
+char_150_snakek_CN_021,Selecting Operator 1,I'm here~!,是——,Я здесь~!
+char_150_snakek_CN_022,Selecting Operator 2,Doctor!,博士！,Доктор!
+char_150_snakek_CN_023,Deployment 1,Ora ora!,来吧来吧！,Давай-давай!
+char_150_snakek_CN_024,Deployment 2,"Hey, dummies, bring it on!",你们这些笨蛋！我才是你们的对手！,"Эй, болваны, я — ваш противник!"
+char_150_snakek_CN_025,In Battle 1,Muda muda muda muda!,没用没用没用！,Бесполезно! Бесполезно! Бесполезно!
+char_150_snakek_CN_026,In Battle 2,"C'mon, show me what you got!",来陪我玩玩吧！,"Ну же, покажи, на что ты способен!"
+char_150_snakek_CN_027,In Battle 3,This is my playground!,这是我的主场！,Это моя площадка!
+char_150_snakek_CN_028,In Battle 4,I won't back down!,绝对不会后退的！,Ни за что не отступлю!
+char_150_snakek_CN_029,4-star Result,Was that tough? Didn't feel much different from any other battle.,很难吗？感觉和平时的战斗也没什么区别啊？,"Трудно было? Мне показалось, как в обычном бою."
+char_150_snakek_CN_030,3-star Result,Homerun!,全垒打！！,Хоум-ран!!
+char_150_snakek_CN_031,Sub 3-star Result,Safe!,安打！,Хит!
+char_150_snakek_CN_032,Operation Failure,Aww... struck out…,呜啊啊啊啊……出局了…,А-а-а... аут...
+char_150_snakek_CN_033,Assigned to Facility,"Just don't throw fireballs at me, okay?",别用火球打我哦？,"Только не бей меня огненным шаром, ладно?"
+char_150_snakek_CN_034,Tap,"Wow, fun!",哇，好玩！,"Ого, весело!"
+char_150_snakek_CN_036,Trust Tap,Hey Doctor! Can we play a little bit longer? Just a little bit!,博士，博士！再稍微玩一会儿吧？就一小会儿！,"Доктор, Доктор! Ещё чуть-чуть поиграем? Совсем немного!"
+char_150_snakek_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_150_snakek_CN_038,New Year's blessing,"Happy new year, Doctor! I'm looking for the place I was first found. It's somewhere around on the deck. Was it here… or there?... Hm? Why am I looking for it? Because I was actually having a cozy nap when you guys found me. The sunshine was so warm... And I want to take a nap like that again! Hehe...",新年快乐，博士！我在找最开始被发现的那块甲板。是这里呢，还是那里呢？为什么要找？因为那天的午觉睡得真的好舒服啊……太阳暖暖的，我还想再睡一遍！嘿嘿……,"С Новым годом, Доктор! Я ищу то место, где меня нашли в первый раз. Где-то здесь, на палубе. Тут... или там? Мм? Почему ищу? Да потому что в тот день я так славно спала, когда вы меня нашли! Солнышко было такое тёплое — хочется ещё разок поспать вот так! Хи-хи..."
+char_150_snakek_CN_042,Greeting,Heya! Doctor!,博士！你好！,Доктор! Привет!
+char_150_snakek_CN_043,Birthday,"Hey, hey, Doctor! Happy birthday! These are for you: this baseball bat, these mitts, and this baseball! Come on, let's play!... You still got work to do? You're working on your birthday? Can't you take a day off? Aww…",博士博士，生日快乐！送你一副棒球棒，还有手套，还有棒球！来来，跟我一起玩吧！工作？今天为什么还要工作呀，博士的生日不放假吗？嗯……,"Доктор, Доктор, с днём рождения! Дарю тебе бейсбольную биту, варежки и мяч! Давай, играй со мной! Работа? Почему ты работаешь в свой день рождения, Доктор? Разве в такой день не выходной? Мм..."
+char_150_snakek_CN_044,Anniversary Celebration,"Hehe, they're all busy having fun outside! I'm gonna pack up my bag a little, then get out and return with cool stuff loaded on my back! What's in my bag? A baseball, pair of mitts, and… Doctor, just between you and me, and promise to keep it from the Medical Department—I also got some snacks in there!",嘿嘿，今天外面特别热闹，我要整理一下背包装点好玩的东西回来！包里都放了些什么？棒球，手套，还有……博士，我悄悄地告诉你，你不能告诉医疗部的哥哥姐姐们哦！还、还有零食啦！,"Хи-хи, сегодня снаружи так весело! Я сейчас соберу рюкзак и пойду набирать всяких интересных штук! Что там лежит? Бейсбольный мяч, варежки и... Доктор, я тебе шепотом, только не говори дядям и тётям из медотдела! Там ещё... там ещё и всякие лакомства!"

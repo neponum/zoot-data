@@ -1,39 +1,39 @@
-id,title,original,translation
-char_356_broca_CN_001,Appointed as Assistant,Stand guard? How annoying... Fine.,
-char_356_broca_CN_002,Talk 1,That Amiya girl is one of this place's leaders? What a black-hearted company Rhodes Island is.,
-char_356_broca_CN_003,Talk 2,I'm not about to freeload here. Just let me know if you need some elbow grease.,
-char_356_broca_CN_004,Talk 3,"I have nothing against taking orders, but I don't like fighting without knowing why I'm doing it.",
-char_356_broca_CN_005,Talk after Promotion 1,"My hobbies? Why should I tell you? Ugh... Alright, alright, I'll tell you. Just stop making that face... I like tinkering.",
-char_356_broca_CN_006,Talk after Promotion 2,"Without Chiave and Aosta, I'd be a corpse in an alley. I owe them my life. So no matter what they want, I'll help them without a second thought.",
-char_356_broca_CN_007,Talk after Trust Increase 1,"I don't hate you, but... I find it difficult to fully trust you.",
-char_356_broca_CN_008,Talk after Trust Increase 2,"Do what you're told, keep the wolf from the door, live life. They all seemed like simple ideas once to me... But Aosta was right. In a country like Siracusa, things like those aren't ideas, they're dreams.",
-char_356_broca_CN_009,Talk after Trust Increase 3,"I gotta say, your leadership skills are decent... But Aosta once said that an organization turns rotten when people let their guard down. So, I'll be keeping a close eye on you.",
-char_356_broca_CN_010,Idle,"Asleep? What a carefree Doctor... Gah, where'd the blanket go…?",
-char_356_broca_CN_011,Onboard,"Since Chiave decided I'm joining you, I don't have much else to say. You can call me Broca. I'll follow your orders, but don't count on me doing anything extra. I have no love for big organizations like yours.",
-char_356_broca_CN_012,Watching Battle Record,Thanks.,
-char_356_broca_CN_013,Promotion 1,A raise...? Don't particularly need one.,
-char_356_broca_CN_014,Promotion 2,"Maybe Aosta was right, maybe Rhodes Island <i>is</i> actually trustworthy. And if so…",
-char_356_broca_CN_017,Added to Squad,Alright.,
-char_356_broca_CN_018,Appointed as Squad Leader,...I'm not good at leading.,
-char_356_broca_CN_019,Depart,Let's go.,
-char_356_broca_CN_020,Begin Operation,Time to fight.,
-char_356_broca_CN_021,Selecting Operator 1,Don't try to micromanage me.,
-char_356_broca_CN_022,Selecting Operator 2,Tch... Got it.,
-char_356_broca_CN_023,Deployment 1,Are those the enemies?,
-char_356_broca_CN_024,Deployment 2,I can handle it.,
-char_356_broca_CN_025,In Battle 1,This won't hurt for long.,
-char_356_broca_CN_026,In Battle 2,Let's get this over with.,
-char_356_broca_CN_027,In Battle 3,"Die, you moron!",
-char_356_broca_CN_028,In Battle 4,Shaddap you face.,
-char_356_broca_CN_029,4-star Result,Alright… You've got a few tricks.,
-char_356_broca_CN_030,3-star Result,They've all been taken care of.,
-char_356_broca_CN_031,Sub 3-star Result,Need me to go after them?,
-char_356_broca_CN_032,Operation Failure,Relax. You did what you could. Even Aosta makes mistakes.,
-char_356_broca_CN_033,Assigned to Facility,I'll take a look around.,
-char_356_broca_CN_034,Tap,Hey…!,
-char_356_broca_CN_036,Trust Tap,"You're pretty annoying, Doctor.",
-char_356_broca_CN_037,Title,Arknights.,
-char_356_broca_CN_038,New Year's blessing,"Happy New Year, Doctor... What? I have to pay for my freeloading. Besides, occasions like these are incredible to me. Comparing to my time in Siracusa, Rhodes Island is decent.",
-char_356_broca_CN_042,Greeting,Morning.,
-char_356_broca_CN_043,Birthday,"I've never given anyone a present before, so I'm not too good at picking. Aosta said I should make one myself. Here, it's a block of carving wood, anti-mold treated by me. Tung oil, stops it rotting. When I'm not around, you can move it in front of your desk, and treat it like I'm supervising you.",
-char_356_broca_CN_044,Anniversary Celebration,"I didn't think I'd run into you here. I just finished cleaning up my workbench— there's been a lot of orders in for weapons lately. Why haven't I been supervising you lately? Because you don't seem like you're about to turn rotten these days. And I approve of your goals. Let's work hard together, Doctor.",
+id,title,original,original_zh,translation
+char_356_broca_CN_001,Appointed as Assistant,Stand guard? How annoying... Fine.,护卫？……啧，我知道了。,"Охрана?.. Тьфу, понял."
+char_356_broca_CN_002,Talk 1,That Amiya girl is one of this place's leaders? What a black-hearted company Rhodes Island is.,那个叫阿米娅的小女孩也是这里的领导者？罗德岛到底是什么黑心公司。,Эта девчонка Амия тоже здесь за главную? Что за бессердечная контора этот Родос.
+char_356_broca_CN_003,Talk 2,I'm not about to freeload here. Just let me know if you need some elbow grease.,我不喜欢吃白食，有什么体力活需要我，可以找我。,Я не люблю жить за чужой счёт. Если нужна физическая работа — зови меня.
+char_356_broca_CN_004,Talk 3,"I have nothing against taking orders, but I don't like fighting without knowing why I'm doing it.",我不讨厌被命令，但我讨厌不知道自己在为什么战斗的感觉。,"Я не против приказов, но терпеть не могу драться, не зная, за что."
+char_356_broca_CN_005,Talk after Promotion 1,"My hobbies? Why should I tell you? Ugh... Alright, alright, I'll tell you. Just stop making that face... I like tinkering.",兴趣？为什么我要告诉你？……啧，别用那种眼神看我，告诉你行了吧，我喜欢自己做各种改造。,"Хобби? С чего я тебе расскажу?.. Тьфу, не смотри на меня так, ладно, скажу: я люблю всяческие переделки."
+char_356_broca_CN_006,Talk after Promotion 2,"Without Chiave and Aosta, I'd be a corpse in an alley. I owe them my life. So no matter what they want, I'll help them without a second thought.",如果没有贾维和奥斯塔，我已经死在那天那条小巷子里了。所以，我这条命是他们的，无论他们想做什么，我都会帮他们。,"Если бы не Кьяве и Аоста, я бы умер в том переулке. Так что я жив благодаря им, и что бы они ни задумали, я им помогу."
+char_356_broca_CN_007,Talk after Trust Increase 1,"I don't hate you, but... I find it difficult to fully trust you.",我不讨厌你，但我……无法完全信任你。,"Ты мне не противен, но я... не могу тебе полностью доверять."
+char_356_broca_CN_008,Talk after Trust Increase 2,"Do what you're told, keep the wolf from the door, live life. They all seemed like simple ideas once to me... But Aosta was right. In a country like Siracusa, things like those aren't ideas, they're dreams.",好好做事，好好赚钱，好好生活，曾经，我的想法就这么简单……不过，奥斯塔说得对，在叙拉古这个地方，这样的想法，应该叫梦想。,"Работать, зарабатывать и жить — раньше всё было так просто... Но Аоста прав: в такой стране, как Сиракуза, это называется мечтой."
+char_356_broca_CN_009,Talk after Trust Increase 3,"I gotta say, your leadership skills are decent... But Aosta once said that an organization turns rotten when people let their guard down. So, I'll be keeping a close eye on you.",我承认，你这家伙作为领导者来说还可以……但是，奥斯塔说过，一个组织的腐化，有时候就是从掉以轻心的时候开始的，我会盯紧你。,"Признаю, как лидер ты ничего так... Но Аоста говорил: организация начинает гнить именно тогда, когда все расслабляются. Я буду за тобой следить."
+char_356_broca_CN_010,Idle,"Asleep? What a carefree Doctor... Gah, where'd the blanket go…?",睡着了吗，真是悠哉的家伙。啧，毯子放哪儿去了……,"Уснул, беззаботный ты человек. Тьфу, куда девалось одеяло..."
+char_356_broca_CN_011,Onboard,"Since Chiave decided I'm joining you, I don't have much else to say. You can call me Broca. I'll follow your orders, but don't count on me doing anything extra. I have no love for big organizations like yours.",既然贾维决定加入你们，我也没什么好说的。你可以叫我布洛卡，我会听你的命令，但别指望我做多余的事，我对你们这样的大组织可没有好感。,"Раз Кьяве решил к вам присоединиться, мне нечего добавить. Зови меня Брока. Я буду слушаться приказов, но не жди от меня лишнего — к таким большим конторам, как ваша, я отношения не питаю."
+char_356_broca_CN_012,Watching Battle Record,Thanks.,……谢谢。,...Спасибо.
+char_356_broca_CN_013,Promotion 1,A raise...? Don't particularly need one.,加薪？……我不是很需要。,Прибавка?.. Мне она не очень нужна.
+char_356_broca_CN_014,Promotion 2,"Maybe Aosta was right, maybe Rhodes Island <i>is</i> actually trustworthy. And if so…",或许奥斯塔是对的，罗德岛可以信任。这样的话，那我……,"Может, Аоста прав и Родосу можно доверять. Тогда я..."
+char_356_broca_CN_017,Added to Squad,Alright.,好。,Ладно.
+char_356_broca_CN_018,Appointed as Squad Leader,...I'm not good at leading.,……我不擅长带队。,...Я не умею командовать.
+char_356_broca_CN_019,Depart,Let's go.,走吧。,Пошли.
+char_356_broca_CN_020,Begin Operation,Time to fight.,该打架了。,Пора драться.
+char_356_broca_CN_021,Selecting Operator 1,Don't try to micromanage me.,别对我指手画脚。,Не указывай мне.
+char_356_broca_CN_022,Selecting Operator 2,Tch... Got it.,啧，我知道了。,"Тьфу, понял."
+char_356_broca_CN_023,Deployment 1,Are those the enemies?,那些就是敌人？,Это и есть враги?
+char_356_broca_CN_024,Deployment 2,I can handle it.,我能应付。,Я справлюсь.
+char_356_broca_CN_025,In Battle 1,This won't hurt for long.,不会很疼。,Больно будет недолго.
+char_356_broca_CN_026,In Battle 2,Let's get this over with.,快点结束吧。,Давай быстрее покончим.
+char_356_broca_CN_027,In Battle 3,"Die, you moron!",去死。,Умри.
+char_356_broca_CN_028,In Battle 4,Shaddap you face.,闭嘴。,Заткнись.
+char_356_broca_CN_029,4-star Result,Alright… You've got a few tricks.,……你这家伙，还挺厉害。,"Ничего ты, однако, умеешь."
+char_356_broca_CN_030,3-star Result,They've all been taken care of.,都搞定了。,Всё чисто.
+char_356_broca_CN_031,Sub 3-star Result,Need me to go after them?,我去追？,Мне их догнать?
+char_356_broca_CN_032,Operation Failure,Relax. You did what you could. Even Aosta makes mistakes.,别慌，你努力了，奥斯塔也会有失手的时候。,"Не паникуй. Ты старался, даже Аоста ошибается."
+char_356_broca_CN_033,Assigned to Facility,I'll take a look around.,我随便走走。,Я просто пройдусь.
+char_356_broca_CN_034,Tap,Hey…!,你……！,Ты...!
+char_356_broca_CN_036,Trust Tap,"You're pretty annoying, Doctor.",博士，你很烦。,"Доктор, ты надоедливый."
+char_356_broca_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_356_broca_CN_038,New Year's blessing,"Happy New Year, Doctor... What? I have to pay for my freeloading. Besides, occasions like these are incredible to me. Comparing to my time in Siracusa, Rhodes Island is decent.",新年快乐，博士……干什么，寄人篱下，这点礼数我还是懂的。而且，和之前在叙拉古相比，这种场面，我想都不敢想，罗德岛挺好的。,"С Новым годом, Доктор... Что? Я живу на чужом харчу, но элементарную вежливость я соблюдаю. И потом, по сравнению с Сиракузой, такое я и представить не мог. Родос — неплохое место."
+char_356_broca_CN_042,Greeting,Morning.,早。,Утро.
+char_356_broca_CN_043,Birthday,"I've never given anyone a present before, so I'm not too good at picking. Aosta said I should make one myself. Here, it's a block of carving wood, anti-mold treated by me. Tung oil, stops it rotting. When I'm not around, you can move it in front of your desk, and treat it like I'm supervising you.",我之前没送过谁礼物，不太会挑，奥斯塔说让我自己做一个。给，这是一块我做了完整防腐流程的木雕原料。木材有桐油可以防腐，人没有，你可以把它摆在办公桌前，就当是我在监督你。,"Раньше я никому не дарил подарков и не умею их выбирать. Аоста велел сделать самому. На, это брусок для резьбы, я его полностью обработал от гниения. Дерево защищает тунговое масло, а человека — нет. Поставь его на стол, и считай, что я за тобой присматриваю."
+char_356_broca_CN_044,Anniversary Celebration,"I didn't think I'd run into you here. I just finished cleaning up my workbench— there's been a lot of orders in for weapons lately. Why haven't I been supervising you lately? Because you don't seem like you're about to turn rotten these days. And I approve of your goals. Let's work hard together, Doctor.",没想到在这里遇到了，我刚清理完自己的工具台，最近武器制作的单子还挺多的。我怎么不监督你了？因为目前来看，你似乎没有什么堕落的倾向，更何况我已经认同了你的目标，一起努力吧，博士。,"Не ожидал тебя здесь встретить. Я только что убрал свой верстак — заказов по оружию в последнее время много. Почему я за тобой не слежу? Потому что сейчас ты не похож на то, что можешь испортиться. И потом, я признал твою цель. Давай работать вместе, Доктор."

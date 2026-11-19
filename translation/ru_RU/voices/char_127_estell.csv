@@ -1,39 +1,39 @@
-id,title,original,translation
-char_127_estell_CN_001,Appointed as Assistant,"Uh... w-where should I stand? O-oh, you want me to sit? Then... where should I sit?",
-char_127_estell_CN_002,Talk 1,"That little bird is my friend. But it's always disappearing on me these days... Oh no... It's not disliking me, is it...",
-char_127_estell_CN_003,Talk 2,"The way I look... is nothing like an Operator at all... And I understand having someone like me in your team won't make you pround... But don't worry, I won't go around saying I'm with Rhodes Island.",
-char_127_estell_CN_004,Talk 3,"You've probably noticed, but my hair is quite difficult to style... So I have to let my hair down like this... It's not very appropriate, is it?",
-char_127_estell_CN_005,Talk after Promotion 1,My mutant horns... they don't really fit in with the crowd... I thought I was used to other people staring at them... but … but it's still embarrassing...,
-char_127_estell_CN_006,Talk after Promotion 2,The friends I made in the wilderness... they're all coming to Rhodes Island too. So... I'll feel less lonely. I'll do my best to fight hard and protect everyone.,
-char_127_estell_CN_007,Talk after Trust Increase 1,"Actually, ever since my childhood, I've always been dreaming to be a... a princess... I-I mean it's okay if you find it ridiculous...",
-char_127_estell_CN_008,Talk after Trust Increase 2,"The bad guys always call me 'freak'... but… yeah, I'm a freak, a freak that wants to protect you and everyone else.",
-char_127_estell_CN_009,Talk after Trust Increase 3,"Um... that really energetic doctor... she's an Archosaurian too, huh? I do want to talk to her... but I'm still a bit scared…",
-char_127_estell_CN_010,Idle,"No one's staring at me now, right? Ah, finally...",
-char_127_estell_CN_011,Onboard,"H-hello... Uh... s-sorry, my horns... I accidentally broke your office door with my horns...",
-char_127_estell_CN_012,Watching Battle Record,Powers stronger than what I already have... can I really control them...?,
-char_127_estell_CN_013,Promotion 1,"Promotion? What's that?... I don't really get it, but I think it means that I've been helpful, right?",
-char_127_estell_CN_014,Promotion 2,"Thank you, Doctor, for giving me a bit more confidence... Now I am starting to understand what to do and how to wield my power.",
-char_127_estell_CN_017,Added to Squad,P-please don't look at me...,
-char_127_estell_CN_018,Appointed as Squad Leader,Wahh... me? R-really? Is that really okay?,
-char_127_estell_CN_019,Depart,"Uh, everyone... it's... it's time to attack! I-is this how I'm supposed to give orders?",
-char_127_estell_CN_020,Begin Operation,I... I won't let the bad guys win!,
-char_127_estell_CN_021,Selecting Operator 1,Huh? Me?,
-char_127_estell_CN_022,Selecting Operator 2,Let me do it!,
-char_127_estell_CN_023,Deployment 1,My pushover look should pull a lot of enemies here...,
-char_127_estell_CN_024,Deployment 2,"To intimidate the enemy... I... I'm capable of that, right?",
-char_127_estell_CN_025,In Battle 1,Hah!,
-char_127_estell_CN_026,In Battle 2,I-I won't let you pass!,
-char_127_estell_CN_027,In Battle 3,I won't let you escape this easily!,
-char_127_estell_CN_028,In Battle 4,"Fear me, please!",
-char_127_estell_CN_029,4-star Result,"I can do better... yes, even better!",
-char_127_estell_CN_030,3-star Result,"Are you proud of what we've achieved, Doctor?",
-char_127_estell_CN_031,Sub 3-star Result,"Great... we won, Doctor!",
-char_127_estell_CN_032,Operation Failure,In the end... I'm good for nothing... just as expected...,
-char_127_estell_CN_033,Assigned to Facility,"Wow, this place... it's so spacious! I love it!",
-char_127_estell_CN_034,Tap,Um...,
-char_127_estell_CN_036,Trust Tap,You're always so kind to me... I... I'm so happy!,
-char_127_estell_CN_037,Title,Arknights.,
-char_127_estell_CN_038,New Year's blessing,"Happy New Year, Doctor... My wish is to get along better with everyone. Will I be able to do that? And make more friends as well... is that allowed? Having friends...",
-char_127_estell_CN_042,Greeting,D-Doctor...,
-char_127_estell_CN_043,Birthday,"Doctor, this is a gift I made... My friend on my head shed a bunch of feathers, which I made into a pendant. I hope you like it...",
-char_127_estell_CN_044,Anniversary Celebration,"Fighting makes me feel useful... You've always thought so? T-Thanks, Doctor... And outside of battle as well? I... Gavial and Tomimi said so too? Am I... dreaming?",
+id,title,original,original_zh,translation
+char_127_estell_CN_001,Appointed as Assistant,"Uh... w-where should I stand? O-oh, you want me to sit? Then... where should I sit?",那个，我、我该站在哪里才好？坐，坐下？……那，那我该坐在哪里？,"Э-э... где мне встать? А-ах, вы хотите, чтобы я села? Тогда... где мне сесть?"
+char_127_estell_CN_002,Talk 1,"That little bird is my friend. But it's always disappearing on me these days... Oh no... It's not disliking me, is it...",我的伙伴，就是那只小鸟，最近它总是失踪，那个，不会是不喜欢再和我待在一起了吧……,Мой друг — эта маленькая птичка. Но в последнее время она всё время куда-то пропадает... Ой... Неужто она больше не хочет быть со мной?..
+char_127_estell_CN_003,Talk 2,"The way I look... is nothing like an Operator at all... And I understand having someone like me in your team won't make you pround... But don't worry, I won't go around saying I'm with Rhodes Island.",我这样子，看起来根本不像是干员吧……有我这样的干员，您也不会高兴的。请放心，我不会说自己属于罗德岛的……,"Я совсем не похожа на оперативника, правда?.. С такой, как я, вы наверняка не рады меня видеть... Не волнуйтесь, я никому не буду говорить, что принадлежу Родосу..."
+char_127_estell_CN_004,Talk 3,"You've probably noticed, but my hair is quite difficult to style... So I have to let my hair down like this... It's not very appropriate, is it?",如您所见，我的头发没法编一些常见的发型，所以就只能像这样把头发放下来……果然我这样，还是不太好吧……,"Как видите, мои волосы не заплетаются в обычные причёски... Поэтому я вынуждена ходить вот так, распущенными... Наверное, это не очень прилично..."
+char_127_estell_CN_005,Talk after Promotion 1,My mutant horns... they don't really fit in with the crowd... I thought I was used to other people staring at them... but … but it's still embarrassing...,我这对变异的角很显眼吧，本来我以为，自己已经习惯被人观看了……果然……还是会觉得不好意思啊……,"Мои рога — они такие заметные... Я думала, что привыкла к чужим взглядам... но... всё равно мне неловко..."
+char_127_estell_CN_006,Talk after Promotion 2,The friends I made in the wilderness... they're all coming to Rhodes Island too. So... I'll feel less lonely. I'll do my best to fight hard and protect everyone.,我生活在荒野时认识的朋友们，也渐渐聚集在罗德岛了呢……这样，多多少少，我也不会那么孤单了……我会努力战斗保护大家的。,"Друзья, которых я нашла в диких землях, тоже постепенно собираются на Родосе... Так мне уже не так одиноко... Я постараюсь драться изо всех сил и защитить всех."
+char_127_estell_CN_007,Talk after Trust Increase 1,"Actually, ever since my childhood, I've always been dreaming to be a... a princess... I-I mean it's okay if you find it ridiculous...",其实从小我就一直……一直、梦想成为一个公主……那个，您想笑就笑吧，我、没关系的……,"На самом деле я с детства мечтала стать... принцессой... Э-э, вы можете смеяться, мне... мне не обидно..."
+char_127_estell_CN_008,Talk after Trust Increase 2,"The bad guys always call me 'freak'... but… yeah, I'm a freak, a freak that wants to protect you and everyone else.",我一直被敌人“怪胎、怪胎“地叫……但……是啊，我是怪胎，是想要保护博士，想要保护所有人的怪胎。,"Враги всё зовут меня «уродина, уродина»... Но... да, я уродина — только я хочу защищать Доктора и всех остальных."
+char_127_estell_CN_009,Talk after Trust Increase 3,"Um... that really energetic doctor... she's an Archosaurian too, huh? I do want to talk to her... but I'm still a bit scared…",那个，总是很活泼的医生，好像和我是同族人吧……虽然我挺想和她说说话的，但是……还是有点害怕她……,"Этот врач, всегда такая оживлённая... кажется, она из моего рода... Я очень хочу с ней поговорить, но... всё ещё боюсь её..."
+char_127_estell_CN_010,Idle,"No one's staring at me now, right? Ah, finally...",这下没有人盯着我看了吧……？呼——终于……,"Теперь на меня никто не смотрит, да?.. Фух — наконец-то..."
+char_127_estell_CN_011,Onboard,"H-hello... Uh... s-sorry, my horns... I accidentally broke your office door with my horns...",您、您好……那个，呃，对不起……我的角不小心把您办公室的门捅穿……了……,З-здравствуйте... Э-э... простите... мои рога... я нечаянно проткнула рогами дверь вашего кабинета...
+char_127_estell_CN_012,Watching Battle Record,Powers stronger than what I already have... can I really control them...?,比现在更强的力量，我真能控制得了吗……？,"Сила сильнее, чем сейчас... неужели я смогу ею управлять?"
+char_127_estell_CN_013,Promotion 1,"Promotion? What's that?... I don't really get it, but I think it means that I've been helpful, right?",晋升是什么……？虽然还不太明白，但我确实帮上您的忙了，是吗？,"Повышение? Что это такое?.. Я не очень понимаю, но значит, я вам помогла, да?"
+char_127_estell_CN_014,Promotion 2,"Thank you, Doctor, for giving me a bit more confidence... Now I am starting to understand what to do and how to wield my power.",多亏博士您，让我有了一点自信……我究竟该做什么，是为了谁拥有这样的力量，现在，我现在好像稍微明白了。,"Благодаря вам, Доктор, у меня появилось немного уверенности... И теперь я понимаю, для чего мне эта сила и ради чего я должна её применять."
+char_127_estell_CN_017,Added to Squad,P-please don't look at me...,请大家别太注意我……,"П-пожалуйста, не смотрите на меня..."
+char_127_estell_CN_018,Appointed as Squad Leader,Wahh... me? R-really? Is that really okay?,哇、我……！？真、真的没问题吗……？,Ах! Я? П-правда? Это точно можно?
+char_127_estell_CN_019,Depart,"Uh, everyone... it's... it's time to attack! I-is this how I'm supposed to give orders?",那个，各、各位，要出击了……！下、下令，就是这样的感觉吧？,"Э-э, все... пора... пора в бой!.. Вот так отдают приказы?"
+char_127_estell_CN_020,Begin Operation,I... I won't let the bad guys win!,不、不会让那些恶徒，得逞的！,Я... я не дам этим злодеям победить!
+char_127_estell_CN_021,Selecting Operator 1,Huh? Me?,啊，我吗……？,А? Это я?..
+char_127_estell_CN_022,Selecting Operator 2,Let me do it!,让我来！,Позвольте мне!
+char_127_estell_CN_023,Deployment 1,My pushover look should pull a lot of enemies here...,我来防守这里的话，应该能吸引到很多敌人……,"Если я буду обороняться здесь, наверное, многих врагов потянет ко мне..."
+char_127_estell_CN_024,Deployment 2,"To intimidate the enemy... I... I'm capable of that, right?",让敌人感到恐惧，我能做到吧……？,"Напугать врагов... я смогу, правда?"
+char_127_estell_CN_025,In Battle 1,Hah!,哈啊！,Ах!
+char_127_estell_CN_026,In Battle 2,I-I won't let you pass!,这里，不让过！,Я... не пропущу вас!
+char_127_estell_CN_027,In Battle 3,I won't let you escape this easily!,我不会放你们离开的！,Я вас просто так не отпущу!
+char_127_estell_CN_028,In Battle 4,"Fear me, please!",请你害怕我吧！,"Побойтесь меня, пожалуйста!"
+char_127_estell_CN_029,4-star Result,"I can do better... yes, even better!",再加把劲……嗯，再加把劲！,"Я могу лучше... Да, ещё лучше!"
+char_127_estell_CN_030,3-star Result,"Are you proud of what we've achieved, Doctor?",您会为我们的战果感到骄傲吗，博士？,"Вы гордитесь нашим результатом, Доктор?"
+char_127_estell_CN_031,Sub 3-star Result,"Great... we won, Doctor!",太好了……我们赢了！博士！,Ура... мы победили! Доктор!
+char_127_estell_CN_032,Operation Failure,In the end... I'm good for nothing... just as expected...,果然……我什么都没做到……,В итоге... я так и не сделала ничего толкового... как и ожидалось...
+char_127_estell_CN_033,Assigned to Facility,"Wow, this place... it's so spacious! I love it!",哇啊……这里，好宽阔！太好了……,"Ох, здесь... так просторно! Как здорово..."
+char_127_estell_CN_034,Tap,Um...,那个……？,Мм...?
+char_127_estell_CN_036,Trust Tap,You're always so kind to me... I... I'm so happy!,博士总是这么关心我，我非常、非常高兴……,Вы всегда так добры ко мне... Я... я так счастлива!
+char_127_estell_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_127_estell_CN_038,New Year's blessing,"Happy New Year, Doctor... My wish is to get along better with everyone. Will I be able to do that? And make more friends as well... is that allowed? Having friends...",新年快乐，博士……我有一个愿望，那个，就是以后能和大家更顺畅地交流，我能做到吗？还有，还有交到更多的朋友，这是可以的吗？拥有朋友这件事……,"С Новым годом, Доктор... У меня есть желание: научиться лучше общаться со всеми. Получится у меня? И ещё — завести побольше друзей... это можно? Иметь друзей..."
+char_127_estell_CN_042,Greeting,D-Doctor...,博，博士……,Д-доктор...
+char_127_estell_CN_043,Birthday,"Doctor, this is a gift I made... My friend on my head shed a bunch of feathers, which I made into a pendant. I hope you like it...",博士……我、这是我做的礼物！我头上的小伙伴换毛时掉落了很多软软的羽毛，我用它们做成了小挂饰……您、您要是喜欢就好了……！,"Доктор... это подарок, который я сделала! Мой маленький друг на голове линял, и много мягких перьев отпало — я сделала из них кулончик... Если он вам понравится...!"
+char_127_estell_CN_044,Anniversary Celebration,"Fighting makes me feel useful... You've always thought so? T-Thanks, Doctor... And outside of battle as well? I... Gavial and Tomimi said so too? Am I... dreaming?",我在战斗的时候，会觉得自己也是一个很、很有用的人……您一直都这么觉得？呜，谢谢博士……欸，不只是战斗的时候吗？我……嘉维尔和特米米也这么说过，真的吗？,"Когда я сражаюсь, я чувствую себя... полезной. Вы всегда так считали?.. Спасибо, Доктор... Эй, и не только в бою? Я... Гавиал и Томими тоже так говорили? Я что, сплю?"

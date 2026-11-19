@@ -1,39 +1,39 @@
-id,title,original,translation
-char_301_cutter_CN_001,Appointed as Assistant,"Hello, Doctor, I'm on duty today... Oh, sorry, my blade got stuck in the doorframe…",
-char_301_cutter_CN_002,Talk 1,"Back home, the soil goes more and more barren every day, and we don't harvest enough to feed ourselves. Most people can't make a living, so they have to become mercenaries to survive. They'll do anything, as long as it pays.",
-char_301_cutter_CN_003,Talk 2,"They said my blade was too dangerous and wouldn't let me into the kitchen. I just wanted to help, but as soon as I tapped that cutting board with my blade, it split in two... Umm... should I pay for it?",
-char_301_cutter_CN_004,Talk 3,"Every time I bask in the sun, I can't help but get a bit sleepy. But don't worry, I'm on guard... Keeping you safe... I won't fall... asleep... ZZZzzzzz…",
-char_301_cutter_CN_005,Talk after Promotion 1,"I have standards in my line of work: Don't harm the innocent, don't get bystandars involved… To be honest, it's hard to stick to them…",
-char_301_cutter_CN_006,Talk after Promotion 2,"I'm lending you this necklace, take good care of it. It's a protective charm. No, I can't give you my blade. Just remember to keep the charm with you when I'm not around.",
-char_301_cutter_CN_007,Talk after Trust Increase 1,"Doctor, I need you to look me in the eye, and don't move. Come on, hold still... Hmm… Good, you're not the type to use people for evil. I can tell.",
-char_301_cutter_CN_008,Talk after Trust Increase 2,"Honestly, I don't remember much from when I was little. My teacher raised me, and taught me to use a blade. He told me my parents got mixed up in a fight that got them killed. When he found me, I was clutching this blade and wouldn't let it go, even as it dug into me.",
-char_301_cutter_CN_009,Talk after Trust Increase 3,"She who wields a blade will always look to duel, and she who takes a life will eventually become a notch on the blade of another. Maybe one day, I'll meet an end like that... When that happens, Doctor, I hope you'll be there to witness it.",
-char_301_cutter_CN_010,Idle,I'll stand guard. You can rest easy.,
-char_301_cutter_CN_011,Onboard,"Cutter. Just an ordinary mercenary. I have Oripathy, so I'm looking to trade my skills for treatment. Hope this blade's good enough to get things done for you... Yeah, that's about it.",
-char_301_cutter_CN_012,Watching Battle Record,Nice moves! Didn't know you could use a blade like that.,
-char_301_cutter_CN_013,Promotion 1,"Freedom's the only treasure I have, besides my blade. If you're willing to protect it, I'll listen to you.",
-char_301_cutter_CN_014,Promotion 2,"A mercenary's blade isn't a toy that never sees bloodshed, it feeds on it. Maybe one day, I won't be able to control it anymore. But don't worry, at least for now... it works for you.",
-char_301_cutter_CN_017,Added to Squad,Got it. Joining the team.,
-char_301_cutter_CN_018,Appointed as Squad Leader,Understood. Can I select my own teammates?,
-char_301_cutter_CN_019,Depart,Be ready. And make sure you don't get any innocents involved.,
-char_301_cutter_CN_020,Begin Operation,Your blades all sharp?,
-char_301_cutter_CN_021,Selecting Operator 1,Got it.,
-char_301_cutter_CN_022,Selecting Operator 2,I can wait.,
-char_301_cutter_CN_023,Deployment 1,The battlefield is a graveyard.,
-char_301_cutter_CN_024,Deployment 2,All I need to do is wield my blade.,
-char_301_cutter_CN_025,In Battle 1,Quiet.,
-char_301_cutter_CN_026,In Battle 2,Don't look back.,
-char_301_cutter_CN_027,In Battle 3,Look me in the eye.,
-char_301_cutter_CN_028,In Battle 4,You're too slow.,
-char_301_cutter_CN_029,4-star Result,"Maybe one day, there'll be something my blade can't cut. But that day isn't today, and it certainly isn't these guys.",
-char_301_cutter_CN_030,3-star Result,"Phew... All done, just as specified in the contract. Need to take a look?",
-char_301_cutter_CN_031,Sub 3-star Result,They've lost their will to fight. Not my targets anymore.,
-char_301_cutter_CN_032,Operation Failure,"Go, Doctor, go as far as you can! I'll... hold them back.",
-char_301_cutter_CN_033,Assigned to Facility,"My sunny spot… Ahh, so warm…",
-char_301_cutter_CN_034,Tap,"Uhh, don't pull on my ears.",
-char_301_cutter_CN_036,Trust Tap,Wanna go sunbathing together?,
-char_301_cutter_CN_037,Title,Arknights.,
-char_301_cutter_CN_038,New Year's blessing,"To a happy and healthy New Year. Mm, gotta live your best life every day, and get plenty of sunshine. Basically, I'll try to keep looking out for you, within my means anyway. Happy New Year, Doctor.",
-char_301_cutter_CN_042,Greeting,"Oh, you're here, Doctor. Got any work today?",
-char_301_cutter_CN_043,Birthday,"Doctor, happy birthday. I got this cake while I was out on a field mission a week ago. I did really wanna make it myself, but I don't have the right to use the kitchen just yet... I'll keep fighting hard, so I can treat you to a cake I made myself next year.",
-char_301_cutter_CN_044,Anniversary Celebration,"I want to be a principled merc, but it's actually hard to do it alone. Just like a ship without a point of reference, you get lost real easy. But here at Rhodes Island, I can rest easy. I can trust I'm doing the right thing.",
+id,title,original,original_zh,translation
+char_301_cutter_CN_001,Appointed as Assistant,"Hello, Doctor, I'm on duty today... Oh, sorry, my blade got stuck in the doorframe…",打扰了，博士，今天是我值班……嗯？哎，我的刀，怎么卡在门框上了……,"Простите, Доктор, сегодня я дежурю... М? Эй, мой клинок — почему он застрял в дверной раме?"
+char_301_cutter_CN_002,Talk 1,"Back home, the soil goes more and more barren every day, and we don't harvest enough to feed ourselves. Most people can't make a living, so they have to become mercenaries to survive. They'll do anything, as long as it pays.",在我家乡，土壤一天比一天贫瘠，收的那点粮食连自己都喂不饱，大多数人无法谋生，只好做佣兵，只要给钱，什么都做。,"У меня на родине почва с каждым днём всё бесплоднее, и собранного зерна не хватает, чтобы прокормиться. Большинство не могут заработать на жизнь и идут в наёмники — лишь бы платили, они сделают что угодно."
+char_301_cutter_CN_003,Talk 2,"They said my blade was too dangerous and wouldn't let me into the kitchen. I just wanted to help, but as soon as I tapped that cutting board with my blade, it split in two... Umm... should I pay for it?",呃，他们说我的刀太危险，禁止我再进厨房。我只是想帮忙，可是，那个砧板，我的刀稍微一碰就裂开了……唉，那个，要赔偿吗？,"Э-э, они сказали, что мой клинок слишком опасен, и запретили мне входить на кухню. Я только хотела помочь, но стоило мне коснуться разделочной доски — и она треснула пополам... Э-э, а надо ли мне за неё платить?"
+char_301_cutter_CN_004,Talk 3,"Every time I bask in the sun, I can't help but get a bit sleepy. But don't worry, I'm on guard... Keeping you safe... I won't fall... asleep... ZZZzzzzz…",每次晒着太阳，都会忍不住犯困。你放心，在确认安全之前，我不会真的…睡着……的………ZZZzzzzz…………,"Каждый раз, когда я греюсь на солнышке, меня начинает клонить в сон. Но не волнуйтесь, я на страже... Пока не проверю, что всё безопасно, я не... усну... ZZZzzzzz..."
+char_301_cutter_CN_005,Talk after Promotion 1,"I have standards in my line of work: Don't harm the innocent, don't get bystandars involved… To be honest, it's hard to stick to them…",在工作上，我有自己的原则，我不伤害无辜，也不让无关的人承受损失。……说实话，这好难。,"В своей работе я придерживаюсь правил: не обижать невиновных, не втягивать посторонних... Честно говоря, соблюдать их ох как трудно."
+char_301_cutter_CN_006,Talk after Promotion 2,"I'm lending you this necklace, take good care of it. It's a protective charm. No, I can't give you my blade. Just remember to keep the charm with you when I'm not around.",这条项链，借你用，要收好，这是守护符。不行，刀不能给你，我不在的时候，就用这个将就一下吧。,"Я одалживаю вам это ожерелье, берегите его — это оберег. Нет, клинок я вам не дам. Пока меня нет, довольствуйтесь им."
+char_301_cutter_CN_007,Talk after Trust Increase 1,"Doctor, I need you to look me in the eye, and don't move. Come on, hold still... Hmm… Good, you're not the type to use people for evil. I can tell.",博士，你看着我的眼睛别动，哎，你别动……嗯，嗯嗯，放心了，你不是那种利用他人作恶的人，我看得出来。,"Доктор, посмотрите мне в глаза и не двигайтесь. Ну же, не шевелитесь... М-м... Хорошо, вы не из тех, кто использует людей во зло. Я вижу."
+char_301_cutter_CN_008,Talk after Trust Increase 2,"Honestly, I don't remember much from when I was little. My teacher raised me, and taught me to use a blade. He told me my parents got mixed up in a fight that got them killed. When he found me, I was clutching this blade and wouldn't let it go, even as it dug into me.",小时候的事，其实我不太记得了，是老师抚养我长大，还教我如何用刀。老师告诉我，我父母无辜被牵连，死在一场争斗中，他捡到我时我就抱着这把刀，就算被割伤也不松开。,"О детстве я почти ничего не помню. Меня вырастил наставник и научил владеть клинком. Он говорил, что мои родители ни в чём не были виноваты — их убили в какой-то схватке. Когда он меня нашёл, я сжимала этот клинок и не отпускала, даже когда он разрезал мне руку."
+char_301_cutter_CN_009,Talk after Trust Increase 3,"She who wields a blade will always look to duel, and she who takes a life will eventually become a notch on the blade of another. Maybe one day, I'll meet an end like that... When that happens, Doctor, I hope you'll be there to witness it.",持刀的人总会追寻一场对决，而夺人性命的人，最终也将成为他人手中亡魂。或许有一天，我也会迎来这样的结局……到时候，希望你能见证。,"Та, что держит клинок, всегда ищет поединка, а та, что отняла жизнь, рано или поздно сама становится зарубкой на чужом клинке. Может, и меня ждёт такой конец... Когда это случится, Доктор, я надеюсь, что вы будете рядом."
+char_301_cutter_CN_010,Idle,I'll stand guard. You can rest easy.,有我守着，安心睡吧。,Я побуду на страже. Спите спокойно.
+char_301_cutter_CN_011,Onboard,"Cutter. Just an ordinary mercenary. I have Oripathy, so I'm looking to trade my skills for treatment. Hope this blade's good enough to get things done for you... Yeah, that's about it.",刻刀，只是个普通的雇佣兵。我得了矿石病，所以打算用我的能力换取治疗机会，这把刀应该还能派上些用场……嗯，就是这样。,"Каттер. Просто наёмница. Я больна Орипатией, поэтому хочу обменять своё умение на лечение. Надеюсь, этот клинок ещё может вам пригодиться... Да, вроде всё."
+char_301_cutter_CN_012,Watching Battle Record,Nice moves! Didn't know you could use a blade like that.,好厉害！原来还有这种用刀的方法！,"Здорово! Я и не знала, что так можно обращаться с клинком!"
+char_301_cutter_CN_013,Promotion 1,"Freedom's the only treasure I have, besides my blade. If you're willing to protect it, I'll listen to you.",除了刀，自由就是我唯一的宝物，如果你愿意保障它，我就都听你的。,"Кроме клинка, свобода — единственное, что я ценю. Если вы готовы её беречь, я буду слушаться вас."
+char_301_cutter_CN_014,Promotion 2,"A mercenary's blade isn't a toy that never sees bloodshed, it feeds on it. Maybe one day, I won't be able to control it anymore. But don't worry, at least for now... it works for you.",佣兵的刀，不是那种没见过血，服服帖帖的小玩具。或许也会有一天，我将无法再控制我的刀。不过，不用担心，至少现在……它会为你所用。,"Клинок наёмницы — не игрушка, что не знает крови: он ею питается. Может, однажды я уже не смогу им управлять. Но пока — не волнуйтесь — он служит вам."
+char_301_cutter_CN_017,Added to Squad,Got it. Joining the team.,了解。刻刀入队了。,Понятно. Каттер в отряде.
+char_301_cutter_CN_018,Appointed as Squad Leader,Understood. Can I select my own teammates?,明白，我可以挑选自己的队员吗？,Ясно. Можно мне выбрать напарниц самой?
+char_301_cutter_CN_019,Depart,Be ready. And make sure you don't get any innocents involved.,准备好，注意不要波及无辜人员。,Будьте готовы и не задевайте невиновных.
+char_301_cutter_CN_020,Begin Operation,Your blades all sharp?,刀子，擦亮了吗？,Клинки наточены?
+char_301_cutter_CN_021,Selecting Operator 1,Got it.,明白了。,Поняла.
+char_301_cutter_CN_022,Selecting Operator 2,I can wait.,我可以等待。,Я могу подождать.
+char_301_cutter_CN_023,Deployment 1,The battlefield is a graveyard.,战场就是坟场。,Поле боя — это кладбище.
+char_301_cutter_CN_024,Deployment 2,All I need to do is wield my blade.,我要做的只是挥刀而已。,Мне достаточно просто взмахнуть клинком.
+char_301_cutter_CN_025,In Battle 1,Quiet.,别出声。,Тише.
+char_301_cutter_CN_026,In Battle 2,Don't look back.,别回头。,Не оглядывайся.
+char_301_cutter_CN_027,In Battle 3,Look me in the eye.,直视我。,Смотри мне в глаза.
+char_301_cutter_CN_028,In Battle 4,You're too slow.,你慢了。,Ты медлишь.
+char_301_cutter_CN_029,4-star Result,"Maybe one day, there'll be something my blade can't cut. But that day isn't today, and it certainly isn't these guys.",或许总有一天，会出现我的刀斩不断的东西。但，看来不是现在，不是你们。,"Может, однажды найдётся то, чего мой клинок не срубит. Но не сегодня и не с вами."
+char_301_cutter_CN_030,3-star Result,"Phew... All done, just as specified in the contract. Need to take a look?",呼……按照合同完成了，需要清点一下吗？,Фух... Всё сделано по контракту. Нужно пересчитать?
+char_301_cutter_CN_031,Sub 3-star Result,They've lost their will to fight. Not my targets anymore.,失去战意的人，不该是我的攻击目标。,"Те, кто потерял волю сражаться, больше не мои цели."
+char_301_cutter_CN_032,Operation Failure,"Go, Doctor, go as far as you can! I'll... hold them back.",走，博士，尽可能地走远！这里……还有我。,"Идите, Доктор, уходите как можно дальше! А я... я их задержу."
+char_301_cutter_CN_033,Assigned to Facility,"My sunny spot… Ahh, so warm…",可以晒到太阳，嗯，暖暖的……,"Мой солнечный уголок... М-м, так тепло..."
+char_301_cutter_CN_034,Tap,"Uhh, don't pull on my ears.",唔，别拉耳朵。,"Ой, не тяните за уши."
+char_301_cutter_CN_036,Trust Tap,Wanna go sunbathing together?,要一起晒太阳吗？,Позагораем вместе?
+char_301_cutter_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_301_cutter_CN_038,New Year's blessing,"To a happy and healthy New Year. Mm, gotta live your best life every day, and get plenty of sunshine. Basically, I'll try to keep looking out for you, within my means anyway. Happy New Year, Doctor.",新的一年，希望你健康。嗯，要好好过每一天，还要多多晒太阳，总之，在我力所能及的范围内，我会继续关注你的。新年快乐，博士。,"С Новым годом желаю вам здоровья. М-м, надо жить каждый день полной жизнью и побольше бывать на солнце — словом, я и дальше буду по мере сил о вас заботиться. С Новым годом, Доктор."
+char_301_cutter_CN_042,Greeting,"Oh, you're here, Doctor. Got any work today?",啊，博士你来了。今天有哪些工作？,"А, вы здесь, Доктор. Какие сегодня работы?"
+char_301_cutter_CN_043,Birthday,"Doctor, happy birthday. I got this cake while I was out on a field mission a week ago. I did really wanna make it myself, but I don't have the right to use the kitchen just yet... I'll keep fighting hard, so I can treat you to a cake I made myself next year.",博士，生日快乐。这个蛋糕，是一周前我出外勤任务的时候带回来的。虽然很想自己来做，但我暂时还没有获得食堂使用权……我会继续努力，争取在明年，让您吃到我亲手做的蛋糕。,"Доктор, с днём рождения. Этот торт я привезла неделю назад с выезда. Очень хотелось испечь самой, но пока у меня нет права пользоваться кухней... Я постараюсь, чтобы в следующем году вы отведали торт, который я испекла сама."
+char_301_cutter_CN_044,Anniversary Celebration,"I want to be a principled merc, but it's actually hard to do it alone. Just like a ship without a point of reference, you get lost real easy. But here at Rhodes Island, I can rest easy. I can trust I'm doing the right thing.",想要独自做一个维持准则的佣兵，其实还是很困难的。就像没有参照物的话，舰船也会很容易迷失方向。但是在罗德岛，我可以很安心。我相信自己在做正确的事情。,"Хотеть быть наёмницей, которая соблюдает принципы, — ох, непросто в одиночку. Как корабль без ориентира — легко сбиться с пути. Но здесь, на Родосе, мне спокойно. Я верю, что делаю правильное."

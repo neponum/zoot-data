@@ -1,39 +1,39 @@
-id,title,original,translation
-char_272_strong_CN_001,Appointed as Assistant,"Need me to make you some midnight snacks, Boss?",
-char_272_strong_CN_002,Talk 1,"Here you go, Boss. And this. You mentioned it before... Everyone says I have a good memory, but I don't know.",
-char_272_strong_CN_003,Talk 2,"When I'm off… I practice cooking. Not just seafood. What do you like to eat, Boss?",
-char_272_strong_CN_004,Talk 3,"Errr… Boss, is it usually on me to find something to talk about?",
-char_272_strong_CN_005,Talk after Promotion 1,"Boss, if you ever want to see a Lungmen night market, I can take you. It's fun... but not exactly safe.",
-char_272_strong_CN_006,Talk after Promotion 2,"Boss Lady Kal'tsit gave me special permission to use Rhodes Island's supply channels. Now I can try some new stuff. Any requests, Boss?",
-char_272_strong_CN_007,Talk after Trust Increase 1,"I had Officer Hoshiguma on me for a while, for a couple of reasons... But I know she was just looking out for me, same as the neighborhood aunties and uncles.",
-char_272_strong_CN_008,Talk after Trust Increase 2,"I've been told that with my looks, my good memory and knife skills, I was born to be a villain. I don't like that, and I've struggled to find a proper way to change myself. But after coming to Rhodes Island, I realized I should just live my own life.",
-char_272_strong_CN_009,Talk after Trust Increase 3,"Boss, do you think there's any way to put my memory to good use...? I never thought about it before, but it would be nice if I could help.",
-char_272_strong_CN_010,Idle,"Bo... Oh, you're asleep. I'll just keep reading then.",
-char_272_strong_CN_011,Onboard,"Hey, Boss. I'm Jaye. Officer Hoshiguma said I'd be better off working here, so here I am. I know seafood, I can cook, and I'm pretty good with a knife. I think I can help.",
-char_272_strong_CN_012,Watching Battle Record,Oh... so cooking and warfare are pretty alike…,
-char_272_strong_CN_013,Promotion 1,"Boss, does this mean I can expand my stall a bit more?",
-char_272_strong_CN_014,Promotion 2,"Boss, I figured it out. If you just treat the enemy like fish, then fighting is a lot easier.",
-char_272_strong_CN_017,Added to Squad,I forgot to close up…,
-char_272_strong_CN_018,Appointed as Squad Leader,I know how to lead a fishing crew.,
-char_272_strong_CN_019,Depart,Hm? We're going?,
-char_272_strong_CN_020,Begin Operation,That's a lot.,
-char_272_strong_CN_021,Selecting Operator 1,Yeah?,
-char_272_strong_CN_022,Selecting Operator 2,Right here.,
-char_272_strong_CN_023,Deployment 1,I'll try.,
-char_272_strong_CN_024,Deployment 2,Ughh...,
-char_272_strong_CN_025,In Battle 1,Scale.,
-char_272_strong_CN_026,In Battle 2,Gut.,
-char_272_strong_CN_027,In Battle 3,Clean.,
-char_272_strong_CN_028,In Battle 4,Slice.,
-char_272_strong_CN_029,4-star Result,"Boss, did we just do something special?",
-char_272_strong_CN_030,3-star Result,"Boss, is it... is it over?",
-char_272_strong_CN_031,Sub 3-star Result,"Boss, should we go after them?",
-char_272_strong_CN_032,Operation Failure,"Boss, I think we should probably run.",
-char_272_strong_CN_033,Assigned to Facility,I don't know if there's a suitable place to set up my stall…,
-char_272_strong_CN_034,Tap,Hm?,
-char_272_strong_CN_036,Trust Tap,"Boss, I wonder if you have any food preferences...?",
-char_272_strong_CN_037,Title,Arknights.,
-char_272_strong_CN_038,New Year's blessing,"I used to always have to close up the stall late, but now all of a sudden it's a holiday. Can't say I'm used to it... Boss, you want some late-night chow? I'm a little hungry myself. I can cook something for us both.",
-char_272_strong_CN_042,Greeting,"Hey Boss, you're looking good today.",
-char_272_strong_CN_043,Birthday,"It's your birthday today, Boss. Big day. I always remember it, but I'm no good at presents... How about I make you something to eat? Whatever you want, I'll whip it up.",
-char_272_strong_CN_044,Anniversary Celebration,"When Officer Hoshiguma said I should come to Rhodes Island, I was ready to work my hands to the bone. Then I realized, I may not get paid as much as I thought I would, but the work's also easier than I thought, so I guess it balances out... I'll keep doing my best, Boss.",
+id,title,original,original_zh,translation
+char_272_strong_CN_001,Appointed as Assistant,"Need me to make you some midnight snacks, Boss?",老板，要我做点夜宵吗？,"Босс, сделать вам что-нибудь на ночь?"
+char_272_strong_CN_002,Talk 1,"Here you go, Boss. And this. You mentioned it before... Everyone says I have a good memory, but I don't know.",老板，你要的。还有这个，你之前提过……大家都说我记忆力很好，不过我没什么感觉。,"Босс, вот, что вы просили. И ещё это — вы упоминали раньше... Все говорят, у меня хорошая память, а я не замечаю."
+char_272_strong_CN_003,Talk 2,"When I'm off… I practice cooking. Not just seafood. What do you like to eat, Boss?",我没事的时候，会研究厨艺……不止是海鲜。老板喜欢吃什么吗？,"Когда я свободен, я упражняюсь в кулинарии... не только в морепродуктах. Босс, что вы любите поесть?"
+char_272_strong_CN_004,Talk 3,"Errr… Boss, is it usually on me to find something to talk about?",……老板，难道说，一般需要由我来找话题吗？,"Э-э... Босс, это я должен начинать разговор?"
+char_272_strong_CN_005,Talk after Promotion 1,"Boss, if you ever want to see a Lungmen night market, I can take you. It's fun... but not exactly safe.",老板，你要去龙门夜市的话，我可以带路。那里很热闹，就是不太安全。,"Босс, если захотите сходить на ночной рынок Лунмэна — я проведу. Там весело, только не очень безопасно."
+char_272_strong_CN_006,Talk after Promotion 2,"Boss Lady Kal'tsit gave me special permission to use Rhodes Island's supply channels. Now I can try some new stuff. Any requests, Boss?",凯尔希大姐特别允许我用罗德岛的渠道来进货，可以尝试一些新东西。老板，有什么特别的要求吗？,"Старшая сестра Кальцит разрешила мне пользоваться каналами Родоса для закупок — теперь могу попробовать новое. Босс, есть особые пожелания?"
+char_272_strong_CN_007,Talk after Trust Increase 1,"I had Officer Hoshiguma on me for a while, for a couple of reasons... But I know she was just looking out for me, same as the neighborhood aunties and uncles.",过去，因为一点原因，我一直被星熊警官盯着……不过，我知道，她和街坊的叔叔婶婶们一样，都是真心为我好。,"Раньше из-за кое-чего за мной всё время следила офицер Хошигума... Но я знаю: она желала мне добра, как и соседские дяди с тётями."
+char_272_strong_CN_008,Talk after Trust Increase 2,"I've been told that with my looks, my good memory and knife skills, I was born to be a villain. I don't like that, and I've struggled to find a proper way to change myself. But after coming to Rhodes Island, I realized I should just live my own life.",有人说，以我的刀功和记忆力，还有长相，天生就适合做恶人。我不喜欢，但也不知道怎么办……不过来到罗德岛后，我逐渐知道了，我只要做我想做的事就好。,"Говорят, с моими руками, памятью и внешностью я рождён быть плохим человеком. Мне это не нравится, я не знал, что с этим делать... Но на Родосе я понял: мне просто нужно делать то, что я хочу."
+char_272_strong_CN_009,Talk after Trust Increase 3,"Boss, do you think there's any way to put my memory to good use...? I never thought about it before, but it would be nice if I could help.",老板，你觉得，我的记忆力有什么能派上用场的地方吗……以前我从没想过，但是现在，我想，要是能帮上忙就好了。,"Босс, придумаете, где моя память может пригодиться?.. Раньше я не задумывался, а сейчас — хорошо бы помочь вам."
+char_272_strong_CN_010,Idle,"Bo... Oh, you're asleep. I'll just keep reading then.",老……啊，睡着了，那我继续看书。,"Бо... А, вы спите. Тогда почитаю ещё."
+char_272_strong_CN_011,Onboard,"Hey, Boss. I'm Jaye. Officer Hoshiguma said I'd be better off working here, so here I am. I know seafood, I can cook, and I'm pretty good with a knife. I think I can help.",老板好，我叫孑。星熊警官说我更适合在这里做事，我就来了。我懂水产，会做菜，刀功也还可以，应该能帮上忙。,"Здравствуйте, Босс. Я Джей. Офицер Хошигума сказала, что мне лучше работать здесь, — вот я и пришёл. Я разбираюсь в рыбе, умею готовить и неплохо владею ножом. Должен пригодиться."
+char_272_strong_CN_012,Watching Battle Record,Oh... so cooking and warfare are pretty alike…,原来如此，战斗和做菜，也差不多。,"Так вот, получается, бой и готовка — похожие вещи..."
+char_272_strong_CN_013,Promotion 1,"Boss, does this mean I can expand my stall a bit more?",老板，这是说，我能把摊开大点的意思吗？,"Босс, это значит, можно чуть расширить прилавок?"
+char_272_strong_CN_014,Promotion 2,"Boss, I figured it out. If you just treat the enemy like fish, then fighting is a lot easier.",老板，我发现，把敌人当食材来看待的话，战斗也挺简单的。,"Босс, я сообразил: если считать врагов ингредиентами, воевать гораздо проще."
+char_272_strong_CN_017,Added to Squad,I forgot to close up…,啊，忘了收摊……,"Ах, забыл убрать прилавок..."
+char_272_strong_CN_018,Appointed as Squad Leader,I know how to lead a fishing crew.,带队叉鱼的话，我熟。,Повести группу на рыбалку — это я умею.
+char_272_strong_CN_019,Depart,Hm? We're going?,……嗯？要出发了吗？,...Мм? Мы выходим?
+char_272_strong_CN_020,Begin Operation,That's a lot.,数量还不少。,Их немало.
+char_272_strong_CN_021,Selecting Operator 1,Yeah?,啊？,А?
+char_272_strong_CN_022,Selecting Operator 2,Right here.,在。,Здесь.
+char_272_strong_CN_023,Deployment 1,I'll try.,我试试。,Попробую.
+char_272_strong_CN_024,Deployment 2,Ughh...,呼……,Уф-ф...
+char_272_strong_CN_025,In Battle 1,Scale.,去鳞。,Чешуя.
+char_272_strong_CN_026,In Battle 2,Gut.,去内脏。,Потроха.
+char_272_strong_CN_027,In Battle 3,Clean.,洗净。,Промыть.
+char_272_strong_CN_028,In Battle 4,Slice.,切块。,Нарезать.
+char_272_strong_CN_029,4-star Result,"Boss, did we just do something special?",老板，我们刚才，是不是干了一件不得了的事？,"Босс, мы сейчас... сделали что-то необычное?"
+char_272_strong_CN_030,3-star Result,"Boss, is it... is it over?",老板，这就……算完了吗？,"Босс, это... уже всё?"
+char_272_strong_CN_031,Sub 3-star Result,"Boss, should we go after them?",老板，要追吗？,"Босс, догонять их?"
+char_272_strong_CN_032,Operation Failure,"Boss, I think we should probably run.",老板，我觉得，跑路比较好。,"Босс, по-моему, лучше сбежать."
+char_272_strong_CN_033,Assigned to Facility,I don't know if there's a suitable place to set up my stall…,不知道有没有适合摆摊的地方……,"Интересно, найдётся ли тут место для прилавка..."
+char_272_strong_CN_034,Tap,Hm?,嗯？,Мм?
+char_272_strong_CN_036,Trust Tap,"Boss, I wonder if you have any food preferences...?",不知道老板有没有忌口……,"Интересно, есть ли у Босса нелюбимая еда..."
+char_272_strong_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_272_strong_CN_038,New Year's blessing,"I used to always have to close up the stall late, but now all of a sudden it's a holiday. Can't say I'm used to it... Boss, you want some late-night chow? I'm a little hungry myself. I can cook something for us both.",之前要更晚收摊的日子，现在居然变成了假期，还有点不适应……老板，想吃点夜宵吗？其实我也有点饿了，我可以做两人份的。,"Раньше приходилось закрывать лавку всё позже и позже, а теперь вдруг праздник — как-то не привыкаю... Босс, не хотите перекусить ночью? Я и сам проголодался — могу приготовить на двоих."
+char_272_strong_CN_042,Greeting,"Hey Boss, you're looking good today.",老板，今天气色不错啊。,"Босс, сегодня вы хорошо выглядите."
+char_272_strong_CN_043,Birthday,"It's your birthday today, Boss. Big day. I always remember it, but I'm no good at presents... How about I make you something to eat? Whatever you want, I'll whip it up.",今天是老板的生日啊，这可是个大日子。我是一直记得的，可我不太会准备礼物……老板，我这就下厨，您想吃什么，随便点。,"Сегодня день рождения Босса — это же большой праздник. Я всегда помню, только вот подарки придумывать не умею... Босс, я сейчас займусь готовкой — заказывайте что угодно."
+char_272_strong_CN_044,Anniversary Celebration,"When Officer Hoshiguma said I should come to Rhodes Island, I was ready to work my hands to the bone. Then I realized, I may not get paid as much as I thought I would, but the work's also easier than I thought, so I guess it balances out... I'll keep doing my best, Boss.",星熊警官推荐我来罗德岛的时候，我是做好了吃苦赚钱的准备的。后来发现，虽然工资没有想象的高，但工作也确实没有想象的累，也算挺不错吧……老板，我会好好干的。,"Когда офицер Хошигума советовала мне прийти на Родос, я готовился надрываться ради денег. Оказалось, зарплата не такая высокая, как я думал, но и работа не такая тяжёлая — в целом неплохо... Я постараюсь, Босс."

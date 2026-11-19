@@ -1,38 +1,38 @@
-id,title,original,translation
-char_275_breeze_CN_001,Appointed as Assistant,I'll gladly offer my help if you need it. Just remember to return the favor someday.,
-char_275_breeze_CN_002,Talk 1,"Vina... Err, I mean, Miss Siege—always gives me this feeling I can't describe. I wonder why...?",
-char_275_breeze_CN_003,Talk 2,"My dad? Oh my, you know I ran away from home and you're still going to ask me that? Doctor, are you perhaps not the best at conversation?",
-char_275_breeze_CN_004,Talk 3,"Dr. {@nickname}! Do have a try of my cooking... You taste medicine? Oh, gosh... Well, I do have some knowledge in herbs, but you know I wouldn't be experimenting on you, would I? Eheheh...",
-char_275_breeze_CN_005,Talk after Promotion 1,"I used to think my parents were so stuffy and numb to it all, so I ran away from home to find a new life. But after having traveled so far and been through so much, I've come to realize why my parents felt how they did now. Ahahah, c'est la vie, as the saying goes.",
-char_275_breeze_CN_006,Talk after Promotion 2,"Dr. {@nickname}, see that lone cloud over there, off from the rest? That's the way my hometown lies.",
-char_275_breeze_CN_007,Talk after Trust Increase 1,"Faith' is an interesting topic. I never had the chance to go to Laterano, but how funny I should hear all about its feats on Rhodes Island? Although I've mostly heard about, er... one very overly active girl. Has Laterano always been such a lively place?",
-char_275_breeze_CN_008,Talk after Trust Increase 2,"The boats of Toron need a lighthouse to make their way back to port, and Rhodes Island has served as the safe haven at the end of my trip. Dr. {@nickname}, your light might not illuminate the whole harbor, but go on... Do what I couldn't. It's my honest request.",
-char_275_breeze_CN_009,Talk after Trust Increase 3,"Right here, right now, is where I, Grace Arizona, place my faith. Dr. {@nickname}, you hold my hopes in your hands, forever more.",
-char_275_breeze_CN_010,Idle,"...That's the face of someone lost in their dreams. I wonder if you're feeling uneasy, Doctor?",
-char_275_breeze_CN_011,Onboard,"Breeze, a traveling scholar from Toron County. It is a pleasure to meet you, Doctor. Phew, I've had enough of formal etiquette, so this will be the last of it.",
-char_275_breeze_CN_012,Watching Battle Record,...Stunning medical skills. There's Rhodes Island for you...,
-char_275_breeze_CN_013,Promotion 1,"I bestow my heartfelt blessings on you for your gift, Doctor. Hmm? What a shoddy reaction—this is a hand-kiss, you know, we're being serious here. Hurry up, come on!",
-char_275_breeze_CN_014,Promotion 2,"Well, this time won't be as mannerful as the last, not that I'd think you were hoping for that? So here goes. I will dedicate everything to Rhodes Island, a pledge that transcends my consciousness.",
-char_275_breeze_CN_017,Added to Squad,Leave the medical work to me.,
-char_275_breeze_CN_018,Appointed as Squad Leader,Thank you for your trust. I will make sure to prioritize the safety of the Operators.,
-char_275_breeze_CN_019,Depart,It's getting windy...,
-char_275_breeze_CN_020,Begin Operation,Those who seek to inflict harm on others have no right to ask for forgiveness.,
-char_275_breeze_CN_021,Selecting Operator 1,Here.,
-char_275_breeze_CN_022,Selecting Operator 2,Awaiting orders.,
-char_275_breeze_CN_023,Deployment 1,Let's get this done quickly.,
-char_275_breeze_CN_024,Deployment 2,Make sure to look after yourself.,
-char_275_breeze_CN_025,In Battle 1,Rings through winds the Eulogy…,
-char_275_breeze_CN_026,In Battle 2,Sings the breeze an elegy!,
-char_275_breeze_CN_027,In Battle 3,We have the will!,
-char_275_breeze_CN_029,4-star Result,"Everyone, victory is ours.",
-char_275_breeze_CN_030,3-star Result,Every victory creates a kindling that will flourish into an everlasting fire.,
-char_275_breeze_CN_031,Sub 3-star Result,Keep your senses alert. The wind is still restless.,
-char_275_breeze_CN_032,Operation Failure,Why are they so fixated on hurting others...?,
-char_275_breeze_CN_033,Assigned to Facility,What a... unique place this is.,
-char_275_breeze_CN_034,Tap,"Wait, wait!",
-char_275_breeze_CN_036,Trust Tap,"Doctor, would you like to hear the story of my hometown?",
-char_275_breeze_CN_037,Title,Arknights.,
-char_275_breeze_CN_038,New Year's blessing,"Happy New Year, Doctor. Seems a whole year's flown by. How long does that make it since I left home, then... wait, don't give me that look, or the head-patting! I'm not homesick!",
-char_275_breeze_CN_042,Greeting,"Good day, Doctor.",
-char_275_breeze_CN_043,Birthday,"Doctor, happy birthday! Here's three slices of Victorian cake. One of—excuse me, what's the rush? I didn't even finish yet. Lucky you to pick the spicy one. Come on, wash that down with a spot of tea.",
-char_275_breeze_CN_044,Anniversary Celebration,"I wonder from time to time what my parents would think of me now, working at Rhodes Island. Would they be proud of me? Or maybe they still wouldn't forgive me... Either way, saving more lives is an ideal I'll never be swayed from.",
+id,title,original,original_zh,translation
+char_275_breeze_CN_001,Appointed as Assistant,I'll gladly offer my help if you need it. Just remember to return the favor someday.,要我帮忙是没问题啦，之后可得好好回报我哦。,"С радостью помогу, если понадобится. Только не забудь потом отплатить той же монетой."
+char_275_breeze_CN_002,Talk 1,"Vina... Err, I mean, Miss Siege—always gives me this feeling I can't describe. I wonder why...?",维娜……不，推进之王小姐她总给我一种说不出的感觉，是为什么呢……？,"Вина... то есть, мисс Сидж... у меня всегда вызывает какое-то невыразимое чувство. Интересно, почему...?"
+char_275_breeze_CN_003,Talk 2,"My dad? Oh my, you know I ran away from home and you're still going to ask me that? Doctor, are you perhaps not the best at conversation?",我的老爹？哎呀，明知道我是离家出走来到这里的，却还要这么问吗？莫非博士你其实很不擅长聊天？,"Мой отец? Ох, ты знаешь, что я сбежала из дома, и всё равно спрашиваешь? Доктор, может, ты не очень-то разговорчив?.."
+char_275_breeze_CN_004,Talk 3,"Dr. {@nickname}! Do have a try of my cooking... You taste medicine? Oh, gosh... Well, I do have some knowledge in herbs, but you know I wouldn't be experimenting on you, would I? Eheheh...",{@nickname}，请务必品尝一下我的料理……有草药的味道？哎、哎呀，我怎么会用博士您做实验呢？哈哈……,"{@nickname}, пожалуйста, попробуй моё блюдо... Пахнет лекарством? Ох... Я же кое-что смыслю в травах, но ты же знаешь, что я не стала бы ставить на тебе опыты, правда? Хи-хи..."
+char_275_breeze_CN_005,Talk after Promotion 1,"I used to think my parents were so stuffy and numb to it all, so I ran away from home to find a new life. But after having traveled so far and been through so much, I've come to realize why my parents felt how they did now. Ahahah, c'est la vie, as the saying goes.",我曾觉得老爹他们麻木、迂腐，所以独自离开那里，寻找新的生活，走了很远，经历了很多，却反而理解了老爹他们。欸哈哈，搞什么嘛。,"Раньше я думала, что мои родители косные и ко всему равнодушные, и ушла из дома искать новую жизнь. Прошла немалый путь, многое пережила — и поняла, почему они были такими. А-ха-ха, вот так дела."
+char_275_breeze_CN_006,Talk after Promotion 2,"Dr. {@nickname}, see that lone cloud over there, off from the rest? That's the way my hometown lies.",{@nickname}，你看见那朵离散的云了吗？那是我家乡的方向。,"{@nickname}, видишь вон то одинокое облако, отставшее от остальных? Там направление моего дома."
+char_275_breeze_CN_007,Talk after Trust Increase 1,"Faith' is an interesting topic. I never had the chance to go to Laterano, but how funny I should hear all about its feats on Rhodes Island? Although I've mostly heard about, er... one very overly active girl. Has Laterano always been such a lively place?",“信仰”是一个有趣的话题，我没有机会前往拉特兰，却没想到能从罗德岛干员口中听到拉特兰的种种事迹，不过是位过于……呃、活泼的姐姐呢，拉特兰原来是这样的地方吗？,"«Вера» — интересная тема. Мне не довелось побывать в Латерано, но как же забавно слышать о его подвигах здесь, на Родосе? Хотя чаще я слышу лишь об одной чрезмерно оживлённой сестре... Латерано всегда было таким оживлённым местом?"
+char_275_breeze_CN_008,Talk after Trust Increase 2,"The boats of Toron need a lighthouse to make their way back to port, and Rhodes Island has served as the safe haven at the end of my trip. Dr. {@nickname}, your light might not illuminate the whole harbor, but go on... Do what I couldn't. It's my honest request.",多伦郡的航船需要灯塔才能回到港湾，罗德岛将是我最后旅程的避风港。至于{@nickname}你嘛，勉强凑合着吧……所以请一定要做到，我没有做到的事。,"Кораблям из Торона нужен маяк, чтобы вернуться в гавань, а Родос стал тихой пристанью в конце моего пути. Что до тебя, {@nickname}... твой свет, может, и не осветит всю гавань, но сделай, пожалуйста, то, что не удалось мне. Это моя искренняя просьба."
+char_275_breeze_CN_009,Talk after Trust Increase 3,"Right here, right now, is where I, Grace Arizona, place my faith. Dr. {@nickname}, you hold my hopes in your hands, forever more.",此时此地，便是格蕾丝·亚利桑那的信仰所在，{@nickname}博士，我将对您的希望虔诚，生死不渝。,"Здесь и сейчас — тут моя вера, Грейс Аризона. {@nickname}, доктор, я сохраню свою надежду на тебя навеки, до самой смерти."
+char_275_breeze_CN_010,Idle,"...That's the face of someone lost in their dreams. I wonder if you're feeling uneasy, Doctor?",……是在梦中彷徨的表情呢。感到不安吗，博士。,"...То лицо человека, заблудившегося в мечтах. Тебе неспокойно, доктор?"
+char_275_breeze_CN_011,Onboard,"Breeze, a traveling scholar from Toron County. It is a pleasure to meet you, Doctor. Phew, I've had enough of formal etiquette, so this will be the last of it.",微风，来自多伦郡的游学者，很荣幸见到您，博士。正式的礼仪太麻烦了，所以就免了吧。,"Бриз, странствующая учёная из графства Торон. Приятно познакомиться, доктор. Фух, хватит официальных манер, на этом всё."
+char_275_breeze_CN_012,Watching Battle Record,...Stunning medical skills. There's Rhodes Island for you...,……令人惊叹的医疗技艺，不愧是罗德岛。,...Удивительное врачебное мастерство. Родос и вправду таков...
+char_275_breeze_CN_013,Promotion 1,"I bestow my heartfelt blessings on you for your gift, Doctor. Hmm? What a shoddy reaction—this is a hand-kiss, you know, we're being serious here. Hurry up, come on!",为您的恩赐献上由衷的祝福，博士。唔？真是失礼的反应，这可是正经的吻手礼，动作快点啦！,"От всей души благословляю тебя за подарок, доктор. Хм? Что за вялая реакция — это же поцелуй руки, мы тут серьёзно. Давай же, скорее!"
+char_275_breeze_CN_014,Promotion 2,"Well, this time won't be as mannerful as the last, not that I'd think you were hoping for that? So here goes. I will dedicate everything to Rhodes Island, a pledge that transcends my consciousness.",哎呀，这次可不会像上次那么正式咯，难道你在期待着吗？我会将我的一切奉献给罗德岛，这是超过形式的觉悟哦。,"Ну, в этот раз будет не так чинно, как в прошлый, впрочем, ты вряд ли на это надеялся? Итак. Я посвящу Родосу всё, что у меня есть, — обет, превосходящий всякую форму."
+char_275_breeze_CN_017,Added to Squad,Leave the medical work to me.,医护工作就交给我吧。,Медицинскую часть оставь мне.
+char_275_breeze_CN_018,Appointed as Squad Leader,Thank you for your trust. I will make sure to prioritize the safety of the Operators.,感谢您的信任，我会以干员们的安全为第一优先考虑。,Спасибо за доверие. Я ставлю безопасность операторов на первое место.
+char_275_breeze_CN_019,Depart,It's getting windy...,起风了……,Поднимается ветер...
+char_275_breeze_CN_020,Begin Operation,Those who seek to inflict harm on others have no right to ask for forgiveness.,伤害别人的恶党，没有祈求饶恕的权利。,"Те, кто желает зла другим, не имеют права просить пощады."
+char_275_breeze_CN_021,Selecting Operator 1,Here.,在。,Здесь.
+char_275_breeze_CN_022,Selecting Operator 2,Awaiting orders.,请指示。,Жду указаний.
+char_275_breeze_CN_023,Deployment 1,Let's get this done quickly.,速战速决。,Покончим с этим быстро.
+char_275_breeze_CN_024,Deployment 2,Make sure to look after yourself.,注意保护自己。,Береги себя.
+char_275_breeze_CN_025,In Battle 1,Rings through winds the Eulogy…,悼词回响！,Загробная песнь звучит в ветре...
+char_275_breeze_CN_026,In Battle 2,Sings the breeze an elegy!,风唱挽歌……,Ветер поёт элегию!
+char_275_breeze_CN_027,In Battle 3,We have the will!,意志！,У нас есть воля!
+char_275_breeze_CN_029,4-star Result,"Everyone, victory is ours.",诸位，胜利属于我们。,"Все, победа за нами."
+char_275_breeze_CN_030,3-star Result,Every victory creates a kindling that will flourish into an everlasting fire.,每一次胜利都将成为火种，生生不息。,"Каждая победа — искра, из которой разгорается неугасимый огонь."
+char_275_breeze_CN_031,Sub 3-star Result,Keep your senses alert. The wind is still restless.,请不要麻痹大意，风向显露着不安。,Будьте начеку. Ветер всё ещё неспокоен.
+char_275_breeze_CN_032,Operation Failure,Why are they so fixated on hurting others...?,为什么总是执着于伤害他人……,Почему они так стремятся причинить вред другим...?
+char_275_breeze_CN_033,Assigned to Facility,What a... unique place this is.,真是别具一格的设施呢。,Какое... своеобразное место.
+char_275_breeze_CN_034,Tap,"Wait, wait!",等，等下！,"Подожди, подожди!"
+char_275_breeze_CN_036,Trust Tap,"Doctor, would you like to hear the story of my hometown?",博士，想听听我家乡的故事吗？,"Доктор, хочешь услышать историю моего дома?"
+char_275_breeze_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_275_breeze_CN_038,New Year's blessing,"Happy New Year, Doctor. Seems a whole year's flown by. How long does that make it since I left home, then... wait, don't give me that look, or the head-patting! I'm not homesick!",新年快乐，博士。不知不觉又过去一年了，这是我离家的第几年了呢……等等，不要用那副表情摸我的头，我没有想家！,"С новым годом, доктор. Незаметно пролетел ещё год... который уже раз я в разлуке с домом... Нет, не смотри на меня так и не гладь по голове! Я не скучаю!"
+char_275_breeze_CN_042,Greeting,"Good day, Doctor.",您好，博士。,"Здравствуйте, доктор."
+char_275_breeze_CN_043,Birthday,"Doctor, happy birthday! Here's three slices of Victorian cake. One of—excuse me, what's the rush? I didn't even finish yet. Lucky you to pick the spicy one. Come on, wash that down with a spot of tea.",博士，生日快乐！这有三块维多利亚蛋糕，其中——哎呀，您怎么这么着急，我还没说完呢。您好像幸运地挑到了最辣的那个。来，喝口红茶吧。,"Доктор, с днём рождения! Вот три куска викторианского торта. Один из — эй, зачем ты так торопишься? Я же не договорила. Тебе повезло выбрать самый острый. Ну, запивай чаем."
+char_275_breeze_CN_044,Anniversary Celebration,"I wonder from time to time what my parents would think of me now, working at Rhodes Island. Would they be proud of me? Or maybe they still wouldn't forgive me... Either way, saving more lives is an ideal I'll never be swayed from.",偶尔也会想，如果父母看到了现在我在罗德岛工作的样子，他们会以我为荣吗？还是依然无法原谅我呢……但无论怎样，拯救更多生命，是我绝对不会动摇的理想。,"Время от времени я думаю, что бы подумали мои родители, увидев меня здесь, на Родосе. Гордились бы? Или так и не простили?.. Как бы то ни было, спасать больше жизней — идея, от которой я никогда не отступлюсь."

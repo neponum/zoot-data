@@ -1,39 +1,39 @@
-id,title,original,translation
-char_196_sunbr_CN_001,Appointed as Assistant,"Hello, Doctor! You hungry? Heehee, I heard your stomach growling from a mile away! It sounded like thunder!",
-char_196_sunbr_CN_002,Talk 1,"My shield? I can lift it easy! One, two, lift! Hehe, see? Oh, Relax, Doctor. I'm not gonna drop it or anything. You don't have to stand all the way over there.",
-char_196_sunbr_CN_003,Talk 2,The bad guys who destroyed my hometown are gonna pay! I'll smash them with my frying pan!,
-char_196_sunbr_CN_004,Talk 3,"Zima says she'll protect me, but I'm not a baby! Me and my shield kept everyone safe before we made it here! It's not a shield, it's a vault door? No it isnnnn't! I can't believe you're calling it that!",
-char_196_sunbr_CN_005,Talk after Promotion 1,"Doctor, you wanna taste my cooking? Hehe, you can try it soon. I've already asked Closure if I can work the cafeteria! Just waiting to hear back.",
-char_196_sunbr_CN_006,Talk after Promotion 2,"Tadaaah! Here comes Gummy's specialty: bacon and eggs! So, do you like it? It's tough to get the heat right when I'm out in the field, but most days I can make it perfect!",
-char_196_sunbr_CN_007,Talk after Trust Increase 1,"Me and the other four weren't always together, you know.",
-char_196_sunbr_CN_008,Talk after Trust Increase 2,"Why am I always so cheery? Umm, actually... After the things we've seen, it's hard to be cheery... But I really want my friends to forget about all that awful stuff. So I need to pull myself together and smile a whole bunch to make that happen!",
-char_196_sunbr_CN_009,Talk after Trust Increase 3,"I... I miss my parents, and I do want to find them. I think about them all the time... but if I leave now, I don't think I could do anything by myself... So... Doctor, could you please teach me how to fight? I don't want everyone to think of me as some kind of kitchen girl!",
-char_196_sunbr_CN_010,Idle,"Are you sleeping, Doctor? Hmm, maybe a bit of reading here would be okay, I guess?",
-char_196_sunbr_CN_011,Onboard,"My name's Gummy! You must be the Doctor. Thank you and everyone from Rhodes Island for helping us! I don't have any special skills, but I'll do what I can as good as I can!",
-char_196_sunbr_CN_012,Watching Battle Record,"I can feel my power surging! I might even be able to lift you up, Doctor!",
-char_196_sunbr_CN_013,Promotion 1,"I'll become a three-star Rhodes Island chef after the promotion, right? Just kidding! Hehe.",
-char_196_sunbr_CN_014,Promotion 2,"I want to do much, much more besides cooking! I don't know if I'm strong enough to do everything you want me to, but I'll give it my all!",
-char_196_sunbr_CN_017,Added to Squad,"Gummy, ready to go!",
-char_196_sunbr_CN_018,Appointed as Squad Leader,Что?! You're making me the leader?!,
-char_196_sunbr_CN_019,Depart,"Just wait for us to get back, Doctor!",
-char_196_sunbr_CN_020,Begin Operation,"Nope, I'm not scared!",
-char_196_sunbr_CN_021,Selecting Operator 1,Let me do it!,
-char_196_sunbr_CN_022,Selecting Operator 2,Pick me! Pick me!,
-char_196_sunbr_CN_023,Deployment 1,I'm ready to fight!,
-char_196_sunbr_CN_024,Deployment 2,I'll protect everyone!,
-char_196_sunbr_CN_025,In Battle 1,Try some of my specialty!,
-char_196_sunbr_CN_026,In Battle 2,Here's something yummy for you!,
-char_196_sunbr_CN_027,In Battle 3,Anyone hungry?,
-char_196_sunbr_CN_028,In Battle 4,"Push forward, team! Ura!",
-char_196_sunbr_CN_029,4-star Result,"The bad guys should just give up! With the Doctor on our side, they'll never beat us!",
-char_196_sunbr_CN_030,3-star Result,"I didn't want to have to do that… but if we don't fight, the bad guys will get us!",
-char_196_sunbr_CN_031,Sub 3-star Result,"We won, and that's what matters! It's a good thing!",
-char_196_sunbr_CN_032,Operation Failure,Ughh… did anybody get hurt…? Doctor? Is the Doctor okay?!,
-char_196_sunbr_CN_033,Assigned to Facility,"Wow, what a big room! You could get so many people in here!",
-char_196_sunbr_CN_034,Tap,Ahahahahah!,
-char_196_sunbr_CN_036,Trust Tap,"Doctor, I know my food tastes great, but don't eat too much of it! You'll get fat!",
-char_196_sunbr_CN_037,Title,Arknights.,
-char_196_sunbr_CN_038,New Year's blessing,"Doctor, I've been busy all day today in the kitchen. Zima went out to do something early this morning, and Rosa's still busy decorating the hall. Even though we all promised to make New Year's dinner together... Istinaaaa! You can't set off fireworks inside!",
-char_196_sunbr_CN_042,Greeting,"Doctor, you want something to eat?",
-char_196_sunbr_CN_043,Birthday,"Afternoon, Doctor... a big crowd kept me in the kitchen late last night, I had to make cakes in all different flavors... But I got the tastiest one I made right here. Happy birthday, Doctor! Say aahh—",
-char_196_sunbr_CN_044,Anniversary Celebration,"Doctor! Come try the piroshki I baked! They're even tastier than before, right? Heheh, I'm growing up too, you know. And then Mama and Papa, and Zima and all my friends won't have to worry about me. I'm going to get even stronger!",
+id,title,original,original_zh,translation
+char_196_sunbr_CN_001,Appointed as Assistant,"Hello, Doctor! You hungry? Heehee, I heard your stomach growling from a mile away! It sounded like thunder!",博士博士，您是不是饿了？嘿嘿，老远就听到您肚子叫呢，像打雷一样~,"Доктор-доктор, вы не голодны? Хи-хи, я издали слышала, как у вас в животе урчит — как гром!"
+char_196_sunbr_CN_002,Talk 1,"My shield? I can lift it easy! One, two, lift! Hehe, see? Oh, Relax, Doctor. I'm not gonna drop it or anything. You don't have to stand all the way over there.",这个盾牌？轻轻松松就能举起来哦。嘿~咻~看呀！欸，我能好好举住，不会让它掉下来的，您不躲那么远也没关系的啦~,"Этот щит? Я его легко поднимаю. Хэй~ уух~ смотрите! Эй, я его хорошо держу, не уроню — вам не надо так далеко отходить~"
+char_196_sunbr_CN_003,Talk 2,The bad guys who destroyed my hometown are gonna pay! I'll smash them with my frying pan!,破坏了我们城市的坏人，一个都不能原谅！我要用这个平底锅，把他们全都拍扁！,"Плохих людей, что разрушили наш город, я ни одного не прощу! Сковородой их всех сплющу!"
+char_196_sunbr_CN_004,Talk 3,"Zima says she'll protect me, but I'm not a baby! Me and my shield kept everyone safe before we made it here! It's not a shield, it's a vault door? No it isnnnn't! I can't believe you're calling it that!",凛冬姐说她会保护好古米，真是太小看我啦！大家一起逃跑的时候，可是古米一直在用这面盾牌保护大家的！欸，不是盾牌，是金库的保险门？连博士都这么说！,"Зима говорит, что защитит Гуми — она меня недооценивает! Когда мы все бежали, это Гуми со щитом всех прикрывала! Эй, это не щит, это дверь сейфа? Даже Доктор так говорит! Неправда-а-а!"
+char_196_sunbr_CN_005,Talk after Promotion 1,"Doctor, you wanna taste my cooking? Hehe, you can try it soon. I've already asked Closure if I can work the cafeteria! Just waiting to hear back.",博士，想不想见识下古米烧菜的手艺？欸嘿嘿~马上您就能尝到了哦，因为古米已经向可露希尔姐姐提交了申请，只要她同意的话，古米就可以在食堂帮厨了哦！,"Доктор, хотите попробовать, как Гуми готовит? Хи-хи~ скоро сможете — Гуми уже подала Кложер прошение, как та разрешит, я буду помогать на кухне!"
+char_196_sunbr_CN_006,Talk after Promotion 2,"Tadaaah! Here comes Gummy's specialty: bacon and eggs! So, do you like it? It's tough to get the heat right when I'm out in the field, but most days I can make it perfect!",锵锵——！古米特制，煎蛋肉排哦！怎么样？很好吃吧？嘿嘿，虽然很难在战斗中掌握火候，不过平时的我是绝对不会失误的！,"Бам-бах! Фирменное блюдо Гуми — яичница с беконом! Ну как, вкусно? Хи-хи, в бою огонь тяжело держать в руках, а в обычные дни Гуми почти никогда не ошибается!"
+char_196_sunbr_CN_007,Talk after Trust Increase 1,"Me and the other four weren't always together, you know.",我们五个人，并不是从开始就在一起的呢。,"Мы пятеро не сразу оказались вместе, знаете ли."
+char_196_sunbr_CN_008,Talk after Trust Increase 2,"Why am I always so cheery? Umm, actually... After the things we've seen, it's hard to be cheery... But I really want my friends to forget about all that awful stuff. So I need to pull myself together and smile a whole bunch to make that happen!",古米看起来很开心吗？其实，看到那样的景象之后，没人能高高兴兴地生活下去……只是，为了让姐姐们能早点忘记那些乱七八糟的事情，古米必须要振作起来！,"Гуми всё время весёлая? На самом деле... после такого никто не может жить весело... Но я очень хочу, чтобы сёстры поскорее забыли всё это — поэтому Гуми должна взять себя в руки и много улыбаться!"
+char_196_sunbr_CN_009,Talk after Trust Increase 3,"I... I miss my parents, and I do want to find them. I think about them all the time... but if I leave now, I don't think I could do anything by myself... So... Doctor, could you please teach me how to fight? I don't want everyone to think of me as some kind of kitchen girl!",古米……也想找到爸爸妈妈，想了很多次了，可是，如果现在古米离开大家的话，也许真的什么都做不到……所以，拜托博士！古米不想只是给大家准备食材，也想学会怎么战斗！,"Гуми... тоже хочет найти маму с папой, я столько раз думала... Но если Гуми сейчас уйдёт, я, наверное, совсем ничего не смогу... Поэтому, Доктор, пожалуйста! Гуми не хочет только готовить еду — я хочу научиться сражаться!"
+char_196_sunbr_CN_010,Idle,"Are you sleeping, Doctor? Hmm, maybe a bit of reading here would be okay, I guess?",博士，睡着了吗？那我读一会儿闲书的话，应该不算偷懒吧？,"Доктор, вы спите? Если я немного почитаю, это же не считается ленью?"
+char_196_sunbr_CN_011,Onboard,"My name's Gummy! You must be the Doctor. Thank you and everyone from Rhodes Island for helping us! I don't have any special skills, but I'll do what I can as good as I can!",我是古米！您就是博士吗？感谢您和罗德岛的大家一起帮助了我们！古米没有特别的能力，但只要是能做到的就一定竭尽全力！就让古米成为博士的力量吧！,"Я — Гуми! Вы Доктор? Спасибо вам и всем на Родосе, что помогли нам! У Гуми нет особых способностей, но что я могу — то сделаю изо всех сил! Пусть Гуми станет опорой Доктора!"
+char_196_sunbr_CN_012,Watching Battle Record,"I can feel my power surging! I might even be able to lift you up, Doctor!",力量涌出来啦！说不定现在古米连博士都能举起来？,"Силы прибывают! Может, Гуми сейчас и Доктора поднимет?"
+char_196_sunbr_CN_013,Promotion 1,"I'll become a three-star Rhodes Island chef after the promotion, right? Just kidding! Hehe.",晋升之后，古米就是罗德岛三星大厨了吧？开玩笑的，欸嘿嘿~,"После повышения Гуми станет трёхзвёздочным шеф-поваром Родоса, да? Шучу, хи-хи~"
+char_196_sunbr_CN_014,Promotion 2,"I want to do much, much more besides cooking! I don't know if I'm strong enough to do everything you want me to, but I'll give it my all!",其实，除了做饭之外，古米还想做更多，更多的事！不过，无论古米有没有做那些事的力量，只要博士让古米去做，古米一样会去做的！,"На самом деле, кроме готовки, Гуми хочет делать ещё много-много всего! Но даже если у меня не хватит сил, раз Доктор велит — Гуми всё равно сделает!"
+char_196_sunbr_CN_017,Added to Squad,"Gummy, ready to go!",古米，准备完毕！,Гуми готова!
+char_196_sunbr_CN_018,Appointed as Squad Leader,Что?! You're making me the leader?!,欸欸欸？古米来当队长？,Э-э-э? Гуми капитаном?
+char_196_sunbr_CN_019,Depart,"Just wait for us to get back, Doctor!",博士，等我们回来哦。,"Доктор, подождите нас!"
+char_196_sunbr_CN_020,Begin Operation,"Nope, I'm not scared!",古米才不害怕！,Гуми совсем не боится!
+char_196_sunbr_CN_021,Selecting Operator 1,Let me do it!,让我来！,Я сделаю!
+char_196_sunbr_CN_022,Selecting Operator 2,Pick me! Pick me!,选我选我！,Выберите меня! Выберите!
+char_196_sunbr_CN_023,Deployment 1,I'm ready to fight!,已经就位了！,Я на позиции!
+char_196_sunbr_CN_024,Deployment 2,I'll protect everyone!,古米来守护大家！,Гуми защитит всех!
+char_196_sunbr_CN_025,In Battle 1,Try some of my specialty!,古米的特制菜肴哦！,Попробуйте фирменное блюдо Гуми!
+char_196_sunbr_CN_026,In Battle 2,Here's something yummy for you!,给你吃好吃的！,"Вот, вкусняшка для вас!"
+char_196_sunbr_CN_027,In Battle 3,Anyone hungry?,大家肚子饿了吗？,Кто проголодался?
+char_196_sunbr_CN_028,In Battle 4,"Push forward, team! Ura!",打起精神来！,"Не сдавайтесь, команда! Ура!"
+char_196_sunbr_CN_029,4-star Result,"The bad guys should just give up! With the Doctor on our side, they'll never beat us!",敌人该准备投降了吧？毕竟只要有博士在，他们就赢不了！,"Плохие люди должны уже сдаться — раз Доктор с нами, они никогда не победят!"
+char_196_sunbr_CN_030,3-star Result,"I didn't want to have to do that… but if we don't fight, the bad guys will get us!",其实我不想做到这种地步……可是，如果不战斗的话，敌人就会伤害到我们……！,"Я не хотела доходить до такого... Но если не сражаться, они нас обидят...!"
+char_196_sunbr_CN_031,Sub 3-star Result,"We won, and that's what matters! It's a good thing!",能赢真是太好了！好开心！,Мы победили — это главное! Так хорошо!
+char_196_sunbr_CN_032,Operation Failure,Ughh… did anybody get hurt…? Doctor? Is the Doctor okay?!,呜……大家都受伤了吗……博士呢？博士没事吧？,Ух... все ранены?.. А Доктор? Доктор в порядке?!
+char_196_sunbr_CN_033,Assigned to Facility,"Wow, what a big room! You could get so many people in here!",哇，好大的房间，能装下好多人！,"Ого, какая большая комната — здесь можно столько людей вместить!"
+char_196_sunbr_CN_034,Tap,Ahahahahah!,哈哈哈！> <,Ха-ха-ха! > <
+char_196_sunbr_CN_036,Trust Tap,"Doctor, I know my food tastes great, but don't eat too much of it! You'll get fat!",博士！就算古米做的菜再好吃，也不能一口气吃太多哦！那样会变重的！,"Доктор! Как бы вкусно Гуми ни готовила, не ешьте слишком много — от этого потолстеют!"
+char_196_sunbr_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_196_sunbr_CN_038,New Year's blessing,"Doctor, I've been busy all day today in the kitchen. Zima went out to do something early this morning, and Rosa's still busy decorating the hall. Even though we all promised to make New Year's dinner together... Istinaaaa! You can't set off fireworks inside!",博士，古米今天在厨房里忙了一整天哦。凛冬姐一大早就跑出去玩了，早露姐姐也在忙着装饰餐厅。之前大家明明说好今天要一起准备新年晚餐的呀……真理姐！室内不可以放烟花的！,"Доктор, Гуми сегодня весь день возилась на кухне. Зима с утра убежала гулять, Роза всё ещё украшает зал. А мы же договаривались вместе готовить новогодний ужин... Истина-а! Нельзя запускать фейерверки в помещении!"
+char_196_sunbr_CN_042,Greeting,"Doctor, you want something to eat?",博士，要吃点东西吗？,"Доктор, хотите поесть?"
+char_196_sunbr_CN_043,Birthday,"Afternoon, Doctor... a big crowd kept me in the kitchen late last night, I had to make cakes in all different flavors... But I got the tastiest one I made right here. Happy birthday, Doctor! Say aahh—",哈~中午好，博士……昨天晚上，古米被一群哥哥姐姐困在厨房里做了一整晚各种口味的蛋糕……哼，不过，这一份才是古米做得最美味的，生日快乐博士！啊——,"Ха~ Добрый день, Доктор... Вчера вечером Гуми заперли на кухне и заставили печь торты всех вкусов... Но этот — самый вкусный, что у меня получился. С днём рождения, Доктор! А-а-а—"
+char_196_sunbr_CN_044,Anniversary Celebration,"Doctor! Come try the piroshki I baked! They're even tastier than before, right? Heheh, I'm growing up too, you know. And then Mama and Papa, and Zima and all my friends won't have to worry about me. I'm going to get even stronger!",博士！快来尝尝古米烤的馅饼，是不是比之前更好吃了？嘿嘿，古米也是在成长的嘛。为了让爸爸妈妈放心，也为了让凛冬姐他们放心。古米会更坚强的！,"Доктор, скорее пробуйте пирожки, которые Гуми испекла — они вкуснее, чем раньше, правда? Хи-хи, Гуми тоже растёт. Чтобы мама с папой не волновались и Зима с остальными тоже. Гуми станет ещё сильнее!"

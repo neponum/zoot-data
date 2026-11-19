@@ -1,39 +1,39 @@
-id,title,original,translation
-char_326_glacus_CN_001,Appointed as Assistant,I'll be quietly modifying the Raythean Franker over here. You can focus on your work. I won't disturb you.,
-char_326_glacus_CN_002,Talk 1,"Why does everyone always keep their distance from Blue Poison? I don't get it... She and I are both special? Umm, alright.",
-char_326_glacus_CN_003,Talk 2,"Anything you want to say, Doctor? No? Okay. I'll be here. You can chat with me anytime.",
-char_326_glacus_CN_004,Talk 3,"I always lose my appetite when the dorm is too hot... Oh, don't worry about it. It's a family thing, I'm not actually complaining.",
-char_326_glacus_CN_005,Talk after Promotion 1,"Why did I come to Rhodes Island? If I could run as I pleased on these legs, I wouldn't have left my homeland.",
-char_326_glacus_CN_006,Talk after Promotion 2,"Vulcan and I have a similar distaste for 'old things,' but I still think we have fundamentally different philosophies.",
-char_326_glacus_CN_007,Talk after Trust Increase 1,"So, Doctor, Blue Poison says I always seem to be hiding something. Do I really give people that impression? Sometimes? How…?",
-char_326_glacus_CN_008,Talk after Trust Increase 2,"It's not that I don't want to talk, it's just that I never got my way much before. So I'm not used to speaking up. Hope you won't take it the wrong way, Doctor.",
-char_326_glacus_CN_009,Talk after Trust Increase 3,"Two memories stand out to me. One is the first time I ran with this exoskeleton. My eyes went wide and all was right with the world. As for the other... That would have to be right here, right now at Rhodes Island.",
-char_326_glacus_CN_010,Idle,Umm? When did the Doctor fall asleep...?,
-char_326_glacus_CN_011,Onboard,Operator Glaucus reporting for onboarding. So… may I go back to my room now?,
-char_326_glacus_CN_012,Watching Battle Record,"Hmm… Okay, I see. I got it now.",
-char_326_glacus_CN_013,Promotion 1,"I named the weapon, actually. Maybe it represents what I really want in life... Huh? Did they just announce my name for promotion?",
-char_326_glacus_CN_014,Promotion 2,"Trust in others… Well, I don't know what to do to make them feel trusted, but I'll keep trying.",
-char_326_glacus_CN_017,Added to Squad,"Everyone, remember your grounding measures.",
-char_326_glacus_CN_018,Appointed as Squad Leader,What? I'm the captain? Did I sign up without realizing it?,
-char_326_glacus_CN_019,Depart,I wonder what interesting things we'll find this time…,
-char_326_glacus_CN_020,Begin Operation,"EMP, ready to fire.",
-char_326_glacus_CN_021,Selecting Operator 1,Hm? You call for me?,
-char_326_glacus_CN_022,Selecting Operator 2,Fully charged and ready to go.,
-char_326_glacus_CN_023,Deployment 1,The feeling of standing on dry land…,
-char_326_glacus_CN_024,Deployment 2,"Landed, safe and sound.",
-char_326_glacus_CN_025,In Battle 1,Maximum output!,
-char_326_glacus_CN_026,In Battle 2,Can't worry about accidents now…!,
-char_326_glacus_CN_027,In Battle 3,Amplifying microwave frequency!,
-char_326_glacus_CN_028,In Battle 4,Time to fall!,
-char_326_glacus_CN_029,4-star Result,"No hostile movement detected. Please check your status, team.",
-char_326_glacus_CN_030,3-star Result,"No active enemy signals. EMP disabled. Nice work, team.",
-char_326_glacus_CN_031,Sub 3-star Result,Some enemies have escaped. Should we give chase?,
-char_326_glacus_CN_032,Operation Failure,EMP disabled. We'd better call for backup quick.,
-char_326_glacus_CN_033,Assigned to Facility,"No problem, just need to find that screw first…",
-char_326_glacus_CN_034,Tap,"Oh… sorry, my mind was wandering.",
-char_326_glacus_CN_036,Trust Tap,"Mind taking a walk with me, Doctor?",
-char_326_glacus_CN_037,Title,Arknights.,
-char_326_glacus_CN_038,New Year's blessing,"Doctor, Happy New Year. Present? I haven't thought about it... Oh, actually, I've been hoping to get a fair allowance for battle damage... but I've never had the guts to raise it with Dr. Kal'tsit.",
-char_326_glacus_CN_042,Greeting,"Good morning to you, Doctor.",
-char_326_glacus_CN_043,Birthday,"Doctor, happy birthday. I have a compass here from my collection. It's for you. Technology keeps marching on, but some stuff still keeps a classic form factor. Isn't that wonderful...? Oh, sorry, I got a little off-track. Anyway, may you never lose your way, on your forward course.",
-char_326_glacus_CN_044,Anniversary Celebration,"Being able to run again is such a blessing—I'll never forget what Rhodes Island has done for me. Now I want to help everyone by my own power too, but it still seems like I get in the way more than anything... I'll keep on trying, though. So that someday, I really can be of help to you all.",
+id,title,original,original_zh,translation
+char_326_glacus_CN_001,Appointed as Assistant,I'll be quietly modifying the Raythean Franker over here. You can focus on your work. I won't disturb you.,我会在一边安安静静地调整倾诉者的……保证不会打扰你。,Я буду тихо настраивать свой «Доверенник»... Обещаю не мешать тебе.
+char_326_glacus_CN_002,Talk 1,"Why does everyone always keep their distance from Blue Poison? I don't get it... She and I are both special? Umm, alright.",为什么大家总是对蓝毒小姐敬而远之呢？是我不太一样？……好吧。,"Почему все сторонятся Блю Пойзон? Может, дело во мне?.. Ладно, понятно."
+char_326_glacus_CN_003,Talk 2,"Anything you want to say, Doctor? No? Okay. I'll be here. You can chat with me anytime.",博士有什么想说的话吗？没什么？总之……我就在这里。,"Есть что сказать, Доктор? Нет? Впрочем... я просто буду здесь."
+char_326_glacus_CN_004,Talk 3,"I always lose my appetite when the dorm is too hot... Oh, don't worry about it. It's a family thing, I'm not actually complaining.",宿舍很热的话会让人没有食欲……啊。这是家族遗传，真的不是在抱怨。,"В жаркой комнате пропадает аппетит... Ах. Это семейная черта, правда я не жалуюсь."
+char_326_glacus_CN_005,Talk after Promotion 1,"Why did I come to Rhodes Island? If I could run as I pleased on these legs, I wouldn't have left my homeland.",我之所以来到这里……奔跑都做不到的话，会有谁愿意主动离开故土呢？,"Почему я пришла сюда... Если бы эти ноги могли бегать, вряд ли я сама захотела бы уйти из родных мест."
+char_326_glacus_CN_006,Talk after Promotion 2,"Vulcan and I have a similar distaste for 'old things,' but I still think we have fundamentally different philosophies.",虽然火神小姐和我一样不喜欢“旧的东西”，但我觉得，我们的想法从根本上还是有差别的。,"Хотя Вулкан, как и я, не любит «старые вещи», я думаю, мы смотрим на них по-разному."
+char_326_glacus_CN_007,Talk after Trust Increase 1,"So, Doctor, Blue Poison says I always seem to be hiding something. Do I really give people that impression? Sometimes? How…?",博士，那个，蓝毒小姐说我总是像藏着什么想法似的，我会给人这种感觉吗？偶尔？不会吧……,"Так, Доктор, Блю Пойзон говорит, будто я всегда что-то скрываю. Я и правда произвожу такое впечатление? Иногда? Не может быть..."
+char_326_glacus_CN_008,Talk after Trust Increase 2,"It's not that I don't want to talk, it's just that I never got my way much before. So I'm not used to speaking up. Hope you won't take it the wrong way, Doctor.",并不是我不太愿意说话，只是以前的日子里，我其实很少有什么开口的权利——所以只是习惯而已！希望{@nickname}不要误会了！,"Дело не в том, что я не хочу говорить — просто раньше у меня почти не было права голоса. Так что это только привычка! Надеюсь, {@nickname} не подумает дурного!"
+char_326_glacus_CN_009,Talk after Trust Increase 3,"Two memories stand out to me. One is the first time I ran with this exoskeleton. My eyes went wide and all was right with the world. As for the other... That would have to be right here, right now at Rhodes Island.",对我而言，有两段记忆如奇迹般耀眼。其中之一，是当我第一次借助这孩子奔跑起来的时候，景色万般旖旎，视野是那么的开阔……另一次，唔，就是身在罗德岛的此时此刻吧。,"Два воспоминания сияют для меня как чудо. Одно — когда я впервые побежала с помощью этого устройства: вид открылся такой просторный, мир вокруг стал прекрасным... Другое, м-м, — это здесь и сейчас на Родосе."
+char_326_glacus_CN_010,Idle,Umm? When did the Doctor fall asleep...?,嗯？唔，博士什么时候睡着的……,М-м? Когда это Доктор уснул...?
+char_326_glacus_CN_011,Onboard,Operator Glaucus reporting for onboarding. So… may I go back to my room now?,干员格劳克斯，今日报到。请问我可以回房间了吗？,"Оперативник Глаукус, прибыла на регистрацию. Можно мне теперь вернуться в комнату?"
+char_326_glacus_CN_012,Watching Battle Record,"Hmm… Okay, I see. I got it now.",嗯？啊，好的，原来如此，我明白了。,"Хм... А, хорошо, понятно, я уяснила."
+char_326_glacus_CN_013,Promotion 1,"I named the weapon, actually. Maybe it represents what I really want in life... Huh? Did they just announce my name for promotion?",其实这把武器的名字是我自己取的，也许这才是我心里的想法……欸？刚才宣布的晋升干员原来是我吗？,"На самом деле я сама придумала название этому оружию — может, в нём и выражается моё настоящее желание... Э? Это меня объявили повышенной?"
+char_326_glacus_CN_014,Promotion 2,"Trust in others… Well, I don't know what to do to make them feel trusted, but I'll keep trying.",信任吗……那个，我不知道该怎么表达，但我会继续努力的。,"Доверие... Э-э, я не знаю, как это выразить, но я постараюсь."
+char_326_glacus_CN_017,Added to Squad,"Everyone, remember your grounding measures.",队员们有做好接地措施吗？,Все помнят про заземление?
+char_326_glacus_CN_018,Appointed as Squad Leader,What? I'm the captain? Did I sign up without realizing it?,欸？我是队长？难道刚才不小心就答应下来了……,"Э? Я капитан? Неужто я не заметила, как согласилась..."
+char_326_glacus_CN_019,Depart,I wonder what interesting things we'll find this time…,这次能捡到什么有趣的东西呢？,Что интересного мы найдём на этот раз?..
+char_326_glacus_CN_020,Begin Operation,"EMP, ready to fire.",电磁脉冲立场准备就绪。,ЭМП-поле готово к выстрелу.
+char_326_glacus_CN_021,Selecting Operator 1,Hm? You call for me?,嗯？喊我吗？,М-м? Вы меня звали?
+char_326_glacus_CN_022,Selecting Operator 2,Fully charged and ready to go.,电量充足，随时准备。,"Заряд полный, готова в любой момент."
+char_326_glacus_CN_023,Deployment 1,The feeling of standing on dry land…,地面的触感……,Ощущение твёрдой земли под ногами...
+char_326_glacus_CN_024,Deployment 2,"Landed, safe and sound.",别担心，顺利登陆。,"Не волнуйтесь, приземлились благополучно."
+char_326_glacus_CN_025,In Battle 1,Maximum output!,满功率输出！,Полная мощность!
+char_326_glacus_CN_026,In Battle 2,Can't worry about accidents now…!,顾不上误伤了……！,Не до побочных повреждений...!
+char_326_glacus_CN_027,In Battle 3,Amplifying microwave frequency!,微波频率增幅！,Увеличиваю частоту микроволн!
+char_326_glacus_CN_028,In Battle 4,Time to fall!,坠落吧！,Падайте!
+char_326_glacus_CN_029,4-star Result,"No hostile movement detected. Please check your status, team.",敌方反应沉默，请各自检查一下损害情况……,"Вражеских сигналов нет, проверьте, пожалуйста, состояние друг друга..."
+char_326_glacus_CN_030,3-star Result,"No active enemy signals. EMP disabled. Nice work, team.",全单位沉默，脉冲立场解除，辛苦大家了。,"Все сигналы исчезли, поле отключено. Спасибо всем за работу."
+char_326_glacus_CN_031,Sub 3-star Result,Some enemies have escaped. Should we give chase?,唔，刚才是不是有敌人逃走了？不追吗？,"М-м, кажется, кто-то из врагов ушёл? Не догоняем?"
+char_326_glacus_CN_032,Operation Failure,EMP disabled. We'd better call for backup quick.,脉冲立场已经解除，快联络救援！,"Поле отключено, срочно вызовите подкрепление!"
+char_326_glacus_CN_033,Assigned to Facility,"No problem, just need to find that screw first…",没问题，但先等我找到那颗螺丝钉……,"Без проблем, только дайте мне найти этот винтик..."
+char_326_glacus_CN_034,Tap,"Oh… sorry, my mind was wandering.",啊，走神了。,"Ах, я отвлеклась."
+char_326_glacus_CN_036,Trust Tap,"Mind taking a walk with me, Doctor?",博士，能和我出去散散步吗？,"Доктор, не выйдете ли вы со мной погулять?"
+char_326_glacus_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_326_glacus_CN_038,New Year's blessing,"Doctor, Happy New Year. Present? I haven't thought about it... Oh, actually, I've been hoping to get a fair allowance for battle damage... but I've never had the guts to raise it with Dr. Kal'tsit.",博士，新年快乐。礼物？我没想过……不，其实我一直希望能有一些合理的战损补贴……只是我没敢和凯尔希医生提……,"Доктор, с Новым годом. Подарок? Я и не думала... Нет, на самом деле я всё надеялась на справедливую компенсацию за боевые повреждения... только не осмеливалась поднять это перед Кальцит..."
+char_326_glacus_CN_042,Greeting,"Good morning to you, Doctor.",早上好，博士。,"Доброе утро, Доктор."
+char_326_glacus_CN_043,Birthday,"Doctor, happy birthday. I have a compass here from my collection. It's for you. Technology keeps marching on, but some stuff still keeps a classic form factor. Isn't that wonderful...? Oh, sorry, I got a little off-track. Anyway, may you never lose your way, on your forward course.",博士，生日快乐。这个指南针是我的收藏，送给您。科技不断进步，可有些老旧的东西却一直保持着最初的形态，是不是很神奇呢？好像说得有些远了……祝您在前行的道路上，不会迷失方向。,"Доктор, с днём рождения. Этот компас из моей коллекции — дарю его вам. Технологии идут вперёд, а некоторые старые вещи сохраняют свой первоначальный вид — разве это не удивительно?.. Кажется, я слишком далеко зашла... Желаю вам не сбиться с пути на вашей дороге."
+char_326_glacus_CN_044,Anniversary Celebration,"Being able to run again is such a blessing—I'll never forget what Rhodes Island has done for me. Now I want to help everyone by my own power too, but it still seems like I get in the way more than anything... I'll keep on trying, though. So that someday, I really can be of help to you all.",能再次奔跑起来，这份恩情我是永远都不会忘记的。我也想用自己的能力来帮助大家，但好像还是给大家造成的麻烦更多……我会继续努力的，为了以后某天，能真的帮到大家。,"Я никогда не забуду, что снова смогла бегать. Я тоже хочу помогать всем своей способностью, но, кажется, приношу больше хлопот, чем пользы... Я буду стараться — чтобы когда-нибудь действительно быть полезной вам всем."

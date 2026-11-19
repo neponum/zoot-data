@@ -1,39 +1,39 @@
-id,title,original,translation
-char_236_rope_CN_001,Appointed as Assistant,"Doc~tor~, you didn't forget anything, did you?",
-char_236_rope_CN_002,Talk 1,"Picking pockets to feed myself? Yeah, that was how I grew up. I didn't exactly have a choice. I woulda starved to death otherwise.",
-char_236_rope_CN_003,Talk 2,"If you want sturdy grappling hooks, the key thing's a good rope. Hm? Why do I like my hook so much? Well, go scale a building with your bare hands and you'll see.",
-char_236_rope_CN_004,Talk 3,"Fine, fine, your word's the word, Doctor. Can I go back to my room now? I've got stuff coming up. What? Still no? C'mooon, cut me some slack! Pleasie please?",
-char_236_rope_CN_005,Talk after Promotion 1,"If it wasn't you Rhodes Island, I'd probably still be rotting in jail. Say, how'd you find me anyway? Hmm… Maybe you heard about my skill through the grapevine?",
-char_236_rope_CN_006,Talk after Promotion 2,"There's lots of ways if you wanna survive in the slums, though more people simply die without a way at all. Never had much of a choice myself. Hope you can understand, Doctor.",
-char_236_rope_CN_007,Talk after Trust Increase 1,"My parents kicked me out, and I had to fend for myself on the streets. Compared to my days in the gutter, life at Rhodes Island is a massive improvement.",
-char_236_rope_CN_008,Talk after Trust Increase 2,"Saw a lot of people get same disease as mine who didn't end well. I kinda gave up on myself too, until I got lucky enough to be found by you guys… Tell me straight, Doctor. You can cure me, right? You...you can't? *Sigh*, I can live with that, I guess.",
-char_236_rope_CN_009,Talk after Trust Increase 3,"Before, I was always looking for the next meal. Now I can really eat my fill. Gotta hand it to you, Rhodes Island's alright in my book. Huh? You wanna hear me say 'thank you'? Nah-ah, in, your, dreams. *Gasp*, I just said it...",
-char_236_rope_CN_010,Idle,"Ugh, this chair... ahhh….dangit... so comfy...!",
-char_236_rope_CN_011,Onboard,"The name's Rope, nice to meet ya. Oh, here's your ID card, don't forget it. Huh? Why do I have it? That's a se-cret!",
-char_236_rope_CN_012,Watching Battle Record,Does watching this stuff actually help?,
-char_236_rope_CN_013,Promotion 1,"C'mon, lets talk about payment. Promotions are cool, but my salary is what really matters.",
-char_236_rope_CN_014,Promotion 2,"Fine, fine. Now that I've got my due, I guess I should give my best.",
-char_236_rope_CN_017,Added to Squad,"All right, coming!",
-char_236_rope_CN_018,Appointed as Squad Leader,"I'm doing captain biz? I would've asked for a bonus usually, but I can let this slide since it's you.",
-char_236_rope_CN_019,Depart,Look at the map and figure out your route before we get in there. This is experience talking.,
-char_236_rope_CN_020,Begin Operation,"So, what kind of good stuff will our enemies be carrying today?",
-char_236_rope_CN_021,Selecting Operator 1,I don't really do straight-up fights.,
-char_236_rope_CN_022,Selecting Operator 2,"Put me to good use, ooo-kaaay?",
-char_236_rope_CN_023,Deployment 1,Sneaky sneaky…,
-char_236_rope_CN_024,Deployment 2,"Hmm, is this a good spot?",
-char_236_rope_CN_025,In Battle 1,Aha!,
-char_236_rope_CN_026,In Battle 2,"Good, good, a little closer!",
-char_236_rope_CN_027,In Battle 3,Huuugh!,
-char_236_rope_CN_028,In Battle 4,"Once I hook you, you're not getting away.",
-char_236_rope_CN_029,4-star Result,A lot more excitement on that one than usual! A lot more profit too... whoo-hoo~!,
-char_236_rope_CN_030,3-star Result,"It'd be a waste to leave all that good stuff here. The enemies don't need them anyway, right?",
-char_236_rope_CN_031,Sub 3-star Result,"Some of 'em got away? Just leave them be. They might turn over a new leaf, who knows.",
-char_236_rope_CN_032,Operation Failure,"Hey! Let's just bug out now, Doctor! We must save ourselves first!",
-char_236_rope_CN_033,Assigned to Facility,"Is there an air vent in this room? Nothing, just curious.",
-char_236_rope_CN_034,Tap,Aaaagh! Am I under arrest?!,
-char_236_rope_CN_036,Trust Tap,"I mean, I'd like to figure out how a normal girl lives sometime... but, you know... I mean, maybe that's not really me?",
-char_236_rope_CN_037,Title,Arknights.,
-char_236_rope_CN_038,New Year's blessing,"Piping hot food, big wide smiles, piles and piles of presents... It's the kind of scene I would only be able to steal glances at through windows. Thank you, Doctor... Aw, c'mon, I was being serious there! Anyway... happy New Year.",
-char_236_rope_CN_042,Greeting,"Hiiii, Doctor.",
-char_236_rope_CN_043,Birthday,"Happy birthday. Got your present here. Go ahead. Yep, it <i>was</i> your wallet, until the moment I took it from your pocket. No harm in giving it to you here as <i>my</i> present, right? Okay, okay, jokes are over, now look inside. I spent forever hand-drawing the card, y'know?",
-char_236_rope_CN_044,Anniversary Celebration,"Yeah, yeah, I know. I've been at Rhodes Island so long, I oughta get used to my new life already. I'm gonna stop crawling through the vents, and I'm really gonna cut down on stealing stuff as a prank... Doctor, do you think, that after so many field missions—I've learned to use my skills for the better?",
+id,title,original,original_zh,translation
+char_236_rope_CN_001,Appointed as Assistant,"Doc~tor~, you didn't forget anything, did you?",博士，你没忘记带什么东西吧~,"Доктор, вы ничего не забыли~?"
+char_236_rope_CN_002,Talk 1,"Picking pockets to feed myself? Yeah, that was how I grew up. I didn't exactly have a choice. I woulda starved to death otherwise.",从别人口袋里拿东西来填饱肚子？有什么办法，我就是这样长大的，不然我早就饿死了。,"Тащить из чужих карманов, чтобы поесть? Что поделать — я так выросла. Иначе бы просто умерла с голоду."
+char_236_rope_CN_003,Talk 2,"If you want sturdy grappling hooks, the key thing's a good rope. Hm? Why do I like my hook so much? Well, go scale a building with your bare hands and you'll see.",钩索想要耐用，绳子才是关键。嗯？你问我为什么喜欢用钩索？你去徒手爬爬楼不就知道了？,"Чтобы крюк был надёжным, главное — верёвка. А? Спрашиваете, почему я люблю крюк? Попробуйте вскарабкаться на здание голыми руками — сразу поймёте."
+char_236_rope_CN_004,Talk 3,"Fine, fine, your word's the word, Doctor. Can I go back to my room now? I've got stuff coming up. What? Still no? C'mooon, cut me some slack! Pleasie please?",是的是的，我会好好听从博士教导的，我能回宿舍了吗，一会还有事呢。好啦好啦！别说了！救命！,"Да-да, я всё сделаю, как учит Доктор. Можно мне уже вернуться в комнату? У меня потом дела. Ладно-ладно! Хватит! Спасите!"
+char_236_rope_CN_005,Talk after Promotion 1,"If it wasn't you Rhodes Island, I'd probably still be rotting in jail. Say, how'd you find me anyway? Hmm… Maybe you heard about my skill through the grapevine?",如果不是你们罗德岛，我可能还在蹲号子。你们是怎么知道我的？唔？从哪里听说了我的身手吗？,"Если бы не вы, Родос, я бы всё ещё сидела в тюрьме. Как вы меня нашли? М-м? Слышали о моём ремесле через доступ?"
+char_236_rope_CN_006,Talk after Promotion 2,"There's lots of ways if you wanna survive in the slums, though more people simply die without a way at all. Never had much of a choice myself. Hope you can understand, Doctor.",其实在贫民窟活下来有很多方式，只不过——活不下来的更多。说实在的，我可没得选，希望你能明白这点。,"В трущобах можно выжить самыми разными способами — просто тех, кто не выживает, больше. Честно говоря, у меня не было выбора. Надеюсь, вы это понимаете."
+char_236_rope_CN_007,Talk after Trust Increase 1,"My parents kicked me out, and I had to fend for myself on the streets. Compared to my days in the gutter, life at Rhodes Island is a massive improvement.",父母把我赶出家门，让我流落街头自生自灭。比起那样的地方，当然是在罗德岛更加快活些。,"Родители выгнали меня из дома, и я осталась на улице выживать как попало. Конечно, на Родосе куда веселее, чем в таких краях."
+char_236_rope_CN_008,Talk after Trust Increase 2,"Saw a lot of people get same disease as mine who didn't end well. I kinda gave up on myself too, until I got lucky enough to be found by you guys… Tell me straight, Doctor. You can cure me, right? You...you can't? *Sigh*, I can live with that, I guess.",有许多人生了这种病，我也觉得自己要没救了，还好你们找到我……说实在的，博士，你会帮我治好的吧？不能？嘛，也没差。,"Я видела много людей с этой болезнью и уже думала, что мне не спастись. Хорошо, что вы меня нашли... Честно, Доктор, вы меня вылечите, правда? Не можете? Ну, ладно, невелика разница."
+char_236_rope_CN_009,Talk after Trust Increase 3,"Before, I was always looking for the next meal. Now I can really eat my fill. Gotta hand it to you, Rhodes Island's alright in my book. Huh? You wanna hear me say 'thank you'? Nah-ah, in, your, dreams. *Gasp*, I just said it...",以前吃饭上顿不接下顿，现在能天天吃到舒服，不得不说，罗德岛还是不错的。哼……你想听我谢谢你吗？算了吧。哎呀你已经听过了！,"Раньше я не знала, где следующий кусок, а теперь могу есть досыта каждый день. Признаю, Родос — неплохое место. Хм... Хочешь, чтобы я сказала «спасибо»? Не дождёшься. Ой, я уже это сказала!"
+char_236_rope_CN_010,Idle,"Ugh, this chair... ahhh….dangit... so comfy...!",啊这椅子，可恶！有，有点舒服！,"Ах, это кресло... чёрт! Оно... оно удобное!"
+char_236_rope_CN_011,Onboard,"The name's Rope, nice to meet ya. Oh, here's your ID card, don't forget it. Huh? Why do I have it? That's a se-cret!",我叫暗索，很高兴认识你。啊对了，你的饭卡还在这里，别忘记拿了。唔？为什么在我这儿？这是秘·密·哦。,"Меня зовут Роуп, приятно познакомиться. А, кстати, твоя карточка здесь, не забудь забрать. А? Почему она у меня? Это се-кре-тик!"
+char_236_rope_CN_012,Watching Battle Record,Does watching this stuff actually help?,看这东西真的管用么？,А это и правда помогает?
+char_236_rope_CN_013,Promotion 1,"C'mon, lets talk about payment. Promotions are cool, but my salary is what really matters.",工钱啦，工钱。比起这个，还是工钱更实在。,"Плата, плата. По сравнению с ней всё остальное — мелочь."
+char_236_rope_CN_014,Promotion 2,"Fine, fine. Now that I've got my due, I guess I should give my best.",好啦，收了你那么多钱，我也该认真干活咯！,"Ладно, раз ты столько заплатил, пора и мне взяться за дело!"
+char_236_rope_CN_017,Added to Squad,"All right, coming!",好、好，来了~,"Да-да, иду~"
+char_236_rope_CN_018,Appointed as Squad Leader,"I'm doing captain biz? I would've asked for a bonus usually, but I can let this slide since it's you.",当队长？以前可是要拿额外工钱的，看在你的面子上就不强求啦。,"Быть капитаном? Раньше за это брали дополнительные деньги, но для тебя я сделаю исключение."
+char_236_rope_CN_019,Depart,Look at the map and figure out your route before we get in there. This is experience talking.,要提前勘察好地图和路线哦，这可是经验之谈。,Заранее изучи карту и маршрут — это и есть опыт.
+char_236_rope_CN_020,Begin Operation,"So, what kind of good stuff will our enemies be carrying today?",那么，敌人身上会有什么好东西呢？,"Так, что хорошего носят с собой враги?"
+char_236_rope_CN_021,Selecting Operator 1,I don't really do straight-up fights.,正面对决可不适合我啊。,Лобовая схватка — не моё.
+char_236_rope_CN_022,Selecting Operator 2,"Put me to good use, ooo-kaaay?",运用好我的长处，拜托了~,"Используй мои сильные стороны, ладно~?"
+char_236_rope_CN_023,Deployment 1,Sneaky sneaky…,偷偷摸摸~,Крадучись~
+char_236_rope_CN_024,Deployment 2,"Hmm, is this a good spot?",这是个好位置吗？,Это хорошее место?
+char_236_rope_CN_025,In Battle 1,Aha!,啊哈！,Ага!
+char_236_rope_CN_026,In Battle 2,"Good, good, a little closer!",来来来~,"Иди сюда, иди~"
+char_236_rope_CN_027,In Battle 3,Huuugh!,嘿——！,Э-э-эй!
+char_236_rope_CN_028,In Battle 4,"Once I hook you, you're not getting away.",被这钩子勾中可就跑不了了！,Попадёшься на крюк — не убежишь!
+char_236_rope_CN_029,4-star Result,A lot more excitement on that one than usual! A lot more profit too... whoo-hoo~!,这一场可比平时刺激多了，当然，收入也……哼哼~,"Нынче куда интереснее, чем обычно! И доход тоже... хм-хм~"
+char_236_rope_CN_030,3-star Result,"It'd be a waste to leave all that good stuff here. The enemies don't need them anyway, right?",有些好东西，留在敌人身上也是种浪费~你说呢？,Оставлять такие хорошие вещи врагам — просто расточительно~ Не находишь?
+char_236_rope_CN_031,Sub 3-star Result,"Some of 'em got away? Just leave them be. They might turn over a new leaf, who knows.",跑了几个人？那就别追了吧，说不定能改过自新呢？,"Несколько сбежали? Не стоит догонять — может, они исправятся."
+char_236_rope_CN_032,Operation Failure,"Hey! Let's just bug out now, Doctor! We must save ourselves first!",……喂喂，还是和我一起先溜吧？保命要紧啊！,"...Эй, давай лучше смотаемся вместе? Жизнь дороже!"
+char_236_rope_CN_033,Assigned to Facility,"Is there an air vent in this room? Nothing, just curious.",这个房间有没有通风管道？没什么，就问下。,"В этой комнате есть вентиляция? Так, просто спросила."
+char_236_rope_CN_034,Tap,Aaaagh! Am I under arrest?!,呃，有谁来抓我了吗！,А-а! За мной идут?!
+char_236_rope_CN_036,Trust Tap,"I mean, I'd like to figure out how a normal girl lives sometime... but, you know... I mean, maybe that's not really me?",其实我也想学一学如何做个普通的女孩子的。可是吧，唉，那样是不是不太适合我呢？,"Знаешь, я бы и сама научилась быть обычной девушкой. Но... ох, может, это не совсем моё?"
+char_236_rope_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_236_rope_CN_038,New Year's blessing,"Piping hot food, big wide smiles, piles and piles of presents... It's the kind of scene I would only be able to steal glances at through windows. Thank you, Doctor... Aw, c'mon, I was being serious there! Anyway... happy New Year.",热腾腾的食物，开怀的笑容，好多好多礼物……这种景象，我之前只在窗外偷看过。谢谢你，博士……可不是开玩笑，我是真心的！新年快乐哦。,"Горячая еда, широкие улыбки, груды подарков... Раньше я такое могла только подсматривать в окно. Спасибо, Доктор... Я не шучу, правда! С Новым годом!"
+char_236_rope_CN_042,Greeting,"Hiiii, Doctor.",嗨，博士。,"Привет, Доктор."
+char_236_rope_CN_043,Birthday,"Happy birthday. Got your present here. Go ahead. Yep, it <i>was</i> your wallet, until the moment I took it from your pocket. No harm in giving it to you here as <i>my</i> present, right? Okay, okay, jokes are over, now look inside. I spent forever hand-drawing the card, y'know?",生日快乐哦。这是礼物，收下吧。你的钱包？它在被我偷走的那一刻起就不属于你了，现在作为礼物送给你也没什么问题吧？好啦不开玩笑了，你看看里面。手绘贺卡可花了我好长时间呢。,"С днём рождения. Это подарок, прими. Твой кошелёк? С момента, как я его стянула, он тебе не принадлежал, так что теперь вернуть его как подарок — в порядке вещей, да? Ладно, хватит шутить, загляни внутрь. Я рисовала открытку от руки целую вечность."
+char_236_rope_CN_044,Anniversary Celebration,"Yeah, yeah, I know. I've been at Rhodes Island so long, I oughta get used to my new life already. I'm gonna stop crawling through the vents, and I'm really gonna cut down on stealing stuff as a prank... Doctor, do you think, that after so many field missions—I've learned to use my skills for the better?",来罗德岛这么久，我也该习惯我的新身份了。好啦我知道了。我以后不会随便爬通风管道，也尽量不再搞偷东西的恶作剧……博士，我现在，可以算是把能力用在正道上了吗？,"Я так долго на Родосе — пора уже привыкнуть к новой жизни. Да-да, я поняла. Я больше не буду лазить по вентиляции и постараюсь не устраивать проказ с кражей... Доктор, можно сказать, что теперь я применяю свои таланты во благо?"

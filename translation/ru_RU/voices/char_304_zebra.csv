@@ -1,39 +1,39 @@
-id,title,original,translation
-char_304_zebra_CN_001,Appointed as Assistant,"Yes, I'll protect the Doctor.",
-char_304_zebra_CN_002,Talk 1,"I can sit down? No... I'm a bodyguard. As a bodyguard, I have to stay vigilant and keep close to my principal... Am I... perhaps being a bother, standing here?",
-char_304_zebra_CN_003,Talk 2,"Spot? I've met him before... No, actually, when my unit passed through the city he was stationed in, he gave me a hand. He probably doesn't remember. It's fine.",
-char_304_zebra_CN_004,Talk 3,"(I'm not sure what the Doctor is doing, but it looks incredible...) Eh? Uh... I-I didn't say anything. Must've been the wind, Doctor.",
-char_304_zebra_CN_005,Talk after Promotion 1,"Doctor, you mentioned these just a second ago, so I went and fetched them for you. Umm... I hope I didn't overstep?",
-char_304_zebra_CN_006,Talk after Promotion 2,"Doctor, I'm so sorry. I rushed in alone again on that last mission... I saw someone was wounded, and it felt like the blood surged straight to my head. I forgot your orders and charged on in. I didn't do it on purpose. P-Please don't hate me..",
-char_304_zebra_CN_007,Talk after Trust Increase 1,"Umm, Doctor, were you looking for me...? No, I'm not avoiding you, and I definitely don't hate you... It's just that... Sorry, I'm not sure how to put it into words…",
-char_304_zebra_CN_008,Talk after Trust Increase 2,"When I was serving in the Sargonian army, everyone hated me, except for one woman. She was kind to me, and we became best friends. But... in the end... she betrayed me. Doctor, I'm lost. How can I bring myself to trust anyone ever again?",
-char_304_zebra_CN_009,Talk after Trust Increase 3,"(The Doctor is so kind, speaking so nicely to me, even though I'm such an unlikable whelp. I should be able to trust the Doctor, right?) Oh, Doctor, I'm listening. Yes, you're still my ever-dependable Doctor. The Doctor's enemies are my enemies!",
-char_304_zebra_CN_010,Idle,(I think I'd like to sneak a peek… at the Doctor's sleeping face.),
-char_304_zebra_CN_011,Onboard,"(This one looks kind enough, but will this Doctor be as easy to get along with as Amiya says...?) Ah, excuse me, I'm sorry, I-I was spacing out. Operator, codename Heavyrain, reporting in.",
-char_304_zebra_CN_012,Watching Battle Record,"Yes, I should be able to reach this level too.",
-char_304_zebra_CN_013,Promotion 1,(Amiya is here too. Am I getting fired...?) Eh? I'm getting promoted?,
-char_304_zebra_CN_014,Promotion 2,"Doctor, is it okay if I don't get promoted...? No, everyone is being so kind... I'm a little scared...",
-char_304_zebra_CN_017,Added to Squad,By your command.,
-char_304_zebra_CN_018,Appointed as Squad Leader,I'll do my best.,
-char_304_zebra_CN_019,Depart,(I mustn't betray the Doctor's high hopes...),
-char_304_zebra_CN_020,Begin Operation,Incoming!,
-char_304_zebra_CN_021,Selecting Operator 1,I'm here.,
-char_304_zebra_CN_022,Selecting Operator 2,"Doctor, your orders, please?",
-char_304_zebra_CN_023,Deployment 1,Okay.,
-char_304_zebra_CN_024,Deployment 2,Right here will do.,
-char_304_zebra_CN_025,In Battle 1,Die.,
-char_304_zebra_CN_026,In Battle 2,Out of the way!,
-char_304_zebra_CN_027,In Battle 3,You're in the way!,
-char_304_zebra_CN_028,In Battle 4,Hmph!,
-char_304_zebra_CN_029,4-star Result,"Doctor, did I do okay?",
-char_304_zebra_CN_030,3-star Result,"Doctor, I can still fight.",
-char_304_zebra_CN_031,Sub 3-star Result,"Doctor, let me go after them.",
-char_304_zebra_CN_032,Operation Failure,"Doctor, I'll cover you from the rear!",
-char_304_zebra_CN_033,Assigned to Facility,Rhodes Island is so big...,
-char_304_zebra_CN_034,Tap,Ehhh?!,
-char_304_zebra_CN_036,Trust Tap,Doctor?! Please don't scare me...!,
-char_304_zebra_CN_037,Title,Arknights.,
-char_304_zebra_CN_038,New Year's blessing,"Doctor, Happy New Year. Since I came to Rhodes Island, you have cared much for me, but you've never expressed gratitude to me. So today, at the very least, I want to sincerely thank you. (Th-There, I said it! I… I didn't mess up, did I?)",
-char_304_zebra_CN_042,Greeting,"Doctor, can I assist you in any way?",
-char_304_zebra_CN_043,Birthday,"(The Doctor is so popular. Would someone of such stature really need a gift from a girl like me…? But I really do want to give one…) Oh, what am I holding? Well, um, it's a gift. Please, accept it! Happy birthday!",
-char_304_zebra_CN_044,Anniversary Celebration,"(They're all surrounding the Doctor. That is to be expected, considering the Doctor's popularity… Oh, the Doctor is waving at me. Is there something behind me? Huh, the Doctor is coming over…) Oh, should I join in the festivities…? Alright.",
+id,title,original,original_zh,translation
+char_304_zebra_CN_001,Appointed as Assistant,"Yes, I'll protect the Doctor.",嗯，我来保护博士。,"Да, я буду защищать Доктора."
+char_304_zebra_CN_002,Talk 1,"I can sit down? No... I'm a bodyguard. As a bodyguard, I have to stay vigilant and keep close to my principal... Am I... perhaps being a bother, standing here?",我可以去坐下？不行，我是护卫。身为护卫，就应该时刻守护在对象的身边才行……难道说，我站在这里给您添麻烦了吗？,"Можно мне сесть? Нет... Я охранник. Охранник должен всё время быть рядом с тем, кого охраняет... Или я здесь вам мешаю?"
+char_304_zebra_CN_003,Talk 2,"Spot? I've met him before... No, actually, when my unit passed through the city he was stationed in, he gave me a hand. He probably doesn't remember. It's fine.",斑点，我以前见过他……不，只是我当时的部队经过他驻守的城市时，他有帮过我。他应该不记得了，没关系。,"Спот? Я его встречала... Нет, когда мой отряд проходил через город, где он стоит, он мне помог. Наверное, не помнит. Ничего."
+char_304_zebra_CN_004,Talk 3,"(I'm not sure what the Doctor is doing, but it looks incredible...) Eh? Uh... I-I didn't say anything. Must've been the wind, Doctor.",（博士在做的事虽然看不懂，但是感觉好厉害）……欸，啊，我、我什么都没说，您听错了。,"(Не понимаю, что делает Доктор, но выглядит удивительно...) Эй? А-я ничего не говорила. Вам послышалось, Доктор."
+char_304_zebra_CN_005,Talk after Promotion 1,"Doctor, you mentioned these just a second ago, so I went and fetched them for you. Umm... I hope I didn't overstep?",博士，这些，我记得您刚才有提到，就去帮您拿来了。那个，我没有做多余的事吧？,"Доктор, вы это... упоминали минуту назад, я и принесла. Я не сделала лишнего?"
+char_304_zebra_CN_006,Talk after Promotion 2,"Doctor, I'm so sorry. I rushed in alone again on that last mission... I saw someone was wounded, and it felt like the blood surged straight to my head. I forgot your orders and charged on in. I didn't do it on purpose. P-Please don't hate me..",博士，对不起，上次任务我又一个人冲出去了……我当时看到有人受伤，就感觉脑子像充血一样，忘记了您的命令冲了过去，我不是故意的，请、请不要讨厌我……,"Доктор, простите, в прошлый раз я снова бросилась одна... Увидела, что кто-то ранен, и будто кровь ударила в голову — забыла ваш приказ и кинулась. Я не намеренно... П-пожалуйста, не ненавидьте меня..."
+char_304_zebra_CN_007,Talk after Trust Increase 1,"Umm, Doctor, were you looking for me...? No, I'm not avoiding you, and I definitely don't hate you... It's just that... Sorry, I'm not sure how to put it into words…",啊，博士，您在找我吗？……不，我并不是躲着您，也没有讨厌您，只是……对不起，我不知道该怎么说……,"А, Доктор, вы меня искали?.. Нет, я не избегаю вас и не ненавижу, просто... Простите, я не знаю, как сказать..."
+char_304_zebra_CN_008,Talk after Trust Increase 2,"When I was serving in the Sargonian army, everyone hated me, except for one woman. She was kind to me, and we became best friends. But... in the end... she betrayed me. Doctor, I'm lost. How can I bring myself to trust anyone ever again?",在萨尔贡当兵的时候，其他人都不喜欢我，只有一个人对我很好，她是我最好的朋友。但是，最后她却骗了我……博士，我已经不知道了，我该怎么样去信任别人呢？,"Когда я служила в армии Саргона, все меня не любили, кроме одной — она была ко мне добра, и мы стали лучшими подругами. Но в конце... она меня предала. Доктор, я больше не знаю, как мне доверять людям..."
+char_304_zebra_CN_009,Talk after Trust Increase 3,"(The Doctor is so kind, speaking so nicely to me, even though I'm such an unlikable whelp. I should be able to trust the Doctor, right?) Oh, Doctor, I'm listening. Yes, you're still my ever-dependable Doctor. The Doctor's enemies are my enemies!",（博士对我真好，明明我是个这么讨人厌的人，还愿意对我好好说话，果然，相信博士一定是没问题的吧。）啊，博士，我在听，嗯，我还是想相信博士。博士的敌人，就是我的敌人！,"(Доктор такой добрый — говорит со мной хорошо, хотя я ужасная... Значит, можно верить Доктору, да?) А, Доктор, я слушаю. Да, я всё равно хочу верить вам. Враги Доктора — мои враги!"
+char_304_zebra_CN_010,Idle,(I think I'd like to sneak a peek… at the Doctor's sleeping face.),（有点想看……博士的睡脸）,(Хочется посмотреть... на спящее лицо Доктора.)
+char_304_zebra_CN_011,Onboard,"(This one looks kind enough, but will this Doctor be as easy to get along with as Amiya says...?) Ah, excuse me, I'm sorry, I-I was spacing out. Operator, codename Heavyrain, reporting in.",（看起来，好像是个很和善的人，不知道真的像阿米娅说的那样好相处吗……）啊，那个，对不起，我、我走神了，干员代号，暴雨，报到。,"(Он выглядит добрым — неужели с ним правда так легко, как говорит Амия...?) А, простите, я... я отвлеклась. Оперативник, позывной Хэвирейн, прибыла."
+char_304_zebra_CN_012,Watching Battle Record,"Yes, I should be able to reach this level too.",嗯，我也会达到这个水平。,"Да, я тоже смогу выйти на такой уровень."
+char_304_zebra_CN_013,Promotion 1,(Amiya is here too. Am I getting fired...?) Eh? I'm getting promoted?,（阿米娅也在这里，我难道要被开除了吗……）欸，升职？,"(Амия здесь тоже. Меня что, уволят...?) Эй? Повышение?"
+char_304_zebra_CN_014,Promotion 2,"Doctor, is it okay if I don't get promoted...? No, everyone is being so kind... I'm a little scared...",博士，我可不可以不升职……不，你们对我太好了，我有些害怕……,"Доктор, можно мне не повышаться... Нет, вы все так добры ко мне... Мне немного страшно..."
+char_304_zebra_CN_017,Added to Squad,By your command.,遵命。,Слушаюсь.
+char_304_zebra_CN_018,Appointed as Squad Leader,I'll do my best.,……我会尽力。,...Я постараюсь.
+char_304_zebra_CN_019,Depart,(I mustn't betray the Doctor's high hopes...),（决不能辜负博士的期望……）,(Нельзя подвести ожидания Доктора...)
+char_304_zebra_CN_020,Begin Operation,Incoming!,准备接敌！,Враг на подступе!
+char_304_zebra_CN_021,Selecting Operator 1,I'm here.,我在。,Я здесь.
+char_304_zebra_CN_022,Selecting Operator 2,"Doctor, your orders, please?",博士，有什么吩咐？,"Доктор, ваши приказы?"
+char_304_zebra_CN_023,Deployment 1,Okay.,嗯。,Да.
+char_304_zebra_CN_024,Deployment 2,Right here will do.,这里就好。,Здесь удобно.
+char_304_zebra_CN_025,In Battle 1,Die.,去死。,Умри.
+char_304_zebra_CN_026,In Battle 2,Out of the way!,闪开！,Прочь с дороги!
+char_304_zebra_CN_027,In Battle 3,You're in the way!,碍事！,Мешаешь!
+char_304_zebra_CN_028,In Battle 4,Hmph!,哼！,Хм!
+char_304_zebra_CN_029,4-star Result,"Doctor, did I do okay?",博士，我做的还好吗？,"Доктор, у меня получилось?"
+char_304_zebra_CN_030,3-star Result,"Doctor, I can still fight.",博士，我还能战斗。,"Доктор, я ещё могу сражаться."
+char_304_zebra_CN_031,Sub 3-star Result,"Doctor, let me go after them.",博士，让我去追吧。,"Доктор, позвольте мне преследовать их."
+char_304_zebra_CN_032,Operation Failure,"Doctor, I'll cover you from the rear!",博士，我来掩护你！,"Доктор, я прикрою вас!"
+char_304_zebra_CN_033,Assigned to Facility,Rhodes Island is so big...,罗德岛，好大……,Родос такой огромный...
+char_304_zebra_CN_034,Tap,Ehhh?!,欸欸？！,Э-э-э?!
+char_304_zebra_CN_036,Trust Tap,Doctor?! Please don't scare me...!,博士？！不要突然吓我……,Доктор?! Не пугайте меня так...
+char_304_zebra_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_304_zebra_CN_038,New Year's blessing,"Doctor, Happy New Year. Since I came to Rhodes Island, you have cared much for me, but you've never expressed gratitude to me. So today, at the very least, I want to sincerely thank you. (Th-There, I said it! I… I didn't mess up, did I?)",博士，新年快乐。来到罗德岛后，受到了您很多照顾，但是您一直都没有对我说过感谢，所以至少今天，我想好好感谢博士。（说，说完了！我、我没背错吧？）,"Доктор, с Новым годом. С тех пор как я пришла на Родос, вы меня очень опекали, но никогда не благодарили — так вот, хотя бы сегодня я хочу как следует поблагодарить вас. (С-сказала! Я... я не ошиблась?)"
+char_304_zebra_CN_042,Greeting,"Doctor, can I assist you in any way?",博士，有需要我的地方吗？,"Доктор, могу ли я вам чем-нибудь помочь?"
+char_304_zebra_CN_043,Birthday,"(The Doctor is so popular. Would someone of such stature really need a gift from a girl like me…? But I really do want to give one…) Oh, what am I holding? Well, um, it's a gift. Please, accept it! Happy birthday!",（博士这么受欢迎，真的需要我这样的人送出的礼物吗……但是，我好想给博士送礼物……）欸，我手里的东西？啊，这、这是，这是礼物，请收下！生日快乐！,"(Доктор такой популярный — неужели ему нужен подарок от такой противной девчонки, как я... Но мне так хочется подарить...) Эй, что у меня в руках? А, это... это подарок, примите! С днём рождения!"
+char_304_zebra_CN_044,Anniversary Celebration,"(They're all surrounding the Doctor. That is to be expected, considering the Doctor's popularity… Oh, the Doctor is waving at me. Is there something behind me? Huh, the Doctor is coming over…) Oh, should I join in the festivities…? Alright.",（博士被大家围住了，不愧是博士，真受欢迎……欸，博士冲我这边招手了，我这边有什么东西吗？欸，博士走过来了……）欸？我也要一起参加宴会吗？……好。,"(Все обступили Доктора — ну конечно, он же такой популярный... О, Доктор помахал мне. Что-то у меня за спиной? А, Доктор идёт сюда...) Эй? Мне тоже можно на праздник?.. Хорошо."

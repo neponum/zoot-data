@@ -1,35 +1,35 @@
-id,title,original,translation
-char_209_ardign_CN_001,Appointed as Assistant,"Hello! It's my shift now, Doctor!",
-char_209_ardign_CN_002,Talk 1,"What does my 'Cardigan' codename mean? Ahh, It's actually the name of my clan. It's a family tradition to use it as a codename.",
-char_209_ardign_CN_003,Talk 2,"Wow, I found one of my people on another team! I've got to invite her to hang out with me sometime!",
-char_209_ardign_CN_004,Talk 3,"I was born in the north of Leithanien, a place full of snowy forests. Oh, that reminds me, I can teach you to ski, Doctor!",
-char_209_ardign_CN_005,Talk after Promotion 1,"A lot of people say stuff like 'it's a Defender's job to hold her ground,' but that's such an outdated concept. Speed is what you need! This is the age of maneuver warfare! Mobility is the key to victory!",
-char_209_ardign_CN_007,Talk after Trust Increase 1,"*Sniff sniff*... I recognize that perfume, it's gotta be Melantha! I hope we can become closer friends... 'Cause then we'll be able to work better as a team!",
-char_209_ardign_CN_008,Talk after Trust Increase 2,"Hehe, I really enjoy playing with kids. Back in my hometown, I took my brothers and sisters sledding every year. I really miss it! Oh, speaking of sleds... I wonder if Adnachiel can make one for me.",
-char_209_ardign_CN_009,Talk after Trust Increase 3,"I have plenty of things I don't like. Oripathy, for instance... But there's no point in worrying too much. I would rather live my days in happiness! Plus, I've got you with me, Doctor!",
-char_209_ardign_CN_010,Idle,Woof!,
-char_209_ardign_CN_011,Onboard,Heeellooo! I've never been in such a big mobile facility before! I'm so excited! Merry of the Cardigan here. Are you the Doctor?,
-char_209_ardign_CN_012,Watching Battle Record,"Ehehe, thanks!",
-char_209_ardign_CN_013,Promotion 1,Yay! I will keep fighting hard for my next promotion! I'm sure it will come in time!,
-char_209_ardign_CN_017,Added to Squad,"Awesome! Finally, my time has come!",
-char_209_ardign_CN_018,Appointed as Squad Leader,Ansel! Come on! I promise I won't lead everyone on a wild-goose chase!,
-char_209_ardign_CN_019,Depart,Formation ready! Advance to the objective!,
-char_209_ardign_CN_020,Begin Operation,"Let's go! ...Steward, what was I supposed to do next?",
-char_209_ardign_CN_021,Selecting Operator 1,There's no hesitating in battle!,
-char_209_ardign_CN_022,Selecting Operator 2,All right!,
-char_209_ardign_CN_023,Deployment 1,Understood!,
-char_209_ardign_CN_024,Deployment 2,I will protect us all!,
-char_209_ardign_CN_025,In Battle 1,Aha!,
-char_209_ardign_CN_026,In Battle 2,Your attacks have no effect!,
-char_209_ardign_CN_029,4-star Result,"I knew we could do it. Right, Adnachiel?",
-char_209_ardign_CN_030,3-star Result,Yeeaaah! A flawless victory!,
-char_209_ardign_CN_031,Sub 3-star Result,"Thanks, Medics! You saved my life...",
-char_209_ardign_CN_032,Operation Failure,"Ughh... Sorry, Ansel...",
-char_209_ardign_CN_033,Assigned to Facility,"Steward, what should I do next?",
-char_209_ardign_CN_034,Tap,Woah! Roller coaster—!,
-char_209_ardign_CN_036,Trust Tap,"Melantha? Huh? Why are you here, Doctor?!",
-char_209_ardign_CN_037,Title,Arknights.,
-char_209_ardign_CN_038,New Year's blessing,"Happy New Year, Doctor! I wonder why there's no snow outside. And after I spent all that time getting my sled ready… When will I ever get to rocket down the slopes straight into a snowdrift like I did when I was little?",
-char_209_ardign_CN_042,Greeting,"I'm right here, Doctor!",
-char_209_ardign_CN_043,Birthday,"Yay! Happy birthday, Doctor! Hm, something smells good. You got a gift from Melantha, didn't you? What a scent! Melantha taught me how to make perfume, actually, do you want to try with me?",
-char_209_ardign_CN_044,Anniversary Celebration,"I promise I'll be more careful, I won't break anything! Sorry… Honestly, my salary won't even be enough to cover the damages if I keep breaking things… heheh…",
+id,title,original,original_zh,translation
+char_209_ardign_CN_001,Appointed as Assistant,"Hello! It's my shift now, Doctor!",耶！博士，现在轮到我陪您值班了！,"Ура! Доктор, теперь моя очередь дежурить с вами!"
+char_209_ardign_CN_002,Talk 1,"What does my 'Cardigan' codename mean? Ahh, It's actually the name of my clan. It's a family tradition to use it as a codename.",“卡缇”作为代号的含义是什么？啊哈~其实这是大家对我们种族的称呼，把它当做代号也是我家里的习惯啦。,"Что означает мой позывной «Кардиган»? А-ха, на самом деле так называют мой род. Для нашей семьи это традиция — брать его как позывной."
+char_209_ardign_CN_003,Talk 2,"Wow, I found one of my people on another team! I've got to invite her to hang out with me sometime!",啊，另一个小组里也有和我同族的孩子耶~下次我去约她玩！,"Ого, в другой команде есть ещё девочка из моего рода! Я обязательно позову её погулять!"
+char_209_ardign_CN_004,Talk 3,"I was born in the north of Leithanien, a place full of snowy forests. Oh, that reminds me, I can teach you to ski, Doctor!",我出生在莱塔尼亚的北方，那里到处都是雪和森林。对了，下次我来教您滑雪吧！,"Я родилась на севере Лейтаниена, где вокруг только снег и леса. Ах, кстати, я могу научить тебя кататься на лыжах, доктор!"
+char_209_ardign_CN_005,Talk after Promotion 1,"A lot of people say stuff like 'it's a Defender's job to hold her ground,' but that's such an outdated concept. Speed is what you need! This is the age of maneuver warfare! Mobility is the key to victory!",大家经常抱着“重装干员的话，职责就是巩固好自己的防线”这样老旧的印象，这样的想法早就落伍啦！现在可是机动战的时代，速度才是最重要的！,"Многие говорят: «Защитник должен стоять на своём», но это устаревшее представление! Сейчас век маневренной войны, главное — скорость! Подвижность — ключ к победе!"
+char_209_ardign_CN_007,Talk after Trust Increase 1,"*Sniff sniff*... I recognize that perfume, it's gotta be Melantha! I hope we can become closer friends... 'Cause then we'll be able to work better as a team!",哼哼，这股香气，一定是玫兰莎！欸博士我和你说，我好想和她再亲近一点……那样的话，我们的团队协作一定会变得更加默契！,"Нюх-нюх... Этот аромат — наверное, Меланта! Ой, доктор, я так хочу подружиться с ней поближе... Тогда наша командная работа станет куда слаженнее!"
+char_209_ardign_CN_008,Talk after Trust Increase 2,"Hehe, I really enjoy playing with kids. Back in my hometown, I took my brothers and sisters sledding every year. I really miss it! Oh, speaking of sleds... I wonder if Adnachiel can make one for me.",嘿嘿，我超喜欢和孩子们一起玩的。在老家的时候，我每年都要拉着弟弟妹妹们坐着雪橇去旅行呢，好怀念啊~啊，说到雪橇——不知道安德切尔愿不愿意帮我做一个呢？,"Хи-хи, я обожаю играть с детьми. Дома я каждый год возила братишек и сестрёнок на санках. Так скучаю... А, насчёт санок — может, Аднахиэль сделает мне новые?"
+char_209_ardign_CN_009,Talk after Trust Increase 3,"I have plenty of things I don't like. Oripathy, for instance... But there's no point in worrying too much. I would rather live my days in happiness! Plus, I've got you with me, Doctor!",我也有很多不喜欢的东西，比如说矿石病啊什么的……但是，反正为这些烦恼也没有用，还不如快快乐乐地度过每一天！而且，还有博士您在我身边呢！,"У меня тоже много того, что мне не нравится, например орипатия... Но волноваться бесполезно, лучше каждый день жить счастливо! И к тому же ты рядом, доктор!"
+char_209_ardign_CN_010,Idle,Woof!,汪！,Гав!
+char_209_ardign_CN_011,Onboard,Heeellooo! I've never been in such a big mobile facility before! I'm so excited! Merry of the Cardigan here. Are you the Doctor?,你——好！我第一次来到这么大的移动设施里面，现在超兴奋的！我是卡缇族的梅莉，您就是博士吗？,"Здра-а-авствуйте! Я впервые в такой большой мобильной крепости, так и хочется прыгать! Я — Мерри из рода Кардиган. Вы доктор?"
+char_209_ardign_CN_012,Watching Battle Record,"Ehehe, thanks!",欸嘿嘿，谢谢！,"Хи-хи, спасибо!"
+char_209_ardign_CN_013,Promotion 1,Yay! I will keep fighting hard for my next promotion! I'm sure it will come in time!,耶！我会努力争取下次晋升的！毕竟有一就有二嘛~,"Ура! Я постараюсь добиться и следующего повышения! Раз было первое, будет и второе~"
+char_209_ardign_CN_017,Added to Squad,"Awesome! Finally, my time has come!",好耶！终于等到机会了！,Ого! Наконец-то мой черёд!
+char_209_ardign_CN_018,Appointed as Squad Leader,Ansel! Come on! I promise I won't lead everyone on a wild-goose chase!,啊，安赛尔！哎呀，不会的不会的，我才不会带大家乱跑啦……,"А, Ансель! Нет-нет, я не поведу всех Бог знает куда..."
+char_209_ardign_CN_019,Depart,Formation ready! Advance to the objective!,排队出发！向目标战场，前进！,"В строй! К цели, вперёд!"
+char_209_ardign_CN_020,Begin Operation,"Let's go! ...Steward, what was I supposed to do next?",走了！……史都华德，接下来我该怎么做来着？,"Пошли!.. Стой, Стьюард, что я дальше делала?"
+char_209_ardign_CN_021,Selecting Operator 1,There's no hesitating in battle!,在战场上，可不能犹豫！,На поле боя нельзя медлить!
+char_209_ardign_CN_022,Selecting Operator 2,All right!,好！,Хорошо!
+char_209_ardign_CN_023,Deployment 1,Understood!,了解！,Поняла!
+char_209_ardign_CN_024,Deployment 2,I will protect us all!,我会保护大家的！,Я всех защищу!
+char_209_ardign_CN_025,In Battle 1,Aha!,啊哈！,Ага!
+char_209_ardign_CN_026,In Battle 2,Your attacks have no effect!,你们的攻击毫无意义！,Ваши атаки бесполезны!
+char_209_ardign_CN_029,4-star Result,"I knew we could do it. Right, Adnachiel?",我相信大家一定能做到，对吧安德切尔？,"Я знала, что у нас получится, правда, Аднахиэль?"
+char_209_ardign_CN_030,3-star Result,Yeeaaah! A flawless victory!,耶——！大获全胜！,Ура-а! Победа без единого пятнышка!
+char_209_ardign_CN_031,Sub 3-star Result,"Thanks, Medics! You saved my life...",谢谢医疗组！你们都是我的救命恩人……,"Спасибо, медики! Вы меня спасли..."
+char_209_ardign_CN_032,Operation Failure,"Ughh... Sorry, Ansel...",呜……对不起……安赛尔……,Ух... Прости... Ансель...
+char_209_ardign_CN_033,Assigned to Facility,"Steward, what should I do next?",史都华德，接下来我该做点什么好？,"Стьюард, что мне дальше делать?"
+char_209_ardign_CN_034,Tap,Woah! Roller coaster—!,哇！过山车——！,Ой! Американские горки —!
+char_209_ardign_CN_036,Trust Tap,"Melantha? Huh? Why are you here, Doctor?!",玫兰莎？哎，怎么是博士……,"Меланта? Эй, почему это ты, доктор...?"
+char_209_ardign_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_209_ardign_CN_038,New Year's blessing,"Happy New Year, Doctor! I wonder why there's no snow outside. And after I spent all that time getting my sled ready… When will I ever get to rocket down the slopes straight into a snowdrift like I did when I was little?",博士，新年快乐！外面怎么还是没有下雪啊，好可惜，我的雪橇都准备了好久了，什么时候才能像小时候那样，快快乐乐地从山坡上滑下去，然后一头栽倒在雪堆里呢？,"Доктор, с новым годом! Почему снаружи всё нет снега? Я же так долго готовила санки... Когда же я снова помчусь с горы, как в детстве, и рухну в сугроб?"
+char_209_ardign_CN_042,Greeting,"I'm right here, Doctor!",我在这里哦，博士！,"Я здесь, доктор!"
+char_209_ardign_CN_043,Birthday,"Yay! Happy birthday, Doctor! Hm, something smells good. You got a gift from Melantha, didn't you? What a scent! Melantha taught me how to make perfume, actually, do you want to try with me?",耶~博士，生日快乐！嗯，我闻到了香香的味道，是玫兰莎送给博士的礼物吧？真好闻，她也教会我怎么调配香水了！博士，要不要一起试试看呀！,"Ура~ С днём рождения, доктор! Мм, чем это пахнет... Это Меланта подарила тебе подарок? Такой аромат! Она же научила меня делать духи! Доктор, давай попробуем вместе!"
+char_209_ardign_CN_044,Anniversary Celebration,"I promise I'll be more careful, I won't break anything! Sorry… Honestly, my salary won't even be enough to cover the damages if I keep breaking things… heheh…",我保证，以后不会再冒冒失失地弄坏东西了！真的很抱歉啦……而且，我的工资也没有那么多可以用来赔的了，嘿嘿。,"Я обещаю, что больше не буду такой опрометчивой и ничего не разобью! Правда-правда, простите... А зарплаты моей хватит разве что на то, чтобы всё перебить... хи-хи."

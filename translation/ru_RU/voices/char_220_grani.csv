@@ -1,39 +1,39 @@
-id,title,original,translation
-char_220_grani_CN_001,Appointed as Assistant,"Reporting in, Doctor! Patrol completed. Nothing out of the ordinary!",
-char_220_grani_CN_002,Talk 1,I'm starving. That battle really took a lot out of me... You say you've got something to eat? Just for me? Whoa... It's… it's an apple pie! Thanks a lot! It looks great!,
-char_220_grani_CN_003,Talk 2,"Everybody here at Rhodes Island calls me 'Tiny,' but it really doesn't bother me. The boys back on the force always teased me the same way. Hey! Don't pat my head! Or rub my ears! Or squeeze my cheek for that matter!",
-char_220_grani_CN_004,Talk 3,"Doctor, I might not make it to training on Wednesdays or Fridays... Right, I need to be out there helping the civil corps to keep the peace and catch the bad guys! Wh-waht? I have an important mission on Friday?!",
-char_220_grani_CN_005,Talk after Promotion 1,"Rhodes Island has lots of strong Operators, but there's no one who can match my speed!",
-char_220_grani_CN_006,Talk after Promotion 2,"Time flies, Dcotor. We've been working together so long. I will never forget anything we've been through. But we can't stop now! We have to keep striving for that bright future, don't we?",
-char_220_grani_CN_007,Talk after Trust Increase 1,"I just bumped into Skadi in the hallway... Doctor, you think she's cold and distant, don't you? She's actually very kind. Really!",
-char_220_grani_CN_008,Talk after Trust Increase 2,"Compared to everyone else, I'm pretty ordinary. I don't have any superpowers, or spectacular achievements to brag about... But I don't need magic or claws to make the world a better place. I can do that with my own two hands! But before that, we still have to eat well.",
-char_220_grani_CN_009,Talk after Trust Increase 3,"Doctor, you always worry so much about your people, but you never remember to take care of yourself. You can't do that! No matter what dangers you may face, I promise I'll be there to hold your hand! Definitely, you have my word!",
-char_220_grani_CN_010,Idle,"Hmm? Why do you smell so good, Doctor? You're definitely hiding something tasty, aren't you?!",
-char_220_grani_CN_011,Onboard,"Mounted Police Officer Grani, here to answer your call for help! Fear not. From this point forward, I will protect you!",
-char_220_grani_CN_012,Watching Battle Record,I see. That's another thing I should watch out for. Got it!,
-char_220_grani_CN_013,Promotion 1,"An elite promotion medal? For me? Thank you, Doctor! I'll hang it up with my police medal!",
-char_220_grani_CN_014,Promotion 2,"Since the day of my first mission, I've been leaning on this lance to get back on my feet. As long as I grip it tight, my heart will brim with the courage it needs to protect the people and their dreams.",
-char_220_grani_CN_017,Added to Squad,Shall I go scout the battlefield?,
-char_220_grani_CN_018,Appointed as Squad Leader,You're making me the captain? Okay. I'll protect the whole squad!,
-char_220_grani_CN_019,Depart,"All right, let's bring home a victory!",
-char_220_grani_CN_020,Begin Operation,Your crimes stop here!,
-char_220_grani_CN_021,Selecting Operator 1,Leave it to me!,
-char_220_grani_CN_022,Selecting Operator 2,Sure!,
-char_220_grani_CN_023,Deployment 1,In position.,
-char_220_grani_CN_024,Deployment 2,Moving out!,
-char_220_grani_CN_025,In Battle 1,My lance will clear a path!,
-char_220_grani_CN_026,In Battle 2,Set! Ready! Charge on!,
-char_220_grani_CN_027,In Battle 3,Only one comes out on top when the lances are crossed!,
-char_220_grani_CN_028,In Battle 4,My battlefield extends well above the ground!,
-char_220_grani_CN_029,4-star Result,"If you look to harm those under my protection, you'll have to go through me first!",
-char_220_grani_CN_030,3-star Result,Nice! That was an excellent fight! You all did splendidly!,
-char_220_grani_CN_031,Sub 3-star Result,"Doctor, please stay close to me. There may still be some enemies around.",
-char_220_grani_CN_032,Operation Failure,Damn it... I can't let myself fall here!,
-char_220_grani_CN_033,Assigned to Facility,Anyone need help here?,
-char_220_grani_CN_034,Tap,Careful!,
-char_220_grani_CN_036,Trust Tap,"If we get the chance, I hope we can see the world together, Doctor.",
-char_220_grani_CN_037,Title,Arknights.,
-char_220_grani_CN_038,New Year's blessing,"Happy New Year, Doctor! It's been another year, and the energy at Rhodes Island gives me the drive to do more things to benefit Terra. Can't do it on an empty stomach though. What are you guys having? Smells good.",
-char_220_grani_CN_042,Greeting,"Hello, Doctor!",
-char_220_grani_CN_043,Birthday,"Happy birthday, Doctor! I've tried this a few times with the other operators, and it's super fun! Come, get on my back. Ready? 3, 2, 1... go!",
-char_220_grani_CN_044,Anniversary Celebration,"This lance has been with me for a long time. People say I don't use it to its full potential, but I only hope that justice is served wherever my lance can reach. I won't lose to anyone as long as I know I'm fighting for justice.",
+id,title,original,original_zh,translation
+char_220_grani_CN_001,Appointed as Assistant,"Reporting in, Doctor! Patrol completed. Nothing out of the ordinary!",报告Dr.{@nickname}！巡查完毕，没有异常！,"Докладываю, Dr.{@nickname}! Патрулирование завершено, без происшествий!"
+char_220_grani_CN_002,Talk 1,I'm starving. That battle really took a lot out of me... You say you've got something to eat? Just for me? Whoa... It's… it's an apple pie! Thanks a lot! It looks great!,好饿啊，战斗消耗了我好多体力……哎，{@nickname}这里有食物吗？特别为我准备的？是，是苹果派！谢谢！我、我就不客气了！,"Так голодно... бой отнял у меня много сил... Эй, {@nickname}, тут есть еда? Специально для меня? Я-яблочный пирог! Спасибо! Я, я не церемонюсь!"
+char_220_grani_CN_003,Talk 2,"Everybody here at Rhodes Island calls me 'Tiny,' but it really doesn't bother me. The boys back on the force always teased me the same way. Hey! Don't pat my head! Or rub my ears! Or squeeze my cheek for that matter!",罗德岛的大家喜欢叫我“小个子”，嗯——我不会在意的，其实，以前骑警队的同事也会这样捉弄我。等等，禁止摸头！还有耳朵！不可以随便揉我的脸！,"Все на Родосе зовут меня «крошкой» — мм, я не обижаюсь. Раньше в конной полиции надо мной тоже подшучивали. Ах, не трогать голову! И уши! И не мять мне щёки!"
+char_220_grani_CN_004,Talk 3,"Doctor, I might not make it to training on Wednesdays or Fridays... Right, I need to be out there helping the civil corps to keep the peace and catch the bad guys! Wh-waht? I have an important mission on Friday?!",{@nickname}，星期三和星期五晚上的常规训练我也许不能参加……嗯，这两天我会帮助民间组织维护治安、打击犯罪！唉？星期五因为有紧急任务，所以不行吗！,"{@nickname}, в среду и пятницу вечером я, может, не смогу прийти на обычную тренировку... Мм, в эти дни я буду помогать гражданским организациям поддерживать порядок и ловить преступников! Ах? В пятницу из-за срочного задания нельзя?!"
+char_220_grani_CN_005,Talk after Promotion 1,"Rhodes Island has lots of strong Operators, but there's no one who can match my speed!",罗德岛的大家实力都很强，不过较量起速度的话，我是不会输给任何人的！,"На Родосе все очень сильны, но в скорости я никому не уступлю!"
+char_220_grani_CN_006,Talk after Promotion 2,"Time flies, Dcotor. We've been working together so long. I will never forget anything we've been through. But we can't stop now! We have to keep striving for that bright future, don't we?",不知不觉中，已经和你共度了这么长的时光呢。{@nickname}，一起经历过的那些战斗，我一点都不会忘记。但停在这里可不行！我们的未来可是更加广阔的，对吗？,"Не заметила, как мы с тобой провели столько времени. {@nickname}, я ничего не забуду из тех боёв, что мы прошли вместе. Но останавливаться здесь нельзя! Наше будущее гораздо шире, правда?"
+char_220_grani_CN_007,Talk after Trust Increase 1,"I just bumped into Skadi in the hallway... Doctor, you think she's cold and distant, don't you? She's actually very kind. Really!",刚才我在走廊上碰见了斯卡蒂……{@nickname}是不是觉得她平常对人很冷淡？其实她是个很善良的人哦，真的！,"Я только что встретила в коридоре Скади... {@nickname}, ты же находишь её холодной? На самом деле она очень добрая, правда!"
+char_220_grani_CN_008,Talk after Trust Increase 2,"Compared to everyone else, I'm pretty ordinary. I don't have any superpowers, or spectacular achievements to brag about... But I don't need magic or claws to make the world a better place. I can do that with my own two hands! But before that, we still have to eat well.",和大家比起来，我很普通。既没有非凡的能力，也没有什么辉煌的战绩……但用自己的双手把这个世界变得更好这件事，与力量强不强是没有关系的！不过，不好好吃饭是一定不行的！,"По сравнению со всеми я обычная. Ни выдающихся способностей, ни громких побед... Но менять мир к лучшему своими руками — совсем не зависит от того, сильный ты или нет! Только вот нормально есть всё равно необходимо!"
+char_220_grani_CN_009,Talk after Trust Increase 3,"Doctor, you always worry so much about your people, but you never remember to take care of yourself. You can't do that! No matter what dangers you may face, I promise I'll be there to hold your hand! Definitely, you have my word!",{@nickname}始终在为大家着想，却从来没有顾及过自己的安全，这可不对！无论你今后遇到什么样的危险，我可都会拉住你的手的！嗯嗯，就这样约好了！,"{@nickname} всегда думает о других, но никогда не думает о своей безопасности — это неправильно! Что бы ни ждало тебя впереди, я непременно возьму тебя за руку! Да-да, договорились!"
+char_220_grani_CN_010,Idle,"Hmm? Why do you smell so good, Doctor? You're definitely hiding something tasty, aren't you?!",唔唔，为什么{@nickname}身上会飘出这么香的味道？你一定藏了什么好吃的，对不对！,"Ммм, почему от {@nickname} так вкусно пахнет? Ты что-то спрятал, правда?!"
+char_220_grani_CN_011,Onboard,"Mounted Police Officer Grani, here to answer your call for help! Fear not. From this point forward, I will protect you!",骑警格拉尼，听到了{@nickname}你求助的声音！没问题的，从今天开始，我会拼尽全力保护你！,"Конный полицейский Грани, я услышала, как {@nickname} зовёт на помощь! Не волнуйся — с сегодняшнего дня я буду защищать тебя изо всех сил!"
+char_220_grani_CN_012,Watching Battle Record,I see. That's another thing I should watch out for. Got it!,原来如此，在这种地方也不能疏忽，嗯嗯！,"Понятно, даже здесь нельзя расслабляться — угу!"
+char_220_grani_CN_013,Promotion 1,"An elite promotion medal? For me? Thank you, Doctor! I'll hang it up with my police medal!",晋升勋章？给我的吗？谢谢{@nickname}！我会把它和骑警勋章挂在一起的！,"Медаль за повышение? Мне? Спасибо, {@nickname}! Я повешу её рядом с медалью конной полиции!"
+char_220_grani_CN_014,Promotion 2,"Since the day of my first mission, I've been leaning on this lance to get back on my feet. As long as I grip it tight, my heart will brim with the courage it needs to protect the people and their dreams.",从第一次执行任务到现在，这把长枪无数次支撑着我站起来。只要紧握住它，我的内心就会充满足以守护大家梦想的勇气。,"С первого задания до сих пор это копьё не раз помогало мне подняться. Стоит сжать его покрепче — и сердце наполняется храбростью, которой хватает, чтобы беречь мечты всех."
+char_220_grani_CN_017,Added to Squad,Shall I go scout the battlefield?,需要我去侦查战场吗？,Мне разведать поле боя?
+char_220_grani_CN_018,Appointed as Squad Leader,You're making me the captain? Okay. I'll protect the whole squad!,把大家托付给我吗？没问题，我会努力保护整个小队的！,"Мне доверяете всех? Понятно, я постараюсь защитить весь отряд!"
+char_220_grani_CN_019,Depart,"All right, let's bring home a victory!",各位，让我们把胜利带回罗德岛！,"Все, давайте принесём победу на Родос!"
+char_220_grani_CN_020,Begin Operation,Your crimes stop here!,你们的胡作非为也就到此为止了！,Вашим безобразиям конец!
+char_220_grani_CN_021,Selecting Operator 1,Leave it to me!,交给我吧！,Положитесь на меня!
+char_220_grani_CN_022,Selecting Operator 2,Sure!,嗯！,Угу!
+char_220_grani_CN_023,Deployment 1,In position.,已就位。,На позиции.
+char_220_grani_CN_024,Deployment 2,Moving out!,奔跑起来吧！,"Вперёд, бегом!"
+char_220_grani_CN_025,In Battle 1,My lance will clear a path!,以我的枪尖开路！,Прокладываю путь копьём!
+char_220_grani_CN_026,In Battle 2,Set! Ready! Charge on!,时间到，冲刺！,Время вышло — вперёд!
+char_220_grani_CN_027,In Battle 3,Only one comes out on top when the lances are crossed!,只要交锋就会决出胜负！,Стоит скрестить копья — и победитель известен!
+char_220_grani_CN_028,In Battle 4,My battlefield extends well above the ground!,我的战场，可不只是在地面！,Моё поле боя — не только земля!
+char_220_grani_CN_029,4-star Result,"If you look to harm those under my protection, you'll have to go through me first!",为了那些需要保护的人，我绝不会让你们再前进一步！,"Ради тех, кого нужно защищать, я не дам вам шагнуть дальше!"
+char_220_grani_CN_030,3-star Result,Nice! That was an excellent fight! You all did splendidly!,嗯！赢得真漂亮！大家的战斗非常精彩！,Угу! Как чистая победа! Все сражались просто отлично!
+char_220_grani_CN_031,Sub 3-star Result,"Doctor, please stay close to me. There may still be some enemies around.",{@nickname}，请不要离我太远，也许还有漏网的敌人。,"{@nickname}, не отходите далеко — могут остаться враги."
+char_220_grani_CN_032,Operation Failure,Damn it... I can't let myself fall here!,可恶……我不会倒下的！,Чёрт... я не упаду!
+char_220_grani_CN_033,Assigned to Facility,Anyone need help here?,有谁需要帮忙吗？,Кому нужна помощь?
+char_220_grani_CN_034,Tap,Careful!,诶诶！,Эй-эй!
+char_220_grani_CN_036,Trust Tap,"If we get the chance, I hope we can see the world together, Doctor.",如果有机会，我想和{@nickname}一起去看一看这个世界。,"Если выпадет шанс, я хочу посмотреть мир вместе с {@nickname}."
+char_220_grani_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_220_grani_CN_038,New Year's blessing,"Happy New Year, Doctor! It's been another year, and the energy at Rhodes Island gives me the drive to do more things to benefit Terra. Can't do it on an empty stomach though. What are you guys having? Smells good.",新年快乐，博士！我们也奋战了一年了呢，罗德岛的各位身上的那股劲，足以支撑我做更多让这片大地变好的事情！但话又说回来，不吃饱肚子可是不行的，你们在吃什么这么香？,"С Новым годом, Доктор! Мы тоже проработали целый год. Энергия людей на Родосе даёт мне силы делать ещё больше для этой земли! Но, с другой стороны, на пустой желудок не потянешь — что вы там едите, так вкусно пахнет?"
+char_220_grani_CN_042,Greeting,"Hello, Doctor!",你好，博士！,"Здравствуйте, Доктор!"
+char_220_grani_CN_043,Birthday,"Happy birthday, Doctor! I've tried this a few times with the other operators, and it's super fun! Come, get on my back. Ready? 3, 2, 1... go!",博士，生日快乐呀！嘿嘿，我之前和其他干员试过几次，真的超级好玩，来，让我把你背起来，趴稳了吗？三、二、一——冲咯！,"Доктор, с днём рождения! Хи-хи, я пробовала это с другими оперативниками — очень весело! Давай я тебя посажу к себе на спину. Уцепился? Три, два, один — поехали!"
+char_220_grani_CN_044,Anniversary Celebration,"This lance has been with me for a long time. People say I don't use it to its full potential, but I only hope that justice is served wherever my lance can reach. I won't lose to anyone as long as I know I'm fighting for justice.",这把长枪陪伴我很久了，很多人都说我无法最大限度地发掘它的潜能。但是博士，我手中的长枪所能及的范围，我希望是正义所在的地方，只要坚信自己是在为正义而战，我就不会输给任何人。,"Это копьё со мной давно. Многие говорят, что я не могу раскрыть его потенциал до конца. Но, Доктор, я хочу, чтобы там, куда дотягивается моё копьё, была справедливость. Пока я верю, что сражаюсь за неё, я никому не проиграю."

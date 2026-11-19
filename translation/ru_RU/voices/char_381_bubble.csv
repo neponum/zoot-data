@@ -1,39 +1,39 @@
-id,title,original,translation
-char_381_bubble_CN_001,Appointed as Assistant,Let's see what goodies the Doctor hides in this drawer.,
-char_381_bubble_CN_002,Talk 1,"I'm probably only about as big as one of Papa's legs right now. But one day, I'm gonna be as big as him, and then I'll trample all over the bad guys! Graaagh!",
-char_381_bubble_CN_003,Talk 2,"I'm really, really sorry! I won't run in the hallways ever again!",
-char_381_bubble_CN_004,Talk 3,"Fighting is super easy. I point my shield one way, and nobody can beat me. Huh? What if they get behind me? Ohyeaah... I never thought of that!",
-char_381_bubble_CN_005,Talk after Promotion 1,"Gavial? Never heard of her. She's tough? She's famous in Sargon? Okay, whatever. I'll see for myself how tough she is.",
-char_381_bubble_CN_006,Talk after Promotion 2,"Oh, you're talking about Gavial? I'm Gavial's number one fan. See, she even signed my shield for me. That's her autograph! I think pretty much nobody could take down Gavial, besides Papa.",
-char_381_bubble_CN_007,Talk after Trust Increase 1,"Doctor, shhh, tell me the truth. Kay says Vulcan can hammer straight through the floor, can she? No? Phew... Hehe. I knew it. That means my Papa is definitely stronger. He could bust down a Rhodes smoke stack with one punch.",
-char_381_bubble_CN_008,Talk after Trust Increase 2,Do I really have to write it in the notebook...? Fine... 'I knocked over Lancet-2 today. I won't do it again.',
-char_381_bubble_CN_009,Talk after Trust Increase 3,"This is my shield. It'll be one of my greaves someday, or maybe a pauldron. Then as long as I'm standing behind you, hehe, nobody'll ever bully you.",
-char_381_bubble_CN_010,Idle,"Doctor, wake up! Someone's here to see you.",
-char_381_bubble_CN_011,Onboard,"You're the boss of this training camp? And they call you the Doctor? Hrmmmm... But you don't look strong... Whatever. I'm Bubble. I may be the weakest in my tribe right now, but you're gonna train me until I'm the second strongest.",
-char_381_bubble_CN_012,Watching Battle Record,"Fight! Fight! Fiiiiiight! What, why'd they stop. Is it over?",
-char_381_bubble_CN_013,Promotion 1,A reward for my training? Great! I can't eat it? Grrr...,
-char_381_bubble_CN_014,Promotion 2,"I think I got a good chance of beating Kay now! Okay, lemme at her. Doctor, you can come watch!",
-char_381_bubble_CN_017,Added to Squad,Be good? I'll try.,
-char_381_bubble_CN_018,Appointed as Squad Leader,"I'll count down and we charge on one, okay?",
-char_381_bubble_CN_019,Depart,Chaaarge!,
-char_381_bubble_CN_020,Begin Operation,Waaar!,
-char_381_bubble_CN_021,Selecting Operator 1,I got this.,
-char_381_bubble_CN_022,Selecting Operator 2,Haha!,
-char_381_bubble_CN_023,Deployment 1,Get the bad guys!,
-char_381_bubble_CN_024,Deployment 2,Shield up!,
-char_381_bubble_CN_025,In Battle 1,Traaaaaample!,
-char_381_bubble_CN_026,In Battle 2,Baaaaash!,
-char_381_bubble_CN_027,In Battle 3,Spike striiiike!,
-char_381_bubble_CN_028,In Battle 4,Bam!,
-char_381_bubble_CN_029,4-star Result,"Doctor, if you got your body as strong as your brain, you could be an awesome warrior like my Papa!",
-char_381_bubble_CN_030,3-star Result,What did I tell you? I'm super strong.,
-char_381_bubble_CN_031,Sub 3-star Result,Huh? Some of them got away? Did I let them through?,
-char_381_bubble_CN_032,Operation Failure,We can't beat them! Whatdowedo?! Whatdowedo?!,
-char_381_bubble_CN_033,Assigned to Facility,"I need a way, waaay bigger room. How can anyone live in a little place like this?",
-char_381_bubble_CN_034,Tap,"Hey, that tickles.",
-char_381_bubble_CN_036,Trust Tap,"Doctor, let's play hide-and-seek!",
-char_381_bubble_CN_037,Title,Arknights.,
-char_381_bubble_CN_038,New Year's blessing,"It's New Year's! We got the day off! No homework! That means it's time to challenge Kay! Doctor, you can't just sit there all day. Why don't you come wrestle with us? It'll be fun!",
-char_381_bubble_CN_042,Greeting,Doctor!,
-char_381_bubble_CN_043,Birthday,"Happy birthday, Doctor! Oh, this means you've grown a whole extra year! When am I gonna get as big as you?",
-char_381_bubble_CN_044,Anniversary Celebration,"I have to train hard at Rhodes Island! First, I'm gonna get tougher than Kay, then I'll beat Gavial, until I finally outdo Vulcan! Then I can go back home and be a warrior as great as Papa...! Doctor, are you gonna miss me when I'm gone?",
+id,title,original,original_zh,translation
+char_381_bubble_CN_001,Appointed as Assistant,Let's see what goodies the Doctor hides in this drawer.,让我看看博士的抽屉里都藏了点什么好东西。,"Посмотрю-ка, что Доктор прячет в ящике."
+char_381_bubble_CN_002,Talk 1,"I'm probably only about as big as one of Papa's legs right now. But one day, I'm gonna be as big as him, and then I'll trample all over the bad guys! Graaagh!",我现在大概只有爸爸一条腿那么大吧，以后我也要变那么大，然后撞翻所有的坏人！哇嗷！！,"Сейчас я примерно с одну папину ногу. Когда я вырасту такой же, я сбивать всех плохих с ног! Вау-ау!!"
+char_381_bubble_CN_003,Talk 2,"I'm really, really sorry! I won't run in the hallways ever again!",对不起我错了，下次再也不在走廊里乱跑了！,"Простите, я не права! Больше никогда не буду бегать по коридору!"
+char_381_bubble_CN_004,Talk 3,"Fighting is super easy. I point my shield one way, and nobody can beat me. Huh? What if they get behind me? Ohyeaah... I never thought of that!",打架超简单的啦，盾往那里一竖，就没人能打过我了。啊绕到我背后就行？对哦，我怎么没想到呢？,"Драться очень просто: поставишь щит — и никто тебя не одолеет. Ах, достаточно зайти мне за спину? Точно, как я сама не догадалась?"
+char_381_bubble_CN_005,Talk after Promotion 1,"Gavial? Never heard of her. She's tough? She's famous in Sargon? Okay, whatever. I'll see for myself how tough she is.",嘉维尔？没听说过，很强吗，在萨尔贡很有名吗？哎呀别说了，厉害不厉害我看看就知道了。,"Гавиал? Не слышала. Она сильная? В Саргоне знаменита? Ну, хватит — сильная она или нет, я сама увижу."
+char_381_bubble_CN_006,Talk after Promotion 2,"Oh, you're talking about Gavial? I'm Gavial's number one fan. See, she even signed my shield for me. That's her autograph! I think pretty much nobody could take down Gavial, besides Papa.",哦，你是说嘉维尔姐姐吗，哎呀我可是嘉维尔姐姐的头号粉丝，看到我盾牌里那个签名了吗，是亲笔签名哦！我觉得吧，除了老爹，估计也没几个人能打过嘉维尔姐姐了。,"О, вы про сестру Гавиал! Я её номер один поклонница! Видите подпись на моём щите? Она собственноручная! По-моему, кроме папы, вряд ли кто-то сможет победить сестру Гавиал."
+char_381_bubble_CN_007,Talk after Trust Increase 1,"Doctor, shhh, tell me the truth. Kay says Vulcan can hammer straight through the floor, can she? No? Phew... Hehe. I knew it. That means my Papa is definitely stronger. He could bust down a Rhodes smoke stack with one punch.",博士你悄悄告诉我，小刻的火神大姐能不能一锤砸穿这层楼？不会吗？我就知道是这样，那还是我爸爸比较厉害，一拳就能打碎罗德岛的大烟囱。,"Доктор, шепните мне: сестра Вулкан у Кей может ударом молота пробить этот этаж? Не может? Я так и знала! Значит, мой папа всё равно круче — одним ударом разбивает большую трубу Родоса."
+char_381_bubble_CN_008,Talk after Trust Increase 2,Do I really have to write it in the notebook...? Fine... 'I knocked over Lancet-2 today. I won't do it again.',真的……还要在这本本子上加一笔吗……好吧……“今天，泡泡撞翻了Lancet-2小姐，泡泡下次不会这样做了。”,Правда... опять записать в эту тетрадку?.. Ладно... «Сегодня Баббл опрокинула мисс Lancet-2. Баббл больше так не будет».
+char_381_bubble_CN_009,Talk after Trust Increase 3,"This is my shield. It'll be one of my greaves someday, or maybe a pauldron. Then as long as I'm standing behind you, hehe, nobody'll ever bully you.",这是我的盾牌，以后会是我的腿甲，说不定会变成我的肩甲哦，到那时候，我只要往你身后一站，嘿嘿，就没人敢欺负你啦。,"Это мой щит. Когда-нибудь он станет моими поножами, а может — наплечниками. И тогда, стоит мне встать за твоей спиной, хи-хи — никто не посмеет тебя обижать."
+char_381_bubble_CN_010,Idle,"Doctor, wake up! Someone's here to see you.",博士，起来呀，门口好像有人找你。,"Доктор, вставайте — кажется, к вам кто-то пришёл."
+char_381_bubble_CN_011,Onboard,"You're the boss of this training camp? And they call you the Doctor? Hrmmmm... But you don't look strong... Whatever. I'm Bubble. I may be the weakest in my tribe right now, but you're gonna train me until I'm the second strongest.",你就是训练营的老大吗，你叫博士吗？嗯……但你看起来不壮啊……算了，我叫泡泡，是部落里最弱的，你要负责把我训练成第二强的哦。,"Ты глава тренировочного лагеря? Тебя зовут Доктор? Мм... но ты не такой здоровый... Ладно, я Баббл, в племени я самая слабая — ты должен вытренировать меня во вторую по силе!"
+char_381_bubble_CN_012,Watching Battle Record,"Fight! Fight! Fiiiiiight! What, why'd they stop. Is it over?",打，继续打，哎怎么停了，结束了？,"Бей, ещё бей! Эй, почему остановились? Конец?"
+char_381_bubble_CN_013,Promotion 1,A reward for my training? Great! I can't eat it? Grrr...,这是训练的奖励？哦好的。不能吃？唔……,"Это награда за тренировку? О, хорошо. Нельзя есть? Мм..."
+char_381_bubble_CN_014,Promotion 2,"I think I got a good chance of beating Kay now! Okay, lemme at her. Doctor, you can come watch!",我觉得我能和小刻五五开了！好，我要和她大战一场，博士你来做见证！,"Кажется, я теперь равна Кей! Давай — я с ней сражусь, а Доктор будет свидетелем!"
+char_381_bubble_CN_017,Added to Squad,Be good? I'll try.,听话？我试试看吧。,Слушаться? Я попробую.
+char_381_bubble_CN_018,Appointed as Squad Leader,"I'll count down and we charge on one, okay?",我们数到一就开始跑，好不好？,"Мы посчитаем до одного и побежим, ладно?"
+char_381_bubble_CN_019,Depart,Chaaarge!,冲啊！,Вперёд!
+char_381_bubble_CN_020,Begin Operation,Waaar!,打架啦！,Драка!
+char_381_bubble_CN_021,Selecting Operator 1,I got this.,选我啦。,Выбери меня.
+char_381_bubble_CN_022,Selecting Operator 2,Haha!,嘻嘻。,Хи-хи.
+char_381_bubble_CN_023,Deployment 1,Get the bad guys!,面对坏人！,Против плохих!
+char_381_bubble_CN_024,Deployment 2,Shield up!,举盾！,Поднять щит!
+char_381_bubble_CN_025,In Battle 1,Traaaaaample!,我撞！,Бью!
+char_381_bubble_CN_026,In Battle 2,Baaaaash!,我拍！,Хлоп!
+char_381_bubble_CN_027,In Battle 3,Spike striiiike!,尖刺冲击！！,Удар шипами!!
+char_381_bubble_CN_028,In Battle 4,Bam!,咚！,Бум!
+char_381_bubble_CN_029,4-star Result,"Doctor, if you got your body as strong as your brain, you could be an awesome warrior like my Papa!",博士你要是够强壮，一定也是像我爸爸那样的勇士！,"Доктор, если бы вы были сильным, вы бы тоже были воином, как мой папа!"
+char_381_bubble_CN_030,3-star Result,What did I tell you? I'm super strong.,我就说嘛，我超厉害的。,Ну что я говорила — я очень сильная.
+char_381_bubble_CN_031,Sub 3-star Result,Huh? Some of them got away? Did I let them through?,嗯，有人跑了？是我没挡住吗？,"Мм, кто-то убежал? Я не удержала?"
+char_381_bubble_CN_032,Operation Failure,We can't beat them! Whatdowedo?! Whatdowedo?!,打不过了！怎么办怎么办？！,"Не одолеть! Что делать, что делать?!"
+char_381_bubble_CN_033,Assigned to Facility,"I need a way, waaay bigger room. How can anyone live in a little place like this?",再大点，再大点嘛，这么小怎么住人？,"Ещё больше, ещё больше! В таком как живут?"
+char_381_bubble_CN_034,Tap,"Hey, that tickles.",哎呀，有点痒。,"Ой, щекотно."
+char_381_bubble_CN_036,Trust Tap,"Doctor, let's play hide-and-seek!",博士，来捉迷藏！,"Доктор, давай в прятки!"
+char_381_bubble_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_381_bubble_CN_038,New Year's blessing,"It's New Year's! We got the day off! No homework! That means it's time to challenge Kay! Doctor, you can't just sit there all day. Why don't you come wrestle with us? It'll be fun!",新年！假期！没有作业！好，今天就去挑战小刻！博士，你也不要总是坐着啦，要不要来和我们一起玩对对碰的游戏？很有意思的！,"Новый год! Каникулы! Никаких уроков! Сегодня я бросаю вызов Кей! Доктор, вы тоже не сидите всё время — поиграйте с нами, а? Очень весело!"
+char_381_bubble_CN_042,Greeting,Doctor!,博士！,Доктор!
+char_381_bubble_CN_043,Birthday,"Happy birthday, Doctor! Oh, this means you've grown a whole extra year! When am I gonna get as big as you?",博士生日快乐！咦，这么说博士也长大了一岁。那泡泡什么时候才能长得和博士一样大呢？,"С днём рождения, Доктор! Эй, значит, вы тоже стали на год старше. А когда Баббл вырастет такой же большой, как Доктор?"
+char_381_bubble_CN_044,Anniversary Celebration,"I have to train hard at Rhodes Island! First, I'm gonna get tougher than Kay, then I'll beat Gavial, until I finally outdo Vulcan! Then I can go back home and be a warrior as great as Papa...! Doctor, are you gonna miss me when I'm gone?",我要在罗德岛好好锻炼！首先要变得比小刻厉害，接着超过嘉维尔，最终超过火神大姐！然后就可以回家，成为和爸爸一样厉害的勇士了！……博士，到时候，你会想我吗？,"Я буду хорошенько тренироваться на Родосе! Сначала стану сильнее Кей, потом превзойду Гавиал, а в конце — сестру Вулкан! И тогда я смогу вернуться домой и стать воином, как папа!.. Доктор, вы будете скучать по мне?"

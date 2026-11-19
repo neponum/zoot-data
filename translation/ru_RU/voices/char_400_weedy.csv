@@ -1,39 +1,39 @@
-id,title,original,translation
-char_400_weedy_CN_001,Appointed as Assistant,"Your room is quite neat, Doctor. Not bad.",
-char_400_weedy_CN_002,Talk 1,"Water is the core ingredient of life. I've talked to Miss Closure about improving Rhodes Island's water purification system. I hope that my research can be of help… If everything goes well, then I don't have to worry about the water being dirty anymore.",
-char_400_weedy_CN_003,Talk 2,"This is Leaf, a Bionic Seadragon that I produced from a prototype design passed across my family. In addition to auxiliary combat functions, he helps out a lot in my daily life, such as pouring water, lifting heavy things, and so on.",
-char_400_weedy_CN_004,Talk 3,"Glaucus and I agreed that we'd conduct our automation engineering experiment at about this time. Doctor, if you're interested, want to come take a look?",
-char_400_weedy_CN_005,Talk after Promotion 1,"These water cannons were originally made for industrial usage. In addition to shooting pressurized water, they can also release high-temperature steam. So please don't touch them haphazardly; they're not like Closure's little buggies.",
-char_400_weedy_CN_006,Talk after Promotion 2,"These high-level combat data materials are based upon my own summaries of the combat situation. Please read them carefully for the sake of future battles. After that, there are a few operation-related experiments I'd like to improve, and your help would be very valuable. I trust that you won't turn me down, will you, Doctor?",
-char_400_weedy_CN_007,Talk after Trust Increase 1,"I occasionally go to Perfumer's Convalescent Garden to relax. The aroma there can wash all your stress away, truly a wonderful place for relieving the fatigue from research. Doctor, how about we head there together and give it a try next time?",
-char_400_weedy_CN_008,Talk after Trust Increase 2,I definitely do not talk to my Bionic Seadragons when I'm alone! I only gave him a name to help distinguish him more easily!,
-char_400_weedy_CN_009,Talk after Trust Increase 3,"Thanks to your care and support, I've recently become more accustomed to having you around, Doctor. And apart from Glaucus and some other research colleagues, I can't say that about many people.",
-char_400_weedy_CN_010,Idle,Peace and quiet is best.,
-char_400_weedy_CN_011,Onboard,"Hello, I'm Weedy from Rhodes Island's Engineering Department. I heard your name a long time ago, so I hope we'll have a productive relationship from now on. Ah, if you want to shake hands, please take my gloved right hand.",
-char_400_weedy_CN_012,Watching Battle Record,"Hmm, I didn't expect these to be this helpful.",
-char_400_weedy_CN_013,Promotion 1,"After my promotion, can I get another upgrade to my personal room?",
-char_400_weedy_CN_014,Promotion 2,"Thank you for acknowledging someone as frail as I am, Doctor. I'll continue to work hard for the sake of Rhodes Island.",
-char_400_weedy_CN_017,Added to Squad,I can join too?,
-char_400_weedy_CN_018,Appointed as Squad Leader,"Everyone, follow my instructions!",
-char_400_weedy_CN_019,Depart,Moving out!,
-char_400_weedy_CN_020,Begin Operation,Everything is as we planned. To battle!,
-char_400_weedy_CN_021,Selecting Operator 1,I'm right here.,
-char_400_weedy_CN_022,Selecting Operator 2,My equipment is ready.,
-char_400_weedy_CN_023,Deployment 1,Leave it to me.,
-char_400_weedy_CN_024,Deployment 2,"Leaf, let's do our best.",
-char_400_weedy_CN_025,In Battle 1,Firing!,
-char_400_weedy_CN_026,In Battle 2,Target locked! Engage!,
-char_400_weedy_CN_027,In Battle 3,Clear the way!,
-char_400_weedy_CN_028,In Battle 4,Haah!,
-char_400_weedy_CN_029,4-star Result,"As long as we employ the proper tactics, everything's a piece of cake.",
-char_400_weedy_CN_030,3-star Result,Engineering cannot be underestimated.,
-char_400_weedy_CN_031,Sub 3-star Result,I will adjust the parameters of this device once we head back. This won't happen again.,
-char_400_weedy_CN_032,Operation Failure,"Leaf, cover our retreat!",
-char_400_weedy_CN_033,Assigned to Facility,Has this place been cleaned before?,
-char_400_weedy_CN_034,Tap,H-hey!,
-char_400_weedy_CN_036,Trust Tap,"Doctor, is there anything I can help you with?",
-char_400_weedy_CN_037,Title,Arknights.,
-char_400_weedy_CN_038,New Year's blessing,"Doctor, stand still and don't move a muscle, let me inspect you. Hmm… no dust on the bottom of your clothes, and your shoes are clean. That's good. Oh, wait! Your shirt collar is so wrinkled. You are not going to attend the party like that, right? Go back and sort that out, I'll wait here for you.",
-char_400_weedy_CN_042,Greeting,"How do you do, Doctor.",
-char_400_weedy_CN_043,Birthday,"Doctor, have you seen Leaf? His signal suddenly dropped, and my terminal indicates he's somewhere around your office… You thought he was a present and tucked him away!? The present wasn't him, it was the box on his back! Also! How were you so sure I'd give you a present!?",
-char_400_weedy_CN_044,Anniversary Celebration,"I work as an undurable scientist yet want to step onto the battlefield, but Rhodes Island has actually satisfied my headstrong requests. Whether in the lab or the field, I'm always asking myself: Isn't there more I can do? I'm very greedy after all, when it comes to the pursuit of scientific value.",
+id,title,original,original_zh,translation
+char_400_weedy_CN_001,Appointed as Assistant,"Your room is quite neat, Doctor. Not bad.",博士的房间还是挺整洁的嘛，还不赖。,"Комната у вас довольно аккуратная, Доктор. Неплохо."
+char_400_weedy_CN_002,Talk 1,"Water is the core ingredient of life. I've talked to Miss Closure about improving Rhodes Island's water purification system. I hope that my research can be of help… If everything goes well, then I don't have to worry about the water being dirty anymore.",水是大家生活的核心，我已经跟可露希尔小姐交流过改善罗德岛净水系统的事情了，希望我的研究成果能给帮上忙……这样我也不用担心用水不干净了。,"Вода — основа жизни. Я уже обсуждала с мисс Кложер улучшение системы очистки воды на Родосе. Надеюсь, моё исследование поможет... тогда мне не придётся беспокоиться, что вода грязная."
+char_400_weedy_CN_003,Talk 2,"This is Leaf, a Bionic Seadragon that I produced from a prototype design passed across my family. In addition to auxiliary combat functions, he helps out a lot in my daily life, such as pouring water, lifting heavy things, and so on.",这只仿生海龙小叶是我以家族流传的图案为原型制作出来的，除了辅助作战，在日常生活中也可以帮我不少忙，比如倒个水拎些重物之类的。,"Это Листик, бионический морской дракон, которого я сделала по образцу, переданному в нашей семье. Помимо помощи в бою, он очень выручает меня в быту — наливает воду, поднимает тяжёлые вещи и так далее."
+char_400_weedy_CN_004,Talk 3,"Glaucus and I agreed that we'd conduct our automation engineering experiment at about this time. Doctor, if you're interested, want to come take a look?",和格劳克斯约好的自动化工程实验时间差不多快到了，博士有兴趣一起去看看吗？,"Время для эксперимента по автоматизации, о котором мы договорились с Глаукусом, почти подошло. Доктор, если интересно, пойдём посмотрим?"
+char_400_weedy_CN_005,Talk after Promotion 1,"These water cannons were originally made for industrial usage. In addition to shooting pressurized water, they can also release high-temperature steam. So please don't touch them haphazardly; they're not like Closure's little buggies.",这些蓄水炮本来都是为了工程才制造的，除了高压水以外，还可以释放出高温蒸汽束。所以请不要随便触碰，他们可不是可露希尔的小车。,"Эти водомёты изначально создавались для инженерных работ. Кроме струи под высоким давлением, они могут выпускать струю раскалённого пара. Так что, пожалуйста, не трогайте их без нужды — это вам не машинки Кложер."
+char_400_weedy_CN_006,Talk after Promotion 2,"These high-level combat data materials are based upon my own summaries of the combat situation. Please read them carefully for the sake of future battles. After that, there are a few operation-related experiments I'd like to improve, and your help would be very valuable. I trust that you won't turn me down, will you, Doctor?",这些高阶的作战资料是我自己根据作战情况总结的。为了之后的战斗，就麻烦博士仔细阅读一下。然后之后还有好几个我想完善的作战实验也麻烦博士帮我一起，博士肯定不会拒绝我的吧。,"Эти подробные данные по боям я собрала сама, на основе того, что видела. Прошу вас внимательно их прочесть ради будущих схваток. А потом у меня есть ещё несколько экспериментов, которые я хочу улучшить, — ваша помощь была бы очень ценна. Вы же не откажете мне, Доктор?"
+char_400_weedy_CN_007,Talk after Trust Increase 1,"I occasionally go to Perfumer's Convalescent Garden to relax. The aroma there can wash all your stress away, truly a wonderful place for relieving the fatigue from research. Doctor, how about we head there together and give it a try next time?",平时我也偶尔会去一趟调香师小姐的庭院休息休息。那里的气味就能让人彻底放松下来，对于缓解研究的疲劳实在是再有效不过了，下次博士要一起去试试吗？,"Иногда я хожу отдохнуть в сад мисс Парфюмер. Тамошний аромат полностью снимает усталость — это просто отличное место, чтобы восстановиться после исследований. Доктор, может, в следующий раз сходим вместе?"
+char_400_weedy_CN_008,Talk after Trust Increase 2,I definitely do not talk to my Bionic Seadragons when I'm alone! I only gave him a name to help distinguish him more easily!,我才不会一个人的时候跟仿生海龙聊天！给他起名字是为了做区分！,"Я вовсе не разговариваю со своим бионическим морским драконом, когда одна! Я просто дала ему имя, чтобы было легче различать!"
+char_400_weedy_CN_009,Talk after Trust Increase 3,"Thanks to your care and support, I've recently become more accustomed to having you around, Doctor. And apart from Glaucus and some other research colleagues, I can't say that about many people.",受了不少博士的关照，最近我也越来越习惯待在有博士在的环境里了。除了格劳克斯和研究的同事，明明还挺少见的。,"Благодаря вашей заботе я в последнее время всё больше привыкаю к тому, что вы рядом, Доктор. Кроме Глаукуса и нескольких коллег-исследователей таких людей немного."
+char_400_weedy_CN_010,Idle,Peace and quiet is best.,安静的环境真好。,Тишина — это хорошо.
+char_400_weedy_CN_011,Onboard,"Hello, I'm Weedy from Rhodes Island's Engineering Department. I heard your name a long time ago, so I hope we'll have a productive relationship from now on. Ah, if you want to shake hands, please take my gloved right hand.",你好，我是罗德岛工程部的温蒂，很早以前就听说过博士的大名了，希望之后能多多指教。啊，握手的话请用这边带着手套的右手。,"Здравствуйте, я Види из инженерного отдела Родоса. Я давно слышала о вас, Доктор, и надеюсь на плодотворное сотрудничество. Ах, если хотите пожать руку — пожалуйста, вот моя правая в перчатке."
+char_400_weedy_CN_012,Watching Battle Record,"Hmm, I didn't expect these to be this helpful.",嗯，没想到这些还挺有帮助的。,"Мм, не ожидала, что это так поможет."
+char_400_weedy_CN_013,Promotion 1,"After my promotion, can I get another upgrade to my personal room?",晋升之后，我的个人房间可以再升级一次吗？,После повышения можно ещё раз улучшить мою личную комнату?
+char_400_weedy_CN_014,Promotion 2,"Thank you for acknowledging someone as frail as I am, Doctor. I'll continue to work hard for the sake of Rhodes Island.",感谢博士愿意给体弱的我这样的肯定。之后也让我为了罗德岛继续努力吧。,"Спасибо, что отметили меня, такую слабую, Доктор. Я продолжу стараться ради Родоса."
+char_400_weedy_CN_017,Added to Squad,I can join too?,我也要一起吗？,И я тоже могу присоединиться?
+char_400_weedy_CN_018,Appointed as Squad Leader,"Everyone, follow my instructions!",大家听我指挥！,"Все, слушайте мою команду!"
+char_400_weedy_CN_019,Depart,Moving out!,出击！,Вперёд!
+char_400_weedy_CN_020,Begin Operation,Everything is as we planned. To battle!,一切都跟战前预想的一样，开始作战！,Всё идёт по плану. Начинаем бой!
+char_400_weedy_CN_021,Selecting Operator 1,I'm right here.,我在这里。,Я здесь.
+char_400_weedy_CN_022,Selecting Operator 2,My equipment is ready.,器械准备完备。,Оборудование готово.
+char_400_weedy_CN_023,Deployment 1,Leave it to me.,交给我吧！,Оставьте это мне!
+char_400_weedy_CN_024,Deployment 2,"Leaf, let's do our best.",小叶，我们加油！,"Листик, давай стараться!"
+char_400_weedy_CN_025,In Battle 1,Firing!,发射！,Огонь!
+char_400_weedy_CN_026,In Battle 2,Target locked! Engage!,锁定敌人！攻击！,Цель захвачена! Атака!
+char_400_weedy_CN_027,In Battle 3,Clear the way!,全都让开！,Дорогу!
+char_400_weedy_CN_028,In Battle 4,Haah!,哈！,Ах!
+char_400_weedy_CN_029,4-star Result,"As long as we employ the proper tactics, everything's a piece of cake.",只要战术正确了，根本就是小菜一碟。,Если тактика верна — всё это пустяки.
+char_400_weedy_CN_030,3-star Result,Engineering cannot be underestimated.,工程学的作用不可小觑！,Инженерное дело недооценивать нельзя!
+char_400_weedy_CN_031,Sub 3-star Result,I will adjust the parameters of this device once we head back. This won't happen again.,……等我回去调整一下设备的参数，不会有下次了。,"...Вернусь, подстрою параметры устройства. Больше такого не повторится."
+char_400_weedy_CN_032,Operation Failure,"Leaf, cover our retreat!",小叶， 掩护我们离开这里！,"Листик, прикрой наш отход!"
+char_400_weedy_CN_033,Assigned to Facility,Has this place been cleaned before?,这里有打扫过吗？,Здесь убирали когда-нибудь?
+char_400_weedy_CN_034,Tap,H-hey!,等，等一下！,П-подождите!
+char_400_weedy_CN_036,Trust Tap,"Doctor, is there anything I can help you with?",博士，让我也来帮忙做点什么吧。,"Доктор, могу я чем-нибудь помочь вам?"
+char_400_weedy_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_400_weedy_CN_038,New Year's blessing,"Doctor, stand still and don't move a muscle, let me inspect you. Hmm… no dust on the bottom of your clothes, and your shoes are clean. That's good. Oh, wait! Your shirt collar is so wrinkled. You are not going to attend the party like that, right? Go back and sort that out, I'll wait here for you.",博士，站住不许动，让我检查一下。嗯，衣摆没有沾灰，鞋带也是干净的，还不错嘛。等等，衬衫的领子怎么这么皱，难道你打算就这样出席晚会吗？快回去整理一下，我在这等你。,"Доктор, стойте и не двигайтесь — дайте я вас осмотрю. Мм... на подоле нет пыли, обувь чистая. Неплохо. О, погодите! Ворот рубашки весь помялся. Вы не собираетесь идти на вечеринку в таком виде? Идите переоденьтесь, я подожду вас здесь."
+char_400_weedy_CN_042,Greeting,"How do you do, Doctor.",博士，你好。,"Здравствуйте, Доктор."
+char_400_weedy_CN_043,Birthday,"Doctor, have you seen Leaf? His signal suddenly dropped, and my terminal indicates he's somewhere around your office… You thought he was a present and tucked him away!? The present wasn't him, it was the box on his back! Also! How were you so sure I'd give you a present!?",博士，你看到小叶了吗？信号突然中断了，终端显示他应该在你的办公室附近——以为是礼物就收起来了？小叶不是礼物，他背着的那个礼盒才是！还有！你怎么就认定我会给你准备礼物？,"Доктор, вы не видели Листика? Сигнал внезапно пропал, терминал показывает, что он где-то рядом с вашим кабинетом... Вы решили, что это подарок, и убрали его?! Подарок был не он, а коробка у него на спине! И ещё! Откуда вы так точно решили, что я вам что-то подарю!?"
+char_400_weedy_CN_044,Anniversary Celebration,"I work as an undurable scientist yet want to step onto the battlefield, but Rhodes Island has actually satisfied my headstrong requests. Whether in the lab or the field, I'm always asking myself: Isn't there more I can do? I'm very greedy after all, when it comes to the pursuit of scientific value.",我作为一名体弱的科学家却想要踏上战场，但罗德岛竟然满足了我这个任性的要求。无论在研究室还是战场，我都总是在问自己：是不是能做到更多？在追求科学的价值上，我可是很贪心的。,"Я слабый учёный, а хочу выйти на поле боя — и Родос всё же удовлетворил мою упрямую просьбу. И в лаборатории, и на поле я всё время спрашиваю себя: разве я не могу сделать больше? В погоне за ценностью науки я и правда жадная."

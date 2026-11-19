@@ -1,36 +1,36 @@
-id,title,original,translation
-char_4126_fuze_CN_001,Appointed as Assistant,Right... Let me know if you need anything.,
-char_4126_fuze_CN_002,Talk 1,Watch out. There are a lot of dangerous materials in the workroom.,
-char_4126_fuze_CN_003,Talk 2,"Engineering Department... Not bad. The head of the department, though... A bit too talkative.",
-char_4126_fuze_CN_004,Talk 3,"I like machines. They don't talk, but they're always honest with their readings.",
-char_4126_fuze_CN_005,Talk after Promotion 1,Chaos is only an enemy if you're unable to adapt.,
-char_4126_fuze_CN_006,Talk after Promotion 2,"When the approaching chaos endangers your loved ones, the thing to do isn't to protect them. It's... to keep them as far away from you as possible.",
-char_4126_fuze_CN_007,Talk after Trust Increase 1,"No, my comms equipment's fine. Nothing to worry.",
-char_4126_fuze_CN_008,Talk after Trust Increase 2,"You want me to say something? Uh, that's the hardest part.",
-char_4126_fuze_CN_009,Talk after Trust Increase 3,"My hometown? There... the sky is blue, and all the buildings under it are blue, too.",
-char_4126_fuze_CN_010,Idle,Good... I'll find something to do.,
-char_4126_fuze_CN_011,Onboard,"Rainbow Operator, codename Fuze. I've said everything I need to. Let's get to it.",
-char_4126_fuze_CN_012,Watching Battle Record,No problem. I'll find some time to watch them.,
-char_4126_fuze_CN_013,Promotion 1,Good. Thank you.,
-char_4126_fuze_CN_014,Promotion 2,Do I need to give some crowd a speech? No? Good.,
-char_4126_fuze_CN_017,Added to Squad,At your command.,
-char_4126_fuze_CN_018,Appointed as Squad Leader,Do exactly as I say.,
-char_4126_fuze_CN_019,Depart,Enough talk. Now we act.,
-char_4126_fuze_CN_020,Begin Operation,Матрёшка готов поручить.,
-char_4126_fuze_CN_021,Selecting Operator 1,Focus on the task at hand.,
-char_4126_fuze_CN_022,Selecting Operator 2,Remember our objectives.,
-char_4126_fuze_CN_023,Deployment 1,Lower your voice.,
-char_4126_fuze_CN_024,Deployment 2,Remain silent.,
-char_4126_fuze_CN_025,In Battle 1,With me!,
-char_4126_fuze_CN_026,In Battle 2,Remain alert.,
-char_4126_fuze_CN_027,In Battle 3,Stay focused.,
-char_4126_fuze_CN_028,In Battle 4,Hold position.,
-char_4126_fuze_CN_029,4-star Result,Every action builds our chances to win.,
-char_4126_fuze_CN_030,3-star Result,Asset secured.,
-char_4126_fuze_CN_031,Sub 3-star Result,"On your feet, your wounds are not fatal.",
-char_4126_fuze_CN_032,Operation Failure,"Move, right now!",
-char_4126_fuze_CN_033,Assigned to Facility,This place isn't bad.,
-char_4126_fuze_CN_034,Tap,Don't do that...,
-char_4126_fuze_CN_036,Trust Tap,I made some pilaf. Want some?,
-char_4126_fuze_CN_037,Title,Arknights.,
-char_4126_fuze_CN_042,Greeting,Hey...,
+id,title,original,original_zh,translation
+char_4126_fuze_CN_001,Appointed as Assistant,Right... Let me know if you need anything.,嗯……有事你说。,Так... Если что-то понадобится — скажи.
+char_4126_fuze_CN_002,Talk 1,Watch out. There are a lot of dangerous materials in the workroom.,工作间里危险物品很多，留神。,Осторожно. В мастерской много опасных материалов.
+char_4126_fuze_CN_003,Talk 2,"Engineering Department... Not bad. The head of the department, though... A bit too talkative.",工程部……还不错，就是那里的头儿……有点太能说了。,Инженерный отдел... Неплохо. Вот только его начальник... слишком много говорит.
+char_4126_fuze_CN_004,Talk 3,"I like machines. They don't talk, but they're always honest with their readings.",我喜欢机器，它们不说话，但上面的读数总是很坦诚。,"Я люблю машины. Они не разговаривают, зато их показания всегда честны."
+char_4126_fuze_CN_005,Talk after Promotion 1,Chaos is only an enemy if you're unable to adapt.,只有在你无法适应的时候，混乱才会成为敌人。,"Хаос — враг только тогда, когда ты не можешь к нему приспособиться."
+char_4126_fuze_CN_006,Talk after Promotion 2,"When the approaching chaos endangers your loved ones, the thing to do isn't to protect them. It's... to keep them as far away from you as possible.",当你面临的混乱危及你所爱的人，你该做的不是保护他们，而是……让他们远离你。,"Когда надвигающийся хаос грозит твоим близким, нужно не защищать их, а... держать как можно дальше от себя."
+char_4126_fuze_CN_007,Talk after Trust Increase 1,"No, my comms equipment's fine. Nothing to worry.",不，我的通讯设备没有损坏，你多虑了。,"Нет, моя связь не повреждена. Ты зря беспокоишься."
+char_4126_fuze_CN_008,Talk after Trust Increase 2,"You want me to say something? Uh, that's the hardest part.",让我随便说点什么？呃，这才是最困难的事。,"Хочешь, чтобы я что-нибудь сказал? Э-э, вот это и есть самое трудное."
+char_4126_fuze_CN_009,Talk after Trust Increase 3,"My hometown? There... the sky is blue, and all the buildings under it are blue, too.",你问我的家乡？那里……天空是蓝色的，天空下的建筑也是蓝色的。,"Мой родной город? Там... небо голубое, и все здания под ним тоже голубые."
+char_4126_fuze_CN_010,Idle,Good... I'll find something to do.,好……我会自己找事做的。,Хорошо... Найду чем заняться.
+char_4126_fuze_CN_011,Onboard,"Rainbow Operator, codename Fuze. I've said everything I need to. Let's get to it.",彩虹小队成员，代号导火索。该说的已经说了，行动吧。,"Оперативник Радуги, позывной Фьюз. Я сказал всё, что нужно. Начинаем."
+char_4126_fuze_CN_012,Watching Battle Record,No problem. I'll find some time to watch them.,没问题，我会抽时间看的。,Без проблем. Я найду время посмотреть.
+char_4126_fuze_CN_013,Promotion 1,Good. Thank you.,好事……谢谢。,Хорошо. Спасибо.
+char_4126_fuze_CN_014,Promotion 2,Do I need to give some crowd a speech? No? Good.,我需要在很多人面前说些什么吗？不用……太好了。,Мне нужно выступить перед толпой? Нет? Хорошо.
+char_4126_fuze_CN_017,Added to Squad,At your command.,随时待命。,К вашим приказам.
+char_4126_fuze_CN_018,Appointed as Squad Leader,Do exactly as I say.,按我说的去做。,Делай точно как я говорю.
+char_4126_fuze_CN_019,Depart,Enough talk. Now we act.,闲聊到此为止，现在开始行动。,Хватит болтать. Начинаем действовать.
+char_4126_fuze_CN_020,Begin Operation,Матрёшка готов поручить.,“套娃”准备好了。,«Матрёшка» готова.
+char_4126_fuze_CN_021,Selecting Operator 1,Focus on the task at hand.,专心做手头的任务。,Сосредоточься на задании.
+char_4126_fuze_CN_022,Selecting Operator 2,Remember our objectives.,记住我们的目标。,Помни о целях.
+char_4126_fuze_CN_023,Deployment 1,Lower your voice.,小点声。,Потише.
+char_4126_fuze_CN_024,Deployment 2,Remain silent.,保持静默。,Сохраняй тишину.
+char_4126_fuze_CN_025,In Battle 1,With me!,跟我来！,За мной!
+char_4126_fuze_CN_026,In Battle 2,Remain alert.,保持警觉。,Будь начеку.
+char_4126_fuze_CN_027,In Battle 3,Stay focused.,集中注意力。,Не отвлекайся.
+char_4126_fuze_CN_028,In Battle 4,Hold position.,坚守阵地。,Держать позицию.
+char_4126_fuze_CN_029,4-star Result,Every action builds our chances to win.,每一次行动都为我们创造了获胜的机会。,Каждое действие приближает нас к победе.
+char_4126_fuze_CN_030,3-star Result,Asset secured.,人质安全了。,Объект под контролем.
+char_4126_fuze_CN_031,Sub 3-star Result,"On your feet, your wounds are not fatal.",站起来，你的伤并不致命。,"Вставай, твоя рана не смертельна."
+char_4126_fuze_CN_032,Operation Failure,"Move, right now!",快跑，就现在！,"Двигайся, прямо сейчас!"
+char_4126_fuze_CN_033,Assigned to Facility,This place isn't bad.,这地方不赖。,Это место не плохое.
+char_4126_fuze_CN_034,Tap,Don't do that...,别这样……,Не делай так...
+char_4126_fuze_CN_036,Trust Tap,I made some pilaf. Want some?,我做了抓饭，你要来点吗？,Я сделал плов. Хочешь?
+char_4126_fuze_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_4126_fuze_CN_042,Greeting,Hey...,嗨……,Эй...

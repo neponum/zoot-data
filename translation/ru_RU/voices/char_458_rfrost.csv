@@ -1,36 +1,36 @@
-id,title,original,translation
-char_458_rfrost_CN_001,Appointed as Assistant,"Here's the schedule. You'll also need to review the weekly reports, expense records, and meeting agendas. Which do you want to do first?",
-char_458_rfrost_CN_002,Talk 1,We'll overcome any obstacle as long as we work together.,
-char_458_rfrost_CN_003,Talk 2,"Excuse me, sir, but do you mind if I tidy up the bookshelf?",
-char_458_rfrost_CN_004,Talk 3,Sometimes humans behave exactly like wild animals. Understanding this makes me a more efficient operator.,
-char_458_rfrost_CN_005,Talk after Promotion 1,"To see the really interesting things, you have to get out of the city. That's why I'm always so far away.",
-char_458_rfrost_CN_006,Talk after Promotion 2,Putting out the Welcome Mat is the first step. Luring the prey takes a bit more doing.,
-char_458_rfrost_CN_007,Talk after Trust Increase 1,"No, no. This is all wrong. Let me reconsider for a bit.",
-char_458_rfrost_CN_008,Talk after Trust Increase 2,Is there anything I can help with?,
-char_458_rfrost_CN_009,Talk after Trust Increase 3,Who's the hunter? Who's the hunted? That's up to Mother Nature and the battlefield in question.,
-char_458_rfrost_CN_010,Idle,Simply pull this string and there's the Welcome Mat...,
-char_458_rfrost_CN_011,Onboard,"RAINBOW Operator, codename Frost. At your service, sir.",
-char_458_rfrost_CN_012,Watching Battle Record,I've got a good idea.,
-char_458_rfrost_CN_013,Promotion 1,"Thank you for your trust, sir.",
-char_458_rfrost_CN_014,Promotion 2,There are two things we absolutely need in a survival situation: water and hope.,
-char_458_rfrost_CN_017,Added to Squad,Let's work together.,
-char_458_rfrost_CN_018,Appointed as Squad Leader,"Don't forget, we're a team and we have a plan.",
-char_458_rfrost_CN_019,Depart,Time for all the planning to pay off.,
-char_458_rfrost_CN_020,Begin Operation,I've got eyes on the hostiles.,
-char_458_rfrost_CN_021,Selecting Operator 1,We're ready for company.,
-char_458_rfrost_CN_022,Selecting Operator 2,Setting barricade.,
-char_458_rfrost_CN_023,Deployment 1,Don't let them get the drop on you.,
-char_458_rfrost_CN_024,Deployment 2,Stay alert.,
-char_458_rfrost_CN_025,In Battle 1,Laying out the Welcome Mat.,
-char_458_rfrost_CN_026,In Battle 2,Setting up.,
-char_458_rfrost_CN_027,In Battle 3,Welcome Mat set.,
-char_458_rfrost_CN_028,In Battle 4,Deployed.,
-char_458_rfrost_CN_029,4-star Result,Stay two steps ahead of the enemy at all times.,
-char_458_rfrost_CN_030,3-star Result,Always think ahead.,
-char_458_rfrost_CN_031,Sub 3-star Result,Maintain a perimeter.,
-char_458_rfrost_CN_032,Operation Failure,Administering aid. Friendly injured.,
-char_458_rfrost_CN_033,Assigned to Facility,This isn't so bad.,
-char_458_rfrost_CN_034,Tap,Hey! Be careful!,
-char_458_rfrost_CN_036,Trust Tap,"Come along, join our hunt.",
-char_458_rfrost_CN_037,Title,Arknights.,
-char_458_rfrost_CN_042,Greeting,Would you like a bonfire?,
+id,title,original,original_zh,translation
+char_458_rfrost_CN_001,Appointed as Assistant,"Here's the schedule. You'll also need to review the weekly reports, expense records, and meeting agendas. Which do you want to do first?",这是日程表，还有周报、开支表、议程表等待审阅……您想先看哪份？,"Вот расписание, а ещё недельные отчёты, ведомость расходов, повестка... С чего начнём?"
+char_458_rfrost_CN_002,Talk 1,We'll overcome any obstacle as long as we work together.,通力合作，我们必将披荆斩棘。,"Работая вместе, мы преодолеем любое препятствие."
+char_458_rfrost_CN_003,Talk 2,"Excuse me, sir, but do you mind if I tidy up the bookshelf?",不介意我整理一下书架吧，长官。,"Не возражаете, если я приведу полки в порядок, сэр?"
+char_458_rfrost_CN_004,Talk 3,Sometimes humans behave exactly like wild animals. Understanding this makes me a more efficient operator.,人表现出的行为有时和野兽并无区别，了解这份相似性，能够令我更好的履行职责。,Люди порой ведут себя точь-в-точь как дикие звери. Понимание этого сходства помогает мне лучше справляться с обязанностями.
+char_458_rfrost_CN_005,Talk after Promotion 1,"To see the really interesting things, you have to get out of the city. That's why I'm always so far away.",为了欣赏值得观看的东西，我们总要远离城市，这就是我经常远行的原因。,"Чтобы увидеть по-настоящему интересное, приходится уезжать из города. Поэтому я столько времени в разъездах."
+char_458_rfrost_CN_006,Talk after Promotion 2,Putting out the Welcome Mat is the first step. Luring the prey takes a bit more doing.,放置迎宾踏垫只是第一步，如何把猎物引向踏垫才是值得考虑的事。,Выложить «Приветственный коврик» — только первый шаг. Главное — заманить на него добычу.
+char_458_rfrost_CN_007,Talk after Trust Increase 1,"No, no. This is all wrong. Let me reconsider for a bit.",不不不，这样不对，我再思考一下……,"Нет, нет, так не годится. Дайте мне ещё подумать..."
+char_458_rfrost_CN_008,Talk after Trust Increase 2,Is there anything I can help with?,有什么我能帮忙的吗？,Могу ли я чем-то помочь?
+char_458_rfrost_CN_009,Talk after Trust Increase 3,Who's the hunter? Who's the hunted? That's up to Mother Nature and the battlefield in question.,只有自然和战场才能决定谁是猎人，谁是猎物。,"Кто охотник, а кто добыча — решает мать-природа и поле боя."
+char_458_rfrost_CN_010,Idle,Simply pull this string and there's the Welcome Mat...,只要在这里拉根细绳，还有一个迎宾踏垫……,Достаточно натянуть эту верёвку — и «Приветственный коврик» готов...
+char_458_rfrost_CN_011,Onboard,"RAINBOW Operator, codename Frost. At your service, sir.",彩虹小队所属，代号霜华，请下命令吧，长官。,"Оперативник Rainbow, позывной Frost. Жду ваших указаний, сэр."
+char_458_rfrost_CN_012,Watching Battle Record,I've got a good idea.,我有个好点子。,У меня хорошая идея.
+char_458_rfrost_CN_013,Promotion 1,"Thank you for your trust, sir.",感谢您的信任，长官。,"Благодарю за доверие, сэр."
+char_458_rfrost_CN_014,Promotion 2,There are two things we absolutely need in a survival situation: water and hope.,在生死攸关之际，我们最迫切渴求的东西莫过于两样：水源，以及希望。,В ситуации на выживание нам нужны две вещи: вода и надежда.
+char_458_rfrost_CN_017,Added to Squad,Let's work together.,让我们一起合作。,Давайте работать вместе.
+char_458_rfrost_CN_018,Appointed as Squad Leader,"Don't forget, we're a team and we have a plan.",别忘了，我们是一个有计划的团队。,"Не забывайте: мы команда, и у нас есть план."
+char_458_rfrost_CN_019,Depart,Time for all the planning to pay off.,是时候看看这些计划的效果了。,"Время убедиться, что наши планы сработают."
+char_458_rfrost_CN_020,Begin Operation,I've got eyes on the hostiles.,我看到敌方了。,Я вижу врагов.
+char_458_rfrost_CN_021,Selecting Operator 1,We're ready for company.,我们准备好迎接客人了。,Мы готовы встретить гостей.
+char_458_rfrost_CN_022,Selecting Operator 2,Setting barricade.,设置封阻物。,Ставлю заграждение.
+char_458_rfrost_CN_023,Deployment 1,Don't let them get the drop on you.,别让他们偷袭你。,Не дайте застать себя врасплох.
+char_458_rfrost_CN_024,Deployment 2,Stay alert.,保持警戒。,Сохраняйте бдительность.
+char_458_rfrost_CN_025,In Battle 1,Laying out the Welcome Mat.,摆放迎宾踏垫中。,Раскладываю «Приветственный коврик».
+char_458_rfrost_CN_026,In Battle 2,Setting up.,安装中。,Устанавливаю.
+char_458_rfrost_CN_027,In Battle 3,Welcome Mat set.,迎宾踏垫已设置。,«Приветственный коврик» готов.
+char_458_rfrost_CN_028,In Battle 4,Deployed.,部署完毕。,Развёрнута.
+char_458_rfrost_CN_029,4-star Result,Stay two steps ahead of the enemy at all times.,每时每刻都要有比敌人更万全的准备。,Всегда будьте готовы на два шага раньше врага.
+char_458_rfrost_CN_030,3-star Result,Always think ahead.,永远记得未雨绸缪。,Всегда думайте наперёд.
+char_458_rfrost_CN_031,Sub 3-star Result,Maintain a perimeter.,注意周边警戒。,Держите оборону по периметру.
+char_458_rfrost_CN_032,Operation Failure,Administering aid. Friendly injured.,正在救援，友军受伤。,Оказываю помощь. Ранен союзник.
+char_458_rfrost_CN_033,Assigned to Facility,This isn't so bad.,不是那么坏。,Это не так плохо.
+char_458_rfrost_CN_034,Tap,Hey! Be careful!,嘿，小心点！,"Эй, осторожнее!"
+char_458_rfrost_CN_036,Trust Tap,"Come along, join our hunt.",来，加入我们的狩猎。,Присоединяйтесь к нашей охоте.
+char_458_rfrost_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_458_rfrost_CN_042,Greeting,Would you like a bonfire?,想生个火吗？,Хотите развести костёр?

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_230_savage_CN_001,Appointed as Assistant,"Heheh, Dr. {@nickname}, What can I do for you today?",
-char_230_savage_CN_002,Talk 1,"Combat missions take up most of my job, where I just havoc around with my hammer... It feels nice to get to sort files like this every once in a while.",
-char_230_savage_CN_003,Talk 2,"When I worked for RIM Billiton, I was in charge of a lot of things: mining ores, doing geological surveys with electromagnets, all kinds of stuff. Hmm... sounds like a mouthful, right? To put it simply, I smashed what blocks the way and kept digging down!",
-char_230_savage_CN_004,Talk 3,"Amiya has a lot on her shoulders. If only I could help share her burden a little... And perhaps yours too, Doctor. Don't hesitate to let me know if there's anything you need help with!",
-char_230_savage_CN_005,Talk after Promotion 1,"Providing cover, trailblazing, area denial... I might not be able to literally shield my teammates like the Defender Operators, but I can still protect everyone in my own way!",
-char_230_savage_CN_006,Talk after Promotion 2,"Did... did I manage to keep everyone safe?... *Sign of Relief* I'm so rapt... Please, Doctor, from now on, let me stay with you and Amiya!",
-char_230_savage_CN_007,Talk after Trust Increase 1,"Doctor, want a cabbage veggie salad with mushroom pies? Yep, I made three servings! Yours, mine, and another for Amiya. She loves the pies I make!",
-char_230_savage_CN_008,Talk after Trust Increase 2,"The running backs on the football field are unstoppable. They just keep charging forward in spite of everything, all to clear a path for their teammates. And then they just fall down and leave it to everyone else to finish the job. Isn't that sort of like what I do? It's very cool! I hope I don't have to get tackled though.",
-char_230_savage_CN_009,Talk after Trust Increase 3,"Doctor, as long as I get to stay with you and Amiya, it's enough for me. Memories belong in the past, while the future is waiting for us to color it in. Amiya and I will continue to create more memories with you in the days to come!",
-char_230_savage_CN_010,Idle,"Doctor, seems you've got some time to spare... Then let's go get groceries for tea tonight!",
-char_230_savage_CN_011,Onboard,"Savage, from RIM Billiton, reporting for duty! The moment I got the message from you and Amiya, I rushed right over to see what I could do. Huh? You don't remember anything? Strewth!",
-char_230_savage_CN_012,Watching Battle Record,"Ooh, I see. Uh-huh… I totally understand it now!",
-char_230_savage_CN_013,Promotion 1,"I feel a lot better taking orders from you, Doctor. I won't let you down!",
-char_230_savage_CN_014,Promotion 2,"Don't worry, Doctor. No matter how many enemies there are, as long as you're with me, I'll smash 'em all!",
-char_230_savage_CN_017,Added to Squad,"Savage, in position!",
-char_230_savage_CN_018,Appointed as Squad Leader,"Everyone, follow me closely!",
-char_230_savage_CN_019,Depart,Begin the attack!,
-char_230_savage_CN_020,Begin Operation,Target located. Attack!,
-char_230_savage_CN_021,Selecting Operator 1,I'm ready!,
-char_230_savage_CN_022,Selecting Operator 2,What's next?,
-char_230_savage_CN_023,Deployment 1,Leave it to me!,
-char_230_savage_CN_024,Deployment 2,This one's mine!,
-char_230_savage_CN_025,In Battle 1,Haaaa!,
-char_230_savage_CN_026,In Battle 2,"Mjolnir-3, full power!",
-char_230_savage_CN_027,In Battle 3,Piece of cake!,
-char_230_savage_CN_028,In Battle 4,Incoming!,
-char_230_savage_CN_029,4-star Result,"Hmm, guess no mission's too difficult for us!",
-char_230_savage_CN_030,3-star Result,What? It's over already? Easy-peasy!,
-char_230_savage_CN_031,Sub 3-star Result,...I'd give my performance a C.,
-char_230_savage_CN_032,Operation Failure,It's too dangerous here! We have to fall back!,
-char_230_savage_CN_033,Assigned to Facility,Huh? You're really trusting me with work this detail-oriented?,
-char_230_savage_CN_034,Tap,Hmm? Nnngg?,
-char_230_savage_CN_036,Trust Tap,All done with work for the day!,
-char_230_savage_CN_037,Title,Arknights.,
-char_230_savage_CN_038,New Year's blessing,"Happy New Year, Doctor! And also to you, Amiya, my little beaut~ Here's to the year you grow tall as a tree. And Doctor, here's to... augh, well, here's to a lighter workload! No more overtime!",
-char_230_savage_CN_042,Greeting,Yahoo~ Doctor! Good morning!,
-char_230_savage_CN_043,Birthday,"Happy birthday, Doctor! I remember you used to love—oh, I bet you don't remember yourself, do you? Oh well, I'm sure you'll still love this butter and pulled-meat pie! It's the taste of a happy life. Amiya's words.",
-char_230_savage_CN_044,Anniversary Celebration,"I'm a little dazed all of a sudden, seeing everyone at Rhodes Island so happy. After all we've been through, just having you and Amiya here, safe and sound, is already more than I could ask for. I'll be with you from here on out, fighting to preserve this happiness.",
+id,title,original,original_zh,translation
+char_230_savage_CN_001,Appointed as Assistant,"Heheh, Dr. {@nickname}, What can I do for you today?",嘿嘿！Dr.{@nickname}，今天又需要我来帮忙做些什么呢？,"Хе-хе! Доктор {@nickname}, чем я могу вам помочь сегодня?"
+char_230_savage_CN_002,Talk 1,"Combat missions take up most of my job, where I just havoc around with my hammer... It feels nice to get to sort files like this every once in a while.",平时的工作基本都是些作战任务，砸坏这砸坏那的……偶尔像这样整理整理文件，感觉也不错。,В основном я занимаюсь боевыми заданиями — всё крушу да крушу... А вот так разбирать документы время от времени — тоже приятно.
+char_230_savage_CN_003,Talk 2,"When I worked for RIM Billiton, I was in charge of a lot of things: mining ores, doing geological surveys with electromagnets, all kinds of stuff. Hmm... sounds like a mouthful, right? To put it simply, I smashed what blocks the way and kept digging down!",我在雷姆必拓时也会负责些其它工作，像是矿物的开采啦，用电磁法进行地质勘探啦，嗯……很难理解吧，简单点说，就是把阻碍砸碎，然后往下挖！,"В Рембитоне я отвечала за многое: добыча руды, геологическая разведка с помощью электромагнитов, всякое. Хм, звучит сложно, правда? Проще говоря, я разбивала то, что мешает, и копала всё глубже!"
+char_230_savage_CN_004,Talk 3,"Amiya has a lot on her shoulders. If only I could help share her burden a little... And perhaps yours too, Doctor. Don't hesitate to let me know if there's anything you need help with!",阿米娅身上的担子可是很重的，要是我能帮她分担些就好了……博士，你也是，有什么需要我的地方，一定要说哦！,"На Амии столько ответственности... Хотелось бы хоть немного снять с неё груз... И с вашим тоже, Доктор. Если что-то понадобится — только скажите!"
+char_230_savage_CN_005,Talk after Promotion 1,"Providing cover, trailblazing, area denial... I might not be able to literally shield my teammates like the Defender Operators, but I can still protect everyone in my own way!",提供掩护、清空路线、控制战局——即使不能像各位重装干员一样化作队员们的屏障，我也能用我自己的方式保护大家！,"Прикрытие, прокладка пути, сдерживание района... Я не могу, как оперативники-защитники, стать живым щитом для товарищей, но всё равно защищу всех по-своему!"
+char_230_savage_CN_006,Talk after Promotion 2,"Did... did I manage to keep everyone safe?... *Sign of Relief* I'm so rapt... Please, Doctor, from now on, let me stay with you and Amiya!",我……我保护好大家了吗？真是太好了……以后也请让我一直一直，待在博士和阿米娅妹妹的身边吧。,"Я... я уберегла всех? Ох, как же хорошо... Пожалуйста, Доктор, позвольте мне и дальше оставаться рядом с вами и Амией!"
+char_230_savage_CN_007,Talk after Trust Increase 1,"Doctor, want a cabbage veggie salad with mushroom pies? Yep, I made three servings! Yours, mine, and another for Amiya. She loves the pies I make!",博士，想吃卷心菜蔬果沙拉配蘑菇馅饼吗？嗯嗯，我做了三份哦，你的我的，还有阿米娅妹妹的。以前，阿米娅妹妹可是很喜欢吃我做的馅饼的！,"Доктор, хотите салат из капусты с овощами и пирожки с грибами? Я сделала три порции — вам, мне и Амии. Она очень любит мои пирожки!"
+char_230_savage_CN_008,Talk after Trust Increase 2,"The running backs on the football field are unstoppable. They just keep charging forward in spite of everything, all to clear a path for their teammates. And then they just fall down and leave it to everyone else to finish the job. Isn't that sort of like what I do? It's very cool! I hope I don't have to get tackled though.",想想橄榄球场上的跑卫，一往无前，突破敌阵，为队友开辟前进的道路！然后倒下，将前方交给队友！！这，这，这难道不是跟我的工作一模一样吗！太帅了吧！虽然不包含最后的倒下环节就是了。,"Представьте бегуна на футбольном поле: он неудержимо несётся вперёд, прокладывая путь товарищам, а потом просто падает — и остальные доводят дело до конца. Это же в точности моя работа! Только круто! Хотя момент с падением я бы пропустила."
+char_230_savage_CN_009,Talk after Trust Increase 3,"Doctor, as long as I get to stay with you and Amiya, it's enough for me. Memories belong in the past, while the future is waiting for us to color it in. Amiya and I will continue to create more memories with you in the days to come!",只要能这样守在你和阿米娅身边，对我来说就足够了。记忆只是过去的一部分，而未来却是无限宽广的。我与阿米娅妹妹，以后也会和博士你一起，创造出更多的回忆。,"Доктор, пока я рядом с вами и Амией — мне этого достаточно. Воспоминания остаются в прошлом, а будущее ждёт, чтобы мы его раскрасили. Я и Амия будут создавать с вами новые воспоминания!"
+char_230_savage_CN_010,Idle,"Doctor, seems you've got some time to spare... Then let's go get groceries for tea tonight!",博士如果没什么事的话……不如跟我一起去购置晚饭材料吧!,"Доктор, если у вас нашлось свободное время... давайте сходим за продуктами к ужину!"
+char_230_savage_CN_011,Onboard,"Savage, from RIM Billiton, reporting for duty! The moment I got the message from you and Amiya, I rushed right over to see what I could do. Huh? You don't remember anything? Strewth!",Dr.{@nickname}，来自雷姆必拓的干员暴行向你报到！我一得到你和阿米娅的消息，就立刻赶过来帮忙啦！什么？你什么都不记得？唉唉？！,"Доктор {@nickname}, Сэвидж из Рембитона прибыла по вызову! Как только я получила весть от вас и Амии, сразу примчалась посмотреть, чем могу помочь. Что? Ты ничего не помнишь? Ах, вот это да!"
+char_230_savage_CN_012,Watching Battle Record,"Ooh, I see. Uh-huh… I totally understand it now!",哦哦！原来如此原来如此……嗯嗯！,"О-о-о, понятно-понятно... М-м-м!"
+char_230_savage_CN_013,Promotion 1,"I feel a lot better taking orders from you, Doctor. I won't let you down!",由你来指挥的话，我很放心哦。谢谢博士，我不会辜负你的期望的！,"Под вашим командованием я спокойнее. Спасибо, Доктор, я не подведу!"
+char_230_savage_CN_014,Promotion 2,"Don't worry, Doctor. No matter how many enemies there are, as long as you're with me, I'll smash 'em all!",别担心，博士。再多敌人也无所谓——只要Dr.{@nickname}你还在我身后，我就会把面前所有的困难，全都击碎。,"Не волнуйтесь, Доктор. Сколько бы врагов ни было — пока Доктор {@nickname} за мной, я разобью всё, что встаёт на пути!"
+char_230_savage_CN_017,Added to Squad,"Savage, in position!",暴行，就位！,Сэвидж на позиции!
+char_230_savage_CN_018,Appointed as Squad Leader,"Everyone, follow me closely!",大家好好跟上我吧！,"Все, следуйте за мной!"
+char_230_savage_CN_019,Depart,Begin the attack!,突击开始！,Атака начинается!
+char_230_savage_CN_020,Begin Operation,Target located. Attack!,目标位置已确定！突击！！,Цель обнаружена. В атаку!
+char_230_savage_CN_021,Selecting Operator 1,I'm ready!,我准备好了！,Я готова!
+char_230_savage_CN_022,Selecting Operator 2,What's next?,下一步是……？,Что дальше?
+char_230_savage_CN_023,Deployment 1,Leave it to me!,交给我了！,Доверьтесь мне!
+char_230_savage_CN_024,Deployment 2,This one's mine!,这个敌人是我的！,Этот враг — мой!
+char_230_savage_CN_025,In Battle 1,Haaaa!,吼啊——！,Хааа!
+char_230_savage_CN_026,In Battle 2,"Mjolnir-3, full power!",Mjolnir-3出力全开!,"Mjolnir-3, полная мощность!"
+char_230_savage_CN_027,In Battle 3,Piece of cake!,简单!不是什么问题！,"Легко, не проблема!"
+char_230_savage_CN_028,In Battle 4,Incoming!,准备完毕!,Приготовились!
+char_230_savage_CN_029,4-star Result,"Hmm, guess no mission's too difficult for us!",哼哼，看来不管是怎样困难的任务都难不倒我们！,"Хм-хм, кажется, нам не страшна никакая задача!"
+char_230_savage_CN_030,3-star Result,What? It's over already? Easy-peasy!,啊？这就结束了？简单简单!,А? Уже всё? Раз плюнуть!
+char_230_savage_CN_031,Sub 3-star Result,...I'd give my performance a C.,……也算发挥的勉强及格吧。,"...На тройку, наверное."
+char_230_savage_CN_032,Operation Failure,It's too dangerous here! We have to fall back!,前面太危险了！还是先从这里撤退……！,Там слишком опасно! Давайте отступим!
+char_230_savage_CN_033,Assigned to Facility,Huh? You're really trusting me with work this detail-oriented?,……欸！这样的细致的工作交给我没关系吗？,Хм? Вы правда доверяете мне такую тонкую работу?
+char_230_savage_CN_034,Tap,Hmm? Nnngg?,嗯？嗯嗯嗯 ？,Хм? Мммм?
+char_230_savage_CN_036,Trust Tap,All done with work for the day!,今天的工作也顺利地完成了！,Вся работа на сегодня сделана!
+char_230_savage_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_230_savage_CN_038,New Year's blessing,"Happy New Year, Doctor! And also to you, Amiya, my little beaut~ Here's to the year you grow tall as a tree. And Doctor, here's to... augh, well, here's to a lighter workload! No more overtime!",博士和阿米娅妹妹新年快乐！祝阿米娅新的一年快快长高，祝博士……啊，就祝博士，今年工作可以轻松一点，不用经常加班吧！,"С новым годом, Доктор! И тебе, Амия, моя хорошая! Пусть в новом году Амия вырастет высокой, как дерево. А Доктору... ну, пусть работа будет полегче, без сверхурочных!"
+char_230_savage_CN_042,Greeting,Yahoo~ Doctor! Good morning!,呀嗬~！博士早上好啊~！,"Ау! Доброе утро, Доктор!"
+char_230_savage_CN_043,Birthday,"Happy birthday, Doctor! I remember you used to love—oh, I bet you don't remember yourself, do you? Oh well, I'm sure you'll still love this butter and pulled-meat pie! It's the taste of a happy life. Amiya's words.",博士，生日快乐！还记得你以前非常喜欢——啊，你应该不记得了吧？没关系，不管是第几次，你一定都会喜欢上这个奶油肉松派的！阿米娅妹妹说过，这个派可以尝出幸福的味道。,"Доктор, с днём рождения! Помнится, вы очень любили... ох, вы же не помните, да? Ничего, сколько бы раз ни было, вы всё равно полюбите этот пирог со сливочной начинкой и мясной крошкой! Амия говорила, что в нём вкус счастливой жизни."
+char_230_savage_CN_044,Anniversary Celebration,"I'm a little dazed all of a sudden, seeing everyone at Rhodes Island so happy. After all we've been through, just having you and Amiya here, safe and sound, is already more than I could ask for. I'll be with you from here on out, fighting to preserve this happiness.",看见大家在罗德岛这么开心的样子，突然有点恍惚呢。经历过这么多事情后，能看到博士和阿米娅平安地待在这，已经很幸运啦。今后，就让我和你们一起，为守护这份幸运而战吧。,"Видеть всех таких счастливыми на Родосе — у меня голова идёт кругом. После всего, через что мы прошли, уже одно то, что вы с Амией здесь, целы и невредимы, — больше, чем я могла просить. С этого дня я буду с вами и буду сражаться, чтобы сохранить это счастье."

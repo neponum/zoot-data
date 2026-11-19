@@ -1,36 +1,36 @@
-id,title,original,translation
-char_4124_iana_CN_001,Appointed as Assistant,Not sure if it's really me standing before you? Here's a hint: the Gemini doesn't talk.,
-char_4124_iana_CN_002,Talk 1,Multitasking has never been a problem for me.,
-char_4124_iana_CN_003,Talk 2,Intel is half the battle.,
-char_4124_iana_CN_004,Talk 3,"You need to clean your pot regularly, if you want decent coffee.",
-char_4124_iana_CN_005,Talk after Promotion 1,Seeing is not always believing. Technology reveals the hidden truth.,
-char_4124_iana_CN_006,Talk after Promotion 2,"I've encountered a few difficulties because of my appearance. No more than that, though.",
-char_4124_iana_CN_007,Talk after Trust Increase 1,I'll follow your lead.,
-char_4124_iana_CN_008,Talk after Trust Increase 2,I trust your judgment.,
-char_4124_iana_CN_009,Talk after Trust Increase 3,I wonder what souvenirs I'll take home from this unforgettable journey.,
-char_4124_iana_CN_010,Idle,"Hold on, I'll be right back.",
-char_4124_iana_CN_011,Onboard,"Code name Iana, Team Rainbow. There's a lot of intel we can share with each other.",
-char_4124_iana_CN_012,Watching Battle Record,Have you considered holographic recordings?,
-char_4124_iana_CN_013,Promotion 1,A promotion? Do I get more access permissions?,
-char_4124_iana_CN_014,Promotion 2,Here's hoping this helps me reach more unexplored corners.,
-char_4124_iana_CN_017,Added to Squad,"Friendly reminder, my hologram doesn't stop bullets.",
-char_4124_iana_CN_018,Appointed as Squad Leader,Gemini will show the way.,
-char_4124_iana_CN_019,Depart,Rage against the dying of the light.,
-char_4124_iana_CN_020,Begin Operation,Target detected.,
-char_4124_iana_CN_021,Selecting Operator 1,Ready when you are.,
-char_4124_iana_CN_022,Selecting Operator 2,Gathering intel.,
-char_4124_iana_CN_023,Deployment 1,Cover me.,
-char_4124_iana_CN_024,Deployment 2,Mic-check successful.,
-char_4124_iana_CN_025,In Battle 1,Stay out of sight!,
-char_4124_iana_CN_026,In Battle 2,Stay close!,
-char_4124_iana_CN_027,In Battle 3,Resetting.,
-char_4124_iana_CN_028,In Battle 4,Hostile in my sights!,
-char_4124_iana_CN_029,4-star Result,"All systems are complementary, if you know how to connect them.",
-char_4124_iana_CN_030,3-star Result,Exactly how it should be.,
-char_4124_iana_CN_031,Sub 3-star Result,"You've still got fight in you, show them what you're made of.",
-char_4124_iana_CN_032,Operation Failure,Your story doesn't end here.,
-char_4124_iana_CN_033,Assigned to Facility,If that's how you want it.,
-char_4124_iana_CN_034,Tap,Come on.,
-char_4124_iana_CN_036,Trust Tap,"Come on, I'll help.",
-char_4124_iana_CN_037,Title,Arknights.,
-char_4124_iana_CN_042,Greeting,Ready for more action?,
+id,title,original,original_zh,translation
+char_4124_iana_CN_001,Appointed as Assistant,Not sure if it's really me standing before you? Here's a hint: the Gemini doesn't talk.,怀疑我不在你面前？拜托，双子分身可不会说话。,"Сомневаетесь, что я здесь? Пожалуйста — двойник-близнец не разговаривает."
+char_4124_iana_CN_002,Talk 1,Multitasking has never been a problem for me.,对我来说，一心多用从来都不是难事。,Делать несколько дел одновременно для меня никогда не было проблемой.
+char_4124_iana_CN_003,Talk 2,Intel is half the battle.,多花些心思在情报上，有的仗可以打得更轻松。,Уделите побольше внимания разведданным — некоторые бои можно провести гораздо легче.
+char_4124_iana_CN_004,Talk 3,"You need to clean your pot regularly, if you want decent coffee.",最好处理一下你热水壶底的水垢，不然咖啡的味道好不了。,"Лучше почистите накипь на дне чайника, иначе кофе не будет вкусным."
+char_4124_iana_CN_005,Talk after Promotion 1,Seeing is not always believing. Technology reveals the hidden truth.,亲眼所见并不一定可靠，借助设备才能发现隐藏的真相。,"То, что видишь собственными глазами, не всегда надёжно — скрытую правду помогает найти техника."
+char_4124_iana_CN_006,Talk after Promotion 2,"I've encountered a few difficulties because of my appearance. No more than that, though.",异于常人的外表的确给我制造了一些困难，但也仅仅是“一些困难”而已。,"Необычная внешность и правда создала мне некоторые трудности, но это всего лишь «некоторые трудности»."
+char_4124_iana_CN_007,Talk after Trust Increase 1,I'll follow your lead.,我听从你的指挥。,Я слушаюсь ваших приказов.
+char_4124_iana_CN_008,Talk after Trust Increase 2,I trust your judgment.,我信任你的判断。,Я доверяю вашему суждению.
+char_4124_iana_CN_009,Talk after Trust Increase 3,I wonder what souvenirs I'll take home from this unforgettable journey.,我想我正在一场难忘的旅途之中，不知道最终会带什么样的纪念品回家。,"Кажется, я в незабываемом путешествии — интересно, что я привезу домой на память."
+char_4124_iana_CN_010,Idle,"Hold on, I'll be right back.",稍等，我马上回来。,"Минуту, я сейчас вернусь."
+char_4124_iana_CN_011,Onboard,"Code name Iana, Team Rainbow. There's a lot of intel we can share with each other.",彩虹小队成员，代号双月。我想我们有很多信息可以相互分享。,"Участница отряда «Радуга», позывной — Иана. Думаю, у нас много чем можно поделиться."
+char_4124_iana_CN_012,Watching Battle Record,Have you considered holographic recordings?,考虑过把录像做成三维的吗？,Думали ли вы сделать запись объёмной?
+char_4124_iana_CN_013,Promotion 1,A promotion? Do I get more access permissions?,晋升？我可以访问更高权限的资料库了吗？,Повышение? Можно ли мне теперь пользоваться архивом с более высоким доступом?
+char_4124_iana_CN_014,Promotion 2,Here's hoping this helps me reach more unexplored corners.,借此机会，我希望能踏足更多尚未探索过的角落。,"Пользуясь случаем, я хочу побывать в ещё не исследованных уголках."
+char_4124_iana_CN_017,Added to Squad,"Friendly reminder, my hologram doesn't stop bullets.",友情提示，我的全息投影可挡不住子弹。,Предупреждаю: моя голограмма не остановит пулю.
+char_4124_iana_CN_018,Appointed as Squad Leader,Gemini will show the way.,双子分身会指引方向。,Двойник-близнец укажет направление.
+char_4124_iana_CN_019,Depart,Rage against the dying of the light.,怒斥光明的消逝。,Гневно осуждаю угасание света.
+char_4124_iana_CN_020,Begin Operation,Target detected.,发现目标。,Цель обнаружена.
+char_4124_iana_CN_021,Selecting Operator 1,Ready when you are.,我准备好了，你呢？,"Я готова, а вы?"
+char_4124_iana_CN_022,Selecting Operator 2,Gathering intel.,正在收集情报。,Собираю информацию.
+char_4124_iana_CN_023,Deployment 1,Cover me.,掩护我。,Прикрой меня.
+char_4124_iana_CN_024,Deployment 2,Mic-check successful.,麦克风测试正常。,Проверка микрофона прошла нормально.
+char_4124_iana_CN_025,In Battle 1,Stay out of sight!,注意隐蔽！,Держитесь скрытно!
+char_4124_iana_CN_026,In Battle 2,Stay close!,跟紧我！,Следуйте за мной!
+char_4124_iana_CN_027,In Battle 3,Resetting.,重新部署。,Передислокация.
+char_4124_iana_CN_028,In Battle 4,Hostile in my sights!,敌人进入视野！,Враг в поле зрения!
+char_4124_iana_CN_029,4-star Result,"All systems are complementary, if you know how to connect them.",如果知晓如何连接，所有系统都能互相补足。,"Если знать, как соединить системы, они дополнят друг друга."
+char_4124_iana_CN_030,3-star Result,Exactly how it should be.,就该是这样。,Так и должно быть.
+char_4124_iana_CN_031,Sub 3-star Result,"You've still got fight in you, show them what you're made of.",你的斗志仍然旺盛，给他们看看你真正的能耐。,"Ваш боевой дух всё ещё горяч — покажите им, на что вы способны."
+char_4124_iana_CN_032,Operation Failure,Your story doesn't end here.,你的故事不会在这里结束。,Ваша история здесь не закончится.
+char_4124_iana_CN_033,Assigned to Facility,If that's how you want it.,如果你非要这样的话。,Если вы так хотите.
+char_4124_iana_CN_034,Tap,Come on.,拜托。,Прошу.
+char_4124_iana_CN_036,Trust Tap,"Come on, I'll help.",撑住，我来帮忙了。,"Держитесь, я иду помочь."
+char_4124_iana_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_4124_iana_CN_042,Greeting,Ready for more action?,准备好行动了吗？,Вы готовы к действию?

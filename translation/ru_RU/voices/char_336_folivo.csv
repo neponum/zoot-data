@@ -1,39 +1,39 @@
-id,title,original,translation
-char_336_folivo_CN_001,Appointed as Assistant,'Lens will be happy to take care of any tasks meant for Miss Scene!',
-char_336_folivo_CN_002,Talk 1,"'Miss Scene has won both Nature and Still-Life categories in major photography competitions. With a patient enough subject, her chances of winning the Portrait category are likely to skyrocket as well. Doctor, would you pose for Miss Scene?'",
-char_336_folivo_CN_003,Talk 2,"'Evaluating patience: Doctor's levels declining. Initiating comfort protocol—Miss Scene will finish shooting in less than 30 minutes. Hold on just a bit longer, please.'",
-char_336_folivo_CN_004,Talk 3,"'The Zalak next door is visiting Miss Scene again. She might not be laughing yet, but I can tell she's very happy.'",
-char_336_folivo_CN_005,Talk after Promotion 1,"'Truthfully, Miss Scene was originally set to work as a full-time photographer for a photographic equipment giant in Columbia, but somehow ended up here as an operator. Lens assesses that she likely chose to leave because they wanted her to photograph subjects she did not appreciate. Yes, indeed, Miss Scene is that picky.'",
-char_336_folivo_CN_006,Talk after Promotion 2,"W h e n   y o u   s e e   s o m e t h i n g   y o u   l i k e ,   t a k e   a   p h o t o   a n d   s a v e   i t.",
-char_336_folivo_CN_007,Talk after Trust Increase 1,"'Doctor, are you attempting to make Miss Scene laugh again? She's actually already laughing, though seeing her smile requires patience. You wait, and wait, and wait some more, until the arc of her mouth reaches absolute perfection. This process might take… TBD minutes, it all depends on Miss Scene's mood today.'",
-char_336_folivo_CN_008,Talk after Trust Increase 2,"'Lens has long been waiting for someone who understands Miss Scene. Now, many at Rhodes Island are willing to approach her, and this brings Lens joy. I hope that one day, Miss Scene will find a biological entity that can perfectly replace Lens.'",
-char_336_folivo_CN_009,Talk after Trust Increase 3,T h i s   c a m e r a.   F o r   y o u.   T h a n k  y o u.   D o c t o r.,
-char_336_folivo_CN_010,Idle,'Now Playing: D.D.D. Smash Hits'.,
-char_336_folivo_CN_011,Onboard,"'Photographer, Scene, and Robotic Photography Assistant, Lens. We are pleased to make your acquaintance.'  H e l l o.",
-char_336_folivo_CN_012,Watching Battle Record,'Replay requested. Repeat: replay requested.',
-char_336_folivo_CN_013,Promotion 1,'Accessory upgrade complete. Miss Scene thanks you.',
-char_336_folivo_CN_014,Promotion 2,I s   t h e r e   s c e n e r y   y o u   w a n t   t o   s e e?,
-char_336_folivo_CN_017,Added to Squad,'Teammates' data acquired.',
-char_336_folivo_CN_018,Appointed as Squad Leader,'Sub-data acquired.',
-char_336_folivo_CN_019,Depart,"'Green-light, confirmed.'",
-char_336_folivo_CN_020,Begin Operation,'Cruise program initiated.',
-char_336_folivo_CN_021,Selecting Operator 1,'Lens is here to serve you.',
-char_336_folivo_CN_022,Selecting Operator 2,H e r e.,
-char_336_folivo_CN_023,Deployment 1,'Camera rolling.',
-char_336_folivo_CN_024,Deployment 2,M h m m.,
-char_336_folivo_CN_025,In Battle 1,'Shooting—',
-char_336_folivo_CN_026,In Battle 2,'Exposure—',
-char_336_folivo_CN_027,In Battle 3,'Panorama—',
-char_336_folivo_CN_028,In Battle 4,'Time lapse—',
-char_336_folivo_CN_029,4-star Result,C o n g r a t s.,
-char_336_folivo_CN_030,3-star Result,'Mission complete! Escorting Miss Scene back to base.',
-char_336_folivo_CN_031,Sub 3-star Result,'The route back to the base seems bumpy.',
-char_336_folivo_CN_032,Operation Failure,'Evacuate immediately. Repeat: Evacuate immediately.',
-char_336_folivo_CN_033,Assigned to Facility,'Please arrange a hammock for Miss Scene. Thank you.',
-char_336_folivo_CN_034,Tap,Y e a h?,
-char_336_folivo_CN_036,Trust Tap,W a n t   a   p h o t o?,
-char_336_folivo_CN_037,Title,Arknights.,
-char_336_folivo_CN_038,New Year's blessing,"I  n e e d  t o  w i s h  y o u  a  h a p p y  n e w  y e a r  m y s e l f.  H a p p y  n e w  y e a r.  'Me too! Doctor, Happy New Year! Happy New Year!'",
-char_336_folivo_CN_042,Greeting,H  e  l  l  o. 'Hello! Hi!',
-char_336_folivo_CN_043,Birthday,H a p p y  b i r t h d a y.  T h a n k  y o u  f o r  a l w a y s  l i s t e n i n g  s o  p a t i e n t l y  t o  m e.  T h i s  i s  m y  f a v o r i t e  p i c t u r e  t h i s  y e a r.  Y o u  c a n  h a v e  i t.,
-char_336_folivo_CN_044,Anniversary Celebration,"'Miss Scene isn't suited to such a lively party. She would be overwhelmed. So, Lens will accompany her with a drink. Doctor, what would you like Lens to do? Lens's music library has been updated with three songs. Please press here to make a selection!'",
+id,title,original,original_zh,translation
+char_336_folivo_CN_001,Appointed as Assistant,'Lens will be happy to take care of any tasks meant for Miss Scene!',“需要交给稀音小姐的任务，请直接让镜头来代劳吧。”,"«Линза с радостью возьмёт на себя любое поручение, предназначенное мисс Сцене!»"
+char_336_folivo_CN_002,Talk 1,"'Miss Scene has won both Nature and Still-Life categories in major photography competitions. With a patient enough subject, her chances of winning the Portrait category are likely to skyrocket as well. Doctor, would you pose for Miss Scene?'",“稀音小姐是各大摄影比赛自然和静物组的双料冠军，如果有人愿意等，拿肖像组冠军的概率也会大幅增加。博士你来当稀音小姐的模特好不好？”,"«Мисс Сцена — двукратная чемпионка в номинациях „Природа“ и „Натюрморт“ на крупных фотоконкурсах. Если найдётся терпеливый человек, шансы взять „Портрет“ тоже резко возрастут. Доктор, не станете ли вы моделью для мисс Сцены?»"
+char_336_folivo_CN_003,Talk 2,"'Evaluating patience: Doctor's levels declining. Initiating comfort protocol—Miss Scene will finish shooting in less than 30 minutes. Hold on just a bit longer, please.'",“检测到博士的耐心正在消逝，开始运行安慰程序——距离稀音小姐完成拍摄还剩不足半小时，请再坚持一下。”,«Обнаружено: терпение Доктора иссякает. Запускаю программу утешения — до окончания съёмки мисс Сцены осталось менее получаса. Потерпите ещё чуть-чуть.»
+char_336_folivo_CN_004,Talk 3,"'The Zalak next door is visiting Miss Scene again. She might not be laughing yet, but I can tell she's very happy.'",“隔壁的札拉克又来找稀音小姐了，虽然小姐还没笑出来，但我知道她很开心。”,"«Соседка-залак опять пришла к мисс Сцене. Она пока не рассмеялась, но я знаю, что ей очень хорошо.»"
+char_336_folivo_CN_005,Talk after Promotion 1,"'Truthfully, Miss Scene was originally set to work as a full-time photographer for a photographic equipment giant in Columbia, but somehow ended up here as an operator. Lens assesses that she likely chose to leave because they wanted her to photograph subjects she did not appreciate. Yes, indeed, Miss Scene is that picky.'",“其实稀音小姐原本要给哥伦比亚的摄影器材巨头当专职摄影师的，不知怎么就来您这里当干员了。据镜头推测可能是因为对方让她拍的东西，她不喜欢。是的，稀音小姐就是这么挑剔。”,"«По правде говоря, мисс Сцена должна была стать штатным фотографом гиганта фототехники из Колумбии, но почему-то оказалась у вас оперативником. Линза предполагает: им потребовалось снимать то, что ей не нравилось. Да, мисс Сцена именно такая разборчивая.»"
+char_336_folivo_CN_006,Talk after Promotion 2,"W h e n   y o u   s e e   s o m e t h i n g   y o u   l i k e ,   t a k e   a   p h o t o   a n d   s a v e   i t.",看到喜欢的，就要拍下，存起来。,Увидишь что-то по душе — сними и сохрани.
+char_336_folivo_CN_007,Talk after Trust Increase 1,"'Doctor, are you attempting to make Miss Scene laugh again? She's actually already laughing, though seeing her smile requires patience. You wait, and wait, and wait some more, until the arc of her mouth reaches absolute perfection. This process might take… TBD minutes, it all depends on Miss Scene's mood today.'",“博士你又想逗稀音小姐笑吗？其实她已经笑了，虽然想看到笑容需要等，再等，继续等，一直等到嘴角的弧度变得完美为止。这个过程会耗时——不知道几分钟，全看小姐今天心情如何。”,"«Доктор, вы опять пытаетесь рассмешить мисс Сцену? На самом деле она уже смеётся — просто чтобы увидеть улыбку, надо ждать, и ждать, и снова ждать, пока изгиб губ не станет безупречным. Это займёт... неизвестно сколько минут — всё зависит от настроения мисс сегодня.»"
+char_336_folivo_CN_008,Talk after Trust Increase 2,"'Lens has long been waiting for someone who understands Miss Scene. Now, many at Rhodes Island are willing to approach her, and this brings Lens joy. I hope that one day, Miss Scene will find a biological entity that can perfectly replace Lens.'",“镜头一直在等一个能够理解稀音小姐的人，但现在罗德岛内有许多人都愿意来接触她，镜头感到了快乐，希望有一天小姐能真正找到完美替代镜头的生物。”,"«Линза давно ждала того, кто поймёт мисс Сцену. Теперь на Родосе многие хотят общаться с ней, и Линза рада. Надеюсь, однажды мисс найдёт живое существо, которое идеально заменит Линзу.»"
+char_336_folivo_CN_009,Talk after Trust Increase 3,T h i s   c a m e r a.   F o r   y o u.   T h a n k  y o u.   D o c t o r.,这是照相机，给你的礼物。谢谢你，博士。,"Это фотоаппарат. Тебе. Спасибо, Доктор."
+char_336_folivo_CN_010,Idle,'Now Playing: D.D.D. Smash Hits'.,“正在播放音乐——《D.D.D.热门串烧》。”,«Воспроизведение: „Хиты D.D.D. в попурри“».
+char_336_folivo_CN_011,Onboard,"'Photographer, Scene, and Robotic Photography Assistant, Lens. We are pleased to make your acquaintance.'  H e l l o.",“摄影师稀音与摄影辅助机器人镜头，很高兴能认识你。”您好。,«Фотограф Сцена и робот-помощник Линза рады знакомству.» Здравствуйте.
+char_336_folivo_CN_012,Watching Battle Record,'Replay requested. Repeat: replay requested.',“请求重放，重复一遍，请求重放。”,«Запрос на повтор. Повторяю: запрос на повтор.»
+char_336_folivo_CN_013,Promotion 1,'Accessory upgrade complete. Miss Scene thanks you.',“配件已升级，稀音小姐向你表示感谢。”,«Аксессуар улучшен. Мисс Сцена благодарит вас.»
+char_336_folivo_CN_014,Promotion 2,I s   t h e r e   s c e n e r y   y o u   w a n t   t o   s e e?,你也有想看的风景吗。,"У тебя тоже есть пейзаж, который хочется увидеть?"
+char_336_folivo_CN_017,Added to Squad,'Teammates' data acquired.',“已获取队友数据。”,«Данные напарников получены.»
+char_336_folivo_CN_018,Appointed as Squad Leader,'Sub-data acquired.',“已获取子数据。”,«Подчинённые данные получены.»
+char_336_folivo_CN_019,Depart,"'Green-light, confirmed.'",“确认到出行讯号。”,«Сигнал к выезду подтверждён.»
+char_336_folivo_CN_020,Begin Operation,'Cruise program initiated.',“已启动巡航程序。”,«Программа патрулирования запущена.»
+char_336_folivo_CN_021,Selecting Operator 1,'Lens is here to serve you.',“镜头为您效劳。”,«Линза к вашим услугам.»
+char_336_folivo_CN_022,Selecting Operator 2,H e r e.,在。,Здесь.
+char_336_folivo_CN_023,Deployment 1,'Camera rolling.',“开始摄像。”,«Начинаю съёмку.»
+char_336_folivo_CN_024,Deployment 2,M h m m.,嗯。,Мм.
+char_336_folivo_CN_025,In Battle 1,'Shooting—',“拍摄——”,«Съёмка —»
+char_336_folivo_CN_026,In Battle 2,'Exposure—',“曝光——”,«Экспозиция —»
+char_336_folivo_CN_027,In Battle 3,'Panorama—',“全景——”,«Панорама —»
+char_336_folivo_CN_028,In Battle 4,'Time lapse—',“延时——”,«Замедленная съёмка —»
+char_336_folivo_CN_029,4-star Result,C o n g r a t s.,恭喜。,Поздравляю.
+char_336_folivo_CN_030,3-star Result,'Mission complete! Escorting Miss Scene back to base.',“任务完成，正在把稀音小姐运回基地。”,«Задание выполнено. Доставляю мисс Сцену на базу.»
+char_336_folivo_CN_031,Sub 3-star Result,'The route back to the base seems bumpy.',“回基地的路不太平坦呢。”,«Дорога обратно на базу неровная.»
+char_336_folivo_CN_032,Operation Failure,'Evacuate immediately. Repeat: Evacuate immediately.',“请撤离该区域，请撤离该区域。”,«Покинуть зону. Повторяю: покинуть зону.»
+char_336_folivo_CN_033,Assigned to Facility,'Please arrange a hammock for Miss Scene. Thank you.',“请为稀音小姐安排吊床，谢谢。”,"«Пожалуйста, подготовьте гамак для мисс Сцены. Спасибо.»"
+char_336_folivo_CN_034,Tap,Y e a h?,唔？,Мм?
+char_336_folivo_CN_036,Trust Tap,W a n t   a   p h o t o?,拍一张吗？,Сфотографировать?
+char_336_folivo_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_336_folivo_CN_038,New Year's blessing,"I  n e e d  t o  w i s h  y o u  a  h a p p y  n e w  y e a r  m y s e l f.  H a p p y  n e w  y e a r.  'Me too! Doctor, Happy New Year! Happy New Year!'",新年的祝福，得亲口对你说。新年快乐。“镜头也要说！博士，新年快乐！新年快乐！”,"С новым годом поздравлю тебя сама. С новым годом. «И Линза тоже! Доктор, с новым годом! С новым годом!»"
+char_336_folivo_CN_042,Greeting,H  e  l  l  o. 'Hello! Hi!',又见面了。“您好，您好。”,"Опять встретились. «Здравствуйте, здравствуйте!»"
+char_336_folivo_CN_043,Birthday,H a p p y  b i r t h d a y.  T h a n k  y o u  f o r  a l w a y s  l i s t e n i n g  s o  p a t i e n t l y  t o  m e.  T h i s  i s  m y  f a v o r i t e  p i c t u r e  t h i s  y e a r.  Y o u  c a n  h a v e  i t.,生日礼物，谢谢博士总是耐心听我说话，这是我今年最满意的作品，送给你。,"Подарок на день рождения. Спасибо, Доктор, что всегда так терпеливо меня слушаешь. Это моя лучшая работа в этом году — дарю её тебе."
+char_336_folivo_CN_044,Anniversary Celebration,"'Miss Scene isn't suited to such a lively party. She would be overwhelmed. So, Lens will accompany her with a drink. Doctor, what would you like Lens to do? Lens's music library has been updated with three songs. Please press here to make a selection!'",“稀音小姐不太适合参与这样热闹的宴会，那样她会手足无措的，所以，镜头在这里陪小姐喝饮料。博士想要镜头帮您做什么吗？镜头的曲库最近更新了三首歌曲，请按这里的按钮挑选！”,"«Мисс Сцена не подходит для такого оживлённого приёма — она бы растерялась. Поэтому Линза остаётся здесь и пьёт с ней. Доктор, чем ещё может помочь Линза? В моей музыкальной библиотеке недавно добавились три новые песни — нажмите здесь, чтобы выбрать!»"

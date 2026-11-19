@@ -1,39 +1,39 @@
-id,title,original,translation
-char_4184_dolris_CN_001,Appointed as Assistant,"It's funny, Umiri-chan always handles these things for us in Ave Mujica. So here, I have to adjust to managing my own schedule.",
-char_4184_dolris_CN_002,Talk 1,"Lately, I've been stargazing on the deck with Astesia-san. The stars in Terra's sky are nothing like the ones I know. And when I tell her about our version of astronomy, I can almost see her hanging on every word I say.",
-char_4184_dolris_CN_003,Talk 2,"Huh? You want me to teach you how to write lyrics...? Wait, Doctor, don't look at my terminal!",
-char_4184_dolris_CN_004,Talk 3,"The cap and sunglasses? They're for wearing in crowded places, I guess. I work in the performing arts, so I'm kind of... a celebrity? I guess... Wait, Doctor, could it be you're a celebrity on Terra? Heheh. Look, you always have the hood on.",
-char_4184_dolris_CN_005,Talk after Promotion 1,"Sora-san always has such a warming effect on people, even when she's not performing. It'd be nice if I could fill everyone with that kind of warmth too.",
-char_4184_dolris_CN_006,Talk after Promotion 2,"I'd rather heal us all through music than fight. But... I get it. Becoming stronger is how I stay by Saki-chan's side. That's why I'll always keep putting in the effort, whether here on Terra or back in our world.",
-char_4184_dolris_CN_007,Talk after Trust Increase 1,"Ever since coming to Rhodes Island, we members of Ave Mujica have been spending a lot more time together. Once work's done for the day, we head to the studio to practice... It's kind of like we're all in a school club.",
-char_4184_dolris_CN_008,Talk after Trust Increase 2,"Ave Mujica has always meant so much to Saki-chan. And knowing how she treasures it, I want to protect it for her... I want to keep being Mujica's frontwoman, where I can live, breathe, and embody Mujica's world.",
-char_4184_dolris_CN_009,Talk after Trust Increase 3,"Ending up in a strange place and having to bond with strange people has taken a lot of energy, I'll admit, but getting to learn so much in exchange has all been worth it. I still barely know right from left here, but... I'd like to keep on bonding with the people of Rhodes Island, I think.",
-char_4184_dolris_CN_010,Idle,Maybe I'll brew some coffee and wait around until the Doctor wakes up?,
-char_4184_dolris_CN_011,Onboard,"Hello, I'm Uika... Misumi. Huh? You already heard about me from Saki-chan? How did she describe me, can you tell me?!",
-char_4184_dolris_CN_012,Watching Battle Record,Are these all... actual battles you taped?,
-char_4184_dolris_CN_013,Promotion 1,Rhodes Island's training program is incredible! I feel like it's building every part of me up at once. This is going to make concerts so much easier too!,
-char_4184_dolris_CN_014,Promotion 2,"I don't know when I'll end up home again. Is it really okay for you to pour so much into me, despite that...? Alright, thank you. I'll be sure to work hard to meet your expectations, Doctor.",
-char_4184_dolris_CN_017,Added to Squad,"As the squad's frontwoman, I'll lead the way for you all.",
-char_4184_dolris_CN_018,Appointed as Squad Leader,"I've never been a <i>leader</i> to anyone before, but... I'll serve as a good example for you all!",
-char_4184_dolris_CN_019,Depart,Be careful out there!,
-char_4184_dolris_CN_020,Begin Operation,Don't let your guard down. We can definitely win this!,
-char_4184_dolris_CN_021,Selecting Operator 1,I'll help out!,
-char_4184_dolris_CN_022,Selecting Operator 2,"Doctor, I'm trusting you.",
-char_4184_dolris_CN_023,Deployment 1,To your curtain fall... an elegy.,
-char_4184_dolris_CN_024,Deployment 2,To our victory... a paean.,
-char_4184_dolris_CN_025,In Battle 1,I'm going to sing.,
-char_4184_dolris_CN_026,In Battle 2,"Saki-chan, everyone, I'll protect you!",
-char_4184_dolris_CN_027,In Battle 3,I'll cover you now!,
-char_4184_dolris_CN_028,In Battle 4,Don't panic!,
-char_4184_dolris_CN_029,4-star Result,"After getting back, let's take a nice hot bath, put on some relaxing music, and really unwind.",
-char_4184_dolris_CN_030,3-star Result,We're really getting into sync here!,
-char_4184_dolris_CN_031,Sub 3-star Result,I just hope nobody got hurt...,
-char_4184_dolris_CN_032,Operation Failure,"It's okay, I... I'll always be by your side.",
-char_4184_dolris_CN_033,Assigned to Facility,"It's really nice in here, isn't it!",
-char_4184_dolris_CN_034,Tap,"One moment, let me put my guitar away... Okay, sorry about that. What do you need, Doctor?",
-char_4184_dolris_CN_036,Trust Tap,Doctor! Want to go see the stars together?,
-char_4184_dolris_CN_037,Title,Arknights.,
-char_4184_dolris_CN_038,New Year's blessing,"Back in our world, everyone makes a wish on New Year's. Like this―you put your hands together, and close your eyes... If you have a wish, give it a try. It'll be nice if yours comes true too.",
-char_4184_dolris_CN_042,Greeting,"Good timing, I was just brewing coffee. Do you want some?",
-char_4184_dolris_CN_043,Birthday,"Happy birthday, Doctor! That tape's got a couple of songs on it. We wrote them for you, and for everyone at Rhodes Island. So even after we return to our old world someday, you'll still have these songs by your side forever.",
-char_4184_dolris_CN_044,Anniversary Celebration,"When I first got here, I thought I was practically useless. But Rhodes Island is such a warm place, isn't it? It takes in any point of view, it gave me a role that I could play―I guess what I'm saying is, maybe I've earned the right to pride myself, as a member of Rhodes Island?",
+id,title,original,original_zh,translation
+char_4184_dolris_CN_001,Appointed as Assistant,"It's funny, Umiri-chan always handles these things for us in Ave Mujica. So here, I have to adjust to managing my own schedule.",在Ave Mujica时，一直都是海铃帮我们做这些工作。现在我也该学会自己安排行程了。,В Ave Mujica эти дела всегда брала на себя Умири. Теперь мне самой приходится учиться планировать свой график.
+char_4184_dolris_CN_002,Talk 1,"Lately, I've been stargazing on the deck with Astesia-san. The stars in Terra's sky are nothing like the ones I know. And when I tell her about our version of astronomy, I can almost see her hanging on every word I say.",最近，我会和星极小姐约在甲板上观察星空。泰拉的星空和我熟悉的很不一样，我尝试向她介绍我所知的星象理论，她也十分感兴趣。,"В последнее время мы с Астезией смотрим звёзды с палубы. Небо Терры совсем не похоже на то, что я знаю. Я пытаюсь рассказывать ей о своих представлениях о созвездиях — и она слушает так внимательно, что это трогает."
+char_4184_dolris_CN_003,Talk 2,"Huh? You want me to teach you how to write lyrics...? Wait, Doctor, don't look at my terminal!",作词的方法吗……？博士，请不要看我的终端！,"Метод написания текстов...? Доктор, не смотрите в мой терминал!"
+char_4184_dolris_CN_004,Talk 3,"The cap and sunglasses? They're for wearing in crowded places, I guess. I work in the performing arts, so I'm kind of... a celebrity? I guess... Wait, Doctor, could it be you're a celebrity on Terra? Heheh. Look, you always have the hood on.",我有时会戴墨镜和帽子？是以前养成的习惯啦——人出名以后，要注意的事情也变多了……这么说起来，博士你在泰拉应该也很出名？呵呵，不然为什么你走到哪都戴着兜帽呢？,"Очки и шапка? Это привычка с тех пор, как я стала известной... когда ты знаменит, приходится следить за большим количеством вещей. Кстати, Доктор, вы, видно, тоже знамениты на Терре? Хи-хи, иначе зачем вы всё время в капюшоне?"
+char_4184_dolris_CN_005,Talk after Promotion 1,"Sora-san always has such a warming effect on people, even when she's not performing. It'd be nice if I could fill everyone with that kind of warmth too.",空小姐本人就和她的演出一样，始终让人感到温暖和坚强。我也希望大家能从我的歌声中听到这些。,"Сора и вправду всегда излучает тепло и силу — даже когда не выступает. Очень хочется, чтобы и моё пение дарило людям хотя бы каплю этого тепла."
+char_4184_dolris_CN_006,Talk after Promotion 2,"I'd rather heal us all through music than fight. But... I get it. Becoming stronger is how I stay by Saki-chan's side. That's why I'll always keep putting in the effort, whether here on Terra or back in our world.",比起战斗，我还是更希望用音乐去治愈大家。但是我也知道，只有足够强大，才能更好地站在祥子身边。不论是在泰拉，还是在我的世界，我都会继续努力。,"Я предпочла бы лечить всех музыкой, а не сражаться. Но я понимаю: чтобы оставаться рядом с Сакико, надо становиться сильнее. И в Терре, и в моём мире я буду стараться изо всех сил."
+char_4184_dolris_CN_007,Talk after Trust Increase 1,"Ever since coming to Rhodes Island, we members of Ave Mujica have been spending a lot more time together. Once work's done for the day, we head to the studio to practice... It's kind of like we're all in a school club.",自从来到这里，与大家在一起的时间就变多了。每天处理完工作，约上其他成员一起去排练室练习——真的就像参加社团活动一样呢。,"С тех пор как мы здесь, мы собираемся вместе куда чаще. После работы — репетиция в студии с остальными девушками... Прямо как школьный кружок, правда?"
+char_4184_dolris_CN_008,Talk after Trust Increase 2,"Ave Mujica has always meant so much to Saki-chan. And knowing how she treasures it, I want to protect it for her... I want to keep being Mujica's frontwoman, where I can live, breathe, and embody Mujica's world.",小祥一直把Ave Mujica视若珍宝，我想要守护好她创造的世界观。之后，我也会作为主唱，为展现Ave Mujica的世界观而努力。,"Сакико всегда дорожила Ave Mujica. Я хочу беречь тот мир, который она создала. И впредь я буду петь как фронтвумен Ave Mujica, чтобы донести его до людей."
+char_4184_dolris_CN_009,Talk after Trust Increase 3,"Ending up in a strange place and having to bond with strange people has taken a lot of energy, I'll admit, but getting to learn so much in exchange has all been worth it. I still barely know right from left here, but... I'd like to keep on bonding with the people of Rhodes Island, I think.",去到一个陌生的地方，重新认识一群人，我有过类似经历，也深知这并非易事。但现在，尽管我对这艘舰船还知之甚少，我依然想要和大家建立更多联系。博士，这就是你说的“信任”吧。,"Я знаю, каково оказаться в незнакомом месте и заново привыкать к другим людям — это непросто. Но сейчас, хотя я ещё почти ничего не знаю об этом корабле, мне хочется выстраивать связи с вами. Доктор, это и есть то, что вы называете «доверием»?"
+char_4184_dolris_CN_010,Idle,Maybe I'll brew some coffee and wait around until the Doctor wakes up?,等博士醒来的时间里，帮博士泡杯咖啡吧。,"Пока Доктор спит, я, пожалуй, заварю ему кофе и подожду."
+char_4184_dolris_CN_011,Onboard,"Hello, I'm Uika... Misumi. Huh? You already heard about me from Saki-chan? How did she describe me, can you tell me?!",你好，我叫三角……初华。欸，小祥已经和你介绍过了？！她、她是怎么介绍我的？,"Здравствуйте, я — Мисуми... Уика. Э? Сакико уже рассказала вам обо мне?! Как... как она меня описала?"
+char_4184_dolris_CN_012,Watching Battle Record,Are these all... actual battles you taped?,……这些都是真实的作战记录吗？,...Это и вправду записи реальных боёв?
+char_4184_dolris_CN_013,Promotion 1,Rhodes Island's training program is incredible! I feel like it's building every part of me up at once. This is going to make concerts so much easier too!,罗德岛的训练计划很完善，我能感觉到自己的身体素质越来越好了，今后应对演出肯定会更加轻松。,"Тренировочная программа Родоса отличная — я чувствую, что становлюсь выносливее. С концертами теперь будет гораздо легче!"
+char_4184_dolris_CN_014,Promotion 2,"I don't know when I'll end up home again. Is it really okay for you to pour so much into me, despite that...? Alright, thank you. I'll be sure to work hard to meet your expectations, Doctor.",我随时都可能回去，你这样信任我，还投入这么多资源，真的好吗？……明白了，我一定会回应你的期待。,"Я в любой момент могу уйти домой — и вы всё равно так доверяете мне, вкладываете столько ресурсов... это правда хорошо?.. Поняла. Я оправдаю ваши ожидания, Доктор."
+char_4184_dolris_CN_017,Added to Squad,"As the squad's frontwoman, I'll lead the way for you all.",我会在队伍的最前方，尽我所能引导大家。,Я пойду впереди отряда и постараюсь вести вас за собой.
+char_4184_dolris_CN_018,Appointed as Squad Leader,"I've never been a <i>leader</i> to anyone before, but... I'll serve as a good example for you all!",我还没有什么指引他人的经验，但是我会努力以身作则！,"У меня ещё нет опыта вести за собой других, но я постараюсь подавать хороший пример!"
+char_4184_dolris_CN_019,Depart,Be careful out there!,小心敌人！,"Осторожно, враг!"
+char_4184_dolris_CN_020,Begin Operation,Don't let your guard down. We can definitely win this!,只要不松懈大意，我们一定能获得胜利！,Стоит только расслабиться — и мы проиграем. Мы обязательно победим!
+char_4184_dolris_CN_021,Selecting Operator 1,I'll help out!,我来帮忙！,Я помогу!
+char_4184_dolris_CN_022,Selecting Operator 2,"Doctor, I'm trusting you.",博士，我相信你。,"Доктор, я вам доверяю."
+char_4184_dolris_CN_023,Deployment 1,To your curtain fall... an elegy.,为你们的终幕……唱响挽歌。,К вашему финальному акту... спою элегию.
+char_4184_dolris_CN_024,Deployment 2,To our victory... a paean.,为我们的胜利……献上赞歌。,Нашей победе... спою гимн.
+char_4184_dolris_CN_025,In Battle 1,I'm going to sing.,歌唱吧。,Я запою.
+char_4184_dolris_CN_026,In Battle 2,"Saki-chan, everyone, I'll protect you!",我会保护小祥，保护所有人！,Я защищу Сакико. И всех вас!
+char_4184_dolris_CN_027,In Battle 3,I'll cover you now!,队友们需要支援！,Товарищам нужна поддержка!
+char_4184_dolris_CN_028,In Battle 4,Don't panic!,不要慌乱！,Не паникуйте!
+char_4184_dolris_CN_029,4-star Result,"After getting back, let's take a nice hot bath, put on some relaxing music, and really unwind.",回去洗个热水澡，放点舒缓的音乐，好好休息一下吧。,"Вернёмся — примем горячую ванну, включим спокойную музыку и как следует отдохнём."
+char_4184_dolris_CN_030,3-star Result,We're really getting into sync here!,大家的配合越来越有默契了！,Мы всё лучше понимаем друг друга!
+char_4184_dolris_CN_031,Sub 3-star Result,I just hope nobody got hurt...,希望没有人受伤……,"Надеюсь, никто не пострадал..."
+char_4184_dolris_CN_032,Operation Failure,"It's okay, I... I'll always be by your side.",没关系的，我会……一直陪在你的身边。,Всё хорошо. Я... я всегда буду рядом с тобой.
+char_4184_dolris_CN_033,Assigned to Facility,"It's really nice in here, isn't it!",这个地方真不错！,"Здесь чудесно, правда?"
+char_4184_dolris_CN_034,Tap,"One moment, let me put my guitar away... Okay, sorry about that. What do you need, Doctor?",稍等，我先把吉他放好……久等了，你找我有什么事，博士？,"Одну минуту, я уберу гитару... Простите за ожидание. Что вам нужно, Доктор?"
+char_4184_dolris_CN_036,Trust Tap,Doctor! Want to go see the stars together?,博士，想一起去看看星空吗？,"Доктор, не хотите ли посмотреть на звёзды вместе?"
+char_4184_dolris_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_4184_dolris_CN_038,New Year's blessing,"Back in our world, everyone makes a wish on New Year's. Like this―you put your hands together, and close your eyes... If you have a wish, give it a try. It'll be nice if yours comes true too.",在我的世界，新年时每个人都会许愿祈福，就像这样——双手合十，闭上眼睛……不妨这样试试吧，博士的祈愿也一定能成真的。,"У нас дома на Новый год все загадывают желания — вот так: складывают ладони и закрывают глаза... Попробуйте и вы. Надеюсь, и ваше желание сбудется."
+char_4184_dolris_CN_042,Greeting,"Good timing, I was just brewing coffee. Do you want some?",博士，我正好在泡咖啡，你也来一杯吗？,"Доктор, как раз завариваю кофе — хотите чашечку?"
+char_4184_dolris_CN_043,Birthday,"Happy birthday, Doctor! That tape's got a couple of songs on it. We wrote them for you, and for everyone at Rhodes Island. So even after we return to our old world someday, you'll still have these songs by your side forever.",博士，生日快乐！这份磁带里存着几首曲子，是我们为了罗德岛的大家和博士你创作的新作品，所以它们属于这里。就算有天我们回去了，希望这些歌还能陪伴在你的身边。,"Доктор, с днём рождения! На этой кассете записано несколько пьес — мы сочинили их для вас и для всех на Родосе. Так что они принадлежат этому месту. Даже если когда-нибудь мы вернёмся домой, эти песни останутся с вами."
+char_4184_dolris_CN_044,Anniversary Celebration,"When I first got here, I thought I was practically useless. But Rhodes Island is such a warm place, isn't it? It takes in any point of view, it gave me a role that I could play―I guess what I'm saying is, maybe I've earned the right to pride myself, as a member of Rhodes Island?",最开始来这里时，我常怀疑自己能做的会不会太有限。但罗德岛是个特别温暖的地方，无论什么想法都能得到理解，任何人都能在此找到自己的位置——所以，我也能坦然地说自己是罗德岛的一员了。,"Когда я только пришла сюда, мне часто казалось, что я годная разве что на самое малое. Но Родос — удивительно тёплое место: здесь принимают любые взгляды, и каждый находит здесь своё место. Так что я спокойно могу сказать, что я — одна из Родоса."

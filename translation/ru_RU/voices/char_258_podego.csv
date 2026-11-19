@@ -1,39 +1,39 @@
-id,title,original,translation
-char_258_podego_CN_001,Appointed as Assistant,"Hm… Hmm… Hmmm… Oh, Doctor, is your day going well?",
-char_258_podego_CN_002,Talk 1,"This is a floral tea that I made myself, Doctor. Come try a cup, I promise you'll feel cozy all day.",
-char_258_podego_CN_003,Talk 2,"The sunlight in the greenhouse is so comfy. Even if I'm in charge here, it sometimes makes me want to sit down and relax for a bit.",
-char_258_podego_CN_004,Talk 3,"Use the fruits of your labor to make everyone forget their sorrows and worries. That's probably a gardener's primary objective, don't you think?",
-char_258_podego_CN_005,Talk after Promotion 1,"I much prefer gardening to fighting. But as long as I think about how I'm helping everyone, I can muster up the courage to go into combat.",
-char_258_podego_CN_006,Talk after Promotion 2,"These bottles? They're the pollen and seeds I've been collecting. I usually put on a gas mask and gloves before handling them, to protect me from poison.",
-char_258_podego_CN_007,Talk after Trust Increase 1,"Hm, everyone seems a bit weary these days. But, when they see the flowers I've planted, I'm sure they'll cheer right up.",
-char_258_podego_CN_008,Talk after Trust Increase 2,"Doctor, Doctor! Are you coming to the greenhouse today? Everyone's been awfully busy the last few days… If nobody comes by the greenhouse, they're going to miss the blooming season. And wouldn't that be a terrible shame?",
-char_258_podego_CN_009,Talk after Trust Increase 3,"Tending the greenhouse is really hard. But, as long as the flowers I grow can make people smile, all my hard work will be worth it!",
-char_258_podego_CN_010,Idle,"Doctor? Oh, you're asleep… May the flowery fragrance waft over your dreams.",
-char_258_podego_CN_011,Onboard,"Doctor, it's Podenco, here to say hi! If you have time, I'd love for you to come by the greenhouse!",
-char_258_podego_CN_012,Watching Battle Record,Oh… I was expecting a video about gardening.,
-char_258_podego_CN_013,Promotion 1,"Artist? N-N-No, I'm not that talented. I'm just a normal gardener.",
-char_258_podego_CN_014,Promotion 2,"Look, Doctor! These are the new varieties I've been tending for so long. They've finally started to bloom! Aren't they gorgeous?",
-char_258_podego_CN_017,Added to Squad,Hm? Am I going too?,
-char_258_podego_CN_018,Appointed as Squad Leader,"Um, I've only ever tended a greenhouse. Can I really help with this…?",
-char_258_podego_CN_019,Depart,I see the enemy! Let's go!,
-char_258_podego_CN_020,Begin Operation,"Everybody, look after yourselves!",
-char_258_podego_CN_021,Selecting Operator 1,Yes?,
-char_258_podego_CN_022,Selecting Operator 2,Where are we going?,
-char_258_podego_CN_023,Deployment 1,Got it.,
-char_258_podego_CN_024,Deployment 2,I'll do it.,
-char_258_podego_CN_025,In Battle 1,"Careful, this pollen is allergenic.",
-char_258_podego_CN_026,In Battle 2,"Okay, I'll handle this.",
-char_258_podego_CN_027,In Battle 3,I've seen weeds like these before.,
-char_258_podego_CN_028,In Battle 4,Let me protect everyone!,
-char_258_podego_CN_029,4-star Result,"Phew, are we safe already? Good job, everyone!",
-char_258_podego_CN_030,3-star Result,Achieving a flawless victory is like cultivating a beautiful flower. Both require a lot of hard work.,
-char_258_podego_CN_031,Sub 3-star Result,"Doctor, everyone is waiting for your next orders.",
-char_258_podego_CN_032,Operation Failure,Ah… I never thought it would turn out like this…,
-char_258_podego_CN_033,Assigned to Facility,Should we plant some flowers over here?,
-char_258_podego_CN_034,Tap,"Oh, Doctor?",
-char_258_podego_CN_036,Trust Tap,Doctor! Would you like to decorate your office with some flowers?,
-char_258_podego_CN_037,Title,Arknights.,
-char_258_podego_CN_038,New Year's blessing,"Back home, most flowers would already have withered by now. But just thinking about how spring will be here soon… fills my heart with hope. Doctor, let's find the first flower that blooms in the greenhouse together!",
-char_258_podego_CN_042,Greeting,"Hello, Doctor!",
-char_258_podego_CN_043,Birthday,"Doctor, happy birthday! Please, try this floral tea! I made it the way Miss Lena taught me, and if you really savor it, you can taste a hint of cake flavor! Eh? You can't? Let me try… Oh… Sorry, Doctor. I… I think I forgot the honey…",
-char_258_podego_CN_044,Anniversary Celebration,"I've been all over with Rhodes Island. Does that mean I've spread flowery fragrance to just as many places? Hehe… I may still have lots of room for improvement, compared to Miss Lena, but I'll do my best to make Rhodes Island an even warmer place!",
+id,title,original,original_zh,translation
+char_258_podego_CN_001,Appointed as Assistant,"Hm… Hmm… Hmmm… Oh, Doctor, is your day going well?",嗯哼哼~啊，博士，今天过得还愉快吗？,"Хм... Хм-хм... О, Доктор, как у вас дела?"
+char_258_podego_CN_002,Talk 1,"This is a floral tea that I made myself, Doctor. Come try a cup, I promise you'll feel cozy all day.",这是我亲手做的花茶！博士来一杯吧，会让你一整天都心情舒畅哦！,"Это цветочный чай, который я сделала сама! Доктор, выпейте чашечку — весь день будете в прекрасном настроении!"
+char_258_podego_CN_003,Talk 2,"The sunlight in the greenhouse is so comfy. Even if I'm in charge here, it sometimes makes me want to sit down and relax for a bit.",温室里的阳光总是暖洋洋的，就算我是管理员，有时候也想偷个懒呢。,"В теплице всегда тепло и солнечно. Даже будучи её хозяйкой, я иногда хочу просто присесть и отдохнуть."
+char_258_podego_CN_004,Talk 3,"Use the fruits of your labor to make everyone forget their sorrows and worries. That's probably a gardener's primary objective, don't you think?",用自己的劳动成果，来让大家忘掉忧愁和烦恼，这大概就是花匠们的愿望吧~,"Пустить плоды своего труда на то, чтобы люди забыли о печалях и заботах, — пожалуй, в этом и состоит мечта садовников."
+char_258_podego_CN_005,Talk after Promotion 1,"I much prefer gardening to fighting. But as long as I think about how I'm helping everyone, I can muster up the courage to go into combat.",比起栽培来说，战斗并不是我擅长的事。但是只要一想到能帮到大家，我就充满了勇气。,"Сражаться я умею куда меньше, чем выращивать растения. Но стоит подумать, что я помогаю всем, как смелости у меня прибавляется."
+char_258_podego_CN_006,Talk after Promotion 2,"These bottles? They're the pollen and seeds I've been collecting. I usually put on a gas mask and gloves before handling them, to protect me from poison.",这些瓶子？里面都是我收集了好久的花粉和种子。我摆弄它们的时候一般会戴上防毒面具，再戴上手套，不然可能会中毒的。,"Эти бутылочки? В них пыльца и семена, которые я собирала долгое время. Когда я с ними работаю, то надеваю противогаз и перчатки, иначе можно отравиться."
+char_258_podego_CN_007,Talk after Trust Increase 1,"Hm, everyone seems a bit weary these days. But, when they see the flowers I've planted, I'm sure they'll cheer right up.",唔，这几天好像大家都有点疲惫呢。不过，只要大家看到我种的花，一定会打起精神来的！,"Хм, в последние дни все какие-то уставшие. Но стоит им увидеть мои цветы — и они обязательно поднимутся!"
+char_258_podego_CN_008,Talk after Trust Increase 2,"Doctor, Doctor! Are you coming to the greenhouse today? Everyone's been awfully busy the last few days… If nobody comes by the greenhouse, they're going to miss the blooming season. And wouldn't that be a terrible shame?",博士博士，今天要来温室吗？好像大家这几天都很忙啊……不过如果没人来温室，白白让花期过去的话，也太可惜了吧？,"Доктор, Доктор! Вы сегодня в теплицу? Все эти дни все так заняты... Но если никто не зайдёт, а цветы отцветут зря — как же жаль?"
+char_258_podego_CN_009,Talk after Trust Increase 3,"Tending the greenhouse is really hard. But, as long as the flowers I grow can make people smile, all my hard work will be worth it!",照管温室确实很辛苦。但是，只要我种的花能让别人露出笑容，我的工作就有价值了吧！,"Ухаживать за теплицей и правда непросто. Но пока мои цветы заставляют людей улыбаться, мой труд стоит того!"
+char_258_podego_CN_010,Idle,"Doctor? Oh, you're asleep… May the flowery fragrance waft over your dreams.",博士？睡着了……希望花朵的芬芳，能够飘进你的梦中哦。,Доктор? Вы уснули... Пусть аромат цветов снится вам во сне.
+char_258_podego_CN_011,Onboard,"Doctor, it's Podenco, here to say hi! If you have time, I'd love for you to come by the greenhouse!",博士，波登可向你问好！有空的话，博士也来温室坐坐吧！,"Доктор, это Поденко приветствует вас! Заходите в теплицу, если найдётся время!"
+char_258_podego_CN_012,Watching Battle Record,Oh… I was expecting a video about gardening.,啊，我还以为是关于栽培技巧的录像呢。,"А... я думала, это видео о выращивании растений."
+char_258_podego_CN_013,Promotion 1,"Artist? N-N-No, I'm not that talented. I'm just a normal gardener.",艺术家？不不不，我没有那么厉害啦，我只是一个普通的花匠而已。,"Художница? Нет-нет-нет, я не так талантлива. Я обычный садовник."
+char_258_podego_CN_014,Promotion 2,"Look, Doctor! These are the new varieties I've been tending for so long. They've finally started to bloom! Aren't they gorgeous?",博士你看！我培育了好久的新品种终于绽放了。是不是很好看呢？,"Смотрите, Доктор! Новые сорта, которые я так долго выращивала, наконец расцвели. Разве они не прекрасны?"
+char_258_podego_CN_017,Added to Squad,Hm? Am I going too?,嗯？我也要一起行动吗！,Хм? Я тоже пойду?
+char_258_podego_CN_018,Appointed as Squad Leader,"Um, I've only ever tended a greenhouse. Can I really help with this…?",啊……我只有照管温室的经验，能帮上忙吗？,А... у меня есть опыт только с теплицей. Я и правда смогу помочь?
+char_258_podego_CN_019,Depart,I see the enemy! Let's go!,看到敌人了，大家一起上吧！,"Я вижу врага! Все, вперёд!"
+char_258_podego_CN_020,Begin Operation,"Everybody, look after yourselves!",一定要照顾好自己啊，各位！,"Берегите себя, все!"
+char_258_podego_CN_021,Selecting Operator 1,Yes?,嗯？,Да?
+char_258_podego_CN_022,Selecting Operator 2,Where are we going?,要去哪？,Куда идём?
+char_258_podego_CN_023,Deployment 1,Got it.,明白了。,Понятно.
+char_258_podego_CN_024,Deployment 2,I'll do it.,我会照办的。,"Я сделаю, как сказано."
+char_258_podego_CN_025,In Battle 1,"Careful, this pollen is allergenic.",小心花粉过敏哦。,"Осторожно, аллергия на пыльцу!"
+char_258_podego_CN_026,In Battle 2,"Okay, I'll handle this.",啊，把他们交给我吧。,"А, я возьму их на себя."
+char_258_podego_CN_027,In Battle 3,I've seen weeds like these before.,这种杂草我可见过好多了啊。,Таких сорняков я повидала предостаточно.
+char_258_podego_CN_028,In Battle 4,Let me protect everyone!,让我来掩护大家！,Я прикрою всех!
+char_258_podego_CN_029,4-star Result,"Phew, are we safe already? Good job, everyone!",呼，已经安全了吗？各位辛苦了！,"Фух, мы уже в безопасности? Все молодцы!"
+char_258_podego_CN_030,3-star Result,Achieving a flawless victory is like cultivating a beautiful flower. Both require a lot of hard work.,取得完美的胜利和栽培出美丽的花朵一样，都是个辛苦的事情啊。,"Добиться безупречной победы — как вырастить прекрасный цветок: и то, и другое требует много труда."
+char_258_podego_CN_031,Sub 3-star Result,"Doctor, everyone is waiting for your next orders.",博士，大家都在等你的下一步指令哦。,"Доктор, все ждут ваших следующих указаний."
+char_258_podego_CN_032,Operation Failure,Ah… I never thought it would turn out like this…,啊……会变成这个样子，可真是没想到啊……,"Ах... я и не думала, что всё обернётся так..."
+char_258_podego_CN_033,Assigned to Facility,Should we plant some flowers over here?,要不要在这里，种上花呢？,"Может, посадим здесь цветы?"
+char_258_podego_CN_034,Tap,"Oh, Doctor?",啊，博士？,"О, Доктор?"
+char_258_podego_CN_036,Trust Tap,Doctor! Would you like to decorate your office with some flowers?,博士！想要用花来装点办公室吗？,Доктор! Хотите украсить кабинет цветами?
+char_258_podego_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_258_podego_CN_038,New Year's blessing,"Back home, most flowers would already have withered by now. But just thinking about how spring will be here soon… fills my heart with hope. Doctor, let's find the first flower that blooms in the greenhouse together!",在老家，这个时候许多花都已经凋谢了，但是想到春天很快就要到来，心里又充满了希望。博士，我们去温室里找一找在新的一年开的第一朵花吧！,"На родине к этому времени большинство цветов уже увяло, но стоит подумать, что скоро весна — и сердце наполняется надеждой. Доктор, давайте найдём в теплице первый цветок, который расцветёт в новом году!"
+char_258_podego_CN_042,Greeting,"Hello, Doctor!",博士，你好啊！,"Здравствуйте, Доктор!"
+char_258_podego_CN_043,Birthday,"Doctor, happy birthday! Please, try this floral tea! I made it the way Miss Lena taught me, and if you really savor it, you can taste a hint of cake flavor! Eh? You can't? Let me try… Oh… Sorry, Doctor. I… I think I forgot the honey…",博士，生日快乐！请尝尝这杯花茶吧！这是我用莱娜姐姐的技术做的茶，仔细品尝的话会有蛋糕的味道呢！欸，喝不出来吗？我来试试……对不起博士，我好像，忘记放花蜜了……,"Доктор, с днём рождения! Попробуйте этот цветочный чай! Я сделала его по технологии сестры Лены — если вдуматься, в нём даже вкус торта чувствуется. Эй, не чувствуете? Дайте я попробую... Простите, Доктор, я, кажется, забыла добавить нектар..."
+char_258_podego_CN_044,Anniversary Celebration,"I've been all over with Rhodes Island. Does that mean I've spread flowery fragrance to just as many places? Hehe… I may still have lots of room for improvement, compared to Miss Lena, but I'll do my best to make Rhodes Island an even warmer place!",跟着罗德岛走过了许多地方，是不是也算将花香散播到大地各处了呢？嘿嘿……虽然和莱娜姐姐比起来，我还有许多不成熟的地方，但我会尽力让罗德岛变成一个更温馨的地方！,"Побывав со мной во многих местах, Родос разнёс аромат цветов по всей земле, да? Хи-хи... По сравнению с сестрой Леной мне ещё многому нужно учиться, но я сделаю всё, чтобы Родос стал ещё уютнее!"

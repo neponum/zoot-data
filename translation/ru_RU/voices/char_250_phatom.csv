@@ -1,39 +1,39 @@
-id,title,original,translation
-char_250_phatom_CN_001,Appointed as Assistant,No need to look for me. I've always been here.,
-char_250_phatom_CN_002,Talk 1,"Those in the dark cannot show you the way, nor can they see where you point. Don't tarry here, it's time for you to leave...",
-char_250_phatom_CN_003,Talk 2,"Under this mask, even I do not recognize myself.",
-char_250_phatom_CN_004,Talk 3,"This is Miss.Christine. I don't know where she came from, nor do I know when she will leave. If she likes you, she will approach you on her own... Yes, just as she's doing right now.",
-char_250_phatom_CN_005,Talk after Promotion 1,"In the past, I was not lonely. I once had several friends, and we traveled all over as a theatre troupe. But when Oripathy broke out, everything drew to a close, and everything began...",
-char_250_phatom_CN_006,Talk after Promotion 2,"This darkness is a refuge, a throne, and Paradise above all. The spirits of the dead have never left, and I've cursed the world from atop their bones... You see me as I am now. Do you still wish to hear my song? Do you still dare... to stand before me?",
-char_250_phatom_CN_007,Talk after Trust Increase 1,"This device embedded above my throat presses against my neck, but it is exactly what I need. Like a mask does, it conceals my sins and my voice. You'd like to hear my real voice? No, you can't. It isn't something you ought to bear...",
-char_250_phatom_CN_008,Talk after Trust Increase 2,"My song ended all of their lives. It came, that endless night, the song that would not stop, the quivering falsetto and organ fragments that expelled from a throat—it horrified them, suffocated them, but it was so... miraculous. Doctor, tell me. What in the world is it... that I do?",
-char_250_phatom_CN_009,Talk after Trust Increase 3,"I can end many lives for you, but I first need you to confirm that I am awake. Something is trying to influence me. It doesn't want me to leave the stage. It wants my song to echo forever... and it wants me to kill you. Before I play the role of your assassin once more, I must discover the truth.",
-char_250_phatom_CN_010,Idle,"The shadows have never left your side, even without the night. Do be careful of your untimely somnolence, Doctor.",
-char_250_phatom_CN_011,Onboard,"Code name, Phantom. The Phantom Behind the Curtain, Treasurer of the Night. Tell me, who are your enemies, and where do they hide?",
-char_250_phatom_CN_012,Watching Battle Record,"Killing is not an end, but a means.",
-char_250_phatom_CN_013,Promotion 1,"As you wish. You are the one who sets Rhodes Island's tune, and you require neither guide nor guardian... Yes, I know all too well, you are your own master.",
-char_250_phatom_CN_014,Promotion 2,"There is no looking back after this step, no turning back. What I am about to share with you is not as wonderful as you may believe... Come, come here, and allow me to show you what lies beneath the veil of night.",
-char_250_phatom_CN_017,Added to Squad,Is it time for me to take the stage?,
-char_250_phatom_CN_018,Appointed as Squad Leader,I am no stranger to giving guidance.,
-char_250_phatom_CN_019,Depart,I'll do as you say...,
-char_250_phatom_CN_020,Begin Operation,Let us raise the curtains on this play.,
-char_250_phatom_CN_021,Selecting Operator 1,I'm with you.,
-char_250_phatom_CN_022,Selecting Operator 2,"So, let us sink into the night.",
-char_250_phatom_CN_023,Deployment 1,I come from the shadows.,
-char_250_phatom_CN_024,Deployment 2,Hear my voice. Hear my song.,
-char_250_phatom_CN_025,In Battle 1,Do you see your own face in the mirror?,
-char_250_phatom_CN_026,In Battle 2,The actors are all puppets of the script.,
-char_250_phatom_CN_027,In Battle 3,The guilty... will be punished.,
-char_250_phatom_CN_028,In Battle 4,"Yes, lift your voices! Sing for me! Sing for me!",
-char_250_phatom_CN_029,4-star Result,Is this the victory your leadership has brought about...?,
-char_250_phatom_CN_030,3-star Result,"It is over. Victory is not sweet, as conflict always leaves an aftertaste.",
-char_250_phatom_CN_031,Sub 3-star Result,They escaped. Fortunate for them... and perhaps for me as well.,
-char_250_phatom_CN_032,Operation Failure,Fall back... You've already lost your way.,
-char_250_phatom_CN_033,Assigned to Facility,"Hm? Behind this mirror, there seems...",
-char_250_phatom_CN_034,Tap,What is it?,
-char_250_phatom_CN_036,Trust Tap,"The sound of these footsteps... It's you, Doctor.",
-char_250_phatom_CN_037,Title,Arknights.,
-char_250_phatom_CN_038,New Year's blessing,"Is time's passage so worthy of celebration? Is it truly within our power to bid adieu to the past? It may be all too ironic that one like I, draped in misfortune, should wish you well... but as the New Year beckons, the shadows shall continue to keep to your back.",
-char_250_phatom_CN_042,Greeting,"The shadow behind you looks heavier than it was yesterday, Doctor.",
-char_250_phatom_CN_043,Birthday,"Happy birthday, Doctor. If this desolate throat of mine could still sing, I would gladly devote a ballad to you for the occasion. It is my regret, then, that the opportunity is no more. Ah, Miss.Christine offers us a rose—it seems she, too, wishes you well on this special day.",
-char_250_phatom_CN_044,Anniversary Celebration,"A role who deviates from the script cannot exist, nor may a shadow hide forever in the night. Rhodes Island—are you to be the stage I next take...? I only hope that this time, it is by your hands the curtains are brought down.",
+id,title,original,original_zh,translation
+char_250_phatom_CN_001,Appointed as Assistant,No need to look for me. I've always been here.,别去刻意寻找，我一直在。,Не ищите меня намеренно — я всё время здесь.
+char_250_phatom_CN_002,Talk 1,"Those in the dark cannot show you the way, nor can they see where you point. Don't tarry here, it's time for you to leave...",黑夜中的人无法给你指路，也看不到你指出的方向。别停留，你该离开了……,"Те, кто во тьме, не укажут вам путь и не увидят, куда вы указываете. Не задерживайтесь — вам пора уходить..."
+char_250_phatom_CN_003,Talk 2,"Under this mask, even I do not recognize myself.",在这副假面之下，我认不出自己是谁。,Под этой маской я сам себя не узнаю.
+char_250_phatom_CN_004,Talk 3,"This is Miss.Christine. I don't know where she came from, nor do I know when she will leave. If she likes you, she will approach you on her own... Yes, just as she's doing right now.",这位是Miss.Christine。我不知道她从哪里来，也不知道她会在什么时候离开。如果她喜欢你，她会主动靠近……没错，像现在这样。,"Это Miss.Christine. Я не знаю, откуда она пришла и когда уйдёт. Если она вас полюбит, то подойдёт сама... Да, вот как сейчас."
+char_250_phatom_CN_005,Talk after Promotion 1,"In the past, I was not lonely. I once had several friends, and we traveled all over as a theatre troupe. But when Oripathy broke out, everything drew to a close, and everything began...",曾经的我也并非孤身一人。我有过一些伙伴，作为一个小剧团四处周游。但当矿石病爆发蔓延，一切到此结束，一切又由此而始……,"Раньше я не был одинок. У меня было несколько товарищей, и мы разъезжали с небольшой театральной труппой. Но когда вспыхнула и распространилась орипатия, всё закончилось — и всё началось..."
+char_250_phatom_CN_006,Talk after Promotion 2,"This darkness is a refuge, a throne, and Paradise above all. The spirits of the dead have never left, and I've cursed the world from atop their bones... You see me as I am now. Do you still wish to hear my song? Do you still dare... to stand before me?",这片黑暗是庇护所，也是宝座，更是乐园。过去的亡灵从未离去，而我在他们的骸骨上诅咒这一切……看到我这副模样，你还想聆听我的歌声，你还敢…站在我身前吗？,"Эта тьма — приют, трон и рай превыше всего. Души умерших никогда не уходили, а я проклинал этот мир с их костей... Увидели меня таким. Вы всё ещё хотите слышать мою песнь? Вы всё ещё осмелитесь... встать передо мной?"
+char_250_phatom_CN_007,Talk after Trust Increase 1,"This device embedded above my throat presses against my neck, but it is exactly what I need. Like a mask does, it conceals my sins and my voice. You'd like to hear my real voice? No, you can't. It isn't something you ought to bear...",喉咙上的这个装置压迫着我的脖颈，但这正是我需要的。和面具一样，它遮掩了我的罪恶，隐藏了我的声音。想听我真正的声音？不，不能。这不是你该承受的……,"Это устройство у горла сдавливает мне шею, но оно именно то, что мне нужно. Как и маска, оно скрывает мои грехи и мой голос. Хотите услышать мой настоящий голос? Нет, нельзя. Это не то, что вам следует выносить..."
+char_250_phatom_CN_008,Talk after Trust Increase 2,"My song ended all of their lives. It came, that endless night, the song that would not stop, the quivering falsetto and organ fragments that expelled from a throat—it horrified them, suffocated them, but it was so... miraculous. Doctor, tell me. What in the world is it... that I do?",我的歌声结束了所有人的生命。无止境的夜，不停止的歌，那些从喉咙里呕出的发颤高音和内脏碎片，令人恐惧，也让人窒息……却又那么……美妙。博士，你告诉我，我到底……在做什么？,"Моя песня оборвала все эти жизни. Бесконечная ночь, песня, что не умолкала, дрожащий фальцет и обрывки плоти, вырванные из горла — это ужасало их, душило, но было таким... прекрасным. Доктор, скажите мне: что же я... делаю?"
+char_250_phatom_CN_009,Talk after Trust Increase 3,"I can end many lives for you, but I first need you to confirm that I am awake. Something is trying to influence me. It doesn't want me to leave the stage. It wants my song to echo forever... and it wants me to kill you. Before I play the role of your assassin once more, I must discover the truth.",我能帮你取走许多生命，但我必须先确认自己是否清醒。有什么在尝试左右我，它不愿我走下舞台，它想让歌声永远回荡下去……甚至去杀死你。再次扮演你的刺客前，我必须先找到真相。,"Я могу забрать для вас множество жизней, но сначала должен убедиться, что я в сознании. Что-то пытается влиять на меня: оно не хочет, чтобы я сошёл со сцены, оно хочет, чтобы песнь звучала вечно... и чтобы я убил вас. Прежде чем снова сыграть роль вашего убийцы, я должен найти правду."
+char_250_phatom_CN_010,Idle,"The shadows have never left your side, even without the night. Do be careful of your untimely somnolence, Doctor.",即使现在并非黑夜，黑影也不曾离开你的身边。小心你那些不合时宜的睡意，博士。,"Даже сейчас, когда не ночь, тени не покидают вас. Остерегайтесь несвоевременной сонливости, Доктор."
+char_250_phatom_CN_011,Onboard,"Code name, Phantom. The Phantom Behind the Curtain, Treasurer of the Night. Tell me, who are your enemies, and where do they hide?",代号傀影，黑夜中的幽灵，幕布后的幻影。告诉我，你的敌人在哪，是谁……,"Позывной — Фантом. Призрак в ночи, видение за занавесом. Скажите: кто ваши враги и где они скрываются..."
+char_250_phatom_CN_012,Watching Battle Record,"Killing is not an end, but a means.",杀戮不是目的，而是手段。,"Убийство — не цель, а средство."
+char_250_phatom_CN_013,Promotion 1,"As you wish. You are the one who sets Rhodes Island's tune, and you require neither guide nor guardian... Yes, I know all too well, you are your own master.",如你所愿。罗德岛的曲调由你来定，你不需要引导或保护……是的，我很清楚。你才是你自己的主人。,"Как пожелаете. Мелодию Родоса задаёте вы, вам не нужны ни проводник, ни страж... Да, я слишком хорошо знаю: вы сами себе хозяин."
+char_250_phatom_CN_014,Promotion 2,"There is no looking back after this step, no turning back. What I am about to share with you is not as wonderful as you may believe... Come, come here, and allow me to show you what lies beneath the veil of night.",这一步无法回头，无法后望。我将与你分享的东西，恐怕并不像你想象中那样美妙。……过来，来这里，这黑夜的幕布，就让我为你揭开。,"После этого шага нет возврата, нет оглядки. То, что я вам открою, вряд ли так прекрасно, как вы думаете... Подойдите, подойдите сюда — позвольте мне приподнять завесу ночи."
+char_250_phatom_CN_017,Added to Squad,Is it time for me to take the stage?,该我登台了吗？,Пора мне выйти на сцену?
+char_250_phatom_CN_018,Appointed as Squad Leader,I am no stranger to giving guidance.,给与引导，这我不陌生。,Давать указания — для меня не в новинку.
+char_250_phatom_CN_019,Depart,I'll do as you say...,就按你所说的方向……,"Я сделаю, как вы скажете..."
+char_250_phatom_CN_020,Begin Operation,Let us raise the curtains on this play.,戏剧该揭开它的帷幕了。,Поднимем же занавес этой пьесы.
+char_250_phatom_CN_021,Selecting Operator 1,I'm with you.,我在。,Я с вами.
+char_250_phatom_CN_022,Selecting Operator 2,"So, let us sink into the night.",那么，潜入夜幕吧。,Так погрузимся во тьму.
+char_250_phatom_CN_023,Deployment 1,I come from the shadows.,我自暗影中现身。,Я являюсь из теней.
+char_250_phatom_CN_024,Deployment 2,Hear my voice. Hear my song.,听我的声音。听我歌唱。,Услышьте мой голос. Услышьте мою песнь.
+char_250_phatom_CN_025,In Battle 1,Do you see your own face in the mirror?,看到镜中你自己的脸了吗。,Видите ли вы в зеркале своё лицо?
+char_250_phatom_CN_026,In Battle 2,The actors are all puppets of the script.,演员是台词的傀儡。,Актёры — марионетки сценария.
+char_250_phatom_CN_027,In Battle 3,The guilty... will be punished.,有罪者……当受罚。,Виновные... будут наказаны.
+char_250_phatom_CN_028,In Battle 4,"Yes, lift your voices! Sing for me! Sing for me!",为了我——歌唱吧！歌唱吧！歌唱吧！,"Да, возвысьте голоса! Пойте для меня! Пойте для меня! Пойте!"
+char_250_phatom_CN_029,4-star Result,Is this the victory your leadership has brought about...?,这就是由你引导而来的胜利吗……,"Это ли победа, которую вы принесли своим руководством?.."
+char_250_phatom_CN_030,3-star Result,"It is over. Victory is not sweet, as conflict always leaves an aftertaste.",结束了。胜利并不甜美，纷争总是孕化了其它滋味。,Всё кончено. Победа не сладка: распри всегда оставляют осадок.
+char_250_phatom_CN_031,Sub 3-star Result,They escaped. Fortunate for them... and perhaps for me as well.,被他们逃了。对他们来说是件好事……对我来说，或许也是。,"Они ускользнули. Для них это хорошо... может, и для меня тоже."
+char_250_phatom_CN_032,Operation Failure,Fall back... You've already lost your way.,撤退。……你已经迷失了方向。,Отступайте... Вы уже потеряли дорогу.
+char_250_phatom_CN_033,Assigned to Facility,"Hm? Behind this mirror, there seems...",嗯？这面镜子后面，似乎……,Мм? За этим зеркалом будто бы...
+char_250_phatom_CN_034,Tap,What is it?,什么？,Что это?
+char_250_phatom_CN_036,Trust Tap,"The sound of these footsteps... It's you, Doctor.",这个脚步声……是你，博士。,"Эти шаги... Это вы, Доктор."
+char_250_phatom_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_250_phatom_CN_038,New Year's blessing,"Is time's passage so worthy of celebration? Is it truly within our power to bid adieu to the past? It may be all too ironic that one like I, draped in misfortune, should wish you well... but as the New Year beckons, the shadows shall continue to keep to your back.",时光流逝是一件值得庆祝的事情吗？我们真的能够与往日作别吗？由我这个被厄运缠身的人为您送上祝福或许并不适宜……但新的一年，影子会继续跟随在您身后。,"Стоит ли праздновать течение времени? Действительно ли мы властны попрощаться с прошлым? Мне, отягощённому несчастьем, не слишком пристало желать вам добра... но с приходом Нового года тени по-прежнему будут следовать за вами."
+char_250_phatom_CN_042,Greeting,"The shadow behind you looks heavier than it was yesterday, Doctor.",你身后的影子看起来比昨天更沉重，博士。,"Тень за вами сегодня тяжелее, чем вчера, Доктор."
+char_250_phatom_CN_043,Birthday,"Happy birthday, Doctor. If this desolate throat of mine could still sing, I would gladly devote a ballad to you for the occasion. It is my regret, then, that the opportunity is no more. Ah, Miss.Christine offers us a rose—it seems she, too, wishes you well on this special day.",生日快乐，博士。如果我这残破的喉咙还能唱歌的话，我很乐意为您献上一首生日歌谣。只可惜，我不再有这个机会了。啊，Miss.Christine衔来了一朵玫瑰，看来她也想为您庆生呢。,"С днём рождения, Доктор. Если бы это горло, что истерзано, всё ещё могло петь, я бы с радостью посвятил вам балладу. Увы, такой возможности больше нет. Ах, Miss.Christine принесла розу — значит, и она хочет поздравить вас в этот день."
+char_250_phatom_CN_044,Anniversary Celebration,"A role who deviates from the script cannot exist, nor may a shadow hide forever in the night. Rhodes Island—are you to be the stage I next take...? I only hope that this time, it is by your hands the curtains are brought down.",脱离了剧本的角色无法存在，影子也无法永远藏身于黑夜。罗德岛，会成为我的下一个舞台吗……我只希望这一次，能由您亲手拉下帷幕。,"Роль, сошедшая со сценария, не может существовать, как и тень не может вечно прятаться во тьме. Родос — станете ли вы моей следующей сценой?.. Я лишь надеюсь, что на этот раз занавес опустится по вашей воле."

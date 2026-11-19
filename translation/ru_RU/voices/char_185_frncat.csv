@@ -1,39 +1,39 @@
-id,title,original,translation
-char_185_frncat_CN_001,Appointed as Assistant,We've got more kitties! Yeah…,
-char_185_frncat_CN_002,Talk 1,"Laterano cakes are so delicious! But we operators have to pay attention to our diet, right?... aww...",
-char_185_frncat_CN_003,Talk 2,"Not my gloves... I'm sorry, I can't take my gloves off... I don't want you to see my hands. That's the one thing I ask... sorry…",
-char_185_frncat_CN_004,Talk 3,"A-Are we departing now? Al-Alright, let me just prepare one moment...!",
-char_185_frncat_CN_005,Talk after Promotion 1,Do you think it's odd that I have two tails? Do-do-do I look even stranger than I thought? Umm...,
-char_185_frncat_CN_006,Talk after Promotion 2,"When my symptoms aren't flaring up, my hand stays all normal... It feels so nice, just being able to hold the kitties like this...",
-char_185_frncat_CN_007,Talk after Trust Increase 1,"Doctor, what kind of cake do you prefer? Mango, or matcha? I tried making a few, and... you already ate? Oh, umm, Okay...",
-char_185_frncat_CN_008,Talk after Trust Increase 2,"D-Doctor! Sora... sh-she's the super idol, Sora, isn't she?! I'd recognize her anywhere! I'm her biggest fan! Why is she here at Rhodes Island? And... and... can I ask her for an autograph?",
-char_185_frncat_CN_009,Talk after Trust Increase 3,"Doctor, have you heard of the Avenue des Champs-Élysées? Yes, I happened to be born there. I really wish I could go back and visit one day... what? Oh, no, I appreciate it, but I'm not lonely. I have you, after all! You're my family.",
-char_185_frncat_CN_010,Idle,Aw... Doctor... why are you ignoring me...,
-char_185_frncat_CN_011,Onboard,Good day... p-please call me Mousse. And... and please don't stare at my hand so much...,
-char_185_frncat_CN_012,Watching Battle Record,This is a favor I'll never forget!,
-char_185_frncat_CN_013,Promotion 1,Huh? Pro...promotion?! I-I'm not prepared for this...,
-char_185_frncat_CN_014,Promotion 2,"Doctor, I know there's a limit to what I can accomplish, so I swear... I'll do all that I'm able, as well as I'm able! It's... It's the only way I could ever repay you, Doctor...",
-char_185_frncat_CN_017,Added to Squad,"Yes, I'll do my best!",
-char_185_frncat_CN_018,Appointed as Squad Leader,"This is in my hands! You can do this, Mousse!",
-char_185_frncat_CN_019,Depart,"I essentially blend into the walls, so I'm a good choice for scouting...",
-char_185_frncat_CN_020,Begin Operation,Scouting complete. Sending you enemy coordinates.,
-char_185_frncat_CN_021,Selecting Operator 1,I'm ready!,
-char_185_frncat_CN_022,Selecting Operator 2,Here!,
-char_185_frncat_CN_023,Deployment 1,I'm not scared...!,
-char_185_frncat_CN_024,Deployment 2,"From now on, this is my battle...!",
-char_185_frncat_CN_025,In Battle 1,Yah!,
-char_185_frncat_CN_026,In Battle 2,"No, stay back!",
-char_185_frncat_CN_027,In Battle 3,I can fight too!,
-char_185_frncat_CN_028,In Battle 4,You-You'll regret this!,
-char_185_frncat_CN_029,4-star Result,It was a tough fight... but I stayed steady through it all...!,
-char_185_frncat_CN_030,3-star Result,"Yay... Oh, oh, sorry, it's not that I like battles that much, but...",
-char_185_frncat_CN_031,Sub 3-star Result,D-Did I drag us all down?,
-char_185_frncat_CN_032,Operation Failure,I can... keep going...,
-char_185_frncat_CN_033,Assigned to Facility,E-Excuse me... May I come in...?,
-char_185_frncat_CN_034,Tap,Yah!,
-char_185_frncat_CN_036,Trust Tap,D-Doctor... I really can't hold it in anymore... do we have a scratching post? Urghh...,
-char_185_frncat_CN_037,Title,Arknights.,
-char_185_frncat_CN_038,New Year's blessing,"Happy new year, Doctor… Help yourself with the pastries there! I personally made some of them, and they go well with the tea I prepared. With my gloves on me though... they may not look as great as what I used to make. B-But should still taste good, I think!",
-char_185_frncat_CN_042,Greeting,"Hello, Doctor.",
-char_185_frncat_CN_043,Birthday,"Doctor, could you accept this felt doll? I made it with the fur those kittens left behind. It was a lot of fur for a small doll, so I tried a few times to get it right. Do you recognize it, Doctor? It's you... N-No? Aw…",
-char_185_frncat_CN_044,Anniversary Celebration,"Sora just gave me more of her albums, and they also came with her signature on them! How nice of her! She also gave me this little heart-shaped doodle on my gloves, saying these are the coolest gloves she's ever seen, and that I looked really special with them. Doctor, I'm thinking, maybe... I'm not as weird as I thought?",
+id,title,original,original_zh,translation
+char_185_frncat_CN_001,Appointed as Assistant,We've got more kitties! Yeah…,猫猫又增加了，好开心！,"Кошек снова стало больше, как я рада!"
+char_185_frncat_CN_002,Talk 1,"Laterano cakes are so delicious! But we operators have to pay attention to our diet, right?... aww...",拉特兰的蛋糕，非常好吃！不过，是不是所有干员都要严格控制体重来着……？呜……,Торты в Латерано очень вкусные! Но разве все операторы не должны строго следить за весом?.. Ой...
+char_185_frncat_CN_003,Talk 2,"Not my gloves... I'm sorry, I can't take my gloves off... I don't want you to see my hands. That's the one thing I ask... sorry…",手套……这副手套不能摘下来，因为不想让博士看见我的手……只有这个要求，是不行的……对不起……,"Перчатки... эти перчатки я не могу снять, потому что не хочу, чтобы Доктор увидел мои руки... Только эта просьба... нельзя... простите..."
+char_185_frncat_CN_004,Talk 3,"A-Are we departing now? Al-Alright, let me just prepare one moment...!",要、要出发了吗？好、好的，请让我准备一下……！,"М-Мы отправляемся? Х-Хорошо, позвольте мне подготовиться...!"
+char_185_frncat_CN_005,Talk after Promotion 1,Do you think it's odd that I have two tails? Do-do-do I look even stranger than I thought? Umm...,慕斯的尾巴有两条，很奇怪吗？难，难道，我看起来比自己想象的还要奇怪吗？呜……,"У Мусс два хвоста, это странно? Неужели, неужели я выгляжу ещё страннее, чем сама думала? Ой..."
+char_185_frncat_CN_006,Talk after Promotion 2,"When my symptoms aren't flaring up, my hand stays all normal... It feels so nice, just being able to hold the kitties like this...",其实没有发病的时候，我的手不会变成什么奇怪的样子……能像现在这样用手抱一抱猫猫们，我已经很满足了……,"На самом деле, когда приступ не начинается, мои руки не принимают странный вид... Я уже довольна тем, что могу вот так обнимать кошек..."
+char_185_frncat_CN_007,Talk after Trust Increase 1,"Doctor, what kind of cake do you prefer? Mango, or matcha? I tried making a few, and... you already ate? Oh, umm, Okay...",博士，芒果味和抹茶味的蛋糕，您喜欢哪一种呢？我试着做了一些……咦，您已经吃过了吗？这样啊……,"Доктор, манго или матча — какой торт вам больше нравится? Я попробовала испечь... Ах, вы уже поели? Понятно..."
+char_185_frncat_CN_008,Talk after Trust Increase 2,"D-Doctor! Sora... sh-she's the super idol, Sora, isn't she?! I'd recognize her anywhere! I'm her biggest fan! Why is she here at Rhodes Island? And... and... can I ask her for an autograph?",博、博士！那位空小姐，是我最喜欢的偶像空小姐吧？！我没认错！为什么她会在罗德岛……那、那个，能请她帮我签个名吗？,"Д-Доктор! Та мисс Сора — это же моя любимая айдол Сора?! Я не ошиблась! Что она делает на Родосе... Э-Э, можно попросить у неё автограф?"
+char_185_frncat_CN_009,Talk after Trust Increase 3,"Doctor, have you heard of the Avenue des Champs-Élysées? Yes, I happened to be born there. I really wish I could go back and visit one day... what? Oh, no, I appreciate it, but I'm not lonely. I have you, after all! You're my family.",博士，您知道爱丽榭大道么？嗯嗯，那里是我出生的地方，真想回去看一看啊……嗯？不，我已经不会感到寂寞了，毕竟，您就是我的家人呀！,"Доктор, вы знаете Елисейские поля? М-м, там я родилась, так хочется вернуться и посмотреть... Мм? Нет, я больше не одинока — ведь вы моя семья!"
+char_185_frncat_CN_010,Idle,Aw... Doctor... why are you ignoring me...,呜……博士不理我了……,Ой... Доктор со мной не разговаривает...
+char_185_frncat_CN_011,Onboard,Good day... p-please call me Mousse. And... and please don't stare at my hand so much...,你好……请、请叫我慕斯……那个，我的手，请您不要盯着我的手看……,"Здравствуйте... Пожалуйста, зовите меня Мусс... Э-Э, мои руки... не смотрите на мои руки, хорошо?"
+char_185_frncat_CN_012,Watching Battle Record,This is a favor I'll never forget!,我绝对不会忘记这份恩情的！,Я никогда не забуду эту доброту!
+char_185_frncat_CN_013,Promotion 1,Huh? Pro...promotion?! I-I'm not prepared for this...,欸？晋、晋升？我还没准备好……,А? П-Повышение? Я не готова...
+char_185_frncat_CN_014,Promotion 2,"Doctor, I know there's a limit to what I can accomplish, so I swear... I'll do all that I'm able, as well as I'm able! It's... It's the only way I could ever repay you, Doctor...",博士，我、我知道自己能力有限，所以，我一定把力所能及的事，全都做好！这也是我唯一能报答博士的方式了……,"Доктор, я, я знаю, что мои возможности ограничены, поэтому я сделаю всё, что в моих силах, и как можно лучше! Это единственный способ, которым я могу отблагодарить вас..."
+char_185_frncat_CN_017,Added to Squad,"Yes, I'll do my best!",嗯，我会努力的。,"Мм, я постараюсь."
+char_185_frncat_CN_018,Appointed as Squad Leader,"This is in my hands! You can do this, Mousse!",我一定能做好的，加油，慕斯！,"У меня обязательно получится, давай, Мусс!"
+char_185_frncat_CN_019,Depart,"I essentially blend into the walls, so I'm a good choice for scouting...",我不太起眼，很适合去侦查敌情……,"Я не бросаюсь в глаза, поэтому хорошо подхожу для разведки..."
+char_185_frncat_CN_020,Begin Operation,Scouting complete. Sending you enemy coordinates.,侦查结束，现在向您报告敌人的位置。,"Разведка завершена, докладываю положение противника."
+char_185_frncat_CN_021,Selecting Operator 1,I'm ready!,我准备好了！,Я готова!
+char_185_frncat_CN_022,Selecting Operator 2,Here!,嗯！,Мм!
+char_185_frncat_CN_023,Deployment 1,I'm not scared...!,慕斯，不会害怕……！,Мусс не боится...!
+char_185_frncat_CN_024,Deployment 2,"From now on, this is my battle...!",从这里开始，是慕斯的战斗了……！,Отсюда начинается бой Мусс...!
+char_185_frncat_CN_025,In Battle 1,Yah!,呀！,Ах!
+char_185_frncat_CN_026,In Battle 2,"No, stay back!",离、离我远点！,Не... не подходите!
+char_185_frncat_CN_027,In Battle 3,I can fight too!,我也可以战斗的……！,Я тоже могу сражаться...!
+char_185_frncat_CN_028,In Battle 4,You-You'll regret this!,你、你绝对会后悔的……！,"Ты, ты точно пожалеешь...!"
+char_185_frncat_CN_029,4-star Result,It was a tough fight... but I stayed steady through it all...!,就算是这样残酷的战斗，慕斯也坚持下来了呢……,Даже в таком жестоком бою Мусс выдержала...
+char_185_frncat_CN_030,3-star Result,"Yay... Oh, oh, sorry, it's not that I like battles that much, but...",呼——啊，对不起，虽然我不是很喜欢战斗，但是……,"Фу — ах, простите, я не очень люблю сражаться, но..."
+char_185_frncat_CN_031,Sub 3-star Result,D-Did I drag us all down?,给、给大家拖后腿了吗？,Я... я подвела всех?
+char_185_frncat_CN_032,Operation Failure,I can... keep going...,我还能……再坚持一下……,Я ещё... могу потерпеть...
+char_185_frncat_CN_033,Assigned to Facility,E-Excuse me... May I come in...?,你、你好，我进来了……,"З-Здравствуйте, я зашла..."
+char_185_frncat_CN_034,Tap,Yah!,呀！,Ах!
+char_185_frncat_CN_036,Trust Tap,D-Doctor... I really can't hold it in anymore... do we have a scratching post? Urghh...,博士，我、我实在忍不住了……能给我抓板吗？呜呜呜……,"Доктор, я, я больше не могу... можно мне когтеточку? Ой-ой-ой..."
+char_185_frncat_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_185_frncat_CN_038,New Year's blessing,"Happy new year, Doctor… Help yourself with the pastries there! I personally made some of them, and they go well with the tea I prepared. With my gloves on me though... they may not look as great as what I used to make. B-But should still taste good, I think!",博士，新年快乐……！那边放的糕点中有我自己做的，我还准备了一些可以搭配食用的茶水，但是因为我的手套……看起来没有我原先做的那么精致，不过，还是会很好吃的！,"Доктор, с новым годом...! Среди пирожных там есть и мои, я ещё подготовила чай, который к ним подойдёт, но из-за перчаток... они выглядят не так аккуратно, как раньше, но всё равно будут вкусными!"
+char_185_frncat_CN_042,Greeting,"Hello, Doctor.",你好，博士。,"Здравствуйте, Доктор."
+char_185_frncat_CN_043,Birthday,"Doctor, could you accept this felt doll? I made it with the fur those kittens left behind. It was a lot of fur for a small doll, so I tried a few times to get it right. Do you recognize it, Doctor? It's you... N-No? Aw…",猫猫，猫猫们留下了很多绒毛，我收集起来做了这个毛毡小人，能看出来是博士吗？因为绒毛有很多，我也练习了很多次，博、博士看不出吗？呜……,"Кошки, они оставили много шерсти, я собрала её и сделала этого войлочного человечка. Можно узнать Доктора? Шерсти было много, я тренировалась несколько раз — Д-Доктор не узнаёт? Ой..."
+char_185_frncat_CN_044,Anniversary Celebration,"Sora just gave me more of her albums, and they also came with her signature on them! How nice of her! She also gave me this little heart-shaped doodle on my gloves, saying these are the coolest gloves she's ever seen, and that I looked really special with them. Doctor, I'm thinking, maybe... I'm not as weird as I thought?",空小姐又给了我几张她的签名专辑，真开心！她甚至还在我的手套上也画了一个小爱心，她说这是她见过最酷的手套了，我这样子很特别。博士，我、我没有自己想的那么奇怪……对不对？,"Мисс Сора снова дала мне несколько своих альбомов с автографами, так приятно! Она даже нарисовала маленькое сердечко на моей перчатке и сказала, что это самые крутые перчатки, какие она видела, и что я выгляжу очень особенно. Доктор, я... я не такая странная, как думаю... да?"

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_133_mm_CN_001,Appointed as Assistant,"Doctor, I may be in your employ, but every murderer is probably somebody's old friend—so if your conduct is even slightly suspect, I won't turn a blind eye!",
-char_133_mm_CN_002,Talk 1,This Rhodes Island has no less of a suspicious smell about it…,
-char_133_mm_CN_003,Talk 2,"Careful observation is fundamental to all investigatory work! Elementary, true, but it always comes in handy!",
-char_133_mm_CN_004,Talk 3,"You there! Face this way, hands where I can see them! Ah, sorry, I thought you were someone else…",
-char_133_mm_CN_005,Talk after Promotion 1,"I've always had my misgivings about that penguin. I mean, it spends money like water, and it's a PENGUIN! It even has a gold necklace on! Do you know how LITTLE detectives like us make in a month?",
-char_133_mm_CN_006,Talk after Promotion 2,"Mmmgh... so frustrating! How do I get my investigation on that suspect logistics company started? Do I break in? Hrmm, not when those two guards look so dead fierce... No, no, I'm not scared... I'm just warming up the little grey cells!",
-char_133_mm_CN_007,Talk after Trust Increase 1,"What are you giving me anpan for? I don't eat this sort of thing while I'm mid-investigation—you must be getting funny ideas from all those TV shows! When a real detective's on the case, it's doughnuts or nothing!",
-char_133_mm_CN_008,Talk after Trust Increase 2,"You told me it was only for three months. But after three months came another three months, and another. I've been almost ten months undercover, guv! ...Hey! I see you there! Stop eavesdropping on my call!",
-char_133_mm_CN_009,Talk after Trust Increase 3,"Doctor, I fear that penguin has noticed I've been investigating it... I fear for my life, too...!",
-char_133_mm_CN_010,Idle,Wake up! Waaake uppp! No sleeping on the jooob!,
-char_133_mm_CN_011,Onboard,"I'm Royal Detective May, and I ask you cooperate with me in my investigation! Eh? I've got the wrong address? Impossible! That penguin's holed up here, and I have the evidence!",
-char_133_mm_CN_012,Watching Battle Record,Don't I look so dashing when I'm on the case?,
-char_133_mm_CN_013,Promotion 1,"Thank you for the promotion, guv'nor! I'm so grateful you... Wait, forget that! You're not even my ACTUAL superior!",
-char_133_mm_CN_014,Promotion 2,"Elite team? Wait, wait, wait, wait, wait, I'm a Royal Detective! Why is some mercenary organization the one promoting me?!",
-char_133_mm_CN_017,Added to Squad,"No letting any suspects sneak onto the team, okay?",
-char_133_mm_CN_018,Appointed as Squad Leader,"Heheheh! Leader? Nay, call me DETECTIVE CHIEF INSPECTOR!",
-char_133_mm_CN_019,Depart,All units move out! Mooove ooout!!,
-char_133_mm_CN_020,Begin Operation,You criminals! Behave and turn yourselves in!,
-char_133_mm_CN_021,Selecting Operator 1,What's happening? An incident?,
-char_133_mm_CN_022,Selecting Operator 2,"Yes, guv, understood!",
-char_133_mm_CN_023,Deployment 1,Crime scene investigation!,
-char_133_mm_CN_024,Deployment 2,I'll need to see proof of identity!,
-char_133_mm_CN_025,In Battle 1,This is your one warning!,
-char_133_mm_CN_026,In Battle 2,"Stop right there, criminal scum!",
-char_133_mm_CN_027,In Battle 3,I'll give you a taste of my taser!,
-char_133_mm_CN_028,In Battle 4,"It won't hurt, you'll just get a little buzz!",
-char_133_mm_CN_029,4-star Result,"For a master detective, there is no case that can't be solved!",
-char_133_mm_CN_030,3-star Result,"I want all these suspects taken away! Ohh, fine, I'll do it myself...",
-char_133_mm_CN_031,Sub 3-star Result,"Hmm... I feel like we've missed some clues, haven't we?",
-char_133_mm_CN_032,Operation Failure,R-requesting backupppp…,
-char_133_mm_CN_033,Assigned to Facility,My instinct tells me there'll be a case afoot here!,
-char_133_mm_CN_034,Tap,You and your villainous hand! I'll remember this!,
-char_133_mm_CN_036,Trust Tap,D-don't think this is some express ticket to clearing your name...!,
-char_133_mm_CN_037,Title,Arknights.,
-char_133_mm_CN_038,New Year's blessing,"Doctor, Happy New Year! I solved plenty more cases last year as a Royal Detective! The only thing is, I'm still a little ways away from baring the truth of Penguin Logistics... Not that an inspector leaves any puzzle unsolved! I've got to give it my all this year too!",
-char_133_mm_CN_042,Greeting,"There you are, Doctor!",
-char_133_mm_CN_043,Birthday,"Shh, shhh—not a word, hear me out first! I'll bet you anything it's your birthday today, isn't it? You see, I didn't seek ANY verbal testimony, not when I could simply let the available clues inform my mental deductions! By the way, I also happened to deduce this is a present you'll love—doughnuts!",
-char_133_mm_CN_044,Anniversary Celebration,"Streamers stuck up, snacks laid out, balloons of every color. Yes, one truth prevails! Doctor, based on my deductions, today must be some holiday celebration! What? They sent an advance notice to every operator's terminal yesterday? It can't be!!",
+id,title,original,original_zh,translation
+char_133_mm_CN_001,Appointed as Assistant,"Doctor, I may be in your employ, but every murderer is probably somebody's old friend—so if your conduct is even slightly suspect, I won't turn a blind eye!",博士，虽然现在我是你的雇员，但你要是有一丁点可疑的行为，我可绝对不会坐视不管哦~,"Доктор, хотя я сейчас у вас на службе, если вы хоть на йоту заподозрите что-то неладное — я не позволю этого проглядеть~"
+char_133_mm_CN_002,Talk 1,This Rhodes Island has no less of a suspicious smell about it…,罗德岛也布满了可疑的气息呢……,«Родос» тоже пропитан подозрительностью...
+char_133_mm_CN_003,Talk 2,"Careful observation is fundamental to all investigatory work! Elementary, true, but it always comes in handy!",调查的基础就是仔细观察！这是基本，但永远都管用！,"Основа расследования — внимательное наблюдение! Это азбука, но она всегда работает!"
+char_133_mm_CN_004,Talk 3,"You there! Face this way, hands where I can see them! Ah, sorry, I thought you were someone else…",那边的家伙！把手举起来，面向我！啊，对不起，认错人了……,"Эй, ты там! Руки вверх и повернись ко мне! А, прошу прощения, я ошиблась..."
+char_133_mm_CN_005,Talk after Promotion 1,"I've always had my misgivings about that penguin. I mean, it spends money like water, and it's a PENGUIN! It even has a gold necklace on! Do you know how LITTLE detectives like us make in a month?",我早就觉得那只企鹅超可疑的，你看，它长成那样，却挥金如土耶！居然，它居然还戴着金项链，你知道我们探员每个月才多少工资啊！,"Я давно подозревала этого пингвина: смотрите, какой он на вид — и сорит деньгами! Мало того, он ещё и в золотой цепи ходит! Вы знаете, какая у нас, сыщиков, зарплата?!"
+char_133_mm_CN_006,Talk after Promotion 2,"Mmmgh... so frustrating! How do I get my investigation on that suspect logistics company started? Do I break in? Hrmm, not when those two guards look so dead fierce... No, no, I'm not scared... I'm just warming up the little grey cells!",唔，苦思冥想，怎么才能找机会调查下那家可疑的物流公司？直接闯进去？但那两个护卫感觉又超凶的……哎呀呀，我才没有害怕，我是打算用智取的！,"Мм, ломаю голову: как бы проникнуть в ту подозрительную логистическую компанию? Вломиться напрямую? Но те двое охранников такие страшные... Ой-ой, я совсем не боюсь, я хочу взять их хитростью!"
+char_133_mm_CN_007,Talk after Trust Increase 1,"What are you giving me anpan for? I don't eat this sort of thing while I'm mid-investigation—you must be getting funny ideas from all those TV shows! When a real detective's on the case, it's doughnuts or nothing!",为啥要给我红豆面包？我在跟踪调查中才不会吃这种东西呢，你这家伙，电视剧看太多了喂！（咀嚼咀嚼）真正的侦探，在任务中，都是吃甜甜圈的！,"Зачем ты дал мне булочку с красной фасолью? В слежке я бы не стала это есть, ты начитался телесериалов, да? (Жуёт-жуёт) Настоящий детектив во время задания ест пончики!"
+char_133_mm_CN_008,Talk after Trust Increase 2,"You told me it was only for three months. But after three months came another three months, and another. I've been almost ten months undercover, guv! ...Hey! I see you there! Stop eavesdropping on my call!",三个月后又三个月，三个月后又三个月，我卧底快十个月了！总队长！……喂！你这家伙别偷听我的电话！,"Три месяца, ещё три месяца, ещё три месяца — я уже почти десять месяцев под прикрытием! Главный инспектор!.. Эй, не подслушивай мой телефон!"
+char_133_mm_CN_009,Talk after Trust Increase 3,"Doctor, I fear that penguin has noticed I've been investigating it... I fear for my life, too...!",博士，那只企鹅好像注意到我在调查它了，我感觉，我要有生命危险啦……！,"Доктор, кажется, этот пингвин заметил, что я за ним слежу... Кажется, мне угрожает смертельная опасность...!"
+char_133_mm_CN_010,Idle,Wake up! Waaake uppp! No sleeping on the jooob!,醒醒！醒醒！不要偷懒呀——！,Проснись! Проснись! Не ленись —!
+char_133_mm_CN_011,Onboard,"I'm Royal Detective May, and I ask you cooperate with me in my investigation! Eh? I've got the wrong address? Impossible! That penguin's holed up here, and I have the evidence!",我是皇家侦探，梅，请配合我的调查！欸？你说我找错地方了？不可能！我有那个企鹅潜藏在这里的证据！,"Я королевский сыщик, Мэй! Сотрудничайте с моим расследованием! Эй? Вы сказали, я не туда попала? Не может быть! У меня есть доказательства, что пингвин скрывается именно здесь!"
+char_133_mm_CN_012,Watching Battle Record,Don't I look so dashing when I'm on the case?,调查工作中的我，很帅气吧？,"Во время расследования я выгляжу очень красиво, да?"
+char_133_mm_CN_013,Promotion 1,"Thank you for the promotion, guv'nor! I'm so grateful you... Wait, forget that! You're not even my ACTUAL superior!",感谢总探长的提拔，我……呃不对，你又不是我真正的上司！,"Благодарю главного инспектора за повышение, я... э-э, нет, ты же не мой настоящий начальник!"
+char_133_mm_CN_014,Promotion 2,"Elite team? Wait, wait, wait, wait, wait, I'm a Royal Detective! Why is some mercenary organization the one promoting me?!",精英小组？欸，我不是皇家侦探来着的吗！为什么我会被佣兵组织提拔啊！,"Элитная группа? Эй, разве я не королевский сыщик?! Почему меня повышают в наёмнической организации!"
+char_133_mm_CN_017,Added to Squad,"No letting any suspects sneak onto the team, okay?",可别让可疑分子混进队伍哦？,"Смотрите, чтобы подозрительные типы не проникли в отряд, ладно?"
+char_133_mm_CN_018,Appointed as Squad Leader,"Heheheh! Leader? Nay, call me DETECTIVE CHIEF INSPECTOR!",呼呼呼，队长？现在得叫我总探长！,"Хи-хи-хи, командир? Теперь зови меня главным инспектором!"
+char_133_mm_CN_019,Depart,All units move out! Mooove ooout!!,全队出动！全队出动啦——！！,"Вся группа, вперёд! Вся группа, вперёд —!"
+char_133_mm_CN_020,Begin Operation,You criminals! Behave and turn yourselves in!,犯罪分子们，给我束手就擒吧！,"Преступники, сдавайтесь мне!"
+char_133_mm_CN_021,Selecting Operator 1,What's happening? An incident?,怎么了？发生了什么事件吗？,Что случилось? Произошло какое-то дело?
+char_133_mm_CN_022,Selecting Operator 2,"Yes, guv, understood!",好啦好啦，我知道了！,"Ладно-ладно, я поняла!"
+char_133_mm_CN_023,Deployment 1,Crime scene investigation!,现场搜查！,Осмотр места происшествия!
+char_133_mm_CN_024,Deployment 2,I'll need to see proof of identity!,掏出你们的证件！,Предъявите ваши документы!
+char_133_mm_CN_025,In Battle 1,This is your one warning!,这是一次警告！,Это предупреждение!
+char_133_mm_CN_026,In Battle 2,"Stop right there, criminal scum!",不许动！,Не двигаться!
+char_133_mm_CN_027,In Battle 3,I'll give you a taste of my taser!,让你尝尝泰瑟枪的威力！,Попробуйте электрошокера!
+char_133_mm_CN_028,In Battle 4,"It won't hurt, you'll just get a little buzz!",不会疼的，只是让你麻痹一下！,Не больно — просто ненадолго обездвижу!
+char_133_mm_CN_029,4-star Result,"For a master detective, there is no case that can't be solved!",在我这个名侦探面前，没有什么事件是解决不了的！,"Передо мной, великим сыщиком, не бывает нераскрытых дел!"
+char_133_mm_CN_030,3-star Result,"I want all these suspects taken away! Ohh, fine, I'll do it myself...",把这些嫌疑犯统统带走！呜，好吧，我自己来……,"Увести всех этих подозреваемых! Ох, ладно, сама поведу..."
+char_133_mm_CN_031,Sub 3-star Result,"Hmm... I feel like we've missed some clues, haven't we?",唔唔……我觉得我们还漏掉了不少线索？,"Мм-м... кажется, мы ещё много улик упустили?"
+char_133_mm_CN_032,Operation Failure,R-requesting backupppp…,我、我们这里请求支援啊啊啊啊……,"Мы, мы просим подкрепления а-а-а-а!.."
+char_133_mm_CN_033,Assigned to Facility,My instinct tells me there'll be a case afoot here!,我有预感，有什么事件，将要在这里发生！,У меня есть предчувствие: здесь вот-вот что-то случится!
+char_133_mm_CN_034,Tap,You and your villainous hand! I'll remember this!,恶徒之手，不可饶恕！,Рука злодея не останется безнаказанной!
+char_133_mm_CN_036,Trust Tap,D-don't think this is some express ticket to clearing your name...!,别、别以为这样做，你就能洗脱自己的犯罪嫌疑哦……！,"Не думай, что так ты сможешь снять с себя подозрение...!"
+char_133_mm_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_133_mm_CN_038,New Year's blessing,"Doctor, Happy New Year! I solved plenty more cases last year as a Royal Detective! The only thing is, I'm still a little ways away from baring the truth of Penguin Logistics... Not that an inspector leaves any puzzle unsolved! I've got to give it my all this year too!",博士，新年快乐！身为皇家侦探，去年也解决了很多事件！只是，距离揭露企鹅物流的真相还差一步……今年也要努力才行！,"Доктор, с новым годом! Будучи королевским сыщиком, я и в прошлом году раскрыла массу дел! Только до разоблачения «Пингвин Логистикс» остался один шаг... В этом году тоже постараюсь!"
+char_133_mm_CN_042,Greeting,"There you are, Doctor!",博士，找到你了！,"Доктор, я вас нашла!"
+char_133_mm_CN_043,Birthday,"Shh, shhh—not a word, hear me out first! I'll bet you anything it's your birthday today, isn't it? You see, I didn't seek ANY verbal testimony, not when I could simply let the available clues inform my mental deductions! By the way, I also happened to deduce this is a present you'll love—doughnuts!",欸欸！——不要说不要说，先听听我的！今天一定是博士的生日对不对？我专门什么都没有问，从各种线索里推理出来的！以及，这也是我推理出的博士一定会喜欢的礼物——甜甜圈！,"Эй-эй! — Нет-нет, сначала выслушайте меня! Сегодня же день рождения Доктора, верно? Я специально ничего не спрашивала — я вывела это из множества улик! А это, по моему выводу, подарок, который Доктор обязательно полюбит, — пончики!"
+char_133_mm_CN_044,Anniversary Celebration,"Streamers stuck up, snacks laid out, balloons of every color. Yes, one truth prevails! Doctor, based on my deductions, today must be some holiday celebration! What? They sent an advance notice to every operator's terminal yesterday? It can't be!!",张贴的彩带，布置好的点心，各色的气球，博士，根据我的推理，今天一定有一场什么节日的庆祝！什么？预告通知昨天就发到每位干员的终端上了？呀呀！！,"Развешанные ленты, расставленные закуски, воздушные шары всех цветов — Доктор, по моему выводу, сегодня здесь справляют какой-то праздник! Что? Оповещение разослали каждому оперативнику ещё вчера? Ой-ой-ой!!"

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_187_ccheal_CN_001,Appointed as Assistant,"Yeah, yeah, I get it, you deserve a nice rest in your off time. But you gotta get your treatment right now.",
-char_187_ccheal_CN_002,Talk 1,"Huh? You want me to be gentle and caring? That's nurse stuff, pal. I'm a doctor, from top to toe. That means healing. Treatment. Don't waste my time with the fluff.",
-char_187_ccheal_CN_003,Talk 2,"Strange, why does Dr. Kal'tsit keeps telling me to 'be nice to patients'? She's been doing it ever since I got here.",
-char_187_ccheal_CN_004,Talk 3,"Your average doctor's biggest concern is keeping herself safe. Mine, on the other hand... it's getting my patients to stop being scared of me.",
-char_187_ccheal_CN_005,Talk after Promotion 1,"Treatment time, ears open! Eyes on me! Hands up! Don't move!",
-char_187_ccheal_CN_006,Talk after Promotion 2,"Doctors and fighters... life-savers, life-takers. People think we're polar opposites, but I think we're one and the same—we both sacrifice.",
-char_187_ccheal_CN_007,Talk after Trust Increase 1,"Huh? I didn't beat anyone up, I just wanted to say hi. Watch, lemme demo... I initiate physical contact, and that's how I get closer to people, see?",
-char_187_ccheal_CN_008,Talk after Trust Increase 2,"I'm kinda missing my homeland... I chose to be a medic myself, but it's crazy it all turned out the way it did. Life sure took me down some wild paths, huh?",
-char_187_ccheal_CN_009,Talk after Trust Increase 3,Doctor... you and I are both travelers on a lonely road. I guess that's why we understand each other so well.,
-char_187_ccheal_CN_010,Idle,"What the... you're asleep, huh? Heheh.",
-char_187_ccheal_CN_011,Onboard,I'm Medic Operator Gavial. First things first... Don’t judge me by the way I look. Got it?,
-char_187_ccheal_CN_012,Watching Battle Record,"Tch, I thought we were gonna have combat class.",
-char_187_ccheal_CN_013,Promotion 1,Everyone's so scared of me treating them... You're the only one who accepts me for what I am. Thanks for that.,
-char_187_ccheal_CN_014,Promotion 2,"All right, no more fooling around. I'll be serious from now on.",
-char_187_ccheal_CN_017,Added to Squad,Leave the rear to me. Go show what you're made of!,
-char_187_ccheal_CN_018,Appointed as Squad Leader,"All right, get in line, everyone!",
-char_187_ccheal_CN_019,Depart,"All right, ladies. Let's keep it cool.",
-char_187_ccheal_CN_020,Begin Operation,Coming!,
-char_187_ccheal_CN_021,Selecting Operator 1,Let's begin.,
-char_187_ccheal_CN_022,Selecting Operator 2,Where do you need me?,
-char_187_ccheal_CN_023,Deployment 1,Ready to heal!,
-char_187_ccheal_CN_024,Deployment 2,Who needs healing? Come over!,
-char_187_ccheal_CN_025,In Battle 1,"If you want treatment, you gotta come closer!",
-char_187_ccheal_CN_026,In Battle 2,"Don't get yourself killed, dummy!",
-char_187_ccheal_CN_027,In Battle 3,"Come on, get it together!",
-char_187_ccheal_CN_028,In Battle 4,"Hang in there, I'm coming!",
-char_187_ccheal_CN_029,4-star Result,"Meh, pushovers. I wasn't even breaking a sweat.",
-char_187_ccheal_CN_030,3-star Result,Man those guys were weak. I regret not giving 'em a few whacks with the staff here.,
-char_187_ccheal_CN_031,Sub 3-star Result,Have you guys never taken emergency response training courses?,
-char_187_ccheal_CN_032,Operation Failure,Darn it... I'm not giving up yet!,
-char_187_ccheal_CN_033,Assigned to Facility,Let's see if there are any interesting people here!,
-char_187_ccheal_CN_034,Tap,"Hey, knock it off!",
-char_187_ccheal_CN_036,Trust Tap,You want me to just nod and listen? No. Freaking. Way.,
-char_187_ccheal_CN_037,Title,Arknights.,
-char_187_ccheal_CN_038,New Year's blessing,"Finally, New Year's! The croc doc is in and she says today's a rest day! Speaking of, they really celebrate New Year's peacefully out here. I kinda miss the Acahualla-style ceremony. Kal'tsit probably wouldn't approve holding it here at Rhodes Island though...",
-char_187_ccheal_CN_042,Greeting,"Hey, Doctor.",
-char_187_ccheal_CN_043,Birthday,"Happy birthday to you, Doctor. Speaking of, I oughta give you a little present... Let's take this opportunity to give you a full, thorough physical exam!",
-char_187_ccheal_CN_044,Anniversary Celebration,"You want my thoughts on what being a Rhodes Island doctor's been like? Nothing too special. Whether punching enemies into submission or using my staff to make patients listen, there's always a sense of accomplishment. It was my choice and I made it, so there's nothing to waffle over.",
+id,title,original,original_zh,translation
+char_187_ccheal_CN_001,Appointed as Assistant,"Yeah, yeah, I get it, you deserve a nice rest in your off time. But you gotta get your treatment right now.",休息的时候就该好好放松，对吧？不过，你现在得接受治疗。,"Да-да, я поняла: в свободное время надо как следует отдыхать. Но лечиться ты будешь сейчас."
+char_187_ccheal_CN_002,Talk 1,"Huh? You want me to be gentle and caring? That's nurse stuff, pal. I'm a doctor, from top to toe. That means healing. Treatment. Don't waste my time with the fluff.",哈？温柔可爱？那不是护士吗？我可是专业的治疗者，对治疗之外的事情没有兴趣。,"А? Нежная и заботливая? Это же няня, приятель. Я — врач от макушки до пяток. А значит, лечение. Терапия. Не трать моё время на сантименты."
+char_187_ccheal_CN_003,Talk 2,"Strange, why does Dr. Kal'tsit keeps telling me to 'be nice to patients'? She's been doing it ever since I got here.",不知道为什么，来这里以后，凯尔希医生总是告诫我，要好好对待患者。,"Странно, почему доктор Кальцит всё время говорит мне: «Хорошо обращайся с пациентами»? Она повторяет это с тех пор, как я здесь."
+char_187_ccheal_CN_004,Talk 3,"Your average doctor's biggest concern is keeping herself safe. Mine, on the other hand... it's getting my patients to stop being scared of me.",一般的医生，总是在烦恼要怎么保护好自己，但我的烦恼是……怎么才能让患者不害怕我。,"Обычный врач больше всего беспокоится, как бы самой не пострадать. А моя забота... как сделать так, чтобы пациенты перестали меня бояться."
+char_187_ccheal_CN_005,Talk after Promotion 1,"Treatment time, ears open! Eyes on me! Hands up! Don't move!",接受治疗时，认真听我说话！看我这里！举起双手！不许乱动！,Время лечения! Слушай меня внимательно! Смотри сюда! Руки вверх! Не двигайся!
+char_187_ccheal_CN_006,Talk after Promotion 2,"Doctors and fighters... life-savers, life-takers. People think we're polar opposites, but I think we're one and the same—we both sacrifice.",医生和士兵，救人者和杀生者，人们都觉得这两种人做的事正好相反，不过我倒觉得这两者都一样，都是牺牲者。,"Врачи и воины — спасающие жизни и отнимающие жизни. Люди считают, что эти занятия прямо противоположны, а я вот думаю: они одинаковы. Оба — жертвы."
+char_187_ccheal_CN_007,Talk after Trust Increase 1,"Huh? I didn't beat anyone up, I just wanted to say hi. Watch, lemme demo... I initiate physical contact, and that's how I get closer to people, see?",啊？我没对别人动粗啊，就是想和他们寒暄寒暄。你看，就像这样……就是一种用肢体动作触碰对方，拉近彼此距离的行为嘛……,"А? Я никого не избивала, просто хотела поздороваться. Смотри, вот так... Я инициирую физический контакт — и так я сближаюсь с людьми, поняла?"
+char_187_ccheal_CN_008,Talk after Trust Increase 2,"I'm kinda missing my homeland... I chose to be a medic myself, but it's crazy it all turned out the way it did. Life sure took me down some wild paths, huh?",有点怀念故乡了……虽然当医生是我自己选的，但完全没想到会变成现在这样。人生的岔路，还真是让我走上了啊。,"Немного скучаю по родным краям... Хотя быть врачом я выбрала сама, и вот как всё повернулось — никогда не ожидала. Куда же меня занесла жизнь?"
+char_187_ccheal_CN_009,Talk after Trust Increase 3,Doctor... you and I are both travelers on a lonely road. I guess that's why we understand each other so well.,不管博士还是我，都是走在没人走过的路上的旅人哪。就因为这样，所以咱们才能互相理解吧。,"Доктор, вы и я — путешественники по одинокой дороге. Наверное, поэтому мы так хорошо понимаем друг друга."
+char_187_ccheal_CN_010,Idle,"What the... you're asleep, huh? Heheh.",这家伙，睡着了吗？哈哈~,"Ну вот, этот заснул? Ха-ха~"
+char_187_ccheal_CN_011,Onboard,I'm Medic Operator Gavial. First things first... Don’t judge me by the way I look. Got it?,我是医疗术师嘉维尔。先说好了，对我，可不能以貌取人，明白吗？,"Я — медицинский оператор Гавиал. И первое, что скажу: не суди по внешности. Понятно?"
+char_187_ccheal_CN_012,Watching Battle Record,"Tch, I thought we were gonna have combat class.",嘁，我还以为是要上格斗课呢。,"Тьфу, а я думала, у нас будет урок борьбы."
+char_187_ccheal_CN_013,Promotion 1,Everyone's so scared of me treating them... You're the only one who accepts me for what I am. Thanks for that.,这家伙那家伙的都害怕我给他们治疗，只有你一个人接受我，多谢啦。,"Все боятся, когда я их лечу... Только ты меня принимаешь такой, какая я есть. Спасибо."
+char_187_ccheal_CN_014,Promotion 2,"All right, no more fooling around. I'll be serious from now on.",好了玩耍到此为止，接下来我就认真一下！,"Ладно, конец шалостям. Теперь я серьёзно!"
+char_187_ccheal_CN_017,Added to Squad,Leave the rear to me. Go show what you're made of!,后方就交给我，你们只管往前冲！,Тыл за мной. Вы только вперёд!
+char_187_ccheal_CN_018,Appointed as Squad Leader,"All right, get in line, everyone!",好！一个个的都排好队！,"Ладно, все в ряд!"
+char_187_ccheal_CN_019,Depart,"All right, ladies. Let's keep it cool.",好，各位都冷静点。,"Ладно, девчонки, не кипятитесь."
+char_187_ccheal_CN_020,Begin Operation,Coming!,来了！,Иду!
+char_187_ccheal_CN_021,Selecting Operator 1,Let's begin.,开始吧。,Начнём.
+char_187_ccheal_CN_022,Selecting Operator 2,Where do you need me?,要我做什么好？,Что от меня надо?
+char_187_ccheal_CN_023,Deployment 1,Ready to heal!,准备治疗！,Готова лечить!
+char_187_ccheal_CN_024,Deployment 2,Who needs healing? Come over!,需要治疗的家伙站出来！,Кому нужно лечение — выходи!
+char_187_ccheal_CN_025,In Battle 1,"If you want treatment, you gotta come closer!",想被治疗，先到我够得着的地方来！,Хочешь лечиться — подойди поближе!
+char_187_ccheal_CN_026,In Battle 2,"Don't get yourself killed, dummy!",干什么呢你！,"Что ты делаешь, дурья голова!"
+char_187_ccheal_CN_027,In Battle 3,"Come on, get it together!",振作起来啊！,"Давай, соберись!"
+char_187_ccheal_CN_028,In Battle 4,"Hang in there, I'm coming!",现在就来救你！,"Держись, я уже бегу!"
+char_187_ccheal_CN_029,4-star Result,"Meh, pushovers. I wasn't even breaking a sweat.",就这种程度的对手，轻轻松松啊。,Мелочь. Я даже не вспотела.
+char_187_ccheal_CN_030,3-star Result,Man those guys were weak. I regret not giving 'em a few whacks with the staff here.,那些家伙也太弱了，我还想着，能拿这把杖多敲打他们几下咧。,"Слабые же эти ребята. Я думала, хоть пару раз двинуть их посохом."
+char_187_ccheal_CN_031,Sub 3-star Result,Have you guys never taken emergency response training courses?,你们，没接受过应急医疗训练嘛！,"Вы что, не проходили курс экстренной медицинской помощи?"
+char_187_ccheal_CN_032,Operation Failure,Darn it... I'm not giving up yet!,可恶……别以为我就这么放弃了。,Чёрт... Я ещё не сдалась!
+char_187_ccheal_CN_033,Assigned to Facility,Let's see if there are any interesting people here!,看看都有哪些有趣的家伙在啊？,"Посмотрю, какие тут интересные ребята."
+char_187_ccheal_CN_034,Tap,"Hey, knock it off!",喂，快住手！,"Эй, перестань!"
+char_187_ccheal_CN_036,Trust Tap,You want me to just nod and listen? No. Freaking. Way.,想让我老实听话？不 可 能！,Чтобы я послушно кивала? Ни в коем случае!
+char_187_ccheal_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_187_ccheal_CN_038,New Year's blessing,"Finally, New Year's! The croc doc is in and she says today's a rest day! Speaking of, they really celebrate New Year's peacefully out here. I kinda miss the Acahualla-style ceremony. Kal'tsit probably wouldn't approve holding it here at Rhodes Island though...",新年终于到了！今天就先好好休息！说起来，家乡以外的地方，庆祝新年的方式还真是平静。偶尔也会怀念阿卡胡拉式的跨年祭典啊。但凯尔希应该是不会同意在罗德岛举办的吧……,"Наконец-то Новый год! Сегодня отдыхаем, говорит крокодилий врач! Кстати, здесь празднуют очень тихо. Иногда скучаю по акахульскому новогоднему ритуалу... Впрочем, Кальцит вряд ли разрешила бы устроить его на Родосе."
+char_187_ccheal_CN_042,Greeting,"Hey, Doctor.",哟，博士。,"Эй, Доктор."
+char_187_ccheal_CN_043,Birthday,"Happy birthday to you, Doctor. Speaking of, I oughta give you a little present... Let's take this opportunity to give you a full, thorough physical exam!",生日快乐啊博士。说起来，我是不是也该有点表示啊……对了！要不就趁此机会，给博士做一次全套深入体检吧！,"С днём рождения, Доктор. Кстати, не знаю, стоит ли мне что-нибудь вам подарить... А! Давайте воспользуемся случаем и проведём для вас полное медицинское обследование!"
+char_187_ccheal_CN_044,Anniversary Celebration,"You want my thoughts on what being a Rhodes Island doctor's been like? Nothing too special. Whether punching enemies into submission or using my staff to make patients listen, there's always a sense of accomplishment. It was my choice and I made it, so there's nothing to waffle over.",问我在罗德岛当医生有什么感想？也没什么特别的。不管是用拳头让敌人服服帖帖，还是用法杖让病人乖乖听话，都是让人有成就感的事嘛。既然做出了选择，就没什么好踌躇不前的。,"Спросили, что я чувствую, работая врачом на Родосе? Да ничего особенного. Будь то кулаками я валяю врагов или заставляю пациентов слушаться посохом — везде есть чувство свершения. Раз я выбрала это, я выбрала — и нечего колебаться."

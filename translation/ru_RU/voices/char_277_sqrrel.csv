@@ -1,39 +1,39 @@
-id,title,original,translation
-char_277_sqrrel_CN_001,Appointed as Assistant,"Awaitingorders, readywhenyouare, Chief! ",
-char_277_sqrrel_CN_002,Talk 1,"Intheinterestsofsafety, Iaminspectingescaperoutesandfirefightingequipment. Onemomentplease. ",
-char_277_sqrrel_CN_003,Talk 2,"Pleasebeaware, itisagainstregulationtolightfiresorsmokecigarettesinthecorridors. Thankyouforyourcooperation, Operators. ",
-char_277_sqrrel_CN_004,Talk 3,"Ensuringawarenessoffiresafetyandfirefightingprotocolsisakeypartofmyduties. Allowmetobeginwithyou, Chief. ",
-char_277_sqrrel_CN_005,Talk after Promotion 1,"Iamverysmall, butthatmeansIcandoworknooneelsecan. ",
-char_277_sqrrel_CN_006,Talk after Promotion 2,"Um, Chief, I'mverynervous… Actually, I'mnotgoodatexpressingmyself… Thankyou, foryourconcern. ",
-char_277_sqrrel_CN_007,Talk after Trust Increase 1,"WhenIstartspeakingsometimesIcan'tstop. Ihopeyouforgiveme, Chief... *sob*... ",
-char_277_sqrrel_CN_008,Talk after Trust Increase 2,"Chief, canyoupleasehelpchangethislightbulb... I... can'treachit... Oh, it'sworkingnow. Thankyou. ",
-char_277_sqrrel_CN_009,Talk after Trust Increase 3,"Chief... Theythey'rebarbecuinginthedormagain. Canyoupleasestopthemforme! Aaaah! SomeoneswappedmyfireextinguisherwithIfrit'sflamethrower! Areyouokay, Chief?",
-char_277_sqrrel_CN_010,Idle,"Breaktimeendsinafewminutes. Justtoletyouknow, Chief. ",
-char_277_sqrrel_CN_011,Onboard,"Pleasuretomeetyou, Chief{@nickname}. IamShawoftheLungmenFireDepartment, reportingforduty! ",
-char_277_sqrrel_CN_012,Watching Battle Record,Exercisevideosarepartofthetraining?,
-char_277_sqrrel_CN_013,Promotion 1,"Thankyouforyourtrust, Chief! ",
-char_277_sqrrel_CN_014,Promotion 2,"Thisis... anelitemedal?Thankyou, Chief... Iwillcontinuetodomybestforeveryone, andfortheChief. ",
-char_277_sqrrel_CN_017,Added to Squad,Allready. ,
-char_277_sqrrel_CN_018,Appointed as Squad Leader,Followmyorders. ,
-char_277_sqrrel_CN_019,Depart,Deploying! ,
-char_277_sqrrel_CN_020,Begin Operation,Thefireisspreadingthisway. Getready! ,
-char_277_sqrrel_CN_021,Selecting Operator 1,Here!,
-char_277_sqrrel_CN_022,Selecting Operator 2,Understood!,
-char_277_sqrrel_CN_023,Deployment 1,Uhuh.,
-char_277_sqrrel_CN_024,Deployment 2,Hum.,
-char_277_sqrrel_CN_025,In Battle 1,Haah!,
-char_277_sqrrel_CN_026,In Battle 2,Outtatheway! Outtatheway!,
-char_277_sqrrel_CN_027,In Battle 3,Extinguishingflames!,
-char_277_sqrrel_CN_028,In Battle 4,Youhaveviolatedthefireregulation!,
-char_277_sqrrel_CN_029,4-star Result,AfireofthisscalecouldnotbeextinguishedwithoutthehelpoftheChiefandtheothers.,
-char_277_sqrrel_CN_030,3-star Result,Thefireisextinguished. Readytoreturntobase.,
-char_277_sqrrel_CN_031,Sub 3-star Result,Thefireisbasiclyundercontrol. ShouldIbeginthedamagecontrolprocess?,
-char_277_sqrrel_CN_032,Operation Failure,O-ohno! Thefireisspreadinginthisdirection!,
-char_277_sqrrel_CN_033,Assigned to Facility,Iwillstayherefromnowonthen?,
-char_277_sqrrel_CN_034,Tap,Um... ,
-char_277_sqrrel_CN_036,Trust Tap,Aablublublu! ,
-char_277_sqrrel_CN_037,Title,Arknights.,
-char_277_sqrrel_CN_038,New Year's blessing,"Happy New Year Chief, I hope you'll continue to cooperate with my work over the following year! Hold on, I think I smell fireworks I don't know if I inspected that batch or noooooOoOoOo! No lighting fires, no setting off—",
-char_277_sqrrel_CN_042,Greeting,"Needsomething, Chief?",
-char_277_sqrrel_CN_043,Birthday,"Chief, this is a... a Pinenut egg waffle that I made myself. I, I, I hope you have a happy birthday! Uwbwlhbh please stop pinching my cheeks!",
-char_277_sqrrel_CN_044,Anniversary Celebration,"Reporting in Chief, all meat roasting for tonight's dinner party that was to be done over a charcoal flame has now had induction stovetops substituted, celebrations can begin at any time! In future I'll be even surer to make every operator aware of how terrifying a fire can be!",
+id,title,original,original_zh,translation
+char_277_sqrrel_CN_001,Appointed as Assistant,"Awaitingorders, readywhenyouare, Chief! ",已经准备好为您服务了，长官！,"Жду ваших указаний, начальник — я готова!"
+char_277_sqrrel_CN_002,Talk 1,"Intheinterestsofsafety, Iaminspectingescaperoutesandfirefightingequipment. Onemomentplease. ",为了安全起见，正在为您确认逃生路线和消防设备，请稍等片刻！,"Ради безопасности я проверяю пути эвакуации и противопожарное оборудование, минуточку!"
+char_277_sqrrel_CN_003,Talk 2,"Pleasebeaware, itisagainstregulationtolightfiresorsmokecigarettesinthecorridors. Thankyouforyourcooperation, Operators. ",过道内严禁烟火，请各位干员不要在走道吸烟，谢谢配合！,"В коридорах нельзя разводить огонь и курить — пожалуйста, не курите в проходах, спасибо за понимание!"
+char_277_sqrrel_CN_004,Talk 3,"Ensuringawarenessoffiresafetyandfirefightingprotocolsisakeypartofmyduties. Allowmetobeginwithyou, Chief. ",为大家科普消防知识也是我职责的一部分就先从您开始吧长官！,"Рассказывать всем о пожарной безопасности — тоже моя обязанность. Позвольте начать с вас, начальник!"
+char_277_sqrrel_CN_005,Talk after Promotion 1,"Iamverysmall, butthatmeansIcandoworknooneelsecan. ",别看我个子小，有些任务可是只有我才能完成的。,"Я маленькая, но есть работа, которую могу сделать только я."
+char_277_sqrrel_CN_006,Talk after Promotion 2,"Um, Chief, I'mverynervous… Actually, I'mnotgoodatexpressingmyself… Thankyou, foryourconcern. ",长官，我很紧张，其实……我不擅长说话……谢谢您……的关心！,"Начальник, я очень волнуюсь... На самом деле я не очень умею разговаривать... Спасибо вам... за заботу!"
+char_277_sqrrel_CN_007,Talk after Trust Increase 1,"WhenIstartspeakingsometimesIcan'tstop. Ihopeyouforgiveme, Chief... *sob*... ",有时候，我一张嘴说话就停不下来，长官我会被讨厌吗……呜……,"Иногда я начинаю говорить и не могу остановиться... Начальник, вы не будете меня ненавидеть?.. У-у..."
+char_277_sqrrel_CN_008,Talk after Trust Increase 2,"Chief, canyoupleasehelpchangethislightbulb... I... can'treachit... Oh, it'sworkingnow. Thankyou. ",长官，帮我，换下灯泡……我，够不着……啊，亮了。,"Начальник, помогите поменять лампочку... я... не дотянусь... А, загорелось. Спасибо."
+char_277_sqrrel_CN_009,Talk after Trust Increase 3,"Chief... Theythey'rebarbecuinginthedormagain. Canyoupleasestopthemforme! Aaaah! SomeoneswappedmyfireextinguisherwithIfrit'sflamethrower! Areyouokay, Chief?",长官，她她她们又开始在房间里烧烤了，您快帮忙制止一下哎呀呀呀！谁把我的灭火器换成伊芙利特的喷火背包了啊啊啊啊！长官您没事吧！,"Начальник, они опять жарят шашлык в комнате, остановите их, пожалуйста! А-а-а! Кто поменял мой огнетушитель на огнемёт Ифрита? Вы в порядке, начальник?!"
+char_277_sqrrel_CN_010,Idle,"Breaktimeendsinafewminutes. Justtoletyouknow, Chief. ",还有几分钟休息时间就结束了，长官您稍微注意一下。,"До конца перерыва осталось несколько минут, начальник, просто оповещаю."
+char_277_sqrrel_CN_011,Onboard,"Pleasuretomeetyou, Chief{@nickname}. IamShawoftheLungmenFireDepartment, reportingforduty! ",{@nickname}长官您好，龙门消防署警员阿消向您报到！,"{@nickname}, здравствуйте, начальник! Офицер пожарной службы Лунмэна, Шоу, прибыла!"
+char_277_sqrrel_CN_012,Watching Battle Record,Exercisevideosarepartofthetraining?,演习录像也是训练的一部分吗？,Записи учений — тоже часть тренировки?
+char_277_sqrrel_CN_013,Promotion 1,"Thankyouforyourtrust, Chief! ",多谢您的提拔，长官！,"Спасибо за доверие, начальник!"
+char_277_sqrrel_CN_014,Promotion 2,"Thisis... anelitemedal?Thankyou, Chief... Iwillcontinuetodomybestforeveryone, andfortheChief. ",这是…勋章?嗯，我会……加油的，为了大家，也为了您。,"Это... медаль? Эм, я постараюсь... ради всех и ради вас, начальник."
+char_277_sqrrel_CN_017,Added to Squad,Allready. ,准备就绪。,Готова.
+char_277_sqrrel_CN_018,Appointed as Squad Leader,Followmyorders. ,听我指挥。,Слушаюсь вас.
+char_277_sqrrel_CN_019,Depart,Deploying! ,出勤！,На выезд!
+char_277_sqrrel_CN_020,Begin Operation,Thefireisspreadingthisway. Getready! ,火来了，大家快做准备！,"Огонь идёт сюда, все готовьтесь!"
+char_277_sqrrel_CN_021,Selecting Operator 1,Here!,在！,На связи!
+char_277_sqrrel_CN_022,Selecting Operator 2,Understood!,了解！,Понятно!
+char_277_sqrrel_CN_023,Deployment 1,Uhuh.,唔唔。,Угу.
+char_277_sqrrel_CN_024,Deployment 2,Hum.,哼。,Хм.
+char_277_sqrrel_CN_025,In Battle 1,Haah!,嘿呀！,Хэй-я!
+char_277_sqrrel_CN_026,In Battle 2,Outtatheway! Outtatheway!,走开走开！,"Прочь, прочь!"
+char_277_sqrrel_CN_027,In Battle 3,Extinguishingflames!,灭火器喷射！,"Огнетушитель, бей!"
+char_277_sqrrel_CN_028,In Battle 4,Youhaveviolatedthefireregulation!,根据消防守则，你这是违禁行为！,По правилам пожарной безопасности вы нарушение!
+char_277_sqrrel_CN_029,4-star Result,AfireofthisscalecouldnotbeextinguishedwithoutthehelpoftheChiefandtheothers.,这样规模的火灾，也只有靠长官和大家一起努力才能消灭的了。,"Пожар такого масштаба не потушить без вас, начальник, и без всех остальных."
+char_277_sqrrel_CN_030,3-star Result,Thefireisextinguished. Readytoreturntobase.,大火已经完全扑灭了，随时可以收队。,"Пожар полностью потушен, можно возвращаться."
+char_277_sqrrel_CN_031,Sub 3-star Result,Thefireisbasiclyundercontrol. ShouldIbeginthedamagecontrolprocess?,火情已经基本得到控制了！需要我进行善后处理吗。,Огонь в основном под контролем! Нужна моя помощь с уборкой?
+char_277_sqrrel_CN_032,Operation Failure,O-ohno! Thefireisspreadinginthisdirection!,糟，糟糕……大火烧过来了！,"Ой, ой... огонь идёт сюда!"
+char_277_sqrrel_CN_033,Assigned to Facility,Iwillstayherefromnowonthen?,以后我就住这儿了对吧。,"Я теперь здесь живу, да?"
+char_277_sqrrel_CN_034,Tap,Um... ,唔……,Эм...
+char_277_sqrrel_CN_036,Trust Tap,Aablublublu! ,脸要被捏扁了啦！,Щёчки сомкнут!
+char_277_sqrrel_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_277_sqrrel_CN_038,New Year's blessing,"Happy New Year Chief, I hope you'll continue to cooperate with my work over the following year! Hold on, I think I smell fireworks I don't know if I inspected that batch or noooooOoOoOo! No lighting fires, no setting off—",新年快乐长官，新的一年也请多多配合我的工作哦！等一下我好像闻到了烟花的味道这一批有经过我的检查吗啊啊啊不许点火不许放——,"С Новым годом, начальник, и в новом году, пожалуйста, продолжайте сотрудничать со мной! Погодите, мне кажется, я чую запах фейерверков — я проверяла ту партию или нет? Ох, нет-нет-нет, нельзя зажигать, нельзя запускать —"
+char_277_sqrrel_CN_042,Greeting,"Needsomething, Chief?",有事吗长官！,"Есть что-то, начальник!"
+char_277_sqrrel_CN_043,Birthday,"Chief, this is a... a Pinenut egg waffle that I made myself. I, I, I hope you have a happy birthday! Uwbwlhbh please stop pinching my cheeks!",长官，这是……我自己做的松子羽蛋仔……祝、祝您，生日快乐！呜啊不要再捏我的脸了啦！,"Начальник, это... я сама сделала вафельку с кедровыми орехами... Желаю... желаю вам счастливого дня рождения! Ой, не щиплите мне щёчки!"
+char_277_sqrrel_CN_044,Anniversary Celebration,"Reporting in Chief, all meat roasting for tonight's dinner party that was to be done over a charcoal flame has now had induction stovetops substituted, celebrations can begin at any time! In future I'll be even surer to make every operator aware of how terrifying a fire can be!",报告长官，宴会烤肉要使用的炭火炉已经全部替换成电磁炉，庆典随时可以开始！接下来我也一定会让每一位干员都更加了解火灾的可怕之处的！,"Докладываю, начальник: все угольные мангалы для барбекю на вечеринке заменены на электрические плиты, праздник может начинаться! И впредь я ещё лучше объясню каждому оперативнику, как страшен пожар!"

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_141_nights_CN_001,Appointed as Assistant,"Didn't notice me behind you, eh? It's only natural. I'm a cat. We're known for being silent prowlers!",
-char_141_nights_CN_002,Talk 1,"Hey, don't touch my hat... it's crazy, you know! If it feeds you too many secrets, Doctor, you'll be in trouble.",
-char_141_nights_CN_003,Talk 2,"So rare to see a pharma take in runaway kitties from a jail. Did you all want a peek at my maps? Or,  was it some advice on prison breaks?",
-char_141_nights_CN_004,Talk 3,We thieves have our own principles and standards too... perhaps. Who can say?,
-char_141_nights_CN_005,Talk after Promotion 1,"Meow, meow, meow... Meow? Never you mind, I'm just talking to myself.",
-char_141_nights_CN_006,Talk after Promotion 2,"Anytime you want. Don't you worry, I have friends everywhere. Eyes everywhere.",
-char_141_nights_CN_007,Talk after Trust Increase 1,"Curiosity can kill a cat, you know.",
-char_141_nights_CN_008,Talk after Trust Increase 2,"I'm in a good mood right now, so here's a riddle for you. 'Why is a raven like a writing desk?'",
-char_141_nights_CN_009,Talk after Trust Increase 3,"Thank you, for this 'Haze' I'm now. But... did you catch a peep of any of them, along the way? Any of, well... my secrets?",
-char_141_nights_CN_010,Idle,"Asleep like a baby... Time to get 'meown to business,' then.",
-char_141_nights_CN_011,Onboard,"Hello, I'm Haze. I like relaxing work environments, and an employer who knows better than to bother me with too many questions.",
-char_141_nights_CN_012,Watching Battle Record,Yummy.,
-char_141_nights_CN_013,Promotion 1,Promotion? What's that? Does it taste good?,
-char_141_nights_CN_014,Promotion 2,"Finally out of those old shackles... and here I am, straight into new ones. The destiny of a thief's no wonder.",
-char_141_nights_CN_017,Added to Squad,Give me a bit of freedom and I'll be happy.,
-char_141_nights_CN_018,Appointed as Squad Leader,What do we need a leader for? Can't everyone just fight on their own?,
-char_141_nights_CN_019,Depart,"Meow... It's driving me wild... this sweet, sweet smell of freedom!",
-char_141_nights_CN_020,Begin Operation,"Everyone, no need to have cold feet here.",
-char_141_nights_CN_021,Selecting Operator 1,Meow?,
-char_141_nights_CN_022,Selecting Operator 2,Here we go.,
-char_141_nights_CN_023,Deployment 1,Out and about.,
-char_141_nights_CN_024,Deployment 2,Like a shadow.,
-char_141_nights_CN_025,In Battle 1,How do nya like this?,
-char_141_nights_CN_026,In Battle 2,"Careful, kittens. Don't lose your mittens.",
-char_141_nights_CN_027,In Battle 3,"You think you've got all the trimmings, don't you?",
-char_141_nights_CN_028,In Battle 4,"Nah-ah-ah, Don't get carried away.",
-char_141_nights_CN_029,4-star Result,No one stands above a kitty in the end!,
-char_141_nights_CN_030,3-star Result,Perfect victory? Whatever. A victory's a victory afterall.,
-char_141_nights_CN_031,Sub 3-star Result,Do you know how many enemies you let go? That will be a spanner in the works.,
-char_141_nights_CN_032,Operation Failure,"I'm no stranger to running for it, but this is just too embarrassing...",
-char_141_nights_CN_033,Assigned to Facility,Kotatsu. Where's the kotatsu?,
-char_141_nights_CN_034,Tap,Meow?,
-char_141_nights_CN_036,Trust Tap,"Meow? I'm not satisfied yet. You know my rule: if I can't have it, I want it.",
-char_141_nights_CN_037,Title,Arknights.,
-char_141_nights_CN_038,New Year's blessing,"New year? A year is such a long time for a kitty. And happiness won't come knocking if one worries about more than just today. Speaking of which, today is really nice for napping. Doctor, how about we just spend this day with some lazy, cozy naps.",
-char_141_nights_CN_042,Greeting,"Doctor, nice to meet nya.",
-char_141_nights_CN_043,Birthday,"Happy birthday, Doctor. Meow? My best wishes aren't enough? Don't tell me you want some presents, you greedy kitty. Well then, what do you want? Shall I give you a riddle, or allow you to rub my ears?",
-char_141_nights_CN_044,Anniversary Celebration,"A kitty visits gardens that provide food. But if someone tries to lock the kitty up, it will surely run away. When the kitty's in a good mood, however, it can bring back some tasty stuff as thanks. Know what I mean, Doctor? Be sure to make Rhodes Island a garden that everyone likes.",
+id,title,original,original_zh,translation
+char_141_nights_CN_001,Appointed as Assistant,"Didn't notice me behind you, eh? It's only natural. I'm a cat. We're known for being silent prowlers!",没发现我在你身后？那当然啊～我可是猫，怎么会有脚步声呢？,"Не заметили меня за спиной? Конечно — я же кошка, как тут быть с шагами?"
+char_141_nights_CN_002,Talk 1,"Hey, don't touch my hat... it's crazy, you know! If it feeds you too many secrets, Doctor, you'll be in trouble.",我的帽子，你可别乱动~它已经疯掉了，要是不小心说出太多秘密给你听到，那对博士可是没好处的哦~,"Мою шляпу не трогайте~ Она сумасшедшая — если вдруг наболтает вам слишком много секретов, Доктору это не пойдёт на пользу~"
+char_141_nights_CN_003,Talk 2,"So rare to see a pharma take in runaway kitties from a jail. Did you all want a peek at my maps? Or,  was it some advice on prison breaks?",没想到罗德岛连越狱犯都敢接收？是想看看我身上的地图吗？还是想了解了解越狱的办法？,"Неужто Родос принимает даже сбежавших из тюрьмы кошек? Вам что, мои карты интересны? Или вы хотели расспросить, как побег устраивают?"
+char_141_nights_CN_004,Talk 3,We thieves have our own principles and standards too... perhaps. Who can say?,“盗亦有道”——窃贼也有自己的规则哦，说不定是这样的吧~,"«У воров тоже есть свои правила» — наверное, так~ Кто знает?"
+char_141_nights_CN_005,Talk after Promotion 1,"Meow, meow, meow... Meow? Never you mind, I'm just talking to myself.",呜喵？不用在意哦，是我的自言自语而已~,Му-мяу? Не обращайте внимания — я просто разговариваю сама с собой~
+char_141_nights_CN_006,Talk after Promotion 2,"Anytime you want. Don't you worry, I have friends everywhere. Eyes everywhere.",出发吧，别担心，凡是我朋友走过的地方，都有我的眼线。,"Выйдем когда угодно, не беспокойтесь: где ни пройдут мои друзья — там и мои глазки."
+char_141_nights_CN_007,Talk after Trust Increase 1,"Curiosity can kill a cat, you know.",好奇心可是会害死猫的哟~,"Любопытство кошку губит, знаете~"
+char_141_nights_CN_008,Talk after Trust Increase 2,"I'm in a good mood right now, so here's a riddle for you. 'Why is a raven like a writing desk?'",我现在，心情很好，来给你个谜语猜猜吧~『为什么乌鸦长得像写字台？』呢？,"У меня сейчас хорошее настроение, так что загадаю вам загадку: «Почему ворон похож на письменный стол?»"
+char_141_nights_CN_009,Talk after Trust Increase 3,"Thank you, for this 'Haze' I'm now. But... did you catch a peep of any of them, along the way? Any of, well... my secrets?",多谢你给我新的身份，但是啊……你是不是看到了？看到了啊，一些本该只属于我自己的秘密？,"Спасибо за новое имя, но... вы ведь подсмотрели? Подсмотрели кое-что, что должно было принадлежать только мне?"
+char_141_nights_CN_010,Idle,"Asleep like a baby... Time to get 'meown to business,' then.",……既然这家伙也睡了，那就差不多——该开始“干活”了喵~,"... Раз и этот уснул, пора — начинать «дело», мяу~"
+char_141_nights_CN_011,Onboard,"Hello, I'm Haze. I like relaxing work environments, and an employer who knows better than to bother me with too many questions.",你好~叫我夜烟~我喜欢轻轻松松的工作环境，和一个不会向我问这问那的雇主~,"Здравствуйте~ Меня зовут Хейз~ Я люблю непринуждённую обстановку и работодателя, который не задаёт лишних вопросов~"
+char_141_nights_CN_012,Watching Battle Record,Yummy.,好吃~,Вкусно~
+char_141_nights_CN_013,Promotion 1,Promotion? What's that? Does it taste good?,晋升？那是什么？很好吃吗？,Повышение? Что это? Оно вкусное?
+char_141_nights_CN_014,Promotion 2,"Finally out of those old shackles... and here I am, straight into new ones. The destiny of a thief's no wonder.",总算是挣脱了旧的枷锁，却很快又被装上了新的。这也许就是窃贼的宿命吧。,"Наконец-то вырвалась из старых оков — и вот уже новые надели. Видно, такая участь воришки."
+char_141_nights_CN_017,Added to Squad,Give me a bit of freedom and I'll be happy.,让我自由一点儿就行。,Лишь бы мне было побольше свободы.
+char_141_nights_CN_018,Appointed as Squad Leader,What do we need a leader for? Can't everyone just fight on their own?,干嘛还要有队长，自由作战不好嘛？,Зачем нужен капитан? Разве нельзя драться каждому самому?
+char_141_nights_CN_019,Depart,"Meow... It's driving me wild... this sweet, sweet smell of freedom!",呜喵……这是令我狂喜的，自由的味道！,Му-мяу... Это же сводящий с ума аромат свободы!
+char_141_nights_CN_020,Begin Operation,"Everyone, no need to have cold feet here.",大家可以自由作战哦~,Все могут драться свободно~
+char_141_nights_CN_021,Selecting Operator 1,Meow?,喵呼？,Мяу?
+char_141_nights_CN_022,Selecting Operator 2,Here we go.,要上了哟——,Начинаем~
+char_141_nights_CN_023,Deployment 1,Out and about.,来了来了~,Иду-иду~
+char_141_nights_CN_024,Deployment 2,Like a shadow.,像影子一样~,Как тень~
+char_141_nights_CN_025,In Battle 1,How do nya like this?,这个怎么样？,"Ну как, нравится?"
+char_141_nights_CN_026,In Battle 2,"Careful, kittens. Don't lose your mittens.",太大意可不行哦~,Не будьте слишком беспечны~
+char_141_nights_CN_027,In Battle 3,"You think you've got all the trimmings, don't you?",你觉得自己很强对吧？,"Думаете, вы сильны, да?"
+char_141_nights_CN_028,In Battle 4,"Nah-ah-ah, Don't get carried away.",别太自信哦~,Не слишком ли вы уверены в себе~
+char_141_nights_CN_029,4-star Result,No one stands above a kitty in the end!,永远不允许有什么在猫头上称王称霸~,Никому не быть выше кошки!
+char_141_nights_CN_030,3-star Result,Perfect victory? Whatever. A victory's a victory afterall.,完美胜利？无所谓啦~能赢就好。,Идеальная победа? Да всё равно~ Лишь бы победить.
+char_141_nights_CN_031,Sub 3-star Result,Do you know how many enemies you let go? That will be a spanner in the works.,你知道你放走了多少敌人嘛？这样可不行啊~,"Знаете, сколько врагов вы отпустили? Так не годится~"
+char_141_nights_CN_032,Operation Failure,"I'm no stranger to running for it, but this is just too embarrassing...",虽然已经很习惯逃跑了，但这次真是太狼狈了……,"Я привыкла убегать, но на этот раз было слишком позорно..."
+char_141_nights_CN_033,Assigned to Facility,Kotatsu. Where's the kotatsu?,被炉~被炉在哪儿？,Котацу~ Где котацу?
+char_141_nights_CN_034,Tap,Meow?,喵？,Мяу?
+char_141_nights_CN_036,Trust Tap,"Meow? I'm not satisfied yet. You know my rule: if I can't have it, I want it.",喵？这些还不够哦。凡是我得不到的东西，我都想要~,"Мяу? Этого мало. Всё, чего я не могу получить, я хочу~"
+char_141_nights_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_141_nights_CN_038,New Year's blessing,"New year? A year is such a long time for a kitty. And happiness won't come knocking if one worries about more than just today. Speaking of which, today is really nice for napping. Doctor, how about we just spend this day with some lazy, cozy naps.",新年？对猫猫来说，“年”这个时间未免也太漫长了。心里装着一天之外的事怎么能开心呢？不过今天的确是个适合打盹的日子。博士，不如一起懒洋洋地度过这一天吧。,"Новый год? Для кошки «год» — слишком долгое время. Как можно быть счастливой, думая о чём-то большем, чем один день? Впрочем, сегодня и правда хороший день, чтобы поспать. Доктор, давайте просто проведём этот день в лени и дремоте."
+char_141_nights_CN_042,Greeting,"Doctor, nice to meet nya.",博士，你在啊喵~,"Доктор, вы здесь, мяу~"
+char_141_nights_CN_043,Birthday,"Happy birthday, Doctor. Meow? My best wishes aren't enough? Don't tell me you want some presents, you greedy kitty. Well then, what do you want? Shall I give you a riddle, or allow you to rub my ears?",生日快乐哦~呜喵？生日祝福还不够，还想要从猫猫这里得到什么礼物吗？真是贪心呢。那么，想要什么？给你猜个谜语，还是允许你摸摸耳朵呢？,"С днём рождения~ Му-мяу? Мало поздравлений? Ещё и подарок от кошки хочешь? Жадный же ты. Ладно, чего хочешь? Загадку загадать или разрешить тебе потеребить уши?"
+char_141_nights_CN_044,Anniversary Celebration,"A kitty visits gardens that provide food. But if someone tries to lock the kitty up, it will surely run away. When the kitty's in a good mood, however, it can bring back some tasty stuff as thanks. Know what I mean, Doctor? Be sure to make Rhodes Island a garden that everyone likes.",猫猫会光顾有食物的花园，但如果想要用绳索留下猫猫，它就一定会逃走。当然，猫猫心情好的时候，也是会带回一些东西来报答的。明白了吗？博士，一定要让罗德岛成为大家都喜欢的花园哦。,"Кошка заглядывает в сады, где есть еда. Но если её пытаются привязать верёвкой — она обязательно убежит. Конечно, когда кошка в настроении, она приносит что-нибудь в благодарность. Поняли? Доктор, сделайте Родос садом, который все любят."

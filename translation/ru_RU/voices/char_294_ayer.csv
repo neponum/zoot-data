@@ -1,39 +1,39 @@
-id,title,original,translation
-char_294_ayer_CN_001,Appointed as Assistant,"Before you leave, I'm responsible for protecting you.",
-char_294_ayer_CN_002,Talk 1,"Doctor, I'd like to quickly increase the charge my body can carry. An operator who uses electricity? I'll give it a crack.",
-char_294_ayer_CN_003,Talk 2,"Ore identification? Try Leonhardt. Not my wheelhouse, I'm afraid.",
-char_294_ayer_CN_004,Talk 3,"The boss at Rhine Lab frowned every time she saw me, like I was a pest. What a bother. When did I do anything to her?",
-char_294_ayer_CN_005,Talk after Promotion 1,"My ears perked up? No worries. Just a zap. Not too bad, honestly. It'll settle down soon enough.",
-char_294_ayer_CN_006,Talk after Promotion 2,"This beauty cost me two years of scraping by and a load of debt, but worth every coin. Without it, those Cautus black market profiteers would've dumped me on some mining ship. Living the good life now is all thanks to my sparky friend here.",
-char_294_ayer_CN_007,Talk after Trust Increase 1,"Oh, there you are. Got these fresh, ice-cold salted edamame, fancy a nibble? Not even a bite? You've gotta appreciate food like this. Just give it a go.",
-char_294_ayer_CN_008,Talk after Trust Increase 2,"Leonhardt's a noisy drama magnet. Much calmer here with you. What? He's gotten himself cornered by Medical over some dodgy jokes? That guy never learns. Guess I gotta defuse this mess. Doctor, want to come along?",
-char_294_ayer_CN_009,Talk after Trust Increase 3,"I look out for Leon because we've been like that since we were kids. If he's in a bind, I sort it out, and he does the same for me. But the two of us, we don't know each other like that. Just because you bandage my wounds doesn't mean we're close, got it? ...I said the same thing last time? Tsk, damn it.",
-char_294_ayer_CN_010,Idle,"Huh?! Oh, it's you. I'm good, just… catching my breath for a bit. If you wanna join me, I can shift over.",
-char_294_ayer_CN_011,Onboard,"Catastrophe Messenger bodyguard, Ayerscarpe. Good to meet you.",
-char_294_ayer_CN_012,Watching Battle Record,Impressive. Professional. I'll take note.,
-char_294_ayer_CN_013,Promotion 1,I think I've been overpaid recently. A promotion? Got it. Thanks.,
-char_294_ayer_CN_014,Promotion 2,Being a bodyguard isn't a matter of defense. It's about control. Controlling the space around your target and neutralizing threats. Want me to demonstrate?,
-char_294_ayer_CN_017,Added to Squad,"Squad assembled, awaiting deployment.",
-char_294_ayer_CN_018,Appointed as Squad Leader,Begin the operation at your own pace.,
-char_294_ayer_CN_019,Depart,No anomalies detected. Squad good to go.,
-char_294_ayer_CN_020,Begin Operation,Target located. Move out.,
-char_294_ayer_CN_021,Selecting Operator 1,Righto.,
-char_294_ayer_CN_022,Selecting Operator 2,Awaiting your command.,
-char_294_ayer_CN_023,Deployment 1,"Device, activate.",
-char_294_ayer_CN_024,Deployment 2,Let's get to work.,
-char_294_ayer_CN_025,In Battle 1,It's over.,
-char_294_ayer_CN_026,In Battle 2,Your life is mine!,
-char_294_ayer_CN_027,In Battle 3,The best defense is a good offense.,
-char_294_ayer_CN_028,In Battle 4,This isn't win or lose. This is life and death.,
-char_294_ayer_CN_029,4-star Result,You handled that impressively. Hmph. Congratulations.,
-char_294_ayer_CN_030,3-star Result,Perfect timing. We should get going.,
-char_294_ayer_CN_031,Sub 3-star Result,I'm willing to believe those escapees were on purpose.,
-char_294_ayer_CN_032,Operation Failure,Don't worry about me. Just make sure you get back okay.,
-char_294_ayer_CN_033,Assigned to Facility,I'll leave the arrangements to you. I have no demands.,
-char_294_ayer_CN_034,Tap,Don't touch my ears.,
-char_294_ayer_CN_036,Trust Tap,Is something bothering you? You can tell me.,
-char_294_ayer_CN_037,Title,Arknights.,
-char_294_ayer_CN_038,New Year's blessing,"I can think of a flashy Cautus who'll go out today to sing and dance, then pass out somewhere. Yeah… about time he crashed out. I'll go pick him up and then head off to sleep. See you around, Doctor. Happy New Year.",
-char_294_ayer_CN_042,Greeting,Is there something you need?,
-char_294_ayer_CN_043,Birthday,"Here, salted edamame. What are you staring at? You think I shelled them just for you? I eat pre-shelled ones sometimes too, it's a different texture… Why am I still eating whole pods? Just force of habit. Eat yours. Happy birthday.",
-char_294_ayer_CN_044,Anniversary Celebration,"I've saved up quite a bit of money this year. Since coming to Rhodes Island, Leon and I have more stable incomes. He hasn't mentioned it, but it's been a while since I got him anything. No point letting the money sit there. What should I buy? Doctor, do you have any suggestions?",
+id,title,original,original_zh,translation
+char_294_ayer_CN_001,Appointed as Assistant,"Before you leave, I'm responsible for protecting you.",在你离开之前，我负责你的护卫工作。,"Пока вы не ушли, я отвечаю за вашу безопасность."
+char_294_ayer_CN_002,Talk 1,"Doctor, I'd like to quickly increase the charge my body can carry. An operator who uses electricity? I'll give it a crack.",博士，有没有那种快速增加身体携带电荷的方法。找会用电的干员？有道理，我去试试。,"Доктор, подскажите, как быстро увеличить заряд, который может нести тело. Найти оперативника, который умеет управлять электричеством? Дельно, попробую."
+char_294_ayer_CN_003,Talk 2,"Ore identification? Try Leonhardt. Not my wheelhouse, I'm afraid.",矿石鉴别找莱恩哈特去，我不擅长这个。,Определять руду? Идите к Леонхардту. Я в этом не силён.
+char_294_ayer_CN_004,Talk 3,"The boss at Rhine Lab frowned every time she saw me, like I was a pest. What a bother. When did I do anything to her?",莱茵的大人物见我就拧着眉头，好像遇到什么害兽一样。我什么时候惹到她的，真是麻烦。,"Шишка из Рейн Лаб хмурится при виде меня, будто я какой-то вредитель. Когда я ей перешел дорогу? Неприятность."
+char_294_ayer_CN_005,Talk after Promotion 1,"My ears perked up? No worries. Just a zap. Not too bad, honestly. It'll settle down soon enough.",耳朵竖起来了？没关系，嘶，只是被电得……有点舒服。一会，嘶，一会就会垂下去了。,"Уши встали? Ничего, просто током... э-э... даже приятно. Чуть позже, э-э, они сами опустятся."
+char_294_ayer_CN_006,Talk after Promotion 2,"This beauty cost me two years of scraping by and a load of debt, but worth every coin. Without it, those Cautus black market profiteers would've dumped me on some mining ship. Living the good life now is all thanks to my sparky friend here.",买这宝贝花了我两年的积蓄外加一笔借款。要不是它物超所值，黑市的卡特斯奸商早就把我丢矿船里运走了。能有今天的舒坦日子，全靠这会漏电的好家伙。,"Эта красота стоила мне двух лет экономии и кучи долгов — но того стоила. Без неё чёрные спекулянты Каутуса давно бы сплавили меня на рудник. Тем, что я сейчас живу припеваючи, я обязан этому разряжающемуся другу."
+char_294_ayer_CN_007,Talk after Trust Increase 1,"Oh, there you are. Got these fresh, ice-cold salted edamame, fancy a nibble? Not even a bite? You've gotta appreciate food like this. Just give it a go.",哦，你在啊，新鲜冰镇盐渍毛豆，来一根？不用？你要学会理解这种食物，拿着，吃。,"О, вы здесь. Свежие охлаждённые солёные бобы эдамаме, возьмёте? Ни одного? Надо уметь ценить такую еду. Давайте, ешьте."
+char_294_ayer_CN_008,Talk after Trust Increase 2,"Leonhardt's a noisy drama magnet. Much calmer here with you. What? He's gotten himself cornered by Medical over some dodgy jokes? That guy never learns. Guess I gotta defuse this mess. Doctor, want to come along?",莱恩哈特太吵了，事又多，还是你这里消停。什么？他和医疗部的人开玩笑被围住了？掌握不好分寸会要人命，他就是学不会，啧。我去圆个场，博士你方便一起来吗？,"У Леонхардта шумно и вечно какие-то события, а у вас спокойнее. Что? Его окружили в медотделе из-за скабрёзных шуток? Этот человек никогда не поймёт, где мера. Ладно, пойду уладжу. Доктор, пойдёте со мной?"
+char_294_ayer_CN_009,Talk after Trust Increase 3,"I look out for Leon because we've been like that since we were kids. If he's in a bind, I sort it out, and he does the same for me. But the two of us, we don't know each other like that. Just because you bandage my wounds doesn't mean we're close, got it? ...I said the same thing last time? Tsk, damn it.",我保护莱特，只是因为我们从小就是这样过来的。他出事，我摆平，反之也一样，但我和你可没那么长久稳定的关系，别以为帮我贴创可贴就能套近乎，明白了吗。上次我也是这么说的？啧，完了。,"Я присматриваю за Леоном, потому что мы с детства привыкли друг к другу. У него неприятности — я их разруливаю, и наоборот. Но с вами у нас нет такой долгой и прочной связи. Не думайте, что после пары пластырей мы уже близки. Поняли?.. Я и в прошлый раз это говорил? Тьфу, чёрт."
+char_294_ayer_CN_010,Idle,"Huh?! Oh, it's you. I'm good, just… catching my breath for a bit. If you wanna join me, I can shift over.",嗯？！嗯……是你啊。没什么，我就躺会回回力气。你要想在这休息，我把位置让给你。,"А?!.. А, это вы. Ничего, просто прилёг на минуту, сил наберусь. Хотите здесь отдохнуть — уступлю место."
+char_294_ayer_CN_011,Onboard,"Catastrophe Messenger bodyguard, Ayerscarpe. Good to meet you.",天灾信使护卫，断崖。 合作愉快。,"Телохранитель вестника Катастроф, Айерскарп. Рад сотрудничеству."
+char_294_ayer_CN_012,Watching Battle Record,Impressive. Professional. I'll take note.,很专业，值得学习。,Профессионально. Есть чему поучиться.
+char_294_ayer_CN_013,Promotion 1,I think I've been overpaid recently. A promotion? Got it. Thanks.,最近的薪水是不是给多了？升职？啊，好的，谢谢。,"Кажется, мне в последнее время переплачивают. Повышение? А, ладно, спасибо."
+char_294_ayer_CN_014,Promotion 2,Being a bodyguard isn't a matter of defense. It's about control. Controlling the space around your target and neutralizing threats. Want me to demonstrate?,护卫不是防御，是掌控。掌控保护者周边的空间，扫除一切威胁。我证明给你看，如何？,"Охрана — это не защита, это контроль. Контроль над пространством вокруг того, кого охраняешь, и устранение угроз. Хотите, покажу?"
+char_294_ayer_CN_017,Added to Squad,"Squad assembled, awaiting deployment.",入队，等待部署任务。,"В строю, жду задания."
+char_294_ayer_CN_018,Appointed as Squad Leader,Begin the operation at your own pace.,按照自己的节奏行动起来。,Действуйте в своём темпе.
+char_294_ayer_CN_019,Depart,No anomalies detected. Squad good to go.,周围没有异动，小队可以出发。,"Аномалий нет, отряд может выходить."
+char_294_ayer_CN_020,Begin Operation,Target located. Move out.,发现目标，上了！,Цель найдена. Вперёд!
+char_294_ayer_CN_021,Selecting Operator 1,Righto.,啊。,Есть.
+char_294_ayer_CN_022,Selecting Operator 2,Awaiting your command.,等你命令。,Жду приказа.
+char_294_ayer_CN_023,Deployment 1,"Device, activate.",装置，启动。,"Устройство, включайся."
+char_294_ayer_CN_024,Deployment 2,Let's get to work.,干活了。,Начинаем работу.
+char_294_ayer_CN_025,In Battle 1,It's over.,晚了！,Поздно!
+char_294_ayer_CN_026,In Battle 2,Your life is mine!,拿你性命！,Забираю твою жизнь!
+char_294_ayer_CN_027,In Battle 3,The best defense is a good offense.,进攻就是最好的护卫。,Атака — лучшая охрана.
+char_294_ayer_CN_028,In Battle 4,This isn't win or lose. This is life and death.,只有生死，无关胜负。,"Тут не победа, а жизнь и смерть."
+char_294_ayer_CN_029,4-star Result,You handled that impressively. Hmph. Congratulations.,一切都掌握得不错，哼，恭喜。,"Всё держали под контролем. Хм, поздравляю."
+char_294_ayer_CN_030,3-star Result,Perfect timing. We should get going.,时间正好，该走了。,"Время как раз, пора идти."
+char_294_ayer_CN_031,Sub 3-star Result,I'm willing to believe those escapees were on purpose.,脱离的人在你计划之内，我可以这么认为吧。,"Могу считать, что те, кто ушли, были в вашем плане?"
+char_294_ayer_CN_032,Operation Failure,Don't worry about me. Just make sure you get back okay.,我身上的伤没什么好在意的，只要你安全回去就好。,"Мои раны не важны, лишь бы вы благополучно вернулись."
+char_294_ayer_CN_033,Assigned to Facility,I'll leave the arrangements to you. I have no demands.,你安排吧，我没什么要求。,"Устраивайте, как хотите, у меня нет требований."
+char_294_ayer_CN_034,Tap,Don't touch my ears.,别碰耳朵。,Не трогайте мои уши.
+char_294_ayer_CN_036,Trust Tap,Is something bothering you? You can tell me.,你看上去很困扰。说吧，有什么事。,Вы чем-то расстроены? Можете мне сказать.
+char_294_ayer_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_294_ayer_CN_038,New Year's blessing,"I can think of a flashy Cautus who'll go out today to sing and dance, then pass out somewhere. Yeah… about time he crashed out. I'll go pick him up and then head off to sleep. See you around, Doctor. Happy New Year.",一般来说，今天某个张扬的卡特斯会出去又唱又跳，然后倒在哪里不省人事。嗯……时间差不多，他应该倒下了。我去把他捡回来，然后回房间睡觉。再会，博士，新年快乐。,"Могу представить: сегодня один заметный Каутус выйдет попеть и потанцевать, а потом свалится где-нибудь. Мм, пора — наверное, он уже свалился. Схожу подниму его, а потом улягусь спать. До встречи, Доктор, с новым годом."
+char_294_ayer_CN_042,Greeting,Is there something you need?,有事？,По делу?
+char_294_ayer_CN_043,Birthday,"Here, salted edamame. What are you staring at? You think I shelled them just for you? I eat pre-shelled ones sometimes too, it's a different texture… Why am I still eating whole pods? Just force of habit. Eat yours. Happy birthday.",喏，盐水毛豆，看什么？以为是专门给你剥的？想什么呢，我偶尔也会吃剥好的，两种口感而已……我为什么还在吃整根的？顺手罢了。吃你的就行了，生日快乐。,"На, солёные бобы. Что смотришь? Думаешь, я их специально для тебя чистил? Да я иногда и сам ем очищенные — просто другая текстура... Почему я всё ещё ем целые стручки? Привычка. Ешь своё, с днём рождения."
+char_294_ayer_CN_044,Anniversary Celebration,"I've saved up quite a bit of money this year. Since coming to Rhodes Island, Leon and I have more stable incomes. He hasn't mentioned it, but it's been a while since I got him anything. No point letting the money sit there. What should I buy? Doctor, do you have any suggestions?",今年也存下了不少钱，来罗德岛之后我和莱特的收入都稳定了不少。虽然他没说，但我已经有一阵没给他买过东西了。嗯……继续存着也没什么用处，买点什么呢？博士，有什么好的建议吗？,"В этом году я опять неплохо сэкономил. С тех пор как мы на Родосе, у меня с Леоном более-менее стабильный доход. Он не говорит, но я давно не покупал ему ничего. Просто деньги зря лежать будут. Что купить? Доктор, есть идеи?"

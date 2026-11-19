@@ -1,39 +1,39 @@
-id,title,original,translation
-char_117_myrrh_CN_001,Appointed as Assistant,"Pardon, but that report you submitted to Dr. Kal'tsit... we could barely read the last few lines as they are nearly indecipherable... Please don't stay up late so much...",
-char_117_myrrh_CN_002,Talk 1,"So many things in here I've never seen before... Oh, sorry, I shouldn't be looking around... sorry...",
-char_117_myrrh_CN_003,Talk 2,"I know herbs are rather bitter, but people could pay more attention to how effective they are…",
-char_117_myrrh_CN_004,Talk 3,"Um, Doctor... is Harmonia still not getting any better? ... I see... I'll attend to her as soon as I finish work.",
-char_117_myrrh_CN_005,Talk after Promotion 1,"I know my herbs aren't popular because they're bitter... Aww...but I don't know how to make them taste better... Oh, you mean I should ask around for tips? Bu-bu-but... I'm not that good at small talk... I guess I'll try my best…",
-char_117_myrrh_CN_006,Talk after Promotion 2,"Harmonia and I would explore all sorts of places together when we were kids. Yeah, we grew up in the city ruins, and were really hoping to see the world outside back then...",
-char_117_myrrh_CN_007,Talk after Trust Increase 1,"Harmonia is both my oldest and best friend... But I'm the one to blame for her Oripathy infection, and what she is right now... I will find the cure and make up for the life Oripathy has taken away from her. I promise.",
-char_117_myrrh_CN_008,Talk after Trust Increase 2,Ms. Perfumer suggested that I add some spices into my herbs and now they taste much better! I'm so glad I managed to summon the courage to ask everybody for their advices...,
-char_117_myrrh_CN_009,Talk after Trust Increase 3,"Harmonia says I'm in higher spirits these days. Do you agree as well, Doctor? It's all thanks to your timely advice. I wouldn't know what to do without you…",
-char_117_myrrh_CN_010,Idle,"Doctor... oh, are you asleep? Yay! Now I can look around the office to my heart's content.",
-char_117_myrrh_CN_011,Onboard,"Hello, I'm Myrrh, an herbalist. Dr. Kal'tsit gave me this title... she said myrrh symbolizes the ephemerality of life and wanted me to keep this in mind.",
-char_117_myrrh_CN_012,Watching Battle Record,Thank you so much! This way I'll be able to concoct even better medicine.,
-char_117_myrrh_CN_013,Promotion 1,"This is called a... promotion? Is that it...? Um, I don't really know much about stuff like that…",
-char_117_myrrh_CN_014,Promotion 2,"This reminds me of childhood with Harmonia, when we explored secret places and abandoned buildings. The more dangerous the place was, the rarer the ingredients we could find.",
-char_117_myrrh_CN_017,Added to Squad,Uh... I'll try my best not to drag everyone down...,
-char_117_myrrh_CN_018,Appointed as Squad Leader,I'll start by doing my best to make eye contact...,
-char_117_myrrh_CN_019,Depart,"Ah, Doctor, I'm ready to go.",
-char_117_myrrh_CN_020,Begin Operation,I'll do my best to make sure no one gets hurt...!,
-char_117_myrrh_CN_021,Selecting Operator 1,I'm with you.,
-char_117_myrrh_CN_022,Selecting Operator 2,I'm coming.,
-char_117_myrrh_CN_023,Deployment 1,I need to be careful.,
-char_117_myrrh_CN_024,Deployment 2,Does anyone need healing?,
-char_117_myrrh_CN_025,In Battle 1,Gotta aim more carefully.,
-char_117_myrrh_CN_026,In Battle 2,Here's the medicine!,
-char_117_myrrh_CN_027,In Battle 3,"Medicine here. Please, take it!",
-char_117_myrrh_CN_028,In Battle 4,"It's okay, it's curable!",
-char_117_myrrh_CN_029,4-star Result,"We won? Really? Even against those really tough opponents? Wow... you're so cool, Doctor!",
-char_117_myrrh_CN_030,3-star Result,"How's the medicine this time, everyone? ...Um, I guess I'll ask when we get back...",
-char_117_myrrh_CN_031,Sub 3-star Result,So much to do in so little time... Thank goodness I didn't mess up too badly…,
-char_117_myrrh_CN_032,Operation Failure,My vials... All shattered...,
-char_117_myrrh_CN_033,Assigned to Facility,Uh... I can still smell herbs on my clothes...,
-char_117_myrrh_CN_034,Tap,Wahh!,
-char_117_myrrh_CN_036,Trust Tap,"Excuse me, Doctor. I made you some herb soup good for soothing the body and calming the mind. It's just... a bit bitter…",
-char_117_myrrh_CN_037,Title,Arknights.,
-char_117_myrrh_CN_038,New Year's blessing,"Happy New Year, Doctor. I'm getting the seeds ready to plant my herbs once spring comes. I hope they'll grow strong and healthy, and that... that I won't even need them this year.",
-char_117_myrrh_CN_042,Greeting,"Oh! Good morning, Doctor",
-char_117_myrrh_CN_043,Birthday,"Happy birthday, Doctor. I've prepared you some pills, based on your health records. They'll help you relax and sleep better. And don't worry, I've coated each one in cake-flavored frosting. If you like them, I can make more for you whenever you want!",
-char_117_myrrh_CN_044,Anniversary Celebration,"I came to Rhodes Island to treat my closest friend. But when I got here, I found even more people who needed my aid. I'm so glad my herbal medicine can be useful... I hope that, one day, my herbs will be the most bitter thing anyone in this land has to deal with.",
+id,title,original,original_zh,translation
+char_117_myrrh_CN_001,Appointed as Assistant,"Pardon, but that report you submitted to Dr. Kal'tsit... we could barely read the last few lines as they are nearly indecipherable... Please don't stay up late so much...",那个，您提交给凯尔希医生的报告书，最后几处笔迹已经乱七八糟了……请别再熬夜了……,"Простите, но в том отчёте, что вы подали Кальцит, последние строки почти не разобрать... Пожалуйста, не сидите допоздна..."
+char_117_myrrh_CN_002,Talk 1,"So many things in here I've never seen before... Oh, sorry, I shouldn't be looking around... sorry...",这里到处都是没见过的东西呢……！啊，东张西望好像不太好，对不起……,"Здесь столько незнакомых вещей... Ой, простите, я не должна глазеть... простите..."
+char_117_myrrh_CN_003,Talk 2,"I know herbs are rather bitter, but people could pay more attention to how effective they are…",虽然草药确实很苦，但还是希望大家更关注它的药效……,"Я знаю, травы горькие, но люди могли бы обращать больше внимания на их целебную силу..."
+char_117_myrrh_CN_004,Talk 3,"Um, Doctor... is Harmonia still not getting any better? ... I see... I'll attend to her as soon as I finish work.",那个，博士，哈默妮的病情，还没有好转吗……嗯，我知道了，我工作回来就去照顾她。,"Эм, Доктор... Гармония всё ещё не поправляется?.. Эм, я поняла — я займусь ею сразу после работы."
+char_117_myrrh_CN_005,Talk after Promotion 1,"I know my herbs aren't popular because they're bitter... Aww...but I don't know how to make them taste better... Oh, you mean I should ask around for tips? Bu-bu-but... I'm not that good at small talk... I guess I'll try my best…",我的草药很苦，不受欢迎……呜呜……但我只会调配苦味的药……您说多听取下大家的意见比较好？我、我能行吗？我不太擅长说话……但我会努力试试的。,"Мои травы горчат и никому не нравятся... Увы... но я не умею делать их вкуснее... Вы говорите, стоит спросить совета у других? Я... я справлюсь? Я не очень умею разговаривать... Но попробую..."
+char_117_myrrh_CN_006,Talk after Promotion 2,"Harmonia and I would explore all sorts of places together when we were kids. Yeah, we grew up in the city ruins, and were really hoping to see the world outside back then...",小时候，我和哈默妮常常跑去各种地方探险。嗯，是的，我们是在城区的废墟中长大的，那时候的我们，非常想看一看外面的世界……,"В детстве мы с Гармонией бегали исследовать разные места. Да, мы выросли в руинах города и очень хотели увидеть мир снаружи..."
+char_117_myrrh_CN_007,Talk after Trust Increase 1,"Harmonia is both my oldest and best friend... But I'm the one to blame for her Oripathy infection, and what she is right now... I will find the cure and make up for the life Oripathy has taken away from her. I promise.",哈默妮是我的第一个，也是最好的朋友……可是，她也是因为我，变成了现在的样子……她因为矿石病而缩短的生命，我一定要为她夺回来。,"Гармония — моя первая и лучшая подруга... Но именно из-за меня она стала такой... Её жизнь, сокращённую Орипатией, я обязательно верну. Обещаю."
+char_117_myrrh_CN_008,Talk after Trust Increase 2,Ms. Perfumer suggested that I add some spices into my herbs and now they taste much better! I'm so glad I managed to summon the courage to ask everybody for their advices...,听了调香师小姐的建议，我在草药中混合了香料，果然赢得了大家的喜爱！拿出勇气来听取大家的意见，真是太好了……,"По совету мисс Парфюмер я добавила в травы пряности — и они правда понравились всем! Как же я рада, что набралась храбрости спросить у всех совета..."
+char_117_myrrh_CN_009,Talk after Trust Increase 3,"Harmonia says I'm in higher spirits these days. Do you agree as well, Doctor? It's all thanks to your timely advice. I wouldn't know what to do without you…",哈默妮说，最近的我，变得比以前更有精神了，您也这样觉得吗？一定是因为有博士及时指点我，如果没有您，我该怎么办呢……,"Гармония говорит, что в последнее время я стала бодрее. И вам так кажется, Доктор? Всё благодаря вашим советам. Без вас я бы не знала, что делать..."
+char_117_myrrh_CN_010,Idle,"Doctor... oh, are you asleep? Yay! Now I can look around the office to my heart's content.",博士……是不是睡着了？这下可以仔细观察博士的办公室了呢……,"Доктор... вы, кажется, уснули? Тогда можно я рассмотрю ваш кабинет..."
+char_117_myrrh_CN_011,Onboard,"Hello, I'm Myrrh, an herbalist. Dr. Kal'tsit gave me this title... she said myrrh symbolizes the ephemerality of life and wanted me to keep this in mind.",那个，我是草药师末药……这个代号是凯尔希医生为我指定的，据说，它指的是“生命的短暂”，医生说，她希望我要牢记这个寓意……,"Здравствуйте, я — Мирра, травница. Этот позывной дала мне Кальцит... Она сказала, что мирра символизирует бренность жизни, и хотела, чтобы я помнила об этом."
+char_117_myrrh_CN_012,Watching Battle Record,Thank you so much! This way I'll be able to concoct even better medicine.,非常感谢……！这样就能做出更好的药了……！,Большое спасибо! Теперь я смогу готовить ещё лучшие лекарства!
+char_117_myrrh_CN_013,Promotion 1,"This is called a... promotion? Is that it...? Um, I don't really know much about stuff like that…",这就叫做……晋升？是这样的吗……？职位什么的，我还不是很懂……,"Это называется... повышение? Так? Эм, я не очень понимаю такое..."
+char_117_myrrh_CN_014,Promotion 2,"This reminds me of childhood with Harmonia, when we explored secret places and abandoned buildings. The more dangerous the place was, the rarer the ingredients we could find.",以前常常和哈默妮一起四处探索……这样的秘境和废墟。越是危险的地方，就越能收集罕见的药材。,"Это напомнило мне детство с Гармонией, когда мы искали тайные места и заброшенные здания. Чем опаснее было место, тем реже попадались травы."
+char_117_myrrh_CN_017,Added to Squad,Uh... I'll try my best not to drag everyone down...,那个，我尽量不拖大家的后腿……,"Эм, я постараюсь не подводить всех..."
+char_117_myrrh_CN_018,Appointed as Squad Leader,I'll start by doing my best to make eye contact...,就从努力直视大家的眼睛开始……,"Начну с того, что постараюсь смотреть всем в глаза..."
+char_117_myrrh_CN_019,Depart,"Ah, Doctor, I'm ready to go.",啊，博士，我要出发了。,"А, Доктор, я готова идти."
+char_117_myrrh_CN_020,Begin Operation,I'll do my best to make sure no one gets hurt...!,各位，我不会让你们受伤的……！,"Все, я постараюсь, чтобы никто не пострадал...!"
+char_117_myrrh_CN_021,Selecting Operator 1,I'm with you.,我在。,Я здесь.
+char_117_myrrh_CN_022,Selecting Operator 2,I'm coming.,来了。,Иду.
+char_117_myrrh_CN_023,Deployment 1,I need to be careful.,我要小心一点。,Нужно быть осторожной.
+char_117_myrrh_CN_024,Deployment 2,Does anyone need healing?,有没有需要治疗的人呢？,Есть кому нужна помощь?
+char_117_myrrh_CN_025,In Battle 1,Gotta aim more carefully.,要、要扔得准一点……,Надо метать точнее...
+char_117_myrrh_CN_026,In Battle 2,Here's the medicine!,药来了！,Лекарство идёт!
+char_117_myrrh_CN_027,In Battle 3,"Medicine here. Please, take it!",这是药，请收下！,"Вот лекарство, возьмите!"
+char_117_myrrh_CN_028,In Battle 4,"It's okay, it's curable!",没关系，可以治好的……！,"Всё хорошо, это излечимо...!"
+char_117_myrrh_CN_029,4-star Result,"We won? Really? Even against those really tough opponents? Wow... you're so cool, Doctor!",赢了？真的吗？这么严酷的战斗都能……博士真的好厉害……！,"Мы победили? Правда? Даже с такими страшными противниками? Ох, Доктор, вы такой молодец...!"
+char_117_myrrh_CN_030,3-star Result,"How's the medicine this time, everyone? ...Um, I guess I'll ask when we get back...",大家，这次的药效……算了，回去再问吧……,"Ну как, всем помогло?.. Ладно, спрошу, когда вернёмся..."
+char_117_myrrh_CN_031,Sub 3-star Result,So much to do in so little time... Thank goodness I didn't mess up too badly…,唔唔，手忙脚乱的……没犯大错真是太好了……,"Столько хлопот... Хорошо, что я не ошиблась серьёзно..."
+char_117_myrrh_CN_032,Operation Failure,My vials... All shattered...,药瓶……药瓶全都碎掉了……,Пузырьки... все разбились...
+char_117_myrrh_CN_033,Assigned to Facility,Uh... I can still smell herbs on my clothes...,唔，我觉得衣服上还残留着草药的味道……,Эм... на одежде всё ещё пахнет травами...
+char_117_myrrh_CN_034,Tap,Wahh!,唔哇！,Ой!
+char_117_myrrh_CN_036,Trust Tap,"Excuse me, Doctor. I made you some herb soup good for soothing the body and calming the mind. It's just... a bit bitter…",博士，那个，最近我调制了安定情绪的汤药。对身体是有好处的，只是确实有点苦……,"Простите, Доктор. Я сделала вам отвар для успокоения тела и духа. Он просто... немного горький..."
+char_117_myrrh_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_117_myrrh_CN_038,New Year's blessing,"Happy New Year, Doctor. I'm getting the seeds ready to plant my herbs once spring comes. I hope they'll grow strong and healthy, and that... that I won't even need them this year.",博士，新年好。我正在准备开春要种植的药草的种子。希望它们可以茁壮成长，也希望，今年不要用到它们……,"Доктор, с Новым годом. Я готовлю семена трав, которые посажу весной. Надеюсь, они вырастут крепкими — и надеюсь, что в этом году мне не придётся их применять..."
+char_117_myrrh_CN_042,Greeting,"Oh! Good morning, Doctor",早、早上好，博士。,"Д-Доброе утро, Доктор."
+char_117_myrrh_CN_043,Birthday,"Happy birthday, Doctor. I've prepared you some pills, based on your health records. They'll help you relax and sleep better. And don't worry, I've coated each one in cake-flavored frosting. If you like them, I can make more for you whenever you want!",博士，生日快乐。我根据您的健康记录，为您准备了一些药丸。它们有安神和助眠的功效。请放心，我在每一颗药丸上裹好了蛋糕口味的糖衣。您喜欢的话，任何时候我都可以帮您做的！,"Доктор, с днём рождения. Я подготовила вам таблетки, исходя из ваших показателей здоровья. Они успокаивают и помогают спать. Не волнуйтесь — я покрыла каждую сахарной глазурью со вкусом торта. Если понравится, я могу делать их вам в любое время!"
+char_117_myrrh_CN_044,Anniversary Celebration,"I came to Rhodes Island to treat my closest friend. But when I got here, I found even more people who needed my aid. I'm so glad my herbal medicine can be useful... I hope that, one day, my herbs will be the most bitter thing anyone in this land has to deal with.",我来到罗德岛，是为了治疗我最要好的朋友。但是后来，我发现有更多人需要我的帮助。能让这些草药发挥价值，我很开心……我希望，有一天，这片大地上不会再有比草药更难忍受的苦涩。,"Я пришла на Родос, чтобы лечить свою самую близкую подругу. Но здесь я нашла гораздо больше людей, которым нужна помощь. Я так рада, что мои травы приносят пользу... Надеюсь, когда-нибудь самой горькой вещью на этой земле будут именно мои травы."

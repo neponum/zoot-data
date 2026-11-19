@@ -1,39 +1,39 @@
-id,title,original,translation
-char_4185_amoris_CN_001,Appointed as Assistant,"Ah, Doc! Say, anything need doing?",
-char_4185_amoris_CN_002,Talk 1,"Oh, my god! If I did a vlog in here I might rake in major views, maybe? No, c'mon, obviously I'm not really!",
-char_4185_amoris_CN_003,Talk 2,"I'm kiiiiiiinda busy right now, save it for later~",
-char_4185_amoris_CN_004,Talk 3,"You ever notice how Rhodes Island is just full of all kinds of operators? Everyone's got their own goals, their own talents, it's a real show. I kinda wanna get stuck in and interview around!",
-char_4185_amoris_CN_005,Talk after Promotion 1,"Why do I volunteer for practice? Obviously you give everything you've got for your dream, right?",
-char_4185_amoris_CN_006,Talk after Promotion 2,"Whaaat? You've got more work for me? Alright, but in exchange... No, nonono, I'm kidding! If you and Amiya-chan are gonna put your trust in me like that, what am I to do but nyam-up and work my butt off!",
-char_4185_amoris_CN_007,Talk after Trust Increase 1,"No way! Do you see all the cute ops here at Rhodes Island?! SO blessed! Just need to get them in a makeup vid... Ahah, I can see the views rolling in already!",
-char_4185_amoris_CN_008,Talk after Trust Increase 2,"So like, a ton of the kids in Medical are fans of me now! So I'm thinking, rule no.1, gotta give the fans what they want, right?",
-char_4185_amoris_CN_009,Talk after Trust Increase 3,"I keep thinking lately. About reaching my goals. 'Cause doing whatever it takes, grinding away all on my own, that's been me. But hey, maybe it's nice to detour a little too, once in a while. That might be because everyone at Rhodes Island is so nice.",
-char_4185_amoris_CN_010,Idle,"Huuuh. Doc fell asleep. Well, if you're asking to get pranked, who am I to say no? Nah, kidding♪",
-char_4185_amoris_CN_011,Onboard,Good morn-nyamu-nyamu! New hire Nyamuchi reporting in! Nice to meetcha♪,
-char_4185_amoris_CN_012,Watching Battle Record,Hell yeah~♪ Can't stop Nyamuchi evolving~,
-char_4185_amoris_CN_013,Promotion 1,"What's this? Oh, I get it, you're in with the Nyamuchi fans now?",
-char_4185_amoris_CN_014,Promotion 2,"That's right, I've been putting in tons of work, yeah? Keep that praise coming my way, yeah?",
-char_4185_amoris_CN_017,Added to Squad,...Okay.,
-char_4185_amoris_CN_018,Appointed as Squad Leader,"Wait, so <i>I'm</i> leading? Not Sakiko?",
-char_4185_amoris_CN_019,Depart,"Okay, showtime~",
-char_4185_amoris_CN_020,Begin Operation,"Ah, enemy spotteeeed!",
-char_4185_amoris_CN_021,Selecting Operator 1,I'm right here~,
-char_4185_amoris_CN_022,Selecting Operator 2,Hmm? Need me?,
-char_4185_amoris_CN_023,Deployment 1,"C'mere, c'mere!",
-char_4185_amoris_CN_024,Deployment 2,I got this~,
-char_4185_amoris_CN_025,In Battle 1,I'll show you what I'm really made of!,
-char_4185_amoris_CN_026,In Battle 2,Take that!,
-char_4185_amoris_CN_027,In Battle 3,Let's turn up the energy!,
-char_4185_amoris_CN_028,In Battle 4,Nuh-uh-uh!,
-char_4185_amoris_CN_029,4-star Result,"Ahahah! We make a seriously great team, huh?",
-char_4185_amoris_CN_030,3-star Result,"Total victory! This means time for an afterparty! C'mon, let's do it!",
-char_4185_amoris_CN_031,Sub 3-star Result,"Grrgh... Next time, I'll nail it...",
-char_4185_amoris_CN_032,Operation Failure,Are you gonna be a downer? 'Cause we need to think about what went wrong and why.,
-char_4185_amoris_CN_033,Assigned to Facility,"Oh, wow! This is a killer spot you Rhodies have got!",
-char_4185_amoris_CN_034,Tap,Nyamutto♪,
-char_4185_amoris_CN_036,Trust Tap,"Hey, chill out, chill out~",
-char_4185_amoris_CN_037,Title,Arknights.,
-char_4185_amoris_CN_038,New Year's blessing,"Happy New Year! Another year of heading onward and upward for me! That's right, you too, Doc, onward and upward♪",
-char_4185_amoris_CN_042,Greeting,"Nice work out there, Doc!",
-char_4185_amoris_CN_043,Birthday,"Happy birthday~! Here you go, a present for you. Now, can I expect something nice when Nyamu's day rolls around?",
-char_4185_amoris_CN_044,Anniversary Celebration,"Must be the Nyamuchi influence livening up Rhodes today, no doubt about it. Where's my thanks, Doc? Thank me~!",
+id,title,original,original_zh,translation
+char_4185_amoris_CN_001,Appointed as Assistant,"Ah, Doc! Say, anything need doing?",啊，博士，有什么需要我来做的？,"Ах, Доктор, что-нибудь нужно сделать?"
+char_4185_amoris_CN_002,Talk 1,"Oh, my god! If I did a vlog in here I might rake in major views, maybe? No, c'mon, obviously I'm not really!",呜哇，真厉害！在这里拍摄Vlog的话，播放量肯定能猛涨吧！不不不，我不会真的这样做的。,"Вау, круто! Если снять здесь Vlog, просмотры наверняка взлетят! Нет-нет, я на самом деле так не сделаю."
+char_4185_amoris_CN_003,Talk 2,"I'm kiiiiiiinda busy right now, save it for later~",我现在有~一点~点忙呢，有什么事的话稍后再说吧~,"Сейчас я~немно~жечко занята, так что давай позже~"
+char_4185_amoris_CN_004,Talk 3,"You ever notice how Rhodes Island is just full of all kinds of operators? Everyone's got their own goals, their own talents, it's a real show. I kinda wanna get stuck in and interview around!",罗德岛上也有形形色色的干员呢~大家都有着各自的理想和厉害的地方，真有意思，迫不及待想要跟大家多聊聊呢。,"На Родосе тоже самые разные оперативники~ У всех свои мечты и свои таланты, так интересно! Не могу дождаться, чтобы поболтать со всеми побольше."
+char_4185_amoris_CN_005,Talk after Promotion 1,"Why do I volunteer for practice? Obviously you give everything you've got for your dream, right?",嗯？喵姆亲每天的自主练习？对啊，为了梦想付出一切努力，这不是理所当然的吗？,А? Нямути каждый день сама тренируется? Конечно! Ради мечты отдавать всё — разве это не само собой разумеется?
+char_4185_amoris_CN_006,Talk after Promotion 2,"Whaaat? You've got more work for me? Alright, but in exchange... No, nonono, I'm kidding! If you and Amiya-chan are gonna put your trust in me like that, what am I to do but nyam-up and work my butt off!",想让喵姆亲做更多的工作，需要另外支付报酬哟。呀，开玩笑的开玩笑的，为了报答博士和小阿米娅的信任，喵姆亲当然会努力工作啦~,"Если хотите, чтобы Нямути работала больше, придётся доплатить~ Ха-ха, шучу-шучу! Чтобы оправдать доверие Доктора и маленькой Амии, Нямути, разумеется, будет стараться изо всех сил~"
+char_4185_amoris_CN_007,Talk after Trust Increase 1,"No way! Do you see all the cute ops here at Rhodes Island?! SO blessed! Just need to get them in a makeup vid... Ahah, I can see the views rolling in already!",哦哦~罗德岛上有好多可爱的干员，真想拍一期给她们化妆的Vlog，肯定能收获大量的热度！,"Ого~ На Родосе столько милых оперативниц! Так и хочется снять Vlog, как я их крашу, — и просмотры пойдут валом!"
+char_4185_amoris_CN_008,Talk after Trust Increase 2,"So like, a ton of the kids in Medical are fans of me now! So I'm thinking, rule no.1, gotta give the fans what they want, right?",医疗部有好多孩子已经成了喵姆亲的粉丝~这样喵姆亲不去给他们一些回馈都不行了。,В медотделе уже куча ребят стали фанатами Нямути~ Приходится как-то отблагодарить их.
+char_4185_amoris_CN_009,Talk after Trust Increase 3,"I keep thinking lately. About reaching my goals. 'Cause doing whatever it takes, grinding away all on my own, that's been me. But hey, maybe it's nice to detour a little too, once in a while. That might be because everyone at Rhodes Island is so nice.",我最近也开始觉得，与其不择手段地朝着目标孤军奋战，偶尔稍稍绕绕远路也不是什么坏事。大概是受到了罗德岛的大家的影响吧？,"В последнее время я стала думать: вместо того чтобы идти к цели в одиночку и любыми средствами, иногда немного свернуть с прямого пути — тоже не плохо. Наверное, это влияние всех здесь, на Родосе?"
+char_4185_amoris_CN_010,Idle,"Huuuh. Doc fell asleep. Well, if you're asking to get pranked, who am I to say no? Nah, kidding♪",嗯，博士睡着了吗？机会难得，我来恶作剧了哦？开个玩笑~,"Хм, Доктор уснул? Удобный случай — я его разыграю, ладно? Шучу~"
+char_4185_amoris_CN_011,Onboard,Good morn-nyamu-nyamu! New hire Nyamuchi reporting in! Nice to meetcha♪,你好~喵姆喵姆~喵姆亲来报到啦。请多指教~,Привет~ ням-ням~ Нямути на связи. Давайте дружить~
+char_4185_amoris_CN_012,Watching Battle Record,Hell yeah~♪ Can't stop Nyamuchi evolving~,太好了~♪喵姆亲还能继续进化~,Ура~♪ Нямути может и дальше развиваться~
+char_4185_amoris_CN_013,Promotion 1,"What's this? Oh, I get it, you're in with the Nyamuchi fans now?",怎么样，要变成喵姆亲的粉丝了吗？,"Ну что, уже хочешь стать фанатом Нямути?"
+char_4185_amoris_CN_014,Promotion 2,"That's right, I've been putting in tons of work, yeah? Keep that praise coming my way, yeah?",嗯嗯，我表现得不错吧？多赞美一下我也没关系哦~,"Ага, я же молодец? Можно меня ещё похвалить~"
+char_4185_amoris_CN_017,Added to Squad,...Okay.,早上好~！,Доброе утро~!
+char_4185_amoris_CN_018,Appointed as Squad Leader,"Wait, so <i>I'm</i> leading? Not Sakiko?",呃，要我来做指挥吗？祥子才更适合吧。,"Эй, мне командовать? Лучше бы Сакико."
+char_4185_amoris_CN_019,Depart,"Okay, showtime~",走了~,Погнали~
+char_4185_amoris_CN_020,Begin Operation,"Ah, enemy spotteeeed!",啊！有敌人！,Ах! Враг!
+char_4185_amoris_CN_021,Selecting Operator 1,I'm right here~,我在这里哟~,Я здесь~
+char_4185_amoris_CN_022,Selecting Operator 2,Hmm? Need me?,叫我吗？,Меня зовут?
+char_4185_amoris_CN_023,Deployment 1,"C'mere, c'mere!",这里这里！,"Сюда, сюда!"
+char_4185_amoris_CN_024,Deployment 2,I got this~,好的~,Окей~
+char_4185_amoris_CN_025,In Battle 1,I'll show you what I'm really made of!,来见识一下我的实力吧！,"Сейчас я покажу, на что я способна!"
+char_4185_amoris_CN_026,In Battle 2,Take that!,嘿！,Хэй!
+char_4185_amoris_CN_027,In Battle 3,Let's turn up the energy!,是时候火热起来了吧！,Пора накалить обстановку!
+char_4185_amoris_CN_028,In Battle 4,Nuh-uh-uh!,差得远了！,Ещё далеко!
+char_4185_amoris_CN_029,4-star Result,"Ahahah! We make a seriously great team, huh?",哦哦~我们一起真不赖啊~！,Ого~ Мы с вами просто классная команда~!
+char_4185_amoris_CN_030,3-star Result,"Total victory! This means time for an afterparty! C'mon, let's do it!",完美的胜利！接下来应该是庆功宴了吧！,"Идеальная победа! Дальше — банкет в честь победы, да?"
+char_4185_amoris_CN_031,Sub 3-star Result,"Grrgh... Next time, I'll nail it...",唔……下次一定会更完美……,Мм... в следующий раз будет ещё лучше...
+char_4185_amoris_CN_032,Operation Failure,Are you gonna be a downer? 'Cause we need to think about what went wrong and why.,比起只是沮丧着什么都不做，还是想想问题出在哪里吧。,"Вместо того чтобы просто расстраиваться и ничего не делать, лучше подумать, где мы ошиблись."
+char_4185_amoris_CN_033,Assigned to Facility,"Oh, wow! This is a killer spot you Rhodies have got!",呀~罗德岛居然有这么华丽的地方啊！,Ого~ У Родоса есть такие шикарные места!
+char_4185_amoris_CN_034,Tap,Nyamutto♪,喵姆？,Ням?
+char_4185_amoris_CN_036,Trust Tap,"Hey, chill out, chill out~",先别急嘛~,Не спеши~
+char_4185_amoris_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_4185_amoris_CN_038,New Year's blessing,"Happy New Year! Another year of heading onward and upward for me! That's right, you too, Doc, onward and upward♪",新年快乐！对我来说，新的一年依然要向前迈进才行，博士也一样！,"С Новым годом! Для меня новый год — всё равно двигаться вперёд. И для вас тоже, Доктор!"
+char_4185_amoris_CN_042,Greeting,"Nice work out there, Doc!",博士，辛苦了~！,"Доктор, вы молодец~!"
+char_4185_amoris_CN_043,Birthday,"Happy birthday~! Here you go, a present for you. Now, can I expect something nice when Nyamu's day rolls around?",生日快乐！这是给博士的生日礼物！我已经开始期待了，到喵姆亲的生日那天，博士会送我怎样的礼物呢~,"С днём рождения! Это подарок для Доктора! Уже не могу дождаться, что вы преподнесёте мне, когда будет день Нямути~"
+char_4185_amoris_CN_044,Anniversary Celebration,"Must be the Nyamuchi influence livening up Rhodes today, no doubt about it. Where's my thanks, Doc? Thank me~!",嗯嗯，在这段时间里喵姆亲肯定给罗德岛带来了很多的朝气吧！博士是不是需要好好感谢我？,"Ага, за это время Нямути наверняка привнесла на Родос кучу энергии! Доктор, вас надо как следует поблагодарить, нет?"

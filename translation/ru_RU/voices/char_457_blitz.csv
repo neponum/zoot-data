@@ -1,36 +1,36 @@
-id,title,original,translation
-char_457_blitz_CN_001,Appointed as Assistant,"Instead of sitting here, why don't we walk out together?",
-char_457_blitz_CN_002,Talk 1,I'm in the starting lineup for next week's football match. Come watch the game!,
-char_457_blitz_CN_003,Talk 2,"If you know how we can improve my G52 Tactical Shield, please submit a test application. I'll be there anytime.",
-char_457_blitz_CN_004,Talk 3,"Ease up, there's nothing to be nervous about. Should I invite Tachanka to dance a little ballet for you?",
-char_457_blitz_CN_005,Talk after Promotion 1,The doctors don't test me because I'm sick. They test me because I'm too healthy. Good thing I'm not afraid of needles!,
-char_457_blitz_CN_006,Talk after Promotion 2,Flash! Bash! Kapow! That's all you need to know.,
-char_457_blitz_CN_007,Talk after Trust Increase 1,"Not only am I sweet, but I've got a great sense of humor.",
-char_457_blitz_CN_008,Talk after Trust Increase 2,"If you find something interesting to play with, count me in.",
-char_457_blitz_CN_009,Talk after Trust Increase 3,We have a responsibility to look after one another. I take that very seriously.,
-char_457_blitz_CN_010,Idle,"This is really interesting, but not to me.",
-char_457_blitz_CN_011,Onboard,"RAINBOW Operator, codename Blitz. Give the order and I'll bash 'em in the face with my shield!",
-char_457_blitz_CN_012,Watching Battle Record,"This is pretty good. The popcorn, I mean. Want some?",
-char_457_blitz_CN_013,Promotion 1,"Medals, awards, promotions. They go really well with my shield, don't you think?",
-char_457_blitz_CN_014,Promotion 2,I don't like photos of myself. The lighting is always wrong.,
-char_457_blitz_CN_017,Added to Squad,Should we go get the bad guys maybe? Just a suggestion.,
-char_457_blitz_CN_018,Appointed as Squad Leader,Remember: point your guns at the bad guys.,
-char_457_blitz_CN_019,Depart,Let's look alive out here.,
-char_457_blitz_CN_020,Begin Operation,Bad guys in our way!,
-char_457_blitz_CN_021,Selecting Operator 1,Do think I have time to use the bathroom?,
-char_457_blitz_CN_022,Selecting Operator 2,"If anyone needs to sneeze, do it now.",
-char_457_blitz_CN_023,Deployment 1,Let's go!,
-char_457_blitz_CN_024,Deployment 2,"Move, quickly!",
-char_457_blitz_CN_025,In Battle 1,Kapow!,
-char_457_blitz_CN_026,In Battle 2,Boom!,
-char_457_blitz_CN_027,In Battle 3,Surprise!,
-char_457_blitz_CN_028,In Battle 4,Do you like it!,
-char_457_blitz_CN_029,4-star Result,Are we good? Can we go home now?,
-char_457_blitz_CN_030,3-star Result,"Everything will be fine, I'm here after all.",
-char_457_blitz_CN_031,Sub 3-star Result,Am I going to need to save all your asses again?,
-char_457_blitz_CN_032,Operation Failure,"Dammit, did anyone remember to bring the ammo?",
-char_457_blitz_CN_033,Assigned to Facility,Let's go say hello to our neighbors first.,
-char_457_blitz_CN_034,Tap,Wow!,
-char_457_blitz_CN_036,Trust Tap,"You should invite me over for dinner. We are friends, after all.",
-char_457_blitz_CN_037,Title,Arknights.,
-char_457_blitz_CN_042,Greeting,Is it time to go?,
+id,title,original,original_zh,translation
+char_457_blitz_CN_001,Appointed as Assistant,"Instead of sitting here, why don't we walk out together?",我们应该一起去外面逛逛，在这里坐着干啥？,"Вместо того чтобы сидеть здесь, почему бы нам не выйти прогуляться?"
+char_457_blitz_CN_002,Talk 1,I'm in the starting lineup for next week's football match. Come watch the game!,下周的足球赛我可是首发，你一定要来看啊。,На следующей неделе я в стартовом составе на футбольном матче — обязательно приходите смотреть!
+char_457_blitz_CN_003,Talk 2,"If you know how we can improve my G52 Tactical Shield, please submit a test application. I'll be there anytime.",要是你们那儿有改进闪光护盾的好办法，尽管提测试申请，我随时就位。,"Если вы знаете, как улучшить мой тактический щит G52, смело подавайте заявку на тест. Я на связи в любое время."
+char_457_blitz_CN_004,Talk 3,"Ease up, there's nothing to be nervous about. Should I invite Tachanka to dance a little ballet for you?",放轻松，你太紧张了，需不需要我请战车来给你跳个芭蕾？,"Расслабьтесь, нечего нервничать. Может, попросить Тачанку станцевать вам балет?"
+char_457_blitz_CN_005,Talk after Promotion 1,The doctors don't test me because I'm sick. They test me because I'm too healthy. Good thing I'm not afraid of needles!,医生们测试我不是因为病症，而是因为我足够强壮。还好我并不害怕针头。,"Врачи проверяют меня не потому, что я болен, а потому, что я слишком здоров. Хорошо, что я не боюсь иголок!"
+char_457_blitz_CN_006,Talk after Promotion 2,Flash! Bash! Kapow! That's all you need to know.,闪一下，捶一下，砰！搞定！,"Вспыхнул! Ударил! Бац! Вот и всё, что вам надо знать."
+char_457_blitz_CN_007,Talk after Trust Increase 1,"Not only am I sweet, but I've got a great sense of humor.",是，我就是很欢乐，而且很幽默。,Я не только милый — у меня ещё и чувство юмора отличное.
+char_457_blitz_CN_008,Talk after Trust Increase 2,"If you find something interesting to play with, count me in.",要是有好事，记得带我一起玩。,"Если найдётся что-то интересное, чтобы поразвлечься — считай меня."
+char_457_blitz_CN_009,Talk after Trust Increase 3,We have a responsibility to look after one another. I take that very seriously.,我们大家有责任照顾好彼此，这件事情我绝对不开玩笑。,Мы обязаны заботиться друг о друге. Я отношусь к этому очень серьёзно.
+char_457_blitz_CN_010,Idle,"This is really interesting, but not to me.",这个挺有趣，但对我来说还缺点意思。,"Это и правда интересно, но для меня не совсем."
+char_457_blitz_CN_011,Onboard,"RAINBOW Operator, codename Blitz. Give the order and I'll bash 'em in the face with my shield!",彩虹小队成员，代号闪击。你下令，我就把盾拍在目标脸上！,"Оперативник Rainbow, позывной Блиц. Отдай приказ — и я впечатаю свой щит в лицо цели!"
+char_457_blitz_CN_012,Watching Battle Record,"This is pretty good. The popcorn, I mean. Want some?",这个还挺不错，哦我是说爆米花，要来点吗？,Это довольно неплохо. Я про попкорн. Хотите?
+char_457_blitz_CN_013,Promotion 1,"Medals, awards, promotions. They go really well with my shield, don't you think?",褒奖啊勋章之类的东西，你不觉得这些很适合挂在盾上吗？,"Похвалы, медали, повышения — они же отлично смотрятся на моём щите, не находите?"
+char_457_blitz_CN_014,Promotion 2,I don't like photos of myself. The lighting is always wrong.,我不喜欢拍自己的照片，光线总是不对。,Не люблю фотографироваться. Свет всегда не тот.
+char_457_blitz_CN_017,Added to Squad,Should we go get the bad guys maybe? Just a suggestion.,我们可以去干掉坏人了吗？我就提个建议。,"Может, пойдём и поколотим плохих парней? Просто предложение."
+char_457_blitz_CN_018,Appointed as Squad Leader,Remember: point your guns at the bad guys.,切记——你拿枪只能对着坏人。,Помните: наводите ствол только на плохих парней.
+char_457_blitz_CN_019,Depart,Let's look alive out here.,咱们都打起点精神来。,Давайте выглядеть бодрее.
+char_457_blitz_CN_020,Begin Operation,Bad guys in our way!,坏人就在前方！,Плохие парни впереди!
+char_457_blitz_CN_021,Selecting Operator 1,Do think I have time to use the bathroom?,我还有时间去个卫生间么？,"Думаете, у меня найдётся время сходить в туалет?"
+char_457_blitz_CN_022,Selecting Operator 2,"If anyone needs to sneeze, do it now.",谁想打喷嚏的现在快打。,Если кто хочет чихнуть — сейчас самый момент.
+char_457_blitz_CN_023,Deployment 1,Let's go!,我们走！,Пойдём!
+char_457_blitz_CN_024,Deployment 2,"Move, quickly!",前进，快点！,"Вперёд, быстрее!"
+char_457_blitz_CN_025,In Battle 1,Kapow!,笑一个！,Улыбнись!
+char_457_blitz_CN_026,In Battle 2,Boom!,蹦！,Бум!
+char_457_blitz_CN_027,In Battle 3,Surprise!,惊喜！,Сюрприз!
+char_457_blitz_CN_028,In Battle 4,Do you like it!,喜欢吗！,Нравится?!
+char_457_blitz_CN_029,4-star Result,Are we good? Can we go home now?,没我事了？我能回家了吗？,Я свободен? Можно уже домой?
+char_457_blitz_CN_030,3-star Result,"Everything will be fine, I'm here after all.",一切都会顺利的，毕竟有我在。,Всё будет хорошо — я же здесь.
+char_457_blitz_CN_031,Sub 3-star Result,Am I going to need to save all your asses again?,我是不是又要再救你们一次了？,Опять мне придётся вас всех спасать?
+char_457_blitz_CN_032,Operation Failure,"Dammit, did anyone remember to bring the ammo?",该死，就没人记得带弹药吗？,"Чёрт, неужели никто не догадался взять боеприпасы?"
+char_457_blitz_CN_033,Assigned to Facility,Let's go say hello to our neighbors first.,先和邻居打个招呼。,Давайте сначала поздороваемся с соседями.
+char_457_blitz_CN_034,Tap,Wow!,喔！,Ого!
+char_457_blitz_CN_036,Trust Tap,"You should invite me over for dinner. We are friends, after all.",快请我吃个饭，毕竟我们是朋友嘛。,Зови меня в гости поесть — мы же друзья.
+char_457_blitz_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_457_blitz_CN_042,Greeting,Is it time to go?,要出发了？,Пора выходить?

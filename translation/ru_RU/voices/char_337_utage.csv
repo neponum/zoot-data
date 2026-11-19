@@ -1,39 +1,39 @@
-id,title,original,translation
-char_337_utage_CN_001,Appointed as Assistant,"Doctor, are you ready to work? I won't take no for an answer. C'mon. 3, 2, 1, start.",
-char_337_utage_CN_002,Talk 1,Nails are part of a girl's appeal. Gotta take good care of them.,
-char_337_utage_CN_003,Talk 2,"Why do I call myself Utage? Well, it's not that complicated. It means 'Party' in Higashinese, and I just wanna live my life like it's a party every night. If I'm in a good mood, everything else is gonna be okay.",
-char_337_utage_CN_004,Talk 3,"You already saw it, Doctor? Well, that's too bad. Now the only way out is for you… is to come with me and use this two-for-one coupon.",
-char_337_utage_CN_005,Talk after Promotion 1,"When I got Oripathy and started talking about coming here, my mom was worried about bullying. So she gave me the family heirloom, Shishiou, to defend myself. Didn't find any bullies, but I did manage to cut up some pretty bad guys. Doctor, you really know how to treat a girl.",
-char_337_utage_CN_006,Talk after Promotion 2,The people here turn all scary when they get serious. I'm as scary as six of them put together? Really…? Am I that terrifying?,
-char_337_utage_CN_007,Talk after Trust Increase 1,"Doc. Help me pick up ten boxes of limited-edition cookie sticks tomorrow? Just give me an advance on my pay. What? I've advanced the whole thing already? Aww c'mon, there's gotta be something you can do. Please, Doctor!",
-char_337_utage_CN_008,Talk after Trust Increase 2,"Doctor, you're razor-sharp some of the time and dull as a block at others. I don't get why. Oh, I see, right out of that 'How to Talk to Girls' book, huh? I'd expect nothing less from you, Doctor.",
-char_337_utage_CN_009,Talk after Trust Increase 3,"It's not good to rely too much on any one person, but maybe the Doctor is an... Eek, Doctor! Oh it's nothing, I was just rambling to myself! D-D-Did you need something from me?",
-char_337_utage_CN_010,Idle,"If you're tired, just go to bed. Not that complicated.",
-char_337_utage_CN_011,Onboard,"Hey, Doctor. I'm your new operator, Utage. My hobbies are... Oh, I don't need to go into the details? Alright then, I look forward to working with you.",
-char_337_utage_CN_012,Watching Battle Record,Is it over?,
-char_337_utage_CN_013,Promotion 1,Do I get work less after I get promoted? No dice? Oh well…,
-char_337_utage_CN_014,Promotion 2,"I guess it's time for me to get serious. Alright, let's crush the bad guys!",
-char_337_utage_CN_017,Added to Squad,"Alright, everyone, I'll be counting on your orders!",
-char_337_utage_CN_018,Appointed as Squad Leader,"Hmm, team captain… Eh? Me? Captain?",
-char_337_utage_CN_019,Depart,Time to go.,
-char_337_utage_CN_020,Begin Operation,"C'mon, c'mon! I can't wait any longer.",
-char_337_utage_CN_021,Selecting Operator 1,Yeees?,
-char_337_utage_CN_022,Selecting Operator 2,Need me?,
-char_337_utage_CN_023,Deployment 1,Moving out!,
-char_337_utage_CN_024,Deployment 2,Hehe.,
-char_337_utage_CN_025,In Battle 1,Who should I cut?,
-char_337_utage_CN_026,In Battle 2,It won't hurt if I don't miss.,
-char_337_utage_CN_027,In Battle 3,I'll take what you don't need.,
-char_337_utage_CN_028,In Battle 4,You look kinda cute when you cry.,
-char_337_utage_CN_029,4-star Result,"Ahh, it felt good to blow off all that steam. Exciting stuff. Let's go for crepes, Doctor.",
-char_337_utage_CN_030,3-star Result,That was so much fun. Thanks for all the enemies!,
-char_337_utage_CN_031,Sub 3-star Result,"You're saving the stragglers for me? Well, I'll dig right in.",
-char_337_utage_CN_032,Operation Failure,"C'mon, Doctor, stop spacing out and start running.",
-char_337_utage_CN_033,Assigned to Facility,"As long as I can get my magazines, it doesn't really matter where I stay.",
-char_337_utage_CN_034,Tap,Oh?,
-char_337_utage_CN_036,Trust Tap,Wanna go sing karaoke?,
-char_337_utage_CN_037,Title,Arknights.,
-char_337_utage_CN_038,New Year's blessing,"Oh, hey, Doctor. Happy New Year! As you can see, I'm trapped under this kotatsu... Hang with me for a bit maybe? It's waaarm. C'mon, just try it, you won't regret it!",
-char_337_utage_CN_042,Greeting,"Morning, Doctor.",
-char_337_utage_CN_043,Birthday,"Doctor, happy birthday. Did you know? There's a real trick to birthday parties. I could share some hacks with you, like, on the down-low, to really up your popularity at dinnertime. Number one—wait, are these all your presents?! This whole room?!",
-char_337_utage_CN_044,Anniversary Celebration,"The dinner party today was, like, killer. That's the kind of thing you should really do every day. Otherwise, you start overthinking things and get all hung up on it. Then stuff gets worse and lose all your optimism for life, which is tough to hold onto. Meh, that's just me babbling to myself, don't worry about it. Anyway, enjoy the happiness you've got in the moment, that's what matters most!",
+id,title,original,original_zh,translation
+char_337_utage_CN_001,Appointed as Assistant,"Doctor, are you ready to work? I won't take no for an answer. C'mon. 3, 2, 1, start.",博士，准备好工作了吗，不许说没好哦。来，3，2，1，开工！,"Доктор, готовы работать? «Не готов» — не принимается. Давайте: три, два, один — начали!"
+char_337_utage_CN_002,Talk 1,Nails are part of a girl's appeal. Gotta take good care of them.,指甲可是女孩子的魅力点之一，不好好保养怎么行。,Ногти — одна из прелестей девушки. Нужно ухаживать за ними как следует.
+char_337_utage_CN_003,Talk 2,"Why do I call myself Utage? Well, it's not that complicated. It means 'Party' in Higashinese, and I just wanna live my life like it's a party every night. If I'm in a good mood, everything else is gonna be okay.",为什么会叫宴？没什么复杂的原因，就想天天像开宴会一样开心。只要心情好了，什么都会好起来。,"Почему я Утагэ? Да всё просто: по-хигашински это «вечеринка». Я и хочу жить так, будто каждую ночь — праздник. А настроение хорошее — и всё остальное наладится."
+char_337_utage_CN_004,Talk 3,"You already saw it, Doctor? Well, that's too bad. Now the only way out is for you… is to come with me and use this two-for-one coupon.",你看到了啊，博士。那就没办法了——陪我一起去把这张双人优惠券用掉吧。,"Вы уже видели это, Доктор? Тогда деваться некуда — придётся вам пойти со мной и вместе использовать этот купон на двоих."
+char_337_utage_CN_005,Talk after Promotion 1,"When I got Oripathy and started talking about coming here, my mom was worried about bullying. So she gave me the family heirloom, Shishiou, to defend myself. Didn't find any bullies, but I did manage to cut up some pretty bad guys. Doctor, you really know how to treat a girl.",患上了矿石病被送到这里来，妈妈怕我受欺负才把家传的狮子王送给我防身。结果嘛，欺负我的人没砍到，坏人倒是割了一茬又一茬。博士你呀，还真是挺会使唤人的。,"Когда я заболела орипатией и собралась сюда, мама боялась, что меня будут обижать, и дала мне родовую саблю Shishiou для защиты. Обидчиков я не нашла, зато всяких плохих людей полоснула порядочно. Доктор, вы и правда умеете заставить девушку работать."
+char_337_utage_CN_006,Talk after Promotion 2,The people here turn all scary when they get serious. I'm as scary as six of them put together? Really…? Am I that terrifying?,无论是谁，认真做事的时候都会变得很可怕吧。我是六人份的可怕？呃，有这么吓人吗……,"Любой становится страшным, когда берётся за дело по-настоящему. Я страшна в шесть раз сильнее, чем они? Правда?.. Неужели я такая ужасная?"
+char_337_utage_CN_007,Talk after Trust Increase 1,"Doc. Help me pick up ten boxes of limited-edition cookie sticks tomorrow? Just give me an advance on my pay. What? I've advanced the whole thing already? Aww c'mon, there's gotta be something you can do. Please, Doctor!",明天帮我买十盒限量饼干棒吧，钱从我工资里预支就好。啊？已经预支完了？那……总之，拜托你了，博士，你一定能想到办法的！,"Доктор, купи мне завтра десять коробок тех ограниченных палочек-печений. Деньги возьмём авансом из зарплаты. Что? Я уже всю её выбрала?! Ну же, что-нибудь придумайте... Прошу вас, Доктор, вы же сможете!"
+char_337_utage_CN_008,Talk after Trust Increase 2,"Doctor, you're razor-sharp some of the time and dull as a block at others. I don't get why. Oh, I see, right out of that 'How to Talk to Girls' book, huh? I'd expect nothing less from you, Doctor.",博士有时候敏锐得要命，有时候又像块木头一样，到底是为什么呢？啊，我懂了，是那个吧，《闺蜜悄悄话指南》之类的，对吧？不愧是博士呢。,"Доктор, то вы проницательны до невозможности, то тупы как бревно — почему так? А, поняла: это из книги «Как разговаривать с девушками», да? Что ж, от вас я другого и не ждала."
+char_337_utage_CN_009,Talk after Trust Increase 3,"It's not good to rely too much on any one person, but maybe the Doctor is an... Eek, Doctor! Oh it's nothing, I was just rambling to myself! D-D-Did you need something from me?",太过依赖一个人不是件好事呢，不过，如果是博士的话……啊博士！不没什么我只是在胡思乱想，您您您找我有什么事吗！,"Слишком полагаться на одного человека — нехорошо, но если это Доктор... Ах! Д-доктор, нет, я просто несла околесицу! В-вы меня звали?"
+char_337_utage_CN_010,Idle,"If you're tired, just go to bed. Not that complicated.",累了就睡吧，别想太多。,Устали — ложитесь спать. Всё просто.
+char_337_utage_CN_011,Onboard,"Hey, Doctor. I'm your new operator, Utage. My hobbies are... Oh, I don't need to go into the details? Alright then, I look forward to working with you.",你好呀博士，我是刚当上干员没多久的宴，兴趣是……嗯，不用那么详细吗？那，以后就请您多多关照了哦。,"Здравствуйте, Доктор. Я Утагэ, недавно стала оперативником. Мои увлечения... э-э, не надо так подробно? Тогда — буду рада работать с вами."
+char_337_utage_CN_012,Watching Battle Record,Is it over?,放完了？,Конец?
+char_337_utage_CN_013,Promotion 1,Do I get work less after I get promoted? No dice? Oh well…,升职了的话，能不能少干些活呀。唉，不行吗，好吧……,"После повышения можно будет работать поменьше? Не выйдет? Эх, ладно..."
+char_337_utage_CN_014,Promotion 2,"I guess it's time for me to get serious. Alright, let's crush the bad guys!",该动真格的了。让我们把讨厌的家伙，全部碾碎~,"Пора мне взяться по-настоящему. Ну что, раздавим этих противных типов~"
+char_337_utage_CN_017,Added to Squad,"Alright, everyone, I'll be counting on your orders!",好喔，指挥就拜托各位了。,"Ладно, все — полагаюсь на ваши приказы!"
+char_337_utage_CN_018,Appointed as Squad Leader,"Hmm, team captain… Eh? Me? Captain?",是队长啊……嗯？我？队长？,Капитан отряда... Мм? Я? Капитан?
+char_337_utage_CN_019,Depart,Time to go.,出发。,Пора идти.
+char_337_utage_CN_020,Begin Operation,"C'mon, c'mon! I can't wait any longer.",来吧，来吧，我等不及了。,"Давай, давай! Я больше не могу ждать."
+char_337_utage_CN_021,Selecting Operator 1,Yeees?,嗯。,Мм?
+char_337_utage_CN_022,Selecting Operator 2,Need me?,需要我了吗？,Я нужна?
+char_337_utage_CN_023,Deployment 1,Moving out!,我开动了~,Я начинаю~
+char_337_utage_CN_024,Deployment 2,Hehe.,哼哼。,Хм-хм.
+char_337_utage_CN_025,In Battle 1,Who should I cut?,切哪儿比较好呢。,Куда мне резать?
+char_337_utage_CN_026,In Battle 2,It won't hurt if I don't miss.,捅得准就不会痛了。,Если не промахнусь — будет не больно.
+char_337_utage_CN_027,In Battle 3,I'll take what you don't need.,不要的零件，就送给我吧。,Что вам не нужно — отдайте мне.
+char_337_utage_CN_028,In Battle 4,You look kinda cute when you cry.,你流泪的样子，还挺可爱的。,Когда вы плачете — вы даже миленький.
+char_337_utage_CN_029,4-star Result,"Ahh, it felt good to blow off all that steam. Exciting stuff. Let's go for crepes, Doctor.",啊，发泄完了，真开心。博士，我们去吃可丽饼吧。,"Ах, как хорошо выместить зло! Весело же. Доктор, пойдём есть крепы."
+char_337_utage_CN_030,3-star Result,That was so much fun. Thanks for all the enemies!,很尽兴哦，多谢款待~,Было очень весело. Спасибо за врагов~
+char_337_utage_CN_031,Sub 3-star Result,"You're saving the stragglers for me? Well, I'll dig right in.",剩下的几个家伙是专门为我而留的吗。那，我就不客气了。,Оставшихся оставили специально для меня? Тогда я не церемонюсь.
+char_337_utage_CN_032,Operation Failure,"C'mon, Doctor, stop spacing out and start running.",别发呆了博士，快跑起来。,"Не залипайте, Доктор, бегите быстрее."
+char_337_utage_CN_033,Assigned to Facility,"As long as I can get my magazines, it doesn't really matter where I stay.",只要能随时买到新的杂志，住所怎么样其实无所谓的啦。,"Лишь бы журналы продавались поблизости — а где жить, мне всё равно."
+char_337_utage_CN_034,Tap,Oh?,嗯？,Мм?
+char_337_utage_CN_036,Trust Tap,Wanna go sing karaoke?,一起去唱k吗。,Сходим в караоке?
+char_337_utage_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_337_utage_CN_038,New Year's blessing,"Oh, hey, Doctor. Happy New Year! As you can see, I'm trapped under this kotatsu... Hang with me for a bit maybe? It's waaarm. C'mon, just try it, you won't regret it!",啊，是博士啊。新年好~如你所见，我被困在这被炉里了~要不要一起来待会，很暖和的。来吧，试试看，你不会后悔的~,"А, Доктор. С Новым годом~ Как видите, я застряла в этом котацу~ Составите мне компанию? Там очень тепло. Ну же, попробуйте — не пожалеете~"
+char_337_utage_CN_042,Greeting,"Morning, Doctor.",早上好，博士。,"Доброе утро, Доктор."
+char_337_utage_CN_043,Birthday,"Doctor, happy birthday. Did you know? There's a real trick to birthday parties. I could share some hacks with you, like, on the down-low, to really up your popularity at dinnertime. Number one—wait, are these all your presents?! This whole room?!",博士，生日快乐哦~你知道吗？生日宴会是很有讲究的。我可以悄悄告诉你，在宴会上迅速提升自己人气的秘诀哦。首先——等等，博士的房间里，堆的这些全都是礼物？！,"С днём рождения, Доктор~ Знаете ли вы, что у дней рождения есть свои хитрости? Я могу по секрету рассказать, как быстро стать душой компании за ужином. Во-первых — погодите, это всё ваши подарки?! Вся эта комната?!"
+char_337_utage_CN_044,Anniversary Celebration,"The dinner party today was, like, killer. That's the kind of thing you should really do every day. Otherwise, you start overthinking things and get all hung up on it. Then stuff gets worse and lose all your optimism for life, which is tough to hold onto. Meh, that's just me babbling to myself, don't worry about it. Anyway, enjoy the happiness you've got in the moment, that's what matters most!",今天的宴会真棒啊~要是能天天这样就好了呢。人一旦孤独下来，就很容易开始胡思乱想吧。想要一直保持乐观的状态，其实也是件很费力的事呢。啊，不用在意~还是享受当下的开心最重要！,"Сегодняшний ужин был просто огонь~ Хорошо бы так каждый день. Чем дольше человек один, тем больше он думает о всяком. А всё время оставаться оптимистом — тоже труд. Эх, не обращайте внимания~ Главное — радоваться моменту, правда?"

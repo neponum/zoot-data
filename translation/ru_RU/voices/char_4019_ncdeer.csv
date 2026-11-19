@@ -1,39 +1,39 @@
-id,title,original,translation
-char_4019_ncdeer_CN_001,Appointed as Assistant,"The files that needed sorting have all been put away. I hope it'll help reduce some of your pressure, Doctor.",
-char_4019_ncdeer_CN_002,Talk 1,"The atmosphere in here is duly soothing, much like my mountain forest. Doctor, you're free to come play when you're not busy.",
-char_4019_ncdeer_CN_003,Talk 2,"I've talked a lot with the Medical Department's operators, and now I can understand what everyone's goal is. Doctor, allow me to rescue this land together with you.",
-char_4019_ncdeer_CN_004,Talk 3,"This herbal pill... it's fine work. Myrrh's combined the properties of the medicinals and processed them in a special way. Hmm... I've never attempted such a manner of processing myself. In a little while, I'll see about learning from Myrrh.",
-char_4019_ncdeer_CN_005,Talk after Promotion 1,"Aid and sanctuary are unalike. The former cures the body, the latter saves the soul.",
-char_4019_ncdeer_CN_006,Talk after Promotion 2,"To live is an endless cycle, reaping what one sows, all beings beholden to this. I imagine you can understand, having been through so much. Leaving your own memories behind in a different incarnation, constructing your own view of the outside world; that is the purpose of this life.",
-char_4019_ncdeer_CN_007,Talk after Trust Increase 1,"These pills have not just the aroma of tea, but all sorts of flowers too. Many patients consider herbal pills bitter, so I've put my mind to diminishing that bitterness. I hope... the people of Rhodes Island won't dislike this flavor.",
-char_4019_ncdeer_CN_008,Talk after Trust Increase 2,"I very much agree with the tea here, its aroma calm, its true flavor apparent. As with tea, so with man. In this dwelling, those irrelevant rumors can be kept away; it's a rare place of respite.",
-char_4019_ncdeer_CN_009,Talk after Trust Increase 3,"Doctor, the operators can have the dishes labelled with my name to eat, as well as some bottles of drinks I made myself. Everyone's been to truly tiresome lengths as of recent, and I wanted to do a thing or two to help alleviate their fatigue...",
-char_4019_ncdeer_CN_010,Idle,Are you tired? Rest well for a while. Don't worry; I'll protect you.,
-char_4019_ncdeer_CN_011,Onboard,"It's nice to meet you; I'm Nine-Colored Deer. Hm? Are these motifs so beautiful? Th-Thank you... please, observe them as you like.",
-char_4019_ncdeer_CN_012,Watching Battle Record,May I go with you next time? I want to ensure everyone's safety.,
-char_4019_ncdeer_CN_013,Promotion 1,"You've endorsed me? So I have been of help to you, then. Wonderful...",
-char_4019_ncdeer_CN_014,Promotion 2,"The things I've learned may save many, but there remain yet more in need of aid. Doctor, can I still be more powerful than I am now?",
-char_4019_ncdeer_CN_017,Added to Squad,"Worry not, I won't betray your trust.",
-char_4019_ncdeer_CN_018,Appointed as Squad Leader,Am I taking command? No problem.,
-char_4019_ncdeer_CN_019,Depart,"Don't worry, I'll bring everyone home safely.",
-char_4019_ncdeer_CN_020,Begin Operation,Don't separate. We meet the battlefield now.,
-char_4019_ncdeer_CN_021,Selecting Operator 1,I see them... an unknown enemy.,
-char_4019_ncdeer_CN_022,Selecting Operator 2,"Are these new orders? Mm, acknowledged.",
-char_4019_ncdeer_CN_023,Deployment 1,This... is the chill of the battlefield.,
-char_4019_ncdeer_CN_024,Deployment 2,I'm ready.,
-char_4019_ncdeer_CN_025,In Battle 1,"The mind is as truth, a mirror reflecting all ways.",
-char_4019_ncdeer_CN_026,In Battle 2,"A thought leaving reality, delusion in all cases.",
-char_4019_ncdeer_CN_027,In Battle 3,"Heaven and earth come alike, all beings come together.",
-char_4019_ncdeer_CN_028,In Battle 4,"Everything has its way, per flame and per current.",
-char_4019_ncdeer_CN_029,4-star Result,Mm... this battle was very smooth.,
-char_4019_ncdeer_CN_030,3-star Result,"Life is sincerely precious, but base and wicked life is punished in the end.",
-char_4019_ncdeer_CN_031,Sub 3-star Result,"You needn't be sad. Though there were slight faults, with a little more of a try, you will always succeed.",
-char_4019_ncdeer_CN_032,Operation Failure,"If it has no power, no one should be shown that mercy.",
-char_4019_ncdeer_CN_033,Assigned to Facility,What a strange place. So much I've never seen before.,
-char_4019_ncdeer_CN_034,Tap,"'Kindness' is something not to be exploited, Doctor.",
-char_4019_ncdeer_CN_036,Trust Tap,"Doctor, here's a scented tea for you. It'll perk you up.",
-char_4019_ncdeer_CN_037,Title,Arknights.,
-char_4019_ncdeer_CN_038,New Year's blessing,"All in the past is like dream, like fire, like moons, like smoke. Like the reflection in a mirror, like the abyss of the void. But all things bloom and blossom in the wonderful years of life. Good work in the past year, Doctor, and may all things in the next one be auspicious and prosperous.",
-char_4019_ncdeer_CN_042,Greeting,"You seem very energetic, Doctor.",
-char_4019_ncdeer_CN_043,Birthday,"See the way of all beings, and all takes on the true aspect. The aspect without self, the aspect without all life, and so all life's aspect is found in one, and one becomes with heaven and earth from the day they are born. What does your birthday symbolize, Doctor?",
-char_4019_ncdeer_CN_044,Anniversary Celebration,"Blessed are those who give to the world. The blessings you give to the world will come back to you. May you continue to lead Rhodes Island forward, Doctor.",
+id,title,original,original_zh,translation
+char_4019_ncdeer_CN_001,Appointed as Assistant,"The files that needed sorting have all been put away. I hope it'll help reduce some of your pressure, Doctor.",需要整理的资料都已经放好了，希望可以帮博士您减少一些压力。,"Все документы, которые нужно было разобрать, уже на местах. Надеюсь, это немного снимет вашу нагрузку, Доктор."
+char_4019_ncdeer_CN_002,Talk 1,"The atmosphere in here is duly soothing, much like my mountain forest. Doctor, you're free to come play when you're not busy.",这里的氛围让人感到十分放松，就像是我的山林。博士，您在空余时间可以来玩哦。,"Здесь очень спокойная атмосфера — как в моих горах и лесах. Доктор, заходите ко мне, когда будете свободны."
+char_4019_ncdeer_CN_003,Talk 2,"I've talked a lot with the Medical Department's operators, and now I can understand what everyone's goal is. Doctor, allow me to rescue this land together with you.",和医疗部的干员们聊了很多，现在我能理解大家的目标了。博士，请让我和您一起拯救这片大地。,"Я много говорила с оперативниками из медотдела, и теперь понимаю, к чему вы все стремитесь. Доктор, позвольте мне вместе с вами спасать эту землю."
+char_4019_ncdeer_CN_004,Talk 3,"This herbal pill... it's fine work. Myrrh's combined the properties of the medicinals and processed them in a special way. Hmm... I've never attempted such a manner of processing myself. In a little while, I'll see about learning from Myrrh.",这种草药丸……很不错，末药小姐结合了药材的特性做了特殊的加工处理。嗯……从没尝试过这种加工方式，稍后我会找末药小姐学习一下。,Эти травяные пилюли... очень хороши. Мисс Мирра учла свойства трав и обработала их особым способом. Мм... я никогда не пробовала такой обработки — позже схожу к мисс Мирре поучиться.
+char_4019_ncdeer_CN_005,Talk after Promotion 1,"Aid and sanctuary are unalike. The former cures the body, the latter saves the soul.",救援与庇护是不同的，前者治愈身体，后者拯救灵魂。,"Помощь и приют — не одно и то же: первая исцеляет тело, второй спасает душу."
+char_4019_ncdeer_CN_006,Talk after Promotion 2,"To live is an endless cycle, reaping what one sows, all beings beholden to this. I imagine you can understand, having been through so much. Leaving your own memories behind in a different incarnation, constructing your own view of the outside world; that is the purpose of this life.",生命是无尽的轮回，自业自得果，众生皆如是。您经历了这么多，应该能理解吧。在不同的轮回中留下自己的记忆，构建自己对外界的看法，才是这一世的用意。,"Жизнь — бесконечный круг перерождений: каждый пожинает то, что посеял, и так со всеми существами. Вы столько пережили — должно быть, понимаете. Оставлять свои воспоминания в разных воплощениях и складывать собственное представление о мире — в этом и смысл нынешней жизни."
+char_4019_ncdeer_CN_007,Talk after Trust Increase 1,"These pills have not just the aroma of tea, but all sorts of flowers too. Many patients consider herbal pills bitter, so I've put my mind to diminishing that bitterness. I hope... the people of Rhodes Island won't dislike this flavor.",这些药丸除了茶香味，还有各种花香口味的。很多患者觉得草药丸很苦，所以我想办法把苦味降低了。希望……罗德岛的大家不会讨厌这个味道。,"У этих пилюль не только чайный аромат, но и разные цветочные отдушки. Многие пациенты находят травяные пилюли горькими, поэтому я постаралась уменьшить горечь. Надеюсь... всем на Родосе этот вкус не противен."
+char_4019_ncdeer_CN_008,Talk after Trust Increase 2,"I very much agree with the tea here, its aroma calm, its true flavor apparent. As with tea, so with man. In this dwelling, those irrelevant rumors can be kept away; it's a rare place of respite.",这里的茶很合我意，茶香沉稳，更见真味。茶如此，人亦然，在这居住能避开那些闲言碎语，难得的宁静之地。,"Здешний чай мне очень по душе: аромат глубокий, и вкус настоящий. Так и с людьми. Живя здесь, можно уйти от сплетен — редкое тихое место."
+char_4019_ncdeer_CN_009,Talk after Trust Increase 3,"Doctor, the operators can have the dishes labelled with my name to eat, as well as some bottles of drinks I made myself. Everyone's been to truly tiresome lengths as of recent, and I wanted to do a thing or two to help alleviate their fatigue...",博士，贴着我名字的菜品可以让干员拿去吃哦，还有几瓶我自己做的饮料。最近看大家工作实在太辛苦了，所以我也想做点什么帮他们缓解疲劳……,"Доктор, блюда с моим именем оперативники могут смело забирать — ещё есть несколько бутылок напитков, которые я сделала сама. В последнее время все так тяжело работают, что мне тоже захотелось чем-то помочь им снять усталость..."
+char_4019_ncdeer_CN_010,Idle,Are you tired? Rest well for a while. Don't worry; I'll protect you.,您累了吗？好好休息一下吧，不用担心，我会保护您。,Вы устали? Отдохните хорошенько. Не волнуйтесь — я вас защищу.
+char_4019_ncdeer_CN_011,Onboard,"It's nice to meet you; I'm Nine-Colored Deer. Hm? Are these motifs so beautiful? Th-Thank you... please, observe them as you like.",初次见面，我是九色鹿。嗯？这个花纹很好看吗？谢，谢谢……以后请多多关照了。,"Приятно познакомиться, я Девятицветный Олень. Мм? Этот узор красивый? С-спасибо... Прошу относиться ко мне хорошо."
+char_4019_ncdeer_CN_012,Watching Battle Record,May I go with you next time? I want to ensure everyone's safety.,下次可以让我和您一起去吗，我想要保护大家的安全。,Можно мне в следующий раз пойти с вами? Я хочу беречь безопасность всех.
+char_4019_ncdeer_CN_013,Promotion 1,"You've endorsed me? So I have been of help to you, then. Wonderful...",您认同我了吗？原来我真的有帮到各位，太好了……,"Вы одобрили меня? Значит, я и правда помогла вам — как хорошо..."
+char_4019_ncdeer_CN_014,Promotion 2,"The things I've learned may save many, but there remain yet more in need of aid. Doctor, can I still be more powerful than I am now?",现在学到的东西已经可以拯救很多人了，但还有更多人需要帮助。博士，我还能变得更强吗？,"Того, чему я научилась, уже хватает, чтобы спасти многих, но есть ещё люди, которым нужна помощь. Доктор, могу ли я стать сильнее?"
+char_4019_ncdeer_CN_017,Added to Squad,"Worry not, I won't betray your trust.",放心，不会辜负您的信赖。,"Не волнуйтесь, я не подведу ваше доверие."
+char_4019_ncdeer_CN_018,Appointed as Squad Leader,Am I taking command? No problem.,我来指挥？没问题哦。,Мне командовать? Конечно.
+char_4019_ncdeer_CN_019,Depart,"Don't worry, I'll bring everyone home safely.",不用担心，我会让大家平安归来。,"Не волнуйтесь, я верну всех целыми."
+char_4019_ncdeer_CN_020,Begin Operation,Don't separate. We meet the battlefield now.,不要分散，接下来就是战场了。,Не рассыпайтесь — впереди поле боя.
+char_4019_ncdeer_CN_021,Selecting Operator 1,I see them... an unknown enemy.,看到了……未知的敌人。,Вижу... неизвестного врага.
+char_4019_ncdeer_CN_022,Selecting Operator 2,"Are these new orders? Mm, acknowledged.",这是新的指令？嗯，我收到了。,"Это новые приказы? Мм, я приняла."
+char_4019_ncdeer_CN_023,Deployment 1,This... is the chill of the battlefield.,这是……战场的寒意。,Это... холод поля боя.
+char_4019_ncdeer_CN_024,Deployment 2,I'm ready.,准备好了。,Я готова.
+char_4019_ncdeer_CN_025,In Battle 1,"The mind is as truth, a mirror reflecting all ways.",以心为宗，镜照万法。,"Сердце — основа, зеркало отражает все дхармы."
+char_4019_ncdeer_CN_026,In Battle 2,"A thought leaving reality, delusion in all cases.",一念离真，皆为妄想。,Одна мысль в стороне от истины — уже заблуждение.
+char_4019_ncdeer_CN_027,In Battle 3,"Heaven and earth come alike, all beings come together.",天地化相，万物相合。,"Небо и земля являют образы, все существа соединяются."
+char_4019_ncdeer_CN_028,In Battle 4,"Everything has its way, per flame and per current.",一切皆有法，如焰亦如电。,"Всему есть свой закон — как пламени, как молнии."
+char_4019_ncdeer_CN_029,4-star Result,Mm... this battle was very smooth.,嗯……这次的战斗很顺利。,Мм... этот бой прошёл гладко.
+char_4019_ncdeer_CN_030,3-star Result,"Life is sincerely precious, but base and wicked life is punished in the end.",生命诚可贵，但卑鄙和邪恶的生命终究要受到惩罚。,"Жизнь действительно драгоценна, но подлая и злая жизнь в конце концов понесёт наказание."
+char_4019_ncdeer_CN_031,Sub 3-star Result,"You needn't be sad. Though there were slight faults, with a little more of a try, you will always succeed.",不必难过，虽然这次小有失误，再努力一下吧，总会成功的。,"Не печальтесь: была небольшая оплошность — постарайтесь ещё, и всё получится."
+char_4019_ncdeer_CN_032,Operation Failure,"If it has no power, no one should be shown that mercy.",如果没有力量，就不要对任何人都慈悲。,"Если нет силы, не проявляйте милосердия ни к кому."
+char_4019_ncdeer_CN_033,Assigned to Facility,What a strange place. So much I've never seen before.,很奇妙的地方呢，有很多没见过的东西。,"Удивительное место — столько вещей, которых я раньше не видела."
+char_4019_ncdeer_CN_034,Tap,"'Kindness' is something not to be exploited, Doctor.",“善良”是不可以被利用的哦，博士。,"«Доброту» нельзя использовать в своих целях, Доктор."
+char_4019_ncdeer_CN_036,Trust Tap,"Doctor, here's a scented tea for you. It'll perk you up.",博士，这是给您的花茶，有提神的功效哦。,"Доктор, это цветочный чай для вас — он бодрит."
+char_4019_ncdeer_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_4019_ncdeer_CN_038,New Year's blessing,"All in the past is like dream, like fire, like moons, like smoke. Like the reflection in a mirror, like the abyss of the void. But all things bloom and blossom in the wonderful years of life. Good work in the past year, Doctor, and may all things in the next one be auspicious and prosperous.",过去的一切如梦如焰、如月如烟。如镜中像、如虚空渊。但万物皆生花，摇曳如芳华。上一年辛苦了，博士，祝您在新的一年里事事皆吉祥。,"Всё прошлое — как сон, как пламя, как луна, как дым. Как отражение в зеркале, как бездна пустоты. Но всё расцветает и колышется, как цветы. Вы очень старались в прошлом году, Доктор. Желаю вам, чтобы в новом году всё было благостно."
+char_4019_ncdeer_CN_042,Greeting,"You seem very energetic, Doctor.",看起来很精神呢，博士。,"Вы выглядите бодро, Доктор."
+char_4019_ncdeer_CN_043,Birthday,"See the way of all beings, and all takes on the true aspect. The aspect without self, the aspect without all life, and so all life's aspect is found in one, and one becomes with heaven and earth from the day they are born. What does your birthday symbolize, Doctor?",识万物之法，皆为真实相。无我相，无众生相，众生所相为一人，人自生时化天地。博士，你的生日，意味着什么呢？,"Познай закон всех вещей — и узришь истинный облик. Нет облика «я», нет облика «существ»; облик всех существ — в одном человеке, а человек с рождения превращается в небо и землю. Доктор, что означает ваш день рождения?"
+char_4019_ncdeer_CN_044,Anniversary Celebration,"Blessed are those who give to the world. The blessings you give to the world will come back to you. May you continue to lead Rhodes Island forward, Doctor.",居所置宁处，往来有福德。福者，能为世间做诸事明。仁施济众，所积福业，终有善还。博士，请继续引领罗德岛前行。,"Живи в тихом месте — и общение принесёт благодать. Благодать — это когда можешь совершать добрые дела для мира. Сострадательные дела и накопленная заслуга непременно вернутся добром. Доктор, продолжайте вести Родос вперёд."

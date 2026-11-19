@@ -1,39 +1,39 @@
-id,title,original,translation
-char_235_jesica_CN_001,Appointed as Assistant,I-Is there anything I can help with? Just say the word and I can do it.,
-char_235_jesica_CN_002,Talk 1,"Franka and Liskarm are so incredible! I really admire them. I want to become as great as they are someday. I can... I can do it! Will you help me, Doctor?",
-char_235_jesica_CN_003,Talk 2,"Um, I heard word that Vanilla's here too? She was in my squad when she first joined Blacksteel. We went on missions together! She's become such a reliable Operator now... but I'm still just me...",
-char_235_jesica_CN_004,Talk 3,"Dr. {@nickname}, do I come off as... spineless? I know I shouldn't let people walk all over me... I'm trying to change...",
-char_235_jesica_CN_005,Talk after Promotion 1,"Sometimes I feel like I'm back in Blacksteel, even after going through so much with Rhodes Island. I'm not the old me anymore, either... it's weird. Is it because I miss how it was back then? No, no. I don't miss the person I used to be, I know that for sure...",
-char_235_jesica_CN_006,Talk after Promotion 2,"Hard work doesn't mean anything without results. That's what I think at least! That's why I don't want anyone to see me training alone. Having you, though... it's really comforting when you're with me, for some reason.",
-char_235_jesica_CN_007,Talk after Trust Increase 1,"I pulled a muscle training a couple days ago... but don't worry, I-I'm okay! Urk...! I won't let this get in the way of you or anyone at Rhodes Island, Doctor!",
-char_235_jesica_CN_008,Talk after Trust Increase 2,"Freeze, hands in the air! Oh, did I scare you? I'm sorry, it's just Franka told me to be bold and assertive, and I only wanted to try it out... I'm really sorry...",
-char_235_jesica_CN_009,Talk after Trust Increase 3,"Everyone at Blacksteel and Rhodes Island is so amazing and talented. I know I'm nothing compared to them... but, still, just every once in a while, I really like it when I get compliments...",
-char_235_jesica_CN_010,Idle,"Doctor... Doctor? Are you sleeping? I'll clean your desk up for you, then...",
-char_235_jesica_CN_011,Onboard,"Um, are you Dr. {@nickname}? Nice to meet you. I'm Jessica from Blacksteel Worldwide. Sorry... I'm really bad at introducing myself...",
-char_235_jesica_CN_012,Watching Battle Record,This seems a lot more effective than training by myself.,
-char_235_jesica_CN_013,Promotion 1,"Doctor... I'm... I'm so happy you're honoring me... Just... let me cry it out for a bit, I'll be fine...",
-char_235_jesica_CN_014,Promotion 2,"Ah, Doctor, does this mean you think I'm a great Operator? Thank you so much for all your help. You were by my side all the way...!",
-char_235_jesica_CN_017,Added to Squad,Just give your orders and I'll carry them out!,
-char_235_jesica_CN_018,Appointed as Squad Leader,I won't let you down!,
-char_235_jesica_CN_019,Depart,Stay focused... look straight ahead.,
-char_235_jesica_CN_020,Begin Operation,I'll definitely prove myself this time!,
-char_235_jesica_CN_021,Selecting Operator 1,Standing by...,
-char_235_jesica_CN_022,Selecting Operator 2,Haah?,
-char_235_jesica_CN_023,Deployment 1,Ughh...,
-char_235_jesica_CN_024,Deployment 2,All right...,
-char_235_jesica_CN_025,In Battle 1,Y- you'll pay for that!,
-char_235_jesica_CN_026,In Battle 2,Freeze!,
-char_235_jesica_CN_027,In Battle 3,Not one step backward.,
-char_235_jesica_CN_028,In Battle 4,I'll show them what I can do!,
-char_235_jesica_CN_029,4-star Result,I'm going to climb to the top of the mountain. I won't stop halfway!,
-char_235_jesica_CN_030,3-star Result,I... I really did it? I managed to protect everyone by myself?,
-char_235_jesica_CN_031,Sub 3-star Result,I could do better. I can't get complacent just because we won!,
-char_235_jesica_CN_032,Operation Failure,Requesting medevac! I dragged everyone down... it's all my fault! Sorry! I'm sorry!,
-char_235_jesica_CN_033,Assigned to Facility,I wonder if the people at Rhodes Island are nice...?,
-char_235_jesica_CN_034,Tap,Where are we going...?,
-char_235_jesica_CN_036,Trust Tap,I can do a little cooking...,
-char_235_jesica_CN_037,Title,Arknights.,
-char_235_jesica_CN_038,New Year's blessing,"Uh... S-Sorry, Doctor. I think I pushed myself too hard. My hands won't stop shaking... But I can hang these balloons on my own, no problem! Alright... Happy New Year, Doctor.",
-char_235_jesica_CN_042,Greeting,"Good morning, doctor...",
-char_235_jesica_CN_043,Birthday,"Happy birthday, Doctor! Sorry… I can't make anything myself, so I had to buy you a gift… It's too expensive? It could pay for a whole month of training? B-But isn't that pretty normal for a gift?",
-char_235_jesica_CN_044,Anniversary Celebration,"Back at those Blacksteel ceremonies, when we all got to meet the really highly-decorated mercs, I would find myself wondering if I could ever match them… But since coming to Rhodes Island, I'm always thinking about how much I'd like to go on the really tough missions with the senior operators.",
+id,title,original,original_zh,translation
+char_235_jesica_CN_001,Appointed as Assistant,I-Is there anything I can help with? Just say the word and I can do it.,有，有什么我可以帮忙的事情吗？直接吩咐我就好了。,"Е-есть ли что, чем я могу помочь? Только скажите слово — и я сделаю."
+char_235_jesica_CN_002,Talk 1,"Franka and Liskarm are so incredible! I really admire them. I want to become as great as they are someday. I can... I can do it! Will you help me, Doctor?",芙兰卡前辈和雷蛇前辈，都是我憧憬的对象，我也想成为像她们那样优秀的人……我会更加努力的！博士，您会帮我吗？,"Франка и Лискарм — мои кумиры. Я хочу стать такой же выдающейся, как они... Я постараюсь! Доктор, вы поможете мне?"
+char_235_jesica_CN_003,Talk 2,"Um, I heard word that Vanilla's here too? She was in my squad when she first joined Blacksteel. We went on missions together! She's become such a reliable Operator now... but I'm still just me...",那个，听说香草也在这里？她来黑钢实习的时候在我的小队里，我们一起行动过，如今她也成为可靠的队友了，我却还没有……,"Э-э, я слышала, Ванилла тоже здесь? Когда она пришла стажироваться в Блэкстил, мы были в одном отряде и ходили на задания вместе! Теперь она стала таким надёжным оперативником... а я всё ещё я..."
+char_235_jesica_CN_004,Talk 3,"Dr. {@nickname}, do I come off as... spineless? I know I shouldn't let people walk all over me... I'm trying to change...",Dr.{@nickname}，我是不是看起来没有什么威严呢？其实我也有自觉的，也想要做出改变……,"Dr.{@nickname}, я кажусь вам... безвольной? Я-то понимаю, что не должна позволять себя топтать... Я стараюсь измениться..."
+char_235_jesica_CN_005,Talk after Promotion 1,"Sometimes I feel like I'm back in Blacksteel, even after going through so much with Rhodes Island. I'm not the old me anymore, either... it's weird. Is it because I miss how it was back then? No, no. I don't miss the person I used to be, I know that for sure...",有的时候觉得自己还在黑钢，明明已经在罗德岛经历了这么多事情，我也不是过去的我了，真奇怪……是我太想念以前的日子了吗？但是我可一点都不想念过去的自己。,"Иногда мне кажется, что я всё ещё в Блэкстиле — хотя на Родосе со мной столько всего случилось, и я уже не та, что раньше... Странно. Это потому, что я скучаю по тем дням? Нет-нет, я ни чуть не скучаю по себе прежней."
+char_235_jesica_CN_006,Talk after Promotion 2,"Hard work doesn't mean anything without results. That's what I think at least! That's why I don't want anyone to see me training alone. Having you, though... it's really comforting when you're with me, for some reason.",没有成果的话，努力的过程就没有意义，至少我是这么想的。所以我不想被人看见我独自训练的样子。但有Dr.{@nickname}陪在身边，我又觉得很安心……,"Без результатов старания ничего не значат — по крайней мере, я так думаю! Поэтому я не хочу, чтобы меня видели, когда я тренируюсь одна. А когда рядом Dr.{@nickname}, мне почему-то очень спокойно..."
+char_235_jesica_CN_007,Talk after Trust Increase 1,"I pulled a muscle training a couple days ago... but don't worry, I-I'm okay! Urk...! I won't let this get in the way of you or anyone at Rhodes Island, Doctor!",前几天训练时不小心拉伤了肌肉，没关系的请不、不要担心！嘶……我不会给您和罗德岛的大家添麻烦的！,"На днях на тренировке я немного потянула мышцу — ничего, правда, п-пожалуйста, не волнуйтесь! Ай...! Я не подведу вас и всех на Родосе, Доктор!"
+char_235_jesica_CN_008,Talk after Trust Increase 2,"Freeze, hands in the air! Oh, did I scare you? I'm sorry, it's just Franka told me to be bold and assertive, and I only wanted to try it out... I'm really sorry...",站住别动，举起手来！……呃，吓到您了吗，芙兰卡前辈告诉我说话要有底气，我只是想尝试一下，对不起……,"Стой, не двигайся, руки вверх!.. Эх, я вас напугала? Франка говорила, надо говорить уверенно, я только хотела попробовать... Простите..."
+char_235_jesica_CN_009,Talk after Trust Increase 3,"Everyone at Blacksteel and Rhodes Island is so amazing and talented. I know I'm nothing compared to them... but, still, just every once in a while, I really like it when I get compliments...",不论是在黑钢还是在罗德岛，优秀的人都太多了，我很清楚自己的实力与前辈们之间的差距……不过如果您偶尔夸奖我一下，我还是会开心的……,"И в Блэкстиле, и на Родосе столько замечательных людей — я знаю, какая пропасть между мной и старшими... Но если вы иногда похвалите меня, я буду очень рада..."
+char_235_jesica_CN_010,Idle,"Doctor... Doctor? Are you sleeping? I'll clean your desk up for you, then...",博士，博士？睡着了吗？我帮您把办公桌收拾一下哦。,Доктор... Доктор? Вы спите? Тогда я уберу ваш стол...
+char_235_jesica_CN_011,Onboard,"Um, are you Dr. {@nickname}? Nice to meet you. I'm Jessica from Blacksteel Worldwide. Sorry... I'm really bad at introducing myself...",请问是Dr.{@nickname}吗……您好，我是黑钢国际的杰西卡，我，我不太擅长自我介绍，呜……,"Простите, вы Dr. {@nickname}? Здравствуйте, я Джессика из Блэкстила. Я... я очень плохо умею себя представлять, ух..."
+char_235_jesica_CN_012,Watching Battle Record,This seems a lot more effective than training by myself.,这样好像要比独自训练的收获更多一些？,"Похоже, так я учусь куда лучше, чем когда тренируюсь одна?"
+char_235_jesica_CN_013,Promotion 1,"Doctor... I'm... I'm so happy you're honoring me... Just... let me cry it out for a bit, I'll be fine...",得到您的认可我、我有点开心，我稍微哭一下，就一下，呜……,"Я... я так рада, что вы меня отметили... Позвольте мне немного поплакать, всего чуть-чуть, ух..."
+char_235_jesica_CN_014,Promotion 2,"Ah, Doctor, does this mean you think I'm a great Operator? Thank you so much for all your help. You were by my side all the way...!",啊，博士，我已经成为优秀的干员了吗？谢谢您一直以来都陪在我身边，正因为这样，我才能坚持下来……！,"Ах, Доктор, это значит — вы считаете, что я стала хорошим оперативником? Спасибо, что всё это время были рядом... именно поэтому я и выдержала...!"
+char_235_jesica_CN_017,Added to Squad,Just give your orders and I'll carry them out!,请下指令，我会好好执行！,Отдайте приказ — и я его точно выполню!
+char_235_jesica_CN_018,Appointed as Squad Leader,I won't let you down!,我一定……不会辜负您的信任。,Я обязательно... не подведу ваше доверие.
+char_235_jesica_CN_019,Depart,Stay focused... look straight ahead.,集中精神……直视前方。,Сосредоточиться... смотреть прямо вперёд.
+char_235_jesica_CN_020,Begin Operation,I'll definitely prove myself this time!,这次我要证明自己……！,В этот раз я себя докажу...!
+char_235_jesica_CN_021,Selecting Operator 1,Standing by...,待命中……,На связи...
+char_235_jesica_CN_022,Selecting Operator 2,Haah?,呜哇？！,Уааа?!
+char_235_jesica_CN_023,Deployment 1,Ughh...,呼……,Уф...
+char_235_jesica_CN_024,Deployment 2,All right...,好了……,Готово...
+char_235_jesica_CN_025,In Battle 1,Y- you'll pay for that!,不可原谅……！,Не прощу...!
+char_235_jesica_CN_026,In Battle 2,Freeze!,站住别动！,"Стой, не двигайся!"
+char_235_jesica_CN_027,In Battle 3,Not one step backward.,不会退缩。,Ни шагу назад.
+char_235_jesica_CN_028,In Battle 4,I'll show them what I can do!,我可不会手下留情！,Я не пощажу их!
+char_235_jesica_CN_029,4-star Result,I'm going to climb to the top of the mountain. I won't stop halfway!,山顶才是我的目标……可不能允许自己止步于山腰。,Вершина — моя цель... я не имею права останавливаться на полпути.
+char_235_jesica_CN_030,3-star Result,I... I really did it? I managed to protect everyone by myself?,我做到了……？我用自己的力量保护了大家吗？,У меня получилось...? Я и правда защитила всех своей силой?
+char_235_jesica_CN_031,Sub 3-star Result,I could do better. I can't get complacent just because we won!,这还不是最好的结果，不能因为这样的胜利而骄傲懈怠……,Это ещё не лучший результат — нельзя расслабляться из-за такой победы...
+char_235_jesica_CN_032,Operation Failure,Requesting medevac! I dragged everyone down... it's all my fault! Sorry! I'm sorry!,请求医疗支援！都是我拖累了大家……对不起、对不起、对不起！,"Вызываю медиков! Это я всех подвела... простите, простите, простите!"
+char_235_jesica_CN_033,Assigned to Facility,I wonder if the people at Rhodes Island are nice...?,罗德岛的大家好相处吗……？,"Интересно, легко ли ладить с людьми на Родосе...?"
+char_235_jesica_CN_034,Tap,Where are we going...?,要去哪里……,Куда мы идём...?
+char_235_jesica_CN_036,Trust Tap,I can do a little cooking...,料理的话我也是会做的……,Готовить я тоже умею немного...
+char_235_jesica_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_235_jesica_CN_038,New Year's blessing,"Uh... S-Sorry, Doctor. I think I pushed myself too hard. My hands won't stop shaking... But I can hang these balloons on my own, no problem! Alright... Happy New Year, Doctor.",呃——对、对不起，博士，我似乎有点训练过头了，手一直在发抖……但我自己就可以把这些气球挂上去的，没问题的！……好了，博士，新年快乐。,"Э-э... п-простите, Доктор, я, кажется, слишком усердствовала на тренировке — руки всё дрожат... Но я и сама могу повесить эти шары, правда!.. Готово. Доктор, с Новым годом."
+char_235_jesica_CN_042,Greeting,"Good morning, doctor...",早上好……,Доброе утро...
+char_235_jesica_CN_043,Birthday,"Happy birthday, Doctor! Sorry… I can't make anything myself, so I had to buy you a gift… It's too expensive? It could pay for a whole month of training? B-But isn't that pretty normal for a gift?",博士，生日快乐……！对不起，我自己不会做什么东西，所以给您的礼物是买来的……太昂贵了？能抵训练场一个月的消耗？这、这就是标准的礼物规格呀……,"Доктор, с днём рождения...! Простите, я сама ничего не умею сделать, поэтому подарок купленный... Слишком дорогой? Он стоит как месяц тренировок? Т-Такой и должен быть подарок..."
+char_235_jesica_CN_044,Anniversary Celebration,"Back at those Blacksteel ceremonies, when we all got to meet the really highly-decorated mercs, I would find myself wondering if I could ever match them… But since coming to Rhodes Island, I'm always thinking about how much I'd like to go on the really tough missions with the senior operators.",黑钢的庆典上，大家能认识受表彰的优秀佣兵，那时我在想，我真的有可能追上他们吗？……不过，来到罗德岛之后，我更多地会想，要是能像前辈一样参加最困难的任务就好了……,"На церемониях Блэкстила, когда мы встречали особенно отмеченных наёмников, я всё думала: а смогу ли я когда-нибудь догнать их?.. А после Родоса я всё чаще думаю о другом — как бы мне тоже пойти на самые трудные задания вместе со старшими..."

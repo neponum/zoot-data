@@ -1,35 +1,35 @@
-id,title,original,translation
-char_212_ansel_CN_001,Appointed as Assistant,"Doctor, it's time for your injection. Oh, um, are you alright?! Are you scared of needles?",
-char_212_ansel_CN_002,Talk 1,"Like Dr. Kal'tsit is always telling you, Doctor, you really need some exercise. I'm new here, but you still need to listen to my advice.",
-char_212_ansel_CN_003,Talk 2,"Cardigan! We've told you, if you move like that when you strike, you'll wind up getting hurt.",
-char_212_ansel_CN_004,Talk 3,"Good grief... Doctor, you need to take care of yourself. You can't make us do it for you.",
-char_212_ansel_CN_005,Talk after Promotion 1,"Are you worried about my health after so many night shifts? You shouldn't be. My race has a unique way of producing hormones, which allows us to handle night activities better. So I can hand my shift over to Hibiscus at just the right time.",
-char_212_ansel_CN_007,Talk after Trust Increase 1,"You must stop with the midnight snacks. Don't go bringing up my eating habits. I eat at night because of my race! Yes, it's a racial trait!",
-char_212_ansel_CN_008,Talk after Trust Increase 2,"I'm Ansel. It's a little embarrassing to admit, but I chose to become a Medic because I've been sickly since I was young. But now that I'm an Operator, I'll make sure not to burden you. So please treat me just the same way you treat the others.",
-char_212_ansel_CN_009,Talk after Trust Increase 3,"I know everyone does what they can. But I heard from Dr. Kal'tsit that Steward and Melantha's conditions aren't looking too good... My job is to make their lives as easy as possible. Doctor, let's redouble our efforts, together.",
-char_212_ansel_CN_010,Idle,"Adnachiel, could you ask Cardigan to settle down for a moment? The Doctor is resting.",
-char_212_ansel_CN_011,Onboard,"I am Ansel, a medical intern. I'll be assisting with surgery and internal medicine, among other things. I look forward to working with you.",
-char_212_ansel_CN_012,Watching Battle Record,I hope I didn't cause you any trouble.,
-char_212_ansel_CN_013,Promotion 1,I'm glad that you care so much for the wellbeing of us Medics.,
-char_212_ansel_CN_017,Added to Squad,Ready whenever.,
-char_212_ansel_CN_018,Appointed as Squad Leader,Medical support should be the top priority for any tactical squad.,
-char_212_ansel_CN_019,Depart,"Alright, all medicine has been prepared.",
-char_212_ansel_CN_020,Begin Operation,Injections ready. Prepare for battle.,
-char_212_ansel_CN_021,Selecting Operator 1,First aid box is ready.,
-char_212_ansel_CN_022,Selecting Operator 2,Awaiting your orders.,
-char_212_ansel_CN_023,Deployment 1,Ready to heal!,
-char_212_ansel_CN_024,Deployment 2,Please hold on!,
-char_212_ansel_CN_025,In Battle 1,Clear!,
-char_212_ansel_CN_026,In Battle 2,Your medication is here. Take it!,
-char_212_ansel_CN_029,4-star Result,"Phew, thank goodness I brought enough medicine. Please don't worry.",
-char_212_ansel_CN_030,3-star Result,I was very impressed by everyone's performance. It was fantastic.,
-char_212_ansel_CN_031,Sub 3-star Result,"Please hold on, I'll treat your injuries right away.",
-char_212_ansel_CN_032,Operation Failure,We've sustained injuries! I need to get the wounded to the rear. Cover me!,
-char_212_ansel_CN_033,Assigned to Facility,I'm checking on the medical supplies here.,
-char_212_ansel_CN_034,Tap,"Whoa, Doctor, please don't mess with me!",
-char_212_ansel_CN_036,Trust Tap,"Doctor, I'm very glad that you like me.",
-char_212_ansel_CN_037,Title,Arknights.,
-char_212_ansel_CN_038,New Year's blessing,"The Medical Department actually gets <i>busier</i> around New Year's. People hurt themselves setting off fireworks or gorging on food... I get wanting to indulge in the holiday spirit, but you need to keep yourselves safe too. You know how to take care of yourself, Doctor, don't you? Very well. With that, I wish you happy new year. May you spend the year without that kind of visit to Medical.",
-char_212_ansel_CN_042,Greeting,"Good day, Doctor.",
-char_212_ansel_CN_043,Birthday,"Doctor, good evening. It's just past midnight, so I think it counts as your birthday. Happy birthday to you! I got you a cake, but my advice is to wait till tomorrow to eat it. Oh, come to think of it, does this make me the first to wish you a happy birthday?",
-char_212_ansel_CN_044,Anniversary Celebration,"I only came to Rhodes Island at first because no other place would accept my resume. It seems more like a kind of destiny now. All of A4 are maturing, and I can't fall behind, Doctor. The good news is, test results show my health condition has gotten a lot better over the last year.",
+id,title,original,original_zh,translation
+char_212_ansel_CN_001,Appointed as Assistant,"Doctor, it's time for your injection. Oh, um, are you alright?! Are you scared of needles?",博士，打针时间到了哦。呃，您、您没事吧！难道您晕针吗？,"Доктор, пора делать укол. Э-э, вы... вы в порядке?! Неужели вы боитесь игл?"
+char_212_ansel_CN_002,Talk 1,"Like Dr. Kal'tsit is always telling you, Doctor, you really need some exercise. I'm new here, but you still need to listen to my advice.",就像凯尔希老师说的那样，博士您不锻炼一下是不行的。虽然我还是新人，但也请博士好好听我的话哟。,"Как и говорит доктор Кальцит, вам действительно нужно тренироваться. Я и новичок, но всё же прошу вас послушаться меня."
+char_212_ansel_CN_003,Talk 2,"Cardigan! We've told you, if you move like that when you strike, you'll wind up getting hurt.",卡缇！下次别再用那种攻击动作了，都说了这样会让你自己受伤的！,"Кардиган! Мы же говорили — если ты будешь бить так, то сама же и пострадаешь!"
+char_212_ansel_CN_004,Talk 3,"Good grief... Doctor, you need to take care of yourself. You can't make us do it for you.",真是的……博士，自己的身体，只有自己才能保护得好哦。,"Ох... Доктор, за своим телом нужно следить самому, других не заставишь это делать за тебя."
+char_212_ansel_CN_005,Talk after Promotion 1,"Are you worried about my health after so many night shifts? You shouldn't be. My race has a unique way of producing hormones, which allows us to handle night activities better. So I can hand my shift over to Hibiscus at just the right time.",您问我连续上夜班，身体吃得消吗？嗯，没问题的，我所属的种族，体内激素分泌的方式比较特别，比较利于我们在夜间活动。这样正好能和芙蓉小姐换班哟。,"Вы спрашиваете, выдержу ли я столько ночных смен? Всё в порядке: у моей расы особый способ выработки гормонов, который помогает нам быть активными ночью. Как раз удачно сменяться с Гибискус."
+char_212_ansel_CN_007,Talk after Trust Increase 1,"You must stop with the midnight snacks. Don't go bringing up my eating habits. I eat at night because of my race! Yes, it's a racial trait!",请一定要戒掉夜宵哦。也不要把我也吃夜宵当成借口。我在深夜吃东西是种族特性的缘故！对，就是种族特性！,"Пожалуйста, бросьте ночные перекусы. И не используйте меня как пример — я ем ночью из-за расовой особенности! Да, именно из-за расовой особенности!"
+char_212_ansel_CN_008,Talk after Trust Increase 2,"I'm Ansel. It's a little embarrassing to admit, but I chose to become a Medic because I've been sickly since I was young. But now that I'm an Operator, I'll make sure not to burden you. So please treat me just the same way you treat the others.",我是安赛尔。虽然有点不好意思，但我选择医学之路，是因为从小时候起，我的身体就很虚弱。但既然现在身为干员，就不能给雇主添麻烦。所以请像要求其他人那样对待我。,"Я — Ансель. Немного неловко признавать, но я выбрал медицину, потому что с детства был слабым. Но раз я теперь оперативник, не стоит создавать работодателю хлопот. Так что, пожалуйста, относитесь ко мне так же, как к остальным."
+char_212_ansel_CN_009,Talk after Trust Increase 3,"I know everyone does what they can. But I heard from Dr. Kal'tsit that Steward and Melantha's conditions aren't looking too good... My job is to make their lives as easy as possible. Doctor, let's redouble our efforts, together.",其实大家真的很努力了。不过听凯尔希老师说，史都华德和玫兰莎的状况都不太好……我的工作就是尽可能让他们没有后顾之忧。博士，一起加油吧。,"На самом деле все очень стараются. Но от доктора Кальцит я слышал, что у Стюарда и Меланты дела неважные... Моя работа — сделать так, чтобы у них не было лишних забот. Доктор, давайте вместе стараться."
+char_212_ansel_CN_010,Idle,"Adnachiel, could you ask Cardigan to settle down for a moment? The Doctor is resting.",安德切尔，能让卡缇稍微安静一下吗？博士休息了。,"Аднахиэль, можешь попросить Кардиган немного потише? Доктор отдыхает."
+char_212_ansel_CN_011,Onboard,"I am Ansel, a medical intern. I'll be assisting with surgery and internal medicine, among other things. I look forward to working with you.",我是实习医生安赛尔，今后将承担一些外科医疗方面的辅助工作，还请您多多指教。,"Я — Ансель, стажёр-медик. Буду помогать в хирургии и терапии — прошу вашего снисхождения."
+char_212_ansel_CN_012,Watching Battle Record,I hope I didn't cause you any trouble.,我没给您添麻烦就好。,Лишь бы я не доставил вам хлопот.
+char_212_ansel_CN_013,Promotion 1,I'm glad that you care so much for the wellbeing of us Medics.,您这样重视我们医疗干员的处境，我很高兴。,"Я рад, что вы так заботитесь о нас, медиках."
+char_212_ansel_CN_017,Added to Squad,Ready whenever.,我随时都可以哦。,Я готов в любой момент.
+char_212_ansel_CN_018,Appointed as Squad Leader,Medical support should be the top priority for any tactical squad.,医疗支援是战术小组应最优先考虑的事项。,Медицинская поддержка — главный приоритет любого тактического отряда.
+char_212_ansel_CN_019,Depart,"Alright, all medicine has been prepared.",好，战斗中用的药品都准备好了。,"Хорошо, лекарства для боя готовы."
+char_212_ansel_CN_020,Begin Operation,Injections ready. Prepare for battle.,注射针剂已经备好了。请做好开战前的准备。,Уколы готовы. Приготовьтесь к бою.
+char_212_ansel_CN_021,Selecting Operator 1,First aid box is ready.,急救箱已经准备好了。,Аптечка готова.
+char_212_ansel_CN_022,Selecting Operator 2,Awaiting your orders.,我在等待您的指示。,Жду ваших указаний.
+char_212_ansel_CN_023,Deployment 1,Ready to heal!,准备治疗！,Готов лечить!
+char_212_ansel_CN_024,Deployment 2,Please hold on!,请坚持住！,Держитесь!
+char_212_ansel_CN_025,In Battle 1,Clear!,清除！,Чисто!
+char_212_ansel_CN_026,In Battle 2,Your medication is here. Take it!,这是给你的药，请拿好！,"Вот ваше лекарство, возьмите!"
+char_212_ansel_CN_029,4-star Result,"Phew, thank goodness I brought enough medicine. Please don't worry.",呼——还好药品带够了。各位，请安心。,"Фух, хорошо, что лекарств хватило. Все, не волнуйтесь."
+char_212_ansel_CN_030,3-star Result,I was very impressed by everyone's performance. It was fantastic.,大家活跃的姿态，真的让我刮目相看，太棒了。,Ваша работа меня очень впечатлила — отлично.
+char_212_ansel_CN_031,Sub 3-star Result,"Please hold on, I'll treat your injuries right away.",受伤的人请稍等，我马上就去为你治疗。,"Раненые, подождите — я сейчас займусь вами."
+char_212_ansel_CN_032,Operation Failure,We've sustained injuries! I need to get the wounded to the rear. Cover me!,有人受伤了！我要把伤员搬回后方，请掩护我！,Кто-то ранен! Мне нужно отнести пострадавшего в тыл — прикройте меня!
+char_212_ansel_CN_033,Assigned to Facility,I'm checking on the medical supplies here.,我来检查一下这里的医药品储备情况。,Проверю здесь запас медикаментов.
+char_212_ansel_CN_034,Tap,"Whoa, Doctor, please don't mess with me!",哇，博士，请别捣乱啦！,"Ох, Доктор, не шалите, пожалуйста!"
+char_212_ansel_CN_036,Trust Tap,"Doctor, I'm very glad that you like me.",博士，您能喜欢我，我真的很高兴。,"Доктор, мне очень приятно, что вы меня любите."
+char_212_ansel_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_212_ansel_CN_038,New Year's blessing,"The Medical Department actually gets <i>busier</i> around New Year's. People hurt themselves setting off fireworks or gorging on food... I get wanting to indulge in the holiday spirit, but you need to keep yourselves safe too. You know how to take care of yourself, Doctor, don't you? Very well. With that, I wish you happy new year. May you spend the year without that kind of visit to Medical.",新年的时候，医疗部反而更加忙碌呢。有人放烟花时受了伤，有人是吃坏了肚子……想要享受节日的心情可以理解，但也一定要注意安全啊。博士，新年快乐。祝您今年不用到医疗部看病哦。,"К Новому году медотдел, напротив, становится <i>занятее</i>: кто-то пострадал на фейерверках, кто-то объелся... Понимаю желание отпраздновать, но всё же берегите себя. Доктор, с Новым годом! Желаю вам в этом году не заглядывать в медотдел."
+char_212_ansel_CN_042,Greeting,"Good day, Doctor.",您好，博士。,"Здравствуйте, Доктор."
+char_212_ansel_CN_043,Birthday,"Doctor, good evening. It's just past midnight, so I think it counts as your birthday. Happy birthday to you! I got you a cake, but my advice is to wait till tomorrow to eat it. Oh, come to think of it, does this make me the first to wish you a happy birthday?",博士，晚上好。现在刚过零点，应该也算到您的生日了吧。祝您生日快乐！我提前准备了蛋糕，但还是建议您明早再吃哦。啊，这样的话，我会不会是今天第一个祝您生日快乐的人呢？,"Добрый вечер, Доктор. Уже полночь — значит, можно считать, что наступил ваш день. С днём рождения! Я подготовил торт, но советую съесть его завтра. Ах, может, я первый поздравил вас сегодня?"
+char_212_ansel_CN_044,Anniversary Celebration,"I only came to Rhodes Island at first because no other place would accept my resume. It seems more like a kind of destiny now. All of A4 are maturing, and I can't fall behind, Doctor. The good news is, test results show my health condition has gotten a lot better over the last year.",虽然最初来到罗德岛，是因为只有这里通过了我的简历，现在看来更像是一种缘分呢。A4小队的大家都在成长，我也不能落下。博士，体检报告显示，过去一年里，我的身体健康了很多哦。,"Сначала я пришёл на Родос только потому, что больше никто не принял моё резюме. Теперь это кажется судьбой. Команда A4 растёт, и я не хочу отставать, Доктор. По итогам медосмотра за прошлый год моё здоровье заметно улучшилось."

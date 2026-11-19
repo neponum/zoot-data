@@ -1,39 +1,39 @@
-id,title,original,translation
-char_440_pinecn_CN_001,Appointed as Assistant,"Doctor? No, I wasn't taking a nap! I was... I was just spacing out!",
-char_440_pinecn_CN_002,Talk 1,"Is it raining outside? I used to really hate rainy days... Mud gets everywhere, and construction grinds to a halt. Dad would always come home late when it rained. But I always felt cozy when the rain let up and I'd stay inside, just like this.",
-char_440_pinecn_CN_003,Talk 2,"Back when I worked construction in Columbia, life was a real grind. I had to get up early every morning and go to bed late every night. Sometimes I'd be working overtime and suddenly realize I hadn't slept at all…",
-char_440_pinecn_CN_004,Talk 3,"Oh, Doctor, would you like to go for a walk together? Hm? Ahh...! Wh-Where's my tool bag...? Did I leave it at the construction site again? I-I'm sorry, wait a sec while I fetch it!",
-char_440_pinecn_CN_005,Talk after Promotion 1,"What I want to do...? Hmm... A steady job and an honest life would be enough for me. So why sign on to be an operator here? Well... The pay is a bit better, and the work isn't all that different... so I figured, why not give it a shot? I guess?",
-char_440_pinecn_CN_006,Talk after Promotion 2,"The Infected... There were plenty of Infected workers back in Columbia. Everyone warned me to keep my distance. But watching them work, I realized they're no different from the rest of us.",
-char_440_pinecn_CN_007,Talk after Trust Increase 1,"Oh... what the job Closure put me on again...? If I go back and ask her, I'll probably get an earful... Say, Doctor? Do you think you could help me out...?",
-char_440_pinecn_CN_008,Talk after Trust Increase 2,"My dad always says, studying hard is the key to a better life. Doctor, you know lots of stuff, right? Could you teach me something? I promise I won't zone out. Well, I'll try really hard, anyway.",
-char_440_pinecn_CN_009,Talk after Trust Increase 3,"I never used to think much about the future. I figured I'd just drift between odd jobs with the Pioneers, spending my life as a craftsman. But now... I really need to thank our friend—the big guy. I wouldn't have met you, if it wasn't for him... Uh... A-Anyway, I really appreciate what he did for me.",
-char_440_pinecn_CN_010,Idle,"Fwahh... I'm so tired... Maybe I'll take a little nap, just like the Doctor...",
-char_440_pinecn_CN_011,Onboard,Codename Pinecone... I'm starting at Rhodes Island today... Um... Have you seen my portable battery?,
-char_440_pinecn_CN_012,Watching Battle Record,Um... Umm... I don't get it...,
-char_440_pinecn_CN_013,Promotion 1,"Thank you, Doctor... But what should I do now? Oh... Do I just kinda do what the others do? Okey-dokey…",
-char_440_pinecn_CN_014,Promotion 2,"Hm...? Another promotion? Ehehe, you're awfully forgetful yourself, Doctor. Didn't you already give me a promot—This is a new one? Um... Okay. I'll follow your lead. So, when are we heading out?",
-char_440_pinecn_CN_017,Added to Squad,Time for work.,
-char_440_pinecn_CN_018,Appointed as Squad Leader,I guess it's like being a foreman at a construction site?,
-char_440_pinecn_CN_019,Depart,Um... Where are we going again...?,
-char_440_pinecn_CN_020,Begin Operation,It's the enemy! Don't hold back!,
-char_440_pinecn_CN_021,Selecting Operator 1,"Yes, I'm listening!",
-char_440_pinecn_CN_022,Selecting Operator 2,"What's the job, Doctor!",
-char_440_pinecn_CN_023,Deployment 1,"Here, right?",
-char_440_pinecn_CN_024,Deployment 2,I'll stay right here like a nail.,
-char_440_pinecn_CN_025,In Battle 1,Hyah!,
-char_440_pinecn_CN_026,In Battle 2,I still have lots of batteries on me!,
-char_440_pinecn_CN_027,In Battle 3,Pulling the trigger!,
-char_440_pinecn_CN_028,In Battle 4,Just like shooting nails at work!,
-char_440_pinecn_CN_029,4-star Result,"Phew... That was a lot harder than building a house. Doctor, it makes us kinda impressive, don't you think?",
-char_440_pinecn_CN_030,3-star Result,"That was perfect... Doctor, are you happy with how we did?",
-char_440_pinecn_CN_031,Sub 3-star Result,Hmm... Maybe I messed up the process...? I'm sorry. It didn't go as well as I'd hoped.,
-char_440_pinecn_CN_032,Operation Failure,Eh? Why are there sparks... S-Sorry... It's all my fault...,
-char_440_pinecn_CN_033,Assigned to Facility,"Okay, is there anything that needs maintenance?",
-char_440_pinecn_CN_034,Tap,Ah...!,
-char_440_pinecn_CN_036,Trust Tap,"Doctor, want to watch the rain together? There's not much to see, though...",
-char_440_pinecn_CN_037,Title,Arknights.,
-char_440_pinecn_CN_038,New Year's blessing,"Uh, since it's New Year's, I figured I'd give your office a little touch-up, Doctor... Yes, I cleaned up some wear marks and remade the wall decorations. Err, if—if you don't like it, I can take everything down right away...",
-char_440_pinecn_CN_042,Greeting,"Hello, Doctor.",
-char_440_pinecn_CN_043,Birthday,"Happy birthday, Doctor. Hope you have another year of steady employment as a doctor... Err, is that not your job? Okay, I hear you. So, uh... hope you have a year with less overtime. Mm-hm.",
-char_440_pinecn_CN_044,Anniversary Celebration,"Doctor, after listening to everyone's stories over dinner, I've been wondering... I feel like we're doing something epic, aren't we? So, would it be... inappropriate someways if I brought my parents to work at Rhodes Island?",
+id,title,original,original_zh,translation
+char_440_pinecn_CN_001,Appointed as Assistant,"Doctor? No, I wasn't taking a nap! I was... I was just spacing out!",博士？不，我没有打盹！只是……只是在愣神！,"Доктор? Нет, я не дремала! Я просто... просто задумалась!"
+char_440_pinecn_CN_002,Talk 1,"Is it raining outside? I used to really hate rainy days... Mud gets everywhere, and construction grinds to a halt. Dad would always come home late when it rained. But I always felt cozy when the rain let up and I'd stay inside, just like this.",外面下雨了吗？以前我可讨厌下雨天了……地上都是泥，还会影响施工，爸爸就要到很晚才会回来。不过雨后的天气都很舒适，像现在这样待在房间里的话，也挺不错的。,"Там дождь? Раньше я очень не любила дождливые дни... Везде грязь, стройка стоит, а папа в дождь всегда поздно возвращался. Но когда дождь заканчивается, погода такая приятная — вот как сейчас, посидеть в комнате и то хорошо."
+char_440_pinecn_CN_003,Talk 2,"Back when I worked construction in Columbia, life was a real grind. I had to get up early every morning and go to bed late every night. Sometimes I'd be working overtime and suddenly realize I hadn't slept at all…",在哥伦比亚当工人的时候，日子过得可辛苦了，每天早上都要起得很早，晚上要睡得很晚，有时候稍微加个班，回过神来就发现自己没空睡觉啦……,"Когда я работала на стройке в Колумбии, жилось тяжело: каждое утро вставать рано, каждую ночь ложиться поздно. Бывало, чуть переработаешь — и вдруг соображаешь, что совсем не спала..."
+char_440_pinecn_CN_004,Talk 3,"Oh, Doctor, would you like to go for a walk together? Hm? Ahh...! Wh-Where's my tool bag...? Did I leave it at the construction site again? I-I'm sorry, wait a sec while I fetch it!",啊，博士，要不要一起随便去哪儿逛逛？嗯？啊……！我、我的工具包呢……难道又被我忘在施工现场了？抱、抱歉，我去去就回！,"Ах, Доктор, не пойти ли нам погулять? Мм? Ах...! М-мой ящик с инструментами... Неужели опять забыла на стройке? П-простите, я сбегаю за ним!"
+char_440_pinecn_CN_005,Talk after Promotion 1,"What I want to do...? Hmm... A steady job and an honest life would be enough for me. So why sign on to be an operator here? Well... The pay is a bit better, and the work isn't all that different... so I figured, why not give it a shot? I guess?",想做的事情啊……有份稳定的工作，踏踏实实过日子就行了呗。那何必要成为干员？啊……因为这样薪水高一点，想了想好像也可以……没差吧。,"Чего я хочу?.. Мм... Мне бы постоянную работу и спокойную жизнь — и этого достаточно. Так зачем я стала оперативником? А... ну, жалованье тут побольше, и работа вроде не особенно другая... Я и подумала: почему бы не попробовать? Наверное."
+char_440_pinecn_CN_006,Talk after Promotion 2,"The Infected... There were plenty of Infected workers back in Columbia. Everyone warned me to keep my distance. But watching them work, I realized they're no different from the rest of us.",感染者……在哥伦比亚，感染者工人也有不少……大家都说要远离他们，不过看他们做活的模样，也没什么差别嘛。,"Инфицированные... В Колумбии их среди рабочих было немало. Все говорили, что надо держаться от них подальше. Но я посмотрела, как они работают, — и никакой разницы не увидела."
+char_440_pinecn_CN_007,Talk after Trust Increase 1,"Oh... what the job Closure put me on again...? If I go back and ask her, I'll probably get an earful... Say, Doctor? Do you think you could help me out...?",啊……我忘记了可露希尔小姐交代的工作是什么了……是什么呢……回去问的话肯定会挨骂吧……不如，博士？你帮帮我呗……？,"Ах... я опять забыла, что мне велела сделать мисс Кложер... Если пойду спросить, меня наверняка отругают... Скажите, Доктор, вы мне поможете...?"
+char_440_pinecn_CN_008,Talk after Trust Increase 2,"My dad always says, studying hard is the key to a better life. Doctor, you know lots of stuff, right? Could you teach me something? I promise I won't zone out. Well, I'll try really hard, anyway.",爸爸以前也总是说，我们要多多学习才能有更好的生活，博士，你懂的很多对吧？能不能教教我？我尽量不犯迷糊，呃，尽量。,"Папа всегда говорил: побольше учись — тогда жизнь будет лучше. Доктор, вы же многое знаете, правда? Можете меня чему-нибудь научить? Я обещаю не отвлекаться. Ну, постараюсь очень."
+char_440_pinecn_CN_009,Talk after Trust Increase 3,"I never used to think much about the future. I figured I'd just drift between odd jobs with the Pioneers, spending my life as a craftsman. But now... I really need to thank our friend—the big guy. I wouldn't have met you, if it wasn't for him... Uh... A-Anyway, I really appreciate what he did for me.",我以前从来没想过未来的事，反正就是在拓荒队里随便找份闲工，和工匠活打一辈子交道呗。不过现在……哎，我很感谢大个子，让我遇到了博士……呃，那、那个，就是很感谢他！,"Раньше я никогда не думала о будущем — просто перебивалась случайными работами в отряде первопроходцев и всю жизнь возилась бы с ремеслом. А сейчас... я очень благодарна большому парню: если бы не он, я бы вас не встретила... Э-э, точнее, просто ему огромное спасибо!"
+char_440_pinecn_CN_010,Idle,"Fwahh... I'm so tired... Maybe I'll take a little nap, just like the Doctor...",唔啊……好困……干脆和博士一起打个盹吧……,"Фуаа... Так хочется спать... Может, вздремну вместе с Доктором..."
+char_440_pinecn_CN_011,Onboard,Codename Pinecone... I'm starting at Rhodes Island today... Um... Have you seen my portable battery?,代号松果……今天开始为罗德岛工作，唔……请问您看见我的便携蓄电池了吗？,Позывной — Пайнкон... Сегодня я начинаю работать на Родос... Мм... Вы не видели мой переносной аккумулятор?
+char_440_pinecn_CN_012,Watching Battle Record,Um... Umm... I don't get it...,唔，唔，唔……完全不明白啊……,Мм... М-мм... Совсем не понимаю...
+char_440_pinecn_CN_013,Promotion 1,"Thank you, Doctor... But what should I do now? Oh... Do I just kinda do what the others do? Okey-dokey…",谢谢您，博士……但是之后我要怎么做？啊……是不是学着其他前辈的样子就好了？好嘞……！,"Спасибо вам, Доктор... А что мне теперь делать? Ах... просто подражать старшим товарищам, да? Ладно!.."
+char_440_pinecn_CN_014,Promotion 2,"Hm...? Another promotion? Ehehe, you're awfully forgetful yourself, Doctor. Didn't you already give me a promot—This is a new one? Um... Okay. I'll follow your lead. So, when are we heading out?",唔……？又是晋升，哈哈，博士你也会犯迷糊呀，你上次不是和我说过——不一样？唔，好吧，要干啥都听博士的，咱们什么时候出发？,"Мм...? Опять повышение? Хи-хи, Доктор, вы и сами забывчивы. Вы же мне уже говорили — нет, это новое? Мм... Ладно, что скажете, то и сделаю. Так когда мы выходим?"
+char_440_pinecn_CN_017,Added to Squad,Time for work.,轮到我啦。,Моя очередь.
+char_440_pinecn_CN_018,Appointed as Squad Leader,I guess it's like being a foreman at a construction site?,和施工队长差不多意思呗？,"Ну как бригадир на стройке, да?"
+char_440_pinecn_CN_019,Depart,Um... Where are we going again...?,那个……目的地在哪儿来着……,Э-э... Куда мы шли-то...?
+char_440_pinecn_CN_020,Begin Operation,It's the enemy! Don't hold back!,是敌人，不要手下留情！,Это враги! Не щадите их!
+char_440_pinecn_CN_021,Selecting Operator 1,"Yes, I'm listening!",唔，我在认真听！,"Да-да, я слушаю внимательно!"
+char_440_pinecn_CN_022,Selecting Operator 2,"What's the job, Doctor!",您说吧，博士！,"Что за работа, Доктор!"
+char_440_pinecn_CN_023,Deployment 1,"Here, right?",就在这儿？,"Здесь, верно?"
+char_440_pinecn_CN_024,Deployment 2,I'll stay right here like a nail.,我会像钉子一样钉在这里。,"Я закреплюсь здесь, как гвоздь."
+char_440_pinecn_CN_025,In Battle 1,Hyah!,嘿呀！,Хэй-я!
+char_440_pinecn_CN_026,In Battle 2,I still have lots of batteries on me!,电量储备还很充足！,У меня ещё полно заряда!
+char_440_pinecn_CN_027,In Battle 3,Pulling the trigger!,扣动扳机！,Жму на спуск!
+char_440_pinecn_CN_028,In Battle 4,Just like shooting nails at work!,就像平时打钉那样！,Как будто гвозди забиваю!
+char_440_pinecn_CN_029,4-star Result,"Phew... That was a lot harder than building a house. Doctor, it makes us kinda impressive, don't you think?",呜啊，这可比造一栋房子困难多了，博士，咱们是不是有点了不起啊？,"Фух... Это куда труднее, чем дом строить. Доктор, мы с вами прямо молодцы, правда?"
+char_440_pinecn_CN_030,3-star Result,"That was perfect... Doctor, are you happy with how we did?",完美收工……博士，您还满意吗？,"Идеально... Доктор, вы довольны, как мы поработали?"
+char_440_pinecn_CN_031,Sub 3-star Result,Hmm... Maybe I messed up the process...? I'm sorry. It didn't go as well as I'd hoped.,唔，是操作流程有问题吗……对不起，没能好好完成任务……,"Мм... Может, я нарушила порядок действий...? Простите. Не вышло так, как я надеялась..."
+char_440_pinecn_CN_032,Operation Failure,Eh? Why are there sparks... S-Sorry... It's all my fault...,欸，怎么开始冒火花了……抱、抱歉，都怪我……,"Эй, почему искры... П-простите, это всё я виновата..."
+char_440_pinecn_CN_033,Assigned to Facility,"Okay, is there anything that needs maintenance?",唔，有哪里需要维护一下吗？,"Так, что-нибудь надо подремонтировать?"
+char_440_pinecn_CN_034,Tap,Ah...!,啊……！,Ах...!
+char_440_pinecn_CN_036,Trust Tap,"Doctor, want to watch the rain together? There's not much to see, though...",博士，要不要一起来看雨？虽然没什么好看的……,"Доктор, посмотрим дождь вместе? Хотя смотреть там почти не на что..."
+char_440_pinecn_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_440_pinecn_CN_038,New Year's blessing,"Uh, since it's New Year's, I figured I'd give your office a little touch-up, Doctor... Yes, I cleaned up some wear marks and remade the wall decorations. Err, if—if you don't like it, I can take everything down right away...",啊，因为是新年，所以我把博士的办公室翻新了一下……嗯，就是处理了一些磨损痕迹，重做了墙面装饰。呃，您、您不喜欢的话，这个拆除也很容易的……,"Ах, Доктор, раз уж Новый год, я обновила немного ваш кабинет... Ну, заделала потёртости и переделала оформление стен. Э-э, ес-сли вам не нравится, я всё сразу сниму..."
+char_440_pinecn_CN_042,Greeting,"Hello, Doctor.",您好，博士。,"Здравствуйте, Доктор."
+char_440_pinecn_CN_043,Birthday,"Happy birthday, Doctor. Hope you have another year of steady employment as a doctor... Err, is that not your job? Okay, I hear you. So, uh... hope you have a year with less overtime. Mm-hm.",生日快乐，博士。祝您新的一年能够在博士的岗位上稳定地继续工作……呃，博士不是岗位？好吧，按您说的来……祝您新的一年能够少加班，嗯。,"С днём рождения, Доктор. Желаю вам и в новом году стабильно работать на своей должности доктора... Э-э, разве это не должность? Ладно, как скажете... Тогда желаю в новом году поменьше сверхурочных. Мм-м."
+char_440_pinecn_CN_044,Anniversary Celebration,"Doctor, after listening to everyone's stories over dinner, I've been wondering... I feel like we're doing something epic, aren't we? So, would it be... inappropriate someways if I brought my parents to work at Rhodes Island?",博士，刚刚聚餐时听大家讲了那么多，我想问一下……我感觉，咱们是不是在做一件挺伟大的事情？那我要是……想把父母接过来一起给罗德岛做工，是不是不太合适？,"Доктор, за ужином я столько всего слышала... Хочу спросить: неужели мы делаем что-то по-настоящему великое?.. И если я... захочу позвать родителей работать вместе на Родос — это будет не совсем уместно?"

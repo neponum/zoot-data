@@ -1,39 +1,39 @@
-id,title,original,translation
-char_436_whispr_CN_001,Appointed as Assistant,"Please, leave all these reports to me. I take great delight in indulging myself in records and documents.",
-char_436_whispr_CN_002,Talk 1,"That Suzuran girl I turned down just now, I wonder if I've been too harsh on her... She was kind enough to invite me to her tea party, but socializing isn't really my forte…",
-char_436_whispr_CN_003,Talk 2,"My body is frail, frailer than most others'. To die a young death, to forsake all my pasts, then to be born anew… 'Rejuvenation'… such is the cruel fate of mine…",
-char_436_whispr_CN_004,Talk 3,"Memories dissipate as spumes on shore. The pains, the joys, the pasts I don't want to let go… nothing will be there as I look back.",
-char_436_whispr_CN_005,Talk after Promotion 1,"Though my memory fails to serve me, I can still sense the unspeakable flowing within my blood. Stay away from the sea, Doctor. It'll be a nightmare devouring us all. It is… fear itself. ",
-char_436_whispr_CN_006,Talk after Promotion 2,"I do wonder sometimes what 'mortality' is to those with true longevity, like Dr. Warfarin and her people. For them to shed not a tear when bidding farewell to the departed, is it only because theirs have long run dry?",
-char_436_whispr_CN_007,Talk after Trust Increase 1,"Doctor, could you take these flowers to the children in the ward, for me? Yes, just like always, place them by their bedsides… Thank you, for helping keep this secret.",
-char_436_whispr_CN_008,Talk after Trust Increase 2,"Doctor, come quickly, we need to find Closure! It seems Thorns and his companions have burst a water pipe open in the corridor, and Weedy is furious now! I'm soaked to the skin... Um, I seem—like I'm enjoying myself? Wh-What do you mean?!",
-char_436_whispr_CN_009,Talk after Trust Increase 3,"Every time I watch a film, I keep the ticket stub afterward. These leftover vestiges always serve to me as a reminder, even if the contents would be lost to me... Doctor, could you come watch a film with me? I'd like to preserve the time I've passed with you, too.",
-char_436_whispr_CN_010,Idle,"Sleep sound, Doctor... By the time you wake, will you have forgotten about me?",
-char_436_whispr_CN_011,Onboard,"Code name… Whisperain. A roving doctor, nothing more. If possible, please take me as a traveler lodging under the eaves in rain. You needn't pay me much mind…",
-char_436_whispr_CN_012,Watching Battle Record,"In the face of such fierce combat, I worry... I wouldn't be able to survive.",
-char_436_whispr_CN_013,Promotion 1,Thank you very much. But I hope you treat me the same as always...,
-char_436_whispr_CN_014,Promotion 2,"Those sorrows I could not wash away with one death—I always feel like they're strands, wisps, winding about my skin... Doctor, you've come to forget the past too—could you maybe understand this feeling?",
-char_436_whispr_CN_017,Added to Squad,Please leave the assistive work to me.,
-char_436_whispr_CN_018,Appointed as Squad Leader,I'm the leader...? That's a little…,
-char_436_whispr_CN_019,Depart,Please keep with me. Don't go too far.,
-char_436_whispr_CN_020,Begin Operation,"Please be careful, everyone. Protect yourselves and stay safe.",
-char_436_whispr_CN_021,Selecting Operator 1,Very well.,
-char_436_whispr_CN_022,Selecting Operator 2,Injections are ready.,
-char_436_whispr_CN_023,Deployment 1,Come to me if you get wounded.,
-char_436_whispr_CN_024,Deployment 2,Let me dispel the pain.,
-char_436_whispr_CN_025,In Battle 1,Disinfection comes first.,
-char_436_whispr_CN_026,In Battle 2,Do not be afraid.,
-char_436_whispr_CN_027,In Battle 3,My treatment will not hurt.,
-char_436_whispr_CN_028,In Battle 4,I know this scent of death well.,
-char_436_whispr_CN_029,4-star Result,Sleep tight... May the rainfall shelter all dreams.,
-char_436_whispr_CN_030,3-star Result,"This is how their story ends. Tragedies, one following another...",
-char_436_whispr_CN_031,Sub 3-star Result,Leave the pursuit for later. I'd like to see everyone treated first.,
-char_436_whispr_CN_032,Operation Failure,"I'm sorry, I could have fulfilled my role better…",
-char_436_whispr_CN_033,Assigned to Facility,Such a peaceful place this is. I can hear the patter of rainfall.,
-char_436_whispr_CN_034,Tap,You startled me…,
-char_436_whispr_CN_036,Trust Tap,"D-Don't move, please! Something got my hair…",
-char_436_whispr_CN_037,Title,Arknights.,
-char_436_whispr_CN_038,New Year's blessing,"Elysium, Thorns, please stop blowing your noisemakers, quite a few operators are already staring at you... Ah, Happy New Year, Doctor. The New Year at Rhodes Island truly is so vigorous... Was I ever this happy to celebrate in the past? I'm afraid I no longer remember.",
-char_436_whispr_CN_042,Greeting,"What will we be doing today, Doctor?",
-char_436_whispr_CN_043,Birthday,"Happy birthday, Doctor. Amnesiac as you are, you still haven't forgotten the meaning of this day, which tells me a lot. In that case, would you like to keep the stub of a movie ticket with your birthday on it?",
-char_436_whispr_CN_044,Anniversary Celebration,"Please, allow me to sit out here on my own. It doesn't feel quite right being a part of this ship's commemoration day, given that I don't know when I might depart... That being said, I will always remember the sound of rain pattering on the deck. There's little else like it.",
+id,title,original,original_zh,translation
+char_436_whispr_CN_001,Appointed as Assistant,"Please, leave all these reports to me. I take great delight in indulging myself in records and documents.",这些报告都请交给我吧，处理文字相关的工作，会很开心……,Отдайте эти отчёты мне — я с удовольствием займусь работой с текстом...
+char_436_whispr_CN_002,Talk 1,"That Suzuran girl I turned down just now, I wonder if I've been too harsh on her... She was kind enough to invite me to her tea party, but socializing isn't really my forte…",我刚才拒绝那个叫铃兰的孩子，是不是不太好？但是她说，要和大家一起喝茶，我真的不太擅长应对这种事情。,"Может, я была слишком груба с той девочкой, Судзуран? Она позвала меня пить чай со всеми... но я правда не умею в таких ситуациях."
+char_436_whispr_CN_003,Talk 2,"My body is frail, frailer than most others'. To die a young death, to forsake all my pasts, then to be born anew… 'Rejuvenation'… such is the cruel fate of mine…",我的身体，比大多数人更脆弱。我会轻易死去，遗忘过去的一切，然后作为幼体迎来新生。“返老还童”……这是一种多么残酷的命运啊……,"Моё тело хрупче, чем у большинства. Я легко умираю, забываю всё прошлое и рождаюсь заново уже ребёнком. «Омоложение»... какая же это жестокая участь..."
+char_436_whispr_CN_004,Talk 3,"Memories dissipate as spumes on shore. The pains, the joys, the pasts I don't want to let go… nothing will be there as I look back.",所有的回忆最后都会变成泡沫。不管是痛苦的还是喜悦的，那些不想忘记的过去，总会悄然从我身边逃离。,"Все воспоминания в конце концов превращаются в пену. И горькие, и радостные — те прошлые дни, что я не хочу забывать, всё равно тихо ускользают от меня."
+char_436_whispr_CN_005,Talk after Promotion 1,"Though my memory fails to serve me, I can still sense the unspeakable flowing within my blood. Stay away from the sea, Doctor. It'll be a nightmare devouring us all. It is… fear itself. ",虽然已经不记得了，但有些东西仍然流淌在我的血液里。小心大海，博士，那是会将我们都吞噬的漆黑噩梦，那是……恐惧本身。,"Я уже не помню, но что-то всё ещё течёт в моей крови. Берегитесь моря, Доктор: это чёрный кошмар, который поглотит нас всех. Это... сам страх."
+char_436_whispr_CN_006,Talk after Promotion 2,"I do wonder sometimes what 'mortality' is to those with true longevity, like Dr. Warfarin and her people. For them to shed not a tear when bidding farewell to the departed, is it only because theirs have long run dry?",有时我会好奇，像华法琳小姐那样真正的长生种族，是怎样看待生死与别离。如果已经不会因此而痛苦，是不是只是因为早已痛到习惯，痛到麻木了呢？,"Иногда мне любопытно, как смотрят на жизнь, смерть и разлуку те, кто действительно живёт долго, как мисс Варфарин. Если они больше не страдают от этого, может, просто потому, что давно привыкли к боли, онемели от неё?"
+char_436_whispr_CN_007,Talk after Trust Increase 1,"Doctor, could you take these flowers to the children in the ward, for me? Yes, just like always, place them by their bedsides… Thank you, for helping keep this secret.",博士，能帮我把这些花，送给那些在治疗的孩子们吗？还像之前一样，就放在他们的床头。……谢谢你，愿意一直帮我保守秘密。,"Доктор, не могли бы вы отнести эти цветы детям, которые лечатся? Как и раньше, просто поставьте у их кроватей... Спасибо, что всё это время храните мою тайну."
+char_436_whispr_CN_008,Talk after Trust Increase 2,"Doctor, come quickly, we need to find Closure! It seems Thorns and his companions have burst a water pipe open in the corridor, and Weedy is furious now! I'm soaked to the skin... Um, I seem—like I'm enjoying myself? Wh-What do you mean?!",博士，不好了，我们快去找可露希尔小姐！棘刺先生他们好像把走廊上的水管炸开了，温蒂现在正在发火！我身上也湿透了……欸，什么，我看起来很开心？怎么会呢！,"Доктор, беда! Нам нужно срочно найти мисс Кложер! Кажется, мистер Торнс с товарищами взорвали трубу в коридоре, а Види сейчас вне себя! Я вся промокла... А? Что вы сказали, я выгляжу довольной? Неправда!"
+char_436_whispr_CN_009,Talk after Trust Increase 3,"Every time I watch a film, I keep the ticket stub afterward. These leftover vestiges always serve to me as a reminder, even if the contents would be lost to me... Doctor, could you come watch a film with me? I'd like to preserve the time I've passed with you, too.",每看过一场电影，我都会将票根存下。就算已经将内容都忘记，这些残留的痕迹，也会一直提醒我。……博士，可以和我一起看一场电影吗？我也想要，留存下和你一起度过的时间。,"После каждого фильма я сохраняю билет. Даже если сюжет уже забыт, эти следы всё равно напоминают мне... Доктор, вы бы не пошли со мной в кино? Я тоже хочу сохранить время, проведённое с вами."
+char_436_whispr_CN_010,Idle,"Sleep sound, Doctor... By the time you wake, will you have forgotten about me?",请睡吧。呵呵，等到你醒来，会不会就此将我忘记？,"Спите. Хи-хи... Когда вы проснётесь, может, вы меня и забудете?"
+char_436_whispr_CN_011,Onboard,"Code name… Whisperain. A roving doctor, nothing more. If possible, please take me as a traveler lodging under the eaves in rain. You needn't pay me much mind…",我的代号是絮雨，不过是一介巡游医师。如果可以的话，就将我当做在屋檐下避雨的旅人吧，请不要太在意我的事……,"Мой позывной — Висперейн, я всего лишь странствующий врач. Если можно, считайте меня путником, укрывшимся от дождя под крышей. Не обращайте на меня слишком много внимания..."
+char_436_whispr_CN_012,Watching Battle Record,"In the face of such fierce combat, I worry... I wouldn't be able to survive.",这样激烈的战斗，我恐怕……没办法活下来。,"В такой жестокой схватке я, боюсь... не выживу."
+char_436_whispr_CN_013,Promotion 1,Thank you very much. But I hope you treat me the same as always...,谢谢。但还是像之前一样就好……,"Спасибо. Но лучше, как и раньше..."
+char_436_whispr_CN_014,Promotion 2,"Those sorrows I could not wash away with one death—I always feel like they're strands, wisps, winding about my skin... Doctor, you've come to forget the past too—could you maybe understand this feeling?",那些无法因一次死亡而清算的悲伤，总是像丝丝缕缕的线，缠绕在我的肌肤上……博士，也曾忘记过去的你，是否能明白这份心情？,"Та печаль, что не исчезает вместе с одной только смертью, всё равно обвивается вокруг моей кожи тонкими нитями... Доктор, вы, который тоже забыл прошлое, — поймёте ли вы это чувство?"
+char_436_whispr_CN_017,Added to Squad,Please leave the assistive work to me.,支援工作的话，就请交给我。,Поддержку предоставьте мне.
+char_436_whispr_CN_018,Appointed as Squad Leader,I'm the leader...? That's a little…,我来……当队长？欸？,Я... буду капитаном? А?
+char_436_whispr_CN_019,Depart,Please keep with me. Don't go too far.,请跟紧我，不要离得太远。,"Идите за мной, не отставайте слишком далеко."
+char_436_whispr_CN_020,Begin Operation,"Please be careful, everyone. Protect yourselves and stay safe.",请各位小心，一定要保护好自己。,Прошу всех быть осторожными и беречь себя.
+char_436_whispr_CN_021,Selecting Operator 1,Very well.,好的。,Хорошо.
+char_436_whispr_CN_022,Selecting Operator 2,Injections are ready.,准备好注射了。,Инъекция готова.
+char_436_whispr_CN_023,Deployment 1,Come to me if you get wounded.,受伤的人请到我这儿来。,"Раненые, подходите ко мне."
+char_436_whispr_CN_024,Deployment 2,Let me dispel the pain.,让我来消除痛苦。,Я сниму боль.
+char_436_whispr_CN_025,In Battle 1,Disinfection comes first.,请先消毒。,Сначала продезинфицируем.
+char_436_whispr_CN_026,In Battle 2,Do not be afraid.,不要害怕。,Не бойтесь.
+char_436_whispr_CN_027,In Battle 3,My treatment will not hurt.,我的治疗是不会痛的。,Моё лечение не причинит боли.
+char_436_whispr_CN_028,In Battle 4,I know this scent of death well.,我熟悉这死亡的气息。,Я знаю этот запах смерти.
+char_436_whispr_CN_029,4-star Result,Sleep tight... May the rainfall shelter all dreams.,睡吧。愿所有人都能在雨声里做个好梦。,Спите. Пусть всем приснятся добрые сны под шум дождя.
+char_436_whispr_CN_030,3-star Result,"This is how their story ends. Tragedies, one following another...",这就是他们故事的结局，一个又一个悲剧……,Такова развязка их историй — одна трагедия за другой...
+char_436_whispr_CN_031,Sub 3-star Result,Leave the pursuit for later. I'd like to see everyone treated first.,请稍后再追击，让我先替大家治疗。,Преследование подождёт — сначала я вылечу всех.
+char_436_whispr_CN_032,Operation Failure,"I'm sorry, I could have fulfilled my role better…",对不起，都怪我拖累了大家……,"Простите, я всех подвела..."
+char_436_whispr_CN_033,Assigned to Facility,Such a peaceful place this is. I can hear the patter of rainfall.,这里很安静，我能听到雨的声音。,"Здесь тихо. Я слышу, как идёт дождь."
+char_436_whispr_CN_034,Tap,You startled me…,欸？吓、吓了我一跳……,А? Я... я испугалась...
+char_436_whispr_CN_036,Trust Tap,"D-Don't move, please! Something got my hair…",请、请不要动！头发缠住了……,"П-пожалуйста, не двигайтесь! Мои волосы запутались..."
+char_436_whispr_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_436_whispr_CN_038,New Year's blessing,"Elysium, Thorns, please stop blowing your noisemakers, quite a few operators are already staring at you... Ah, Happy New Year, Doctor. The New Year at Rhodes Island truly is so vigorous... Was I ever this happy to celebrate in the past? I'm afraid I no longer remember.",极境先生，棘刺先生，请不要再吹哨子了，已经有好几个干员在瞪你们了——啊，新年快乐，博士。罗德岛的新年真的非常热闹……我以前有这样开心地迎接过新的一年吗？我不记得了。,"Мистер Элизиум, мистер Торнс, перестаньте дудеть в свои свистки — несколько оперативников уже смотрят на вас с неодобрением... Ах, с Новым годом, Доктор. На Родосе Новый год и правда очень оживлённый... Бывало ли, что я встречала новый год так весело? Не помню."
+char_436_whispr_CN_042,Greeting,"What will we be doing today, Doctor?",今天要做些什么呢，博士？,"Что будем делать сегодня, Доктор?"
+char_436_whispr_CN_043,Birthday,"Happy birthday, Doctor. Amnesiac as you are, you still haven't forgotten the meaning of this day, which tells me a lot. In that case, would you like to keep the stub of a movie ticket with your birthday on it?",生日快乐，博士。既然你还记得，今天是于你而言有独特意义的日期的话，你会想留下一张写着生日的电影票根吗？,"С днём рождения, Доктор. Раз вы помните, что сегодня особенный для вас день, не хотите ли сохранить билетный талон, на котором написана дата вашего рождения?"
+char_436_whispr_CN_044,Anniversary Celebration,"Please, allow me to sit out here on my own. It doesn't feel quite right being a part of this ship's commemoration day, given that I don't know when I might depart... That being said, I will always remember the sound of rain pattering on the deck. There's little else like it.",请让我一个人坐在这里吧。属于这艘舰船的纪念日，似乎不适合我参与，我并不知道自己何时会离开……嗯，但是我会清楚地记得，雨落在甲板上的声音，很特别。,"Позвольте мне посидеть здесь одной. Праздник этого корабля, кажется, не для меня — я не знаю, когда мне придётся уйти... Но я наверняка запомню, как дождь стучит по палубе. Это очень специфический звук."

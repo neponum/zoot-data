@@ -1,39 +1,39 @@
-id,title,original,translation
-char_144_red_CN_001,Appointed as Assistant,This place smells… dangerous.,
-char_144_red_CN_002,Talk 1,"I prefer to work alone, by myself.",
-char_144_red_CN_003,Talk 2,"Name, bounty, kill. Simple. That's the agreement with Kal'tsit.",
-char_144_red_CN_004,Talk 3,"Wolves have fangs, I have my blade. Wolves do not rest, neither do I.",
-char_144_red_CN_005,Talk after Promotion 1,Granny's calling... I can hear her.,
-char_144_red_CN_006,Talk after Promotion 2,"Bleak wind, corpses on the ground, screams under the stars... I smell them all, the scent of wolves. I join the hunt.",
-char_144_red_CN_007,Talk after Trust Increase 1,"Family? I have no family. I am always alone. Do you need a family, Doctor?",
-char_144_red_CN_008,Talk after Trust Increase 2,"They avoid me... I just want to touch their tails. Provence, and Texas... I like their scent.",
-char_144_red_CN_009,Talk after Trust Increase 3,"Doctor, sometimes I wonder... if I weren't a wolf hunter, would my life be different? Oh, you mean… I should answer the question... myself?",
-char_144_red_CN_010,Idle,"Doctor... no, nothing. I thought you fell asleep. Don't sleep, not now.",
-char_144_red_CN_011,Onboard,"Projekt Red, wolf hunter, smells wolves.",
-char_144_red_CN_012,Watching Battle Record,As long as it helps me hunt.,
-char_144_red_CN_013,Promotion 1,As you like it.,
-char_144_red_CN_014,Promotion 2,A promotion? This will disguise me. I accept.,
-char_144_red_CN_017,Added to Squad,Infiltration successful.,
-char_144_red_CN_018,Appointed as Squad Leader,What should I do?,
-char_144_red_CN_019,Depart,The hunt begins.,
-char_144_red_CN_020,Begin Operation,The scent... it's thick.,
-char_144_red_CN_021,Selecting Operator 1,Hurry up.,
-char_144_red_CN_022,Selecting Operator 2,Simple and clear.,
-char_144_red_CN_023,Deployment 1,Speed.,
-char_144_red_CN_024,Deployment 2,Skill.,
-char_144_red_CN_025,In Battle 1,From shadows!,
-char_144_red_CN_026,In Battle 2,Distract them.,
-char_144_red_CN_027,In Battle 3,"No way out, for you.",
-char_144_red_CN_028,In Battle 4,Your death... is in my eyes.,
-char_144_red_CN_029,4-star Result,"Targets, all down",
-char_144_red_CN_030,3-star Result,The one way a hunt can end.,
-char_144_red_CN_031,Sub 3-star Result,This kill... too small.,
-char_144_red_CN_032,Operation Failure,Sorry... My blade... not sharp enough.,
-char_144_red_CN_033,Assigned to Facility,I prefer to be outside. But… it's okay.,
-char_144_red_CN_034,Tap,Watch your hand. I might cut you.,
-char_144_red_CN_036,Trust Tap,*sleepy noises*,
-char_144_red_CN_037,Title,Arknights.,
-char_144_red_CN_038,New Year's blessing,"A new year? That means a new hunt? Not yet? Understood. Then I rest… Doctor, you rest too.",
-char_144_red_CN_042,Greeting,"Tired, Doctor?",
-char_144_red_CN_043,Birthday,"I've seen people. Many people. They went to the Doctor's room, and left things. That spells danger… it doesn't? Birthday presents? Oh, well… I'll lend you this fluffy ball to touch. But you have to give it back.",
-char_144_red_CN_044,Anniversary Celebration,Rhodes Island has many walls. But I can feel the wind on the deck. Kal'tsit and the Doctor are here. I... like this place.,
+id,title,original,original_zh,translation
+char_144_red_CN_001,Appointed as Assistant,This place smells… dangerous.,这里……有危险的气味。,Здесь... пахнет опасностью.
+char_144_red_CN_002,Talk 1,"I prefer to work alone, by myself.",红要单独行动。,Ред работает одна. Сама по себе.
+char_144_red_CN_003,Talk 2,"Name, bounty, kill. Simple. That's the agreement with Kal'tsit.",名字，报酬，杀掉。很简单。凯尔希与红是这么约定的。,"Имя, награда, убить. Просто. Такой уговор у Ред с Кальцит."
+char_144_red_CN_004,Talk 3,"Wolves have fangs, I have my blade. Wolves do not rest, neither do I.",狼有牙齿，红有刀。狼不会休息，所以红也不能。,"У волков есть клыки, у Ред — нож. Волки не отдыхают — и Ред не отдыхает."
+char_144_red_CN_005,Talk after Promotion 1,Granny's calling... I can hear her.,“外婆”在呼唤……红能听见。,«Бабушка» зовёт... Ред слышит.
+char_144_red_CN_006,Talk after Promotion 2,"Bleak wind, corpses on the ground, screams under the stars... I smell them all, the scent of wolves. I join the hunt.",……荒野的风，尘土里的残骸，群星下的嚎叫……红闻到了。那是狼的气味。红，加入狩猎。,"...Ветер в Пустошах, обломки в пыли, вой под звёздами... Ред чует всё. Это запах волков. Ред идёт на охоту."
+char_144_red_CN_007,Talk after Trust Increase 1,"Family? I have no family. I am always alone. Do you need a family, Doctor?",家人？红没有家人。红一开始就是孤身一人。博士是……需要家人吗？,Семья? У Ред нет семьи. Ред всегда была одна. Доктору... нужна семья?
+char_144_red_CN_008,Talk after Trust Increase 2,"They avoid me... I just want to touch their tails. Provence, and Texas... I like their scent.",她们都躲着红。红其实只是想……摸摸她们的尾巴。普罗旺斯的，德克萨斯的……红在她们身上，能闻到红喜欢的味道。,"Они сторонятся Ред. Ред просто хочет... потрогать их хвосты. У Прованс, у Техас... от них пахнет тем, что нравится Ред."
+char_144_red_CN_009,Talk after Trust Increase 3,"Doctor, sometimes I wonder... if I weren't a wolf hunter, would my life be different? Oh, you mean… I should answer the question... myself?",博士，红也想过……如果红不是猎狼人，会不会也能有不一样的生活？这个问题要红……自己回答？唔。,"Доктор, Ред тоже думала... если бы Ред не была охотницей на волков, была бы у неё другая жизнь? Сама ответить на этот вопрос?.. Мм."
+char_144_red_CN_010,Idle,"Doctor... no, nothing. I thought you fell asleep. Don't sleep, not now.",博士。不，只是觉得你睡着了。现在，还不能睡。,"Доктор. Нет, просто подумала, что вы уснули. Сейчас спать нельзя."
+char_144_red_CN_011,Onboard,"Projekt Red, wolf hunter, smells wolves.",猎狼人，红，闻到了狼的气息。,"Охотница на волков, Ред, чует волков."
+char_144_red_CN_012,Watching Battle Record,As long as it helps me hunt.,只要对狩猎有利。,Лишь бы это помогало охоте.
+char_144_red_CN_013,Promotion 1,As you like it.,无所谓。,Как угодно.
+char_144_red_CN_014,Promotion 2,A promotion? This will disguise me. I accept.,伪装？荣誉可以伪装自己，红能接受。,Маскировка? Почёт может прикрыть Ред. Ред принимает.
+char_144_red_CN_017,Added to Squad,Infiltration successful.,成功混进来了。,Проникновение удалось.
+char_144_red_CN_018,Appointed as Squad Leader,What should I do?,红该做什么？,Что делать Ред?
+char_144_red_CN_019,Depart,The hunt begins.,狩猎，开始。,Охота начинается.
+char_144_red_CN_020,Begin Operation,The scent... it's thick.,气味，很浓烈。,Запах... густой.
+char_144_red_CN_021,Selecting Operator 1,Hurry up.,快。,Быстрее.
+char_144_red_CN_022,Selecting Operator 2,Simple and clear.,简单明了。,Просто и ясно.
+char_144_red_CN_023,Deployment 1,Speed.,速度。,Скорость.
+char_144_red_CN_024,Deployment 2,Skill.,技巧。,Мастерство.
+char_144_red_CN_025,In Battle 1,From shadows!,从阴影中……！,Из тени...!
+char_144_red_CN_026,In Battle 2,Distract them.,搅乱他们。,Сбить их с толку.
+char_144_red_CN_027,In Battle 3,"No way out, for you.",你无路可退。,Тебе некуда отступать.
+char_144_red_CN_028,In Battle 4,Your death... is in my eyes.,红的眼中——倒映出你的死。,В глазах Ред... отразится твоя смерть.
+char_144_red_CN_029,4-star Result,"Targets, all down",全灭。,Все цели устранены.
+char_144_red_CN_030,3-star Result,The one way a hunt can end.,猎物的下场，只有一种。,У добычи бывает только один конец.
+char_144_red_CN_031,Sub 3-star Result,This kill... too small.,收获……不够丰富。,Добыча... слишком мала.
+char_144_red_CN_032,Operation Failure,Sorry... My blade... not sharp enough.,……红的刀……还不够锋利……,Прости... нож Ред... всё ещё не достаточно остёр...
+char_144_red_CN_033,Assigned to Facility,I prefer to be outside. But… it's okay.,红，不太习惯室内，不过，也不讨厌。,Ред не привыкла к помещениям. Но и не против.
+char_144_red_CN_034,Tap,Watch your hand. I might cut you.,当心手，别被红刮伤了。,Осторожно рукой — Ред может задеть.
+char_144_red_CN_036,Trust Tap,*sleepy noises*,咻……呼……,Хрр... фух...
+char_144_red_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_144_red_CN_038,New Year's blessing,"A new year? That means a new hunt? Not yet? Understood. Then I rest… Doctor, you rest too.",新年？新的猎物吗？没有？好吧，红休息一会……博士也来休息一会。,Новый год? Это значит — новая охота? Ещё нет? Понятно. Тогда Ред отдохнёт... Доктор тоже отдохни.
+char_144_red_CN_042,Greeting,"Tired, Doctor?",博士，累了吗？,"Устали, Доктор?"
+char_144_red_CN_043,Birthday,"I've seen people. Many people. They went to the Doctor's room, and left things. That spells danger… it doesn't? Birthday presents? Oh, well… I'll lend you this fluffy ball to touch. But you have to give it back.",红看到，很多人来博士房间，送来很多东西，很危险……不危险？生日？好吧……这个毛球，可以借你摸摸，之后要还给红……,"Ред видела, как многие люди приходили к Доктору и оставляли вещи. Это опасно... не опасно? День рождения? Ладно... этого пушистого зверька можно потрогать, но потом вернуть Ред..."
+char_144_red_CN_044,Anniversary Celebration,Rhodes Island has many walls. But I can feel the wind on the deck. Kal'tsit and the Doctor are here. I... like this place.,罗德岛有很多墙壁，但是，甲板上能吹到风。凯尔希和博士，都在。红不讨厌……,На Родосе много стен. Но на палубе дует ветер. Кальцит и Доктор здесь. Ред... это нравится.

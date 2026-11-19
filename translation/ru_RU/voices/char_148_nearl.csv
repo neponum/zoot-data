@@ -1,39 +1,39 @@
-id,title,original,translation
-char_148_nearl_CN_001,Appointed as Assistant,"Salutations, Doctor. May the light be with you.",
-char_148_nearl_CN_002,Talk 1,"Doctor, I ask that you give me the most dangerous assignment available, such that my shield and I can best protect those in need.",
-char_148_nearl_CN_003,Talk 2,"The title of 'Knight' should be a symbol of honor. And yet now, it's been reduced to a mere commodity...",
-char_148_nearl_CN_004,Talk 3,"As long as the light continues to guide me, I will neither bow to cruelty nor kneel to violence.",
-char_148_nearl_CN_005,Talk after Promotion 1,"I'm grateful as always for your service, Doctor.",
-char_148_nearl_CN_006,Talk after Promotion 2,"The Kazimierz chivalric spirit should have been a force of salvation for all who suffer in this world. But now, it's nothing more than a rotten legacy, used to benefit the rich. Nothing is more shameful.",
-char_148_nearl_CN_007,Talk after Trust Increase 1,"Shining, too, is a beam of light that guides me forward. She carries the hope I've long sought.",
-char_148_nearl_CN_008,Talk after Trust Increase 2,Something flickered in Shining's eyes when she heard the name Rhodes Island. I had no idea what it meant...,
-char_148_nearl_CN_009,Talk after Trust Increase 3,"In this time and age of a world plagued by Oripathy, may the ray of hope from Rhodes Island light the way.",
-char_148_nearl_CN_010,Idle,Let us embrace this momentary respite.,
-char_148_nearl_CN_011,Onboard,"Margaret Nearl, the Radiant Knight of Kazimierz...and now a Rhodes Island Operator. I will defend your life and your honor with my shield.",
-char_148_nearl_CN_012,Watching Battle Record,Thank you for granting me power.,
-char_148_nearl_CN_013,Promotion 1,"Thank you, Doctor. These new powers shall bring relief to those who suffer. This I shall engrave upon my heart.",
-char_148_nearl_CN_014,Promotion 2,"Shining once said that dawn remains distant. But I believe that, one day, we will revive the dying glory with our very own hands.",
-char_148_nearl_CN_017,Added to Squad,I shall protect them from all harm.,
-char_148_nearl_CN_018,Appointed as Squad Leader,I shall not blemish Rhodes Island's name.,
-char_148_nearl_CN_019,Depart,I am ready. Set out!,
-char_148_nearl_CN_020,Begin Operation,Honor must be defended.,
-char_148_nearl_CN_021,Selecting Operator 1,In your name.,
-char_148_nearl_CN_022,Selecting Operator 2,I shall give my all to you.,
-char_148_nearl_CN_023,Deployment 1,I shall cover you!,
-char_148_nearl_CN_024,Deployment 2,Get behind me!,
-char_148_nearl_CN_025,In Battle 1,"Light, heed me!",
-char_148_nearl_CN_026,In Battle 2,I'm with you!,
-char_148_nearl_CN_027,In Battle 3,Don't be afraid.,
-char_148_nearl_CN_028,In Battle 4,Revitalize!,
-char_148_nearl_CN_029,4-star Result,"A true knight will not bend to the threat of violence. Now, repent for your sins, in front of my warhammer.",
-char_148_nearl_CN_030,3-star Result,Let us go forth. And there will be one day…,
-char_148_nearl_CN_031,Sub 3-star Result,A true knight will not chase one who's lost the will to fight. Everyone deserves a chance to choose a new path.,
-char_148_nearl_CN_032,Operation Failure,We must not give up now.,
-char_148_nearl_CN_033,Assigned to Facility,I shall keep watch here.,
-char_148_nearl_CN_034,Tap,"I sense an intru- Oh, Doctor?!",
-char_148_nearl_CN_036,Trust Tap,"Doctor, umm... may I enter your office? I've heard you have a vast collection of literature.",
-char_148_nearl_CN_037,Title,Arknights.,
-char_148_nearl_CN_038,New Year's blessing,"Tonight in the Grand Knight Territory, the corporations who've won the bidding war for firework permits will blanket the sky, and out in the barrens, destitute settlements will warm themselves on firewood as a rare luxury. While you can have your name written in those New Year's fireworks, I'm more than glad that I have brought those people firewood.",
-char_148_nearl_CN_042,Greeting,"Good morning to you, Doctor.",
-char_148_nearl_CN_043,Birthday,"Happy birthday, Doctor. Aplogies that I don't have anything that might pique your interest with me, but perhaps you'd like this book on the history of the knights of Kazimierz? Forgive me, I've already given you my knight's oath, and anything I could grant you beyond that is negligible by comparison.",
-char_148_nearl_CN_044,Anniversary Celebration,"When I was bestowed the title of Radiant Knight, the General Chamber of Commerce didn't much appreciate my shine. Fortunately, neither Shining nor Rhodes Island have since found me too bright to look at. As vast as the land is, I imagine the rays of the sun will only reach so far. In that respect, I will strive until I can strive no more.",
+id,title,original,original_zh,translation
+char_148_nearl_CN_001,Appointed as Assistant,"Salutations, Doctor. May the light be with you.",很高兴见到您，博士，愿光明护佑您。,"Рада вас видеть, Доктор. Да хранит вас свет."
+char_148_nearl_CN_002,Talk 1,"Doctor, I ask that you give me the most dangerous assignment available, such that my shield and I can best protect those in need.",我希望被分配到最危险的战场，这样，我和我的盾才能保护每一位战友。,"Я хочу, чтобы меня отправили на самое опасное поле боя — тогда с моим щитом я смогу защитить каждого товарища."
+char_148_nearl_CN_003,Talk 2,"The title of 'Knight' should be a symbol of honor. And yet now, it's been reduced to a mere commodity...",“骑士”的称号理应是荣耀的象征，却不知曾几何时，它已经被当成了商品……,"Звание «рыцаря» должно быть символом чести, но с каких-то пор его превратили в товар..."
+char_148_nearl_CN_004,Talk 3,"As long as the light continues to guide me, I will neither bow to cruelty nor kneel to violence.",只要光仍在指引我，残忍便不能使我屈服，暴虐也不能让我屈膝。,"Пока свет ведёт меня, жестокость не сломить меня, а насилие не заставит преклонить колено."
+char_148_nearl_CN_005,Talk after Promotion 1,"I'm grateful as always for your service, Doctor.",非常感谢你，博士。,"Благодарю вас, Доктор."
+char_148_nearl_CN_006,Talk after Promotion 2,"The Kazimierz chivalric spirit should have been a force of salvation for all who suffer in this world. But now, it's nothing more than a rotten legacy, used to benefit the rich. Nothing is more shameful.",卡西米尔的骑士精神，本应是这片大地上苦难者的救星，但现在的它，已经彻底沦落为被资本肆意操弄的腐朽遗产。没有比这更耻辱的了。,"Рыцарский дух Казимежа должен был стать спасением для страждущих на этой земле, но сейчас он целиком превратился в прогнившее наследие, которым безнаказанно манипулирует капитал. Нет ничего более позорного."
+char_148_nearl_CN_007,Talk after Trust Increase 1,"Shining, too, is a beam of light that guides me forward. She carries the hope I've long sought.",闪灵也是引导我前进的光芒。是的，她背负着我一直追寻的希望。,"Шайнинг — тоже свет, ведущий меня вперёд. Да, она несёт ту надежду, которую я всегда искала."
+char_148_nearl_CN_008,Talk after Trust Increase 2,Something flickered in Shining's eyes when she heard the name Rhodes Island. I had no idea what it meant...,当闪灵听到罗德岛这一名字，她似乎动摇了，我却不知道她动摇的理由。,"Когда Шайнинг услышала имя «Родос», она будто бы дрогнула — а я не знаю причины её волнения."
+char_148_nearl_CN_009,Talk after Trust Increase 3,"In this time and age of a world plagued by Oripathy, may the ray of hope from Rhodes Island light the way.",这被矿石病侵袭的时代，将会为罗德岛的希望之光所照耀。,"Эту эпоху, поражённую орипатией, озарит свет надежды Родоса."
+char_148_nearl_CN_010,Idle,Let us embrace this momentary respite.,稍稍，享受下这短暂的休憩吧。,Немного насладимся этим кратким отдыхом.
+char_148_nearl_CN_011,Onboard,"Margaret Nearl, the Radiant Knight of Kazimierz...and now a Rhodes Island Operator. I will defend your life and your honor with my shield.",玛嘉烈·临光，卡西米尔耀骑士……不，就让我作为一名罗德岛干员，用这面盾牌捍卫您的生命、您的荣耀。,"Маргарет Ниарл, Сияющий Рыцарь Казимежа... Нет, позвольте мне как оперативнику Родоса защищать этим щитом вашу жизнь и вашу честь."
+char_148_nearl_CN_012,Watching Battle Record,Thank you for granting me power.,感谢您给予我力量。,"Благодарю за силу, которую вы мне дали."
+char_148_nearl_CN_013,Promotion 1,"Thank you, Doctor. These new powers shall bring relief to those who suffer. This I shall engrave upon my heart.",感谢你，博士。我的力量为拯救苦难而存在，是的，无论如何，我都会铭记于心。,"Спасибо вам, Доктор. Моя сила существует, чтобы спасать страждущих. Да, что бы ни случилось, я сохраню это в сердце."
+char_148_nearl_CN_014,Promotion 2,"Shining once said that dawn remains distant. But I believe that, one day, we will revive the dying glory with our very own hands.",闪灵曾说过，黎明还很遥远。但我相信总有一天，我们会亲手拾取那些逝去已久的荣光。,"Шайнинг говорила, что рассвет ещё далёк. Но я верю: однажды мы собственными руками поднимем ту давно ушедшую славу."
+char_148_nearl_CN_017,Added to Squad,I shall protect them from all harm.,一切伤害，都由我来阻挡。,Я приму на себя весь урон.
+char_148_nearl_CN_018,Appointed as Squad Leader,I shall not blemish Rhodes Island's name.,绝不辱没罗德岛之名。,Я не запятнаю имя Родоса.
+char_148_nearl_CN_019,Depart,I am ready. Set out!,准备妥当了，出发。,Всё готово. Вперёд.
+char_148_nearl_CN_020,Begin Operation,Honor must be defended.,荣耀必须被捍卫。,Честь необходимо защищать.
+char_148_nearl_CN_021,Selecting Operator 1,In your name.,以您的名义。,Во имя ваше.
+char_148_nearl_CN_022,Selecting Operator 2,I shall give my all to you.,我将为您竭尽全力。,Я отдам вам все свои силы.
+char_148_nearl_CN_023,Deployment 1,I shall cover you!,我来掩护。,Я прикрою.
+char_148_nearl_CN_024,Deployment 2,Get behind me!,请躲在我身后。,Укройтесь за мной.
+char_148_nearl_CN_025,In Battle 1,"Light, heed me!",光。,Свет.
+char_148_nearl_CN_026,In Battle 2,I'm with you!,我在。,Я здесь.
+char_148_nearl_CN_027,In Battle 3,Don't be afraid.,别担心。,Не волнуйтесь.
+char_148_nearl_CN_028,In Battle 4,Revitalize!,复苏吧。,Воскресни.
+char_148_nearl_CN_029,4-star Result,"A true knight will not bend to the threat of violence. Now, repent for your sins, in front of my warhammer.",真正的骑士决不屈服于暴力，在这把战锤面前忏悔吧。,Истинный рыцарь не склоняется перед насилием. Кайтесь перед этим боевым молотом.
+char_148_nearl_CN_030,3-star Result,Let us go forth. And there will be one day…,向前迈进吧，总有一天，我们可以……,Шагайте вперёд — однажды мы сможем...
+char_148_nearl_CN_031,Sub 3-star Result,A true knight will not chase one who's lost the will to fight. Everyone deserves a chance to choose a new path.,真正的骑士不会追击失去战意的人，无论什么样的人，都应该给予他们重新选择的机会。,"Истинный рыцарь не гонится за тем, кто потерял волю к бою. Каждому, кем бы он ни был, следует дать шанс выбрать новый путь."
+char_148_nearl_CN_032,Operation Failure,We must not give up now.,别在这里放弃。,Не сдавайтесь здесь.
+char_148_nearl_CN_033,Assigned to Facility,I shall keep watch here.,随便走走就好了。,Просто прогуляйтесь немного.
+char_148_nearl_CN_034,Tap,"I sense an intru- Oh, Doctor?!",有敌人……呃，博士？,"Враг... Э-э, Доктор?"
+char_148_nearl_CN_036,Trust Tap,"Doctor, umm... may I enter your office? I've heard you have a vast collection of literature.",博士，那个……咳，我可以进来吗？听说您的办公室里，收藏了大量的书籍。,"Доктор, э-э... кхм, можно мне войти? Говорят, в вашем кабинете собрано много книг."
+char_148_nearl_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_148_nearl_CN_038,New Year's blessing,"Tonight in the Grand Knight Territory, the corporations who've won the bidding war for firework permits will blanket the sky, and out in the barrens, destitute settlements will warm themselves on firewood as a rare luxury. While you can have your name written in those New Year's fireworks, I'm more than glad that I have brought those people firewood.",今晚在大骑士领，那些竞拍到了“烟火权”的企业，会用烟花铺满整个天空；而在荒地上，贫苦的聚落会难得奢侈地烧起柴火取暖。比起让名字出现在新年的烟花里，我更高兴自己曾为人送过薪柴。,"Сегодня вечером в Великом рыцарском уделе корпорации, выкупившие «право на фейерверки», засыпят небо огнями, а в пустошах бедные посёлки в редкой роскоши разожгут костры, чтобы согреться. Куда приятнее думать, что я когда-то подбросила дров людям, чем что моё имя появится в новогоднем фейерверке."
+char_148_nearl_CN_042,Greeting,"Good morning to you, Doctor.",早上好，博士。,"Доброе утро, Доктор."
+char_148_nearl_CN_043,Birthday,"Happy birthday, Doctor. Aplogies that I don't have anything that might pique your interest with me, but perhaps you'd like this book on the history of the knights of Kazimierz? Forgive me, I've already given you my knight's oath, and anything I could grant you beyond that is negligible by comparison.",生日快乐，博士，我没有特殊的礼物，您愿意收下这本有关卡西米尔骑士历史的书吗？我已经对您许下过骑士的誓言，除此之外我能赠予的一切都微不足道，还请您见谅。,"С днём рождения, Доктор. У меня нет особого подарка — примете ли вы эту книгу об истории рыцарства Казимежа? Я уже дала вам рыцарскую клятву, и всё, что я могу добавить к ней, ничтожно. Прошу простить."
+char_148_nearl_CN_044,Anniversary Celebration,"When I was bestowed the title of Radiant Knight, the General Chamber of Commerce didn't much appreciate my shine. Fortunately, neither Shining nor Rhodes Island have since found me too bright to look at. As vast as the land is, I imagine the rays of the sun will only reach so far. In that respect, I will strive until I can strive no more.",当我被封为耀骑士的时候，商业联合会其实并不欣赏我的光芒，所幸后来闪灵和罗德岛都不认为我太过刺眼。以这片大地之广阔，我想即使是太阳的光辉于它而言也一分不多。我愿为之竭尽全力。,"Когда меня возвели в звание Сияющего Рыцаря, Торговая палата и не думала восхищаться моим светом. К счастью, позже ни Шайнинг, ни Родос не сочли его слишком ярким. Настолько велика эта земля, что даже солнечный свет не прибавит ей ничего. Я готова отдаться ей полностью."

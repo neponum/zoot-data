@@ -1,39 +1,39 @@
-id,title,original,translation
-char_158_milu_CN_001,Appointed as Assistant,I'm keeping an eye on our surroundings. So far everything seems fine.,
-char_158_milu_CN_002,Talk 1,"You should know that some of those eyes on you hold nothing but malice. You're not safe, not even at Rhodes Island.",
-char_158_milu_CN_003,Talk 2,"Don't be afraid of those hostiles hiding in the shadow. No matter how those criminals try to hide, they can't escape my eyes.",
-char_158_milu_CN_004,Talk 3,I'll have my revenge... even if I must lose my life for it.,
-char_158_milu_CN_005,Talk after Promotion 1,"My clan, my friends, they all perished in the woods of our hometown... The only ones who mourned them were the trees, which gave unto them their leaves.",
-char_158_milu_CN_006,Talk after Promotion 2,This crossbow is manufactured for the sole purpose of punishing sinners. The day will come when I use it to pass my final judgement on those who deserve it.,
-char_158_milu_CN_007,Talk after Trust Increase 1,"Meteorite... we used to be friends. On the day my hometown was destroyed, we were part of the small group that managed to escape.",
-char_158_milu_CN_008,Talk after Trust Increase 2,"Since then, I've never stopped searching for the traitor who led the rebel army to our town. Could it be Meteorite? No, I... It couldn't be her...",
-char_158_milu_CN_009,Talk after Trust Increase 3,"...Oh, did I fall asleep? Sorry, I've been spending more time patrolling these days... It's fine, you say? But... um, thank you for caring.",
-char_158_milu_CN_010,Idle,I'd like to take a nap...,
-char_158_milu_CN_011,Onboard,"Firewatch here. I'm a sniper. To avenge my fallen clan, I need all the power I can get.",
-char_158_milu_CN_012,Watching Battle Record,I need more power...,
-char_158_milu_CN_013,Promotion 1,Thanks for appointing me to this position.,
-char_158_milu_CN_014,Promotion 2,"Thank you for the promotion. I hope you'll keep using my powers for the right thing. If you don't, however...",
-char_158_milu_CN_017,Added to Squad,The team is complete.,
-char_158_milu_CN_018,Appointed as Squad Leader,Got it.,
-char_158_milu_CN_019,Depart,"All Operators, get ready!",
-char_158_milu_CN_020,Begin Operation,Enemies spotted. Taking action.,
-char_158_milu_CN_021,Selecting Operator 1,Understood.,
-char_158_milu_CN_022,Selecting Operator 2,Awaiting instructions.,
-char_158_milu_CN_023,Deployment 1,Searching for enemies.,
-char_158_milu_CN_024,Deployment 2,I am in position.,
-char_158_milu_CN_025,In Battle 1,Laying suppressive fire.,
-char_158_milu_CN_026,In Battle 2,Target locked.,
-char_158_milu_CN_027,In Battle 3,Strike inbound.,
-char_158_milu_CN_028,In Battle 4,Firing!,
-char_158_milu_CN_029,4-star Result,I'm not done until I have my revenge...,
-char_158_milu_CN_030,3-star Result,All targets eliminated. Mission complete.,
-char_158_milu_CN_031,Sub 3-star Result,"Mission accomplished, request search for remaining hostiles.",
-char_158_milu_CN_032,Operation Failure,Retreating... immediately...,
-char_158_milu_CN_033,Assigned to Facility,I'm not used to being in a room with so many people...,
-char_158_milu_CN_034,Tap,Huh!?,
-char_158_milu_CN_036,Trust Tap,"Uh, please don't touch my antlers... it tickles...",
-char_158_milu_CN_037,Title,Arknights.,
-char_158_milu_CN_038,New Year's blessing,"New Year's? It's noisy, but I remember days like this back in the forest. We used to sing around the campfire, give each other bracelets weaved from vines... Do you want to hear the songs of my homeland? I've never forgotten them.",
-char_158_milu_CN_042,Greeting,"Huh? Oh, it's you, Doctor.",
-char_158_milu_CN_043,Birthday,"You want to hear my harmonica? Fine. What are you in the mood for?… Calm and leisurely… Alright, here's a little tune called 'Greenleaves.'",
-char_158_milu_CN_044,Anniversary Celebration,Today will be noisy. I think I'll find a quiet place to hide. Have fun with Meteorite and the others.,
+id,title,original,original_zh,translation
+char_158_milu_CN_001,Appointed as Assistant,I'm keeping an eye on our surroundings. So far everything seems fine.,我正在警戒四周，没有问题。,Я осматриваю окрестности. Всё в порядке.
+char_158_milu_CN_002,Talk 1,"You should know that some of those eyes on you hold nothing but malice. You're not safe, not even at Rhodes Island.",一些注视着你的视线是饱含恶意的。即使在罗德岛，您也并不安全。,"Некоторые взгляды, что вы ловите на себе, полны злобы. Даже на «Родосе» вы не в безопасности."
+char_158_milu_CN_003,Talk 2,"Don't be afraid of those hostiles hiding in the shadow. No matter how those criminals try to hide, they can't escape my eyes.",没必要害怕那些阴影中的敌人，这些罪人无论用什么方法躲藏，都欺骗不了我的眼睛。,"Не бойтесь врагов в тени: как бы эти грешники ни прятались, мне их не обмануть."
+char_158_milu_CN_004,Talk 3,I'll have my revenge... even if I must lose my life for it.,即使牺牲我的生命，也一定要完成这次复仇。,Даже ценой моей жизни я должна довести эту месть до конца.
+char_158_milu_CN_005,Talk after Promotion 1,"My clan, my friends, they all perished in the woods of our hometown... The only ones who mourned them were the trees, which gave unto them their leaves.",我的族人和朋友，都葬身在故乡的森林里。只有落叶能掩埋他们。,Мои соплеменники и друзья похоронены в лесу родного края. Только опавшие листья могут их укрыть.
+char_158_milu_CN_006,Talk after Promotion 2,This crossbow is manufactured for the sole purpose of punishing sinners. The day will come when I use it to pass my final judgement on those who deserve it.,这把弩是为了审判罪人制造的。终有一天，我要用它降下最后的裁决。,"Этот арбалет создан, чтобы судить грешников. День, когда я принесу им последний приговор, обязательно наступит."
+char_158_milu_CN_007,Talk after Trust Increase 1,"Meteorite... we used to be friends. On the day my hometown was destroyed, we were part of the small group that managed to escape.",陨星。她曾经是我的朋友。我的故乡被摧毁的那天，只有我们几个人设法逃了出来。,"Метеорит. Она была моей подругой. В день, когда разрушили мой родной край, только нам немногим удалось уйти."
+char_158_milu_CN_008,Talk after Trust Increase 2,"Since then, I've never stopped searching for the traitor who led the rebel army to our town. Could it be Meteorite? No, I... It couldn't be her...",我一直在找那个告密者，把叛军引向故乡的罪人……会是陨星吗？不，我、我不认为是她——,"Я всё ищу доносчика — грешника, что навёл повстанцев на наш край... Неужто это Метеорит? Нет, я, я не думаю, что это она —"
+char_158_milu_CN_009,Talk after Trust Increase 3,"...Oh, did I fall asleep? Sorry, I've been spending more time patrolling these days... It's fine, you say? But... um, thank you for caring.",——我睡着了？抱、抱歉，最近巡逻的时间增加了……不，即使您说没关系也……谢谢您的关心。,"— Я уснула? Про-простите, в последнее время я стала больше патрулировать... Нет, даже если вы говорите, что это ничего... Спасибо за заботу."
+char_158_milu_CN_010,Idle,I'd like to take a nap...,我想稍微睡一下……,Я бы немного поспала...
+char_158_milu_CN_011,Onboard,"Firewatch here. I'm a sniper. To avenge my fallen clan, I need all the power I can get.",狙击手守林人。为了复仇，我需要强大力量的帮助。,Снайпер Страж леса. Для мести мне нужна помощь сильной силы.
+char_158_milu_CN_012,Watching Battle Record,I need more power...,我需要更多的力量。,Мне нужно больше силы.
+char_158_milu_CN_013,Promotion 1,Thanks for appointing me to this position.,感谢您的任命。,Благодарю за назначение.
+char_158_milu_CN_014,Promotion 2,"Thank you for the promotion. I hope you'll keep using my powers for the right thing. If you don't, however...",任命，感谢。从今以后，也请将我的力量用于正途，否则……,"Назначение, благодарность. Отныне обратите мою силу на доброе дело, иначе..."
+char_158_milu_CN_017,Added to Squad,The team is complete.,组队完成。,Группа сформирована.
+char_158_milu_CN_018,Appointed as Squad Leader,Got it.,了解。,Поняла.
+char_158_milu_CN_019,Depart,"All Operators, get ready!",全体干员出击。,"Все оперативники, вперёд."
+char_158_milu_CN_020,Begin Operation,Enemies spotted. Taking action.,发现敌情，立即采取行动。,Обнаружен враг — немедленно действуем.
+char_158_milu_CN_021,Selecting Operator 1,Understood.,了解。,Поняла.
+char_158_milu_CN_022,Selecting Operator 2,Awaiting instructions.,请下达指令。,Жду приказов.
+char_158_milu_CN_023,Deployment 1,Searching for enemies.,现在进行索敌。,Веду поиск.
+char_158_milu_CN_024,Deployment 2,I am in position.,到达目标地点。,Цель достигнута.
+char_158_milu_CN_025,In Battle 1,Laying suppressive fire.,援护。,Прикрытие.
+char_158_milu_CN_026,In Battle 2,Target locked.,瞄准。,Прицеливаюсь.
+char_158_milu_CN_027,In Battle 3,Strike inbound.,发射。,Выстрел.
+char_158_milu_CN_028,In Battle 4,Firing!,开火！,Огонь!
+char_158_milu_CN_029,4-star Result,I'm not done until I have my revenge...,我会一直走下去，直到彻底实现复仇那天。,"Я пойду до конца — до дня, когда месть свершится полностью."
+char_158_milu_CN_030,3-star Result,All targets eliminated. Mission complete.,作战结束。歼灭了所有目标。,Бой окончен. Все цели уничтожены.
+char_158_milu_CN_031,Sub 3-star Result,"Mission accomplished, request search for remaining hostiles.",战斗结束。有必要确认残余敌人的情况。,"Сражение закончено. Надо проверить, не осталось ли врагов."
+char_158_milu_CN_032,Operation Failure,Retreating... immediately...,马上撤退……,Отступаем немедленно...
+char_158_milu_CN_033,Assigned to Facility,I'm not used to being in a room with so many people...,不习惯热闹的房间……,Я не привыкла к людным комнатам...
+char_158_milu_CN_034,Tap,Huh!?,啊……,А...
+char_158_milu_CN_036,Trust Tap,"Uh, please don't touch my antlers... it tickles...",那个，摸我的角的话，有点为难……很痒……,"Это... если тронуть мои рога, будет немного неловко... щекотно..."
+char_158_milu_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_158_milu_CN_038,New Year's blessing,"New Year's? It's noisy, but I remember days like this back in the forest. We used to sing around the campfire, give each other bracelets weaved from vines... Do you want to hear the songs of my homeland? I've never forgotten them.",新年？虽然有些太过吵闹，但是之前在森林里，我们也有这样的日子……我们一起围着篝火唱歌，用藤条编织手串互相赠送……博士想听我们当地的那些歌吗？我还记得它们。,"Новый год? Хотя тут довольно шумно, раньше в лесу у нас тоже бывали такие дни... Мы пели вокруг костра, плели из лоз браслеты и дарили их друг другу... Доктор, хотите послушать наши здешние песни? Я их ещё помню."
+char_158_milu_CN_042,Greeting,"Huh? Oh, it's you, Doctor.",嗯？博士啊。,"Мм? А, это Доктор."
+char_158_milu_CN_043,Birthday,"You want to hear my harmonica? Fine. What are you in the mood for?… Calm and leisurely… Alright, here's a little tune called 'Greenleaves.'",想听我吹奏口琴？可以。博士现在的心情如何？……平静且悠闲……明白了，这首小调叫“绿叶”，请听吧。,"Хотите, я сыграю на губной гармонике? Можно. Какое у вас настроение сейчас?.. Спокойное и безмятежное... Понятно, это мелодия называется «Зелёный лист», слушайте."
+char_158_milu_CN_044,Anniversary Celebration,Today will be noisy. I think I'll find a quiet place to hide. Have fun with Meteorite and the others.,今天是一个有点吵闹的节日，我会找个安静的地方待着。博士就和陨星她们好好玩吧。,Сегодня шумный праздник — я найду тихое место и посижу там. А Доктор пусть веселится с Метеорит и остальными.

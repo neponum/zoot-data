@@ -1,39 +1,39 @@
-id,title,original,translation
-char_199_yak_CN_001,Appointed as Assistant,"I've moved your belongings where you wanted. No worries, it wasn't heavy.",
-char_199_yak_CN_002,Talk 1,The shield is a symbol of a steadfast guardian.,
-char_199_yak_CN_003,Talk 2,"I've been responsible for protecting Young Master SilverAsh... I mean, Master SilverAsh... ever since he was young.",
-char_199_yak_CN_004,Talk 3,"It's not exactly polite to talk about Miss Enya behind her back, but... *sigh* I do pity Miss Enya for what she has suffered. She really deserves a better life.",
-char_199_yak_CN_005,Talk after Promotion 1,"If my shield gets damaged, I should take it to the artisan called Vulcan for repairs. Is that correct?",
-char_199_yak_CN_006,Talk after Promotion 2,This is far beyond my expectation. That artisan is truly skilled. I need to thank her properly.,
-char_199_yak_CN_007,Talk after Trust Increase 1,Life at Rhodes Island is fun. The Snow Realm is rather bland in comparison.,
-char_199_yak_CN_008,Talk after Trust Increase 2,Master did send me to protect Ensia. But I honestly don't think she's the type who would sit there and ask to be protected.,
-char_199_yak_CN_009,Talk after Trust Increase 3,"I am slowly starting to understand why Master SilverAsh holds you in such high regard. Doctor, from this day, feel free to command me as your shield.",
-char_199_yak_CN_010,Idle,"Sometimes, I suddenly start missing my life in the Snow Realm.",
-char_199_yak_CN_011,Onboard,"Ally, I salute you in true Snow Realm fashion. My codename is Matterhorn, and I am one of the guards dispatched here by Master SilverAsh.",
-char_199_yak_CN_012,Watching Battle Record,You have my gratitude.,
-char_199_yak_CN_013,Promotion 1,"Thank you for the approval, Doctor. I am greatly flattered.",
-char_199_yak_CN_014,Promotion 2,"I will not step back, not even if this shield shatters the very next second. Not because of my loyalty, but because of my conviction.",
-char_199_yak_CN_017,Added to Squad,At your service.,
-char_199_yak_CN_018,Appointed as Squad Leader,I am honored.,
-char_199_yak_CN_019,Depart,I shall protect the team.,
-char_199_yak_CN_020,Begin Operation,All is ready.,
-char_199_yak_CN_021,Selecting Operator 1,I shall be your vanguard.,
-char_199_yak_CN_022,Selecting Operator 2,My shield is ready.,
-char_199_yak_CN_023,Deployment 1,Hm!,
-char_199_yak_CN_024,Deployment 2,Hoo-yah!,
-char_199_yak_CN_025,In Battle 1,Retribution!,
-char_199_yak_CN_026,In Battle 2,I'm not here just for show!,
-char_199_yak_CN_027,In Battle 3,"With my conviction, I shall bring any monster to its knees!",
-char_199_yak_CN_028,In Battle 4,You don't have what it takes!,
-char_199_yak_CN_029,4-star Result,I wasn't even giving my all!,
-char_199_yak_CN_030,3-star Result,Their strikes can barely tickle me.,
-char_199_yak_CN_031,Sub 3-star Result,"I'll pull off a perfect victory next time for you, I promise.",
-char_199_yak_CN_032,Operation Failure,I should not have taken the enemies lightly. Now I pay the price.,
-char_199_yak_CN_033,Assigned to Facility,"Very nice room, this one. Furnished tastefully, with a peaceful atmosphere.",
-char_199_yak_CN_034,Tap,Mhmm.,
-char_199_yak_CN_036,Trust Tap,This is my signature dish. How do you like it?,
-char_199_yak_CN_037,Title,Arknights.,
-char_199_yak_CN_038,New Year's blessing,"It's only natural for a guardian to keep his eyes peeled on New Year's day. Troubles do not shy away from celebration days. Rather, they are more likely to jump on people when they let their guard down. Rhodes Island is a comparatively safe place, but you must not lower your defense, Doctor. Happy new year.",
-char_199_yak_CN_042,Greeting,"Good day, Doctor.",
-char_199_yak_CN_043,Birthday,"It's your birthday, Doctor, isn't it? No need to worry, for I dare not forget the date. It's just the gift I prepared... I'm really not sure if you are going to appreciate it... So please, Doctor, do me a favor and open it after I leave. Thank you.",
-char_199_yak_CN_044,Anniversary Celebration,"I'm actually not familiar with what lies outside the Snow Realm, since most of my job was to simply perform the duties my master has entrusted to me. I need to broaden my horizon. Even though I'm no more than a guardian, I need to learn more and see more.",
+id,title,original,original_zh,translation
+char_199_yak_CN_001,Appointed as Assistant,"I've moved your belongings where you wanted. No worries, it wasn't heavy.",您的货物我已经搬过去了。举手之劳，别客气。,"Я отнёс ваши вещи, куда вы просили. Пустяк, не стоит благодарности."
+char_199_yak_CN_002,Talk 1,The shield is a symbol of a steadfast guardian.,盾牌，就是守护。,Щит — это защита.
+char_199_yak_CN_003,Talk 2,"I've been responsible for protecting Young Master SilverAsh... I mean, Master SilverAsh... ever since he was young.",我从银灰少爷……不，老爷。我从老爷少年时就开始负责保护他。,"Я охранял молодого господина Сильвераша... Нет, господина. Я начал защищать его, когда он был ещё юношей."
+char_199_yak_CN_004,Talk 3,"It's not exactly polite to talk about Miss Enya behind her back, but... *sigh* I do pity Miss Enya for what she has suffered. She really deserves a better life.",谈论这个是不礼貌的，但恩雅小姐的遭遇……确实令人感到忧伤。她理应有更好的生活。,"Невежливо об этом говорить, но то, что выпало на долю госпожи Эньи... и правда вызывает печаль. Она заслуживает лучшей жизни."
+char_199_yak_CN_005,Talk after Promotion 1,"If my shield gets damaged, I should take it to the artisan called Vulcan for repairs. Is that correct?",万一，这面盾有什么损坏的话，就去找那位叫火神的工匠修理，没错吧？,"Если вдруг этот щит повредится, мне следует отнести его мастеру по имени Вулкан, верно?"
+char_199_yak_CN_006,Talk after Promotion 2,This is far beyond my expectation. That artisan is truly skilled. I need to thank her properly.,意外，真是意外。那位铁匠的手艺真的不错。我得好好谢谢她才行。,"Неожиданность, поистине неожиданность. Этот кузнец и правда искусна. Я должен как следует её поблагодарить."
+char_199_yak_CN_007,Talk after Trust Increase 1,Life at Rhodes Island is fun. The Snow Realm is rather bland in comparison.,罗德岛的生活十分有趣，相比之下，在雪境度过的日子都比较平淡。,"Жизнь на Родосе очень интересная. Дни, проведённые в Снежной стране, по сравнению с ней кажутся мне теперь довольно пресными."
+char_199_yak_CN_008,Talk after Trust Increase 2,Master did send me to protect Ensia. But I honestly don't think she's the type who would sit there and ask to be protected.,虽然老爷派我来保护二小姐，老实说，我不认为二小姐是会坐在那里乖乖等人来保护她的类型。,"Хотя господин послал меня защищать младшую госпожу, честно говоря, я не думаю, что она из тех, кто станет сидеть и ждать, пока её защитят."
+char_199_yak_CN_009,Talk after Trust Increase 3,"I am slowly starting to understand why Master SilverAsh holds you in such high regard. Doctor, from this day, feel free to command me as your shield.",银灰老爷对你如此器重的原因，我多少也有点明白了。以后请把我也当作你的盾。,"Я отчасти начал понимать, почему господин Сильвераш так высоко вас ценит. Отныне считайте и меня своим щитом."
+char_199_yak_CN_010,Idle,"Sometimes, I suddenly start missing my life in the Snow Realm.",有时候也会忽然想念起雪境的生活。,Иногда вдруг начинаю скучать по жизни в Снежной стране.
+char_199_yak_CN_011,Onboard,"Ally, I salute you in true Snow Realm fashion. My codename is Matterhorn, and I am one of the guards dispatched here by Master SilverAsh.",同盟者，在此对您致以雪境之礼。我是银灰老爷此次派驻的护卫之一，代号为角峰。,"Союзник, приветствую вас по обычаю Снежной страны. Я один из стражей, направленных сюда господином Сильверашем. Позывной — Маттерхорн."
+char_199_yak_CN_012,Watching Battle Record,You have my gratitude.,感谢。,Благодарю.
+char_199_yak_CN_013,Promotion 1,"Thank you for the approval, Doctor. I am greatly flattered.",承蒙您的另眼相待，实在愧不敢当。,Вы оказываете мне слишком много доверия — я не достоин такой чести.
+char_199_yak_CN_014,Promotion 2,"I will not step back, not even if this shield shatters the very next second. Not because of my loyalty, but because of my conviction.",即使这盾下一刻粉碎，我也绝不会退后半步。此举无关忠义，只是信念使然。,"Даже если в следующую секунду этот щит разлетится, я не отступлю ни на шаг. Дело здесь не в верности, а в убеждении."
+char_199_yak_CN_017,Added to Squad,At your service.,听从吩咐。,К вашим услугам.
+char_199_yak_CN_018,Appointed as Squad Leader,I am honored.,不敢当。,Не смею принять такую честь.
+char_199_yak_CN_019,Depart,I shall protect the team.,各位，由我护卫。,Я прикрываю всех.
+char_199_yak_CN_020,Begin Operation,All is ready.,这是有准备的开始。,Всё готово к началу.
+char_199_yak_CN_021,Selecting Operator 1,I shall be your vanguard.,我可以担当先锋。,Я могу идти вперёд.
+char_199_yak_CN_022,Selecting Operator 2,My shield is ready.,我的盾准备好了。,Мой щит готов.
+char_199_yak_CN_023,Deployment 1,Hm!,哼。,Хм!
+char_199_yak_CN_024,Deployment 2,Hoo-yah!,喝！,Ха-а!
+char_199_yak_CN_025,In Battle 1,Retribution!,自讨苦吃。,Сам напросился.
+char_199_yak_CN_026,In Battle 2,I'm not here just for show!,这不止是力量而已。,Дело не только в силе.
+char_199_yak_CN_027,In Battle 3,"With my conviction, I shall bring any monster to its knees!",有此信念，便能化身鬼神！,С такой верой я могу стать демоном!
+char_199_yak_CN_028,In Battle 4,You don't have what it takes!,你的觉悟根本不够！,Тебе не хватает решимости!
+char_199_yak_CN_029,4-star Result,I wasn't even giving my all!,还没有发挥出百分之百的力量！,Я ещё не использовал всю свою силу!
+char_199_yak_CN_030,3-star Result,Their strikes can barely tickle me.,真是不痛不痒的进攻。,Эти удары меня даже не задели.
+char_199_yak_CN_031,Sub 3-star Result,"I'll pull off a perfect victory next time for you, I promise.",下次一定会为您献上完美的胜利。,В следующий раз я непременно преподнесу вам безупречную победу.
+char_199_yak_CN_032,Operation Failure,I should not have taken the enemies lightly. Now I pay the price.,不该如此轻视敌人的，这是代价。,Не следовало недооценивать врага. Вот цена.
+char_199_yak_CN_033,Assigned to Facility,"Very nice room, this one. Furnished tastefully, with a peaceful atmosphere.",真是不错的房间，装修讲究，气氛祥和。,"Прекрасная комната: убранство со вкусом, атмосфера мирная."
+char_199_yak_CN_034,Tap,Mhmm.,嗯。,Мм.
+char_199_yak_CN_036,Trust Tap,This is my signature dish. How do you like it?,这是我的拿手菜，味道怎么样。,Это моё фирменное блюдо. Как вам?
+char_199_yak_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_199_yak_CN_038,New Year's blessing,"It's only natural for a guardian to keep his eyes peeled on New Year's day. Troubles do not shy away from celebration days. Rather, they are more likely to jump on people when they let their guard down. Rhodes Island is a comparatively safe place, but you must not lower your defense, Doctor. Happy new year.",身为护卫，新年这一天就更不能懈怠，危险不会因为节日而消失，相反，可能会在人们懈怠的时候出现。博士，罗德岛还算安全，但也不要掉以轻心。新年快乐。,"Для стража в Новый год тем более нельзя расслабляться. Опасность не исчезает из-за праздника — наоборот, она может прийти, когда все ослабили бдительность. Родос — сравнительно безопасное место, но и здесь не теряйте бдительности, Доктор. С Новым годом."
+char_199_yak_CN_042,Greeting,"Good day, Doctor.",您好，博士。,"Здравствуйте, Доктор."
+char_199_yak_CN_043,Birthday,"It's your birthday, Doctor, isn't it? No need to worry, for I dare not forget the date. It's just the gift I prepared... I'm really not sure if you are going to appreciate it... So please, Doctor, do me a favor and open it after I leave. Thank you.",今天是博士的生日啊。啊啊，忘倒是没有忘，只是我准备的礼物，实在不知道博士会不会喜欢……麻烦您在我离开后再打开它吧，多谢了。,"Сегодня день рождения Доктора. О, я не забыл — просто не знаю, понравится ли вам подарок, который я подготовил... Прошу открыть его после того, как я уйду. Благодарю."
+char_199_yak_CN_044,Anniversary Celebration,"I'm actually not familiar with what lies outside the Snow Realm, since most of my job was to simply perform the duties my master has entrusted to me. I need to broaden my horizon. Even though I'm no more than a guardian, I need to learn more and see more.",雪境之外的事情，其实我并不是那么地了解，我只是履行老爷交给我的职责而已。我想我的见识可能还是太少了，即便只是一个守卫者，我也应当去了解更多的事情，看得更远。,"О том, что происходит за пределами Снежной страны, я на самом деле знаю немного. Я лишь исполняю долг, который возложил на меня господин. Наверное, мой кругозор всё ещё узок. Даже будучи просто стражем, я должен узнавать больше и смотреть дальше."

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_130_doberm_CN_001,Appointed as Assistant,"Doctor, are the new recruits keeping up with my basic training regimen?",
-char_130_doberm_CN_002,Talk 1,"A balanced, regular diet is also an important part of daily training. Any complainers get fifty laps around the deck.",
-char_130_doberm_CN_003,Talk 2,"As a military instructor, it's important to achieve the perfect balance between strictness and leniency. To be honest... I may be a bit too hard on Fang...",
-char_130_doberm_CN_004,Talk 3,"When putting your Operators into squads, it's crucial to assign them positions where they can exercise their skills to the fullest. It's true that Operators' ability is important, what's really being tested here is your judgement.",
-char_130_doberm_CN_005,Talk after Promotion 1,"Doctor, when training Operators, you need to work on spiritual fulfillment as much as improving their physiques and skills. After all, they need to be mentally strong enough to survive interrogations and all sorts of attacks on their minds.",
-char_130_doberm_CN_006,Talk after Promotion 2,"You're looking for the newbies? They're training out on the deck. Yes, I do realize what the weather's like right now. Of course I do.",
-char_130_doberm_CN_007,Talk after Trust Increase 1,Anomalies... ha. You can never fool the eyes of the 'Hound'.,
-char_130_doberm_CN_008,Talk after Trust Increase 2,"If you believe that command allows you to slack off whenever you want, then I WILL correct your misconception, Doctor.",
-char_130_doberm_CN_009,Talk after Trust Increase 3,"If I hope to remain at your side through all the difficulties to come, I must be even harder on myself. After all, with the world around us being what it is... the only way we can keep it together is to keep training our mental strength.",
-char_130_doberm_CN_010,Idle,No slacking off!,
-char_130_doberm_CN_011,Onboard,"Attention! I am Dobermann, former military instructor for the Bolívarian armed forces. Now, let's cut to the chase. Hand over the list of Operators in need of training.",
-char_130_doberm_CN_012,Watching Battle Record,This is how our training pays off.,
-char_130_doberm_CN_013,Promotion 1,"Promotion, huh? Thanks. I'm just doing my job.",
-char_130_doberm_CN_014,Promotion 2,The responsibility for training the future of Rhodes Island is on my shoulders. I will do my best to be worthy of that responsibility.,
-char_130_doberm_CN_017,Added to Squad,Got it.,
-char_130_doberm_CN_018,Appointed as Squad Leader,Then show me the briefing docs for the mission.,
-char_130_doberm_CN_019,Depart,Calling all hands. This is not a drill!,
-char_130_doberm_CN_020,Begin Operation,Time to interrogate.,
-char_130_doberm_CN_021,Selecting Operator 1,Your orders.,
-char_130_doberm_CN_022,Selecting Operator 2,Orders?,
-char_130_doberm_CN_023,Deployment 1,Got it.,
-char_130_doberm_CN_024,Deployment 2,Commence tracking.,
-char_130_doberm_CN_025,In Battle 1,Filthy scum.,
-char_130_doberm_CN_026,In Battle 2,Take that!,
-char_130_doberm_CN_027,In Battle 3,Tear 'em up!,
-char_130_doberm_CN_028,In Battle 4,Hang in there!,
-char_130_doberm_CN_029,4-star Result,"No matter the challenges we face, strong fundamental combat skills can mean the difference between life and death.",
-char_130_doberm_CN_030,3-star Result,Come back when you're less mediocre.,
-char_130_doberm_CN_031,Sub 3-star Result,"The operation was successful, but we still have room for improvement.",
-char_130_doberm_CN_032,Operation Failure,We have failed. I am the one to blame.,
-char_130_doberm_CN_033,Assigned to Facility,"The newbies are intimidated by me, you say? That's only natural.",
-char_130_doberm_CN_034,Tap,Please mind your behavior.,
-char_130_doberm_CN_036,Trust Tap,"You want to cheer me up? Hm, let me interrogate someone, then.",
-char_130_doberm_CN_037,Title,Arknights.,
-char_130_doberm_CN_038,New Year's blessing,"Whether a workday or a holiday, I'm always on standby. You should keep your guard up too, Doctor.",
-char_130_doberm_CN_042,Greeting,"Good morning to you, Doctor.",
-char_130_doberm_CN_043,Birthday,"Happy birthday, Doctor. Today is a day worth celebrating, but nevertheless, I'll have to ask you focus on work before this evening's birthday party. Sorry, please forget everything I said about 'birthday party.'",
-char_130_doberm_CN_044,Anniversary Celebration,"I always feel a sense of pride, watching as the novices grow step by step. Of course, I don't view that as a contribution to Rhodes Island, but I do walk together with them. Doctor. Never forget your calling, on the road to come.",
+id,title,original,original_zh,translation
+char_130_doberm_CN_001,Appointed as Assistant,"Doctor, are the new recruits keeping up with my basic training regimen?",博士，我安排下去的基础训练项目，新人们都有在认真练习吗？,"Доктор, новички добросовестно тренируются по моей базовой программе?"
+char_130_doberm_CN_002,Talk 1,"A balanced, regular diet is also an important part of daily training. Any complainers get fifty laps around the deck.",合理且有规律的饮食也是日常训练的一环。凡是抗议这项规则的人，首先到甲板上跑五十圈再说。,"Сбалансированное и регулярное питание — тоже часть повседневной подготовки. Все, кто против этого правила, сначала делают пятьдесят кругов по палубе."
+char_130_doberm_CN_003,Talk 2,"As a military instructor, it's important to achieve the perfect balance between strictness and leniency. To be honest... I may be a bit too hard on Fang...",作为教官，日常教学理应不断在严厉和宽容间寻求平衡。老实说，我觉得，我对芬是不是有些太苛刻了。,"Инструктору важно всё время держать баланс между строгостью и мягкостью. Честно говоря... кажется, я слишком строга к Фанг."
+char_130_doberm_CN_004,Talk 3,"When putting your Operators into squads, it's crucial to assign them positions where they can exercise their skills to the fullest. It's true that Operators' ability is important, what's really being tested here is your judgement.",为干员编排小组时，要记得做到人尽其才，让每个人能最大程度地发挥力量。干员的个人能力至关重要，但博士你的判断能力才是最需要考验的。,"Распределяя оперативников по отрядам, надо ставить каждого туда, где он раскроет способности полностью. Способности важны, но Доктор, именно ваше чутьё здесь проверяется по-настоящему."
+char_130_doberm_CN_005,Talk after Promotion 1,"Doctor, when training Operators, you need to work on spiritual fulfillment as much as improving their physiques and skills. After all, they need to be mentally strong enough to survive interrogations and all sorts of attacks on their minds.",博士，干员的训练，不仅要改善他们的体质，增进他们的能力，还要注重提升他们精神方面的修养。别忘了，他们必须拥有能对抗审讯和种种精神干扰的心理素质。,"Доктор, при подготовке оперативников надо развивать не только тело и навыки, но и дух. Не забывайте: им нужна психическая устойчивость, чтобы выдержать допросы и всяческие посягательства на разум."
+char_130_doberm_CN_006,Talk after Promotion 2,"You're looking for the newbies? They're training out on the deck. Yes, I do realize what the weather's like right now. Of course I do.",你在找那些新人？他们正在罗德岛甲板上训练。啊，我当然知道这会儿外面是什么天气。,"Вы ищете новичков? Они тренируются на палубе. Да, я прекрасно понимаю, какая сейчас погода. Конечно понимаю."
+char_130_doberm_CN_007,Talk after Trust Increase 1,Anomalies... ha. You can never fool the eyes of the 'Hound'.,异常的变化……呵呵，“猎犬”的眼睛是无法被欺瞒的。,Аномалии... хм. Глаза «Гончей» не обманешь.
+char_130_doberm_CN_008,Talk after Trust Increase 2,"If you believe that command allows you to slack off whenever you want, then I WILL correct your misconception, Doctor.",如果你觉得，“只要坐在指挥官的位子上，就可以随便放松懈怠”，我一定会纠正你的想法，博士。,"Если вы думаете, что кресло командующего позволит вам расслабляться когда вздумается, Доктор, я непременно поправлю ваше заблуждение."
+char_130_doberm_CN_009,Talk after Trust Increase 3,"If I hope to remain at your side through all the difficulties to come, I must be even harder on myself. After all, with the world around us being what it is... the only way we can keep it together is to keep training our mental strength.",要与博士共度艰难的时光，我就必须更加严格地要求自己。在这种环境下，想与你一起走得更远，唯一的出路，就只有无止尽地磨练自己的心性。,"Если я хочу оставаться с вами во всех грядущих трудностях, я должна требовать с себя ещё строже. В таком мире, как наш, единственный способ идти с вами дальше — неустанно закалять дух."
+char_130_doberm_CN_010,Idle,No slacking off!,不许偷懒！,Никакой лени!
+char_130_doberm_CN_011,Onboard,"Attention! I am Dobermann, former military instructor for the Bolívarian armed forces. Now, let's cut to the chase. Hand over the list of Operators in need of training.",敬礼！曾属玻利瓦尔国民警备队，我是教官杜宾。长话短说，请把需受训干员的名单给我看一下。,"Смирно! Я — Доберманн, бывший инструктор Национальной гвардии Боливара. Короче: дайте мне список оперативников, которых надо подготовить."
+char_130_doberm_CN_012,Watching Battle Record,This is how our training pays off.,这正是平时训练的成果。,Вот что даёт повседневная подготовка.
+char_130_doberm_CN_013,Promotion 1,"Promotion, huh? Thanks. I'm just doing my job.",晋升啊，感谢。我不过是在履行自己的职责。,Повышение? Спасибо. Я просто исполняю свой долг.
+char_130_doberm_CN_014,Promotion 2,The responsibility for training the future of Rhodes Island is on my shoulders. I will do my best to be worthy of that responsibility.,我肩负着为罗德岛培养未来人才的重任，因此，为了配得上这份职责，我会尽我所能。,"На мне лежит ответственность за то, чтобы растить для Родоса будущие кадры. И чтобы быть достойной её, я сделаю всё, что в моих силах."
+char_130_doberm_CN_017,Added to Squad,Got it.,了解。,Понятно.
+char_130_doberm_CN_018,Appointed as Squad Leader,Then show me the briefing docs for the mission.,那么，请给我看一下任务简报。,Тогда покажите мне план миссии.
+char_130_doberm_CN_019,Depart,Calling all hands. This is not a drill!,通知全体人员，这一次，不是训练！,Оповестить личный состав. Это не учения!
+char_130_doberm_CN_020,Begin Operation,Time to interrogate.,审问时间到了。,Время допроса.
+char_130_doberm_CN_021,Selecting Operator 1,Your orders.,待命中。,В ожидании команд.
+char_130_doberm_CN_022,Selecting Operator 2,Orders?,请给我命令。,Приказы?
+char_130_doberm_CN_023,Deployment 1,Got it.,了解。,Понятно.
+char_130_doberm_CN_024,Deployment 2,Commence tracking.,开始追踪。,Начинаю отслеживание.
+char_130_doberm_CN_025,In Battle 1,Filthy scum.,你们这些恶徒。,Грязные негодяи.
+char_130_doberm_CN_026,In Battle 2,Take that!,接招！,Получай!
+char_130_doberm_CN_027,In Battle 3,Tear 'em up!,撕裂！,Разорви их!
+char_130_doberm_CN_028,In Battle 4,Hang in there!,坚持住！,Держись!
+char_130_doberm_CN_029,4-star Result,"No matter the challenges we face, strong fundamental combat skills can mean the difference between life and death.",不管局面有多艰难，只要牢记最基础的战斗方法，关键时刻就能救下自己的命。,"Как бы ни было трудно, помня самые базовые приёмы боя, в нужный миг можно спасти себе жизнь."
+char_130_doberm_CN_030,3-star Result,Come back when you're less mediocre.,磨练好技巧再来吧，废物们。,"Возвращайтесь, когда научитесь хоть чему-то, негодники."
+char_130_doberm_CN_031,Sub 3-star Result,"The operation was successful, but we still have room for improvement.",虽然作战是成功的，但细节仍有改善的余地。,"Операция прошла успешно, но детали ещё можно улучшить."
+char_130_doberm_CN_032,Operation Failure,We have failed. I am the one to blame.,这次作战失败，责任由我承担。,Миссия провалена. Ответственность беру я.
+char_130_doberm_CN_033,Assigned to Facility,"The newbies are intimidated by me, you say? That's only natural.",新人们有点害怕我？这是理所当然的。,Новички меня боятся? Это естественно.
+char_130_doberm_CN_034,Tap,Please mind your behavior.,请注意自己的言行举止。,Следите за своими словами и поступками.
+char_130_doberm_CN_036,Trust Tap,"You want to cheer me up? Hm, let me interrogate someone, then.",让我心情变好的方法啊……哼，也许，参与一场审讯也可以。,"Хотите поднять мне настроение? Мм, тогда, пожалуй, поучаствовать в допросе."
+char_130_doberm_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_130_doberm_CN_038,New Year's blessing,"Whether a workday or a holiday, I'm always on standby. You should keep your guard up too, Doctor.",不管平时还是节假日，我都随时待命。博士也不应当过于松懈。,"Будь то будни или праздники, я всегда на связи. И вам, Доктор, не стоит расслабляться."
+char_130_doberm_CN_042,Greeting,"Good morning to you, Doctor.",早上好，博士。,"Доброе утро, Доктор."
+char_130_doberm_CN_043,Birthday,"Happy birthday, Doctor. Today is a day worth celebrating, but nevertheless, I'll have to ask you focus on work before this evening's birthday party. Sorry, please forget everything I said about 'birthday party.'",生日快乐博士，今天是个值得庆祝的日子，但在晚上的生日宴会前，还是要请你专注于工作。咳，生日宴会的事，还请你装作没有听到。,"С днём рождения, Доктор. Сегодня день, достойный праздника, но до вечернего торжества я всё же попрошу вас сосредоточиться на работе. Кх, забудьте, что я сказала про «торжество»."
+char_130_doberm_CN_044,Anniversary Celebration,"I always feel a sense of pride, watching as the novices grow step by step. Of course, I don't view that as a contribution to Rhodes Island, but I do walk together with them. Doctor. Never forget your calling, on the road to come.",看着那些孩子们一步步成长，心里总有一份骄傲吧。我当然不会将这视为我对罗德岛的贡献，但这的确是我与罗德岛一同走过的证明。博士，在今后的道路上，也请牢记使命。,"Каждый раз, глядя, как эти дети растут шаг за шагом, я чувствую гордость. Конечно, я не считаю это своим вкладом в Родос — но это доказательство того, что я шла вместе с ним. Доктор, на дороге впереди тоже не забывайте о своём призвании."

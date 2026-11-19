@@ -1,39 +1,39 @@
-id,title,original,translation
-char_172_svrash_CN_001,Appointed as Assistant,There are better ways to kill time. Care to try one?,
-char_172_svrash_CN_002,Talk 1,"Why the constant sullen face? Can't you at least smile for me? Good. That's what I want to see... Yes, there's no one better suited to solve your problems than me... Isn't that right?",
-char_172_svrash_CN_003,Talk 2,"That girl... Amiya, I believe her name was? She's no ordinary girl. If you don't put shackles on her wrists today, you will find yourself placing a crown upon her head tomorrow.",
-char_172_svrash_CN_004,Talk 3,"The stability of the alliance between Karlan and Rhodes Island depends solely on your state of mind, and mine. As such, we should at least try to get along, my friend.",
-char_172_svrash_CN_005,Talk after Promotion 1,"I suppose... it's high time I signed this contract. Of course, I do know that the terms are in yours, and Rhodes Island's favor.",
-char_172_svrash_CN_006,Talk after Promotion 2,"I'm well aware that this contract offers me nothing... But what does that matter? I shall nonetheless accept this unequal treaty. The reason being that I, SilverAsh, recognize that you warrant it.",
-char_172_svrash_CN_007,Talk after Trust Increase 1,"Is Ensia giving you trouble? My apologies. It was originally my own responsibility to foster and guide her, but it's unlikely I will be able to do so. So I must ask... could you do it in my stead, {@nickname}?",
-char_172_svrash_CN_008,Talk after Trust Increase 2,"Could you show me to Rhodes Island's deck? No, I'd just like to get a view of the area. Tenzin needs to spread his wings every once in a while as well. He must be longing to soar through the night sky.",
-char_172_svrash_CN_009,Talk after Trust Increase 3,"If this continues, there will come a day when you and I confront one another... I seem delighted, you say? Hah, perhaps I am. You would be a worthy opponent, that's for certain. Let us make the most of our time before that day comes.",
-char_172_svrash_CN_010,Idle,"When the aether darkens, 'tis an omen that snowfall draws near...'",
-char_172_svrash_CN_011,Onboard,"I, SilverAsh, have joined your cause as a sworn ally. Whatever your plans may be, do not disappoint me.",
-char_172_svrash_CN_012,Watching Battle Record,"For one to travel such an arduous path, one absolutely must have experience.",
-char_172_svrash_CN_013,Promotion 1,"Ostentatious titles are one thing, but the trust accompanying them is what concerns me. You surely know that.",
-char_172_svrash_CN_014,Promotion 2,"It takes a daring soul to drag me into their war. That being so, I, SilverAsh, will show my prowess for all of Rhodes Island to see.",
-char_172_svrash_CN_017,Added to Squad,We all have our roles to play. Use my abilities as best you see fit.,
-char_172_svrash_CN_018,Appointed as Squad Leader,You wish me to act as your proxy? Very well. But you must pay me due tribute later.,
-char_172_svrash_CN_019,Depart,Compassion saves no one on the battlefield.,
-char_172_svrash_CN_020,Begin Operation,"Show me what you're made of. Amuse me, if you even can.",
-char_172_svrash_CN_021,Selecting Operator 1,What are you planning?,
-char_172_svrash_CN_022,Selecting Operator 2,Made up your mind?,
-char_172_svrash_CN_023,Deployment 1,Acknowledged.,
-char_172_svrash_CN_024,Deployment 2,Very well.,
-char_172_svrash_CN_025,In Battle 1,'The fool flaunting his gallantry reaches none with his vanity...',
-char_172_svrash_CN_026,In Battle 2,"'Fool, for what reason hast thou come?'",
-char_172_svrash_CN_027,In Battle 3,"'Art thou mine worthy enemy, or art thou naught but a jester?'",
-char_172_svrash_CN_028,In Battle 4,'Thy pleas falleth upon deaf ears.',
-char_172_svrash_CN_029,4-star Result,"The fiercer the battle, the more jubilant the victory.",
-char_172_svrash_CN_030,3-star Result,A satisfying battle. It brought palpitations even to my heart.,
-char_172_svrash_CN_031,Sub 3-star Result,We should strive for better.,
-char_172_svrash_CN_032,Operation Failure,"Retreat at once, while there is still time.",
-char_172_svrash_CN_033,Assigned to Facility,"For a place to rest my feet, it is acceptable.",
-char_172_svrash_CN_034,Tap,Hmm?,
-char_172_svrash_CN_036,Trust Tap,Let me rest for a brief while. I'm more tired than I thought. My apologies.,
-char_172_svrash_CN_037,Title,Arknights.,
-char_172_svrash_CN_038,New Year's blessing,"The snow falls heavy... The blizzards of far-off Kjerag continue year after year, but the political landscape never stands still from one moment to the next. For those who fail to catch up with the changes, this age-old snowstorm will come to bury them beneath.",
-char_172_svrash_CN_042,Greeting,"You haven't changed one bit, my friend.",
-char_172_svrash_CN_043,Birthday,"Oh? Does my appearance aboard Rhodes Island today surprise you? The journey here from Kjerag certainly was an extensive one, but you shouldn't underestimate the fellowship between us so. Happy birthday, my ally and my friend. This present aside, do you have any birthday wishes?",
-char_172_svrash_CN_044,Anniversary Celebration,"Multiple times now, Rhodes Island has shown its ability and its responsibility as a medical firm. But I'm very curious. In your eyes, will this merely stop at Oripathy? What new ripples will you send across the lands in future? I have great expectations.",
+id,title,original,original_zh,translation
+char_172_svrash_CN_001,Appointed as Assistant,There are better ways to kill time. Care to try one?,消磨时间尚有更好的方法。想不想尝试一下？,Есть и получшие способы убить время. Не хотите попробовать?
+char_172_svrash_CN_002,Talk 1,"Why the constant sullen face? Can't you at least smile for me? Good. That's what I want to see... Yes, there's no one better suited to solve your problems than me... Isn't that right?",总是这副心事重重的样子可不行，看见我应当微笑啊……好，就是这样。毕竟我是能帮你解决难题的最好人选，不是吗。,"Не годится всё время ходить с таким хмурым лицом — улыбнитесь мне... Вот, именно так. В конце концов, нет никого лучше, кто мог бы решить ваши проблемы. Не правда ли?"
+char_172_svrash_CN_003,Talk 2,"That girl... Amiya, I believe her name was? She's no ordinary girl. If you don't put shackles on her wrists today, you will find yourself placing a crown upon her head tomorrow.",那个孩子，是叫阿米娅吗……了不起。若是现在不给她装上枷锁，就要有在未来为她戴上王冠的觉悟。,"Та девочка... Амия, кажется, её имя? Непростая. Если сегодня вы не заковали её в цепи, будьте готовы завтра возложить ей на голову корону."
+char_172_svrash_CN_004,Talk 3,"The stability of the alliance between Karlan and Rhodes Island depends solely on your state of mind, and mine. As such, we should at least try to get along, my friend.",喀兰贸易公司与罗德岛之联盟的稳固程度，完全取决于你我的想法。看来还是要好好相处呀，我的盟友？,"Прочность союза между Карланской торговлей и Родосом целиком зависит от того, что думаем вы и я. Видно, нам придётся ладить друг с другом, мой союзник?"
+char_172_svrash_CN_005,Talk after Promotion 1,"I suppose... it's high time I signed this contract. Of course, I do know that the terms are in yours, and Rhodes Island's favor.",这份合约，我可以签署。没错，我确实看到其中每条条款都对你和罗德岛有利。,"Пожалуй, пора мне подписать этот договор. Да, я вижу: каждое его условие выгодно вам и Родосу."
+char_172_svrash_CN_006,Talk after Promotion 2,"I'm well aware that this contract offers me nothing... But what does that matter? I shall nonetheless accept this unequal treaty. The reason being that I, SilverAsh, recognize that you warrant it.",我当然明白这合约是对我的戏弄，可是这又如何呢，银灰愿意签署这份不平等的合同——因为你值得银灰这么做。,"Я превосходно понимаю, что этот договор — насмешка надо мной. Но что с того? Я всё равно подпишу его — потому что вы достойны того, чтобы Сильвераш пошёл на неравный договор."
+char_172_svrash_CN_007,Talk after Trust Increase 1,"Is Ensia giving you trouble? My apologies. It was originally my own responsibility to foster and guide her, but it's unlikely I will be able to do so. So I must ask... could you do it in my stead, {@nickname}?",恩希亚是否给你添了麻烦？抱歉……保护她、引导她本应是我的责任。仅此一事，今日的我无能为力；也仅此一事，我想请{@nickname}你代为完成。,"Энсиа не доставляет вам хлопот? Прошу прощения. Воспитывать и направлять её было моей обязанностью, но теперь я вряд ли смогу это сделать. Поэтому мне придётся просить... не могли бы вы подменить меня в этом, {@nickname}?"
+char_172_svrash_CN_008,Talk after Trust Increase 2,"Could you show me to Rhodes Island's deck? No, I'd just like to get a view of the area. Tenzin needs to spread his wings every once in a while as well. He must be longing to soar through the night sky.",可否引我去罗德岛的甲板？不，就是眺望眺望风景。太久没有展翅，丹增这小家伙，想必也很怀念荒野的气息吧。,"Не могли бы вы проводить меня на палубу Родоса? Нет, просто посмотреть на окрестности. Давно не расправлял крылья — малыш Тензин, верно, тоже скучает по просторам."
+char_172_svrash_CN_009,Talk after Trust Increase 3,"If this continues, there will come a day when you and I confront one another... I seem delighted, you say? Hah, perhaps I am. You would be a worthy opponent, that's for certain. Let us make the most of our time before that day comes.",这样发展下去，你我互相博弈的那一天，迟早会到来。但是我，看上去很高兴？也许吧，毕竟我很期待和你交手，也会珍惜那一天到来前的时光。,"Если так пойдёт дальше, рано или поздно настанет день, когда мы с вами схватимся... Кажусь ли я довольным? Хм, может, и так. Вы достойный противник, это точно. Давайте ценить время до того дня."
+char_172_svrash_CN_010,Idle,"When the aether darkens, 'tis an omen that snowfall draws near...'",“——天空似乎暗了下来，要下雪了——”,«— Небо потемнело — быть снегу —»
+char_172_svrash_CN_011,Onboard,"I, SilverAsh, have joined your cause as a sworn ally. Whatever your plans may be, do not disappoint me.",银灰，你的盟友，前来助力。你不会让我失望的，对吗。,"Сильвераш, ваш союзник, пришёл помочь. Вы не разочаруете меня, правда?"
+char_172_svrash_CN_012,Watching Battle Record,"For one to travel such an arduous path, one absolutely must have experience.",路途凶险，经验是必不可少的。,"Чтобы пройти такой опасный путь, непременно нужен опыт."
+char_172_svrash_CN_013,Promotion 1,"Ostentatious titles are one thing, but the trust accompanying them is what concerns me. You surely know that.",虚衔虽不嫌多，但你也知道，我更看重其中有几分是信任。,"Пустых титлов сколько угодно, но меня интересует, сколько в них доверия. Вы это знаете."
+char_172_svrash_CN_014,Promotion 2,"It takes a daring soul to drag me into their war. That being so, I, SilverAsh, will show my prowess for all of Rhodes Island to see.",竟然邀请我参与战斗，你确实很有胆识——作为回敬，就让罗德岛见识下银灰的手段——！,"Решились позвать меня на бой — вот это смелость! В ответ я покажу Родосу, на что способен Сильвераш!"
+char_172_svrash_CN_017,Added to Squad,We all have our roles to play. Use my abilities as best you see fit.,客随主便，按你的想法安排就好。,"Хозяин здесь задаёт тон — распоряжайтесь моими способностями, как сочтёте нужным."
+char_172_svrash_CN_018,Appointed as Squad Leader,You wish me to act as your proxy? Very well. But you must pay me due tribute later.,要我辅佐你进行指挥？可以，不过也要考虑下代价。,"Хотите, чтобы я помогал вам командовать? Пожалуй. Но об этом стоит помнить — и воздать должное."
+char_172_svrash_CN_019,Depart,Compassion saves no one on the battlefield.,战场之上，善良是无法拯救他人的。,На поле боя сострадание никого не спасает.
+char_172_svrash_CN_020,Begin Operation,"Show me what you're made of. Amuse me, if you even can.",拿出你们全部的实力——这样至少能让我尽兴。,Покажите всю свою силу — хоть мне будет чем развлечься.
+char_172_svrash_CN_021,Selecting Operator 1,What are you planning?,有什么想法？,Каковы ваши планы?
+char_172_svrash_CN_022,Selecting Operator 2,Made up your mind?,决定了？,Решились?
+char_172_svrash_CN_023,Deployment 1,Acknowledged.,我接受。,Принято.
+char_172_svrash_CN_024,Deployment 2,Very well.,可以。,Пусть будет так.
+char_172_svrash_CN_025,In Battle 1,'The fool flaunting his gallantry reaches none with his vanity...',“当他们耀武扬威时，无人知晓……”,«Когда хвастун кичится своей доблестью — никто не слышит...»
+char_172_svrash_CN_026,In Battle 2,"'Fool, for what reason hast thou come?'",“你为何来到这里——”,«Зачем ты пришёл сюда —»
+char_172_svrash_CN_027,In Battle 3,"'Art thou mine worthy enemy, or art thou naught but a jester?'",“我的仇敌，我的玩物？”,«Ты — достойный враг мой или просто шут?»
+char_172_svrash_CN_028,In Battle 4,'Thy pleas falleth upon deaf ears.',“……当他们哀嚎求饶时，无人应答。”,«...Когда он молит о пощаде — никто не отвечает.»
+char_172_svrash_CN_029,4-star Result,"The fiercer the battle, the more jubilant the victory.",战斗越艰难，胜利的喜悦越炽热。,"Чем яростнее бой, тем жарче радость победы."
+char_172_svrash_CN_030,3-star Result,A satisfying battle. It brought palpitations even to my heart.,不错的战斗，即使是我都能感到心潮澎湃。,Бой был стоящим — даже моё сердце забилось чаще.
+char_172_svrash_CN_031,Sub 3-star Result,We should strive for better.,你应该有更高的目标。,Вам следует стремиться к большему.
+char_172_svrash_CN_032,Operation Failure,"Retreat at once, while there is still time.",立刻撤退。现在还来得及。,"Отступайте немедленно, пока не поздно."
+char_172_svrash_CN_033,Assigned to Facility,"For a place to rest my feet, it is acceptable.",作为落脚之处而言，挺不错。,"Как место, где можно передохнуть — сойдёт."
+char_172_svrash_CN_034,Tap,Hmm?,嗯？,Мм?
+char_172_svrash_CN_036,Trust Tap,Let me rest for a brief while. I'm more tired than I thought. My apologies.,过于疲劳了，抱歉。让我稍微休息一下。,"Я устал сильнее, чем думал. Простите, позвольте мне немного отдохнуть."
+char_172_svrash_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_172_svrash_CN_038,New Year's blessing,"The snow falls heavy... The blizzards of far-off Kjerag continue year after year, but the political landscape never stands still from one moment to the next. For those who fail to catch up with the changes, this age-old snowstorm will come to bury them beneath.",雪下大了……远方谢拉格的风雪年年依旧，而政治棋局上的变动却不曾停息片刻。所有无法追赶上变化的，都会被这陈年风雪所掩埋。,"Снег всё сильнее... В далёком Кьераге метели идут год за годом, но политическая обстановка не стоит на месте ни минуты. Все, кто не поспевает за переменами, будут погребены под этим вековым снегом."
+char_172_svrash_CN_042,Greeting,"You haven't changed one bit, my friend.",没什么变化啊，我的盟友。,"Вы ничуть не изменились, мой союзник."
+char_172_svrash_CN_043,Birthday,"Oh? Does my appearance aboard Rhodes Island today surprise you? The journey here from Kjerag certainly was an extensive one, but you shouldn't underestimate the fellowship between us so. Happy birthday, my ally and my friend. This present aside, do you have any birthday wishes?",哦？我今天出现在罗德岛令你很惊讶吗？这趟从谢拉格到罗德岛的行程的确漫长，但你也不该如此低估你我之间的友谊。生日快乐，我的朋友。除了这份礼物之外，你还有什么生日愿望吗？,"О? Удивились, что я сегодня появился на Родосе? Путь из Кьерага был неблизким, но вы зря недооцениваете дружбу между нами. С днём рождения, мой союзник и друг. Кроме этого подарка, есть ли у вас ещё желания?"
+char_172_svrash_CN_044,Anniversary Celebration,"Multiple times now, Rhodes Island has shown its ability and its responsibility as a medical firm. But I'm very curious. In your eyes, will this merely stop at Oripathy? What new ripples will you send across the lands in future? I have great expectations.",罗德岛已经不止一次向我展示了，它作为一家医疗公司的能力与责任。但是我很好奇，你的目光，会仅仅停留在矿石病上吗？未来，你会带给这片大地什么新的波澜？我很期待。,"Родос не раз показывал, на что он способен и какую ответственность несёт как медицинская компания. Но мне любопытно: остановится ли ваш взгляд лишь на орипатии? Какие новые волны вы поднимете на этой земле в грядущем? С нетерпением жду."

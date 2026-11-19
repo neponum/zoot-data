@@ -1,39 +1,39 @@
-id,title,original,translation
-char_174_slbell_CN_001,Appointed as Assistant,"Hm? You're here to pray? Sorry, I'm busy right now.",
-char_174_slbell_CN_002,Talk 1,"Hm? Yes, I'm the current Karlan Saintess. But everyone swamped by work deserves a little break from time to time, don't you think?",
-char_174_slbell_CN_003,Talk 2,Wasting time on trivial affairs is what I call slacking off. What I'm doing right now is… taking the opportunity to recharge.,
-char_174_slbell_CN_004,Talk 3,"Work hard, play hard, right? Don't force all those rigid rules on me.",
-char_174_slbell_CN_005,Talk after Promotion 1,"The Karlan Goddess? We share a good relationship, thanks to my duty as the Saintess.",
-char_174_slbell_CN_006,Talk after Promotion 2,"I'd be happy to help you, but the life of a Karlan Saintess is a busy one. Well, I guess I'll make an exception for you this once, but please make it short.",
-char_174_slbell_CN_007,Talk after Trust Increase 1,"My sis... Ensia... you people at Rhodes Island are all pretty fond of her, right? So it's not like she received any special treatment from that guy. And now... well, I think I get it now. It's fine like this. I'll just keep watching over her. It's fine.",
-char_174_slbell_CN_008,Talk after Trust Increase 2,"I twisted my ankle once when I was a kid. My brother carried me on his back all night, going from house to house until someone agreed to take us in. I decided that very moment that I wanted to grow up to become someone like my brother! But now... heh, forget it.",
-char_174_slbell_CN_009,Talk after Trust Increase 3,"Huh? How did you find me? I'll freeze your toes—Um? Coffee? For me? Thanks. Oh, right, Doctor, wanna hang out here with me for a while? The view is pretty nice. But let's keep it a secret, okay? A secret between just the two of us—aw, this coffee is so bitter!",
-char_174_slbell_CN_010,Idle,It's rare to get to rest like this.,
-char_174_slbell_CN_011,Onboard,"Shh, I sneaked out—oh, um, hi, HR Director! I... I'm here to lend my powers to Rhodes Island. Pramanix, Karlan Saintess, at your service. Bless you, my friend.",
-char_174_slbell_CN_012,Watching Battle Record,I hear a voice... repeating something in my head...,
-char_174_slbell_CN_013,Promotion 1,"'You shall emerge victorious one day.' This is the pledge of Karlan, and what I'm praying for as well.",
-char_174_slbell_CN_014,Promotion 2,Since when did you need blessings too? Can you wait a bit? I'll get ready.,
-char_174_slbell_CN_017,Added to Squad,May the Holy Mt. Karlan be with us.,
-char_174_slbell_CN_018,Appointed as Squad Leader,Follow the bells and you'll find the way.,
-char_174_slbell_CN_019,Depart,Let me pray towards the mountains for you.,
-char_174_slbell_CN_020,Begin Operation,Impurities must be purged.,
-char_174_slbell_CN_021,Selecting Operator 1,Be careful.,
-char_174_slbell_CN_022,Selecting Operator 2,I am ready.,
-char_174_slbell_CN_023,Deployment 1,Let us begin.,
-char_174_slbell_CN_024,Deployment 2,You have my blessings.,
-char_174_slbell_CN_025,In Battle 1,"O Spirits, hear my prayer.",
-char_174_slbell_CN_026,In Battle 2,"Here come the bells, cold winds binding my enemies.",
-char_174_slbell_CN_027,In Battle 3,These powers are a gift from the Holy Mountain.,
-char_174_slbell_CN_028,In Battle 4,"As the bells ring, the impenetrable armor shall be no more.",
-char_174_slbell_CN_029,4-star Result,"It was simple, thanks to the Spirits' power.",
-char_174_slbell_CN_030,3-star Result,The light of Karlan was shining on us.,
-char_174_slbell_CN_031,Sub 3-star Result,If only we could have won without bloodshed... just my wish...,
-char_174_slbell_CN_032,Operation Failure,It's not looking good... I suggest we retreat at once.,
-char_174_slbell_CN_033,Assigned to Facility,It's a really peaceful place.,
-char_174_slbell_CN_034,Tap,Hm?,
-char_174_slbell_CN_036,Trust Tap,"Close your eyes and I'll bring you somewhere new... Do keep your eyes closed, okay?",
-char_174_slbell_CN_037,Title,Arknights.,
-char_174_slbell_CN_038,New Year's blessing,"What am I doing here? You see, Doctor, Ensia's aboard Rhodes Island, and as her big sister, it's only natural for me to pay her a visit on New Year's. You won't have the heart to let Ensia spend the holiday out there alone, would you? How very cruel that would be.",
-char_174_slbell_CN_042,Greeting,"You have my blessings, Doctor.",
-char_174_slbell_CN_043,Birthday,"So—how does it taste? Nice and cool, isn't it? It's my own handmade frosted chocolate. Do you like it? Good, that's a relief, I really spent a lot of time studying it.",
-char_174_slbell_CN_044,Anniversary Celebration,"My brother's here too? Oh, no need to worry, Doctor, we all know what our business is. On this day, we're no more than operators for Rhodes Island. This place is like a little pocket, and I'm here from time to time just to relax, not for anything else.",
+id,title,original,original_zh,translation
+char_174_slbell_CN_001,Appointed as Assistant,"Hm? You're here to pray? Sorry, I'm busy right now.",呣？想要祈祷吗？抱歉，暂时没空哦。,"Эй? Пришли помолиться? Простите, сейчас я занята."
+char_174_slbell_CN_002,Talk 1,"Hm? Yes, I'm the current Karlan Saintess. But everyone swamped by work deserves a little break from time to time, don't you think?",呣？我是现任圣女没错哦。但无论是谁——都有被繁重事务压得喘不过气，想要轻松一下的时候吧。,"Эй? Да, я — нынешняя святая Карлана. Но каждый, кого завалили дела, имеет право немного передохнуть, верно?"
+char_174_slbell_CN_003,Talk 2,Wasting time on trivial affairs is what I call slacking off. What I'm doing right now is… taking the opportunity to recharge.,在闲杂事务上浪费时间才叫懈怠，我只是……比较擅长寻找机会养精蓄锐而已。,"Вот если бы я тратила время на мелочи — вот это было бы безделье. А я просто умею пользоваться случаем, чтобы набраться сил."
+char_174_slbell_CN_004,Talk 3,"Work hard, play hard, right? Don't force all those rigid rules on me.",出来玩耍就要尽兴，别把那些条条框框套在我身上呀。,"Раз вышла погулять — гуляй на полную, не навязывай мне эти рамки."
+char_174_slbell_CN_005,Talk after Promotion 1,"The Karlan Goddess? We share a good relationship, thanks to my duty as the Saintess.",喀兰的神祇吗？因为圣女职务的关系，我和她关系不浅呢。,Богиня Карлана? Благодаря сану святой мы с ней хорошо знакомы.
+char_174_slbell_CN_006,Talk after Promotion 2,"I'd be happy to help you, but the life of a Karlan Saintess is a busy one. Well, I guess I'll make an exception for you this once, but please make it short.",我也很愿意帮助你，但圣女的工作实在是太繁忙了。这次就破例一回，可不要占用我太多时间哦。,"Я бы с радостью помогла, но у святой Карлана дел невпроворот. Ладно, для вас сделаю исключение — только не отнимайте много времени."
+char_174_slbell_CN_007,Talk after Trust Increase 1,"My sis... Ensia... you people at Rhodes Island are all pretty fond of her, right? So it's not like she received any special treatment from that guy. And now... well, I think I get it now. It's fine like this. I'll just keep watching over her. It's fine.",妹——恩希亚那孩子，罗德岛的各位也都挺喜欢她的，是吧？所以，并不是那个人特殊对待她。现在的话，我也算稍微明白了些。嗯，这样就好了，我只要像现在这样看着她就好了。,"Сестрица... Энсия... вам, на Родосе, она тоже нравится, да? Значит, тот человек не оказывал ей особого внимания. А теперь... ну, я, кажется, поняла. Всё хорошо. Я просто буду смотреть за ней, как сейчас. Хорошо."
+char_174_slbell_CN_008,Talk after Trust Increase 2,"I twisted my ankle once when I was a kid. My brother carried me on his back all night, going from house to house until someone agreed to take us in. I decided that very moment that I wanted to grow up to become someone like my brother! But now... heh, forget it.",小时候，我在外玩耍扭伤了脚，是哥哥背了我一晚上才找到了住家。那时我想着，一定要成为哥哥那样的人。但是现在……呵，没什么。,"В детстве я вывихнула лодыжку, и брат носил меня на спине всю ночь, пока не нашёл дом, где нас пустили. Тогда я решила: вырасту и стану такой, как брат. А сейчас... эх, неважно."
+char_174_slbell_CN_009,Talk after Trust Increase 3,"Huh? How did you find me? I'll freeze your toes—Um? Coffee? For me? Thanks. Oh, right, Doctor, wanna hang out here with me for a while? The view is pretty nice. But let's keep it a secret, okay? A secret between just the two of us—aw, this coffee is so bitter!",咦，你怎么找到我的？啧，我要把你的脚趾冻上……唔？咖啡？给我的？谢谢。博士要不要也在这偷会儿懒？这里的风景很好。把这里当作我们两个人的秘密吧。唔，好苦。,"Как вы меня нашли? Я заморожу вам пальцы... Эй? Кофе? Мне? Спасибо. Кстати, Доктор, не хотите здесь посидеть со мной? Вид хороший. Но сохраним это в тайне — между нами, ладно? Ой, горький..."
+char_174_slbell_CN_010,Idle,It's rare to get to rest like this.,难得的小憩呢。,Редкий случай — посидеть вот так.
+char_174_slbell_CN_011,Onboard,"Shh, I sneaked out—oh, um, hi, HR Director! I... I'm here to lend my powers to Rhodes Island. Pramanix, Karlan Saintess, at your service. Bless you, my friend.",嘘，我是偷偷跑出来——啊，嗯，人事主管你也在啊，是的，我是来协助罗德岛的。喀兰圣女，初雪，向你献上至洁的祝福。,"Тсс, я выкралась... а-а, директор по кадрам, и вы здесь! Да, я пришла помогать Родосу. Праманикс, святая Карлана, к вашим услугам. Благословляю вас, друг."
+char_174_slbell_CN_012,Watching Battle Record,I hear a voice... repeating something in my head...,在脑海中……有什么声音……在回响着……,В голове... звук... повторяется...
+char_174_slbell_CN_013,Promotion 1,"'You shall emerge victorious one day.' This is the pledge of Karlan, and what I'm praying for as well.",“汝等终将胜利”——此乃喀兰之允诺，亦是我所祈求。,"«Вы непременно победите» — это обет Карлана, и я тоже об этом молюсь."
+char_174_slbell_CN_014,Promotion 2,Since when did you need blessings too? Can you wait a bit? I'll get ready.,什么时候你也需要祝福啦……能稍等一会吗，我准备一下。,С каких пор вы тоже нуждаетесь в благословении? Подождите немного — я подготовлюсь.
+char_174_slbell_CN_017,Added to Squad,May the Holy Mt. Karlan be with us.,愿喀兰圣山与我们同在。,Пусть святая гора Карлан будет с нами.
+char_174_slbell_CN_018,Appointed as Squad Leader,Follow the bells and you'll find the way.,循着铃音，你定能找到正确的方向。,Следуйте за звоном колокольчика — и найдёте верный путь.
+char_174_slbell_CN_019,Depart,Let me pray towards the mountains for you.,让我为你向群山献上祈祷吧。,Помолюсь за вас горам.
+char_174_slbell_CN_020,Begin Operation,Impurities must be purged.,不洁之物理应被净化。,Нечистое должно быть очищено.
+char_174_slbell_CN_021,Selecting Operator 1,Be careful.,小心一点。,Осторожно.
+char_174_slbell_CN_022,Selecting Operator 2,I am ready.,整理好了。,Я готова.
+char_174_slbell_CN_023,Deployment 1,Let us begin.,战斗吧。,Начнём.
+char_174_slbell_CN_024,Deployment 2,You have my blessings.,祝福你。,Благословляю вас.
+char_174_slbell_CN_025,In Battle 1,"O Spirits, hear my prayer.",神灵啊，愿您倾听我的声音。,"О духи, услышьте мою молитву."
+char_174_slbell_CN_026,In Battle 2,"Here come the bells, cold winds binding my enemies.",铃声已至，风雪缠足。,Звон колокольчика — и враги в сетях холодного ветра.
+char_174_slbell_CN_027,In Battle 3,These powers are a gift from the Holy Mountain.,这力量乃是圣山的馈赠。,Эта сила — дар святой горы.
+char_174_slbell_CN_028,In Battle 4,"As the bells ring, the impenetrable armor shall be no more.",圣铃既响，坚甲不再。,Коль зазвонил колокол — не быть непробиваемой броне.
+char_174_slbell_CN_029,4-star Result,"It was simple, thanks to the Spirits' power.",如有神助，正是此般。,Вот что значит — помощь духов.
+char_174_slbell_CN_030,3-star Result,The light of Karlan was shining on us.,喀兰的光芒照耀在我们身上。,Свет Карлана озарял нас.
+char_174_slbell_CN_031,Sub 3-star Result,If only we could have won without bloodshed... just my wish...,若是不流血就能取得胜利……不，忘了我说的吧。,"Если бы можно было победить без крови... Нет, забудьте, что я сказала."
+char_174_slbell_CN_032,Operation Failure,It's not looking good... I suggest we retreat at once.,回去吧……现在的局势对我方不利。,Возвращайся... сейчас дела идут не в нашу пользу.
+char_174_slbell_CN_033,Assigned to Facility,It's a really peaceful place.,是一个让人心情平静的地方呢。,Здесь такое спокойное место.
+char_174_slbell_CN_034,Tap,Hm?,呣？,Эй?
+char_174_slbell_CN_036,Trust Tap,"Close your eyes and I'll bring you somewhere new... Do keep your eyes closed, okay?",闭上眼，让我带你去个新的地方……一定要闭眼哦。,"Закройте глаза, я отведу вас куда-нибудь новое... Только правда закрывайте, ладно?"
+char_174_slbell_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_174_slbell_CN_038,New Year's blessing,"What am I doing here? You see, Doctor, Ensia's aboard Rhodes Island, and as her big sister, it's only natural for me to pay her a visit on New Year's. You won't have the heart to let Ensia spend the holiday out there alone, would you? How very cruel that would be.",我怎么在这里？你看，恩希亚就在罗德岛，身为姐姐在新年时探望自己的妹妹，这是天经地义的一件事情，博士，你难道忍心让恩希亚一个人在外面过节吗？这样就太狠心了哦。,"Как я здесь? Видите ли, Энсия на Родосе, и старшей сестре естественно навещать младшую в Новый год, Доктор. Неужели вы допустите, чтобы Энсия провела праздник одна? Это было бы очень жестоко."
+char_174_slbell_CN_042,Greeting,"You have my blessings, Doctor.",祝福你，博士。,"Благословляю вас, Доктор."
+char_174_slbell_CN_043,Birthday,"So—how does it taste? Nice and cool, isn't it? It's my own handmade frosted chocolate. Do you like it? Good, that's a relief, I really spent a lot of time studying it.",嗯——味道怎么样？是不是凉凉的？这是我亲手做的霜雪巧克力，很美味吧？喜欢吗？啊啊，那就好，不枉我研究了那么久呢。,"Эм — как на вкус? Холодненькое, правда? Это я сама сделала снежные шоколадки. Вкусно? Нравится? Ах, хорошо, не зря я столько времени пробовала..."
+char_174_slbell_CN_044,Anniversary Celebration,"My brother's here too? Oh, no need to worry, Doctor, we all know what our business is. On this day, we're no more than operators for Rhodes Island. This place is like a little pocket, and I'm here from time to time just to relax, not for anything else.",哥哥也来了？呣……啊，博士不必为此担心，我们都清楚自己应该做什么，在今天，在这里，我们的身份都只是罗德岛的干员，这里也就是我暂时放轻松的一个小天地。,"Брат тоже здесь? Эй... Доктор, не волнуйтесь: мы все знаем, что нам делать. В этот день, здесь мы просто оперативники Родоса. Это место — как маленький уголок, где я иногда расслабляюсь и больше ни о чём."

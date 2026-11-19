@@ -1,39 +1,39 @@
-id,title,original,translation
-char_421_crow_CN_001,Appointed as Assistant,Be your bodyguard? Okay.,
-char_421_crow_CN_002,Talk 1,"I wonder how papa is doing nowadays... But, I trust the mayor to keep her word, so it should be fine.",
-char_421_crow_CN_003,Talk 2,"Though Dossoles is noisy and filled with bad people, life there is still a lot better there than the rest of Bolívar... Mhm? You haven't been there yet, Doctor? Hehe, Let's go together next time then.",
-char_421_crow_CN_004,Talk 3,"Phew… Staying inside all day is so stuffy. Doctor, let's go get some fresh air up on the deck, okay? I'm sure you must be tired from working for so long.",
-char_421_crow_CN_005,Talk after Promotion 1,"Doctor, do you enjoy all this fighting and killing? I don't, not really. But I guess I've been around it too long, and done too much myself... I'm kinda used to it…",
-char_421_crow_CN_006,Talk after Promotion 2,"Getting stronger is nice, but I can't think of what to do once I'm stronger... Doctor, how do you decide what you want to do?",
-char_421_crow_CN_007,Talk after Trust Increase 1,"For the longest time, Papa didn't want me to help him. You know, my personality isn't really suited for what he does. But still... I gave it my all, because he took me in as his daughter.",
-char_421_crow_CN_008,Talk after Trust Increase 2,"Doctor, doctor, can I scooch a little closer to you? Well, the office is so big, it feels a bit empty and lonely sitting so far from you… Can I?",
-char_421_crow_CN_009,Talk after Trust Increase 3,"Doctor, I don't think you can fight at all, but you're just as reliable as papa. It feels like I can just follow your orders, and I won't ever have to think for myself. Oh...? But for me, that's a good thing.",
-char_421_crow_CN_010,Idle,What does the Doctor look like under that mask? Let's sneak a peek…,
-char_421_crow_CN_011,Onboard,"Hello, Doctor. I'm Rafaela, the one Miss Ch'en introduced. I'll be formally joining Rhodes Island today. Uh, code name? Mhmm... You can call me La Pluma.",
-char_421_crow_CN_012,Watching Battle Record,Hmm... Wonder if I can really do this.,
-char_421_crow_CN_013,Promotion 1,"Doctor, did you need me for something? Mm? A promotion? Hmm... did I do something special?",
-char_421_crow_CN_014,Promotion 2,"Doctor, I'm stronger than before? Really? Hmm… I'm not sure I feel anything different… But if you say so, then it must be true.",
-char_421_crow_CN_017,Added to Squad,Mm? Time for a mission?,
-char_421_crow_CN_018,Appointed as Squad Leader,I'm kinda good at leading the way.,
-char_421_crow_CN_019,Depart,Where are we going this time?,
-char_421_crow_CN_020,Begin Operation,"Now then, I can't afford to get sidetracked.",
-char_421_crow_CN_021,Selecting Operator 1,"Woah, Doctor... Don't scare me like that.",
-char_421_crow_CN_022,Selecting Operator 2,I'll follow your instructions.,
-char_421_crow_CN_023,Deployment 1,Okay.,
-char_421_crow_CN_024,Deployment 2,"All I have to do is keep them from passing, right?",
-char_421_crow_CN_025,In Battle 1,Haah!,
-char_421_crow_CN_026,In Battle 2,I'll cut you in two!,
-char_421_crow_CN_027,In Battle 3,It's tricky.,
-char_421_crow_CN_028,In Battle 4,Let's finish this.,
-char_421_crow_CN_029,4-star Result,Woah... I didn't think I could accomplish a mission like this…,
-char_421_crow_CN_030,3-star Result,"Doctor, you're incredible!",
-char_421_crow_CN_031,Sub 3-star Result,"Doctor, leave the rest to me. I'll get them.",
-char_421_crow_CN_032,Operation Failure,"Doctor, this way. We need to run.",
-char_421_crow_CN_033,Assigned to Facility,The corridors in Rhodes Island are so wide…,
-char_421_crow_CN_034,Tap,Mm-hm?,
-char_421_crow_CN_036,Trust Tap,What's the Doctor doing now? Let's go take a look.,
-char_421_crow_CN_037,Title,Arknights.,
-char_421_crow_CN_038,New Year's blessing,"Happy new year, Doctor. Rhodes Island is so lively during New Year. Woo, look over there, the operators have prepared so many games. It looks like a lot of fun... Doctor, which one should I try? Can you choose for me?",
-char_421_crow_CN_042,Greeting,"Oh, Doctor. How did you end up right in front of me?",
-char_421_crow_CN_043,Birthday,"Doctor, a lot of Operators ask me to mix special drinks for their birthdays. Each one is custom-made based on their preferences and the weather that day. Would you like one too, Doctor? Hehe, but only after you've finished your work.",
-char_421_crow_CN_044,Anniversary Celebration,"Here you are, Doctor! I was just helping the others with the decorations. I did a whole wall by myself. Celebrations like this are so much fun. Oh, do you have a moment? I'd love to show you my work.",
+id,title,original,original_zh,translation
+char_421_crow_CN_001,Appointed as Assistant,Be your bodyguard? Okay.,做博士的护卫？好哦。,Быть охраной Доктора? Конечно!
+char_421_crow_CN_002,Talk 1,"I wonder how papa is doing nowadays... But, I trust the mayor to keep her word, so it should be fine.",爸爸不知道现在过得好不好……不过，感觉市长是一个说话算话的人，应该没问题吧。,"Интересно, как папа поживает... Но я верю, что мэр держит слово, так что всё будет хорошо."
+char_421_crow_CN_003,Talk 2,"Though Dossoles is noisy and filled with bad people, life there is still a lot better there than the rest of Bolívar... Mhm? You haven't been there yet, Doctor? Hehe, Let's go together next time then.",多索雷斯虽然很吵闹，也有许多坏人，但是在那里的生活还是比在外面的玻利瓦尔要好许多呢……博士没有去过吗？那下次一起去吧。,"В Досолесе шумно и полно плохих людей, но жизнь там всё равно намного лучше, чем в остальном Боливаре... Мм? Вы ещё не бывали там, Доктор? Хи-хи, тогда в следующий раз пойдём вместе."
+char_421_crow_CN_004,Talk 3,"Phew… Staying inside all day is so stuffy. Doctor, let's go get some fresh air up on the deck, okay? I'm sure you must be tired from working for so long.",呼……一整天都待在房间里感觉好闷。博士，我们一起去甲板上呼吸新鲜空气吧？博士工作了这么久也累了吧。,"Фух... Целый день в комнате — так душно. Доктор, пойдём на палубу, подышим свежим воздухом? Вы столько работали, наверное, устали."
+char_421_crow_CN_005,Talk after Promotion 1,"Doctor, do you enjoy all this fighting and killing? I don't, not really. But I guess I've been around it too long, and done too much myself... I'm kinda used to it…",博士喜欢打打杀杀的事情吗？我其实也没有很喜欢呢，只是一直以来都在做类似的事情，身边的人也都在做类似的事情，不知不觉地就习惯了……,"Доктор любите драки и убийства? Я на самом деле нет... Просто столько лет вокруг меня всё такое, и я сама слишком многое делала — и незаметно привыкла..."
+char_421_crow_CN_006,Talk after Promotion 2,"Getting stronger is nice, but I can't think of what to do once I'm stronger... Doctor, how do you decide what you want to do?",变强虽然是好事，但是变强之后好像也没有要做的事……博士是怎么决定自己想要做什么事的呢？,"Стать сильнее — хорошо, но потом я не знаю, что делать с этой силой... Доктор, а вы как решаете, чего хотите?"
+char_421_crow_CN_007,Talk after Trust Increase 1,"For the longest time, Papa didn't want me to help him. You know, my personality isn't really suited for what he does. But still... I gave it my all, because he took me in as his daughter.",一直以来，爸爸其实都不希望我帮他做事，因为博士你也知道我的性格，其实是不太适合做这种事的。但是我毕竟成为了爸爸的女儿，所以也努力了哦。,"Раньше папа не хотел, чтобы я ему помогала. Ну, вы же знаете, Доктор, мой характер не очень подходит для такого дела. Но раз я стала его дочерью — я старалась изо всех сил."
+char_421_crow_CN_008,Talk after Trust Increase 2,"Doctor, doctor, can I scooch a little closer to you? Well, the office is so big, it feels a bit empty and lonely sitting so far from you… Can I?",博士博士，我可以坐在离博士近一点的地方吗？唔，因为办公室这么大，离博士远了感觉会有些冷清，不行吗？,"Доктор, доктор, можно мне сесть чуть ближе к вам? Ну, кабинет такой большой, а сидеть вдалеке от вас как-то одиноко... Можно?"
+char_421_crow_CN_009,Talk after Trust Increase 3,"Doctor, I don't think you can fight at all, but you're just as reliable as papa. It feels like I can just follow your orders, and I won't ever have to think for myself. Oh...? But for me, that's a good thing.",博士明明一点都不能打，但是却和爸爸一样可靠呢，感觉我什么都不用去想，只要听博士的话就好了。嗯？对我来说，这样就好哦。,"Доктор совсем не умеет драться, но такой же надёжный, как папа. Кажется, мне не надо ни о чём думать — достаточно слушаться вас. О...? Но для меня это хорошо."
+char_421_crow_CN_010,Idle,What does the Doctor look like under that mask? Let's sneak a peek…,博士面罩下面是什么样的呢，悄悄看看吧……,Что там у Доктора под маской? Подсмотрим украдкой...
+char_421_crow_CN_011,Onboard,"Hello, Doctor. I'm Rafaela, the one Miss Ch'en introduced. I'll be formally joining Rhodes Island today. Uh, code name? Mhmm... You can call me La Pluma.",博士，你好，我是陈小姐推荐来的，名字是拉菲艾拉，今天开始正式加入罗德岛。欸，代号？唔……就叫我羽毛笔吧。,"Здравствуйте, Доктор. Я Рафаэла, та, кого порекомендовала мисс Чэнь. Сегодня я официально присоединяюсь к Родосу. Э, позывной? Мм... Зовите меня Ла Плюма."
+char_421_crow_CN_012,Watching Battle Record,Hmm... Wonder if I can really do this.,唔……这个我真的能做到吗。,Мм... Неужели у меня и правда получится?
+char_421_crow_CN_013,Promotion 1,"Doctor, did you need me for something? Mm? A promotion? Hmm... did I do something special?",博士，找我有什么事吗？咦，升职？唔……我做了什么很厉害的事吗？,"Доктор, вы меня звали? Мм? Повышение? Мм... Я что-то особенное сделала?"
+char_421_crow_CN_014,Promotion 2,"Doctor, I'm stronger than before? Really? Hmm… I'm not sure I feel anything different… But if you say so, then it must be true.",博士，我现在变得比以前更厉害了吗？真的吗？我自己没有什么感觉呢……不过既然博士这么说，那一定是这样吧。,"Доктор, я стала сильнее, чем раньше? Правда? Сама я ничего не чувствую... Но если вы говорите, значит, так и есть."
+char_421_crow_CN_017,Added to Squad,Mm? Time for a mission?,欸，要出任务了吗？,Мм? Пора на задание?
+char_421_crow_CN_018,Appointed as Squad Leader,I'm kinda good at leading the way.,我挺擅长带路哦。,Я довольно хорошо умею вести за собой.
+char_421_crow_CN_019,Depart,Where are we going this time?,这一次要去哪里来着？,Куда мы идём на этот раз?
+char_421_crow_CN_020,Begin Operation,"Now then, I can't afford to get sidetracked.",接下来可不能走神了呢。,Теперь нельзя отвлекаться.
+char_421_crow_CN_021,Selecting Operator 1,"Woah, Doctor... Don't scare me like that.",哇，博士，不要吓我。,"Ой, Доктор... Не пугайте меня так."
+char_421_crow_CN_022,Selecting Operator 2,I'll follow your instructions.,我听博士的。,Я слушаюсь Доктора.
+char_421_crow_CN_023,Deployment 1,Okay.,好哦。,Хорошо.
+char_421_crow_CN_024,Deployment 2,"All I have to do is keep them from passing, right?",不让他们过去就可以了吗？,"Мне нужно лишь не пустить их дальше, верно?"
+char_421_crow_CN_025,In Battle 1,Haah!,喝！,Хэ!
+char_421_crow_CN_026,In Battle 2,I'll cut you in two!,把你砍成两半！,Разрежу тебя пополам!
+char_421_crow_CN_027,In Battle 3,It's tricky.,比想象的要费劲一点呢……,"Оказалось сложнее, чем я думала..."
+char_421_crow_CN_028,In Battle 4,Let's finish this.,快点结束掉吧。,Давай покончим с этим.
+char_421_crow_CN_029,4-star Result,Woah... I didn't think I could accomplish a mission like this…,我都不知道，原来我连这样的任务都能完成欸……,"Ой... И не думала, что смогу выполнить такое задание..."
+char_421_crow_CN_030,3-star Result,"Doctor, you're incredible!",博士，好厉害！,"Доктор, вы потрясающий!"
+char_421_crow_CN_031,Sub 3-star Result,"Doctor, leave the rest to me. I'll get them.",博士，交给我吧，我去追。,"Доктор, предоставьте это мне — я догоню их."
+char_421_crow_CN_032,Operation Failure,"Doctor, this way. We need to run.",博士，这边这边，该跑路了。,"Доктор, сюда, сюда! Пора бежать."
+char_421_crow_CN_033,Assigned to Facility,The corridors in Rhodes Island are so wide…,罗德岛的走廊好宽哦。,Какие широкие коридоры на Родосе...
+char_421_crow_CN_034,Tap,Mm-hm?,唔嗯？,Мм-м?
+char_421_crow_CN_036,Trust Tap,What's the Doctor doing now? Let's go take a look.,去看看博士在做什么吧。,"Пойдём посмотрим, что делает Доктор."
+char_421_crow_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_421_crow_CN_038,New Year's blessing,"Happy new year, Doctor. Rhodes Island is so lively during New Year. Woo, look over there, the operators have prepared so many games. It looks like a lot of fun... Doctor, which one should I try? Can you choose for me?",博士，新年快乐。罗德岛的新年好热闹呀，你看那边，干员们组织了好多项目哦，看上去好有意思。博士，我去玩哪个比较好呢？帮我做个决定吧。,"С Новым годом, Доктор! На Родосе так весело. Гляньте туда, оперативники подготовили столько забав! Выглядит очень интересно... Доктор, во что мне поиграть? Выберите за меня."
+char_421_crow_CN_042,Greeting,"Oh, Doctor. How did you end up right in front of me?",……咦，博士，你什么时候到我面前的？,"О... Доктор, когда вы оказались прямо передо мной?"
+char_421_crow_CN_043,Birthday,"Doctor, a lot of Operators ask me to mix special drinks for their birthdays. Each one is custom-made based on their preferences and the weather that day. Would you like one too, Doctor? Hehe, but only after you've finished your work.",博士博士，经常会有干员在生日那天找我帮他们做一杯生日特调哦，都是根据每个人不同的喜好还有当天的天气定做的，博士你要不要也来一杯？不过，只能在结束工作以后哦。,"Доктор, ко мне часто приходят оперативники и просят сделать коктейль-поздравление для их дня рождения. Я готовлю его по вкусам каждого и по погоде того дня. Хотите и вам, Доктор? Хи-хи, но только когда вы закончите работу."
+char_421_crow_CN_044,Anniversary Celebration,"Here you are, Doctor! I was just helping the others with the decorations. I did a whole wall by myself. Celebrations like this are so much fun. Oh, do you have a moment? I'd love to show you my work.",博士，你在这里呀，我刚刚去帮其他人布置室内装扮了，一整面墙都是我做的哦，这样的纪念日好有趣。博士现在有空吗，我想给你看看我的成果~,"А, Доктор, вы здесь! Я ходила помогать другим украшать комнаты — целую стену сама сделала.Такие дни правда весело проходят. Доктор, у вас есть минутка? Покажу, что у меня получилось~"

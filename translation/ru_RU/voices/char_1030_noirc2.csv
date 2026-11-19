@@ -1,39 +1,39 @@
-id,title,original,translation
-char_1030_noirc2_CN_001,Appointed as Assistant,"Alright, I'm here to help! Chill, I'm all good with this gear now. Bumping into everything? That's the old me!",
-char_1030_noirc2_CN_002,Talk 1,"Out in the field, it's pretty important to watch what you and your teammates eat. Just a while ago, I learned how to use this simple BBQ spit to treat raw meat. Here, lemme demo for you right now!",
-char_1030_noirc2_CN_003,Talk 2,"I've hauled butt all across Terra, and I've never seen gear both as sturdy and as comfortable as this. Feels like when I wear it, my attack power gets boosted, plus I can hit enemy weaknesses way better, and my fire attacks are stronger too! Yeah, uh, I figure that might just be me? Haha.",
-char_1030_noirc2_CN_004,Talk 3,"The Felynes say the more experienced the hunter, the more thorough the pre-mission prep. Packing all your potions and tools is just as key to the hunt. Still, Yato loves to chew me out, saying I'm always bringing too much stuff on missions. Rock and a hard place, y'know?",
-char_1030_noirc2_CN_005,Talk after Promotion 1,"Feels weird, honestly, not having my ol' reliable shield on hand. Still, the Felynes say if I get good enough with this long sword, I can basically fend off every attack under the sun. Guess my training's got a long way to go.",
-char_1030_noirc2_CN_006,Talk after Promotion 2,"You only really master combat technique after taking on enough enemies. I guess no shortcut to getting promoted after all, huh? Especially for dummies like me, haha.",
-char_1030_noirc2_CN_007,Talk after Trust Increase 1,"I get that whetstones aren't thrilling, but they're a tool you can't go without. Even a blade with sharpness this fine is gonna need nonstop polishing its whole life.",
-char_1030_noirc2_CN_008,Talk after Trust Increase 2,"I just wanna do my job as a guy in the background, even now. Us nobodies, we've got our own duties, our own worries, and our own things we wanna protect.",
-char_1030_noirc2_CN_009,Talk after Trust Increase 3,"Ditching the shield, using a long sword like this, it keeps reminding me of the old days. Bad times I hate to remember. But without our past, I guess Yato and me wouldn't be who we are today.",
-char_1030_noirc2_CN_010,Idle,"Get your rest on, Doctor. Leave the place to me.",
-char_1030_noirc2_CN_011,Onboard,"Operator Noir Corne, back under your command with all-new gear! Alright, Doctor, don't care if it's bandits or nightmare bizarro creatures, you leave it all to me!",
-char_1030_noirc2_CN_012,Watching Battle Record,"Lemme scrub back a sec, I want a closer look. Yeah, mm-hm...",
-char_1030_noirc2_CN_013,Promotion 1,"I've gotta give thanks to my kickass gear for carrying me this far. But obviously, the biggest props go out to you and everyone around me for all your help!",
-char_1030_noirc2_CN_014,Promotion 2,"This is Operator Noir Corne, everyone's shield through hell and high water! And hey, I guess I can handle being everyone's sword too!",
-char_1030_noirc2_CN_017,Added to Squad,No prob. I'm all readied up.,
-char_1030_noirc2_CN_018,Appointed as Squad Leader,"You want me to lead, without Yato? You sure? I think it'd be better if you got her on.",
-char_1030_noirc2_CN_019,Depart,"Everybody done eating? Alright, go time!",
-char_1030_noirc2_CN_020,Begin Operation,Mission start! Target position is a lock!,
-char_1030_noirc2_CN_021,Selecting Operator 1,Which area am I heading to?,
-char_1030_noirc2_CN_022,Selecting Operator 2,Primed and ready!,
-char_1030_noirc2_CN_023,Deployment 1,Draw!,
-char_1030_noirc2_CN_024,Deployment 2,"Nice, right here!",
-char_1030_noirc2_CN_025,In Battle 1,Haah! Hey!,
-char_1030_noirc2_CN_026,In Battle 2,I'm going in!,
-char_1030_noirc2_CN_027,In Battle 3,I see through you!,
-char_1030_noirc2_CN_028,In Battle 4,That's my window!,
-char_1030_noirc2_CN_029,4-star Result,"Now THAT was a good battle. Take pride, everyone, and good work!",
-char_1030_noirc2_CN_030,3-star Result,"Mission complete, perfect job! We gotta get back to Rhodes Island, because I'm looking forward to celebrating!",
-char_1030_noirc2_CN_031,Sub 3-star Result,"Good work, Doctor. We'll do better next time, don't you worry.",
-char_1030_noirc2_CN_032,Operation Failure,"Doctor! Got your Farcaster from the Felynes? You need to ditch, fast. I'll come right after you, no worries!",
-char_1030_noirc2_CN_033,Assigned to Facility,"Whoa, whoa, steady. Lemme put my sword away first.",
-char_1030_noirc2_CN_034,Tap,"What's up, Doctor? Need me to head somewhere?",
-char_1030_noirc2_CN_036,Trust Tap,"Haha, what do you say, Doctor? How about a round of drinks?",
-char_1030_noirc2_CN_037,Title,Arknights.,
-char_1030_noirc2_CN_038,New Year's blessing,"Happy New Year, Doctor! You're not missing out on this honeywine, are you? The stuff's a special recipe, straight from the Felynes. You gotta try! I just drank a mug, and I'm ready to take on the world while I feel on top of it! C'mon, we've got the perfect way to welcome in the New Year!",
-char_1030_noirc2_CN_042,Greeting,"It's another fine day. Take care of yourself, Doctor!",
-char_1030_noirc2_CN_043,Birthday,"Happy birthday, Doctor. I hauled everyone in to wrap up as much of your work for you as we could. No drinks on the agenda today, either, we want you to get some major rest. Call that my present to you, haha.",
-char_1030_noirc2_CN_044,Anniversary Celebration,"Man, another year gone. Guess I've really gotten used to life at Rhodes Island. Believe me, I'll trust in you all forever. Rhodes Island is going to lead the way for so many people, just like it did for Yato and me. I count my blessings every day that I can be here to help.",
+id,title,original,original_zh,translation
+char_1030_noirc2_CN_001,Appointed as Assistant,"Alright, I'm here to help! Chill, I'm all good with this gear now. Bumping into everything? That's the old me!",好，让俺来帮忙吧！不用担心，俺现在已经适应了这副装备，不会再撞到周围了！,"Ладно, я здесь, чтобы помочь! Не волнуйся, я уже привык к этому снаряжению и больше ни о что не спотыкаюсь!"
+char_1030_noirc2_CN_002,Talk 1,"Out in the field, it's pretty important to watch what you and your teammates eat. Just a while ago, I learned how to use this simple BBQ spit to treat raw meat. Here, lemme demo for you right now!",外出工作之余，照顾好自己和同伴的饮食也挺重要的。博士，俺最近学习了使用简易烤肉架处理生肉，俺现在就在这里给你露一手！,"В походе важно следить, что едят ты и твои товарищи. Я недавно научился готовить сырое мясо на простом вертеле. Давай я тебе сейчас покажу!"
+char_1030_noirc2_CN_003,Talk 2,"I've hauled butt all across Terra, and I've never seen gear both as sturdy and as comfortable as this. Feels like when I wear it, my attack power gets boosted, plus I can hit enemy weaknesses way better, and my fire attacks are stronger too! Yeah, uh, I figure that might just be me? Haha.",过去在泰拉各地也都没见过这样耐用且舒适的装备，感觉穿上它们，俺的攻击力提高了，并且还能精准打击敌人的弱点，还能提高火焰攻击的能力！大概是俺的错觉吧？,"Я исходил всю Терру и не видел снаряжения одновременно прочного и удобного. Кажется, в нём моя атака стала сильнее, я лучше бью по слабым местам, а огонь — мощнее! Хм, наверное, это мне показалось? Ха-ха."
+char_1030_noirc2_CN_004,Talk 3,"The Felynes say the more experienced the hunter, the more thorough the pre-mission prep. Packing all your potions and tools is just as key to the hunt. Still, Yato loves to chew me out, saying I'm always bringing too much stuff on missions. Rock and a hard place, y'know?",听艾露猫们说，越是经验老到的猎人，越会做好任务出发前的准备。带好药水和道具，也是狩猎的关键部分。不过俺老是被夜刀骂，说俺每次出什么任务都会带太多东西哈哈，真不简单啊。,"Фелины говорят: чем опытнее охотник, тем тщательнее он готовится. Взять зелья и инструменты — тоже часть охоты. Только Ято всё ругает меня, мол, я на каждое задание беру слишком много вещей. Хех, непросто это."
+char_1030_noirc2_CN_005,Talk after Promotion 1,"Feels weird, honestly, not having my ol' reliable shield on hand. Still, the Felynes say if I get good enough with this long sword, I can basically fend off every attack under the sun. Guess my training's got a long way to go.",一直称手的盾不在手边，还真是让俺有些不习惯。不过听艾露猫们说过，只要使用得当，用这把太刀也能招架各种攻击。看来俺的练习之路还长着呢。,"Странно без моего старого доброго щита. Но Фелины говорят: если хорошо владеть этим длинным клинком, можно отразить любую атаку. Похоже, мне ещё учиться и учиться."
+char_1030_noirc2_CN_006,Talk after Promotion 2,"You only really master combat technique after taking on enough enemies. I guess no shortcut to getting promoted after all, huh? Especially for dummies like me, haha.",只有面对了足够多的敌人，才能将作战技巧融会贯通。果然提升自己是没有任何捷径的，特别是俺这样的笨人哈哈。,"Лишь столкнувшись с достаточным числом врагов, по-настоящему понимаешь приёмы. Видно, короткого пути к повышению нет — особенно для такого увальня, как я, ха-ха."
+char_1030_noirc2_CN_007,Talk after Trust Increase 1,"I get that whetstones aren't thrilling, but they're a tool you can't go without. Even a blade with sharpness this fine is gonna need nonstop polishing its whole life.",研磨用的砥石平平无奇，却不可或缺。即使是如此削铁如泥的好刀，在它的一生里都得时时刻刻不停打磨下去。,"Точильный камень на вид простой, а без него никак. Даже такой клинок, что режет железо, всю жизнь приходится точить."
+char_1030_noirc2_CN_008,Talk after Trust Increase 2,"I just wanna do my job as a guy in the background, even now. Us nobodies, we've got our own duties, our own worries, and our own things we wanna protect.",现在俺也依然只想做一个努力做好本分工作的小人物。有着自己的职责，有着自己的烦恼，有着自己的守护对象。,"Я и сейчас хочу просто быть человеком, который делает своё дело. У маленьких людей тоже есть свои обязанности, свои заботы и то, что они защищают."
+char_1030_noirc2_CN_009,Talk after Trust Increase 3,"Ditching the shield, using a long sword like this, it keeps reminding me of the old days. Bad times I hate to remember. But without our past, I guess Yato and me wouldn't be who we are today.",不带盾牌，使用这样的太刀作武器，确实经常会让俺想起过去那段不堪回忆的日子。不过，如果没有那些过去，也没有现在的俺和夜刀吧。,"Без щита, с таким длинным клинком — это всегда напоминает мне те тяжёлые дни. Те, что я не люблю вспоминать. Но без того прошлого нас с Ято не было бы сегодняшних."
+char_1030_noirc2_CN_010,Idle,"Get your rest on, Doctor. Leave the place to me.",博士好好休息，这里就交给俺吧。,"Отдыхай, доктор. Здесь я за тебя постою."
+char_1030_noirc2_CN_011,Onboard,"Operator Noir Corne, back under your command with all-new gear! Alright, Doctor, don't care if it's bandits or nightmare bizarro creatures, you leave it all to me!",干员黑角，带着新的装备来接受博士的指挥了！不管敌人是暴徒还是凶恶的生物，都交给俺来处理吧！,"Оперативник Нуар Корн, вернулся к тебе с новым снаряжением! Ладно, доктор, будь то разбойники или жуткие твари — всё оставь мне!"
+char_1030_noirc2_CN_012,Watching Battle Record,"Lemme scrub back a sec, I want a closer look. Yeah, mm-hm...",让俺再仔细多看两遍吧，嗯嗯。,"Дай мне перемотать назад, я хочу рассмотреть получше. Так, мм-хм..."
+char_1030_noirc2_CN_013,Promotion 1,"I've gotta give thanks to my kickass gear for carrying me this far. But obviously, the biggest props go out to you and everyone around me for all your help!",俺能到这一步，可真是多亏了这一身厉害的装备，当然更重要的是俺身边的大家和博士一起给俺的帮助！,"До такого я дошёл во многом благодаря этому крутому снаряжению. Но главное — помощь всех вокруг и тебя, доктор!"
+char_1030_noirc2_CN_014,Promotion 2,"This is Operator Noir Corne, everyone's shield through hell and high water! And hey, I guess I can handle being everyone's sword too!",干员黑角，一定会作为大家的盾赴汤蹈火！嗯，作为大家的剑也行！,"Оперативник Нуар Корн — щит для всех, в горе и в огне! И, кажется, я могу быть и мечом!"
+char_1030_noirc2_CN_017,Added to Squad,No prob. I'm all readied up.,没问题，俺已经做好准备了。,"Без проблем, я готов."
+char_1030_noirc2_CN_018,Appointed as Squad Leader,"You want me to lead, without Yato? You sure? I think it'd be better if you got her on.",需要俺来带领大家吗，夜刀也一起不？是不是让夜刀来更好。,"Ты хочешь, чтобы я командовал без Ято? Ты уверен? Лучше бы её поставить."
+char_1030_noirc2_CN_019,Depart,"Everybody done eating? Alright, go time!",任务出发前的大餐大家吃好了吗？出发！,Все поели перед выходом? Тогда вперёд!
+char_1030_noirc2_CN_020,Begin Operation,Mission start! Target position is a lock!,任务开始，俺已确认目标位置！,Начинаем задание! Я уже подтвердил позицию цели!
+char_1030_noirc2_CN_021,Selecting Operator 1,Which area am I heading to?,需要俺去哪个区域？,В какой сектор мне идти?
+char_1030_noirc2_CN_022,Selecting Operator 2,Primed and ready!,俺随时可以！,Я наготове!
+char_1030_noirc2_CN_023,Deployment 1,Draw!,拔刀！,Обнажить!
+char_1030_noirc2_CN_024,Deployment 2,"Nice, right here!",这里吗！好！,Здесь! Хорошо!
+char_1030_noirc2_CN_025,In Battle 1,Haah! Hey!,哈！喝！,Ха! Хэй!
+char_1030_noirc2_CN_026,In Battle 2,I'm going in!,俺来了！,Я иду!
+char_1030_noirc2_CN_027,In Battle 3,I see through you!,俺已经看穿了！,Я тебя раскусил!
+char_1030_noirc2_CN_028,In Battle 4,That's my window!,这里有空隙！,Вот здесь просвет!
+char_1030_noirc2_CN_029,4-star Result,"Now THAT was a good battle. Take pride, everyone, and good work!",真是值得自豪的一场好战役，大家都辛苦了！,"Вот это был бой! Гордитесь, все молодцы!"
+char_1030_noirc2_CN_030,3-star Result,"Mission complete, perfect job! We gotta get back to Rhodes Island, because I'm looking forward to celebrating!",任务完美完成！俺开始期待回到罗德岛的庆祝会了。,Задание выполнено идеально! Уже жду праздника на Родосе.
+char_1030_noirc2_CN_031,Sub 3-star Result,"Good work, Doctor. We'll do better next time, don't you worry.",博士辛苦了，下次俺们一定能做得更好。,"Ты трудился, доктор. В следующий раз мы сделаем лучше, не сомневайся."
+char_1030_noirc2_CN_032,Operation Failure,"Doctor! Got your Farcaster from the Felynes? You need to ditch, fast. I'll come right after you, no worries!",博士，有带上艾露猫们给的回家球吗？赶紧离开这里吧，俺之后也会跟上的！,"Доктор, у тебя естьволшебный шар от Фелин? Уходи скорее, я потом догоню!"
+char_1030_noirc2_CN_033,Assigned to Facility,"Whoa, whoa, steady. Lemme put my sword away first.",小心，小心，让俺先把刀收起来。,"Осторожно, осторожно. Дай мне сначала убрать меч."
+char_1030_noirc2_CN_034,Tap,"What's up, Doctor? Need me to head somewhere?",博士这是想让俺去哪里？,"Доктор, это ты меня звал?"
+char_1030_noirc2_CN_036,Trust Tap,"Haha, what do you say, Doctor? How about a round of drinks?",哈哈，博士愿意现在跟俺一起喝一杯吗？,"Ха-ха, доктор, выпьешь со мной?"
+char_1030_noirc2_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_1030_noirc2_CN_038,New Year's blessing,"Happy New Year, Doctor! You're not missing out on this honeywine, are you? The stuff's a special recipe, straight from the Felynes. You gotta try! I just drank a mug, and I'm ready to take on the world while I feel on top of it! C'mon, we've got the perfect way to welcome in the New Year!",新年快乐博士，不来点蜂蜜酒怎么行，这些都是艾露猫们给的独特配方，快来试试啊！俺才刚喝一杯，已经开始感到精神振奋身体充满力量了！让俺们一起这样迎接新的一年吧！,"С новым годом, доктор! Как же без медовухи? Это особый рецепт самих Фелин. Ты обязательно попробуй! Я только одну кружку выпил — и уже готов хоть на весь мир, сил полно! Давай так и встретим новый год!"
+char_1030_noirc2_CN_042,Greeting,"It's another fine day. Take care of yourself, Doctor!",博士，今天也注意身体啊！,"День сегодня хороший. Береги себя, доктор!"
+char_1030_noirc2_CN_043,Birthday,"Happy birthday, Doctor. I hauled everyone in to wrap up as much of your work for you as we could. No drinks on the agenda today, either, we want you to get some major rest. Call that my present to you, haha.",生日快乐博士，俺已经叫上大家帮博士把力所能及的工作都完成了。今天俺们不喝酒了，希望博士好好休息，就当是俺给博士的礼物了哈哈。,"С днём рождения, доктор. Я собрал всех, и мы постарались сделать за тебя столько работы, сколько смогли. И сегодня никаких выпивок — пусть ты как следует отдохнёшь. Считай это моим подарком, ха-ха."
+char_1030_noirc2_CN_044,Anniversary Celebration,"Man, another year gone. Guess I've really gotten used to life at Rhodes Island. Believe me, I'll trust in you all forever. Rhodes Island is going to lead the way for so many people, just like it did for Yato and me. I count my blessings every day that I can be here to help.",没想到又这样经过了一年，看来俺已经完全习惯罗德岛的生活了，俺永远相信罗德岛的大家。就像指引了俺和夜刀一样，罗德岛一定也能指引更多人。俺能在这个过程中出一份力，实在是万分荣幸啊。,"Неужто ещё год пролетел? Я, видно, совсем привык к жизни на Родосе. Поверь мне: я всегда буду вам доверять. Как Родос вывел нас с Ято, так он поведёт и многих других. Я каждый день благодарю судьбу за то, что могу быть здесь и помогать."

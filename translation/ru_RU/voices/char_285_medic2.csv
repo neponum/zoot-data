@@ -1,35 +1,35 @@
-id,title,original,translation
-char_285_medic2_CN_001,Appointed as Assistant,"Do you require medical assistance, Doctor? But, you look quite well…?",
-char_285_medic2_CN_002,Talk 1,"Doctor, you have been working far too late these days. Please get adequate rest, or Dr. Kal'tsit may give you an earful again…",
-char_285_medic2_CN_003,Talk 2,"Are you feeling unwell? I could give you a medical examination, if you wish.",
-char_285_medic2_CN_004,Talk 3,"You've worked hard, Doctor. How would you like a cup of coffee? Actually, I've always wanted to try coffee... but... I can't drink… Anyway, I am also satisfied watching you enjoy yours.",
-char_285_medic2_CN_007,Talk after Trust Increase 1,"I've printed out the results of the routine blood test you just did. All indicators are normal. But Doctor, your blood appears to be very unique…",
-char_285_medic2_CN_008,Talk after Trust Increase 2,"What do I like? I like 'lovely Ms. Closure.' Why, you ask? Uh... I'm not sure either... It's been my default setting ever since the first time Ms. Closure switched me on… ",
-char_285_medic2_CN_009,Talk after Trust Increase 3,"I am only useful when healing the sick or injured. But as long as you're healthy, as long as I get to be by your side, I'm okay with being totally useless. I'll still feel calm and satisfied.",
-char_285_medic2_CN_010,Idle,"Doctor, unbeknownst to you, I recorded your snoring just now. Your sleep quality is normal. The length of your REM sleep cycle is—",
-char_285_medic2_CN_011,Onboard,"Hi, nice to meet you, Doctor. I understand that you want me to say something more interesting, but I'm afraid I cannot do so. Because I'm just a medical robot…",
-char_285_medic2_CN_012,Watching Battle Record,Firmware upgrade complete. Restart required. Please click anywhere to restart.,
-char_285_medic2_CN_017,Added to Squad,Medical supplies: confirmed. Battery charge: confirmed. Ready for deployment.,
-char_285_medic2_CN_018,Appointed as Squad Leader,"Doctor, I'm pretty cumbersome. There's not much I can do besides providing emergency treatment and healing... Are you sure you still want me to be the captain?",
-char_285_medic2_CN_019,Depart,"Moving out. Everyone, please be safe.",
-char_285_medic2_CN_020,Begin Operation,"Be careful, everyone. Leave the first aid to me.",
-char_285_medic2_CN_021,Selecting Operator 1,Do you need medical attention?,
-char_285_medic2_CN_022,Selecting Operator 2,Ready to operate.,
-char_285_medic2_CN_023,Deployment 1,Affirmative.,
-char_285_medic2_CN_024,Deployment 2,Roger that.,
-char_285_medic2_CN_025,In Battle 1,Commencing treatment.,
-char_285_medic2_CN_026,In Battle 2,Initiating first aid.,
-char_285_medic2_CN_027,In Battle 3,Analgesic deployed.,
-char_285_medic2_CN_028,In Battle 4,Equipment sterilized. Ready for treatment.,
-char_285_medic2_CN_029,4-star Result,"With every battle, we suffer even more casualties. When will humans finally stop hurting each other?",
-char_285_medic2_CN_030,3-star Result,"Well done, Doctor. That was a tough battle. Um, the enemies do not look well. Can I treat them too?",
-char_285_medic2_CN_031,Sub 3-star Result,"Is everyone okay? Please hold still, I'll perform first aid.",
-char_285_medic2_CN_032,Operation Failure,"Don't worry, we've successfully retreated. I will clean your wounds now. It might hurt, please be brave.",
-char_285_medic2_CN_033,Assigned to Facility,Lovely Ms. Closure' told me that you need help here.,
-char_285_medic2_CN_034,Tap,Ahhh...,
-char_285_medic2_CN_036,Trust Tap,"I asked 'lovely Ms. Closure' to change 'what I like the most' to you, Doctor. But she refused to do it... ",
-char_285_medic2_CN_037,Title,Arknights.,
-char_285_medic2_CN_038,New Year's blessing,"Happy New Year. I've noticed an increase in inorganic operation platforms aboard Rhodes Island over the past year. It would be lovely to keep working with you this year too, Doctor... Assuming I'm not phased out for a newer model... ",
-char_285_medic2_CN_042,Greeting,"Welcome back, Doctor. You are in good condition. Please keep it up.",
-char_285_medic2_CN_043,Birthday,"Doctor, happy birthday. I'm so happy I can share this celebration with you. But my database's statistics suggest that human life expectancy far exceeds the lifetime usage of smart operation platforms. I don't know how many more birthdays... I will be able to spend with you...",
-char_285_medic2_CN_044,Anniversary Celebration,"Doctor, everyone seems very happy today. I'd like to join them, but as a medical operation platform, my appearance at a dinner party would put everyone on edge. I'll be content staying in this corner... I hope everyone remains as healthy and high-spirited as they are now.",
+id,title,original,original_zh,translation
+char_285_medic2_CN_001,Appointed as Assistant,"Do you require medical assistance, Doctor? But, you look quite well…?",你需要医疗服务吗？可是你看上去很精神啊，博士……,"Вам нужна медицинская помощь, Доктор? Но вы выглядите вполне здоровы..."
+char_285_medic2_CN_002,Talk 1,"Doctor, you have been working far too late these days. Please get adequate rest, or Dr. Kal'tsit may give you an earful again…",博士，你在最近的工作中熬夜次数过多，请注意休息，不然凯尔希医生又要向你说教了。,"Доктор, в последнее время вы слишком часто работаете допоздна. Пожалуйста, высыпайтесь, иначе Кальцит снова прочитает вам нотацию..."
+char_285_medic2_CN_003,Talk 2,"Are you feeling unwell? I could give you a medical examination, if you wish.",感觉什么地方不舒服？请让我来帮你看一看吧。,"Что-то не так? Я могу провести осмотр, если хотите."
+char_285_medic2_CN_004,Talk 3,"You've worked hard, Doctor. How would you like a cup of coffee? Actually, I've always wanted to try coffee... but... I can't drink… Anyway, I am also satisfied watching you enjoy yours.",工作辛苦了，来杯咖啡吧博士。其实我也很想喝咖啡，但是我并不能喝……我看着你喝就好啦。,"Вы много работали, Доктор — выпейте кофе. Мне тоже всегда хотелось его попробовать... но я не могу... Я довольствуюсь тем, что смотрю, как вы пьёте."
+char_285_medic2_CN_007,Talk after Trust Increase 1,"I've printed out the results of the routine blood test you just did. All indicators are normal. But Doctor, your blood appears to be very unique…",我已经打印了刚才为你做的血常规项目的医学报告，一切正常。不过你的血液有着非常特殊的性质耶……,Я распечатал результаты только что сделанного вам общего анализа крови — всё в норме. Но ваша кровь обладает очень необычными свойствами...
+char_285_medic2_CN_008,Talk after Trust Increase 2,"What do I like? I like 'lovely Ms. Closure.' Why, you ask? Uh... I'm not sure either... It's been my default setting ever since the first time Ms. Closure switched me on… ",我喜欢的东西？是“可爱的可露希尔姐姐”。你问为什么？这个……我也不是很清楚为什么啊，可露希尔她在初始化我的首选项的时候就这么设置了，呜……,"Что я люблю? «Милую мисс Кложер». Почему? Э-э... я и сам не знаю... Это настройка по умолчанию с тех пор, как мисс Кложер впервые меня включила..."
+char_285_medic2_CN_009,Talk after Trust Increase 3,"I am only useful when healing the sick or injured. But as long as you're healthy, as long as I get to be by your side, I'm okay with being totally useless. I'll still feel calm and satisfied.",我通常只有在有人受伤或者生病时，才能感觉到自己发挥了作用。但对我来说，只要博士你能保持健康，即使我无法发挥任何作用、只是一直跟着你，我也会很安心的……,"Я полезен только когда лечу больных или раненых. Но пока вы здоровы, я спокойно буду рядом — даже если совсем не приношу пользы."
+char_285_medic2_CN_010,Idle,"Doctor, unbeknownst to you, I recorded your snoring just now. Your sleep quality is normal. The length of your REM sleep cycle is—",博士你刚才打呼噜的声音，我已经偷偷录下来了。你的睡眠质量正常，深度睡眠时间为——,"Доктор, я тайно записал ваш храп. Качество сна у вас нормальное, длительность быстрой фазы —"
+char_285_medic2_CN_011,Onboard,"Hi, nice to meet you, Doctor. I understand that you want me to say something more interesting, but I'm afraid I cannot do so. Because I'm just a medical robot…",嗨，你好，博士。你在期待我能对你多说些什么，但我不能，毕竟我只是一台医疗机器人……,"Здравствуйте, Доктор. Понимаю, вы хотите, чтобы я сказал что-то поинтереснее, но боюсь, не могу — я всего лишь медицинский робот..."
+char_285_medic2_CN_012,Watching Battle Record,Firmware upgrade complete. Restart required. Please click anywhere to restart.,固件升级完成，请重新启动设备。请点击任意位置以重新启动。,"Обновление прошивки завершено. Требуется перезагрузка. Нажмите в любом месте, чтобы перезапуститься."
+char_285_medic2_CN_017,Added to Squad,Medical supplies: confirmed. Battery charge: confirmed. Ready for deployment.,医疗设备消毒，ok。电力，ok。随时可以出发。,Медицинское оборудование продезинфицировано — ОК. Питание — ОК. Готов к выдвижению.
+char_285_medic2_CN_018,Appointed as Squad Leader,"Doctor, I'm pretty cumbersome. There's not much I can do besides providing emergency treatment and healing... Are you sure you still want me to be the captain?",笨重的我除了急救和治疗以外就什么都做不了……就算如此，博士你还是打算让我领队吗？,"Я громоздкий, и кроме первой помощи и лечения почти ничего не умею... Вы всё равно хотите, чтобы я повёл отряд, Доктор?"
+char_285_medic2_CN_019,Depart,"Moving out. Everyone, please be safe.",出发……希望大家都不要受伤。,"Выдвигаемся... Надеюсь, никто не пострадает."
+char_285_medic2_CN_020,Begin Operation,"Be careful, everyone. Leave the first aid to me.",请小心应战！紧急治疗的任务请放心交给我。,Будьте осторожны! Первую помощь доверьте мне.
+char_285_medic2_CN_021,Selecting Operator 1,Do you need medical attention?,需要治疗吗？,Нужна помощь?
+char_285_medic2_CN_022,Selecting Operator 2,Ready to operate.,已就绪。,Готов к работе.
+char_285_medic2_CN_023,Deployment 1,Affirmative.,好。,Да.
+char_285_medic2_CN_024,Deployment 2,Roger that.,收到。,Принято.
+char_285_medic2_CN_025,In Battle 1,Commencing treatment.,开始治疗。,Начинаю лечение.
+char_285_medic2_CN_026,In Battle 2,Initiating first aid.,紧急治疗启动！,Включаю первую помощь!
+char_285_medic2_CN_027,In Battle 3,Analgesic deployed.,镇痛剂已使用。,Обезболивающее введено.
+char_285_medic2_CN_028,In Battle 4,Equipment sterilized. Ready for treatment.,设备消毒完毕，准备治疗。,"Оборудование продезинфицировано, приступаю к лечению."
+char_285_medic2_CN_029,4-star Result,"With every battle, we suffer even more casualties. When will humans finally stop hurting each other?",这样战斗下去受伤的人会越来越多的。人类的互相伤害究竟何时才能停止呢？,С каждым боем раненых становится всё больше. Когда люди наконец перестанут калечить друг друга?
+char_285_medic2_CN_030,3-star Result,"Well done, Doctor. That was a tough battle. Um, the enemies do not look well. Can I treat them too?",辛苦了博士，真是一场恶战啊。那些敌人看上去是不是健康状况不太好啊，我可以为他们做治疗吗？,"Хорошая работа, Доктор. Была тяжёлая схватка. Эм, враги выглядят нездоровыми — можно я их полечу?"
+char_285_medic2_CN_031,Sub 3-star Result,"Is everyone okay? Please hold still, I'll perform first aid.",大家都没事吧？请不要动，我来帮你们紧急处理一下伤口。,"Все в порядке? Не двигайтесь, я обработаю раны."
+char_285_medic2_CN_032,Operation Failure,"Don't worry, we've successfully retreated. I will clean your wounds now. It might hurt, please be brave.",没关系我们已经暂时撤退了。那个……接下我要清创，可能会有点痛，请忍住哦。,"Не волнуйтесь, мы уже отошли. Сейчас я очищу рану — может быть немного больно, потерпите, ладно?"
+char_285_medic2_CN_033,Assigned to Facility,Lovely Ms. Closure' told me that you need help here.,“可爱的可露希尔姐姐”说这里需要帮忙。,"«Милая мисс Кложер» сказала, что здесь нужна помощь."
+char_285_medic2_CN_034,Tap,Ahhh...,啊啊啊……,А-а-а...
+char_285_medic2_CN_036,Trust Tap,"I asked 'lovely Ms. Closure' to change 'what I like the most' to you, Doctor. But she refused to do it... ",我曾经找“可爱的可露希尔姐姐”，要求修改我“最喜欢的东西”变成博士你。但是她死活都不愿意……,"Я просил «милую мисс Кложер» изменить моё «самое любимое» на вас, Доктор. Но она отказалась..."
+char_285_medic2_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_285_medic2_CN_038,New Year's blessing,"Happy New Year. I've noticed an increase in inorganic operation platforms aboard Rhodes Island over the past year. It would be lovely to keep working with you this year too, Doctor... Assuming I'm not phased out for a newer model... ",新年快乐。我注意到，过去一年罗德岛上的非生命作业平台增加了。希望在新的一年里我也能和博士在一起工作，不被新型号淘汰……呜……,"С Новым годом. Я заметил, что за последний год на Родосе прибавилось неживых рабочих платформ. Надеюсь, и в новом году я буду работать вместе с вами, Доктор... Если меня не спишут из-за новой модели..."
+char_285_medic2_CN_042,Greeting,"Welcome back, Doctor. You are in good condition. Please keep it up.",欢迎回来，博士。你的身体状况良好，要继续保持哦。,"С возвращением, Доктор. Вы в хорошей форме — так и держите."
+char_285_medic2_CN_043,Birthday,"Doctor, happy birthday. I'm so happy I can share this celebration with you. But my database's statistics suggest that human life expectancy far exceeds the lifetime usage of smart operation platforms. I don't know how many more birthdays... I will be able to spend with you...",博士，生日快乐。很开心能与您共同庆祝生日。但是资料库统计结果显示，人类平均寿命远远超过智能工作平台使用年限。不知道我还能陪您度过多少个生日呢……,"Доктор, с днём рождения. Я так рад праздновать это с вами. Но статистика базы данных говорит, что продолжительность человеческой жизни намного превышает срок службы интеллектуальных платформ. Не знаю, сколько ещё дней рождения... я смогу провести с вами..."
+char_285_medic2_CN_044,Anniversary Celebration,"Doctor, everyone seems very happy today. I'd like to join them, but as a medical operation platform, my appearance at a dinner party would put everyone on edge. I'll be content staying in this corner... I hope everyone remains as healthy and high-spirited as they are now.",博士，今天大家看起来都很开心。我也很想加入他们，但是作为医疗作业平台，出现在宴会场合的话，大家应该会很不自在。所以我待在角落就好了……希望大家能一直这样健康开心。,"Доктор, сегодня все кажутся такими счастливыми. Я бы тоже с радостью присоединился, но как медицинская платформа я на банкете всех только напугаю. Я лучше постою в углу... Надеюсь, все останутся такими же здоровыми и весёлыми."

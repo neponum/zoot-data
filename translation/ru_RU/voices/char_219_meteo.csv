@@ -1,39 +1,39 @@
-id,title,original,translation
-char_219_meteo_CN_001,Appointed as Assistant,"It's time for my shift. If I'm interrupting your work, I can wait outside.",
-char_219_meteo_CN_002,Talk 1,Have you gone through every new operator's personnel files and info?,
-char_219_meteo_CN_003,Talk 2,Nowhere in the world is completely safe with a war going on. Not even Rhodes Island. Please remember that.,
-char_219_meteo_CN_004,Talk 3,"To be frank, you're surrounded by people from all walks of life. That can be quite dangerous, don't you think?",
-char_219_meteo_CN_005,Talk after Promotion 1,I'm surprised that so many other Sarkaz have come to Rhodes Island. What's more surprising is that they actually get along…,
-char_219_meteo_CN_006,Talk after Promotion 2,"My bowgun may not be easy to operate, but it's just as powerful as the Laterano guns. I use it to defend the glory of my people.",
-char_219_meteo_CN_007,Talk after Trust Increase 1,I see Firewatch is here. I can't believe she's using the name of our old guerrilla group as her codename. It's like time stopped for her the day her home was destroyed...,
-char_219_meteo_CN_008,Talk after Trust Increase 2,"As for what happened between Firewatch and I... she'll tell you when she's ready. All I can say is that I was not the one who led the rebels to her village... but no one would believe the words of a Sarkaz, right?",
-char_219_meteo_CN_009,Talk after Trust Increase 3,"She wants her revenge, and I have my duty. Even though we've met again at Rhodes Island, it probably won't affect anything. Our paths aren't likely to cross.",
-char_219_meteo_CN_010,Idle,What's that sound? Is someone monitoring this room? Or am I just… imagining things?,
-char_219_meteo_CN_011,Onboard,"Codename Meteorite, a freelance mercenary. I'm Sarkaz, as you can see. Do you still want to hire me?",
-char_219_meteo_CN_012,Watching Battle Record,My aim with my bowgun has improved.,
-char_219_meteo_CN_013,Promotion 1,You want to promote me? I see that I made the right choice to work here.,
-char_219_meteo_CN_014,Promotion 2,"Thank you so much for this, really. I can't believe someone like me could work a stable job here at Rhodes Island. I'll do everything I can to repay your trust in me.",
-char_219_meteo_CN_017,Added to Squad,Reporting for duty. ,
-char_219_meteo_CN_018,Appointed as Squad Leader,"Me, a leader? To be honest, I'm not that good at giving orders.",
-char_219_meteo_CN_019,Depart,I'll do my best to take care of everyone.,
-char_219_meteo_CN_020,Begin Operation,"Enemy status confirmed. All units, prepare to engage.",
-char_219_meteo_CN_021,Selecting Operator 1,All right.,
-char_219_meteo_CN_022,Selecting Operator 2,No problem.,
-char_219_meteo_CN_023,Deployment 1,I've got a clear shot.,
-char_219_meteo_CN_024,Deployment 2,Let's take them all out.,
-char_219_meteo_CN_025,In Battle 1,Fire!,
-char_219_meteo_CN_026,In Battle 2,Open fire!,
-char_219_meteo_CN_027,In Battle 3,Focus fire!,
-char_219_meteo_CN_028,In Battle 4,Get back!,
-char_219_meteo_CN_029,4-star Result,"I don't want to see anything laid to waste in the fires of war ever again. Let us put an end to this, once and for all.",
-char_219_meteo_CN_030,3-star Result,Trying to escape after I laid you to siege? Don't be silly.,
-char_219_meteo_CN_031,Sub 3-star Result,Someone's escaped. Not the time to let our guard down.,
-char_219_meteo_CN_032,Operation Failure,Retreat! Back to the stronghold and regroup.,
-char_219_meteo_CN_033,Assigned to Facility,What's this place?,
-char_219_meteo_CN_034,Tap,Huh? Huh? What?,
-char_219_meteo_CN_036,Trust Tap,Is this for me? Thanks.,
-char_219_meteo_CN_037,Title,Arknights.,
-char_219_meteo_CN_038,New Year's blessing,"That's another year, come and gone. Getting to live one more year is certainly worth celebrating as a merc, but more than that, I don't want anyone else living with this kind of uncertainty... Doctor, I got some presents for the kids of Rhodes Island. Could you hand them out for me?",
-char_219_meteo_CN_042,Greeting,"How's it going, Doctor?",
-char_219_meteo_CN_043,Birthday,"Happy birthday, Doctor. I want to take this chance to express my gratitude, for you are always looking out for me. I wasn't sure what would be a suitable gift... but I will give you an oath, I'll give it all I've got to protect you. Um… is that okay?",
-char_219_meteo_CN_044,Anniversary Celebration,"Before this, I'd never stayed with an organization for such a long time, and I haven't figured out my plans for the future, but I really wavered when I heard Amiya say, 'I want to help the Sarkaz.' Maybe there are still lots of people out there, with hope for the future in their hearts.",
+id,title,original,original_zh,translation
+char_219_meteo_CN_001,Appointed as Assistant,"It's time for my shift. If I'm interrupting your work, I can wait outside.",现在是我的值班时间。如果打扰到你办公了，我可以到外面待着。,"Сейчас моё дежурство. Если я мешаю вам работать, я могу подождать снаружи."
+char_219_meteo_CN_002,Talk 1,Have you gone through every new operator's personnel files and info?,你有好好调查过每位新加入干员的个人信息和情报吗？,Вы тщательно проверили личные дела и сведения о каждом новом оперативнике?
+char_219_meteo_CN_003,Talk 2,Nowhere in the world is completely safe with a war going on. Not even Rhodes Island. Please remember that.,只要战争仍在继续，就不会有什么地方是绝对安全的。这也同样适用于罗德岛，请你务必牢记这点。,"Пока идёт война, нигде не бывает абсолютно безопасно. Родос — не исключение. Прошу запомнить это."
+char_219_meteo_CN_004,Talk 3,"To be frank, you're surrounded by people from all walks of life. That can be quite dangerous, don't you think?",坦白地说，你的周围混杂着许多人，不觉得这样其实很危险吗？,"Откровенно говоря, вас окружают люди самых разных мастей. По-моему, это довольно опасно."
+char_219_meteo_CN_005,Talk after Promotion 1,I'm surprised that so many other Sarkaz have come to Rhodes Island. What's more surprising is that they actually get along…,居然有那么多和我一样的萨卡兹人来到了罗德岛，并且相互之间还能和睦相处，这确实让我很惊讶……,"Удивительно, что столько сарказцев пришло на Родос. Ещё удивительнее, что они уживаются друг с другом..."
+char_219_meteo_CN_006,Talk after Promotion 2,"My bowgun may not be easy to operate, but it's just as powerful as the Laterano guns. I use it to defend the glory of my people.",我这把弩炮虽然不太容易操作，但威力绝不下于拉特兰人的铳。我将用它捍卫我族的荣耀。,"Мой арбалет непрост в обращении, но по мощи он не уступает ружьям Латерана. Я буду защищать им славу своего народа."
+char_219_meteo_CN_007,Talk after Trust Increase 1,I see Firewatch is here. I can't believe she's using the name of our old guerrilla group as her codename. It's like time stopped for her the day her home was destroyed...,我见过守林人了。那个孩子，把我们并肩作战过的组织名当成自己的代号。也许那孩子的时间，在故乡被毁灭之时就已经停止了……,"Я видела Файрвотч. Не могу поверить, что она взяла себе позывным имя нашего старого партизанского отряда. Как будто её время остановилось в тот день, когда сгорела её деревня..."
+char_219_meteo_CN_008,Talk after Trust Increase 2,"As for what happened between Firewatch and I... she'll tell you when she's ready. All I can say is that I was not the one who led the rebels to her village... but no one would believe the words of a Sarkaz, right?",发生在我和守林人之间的那段过去，还是等她亲口告诉你吧……只能说，把叛军引向她故乡的人并不是我，只是……没人会相信一个萨卡兹人的话。,"О том, что было между мной и Файрвотч... пусть она вам сама расскажет, когда будет готова. Могу сказать лишь, что не я привела повстанцев в её деревню... Но кто поверит словам сарказца, верно?"
+char_219_meteo_CN_009,Talk after Trust Increase 3,"She wants her revenge, and I have my duty. Even though we've met again at Rhodes Island, it probably won't affect anything. Our paths aren't likely to cross.",她有她的复仇，我有我的使命，既然如此，即使我们在这罗德岛重逢，或许依旧会走向各自的结局吧。,"У неё своя месть, у меня — свой долг. Даже если мы снова встретились на Родосе, вряд ли что-то изменится. Наши пути, похоже, не пересекутся."
+char_219_meteo_CN_010,Idle,What's that sound? Is someone monitoring this room? Or am I just… imagining things?,哪里来的声音？难道是有谁在监视这个房间吗？还是说……只是我的错觉罢了？,Что это за звук? Кто-то наблюдаёт за этой комнатой? Или мне просто... кажется?
+char_219_meteo_CN_011,Onboard,"Codename Meteorite, a freelance mercenary. I'm Sarkaz, as you can see. Do you still want to hire me?",代号陨星，职业是自由佣兵。如你所见，是萨卡兹人。即使这样，你还依然打算雇佣我吗？,"Позывной — Метеорит, по специальности вольная наёмница. Как видите, я сарказец. Вы всё ещё хотите меня нанять?"
+char_219_meteo_CN_012,Watching Battle Record,My aim with my bowgun has improved.,瞄准技术提升了。,Я стала точнее стрелять из арбалета.
+char_219_meteo_CN_013,Promotion 1,You want to promote me? I see that I made the right choice to work here.,想要提拔我吗？ 看来，选择在这儿工作，果然是对的。,"Хотите меня повысить? Значит, я не ошиблась, выбрав это место."
+char_219_meteo_CN_014,Promotion 2,"Thank you so much for this, really. I can't believe someone like me could work a stable job here at Rhodes Island. I'll do everything I can to repay your trust in me.",这次，真的十分谢谢你。没想到，我这样的人，居然能在罗德岛获得如此稳定的一份工作。我会竭尽所能，回报你的信赖。,"Спасибо вам огромное, правда. Я и не думала, что такая, как я, сможет получить на Родосе такую стабильную работу. Я сделаю всё, чтобы оправдать ваше доверие."
+char_219_meteo_CN_017,Added to Squad,Reporting for duty. ,我来了。,Я на связи.
+char_219_meteo_CN_018,Appointed as Squad Leader,"Me, a leader? To be honest, I'm not that good at giving orders.",要我做队长吗？严格来说，我不太擅长对别人发号施令。,"Меня — капитаном? Если честно, я не слишком умею отдавать приказы."
+char_219_meteo_CN_019,Depart,I'll do my best to take care of everyone.,我会好好照顾大家的。,Я постараюсь позаботиться о всех.
+char_219_meteo_CN_020,Begin Operation,"Enemy status confirmed. All units, prepare to engage.",已经确认了敌情。各位，请做好战斗的准备。,Обстановка противника подтверждена. Всем подготовиться к бою.
+char_219_meteo_CN_021,Selecting Operator 1,All right.,哦，好。,"А, хорошо."
+char_219_meteo_CN_022,Selecting Operator 2,No problem.,没问题。,Без проблем.
+char_219_meteo_CN_023,Deployment 1,I've got a clear shot.,视野良好。,Обзор хороший.
+char_219_meteo_CN_024,Deployment 2,Let's take them all out.,一口气解决他们。,Уберём их всех разом.
+char_219_meteo_CN_025,In Battle 1,Fire!,射击。,Огонь.
+char_219_meteo_CN_026,In Battle 2,Open fire!,开火。,Открыть огонь.
+char_219_meteo_CN_027,In Battle 3,Focus fire!,集中火力。,Сосредоточить огонь.
+char_219_meteo_CN_028,In Battle 4,Get back!,退后！,Назад!
+char_219_meteo_CN_029,4-star Result,"I don't want to see anything laid to waste in the fires of war ever again. Let us put an end to this, once and for all.",我不想再看到熊熊燃烧的战火了，让一切，都结束吧。,"Я больше не хочу видеть, как всё сгорает в огне войны. Покончим с этим раз и навсегда."
+char_219_meteo_CN_030,3-star Result,Trying to escape after I laid you to siege? Don't be silly.,想从我布置完善的包围网中脱逃，真是异想天开。,Пытаться вырваться из моего кольца — несбыточная мечта.
+char_219_meteo_CN_031,Sub 3-star Result,Someone's escaped. Not the time to let our guard down.,有人逃走了，现在还不能大意。,Кто-то ушёл. Расслабляться ещё рано.
+char_219_meteo_CN_032,Operation Failure,Retreat! Back to the stronghold and regroup.,撤退吧！回到据点，重整姿态。,"Отступаем! К опорному пункту, перегруппироваться."
+char_219_meteo_CN_033,Assigned to Facility,What's this place?,这里是什么地方？,Что это за место?
+char_219_meteo_CN_034,Tap,Huh? Huh? What?,呃！什么？,А? Что?
+char_219_meteo_CN_036,Trust Tap,Is this for me? Thanks.,这个，是要送给我吗？啊，谢谢。,Это мне? Спасибо.
+char_219_meteo_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_219_meteo_CN_038,New Year's blessing,"That's another year, come and gone. Getting to live one more year is certainly worth celebrating as a merc, but more than that, I don't want anyone else living with this kind of uncertainty... Doctor, I got some presents for the kids of Rhodes Island. Could you hand them out for me?",又过去了一年。作为雇佣兵来说，每多活一年，都算是值得高兴的事。但我不希望有更多人生活在这种不安中……博士，我为罗德岛上的孩子们准备了一点礼物，可以请您帮我分给他们吗？,"Ещё один год прошёл. Для наёмницы каждый лишний год — уже повод радоваться, но я не хочу, чтобы кто-то ещё жил в такой тревоге... Доктор, я подготовила небольшие подарки для детей Родоса. Не могли бы вы раздать их за меня?"
+char_219_meteo_CN_042,Greeting,"How's it going, Doctor?",博士，你好吗？,"Как дела, Доктор?"
+char_219_meteo_CN_043,Birthday,"Happy birthday, Doctor. I want to take this chance to express my gratitude, for you are always looking out for me. I wasn't sure what would be a suitable gift... but I will give you an oath, I'll give it all I've got to protect you. Um… is that okay?",博士，生日快乐。我很想趁此机会，对您平日里的关照表示感谢。但是也不知道该送什么像样的礼物……我承诺，会一直尽全力来保护您。这样……可以吗？,"Доктор, с днём рождения. Я хочу воспользоваться случаем и поблагодарить вас за повседневную заботу. Я не знала, что преподнести достойное... но я обещаю, что всегда буду защищать вас изо всех сил. Так... можно?"
+char_219_meteo_CN_044,Anniversary Celebration,"Before this, I'd never stayed with an organization for such a long time, and I haven't figured out my plans for the future, but I really wavered when I heard Amiya say, 'I want to help the Sarkaz.' Maybe there are still lots of people out there, with hope for the future in their hearts.",我从未在某一个组织逗留过这么长时间，也从没有安定下来的打算。但是，当阿米娅对我说“我也想帮助萨卡兹人”的时候，我动摇了。我愿意相信，也许这片大地上，还有很多人对未来抱有期待。,"Раньше я никогда не задерживалась в одной организации надолго и не собиралась оседать. Но когда Амия сказала: «Я тоже хочу помочь сарказцам», — я поколебалась. Может, на этой земле ещё много людей, которые надеются на будущее."

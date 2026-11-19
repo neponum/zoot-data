@@ -1,39 +1,39 @@
-id,title,original,translation
-char_346_aosta_CN_001,Appointed as Assistant,"I can be your assistant, but is it okay if I do some craft work here?",
-char_346_aosta_CN_002,Talk 1,"Doctor, if you like excitement, you should probably stay in Siracusa for a while. You won't enjoy it so much after that.",
-char_346_aosta_CN_003,Talk 2,"Considering his personality, sometimes even I wonder why no one's beaten Chiave to death yet.",
-char_346_aosta_CN_004,Talk 3,"Doctor, are you interested in DIY? See, the three of us actually design and make our own weapons and outfits. You could join us sometime, if you want.",
-char_346_aosta_CN_005,Talk after Promotion 1,"After cleaning up Chiave’s messes so many times, I’ve realized something: If you want real power, you’ll need to rely on more than just violence.",
-char_346_aosta_CN_006,Talk after Promotion 2,"In Siracusa, most people my age just want to join a famiglia, but there are plenty more who would rather live an honest life instead. Sometimes, I think those are the strongest of us all.",
-char_346_aosta_CN_007,Talk after Trust Increase 1,"(Yawn) …Oh, sorry, Doctor, I didn't get much sleep last night. Rhodes Island is way too safe. It's taking some time to get used to.",
-char_346_aosta_CN_008,Talk after Trust Increase 2,"Chiave, Broca, and me. The three of us are like brothers, and we've done all kinds of things together. But, sometimes, I really wonder if this really is the life for us.",
-char_346_aosta_CN_009,Talk after Trust Increase 3,"To tell you the truth, I wanted to be a public servant when I was a kid. Up until my dad made me pick up a weapon for the first time, that is. I don't mind drifting around with the other two, but I always felt like I was missing something, and I know what it is now. I wanted to become as strong-willed as you are, Doctor.",
-char_346_aosta_CN_010,Idle,"Doctor... you're asleep? You sure live a comfy life, heh? I'm pretty jealous.",
-char_346_aosta_CN_011,Onboard,"Hello, Doctor. I'm Aosta. It's thanks to you that the three of us are still alive. If you don't mind, please let us work here for the time being.",
-char_346_aosta_CN_012,Watching Battle Record,Maybe we're still alive only because of a stroke of luck…,
-char_346_aosta_CN_013,Promotion 1,"Doctor, is Rhodes Island really a pharmaceutical company? I've got the feeling that we might just be able to take over a Siracusan city if everyone here put themselves to it.",
-char_346_aosta_CN_014,Promotion 2,"I think I might just be able to live the life I've always wanted at Rhodes Island... Doctor, could I apply to open a DIY shop here?",
-char_346_aosta_CN_017,Added to Squad,I hope this isn't going to be too much trouble.,
-char_346_aosta_CN_018,Appointed as Squad Leader,I'll give it my best shot.,
-char_346_aosta_CN_019,Depart,Let's avoid any unnecessary fights.,
-char_346_aosta_CN_020,Begin Operation,Guess we don't have a choice. Let's get this taken care of.,
-char_346_aosta_CN_021,Selecting Operator 1,I'll go.,
-char_346_aosta_CN_022,Selecting Operator 2,Yes?,
-char_346_aosta_CN_023,Deployment 1,Take them all down?,
-char_346_aosta_CN_024,Deployment 2,Let me give it a shot.,
-char_346_aosta_CN_025,In Battle 1,Hello.,
-char_346_aosta_CN_026,In Battle 2,Farewell.,
-char_346_aosta_CN_027,In Battle 3,Time to put an end to this.,
-char_346_aosta_CN_028,In Battle 4,Tsk.,
-char_346_aosta_CN_029,4-star Result,"Doctor, do you enjoy challenging yourself so much?",
-char_346_aosta_CN_030,3-star Result,I got all of them. I just hope they're worth it.,
-char_346_aosta_CN_031,Sub 3-star Result,"A few of them got through, but I think we'll be fine.",
-char_346_aosta_CN_032,Operation Failure,"Doctor, you go on ahead. I'll clean up the mess here. It's my speciality, after all.",
-char_346_aosta_CN_033,Assigned to Facility,"I'll just walk around, then.",
-char_346_aosta_CN_034,Tap,"I can walk, Doctor.",
-char_346_aosta_CN_036,Trust Tap,"How are things going, Doctor?",
-char_346_aosta_CN_037,Title,Arknights.,
-char_346_aosta_CN_038,New Year's blessing,"New Year's used to be the three of us hiding in a small room, scraping together a table of assorted dishes to, at the very least, eat something together. And that's all. I never imagined having such a lavish New Year's celebration as this… Don't worry, Doctor, I'll keep an eye on Chiave and make sure he stays out of trouble. ",
-char_346_aosta_CN_042,Greeting,"Hello, Doctor.",
-char_346_aosta_CN_043,Birthday,"Happy birthday, Doctor. I've never given a gift before, so I'm not sure what you might like… Is there anything in particular you want? Just give me an hour, I may DIY it for you.",
-char_346_aosta_CN_044,Anniversary Celebration,"Oh, Doctor, I got a lot of orders for props tonight. Did you notice? A whole lot of the decorations hanging around are my creations… Ah, don't worry, I enjoy this festive atmosphere well enough. Would you like me to make you some too? Free of charge, and I'm sure you'll be pleased with the results.",
+id,title,original,original_zh,translation
+char_346_aosta_CN_001,Appointed as Assistant,"I can be your assistant, but is it okay if I do some craft work here?",做助理的话，我可以在旁边做些手工吗？,Я могу быть вашим помощником — только можно мне будет здесь немного мастерить?
+char_346_aosta_CN_002,Talk 1,"Doctor, if you like excitement, you should probably stay in Siracusa for a while. You won't enjoy it so much after that.",博士，如果你喜欢追求刺激，可以去叙拉古生活一段时间。然后你就会不喜欢了。,"Доктор, если вы любите острые ощущения — поживите какое-то время в Сиракузе. После этого вам уже не захочется."
+char_346_aosta_CN_003,Talk 2,"Considering his personality, sometimes even I wonder why no one's beaten Chiave to death yet.",贾维的性格，有时候连我都怀疑，他究竟是怎么活到今天没有被人打死的。,"Учитывая характер Кьяве, я иногда сам удивляюсь, как его до сих пор никто не избил до смерти."
+char_346_aosta_CN_004,Talk 3,"Doctor, are you interested in DIY? See, the three of us actually design and make our own weapons and outfits. You could join us sometime, if you want.",博士，你对DIY感兴趣吗？其实，我们三个的武器和衣服，都是自己设计和制作的。如果你也喜欢的话，我们可以交流一下。,"Доктор, вы интересуетесь DIY? Дело в том, что мы втроём сами проектируем и делаем своё оружие и одежду. Если вам нравится — можем как-нибудь обменяться опытом."
+char_346_aosta_CN_005,Talk after Promotion 1,"After cleaning up Chiave’s messes so many times, I’ve realized something: If you want real power, you’ll need to rely on more than just violence.",在帮贾维擦屁股的过程中，我发现了一件事，那就是——想要真正变得强大，光靠暴力是不够的。,"Расхлёбывая проблемы Кьяве снова и снова, я заметил одну вещь: чтобы по-настоящему стать сильным, одной только силой не обойдёшься."
+char_346_aosta_CN_006,Talk after Promotion 2,"In Siracusa, most people my age just want to join a famiglia, but there are plenty more who would rather live an honest life instead. Sometimes, I think those are the strongest of us all.",在叙拉古，许多同龄人都想成为一个家族的一员，但也有许多脚踏实地生活的人。我有时候，觉得他们比我们更厉害。,"В Сиракузе многие мои сверстники мечтают вступить в семью, но немало и тех, кто просто хочет жить честно. Иногда я думаю, что именно они из нас самые сильные."
+char_346_aosta_CN_007,Talk after Trust Increase 1,"(Yawn) …Oh, sorry, Doctor, I didn't get much sleep last night. Rhodes Island is way too safe. It's taking some time to get used to.",（哈欠声）……不好意思，博士，我昨晚没有睡好。罗德岛太安全了，我不是很习惯。,"(Зевок) ...Простите, Доктор, я плохо спал прошлой ночью. На Родосе слишком безопасно — мне требуется время привыкнуть."
+char_346_aosta_CN_008,Talk after Trust Increase 2,"Chiave, Broca, and me. The three of us are like brothers, and we've done all kinds of things together. But, sometimes, I really wonder if this really is the life for us.",贾维、布洛卡、我，我们三个是伙伴，也在一起做了不少事。但我有时候也会想，这样的生活，真的就是适合我们的生活吗？,"Кьяве, Брока и я — мы втроём как братья, и мы многое пережили вместе. Но иногда я всерьёз задумываюсь: неужели это та жизнь, которая нам подходит?"
+char_346_aosta_CN_009,Talk after Trust Increase 3,"To tell you the truth, I wanted to be a public servant when I was a kid. Up until my dad made me pick up a weapon for the first time, that is. I don't mind drifting around with the other two, but I always felt like I was missing something, and I know what it is now. I wanted to become as strong-willed as you are, Doctor.",其实，我小时候的梦想是成为一名公务员，直到父亲第一次让我拿起武器。我并不讨厌和他们四处闯荡的生活，但始终感觉缺少了一些什么，现在我知道了，我想成为博士你这样内心强大的人。,"По правде сказать, в детстве я мечтал стать госслужащим — пока отец впервые не заставил меня взять в руки оружие. Мне не неприятна жизнь в скитаниях с этими двумя, но всё время чего-то не хватало. Теперь я знаю: я хочу быть таким же сильным внутри, как вы, Доктор."
+char_346_aosta_CN_010,Idle,"Doctor... you're asleep? You sure live a comfy life, heh? I'm pretty jealous.",博士……睡着了吗，真是个幸福的家伙。,Доктор... вы спите? Вот счастливец.
+char_346_aosta_CN_011,Onboard,"Hello, Doctor. I'm Aosta. It's thanks to you that the three of us are still alive. If you don't mind, please let us work here for the time being.",博士，你好。我叫奥斯塔。之前承蒙照顾，我们三个人才没有被干掉。不嫌弃的话，请让我们在这里工作一段时间吧。,"Здравствуйте, Доктор. Я — Аоста. Это благодаря вам мы втроём всё ещё живы. Если не против, позвольте нам пока поработать здесь."
+char_346_aosta_CN_012,Watching Battle Record,Maybe we're still alive only because of a stroke of luck…,……看来，我们三个能活到今天，真的只是运气比较好。,"Кажется, мы втроём живы до сих пор просто потому, что нам повезло..."
+char_346_aosta_CN_013,Promotion 1,"Doctor, is Rhodes Island really a pharmaceutical company? I've got the feeling that we might just be able to take over a Siracusan city if everyone here put themselves to it.",博士，罗德岛真的是一家医药公司吗？我感觉，这里的人一起出动的话，说不定可以拿下叙拉古一座城。,"Доктор, Родос и правда фармацевтическая компания? У меня такое чувство, что если здесь все соберутся, мы сможем взять какой-нибудь город в Сиракузе."
+char_346_aosta_CN_014,Promotion 2,"I think I might just be able to live the life I've always wanted at Rhodes Island... Doctor, could I apply to open a DIY shop here?",在罗德岛，或许我能找到一直以来我在追求的生活方式……博士，我能在舰内开一家DIY店吗？,"Может быть, именно на Родосе я найду тот образ жизни, к которому всегда стремился... Доктор, можно мне открыть здесь DIY-мастерскую?"
+char_346_aosta_CN_017,Added to Squad,I hope this isn't going to be too much trouble.,但愿不会是很麻烦的事情。,"Надеюсь, это не доставит много хлопот."
+char_346_aosta_CN_018,Appointed as Squad Leader,I'll give it my best shot.,我尽力吧。,"Я сделаю всё, что в моих силах."
+char_346_aosta_CN_019,Depart,Let's avoid any unnecessary fights.,尽量避免没必要的战斗吧。,Постараемся избежать лишних схваток.
+char_346_aosta_CN_020,Begin Operation,Guess we don't have a choice. Let's get this taken care of.,没办法，快点解决吧。,Ничего не поделаешь — покончим с этим поскорее.
+char_346_aosta_CN_021,Selecting Operator 1,I'll go.,我去吧。,Я пойду.
+char_346_aosta_CN_022,Selecting Operator 2,Yes?,嗯？,М?
+char_346_aosta_CN_023,Deployment 1,Take them all down?,全都要解决掉吗？,Убрать их всех?
+char_346_aosta_CN_024,Deployment 2,Let me give it a shot.,让我来试一试吧。,Позвольте мне попробовать.
+char_346_aosta_CN_025,In Battle 1,Hello.,你好。,Здравствуйте.
+char_346_aosta_CN_026,In Battle 2,Farewell.,再见。,До свидания.
+char_346_aosta_CN_027,In Battle 3,Time to put an end to this.,该结束了。,Пора покончить с этим.
+char_346_aosta_CN_028,In Battle 4,Tsk.,啧。,Тьфу.
+char_346_aosta_CN_029,4-star Result,"Doctor, do you enjoy challenging yourself so much?",呼、呼……博士，挑战极限是你的乐趣之一吗？,"Фух, фух... Доктор, бросать вызов своим пределам — это одно из ваших удовольствий?"
+char_346_aosta_CN_030,3-star Result,I got all of them. I just hope they're worth it.,全吃下了，但愿这些人有让我们这么做的价值。,"Я уложил их всех. Надеюсь, они стоили того, чтобы мы это делали."
+char_346_aosta_CN_031,Sub 3-star Result,"A few of them got through, but I think we'll be fine.",跑了几个，不过问题应该不大。,"Несколько ушло, но, думаю, ничего страшного."
+char_346_aosta_CN_032,Operation Failure,"Doctor, you go on ahead. I'll clean up the mess here. It's my speciality, after all.",博士，你先走，我来殿后，这种事我擅长。,"Доктор, идите первым — я прикрою. Это у меня получается."
+char_346_aosta_CN_033,Assigned to Facility,"I'll just walk around, then.",那我随便走走吧。,Тогда я просто пройдусь.
+char_346_aosta_CN_034,Tap,"I can walk, Doctor.",我自己有脚，博士。,"Я и сам могу идти, Доктор."
+char_346_aosta_CN_036,Trust Tap,"How are things going, Doctor?",博士，你好。,"Как дела, Доктор?"
+char_346_aosta_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_346_aosta_CN_038,New Year's blessing,"New Year's used to be the three of us hiding in a small room, scraping together a table of assorted dishes to, at the very least, eat something together. And that's all. I never imagined having such a lavish New Year's celebration as this… Don't worry, Doctor, I'll keep an eye on Chiave and make sure he stays out of trouble. ",以前的新年，都是我们三个人躲在小屋子里，搞一桌东西，随便吃点就过去了。像这么丰富的新年活动，我还真的没有想过……放心吧，博士，我会看着贾维，让他少惹点麻烦。,"Раньше Новый год — это мы втроём в маленькой комнате, кое-как накрытый стол и хоть какая-то общая трапеза. Я и не думал, что праздник может быть таким обильным... Не волнуйтесь, Доктор, я присмотрю за Кьяве и постараюсь, чтобы он меньше набедокурил."
+char_346_aosta_CN_042,Greeting,"Hello, Doctor.",你好，博士。,"Здравствуйте, Доктор."
+char_346_aosta_CN_043,Birthday,"Happy birthday, Doctor. I've never given a gift before, so I'm not sure what you might like… Is there anything in particular you want? Just give me an hour, I may DIY it for you.",博士，生日快乐。我之前还没有给人送过礼物，也不知道博士会喜欢什么……博士有什么想要的东西吗？只要给我一个小时，我现在就可以去给你做一个。,"Доктор, с днём рождения. Я никогда раньше не дарил подарков и не знаю, что вам может понравиться... Есть ли что-то особенное, что вы захотели бы? Дайте мне час — и я сделаю это своими руками."
+char_346_aosta_CN_044,Anniversary Celebration,"Oh, Doctor, I got a lot of orders for props tonight. Did you notice? A whole lot of the decorations hanging around are my creations… Ah, don't worry, I enjoy this festive atmosphere well enough. Would you like me to make you some too? Free of charge, and I'm sure you'll be pleased with the results.",啊，博士，我接到了不少今晚道具的订单，你发现了吗，现在悬挂的装饰有不少是我做的……没什么，这种热闹的氛围，我并不讨厌。要我帮你也做一些吗？免费，而且保证你会满意。,"Ах, Доктор, сегодня я получил много заказов на реквизит — вы заметили? Многие из украшений вокруг — моя работа... Пустяки, мне нравится эта праздничная атмосфера. Хотите, я сделаю что-нибудь и для вас? Бесплатно, и я уверен — вам понравится."

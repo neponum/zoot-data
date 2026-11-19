@@ -1,39 +1,39 @@
-id,title,original,translation
-char_183_skgoat_CN_001,Appointed as Assistant,"Doctor, I've finished sorting the Originium from the other ores, as you requested. Is there anything else?",
-char_183_skgoat_CN_002,Talk 1,"Oripathy is indeed troublesome. I can't even go on operations without approval from Dr. Kal'tsit. Oripathy shortens one's lifespan, you say? Yes, that's true, but I don't really mind.",
-char_183_skgoat_CN_003,Talk 2,This tuning fork? It's actually a staff — not only a weapon but also useful for geological surveys. I find it always comes in handy.,
-char_183_skgoat_CN_004,Talk 3,"Without Rhodes Island, I'd probably still be a full-time geological researcher. And without you people... I'd probably already be dead.",
-char_183_skgoat_CN_005,Talk after Promotion 1,"What? I have dark circles under my eyes? Aw, I knew it…",
-char_183_skgoat_CN_006,Talk after Promotion 2,"What's that behind me, you ask? Well... ah, never mind, it's really hard to explain. I'll tell you when we have more time.",
-char_183_skgoat_CN_007,Talk after Trust Increase 1,"Some rocks talk to me, you know. They chatter and even squabble away. Sometimes, I lose sleep because of it… You think I'm kidding? Do I look like I'm kidding?",
-char_183_skgoat_CN_008,Talk after Trust Increase 2,"Provence is as careless as always. She needs to be careful or she'll end up like me, seriously ill. You'd better give her a good talking-to.",
-char_183_skgoat_CN_009,Talk after Trust Increase 3,"Astonishing...! Look at this, Doctor! This surface... it couldn't have been formed without high pressure in the crust three hundred and fifty thousand years ago. Isn't it incredible…? Guess what, Doctor? The theory is correct! Those who refuted it are the true fools!",
-char_183_skgoat_CN_010,Idle,"Doctor—oh, you're sleeping? You must be tired from all your hard work.",
-char_183_skgoat_CN_011,Onboard,"I'm Earthspirit, a geology scholar and Caster, reporting in. I work eight hours each day. Make me work any more and you'll have to pay me extra.",
-char_183_skgoat_CN_012,Watching Battle Record,"Hm, is this academic data, or something else?",
-char_183_skgoat_CN_013,Promotion 1,We must continue to refine our scientific method.,
-char_183_skgoat_CN_014,Promotion 2,"Forgive my bluntness, but do bear in mind you are paying me only a single salary. No matter how far you promote me, I won't do more than a single person's work.",
-char_183_skgoat_CN_017,Added to Squad,Understood.,
-char_183_skgoat_CN_018,Appointed as Squad Leader,I hope this squad performs well in all types of extreme environment.,
-char_183_skgoat_CN_019,Depart,"Don't worry, we'll be right back.",
-char_183_skgoat_CN_020,Begin Operation,We can't let them misuse Originium like this.,
-char_183_skgoat_CN_021,Selecting Operator 1,Here.,
-char_183_skgoat_CN_022,Selecting Operator 2,What's the battle plan?,
-char_183_skgoat_CN_023,Deployment 1,I'm ready.,
-char_183_skgoat_CN_024,Deployment 2,Where are the enemies?,
-char_183_skgoat_CN_025,In Battle 1,Sink into the earth!,
-char_183_skgoat_CN_026,In Battle 2,The power of the earth...,
-char_183_skgoat_CN_027,In Battle 3,This ends here!,
-char_183_skgoat_CN_028,In Battle 4,You shouldn't have set foot here.,
-char_183_skgoat_CN_029,4-star Result,What the enemy was doing… would only bring disaster.,
-char_183_skgoat_CN_030,3-star Result,All enemies have been dealt with.,
-char_183_skgoat_CN_031,Sub 3-star Result,"A fine victory, Doctor.",
-char_183_skgoat_CN_032,Operation Failure,How is this possible…?,
-char_183_skgoat_CN_033,Assigned to Facility,This environment is quite suitable for research.,
-char_183_skgoat_CN_034,Tap,Um...,
-char_183_skgoat_CN_036,Trust Tap,"This piece of ore is… for me? Really? But… it must be very expensive, no?",
-char_183_skgoat_CN_037,Title,Arknights.,
-char_183_skgoat_CN_038,New Year's blessing,"Take a look at the vast strata under our feet. Do you think they pay attention to the new year? Mhm, so neither do I. It's nothing more than an ordinary day off to me, so any tasks assigned to me will be treated as overtime, including attending any parties.",
-char_183_skgoat_CN_042,Greeting,"Doctor, time to get to work.",
-char_183_skgoat_CN_043,Birthday,"Happy birthday. This gemstone is for you. Very pretty, isn't it? I found it in the wilds after a Catastrophe had passed through. Does it confer good luck, you ask? Stones like these have already gone through countless arduous years of settlement and compression to become what they are. Asking it to control fate on top of that seems a bit much.",
-char_183_skgoat_CN_044,Anniversary Celebration,"There are too many unsolved enigmas in my research, and I only have so much time. Thus, I have to maintain a clear boundary between work and life. So long as each finds its own separate meaning, my time on this land will be worthwhile. I count myself lucky to have found this balance at Rhodes Island.",
+id,title,original,original_zh,translation
+char_183_skgoat_CN_001,Appointed as Assistant,"Doctor, I've finished sorting the Originium from the other ores, as you requested. Is there anything else?",博士，我已经按您的要求，将源石和其他矿物甄别分拣完毕了，还有别的需求吗？,"Доктор, я разобрала и рассортировала Ориджиниум и прочие минералы, как вы и просили. Нужно что-то ещё?"
+char_183_skgoat_CN_002,Talk 1,"Oripathy is indeed troublesome. I can't even go on operations without approval from Dr. Kal'tsit. Oripathy shortens one's lifespan, you say? Yes, that's true, but I don't really mind.",矿石病真麻烦啊，我现在，就连行动都会被凯尔希医生限制。寿命会被矿石病削减？不，这个倒无所谓啦。,"Орипатия — это так неудобно. Мне даже на вылазки не разрешают ходить без доктора Кальцит. Говорят, она сокращает жизнь?.. Нет, это меня не слишком волнует."
+char_183_skgoat_CN_003,Talk 2,This tuning fork? It's actually a staff — not only a weapon but also useful for geological surveys. I find it always comes in handy.,这把音叉？是魔杖。它不仅是武器，也是用在地质勘探上的工具，用起来十分顺手。,"Этот камертон? Это посох. Он не только оружие, но и инструмент для геологической разведки — очень удобный."
+char_183_skgoat_CN_004,Talk 3,"Without Rhodes Island, I'd probably still be a full-time geological researcher. And without you people... I'd probably already be dead.",没有遇见罗德岛的话，我可能还在全职从事地质研究的工作。但没遇见你们的话，我可能也已经没命了。,"Если бы я не встретила Родос, я бы, наверное, до сих пор занималась геологией на постоянной работе. А если бы не встретила вас... я бы, наверное, уже мертва."
+char_183_skgoat_CN_005,Talk after Promotion 1,"What? I have dark circles under my eyes? Aw, I knew it…",啊？我有黑眼圈了？讨厌，我就知道……,"Что? У меня круги под глазами? Ох, я так и знала..."
+char_183_skgoat_CN_006,Talk after Promotion 2,"What's that behind me, you ask? Well... ah, never mind, it's really hard to explain. I'll tell you when we have more time.",我背后的是什么？这是……算了，解释起来会很麻烦，等有时间再说吧。,"Что у меня за спиной? Это... эх, неважно, объяснять долго. Как-нибудь в другой раз."
+char_183_skgoat_CN_007,Talk after Trust Increase 1,"Some rocks talk to me, you know. They chatter and even squabble away. Sometimes, I lose sleep because of it… You think I'm kidding? Do I look like I'm kidding?",有些石头是会跟我说话的，絮絮叨叨，相互争吵不休，把我弄到失眠……你以为我在开玩笑？我难道像是在开玩笑的样子吗？,"Знаете, некоторые камни разговаривают со мной. Они болтают и спорят друг с другом, и я из-за этого не сплю... Вы думаете, я шучу? Похожа я на человека, который шутит?"
+char_183_skgoat_CN_008,Talk after Trust Increase 2,"Provence is as careless as always. She needs to be careful or she'll end up like me, seriously ill. You'd better give her a good talking-to.",普罗旺斯还是一如既往的神经大条，再不注意，她可就要变成我这样的重症感染者了。你们最好也多和她说说。,"Прованс всё такая же рассеянная. Ещё немного — и она станет такой же тяжело инфицированной, как я. Вам бы с ней как следует поговорить."
+char_183_skgoat_CN_009,Talk after Trust Increase 3,"Astonishing...! Look at this, Doctor! This surface... it couldn't have been formed without high pressure in the crust three hundred and fifty thousand years ago. Isn't it incredible…? Guess what, Doctor? The theory is correct! Those who refuted it are the true fools!",就是这个，就是这个！你看，你看……至少距今三十五万年的地壳挤压，才会形成这种截面！太棒了……博士，知道吗，那些一直以来反驳这项理论的人才是愚昧的……！,"Вот оно, вот оно! Смотрите, смотрите... Этот срез мог образоваться только в результате сжатия земной коры как минимум тридцать пятьдесят тысяч лет назад! Прекрасно... Доктор, знаете? Те, кто всё это время отрицали эту теорию, — вот они и были невеждами...!"
+char_183_skgoat_CN_010,Idle,"Doctor—oh, you're sleeping? You must be tired from all your hard work.",博士……哎，是不是工作得太疲惫了。,"Доктор... ох, вы, кажется, перестарались с работой."
+char_183_skgoat_CN_011,Onboard,"I'm Earthspirit, a geology scholar and Caster, reporting in. I work eight hours each day. Make me work any more and you'll have to pay me extra.",地灵，地质学者兼术师，向你报到。我每天的工作时间是八小时，如果加班的话要额外支付加班费。,"Эртспирит, учёный-геолог и кастер, являюсь к вам. Я работаю восемь часов в день, а за сверхурочные придётся доплачивать."
+char_183_skgoat_CN_012,Watching Battle Record,"Hm, is this academic data, or something else?",嗯，这是学术资料还是别的什么？,"Мм, это научные данные или что-то другое?"
+char_183_skgoat_CN_013,Promotion 1,We must continue to refine our scientific method.,科研方法也有不断精进的必要呢。,Метод исследования тоже нужно постоянно совершенствовать.
+char_183_skgoat_CN_014,Promotion 2,"Forgive my bluntness, but do bear in mind you are paying me only a single salary. No matter how far you promote me, I won't do more than a single person's work.",冒昧提醒一下，我只拿一份薪水。不加薪的话，就算升职，我也不会做更多的工作哦。,"Позволю себе заметить: я получаю только одно жалованье. Сколько бы вы меня ни повышали, работать больше одного человека я не стану."
+char_183_skgoat_CN_017,Added to Squad,Understood.,知道了。,Понятно.
+char_183_skgoat_CN_018,Appointed as Squad Leader,I hope this squad performs well in all types of extreme environment.,希望这会是一支能应付各种极端环境的小队。,"Надеюсь, этот отряд справится с любыми экстремальными условиями."
+char_183_skgoat_CN_019,Depart,"Don't worry, we'll be right back.",放心吧，我们很快就能回来。,"Не волнуйтесь, мы быстро вернёмся."
+char_183_skgoat_CN_020,Begin Operation,We can't let them misuse Originium like this.,不能让他们再这样滥用源石。,Нельзя позволять им так злоупотреблять Ориджиниумом.
+char_183_skgoat_CN_021,Selecting Operator 1,Here.,在。,Здесь.
+char_183_skgoat_CN_022,Selecting Operator 2,What's the battle plan?,作战计划是？,Каков план боя?
+char_183_skgoat_CN_023,Deployment 1,I'm ready.,准备完毕。,Готова.
+char_183_skgoat_CN_024,Deployment 2,Where are the enemies?,敌人在哪里？,Где противник?
+char_183_skgoat_CN_025,In Battle 1,Sink into the earth!,陷下去吧！,Провались в землю!
+char_183_skgoat_CN_026,In Battle 2,The power of the earth...,大地的力量……,Сила земли...
+char_183_skgoat_CN_027,In Battle 3,This ends here!,到此为止了！,До сюда!
+char_183_skgoat_CN_028,In Battle 4,You shouldn't have set foot here.,你不该踏足这里！,Тебе не следовало ступать сюда!
+char_183_skgoat_CN_029,4-star Result,What the enemy was doing… would only bring disaster.,敌人的这种行为，只会招致灾难。,"То, что делал враг, могло привести лишь к беде."
+char_183_skgoat_CN_030,3-star Result,All enemies have been dealt with.,所有敌人都处理完毕了。,Со всеми противниками покончено.
+char_183_skgoat_CN_031,Sub 3-star Result,"A fine victory, Doctor.",是一场不错的胜利呢，博士。,"Неплохая победа, Доктор."
+char_183_skgoat_CN_032,Operation Failure,How is this possible…?,怎么会这样……,Как это возможно...
+char_183_skgoat_CN_033,Assigned to Facility,This environment is quite suitable for research.,这样的环境，挺适合研究的。,В такой обстановке довольно удобно проводить исследования.
+char_183_skgoat_CN_034,Tap,Um...,唔……,Мм...
+char_183_skgoat_CN_036,Trust Tap,"This piece of ore is… for me? Really? But… it must be very expensive, no?",这块矿石……给我的？真的可以吗……这……很贵重啊？,"Этот кусок руды... мне? Правда можно... Он же... очень ценный, нет?"
+char_183_skgoat_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_183_skgoat_CN_038,New Year's blessing,"Take a look at the vast strata under our feet. Do you think they pay attention to the new year? Mhm, so neither do I. It's nothing more than an ordinary day off to me, so any tasks assigned to me will be treated as overtime, including attending any parties.",看看我们脚下宽广的岩层，你觉得它们会在意新年吗？嗯，所以我也不在意。今天对我来说就是普通的休息日而已，所有任务都会被算入加班内容，包括参加晚会。,"Посмотрите на широкие пласты под нашими ногами. Думаете, их волнует Новый год? Мм, значит, и меня не волнует. Для меня сегодня просто обычный выходной, поэтому любые задания — включая участие в вечеринке — считаются сверхурочными."
+char_183_skgoat_CN_042,Greeting,"Doctor, time to get to work.",博士，该工作了。,"Доктор, пора работать."
+char_183_skgoat_CN_043,Birthday,"Happy birthday. This gemstone is for you. Very pretty, isn't it? I found it in the wilds after a Catastrophe had passed through. Does it confer good luck, you ask? Stones like these have already gone through countless arduous years of settlement and compression to become what they are. Asking it to control fate on top of that seems a bit much.",生日快乐，这块宝石送给你。是我在一处天灾过后的荒野上发现的，很漂亮吧。有没有转运的功能？这些石头经历了上万年的挤压沉积才变成现在的样子，已经很不容易了，不要再期待它有这种能力了。,"С днём рождения. Этот самоцвет — вам. Я нашла его в пустошах после Катастрофы. Красивый, правда? Приносит ли удачу? Эти камни прошли через неисчислимые годы оседания и сжатия, чтобы стать тем, что они есть. Просить их ещё и управлять судьбой — уже слишком."
+char_183_skgoat_CN_044,Anniversary Celebration,"There are too many unsolved enigmas in my research, and I only have so much time. Thus, I have to maintain a clear boundary between work and life. So long as each finds its own separate meaning, my time on this land will be worthwhile. I count myself lucky to have found this balance at Rhodes Island.",有太多科研上的谜团需要解答，而我的时间或许不多了。即便如此，我也要确保工作和生活划清界限。只有二者分别找到意义，我的人生才有价值。我在罗德岛找到了这种平衡，还是很幸运的吧。,"Слишком много научных загадок ждут разгадки, а времени у меня, возможно, осталось немного. И всё же я слежу, чтобы работа и жизнь не смешивались. Только когда у каждой будет свой смысл, моя жизнь на этой земле будет что-то стоить. Мне повезло найти такой баланс на Родосе."

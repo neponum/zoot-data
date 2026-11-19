@@ -1,39 +1,39 @@
-id,title,original,translation
-char_328_cammou_CN_001,Appointed as Assistant,"It's just document sorting, right? Please, I do this stuff all the time, piece o' cake.",
-char_328_cammou_CN_002,Talk 1,"Doctor, come on, check out my new video. You're gonna love it.",
-char_328_cammou_CN_003,Talk 2,"Yeah, that's the icon. Mind giving it a click? Oh, and if it's not too much trouble, maybe the one right beside it too? Hehe, thanks a bunch.",
-char_328_cammou_CN_004,Talk 3,Content! Ideas! Memes! My brain's completely blank! I'm gonna lose subs…,
-char_328_cammou_CN_005,Talk after Promotion 1,"I'm just an amateur explorer, you know. I just plan to take a few shots and then come right back, so I won't be gone for long. Besides, nothing beats chilling at home sweet home.",
-char_328_cammou_CN_006,Talk after Promotion 2,"Medical must've put some weird ideas in your head again, right? Ahhh… I admit, I get these little impulses every now and then, but I promise, I'll never cause you any real trouble.",
-char_328_cammou_CN_007,Talk after Trust Increase 1,"Video editing is totally my specialty! So, Doctor, you want a Rhodes Island promo? Got a plan for me? All righty, lemme take a look. Hmm… Rhodes Island precautions, Nutrition PSAs, fire safety tutorials…What in the terra are these?!",
-char_328_cammou_CN_008,Talk after Trust Increase 2,"I have a bad feeling; there must be a terrifying Feline lurking nearby. Doctor, stay alert! They'll catch you off-guard, leap out from some shadowy corners, and smack you to the ground with a single swipe. Eh? It won't happen?",
-char_328_cammou_CN_009,Talk after Trust Increase 3,"Living together with everyone and discovering new things to film—all the good things in life are compounding! Figuring all that out led me to become an operator, so now I can share my happiness with you.",
-char_328_cammou_CN_010,Idle,"Let me sneak a quick pic. Yeah, just one shot.",
-char_328_cammou_CN_011,Onboard,"'Sup everyone, welcome to the Click Channel! Eh? No filming in the Doctor's office? Fine, I guess…",
-char_328_cammou_CN_012,Watching Battle Record,Let me do the filming next time.,
-char_328_cammou_CN_013,Promotion 1,"A promotion? Awesome! Doctor, bring it in, let's get a commemorative photo!",
-char_328_cammou_CN_014,Promotion 2,"Re…lax… Doctor. This happens every time I get excited, but it's nothing to worry about.",
-char_328_cammou_CN_017,Added to Squad,"'Sup, everyone!",
-char_328_cammou_CN_018,Appointed as Squad Leader,Leave it to me!,
-char_328_cammou_CN_019,Depart,"Doctor, don't forget to take everything you need.",
-char_328_cammou_CN_020,Begin Operation,Let's see what interesting footage I'll get this time.,
-char_328_cammou_CN_021,Selecting Operator 1,Over here!,
-char_328_cammou_CN_022,Selecting Operator 2,Tell me what to do.,
-char_328_cammou_CN_023,Deployment 1,"Fly, my drone!",
-char_328_cammou_CN_024,Deployment 2,Let's get to work!,
-char_328_cammou_CN_025,In Battle 1,Fire!,
-char_328_cammou_CN_026,In Battle 2,Move aside!,
-char_328_cammou_CN_027,In Battle 3,I see you!,
-char_328_cammou_CN_028,In Battle 4,"Hey, smile for the camera!",
-char_328_cammou_CN_029,4-star Result,I just got a killer clip! Make sure you come by and check it out after you get back to the landship.,
-char_328_cammou_CN_030,3-star Result,This is awesome! It's basically a ready–made battle record.,
-char_328_cammou_CN_031,Sub 3-star Result,I was so caught up in filming that somebody slipped by me.,
-char_328_cammou_CN_032,Operation Failure,My lens is shattered…,
-char_328_cammou_CN_033,Assigned to Facility,Time to open my stream studio!,
-char_328_cammou_CN_034,Tap,Wah!,
-char_328_cammou_CN_036,Trust Tap,"Hey Doctor, I got something cool to show you!",
-char_328_cammou_CN_037,Title,Arknights.,
-char_328_cammou_CN_038,New Year's blessing,"Oh! I just got a new idea. Hold on, where's my camera? And anywhere I can set up a tripod? Alright. Doctor, help me test this out. When the fireworks go off, just look out the window. I'll take a picture of your eyes—",
-char_328_cammou_CN_042,Greeting,Hiii—,
-char_328_cammou_CN_043,Birthday,"Doctor, have you heard of fancams? It's when you mix a whole bunch of clips together. I sometimes catch you commanding when I'm filming battle records. Ta-dah! <i>Doctor's Command Scene High-Energy Beat Fancam in Ultra HD</i>! It's your birthday present!",
-char_328_cammou_CN_044,Anniversary Celebration,"Doctor! I came to Rhodes Island just to earn some travel money, but there's no way I would ever leave a company that repairs my drones for free! Even with such big Felines running around, I'm not gonna— Ahhhhh! Is that… Blaze?!",
+id,title,original,original_zh,translation
+char_328_cammou_CN_001,Appointed as Assistant,"It's just document sorting, right? Please, I do this stuff all the time, piece o' cake.",不就是让我归类文档嘛，这种事我经常干，小菜一碟。,"Просто разложить документы? Я это постоянно делаю, раз плюнуть."
+char_328_cammou_CN_002,Talk 1,"Doctor, come on, check out my new video. You're gonna love it.",博士快看我新做的视频，你一定会喜欢的。,"Доктор, смотрите моё новое видео, вам обязательно понравится!"
+char_328_cammou_CN_003,Talk 2,"Yeah, that's the icon. Mind giving it a click? Oh, and if it's not too much trouble, maybe the one right beside it too? Hehe, thanks a bunch.",对，就是那个空心图标，帮忙点一下好嘛，啊，如果可以的话，旁边那个图标也点一下，嘿嘿，谢谢啦。,"Да, вот та пустая иконка, нажмите её, ладно? Ах, если можно, нажмите и соседнюю тоже. Хи-хи, спасибо!"
+char_328_cammou_CN_004,Talk 3,Content! Ideas! Memes! My brain's completely blank! I'm gonna lose subs…,素材！点子！梗！什么都想不出来！我要掉粉了……,Материал! Идеи! Мемы! Ничего не придумывается! Я теряю подписчиков...
+char_328_cammou_CN_005,Talk after Promotion 1,"I'm just an amateur explorer, you know. I just plan to take a few shots and then come right back, so I won't be gone for long. Besides, nothing beats chilling at home sweet home.",我只是个业余的探险家啦，做好计划拍点儿东西就回来了，不会在外面待上太久。再说了，野外哪有自家小屋子舒服。,"Я же просто любительница-исследователь. Составлю план, сниму пару кадров и вернусь — надолго не задержусь. И потом, в дикой природе нет ничего приятнее родного уголка."
+char_328_cammou_CN_006,Talk after Promotion 2,"Medical must've put some weird ideas in your head again, right? Ahhh… I admit, I get these little impulses every now and then, but I promise, I'll never cause you any real trouble.",医疗部的人肯定又和你说什么奇怪的话了吧。哎呀我承认，有些时候我是有那么点小冲动，但博士你放心，我绝对不会给你添麻烦的。,"Люди из медотдела опять нашептали тебе всякое, да? Ах, признаю, иногда у меня бывают маленькие импульсы. Но, Доктор, не волнуйся — я никогда не создам тебе неприятностей."
+char_328_cammou_CN_007,Talk after Trust Increase 1,"Video editing is totally my specialty! So, Doctor, you want a Rhodes Island promo? Got a plan for me? All righty, lemme take a look. Hmm… Rhodes Island precautions, Nutrition PSAs, fire safety tutorials…What in the terra are these?!",视频剪辑可是我的绝活，你是要做罗德岛宣传片吗博士。有计划书？好的我看看。嗯……罗德岛注意事项、均衡饮食宣传片、消防教育片……这都是些什么啊！,"Монтаж видео — мой коронный навык. Ты хочешь снять промо Родоса, Доктор? Есть план? Давай посмотрю. Хм... «Правила поведения на Родосе», «Ролик о сбалансированном питании», «Учебное видео по пожарной безопасности»... Что это вообще такое?!"
+char_328_cammou_CN_008,Talk after Trust Increase 2,"I have a bad feeling; there must be a terrifying Feline lurking nearby. Doctor, stay alert! They'll catch you off-guard, leap out from some shadowy corners, and smack you to the ground with a single swipe. Eh? It won't happen?",直觉告诉我，有一只可怕的菲林就在附近，博士，你可要当心了。他们总会趁你分心的瞬间从黑暗的角落里跳出来，然后一爪子把你摁在地上。欸？不会？,"Интуиция подсказывает: где-то рядом ужасный Фелин. Доктор, берегись! Они всегда ждут момента, когда ты отвлёкся, выпрыгивают из тёмного угла и прижимают тебя к полу одной лапой. А? Не правда?"
+char_328_cammou_CN_009,Talk after Trust Increase 3,"Living together with everyone and discovering new things to film—all the good things in life are compounding! Figuring all that out led me to become an operator, so now I can share my happiness with you.",和大家一起生活所获得的快乐和拍下新东西的快乐是能相加的！就是因为发现了这一点，我才决定来当干员的，这样，我的快乐，就可以分享给你了呀。,"Радость от жизни со всеми и радость от съёмки нового складываются! Как я это поняла, то и решила стать оперативником — чтобы делиться своей радостью с тобой."
+char_328_cammou_CN_010,Idle,"Let me sneak a quick pic. Yeah, just one shot.",悄悄拍张照好了，嗯，就拍一张。,"Сниму-ка я украдкой кадр. Да, всего один."
+char_328_cammou_CN_011,Onboard,"'Sup everyone, welcome to the Click Channel! Eh? No filming in the Doctor's office? Fine, I guess…",大家好，这里是卡达的频道！唉？不能在博士房间拍素材？好吧……,"Привет всем, это канал Клик! А? Нельзя снимать в комнате Доктора? Ну ладно..."
+char_328_cammou_CN_012,Watching Battle Record,Let me do the filming next time.,下次我来拍吧。,В следующий раз я буду снимать.
+char_328_cammou_CN_013,Promotion 1,"A promotion? Awesome! Doctor, bring it in, let's get a commemorative photo!",晋升了？好耶！我们来合个影纪念一下吧博士！,"Повышение? Ура! Давай сделаем памятное фото, Доктор!"
+char_328_cammou_CN_014,Promotion 2,"Re…lax… Doctor. This happens every time I get excited, but it's nothing to worry about.",放轻松，博士，我一兴奋就会这样，没什么好害怕的。,"Не напрягайся, Доктор. Я всегда такая, когда волнуюсь. Нечего бояться."
+char_328_cammou_CN_017,Added to Squad,"'Sup, everyone!",大家好呀。,Привет всем!
+char_328_cammou_CN_018,Appointed as Squad Leader,Leave it to me!,包在我身上。,Положись на меня!
+char_328_cammou_CN_019,Depart,"Doctor, don't forget to take everything you need.",博士，可别落下什么哦。,"Доктор, ничего не забудь, ладно?"
+char_328_cammou_CN_020,Begin Operation,Let's see what interesting footage I'll get this time.,看看这次能拍到些什么有趣的东西。,"Посмотрим, что интересного я сегодня сниму."
+char_328_cammou_CN_021,Selecting Operator 1,Over here!,在呢。,Здесь!
+char_328_cammou_CN_022,Selecting Operator 2,Tell me what to do.,听你的。,Как скажешь.
+char_328_cammou_CN_023,Deployment 1,"Fly, my drone!",无人机升空。,Дрон в воздух!
+char_328_cammou_CN_024,Deployment 2,Let's get to work!,开工。,Начали!
+char_328_cammou_CN_025,In Battle 1,Fire!,发射！,Запуск!
+char_328_cammou_CN_026,In Battle 2,Move aside!,大家让一下！,Все в сторону!
+char_328_cammou_CN_027,In Battle 3,I see you!,我看到你们了。,Я вас вижу!
+char_328_cammou_CN_028,In Battle 4,"Hey, smile for the camera!",来，看镜头！,"Ну, улыбнитесь в камеру!"
+char_328_cammou_CN_029,4-star Result,I just got a killer clip! Make sure you come by and check it out after you get back to the landship.,刚刚那个片段简直酷毙了，一会回本舰记得来我这儿看啊。,"Тот кадр просто огонь! Как вернёмся на корабль, обязательно заходи ко мне смотреть."
+char_328_cammou_CN_030,3-star Result,This is awesome! It's basically a ready–made battle record.,太精彩了，简直就是现成的作战记录。,Так классно! Прямо готовый боевой отчёт.
+char_328_cammou_CN_031,Sub 3-star Result,I was so caught up in filming that somebody slipped by me.,刚刚拍照的时候太兴奋，有人溜走了。,"Я так увлеклась съёмкой, что кто-то улизнул."
+char_328_cammou_CN_032,Operation Failure,My lens is shattered…,镜头碎了……,Объектив разбился...
+char_328_cammou_CN_033,Assigned to Facility,Time to open my stream studio!,我的视频小窝要开张啦。,Моя видео-студия открывается!
+char_328_cammou_CN_034,Tap,Wah!,哎呀！,Ой!
+char_328_cammou_CN_036,Trust Tap,"Hey Doctor, I got something cool to show you!",来博士，给你看个好东西。,"Иди сюда, Доктор, покажу кое-что классное."
+char_328_cammou_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_328_cammou_CN_038,New Year's blessing,"Oh! I just got a new idea. Hold on, where's my camera? And anywhere I can set up a tripod? Alright. Doctor, help me test this out. When the fireworks go off, just look out the window. I'll take a picture of your eyes—",哦！我突然想到一个新点子，等下等下，摄像机在哪，这里有没有个地方可以布置三脚架？博士，帮我试验一下，待会儿放烟花的时候你看向窗外，我拍一下你的眼睛——,"О! Только что придумала новую идею. Погоди, где камера? Есть тут место поставить штатив? Доктор, помоги проверить: когда запустят фейерверки, ты посмотришь в окно, а я сниму твои глаза..."
+char_328_cammou_CN_042,Greeting,Hiii—,嗨~,Приве-е-ет~
+char_328_cammou_CN_043,Birthday,"Doctor, have you heard of fancams? It's when you mix a whole bunch of clips together. I sometimes catch you commanding when I'm filming battle records. Ta-dah! <i>Doctor's Command Scene High-Energy Beat Fancam in Ultra HD</i>! It's your birthday present!",博士，你听说过“混剪”吗？就是将各种场景镜头混合剪辑在一起，我拍战场记录时有时候会拍到你指挥时的样子，《超清博士指挥现场高燃踩点混剪》，噔噔！生日礼物！,"Доктор, слышал про «фанкам»? Это когда склеивают разные кадры. Когда я снимаю боевые отчёты, иногда получается и твой момент командования. «Суперчёткий фанкам Доктора: командный пункт, драйв в такт»! Та-да! Подарок на день рождения!"
+char_328_cammou_CN_044,Anniversary Celebration,"Doctor! I came to Rhodes Island just to earn some travel money, but there's no way I would ever leave a company that repairs my drones for free! Even with such big Felines running around, I'm not gonna— Ahhhhh! Is that… Blaze?!",博士！虽然来罗德岛最初的原因只是想赚点路费，但是维修无人机不需要花钱的公司我真的一辈子都不会离开了！哪怕是这里有这么大的菲林，我也不会害——啊啊啊那位是煌吗？！,"Доктор! Я пришла на Родос просто заработать на дорогу, но компания, которая чинит мои дроны бесплатно, — я из неё ни за что не уйду! Даже если тут водятся такие огромные Фелины, я не... А-а-а-а, это что, Блейз?!"

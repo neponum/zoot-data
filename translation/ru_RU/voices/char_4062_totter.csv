@@ -1,39 +1,39 @@
-id,title,original,translation
-char_4062_totter_CN_001,Appointed as Assistant,"You keep the place so messy but find what you need anyway? *sigh* Well, that's also a talent, I guess.",
-char_4062_totter_CN_002,Talk 1,"Doctor, am I able to file for exemption from paperwork? I have a bad case of farsightedness. It's a lot of strain to read, and fatigue strikes easily.",
-char_4062_totter_CN_003,Talk 2,"I'm a repressed sort, not talkative. If you're not entertained, you can head out for now. No, I don't mean to drive you off, I just...",
-char_4062_totter_CN_004,Talk 3,"I don't need to be issued a scope. In my crossbow's killing range, my naked eye sees clearly enough.",
-char_4062_totter_CN_005,Talk after Promotion 1,"My bolt points are a custom make. They pierce armor and cause massive blood loss in a short time. They're based on what Sargon hunters specially use to hunt big beasts, then I made modifications after coming to Victoria. Now they fly lighter, and kill harder.",
-char_4062_totter_CN_006,Talk after Promotion 2,"The merc business is tough, absolutely. Sometimes I'd be in the snow and an entire day would pass on my watch, and my feet would be frostbitten by the end. I appreciate your look of concern, but it was fine. Even lucky. My left foot hurt less when it was frozen.",
-char_4062_totter_CN_007,Talk after Trust Increase 1,"Why I like snow, you wonder? Let me think... Does never seeing it in Sargon count? Heh, it's not really that deep. People always have their inexplicable fancies.",
-char_4062_totter_CN_008,Talk after Trust Increase 2,"...If it's alright for me to ask, could you read the poem in this book to me, Doctor? I borrowed it from Istina. She says it's a fine poem, about winter in Deity Grypherburg.",
-char_4062_totter_CN_009,Talk after Trust Increase 3,"Do you know what's most precious? Someone to peacefully watch the snow with. Maybe I've met one at some point before, but who knows? Once the snow descends, it covers all traces of anything, including the fading footprints.",
-char_4062_totter_CN_010,Idle,How about a mug of hot water? You seem a little pale.,
-char_4062_totter_CN_011,Onboard,"Hello, Doctor, I'm Totter. Long-range sniping's my specialty. You can leave any task to me as long as it's a workday.",
-char_4062_totter_CN_012,Watching Battle Record,"Hold on, Doctor, it's too close. Let me put on my glasses and try again.",
-char_4062_totter_CN_013,Promotion 1,"If you're pleased with my work, then I couldn't ask for more.",
-char_4062_totter_CN_014,Promotion 2,"Thank you, Doctor, but your appreciation actually leaves me at a loss. Err. If I'm being honest, I don't have big dreams for my work.",
-char_4062_totter_CN_017,Added to Squad,"Orders ASAP, please.",
-char_4062_totter_CN_018,Appointed as Squad Leader,"Everyone, please coordinate. Thanks in advance.",
-char_4062_totter_CN_019,Depart,Let's move. Time waits for nobody.,
-char_4062_totter_CN_020,Begin Operation,"They're fast on the move, but I can still read their tracks.",
-char_4062_totter_CN_021,Selecting Operator 1,Foggy today. Bad luck.,
-char_4062_totter_CN_022,Selecting Operator 2,Great luck. Got a tail wind today.,
-char_4062_totter_CN_023,Deployment 1,I see clouds rising. Probable hostiles in the snow.,
-char_4062_totter_CN_024,Deployment 2,I see fowl taking off. Probable ambush in the grass.,
-char_4062_totter_CN_025,In Battle 1,Come out. Stop hiding!,
-char_4062_totter_CN_026,In Battle 2,I see you.,
-char_4062_totter_CN_027,In Battle 3,Stop moving.,
-char_4062_totter_CN_028,In Battle 4,It won't be any use.,
-char_4062_totter_CN_029,4-star Result,The best kills are one-shot. Less pain for them.,
-char_4062_totter_CN_030,3-star Result,"Target down. Mission clear, no setbacks.",
-char_4062_totter_CN_031,Sub 3-star Result,"*Tut*, not my best shot.",
-char_4062_totter_CN_032,Operation Failure,"Sorry, Doctor, target's out of range. I can't hit them.",
-char_4062_totter_CN_033,Assigned to Facility,Nice. Luxurious compared to my safehouse.,
-char_4062_totter_CN_034,Tap,Speak. I'm all ears.,
-char_4062_totter_CN_036,Trust Tap,"Doctor, is that you? You're blurry, but you've got distinct footsteps. I can tell them apart.",
-char_4062_totter_CN_037,Title,Arknights.,
-char_4062_totter_CN_038,New Year's blessing,"I saw all the snow outside when I came today. One vast blanket over the deck, it's beautiful. You should go take a look. Oh, right, Happy New Year.",
-char_4062_totter_CN_042,Greeting,Hello.,
-char_4062_totter_CN_043,Birthday,"Happy birthday, Doctor. I picked this out for you from my own collection. I hope you like it... Okay, stop giving me that look. Is it so strange for someone who likes snow to collect snow globes as a hobby?",
-char_4062_totter_CN_044,Anniversary Celebration,"Nothing complicated went into me leaving home. I just wanted to live somewhere it snows in winter. How about you, Doctor? Have you gotten what you want, on the move all these years?",
+id,title,original,original_zh,translation
+char_4062_totter_CN_001,Appointed as Assistant,"You keep the place so messy but find what you need anyway? *sigh* Well, that's also a talent, I guess.",在这么乱的地方你居然还能找到东西，唉，也算是种本事了。,"Ты умудряешься что-то находить в таком беспорядке... Эх, тоже ведь талант."
+char_4062_totter_CN_002,Talk 1,"Doctor, am I able to file for exemption from paperwork? I have a bad case of farsightedness. It's a lot of strain to read, and fatigue strikes easily.",博士，我可以申请免去文书工作吗？我远视有些严重，看字很费劲，也很容易疲劳。,"Доктор, можно мне подать прошение об освобождении от бумажной работы? У меня довольно сильная дальнозоркость: читать тяжело, и глаза быстро устают."
+char_4062_totter_CN_003,Talk 2,"I'm a repressed sort, not talkative. If you're not entertained, you can head out for now. No, I don't mean to drive you off, I just...",我性格闷，不爱讲话，如果觉得无聊，你就先回去吧。不是，我没有赶你的意思，只是……,"Я человек замкнутый, неразговорчивый. Если скучно — можешь пока идти. Нет, я тебя не прогоняю, просто..."
+char_4062_totter_CN_004,Talk 3,"I don't need to be issued a scope. In my crossbow's killing range, my naked eye sees clearly enough.",不必再为我配备瞄准镜了。在弩箭的杀伤距离内，我肉眼就已经足够看清楚。,Больше не нужно выдавать мне прицел. В пределах смертельной дистанции арбалета мне и невооружённого глаза достаточно.
+char_4062_totter_CN_005,Talk after Promotion 1,"My bolt points are a custom make. They pierce armor and cause massive blood loss in a short time. They're based on what Sargon hunters specially use to hunt big beasts, then I made modifications after coming to Victoria. Now they fly lighter, and kill harder.",我的箭头是特制的，破甲的同时还能在短时间内让敌人大量失血，箭头原型是萨尔贡的猎人们专用来狩猎大型猛兽的，来到维多利亚后我进行了改造，更轻盈，杀伤力也更强。,"Мои стрелы сделаны на заказ: они пробивают броню и за короткое время вызывают сильное кровотечение. Прообразом послужили те, что саргонские охотники применяют против крупных зверей. Переехав в Викторию, я их переделал — стали легче и смертоноснее."
+char_4062_totter_CN_006,Talk after Promotion 2,"The merc business is tough, absolutely. Sometimes I'd be in the snow and an entire day would pass on my watch, and my feet would be frostbitten by the end. I appreciate your look of concern, but it was fine. Even lucky. My left foot hurt less when it was frozen.",佣兵这行当然辛苦，有时在雪地中一守就是一天，任务结束脚都冻麻了。你倒也不用露出这样的表情，还好，冻麻了左脚就没有那么痛了。,"Ремесло наёмника, конечно, тяжёлое. Бывало, просидишь в снегу целый день, а к концу задания ноги уже не чувствуешь. Не надо делать такое лицо — всё нормально. Даже хорошо: когда левая нога онемела, она меньше болит."
+char_4062_totter_CN_007,Talk after Trust Increase 1,"Why I like snow, you wonder? Let me think... Does never seeing it in Sargon count? Heh, it's not really that deep. People always have their inexplicable fancies.",你问我喜欢雪的原因？让我想想……以前在萨尔贡没见过算吗？呵，其实也不必深究，人总有些爱好会来得莫名其妙。,"Спросил, почему я люблю снег? Дай подумать... То, что в Саргоне я его никогда не видел, считается? Хе, впрочем, не стоит копать слишком глубоко. У людей всегда находятся пристрастия, которые возникли бог знает откуда."
+char_4062_totter_CN_008,Talk after Trust Increase 2,"...If it's alright for me to ask, could you read the poem in this book to me, Doctor? I borrowed it from Istina. She says it's a fine poem, about winter in Deity Grypherburg.",……有个不情之请，可以拜托博士你帮我念下这书上的诗吗？真理小姐借给我的，据说是首很美的诗，写的是圣骏堡的冬天。,"...Осмелюсь попросить: Доктор, не прочитаешь ли ты мне стихотворение из этой книги? Мне его одолжила госпожа Истина. Говорят, прекрасное стихотворение — о зиме в Санкт-Грифербурге."
+char_4062_totter_CN_009,Talk after Trust Increase 3,"Do you know what's most precious? Someone to peacefully watch the snow with. Maybe I've met one at some point before, but who knows? Once the snow descends, it covers all traces of anything, including the fading footprints.",你知道什么是最珍贵的吗？一个可以一起安静看雪的人。或许曾经我也遇到过吧，但是谁知道呢？大雪刮起来，所有踪迹都会被覆盖，包括远去的脚印。,"Знаешь, что самое драгоценное? Тот, с кем можно молча смотреть на снег. Может, такой у меня и был когда-то — кто знает? Поднимется метель, и все следы заметет, в том числе и уходящие."
+char_4062_totter_CN_010,Idle,How about a mug of hot water? You seem a little pale.,我倒杯热水给你？你看着脸色不太好。,Налить тебе горячей воды? Ты выглядишь бледным.
+char_4062_totter_CN_011,Onboard,"Hello, Doctor, I'm Totter. Long-range sniping's my specialty. You can leave any task to me as long as it's a workday.",博士你好，我是铅踝，擅长远距离狙击，工作日内若有大小任务都可以交付给我。,"Здравствуй, Доктор. Я — Тоттер, специалист по дальней снайперской стрельбе. В рабочие дни можно поручать мне любые задачи, большие и малые."
+char_4062_totter_CN_012,Watching Battle Record,"Hold on, Doctor, it's too close. Let me put on my glasses and try again.",稍等，博士，距离太近了，我戴个眼镜再看。,"Погоди, Доктор, слишком близко. Надену очки и посмотрю ещё раз."
+char_4062_totter_CN_013,Promotion 1,"If you're pleased with my work, then I couldn't ask for more.",你对我的工作成果感到满意，那是再好不过了。,Если ты доволен моей работой — лучше и желать нечего.
+char_4062_totter_CN_014,Promotion 2,"Thank you, Doctor, but your appreciation actually leaves me at a loss. Err. If I'm being honest, I don't have big dreams for my work.",谢谢你，博士，但你的赏识反而让我觉得不知所措。唉，实话说，工作上我不是个有大志向的人。,"Спасибо, Доктор, но твоё одобрение меня скорее смущает. Эх, если честно, я не из тех, кто строит большие планы в работе."
+char_4062_totter_CN_017,Added to Squad,"Orders ASAP, please.",请尽快下达指令。,Прошу отдать приказ как можно скорее.
+char_4062_totter_CN_018,Appointed as Squad Leader,"Everyone, please coordinate. Thanks in advance.",劳烦各位配合，辛苦了。,Прошу всех действовать слаженно. Спасибо.
+char_4062_totter_CN_019,Depart,Let's move. Time waits for nobody.,出发吧，时不待人。,В путь. Время не ждёт.
+char_4062_totter_CN_020,Begin Operation,"They're fast on the move, but I can still read their tracks.",虽然移动得很迅速，但我还是能捕捉踪迹。,"Они движутся быстро, но я всё равно читаю их следы."
+char_4062_totter_CN_021,Selecting Operator 1,Foggy today. Bad luck.,坏运气，今天有雾。,Не повезло — сегодня туман.
+char_4062_totter_CN_022,Selecting Operator 2,Great luck. Got a tail wind today.,顺风，今天运气很好。,Попутный ветер. Сегодня повезло.
+char_4062_totter_CN_023,Deployment 1,I see clouds rising. Probable hostiles in the snow.,有白汽冒出，雪地中可能有敌人。,Вижу белые клубы пара. В снегу могут быть противники.
+char_4062_totter_CN_024,Deployment 2,I see fowl taking off. Probable ambush in the grass.,有羽兽飞出，草丛中可能有埋伏。,Птица поднялась — в траве может быть засада.
+char_4062_totter_CN_025,In Battle 1,Come out. Stop hiding!,别躲了。,Не прячься. Выходи.
+char_4062_totter_CN_026,In Battle 2,I see you.,我都看到了。,Я всё вижу.
+char_4062_totter_CN_027,In Battle 3,Stop moving.,别动了。,Не двигайся.
+char_4062_totter_CN_028,In Battle 4,It won't be any use.,不会有用的。,Это не поможет.
+char_4062_totter_CN_029,4-star Result,The best kills are one-shot. Less pain for them.,一击毙命最好，对方不会很痛苦。,Лучше всего убить с первого выстрела — тогда противник не будет страдать.
+char_4062_totter_CN_030,3-star Result,"Target down. Mission clear, no setbacks.",目标已清除，任务顺利完成。,"Цель устранена. Задание выполнено, без осложнений."
+char_4062_totter_CN_031,Sub 3-star Result,"*Tut*, not my best shot.",啧，偏了点。,"Цк, чуть в сторону."
+char_4062_totter_CN_032,Operation Failure,"Sorry, Doctor, target's out of range. I can't hit them.",抱歉，博士，目标已在狙击范围之外，我无法击杀。,"Прости, Доктор, цель вне зоны поражения. Я не могу её взять."
+char_4062_totter_CN_033,Assigned to Facility,Nice. Luxurious compared to my safehouse.,挺好的，比起我的安全屋，这里称得上豪华。,Неплохо. По сравнению с моим убежищем здесь прямо роскошь.
+char_4062_totter_CN_034,Tap,Speak. I'm all ears.,你说，我在听。,Говори. Я слушаю.
+char_4062_totter_CN_036,Trust Tap,"Doctor, is that you? You're blurry, but you've got distinct footsteps. I can tell them apart.",博士，是你吗？虽然看不清，但你的脚步声很独特，我能识别。,"Доктор, это ты? Я тебя не различаю, но у тебя особая походка — я её узнаю."
+char_4062_totter_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_4062_totter_CN_038,New Year's blessing,"I saw all the snow outside when I came today. One vast blanket over the deck, it's beautiful. You should go take a look. Oh, right, Happy New Year.",今天来时发现外面下了很大的雪，甲板上白茫茫一片，很漂亮，你也可以去看看。哦，对了，新年快乐。,"Сегодня, когда я пришёл, шёл сильный снег — палуба вся белая, очень красиво. Можешь тоже посмотреть. Ах да, с Новым годом."
+char_4062_totter_CN_042,Greeting,Hello.,你好。,Здравствуй.
+char_4062_totter_CN_043,Birthday,"Happy birthday, Doctor. I picked this out for you from my own collection. I hope you like it... Okay, stop giving me that look. Is it so strange for someone who likes snow to collect snow globes as a hobby?",生日快乐，博士，我从自己的收藏中选了一样送给你，希望你能喜欢……好了，别这么看我，喜欢雪的人热爱收藏雪花球很奇怪吗？,"С днём рождения, Доктор. Я выбрал для тебя кое-что из своей коллекции — надеюсь, тебе понравится... Ладно, не смотри на меня так. Разве странно, что человек, любящий снег, коллекционирует снежные шары?"
+char_4062_totter_CN_044,Anniversary Celebration,"Nothing complicated went into me leaving home. I just wanted to live somewhere it snows in winter. How about you, Doctor? Have you gotten what you want, on the move all these years?",我离开家乡的原因没有那么复杂，当年只是想找一个冬天下雪的地方住下来而已。你呢，博士？奔波这些年，想要的得到了吗？,"Причина, по которой я ушёл из дома, была простой: я просто хотел поселиться там, где зимой идёт снег. А ты, Доктор? Столько лет в дороге — ты получил то, чего хотел?"

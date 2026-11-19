@@ -1,14 +1,14 @@
-id,title,original,translation
-char_509_acast_CN_017,Added to Squad,Handoff complete. Awaiting orders.,
-char_509_acast_CN_018,Appointed as Squad Leader,Attention casters: set comms to operation channel.,
-char_509_acast_CN_019,Depart,Move up and stay frosty.,
-char_509_acast_CN_020,Begin Operation,Operation is a go. Keep your support countersign in mind.,
-char_509_acast_CN_021,Selecting Operator 1,Awaiting coordinates.,
-char_509_acast_CN_022,Selecting Operator 2,Waiting for target mark.,
-char_509_acast_CN_023,Deployment 1,Initiating sweep.,
-char_509_acast_CN_024,Deployment 2,Ten-four.,
-char_509_acast_CN_025,In Battle 1,"Art's free, fire at well.",
-char_509_acast_CN_026,In Battle 2,It's over.,
-char_509_acast_CN_027,In Battle 3,Annihilating.,
-char_509_acast_CN_028,In Battle 4,I will decide your ending.,
-char_509_acast_CN_030,3-star Result,"Victory is yours, as always.",
+id,title,original,original_zh,translation
+char_509_acast_CN_017,Added to Squad,Handoff complete. Awaiting orders.,交接结束，随时响应号召。,"Смена завершена, готова по первому зову."
+char_509_acast_CN_018,Appointed as Squad Leader,Attention casters: set comms to operation channel.,术师干员集合，按照实战预演调整通讯频道。,"Чародеи, ко мне! Настройте каналы связи по боевой схеме."
+char_509_acast_CN_019,Depart,Move up and stay frosty.,注意前方，谨慎推进。,Внимание впереди — продвигайтесь осторожно.
+char_509_acast_CN_020,Begin Operation,Operation is a go. Keep your support countersign in mind.,牢记支援口令，行动开始。,Помните сигналы поддержки. Начинаем.
+char_509_acast_CN_021,Selecting Operator 1,Awaiting coordinates.,请指示攻击区域。,Укажите зону атаки.
+char_509_acast_CN_022,Selecting Operator 2,Waiting for target mark.,请简述攻击期望。,Кратко опишите задачу огня.
+char_509_acast_CN_023,Deployment 1,Initiating sweep.,开始净空。,Начинаю зачистку.
+char_509_acast_CN_024,Deployment 2,Ten-four.,执行。,Исполняю.
+char_509_acast_CN_025,In Battle 1,"Art's free, fire at well.",术师们，释放源石技艺。,"Чародеи, применяйте ориджиниум-искусство."
+char_509_acast_CN_026,In Battle 2,It's over.,结束了。,Конец.
+char_509_acast_CN_027,In Battle 3,Annihilating.,再无阻碍。,Препятствий больше нет.
+char_509_acast_CN_028,In Battle 4,I will decide your ending.,诸位的结局由我决定。,Ваш финал определю я.
+char_509_acast_CN_030,3-star Result,"Victory is yours, as always.",胜利属于您，一如既往。,"Победа принадлежит вам, как всегда."

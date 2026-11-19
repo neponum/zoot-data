@@ -1,39 +1,39 @@
-id,title,original,translation
-char_137_brownb_CN_001,Appointed as Assistant,"Boss, let's go grab a bite. On you this time. What? You bought last time? Doesn't sound right to me.",
-char_137_brownb_CN_002,Talk 1,"Use my head to win fights? Hmm… Hmm… Pummel them until I win, train harder if I lose. That's using your head!",
-char_137_brownb_CN_003,Talk 2,"Honey's sweet, but getting it hurts. I went for some the other day… They really give me a hard lesson.",
-char_137_brownb_CN_004,Talk 3,My knuckles? Haha~ They're my precious babies. Wouldn't have racked up all those wins without 'em!,
-char_137_brownb_CN_005,Talk after Promotion 1,There's more rules in the underground fight scene than you might think. Plenty of gopniks dove in before they had 'em figured out. They usually ended up dead.,
-char_137_brownb_CN_006,Talk after Promotion 2,"Oripathy? Who cares? Infected, Uninfected... They're all the same after I knock their lights out.",
-char_137_brownb_CN_007,Talk after Trust Increase 1,What? The fin in the kitchen? Hah! Right here in my belly now!,
-char_137_brownb_CN_008,Talk after Trust Increase 2,"My book of names here? Ah, looks like that big brain of yours doesn't know everything. Gotta meet people to fight people, right? I don't want to run out of enemies.",
-char_137_brownb_CN_009,Talk after Trust Increase 3,"The only reason I joined the underground fight is 'cause I didn't have two kopecks to rub together. But here on Rhodes Island I got that load off my mind. It's all thanks to you, Boss!",
-char_137_brownb_CN_010,Idle,Smells like grilled fish!,
-char_137_brownb_CN_011,Onboard,"Yo! Boss, you know a winner when you see her! Now, put your hands together for the strongest underground fighter out there. The one! The only! BEEEEEEEE-HUNTERRRRRR!",
-char_137_brownb_CN_012,Watching Battle Record,I really don't wanna study. Send me out to fight already!,
-char_137_brownb_CN_013,Promotion 1,Hah hah hah! Somebody likes me a lot!,
-char_137_brownb_CN_014,Promotion 2,"Hah! After this promotion, ain't no way I'm gonna let you down! Lemme show you what I can do in a fight, Boss!",
-char_137_brownb_CN_017,Added to Squad,Here I come!,
-char_137_brownb_CN_018,Appointed as Squad Leader,Chow's on me after we win this one!,
-char_137_brownb_CN_019,Depart,"Relax, Boss. Ain't nobody can go three rounds with me!",
-char_137_brownb_CN_020,Begin Operation,So you're the ones looking for a beatdown. You guys?,
-char_137_brownb_CN_021,Selecting Operator 1,What's up?,
-char_137_brownb_CN_022,Selecting Operator 2,Ready?,
-char_137_brownb_CN_023,Deployment 1,Gimme the bell!,
-char_137_brownb_CN_024,Deployment 2,Let's do this.,
-char_137_brownb_CN_025,In Battle 1,Eat this!,
-char_137_brownb_CN_026,In Battle 2,Get over here!,
-char_137_brownb_CN_027,In Battle 3,"One-two, one-two, one-two!",
-char_137_brownb_CN_028,In Battle 4,"C'mon, c'mon! Bring it on!",
-char_137_brownb_CN_029,4-star Result,"The stronger the matchup, the more pumped I get!",
-char_137_brownb_CN_030,3-star Result,"K.O.! Check it out, Boss. See 'em all piled up there?",
-char_137_brownb_CN_031,Sub 3-star Result,That's a wrap. Let's head back and chow down!,
-char_137_brownb_CN_032,Operation Failure,Ouch… Where's the Boss? Is the Boss okay?!,
-char_137_brownb_CN_033,Assigned to Facility,This room's a lot better than any I had before!,
-char_137_brownb_CN_034,Tap,Hm?,
-char_137_brownb_CN_036,Trust Tap,"You brought food? You're the best, Boss!",
-char_137_brownb_CN_037,Title,Arknights.,
-char_137_brownb_CN_038,New Year's blessing,"Hey, hey, hey! There you are, boss! I was just out having some honey with the others! Man, it's nice to have a stable income. Now I can buy as much honey as I want. Sure beats gathering it myself, with all the stinging... You're the best, boss!",
-char_137_brownb_CN_042,Greeting,"What's up, Boss.",
-char_137_brownb_CN_043,Birthday,"Honey-grilled fins! I just came up with the recipe a few days ago, and it's sure to be a blast! Same goes for fin jerky with honey. Why aren't I sharing any then? I couldn't hold myself back and ate it all last night.",
-char_137_brownb_CN_044,Anniversary Celebration,"The way Rhodes Island fights is different from what I'm used to, but that doesn't bother me one bit! And I only learned after coming here how many people look down on the Infected. But don't worry! Me and my fist will change their minds!",
+id,title,original,original_zh,translation
+char_137_brownb_CN_001,Appointed as Assistant,"Boss, let's go grab a bite. On you this time. What? You bought last time? Doesn't sound right to me.",老板，我们去吃饭吧，这回轮到老板请客！欸，上次也是？不记得不记得啦。,"Шеф, пойдём поедим — на этот раз угощает шеф! Эй, в прошлый раз тоже я? Не помню-не помню."
+char_137_brownb_CN_002,Talk 1,"Use my head to win fights? Hmm… Hmm… Pummel them until I win, train harder if I lose. That's using your head!",以理服人？打不过的话就锻炼到打得过为止，是这个道理，我懂！,"Убеждать доводами? Если не можешь победить — тренируйся, пока не сможешь. Вот это я понимаю!"
+char_137_brownb_CN_003,Talk 2,"Honey's sweet, but getting it hurts. I went for some the other day… They really give me a hard lesson.",蜂蜜真好喝，但收集起来真是麻烦。前几天去采蜜的时候啊……我被蛰得不轻啊。,"Мёд такой вкусный, а добывать его — морока. Я тут на днях ходила за мёдом... и меня изрядно пожалили."
+char_137_brownb_CN_004,Talk 3,My knuckles? Haha~ They're my precious babies. Wouldn't have racked up all those wins without 'em!,这对指虎？这可是我的宝贝。我的全胜战绩，可全是靠它打出来的！,Эти кастеты? Это моё сокровище. Вся моя беспроигрышная серия — их заслуга!
+char_137_brownb_CN_005,Talk after Promotion 1,There's more rules in the underground fight scene than you might think. Plenty of gopniks dove in before they had 'em figured out. They usually ended up dead.,地下格斗的规则，可比你知道的复杂多了。好多搞不清楚规则就参赛的人，都把命给丢了哦。,"Правила подпольных боёв куда сложнее, чем ты думаешь. Многие, кто лез в ринг, не разобравшись, оставляли там жизнь."
+char_137_brownb_CN_006,Talk after Promotion 2,"Oripathy? Who cares? Infected, Uninfected... They're all the same after I knock their lights out.",矿石病？那个怎么样都无所谓啦。管他是感染者还是别的什么人，只要一拳打昏，谁来还不都是一样嘛~,"Орипатия? Да мне всё равно. Инфицированный он или кто ещё — стоит его уложить одним ударом, и все одинаковые~"
+char_137_brownb_CN_007,Talk after Trust Increase 1,What? The fin in the kitchen? Hah! Right here in my belly now!,啊？厨房里那条鱼？哈，这会儿已经在我的胃里了！,"Ах? Рыба на кухне? Ха, сейчас она уже у меня в желудке!"
+char_137_brownb_CN_008,Talk after Trust Increase 2,"My book of names here? Ah, looks like that big brain of yours doesn't know everything. Gotta meet people to fight people, right? I don't want to run out of enemies.",欸？为什么要翻这份名册？哼哼，老板这就不懂了吧，不给自己增加点熟人，回头不就没有打架的对手了吗？,"Эй? Зачем ты заглянул в этот список? Хм-хм, шеф не понимает: не заведёшь новых знакомых — потом не с кем будет драться, да?"
+char_137_brownb_CN_009,Talk after Trust Increase 3,"The only reason I joined the underground fight is 'cause I didn't have two kopecks to rub together. But here on Rhodes Island I got that load off my mind. It's all thanks to you, Boss!",以前，我其实就是为了吃上饭才去打比赛的。但现在，在我来到罗德岛之后，这种烦恼就再也没有过了。真的很感谢你，老板！,"Раньше я дралась на ринге просто ради куска хлеба. А сейчас, когда я на Родосе, таких забот больше нет. Спасибо тебе, шеф!"
+char_137_brownb_CN_010,Idle,Smells like grilled fish!,有烤鱼的味道！,Пахнет жареной рыбой!
+char_137_brownb_CN_011,Onboard,"Yo! Boss, you know a winner when you see her! Now, put your hands together for the strongest underground fighter out there. The one! The only! BEEEEEEEE-HUNTERRRRRR!",哟！老板您眼光不错嘛！世上最强的地下拳手，就是我猎蜂！,"Йо! Шеф, вы разбираетесь в людях! Сильнейшая подпольная боксёрша в мире — это я, Бихантер!"
+char_137_brownb_CN_012,Watching Battle Record,I really don't wanna study. Send me out to fight already!,学习对我来说太难了，还是放我出去打一架吧~,Учёба мне не даётся — лучше отпустите меня подраться~
+char_137_brownb_CN_013,Promotion 1,Hah hah hah! Somebody likes me a lot!,哈哈，看来你还是蛮中意我的！,"Ха-ха, значит, я тебе всё-таки нравлюсь!"
+char_137_brownb_CN_014,Promotion 2,"Hah! After this promotion, ain't no way I'm gonna let you down! Lemme show you what I can do in a fight, Boss!",你这么提拔我，我又怎么能辜负你呢？就等我到了战场上再大显身手吧，老板！,"Ты меня так повысил — как я могу тебя подвести? Подожди, пока я покажу себя в бою, шеф!"
+char_137_brownb_CN_017,Added to Squad,Here I come!,我来了！,Я иду!
+char_137_brownb_CN_018,Appointed as Squad Leader,Chow's on me after we win this one!,好！打赢之后我请各位吃饭！,Отлично! После победы я угощаю всех!
+char_137_brownb_CN_019,Depart,"Relax, Boss. Ain't nobody can go three rounds with me!",没人能在我拳下挺过三回合！,Никто не выдержит трёх раундов с моими кулаками!
+char_137_brownb_CN_020,Begin Operation,So you're the ones looking for a beatdown. You guys?,想被我痛揍的，就是你们这帮家伙吗？,"Это вы тут хотели, чтобы я вас отдубасила?"
+char_137_brownb_CN_021,Selecting Operator 1,What's up?,咋了？,Чё?
+char_137_brownb_CN_022,Selecting Operator 2,Ready?,要上吗？,Начинаем?
+char_137_brownb_CN_023,Deployment 1,Gimme the bell!,好叻。,Есть.
+char_137_brownb_CN_024,Deployment 2,Let's do this.,好，就这么办。,"Ладно, так и сделаем."
+char_137_brownb_CN_025,In Battle 1,Eat this!,吃我一拳！,Лови кулак!
+char_137_brownb_CN_026,In Battle 2,Get over here!,别想跑！,Не убежишь!
+char_137_brownb_CN_027,In Battle 3,"One-two, one-two, one-two!",打打打打打！,Бей-бей-бей-бей!
+char_137_brownb_CN_028,In Battle 4,"C'mon, c'mon! Bring it on!",来啊来啊，还有谁！,"Ну же, ну же, кто ещё!"
+char_137_brownb_CN_029,4-star Result,"The stronger the matchup, the more pumped I get!",对手越强，我的斗志就越旺！,"Чем сильнее соперник, тем яростнее я дереюсь!"
+char_137_brownb_CN_030,3-star Result,"K.O.! Check it out, Boss. See 'em all piled up there?",全撂倒了，老板，来看看我这辉煌的战果吧！,"Всех положила, шеф — гляди на мои славные трофеи!"
+char_137_brownb_CN_031,Sub 3-star Result,That's a wrap. Let's head back and chow down!,收工啦，大家回去好好吃一顿！,"Дело сделано, все идут плотно поесть!"
+char_137_brownb_CN_032,Operation Failure,Ouch… Where's the Boss? Is the Boss okay?!,真疼……老板呢？没事吧？,Больно... а шеф где? Ты цел?
+char_137_brownb_CN_033,Assigned to Facility,This room's a lot better than any I had before!,这个房间比我以前住过的都要好！,"Эта комната лучше всех, где я раньше жила!"
+char_137_brownb_CN_034,Tap,Hm?,嗯嗯？,Ммм?
+char_137_brownb_CN_036,Trust Tap,"You brought food? You're the best, Boss!",有好吃的给我吗？太棒了，老板！,"Ты мне принёс вкусняшку? Здорово, шеф!"
+char_137_brownb_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_137_brownb_CN_038,New Year's blessing,"Hey, hey, hey! There you are, boss! I was just out having some honey with the others! Man, it's nice to have a stable income. Now I can buy as much honey as I want. Sure beats gathering it myself, with all the stinging... You're the best, boss!",嘿嘿嘿嘿……老板！老板你在这啊，我刚和他们喝了蜂蜜！有稳定工资就是好，我都能自己买这么多蜜了，要是之前，我还要自己去采，被蜇可疼了……老板万岁！,"Хи-хи-хи... Шеф! Шеф, вот вы где! Я только что пила мёд с ребятами! Стабильная зарплата — это хорошо: теперь я сама покупаю столько мёда, а раньше приходилось лазить за ним, и пчёлы больно жалили... Да здравствует шеф!"
+char_137_brownb_CN_042,Greeting,"What's up, Boss.",早啊老板。,"Утро, шеф."
+char_137_brownb_CN_043,Birthday,"Honey-grilled fins! I just came up with the recipe a few days ago, and it's sure to be a blast! Same goes for fin jerky with honey. Why aren't I sharing any then? I couldn't hold myself back and ate it all last night.",蜜汁烤鳞！老板，这个可是我自己前几天灵光一现研究出来的，绝对好吃！而且用蜜做的鳞干也是美味到离谱，那为什么不送给你一点？昨天晚上没忍住都吃完了嘛！,"Чешуя в медовом соусе! Шеф, я придумала это пару дней назад — объеденье! И вяленая чешуя с мёдом просто невероятно вкусная. Почему тебе не дала? Да я вчера вечером не удержалась и всё съела!"
+char_137_brownb_CN_044,Anniversary Celebration,"The way Rhodes Island fights is different from what I'm used to, but that doesn't bother me one bit! And I only learned after coming here how many people look down on the Infected. But don't worry! Me and my fist will change their minds!",罗德岛的战斗方式虽然和我之前的不同，但这怎么可能难得倒我呢！而且来这里之后，我才发现原来有这么多人看不起感染者，别担心！老板，有我和我的拳头在，这群人迟早会改变他们的想法！,"На Родосе сражаются не так, как я привыкла, но меня этим не запугать! А ещё здесь я узнала, сколько людей презирают инфицированных. Не волнуйся, шеф — пока есть я и мои кулаки, эти люди рано или поздно изменят своё мнение!"

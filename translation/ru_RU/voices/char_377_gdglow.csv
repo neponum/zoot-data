@@ -1,39 +1,39 @@
-id,title,original,translation
-char_377_gdglow_CN_001,Appointed as Assistant,"Am I really going to be helpful? Um... alright, if you say so...",
-char_377_gdglow_CN_002,Talk 1,"Hmm... your hair is close to coming out of your hood. If you've got the time, remember to give it a trim.",
-char_377_gdglow_CN_003,Talk 2,"I can't use anything like a compass. No matter what I do, they all end up pointing at me. *Sigh*... I had no clue as a child, so I tried to use them to find my way home... Now that I think about it, I'm lucky I have a sense of direction.",
-char_377_gdglow_CN_004,Talk 3,"You wanna touch my ears? Of course, touch them however you want... but people usually only do it a tiny bit. Why? Heheh, you'll find out if you try, won't you?",
-char_377_gdglow_CN_005,Talk after Promotion 1,"My Arts are... how do I put it? They affect a lot of things, but because they don't have a form, it's hard to grasp them properly... if I can get a handle on their nature some day, I might be able to live a normal life.",
-char_377_gdglow_CN_006,Talk after Promotion 2,"Static electric pulse theory says... okay, okay, I see. I just need to apply my Arts Unit, and start the antistatic equipment up, and that should... Yagh! That's not working at all. Where did I mess it up...? Here? Alright, once more.",
-char_377_gdglow_CN_007,Talk after Trust Increase 1,"Welcome~! Oh, Doctor! You finally decided to get your hair sorted, then? Good, sit down. Today, I'll be your... That's right, it's a salon in here, you're not imagining things. Um, don't go! This is my speciality, trust me, please! You won't regret this, I guarantee!",
-char_377_gdglow_CN_008,Talk after Trust Increase 2,"My dad told me I should pick up another craft in addition to Originium Arts, so this is what I went with. It turns out the only hair I can't fix is my own... Okay! How's that? Are there any bits you want fixed? None? Heheh, I thought as much. Alright, I'm finished for the day, then.",
-char_377_gdglow_CN_009,Talk after Trust Increase 3,"Before I got Infected, I was actually in really good shape. I got second place in a cross-country race! Once my Oripathy's a bit better, I want to start training again, and carry the gold medal back. Can I ask you to present it to me, Doctor? Heheh, then it's a promise.",
-char_377_gdglow_CN_010,Idle,"The circuit's grounded... okay, now my hair shouldn't poof out. I'll have a break while the Doctor's asleep.",
-char_377_gdglow_CN_011,Onboard,"Finally made it here... nice to meet you, Doctor. I'm a new Operator onboard, Goldenglow. I look forward to working under you.",
-char_377_gdglow_CN_012,Watching Battle Record,Mmgh... it still doesn't really make sense. Maybe I should visit my Instructor and see if she can help.,
-char_377_gdglow_CN_013,Promotion 1,"There's no tingling feeling, is there? If not, we should be fine. Okay! I'll accept this medal from you graciously, Doctor. Thank you!",
-char_377_gdglow_CN_014,Promotion 2,"Doctor! Stay away from here! I just need a—a-are you alright?! Are you hurt anywhere? I took all the protective measures, didn't I? Why...",
-char_377_gdglow_CN_017,Added to Squad,Is there really a use for me on the front?,
-char_377_gdglow_CN_018,Appointed as Squad Leader,"Doctor, are you sure I should be the captain?",
-char_377_gdglow_CN_019,Depart,"I've got this, I've got this. I can do this!",
-char_377_gdglow_CN_020,Begin Operation,There's enemies?!,
-char_377_gdglow_CN_021,Selecting Operator 1,I'm so tense...,
-char_377_gdglow_CN_022,Selecting Operator 2,Can I really do it?,
-char_377_gdglow_CN_023,Deployment 1,Now's the time to help everyone out.,
-char_377_gdglow_CN_024,Deployment 2,I'll do my best!,
-char_377_gdglow_CN_025,In Battle 1,"Get away from me, please!",
-char_377_gdglow_CN_026,In Battle 2,Stay back!,
-char_377_gdglow_CN_027,In Battle 3,Yaah!,
-char_377_gdglow_CN_028,In Battle 4,Keep a good distance—there!,
-char_377_gdglow_CN_029,4-star Result,"Huh? Oh—no, it's nothing! Let's get going!",
-char_377_gdglow_CN_030,3-star Result,"I managed to help a little, didn't I? Heheh.",
-char_377_gdglow_CN_031,Sub 3-star Result,"Phew, we're finally saved. Are you hurt?",
-char_377_gdglow_CN_032,Operation Failure,"We were so, so close...",
-char_377_gdglow_CN_033,Assigned to Facility,I need to keep away from the electronics...,
-char_377_gdglow_CN_034,Tap,Hwah!,
-char_377_gdglow_CN_036,Trust Tap,"Could you help me comb my hair down? Thank you so much, Doctor.",
-char_377_gdglow_CN_037,Title,Arknights.,
-char_377_gdglow_CN_038,New Year's blessing,"Happy New Year, Doctor! My family sent me all of this stuff. This is bread my mum baked, these biscuits are from my oldest brother, and my sister cured this meat—she's eighth-oldest. I think that's mostly it. Don't be shy, let's tuck in together! ...Eep! Did I accidentally shock you again, Doctor?",
-char_377_gdglow_CN_042,Greeting,Hope you have another good day today.,
-char_377_gdglow_CN_043,Birthday,"If today was my birthday, I'd be on a sofa at home with my brothers and sisters. We'd be eating and drinking and playing until all end up falling asleep and waking up the next day. But never mind that, you're the star for today, Doctor. Do you want a new look? Well, how about I trim a new hairstyle for you? Mm-hm! Great, let's do it!",
-char_377_gdglow_CN_044,Anniversary Celebration,"Doctor, look, I can control my static away from my staff now! Maybe with a bit more time, I'll be able to master my Arts. Then I can hug my mum all I want, without having to worry about shocking her! Mm-hm, I need to keep at it!",
+id,title,original,original_zh,translation
+char_377_gdglow_CN_001,Appointed as Assistant,"Am I really going to be helpful? Um... alright, if you say so...",我真的不会帮倒忙吗？唔，好吧，既然你都这么说了……,"Правда я только испорчу всё?.. Мм, ладно, раз вы так говорите..."
+char_377_gdglow_CN_002,Talk 1,"Hmm... your hair is close to coming out of your hood. If you've got the time, remember to give it a trim.",嗯，博士你的发梢是不是都快要跳到兜帽外面来了？有时间的话，记得打理一下头发哦。,"Мм, Доктор, у вас кончики волос уже почти выпрыгивают из капюшона? Если будет время, причешитесь, ладно?"
+char_377_gdglow_CN_003,Talk 2,"I can't use anything like a compass. No matter what I do, they all end up pointing at me. *Sigh*... I had no clue as a child, so I tried to use them to find my way home... Now that I think about it, I'm lucky I have a sense of direction.",我是用不了指南针的啦，这种器具无论怎么拨弄，最后都只会以指向我收尾，唉……小时候不懂事，还试着用它们来找回家的路……现在想想，幸好我认路。,"Компас мне не поможет: сколько ни крути стрелкой, она всё равно укажет на меня... Эх, в детстве я ещё пыталась по ним дорогу домой находить... Сейчас думаю — хорошо, что я хоть умею ориентироваться."
+char_377_gdglow_CN_004,Talk 3,"You wanna touch my ears? Of course, touch them however you want... but people usually only do it a tiny bit. Why? Heheh, you'll find out if you try, won't you?",摸耳朵？可以哦，博士你想怎么摸都行，但是大家一般只会摸一下。为什么？嘻嘻，你摸摸看不就知道啦？,"Потрогать уши? Можно, Доктор, всё как хотите, только обычно все трогают один раз. Почему? Хи-хи, да вы сами попробуйте — сразу узнаете."
+char_377_gdglow_CN_005,Talk after Promotion 1,"My Arts are... how do I put it? They affect a lot of things, but because they don't have a form, it's hard to grasp them properly... if I can get a handle on their nature some day, I might be able to live a normal life.",我的源石技艺……怎么说呢，能影响很多东西，但是因为没有形态，性质总是不太好把握……如果有一天，我能掌握本质的话，大概，就能像普通人一样生活了吧。,"Моё искусство источника... как сказать — оно влияет на множество вещей, но формы у него нет, поэтому свойства уловить трудно... Если бы я однажды поняла его суть, наверное, я бы смогла жить как обычный человек."
+char_377_gdglow_CN_006,Talk after Promotion 2,"Static electric pulse theory says... okay, okay, I see. I just need to apply my Arts Unit, and start the antistatic equipment up, and that should... Yagh! That's not working at all. Where did I mess it up...? Here? Alright, once more.",静电脉冲的原理……唔唔，原来如此。只要这样运作法杖，然后启动防静电保护装置，应该就能……呀！还是不行吗，到底哪里出错了……是这里？好，再试一次。,"Принцип статического импульса... Мм-м, понятно. Если так вести посох и включить защиту от статики, должно получиться... Ай! Опять нет, где же ошибка... Здесь? Давайте ещё раз."
+char_377_gdglow_CN_007,Talk after Trust Increase 1,"Welcome~! Oh, Doctor! You finally decided to get your hair sorted, then? Good, sit down. Today, I'll be your... That's right, it's a salon in here, you're not imagining things. Um, don't go! This is my speciality, trust me, please! You won't regret this, I guarantee!",欢迎~啊，博士~终于想好要来理发啦？请坐吧，今天就由我……这里是理发室，你没走错。呃，别走嘛，我真的很擅长做这个的，相信我吧，博士你绝对不会后悔的啦！,"Добро пожаловать~ Ах, Доктор, вы наконец решились подстричься? Садитесь, сегодня я вас... Это парикмахерская, вы не ошиблись дверью. Э-э, не уходите же, я правда хорошо это умею, поверьте — вы не пожалеете!"
+char_377_gdglow_CN_008,Talk after Trust Increase 2,"My dad told me I should pick up another craft in addition to Originium Arts, so this is what I went with. It turns out the only hair I can't fix is my own... Okay! How's that? Are there any bits you want fixed? None? Heheh, I thought as much. Alright, I'm finished for the day, then.",老爹说除了源石技艺外要再学一门手艺，我就学了这个，结果，唯一打理不好的反而是自己的头发……好了，你觉得怎么样，有什么地方要再修一下吗？没有？呼呼，我想也是。那我收工啦。,"Папа велел, кроме искусства источника, выучить ещё какое-нибудь ремесло — я и выбрала это, а хуже всего у меня получается как раз ухаживать за своими волосами... Ладно, как вам нравится? Есть что подправить? Нет? Хи-хи, я так и думала. Тогда я закончила."
+char_377_gdglow_CN_009,Talk after Trust Increase 3,"Before I got Infected, I was actually in really good shape. I got second place in a cross-country race! Once my Oripathy's a bit better, I want to start training again, and carry the gold medal back. Can I ask you to present it to me, Doctor? Heheh, then it's a promise.",其实我在感染之前身体很好的，还拿过越野跑的亚军哦。等矿石病缓和一点了，我想重新锻炼一下，争取捧个金灿灿的奖杯回来，到时候，能请你帮我颁奖吗？嘿嘿，那就这样说定了哦。,"До заражения я была совсем здорова, даже в кроссовом беге второе место брала! Как скажется полегчает — возобновлю тренировки и постараюсь принести домой золотой кубок. Тогда вы наградите меня, ладно? Хи-хи, договорились."
+char_377_gdglow_CN_010,Idle,"The circuit's grounded... okay, now my hair shouldn't poof out. I'll have a break while the Doctor's asleep.",接地……好，这下就不会炸毛了。趁博士睡着，我也偷个懒。,"Заземление... хорошо, теперь волосы не будут дыбом. Пока Доктор спит, и я немного похищу."
+char_377_gdglow_CN_011,Onboard,"Finally made it here... nice to meet you, Doctor. I'm a new Operator onboard, Goldenglow. I look forward to working under you.",终于到了……您好，博士，我是新就任的干员澄闪，以后就有劳您指导了。,"Наконец-то... Здравствуйте, Доктор, я новый оперативник Голденглоу. Прошу у вас руководства."
+char_377_gdglow_CN_012,Watching Battle Record,Mmgh... it still doesn't really make sense. Maybe I should visit my Instructor and see if she can help.,唔……还是看不懂。该去教官小姐那里补补课了。,Мм... всё равно не поняла. Надо поучиться у инструктора.
+char_377_gdglow_CN_013,Promotion 1,"There's no tingling feeling, is there? If not, we should be fine. Okay! I'll accept this medal from you graciously, Doctor. Thank you!",没有麻麻的感觉吗，那应该没问题了。好，我收到您颁发的奖章啦，谢谢。,"Щекотки не чувствуете? Значит, всё в порядке. Ладно, я получила вашу медаль, спасибо."
+char_377_gdglow_CN_014,Promotion 2,"Doctor! Stay away from here! I just need a—a-are you alright?! Are you hurt anywhere? I took all the protective measures, didn't I? Why...",博士你别过来！马上就要——没，没事吧！有没有受伤？明明有做好防护措施的，为什么……,"Доктор, не подходите! Сейчас — ... Ох, всё нормально?! Вы не пострадали? Ведь я же приняла меры предосторожности, почему..."
+char_377_gdglow_CN_017,Added to Squad,Is there really a use for me on the front?,真的需要我上前线吗？,"Правда вам нужно, чтобы я шла на передовую?"
+char_377_gdglow_CN_018,Appointed as Squad Leader,"Doctor, are you sure I should be the captain?",博士你确定让我做队长？,"Доктор, вы точно хотите, чтобы я была командиром?"
+char_377_gdglow_CN_019,Depart,"I've got this, I've got this. I can do this!",加油，加油，我能行的！,"Давай, давай, я смогу!"
+char_377_gdglow_CN_020,Begin Operation,There's enemies?!,有敌人吗？！,Есть враги?!
+char_377_gdglow_CN_021,Selecting Operator 1,I'm so tense...,好紧张……,Так волнуюсь...
+char_377_gdglow_CN_022,Selecting Operator 2,Can I really do it?,我真的可以吗？,Я правда справлюсь?
+char_377_gdglow_CN_023,Deployment 1,Now's the time to help everyone out.,是帮助大家的时候了。,Пришло время помочь всем.
+char_377_gdglow_CN_024,Deployment 2,I'll do my best!,我会加油的！,Я постараюсь!
+char_377_gdglow_CN_025,In Battle 1,"Get away from me, please!",请快离开，拜托了！,"Уходите скорее, прошу!"
+char_377_gdglow_CN_026,In Battle 2,Stay back!,别过来！,Не подходите!
+char_377_gdglow_CN_027,In Battle 3,Yaah!,呀！,Ай!
+char_377_gdglow_CN_028,In Battle 4,Keep a good distance—there!,控制好距离——嘿！,Держу дистанцию — эй!
+char_377_gdglow_CN_029,4-star Result,"Huh? Oh—no, it's nothing! Let's get going!",哎？啊——没什么，我们走吧。,"Эй? А, ничего, пойдём."
+char_377_gdglow_CN_030,3-star Result,"I managed to help a little, didn't I? Heheh.",我还是，能帮上一点忙的吧，嘿嘿。,"Я всё-таки хоть немного помогла, да? Хи-хи."
+char_377_gdglow_CN_031,Sub 3-star Result,"Phew, we're finally saved. Are you hurt?",太好了，终于得救了，有没有受伤？,"Отлично, наконец-то спасена! Вы не ранены?"
+char_377_gdglow_CN_032,Operation Failure,"We were so, so close...",就差一点点……,Ещё чуть-чуть не получилось...
+char_377_gdglow_CN_033,Assigned to Facility,I need to keep away from the electronics...,得离电器远一点……,Надо держаться подальше от техники...
+char_377_gdglow_CN_034,Tap,Hwah!,呀！,Ай!
+char_377_gdglow_CN_036,Trust Tap,"Could you help me comb my hair down? Thank you so much, Doctor.",能帮我梳下头发吗，拜托你啦，博士。,"Расчёшите мне волосы, пожалуйста, Доктор."
+char_377_gdglow_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_377_gdglow_CN_038,New Year's blessing,"Happy New Year, Doctor! My family sent me all of this stuff. This is bread my mum baked, these biscuits are from my oldest brother, and my sister cured this meat—she's eighth-oldest. I think that's mostly it. Don't be shy, let's tuck in together! ...Eep! Did I accidentally shock you again, Doctor?",博士新年快乐！家里人给我寄了些东西过来，这是妈妈烤的面包，这是大哥做的饼干，这是八妹腌的肉。大概就是这些，不用客气，一起吃吧！……呀！是不是又不小心电到博士了？,"Доктор, с новым годом! Домашние прислали мне вещей: это хлеб, который испекла мама, это печенье от старшего брата, а это мясо, которое замариновала восьмая сестра. Вроде всё, не стесняйтесь, едите все вместе!.. Ай! Я опять случайно ударила Доктора током?"
+char_377_gdglow_CN_042,Greeting,Hope you have another good day today.,今天也要开开心心的哦。,"Сегодня тоже будьте весёлыми, ладно?"
+char_377_gdglow_CN_043,Birthday,"If today was my birthday, I'd be on a sofa at home with my brothers and sisters. We'd be eating and drinking and playing until all end up falling asleep and waking up the next day. But never mind that, you're the star for today, Doctor. Do you want a new look? Well, how about I trim a new hairstyle for you? Mm-hm! Great, let's do it!",如果今天是我的生日，我一定会窝在大沙发上，和兄弟姐妹吃喝玩乐一番然后躺下睡到明天。不过，博士才是今天的主人公。想要有个新面貌？那，我来为博士剪一个新发型怎么样？嗯，好，走吧！,"Если бы сегодня был мой день рождения, я бы залеглась на большой диван, ела, пила, веселилась с братьями и сёстрами, а потом спала бы до утра. Но сегодня именинник — Доктор. Хотите новый образ? Тогда я подстригу вас, ладно? Мм, хорошо, идём!"
+char_377_gdglow_CN_044,Anniversary Celebration,"Doctor, look, I can control my static away from my staff now! Maybe with a bit more time, I'll be able to master my Arts. Then I can hug my mum all I want, without having to worry about shocking her! Mm-hm, I need to keep at it!",博士快看，我现在可以脱离法杖控制住电荷了！说不定再过一段时间，我就能更好地掌握自己的源石技艺，那时我就可以放心地抱住妈妈，不用再担心自己会电到她啦！嗯，我会继续努力的！,"Доктор, смотрите — я уже могу удерживать заряд без посоха! Может, через некоторое время я настолько освою своё искусство, что смогу спокойно обнять маму и не бояться ударить её током! Мм, я постараюсь!"

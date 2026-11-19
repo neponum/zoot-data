@@ -1,39 +1,39 @@
-id,title,original,translation
-char_402_tuye_CN_001,Appointed as Assistant,"You want me to do something so boring...? Fine, fine. I'll tag along, just because you're somewhat amusing.",
-char_402_tuye_CN_002,Talk 1,Don't count on me to move stuff. I'm not that brand of Forte.,
-char_402_tuye_CN_003,Talk 2,"This is some insanely precise instrumentation... Wait, haven't I seen these before? Oh, right. If that Mayer girl shows up, don't tell her where I am.",
-char_402_tuye_CN_004,Talk 3,"Never seen the equipment on my back before? Right, come over, put your hand here... keh-ka-hahahahahah! Look at your pathetic face! Guess what just sprayed out? It's water!—With a few... extras. Don't bother asking what!",
-char_402_tuye_CN_005,Talk after Promotion 1,My interest in helping others is zip. But boosting efficiency benefits everybody.,
-char_402_tuye_CN_006,Talk after Promotion 2,"Battles finish up faster now. Good to know, I guess.",
-char_402_tuye_CN_007,Talk after Trust Increase 1,"Cake? Soft and squishy—not my speed. But. Mmp, mmnm... the umeboshi on top's not bad, sure.",
-char_402_tuye_CN_008,Talk after Trust Increase 2,"No rain inside the landship? Duh, obviously I know that. But you never know how it might go outside. Hmph, next time there's a storm, stick close to me. You'll be glad I'm holding this.",
-char_402_tuye_CN_009,Talk after Trust Increase 3,"Hey. Fancy a desert day trip? I can guide you around there. Or anywhere else you like, as long as I have my multi-function jetpack, following the scent of the wind... heh, you're incredibly lucky to have a guide like me.",
-char_402_tuye_CN_010,Idle,"You out cold? Hehe, then I've got a trick to try. Higher pressure, wider spray... And you're past the statute of limitations for a complaint.",
-char_402_tuye_CN_011,Onboard,You the Doctor? They all say you're the one here who knows more than the rest. You're gonna let me figure that out.,
-char_402_tuye_CN_012,Watching Battle Record,"Combat's just like crossing the desert, where experience means nothing. Your only need is survival instincts.",
-char_402_tuye_CN_013,Promotion 1,Doesn't this elite medal do anything at all? No fun to be had here.,
-char_402_tuye_CN_014,Promotion 2,"Medical professional? Funny thing to call me that. Anyway, it's all about getting my job done, either way, right?",
-char_402_tuye_CN_017,Added to Squad,Out for field work again? Fine. You're helping me test new equipment when we get back.,
-char_402_tuye_CN_018,Appointed as Squad Leader,Leading a team in combat is close enough to being a guide.,
-char_402_tuye_CN_019,Depart,"Route, okay. Equipment, check. Let's go.",
-char_402_tuye_CN_020,Begin Operation,Boring... Worse than running into a sandstorm.,
-char_402_tuye_CN_021,Selecting Operator 1,Speak up.,
-char_402_tuye_CN_022,Selecting Operator 2,I'm thinking...,
-char_402_tuye_CN_023,Deployment 1,Good. Efficiency up seventeen percent.,
-char_402_tuye_CN_024,Deployment 2,Need to move faster.,
-char_402_tuye_CN_025,In Battle 1,Even faster.,
-char_402_tuye_CN_026,In Battle 2,Time to test my upgraded equipment.,
-char_402_tuye_CN_027,In Battle 3,How's the new nutritional paste taste?,
-char_402_tuye_CN_028,In Battle 4,Scent of the wind's changed...,
-char_402_tuye_CN_029,4-star Result,Ugh. The sandstorms I've seen beat this any day.,
-char_402_tuye_CN_030,3-star Result,"Scraped by, huh. Wasn't a waste of time after all.",
-char_402_tuye_CN_031,Sub 3-star Result,"Efficiency lacking. Gotta head back and adjust my equipment, or switch reagents, maybe.",
-char_402_tuye_CN_032,Operation Failure,At least you figured a good retreat route…,
-char_402_tuye_CN_033,Assigned to Facility,"You have a lot of rooms, huh…",
-char_402_tuye_CN_034,Tap,You gotta stop with the boring crap already.,
-char_402_tuye_CN_036,Trust Tap,Wanna try touching my bag again? Won't hit you in the face this time. Promise.,
-char_402_tuye_CN_037,Title,Arknights.,
-char_402_tuye_CN_038,New Year's blessing,"Wishing you a Happy New Year! I look forward to your kind guidance in the coming year. Okay, done. Without a hitch, right? Happy now?—a bonus? For me? Really? Hmm... thank you. Happy New Year.",
-char_402_tuye_CN_042,Greeting,"Rain again. Nice weather, huh, Doctor?",
-char_402_tuye_CN_043,Birthday,"Happy birthday. Here's this umbrella's for you. I bought it from a trustworthy merchant in Sargon—It's top-notch. You'll be traveling all over the place, so it'll come in handy. Oh, and if you feel like jumping off the ship's bridge with it, I won't stop you.",
-char_402_tuye_CN_044,Anniversary Celebration,"I've checked Rhodes Island's navigation log. You've been down some awfully treacherous routes. But why don't I see even a hint of fear in anybody? What talent do you have, as the one who guides the ship, to bring out such deep, unshakable trust? I'm... curious.",
+id,title,original,original_zh,translation
+char_402_tuye_CN_001,Appointed as Assistant,"You want me to do something so boring...? Fine, fine. I'll tag along, just because you're somewhat amusing.",让我干这么无聊的事？……好吧，看在你这个人还算有趣的份上，陪你一次。,"Заставлять меня делать такое скучное дело?.. Ладно, так и быть — раз ты хоть сколько-нибудь интересный, составлю тебе компанию."
+char_402_tuye_CN_002,Talk 1,Don't count on me to move stuff. I'm not that brand of Forte.,要搬东西的话别找我。我才不是那种丰蹄。,"Не рассчитывай на меня, если надо таскать вещи. Я не из тех Форте."
+char_402_tuye_CN_003,Talk 2,"This is some insanely precise instrumentation... Wait, haven't I seen these before? Oh, right. If that Mayer girl shows up, don't tell her where I am.",这仪器的构造可真精密……看起来眼熟？对了，如果那个叫梅尔的找过来，别告诉她我在这里。,"Какой точный прибор... Погоди, я его где-то видела? А, да — если придёт эта Майер, не говори ей, что я здесь."
+char_402_tuye_CN_004,Talk 3,"Never seen the equipment on my back before? Right, come over, put your hand here... keh-ka-hahahahahah! Look at your pathetic face! Guess what just sprayed out? It's water!—With a few... extras. Don't bother asking what!",没见过我背后这种装置？过来，把手放在这里……哈哈哈哈！看你那狼狈的样子！你问喷出来的是什么？就是水咯。至于水之外还加了什么东西，嘁，不告诉你。,"Не видела, что у меня на спине? Иди сюда, положи руку вот сюда... кх-ха-ха-ха-ха! Гляди, какая ты жалкая! Что брызнуло? Вода! А что ещё туда добавили — не скажу."
+char_402_tuye_CN_005,Talk after Promotion 1,My interest in helping others is zip. But boosting efficiency benefits everybody.,我对帮助别人不感兴趣。但效率的提升对所有人来说都是好事。,Помогать другим мне не интересно. Но повышение эффективности выгодно всем.
+char_402_tuye_CN_006,Talk after Promotion 2,"Battles finish up faster now. Good to know, I guess.",战斗结束得更快了，倒是个好消息。,Бои стали заканчиваться быстрее — и то хорошо.
+char_402_tuye_CN_007,Talk after Trust Increase 1,"Cake? Soft and squishy—not my speed. But. Mmp, mmnm... the umeboshi on top's not bad, sure.",蛋糕？软绵绵，没意思。唔……上面这颗盐渍梅果味道还不错。,"Торт? Мягкий, скучный. Мм... хотя этот умэбоси сверху ничего так."
+char_402_tuye_CN_008,Talk after Trust Increase 2,"No rain inside the landship? Duh, obviously I know that. But you never know how it might go outside. Hmph, next time there's a storm, stick close to me. You'll be glad I'm holding this.",船上没雨，废话，我当然知道。可外面就不一定了。啧，等风暴到来的时候，记得靠近点，你会感谢我手里拿着它的。,"На корабле нет дождя — ну конечно, я знаю. Но снаружи всё может быть иначе. Хм, когда начнётся буря, держись ближе — будешь рад, что это у меня в руках."
+char_402_tuye_CN_009,Talk after Trust Increase 3,"Hey. Fancy a desert day trip? I can guide you around there. Or anywhere else you like, as long as I have my multi-function jetpack, following the scent of the wind... heh, you're incredibly lucky to have a guide like me.",喂，想不想去沙漠一日游？我带你。去别的地方也可以。只要带上我的多功能喷气背包，跟着风的味道走……啧啧，像我这么优秀的向导，你赚翻了。,"Эй, не хочешь однодневную поездку в пустыню? Я поведу. Куда угодно, лишь бы у меня был многофункциональный реактивный рюкзак и я шла по запаху ветра... Хе-хе, такому гиду, как я, правда повезло."
+char_402_tuye_CN_010,Idle,"You out cold? Hehe, then I've got a trick to try. Higher pressure, wider spray... And you're past the statute of limitations for a complaint.",没动静？那我可以试试这招了，水流更劲，喷洒面积更大……可不许抱怨哦。,"Нет движения? Тогда могу попробовать этот приём: струя сильнее, разбрызгивание шире... И не смей жаловаться."
+char_402_tuye_CN_011,Onboard,You the Doctor? They all say you're the one here who knows more than the rest. You're gonna let me figure that out.,博士？他们说在这里你懂得比谁都多，那我可要好好看看。,"Ты — Доктор? Говорят, здесь ты знаешь больше всех. Сейчас я это проверю."
+char_402_tuye_CN_012,Watching Battle Record,"Combat's just like crossing the desert, where experience means nothing. Your only need is survival instincts.",和穿越沙漠一样，战斗也用不上经验。只需要想活下去的本能。,"Как и переход через пустыню, в бою опыт ни к чему. Нужно только желание выжить."
+char_402_tuye_CN_013,Promotion 1,Doesn't this elite medal do anything at all? No fun to be had here.,这晋升徽章也没什么别的功能了啊，没劲。,У этой медали нет других функций? Скучно.
+char_402_tuye_CN_014,Promotion 2,"Medical professional? Funny thing to call me that. Anyway, it's all about getting my job done, either way, right?",医疗方面的专家？真是没想到。总之都是确保任务完成是吧。,"Специалист по медицине? Не ожидала. Впрочем, всё сводится к тому, чтобы сделать свою работу, да?"
+char_402_tuye_CN_017,Added to Squad,Out for field work again? Fine. You're helping me test new equipment when we get back.,又要出外勤？好吧，回来帮我试新装备。,"Снова выезд? Ладно, когда вернёмся — поможешь мне испытать новое снаряжение."
+char_402_tuye_CN_018,Appointed as Squad Leader,Leading a team in combat is close enough to being a guide.,带队作战和当向导差别不大。,"Вести отряд в бою — почти то же, что быть проводником."
+char_402_tuye_CN_019,Depart,"Route, okay. Equipment, check. Let's go.",路线合理，装备正常，出发。,"Маршрут в порядке, снаряжение в порядке — пошли."
+char_402_tuye_CN_020,Begin Operation,Boring... Worse than running into a sandstorm.,比遇上风沙还要无聊。,"Скучнее, чем попасть в песчаную бурю."
+char_402_tuye_CN_021,Selecting Operator 1,Speak up.,有事就说。,"Говори, что надо."
+char_402_tuye_CN_022,Selecting Operator 2,I'm thinking...,我在思考……,Я думаю...
+char_402_tuye_CN_023,Deployment 1,Good. Efficiency up seventeen percent.,很好，效率将会提升17%。,Отлично. Эффективность вырастет на 17%.
+char_402_tuye_CN_024,Deployment 2,Need to move faster.,得快些行动了。,Надо действовать быстрее.
+char_402_tuye_CN_025,In Battle 1,Even faster.,再快一些。,Ещё быстрее.
+char_402_tuye_CN_026,In Battle 2,Time to test my upgraded equipment.,试试新改的装备。,Проверим доработанное снаряжение.
+char_402_tuye_CN_027,In Battle 3,How's the new nutritional paste taste?,新款营养液味道如何？,Как на вкус новая питательная паста?
+char_402_tuye_CN_028,In Battle 4,Scent of the wind's changed...,风的味道变了……,Запах ветра изменился...
+char_402_tuye_CN_029,4-star Result,Ugh. The sandstorms I've seen beat this any day.,嘁，我见过的风沙比这个厉害多了。,"Хм, песчаные бури, которые я видела, были куда страшнее."
+char_402_tuye_CN_030,3-star Result,"Scraped by, huh. Wasn't a waste of time after all.",马马虎虎吧，还不算浪费时间。,"Так себе, но время не зря потрачено."
+char_402_tuye_CN_031,Sub 3-star Result,"Efficiency lacking. Gotta head back and adjust my equipment, or switch reagents, maybe.",效率不够，回去试试调整装备，或许再换个试剂。,Эффективности мало — надо вернуться и подправить снаряжение или сменить реагент.
+char_402_tuye_CN_032,Operation Failure,At least you figured a good retreat route…,至少选了合格的撤退路线……,Хотя бы отступление выбрала достойное...
+char_402_tuye_CN_033,Assigned to Facility,"You have a lot of rooms, huh…",原来有这么多房间……,"Оказывается, здесь так много комнат..."
+char_402_tuye_CN_034,Tap,You gotta stop with the boring crap already.,别这么无聊。,Не будь таким скучным.
+char_402_tuye_CN_036,Trust Tap,Wanna try touching my bag again? Won't hit you in the face this time. Promise.,要不要再摸一下我的背包？这回会避开你的脸，我保证。,Хочешь снова потрогать мой рюкзак? На этот раз обещаю не брызнуть тебе в лицо.
+char_402_tuye_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_402_tuye_CN_038,New Year's blessing,"Wishing you a Happy New Year! I look forward to your kind guidance in the coming year. Okay, done. Without a hitch, right? Happy now?—a bonus? For me? Really? Hmm... thank you. Happy New Year.",新年快乐，新的一年也请多多指教。好，说完了。很标准吧？你开心就好——奖金？给我的？你认真的？唔……谢谢，新年快乐。,"С Новым годом, и в новом году тоже прошу о добром руководстве. Ладно, всё. Стандартно же? Рада, что ты доволен — бонус? Мне? Серьёзно? Эм... спасибо, с Новым годом."
+char_402_tuye_CN_042,Greeting,"Rain again. Nice weather, huh, Doctor?",外面天气不错，又下雨了呢，博士。,"На улице опять дождь, погода хорошая, Доктор."
+char_402_tuye_CN_043,Birthday,"Happy birthday. Here's this umbrella's for you. I bought it from a trustworthy merchant in Sargon—It's top-notch. You'll be traveling all over the place, so it'll come in handy. Oh, and if you feel like jumping off the ship's bridge with it, I won't stop you.",生日快乐。这把雨伞送给你，这是我从萨尔贡一个信得过的商人那里买来的，质量很好。今后要去很多地方，你总有用得到的时候。啊，如果你想撑着它从舰桥上往下跳的话，我也不会拦着你的。,"С днём рождения. Дарю тебе этот зонт — купила у проверенного торговца в Саргоне, очень прочный. Ты будешь ездить по многим местам — пригодится. А если вздумаешь прыгнуть с моста с ним — я не остановлю."
+char_402_tuye_CN_044,Anniversary Celebration,"I've checked Rhodes Island's navigation log. You've been down some awfully treacherous routes. But why don't I see even a hint of fear in anybody? What talent do you have, as the one who guides the ship, to bring out such deep, unshakable trust? I'm... curious.",我查看过罗德岛的航线记录，你们走过的路线可真够凶险的。可为什么没有人显露出害怕的样子？你作为这艘船的领航者，有什么本事可以让所有人无条件地相信你？我很好奇……,"Я посмотрела журнал маршрутов Родоса — вы проходили по очень опасным трассам. Но почему никто не выглядит испуганным? Что у вас такого, Доктор, что заставляет всех безоговорочно вам верить? Мне интересно..."

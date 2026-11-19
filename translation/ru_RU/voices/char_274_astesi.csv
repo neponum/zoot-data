@@ -1,39 +1,39 @@
-id,title,original,translation
-char_274_astesi_CN_001,Appointed as Assistant,I drew up the work schedule for you. Please kindly follow.,
-char_274_astesi_CN_002,Talk 1,"How to make a celestial globe is a secret, but as we know, anything can be on the table for a fair price. I'd be happy to reveal my trick of the trade as long as your price is right.",
-char_274_astesi_CN_003,Talk 2,"Observing the stars everyday makes my neck sore. Wonder if the medics would have any suggestions for that... What, Miss. Warfarin is the physician on duty today? Um... I'll check again another day.",
-char_274_astesi_CN_004,Talk 3,"Astrology is learning about the present and the future from celestial alignments. It's not quite divination, but with the same result. So, would you like to give it a try, Doctor? It's free of charge!",
-char_274_astesi_CN_005,Talk after Promotion 1," 'Similar genes, among blood relatives, causes, uh, reverberations of Originium...' I can barely understand a word in this work of an occultist. Doctor, Can you interpret the medical report for me?",
-char_274_astesi_CN_006,Talk after Promotion 2,"Ever since my Oripathic infection, the stars have diminished their responses to me. I must find a way to reverse it before I lose all my power. Otherwise I'l… Could you help me, Doctor?",
-char_274_astesi_CN_007,Talk after Trust Increase 1,"You want to know more about the organization I'm with? Sorry, I took an oath not to divulge anything, and it's not for public knowledge, anyway. If you're curious, just think of it as a completely neutral community.",
-char_274_astesi_CN_008,Talk after Trust Increase 2,"Sometimes, I envy Astgenne...  Ah, guess I should call her Elena now. She has everything I'm missing... But like you said, Doctor, we relied on each other because we complement each other, that's why we're sisters.",
-char_274_astesi_CN_009,Talk after Trust Increase 3,"As the nights bid us farewell, so do the starlights fade and quell. If this is the end that awaits us ahead, I should be picking up something more meaningful to do. Such as? Umm... Doctor, do you mind me waking you up every morning?",
-char_274_astesi_CN_010,Idle,"The tea's ready, Doctor. Time for a little break.",
-char_274_astesi_CN_011,Onboard,"Astesia, astrologer, reporting for guard duty. I'm yours to command, Doctor.",
-char_274_astesi_CN_012,Watching Battle Record,No report after viewing?,
-char_274_astesi_CN_013,Promotion 1,A promotion medal? How exquisite. I'll treasure it well.,
-char_274_astesi_CN_014,Promotion 2,"Stars shine bright, bearing witness of our past nights.",
-char_274_astesi_CN_017,Added to Squad,"I'm over here, Doctor.",
-char_274_astesi_CN_018,Appointed as Squad Leader,Let me be the guiding star for all.,
-char_274_astesi_CN_019,Depart,There's no turning back now.,
-char_274_astesi_CN_020,Begin Operation,The stars will light our way.,
-char_274_astesi_CN_021,Selecting Operator 1,Ready for action.,
-char_274_astesi_CN_022,Selecting Operator 2,"Is it my turn, Doctor?",
-char_274_astesi_CN_023,Deployment 1,"Don't panic, Astesia. Do it like you usually do.",
-char_274_astesi_CN_024,Deployment 2,Time to prove myself.,
-char_274_astesi_CN_025,In Battle 1,"Defend with me, steadfast Taurus.",
-char_274_astesi_CN_026,In Battle 2,"Lend me your wings, avians among the stars!",
-char_274_astesi_CN_027,In Battle 3,The serpent has brought about your end.,
-char_274_astesi_CN_028,In Battle 4,The light of stars shall be my blade!,
-char_274_astesi_CN_029,4-star Result,"So this is 'our' power, a power even the stars failed to foresee...",
-char_274_astesi_CN_030,3-star Result,"Fantastic results, Doctor. But don't overwork yourself, be sure to rest up well.",
-char_274_astesi_CN_031,Sub 3-star Result,"If I put in more effort, maybe the outcome could be better…",
-char_274_astesi_CN_032,Operation Failure,I'm dead on my feet... but it's not time to quit yet,
-char_274_astesi_CN_033,Assigned to Facility,"Let me see... Yes, the layout's good. The furniture won't attract any unwanted spirits this way.",
-char_274_astesi_CN_034,Tap,W-Wait!,
-char_274_astesi_CN_036,Trust Tap,W-What's that... something on my face?,
-char_274_astesi_CN_037,Title,Arknights.,
-char_274_astesi_CN_038,New Year's blessing,"A year's outset, and the start of another cycle. Before the stars fade in their response, would you like to try making a wish to them through me?  Today is the day wishes most easily come true, you know. Come, take a look at my celestial globe...",
-char_274_astesi_CN_042,Greeting,"Good morning, Doctor.",
-char_274_astesi_CN_043,Birthday,"Doctor, happy birthday. Your present is in the box before you. Whatever delights you will surely delight me too. Now, close your eyes, say the name of something you like, and then open it.",
-char_274_astesi_CN_044,Anniversary Celebration,"I appreciate Rhodes Island for being there for me and my sister. The pain Oripathy exacts on my body, is far from surpassing the doubt I have in my own life of study... but the Medical Department is still helping me to find out why I'm losing my power. So there's still hope for everything, isn't there?",
+id,title,original,original_zh,translation
+char_274_astesi_CN_001,Appointed as Assistant,I drew up the work schedule for you. Please kindly follow.,工作流程已经制定完成了，要好好执行哦。,"Я составила тебе график работы. Следуй ему, хорошо?"
+char_274_astesi_CN_002,Talk 1,"How to make a celestial globe is a secret, but as we know, anything can be on the table for a fair price. I'd be happy to reveal my trick of the trade as long as your price is right.",天球仪的制造技术是个秘密，但就像您所知道的那样，世间万物都能用等价的东西来交换。所以，只要您的出价合适，我愿意将这秘密转让给你。,"Техника изготовления небесной сферы — секрет. Но, как вы знаете, на свете всё можно обменять на равноценное. Так что если ваша цена будет подходящей, я готова уступить вам этот секрет."
+char_274_astesi_CN_003,Talk 2,"Observing the stars everyday makes my neck sore. Wonder if the medics would have any suggestions for that... What, Miss. Warfarin is the physician on duty today? Um... I'll check again another day.",每天都要观测星体脖子好酸，不知道医疗部的同事有什么好办法……今天的当班医师是华法琳小姐？呃，还是过段时间再看吧。,"Каждый день наблюдаешь звёзды — и шея ноет. Интересно, есть ли у медотдела совет... Сегодня дежурит госпожа Варфарин? Э-э, может, зайду в другой раз."
+char_274_astesi_CN_004,Talk 3,"Astrology is learning about the present and the future from celestial alignments. It's not quite divination, but with the same result. So, would you like to give it a try, Doctor? It's free of charge!",从星辰排列中获取现在与未来的消息，这就是占星，可能和占卜不太一样，但结果总是不变的。所以——您想试试看吗？免费的哦。,"Получать вести о настоящем и будущем из расположения звёзд — это и есть астрология. Может, она не совсем то же, что гадание, но результат всегда один и тот же. Так что — хотите попробовать? Бесплатно!"
+char_274_astesi_CN_005,Talk after Promotion 1," 'Similar genes, among blood relatives, causes, uh, reverberations of Originium...' I can barely understand a word in this work of an occultist. Doctor, Can you interpret the medical report for me?",“血亲间，趋同的基因，导致，呃，源石产生，共鸣性的，并发……”这才是真正的神秘学，完全理解不了……博士，能麻烦您帮我解读一下体检报告吗。,"«У кровных родственников схожие гены вызывают, э-э, резонансные проявления Ориджиниума...» Вот это и есть настоящая оккультная наука — ничего не понятно... Доктор, не могли бы вы истолковать мне медзаключение?"
+char_274_astesi_CN_006,Talk after Promotion 2,"Ever since my Oripathic infection, the stars have diminished their responses to me. I must find a way to reverse it before I lose all my power. Otherwise I'l… Could you help me, Doctor?",从受到矿石病感染开始，星辰对我的回应已经越来越微弱了。一定要在力量尽失前想到补救的办法，不然我……博士，您愿意帮助我吗？,"С того дня, как я заразилась Орипатией, звёзды отвечают мне всё слабее. Я должна найти способ исправить это, пока не потеряла силу полностью. Иначе я... Доктор, вы поможете мне?"
+char_274_astesi_CN_007,Talk after Trust Increase 1,"You want to know more about the organization I'm with? Sorry, I took an oath not to divulge anything, and it's not for public knowledge, anyway. If you're curious, just think of it as a completely neutral community.",您想要了解我加入的那个组织？抱歉……我什么都不能说。既是因为誓言所限，也和那些东西绝不能公开言说有关。如果您无论如何想要知道一些，那就……请把它想象成一个与世无争的茶会吧。,"Хотите узнать об организации, в которую я вступила? Простите... я ничего не могу сказать. И из-за клятвы, и потому, что об этом нельзя говорить вслух. Если вам непременно нужно что-то знать... представьте её безобидным чайным собранием."
+char_274_astesi_CN_008,Talk after Trust Increase 2,"Sometimes, I envy Astgenne...  Ah, guess I should call her Elena now. She has everything I'm missing... But like you said, Doctor, we relied on each other because we complement each other, that's why we're sisters.",有时候，真的很羡慕星……不，现在该称呼她为埃琳娜了。我身上缺失的一切，似乎都在她身上。咦，是这样吗，博士？也是呢，因为相异，所以相依，这就是姐妹间的关系吧。,"Иногда я и правда завидую Звезде... Нет, теперь её следует называть Еленой. Кажется, во мне не хватает как раз того, что есть в ней. Ах, правда, Доктор? Да, наверное: мы разные, поэтому и держимся друг за друга — вот что значит быть сёстрами."
+char_274_astesi_CN_009,Talk after Trust Increase 3,"As the nights bid us farewell, so do the starlights fade and quell. If this is the end that awaits us ahead, I should be picking up something more meaningful to do. Such as? Umm... Doctor, do you mind me waking you up every morning?",夜晚总会结束，群星也终将落幕，如果这就是一切的尽头，那我该做些有意义的事情了。比如？唔……博士，您介意我每天清晨叫醒您吗？,"Ночь кончается, и звёзды когда-нибудь погаснут. Если это и есть конец всему, то мне пора заняться чем-то осмысленным. Например? М-м... Доктор, вы не против, если я буду будить вас каждое утро?"
+char_274_astesi_CN_010,Idle,"The tea's ready, Doctor. Time for a little break.",茶已经备好了，放松一下吧。,Чай готов. Расслабьтесь.
+char_274_astesi_CN_011,Onboard,"Astesia, astrologer, reporting for guard duty. I'm yours to command, Doctor.",星象学者，星极，以近卫干员身份任职，今后就由您差遣了，博士。,"Астролог Астезия, на службе гвардейца. Отныне я в вашем распоряжении, Доктор."
+char_274_astesi_CN_012,Watching Battle Record,No report after viewing?,看完后不用写心得吗？,После просмотра не нужно писать впечатления?
+char_274_astesi_CN_013,Promotion 1,A promotion medal? How exquisite. I'll treasure it well.,晋升勋章？很精致的饰品，我会好好保管它的。,Медаль за повышение? Изысканное украшение. Я буду её беречь.
+char_274_astesi_CN_014,Promotion 2,"Stars shine bright, bearing witness of our past nights.",群星闪耀，见证过往。,"Звёзды сияют, свидетельствуя о былом."
+char_274_astesi_CN_017,Added to Squad,"I'm over here, Doctor.",我在这里，博士。,"Я здесь, Доктор."
+char_274_astesi_CN_018,Appointed as Squad Leader,Let me be the guiding star for all.,让我成为众人的星光吧。,Позвольте мне стать звездой для всех.
+char_274_astesi_CN_019,Depart,There's no turning back now.,我明白，已经没有回旋的余地了。,Я понимаю: пути назад уже нет.
+char_274_astesi_CN_020,Begin Operation,The stars will light our way.,群星为我们照亮前路。,Звёзды освещают нам путь.
+char_274_astesi_CN_021,Selecting Operator 1,Ready for action.,我准备好了。,Я готова.
+char_274_astesi_CN_022,Selecting Operator 2,"Is it my turn, Doctor?",该我了吗，博士。,"Моя очередь, Доктор?"
+char_274_astesi_CN_023,Deployment 1,"Don't panic, Astesia. Do it like you usually do.",别慌，星极，像平常那样来就行。,"Не паникуй, Астезия. Делай, как обычно."
+char_274_astesi_CN_024,Deployment 2,Time to prove myself.,该证明自己了。,Пора доказать себе.
+char_274_astesi_CN_025,In Battle 1,"Defend with me, steadfast Taurus.",敦实的坚牛，同我一起守护。,"Надёжный Телец, защищай вместе со мной."
+char_274_astesi_CN_026,In Battle 2,"Lend me your wings, avians among the stars!",游禽翱翔星海，借您羽翼一用！,Птицы парят в звёздном море — одолжите мне свои крылья!
+char_274_astesi_CN_027,In Battle 3,The serpent has brought about your end.,悍蛟已至，还想挣脱么。,Грозный змей пришёл. Ещё хочешь вырваться?
+char_274_astesi_CN_028,In Battle 4,The light of stars shall be my blade!,我之剑光，即为星光！,Свет моего клинка — свет звёзд!
+char_274_astesi_CN_029,4-star Result,"So this is 'our' power, a power even the stars failed to foresee...",这就是，星辰都无法昭示的，“我们”的力量……,"Вот она — сила «нас», которую не смогли предвидеть даже звёзды..."
+char_274_astesi_CN_030,3-star Result,"Fantastic results, Doctor. But don't overwork yourself, be sure to rest up well.",辛苦了博士，早早休息吧。,"Вы постарались, Доктор. Отдыхайте пораньше."
+char_274_astesi_CN_031,Sub 3-star Result,"If I put in more effort, maybe the outcome could be better…",如果我再加把劲，结果能变得更好吗？,"Если я приложу больше усилий, станет ли результат лучше?"
+char_274_astesi_CN_032,Operation Failure,I'm dead on my feet... but it's not time to quit yet,好累……但是，还不能倒下……,Так устала... но ещё нельзя падать...
+char_274_astesi_CN_033,Assigned to Facility,"Let me see... Yes, the layout's good. The furniture won't attract any unwanted spirits this way.",我看看，家具的摆放……嗯，没有问题，并不会招来奇怪的东西。,"Посмотрю расстановку мебели... Мм, всё в порядке, никаких странных духов это не привлечёт."
+char_274_astesi_CN_034,Tap,W-Wait!,等，等等！,П-подождите!
+char_274_astesi_CN_036,Trust Tap,W-What's that... something on my face?,怎，怎么了，我脸上有什么吗？,Ч-что? У меня что-то на лице?
+char_274_astesi_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_274_astesi_CN_038,New Year's blessing,"A year's outset, and the start of another cycle. Before the stars fade in their response, would you like to try making a wish to them through me?  Today is the day wishes most easily come true, you know. Come, take a look at my celestial globe...",一年伊始，又要开始新的轮回了。在星辰对我的回应消失之前，博士要来试着通过我向它们许个愿吗？今天许下的愿望，可是最容易成真的。来，看着天球仪……,"Начало года — и новый круг. Пока звёзды ещё отвечают мне, не хотите, Доктор, попробовать загадать желание через меня? В этот день желания сбываются легче всего. Идите, посмотрите на небесную сферу..."
+char_274_astesi_CN_042,Greeting,"Good morning, Doctor.",早安，博士。,"Доброе утро, Доктор."
+char_274_astesi_CN_043,Birthday,"Doctor, happy birthday. Your present is in the box before you. Whatever delights you will surely delight me too. Now, close your eyes, say the name of something you like, and then open it.",博士，生日快乐，礼物就在你面前的箱子里。能够令你愉悦的，也必能让我欢喜，来，闭上眼睛，说出你喜爱的东西，然后打开它吧。,"С днём рождения, Доктор. Подарок в ящике перед вами. Что радует вас, не может не радовать и меня. Закройте глаза, назовите то, что вам нравится, и откройте его."
+char_274_astesi_CN_044,Anniversary Celebration,"I appreciate Rhodes Island for being there for me and my sister. The pain Oripathy exacts on my body, is far from surpassing the doubt I have in my own life of study... but the Medical Department is still helping me to find out why I'm losing my power. So there's still hope for everything, isn't there?",我很感激罗德岛帮助了我和妹妹，矿石病带给我的身体上的痛苦，远不及我那时对于自己毕生所学的怀疑……不过医疗部还在帮我找寻我失去力量的原因，一切都还有希望，不是吗？,"Я очень признательна Родосу за помощь мне и сестре. Боль в теле от Орипатии несравнима с сомнениями, что тогда охватили меня относительно всей моей жизни и учения... Но медотдел всё ещё ищет причину, по которой я теряю силу. У всего ещё есть надежда, правда?"

@@ -1,37 +1,37 @@
-id,title,original,translation
-char_240_wyvern_CN_001,Appointed as Assistant,"Awaiting your orders, Doctor.",
-char_240_wyvern_CN_002,Talk 1,"The two seniors from the BPRS squad are here too? In that case... Could you assign me to their squards in future missions, Doctor?",
-char_240_wyvern_CN_003,Talk 2,Huff... huff... three more sets of physical training and I'll be half-done for today. Doctor... please... fetch my water bottle for me...,
-char_240_wyvern_CN_004,Talk 3,"You want to know about my hometown? My hometown… it's a cruel wilderness. Even survival itself is a difficult feat there. Compared to that, Rhodes Island is like heaven.",
-char_240_wyvern_CN_005,Talk after Promotion 1,I've become stronger than when I was an intern for Blacksteel.,
-char_240_wyvern_CN_007,Talk after Trust Increase 1,"The 22nd rule of Blacksteel: 'Anyone who loses her weapon no longer belongs here.' That's why I always bring my hellebarde with me wherever I go. The rule doesn't apply to everyday situations, you say? But... if I remember correctly... wait, let me check. 'This rule only applies to contracted Operators and new recruits under training.' What?... Ms. Franka didn't tell me about this part...",
-char_240_wyvern_CN_008,Talk after Trust Increase 2,Instructor Dobermann's really got a heart of stone! Why choose me other than anyone elase to deal with all those live Originium slugs? I... I just can't!,
-char_240_wyvern_CN_009,Talk after Trust Increase 3,"I think I know now why Franka and Liskarm decided to stay at Rhodes Island. Compared to Blacksteel, this is a place we can call home. There's lots of fun things to do here besides the missions...",
-char_240_wyvern_CN_010,Idle,"Shh, the Doctor's having a rest now. Keep your volume down, would you?",
-char_240_wyvern_CN_011,Onboard,"I'm Vanilla, trainee Operator from Blacksteel. Looking forward to learning from you, Doctor.",
-char_240_wyvern_CN_012,Watching Battle Record,It's time to organize my notes. I need to digest what I've just learned.,
-char_240_wyvern_CN_013,Promotion 1,A promotion medal? For me? My-my sincerest gratitude!,
-char_240_wyvern_CN_017,Added to Squad,I'm here to help everyone!,
-char_240_wyvern_CN_018,Appointed as Squad Leader,"Me, the leader? Are you sure about that?",
-char_240_wyvern_CN_019,Depart,I'll work even harder.,
-char_240_wyvern_CN_020,Begin Operation,I will not bring shame to Blacksteel!,
-char_240_wyvern_CN_021,Selecting Operator 1,Hmm?,
-char_240_wyvern_CN_022,Selecting Operator 2,Your words are my command.,
-char_240_wyvern_CN_023,Deployment 1,Okay!,
-char_240_wyvern_CN_024,Deployment 2,Understood.,
-char_240_wyvern_CN_025,In Battle 1,You shall not pass!,
-char_240_wyvern_CN_026,In Battle 2,This hellebarde isn't just for show!,
-char_240_wyvern_CN_027,In Battle 3,Battles aren't always won by the most experienced!,
-char_240_wyvern_CN_028,In Battle 4,Take that!,
-char_240_wyvern_CN_029,4-star Result,"Whew, perfect victory!",
-char_240_wyvern_CN_030,3-star Result,A very successful operation.,
-char_240_wyvern_CN_031,Sub 3-star Result,"If we worked a bit harder, we could have done better.",
-char_240_wyvern_CN_032,Operation Failure,I... I'm still not strong enough...,
-char_240_wyvern_CN_033,Assigned to Facility,At your service.,
-char_240_wyvern_CN_034,Tap,Huh?,
-char_240_wyvern_CN_036,Trust Tap,"Doctor, would you like to dine with me tonight?",
-char_240_wyvern_CN_037,Title,Arknights.,
-char_240_wyvern_CN_038,New Year's blessing,"Happy New Year! There's so much good food, plus the party tonight; this is bliss... Back home, our evening supper depended on how much we could catch that day. So we'd be out hunting before sunrise, just to celebrate the New Year. It really wore you out...",
-char_240_wyvern_CN_042,Greeting,"Morning, Doctor.",
-char_240_wyvern_CN_043,Birthday,"Doctor, I heard it was your birthday. I have some beast jerky from home, please, help yourself to some if you don't mind. The people back home loved it, which is what made them all so strong! Happy birthday, and I wish you another year of good health!",
-char_240_wyvern_CN_044,Anniversary Celebration,"It's been a while since I came to Rhodes Island, and I'm so grateful to everyone for helping me get settled in with life here. I don't freak out whenever an automatic door opens anymo—ah! Doctor, I think a burdenbeast-looking robot just passed by...",
+id,title,original,original_zh,translation
+char_240_wyvern_CN_001,Appointed as Assistant,"Awaiting your orders, Doctor.",等候您的命令，博士。,"Жду ваших приказов, Доктор."
+char_240_wyvern_CN_002,Talk 1,"The two seniors from the BPRS squad are here too? In that case... Could you assign me to their squards in future missions, Doctor?",生化小组的两位前辈也在这里？那……以后能把我分配到前辈们的行动组吗？,Оба старших из биогруппы тоже здесь? Тогда... можно ли меня в следующий раз назначить в группу к ним?
+char_240_wyvern_CN_003,Talk 2,Huff... huff... three more sets of physical training and I'll be half-done for today. Doctor... please... fetch my water bottle for me...,呼哈……呼哈……再做三组体能训练……今天的锻炼就完成了……一半……博士……麻烦您帮我……拿下水壶……,Фух... фух... ещё три подхода физподготовки... и сегодняшняя тренировка будет... наполовину выполнена... Доктор... помогите мне... достать флягу...
+char_240_wyvern_CN_004,Talk 3,"You want to know about my hometown? My hometown… it's a cruel wilderness. Even survival itself is a difficult feat there. Compared to that, Rhodes Island is like heaven.",想问我家乡的情况？那是片……残酷的荒漠，每天光是活着就很累了。和那里比起来，罗德岛就是天堂啊。,"Хотите узнать про мой дом? Это... жестокая пустошь, там каждый день только и думаешь, как выжить. По сравнению с ней Родос — рай."
+char_240_wyvern_CN_005,Talk after Promotion 1,I've become stronger than when I was an intern for Blacksteel.,比起在黑钢实习的时候，我变得更强了。,"Я стала сильнее, чем когда проходила стажировку в Блэкстиле."
+char_240_wyvern_CN_007,Talk after Trust Increase 1,"The 22nd rule of Blacksteel: 'Anyone who loses her weapon no longer belongs here.' That's why I always bring my hellebarde with me wherever I go. The rule doesn't apply to everyday situations, you say? But... if I remember correctly... wait, let me check. 'This rule only applies to contracted Operators and new recruits under training.' What?... Ms. Franka didn't tell me about this part...",黑钢的第二十二条规定：“武器离身者一律辞退”，所以我一直随身带着我的斧枪。唉？平时不用？但我记得……稍等……“此规定仅限入职训练与契约中干员。”……芙兰卡小姐为什么没提醒我呢……,"22-е правило Блэкстила гласит: «Кто расстаётся с оружием, тот уволен», поэтому я всегда ношу с собой свою алебарду. А? В обычное время не надо? Но я помню... погодите... «Правило действует только для стажёров и операторов по контракту». ...Почему мисс Франка мне этого не сказала?.."
+char_240_wyvern_CN_008,Talk after Trust Increase 2,Instructor Dobermann's really got a heart of stone! Why choose me other than anyone elase to deal with all those live Originium slugs? I... I just can't!,杜宾教官太残忍了！为什么只有我要面对活生生的源石蜗牛呢！我，我真的下不了手啊！,"Инструктор Доберманн слишком жестока! Почему только мне приходится иметь дело с живыми улитками Ориджиниума?! Я, я правда не могу себя заставить!"
+char_240_wyvern_CN_009,Talk after Trust Increase 3,"I think I know now why Franka and Liskarm decided to stay at Rhodes Island. Compared to Blacksteel, this is a place we can call home. There's lots of fun things to do here besides the missions...",我想……我明白芙兰卡和雷蛇待在罗德岛的原因了。可能和黑钢相比，这里更像个家吧。除了任务之外，居然还有那么多有趣的东西……,"Кажется... я поняла, почему Франка и Лискарм остались на Родосе. По сравнению с Блэкстилом здесь больше похоже на дом. Помимо заданий, тут ещё столько интересного..."
+char_240_wyvern_CN_010,Idle,"Shh, the Doctor's having a rest now. Keep your volume down, would you?",嘘，安静点，别打扰博士休息。,"Тс, потише, не мешайте Доктору отдыхать."
+char_240_wyvern_CN_011,Onboard,"I'm Vanilla, trainee Operator from Blacksteel. Looking forward to learning from you, Doctor.",香草，以受训干员的身份前来学习。博士阁下，今后就请您多多指教了。,"Ванилла, прибыла учиться в качестве стажёра. Доктор, прошу в дальнейшем меня поправлять."
+char_240_wyvern_CN_012,Watching Battle Record,It's time to organize my notes. I need to digest what I've just learned.,是时候整理笔记了，新知识得赶紧消化掉。,"Пора привести заметки в порядок, надо быстрее усвоить новое."
+char_240_wyvern_CN_013,Promotion 1,A promotion medal? For me? My-my sincerest gratitude!,这是……晋升勋章？给我的？谢，谢谢！,Это... медаль за повышение? Мне? С-Спасибо!
+char_240_wyvern_CN_017,Added to Squad,I'm here to help everyone!,香草会助大家一臂之力的！,Ванилла поможет всем!
+char_240_wyvern_CN_018,Appointed as Squad Leader,"Me, the leader? Are you sure about that?",我的话，真的可以吗？,Я? И правда можно?
+char_240_wyvern_CN_019,Depart,I'll work even harder.,我会加倍努力的。,Я буду стараться вдвойне.
+char_240_wyvern_CN_020,Begin Operation,I will not bring shame to Blacksteel!,不能给黑钢的各位丢脸！,Не подведу людей из Блэкстила!
+char_240_wyvern_CN_021,Selecting Operator 1,Hmm?,嗯？,Мм?
+char_240_wyvern_CN_022,Selecting Operator 2,Your words are my command.,我会听从命令。,Я исполню приказ.
+char_240_wyvern_CN_023,Deployment 1,Okay!,好的。,Хорошо.
+char_240_wyvern_CN_024,Deployment 2,Understood.,明白。,Понятно.
+char_240_wyvern_CN_025,In Battle 1,You shall not pass!,不会让你过去！,Не пущу тебя!
+char_240_wyvern_CN_026,In Battle 2,This hellebarde isn't just for show!,这把斧头可不是装饰品！,Этот топор не украшение!
+char_240_wyvern_CN_027,In Battle 3,Battles aren't always won by the most experienced!,战斗可不仅仅是依靠经验！,В бою не только опыт важен!
+char_240_wyvern_CN_028,In Battle 4,Take that!,接下我这一击！,Прими мой удар!
+char_240_wyvern_CN_029,4-star Result,"Whew, perfect victory!",呼，大圆满！,"Фу, полный успех!"
+char_240_wyvern_CN_030,3-star Result,A very successful operation.,很成功的作战。,Очень удачная операция.
+char_240_wyvern_CN_031,Sub 3-star Result,"If we worked a bit harder, we could have done better.",如果再努力些的话，结果会更好点吧。,"Если бы постараться чуть больше, результат был бы лучше."
+char_240_wyvern_CN_032,Operation Failure,I... I'm still not strong enough...,我……能力还不够……,Я... у меня ещё не хватает мастерства...
+char_240_wyvern_CN_033,Assigned to Facility,At your service.,听从您的指挥。,Слушаюсь вас.
+char_240_wyvern_CN_034,Tap,Huh?,唉唉？,Ах?
+char_240_wyvern_CN_036,Trust Tap,"Doctor, would you like to dine with me tonight?",博士，要一起吃晚饭吗？,"Доктор, поужинаем вместе?"
+char_240_wyvern_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_240_wyvern_CN_038,New Year's blessing,"Happy New Year! There's so much good food, plus the party tonight; this is bliss... Back home, our evening supper depended on how much we could catch that day. So we'd be out hunting before sunrise, just to celebrate the New Year. It really wore you out...",新年快乐！这么多好吃的，还有晚会，真好啊……在老家的时候，晚上能吃几道菜，完全取决于白天打到了多少猎物。所以为了庆祝新年，一大早就要出去打猎，实在很辛苦……,"С новым годом! Столько вкусного, и вечер ещё — как хорошо... Дома то, что мы ели вечером, зависело от того, сколько дичи удалось добыть днём. Поэтому ради новогоднего праздника выходили на охоту чуть ли не до рассвета — и правда тяжело..."
+char_240_wyvern_CN_042,Greeting,"Morning, Doctor.",博士，早。,"Доктор, доброе утро."
+char_240_wyvern_CN_043,Birthday,"Doctor, I heard it was your birthday. I have some beast jerky from home, please, help yourself to some if you don't mind. The people back home loved it, which is what made them all so strong! Happy birthday, and I wish you another year of good health!",博士，听说今天是您的生日啊。我这里有一些老家寄来的兽肉干，不嫌弃的话，就请收下吧。在老家，人们都喜欢吃这种肉干，所以大家都很强壮！生日快乐博士，祝您新的一年身体健康！,"Доктор, я слышала, сегодня ваш день рождения. У меня есть вяленое звериное мясо, присланное из дома — если не брезгуете, примите. Дома все любят это мясо, поэтому и сильные! С днём рождения, Доктор, желаю вам здоровья в новом году!"
+char_240_wyvern_CN_044,Anniversary Celebration,"It's been a while since I came to Rhodes Island, and I'm so grateful to everyone for helping me get settled in with life here. I don't freak out whenever an automatic door opens anymo—ah! Doctor, I think a burdenbeast-looking robot just passed by...",我来到罗德岛有一段时间了，非常感谢大家对我的帮助，现在我已经很适应这里的生活了。被自动门吓到这种事情再也不会——啊！博士，刚才好像有一个长得像驮兽的机器走过去了……,"Я уже некоторое время на Родосе и очень благодарна всем за помощь — я почти привыкла к здешней жизни. Больше я не пугаюсь автоматических дверей... Ах! Доктор, только что мимо, кажется, проехала машина, похожая на вьючного зверя..."

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_163_hpsts_CN_001,Appointed as Assistant,"Hm? You want to watch me forge weapons? Sure, but be careful not to get singed.",
-char_163_hpsts_CN_002,Talk 1,"Only weapons that don't see use go undamaged. Therefore, a spotless weapon is actually a terrible sacrilege.",
-char_163_hpsts_CN_003,Talk 2,"Nowadays, weapon and equipment manufacturing is all modernized. Traditional craftsmen lose their livelihoods because of it. Times change. Those who can't keep up get left behind... that's only natural.",
-char_163_hpsts_CN_004,Talk 3,Firearms… these weapons will change the world completely.,
-char_163_hpsts_CN_005,Talk after Promotion 1,"My right leg? Oh, It's no big deal. You know, all craftsmen make mistakes.",
-char_163_hpsts_CN_006,Talk after Promotion 2,Thank you for giving me a chance to show what I can do.,
-char_163_hpsts_CN_007,Talk after Trust Increase 1,"You saw my name engraved on some equipment? Well, no need to mind that. Probably has nothing to do with me.",
-char_163_hpsts_CN_008,Talk after Trust Increase 2,"Steel and bronze form the bone, and then…",
-char_163_hpsts_CN_009,Talk after Trust Increase 3,"If me and my hammer can still be of use to you, I'm honored.",
-char_163_hpsts_CN_010,Idle,They're promoting new drinks at the bar... What should I have today?,
-char_163_hpsts_CN_011,Onboard,"Vulcan, that's what everyone calls me. I can do maintenance on your weapons, if it comes up. The equipment I need for the forge is listed here, in this blueprint.",
-char_163_hpsts_CN_012,Watching Battle Record,Hmm… I'm feeling inspired. Gotta start the blowers. It's time to work.,
-char_163_hpsts_CN_013,Promotion 1,A skilled craftsman is crucial to a military organization. I see you understand that well.,
-char_163_hpsts_CN_014,Promotion 2,Keeping your weapons in good condition is the best way to keep your people safe. You agree with me? Seems I made the right choice joining you.,
-char_163_hpsts_CN_017,Added to Squad,I just want to focus on my work.,
-char_163_hpsts_CN_018,Appointed as Squad Leader,"You're making me the leader…? If you insist… Still, I'm much better at designing and producing weapons than giving orders.",
-char_163_hpsts_CN_019,Depart,Can I stay behind and work? No?,
-char_163_hpsts_CN_020,Begin Operation,Hopeless imbeciles...,
-char_163_hpsts_CN_021,Selecting Operator 1,Yes?,
-char_163_hpsts_CN_022,Selecting Operator 2,Hmm?,
-char_163_hpsts_CN_023,Deployment 1,I'm on it.,
-char_163_hpsts_CN_024,Deployment 2,Ready and waiting.,
-char_163_hpsts_CN_025,In Battle 1,Armed up!,
-char_163_hpsts_CN_026,In Battle 2,Let the fires rage!,
-char_163_hpsts_CN_027,In Battle 3,I don't need healing.,
-char_163_hpsts_CN_028,In Battle 4,Your weapon will shatter under my next blow!,
-char_163_hpsts_CN_029,4-star Result,Please bring me any enemy equipment you find. I want to know what they're making now.,
-char_163_hpsts_CN_030,3-star Result,"A victory, just as planned! This is why we need high-quality equipment for our fighters.",
-char_163_hpsts_CN_031,Sub 3-star Result,Please submit damage reports for all of your equipment. I'll work on repairs when we get back.,
-char_163_hpsts_CN_032,Operation Failure,My skills are still lacking…,
-char_163_hpsts_CN_033,Assigned to Facility,Do you have a furnace here?,
-char_163_hpsts_CN_034,Tap,Argh...,
-char_163_hpsts_CN_036,Trust Tap,Any equipment you have in mind? I can try making it for you.,
-char_163_hpsts_CN_037,Title,Arknights.,
-char_163_hpsts_CN_038,New Year's blessing,"Happy New Year, Doctor. A moment please, I'm working the forge. In our trade, we believe that the flames must burn bright over the new year, so that we'll be able to craft strong equipment.",
-char_163_hpsts_CN_042,Greeting,"Good morning, Doctor.",
-char_163_hpsts_CN_043,Birthday,"Happy birthday, Doctor. I'm not precisely sure what to give you as a present, since you don't need weapons. But the bar has been mixing some new drinks lately, and they've still got the ones I like. So how about I buy you a drink?",
-char_163_hpsts_CN_044,Anniversary Celebration,"People at Rhodes Island are beginning to understand the wonders of weapons. I was used to being alone, but now I get a few regular visitors... not that I mind. It's kind of fun, actually. Sometimes I even feel like a few more would be nice.",
+id,title,original,original_zh,translation
+char_163_hpsts_CN_001,Appointed as Assistant,"Hm? You want to watch me forge weapons? Sure, but be careful not to get singed.",嗯？想看我铸造武器吗？可以。小心，别被火星烫到。,"М? Хотите посмотреть, как я кую оружие? Можно. Только смотрите не подгорите — поберегитесь искр."
+char_163_hpsts_CN_002,Talk 1,"Only weapons that don't see use go undamaged. Therefore, a spotless weapon is actually a terrible sacrilege.",只有不被使用的武器才不会受损。因此，没有划痕反而是对武器最大的亵渎。,"Лишь то оружие, что не используют, остаётся без царапин. Поэтому отсутствие следов — величайшее святотатство против оружия."
+char_163_hpsts_CN_003,Talk 2,"Nowadays, weapon and equipment manufacturing is all modernized. Traditional craftsmen lose their livelihoods because of it. Times change. Those who can't keep up get left behind... that's only natural.",现代化的武器装备生产方式让许多传统工匠都失业了，不过跟不上时代的人理应被淘汰，这是规律。,"Сейчас производство оружия и снаряжения полностью модернизировано, и многие традиционные ремесленники остались без работы. Времена меняются — кто не поспевает, тот остаётся позади. Это закон."
+char_163_hpsts_CN_004,Talk 3,Firearms… these weapons will change the world completely.,铳械……这种武器会给这个世界带来翻天覆地的变化。,Огнестрел... это оружие полностью перевернёт мир.
+char_163_hpsts_CN_005,Talk after Promotion 1,"My right leg? Oh, It's no big deal. You know, all craftsmen make mistakes.",我的右腿？没什么大不了的，你知道，每个工匠多少都失误过。,"Моя правая нога? Пустяки. Знаете, у каждого мастера бывали ошибки."
+char_163_hpsts_CN_006,Talk after Promotion 2,Thank you for giving me a chance to show what I can do.,感谢你为我提供了展现技艺的机会。,"Спасибо, что дали мне возможность показать, на что я способна."
+char_163_hpsts_CN_007,Talk after Trust Increase 1,"You saw my name engraved on some equipment? Well, no need to mind that. Probably has nothing to do with me.",一些装备上能看到与我一样的名字？不……跟我可没什么关系。,Вы видели моё имя на некоторых образцах? Нет... это ко мне отношения не имеет.
+char_163_hpsts_CN_008,Talk after Trust Increase 2,"Steel and bronze form the bone, and then…",以钢铁与黄铜为骨……,"Сталь и латунь — в основу, и потом..."
+char_163_hpsts_CN_009,Talk after Trust Increase 3,"If me and my hammer can still be of use to you, I'm honored.",如果这锻锤还能为您尽上几分绵薄之力，我就已经心满意足了。,Если этот молот и мои руки ещё могут вам пригодиться — я уже довольна.
+char_163_hpsts_CN_010,Idle,They're promoting new drinks at the bar... What should I have today?,吧台又开始推新饮品了，今天喝哪款好呢。,У стойки опять новый напиток... Что сегодня взять?
+char_163_hpsts_CN_011,Onboard,"Vulcan, that's what everyone calls me. I can do maintenance on your weapons, if it comes up. The equipment I need for the forge is listed here, in this blueprint.",他们都叫我火神。如果需要的话，我可以给你们损毁的武器做维护，另外……我需要的锻冶设备就在这张图纸里。,"Все зовут меня Вулкан. Если нужно, я могу отремонтировать ваше оружие. А оборудование, которое мне нужно для кузницы, — всё в этом чертеже."
+char_163_hpsts_CN_012,Watching Battle Record,Hmm… I'm feeling inspired. Gotta start the blowers. It's time to work.,唔，有新的灵感。准备好鼓风机，该干活了。,"М-м, меня посетило вдохновение. Раздувай меха — пора работать."
+char_163_hpsts_CN_013,Promotion 1,A skilled craftsman is crucial to a military organization. I see you understand that well.,看来你也能明白，一名优秀工匠对于军事组织的重要性。,"Хороший мастер жизненно важен для военной организации. Рада, что вы это понимаете."
+char_163_hpsts_CN_014,Promotion 2,Keeping your weapons in good condition is the best way to keep your people safe. You agree with me? Seems I made the right choice joining you.,维护武器，就是保护生命。你也认同这个观念？看来，我终于找到归宿了。,"Содержать оружие в порядке — значит беречь жизни. Вы со мной согласны? Похоже, я не ошиблась, придя к вам."
+char_163_hpsts_CN_017,Added to Squad,I just want to focus on my work.,我希望能……专心工作。,Я хочу только проводить время за работой.
+char_163_hpsts_CN_018,Appointed as Squad Leader,"You're making me the leader…? If you insist… Still, I'm much better at designing and producing weapons than giving orders.",队长吗……如果需要的话……不过比起指挥人，我还是更擅长设计和制造武器。,"Капитан?.. Если надо — пожалуй. Но я куда лучше проектирую и делаю оружие, чем командую людьми."
+char_163_hpsts_CN_019,Depart,Can I stay behind and work? No?,就不能让我留下好好工作吗？,Нельзя ли мне остаться и поработать? Нет?
+char_163_hpsts_CN_020,Begin Operation,Hopeless imbeciles...,一群无可救药的家伙……,Беснадёжные тупицы...
+char_163_hpsts_CN_021,Selecting Operator 1,Yes?,哦。,Да?
+char_163_hpsts_CN_022,Selecting Operator 2,Hmm?,嗯？,М?
+char_163_hpsts_CN_023,Deployment 1,I'm on it.,好的……,Сейчас...
+char_163_hpsts_CN_024,Deployment 2,Ready and waiting.,一切正常。,Всё готово.
+char_163_hpsts_CN_025,In Battle 1,Armed up!,武装起来。,К оружию!
+char_163_hpsts_CN_026,In Battle 2,Let the fires rage!,暴怒的烈焰啊！,"Пламя, взбушуйся!"
+char_163_hpsts_CN_027,In Battle 3,I don't need healing.,我不需要治疗。,Мне не нужно лечение.
+char_163_hpsts_CN_028,In Battle 4,Your weapon will shatter under my next blow!,下一击，就破坏掉你的武器！,Следующим ударом я сломаю твоё оружие!
+char_163_hpsts_CN_029,4-star Result,Please bring me any enemy equipment you find. I want to know what they're making now.,捡到敌人的装备就让我看看，我想知道现在他们都在做些什么。,"Приносите мне трофейное оружие — хочу знать, что они теперь делают."
+char_163_hpsts_CN_030,3-star Result,"A victory, just as planned! This is why we need high-quality equipment for our fighters.",意料之中的胜利！这就是为什么人需要依靠好的装备。,"Победа, как и планировалось! Вот почему бойцу нужно хорошее снаряжение."
+char_163_hpsts_CN_031,Sub 3-star Result,Please submit damage reports for all of your equipment. I'll work on repairs when we get back.,把各自装备的破损情况提交给我，回去之后我会统一检修。,Подайте отчёты о повреждениях — по возвращении я всё отремонтирую.
+char_163_hpsts_CN_032,Operation Failure,My skills are still lacking…,是我技艺不精……,Моё мастерство ещё несовершенно...
+char_163_hpsts_CN_033,Assigned to Facility,Do you have a furnace here?,这里有熔炉吗？,У вас здесь есть горн?
+char_163_hpsts_CN_034,Tap,Argh...,啊啊……,А-а-ах...
+char_163_hpsts_CN_036,Trust Tap,Any equipment you have in mind? I can try making it for you.,想要什么好装备了吗？我可以试着帮你做出来。,Придумали что-нибудь стоящее? Я попробую сделать для вас.
+char_163_hpsts_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_163_hpsts_CN_038,New Year's blessing,"Happy New Year, Doctor. A moment please, I'm working the forge. In our trade, we believe that the flames must burn bright over the new year, so that we'll be able to craft strong equipment.",新年快乐，博士。稍等一下，我正在处理锻炉，干我们这行的有个习惯，新年燃起的炉火一定要旺盛，只有这样，打造出的装备才会好用。,"С Новым годом, Доктор. Одну минуту — я у горна. У нас в ремесле есть обычай: в новогоднюю ночь огонь в печи должен гореть ярко — только тогда оружие получится крепким."
+char_163_hpsts_CN_042,Greeting,"Good morning, Doctor.",早安，博士。,"Доброе утро, Доктор."
+char_163_hpsts_CN_043,Birthday,"Happy birthday, Doctor. I'm not precisely sure what to give you as a present, since you don't need weapons. But the bar has been mixing some new drinks lately, and they've still got the ones I like. So how about I buy you a drink?",生日快乐，博士。您不用武器，我也不知道该送什么礼物。吧台最近推了几款新饮品，我喜欢的那几款也没有下架，我去请您喝一杯吧。,"С днём рождения, Доктор. Вы не пользуетесь оружием, и я не знаю, что вам подарить. Но у стойки появились новые напитки, а те, что я люблю, ещё не убрали — позвольте угостить вас."
+char_163_hpsts_CN_044,Anniversary Celebration,"People at Rhodes Island are beginning to understand the wonders of weapons. I was used to being alone, but now I get a few regular visitors... not that I mind. It's kind of fun, actually. Sometimes I even feel like a few more would be nice.",罗德岛里喜爱武器的人越来越多了，我之前已经习惯了一个人，现在他们几个经常跑到我这里来……也挺有趣的，我不讨厌这种热闹，有时候还会觉得，也许再多几个也不是坏事。,"На Родосе становится всё больше людей, любящих оружие. Я привыкла быть одна, а теперь ко мне часто заходят... и не против. Даже забавно. Иногда думаю — может, и ещё несколько не помешало бы."

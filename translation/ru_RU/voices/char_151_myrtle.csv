@@ -1,38 +1,38 @@
-id,title,original,translation
-char_151_myrtle_CN_001,Appointed as Assistant,"Hey, Doctor. I'm here to hang!",
-char_151_myrtle_CN_002,Talk 1,"Doctor, don't look down on me just 'cause I'm little. Back where I'm from, all the kids looked up to me.",
-char_151_myrtle_CN_003,Talk 2,"Durin used the name of our race as her codename because she's so lazy, but isn't it kind of dumb how calling me 'Myrtle of Durin' made me sound like I belong to her or something?",
-char_151_myrtle_CN_004,Talk 3,"I understand how all the machines here work, but it still feels weird using them. Some have a lot of different parts, but some are surprisingly simple.",
-char_151_myrtle_CN_005,Talk after Promotion 1,"My banner? Good eye, Doctor. It sure is a tablecloth from my house. I sneaked it out with me because it can't get dirty. My dad is probably pretty mad about it!",
-char_151_myrtle_CN_006,Talk after Promotion 2,"Is my apple really that great? They're popular back home. You can study or play with it if you want, Doctor, just don't break it.",
-char_151_myrtle_CN_007,Talk after Trust Increase 1,"There are still many things I'm not used to on land, but I love the many delicious foods. The cafe on Rhodes Island is my favorite!",
-char_151_myrtle_CN_008,Talk after Trust Increase 2,"I do have to point out the fact, Doctor, that I am a full-grown adult! And I'm tall by Durin standards! Please tell everyone to stop patting me on the head and giving me candy!",
-char_151_myrtle_CN_009,Talk after Trust Increase 3,"Say, Doctor, are you interested in my homeland? I can take you there! But it's pretty far, so wait till I'm in the mood.",
-char_151_myrtle_CN_010,Idle,Are you taking a break? You can use my banner as a blanket.,
-char_151_myrtle_CN_011,Onboard,"Reporting in! You must be the Doctor? Call me Myrtle, Myrtle of Durin. Durin said I could get a job here, so what have you got for me? I may be small, but I'm tough!",
-char_151_myrtle_CN_012,Watching Battle Record,"Cool fight... Got some more, Doctor?",
-char_151_myrtle_CN_013,Promotion 1,"Oh, did I get promoted? Does that mean I can go somewhere I couldn't before?",
-char_151_myrtle_CN_014,Promotion 2,I told you I'm tough! Told you!,
-char_151_myrtle_CN_017,Added to Squad,There's a mission? I wanna go!,
-char_151_myrtle_CN_018,Appointed as Squad Leader,Don't anyone wander away.,
-char_151_myrtle_CN_019,Depart,Let's go!,
-char_151_myrtle_CN_020,Begin Operation,"Don't worry, you got me!",
-char_151_myrtle_CN_021,Selecting Operator 1,Hmm?,
-char_151_myrtle_CN_022,Selecting Operator 2,"Whoa, almost dozed off...",
-char_151_myrtle_CN_023,Deployment 1,"Good scenery here, Doctor!",
-char_151_myrtle_CN_024,Deployment 2,I'm here to help!,
-char_151_myrtle_CN_025,In Battle 1,I have to get serious now!,
-char_151_myrtle_CN_026,In Battle 2,"Gather around me, guys!",
-char_151_myrtle_CN_027,In Battle 3,"We're counting on you again today, little apple.",
-char_151_myrtle_CN_029,4-star Result,"Phew, I'm exhausted! I wanna go to lie down, Doctor.",
-char_151_myrtle_CN_030,3-star Result,"Flawless victory! I was pretty good, wasn't I, Doctor?",
-char_151_myrtle_CN_031,Sub 3-star Result,"We won, Doctor, and that's what counts!",
-char_151_myrtle_CN_032,Operation Failure,Run!,
-char_151_myrtle_CN_033,Assigned to Facility,"Wow, Rhodes Island is huge!",
-char_151_myrtle_CN_034,Tap,"Hey, that is fun!",
-char_151_myrtle_CN_036,Trust Tap,Why can't the cafe open 24 hours?,
-char_151_myrtle_CN_037,Title,Arknights.,
-char_151_myrtle_CN_038,New Year's blessing,"Take the flag down, tie it up over here... Good! That's my cloth sack done! Oh, Doctor, you're here, too. Come, we'll eat up all the tasty food in the canteen! It's the first day of the year. Let's kick it off by eating our fill!",
-char_151_myrtle_CN_042,Greeting,"Any more fun things to do, Doctor?",
-char_151_myrtle_CN_043,Birthday,"So, Doctor, today's your birthday, huh? Then as a mature adult, let me give you a little present. Hm, Doctor, kneel down a little... Ahem-hem. Good job, good job... Alright! That was a compliment from the Generalissimo herself. You did well, Doctor.",
-char_151_myrtle_CN_044,Anniversary Celebration,"I guess I followed Durin to a pretty nice place. I've seen huge nomadic cities, beaten up so many baddies in battle, and eaten so many great foods I'd never seen before. Once I get home, I'll turn all these stories into a travelogue and get it published. It's bound to be a bestseller!",
+id,title,original,original_zh,translation
+char_151_myrtle_CN_001,Appointed as Assistant,"Hey, Doctor. I'm here to hang!",博士，我来找你玩啦~,"Доктор, я пришла с тобой поиграть~"
+char_151_myrtle_CN_002,Talk 1,"Doctor, don't look down on me just 'cause I'm little. Back where I'm from, all the kids looked up to me.",博士，你可不要小看我，在我的老家，第一大道还有三条商店街的孩子们可都是听我号令的。,"Доктор, ты меня не недооценивай! У меня дома, на первой авеню и в трёх торговых рядах, все дети слушаются меня."
+char_151_myrtle_CN_003,Talk 2,"Durin used the name of our race as her codename because she's so lazy, but isn't it kind of dumb how calling me 'Myrtle of Durin' made me sound like I belong to her or something?",虽然杜林肯定是因为懒得想才直接拿我们族的名字当代号，但是这样我就被占便宜了欸，“杜林的桃金娘”，听起来不像是她的所有物了吗？,"Дулин, наверное, просто поленился придумать имя и взял название нашего рода как позывной, но от этого я в проигрыше: «Миртл из Дулинов» — разве это не звучит так, будто я чья-то собственность?"
+char_151_myrtle_CN_004,Talk 3,"I understand how all the machines here work, but it still feels weird using them. Some have a lot of different parts, but some are surprisingly simple.",这里的器械虽然原理我都懂，但是用起来感觉好奇怪欸，有的有好多多余的部分，有的又意外的简便。,"Принцип работы местных механизмов я понимаю, но пользоваться ими ощущение очень странное: у одних слишком много лишнего, у других — наоборот, всё неожиданно просто."
+char_151_myrtle_CN_005,Talk after Promotion 1,"My banner? Good eye, Doctor. It sure is a tablecloth from my house. I sneaked it out with me because it can't get dirty. My dad is probably pretty mad about it!",这面旗子？啊，博士你眼光不错喔，这面布是我家的桌布，因为怎么也弄不脏所以离家前被我偷偷带出来了，啊哈哈，爸爸现在肯定气死了。,"Этот флаг? А, Доктор, глаз у вас хороший: ткань — скатерть из нашего дома, она никак не пачкалась, вот я её и утащила, когда уходила. А-ха-ха, папа сейчас наверняка в ярости."
+char_151_myrtle_CN_006,Talk after Promotion 2,"Is my apple really that great? They're popular back home. You can study or play with it if you want, Doctor, just don't break it.",欸，我的苹果很厉害吗？唔，在我家那边很普通吧。博士你要玩或者拿去研究的话可以借你，别弄坏了就行~,"Эй, мои яблоки такие важные? Мм, у нас дома это обычное дело. Хотите поиграть или изучить — берите, только не сломайте~"
+char_151_myrtle_CN_007,Talk after Trust Increase 1,"There are still many things I'm not used to on land, but I love the many delicious foods. The cafe on Rhodes Island is my favorite!",地上虽然有很多我还不适应的地方，不过好吃的东西真的有好多，我最喜欢罗德岛的食堂啦！,"На поверхности многое для меня в новинку, но вкусной еды правда очень много — больше всего я люблю столовую «Родоса»!"
+char_151_myrtle_CN_008,Talk after Trust Increase 2,"I do have to point out the fact, Doctor, that I am a full-grown adult! And I'm tall by Durin standards! Please tell everyone to stop patting me on the head and giving me candy!",博士，我必须要严肃地指出一个事实，那就是，我已经成年了！而且在杜林里，我的身高是偏高的！你要告诉其他人，不要看到我就下意识地摸我头，还给我塞零食！,"Доктор, я должна серьёзно вам указать один факт: я уже взрослая! И среди Дулинов я даже высокая! Расскажите всем, пусть не трогают мне голову и не пихают закуски, едва меня увидят!"
+char_151_myrtle_CN_009,Talk after Trust Increase 3,"Say, Doctor, are you interested in my homeland? I can take you there! But it's pretty far, so wait till I'm in the mood.",我说，博士，你对我的家乡感兴趣吗？我可以带你回去看看！不过，因为回家要走超久的路，所以等我有心情的时候再说吧~,"Слушай, Доктор, тебе интересен мой родной край? Я могу тебя туда сводить! Только дорога домой очень долгая, так что — когда у меня будет настроение~"
+char_151_myrtle_CN_010,Idle,Are you taking a break? You can use my banner as a blanket.,博士要休息一下吗，那我旗子借你盖盖。,"Доктор, хотите отдохнуть? Тогда я дам вам свой флаг — прикройтесь."
+char_151_myrtle_CN_011,Onboard,"Reporting in! You must be the Doctor? Call me Myrtle, Myrtle of Durin. Durin said I could get a job here, so what have you got for me? I may be small, but I'm tough!",我来报到啦！你就是博士对吧？可以叫我桃金娘，杜林族的桃金娘。杜林说在这里能找到工作，所以，有什么我能做的事吗？别看我个子小，我还挺厉害的哦。,"Я пришла устраиваться! Вы Доктор, верно? Зовите меня Миртл, Миртл из Дулинов. Дулин сказал, что тут можно найти работу, — так что есть мне чем заняться? Не смотрите, что я маленькая, я довольно ловкая!"
+char_151_myrtle_CN_012,Watching Battle Record,"Cool fight... Got some more, Doctor?",嗯，嗯……这场打的有意思，还有吗，博士？,"Мм, мм... Веселый бой был, ещё есть, Доктор?"
+char_151_myrtle_CN_013,Promotion 1,"Oh, did I get promoted? Does that mean I can go somewhere I couldn't before?",咦，我升职了吗？那我可不可以去一些之前不能去的地方看看？,"Эй, меня повысили? Значит, можно туда, куда раньше не пускали?"
+char_151_myrtle_CN_014,Promotion 2,I told you I'm tough! Told you!,我一开始就说了嘛，我可是挺厉害的呢！嗯——哼！,"Я же с самого начала говорила, что я ловкая! Мм — хм!"
+char_151_myrtle_CN_017,Added to Squad,There's a mission? I wanna go!,任务？我去我去！,"Задание? Я пойду, я пойду!"
+char_151_myrtle_CN_018,Appointed as Squad Leader,Don't anyone wander away.,大家不要离我太远哦。,"Все, не отходите от меня далеко."
+char_151_myrtle_CN_019,Depart,Let's go!,出——发——！,Впе-рёд —!
+char_151_myrtle_CN_020,Begin Operation,"Don't worry, you got me!",有我在，大家放心上吧！,"Со мной вы всё равно что с стеной, спокойно!"
+char_151_myrtle_CN_021,Selecting Operator 1,Hmm?,嗯？,Мм?
+char_151_myrtle_CN_022,Selecting Operator 2,"Whoa, almost dozed off...",呼啊，差点睡着了……,"Фух, чуть не уснула..."
+char_151_myrtle_CN_023,Deployment 1,"Good scenery here, Doctor!",博士，这里景色还不错欸！,"Доктор, здесь неплохой вид!"
+char_151_myrtle_CN_024,Deployment 2,I'm here to help!,我来帮助其他人！,Я помогу остальным!
+char_151_myrtle_CN_025,In Battle 1,I have to get serious now!,我可要认真起来啦！,Я теперь по-настоящему начну!
+char_151_myrtle_CN_026,In Battle 2,"Gather around me, guys!",大家快来我身边~,"Все, ко мне~"
+char_151_myrtle_CN_027,In Battle 3,"We're counting on you again today, little apple.",小苹果，今天也拜托你啦。,"Маленькое яблочко, сегодня тоже на тебя надеюсь."
+char_151_myrtle_CN_029,4-star Result,"Phew, I'm exhausted! I wanna go to lie down, Doctor.",呼、呼，累死我了，博士，我想回去睡觉。,"Фу, фу, я управлась, Доктор, хочу обратно спать."
+char_151_myrtle_CN_030,3-star Result,"Flawless victory! I was pretty good, wasn't I, Doctor?",大获全胜！博士，我有派上用场吧？,"Полная победа! Доктор, я пригодилась?"
+char_151_myrtle_CN_031,Sub 3-star Result,"We won, Doctor, and that's what counts!",赢了就好嘛，博士，妈妈说过，斤斤计较老得快哦。,"Победа — и ладно, Доктор, мама говорила, что если всё время считать обиды, то стареешь быстро."
+char_151_myrtle_CN_032,Operation Failure,Run!,大家快跑！,"Все, бегите!"
+char_151_myrtle_CN_033,Assigned to Facility,"Wow, Rhodes Island is huge!",哇，罗德岛真大！,"Ого, «Родос» такой большой!"
+char_151_myrtle_CN_034,Tap,"Hey, that is fun!",咦，这样好有趣！,"Эй, как это интересно!"
+char_151_myrtle_CN_036,Trust Tap,Why can't the cafe open 24 hours?,食堂为什么不能24小时都开着呢？,Почему столовую нельзя открыть круглосуточно?
+char_151_myrtle_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_151_myrtle_CN_038,New Year's blessing,"Take the flag down, tie it up over here... Good! That's my cloth sack done! Oh, Doctor, you're here, too. Come, we'll eat up all the tasty food in the canteen! It's the first day of the year. Let's kick it off by eating our fill!",把旗子取下来，这边打一个结，好，布兜这样就做好了！啊博士，你也在呀。走吧，让我们去把食堂里好吃的扫荡一空！新年第一天，就由大吃一顿开始吧！,"Снимаю флаг, завязываю здесь узел — готово, сумка-мешок получилась! А, Доктор, вы тоже здесь. Пойдём, опустошим столовую! Первый день нового года начнём с хорошего обеда!"
+char_151_myrtle_CN_042,Greeting,"Any more fun things to do, Doctor?",博士，有什么有趣的事情吗？,"Доктор, что-нибудь интересное есть?"
+char_151_myrtle_CN_043,Birthday,"So, Doctor, today's your birthday, huh? Then as a mature adult, let me give you a little present. Hm, Doctor, kneel down a little... Ahem-hem. Good job, good job... Alright! That was a compliment from the Generalissimo herself. You did well, Doctor.",原来今天是博士的生日啊。那么作为一个成熟的大人，就让我给博士一点奖励吧。嘿哟，博士，你稍微蹲下一点……好乖好乖——这是大将军的表扬哦。博士，你做得很棒啦。,"Так сегодня день рождения Доктора! Тогда как взрослая я дам Доктору награду. Эй, Доктор, присядь чуть ниже... Хорошая девочка, хорошая — это похвала от главнокомандующего. Доктор, вы отлично постарались!"
+char_151_myrtle_CN_044,Anniversary Celebration,"I guess I followed Durin to a pretty nice place. I've seen huge nomadic cities, beaten up so many baddies in battle, and eaten so many great foods I'd never seen before. Once I get home, I'll turn all these stories into a travelogue and get it published. It's bound to be a bestseller!",跟着杜林来到了一个不错的地方呢。见过了巨大的移动城市，在战场上打过了许多坏人，还吃到了许多没见过的美食。等我回到老家，把这些故事写成游记出版的话，一定会畅销的！,"С Дулином мы попали в неплохое место: видела огромный движущийся город, сражалась на поле боя со злодеями, пробовала угощения, каких раньше не знала. Вернусь домой — запишу всё в путевой дневник и издам: непременно станет бестселлером!"

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_118_yuki_CN_001,Appointed as Assistant,"Shirayuki, at your service.",
-char_118_yuki_CN_002,Talk 1,"Princess Fumizuki is my master, and you're my employer.",
-char_118_yuki_CN_003,Talk 2,"My hobby? Standing on the coast, watching the snow fall.",
-char_118_yuki_CN_004,Talk 3,My affiliation? Secret.,
-char_118_yuki_CN_005,Talk after Promotion 1,My birthplace? Higashi.,
-char_118_yuki_CN_006,Talk after Promotion 2,"My weapon? A shuriken, the Silver Wind, made by Eastern Heavy Industries.",
-char_118_yuki_CN_007,Talk after Trust Increase 1,Favorite food? Sushi.,
-char_118_yuki_CN_008,Talk after Trust Increase 2,My age? Confidential.,
-char_118_yuki_CN_009,Talk after Trust Increase 3,My duty? Protecting you.,
-char_118_yuki_CN_010,Idle,How tranquil...,
-char_118_yuki_CN_011,Onboard,I am Shirayuki. Princess Fumizuki told me to assist Miss Ch'en and follow all your orders.,
-char_118_yuki_CN_012,Watching Battle Record,You have my gratitude.,
-char_118_yuki_CN_013,Promotion 1,"A promotion? I, Shirayuki, am honored.",
-char_118_yuki_CN_014,Promotion 2,"I, Shirayuki, may devote greater strength to you.",
-char_118_yuki_CN_017,Added to Squad,Understood.,
-char_118_yuki_CN_018,Appointed as Squad Leader,Orders received.,
-char_118_yuki_CN_019,Depart,Commencing operation.,
-char_118_yuki_CN_020,Begin Operation,A snowstorm will bury this battlefield.,
-char_118_yuki_CN_021,Selecting Operator 1,Very well.,
-char_118_yuki_CN_022,Selecting Operator 2,Ready.,
-char_118_yuki_CN_023,Deployment 1,Roger.,
-char_118_yuki_CN_024,Deployment 2,Understood.,
-char_118_yuki_CN_025,In Battle 1,Exterminate.,
-char_118_yuki_CN_026,In Battle 2,Shatter.,
-char_118_yuki_CN_027,In Battle 3,All ends on the wind.,
-char_118_yuki_CN_028,In Battle 4,Sever.,
-char_118_yuki_CN_029,4-star Result,"The enemy dies, I advance. I advance, the enemy dies.",
-char_118_yuki_CN_030,3-star Result,The enemy has fallen. Total victory.,
-char_118_yuki_CN_031,Sub 3-star Result,"Of their ranks, some flee. Wariness, a must.",
-char_118_yuki_CN_032,Operation Failure,"Should we fight again, we will return the favor one hundredfold.",
-char_118_yuki_CN_033,Assigned to Facility,A very nice room.,
-char_118_yuki_CN_034,Tap,Here.,
-char_118_yuki_CN_036,Trust Tap,"Your consideration, I, Shirayuki, will engrave upon my heart.",
-char_118_yuki_CN_037,Title,Arknights.,
-char_118_yuki_CN_038,New Year's blessing,Happy New Year. May all proceed as you will it.,
-char_118_yuki_CN_042,Greeting,"Yes, employer?",
-char_118_yuki_CN_043,Birthday,"Happy birthday. Please take this present. No, 'tis no bidding of the Princess.",
-char_118_yuki_CN_044,Anniversary Celebration,"I, ShiraYuki, here ever keep my watch. In duty, and our bonds.",
+id,title,original,original_zh,translation
+char_118_yuki_CN_001,Appointed as Assistant,"Shirayuki, at your service.",白雪，随时守候。,"Сираюки, всегда к вашим услугам."
+char_118_yuki_CN_002,Talk 1,"Princess Fumizuki is my master, and you're my employer.",文月公主是我的主上，你是我的雇主。,"Принцесса Фумицуки — моя госпожа, вы — мой наниматель."
+char_118_yuki_CN_003,Talk 2,"My hobby? Standing on the coast, watching the snow fall.",爱好？海岬，看雪。,"Хобби? Мыс, вид на снег."
+char_118_yuki_CN_004,Talk 3,My affiliation? Secret.,所属？机密。,Принадлежность? Секретно.
+char_118_yuki_CN_005,Talk after Promotion 1,My birthplace? Higashi.,出身？东国。,Происхождение? Хигаси.
+char_118_yuki_CN_006,Talk after Promotion 2,"My weapon? A shuriken, the Silver Wind, made by Eastern Heavy Industries.",武器？手里剑·银风，东方重工制造。,"Оружие? Сярикэн «Серебряный ветер», изготовлен «Восточной тяжёлой промышленностью»."
+char_118_yuki_CN_007,Talk after Trust Increase 1,Favorite food? Sushi.,喜欢的食物？鮨。,Любимая еда? Суши.
+char_118_yuki_CN_008,Talk after Trust Increase 2,My age? Confidential.,年龄？无可奉告。,Возраст? Не подлежит разглашению.
+char_118_yuki_CN_009,Talk after Trust Increase 3,My duty? Protecting you.,职责？保护你。,Долг? Защищать вас.
+char_118_yuki_CN_010,Idle,How tranquil...,……寂静。,...Тишина.
+char_118_yuki_CN_011,Onboard,I am Shirayuki. Princess Fumizuki told me to assist Miss Ch'en and follow all your orders.,白雪，依照文月公主的嘱托，协助陈小姐行动，并听从你的差遣。,Сираюки. По воле принцессы Фумицуки я буду помогать мисс Чэнь и повиноваться вашим приказам.
+char_118_yuki_CN_012,Watching Battle Record,You have my gratitude.,感谢。,Благодарю.
+char_118_yuki_CN_013,Promotion 1,"A promotion? I, Shirayuki, am honored.",晋升？白雪领命。,Повышение? Сираюки повинуется.
+char_118_yuki_CN_014,Promotion 2,"I, Shirayuki, may devote greater strength to you.",白雪，愿为你献上更多力量。,Сираюки готова отдать вам ещё больше сил.
+char_118_yuki_CN_017,Added to Squad,Understood.,明白。,Понятно.
+char_118_yuki_CN_018,Appointed as Squad Leader,Orders received.,领命。,Принято.
+char_118_yuki_CN_019,Depart,Commencing operation.,行动开始。,Начинаем операцию.
+char_118_yuki_CN_020,Begin Operation,A snowstorm will bury this battlefield.,风雪将掩埋这片战场。,Метель погребёт это поле боя.
+char_118_yuki_CN_021,Selecting Operator 1,Very well.,好。,Хорошо.
+char_118_yuki_CN_022,Selecting Operator 2,Ready.,准备。,Готова.
+char_118_yuki_CN_023,Deployment 1,Roger.,了解。,Ясно.
+char_118_yuki_CN_024,Deployment 2,Understood.,明白。,Понятно.
+char_118_yuki_CN_025,In Battle 1,Exterminate.,入灭。,Угасание.
+char_118_yuki_CN_026,In Battle 2,Shatter.,破碎。,Разбить.
+char_118_yuki_CN_027,In Battle 3,All ends on the wind.,无常之风。,Ветер непостоянства.
+char_118_yuki_CN_028,In Battle 4,Sever.,断绝。,Отсечь.
+char_118_yuki_CN_029,4-star Result,"The enemy dies, I advance. I advance, the enemy dies.",敌尽则我进，我进则敌尽。,Враги исчезнут — я пойду вперёд; пойду вперёд — и враги исчезнут.
+char_118_yuki_CN_030,3-star Result,The enemy has fallen. Total victory.,无人生还，大胜。,Никто не уцелел. Полная победа.
+char_118_yuki_CN_031,Sub 3-star Result,"Of their ranks, some flee. Wariness, a must.",还有漏网之鱼，不可大意。,Есть ушедшие — нельзя расслабляться.
+char_118_yuki_CN_032,Operation Failure,"Should we fight again, we will return the favor one hundredfold.",若再战，必将百倍奉还。,"Если сразимся снова, я верну сторицей."
+char_118_yuki_CN_033,Assigned to Facility,A very nice room.,一间很棒的屋子。,Прекрасная комната.
+char_118_yuki_CN_034,Tap,Here.,是。,Да.
+char_118_yuki_CN_036,Trust Tap,"Your consideration, I, Shirayuki, will engrave upon my heart.",你的关照，白雪定会铭记于心。,Вашу заботу Сираюки наверняка сохранит в сердце.
+char_118_yuki_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_118_yuki_CN_038,New Year's blessing,Happy New Year. May all proceed as you will it.,新年快乐，诸事如意。,С Новым годом. Да будет всё по вашей воле.
+char_118_yuki_CN_042,Greeting,"Yes, employer?",雇主，你好。,"Здравствуйте, наниматель."
+char_118_yuki_CN_043,Birthday,"Happy birthday. Please take this present. No, 'tis no bidding of the Princess.",恭贺诞辰。这是礼物，请收下。不，不是主上之命。,"Поздравляю с днём рождения. Это подарок, примите его. Нет, это не повеление госпожи."
+char_118_yuki_CN_044,Anniversary Celebration,"I, ShiraYuki, here ever keep my watch. In duty, and our bonds.",白雪，永远在此守候。职责所在，情义所在。,Сираюки всегда будет здесь. По долгу и по чувству.

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_237_gravel_CN_001,Appointed as Assistant,Aaaahhh! You want me to stay by your side? I can barely keep my heart in my chest!,
-char_237_gravel_CN_002,Talk 1,Fascinating...,
-char_237_gravel_CN_003,Talk 2,"Don't mind me, just continue with your work.",
-char_237_gravel_CN_004,Talk 3,"Hmm? What am I looking at? Why, you, of course!",
-char_237_gravel_CN_005,Talk after Promotion 1,"If that's what you ask, Doctor, I will do what it takes to become stronger.",
-char_237_gravel_CN_006,Talk after Promotion 2,Heheh... You don't need to worry about any ambushes or assassination attempts. Because I'll aaalways be here with you.,
-char_237_gravel_CN_007,Talk after Trust Increase 1,"Are you finally... a little bit interested in me now? Well, I've always been a big bit interested in you.",
-char_237_gravel_CN_008,Talk after Trust Increase 2,"Thanks for taking such good care of me these days. By my knighthood of Kazimierz, I hereby pledge to repay your kindness with my life—huh? You're not used to me talking this way? But I'm an honest-to-goodness knight. Surely I can improvise a speech or two.",
-char_237_gravel_CN_009,Talk after Trust Increase 3,"Ever since I was taken away to Kazimierz, it's rare for someone to be so kind to me. So, if you don't mind, Doctor... I, Gravel—no, I Senomy, on my honor as a knight, shall serve you always at your side.",
-char_237_gravel_CN_010,Idle,"When I'm here with you, don't you feel your heart racing?",
-char_237_gravel_CN_011,Onboard,"Mmmwah. Hm? What's wrong? Your face is beet red. That's just how I say hello. Don't think too much about it. Anyway, I'm Gravel, a knight of Kazimierz. It's a pleasure. Heheh.",
-char_237_gravel_CN_012,Watching Battle Record,"Are you the one who comes up with all the Rhodes Island's battle tactics, Doctor? Oh~ that's even more intriguing.",
-char_237_gravel_CN_013,Promotion 1,"You think I'm doing well, Doctor? Yaay!",
-char_237_gravel_CN_014,Promotion 2,"This means you need me, doesn't it? Heheh.",
-char_237_gravel_CN_017,Added to Squad,You want to go together? Hehe...,
-char_237_gravel_CN_018,Appointed as Squad Leader,Oh~ You chose me!,
-char_237_gravel_CN_019,Depart,I'll come with you~,
-char_237_gravel_CN_020,Begin Operation,Hehehe...,
-char_237_gravel_CN_021,Selecting Operator 1,Hmm?,
-char_237_gravel_CN_022,Selecting Operator 2,Any orders for me?,
-char_237_gravel_CN_023,Deployment 1,This is the place~,
-char_237_gravel_CN_024,Deployment 2,Surely a good spot.,
-char_237_gravel_CN_025,In Battle 1,I am your shadow.,
-char_237_gravel_CN_026,In Battle 2,Hehehe...,
-char_237_gravel_CN_027,In Battle 3,You really think you'll get away?,
-char_237_gravel_CN_028,In Battle 4,"Gather up, my rats!",
-char_237_gravel_CN_029,4-star Result,Of course the Doctor's tactics are flawless~,
-char_237_gravel_CN_030,3-star Result,My blade hasn't even been stained red yet... hehe...,
-char_237_gravel_CN_031,Sub 3-star Result,"Run all you like, let's see how far you can get.",
-char_237_gravel_CN_032,Operation Failure,Sorry... did I... mess up again...?,
-char_237_gravel_CN_033,Assigned to Facility,"Hmm, looks like there's a lot of good hiding places here in this room~",
-char_237_gravel_CN_034,Tap,Hehehe...,
-char_237_gravel_CN_036,Trust Tap,"Yes. I'm right here, always and forever.",
-char_237_gravel_CN_037,Title,Arknights.,
-char_237_gravel_CN_038,New Year's blessing,"Happy New Year, Doctor. Give me your hand—mmmwah—hm? What are you so surprised for? Kissing the hands of those we've sworn to protect is how us knights of Kazimierz celebrate the New Year, you know. You've never heard of it? Sounds like you need to pay a little more attention.",
-char_237_gravel_CN_042,Greeting,"How are you today, Doctor?",
-char_237_gravel_CN_043,Birthday,"How daring of you to tear open a gift package with no sender, Doctor. With that little caution, trouble's bound to come knocking sooner or later~ Actually, rather than being on my toes all day as your bodyguard, how about I just open these up for you, hm?",
-char_237_gravel_CN_044,Anniversary Celebration,"Doctor, does it ever keep you up at night... that you might never find any trace of your past again? Whenever I step out onto Rhodes Island's deck, I wonder, would walking away from here bring me any closer to my forgotten memories?... Say, Doctor, don't you know you're supposed to console me, when I bring down the mood like this?",
+id,title,original,original_zh,translation
+char_237_gravel_CN_001,Appointed as Assistant,Aaaahhh! You want me to stay by your side? I can barely keep my heart in my chest!,啊~啊~~要让我守在您身边吗？这样的指示~真是令我心跳加速呢~~,"Ах~ Ах~~ Хотите, чтобы я осталась рядом с вами? От такого приказа у меня прямо сердце колотится~"
+char_237_gravel_CN_002,Talk 1,Fascinating...,……真是有意思呢。,...Очень интересно...
+char_237_gravel_CN_003,Talk 2,"Don't mind me, just continue with your work.",不用管我哦，请继续您的工作就好~,"Не обращайте на меня внимания, продолжайте работу~"
+char_237_gravel_CN_004,Talk 3,"Hmm? What am I looking at? Why, you, of course!",嗯？我在看什么？在看你哟。,"Эй, на что я смотрю? На вас, конечно!"
+char_237_gravel_CN_005,Talk after Promotion 1,"If that's what you ask, Doctor, I will do what it takes to become stronger.",如果您需要的话，我也会尽力去变强的~,"Если вы попросите, я постараюсь стать сильнее~"
+char_237_gravel_CN_006,Talk after Promotion 2,Heheh... You don't need to worry about any ambushes or assassination attempts. Because I'll aaalways be here with you.,嘻嘻……这样一来，您就不必担心会受到突然袭击了哦~因为——我可一直在你的身边呐~,Хи-хи... Теперь вам нечего бояться внезапного нападения — ведь я всё время рядом с вами~
+char_237_gravel_CN_007,Talk after Trust Increase 1,"Are you finally... a little bit interested in me now? Well, I've always been a big bit interested in you.",您也稍微对我有些兴趣了吗？我可是一直对您很感兴趣呢。,Вы наконец-то немного заинтересовались мной? Я-то давно вами интересуюсь.
+char_237_gravel_CN_008,Talk after Trust Increase 2,"Thanks for taking such good care of me these days. By my knighthood of Kazimierz, I hereby pledge to repay your kindness with my life—huh? You're not used to me talking this way? But I'm an honest-to-goodness knight. Surely I can improvise a speech or two.",最近这段时间承蒙您照顾了，以卡西米尔骑士之名起誓，必定以身回报此恩……唔，不习惯？我怎么说也是正规骑士出身，说辞总是学过几句的呢。,"Спасибо, что заботились обо мне в последнее время. Клянусь своим рыцарским званием Казимежа — отплачу вам тем же... Эй, не привыкли к такому? Я всё-таки настоящий рыцарь, пару слов я выучить успела."
+char_237_gravel_CN_009,Talk after Trust Increase 3,"Ever since I was taken away to Kazimierz, it's rare for someone to be so kind to me. So, if you don't mind, Doctor... I, Gravel—no, I Senomy, on my honor as a knight, shall serve you always at your side.",自从我被拐到卡西米尔后，已经很久没人对我这样温柔了。所以您若是不嫌弃，以骑士的荣耀起誓，我砾，不，我塞诺蜜将永远侍奉于您左右。,"С тех пор как меня увезли в Казимеж, редко кто был со мной так добр. Так если вы не против, клянусь рыцарской честью: я, Гравель — нет, я Сеноми — буду всегда служить вам."
+char_237_gravel_CN_010,Idle,"When I'm here with you, don't you feel your heart racing?",我守在这里，有没有让你感到心跳加速呢？,"Когда я здесь, у вас сердце колотится?"
+char_237_gravel_CN_011,Onboard,"Mmmwah. Hm? What's wrong? Your face is beet red. That's just how I say hello. Don't think too much about it. Anyway, I'm Gravel, a knight of Kazimierz. It's a pleasure. Heheh.",啾——嗯？怎么脸红了？这只是初见的问候，可没什么其他的意思哦。那么，卡西米尔骑士砾，就请您多有包涵啦，嘻嘻。,"Чмок — эй, почему покраснели? Это просто приветствие при встрече, не думайте ни о чём. Итак, Гравель, рыцарь Казимежа — рада знакомству, хи-хи."
+char_237_gravel_CN_012,Watching Battle Record,"Are you the one who comes up with all the Rhodes Island's battle tactics, Doctor? Oh~ that's even more intriguing.",罗德岛的战术都是博士您安排的吗？这就令人很感兴趣了呢……,"Все тактики Родоса придумываете вы, Доктор? О, это ещё интереснее~"
+char_237_gravel_CN_013,Promotion 1,"You think I'm doing well, Doctor? Yaay!",这是博士您的认可吗？真开心！！,"Это ваше одобрение, Доктор? Я так рада!!"
+char_237_gravel_CN_014,Promotion 2,"This means you need me, doesn't it? Heheh.",这是意味着您很需要我对吧？嘻嘻……,"Это значит, что вы во мне нуждаетесь, да? Хи-хи..."
+char_237_gravel_CN_017,Added to Squad,You want to go together? Hehe...,一起行动吗？嘻嘻……,Вместе? Хи-хи...
+char_237_gravel_CN_018,Appointed as Squad Leader,Oh~ You chose me!,被选中了呢~,Меня выбрали~
+char_237_gravel_CN_019,Depart,I'll come with you~,我们一起去吧~,Пойдём вместе~
+char_237_gravel_CN_020,Begin Operation,Hehehe...,把敌人给……嘻嘻……,Врагов... хи-хи...
+char_237_gravel_CN_021,Selecting Operator 1,Hmm?,嗯？,Эй?
+char_237_gravel_CN_022,Selecting Operator 2,Any orders for me?,您有指示？,Есть приказ?
+char_237_gravel_CN_023,Deployment 1,This is the place~,就这里了！,Вот здесь!
+char_237_gravel_CN_024,Deployment 2,Surely a good spot.,是个好阵地。,Хорошая позиция.
+char_237_gravel_CN_025,In Battle 1,I am your shadow.,我是你的影子。,Я — твоя тень.
+char_237_gravel_CN_026,In Battle 2,Hehehe...,嘻嘻……,Хи-хи...
+char_237_gravel_CN_027,In Battle 3,You really think you'll get away?,你走得了吗？,"Думаешь, уйдёшь?"
+char_237_gravel_CN_028,In Battle 4,"Gather up, my rats!",鼠群，聚集起来吧！,"Крысы, собирайтесь!"
+char_237_gravel_CN_029,4-star Result,Of course the Doctor's tactics are flawless~,您的战术真的是完美无缺呢~,Тактика Доктора поистине безупречна~
+char_237_gravel_CN_030,3-star Result,My blade hasn't even been stained red yet... hehe...,刀还没染红就结束了，嘻嘻……,"Клинок ещё не покраснел, а уже всё кончено, хи-хи..."
+char_237_gravel_CN_031,Sub 3-star Result,"Run all you like, let's see how far you can get.",逃吧，你们还能逃多远呢。,"Бегите, бегите — куда вы снова сможете убежать?"
+char_237_gravel_CN_032,Operation Failure,Sorry... did I... mess up again...?,对不起，我……又失误了吗……,Простите... я опять облажалась...?
+char_237_gravel_CN_033,Assigned to Facility,"Hmm, looks like there's a lot of good hiding places here in this room~",这个房间，好像有很多可以躲藏的地方呢~,"Кажется, в этой комнате много хороших укрытий~"
+char_237_gravel_CN_034,Tap,Hehehe...,嘻嘻……,Хи-хи...
+char_237_gravel_CN_036,Trust Tap,"Yes. I'm right here, always and forever.",是的，我在这里，一直都在呢……,"Да, я здесь — всё время и навсегда..."
+char_237_gravel_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_237_gravel_CN_038,New Year's blessing,"Happy New Year, Doctor. Give me your hand—mmmwah—hm? What are you so surprised for? Kissing the hands of those we've sworn to protect is how us knights of Kazimierz celebrate the New Year, you know. You've never heard of it? Sounds like you need to pay a little more attention.",新年快乐，博士，请给我您的手——啾——嗯？为什么突然做这种事？亲吻缔结守护誓约之人的手，就是我们卡西米尔骑士庆祝新年的仪式呀~没有听说过？您也要关心关心这方面的事情呀。,"С Новым годом, Доктор, дайте мне вашу руку — чмок — эй, чему вы удивлены? Целовать руки тех, кому мы поклялись служить, — вот как рыцари Казимежа встречают Новый год. Не слышали? Вам стоит больше интересоваться такими вещами."
+char_237_gravel_CN_042,Greeting,"How are you today, Doctor?",今天还好吗，博士~,"Как вы себя чувствуете сегодня, Доктор~"
+char_237_gravel_CN_043,Birthday,"How daring of you to tear open a gift package with no sender, Doctor. With that little caution, trouble's bound to come knocking sooner or later~ Actually, rather than being on my toes all day as your bodyguard, how about I just open these up for you, hm?",博士，毫无警惕地拆开没有署名的礼物可是很危险的，这样疏于防范，可是会出事的哦~身为博士的护卫，这种日子就最应该一直守护左右呀，就让我来为你查明里面都放了些什么吧。,"Доктор, вскрывать безымянный подарок без оглядки — опасно. Столь беспечно — и беда не заставит себя ждать~ Как ваша охрана, я в такие дни должна быть особенно начеку... Лучше я сама посмотрю, что там."
+char_237_gravel_CN_044,Anniversary Celebration,"Doctor, does it ever keep you up at night... that you might never find any trace of your past again? Whenever I step out onto Rhodes Island's deck, I wonder, would walking away from here bring me any closer to my forgotten memories?... Say, Doctor, don't you know you're supposed to console me, when I bring down the mood like this?",博士，你会因为找不回过去的一切痕迹而……无法安眠吗？当踏上罗德岛的甲板时我在想，走出去，会不会就能和自己遗忘的记忆更近一点？博士，这种时候，安慰我才是解风情的做法哦~,"Доктор, вас когда-нибудь не давал покоя мысль, что вы никогда больше не найдёте следа своего прошлого?.. Когда я выхожу на палубу Родоса, я думаю: а если уйти отсюда, стану ли я ближе к забытым воспоминаниям?.. Доктор, в такие моменты утешить меня — значит быть галантным~"

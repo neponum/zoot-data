@@ -1,35 +1,35 @@
-id,title,original,translation
-char_122_beagle_CN_001,Appointed as Assistant,"Doctor, I'm your guard for the day! Don't worry, I won't let any sketchy people near you! Just relax!",
-char_122_beagle_CN_002,Talk 1,"My training score for today...? Um, I mean, we could talk about something else...",
-char_122_beagle_CN_003,Talk 2,"I can't shake the pre-battle jitters, and that makes Captain Fang really nervous too... What should I do? Doctor!",
-char_122_beagle_CN_004,Talk 3,"Hibiscus and Lava always complain to me about each other, but both of them are my good friends, and neither of them are wrong... Doctor, what should I do?",
-char_122_beagle_CN_005,Talk after Promotion 1,"Instructor Dobermann always told us, 'Even when after you finish your training, your number one goal on the battlefield is to stay alive.' Urgh... How can I become as strong and awesome as she is?",
-char_122_beagle_CN_007,Talk after Trust Increase 1,"I'm still a rookie Operator, but I'm working hard! Hehehe, I'd really love a compliment or two, if you agree.",
-char_122_beagle_CN_008,Talk after Trust Increase 2,"My Oripathy? It doesn't bother me all that much, I'm used to it. I just want to be with the people I care about until my disease gets cured... Ughh...",
-char_122_beagle_CN_009,Talk after Trust Increase 3,"I didn't have much confidence before I came here, but I'm so glad that I can protect you and everyone on Rhodes Island! It's my dream to protect everyone! I really wish days like these could last forever.",
-char_122_beagle_CN_010,Idle,Aww... seeing the Doctor sleeping all vulnerable like that makes me want to doodle something on a certain someone's face...,
-char_122_beagle_CN_011,Onboard,"My codename is Beagle! I know I didn't do very well on my assessment, but I'll still do my best at my internship!",
-char_122_beagle_CN_012,Watching Battle Record,I did it! I've become stronger!,
-char_122_beagle_CN_013,Promotion 1,"Finally, FINALLY! Now nobody's going to call me 'the Rookiest Rookie in the Rookieverse' anymore!",
-char_122_beagle_CN_017,Added to Squad,I'll do all I can!,
-char_122_beagle_CN_018,Appointed as Squad Leader,Huh? I am the leader? I don't feel right about Fang not being the leader...,
-char_122_beagle_CN_019,Depart,"Everyone, let's roll out!",
-char_122_beagle_CN_020,Begin Operation,"Everyone, enemies incoming!",
-char_122_beagle_CN_021,Selecting Operator 1,Grant me strength!,
-char_122_beagle_CN_022,Selecting Operator 2,Is it my turn?,
-char_122_beagle_CN_023,Deployment 1,Target location reached!,
-char_122_beagle_CN_024,Deployment 2,This is the place!,
-char_122_beagle_CN_025,In Battle 1,Haah!,
-char_122_beagle_CN_026,In Battle 2,Watch this!,
-char_122_beagle_CN_029,4-star Result,"It's my duty to protect everyone! My resolve will never falter, no matter the odds!",
-char_122_beagle_CN_030,3-star Result,All enemies have been defeated! We Rhodes Island Operators are the finest!,
-char_122_beagle_CN_031,Sub 3-star Result,"Hooray, we won! Although a few enemies managed to get away... *sigh*...",
-char_122_beagle_CN_032,Operation Failure,I'm sorry... so sorry...,
-char_122_beagle_CN_033,Assigned to Facility,What can I do for you?,
-char_122_beagle_CN_034,Tap,Doctor! Th-That tickles!,
-char_122_beagle_CN_036,Trust Tap,"Doctor, can I come to your place to study every day?",
-char_122_beagle_CN_037,Title,Arknights.,
-char_122_beagle_CN_038,New Year's blessing,"Doctor, Happy New Year! Today's a day off, right? So that should mean we don't have to go to training... But just a minute ago, I saw Instructor Dobermann and a bunch of other operators at the training grounds. Maybe that means I should go too...",
-char_122_beagle_CN_042,Greeting,"Hi, Doctor!",
-char_122_beagle_CN_043,Birthday,"D-Doctor, happy birthday! Huh? I—I'm not nervous, not at all. We got you a birthday present, so can you come visit the dorms real quick? But you'll want to be careful! And please don't tell Kroos I was the one who warned you!",
-char_122_beagle_CN_044,Anniversary Celebration,"I think—what scares me more than Oripathy is the idea of separating from my friends. I love being here at Rhodes Island with everyone, and making a bunch of new friends too! As long as I keep doing what I can to get stronger, I'll be able to protect them all!",
+id,title,original,original_zh,translation
+char_122_beagle_CN_001,Appointed as Assistant,"Doctor, I'm your guard for the day! Don't worry, I won't let any sketchy people near you! Just relax!",博士，今天我来担当您的护卫！放心，不会让可疑的人接近您的！,"Доктор, сегодня я буду вашим стражем! Не волнуйтесь, я не подпущу к вам никого подозрительного!"
+char_122_beagle_CN_002,Talk 1,"My training score for today...? Um, I mean, we could talk about something else...",我今天的训练成绩单……吗？呃，那个，您还是别看啦……,"Мои результаты тренировок за сегодня?.. Э-э, того... лучше не смотрите..."
+char_122_beagle_CN_003,Talk 2,"I can't shake the pre-battle jitters, and that makes Captain Fang really nervous too... What should I do? Doctor!",每次战斗前我总是紧张得不得了，害得芬队长也要为我捏一把汗……我该怎么办好呢？博士><！,"Перед каждым боем я так нервничаю, что даже капитан Фанг за меня переживает... Что мне делать, Доктор?><!"
+char_122_beagle_CN_004,Talk 3,"Hibiscus and Lava always complain to me about each other, but both of them are my good friends, and neither of them are wrong... Doctor, what should I do?",芙蓉和炎熔总是来找我抱怨对方，可她们都是我的好朋友，各自的说法也都很有道理……博士，我该怎么办才好啊……？,"Гибискус и Лава всё время приходят жаловаться друг на друга, но они обе мои хорошие подруги, и у каждой свои резоны... Доктор, что мне делать...?"
+char_122_beagle_CN_005,Talk after Promotion 1,"Instructor Dobermann always told us, 'Even when after you finish your training, your number one goal on the battlefield is to stay alive.' Urgh... How can I become as strong and awesome as she is?",杜宾老师总是教育我们——“就算新人期结束，实战中也要以保命为优先“——这样的话。呜~不甘心，什么时候才能变成她那样帅气又强大的人呢？,"Инструктор Доберманн всегда говорит: «Даже когда ты уже не новичок, в бою первое дело — остаться в живых». У-у, обидно! Когда же я стану такой же красивой и сильной, как она?"
+char_122_beagle_CN_007,Talk after Trust Increase 1,"I'm still a rookie Operator, but I'm working hard! Hehehe, I'd really love a compliment or two, if you agree.",作为干员我还是新人，不过我也正在努力不是吗？嘿嘿，如果您也觉得我有进步，希望您能多多夸奖我一下……,"Я всё ещё новичок среди оперативников, но я же стараюсь! Хи-хи, если вы тоже находите, что я прогрессирую, пожалуйста, хвалите меня побольше..."
+char_122_beagle_CN_008,Talk after Trust Increase 2,"My Oripathy? It doesn't bother me all that much, I'm used to it. I just want to be with the people I care about until my disease gets cured... Ughh...",矿石病吗？已经不是很在意了，因为感觉和以前也没有多大的区别嘛~不过果然还是，希望和大家永远在一起，在病痊愈之前，一直在一起……呜……,"Орипатия? Я уже не так переживаю — мне кажется, особой разницы нет~ Но всё равно... хочу быть со всеми всегда, пока болезнь не излечится, всё время быть вместе... У-у..."
+char_122_beagle_CN_009,Talk after Trust Increase 3,"I didn't have much confidence before I came here, but I'm so glad that I can protect you and everyone on Rhodes Island! It's my dream to protect everyone! I really wish days like these could last forever.",其实来这里之前，我对自己是没什么自信的……但是现在我能做到保护博士和大家了，真的很高兴！能保护所有人是我的梦想！所以，我也希望，如果这样的日子能一直持续下去就好了。,"На самом деле до прихода сюда я в себя почти не верила... А теперь я могу защищать Доктора и всех остальных — я так рада! Защитить всех — моя мечта! Поэтому мне так хочется, чтобы такие дни длились вечно."
+char_122_beagle_CN_010,Idle,Aww... seeing the Doctor sleeping all vulnerable like that makes me want to doodle something on a certain someone's face...,……好想在睡着的博士脸上恶作剧啊。,...Так хочется подшутить над спящим Доктором.
+char_122_beagle_CN_011,Onboard,"My codename is Beagle! I know I didn't do very well on my assessment, but I'll still do my best at my internship!",我是米格鲁！虽然，招募评定的成绩不太理想，但就算作为实习生我也会努力帮忙的！,"Я — Бигл! Хотя результаты призывной оценки не слишком хорошие, я всё равно буду стараться, даже будучи стажёром!"
+char_122_beagle_CN_012,Watching Battle Record,I did it! I've become stronger!,做到了！我变得更强啦！,Получилось! Я стала сильнее!
+char_122_beagle_CN_013,Promotion 1,"Finally, FINALLY! Now nobody's going to call me 'the Rookiest Rookie in the Rookieverse' anymore!",这样、这样的话！就不会被人喊“宇宙级新人！”啦！,Тогда-тогда! Меня больше не будут называть «новичком из вселенной новичков!»
+char_122_beagle_CN_017,Added to Squad,I'll do all I can!,我会加油的！,Я постараюсь!
+char_122_beagle_CN_018,Appointed as Squad Leader,Huh? I am the leader? I don't feel right about Fang not being the leader...,欸，我是队长？不是芬做队长真的好吗？,"Эй, я капитан? Правда хорошо, что капитаном не Фанг?"
+char_122_beagle_CN_019,Depart,"Everyone, let's roll out!",各位，出发了！,"Все, вперёд!"
+char_122_beagle_CN_020,Begin Operation,"Everyone, enemies incoming!",各位，敌人来了哟！,"Все, враги идут!"
+char_122_beagle_CN_021,Selecting Operator 1,Grant me strength!,请给我勇气！,Дайте мне смелости!
+char_122_beagle_CN_022,Selecting Operator 2,Is it my turn?,要我上吗？,Моя очередь?
+char_122_beagle_CN_023,Deployment 1,Target location reached!,抵达目标地点了！,Прибыли на цель!
+char_122_beagle_CN_024,Deployment 2,This is the place!,就是这里！,Здесь!
+char_122_beagle_CN_025,In Battle 1,Haah!,哈~！,Ха~!
+char_122_beagle_CN_026,In Battle 2,Watch this!,看我~的！,Смотрите на меня~!
+char_122_beagle_CN_029,4-star Result,"It's my duty to protect everyone! My resolve will never falter, no matter the odds!",保护大家是我的使命！不管有什么困难，这个信念都不会动摇！,"Защищать всех — моя миссия! Что бы ни случилось, эта вера не поколеблется!"
+char_122_beagle_CN_030,3-star Result,All enemies have been defeated! We Rhodes Island Operators are the finest!,敌人一个不漏的全都击溃了！罗德岛的各位是最棒的！,"Все до одного разбиты! Вы, оперативники Родоса, — лучше всех!"
+char_122_beagle_CN_031,Sub 3-star Result,"Hooray, we won! Although a few enemies managed to get away... *sigh*...",赢了赢了！不过，还是稍稍放走了几个敌人，欸嘿嘿……,"Победа, победа! Только вот парочка врагов всё-таки ушла, э-э-э-хи..."
+char_122_beagle_CN_032,Operation Failure,I'm sorry... so sorry...,对不起……对不起……,Простите... простите...
+char_122_beagle_CN_033,Assigned to Facility,What can I do for you?,我能帮你什么忙吗？,Чем я могу помочь?
+char_122_beagle_CN_034,Tap,Doctor! Th-That tickles!,博士！很、很痒的！,Доктор! О-очень щекотно!
+char_122_beagle_CN_036,Trust Tap,"Doctor, can I come to your place to study every day?",博士，我可以每天都去您那里学习吗？,"Доктор, можно я каждый день буду приходить к вам учиться?"
+char_122_beagle_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_122_beagle_CN_038,New Year's blessing,"Doctor, Happy New Year! Today's a day off, right? So that should mean we don't have to go to training... But just a minute ago, I saw Instructor Dobermann and a bunch of other operators at the training grounds. Maybe that means I should go too...",新年快乐！博士，今天是假期对吧！那应该，是可以不用训练的吧……可是我刚刚看到，杜宾教官还有好几个前辈都在训练场，我是不是也应该去呢……,"С Новым годом! Доктор, сегодня же выходной, верно? Значит, тренировки можно не делать... Но я только что видела инструктора Доберманн и ещё нескольких старших на плацу — может, мне тоже туда идти...?"
+char_122_beagle_CN_042,Greeting,"Hi, Doctor!",你好呀，博士。,"Здравствуйте, Доктор!"
+char_122_beagle_CN_043,Birthday,"D-Doctor, happy birthday! Huh? I—I'm not nervous, not at all. We got you a birthday present, so can you come visit the dorms real quick? But you'll want to be careful! And please don't tell Kroos I was the one who warned you!",博士，生、生日快乐！啊？我、我才没有紧张。博士，我们为您准备了生日礼物，可以请您到宿舍来一下吗？但是一定要小心一点哦！也请不要告诉克洛丝是我提醒您的！,"Доктор, с-с днём рождения! А? Я со-всем не волнуюсь. Доктор, мы подготовили вам подарок — не могли бы вы зайти в общежитие? Только будьте осторожны! И, пожалуйста, не говорите Крус, что это я вас предупредила!"
+char_122_beagle_CN_044,Anniversary Celebration,"I think—what scares me more than Oripathy is the idea of separating from my friends. I love being here at Rhodes Island with everyone, and making a bunch of new friends too! As long as I keep doing what I can to get stronger, I'll be able to protect them all!",比起矿石病，感觉还是和大家分开更可怕。现在能和大家一起来到罗德岛，又认识了不少新的朋友，我已经很开心啦！只要我继续努力变强，就一定可以保护好大家！,"По сравнению с орипатией мне страшнее расстаться со всеми. Сейчас я здесь, на Родосе, со всеми, и приобрела много новых друзей — я так счастлива! Стоит мне и дальше стараться становиться сильнее, и я непременно смогу защитить всех!"

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_350_surtr_CN_001,Appointed as Assistant,"You couldn't even finish the work you're supposed to do, so you're asking me for help?",
-char_350_surtr_CN_002,Talk 1,Stop sending me to teach people Originium Arts. I have no interest in wasting time with common people.,
-char_350_surtr_CN_003,Talk 2,I'm not here because I have to be. Just because I want to be.,
-char_350_surtr_CN_004,Talk 3,The people I hate most are the ones who ask too many questions. I hope you are not one of them.,
-char_350_surtr_CN_005,Talk after Promotion 1,"Looks like you understand my Arts now, to some degree. I hope you're aware of the danger as well.",
-char_350_surtr_CN_006,Talk after Promotion 2,"Before I realized it, these Arts and this staff became my most loyal friends. I don't remember when I gained this power. And of course, I don't actually care.",
-char_350_surtr_CN_007,Talk after Trust Increase 1,"I have all kinds of memories. I don't know where they came from, and I don't know which ones are really mine. I've been traveling back and forth, from country to country trying to find the source. And now, here I am at Rhodes Island.",
-char_350_surtr_CN_008,Talk after Trust Increase 2,"When I'm all caught up in chaotic memories, there's nothing better than an ice cream to calm me down. I relied a lot on ice cream, when I was alone.",
-char_350_surtr_CN_009,Talk after Trust Increase 3,"The memories from after I came to Rhodes Island are completely different from the ones before. There's a sense of realism to them. For the first time, I feel like I'm really myself. That's all thanks to you, and the rest of Rhodes Island… What? I <i>am</i> capable of giving thanks where it's deserved, alright?",
-char_350_surtr_CN_010,Idle,Hmph… what a waste of time.,
-char_350_surtr_CN_011,Onboard,"I am Surtr. Are you the Doctor they mentioned? I'll be working at Rhodes Island, starting today. I hope you won't bore me too much.",
-char_350_surtr_CN_012,Watching Battle Record,That's it?,
-char_350_surtr_CN_013,Promotion 1,What? You're starting to value me now that you know my power?,
-char_350_surtr_CN_014,Promotion 2,"So it's not my power, but me myself? Hmph, you leave me no choice but to pay it back with hard work.",
-char_350_surtr_CN_017,Added to Squad,Am I needed?,
-char_350_surtr_CN_018,Appointed as Squad Leader,I alone am enough.,
-char_350_surtr_CN_019,Depart,Time to go.,
-char_350_surtr_CN_020,Begin Operation,Are they the ones I'm eliminating?,
-char_350_surtr_CN_021,Selecting Operator 1,Don't order me around.,
-char_350_surtr_CN_022,Selecting Operator 2,"Enough, I get it.",
-char_350_surtr_CN_023,Deployment 1,Not a bad position.,
-char_350_surtr_CN_024,Deployment 2,I'm on it!,
-char_350_surtr_CN_025,In Battle 1,Die!,
-char_350_surtr_CN_026,In Battle 2,You can run but you can't hide!,
-char_350_surtr_CN_027,In Battle 3,Laevatain!,
-char_350_surtr_CN_028,In Battle 4,Foolish morons!,
-char_350_surtr_CN_029,4-star Result,Hmph. Piece of cake.,
-char_350_surtr_CN_030,3-star Result,Naturally.,
-char_350_surtr_CN_031,Sub 3-star Result,Can you not even do such a simple thing?,
-char_350_surtr_CN_032,Operation Failure,"If you can't help, just run! I'll handle this.",
-char_350_surtr_CN_033,Assigned to Facility,"This room is clean enough, I guess.",
-char_350_surtr_CN_034,Tap,I can find my own way.,
-char_350_surtr_CN_036,Trust Tap,"Quiet, please.",
-char_350_surtr_CN_037,Title,Arknights.,
-char_350_surtr_CN_038,New Year's blessing,"This day has always irritated me a little. Time goes by one year after another, and my memories also drift further and further away... Hmph, forget it. Hey you, come take a stroll with me on the deck. Maybe some cold wind will help calm me down.",
-char_350_surtr_CN_042,Greeting,"Oh, here you are.",
-char_350_surtr_CN_043,Birthday,"Happy birthday. You remember your birthday, even though you're amnesiac. That has to mean that something really important must've happened on this day… Um, I have your birthday memorized now, and I won't forget it this time.",
-char_350_surtr_CN_044,Anniversary Celebration,"For now, I still don't have a way to find my past self, but the process has also shaped who I am today. My days here at Rhodes Island are an important part of that. Doctor, we still have a lot of time together ahead of us. Keep your faith in my sword.",
+id,title,original,original_zh,translation
+char_350_surtr_CN_001,Appointed as Assistant,"You couldn't even finish the work you're supposed to do, so you're asking me for help?",你连自己的分内之事都完成不了，需要我来帮忙？,"Не можешь даже свою работу сделать, а просишь помощи у меня?"
+char_350_surtr_CN_002,Talk 1,Stop sending me to teach people Originium Arts. I have no interest in wasting time with common people.,不要让我去给其他人做法术指导了，我可没兴趣去跟一群普通人玩源石技艺游戏。,Не посылай меня больше объяснять Искусства Ориджиниума другим. Нет у меня желания играть с простыми людьми.
+char_350_surtr_CN_003,Talk 2,I'm not here because I have to be. Just because I want to be.,我会在这里不是因为我需要在这里，只是因为我想而已。,"Я здесь не потому, что должна. Просто потому, что хочу."
+char_350_surtr_CN_004,Talk 3,The people I hate most are the ones who ask too many questions. I hope you are not one of them.,我最讨厌的就是不停问为什么的人，希望你不是。,"Больше всего я ненавижу тех, кто задаёт слишком много вопросов. Надеюсь, ты не из них."
+char_350_surtr_CN_005,Talk after Promotion 1,"Looks like you understand my Arts now, to some degree. I hope you're aware of the danger as well.",看来你已经对我的源石技艺有所了解了，希望你自己也清楚其危险性。,"Похоже, ты уже отчасти разобралась в моих Искусствах. Надеюсь, ты понимаешь и насколько они опасны."
+char_350_surtr_CN_006,Talk after Promotion 2,"Before I realized it, these Arts and this staff became my most loyal friends. I don't remember when I gained this power. And of course, I don't actually care.",反应过来的时候，源石技艺和这把法杖已经伴随着我了。我一点都不记得什么时候得到了这样的能力，当然我也并不在意。,"Не успела я оглянуться, как эти Искусства и этот посох стали моими самыми верными друзьями. Не помню, когда я получила такую силу. И, разумеется, мне всё равно."
+char_350_surtr_CN_007,Talk after Trust Increase 1,"I have all kinds of memories. I don't know where they came from, and I don't know which ones are really mine. I've been traveling back and forth, from country to country trying to find the source. And now, here I am at Rhodes Island.",我有着各种各样的记忆，我也不知道它们是怎么来的，我也不知道哪些是真正属于我的。为了找到记忆的来源，我一直在各个国家中来回旅行，而现在来到了罗德岛。,"У меня самые разные воспоминания. Я не знаю, откуда они, и не знаю, какие из них по-настоящему мои. Я всё ездила из страны в страну в поисках их источника — и вот теперь я на Родосе."
+char_350_surtr_CN_008,Talk after Trust Increase 2,"When I'm all caught up in chaotic memories, there's nothing better than an ice cream to calm me down. I relied a lot on ice cream, when I was alone.",没有什么比一份冰淇淋更能让我从混乱的记忆中冷静下来了，以前我还是一个人的时候多亏了它们。,"Нет ничего лучше мороженого, чтобы остыть в хаосе воспоминаний. Когда я была одна, я очень на него полагалась."
+char_350_surtr_CN_009,Talk after Trust Increase 3,"The memories from after I came to Rhodes Island are completely different from the ones before. There's a sense of realism to them. For the first time, I feel like I'm really myself. That's all thanks to you, and the rest of Rhodes Island… What? I <i>am</i> capable of giving thanks where it's deserved, alright?",在罗德岛的记忆跟以前的那些完全不同，充满了真实感，第一次让我觉得自己就是自己。这一切也多亏了你和罗德岛的大家。……干嘛，该感谢的时候我还是会感谢的好吧？,"Воспоминания с тех пор, как я пришла на Родос, совсем другие — в них есть ощущение реальности. Впервые я чувствую, что я — это я. И всё это благодаря вам с Родосом... Что? Я <i>умею</i> благодарить, когда нужно, ладно?"
+char_350_surtr_CN_010,Idle,Hmph… what a waste of time.,啧……浪费时间。,Тьфу... какая пустая трата времени.
+char_350_surtr_CN_011,Onboard,"I am Surtr. Are you the Doctor they mentioned? I'll be working at Rhodes Island, starting today. I hope you won't bore me too much.",我是史尔特尔，你就是他们说的博士吗。今后我会在罗德岛工作，希望你们不要让我觉得无聊。,"Я — Суртр. Вы тот самый Доктор, о котором говорили? С сегодняшнего дня я буду работать на Родосе. Надеюсь, вы не будете слишком скучным."
+char_350_surtr_CN_012,Watching Battle Record,That's it?,就这样？,И это всё?
+char_350_surtr_CN_013,Promotion 1,What? You're starting to value me now that you know my power?,见识过我的实力之后，开始重视我了？,"Что, теперь, узнав мою силу, ты стал меня ценить?"
+char_350_surtr_CN_014,Promotion 2,"So it's not my power, but me myself? Hmph, you leave me no choice but to pay it back with hard work.",看重的不是这能力，而是我本身？既然你都这样说了，那我也拿出相应的努力来回报你吧。,"Значит, ты ценишь не силу, а меня саму? Хмф, тогда ничего не поделаешь — придётся отплатить тебе старанием."
+char_350_surtr_CN_017,Added to Squad,Am I needed?,需要我了吗。,Я нужна?
+char_350_surtr_CN_018,Appointed as Squad Leader,I alone am enough.,我一个人就够了。,Меня одной достаточно.
+char_350_surtr_CN_019,Depart,Time to go.,出发了。,Пора идти.
+char_350_surtr_CN_020,Begin Operation,Are they the ones I'm eliminating?,要消灭的就是他们吗。,"Это те, кого я должна уничтожить?"
+char_350_surtr_CN_021,Selecting Operator 1,Don't order me around.,不要对我指手画脚。,Не командуй мной.
+char_350_surtr_CN_022,Selecting Operator 2,"Enough, I get it.",不要多说，我知道。,"Хватит, я поняла."
+char_350_surtr_CN_023,Deployment 1,Not a bad position.,不错的地方。,Неплохое место.
+char_350_surtr_CN_024,Deployment 2,I'm on it!,我上了！,Я иду!
+char_350_surtr_CN_025,In Battle 1,Die!,去死吧！,Умри!
+char_350_surtr_CN_026,In Battle 2,You can run but you can't hide!,一个也别想逃走。,Никто не уйдёт.
+char_350_surtr_CN_027,In Battle 3,Laevatain!,莱万汀！,Лаэватайн!
+char_350_surtr_CN_028,In Battle 4,Foolish morons!,愚蠢的家伙！,Глупцы!
+char_350_surtr_CN_029,4-star Result,Hmph. Piece of cake.,哼，小菜一碟。,Хмф. Раз плюнуть.
+char_350_surtr_CN_030,3-star Result,Naturally.,理所当然。,Само собой.
+char_350_surtr_CN_031,Sub 3-star Result,Can you not even do such a simple thing?,连这么简单的事情都做不好吗。,Неужто даже это тебе не поддаётся?
+char_350_surtr_CN_032,Operation Failure,"If you can't help, just run! I'll handle this.",没用的人都赶快撤退！这里我来。,Если не можешь помочь — беги! Я здесь разберусь.
+char_350_surtr_CN_033,Assigned to Facility,"This room is clean enough, I guess.",还算是干净的房间。,Комната и так достаточно чистая.
+char_350_surtr_CN_034,Tap,I can find my own way.,我知道自己走。,"Я знаю, куда идти."
+char_350_surtr_CN_036,Trust Tap,"Quiet, please.",安静。,"Тише, пожалуйста."
+char_350_surtr_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_350_surtr_CN_038,New Year's blessing,"This day has always irritated me a little. Time goes by one year after another, and my memories also drift further and further away... Hmph, forget it. Hey you, come take a stroll with me on the deck. Maybe some cold wind will help calm me down.",这个日子总是让我有些烦躁，时间年复一年地过去，我离过去的记忆越来越远……哼，不想这些了。喂，陪我去甲板上走走吧。吹吹冷风，或许可以让我冷静下来。,"Этот день всегда меня раздражал. Время идёт год за годом, а воспоминания всё дальше и дальше... Хмф, хватит об этом. Эй, пойдём со мной на палубу, подышим холодным ветром — может, я успокоюсь."
+char_350_surtr_CN_042,Greeting,"Oh, here you are.",啊，你在这里。,"А, вот ты где."
+char_350_surtr_CN_043,Birthday,"Happy birthday. You remember your birthday, even though you're amnesiac. That has to mean that something really important must've happened on this day… Um, I have your birthday memorized now, and I won't forget it this time.",生日快乐。作为失忆的人居然还记得自己的生日，说明这个日子一定发生过很重要的事吧……嗯，我记住你的生日了，这次绝不会忘的。,"С днём рождения. Ты при потере памяти всё же помнишь свой день рождения — значит, в этот день случилось что-то очень важное... Э-э, я запомнила твою дату. На этот раз я точно не забуду."
+char_350_surtr_CN_044,Anniversary Celebration,"For now, I still don't have a way to find my past self, but the process has also shaped who I am today. My days here at Rhodes Island are an important part of that. Doctor, we still have a lot of time together ahead of us. Keep your faith in my sword.",我暂时还没有办法找回过去的自己，但是找寻的过程也塑造了现在的自己。在罗德岛待过的这些日子，也是其中重要的一部分。博士，接下来我们还有很长一段时间要共处，尽管相信我的剑吧。,"Пока я всё ещё не знаю, как вернуть прошлое, но сам поиск тоже сформировал меня сегодняшнюю. Дни, проведённые на Родосе, — важная их часть. Доктор, нам ещё долго быть вместе. Положись на мой меч."

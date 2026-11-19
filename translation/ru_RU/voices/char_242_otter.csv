@@ -1,39 +1,39 @@
-id,title,original,translation
-char_242_otter_CN_001,Appointed as Assistant,"Structural design, industrial R&D, scientific research. You name it, and I can do it, Doctor.",
-char_242_otter_CN_002,Talk 1,"The Engineering Department never approve my proposals. Do they have any bias toward me? What should I do... Oh! Actually, Doctor, would you please submit this suggestion on improvement for me? It's a deal then!",
-char_242_otter_CN_003,Talk 2,"There are many workshops like mine in Rhine Lab, but what takes others six weeks to finish, I can have it done in one. I'm not boasting!",
-char_242_otter_CN_004,Talk 3,"DO NOT interrupt me when I'm doing my research, or I'll have my Meeboos bite you! And I will bite you too!",
-char_242_otter_CN_005,Talk after Promotion 1,"At night I'm always full of inspiration... and the… urgency to sleep! No, I can't bear it... Where's the pillow... I need to rest...",
-char_242_otter_CN_006,Talk after Promotion 2,"Hm? Why are these cuties called Meeboos? That's because they go 'meeee-boooo' when they boot up. So I named them after that. Fitting, don't you think? Just listen and you'll get it. You press this switch to... NONONONO, That's the self-destruct button! Ahhhhhh run！",
-char_242_otter_CN_007,Talk after Trust Increase 1,"That girl who just passed by... that was Silence, right? If only back then... Oh, sorry, the non-disclosure agreement is still in effect. I should keep my mouth shut.",
-char_242_otter_CN_008,Talk after Trust Increase 2,"I feel kinda empty when I've got nothing to do... I guess that's just how engineers are. I bet even you have to idle your time away on occasion, Doctor. Huh? You don't?",
-char_242_otter_CN_009,Talk after Trust Increase 3,"Doctor, may I request... No! Not 10 square meters! I asked for too much last time, so this time... all I need is 3! W-Wait! Don't leave yet! 1 square meter, just 1 more for my research will do! Please, Doctor, I'm begging you...",
-char_242_otter_CN_010,Idle,"Geez... where's the coffeemaker... Oh, there it is... You want some too, Doctor?",
-char_242_otter_CN_011,Onboard,"Lutra Workshop of Rhine Lab, at your service. Yup, I run the workshop on my own. No assistance needed. Amazing, right?",
-char_242_otter_CN_012,Watching Battle Record,This structure... Interesting. I'll look into it.,
-char_242_otter_CN_013,Promotion 1,This raise came just in time! I can afford to upgrade my equipment now.,
-char_242_otter_CN_014,Promotion 2,"I promised that you'd not be disappointed. Now look what I have! Surely kept my end of the bargain, didn't I?",
-char_242_otter_CN_017,Added to Squad,"Time to go, Meeboos!",
-char_242_otter_CN_018,Appointed as Squad Leader,Commanding both Operators and my Meeboos at the same time is a bit much even for me...,
-char_242_otter_CN_019,Depart,Hopefully we can get some useful experiment data!,
-char_242_otter_CN_020,Begin Operation,"Come on, Meeboo, show them what Rhine Lab's technology can do!",
-char_242_otter_CN_021,Selecting Operator 1,Whoa!,
-char_242_otter_CN_022,Selecting Operator 2,Careful! Be gentle with it!,
-char_242_otter_CN_023,Deployment 1,Handle with care!,
-char_242_otter_CN_024,Deployment 2,Precision equipment isn't cheap!,
-char_242_otter_CN_025,In Battle 1,"Get 'em, Meeboo #3!",
-char_242_otter_CN_026,In Battle 2,"Bite 'em, Meeboo!",
-char_242_otter_CN_027,In Battle 3,"If anything breaks, just make another one!",
-char_242_otter_CN_028,In Battle 4,My Meeboos are more than just machines!,
-char_242_otter_CN_029,4-star Result,"Come on, Meeboo! Show everyone your victory dance!",
-char_242_otter_CN_030,3-star Result,Nice! We practically rolled over them!,
-char_242_otter_CN_031,Sub 3-star Result,The device is slightly damaged. I'll fix it in no time.,
-char_242_otter_CN_032,Operation Failure,Oh no! My Meeboo...! I'll need to make more...,
-char_242_otter_CN_033,Assigned to Facility,Now I want a new workshop!,
-char_242_otter_CN_034,Tap,"Whuah?! Hey, I'm working here!",
-char_242_otter_CN_036,Trust Tap,"Doctor, let me touch your head! Inspiration can strike, you know!",
-char_242_otter_CN_037,Title,Arknights.,
-char_242_otter_CN_038,New Year's blessing,"Happy New Year, Doctor! I love New Year's, there's always so much to eat when you go out, even if you miss the canteen's dinner time! I wish every day could be like that... Ouch! Alright, fine Meeboo, I'll eat on time, you're hurting me!",
-char_242_otter_CN_042,Greeting,"Heya, Doctor!",
-char_242_otter_CN_043,Birthday,"Your birthday present? A literal piece of cake! Here's a cake sample, complete with blueprint, recipe, and a mass-production line ready for full rollout! How's that?",
-char_242_otter_CN_044,Anniversary Celebration,"What is research for, Doctor? My former coworkers say I can be surprisingly shallow, but if I were only in it for the money or fame, there are better ways. I just want to help advance technology, even by a little bit. And here, I can do that.",
+id,title,original,original_zh,translation
+char_242_otter_CN_001,Appointed as Assistant,"Structural design, industrial R&D, scientific research. You name it, and I can do it, Doctor.",建筑设计，工业研发，科学研究，只要博士想得到的，我都能做到。,"Архитектурное проектирование, промышленные разработки, научные исследования — всё, что только можешь придумать, Доктор, я могу сделать."
+char_242_otter_CN_002,Talk 1,"The Engineering Department never approve my proposals. Do they have any bias toward me? What should I do... Oh! Actually, Doctor, would you please submit this suggestion on improvement for me? It's a deal then!",工程部的人每次都不认可我的提案，是不是不喜欢我啊，怎么办……对了博士，你去代我提交下这份改进意见吧！就这么定了！,"Люди из инженерного отдела каждый раз не одобряют мои предложения. Может, они меня не любят? Что делать... Ах, Доктор, подайте за меня эту поправку! Решено!"
+char_242_otter_CN_003,Talk 2,"There are many workshops like mine in Rhine Lab, but what takes others six weeks to finish, I can have it done in one. I'm not boasting!",莱茵生命里像我这样的工作室还有很多啦，但别的工作室三周才能完成一半的任务，我一周就能搞定。这可不是在吹牛哦。,"В Рейн Лаб таких мастерских, как моя, немало. Но то, что другие делают за три недели наполовину, я довожу до конца за одну. Это не хвастовство!"
+char_242_otter_CN_004,Talk 3,"DO NOT interrupt me when I'm doing my research, or I'll have my Meeboos bite you! And I will bite you too!",我做研究的时候千万别打扰我，我是会让咪波咬你的！我自己也会！,"Когда я веду исследование, не смей меня отвлекать — я прикажу Мибо тебя укусить! И сама тоже укушу!"
+char_242_otter_CN_005,Talk after Promotion 1,"At night I'm always full of inspiration... and the… urgency to sleep! No, I can't bear it... Where's the pillow... I need to rest...",晚上总是会很有灵感呢……但又……非常困！不，不行了，枕头在哪……我要休息一下……,"По вечерам всегда приходит вдохновение... но ещё... ужасно хочется спать! Нет, больше не могу... где подушка... надо немного поспать..."
+char_242_otter_CN_006,Talk after Promotion 2,"Hm? Why are these cuties called Meeboos? That's because they go 'meeee-boooo' when they boot up. So I named them after that. Fitting, don't you think? Just listen and you'll get it. You press this switch to... NONONONO, That's the self-destruct button! Ahhhhhh run！",嗯？你想问为什么它们叫咪波？咪波是它的启动音效嘛，我觉得挺合适的。不像？那你可以摁下这个开关——等等！不是那个！那是自毁———呜啊啊啊，快跑！！,"М? Хочешь спросить, почему они называются Мибо? «Ми-бо» — это звук при включении, мне показалось подходящим. Не похоже? Тогда нажми этот переключатель... Стой! Не тот! Это самоуничтожение! А-а-а-а, беги!!"
+char_242_otter_CN_007,Talk after Trust Increase 1,"That girl who just passed by... that was Silence, right? If only back then... Oh, sorry, the non-disclosure agreement is still in effect. I should keep my mouth shut.",刚刚走过去的……是赫默吧。如果那时候……喔，抱歉，保密协议还没过期，我不该多嘴的。,"Та, что только что прошла... это Сайленс, да? Если бы тогда... Ой, прости, срок соглашения о неразглашении ещё не истёк, я не должна была говорить."
+char_242_otter_CN_008,Talk after Trust Increase 2,"I feel kinda empty when I've got nothing to do... I guess that's just how engineers are. I bet even you have to idle your time away on occasion, Doctor. Huh? You don't?",闲下来就只会感到空虚呢……工程师就是这样的人啦。博士也会无所事事吗？不会？,"Когда нечем заняться, сразу становится пусто... Мы, инженеры, такие. Доктор, вы тоже иногда бездельничаете? Нет?"
+char_242_otter_CN_009,Talk after Trust Increase 3,"Doctor, may I request... No! Not 10 square meters! I asked for too much last time, so this time... all I need is 3! W-Wait! Don't leave yet! 1 square meter, just 1 more for my research will do! Please, Doctor, I'm begging you...",博士，我能申请——不是！不用十平米！上次是我不对，这回——三平米就够了！别，别跑啊博士！一平米实用科研面积也行！求你了！,"Доктор, можно мне запросить... Нет! Не десять квадратных метров! В прошлый раз я перебрала, на этот раз — трёх достаточно! Не уходите, Доктор! Хотя бы один квадратный метр полезной площади! Умоляю!"
+char_242_otter_CN_010,Idle,"Geez... where's the coffeemaker... Oh, there it is... You want some too, Doctor?",哈啊……咖啡机在哪里……呼，博士你也要来点儿吗,"Ха-а... где кофемашина... Фух, Доктор, вам тоже налить?"
+char_242_otter_CN_011,Onboard,"Lutra Workshop of Rhine Lab, at your service. Yup, I run the workshop on my own. No assistance needed. Amazing, right?",莱茵生命所属，鲁特拉工作室，竭诚为您服务。是的，没有其他成员，我一人就是整个工作室。很厉害吧！,"Мастерская Лутра при Рейн Лаб к вашим услугам. Да, других членов нет — я вся мастерская. Здорово, правда?"
+char_242_otter_CN_012,Watching Battle Record,This structure... Interesting. I'll look into it.,这个结构——有些意思，我得研究一下。,Эта структура... любопытная. Надо её изучить.
+char_242_otter_CN_013,Promotion 1,This raise came just in time! I can afford to upgrade my equipment now.,这次涨薪可真是及时，我又能升级一下设备了。,Это повышение как раз вовремя — снова смогу обновить оборудование.
+char_242_otter_CN_014,Promotion 2,"I promised that you'd not be disappointed. Now look what I have! Surely kept my end of the bargain, didn't I?",我向您保证过一定能出成果，现在，怎么样，是不是很令人满意呀~,"Я обещала вам добиться результата. Ну что, как — довольны?"
+char_242_otter_CN_017,Added to Squad,"Time to go, Meeboos!",咪波们，该上场咯！,"Мибо, на выход!"
+char_242_otter_CN_018,Appointed as Squad Leader,Commanding both Operators and my Meeboos at the same time is a bit much even for me...,要同时指挥大家和咪波，就算是我也有点手忙脚乱……！,"Управлять одновременно и оперативниками, и Мибо — даже мне немного не по себе..."
+char_242_otter_CN_019,Depart,Hopefully we can get some useful experiment data!,这次也能得到良好的实验数据吧！,На этот раз мы опять получим хорошие данные!
+char_242_otter_CN_020,Begin Operation,"Come on, Meeboo, show them what Rhine Lab's technology can do!",上吧咪波，给敌人看看我们莱茵生命的技术力！,"Вперёд, Мибо! Покажем врагам силу технологий Рейн Лаб!"
+char_242_otter_CN_021,Selecting Operator 1,Whoa!,呜哇！,Уау!
+char_242_otter_CN_022,Selecting Operator 2,Careful! Be gentle with it!,小心，小心一点！,"Осторожно, осторожнее!"
+char_242_otter_CN_023,Deployment 1,Handle with care!,轻拿轻放！,"Бери мягко, ставь аккуратно!"
+char_242_otter_CN_024,Deployment 2,Precision equipment isn't cheap!,精密仪器是很贵重的！,Точные приборы очень дорогие!
+char_242_otter_CN_025,In Battle 1,"Get 'em, Meeboo #3!",去吧，咪波三号！,"Вперёд, Мибо номер три!"
+char_242_otter_CN_026,In Battle 2,"Bite 'em, Meeboo!",咪波，咬他！,"Мибо, кусай его!"
+char_242_otter_CN_027,In Battle 3,"If anything breaks, just make another one!",身体破损的话，再造一个就好了！,Если корпус повреждён — просто сделаем новый!
+char_242_otter_CN_028,In Battle 4,My Meeboos are more than just machines!,我的咪波们可不仅仅是机械那么简单！,Мои Мибо — вовсе не просто механизмы!
+char_242_otter_CN_029,4-star Result,"Come on, Meeboo! Show everyone your victory dance!",来~咪波！给大家跳支舞庆祝一下！,"Ну же, Мибо! Потанцуй для всех в честь победы!"
+char_242_otter_CN_030,3-star Result,Nice! We practically rolled over them!,嗯，就这样轻轻松松碾压敌人吧。,Вот так — легко и просто раздавить врага.
+char_242_otter_CN_031,Sub 3-star Result,The device is slightly damaged. I'll fix it in no time.,设备稍微有些缺损，修理一下就能继续工作了。,"Оборудование слегка повреждено — починю, и оно снова заработает."
+char_242_otter_CN_032,Operation Failure,Oh no! My Meeboo...! I'll need to make more...,不！咪波——！……只，只能再造几台身体了……,Нет! Мибо-о-о!.. Придётся... придётся сделать ему новое тело...
+char_242_otter_CN_033,Assigned to Facility,Now I want a new workshop!,我想要个新的工作室了！,Я хочу новую мастерскую!
+char_242_otter_CN_034,Tap,"Whuah?! Hey, I'm working here!",呜哇！我还在工作中啊！,Уаа! Я же ещё работаю!
+char_242_otter_CN_036,Trust Tap,"Doctor, let me touch your head! Inspiration can strike, you know!",博士，让我摸摸你的头，会很有灵感的！,"Доктор, дайте мне потрогать вашу голову — будет столько вдохновения!"
+char_242_otter_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_242_otter_CN_038,New Year's blessing,"Happy New Year, Doctor! I love New Year's, there's always so much to eat when you go out, even if you miss the canteen's dinner time! I wish every day could be like that... Ouch! Alright, fine Meeboo, I'll eat on time, you're hurting me!",呼啊，博士，新年快乐！我可真是太喜欢新年了，就算错过了饭点出门，外面也还是会有很多饭菜可以吃！要是每天都能这样就好——啊！咪波！我会按时吃饭啦，痛！,"Ха-а, Доктор, с Новым годом! Я так люблю Новый год: даже если опоздаешь к обеду, на улице всё равно найдётся что поесть! Вот бы каждый день был таким... Ай! Мибо! Я буду есть вовремя, больно!"
+char_242_otter_CN_042,Greeting,"Heya, Doctor!",博士！你好！,"Доктор, привет!"
+char_242_otter_CN_043,Birthday,"Your birthday present? A literal piece of cake! Here's a cake sample, complete with blueprint, recipe, and a mass-production line ready for full rollout! How's that?",哼哼，生日礼物这种小儿科的事可难不倒我！给，这是生日蛋糕的样品。连夜赶工出的图纸和配方，就连流水线我都备齐了，甚至能马上开工量产！怎么样，目瞪口呆了吧？,"Хм-хм, такой пустяк, как подарок на день рождения, меня не запугает! На: это образец торта. Чертёжи и рецепт я набросала за ночь, даже конвейер подготовила — можно хоть сейчас запускать массовое производство! Что, остолбенел?"
+char_242_otter_CN_044,Anniversary Celebration,"What is research for, Doctor? My former coworkers say I can be surprisingly shallow, but if I were only in it for the money or fame, there are better ways. I just want to help advance technology, even by a little bit. And here, I can do that.",科研究竟意味着什么呢，博士？之前的同事说我在某些地方莫名地想得浅，但如果只是为了财产，为了名声，那我换一种方式就能很快得到。我只是想让科技进步，哪怕只有一点点，这里就很好。,"Что же такое исследование, Доктор? Прежние коллеги говорили, что я в чём-то странно поверхностна... но если бы мне нужны были деньги или слава, я бы нашла способ получить их куда быстрее. Я просто хочу, чтобы наука продвинулась — пусть даже чуть-чуть. Здесь я могу это сделать."

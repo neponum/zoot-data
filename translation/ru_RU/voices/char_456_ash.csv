@@ -1,36 +1,36 @@
-id,title,original,translation
-char_456_ash_CN_001,Appointed as Assistant,Brace yourselves.,
-char_456_ash_CN_002,Talk 1,The most important thing my safta taught me was that life shouldn't have too many taboos.,
-char_456_ash_CN_003,Talk 2,Focus on the work at hand and don't jump to any conclusions.,
-char_456_ash_CN_004,Talk 3,Tachanka's taught me a thing or two about how to build defenses.,
-char_456_ash_CN_005,Talk after Promotion 1,"I have some questions, Doctor. I hope you can answer them for me.",
-char_456_ash_CN_006,Talk after Promotion 2,Overcoming obstacles and breaking down barriers makes a lot of things easier.,
-char_456_ash_CN_007,Talk after Trust Increase 1,"I'm willing to try, as long as the reward is commensurate to the risk.",
-char_456_ash_CN_008,Talk after Trust Increase 2,"You think I'm strict, huh? I'll take that as a compliment.",
-char_456_ash_CN_009,Talk after Trust Increase 3,Do me a favor. You worry about the strategy and let me worry about the tactics.,
-char_456_ash_CN_010,Idle,"Time's up, Doc.",
-char_456_ash_CN_011,Onboard,"Rainbow Operator, codename Ash. I have my authorization and I'm ready for assignment.",
-char_456_ash_CN_012,Watching Battle Record,"The more we can learn about their attack patterns, the better off we'll be.",
-char_456_ash_CN_013,Promotion 1,"You have my respect, Doc.",
-char_456_ash_CN_014,Promotion 2,You can't really understand a conflict until you've been on both sides.,
-char_456_ash_CN_017,Added to Squad,It's ready.,
-char_456_ash_CN_018,Appointed as Squad Leader,Let's get our heads in the game.,
-char_456_ash_CN_019,Depart,Let's show them what we can do.,
-char_456_ash_CN_020,Begin Operation,Targets detected.,
-char_456_ash_CN_021,Selecting Operator 1,I'm all stocked up.,
-char_456_ash_CN_022,Selecting Operator 2,Ready to go!,
-char_456_ash_CN_023,Deployment 1,Move!,
-char_456_ash_CN_024,Deployment 2,Let's go!,
-char_456_ash_CN_025,In Battle 1,Watch for the blast.,
-char_456_ash_CN_026,In Battle 2,Stay clear of the blast.,
-char_456_ash_CN_027,In Battle 3,Get clear!,
-char_456_ash_CN_028,In Battle 4,Target spotted!,
-char_456_ash_CN_029,4-star Result,That worked out better than I expected.,
-char_456_ash_CN_030,3-star Result,No more than usual.,
-char_456_ash_CN_031,Sub 3-star Result,We knew the risks. We still have to see this through.,
-char_456_ash_CN_032,Operation Failure,We have to go.,
-char_456_ash_CN_033,Assigned to Facility,This is the place.,
-char_456_ash_CN_034,Tap,Well?,
-char_456_ash_CN_036,Trust Tap,We need to talk.,
-char_456_ash_CN_037,Title,Arknights.,
-char_456_ash_CN_042,Greeting,I'm with you.,
+id,title,original,original_zh,translation
+char_456_ash_CN_001,Appointed as Assistant,Brace yourselves.,做好准备。,Приготовиться.
+char_456_ash_CN_002,Talk 1,The most important thing my safta taught me was that life shouldn't have too many taboos.,我从祖母常年的评判里学到了一件事：“生活本不应有太多禁忌。”,От постоянных упрёков бабушки я усвоила одно: «В жизни не должно быть слишком много запретов».
+char_456_ash_CN_003,Talk 2,Focus on the work at hand and don't jump to any conclusions.,先完成手上的工作，别急着下结论。,"Сначала закончи текущую работу, не спеши делать выводы."
+char_456_ash_CN_004,Talk 3,Tachanka's taught me a thing or two about how to build defenses.,在如何构筑阵地防御上，战车给了我许多实用的建议。,"Тачанка дала мне много полезных советов о том, как строить оборонительные позиции."
+char_456_ash_CN_005,Talk after Promotion 1,"I have some questions, Doctor. I hope you can answer them for me.",我有一些问题，博士，希望您可以为我解答。,"У меня есть несколько вопросов, Доктор — надеюсь, вы на них ответите."
+char_456_ash_CN_006,Talk after Promotion 2,Overcoming obstacles and breaking down barriers makes a lot of things easier.,破开障碍，很多事就会变得很容易。,Пробей препятствие — и многое станет проще.
+char_456_ash_CN_007,Talk after Trust Increase 1,"I'm willing to try, as long as the reward is commensurate to the risk.",只要回报足够高，我都愿意尝试。,"Если награда достаточно велика, я соглашусь на что угодно."
+char_456_ash_CN_008,Talk after Trust Increase 2,"You think I'm strict, huh? I'll take that as a compliment.",您是觉得我很严格吗？嗯，我喜欢这个评价。,"Вы считаете меня строгой? Мм, мне нравится такая оценка."
+char_456_ash_CN_009,Talk after Trust Increase 3,Do me a favor. You worry about the strategy and let me worry about the tactics.,帮我一个忙，战略上由您把握，战术上请交由我来判断。,"Одолжите мне: стратегию оставьте себе, а тактику позвольте определить мне."
+char_456_ash_CN_010,Idle,"Time's up, Doc.",时间到了，博士。,"Время вышло, Доктор."
+char_456_ash_CN_011,Onboard,"Rainbow Operator, codename Ash. I have my authorization and I'm ready for assignment.",彩虹小队成员，代号灰烬，已获得行动授权，请开始部署任务。,"Член отряда «Радуга», позывной Эш. Полномочия получены, приступайте к размещению."
+char_456_ash_CN_012,Watching Battle Record,"The more we can learn about their attack patterns, the better off we'll be.",我们越了解它们的攻击模式，它们就越好对付。,"Чем лучше мы знаем схему их атаки, тем легче с ними справиться."
+char_456_ash_CN_013,Promotion 1,"You have my respect, Doc.",我尊敬您，博士。,"Я уважаю вас, Доктор."
+char_456_ash_CN_014,Promotion 2,You can't really understand a conflict until you've been on both sides.,只有经历过冲突的两端，你才能真正理解它。,"Лишь побывав по обе стороны конфликта, можно по-настоящему его понять."
+char_456_ash_CN_017,Added to Squad,It's ready.,准备就绪。,Готово.
+char_456_ash_CN_018,Appointed as Squad Leader,Let's get our heads in the game.,专心执行我们的任务吧。,Сосредоточимся на задании.
+char_456_ash_CN_019,Depart,Let's show them what we can do.,让他们知道我们有多少能耐吧。,"Покажем им, на что мы способны."
+char_456_ash_CN_020,Begin Operation,Targets detected.,发现目标。,Цель обнаружена.
+char_456_ash_CN_021,Selecting Operator 1,I'm all stocked up.,我都补给好了。,Я полностью обеспечена.
+char_456_ash_CN_022,Selecting Operator 2,Ready to go!,准备好行动了！,Готова к действию!
+char_456_ash_CN_023,Deployment 1,Move!,行动！,Вперёд!
+char_456_ash_CN_024,Deployment 2,Let's go!,我们走！,Пойдём!
+char_456_ash_CN_025,In Battle 1,Watch for the blast.,小心爆炸。,"Осторожно, взрыв."
+char_456_ash_CN_026,In Battle 2,Stay clear of the blast.,离爆炸远一点。,Держитесь подальше от взрыва.
+char_456_ash_CN_027,In Battle 3,Get clear!,离远一点！,Отойдите!
+char_456_ash_CN_028,In Battle 4,Target spotted!,已发现目标！,Цель обнаружена!
+char_456_ash_CN_029,4-star Result,That worked out better than I expected.,比我预想中的效果要好。,"Результат лучше, чем я ожидала."
+char_456_ash_CN_030,3-star Result,No more than usual.,就跟平常差不多。,Как обычно.
+char_456_ash_CN_031,Sub 3-star Result,We knew the risks. We still have to see this through.,我们早就知道风险了。我们还是得完成这次任务。,Мы знали о риске заранее. Всё равно мы должны выполнить задание.
+char_456_ash_CN_032,Operation Failure,We have to go.,我们得走了。,Нам пора идти.
+char_456_ash_CN_033,Assigned to Facility,This is the place.,就是这里了。,Мы на месте.
+char_456_ash_CN_034,Tap,Well?,哦？,О?
+char_456_ash_CN_036,Trust Tap,We need to talk.,我们需要交流一下。,Нам нужно поговорить.
+char_456_ash_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_456_ash_CN_042,Greeting,I'm with you.,我跟着你呢。,Я иду за тобой.

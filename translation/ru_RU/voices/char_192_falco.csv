@@ -1,37 +1,37 @@
-id,title,original,translation
-char_192_falco_CN_001,Appointed as Assistant,"Don't worry, Doctor. No matter what happens, I'll protect you.",
-char_192_falco_CN_002,Talk 1,"Liberi have excellent eyesight. According to legend, some can even tell one droplet from another in a rainstorm. Sounds incredible, huh?",
-char_192_falco_CN_003,Talk 2,I take everyday life too seriously? My apologies. I think that comes from my time serving as a Laterano Guard. I'll work on that in the future.,
-char_192_falco_CN_004,Talk 3,"To most Lateranos, heavy armor doesn't serve much of a purpose. Of course, when we perform the large-scale rituals of our homeland, we do dress up in ceremonial garb.",
-char_192_falco_CN_005,Talk after Promotion 1,"I appreciate your faith in my abilities, Doctor. I won't let you down.",
-char_192_falco_CN_007,Talk after Trust Increase 1,Right... I submitted a request to the HR office... to become your personal bodyguard. I guess maybe I miss my old job too much.,
-char_192_falco_CN_008,Talk after Trust Increase 2,"I grew up in Laterano and didn't really have the chance to learn about other cultures. Here at Rhodes Island, I get to see such diversity, way beyond my imagination. Actually...it's not so bad.",
-char_192_falco_CN_009,Talk after Trust Increase 3,"I have no regrets. Yes, true, they did drag me out of Laterano against my will... but this has been a great adventure. I've enjoyed it.",
-char_192_falco_CN_010,Idle,"It is my duty to protect you, Doctor. Rest assured.",
-char_192_falco_CN_011,Onboard,"My name is Plume, formerly of the Pontifica Cohors Lateran. I will be your sword, and your wings, as I defend your very life.",
-char_192_falco_CN_012,Watching Battle Record,"Ah, so tactics can help you overcome a more skilled opponent, huh?",
-char_192_falco_CN_013,Promotion 1,"Thank you, Doctor. As your bodyguard, your approval is the best reward I can ask for.",
-char_192_falco_CN_017,Added to Squad,I'm ready.,
-char_192_falco_CN_018,Appointed as Squad Leader,"As the leader, it's my responsibility to keep everyone safe.",
-char_192_falco_CN_019,Depart,Watch the friendlies!,
-char_192_falco_CN_020,Begin Operation,Keep your guard up!,
-char_192_falco_CN_021,Selecting Operator 1,Hmm?,
-char_192_falco_CN_022,Selecting Operator 2,Got it.,
-char_192_falco_CN_023,Deployment 1,Ready for overwatch.,
-char_192_falco_CN_024,Deployment 2,Understood!,
-char_192_falco_CN_025,In Battle 1,You think you're faster than me?,
-char_192_falco_CN_026,In Battle 2,No move can escape my sight!,
-char_192_falco_CN_027,In Battle 3,My resolve lies with my spear!,
-char_192_falco_CN_028,In Battle 4,I fight for the glory of Laterano!,
-char_192_falco_CN_029,4-star Result,Nothing can hold me back.,
-char_192_falco_CN_030,3-star Result,"Like a wave crashing against an immovable stone, isn't it?",
-char_192_falco_CN_031,Sub 3-star Result,Regroup! I'll look out for the remaining enemies!,
-char_192_falco_CN_032,Operation Failure,I can't... fall... yet!,
-char_192_falco_CN_033,Assigned to Facility,Should I patrol this area?,
-char_192_falco_CN_034,Tap,Anything over there?,
-char_192_falco_CN_036,Trust Tap,Doctor... it feels like I'm abusing my position...,
-char_192_falco_CN_037,Title,Arknights.,
-char_192_falco_CN_038,New Year's blessing,"Lift the corners of my mouth, don't knit my eyebrows...good, hold steady, then ease my mind, relax... Okay, now get in and greet everyone… Ah! Doctor, you scared me. Um, Happy New Year!",
-char_192_falco_CN_042,Greeting,"Hello, Doctor.",
-char_192_falco_CN_043,Birthday,"So today is your birthday, Doctor? Alright, happy birthday! I promise I'll see my guard duty through more vigilantly. Uh, I mean, if you're going to hold a birthday get-together like the Laterans do, then I'll ensure your safety, and take responsibility for the aftermath.",
-char_192_falco_CN_044,Anniversary Celebration,"Someone once told me that the honor of protecting Laterano was the sole reason I fought. But now, I have more things to protect. My beliefs, my companions, and you. It all weighs heavier on my spear, but I will never let it slow down.",
+id,title,original,original_zh,translation
+char_192_falco_CN_001,Appointed as Assistant,"Don't worry, Doctor. No matter what happens, I'll protect you.",博士请放心，无论发生了什么，我都会保护你的。,"Не волнуйся, Доктор. Что бы ни случилось, я тебя защищу."
+char_192_falco_CN_002,Talk 1,"Liberi have excellent eyesight. According to legend, some can even tell one droplet from another in a rainstorm. Sounds incredible, huh?",不少黎博利人都有着卓越的视力，有些传说里，甚至有人能从倾盆大雨中辨别出雨滴的样子。听起来很厉害吧？,"У многих либерийцев отличное зрение. В легендах говорят, что иные различают отдельные капли в ливне. Звучит впечатляюще, правда?"
+char_192_falco_CN_003,Talk 2,I take everyday life too seriously? My apologies. I think that comes from my time serving as a Laterano Guard. I'll work on that in the future.,我在日常生活中表现得过于严肃了？抱歉，这可能是出于拉特兰守卫的一种职业习惯，我以后会多注意一点的。,"Я слишком серьёзно веду себя в обычной жизни? Прости, это, наверное, профессиональная привычка стража из Латерана. Я постараюсь исправиться."
+char_192_falco_CN_004,Talk 3,"To most Lateranos, heavy armor doesn't serve much of a purpose. Of course, when we perform the large-scale rituals of our homeland, we do dress up in ceremonial garb.",对于大多数拉特兰人来说，过于厚重的铠甲并没有什么作用。当然了，在拉特兰举行比较盛大的仪式时，我们也会换上礼服的。,"Для большинства латеранцев тяжёлая броня не очень-то нужна. Конечно, на больших церемониях на родине мы всё же облачаемся в парадные наряды."
+char_192_falco_CN_005,Talk after Promotion 1,"I appreciate your faith in my abilities, Doctor. I won't let you down.",感谢你对我的信任，我一定不会辜负你的厚爱。,"Спасибо за доверие, Доктор. Я обязательно его оправдаю."
+char_192_falco_CN_007,Talk after Trust Increase 1,Right... I submitted a request to the HR office... to become your personal bodyguard. I guess maybe I miss my old job too much.,嗯……我已经向人事部递交了申请书。我想要成为博士你的贴身卫士。应该说，这也是种职业习惯吧……？,"Мм... я подала заявление в отдел кадров. Хочу стать твоим личным телохранителем, Доктор. Наверное, это тоже профессиональная привычка...?"
+char_192_falco_CN_008,Talk after Trust Increase 2,"I grew up in Laterano and didn't really have the chance to learn about other cultures. Here at Rhodes Island, I get to see such diversity, way beyond my imagination. Actually...it's not so bad.",我从小成长在拉特兰，并没有什么机会接触其他的文明……罗德岛让我看到了许多我没法想象的生活，说不定，也不赖……,"Я выросла в Латеране, и у меня почти не было возможности узнать другие культуры... Родос показал мне столько разных жизней, о которых я даже не подозревала. Может, и не так плохо..."
+char_192_falco_CN_009,Talk after Trust Increase 3,"I have no regrets. Yes, true, they did drag me out of Laterano against my will... but this has been a great adventure. I've enjoyed it.",我不后悔了。嗯，是的，虽然当时她们强行把我从拉特兰拽了出来……但确实，这是一场有趣的冒险，我很喜欢。,"Я не жалею. Да, пусть тогда они и вытащили меня из Латерана силой... но это было увлекательное приключение, и оно мне понравилось."
+char_192_falco_CN_010,Idle,"It is my duty to protect you, Doctor. Rest assured.",放心，博士，保护你是我的责任。,"Не беспокойся, Доктор. Защищать тебя — мой долг."
+char_192_falco_CN_011,Onboard,"My name is Plume, formerly of the Pontifica Cohors Lateran. I will be your sword, and your wings, as I defend your very life.",翎羽，原属拉特兰戍卫队，愿意成为你的戟、你的羽翼，为了你的生命而战。,"Плюм, из бывшей гвардии Латерана. Я стану твоим копьём и твоими крыльями и буду сражаться за твою жизнь."
+char_192_falco_CN_012,Watching Battle Record,"Ah, so tactics can help you overcome a more skilled opponent, huh?",唔，依靠战术也能补足实力上的差距，是吗。,"Хм, значит, тактикой можно компенсировать разницу в силе?"
+char_192_falco_CN_013,Promotion 1,"Thank you, Doctor. As your bodyguard, your approval is the best reward I can ask for.",谢谢你，博士。作为卫士，你的嘉奖就是我最好的勋章。,"Спасибо, Доктор. Для стража твоя похвала — лучшая награда."
+char_192_falco_CN_017,Added to Squad,I'm ready.,做好准备。,Я готова.
+char_192_falco_CN_018,Appointed as Squad Leader,"As the leader, it's my responsibility to keep everyone safe.",既然由我带领大家，那么，保证各位的安全就是我的义务。,"Раз я веду всех, то моя обязанность — беречь безопасность каждого."
+char_192_falco_CN_019,Depart,Watch the friendlies!,保护好我方干员！,Прикройте наших оперативников!
+char_192_falco_CN_020,Begin Operation,Keep your guard up!,请大家提高警惕！,Всем быть настороже!
+char_192_falco_CN_021,Selecting Operator 1,Hmm?,嗯？,Мм?
+char_192_falco_CN_022,Selecting Operator 2,Got it.,知道了。,Поняла.
+char_192_falco_CN_023,Deployment 1,Ready for overwatch.,守住这里。,Держим позицию.
+char_192_falco_CN_024,Deployment 2,Understood!,我明白。,Ясно.
+char_192_falco_CN_025,In Battle 1,You think you're faster than me?,你的速度，快得过我吗？,"Ты думаешь, ты быстрее меня?"
+char_192_falco_CN_026,In Battle 2,No move can escape my sight!,你的动作逃不过我的眼睛！,Ни одно твоё движение не ускользнёт от моих глаз!
+char_192_falco_CN_027,In Battle 3,My resolve lies with my spear!,这把武器里，寄托了我的信念！,В этом оружии — моя вера!
+char_192_falco_CN_028,In Battle 4,I fight for the glory of Laterano!,我的战斗，凝聚着拉特兰的荣耀！,В моём бою — слава Латерана!
+char_192_falco_CN_029,4-star Result,Nothing can hold me back.,没什么能让我退缩。,Ничто меня не остановит.
+char_192_falco_CN_030,3-star Result,"Like a wave crashing against an immovable stone, isn't it?",狂风吹打山岩，自己反而先粉身碎骨。,Ветер бьётся о скалу — и первым разбивается вдребезги.
+char_192_falco_CN_031,Sub 3-star Result,Regroup! I'll look out for the remaining enemies!,重整队列！我会小心剩下的敌人！,Перестройтесь! Я возьму на себя оставшихся противников!
+char_192_falco_CN_032,Operation Failure,I can't... fall... yet!,还不可以……倒下！,Я не имею права... упасть!
+char_192_falco_CN_033,Assigned to Facility,Should I patrol this area?,要我在这巡逻吗？,Мне патрулировать этот район?
+char_192_falco_CN_034,Tap,Anything over there?,那里有什么吗？,Там что-то есть?
+char_192_falco_CN_036,Trust Tap,Doctor... it feels like I'm abusing my position...,博士……感觉我在擅用职权了呢……,"Доктор... кажется, я злоупотребляю своим положением..."
+char_192_falco_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_192_falco_CN_038,New Year's blessing,"Lift the corners of my mouth, don't knit my eyebrows...good, hold steady, then ease my mind, relax... Okay, now get in and greet everyone… Ah! Doctor, you scared me. Um, Happy New Year!",嘴角要上扬一点，不能皱眉，放松，放松……好，就这样去和大家打招呼吧——欸，博士，您怎么在这……那个，新年快乐！,"Улыбнись чуть шире, не хмурься, расслабься, расслабься... Ладно, пойду поприветствую всех — ах, Доктор, вы здесь... Э-э, с Новым годом!"
+char_192_falco_CN_042,Greeting,"Hello, Doctor.",你好，博士。,"Здравствуй, Доктор."
+char_192_falco_CN_043,Birthday,"So today is your birthday, Doctor? Alright, happy birthday! I promise I'll see my guard duty through more vigilantly. Uh, I mean, if you're going to hold a birthday get-together like the Laterans do, then I'll ensure your safety, and take responsibility for the aftermath.",原来今天是博士的生日啊，嗯，我一定会更认真地完成护卫的工作的。啊，我是说，如果您也想举办一场拉特兰人那样的生日聚会的话，我会保护您的安全，并且负责善后的。,"Так сегодня день рождения Доктора. Ну, я обещаю ещё ответственнее выполнять свою охрану. Ах, я хотела сказать — если вы захотите устроить праздник, как у латеранцев, я обеспечу вашу безопасность и уберу потом всё за вами."
+char_192_falco_CN_044,Anniversary Celebration,"Someone once told me that the honor of protecting Laterano was the sole reason I fought. But now, I have more things to protect. My beliefs, my companions, and you. It all weighs heavier on my spear, but I will never let it slow down.",曾经有人告诉我，守护拉特兰的荣誉是我唯一的战斗理由。可现在，我有了更多要守护的事物。信念、同伴，还有您。我的枪尖会因此变得更加沉重，但速度绝对不会慢下来。,"Кто-то говорил мне, что защита чести Латерана — единственная причина, по которой я сражаюсь. Но теперь у меня есть то, что я должна беречь. Моя вера, мои товарищи... и вы. От этого моё копьё станет тяжелее, но оно ни на секунду не замедлится."

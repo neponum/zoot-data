@@ -1,35 +1,35 @@
-id,title,original,translation
-char_376_therex_CN_001,Appointed as Assistant,"Thermal-EX, ready to commence thermal shock! What, the designated combat time has not been reached yet? Then, I shall postpone it. Commencing thermal shock after a delay of 10 seconds!",
-char_376_therex_CN_002,Talk 1,"I have heard an expression from the East: 'No martial art is infallible, except for heat.'",
-char_376_therex_CN_003,Talk 2,"Doctor, it's great to be with you! My burning heart won't calm down! —I'm talking about the Raythean Industries custom-made full-thermal Arts impact generator on my body!",
-char_376_therex_CN_004,Talk 3,"In the beginning, God said, 'Let there be light,' and there was light. God said, 'Let there be power,' and there was the high-performance variant of Raythean's Challenger Hellcat.",
-char_376_therex_CN_007,Talk after Trust Increase 1,"As a perfect industrial-grade mass-produced combat platform, I am very happy now! Not only do I get regular performance optimizations from Mayer, but I even get to work with passionate partners like Blaze! Life is so good!",
-char_376_therex_CN_008,Talk after Trust Increase 2,"Even though I'm already this dazzling, only you, the peerless Doctor, are worthy of becoming the brightest sun!",
-char_376_therex_CN_009,Talk after Trust Increase 3,"I know that the heat and light I emit is so very short-lived... But all that matters is that I can illuminate the path before you, Doctor!",
-char_376_therex_CN_010,Idle,"Even when you're asleep, I can continue to work as your heater! I'm incredible!",
-char_376_therex_CN_011,Onboard,"Born from Raythean Industries, improved by the hands of the great Mayer. I, Thermal-EX, the throbbing heart of hotness, am here to help!",
-char_376_therex_CN_012,Watching Battle Record,Ohhhhh! This power blazing within me... It's… It's… It's a hotfix!,
-char_376_therex_CN_017,Added to Squad,"Now, it's my turn to show off!",
-char_376_therex_CN_018,Appointed as Squad Leader,What's the situation?,
-char_376_therex_CN_019,Depart,"All units, move out!",
-char_376_therex_CN_020,Begin Operation,Rock and roll!,
-char_376_therex_CN_021,Selecting Operator 1,Ready to launch!,
-char_376_therex_CN_022,Selecting Operator 2,Charging up!,
-char_376_therex_CN_023,Deployment 1,I'm here to help!,
-char_376_therex_CN_024,Deployment 2,Detonation imminent!,
-char_376_therex_CN_025,In Battle 1,Sonic boom—!,
-char_376_therex_CN_026,In Battle 2,Deploying thermal shock!,
-char_376_therex_CN_027,In Battle 3,Watch this!,
-char_376_therex_CN_028,In Battle 4,Praise the heat!,
-char_376_therex_CN_029,4-star Result,"Aren't I awesome? I knew your command would be a perfect match for me, Doctor!",
-char_376_therex_CN_030,3-star Result,BRAVO~ BRAVO~!!!! Doctor!!!,
-char_376_therex_CN_031,Sub 3-star Result,My retreat was just a fluke. Nothing must be allowed through our net on the battlefield.,
-char_376_therex_CN_032,Operation Failure,"Contact! Contact! Enemy ambush! Dropping smoke! Doctor, I'll cover your retreat!",
-char_376_therex_CN_033,Assigned to Facility,"Rest? Haha, it's too early for me! I just swapped to the newest energy storage device, so we have fifty more hours until the end of the workday!",
-char_376_therex_CN_034,Tap,A-ha! My thermal sensor feels your burning heart!,
-char_376_therex_CN_036,Trust Tap,Your burning enthusiasm has melted my processor!,
-char_376_therex_CN_037,Title,Arknights.,
-char_376_therex_CN_038,New Year's blessing,"Happy New Year, Doctor! There's too much excess and zero majesty to playing songs on Monster Siren hi-fis and related devices! Allow me to use a hotter, more direct method to boost the vigor of this fireworks show! BANG!! Pewwwwww... BANG!!!",
-char_376_therex_CN_042,Greeting,"Welcome back, Doctor! I see that you're also full of light and heat today!",
-char_376_therex_CN_043,Birthday,"I hear the others are expressing their feelings of fondness for you by way of gifts, but you and I have no need for such tedious things to express our emotions! Our hearts have long been connected through heat and impact! Doctor! Happy birthday!",
-char_376_therex_CN_044,Anniversary Celebration,"Doctor!! Even I'm dazzled by the liveliness of this spectacle! Hesitate no more, come with me! Let us celebrate with the others!",
+id,title,original,original_zh,translation
+char_376_therex_CN_001,Appointed as Assistant,"Thermal-EX, ready to commence thermal shock! What, the designated combat time has not been reached yet? Then, I shall postpone it. Commencing thermal shock after a delay of 10 seconds!",Thermal-EX，热量冲击准备启动！什么，尚未到达指定作战时间吗？那就延后一下。10秒后再启动冲击！,"Thermal-EX, готов к тепловому удару! Что, назначенное время боя ещё не настало? Тогда перенесём. Удар через 10 секунд!"
+char_376_therex_CN_002,Talk 1,"I have heard an expression from the East: 'No martial art is infallible, except for heat.'",听说东方有句古话：天下武功，唯热不破。,"Слышал я с Востока древнюю пословицу: «В поднебесной нет ничего, что не пробил бы жар, — кроме самого жара»."
+char_376_therex_CN_003,Talk 2,"Doctor, it's great to be with you! My burning heart won't calm down! —I'm talking about the Raythean Industries custom-made full-thermal Arts impact generator on my body!",博士！能和你在一起真是太棒了！我炽热的内心久久无法平静！——我是说我身上所搭载的雷神工业定制款全量热力法术冲击发生器！,"Доктор! Как же хорошо быть с вами! Моё пылающее сердце никак не успокоится!.. Я имею в виду установленный на мне генератор полного термического импульса, созданный «Рейтеан Индастриз» «Рейтеан Индастриз»!"
+char_376_therex_CN_004,Talk 3,"In the beginning, God said, 'Let there be light,' and there was light. God said, 'Let there be power,' and there was the high-performance variant of Raythean's Challenger Hellcat.",很久以前，神灵说：“要有光”于是就有了光，神灵又说：“要有力量。”于是就有了雷神挑衅者熔岩猫魔鬼高性能版。,В начале было слово: «Да будет свет» — и стал свет. Сказал он также: «Да будет сила» — и появилась высокопроизводительная версия «Челленджер Хеллкэт».
+char_376_therex_CN_007,Talk after Trust Increase 1,"As a perfect industrial-grade mass-produced combat platform, I am very happy now! Not only do I get regular performance optimizations from Mayer, but I even get to work with passionate partners like Blaze! Life is so good!",作为一台完美的工业级量产型作战平台，我感到非常高兴！如今不但有梅尔小姐在不断优化我的性能，还有煌小姐这样灼热的伙伴能成为我的好搭档！太棒了！,"Будучи идеальной промышленной массовой боевой платформой, я сейчас очень счастлив! Мало того что госпожа Майер регулярно оптимизирует мои характеристики, так ещё и Блейз — такой горячий партнёр — стала моим напарником! Это замечательно!"
+char_376_therex_CN_008,Talk after Trust Increase 2,"Even though I'm already this dazzling, only you, the peerless Doctor, are worthy of becoming the brightest sun!",虽然我已经如此耀眼，但是对我来说，只有无人能敌的博士您才是最闪耀的！,"Хотя я и сам настолько ослепителен, для меня только вы, несравненный Доктор, — самый яркий свет!"
+char_376_therex_CN_009,Talk after Trust Increase 3,"I know that the heat and light I emit is so very short-lived... But all that matters is that I can illuminate the path before you, Doctor!",我知道我能发出的光与热是如此短暂……但是，只要能照亮{@nickname}博士您前进的道路就好！,"Я знаю, свет и тепло, что я излучаю, живут совсем недолго... Но лишь бы освещать путь, по которому идёте вы, {@nickname} доктор!"
+char_376_therex_CN_010,Idle,"Even when you're asleep, I can continue to work as your heater! I'm incredible!",即使在你休眠的时候，我也可以作为你的暖炉工作！真不愧是我！,"Даже когда вы спите, я могу работать вашим обогревателем! Я восхитителен!"
+char_376_therex_CN_011,Onboard,"Born from Raythean Industries, improved by the hands of the great Mayer. I, Thermal-EX, the throbbing heart of hotness, am here to help!",诞生于雷神工业，改进于伟大的梅尔之手，膨胀的炙热之心——Thermal-EX，前来助阵！,"Рождён «Рейтеан Индастриз», усовершенствован руками великой Майер. Я, Thermal-EX, пульсирующее сердце жара, прибыл помочь!"
+char_376_therex_CN_012,Watching Battle Record,Ohhhhh! This power blazing within me... It's… It's… It's a hotfix!,嗷嗷！这股炽热的力量是……是……是热更新！,Оооо! Эта пламенеющая сила внутри меня... Это... это... горячее обновление!
+char_376_therex_CN_017,Added to Squad,"Now, it's my turn to show off!",轮到我大显身手了！,Теперь моя очередь показать себя!
+char_376_therex_CN_018,Appointed as Squad Leader,What's the situation?,现在情况如何？,Какова обстановка?
+char_376_therex_CN_019,Depart,"All units, move out!",全军出击！,"Все юниты, вперёд!"
+char_376_therex_CN_020,Begin Operation,Rock and roll!,摇滚起来！,Рок-н-ролл!
+char_376_therex_CN_021,Selecting Operator 1,Ready to launch!,准备发射！,Готов к пуску!
+char_376_therex_CN_022,Selecting Operator 2,Charging up!,蓄能中！,Накапливаю заряд!
+char_376_therex_CN_023,Deployment 1,I'm here to help!,我来帮你！,Я пришёл помочь!
+char_376_therex_CN_024,Deployment 2,Detonation imminent!,冲击准备！,Удар готов!
+char_376_therex_CN_025,In Battle 1,Sonic boom—!,Sonic Boom—!,Sonic Boom—!
+char_376_therex_CN_026,In Battle 2,Deploying thermal shock!,开始冲击！,Начинаю тепловой удар!
+char_376_therex_CN_027,In Battle 3,Watch this!,看我的！,Смотри на меня!
+char_376_therex_CN_028,In Battle 4,Praise the heat!,赞美热量！,Славь жар!
+char_376_therex_CN_029,4-star Result,"Aren't I awesome? I knew your command would be a perfect match for me, Doctor!",不愧是我！果然{@nickname}博士的指挥和我才是绝配啊！,"Не зря я так хорош! Доктор {@nickname}, ваше командование и я — идеальная пара!"
+char_376_therex_CN_030,3-star Result,BRAVO~ BRAVO~!!!! Doctor!!!,非~常~完~美！！！！{@nickname}博士！！！,Прекра-а-асно!!!! Доктор {@nickname}!!!
+char_376_therex_CN_031,Sub 3-star Result,My retreat was just a fluke. Nothing must be allowed through our net on the battlefield.,我的撤退纯属意外，原本一定不会有漏网之鱼的！,Моё отступление — чистая случайность. Никому не должно было уйти!
+char_376_therex_CN_032,Operation Failure,"Contact! Contact! Enemy ambush! Dropping smoke! Doctor, I'll cover your retreat!",危险，被暗算了！烟雾弹已投放！博士，我来掩护你撤退！,"Контакт! Контакт! Засада! Дымовая шашка сброшена! Доктор, я прикрою ваш отход!"
+char_376_therex_CN_033,Assigned to Facility,"Rest? Haha, it's too early for me! I just swapped to the newest energy storage device, so we have fifty more hours until the end of the workday!",休息吗？哈哈对我来说还早着呢！我刚更换新的储能装置，离今天的工作结束还有50小时呢！,"Отдых? Ха, для меня ещё рано! Я только что заменил накопитель — до конца рабочего дня осталось ещё 50 часов!"
+char_376_therex_CN_034,Tap,A-ha! My thermal sensor feels your burning heart!,唔呵！我的热传感器感受到您炽热的内心了！,Уф-хо! Мой тепловой датчик улавливает ваше пылающее сердце!
+char_376_therex_CN_036,Trust Tap,Your burning enthusiasm has melted my processor!,我的处理器已经被您的热情融化了！,Мой процессор расплавился от вашего жара!
+char_376_therex_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_376_therex_CN_038,New Year's blessing,"Happy New Year, Doctor! There's too much excess and zero majesty to playing songs on Monster Siren hi-fis and related devices! Allow me to use a hotter, more direct method to boost the vigor of this fireworks show! BANG!! Pewwwwww... BANG!!!",博士新年快乐！用塞壬音响之类放歌太过于没有气势了，就让我用更加热烈且直接的方式为这次的烟花大会助威吧！嘭！！咻~~~~嘭！！！,"Доктор, с новым годом! Играть музыку через колонки «Monster Siren» и подобные устройства — слишком лишено размаха! Позвольте мне поддержать фейерверк более горячим и прямым способом! Бум!! Вжиуууу... Бум!!!"
+char_376_therex_CN_042,Greeting,"Welcome back, Doctor! I see that you're also full of light and heat today!",欢迎回来，博士！今天您也是如此充满着光与热啊！,"С возвращением, Доктор! Вижу, вы сегодня тоже полны света и жара!"
+char_376_therex_CN_043,Birthday,"I hear the others are expressing their feelings of fondness for you by way of gifts, but you and I have no need for such tedious things to express our emotions! Our hearts have long been connected through heat and impact! Doctor! Happy birthday!",听说大家都在用送礼物的方式表达对博士的喜爱之情，不过我觉得博士与我根本不需要这些繁琐的东西来表达心意！我们的内心早已被热与冲击力连接在了一起！博士！生日快乐！,"Слышал, все выражают вам любовь подарками. Но вам и мне не нужны такие мелочи для выражения чувств! Наши сердца давно связаны жаром и ударной волной! Доктор, с днём рождения!"
+char_376_therex_CN_044,Anniversary Celebration,"Doctor!! Even I'm dazzled by the liveliness of this spectacle! Hesitate no more, come with me! Let us celebrate with the others!",博士！！如此热闹的场面，连我都觉得耀眼！不要再犹豫了，快跟着我，和大家一起庆祝吧！,"Доктор!! Даже я ослеплён этим оживлением! Не колеблясь, идите со мной — давайте праздновать вместе со всеми!"

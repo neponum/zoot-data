@@ -1,39 +1,39 @@
-id,title,original,translation
-char_347_jaksel_CN_001,Appointed as Assistant,"Doctor, let me help!",
-char_347_jaksel_CN_002,Talk 1,"Doctor! You've been glued to that chair forever, and that's totally not good for you. Time for a quick workout session with me—stretch those muscles, replenish your energy. Trust me, you'll be able to work even better!",
-char_347_jaksel_CN_003,Talk 2,"Hey, hey, Doctor! She's here at Rhodes Island! Ah, her codename should be Dur-nar now. Anyway, she's incredible! I've literally only seen her in recruitment ads before! And she's such a nice lady! She gave me so many snacks, ehehe.",
-char_347_jaksel_CN_004,Talk 3,"Doctor, I'm way more athletic than most people my age, you know. Let me show you a standing backflip! Watch closely! Hu-ya!",
-char_347_jaksel_CN_005,Talk after Promotion 1,"This gun? Oh, it's a gun-type Arts… Uh… What's that term again? Hmm… Right, Arts Unit! I applied for it out of habit after coming here, but honestly? I still prefer my fists over Arts.",
-char_347_jaksel_CN_006,Talk after Promotion 2,"I've always known I'm lucky, but seeing the struggles of other Infected here at Rhodes Island… It's really opened my eyes. Doctor, tell me how I can help. I want to be useful.",
-char_347_jaksel_CN_007,Talk after Trust Increase 1,"Huh…? Oh, Doctor! I'm working on a letter to my dad. I've never told you about him? Then let me introduce him! He's the most incredible policeman ever! You've gotta hear all about his awesome stories!",
-char_347_jaksel_CN_008,Talk after Trust Increase 2,"Truth is, my dad's the one who recommended Rhodes Island. When he learned you could treat Oripathy, he was determined to get me here. Being apart from him is tough… I miss him so much. But I understand what matters most to him is seeing me healthy and safe.",
-char_347_jaksel_CN_009,Talk after Trust Increase 3,"You're almost as reliable as my dad, almost! In my book, you're the second most trustworthy person around, hehe! By the way, I've been telling my dad all about you in my letters, and now he's curious to meet you!",
-char_347_jaksel_CN_010,Idle,"Doc—! Ah, Doctor's asleep. Gotta be quiet…",
-char_347_jaksel_CN_011,Onboard,"Nice to meet you, Doctor! I'm a new operator, codename Jackie! I used to be an auxiliary police officer in Columbia. Here's hoping we work well together!",
-char_347_jaksel_CN_012,Watching Battle Record,Wow… This is even more awesome than what my dad could do!,
-char_347_jaksel_CN_013,Promotion 1,"Eh, am I getting promoted? Wow, that's awesome!",
-char_347_jaksel_CN_014,Promotion 2,"Rhodes Island's opened my eyes to so much… Maybe one day, I'll be just as amazing as my dad! Doctor, I promise I'll keep working hard, and I'm counting on your guidance!",
-char_347_jaksel_CN_017,Added to Squad,I'm here!,
-char_347_jaksel_CN_018,Appointed as Squad Leader,I'll work hard!,
-char_347_jaksel_CN_019,Depart,Let's do our best!,
-char_347_jaksel_CN_020,Begin Operation,Mission start!,
-char_347_jaksel_CN_021,Selecting Operator 1,"Doctor, is it my turn?",
-char_347_jaksel_CN_022,Selecting Operator 2,Warm-up complete.,
-char_347_jaksel_CN_023,Deployment 1,Leave it to me.,
-char_347_jaksel_CN_024,Deployment 2,Time to show my skills!,
-char_347_jaksel_CN_025,In Battle 1,Try a knuckle sandwich!,
-char_347_jaksel_CN_026,In Battle 2,No trespassing!,
-char_347_jaksel_CN_027,In Battle 3,Don't underestimate me!,
-char_347_jaksel_CN_028,In Battle 4,Push it to the limit!,
-char_347_jaksel_CN_029,4-star Result,"I thought they had us a few times there, but we did it! You're amazing, Doctor!",
-char_347_jaksel_CN_030,3-star Result,"Doctor, Doctor, did you see how hard I worked!",
-char_347_jaksel_CN_031,Sub 3-star Result,"Doctor, want me to chase after them?",
-char_347_jaksel_CN_032,Operation Failure,"Sorry, Doctor. If only I'd put in more effort…",
-char_347_jaksel_CN_033,Assigned to Facility,Oh… It's so big inside!,
-char_347_jaksel_CN_034,Tap,Ahhhh!,
-char_347_jaksel_CN_036,Trust Tap,"Hi, Doctor!",
-char_347_jaksel_CN_037,Title,Arknights.,
-char_347_jaksel_CN_038,New Year's blessing,"Doctor, Happy New Year! This New Year, I'll be celebrating right here at Rhodes Island. Hehe, I've already written to dad, explaining how I'm learning to stand on my own, and how Rhodes Island is a place he can trust. Um, I do feel a bit lonely sometimes. But celebrating with my fellow operators makes up for it!",
-char_347_jaksel_CN_042,Greeting,"Ah, it's Doctor!",
-char_347_jaksel_CN_043,Birthday,"Doctor! Happy birthday! My dad always taught me birthdays are best spent doing something kind for others. So I'm thinking, how about we head to the kitchen? We can help the logistics operators with today's grocery delivery. Hehehe, who knows? We might just stumble upon some exciting surprises!",
-char_347_jaksel_CN_044,Anniversary Celebration,"'Walk a mile in someone else's shoes before extending a helping hand.' Now I get why the Infected I met before didn't want to accept help or even talk much. I've learned a lot at Rhodes Island. When I return to Columbia, all this will help me become a better police officer.",
+id,title,original,original_zh,translation
+char_347_jaksel_CN_001,Appointed as Assistant,"Doctor, let me help!",博士，我来帮你的忙吧！,"Доктор, я вам помогу!"
+char_347_jaksel_CN_002,Talk 1,"Doctor! You've been glued to that chair forever, and that's totally not good for you. Time for a quick workout session with me—stretch those muscles, replenish your energy. Trust me, you'll be able to work even better!",博士，你已经坐在那里工作很久了，这样对身体不好的，来跟我一起做一些伸展运动吧！活动一下身体，然后再补充一下能量，这样才能更好地工作哦。,"Доктор, вы уже долго сидите за работой — это вредно для здоровья. Давайте вместе немного растянемся! Разомнёмся, подкрепимся — и тогда сможете работать ещё лучше."
+char_347_jaksel_CN_003,Talk 2,"Hey, hey, Doctor! She's here at Rhodes Island! Ah, her codename should be Dur-nar now. Anyway, she's incredible! I've literally only seen her in recruitment ads before! And she's such a nice lady! She gave me so many snacks, ehehe.",博士博士，那个人竟然在罗德岛上诶！啊，现在她的代号应该是坚雷了，反正她好厉害的！我以前只在征兵广告上见过她！而且她人超好的，给了我好多零食，诶嘿嘿。,"Доктор, Доктор, та тётка и правда на Родосе! Ах, теперь её позывной — Дур-нар, в любом случае она невероятная! Раньше я видела её только в вербовочной рекламе! И она очень добрая — дала мне кучу закусок, хи-хи."
+char_347_jaksel_CN_004,Talk 3,"Doctor, I'm way more athletic than most people my age, you know. Let me show you a standing backflip! Watch closely! Hu-ya!",博士，我的体能在同龄人里算是很好的哦，我来给你表演一个原地后空翻吧！看好了！,"Доктор, среди сверстников я довольно ловкая! Давайте я покажу вам сальто назад на месте! Смотрите!"
+char_347_jaksel_CN_005,Talk after Promotion 1,"This gun? Oh, it's a gun-type Arts… Uh… What's that term again? Hmm… Right, Arts Unit! I applied for it out of habit after coming here, but honestly? I still prefer my fists over Arts.",这把铳？啊，它是铳型施……施什么来着，啊，对了，施术单元！虽然来到这里后还是按照习惯申请了一把，不过比起用法术，我果然还是更加喜欢用拳头作战呢。,"Этот пистолет? А, он — пистолетный блок для... как это... а, верно, блок для наложения чар! Я по привычке запросила его и здесь, но, честно говоря, мне всё равно больше нравится драться кулаками."
+char_347_jaksel_CN_006,Talk after Promotion 2,"I've always known I'm lucky, but seeing the struggles of other Infected here at Rhodes Island… It's really opened my eyes. Doctor, tell me how I can help. I want to be useful.",虽然我也知道我很幸运，但来到罗德岛后我才知道其他的感染者原来过得这么不好……博士，我该怎么做才能帮到其他人呢？我想帮助他们！,"Я и так знала, что мне повезло, но только на Родосе я узнала, как плохо живётся другим инфицированным... Доктор, что мне делать, чтобы помочь им? Я очень хочу!"
+char_347_jaksel_CN_007,Talk after Trust Increase 1,"Huh…? Oh, Doctor! I'm working on a letter to my dad. I've never told you about him? Then let me introduce him! He's the most incredible policeman ever! You've gotta hear all about his awesome stories!",……嗯？啊，博士，我正在给爸爸写信。诶，我没介绍过我爸爸吗？我爸爸是很厉害的警察哦，爸爸他可厉害啦！博士我来给你讲讲他的事迹吧！,"...Мм? Ах, Доктор, я пишу папе письмо. Эй, я никогда не рассказывала вам про папу? Он очень крутой полицейский! Правда-правда! Давайте я расскажу вам о его подвигах!"
+char_347_jaksel_CN_008,Talk after Trust Increase 2,"Truth is, my dad's the one who recommended Rhodes Island. When he learned you could treat Oripathy, he was determined to get me here. Being apart from him is tough… I miss him so much. But I understand what matters most to him is seeing me healthy and safe.",其实我来罗德岛是爸爸推荐的，他在知道罗德岛能够治疗矿石病后就一直让我努力申请能被派到这边来。虽然不是很想和爸爸分开，不过我也知道，我能健康生活才是最让他开心的吧。,"На самом деле папа посоветовал мне прийти на Родос. Когда он узнал, что здесь лечат орипатию, он всё уговаривал меня постараться попасть сюда. Мне не хотелось с ним расставаться, но я знаю: больше всего его радует, что я живу нормально и здоровой."
+char_347_jaksel_CN_009,Talk after Trust Increase 3,"You're almost as reliable as my dad, almost! In my book, you're the second most trustworthy person around, hehe! By the way, I've been telling my dad all about you in my letters, and now he's curious to meet you!",虽然还比不上爸爸，不过博士也很可靠呢，嗯，在我心里现在博士已经是排第二可靠的人了！嘻嘻，对了，博士，我在给爸爸的信里写过不少有关你的事哦，他也说很想见见你呢！,"До папы вам ещё далеко, но вы тоже очень надёжный, Доктор... Мм, в моём сердце вы теперь на втором месте по надёжности! Хи-хи, кстати, я много писала папе о вас — он говорит, что очень хочет с вами познакомиться!"
+char_347_jaksel_CN_010,Idle,"Doc—! Ah, Doctor's asleep. Gotta be quiet…",博——！啊，博士睡着了，那我小声一点……,"До-о-октор!.. Ах, Доктор уснул, тогда я потише..."
+char_347_jaksel_CN_011,Onboard,"Nice to meet you, Doctor! I'm a new operator, codename Jackie! I used to be an auxiliary police officer in Columbia. Here's hoping we work well together!",博士你好！我是新加入的干员，代号杰克！我过去在哥伦比亚担任辅警，让我们好好相处吧！,"Здравствуйте, Доктор! Я новый оперативник, позывной Джеки! Раньше я была вспомогательным полицейским в Колумбии — давайте ладить!"
+char_347_jaksel_CN_012,Watching Battle Record,Wow… This is even more awesome than what my dad could do!,好厉害，感觉比爸爸都厉害……,"Как здорово — кажется, даже круче папы..."
+char_347_jaksel_CN_013,Promotion 1,"Eh, am I getting promoted? Wow, that's awesome!",咦，我要升职了吗？哇，太棒了！,"Эй, меня повышают? Вау, здорово!"
+char_347_jaksel_CN_014,Promotion 2,"Rhodes Island's opened my eyes to so much… Maybe one day, I'll be just as amazing as my dad! Doctor, I promise I'll keep working hard, and I'm counting on your guidance!",在罗德岛的生活让我学到了许多呢……说不定有一天我能追上爸爸也说不定呢！博士，我会继续加油的，也要麻烦你多指导我啦~,"Жизнь на Родосе многому меня научила... может, однажды я догоню папу! Доктор, я буду стараться — и прошу вас побольше меня направлять~"
+char_347_jaksel_CN_017,Added to Squad,I'm here!,我来啦！,Я здесь!
+char_347_jaksel_CN_018,Appointed as Squad Leader,I'll work hard!,我会努力的！,Я постараюсь!
+char_347_jaksel_CN_019,Depart,Let's do our best!,一起加油吧！,Давайте вместе стараться!
+char_347_jaksel_CN_020,Begin Operation,Mission start!,作战开始！,Начали!
+char_347_jaksel_CN_021,Selecting Operator 1,"Doctor, is it my turn?",博士，到我了吗？,"Доктор, моя очередь?"
+char_347_jaksel_CN_022,Selecting Operator 2,Warm-up complete.,热身完毕！,Разминка закончена!
+char_347_jaksel_CN_023,Deployment 1,Leave it to me.,交给我吧！,Положитесь на меня!
+char_347_jaksel_CN_024,Deployment 2,Time to show my skills!,到我发挥的时候啦！,Время показать себя!
+char_347_jaksel_CN_025,In Battle 1,Try a knuckle sandwich!,吃我一拳！,Лови кулак!
+char_347_jaksel_CN_026,In Battle 2,No trespassing!,休想通过！,Не пройдёте!
+char_347_jaksel_CN_027,In Battle 3,Don't underestimate me!,可不要小看我啦！,Не недооценивайте меня!
+char_347_jaksel_CN_028,In Battle 4,Push it to the limit!,一鼓作气！,Разом — и в бой!
+char_347_jaksel_CN_029,4-star Result,"I thought they had us a few times there, but we did it! You're amazing, Doctor!",我有几次都觉得要输了，最后居然赢了，博士好厉害啊！,"Несколько раз я думала, что мы проиграем, а в итоге победили — Доктор, вы потрясающий!"
+char_347_jaksel_CN_030,3-star Result,"Doctor, Doctor, did you see how hard I worked!",博士博士，我有好好努力了吧！,"Доктор, Доктор, я же старалась изо всех сил!"
+char_347_jaksel_CN_031,Sub 3-star Result,"Doctor, want me to chase after them?",博士，要我去追他们吗？,"Доктор, мне их догнать?"
+char_347_jaksel_CN_032,Operation Failure,"Sorry, Doctor. If only I'd put in more effort…",对不起，博士，要是我再努力一点就好了……,"Простите, Доктор, если бы я постаралась ещё чуть-чуть..."
+char_347_jaksel_CN_033,Assigned to Facility,Oh… It's so big inside!,舰内好大呀！,Внутри корабля так просторно!
+char_347_jaksel_CN_034,Tap,Ahhhh!,哇啊啊！,Ва-а-ах!
+char_347_jaksel_CN_036,Trust Tap,"Hi, Doctor!",博士，你好呀~,"Здравствуйте, Доктор~"
+char_347_jaksel_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_347_jaksel_CN_038,New Year's blessing,"Doctor, Happy New Year! This New Year, I'll be celebrating right here at Rhodes Island. Hehe, I've already written to dad, explaining how I'm learning to stand on my own, and how Rhodes Island is a place he can trust. Um, I do feel a bit lonely sometimes. But celebrating with my fellow operators makes up for it!",博士，新年快乐！这个新年我打算留在罗德岛呢，我写信和爸爸说过了，我也要逐渐学会独立了，而且罗德岛很好，让他放心。嘻嘻，虽然有些寂寞，不过和其他干员一起过新年也很有趣呢！,"С новым годом, Доктор! В этом году я останусь на Родосе. Я уже написала папе, что учусь быть самостоятельной и что на Родосе мне хорошо — пусть не волнуется. Хи-хи, иногда бывает одиноко, но встречать Новый год с другими оперативниками тоже весело!"
+char_347_jaksel_CN_042,Greeting,"Ah, it's Doctor!",啊，是博士！,"Ах, это Доктор!"
+char_347_jaksel_CN_043,Birthday,"Doctor! Happy birthday! My dad always taught me birthdays are best spent doing something kind for others. So I'm thinking, how about we head to the kitchen? We can help the logistics operators with today's grocery delivery. Hehehe, who knows? We might just stumble upon some exciting surprises!",博士！生日快乐！爸爸说过，在生日这天，一定要做一件帮助别人的事才行。博士，我们去厨房帮后勤干员搬运今天的食材吧，嘿嘿，说不定还会发现惊喜哦！,"Доктор! С днём рождения! Папа говорил: в день рождения обязательно надо сделать что-то полезное для других. Давайте сходим на камбуз и поможем тыловым оперативникам с сегодняшними продуктами — хи-хи, может, там нас и ждёт сюрприз!"
+char_347_jaksel_CN_044,Anniversary Celebration,"'Walk a mile in someone else's shoes before extending a helping hand.' Now I get why the Infected I met before didn't want to accept help or even talk much. I've learned a lot at Rhodes Island. When I return to Columbia, all this will help me become a better police officer.",“想帮助别人，要先理解别人。”我现在逐渐明白，为什么之前遇到的感染者，既不愿意接受帮助，也拒绝与人交流。我在罗德岛学到了很多，回到哥伦比亚的时候，一定可以成为更称职的警察！,"«Чтобы помочь другому, сначала пойми его». Я постепенно понимаю, почему инфицированные, которых я встречала раньше, не хотели ни помощи, ни общения. На Родосе я многому научилась — когда вернусь в Колумбию, непременно стану более достойным полицейским!"

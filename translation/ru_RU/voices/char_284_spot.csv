@@ -1,37 +1,37 @@
-id,title,original,translation
-char_284_spot_CN_001,Appointed as Assistant,"Work's kinda like a trap, and you just fling yourself into it.",
-char_284_spot_CN_002,Talk 1,I don't talk much 'cause I don't want to. Not 'cause I'm looking down on anyone.,
-char_284_spot_CN_003,Talk 2,What did Midnight do this time? Did he finally end up in Medical after hitting on one too many ladies in the hallway? No? Too bad.,
-char_284_spot_CN_004,Talk 3,"Got something, Doctor? I could probably lend a hand. But I'd rather not eat up too much of my time. I got a lot of comics to read.",
-char_284_spot_CN_005,Talk after Promotion 1,"I know I speak a little too bluntly sometimes, but I always get my work done. It's not like I got professional pride or anything, I just can't respect somebody who doesn't finish his work.",
-char_284_spot_CN_007,Talk after Trust Increase 1,"Rhodes Island is a strange place. The people here just say whatever they're thinking, and somebody's always there to help when someone needs it.",
-char_284_spot_CN_008,Talk after Trust Increase 2,"Reserve Op Team A6 is a real diverse crowd. We have Lady Stinky-face, Miss Lacking-self-confrol, Narcissist Kun, and a little walking time bomb. But still, I do think I can trust them. They work hard, even if they don't show it.",
-char_284_spot_CN_009,Talk after Trust Increase 3,"I used to live free and easy like everyone else at Rhodes Island, but my family thought I was a freak. This place may be a freakshow, but at least everyone's happy, and that's pretty good.",
-char_284_spot_CN_010,Idle,Can I go back to my room now?,
-char_284_spot_CN_011,Onboard,"Hi, I'm Spot from Operation Reserve Team A6. My job is to protect the other troublemakers on my team, I guess.",
-char_284_spot_CN_012,Watching Battle Record,I've seen this battle before. Bad guys got their asses kicked.,
-char_284_spot_CN_013,Promotion 1,"I'm gonna work twice as hard. I'll bump it up from a 0.1 to a 0.2, I think.",
-char_284_spot_CN_017,Added to Squad,I won't ask about the meaning of this mission then.,
-char_284_spot_CN_018,Appointed as Squad Leader,I wanna get back to my dorm.,
-char_284_spot_CN_019,Depart,Got it.,
-char_284_spot_CN_020,Begin Operation,Save us a lot of time if you just surrender.,
-char_284_spot_CN_021,Selecting Operator 1,Whatever you say.,
-char_284_spot_CN_022,Selecting Operator 2,Doesn't matter to me.,
-char_284_spot_CN_023,Deployment 1,Alright then.,
-char_284_spot_CN_024,Deployment 2,"Yeah, yeah, fine.",
-char_284_spot_CN_025,In Battle 1,"Hey, catch.",
-char_284_spot_CN_026,In Battle 2,Don't see any harm in this.,
-char_284_spot_CN_027,In Battle 3,So many weaknesses.,
-char_284_spot_CN_028,In Battle 4,"Holding this shield is tiring, pal.",
-char_284_spot_CN_029,4-star Result,"Been through an easy battle, you say? Then better do it all over again.",
-char_284_spot_CN_030,3-star Result,"With hard work, even an idiot can get the job done.",
-char_284_spot_CN_031,Sub 3-star Result,"Perfection is for suckers, you know.",
-char_284_spot_CN_032,Operation Failure,"Relax, you're doing fine.",
-char_284_spot_CN_033,Assigned to Facility,Yeah sure.,
-char_284_spot_CN_034,Tap,Ah.,
-char_284_spot_CN_036,Trust Tap,"If you keep petting me like that, my hair's gonna get tangled.",
-char_284_spot_CN_037,Title,Arknights.,
-char_284_spot_CN_038,New Year's blessing,"It's the start of a new year. If you were expecting anything to change on its own with time, then stop dreaming. Really changing yourself takes way more effort than that. If you can manage it, do it.",
-char_284_spot_CN_042,Greeting,Hey Doctor...,
-char_284_spot_CN_043,Birthday,"Happy birthday. I don't have anything decent, but you can have this old set of limited-edition comics. I always dreamed of becoming a hero when I was little, but I learned the hard way that it takes all my effort just to stay alive. Don't worry, the comics are still good.",
-char_284_spot_CN_044,Anniversary Celebration,"Someone like me can't exactly say I fully embrace Rhodes Island's ideals from the bottom of my heart. I only raise my shield to protect the troublemakers of A6, that's all. Doctor, let's try and survive this troublesome land together.",
+id,title,original,original_zh,translation
+char_284_spot_CN_001,Appointed as Assistant,"Work's kinda like a trap, and you just fling yourself into it.",工作就像是陷阱，你得主动跳进去才行。,Работа — как ловушка: надо самому прыгнуть в неё.
+char_284_spot_CN_002,Talk 1,I don't talk much 'cause I don't want to. Not 'cause I'm looking down on anyone.,我不说话只是因为不想，没有看不起谁的意思。,"Я не разговариваю не потому, что кого-то презираю, а просто потому, что не хочу."
+char_284_spot_CN_003,Talk 2,What did Midnight do this time? Did he finally end up in Medical after hitting on one too many ladies in the hallway? No? Too bad.,月见夜又做什么了，他是不是终于因为在走廊上搭讪遭人讨厌甚至被送进医务室了？没有？真是遗憾。,"Что натворил Миднайт? Он наконец до того приставал к девушкам в коридоре, что его отправили в медпункт? Нет? Очень жаль."
+char_284_spot_CN_004,Talk 3,"Got something, Doctor? I could probably lend a hand. But I'd rather not eat up too much of my time. I got a lot of comics to read.",有事吗，博士？我大概能帮上点忙。不过，要是能不占用我用来看漫画的休息时间，当然会更好。,"Что-то нужное, Доктор? Я мог бы помочь. Но лучше, если это не отнимет много времени — у меня полно комиксов."
+char_284_spot_CN_005,Talk after Promotion 1,"I know I speak a little too bluntly sometimes, but I always get my work done. It's not like I got professional pride or anything, I just can't respect somebody who doesn't finish his work.",虽然有时候我说话很直接，但该做的事情，我一定会做好。这不关职业道德什么事，只是我觉得连任务都没法完成的人，一定没有用心去做。,"Я иногда слишком прямо говорю, но работу свою делаю. Дело не в профессиональной гордости — просто я не уважаю тех, кто не доводит начатое до конца."
+char_284_spot_CN_007,Talk after Trust Increase 1,"Rhodes Island is a strange place. The people here just say whatever they're thinking, and somebody's always there to help when someone needs it.",罗德岛是个奇怪的地方。这里的人有什么情绪都会说出来，有什么需要帮忙的地方就自然会有人伸出援手。,"Родос — странное место. Люди здесь говорят, что чувствуют, а если кому-то нужна помощь — всегда находится тот, кто протянет руку."
+char_284_spot_CN_008,Talk after Trust Increase 2,"Reserve Op Team A6 is a real diverse crowd. We have Lady Stinky-face, Miss Lacking-self-confrol, Narcissist Kun, and a little walking time bomb. But still, I do think I can trust them. They work hard, even if they don't show it.",虽然A6行动预备组的各位，不是每天摆着张臭脸就是没有自控能力，要么自我意识过剩或者根本是颗移动炸弹，但我依然觉得他们很可靠。因为他们真的在努力，哪怕是偷偷的。,"Хотя ребята из резервной группы A6 то и дело хмурятся, не могут себя контролировать, слишком о себе думают или просто ходят как ходячая бомба — я всё равно считаю их надёжными. Они правда стараются, пусть и украдкой."
+char_284_spot_CN_009,Talk after Trust Increase 3,"I used to live free and easy like everyone else at Rhodes Island, but my family thought I was a freak. This place may be a freakshow, but at least everyone's happy, and that's pretty good.",我以前也是个像诸位罗德岛干员一样自由自在的人，我的家庭却觉得那样的我是个怪胎。也许这里是个怪胎集合地也说不定，但至少，大家都很快乐。这样也不错。,"Раньше я жил свободно, как вы все здесь, но моя семья считала меня уродом. Может, это место — сборище уродов, но зато все здесь счастливы. И это неплохо."
+char_284_spot_CN_010,Idle,Can I go back to my room now?,我可以先回宿舍吗？,Можно мне уже вернуться в комнату?
+char_284_spot_CN_011,Onboard,"Hi, I'm Spot from Operation Reserve Team A6. My job is to protect the other troublemakers on my team, I guess.",你好，我是隶属行动预备组A6的斑点，职责大概是保护预备组每天都在闹腾的另外几个家伙。,"Привет, я Спот из резервной группы A6. Моя работа — примерно присматривать за другими нарушителями в отряде."
+char_284_spot_CN_012,Watching Battle Record,I've seen this battle before. Bad guys got their asses kicked.,这场战斗我看过，敌人都完蛋了。,Я уже видел этот бой. Плохие получили по заслугам.
+char_284_spot_CN_013,Promotion 1,"I'm gonna work twice as hard. I'll bump it up from a 0.1 to a 0.2, I think.",我会加倍努力工作的，从0.1到0.2的水平吧。,"Я буду работать вдвое усерднее. Подниму свой уровень с 0,1 до 0,2, кажется."
+char_284_spot_CN_017,Added to Squad,I won't ask about the meaning of this mission then.,我就不询问这次作战的意义了。,Я не буду спрашивать о смысле этой операции.
+char_284_spot_CN_018,Appointed as Squad Leader,I wanna get back to my dorm.,我想回宿舍了。,Хочу вернуться в общежитие.
+char_284_spot_CN_019,Depart,Got it.,知道了。,Понял.
+char_284_spot_CN_020,Begin Operation,Save us a lot of time if you just surrender.,你们直接投降能节约我很多时间。,Сдадитесь сразу — сэкономите мне кучу времени.
+char_284_spot_CN_021,Selecting Operator 1,Whatever you say.,怎么样都行。,Как скажешь.
+char_284_spot_CN_022,Selecting Operator 2,Doesn't matter to me.,我随便。,Мне всё равно.
+char_284_spot_CN_023,Deployment 1,Alright then.,就这样吧。,Ладно.
+char_284_spot_CN_024,Deployment 2,"Yeah, yeah, fine.",挺好的。,Нормально.
+char_284_spot_CN_025,In Battle 1,"Hey, catch.",试试这个。,Попробуй это.
+char_284_spot_CN_026,In Battle 2,Don't see any harm in this.,应该不会伤到队友。,"Похоже, союзникам это не повредит."
+char_284_spot_CN_027,In Battle 3,So many weaknesses.,破绽太多了。,Слишком много слабых мест.
+char_284_spot_CN_028,In Battle 4,"Holding this shield is tiring, pal.",举盾也是很累的。,Держать щит тоже устаёшь.
+char_284_spot_CN_029,4-star Result,"Been through an easy battle, you say? Then better do it all over again.",每当你觉得一场战斗很轻松的时候，就最好再来一次。,Если бой показался лёгким — лучше повторить.
+char_284_spot_CN_030,3-star Result,"With hard work, even an idiot can get the job done.",只要肯努力，就算大脑空空也能做好。,При желании и пустая голова справится с работой.
+char_284_spot_CN_031,Sub 3-star Result,"Perfection is for suckers, you know.",瑕疵是一种必然，从结果来说。,"Изъян неизбежен, если смотреть на результат."
+char_284_spot_CN_032,Operation Failure,"Relax, you're doing fine.",别紧张，你这样没事。,"Не нервничай, у тебя всё нормально."
+char_284_spot_CN_033,Assigned to Facility,Yeah sure.,这样也可以。,И так сойдёт.
+char_284_spot_CN_034,Tap,Ah.,哦。,А.
+char_284_spot_CN_036,Trust Tap,"If you keep petting me like that, my hair's gonna get tangled.",你这样摸，我的毛会打结的。,"Если будешь гладить меня так, у меня шерсть спутается."
+char_284_spot_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_284_spot_CN_038,New Year's blessing,"It's the start of a new year. If you were expecting anything to change on its own with time, then stop dreaming. Really changing yourself takes way more effort than that. If you can manage it, do it.",新的一年开始了。你要是指望时间能改变些什么，我会劝你别想了。人的改变要付出数十倍于日常的努力，如果做得到，就证明给大家看看吧。,"Новый год начался. Если ждёшь, что время само что-то изменит, — не мечтай. Чтобы по-настоящему измениться, нужно в разы больше усилий, чем в обычные дни. Сможешь — покажи всем."
+char_284_spot_CN_042,Greeting,Hey Doctor...,博士。,"Эй, Доктор..."
+char_284_spot_CN_043,Birthday,"Happy birthday. I don't have anything decent, but you can have this old set of limited-edition comics. I always dreamed of becoming a hero when I was little, but I learned the hard way that it takes all my effort just to stay alive. Don't worry, the comics are still good.",生日快乐啊。没法准备什么像样的礼物，这套精装漫画就送给你吧。小时候，常常许愿可以变成故事里的大英雄，长大后发现，仅仅是活着就要拼尽全力了。啊，不用在意。漫画本身还是很好看的。,"С днём рождения. Не смог подготовить ничего приличного, так что дарю тебе этот комплект комиксов в твёрдом переплёте. В детстве я часто мечтал стать героем из истории, а повзрослев понял, что просто остаться в живых — уже требует всех сил. Не обращай внимания. Комиксы и так хорошие."
+char_284_spot_CN_044,Anniversary Celebration,"Someone like me can't exactly say I fully embrace Rhodes Island's ideals from the bottom of my heart. I only raise my shield to protect the troublemakers of A6, that's all. Doctor, let's try and survive this troublesome land together.",像我这种人，实在是没法说出“发自内心地认同罗德岛的理念”这种话。保护A6这几个麻烦的家伙，就是我举盾的全部理由了。博士，让我们都适当努力，尽量在麻烦里活下来吧。,"Такой человек, как я, не может сказать, что «от всего сердца разделяет идеалы Родоса». Я поднимаю щит только ради того, чтобы защитить проблемных ребят из A6, — и всё. Доктор, давай постараемся выжить в этой кутерьме."

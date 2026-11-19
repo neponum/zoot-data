@@ -1,39 +1,39 @@
-id,title,original,translation
-char_369_bena_CN_001,Appointed as Assistant,Do you think me Lady of the Office? This is work for <i>grown-ups</i>.,
-char_369_bena_CN_002,Talk 1,"Don't take Iris's songs so literally. They're meant for the young ones, you know. What? Yes, I'm the guard with the scissors—what about it? Chop-chop? That's the sound of me making clothes—what did YOU think it was? Huh... adults, honestly. So eager to assume the worst.",
-char_369_bena_CN_003,Talk 2,"Preservation techniques? Huh, fat chance. Even Iris hasn't the faintest clue about how I safekeep things. Why should I let YOU know?",
-char_369_bena_CN_004,Talk 3,"Let me introduce Annie to you. She's my very best friend, and another 'me.'",
-char_369_bena_CN_005,Talk after Promotion 1,"Don't ask me. I don't know why the Castle takes deposits from everywhere, just to send them back out. Granny wants me doing it, so I do. Don't you know? I hear adults call that <i>work.</i> It's when <i>someone</i> has to do it.",
-char_369_bena_CN_006,Talk after Promotion 2,"Annie's just the quiet sort, nothing at all like me. C-Controlling her? What are you talking about? She's a whole person, she goes where she wants to! She's only by my side because she likes being with me. That's what best friends do. Isn't it, Annie? 'Mm.'",
-char_369_bena_CN_007,Talk after Trust Increase 1,"With all the children here, it's no wonder Iris doesn't want to leave. Hrmm... if this carries on, we'd be better off plonking the whole Castle of Dreams here onto Rhodes Island. That'd save so much time and effort.",
-char_369_bena_CN_008,Talk after Trust Increase 2,"Good girl this and good girl that, are you saying that I'm not <i>good</i>?—Well, I suppose sometimes you can't just do as you please. You have to 'act' a little, Granny says. Act how? Well... 'My greetings to you. I come from the County of Linton. Bena is my name.' Something like that, you know!",
-char_369_bena_CN_009,Talk after Trust Increase 3,"Granny brought me into the Castle when I was young, and I grew up there, and once she retired, I took over her whole job. What could I have in common with Iris, Little Miss Heir-to-the-Castle? What, you think I'm jealous? Dream on! Iris has to watch her figure, but me? I can eat all I want without putting on a pound!",
-char_369_bena_CN_010,Idle,"'Rest soundly. Doctor.' Who cares about that Doctor? Come on, let's go out and play! 'Alright.'",
-char_369_bena_CN_011,Onboard,"I'm Bena, and I <i>was</i> here to fetch an idiot who went out and forgot to come home. But I hear she still has things to do, so <i>I'll</i> just stay a while and keep her company.",
-char_369_bena_CN_012,Watching Battle Record,"Oh, you can't show something this violent to Annie and me.",
-char_369_bena_CN_013,Promotion 1,"Ah-hah! See, you <i>do</i> know how to play by children's rules!",
-char_369_bena_CN_014,Promotion 2,"Annie, are you ready? We're going to show this hooded hoodlum what our Arts are made of! 'Alright, Bena.'",
-char_369_bena_CN_017,Added to Squad,Two people for a single job. This won't be tricky.,
-char_369_bena_CN_018,Appointed as Squad Leader,"Attention, please! Annie's told me of some brilliant ideas.",
-char_369_bena_CN_019,Depart,Let's just take it like a walk in the forest.,
-char_369_bena_CN_020,Begin Operation,So you want to pull these toys apart too?,
-char_369_bena_CN_021,Selecting Operator 1,Hehehee.,
-char_369_bena_CN_022,Selecting Operator 2,Don't you rush me!,
-char_369_bena_CN_023,Deployment 1,"Annie, don't go <i>too</i> far.",
-char_369_bena_CN_024,Deployment 2,"Have to be careful, now.",
-char_369_bena_CN_025,In Battle 1,It's trimming time!,
-char_369_bena_CN_026,In Battle 2,Chop-chop!,
-char_369_bena_CN_027,In Battle 3,Whatever breaks needs a fixing.,
-char_369_bena_CN_028,In Battle 4,"If there's no fixing it, smash it to pieces.",
-char_369_bena_CN_029,4-star Result,What did you expect? I'm a dab hand at doing bad things to bad people!,
-char_369_bena_CN_030,3-star Result,No one else in need of a trim?,
-char_369_bena_CN_031,Sub 3-star Result,"Leave the rest to the adults, then. We're going home.",
-char_369_bena_CN_032,Operation Failure,"Annie, where are you?!",
-char_369_bena_CN_033,Assigned to Facility,"Hang on, this room's a little small. We're two people here.",
-char_369_bena_CN_034,Tap,Wagh!,
-char_369_bena_CN_036,Trust Tap,Annie's off on an adventure. Want to come along?,
-char_369_bena_CN_037,Title,Arknights.,
-char_369_bena_CN_038,New Year's blessing,"Well, happy New Year to you. Annie and I are taking our crack at the Yanese lantern tradition. This one's for Granny, may she live a long and healthy life. And this one's for you, may you... err... you know what, make your own wish...",
-char_369_bena_CN_042,Greeting,"Hey, no hiding things! What's that you're playing with?",
-char_369_bena_CN_043,Birthday,"It just baffles me! How can you all be so happy to have your birthdays? One year older is one year further from your childhood innocence. Honestly... here, a new pillow for you. Take it and dream sweet dreams. I wish that you keep that child at heart of yours alive... forever and ever.",
-char_369_bena_CN_044,Anniversary Celebration,"It's all over the shop today, isn't it! Let me take some photos for you. One, two... Good, these merry moments are safe and sound now. If you ever want to relive the memories of today, just come see me at the Castle.",
+id,title,original,original_zh,translation
+char_369_bena_CN_001,Appointed as Assistant,Do you think me Lady of the Office? This is work for <i>grown-ups</i>.,你看我像是坐办公室的优雅大姐姐吗？,"Я что, похожа на важную даму из конторы? Это работа для <i>взрослых</i>."
+char_369_bena_CN_002,Talk 1,"Don't take Iris's songs so literally. They're meant for the young ones, you know. What? Yes, I'm the guard with the scissors—what about it? Chop-chop? That's the sound of me making clothes—what did YOU think it was? Huh... adults, honestly. So eager to assume the worst.",别把爱丽丝的歌当真了，那个就是哄小朋友用的。啊？嗯啊，拿剪刀的守卫是我，怎么了？咔嚓咔嚓？那是做衣服啊，你以为是什么？唉，大人们真是的，总喜欢往坏处想。,"Не принимайте песни Айрис слишком буквально — они для маленьких, понятно? А? Да, это я хожу с ножницами — и что? Щёлк-щёлк? Это я шью платья, а вы что подумали? Ох, эти взрослые — всегда ждут от всех худшего."
+char_369_bena_CN_003,Talk 2,"Preservation techniques? Huh, fat chance. Even Iris hasn't the faintest clue about how I safekeep things. Why should I let YOU know?",保存技术？我不知道。爱丽丝都不清楚我是怎么保管东西的，为什么要告诉你？,"Техника сохранения? Не знаю. Даже Айрис не знает, как я всё храню. Почему я должна вам говорить?"
+char_369_bena_CN_004,Talk 3,"Let me introduce Annie to you. She's my very best friend, and another 'me.'",来认识一下安妮，我最好的朋友，另外一个，“我”。,Познакомьтесь с Анни. Она моя лучшая подруга и другой «я».
+char_369_bena_CN_005,Talk after Promotion 1,"Don't ask me. I don't know why the Castle takes deposits from everywhere, just to send them back out. Granny wants me doing it, so I do. Don't you know? I hear adults call that <i>work.</i> It's when <i>someone</i> has to do it.",别问我，我可不知道城堡为什么要到处收东西存着然后送出去。奶奶让我做，我就做了。用大人的说法，这叫工作，总得有人做的。,"Не спрашивайте меня, я не знаю, почему Замок собирает вещи отовсюду, чтобы потом их рассылать. Бабушка велела — я и делаю. По-взрослому это называется <i>работа</i>. Кто-то же должен её делать."
+char_369_bena_CN_006,Talk after Promotion 2,"Annie's just the quiet sort, nothing at all like me. C-Controlling her? What are you talking about? She's a whole person, she goes where she wants to! She's only by my side because she likes being with me. That's what best friends do. Isn't it, Annie? 'Mm.'",安妮本来就是个安静的人，和我完全不一样。操控？你在想什么？！她是个人，想去哪里就去哪里，在我身边只是因为喜欢和我在一起，最要好的朋友总是要在一起的嘛，对吧？“嗯。”,"Анни просто тихая, совсем не похожа на меня. К-Контролирую её? О чём вы?! Она человек, идёт, куда хочет! Она рядом со мной, потому что ей нравится быть со мной. Так и поступают лучшие друзья. Верно, Анни? «Мм»."
+char_369_bena_CN_007,Talk after Trust Increase 1,"With all the children here, it's no wonder Iris doesn't want to leave. Hrmm... if this carries on, we'd be better off plonking the whole Castle of Dreams here onto Rhodes Island. That'd save so much time and effort.",这里的小孩子太多，难怪爱丽丝不想回来。嗯……再这样下去，干脆把整个梦城堡都搬到罗德岛上来算了，省时又省力。,"Здесь так много детей, неудивительно, что Айрис не хочет возвращаться. Мм... если так пойдёт, проще весь Замок снов перетащить на Родос — и времени меньше, и сил."
+char_369_bena_CN_008,Talk after Trust Increase 2,"Good girl this and good girl that, are you saying that I'm not <i>good</i>?—Well, I suppose sometimes you can't just do as you please. You have to 'act' a little, Granny says. Act how? Well... 'My greetings to you. I come from the County of Linton. Bena is my name.' Something like that, you know!",什么叫乖小孩，你是说我不乖咯？不过奶奶说了，有些场合不能由着性子来，要适当“表演”一下。比如？嗯……“您好，我是来自林顿郡的贝娜。”大概就这种感觉。,"«Хорошая девочка», «хорошая девочка» — вы хотите сказать, что я не <i>хорошая</i>?.. Впрочем, бабушка говорит, что в некоторых случаях нельзя поступать как хочется и надо немного «поиграть» роль. Как? Ну... «Здравствуйте, я из графства Линтон. Меня зовут Бена». Что-то в этом роде."
+char_369_bena_CN_009,Talk after Trust Increase 3,"Granny brought me into the Castle when I was young, and I grew up there, and once she retired, I took over her whole job. What could I have in common with Iris, Little Miss Heir-to-the-Castle? What, you think I'm jealous? Dream on! Iris has to watch her figure, but me? I can eat all I want without putting on a pound!",我是被奶奶捡到城堡的，从小在城堡长大，奶奶退休了就接替她为城堡工作，怎么会和继承城堡的爱丽丝一样呢？你是说，羡慕？那可不会，她还要想着维持身材呢，我呢，怎么吃都不长肉的，哈哈。,"Бабушка забрала меня в Замок, когда я была маленькой, я там выросла, а когда вышла на пенсию, я переняла все её дела. Что у меня общего с Айрис, этой «наследницей замка»? Что, вы думаете, я завидую? Как бы не так! Ей приходится следить за фигурой, а я — ем сколько хочу и ни грамма не прибавляю, ха-ха."
+char_369_bena_CN_010,Idle,"'Rest soundly. Doctor.' Who cares about that Doctor? Come on, let's go out and play! 'Alright.'",“好好休息。博士。”别管他了，我们出去玩吧。“好的。”,"«Хорошего отдыха, Доктор». Не обращайте на него внимания, пойдём играть. «Хорошо»."
+char_369_bena_CN_011,Onboard,"I'm Bena, and I <i>was</i> here to fetch an idiot who went out and forgot to come home. But I hear she still has things to do, so <i>I'll</i> just stay a while and keep her company.",我叫贝娜，来找一个出门就忘了回家的笨蛋。听说她还有些活要干，没办法，我也在这陪她一会好了。,"Я — Бена. Я <i>была</i> здесь, чтобы забрать одну дурашку, которая вышла и забыла домой. Но, слышала, у неё ещё есть дела, так что <i>я</i> пока останусь и составлю ей компанию."
+char_369_bena_CN_012,Watching Battle Record,"Oh, you can't show something this violent to Annie and me.",打打杀杀的东西不适合给我和安妮看。,"О, это не для Анни и меня — слишком жестоко."
+char_369_bena_CN_013,Promotion 1,"Ah-hah! See, you <i>do</i> know how to play by children's rules!",哼哼，看来你挺懂怎么讨小孩子欢心的嘛。,"Ага! Видите, вы и правда умеете играть по-детски!"
+char_369_bena_CN_014,Promotion 2,"Annie, are you ready? We're going to show this hooded hoodlum what our Arts are made of! 'Alright, Bena.'",准备好了吗，安妮，给这个摘不下兜帽的家伙见识下我们的技艺！“好的，贝娜。”,"Готова, Анни? Покажем этому парню в капюшоне, на что мы способны! «Хорошо, Бена»."
+char_369_bena_CN_017,Added to Squad,Two people for a single job. This won't be tricky.,两个人做一份工，好像不难嘛。,Двое на одну работу — вроде не так уж трудно.
+char_369_bena_CN_018,Appointed as Squad Leader,"Attention, please! Annie's told me of some brilliant ideas.",安妮有些想法，我来说给大家听。,"Внимание! Анни кое-что придумала, я вам расскажу."
+char_369_bena_CN_019,Depart,Let's just take it like a walk in the forest.,就当是去森林里散步好了。,"Будем считать, что это прогулка по лесу."
+char_369_bena_CN_020,Begin Operation,So you want to pull these toys apart too?,你也想拆这些玩具吗？,И вы тоже хотите разобрать эти игрушки?
+char_369_bena_CN_021,Selecting Operator 1,Hehehee.,哼哼。,Хи-хи-хи.
+char_369_bena_CN_022,Selecting Operator 2,Don't you rush me!,别催我啊。,Не торопи меня!
+char_369_bena_CN_023,Deployment 1,"Annie, don't go <i>too</i> far.",安妮，别走太远。,"Анни, не уходи <i>слишком</i> далеко."
+char_369_bena_CN_024,Deployment 2,"Have to be careful, now.",要当心呐。,Надо быть осторожной.
+char_369_bena_CN_025,In Battle 1,It's trimming time!,修剪时间到！,Время стричь!
+char_369_bena_CN_026,In Battle 2,Chop-chop!,咔嚓咔嚓。,Щёлк-щёлк!
+char_369_bena_CN_027,In Battle 3,Whatever breaks needs a fixing.,坏掉的东西就得修理。,Сломанное надо чинить.
+char_369_bena_CN_028,In Battle 4,"If there's no fixing it, smash it to pieces.",修不好就弄碎吧。,Не починится — разбей вдребезги.
+char_369_bena_CN_029,4-star Result,What did you expect? I'm a dab hand at doing bad things to bad people!,那是，我可擅长对坏人做坏事了。,"Ну да, я как раз и умею делать плохое плохим людям."
+char_369_bena_CN_030,3-star Result,No one else in need of a trim?,没有坏人要修剪了吧。,Больше никого не надо стричь?
+char_369_bena_CN_031,Sub 3-star Result,"Leave the rest to the adults, then. We're going home.",剩下的就交给大人吧，我们回家。,Остальное предоставьте взрослым. Мы идём домой.
+char_369_bena_CN_032,Operation Failure,"Annie, where are you?!",安妮，你在哪里？！,"Анни, где ты?!"
+char_369_bena_CN_033,Assigned to Facility,"Hang on, this room's a little small. We're two people here.",我们有两个人，房间不够大啊。,"Погоди, комната маловата. Нас же двое."
+char_369_bena_CN_034,Tap,Wagh!,哎呀！,Ай!
+char_369_bena_CN_036,Trust Tap,Annie's off on an adventure. Want to come along?,安妮正在探险，你也一起来吗？,Анни отправилась в приключение. Хочешь с ней?
+char_369_bena_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_369_bena_CN_038,New Year's blessing,"Well, happy New Year to you. Annie and I are taking our crack at the Yanese lantern tradition. This one's for Granny, may she live a long and healthy life. And this one's for you, may you... err... you know what, make your own wish...",新年好啊。我和安妮在做新年花灯。这盏灯给奶奶，祝她长命百岁。这一盏给你，祝你……呃……你自己许愿吧……,"Ну, с новым годом. Мы с Анни делаем новогодние фонарики. Этот — бабушке, пусть живёт долго и здорово. А этот — вам, желаю... э-э... ну, загадайте что-нибудь сами..."
+char_369_bena_CN_042,Greeting,"Hey, no hiding things! What's that you're playing with?",嘿，偷偷摸摸玩什么呢！,"Эй, не прячься! Что это ты там играешь?"
+char_369_bena_CN_043,Birthday,"It just baffles me! How can you all be so happy to have your birthdays? One year older is one year further from your childhood innocence. Honestly... here, a new pillow for you. Take it and dream sweet dreams. I wish that you keep that child at heart of yours alive... forever and ever.",真是不明白，为什么很多人过生日的时候都很开心呢？长大了一岁，就离童真又远了一点。算了，这个枕头送给你，枕着它做个好梦吧。祝你在任何时候，都不会丢掉最宝贵的童心。,"Не понимаю! Почему все радуются дням рождения? Стали на год старше — и на год дальше от детской наивности. Ладно, вот тебе подушка, спи на ней и видишь хорошие сны. Желаю, чтобы ты никогда не потерял своё самое драгоценное детское чувство — никогда-никогда."
+char_369_bena_CN_044,Anniversary Celebration,"It's all over the shop today, isn't it! Let me take some photos for you. One, two... Good, these merry moments are safe and sound now. If you ever want to relive the memories of today, just come see me at the Castle.",今天真是热闹啊。我来给这里拍张照吧，一、二……好，今天的快乐回忆已经被我保存下来啦。等你想要重温今天的回忆的时候，就来城堡找我吧。,"Сегодня тут так оживлённо! Давайте я вас сфотографирую. Раз, два... Готово, сегодняшние радостные воспоминания надёжно сохранены. Захотите их пережить — приходите в Замок ко мне."

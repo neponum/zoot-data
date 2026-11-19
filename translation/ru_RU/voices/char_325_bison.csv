@@ -1,38 +1,38 @@
-id,title,original,translation
-char_325_bison_CN_001,Appointed as Assistant,"Doctor, do you need my help transporting anything?",
-char_325_bison_CN_002,Talk 1,"This noisy metal music… Exusiai must be throwing another party. Doctor, should I go nudge her?",
-char_325_bison_CN_003,Talk 2,"I'm quite good with manual labor. I also know a bit about company management. So, Doctor, is there anywhere I can be of use?",
-char_325_bison_CN_004,Talk 3,"My parents were the first generation to settle in Lungmen, so I'm actually a Lungmen native… Doctor, if there's anything you'd like to know about the place, I wouldn't mind helping you out.",
-char_325_bison_CN_005,Talk after Promotion 1,"Doctor, if you want to know how a real logistics company operates, it'd be best to just ask me directly. Penguin Logistics is more of an exception than the rule, and though I don't mean this in a bad way, they won't make for a good reference at all.",
-char_325_bison_CN_006,Talk after Promotion 2,"What do I like to do outside of work? Besides just resting, I'll sometimes go with Croissant on her shopping trips, help her carry stuff, and make sure she doesn't waste too much money… Want to join us, Doctor?",
-char_325_bison_CN_007,Talk after Trust Increase 1,"I used to believe that for any company to survive in the long run, standardization and efficiency were critically important. That's why at first, I couldn't fathom how a company like Penguin Logistics could stay afloat.",
-char_325_bison_CN_008,Talk after Trust Increase 2,"After getting to know more about the people at Penguin Logistics and talking to them, I began to understand that the world is much broader than I had thought. There's nothing wrong with structure and rules, but they don't necessarily apply to everyone.",
-char_325_bison_CN_009,Talk after Trust Increase 3,"Doctor, perhaps you haven't realized this yourself, but to unite such a diverse group of people under your banner, that's no simple feat… It'd be great if I could become more like you one day.",
-char_325_bison_CN_010,Idle,"Doctor… Oh, it's your nap time. Guess I'll tidy up this place for now.",
-char_325_bison_CN_011,Onboard,"Pleased to meet you, Doctor. My name is Bison. According to the terms of our contract, I'm now also an employee of Rhodes Island. I look forward to working with you.",
-char_325_bison_CN_012,Watching Battle Record,Thank you very much. I will make sure to learn from this.,
-char_325_bison_CN_013,Promotion 1,"Thank you very much, Doctor. I believe that as long as I put my best foot forward, my hard work will be rewarded.",
-char_325_bison_CN_014,Promotion 2,"With Penguin Logistics and Rhodes Island, I've seen a more expansive world than I knew… Doctor, one day, I will also find my place in this world.",
-char_325_bison_CN_017,Added to Squad,A mission? Understood.,
-char_325_bison_CN_018,Appointed as Squad Leader,On-site command… I have some experience with that.,
-char_325_bison_CN_019,Depart,"Yes, I've noted the mission location and objectives.",
-char_325_bison_CN_020,Begin Operation,Phew… I'll get my job done.,
-char_325_bison_CN_021,Selecting Operator 1,What would you like me to do?,
-char_325_bison_CN_022,Selecting Operator 2,"Is it my turn, Doctor?",
-char_325_bison_CN_023,Deployment 1,I'll do my best.,
-char_325_bison_CN_024,Deployment 2,Got it.,
-char_325_bison_CN_025,In Battle 1,I'll hold my ground.,
-char_325_bison_CN_026,In Battle 2,Hang in there a bit longer? Understood.,
-char_325_bison_CN_027,In Battle 3,"Don't worry, my shield still holds firm.",
-char_325_bison_CN_029,4-star Result,"Way to go, Doctor! You're the kind of leader any company would want to hire.",
-char_325_bison_CN_030,3-star Result,"Wow, Doctor! You really are amazing.",
-char_325_bison_CN_031,Sub 3-star Result,"The basic objectives of the mission have been accomplished. This should be good enough, right?",
-char_325_bison_CN_032,Operation Failure,"Don't feel down, Doctor. We'll have another chance.",
-char_325_bison_CN_033,Assigned to Facility,So this is the inside of Rhodes Island… It sure is big.,
-char_325_bison_CN_034,Tap,Where should I go?,
-char_325_bison_CN_036,Trust Tap,Sora's new album is really good.,
-char_325_bison_CN_037,Title,Arknights.,
-char_325_bison_CN_038,New Year's blessing,"It's New Year's, so on behalf of MountainDash Logistics, I'm sending formal greetings to Rhodes Island. May everything go well for Rhodes Island's employees, and may you be safe and sound in the coming year. Also, here's a personal card from me to you, Doctor, to wish you a Happy New Year. To another great year working together.",
-char_325_bison_CN_042,Greeting,"Good morning, Doctor!",
-char_325_bison_CN_043,Birthday,"Doctor, happy birthday. Please try this bowl of long life noodles. All ingredients have been chosen with care. It has wheat from Yan, steak from Ursus, and the broth is Iberian ham. It took me months to put together, and it was still a rush to get everything in on time. I hope you like it.",
-char_325_bison_CN_044,Anniversary Celebration,"My father says the most precious thing to a business is pulling everyone together under the same ideal. At Penguin Logistics and Rhodes Island, I've seen that cohesion for myself. I have to learn from yours and Emperor's examples, in that regard.",
+id,title,original,original_zh,translation
+char_325_bison_CN_001,Appointed as Assistant,"Doctor, do you need my help transporting anything?",博士，需要我帮忙搬什么东西吗？,"Доктор, нужно ли вам что-нибудь перенести?"
+char_325_bison_CN_002,Talk 1,"This noisy metal music… Exusiai must be throwing another party. Doctor, should I go nudge her?",这个吵闹的金属乐声……能天使姐又在自顾自开派对了。博士，要不要我去提醒她一下？,"Этот оглушительный металлический грохот... Эксузай опять устроила вечеринку. Доктор, сходить ей напомнить?"
+char_325_bison_CN_003,Talk 2,"I'm quite good with manual labor. I also know a bit about company management. So, Doctor, is there anywhere I can be of use?",体力活的话，我很擅长。公司经营方面的事务，我也懂一些。所以，博士，有什么我能派上用场的地方吗？,"С физической работой у меня всё хорошо. В управлении компанией я тоже кое-что понимаю. Так что, Доктор, чем я могу вам помочь?"
+char_325_bison_CN_004,Talk 3,"My parents were the first generation to settle in Lungmen, so I'm actually a Lungmen native… Doctor, if there's anything you'd like to know about the place, I wouldn't mind helping you out.",因为父亲这一代在龙门扎根，我其实是土生土长的龙门人……博士你要是想了解龙门的话，我倒是可以帮上忙。,"Мой отец осел в Лунмэне, так что я на самом деле коренной лунмэнец... Доктор, если хотите узнать об этом городе побольше — я с радостью помогу."
+char_325_bison_CN_005,Talk after Promotion 1,"Doctor, if you want to know how a real logistics company operates, it'd be best to just ask me directly. Penguin Logistics is more of an exception than the rule, and though I don't mean this in a bad way, they won't make for a good reference at all.",博士，想知道正规物流公司的运作方式的话，直接来问我比较好。企鹅物流是个特例，毫无恶意地说，他们应该没有任何参考价值……,"Доктор, если хотите знать, как работает настоящая логистическая компания, лучше спросить меня напрямую. Пингвин Логистикс — скорее исключение, чем правило, и без всякого злого умысла скажу: ориентиром они не послужат."
+char_325_bison_CN_006,Talk after Promotion 2,"What do I like to do outside of work? Besides just resting, I'll sometimes go with Croissant on her shopping trips, help her carry stuff, and make sure she doesn't waste too much money… Want to join us, Doctor?",任务之外的安排？一般除了休息，就是陪可颂姐逛街吧，我要负责帮她提东西，还要制止她乱花钱……博士也想一起来吗？,"Что я делаю после работы? Кроме отдыха — обычно хожу по магазинам с Круассан: я ношу её пакеты и не даю ей слишком много тратить... Доктор, хотите с нами?"
+char_325_bison_CN_007,Talk after Trust Increase 1,"I used to believe that for any company to survive in the long run, standardization and efficiency were critically important. That's why at first, I couldn't fathom how a company like Penguin Logistics could stay afloat.",我过去一直认为，对任何公司来说，规范的流程和高效的执行才是能让它长久运转的关键。所以最开始的时候，我非常不理解，为什么企鹅物流这样的公司能够存续下来。,"Раньше я считал, что для любой компании, чтобы долго существовать, критически важны чёткие процессы и эффективность. Поэтому поначалу я никак не мог понять, как компания вроде Пингвин Логистикс вообще держится на плаву."
+char_325_bison_CN_008,Talk after Trust Increase 2,"After getting to know more about the people at Penguin Logistics and talking to them, I began to understand that the world is much broader than I had thought. There's nothing wrong with structure and rules, but they don't necessarily apply to everyone.",和企鹅物流的人接触了以后，和几位姐姐们的相处让我明白了一件事——这个世界，比我想的要宽广许多。条理与规则没有错，但它不适用于所有人。,"Общаясь с людьми из Пингвин Логистикс и разговаривая с ними, я начал понимать, что мир куда шире, чем я думал. Порядок и правила — не ошибка, но они подходят не всем."
+char_325_bison_CN_009,Talk after Trust Increase 3,"Doctor, perhaps you haven't realized this yourself, but to unite such a diverse group of people under your banner, that's no simple feat… It'd be great if I could become more like you one day.",博士，或许你自己没有发现，但是，能让那么多个性迥异的人都信服你，其实是一件非常不简单的事……要是有一天，我也能变得像博士你一样就好了。,"Доктор, может, вы сами этого не заметили, но собрать под своим началом таких разных людей — поистине непросто... Хотел бы я однажды стать хотя бы отчасти похожим на вас."
+char_325_bison_CN_010,Idle,"Doctor… Oh, it's your nap time. Guess I'll tidy up this place for now.",博士……唔，在休息吗，那我先打扫一下卫生吧。,"Доктор... М, вы спите. Тогда я пока приберусь здесь."
+char_325_bison_CN_011,Onboard,"Pleased to meet you, Doctor. My name is Bison. According to the terms of our contract, I'm now also an employee of Rhodes Island. I look forward to working with you.",初次见面，博士，我是拜松。按照合约内容，接下来我也会作为罗德岛的一员行动，请多指教。,"Приятно познакомиться, Доктор. Я — Бизон. По условиям контракта отныне я тоже сотрудник Родоса. Надеюсь на плодотворную работу с вами."
+char_325_bison_CN_012,Watching Battle Record,Thank you very much. I will make sure to learn from this.,谢谢，我会好好学习的。,Большое спасибо. Я обязательно учту это.
+char_325_bison_CN_013,Promotion 1,"Thank you very much, Doctor. I believe that as long as I put my best foot forward, my hard work will be rewarded.",谢谢，博士。只要脚踏实地，总会有所收获，这是我的信条。,"Спасибо вам, Доктор. Верю: стоит мне прилежно работать — и мои усилия будут вознаграждены. Это мой принцип."
+char_325_bison_CN_014,Promotion 2,"With Penguin Logistics and Rhodes Island, I've seen a more expansive world than I knew… Doctor, one day, I will also find my place in this world.",在企鹅物流和罗德岛，我看到了更宽广的世界……博士，总有一天，我也会在这个世界里找到属于自己的位置。,"В Пингвин Логистикс и на Родосе я увидел мир куда просторнее, чем знал раньше... Доктор, однажды я тоже найду в нём своё место."
+char_325_bison_CN_017,Added to Squad,A mission? Understood.,要执行任务吗？我了解了。,Задание? Понял.
+char_325_bison_CN_018,Appointed as Squad Leader,On-site command… I have some experience with that.,现场指挥的话……我稍微有些经验。,Командование на месте? В этом у меня есть некоторый опыт.
+char_325_bison_CN_019,Depart,"Yes, I've noted the mission location and objectives.",嗯，任务地点和任务目标我都好好记住了。,"Да, я хорошо запомнил и место, и цель задания."
+char_325_bison_CN_020,Begin Operation,Phew… I'll get my job done.,呼……我不会给大家拖后腿的。,Фух... Я сделаю своё дело.
+char_325_bison_CN_021,Selecting Operator 1,What would you like me to do?,我该怎么做，博士？,"Что мне делать, Доктор?"
+char_325_bison_CN_022,Selecting Operator 2,"Is it my turn, Doctor?",到我了吗，博士。,"Моя очередь, Доктор."
+char_325_bison_CN_023,Deployment 1,I'll do my best.,我会努力的。,Постараюсь.
+char_325_bison_CN_024,Deployment 2,Got it.,我知道了。,Понял.
+char_325_bison_CN_025,In Battle 1,I'll hold my ground.,我还坚持得住。,Я устою.
+char_325_bison_CN_026,In Battle 2,Hang in there a bit longer? Understood.,再坚持一下吗？我知道了。,Ещё чуть-чуть держаться? Понял.
+char_325_bison_CN_027,In Battle 3,"Don't worry, my shield still holds firm.",请放心，我的盾还是很坚固的。,"Не волнуйтесь, мой щит ещё крепок."
+char_325_bison_CN_029,4-star Result,"Way to go, Doctor! You're the kind of leader any company would want to hire.",博士……你要是转业的话，一定是每家公司都想要的那种管理人才。,"Доктор... если бы вы ушли из компании, вас с руками оторвала бы любая фирма."
+char_325_bison_CN_030,3-star Result,"Wow, Doctor! You really are amazing.",博士……果然很厉害。,Доктор... вы и правда очень способный.
+char_325_bison_CN_031,Sub 3-star Result,"The basic objectives of the mission have been accomplished. This should be good enough, right?",任务的基础目标已经达成了，这样就可以了吧？,"Основные цели задания достигнуты. Этого достаточно, верно?"
+char_325_bison_CN_032,Operation Failure,"Don't feel down, Doctor. We'll have another chance.",博士，不要泄气，我们还有机会。,"Не падайте духом, Доктор. У нас ещё будет шанс."
+char_325_bison_CN_033,Assigned to Facility,So this is the inside of Rhodes Island… It sure is big.,罗德岛里面……真大。,"Так вот он какой внутри, Родос... Огромный."
+char_325_bison_CN_034,Tap,Where should I go?,要我去哪里？,Куда мне идти?
+char_325_bison_CN_036,Trust Tap,Sora's new album is really good.,空姐的新专辑……真好听。,Новый альбом Соры... очень хороший.
+char_325_bison_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_325_bison_CN_038,New Year's blessing,"It's New Year's, so on behalf of MountainDash Logistics, I'm sending formal greetings to Rhodes Island. May everything go well for Rhodes Island's employees, and may you be safe and sound in the coming year. Also, here's a personal card from me to you, Doctor, to wish you a Happy New Year. To another great year working together.",新年到了，我谨代表峯驰物流向罗德岛送上新年贺帖。恭祝罗德岛全体员工在新的一年诸事顺利，平安健康。然后，这个是我自己送给博士的贺卡，祝您新年快乐。今年也要请您继续指教了。,"С Новым годом: от имени Логистики Фэнчи я передаю Родосу официальные поздравления. Желаю всем сотрудникам Родоса в новом году благополучия, мира и здоровья. А это — открытка от меня лично, Доктор. С Новым годом. И в этом году тоже прошу о руководстве."
+char_325_bison_CN_042,Greeting,"Good morning, Doctor!",早上好，博士！,"Доброе утро, Доктор!"
+char_325_bison_CN_043,Birthday,"Doctor, happy birthday. Please try this bowl of long life noodles. All ingredients have been chosen with care. It has wheat from Yan, steak from Ursus, and the broth is Iberian ham. It took me months to put together, and it was still a rush to get everything in on time. I hope you like it.",博士，生日快乐。请尝尝这碗长寿面吧。里面所有食材都是精心挑选过的。有来自炎国的小麦，乌萨斯的肉排，还有熬汤的伊比利亚火腿。我提前准备了很久，还好赶在今天送到了。希望您能喜欢。,"Доктор, с днём рождения. Попробуйте эту лапшу долголетия — все ингредиенты подобраны с особой тщательностью. Здесь пшеница из Яня, стейк из Урсуса, а бульон из иберийского окорока. Я готовил её долго, но успел вовремя. Надеюсь, вам понравится."
+char_325_bison_CN_044,Anniversary Celebration,"My father says the most precious thing to a business is pulling everyone together under the same ideal. At Penguin Logistics and Rhodes Island, I've seen that cohesion for myself. I have to learn from yours and Emperor's examples, in that regard.",父亲说过，一个企业最宝贵的，就是在任何时候都能将所有人凝聚在一起的共同理想。我在企鹅物流和罗德岛，都看到了这种凝聚力。在这一点上，我需要向您和大帝先生学习。,"Отец говорил, что самое ценное для дела — общая цель, которая в любой момент сплачивает всех. Я видел это и в Пингвин Логистикс, и на Родосе. В этом отношении мне ещё учиться у вас и у господина Императора."

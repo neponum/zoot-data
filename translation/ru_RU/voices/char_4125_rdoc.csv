@@ -1,36 +1,36 @@
-id,title,original,translation
-char_4125_rdoc_CN_001,Appointed as Assistant,"Here are the files, and this is your coffee. No need to thank me.",
-char_4125_rdoc_CN_002,Talk 1,"Yes…? Oh! Sorry Doctor, I thought an operator was calling out to me.",
-char_4125_rdoc_CN_003,Talk 2,"If you can hold a scalpel, you can hold a gun. Never doubt the steadiness of a surgeon's hand.",
-char_4125_rdoc_CN_004,Talk 3,Neither sickness nor the enemy can take from me what I want to protect.,
-char_4125_rdoc_CN_005,Talk after Promotion 1,"When you have walked with death, you learn to appreciate life.",
-char_4125_rdoc_CN_006,Talk after Promotion 2,"I've learned from experience that the place to save lives is in the field, not an office. And sometimes, the only way to save a life is to take one.",
-char_4125_rdoc_CN_007,Talk after Trust Increase 1,My job is to keep you alive. Make it as hard as you like.,
-char_4125_rdoc_CN_008,Talk after Trust Increase 2,Not a fan of your worried face. What's the matter?,
-char_4125_rdoc_CN_009,Talk after Trust Increase 3,Doctor. I'm so glad we found you.,
-char_4125_rdoc_CN_010,Idle,When was the last time you took a break? You need to stop working.,
-char_4125_rdoc_CN_011,Onboard,"Code name Doc, Team Rainbow. I'll protect you.",
-char_4125_rdoc_CN_012,Watching Battle Record,This will make things easier.,
-char_4125_rdoc_CN_013,Promotion 1,"If we must, we must.",
-char_4125_rdoc_CN_014,Promotion 2,"Thank you, I'd been hoping to get authorization to access confidential files on Oripathy.",
-char_4125_rdoc_CN_017,Added to Squad,Call if you need a hand.,
-char_4125_rdoc_CN_018,Appointed as Squad Leader,Let's be safe out there.,
-char_4125_rdoc_CN_019,Depart,At least we are well prepared.,
-char_4125_rdoc_CN_020,Begin Operation,There are still active targets in the area.,
-char_4125_rdoc_CN_021,Selecting Operator 1,Ready to go.,
-char_4125_rdoc_CN_022,Selecting Operator 2,I've got your backs.,
-char_4125_rdoc_CN_023,Deployment 1,Get going quickly.,
-char_4125_rdoc_CN_024,Deployment 2,Try not to get yourselves hurt.,
-char_4125_rdoc_CN_025,In Battle 1,Located target.,
-char_4125_rdoc_CN_026,In Battle 2,Target acquired.,
-char_4125_rdoc_CN_027,In Battle 3,Stick close to me.,
-char_4125_rdoc_CN_028,In Battle 4,Reloading!,
-char_4125_rdoc_CN_029,4-star Result,Are you alright? Any difficulty breathing?,
-char_4125_rdoc_CN_030,3-star Result,"We're almost at the extraction point. Then, we can rest.",
-char_4125_rdoc_CN_031,Sub 3-star Result,"Let's get you back on your feet, shall we?",
-char_4125_rdoc_CN_032,Operation Failure,We're wasting time.,
-char_4125_rdoc_CN_033,Assigned to Facility,Always a pleasure.,
-char_4125_rdoc_CN_034,Tap,"Careful, I'm carrying a bunch of bric-a-bracs.",
-char_4125_rdoc_CN_036,Trust Tap,"Nothing abnormal. If we get a situation, I'll let you know. ",
-char_4125_rdoc_CN_037,Title,Arknights.,
-char_4125_rdoc_CN_042,Greeting,Bonjour.,
+id,title,original,original_zh,translation
+char_4125_rdoc_CN_001,Appointed as Assistant,"Here are the files, and this is your coffee. No need to thank me.",这是你需要的文件，这是给你带的咖啡，不用谢。,Вот документы и твой кофе. Благодарить не нужно.
+char_4125_rdoc_CN_002,Talk 1,"Yes…? Oh! Sorry Doctor, I thought an operator was calling out to me.",有什么事情吗……哦！抱歉，博士，我还以为刚刚那位干员是喊我来着。,"Что...? О! Прости, доктор, я подумал, что это оперативник меня позвал."
+char_4125_rdoc_CN_003,Talk 2,"If you can hold a scalpel, you can hold a gun. Never doubt the steadiness of a surgeon's hand.",能拿得起柳叶刀就能端得起枪，永远别怀疑一个医生的手有多稳。,"Кто может держать скальпель, тот может и держать оружие. Никогда не сомневайся в твёрдости руки хирурга."
+char_4125_rdoc_CN_004,Talk 3,Neither sickness nor the enemy can take from me what I want to protect.,我会竭尽全力拯救目标，不论是伤病还是敌人，都不能将他们从我手中夺走。,"Ни болезнь, ни враг не отнимут у меня того, что я хочу защитить."
+char_4125_rdoc_CN_005,Talk after Promotion 1,"When you have walked with death, you learn to appreciate life.",人步入战场，与死亡同行，便会明白生命的宝贵。,"Когда ты ходил рядом со смертью, ты учишься ценить жизнь."
+char_4125_rdoc_CN_006,Talk after Promotion 2,"I've learned from experience that the place to save lives is in the field, not an office. And sometimes, the only way to save a life is to take one.",过去的经验告诉我，想要救死扶伤就该亲临现场，而不是坐在办公室里。而有时候，拯救生命的唯一手段，是夺走另外一个生命。,"Опыт подсказал мне: спасать жизни надо на месте событий, а не в кабинете. А иногда единственный способ спасти жизнь — отнять другую."
+char_4125_rdoc_CN_007,Talk after Trust Increase 1,My job is to keep you alive. Make it as hard as you like.,我的工作是保护你的人身安全，我不介意你给我来点挑战。,Моя работа — оставить тебя в живых. Можешь доставлять мне сколько угодно хлопот.
+char_4125_rdoc_CN_008,Talk after Trust Increase 2,Not a fan of your worried face. What's the matter?,发生什么了？我可不喜欢看人们愁眉不展的样子。,Не люблю твоё обеспокоенное лицо. Что случилось?
+char_4125_rdoc_CN_009,Talk after Trust Increase 3,Doctor. I'm so glad we found you.,博士，我很庆幸我们找到了你。,"Доктор. Я так рад, что мы тебя нашли."
+char_4125_rdoc_CN_010,Idle,When was the last time you took a break? You need to stop working.,快停下手头的工作吧，你上次休息是什么时候？,Когда ты последний раз отдыхал? Пора уже перестать работать.
+char_4125_rdoc_CN_011,Onboard,"Code name Doc, Team Rainbow. I'll protect you.",彩虹小队成员，代号医生。放心，我会保护你的安全。,"Позывной — Док, команда «Радуга». Я прикрою тебя."
+char_4125_rdoc_CN_012,Watching Battle Record,This will make things easier.,这样一来，事情就轻松多了。,Так будет проще.
+char_4125_rdoc_CN_013,Promotion 1,"If we must, we must.",如果我们必须这样做，那就这样做。,"Если мы должны — значит, нужно."
+char_4125_rdoc_CN_014,Promotion 2,"Thank you, I'd been hoping to get authorization to access confidential files on Oripathy.",谢谢你，我正好需要更高的权限来阅读关于矿石病的机密文献。,Спасибо. Я как раз надеялся получить доступ к секретным документам об орипатии.
+char_4125_rdoc_CN_017,Added to Squad,Call if you need a hand.,需要帮忙就叫我。,"Позови, если нужна помощь."
+char_4125_rdoc_CN_018,Appointed as Squad Leader,Let's be safe out there.,任务中注意安全。,Будем осторожны.
+char_4125_rdoc_CN_019,Depart,At least we are well prepared.,至少我们准备充分。,"По крайней мере, мы хорошо подготовились."
+char_4125_rdoc_CN_020,Begin Operation,There are still active targets in the area.,本区域内尚有活动的敌人。,В этом секторе ещё есть активные цели.
+char_4125_rdoc_CN_021,Selecting Operator 1,Ready to go.,准备就绪。,Готов.
+char_4125_rdoc_CN_022,Selecting Operator 2,I've got your backs.,我会保护你们。,Я прикрою вас.
+char_4125_rdoc_CN_023,Deployment 1,Get going quickly.,赶紧动起来。,Двигайтесь быстрее.
+char_4125_rdoc_CN_024,Deployment 2,Try not to get yourselves hurt.,尽量别让自己受伤。,Постарайтесь не пострадать.
+char_4125_rdoc_CN_025,In Battle 1,Located target.,目标已定位。,Цель обнаружена.
+char_4125_rdoc_CN_026,In Battle 2,Target acquired.,发现目标。,Цель в прицеле.
+char_4125_rdoc_CN_027,In Battle 3,Stick close to me.,跟紧我。,Держитесь рядом со мной.
+char_4125_rdoc_CN_028,In Battle 4,Reloading!,正在换弹！,Перезарядка!
+char_4125_rdoc_CN_029,4-star Result,Are you alright? Any difficulty breathing?,你还好吗？有没有觉得呼吸困难？,Ты в порядке? Есть затруднения с дыханием?
+char_4125_rdoc_CN_030,3-star Result,"We're almost at the extraction point. Then, we can rest.",即将抵达撤离点，我们马上就可以休息了。,Мы почти у точки эвакуации. Скоро отдохнём.
+char_4125_rdoc_CN_031,Sub 3-star Result,"Let's get you back on your feet, shall we?",我们会让你好起来的，好吗？,"Давай поднимем тебя на ноги, ладно?"
+char_4125_rdoc_CN_032,Operation Failure,We're wasting time.,我们在浪费时间。,Мы теряем время.
+char_4125_rdoc_CN_033,Assigned to Facility,Always a pleasure.,乐意之至。,Всегда рад.
+char_4125_rdoc_CN_034,Tap,"Careful, I'm carrying a bunch of bric-a-bracs.",小心，我刚拿了一堆瓶瓶罐罐。,"Осторожно, я набрал целую охапку склянок."
+char_4125_rdoc_CN_036,Trust Tap,"Nothing abnormal. If we get a situation, I'll let you know. ",没什么，有情况我会及时告知你。,"Ничего необычного. Если что-то случится, я сообщу."
+char_4125_rdoc_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_4125_rdoc_CN_042,Greeting,Bonjour.,你好。,Бонжур.

@@ -1,35 +1,35 @@
-id,title,original,translation
-char_123_fang_CN_001,Appointed as Assistant,"Is there anything I can help you with, Doctor?",
-char_123_fang_CN_002,Talk 1,Thank you for believing in me! I'll keep up my work!,
-char_123_fang_CN_003,Talk 2,Hibiscus and Lava are fighting again... What a pain. Why are they like this? They're sisters.,
-char_123_fang_CN_004,Talk 3,"Instructor Dobermann puts us through mock battles a lot, but I can never get a handle on her skill. Doctor, next time you and Amiya observe our training, would you please give us some notes?",
-char_123_fang_CN_005,Talk after Promotion 1,"Someone on my team is late again, huh? I'll make sure that gets fixed.",
-char_123_fang_CN_007,Talk after Trust Increase 1,"Lava and I are both Infected, but I didn't get a talent for Arts like she did...",
-char_123_fang_CN_008,Talk after Trust Increase 2,"Rhodes Island is our home and shelter, Doctor. I will protect everyone here with my life.",
-char_123_fang_CN_009,Talk after Trust Increase 3,"The ever-honest and reliable Beagle, the perceptive Kroos, the resourceful Lava and the energetic Hibiscus. I like everyone in this team... as long as Hibiscus doesn't force her health food innovations on me.",
-char_123_fang_CN_010,Idle,Shhh! The Doctor's resting. We can talk outside.,
-char_123_fang_CN_011,Onboard,"Lancer Fang, captain of Reserve Op Team A1. My team and I will do our best to serve Rhodes Island.",
-char_123_fang_CN_012,Watching Battle Record,Thank you for your guidance.,
-char_123_fang_CN_013,Promotion 1,"Your approval means so much to me, Doctor. This promotion proves my hard work is paying off.",
-char_123_fang_CN_017,Added to Squad,Leave it to me.,
-char_123_fang_CN_018,Appointed as Squad Leader,I know the captain's duty well. Rest easy.,
-char_123_fang_CN_019,Depart,"Team, check your gear before departing.",
-char_123_fang_CN_020,Begin Operation,Enemy spotted. Prepare to fight!,
-char_123_fang_CN_021,Selecting Operator 1,Ready for action.,
-char_123_fang_CN_022,Selecting Operator 2,On standby.,
-char_123_fang_CN_023,Deployment 1,In position.,
-char_123_fang_CN_024,Deployment 2,Leave it to us.,
-char_123_fang_CN_025,In Battle 1,Thrust!,
-char_123_fang_CN_026,In Battle 2,"Everyone, follow me!",
-char_123_fang_CN_029,4-star Result,"With the right plan, even rookies like us can win a tough fight!",
-char_123_fang_CN_030,3-star Result,We have accomplished our objective as planned.,
-char_123_fang_CN_031,Sub 3-star Result,"We can't call a mission complete if we let even a single enemy get through. Beagle, let's do better on the next one.",
-char_123_fang_CN_032,Operation Failure,"I'm sorry I failed you, Instructor Dobermann...",
-char_123_fang_CN_033,Assigned to Facility,Yes. I'm back. Is Kroos here too?,
-char_123_fang_CN_034,Tap,Ahh...!,
-char_123_fang_CN_036,Trust Tap,Am I helping?,
-char_123_fang_CN_037,Title,Arknights.,
-char_123_fang_CN_038,New Year's blessing,"Happy New Year, Doctor. Our team's going to eat dinner together, and we were just about to invite Instructor Dobermann. Would you like to come as well? I have some combat-related questions I'd like to ask, too... Oh, sorry, I know I shouldn't be mentioning work on a holiday.",
-char_123_fang_CN_042,Greeting,"I'm ready whenever you need me, Doctor.",
-char_123_fang_CN_043,Birthday,"Doctor, happy birthday! We got you a birthday present as a team. Have you seen Kroos? We agreed to do this together, and she still vanished. Anyway, whatever she told you, just don't believe a word of it, we did actually—awgh! Krooth! Whah ah yoo cavvarin m' mauph phor?!",
-char_123_fang_CN_044,Anniversary Celebration,"Looking at our set goals, I've already finished all my training, the other members of my team have made huge progress under Dobermann's instruction too, and we're adapting better and better on the combat side of things. Doctor, I'll be a better captain than I'm now, I promise.",
+id,title,original,original_zh,translation
+char_123_fang_CN_001,Appointed as Assistant,"Is there anything I can help you with, Doctor?",博士，有什么我能做的事吗？,"Доктор, чем я могу вам помочь?"
+char_123_fang_CN_002,Talk 1,Thank you for believing in me! I'll keep up my work!,谢谢您的信任！今后我也会继续加油的。,Спасибо за доверие! Я и впредь буду стараться.
+char_123_fang_CN_003,Talk 2,Hibiscus and Lava are fighting again... What a pain. Why are they like this? They're sisters.,芙蓉和炎熔又吵架了，真让我头疼。明明是亲生姐妹啊，为什么会变成现在这样呢……,Гибискус и Лава опять поссорились — голова раскалывается. Ведь они родные сёстры... Почему так получилось?..
+char_123_fang_CN_004,Talk 3,"Instructor Dobermann puts us through mock battles a lot, but I can never get a handle on her skill. Doctor, next time you and Amiya observe our training, would you please give us some notes?",我们和杜宾老师经常进行模拟比赛，不过我完全摸不透老师的技巧。如果博士和阿米娅有时间来参观训练的话，可以亲自指导我们吗？,"Мы с инструктором Доберманн часто проводим учебные бои, но я никак не возьму в толк её приёмы. Если у вас с Амией найдётся время посмотреть нашу тренировку, не могли бы вы сами нас подучить?"
+char_123_fang_CN_005,Talk after Promotion 1,"Someone on my team is late again, huh? I'll make sure that gets fixed.",啊，我知道了，我的小队里又有人迟到了对吧。我会想办法解决的。,"Ах, поняла — кто-то в моей группе опять опоздал, да? Я разберусь."
+char_123_fang_CN_007,Talk after Trust Increase 1,"Lava and I are both Infected, but I didn't get a talent for Arts like she did...",我也是感染者，但并没能像炎熔那样觉醒法术天赋……,"Я тоже инфицированная, но у меня не проснулся талант к Искусствам, как у Лавы..."
+char_123_fang_CN_008,Talk after Trust Increase 2,"Rhodes Island is our home and shelter, Doctor. I will protect everyone here with my life.",罗德岛给了我们容身之地，博士，所以就算拼上自己的生命，我也一定要保护好所有人。,"Родос дал нам кров, Доктор, поэтому я защищу всех, даже если придётся отдать жизнь."
+char_123_fang_CN_009,Talk after Trust Increase 3,"The ever-honest and reliable Beagle, the perceptive Kroos, the resourceful Lava and the energetic Hibiscus. I like everyone in this team... as long as Hibiscus doesn't force her health food innovations on me.",米格鲁诚实可靠，克洛丝洞察力强，炎熔很聪明，芙蓉充满活力，我一直很喜欢组里的大家……只要芙蓉不再强迫我吃她新创作的可怕料理就好……,"Бигл честная и надёжная, Крус проницательная, Лава умная, Гибискус полна энергии — я очень люблю всех в группе... Если бы только Гибискус не заставляла меня есть свои ужасные новые блюда..."
+char_123_fang_CN_010,Idle,Shhh! The Doctor's resting. We can talk outside.,……嘘，别打扰博士休息，有事我们到外面说。,"...Тсс, не беспокойте отдых Доктора. О чём нужно — поговорим снаружи."
+char_123_fang_CN_011,Onboard,"Lancer Fang, captain of Reserve Op Team A1. My team and I will do our best to serve Rhodes Island.",我是芬，长枪手，现在正担任着行动预备组A1的队长一职。我和我的小队一定会竭尽全力，成为罗德岛可靠的战力。,"Я Фанг, копейщица, сейчас командир резервной группы A1. Мы с командой приложим все силы, чтобы стать надёжной опорой Родоса."
+char_123_fang_CN_012,Watching Battle Record,Thank you for your guidance.,感谢您的指导。,Спасибо за ваши указания.
+char_123_fang_CN_013,Promotion 1,"Your approval means so much to me, Doctor. This promotion proves my hard work is paying off.",您的提拔是对我努力的最好肯定。,Ваше повышение — лучшее признание моих стараний.
+char_123_fang_CN_017,Added to Squad,Leave it to me.,请交给我。,Поручите мне.
+char_123_fang_CN_018,Appointed as Squad Leader,I know the captain's duty well. Rest easy.,没问题，我很了解队长该做什么。,"Без проблем, я хорошо знаю, что делает командир."
+char_123_fang_CN_019,Depart,"Team, check your gear before departing.",全体人员，出发前务必要检查随身装备是否备齐了。,"Все, перед выходом обязательно проверьте, всё ли снаряжение при вас."
+char_123_fang_CN_020,Begin Operation,Enemy spotted. Prepare to fight!,发现敌方单位。准备作战！,Обнаружен враг. Приготовиться к бою!
+char_123_fang_CN_021,Selecting Operator 1,Ready for action.,准备行动。,Готовы к действию.
+char_123_fang_CN_022,Selecting Operator 2,On standby.,准备万全。,Всё готово.
+char_123_fang_CN_023,Deployment 1,In position.,各就各位。,По местам.
+char_123_fang_CN_024,Deployment 2,Leave it to us.,请交给我们。,Оставьте это нам.
+char_123_fang_CN_025,In Battle 1,Thrust!,刺穿。,Проколоть!
+char_123_fang_CN_026,In Battle 2,"Everyone, follow me!",大家跟着我！,"Все, за мной!"
+char_123_fang_CN_029,4-star Result,"With the right plan, even rookies like us can win a tough fight!",只要有正确合理的作战计划，就算是我们这样的新手，也能赢下这样艰难的战斗！,"Стоит иметь правильный, продуманный план — и даже такие новички, как мы, могут выиграть тяжёлый бой!"
+char_123_fang_CN_030,3-star Result,We have accomplished our objective as planned.,我们按照预定目标，完成了此次作战。,Мы выполнили задание в соответствии с поставленной целью.
+char_123_fang_CN_031,Sub 3-star Result,"We can't call a mission complete if we let even a single enemy get through. Beagle, let's do better on the next one.",只要放走一个敌人，作战就不能说是成功的。米格鲁，下次我们也要加油。,"Стоит упустить хотя бы одного врага — и операцию нельзя назвать успешной. Бигл, давай и в следующий раз постараемся."
+char_123_fang_CN_032,Operation Failure,"I'm sorry I failed you, Instructor Dobermann...",非常抱歉，杜宾老师……,"Простите, инструктор Доберманн..."
+char_123_fang_CN_033,Assigned to Facility,Yes. I'm back. Is Kroos here too?,是的，我回来了。克洛丝也在这里吗？,"Да, я вернулась. Крус тоже здесь?"
+char_123_fang_CN_034,Tap,Ahh...!,啊！,Ах!
+char_123_fang_CN_036,Trust Tap,Am I helping?,我帮上您的忙了吗？,Я вам помогла?
+char_123_fang_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_123_fang_CN_038,New Year's blessing,"Happy New Year, Doctor. Our team's going to eat dinner together, and we were just about to invite Instructor Dobermann. Would you like to come as well? I have some combat-related questions I'd like to ask, too... Oh, sorry, I know I shouldn't be mentioning work on a holiday.",新年快乐，博士，我们小队准备去聚餐，正准备去邀请杜宾老师，您也一起来吗？我也还有一些战斗上的问题……啊，抱歉，已经是节日了，我不应该再提工作的。,"С новым годом, Доктор! Наша группа собирается на ужин, мы как раз хотели позвать инструктора Доберманн — присоединяйтесь и вы. У меня ещё есть вопросы по бою... Ах, простите, сегодня же праздник — не надо было говорить о работе."
+char_123_fang_CN_042,Greeting,"I'm ready whenever you need me, Doctor.",我随时都可以，博士。,"Я в любой момент, Доктор."
+char_123_fang_CN_043,Birthday,"Doctor, happy birthday! We got you a birthday present as a team. Have you seen Kroos? We agreed to do this together, and she still vanished. Anyway, whatever she told you, just don't believe a word of it, we did actually—awgh! Krooth! Whah ah yoo cavvarin m' mauph phor?!",博士生日快乐！我们小队给您准备了生日礼物。您见到克洛丝了吗？说好要一起的结果她又跑不见了，不管她跟您说什么都不要相信就好了，我们其实——啊克洛丝，你捂我嘴干什么！,"Доктор, с днём рождения! Мы всей группой подготовили вам подарок. Вы видели Крус? Мы договаривались сделать это вместе, а она опять исчезла. Что бы она вам ни сказала — не верьте ни слову, мы на самом деле... Ах, Крус, зачем ты мне рот закрываешь!"
+char_123_fang_CN_044,Anniversary Celebration,"Looking at our set goals, I've already finished all my training, the other members of my team have made huge progress under Dobermann's instruction too, and we're adapting better and better on the combat side of things. Doctor, I'll be a better captain than I'm now, I promise.",按照既定目标，我已经完成了要做的所有训练，小队的其他人也在杜宾老师的训练下进步了很多，我们在战斗方面已经磨合得越来越好。博士，我会成为更好的队长的。,"Я выполнила все положенные тренировки, остальные в группе под руководством Доберманн тоже сильно продвинулись — в бою мы срабатываемся всё лучше. Доктор, я стану лучшим командиром."

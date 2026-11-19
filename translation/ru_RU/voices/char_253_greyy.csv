@@ -1,39 +1,39 @@
-id,title,original,translation
-char_253_greyy_CN_001,Appointed as Assistant,"Hi, Doctor. If you need anything, please tell me...  Um, I assume you still remember my code name...?",
-char_253_greyy_CN_002,Talk 1,"Doc-Doctor, hi... Um, I just checked the Medical Department's power grid, and taking some files around while I'm at it... No, nobody's forcing me! I mean, they take such good care of me, it's the least I can do for them...",
-char_253_greyy_CN_003,Talk 2,"I decided to learn electric Arts just so my friends back in the slums could have some light, just so the nights would be a little less miserable... That pitch black, it's really scary. And the kinds of people who live in the dark, they can be scary too...",
-char_253_greyy_CN_004,Talk 3,"These Originium generators here at Rhodes Island are amazing... You know, if we had anything like them back home, we wouldn't need to live in the dark all the time, like life without light is normal.",
-char_253_greyy_CN_005,Talk after Promotion 1,"My mother taught me the basics of Arts. She told me I use Arts just like she did when she was younger, but I'm also as sickly as she was... If she were still alive, I'd hope she could come with me to Rhodes Island...",
-char_253_greyy_CN_006,Talk after Promotion 2,"Doctor, before I got the training from you, all I could do with my Arts was light up one little room. But now that little spark has turned into something that can help lots of people...! Thank you so much!",
-char_253_greyy_CN_007,Talk after Trust Increase 1,"Huh? A current anomaly in Miss Mayer's storeroom? W-why is it her again... What? Dr. Kal'tsit wants more cables for her lab? And another outage in Ifrit's room? Waahhhh... Doctor, help meee...",
-char_253_greyy_CN_008,Talk after Trust Increase 2,"Zzz... Wha? Doctor...? Ah! Sorry! I wasn't napping! I, um, I was... Oh, is this Medical?",
-char_253_greyy_CN_009,Talk after Trust Increase 3,"Doctor, are you going out again...? Okay, I know. I'll wait here for you... Um, Doctor, please hurry back...",
-char_253_greyy_CN_010,Idle,Whoa...! Aaaugh... Static electricity. Gave me a jolt...,
-char_253_greyy_CN_011,Onboard,"H-Hi. My name is Greyy. I'm kind of an electrician... Erm, th-thanks for taking me on...!",
-char_253_greyy_CN_012,Watching Battle Record,C-could you pause it for a minute? I-I'm taking notes…,
-char_253_greyy_CN_013,Promotion 1,"A promotion? Okay, I'll take it to... Huh? It's, it's for me...? Really?",
-char_253_greyy_CN_014,Promotion 2,"Hehe. Doctor, I shall light the way for you!... Um, sorry, just got too full of myself...  But I actually mean it...!",
-char_253_greyy_CN_017,Added to Squad,"Everyone, I'm here to help...",
-char_253_greyy_CN_018,Appointed as Squad Leader,"I'm the Captain...? O-Okay! If that's your wish, Doctor!...",
-char_253_greyy_CN_019,Depart,Let me handle the logistical support...!,
-char_253_greyy_CN_020,Begin Operation,"Doctor, I see the enemies rallying...",
-char_253_greyy_CN_021,Selecting Operator 1,I'll try my best…,
-char_253_greyy_CN_022,Selecting Operator 2,I should be able to do it...!,
-char_253_greyy_CN_023,Deployment 1,"Slowly, and carefully...",
-char_253_greyy_CN_024,Deployment 2,Can't tiwst my ankle now!,
-char_253_greyy_CN_025,In Battle 1,Stop being evil!,
-char_253_greyy_CN_026,In Battle 2,I won't let you hurt my friends...!,
-char_253_greyy_CN_027,In Battle 3,T-Take that!,
-char_253_greyy_CN_028,In Battle 4,An electric shock c-can really hurt...!,
-char_253_greyy_CN_029,4-star Result,"Doctor, we've done a wonderful job...! Cou-Could we go home now?...",
-char_253_greyy_CN_030,3-star Result,"We-We won, Doctor!",
-char_253_greyy_CN_031,Sub 3-star Result,"Doctor, the ones who ran off... We won't see them again, will we?",
-char_253_greyy_CN_032,Operation Failure,Err... Doctor...,
-char_253_greyy_CN_033,Assigned to Facility,What am I doing today?,
-char_253_greyy_CN_034,Tap,Whoa…,
-char_253_greyy_CN_036,Trust Tap,"Doctor, you're really tall... I-I wonder when I'll get to be that tall...",
-char_253_greyy_CN_037,Title,Arknights.,
-char_253_greyy_CN_038,New Year's blessing,"Happy New Year, Doctor. Well, er... there's a fireworks show coming up, and I was wondering if we could watch it together. Yes, I like fireworks. They're so small, yet so bright and colorful, shining over the land...",
-char_253_greyy_CN_042,Greeting,"Doctor, you're back!",
-char_253_greyy_CN_043,Birthday,"Here's my birthday present for you, Doctor... Um, I didn't have the money to buy anything nice, so I made something myself... a candle that won't be blown out. May it light a corner of your room and never go out.",
-char_253_greyy_CN_044,Anniversary Celebration,"Doctor... I've been studying electrical engineering in depth lately. It's a little tough... but I'll work hard! I want to illuminate more places for Rhodes Island, and for everyone... I, I'm sorry, I'm getting ahead of myself, aren't I?",
+id,title,original,original_zh,translation
+char_253_greyy_CN_001,Appointed as Assistant,"Hi, Doctor. If you need anything, please tell me...  Um, I assume you still remember my code name...?",博士，您好……那个，有需求的话，就请呼唤我……嗯，我的代号，您，还记得住吗……？,"Доктор, здравствуйте... Э-э, если что-то понадобится, просто позовите меня... Мм, мой позывной... вы его помните?.."
+char_253_greyy_CN_002,Talk 1,"Doc-Doctor, hi... Um, I just checked the Medical Department's power grid, and taking some files around while I'm at it... No, nobody's forcing me! I mean, they take such good care of me, it's the least I can do for them...",博、博士，您好……嗯，我刚刚为医疗组检查过电源线路，顺便帮大家送些文件……没、我没有被使唤！毕竟，医生们肯为我治病，这是恩情，要报答……,"Д-Доктор, здравствуйте... Мм, я только что проверил электросеть в медгруппе и заодно разнёс документы... М-Меня не заставляли! Врачи лечат меня, это доброта, я должен отблагодарить..."
+char_253_greyy_CN_003,Talk 2,"I decided to learn electric Arts just so my friends back in the slums could have some light, just so the nights would be a little less miserable... That pitch black, it's really scary. And the kinds of people who live in the dark, they can be scary too...",最初，我学习电能类法术，仅仅是为了让贫民区的伙伴有光照，让夜晚不再那样难熬……黑夜，真的很可怕，生活在黑夜中的人，也是……,"Сначала я выучил электрические чары только для того, чтобы у моих друзей в трущобах был свет, чтобы ночь не была такой невыносимой... Темнота и правда страшна. И люди, живущие в ней, тоже..."
+char_253_greyy_CN_004,Talk 3,"These Originium generators here at Rhodes Island are amazing... You know, if we had anything like them back home, we wouldn't need to live in the dark all the time, like life without light is normal.",我真的很羡慕，罗德岛有这样的源石发电设备……您知道吗，我生活的地方，哪怕只有一台这样的机器，大家也不会变得习惯黑暗，将没有光亮的生活视为常事了。,"Я прямо завидую: на Родосе такие генераторы на Ориджиниуме... Знаете, в моём краю, будь там хоть одна такая машина, люди не привыкли бы к темноте и не считали бы жизнь без света нормой."
+char_253_greyy_CN_005,Talk after Promotion 1,"My mother taught me the basics of Arts. She told me I use Arts just like she did when she was younger, but I'm also as sickly as she was... If she were still alive, I'd hope she could come with me to Rhodes Island...",教授我基础源石技艺的是妈妈，她说，我像年轻时的她一样懂得怎么使用法术，可也像她一样多病……如果她还在的话，我真希望她能和我一起来罗德岛……,"Основы искусства Ориджиниума мне преподала мама. Она говорила, что я, как она в молодости, понимаю, как пользоваться чарами, — но и болею так же часто... Если бы она была жива, я бы очень хотел, чтобы она приехала со мной на Родос..."
+char_253_greyy_CN_006,Talk after Promotion 2,"Doctor, before I got the training from you, all I could do with my Arts was light up one little room. But now that little spark has turned into something that can help lots of people...! Thank you so much!",在得到您的指导之前，我的法术只能照亮一个房间而已。不过，即使是那么小的一片火花，现在，也变成了能为大家带来帮助的能力了呢……！博士，真的很感谢您！,"До ваших наставлений мои чары освещали только одну комнату. Но даже крошечная искра теперь стала способностью, которая помогает многим!.. Доктор, правда спасибо вам!"
+char_253_greyy_CN_007,Talk after Trust Increase 1,"Huh? A current anomaly in Miss Mayer's storeroom? W-why is it her again... What? Dr. Kal'tsit wants more cables for her lab? And another outage in Ifrit's room? Waahhhh... Doctor, help meee...",咦？梅尔小姐的库房电量异常？又、又是她，怎么办……您说，凯尔希医生的实验室要新增电缆？还有伊芙利特的房间又断电了？呜、呜啊啊啊……博士，帮帮我……,"Эй? В складе мисс Майер аномалия напряжения? Опять она... Что делать... Говорите, в лаборатории доктора Кальцит нужно проложить дополнительный кабель? И в комнате Ифрит опять отключили свет? Ой-ой-ой... Доктор, помогите..."
+char_253_greyy_CN_008,Talk after Trust Increase 2,"Zzz... Wha? Doctor...? Ah! Sorry! I wasn't napping! I, um, I was... Oh, is this Medical?",呼——咦？博士……？啊对不起博士我没有在偷睡！我、我只是……咦，这里是医务室？,"Фу — эй? Доктор...? Ах, простите, я не спал! Я просто... Эй, это медкабинет?"
+char_253_greyy_CN_009,Talk after Trust Increase 3,"Doctor, are you going out again...? Okay, I know. I'll wait here for you... Um, Doctor, please hurry back...",博士，又要出门了吗？……嗯，我知道了。我会好好待在这里的……那个，博士，要早点回来哦……,"Доктор, вы снова уходите?.. Мм, понял. Я буду ждать здесь... Э-э, Доктор, возвращайтесь пораньше..."
+char_253_greyy_CN_010,Idle,Whoa...! Aaaugh... Static electricity. Gave me a jolt...,咿……！唔啊啊，静电好麻烦……,"Ой...! Ох, эта статичка всё время мешает..."
+char_253_greyy_CN_011,Onboard,"H-Hi. My name is Greyy. I'm kind of an electrician... Erm, th-thanks for taking me on...!",您、您好，我是格雷伊，电能相关的工作，还算擅长……那个，谢、谢谢您愿意收留我……！,"З-Здравствуйте, я Грей, с работой, связанной с электричеством, справляюсь... Э-э, с-спасибо, что приютили меня...!"
+char_253_greyy_CN_012,Watching Battle Record,C-could you pause it for a minute? I-I'm taking notes…,这、这里的画面，暂停一下，可以吗？我、我记一下笔记……,М-Можно поставить здесь паузу? Я... я хочу записать...
+char_253_greyy_CN_013,Promotion 1,"A promotion? Okay, I'll take it to... Huh? It's, it's for me...? Really?",晋升吗？知道了，我这就去通知大家——欸？是、是安排我晋升……？咦？,"Повышение? Понял, я сейчас сообщу всем — А? Это... меня повышают?.. Что?"
+char_253_greyy_CN_014,Promotion 2,"Hehe. Doctor, I shall light the way for you!... Um, sorry, just got too full of myself...  But I actually mean it...!",欸嘿嘿，博士，就让我为您照亮前进的道路吧！唔，好、好像说了些大话……？就算是大话，也是很认真的在说哦……！,"Хи-хи, Доктор, позвольте мне освещать вам путь! Мм, кажется, я сказал слишком громкие слова...? Но даже если это хвастовство — я говорю очень серьёзно...!"
+char_253_greyy_CN_017,Added to Squad,"Everyone, I'm here to help...",格雷伊，来给大家帮忙了……,Грей пришёл помочь всем...
+char_253_greyy_CN_018,Appointed as Squad Leader,"I'm the Captain...? O-Okay! If that's your wish, Doctor!...",队、队长……？嗯、嗯，我听您的安排……！,"К-Капитан...? Мм, я сделаю, как вы скажете...!"
+char_253_greyy_CN_019,Depart,Let me handle the logistical support...!,我去为后勤部队帮忙……！,Я пойду помогать тылам...!
+char_253_greyy_CN_020,Begin Operation,"Doctor, I see the enemies rallying...",博士，敌人开始集结了……,"Доктор, враг начинает собираться..."
+char_253_greyy_CN_021,Selecting Operator 1,I'll try my best…,我会尽、尽力……,Я постараюсь изо всех сил...
+char_253_greyy_CN_022,Selecting Operator 2,I should be able to do it...!,我、我应该能行……！,"Я, я думаю, у меня получится...!"
+char_253_greyy_CN_023,Deployment 1,"Slowly, and carefully...",我得慢慢来……,Мне нужно не спешить...
+char_253_greyy_CN_024,Deployment 2,Can't tiwst my ankle now!,可、可不能在这里扭伤了脚。,Только бы не подвернуть ногу здесь.
+char_253_greyy_CN_025,In Battle 1,Stop being evil!,别再作恶了！,Хватит творить зло!
+char_253_greyy_CN_026,In Battle 2,I won't let you hurt my friends...!,不要伤害大家……！,Не трогайте их...!
+char_253_greyy_CN_027,In Battle 3,T-Take that!,看这、这招！,Получай этот приём!
+char_253_greyy_CN_028,In Battle 4,An electric shock c-can really hurt...!,被电到的话，后果很、很可怕的……！,"Если ударит током, последствия будут очень, очень страшными...!"
+char_253_greyy_CN_029,4-star Result,"Doctor, we've done a wonderful job...! Cou-Could we go home now?...",博、博士，您辛苦了……！我们，一起回家吧……？,"Д-Доктор, вы устали...! Давайте пойдём домой вместе...?"
+char_253_greyy_CN_030,3-star Result,"We-We won, Doctor!",是、是我们胜利了……！博士！,М-Мы победили...! Доктор!
+char_253_greyy_CN_031,Sub 3-star Result,"Doctor, the ones who ran off... We won't see them again, will we?",博士，那些逃走的人，不会……再回来了吧？,"Доктор, те, кто убежал... они не вернутся, правда?"
+char_253_greyy_CN_032,Operation Failure,Err... Doctor...,呜……博士……,Ой... Доктор...
+char_253_greyy_CN_033,Assigned to Facility,What am I doing today?,今天要做什么呢？,Что мне делать сегодня?
+char_253_greyy_CN_034,Tap,Whoa…,呜啊……,Ой...
+char_253_greyy_CN_036,Trust Tap,"Doctor, you're really tall... I-I wonder when I'll get to be that tall...",博士，个子真高……我、我什么时候才能追上博士……呢？,"Доктор, вы такой высокий... К-Когда я догоню вас ростом?.."
+char_253_greyy_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_253_greyy_CN_038,New Year's blessing,"Happy New Year, Doctor. Well, er... there's a fireworks show coming up, and I was wondering if we could watch it together. Yes, I like fireworks. They're so small, yet so bright and colorful, shining over the land...",新年快乐，博士。那个，就是……待、待会儿有烟花大会，我想陪您一起看……嗯，我喜欢烟花，又明亮，又灿烂，小小一颗，就能照亮整片大地……,"С новым годом, Доктор. Э-э, дело в том, что... позже будет фейерверк, я хотел бы посмотреть его вместе с вами... Мм, я люблю фейерверки: яркие, великолепные, крошечная искра освещает всю землю..."
+char_253_greyy_CN_042,Greeting,"Doctor, you're back!",博士，您回来了！,"Доктор, вы вернулись!"
+char_253_greyy_CN_043,Birthday,"Here's my birthday present for you, Doctor... Um, I didn't have the money to buy anything nice, so I made something myself... a candle that won't be blown out. May it light a corner of your room and never go out.",生日礼物……博士，嗯……我没有那么多钱去买很棒的礼物，我的礼物是自己做的……是一根不会被吹灭的蜡烛，博士，我希望它能永远照亮您房间的一角，永远不会熄灭。,"Подарок на день рождения... Доктор, м-м... у меня не было денег на что-то хорошее, я сделал его сам... Это свеча, которую нельзя задуть. Доктор, я хочу, чтобы она всегда освещала угол вашей комнаты и никогда не гасла."
+char_253_greyy_CN_044,Anniversary Celebration,"Doctor... I've been studying electrical engineering in depth lately. It's a little tough... but I'll work hard! I want to illuminate more places for Rhodes Island, and for everyone... I, I'm sorry, I'm getting ahead of myself, aren't I?",博士……我最近学了很多更深入的电气知识，呼……有点难，但、但是，我会努力的！我、我想为罗德岛，还有更多的人，照亮更多的地方……！说、说大话了……,"Доктор... в последнее время я изучаю более сложные вещи об электричестве, фу... тяжеловато, но, но я постараюсь! Я, я хочу освещать больше мест для Родоса и для всех людей...! Я, я опять хвастаю..."

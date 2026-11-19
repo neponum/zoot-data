@@ -1,39 +1,39 @@
-id,title,original,translation
-char_204_platnm_CN_001,Appointed as Assistant,"*Yaaawn*... Doctor, could I take a quick break?",
-char_204_platnm_CN_002,Talk 1,"Don't worry about my bow. I keep it well maintained. It's much tougher than you, so stop asking about it already.",
-char_204_platnm_CN_003,Talk 2,There are so many interesting people at Rhodes Island. Would be nice if I could make a friend or two to travel with.,
-char_204_platnm_CN_004,Talk 3,"Nowadays, the Knights of Kazimierz are little more than a bunch of musclehead jocks, or clowns obsessed with billboards and firework shows. Man, it's so lame.",
-char_204_platnm_CN_005,Talk after Promotion 1,"I was planning to return home after finishing this job, but now I've changed my mind. Why, you ask? You should know better than to ask a girl a question like that.",
-char_204_platnm_CN_006,Talk after Promotion 2,"Want to know the origin of my codename? You see, there are different ranks for the Knight Assassins in Kazimierz. There's three Darksteel and two Lazurite assassins above me, but I and I alone bear the rank of Platinum, from now till the day I die. So I figured it'd make a good codename.",
-char_204_platnm_CN_007,Talk after Trust Increase 1,"Ah, it's Miss Nearl! No, no, I wasn't going to lay a hand on her. I'm just worried she's going to charge at me with her hammer.",
-char_204_platnm_CN_008,Talk after Trust Increase 2,"Kazimierz is... a boring place. *Sigh*, I'm almost mad at how much more amusing life here at Rhodes Island is.",
-char_204_platnm_CN_009,Talk after Trust Increase 3,"Have you thought about how you're going to maintain your relations with everyone here at Rhodes Island? You know, all suits of armor have small gaps which leave you vulnerable, and that's where the enemies always try to jam their blades. One hit to your weak point can bring down everything you've painstakingly built.",
-char_204_platnm_CN_010,Idle,I'm so bored. Hoping something amusing happens.,
-char_204_platnm_CN_011,Onboard,"Assassin of the Armorless Union of Kazimierz here as per our agreement. What am I called? Hmm... Call me Platinum, then. Nice to meet you.",
-char_204_platnm_CN_012,Watching Battle Record,Good. My bow feels even lighter. Thank you.,
-char_204_platnm_CN_013,Promotion 1,"Promotion? Isn't the rank of Platinum already intimidating enough? Oh, you are an interesting one.",
-char_204_platnm_CN_014,Promotion 2,"Hah. Do you have the guts to gaze upon the true face of the one called Platinum, my dear Doctor?",
-char_204_platnm_CN_017,Added to Squad,"Platinum, reporting for duty.",
-char_204_platnm_CN_018,Appointed as Squad Leader,"Really? I'm commanding? It's not my strongest suit, but all right.",
-char_204_platnm_CN_019,Depart,Will this battle be an interesting one?,
-char_204_platnm_CN_020,Begin Operation,You may as well attack at the same time. You're all too weak anyway.,
-char_204_platnm_CN_021,Selecting Operator 1,Your orders?,
-char_204_platnm_CN_022,Selecting Operator 2,Who's my target?,
-char_204_platnm_CN_023,Deployment 1,I'll make them disappear.,
-char_204_platnm_CN_024,Deployment 2,Moving to intercept.,
-char_204_platnm_CN_025,In Battle 1,"First, break their legs.",
-char_204_platnm_CN_026,In Battle 2,"Second, break their armor.",
-char_204_platnm_CN_027,In Battle 3,"And third, pierce their flesh.",
-char_204_platnm_CN_028,In Battle 4,"Now, it's checkmate!",
-char_204_platnm_CN_029,4-star Result,Nice. I had quite an enjoyable time.,
-char_204_platnm_CN_030,3-star Result,"Checkmate. I'm sorry, but victory is mine.",
-char_204_platnm_CN_031,Sub 3-star Result,What a pity that we left some alive.,
-char_204_platnm_CN_032,Operation Failure,Don't give up... He who laughs last laughs best.,
-char_204_platnm_CN_033,Assigned to Facility,The atmosphere here is surprisingly good.,
-char_204_platnm_CN_034,Tap,Huh?!,
-char_204_platnm_CN_036,Trust Tap,"Want to go on a walk? If you're busy, there's always next time.",
-char_204_platnm_CN_037,Title,Arknights.,
-char_204_platnm_CN_038,New Year's blessing,"Huh? Wasn't expecting to run into you here. Me? I'm just feeling the breeze. It's too noisy down there, and too many people. I want to be alone. Hm. Still sticking yourself here like a little dope after you've learned my answer? Could it be... You want to stay with me a bit longer? Ugh—whatever, this place is boring. How about we just ditch in secret?",
-char_204_platnm_CN_042,Greeting,"You look well, Doctor.",
-char_204_platnm_CN_043,Birthday,"A kind little reminder from me. Those tickets I gave you WILL expire. Don't make me tie you up and drag you there, okay? ...Day after tomorrow? Alright, it's a deal then. No backsies. What, why am I smiling? Is this your first time going to an amusement park with someone? That's cute. Interpret it however you like, little dummy.",
-char_204_platnm_CN_044,Anniversary Celebration,"Missions: boring, enemies: boring, but it's still way better than Kazimierz no matter how you slice it. Just getting further and further away from there feels great. The wind from Kazimierz will never again blow my arrows off its mark, and I never want to breathe its air ever again.",
+id,title,original,original_zh,translation
+char_204_platnm_CN_001,Appointed as Assistant,"*Yaaawn*... Doctor, could I take a quick break?",哈——欠。博士，我可以请会儿假，稍微离开一下吗？,"Зэ-е-евок... Доктор, можно мне ненадолго отлучиться?"
+char_204_platnm_CN_002,Talk 1,"Don't worry about my bow. I keep it well maintained. It's much tougher than you, so stop asking about it already.",不用担心我的弓，每天我都有在好好保养。而且，它可比你要结实多了，用不着质疑它。,"Не беспокойся о моём луке — я ухаживаю за ним каждый день. И к тому же он куда крепче тебя, так что не сомневайся."
+char_204_platnm_CN_003,Talk 2,There are so many interesting people at Rhodes Island. Would be nice if I could make a friend or two to travel with.,罗德岛确实有不少有趣的人，如果能找到一两个朋友当旅伴也挺不错的。,На Родосе и правда много интересных людей. Было бы неплохо найти пару друзей для путешествий.
+char_204_platnm_CN_004,Talk 3,"Nowadays, the Knights of Kazimierz are little more than a bunch of musclehead jocks, or clowns obsessed with billboards and firework shows. Man, it's so lame.",现在的卡西米尔骑士，不是脑袋里都练出肌肉的傻瓜，就是沉迷广告牌烟火演出的小丑，啊啊，真~~无聊。,"Современные рыцари Казимежа — либо тупые качки с мозгами из мышц, либо клоуны, помешанные на щитах с рекламой и фейерверках. А-а-а, как скучно~~"
+char_204_platnm_CN_005,Talk after Promotion 1,"I was planning to return home after finishing this job, but now I've changed my mind. Why, you ask? You should know better than to ask a girl a question like that.",本来打算在完成手上的任务之后就回国的，嗯，现在我改变主意了。理由？哎呀，特意打听这种事，可是不懂少女心的表现哦。,"Я собиралась вернуться домой, когда закончу это задание. Мм, но я передумала. Причина? Ой, специально расспрашивать о таком — значит не понимать девичьего сердца."
+char_204_platnm_CN_006,Talk after Promotion 2,"Want to know the origin of my codename? You see, there are different ranks for the Knight Assassins in Kazimierz. There's three Darksteel and two Lazurite assassins above me, but I and I alone bear the rank of Platinum, from now till the day I die. So I figured it'd make a good codename.",想问白金这个称呼是怎么来的？这个嘛，卡西米尔的骑士杀手也有级别之分哦。虽然在我之上，还有玄铁三人和青金两人，但身在白金大位的，到我死去为止，有且只能有我一个人。所以，我就干脆拿这个作为代号使用啦。,"Хочешь узнать, откуда взялось имя «Платина»? Видишь ли, у убийц рыцарей в Казимеже тоже есть ранги. Надо мной — трое «Тёмной стали» и двое «Лазурита», но ранг «Платина», пока я не умру, может быть только у одной — у меня. Вот я и взяла его себе в позывные."
+char_204_platnm_CN_007,Talk after Trust Increase 1,"Ah, it's Miss Nearl! No, no, I wasn't going to lay a hand on her. I'm just worried she's going to charge at me with her hammer.",啊，是临光小姐！没有没有，我没打算对她出手。不如说，我更害怕她看到我就拔出战锤冲过来嘛。,"Ах, это мисс Ниарл! Нет-нет, я не собиралась на неё нападать. Скорее, я боюсь, что она увидит меня — и сразу схватит молот и побежит на меня."
+char_204_platnm_CN_008,Talk after Trust Increase 2,"Kazimierz is... a boring place. *Sigh*, I'm almost mad at how much more amusing life here at Rhodes Island is.",卡西米尔还……真挺无聊的。唉~想到自己几乎快要被罗德岛的生活俘虏，我居然会有些生气呢。,"Казимеж... всё такой же скучный. Эх~ Я почти уже попалась в плен жизни на Родосе, и это меня почему-то даже злит."
+char_204_platnm_CN_009,Talk after Trust Increase 3,"Have you thought about how you're going to maintain your relations with everyone here at Rhodes Island? You know, all suits of armor have small gaps which leave you vulnerable, and that's where the enemies always try to jam their blades. One hit to your weak point can bring down everything you've painstakingly built.",您有没有思考过，要如何维系罗德岛各位之间的关系呢？要知道，各个紧密连环间的空隙是结构中最为脆弱的部分；而利刃总会刺向铠甲的缝隙，一旦被趁虚而入，辛苦铸就的一切，顷刻间就会崩塌殆尽。,"Задумывались ли вы, как поддерживать связь между всеми на Родосе? Знайте: промежутки между сомкнутыми звеньями — самое слабое место любой конструкции. Клинок всегда ищет щель в броне. Если туда ударят, всё, что вы возводили с таким трудом, рухнет в один миг."
+char_204_platnm_CN_010,Idle,I'm so bored. Hoping something amusing happens.,真无聊~就不能发生些有意思的事吗~？,Так скучно~ Неужели не может случиться чего-нибудь интересного~?
+char_204_platnm_CN_011,Onboard,"Assassin of the Armorless Union of Kazimierz here as per our agreement. What am I called? Hmm... Call me Platinum, then. Nice to meet you.",卡西米尔无胄盟刺客，依约而来。怎么称呼？嗯……就叫我白金吧，请多关照咯。,"Убийца из Союза бездоспешных Казимежа, прибыла по договорённости. Как меня зовут? Мм... зови меня Платина. Давай дружить."
+char_204_platnm_CN_012,Watching Battle Record,Good. My bow feels even lighter. Thank you.,好啊，仿佛这张弓都变轻了呢，谢谢。,Хорошо. Будто лук мой стал легче. Спасибо.
+char_204_platnm_CN_013,Promotion 1,"Promotion? Isn't the rank of Platinum already intimidating enough? Oh, you are an interesting one.",晋升？白金位还不够可怕吗？哦~你真的，说了很有趣的话呢。,"Повышение? Мало того, что ранг «Платина» и так страшен? О~ Ты и правда говоришь очень занятные вещи."
+char_204_platnm_CN_014,Promotion 2,"Hah. Do you have the guts to gaze upon the true face of the one called Platinum, my dear Doctor?",呵……白金的真正面貌，你当真有胆量见识吗，我可爱的博士？,"Ха... И неужели у тебя хватит смелости узреть истинное лицо Платины, мой милый Доктор?"
+char_204_platnm_CN_017,Added to Squad,"Platinum, reporting for duty.",白金，入列。,"Платина, в строй."
+char_204_platnm_CN_018,Appointed as Squad Leader,"Really? I'm commanding? It's not my strongest suit, but all right.",欸~？让我指挥？我可是没有指挥经验的哦？,"Э~? Мне командовать? У меня же нет опыта командования, честно~"
+char_204_platnm_CN_019,Depart,Will this battle be an interesting one?,接下来，会发生一场有趣的战斗吗~？,А следующий бой будет интересным~?
+char_204_platnm_CN_020,Begin Operation,You may as well attack at the same time. You're all too weak anyway.,一起攻过来也可以，反正你们都很弱。,Можете нападать разом — вы всё равно все слабые.
+char_204_platnm_CN_021,Selecting Operator 1,Your orders?,请指示。,Жду указаний.
+char_204_platnm_CN_022,Selecting Operator 2,Who's my target?,目标是谁？,Кто цель?
+char_204_platnm_CN_023,Deployment 1,I'll make them disappear.,抹除开始。,Начинаю стирать.
+char_204_platnm_CN_024,Deployment 2,Moving to intercept.,迎战。,Встречаю атаку.
+char_204_platnm_CN_025,In Battle 1,"First, break their legs.",数一，碎足。,Раз — ломаю ноги.
+char_204_platnm_CN_026,In Battle 2,"Second, break their armor.",数二，破甲。,Два — пробиваю броню.
+char_204_platnm_CN_027,In Battle 3,"And third, pierce their flesh.",数三，贯身——,Три — пронзаю тело...
+char_204_platnm_CN_028,In Battle 4,"Now, it's checkmate!",——如此一来，便是将军喽！,...И вот — мат!
+char_204_platnm_CN_029,4-star Result,Nice. I had quite an enjoyable time.,很好啊，已经让我十分享受了呢！,Отлично. Я и правда получила огромное удовольствие!
+char_204_platnm_CN_030,3-star Result,"Checkmate. I'm sorry, but victory is mine.",将死。不好意思，是我的胜利呢。,"Мат. Прости, но победа моя."
+char_204_platnm_CN_031,Sub 3-star Result,What a pity that we left some alive.,没能全部处决啊，很可惜。,Не удалось прикончить всех — жаль.
+char_204_platnm_CN_032,Operation Failure,Don't give up... He who laughs last laughs best.,别放弃……坚持到最后的人才是胜者。,"Не сдавайся... побеждает тот, кто продержится до конца."
+char_204_platnm_CN_033,Assigned to Facility,The atmosphere here is surprisingly good.,这里的环境，感觉意外的不错嘛~,Здесь на удивление приятная атмосфера~
+char_204_platnm_CN_034,Tap,Huh?!,唔嗯……,Ммм...
+char_204_platnm_CN_036,Trust Tap,"Want to go on a walk? If you're busy, there's always next time.",要不要陪我去城市里走走？不方便的话，下次也可以。,Не хочешь прогуляться со мной по городу? Если неудобно — в другой раз.
+char_204_platnm_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_204_platnm_CN_038,New Year's blessing,"Huh? Wasn't expecting to run into you here. Me? I'm just feeling the breeze. It's too noisy down there, and too many people. I want to be alone. Hm. Still sticking yourself here like a little dope after you've learned my answer? Could it be... You want to stay with me a bit longer? Ugh—whatever, this place is boring. How about we just ditch in secret?",哦？没想到在这里碰到你了。我在这里干什么？吹吹风啊，下面太吵了，人又多，我想一个人待着。嗯？问完问题还不走，是想和我再多待一会儿吗？好无聊，不如我们偷偷跑掉吧？,"О? Не ожидала встретить тебя здесь. Что я тут делаю? Ловлю ветер — внизу слишком шумно и много народу, хочется побыть одной. Мм? Уже получил ответ, а всё не уходишь — может, хочешь остаться со мной подольше? Скучно... Давай смоемся тайком, а?"
+char_204_platnm_CN_042,Greeting,"You look well, Doctor.",气色不错呢，博士~,"Ты хорошо выглядишь, Доктор~"
+char_204_platnm_CN_043,Birthday,"A kind little reminder from me. Those tickets I gave you WILL expire. Don't make me tie you up and drag you there, okay? ...Day after tomorrow? Alright, it's a deal then. No backsies. What, why am I smiling? Is this your first time going to an amusement park with someone? That's cute. Interpret it however you like, little dummy.",提醒一下，给你的门票可是会过期的，你总不希望我绑着你去吧？……后天？说好了，不许反悔。我为什么笑了？你是不是第一次和别人一起去转游乐园？真可爱。想当成什么意思都可以哦。,"Напоминаю: билеты, что я тебе дала, могут истечь. Не хочешь же, чтобы я тебя связала и потащила?.. Послезавтра? Договорились, без «передумал». Почему я улыбаюсь? Это у тебя первый раз, когда ты идёшь в парк развлечений с кем-то? Как мило. Вкладывай в это что хочешь, малыш."
+char_204_platnm_CN_044,Anniversary Celebration,"Missions: boring, enemies: boring, but it's still way better than Kazimierz no matter how you slice it. Just getting further and further away from there feels great. The wind from Kazimierz will never again blow my arrows off its mark, and I never want to breathe its air ever again.",无聊的任务，无聊的敌人，但就算再无聊也比卡西米尔好很多。越走越远的感觉真好啊，从卡西米尔吹来的风再也无法吹歪我的箭，我也再也不想呼吸那里的空气。,"Скучные задания, скучные враги — но даже такие куда лучше Казимежа. Как приятно уходить всё дальше и дальше! Ветер, дующий из Казимежа, больше не собьёт мою стрелу с пути, и я больше никогда не захочу дышать там воздухом."

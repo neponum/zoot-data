@@ -1,35 +1,35 @@
-id,title,original,translation
-char_281_popka_CN_001,Appointed as Assistant,"Ummm... Nice to see you again, Doctor. It makes me happy... hehe...",
-char_281_popka_CN_002,Talk 1,"Doctor, do you need a break? I made you some tea, and Miss Orchid made cookies. Here, hope you like them… And, umm... Cheer up!",
-char_281_popka_CN_003,Talk 2,"Why is everyone in Team A6 always fighting with each other...? If things keep going like this, we can't be a team anymore... Fighting is bad. I must make them understand!",
-char_281_popka_CN_004,Talk 3,"The gear on my chainsaw is kinda loose, the one that makes the 'vrrrr' sound ... But I don't remember using it lately. Weird...",
-char_281_popka_CN_005,Talk after Promotion 1,"Doctor, is Team A6 getting along well...? That's really some good news. Peace is the best... As long as they don't fight, nothing will bother me while I stay with you…",
-char_281_popka_CN_007,Talk after Trust Increase 1,"I don't know why, but I sometimes get these gaps in my memory. Then when I ask my teammates in A6, they just smile and tell me nothing happened at all...",
-char_281_popka_CN_008,Talk after Trust Increase 2,"Um, Doc-Doctor, did I just pass out...? Um, why is everyone lying on the floor? Miss Catapult? Mr. Midnight? Mr. Spot? Why do you all have bruises on your face? And Miss Orchid too...",
-char_281_popka_CN_009,Talk after Trust Increase 3,"I'm actually super strong? You say I lost control over my power, when I wanted to stop my friends from fighting each other? That's why I don't remember anything...? Okay, I think I get it! Umm... right, I will put my power to good use!",
-char_281_popka_CN_010,Idle,Aaaah! The cup! I didn't control my grip... Errmm... I'm in trouble when the Doctor wakes up...,
-char_281_popka_CN_011,Onboard,"Popukar from Operation Reserve Team A6, reporting in. Um, my teammates in A6 are always arguing. I'm sure you worry about them, Doctor... But I know what to do...",
-char_281_popka_CN_012,Watching Battle Record,"Umm, Doctor, is the girl in the video... me?",
-char_281_popka_CN_013,Promotion 1,"I'm so happy I don't even know what to say...! Thank you, Doctor...! Thank you so much!",
-char_281_popka_CN_017,Added to Squad,My name is Popukar... Nice to meet you...,
-char_281_popka_CN_018,Appointed as Squad Leader,B-But... I really don't know anything about tactics or strategies or anything…,
-char_281_popka_CN_019,Depart,"Miss Catapult, um, it's time to deploy!",
-char_281_popka_CN_020,Begin Operation,"Miss Orchid, don't worry... I'll be fine.",
-char_281_popka_CN_021,Selecting Operator 1,Errrmm...,
-char_281_popka_CN_022,Selecting Operator 2,I'm right here.,
-char_281_popka_CN_023,Deployment 1,I want to stop this fight.,
-char_281_popka_CN_024,Deployment 2,Please stop arguiiing!,
-char_281_popka_CN_025,In Battle 1,Be good and don't move.,
-char_281_popka_CN_026,In Battle 2,Chainsaw got mad…,
-char_281_popka_CN_029,4-star Result,"Mr. Midnight, come back here... Miss Orchid is staring at you…",
-char_281_popka_CN_030,3-star Result,"Can everyone have a good peaceful talk, now...?",
-char_281_popka_CN_031,Sub 3-star Result,"Doctor… Doctor…? Here, I made some tea. You must be tired.",
-char_281_popka_CN_032,Operation Failure,**A painful groan** I'm… injured…? It hurts…,
-char_281_popka_CN_033,Assigned to Facility,Please don't leave me here alone...,
-char_281_popka_CN_034,Tap,Aaaugh...,
-char_281_popka_CN_036,Trust Tap,"Doctor, headpats…",
-char_281_popka_CN_037,Title,Arknights.,
-char_281_popka_CN_038,New Year's blessing,"Happy New Year, Doctor. I made some soft and chewy New Year's cakes at the cafeteria... They say my cakes are great. I'm strong, so I always pound the dough well! Hehe...",
-char_281_popka_CN_042,Greeting,"Doctor, are you getting along with everyone today...?",
-char_281_popka_CN_043,Birthday,"Happy birthday, Doctor. I never really celebrated birthdays before, but now that I'm at Rhodes Island, Orchid always lets me have extra snacks on them... Do you want any? I'll sneak some out for you. Others won't notice!",
-char_281_popka_CN_044,Anniversary Celebration,"Will we all stay together if I'm a good kid, if I'm a little smarter? I want A6 to stay together like a family... Will you help me, Doctor?",
+id,title,original,original_zh,translation
+char_281_popka_CN_001,Appointed as Assistant,"Ummm... Nice to see you again, Doctor. It makes me happy... hehe...",嗯嗯……又能见到博士了，泡普卡，真高兴……嘿嘿……,"Ммм... снова вижу вас, Доктор. Попукар так рада... хе-хе..."
+char_281_popka_CN_002,Talk 1,"Doctor, do you need a break? I made you some tea, and Miss Orchid made cookies. Here, hope you like them… And, umm... Cheer up!",博士，累了吗？这是泡普卡新泡的茶，还有梓兰姐姐做的饼干，给您……嗯嗯，要打起精神来哦……？,"Доктор, вы устали? Попукар заварила вам чай, а сестра Оркид испекла печенье. Вот, надеюсь, вам понравится... И ещё... не унывайте, ладно?"
+char_281_popka_CN_003,Talk 2,"Why is everyone in Team A6 always fighting with each other...? If things keep going like this, we can't be a team anymore... Fighting is bad. I must make them understand!",A6组的大家，为什么每天都会吵架呢……？再这样下去，大家会渐渐变成陌生人的……吵架绝对是一件错事，泡普卡，一定要让大家彻底明白才行……,"Почему ребята из группы A6 всё время ссорятся...? Если так пойдёт и дальше, мы перестанем быть командой... Ссориться — плохо. Попукар должна заставить их понять!"
+char_281_popka_CN_004,Talk 3,"The gear on my chainsaw is kinda loose, the one that makes the 'vrrrr' sound ... But I don't remember using it lately. Weird...",泡普卡的电锯，上面呜呜转的盘子有点松动了呢……可是好奇怪，泡普卡不记得最近有用过它啊……？,"У Попукар на бензопиле шатается диск, тот, что делает «вжжж»... Но Попукар не помнит, чтобы пользовалась им в последнее время. Странно..."
+char_281_popka_CN_005,Talk after Promotion 1,"Doctor, is Team A6 getting along well...? That's really some good news. Peace is the best... As long as they don't fight, nothing will bother me while I stay with you…",博士，A6组的大家，现在是和和气气的吗？……嗯嗯，和和气气的，最好……而且，只要大家不再吵闹，泡普卡也能安安心心待在博士身边……,"Доктор, ребята из A6 сейчас ладят?.. Это очень хорошая новость. Мир — это лучше всего... И пока они не ссорятся, Попукар может спокойно оставаться рядом с вами..."
+char_281_popka_CN_007,Talk after Trust Increase 1,"I don't know why, but I sometimes get these gaps in my memory. Then when I ask my teammates in A6, they just smile and tell me nothing happened at all...",……不知道为什么，最近，泡普卡总是会失去一段时间的记忆，就算问A6组的大家，大家也只会笑着对泡普卡说，什么事都没发生过……？,"Попукар не знает почему, но в последнее время у меня бывают провалы в памяти. Спросишь ребят из A6 — а они только смеются и говорят Попукар, что ничего не случилось...?"
+char_281_popka_CN_008,Talk after Trust Increase 2,"Um, Doc-Doctor, did I just pass out...? Um, why is everyone lying on the floor? Miss Catapult? Mr. Midnight? Mr. Spot? Why do you all have bruises on your face? And Miss Orchid too...",呜、博、博士，泡普卡，刚才是不是昏过去了……？咦，大家怎么，都躺在地上？空爆姐姐？月见夜哥哥，斑点哥哥？你们，怎么满头都是包？怎么连梓兰姐姐也……,"У-у, Док-Доктор, Попукар только что теряла сознание...? Почему все лежат на полу? Сестра Катапульта? Брат Миднайт? Брат Спот? Почему у вас все шишки? И сестра Оркид тоже..."
+char_281_popka_CN_009,Talk after Trust Increase 3,"I'm actually super strong? You say I lost control over my power, when I wanted to stop my friends from fighting each other? That's why I don't remember anything...? Okay, I think I get it! Umm... right, I will put my power to good use!",泡普卡的力量，其实很强大？为了阻止大家继续争吵，所以泡普卡的力量，失控了，才不记得发生了什么？……原来，是这样啊，泡普卡，明白了。嗯嗯，这样的力量，泡普卡，绝对不会浪费的！,"Попукар на самом деле очень сильная? Вы говорите, Попукар не справилась со своей силой, когда захотела остановить драку ребят, и поэтому ничего не помнит?.. Так вот оно что, Попукар поняла. Э-э, верно, Попукар не станет зря тратить такую силу!"
+char_281_popka_CN_010,Idle,Aaaah! The cup! I didn't control my grip... Errmm... I'm in trouble when the Doctor wakes up...,啊……！水杯，捏爆了……？呜……博士醒来的话，会生气的……,"А-а-а! Стакан! Попукар не рассчитала силу... Ууу... когда Доктор проснётся, будет плохо..."
+char_281_popka_CN_011,Onboard,"Popukar from Operation Reserve Team A6, reporting in. Um, my teammates in A6 are always arguing. I'm sure you worry about them, Doctor... But I know what to do...",行动预备组A6，泡普卡，报到。那个，A6组的大家，总是很吵闹，让博士担心了……泡普卡，知道该怎么做……,"Попукар из резервной группы A6, прибыла. Э-э, ребята в A6 всё ссорятся, вы беспокоитесь, Доктор... Попукар знает, что делать..."
+char_281_popka_CN_012,Watching Battle Record,"Umm, Doctor, is the girl in the video... me?",……咦，博士，屏幕里的那个人，是泡普卡吗……？,"Э-э, Доктор, девочка на экране — это Попукар...?"
+char_281_popka_CN_013,Promotion 1,"I'm so happy I don't even know what to say...! Thank you, Doctor...! Thank you so much!",泡普卡，高兴得不知道该说些什么好……！谢谢博士……！谢谢您！,"Попукар так счастлива, что не знает, что сказать...! Спасибо, Доктор...! Очень-очень спасибо!"
+char_281_popka_CN_017,Added to Squad,My name is Popukar... Nice to meet you...,叫我泡普卡……请多多关照……,Меня зовут Попукар... Приятно знакомиться...
+char_281_popka_CN_018,Appointed as Squad Leader,B-But... I really don't know anything about tactics or strategies or anything…,那个……布置战术什么的，泡普卡都还没学会呢……,"Э-э, но Попукар ещё не научилась расставлять силы по позициям..."
+char_281_popka_CN_019,Depart,"Miss Catapult, um, it's time to deploy!",空爆姐姐，那个，出发时间到了哦……,"Сестра Катапульта, э-э, пора выходить..."
+char_281_popka_CN_020,Begin Operation,"Miss Orchid, don't worry... I'll be fine.",梓兰姐姐，别紧张……泡普卡，不会有事的……,"Сестра Оркид, не волнуйся... Попукар будет осторожна..."
+char_281_popka_CN_021,Selecting Operator 1,Errrmm...,嗯……,Э-ээ...
+char_281_popka_CN_022,Selecting Operator 2,I'm right here.,泡普卡，在这呢。,Попукар здесь.
+char_281_popka_CN_023,Deployment 1,I want to stop this fight.,泡普卡，想制止这场争斗。,Попукар хочет остановить эту ссору.
+char_281_popka_CN_024,Deployment 2,Please stop arguiiing!,不要吵架哦……,"Не ссорьтесь, пожалуйста..."
+char_281_popka_CN_025,In Battle 1,Be good and don't move.,乖一点，不要动……,"Будьте хорошими, не двигайтесь..."
+char_281_popka_CN_026,In Battle 2,Chainsaw got mad…,锯子，在生气了……,Пила рассердилась...
+char_281_popka_CN_029,4-star Result,"Mr. Midnight, come back here... Miss Orchid is staring at you…",月见夜哥哥，该归队了哦……梓兰姐姐，在盯着你看呢……,"Брат Миднайт, пора возвращаться... Сестра Оркид на вас смотрит..."
+char_281_popka_CN_030,3-star Result,"Can everyone have a good peaceful talk, now...?",现在，争吵，可以停下来了吗……？,Теперь ссора может остановиться...?
+char_281_popka_CN_031,Sub 3-star Result,"Doctor… Doctor…? Here, I made some tea. You must be tired.",唔唔……博士，给，泡普卡的茶……博士，累了吧……？,"Ммм... Доктор, вот, чай Попукар... Вы устали, да...?"
+char_281_popka_CN_032,Operation Failure,**A painful groan** I'm… injured…? It hurts…,好……好疼……泡普卡，受伤了……？,"Ой... ой, больно... Попукар ранена...?"
+char_281_popka_CN_033,Assigned to Facility,Please don't leave me here alone...,请别让泡普卡一个人待在这……,"Пожалуйста, не оставляйте Попукар одну здесь..."
+char_281_popka_CN_034,Tap,Aaaugh...,哇啊啊……,А-а-ауу...
+char_281_popka_CN_036,Trust Tap,"Doctor, headpats…",博士，摸摸……,"Доктор, погладьте по голове..."
+char_281_popka_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_281_popka_CN_038,New Year's blessing,"Happy New Year, Doctor. I made some soft and chewy New Year's cakes at the cafeteria... They say my cakes are great. I'm strong, so I always pound the dough well! Hehe...",新年好，博士。那个……泡普卡在食堂学着做了年糕。软软的，又白白的。大家说，因为泡普卡的力气很大，所以打出来的年糕可好吃了……欸嘿嘿……,"С новым годом, Доктор. Попукар в столовой научилась делать новогодние рисовые лепёшки. Мягкие и белые. Говорят, раз у Попукар большая сила, то и лепёшки получаются вкусными... э-э-хе-хе..."
+char_281_popka_CN_042,Greeting,"Doctor, are you getting along with everyone today...?",博士，今天也和和气气的吗……？,"Доктор, сегодня вы со всеми ладите...?"
+char_281_popka_CN_043,Birthday,"Happy birthday, Doctor. I never really celebrated birthdays before, but now that I'm at Rhodes Island, Orchid always lets me have extra snacks on them... Do you want any? I'll sneak some out for you. Others won't notice!",博士，生日快乐。之前，我没有怎么过过生日，来到罗德岛后，过生日的时候，梓兰姐姐都会允许我多吃一些点心……博士，您有什么想吃的吗？我可以瞒着医生，偷偷帮您拿一点！,"Доктор, с днём рождения. Раньше Попукар почти не праздновала дни рождения, а на Родосе в такой день сестра Оркид всегда разрешает мне съесть немного больше сладостей... Вам что-нибудь хочется? Попукар может тихонько принести, врачи не заметят!"
+char_281_popka_CN_044,Anniversary Celebration,"Will we all stay together if I'm a good kid, if I'm a little smarter? I want A6 to stay together like a family... Will you help me, Doctor?",如果泡普卡再听话一点，再聪明一点，是不是就可以和大家一直在一起了呢？我希望，A6组的大家，能一直像家人一样在一起……博士，帮帮我好吗？,"Если Попукар будет слушаться и станет чуть умнее — мы сможем всегда быть вместе? Попукар хочет, чтобы группа A6 всегда была вместе, как семья... Помогите мне, Доктор?"

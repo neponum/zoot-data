@@ -1,35 +1,35 @@
-id,title,original,translation
-char_208_melan_CN_001,Appointed as Assistant,"H-Hello, Doctor... It's nice meeting you...",
-char_208_melan_CN_002,Talk 1,Um... Sorry... I'm not a good talker...,
-char_208_melan_CN_003,Talk 2,Yes... My parents are Victorian merchants. But I haven't been able to contact them for a long time... I picked this code name because it reminds me of home.,
-char_208_melan_CN_004,Talk 3,Th-That masked Operator... makes me feel... nervous...,
-char_208_melan_CN_005,Talk after Promotion 1,"It's not that... I'm trying to avoid people, it's just, I'm not sure... what I should do...",
-char_208_melan_CN_007,Talk after Trust Increase 1,"Sorry to make you worry again, Ansel... But you don't have to give me special treatment. Many more people need your help.",
-char_208_melan_CN_008,Talk after Trust Increase 2,"Oripathy granted me powerful senses, but they're slipping away, little by little... Even so, I will not crumble... There's so much more I want to talk about with everyone...",
-char_208_melan_CN_009,Talk after Trust Increase 3,"Doctor, could you take this bottle of perfume, please? I brought it from home... This type of perfume lifts spirits. I often take a sniff when I feel down.",
-char_208_melan_CN_010,Idle,Merry? Keep it down... The Doctor is very tired.,
-char_208_melan_CN_011,Onboard,"I'm Melantha... From now on, my blade is yours.",
-char_208_melan_CN_012,Watching Battle Record,Thank you... for your guidance.,
-char_208_melan_CN_013,Promotion 1,"Thank you very much... Um, were the others promoted as well? I think they all deserve it just the same.",
-char_208_melan_CN_017,Added to Squad,Understood... I'll follow your orders.,
-char_208_melan_CN_018,Appointed as Squad Leader,The leader? But I'm not particularly good at giving orders...,
-char_208_melan_CN_019,Depart,Let's work to make the world a more peaceful place.,
-char_208_melan_CN_020,Begin Operation,Ansel... I'm counting on you now.,
-char_208_melan_CN_021,Selecting Operator 1,Please give me instructions...,
-char_208_melan_CN_022,Selecting Operator 2,What are your orders?,
-char_208_melan_CN_023,Deployment 1,Understood.,
-char_208_melan_CN_024,Deployment 2,I'll do my best.,
-char_208_melan_CN_025,In Battle 1,You will fall...!,
-char_208_melan_CN_026,In Battle 2,Attack!,
-char_208_melan_CN_029,4-star Result,"No matter what difficulties are in store for me, I will keep on advancing.",
-char_208_melan_CN_030,3-star Result,We won? Thank goodness for that...,
-char_208_melan_CN_031,Sub 3-star Result,I can still fight.,
-char_208_melan_CN_032,Operation Failure,We failed... How did things end up this way?,
-char_208_melan_CN_033,Assigned to Facility,Is there... anyone else here?,
-char_208_melan_CN_034,Tap,"Wh-Who's there?! Oh, Doctor...",
-char_208_melan_CN_036,Trust Tap,"Doctor, thank you for always taking care of me... Um, actually... I'd like to keep taking on the fight.",
-char_208_melan_CN_037,Title,Arknights.,
-char_208_melan_CN_038,New Year's blessing,"Um… Happy New Year, Doctor. My parents sent me a letter and a present. I'm also doing a little better today, in terms of perceptiveness. It's a happy day for me. I hope… it puts you in a good mood too.",
-char_208_melan_CN_042,Greeting,Doctor...,
-char_208_melan_CN_043,Birthday,"Doctor, thank you for all the care and encouragement you've given me. This is a present from me... some refreshing fragrances. I've already tried them, they don't clash when mixed together. So you can blend them however you like…",
-char_208_melan_CN_044,Anniversary Celebration,"Doctor… How have we been doing? Um… yes… Thank you. I hope I can do better, bit by bit! My squadmates have been supporting me all the way. I hope to repay them… with my strength.",
+id,title,original,original_zh,translation
+char_208_melan_CN_001,Appointed as Assistant,"H-Hello, Doctor... It's nice meeting you...",您好，博士……请多关照。,"Здравствуйте, Доктор... Прошу о снисхождении."
+char_208_melan_CN_002,Talk 1,Um... Sorry... I'm not a good talker...,那个……抱歉……我不太擅长，与人交谈……,Простите... я не очень умею... разговаривать с людьми...
+char_208_melan_CN_003,Talk 2,Yes... My parents are Victorian merchants. But I haven't been able to contact them for a long time... I picked this code name because it reminds me of home.,是的……我的双亲是维多利亚的商人。但是我很长时间没能和他们联络上了……这个代号，能让我想起自己的家……,Да... мои родители — купцы из Виктории. Но я очень давно не получала от них вестей... Этот позывной напоминает мне о доме...
+char_208_melan_CN_004,Talk 3,Th-That masked Operator... makes me feel... nervous...,那、那位戴着面具的干员……让我感到……有些不安……,"Тот, тот оперативник в маске... он меня... немного тревожит..."
+char_208_melan_CN_005,Talk after Promotion 1,"It's not that... I'm trying to avoid people, it's just, I'm not sure... what I should do...",不，我并不是……不想接近大家，只是，我不知道……该怎么做才好……,"Нет, я не... не хочу сторониться людей — просто я не знаю... как мне быть..."
+char_208_melan_CN_007,Talk after Trust Increase 1,"Sorry to make you worry again, Ansel... But you don't have to give me special treatment. Many more people need your help.",对不起，安赛尔……我又让你担心了。不过，不用这样关照我，还有更多需要帮助的人在等着你呢。,"Простите, Ансель... я опять заставила вас волноваться. Только не заботьтесь обо мне так сильно — есть люди, которым ваша помощь нужнее."
+char_208_melan_CN_008,Talk after Trust Increase 2,"Oripathy granted me powerful senses, but they're slipping away, little by little... Even so, I will not crumble... There's so much more I want to talk about with everyone...",矿石病，曾经让我拥有过强大的感知能力，而这份能力正在不断地消逝……但是，就算是这样，我也不会退缩的……我还想，和大家多说说话……,"Опухоль некогда дала мне сильное восприятие, а сейчас оно постепенно уходит... Но даже так я не отступлю... Я хочу ещё поговорить с вами, с остальными..."
+char_208_melan_CN_009,Talk after Trust Increase 3,"Doctor, could you take this bottle of perfume, please? I brought it from home... This type of perfume lifts spirits. I often take a sniff when I feel down.",博士，您，能收下这瓶香水吗？这是我从家里带出来的……这种香水，有振奋精神的功效，在我没有精神的时候，我就会闻一闻它……,"Доктор, вы... примете этот флакон духов? Я привезла его из дома... Эти духи бодрят, когда у меня нет сил, я их нюхаю..."
+char_208_melan_CN_010,Idle,Merry? Keep it down... The Doctor is very tired.,梅莉？别太吵闹……博士已经很累了。,"Мэйли, не шуми... Доктор и так устал."
+char_208_melan_CN_011,Onboard,"I'm Melantha... From now on, my blade is yours.",……玫兰莎。从现在起，我的利刃将为您所用。,...Меланта. Отныне моё лезвие служит вам.
+char_208_melan_CN_012,Watching Battle Record,Thank you... for your guidance.,谢谢您的指导……,Спасибо за ваши указания...
+char_208_melan_CN_013,Promotion 1,"Thank you very much... Um, were the others promoted as well? I think they all deserve it just the same.",非常感谢您……那个，其他人也获得晋升了吗？我想，大家应该都和我一样，拥有这样的资格。,"Очень вам благодарна... Э-э, а другие тоже получили повышение? Я думаю, мы все заслужили это."
+char_208_melan_CN_017,Added to Squad,Understood... I'll follow your orders.,嗯……我会遵照您的指示行动。,Мм... я буду действовать по вашим указаниям.
+char_208_melan_CN_018,Appointed as Squad Leader,The leader? But I'm not particularly good at giving orders...,我……吗？我，不擅长指挥他人……,Я... я? Мне не даётся командовать другими...
+char_208_melan_CN_019,Depart,Let's work to make the world a more peaceful place.,各位，为这个世界，带来更多和平吧。,Все вместе — давайте принесём этому миру больше мира.
+char_208_melan_CN_020,Begin Operation,Ansel... I'm counting on you now.,安赛尔……接下来，就拜托你了。,Ансель... отныне я полагаюсь на вас.
+char_208_melan_CN_021,Selecting Operator 1,Please give me instructions...,请指示……,Жду указаний...
+char_208_melan_CN_022,Selecting Operator 2,What are your orders?,命令是……？,Приказ...?
+char_208_melan_CN_023,Deployment 1,Understood.,了解了。,Поняла.
+char_208_melan_CN_024,Deployment 2,I'll do my best.,尽我所能。,"Всё, что в моих силах."
+char_208_melan_CN_025,In Battle 1,You will fall...!,打倒你……！,Победить тебя...!
+char_208_melan_CN_026,In Battle 2,Attack!,斩。,Удар.
+char_208_melan_CN_029,4-star Result,"No matter what difficulties are in store for me, I will keep on advancing.",无论什么样的困难，都无法阻止我前进。,Никакие трудности не остановят меня.
+char_208_melan_CN_030,3-star Result,We won? Thank goodness for that...,赢了吗？太好了……,Победили? Хорошо...
+char_208_melan_CN_031,Sub 3-star Result,I can still fight.,我还能继续战斗。,Я могу и дальше сражаться.
+char_208_melan_CN_032,Operation Failure,We failed... How did things end up this way?,失败了……竟然，会变成这样……,Неудача... как же так... вышло...
+char_208_melan_CN_033,Assigned to Facility,Is there... anyone else here?,这里……这里还有其他人在的吗……？,Здесь... здесь ещё кто-то есть...?
+char_208_melan_CN_034,Tap,"Wh-Who's there?! Oh, Doctor...",是、是谁——博士！,К-кто это — Доктор!
+char_208_melan_CN_036,Trust Tap,"Doctor, thank you for always taking care of me... Um, actually... I'd like to keep taking on the fight.",博士，感谢您一直这样关心我……那个，其实……我希望自己，今后也能更多地去战斗。,"Доктор, спасибо, что всё это время заботились обо мне... Э-э, на самом деле... я хочу и впредь больше сражаться."
+char_208_melan_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_208_melan_CN_038,New Year's blessing,"Um… Happy New Year, Doctor. My parents sent me a letter and a present. I'm also doing a little better today, in terms of perceptiveness. It's a happy day for me. I hope… it puts you in a good mood too.",新年……快乐，博士，我的父母也给我寄来了信件和礼物，我的感知能力在今天似乎也有所好转，今天……是很开心的一天，希望您也有这样的好心情。,"С Новым годом... Доктор, мои родители тоже прислали письмо и подарок, а моё восприятие сегодня будто бы стало лучше... Сегодня... очень счастливый день. Желаю и вам такого же настроения."
+char_208_melan_CN_042,Greeting,Doctor...,博士。,Доктор.
+char_208_melan_CN_043,Birthday,"Doctor, thank you for all the care and encouragement you've given me. This is a present from me... some refreshing fragrances. I've already tried them, they don't clash when mixed together. So you can blend them however you like…",博士，感谢您一直以来的关心和督促，这是我准备的礼物……一些可以提神的香料。我已经实验过了，任意几种搭配在一起都不会有相冲的效果，您可以按照自己的喜好随意制作……,"Доктор, спасибо за вашу заботу и наставления... вот, я приготовила подарок — немного пряностей, бодрящих духов. Я проверила: любые сочетания не дают дурного эффекта, так что смешивайте как вам нравится..."
+char_208_melan_CN_044,Anniversary Celebration,"Doctor… How have we been doing? Um… yes… Thank you. I hope I can do better, bit by bit! My squadmates have been supporting me all the way. I hope to repay them… with my strength.",我们做得……怎么样？嗯，嗯，我希望自己，能逐渐做得更好！而且小队的其他成员，他们支持我的那股力量，我会将它全都回报给小队……,"Как у нас... получилось? Мм, мм, я надеюсь становиться всё лучше! И поддержка остальных членов отряда — я верну её с лихвой..."

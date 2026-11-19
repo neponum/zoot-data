@@ -1,36 +1,36 @@
-id,title,original,translation
-char_124_kroos_CN_001,Appointed as Assistant,"Doctor, it's such a nice day, so can't we take a little nap?",
-char_124_kroos_CN_002,Talk 1,"Hmm...? We're about to leave? But I just got up... Wait, is this the Doctor's office? How'd I get here?",
-char_124_kroos_CN_003,Talk 2,"Why am I always squinting? Because I don't want anyone to see my eyes. Nope, nobody~",
-char_124_kroos_CN_004,Talk 3,"I'm really careless and get hurt a lot... But Hibiscus heals me every time, so I'm not afraid of getting injured. Oh gosh, that 'Curing Cuisine' of hers though, I'm terrified of it...",
-char_124_kroos_CN_005,Talk after Promotion 1,Doctor! Someone left 10 alarm clocks by my bed! Who would do something so awful?!,
-char_124_kroos_CN_007,Talk after Trust Increase 1,"Doctor, let's play a game~ Put an apple on your head and we'll start~",
-char_124_kroos_CN_008,Talk after Trust Increase 2,"I'm always looking for fun things to do as a way to ease the pain of my Oripathy, I guess. Plus, I love seeing other people smile~",
-char_124_kroos_CN_009,Talk after Trust Increase 3,"One day, our journey with Rhodes Island will come to an end, and hopefully we'll all get to have a warm, neverending dream, lying in the sunshine~ That's my number one dream~",
-char_124_kroos_CN_010,Idle,Can't believe the Doctor's a heavier sleeper than me...,
-char_124_kroos_CN_011,Onboard,"Hi-hiii~ I'm Kroos~ I might be inexperienced, but I'll do the best I can~",
-char_124_kroos_CN_012,Watching Battle Record,Thank you so much!,
-char_124_kroos_CN_013,Promotion 1,A promotion~ What a lovely dream~ Huh? I'm not dreaming?,
-char_124_kroos_CN_017,Added to Squad,"Umm, where's the rally point?",
-char_124_kroos_CN_018,Appointed as Squad Leader,Huhhh~? Fang would make a better captain than me!,
-char_124_kroos_CN_019,Depart,"Listen, everyone~! Stay calm~",
-char_124_kroos_CN_020,Begin Operation,Why can't everyone try to get along...?,
-char_124_kroos_CN_021,Selecting Operator 1,Sure!,
-char_124_kroos_CN_022,Selecting Operator 2,Let's take it slow~,
-char_124_kroos_CN_023,Deployment 1,"Mmhmm, I'm listening~",
-char_124_kroos_CN_024,Deployment 2,I won't sleep on the job~,
-char_124_kroos_CN_025,In Battle 1,There you are!,
-char_124_kroos_CN_026,In Battle 2,Heeere I aaaaam!,
-char_124_kroos_CN_027,In Battle 3,Take aim!,
-char_124_kroos_CN_029,4-star Result,"Phew, that was tough...",
-char_124_kroos_CN_030,3-star Result,I think we did alright!,
-char_124_kroos_CN_031,Sub 3-star Result,"Hmm, I guess this was a bit of a letdown...",
-char_124_kroos_CN_032,Operation Failure,S-sorry... I'll fight harder next time...!,
-char_124_kroos_CN_033,Assigned to Facility,Can I get my beauty sleep in here?,
-char_124_kroos_CN_034,Tap,Ughh...,
-char_124_kroos_CN_036,Trust Tap,"Hmm, have I matured?",
-char_124_kroos_CN_037,Title,Arknights.,
-char_124_kroos_CN_038,New Year's blessing,"Doctor Happy New Year! I'm really sleepy already, so I'm just wishing you a good year ahead of time. How was that can I gave you, tasty? If you liked it, I could give you a few more.",
-char_124_kroos_CN_042,Greeting,Doctor~ *Yawn*...,
-char_124_kroos_CN_043,Birthday,"Fang! You're awful! Doctor, don't be scared, come with me. Hmm? What are you crouching for? There's no water bucket on the door. Pff, your chair's got all four legs too. No hot sauce in your cake either. Heheh, Doctor, Truth is, I haven't pulled a single prank at all! That's what I'm fooling them about!",
-char_124_kroos_CN_044,Anniversary Celebration,"It's so fun having everyone together like this. Not a care in the land except what's coming up next and what eats there are. How nice it'll be if every day was like this. Oh, the light show's starting? Let's get moving, Doctor.",
+id,title,original,original_zh,translation
+char_124_kroos_CN_001,Appointed as Assistant,"Doctor, it's such a nice day, so can't we take a little nap?",博士？这么好的天气，再稍微睡一会儿好吗~,Доктор? Такая хорошая погода — можно ещё немного поспать~
+char_124_kroos_CN_002,Talk 1,"Hmm...? We're about to leave? But I just got up... Wait, is this the Doctor's office? How'd I get here?",嗯？马上要出发？我刚刚起床……顺便问一下，这里是博士的办公室吗？为什么我会在这里呢？,"Мм? Скоро выходим? Я только что проснулась... Кстати, это кабинет Доктора? Почему я здесь?"
+char_124_kroos_CN_003,Talk 2,"Why am I always squinting? Because I don't want anyone to see my eyes. Nope, nobody~",为什么我要眯起眼睛？因为不想让人看到我的眼睛，谁都不让~♪,"Почему я щурюсь? Потому что не хочу, чтобы кто-то видел мои глаза. Никому не покажу~♪"
+char_124_kroos_CN_004,Talk 3,"I'm really careless and get hurt a lot... But Hibiscus heals me every time, so I'm not afraid of getting injured. Oh gosh, that 'Curing Cuisine' of hers though, I'm terrified of it...",我总是不小心受伤呢~但芙蓉会治好我的，所以我才不怕~啊，不过“治愈料理”是另一回事，那个真是可怕的体验啊……,"Я всё время ненароком ранюсь~ Но Гибискус меня вылечит, потому я и не боюсь~ Ах, но «лечебная кухня» — совсем другое дело, это просто ужасный опыт..."
+char_124_kroos_CN_005,Talk after Promotion 1,Doctor! Someone left 10 alarm clocks by my bed! Who would do something so awful?!,博士~！我床头多了十个闹钟~！真是过分的恶作剧~到底是谁放的呢？,Доктор~! У кровати появились десять будильников~! Это же слишком жестоко~ Кто их подложил?
+char_124_kroos_CN_007,Talk after Trust Increase 1,"Doctor, let's play a game~ Put an apple on your head and we'll start~",博士，来玩个游戏吧？头上~放一个红苹果~,"Доктор, давайте поиграем? На голову~ поставлю красное яблоко~"
+char_124_kroos_CN_008,Talk after Trust Increase 2,"I'm always looking for fun things to do as a way to ease the pain of my Oripathy, I guess. Plus, I love seeing other people smile~",我总是在找寻让人开心的事情~也是为了缓和矿石病的痛苦吧。能看到大家开开心心的模样，也是一件快乐的事呀~,"Я всё время ищу то, что радует людей~ Наверное, чтобы приглушить боль от орипатии. Видеть, как все веселятся, — тоже радость~"
+char_124_kroos_CN_009,Talk after Trust Increase 3,"One day, our journey with Rhodes Island will come to an end, and hopefully we'll all get to have a warm, neverending dream, lying in the sunshine~ That's my number one dream~",总有一天，罗德岛的旅途会结束的。要是能和大家一起，在温暖的天气里香甜地睡一觉，做一场醒不来的梦，该有多好啊~这是我最大的梦想哦~,"Однажды путь Родоса закончится. Как бы хорошо было уснуть сладко со всеми в тёплый день и увидеть сон, из которого не хочется просыпаться~ Это моя самая большая мечта~"
+char_124_kroos_CN_010,Idle,Can't believe the Doctor's a heavier sleeper than me...,博士竟然睡得比我还安稳呢……,Доктор спит даже спокойнее меня...
+char_124_kroos_CN_011,Onboard,"Hi-hiii~ I'm Kroos~ I might be inexperienced, but I'll do the best I can~",嗨~嗨~我是克洛丝哦~我还不成熟，从今天开始会加油的~,"Хи~хи~ я Крус~ Я ещё неопытная, но с сегодняшнего дня постараюсь~"
+char_124_kroos_CN_012,Watching Battle Record,Thank you so much!,谢谢啦~,Спасибо~
+char_124_kroos_CN_013,Promotion 1,A promotion~ What a lovely dream~ Huh? I'm not dreaming?,晋升啦~做了个好梦呢~嗯？不是在梦中吗？,Повышение~ Я видела хороший сон~ Мм? А разве это не сон?
+char_124_kroos_CN_017,Added to Squad,"Umm, where's the rally point?",那个，集合地点在哪呢？,"Э-э, где место сбора?"
+char_124_kroos_CN_018,Appointed as Squad Leader,Huhhh~? Fang would make a better captain than me!,欸~队长的话还是芬更好吧~,Эй~ капитаном всё-таки лучше была бы Фанг~
+char_124_kroos_CN_019,Depart,"Listen, everyone~! Stay calm~",大家~嗯，可以放松一下哦~,"Все~ м-м, можно немного расслабиться~"
+char_124_kroos_CN_020,Begin Operation,Why can't everyone try to get along...?,为什么，大家不能好好相处呢……？,Почему вы все не можете просто ладить друг с другом...?
+char_124_kroos_CN_021,Selecting Operator 1,Sure!,好~,Хорошо~
+char_124_kroos_CN_022,Selecting Operator 2,Let's take it slow~,慢慢来就好哦~,"Не спеша, всё будет хорошо~"
+char_124_kroos_CN_023,Deployment 1,"Mmhmm, I'm listening~",嗯嗯，听着呢~,"М-м, я слушаю~"
+char_124_kroos_CN_024,Deployment 2,I won't sleep on the job~,战斗的时候可是不会睡着的~,В бою я точно не засыпаю~
+char_124_kroos_CN_025,In Battle 1,There you are!,你在这里~,Ты здесь~
+char_124_kroos_CN_026,In Battle 2,Heeere I aaaaam!,在~这~里~哦,Я~ з-де-е-сь~
+char_124_kroos_CN_027,In Battle 3,Take aim!,瞄准~！,Прицелилась~!
+char_124_kroos_CN_029,4-star Result,"Phew, that was tough...",呼~好辛苦啊……,Фух~ как же тяжело...
+char_124_kroos_CN_030,3-star Result,I think we did alright!,我觉得还可以哦！,"По-моему, неплохо!"
+char_124_kroos_CN_031,Sub 3-star Result,"Hmm, I guess this was a bit of a letdown...",嗯，稍微有点遗憾……,"Мм, немного жаль..."
+char_124_kroos_CN_032,Operation Failure,S-sorry... I'll fight harder next time...!,对、对不起……下次我会更加努力的……！,П-простите... в следующий раз я постараюсь ещё больше...!
+char_124_kroos_CN_033,Assigned to Facility,Can I get my beauty sleep in here?,在这里能睡个好觉吗？,Здесь можно хорошо выспаться?
+char_124_kroos_CN_034,Tap,Ughh...,呼……,Фу...
+char_124_kroos_CN_036,Trust Tap,"Hmm, have I matured?",嗯？我成长了吗~,Мм? Я выросла~
+char_124_kroos_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_124_kroos_CN_038,New Year's blessing,"Doctor Happy New Year! I'm really sleepy already, so I'm just wishing you a good year ahead of time. How was that can I gave you, tasty? If you liked it, I could give you a few more.",博士，新~年~快~乐~！我已经很困了，就把祝贺新年的话，先说给博士您听吧~之前的罐头好吃吗？如果喜欢的话，我还可以再给您几个哦~,"Доктор, с~ но~ вым~ го~ дом~! Я уже очень хочу спать, поэтому поздравлю вас заранее~ Тот консерв был вкусный? Если понравилось, я могу дать вам ещё~"
+char_124_kroos_CN_042,Greeting,Doctor~ *Yawn*...,博士~啊呼~,Доктор~ а-а-а~
+char_124_kroos_CN_043,Birthday,"Fang! You're awful! Doctor, don't be scared, come with me. Hmm? What are you crouching for? There's no water bucket on the door. Pff, your chair's got all four legs too. No hot sauce in your cake either. Heheh, Doctor, Truth is, I haven't pulled a single prank at all! That's what I'm fooling them about!",芬~你太坏了~！博士，放心跟我走~欸？您怎么突然蹲下？门上没有放水桶~噗，凳子是四条腿哦~蛋糕里也没有放辣椒酱~……嘿嘿~其实什么恶作剧都没有哦~是她们被耍啦~！,"Фанг~ ты ужасно~! Доктор, идите спокойно за мной~ Эй? Почему вы вдруг присели? На двери нет ведра~ Пфф, у табуретки все четыре ножки~ И в торте нет острого соуса~... Хи-хи~ На самом деле никаких розыгрышей не было~ Их просто провели~!"
+char_124_kroos_CN_044,Anniversary Celebration,"It's so fun having everyone together like this. Not a care in the land except what's coming up next and what eats there are. How nice it'll be if every day was like this. Oh, the light show's starting? Let's get moving, Doctor.",像这样大家都聚在一起真的好开心呢~什么事都不用操心，只用关心会有什么节目，有什么好吃的~是不是灯光秀要开始了？走吧走吧~要是每一天都是这样就好了哦，博士~,"Так здорово, когда все собрались вместе~ Ни о чём не надо беспокоиться — только о том, что будет за номер и что вкусного~ Кажется, сейчас начнётся световое шоу? Пойдём, пойдём~ Вот бы каждый день был таким, Доктор~"

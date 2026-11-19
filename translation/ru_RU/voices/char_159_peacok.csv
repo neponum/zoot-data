@@ -1,39 +1,39 @@
-id,title,original,translation
-char_159_peacok_CN_001,Appointed as Assistant,"Since you summoned me, you must be eager to feast your eyes upon my elegant dancing form, right? Uh...? Help you move the luggage...? Hey! I didn't come here to do manual labor!",
-char_159_peacok_CN_002,Talk 1,"You're such a weak and ineffectual leader! How could you be so fragile? If it wasn't for the sorrowful tears Amiya would then shed, I'd convict you right here, right now!",
-char_159_peacok_CN_003,Talk 2,"You don't even know what conviction is? Now prick up your ears! The art of conviction is an assassination technique created by the first Conviction master, who combined traditional dance moves with ancient fighting techniques. And now, standing before you is his third-generation successor!",
-char_159_peacok_CN_004,Talk 3,"Conviction is not some barbaric fighting technique! It's an artform where beauty and ideals are poured into the fist, then delivered through the fist straight into the heart! Now you know!",
-char_159_peacok_CN_005,Talk after Promotion 1,"This art is the crystallization of hard work and great insight. When people ignore the true value of art and use this sacred product as some sort of game, Conviction will descend to right all wrongs.",
-char_159_peacok_CN_006,Talk after Promotion 2,Do you not revere in awe my aestheticly perfect image and overwhelming pressure? Then you're unworthy of your place on the same team as your savior! Ughhh! Con! Viction!,
-char_159_peacok_CN_007,Talk after Trust Increase 1,"I'm actually someone infected with Oripathy, an incurable disease?! Curses... is this my destiny? Is this the fate of all who wield the Conviction Punch? Hey, why are you all looking away! I'm clearly telling you a sad story!",
-char_159_peacok_CN_008,Talk after Trust Increase 2,"You also wish to become Conviction? In that case, chew upon this question! 'You're standing at a junction in a railroad, with a train full of Durin people approaching. The junction splits off into two tracks, one upon which several artists with meager artistic achievements are...'",
-char_159_peacok_CN_009,Talk after Trust Increase 3,You don't even have the gumption to answer the easiest of Conviction's dilemmas! You have no artistic talent! Taaaaake this! Conviction - Second Style!,
-char_159_peacok_CN_010,Idle,"...Hoo! Hah! No, wait, wrong move. Let's try again!",
-char_159_peacok_CN_011,Onboard,"I am Conviction. I shall use this name, with all the faith it entails, as my code name. You ask what my talents are? I'm a master of the deadly and beautiful art of conviction! Now shiver in reverence!",
-char_159_peacok_CN_012,Watching Battle Record,An opportunity like this to become stronger is readily taken!,
-char_159_peacok_CN_013,Promotion 1,"Ahaha, a promotion! The day when Conviction's hidden powers are released is not far away!",
-char_159_peacok_CN_014,Promotion 2,"This sensation... it feels as if my artistic accomplishments have deepened, but also like something is welling up inside me...!",
-char_159_peacok_CN_017,Added to Squad,"Due to my tendency to sometimes convict teammates, it would be safer for me to work alone.",
-char_159_peacok_CN_018,Appointed as Squad Leader,"At last, your conviction arrives!",
-char_159_peacok_CN_019,Depart,Your judgement is nigh!,
-char_159_peacok_CN_020,Begin Operation,"Now, count up your sins!",
-char_159_peacok_CN_021,Selecting Operator 1,On my way!,
-char_159_peacok_CN_022,Selecting Operator 2,All right!,
-char_159_peacok_CN_023,Deployment 1,Here I stand!,
-char_159_peacok_CN_024,Deployment 2,You think you're a worthy opponent?,
-char_159_peacok_CN_025,In Battle 1,Con—vict!,
-char_159_peacok_CN_026,In Battle 2,Haah!,
-char_159_peacok_CN_027,In Battle 3,Hmph!,
-char_159_peacok_CN_028,In Battle 4,Back down!,
-char_159_peacok_CN_029,4-star Result,History is written by the winners… This is the doctrine of Conviction!,
-char_159_peacok_CN_030,3-star Result,"How about it! Aren't you awed by my heroic majesty-- Hey, wait up! Don't leave me behind!",
-char_159_peacok_CN_031,Sub 3-star Result,"It's fine. This victory might not be the most gorgeous, but it'll still serve us well.",
-char_159_peacok_CN_032,Operation Failure,Ugh... the magnificent Conviction must never allow such a blunder…,
-char_159_peacok_CN_033,Assigned to Facility,It's going to be another dilemma for me to convict this room…,
-char_159_peacok_CN_034,Tap,Hmm?,
-char_159_peacok_CN_036,Trust Tap,Woahh! What are you trying to do this time! I'll teach you to behave!,
-char_159_peacok_CN_037,Title,Arknights.,
-char_159_peacok_CN_038,New Year's blessing,"Happy! New! Year! I bring Rhodes Island a dance most rich with the fragrance of Art. Enjoy with bated breath! All will receive a baptism by my gorgeous fistwork, and gain life anew!",
-char_159_peacok_CN_042,Greeting,"Oh, if it isn't the Doctor!",
-char_159_peacok_CN_043,Birthday,Your office entrance is all filled with finely-wrapped boxes! I've convicted each and every one of them! Now partake in this gift from me: Soldiers Assemble: Barrage Fortress! The Firestorm Update!,
-char_159_peacok_CN_044,Anniversary Celebration,"Even beside those who don't understand art, those who misrepresent art are the vilest! The despair, the drowning despair! To think that penguin's music should find so many worshippers—that it should earn Number 1! Who was the contractor for that showdown? I will! Con! Vict!",
+id,title,original,original_zh,translation
+char_159_peacok_CN_001,Appointed as Assistant,"Since you summoned me, you must be eager to feast your eyes upon my elegant dancing form, right? Uh...? Help you move the luggage...? Hey! I didn't come here to do manual labor!",唤我前来，定是渴望欣赏我优美的舞姿，对吧？……呃，帮忙搬运行李？我来这里才不是为了干力气活啊！,"Раз ты меня позвал, ты наверняка жаждешь лицезреть мой изящный танец, верно? Э-э... помочь перенести багаж?.. Я пришла сюда не для того, чтобы таскать тяжести!"
+char_159_peacok_CN_002,Talk 1,"You're such a weak and ineffectual leader! How could you be so fragile? If it wasn't for the sorrowful tears Amiya would then shed, I'd convict you right here, right now!",你身为领导者竟然如此羸弱，这是怎么回事？若不是怕阿米娅伤心哭泣，我定要就地将你断罪！,"Ты так слабый и ничтожный предводитель! Как ты можешь быть таким хрупким? Если бы не слёзы Амии, я бы прямо здесь тебя осудила!"
+char_159_peacok_CN_003,Talk 2,"You don't even know what conviction is? Now prick up your ears! The art of conviction is an assassination technique created by the first Conviction master, who combined traditional dance moves with ancient fighting techniques. And now, standing before you is his third-generation successor!",你连何为断罪都不知道吗？听好了，所谓断罪，是第一代断罪大师融合了传统舞步和古代格斗术，所创造出的全新暗杀拳法！我正是他的第三代传人！,"Ты даже не знаешь, что такое осуждение? Слушай же! Искусство осуждения — это техника убийства, созданная первым мастером Осуждения: он соединил традиционные танцевальные движенья с древними боевыми приёмами. А сейчас перед тобой стоит его третий преемник!"
+char_159_peacok_CN_004,Talk 3,"Conviction is not some barbaric fighting technique! It's an artform where beauty and ideals are poured into the fist, then delivered through the fist straight into the heart! Now you know!",断罪可不是什么野蛮的格斗术，这是一门将美丽与思念灌注进拳头，再以拳交心的艺术！知道了吗！,"Осуждение — не варварский вид боевого искусства! Это искусство, где красота и чувство вливаются в кулак, а кулак доносит их прямо до сердца! Запомнил!"
+char_159_peacok_CN_005,Talk after Promotion 1,"This art is the crystallization of hard work and great insight. When people ignore the true value of art and use this sacred product as some sort of game, Conviction will descend to right all wrongs.",所谓艺术，是努力和智慧的结晶，当人们开始忽视艺术的真正价值，将这种神圣的产物当作游戏时，就会有断罪者现世。,"Искусство — плод упорного труда и глубокого прозрения. Когда люди перестают видеть его подлинную ценность и превращают святое в игру, является Осудитель, чтобы восстановить справедливость."
+char_159_peacok_CN_006,Talk after Promotion 2,Do you not revere in awe my aestheticly perfect image and overwhelming pressure? Then you're unworthy of your place on the same team as your savior! Ughhh! Con! Viction!,连我身上这如同名画的压迫感都察觉不到，你是没有资格留在这个拯救者的队伍里的！唔唔唔唔，断！罪！,Неужели ты не трепещешь перед моим безупречным образом и невыразимой статью? Тогда ты не достоин быть в одной команде со своим спасителем! Угхх! О-су-жде-ние!
+char_159_peacok_CN_007,Talk after Trust Increase 1,"I'm actually someone infected with Oripathy, an incurable disease?! Curses... is this my destiny? Is this the fate of all who wield the Conviction Punch? Hey, why are you all looking away! I'm clearly telling you a sad story!",我居然是矿石病的感染者，这病没办法治愈吗？！可恶……这就是我的宿命吗？是挥动断罪之拳的人的宿命吗！喂，你这家伙，不许移开目光！我明明在讲一个很悲伤的故事！,"Я и правда инфицированная, и эта болезнь неизлечима?! Проклятье... это моя судьба? У всех, кто владеет кулаком Осуждения, одна судьба?! Эй, ты, не отворачивайся! Я же рассказываю печальную историю!"
+char_159_peacok_CN_008,Talk after Trust Increase 2,"You also wish to become Conviction? In that case, chew upon this question! 'You're standing at a junction in a railroad, with a train full of Durin people approaching. The junction splits off into two tracks, one upon which several artists with meager artistic achievements are...'",想成为断罪者？那么，你来想一下这个问题的答案！“你现在站在铁路分叉器前面，那边开来一列坐满杜林人的火车，前面有两条铁轨，其中一条铁轨上绑着几个艺术造诣太差的艺术家……”,"Ты тоже хочешь стать Осудителем? Тогда ответь мне на вопрос! «Ты стоишь у стрелки, к тебе идёт поезд, полный дуринов. Пути расходятся: на одном из них привязаны несколько художников с ничтожными талантами...»"
+char_159_peacok_CN_009,Talk after Trust Increase 3,You don't even have the gumption to answer the easiest of Conviction's dilemmas! You have no artistic talent! Taaaaake this! Conviction - Second Style!,连最简单的断罪难题都回答不上来！你这家伙一点艺术天赋都没有！吃我这招！断罪·二式！,Ты не смог ответить даже на простейшую задачу Осуждения! У тебя нет ни капли художественного таланта! Получай! Осуждение — второй стиль!
+char_159_peacok_CN_010,Idle,"...Hoo! Hah! No, wait, wrong move. Let's try again!",……嘿！哈！不，不对，不是这种效果，再来一遍——,"...Хо! Ха! Нет, не тот жест. Давай ещё раз!"
+char_159_peacok_CN_011,Onboard,"I am Conviction. I shall use this name, with all the faith it entails, as my code name. You ask what my talents are? I'm a master of the deadly and beautiful art of conviction! Now shiver in reverence!",我乃断罪者，就以这个充满信念的名号作为代号吧。你问我有何才能？我懂得致命而美丽的断罪艺术！这就足够了！,"Я — Осудитель. Это имя, исполненное веры, я и возьму себе как позывной. Ты спрашиваешь о моих талантах? Я владею смертельным и прекрасным искусством осуждения! Этого достаточно!"
+char_159_peacok_CN_012,Watching Battle Record,An opportunity like this to become stronger is readily taken!,这种变强的机会，多多益善！,Такая возможность стать сильнее — нельзя оставлять её без внимания!
+char_159_peacok_CN_013,Promotion 1,"Ahaha, a promotion! The day when Conviction's hidden powers are released is not far away!",呵呵呵，晋升！距离断罪隐藏的力量被释放的那一天已经不远了！,"А-ха-ха, повышение! До дня, когда раскроется скрытая сила Осуждения, осталось недолго!"
+char_159_peacok_CN_014,Promotion 2,"This sensation... it feels as if my artistic accomplishments have deepened, but also like something is welling up inside me...!",这种感觉……我感觉我的艺术造诣更深了，但我的身体里，好像有什么东西被创造了出来……！,"Это чувство... будто моё мастерство стало глубже, будто внутри меня что-то зародилось...!"
+char_159_peacok_CN_017,Added to Squad,"Due to my tendency to sometimes convict teammates, it would be safer for me to work alone.",因为偶尔会断罪到队友，所以我还是一个人行动比较安全。,"Поскольку я порой осуждаю и союзников, мне безопаснее действовать одной."
+char_159_peacok_CN_018,Appointed as Squad Leader,"At last, your conviction arrives!",总之，开始断罪！,"Ну, начинаем осуждать!"
+char_159_peacok_CN_019,Depart,Your judgement is nigh!,审判时间！,Суд приближается!
+char_159_peacok_CN_020,Begin Operation,"Now, count up your sins!",来吧，清算你们的罪孽！,"Ну, сочти свои грехи!"
+char_159_peacok_CN_021,Selecting Operator 1,On my way!,现在就出发！,Я в пути!
+char_159_peacok_CN_022,Selecting Operator 2,All right!,好！,Хорошо!
+char_159_peacok_CN_023,Deployment 1,Here I stand!,嘿咻——,Я здесь!
+char_159_peacok_CN_024,Deployment 2,You think you're a worthy opponent?,你这家伙做我的对手够格吗？,Ты мне достойный соперник?
+char_159_peacok_CN_025,In Battle 1,Con—vict!,断罪！,О-суж-дение!
+char_159_peacok_CN_026,In Battle 2,Haah!,喝！,Ха-а!
+char_159_peacok_CN_027,In Battle 3,Hmph!,哈！,Хм!
+char_159_peacok_CN_028,In Battle 4,Back down!,退下！！,Назад!
+char_159_peacok_CN_029,4-star Result,History is written by the winners… This is the doctrine of Conviction!,成王败寇——这就是断罪的教义！,Победители пишут историю — таков догмат Осуждения!
+char_159_peacok_CN_030,3-star Result,"How about it! Aren't you awed by my heroic majesty-- Hey, wait up! Don't leave me behind!",怎么样！是不是已经为我英勇的雄姿所倾——咦，要回去了？等等我啊！,"Ну как! Ты потрясён моим героическим видом — Эй, постой! Не бросай меня!"
+char_159_peacok_CN_031,Sub 3-star Result,"It's fine. This victory might not be the most gorgeous, but it'll still serve us well.",也好也好，虽然一点也不华丽，不过普通的胜利也不错。,"Ладно, ладно. Победа и не блестящая, но пользы принесёт."
+char_159_peacok_CN_032,Operation Failure,Ugh... the magnificent Conviction must never allow such a blunder…,呜……身为华丽的断罪者，决不允许有如此失态……！,Ух... Великолепному Осудителю не подобает такого позора...!
+char_159_peacok_CN_033,Assigned to Facility,It's going to be another dilemma for me to convict this room…,很难给这个房间断罪啊~,Трудно осудить эту комнату~
+char_159_peacok_CN_034,Tap,Hmm?,嗯？,Хм?
+char_159_peacok_CN_036,Trust Tap,Woahh! What are you trying to do this time! I'll teach you to behave!,哇啊啊！你这家伙这次又想干什么！不会再让你随心所欲地捉弄我了！,Ой! Что ты опять задумал! Я тебя проучу!
+char_159_peacok_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_159_peacok_CN_038,New Year's blessing,"Happy! New! Year! I bring Rhodes Island a dance most rich with the fragrance of Art. Enjoy with bated breath! All will receive a baptism by my gorgeous fistwork, and gain life anew!",新！年！快！乐！我将为罗德岛带来最富有艺术气息的舞蹈，屏气凝神地欣赏吧！各位都将接受来自我华丽拳法的洗礼，并且获得新生！,"С! но-вым! го-дом! ра-дость!.. Я принесу Родосу танец, пропитанный духом искусства. Смотри, затаив дыхание! Все пройдут крещение моим великолепным кулаком и родятся заново!"
+char_159_peacok_CN_042,Greeting,"Oh, if it isn't the Doctor!",哦！这不是博士吗！,"О, это же доктор!"
+char_159_peacok_CN_043,Birthday,Your office entrance is all filled with finely-wrapped boxes! I've convicted each and every one of them! Now partake in this gift from me: Soldiers Assemble: Barrage Fortress! The Firestorm Update!,你办公室门口怎么堆满了包装精美的盒子！我已经将它们统统断罪了！快接下我的这份礼物，《狂弹要塞！罗德大兵集结·火爆更新版》！,У входа в твой кабинет навалены красиво упакованные коробки! Я всех их осудила! Прими же мой подарок: «Огненная крепость! Сбор Родосских солдат — горячее обновление!»
+char_159_peacok_CN_044,Anniversary Celebration,"Even beside those who don't understand art, those who misrepresent art are the vilest! The despair, the drowning despair! To think that penguin's music should find so many worshippers—that it should earn Number 1! Who was the contractor for that showdown? I will! Con! Vict!",与不理解艺术的人相比，曲解艺术的人更让人觉得可恶！失望，太失望了！那只企鹅的音乐居然能获得如此多的崇拜者，居然还能获得第一！那场比赛的承办者是谁？断！罪！,"С теми, кто не понимает искусство, всё ещё можно мириться, но те, кто его извращает, — самые мерзкие! Разочарование, огромное разочарование! Как эта пингвинья музыка собрала столько поклонников и заняла первое место?! Кто устраивал это состязание? О-су-жде-ние!"

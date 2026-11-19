@@ -1,39 +1,39 @@
-id,title,original,translation
-char_215_mantic_CN_001,Appointed as Assistant,"Umm, excuse me… I've been waiting here... for two hours…",
-char_215_mantic_CN_002,Talk 1,Sorry… I know people keep ignoring me... But... my Arts aren't to blame…,
-char_215_mantic_CN_003,Talk 2,My Arts... make me undetectable to people... in certain environments…,
-char_215_mantic_CN_004,Talk 3,I… I've never had any friends... S-surely no one wants a friend that…  they can't even notice… right?,
-char_215_mantic_CN_005,Talk after Promotion 1,"My tail... It curls up when I'm not fighting... So please, don't be afraid…",
-char_215_mantic_CN_006,Talk after Promotion 2,Doctor... you can leave the dangerous work to me... After all... my Arts were made for that…,
-char_215_mantic_CN_007,Talk after Trust Increase 1,These ID tags around my neck… I collected them... I like holding onto evidence... that someone once existed...,
-char_215_mantic_CN_008,Talk after Trust Increase 2,Don't let that 'Nightmare' girl near me!... She's dangerous... My Arts don't work on her... Why…?,
-char_215_mantic_CN_009,Talk after Trust Increase 3,"I… I really want to cure my Oripathy. But if it's cured... what's going to happen to my Arts?... If they're gone, will I... still be of any use...?",
-char_215_mantic_CN_010,Idle,"Doctor's ignoring me… I don't like it, hmph...",
-char_215_mantic_CN_011,Onboard,"I'm Manticore... My Arts can take out lives silently... Please don't be scared, you're not my target…",
-char_215_mantic_CN_012,Watching Battle Record,Thank you... I-I'm looking forward to you teaching me... more...,
-char_215_mantic_CN_013,Promotion 1,"Finally, I got a promotion... I always thought I wasn't good enough… so you didn't promote me…",
-char_215_mantic_CN_014,Promotion 2,"Did I... manage to help you? I don't have anywhere else to go... My home is here... at Rhodes Island... So please, let me protect it with you...",
-char_215_mantic_CN_017,Added to Squad,Okay...,
-char_215_mantic_CN_018,Appointed as Squad Leader,Nobody will like me... as their captain...,
-char_215_mantic_CN_019,Depart,Please don't leave me behind…,
-char_215_mantic_CN_020,Begin Operation,Please choose tactics that make use of my Arts... even if it's something crafty and underhanded... I won't mind...,
-char_215_mantic_CN_021,Selecting Operator 1,I-I'm ready...,
-char_215_mantic_CN_022,Selecting Operator 2,I'm…right here…,
-char_215_mantic_CN_023,Deployment 1,Manticore… going dark…,
-char_215_mantic_CN_024,Deployment 2,Ready... to ambush...,
-char_215_mantic_CN_025,In Battle 1,That must... really hurt…,
-char_215_mantic_CN_026,In Battle 2,"Please, Don't come close…",
-char_215_mantic_CN_027,In Battle 3,I don't like this... either...,
-char_215_mantic_CN_028,In Battle 4,Farewell…,
-char_215_mantic_CN_029,4-star Result,"Even in such terrible battles… your judgement and decisions didn't seem to waver… You're incredible, Doctor…",
-char_215_mantic_CN_030,3-star Result,A victory by all means... Still...,
-char_215_mantic_CN_031,Sub 3-star Result,I can handle the runaways... if you wish...,
-char_215_mantic_CN_032,Operation Failure,I'm sorry... It's all my fault...,
-char_215_mantic_CN_033,Assigned to Facility,I'll sit... in the corner...,
-char_215_mantic_CN_034,Tap,Eeeeeek!,
-char_215_mantic_CN_036,Trust Tap,Thank you for paying attention to me... I know it's your job... but it still makes me happy…,
-char_215_mantic_CN_037,Title,Arknights.,
-char_215_mantic_CN_038,New Year's blessing,"Happy New Year... More people have  noticed me... in the last year... I'm a little scared, but... a lot of them are very warm, and kind... So, I'm going to try as hard as I can... to adapt...",
-char_215_mantic_CN_042,Greeting,Hello... Doctor...,
-char_215_mantic_CN_043,Birthday,"I'll just put the present on the table and leave... Doctor, happy birthday... Eek! Did-did you notice me...? Um, Happy birthday to you... Doctor.",
-char_215_mantic_CN_044,Anniversary Celebration,"I don't want to go through the experience... of losing a friend again... I will defend everyone, with my own life. Even if it's somewhere none of them will see me...",
+id,title,original,original_zh,translation
+char_215_mantic_CN_001,Appointed as Assistant,"Umm, excuse me… I've been waiting here... for two hours…",那个……我两个小时前，就已经……待在这里了……,Я... уже два часа как стою здесь...
+char_215_mantic_CN_002,Talk 1,Sorry… I know people keep ignoring me... But... my Arts aren't to blame…,对不起，我确实很没有存在感……但这个，并不是我能力的原因呀……,"Простите, я и правда почти не заметна... Но дело не в моих способностях..."
+char_215_mantic_CN_003,Talk 2,My Arts... make me undetectable to people... in certain environments…,我的能力，实际上是……进入特定的环境后，让别人，意识不到我的存在……,"Моя способность, если коротко... войдя в определённую обстановку, я заставляю других не замечать меня..."
+char_215_mantic_CN_004,Talk 3,I… I've never had any friends... S-surely no one wants a friend that…  they can't even notice… right?,我……一直交不到朋友。一个没法被注意到的朋友，谁会想要呢……,"Я... никак не могу найти друзей. Кому нужен друг, которого нельзя заметить..."
+char_215_mantic_CN_005,Talk after Promotion 1,"My tail... It curls up when I'm not fighting... So please, don't be afraid…",尾巴……不战斗的时候，会卷起来……所以，请别那么害怕……,"Хвост... когда я не сражаюсь, он сворачивается... Поэтому, пожалуйста, не бойтесь..."
+char_215_mantic_CN_006,Talk after Promotion 2,Doctor... you can leave the dangerous work to me... After all... my Arts were made for that…,博士，让我去做，那些危险的任务吧。毕竟，我的能力……非常合适……,"Доктор, позвольте мне идти на опасные задания. Ведь моя способность... для этого как раз подходит..."
+char_215_mantic_CN_007,Talk after Trust Increase 1,These ID tags around my neck… I collected them... I like holding onto evidence... that someone once existed...,放在胸前的，这些身份牌，是我捡到的。把人们存在过的痕迹，收集起来，我很喜欢……,"Эти жетончики на груди я подобрала. Мне нравится собирать следы того, что люди были..."
+char_215_mantic_CN_008,Talk after Trust Increase 2,Don't let that 'Nightmare' girl near me!... She's dangerous... My Arts don't work on her... Why…?,那个叫“夜魔”的人，请别让她，靠近我……！那个，她，很危险……我的能力，对她不管用，为什么……,"Того, кого называют «Ночным кошмаром», прошу... не подпускайте ко мне... Она... опасная... Моя способность на неё не действует, почему..."
+char_215_mantic_CN_009,Talk after Trust Increase 3,"I… I really want to cure my Oripathy. But if it's cured... what's going to happen to my Arts?... If they're gone, will I... still be of any use...?",我……其实，想要把病治好的。但是，如果，真的治好了，是不是，会失去现在的能力……那样的我，还有价值吗……？,"Я... на самом деле хочу вылечиться. Но если вылечусь совсем, может, я потеряю теперешнюю способность... Буду ли я тогда ещё нужна...?"
+char_215_mantic_CN_010,Idle,"Doctor's ignoring me… I don't like it, hmph...",……被博士丢在一边不管了……这种感觉，我，好讨厌……,"...Меня бросили, забыли... Я это... очень не люблю..."
+char_215_mantic_CN_011,Onboard,"I'm Manticore... My Arts can take out lives silently... Please don't be scared, you're not my target…",我是狮蝎，能力是，悄无声息地夺走别人的生命……请别害怕，这次的目标，不是你……,"Я — Мантикора, моя способность — бесшумно лишать жизни... Не бойтесь, на этот раз цель не вы..."
+char_215_mantic_CN_012,Watching Battle Record,Thank you... I-I'm looking forward to you teaching me... more...,嗯，谢谢。还有，请多关照……,"Мм, спасибо. И... пожалуйста, относитесь ко мне хорошо..."
+char_215_mantic_CN_013,Promotion 1,"Finally, I got a promotion... I always thought I wasn't good enough… so you didn't promote me…",晋升，我，我终于等到了……我一直以为……是因为我的表现，不够好，所以您一直没有提拔我……,"Повышение... я, я всё ждала его... Я всё думала... что вы не повышаете меня, потому что я работаю плохо..."
+char_215_mantic_CN_014,Promotion 2,"Did I... manage to help you? I don't have anywhere else to go... My home is here... at Rhodes Island... So please, let me protect it with you...",我帮上您的忙了，对吧……？没有去处的我，这里，这个罗德岛……就是我的家。今后也请和我，一起守护这里……！,"Я помогла вам, правда...? Мне некуда идти, и здесь, этот «Родос»... мой дом. Пожалуйста, и впредь защищайте его вместе со мной...!"
+char_215_mantic_CN_017,Added to Squad,Okay...,我知道了。,Я поняла.
+char_215_mantic_CN_018,Appointed as Squad Leader,Nobody will like me... as their captain...,我这样的队长，会被大家讨厌的……,"Такой командир, как я... вас ненавидят..."
+char_215_mantic_CN_019,Depart,Please don't leave me behind…,别把我丢下……,Не бросайте меня...
+char_215_mantic_CN_020,Begin Operation,Please choose tactics that make use of my Arts... even if it's something crafty and underhanded... I won't mind...,请依据我的能力，指定战术吧……就算是比较阴暗的，也没关系……,"Пожалуйста, составьте тактику, исходя из моей способности... Даже если она будет некрасивой... это нормально..."
+char_215_mantic_CN_021,Selecting Operator 1,I-I'm ready...,准备好了……,Я готова...
+char_215_mantic_CN_022,Selecting Operator 2,I'm…right here…,我在这里……,Я здесь...
+char_215_mantic_CN_023,Deployment 1,Manticore… going dark…,潜伏，开始……,Засада... начинается...
+char_215_mantic_CN_024,Deployment 2,Ready... to ambush...,伏击，准备……,Засада... подготовлена...
+char_215_mantic_CN_025,In Battle 1,That must... really hurt…,很痛苦吧……,Больно... да?
+char_215_mantic_CN_026,In Battle 2,"Please, Don't come close…",别过来……,Не подходите...
+char_215_mantic_CN_027,In Battle 3,I don't like this... either...,我也，讨厌，这样做……,Я тоже... не люблю... так делать...
+char_215_mantic_CN_028,In Battle 4,Farewell…,永别了……,Прощайте...
+char_215_mantic_CN_029,4-star Result,"Even in such terrible battles… your judgement and decisions didn't seem to waver… You're incredible, Doctor…",就算，是这样可怕的战场，您的判断力、集中力，一点都没有受到影响。博士，好帅气……,"Даже на таком страшном поле боя ваше суждение и внимание ни на йоту не ослабли. Доктор, вы такой красивый..."
+char_215_mantic_CN_030,3-star Result,A victory by all means... Still...,为了胜利，我们什么都得做，只是……,"Чтобы победить, приходится делать что угодно, только..."
+char_215_mantic_CN_031,Sub 3-star Result,I can handle the runaways... if you wish...,要抓住，逃走的人的话，请交给我……,"Если надо поймать того, кто убежал... поручите мне..."
+char_215_mantic_CN_032,Operation Failure,I'm sorry... It's all my fault...,对不起……都是我没做好……,Простите... я всё испортила...
+char_215_mantic_CN_033,Assigned to Facility,I'll sit... in the corner...,我去角落里，坐着……,Я посижу в уголке...
+char_215_mantic_CN_034,Tap,Eeeeeek!,欸欸欸？？？,"Эй, эй, эй???"
+char_215_mantic_CN_036,Trust Tap,Thank you for paying attention to me... I know it's your job... but it still makes me happy…,那个，您经常关注着我，虽然这是您的职责，我也……非常开心……,"Вы... всё время смотрите на меня, хотя это ваша работа... и я... очень рада..."
+char_215_mantic_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_215_mantic_CN_038,New Year's blessing,"Happy New Year... More people have  noticed me... in the last year... I'm a little scared, but... a lot of them are very warm, and kind... So, I'm going to try as hard as I can... to adapt...",新年快乐……过去一年，注意到我的人，变多了……我有点害怕，但是，温柔的人，也很多……所以，我会努力去适应的……,"С новым годом... В прошлом году меня замечать стали чаще... Я немного боюсь, но... добрых людей тоже много... Поэтому я постараюсь привыкнуть..."
+char_215_mantic_CN_042,Greeting,Hello... Doctor...,博士……你好……,Доктор... здравствуйте...
+char_215_mantic_CN_043,Birthday,"I'll just put the present on the table and leave... Doctor, happy birthday... Eek! Did-did you notice me...? Um, Happy birthday to you... Doctor.",把礼物放在桌子上，然后就离开吧……博士，生日快乐……呀！您、您注意到我了吗……博士，祝您生日快乐。,"Я оставила подарок на столе и уйду... Доктор, с днём рождения... Ай! Вы, вы меня заметили... Доктор, с днём рождения."
+char_215_mantic_CN_044,Anniversary Celebration,"I don't want to go through the experience... of losing a friend again... I will defend everyone, with my own life. Even if it's somewhere none of them will see me...",失去同伴的感觉，我再也不想体会了……我一定会拼上性命，来保护大家。哪怕是在大家看不到的地方……,"Я больше не хочу переживать утрату товарищей... Я обязательно защищу всех, даже ценой жизни. Даже там, где меня не видно..."

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_129_bluep_CN_001,Appointed as Assistant,"Greetings, Doctor. You're glowing today. To see you so well... it's all I could ever hope for.",
-char_129_bluep_CN_002,Talk 1,I prepared an antidote to nullify the effects of any common poison. I'd like you to take one dose before every battle. Do you mind?,
-char_129_bluep_CN_003,Talk 2,"Actually, the toxin in my body is an ingredient in some high-quality medicines. That's why Dr. Kal'tsit needs me in her lab a lot.",
-char_129_bluep_CN_004,Talk 3,"Hmm, why do you keep staring at me... You mean, it's because my eye color is special? Is that a compliment, Doctor?",
-char_129_bluep_CN_005,Talk after Promotion 1,"I'm the one our enemies fear the most. After all, who wouldn't want to kill me before I can torture them to death with my poison? What really worries me is that my teammates might think the same…",
-char_129_bluep_CN_006,Talk after Promotion 2,"Why am I staring at this cake? Actually... I baked it to share with everyone, but no one wanted it... Would you like to try it, Doctor?",
-char_129_bluep_CN_007,Talk after Trust Increase 1,"Doctor, you're always wearing the same outfit. How about I choose some new clothes for you? I think I have pretty good taste. Oh... it's a uniform? So you can't change it? Okay…",
-char_129_bluep_CN_008,Talk after Trust Increase 2,"I'm 'toxic'... so people prefer to stay away from me. But now I have you by my side, Doctor, and I'm really, really happy.",
-char_129_bluep_CN_009,Talk after Trust Increase 3,"My body isn't that different from everyone else. I may be 'toxic,' but nothing bad will happen if someone touches me. Doctor, if you can prove this to everyone, then maybe they won't always keep away from me. Could you... hold my hand out there?",
-char_129_bluep_CN_010,Idle,"Doctor? Oh, already asleep. Gotta find a blanket to keep the Doctor warm...",
-char_129_bluep_CN_011,Onboard,"Nice to meet you, I'm Blue Poison. I'm sure Dr. Kal'tsit must have told you about me. In that case, it'll be up to you to decide how to use my 'toxic' powers.",
-char_129_bluep_CN_012,Watching Battle Record,"I think I hear the sound of toxic liquid boiling, like music to my ears.",
-char_129_bluep_CN_013,Promotion 1,Thank you so much... I'm so glad I get to help out in all these battles. It's like a dream come true.,
-char_129_bluep_CN_014,Promotion 2,"I used to hold back and hide my 'toxic' self, but now I've accepted what I am, trying to move forward to change my fate. I have you to thank for helping me make this shift, Doctor. You have my sincerest gratitude.",
-char_129_bluep_CN_017,Added to Squad,Great. I'm good at supporting assaults.,
-char_129_bluep_CN_018,Appointed as Squad Leader,"I'd be much better off supporting the others. Wouldn't want my poison to harm you, Doctor...",
-char_129_bluep_CN_019,Depart,"Everyone, there's no need for you all to stand so far from me...",
-char_129_bluep_CN_020,Begin Operation,I prepared a 'gift' for you. Like it?,
-char_129_bluep_CN_021,Selecting Operator 1,Awaiting your orders.,
-char_129_bluep_CN_022,Selecting Operator 2,Please don't be scared of me.,
-char_129_bluep_CN_023,Deployment 1,"Don't worry, my poison is not contagious.",
-char_129_bluep_CN_024,Deployment 2,My toxicant is ready.,
-char_129_bluep_CN_025,In Battle 1,My toxins will slowly burn your life away...,
-char_129_bluep_CN_026,In Battle 2,Are you hallucinating?,
-char_129_bluep_CN_027,In Battle 3,"Honey to me, poison to you.",
-char_129_bluep_CN_028,In Battle 4,Poison kiss.,
-char_129_bluep_CN_029,4-star Result,Use poison to fight the evils and crimes... Isn't that ironic to you?,
-char_129_bluep_CN_030,3-star Result,I've got a poison to melt away all these remains in an instant. Want me to show you?,
-char_129_bluep_CN_031,Sub 3-star Result,"Good, finished before my clothes got dirty.",
-char_129_bluep_CN_032,Operation Failure,How ridiculous. Feels like I killed myself with my own poison...,
-char_129_bluep_CN_033,Assigned to Facility,Resting when you're tired helps you focus on your work.,
-char_129_bluep_CN_034,Tap,Huh?,
-char_129_bluep_CN_036,Trust Tap,D-Did you just touch me? C-Can you do that again? Please?,
-char_129_bluep_CN_037,Title,Arknights.,
-char_129_bluep_CN_038,New Year's blessing,"Well there, Doctor, Happy New Year. Although, given what day it is, won't you take your uniform off? I was assuming you'd put on something new, but maybe you just don't pay much attention to your appearence.  It's a little frustrating—I have no idea what would be a good gift for you.",
-char_129_bluep_CN_042,Greeting,"Hello, Doctor.",
-char_129_bluep_CN_043,Birthday,"Doctor, happy birthday. A dessert from me—please, take it. And if it's okay, I'd like you to give it a taste right now. What is it? Everyone's watching? I don't see the problem. You're a regular whenever I make snacks, aren't you?",
-char_129_bluep_CN_044,Anniversary Celebration,"I am a 'toxic' person, but I still have a place of my own here... It makes me so happy. The operators might still be slightly scared of me, but that's it. They don't reject me that much. Just give it enough time, and the relationships between us will be fine, won't they?",
+id,title,original,original_zh,translation
+char_129_bluep_CN_001,Appointed as Assistant,"Greetings, Doctor. You're glowing today. To see you so well... it's all I could ever hope for.",哎呀，你好，博士。今天的您看起来也很健康，这比什么都好。,"Ой, здравствуйте, Доктор. Сегодня вы выглядите очень здоровым — это лучше всего."
+char_129_bluep_CN_002,Talk 1,I prepared an antidote to nullify the effects of any common poison. I'd like you to take one dose before every battle. Do you mind?,我准备了解毒剂，它能使普通的毒物完全无效。希望您在每次作战前都服用一杯，可以吗？,"Я приготовила противоядие, которое полностью обезвреживает обычные яды. Пожалуйста, выпивайте по стаканчику перед каждым сражением — ладно?"
+char_129_bluep_CN_003,Talk 2,"Actually, the toxin in my body is an ingredient in some high-quality medicines. That's why Dr. Kal'tsit needs me in her lab a lot.",因为我身体中的毒素也是一种优质的药品原料，所以凯尔希医生经常把我叫去她的实验室……,"Токсин в моём теле — отличное сырьё для лекарств, поэтому доктор Кальцит часто вызывает меня в свою лабораторию..."
+char_129_bluep_CN_004,Talk 3,"Hmm, why do you keep staring at me... You mean, it's because my eye color is special? Is that a compliment, Doctor?",哎呀，一直盯着我看，有什么事吗？……嗯？我的眼睛很罕见？博士，这是在称赞我吗？,"Ой, вы всё смотрите на меня — что-то случилось?.. Мм? Мои глаза редкие? Доктор, вы меня хвалите?"
+char_129_bluep_CN_005,Talk after Promotion 1,"I'm the one our enemies fear the most. After all, who wouldn't want to kill me before I can torture them to death with my poison? What really worries me is that my teammates might think the same…",我是敌人最畏惧的存在。没办法啊，比起被“毒物”折磨而死，不如抢先杀死我，敌人们理所当然会这样选择吧……只是有时候，我的同伴也会思考同样的事，这让我有些不安。,"Я — та, кого враги боятся больше всего. Что ж, лучше убить меня сразу, чем умереть в муках от «яда», — они неизбежно выберут именно это... Только иногда мои товарищи думают о том же, и мне становится не по себе."
+char_129_bluep_CN_006,Talk after Promotion 2,"Why am I staring at this cake? Actually... I baked it to share with everyone, but no one wanted it... Would you like to try it, Doctor?",为什么我在盯着这块蛋糕发呆？其实蛋糕是我为大家烤的，只是谁都不肯吃……难道，博士想要尝尝看吗？,"Почему я уставилась на этот торт? Я испекла его для всех, но никто не решается отведать... Неужто вы, Доктор, хотите попробовать?"
+char_129_bluep_CN_007,Talk after Trust Increase 1,"Doctor, you're always wearing the same outfit. How about I choose some new clothes for you? I think I have pretty good taste. Oh... it's a uniform? So you can't change it? Okay…",博士总是穿着相同的衣服呢，不如让我帮您挑选些新的吧？我觉得自己还挺有挑衣服的品味……哎，制服是不能随便更换的……这样吗？,"Доктор всё ходит в одной и той же одежде — позвольте мне выбрать вам что-нибудь новое? У меня, кажется, неплохой вкус... Ах, форму нельзя просто менять... Вот как?"
+char_129_bluep_CN_008,Talk after Trust Increase 2,"I'm 'toxic'... so people prefer to stay away from me. But now I have you by my side, Doctor, and I'm really, really happy.",因为我是“毒物”，所以谁都不想接近我……但，这样的我的身边，现在总能有博士相伴。我很开心哟，真的。,"Раз я «яд», никто не хочет ко мне приближаться... Но теперь рядом со мной, такой, всегда есть Доктор. Я так счастлива, правда."
+char_129_bluep_CN_009,Talk after Trust Increase 3,"My body isn't that different from everyone else. I may be 'toxic,' but nothing bad will happen if someone touches me. Doctor, if you can prove this to everyone, then maybe they won't always keep away from me. Could you... hold my hand out there?",实际上，我的身体和大家没什么不同，即使我是“毒物”，只是触碰的话并不会发生什么坏事。如果您能亲自证明这一点的话，也许大家就能相信……博士，可以在大家面前，触碰我的手吗？,"На самом деле моё тело ничем не отличается от других: даже если я «яд», простое прикосновение никому не повредит. Если вы сами это докажете, может, остальные поверят... Доктор, можно вам при всех взять меня за руку?"
+char_129_bluep_CN_010,Idle,"Doctor? Oh, already asleep. Gotta find a blanket to keep the Doctor warm...",博士？哎呀，好像睡着了。有没有毯子能给博士盖一下呢。,"Доктор? Ой, кажется, уснул. Есть плед, чтобы укрыть его?"
+char_129_bluep_CN_011,Onboard,"Nice to meet you, I'm Blue Poison. I'm sure Dr. Kal'tsit must have told you about me. In that case, it'll be up to you to decide how to use my 'toxic' powers.",初次见面，我是蓝毒，想必您已经听凯尔希医生提起过我，那么，该如何运用我这“毒物”的能力，就交由您来决定了。,"Приятно познакомиться, я Блю Пойзон. Доктор Кальцит, наверное, уже рассказывала вам обо мне. Так что то, как применять мою ядовитую способность, я оставлю на ваше усмотрение."
+char_129_bluep_CN_012,Watching Battle Record,"I think I hear the sound of toxic liquid boiling, like music to my ears.",似乎听到了毒液沸腾的声音，真让人心情愉快啊。,"Будто слышу, как закипает яд — это так радует."
+char_129_bluep_CN_013,Promotion 1,Thank you so much... I'm so glad I get to help out in all these battles. It's like a dream come true.,很感谢您。能在这么多的战斗中有所建树，我的愿望实现了呢。,Спасибо вам. Я смогла принести пользу в стольких боях — моё желание сбылось.
+char_129_bluep_CN_014,Promotion 2,"I used to hold back and hide my 'toxic' self, but now I've accepted what I am, trying to move forward to change my fate. I have you to thank for helping me make this shift, Doctor. You have my sincerest gratitude.",与其作为“毒物”浑浑噩噩地活下去，不如坦率接受这样的自己，努力去改变命运——能让我实现这小小梦想的人，正是博士您啊。所以，真的，真的非常感谢……,"Вместо того чтобы влачить существование «яда», не понимая, кто я, лучше честно принять себя и постараюсь изменить судьбу — а человек, который помог мне осуществить эту маленькую мечту, — это вы, Доктор. Так что правда, правда спасибо..."
+char_129_bluep_CN_017,Added to Squad,Great. I'm good at supporting assaults.,这样很好，我很适合做辅助进攻的工作。,"Это хорошо, я очень подхожу для поддержки атаки."
+char_129_bluep_CN_018,Appointed as Squad Leader,"I'd be much better off supporting the others. Wouldn't want my poison to harm you, Doctor...",派我去援护其他人比较好哦？否则我的毒液，说不定会伤到博士……,"Лучше отправьте меня прикрывать остальных, а то мой яд может задеть вас, Доктор..."
+char_129_bluep_CN_019,Depart,"Everyone, there's no need for you all to stand so far from me...",各位，没必要离我那么远的……,"Все, не обязательно держаться от меня так далеко..."
+char_129_bluep_CN_020,Begin Operation,I prepared a 'gift' for you. Like it?,我为你们准备了“礼物”。喜欢吗？,Я подготовила для вас «подарок». Нравится?
+char_129_bluep_CN_021,Selecting Operator 1,Awaiting your orders.,恭候您的指令。,Жду ваших указаний.
+char_129_bluep_CN_022,Selecting Operator 2,Please don't be scared of me.,请不要怕我。,"Пожалуйста, не бойтесь меня."
+char_129_bluep_CN_023,Deployment 1,"Don't worry, my poison is not contagious.",请安心，毒素是不会传染的。,"Не волнуйтесь, яд не заразен."
+char_129_bluep_CN_024,Deployment 2,My toxicant is ready.,毒剂准备好了哦。,Яд готов.
+char_129_bluep_CN_025,In Battle 1,My toxins will slowly burn your life away...,这种毒素，将会慢慢侵蚀你的生命……,Этот токсин постепенно будет разъедать вашу жизнь...
+char_129_bluep_CN_026,In Battle 2,Are you hallucinating?,是不是看到幻觉了呢？,"Может, у вас галлюцинации?"
+char_129_bluep_CN_027,In Battle 3,"Honey to me, poison to you.",我之蜜糖，汝之砒霜。,"Мне мёд, тебе мышьяк."
+char_129_bluep_CN_028,In Battle 4,Poison kiss.,毒吻。,Ядовитый поцелуй.
+char_129_bluep_CN_029,4-star Result,Use poison to fight the evils and crimes... Isn't that ironic to you?,用“毒物”去战胜阴谋和罪恶。会不会让您觉得这是种讽刺呢？,Побеждать интриги и зло с помощью «яда» — не покажется ли вам это иронией?
+char_129_bluep_CN_030,3-star Result,I've got a poison to melt away all these remains in an instant. Want me to show you?,有种方法，能让这些残骸在一瞬间溶化掉……您想欣赏一下吗？,Есть способ за мгновение растворить эти останки... Хотите посмотреть?
+char_129_bluep_CN_031,Sub 3-star Result,"Good, finished before my clothes got dirty.",还好，没弄脏衣服就结束了。,"Хорошо, всё закончилось, пока я не запачкала платье."
+char_129_bluep_CN_032,Operation Failure,How ridiculous. Feels like I killed myself with my own poison...,真是可笑的战斗，就像“毒物”被自己毒死一样……,Смешной бой — будто «яд» отравил сам себя...
+char_129_bluep_CN_033,Assigned to Facility,Resting when you're tired helps you focus on your work.,适当的休息，也是为了工作更有状态哦。,"Небольшой отдых нужен, чтобы потом работать лучше."
+char_129_bluep_CN_034,Tap,Huh?,欸？,А?
+char_129_bluep_CN_036,Trust Tap,D-Did you just touch me? C-Can you do that again? Please?,您、碰到我了？再做、再做一次，能拜托您再做一次吗？,"Вы... вы коснулись меня? Ещё раз, ещё раз — можно попросить вас повторить?"
+char_129_bluep_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_129_bluep_CN_038,New Year's blessing,"Well there, Doctor, Happy New Year. Although, given what day it is, won't you take your uniform off? I was assuming you'd put on something new, but maybe you just don't pay much attention to your appearence.  It's a little frustrating—I have no idea what would be a good gift for you.",哎呀，博士，新年快乐，不过您新年这一天也不会脱下制服吗？我原本以为今天您会换一身衣服穿，看来博士在这方面真的没什么追求呢。有点苦恼，要是送礼物的话，真的不知道该送什么了。,"Ой, Доктор, с новым годом! Но вы и в Новый год не снимаете форму? Я думала, сегодня вы наденете что-то другое, — похоже, Доктор в этом отношении совсем не требования. Немного расстраиваюсь: не знаю, что вам подарить."
+char_129_bluep_CN_042,Greeting,"Hello, Doctor.",你好，博士。,"Здравствуйте, Доктор."
+char_129_bluep_CN_043,Birthday,"Doctor, happy birthday. A dessert from me—please, take it. And if it's okay, I'd like you to give it a taste right now. What is it? Everyone's watching? I don't see the problem. You're a regular whenever I make snacks, aren't you?",博士，生日快乐。这是我做的甜品，请收下。如果可以的话，也请您现在就尝一尝味道。很多人在看？这没什么问题呀，您平时也常吃我做的点心，不是吗？,"Доктор, с днём рождения. Это десерт, который я сделала, примите его. Если можно, попробуйте прямо сейчас. Много людей смотрят? Ничего страшного — вы же обычно едите мою выпечку, правда?"
+char_129_bluep_CN_044,Anniversary Celebration,"I am a 'toxic' person, but I still have a place of my own here... It makes me so happy. The operators might still be slightly scared of me, but that's it. They don't reject me that much. Just give it enough time, and the relationships between us will be fine, won't they?",像我这样的“毒物”，能在这里拥有自己的位置，真的很开心。虽然干员们仍然对我有些害怕，但他们也只是害怕，他们并不排斥我。只要时间够久，我们之间的关系就会变好的，对吧？,"Мне, такой «ядовитой», очень радостно иметь здесь своё место. Операторы всё ещё немного боятся меня, но они лишь боятся — они не отвергают меня. Стоит подождать подольше, и наши отношения наладятся, правда?"

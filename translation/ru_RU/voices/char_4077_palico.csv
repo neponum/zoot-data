@@ -1,32 +1,32 @@
-id,title,original,translation
-char_4077_palico_CN_001,Appointed as Assistant,"Remember, you two, this purr-ticular assistant role calls for maximum vigilance. If any meownsters come knocking, we throw the Doctor on the cart and go!",
-char_4077_palico_CN_002,Talk 1,"Curious about our latest research? We're gnawing on 'An Investigation into Biological Discrepancies Between Us Felynes with a Y and Terran Felines with an I.' We were halfway done, but then we found out you have Aslans too, so it's back to the scratching post for us... You Terrans are meowder with your subspecies!",
-char_4077_palico_CN_003,Talk 2,"Your Meowjesty, never forget to eat your fill before you go on a hunt. Dive into a fight with full stamina, and you might end up doing things you didn't even think you could... mrrreow!",
-char_4077_palico_CN_004,Talk 3,*dink* *dink* No Machalite Ore left...  Could substitute with Rock Spider stones and gloompincer shells... Don't know without trying. In you go.,
-char_4077_palico_CN_007,Talk after Trust Increase 1,"The mountains never fail to remind me of an old bud, built just as tall and strong. He broke his weapon once and quit the Palico life after, but if memory serves, he then went with the Research Commission to take up cheffing in the New World... You never know what turn your next life'll take.",
-char_4077_palico_CN_008,Talk after Trust Increase 2,"Say, Doctor, I'll let you in on a secret trick, friend to... maybe furless friend. If you ever get hurt in battle and you need to chug a Potion, set off a Barrel Bomb behind you while you do. Why? It'll stop any baddies getting the pounce on you, that's why!",
-char_4077_palico_CN_009,Talk after Trust Increase 3,"Terra has new materials. Lots of ores. Very lovely... Maybe I can make a weapon just like that Great Sword in the ice cave back home! For mew, Doctor!",
-char_4077_palico_CN_010,Idle,"Meow, meow, lots of... fascinating things in Doctor's room. Want to move them elsewhere, while Doctor's asleep... Smithy! Stay your paw!",
-char_4077_palico_CN_011,Onboard,"On Your Meowjesty's summons, we the Felyne Special Corps... cream of the crop of the Terra Research Commission's Furst Fleet, have arrived! Meowch! Get your hind paws off my head!",
-char_4077_palico_CN_012,Watching Battle Record,"What are you doing inside this box, Smithy? Im... Impawssible! It's all moving! How is it done?",
-char_4077_palico_CN_017,Added to Squad,Ready for departure!,
-char_4077_palico_CN_018,Appointed as Squad Leader,"A simple task! I'm a purr-ime leader, after all!",
-char_4077_palico_CN_019,Depart,"Let's go, 'Hunters!' Put some pep in your step!",
-char_4077_palico_CN_020,Begin Operation,"Purr-ey spotted. Watch out, Your Meowjesty.",
-char_4077_palico_CN_021,Selecting Operator 1,"By your bidding, Your Meowjesty.",
-char_4077_palico_CN_022,Selecting Operator 2,Meow! Right here!,
-char_4077_palico_CN_023,Deployment 1,You two! Now!,
-char_4077_palico_CN_024,Deployment 2,You're purr-essing too hard!,
-char_4077_palico_CN_025,In Battle 1,Aim fur that weak spot!,
-char_4077_palico_CN_026,In Battle 2,They're wide open!,
-char_4077_palico_CN_027,In Battle 3,Taste the flaming soul of a hunter!,
-char_4077_palico_CN_028,In Battle 4,The purr-fect slinger technique!,
-char_4077_palico_CN_029,4-star Result,Are... Are we out of danger meow? Can I open my eyes yet?,
-char_4077_palico_CN_030,3-star Result,"Absolutely stellar command, Your Meowjesty. That's what I call great gains... mrreow.",
-char_4077_palico_CN_031,Sub 3-star Result,"Equipment everywhere... grabbing, all of it. Grabbing and going.",
-char_4077_palico_CN_032,Operation Failure,"Good gravy, they're catching up! Run, run like your tail's on fire!",
-char_4077_palico_CN_033,Assigned to Facility,"Hauling, hauling... Smithy, why do you drag that meowntain of materials with you everywhere you go?",
-char_4077_palico_CN_034,Tap,Mrrow~,
-char_4077_palico_CN_036,Trust Tap,"What <i>are</i> you doing? Mrrow... right there, please... Hey, save a pet or two for me!",
-char_4077_palico_CN_037,Title,Arknights.,
-char_4077_palico_CN_042,Greeting,"Ah, Doctor! Fine day to mew!",
+id,title,original,original_zh,translation
+char_4077_palico_CN_001,Appointed as Assistant,"Remember, you two, this purr-ticular assistant role calls for maximum vigilance. If any meownsters come knocking, we throw the Doctor on the cart and go!",你们两个记好了喵，既然当了这个人的助理，就要打起精神来。要是有怪物突然冲进来，我们就赶紧把他扔到车上推走喵！,"Запомните, вы двое: раз мы стали помощниками этого человека, надо быть начеку. Если вдруг ворвётся монстр — мигом сажаем его на тележку и катим прочь, мяу!"
+char_4077_palico_CN_002,Talk 1,"Curious about our latest research? We're gnawing on 'An Investigation into Biological Discrepancies Between Us Felynes with a Y and Terran Felines with an I.' We were halfway done, but then we found out you have Aslans too, so it's back to the scratching post for us... You Terrans are meowder with your subspecies!",最近研究的课题喵？《艾露与泰拉菲林的种族差异研究》，明明已经进行到一半了，但是突然又发现了名为阿斯兰的种族，前功尽弃了……泰拉人的种族真伤脑筋喵！,"Над какой темой мы работаем? «Исследование расовых различий между элу и терранскими кошками». Уже на полпути были, как вдруг выяснилось, что у вас ещё есть раса асланов — и всё пошло насмарку... У этих терранцев с расами прямо беда, мяу!"
+char_4077_palico_CN_003,Talk 2,"Your Meowjesty, never forget to eat your fill before you go on a hunt. Dive into a fight with full stamina, and you might end up doing things you didn't even think you could... mrrreow!",阁下，出发狩猎前记得务必填饱肚子喵。精力满满地去战斗，说不定能爆发出超乎想象的能量……喵！,"Ваша милость, перед охотой обязательно наедайтесь досыта, мяу. С полной энергией в бою можно такое выдать, что сам удивишься... мяу!"
+char_4077_palico_CN_004,Talk 3,*dink* *dink* No Machalite Ore left...  Could substitute with Rock Spider stones and gloompincer shells... Don't know without trying. In you go.,敲，敲，没有燕雀石了喵……作为替代，岩蛛背上的石头，钳兽的壳……都加进去试试喵。,"Тук, тук... руды ястреба больше нет, мяу. Вместо неё — камешки со спины каменного паука, панцирь клешненосного зверя... давай всё это добавим, мяу."
+char_4077_palico_CN_007,Talk after Trust Increase 1,"The mountains never fail to remind me of an old bud, built just as tall and strong. He broke his weapon once and quit the Palico life after, but if memory serves, he then went with the Research Commission to take up cheffing in the New World... You never know what turn your next life'll take.",每次见到山的时候，老夫总会想起一位故人喵。他拥有同样高大健壮的身材，自某一次武器折断后就决定不做随从了喵，但后来他似乎跟随调查团去新大陆当了料理长……真是世事难料喵。,"Каждый раз, видя горы, я вспоминаю одного старого друга, мяу. Он был таким же высоким и крепким, а после того как у него сломалось оружие, решил бросить службу. Но потом, говорят, ушёл с Экспедиционным отрядом на Новый континент и стал шеф-поваром... Непредсказуемость жизни, мяу."
+char_4077_palico_CN_008,Talk after Trust Increase 2,"Say, Doctor, I'll let you in on a secret trick, friend to... maybe furless friend. If you ever get hurt in battle and you need to chug a Potion, set off a Barrel Bomb behind you while you do. Why? It'll stop any baddies getting the pounce on you, that's why!",博士喵，看在我们交情的分上，就告诉你一个秘诀好了。要是在作战中受伤了，喝药的时候记得在身后点燃一个爆弹喵。你问为什么？这样就可以毫发无损地躲开敌人的偷袭了喵！,"Доктор, из уважения к нашей дружбе открою тебе секрет, мяу. Если в бою тебя ранят и ты будешь пить зелье — обязательно зажги позади себя бомбу, мяу. Спросишь зачем? Тогда враг не сможет напасть исподтишка, и ты останешься цел-цехонек, мяу!"
+char_4077_palico_CN_009,Talk after Trust Increase 3,"Terra has new materials. Lots of ores. Very lovely... Maybe I can make a weapon just like that Great Sword in the ice cave back home! For mew, Doctor!",泰拉的新素材喵，许多新的石头，喜欢喵……也许能做出和家乡冰窟里的那把大剑一样的武器喵！送给博士喵！,"На Терре новые материалы, мяу. Много новых камней — нравится, мяу... Может, получится сделать такое же оружие, как тот большой меч в ледяной пещере дома! Подарю Доктору, мяу!"
+char_4077_palico_CN_010,Idle,"Meow, meow, lots of... fascinating things in Doctor's room. Want to move them elsewhere, while Doctor's asleep... Smithy! Stay your paw!",喵喵，博士的房间里……好多奇怪的东西喵，趁博士在睡觉，想要搬走……小工匠！快住手喵！,"Мяу, мяу... в комнате Доктора столько всякого странного, мяу. Пока он спит, хочется кое-что утащить... Мастерок! Хватит, мяу!"
+char_4077_palico_CN_011,Onboard,"On Your Meowjesty's summons, we the Felyne Special Corps... cream of the crop of the Terra Research Commission's Furst Fleet, have arrived! Meowch! Get your hind paws off my head!",听从阁下的召唤喵，艾露猫特别行动小组……最优秀的第一期泰拉大陆调查团来也！喵！不要踩我的脑袋喵！,"По зову вашей милости прибыл специальный отряд элу-котов... лучшие из первой экспедиции на материк Терра, мяу! Мяу! Не наступай мне на голову, мяу!"
+char_4077_palico_CN_012,Watching Battle Record,"What are you doing inside this box, Smithy? Im... Impawssible! It's all moving! How is it done?",小工匠，你怎么在这盒子里面了？动……竟然动起来了！怎么做到的喵？,"Мастерок, как ты оказался в этом ящике? Он... он же двигается! Как это у тебя получается, мяу?"
+char_4077_palico_CN_017,Added to Squad,Ready for departure!,我们都整装待发了喵！,"Мы все готовы к выступлению, мяу!"
+char_4077_palico_CN_018,Appointed as Squad Leader,"A simple task! I'm a purr-ime leader, after all!",意料之中，我最擅长的就是指挥了喵！,"Как и ожидалось — командовать я умею лучше всех, мяу!"
+char_4077_palico_CN_019,Depart,"Let's go, 'Hunters!' Put some pep in your step!",“猎人”们喵！充满活力地出发喵！,"«Охотники», мяу! Выступаем бодро, мяу!"
+char_4077_palico_CN_020,Begin Operation,"Purr-ey spotted. Watch out, Your Meowjesty.",发现猎物了，阁下请小心喵。,"Добыча замечена. Осторожно, ваша милость, мяу."
+char_4077_palico_CN_021,Selecting Operator 1,"By your bidding, Your Meowjesty.",听从阁下的派遣喵。,"Слушаюсь вашего приказа, мяу."
+char_4077_palico_CN_022,Selecting Operator 2,Meow! Right here!,喵！在喵！,"Мяу! Здесь, мяу!"
+char_4077_palico_CN_023,Deployment 1,You two! Now!,你们两个！快上喵！,"Вы двое! Вперёд, мяу!"
+char_4077_palico_CN_024,Deployment 2,You're purr-essing too hard!,太重了喵！,"Слишком тяжело, мяу!"
+char_4077_palico_CN_025,In Battle 1,Aim fur that weak spot!,弱点在那里喵！,"Уязвимое место там, мяу!"
+char_4077_palico_CN_026,In Battle 2,They're wide open!,露出破绽了喵！,"Они открылись, мяу!"
+char_4077_palico_CN_027,In Battle 3,Taste the flaming soul of a hunter!,燃烧的狩猎之魂！,Пламенная душа охотника!
+char_4077_palico_CN_028,In Battle 4,The purr-fect slinger technique!,最强的投掷技喵！,"Сильнейший бросок, мяу!"
+char_4077_palico_CN_029,4-star Result,Are... Are we out of danger meow? Can I open my eyes yet?,危机……危机解除了喵？我能睁开眼睛了吗？,"Опасность... опасность миновала, мяу? Можно открыть глаза?"
+char_4077_palico_CN_030,3-star Result,"Absolutely stellar command, Your Meowjesty. That's what I call great gains... mrreow.",阁下的指挥太精彩了，真是让老夫受益匪浅……喵。,Ваша милость командовали великолепно — я многому научился... мяу.
+char_4077_palico_CN_031,Sub 3-star Result,"Equipment everywhere... grabbing, all of it. Grabbing and going.",一地的装备……捡，都捡走喵。,"Снаряжение повсюду... собирай, всё забирай, мяу."
+char_4077_palico_CN_032,Operation Failure,"Good gravy, they're catching up! Run, run like your tail's on fire!",啊，要追上来了，快跑喵！,"Ах, они догоняют! Беги, беги, мяу!"
+char_4077_palico_CN_033,Assigned to Facility,"Hauling, hauling... Smithy, why do you drag that meowntain of materials with you everywhere you go?",拖，拖喵……小工匠，你怎么去哪里都带着一大堆材料喵？,"Тащим, тащим, мяу... Мастерок, почему ты везде носишь с собой горы материалов, мяу?"
+char_4077_palico_CN_034,Tap,Mrrow~,喵~,Мяу~
+char_4077_palico_CN_036,Trust Tap,"What <i>are</i> you doing? Mrrow... right there, please... Hey, save a pet or two for me!",你在干什么喵？喵……请再摸摸这里……啊，老夫也要被摸喵！,"Что ты делаешь, мяу? Мяу... вот тут, ещё раз, пожалуйста... Ах, меня тоже погладь, мяу!"
+char_4077_palico_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_4077_palico_CN_042,Greeting,"Ah, Doctor! Fine day to mew!",喵，是博士！你好喵！,"Мяу, это Доктор! Здравствуйте, мяу!"

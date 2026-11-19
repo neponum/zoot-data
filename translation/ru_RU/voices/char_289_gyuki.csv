@@ -1,39 +1,39 @@
-id,title,original,translation
-char_289_gyuki_CN_001,Appointed as Assistant,"Doctor, you gotta be hungry! Try some of my onigiri. They're great!",
-char_289_gyuki_CN_002,Talk 1,"I've got a lotta hobbies: martial art sparring, soccer… Oh! And Ikebana! Some took me as a warrior with more brawn than brains, and I'd say they're the ones who's got a fat head!",
-char_289_gyuki_CN_003,Talk 2,"My race eats other races? That's some old crap! Who told you that? Tch, those cowards, cooking up this nonsense behind my back. When I find'em, I'll give'em a lesson they'll never forget!",
-char_289_gyuki_CN_004,Talk 3,"I'm born with this self-healing body. Even if I take a few cuts in the fight, the wounds will close back up in no time.",
-char_289_gyuki_CN_005,Talk after Promotion 1,"Hey, Doctor, Rhodes Island's got a soccer tournament! C'mon, let's sign up together! No need to think twice! Just put me in your team, and it's in the bag. You'd better work your brain elsewhere, like a cool victory pose!",
-char_289_gyuki_CN_006,Talk after Promotion 2,You don't even recognize me on the battlefield? I just start cutting through enemies with a face as cold as my blade? Wow! Sounds hella badass! Wish I could watch myself out there.,
-char_289_gyuki_CN_007,Talk after Trust Increase 1,"I got this problem where I kinda end up breaking stuff, so I'm working with my Ikebana teacher to control my strength. Besides, getting surrounded by all those pretty flowers makes me real happy!",
-char_289_gyuki_CN_008,Talk after Trust Increase 2,"Strategy? Ehh, not really my forte. That's why I keep hopping right into the enemy's plans. But you, Doctor, you always stop me right before I lose my mind. Real nice to have you by my side.",
-char_289_gyuki_CN_009,Talk after Trust Increase 3,"Actually, I've always been a gullible dummy. Got duped so bad in the past that I almost got myself killed a few times. But now I, Matoimaru, swear loyalty to you, Doctor! Because I know you'll never betray me.",
-char_289_gyuki_CN_010,Idle,"Grr... Hey, no falling asleep, Doctor! I need a listener or I'm gonna die of boredom!",
-char_289_gyuki_CN_011,Onboard,"Matoimaru, here to join Rhodes Island! My blade is at your command, Doctor!",
-char_289_gyuki_CN_012,Watching Battle Record,More fancy skills to beat those bad guys with!,
-char_289_gyuki_CN_013,Promotion 1,"Doctor, put my strength to good work. That'll be the respect I deserve.",
-char_289_gyuki_CN_014,Promotion 2,"Doctor, please stand back a bit. I don't want to hurt you when swinging my naginata. But I, Matoimaru, will bring us every victory in your name.",
-char_289_gyuki_CN_017,Added to Squad,Hah hah! You all look pretty tough. How about a warm-up with me?,
-char_289_gyuki_CN_018,Appointed as Squad Leader,"Ugh, you want me to play captain? Then how am I suppose to throw myself into the battle!?",
-char_289_gyuki_CN_019,Depart,You guys ready to rumble? Then what are we waiting for!?,
-char_289_gyuki_CN_020,Begin Operation,"Sorry to keep you waiting, bad guys!",
-char_289_gyuki_CN_021,Selecting Operator 1,I'm over here.,
-char_289_gyuki_CN_022,Selecting Operator 2,Just how long until it's my turn?,
-char_289_gyuki_CN_023,Deployment 1,Love that battlefield smell.,
-char_289_gyuki_CN_024,Deployment 2,Make 'em shake in their boots!,
-char_289_gyuki_CN_025,In Battle 1,"Standing up to me? Haha, Ballsy!",
-char_289_gyuki_CN_026,In Battle 2,Ready to meet your demise?,
-char_289_gyuki_CN_027,In Battle 3,My blade shall rip you and your toy to ribbons!,
-char_289_gyuki_CN_028,In Battle 4,You end here!,
-char_289_gyuki_CN_029,4-star Result,A sea of fire and a mountain of blades... Now that's what I call a fight. This is the battlefield I've always dreamed of.,
-char_289_gyuki_CN_030,3-star Result,"Doctor, I got 'em all! Huh? What happened here? Everything's busted… Um, wait a second, did I do it...?",
-char_289_gyuki_CN_031,Sub 3-star Result,I'll get 'em before they escape! Can't call the battle over unless we got every last of 'em!,
-char_289_gyuki_CN_032,Operation Failure,Retreat! I'll cover your escape. Make sure you don't get hit!,
-char_289_gyuki_CN_033,Assigned to Facility,Agh! Ow! My horn...!,
-char_289_gyuki_CN_034,Tap,Huh?,
-char_289_gyuki_CN_036,Trust Tap,What's with that smile on your face? Anything to share with me?,
-char_289_gyuki_CN_037,Title,Arknights.,
-char_289_gyuki_CN_038,New Year's blessing,"Hey, Doctor, how does Rhodes Island celebrate the New Year? Oh, anything is welcome? Haha, alright then, I'll put together a soccer match with Matterhorn and the others! Make sure you come to watch!",
-char_289_gyuki_CN_042,Greeting,"Uh huh, I'm listening.",
-char_289_gyuki_CN_043,Birthday,"Happy birthday, Doctor! I wanted to fill your office with flowers, but my teacher said restraint is the first rule of Ikebana. So I made you this! And it should fit just fine on your desk!",
-char_289_gyuki_CN_044,Anniversary Celebration,"This blade brings nothing but trouble when I'm holding it. Good thing I can trust you to tell me where to swing it. That way, nothing can go wrong!",
+id,title,original,original_zh,translation
+char_289_gyuki_CN_001,Appointed as Assistant,"Doctor, you gotta be hungry! Try some of my onigiri. They're great!",博士是不是饿了？我做的饭团可好吃了，拿一两个去吧！,"Доктор, вы проголодались? Мои онигири очень вкусные — возьмите парочку!"
+char_289_gyuki_CN_002,Talk 1,"I've got a lotta hobbies: martial art sparring, soccer… Oh! And Ikebana! Some took me as a warrior with more brawn than brains, and I'd say they're the ones who's got a fat head!",我喜欢这样几件事：比试武技，还有啊，踢足球！对啦还有插花。把我当作仅仅是痴迷战斗的古典武者——有这种想法的人，真是太天真了！,"Я люблю разные вещи: поединки на кулаках, футбол! А ещё — икебана! Те, кто считают меня просто старомодной воительницей, помешанной на драках, — наивные люди!"
+char_289_gyuki_CN_003,Talk 2,"My race eats other races? That's some old crap! Who told you that? Tch, those cowards, cooking up this nonsense behind my back. When I find'em, I'll give'em a lesson they'll never forget!",我的种族以其他种族为食？这谣言，你是从谁那听来的？嘁，那种只敢躲在角落里中伤别人的懦夫，要是被我抓到，可得好好教训教训他！,"Мой народ поедает другие народы? От кого ты это слышал? Ц-ц, трусы, которые шепчут в углах, — попадись они мне, я бы им показала!"
+char_289_gyuki_CN_004,Talk 3,"I'm born with this self-healing body. Even if I take a few cuts in the fight, the wounds will close back up in no time.",我的身体天生就有自愈的能力。就算是因为战斗受了伤，也很快就能愈合。,"Моё тело от природы умеет заживать. Даже если я ранена в бою, рана быстро закрывается."
+char_289_gyuki_CN_005,Talk after Promotion 1,"Hey, Doctor, Rhodes Island's got a soccer tournament! C'mon, let's sign up together! No need to think twice! Just put me in your team, and it's in the bag. You'd better work your brain elsewhere, like a cool victory pose!",博士，罗德岛要举办足球赛了！走吧，你可一定要和我一起报名！放心放心，只要我缠丸在场，对手就只有认输的份！博士你只要考虑获奖时摆什么POSE就行啦！,"Доктор, на Родосе будут футбольные соревнования! Идём, ты обязательно запишись вместе со мной! Не волнуйся: пока я, Матоимару, на поле, противнику остаётся только сдаться! Тебе лишь нужно придумать, какую позу принять с наградой!"
+char_289_gyuki_CN_006,Talk after Promotion 2,You don't even recognize me on the battlefield? I just start cutting through enemies with a face as cold as my blade? Wow! Sounds hella badass! Wish I could watch myself out there.,战斗中的我看起来像另一个人？以冷酷的姿态击败所有敌人，眼神中不带丝毫感情？哦豁~那不是非常帅气的吗？真想好好见识一下啊，战斗时的我！,"В бою я выгляжу иначе? Разит всех врагов с ледяным лицом, без тени эмоций в глазах? Ого~ Звучит круто! Как же хочется посмотреть на себя в бою!"
+char_289_gyuki_CN_007,Talk after Trust Increase 1,"I got this problem where I kinda end up breaking stuff, so I'm working with my Ikebana teacher to control my strength. Besides, getting surrounded by all those pretty flowers makes me real happy!",缠丸我啊，总是一不小心就弄坏周围的东西，所以我就向花道老师学了插花，试着控制自己的力量。而且，有那么多漂亮的花围着自己，本来就挺让人开心的！,"Я всё время ненароком что-нибудь ломаю вокруг, поэтому стала учиться икебане у наставницы — учусь контролировать силу. К тому же, когда вокруг столько красивых цветов, это просто радует!"
+char_289_gyuki_CN_008,Talk after Trust Increase 2,"Strategy? Ehh, not really my forte. That's why I keep hopping right into the enemy's plans. But you, Doctor, you always stop me right before I lose my mind. Real nice to have you by my side.",说到战斗策略……是的，我完全不擅长呢，所以才总是会陷入危险的战斗吧！不过，博士你的命令每次都能让我及时清醒，有你站在我背后，真好。,"Тактика?.. Да, совсем не умею, поэтому я всё время и ввязываюсь в опасные схватки! Но твои приказы, Доктор, всегда вовремя приводят меня в чувство. Как хорошо, что ты у меня за спиной."
+char_289_gyuki_CN_009,Talk after Trust Increase 3,"Actually, I've always been a gullible dummy. Got duped so bad in the past that I almost got myself killed a few times. But now I, Matoimaru, swear loyalty to you, Doctor! Because I know you'll never betray me.",其实，我是个太容易轻信他人的笨蛋，好几次都被骗的很惨，甚至差点就死掉了。但缠丸我啊，是绝对信任博士的，因为博士你绝对不会背叛我。,"На самом деле я дура, которая слишком легко доверяет: меня несколько раз жестоко обманывали, я даже чуть не умерла. Но я, Матоимару, безоговорочно доверяю Доктору — потому что вы никогда меня не предадите."
+char_289_gyuki_CN_010,Idle,"Grr... Hey, no falling asleep, Doctor! I need a listener or I'm gonna die of boredom!",……博士，别睡啊？不行不行，没人和我说话我会无聊死的！,"...Доктор, не засыпай! Нет-нет, если со мной никто не разговаривает, я умру со скуки!"
+char_289_gyuki_CN_011,Onboard,"Matoimaru, here to join Rhodes Island! My blade is at your command, Doctor!",缠丸，现在正式加入罗德岛！我来负责战斗，指挥就交给博士你了！,"Матоимару официально присоединяется к Родосу! Я буду драться, а командовать — ты, Доктор!"
+char_289_gyuki_CN_012,Watching Battle Record,More fancy skills to beat those bad guys with!,这样就又可以学到很多战斗技巧了吧。,Так я снова научусь куче боевых приёмов!
+char_289_gyuki_CN_013,Promotion 1,"Doctor, put my strength to good work. That'll be the respect I deserve.",博士，善用我的力量，就是尊重我。,"Доктор, использовать мою силу с толком — значит уважать меня."
+char_289_gyuki_CN_014,Promotion 2,"Doctor, please stand back a bit. I don't want to hurt you when swinging my naginata. But I, Matoimaru, will bring us every victory in your name.",博士，请退后。如果全力挥舞的话，我的武器可能会伤到你。但缠丸我，想要为你取得胜利。,"Доктор, отойдите назад. Если я размахнусь изо всех сил, моё оружие может вас задеть. Но я, Матоимару, хочу одержать для вас победу."
+char_289_gyuki_CN_017,Added to Squad,Hah hah! You all look pretty tough. How about a warm-up with me?,哈~各位看起来都挺强的，不如我们先来热身一下？,Ха-а! Вы все выглядите сильными — давайте сначала разомнёмся!
+char_289_gyuki_CN_018,Appointed as Squad Leader,"Ugh, you want me to play captain? Then how am I suppose to throw myself into the battle!?",呃，要让我当队长？那不就意味着我没法放手一搏了嘛？,"Э-э, мне быть капитаном? Тогда я же не смогу выложиться по-настоящему!"
+char_289_gyuki_CN_019,Depart,You guys ready to rumble? Then what are we waiting for!?,各位都准备好大干一场了吧？那还等什么呢！,Все готовы покрушить? Тогда чего ждём!
+char_289_gyuki_CN_020,Begin Operation,"Sorry to keep you waiting, bad guys!",久等了，我的敌人们啊。,"Долго ждали, мои враги?"
+char_289_gyuki_CN_021,Selecting Operator 1,I'm over here.,我在这里呢。,Я здесь!
+char_289_gyuki_CN_022,Selecting Operator 2,Just how long until it's my turn?,还要等多久哦？,Сколько ещё ждать?
+char_289_gyuki_CN_023,Deployment 1,Love that battlefield smell.,有战场的气息。,Чую запах боя.
+char_289_gyuki_CN_024,Deployment 2,Make 'em shake in their boots!,让他们颤抖吧。,Пусть дрожат.
+char_289_gyuki_CN_025,In Battle 1,"Standing up to me? Haha, Ballsy!",敢站到我面前，有胆量！,Решил встать передо мной? Храбро!
+char_289_gyuki_CN_026,In Battle 2,Ready to meet your demise?,做好觉悟了吗？,Готов к концу?
+char_289_gyuki_CN_027,In Battle 3,My blade shall rip you and your toy to ribbons!,就把你连武器一起切碎！,Я изрублю тебя вместе с твоим оружием!
+char_289_gyuki_CN_028,In Battle 4,You end here!,倒下吧！,Падай!
+char_289_gyuki_CN_029,4-star Result,A sea of fire and a mountain of blades... Now that's what I call a fight. This is the battlefield I've always dreamed of.,火海深渊，刀山剑林，太令人满足了！我中意的战场就是这个样子！,"Море огня, пропасть, горы клинков — вот это да! Такой я и люблю бой!"
+char_289_gyuki_CN_030,3-star Result,"Doctor, I got 'em all! Huh? What happened here? Everything's busted… Um, wait a second, did I do it...?",博士，我全都解决了！唔……四周一片狼藉，难道都是我搞的？,"Доктор, я со всеми справилась! Хм... вокруг всё разрушено — неужели это я?.."
+char_289_gyuki_CN_031,Sub 3-star Result,I'll get 'em before they escape! Can't call the battle over unless we got every last of 'em!,我去追逃兵咯？不然这场战斗，根本不能算是结束了啊。,Я пойду догонять беглецов! Иначе бой и не закончится по-настоящему.
+char_289_gyuki_CN_032,Operation Failure,Retreat! I'll cover your escape. Make sure you don't get hit!,撤退！我来垫后，小心，别受伤！,"Отступайте! Я прикрою — смотрите, не пострадайте!"
+char_289_gyuki_CN_033,Assigned to Facility,Agh! Ow! My horn...!,唔呃，撞、撞到角了！,Ух! Я ударилась рогом!
+char_289_gyuki_CN_034,Tap,Huh?,哈？,Ха?
+char_289_gyuki_CN_036,Trust Tap,What's with that smile on your face? Anything to share with me?,有什么高兴的事？一定要和缠丸我分享哦！,Что-то хорошее? Обязательно поделись со мной!
+char_289_gyuki_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_289_gyuki_CN_038,New Year's blessing,"Hey, Doctor, how does Rhodes Island celebrate the New Year? Oh, anything is welcome? Haha, alright then, I'll put together a soccer match with Matterhorn and the others! Make sure you come to watch!",新年的话，你们的庆祝方式是什么样的？随便怎样都可以？好，那我要找角峰他们办场足球对抗赛！你可一定要来看啊！,Как вы празднуете Новый год? Что угодно сойдёт? Отлично — тогда я устрою футбольный матч с Маттерхорном и остальными! Обязательно приходи смотреть!
+char_289_gyuki_CN_042,Greeting,"Uh huh, I'm listening.",嗯嗯，我在听呢。,"Угу, я слушаю."
+char_289_gyuki_CN_043,Birthday,"Happy birthday, Doctor! I wanted to fill your office with flowers, but my teacher said restraint is the first rule of Ikebana. So I made you this! And it should fit just fine on your desk!",博士，生日快乐啊！我本来想做超级大的插花来把你的办公室塞满，不过老师说过，控制花材的用量是插花的第一步，所以我就只做了这个，正好可以摆在你的桌上！,"Доктор, с днём рождения! Я хотела сделать огромную икебану и заставить ею весь твой кабинет, но наставница сказала: первый шаг в икебане — умело ограничить материал. Поэтому я сделала вот это — как раз на твой стол!"
+char_289_gyuki_CN_044,Anniversary Celebration,"This blade brings nothing but trouble when I'm holding it. Good thing I can trust you to tell me where to swing it. That way, nothing can go wrong!",这把刀啊，如果拿在我自己手里，就总是会惹出事。还好，博士你很可信，只要听你的，我无论怎么挥刀都不会有错！,"Пока этот клинок у меня в руках, он вечно натворяет бед. Хорошо, что Доктору можно доверять: стоит слушаться тебя — и я ни разу не промахнусь!"

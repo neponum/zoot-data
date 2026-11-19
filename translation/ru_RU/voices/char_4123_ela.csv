@@ -1,36 +1,36 @@
-id,title,original,translation
-char_4123_ela_CN_001,Appointed as Assistant,"Since you're stuck here sifting through documents, I might as well help you solve a few problems around the office.",
-char_4123_ela_CN_002,Talk 1,Hitting supply lines does a whole lot more damage than taking out people.,
-char_4123_ela_CN_003,Talk 2,"If you ask me, your office is on the bland side. Just hit me up if you ever want to mix things up a little.",
-char_4123_ela_CN_004,Talk 3,The whole 'cozy family relationship' thing isn't for me.,
-char_4123_ela_CN_005,Talk after Promotion 1,I get a lot more out of talking to strangers than I do from that 'self-help' shtick.,
-char_4123_ela_CN_006,Talk after Promotion 2,"We define ourselves by symbols, but those symbols can be perverted. Reused. Reworked, reframed, remade. In a word, stolen. Who are you then?",
-char_4123_ela_CN_007,Talk after Trust Increase 1,"I don't mind helping you run errands out of combat, but on the battlefield, I need ample room to call the shots.",
-char_4123_ela_CN_008,Talk after Trust Increase 2,"When someone can't find fault with your results and has to resort to nitpicking your attitude, that tells you everything you need to know about them.",
-char_4123_ela_CN_009,Talk after Trust Increase 3,"To call the shots, you need to prove that you've got what it takes – and you've certainly done that. So, where are you sending me next?",
-char_4123_ela_CN_010,Idle,"Your workload is clearly excessive, even by the highest standards. Take a rest.",
-char_4123_ela_CN_011,Onboard,"Codename Ela, member of Team Rainbow. Just give me my objective, then sit back and wait for the good news.",
-char_4123_ela_CN_012,Watching Battle Record,Picked up a few new tricks.,
-char_4123_ela_CN_013,Promotion 1,"A medal? Thanks. Workmanship's not bad at all, as far as decorations go.",
-char_4123_ela_CN_014,Promotion 2,"Together, we can shake the very stars from the sky.",
-char_4123_ela_CN_017,Added to Squad,At least make it challenging.,
-char_4123_ela_CN_018,Appointed as Squad Leader,Time to show you what I can do.,
-char_4123_ela_CN_019,Depart,No time to waste.,
-char_4123_ela_CN_020,Begin Operation,I'll make you regret this.,
-char_4123_ela_CN_021,Selecting Operator 1,A tooth for a tooth.,
-char_4123_ela_CN_022,Selecting Operator 2,An eye for an eye.,
-char_4123_ela_CN_023,Deployment 1,I got this.,
-char_4123_ela_CN_024,Deployment 2,Idziemy.,
-char_4123_ela_CN_025,In Battle 1,Here's a memento.,
-char_4123_ela_CN_026,In Battle 2,That will slow them down.,
-char_4123_ela_CN_027,In Battle 3,Eat this!,
-char_4123_ela_CN_028,In Battle 4,Don't move!,
-char_4123_ela_CN_029,4-star Result,The end justifies the means.,
-char_4123_ela_CN_030,3-star Result,"I'm sorry, was I too fast for you?",
-char_4123_ela_CN_031,Sub 3-star Result,That's it?,
-char_4123_ela_CN_032,Operation Failure,Try to keep up!,
-char_4123_ela_CN_033,Assigned to Facility,This place isn't half bad.,
-char_4123_ela_CN_034,Tap,"Do me a favor, don't talk to me.",
-char_4123_ela_CN_036,Trust Tap,Tell me YOUR story.,
-char_4123_ela_CN_037,Title,Arknights.,
-char_4123_ela_CN_042,Greeting,I'm here.,
+id,title,original,original_zh,translation
+char_4123_ela_CN_001,Appointed as Assistant,"Since you're stuck here sifting through documents, I might as well help you solve a few problems around the office.",既然你必须坐在这儿处理文件，我可以去帮你应付一些需要当场解决的问题。,"Раз ты всё равно сидишь здесь над бумагами, я могу разобраться с делами, которые требуют решения на месте."
+char_4123_ela_CN_002,Talk 1,Hitting supply lines does a whole lot more damage than taking out people.,打击补给线比压制人员造成的伤害更大。,"Удар по линиям снабжения наносит больший урон, чем нейтрализация людей."
+char_4123_ela_CN_003,Talk 2,"If you ask me, your office is on the bland side. Just hit me up if you ever want to mix things up a little.",我觉得你的办公室内饰有些乏味了。要是想换个风格，可以随时来找我。,"По-моему, твой кабинет обставлен скучновато. Если захочешь что-то поменять — обращайся в любой момент."
+char_4123_ela_CN_004,Talk 3,The whole 'cozy family relationship' thing isn't for me.,温情脉脉的家庭关系不适合我。,Сентиментальные семейные отношения — не моё.
+char_4123_ela_CN_005,Talk after Promotion 1,I get a lot more out of talking to strangers than I do from that 'self-help' shtick.,相比所谓的“自我提升”，和陌生人聊聊能让我受益更多。,"От разговоров с незнакомыми людьми я пользы получаю больше, чем от всей этой «самопомощи»."
+char_4123_ela_CN_006,Talk after Promotion 2,"We define ourselves by symbols, but those symbols can be perverted. Reused. Reworked, reframed, remade. In a word, stolen. Who are you then?",我们用符号定义自己，但这些符号会被扭曲，被加工，被重述——一句话，会失去原有的意义。而在符号失去意义之后，你自己又是谁？,"Мы определяем себя символами, но символы искажают, переделывают, пересказывают — одним словом, у них похищают исходный смысл. А когда символы теряют смысл, кто ты тогда?"
+char_4123_ela_CN_007,Talk after Trust Increase 1,"I don't mind helping you run errands out of combat, but on the battlefield, I need ample room to call the shots.",我不介意在战斗之外帮你做些琐事，但在战场上，我需要足够的决策权。,"Я не против помогать тебе с мелочами вне боя, но на поле боя мне нужна свобода принимать решения."
+char_4123_ela_CN_008,Talk after Trust Increase 2,"When someone can't find fault with your results and has to resort to nitpicking your attitude, that tells you everything you need to know about them.",当一个人没法对你的成果挑刺，转而开始批评你的态度，你就知道他究竟有几斤几两了。,"Когда человек не может придраться к твоим результатам и начинает критиковать твоё отношение, ты сразу понимаешь, чего он стоит."
+char_4123_ela_CN_009,Talk after Trust Increase 3,"To call the shots, you need to prove that you've got what it takes – and you've certainly done that. So, where are you sending me next?",发号施令的前提是你得证明自己足够出色，而你显然够格。好了，接下来要派我去哪？,Право командовать нужно заслужить — и ты это сделал. Так куда меня пошлёшь дальше?
+char_4123_ela_CN_010,Idle,"Your workload is clearly excessive, even by the highest standards. Take a rest.",即使按照最高标准，你的工作也过量了。好好睡吧。,Даже по самым строгим меркам у тебя слишком много работы. Спи спокойно.
+char_4123_ela_CN_011,Onboard,"Codename Ela, member of Team Rainbow. Just give me my objective, then sit back and wait for the good news.",彩虹小队成员，代号艾拉。把目标告诉我，然后静等任务完成就好。,"Эла, позывной, член Rainbow Team. Назови цель — и просто жди, пока задание будет выполнено."
+char_4123_ela_CN_012,Watching Battle Record,Picked up a few new tricks.,学到了一些新东西。,Подхватила пару новых трюков.
+char_4123_ela_CN_013,Promotion 1,"A medal? Thanks. Workmanship's not bad at all, as far as decorations go.",勋章？谢了，作为装饰品，工艺还挺不错。,Медаль? Спасибо. Как украшение сделано неплохо.
+char_4123_ela_CN_014,Promotion 2,"Together, we can shake the very stars from the sky.",只要齐心合力，我们就能撼动天际繁星。,"Если мы действуем вместе, мы сможем сдвинуть с неба сами звёзды."
+char_4123_ela_CN_017,Added to Squad,At least make it challenging.,至少让任务有点挑战性。,Хотя бы сделай задание хоть сколько-нибудь интересным.
+char_4123_ela_CN_018,Appointed as Squad Leader,Time to show you what I can do.,是时候让你见识一下我的实力了。,"Пора показать тебе, на что я способна."
+char_4123_ela_CN_019,Depart,No time to waste.,没有时间可以浪费了。,Времени терять больше нельзя.
+char_4123_ela_CN_020,Begin Operation,I'll make you regret this.,我会让你们后悔的。,Я заставлю вас пожалеть.
+char_4123_ela_CN_021,Selecting Operator 1,A tooth for a tooth.,以牙还牙。,Зуб за зуб.
+char_4123_ela_CN_022,Selecting Operator 2,An eye for an eye.,以眼还眼。,Глаз за глаз.
+char_4123_ela_CN_023,Deployment 1,I got this.,我来搞定。,Я разберусь.
+char_4123_ela_CN_024,Deployment 2,Idziemy.,我们走。,Идём.
+char_4123_ela_CN_025,In Battle 1,Here's a memento.,给你个纪念品。,Вот тебе сувенир.
+char_4123_ela_CN_026,In Battle 2,That will slow them down.,那会让他们慢下来的。,Это их замедлит.
+char_4123_ela_CN_027,In Battle 3,Eat this!,尝尝这个！,Попробуй это!
+char_4123_ela_CN_028,In Battle 4,Don't move!,别动！,Не двигайся!
+char_4123_ela_CN_029,4-star Result,The end justifies the means.,无论手段如何，结果才是一切。,"Неважно, какими средствами, — важен результат."
+char_4123_ela_CN_030,3-star Result,"I'm sorry, was I too fast for you?",抱歉，我对你们来说太快了吗？,"Прости, я для вас слишком быстрая?"
+char_4123_ela_CN_031,Sub 3-star Result,That's it?,这就结束了？,И всё?
+char_4123_ela_CN_032,Operation Failure,Try to keep up!,努力坚持下去！,Старайся не отставать!
+char_4123_ela_CN_033,Assigned to Facility,This place isn't half bad.,这地方还不坏。,Место не такое уже плохое.
+char_4123_ela_CN_034,Tap,"Do me a favor, don't talk to me.",拜托，我现在不想说话。,"Пожалуйста, сейчас мне не хочется говорить."
+char_4123_ela_CN_036,Trust Tap,Tell me YOUR story.,和我聊聊你自己的故事吧。,Расскажи мне свою историю.
+char_4123_ela_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_4123_ela_CN_042,Greeting,I'm here.,我在这里。,Я здесь.

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_260_durnar_CN_001,Appointed as Assistant,"Aw, c'mon, get someone more literate for this job. I'm a soldier, all I know is following orders. Paperwork's beyond me.",
-char_260_durnar_CN_002,Talk 1,"Life is tough enough already. Let's relax with some butter, frosting and jam.",
-char_260_durnar_CN_003,Talk 2,"If Frostleaf wasn't still lugging that big axe around, there's no way I would've recognized her. We fought together before, probably as enemies. Anyway, I'm relieved to see her living the good life at Rhodes Island.",
-char_260_durnar_CN_004,Talk 3,"Watch it, Doctor, you can't go touching my weapon. I just replaced the Originium on that thing. It's dangerous when you hold it wrong... Look out! I, I'll take you to Medical...",
-char_260_durnar_CN_005,Talk after Promotion 1,"Defensive ability is what matters to a Defender. I don't care if it's organic fiber or ceramic padding, as long as it's the state-of-the-art, just buy it!",
-char_260_durnar_CN_006,Talk after Promotion 2,"Stories from my past? Umm… Don't have much to say. I mean, what kind of story could a bad tempered soldier have? All those merits and medals... Hmph, they're nothing in the face of the lives lost.",
-char_260_durnar_CN_007,Talk after Trust Increase 1,"The greenies we got in the reserves are pretty good. But they suck at securing amenities. Back in my day, the rookies were way smarter about hiding cookies.",
-char_260_durnar_CN_008,Talk after Trust Increase 2,"I talked to Logistics. From now on, they're putting 'Industrial Material' on all our snack packaging. Then, all we need is you to sign off on them for us, Doctor.",
-char_260_durnar_CN_009,Talk after Trust Increase 3,"Doctor? Oh, sorry. I was all caught up in reminiscing. I still can't get past certain things. If my old commander was anything like you, maybe... We wouldn't have had to go through that.",
-char_260_durnar_CN_010,Idle,"Psst, Psst! Want some pop rocks? I got all kinds. I know I got one you'll love.",
-char_260_durnar_CN_011,Onboard,"Hard as rock and lethal as lightning! That's me, Dur-nar. Nice to meet you, Doctor.",
-char_260_durnar_CN_012,Watching Battle Record,"Ah, shoot, I'm out of popcorn.",
-char_260_durnar_CN_013,Promotion 1,"A promotion? Good, good, do I get paid more too? Awesome!",
-char_260_durnar_CN_014,Promotion 2,"The old me only knew how to charge on ahead and fight without stopping. Now, I fight for everybody. Just give your orders, Doctor.",
-char_260_durnar_CN_017,Added to Squad,Ready to deploy. Where am I needed?,
-char_260_durnar_CN_018,Appointed as Squad Leader,I only have one request: Safety first and don't ever forget it.,
-char_260_durnar_CN_019,Depart,We're off! Remember to stay frosty and keep an eye out.,
-char_260_durnar_CN_020,Begin Operation,I never did get used to the stench of war.,
-char_260_durnar_CN_021,Selecting Operator 1,Yes sir!,
-char_260_durnar_CN_022,Selecting Operator 2,In position!,
-char_260_durnar_CN_023,Deployment 1,I'll leave the support to you.,
-char_260_durnar_CN_024,Deployment 2,Cover me!,
-char_260_durnar_CN_025,In Battle 1,Hold the line!,
-char_260_durnar_CN_026,In Battle 2,Don't be an idiot!,
-char_260_durnar_CN_027,In Battle 3,Ya ain't gettin' through me!,
-char_260_durnar_CN_028,In Battle 4,Stay down!,
-char_260_durnar_CN_029,4-star Result,Ever heard of the Medal of Glory? I feel that's tailor-made for you.,
-char_260_durnar_CN_030,3-star Result,"No need to clean up the battlefield? Okay, then we're done here.",
-char_260_durnar_CN_031,Sub 3-star Result,The enemy still hasn't gone far. Should we chase them down?,
-char_260_durnar_CN_032,Operation Failure,"Take it easy, Doctor. It's not your fault...",
-char_260_durnar_CN_033,Assigned to Facility,"Whoa, I bet a fancy interior like this cost a bundle!",
-char_260_durnar_CN_034,Tap,"Hmph, Who the--",
-char_260_durnar_CN_036,Trust Tap,"You must be drunk to want to hear me sing war songs. Okay, don't you regret it.",
-char_260_durnar_CN_037,Title,Arknights.,
-char_260_durnar_CN_038,New Year's blessing,"Happy New Year! I can finally lay my snacks out for everyone to eat with pride! Medical won't be so cruel on today of all days, right? I've been looking forward to this cake forever, *homp*—oooh, it's amazing! Doctor, move that fork quick or all you get is crumbs~",
-char_260_durnar_CN_042,Greeting,Good morning!,
-char_260_durnar_CN_043,Birthday,"As thanks for always getting us off the hook, here's a present I brought in for you. But first, sign here. I guarantee it's all above board—signed? Great! I'll take this down to Dobermann! A permit for building a snack cupboard, signed by the Doctor!",
-char_260_durnar_CN_044,Anniversary Celebration,"Huh? It's not often I see you at the bar, Doctor. What's wrong, trouble at work? You're a great commander, I don't want you taking any wrong turns any time soon. Come on, I'll order you an 'Iceflame,' and we'll talk over drinks?",
+id,title,original,original_zh,translation
+char_260_durnar_CN_001,Appointed as Assistant,"Aw, c'mon, get someone more literate for this job. I'm a soldier, all I know is following orders. Paperwork's beyond me.",就不能找个专业的人来做这些活嘛，文职工作什么的，我这种只懂服从命令的士兵搞不明白的呀！,"Нельзя ли найти профессионала для такой работы? Я солдат, умею только выполнять приказы — не разберусь я в бумажной волоките!"
+char_260_durnar_CN_002,Talk 1,"Life is tough enough already. Let's relax with some butter, frosting and jam.",人生已经够艰难啦，来点奶油、霜糖和果酱，调和一下吧。,"Жизнь и так достаточно трудна — добавим немного сливок, сахарной пудры и джема, и станет легче."
+char_260_durnar_CN_003,Talk 2,"If Frostleaf wasn't still lugging that big axe around, there's no way I would've recognized her. We fought together before, probably as enemies. Anyway, I'm relieved to see her living the good life at Rhodes Island.",要不是霜叶小姐还抱着她那把显眼的斧子，我绝对认不出现在的她。嗯……那是在战场上，而且我们可能算是敌人呢。不过，看到她在罗德岛生活得不错，我就放心了。,"Если бы не топор, который Фростли всё ещё таскает с собой, я бы её не узнала. Мм... мы же были на поле боя, и, может, даже по разные стороны. Но видеть, что ей хорошо на «Родосе», — значит, я спокойна."
+char_260_durnar_CN_004,Talk 3,"Watch it, Doctor, you can't go touching my weapon. I just replaced the Originium on that thing. It's dangerous when you hold it wrong... Look out! I, I'll take you to Medical...",博士，别随便拿我的武器呀，这东西刚刚更换了源石，十分危险，握法不对的话……哎小心！我，我送你去医务室吧……,"Доктор, не берите моё оружие просто так: в нём недавно заменили источник, оно очень опасно, если держать неправильно... Ой, осторожно! Я, я провожу вас в медпункт..."
+char_260_durnar_CN_005,Talk after Promotion 1,"Defensive ability is what matters to a Defender. I don't care if it's organic fiber or ceramic padding, as long as it's the state-of-the-art, just buy it!",作为重装干员，我们的防御能力——最关键！无论是有机纤维背心还是陶瓷装甲，只要有防御装备的新产品面世，立刻买来用就对啦。,"Как тяжеловес, я в первую очередь думаю о защите!Жилет из органического волокна, керамическая броня — появится новая защитная штука, я сразу её покупаю и пользуюсь."
+char_260_durnar_CN_006,Talk after Promotion 2,"Stories from my past? Umm… Don't have much to say. I mean, what kind of story could a bad tempered soldier have? All those merits and medals... Hmph, they're nothing in the face of the lives lost.",以前的事情吗？以前……没什么好说的吧，一个脾气很差的士兵能有什么故事，对吧。功勋和徽章，呵，和死去的人的生命相比，这些算得了什么……,"Прошлое? Прошлое... не о чём говорить. Что можно рассказать о солдате с дурным характером? Медали и ордена — хе, что они значат рядом с жизнью мёртвых..."
+char_260_durnar_CN_007,Talk after Trust Increase 1,"The greenies we got in the reserves are pretty good. But they suck at securing amenities. Back in my day, the rookies were way smarter about hiding cookies.",最近预备队新人们的素质可真不错，就是自行改善生活的本事实在是差了点，当年新兵偷藏压缩饼干的把戏可高明多了。,"Нынешние новички в резерве — ничего ребята, вот только свой быт устроить не умеют. Раньше новобранцы прятали сухой паёк — и то ловчее выходило."
+char_260_durnar_CN_008,Talk after Trust Increase 2,"I talked to Logistics. From now on, they're putting 'Industrial Material' on all our snack packaging. Then, all we need is you to sign off on them for us, Doctor.",我和后勤部的干员打过招呼了，以后，他们会在所有零食包装上写好“工业原料”，到时候，签字通过就靠你啦，博士。,"Я уже поговорила с отделом тыла: отныне на всех обёртках сладостей они будут писать «промышленное сырьё». Остаётся только подписать разрешение — за вами, Доктор."
+char_260_durnar_CN_009,Talk after Trust Increase 3,"Doctor? Oh, sorry. I was all caught up in reminiscing. I still can't get past certain things. If my old commander was anything like you, maybe... We wouldn't have had to go through that.",博士？嗯，啊啊，抱歉。有些事情，还是忘不掉啊。如果以前我的指挥官像博士你一样的话，哎……也许，过去就不会发生那种事了。,"Доктор? Мм, а-а, прошу прощения. Есть вещи, которые забыть никак не выходит. Если бы мой прежний командир был таким, как вы, эх... может, тогда ничего бы не случилось."
+char_260_durnar_CN_010,Idle,"Psst, Psst! Want some pop rocks? I got all kinds. I know I got one you'll love.",想不想来点跳跳糖？我这什么口味都有，你肯定会满意的。,Хочешь леденцов? У меня всех вкусов — ты останешься доволен.
+char_260_durnar_CN_011,Onboard,"Hard as rock and lethal as lightning! That's me, Dur-nar. Nice to meet you, Doctor.",磐石般坚硬，雷霆般致命，那就是我，坚雷。请多指教哦，博士。,"Твёрдая как скала, смертоносная как гром — это я, Дур-нар. Прошу любви и уважения, Доктор."
+char_260_durnar_CN_012,Watching Battle Record,"Ah, shoot, I'm out of popcorn.",啊，不好，爆米花已经吃完了。,"А, плохо: попкорн уже кончился."
+char_260_durnar_CN_013,Promotion 1,"A promotion? Good, good, do I get paid more too? Awesome!",晋升了？好呀好呀，薪水也涨了吗？太好了！,"Повысили? Ой, здорово, здорово! Зарплату тоже прибавили? Отлично!"
+char_260_durnar_CN_014,Promotion 2,"The old me only knew how to charge on ahead and fight without stopping. Now, I fight for everybody. Just give your orders, Doctor.",以前的我只知道向前冲、不断地战斗，现在不一样了，我为大家而战，下令吧，博士。,"Раньше я только и знала, что бежать вперёд и драться, а теперь я сражаюсь за всех. Приказывайте, Доктор."
+char_260_durnar_CN_017,Added to Squad,Ready to deploy. Where am I needed?,随时待命，哪里需要我？,"Готова к любой минуте, где я нужна?"
+char_260_durnar_CN_018,Appointed as Squad Leader,I only have one request: Safety first and don't ever forget it.,我只有一个要求：安全第一，千万别忘了。,У меня лишь одно условие: безопасность превыше всего — не забывайте.
+char_260_durnar_CN_019,Depart,We're off! Remember to stay frosty and keep an eye out.,出发！哦对了，要注意周围的情况哦。,"Пошли! И смотрите по сторонам, ладно?"
+char_260_durnar_CN_020,Begin Operation,I never did get used to the stench of war.,呼啊，战场的空气还是那么糟糕。,"Фух, воздух на поле боя всё такой же скверный."
+char_260_durnar_CN_021,Selecting Operator 1,Yes sir!,是！,Есть!
+char_260_durnar_CN_022,Selecting Operator 2,In position!,已就位！,На позиции!
+char_260_durnar_CN_023,Deployment 1,I'll leave the support to you.,支援就拜托你们了。,Поддержка — за вами.
+char_260_durnar_CN_024,Deployment 2,Cover me!,掩护我！,Прикрой меня!
+char_260_durnar_CN_025,In Battle 1,Hold the line!,守住战线！,Держим линию!
+char_260_durnar_CN_026,In Battle 2,Don't be an idiot!,别再做无谓的事了！,Хватит бессмысленных выходок!
+char_260_durnar_CN_027,In Battle 3,Ya ain't gettin' through me!,此路不通！,Здесь прохода нет!
+char_260_durnar_CN_028,In Battle 4,Stay down!,退下！,Прочь с дороги!
+char_260_durnar_CN_029,4-star Result,Ever heard of the Medal of Glory? I feel that's tailor-made for you.,听说过荣誉勋章吗，我觉得吧，这东西大概就是为你准备的。,"Слышали о медали за отвагу? По-моему, она как раз для вас."
+char_260_durnar_CN_030,3-star Result,"No need to clean up the battlefield? Okay, then we're done here.",不用清理战场吗？好吧，那就收工走人咯！,"Не надо убирать поле боя? Ну что ж, тогда закончили — пошли!"
+char_260_durnar_CN_031,Sub 3-star Result,The enemy still hasn't gone far. Should we chase them down?,敌人还没走远，需要追击吗？,"Враг ещё не ушёл далеко, нужно преследовать?"
+char_260_durnar_CN_032,Operation Failure,"Take it easy, Doctor. It's not your fault...",放轻松，博士……这个结果，不是你的错……,"Расслабьтесь, Доктор... это не ваша вина..."
+char_260_durnar_CN_033,Assigned to Facility,"Whoa, I bet a fancy interior like this cost a bundle!",哇，装修这么豪华，一定花了不少钱吧。,"Ого, какой тут роскошный ремонт — небось немало денег ушло."
+char_260_durnar_CN_034,Tap,"Hmph, Who the--",谁啊？！,Кто там?!
+char_260_durnar_CN_036,Trust Tap,"You must be drunk to want to hear me sing war songs. Okay, don't you regret it.",你喝醉了吧，想听我唱军歌？……可别后悔啊。,"Вы пьяны или вправду хотите, чтобы я спела военную песню?.. Только не жалейте потом."
+char_260_durnar_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_260_durnar_CN_038,New Year's blessing,"Happy New Year! I can finally lay my snacks out for everyone to eat with pride! Medical won't be so cruel on today of all days, right? I've been looking forward to this cake forever, *homp*—oooh, it's amazing! Doctor, move that fork quick or all you get is crumbs~",新年快乐，终于可以大大方方地把零食都摆在桌上让大家吃了，医疗部总不会今天还管得这么严吧？这可是我期待了很久的蛋糕，啊呜——唔喔，真是美味！博士，再不动叉子可就只有蛋糕屑了喔。,"С новым годом! Наконец-то можно спокойно выложить все лакомства на стол — медотдел же сегодня не будет так следить? Это мой торт, которого я ждала очень долго, ах — ой, какая вкуснятина! Доктор, если не возьмёте вилку, останутся только крошки!"
+char_260_durnar_CN_042,Greeting,Good morning!,早上好~,Доброе утро~
+char_260_durnar_CN_043,Birthday,"As thanks for always getting us off the hook, here's a present I brought in for you. But first, sign here. I guarantee it's all above board—signed? Great! I'll take this down to Dobermann! A permit for building a snack cupboard, signed by the Doctor!",作为经常帮我们蒙混过关的感谢，这个是我给你带来的礼物。不过首先要在这张纸上签个字，我保证不是什么坏事——签好了？好！这就拿给杜宾看，这个是博士签了字的零食柜建造许可证！,"В благодарность за то, что вы частенько нас выручали, я принесла вам подарок. Только сначала поставьте подпись на этом листе — обещаю, ничего плохого — подписали? Отлично! Сейчас отнесу Доберманну — это разрешение на шкаф со сладостями, подписанное Доктором!"
+char_260_durnar_CN_044,Anniversary Celebration,"Huh? It's not often I see you at the bar, Doctor. What's wrong, trouble at work? You're a great commander, I don't want you taking any wrong turns any time soon. Come on, I'll order you an 'Iceflame,' and we'll talk over drinks?",唔？在酒吧遇到博士可是件少见的事。怎么了，是在工作上遇到烦心的事了？博士你是位好长官，我可一点都不希望你哪里想岔了走错路哦。来，我给你叫上一杯“冰焰”，边喝边聊吧？,"Мм? Встретить Доктора в баре — большая редкость. Что, неприятности на работе? Вы хороший начальник, Доктор, и мне совсем не хочется, чтобы вы свернули не туда. Давайте я закажу вам «Ледяное пламя» — выпьем и поговорим?"

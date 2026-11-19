@@ -1,39 +1,39 @@
-id,title,original,translation
-char_112_siege_CN_001,Appointed as Assistant,You're still not done assigning tasks? I'll wait a bit longer then.,
-char_112_siege_CN_002,Talk 1,Keep calm and carry on.,
-char_112_siege_CN_003,Talk 2,Our meals used to be fairly nice in the past... but the quality's gone downhill since we joined Indra's group.,
-char_112_siege_CN_004,Talk 3,"I had a dream... a dream where the sun rises, and in the distance beyond the horizon... there was my hometown. The place I might never get to return to, ever again.",
-char_112_siege_CN_005,Talk after Promotion 1,"Before I knew it, I'd gotten accustomed to this drifter's life... It's a strange thing. In the past I never imagined this was how I'd end up.",
-char_112_siege_CN_006,Talk after Promotion 2,"Gawain and company? I wouldn't say they ran into me, more like they picked me up off the streets.",
-char_112_siege_CN_007,Talk after Trust Increase 1,"I used to stand side by side with Indra's team when we fought in the streets of Victoria... Looking back, I suppose it's a fairly fond memory to me.",
-char_112_siege_CN_008,Talk after Trust Increase 2,"Stay on your guard! I know you've done the best you can, but there may be unknown dangers beyond our abilities.",
-char_112_siege_CN_009,Talk after Trust Increase 3,"If we're ever put in a tough situation... then I may well act on my own motives. And if it comes to that, Doctor, I hope you'll join me too in... no, never mind for now.",
-char_112_siege_CN_010,Idle,"Hm? You fell asleep?... I wonder if you ever dream of your hometown, too.",
-char_112_siege_CN_011,Onboard,"I've passed the strength test, right? So assign me some missions. Don't let this hammer get too bored. My codename? They call me the Siege. Curious name, but it's got a nice ring to it.",
-char_112_siege_CN_012,Watching Battle Record,Feels pretty good.,
-char_112_siege_CN_013,Promotion 1,A promotion? Interesting...,
-char_112_siege_CN_014,Promotion 2,"Another promotion? All right, thanks... Life is strange like that, you know? Once upon a time, I was the one assigning new ranks to people.",
-char_112_siege_CN_017,Added to Squad,"Tell me, is this battle inevitable?",
-char_112_siege_CN_018,Appointed as Squad Leader,You'd better get used to my combat style.,
-char_112_siege_CN_019,Depart,For want of a nail... the kingdom was lost.,
-char_112_siege_CN_020,Begin Operation,Run while you can. Better to be a coward with a pulse than a martyr with a grave.,
-char_112_siege_CN_021,Selecting Operator 1,Yes?,
-char_112_siege_CN_022,Selecting Operator 2,Are you ready?,
-char_112_siege_CN_023,Deployment 1,What a pain.,
-char_112_siege_CN_024,Deployment 2,We'll take them out all at once.,
-char_112_siege_CN_025,In Battle 1,My weapon chooses its worthy wielder.,
-char_112_siege_CN_026,In Battle 2,Get lost!,
-char_112_siege_CN_027,In Battle 3,A warrior must be ready to face death on the battlefield!,
-char_112_siege_CN_028,In Battle 4,My rule is the balance your lives hang in.,
-char_112_siege_CN_029,4-star Result,"Can bluff, can't take one blow.",
-char_112_siege_CN_030,3-star Result,Those who refuse to surrender don't deserve mercy.,
-char_112_siege_CN_031,Sub 3-star Result,Are we done here?,
-char_112_siege_CN_032,Operation Failure,I'm... more tired than I thought. I apologize...,
-char_112_siege_CN_033,Assigned to Facility,Do you mind if I get my forty winks in here?,
-char_112_siege_CN_034,Tap,Tsk...,
-char_112_siege_CN_036,Trust Tap,"It's too noisy out there for my tastes... I think the silence of your office suits me more. Let me stay in here for a bit, will you?",
-char_112_siege_CN_037,Title,Arknights.,
-char_112_siege_CN_038,New Year's blessing,It's like I can hear an all-too-familiar chime again... I hope the new year's sun will be enough to tear through the hazy Londinium skies.,
-char_112_siege_CN_042,Greeting,"Oh, it's you, Doctor.",
-char_112_siege_CN_043,Birthday,"Happy birthday, Doctor. I look back fondly on the way I used to celebrate this sort of thing with Indra and the gang. We'd drink ourselves half to death, right on the street, and make a racket to match, but that doesn't seem so appropriate now... Still, I've got some lollipops on me. Want one?",
-char_112_siege_CN_044,Anniversary Celebration,"Doctor, as a leader, do you ever find yourself confused too? Do you feel the same heavy burden when your choices can impact the fates of so many? I'm not one to flee from my duty, but there is so much that requires careful consideration... I may want some guidance from you.",
+id,title,original,original_zh,translation
+char_112_siege_CN_001,Appointed as Assistant,You're still not done assigning tasks? I'll wait a bit longer then.,作战任务分配好了？没有的话，我可以再等等……,Задания уже распределены? Нет? Тогда я подожду ещё немного...
+char_112_siege_CN_002,Talk 1,Keep calm and carry on.,保持冷静，继续前行。,Сохраняйте спокойствие и двигайтесь дальше.
+char_112_siege_CN_003,Talk 2,Our meals used to be fairly nice in the past... but the quality's gone downhill since we joined Indra's group.,以前的伙食还挺不错的，但自从和因陀罗她们在一起之后……变得糟透了。,"Раньше кормили довольно неплохо, но с тех пор, как я с Индрой и её ребятами... всё покатилось под гору."
+char_112_siege_CN_004,Talk 3,"I had a dream... a dream where the sun rises, and in the distance beyond the horizon... there was my hometown. The place I might never get to return to, ever again.",我做了个梦……那是太阳升起的地方。视线无法触及之处，我的祖国就在那里……我或许，再也回不去了。,"Мне приснился сон... Там, где восходит солнце, за пределами взгляда... была моя родина. Куда я, кажется, уже никогда не вернусь."
+char_112_siege_CN_005,Talk after Promotion 1,"Before I knew it, I'd gotten accustomed to this drifter's life... It's a strange thing. In the past I never imagined this was how I'd end up.",回过神来，已经习惯了这种漂泊的生活，真奇妙啊——这是我从来没有想象过的事。,"Оглянувшись, я поняла, что уже привыкла к этой жизни скиталицы... Странно. Раньше я и представить не могла, что так закончу."
+char_112_siege_CN_006,Talk after Promotion 2,"Gawain and company? I wouldn't say they ran into me, more like they picked me up off the streets.",你说高文他们？……与其说是我遇见他们，倒不如说是他们捡到了我。,"Говорите о Гавейне и остальных?.. Это не я их встретила — скорее, они подобрали меня на улице."
+char_112_siege_CN_007,Talk after Trust Increase 1,"I used to stand side by side with Indra's team when we fought in the streets of Victoria... Looking back, I suppose it's a fairly fond memory to me.",和因陀罗他们在维多利亚的街头并肩作战——回想起来，我也慢慢变得珍惜起这段回忆了。,"Стоять плечом к плечу с Индрой и её людьми на улицах Виктории... Оглядываясь назад, я и вправду начала дорожить этим воспоминанием."
+char_112_siege_CN_008,Talk after Trust Increase 2,"Stay on your guard! I know you've done the best you can, but there may be unknown dangers beyond our abilities.",别放松警惕……！我知道你已经十分努力了，但仅凭我们现在的力量，总会发生力不能及的事情。,"Не теряйте бдительности! Я знаю, вы стараетесь изо всех сил, но есть вещи, которые нам просто не под силу."
+char_112_siege_CN_009,Talk after Trust Increase 3,"If we're ever put in a tough situation... then I may well act on my own motives. And if it comes to that, Doctor, I hope you'll join me too in... no, never mind for now.",如果遭遇了无法逃避的难题……我也是会有些许私心的。到那时，博士，希望你也能成为我的……不，没什么。,"Если мы окажемся в безвыходном положении... у меня тоже могут появиться свои интересы. И тогда, Доктор, я надеюсь, вы присоединитесь ко мне в... Нет, пока забудем."
+char_112_siege_CN_010,Idle,"Hm? You fell asleep?... I wonder if you ever dream of your hometown, too.",……嗯？睡着了？不知你的梦中，是否也会有故乡的景色。,"Мм? Вы уснули?.. Интересно, снятся ли вам тоже пейзажи родных мест."
+char_112_siege_CN_011,Onboard,"I've passed the strength test, right? So assign me some missions. Don't let this hammer get too bored. My codename? They call me the Siege. Curious name, but it's got a nice ring to it.",力量测试已经通过了吧。那么，请给我些任务，别让这把锤子太无聊。代号？大家都叫我“推进之王”，不是很好记，但我觉得还不错。,"Силовая проверка пройдена? Тогда дайте мне задания — пусть этот молот не скучает. Позывной? Зовут меня «Сидж». Не так чтобы легко запомнить, но мне нравится."
+char_112_siege_CN_012,Watching Battle Record,Feels pretty good.,感觉不赖。,Неплохое ощущение.
+char_112_siege_CN_013,Promotion 1,A promotion? Interesting...,晋升？哦——？,Повышение? О-о...
+char_112_siege_CN_014,Promotion 2,"Another promotion? All right, thanks... Life is strange like that, you know? Once upon a time, I was the one assigning new ranks to people.",又是晋升？嗯，谢咯。仔细想想还挺奇妙的……因为在过去，做这件事的人是我呢。,"Опять повышение? Ладно, спасибо. Жизнь удивительная штука: раньше именно я присваивала звания другим."
+char_112_siege_CN_017,Added to Squad,"Tell me, is this battle inevitable?",这，是一场必要的战斗吗？,"Скажите, эта битва — неизбежна?"
+char_112_siege_CN_018,Appointed as Squad Leader,You'd better get used to my combat style.,可要好好熟悉我的作战风格。,Вам стоить привыкнуть к моему стилю боя.
+char_112_siege_CN_019,Depart,For want of a nail... the kingdom was lost.,丢了一个钉子……死了一个国王。,Из-за гвоздя... погибло королевство.
+char_112_siege_CN_020,Begin Operation,Run while you can. Better to be a coward with a pulse than a martyr with a grave.,逃吧，被当成懦夫总比没命强。,"Бегите, пока можете. Лучше остаться трусливым и живым, чем героем в могиле."
+char_112_siege_CN_021,Selecting Operator 1,Yes?,哦？,Да?
+char_112_siege_CN_022,Selecting Operator 2,Are you ready?,准备好了吗？,Готовы?
+char_112_siege_CN_023,Deployment 1,What a pain.,麻烦。,Вот досада.
+char_112_siege_CN_024,Deployment 2,We'll take them out all at once.,一口气解决。,Покончим с ними разом.
+char_112_siege_CN_025,In Battle 1,My weapon chooses its worthy wielder.,这把武器可非庸人能使。,Это оружие не всякому поддаётся.
+char_112_siege_CN_026,In Battle 2,Get lost!,闪开。,Прочь с дороги!
+char_112_siege_CN_027,In Battle 3,A warrior must be ready to face death on the battlefield!,上了战场，就要有饮败的觉悟！,"Выходя на поле боя, будь готов принять поражение!"
+char_112_siege_CN_028,In Battle 4,My rule is the balance your lives hang in.,你的生死由我裁定。,Ваша жизнь — в моей власти.
+char_112_siege_CN_029,4-star Result,"Can bluff, can't take one blow.",装模作样，不堪一击。,"Умеет притворяться, да не выдержать и удара."
+char_112_siege_CN_030,3-star Result,Those who refuse to surrender don't deserve mercy.,对拒绝投降者无需怜悯。,"Тем, кто не сдаётся, пощады не дают."
+char_112_siege_CN_031,Sub 3-star Result,Are we done here?,结束了吧？,Покончили?
+char_112_siege_CN_032,Operation Failure,I'm... more tired than I thought. I apologize...,意外的……疲惫……十分抱歉。,"Я... устала сильнее, чем думала. Прошу прощения..."
+char_112_siege_CN_033,Assigned to Facility,Do you mind if I get my forty winks in here?,能找个地方让我睡一觉吗？,Можно мне где-нибудь вздремнуть?
+char_112_siege_CN_034,Tap,Tsk...,嘁——,Тьфу...
+char_112_siege_CN_036,Trust Tap,"It's too noisy out there for my tastes... I think the silence of your office suits me more. Let me stay in here for a bit, will you?",外面太吵闹了……你的办公室就不一样，很安静，挺不错的，让我待一会吧。,Снаружи слишком шумно... а в вашем кабинете тихо — это мне больше подходит. Позвольте мне пока побыть здесь.
+char_112_siege_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_112_siege_CN_038,New Year's blessing,It's like I can hear an all-too-familiar chime again... I hope the new year's sun will be enough to tear through the hazy Londinium skies.,我仿佛又听到了熟悉的钟声……希望在新的一年，太阳的光芒能够撕裂伦蒂尼姆上空的阴霾。,"Словно я снова услышала знакомый перезвон... Надеюсь, в новом году солнце разорвёт мглу над Лондиниумом."
+char_112_siege_CN_042,Greeting,"Oh, it's you, Doctor.",噢！博士。,"О! Это вы, Доктор."
+char_112_siege_CN_043,Birthday,"Happy birthday, Doctor. I look back fondly on the way I used to celebrate this sort of thing with Indra and the gang. We'd drink ourselves half to death, right on the street, and make a racket to match, but that doesn't seem so appropriate now... Still, I've got some lollipops on me. Want one?",博士，生日快乐。过去和因陀罗他们，在街头喝得半醉之后大闹一场的庆生方式的确令人怀念，但是现在似乎不适合这么做呢……我这还有一些棒棒糖，你要来一根吗？,"Доктор, с днём рождения. Я с теплотой вспоминаю, как раньше мы с Индрой и компанией напивались до полусмерти прямо на улице и устраивали шум — но сейчас это уже не совсем уместно... Впрочем, у меня тут ещё есть леденцы. Хотите?"
+char_112_siege_CN_044,Anniversary Celebration,"Doctor, as a leader, do you ever find yourself confused too? Do you feel the same heavy burden when your choices can impact the fates of so many? I'm not one to flee from my duty, but there is so much that requires careful consideration... I may want some guidance from you.",博士，作为领袖，你也会迷茫吗？当你做的选择，可能影响许多人的命运时，你会感觉到沉重的压力吗？我不会逃避责任，但是有许多问题，我要仔细考虑……博士，也许我需要你的指引。,"Доктор, даже вы, лидер, иногда сомневаетесь? Когда ваш выбор может повлиять на судьбы многих — чувствуете ли вы тяжёлое бремя? Я не склонна уклоняться от долга, но столько вопросов требуют вдумчивого решения... Возможно, мне нужны ваши указания."

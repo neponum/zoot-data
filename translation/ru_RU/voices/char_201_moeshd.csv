@@ -1,39 +1,39 @@
-id,title,original,translation
-char_201_moeshd_CN_001,Appointed as Assistant,"This here Croissant guarantees yer safety, no matter where yer headin', Baws! Oh, 'n payment's upfront! 'Member that!",
-char_201_moeshd_CN_002,Talk 1,"Make a buncha money workin' yer butt off! We can't be livin' in no poverty, after all!",
-char_201_moeshd_CN_003,Talk 2,Yer kiddin'! All yer people got such shiny gear on 'em! Lemme have a touch too!,
-char_201_moeshd_CN_004,Talk 3,"Boy, I sure love orderin' new gear! Feels like I bought enough stuff to fill the whole depot! This what they call a 'shoppin' addiction'?",
-char_201_moeshd_CN_005,Talk after Promotion 1,Every month there's more 'n more bills to pay... 'n that's why I sell some stuff I find on the side! Everythin' I got is cheap 'n high quality!,
-char_201_moeshd_CN_006,Talk after Promotion 2,"Move this, lift that. If we gotta be haulin' things, might as well pick some easy-to-use and yummy-yummy stuff!",
-char_201_moeshd_CN_007,Talk after Trust Increase 1,"Baws, Baws! Found this here heckin' tasty thing lyin' around, ya want a bite? Ya ask me, the only thing second to gud gear is gud food!",
-char_201_moeshd_CN_008,Talk after Trust Increase 2,"Baws, c'mere a sec, wouldja? Take a gander at my wares! From fancy clothes 'n everyday items to office supplies and gear, ya name it, I got it! Buy in bulk 'n I'll give ya a discount!",
-char_201_moeshd_CN_009,Talk after Trust Increase 3,"Baws, I gotta thank ya! With all them referrals, I can buy everything I ever wanted! Yer the best, Baws! Love ya lots!",
-char_201_moeshd_CN_010,Idle,"Aw shucks, gotta tighten my belt again this month...",
-char_201_moeshd_CN_011,Onboard,"The name's Croissant, and by golly yer in luck, Baws! Won't find nobody as good at their trade as I am! I'm strong, don't break easy, 'n if ya hire me right now, I'll give ya a 20% discount!",
-char_201_moeshd_CN_012,Watching Battle Record,I reckon I'll get more work if I get stronger!,
-char_201_moeshd_CN_013,Promotion 1,"Thank ya kindly, Baws, fer helpin' me find such a nice job.",
-char_201_moeshd_CN_014,Promotion 2,"Baws, Baws, I made good use of that there bonus ya gave me! Check it out, I don’t got myself some new gear. All the better to keep ya safe!",
-char_201_moeshd_CN_017,Added to Squad,Leave the defense to me!,
-char_201_moeshd_CN_018,Appointed as Squad Leader,"Listen up, y'all! Let's do this here mission nice and cleanlike!",
-char_201_moeshd_CN_019,Depart,We'll be back with the best results ya ever did see!,
-char_201_moeshd_CN_020,Begin Operation,Well lookee here. The bad guys're comin' to donate their gear!,
-char_201_moeshd_CN_021,Selecting Operator 1,What can I do ya for?,
-char_201_moeshd_CN_022,Selecting Operator 2,Time to try this here new gear!,
-char_201_moeshd_CN_023,Deployment 1,H'all righty!,
-char_201_moeshd_CN_024,Deployment 2,Here we are!,
-char_201_moeshd_CN_025,In Battle 1,End of the road!,
-char_201_moeshd_CN_026,In Battle 2,Ya ain't gettin' through me!,
-char_201_moeshd_CN_027,In Battle 3,THUNDERCLAP!,
-char_201_moeshd_CN_028,In Battle 4,That ain't gon' work on me!,
-char_201_moeshd_CN_029,4-star Result,Ya reckon the enemy dropped a treasure chest or somesuch?,
-char_201_moeshd_CN_030,3-star Result,Yeehaw! Mission accomplished!,
-char_201_moeshd_CN_031,Sub 3-star Result,Dagnabbit... the enemy got away! That ain't good for my rep…,
-char_201_moeshd_CN_032,Operation Failure,"Aw, shucks… First I lost the fight, and now my wallet…",
-char_201_moeshd_CN_033,Assigned to Facility,Ya got any treasure chests hidin' 'round here?,
-char_201_moeshd_CN_034,Tap,Hmm?,
-char_201_moeshd_CN_036,Trust Tap,"Baws, Baws, got any nifty stuff on hand? C'mon, I wanna see!",
-char_201_moeshd_CN_037,Title,Arknights.,
-char_201_moeshd_CN_038,New Year's blessing,"Happy New Year, Baws! The Penguin Logistics girls're countin' on yer business. And my hammer and shield'll keep yer goodies safe wherever they need to go. Hehe, if'n ya trust me enough, feel free to cut out Emperor and send the job straight to me!",
-char_201_moeshd_CN_042,Greeting,"Howdy, Baws!",
-char_201_moeshd_CN_043,Birthday,"Shhh! Rise n' shine, Baws. Get'cher clothes on! We gotta move before the others wake up. Texas's got the engine runnin', and Exusiai's talkin' about a champaign buffet with all the rubber bullets we'n shoot. Relax, Baws, we know a thing or two about birthday parties.",
-char_201_moeshd_CN_044,Anniversary Celebration,"Even yer most carefully-laid plan ain't gonna carry you outta the swamp when yer all stuck in it. That's when ya come lookin' fer the unstoppable force! Hold the shiny equipment! That's the reason Rhodes Island n' Penguin Logistics're like two peas in a pod! Here's to keepin' that unstoppable force rollin', Baws!",
+id,title,original,original_zh,translation
+char_201_moeshd_CN_001,Appointed as Assistant,"This here Croissant guarantees yer safety, no matter where yer headin', Baws! Oh, 'n payment's upfront! 'Member that!",放心吧老板，不论在哪儿我都是您生命安全的保障！对了对了，每次行动前要扫一下这里的码，别忘记哟~,"Не волнуйтесь, босс! Где бы мы ни были, я — ваша гарантия безопасности! О, и ещё: перед каждой операцией сканируйте вот этот код — не забывайте~"
+char_201_moeshd_CN_002,Talk 1,"Make a buncha money workin' yer butt off! We can't be livin' in no poverty, after all!",努力工作，赚取报酬，都是为了提升自己的生活品质嘛。,"Работаем, зарабатываем — всё ради того, чтобы жить получше."
+char_201_moeshd_CN_003,Talk 2,Yer kiddin'! All yer people got such shiny gear on 'em! Lemme have a touch too!,大家的装备都在闪闪发光！好想摸一下啊～,У всех такое блестящее снаряжение! Так и хочется потрогать~
+char_201_moeshd_CN_004,Talk 3,"Boy, I sure love orderin' new gear! Feels like I bought enough stuff to fill the whole depot! This what they call a 'shoppin' addiction'?",我最喜欢新装备了！无论是看到什么都好想买下来啊。就这样，我陷入了无止境的购物漩涡……,Я обожаю новую экипировку! Что ни увижу — так и хочется купить. И вот я уже в бесконечном водовороте покупок...
+char_201_moeshd_CN_005,Talk after Promotion 1,Every month there's more 'n more bills to pay... 'n that's why I sell some stuff I find on the side! Everythin' I got is cheap 'n high quality!,为了补贴每个月的花销，我会经常搜集些货物，做点小生意！当然，可都是些物美价廉的好东西哦！,"Чтобы свести концы с концами каждый месяц, я подбираю товары и торгую по мелочи! Конечно, всё дешёвое и хорошее!"
+char_201_moeshd_CN_006,Talk after Promotion 2,"Move this, lift that. If we gotta be haulin' things, might as well pick some easy-to-use and yummy-yummy stuff!",这也是运货，那也是运货，既然都是运货，我当然更愿意搬运些好用的东西，或者美味的食物！,"И то вози, и это вози — раз уже возить, я лучше понесу что-нибудь полезное или вкусное!"
+char_201_moeshd_CN_007,Talk after Trust Increase 1,"Baws, Baws! Found this here heckin' tasty thing lyin' around, ya want a bite? Ya ask me, the only thing second to gud gear is gud food!",老板老板，我找到了特别好吃的东西哦！来尝尝看吧？哼哼，除了装备之外，我可最喜欢美味的食物了！,"Босс, босс! Я нашла кое-что очень вкусное! Хотите попробовать? Хе-хе, после снаряжения я больше всего люблю вкусную еду!"
+char_201_moeshd_CN_008,Talk after Trust Increase 2,"Baws, c'mere a sec, wouldja? Take a gander at my wares! From fancy clothes 'n everyday items to office supplies and gear, ya name it, I got it! Buy in bulk 'n I'll give ya a discount!",老板！要不要来看看我刚进的一批货？潮款服装，日用工具，办公用品，武器装备，应有尽有哦！买的越多，折扣越大哦！,"Босс, гляньте-ка на новую партию товара! Модная одежда, инструменты, канцелярия, оружие — есть всё! Чем больше берёшь, тем больше скидка!"
+char_201_moeshd_CN_009,Talk after Trust Increase 3,"Baws, I gotta thank ya! With all them referrals, I can buy everything I ever wanted! Yer the best, Baws! Love ya lots!",老板，谢谢您！为我介绍了这么多的工作！托您的福，以前买不起的东西，现在我都负担的起啦！您是最好的老板！最喜欢您了！,"Спасибо вам, босс! Вы столько раз давали мне работу — благодаря вам я теперь могу купить то, чего раньше не могла позволить! Вы лучший босс! Я вас очень люблю!"
+char_201_moeshd_CN_010,Idle,"Aw shucks, gotta tighten my belt again this month...",哎呀~这个月也完蛋了……,Ох~ В этом месяце опять всё плохо...
+char_201_moeshd_CN_011,Onboard,"The name's Croissant, and by golly yer in luck, Baws! Won't find nobody as good at their trade as I am! I'm strong, don't break easy, 'n if ya hire me right now, I'll give ya a 20% discount!",我是可颂。老板您的运气可真好，能得到我这样安全可靠刀枪不入的优质干员！另外，现在雇佣我的话，还可以给您打八折哦！,"Я Круассан. Вам крупно повезло, босс: вы получили такого надёжного, непробиваемого оперативника, как я! К тому же, если нанять меня сейчас — скидка двадцать процентов!"
+char_201_moeshd_CN_012,Watching Battle Record,I reckon I'll get more work if I get stronger!,变强的话，就能接到更多工作了吧~,Стану сильнее — будет больше работы~
+char_201_moeshd_CN_013,Promotion 1,"Thank ya kindly, Baws, fer helpin' me find such a nice job.",多亏了老板，我才能得到这么好的岗位，太感谢您了！,"Благодаря вам, босс, у меня такая хорошая работа. Спасибо огромное!"
+char_201_moeshd_CN_014,Promotion 2,"Baws, Baws, I made good use of that there bonus ya gave me! Check it out, I don’t got myself some new gear. All the better to keep ya safe!",老板老板，您发的奖金，我可没有乱花哦。快看快看，这些都是用来保护您的新装备！,"Босс, босс! Я не тратила премию зря! Смотрите, смотрите — всё это новая экипировка, чтобы защищать вас!"
+char_201_moeshd_CN_017,Added to Squad,Leave the defense to me!,防卫就交给我吧！,Защиту оставьте мне!
+char_201_moeshd_CN_018,Appointed as Squad Leader,"Listen up, y'all! Let's do this here mission nice and cleanlike!",大家！让我们漂漂亮亮地完成这次工作吧！,Все! Давайте выполним работу чисто и красиво!
+char_201_moeshd_CN_019,Depart,We'll be back with the best results ya ever did see!,一定给老板一个您满意的战果！,Обязательно порадую босса результатом!
+char_201_moeshd_CN_020,Begin Operation,Well lookee here. The bad guys're comin' to donate their gear!,敌人给咱们送装备来了！,"Смотрите-ка, враги принесли нам своё снаряжение!"
+char_201_moeshd_CN_021,Selecting Operator 1,What can I do ya for?,什么什么？,Что-что?
+char_201_moeshd_CN_022,Selecting Operator 2,Time to try this here new gear!,让我试试新装备吧！,Дайте испытать новую экипировку!
+char_201_moeshd_CN_023,Deployment 1,H'all righty!,嘿咻！,Хей-хо!
+char_201_moeshd_CN_024,Deployment 2,Here we are!,到了！,Прибыли!
+char_201_moeshd_CN_025,In Battle 1,End of the road!,停下！,Стой!
+char_201_moeshd_CN_026,In Battle 2,Ya ain't gettin' through me!,此路不通！,Здесь прохода нет!
+char_201_moeshd_CN_027,In Battle 3,THUNDERCLAP!,雷霆一击！,Громовой удар!
+char_201_moeshd_CN_028,In Battle 4,That ain't gon' work on me!,这招对我没用！,Это на меня не действует!
+char_201_moeshd_CN_029,4-star Result,Ya reckon the enemy dropped a treasure chest or somesuch?,敌人有没有掉落宝箱什么的呢？,"Может, враги роняют сундуки с сокровищами?"
+char_201_moeshd_CN_030,3-star Result,Yeehaw! Mission accomplished!,耶～任务完成！,Йе-е~ Задание выполнено!
+char_201_moeshd_CN_031,Sub 3-star Result,Dagnabbit... the enemy got away! That ain't good for my rep…,欸，敌人逃跑了，我的业务信誉又要下跌啦……,"Эх, враг сбежал — моя репутация опять поползла вниз..."
+char_201_moeshd_CN_032,Operation Failure,"Aw, shucks… First I lost the fight, and now my wallet…",太糟了，不光输了战斗，还弄丢了钱包……,"Ужас: не только проиграла, ещё и кошелёк потеряла..."
+char_201_moeshd_CN_033,Assigned to Facility,Ya got any treasure chests hidin' 'round here?,这里有没有宝箱？,Тут есть сундуки с сокровищами?
+char_201_moeshd_CN_034,Tap,Hmm?,嗯？,Мм?
+char_201_moeshd_CN_036,Trust Tap,"Baws, Baws, got any nifty stuff on hand? C'mon, I wanna see!",老板老板，有什么好东西吗？也给我看一下！,"Босс, босс, есть что-нибудь хорошее? Покажите и мне!"
+char_201_moeshd_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_201_moeshd_CN_038,New Year's blessing,"Happy New Year, Baws! The Penguin Logistics girls're countin' on yer business. And my hammer and shield'll keep yer goodies safe wherever they need to go. Hehe, if'n ya trust me enough, feel free to cut out Emperor and send the job straight to me!",老板新年快乐！企鹅物流今年的生意也请您多多关照！我的锤头和盾牌永远为您的货物保驾护航！哈哈，如果您信任我的话，也欢迎绕过大帝直接派任务给我哟！,"С новым годом, босс! И в этом году прошу продолжать доверять Пингвин Логистикс! Мой молот и щит всегда защитят ваш груз! Ха-ха, если вы мне доверяете, можете обойти Императора и давать задания напрямую мне!"
+char_201_moeshd_CN_042,Greeting,"Howdy, Baws!",老板~欢迎光临！,"Здравствуйте, босс~ Добро пожаловать!"
+char_201_moeshd_CN_043,Birthday,"Shhh! Rise n' shine, Baws. Get'cher clothes on! We gotta move before the others wake up. Texas's got the engine runnin', and Exusiai's talkin' about a champaign buffet with all the rubber bullets we'n shoot. Relax, Baws, we know a thing or two about birthday parties.",嘘！博士，趁现在大家都还没醒，快换好衣服。德克萨斯的车已经在等着了，能天使的香槟和橡皮弹头管够。让我们去最近的城市里大闹一场吧！放心，在策划生日派对方面，我可是专业的！,"Тсс! Доктор, пока все не проснулись, быстрее переодевайтесь. Машина Техас уже ждёт, у Эксузай шампанского и резиновых пуль навалом. Устроим в ближайшем городе настоящий переполох! Не волнуйтесь, я профи в организации дней рождения!"
+char_201_moeshd_CN_044,Anniversary Celebration,"Even yer most carefully-laid plan ain't gonna carry you outta the swamp when yer all stuck in it. That's when ya come lookin' fer the unstoppable force! Hold the shiny equipment! That's the reason Rhodes Island n' Penguin Logistics're like two peas in a pod! Here's to keepin' that unstoppable force rollin', Baws!",面对数不清的麻烦，顾虑太多也没法做得更好。做事情更需要一往无前的气势而非精良的装备！在这方面罗德岛和企鹅物流倒是很像，所以我们的合作才能这么顺利嘛！老板，祝我们继续合作愉快！,"Когда неприятностей не счесть, лишние сомнения не помогут. Нужна не отличная экипировка, а напористость! В этом Родос и Пингвин Логистикс очень похожи — поэтому мы так ладно работаем! Босс, давай и дальше сотрудничать с удовольствием!"

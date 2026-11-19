@@ -1,39 +1,39 @@
-id,title,original,translation
-char_155_tiger_CN_001,Appointed as Assistant,"If you got enemies about, just scream. I'll keep ya safe.",
-char_155_tiger_CN_002,Talk 1,"Where's that kid gone off to? Y'know, her... the really tanned shorty who's always trailing our Master... 'Morgan' is her nam- Oi! Stop right there!",
-char_155_tiger_CN_003,Talk 2,"You scratch my back, I'll scratch yours, we keep it real that way, yeah? You treat me with respect, I'll do the same for you.",
-char_155_tiger_CN_004,Talk 3,"Seems our Majesty's really into your place. Don't see that every day, seeing as we're never anywhere same for long.",
-char_155_tiger_CN_005,Talk after Promotion 1,"Work or what have ya, you've gotta have guts!",
-char_155_tiger_CN_006,Talk after Promotion 2,"Whoa, whoa, chew before you swallow, mate! HEY! SOMEONE BRING US MORE MEAT! This girl's got an empty belly to fill!",
-char_155_tiger_CN_007,Talk after Trust Increase 1,"Bleeding Morgan... she might seem like a layabout mostly, but she's our tactician when push comes to shove. Gets the job done. Gets on my nerves otherwise, though, and she loves it. Tch...",
-char_155_tiger_CN_008,Talk after Trust Increase 2,"Doesn't she look brilliant, like a liege with a hammer in hand? I'm even more keen to see the look of her holding a sword, though.",
-char_155_tiger_CN_009,Talk after Trust Increase 3,"Out with it! Don't beat around the bush, just say it: who do you want dealt with?",
-char_155_tiger_CN_010,Idle,Tch. look at you spacing out like an idiot... Your own bloody fault if a tiger bites you.,
-char_155_tiger_CN_011,Onboard,I'm Indra. I don't have any of those weird crazy powers -- I let my fists do the talking. Nice to meet ya!,
-char_155_tiger_CN_012,Watching Battle Record,"Niiice, this is good stuff.",
-char_155_tiger_CN_013,Promotion 1,"Promotions are great, almost as great as fighting is!",
-char_155_tiger_CN_014,Promotion 2,Don't be afraid. I'll protect ya.,
-char_155_tiger_CN_017,Added to Squad,Where's the battlefield?,
-char_155_tiger_CN_018,Appointed as Squad Leader,"So, who's in the market for a walloping?",
-char_155_tiger_CN_019,Depart,Mind your own sodding business and let me be!,
-char_155_tiger_CN_020,Begin Operation,Come on! Show me what you've got!,
-char_155_tiger_CN_021,Selecting Operator 1,Oi!,
-char_155_tiger_CN_022,Selecting Operator 2,"Get on with it, plod!",
-char_155_tiger_CN_023,Deployment 1,Haha!,
-char_155_tiger_CN_024,Deployment 2,"All right, it's my turn!",
-char_155_tiger_CN_025,In Battle 1,You bastard!,
-char_155_tiger_CN_026,In Battle 2,Nothing can stop me!,
-char_155_tiger_CN_027,In Battle 3,You're dead meat!,
-char_155_tiger_CN_028,In Battle 4,Give it up!,
-char_155_tiger_CN_029,4-star Result,That's the stuff! That's what I call a kick!,
-char_155_tiger_CN_030,3-star Result,You don't go home happy without some bloodshed!,
-char_155_tiger_CN_031,Sub 3-star Result,"Tch, we've got some who fled. Bunch of cowards.",
-char_155_tiger_CN_032,Operation Failure,Not bad... But I'll get you back for this!,
-char_155_tiger_CN_033,Assigned to Facility,What's this room about? More of a squeeze than anywhere I've been.,
-char_155_tiger_CN_034,Tap,Oi! You got a bleedin' death wish?,
-char_155_tiger_CN_036,Trust Tap,"C'mere, lemme get my arms around you! Yes, I mean hug you!",
-char_155_tiger_CN_037,Title,Arknights.,
-char_155_tiger_CN_038,New Year's blessing,"Ooh! Gotcher end-of-year bonus? Haha, I must be due for one too, scrapping so much on your behalf! You and me, we're fellows now, no two ways about it! Get up, I'm taking you out for food!",
-char_155_tiger_CN_042,Greeting,"What's up, Doctor!",
-char_155_tiger_CN_043,Birthday,"Hah, it's your birthday today, then. Here's a prezzie: these brass knuckles. They're the tiger's choice, get all your average muckers done and dusted! You should learn to watch yourself too, I say. Can't always count on me being there when you're in danger, right? Still, if I'm around and anyone picks on you, their arse is good as kicked!",
-char_155_tiger_CN_044,Anniversary Celebration,"Vina trusts Rhodes Island. That's why I take orders from you, no hesitation. But you listen here, Doctor. You need to feel the weight of that trust. Else I'll make you feel it, even if I need my fists to do it—and I don't mean wanting to scrap with you. But you just keep what I've said in mind.",
+id,title,original,original_zh,translation
+char_155_tiger_CN_001,Appointed as Assistant,"If you got enemies about, just scream. I'll keep ya safe.",要是有敌人就大声喊，老子我会保护你。,"Появится враг — кричи, я тебя прикрою."
+char_155_tiger_CN_002,Talk 1,"Where's that kid gone off to? Y'know, her... the really tanned shorty who's always trailing our Master... 'Morgan' is her nam- Oi! Stop right there!",那家伙跑哪去了？总是跟在主子身边，矮矮的又晒得很黑，名字叫“摩根”的家伙……啊！别跑！,"Куда это она побежала? Та, что смуглая и низенькая, вечно за нашей госпожой ходит... «Морган» её зовут — а, стой!"
+char_155_tiger_CN_003,Talk 2,"You scratch my back, I'll scratch yours, we keep it real that way, yeah? You treat me with respect, I'll do the same for you.",你帮我，我帮你，理所当然的吧。你要是尊重我，我就不会怠慢你。,"Ты помогаешь мне, я помогаю тебе — так и надо, верно? Если ты меня уважаешь, я тебя не подведу."
+char_155_tiger_CN_004,Talk 3,"Seems our Majesty's really into your place. Don't see that every day, seeing as we're never anywhere same for long.",我家主子好像还挺喜欢你这里的。还真是稀奇事啊，我们很少在同个地方停留太久的。,"Кажется, нашей госпоже у вас нравится. Редкость: мы редко подолгу задерживаемся на одном месте."
+char_155_tiger_CN_005,Talk after Promotion 1,"Work or what have ya, you've gotta have guts!",不管做什么工作，都得拿出气势。,За какое бы дело ни браться — нужна удаль!
+char_155_tiger_CN_006,Talk after Promotion 2,"Whoa, whoa, chew before you swallow, mate! HEY! SOMEONE BRING US MORE MEAT! This girl's got an empty belly to fill!",哦~哦~不要着急慢慢吃吧~喂！给我再拿些肉吧！就这点，完全不够这孩子吃！,"Ой, ой, не торопись, жуй как следует! Эй! Принесите нам ещё мяса! Этой девчонке надо подзаправиться!"
+char_155_tiger_CN_007,Talk after Trust Increase 1,"Bleeding Morgan... she might seem like a layabout mostly, but she's our tactician when push comes to shove. Gets the job done. Gets on my nerves otherwise, though, and she loves it. Tch...",摩根那笨蛋，别看总是游手好闲的，她好歹算是给我们出谋划策的，该做的事还是会去做，虽然大多数时间都在给我捣乱。啧……！,"Морган-дурачок: с виду лентяйка, а по делу она у нас и вправду стратег. Справляется. Только вот большую часть времени мне нервы мотает — и нравится ей это. Тьфу...!"
+char_155_tiger_CN_008,Talk after Trust Increase 2,"Doesn't she look brilliant, like a liege with a hammer in hand? I'm even more keen to see the look of her holding a sword, though.",单手拿锤威风凛凛的王，帅吧？但老子我，还是更期待她用剑的样子哪。,"Глянь, какая величественная — королева с молотом в руке, красиво? А я всё равно больше хочу увидеть её с мечом."
+char_155_tiger_CN_009,Talk after Trust Increase 3,"Out with it! Don't beat around the bush, just say it: who do you want dealt with?",尽管开口！不用考虑那么多，就吩咐吧，你想解决谁？,"Говори прямо! Не ходи вокруг, скажи: кого мне убрать?"
+char_155_tiger_CN_010,Idle,Tch. look at you spacing out like an idiot... Your own bloody fault if a tiger bites you.,哼。放松警惕了吗？就算你被老虎吃掉，我也不管哦。,"Тьфу. Расслабилась, да? А тебя тигр съест — я и пальцем не шевельну."
+char_155_tiger_CN_011,Onboard,I'm Indra. I don't have any of those weird crazy powers -- I let my fists do the talking. Nice to meet ya!,老子是因陀罗，没什么乱七八糟的能力，干架靠的就是这双拳头。那么，请多关照！,"Я — Индра. Никаких странных способностей, дерусь вот этими кулаками. Приятно познакомиться!"
+char_155_tiger_CN_012,Watching Battle Record,"Niiice, this is good stuff.",哦，这个不错，我喜欢。,"О, это ничего, нравится."
+char_155_tiger_CN_013,Promotion 1,"Promotions are great, almost as great as fighting is!",晋升固然好，打架也不赖！,"Повышение — это хорошо, но подраться тоже недурно!"
+char_155_tiger_CN_014,Promotion 2,Don't be afraid. I'll protect ya.,别怕，我能保护你。,"Не бойся, я тебя защищу."
+char_155_tiger_CN_017,Added to Squad,Where's the battlefield?,战场在哪？,Где поле боя?
+char_155_tiger_CN_018,Appointed as Squad Leader,"So, who's in the market for a walloping?",又是谁想要挨揍？,"Так, кто теперь хочет получить по роже?"
+char_155_tiger_CN_019,Depart,Mind your own sodding business and let me be!,你们干你们的活，没事别管我！,"Занимайтесь своими делами, не лезьте ко мне!"
+char_155_tiger_CN_020,Begin Operation,Come on! Show me what you've got!,放马过来吧！,"Ну же! Покажи, на что ты годен!"
+char_155_tiger_CN_021,Selecting Operator 1,Oi!,嘿！,Эй!
+char_155_tiger_CN_022,Selecting Operator 2,"Get on with it, plod!",别拖拖拉拉的！,Не тяни!
+char_155_tiger_CN_023,Deployment 1,Haha!,哈哈！,Ха-ха!
+char_155_tiger_CN_024,Deployment 2,"All right, it's my turn!",好，轮到我了！,"Ладно, моя очередь!"
+char_155_tiger_CN_025,In Battle 1,You bastard!,你这个混球！,Негодник!
+char_155_tiger_CN_026,In Battle 2,Nothing can stop me!,有什么好怕的！,Что мне может помешать!
+char_155_tiger_CN_027,In Battle 3,You're dead meat!,你玩完了！,Ты готов к концу!
+char_155_tiger_CN_028,In Battle 4,Give it up!,没用！,Сдавайся!
+char_155_tiger_CN_029,4-star Result,That's the stuff! That's what I call a kick!,过瘾！太过瘾了！,Вот это да! Вот это удар!
+char_155_tiger_CN_030,3-star Result,You don't go home happy without some bloodshed!,不见红，不畅快！,Без крови — не весело!
+char_155_tiger_CN_031,Sub 3-star Result,"Tch, we've got some who fled. Bunch of cowards.",嘁，有人逃跑了，扫兴。,"Тьфу, кто-то удрал. Скучно."
+char_155_tiger_CN_032,Operation Failure,Not bad... But I'll get you back for this!,你，不错嘛，给我等着——！,Ты недурён... только ты у меня ещё поплатишься —!
+char_155_tiger_CN_033,Assigned to Facility,What's this room about? More of a squeeze than anywhere I've been.,这房间怎么回事啊，比我过去待的要窄好多。,"Что за комната, теснее, чем где я раньше бывала."
+char_155_tiger_CN_034,Tap,Oi! You got a bleedin' death wish?,喂，敢动我，把你打飞哦！,"Эй, ты что, жизнь свою потерял? Тронешь меня — отправлю летать!"
+char_155_tiger_CN_036,Trust Tap,"C'mere, lemme get my arms around you! Yes, I mean hug you!",来吧！拥抱一下！对，就是拥抱的那个意思！,"Иди сюда, дай я тебя обниму! Да, именно обниму!"
+char_155_tiger_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_155_tiger_CN_038,New Year's blessing,"Ooh! Gotcher end-of-year bonus? Haha, I must be due for one too, scrapping so much on your behalf! You and me, we're fellows now, no two ways about it! Get up, I'm taking you out for food!",喔！有年终奖金吗？哈哈，也该有我一份吧，都帮你打过那么多次架啦，再怎么说都是同伴了，对吧！走，我请你吃一顿！,"Ого! Годовая премия есть? Ха, и мне причитается — столько раз за тебя дралась! Мы с тобой теперь свои, это уже не обсуждается! Вставай, я тебя угощу!"
+char_155_tiger_CN_042,Greeting,"What's up, Doctor!",哟！博士。,"Что нового, Доктор!"
+char_155_tiger_CN_043,Birthday,"Hah, it's your birthday today, then. Here's a prezzie: these brass knuckles. They're the tiger's choice, get all your average muckers done and dusted! You should learn to watch yourself too, I say. Can't always count on me being there when you're in danger, right? Still, if I'm around and anyone picks on you, their arse is good as kicked!",哈，今天是你的生日啊。这副指虎送给你，用它对付一般的喽啰绰绰有余了！我说，你也该学着保护自己了，不能指望每次遇到危险的时候我都在你身边吧？当然，有我在的时候，谁都别想欺负你！,"Ха, сегодня у тебя день рождения. Дарю вот эти кастеты — с их помощью с любым мелким хулиганом справишься! Пора бы тебе и самой учиться за себя стоять, правда? Нельзя же всегда рассчитывать, что я рядом. Но пока я здесь — никому тебя не дам в обиду!"
+char_155_tiger_CN_044,Anniversary Celebration,"Vina trusts Rhodes Island. That's why I take orders from you, no hesitation. But you listen here, Doctor. You need to feel the weight of that trust. Else I'll make you feel it, even if I need my fists to do it—and I don't mean wanting to scrap with you. But you just keep what I've said in mind.",维娜相信罗德岛。所以你下的命令，我会毫不犹豫地去做。但是听好了博士，你必须牢牢记着这种信任的分量。否则，就算用拳头我也要提醒你——不是要和你干架的意思。总之，你要记得我说的话。,"Вина доверяет Родосу. Поэтому я без колебаний исполняю твои приказы. Но слушай, Доктор: ты обязан помнить, какова цена этого доверия. Иначе я напомню тебе её кулаками — я не о том, что хочу с тобой драться. Просто запомни, что я сказала."

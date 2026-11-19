@@ -1,35 +1,35 @@
-id,title,original,translation
-char_210_stward_CN_001,Appointed as Assistant,"Welcome back, Doctor. Steward at your service.",
-char_210_stward_CN_002,Talk 1,"Steward is my surname, as well as my Operator codename. Doctor, I'm sure you can tell from it what my ancestors did for a living.",
-char_210_stward_CN_003,Talk 2,"I didn't expect to see another from my clan here. Is she looking for someone? I know how that feels... Oh, never mind.",
-char_210_stward_CN_004,Talk 3,"People often say our fur has the 'color of snow.' Doctor, have you ever seen snow?",
-char_210_stward_CN_005,Talk after Promotion 1,"Lava has a very distinct fighting style. I thought she was going to cast with her book, but her real Arts Unit is a dagger. Her style reminds me of the mystic who taught me Arts.",
-char_210_stward_CN_007,Talk after Trust Increase 1,"It is my honor to work for you, Doctor. But if possible, I do hope you pay some extra care to Melantha. She's always alone…",
-char_210_stward_CN_008,Talk after Trust Increase 2,Adnachiel is a mysterious one... No one can tell what he is thinking.,
-char_210_stward_CN_009,Talk after Trust Increase 3,"Ansel... It's okay... I stopped caring about my identity as an Infected long ago. In fact, I received a lot of help because of it. Before the infection takes away what's dear to me, I will use it to create a place where everyone can live in peace.",
-char_210_stward_CN_010,Idle,"Are you tired? Do take a good rest, Doctor. Rhodes Island will need your skills tomorrow.",
-char_210_stward_CN_011,Onboard,Caster Steward reporting in. I'm glad to be working with you.,
-char_210_stward_CN_012,Watching Battle Record,I have learned a lot. Thank you.,
-char_210_stward_CN_013,Promotion 1,I'm glad that you are satisfied with my work. Instructor Dobermann will be happy too.,
-char_210_stward_CN_017,Added to Squad,What can I do for you?,
-char_210_stward_CN_018,Appointed as Squad Leader,"Cardigan, always read the situation before you act.",
-char_210_stward_CN_019,Depart,"Well, I'll be sure to bring you some good news.",
-char_210_stward_CN_020,Begin Operation,They probably won't make it to tomorrow.,
-char_210_stward_CN_021,Selecting Operator 1,Awarting orders.,
-char_210_stward_CN_022,Selecting Operator 2,Gladly!,
-char_210_stward_CN_023,Deployment 1,Got it.,
-char_210_stward_CN_024,Deployment 2,Understood.,
-char_210_stward_CN_025,In Battle 1,Freeze!,
-char_210_stward_CN_026,In Battle 2,Down you go.,
-char_210_stward_CN_029,4-star Result,"With the right strategy, we'll make it through any tight spot.",
-char_210_stward_CN_030,3-star Result,"A perfect victory. Good work, everyone!",
-char_210_stward_CN_031,Sub 3-star Result,"Ansel, please check the casualties for me. We must prepare for the next battle.",
-char_210_stward_CN_032,Operation Failure,Did we make a mistake somewhere...?,
-char_210_stward_CN_033,Assigned to Facility,"Is that you, Cardi— WAI-WAIT! WAIT! Don't touch the equipment!",
-char_210_stward_CN_034,Tap,Hmm?,
-char_210_stward_CN_036,Trust Tap,"Doctor, is there anything I can do for you?",
-char_210_stward_CN_037,Title,Arknights.,
-char_210_stward_CN_038,New Year's blessing,"Heavy snow always dominates Kjerag at this time of the year, burying everything from the last year beneath. With that, our calendar turns a new page. If possible, Doctor, I really wish to give you a tour of my hometown. But, the wilds there are dangerous on snowy days, and you'll need me as your guide.",
-char_210_stward_CN_042,Greeting,"Awaiting your instructions, Doctor.",
-char_210_stward_CN_043,Birthday,"Happy birthday, Doctor! And allow me to be your personal butler today! Steward, at your service.",
-char_210_stward_CN_044,Anniversary Celebration,"Had I not come to Rhodes Island, I would't have had the opportunity to continue my study on Originium Arts, let alone making friends with my teammates in Reserve Op Team A4. I will cherish all I have at present, for chances like these don't grow on trees. So, Doctor, let us keep up the hard work.",
+id,title,original,original_zh,translation
+char_210_stward_CN_001,Appointed as Assistant,"Welcome back, Doctor. Steward at your service.",欢迎回来，博士，史都华德为您效力。,"С возвращением, Доктор. Стюард к вашим услугам."
+char_210_stward_CN_002,Talk 1,"Steward is my surname, as well as my Operator codename. Doctor, I'm sure you can tell from it what my ancestors did for a living.",史都华德是我的姓氏，也是我作为干员的代号。如果是博士您的话，应该可以从这个姓氏中，解读出我的先祖所从事的职业。,"Стюард — и моя фамилия, и мой позывной. Доктор, вы, конечно, догадаетесь по ней, чем занимались мои предки."
+char_210_stward_CN_003,Talk 2,"I didn't expect to see another from my clan here. Is she looking for someone? I know how that feels... Oh, never mind.",没想到能在这里遇到我的同族。那个孩子是在寻找什么人吗？我能理解这种心情……啊，不，没什么。,"Не ожидал встретить здесь представителя своего рода. Та девушка ищет кого-то? Я понимаю это чувство... А, впрочем, неважно."
+char_210_stward_CN_004,Talk 3,"People often say our fur has the 'color of snow.' Doctor, have you ever seen snow?",人们常说我族的毛色是“雪的颜色”。博士，您，见过雪吗？,"Люди часто говорят, что наша шерсть «цвета снега». Доктор, вы когда-нибудь видели снег?"
+char_210_stward_CN_005,Talk after Promotion 1,"Lava has a very distinct fighting style. I thought she was going to cast with her book, but her real Arts Unit is a dagger. Her style reminds me of the mystic who taught me Arts.",炎熔小姐的战斗方式有些与众不同。我曾以为，她使用手中的书本来释放法术，没想到，真正的施术工具却是她的那把匕首。这样的战斗风格，让我想起了那位曾经教过我法术的通灵师。,"Лава дерется очень необычно. Я думал, она накладывает заклинания с помощью книги, а её настоящий инструмент — кинжал. Этот стиль напомнил мне мага, который некогда обучил меня Искусствам."
+char_210_stward_CN_007,Talk after Trust Increase 1,"It is my honor to work for you, Doctor. But if possible, I do hope you pay some extra care to Melantha. She's always alone…",能为博士服务，我感到非常荣幸。若是可以的话，我希望您能更多关照玫兰莎小姐一些。她，总是一个人……,"Мне честь служить вам, Доктор. Но если можно — уделите, пожалуйста, чуть больше внимания Меланте. Она всё одна..."
+char_210_stward_CN_008,Talk after Trust Increase 2,Adnachiel is a mysterious one... No one can tell what he is thinking.,安德切尔，真是让人捉摸不透……很难说清楚他平时到底在想些什么。,"Аднахиэль — загадочный человек... Никто не скажет, о чём он думает."
+char_210_stward_CN_009,Talk after Trust Increase 3,"Ansel... It's okay... I stopped caring about my identity as an Infected long ago. In fact, I received a lot of help because of it. Before the infection takes away what's dear to me, I will use it to create a place where everyone can live in peace.",安赛尔……请放心。事到如今，我早已不会在意自己感染者的身份了。不如说，我因此而获得了许多帮助。在它夺走我重要的东西之前，我会先利用它，为大家创造一个能安心生活的地方。,"Ансель... всё в порядке. Я давно перестал придавать значение тому, что я Инфицированный. Более того, благодаря этому я получил много помощи. Пока болезнь не отняла у меня дорогое, я использую её, чтобы создать место, где все могут жить спокойно."
+char_210_stward_CN_010,Idle,"Are you tired? Do take a good rest, Doctor. Rhodes Island will need your skills tomorrow.",累了吗？请多多休息吧，明天罗德岛也需要依靠博士您的力量。,"Устали? Отдыхайте как следует, Доктор — завтра Родосу снова понадобятся ваши способности."
+char_210_stward_CN_011,Onboard,Caster Steward reporting in. I'm glad to be working with you.,术师史都华德，从今天开始，还请您多多关照。,"Оперативник-кастер Стюард, на связи. С сегодняшнего дня прошу о руководстве."
+char_210_stward_CN_012,Watching Battle Record,I have learned a lot. Thank you.,我学到了很多东西。谢谢您。,Я многому научился. Благодарю вас.
+char_210_stward_CN_013,Promotion 1,I'm glad that you are satisfied with my work. Instructor Dobermann will be happy too.,我的工作成果能让您满意就足够了。杜宾老师也会很高兴吧。,"Мне достаточно, что моя работа вас удовлетворяет. Доберман тоже будет рада."
+char_210_stward_CN_017,Added to Squad,What can I do for you?,各位，有何种需求？,Что вам от меня нужно?
+char_210_stward_CN_018,Appointed as Squad Leader,"Cardigan, always read the situation before you act.",卡缇，行动之前要多注意气氛。,"Кардиган, всегда оценивай обстановку, прежде чем действовать."
+char_210_stward_CN_019,Depart,"Well, I'll be sure to bring you some good news.",那么，请您恭候佳音。,"Что ж, постараюсь принести вам добрые вести."
+char_210_stward_CN_020,Begin Operation,They probably won't make it to tomorrow.,他们，也许再没有机会看到明天的太阳了。,"Возможно, они больше не увидят восхода."
+char_210_stward_CN_021,Selecting Operator 1,Awarting orders.,请下令。,Жду приказаний.
+char_210_stward_CN_022,Selecting Operator 2,Gladly!,为您效劳。,С радостью!
+char_210_stward_CN_023,Deployment 1,Got it.,我知道了。,Понял.
+char_210_stward_CN_024,Deployment 2,Understood.,明白。,Ясно.
+char_210_stward_CN_025,In Battle 1,Freeze!,冻结吧！,Замри!
+char_210_stward_CN_026,In Battle 2,Down you go.,倒下吧。,Падни.
+char_210_stward_CN_029,4-star Result,"With the right strategy, we'll make it through any tight spot.",只要战术运用得当，我们能够打破任何艰难的局面。,При правильной тактике мы выйдем из любого затруднения.
+char_210_stward_CN_030,3-star Result,"A perfect victory. Good work, everyone!",这是完美的胜利。大家辛苦了！,"Победа без изъяна. Отличная работа, все!"
+char_210_stward_CN_031,Sub 3-star Result,"Ansel, please check the casualties for me. We must prepare for the next battle.",安赛尔，请确认伤者的情况，准备下一场战斗。,"Ансель, проверь пострадавших. Нам нужно готовиться к следующему бою."
+char_210_stward_CN_032,Operation Failure,Did we make a mistake somewhere...?,……哪里出了问题吗？,Где-то мы ошиблись...?
+char_210_stward_CN_033,Assigned to Facility,"Is that you, Cardi— WAI-WAIT! WAIT! Don't touch the equipment!",卡缇，你在那里吗……？等一下，别碰器材！,"Карди, это ты...? Постой-постой! Не трогай оборудование!"
+char_210_stward_CN_034,Tap,Hmm?,嗯？,М?
+char_210_stward_CN_036,Trust Tap,"Doctor, is there anything I can do for you?",有什么我能为您效劳的吗，博士？,"Чем я могу вам послужить, Доктор?"
+char_210_stward_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_210_stward_CN_038,New Year's blessing,"Heavy snow always dominates Kjerag at this time of the year, burying everything from the last year beneath. With that, our calendar turns a new page. If possible, Doctor, I really wish to give you a tour of my hometown. But, the wilds there are dangerous on snowy days, and you'll need me as your guide.",每年这个时候，谢拉格都会下大雪。将过去一年全部埋在厚厚的积雪下面，新的一年也就开始了。有机会的话，真想请博士去看看呢。当然，雪天的野外很危险，请让我为您带路。,"В это время года в Кьераге всегда идёт сильный снег: он засыпает собой весь прошлый год — и календарь переворачивает новую страницу. Если бы была возможность, я бы очень хотел показать Доктору свой родной край. Но в снежные дни в дикой местности опасно — позвольте мне быть вашим проводником."
+char_210_stward_CN_042,Greeting,"Awaiting your instructions, Doctor.",请多关照，博士。,"Прошу о руководстве, Доктор."
+char_210_stward_CN_043,Birthday,"Happy birthday, Doctor! And allow me to be your personal butler today! Steward, at your service.",博士，生日快乐！今天就请让我担任您的专属管家吧！史都华德，乐意为您效劳。,"Доктор, с днём рождения! Позвольте сегодня быть вашим личным дворецким! Стюард к вашим услугам."
+char_210_stward_CN_044,Anniversary Celebration,"Had I not come to Rhodes Island, I would't have had the opportunity to continue my study on Originium Arts, let alone making friends with my teammates in Reserve Op Team A4. I will cherish all I have at present, for chances like these don't grow on trees. So, Doctor, let us keep up the hard work.",如果没有来到罗德岛的话，就没有机会继续学习源石技艺，更重要的是，就不会认识A4行动组的大家。我知道这一切是多么地来之不易，我一定会珍惜的。博士，今后也请您多多关照！,"Если бы я не пришёл на Родос, у меня не было бы возможности продолжить изучение Искусств, не говоря уже о том, чтобы подружиться с ребятами из резервной группы A4. Я знаю, как это всё непросто досталось, и буду дорожить этим. Доктор, и впредь прошу о руководстве!"

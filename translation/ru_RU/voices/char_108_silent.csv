@@ -1,39 +1,39 @@
-id,title,original,translation
-char_108_silent_CN_001,Appointed as Assistant,"Doctor, these are your tasks for the day. Yeah. A whole pile of work. Let's get to it.",
-char_108_silent_CN_002,Talk 1,Is Ifrit making trouble again? Sorry. I'll discipline her later.,
-char_108_silent_CN_003,Talk 2,"Zzzzz… Sorry, I was taking a nap… I'm still not used to working during the day.",
-char_108_silent_CN_004,Talk 3,"My reasons for quitting Rhine Lab? So much happened since I signed on, I don't even know where to start…",
-char_108_silent_CN_005,Talk after Promotion 1,"Have you ever heard of a woman named Saria? Like me, she was once a scientist at Rhine Lab, and she was one of the people responsible for the creation of Ifrit…",
-char_108_silent_CN_006,Talk after Promotion 2,"Our biology research at Rhine Lab went so far as to implant Originium Shards into living bodies… Sorry, we'd better change the subject.",
-char_108_silent_CN_007,Talk after Trust Increase 1,"Saria? You mean she's here at Rhodes Island too? Is she here for Ifrit…? After she walked out on us like that, why would she come here right now…?!",
-char_108_silent_CN_008,Talk after Trust Increase 2,"I will not allow Ifrit to see Saria. Please trust me, this is for Ifrit's own good…!",
-char_108_silent_CN_009,Talk after Trust Increase 3,"Are you trying to cure Oripathy too? I heard that you were involved in the development of medical technology at Rhodes Island. Heheh… you must be looking forward to a breakthrough, as a researcher yourself.",
-char_108_silent_CN_010,Idle,…Asleep already? All right. I'll handle the rest of the work.,
-char_108_silent_CN_011,Onboard,"I am Olivia Silence, an Originium scientist from the Rhine Lab Medical Research Institute. My hope is to rid the world of Oripathy… even if it means risking my life in the process.",
-char_108_silent_CN_012,Watching Battle Record,I will make good use of this new power.,
-char_108_silent_CN_013,Promotion 1,Is my medicine effective? Wonderful. This news brings me even greater joy than my promotion.,
-char_108_silent_CN_014,Promotion 2,"Doctor, I am looking forward to the day when the world is finally cured of Oripathy. In fighting and studying with you, I think that day may not be far off.",
-char_108_silent_CN_017,Added to Squad,Understood. I'll focus on support.,
-char_108_silent_CN_018,Appointed as Squad Leader,"Come on, team, let's fight with all our might.",
-char_108_silent_CN_019,Depart,Originium… Are you to blame for this battle?,
-char_108_silent_CN_020,Begin Operation,Observe and determine the form of Infection. Such data will be useful for research.,
-char_108_silent_CN_021,Selecting Operator 1,"Doctor, let me do it.",
-char_108_silent_CN_022,Selecting Operator 2,No abnormality detected.,
-char_108_silent_CN_023,Deployment 1,Concentrate.,
-char_108_silent_CN_024,Deployment 2,Stay calm.,
-char_108_silent_CN_025,In Battle 1,I'll heal you.,
-char_108_silent_CN_026,In Battle 2,No need to panic.,
-char_108_silent_CN_027,In Battle 3,Deploying.,
-char_108_silent_CN_028,In Battle 4,Support incoming.,
-char_108_silent_CN_029,4-star Result,"In order to defeat stronger enemies, must we make further use of Originium's power…?",
-char_108_silent_CN_030,3-star Result,"Medical team, please take tissue samples from the Infected, we need to see the composition of the Infection in this area.",
-char_108_silent_CN_031,Sub 3-star Result,"All wounded personnel, please remain calm. The medical team will get to you.",
-char_108_silent_CN_032,Operation Failure,…Now is not the time for despair. We must withdraw immediately.,
-char_108_silent_CN_033,Assigned to Facility,This room… Ugh… It's like it's designed to make me sleepy!,
-char_108_silent_CN_034,Tap,Hmm?,
-char_108_silent_CN_036,Trust Tap,"Doctor, you're kinder these days.",
-char_108_silent_CN_037,Title,Arknights.,
-char_108_silent_CN_038,New Year's blessing,"Have you seen Ifrit, Doctor? They're shooting off fireworks outside, so I'm a little worried… Yes, I'm going back to the lab after I put her to bed. No, I haven't forgotten what day it is. This is just how I want to welcome the new year. Oh right, happy New Year.",
-char_108_silent_CN_042,Greeting,"Good day, Doctor.",
-char_108_silent_CN_043,Birthday,"Doctor, I have a proposal for your review: a new medical drone model. Oh, and I've heard it's your birthday. I didn't mean it like this, but hopefully you find it a practical gift.",
-char_108_silent_CN_044,Anniversary Celebration,"There's no lack of ambition and idealism in the field of life sciences… I myself was drawn by those ideals before I found my true calling. But thanks to Rhodes Island, I now know what I'm researching and fighting for.",
+id,title,original,original_zh,translation
+char_108_silent_CN_001,Appointed as Assistant,"Doctor, these are your tasks for the day. Yeah. A whole pile of work. Let's get to it.",博士，这些是今天的工作——是啊，堆积如山呢，一起加油吧。,"Доктор, вот ваши дела на сегодня... Да, целая гора. Давайте вместе справимся."
+char_108_silent_CN_002,Talk 1,Is Ifrit making trouble again? Sorry. I'll discipline her later.,伊芙利特又在闹了吗？抱歉，之后我会责备她的。,"Ифрит опять шалит? Простите, я потом её отругаю."
+char_108_silent_CN_003,Talk 2,"Zzzzz… Sorry, I was taking a nap… I'm still not used to working during the day.",Zzzzz……嗯？呃，我只是想小睡一下……果然还是不太适应在白天工作。,"Zzzzz... Мм? Э-э, я просто задремала... Всё равно не привыкла работать днём."
+char_108_silent_CN_004,Talk 3,"My reasons for quitting Rhine Lab? So much happened since I signed on, I don't even know where to start…",离开莱茵生命的理由？因为发生过很多事，我也不知道该从什么时候说起……,"Причины ухода из «Рейн Лаб»? Тогда столько всего случилось, что я даже не знаю, с чего начать..."
+char_108_silent_CN_005,Talk after Promotion 1,"Have you ever heard of a woman named Saria? Like me, she was once a scientist at Rhine Lab, and she was one of the people responsible for the creation of Ifrit…","塞雷娅这个名字,您听过吗？她以前和我一样，也是莱茵生命的科学家——然后，她也是让伊芙利特诞生的人之一……","Вы слышали имя Сария? Раньше она, как и я, была учёной в «Рейн Лаб» — и она также была одной из тех, кто дал жизнь Ифрит..."
+char_108_silent_CN_006,Talk after Promotion 2,"Our biology research at Rhine Lab went so far as to implant Originium Shards into living bodies… Sorry, we'd better change the subject.",莱茵生命所做的有关生命的研究，已经到了尝试将源石碎片植入身体的地步……对不起，我们还是换个话题吧。,"Исследования жизни в «Рейн Лаб» зашли так далеко, что пытались вживлять в тело осколки ориджиниума... Простите, давайте сменим тему."
+char_108_silent_CN_007,Talk after Trust Increase 1,"Saria? You mean she's here at Rhodes Island too? Is she here for Ifrit…? After she walked out on us like that, why would she come here right now…?!",塞雷娅？您说她在罗德岛？是来找伊芙利特吗……那时候她明明头也不回地就离开了，为什么现在还要……！,"Сария? Вы говорите, она на Родосе? Пришла к Ифрит?.. Тогда она ушла, даже не оглянувшись, — зачем же сейчас...!"
+char_108_silent_CN_008,Talk after Trust Increase 2,"I will not allow Ifrit to see Saria. Please trust me, this is for Ifrit's own good…!",我不会让伊芙利特见塞雷娅的。也请您相信，我这样做，是对伊芙利特好……！,"Я не позволю Ифрит встретиться с Сарией. И пожалуйста, поверьте: я делаю это ради её же блага...!"
+char_108_silent_CN_009,Talk after Trust Increase 3,"Are you trying to cure Oripathy too? I heard that you were involved in the development of medical technology at Rhodes Island. Heheh… you must be looking forward to a breakthrough, as a researcher yourself.",和我一样，您也在试图清除矿石病吗？听说罗德岛的医疗技术开发也与您有关。呵呵，对我们这些研究者来说，这真是让人憧憬呢。,"Вы тоже, как и я, пытаетесь искоренить орипатию? Слышала, разработка медицинских технологий на Родосе связана и с вами. Хе-хе, для нас, исследователей, это так вдохновляюще."
+char_108_silent_CN_010,Idle,…Asleep already? All right. I'll handle the rest of the work.,……博士，睡着了吗？算了，剩下的工作我来做吧。,"...Доктор, вы уснули? Ладно, остальное сделаю я."
+char_108_silent_CN_011,Onboard,"I am Olivia Silence, an Originium scientist from the Rhine Lab Medical Research Institute. My hope is to rid the world of Oripathy… even if it means risking my life in the process.",奥利维亚·赫默，莱茵生命医学研究所的源石研究者。清除这个世界上所有的矿石病，这是我的愿望，即使为此面临生命危险也不会改变。,"Оливия Сайленс, исследователь ориджиниума Медицинского института «Рейн Лаб». Моё желание — искоренить орипатию во всём мире, и я не отступлюсь, даже если это будет стоить мне жизни."
+char_108_silent_CN_012,Watching Battle Record,I will make good use of this new power.,我会好好运用这份新的力量。,Я как следует применю эту новую силу.
+char_108_silent_CN_013,Promotion 1,Is my medicine effective? Wonderful. This news brings me even greater joy than my promotion.,我开发的药物非常有效吗？太好了，比起晋升，这个消息更让我高兴。,"Мой препарат и правда эффективен? Отлично — эта новость радует меня больше, чем повышение."
+char_108_silent_CN_014,Promotion 2,"Doctor, I am looking forward to the day when the world is finally cured of Oripathy. In fighting and studying with you, I think that day may not be far off.",博士，我等待着，等待着从这片大地上彻底清除矿石病的那天，与您并肩作战，共同研究，这一天，也许终会到来……,"Доктор, я жду — жду того дня, когда орипатия будет полностью искоренена с этой земли. Сражаясь и исследуя вместе с вами, я верю, что этот день когда-нибудь настанет..."
+char_108_silent_CN_017,Added to Squad,Understood. I'll focus on support.,明白，我会做好支援工作。,"Понятно, я займусь поддержкой."
+char_108_silent_CN_018,Appointed as Squad Leader,"Come on, team, let's fight with all our might.",队员们，全力以赴地战斗吧。,"Команда, сражайтесь изо всех сил."
+char_108_silent_CN_019,Depart,Originium… Are you to blame for this battle?,这场战斗，也是源石的错吗？,И этот бой — тоже вина ориджиниума?
+char_108_silent_CN_020,Begin Operation,Observe and determine the form of Infection. Such data will be useful for research.,观察并确定他们的感染类型，这对实验很有用。,Наблюдайте и определяйте форму заражения — это пригодится для опыта.
+char_108_silent_CN_021,Selecting Operator 1,"Doctor, let me do it.",博士，让我去吧。,"Доктор, позвольте мне."
+char_108_silent_CN_022,Selecting Operator 2,No abnormality detected.,没有异常。,Отклонений нет.
+char_108_silent_CN_023,Deployment 1,Concentrate.,集中精力。,Сосредоточьтесь.
+char_108_silent_CN_024,Deployment 2,Stay calm.,保持冷静。,Сохраняйте спокойствие.
+char_108_silent_CN_025,In Battle 1,I'll heal you.,我会治好你的。,Я тебя вылечу.
+char_108_silent_CN_026,In Battle 2,No need to panic.,别慌张。,Не паникуй.
+char_108_silent_CN_027,In Battle 3,Deploying.,去吧。,Иди.
+char_108_silent_CN_028,In Battle 4,Support incoming.,帮助大家。,Помогаю всем.
+char_108_silent_CN_029,4-star Result,"In order to defeat stronger enemies, must we make further use of Originium's power…?",为了战胜比现在更强的敌人，我们难道也要更多利用源石的力量……吗？,"Чтобы победить более сильного врага, нам тоже придётся всё больше использовать силу ориджиниума...?"
+char_108_silent_CN_030,3-star Result,"Medical team, please take tissue samples from the Infected, we need to see the composition of the Infection in this area.",医疗组请马上进行组织采取，这将成为此地区的感染样本。,"Медгруппа, немедленно возьмите образцы тканей — они станут материалом для исследования заражения в этом районе."
+char_108_silent_CN_031,Sub 3-star Result,"All wounded personnel, please remain calm. The medical team will get to you.",请伤者冷静下来，医疗组会为各位进行治疗。,"Раненые, сохраняйте спокойствие — медгруппа окажет вам помощь."
+char_108_silent_CN_032,Operation Failure,…Now is not the time for despair. We must withdraw immediately.,……现在不是沮丧的时候，我们必须立刻撤退。,...Сейчас не время отчаиваться. Мы должны немедленно отступить.
+char_108_silent_CN_033,Assigned to Facility,This room… Ugh… It's like it's designed to make me sleepy!,这个房间……糟糕，是那种会让人产生睡意的设计风格！,"Эта комната... о нет, её стиль расположен к тому, что хочется спать!"
+char_108_silent_CN_034,Tap,Hmm?,嗯？,Мм?
+char_108_silent_CN_036,Trust Tap,"Doctor, you're kinder these days.",博士，您最近变得更温柔了呢。,"Доктор, в последнее время вы стали добрее."
+char_108_silent_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_108_silent_CN_038,New Year's blessing,"Have you seen Ifrit, Doctor? They're shooting off fireworks outside, so I'm a little worried… Yes, I'm going back to the lab after I put her to bed. No, I haven't forgotten what day it is. This is just how I want to welcome the new year. Oh right, happy New Year.",博士，您看到伊芙利特了吗？外面在放烟花，我很担心……嗯，带她回房间睡觉之后，我打算去实验室。我没有忘记这是什么日子，只是想用这种方式来面对新的一年，面对未来。新年快乐。,"Доктор, вы не видели Ифрит? На улице фейерверки — я беспокоюсь... Мм, уложу её спать и пойду в лабораторию. Я не забыла, какой сегодня день — просто хочу встретить новый год и будущее вот так. С новым годом."
+char_108_silent_CN_042,Greeting,"Good day, Doctor.",您好，博士。,"Здравствуйте, Доктор."
+char_108_silent_CN_043,Birthday,"Doctor, I have a proposal for your review: a new medical drone model. Oh, and I've heard it's your birthday. I didn't mean it like this, but hopefully you find it a practical gift.",博士，这是一份医疗无人机的改进设计方案，请您衡量它投入战场的战术价值……另外，我听说了，今天是您的生日。虽然并非刻意为之，但我希望这是一份有实用价值的礼物。,"Доктор, это проект усовершенствования медицинского дрона — оцените его тактическую ценность для поля боя... Ещё я слышала, что сегодня ваш день рождения. Пусть это и не было задумано специально, но я надеюсь, что подарок окажется полезным."
+char_108_silent_CN_044,Anniversary Celebration,"There's no lack of ambition and idealism in the field of life sciences… I myself was drawn by those ideals before I found my true calling. But thanks to Rhodes Island, I now know what I'm researching and fighting for.",以我所接触到的而言，生命科学领域绝不缺乏大胆冒进的理想……在找到自己真正的愿望之前，我也曾被那种理想吸引。但现在，感谢罗德岛，我很清楚自己在研究什么，要与什么作战。,"Насколько я знаю, в науках о жизни никогда не было недостатка в дерзких идеях... Пока я не нашла своё настоящее желание, я тоже увлекалась такими идеями. Но сейчас, благодаря Родосу, я точно знаю, что исследую и против чего сражаюсь."

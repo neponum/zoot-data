@@ -1,39 +1,39 @@
-id,title,original,translation
-char_202_demkni_CN_001,Appointed as Assistant,I've checked your schedule. Isn't it time you took a break? If you'll excuse me.,
-char_202_demkni_CN_002,Talk 1,"Evolution is the law of nature. But Rhine Lab attempted to tamper with this law, even to take control of it. What a foolish endeavor…",
-char_202_demkni_CN_003,Talk 2,"As a researcher, have you ever participated in some experiments you probably shouldn't have? No? That's good.",
-char_202_demkni_CN_004,Talk 3,Don't you think it's too noisy at Rhodes Island? Everyone should be quiet and focused during work. You should enforce discipline on your subordinates.,
-char_202_demkni_CN_005,Talk after Promotion 1,"My true power has nothing to do with first aid. However, I have slightly adjusted the operation of this power to accommodate it to your command.",
-char_202_demkni_CN_006,Talk after Promotion 2,"You think Calcification Arts only makes organisms weaker? You're wrong. I can condense calcium into a tough enamel. The enemies can try as they want, but no one can break my shield.",
-char_202_demkni_CN_007,Talk after Trust Increase 1,"You've seen me arguing with Silence? Yes, we do that a lot... Sorry for causing trouble for you and Rhodes Island.",
-char_202_demkni_CN_008,Talk after Trust Increase 2,"Please tell Ifrit on my behalf, 'No matter what happens, I will protect you'... Meet her? No, I'm not ready for that.",
-char_202_demkni_CN_009,Talk after Trust Increase 3,"Even in the most desperate of situations, one must stand fast to be a symbol of strength for the people they hold dear. That is where I draw my line and how I live my life. You'll do the same, won't you?",
-char_202_demkni_CN_010,Idle,I'll go back to my room if there's no further assignments.,
-char_202_demkni_CN_011,Onboard,"I am Saria, formerly of the Rhine Lab Medical Research Institute Experiment Team. As for now... I need Rhodes Island's help to bring the astray back to the orthodox.",
-char_202_demkni_CN_012,Watching Battle Record,What are you doing?,
-char_202_demkni_CN_013,Promotion 1,"Good, you must continue motivating your subordinates with your ideas if you hope to maintain influence over them.",
-char_202_demkni_CN_014,Promotion 2,"Promotion? I don't want any special treatment. But for Ifrit's sake, I do need your help to correct all those twisted laws and rules.",
-char_202_demkni_CN_017,Added to Squad,I am within my rights to oversee and bring up my own opinion on your command.,
-char_202_demkni_CN_018,Appointed as Squad Leader,"Send me the operation briefing, I will review it.",
-char_202_demkni_CN_019,Depart,All operators must maintain strict discipline.,
-char_202_demkni_CN_020,Begin Operation,Are they the ones who caused such destruction and started all this conflict?,
-char_202_demkni_CN_021,Selecting Operator 1,It's my turn.,
-char_202_demkni_CN_022,Selecting Operator 2,Suppress them.,
-char_202_demkni_CN_023,Deployment 1,Forward.,
-char_202_demkni_CN_024,Deployment 2,Vermin.,
-char_202_demkni_CN_025,In Battle 1,Just who are you weaklings going to stop like that?,
-char_202_demkni_CN_026,In Battle 2,This will be over soon.,
-char_202_demkni_CN_027,In Battle 3,Solidify.,
-char_202_demkni_CN_028,In Battle 4,Yielding is not an option.,
-char_202_demkni_CN_029,4-star Result,"Your tactics appear modern, yet the ideas behind them are primitive at their roots. Just who are you?",
-char_202_demkni_CN_030,3-star Result,All must return to the existing order. None may disobey the rules.,
-char_202_demkni_CN_031,Sub 3-star Result,The routed enemies may be calling for reinforcements. We must not drop our guard before we find the last of them.,
-char_202_demkni_CN_032,Operation Failure,Where did I go wrong...?,
-char_202_demkni_CN_033,Assigned to Facility,"This room has interesting decor. I'd be more fond of a futuristic style, though.",
-char_202_demkni_CN_034,Tap,Hm? What?,
-char_202_demkni_CN_036,Trust Tap,"Doctor, you might do a bit of research into the past in your free time. You will find many a thing of great interest.",
-char_202_demkni_CN_037,Title,Arknights.,
-char_202_demkni_CN_038,New Year's blessing,"Life is the accumulation of maturity. Hone yourself well in the coming year, {@nickname}.",
-char_202_demkni_CN_042,Greeting,"Doctor, are you well?",
-char_202_demkni_CN_043,Birthday,"According to the rota, you have a workday today. I'll tell any operators who come with gifts to wait to celebrate until you're done with work. The gifts, I'll accept on your behalf and place at the entrance. I'll be placing my present among them as well. Happy birthday, Doctor. Time to get to work.",
-char_202_demkni_CN_044,Anniversary Celebration,"The founding of regulations and traditions symbolizes that they might be broken, and it is not my job to judge nor to punish, but simply to see disorder rewound to order and chaos returned to organization. The road is a challenging one, but I won't be stopped.",
+id,title,original,original_zh,translation
+char_202_demkni_CN_001,Appointed as Assistant,I've checked your schedule. Isn't it time you took a break? If you'll excuse me.,我看过你的排班日程，现在确实是休息时间吧？那么，多有打扰。,Я посмотрела ваше расписание. Сейчас ведь время отдыха? Простите за беспокойство.
+char_202_demkni_CN_002,Talk 1,"Evolution is the law of nature. But Rhine Lab attempted to tamper with this law, even to take control of it. What a foolish endeavor…",万物的演化本就是不可动摇的自然法则。莱茵生命却妄图修改它，甚至想要支配它，多么愚蠢的图谋……,"Эволюция всего сущего — незыблемый закон природы. Но Рейн Лаб попыталась изменить этот закон, даже подчинить его себе. Какой глупый замысел..."
+char_202_demkni_CN_003,Talk 2,"As a researcher, have you ever participated in some experiments you probably shouldn't have? No? That's good.",作为研究者，你是否也参与过一些不应触碰的实验？没有的话，自然最好。,"Будучи исследователем, вы участвовали в опытах, которых лучше было не касаться? Нет? Тем лучше."
+char_202_demkni_CN_004,Talk 3,Don't you think it's too noisy at Rhodes Island? Everyone should be quiet and focused during work. You should enforce discipline on your subordinates.,你不觉得罗德岛太喧闹了吗？工作中就该保持安静、专注。你该严格管束你的部下。,"Вам не кажется, что на Родосе слишком шумно? За работой следует соблюдать тишину и сосредоточенность. Вам стоит строже требовать этого от подчинённых."
+char_202_demkni_CN_005,Talk after Promotion 1,"My true power has nothing to do with first aid. However, I have slightly adjusted the operation of this power to accommodate it to your command.",我真正的能力，与急救这种行为并无关联。不过，为了配合你的战术指挥，我简单地调整了这个能力的使用方法。,"Моя настоящая способность не имеет отношения к первой помощи. Однако я несколько изменила способ её применения, чтобы подчинить его вашему тактическому командованию."
+char_202_demkni_CN_006,Talk after Promotion 2,"You think Calcification Arts only makes organisms weaker? You're wrong. I can condense calcium into a tough enamel. The enemies can try as they want, but no one can break my shield.",你是不是以为，钙质化法术会让生物变得脆弱？错了，我可以将钙精炼成坚硬的珐琅质。就让敌人试试看吧，没人摧毁得了我的防壁。,"Вы думаете, кальцификационные чары делают живое хрупким? Вы неправы. Я могу сгустить кальций в твёрдую эмаль. Пусть враги пытаются — никто не разрушит мой щит."
+char_202_demkni_CN_007,Talk after Trust Increase 1,"You've seen me arguing with Silence? Yes, we do that a lot... Sorry for causing trouble for you and Rhodes Island.",你看到了我和赫默吵架？家常便饭而已……抱歉，给你和罗德岛带来了麻烦。,"Вы видели, как я спорила с Сайленс? Да, такое у нас часто... Простите за неудобства, которые я причинила вам и Родосу."
+char_202_demkni_CN_008,Talk after Trust Increase 2,"Please tell Ifrit on my behalf, 'No matter what happens, I will protect you'... Meet her? No, I'm not ready for that.",请你帮我转告伊芙利特，“无论今后发生什么，我都会保护你”……见面？不，我还没准备好去见她。,"Передайте, пожалуйста, Ифрит от моего имени: «Что бы ни случилось впредь, я защищу тебя». Встретиться? Нет, я ещё не готова."
+char_202_demkni_CN_009,Talk after Trust Increase 3,"Even in the most desperate of situations, one must stand fast to be a symbol of strength for the people they hold dear. That is where I draw my line and how I live my life. You'll do the same, won't you?",即使身处绝境，也要将自己傲然挺立的身姿，永远地刻在重要的人眼中。这是我的底线，也是我生存的准则。你也会这样去做的，对吗？,"Даже в отчаянном положении нужно оставаться гордо стоящим — ради тех, кто дорог. Это моя черта, по которой я не переступаю, и правило, по которому я живу. Вы тоже так поступите, верно?"
+char_202_demkni_CN_010,Idle,I'll go back to my room if there's no further assignments.,如果没有其他任务需要处理，我就先一步返回自己的房间了。,"Если других заданий нет, я вернусь к себе в комнату."
+char_202_demkni_CN_011,Onboard,"I am Saria, formerly of the Rhine Lab Medical Research Institute Experiment Team. As for now... I need Rhodes Island's help to bring the astray back to the orthodox.",塞雷娅，原莱茵生命研究所实验组成员。至于现在……为了让偏离传统的事物回归正途，我需要罗德岛的协助。,"Сария, бывший сотрудник экспериментальной группы НИИ Рейн Лаб. Что до настоящего... чтобы вернуть сошедшее с пути к истокам, мне нужна помощь Родоса."
+char_202_demkni_CN_012,Watching Battle Record,What are you doing?,你在干什么？,Что вы делаете?
+char_202_demkni_CN_013,Promotion 1,"Good, you must continue motivating your subordinates with your ideas if you hope to maintain influence over them.",很好，如果想保持对下属的影响力，你必须时刻用自己的想法去推动他们。,"Хорошо. Если хотите сохранить влияние на подчинённых, вы должны постоянно подталкивать их своими идеями."
+char_202_demkni_CN_014,Promotion 2,"Promotion? I don't want any special treatment. But for Ifrit's sake, I do need your help to correct all those twisted laws and rules.",晋升？我并不希望这是种特殊对待。只是，为了那个孩子，我确实需要你的协助，直到那些被扭曲过的法则，全都被修正为止……！,"Повышение? Я не хочу, чтобы это было особое исключение. Но ради того ребёнка мне действительно нужна ваша помощь — пока все эти искажённые законы не будут исправлены...!"
+char_202_demkni_CN_017,Added to Squad,I am within my rights to oversee and bring up my own opinion on your command.,对于你的指挥，我有权进行监督，并提出相应意见。,Я вправе наблюдать за вашим командованием и высказывать по нему своё мнение.
+char_202_demkni_CN_018,Appointed as Squad Leader,"Send me the operation briefing, I will review it.",把这次行动的简报，提交给我审核一下。,Пришлите мне краткий отчёт по операции — я его изучу.
+char_202_demkni_CN_019,Depart,All operators must maintain strict discipline.,所有干员，必须严格遵守纪律。,Все оперативники обязаны строго соблюдать дисциплину.
+char_202_demkni_CN_020,Begin Operation,Are they the ones who caused such destruction and started all this conflict?,就是他们制造了灾难，点燃了战争之火吗？,Это они создали катастрофу и разожгли пламя войны?
+char_202_demkni_CN_021,Selecting Operator 1,It's my turn.,让我来。,Моя очередь.
+char_202_demkni_CN_022,Selecting Operator 2,Suppress them.,压制他们。,Подавите их.
+char_202_demkni_CN_023,Deployment 1,Forward.,前进。,Вперёд.
+char_202_demkni_CN_024,Deployment 2,Vermin.,害虫。,Вредители.
+char_202_demkni_CN_025,In Battle 1,Just who are you weaklings going to stop like that?,这种程度，又能阻止谁？,"Кого вы, слабаки, собрались остановить?"
+char_202_demkni_CN_026,In Battle 2,This will be over soon.,很快就会结束。,Скоро всё закончится.
+char_202_demkni_CN_027,In Battle 3,Solidify.,凝固吧。,Затвердей.
+char_202_demkni_CN_028,In Battle 4,Yielding is not an option.,不许放弃。,Сдаваться нельзя.
+char_202_demkni_CN_029,4-star Result,"Your tactics appear modern, yet the ideas behind them are primitive at their roots. Just who are you?",你的战术是现代的，构思却相当古老。你究竟是什么人？,"Ваша тактика современна, но идеи в её основе древни. Кто вы на самом деле?"
+char_202_demkni_CN_030,3-star Result,All must return to the existing order. None may disobey the rules.,一切必须回归既有的秩序，我不准许任何人违背法则。,Всё должно вернуться к существующему порядку. Я не позволю никому нарушать закон.
+char_202_demkni_CN_031,Sub 3-star Result,The routed enemies may be calling for reinforcements. We must not drop our guard before we find the last of them.,溃退的敌人也许正在呼叫援军，对残余敌人的搜索，不可怠慢。,Обратившиеся в бегство враги могут звать подкрепление. Нельзя ослаблять поиск последних из них.
+char_202_demkni_CN_032,Operation Failure,Where did I go wrong...?,究竟是哪里搞错了……？,Где я ошиблась...?
+char_202_demkni_CN_033,Assigned to Facility,"This room has interesting decor. I'd be more fond of a futuristic style, though.",这个房间的布置很有意思，虽然，我个人更喜欢未来主义的设计。,В этой комнате любопытное убранство. Хотя я предпочла бы футуристический стиль.
+char_202_demkni_CN_034,Tap,Hm? What?,嗯？什么？,Мм? Что?
+char_202_demkni_CN_036,Trust Tap,"Doctor, you might do a bit of research into the past in your free time. You will find many a thing of great interest.",博士，有时间的话去补习一些过往的知识吧，你会在其中，发现许多有趣的事。,"Доктор, в свободное время изучите немного прошлого — вы найдёте там много интересного."
+char_202_demkni_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_202_demkni_CN_038,New Year's blessing,"Life is the accumulation of maturity. Hone yourself well in the coming year, {@nickname}.",人生就是成长的堆砌，新的一年也好好磨练自己，{@nickname}。,"Жизнь — это накопление роста. В новом году тоже хорошенько закаляйте себя, {@nickname}."
+char_202_demkni_CN_042,Greeting,"Doctor, are you well?",博士，身体如何？,"Доктор, как вы себя чувствуете?"
+char_202_demkni_CN_043,Birthday,"According to the rota, you have a workday today. I'll tell any operators who come with gifts to wait to celebrate until you're done with work. The gifts, I'll accept on your behalf and place at the entrance. I'll be placing my present among them as well. Happy birthday, Doctor. Time to get to work.",根据排班，今天是你的工作日，我会告诉来送礼的干员在你结束工作后再来庆祝，送来的礼物我会帮你收下并放到门口。以及，我的礼物也会放在那里，生日快乐，开始工作吧。,"По расписанию сегодня у вас рабочий день. Я скажу оперативникам, пришедшим с подарками, подождать с поздравлениями, пока вы не закончите. Подарки я приму за вас и поставлю у входа. Там же будет и мой. С днём рождения, Доктор. За работу."
+char_202_demkni_CN_044,Anniversary Celebration,"The founding of regulations and traditions symbolizes that they might be broken, and it is not my job to judge nor to punish, but simply to see disorder rewound to order and chaos returned to organization. The road is a challenging one, but I won't be stopped.",规则和传统，它的建立代表着它会被破坏，我要做的并不是审判或是制裁，我要做的只是将乱序的转回有序，将混乱的重归井然。这条路很难走，但我不会被阻挡。,"Установление правил и традиций означает, что их могут нарушить. Моя задача — не судить и не наказывать, а вернуть беспорядок в порядок, хаос — в стройность. Путь непрост, но меня не остановить."

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_4183_mortis_CN_001,Appointed as Assistant,"If there's nothing to do, I'll... be here.",
-char_4183_mortis_CN_002,Talk 1,Since when was I in the Activity Room...? Since... before you came in...,
-char_4183_mortis_CN_003,Talk 2,Vegetables... could grow well here.,
-char_4183_mortis_CN_004,Talk 3,You want me to play the guitar? Okay.,
-char_4183_mortis_CN_005,Talk after Promotion 1,I got this fragrance from Perfumer-san. She says Gloria uses it too.,
-char_4183_mortis_CN_006,Talk after Promotion 2,Heheh... It's nice to... meet expectations.,
-char_4183_mortis_CN_007,Talk after Trust Increase 1,"So you... also waver, and can't make up your mind... I... do that a lot...",
-char_4183_mortis_CN_008,Talk after Trust Increase 2,Saki once said... we're all 'badgers in the same hole'.,
-char_4183_mortis_CN_009,Talk after Trust Increase 3,"Here, nobody recognizes... Minami-chan and Ta-kun...",
-char_4183_mortis_CN_010,Idle,Did I wake you up? Sorry.,
-char_4183_mortis_CN_011,Onboard,Mutsumi Wakaba... Nice to meet you.,
-char_4183_mortis_CN_012,Watching Battle Record,"I can tell... this isn't just for show. These people, they really died.",
-char_4183_mortis_CN_013,Promotion 1,I need... more practice...,
-char_4183_mortis_CN_014,Promotion 2,You're... praising me...,
-char_4183_mortis_CN_017,Added to Squad,Okay.,
-char_4183_mortis_CN_018,Appointed as Squad Leader,I think... Saki should be better...,
-char_4183_mortis_CN_019,Depart,Let's get started.,
-char_4183_mortis_CN_020,Begin Operation,Enemies... they're coming.,
-char_4183_mortis_CN_021,Selecting Operator 1,I'm... ready.,
-char_4183_mortis_CN_022,Selecting Operator 2,I'm prepared.,
-char_4183_mortis_CN_023,Deployment 1,I've got no... choice...,
-char_4183_mortis_CN_024,Deployment 2,I can't... fail.,
-char_4183_mortis_CN_025,In Battle 1,I'll try...,
-char_4183_mortis_CN_026,In Battle 2,These enemies aren't all that scary.,
-char_4183_mortis_CN_027,In Battle 3,Just don't... think at all...,
-char_4183_mortis_CN_028,In Battle 4,Just do it like I practiced.,
-char_4183_mortis_CN_029,4-star Result,Thank goodness.,
-char_4183_mortis_CN_030,3-star Result,I didn't... fail this time.,
-char_4183_mortis_CN_031,Sub 3-star Result,Thank you for... covering for me...,
-char_4183_mortis_CN_032,Operation Failure,I... messed things up again...,
-char_4183_mortis_CN_033,Assigned to Facility,I'll be... right here.,
-char_4183_mortis_CN_034,Tap,What is it?,
-char_4183_mortis_CN_036,Trust Tap,I'm practicing.,
-char_4183_mortis_CN_037,Title,Arknights.,
-char_4183_mortis_CN_038,New Year's blessing,"I was on stage just now... No, not Ave Mujica. The Rhodes Island play. I was a tree.",
-char_4183_mortis_CN_042,Greeting,"Doctor. I didn't have any nightmares, last night... What about you?",
-char_4183_mortis_CN_043,Birthday,Happy... birthday. This is… your present.,
-char_4183_mortis_CN_044,Anniversary Celebration,It's so lively outside. Are you sure you're not going...? You're staying in? Okay.,
+id,title,original,original_zh,translation
+char_4183_mortis_CN_001,Appointed as Assistant,"If there's nothing to do, I'll... be here.",没什么事的话……我会在这里安静待着。,Если нечего делать... я просто побуду здесь.
+char_4183_mortis_CN_002,Talk 1,Since when was I in the Activity Room...? Since... before you came in...,我是什么时候出现的？在你进入活动室之前，我就在了……,"С какой это поры я в комнате отдыха...? Я была здесь ещё до того, как ты вошла..."
+char_4183_mortis_CN_003,Talk 2,Vegetables... could grow well here.,这里……很适合种蔬菜。,Здесь... хорошо бы выращивать овощи.
+char_4183_mortis_CN_004,Talk 3,You want me to play the guitar? Okay.,希望我弹吉他吗？知道了。,"Хочешь, чтобы я поиграла на гитаре? Хорошо."
+char_4183_mortis_CN_005,Talk after Promotion 1,I got this fragrance from Perfumer-san. She says Gloria uses it too.,这是调香师小姐给我的香水。葛罗莉亚也在用的。,"Это духи, которые мне дала Парфюмер. Говорит, Глория тоже ими пользуется."
+char_4183_mortis_CN_006,Talk after Promotion 2,Heheh... It's nice to... meet expectations.,嘿嘿……回应了大家的期待的感觉，还不坏。,Хе-хе... Приятно... оправдывать ожидания.
+char_4183_mortis_CN_007,Talk after Trust Increase 1,"So you... also waver, and can't make up your mind... I... do that a lot...",即使是博士你，也会有犹豫不决的时候吗？我也经常这样……,"Значит, даже ты... колеблешься и не можешь решиться... Я... часто так делаю..."
+char_4183_mortis_CN_008,Talk after Trust Increase 2,Saki once said... we're all 'badgers in the same hole'.,祥说过，我们都是“一丘之貉”……,Саки как-то сказала... что мы все «из одной стаи»...
+char_4183_mortis_CN_009,Talk after Trust Increase 3,"Here, nobody recognizes... Minami-chan and Ta-kun...",这里，谁都不认识森南和阿隆……,Здесь никто не знает... Минами-тян и Та-куна...
+char_4183_mortis_CN_010,Idle,Did I wake you up? Sorry.,你起来了？抱歉。,Разбудила тебя? Прости.
+char_4183_mortis_CN_011,Onboard,Mutsumi Wakaba... Nice to meet you.,若叶睦……请多多指教。,Муцуми Вакаба... Приятно познакомиться.
+char_4183_mortis_CN_012,Watching Battle Record,"I can tell... this isn't just for show. These people, they really died.",我看得出来，这些不是表演，它们真的死掉了。,Я вижу... это не спектакль. Они и правда умерли.
+char_4183_mortis_CN_013,Promotion 1,I need... more practice...,还需要，更加努力地练习……,Мне нужно... ещё тренироваться...
+char_4183_mortis_CN_014,Promotion 2,You're... praising me...,这是……对我的认可吗？,Ты... хвалишь меня...?
+char_4183_mortis_CN_017,Added to Squad,Okay.,好的。,Хорошо.
+char_4183_mortis_CN_018,Appointed as Squad Leader,I think... Saki should be better...,祥比我更合适。,Я думаю... Саки подошла бы больше...
+char_4183_mortis_CN_019,Depart,Let's get started.,开始吧。,Начнём.
+char_4183_mortis_CN_020,Begin Operation,Enemies... they're coming.,它们在靠近。,Они... идут.
+char_4183_mortis_CN_021,Selecting Operator 1,I'm... ready.,准备好了。,Я... готова.
+char_4183_mortis_CN_022,Selecting Operator 2,I'm prepared.,我已经做好觉悟。,Я приняла решение.
+char_4183_mortis_CN_023,Deployment 1,I've got no... choice...,只能这样了……,Мне... не остаётся выбора...
+char_4183_mortis_CN_024,Deployment 2,I can't... fail.,一定不能出错。,Я не должна... ошибиться.
+char_4183_mortis_CN_025,In Battle 1,I'll try...,我会试试……,Я попробую...
+char_4183_mortis_CN_026,In Battle 2,These enemies aren't all that scary.,这些敌人也没有那么恐怖。,Эти враги не такие уже страшные.
+char_4183_mortis_CN_027,In Battle 3,Just don't... think at all...,只要什么都不去想……,Главное... совсем не думать...
+char_4183_mortis_CN_028,In Battle 4,Just do it like I practiced.,就像训练的那样。,"Просто делать, как на тренировке."
+char_4183_mortis_CN_029,4-star Result,Thank goodness.,太好了。,Слава богу.
+char_4183_mortis_CN_030,3-star Result,I didn't... fail this time.,这次，没有失败了。,В этот раз... я не ошиблась.
+char_4183_mortis_CN_031,Sub 3-star Result,Thank you for... covering for me...,多谢你的帮助……,Спасибо... что прикрыла меня...
+char_4183_mortis_CN_032,Operation Failure,I... messed things up again...,我又把事情搞砸了……,Я... опять всё испортила...
+char_4183_mortis_CN_033,Assigned to Facility,I'll be... right here.,我会待在这里。,Я буду... здесь.
+char_4183_mortis_CN_034,Tap,What is it?,怎么了？,Что случилось?
+char_4183_mortis_CN_036,Trust Tap,I'm practicing.,我正在练习。,Я тренируюсь.
+char_4183_mortis_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_4183_mortis_CN_038,New Year's blessing,"I was on stage just now... No, not Ave Mujica. The Rhodes Island play. I was a tree.",刚才我在舞台上参加了表演。不，并不是Ave Mujica的演出，是罗德岛大家一起的戏剧。扮演了一棵树。,"Я сейчас была на сцене... Нет, не Ave Mujica. Общий спектакль Родоса. Я играла дерево."
+char_4183_mortis_CN_042,Greeting,"Doctor. I didn't have any nightmares, last night... What about you?",博士。昨晚我没做噩梦，您呢？,Доктор. Сегодня ночью мне не снились кошмары... А вам?
+char_4183_mortis_CN_043,Birthday,Happy... birthday. This is… your present.,生日快乐。这是……礼物。,С... днём рождения. Это... подарок.
+char_4183_mortis_CN_044,Anniversary Celebration,It's so lively outside. Are you sure you're not going...? You're staying in? Okay.,外面很热闹，你不去加入他们吗？你就在这里？……好的。,На улице так весело. Ты точно не пойдёшь?.. Остаёшься здесь?.. Хорошо.

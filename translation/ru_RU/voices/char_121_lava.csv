@@ -1,35 +1,35 @@
-id,title,original,translation
-char_121_lava_CN_001,Appointed as Assistant,"Need something? If you don't ,how about some divination?",
-char_121_lava_CN_002,Talk 1,Just tell me when there's work to do. But don't ever put her and me on the same team. I hate her guts. And don't get me started on all the weird food she makes me eat... Just thinking about it makes me... euurghh...,
-char_121_lava_CN_003,Talk 2,No one told me Hibiscus was at Rhodes Island before I got here... It's too late for me to quit now.,
-char_121_lava_CN_004,Talk 3,"If you grow up sheltered, you don't know how to taunt, how to destroy, and how to handle yourself in a real fight. Am I right, Doctor?",
-char_121_lava_CN_005,Talk after Promotion 1,"Have you ever heard the saying 'little sisters are justice'? If that's true, then my big sis is evil by default... at least as far as I'm concerned.",
-char_121_lava_CN_007,Talk after Trust Increase 1,Instruments? I can play the piano a little. My teacher in Leithanien said learning an instrument can improve your Arts affinity. It also apparently eases the impact that Oripathy has on your mind...,
-char_121_lava_CN_008,Talk after Trust Increase 2,"I'm starving... Huh, what's this? You keep sweets in here? Nom... I'm in the middle of training. Should I really be eating this?",
-char_121_lava_CN_009,Talk after Trust Increase 3,"See, like, I don't have a big beef with Hibiscus... It's all water under the bridge. I'm fine with her as long as she doesn't force me to eat her medicine and food. After all, she was the one... who saved my life...",
-char_121_lava_CN_010,Idle,I almost envy your ability to sleep like a log...,
-char_121_lava_CN_011,Onboard,"I'm Lava, a Caster, here to join you simply because I'm bored and want something to do… But I heard my sworn nemesis is here too, though... Can I just quit now?",
-char_121_lava_CN_012,Watching Battle Record,Thanks.,
-char_121_lava_CN_013,Promotion 1,"Did you forget? I don't need a cause to work for, and I don't need a team... but... thanks, I guess...",
-char_121_lava_CN_017,Added to Squad,"As far as teamwork's concerned... I don't mind, as long as nobody messes up.",
-char_121_lava_CN_018,Appointed as Squad Leader,"I'm not good at this sort of stuff, but if you insist...",
-char_121_lava_CN_019,Depart,Let's go. Keep an eye on my back.,
-char_121_lava_CN_020,Begin Operation,I can see their souls. They're mine to reap.,
-char_121_lava_CN_021,Selecting Operator 1,What are you waiting for?,
-char_121_lava_CN_022,Selecting Operator 2,Hurry up.,
-char_121_lava_CN_023,Deployment 1,Come on.,
-char_121_lava_CN_024,Deployment 2,That's it.,
-char_121_lava_CN_025,In Battle 1,It's game over for you.,
-char_121_lava_CN_026,In Battle 2,Even the dead can't save you.,
-char_121_lava_CN_029,4-star Result,The supreme form of Arts. I'm interested in seeing what it's like.,
-char_121_lava_CN_030,3-star Result,I foresaw this result earlier. A perfect victory.,
-char_121_lava_CN_031,Sub 3-star Result,Well… My fortune telling isn't always right. Sometimes there's a lot of external noise that affects the outcome.,
-char_121_lava_CN_032,Operation Failure,Dammit... These evil spirits are too strong...,
-char_121_lava_CN_033,Assigned to Facility,"Oh, come on. I'd rather be alone.",
-char_121_lava_CN_034,Tap,Don't touch me! Uaghh!,
-char_121_lava_CN_036,Trust Tap,"Eh, you're not scoring any points with me like that!",
-char_121_lava_CN_037,Title,Arknights.,
-char_121_lava_CN_038,New Year's blessing,"I need your help, Doctor. Tell me, Just in what world do I fall under the category of 'Out of Shape?' I was feeding myself some fried-foulbeast, and that annoying Hibiscus took it away, before peeling the coat off and handing the rest back to me! The crispy, crunchy coat! She took it! Gone! There's *NO* way I can get my hands on what I want to eat with her around! There's gonna be a fight... Ugh! Never mind.",
-char_121_lava_CN_042,Greeting,"Oh, it's you, Doctor. Morning.",
-char_121_lava_CN_043,Birthday,"Happy birthday, Doctor. Here, I made you a pair of gloves. And take a look at these beautiful patterns on them! Cool, aren't they? I got them from my divination, which always comes true. You too will learn that in the future.",
-char_121_lava_CN_044,Anniversary Celebration,"My infection made my sister's life hell as well. It may not look like it, but deep inside my heart resonates with hers, because what we all want is to help those in need with our hands. Speaking of which, isn't she still on shift today? Huh, how can someone have the right to call me the one that worries when she pushes herself this hard?",
+id,title,original,original_zh,translation
+char_121_lava_CN_001,Appointed as Assistant,"Need something? If you don't ,how about some divination?",有事？要没什么让我做的，这样，我给你做下占卜吧。,Есть дело? Нет? Тогда давай я тебе погадаю.
+char_121_lava_CN_002,Talk 1,Just tell me when there's work to do. But don't ever put her and me on the same team. I hate her guts. And don't get me started on all the weird food she makes me eat... Just thinking about it makes me... euurghh...,有什么工作就直接让我去做，总之别让我和那家伙待一起，我受不了。尤其那家伙还逼我吃奇怪的食物……想一想，就……呃呃……,"Если есть работа — просто скажи, я сделаю. Только не сажай меня с этой тварью рядом, я не вынесу. Особенно она ещё и кормит меня какой-то странной едой... Стоит подумать — и... бррр..."
+char_121_lava_CN_003,Talk 2,No one told me Hibiscus was at Rhodes Island before I got here... It's too late for me to quit now.,我来这之前，可没人告诉我芙蓉也在罗德岛……事到如今再想下船，已经晚了啊……,"Пока я не пришла сюда, никто не сказал мне, что Гибискус тоже на Родосе... Теперь уже поздно сходить с корабля..."
+char_121_lava_CN_004,Talk 3,"If you grow up sheltered, you don't know how to taunt, how to destroy, and how to handle yourself in a real fight. Am I right, Doctor?",在战场上该怎么打，怎么嘲讽对手，怎么摧毁对手，在温室里长大的家伙根本就不懂，你说对吧，博士。,"Как сражаться на поле боя, как насмехаться над противником, как его крушить — тот, кто вырос в теплице, ничего этого не знает. Верно, Доктор?"
+char_121_lava_CN_005,Talk after Promotion 1,"Have you ever heard the saying 'little sisters are justice'? If that's true, then my big sis is evil by default... at least as far as I'm concerned.",有句话你听说过吧，“妹妹就是正义”，也就是说，我的姐姐自然就是邪恶，至少，在我的观念里就是这样。,"Слышала поговорку: «Младшая сестра — это справедливость»? Значит, моя старшая сестра — само зло. По крайней мере, в моём понимании."
+char_121_lava_CN_007,Talk after Trust Increase 1,Instruments? I can play the piano a little. My teacher in Leithanien said learning an instrument can improve your Arts affinity. It also apparently eases the impact that Oripathy has on your mind...,乐器？钢琴的话，我稍微会一点。我身在莱塔尼亚的老师曾经说过，学习音乐能提高对源石技艺的掌握能力，还能缓解矿石病对精神的影响……,"Инструменты? На пианино я немного играю. Мой преподаватель в Лейтании говорил, что музыка улучшает владение Искусством Ориджиниума и ещё смягчает воздействие Орипатии на разум..."
+char_121_lava_CN_008,Talk after Trust Increase 2,"I'm starving... Huh, what's this? You keep sweets in here? Nom... I'm in the middle of training. Should I really be eating this?",肚子饿了……嗯？这个是你偷藏的糖？嗯嗯……我还在训练中呢，能吃这种甜食嘛？,"Голодна... Хм? Это ты тут конфеты прячешь? Мм... Я же всё ещё на тренировке, можно ли мне такое сладкое?"
+char_121_lava_CN_009,Talk after Trust Increase 3,"See, like, I don't have a big beef with Hibiscus... It's all water under the bridge. I'm fine with her as long as she doesn't force me to eat her medicine and food. After all, she was the one... who saved my life...",其实，芙蓉那家伙也不是那么讨厌啦……过去的事情就过去了，现在她别整天逼我吃药剂和食物就行。毕竟救过我命的……也是那家伙啊……,"На самом деле Гибискус не такая уже противная... Что было, то прошло. Лишь бы она не пичкала меня лекарствами и едой каждый день. В конце концов, именно она... спасла мне жизнь..."
+char_121_lava_CN_010,Idle,I almost envy your ability to sleep like a log...,睡这么香，有点羡慕啊。,Так сладко спишь... даже позавидую.
+char_121_lava_CN_011,Onboard,"I'm Lava, a Caster, here to join you simply because I'm bored and want something to do… But I heard my sworn nemesis is here too, though... Can I just quit now?",炎熔、术师。因为无聊想找点事做，所以就随便加入你们这了……但听说我的天敌也在这里，所以我能现在就辞职吗？,"Лава, кастер. Скучно стало, вот и прибилась к вам... Но я слышала, что здесь и мой злейший враг. Можно мне сейчас же уволиться?"
+char_121_lava_CN_012,Watching Battle Record,Thanks.,谢咯。,Спасибо.
+char_121_lava_CN_013,Promotion 1,"Did you forget? I don't need a cause to work for, and I don't need a team... but... thanks, I guess...",我说过吧？我不为任何组织做事，不需要团队……但是……算了，谢谢。,"Я же говорила? Я не работаю ни на какую организацию, мне не нужен отряд... Но... ладно, спасибо."
+char_121_lava_CN_017,Added to Squad,"As far as teamwork's concerned... I don't mind, as long as nobody messes up.",团队合作什么的……其他人最好别拖后腿啊。,"Командная работа и прочее... Главное, чтобы другие не подводили."
+char_121_lava_CN_018,Appointed as Squad Leader,"I'm not good at this sort of stuff, but if you insist...",我不太擅长这种工作，但无论如何也要做的话……,"Я не очень-то хороша в таком деле, но если всё равно придётся..."
+char_121_lava_CN_019,Depart,Let's go. Keep an eye on my back.,现在就出发，掩护就拜托了。,Выдвигаемся сейчас. Прикрытие — на тебя.
+char_121_lava_CN_020,Begin Operation,I can see their souls. They're mine to reap.,那些家伙的灵魂，注定要被我收割。,Их души обречены стать моей добычей.
+char_121_lava_CN_021,Selecting Operator 1,What are you waiting for?,你在等什么？,Чего ты ждёшь?
+char_121_lava_CN_022,Selecting Operator 2,Hurry up.,快点。,Быстрее.
+char_121_lava_CN_023,Deployment 1,Come on.,来吧。,Ну же.
+char_121_lava_CN_024,Deployment 2,That's it.,就这样。,Вот и всё.
+char_121_lava_CN_025,In Battle 1,It's game over for you.,游戏结束了。,Игра окончена.
+char_121_lava_CN_026,In Battle 2,Even the dead can't save you.,亡灵也救不了你。,Даже мёртвые тебе не помогут.
+char_121_lava_CN_029,4-star Result,The supreme form of Arts. I'm interested in seeing what it's like.,法术的最高境界，有点好奇啊。,Высшая форма Искусства Ориджиниума... любопытно бы посмотреть.
+char_121_lava_CN_030,3-star Result,I foresaw this result earlier. A perfect victory.,占卜的结果我早就知道了，我们大获全胜。,Я и так знала результат гадания — мы одержим полную победу.
+char_121_lava_CN_031,Sub 3-star Result,Well… My fortune telling isn't always right. Sometimes there's a lot of external noise that affects the outcome.,呃，占卜的结果有时候也不那么准确，如果过程中混入了杂音，得出的结果往往不怎么清晰。,"Э-э, гадание не всегда точно. Если в дело вмешивается шум, результат получается нечётким."
+char_121_lava_CN_032,Operation Failure,Dammit... These evil spirits are too strong...,可恶……邪念怎么那么强……,Чёрт... Почему злые помыслы такие сильные...
+char_121_lava_CN_033,Assigned to Facility,"Oh, come on. I'd rather be alone.",好了够了，我喜欢一个人待着。,"Ладно, хватит. Я люблю быть одна."
+char_121_lava_CN_034,Tap,Don't touch me! Uaghh!,别碰我！哇啊啊！,Не трогай меня! А-а-а!
+char_121_lava_CN_036,Trust Tap,"Eh, you're not scoring any points with me like that!",别、别以为这么做就能赚取我的好感啊！,"Не... не думай, что так ты заработаешь мою симпатию!"
+char_121_lava_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_121_lava_CN_038,New Year's blessing,"I need your help, Doctor. Tell me, Just in what world do I fall under the category of 'Out of Shape?' I was feeding myself some fried-foulbeast, and that annoying Hibiscus took it away, before peeling the coat off and handing the rest back to me! The crispy, crunchy coat! She took it! Gone! There's *NO* way I can get my hands on what I want to eat with her around! There's gonna be a fight... Ugh! Never mind.",博士，我一点都不胖吧？刚才我想吃炸羽兽肉，芙蓉那家伙居然把皮给我去掉了！那可是油滋滋的皮欸！！今天也被她看着不能吃这不能吃那的，我待会儿肯定要和她吵……算了，哼。,"Доктор, помоги. Я что, правда «не в форме»? Я ела жареную птицу, а эта противная Гибискус забрала её, сняла хрустящую корочку и вернула мне остатки! Корочку! Она её забрала! При ней мне ничего вкусного не достать! Сейчас мы поссоримся... Фу, ладно."
+char_121_lava_CN_042,Greeting,"Oh, it's you, Doctor. Morning.",是博士啊。早。,"А, это ты, Доктор. Утро."
+char_121_lava_CN_043,Birthday,"Happy birthday, Doctor. Here, I made you a pair of gloves. And take a look at these beautiful patterns on them! Cool, aren't they? I got them from my divination, which always comes true. You too will learn that in the future.",博士，生日快乐，我给你做了一副手套，上面的花纹是不是很酷？这可不是胡画的，这些可都是我占卜得到的结果，我的占卜不会出错，一切都会在未来应验的。,"С днём рождения, Доктор. Я сделала тебе варежки — видишь, какой крутой узор? Это не просто так, всё это я выгадала. Мои гадания не ошибаются, всё сбудется в будущем."
+char_121_lava_CN_044,Anniversary Celebration,"My infection made my sister's life hell as well. It may not look like it, but deep inside my heart resonates with hers, because what we all want is to help those in need with our hands. Speaking of which, isn't she still on shift today? Huh, how can someone have the right to call me the one that worries when she pushes herself this hard?",自从我变成感染者，姐姐也受了很多苦，其实我明白姐姐想做的事是什么的，她和我一样，都想用自己的努力去帮助别人。而且她好像今天也还在忙呢，还总说我不让人放心，她其实才是吧！,"С тех пор как я стала инфицированной, сестре тоже пришлось несладко. Я же понимаю, чего она хочет: она, как и я, хочет своими силами помогать другим. И сегодня она всё ещё на дежурстве, а всё твердит, что я её не успокою... Вот она бы меня и поберегла!"

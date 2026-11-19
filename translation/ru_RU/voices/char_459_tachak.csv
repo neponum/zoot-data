@@ -1,36 +1,36 @@
-id,title,original,translation
-char_459_tachak_CN_001,Appointed as Assistant,"If you invited me, you must not be looking for a tactician.",
-char_459_tachak_CN_002,Talk 1,"I love my country, for better or for worse.",
-char_459_tachak_CN_003,Talk 2,"Have you met my sister? She's the one in the white coat in the photo, and those are her children.",
-char_459_tachak_CN_004,Talk 3,"Survive. Be a leader. You don't want your loved ones crying over your grave, do you?",
-char_459_tachak_CN_005,Talk after Promotion 1,I don't want my kids to follow in my footsteps. Being a soldier is too dangerous.,
-char_459_tachak_CN_006,Talk after Promotion 2,"In my country, focusing firepower on a target is considered a simple and effective way to achieve victory.",
-char_459_tachak_CN_007,Talk after Trust Increase 1,I like the way you think.,
-char_459_tachak_CN_008,Talk after Trust Increase 2,"Personally, I prefer the enemies come to us in search of death. How about you?",
-char_459_tachak_CN_009,Talk after Trust Increase 3,"Relax, baby. When this is all over, I'll buy you some vodka.",
-char_459_tachak_CN_010,Idle,Are you bored? Why not clean your weapon?,
-char_459_tachak_CN_011,Onboard,"RAINBOW Operator, codename Tachanka. I'm ready. Where do you want me?",
-char_459_tachak_CN_012,Watching Battle Record,"First, we learn about them. Then we outsmart them.",
-char_459_tachak_CN_013,Promotion 1,Good.,
-char_459_tachak_CN_014,Promotion 2,They told me I'd died. They were wrong. I was reborn.,
-char_459_tachak_CN_017,Added to Squad,"Yes, yes. I know.",
-char_459_tachak_CN_018,Appointed as Squad Leader,"Just don't play hero, it never works.",
-char_459_tachak_CN_019,Depart,Stay right with me!,
-char_459_tachak_CN_020,Begin Operation,Hostiles in sight.,
-char_459_tachak_CN_021,Selecting Operator 1,"Oh, yes. Baby.",
-char_459_tachak_CN_022,Selecting Operator 2,Let's get to work.,
-char_459_tachak_CN_023,Deployment 1,"Guys, you are all lucky I was there.",
-char_459_tachak_CN_024,Deployment 2,Don't worry! Tachanka is here!,
-char_459_tachak_CN_025,In Battle 1,"Come to Tachanka, baby.",
-char_459_tachak_CN_026,In Battle 2,Time to get serious.,
-char_459_tachak_CN_027,In Battle 3,Killing zone deployed.,
-char_459_tachak_CN_028,In Battle 4,Let them come!,
-char_459_tachak_CN_029,4-star Result,That was unexpected.,
-char_459_tachak_CN_030,3-star Result,I've seen it all.,
-char_459_tachak_CN_031,Sub 3-star Result,"We're not out of the woods, bratan.",
-char_459_tachak_CN_032,Operation Failure,Protect the doctor!,
-char_459_tachak_CN_033,Assigned to Facility,Not a problem.,
-char_459_tachak_CN_034,Tap,"Be careful, comrade.",
-char_459_tachak_CN_036,Trust Tap,Call me in for support if you need it.,
-char_459_tachak_CN_037,Title,Arknights.,
-char_459_tachak_CN_042,Greeting,Excuse me?,
+id,title,original,original_zh,translation
+char_459_tachak_CN_001,Appointed as Assistant,"If you invited me, you must not be looking for a tactician.",你这里并不需要战术人员……我知道了，你是请我来聊天的。,"Раз вы позвали меня, значит, тактик вам не нужен... Понял, вы хотели, чтобы я поболтал с вами."
+char_459_tachak_CN_002,Talk 1,"I love my country, for better or for worse.",我热爱我的国家，以及它所给我带来的一切——无论那是好是坏。,"Я люблю свою страну — и всё, что она мне принесла, будь то хорошее или плохое."
+char_459_tachak_CN_003,Talk 2,"Have you met my sister? She's the one in the white coat in the photo, and those are her children.",你还没见过我妹妹吧，看，照片上穿白大褂的就是她，旁边是她家的孩子。,"Вы ещё не встречали мою сестру? Вон она, в белом халате на фото, а рядом — её дети."
+char_459_tachak_CN_004,Talk 3,"Survive. Be a leader. You don't want your loved ones crying over your grave, do you?",好好活着，这样你才能当大家的领袖，千万别让爱你的人只能去墓地见你一面，明白吗？,"Живи ради того, чтобы быть лидером. Не хочешь же ты, чтобы близкие приходили только к твоей могиле? Понял?"
+char_459_tachak_CN_005,Talk after Promotion 1,I don't want my kids to follow in my footsteps. Being a soldier is too dangerous.,我不希望我的孩子追随我的脚步，成为军人要吃的苦不是他们能够接受的。,"Я не хочу, чтобы мои дети шли по моим стопам. Солдату приходится терпеть то, что им не вынести."
+char_459_tachak_CN_006,Talk after Promotion 2,"In my country, focusing firepower on a target is considered a simple and effective way to achieve victory.",倾泻火力简单而又有效，我们国家的人就喜欢这种方法。,В моей стране сосредоточить огонь на цели считается простым и действенным способом победить. Мы любим такой метод.
+char_459_tachak_CN_007,Talk after Trust Increase 1,I like the way you think.,我喜欢你的思考模式。,"Мне нравится, как вы мыслите."
+char_459_tachak_CN_008,Talk after Trust Increase 2,"Personally, I prefer the enemies come to us in search of death. How about you?",我个人比较喜欢敌人自己冲过来找死，你呢？,"Лично я предпочитаю, чтобы враги сами лезли на смерть. А вы как?"
+char_459_tachak_CN_009,Talk after Trust Increase 3,"Relax, baby. When this is all over, I'll buy you some vodka.",放松点亲爱的，等完事了我请你喝伏特加。,"Расслабься, детка. Когда всё кончится, угощу тебя водкой."
+char_459_tachak_CN_010,Idle,Are you bored? Why not clean your weapon?,你很无聊吗，为什么不保养你的武器？,Скучаешь? Почему бы не почистить своё оружие?
+char_459_tachak_CN_011,Onboard,"RAINBOW Operator, codename Tachanka. I'm ready. Where do you want me?",彩虹小队成员，代号战车。我准备好了，你将把我派去何方？,"Оперативник отряда «Радуга», позывной Тачанка. Я готов. Куда меня пошлёшь?"
+char_459_tachak_CN_012,Watching Battle Record,"First, we learn about them. Then we outsmart them.",我们先是从中学习，再来就可以智胜他们。,Сначала мы у них учимся. Потом — перехитряем.
+char_459_tachak_CN_013,Promotion 1,Good.,很好。,Хорошо.
+char_459_tachak_CN_014,Promotion 2,They told me I'd died. They were wrong. I was reborn.,他们当时说我要死了，他们错了，我重生了。,"Они говорили, что я умру. Они ошиблись. Я возродился."
+char_459_tachak_CN_017,Added to Squad,"Yes, yes. I know.",对，对，我懂的。,"Да-да, я знаю."
+char_459_tachak_CN_018,Appointed as Squad Leader,"Just don't play hero, it never works.",千万别逞英雄，不会有用的。,Только не играй в героя — это никогда не работает.
+char_459_tachak_CN_019,Depart,Stay right with me!,跟着我就对了！,Держись рядом со мной!
+char_459_tachak_CN_020,Begin Operation,Hostiles in sight.,发现敌方。,Вижу врагов.
+char_459_tachak_CN_021,Selecting Operator 1,"Oh, yes. Baby.",太好了，宝贝。,"О, да. Детка."
+char_459_tachak_CN_022,Selecting Operator 2,Let's get to work.,让我们直接开工吧。,Начнём работать.
+char_459_tachak_CN_023,Deployment 1,"Guys, you are all lucky I was there.",各位，有我在你们真是太幸运了。,"Ребята, вам повезло, что я был рядом."
+char_459_tachak_CN_024,Deployment 2,Don't worry! Tachanka is here!,别担心！有战车在呢！,Не волнуйтесь! Тачанка здесь!
+char_459_tachak_CN_025,In Battle 1,"Come to Tachanka, baby.",快来找战车吧，宝贝。,"Иди ко мне, детка."
+char_459_tachak_CN_026,In Battle 2,Time to get serious.,可以大开杀戒了。,Пора взяться по-настоящему.
+char_459_tachak_CN_027,In Battle 3,Killing zone deployed.,部署好火力区域了。,Зона поражения развёрнута.
+char_459_tachak_CN_028,In Battle 4,Let them come!,让他们自投罗网吧！,Пусть идут!
+char_459_tachak_CN_029,4-star Result,That was unexpected.,还真是没预料到。,Не ожидал.
+char_459_tachak_CN_030,3-star Result,I've seen it all.,我什么场面没见过。,Я повидал всякое.
+char_459_tachak_CN_031,Sub 3-star Result,"We're not out of the woods, bratan.",朋友，我们还没脱离险境呢。,"Мы ещё не выбрались, братан."
+char_459_tachak_CN_032,Operation Failure,Protect the doctor!,保护博士！,Защищайте Доктора!
+char_459_tachak_CN_033,Assigned to Facility,Not a problem.,我没意见。,Без проблем.
+char_459_tachak_CN_034,Tap,"Be careful, comrade.",当心点，同志。,"Осторожнее, товарищ."
+char_459_tachak_CN_036,Trust Tap,Call me in for support if you need it.,如果你有需要，就叫我来帮忙。,"Позови меня, если нужна поддержка."
+char_459_tachak_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_459_tachak_CN_042,Greeting,Excuse me?,有事？,Что скажешь?

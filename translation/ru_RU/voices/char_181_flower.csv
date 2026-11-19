@@ -1,39 +1,39 @@
-id,title,original,translation
-char_181_flower_CN_001,Appointed as Assistant,"Listen to me, Doctor, it's for your own good.",
-char_181_flower_CN_002,Talk 1,"How do you like this fragrance? You feel refreshed, right? It's all thanks to Melantha. Her samples inspired me.",
-char_181_flower_CN_003,Talk 2,Thank you for building me that flower greenhouse. It'll be a good place for our people to rest and ease their minds.,
-char_181_flower_CN_004,Talk 3,"Oh, you're up? Try stretching, see if you got all the tiredness out. Nice. I put a lot into this new fragrance. Glad it works.",
-char_181_flower_CN_005,Talk after Promotion 1,"Narcissus, rabbitear iris, kalanchoe, boronia... I always carry all sorts of flower seeds on me.",
-char_181_flower_CN_006,Talk after Promotion 2,"Oh, you mean this little one? She's still young, but she's been a big help with my fragrances.",
-char_181_flower_CN_007,Talk after Trust Increase 1,I've heard that scents are the foundation of ant society. The relationship between perfumers and their clients is the same.,
-char_181_flower_CN_008,Talk after Trust Increase 2,"You seem to visit the greenhouse a lot these days. Oh, there's some pollen on your sleeve. Let me wipe it for you… Alright, you're good.",
-char_181_flower_CN_009,Talk after Trust Increase 3,"You were asleep for quite a while. What did you dream about, I wonder?",
-char_181_flower_CN_010,Idle,"Doctor? Doctor...? Wow, the lavender was much more effective than I expected…",
-char_181_flower_CN_011,Onboard,"Nice to meet you, Doctor. I'm Lena, the perfumer. Interesting job, right? Have you heard the word before?",
-char_181_flower_CN_012,Watching Battle Record,Please take a look and tell me how I did.,
-char_181_flower_CN_013,Promotion 1,"A promotion...? You came to tell me in person? I'm flattered. Oh, just a moment, Doctor… There we go, your collar was wrinkled, so I smoothed it out for you.",
-char_181_flower_CN_014,Promotion 2,"I don't appreciate violence as a tactic... But I'll do my best to get used to it for Rhodes Island, Doctor.",
-char_181_flower_CN_017,Added to Squad,With pleasure.,
-char_181_flower_CN_018,Appointed as Squad Leader,"Whether you need me as a perfumer or a healer, I won't let you down, Doctor.",
-char_181_flower_CN_019,Depart,"Do be careful, everyone.",
-char_181_flower_CN_020,Begin Operation,"What kind of battle will it end up being, I wonder…?",
-char_181_flower_CN_021,Selecting Operator 1,Yes?,
-char_181_flower_CN_022,Selecting Operator 2,That's fine with me.,
-char_181_flower_CN_023,Deployment 1,So this is a battlefield…,
-char_181_flower_CN_024,Deployment 2,I won't be afraid.,
-char_181_flower_CN_025,In Battle 1,Let fragrance revive your mind.,
-char_181_flower_CN_026,In Battle 2,"Come on, chin up!",
-char_181_flower_CN_027,In Battle 3,How do you like this scent?,
-char_181_flower_CN_028,In Battle 4,"Stay calm, my friends.",
-char_181_flower_CN_029,4-star Result,"I always knew we'd win, Doctor, so long as you're the one in command.",
-char_181_flower_CN_030,3-star Result,"Very well done, Doctor.",
-char_181_flower_CN_031,Sub 3-star Result,"Good job, everyone. Go get some rest.",
-char_181_flower_CN_032,Operation Failure,"It's too bad we didn't win, but I won't let it discourage me.",
-char_181_flower_CN_033,Assigned to Facility,"I always feel best when I'm at your side, Doctor.",
-char_181_flower_CN_034,Tap,Oh.,
-char_181_flower_CN_036,Trust Tap,"I sense… a pleasant smell from you, Doctor",
-char_181_flower_CN_037,Title,Arknights.,
-char_181_flower_CN_038,New Year's blessing,"Happy New Year, Doctor. I'll just put all the New Year's plants right here, if you're fine with that? They might only bloom for four days, but so long as I'm around, your office will be filled with color and fragrance no matter the season.",
-char_181_flower_CN_042,Greeting,"Hello, Doctor.",
-char_181_flower_CN_043,Birthday,"Perfect timing, Doctor. I was just about to go look for you. Come take a seat, I have a special aromatherapy and dessert prepared. Go on, take a deep breath and relax. Just for today, this greenhouse's flowers bloom only for you. Happy birthday.",
-char_181_flower_CN_044,Anniversary Celebration,"I admit I have had a lot of regrets about leaving home. But now I run this little garden on Rhodes Island. This job has its own blessings, filling everyone's lives with wonderful fragrance. You know, Doctor, there's a saying in Minos: 'When a flower leaves its branch, it is embracing the whole land.'",
+id,title,original,original_zh,translation
+char_181_flower_CN_001,Appointed as Assistant,"Listen to me, Doctor, it's for your own good.",要好好听我的话哦，博士。,"Послушайтесь меня, Доктор — это вам на пользу."
+char_181_flower_CN_002,Talk 1,"How do you like this fragrance? You feel refreshed, right? It's all thanks to Melantha. Her samples inspired me.",这个香气，怎么样？是不是有种，被治愈了的感觉？多亏玫兰莎给我的样品，我才获得了这种灵感。,"Как вам этот аромат? Чувствуете, будто исцелились? Это всё благодаря Меланте: её образцы вдохновили меня."
+char_181_flower_CN_003,Talk 2,Thank you for building me that flower greenhouse. It'll be a good place for our people to rest and ease their minds.,谢谢您帮我建设花卉温室，我想，这里会是大家都能放松休息的好地方。,"Спасибо, что построили мне теплицу. Здесь будет хорошее место, где все смогут отдохнуть и успокоиться."
+char_181_flower_CN_004,Talk 3,"Oh, you're up? Try stretching, see if you got all the tiredness out. Nice. I put a lot into this new fragrance. Glad it works.",啊，您醒了吗？是不是一点疲惫都感觉不到了？看来我新调制的香薰起了作用。毕竟，这也算是我的自信之作呢。,"Ах, вы проснулись? Потянитесь, посмотрите, прошла ли усталость. Отлично. Я вложила душу в этот новый аромат — рада, что он сработал."
+char_181_flower_CN_005,Talk after Promotion 1,"Narcissus, rabbitear iris, kalanchoe, boronia... I always carry all sorts of flower seeds on me.",水仙、燕子花、长寿花、波罗尼——这些用来培育花朵的种子，我总是会随身携带的哦。,"Нарцисс, ирис-«заячье ухо», каланхоэ, борония... Я всегда ношу с собой самые разные семена."
+char_181_flower_CN_006,Talk after Promotion 2,"Oh, you mean this little one? She's still young, but she's been a big help with my fragrances.",哎？您问这孩子吗？虽然它还很小，不过，她可总能在调制过程中帮上大忙呢。,"Эй, вы об этом малыше? Она ещё совсем маленькая, но всегда очень помогает мне при подготовке ароматов."
+char_181_flower_CN_007,Talk after Trust Increase 1,I've heard that scents are the foundation of ant society. The relationship between perfumers and their clients is the same.,蚂蚁们的社会关系，是依靠气味来维持的吧？我觉得调香师和顾客的关系也是如此。,"Общество муравьёв держится на запахах, верно? Я думаю, отношения между парфюмером и клиентом точно такие же."
+char_181_flower_CN_008,Talk after Trust Increase 2,"You seem to visit the greenhouse a lot these days. Oh, there's some pollen on your sleeve. Let me wipe it for you… Alright, you're good.",最近您经常来温室做客呢……哎呀，您的袖口，沾着些花粉哟？好，已经帮您擦掉了~,"Вы в последнее время часто заходите в теплицу... Ой, у вас на рукаве пыльца? Давайте я её сотру... Готово~"
+char_181_flower_CN_009,Talk after Trust Increase 3,"You were asleep for quite a while. What did you dream about, I wonder?",您好像睡了很久呢，这次，又做了什么样的梦呢？,"Вы долго спали. Интересно, что вам снилось на этот раз?"
+char_181_flower_CN_010,Idle,"Doctor? Doctor...? Wow, the lavender was much more effective than I expected…",嗯，博士？哎，薰衣草的效果，超乎我的意料呢……,"Мм, Доктор? Эй... Ох, лаванда подействовала сильнее, чем я ожидала..."
+char_181_flower_CN_011,Onboard,"Nice to meet you, Doctor. I'm Lena, the perfumer. Interesting job, right? Have you heard the word before?",初次见面，博士。我是调香师莱娜。您听说过调香师这种职业吗？,"Приятно познакомиться, Доктор. Я Лена, парфюмер. Странная профессия, правда? Вы слышали такое слово раньше?"
+char_181_flower_CN_012,Watching Battle Record,Please take a look and tell me how I did.,就拜托您检验我的成果了。,"Прошу вас посмотреть и сказать, что у меня получилось."
+char_181_flower_CN_013,Promotion 1,"A promotion...? You came to tell me in person? I'm flattered. Oh, just a moment, Doctor… There we go, your collar was wrinkled, so I smoothed it out for you.",有关晋升的消息……您是特意来向我传达这个的吗？真是不好意思，博士……啊，抱歉，请稍等。没事，只是您的领角皱了，我稍微整理了一下~,"Повышение... Вы пришли сказать мне об этом лично? Как любезно. О, минуточку, Доктор... Вот, воротник был помят — я его разгладила~"
+char_181_flower_CN_014,Promotion 2,"I don't appreciate violence as a tactic... But I'll do my best to get used to it for Rhodes Island, Doctor.",其实我不太适合那些蛮不讲理的战斗方式。不过，如果是为了博士，我也是会去努力适应的。,"Мне не нравятся грубые методы... Но ради Родоса, Доктор, я постараюсь к ним привыкнуть."
+char_181_flower_CN_017,Added to Squad,With pleasure.,非常乐意。,С удовольствием.
+char_181_flower_CN_018,Appointed as Squad Leader,"Whether you need me as a perfumer or a healer, I won't let you down, Doctor.",调香与治疗，无论哪一项工作，我都会让博士您满意的。,"Будь то парфюмерия или лечение — в любой работе я не подведу вас, Доктор."
+char_181_flower_CN_019,Depart,"Do be careful, everyone.",大家，千万要注意安全。,"Все, пожалуйста, будьте осторожны."
+char_181_flower_CN_020,Begin Operation,"What kind of battle will it end up being, I wonder…?",这会是一场怎样的战斗呢。,"Интересно, каким будет этот бой..."
+char_181_flower_CN_021,Selecting Operator 1,Yes?,嗯。,Да?
+char_181_flower_CN_022,Selecting Operator 2,That's fine with me.,我没问题的。,Я не против.
+char_181_flower_CN_023,Deployment 1,So this is a battlefield…,这就是战场啊。,"Так вот оно, поле боя..."
+char_181_flower_CN_024,Deployment 2,I won't be afraid.,我不会害怕的。,Я не боюсь.
+char_181_flower_CN_025,In Battle 1,Let fragrance revive your mind.,恢复神智吧。,Пусть аромат вернёт вам рассудок.
+char_181_flower_CN_026,In Battle 2,"Come on, chin up!",打起精神来。,"Ну же, выше голову!"
+char_181_flower_CN_027,In Battle 3,How do you like this scent?,喜欢这种香味吗？,Как вам этот запах?
+char_181_flower_CN_028,In Battle 4,"Stay calm, my friends.",冷静一些哪。,"Спокойнее, друзья."
+char_181_flower_CN_029,4-star Result,"I always knew we'd win, Doctor, so long as you're the one in command.",我一直都相信啊，只要是博士来担任指挥的话，我们就一定会获胜的。,"Я всегда знала: пока командуете вы, Доктор, мы победим."
+char_181_flower_CN_030,3-star Result,"Very well done, Doctor.",真是太好了，博士。,"Превосходно, Доктор."
+char_181_flower_CN_031,Sub 3-star Result,"Good job, everyone. Go get some rest.",大家辛苦了，请好好休息下吧。,"Все поработали, отдыхайте."
+char_181_flower_CN_032,Operation Failure,"It's too bad we didn't win, but I won't let it discourage me.",虽然没能赢下战斗确实有些遗憾，但我是不会气馁的。,"Жаль, что мы не победили — но я не унываю."
+char_181_flower_CN_033,Assigned to Facility,"I always feel best when I'm at your side, Doctor.",还是博士的身边，最适合我呢。,"Мне лучше всего рядом с вами, Доктор."
+char_181_flower_CN_034,Tap,Oh.,哎呀。,Ой.
+char_181_flower_CN_036,Trust Tap,"I sense… a pleasant smell from you, Doctor",博士身上……有着美妙的香气呢。,"От вас исходить... прекрасный аромат, Доктор."
+char_181_flower_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_181_flower_CN_038,New Year's blessing,"Happy New Year, Doctor. I'll just put all the New Year's plants right here, if you're fine with that? They might only bloom for four days, but so long as I'm around, your office will be filled with color and fragrance no matter the season.",新年快乐，博士。新年用的花卉就放在这里，可以吗？这些花的花期虽然只有四天，但只要有我在，博士的房间里，一年四季都会充满花香与色彩的。,"С Новым годом, Доктор. Можно я поставлю новогодние растения вот здесь? Они цветут всего четыре дня, но, пока я рядом, ваш кабинет будет полон цвета и аромата в любое время года."
+char_181_flower_CN_042,Greeting,"Hello, Doctor.",博士，您好。,"Здравствуйте, Доктор."
+char_181_flower_CN_043,Birthday,"Perfect timing, Doctor. I was just about to go look for you. Come take a seat, I have a special aromatherapy and dessert prepared. Go on, take a deep breath and relax. Just for today, this greenhouse's flowers bloom only for you. Happy birthday.",博士，来得正好。我正要去找您呢。快坐下吧，我为您准备了特制的香薰和甜点。请好好放松一下。在今天这个日子里，这片温室的花朵只为您而开放。祝您生日快乐。,"Как раз кстати, Доктор — я как раз собиралась за вами. Садитесь, я подготовила особый аромат и десерт. Расслабьтесь, вдохните поглубже. Сегодня цветы в этой теплице распускаются только для вас. С днём рождения."
+char_181_flower_CN_044,Anniversary Celebration,"I admit I have had a lot of regrets about leaving home. But now I run this little garden on Rhodes Island. This job has its own blessings, filling everyone's lives with wonderful fragrance. You know, Doctor, there's a saying in Minos: 'When a flower leaves its branch, it is embracing the whole land.'",离开家乡固然有许多遗憾，但是如今在罗德岛经营这一小片花园，为大家带来更多美妙的香气，也是可以收获幸福的工作。米诺斯有一句谚语：“当一朵花离开了枝头，它便是在拥抱整片大地。”,"Конечно, мне есть о чём пожалеть, что я уехала из дома. Но сейчас я ухаживаю за этим маленьким садом на Родосе, и эта работа тоже приносит счастье — я наполняю жизни людей дивными ароматами. Знаете, Доктор, в Миносе есть пословица: «Когда цветок покидает ветку, он обнимает всю землю»."

@@ -1,39 +1,39 @@
-id,title,original,translation
-char_145_prove_CN_001,Appointed as Assistant,"If you need your room cleaned, I'd be glad to help, Doctor.",
-char_145_prove_CN_002,Talk 1,"You seem really interested in my tail, don't you? You say it's furry and looks cute? Well, wanna touch it? No one else has a tail like this, you know!",
-char_145_prove_CN_003,Talk 2,"Water is precious in the wild. Rhodes Island is in no danger of having a drought right now, but that doesn't mean we should waste water.",
-char_145_prove_CN_004,Talk 3,It's my duty to search for and rescue those who encounter Catastrophes. I rarely find any survivors though...,
-char_145_prove_CN_005,Talk after Promotion 1,"Retrieving beacons, exploring mineral deposits, and recycling... Then we can call it a day!",
-char_145_prove_CN_006,Talk after Promotion 2,"Mr. Grape is my buddy and a capable partner I can rely on! Where he came from, you ask?... Uh, hmm... Now that's a good question. Where did we first meet?...",
-char_145_prove_CN_007,Talk after Trust Increase 1,"W-what's with that red one...? I... can't stop trembling... uh... Doctor, can you lend me your arm? I'd feel much safer that way...",
-char_145_prove_CN_008,Talk after Trust Increase 2,"Those who do Catastrophe relief work often develop all kinds of mutations. What mutation do I have? Well, it's better not to ask. The more you know, the more dangerous it gets for you, Doctor.",
-char_145_prove_CN_009,Talk after Trust Increase 3,"Catastrophe relief workers in the wilderness... don't usually come out unscathed. No need to worry about me, though! I'm already very happy to have a chance to rest at Rhodes Island.",
-char_145_prove_CN_010,Idle,"Aw, falling asleep in this kinda place again... Guess 'safety' isn't a part of your vocabulary.",
-char_145_prove_CN_011,Onboard,"I'm Provence, your average Catastrophe relief worker. Hmm, why are you staring at me like that? Interested in my tail?",
-char_145_prove_CN_012,Watching Battle Record,So... does this bring me closer to what you imagined I should be?,
-char_145_prove_CN_013,Promotion 1,"It's fun working with you, Doctor!",
-char_145_prove_CN_014,Promotion 2,"I sense a storm approaching Rhodes Island. But don't worry, leave the evacuation to me! I'm an expert at Catastrophe prevention!",
-char_145_prove_CN_017,Added to Squad,Who will I be teaming up with this time?,
-char_145_prove_CN_018,Appointed as Squad Leader,Don't worry. Everything will be fine.,
-char_145_prove_CN_019,Depart,My job is to bring everyone home safely.,
-char_145_prove_CN_020,Begin Operation,I despise natural Catastrophes and enemies equally!,
-char_145_prove_CN_021,Selecting Operator 1,Is it my turn?,
-char_145_prove_CN_022,Selecting Operator 2,I am in peak condition!,
-char_145_prove_CN_023,Deployment 1,Let's greet 'em with a warning shot.,
-char_145_prove_CN_024,Deployment 2,Arrows loaded. Ready to go!,
-char_145_prove_CN_025,In Battle 1,I've warned ya! Now time for Crowd Control!,
-char_145_prove_CN_026,In Battle 2,Pinpointing enemy weakness!,
-char_145_prove_CN_027,In Battle 3,I'll distract the enemy.,
-char_145_prove_CN_028,In Battle 4,The wilderness has its own rules.,
-char_145_prove_CN_029,4-star Result,"Compared to natural Catastrophes, these enemies are really powerless.",
-char_145_prove_CN_030,3-star Result,Disaster assessment report: we received zero damage!,
-char_145_prove_CN_031,Sub 3-star Result,"Everyone worked hard. Even if we suffered some damage,  let's not be discouraged!",
-char_145_prove_CN_032,Operation Failure,Aw... my assessment was off. This'll leave a spot on my record for sure...,
-char_145_prove_CN_033,Assigned to Facility,It'd be nice to have a room to rest in!,
-char_145_prove_CN_034,Tap,"Oh, Doctor?",
-char_145_prove_CN_036,Trust Tap,I've got a fluffy tail~ a fluffy tail~♪,
-char_145_prove_CN_037,Title,Arknights.,
-char_145_prove_CN_038,New Year's blessing,"Happy New Year, Doctor. I'm measuring my tail, because I think it's grown since the last time I checked... Could you hold the tip for me? And here's a ruler... let me see...",
-char_145_prove_CN_042,Greeting,"Oh, good morning, Doctor.",
-char_145_prove_CN_043,Birthday,"This is the kind of day to try new things, Doctor. Trust me, the memories you make on birthdays will last a lifetime. I've already looked up the weather and lay of the land, and I've got backpacks ready to go. Let's head on an adventure for a couple of days!",
-char_145_prove_CN_044,Anniversary Celebration,"Stopping Catastrophes is still beyond me. We might not have a real solution for decades, even centuries. But what I hope for right now is to save as many as I can, from both Catastrophe and those who would exploit it.",
+id,title,original,original_zh,translation
+char_145_prove_CN_001,Appointed as Assistant,"If you need your room cleaned, I'd be glad to help, Doctor.",博士，如果房间卫生需要打扫的话，记得叫我~,"Доктор, если понадобится убрать комнату — позовите меня~"
+char_145_prove_CN_002,Talk 1,"You seem really interested in my tail, don't you? You say it's furry and looks cute? Well, wanna touch it? No one else has a tail like this, you know!",我的尾巴您很在意吗？毛茸茸的，很可爱？那——要摸摸看吗？其他人身上，可没有这样的尾巴哦~,Вас так интересует мой хвост? Пушистый и милый? Тогда — хотите потрогать? У других таких хвостов нет~
+char_145_prove_CN_003,Talk 2,"Water is precious in the wild. Rhodes Island is in no danger of having a drought right now, but that doesn't mean we should waste water.",荒野里水是珍贵资源呢，虽然罗德岛并不那么缺水，但还是希望博士你要节约使用哦。,"В пустоши вода — драгоценный ресурс. Родос, правда, не испытывает нужды, но всё же прошу вас, Доктор, расходовать её экономно."
+char_145_prove_CN_004,Talk 3,It's my duty to search for and rescue those who encounter Catastrophes. I rarely find any survivors though...,搜救遭遇天灾的人也是我的职责，虽然大多数情况下都会空手而归……,"Искать и спасать людей, попавших в Катастрофу, — тоже моя обязанность, хотя чаще всего я возвращаюсь с пустыми руками..."
+char_145_prove_CN_005,Talk after Promotion 1,"Retrieving beacons, exploring mineral deposits, and recycling... Then we can call it a day!",信标回收、矿床勘探、然后是可利用资源回收，这样任务就完成咯~,"Забрать маяки, разведать рудные залежи, потом собрать пригодные ресурсы — и задание выполнено~"
+char_145_prove_CN_006,Talk after Promotion 2,"Mr. Grape is my buddy and a capable partner I can rely on! Where he came from, you ask?... Uh, hmm... Now that's a good question. Where did we first meet?...",葡萄先生是我的搭档。它什么都能做，非常可靠哦。它的来历？唔……对哦，我是怎么和它认识的呢……？,"Господин Виноград — мой напарник. Он всё умеет, на него можно положиться. Откуда он взялся? М-м... А и правда, как мы с ним познакомились...?"
+char_145_prove_CN_007,Talk after Trust Increase 1,"W-what's with that red one...? I... can't stop trembling... uh... Doctor, can you lend me your arm? I'd feel much safer that way...",那、那个红色的孩子是怎么回事……我……颤抖，止不住呢……那个，博士的手臂能稍稍借下吗……？这样的话，我会安心很多的……,"Э-этот красный... что с ним... Я... дрожь не проходит... Доктор, можно на секунду одолжить вашу руку...? Так мне будет намного спокойнее..."
+char_145_prove_CN_008,Talk after Trust Increase 2,"Those who do Catastrophe relief work often develop all kinds of mutations. What mutation do I have? Well, it's better not to ask. The more you know, the more dangerous it gets for you, Doctor.",一般来说，野外的天灾工作者都会产生这样各种各样的异变。我有什么变化？知道得越多，就离危险越近哦，博士。,"У всех, кто работает с Катастрофами в пустоши, со временем появляются вот такие изменения. А у меня что? Чем больше вы знаете, тем ближе к опасности, Доктор."
+char_145_prove_CN_009,Talk after Trust Increase 3,"Catastrophe relief workers in the wilderness... don't usually come out unscathed. No need to worry about me, though! I'm already very happy to have a chance to rest at Rhodes Island.",荒野中的天灾工作者……一般都无法善终。不用担心我哦，能在罗德岛稍事休息，我已经感到……很幸福了。,"Работники Катастроф в пустоши... редко умирают своей смертью. Не беспокойтесь обо мне. Уже одно то, что я могу немного отдохнуть на Родосе, делает меня... очень счастливой."
+char_145_prove_CN_010,Idle,"Aw, falling asleep in this kinda place again... Guess 'safety' isn't a part of your vocabulary.",怎么又睡在这种地方，真是的……总是一副毫无防备的样子。,"Опять уснула где попало... Ну вот, всё та же — совершенно беззащитная."
+char_145_prove_CN_011,Onboard,"I'm Provence, your average Catastrophe relief worker. Hmm, why are you staring at me like that? Interested in my tail?",我是普罗旺斯，是个普通的天灾工作者~您这样盯着我看，是在意我的尾巴吗~？,"Я Прованс, обычный работник Катастроф~ Вы так на меня смотрите — вас интересует мой хвост~?"
+char_145_prove_CN_012,Watching Battle Record,So... does this bring me closer to what you imagined I should be?,这样的话，就更接近您心目中我应有的样子了吗？,"Так я ближе к тому, какой вы меня себе представляли?"
+char_145_prove_CN_013,Promotion 1,"It's fun working with you, Doctor!",和博士一起工作，很愉快啊~,"С вами, Доктор, работать очень приятно~"
+char_145_prove_CN_014,Promotion 2,"I sense a storm approaching Rhodes Island. But don't worry, leave the evacuation to me! I'm an expert at Catastrophe prevention!",罗德岛附近出现了风暴的征兆——不用担心，组织避难就交给我吧！我可是这方面的专家！,"Рядом с Родосом признаки бури — не волнуйтесь, эвакуацию я беру на себя! Я в этом эксперт!"
+char_145_prove_CN_017,Added to Squad,Who will I be teaming up with this time?,这次和谁组队呢？,С кем я в паре на этот раз?
+char_145_prove_CN_018,Appointed as Squad Leader,Don't worry. Everything will be fine.,不会有任何问题的。,Всё будет в порядке.
+char_145_prove_CN_019,Depart,My job is to bring everyone home safely.,我的工作是把大家平安带回来。,Моя работа — вернуть всех целыми.
+char_145_prove_CN_020,Begin Operation,I despise natural Catastrophes and enemies equally!,无论天灾还是敌人，都是我痛恨的对手！,"И Катастрофа, и враги — одинаково ненавистные мне противники!"
+char_145_prove_CN_021,Selecting Operator 1,Is it my turn?,该我出场了吗？,Моя очередь?
+char_145_prove_CN_022,Selecting Operator 2,I am in peak condition!,状态绝佳！,Форма отличная!
+char_145_prove_CN_023,Deployment 1,Let's greet 'em with a warning shot.,先从警告射击开始~,Начнём с предупредительного выстрела~
+char_145_prove_CN_024,Deployment 2,Arrows loaded. Ready to go!,弩箭装填完毕！随时都可以！,Болты заряжены! Готовы в любой момент!
+char_145_prove_CN_025,In Battle 1,I've warned ya! Now time for Crowd Control!,已经警告过了哦！灾害处理，现在开始！,Я уже предупредила! Ликвидация угрозы — начинаем!
+char_145_prove_CN_026,In Battle 2,Pinpointing enemy weakness!,弱点洞察！,Уязвимое место найдено!
+char_145_prove_CN_027,In Battle 3,I'll distract the enemy.,我来分散敌人的注意力。,Я отвлеку врагов.
+char_145_prove_CN_028,In Battle 4,The wilderness has its own rules.,荒野有它自己的准则！,У пустоши свои законы!
+char_145_prove_CN_029,4-star Result,"Compared to natural Catastrophes, these enemies are really powerless.",与天灾的破坏相比，敌人还真是脆弱呢。,По сравнению с разрушениями Катастрофы враги и вправду хрупкие.
+char_145_prove_CN_030,3-star Result,Disaster assessment report: we received zero damage!,灾害评估报告，损伤是零~,Отчёт об ущербе: повреждений ноль~
+char_145_prove_CN_031,Sub 3-star Result,"Everyone worked hard. Even if we suffered some damage,  let's not be discouraged!",大家都辛苦了，即便稍有损害也不能气馁哦。,"Все постарались. Даже если есть небольшие повреждения, не падайте духом."
+char_145_prove_CN_032,Operation Failure,Aw... my assessment was off. This'll leave a spot on my record for sure...,呃……评估失误了，真是我职业生涯的污点……！,Ах... я ошиблась в оценке. Это пятно на моей карьере...!
+char_145_prove_CN_033,Assigned to Facility,It'd be nice to have a room to rest in!,如果是能好好休息的房间就好了~,"Хорошо бы была комната, где можно как следует отдохнуть~"
+char_145_prove_CN_034,Tap,"Oh, Doctor?",啊啊，博士？,"Ах, Доктор?"
+char_145_prove_CN_036,Trust Tap,I've got a fluffy tail~ a fluffy tail~♪,我的大尾巴毛绒绒~毛绒绒~♪,Мой большой хвост пушистый~ пушистый~♪
+char_145_prove_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_145_prove_CN_038,New Year's blessing,"Happy New Year, Doctor. I'm measuring my tail, because I think it's grown since the last time I checked... Could you hold the tip for me? And here's a ruler... let me see...",新年快乐博士~我正准备量一下我的尾巴~它好像又长长了一点，博士，帮我一下，捏住尾巴尖尖，再把尺子比在这里……唔唔，数值是……,"С Новым годом, Доктор~ Я как раз хотела измерить хвост~ Кажется, он опять подрос. Доктор, помогите: подержите кончик, а линейку приложим вот здесь... М-м, так, цифра..."
+char_145_prove_CN_042,Greeting,"Oh, good morning, Doctor.",啊，博士早上好~,"А, доброе утро, Доктор~"
+char_145_prove_CN_043,Birthday,"This is the kind of day to try new things, Doctor. Trust me, the memories you make on birthdays will last a lifetime. I've already looked up the weather and lay of the land, and I've got backpacks ready to go. Let's head on an adventure for a couple of days!",博士，这种日子就应该尝试一些新事物，相信我，哪怕只尝试一次，你也绝对会记得很久的！我已经查好了附近的环境和这几天的天气，背包就在这里，我带你去野外探险两天？,"Доктор, в такой день нужно попробовать что-то новое. Поверьте, даже один раз запомнится надолго! Я уже изучила здешние места и погоду на эти дни, рюкзаки готовы. Поведу вас на два дня в дикие края?"
+char_145_prove_CN_044,Anniversary Celebration,"Stopping Catastrophes is still beyond me. We might not have a real solution for decades, even centuries. But what I hope for right now is to save as many as I can, from both Catastrophe and those who would exploit it.",阻止天灾仍旧是我无法办到的事情，也许再过十年百年，人们依然无法探寻出行之有效的方法……那么当下我希望的，仍旧是可以救出更多的人。不论是从天灾手里，还是从那些利用天灾的人手里。,"Остановить Катастрофу я по-прежнему не могу. Может, пройдут десятилетия, а люди так и не найдут действенного способа... Но чего я хочу сейчас — так это спасти как можно больше людей. И из лап Катастрофы, и из лап тех, кто её использует."

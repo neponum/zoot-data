@@ -1,39 +1,39 @@
-id,title,original,translation
-char_190_clour_CN_001,Appointed as Assistant,Did you call me here for a new hunt? No? Gah…,
-char_190_clour_CN_002,Talk 1,"This claw pendant? It's a symbol of revenge. The Ursus mercenaries who hurt my people treat these things as dogtags, so there's no mistaking them.",
-char_190_clour_CN_003,Talk 2,"A beast took my left hand when I was hunting. Luckily, a mechanic gave me a prosthetic limb, so I can draw my bowstring again.",
-char_190_clour_CN_004,Talk 3,"There was a time when I would've turned anyone who mocked my scars into a pincushion! But if you ask me now... Well, people like that aren't even worth the trouble.",
-char_190_clour_CN_005,Talk after Promotion 1,"If you're ever facing a difficult decision, let your instincts decide for you. Your body won't lie—This is what I've learned after a lifetime of hunts.",
-char_190_clour_CN_006,Talk after Promotion 2,"I've been living alone ever since my village was wiped out.  So, I… I'm still getting used to being around people... But since you trust me and give me important work, I swear I'll return the favor.",
-char_190_clour_CN_007,Talk after Trust Increase 1,"Ehh, a pebble got stuck in my prosthetic finger...? Darn it, I'm going to need a mechanic to fix it... N-No, I don't need you, I can handle this myself!",
-char_190_clour_CN_008,Talk after Trust Increase 2,You'll make sure I don't ever lose anyone else? Hmph. Big words. But I'll see for myself if you can back those up.,
-char_190_clour_CN_009,Talk after Trust Increase 3,"The doctors here offered to get rid of my more recent scars, but I said no. I want to keep them. They're proof of my work here... You, you understand what I'm getting at?",
-char_190_clour_CN_010,Idle,"You're sleeping? Looks like this one can fall asleep almost anywhere. Well, that's a trait we hunters share…",
-char_190_clour_CN_011,Onboard,"Vermeil, hunter. You won't regret giving me work.",
-char_190_clour_CN_012,Watching Battle Record,Can I take another look at that?,
-char_190_clour_CN_013,Promotion 1,"Thank you, but... are you sure it's okay to promote someone like me?",
-char_190_clour_CN_014,Promotion 2,"I don't really care about stuff like Oripathy or 'the rest of my life.' Right now, the happiest thing I can imagine is fighting by your side.",
-char_190_clour_CN_017,Added to Squad,I'm here.,
-char_190_clour_CN_018,Appointed as Squad Leader,You want me to be the captain? Am I... really cut out for the job?,
-char_190_clour_CN_019,Depart,The big game hunt is about to start!,
-char_190_clour_CN_020,Begin Operation,You don't seem to understand your situation here. You've fallen into my trap.,
-char_190_clour_CN_021,Selecting Operator 1,I'll go ahead.,
-char_190_clour_CN_022,Selecting Operator 2,Give me the order.,
-char_190_clour_CN_023,Deployment 1,I can smell the game on the wind.,
-char_190_clour_CN_024,Deployment 2,I'll be waiting here.,
-char_190_clour_CN_025,In Battle 1,"You'd better start running, or there's only one way this ends.",
-char_190_clour_CN_026,In Battle 2,Don't underestimate the people of the wilderness.,
-char_190_clour_CN_027,In Battle 3,Watch where this arrow goes!,
-char_190_clour_CN_028,In Battle 4,This arrow will find your throat!,
-char_190_clour_CN_029,4-star Result,Strong game is still just game.,
-char_190_clour_CN_030,3-star Result,"Nice. If you were born in Siracusa, you would've been a great hunter.",
-char_190_clour_CN_031,Sub 3-star Result,The target got away. I'm going after it.,
-char_190_clour_CN_032,Operation Failure,We can't let it end like this…,
-char_190_clour_CN_033,Assigned to Facility,This place has walls and a roof… that's enough for me.,
-char_190_clour_CN_034,Tap,Wha?,
-char_190_clour_CN_036,Trust Tap,"...My plans for the day? Help you with missions. Shoot at enemies. Use up all my arrows. Finish the mission. Eat dinner, go to sleep. Simple enough.",
-char_190_clour_CN_037,Title,Arknights.,
-char_190_clour_CN_038,New Year's blessing,"Everyone's celebrating New Year's... It was never this easy in the wild. We got a little cured meat out, ate a few berries we had stored, and that's how we celebrated surviving another year. Maybe it wasn't worth celebrating...",
-char_190_clour_CN_042,Greeting,"Ah, it's you.",
-char_190_clour_CN_043,Birthday,"This cloak's for you. I learned to make this back with the other hunters. If you get lost in the wild one day, that hood you've got isn't gonna save you from sandstorms. Obviously, I'd rather be there with you to protect you, if I could.",
-char_190_clour_CN_044,Anniversary Celebration,"I never forgave any of my old enemies, and I'll never forget those who showed me kindness. The old Lateran guy's dead, but there's still Rhodes Island. I have a clear reason to fight with the time I've got left.",
+id,title,original,original_zh,translation
+char_190_clour_CN_001,Appointed as Assistant,Did you call me here for a new hunt? No? Gah…,你叫我来，是有新的狩猎任务吗？哦，没有吗……,"Вы позвали меня — новое задание на охоту? О, нет?.."
+char_190_clour_CN_002,Talk 1,"This claw pendant? It's a symbol of revenge. The Ursus mercenaries who hurt my people treat these things as dogtags, so there's no mistaking them.",这个爪形吊坠？是我的复仇的纪念品，那些伤害过我同伴的乌萨斯佣兵会把类似的东西当成狗牌，所以我才不会认错他们。,"Эта кулон-коготь? Память о моей мести. Урсусские наёмники, что обидели моих товарищей, носят похожие вещи вместо жетонов — так я их не перепутаю."
+char_190_clour_CN_003,Talk 2,"A beast took my left hand when I was hunting. Luckily, a mechanic gave me a prosthetic limb, so I can draw my bowstring again.",我的左手是在一次狩猎中被野兽撕碎的，幸好一位机械师帮我制作了义肢，我才能重新拉动弓弦。,"Мою левую руку разорвал зверь на охоте. К счастью, один механик сделал мне протез — и я снова могу натягивать тетиву."
+char_190_clour_CN_004,Talk 3,"There was a time when I would've turned anyone who mocked my scars into a pincushion! But if you ask me now... Well, people like that aren't even worth the trouble.",若是以前，我绝对会把嘲讽我伤痕的家伙一箭一箭地射成筛子！不过现在……呵，为了那种人动手，真是一点都不值得。,"Прежде я бы изрешетила стрелами того, кто посмел бы насмехаться над моим шрамом! А теперь... хе, ради такого и руки поднимать не стоит."
+char_190_clour_CN_005,Talk after Promotion 1,"If you're ever facing a difficult decision, let your instincts decide for you. Your body won't lie—This is what I've learned after a lifetime of hunts.",若是有实在难以决断的事就凭直觉去选择，身体是不会骗人的，这可是资深猎手的经验。,"Если совсем не можешь решить, выбирай по чутью. Тело не обманет — такое у меня правило опытного охотника."
+char_190_clour_CN_006,Talk after Promotion 2,"I've been living alone ever since my village was wiped out.  So, I… I'm still getting used to being around people... But since you trust me and give me important work, I swear I'll return the favor.",自从同伴们逝去之后，我一个人生活很久了，所以这种每天都要和人打交道的日子，我还不太适应……但既然你给了我充分的信任，任用我，那我一定得回报你。,"После смерти товарищей я долго жила одна, поэтому мне пока непривычно каждый день общаться с людьми. Но раз вы мне так доверяете и взяли к себе — я должна это оправдать."
+char_190_clour_CN_007,Talk after Trust Increase 1,"Ehh, a pebble got stuck in my prosthetic finger...? Darn it, I'm going to need a mechanic to fix it... N-No, I don't need you, I can handle this myself!",呃，义肢手指好像被小石子卡住了？讨厌，得去找机械师调整一下……不、不用你帮忙，我一个人也能行！,"Э-э, кажется, в протезе застрял камешек? Досадно, надо сходить к механику... Н-нет, не помогайте, я и сама справлюсь!"
+char_190_clour_CN_008,Talk after Trust Increase 2,You'll make sure I don't ever lose anyone else? Hmph. Big words. But I'll see for myself if you can back those up.,你说，今后不会让我再失去同伴了？哼，是不是在说大话，我可是要亲眼见证的！,"Вы сказали, что больше не дадите мне потерять товарищей? Хм, не врёте ли вы — я сама хочу это увидеть!"
+char_190_clour_CN_009,Talk after Trust Increase 3,"The doctors here offered to get rid of my more recent scars, but I said no. I want to keep them. They're proof of my work here... You, you understand what I'm getting at?",这里的医生说可以抹去我身上新添的伤疤，但我拒绝了。我要留着它们，因为这是为你战斗时留下的……你，能明白我的意思吗？,"Здесь врачи сказали, что могут убрать новые шрамы на моей коже, а я отказалась. Я хочу оставить их: это следы боя за вас... Вы, вы понимаете, что я имею в виду?"
+char_190_clour_CN_010,Idle,"You're sleeping? Looks like this one can fall asleep almost anywhere. Well, that's a trait we hunters share…",睡着了？这个人什么场合都睡得着吗？这种体质倒是挺像我们猎人的……,Уснули? Неужели этот человек засыпает где угодно? Такая привычка и вправду охотничья...
+char_190_clour_CN_011,Onboard,"Vermeil, hunter. You won't regret giving me work.",红云，猎人。给我工作吧，你不会失望的。,"Вермей, охотница. Дайте мне работу — вы не пожалеете."
+char_190_clour_CN_012,Watching Battle Record,Can I take another look at that?,还可以观看更多一些吗？,Можно посмотреть ещё немного?
+char_190_clour_CN_013,Promotion 1,"Thank you, but... are you sure it's okay to promote someone like me?",谢谢你，可……让我这样的人晋升，真的没问题吗？,"Спасибо... но можно ли повышать такую, как я?"
+char_190_clour_CN_014,Promotion 2,"I don't really care about stuff like Oripathy or 'the rest of my life.' Right now, the happiest thing I can imagine is fighting by your side.",矿石病也好，剩下的生命也好，已经全都无所谓了。现在让我最快乐的事，不就是和你一起并肩作战吗？,"Опухоль, остаток жизни — мне уже всё равно. Что сейчас радует меня, так это сражаться рядом с вами, верно?"
+char_190_clour_CN_017,Added to Squad,I'm here.,来了。,Я пришла.
+char_190_clour_CN_018,Appointed as Squad Leader,You want me to be the captain? Am I... really cut out for the job?,要我当队长？我……真的合适吗？,Мне быть командиром? Я... правда подхожу?
+char_190_clour_CN_019,Depart,The big game hunt is about to start!,大捕猎，即将开幕！,Большая охота начинается!
+char_190_clour_CN_020,Begin Operation,You don't seem to understand your situation here. You've fallen into my trap.,踏入陷阱的你们，还没明白自己的处境吗？,"Вы, попавшие в ловушку, ещё не поняли, где вы?"
+char_190_clour_CN_021,Selecting Operator 1,I'll go ahead.,让我上。,Пусть я.
+char_190_clour_CN_022,Selecting Operator 2,Give me the order.,下令吧。,Приказывайте.
+char_190_clour_CN_023,Deployment 1,I can smell the game on the wind.,我闻到风中的猎物气味了。,Я чую запах добычи на ветру.
+char_190_clour_CN_024,Deployment 2,I'll be waiting here.,我就在这等着。,Я подожду здесь.
+char_190_clour_CN_025,In Battle 1,"You'd better start running, or there's only one way this ends.",再不逃的话，你就只有一个下场了！,Не убежишь — тебе конец!
+char_190_clour_CN_026,In Battle 2,Don't underestimate the people of the wilderness.,别小看荒野的子民！,Не недооценивай детей пустоши!
+char_190_clour_CN_027,In Battle 3,Watch where this arrow goes!,再看这一箭！,Ещё стрела!
+char_190_clour_CN_028,In Battle 4,This arrow will find your throat!,这一箭，绝对会射穿你的喉咙！,Эта стрела пробьёт тебе горло!
+char_190_clour_CN_029,4-star Result,Strong game is still just game.,再强大的猎物，也只是猎物而已。,Какая бы сильная ни была добыча — она всё равно добыча.
+char_190_clour_CN_030,3-star Result,"Nice. If you were born in Siracusa, you would've been a great hunter.",真厉害。如果你生在叙拉古，一定会是位技艺超绝的猎人。,"Отлично. Будь вы родом из Сиракузы, вы бы стали охотницей высшего класса."
+char_190_clour_CN_031,Sub 3-star Result,The target got away. I'm going after it.,猎物逃走了，我去追。,Добыча ушла — я пойду за ней.
+char_190_clour_CN_032,Operation Failure,We can't let it end like this…,不能就这样结束……,Нельзя заканчивать на этом...
+char_190_clour_CN_033,Assigned to Facility,This place has walls and a roof… that's enough for me.,有墙和天花板，已经是很棒的屋子了啊。,Стены и крыша — уже прекрасное жилище.
+char_190_clour_CN_034,Tap,Wha?,呣……,Мм...
+char_190_clour_CN_036,Trust Tap,"...My plans for the day? Help you with missions. Shoot at enemies. Use up all my arrows. Finish the mission. Eat dinner, go to sleep. Simple enough.",……今天的安排吗？帮你做任务，对着敌人射箭，把箭射光；任务结束，吃饭睡觉。就这么简单。,"...На план на сегодня? Помогать вам с заданиями, стрелять по врагам, истратить все стрелы; закончить — поесть и поспать. Всё просто."
+char_190_clour_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_190_clour_CN_038,New Year's blessing,"Everyone's celebrating New Year's... It was never this easy in the wild. We got a little cured meat out, ate a few berries we had stored, and that's how we celebrated surviving another year. Maybe it wasn't worth celebrating...",大家都在庆祝新年啊……在荒野的时候可没有这么安逸的环境，取出一点腌好的肉，再吃几颗储藏的莓果，来庆祝自己又活了一年。或许也不是什么值得庆祝的事吧……,"Все празднуют Новый год... В пустоши такого уюта не бывало: достанешь кусок вяленого мяса, перекусишь запасными ягодами — и считай, что прожила ещё год. Может, и нечего тут праздновать..."
+char_190_clour_CN_042,Greeting,"Ah, it's you.",哈，是你啊。,"Ха, это ты."
+char_190_clour_CN_043,Birthday,"This cloak's for you. I learned to make this back with the other hunters. If you get lost in the wild one day, that hood you've got isn't gonna save you from sandstorms. Obviously, I'd rather be there with you to protect you, if I could.",这件披风送给你，是我在部落的时候学到的手艺。如果哪天你不小心在荒野上迷路了，你的那身兜帽可没法挡风沙。当然，如果可能的话，我还是希望能在你身边保护你……,"Дарю тебе этот плащ — я научилась шить его в племени. Если вдруг заблудишься в пустоши, твой капюшон не защитит от песка и ветра. Конечно, лучше бы мне быть рядом и прикрывать тебя..."
+char_190_clour_CN_044,Anniversary Celebration,"I never forgave any of my old enemies, and I'll never forget those who showed me kindness. The old Lateran guy's dead, but there's still Rhodes Island. I have a clear reason to fight with the time I've got left.",过去的仇人我一个也没有放过，别人给予我的恩情我也绝不会忘记。那位拉特兰老爷爷已经去世了，但罗德岛还在这里。在剩下的生命里，我清楚战斗的理由。,"Я не простила ни одного врага и не забуду ни одной оказанной мне услуги. Тот латеранский старик уже ушёл, но «Родос» здесь. В оставшуюся жизнь я знаю, за что сражаюсь."

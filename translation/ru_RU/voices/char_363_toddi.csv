@@ -1,39 +1,39 @@
-id,title,original,translation
-char_363_toddi_CN_001,Appointed as Assistant,Let's just burn 'em. You weren't gonna give those papers a second look anyway.,
-char_363_toddi_CN_002,Talk 1,"If you wanted me to lay defenses in here, I'd break up the floor for starters. Not that I mind, it's for you to think about.",
-char_363_toddi_CN_003,Talk 2,"Got twps from Royal Guard knocking about, have you? Heh, ain't that interesting.",
-char_363_toddi_CN_004,Talk 3,"Calibrate the sight? Nah, materials I ordered last should be here almost, I'll make the arrows first... Oh, push off, out my way.",
-char_363_toddi_CN_005,Talk after Promotion 1,"Most who leave Vouivre don't agree with the mercenary life in Sargon. Move to Victoria, end up doing something else instead, they do. Like... factory-working, farming, you know. Having their own little touch of land.",
-char_363_toddi_CN_006,Talk after Promotion 2,"You could probably tell, but I didn't use to be artillery. Mainly studied recon, infiltration, CQC, all that. Did not bloody take to it, and the instructors wouldn't let me switch courses, so I dropped out, simple as. What's the point in learning things you hate?",
-char_363_toddi_CN_007,Talk after Trust Increase 1,"Oh, you're helpless! How am I going to the workshop wearing this?!",
-char_363_toddi_CN_008,Talk after Trust Increase 2,"It's meant for attacking nomadic cities, this weapon. Using it to help you lot cope with skirmishers? It's like a hatchet to a cupcake. Let me try hitting a city or two sometime for practice, won't you?",
-char_363_toddi_CN_009,Talk after Trust Increase 3,"Don't you think these crystals on my shoulder here match well with my hair color? I like my off-the-shoulder clothes too, so it's perfect. Shame, though, it would've been nice if they covered the whole way like that Siracusan Messenger girl.",
-char_363_toddi_CN_010,Idle,"I'll be heading back to sort stuff out, then. No point wasting time on this rotter.",
-char_363_toddi_CN_011,Onboard,"Arianrot, codename Toddifons. I don't like working for ordinary people, so I've got my fingers crossed you show me something unusual.",
-char_363_toddi_CN_012,Watching Battle Record,Boring. Off we go.  ,
-char_363_toddi_CN_013,Promotion 1,"What goes on in those Logistics' minds? Oh, look what Arianrot made, let's just grab it and... For me? Tch, fine. I accept. Your feelings are loud and clear. Thanks, see you.",
-char_363_toddi_CN_014,Promotion 2,"You've seen a Draco's flames before, I bet you anything. You ever imagined, the sight of them raining down on your enemy? <i>I</i> can make that your reality!",
-char_363_toddi_CN_017,Added to Squad,I'm listening.,
-char_363_toddi_CN_018,Appointed as Squad Leader,Work's on. Focus.,
-char_363_toddi_CN_019,Depart,You lot go ahead. I've got things to prepare.,
-char_363_toddi_CN_020,Begin Operation,Visibility clear. Awaiting orders.,
-char_363_toddi_CN_021,Selecting Operator 1,Still not done?,
-char_363_toddi_CN_022,Selecting Operator 2,Iawn?,
-char_363_toddi_CN_023,Deployment 1,Mounting complete.,
-char_363_toddi_CN_024,Deployment 2,In position.,
-char_363_toddi_CN_025,In Battle 1,I don't need visuals. Give me the map.,
-char_363_toddi_CN_026,In Battle 2,This area is cleared. Next!,
-char_363_toddi_CN_027,In Battle 3,Nothing remains once the arrows rain!,
-char_363_toddi_CN_028,In Battle 4,Ha! Fire wouldn't go out while there's something left to burn!,
-char_363_toddi_CN_029,4-star Result,There's only so many who can make this thing shine—guess you're one of them.,
-char_363_toddi_CN_030,3-star Result,Out without too much ash on me. Gwych.,
-char_363_toddi_CN_031,Sub 3-star Result,Ammo's more precious than that little lot. Deal with 'em yourself.,
-char_363_toddi_CN_032,Operation Failure,Still good to move? We're heading home. Grab on.,
-char_363_toddi_CN_033,Assigned to Facility,"Like this titchy bit of space is enough? Let's break this wall down and I'll have the whole area behind, Diolch.",
-char_363_toddi_CN_034,Tap,Think it through before you put your hand out.,
-char_363_toddi_CN_036,Trust Tap,"Go on if you need something. Don't wait for me to change my contacts, I can hear you whatever color they are.",
-char_363_toddi_CN_037,Title,Arknights.,
-char_363_toddi_CN_038,New Year's blessing,"Yeah, New Year's, there's a party, the whole song and dance, I get it. And that's why I'm sitting right here, having a drink with my magazines, while you carry on moaning and whinging. Trust me, that's my happy times.",
-char_363_toddi_CN_042,Greeting,"So it's you. If you need something, out with it.",
-char_363_toddi_CN_043,Birthday,"Oh? Birthday, then, today. How about we head deckside to celebrate? I'll give you my little siege ballista, can set off some massive fireworks? Oh, too dangerous? Tch, you sopping wet blanket. Whatever, off to the shops then, pick you out a proper present. Well? Get changed already, we're off.",
-char_363_toddi_CN_044,Anniversary Celebration,"Oripathy comes second, I've said that. If I'm not able to do what I like, that's not life no matter how long it drags out. And you know, being here, Rhodes Island, I always get a crack at something interesting. I half like it working with you lot. So don't you ever go letting me down.",
+id,title,original,original_zh,translation
+char_363_toddi_CN_001,Appointed as Assistant,Let's just burn 'em. You weren't gonna give those papers a second look anyway.,烧了吧，反正这些纸你也不会看第二眼。,Сожги их — ты всё равно не смотришь эти бумаги второй раз.
+char_363_toddi_CN_002,Talk 1,"If you wanted me to lay defenses in here, I'd break up the floor for starters. Not that I mind, it's for you to think about.",要我在房间里布防，地板就一定会坏。我是不太介意，你自己考虑清楚。,"Если я буду ставить в комнате укрепления, пол будет разрушен. Мне-то всё равно — подумай как следует."
+char_363_toddi_CN_003,Talk 2,"Got twps from Royal Guard knocking about, have you? Heh, ain't that interesting.",这里还有皇家近卫学校的人？哼——有点意思。,Здесь ещё и люди из Королевской гвардейской школы? Хмф — любопытно.
+char_363_toddi_CN_004,Talk 3,"Calibrate the sight? Nah, materials I ordered last should be here almost, I'll make the arrows first... Oh, push off, out my way.",校准一下瞄具，不，还是先做箭矢，上次订的材料应该快到了……别烦我，一边去。,"Подкалибровать прицел? Нет, сначала сделаю стрелы — материалы, что я заказывала, должны скоро прийти... Не лезь ко мне, отойди."
+char_363_toddi_CN_005,Talk after Promotion 1,"Most who leave Vouivre don't agree with the mercenary life in Sargon. Move to Victoria, end up doing something else instead, they do. Like... factory-working, farming, you know. Having their own little touch of land.",离开瓦伊凡的人大多不认同在萨尔贡的佣兵生活，到了维多利亚，总会做些其他事情。比如说……啊，是了，从工，从农。拥有自己的土地。,"Большинство ушедших из Вуавра не признают наёмническую жизнь в Саргоне; оказавшись в Виктории, они берутся за что-то другое. Например... а, да — идут на фабрику, в поле. Обзаводятся своим клочком земли."
+char_363_toddi_CN_006,Talk after Promotion 2,"You could probably tell, but I didn't use to be artillery. Mainly studied recon, infiltration, CQC, all that. Did not bloody take to it, and the instructors wouldn't let me switch courses, so I dropped out, simple as. What's the point in learning things you hate?",我以前不是做炮手的，你应该看得出来。侦察、潜入、近距格斗，主要是学这些。因为不喜欢，教官又不允许我调任，干脆就退学了。学自己讨厌的知识有什么意思？,"Ты и сам видишь, что раньше я не была артиллеристом. В основном я училась разведке, проникновению, ближнему бою. Мне не нравилось, наставники не давали перевестись — я просто бросила учёбу. Какой смысл учить то, что ненавидишь?"
+char_363_toddi_CN_007,Talk after Trust Increase 1,"Oh, you're helpless! How am I going to the workshop wearing this?!",你真是没救了，我怎么可能穿着这身进工坊？！,Ты безнадёжен! Как я пойду в мастерскую в этом?!
+char_363_toddi_CN_008,Talk after Trust Increase 2,"It's meant for attacking nomadic cities, this weapon. Using it to help you lot cope with skirmishers? It's like a hatchet to a cupcake. Let me try hitting a city or two sometime for practice, won't you?",这把武器可是用来攻击移动城市的，拿来让你们对付散兵真是大材小用。什么时候让我打几座城市练练手？,"Это оружие создано для штурма кочевых городов, а вы посылаете меня против сброда — пустая трата. Когда уже дадите мне потренироваться на паре городов?"
+char_363_toddi_CN_009,Talk after Trust Increase 3,"Don't you think these crystals on my shoulder here match well with my hair color? I like my off-the-shoulder clothes too, so it's perfect. Shame, though, it would've been nice if they covered the whole way like that Siracusan Messenger girl.",不觉得肩膀这一片的结晶体颜色和发色很称么，正好我也喜欢穿半露肩的衣服。可惜啊，感染痕迹如果能和那个叙拉古小信使一样是整片的就好了。,"Не находишь, что цвет кристаллов на плече отлично сочетается с моими волосами? Я и одежду люблю с открытым плечом — как раз подходит. Жаль только: было бы здорово, если бы следы заражения покрывали меня целиком, как ту сиракузскую курьершу."
+char_363_toddi_CN_010,Idle,"I'll be heading back to sort stuff out, then. No point wasting time on this rotter.",我先回去整理材料了，没必要陪着这家伙浪费时间。,Я вернусь и разберу материалы — нет смысла тратить время на этого типа.
+char_363_toddi_CN_011,Onboard,"Arianrot, codename Toddifons. I don't like working for ordinary people, so I've got my fingers crossed you show me something unusual.",阿丽安罗特，代号熔泉。我不喜欢给普通人干活，希望你能表现出自己有别于常人的地方。,"Арианрот, позывной Тоддифонс. Я не люблю работать на обычных людей — надеюсь, ты покажешь, чем ты от них отличаешься."
+char_363_toddi_CN_012,Watching Battle Record,Boring. Off we go.  ,没什么意思，走了。,Неинтересно. Идём.
+char_363_toddi_CN_013,Promotion 1,"What goes on in those Logistics' minds? Oh, look what Arianrot made, let's just grab it and... For me? Tch, fine. I accept. Your feelings are loud and clear. Thanks, see you.",后勤部的人在想什么，怎么把我随手做的……啧，行，我收下，算你心意到了。再见。,"О чём думают в логистике — взяли то, что я набросала между делом... Ц-ц, ладно, принимаю, спасибо за внимание. До свидания."
+char_363_toddi_CN_014,Promotion 2,"You've seen a Draco's flames before, I bet you anything. You ever imagined, the sight of them raining down on your enemy? <i>I</i> can make that your reality!",想必你见识过德拉克的烈火，有想过将它撒在敌人头上的那一刻吗？我，能给你实现。,"Ты, наверное, видел пламя дракона-дерака... Представлял, как оно обрушивается на врагов? Я могу это устроить."
+char_363_toddi_CN_017,Added to Squad,I'm listening.,我听着。,Слушаю.
+char_363_toddi_CN_018,Appointed as Squad Leader,Work's on. Focus.,开工了，认真点。,Начали. Сосредоточься.
+char_363_toddi_CN_019,Depart,You lot go ahead. I've got things to prepare.,你们先走，我准备点东西。,"Вы идите вперёд, я кое-что подготовлю."
+char_363_toddi_CN_020,Begin Operation,Visibility clear. Awaiting orders.,视野开阔，等待命令。,"Обзор чистый, жду приказа."
+char_363_toddi_CN_021,Selecting Operator 1,Still not done?,还没好么？,Ещё не готово?
+char_363_toddi_CN_022,Selecting Operator 2,Iawn?,哦？,О?
+char_363_toddi_CN_023,Deployment 1,Mounting complete.,固定完毕。,Закрепление готово.
+char_363_toddi_CN_024,Deployment 2,In position.,就位。,На позиции.
+char_363_toddi_CN_025,In Battle 1,I don't need visuals. Give me the map.,没必要用眼睛看，把地图给我。,Глаза тут ни к чему — дай мне карту.
+char_363_toddi_CN_026,In Battle 2,This area is cleared. Next!,这块清空了，下一处。,Этот участок чист. Следующий.
+char_363_toddi_CN_027,In Battle 3,Nothing remains once the arrows rain!,箭矢撒下去什么都不会剩。,"Когда стрелы посыплются, ничего не останется."
+char_363_toddi_CN_028,In Battle 4,Ha! Fire wouldn't go out while there's something left to burn!,哈，在烧尽之前，火怎么会熄灭？,Ха! Пока есть что гореть — огонь не погаснет.
+char_363_toddi_CN_029,4-star Result,There's only so many who can make this thing shine—guess you're one of them.,能完全发挥这家伙性能的人可不多，你算一个。,"Не так много людей способны выжать из этой штуки всё, что она может. Ты — один из них."
+char_363_toddi_CN_030,3-star Result,Out without too much ash on me. Gwych.,没沾上太多灰，很好。,Не слишком запылилась. Хорошо.
+char_363_toddi_CN_031,Sub 3-star Result,Ammo's more precious than that little lot. Deal with 'em yourself.,弹药比这几个人要贵重，你自己解决。,Патроны дороже этих нескольких типов — разберись с ними сам.
+char_363_toddi_CN_032,Operation Failure,Still good to move? We're heading home. Grab on.,还能动吧，我带你回去。,Ещё можешь двигаться? Я отведу тебя назад.
+char_363_toddi_CN_033,Assigned to Facility,"Like this titchy bit of space is enough? Let's break this wall down and I'll have the whole area behind, Diolch.",这点空间不够用，把这面墙打通，后面的使用面积都给我。,"Этого места мало — пробей вот эту стену, и всю площадь за ней отдай мне."
+char_363_toddi_CN_034,Tap,Think it through before you put your hand out.,伸手之前想清楚。,"Подумай, прежде чем тянуть руку."
+char_363_toddi_CN_036,Trust Tap,"Go on if you need something. Don't wait for me to change my contacts, I can hear you whatever color they are.",有事就说，没必要等我美瞳换完。,"Если что-то нужно — говори, не жди, пока я сменю линзы."
+char_363_toddi_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_363_toddi_CN_038,New Year's blessing,"Yeah, New Year's, there's a party, the whole song and dance, I get it. And that's why I'm sitting right here, having a drink with my magazines, while you carry on moaning and whinging. Trust me, that's my happy times.",新年会有例行公事的庆祝，是，我明白。所以我坐在这里，一边喝酒一边看杂志，顺便看你发牢骚，开心得很。,"На Новый год положено праздновать — да, я в курсе. Поэтому я сижу здесь, пью и листаю журналы, а заодно слушаю твои жалобы. И мне это очень даже нравится."
+char_363_toddi_CN_042,Greeting,"So it's you. If you need something, out with it.",嗨，有事快说。,Привет. Если что нужно — говори.
+char_363_toddi_CN_043,Birthday,"Oh? Birthday, then, today. How about we head deckside to celebrate? I'll give you my little siege ballista, can set off some massive fireworks? Oh, too dangerous? Tch, you sopping wet blanket. Whatever, off to the shops then, pick you out a proper present. Well? Get changed already, we're off.",哦？今天是你的生日啊。要不要把这个攻城弩借给你，去甲板上放一个超大号烟花庆祝一下？太危险了？嘁，真没劲。算了，还是去商场给你挑件正经的礼物吧。快换好衣服，我们现在就出发。,"О? Так сегодня твой день рождения. Хочешь — дам тебе осадный арбалет, устроим на палубе фейерверк покрупнее? Слишком опасно? Ц-ц, какая скука. Ладно, пойдём в магазин и выберем тебе настоящий подарок. Переодевайся быстрее — идём."
+char_363_toddi_CN_044,Anniversary Celebration,"Oripathy comes second, I've said that. If I'm not able to do what I like, that's not life no matter how long it drags out. And you know, being here, Rhodes Island, I always get a crack at something interesting. I half like it working with you lot. So don't you ever go letting me down.",我说过，矿石病只是次要的。要是不能做自己喜欢的事，活得再久又有什么意思呢？但是在罗德岛上，我总还能做点有趣的事。和你合作的感觉不赖，今后也不许让我失望。,"Я говорила: Орипатия — дело второстепенное. Если не можешь делать то, что любишь, какая польза жить долго? Но здесь, на Родосе, мне всегда находится что-нибудь интересное. Работать с тобой недурно — и впредь не смей меня разочаровывать."

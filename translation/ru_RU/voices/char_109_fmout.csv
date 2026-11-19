@@ -1,39 +1,39 @@
-id,title,original,translation
-char_109_fmout_CN_001,Appointed as Assistant,"Alright, Doctor, your tarot card for today is...",
-char_109_fmout_CN_002,Talk 1,Would you like to learn more about your future?,
-char_109_fmout_CN_003,Talk 2,Bear it in mind that excessive reliance on unfathomed power will eventually backfire on us.,
-char_109_fmout_CN_004,Talk 3,"Tarot cards aren't divine, all-seeing tools. Instead, we use them for guidance when we feel lost.",
-char_109_fmout_CN_005,Talk after Promotion 1,Destiny is like the world we walk upon—no one can escape it.,
-char_109_fmout_CN_006,Talk after Promotion 2,Humans might never be able to escape this world... but we can change it. Our actions belie endless possibilities.,
-char_109_fmout_CN_007,Talk after Trust Increase 1,"There are countless topics for which you can consult the tarot, the most common one being your luck in card games. To change it, however, you must be brave enough to change your fate first.",
-char_109_fmout_CN_008,Talk after Trust Increase 2,We have a ritual among diviners that's all the rage these days. We call it the 'Hand of Fate.' Would you like to try it?,
-char_109_fmout_CN_009,Talk after Trust Increase 3,It's a divination taboo to do readings concerning death. But I don't believe death is the end—it's the beginning of something new.,
-char_109_fmout_CN_010,Idle,"Dreams can often enlighten you in strange ways. If you have an enlightening dream like that, you'd best remember every detail, Doctor.",
-char_109_fmout_CN_011,Onboard,"Following the guidance of the arcana, our paths have finally converged. Nice to meet you, Doctor.",
-char_109_fmout_CN_012,Watching Battle Record,I feel inspired now.,
-char_109_fmout_CN_013,Promotion 1,"I'd already foreseen this promotion in my crystal ball. Heheh, just kidding.",
-char_109_fmout_CN_014,Promotion 2,"You want to know your destiny, Doctor? Too bad, I can't help you. I'm not the one to share it with you, for the fate forbids me to do so.",
-char_109_fmout_CN_017,Added to Squad,"Wait a minute, let me predict the results of this battle.",
-char_109_fmout_CN_018,Appointed as Squad Leader,"Well then, let me pray for everyone.",
-char_109_fmout_CN_019,Depart,Fate is a fickle thing... only the victorious will be forever revered.,
-char_109_fmout_CN_020,Begin Operation,I can see the outcome. Victory belongs to Rhodes Island.,
-char_109_fmout_CN_021,Selecting Operator 1,A very wise choice.,
-char_109_fmout_CN_022,Selecting Operator 2,My turn.,
-char_109_fmout_CN_023,Deployment 1,Draw a card.,
-char_109_fmout_CN_024,Deployment 2,Do not resist your fate.,
-char_109_fmout_CN_025,In Battle 1,The tower of void.,
-char_109_fmout_CN_026,In Battle 2,The flying chariot.,
-char_109_fmout_CN_027,In Battle 3,The Emperor's scepter shall break.,
-char_109_fmout_CN_028,In Battle 4,All will fall before the Priestess's might.,
-char_109_fmout_CN_029,4-star Result,Will fate have us in a chokehold… or will we turn the table?,
-char_109_fmout_CN_030,3-star Result,I have moved all of them to the graveyard.,
-char_109_fmout_CN_031,Sub 3-star Result,Time to reshuffle the deck.,
-char_109_fmout_CN_032,Operation Failure,Impossible... this isn't what I saw in the cards...,
-char_109_fmout_CN_033,Assigned to Facility,Bad omens seem to lurk inside this room. May I use my powers to help you manage them?,
-char_109_fmout_CN_034,Tap,Hm? What can I do for you?,
-char_109_fmout_CN_036,Trust Tap,"Want me to do a reading on your future? All right, please give me a minute.",
-char_109_fmout_CN_037,Title,Arknights.,
-char_109_fmout_CN_038,New Year's blessing,"Happy new year, Doctor. I bet you are eager to learn your fortune this year from me, aren't you? I have, truth be told, stolen a peek into it. My divination was reliable, as always. Still, only by unveiling the fate's mask with your own hands will you discover what lies beneath, don't you agree? No need to worry, I will be there to help you.",
-char_109_fmout_CN_042,Greeting,"Doctor, you're blessed by the winds of luck.",
-char_109_fmout_CN_043,Birthday,"Happy birthday, Doctor. As my birthday gift for you, I will answer any one question from you about the future. Yes, anything will be fine. I would like to remind you though, that I don't offer this kind of chance everyday, so think twice before you ask.",
-char_109_fmout_CN_044,Anniversary Celebration,"There's no preordained path where one shall walk, nor predestined fate which one shall suffer. And everyone on Rhodes Island has proved that many, many times. Here, Doctor, Peek into the crystal ball. As long as your heart is not shadowed by the clouds, you will see the light of hope at the end of the haze.",
+id,title,original,original_zh,translation
+char_109_fmout_CN_001,Appointed as Assistant,"Alright, Doctor, your tarot card for today is...",嗯，博士。您今天的运势是……,"Так, Доктор, ваша карта на сегодня..."
+char_109_fmout_CN_002,Talk 1,Would you like to learn more about your future?,您也想知道，自己未来的命运吗……,"Хотите узнать, что ждёт вас в будущем?"
+char_109_fmout_CN_003,Talk 2,Bear it in mind that excessive reliance on unfathomed power will eventually backfire on us.,随时都别忘记……未知的力量引起的反作用，很可能反噬我们自身。,Помните всегда: чрезмерная опора на неведомую силу может обернуться против нас самих.
+char_109_fmout_CN_004,Talk 3,"Tarot cards aren't divine, all-seeing tools. Instead, we use them for guidance when we feel lost.",塔罗只能祛除内心的雾霭，却从来不曾拥有万事皆能的神性。,"Таро лишь разгоняет туман в душе, но отнюдь не обладает божественным всеведением."
+char_109_fmout_CN_005,Talk after Promotion 1,Destiny is like the world we walk upon—no one can escape it.,命运就像大地，谁也不能挣脱它的枷锁。,"Судьба подобна земле, по которой мы идём — никто не может вырваться из её оков."
+char_109_fmout_CN_006,Talk after Promotion 2,Humans might never be able to escape this world... but we can change it. Our actions belie endless possibilities.,人无法挣脱大地的桎梏，却能改变大地的样貌。人类的行为中潜藏着无数的可能性。,"Люди не могут вырваться из пут этого мира, но могут изменить его облик. В человеческих поступках таится бесконечное множество возможностей."
+char_109_fmout_CN_007,Talk after Trust Increase 1,"There are countless topics for which you can consult the tarot, the most common one being your luck in card games. To change it, however, you must be brave enough to change your fate first.",运势中，存有无数主题，而最常见的就是……牌运。若要改变牌运，就要勇于改变命运。,"Есть множество тем для гадания, самая распространённая — удача в картах. Но чтобы изменить её, нужно осмелиться изменить саму судьбу."
+char_109_fmout_CN_008,Talk after Trust Increase 2,We have a ritual among diviners that's all the rage these days. We call it the 'Hand of Fate.' Would you like to try it?,最近在占卜师之间有一个流行的仪式，我们称之为“命运之手”，您想试试看吗？,В последнее время среди гадалок распространён один обряд — мы зовём его «Рука судьбы». Хотите попробовать?
+char_109_fmout_CN_009,Talk after Trust Increase 3,It's a divination taboo to do readings concerning death. But I don't believe death is the end—it's the beginning of something new.,对“死亡”的占卜，在我们业内也算是种禁忌。但我认为，“死亡”并非终点，而是一个新的开始。,"Гадание на «смерть» — у нас в кругах табу. Но я считаю, смерть — не конец, а начало нового."
+char_109_fmout_CN_010,Idle,"Dreams can often enlighten you in strange ways. If you have an enlightening dream like that, you'd best remember every detail, Doctor.",偶尔，梦境会为你展示有趣的启示，如果体验了这样的梦，要好好保存在记忆中哦，博士。,"Порой сны являют вам удивительные откровения — если такой приснится, запомните его как можно подробнее, Доктор."
+char_109_fmout_CN_011,Onboard,"Following the guidance of the arcana, our paths have finally converged. Nice to meet you, Doctor.",遵从阿尔克纳的指引，我的命运终于与您交汇了，博士。,"Следуя указаниям арканов, наши пути наконец пересеклись, Доктор."
+char_109_fmout_CN_012,Watching Battle Record,I feel inspired now.,有灵感了呢。,Меня осенило.
+char_109_fmout_CN_013,Promotion 1,"I'd already foreseen this promotion in my crystal ball. Heheh, just kidding.",我已经在水晶里预见了这次晋升哦？呵呵，只是个玩笑而已。,"Я предвидела это повышение в своём хрустальном шаре? Хи-хи, просто пошутила."
+char_109_fmout_CN_014,Promotion 2,"You want to know your destiny, Doctor? Too bad, I can't help you. I'm not the one to share it with you, for the fate forbids me to do so.",博士，你想知晓……自己的命运终将去往何方？很遗憾，我帮不了你。为你揭示那些秘密，并不是我的使命。,"Хотите узнать, Доктор, куда приведёт вас ваша судьба? Жаль, я не могу помочь. Не мне открывать вам эти тайны — судьба мне этого не позволяет."
+char_109_fmout_CN_017,Added to Squad,"Wait a minute, let me predict the results of this battle.",请稍候，先来占卜一下这次战斗的结果吧。,Подождите немного — предскажу исход этого боя.
+char_109_fmout_CN_018,Appointed as Squad Leader,"Well then, let me pray for everyone.",那么，就让我来为大家祈祷吧。,Тогда помолимся за всех нас.
+char_109_fmout_CN_019,Depart,Fate is a fickle thing... only the victorious will be forever revered.,命运变幻无常，唯有胜者永存于世。,Судьба изменчива — лишь победители остаются в веках.
+char_109_fmout_CN_020,Begin Operation,I can see the outcome. Victory belongs to Rhodes Island.,我看到了结果。胜利属于罗德岛。,Я вижу исход. Победа за Родосом.
+char_109_fmout_CN_021,Selecting Operator 1,A very wise choice.,明智的选择。,Мудрый выбор.
+char_109_fmout_CN_022,Selecting Operator 2,My turn.,我的回合。,Мой ход.
+char_109_fmout_CN_023,Deployment 1,Draw a card.,抽一张卡片。,Тяну карту.
+char_109_fmout_CN_024,Deployment 2,Do not resist your fate.,不要违抗你的命运。,Не противьтесь своей судьбе.
+char_109_fmout_CN_025,In Battle 1,The tower of void.,虚空之塔。,Башня пустоты.
+char_109_fmout_CN_026,In Battle 2,The flying chariot.,行空之战车。,Летящая колесница.
+char_109_fmout_CN_027,In Battle 3,The Emperor's scepter shall break.,折断帝王的权杖。,Скипетр императора будет сломлен.
+char_109_fmout_CN_028,In Battle 4,All will fall before the Priestess's might.,女祭司毁灭一切。,Всё падёт перед силой жрицы.
+char_109_fmout_CN_029,4-star Result,Will fate have us in a chokehold… or will we turn the table?,是命运扼住我们的咽喉，亦或是，我们将要对命运作绝地反击？,Судьба ли держит нас за горло... или мы ответим ей отчаянным ударом?
+char_109_fmout_CN_030,3-star Result,I have moved all of them to the graveyard.,我已经将他们全部移动到墓地之中了。,Я переместила их всех на кладбище.
+char_109_fmout_CN_031,Sub 3-star Result,Time to reshuffle the deck.,该重新洗牌了。,Пора перетасовать колоду.
+char_109_fmout_CN_032,Operation Failure,Impossible... this isn't what I saw in the cards...,不，这不该是我们应有的命运……,Нет... этого не должно было быть в картах...
+char_109_fmout_CN_033,Assigned to Facility,Bad omens seem to lurk inside this room. May I use my powers to help you manage them?,这个房间里面似乎潜藏着厄运，需要我用我的力量帮你做点什么吗？,"В этой комнате, кажется, таится дурное предзнаменование. Позвольте мне помочь вам своей силой?"
+char_109_fmout_CN_034,Tap,Hm? What can I do for you?,嗯？怎么了？,Мм? Что вам нужно?
+char_109_fmout_CN_036,Trust Tap,"Want me to do a reading on your future? All right, please give me a minute.",想让我为您占卜下今后的运气？是嘛~请稍等一下。,"Хотите, предскажу вашу удачу на будущее? Хорошо, подождите минуточку."
+char_109_fmout_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_109_fmout_CN_038,New Year's blessing,"Happy new year, Doctor. I bet you are eager to learn your fortune this year from me, aren't you? I have, truth be told, stolen a peek into it. My divination was reliable, as always. Still, only by unveiling the fate's mask with your own hands will you discover what lies beneath, don't you agree? No need to worry, I will be there to help you.",新年快乐。博士，是不是很想让我占卜一下您今年的运势呢？其实我已经偷看过啦。我的占卜固然可靠，不过命运当然是由自己亲手揭晓才有意义。别担心，我会陪着你的。,"С Новым годом, Доктор. Наверное, вам не терпит узнать от меня свою удачу в этом году? Признаюсь, я уже подсмотрела. Моё гадание надёжно, как всегда. Но судьбу стоит раскрывать самому — только тогда это имеет смысл, не правда ли? Не волнуйтесь, я буду рядом."
+char_109_fmout_CN_042,Greeting,"Doctor, you're blessed by the winds of luck.",幸运之风吹拂着你，博士。,"Ветер удачи дует вам вслед, Доктор."
+char_109_fmout_CN_043,Birthday,"Happy birthday, Doctor. As my birthday gift for you, I will answer any one question from you about the future. Yes, anything will be fine. I would like to remind you though, that I don't offer this kind of chance everyday, so think twice before you ask.",生日快乐哦。作为礼物，我可以回答你一个和未来相关的问题哦。嗯，什么都可以。不过这种机会可不是常有的，在提问前可要好好想清楚哦。,"С днём рождения. В подарок я отвечу вам на один вопрос о будущем. Да-да, на любой. Только такой шанс выпадает не каждый день — хорошенько подумайте, прежде чем спросить."
+char_109_fmout_CN_044,Anniversary Celebration,"There's no preordained path where one shall walk, nor predestined fate which one shall suffer. And everyone on Rhodes Island has proved that many, many times. Here, Doctor, Peek into the crystal ball. As long as your heart is not shadowed by the clouds, you will see the light of hope at the end of the haze.",从来都不存在预设好的道路，也没有无法改变的命运。事到如今，罗德岛各位不是已经多次证明了这一点吗？看看这个水晶球吧，只要您的内心没有阴霾，就永远可以看到希望的光亮。,"Нет ни заранее проложенной дороги, ни неизменной судьбы. Разве жители Родоса не доказали это не раз? Загляните в шар, Доктор: пока в вашем сердце нет туч, вы всегда увидите свет надежды."

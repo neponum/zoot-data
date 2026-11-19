@@ -1,39 +1,39 @@
-id,title,original,translation
-char_431_ashlok_CN_001,Appointed as Assistant,"So, just like the big corporations' office workers, even you have a bunch of deskwork to do. That's quite a lot, too. Do you need any help?",
-char_431_ashlok_CN_002,Talk 1,I never imagined the Radiant Knight would take up employment anywhere. Rhodes Island is a mysterious company.,
-char_431_ashlok_CN_003,Talk 2,"Knights may be able to climb back up after they fall, but the Infected don't have such kindhearted options available to them.",
-char_431_ashlok_CN_004,Talk 3,"*Cough*... My weapon seems to be acting up, *cough*... Which way is the workshop? That way? Thank you. *Cough*.",
-char_431_ashlok_CN_005,Talk after Promotion 1,"If the knight nobles were able to fulfill their vows and responsibilities, the Infected wouldn't have found themselves so oppressed. But... those nobles... the Kazimierz people would rather sign contracts with those big security companies than trust those knight nobles to protect them from crime and violence.",
-char_431_ashlok_CN_006,Talk after Promotion 2,"They tell me my family met its downfall because I got infected, that I am to blame for everything. Hmph, just what you'd expect from the knight nobles. They're all good-for-nothings who know only to bully the weak.",
-char_431_ashlok_CN_007,Talk after Trust Increase 1,Justyna likes to use titles when she talks to me... Why is that? Is the word 'Ashlock' that special to her?,
-char_431_ashlok_CN_008,Talk after Trust Increase 2,"Sona and I met each other during a team melee match. That was a tough battle, but we reached an understanding and worked with each other as soon as we met. At the very end, she took all my points with her sword, but then apologized to me right away... That's how we started working together.",
-char_431_ashlok_CN_009,Talk after Trust Increase 3,"If I can't go back home anymore, then all I can do is find the way forward with Sona and the gang. Heh... Becoming an Infected knight hasn't been kind to me, but at least we have the chance to fight. It doesn't matter what miseries the future has in store for us; I'm sure it'll still be a much brighter place.",
-char_431_ashlok_CN_010,Idle,Be sure to get enough rest. The break after a match is just as important as your daily training.,
-char_431_ashlok_CN_011,Onboard,I'm 'Ashlock' Greynuty of Pinus Sylvestris Knightclub. Thank you for taking us in.,
-char_431_ashlok_CN_012,Watching Battle Record,"A coordinated assault? Yeah, they work well with each other.",
-char_431_ashlok_CN_013,Promotion 1,"Is this a medal to prove my qualifications? Oh... Sorry, I still don't have all of Rhodes Island's rules down. Thank you.",
-char_431_ashlok_CN_014,Promotion 2,"'When the cannon fire rings through the air, victory is already within sight.'",
-char_431_ashlok_CN_017,Added to Squad,I will follow your orders.,
-char_431_ashlok_CN_018,Appointed as Squad Leader,You need me to take charge? Okay.,
-char_431_ashlok_CN_019,Depart,"Good hunting, everyone.",
-char_431_ashlok_CN_020,Begin Operation,Get ready. The enemy's coming!,
-char_431_ashlok_CN_021,Selecting Operator 1,Yeah.,
-char_431_ashlok_CN_022,Selecting Operator 2,Your orders.,
-char_431_ashlok_CN_023,Deployment 1,It's not like the knight competitions. You can't pause a battle when someone gets injured.,
-char_431_ashlok_CN_024,Deployment 2,The match's starting now.,
-char_431_ashlok_CN_025,In Battle 1,Reload!,
-char_431_ashlok_CN_026,In Battle 2,Cannon fire is just the first step.,
-char_431_ashlok_CN_027,In Battle 3,Strengthen your defense! Forward!,
-char_431_ashlok_CN_028,In Battle 4,I will win this match!,
-char_431_ashlok_CN_029,4-star Result,Wonderful. So this is the art of command. You've opened my eyes.,
-char_431_ashlok_CN_030,3-star Result,Looks like you're good at commanding team battles.,
-char_431_ashlok_CN_031,Sub 3-star Result,"The more points you lose in the arena, the less likely you are to win.",
-char_431_ashlok_CN_032,Operation Failure,*Cough*... Is this... my fault...?,
-char_431_ashlok_CN_033,Assigned to Facility,Good thing my equipment doesn't take up too much space.,
-char_431_ashlok_CN_034,Tap,Hm?,
-char_431_ashlok_CN_036,Trust Tap,A present from a fan? It was sent to you? Sorry for the trouble.,
-char_431_ashlok_CN_037,Title,Arknights.,
-char_431_ashlok_CN_038,New Year's blessing,"Sona should still be asleep, Iwona's at the training grounds, and Justyna's standing guard up on the watchtower. As for me... I haven't figured it out yet. Doctor, what would a normal Rhodes Island operator do on this day?",
-char_431_ashlok_CN_042,Greeting,Do we have any missions today?,
-char_431_ashlok_CN_043,Birthday,"Happy birthday. Here's... no, actually, forget it. Giving you an autographed postcard as a gift just feels too arrogant, my apolo— You don't mind? Oh... thanks for that...",
-char_431_ashlok_CN_044,Anniversary Celebration,"I used to believe that, in looking for a better way to help the infected, we need to cast our sights beyond the border of Kazimierz, but the situation there turns out to be... even more complicated. And we won't get to the bottom of it unless we learn firsthand ourselves. Still, I'm ready to face all of it. Send me out on missions, Doctor.",
+id,title,original,original_zh,translation
+char_431_ashlok_CN_001,Appointed as Assistant,"So, just like the big corporations' office workers, even you have a bunch of deskwork to do. That's quite a lot, too. Do you need any help?",原来您也需要像大公司职员一样做文书工作，量还不小，需要帮忙么。,"Оказывается, вам тоже приходится заниматься бумажной работой, как служащим большой компании. И немало. Помочь?"
+char_431_ashlok_CN_002,Talk 1,I never imagined the Radiant Knight would take up employment anywhere. Rhodes Island is a mysterious company.,想不到耀骑士也会接受雇佣，罗德岛真是家神奇的公司。,"Не ожидала, что и Сияющий Рыцарь пойдёт на службу по найму. Родос и правда удивительная компания."
+char_431_ashlok_CN_003,Talk 2,"Knights may be able to climb back up after they fall, but the Infected don't have such kindhearted options available to them.",骑士或许能够跌倒后爬起来，感染者可没机会享受这种仁慈。,"Рыцарь, может, и поднимется после падения, а инфицированным такая милость не дозволена."
+char_431_ashlok_CN_004,Talk 3,"*Cough*... My weapon seems to be acting up, *cough*... Which way is the workshop? That way? Thank you. *Cough*.",咳咳，武器好像出了些问题，咳咳咳，工坊哪里走？那里吗，好，谢谢，咳，咳咳。,"Кхм, кхм... Кажется, с оружием что-то не так. Кхм-кхм... Где тут мастерская? Вон там? Хорошо, спасибо. Кхм, кхм..."
+char_431_ashlok_CN_005,Talk after Promotion 1,"If the knight nobles were able to fulfill their vows and responsibilities, the Infected wouldn't have found themselves so oppressed. But... those nobles... the Kazimierz people would rather sign contracts with those big security companies than trust those knight nobles to protect them from crime and violence.",如果骑士贵族能够切实履行他们的誓言和职责，感染者的处境本不应该这般窘迫。只是……贵族……卡西米尔人宁愿与大公司签安保合同，也不可能相信一位骑士贵族会去除暴安良。,"Если бы рыцари-дворяне на деле исполняли свои клятвы и долг, инфицированным не приходилось бы так туго. Но... дворяне... жители Казимежа скорее подпишут договор с крупной охранной фирмой, чем поверят, что какой-то рыцарь-дворянин защитит их от зла."
+char_431_ashlok_CN_006,Talk after Promotion 2,"They tell me my family met its downfall because I got infected, that I am to blame for everything. Hmph, just what you'd expect from the knight nobles. They're all good-for-nothings who know only to bully the weak.",他们都说家族是因为我的感染而没落，一切都是我的错。哼，这就是骑士贵族，一无是处，只知道欺侮弱者。,"Говорят, мой род пришёл в упадок из-за того, что я заразилась, и во всём я виновата. Хм, вот они, рыцари-дворяне: ни на что не годятся, умеют только обижать слабых."
+char_431_ashlok_CN_007,Talk after Trust Increase 1,Justyna likes to use titles when she talks to me... Why is that? Is the word 'Ashlock' that special to her?,查丝汀娜和我搭话喜欢加上封号……为什么，“灰毫”这个词对她来说很特别吗？,"Юстина, когда со мной разговаривает, любит добавлять титул... Почему? Слово «Эшлок» для неё что, особенное?"
+char_431_ashlok_CN_008,Talk after Trust Increase 2,"Sona and I met each other during a team melee match. That was a tough battle, but we reached an understanding and worked with each other as soon as we met. At the very end, she took all my points with her sword, but then apologized to me right away... That's how we started working together.",我和索娜是在团体混战赛上认识的，那是场苦战，但初次见面的我们很快就达成了共识一起应对其他选手，最后，她用剑取走我的积分，接着当场给我道了歉……于是我们就搭伙一起行动了。,"Мы с Соной познакомились на командном турнире. Бой был тяжёлым, но мы сразу пришли к согласию и стали действовать вместе против остальных. В конце она отобрала у меня очки своим клинком, а тут же извинилась передо мной... С тех пор мы и работаем в паре."
+char_431_ashlok_CN_009,Talk after Trust Increase 3,"If I can't go back home anymore, then all I can do is find the way forward with Sona and the gang. Heh... Becoming an Infected knight hasn't been kind to me, but at least we have the chance to fight. It doesn't matter what miseries the future has in store for us; I'm sure it'll still be a much brighter place.",故乡已经回不去了，我所能做的，只有和索娜她们一起探寻前路。呵……成为感染者骑士虽然不怎么好，但至少还有抗争的机会，未来再悲苦，总比现在要光明。,"Домой дороги нет, так что мне осталось только искать путь вперёд вместе с Соной и остальными. Хе... быть инфицированным рыцарем — не самая приятная участь, но хоть есть шанс бороться. Каким бы горьким ни было будущее, оно всё равно светлее настоящего."
+char_431_ashlok_CN_010,Idle,Be sure to get enough rest. The break after a match is just as important as your daily training.,适时休息吧，赛后恢复与日常训练同等重要。,"Отдыхайте вовремя. Восстановление после боя так же важно, как ежедневные тренировки."
+char_431_ashlok_CN_011,Onboard,I'm 'Ashlock' Greynuty of Pinus Sylvestris Knightclub. Thank you for taking us in.,红松骑士团，“灰毫”，格蕾纳蒂。感谢罗德岛的接纳。,"Грейнейти, «Эшлок» из Рыцарского клуба «Красная сосна». Спасибо Родосу за приют."
+char_431_ashlok_CN_012,Watching Battle Record,"A coordinated assault? Yeah, they work well with each other.",协作突击？嗯，配合很默契。,"Совместная атака? Мм, они действовали слаженно."
+char_431_ashlok_CN_013,Promotion 1,"Is this a medal to prove my qualifications? Oh... Sorry, I still don't have all of Rhodes Island's rules down. Thank you.",这是资格认证奖章吗？哦……抱歉，我不太了解罗德岛的规定。谢谢。,"Это медаль, подтверждающая квалификацию? О... Простите, я ещё не всё знаю о правилах Родоса. Спасибо."
+char_431_ashlok_CN_014,Promotion 2,"'When the cannon fire rings through the air, victory is already within sight.'",“炮声轰鸣，胜利已在眼前。”,«Грохот орудий — и победа уже близко».
+char_431_ashlok_CN_017,Added to Squad,I will follow your orders.,听从您的调遣。,Жду ваших указаний.
+char_431_ashlok_CN_018,Appointed as Squad Leader,You need me to take charge? Okay.,需要我指挥？好。,"Нужно, чтобы я командовала? Хорошо."
+char_431_ashlok_CN_019,Depart,"Good hunting, everyone.",愿各位凯旋。,Пусть все вернутся с победой.
+char_431_ashlok_CN_020,Begin Operation,Get ready. The enemy's coming!,准备好，对手接近了！,"Приготовьтесь, противник приближается!"
+char_431_ashlok_CN_021,Selecting Operator 1,Yeah.,嗯。,Мм.
+char_431_ashlok_CN_022,Selecting Operator 2,Your orders.,下令吧。,Отдавайте приказ.
+char_431_ashlok_CN_023,Deployment 1,It's not like the knight competitions. You can't pause a battle when someone gets injured.,战斗可没有点到为止的说法。,"В бою нет правила «до первой раны» — не остановишь его, даже если кто-то ранен."
+char_431_ashlok_CN_024,Deployment 2,The match's starting now.,比赛开始了。,Турнир начался.
+char_431_ashlok_CN_025,In Battle 1,Reload!,填弹！,Заряжай!
+char_431_ashlok_CN_026,In Battle 2,Cannon fire is just the first step.,炮击只是第一步。,Артиллерийский огонь — только первый шаг.
+char_431_ashlok_CN_027,In Battle 3,Strengthen your defense! Forward!,防守，进攻！,Крепи оборону! Вперёд!
+char_431_ashlok_CN_028,In Battle 4,I will win this match!,我会赢下这一场！,Я выиграю этот бой!
+char_431_ashlok_CN_029,4-star Result,Wonderful. So this is the art of command. You've opened my eyes.,精彩，这就是指挥的艺术，受教了。,"Превосходно. Вот оно, искусство командовать — я многому научилась."
+char_431_ashlok_CN_030,3-star Result,Looks like you're good at commanding team battles.,看来您很擅长指挥团体战。,"Похоже, вы хорошо умеете командовать в командных боях."
+char_431_ashlok_CN_031,Sub 3-star Result,"The more points you lose in the arena, the less likely you are to win.",赛场上被多拿一分，胜算就少一分。,"Каждое очко, отданное на ринге, уменьшает шансы на победу."
+char_431_ashlok_CN_032,Operation Failure,*Cough*... Is this... my fault...?,咳咳……是我的……错吗……,Кхм... Я... виновата?..
+char_431_ashlok_CN_033,Assigned to Facility,Good thing my equipment doesn't take up too much space.,还好装备不太占空间。,"Хорошо, что моё снаряжение почти не занимает места."
+char_431_ashlok_CN_034,Tap,Hm?,哼？,Хм?
+char_431_ashlok_CN_036,Trust Tap,A present from a fan? It was sent to you? Sorry for the trouble.,粉丝的礼物？送到您这里了？真抱歉，给您添麻烦了。,"Подарок от поклонницы? Прислали вам? Простите, что создала вам неудобство."
+char_431_ashlok_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_431_ashlok_CN_038,New Year's blessing,"Sona should still be asleep, Iwona's at the training grounds, and Justyna's standing guard up on the watchtower. As for me... I haven't figured it out yet. Doctor, what would a normal Rhodes Island operator do on this day?",索娜应该还在睡觉，艾沃娜在训练场，查丝汀娜在塔楼望风，至于我……我还没想好。博士，如果是普通的罗德岛干员，在这一天会做些什么呢？,"Сона должна ещё спать, Ивона на тренировочном поле, Юстина стоит на страже на башне, а я... я ещё не придумала. Доктор, а что в такой день делает обычный оперативник Родоса?"
+char_431_ashlok_CN_042,Greeting,Do we have any missions today?,今天有什么任务？,Какие сегодня задания?
+char_431_ashlok_CN_043,Birthday,"Happy birthday. Here's... no, actually, forget it. Giving you an autographed postcard as a gift just feels too arrogant, my apolo— You don't mind? Oh... thanks for that...",生日快乐，这是……不，还是算了……签字明信片这种东西作为礼物送给别人还是太傲慢了，我……您不介意吗？谢，谢谢……,"С днём рождения. Вот... нет, не надо... Дарить открытку с автографом как подарок — слишком дерзко, я... Вы не против? С-спасибо..."
+char_431_ashlok_CN_044,Anniversary Celebration,"I used to believe that, in looking for a better way to help the infected, we need to cast our sights beyond the border of Kazimierz, but the situation there turns out to be... even more complicated. And we won't get to the bottom of it unless we learn firsthand ourselves. Still, I'm ready to face all of it. Send me out on missions, Doctor.",我原本以为在卡西米尔之外就能找到拯救感染者的方法，但其他国家……或许存在着更加复杂的问题，这些情况不离开卡西米尔还真是无法了解。我准备好面对他们了，安排任务吧，博士。,"Я думала, что за пределами Казимежа найду способ спасти инфицированных, но в других странах... похоже, всё ещё сложнее. Без того, чтобы увидеть это своими глазами, не понять. Я готова смотреть им в лицо. Отправляйте меня на задания, Доктор."

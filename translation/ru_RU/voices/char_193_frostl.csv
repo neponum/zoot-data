@@ -1,39 +1,39 @@
-id,title,original,translation
-char_193_frostl_CN_001,Appointed as Assistant,Want to listen to some music? I'll lend you my headphones.,
-char_193_frostl_CN_002,Talk 1,"Sorry, please keep a little distance from me.",
-char_193_frostl_CN_003,Talk 2,I never imagined that I'd have the chance to become a rescue worker.,
-char_193_frostl_CN_004,Talk 3,"I picked up this axe a long time ago, maybe even before I learned to read.",
-char_193_frostl_CN_005,Talk after Promotion 1,The songs I like are probably not so popular. They're only good for humming to myself when I'm alone.,
-char_193_frostl_CN_006,Talk after Promotion 2,Don't blink—you have but one moment to witness this epic move.,
-char_193_frostl_CN_007,Talk after Trust Increase 1,"Want something to drink? My treat. You should relax a bit after work, you know.",
-char_193_frostl_CN_008,Talk after Trust Increase 2,"I only realized how precious life is after everyone around me died, one by one. Ironic, huh? I think so, too.",
-char_193_frostl_CN_009,Talk after Trust Increase 3,"I'm a mercenary. I just do my job. As for the purpose of my mission and its consequences, I don't have a say in any of that. So, from now on, all my responsibilities are your concern.",
-char_193_frostl_CN_010,Idle,Dun... dun dun♪dun... dun dun...♪,
-char_193_frostl_CN_011,Onboard,"Frostleaf, former mercenary. From now on, I'm your operator. Assign me any job you want, I can do pretty much anything.",
-char_193_frostl_CN_012,Watching Battle Record,Thanks.,
-char_193_frostl_CN_013,Promotion 1,Things are on the right track now.,
-char_193_frostl_CN_014,Promotion 2,Whew... not bad. Feeling fulfilled for the first time in a while.,
-char_193_frostl_CN_017,Added to Squad,I'll do my job.,
-char_193_frostl_CN_018,Appointed as Squad Leader,Go your own ways and do your own jobs.,
-char_193_frostl_CN_019,Depart,"Great, I feel like some exercise.",
-char_193_frostl_CN_020,Begin Operation,You will shatter.,
-char_193_frostl_CN_021,Selecting Operator 1,Hmm?,
-char_193_frostl_CN_022,Selecting Operator 2,Your orders?,
-char_193_frostl_CN_023,Deployment 1,This should work.,
-char_193_frostl_CN_024,Deployment 2,"Hm, okay.",
-char_193_frostl_CN_025,In Battle 1,My bodily fluids aren't the only thing that's chilling.,
-char_193_frostl_CN_026,In Battle 2,Extend my edge!,
-char_193_frostl_CN_027,In Battle 3,"Life, brittle as frost, fragile like leaves.",
-char_193_frostl_CN_028,In Battle 4,Let's chill down some hot heads.,
-char_193_frostl_CN_029,4-star Result,"I've been through countless battles... seen the carnage, witnessed the silent nothingness at the end.",
-char_193_frostl_CN_030,3-star Result,I remember every enemy I fought. Not a single one escapes.,
-char_193_frostl_CN_031,Sub 3-star Result,"We didn't lose anyone, did we?",
-char_193_frostl_CN_032,Operation Failure,I'll hold up the rear.,
-char_193_frostl_CN_033,Assigned to Facility,I'd like... a more private space.,
-char_193_frostl_CN_034,Tap,Ow.,
-char_193_frostl_CN_036,Trust Tap,How about a drink?,
-char_193_frostl_CN_037,Title,Arknights.,
-char_193_frostl_CN_038,New Year's blessing,"I never celebrated any holiday like this before coming to Rhodes Island. Even on a peaceful New Year's, I wouldn't have a room as safe and warm as this... Sorry, Doctor, can I just—listen to some music on my own for a while? I'll come and catch you in a bit. Thank you.",
-char_193_frostl_CN_042,Greeting,Doctor...,
-char_193_frostl_CN_043,Birthday,"Happy birthday, Doctor. Here's a charm I made for you. Inside it are some lyrics I extracted from a song, the one I always listen to when I'm feeling down. I hope it'll protect you from any hurt enemies might deal you. Oh, it's coming on too heavy? Not at all. Life's the most important thing, trust me on that.",
-char_193_frostl_CN_044,Anniversary Celebration,"You don't need to be too worried. My past experiences weren't all bad. They taught me what living wrongly looked like. And my time at Rhodes Island has made me want to stick even harder with this all-new outlook, to explore even more unknown places across the lands. Maybe you'd wanna come with me, Doctor.",
+id,title,original,original_zh,translation
+char_193_frostl_CN_001,Appointed as Assistant,Want to listen to some music? I'll lend you my headphones.,要听点音乐吗？我的耳机就借你一会儿吧。,Хочешь послушать музыку? Я дам тебе свои наушники.
+char_193_frostl_CN_002,Talk 1,"Sorry, please keep a little distance from me.",抱歉，请和我保持一点距离。,"Прости, держись от меня на небольшом расстоянии."
+char_193_frostl_CN_003,Talk 2,I never imagined that I'd have the chance to become a rescue worker.,我从没想过，自己会有从事救援工作的这一天。,"Я и не думала, что когда-нибудь стану спасателем."
+char_193_frostl_CN_004,Talk 3,"I picked up this axe a long time ago, maybe even before I learned to read.",挥舞这把斧头的时间，说不定比我识字的时间都长。,"Я владею этим топором дольше, чем умею читать."
+char_193_frostl_CN_005,Talk after Promotion 1,The songs I like are probably not so popular. They're only good for humming to myself when I'm alone.,我喜欢的歌，应该也不怎么流行吧。这些歌只适合独处的时候哼给自己听。,"Песни, которые я люблю, наверное, не слишком популярны. Они годятся только чтобы напевать их про себя, когда одна."
+char_193_frostl_CN_006,Talk after Promotion 2,Don't blink—you have but one moment to witness this epic move.,不要眨眼。见证这战技的机会，只有这一瞬间。,"Не моргай — у тебя лишь один миг, чтобы увидеть этот приём."
+char_193_frostl_CN_007,Talk after Trust Increase 1,"Want something to drink? My treat. You should relax a bit after work, you know.",喝点吗，我请。工作结束之后，还是稍微放松一会儿比较好。,Выпьешь? Я угощаю. После работы стоит немного расслабиться.
+char_193_frostl_CN_008,Talk after Trust Increase 2,"I only realized how precious life is after everyone around me died, one by one. Ironic, huh? I think so, too.",直到身边的人接连逝去，我才意识到作为人去活着的可贵。很讽刺吧？呵，我也觉得。,"Я поняла, как драгоценна жизнь, только когда один за другим умерли все рядом. Иронично, да? Я и сама так считаю."
+char_193_frostl_CN_009,Talk after Trust Increase 3,"I'm a mercenary. I just do my job. As for the purpose of my mission and its consequences, I don't have a say in any of that. So, from now on, all my responsibilities are your concern.",佣兵不过是种工作，出于什么目的、造成什么后果，并不由我决定。以后，这种“我该担负什么责任”的考量，就交给你了。,"Наёмник — это просто работа. С какой целью и с какими последствиями — не мне решать. Так что отныне все вопросы о том, какую ответственность я несу, — твоя забота."
+char_193_frostl_CN_010,Idle,Dun... dun dun♪dun... dun dun...♪,哼——哼哼♪哼……哼哼……♪,Дум... дум-дум♪ дум... дум-дум...♪
+char_193_frostl_CN_011,Onboard,"Frostleaf, former mercenary. From now on, I'm your operator. Assign me any job you want, I can do pretty much anything.",霜叶，前佣兵，现在，是你的干员。随意调遣我吧，我什么都能做。,"Фростлиф, бывшая наёмница. Отныне я твоя оперативница. Распоряжайся мной как хочешь — я могу почти всё."
+char_193_frostl_CN_012,Watching Battle Record,Thanks.,谢谢。,Спасибо.
+char_193_frostl_CN_013,Promotion 1,Things are on the right track now.,提上正轨了。,Дело пошло в нужное русло.
+char_193_frostl_CN_014,Promotion 2,Whew... not bad. Feeling fulfilled for the first time in a while.,呼……也不错。久违的充实感。,Фух... неплохо. Давно не было такого чувства полноты сил.
+char_193_frostl_CN_017,Added to Squad,I'll do my job.,我会履行自己的义务。,Я сделаю свою работу.
+char_193_frostl_CN_018,Appointed as Squad Leader,Go your own ways and do your own jobs.,各行其道，各尽其职。,Каждый идёт своим путём и делает своё дело.
+char_193_frostl_CN_019,Depart,"Great, I feel like some exercise.",正好，我也想活动下身体了。,Как раз хочется размять тело.
+char_193_frostl_CN_020,Begin Operation,You will shatter.,支离破碎吧——！,Ты рассыплешься —!
+char_193_frostl_CN_021,Selecting Operator 1,Hmm?,嗯？,Хм?
+char_193_frostl_CN_022,Selecting Operator 2,Your orders?,有什么命令？,Есть приказ?
+char_193_frostl_CN_023,Deployment 1,This should work.,这样就可以了。,Так сойдёт.
+char_193_frostl_CN_024,Deployment 2,"Hm, okay.",唔，可以。,"Мм, ладно."
+char_193_frostl_CN_025,In Battle 1,My bodily fluids aren't the only thing that's chilling.,寒冷，不止我的体液。,Холод — не только в моих жидкостях.
+char_193_frostl_CN_026,In Battle 2,Extend my edge!,延伸我的锋芒吧——！,Продли моё лезвие —!
+char_193_frostl_CN_027,In Battle 3,"Life, brittle as frost, fragile like leaves.",凡有生气，尽都如草。,Всякая плоть — трава.
+char_193_frostl_CN_028,In Battle 4,Let's chill down some hot heads.,让头脑清醒点吧。,Остудим горячие головы.
+char_193_frostl_CN_029,4-star Result,"I've been through countless battles... seen the carnage, witnessed the silent nothingness at the end.",战争尽头的荒芒，已不知道经历了多少次。,Сколько раз я видела пустоту в конце войны... и как она поглощала всё.
+char_193_frostl_CN_030,3-star Result,I remember every enemy I fought. Not a single one escapes.,我记得每一个敌人。一个逃走的也没有。,Я помню каждого врага. Никто не ушёл.
+char_193_frostl_CN_031,Sub 3-star Result,"We didn't lose anyone, did we?",没有损失人手吧。,Мы никого не потеряли?
+char_193_frostl_CN_032,Operation Failure,I'll hold up the rear.,我来断后……！,Я прикрою тыл...!
+char_193_frostl_CN_033,Assigned to Facility,I'd like... a more private space.,想要比较……私人一点的空间呢。,Мне бы... более уединённое место.
+char_193_frostl_CN_034,Tap,Ow.,唔呀。,Ой.
+char_193_frostl_CN_036,Trust Tap,How about a drink?,一起去喝一杯吧？,Выпьем вместе?
+char_193_frostl_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_193_frostl_CN_038,New Year's blessing,"I never celebrated any holiday like this before coming to Rhodes Island. Even on a peaceful New Year's, I wouldn't have a room as safe and warm as this... Sorry, Doctor, can I just—listen to some music on my own for a while? I'll come and catch you in a bit. Thank you.",在来罗德岛之前，我从来没有庆祝过这样的节日。新年？即便没有工作，也不会有这样温暖安全的房间。我可以自己先听一会儿音乐吗？等我一下……待会儿会来找你的，博士。谢谢。,"До Родоса я никогда не праздновала подобных дней. В новый год — даже без работы — у меня не было такой тёплой и безопасной комнаты... Прости, доктор, можно мне пока просто послушать музыку? Я подойду позже. Спасибо."
+char_193_frostl_CN_042,Greeting,Doctor...,博士。,Доктор...
+char_193_frostl_CN_043,Birthday,"Happy birthday, Doctor. Here's a charm I made for you. Inside it are some lyrics I extracted from a song, the one I always listen to when I'm feeling down. I hope it'll protect you from any hurt enemies might deal you. Oh, it's coming on too heavy? Not at all. Life's the most important thing, trust me on that.",生日快乐，博士，这是我为你做的护身符，里面放了我摘抄的歌词，这首歌，我心情不好的时候就会去听。希望它能保护你在这一年里不受敌人伤害。太严肃了吗？不，生命是最重要的，请相信我。,"С днём рождения, доктор. Я сделала тебе оберег: внутри — строчки из песни, которую я всегда слушаю, когда мне грустно. Пусть он убережёт тебя от ран, которые могут нанести враги. Слишком серьёзно? Нет. Жизнь — важнее всего, поверь мне."
+char_193_frostl_CN_044,Anniversary Celebration,"You don't need to be too worried. My past experiences weren't all bad. They taught me what living wrongly looked like. And my time at Rhodes Island has made me want to stick even harder with this all-new outlook, to explore even more unknown places across the lands. Maybe you'd wanna come with me, Doctor.",不用那么担心，以前的经历不全是坏事，它足以让我知晓那些不正确的活法。以及，罗德岛的这些时光让我更加想用现在这种全新的眼光，去探寻这片大地更多的未知的地方。博士，要和我一起。,"Не волнуйся так. Всё, что со мной было, не было сплошь плохим: оно показало мне, как не надо жить. А время на Родосе заставило меня ещё крепче держаться за этот новый взгляд и искать по этой земле всё новые неизведанные места. Может, ты составишь мне компанию, доктор?"

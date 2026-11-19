@@ -1,39 +1,39 @@
-id,title,original,translation
-char_206_gnosis_CN_001,Appointed as Assistant,I can spend some time discussing matters with you before my next experiment.,
-char_206_gnosis_CN_002,Talk 1,"You are spending far too much time outside the laboratory, Doctor. As a researcher, you must know this only hinders you from making great strides.",
-char_206_gnosis_CN_003,Talk 2,"SilverAsh's sisters? Yes, I've met them several times... Hm...? What more do you want me to say? I know nothing about those frolicsome, ever-changing creatures, and I certainly am not interested in them.",
-char_206_gnosis_CN_004,Talk 3,"It is incredibly ignorant to simply write off the symptoms that arise upon Oripathy infection as a mere disease, and then to go on to think only about how to 'control' and 'heal' this disease. Don't tell me this is how you think as well.",
-char_206_gnosis_CN_005,Talk after Promotion 1,"Shining. I knew I would find her here... Hm? No, she is an excellent scholar, and we collaborated for a period of time until she disappeared one day. That's all.",
-char_206_gnosis_CN_006,Talk after Promotion 2,"I am not working for SilverAsh; our objectives merely overlap. Of course, I won't deny what he is trying to achieve holds great significance for the future of the Snow Realm.",
-char_206_gnosis_CN_007,Talk after Trust Increase 1,"The best way you can earn my trust is by showing me your true academic strengths, and it seems you've already realized as much, Doctor. I am not like SilverAsh. I am not interested in deeper emotional exchanges.",
-char_206_gnosis_CN_008,Talk after Trust Increase 2,"If you understand SilverAsh well enough, you know he is not a callous man. From my point of view, he might even be a little indecisive... That, is your weakness too, Doctor.",
-char_206_gnosis_CN_009,Talk after Trust Increase 3,"Much like SilverAsh's, your endeavors require the help of countless supporters. However, the more supporters you have, the more you have to worry about. Since you cannot disregard them, you should avoid getting entangled. That is my one and only piece of advice for you, Doctor.",
-char_206_gnosis_CN_010,Idle,"It seems you are rather lax in maintaining your own health, Doctor.",
-char_206_gnosis_CN_011,Onboard,"Pleasure to finally make your acquaintance, Doctor of Rhodes Island. I've been eager to meet you ever since Karlan began its relationship with your company. You may call me Gnosis.",
-char_206_gnosis_CN_012,Watching Battle Record,"War is merely a means to an end. That said, if you claim there are more efficient ways, I'm happy to learn.",
-char_206_gnosis_CN_013,Promotion 1,I am far more interested in gaining access to Rhodes Island's databases than I am in a salary increase.,
-char_206_gnosis_CN_014,Promotion 2,"If Rhodes Island is willing the cross the line, I am sure you will see results that far surpass what you are currently achieving... That said, with SilverAsh as an example, I do understand the reasons behind your convictions. Hmph, allow me to offer a helping hand, then.",
-char_206_gnosis_CN_017,Added to Squad,You're in luck. I just completed my experiment.,
-char_206_gnosis_CN_018,Appointed as Squad Leader,"Fulfill your roles, and leave the rest to me.",
-char_206_gnosis_CN_019,Depart,I can only hope this mission won't prove to be a waste of time.,
-char_206_gnosis_CN_020,Begin Operation,Follow the plan.,
-char_206_gnosis_CN_021,Selecting Operator 1,Right.,
-char_206_gnosis_CN_022,Selecting Operator 2,"You disrupted my train of thought, Doctor.",
-char_206_gnosis_CN_023,Deployment 1,A fine choice.,
-char_206_gnosis_CN_024,Deployment 2,Let's put an end to this as soon as possible.,
-char_206_gnosis_CN_025,In Battle 1,As expected.,
-char_206_gnosis_CN_026,In Battle 2,I have an idea.,
-char_206_gnosis_CN_027,In Battle 3,What a ruckus.,
-char_206_gnosis_CN_028,In Battle 4,Do not disrupt my thought process.,
-char_206_gnosis_CN_029,4-star Result,"I look forward to seeing such spectacular results from you in your research, Doctor.",
-char_206_gnosis_CN_030,3-star Result,"Having prepared appropriately, these results are unsurprising.",
-char_206_gnosis_CN_031,Sub 3-star Result,"Sometimes, there is much to gain from the unexpected.",
-char_206_gnosis_CN_032,Operation Failure,Were there too many variables outside our control...?,
-char_206_gnosis_CN_033,Assigned to Facility,Time to head to the lab.,
-char_206_gnosis_CN_034,Tap,Hey.,
-char_206_gnosis_CN_036,Trust Tap,I have an idea. Care to hear it?,
-char_206_gnosis_CN_037,Title,Arknights.,
-char_206_gnosis_CN_038,New Year's blessing,"My experiences of Kjerag inform me that today will be a raucous day... Well, Doctor, I still have experiments to perform, so if you'll excuse me. As compensation, I will provide you some novel research results. Oh, one more thing: Happy New Year.",
-char_206_gnosis_CN_042,Greeting,"You should spend your time more efficiently, Doctor.",
-char_206_gnosis_CN_043,Birthday,"I've gathered from the hollering and hooting of the operators out here that today is your birthday. This book will serve as your birthday present. Accept, and then I ask you to please pacify the people outside the laboratory... SilverAsh is here too? Hmm, it seems you do carry a beyond-average estimation in his eyes.",
-char_206_gnosis_CN_044,Anniversary Celebration,"Celebrate, out there? I have no interest. I've made my way out of the laboratory and given you my greetings, so there is no further reason this occasion should keep me, unless you think I can produce novel research results for you in conditions this clamorous.",
+id,title,original,original_zh,translation
+char_206_gnosis_CN_001,Appointed as Assistant,I can spend some time discussing matters with you before my next experiment.,在下一场实验开始前，我可以与你做一些讨论。,До начала следующего опыта мы можем с вами кое-что обсудить.
+char_206_gnosis_CN_002,Talk 1,"You are spending far too much time outside the laboratory, Doctor. As a researcher, you must know this only hinders you from making great strides.",你把太多时间放在了与研究无关的杂务上，博士。身为研究者，你应该明白，这只会阻碍你前进的脚步。,"Вы тратите слишком много времени на дела, не относящиеся к исследованиям, Доктор. Как исследователь вы должны понимать: это лишь задерживает ваш прогресс."
+char_206_gnosis_CN_003,Talk 2,"SilverAsh's sisters? Yes, I've met them several times... Hm...? What more do you want me to say? I know nothing about those frolicsome, ever-changing creatures, and I certainly am not interested in them.",银灰的两个妹妹？嗯，我见过几面。……？你还希望我说些什么？我对那种活蹦乱跳又善变的生物没有研究，也没有兴趣。,"Две сестры Сильвераша? Мм, я встречался с ними пару раз... ? Что ещё вы хотите услышать? Я не изучал этих резвых и переменчивых созданий и не интересуюсь ими."
+char_206_gnosis_CN_004,Talk 3,"It is incredibly ignorant to simply write off the symptoms that arise upon Oripathy infection as a mere disease, and then to go on to think only about how to 'control' and 'heal' this disease. Don't tell me this is how you think as well.",将被源石感染后的表现简单地定义为疾病，仅仅思考如何去“抑制”和“治疗”它，这是无知的人才会做的事，不要告诉我你也是这么想的。,"Сводить проявления заражения Ориджиниумом к простой болезни и думать лишь о том, как её «подавить» и «вылечить», — дело невежественных людей. Не говорите мне, что вы думаете так же."
+char_206_gnosis_CN_005,Talk after Promotion 1,"Shining. I knew I would find her here... Hm? No, she is an excellent scholar, and we collaborated for a period of time until she disappeared one day. That's all.",闪灵，她居然也在这里……嗯？她是个优秀的学者，我们曾经有过一些合作，但她在某一天忽然消失无踪，仅此而已。,"Шайнинг, и она здесь... Мм? Она превосходный учёный, мы одно время сотрудничали, но однажды она вдруг исчезла — и всё."
+char_206_gnosis_CN_006,Talk after Promotion 2,"I am not working for SilverAsh; our objectives merely overlap. Of course, I won't deny what he is trying to achieve holds great significance for the future of the Snow Realm.",我并不是在为银灰服务，只是我们的目的有相交之处而已。当然，我并不否认，他的事业对雪境有着长远的意义。,"Я не служу Сильверашу — у нас лишь пересекаются цели. Конечно, я не отрицаю, что его дело имеет долгосрочное значение для Снежной земли."
+char_206_gnosis_CN_007,Talk after Trust Increase 1,"The best way you can earn my trust is by showing me your true academic strengths, and it seems you've already realized as much, Doctor. I am not like SilverAsh. I am not interested in deeper emotional exchanges.",获得我信任的最好方法，就是拿出你的真才实学，看来你已经明白了这一点，博士。我与银灰不同，我对任何感情方向的深入交流都没有兴趣。,"Лучший способ заслужить моё доверие — показать настоящие знания, и вы, кажется, уже поняли это, Доктор. Я не похож на Сильвераша: мне не интересны глубокие разговоры ни о каких чувствах."
+char_206_gnosis_CN_008,Talk after Trust Increase 2,"If you understand SilverAsh well enough, you know he is not a callous man. From my point of view, he might even be a little indecisive... That, is your weakness too, Doctor.",如果你足够了解银灰，就会知道他并不冷酷，从我的角度来说，他甚至有些优柔寡断……并且，这也是你的弱点，博士。,"Если вы достаточно хорошо знаете Сильвераша, то знаете, что он не жесток. С моей точки зрения, он даже несколько нерешителен... И это тоже ваша слабость, Доктор."
+char_206_gnosis_CN_009,Talk after Trust Increase 3,"Much like SilverAsh's, your endeavors require the help of countless supporters. However, the more supporters you have, the more you have to worry about. Since you cannot disregard them, you should avoid getting entangled. That is my one and only piece of advice for you, Doctor.",你的事业和银灰一样，需要无数人的支持，但支持你的越多，你需要在乎的就越多。既然你已经没有办法不去在乎，那就小心别被自己绊倒，这是我唯一的忠告，博士。,"Ваше дело, как и дело Сильвераша, требует поддержки множества людей, но чем больше сторонников, тем больше вам приходится заботиться. Раз вы уже не можете не заботиться — остерегайтесь споткнуться о самого себя. Это мой единственный совет, Доктор."
+char_206_gnosis_CN_010,Idle,"It seems you are rather lax in maintaining your own health, Doctor.",看来你对自己身体的管理有所欠缺，博士。,"Похоже, вы не слишком заботитесь о своём теле, Доктор."
+char_206_gnosis_CN_011,Onboard,"Pleasure to finally make your acquaintance, Doctor of Rhodes Island. I've been eager to meet you ever since Karlan began its relationship with your company. You may call me Gnosis.",罗德岛的博士，久仰大名，你可以叫我灵知，自从罗德岛与喀兰建立起关系后我一直想要见一见你。,"Доктор Родоса, я наслышан о вас. Зовите меня Гнозис. С тех пор как Родос установил связи с Карланом, я хотел с вами познакомиться."
+char_206_gnosis_CN_012,Watching Battle Record,"War is merely a means to an end. That said, if you claim there are more efficient ways, I'm happy to learn.",战斗只是手段，不过，既然有更有效率的方式，我并不介意学习。,"Бой — лишь средство, но раз существуют более эффективные способы, я не против поучиться."
+char_206_gnosis_CN_013,Promotion 1,I am far more interested in gaining access to Rhodes Island's databases than I am in a salary increase.,比起薪资，我更感兴趣的是罗德岛资料库的权限。,"Меня больше интересует доступ к базам данных Родоса, чем зарплата."
+char_206_gnosis_CN_014,Promotion 2,"If Rhodes Island is willing the cross the line, I am sure you will see results that far surpass what you are currently achieving... That said, with SilverAsh as an example, I do understand the reasons behind your convictions. Hmph, allow me to offer a helping hand, then.",如果罗德岛愿意抛弃一些底线，必然会获得远超现在的成果……不过，有银灰在前，我也并非不理解坚持的意义。呵，就让我也来助你们一臂之力吧。,"Если бы Родос согласился отступить от некоторых принципов, он наверняка добился бы результатов куда больших, чем сейчас... Но, глядя на Сильвераша, я понимаю и смысл упорства. Хм, позвольте и мне протянуть вам руку помощи."
+char_206_gnosis_CN_017,Added to Squad,You're in luck. I just completed my experiment.,你运气很好，我刚做完实验。,Вам повезло: я как раз закончил опыт.
+char_206_gnosis_CN_018,Appointed as Squad Leader,"Fulfill your roles, and leave the rest to me.",做好自己的事，其他我来处理。,"Делайте своё дело, остальное я возьму на себя."
+char_206_gnosis_CN_019,Depart,I can only hope this mission won't prove to be a waste of time.,希望这次任务不是在浪费我的时间。,"Надеюсь, это задание не окажется пустой тратой моего времени."
+char_206_gnosis_CN_020,Begin Operation,Follow the plan.,按照计划行事。,Действуйте по плану.
+char_206_gnosis_CN_021,Selecting Operator 1,Right.,嗯。,Мм.
+char_206_gnosis_CN_022,Selecting Operator 2,"You disrupted my train of thought, Doctor.",你打断了我的思路，博士。,"Вы прервали мою мысль, Доктор."
+char_206_gnosis_CN_023,Deployment 1,A fine choice.,不错的选择。,Неплохой выбор.
+char_206_gnosis_CN_024,Deployment 2,Let's put an end to this as soon as possible.,速战速决吧。,Покончим с этим быстро.
+char_206_gnosis_CN_025,In Battle 1,As expected.,如我所料。,Как я и предполагал.
+char_206_gnosis_CN_026,In Battle 2,I have an idea.,我有一个想法。,У меня есть идея.
+char_206_gnosis_CN_027,In Battle 3,What a ruckus.,你们太吵了。,Вы слишком шумные.
+char_206_gnosis_CN_028,In Battle 4,Do not disrupt my thought process.,不要打扰我思考。,Не мешайте мне думать.
+char_206_gnosis_CN_029,4-star Result,"I look forward to seeing such spectacular results from you in your research, Doctor.",我很期待在科研方面也能看到你这样精彩的表现，博士。,"Я с нетерпением жду, когда вы покажете себя так же блестяще в научной работе, Доктор."
+char_206_gnosis_CN_030,3-star Result,"Having prepared appropriately, these results are unsurprising.",做好先期工作，获得这样的结果只是理所当然。,Проведи подготовку как следует — и такой результат закономерен.
+char_206_gnosis_CN_031,Sub 3-star Result,"Sometimes, there is much to gain from the unexpected.",有些时候，发生意外反而会有所收获。,Иногда неожиданность приносит пользу.
+char_206_gnosis_CN_032,Operation Failure,Were there too many variables outside our control...?,不可控的变量太多了吗……,Слишком много неконтролируемых переменных?..
+char_206_gnosis_CN_033,Assigned to Facility,Time to head to the lab.,该去实验室了。,Пора в лабораторию.
+char_206_gnosis_CN_034,Tap,Hey.,喂。,Эй.
+char_206_gnosis_CN_036,Trust Tap,I have an idea. Care to hear it?,我有些新的想法。,У меня есть новые идеи.
+char_206_gnosis_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_206_gnosis_CN_038,New Year's blessing,"My experiences of Kjerag inform me that today will be a raucous day... Well, Doctor, I still have experiments to perform, so if you'll excuse me. As compensation, I will provide you some novel research results. Oh, one more thing: Happy New Year.",以我在谢拉格的经验来看，今天会是吵闹的一天……博士，我还有实验要做，就先失陪了，作为报酬，我会给你提供一些新的研究成果。以及，姑且说一声，新年快乐。,"Судя по моему опыту в Шераге, сегодня будет шумный день... Доктор, у меня ещё есть опыты, так что я откланяюсь, а в качестве платы предоставлю вам новые результаты исследований. И, так и быть, с новым годом."
+char_206_gnosis_CN_042,Greeting,"You should spend your time more efficiently, Doctor.",你应该更好地利用时间，博士。,"Вам стоит лучше использовать время, Доктор."
+char_206_gnosis_CN_043,Birthday,"I've gathered from the hollering and hooting of the operators out here that today is your birthday. This book will serve as your birthday present. Accept, and then I ask you to please pacify the people outside the laboratory... SilverAsh is here too? Hmm, it seems you do carry a beyond-average estimation in his eyes.",我从外面大呼小叫的干员嘴里得知了今天是你的生日，这本书作为你的生日礼物，收下之后，请你让实验室外面的人都安静些吧……银灰也在此处？看来你在他的心目中的分量确实非同寻常。,"Я узнал от громко кричащих снаружи операторов, что сегодня ваш день рождения. Эта книга — подарок вам; приняв её, пожалуйста, успокойте людей за дверью лаборатории... Сильвераш тоже здесь? Похоже, вы и правда занимаете в его глазах особое место."
+char_206_gnosis_CN_044,Anniversary Celebration,"Celebrate, out there? I have no interest. I've made my way out of the laboratory and given you my greetings, so there is no further reason this occasion should keep me, unless you think I can produce novel research results for you in conditions this clamorous.",出去庆祝？我没兴趣。我已经走出实验室和你打了招呼，这个纪念日已经没有更多理由能让我为它停留了，除非你认为我能在这种嘈杂的环境下为你产出新的研究成果。,"Выйти праздновать? Мне неинтересно. Я уже вышел из лаборатории и поприветствовал вас — у этого юбилея нет больше причин задерживать меня, разве что вы считаете, что я смогу произвести новые результаты в таком шуме."

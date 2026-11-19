@@ -1,39 +1,39 @@
-id,title,original,translation
-char_340_shwaz_CN_001,Appointed as Assistant,I've noted down your schedule. You can confirm with me anytime.,
-char_340_shwaz_CN_002,Talk 1,"If it's about making someone bleed, do not send Lady Ceylon to the task. Let those who live amongst the shadow take it over, like me.",
-char_340_shwaz_CN_003,Talk 2,"I won't tell you anything more about Lady Ceylon. And of course, others won't learn anything more about you from me.",
-char_340_shwaz_CN_004,Talk 3,"I'm your bodyguard, Doctor. My duty is to protect you, not chat with you. If you want to talk, please stop turning to me like Lady Ceylon does and find someone else.",
-char_340_shwaz_CN_005,Talk after Promotion 1,"My expertise? Killing targets, guarding people, and... making tea. Don't be so shocked. After all, the tea Lady Ceylon makes is… Anyway, I'm good at that.",
-char_340_shwaz_CN_006,Talk after Promotion 2,"Doctor, based on the danger involved in the missions to date, I believe you need to learn self-defense in addition to my protection. Otherwise, even I can't guarantee your safety.",
-char_340_shwaz_CN_007,Talk after Trust Increase 1,"Once you've got blood on your hands, there's no turning back… Doctor, I do not wish you to go down the same road as mine. So leave the dirty works to me.",
-char_340_shwaz_CN_008,Talk after Trust Increase 2,"You want to hear my revenge story? You won't be able to sleep at night, Doctor. But… somehow I do have this strange urge to tell you. Well then, let's hit the bar. This story will take a while.",
-char_340_shwaz_CN_009,Talk after Trust Increase 3,"Sinners always get what they deserve, I know that. But I do wonder sometimes that... if I could have met Lady Ceylon and you sooner, maybe I'd be more than just a killer. It's still not too late for me? Do you really mean that, Doctor?",
-char_340_shwaz_CN_010,Idle,"Falls asleep just like that? Can't keep a guard up at all, just like her.",
-char_340_shwaz_CN_011,Onboard,"I'm Schwarz, Lady Ceylon's personal bodyguard, here to join Rhodes Island with her. If at all possible, please assign me to accompany her.",
-char_340_shwaz_CN_012,Watching Battle Record,I see that Rhodes Island is teeming with war monsters. I can only try to learn their way of battle.,
-char_340_shwaz_CN_013,Promotion 1,Now I understand why Rhodes Island wanted me. Your vision is a hundred times crazier than anything I ever did.,
-char_340_shwaz_CN_014,Promotion 2,"Reawaken my memories? I'm fine with it. Maybe you can tame the evil inside us when on battlefields. Please, tame it for us.",
-char_340_shwaz_CN_017,Added to Squad,A mission? Got it,
-char_340_shwaz_CN_018,Appointed as Squad Leader,Follow my orders.,
-char_340_shwaz_CN_019,Depart,Let's go.,
-char_340_shwaz_CN_020,Begin Operation,None will escape.,
-char_340_shwaz_CN_021,Selecting Operator 1,Where am I needed?,
-char_340_shwaz_CN_022,Selecting Operator 2,Here.,
-char_340_shwaz_CN_023,Deployment 1,A solid position.,
-char_340_shwaz_CN_024,Deployment 2,They won't get away.,
-char_340_shwaz_CN_025,In Battle 1,I've got you in my sight.,
-char_340_shwaz_CN_026,In Battle 2,Way too obvious.,
-char_340_shwaz_CN_027,In Battle 3,Unworthy of my shots.,
-char_340_shwaz_CN_028,In Battle 4,Lady Ceylon may have mercy. I do not.,
-char_340_shwaz_CN_029,4-star Result,"Doctor, in a dangerous mission like this,  you'd better give you command from as far as possible.",
-char_340_shwaz_CN_030,3-star Result,"We got everyone, per your order.",
-char_340_shwaz_CN_031,Sub 3-star Result,The perimeter is secured. What's next?,
-char_340_shwaz_CN_032,Operation Failure,"Come, Doctor, I'll ensure your safety.",
-char_340_shwaz_CN_033,Assigned to Facility,Patrol? Got it.,
-char_340_shwaz_CN_034,Tap,"...?! Please, Doctor, I don't want you to hurt yourself.",
-char_340_shwaz_CN_036,Trust Tap,"Doctor, I suppose everything's fine?",
-char_340_shwaz_CN_037,Title,Arknights.,
-char_340_shwaz_CN_038,New Year's blessing,"New Year's? I only looked forward to New Year's when I was very young, then I lost interest, but... Lady Ceylon enjoys it. I used to escort her home from Victoria at the tail end of the year, and she'd tell me what she'd been up to while away at university. Right, Doctor, you can come have a cup of tea with us later if you are interested.",
-char_340_shwaz_CN_042,Greeting,"Don't let your guard down even on base, Doctor.",
-char_340_shwaz_CN_043,Birthday,"Here, it's a birthday present. I was there while Lady Ceylon picked out her present, so I chose some fine dishes for afternoon tea to go with the tea set. When you brew your relaxing tea, you can enjoy some snacks along with it.",
-char_340_shwaz_CN_044,Anniversary Celebration,"Master Doykos helped me to get my revenge, and gave me a new life, while Lady Ceylon taught me to see a warmer, gentler world. I'm also greatly thankful to you all. Rhodes Island lets Lady Ceylon be firm in her goal, and I can be more confidently clear in knowing where my fight is headed.",
+id,title,original,original_zh,translation
+char_340_shwaz_CN_001,Appointed as Assistant,I've noted down your schedule. You can confirm with me anytime.,日程安排我都记录好了，需要的话，随时可以向我确认。,"Я записала всё расписание, если нужно — можете свериться со мной в любое время."
+char_340_shwaz_CN_002,Talk 1,"If it's about making someone bleed, do not send Lady Ceylon to the task. Let those who live amongst the shadow take it over, like me.",会见血的任务，别让小姐去，让只能在阴影里生存的人去就够了。,"Если нужно пустить кровь, не посылайте мисс — достаточно того, кто умеет жить в тени, то есть меня."
+char_340_shwaz_CN_003,Talk 2,"I won't tell you anything more about Lady Ceylon. And of course, others won't learn anything more about you from me.",我不会告诉你有关小姐的任何私人情报。当然，你的私人情报我也不会告诉任何人。,"Я не расскажу вам ничего личного о мисс. И, разумеется, никому не расскажу о вас."
+char_340_shwaz_CN_004,Talk 3,"I'm your bodyguard, Doctor. My duty is to protect you, not chat with you. If you want to talk, please stop turning to me like Lady Ceylon does and find someone else.",博士，我是保镖，我的任务是保护你，而不是做你的聊天对象。如果你想找人说话，我建议你去找其他人，不要和小姐一样，总是找我。,"Доктор, я телохранитель: моя задача — защищать вас, а не быть вам собеседницей. Если хочется поговорить, найдите кого-нибудь другого, не тащите меня, как это делает мисс."
+char_340_shwaz_CN_005,Talk after Promotion 1,"My expertise? Killing targets, guarding people, and... making tea. Don't be so shocked. After all, the tea Lady Ceylon makes is… Anyway, I'm good at that.",我擅长的东西？杀人，保护人，还有……泡红茶。别露出那种表情，毕竟小姐的手艺……咳，总之，我很擅长。,"В чём я сильна? Убивать, охранять и... заваривать чёрный чай. Не делайте такое лицо: чай у мисс тоже... кхм, впрочем, я в этом хороша."
+char_340_shwaz_CN_006,Talk after Promotion 2,"Doctor, based on the danger involved in the missions to date, I believe you need to learn self-defense in addition to my protection. Otherwise, even I can't guarantee your safety.",博士，根据迄今为止各种任务的危险程度，我认为，除了我的保护之外，你还需要学习一点防身术。否则，就连我也没有自信，能在所有情况下使你安然无恙。,"Доктор, судя по опасности наших заданий, вам, помимо моей охраны, стоит научиться самообороне. Иначе даже я не уверена, что смогу уберечь вас в любой ситуации."
+char_340_shwaz_CN_007,Talk after Trust Increase 1,"Once you've got blood on your hands, there's no turning back… Doctor, I do not wish you to go down the same road as mine. So leave the dirty works to me.",……一旦手上沾染鲜血，就再也不能回头了，博士，我不希望你也跨出这一步，会脏手的事，就交给我来吧。,"...Стоит запачкать руки кровью — и пути назад нет, Доктор. Я не хочу, чтобы вы сделали этот шаг. Грязную работу оставьте мне."
+char_340_shwaz_CN_008,Talk after Trust Increase 2,"You want to hear my revenge story? You won't be able to sleep at night, Doctor. But… somehow I do have this strange urge to tell you. Well then, let's hit the bar. This story will take a while.",想听我复仇的经历？你会睡不好觉的，博士。不过……真奇怪，我居然会有想说给你听的冲动……那么，去酒吧吧。这会是个不短的故事。,"Хотите услышать, как я мстила? Вы не сможете спать, Доктор. И всё же... странно, мне почему-то хочется рассказать вам... Тогда пойдём в бар. История не короткая."
+char_340_shwaz_CN_009,Talk after Trust Increase 3,"Sinners always get what they deserve, I know that. But I do wonder sometimes that... if I could have met Lady Ceylon and you sooner, maybe I'd be more than just a killer. It's still not too late for me? Do you really mean that, Doctor?",罪孽深重的人不会有好下场，我心知肚明。只是在遇见小姐和博士你之后……如果能早一点遇见你们，我就不会仅仅是个凶手了。即使是现在也不晚？博士，你这句话，也是真心的吗？,"Я знаю: тяжёлые грехи не остаются безнаказанными. Но после встречи с мисс и с вами, Доктор... если бы я встретила вас раньше, я была бы не просто убийцей. Даже сейчас не поздно? Доктор, вы это всерьёз?"
+char_340_shwaz_CN_010,Idle,"Falls asleep just like that? Can't keep a guard up at all, just like her.",……就这么睡着了吗，和小姐一样，真是一点警戒心都没有。,"...Вот так и уснули, как мисс — никакой бдительности."
+char_340_shwaz_CN_011,Onboard,"I'm Schwarz, Lady Ceylon's personal bodyguard, here to join Rhodes Island with her. If at all possible, please assign me to accompany her.",我是锡兰小姐的私人保镖，黑，跟随小姐加入罗德岛。可能的话，希望尽量让我和小姐一起行动。,"Я личный телохранитель мисс Цейлон, Шварц. Я пришла на Родос вместе с ней. По возможности я бы хотела всегда быть рядом с мисс."
+char_340_shwaz_CN_012,Watching Battle Record,I see that Rhodes Island is teeming with war monsters. I can only try to learn their way of battle.,罗德岛充斥着战场上的怪物，这样的战斗，我只能尽量模仿。,Родос кишит монстрами с поля боя; такой бой я могу лишь пытаться воспроизвести.
+char_340_shwaz_CN_013,Promotion 1,Now I understand why Rhodes Island wanted me. Your vision is a hundred times crazier than anything I ever did.,现在，我明白了，为什么罗德岛会需要我……你们的理想，比我做过的事要疯狂百倍。,"Теперь я поняла, зачем Родосу нужна я... ваш идеал в сто раз безумнее того, что делала я."
+char_340_shwaz_CN_014,Promotion 2,"Reawaken my memories? I'm fine with it. Maybe you can tame the evil inside us when on battlefields. Please, tame it for us.",要唤醒我过去的回忆吗，没有问题。如果是你的话，也许能驯化我们战斗中的那些邪恶。请一定，要驯化我。,"Пробудить мои прошлые воспоминания? Что ж. Если это сделаете вы, может, вам удастся укротить зло, что живёт в нас на войне. Прошу — укротите и меня."
+char_340_shwaz_CN_017,Added to Squad,A mission? Got it,任务？知道了。,Задание? Понятно.
+char_340_shwaz_CN_018,Appointed as Squad Leader,Follow my orders.,听我指挥。,Слушайтесь меня.
+char_340_shwaz_CN_019,Depart,Let's go.,走吧。,Пойдём.
+char_340_shwaz_CN_020,Begin Operation,None will escape.,让他们有来无回。,Пусть никто из них не вернётся.
+char_340_shwaz_CN_021,Selecting Operator 1,Where am I needed?,哪里需要我？,Где я нужна?
+char_340_shwaz_CN_022,Selecting Operator 2,Here.,在。,Здесь.
+char_340_shwaz_CN_023,Deployment 1,A solid position.,这个位置……不错。,Эта позиция... неплоха.
+char_340_shwaz_CN_024,Deployment 2,They won't get away.,他们跑不了。,Им не уйти.
+char_340_shwaz_CN_025,In Battle 1,I've got you in my sight.,我看见你了。,Я тебя вижу.
+char_340_shwaz_CN_026,In Battle 2,Way too obvious.,真显眼。,Слишком заметный.
+char_340_shwaz_CN_027,In Battle 3,Unworthy of my shots.,才这点人。,Всего-то?
+char_340_shwaz_CN_028,In Battle 4,Lady Ceylon may have mercy. I do not.,小姐有仁慈之心，我没有。,"У мисс есть сострадание, у меня — нет."
+char_340_shwaz_CN_029,4-star Result,"Doctor, in a dangerous mission like this,  you'd better give you command from as far as possible.",博士，这种危险的任务，你指挥的地方离战场越远越好。,"Доктор, в таких опасных заданиях вам лучше руководить как можно дальше от поля боя."
+char_340_shwaz_CN_030,3-star Result,"We got everyone, per your order.",按照你的指示，没有漏网之鱼。,По вашему указанию никто не ушёл.
+char_340_shwaz_CN_031,Sub 3-star Result,The perimeter is secured. What's next?,确认周围已经安全了，下一步怎么做？,"Периметр проверен, всё безопасно. Что дальше?"
+char_340_shwaz_CN_032,Operation Failure,"Come, Doctor, I'll ensure your safety.",博士，走，我会优先确保你的安全。,"Доктор, идите, я в первую очередь обеспечу вашу безопасность."
+char_340_shwaz_CN_033,Assigned to Facility,Patrol? Got it.,巡逻吗？我知道了。,Патрулирование? Понятно.
+char_340_shwaz_CN_034,Tap,"...?! Please, Doctor, I don't want you to hurt yourself.",小心走火，博士。,"Осторожно, случайный выстрел, Доктор."
+char_340_shwaz_CN_036,Trust Tap,"Doctor, I suppose everything's fine?",博士，有什么情况吗。,"Доктор, что-то случилось?"
+char_340_shwaz_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_340_shwaz_CN_038,New Year's blessing,"New Year's? I only looked forward to New Year's when I was very young, then I lost interest, but... Lady Ceylon enjoys it. I used to escort her home from Victoria at the tail end of the year, and she'd tell me what she'd been up to while away at university. Right, Doctor, you can come have a cup of tea with us later if you are interested.",新年？我对新年的期待在很小的时候就消失了，但……锡兰小姐喜欢。以前每年年末，我都会去维多利亚接她回家，听她讲留学时的见闻。你要是愿意，待会儿可以过来一起喝杯红茶。,"Новый год? Я перестала ждать его ещё в раннем детстве, но... мисс Цейлон его любит. Раньше в конце каждого года я ездила в Викторию забирать её домой и слушала рассказы о её учёбе. Если хотите, позже заходите попить с нами чёрного чая."
+char_340_shwaz_CN_042,Greeting,"Don't let your guard down even on base, Doctor.",即使在基地里，也不要太过松懈，博士。,"Даже на базе не расслабляйтесь, Доктор."
+char_340_shwaz_CN_043,Birthday,"Here, it's a birthday present. I was there while Lady Ceylon picked out her present, so I chose some fine dishes for afternoon tea to go with the tea set. When you brew your relaxing tea, you can enjoy some snacks along with it.",给，生日礼物。小姐挑选礼物时我也在，所以选了和茶具相配套的下午茶餐碟。休息时除了泡茶放松，也可以吃一些点心。,"Держите, подарок на день рождения. Я была с мисс, когда она выбирала подарок, поэтому подобрала блюдца для полдника в тон чайному набору. Во время отдыха можно не только чай заваривать, но и перекусить."
+char_340_shwaz_CN_044,Anniversary Celebration,"Master Doykos helped me to get my revenge, and gave me a new life, while Lady Ceylon taught me to see a warmer, gentler world. I'm also greatly thankful to you all. Rhodes Island lets Lady Ceylon be firm in her goal, and I can be more confidently clear in knowing where my fight is headed.",老爷帮助我完成了复仇，带给我一段新的人生，小姐则是教会了我如何看到一个更温柔的大地。而你们，我也十分感谢，罗德岛让小姐坚定了她的目标，我也能更放心地去明确自己战斗的方向。,"Хозяин помог мне отомстить и дал новую жизнь, а мисс научила видеть более добрую землю. И вам я тоже очень благодарна: Родос укрепил мисс в её цели, а я теперь спокойнее вижу, за что сражаюсь."

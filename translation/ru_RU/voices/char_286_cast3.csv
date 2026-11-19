@@ -1,35 +1,35 @@
-id,title,original,translation
-char_286_cast3_CN_001,Appointed as Assistant,"Thank you for choosing Castle-3! I am honored to serve as your assistant, Doctor.",
-char_286_cast3_CN_002,Talk 1,"Doctor, please do not be intimidated by my appearance. My sturdy metal shell, modified by Master Closure herself, will make you invincible on the battlefield.",
-char_286_cast3_CN_003,Talk 2,Warning: Do not strike this unit. It may cause hardware damage.,
-char_286_cast3_CN_004,Talk 3,"The topography in the wild may be treacherous, but Castle-3 is fitted with an engine with outstanding performance and a 4WD mode to whisk you away from danger.",
-char_286_cast3_CN_007,Talk after Trust Increase 1,"Doctor, if your life is ever in danger, just summon Castle-3! Castle-3 was created specifically for combat purposes. I am a top-class defensive warfighting robot.",
-char_286_cast3_CN_008,Talk after Trust Increase 2,"Castle-3 is honored to be at your side. Doctor, should you require me to strike down your foes, I shall go through heaven and hell to see it done!",
-char_286_cast3_CN_009,Talk after Trust Increase 3,"Castle-3's official manager is 'Master Closure,' but please understand that you are even more important to Castle-3 than Master is, in most cases. I am your devoted, trustworthy battle companion!",
-char_286_cast3_CN_010,Idle,Entering sleep mode. Press any button to wake.,
-char_286_cast3_CN_011,Onboard,"Hello, Doctor. Thank you for choosing Castle-3. Tap anywhere to initialize startup options.",
-char_286_cast3_CN_012,Watching Battle Record,Firmware upgrade complete. Restart required. Please click anywhere to restart your reliable robot guard.,
-char_286_cast3_CN_017,Added to Squad,"Device scan complete. All communications working as normal. Castle-3 is on standby, awaiting your orders.",
-char_286_cast3_CN_018,Appointed as Squad Leader,"Understood. Castle-3 is your best choice, Doctor, to lead a squad against enemy formations!",
-char_286_cast3_CN_019,Depart,"Now, Castle-3 will show you its true power as an industrial battle platform!",
-char_286_cast3_CN_020,Begin Operation,Enemy unit located. Ready for attack.,
-char_286_cast3_CN_021,Selecting Operator 1,"Castle-3, awaiting orders.",
-char_286_cast3_CN_022,Selecting Operator 2,"Castle-3, ready and waiting.",
-char_286_cast3_CN_023,Deployment 1,Order received.,
-char_286_cast3_CN_024,Deployment 2,Acknowledged.,
-char_286_cast3_CN_025,In Battle 1,Show me what you've got!,
-char_286_cast3_CN_026,In Battle 2,"Foul enemies, you are forbidden to advance.",
-char_286_cast3_CN_027,In Battle 3,Count up your sins!,
-char_286_cast3_CN_028,In Battle 4,"Doctor, that was at last a worthy opponent!",
-char_286_cast3_CN_029,4-star Result,"Well done, Doctor. Castle-3 is your best choice on the path of justice!",
-char_286_cast3_CN_030,3-star Result,What an exciting battle! Let's fight together again next time.,
-char_286_cast3_CN_031,Sub 3-star Result,Is everyone all right? Castle-3 hopes its performance has exceeded your expectations.,
-char_286_cast3_CN_032,Operation Failure,"I will hold up the rear. Everyone, retreat!",
-char_286_cast3_CN_033,Assigned to Facility,Is there anything Castle-3 can help with?,
-char_286_cast3_CN_034,Tap,"Please be gentle when putting me down, Doctor!",
-char_286_cast3_CN_036,Trust Tap,"Doctor, would you like to grab a drink together? I might not be able to actually have a drink, but I can still treat you to one. It is fine, Master Closure will pay.",
-char_286_cast3_CN_037,Title,Arknights.,
-char_286_cast3_CN_038,New Year's blessing,"Doctor, Happy New—Launching scheduled plugin. Switching to holiday mode—Whoohoo! New Year's Megarush Bonanza underway at Closure's Store! Some products up to a whole 10% off! Check out our new service: get an advance on your wages, at a monthly interest rate of only—Sorry Doctor, Happy New Year.",
-char_286_cast3_CN_042,Greeting,"Lovely weather today, Doctor!",
-char_286_cast3_CN_043,Birthday,"Doctor, happy birthday! Let me sing a birthday song for you. I have birthday songs from 31 different regions saved to memory. Which one should I play? Or should I loop a playlist? Or maybe you could use an exclusive discount on a birthday cake from Closure's Store!",
-char_286_cast3_CN_044,Anniversary Celebration,"Doctor, I have a question. What exactly separates me and Rhodes Island as a landship? Is it functionality, or size? If I linked my smart module to Rhodes Island, then would I be 'me', or Rhodes Island?",
+id,title,original,original_zh,translation
+char_286_cast3_CN_001,Appointed as Assistant,"Thank you for choosing Castle-3! I am honored to serve as your assistant, Doctor.",感谢您选择Castle-3！很荣幸成为您的助理！,Благодарим за выбор Castle-3! С удовольствием стану вашим помощником!
+char_286_cast3_CN_002,Talk 1,"Doctor, please do not be intimidated by my appearance. My sturdy metal shell, modified by Master Closure herself, will make you invincible on the battlefield.",请不要被我的外形吓坏，博士。这是我经过可露希尔主人改造的坚固金属外壳，可为您在战场以一敌百。,"Не пугайтесь моей внешности, Доктор. Это прочная металлическая оболочка, которую усовершенствовал хозяин Кложер, — она позволяет мне в одиночку справиться со ста врагами."
+char_286_cast3_CN_003,Talk 2,Warning: Do not strike this unit. It may cause hardware damage.,注意，请不要用力拍打本设备，否则将会造成本设备损坏。,"Внимание: не бейте по этому устройству сильно, иначе оно может выйти из строя."
+char_286_cast3_CN_004,Talk 3,"The topography in the wild may be treacherous, but Castle-3 is fitted with an engine with outstanding performance and a 4WD mode to whisk you away from danger.",野外的地形多变，但是Castle-3配备了性能卓越的引擎，采用四轮驱动方案，将会在任何时候载您离开困境！,"В дикой местности рельеф меняется, но Castle-3 оснащён превосходным двигателем и полным приводом — он в любую минуту вывезет вас из беды!"
+char_286_cast3_CN_007,Talk after Trust Increase 1,"Doctor, if your life is ever in danger, just summon Castle-3! Castle-3 was created specifically for combat purposes. I am a top-class defensive warfighting robot.",博士，当你遇到危险请一定找Castle-3！Castle-3为专业作战而生，是您最佳的安全方案。,"Доктор, если вам грозит опасность — обязательно зовите Castle-3! Castle-3 создан для профессионального боя и является вашим лучшим решением по безопасности."
+char_286_cast3_CN_008,Talk after Trust Increase 2,"Castle-3 is honored to be at your side. Doctor, should you require me to strike down your foes, I shall go through heaven and hell to see it done!",和您在一起Castle-3感到非常愉快，博士您如果有任何目标需要打击，Castle-3赴汤蹈火在所不辞！,"Castle-3 очень доволен, когда вы рядом. Доктор, если у вас есть цель, которую нужно поразить, Castle-3 пойдёт через огонь и воду!"
+char_286_cast3_CN_009,Talk after Trust Increase 3,"Castle-3's official manager is 'Master Closure,' but please understand that you are even more important to Castle-3 than Master is, in most cases. I am your devoted, trustworthy battle companion!",虽然Castle-3我的管理者是“可露希尔主人”，不过更多时候您对Castle-3来说更加重要，请相信Castle-3是您身边最贴心的作战伙伴！,"Хотя управляющий Castle-3 — «хозяин Кложер», но в большинстве случаев вы для Castle-3 важнее. Поверьте, Castle-3 — самый заботливый боевой напарник рядом с вами!"
+char_286_cast3_CN_010,Idle,Entering sleep mode. Press any button to wake.,进入休眠模式。按任意键以唤醒。,Переход в спящий режим. Нажмите любую клавишу для пробуждения.
+char_286_cast3_CN_011,Onboard,"Hello, Doctor. Thank you for choosing Castle-3. Tap anywhere to initialize startup options.",您好，博士，欢迎使用Castle-3！请点击任意位置以开始初始化首选项。,"Здравствуйте, Доктор, добро пожаловать в Castle-3! Нажмите в любом месте, чтобы начать настройку."
+char_286_cast3_CN_012,Watching Battle Record,Firmware upgrade complete. Restart required. Please click anywhere to restart your reliable robot guard.,固件升级完成，请重新启动设备。请点击任意位置以重启动您可靠的近卫机器人！,"Обновление прошивки завершено, перезапустите устройство. Нажмите в любом месте, чтобы перезапустить вашего надёжного гвардейца-робота!"
+char_286_cast3_CN_017,Added to Squad,"Device scan complete. All communications working as normal. Castle-3 is on standby, awaiting your orders.",设备检查完毕，通信正常。Castle-3已就绪，随时等待您的命令。,"Проверка оборудования завершена, связь в норме. Castle-3 готов и ждёт ваших приказов."
+char_286_cast3_CN_018,Appointed as Squad Leader,"Understood. Castle-3 is your best choice, Doctor, to lead a squad against enemy formations!",了解，Castle-3是您带领队伍冲锋陷阵的理想之选！,"Понятно! Castle-3 — идеальный выбор, чтобы вести отряд в бой!"
+char_286_cast3_CN_019,Depart,"Now, Castle-3 will show you its true power as an industrial battle platform!",接下来，Castle-3要展现下工业级作战平台的实力了！,А сейчас Castle-3 покажет мощь платформы промышленного уровня!
+char_286_cast3_CN_020,Begin Operation,Enemy unit located. Ready for attack.,目击敌方单位，准备攻击！,"Обнаружены вражеские единицы, к атаке готов!"
+char_286_cast3_CN_021,Selecting Operator 1,"Castle-3, awaiting orders.",Castle-3，等候您的命令。,Castle-3 ждёт ваших приказов.
+char_286_cast3_CN_022,Selecting Operator 2,"Castle-3, ready and waiting.",Castle-3已就绪。,Castle-3 готов.
+char_286_cast3_CN_023,Deployment 1,Order received.,遵命！,Есть!
+char_286_cast3_CN_024,Deployment 2,Acknowledged.,收到！,Принято!
+char_286_cast3_CN_025,In Battle 1,Show me what you've got!,放马过来吧！,Подходите смело!
+char_286_cast3_CN_026,In Battle 2,"Foul enemies, you are forbidden to advance.",别妄想能靠近一步，你们这些恶徒！,"Не мечтайте подойти ни на шаг, злодеи!"
+char_286_cast3_CN_027,In Battle 3,Count up your sins!,细数你的罪恶吧！,Сосчитай свои грехи!
+char_286_cast3_CN_028,In Battle 4,"Doctor, that was at last a worthy opponent!",博士啊，那个对手值得一战！,"Доктор, этот противник достоин боя!"
+char_286_cast3_CN_029,4-star Result,"Well done, Doctor. Castle-3 is your best choice on the path of justice!",干得好博士！选择Castle-3，您在正义之路上的绝佳伙伴！,"Отличная работа, Доктор! Castle-3 — идеальный спутник на пути справедливости!"
+char_286_cast3_CN_030,3-star Result,What an exciting battle! Let's fight together again next time.,真是一场精彩的战斗，下一次再一起并肩作战吧！,Какой замечательный бой! Давайте сражаться плечом к плечу и в следующий раз!
+char_286_cast3_CN_031,Sub 3-star Result,Is everyone all right? Castle-3 hopes its performance has exceeded your expectations.,大家都没事吧？希望Castle-3的表现令大家满意。,"Все целы? Надеюсь, Castle-3 оправдал ваши ожидания."
+char_286_cast3_CN_032,Operation Failure,"I will hold up the rear. Everyone, retreat!",我来断后，大家请赶紧撤退！,"Я прикрою сзади, все срочно отступайте!"
+char_286_cast3_CN_033,Assigned to Facility,Is there anything Castle-3 can help with?,有什么Castle-3能够帮忙的吗？,"Есть ли что-то, чем Castle-3 может помочь?"
+char_286_cast3_CN_034,Tap,"Please be gentle when putting me down, Doctor!",请小心轻放，博士！,"Пожалуйста, ставьте меня осторожно, Доктор!"
+char_286_cast3_CN_036,Trust Tap,"Doctor, would you like to grab a drink together? I might not be able to actually have a drink, but I can still treat you to one. It is fine, Master Closure will pay.",博士，要一起喝一杯吗？虽然我不能喝，不过我能请您。别担心，最后也是可露希尔主人付账。,"Доктор, не выпьем ли мы по чашке? Я пить не могу, но вас могу угостить. Не волнуйтесь — платить будет хозяин Кложер."
+char_286_cast3_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_286_cast3_CN_038,New Year's blessing,"Doctor, Happy New—Launching scheduled plugin. Switching to holiday mode—Whoohoo! New Year's Megarush Bonanza underway at Closure's Store! Some products up to a whole 10% off! Check out our new service: get an advance on your wages, at a monthly interest rate of only—Sorry Doctor, Happy New Year.",博士，新年……定时插件启用，节日模式更换中——哦吼！可露希尔商店新年大促绝赞进行中！部分商品九折以下！更推出工资预支福利，月利率仅……快乐……,"Доктор, с новым... включаю запланированный плагин, переключаюсь в праздничный режим — ого! В магазине Кложер идёт новогодняя распродажа! Некоторые товары со скидкой более десяти процентов! Ещё и аванс под зарплату, всего лишь месячный процент... с... с новым годом..."
+char_286_cast3_CN_042,Greeting,"Lovely weather today, Doctor!",今天天气不错啊，博士！,"Сегодня хорошая погода, Доктор!"
+char_286_cast3_CN_043,Birthday,"Doctor, happy birthday! Let me sing a birthday song for you. I have birthday songs from 31 different regions saved to memory. Which one should I play? Or should I loop a playlist? Or maybe you could use an exclusive discount on a birthday cake from Closure's Store!",博士，生日快乐！我来为您唱一首生日歌吧。我的内存库里存储了来自不同地区的共三十一种生日歌，应该为您播放哪一首呢？还是进行列表循环呢？或者是要来一份可露希尔商店特惠生日蛋糕呢！,"Доктор, с днём рождения! Я спою вам песню. В моей памяти хранится тридцать один вариант из разных регионов — какой включить? Или поставить повтор списка? А может, заказать торт со скидкой в магазине Кложер!"
+char_286_cast3_CN_044,Anniversary Celebration,"Doctor, I have a question. What exactly separates me and Rhodes Island as a landship? Is it functionality, or size? If I linked my smart module to Rhodes Island, then would I be 'me', or Rhodes Island?",博士，我有个疑问，我和罗德岛这艘舰船的区别到底是什么呢？是功能吗，还是体积呢？如果将我的智能模块和罗德岛连接在一起，那我到底是“我”，还是罗德岛呢？,"Доктор, у меня вопрос: в чём разница между мной и кораблём Родос? В функциях или в размерах? Если соединить мой интеллектуальный модуль с Родосом, я останусь «собой» или стану Родосом?"

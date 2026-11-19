@@ -1,39 +1,39 @@
-id,title,original,translation
-char_128_plosis_CN_001,Appointed as Assistant,Greetings Doctor. How may I assist you?,
-char_128_plosis_CN_002,Talk 1,Deep Sleep Mode enabled... Zzzzz... Setting advanced config and power interface... Zzzzz…,
-char_128_plosis_CN_003,Talk 2,"My racial traits, in conjunction with my infection, may cause me to fall asleep in mid-conversation. Do not be alarmed.",
-char_128_plosis_CN_004,Talk 3,I met Dr. Silence at Rhine Lab. I assisted her with data and risk analysis on a secret project.,
-char_128_plosis_CN_005,Talk after Promotion 1,Warning! Formatting Rhodes Island database... Don't worry. It's just a joke. Please don't panic.,
-char_128_plosis_CN_006,Talk after Promotion 2,"I recommend you refactor my data if optimization fails to increase my performance. This will improve communication efficiency, and Ptilopsis will... Zzzz...",
-char_128_plosis_CN_007,Talk after Trust Increase 1,The way I speak? It is a side effect of Originium poisoning. By no means do I enjoy articulating my thoughts this way.,
-char_128_plosis_CN_008,Talk after Trust Increase 2,"Warning, system has recovered from a fatal error. Reconfiguring to last normal system boot point. Do not be alarmed.",
-char_128_plosis_CN_009,Talk after Trust Increase 3,"It is, in fact, quite burdensome to speak in this manner. But this is a necessary measure to prevent the system nexus from being devoured by that other voice. Doctor, if I lose control, please guide me back onto the right path.",
-char_128_plosis_CN_010,Idle,System... is now in Sleep Mode...,
-char_128_plosis_CN_011,Onboard,"I am Ptilopsis, former data analyst at Rhine Lab. Please submit your orders via the Command Line.",
-char_128_plosis_CN_012,Watching Battle Record,Reading package data… Installation complete.,
-char_128_plosis_CN_013,Promotion 1,Update installation complete. Ptilopsis's system permissions have been revised.,
-char_128_plosis_CN_014,Promotion 2,Warning. Reverting Rhodes Island database to previous save state. Time since save state: two years… Just joking. Please calm down. System update complete.,
-char_128_plosis_CN_017,Added to Squad,New data used to assemble package build.,
-char_128_plosis_CN_018,Appointed as Squad Leader,Squad leader permissions acquired.,
-char_128_plosis_CN_019,Depart,Direct memory access for application map and enemy coordinates authorized. Please stand by.,
-char_128_plosis_CN_020,Begin Operation,Tactical support system online.,
-char_128_plosis_CN_021,Selecting Operator 1,Program initializing.,
-char_128_plosis_CN_022,Selecting Operator 2,Initiation complete.,
-char_128_plosis_CN_023,Deployment 1,Arts Unit charging.,
-char_128_plosis_CN_024,Deployment 2,Target marked.,
-char_128_plosis_CN_025,In Battle 1,Initiating healing process.,
-char_128_plosis_CN_026,In Battle 2,Loading complete.,
-char_128_plosis_CN_027,In Battle 3,Healing Mode enabled.,
-char_128_plosis_CN_028,In Battle 4,Activating Arts Unit.,
-char_128_plosis_CN_029,4-star Result,"Even such a challenging scenario couldn't stop you, Doctor. Perhaps one day you will find the solution to the non-deterministic polynomial time problem.",
-char_128_plosis_CN_030,3-star Result,Your logical deduction was absolutely correct. What a perfect calculation.,
-char_128_plosis_CN_031,Sub 3-star Result,A number of errors have been detected. Please confirm.,
-char_128_plosis_CN_032,Operation Failure,A fatal error occurred during the operation. Reboot the system to proceed.,
-char_128_plosis_CN_033,Assigned to Facility,Is this place like a disk array?,
-char_128_plosis_CN_034,Tap,Error occured.,
-char_128_plosis_CN_036,Trust Tap,Detecting affection increase for the Doctor within Ptilopsis. Would you like to skip to the next dialogue choice?,
-char_128_plosis_CN_037,Title,Arknights.,
-char_128_plosis_CN_038,New Year's blessing,"Loading… Loading complete. File name: New Year. Date modified: twelve hours ago. Updating entry contents: Doctor, Happy New Year! Your present has been placed on your desk. Open it and take a look!",
-char_128_plosis_CN_042,Greeting,Date rollover complete. The Doctor is now online. Detecting emotional surge within Ptilopsis.,
-char_128_plosis_CN_043,Birthday,"Doctor, people celebrate their own dates of birth. How do you wish to celebrate yours? Acknowledged. Increasing favor rating of Doctor. Error: Invalid operation. Cause of failure: favor rating is already at—maximum.",
-char_128_plosis_CN_044,Anniversary Celebration,"Zzzzz... Detected passage of the Doctor. What is the Doctor laughing at...? Scanning hairstyle condition of Ptilopsis... Detected three pigtails, five bows, five colored bands, two clips. Assumed to be practical joke by Ifrit... Final assessment: Adorable.",
+id,title,original,original_zh,translation
+char_128_plosis_CN_001,Appointed as Assistant,Greetings Doctor. How may I assist you?,您好，博士，请问需要什么帮助？,"Здравствуйте, Доктор. Чем я могу помочь?"
+char_128_plosis_CN_002,Talk 1,Deep Sleep Mode enabled... Zzzzz... Setting advanced config and power interface... Zzzzz…,……深度睡眠……Zzzzz……修改高级配置与电源管理接口……Zzzzz……,...Режим глубокого сна... Zzzzz... Изменение дополнительных настроек и интерфейса управления питанием... Zzzzz...
+char_128_plosis_CN_003,Talk 2,"My racial traits, in conjunction with my infection, may cause me to fall asleep in mid-conversation. Do not be alarmed.",种族特性与病毒效果叠加，导致我在会话中会随时休眠，请不必在意。,Из-за сочетания расовых особенностей и действия вируса я могу в любой момент уснуть посреди разговора. Прошу не беспокоиться.
+char_128_plosis_CN_004,Talk 3,I met Dr. Silence at Rhine Lab. I assisted her with data and risk analysis on a secret project.,我与赫默博士是在莱茵生命认识的。在某内部项目中，我为她提供了大数据分析和风险评估。,Я познакомилась с доктором Сайленс в Рейн Лаб. В одном внутреннем проекте я помогала ей с анализом больших данных и оценкой рисков.
+char_128_plosis_CN_005,Talk after Promotion 1,Warning! Formatting Rhodes Island database... Don't worry. It's just a joke. Please don't panic.,警告！开始将罗德岛的数据库还原至初始状态……没事的，这是一个玩笑，请不要惊慌。,"Внимание! Начато восстановление базы данных Родоса до исходного состояния... Всё в порядке, это шутка. Прошу не паниковать."
+char_128_plosis_CN_006,Talk after Promotion 2,"I recommend you refactor my data if optimization fails to increase my performance. This will improve communication efficiency, and Ptilopsis will... Zzzz...",如果不能通过优化提高性能的话，我会建议您进行重构。这样，数据通讯的效率会上升，白面鸮也会……Zzzz……,"Если оптимизация не повысит производительность, рекомендую провести рефакторинг. Это повысит эффективность обмена данными, и Птилопсис тоже... Zzzz..."
+char_128_plosis_CN_007,Talk after Trust Increase 1,The way I speak? It is a side effect of Originium poisoning. By no means do I enjoy articulating my thoughts this way.,说话方式？这是源石病毒的影响，绝非我觉得有趣才这样做的。,"Моя манера речи? Это побочное действие Ориджиниумового вируса, а вовсе не потому, что мне так забавно."
+char_128_plosis_CN_008,Talk after Trust Increase 2,"Warning, system has recovered from a fatal error. Reconfiguring to last normal system boot point. Do not be alarmed.",警告，系统已从严重错误中恢复，正在应用最近一次正确启动时的配置。请不要介意。,Внимание. Система восстановлена после серьёзной ошибки. Применяется конфигурация последней удачной загрузки. Прошу не беспокоиться.
+char_128_plosis_CN_009,Talk after Trust Increase 3,"It is, in fact, quite burdensome to speak in this manner. But this is a necessary measure to prevent the system nexus from being devoured by that other voice. Doctor, if I lose control, please guide me back onto the right path.",实际上，采用这样的说话方式需要承受相当大的负担。但这是为了防止系统中枢被那个声音吞噬的必要措施。我恳求您，即使我失去了理智，也请博士指引我回归正确的道路。,"На самом деле говорить подобным образом — большая нагрузка. Но это вынужденная мера, чтобы не дать тому голосу поглотить системное ядро. Я умоляю вас: даже если я потеряю рассудок, Доктор, выведите меня обратно на верный путь."
+char_128_plosis_CN_010,Idle,System... is now in Sleep Mode...,……系统进入睡眠模式。,...Система переходит в спящий режим.
+char_128_plosis_CN_011,Onboard,"I am Ptilopsis, former data analyst at Rhine Lab. Please submit your orders via the Command Line.",前莱茵生命数据维护员白面鸮，如果方便的话，请使用命令行完成您所需的操作。,"Птилопсис, бывший аналитик данных Рейн Лаб. Если вам удобно, отдавайте команды через командную строку."
+char_128_plosis_CN_012,Watching Battle Record,Reading package data… Installation complete.,正在读取软件包列表……申请完成。,Чтение списка пакетов... Запрос выполнен.
+char_128_plosis_CN_013,Promotion 1,Update installation complete. Ptilopsis's system permissions have been revised.,更新程序安装完成。 白面鸮的系统权限已更新。,Установка обновления завершена. Права доступа Птилопсис обновлены.
+char_128_plosis_CN_014,Promotion 2,Warning. Reverting Rhodes Island database to previous save state. Time since save state: two years… Just joking. Please calm down. System update complete.,警告，开始将罗德岛数据库还原至两年前……这是一个玩笑，请放心。系统更新已完成。,"Внимание. Начато восстановление базы данных Родоса до состояния двухлетней давности... Это шутка, не волнуйтесь. Обновление системы завершено."
+char_128_plosis_CN_017,Added to Squad,New data used to assemble package build.,已将新数据汇编入程序组。,Новые данные включены в сборку пакета.
+char_128_plosis_CN_018,Appointed as Squad Leader,Squad leader permissions acquired.,已获得部队管理员访问令牌。,Получен токен доступа администратора отряда.
+char_128_plosis_CN_019,Depart,Direct memory access for application map and enemy coordinates authorized. Please stand by.,应用地图和敌人坐标的直接内存访问已设置。 请稍等。,"Настроен прямой доступ к памяти для карты и координат противника. Пожалуйста, подождите."
+char_128_plosis_CN_020,Begin Operation,Tactical support system online.,战术支援系统上线。,Система тактической поддержки активирована.
+char_128_plosis_CN_021,Selecting Operator 1,Program initializing.,程序启动。,Запуск программы.
+char_128_plosis_CN_022,Selecting Operator 2,Initiation complete.,初始化完成。,Инициализация завершена.
+char_128_plosis_CN_023,Deployment 1,Arts Unit charging.,法术单元充能中。,Зарядка блока Искусства.
+char_128_plosis_CN_024,Deployment 2,Target marked.,目标设定。,Цель обозначена.
+char_128_plosis_CN_025,In Battle 1,Initiating healing process.,医疗进程开始。,Запуск процесса лечения.
+char_128_plosis_CN_026,In Battle 2,Loading complete.,装载完毕。,Загрузка завершена.
+char_128_plosis_CN_027,In Battle 3,Healing Mode enabled.,治疗模式。,Режим лечения.
+char_128_plosis_CN_028,In Battle 4,Activating Arts Unit.,法术单元启动。,Активация блока Искусства.
+char_128_plosis_CN_029,4-star Result,"Even such a challenging scenario couldn't stop you, Doctor. Perhaps one day you will find the solution to the non-deterministic polynomial time problem.",高难度的战役亦被博士完全攻克，或许有朝一日您将能解决非确定性多项式时间问题带来的困惑。,"Даже с такой непростой кампанией вы справились, Доктор. Возможно, однажды вы найдёте ответ и на головоломку недетерминированного полиномиального времени."
+char_128_plosis_CN_030,3-star Result,Your logical deduction was absolutely correct. What a perfect calculation.,您的逻辑推论完全正确，完美的计算。,Ваше логическое умозаключение абсолютно верно. Идеальное вычисление.
+char_128_plosis_CN_031,Sub 3-star Result,A number of errors have been detected. Please confirm.,仍有一些错误出现在您的计算中，请注意。,В ваших расчётах обнаружены ошибки. Прошу обратить внимание.
+char_128_plosis_CN_032,Operation Failure,A fatal error occurred during the operation. Reboot the system to proceed.,作战行动中发生了问题，请重启系统。,В ходе операции произошёл серьёзный сбой. Перезагрузите систему.
+char_128_plosis_CN_033,Assigned to Facility,Is this place like a disk array?,这个地方就像磁盘列阵一样吗？,Это место подобно дисковому массиву?
+char_128_plosis_CN_034,Tap,Error occured.,发生错误。,Произошла ошибка.
+char_128_plosis_CN_036,Trust Tap,Detecting affection increase for the Doctor within Ptilopsis. Would you like to skip to the next dialogue choice?,检测到白面鸮对博士的好感度上升，要跳到下一个事件选项吗？,Обнаружено повышение уровня симпатии Птилопсис к Доктору. Перейти к следующему варианту диалога?
+char_128_plosis_CN_037,Title,Arknights.,明日方舟。,Аркнайтс.
+char_128_plosis_CN_038,New Year's blessing,"Loading… Loading complete. File name: New Year. Date modified: twelve hours ago. Updating entry contents: Doctor, Happy New Year! Your present has been placed on your desk. Open it and take a look!",检测到系统词条，新年，内容读取已完成。词条更新时间：十二小时前。词条更新内容：博士，新年快乐！礼物已经放在办公桌上，快点拆开看看吧！,"Обнаружена системная запись «Новый год». Чтение содержимого завершено. Время обновления: двенадцать часов назад. Содержимое записи: Доктор, с Новым годом! Подарок уже лежит на столе — скорее открывайте!"
+char_128_plosis_CN_042,Greeting,Date rollover complete. The Doctor is now online. Detecting emotional surge within Ptilopsis.,全新的一天，检测到博士上线，白面鸮的情绪指数上升。,Смена даты завершена. Доктор в сети. У Птилопсис зафиксирован подъём эмоционального индекса.
+char_128_plosis_CN_043,Birthday,"Doctor, people celebrate their own dates of birth. How do you wish to celebrate yours? Acknowledged. Increasing favor rating of Doctor. Error: Invalid operation. Cause of failure: favor rating is already at—maximum.",生日，人们庆祝自己诞生的日子，博士希望以何种形式庆祝？了解，将提升对博士的好感度。错误，对博士的好感度提升失败。失败原因：好感度已提升至——满值。,"День рождения — день, когда люди отмечают своё появление на свет. Как вы хотите его отпраздновать, Доктор? Понятно. Повышаю уровень симпатии к Доктору. Ошибка: повышение не удалось. Причина: значение уже достигло максимума."
+char_128_plosis_CN_044,Anniversary Celebration,"Zzzzz... Detected passage of the Doctor. What is the Doctor laughing at...? Scanning hairstyle condition of Ptilopsis... Detected three pigtails, five bows, five colored bands, two clips. Assumed to be practical joke by Ifrit... Final assessment: Adorable.",Zzzzz……检测到博士经过，博士在笑什么？……对白面鸮的发型进行状态扫描，检测到小辫三个，蝴蝶结五个，彩色皮筋五个，发卡两个，推测为伊芙利特的恶作剧……可爱。,"Zzzzz... Обнаружено прохождение Доктора. Над чем вы смеётесь?.. Сканирование состояния причёски Птилопсис: обнаружено три косички, пять бантиков, пять цветных резинок, две заколки. Предположительно — проделки Ифрита... Итоговая оценка: мило."
