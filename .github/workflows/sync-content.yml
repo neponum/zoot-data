@@ -1,0 +1,59 @@
+name: Sync content
+
+# Раз в неделю (и по кнопке) добираем шаблоны для нового контента игры:
+# эпизоды без CSV, досье и реплики новых оперативников. Готовые переводы
+# никогда не перезаписываются — скрипты только добавляют отсутствующие файлы.
+
+on:
+  schedule:
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-content
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Game data
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/ArknightsAssets/ArknightsGamedata .game-data
+          cd .game-data
+          git sparse-checkout set \
+            cn/gamedata/story \
+            cn/gamedata/excel \
+            en/gamedata/excel
+
+      - name: Build templates
+        run: |
+          python3 tools/build_episode_templates.py \
+            --stories .game-data/cn/gamedata/story \
+            --titles .game-data/cn/gamedata/excel/story_review_table.json
+          python3 tools/build_dossier_templates.py \
+            --table .game-data/en/gamedata/excel/handbook_info_table.json
+          python3 tools/build_voice_templates.py \
+            --table .game-data/en/gamedata/excel/charword_table.json
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add translation
+          if git diff --cached --quiet; then
+            echo "нового контента нет"
+            exit 0
+          fi
+          git commit -m "chore(content): шаблоны новых эпизодов, досье и реплик [skip ci]"
+          git push
