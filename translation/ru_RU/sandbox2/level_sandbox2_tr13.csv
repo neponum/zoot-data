@@ -1,0 +1,28 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,sandbox2
+__chapter__,,Chapter Name,activities/sandbox2/level_sandbox2_tr13,
+,,,,
+line-16,,"[Tutorial(tileX=5, tileY=10, focusWidth=100, focusHeight=100, \",,
+line-17,,"animStyle=""Highlight"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-18,,"protectTime=0.5, dialogHead=""char_603_csnipe"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-19,,嗯？这里怎么有一个被遗弃的饮品供给站？,,
+line-23,,"[Tutorial(waitForSignal=""char_info"", charId=""trap_582_xb2dstr"", tileX=5, tileY=10, focusWidth=100, focusHeight=100, \",,
+line-24,,"dialogHead=""char_601_cguard"", animStyle=""Click"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-25,,"protectTime=2, dialogHead=""char_601_cguard"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-26,,我来看看它还能不能用吧。,,
+line-30,,"[Tutorial(focusX=242, focusY=-111, focusWidth=480, focusHeight=235, \",,
+line-31,,"animStyle=""Highlight"", focusStyle=""HighlightRect"", black=""$f_tut_black"",anchor=""Left"", \",,
+line-32,,"protectTime=2, dialogHead=""char_601_cguard"")] \",,
+line-33,,背后写了说明：饮品供给站在技能持续时间内会<@tu.kw>持续消耗</>饮料或能量剂来<@tu.kw>维持一定的繁荣度</>并同时给所有干员提供<@tu.kw>强力加成</>。,,
+line-36,,"[Tutorial(focusX=325, focusY=-25, focusWidth=150, focusHeight=70, anchor=""Top"",\",,
+line-37,,"animStyle=""Highlight"", focusStyle=""HighlightRect"", black=0.5, \",,
+line-38,,"protectTime=2, dialogHead=""char_601_cguard"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-39,,这里显示了我们当前的繁荣度。,,
+line-41,,当<@tu.kw>繁荣度达到一定程度</>时，<@tu.kw>建设值也会缓慢增长</>。,,
+line-42,,"[Tutorial(focusX=0, focusY=-100, focusWidth=300, focusHeight=200, anchor=""Top"",\",,
+line-43,,"animStyle=""Highlight"", focusStyle=""HighlightRect"", black=0.5, \",,
+line-44,,"protectTime=2, dialogHead=""char_601_cguard"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-45,,点击这里可以查看建设值的增加速度，通过提升繁荣度，建设值也会随之增加得更快。,,
+line-48,,工程部发来了相关的图纸，我们来试试吧！,,

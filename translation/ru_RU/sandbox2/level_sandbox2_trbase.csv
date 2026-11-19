@@ -1,0 +1,24 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,sandbox2
+__chapter__,,Chapter Name,activities/sandbox2/level_sandbox2_trbase,
+,,,,
+line-4,,博士，终于等到你返回基地了！我们将会在这片移动地块上<@tu.kw>建设罗德岛新基地</>，安保系统已经搭建完成，这里<@tu.kw>绝对不会有敌人的袭扰</>。,,
+line-6,,建设罗德岛新基地共分为<@tu.kw>五</>期工程，我们当下的资源只够建设第<@tu.kw>一</>期。先从眼下的事务着手吧。,,
+line-8,,这是<@tu.kw>清杂机械羽兽</>，一组就可以清理一片待清理地块。,,
+line-16,,这个呢就是我的心血之作，也是基地建设的重头戏——能源产线系统！,,
+line-23,,"[Tutorial(waitForSignal=""put_down"", charId=""trap_604_xb2ofb2"", posX=21, posY=15, dialogHead=""$avatar_closur"", animStyle=""Drag"", \",,
+line-24,,"startCardIndex=2, startAnchor=""BottomRight"", endTileX=21, endTileY=15)]要想实现能源自给自足，我们首先需要的是能源转化装置。",,
+line-32,,"[Tutorial(waitForSignal=""char_info"", charId=""trap_604_xb2ofb2"", tileX=21, tileY=15, focusWidth=100, focusHeight=100, \",,
+line-33,,"dialogHead=""$avatar_closur"", animStyle=""Click"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-34,,"protectTime=0.5, dialogHead=""$avatar_closur"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-35,,将<@tu.kw>木材能源转化装置</>造好后，还需要将它激活才能产出能源。,,
+line-44,,怎么激活它呢？好问题！在它的攻击范围内建造一个<@tu.kw>木材处理中心</>就好啦！,,
+line-46,,"[Tutorial(waitForSignal=""put_down"", charId=""trap_635_xb2owdp"", posX=21, posY=14, dialogHead=""$avatar_closur"", animStyle=""Drag"", \",,
+line-47,,"startCardIndex=1, startAnchor=""BottomRight"", endTileX=21, endTileY=14)]",,
+line-53,,现在我们成功提升了能源产能，但因为还没有核心能源基站，所以整条产线并没有完全运转。,,
+line-55,,接下来博士只需要建造<@tu.kw>核心能源基站</>，就能够通过能源产出资源啦。,,
+line-70,,它会将能源以一定比例转化为建设元件，<@tu.kw>升级后甚至能产出建设装置</>。博士把它放在<@tu.kw>任意位置</>都可以。但提醒一下，这个建筑<@tu.kw>仅此一个</>哦！,,
+line-72,,如果布置不满意，<@tu.kw>拆除</>建筑就可以啦，建筑拆除后<@tu.kw>无损耗地返回手牌</>。,,
+line-74,,想要更多的建筑和清杂机械羽兽，可在左侧面板中的罗德岛后勤部商店购买，接下来请博士尽情布置基地吧。,,

@@ -1,0 +1,24 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,sandbox1
+__chapter__,,Chapter Name,activities/sandbox1/level_sandbox1_tr03_2,
+,,,,
+line-5,,使用工具确实让采集效率提升了不少，大家一起来帮忙吧。,,
+line-12,,采集是很耗费体力的，大家肯定口渴了，我们想办法获取点<@tu.kw>清水</>吧。,,
+line-13,,在野外生存，清水是非常重要的资源，但靠人力是无法获取清水的。,,
+line-14,,"[Tutorial(focusX=-139, focusY=61, focusWidth=118, focusHeight=122, anchor=""BottomRight"", \",,
+line-15,,"animStyle=""Highlight"", focusStyle=""HighlightRect"", black=0.5, \",,
+line-16,,"protectTime=0.5, dialogHead=""$avatar_zumama"")] \",,
+line-17,,这时候就需要使用<@tu.kw>蟹蟹抽水泵</>。,,
+line-21,,"[Tutorial(waitForSignal=""put_down"", dialogHead=""$avatar_zumama"", animStyle=""Drag"", \",,
+line-22,,"startX=-140, startY=61, startAnchor=""BottomRight"", endAnchor=""Center"", endX=-240, endY=-172)] \",,
+line-23,,部署到这里！,,
+line-27,,"[Tutorial(waitForSignal=""select_direction"", dialogHead=""$avatar_zumama"", animStyle=""Drag"", \",,
+line-28,,"startX=-12, startY=-22, endX=-5, endY=163)] \",,
+line-29,,放心，无论朝向哪里，抽水泵都能正常工作。,,
+line-35,,"[Tutorial(tileY=7, tileX=2, focusWidth=125, focusHeight=125, \",,
+line-36,,"animStyle=""Highlight"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-37,,"protectTime=0.5, dialogHead=""$avatar_zumama"")] \",,
+line-38,,部署后，蟹蟹抽水泵每隔一段时间就会为我们收集一些清水。但抽水泵有使用时间限制，使用一段时间后就会失效。,,
+line-39,,继续行动吧。,,

@@ -1,0 +1,25 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,sandbox2
+__chapter__,,Chapter Name,activities/sandbox2/level_sandbox2_tr11_a,
+,,,,
+line-10,,"[Tutorial(waitForSignal=""put_down"", charId=""trap_513_xb2bas"", posX=1, posY=10, dialogHead=""$avatar_broca"", animStyle=""Drag"", \",,
+line-11,,"startCardIndex=0, startAnchor=""BottomRight"", endTileX=1, endTileY=10)]",,
+line-18,,"[Tutorial(tileX=2, tileY=8, focusWidth=150, focusHeight=150, \",,
+line-19,,"animStyle=""Highlight"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-20,,"protectTime=0.5, dialogHead=""$avatar_broca"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-21,,这次是圈养野生动物的任务……你们知道怎么抓野生动物吗？看上去不简单啊……,,
+line-25,,"[Tutorial(waitForSignal=""put_down"", charId=""trap_597_xb2cage"", posX=1, posY=8, dialogHead=""$avatar_aosta"", animStyle=""Drag"", \",,
+line-26,,"startCardIndex=6, startAnchor=""BottomRight"", endX=-100, endY=-50)] \",,
+line-27,,工作手册上说，将野生动物置于捕猎笼的<@tu.kw>攻击范围</>内，就能抓到它们。被捕获后也可以查看野生动物产出的效率。,,
+line-30,,"[Tutorial(waitForSignal=""select_direction"", dialogHead=""$avatar_aosta"", animStyle=""Drag"", \",,
+line-31,,"startX=-60, startY=-45, endX=240, endY=-45)] \",,
+line-37,,"[Tutorial(tileX=4, tileY=8, focusWidth=150, focusHeight=150, \",,
+line-38,,"animStyle=""Highlight"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-39,,"protectTime=0.5, dialogHead=""$avatar_chiave"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-40,,让小爷我也来看看！嗯，被捕获的野生动物<@tu.kw>养在兽栏里</>后就能自动产出资源！,,
+line-43,,被捕获后可以查看它们产出的效率。,,
+line-44,,哈哈，听起来不难嘛！那这些任务不是一下子就能完成吗？,,
+line-45,,给，我还带了一些圈养野生动物相关的图纸。,,
+line-46,,第一个任务应该很快就能完成了。,,

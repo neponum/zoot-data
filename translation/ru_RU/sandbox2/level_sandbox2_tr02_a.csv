@@ -1,0 +1,17 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,sandbox2
+__chapter__,,Chapter Name,activities/sandbox2/level_sandbox2_tr02_a,
+,,,,
+line-12,,"[Tutorial(waitForSignal=""put_down"", charId=""trap_513_xb2bas"", posX=9, posY=7, dialogHead=""$avatar_acfend"", animStyle=""Drag"", \",,
+line-13,,"startCardIndex=0, startAnchor=""BottomRight"", endTileX=9, endTileY=7, dialogHead=""$avatar_acfend"")] \",,
+line-14,,发现有野生的稻谷，不过还没成熟。,,
+line-23,,"[Tutorial(tileX=8, tileY=7, focusWidth=150, focusHeight=150, \",,
+line-24,,"animStyle=""Highlight"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-25,,"protectTime=0.5, dialogHead=""$avatar_closur"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-26,,我会增派一名医疗干员来加速它的成长。,,
+line-30,,"[Tutorial(tileX=8, tileY=7, focusWidth=150, focusHeight=150, \",,
+line-31,,"animStyle=""Highlight"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-32,,"protectTime=0.5, dialogHead=""$avatar_closur"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-33,,稻谷成熟后需要干员或采集专员<@tu.kw>攻击收割</>，用它来完成第一个任务吧！,,

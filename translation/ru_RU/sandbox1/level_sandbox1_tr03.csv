@@ -1,0 +1,25 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,sandbox1
+__chapter__,,Chapter Name,activities/sandbox1/level_sandbox1_tr03,
+,,,,
+line-9,,和之前一样，我会帮助你们解决那些打扰我们的敌人。,,
+line-12,,"[Tutorial(waitForSignal=""put_down"", dialogHead=""$avatar_zumama"", animStyle=""Drag"", \",,
+line-13,,"startX=-140, startY=61, startAnchor=""BottomRight"", endAnchor=""Center"", endX=0, endY=0)] \",,
+line-14,,先尝试使用<@tu.kw>木材采集站</>吧，这个工具能让我们快速采集木材。,,
+line-18,,"[Tutorial(waitForSignal=""select_direction"", dialogHead=""$avatar_zumama"", animStyle=""Drag"", \",,
+line-19,,"startX=84, startY=10, endX=74, endY=206, dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-20,,<@tu.kw>向上</>部署，让木材采集站的作业范围覆盖尽可能多的树木吧！,,
+line-26,,"[Tutorial(tileY=8, tileX=4, focusWidth=150, focusHeight=150, \",,
+line-27,,"animStyle=""Highlight"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-28,,"protectTime=0.5, dialogHead=""$avatar_zumama"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-29,,木材采集站每隔一段时间就会派出一辆采集车来进行采集。,,
+line-30,,"[Tutorial(tileY=8, tileX=4, focusWidth=150, focusHeight=150, \",,
+line-31,,"animStyle=""Highlight"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-32,,"protectTime=1, dialogHead=""$avatar_zumama"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-33,,在采集到足够的木材后，采集车会自行将木材搬运回来，所以只要木材采集站不被破坏，很快就能采集完它作业范围内的所有木材。,,
+line-38,,"[Tutorial(focusX=25, focusY=-170, anchor=""Center"", focusWidth=150, focusHeight=150, \",,
+line-39,,"animStyle=""Highlight"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-40,,"protectTime=0.5, dialogHead=""$avatar_zumama"")] \",,
+line-41,,这次的敌人不好对付，接下来请一边使用工具采集木材，一边协助我抵挡敌人吧。,,

@@ -1,0 +1,19 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,sandbox1
+__chapter__,,Chapter Name,activities/sandbox1/level_sandbox1_tr_home,
+,,,,
+line-8,,这是我们第一次面对敌袭，不必紧张。,,
+line-13,,敌人会从驻扎地边缘的入口处出现。,,
+line-25,,他们会朝着<@tu.kw>风沙营垒</>所在的位置前进并发起进攻。,,
+line-29,,"[Tutorial(tileY=12, tileX=14, focusWidth=200, focusHeight=200, \",,
+line-30,,"animStyle=""Highlight"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-31,,"protectTime=0.5, dialogHead=""$avatar_zumama"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-32,,如果风沙营垒被攻破，驻扎地就会陷落，整场演算也会失败。,,
+line-36,,"[Tutorial(tileY=6, tileX=14, focusWidth=125, focusHeight=125, \",,
+line-37,,"animStyle=""Highlight"", focusStyle=""HighlightCircle"", black=0.5, \",,
+line-38,,"protectTime=0.5, dialogHead=""$avatar_zumama"", dialogX=""$f_lower_dialog_pos_x"", dialogY=""$f_lower_dialog_pos_y"")] \",,
+line-39,,这些设施能帮你暂时阻挡敌人的进攻，请合理利用这些设施部署干员来阻击敌人。,,
+line-41,,\,,
+line-42,,我随时待命，必要时请给我下达指令，现在开始行动吧！,,
