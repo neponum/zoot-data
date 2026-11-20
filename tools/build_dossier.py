@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 """Сборка перевода досье оперативника в JSON.
 
+ГЛАВНОЕ ПРАВИЛО: ZH-оригинал — единственная основа перевода; EN — подсказка.
+Если EN-досье нет (новые оперативники), досье строится напрямую по ZH из
+`.cache/handbook_zh.json` и получает `sourceLang: "zh_CN"`. Отсутствие EN
+никогда не является причиной пропустить оперативника.
+
 Исходник — обычный текстовый файл (`.cache/dossiers/ru/<operator_id>.txt`),
 где секции разделены заголовком:
 
@@ -25,8 +30,54 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC_DIR = os.path.join(ROOT, ".cache", "dossiers", "src")
 RU_DIR = os.path.join(ROOT, ".cache", "dossiers", "ru")
 OUT_DIR = os.path.join(ROOT, "translation", "ru_RU", "dossiers")
+ZH_HANDBOOK = os.path.join(ROOT, ".cache", "handbook_zh.json")
 
 HEADER = "@@"
+
+# Канонические названия секций по ZH-заголовкам.
+ZH_TITLES = {
+    "基础档案": ("Basic Info", "Базовые данные"),
+    "综合体检测试": ("Physical Exam", "Физический осмотр"),
+    "综合性能检测结果": ("Physical Exam", "Физический осмотр"),
+    "客观履历": ("Profile", "Личное дело"),
+    "临床诊断分析": ("Clinical Analysis", "Клинический анализ"),
+    "档案资料一": ("Archive File 1", "Архивный файл I"),
+    "档案资料二": ("Archive File 2", "Архивный файл II"),
+    "档案资料三": ("Archive File 3", "Архивный файл III"),
+    "档案资料四": ("Archive File 4", "Архивный файл IV"),
+    "晋升记录": ("Promotion Record", "Запись о повышении"),
+}
+
+
+def zh_sections(op_id):
+    """Секции из ZH-хендбука, когда EN-досье отсутствует."""
+    with open(ZH_HANDBOOK, encoding="utf-8") as fh:
+        data = json.load(fh)["handbookDict"]
+    if op_id not in data:
+        raise SystemExit(f"нет ZH-досье: {op_id}")
+    out = []
+    for i, s in enumerate(data[op_id].get("storyTextAudio", [])):
+        title_zh = s.get("storyTitle", "")
+        title_en, _ = ZH_TITLES.get(title_zh, (title_zh, ""))
+        stories = s.get("stories", [])
+        text_zh = stories[0].get("storyText", "") if stories else ""
+        out.append({
+            "index": i,
+            "titleEn": title_en,
+            "textEn": "",
+            "titleZh": title_zh,
+            "textZh": text_zh,
+        })
+    return out
+
+
+def load_source(op_id):
+    """EN-секции если есть, иначе секции из ZH."""
+    src_path = os.path.join(SRC_DIR, f"{op_id}.json")
+    if os.path.exists(src_path):
+        with open(src_path, encoding="utf-8") as fh:
+            return json.load(fh)[op_id], "en_US"
+    return zh_sections(op_id), "zh_CN"
 
 
 def parse_txt(path):
@@ -57,15 +108,11 @@ def parse_txt(path):
 
 
 def build(op_id):
-    src_path = os.path.join(SRC_DIR, f"{op_id}.json")
     ru_path = os.path.join(RU_DIR, f"{op_id}.txt")
-    if not os.path.exists(src_path):
-        raise SystemExit(f"нет оригинала: {src_path}")
     if not os.path.exists(ru_path):
         raise SystemExit(f"нет перевода: {ru_path}")
 
-    with open(src_path, encoding="utf-8") as fh:
-        source = json.load(fh)[op_id]
+    source, source_lang = load_source(op_id)
     sections = parse_txt(ru_path)
 
     if len(sections) != len(source):
@@ -82,13 +129,18 @@ def build(op_id):
         text = "\n".join(sec["lines"]).strip()
         if not text:
             raise SystemExit(f"{op_id}: пустой перевод секции {sec['index']}")
-        en_len = len(orig["textEn"])
-        if en_len > 40:
-            ratio = len(text) / en_len
-            if not (0.25 <= ratio <= 2.5):
+        # Длина сверяется с EN, а при его отсутствии — с ZH (ZH плотнее RU).
+        ref_len = len(orig.get("textEn") or "")
+        bounds = (0.25, 2.5)
+        if ref_len <= 40:
+            ref_len = len(orig.get("textZh") or "")
+            bounds = (0.8, 4.0)
+        if ref_len > 40:
+            ratio = len(text) / ref_len
+            if not (bounds[0] <= ratio <= bounds[1]):
                 raise SystemExit(
                     f"{op_id}: секция {sec['index']} — подозрительная длина "
-                    f"({len(text)} символов против {en_len})"
+                    f"({len(text)} символов против {ref_len})"
                 )
         out_sections.append({
             "index": sec["index"],
@@ -99,7 +151,7 @@ def build(op_id):
 
     result = {
         "operatorId": op_id,
-        "sourceLang": "en_US",
+        "sourceLang": source_lang,
         "sections": out_sections,
     }
     os.makedirs(OUT_DIR, exist_ok=True)
