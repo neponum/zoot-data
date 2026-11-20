@@ -11,6 +11,7 @@ translation/ru_RU/
 │       └── <storyBaseName>_<translator>.csv
 ├── dossiers/<operator_id>.csv      # досье: section_index,title_en,text_en,title_ru,text_ru
 ├── voices/<operator_id>.csv        # реплики: id,title,original,translation
+├── skins.json                      # описания образов: { "<skinId>": "текст" }
 ├── episodes.json                   # снимок структуры (файлы и переводчики по эпизодам)
 ├── glossary.json                   # машинный канон терминов и подписей
 └── README.md
@@ -24,6 +25,11 @@ translation/ru_RU/
 
 `<storyBaseName>` — базовое имя сценария без расширения (последний сегмент пути
 `.../activities/act19side/level/act19side_sub-1-1.txt` → `act19side_sub-1-1`).
+
+`skins.json` — описания образов одежды. Ключ — `skinId` из `skin_table`
+(`char_003_kalts#1`), значение — русский текст; если ключа нет, читалка
+показывает английский оригинал. Пока переведены шаблонные описания базовых
+образов и униформ Родос Айленд (714 записей).
 
 `<translator>` — ник переводчика из реестра приложения: `neksi0762`, `num4ar`,
 `naoshka_v`, `ilarhion`, `frostymisery17`, `nep0num`. Исторический алиас `neponum`
