@@ -1,0 +1,345 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_dusk_1_1,旦夕
+,,,,
+char-1,掌柜,掌柜,Proprietor,Хозяйка
+char-2,说书人,说书人,Storyteller,Сказитель
+char-3,富翁,富翁,Wealthy Person,Богач
+char-4,阮先生,阮先生,Mr. Ruan,Господин Жуань
+char-5,投机商,投机商,Speculator,Спекулянт
+char-6,男声,男声,Male Voice,Мужской голос
+char-7,女声,女声,Female Voice,Женский голос
+char-8,夕,夕,Dusk,Даск
+char-9,无名的墨魉,无名的墨魉,Nameless Ink Spirit,Безымянный чернильный дух
+char-10,来客,来客,Guest,Гость
+char-11,阿咬,阿咬,Bitey,А-Яо
+char-12,阿咬&阿咬？,阿咬&阿咬？,Bitey & Bitey?,А-Яо и А-Яо?
+,,,,
+line-13,掌柜,哎，您别走啊。,"Hey, don't go anywhere.","Эй, не уходите же."
+line-15,说书人,已经被你骗了，我不走还等什么？,You've fooled me once already. What am I going to stay for?,Ты уже обманул меня один раз — чего мне здесь ждать?
+line-16,说书人,阮先生虽然不是什么千古大家，但他最为人称赞的，便是丝毫不差的精妙骨法。,"Mr. Ruan might not be any giant of the ages, but it is his absolute, exact control of his brush's weight that makes him one of the most lauded out there.","Господин Жуань, может, и не великий мастер на все времена, но больше всего его хвалят именно за безупречно точную костную технику."
+line-17,说书人,这幅画学阮先生的气势，倒是学到了三四分，可墨线歪斜，肉不附骨，骨不连筋，也好意思说是真迹？,"This painting shows the study of Mr. Ruan's energy, and has attained three, perhaps four-tenths of it, but the strokes are crooked. The bodies fray from the form, and the form makes no attempt to adjoin. You have a sense of humor to tout this as a genuine work, don't you?","В этой картине угадывается подражание манере господина Жуаня — пожалуй, на три-четыре десятых, но линии кривы, тело не держится за костяк, костяк не соединяется с сухожилиями. И ты ещё смеешь называть это подлинником?"
+line-23,掌柜,您留步，留步呀！,"Just hold it, hold it, okay!","Постойте, постойте же!"
+line-24,掌柜,我是怕您不爱听，这才没把不堪的真相和盘托出……这确实是他的真迹！,"I didn't lay out the whole, unbearable truth because I knew you'd hate hearing it... but this really is a genuine article of his!","Я не стал говорить вам всю эту невыносимую правду сразу, потому что знал: вам не захочется её слышать... Но это действительно его подлинная работа!"
+line-26,说书人,不堪的真相？他就住在这城里，好歹是你同乡，你就这么编派他？,Unbearable truth? He lives in this city. He's a fellow man of yours. You would slander him like that?,"Невыносимая правда? Он живёт в этом городе, он вам хоть и земляк — и вы так его порочите?"
+line-27,说书人,再说，就算再怎么不堪，他也画不出这么糟的东西来。,"Not to mention, no matter how unbearable things are, he wouldn't produce a work this shoddy.","Не говоря уже о том, что, каким бы ни был невыносимым его положение, такую дрянь он никогда бы не написал."
+line-29,掌柜,他眼睛坏了。,His sight has gone.,Он потерял зрение.
+line-31,说书人,……,......,...
+line-33,掌柜,这事我绝不撒谎！阮先生眼睛盲了，才有了我手里这幅画呀！,I am absolutely not lying about this! The painting I possess here is a consequence of Mr. Ruan going blind!,Я ни словом не лгу! Господин Жуань ослеп — и поэтому у меня в руках оказалась эта картина!
+line-39,说书人,阮先生年轻时就有眼病，这事我听说过。,"Mr. Ruan was frequently ill in his youth, that I've heard.","Я слышал, что в молодости у господина Жуаня были проблемы с глазами."
+line-40,说书人,可他心高气傲，就算眼睛盲了，又怎么会让这种东西流传于世，败坏他自己的名声？,"But being so prideful in spirit, how could anything, even going blind, have him let this sort of thing out into the realm, to ruin his own fame?","Но он был так горд и высокомерен — неужели, даже ослепнув, он позволил бы такому пойти по свету и позорить его имя?"
+line-44,掌柜,您听我说呀。,Just... listen to me.,Выслушайте меня.
+line-45,掌柜,阮先生的眼疾近年越来越重，到了后来，只要纸上的字略小一点，就算贴在眼前也看不清。,"Mr. Ruan's eye disease kept getting worse and worse in recent years, to the point he could take ever so slightly small print, put it up against his face, and he couldn't make it out.","Болезнь глаз господина Жуаня с каждым годом усиливалась, и в конце концов он не мог разобрать даже крупные иероглифы на бумаге, сколько ни подносил её к лицу."
+line-46,掌柜,偏偏阮先生又心高气傲，死不承认自己看不见。,"He'd rather have died than admit he can't see, precisely <i>because</i> of his pride.","А господин Жуань был так горд, что скорее умер бы, чем признал, что не видит."
+line-47,掌柜,有奸人认准了他这一点，先是跟他虚与委蛇，骗取信任之后，把精心定好的合同放在他面前，哄他签下。,"There was a scoundrel who found out as such, played coy around him, tricked their way into his good favors, and then shoved some finely crafted contract before him and goaded him into signing.","Нашёлся негодяй, который это подметил: сначала он вкрался к нему в доверие, а потом подсунул ему заранее подготовленный договор и уговорил подписать."
+line-48,掌柜,名字一签，阮先生不但背上巨债，连眼疾也瞒不住了。,"And just like that, not only is Mr. Ruan in massive debt, even knowledge of his eye disease is getting out.","Стоило поставить подпись — и господин Жуань не только влез в огромные долги, но и больше не мог скрыть свою слепоту."
+line-49,掌柜,在那之后，他病了几个月，据说彻底盲了。,He's been ill for several months since then. Some say he's gone <i>completely</i> blind.,"После этого он болел несколько месяцев, и говорят, что в конце концов ослеп полностью."
+line-51,说书人,……人心竟刻毒至此？,...Is the human soul truly that venomous?,...Неужели человеческое сердце способно на такую злость?
+line-53,掌柜,谁说不是呢。,So it goes.,Именно.
+line-54,掌柜,本来嘛，要是事情到此为止，也只是阮先生误中奸计，我也不敢瞎说什么“不堪”。,"Here, if that was as far as it went, and he'd simply fallen for some swindler's scheme, I wouldn't be throwing around the word 'unbearable.'","Понимаете, если бы на этом всё закончилось — просто попадись он на уловки мошенника — я бы не стал бросать слово «невыносимый»."
+line-55,掌柜,可他在那之后一蹶不振，为了还债，已经不择手段了。,"But he's been ruined ever since then, forced to the worst ends to meet his debt.","Но после этого он сломался, и ради того, чтобы вернуть долг, уже ни перед чем не останавливается."
+line-57,说书人,不择手段？,The worst ends?,Ни перед чем?
+line-59,掌柜,他盲后画技一落千丈，不能入行家的眼，竟然开始以“盲人作画”为噱头，招徕附近的富人看他作画，换取他们的打赏。,"His painting has lost all value since going blind. The experts won't give him a second look. He even started going by the 'blind painter' circus act, soliciting the wealthy here to watch him paint, in exchange for their charity.","Ослепнув, он утратил былое мастерство, и знатоки больше не смотрят на него. Тогда он начал выставлять себя напоказ как «слепого художника»: зовёт здешних богачей смотреть, как он пишет, и живёт на их подаяния."
+line-61,掌柜,实不相瞒，现在他作一幅画，画本身卖不了几个子儿，或许还没那些大人物的赏钱多哩。我手里这幅画，也是从那些人手中收购来的——,"To be fully honest, nothing he paints now goes for much of anything—not any more than what those socialites tip him, even. This painting I have here now was procured <i>from</i> one of those—","По правде говоря, сама картина сейчас стоит сущие гроши — пожалуй, даже меньше, чем чаевые этих господ. А ту, что у меня, я и выкупил у одного из них —"
+line-63,掌柜,欸？人呢？,Eh? Where'd you go?,Эй? Куда вы?
+line-72,富翁,阮老真是奇人，小像和我这孙儿竟然有七八分相似！还有这头上的淡墨，也和孙儿头顶的胎记大差不差！先生果真是盲的吗？,"A colorful character you are, old Ruan, small enough you look amazingly like my grandson here! And this light ink on your head, it's not so far off the birthmark on my grandson's! Are you really blind, sir?","Старик Жуань — удивительный человек. Этот маленький портрет до невероятного похож на моего внука! И этот светлый мазок на голове — почти как родимое пятно на макушке у моего внука! Вы и правда слепы, сэр?"
+line-74,阮先生,……盲的。,...I am.,...Слеп.
+line-76,富翁,倒也没错，假如不盲，又怎么会连合同上的大字都看不见呢，哈哈。,I suppose as much. How would you miss even the big bold print on that contract if you weren't? Hahah.,"И вправду. А то как бы тебе не разобрать даже крупные иероглифы в договоре, ха-ха."
+line-78,阮先生,……哈。,...Hah.,...Ха.
+line-80,富翁,这是给先生的润笔，请先生笑纳。我先告辞了。,"Here's your painter's pay, and I do bid you accept. Farewell for now.","Вот вам плата за работу, прошу принять. Я пойду."
+line-89,说书人,那掌柜居然没说错，阮先生真的如此不堪了。,So the proprietor was not wrong. The state of Mr. Ruan truly is unbearable.,Лавочник не солгал. Господин Жуань и правда дошёл до такого состояния.
+line-91,阮先生,是谁？！,Who's that?!,Кто там?!
+line-93,说书人,一介说书人而已。,"A storyteller, no more.",Просто сказитель.
+line-95,阮先生,……说书人？,A storyteller..?,...Сказитель?
+line-97,说书人,我只知道阮先生心高气傲，当年为了追求逼真，对着景物枯坐三日，却不知道，他如今竟然甘心当起笼中的珍禽异兽了。,"I merely know that Mr. Ruan is a prideful one, who would pursue utmost realism in better years, who would fixate on scenery for days on end. Yet I didn't know he would resign himself now as a peacockerel within the cage, a sideshow of a beast.","Я знаю только, что господин Жуань всегда был гордым человеком: в былые годы ради правдивости он по три дня просиживал перед натурой... А мне и невдомёк было, что нынче он добровольно стал диковинным зверем в клетке."
+line-99,阮先生,……,......,...
+line-100,阮先生,要是同道中人特地来我这里棒喝，好意我心领了。,"If you're a sharer of the passion here to give me a wake-up call, I appreciate your kindness.",Если собрат по ремеслу пришёл меня образумить — спасибо за доброту.
+line-101,阮先生,只是人各有志，我现在双眼盲了，实在无力再分辨什么假假真真，不过是苟延残喘，不至于倒毙路旁罢了。,"But ambitions are one's own. I'm blind in both eyes, unable to tell any longer what's fake and what's real. I'm simply struggling in my swansong. It beats falling dead on the roadside, that's all.","Но у каждого свой путь. Я слеп на оба глаза и уже не способен различать, что ложно, а что истинно. Я просто влачу своё существование до последнего — лишь бы не умереть на дороге."
+line-106,投机商,老阮，老阮！,"Ruan, old Ruan!","Старый Жуань, старый Жуань!"
+line-108,阮先生,您是……？,Who are you...?,Вы... кто?
+line-110,投机商,我是前天上午来找你作画的人，难道你这么快就忘了？,I'm the one that came to see you for a painting a few days ago. Did you forget so fast?,"Я тот, что приходил к вам позавчера утром за картиной. Уже и забыли?"
+line-112,阮先生,是……褚先生吧。,"Mr... Chu, I presume.",Кажется... господин Чу?
+line-114,投机商,是我！,"Yes, that's me!",Он самый!
+line-115,投机商,你画的这个《花羽图》究竟是什么东西？,What under Heaven is this 'Scene of Flower Plumage' you painted?,Что это за штука — ваша «Картина цветов и перьев»?
+line-116,投机商,羽兽的脚爪好像被掰折成了几截，花瓣的上色也是一团污浊，不知道的还以为你把调色碟打翻在上面了！,"The fowlbeast's feet look like they're in pieces, and the coloring on these petals is turbid at best! You may well have flipped your palette straight onto the canvas!","Лапы птицы будто переломаны на несколько кусков, а лепестки закрашены такой мутью — не знаешь и подумать, будто вы опрокинули палитру прямо на холст!"
+line-117,投机商,我还把你画的这东西拿去给懂行的看，问他们这是什么技法，墨骨如何，你猜他们说什么？,"I showed what you drew to some experts and asked them what technique this was, how your consciousness of form held, and can you guess what they said?","Я показывал вашу работу знатокам, спрашивал, какая это техника и какова костная основа — знаете, что они сказали?"
+line-118,投机商,他们说，你的“墨骨”早就成了“媚骨”，你画的东西也跟着东倒西歪，早就一文不值了！,They said any 'form-conscious' part of you had long devolved into 'bone-obsequious!' Everything you paint wobbles and warps! When was the last time you laid a single firm line?!,"Они сказали, что ваша «костная основа» давно стала «льстивым костяком», и всё, что вы пишете, шатается и кривится!"
+line-120,阮先生,媚骨？！,Bone-obsequious?!,Льстивый костяк?!
+line-122,说书人,……,......,...
+line-124,阮先生,……褚先生，咱们一开始说好了的，润笔您看着给，无论多少都行，但事后您不能反悔。,"Mr. Chu, we agreed at the start that you'd pay as you saw fit, that any amount would be fine as long as you didn't regret it afterwards.","Господин Чу, мы с самого начала договорились: плату вы определяете сами, на ваш вкус, лишь бы потом не передумали."
+line-126,投机商,早知道你这样，别说润笔，你付我钱我都不要你的画！今天你要是不还钱，我就去报官，说你以次充好！,"If I knew this was how you ended up, then forget painter's pay, you wouldn't pay <i>me</i> to take your works! If you don't refund me today, I'll go to the authorities and tell them you're passing off shoddy goods!","Знал бы я, что ты такой, — не то что за работу, ты бы мне заплатил, я бы и тогда твою картину не взял! Верни мне деньги сегодня же, иначе пойду в управу и скажу, что ты подменяешь товар плохим!"
+line-128,说书人,褚先生，既然你们事先已经约好，官府是不会管这事的。,"Mr. Chu, in light of the fact you <i>made</i> your agreement, the authorities would not pay mind.","Господин Чу, раз вы сами заключили сделку, управа в это вмешиваться не станет."
+line-130,投机商,这和你有什么关系？,Does this have anything to do with you?,Какое тебе дело?
+line-131,投机商,要是官府不管，我还有别的手段，这老东西无论如何都得把钱给我吐出来！,"If the mandarins won't listen, I have other ways. No matter what, this geriatric's going to cough up my money!","Если управа не слушает, у меня найдутся и другие способы.Этот старик так или иначе вернёт мне деньги!"
+line-133,说书人,你要是上了“别的手段”，那才要劳烦官府费心呢。,"If you try your 'other ways,' <i>that</i> will be cause to trouble the authorities.",Вот если вы пустите в ход «другие способы» — тогда управа как раз займётся вами.
+line-135,投机商,你？！,You—?!,Вы?!
+line-136,投机商,……哼，算我吃了个闷亏。,"Hmph. Fine, I'll swallow this loss.","...Хм. Ладно, проглочу эту обиду."
+line-139,,来人举起手中的画，作势欲撕。,"The visitor lifts up the painting, asserts himself, and viciously begins to tear.","Гость поднимает картину и делает вид, что сейчас её порвёт."
+line-141,阮先生,你要干什么？！,What are you doing?!,Что вы делаете?!
+line-148,,那人手中发力，三两下把画撕了个粉碎。,"Throwing all his strength into his hands, he tears the painting into shreds in but a few short motions.","Вложив всю силу в руки, он за несколько движений рвёт картину в клочья."
+line-149,,他向上一抛，碎纸如同雪片般纷纷落下，撒了阮先生一身。,"He tosses them up into the air, the scraps falling down like snow, all over Mr. Ruan.","Он подбрасывает обрывки вверх, и они падают, как снег, осыпая господина Жуаня."
+line-150,投机商,姓阮的，就你这德行，连乞丐都不如！他们说得没错，你就是一身媚骨！下贱！,"Ruan, even beggars would be ashamed to act the way you do! They were right, you're bone-obsequious! Utterly depraved!","Жуань, с твоим-то норовом даже нищему не позавидуешь! Они были правы — ты весь пропитан льстивым костяком! Подлый!"
+line-159,阮先生,我……媚骨？下贱？,Me... obsequious? Depraved?,Я... льстивый костяк? Подлый?
+line-161,说书人,只有这话，我可没法驳他。,"Said as such, no, I cannot refute him.",В этом одном я не могу ему возразить.
+line-163,阮先生,……不，不！,"No, no!","...Нет, нет!"
+line-165,说书人,“不”？,'No?',«Нет»?
+line-166,说书人,你口口声声说自己目盲，可你真的全盲吗？,"You keep on repeating how you're blind, but are you truly, fully sightless?","Вы всё твердите, что слепы, — но вы и правда полностью слепы?"
+line-167,说书人,用噱头换钱已经算是不堪了，偏偏你这噱头又只有七八成真，你还好意思说这个“不”字？,"Playing the jester for coin is unbearable enough as is, but still you have to feign some for your comedic act. And you have the conscience to speak the word 'no?'","Зарабатывать на трюке — уже невыносимо, так нет же, вы ещё и сам трюк на семь-восемь десятых подделываете! И после этого у вас хватает совести говорить «нет»?"
+line-169,阮先生,这……这是什么意思？！,This... What do you mean?!,Это... что это значит?!
+line-171,说书人,婴儿头上的胎记就不用说了。还有，刚刚那姓褚的要撕你的画，纸还没破，你已经叫出了声。,"I need not mention the infant's birthmark. Further, you made a cry before that Chu fellow actually began to tear up your painting.","Родимое пятно на голове младенца — это я и так опущу. Но вот сейчас, когда тот Чу собрался рвать вашу картину, вы вскрикнули раньше, чем бумага порвалась."
+line-172,说书人,要是我没猜错，你视力确实没了一大半，纸上的字就不用说了，连颜色明暗可能都分不清，所以画技才会一落千丈。,"If my guess is correct, your sight is largely gone. The written word is a lost cause, and you can hardly even tell light shades from dark, hence the total suffering of your brushwork.","Если я не ошибаюсь, зрение вы действительно потеряли почти всё: иероглифы на бумаге — тем более, да и светлые тона от тёмных вы, пожалуй, уже не различаете. Поэтому мастерство и покатилось."
+line-173,说书人,但要说你全盲，那就是糊弄人的鬼话了。,But full blindness? There sits a subtle lie.,Но называть это полной слепотой —вежливая ложь.
+line-175,阮先生,……,......,...
+line-176,阮先生,先生……明察。,Sir... you are observant.,Сэр... вы проницательны.
+line-183,说书人,你去哪里？,Where are you going?,Куда вы?
+line-185,阮先生,连最后这个谎都被人看穿，我还有什么颜面苟活于世？,"With even this final lie dead, what grants me any standing to cling to life?",Даже последняя ложь разоблачена — чем мне ещё жить на свете?
+line-186,阮先生,不如找个清净地方……一了百了，也算干净！,I may as well find a quiet place... and be done with it all. It'll be clean!,Лучше найти тихое место... и покончить со всем разом. Будет чисто!
+line-188,说书人,干净？,Clean?,Чисто?
+line-189,说书人,你这一死，阮先生从今往后，永远都是一身媚骨的下贱之人，谈何干净？,"With your death, Mr. Ruan henceforth will be immortalized as the bone-obsequious, utterly depraved man. What of that do you call clean?",Умри вы сейчас — и господин Жуань навеки останется подлым человеком с льстивым костяком. Где тут чистота?
+line-191,阮先生,可我又该如何？又能如何？,But what else ought I do? What else <i>can</i> I do?,Но что мне делать? И что я могу сделать?
+line-193,说书人,别说你并未全盲，就算真盲了，就不能画了吗？,"Full sightlessness or not aside, even if you are blind, does that render you unable to paint?","Пусть вы и не полностью слепы — но даже если бы ослепли, разве вы не могли бы писать?"
+line-195,阮先生,就……不能画了吗？,Render me... unable to paint?,Не писать...?
+line-196,阮先生,……,......,...
+line-197,阮先生,能画……也许能画……,I can... perhaps I can...,"Могу... может быть, могу..."
+line-202,阮先生,——恕我愚钝，这盲眼作画的法子，还请先生详细赐教！,—Forgive my dullness! I ask you impart your teachings upon this blinded painter's method!,"— Простите мою тупость, но научите меня, слепого художника, этому способу!"
+line-204,说书人,我所闻非你所闻，我所触非你所触，我所尝非你所尝，我怎么教你？,That which I have heard is not as you have heard; which I have touched is not as you have touched; which I have tasted is not as you have tasted. To what end would I teach you?,"Я слышу не то, что слышите вы; осязаю не то, что осязаете вы; пробую не то, что пробуете вы. Как я могу вас научить?"
+line-206,阮先生,所闻……所触……所尝？,Heard... touched... tasted?,Слышать... осязать... пробовать?
+line-208,说书人,呵。,Hm.,Хм.
+line-209,说书人,我今天已经乏了，你好自为之吧。,I am tired for today. Fare well by yourself.,Я сегодня устал. Береги себя.
+line-228,阮先生,……,......,...
+line-234,阮先生,先生？,Sir?,Сэр?
+line-240,阮先生,想必是我听错了——,I must have misheard—,"Должно быть, я ослышался —"
+line-246,说书人,你叫我？,Do you refer to me?,Вы меня звали?
+line-247,说书人,你我之间应该没什么可说的了。,I imagined we should have nothing left to talk about.,"Я думал, нам с вами больше не о чем говорить."
+line-252,阮先生,怎敢！先生大恩，我时刻铭记在心！,I'd be remiss! Your great grace will ever be engraved on my heart!,Как же так! Я вечно буду помнить вашу великую доброту!
+line-254,说书人,哼，有趣。,"Hmph, interesting.","Хм, любопытно."
+line-255,说书人,我对你有什么恩？,What grace have I done you?,Какая доброта я вам оказал?
+line-257,阮先生,先生传授我闻、触、尝的画法，我才能在这数月之中踏踏实实作画一幅。,"You imparted upon me the painting style of sound, touch and taste, for which I was finally in these months able to paint a steadfast work.","Вы научили меня писать на слух, на ощупь и на вкус — и только поэтому за эти месяцы я наконец создал одну достойную картину."
+line-258,阮先生,实不相瞒，我正打算请同好品评新作，没想到在这里遇上了先生。现在想来，先生才是该第一个品评我这画的人。,"Truth be told, I was planning to invite my fellow artists to judge my new work, but didn't expect to meet you here. Now I think of it, you should be the first to appraise my painting, sir.","Признаться, я хотел позвать ценителей оценить новую работу — и вот неожиданно встретил вас здесь. Теперь я думаю: именно вы должны были оценить её первым."
+line-260,说书人,那倒用不着。,That need not happen.,Это ни к чему.
+line-261,说书人,我更想知道，你听见了什么，触碰了什么，又尝到了什么？,"What I'd like to know is, what is it that you've heard, that you've touched, that you've tasted?","Мне скорее хочется знать, что вы слышали, что осязали и что пробовали?"
+line-263,阮先生,那天先生走后，我细细寻思，富翁嘲笑我，商人辱骂我，先生点拨我……,"After you left that day, I pondered carefully at how the wealthy man jeered at me, how the merchant berated me, how you advised me...","В тот день, когда вы ушли, я долго думал: как надо мной смеялся богач, как поносил меня купец, как вы меня вразумили..."
+line-264,阮先生,我虽然看不清，可要将听到的形貌神态落在纸上，纵然不太容易，却终究有迹可循。,"I may not see clearly, but to put the forms and expressions that I hear onto paper, though it may not be so easy, was in the end a followable path.","Я неясно вижу, но передать услышанные обличья и выражения на бумагу — хоть и непросто, всё-таки путь, по которому можно идти."
+line-266,说书人,那在你听来，我要是在你画中，该是什么样？,"Then how would I, as you hear me, appear within your painting?","А в вашей картине — какой, по вашим слухам, должен быть я?"
+line-268,阮先生,先生该是个清癯瘦高、遗世独立的中年男子，淡淡髭须，两眼炯炯有神。,"You'd be lean and tall, an aloof man of middle age, faintly bearded, eyes lively and flickering.","Вы — подтянутый, высокий, одинокий мужчина средних лет, с лёгкими усами и живыми, блестящими глазами."
+line-270,说书人,这也不算什么。你视力尚存，要看我身材轮廓，本来也不难。,This counts for little. You still hold onto some vision. To gauge my figure and silhouette would not be hard.,"Это немного стоит. У вас ещё осталось зрение, так что разглядеть мой стан и силуэт было нетрудно."
+line-272,阮先生,不过，要是闭上双眼仔细听，先生偶尔又像个面冷心热的女子……,"That said, should I shut my eyes and listen carefully, you occasionally seem too like a woman of cold face and warm heart...",Но стоит закрыть глаза и прислушаться внимательнее — порой вы словно женщина с холодным лицом и тёплым сердцем...
+line-274,说书人,咳。,Ahem.,Кх.
+line-276,阮先生,我信口胡说，先生莫怪。,I blurted that out. Don't mind it.,"Я сболтнул глупость, не сердитесь."
+line-278,说书人,不怪，不怪，反而怪有趣的。,"I don't, I don't. Or rather, I have a mind for how amusing it is.","Не сержусь, не сержусь. Скорее, даже забавно."
+line-279,说书人,那触呢？尝呢？,Then what of touch? And taste?,А осязание? Вкус?
+line-281,阮先生,触法最简单不过。我想画什么，就在手中把玩，细细摩挲感受一番。,"Touch is the simplest of all. What I want to draw, I toy with in my hands, carefully feeling all around it.","Осязание проще всего. Что хочу нарисовать, то беру в руки и подробно ощупываю."
+line-282,阮先生,实在庞大的东西，就干脆将画桌搬到旁边，边摸边想边画，也是有的。,"That which is too large, I can simply move my desk to the side, and feel, think and draw alternately.","Если же предмет огромный, я просто переношу стол рисования к нему и по очереди трогаю, думаю и рисую."
+line-283,阮先生,至于尝……说来好笑，我把墨块和颜料的味道尝了个遍。,"As for taste... it's funny to say, but I've given the flavors of ink cakes and paints a sample.","Что до вкуса... смешно сказать, но я перепробовал вкус всех палочек туши и красок."
+line-284,阮先生,仅知道单一颜料的味道尚且不够，我依以前作画时的经验调和颜料，请人对比，颜色正好相应时，就取几滴放进嘴里，把味道铭记在心。,"Knowing only a single paint's flavor isn't enough. I've mixed paints according to my previous experiences painting, had someone compare, and once the color was a perfect match, I took a few drops into my mouth, and committed the flavor to heart.","Мало знать вкус одной краски. Исходя из прежнего опыта я смешивал краски, просил сравнить их, и если цвет совпадал идеально, брал несколько капель в рот и запоминал вкус."
+line-286,说书人,你……不怕中毒？,You... do not fear poisoning yourself?,Вы... не боитесь отравиться?
+line-288,阮先生,能够重拾画笔，已经是我天大的福气。一点颜料的毒，没什么可怕的。,To pick up the brush once again is my blessing as great as Heaven. The poison of a drop of paint is little to fear.,Снова взять кисть в руки — величайшая удача в моей жизни. Яд в капле краски не страшен.
+line-290,说书人,……,......,...
+line-291,说书人,行了，知道你这样发愤，这画必定差不了。,"Enough. Knowing you've strived so greatly, the painting is bound not to fall short.","Ладно. Зная, что вы так стараетесь, картина не может выйти плохой."
+line-292,说书人,不打扰你了，你快去吧。,I'll disturb you no longer. Go.,Не буду вам мешать. Идите.
+line-307,阮先生,难道先生……一直在此处等我？,"Were you... waiting for me all this time here, sir?",Неужели вы... всё это время ждали меня здесь?
+line-309,说书人,倒也不是。,Not exactly.,Не совсем.
+line-310,说书人,我不过是在这街上散心，远远看见你回来，面色不佳，就来打个照面。,"I was simply whiling time away on this street, saw you coming from afar, face pale, and came to greet you.","Я просто гулял по этой улице, издалека увидел, что вы идёте с бледным лицом, и подошёл поздороваться."
+line-311,说书人,出什么事了？,What happened?,Что случилось?
+line-313,阮先生,我这幅画被同道指出许多不足之处……仅此而已。,My fellow artists pointed out many a shortcoming in this painting of mine... no more.,Товарищи по ремеслу указали на множество недостатков в моей картине... только и всего.
+line-315,说书人,仅此而已？,No more?,Только и всего?
+line-316,说书人,这是你眼盲之后认认真真画的第一幅画，就算有不足之处也是天经地义，怎么一下子这么萎靡不振？,This was your first earnest painting since going blind. It's only natural it should hold shortcomings. Why so downcast all of a sudden?,"Это первая картина, которую вы написали всерьёз после того, как ослепли. Естественно, в ней должны быть недостатки. Почему вы вдруг так пали духом?"
+line-318,阮先生,小事，都是……小事。,"Trifles, just... trifles.","Пустяки, просто... пустяки."
+line-319,阮先生,先生不必再替我挂怀，我……先回去了。,"You needn't concern yourself for me, sir, I'll... be going home.","Не беспокойтесь обо мне, сэр. Я... пойду домой."
+line-336,阮先生,……,......,...
+line-337,阮先生,下品。,Second-rate.,Второсортный.
+line-338,阮先生,这话说得对。,That much is right.,Это сказано верно.
+line-339,阮先生,鞭辟入里！,And incisive!,И метко!
+line-340,阮先生,下品之人，笔下当然是下品之作，哈哈，哈哈！,"Of course a second-rate man would set his brush to a second-rate work, haha, hahah!","Конечно, второсортный человек пишет второсортные картины, ха-ха, ха-ха!"
+line-341,阮先生,哈哈……哈哈哈……,Hahah... hahaha...,Ха-ха... ха-ха-ха...
+line-342,阮先生,这画究竟如何是下品，究竟下品在哪，要我这个半盲花多少年岁看出来啊？！,So why is this painting second-rate?! What part of it is? How many years do you want my half-blind self slaving to see it?!,"Почему эта картина второсортная? Чем именно она второсортная? Сколько лет мне, полуслепому, нужно убить, чтобы это разглядеть?!"
+line-343,阮先生,……算了吧。这身媚骨左右是甩不脱了。,Forget it... My bone-obsequious self's impossible to shake now.,...Брось. От этого льстивого костяка всё равно не избавиться.
+line-344,阮先生,累了，累了。曲终人散，早该是时候了。,"I'm worn, I'm tired. All good things come to an end. This was long overdue.","Устал, устал. Песня кончена, зрители разошлись — давно пора."
+line-345,阮先生,只是对不住那位先生……可我也无计可施了。,I just hate to let down that good sir... but I'm at the end of my rope.,Только жаль этого господина... но я уже ничего не могу сделать.
+line-352,,双眼浑浊的画家仰头看向头顶的房梁。,"The painter, eyes clouded, raises his head and looks to the ceiling rafters.",Художник с мутными глазами поднимает голову к балкам потолка.
+line-353,,桌旁是他数月前下定决心时购置的绢帛数匹。,By his desk are the several bolts of tough silk that he resolved to purchase months ago.,"У его стола — несколько рулонов плотного шёлка, купленных им несколько месяцев назад, когда он ещё решился."
+line-354,,画成之后，出发之前，他想象过种种场景，温暖的，冰冷的，令人汗颜的。,"After he finished painting, before setting out, he imagined scenes of all kinds. Warm ones, ice-cold ones, ones that would make one blush with shame.","Закончив картину, перед тем как отправиться в путь, он представлял самые разные сцены: тёплые, ледяные, от которых стыдно."
+line-355,,他唯独没想过，那些人看了看他的画，又看了看他，沉默良久，然后不知是谁，不冷不热地说了一句“下品”。,"The one scene he didn't imagine was that they would look at his painting, then look at him, and fall silent for a good while, before one among them—whoever it was—indifferently muttered the words 'second-rate.'","Он не представил только одного: что они посмотрят на его картину, потом на него, долго помолчат — и кто-то, словно невзначай, бросит негромко: «Второсортно»."
+line-356,,其他人似乎觉得有些过火，开始为这二字找补。然而，找补到最后，没有一个人对这两个字提出异议。,"The others seemed to feel that excessive, and began to make addendum to those two words. However, after they'd finished doing so, not one of them had actually dissented to <i>those two words.</i>","Остальные, сочтя это слишком резким, начали смягчать эти два слова. Но, наговорившись, никто так и не возразил против них."
+line-361,,现在看来，这些绢帛上已经什么都不必画了。,"And now, no longer does he see a need to paint anything on these silks.","Теперь, как видно, на этом шёлке уже нечего писать."
+line-369,,画家站起身，把一匹绢帛抛过房梁。,"The painter stands up, and throws one silk bolt to the rafters.",Художник встаёт и перекидывает один рулон шёлка через балку.
+line-374,说书人,阮先生，我还以为你多有出息，到头来，怎么还在寻死啊。,"Mr. Ruan, I'd thought you were full of prospects. What are you doing here, still, seeking death after all?","Господин Жуань, я думал, вы на что-то способны, а вы всё всё ищете смерти."
+line-379,阮先生,……先生现在登门，又是什么意思？,"Sir, what do you intend now by visiting me?","...Зачем вы пришли сейчас, сэр?"
+line-381,说书人,一幅画好与不好，难道不该是作画者本人最先评判吗？,"Whether a painting is good or bad should, first and foremost, be for its painter to appraise, shouldn't it?","Разве не сам художник должен судить, хороша его картина или нет?"
+line-383,阮先生,我知道先生是鼓励我，可现如今，这话除了取笑，我听不出别的意思。,"I know you mean to encourage me, sir, but at this time, I can't hear anything but mockery in it.","Я знаю, что вы хотите меня ободрить, но сейчас я слышу в этих словах только насмешку."
+line-385,说书人,取笑？,Mockery?,Насмешку?
+line-386,说书人,阮先生，我只问你一句话，你到底想不想看看，你自己画的这幅画究竟是什么样？,"Mr. Ruan, I merely ask you one question. Do you want to see how exactly the painting you made turned out, or not?","Господин Жуань, я спрошу только одно: хотите вы увидеть, что именно у вас получилось, или нет?"
+line-388,阮先生,我已经累了，先生请回吧。,"I'm tired. Don't let me keep you, sir.","Я устал. Прошу вас идти, сэр."
+line-390,说书人,告诉我。,Tell me.,Скажите.
+line-392,阮先生,……我怎能不想？！,How could I not want to?!,...Как же мне не хотеть?!
+line-394,说书人,那就好办了。,Then that makes things easier.,Тогда дело простое.
+line-395,说书人,只要你听我的，今晚酉时一过，明日辰时之前，你必定能心明眼亮。,"Simply listen to me, and this evening after the Hour of Yu, before tomorrow morning at the Hour of Ch'en, you will be sure to see clearly and think clearly.",Послушайтесь меня — после часа Ю сегодня вечером и до часа Чэнь завтра утром вы непременно будете видеть ясно и мыслить ясно.
+line-397,阮先生,……,......,...
+line-398,阮先生,先生好意，我感激不尽。可先生这缓兵之计能救得了我一时，救不了我一世。,"I'm endlessly thankful for your kindness, sir. But while this staving off may save me for a time, it won't save me for the rest of it.","Я бесконечно признателен за вашу доброту, сэр. Но ваша хитрость спасёт меня на время, а не на всю жизнь."
+line-399,阮先生,酉时一到，我眼前还是一片虚影，那时先生又该怎么办？,"If the Hour of Yu comes, and all I see is still an impression, what will you do then?","Пробьёт час Ю — и передо мной опять будет только смутное марево. Что вы тогда сделаете, сэр?"
+line-400,阮先生,我这双眼是胎里带来的毛病，药石针灸试了个遍，全都不起作用。先生两句话就能让人复明，世间哪有这么好的事？,"These eyes of mine ail at their core. I've tried remedies one and all, none of which were any use. And you can restore my sight with a simple utterance? Can something so fine be true?","Эти глаза мои больны от рождения, я перепробовал и лекарства, и иглоукалывание — ничего не помогло. Неужто двумя словами можно вернуть зрение? Такого на свете не бывает."
+line-402,说书人,你以为我是什么名医圣手吗？,Do you think I'm some sage doctor?,"Вы думаете, я знаменитый врач?"
+line-403,说书人,告诉你吧，要是你真想要这一夜清明，明日辰时一到，你这双眼就会彻底失去视力，不是一片虚影，而是一片漆黑。,"Let me tell you this. If you truly want to see clearly tonight, then come the Hour of Ch'en tomorrow, you will lose all sight, all of it. It won't be an impression, it will be jet-black.","Скажу вам: если вы и правда хотите этой ясности сегодня ночью — с часом Чэнь завтра вы полностью лишитесь зрения. Не марево, а чёрная тьма."
+line-406,阮先生,……此话……当真？,Is that... the solemn truth?,...Это... правда?
+line-408,说书人,真真假假，只有你自己知道。,True and false are for you and you alone to determine.,Правда или ложь — решать только вам.
+line-409,说书人,要是你愿意，就即刻上床入睡，到酉时你自然会醒。一夜光明过后，明日辰时，你就彻底与光亮无缘。,"If you're willing, you can go to bed right now, and you will naturally wake at the Hour of Yu. After the sun breaks at the end of night, at tomorrow's Hour of Ch'en, you will be cut off from light altogether.","Если согласны — ложитесь спать прямо сейчас, и к часу Ю сами проснётесь. После этой ночи света, на рассвете, в час Чэнь вы окончательно расстанетесь со светом."
+line-410,说书人,要是你不愿，只要不睡即可。枯坐家中也好，出门散心也好，反正你这双眼睛是不可能好的了。,"If you're unwilling, then simply do not sleep. Sit at home doing nothing, or go out and bide your time. Either way, your eyes will not be getting better.",Если не согласны — просто не спите. Сидите дома сложа руки или выйдите прогуляться — глаза ваши всё равно не поправятся.
+line-412,阮先生,这……这事突如其来，先生能否再详细讲讲……,"This... this is so sudden. If you could explain a little more thoroughly, sir...",Это... так неожиданно. Не могли бы вы объяснить подробнее...
+line-414,说书人,没什么可讲的。你爱睡就睡，爱醒就醒，本来也没人管得了。,"There's nothing to explain. Sleep if you like to, wake if you like to. It's not as if anyone can tell you what to do.","Объяснять нечего. Хотите — спите, хотите — бодрствуйте. Всё равно никто не может вам приказать."
+line-415,说书人,你自己想想吧。,Think it over by yourself.,Подумайте сами.
+line-422,,画家望向房梁上飘飘荡荡的那一匹白绢，又回头看了看桌上的画卷，并未有更多言语。,"The painter gazes to the white bolt of fabric fluttering in the rafters, then looks back at the scroll upon his desk, and adds no words more to the air.","Художник смотрит на белый шёлк, колышущийся на балке, потом оборачивается к свитку на столе и не добавляет ни слова."
+line-428,,他只是脱了鞋子，在榻上和衣而卧，很快就睡着了。,"He simply takes off his shoes, lies down on his couch fully clothed, and quickly falls asleep.","Он просто снимает обувь, ложится на кушетку не раздеваясь — и быстро засыпает."
+line-435,说书人,复明之后，看到自己的画，你就会明白，卑下的早已不是你，而是那群人心中的成见。,"Once you regain your eyesight, and see your painting, you'll understand that it was not you that was lowly, but the prejudice living among them.","Прозрев и увидев свою картину, вы поймёте: низким был не вы, а предрассудки в их сердцах."
+line-436,说书人,然后……好好看看吧。,After that... peruse well.,А потом... смотрите хорошенько.
+line-437,说书人,看看书，看看画，看看这夜里的景色。,"Peruse books, peruse paintings, peruse the scenery tonight.","Смотрите книги, смотрите картины, смотрите ночной пейзаж."
+line-438,说书人,就算是这么小的一方城市，要用短短的一夕光阴尽收眼底，也未免太仓促了。,"Even in a city this small, seeing it all in just a single short night is far too much of a rush.",Даже в таком крошечном городке увидеть всё за одну короткую ночь — слишком торопливо.
+line-439,说书人,一夕光阴，或许连梦，都做不完一个。,A single short night—perhaps too short to finish even a dream.,"Одна ночь — пожалуй, не хватит даже на то, чтобы досмотреть сон."
+line-441,说书人,对你，对我，都实在太仓促了。,"For you, and for me, it's just too rushed.",Для вас и для меня — слишком торопливо.
+line-442,说书人,……,......,...
+line-443,说书人,时间不早了，我一刻也不想虚掷。,"It's gotten late, and I don't want to waste a moment.","Уже поздно, и я не хочу терять ни мгновения."
+line-444,说书人,我一刻也不想虚掷，可时间……毕竟是不早了。,"I don't want to waste a moment, but it has... gotten late, after all.",Я не хочу терять ни мгновения — но время... всё-таки уже позднее.
+line-461,阮先生,这——,It's—,Это —
+line-465,阮先生,酉时，没错，现在是酉时没错！,"It's the Hour of Yu, I'm sure, right now is the Hour of Yu!","Час Ю, точно, сейчас час Ю!"
+line-470,,画家从榻上弹了起来，冲到桌前，展开自己那幅被讥嘲为下品的画卷，心急如焚地观览起来。,"The painter springs up from the couch, rushes to his desk, and opens the painting scroll ridiculed as second-rate, burning to see it and take it in.","Художник вскакивает с кушетки, бросается к столу, разворачивает свиток, который высмеяли как второсортный, и сгорает от нетерпения его рассмотреть."
+line-473,阮先生,这里线条歪斜，这里神态不正，这里用色有些艳俗——,"This line here is crooked, this expression here is oblique, this coloring here is somewhat gaudy—","Здесь линии кривы, здесь выражение неверно, здесь цвет слишком кричащий —"
+line-474,阮先生,但这些都是可以光明正大指出来的东西，他们凭什么说这幅画是“下品”？,But these are all things you could fairly point out without hesitation.Why would they call this painting 'second-rate?',"Но всё это можно было бы сказать прямо, без околичностей. Почему же они назвали картину «второсортной»?"
+line-475,阮先生,这画和我二十几岁崭露头角时的作品差不多同一水准，怎么会是下品？,This painting is about on par with the works from my auspicious twenties. How is it second-rate?,Эта картина примерно на уровне работ моей двадцатилетней поры! Как она может быть второсортной?
+line-476,阮先生,我找他们理论——,I'm going to find them and discuss—,Я пойду к ним разбираться —
+line-477,阮先生,不……,No...,Нет...
+line-478,阮先生,不！,No!,Нет!
+line-479,阮先生,我只有这一夜了……我只有这一夜了！,I only have tonight... I only have tonight!,У меня только эта ночь... только эта ночь!
+line-491,,夕阳西斜，室内晦暗不明，可在画家眼中，每一盏灯都如同太阳般明亮，每一盏灯都几乎晃得他睁不开眼。,"The sun dusks, the room dim and waning, but in the painter's eyes, every lamp shines bright as the sun, so dazzling he can barely keep his eyes open.","Солнце клонится к закату, в комнате сумрачно — но в глазах художника каждая лампа ярка, как солнце, каждая почти ослепляет."
+line-492,,他被这辉煌的金光刺得流下泪来。,"The gold, glistering light stabs to the point he drips with tears.",Он прослезился от этого сияющего золота.
+line-498,,他多想再借这光看看自己的画，看看自己珍藏的名作，看看画外的山河锦绣，贩夫走卒。,"How he would love once again in this light to take in his own paintings, and his treasured masterpieces, gaze at the beautiful scenery and the common masses beyond the edges of the canvas.","Как бы он хотел при этом свете ещё раз взглянуть на свои картины, на свои сокровища, на прекрасные пейзажи и простых людей за краями холста."
+line-499,,但他只有这一夜了。,But he only has tonight.,Но у него только эта ночь.
+line-501,,他从房梁上拽下那匹绢帛，扯出一截裱在板上，手忙脚乱地洗笔、研墨、调制颜料。,"He drags the silk bolt down off the rafters, pulls off a length and mounts it on his board, and in a frenzy cleans his brushes, grinds his ink, and mixes his paints.","Он стаскивает с балки рулон шёлка, отрывает кусок, натягивает его на планшет и лихорадочно моет кисти, растирает тушь, смешивает краски."
+line-502,,他提起细笔，还未思考要画什么，惯于勾线的手就不由自主地动了起来。,"He lifts his fine brush, and before he's even thought about what to paint, his hand so accustomed to linework involuntarily begins to move.","Он берёт тонкую кисть — и ещё не решив, что рисовать, рука, привыкшая к линиям, уже движется сама."
+line-512,,就如同有暗夜在身后穷追不舍，人就会不由自主想逃一样。,"Just as how hounded by the night that chases relentlessly, man will involuntarily desire to flee.","Как человек, которого настигает погоня тёмной ночи, невольно хочет бежать."
+line-513,,就如同有红日在身前缓缓落下，人就会不由自主想追一样。,"Just as how on seeing the madder sun that sinks gently, man will involuntarily desire to give chase.","Как человек, глядящий на красное солнце, медленно садящееся впереди, невольно хочет погнаться за ним."
+line-514,,随着线条编织出人像，他突然想起很久以前听过的荒诞不经的故事。,"Following contours and forming likenesses, he suddenly remembers an absurd story he heard long ago.","Следом за контурами, складывающимися в подобие человека, он вдруг вспоминает нелепую историю, услышанную когда-то давно."
+line-515,,夜幕降临，一个人为了追逐落日，不停地奔跑。,"As night fell, a man chased the setting sun, running without stop.","С наступлением ночи человек бежал без остановки, гоняясь за закатным солнцем."
+line-516,,他跑到汗如雨下，跑到喝干了溪流，喝干了湖泊，喝干了大河。,"He ran until his sweat rained down, until he'd drunk a stream dry, a lake dry, a great river dry.","Он бежал, пока пот не полился дождём, пока не выпил ручей, не выпил озеро, не выпил большую реку."
+line-517,,但他还是在不停地奔跑。,But he still continued to run without stop.,Но всё продолжал бежать.
+line-520,,因为他只有这一夜了。,Because he only had tonight.,Потому что у него была только эта ночь.
+line-525,,画家感到口干舌燥，顺手抓起手边的笔洗。,"The painter becomes aware of the parched sensation in his mouth, and picks up the brush-cleaning bowl by his side.",Пересохло в горле — художник хватает стоящую рядом чашу для мытья кистей.
+line-526,,里面的水混着从笔上洗下的墨，早已是一团混沌。,"The water within is mixed with the ink from the brushes, one muddy mess by now.",Вода в ней давно мутная от смытой с кистей туши.
+line-527,,他对着黑色的水凝视片刻，将其一饮而尽，然后什么也不再想。,"He stares at this black water for a moment, then drinks it dry in one gulp, and after that thinks about nothing else.","Он смотрит на чёрную воду, залпом выпивает её — и больше ни о чём не думает."
+line-528,,他只有这一夜了。,He only has tonight.,У него только эта ночь.
+line-538,,东方既白。,The east is bright.,На востоке светает.
+line-539,,如果画家有心，他一定能注意到，说书人的身影一直藏在阴影中，怔怔地注视着他，连大气都不敢出，整整看了一夜。,"If the painter so cared, he would surely notice the storyteller's figure hidden in the shadows all along, gazing at him blankly, daring not even to breathe loudly, having watched the entire night.","Если бы художник захотел, он непременно заметил бы, что фигура сказителя всё это время пряталась в тени, заворожённо глядя на него, не осмеливаясь даже громко вздохнуть, — и смотрела всю ночь."
+line-540,,但他早已无心顾及。,But he long since had no mind to care.,Но ему уже было не до этого.
+line-542,阮先生,我……画完了。,I've... finished.,Я... закончил.
+line-543,阮先生,我画了……,I've painted...,Я написал...
+line-549,,三矾九染过的绢上，画中的阮先生斜倚桌边，遥望窗外。,"Upon the fabric meticulously ink-washed and detailed again and again, there in the painting is Mr. Ruan reclining by his desk, gazing out of the window and to far away.","На шёлке, много раз обработанном и прорисованном, господин Жуань из картины полулежит у стола и смотрит в окно, вдаль."
+line-550,,那里有什么？,What lies there?,Что там?
+line-551,,看着画中阮先生的眼睛，画外的阮先生知道，那里有他从出生到此刻全部的光明。,"Looking at the eyes of the Mr. Ruan within the painting, the Mr. Ruan outside knows. There is every light he has ever seen, from his birth to this very moment.","Глядя в глаза господина Жуаня на картине, господин Жуань вне картины знает: там — весь свет, что он видел от рождения до этого мига."
+line-556,阮先生,……,......,...
+line-557,,他小心翼翼地拿起画好的画，凭借着对屋中陈设的熟悉，迈开一步——,"He carefully picks up the completed painting, and relying on his familiarity with the arrangement of his room, ventures forth a step—","Он осторожно берёт готовую картину и, полагаясь на знание обстановки в комнате, делает шаг —"
+line-561,说书人,小心撞翻东西。,Careful not to knock anything over.,"Осторожно, не опрокинь ничего."
+line-562,阮先生,先生？！,Sir?!,Сэр?!
+line-563,说书人,我去帮你把画裱好。,I'll go and hang the painting for you.,Я пойду и помогу вам повесить картину.
+line-580,阮先生,我那朋友就住这里，先生送我到这儿就可以了。,"That friend of mine lives right here. You don't need to take me any further now, sir.","Мой друг живёт здесь — дальше провожать не надо, сэр."
+line-582,说书人,你确定他可靠？,You're sure you can rely on him?,"Вы уверены, что на него можно положиться?"
+line-584,阮先生,如果连他也不可靠……我在这城中，也就没有可以信赖的人了。,If even he can't be depended on... then there's no one in this entire city I can trust anymore.,Если и на него нельзя положиться... то в этом городе мне больше некому доверять.
+line-586,说书人,阮先生，你这一作已经可说是形神兼备，登峰造极，真的还要他人首肯，你才心满意足吗？,"Mr. Ruan, this work of yours can be said to have both body and soul, to be a pinnacle of an achievement. Will you only be content if there are truly others to nod their approval?","Господин Жуань, эта ваша работа — с телом и душой, вершина мастерства. Неужто вы будете довольны, только если кто-то ещё кивнёт в одобрение?"
+line-588,阮先生,（轻笑声）,(Chuckle),(смеётся)
+line-589,阮先生,我终究，还是扯不脱这一身媚骨啊。,"In the end, I just can't get away from my bone-obsequious self.",Я так и не смог избавиться от этого льстивого костяка.
+line-591,说书人,（小声）事到如今……媚骨？,(Mutter) Even now... bone-obsequious?,(тихо) И сейчас... льстивый костяк?
+line-601,男声,阮先生，你怎么回事——,"Mr. Ruan, what's wrong with—","Господин Жуань, что с вами —"
+line-602,男声,快来人，有人吐血晕倒了！,Help! Someone's thrown up blood and fainted!,Люди! Кто-нибудь! Он накашлялся крови и упал в обморок!
+line-603,女声,阿七，快去医馆找个大夫来！,"Ah Qi, run to the clinic and fetch a doctor!","А-Ци, беги в аптеку за врачом!"
+line-604,女声,你对他做什么了？他怎么会这样？,What did you do to him? What happened to him?,Что вы с ним сделали? Что с ним случилось?
+line-605,男声,我真的没做什么，我只是说了几句话而已！,I didn't do anything! All I did was say a few words!,Я и пальцем его не тронул! Я только сказал несколько слов!
+line-606,女声,你说什么了？,What did you say?,Что вы сказали?
+line-607,男声,他的人品不堪，他的画就算再像真的，也谈不上高明，更何况还是自画像，与自吹自擂没什么区别……,"His character was unbearable, and no matter how realistic his painting was, it would never be brilliant, not to mention the fact it was a self-portrait, which practically screamed him blowing his own horn...","Что характер у него невыносимый, и даже самая правдивая картина не делает его мастером — не говоря уже о том, что это автопортрет, сплошное самовосхваление..."
+line-608,男声,我刚刚请本城画坛德高望重的张先生过来，他走之前也悄悄对我这么说。,"I'd just invited Mr. Zhang from the city's painting circles over, and that's what he quietly told me before he left.","Я только что позвал сюда почтенного господина Чжана из городских художественных кругов — так вот, он мне шепотом сказал то же самое, прежде чем уйти."
+line-609,女声,张先生还知道悄悄，你就直接对他说了？！,"Well, at least Mr. Zhang knew to be quiet! And you said all that straight to him?!",Господин Чжан хотя бы шепотом! А вы прямо в лицо ему?!
+line-610,男声,不是！这话我只是心里想想，怎么可能直接对他说！我只是说，他这幅画是……,"No! I was just thinking about it—how could I tell him any of that?! I only said, his painting was...","Да нет же! Я только подумал, как мог я ему это сказать! Я только сказал, что его картина —..."
+line-611,男声,下中之……上上者。,The very top of the... bottom end.,лучшая из низкой середины.
+line-613,说书人,……下中之上上者？,The very top of the bottom end?,...Лучшая из низкой середины?
+line-616,说书人,好，好，好一个下中之上上者！,"Oh, okay, great, fine, the very very top of the bottom!","Ну, хорошо, хорошо, хороша же «лучшая из низкой середины»!"
+line-618,说书人,这座城，不待也罢了。,Not like anyone even needs to care about this stupid city.,Не стоит и оставаться в этом городе.
+line-634,夕,……我笔下怎会有如此阴鸷之物？,How can a being from my brush be so malicious?,...Как может существо из моей кисти быть столь злым?
+line-637,无名的墨魉,……,......,...
+line-639,夕,算了，我看你不是阴鸷，只是比阿咬他们想得多些，睡不好觉，这才一副瘆人的模样吧。,"Forget it. You're not really malicious, you just have more on your mind than the Biteys. The real scary sight is someone who hasn't slept properly.","Ладно. Ты не злой — просто думаешь больше, чем А-Яо и остальные, плохо спишь — вот и выглядишь жутко."
+line-642,无名的墨魉,……,......,...
+line-644,夕,就叫你“妒”好了。,I'll just call you 'Envy.',Назовём тебя «Зависть».
+line-645,夕,去吧！,Now go!,Иди!
+line-648,,新得了名字的墨魉摇摇身躯，转身往后走去。,"The newly named Ink Spirit wriggles its body, turns around and heads over to the back.","Новоименованный чернильный дух поколебался, повернулся и ушёл вглубь."
+line-649,,原本在那里扎堆的阿咬和小躁们仿佛十分畏惧似的，一溜烟地散了。,"The Biteys and Angrys huddled there appear duly fearful, and scatter in a snap like smoke.","А-Яо и злюки, сгрудившиеся там, явно испугались и разбежались в мгновение ока."
+line-654,夕,脚步声？,Footsteps?,Шаги?
+line-656,夕,（小声）这老家伙，脚程未免太快了吧……,(Mutter) The old bastard's in way too much of a hurry...,(тихо) Этот старик слишком быстро ходит...
+line-657,夕,（小声）我不过是在自己的画里再添两笔，这也要管吗？,(Mutter) I was just adding a few more strokes inside my own painting. Is anything ever <i>not</i> of interest to...?,(тихо) Я всего лишь добавила пару мазков в свою картину — и это тоже нельзя?
+line-662,来客,先生？,Sir?,Сэр?
+line-667,夕,不对，你不是那老家伙——,"No, wait, you're not the old bastard—","Нет, ты не этот старик —"
+line-669,夕,你是……阮先生？,You're... Mr. Ruan?,Ты... господин Жуань?
+line-670,夕,二十余年过去，你还活着？,It's been over twenty years. You're still alive?,"Прошло больше двадцати лет, а ты всё жив?"
+line-672,来客,托先生的福，姑且算是活着。,"Much thanks to your blessing, I'm technically still alive for now.","По милости сэра, я пока что жив."
+line-683,夕,你且请坐。,Take a seat.,Садись.
+line-685,来客,还是免了。,I'll be fine.,"Нет, спасибо."
+line-686,来客,山石冰冷，寒气森森，我这一把老骨头，经不起折腾喽。,"The mountain rock's ice-cold, and the air's frigid and thick. These old bones of mine won't hold up to much flailing.","Камень холодный, сырость пробирает — старым костям моим не выдержать."
+line-688,夕,山石？,Mountain rock?,Камень?
+line-690,夕,（小声）对了，他已经全盲，当然看不到……,"(Mutter) Right, he's totally blind. Of course he couldn't see it...","(тихо) Ах да, он же совсем слепой — конечно, не видит..."
+line-691,夕,（小声）那他……到底是怎么进入我画中的？,(Mutter) So how exactly... did he get inside my painting?,(тихо) Тогда как... как он вообще попал в мою картину?
+line-693,来客,话中？,Am I interrupting?,Я прервал?
+line-694,来客,难道先生说了什么要紧事，我听漏了？,Were you talking about something important? Did I eavesdrop?,Вы говорили о чём-то важном? Я невольно подслушал?
+line-696,夕,没有，没有。,"No, no.","Нет, нет."
+line-697,夕,我只是好奇，这二十多年，你究竟是怎么过来的？,"I'm just curious. How have you pulled through, over these past twenty years?",Мне просто любопытно: как ты эти двадцать с лишним лет выживал?
+line-699,来客,说来也挺可笑。,"It's a funny story, come to mention.",Смешно и сказать.
+line-700,来客,那日我在医馆醒来之后，医生说，我这一条命几乎去了半条，以后务必静养神思，绝不可再动肝火。,"That day, after I woke up in hospital, the doctor said I'd practically ended up half-dead, and that I absolutely needed to recover my presence of mind, and was never to get angry again.","В тот день, когда я очнулся в аптеке, врач сказал, что я наполовину мёртв и что отныне мне нужно беречь душевное спокойствие и ни в коем случае не гневаться."
+line-701,来客,我自己也觉得心灰意冷，弃了名号，放下画笔，将家产尽数变卖，还了那笔钱，离了城市。,"I felt disheartened myself, anyway. I abandoned my fame, gave up on painting, sold off all my property, refunded that one sum of money, and left the city.","Я и сам пал духом: отказался от имени, бросил кисть, продал всё имущество, вернул тот долг и ушёл из города."
+line-702,来客,就连那幅呕心沥血的画，我都以低价出给了别人。,"Even that painting I'd spilled my blood, sweat and tears over, I sold at the lowest price to someone else.","Даже ту картину, над которой я так корпел, я отдал за гроши."
+line-703,来客,当时我心里想，倒在哪里，哪里就是我的埋骨之所了。,"In my heart at the time, I thought, wherever I ended up, that'd be where my bones would lie.","Я думал тогда: где упаду, там и кости мои лягут."
+line-705,夕,……这么说来，我当年倒不该多管闲事，还是放着你不管对你好些。,"In that regard, I shouldn't have interfered so much back then. You would've been better off if I left you alone.","...Значит, в тот раз мне не стоило вмешиваться. Тебе было бы лучше, если бы я оставил тебя в покое."
+line-707,来客,先生不必心生歉意。,"You needn't feel apologetic, sir.","Вам не нужно извиняться, сэр."
+line-709,夕,我什么时候向你道歉了？,When did I apologize to you again?,Когда я вам извинялся-то?
+line-711,来客,先生想要掩饰，可当年传授我的听闻之法，我这些年从来没生疏过。,"You try to cover it, but the art of listening you imparted on me back then, I've never once let slip in the years since.","Вы хотите это скрыть, но способ слушать, которому вы меня научили тогда, я за эти годы не утратил ни на йоту."
+line-713,夕,咳、咳。,*cough* Ahem.,Кх-кх. Хм.
+line-715,来客,在那之后，盘缠很快用光，可我还没到入土的时候，说不得，只好又拿起画笔。,"After I left, I quickly ran out of travel funds, but I wasn't six feet under quite yet. It pains me to say, but I had to take up the brush once again.","После этого деньги быстро кончились, а до могилы я ещё не дошёл — что поделать, пришлось снова взять кисть."
+line-716,来客,只是这次不再刻意找什么达官贵人，只要带着纸笔坐在街头，自然有人愿意来找你写生画像。,"Only, this time I don't seek out any noble or the like anymore. As long as I sit in the street with my canvas and brush, people will naturally come to me for still life portraits.",Только на этот раз я уже не ищу знатных господ: стоит сесть на улице с бумагой и кистью — и люди сами приходят за портретом.
+line-718,夕,依旧是“盲人作画”？,And you're still the 'blind painter?',Всё тот же трюк — «слепой художник»?
+line-720,来客,哈哈，这次作画的是真盲人，只不过来求画的未必看得出罢了。,"Haha. The painter may truly be blind now, but those requesting paintings may not necessarily see it, that's all.",Ха-ха. Теперь художник и вправду слеп — просто просящие картину не всегда могут это заметить.
+line-722,夕,你不告诉他们？,You don't tell them?,Ты им не говоришь?
+line-724,来客,画出的东西能得意就是了，画家盲不盲，又有什么关系呢。,"If they're satisfied with what I paint, that's good enough. What does it matter if the painter's blind or not, really.","Если им нравится то, что я пишу, этого довольно. Слеп художник или нет — какая разница?"
+line-725,来客,常有人觉得我画得好，想让我给自家庭院之类的死物也画一幅，那时我就只能将眼盲的事和盘托出，吓他们一下了。,"People often think I paint well, and want me to draw something dead and lifeless like their courtyard, and all I can do is confess my blindness at that point, and give them a fright.","Часто хвалят мою работу и просят нарисовать что-нибудь мёртвое — например, их сад. Тут мне приходится честно признаться в слепоте и их напугать."
+line-727,夕,……,......,...
+line-728,夕,在我听来，你依旧因他们的称赞而沾沾自喜？,So it sounds to me like their praise still inflates you with pride?,"Судя по твоим словам, похвала всё ещё тешит твоё тщеславие?"
+line-730,来客,……先生问了我这么多问题，以刚刚这一问最佳。,"You've asked me so many questions, sir, but that one is the best.","...Из всех вопросов, что вы мне задали, сэр, этот — лучший."
+line-735,,山风吹过，室内的陈设簌簌作响。,"The mountain winds blow through, a light rustling from the room's furnishings in response.","Горный ветер проносится через комнату, и предметы в ней тихо шуршат."
+line-740,来客,先生记得“媚骨”二字吗？,"Do you remember that funny term, 'bone-obsequious?'","Помните вы слово «льстивый костяк», сэр?"
+line-742,夕,……一直没忘。,I'll never forget it.,...Никогда не забуду.
+line-744,来客,我当年百般恳求别人的承认，仿佛没了他们点头自己就活不下去，媚人之心浸到了骨子里，这“媚骨”二字，一语中的，让我寝食难安。,"I sought others' recognition by every means I could back then, as if I wouldn't survive without the nod from them. My mind to flatter seeped into my bones. They nailed me with those two very words, 'bone-obsequious.' It left me tossing and turning at night.","В те годы я добивался чужого признания всеми способами — будто без чужого кивка я не смогу жить. Желание угождать пропитало мне кости, и эти два слова — «льстивый костяк» — попали прямо в цель. Я не мог ни спать, ни есть."
+line-745,来客,可后来，我离开了家，离了那片狭窄的天地，才发现，何止是我自己啊，世人要么媚人，要么为人所媚。,"But only afterwards, once I'd left home, and that narrow little patch of world, did I find that it was far from just me. Everyone's either looking to please or be pleased.","А потом я ушёл из дома, из этого тесного мирка — и понял, что не один я такой: люди либо угождают другим, либо им угождают."
+line-746,来客,真正能对一切都不假辞色的人，也许有，我不认识。,Is there truly anyone who'll take it all in stride? Maybe. But I haven't met them.,"Есть ли на свете тот, кто принимает всё как есть? Может, и есть — я не встречал."
+line-747,来客,人生一世，幼少时对双亲言听计从，青年时对爱人曲意逢迎，壮年时难免取悦流俗，到老了，说不定还要反过来对自己的儿女低声下气。,"Your life starts in infancy following everything your parents say, then comes youth and bowing down to your sweetheart, then you're swept up in the prime of your life trying to cater yourself to the current style, and once you're old, you might well still be going gentle as you can on your children.","Жизнь человека: в детстве во всём слушаешься родителей, в юности заискиваешь перед любимым, в зрелости невольно угождаешь толпе, а под старость, глядишь, уже сам спускаешься до своих детей."
+line-748,来客,千媚万媚，不过是为了牵挂之人的承认，而牵挂之人的承认，又不过是为了自己心安。,"We please and please and please, but we only do it so those we worry about give us their recognition, and that recognition's only for our own self-comfort.","Угождаешь, угождаешь, угождаешь — и всё ради признания тех, о ком ты беспокоишься, а их признание — ради собственного спокойствия."
+line-749,来客,我如今无牵无挂，被人夸奖，我也沾沾自喜，被人斥骂，我也汗颜无地。,"I've not a care now. When I'm flattered, yes, I'm tickled pink. When I'm berated, yes, I'm the most ashamed in the land.","Сейчас у меня нет никого, кто меня тревожит: хвалят — я радуюсь, ругают — мне стыдно."
+line-750,来客,可一觉过后，我心自安，他人言语，不过是过眼云烟而已。,"But after a nap, I feel easy again, and what others say crosses my eyes and vanishes like smoke.","Но поспишь — и на душе снова легко, а чужие слова проносятся перед глазами дымом."
+line-751,来客,事到如今，这一身媚骨，媚的不过是我自己这颗心罢了。,"At this point, only my heart's left carrying on my old bone-obsequious self. Just the heart.",Так что теперь этот льстивый костяк тревожит только моё собственное сердце.
+line-753,夕,……,......,...
+line-755,夕,听君此言，当浮一大白。,A great swig of wine should've followed hearing your piece.,После такой речи хочется выпить большущую чашу вина.
+line-756,夕,只有这种时候，我才会可惜我那位姐姐不在身边。,Only at these times do I think it's a shame that sister of mine isn't here.,"Только в такие минуты я жалею, что моей сестры нет рядом."
+line-763,夕,听了你的警语，我也没什么可送你的。,I have nothing to give in return after hearing your cautionary tale.,"Выслушав твою притчу, мне нечего тебе предложить."
+line-764,夕,我带你出去吧。,Let me show you out.,Я провожу тебя.
+line-766,来客,不忙，不忙。,"No rush, no rush.","Не спеши, не спеши."
+line-767,来客,再说，明明是先生有恩于我，我怎么好意思还受先生的馈赠呢。,"Besides, you did me that kindness after all, sir. How could I have the nerve to be taking a present from you?","К тому же именно ты оказала мне милость, сэр — как я могу ещё и принять от тебя подарок?"
+line-772,阿咬,……,......,...
+line-777,来客,先生身边，似乎有些响动。,There seems to be some sound coming from your side.,"Кажется, от вас исходит какой-то звук, сэр."
+line-778,来客,像是风吹画卷，又像活物动静，又有些像先生心声。,"It's like the wind blowing a painting scroll, yet like an animal's movements, yet with some of your own feelings too.","Будто ветер шевелит свиток, будто движется живое существо — и ещё будто это ваши собственные чувства."
+line-779,来客,先生当年的大恩，我无论如何也报不完。干脆让我给此物画像一幅，送给先生，先生觉得怎么样？,"I couldn't repay you for your great grace back then, no matter how. Let me at least draw a portrait of this being, and gift it to you? How would you feel about that, sir?","Я никак не могу отблагодарить вас за ту доброту, сэр. Позвольте мне нарисовать портрет этого существа и подарить его вам. Что скажете?"
+line-781,夕,……请。,Go ahead.,...Пожалуй.
+line-784,,画家寥寥数笔，既非工笔，又非写意。,"The painter makes a few scarce strokes, the technique neither the meticulous, nor the freehand kind.","Художник делает несколько скупых мазков — ни тщательная техника, ни свободная манера."
+line-786,来客,我这画如何？,How's my painting?,Какова моя картина?
+line-788,夕,像，像极了。,Alike. Extremely alike.,Похожа. Очень похожа.
+line-790,来客,哈哈，那就好，那就好！,"Haha! Good, that's good!","Ха-ха, вот и хорошо, вот и хорошо!"
+line-791,来客,不劳烦先生远送，我这就启程了。,"You don't need to see me off too far, I'll be on my way now.","Не утруждайтесь провожать, я уже отправлюсь."
+line-796,夕,还有几个人能像他这样在我的画中来去自由？他……甚至什么都看不见啊。,How many remain out there who can enter and leave my paintings as freely as him? He... couldn't even see anything.,Сколько ещё людей на свете способны так свободно входить в мои картины и выходить из них? А он... ведь ничего не видит.
+line-797,夕,……,......,...
+line-799,夕,只要世间还有这等人物，谁又愿意睡，谁又愿意醒呢？,"So long as the realm still holds characters like him, who'd want to sleep, and who'd want to wake up?","Пока на свете есть такие люди, кто захочет спать и кто захочет проснуться?"
+line-801,夕,本想这几天找个好日子睡一觉的，现在看来……,"I was thinking I'd choose a good day out of the next few to get some proper sleep, but now...",Я думала выбрать для сна один из ближайших дней — но теперь...
+line-803,夕,……嗯？,...Hm?,...Мм?
+line-806,,桌上，刚刚被画家挥毫泼墨的纸，重新变得一片洁白，而夕身边的阿咬，不知何时变成了两只。,"Upon her desk, the painter's parchment, brushed with rough ink a moment before, becomes spotless white again, and the Bitey by Dusk's side has become two of them without her realizing.","На столе бумага, только что исписанная художником, снова абсолютно чистая, а А-Яо возле Даск к тому времени, как она заметила, стал двумя."
+line-811,阿咬&阿咬？,（相互歪了歪头）,(Tilting their heads at each other),(склоняют головы друг к другу)
+line-815,,两只一模一样的阿咬对视了一会儿，似乎是确认了对方的同类身份，肩并着肩，欢欢喜喜地走远了。,"The two identical Biteys stare each other down for a moment, seemingly confirming the other is the same as them, and then shoulder to shoulder, they happily wander off.","Две одинаковые А-Яо какое-то время смотрят друг на друга, словно убедившись, что перед ней такая же, как она, а потом идут рядом, плечом к плечу, весёлые и довольные."

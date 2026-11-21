@@ -1,0 +1,354 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_vrdant_1_1,小草的呼喊
+,,,,
+char-1,维荻,维荻,Verdant,Вердант
+char-2,园艺店老板,园艺店老板,Florist,Цветочник
+char-3,慌乱的打手,慌乱的打手,Flustered Mobber,Растерянный головорез
+char-4,镇静的打手,镇静的打手,Composed Mobber,Спокойный головорез
+char-5,慌乱的打手&镇静的打手,慌乱的打手&镇静的打手,Flustered Mobber & Composed Mobber,Растерянный и спокойный головорезы
+char-6,农夫,农夫,Farmer,Фермер
+char-7,？？？,？？？,???,???
+char-8,一脸惊喜的男子,一脸惊喜的男子,Surprised Man,Приятно удивлённый мужчина
+char-9,图克,图克,Tucker,Такер
+char-10,惊喜的打手,惊喜的打手,Delighted Mobber,Обрадованный головорез
+,,,,
+line-12,维荻,……,...,...
+line-23,园艺店老板,小伙子，有什么需要的就直接说吧。,"Hey, lad. Whatever you need, just spill it.","Парень, если что-то нужно — говори прямо."
+line-24,园艺店老板,你一直阴着脸站在店门前，客人都不敢来了，我生意不好做啊。,You're scaring all my customers away with your grim face. I can't do business like this.,Ты стоишь у входа с хмурым лицом — покупатели не заходят. Мне из-за этого тяжело торговать.
+line-26,维荻,我……,I...,Я...
+line-28,园艺店老板,嗯？,Yeah?,Мм?
+line-29,园艺店老板,需要我给你介绍介绍这些新上的鲜花吗？,"Lad, how about I show you the flowers that have just arrived?","Хочешь, я расскажу тебе об этих свежих цветах?"
+line-30,园艺店老板,说说看，你是想送给妈妈，还是想送给女同学？,Are you getting flowers for your mum or your crush at school?,"Давай, ты хочешь подарить их маме или какой-нибудь девушке из школы?"
+line-32,维荻,不……不是的。,N... Neither.,Нет... не то.
+line-34,维荻,我看到您贴了招聘启事。,I saw your recruitment poster.,Я увидел ваше объявление о найме.
+line-36,园艺店老板,你是来应聘店员的？,Do you wish to work here?,Ты хочешь работать у меня в магазине?
+line-38,维荻,如果您需要的话……,If you need help...,Если вам нужен работник...
+line-40,园艺店老板,你是感染者吧？,You're an Infected?,Ты инфицированный?
+line-42,维荻,……,...,...
+line-44,园艺店老板,很抱歉，我没法聘用你。,"I'm sorry, but I can't hire you.","Прости, но я не могу тебя нанять."
+line-46,维荻,……没关系。拒绝我的，并不是只有您一个。,...It's fine. You're not the only one who's turned me away.,"...Ничего. Вы не первый, кто мне отказал."
+line-47,维荻,打扰了。,I'm sorry for taking up your time.,Простите за беспокойство.
+line-49,园艺店老板,哎，等一下。,"Hey, hold on a sec.","Эй, подожди."
+line-50,园艺店老板,你为什么想做这份工作？,Why do you want this job?,Почему ты хочешь эту работу?
+line-52,维荻,……我喜欢植物。,...I like plants.,...Я люблю растения.
+line-54,园艺店老板,不错的理由。,That's a decent reason.,Неплохая причина.
+line-55,园艺店老板,我也喜欢植物，因为它们懂得如何扬长避短。,I like plants too because they know how to play to their strengths.,Я тоже люблю растения — они умеют скрывать свои слабые стороны и показывать сильные.
+line-56,园艺店老板,虽然它们不会说话、不能行动，却会用娇艳的花朵与沁人的香气来讨人喜欢。,"They can neither talk nor move, but their appeal lies in their colorful flowers and pleasant scents.","Они не могут говорить и двигаться, но зато привлекают яркими цветами и пьянящим ароматом."
+line-58,维荻,可是……,But...,Но...
+line-59,维荻,很多植物并不会开花，也没有香味……,Many plants don't flower and have no scent...,Многие растения не цветут и не пахнут...
+line-61,维荻,即便如此，它们也值得人们去喜爱吧？,"They deserve our love too, right?","И всё равно они заслуживают любви, не так ли?"
+line-63,园艺店老板,……,...,...
+line-64,园艺店老板,很有意思，哼。,"You're interesting, lad. Hmm.",Интересно. Хм.
+line-65,园艺店老板,我倒是想起一个差事，或许很适合你。,I do have a job in mind that might be suitable for you.,"Тогда я вспомнил одно дело. Может, оно тебе подойдёт."
+line-66,园艺店老板,不必和太多人打交道，只需要和花草树木混在一起。不过，得经常去一些危险的地方就是了。,"Won't be too much human contact, just need to get your hands dirty working with flowers and plants. And it requires you to go dangerous places on the regular.","Не придётся много общаться с людьми — можно возиться с цветами и деревьями. Правда, придётся часто бывать в опасных местах."
+line-67,园艺店老板,我认识一个供货商，他在招募植物猎人——简单来说，就是找人帮他去搜集珍奇植物。,"I know this supplier who's on the hunt for plant hunters. Simply put, he needs someone to help him collect rare plants.","Я знаю одного поставщика — он набирает охотников за растениями. Проще говоря, ему нужны люди, которые будут собирать для него редкие растения."
+line-68,园艺店老板,你要不要去试试看？,Wanna give it a shot?,Хочешь попробовать?
+line-87,慌乱的打手,唔哦哦哦——,Whoaagh—,Ого-го-го—
+line-89,镇静的打手,这、这是……,I-Is this a...,Э-это...
+line-92,慌乱的打手&镇静的打手,绳网陷阱？！,Trap?!,Сетевой капкан?!
+line-101,维荻,你们是什么人？,Who are you lot?,Кто вы такие?
+line-106,慌乱的打手,我、我们？我……,"What, us? Whuhh...",Мы... мы? Я...
+line-108,镇静的打手,……我们是游客。,...We're tourists.,...Мы туристы.
+line-110,慌乱的打手,对，我们是游客！,"Yeah, that, we're tourists!","Да, мы туристы!"
+line-111,慌乱的打手,我们听人说，这座荒废庄园的风景很好，所以才想来转转！,"We heard that this old abandoned manor had some smashing scenery, so we came by for a stroll!","Мы слышали, что у этого заброшенного поместья красивые виды, и решили прогуляться!"
+line-115,维荻,真的？,For real?,Правда?
+line-120,镇静的打手,真的……,For real...,Правда...
+line-121,镇静的打手,是不是有什么东西在碰我，好凉……,Something cold is touching me...,Что-то меня трогает... холодное...
+line-123,慌乱的打手,我也感觉到了……这是……,I feel it too... What is this...,Я тоже чувствую... Это...
+line-125,慌乱的打手,藤蔓？！怎么会动啊！,Vines?! Why are they moving?,Лозы?! Как они двигаются?!
+line-129,维荻,最近不止一拨人盯上了这个庄园，你们最好如实告诉我，你们是来这里做什么的。,Many have set their sights on this manor lately. You'd better come clean and tell me why you're here.,В последнее время не одна группа присматривается к этому поместью. Лучше скажи мне правду: зачем вы здесь?
+line-130,维荻,不然你们也会像之前那些人一样，成为这些食人植物的养料。,Or I'll feed you to these carnivorous plants like those who came before you.,"Иначе вы станете удобрением для этих плотоядных растений, как те, кто был до вас."
+line-132,镇静的打手,你是谁……,And who are you...,А ты кто такой...
+line-134,维荻,我是谁？,You're asking me?,Я кто?
+line-139,慌乱的打手,别和他废话了！告诉他吧！这该死的藤蔓好像缠住了我的脖子！,Stop wasting your breath with him! Just tell him the truth! I can't stand these bloody vines around my neck!,"Не болтай с ним! Говори! Эти чёртовы лозы, кажется, обмотались вокруг моей шеи!"
+line-141,镇静的打手,……我们是来找“褐刺花”的。,...We're here looking for thornblooms.,...Мы ищем «терноцвет».
+line-145,维荻,哦？“褐刺花”。,"Oh? Thornbloom, is it.",О? Терноцвет.
+line-146,维荻,这庄园里连一个花骨朵都找不见，怎么会有什么“褐刺花”。,"There's not even a single bud here in this manor, let alone thornblooms.",В этом поместье не найти ни одного бутона. Откуда тут взяться какому-то «терноцвет»?
+line-148,慌乱的打手,这里真的有！就在那座雕像底下，千真万确！,It's right there under that sculpture! I swear on my granny's life!,"Он здесь и есть! Прямо под той статуей, клянусь!"
+line-149,慌乱的打手,“褐刺花”不是花，是那种植物的根！只要把它的根挖出来，你就知道为什么大家叫它“褐刺花”了！,Thornbloom is the root of the plant! Just dig it up and you'll see how it got its name.,"Терноцвет — это не цветок, а корень этого растения! Выкопай его, и ты поймёшь, почему его так называют!"
+line-151,维荻,原来就是那些杂草……,Turns out it was those weeds...,Так вот это те самые сорняки...
+line-158,慌乱的打手,……,...,...
+line-159,慌乱的打手,他是不是去找“褐刺花”了？难道他也是植物猎人……,Is he off looking for thornblooms? Could he be a plant hunter too...,Он пошёл искать терноцвет? Неужели он тоже охотник за растениями...
+line-161,镇静的打手,*维多利亚粗口*，这藤蔓一扯就断开了，根本勒不死人。,"You sodding idiot, look how soft these vines are. They can't choke you.",*викторианское ругательство* Эти лозы рвутся как нитки. Они никого не задушат.
+line-163,慌乱的打手,……他吓唬我？！,...Did he bluff me?!,...Он меня напугал?!
+line-173,维荻,“褐刺花”……,Thornbloom...,Терноцвет...
+line-174,维荻,这种植物的根，真像一朵褐色的带刺的花啊。,The roots do look like a flower. Thorny and henna-colored.,Корень этого растения и правда похож на бурый цветок с колючками.
+line-176,维荻,雇主说最近它的价格在黑市上炒得火热……因为有很高的药用价值。,"According to my boss, its price's gone through the roof in the black market... thanks to its very high medicinal value.","Наниматель говорит, что последнее время цена на него на чёрном рынке взлетела... из-за высоких целебных свойств."
+line-177,维荻,它不会开花，也没有香味。就因为它的根能治病，人们便需要它。,"It doesn't flower and has no scent, but its roots can cure sickness, so people need it.","Он не цветёт и не пахнет. Но раз его корень лечит, люди и нуждаются в нём."
+line-178,维荻,甚至还用“花”来命名一种不会开花的植物……,They even give it a flower name when it doesn't flower.,"Они даже назвали «цветком» растение, которое никогда не цветёт..."
+line-180,维荻,哎——,Ugh—,Эх—
+line-185,,维荻正要捡起掉落在田地上的“褐刺花”，却注意到一旁有一株孑然生长的小草。,"Just as Verdant bends down to pick the thornbloom, he notices a solitary tuft of grass growing beside it.","Вердант уже хотел поднять упавший на поле терноцвет, как вдруг заметил рядом одиноко растущую травинку."
+line-186,,它很普通。但在这片麦田里，它又显得那么格格不入。,"It's nothing remarkable, but here in this wheat field, it sticks out like a sore thumb.",Она самая обычная. Но среди этого пшеничного поля выглядит совершенно не к месту.
+line-191,,风吹来，那些未成熟的麦子识相地向一边倒去。,"When the wind blows, the unripe wheat plants all bend to one side.","Подул ветер, и недозревшая пшеница послушно склонилась в одну сторону."
+line-192,,这一瞬，小草终于让太阳看见了它。,"At that instant, the tuft of grass finally reveals itself to the sun.",В этот миг травинка наконец показалась солнцу.
+line-193,维荻,这个是……,What have we here...,Это...
+line-194,,维荻看见了小草，也注意到了捡起那株名贵的“褐刺花”的自己的那只手。,Verdant sees the grass and notices his hand that has reached for the valuable thornbloom.,"Вердант увидел травинку — и заметил свою руку, тянущуюся к драгоценному терноцвету."
+line-195,,要不是有风吹来，他可能根本不会注意到那株小草。,"If it weren't for the gust of wind, he probably never would've found this tuft of grass.","Если бы не подул ветер, он бы никогда её не заметил."
+line-196,,他忽然感到有些莫名的惭愧。,"All of a sudden, he feels somewhat ashamed.",Вдруг ему стало неловко — сам не знаю почему.
+line-202,农夫,喂，小鬼。,"Hey, kid.","Эй, малыш."
+line-203,农夫,你是哪个村来的？,Which village are you from?,Из какой ты деревни?
+line-211,维荻,（警觉）什么事？,(Wary) What's your business?,(Настороженно) Что вам нужно?
+line-213,农夫,什么事……你鬼鬼祟祟地蹲在我的地里，反倒来问我什么事。,What's your business? You have the face to ask that when you're wandering about my land looking suspicious.,"Что мне нужно? Это ты сидишь в моём поле и подозрительно ковыряешься, а ещё спрашиваешь!"
+line-214,农夫,还瞪我，快从我的地里滚开，别挡着我除草。,"How dare you glare at me, huh? Get yourself out of my field. I'm weeding.","И ещё глазеешь на меня! Убирайся с поля, не мешай мне полоть!"
+line-216,维荻,除草？,Weeding?,Полоть?
+line-219,,听到这个词，维荻下意识地看了一眼被他挡在身后的那株无名的小草。,"Upon hearing that, Verdant instinctively glances at the unknown grass behind him.","Услышав это слово, Вердант невольно взглянул на безымянную травинку, которую закрывал собой."
+line-220,,他知道这样做很怪很讨人嫌，但他还是开口了——,"Knowing he will sound weird and annoying, he speaks anyway...","Он знал, как это странно и как это раздражает, но всё равно заговорил—"
+line-222,维荻,不行……,No...,Нельзя...
+line-223,维荻,我不走。,I'm staying put.,Я не уйду.
+line-225,农夫,你这臭小子——,You brat!,"Ах ты, негодник—"
+line-229,？？？,维荻！,Verdant!,Вердант!
+line-231,维荻,——？,—?,—?
+line-239,一脸惊喜的男子,天哪，真的是你……维荻，我们有多久没见了？,"God, it IS you... Verdant, mate, how long's it been?","Боже мой, это и правда ты... Вердант, сколько мы не виделись?"
+line-240,一脸惊喜的男子,还有沃森伯伯，镰刀可不能扬这么高，多吓人啊……噢，你们在吵架？,"Oi, Uncle Watson, the scythe doesn't go that high, come on, you could poke someone's...oh, were you having arow?","И дядя Уотсон. Не поднимай так высоко косу — пугать будешь... Ох, вы ссоритесь?"
+line-242,维荻,……,...,...
+line-244,农夫,图克，你认识他？,"You know this boy, Tucker?","Такер, ты его знаешь?"
+line-246,图克,认识，何止认识！我们可是同学！,Of course! We're classmates!,Знаю! Мало ли что знаю — мы же одноклассники!
+line-248,维荻,……曾经是同学。,...Were classmates.,...Были одноклассниками.
+line-249,维荻,现在不是了。,Not anymore now.,Больше нет.
+line-251,图克,哈哈，你和以前没两样啊。,"Haha, you haven't changed one bit.","Ха-ха, ты совсем не изменился."
+line-252,图克,沃森伯伯，怎么动这么大的气……说不定有什么误会呢？,"Uncle Watson, you don't get this pissed off, do you... Could be it's just a misunderstanding?","Дядя Уотсон, зачем так сердиться... Может, просто недоразумение?"
+line-253,图克,我的同学……维荻他就是看上去有点凶，也不太会和生人讲话。其实，他没恶意的。,"My classma— Verdant here might come off as a bit intimidating, and he's not good at dealing with strangers. But really, he means no harm.",Мой одноклассник... Вердант только кажется угрюмым и не умеет разговаривать с незнакомцами. На самом деле он ничего плохого не хочет.
+line-255,农夫,好吧，或许你能给他讲明白，让他知道他不仅碍事，还很没礼貌。,"Okay, then maybe you can talk some sense into him and let him know he's not only a nuisance but also rude.","Ладно. Может, ты ему объяснишь, что он не только мешает, но и грубит."
+line-256,农夫,行了，快点吧，快把他从我的地里带走吧！要是再跟他多吵两句，晚上我都要没精力和我家那老婆子拌嘴了！,"Hurry up and get him off my land! If I go on arguing with him, I'll be too knackered to bicker with my ball and chain tonight!","Давай быстрее, уводи его с моего поля! Ещё немного поспорим — и к вечеру у меня не останется сил спорить со старухой!"
+line-271,图克,进来吧，随便坐。我家里人都不在，不用拘束。,"Come in and have a seat. No one's home, so you can relax.","Заходи, садись где хочешь. Никого из дома нет, не стесняйся."
+line-279,维荻,……好。,...Sure.,...Хорошо.
+line-284,维荻,我才知道这个村子是你的家乡。,I just realized you're a local here.,"Я только сейчас узнал, что это твоя родная деревня."
+line-286,图克,啊？这可不是我想听的，半分钟前我还以为你是特意来找我玩的。,"Wait, what? Just half a minute ago I thought you came all the way here to hang out with me.","А? Это не то, что я хотел услышать. Полминуты назад я думал, что ты специально пришёл меня навестить."
+line-287,图克,不过也对。谁会在探望老同学的路上，为了田地里的一株杂草差点和农夫打起来啊？,Fine. You wouldn't have argued with a farmer over some weeds if you were here to visit me.,"Впрочем, верно. Кто же, идя навестить одноклассника, чуть не подерётся с фермером из-за какого-то сорняка?"
+line-289,维荻,……刚才多谢了。,...Thanks for helping me out just now.,...Спасибо.
+line-291,图克,道谢就客气了……当然，要是你愿意帮我搞定我的假期野外实践报告，我会很高兴的哦。,"No big deal... Of course, I'd love some help with my fieldwork report if you're up for it.","Да не за что... Конечно, я бы был очень рад, если бы ты помог мне с отчётом по летней практике."
+line-293,维荻,我拒绝，我可不想再……,I think I'll sit this one out. I don't want to...,Я отказываюсь. Я не хочу снова...
+line-295,图克,行了行了，就知道你肯定会拒绝我，是开玩笑啦。,"No, mate, it's fine. I actually didn't think you would say yes. It was just a joke.","Ладно-ладно, я знал, что ты откажешь. Я пошутил."
+line-297,维荻,……,...,...
+line-299,图克,喂喂……,Hey...,Эй...
+line-300,图克,我还以为你硬要把它保下来，是气昏头了。,I thought you weren't in your right mind trying to save that weed from him.,"Я думал, ты с ума сошёл, так за неё цепляясь."
+line-301,图克,结果你还真把这杂草有模有样地栽种在样本盒里了。,"Now, it sits beautifully in your specimen box.","А ты и правда посадил этот сорняк в контейнер для образцов, как настоящий."
+line-303,维荻,图克，我不认为它是杂草。,"Tucker, I don't think it's just a weed.","Такер, я не считаю её сорняком."
+line-305,图克,啊？这不是稗子或者什么别的野草……算了，我这个专业课不及格的就不和你这个前三名选手争了。,"Eh? Isn't this just a millet or some other wild grass... Forget it. As someone who failed the course, I shouldn't argue with one of the top three.","А? Это же просо какое-нибудь или другая трава... Ладно, мне, провалившему предмет, не спорить с одним из трёх лучших."
+line-307,维荻,我不是说它不是……,I'm not saying it isn't...,"Я не говорю, что она не..."
+line-309,维荻,……,...,...
+line-311,图克,怎么了？你怎么愣住了……,Hello? Why are you frozen...,Что? Почему ты замер...
+line-313,维荻,……它虽然有点像稗子，但又不完全一样，我才注意到。,"...It sort of resembles a millet, but it isn't one. I just noticed it.","...Она правда немного похожа на просо, но не совсем. Я только сейчас заметил."
+line-314,维荻,你看这，像不像会长出和大尾草一样的圆锥花序？,"Look here. Seems like it'd have the same conical kind of inflorescence as bristlegrass, right?","Смотри сюда. Похоже, у неё будет такая же метёлка, как у щетинника?"
+line-315,维荻,它的茎秆还有点像莎草……,And the stalk is a bit sedge-like...,И стебель немного как у осоки...
+line-317,图克,那，它是个未被发现过的新物种？,"So, it's an undiscovered species?",Так это ещё не открытый новый вид?
+line-319,维荻,只是我没见过，我也不记得有在书上见过相关的记载。,Can only say I've never seen it. Don't remember reading about it in any books either.,"Я только знаю, что я её не видел. Не помню, чтобы читал о ней в книгах."
+line-321,维荻,新物种？……或许存在这种可能。,A new species? That's possible.,"Новый вид?.. Возможно, такое действительно бывает."
+line-323,图克,真怪，你都没搞清楚它到底是什么，就要和拿着镰刀的农夫干一仗？这可不像你会做的事啊！,Can't believe you crossed a farmer holding a scythe for it when you hadn't the slightest clue what it was. That's not the Verdant I know!,"Странно. Ты ещё не знаешь, что это такое, а уже готов драться с фермером, вооружённым косой? Это не похоже на тебя!"
+line-325,维荻,我也不知道为什么……当时只想着要保下它。,I don't know why I did it either... I just felt like I had to protect it.,"Я и сам не знаю почему... В тот момент я только и думал, что надо её спасти."
+line-327,图克,或许你做对了，万一它真的是新物种呢？,Maybe you did the right thing. What if it IS a new species?,"Может, ты и поступил правильно. Вдруг это и правда новый вид?"
+line-328,图克,哈，果然。,"Hah, I was right.","Ха, я так и знал."
+line-329,图克,这就是我想要找你帮忙弄实践报告的原因！,This is exactly why I wanted your help with my field report!,Вот поэтому я и хотел попросить тебя помочь с отчётом по практике!
+line-331,维荻,什么？,What?,Что?
+line-333,图克,即便是这么不起眼的一株小草，你也能注意到它的不同之处，这就是我和高材生的差别吧……,You have an eye to tell what's distinctive about the most unremarkable of plants. That's what separates me apart from a top student...,Даже в такой неприметной травинке ты сумел заметить её особенность. В этом и разница между мной и отличником...
+line-335,维荻,不……,No...,Нет...
+line-336,维荻,其实我也差点忽视它。,"I almost overlooked it too, actually.",На самом деле я её чуть не пропустил.
+line-337,维荻,植物猎人并不需要这样没有经济价值的物种。,It has no economic value. It's not something a plant hunter needs.,Охотнику за растениями не нужен вид без экономической ценности.
+line-339,图克,那又怎样？重要的是你足够敏锐，是你发现了它。,And so what? What matters is you were sharp enough to find it.,"И что? Важно то, что ты оказался достаточно внимателен. Это ты её нашёл."
+line-340,图克,……我有个想法。要想知道它是不是新物种，那就去植物研究所之类的机构鉴定一下嘛。,"...I've got an idea. If we want to know if it's a new species, we can send it to a botanical institute or something for identification.","...У меня идея. Чтобы узнать, новый ли это вид, отнеси её в ботанический институт или подобное учреждение и определи."
+line-342,维荻,鉴定？好吧……不过在那之前，我还有些工作要处理。,"Identification? Alright... But before that, I've still got work to do.",Определить? Ладно... Но до этого мне нужно кое-что доделать по работе.
+line-343,维荻,我得回据点一趟。,Got to head back to base.,Мне надо вернуться на базу.
+line-357,维荻,对，我拿到“褐刺花”了。已完成完整植株的采集，并连同其生长的土壤样本一起保存好了。,"Yeah, I got the thornbloom. Harvested the full plant intact, and collected a sample of the soil it was growing in too.","Да, я добыл терноцвет. Собрал растение целиком и сохранил вместе с образцом почвы, на которой оно росло."
+line-359,维荻,竞争对手？我好像是遇见了两个……不，他们没有妨碍到我，不如说正相反……,"Competitors? I think I ran across two... No, they didn't get in my way. It was the other way round, actually...","Конкуренты? Кажется, я встретил двоих... Нет, они мне не помешали. Скорее, наоборот..."
+line-360,维荻,别的有经济价值的植物？……我没遇到，没什么特别的。,"Other plants of economic value...? No, nothing in particular.","Другие растения с коммерческой ценностью?.. Нет, ничего особенного."
+line-362,维荻,数据与照片已经传输给您了，如果没有问题，我明天就会返回。,"I've sent you the data and photos. If everything's good, I'll be on my way back tomorrow.","Данные и фотографии я уже отправил. Если всё в порядке, завтра вернусь."
+line-366,维荻,……啊？,...Eh?,...А?
+line-367,维荻,您是说，还有新的委托？,"There's a new commission, you said?","Вы говорите, есть новое задание?"
+line-368,维荻,或许我可以先回去，我们当面确认任务目标之后，过段时间我再重新出发呢？,How about I go back and confirm the target with you in person before heading out again?,"Может, я сначала вернусь, мы лично обсудим цель, а потом я снова выйду?"
+line-369,维荻,就算您说这个任务很紧急，也……不，我不是在质疑您的判断，也不是不信任您，我只是——,"Even though it's urgent, I... No, I'm not doubting your judgment. I trust you, but I—","Даже если задание срочное, я... Нет, я не сомневаюсь в вашем решении и не не доверяю вам, я просто—"
+line-371,维荻,……,...,...
+line-373,维荻,好吧，我明白了。,"Alright, I understand.",Ладно. Я понял.
+line-374,维荻,等我拿到新的目标植物，我就返程，可以吧？,I'll head back the moment I've got the new target plant. Is that alright?,"Как только я добуду новое целевое растение, сразу вернусь. Можно?"
+line-381,图克,所以，没法直接去植物研究所了？,"So, no chance of hitting the institutes?","Так, в ботанический институт напрямую не попасть?"
+line-383,维荻,嗯。,Nope.,Мм.
+line-385,图克,你的雇主……我听他一开口就知道是个难缠的人。你就不能直接回去，告诉他没找到他要的东西吗？,Your boss... sounds like a real pain with the way he talks. Can't you just go back and tell him you didn't find the thing he wanted?,"Твой наниматель... С первого его слова понятно, что человек сложный. Не можешь просто вернуться и сказать, что не нашёл то, что он просил?"
+line-387,维荻,除非我不需要这份工作了……,Not unless I don't want this job...,Разве что мне не нужна эта работа...
+line-389,图克,噢，那就没办法了。,Too bad then.,"Ну, тогда ничего не поделать."
+line-390,图克,和那些在实验室里冲洗试管、给样本瓶贴标签的工作比起来，植物猎人可酷多了吧！换我，我也不会放弃这么有趣的差事！,"Being a plant hunter is so much cooler than being stuck in a lab rinsing test tubes and sticking labels on specimens all day! If I were you, I wouldn't trade the job for the world!","По сравнению с работой в лаборатории, где моют пробирки и наклеивают этикетки на банки с образцами, охота за растениями — гораздо круче! На моём месте я бы тоже не бросил такое интересное дело!"
+line-391,图克,这样吧，我不用你帮我弄什么野外实践报告了！就带我去做一回植物猎人吧！求你！,How about this—you don't have to help with my field report if you can take me along plant-hunting once! Pretty please!,Давай так: тебе не нужно помогать мне с отчётом! Просто возьми меня с собой один раз на охоту за растениями! Ну пожалуйста!
+line-393,维荻,……哈哈。,...Haha.,...Ха-ха.
+line-395,图克,依照周密的计划潜入，骗过所有人的眼睛，还会随机应变躲过每一处危险，在“最终的房间”夺走目标……,"Sneaking into the target area by following a meticulous plan, fooling the eyes of all, and avoiding danger until reaching the 'final chamber' where the target object lies...","Проникнуть по тщательному плану, обмануть всех на пути, ловко увернуться от каждой опасности и выкрасть цель из «финальной комнаты»..."
+line-396,图克,你看了蓝卡坞上个月公映的那部冒险片吗？就是在萨尔贡雨林里寻宝被土著追杀的那个？感觉没什么两样！,"Have you watched that Wrankwood movie that came out last month, the adventure one? The protagonist was hunted down by the natives while looking for treasure in the Sargonian rainforest? That's basically you!","Ты смотрел тот приключенческий фильм, что вышел в Ранквуде в прошлом месяце? Про сокровища в джунглях Саргона и погоню местных? Почти одно и то же!"
+line-398,维荻,没、没看过……,"I—No, I haven't watched...",Я... я не смотрел...
+line-400,图克,想来也是。,Thought so.,Я так и думал.
+line-402,维荻,图克，你知道我对那些不感兴趣……我也不是因为喜欢冒险才做植物猎人的工作的。,"Tucker, you know I don't really care about those things... I don't work as a plant hunter because I'm into adventures, either.","Такер, ты же знаешь, что меня это не интересует... И я не стал охотником за растениями потому, что люблю приключения."
+line-403,维荻,我需要它，只是因为我需要收入，也想要继续和植物打交道。,"I do it because I need a livelihood, and I enjoy working with plants.","Мне эта работа нужна, потому что мне нужен доход и потому что я хочу продолжать работать с растениями."
+line-404,维荻,感染了矿石病以后，这可能是我碰上的最好的选择了。,It's the best opportunity I've had since catching Oripathy.,"После заражения Орипатией это, наверное, лучший выбор, который у меня был."
+line-406,图克,……好啦，维荻。,"...Good for you, Verdant.","...Ладно, Вердант."
+line-407,图克,我知道的，因为矿石病就让你退学，是学校的损失。他们损失了一名真正热爱植物的年轻学者。,I got you. It was the school's mistake to make you drop out because of Oripathy. They've lost a young scholar with a real passion for plants.,"Я знаю. То, что тебя отчислили из-за Орипатии, — потеря для школы. Они потеряли молодого учёного, который по-настоящему любил растения."
+line-408,图克,要是教授他知道你为了继续研究植物在做那么危险的事，他肯定会后悔当初没为你向学校求情的！,"If the professor knew you took on such a risky job just to keep studying plants, he'd definitely regret not pleading your case to the school back then!","Если бы профессор знал, что ты взялся за такую опасную работу, лишь бы продолжать изучать растения, он бы пожалел, что не заступился за тебя перед школой!"
+line-410,维荻,哼……我该怪他吗？,Heh... Should I blame him?,Хм... Должен ли я его винить?
+line-411,维荻,图克，我们以前培育那些不起眼的实验样本，是怎么做的来着？,"Tucker, still remember how we used to cultivate those specimens before?","Такер, помнишь, как мы раньше выращивали те неприметные лабораторные образцы?"
+line-413,图克,……你这不是还很熟练吗？,...Aren't you still pretty good at it?,...Ты всё так же ловко это делаешь.
+line-418,,说着，维荻为栽培着“褐刺花”的温箱合上了盖子，打开了那个更小却更温暖的样本盒。,"As he speaks, Verdant closes the lid of the thornbloom's incubator and opens up another specimen case, which is smaller and warmer.","Говоря это, Вердант закрыл крышку инкубатора, где рос терноцвет, и открыл меньший, но более тёплый контейнер с образцом."
+line-419,,他用手指感受样本盒中土壤的湿度，随后，又用喷壶往玻璃盒壁上喷了些水。,"He feels the moisture of the soil within using his fingertip. Then, he gives the glass walls of the case a spritz from his spray bottle.","Пальцем он проверил влажность почвы внутри, потом побрызгал водой из распылителя на стеклянные стенки."
+line-420,,无名的小草没有发出声响，但他知道小草在生长。,"The nameless grass makes no sound, but he knows it's growing.","Безымянная травинка не издала ни звука, но он знал: она растёт."
+line-424,图克,老实说，维荻，照顾这些植物的时候，你真像变了一个人。,"Honestly speaking, you looked like a changed man when you were tending to the plants.","Честно говоря, Вердант, когда ты ухаживаешь за растениями, ты будто становишься другим человеком."
+line-426,维荻,是吗？,Really?,Правда?
+line-427,维荻,也许是因为我从不担心会被它们厌弃吧。,Maybe it's because I don't have to worry about them rejecting me.,"Может, потому что мне не нужно бояться, что они меня отвергнут."
+line-429,图克,厌弃？也许吧……可你也知道，这些植物并非时刻都能如我们所愿。,"Reject? Maybe... But as you know, plants don't always act the way we want either.","Отвергнут? Может быть... Но ты же знаешь: растения не всегда делают то, что мы от них хотим."
+line-430,图克,就像以前我们一起在温室里培育实验样本的时候，长得不好的，早早死掉的……,"Just like those specimens we had in the greenhouse back then. Some barely grew, and some withered early on...","Как и с теми образцами в теплице: одни едва росли, другие рано погибали..."
+line-431,图克,……更别说还有一些样本直到开花结果时，我们才会发现，它们其实并不是我们想要的。,"...And don't forget the ones that had us going until they started blooming and bearing, just to show us they weren't even the right ones.","...Не говоря уже о тех, что показали себя только тогда, когда зацвели и дали плоды, — и оказались совсем не тем, что мы искали."
+line-432,图克,也许没必要那么期待……,"So, you might want to keep your expectations low...","Может, не стоит так ждать..."
+line-434,维荻,期待？,Expectations?,Ждать?
+line-435,维荻,你担心要是最后证实了它就是随处可见的普通野草，我会失望？,Are you worried that I might be devastated if that grass turns out to be just an ordinary weed?,"Ты боишься, что я расстроюсь, если окажется, что это обычная трава, которой где угодно?"
+line-437,图克,嗯。,Mmm.,Мм.
+line-439,维荻,我不会失望。因为我不是为了这种虚无缥缈的可能性，才去照料它的。,I won't. I don't look after it for the elusive possibility of it becoming something extraordinary.,Не расстроюсь. Я забочусь о ней не ради такой призрачной возможности.
+line-441,图克,那……,So...,Тогда...
+line-443,维荻,图克，如果你在干农活的时候，看到它长在作物边，你会怎么做？,"Tucker, if you saw it growing next to the crops, what would you do?","Такер, если бы ты увидел её в поле рядом с посевами, что бы ты сделал?"
+line-445,图克,当然是把它除掉啊。就算留下来当肥料，也有点勉强吧……,"I'd pull it out, of course. It doesn't even fit to be used as compost...","Конечно, вырвал бы. Даже как удобрение она годилась бы с натяжкой..."
+line-447,维荻,嗯……很长一段时间里，我也是这么认为的。,Right... That was what I used to think for a long time.,Мм... Долгое время я думал так же.
+line-448,维荻,但那时的我，以为自己是人人需要的作物，从未想过有一天自己会无处可去。,"But at that time, I thought I was someone important, like the crop. I never imagined one day I'd have nowhere left to go.","Но тогда я считал себя культурой, которая нужна всем. Я и не думал, что однажды мне некуда будет пойти."
+line-450,维荻,甚至还不如供养作物的肥料……它们好歹还能一起待在田地里。,"Now, I'm even more useless than compost... At least, compost can still be kept on the field.","Я даже хуже удобрения, что питает посевы... Удобрение хоть остаётся в поле."
+line-452,图克,维荻……,Verdant...,Вердант...
+line-454,维荻,我没事，图克。就算如此，我也活得挺好不是吗？,"It's alright, Tucker. I'm doing pretty well now, right?","Со мной всё хорошо, Такер. Даже так я живу неплохо, правда?"
+line-455,维荻,我想清楚了，我并没有多期待它是一个新物种。,I've thought it through—I don't really expect it to be a new species.,"Я всё обдумал. Я вовсе не так жду, что это новый вид."
+line-456,维荻,我只是觉得……它也该有一隅之地。,I just think that... it deserves a little place of its own.,Я просто думаю: ей тоже должно найтись местечко.
+line-457,维荻,仔细想来，它要的其实并不多啊。,"When you think about it, you'll realize that it hardly needs anything at all.","Если подумать, ей совсем немного нужно."
+line-458,维荻,土壤，水，还有阳光……足够了，足够它继续倔强地生长了。,"Soil, water, and sunlight... That's it. Enough to sustain its growth.","Почва, вода и солнце... Этого хватит. Хватит, чтобы она продолжала упрямо расти."
+line-461,,维荻忽然有一种开口去问无名小草的冲动——,Verdant suddenly feels an urge to ask the nameless grass some questions.,Верданту вдруг захотелось спросить безымянную травинку—
+line-462,,你叫什么名字？,What's your name?,Как тебя зовут?
+line-463,,你渴望被人关注吗？,Do you long to be noticed?,"Ты хочешь, чтобы тебя замечали?"
+line-464,,你……你也害怕被人厌弃吗？,Are... Are you scared of being rejected too?,"Ты... ты тоже боишься, что тебя отвергнут?"
+line-465,,小草啊。,Little grass...,Травинка...
+line-466,,……比起这小小的样本盒，其实你更希望回到那片广阔的田野里吧？,"...You'd much rather go back to the vast field than be stuck in a little specimen case, right?","...Тебе на самом деле хочется вернуться в широкое поле, а не сидеть в этом маленьком контейнере, верно?"
+line-476,,“……走吧，你快走吧。”,'...You'd better go. Now.',«...Уходи. Уходи же.»
+line-477,,“从我们这里滚开！”,'Get out of here!',«Убирайся от нас!»
+line-480,,这是……,It's...,Это...
+line-491,,“你也看到了，这是学校董事会统一决定的。”,'You saw it too. It was a unanimous decision by the school board.',«Ты сам видел: это единогласное решение правления школы.»
+line-492,,“比起在这里学习知识，还是身体健康更重要吧？”,"'You should prioritize your health over learning here, right?'","«Здоровье важнее, чем учиться здесь, не так ли?»"
+line-493,,“……对，它们并不矛盾，但我们也要为其他的学生和教职工考虑呀。”,"'...True, they're not contradictory, but we have to consider the welfare of the students and staff here.'","«...Да, они не противоречат друг другу, но нам нужно думать и о других учениках и сотрудниках.»"
+line-494,,“别想了，学校不可能单独给你一个人分一间宿舍。”,'That's out of the question. The school would never let you have a whole dorm room just to yourself.',«Не мечтай. Школа не выделит отдельную комнату только для тебя.»
+line-497,,……,...,...
+line-498,,好吧，那我离开就是了。,"Alright. I'll leave, then.",Ладно. Тогда я уйду.
+line-507,,“大学生？我们不需要什么大学生，只要你会招徕客人……你是感染者？这可不行啊。”,"'College graduate? We just need someone who can bring in customers... You're an Infected? Well, that won't do.'",«Университет? Нам не нужен диплом — лишь бы ты умел привлекать покупателей... Ты инфицированный? Это не годится.»
+line-508,,“我们不收感染者打字员。你说你可以在家办公？绝不会耽误工作？不要想了！”,"'We don't hire the Infected as typists. Oh, you can work from home? You promise your efficiency won't be affected? Dream on!'","«Мы не берём инфицированных наборщиков. Ты говоришь, можешь работать дома? Что ни разу не подведёшь? Не надейся!»"
+line-509,,“喂，小子，离我的店远一点！别再让我看见你，隔离区才是你该待的地方！”,"'Hey, you, keep away from my shop! Don't let me catch you around here again! The quarantine, that's where you belong!'","«Эй, парень, держись подальше от моей лавки! Не смей появляться снова! Тебе место в карантинной зоне!»"
+line-510,,“很抱歉，我没法聘用你。”,"'Sorry, we can't hire you.'","«Прости, но я не могу тебя нанять.»"
+line-513,,……,...,...
+line-514,,好吧，那我离开就是了。,"Alright. I'll leave, then.",Ладно. Тогда я уйду.
+line-523,,“这么多草鞋和草帽，一件都没有卖出去？”,'All these straw hats and sandals. You haven't sold a single one?',«Столько соломенных сандалий и шляп — и ни одной не продали?»
+line-524,,“问了，我都问了！没有采购商愿意收！啧……现在就连村长都躲着我们家。”,"'Trust me, I've asked around! No buyers are willing to take them! Tsk... Even the village head is avoiding us now.'","«Я спрашивал, я везде спрашивал! Никто из скупщиков не хочет брать! Тс... Теперь даже староста избегает наш дом.»"
+line-525,,“或许我们还可以去移动城市问一问……”,'Maybe we can try at a nomadic city next...',"«Может, попробовать в мобильном городе...»"
+line-526,,“对，没错，这倒是个办法。我明天就去集市，把老太太留下的那几匹上好的棉布拿去，或许能换来个二手的摊车！”,"'That's quite a good idea, actually. I'll head to the market tomorrow and bring with me the premium cotton cloth Mother left behind. Maybe we can get a second-hand cart with it!'","«Да, верно, это вариант. Завтра пойду на рынок, возьму те несколько рулонов хорошего хлопка, что оставила старушка, — может, выменяю на подержанную тележку!»"
+line-527,,“把我的银手镯也拿去吧！总会有办法的……我们要留下他，再怎么样，他也是我们的孩子……”,"'And take my silver bracelet too! There has to be a way... We have to let him stay. No matter what, he's still our son...'","«Возьми и мой серебряный браслет! Что-нибудь да найдётся... Мы должны оставить его. Как бы то ни было, он наш ребёнок...»"
+line-530,,……,...,...
+line-531,,或许，我还是离开更好吧。就算再也回不到过去了，我也要活得更像样子些。,"Maybe I should go. Even if there's no turning back to my old life, I have to pull myself together.","Может, мне и правда лучше уйти. Даже если прошлого не вернуть, я должен жить достойно."
+line-532,,可……我又能到哪儿去呢？,But... where can I go?,Но... куда мне идти?
+line-536,,嗯？,Huh?,Мм?
+line-537,,……吵死了。,"...God, what a racket.",...Так шумно.
+line-538,,我知道了，我会走，你们不用再赶我了！离了你们我也能活！,"Fine, I'll go. Stop trying to kick me out! I can survive without you!","Хорошо, я уйду! Не гоните меня больше! Я и без вас выживу!"
+line-539,,“维荻——”,'Verdant—',«Вердант—»
+line-544,,我知道了！吵死了！,I know what to do! Just shut up!,Понял! Хватит шуметь!
+line-553,维荻,……,...,...
+line-554,维荻,是梦吗……,Was it a dream...,Это был сон...
+line-555,维荻,小草它……还在。,The grass... is still there.,Травинка... всё ещё здесь.
+line-556,维荻,咦？这里，似乎冒出了新的叶芽。,Eh? There seems to be a new bud sprouting here.,"А? Кажется, здесь появился новый побег."
+line-557,维荻,我记得有些植物在感受到生存环境发生剧烈变化时，会更奋力地生长。,I know some plants will experience a growth spurt when they sense a drastic change in their environment.,"Я помню: некоторые растения, почувствовав резкую перемену в условиях, начинают расти ещё усерднее."
+line-558,维荻,小草啊……这个样本盒会让你觉得安全吗？,"Little grass, do you feel safe inside this specimen case?",Травинка... Тебе безопасно в этом контейнере?
+line-563,图克,喂，维荻！,"Hey, Verdant!","Эй, Вердант!"
+line-564,图克,开门啊！你这家伙不会还在睡吧！,Open up! Don't tell me you're still sleeping!,Открой! Неужели ты ещё спишь?!
+line-580,维荻,……,...,...
+line-581,维荻,图克？你为什么会来……,Tucker? Why are you here?,Такер? Что ты здесь...
+line-583,图克,……我，为，什，么，会，来？,...WHY AM I HERE?!,...По-че-му я зде-сь?!
+line-584,图克,拜托，你昨天不是答应了，要带我体验一下做植物猎人的感觉吗？,"Oh, please. Didn't you promise to take me to experience plant hunting yesterday?","Ну же, ты вчера обещал взять меня и показать, каково это — быть охотником за растениями!"
+line-586,维荻,那不是玩笑啊……？,Wasn't that a joke?,Разве это была не шутка...?
+line-588,图克,快点走吧，多我一个肯定能让任务更顺利的！,Let's move! Many hands make light work!,Пошли быстрее. С моей помощью задание точно пойдёт легче!
+line-589,图克,这样也能更早去植物研究所鉴定了，不是吗？,"We can hit the botanical institute sooner too, right?","И мы раньше попадём в ботанический институт, правда?"
+line-591,维荻,你还惦记着这事啊……虽然鉴定一下也没所谓就是了。,"Can't believe you're still thinking about that... It doesn't harm to do the identification, I guess.",Ты всё ещё об этом... Хотя определить её не помешает.
+line-593,维荻,……哈，好吧，那就一起来吧。,"...Fine, let's do this together.","...Ха, ладно. Пойдём вместе."
+line-594,维荻,不过，像你这样随随便便把泥脚印留在经过的地方，我不觉得我的任务会更顺利。,You aren't helping by leaving your footprints everywhere we've passed by.,"Но, оставляя грязные следы где попало, ты вряд ли сделаешь мою работу легче."
+line-603,图克,哟吼——,Yahoo—,Йо-хо—
+line-608,图克,怎么样，这两个屋檐的距离，我跳得够远——唔唔唔噢噢妈妈！,How's that? I can easily jump to the other roof—whoawhoawhoaaahh ohgodhelpmeMum!,"Ну как, я допрыгнул до другой крыши— мммм-ооо-мамочка!"
+line-609,维荻,小心！,Careful!,Осторожно!
+line-615,图克,呼，好险。还好掉下去的是一片瓦，而不是我。,"Phew, that was close. Luckily, it was the tile that fell and not me.","Фух, едва не случилось. Хорошо, что упала черепица, а не я."
+line-616,图克,多谢你拉住我，维荻……？怎么是“稻草人”啊……,"Thanks for catching me, Verdant...? Wait, why is the 'Scarecrow' here?","Спасибо, что поймал меня, Вердант...? Почему это «Пугало»..."
+line-617,维荻,我和你不一样，我会好好从下面爬上去。,"Unlike you, I'll climb up from the ground.","В отличие от тебя, я нормально заберусь снизу."
+line-618,维荻,你不必向“稻草人”道谢，它大概是怕你把全村的人都喊来，然后看你在屋顶上表演。,Don't need to thank the 'Scarecrow'. It probably just didn't want you to cause a ruckus that would alert all the villagers.,"Не благодари «Пугало». Оно, наверное, просто не хотело, чтобы ты позвал всю деревню и устроил представление на крыше."
+line-619,图克,真不错啊，你果然还和在学校里一样。,Nice work! That's the Verdant I know from school.,"Отлично! Ты и правда всё такой, как в школе."
+line-620,图克,明明都提早一步走入社会了，就不能对朋友宽容一点？真不成熟！,You are a working adult now. Can't you be more tolerant of your friend? How immature!,Ты уже раньше всех начал работать. Мог бы ты быть чуть снисходительнее к другу? Как незрело!
+line-621,维荻,……,...,...
+line-622,维荻,抓紧时间吧，图克。从那个烟囱跳进去。,"No dilly-dallying, Tucker. Jump in through that chimney.","Не теряй времени, Такер. Прыгай в тот дымоход."
+line-623,图克,哪？烟囱？,What? The chimney?,Куда? В дымоход?
+line-624,维荻,对。,Yeah.,Да.
+line-625,图克,等一下，我们不是要敲门进去吗？……等等等等，“稻草人”为什么在推我啊——,"Wait, shouldn't we knock before going in? Waitwaitwaitwait, why is your 'Scarecrow's' pushing me—","Погоди, мы же должны постучать... Погоди-погоди, почему «Пугало» меня толкает—"
+line-630,,一阵寂静。,Total silence.,Тишина.
+line-631,维荻,怎么样？,Well?,Ну?
+line-634,图克,这……“稻草人”接住我了，算是安稳落地？,The 'Scarecrow' caught me. I guess it was a safe landing?,"Это... «Пугало» меня поймало. Можно сказать, приземлился я нормально?"
+line-635,图克,……我可是很克制地没有喊出声来哦！,"...I didn't scream out loud. That took me a lot of effort, you know!","...Я очень старался не кричать, знаешь!"
+line-636,维荻,知道了，我也来了。,Good for you. Coming down.,Ладно. Я тоже спускаюсь.
+line-652,图克,呼——你听没听到？我感觉我的心脏跳得好快！,Phew... Can you hear it? My heart's pounding like a sledgehammer!,Фух... Ты слышишь? У меня сердце колотится так быстро!
+line-653,图克,就在刚刚，我竟然跟着植物猎人去了“最终的房间”，还真的拿到了“古代的神秘作物种子”！,Can't believe I just reached the 'final chamber' with a plant hunter and had my hands on a 'mysterious ancient seed'!,Ещё минуту назад я ходил с охотником за растениями в «финальную комнату» и и правда заполучил «древнее семя таинственной культуры»!
+line-655,维荻,不过是从一间无人住的乡村小屋里拿走任务目标罢了……哪有那么夸张。,We just took the target object from an empty hut... Don't exaggerate things.,Мы просто забрали цель из пустой деревенской избы... Не преувеличивай.
+line-657,图克,确实，好像没有我想象的刺激啊！,"Well, this isn't as exciting as I imagined it would be!","Да. Похоже, не так уже захватывающе, как я думал!"
+line-658,图克,怎么没有探秘的过程呢？进去，拿到了，然后离开……就完事了？也太轻松了！,"I mean, where was the sleuthing part? We went in, we grabbed it, we got out... Is that it? Way too easy!","Где же разгадывание тайн? Вошли, взяли, вышли... и всё? Слишком легко!"
+line-659,图克,看来这个种子，也不是什么珍奇的东西……,This seed doesn't look rare either...,"Похоже, это семя не такая уж редкость..."
+line-661,维荻,不，估计是上一个接线人放在这里的。,I think it was left here by the previous agent.,"Нет. Думаю, его оставил предыдущий связной."
+line-663,图克,接线人？,Agent?,Связной?
+line-665,维荻,对。,Yeah.,Да.
+line-666,维荻,并不是每个任务都需要植物猎人深入险境，也会有这种去指定地点取个东西的简单工作。,"Plant hunters don't just handle dangerous missinos There's simple work like this too, which involves collecting an object at a designated location.",Не каждое задание требует от охотника за растениями рисковать жизнью. Бывает и простая работа — сходить в нужное место и забрать предмет.
+line-668,图克,……那不就是信使？,...Like a Messenger?,...Так это же курьер?
+line-670,维荻,听说最初的植物猎人，就是一批专门为跨国香料商人工作的信使。,I heard the very first batch of plant hunters were Messengers specializing in international spice trade.,"Говорят, первые охотники за растениями были курьерами, работавшими на международных торговцев специями."
+line-672,图克,这样听来，一点也不酷了……,Being a plant hunter doesn't sound cool anymore...,От этого совсем не звучит круто...
+line-674,维荻,行了，回据点吧。我要向雇主汇报，他最好别再给我安排新的任务了。,Time to head back to base. I need to debrief with my boss. I hope he won't give me any more assignments.,"Ладно, возвращаемся на базу. Мне нужно отчитаться перед нанимателем. Надеюсь, он больше не даст мне заданий."
+line-677,维荻,……,...,...
+line-678,维荻,图克，经过那片泥地时，我提醒过你要把鞋底清理干净。,"Tucker, I reminded you to clean your shoes after we stepped through the mud.","Такер, когда мы шли через ту грязь, я же говорил тебе очистить подошвы."
+line-680,图克,啊？我照做了啊。你看，干净得很。,"Eh? I did. Look, they are as clean as a whistle.","А? Я же сделал. Смотри, они чистые."
+line-682,维荻,那这边的鞋印是……怎么和据点附近的那么像？,"Then, whose footprints are these... Why do they look so similar to the ones near the base?","Тогда чьи это следы... Почему они так похожи на те, что у базы?"
+line-683,维荻,……,...,...
+line-685,维荻,不会吧……,Can't be...,Не может быть...
+line-691,图克,啊？什么意思？你怎么突然就跑了——,Eh? Excuse me? Why are you running—,А? Что ты имеешь в виду? Почему ты вдруг побежал—
+line-695,维荻,快，来不及了！,Move! We're running out of time!,Быстрее! Мы не успеем!
+line-706,,远远地，维荻看见据点的方向升起了浓烟。,"From a distance, Verdant spots thick smoke rising from the base.","Вдалеке Вердант увидел густой дым, поднимающийся со стороны базы."
+line-707,,他用尽全部的力气冲刺，烟味越来越刺鼻，让他有些喘不上气。,"With all the strength he has, he sprints. The pungent smell of the smoke makes it hard for him to breathe.","Он бежал изо всех сил. Запах дыма становился всё резче, и ему стало трудно дышать."
+line-708,,原先的隐隐不安，已经成为面前燃起的火。,The uneasy feelings before have taken form in the fire before his eyes.,"Неясное беспокойство превратилось в огонь, полыхавший у него перед глазами."
+line-716,维荻,唔……,Ugh...,Ух...
+line-725,惊喜的打手,嗬，你看他身上带着的……竟然还有意外收获！,"Well, look what he's brought us... A surprise!","Гляди-ка, что у него с собой... Неожиданная находка!"
+line-726,惊喜的打手,这可是一袋方形葵的种子，得值不少钱吧！,We've got a packet of square sunflower seeds here! That'll make us a pretty penny!,"Это же пакет семян квадратного подсолнуха! Должно быть, они стоят целое состояние!"
+line-728,镇静的打手,行了，闭上嘴。,Enough. Shut it.,Хватит. Закрой рот.
+line-729,镇静的打手,切断据点里的应急通讯器，把有用的都拿上。,Damage all the emergency communicators in the base. Take whatever's useful.,"Повреди аварийные рации на базе и бери всё, что представляет ценность."
+line-730,镇静的打手,趁他恢复意识之前，快走吧。,We must get out of here before he wakes up.,"Уходим, пока он не пришёл в себя."
+line-734,维荻,别……,Don't...,Не...
+line-735,维荻,为什么……,Why...,Почему...
+line-745,维荻,为什么……,Why...,Почему...
+line-755,,妈妈，我们的田里长了很多小草。要把它们除掉吗？,"Mum, should we clear the weeds in the field?","Мама, в нашем поле выросло много травинок. Их нужно выполоть?"
+line-756,,“对，它们会妨碍到作物生长。”,'Yes. They'll impede the growth of the crops.',«Да. Они мешают посевам расти.»
+line-757,,那我们可以让它们离作物远一点？比如，把它们移栽到后院的园子里？,"Can we just move them away from the crops? Like, our courtyard?","А можно отсадить их подальше от посевов? Например, пересадить в садик за домом?"
+line-758,,我想知道它们长大后的样子。,I want to know what they look like when they grow up.,"Мне хочется увидеть, какими они станут, когда вырастут."
+line-759,,“嗯……好主意。”,'Hmm... Good idea.',«Мм... Хорошая идея.»
+line-760,,“它们也许会长成麦子，也许会长成粟米。”,"'They might grow into wheat, or maybe corn.'","«Может, они вырастут пшеницей, а может — просом.»"
+line-761,,“听说在很久以前，那些粮食和它们没什么两样。”,"'I hear a very long time ago, weeds were no different from the grains.'","«Говорят, что давным-давно те злаки ничем от них не отличались.»"
+line-762,,……要是它们不能吃呢？,...What if we can't eat them?,...А если их нельзя есть?
+line-763,,要是它们开不出好看的花，还变得臭臭的，那就太糟糕了！,What if they grow ugly flowers and turn really smelly? That'd be awful!,А если не дадут красивых цветов и ещё и вонять начнут? Это было бы ужасно!
+line-764,,“哈哈，我的孩子已经会因为这种事感到困扰啦？不用担心——”,'Haha! Have you become old enough to be bothered by these things? Don't worry—',«Ха-ха! Уже переживаешь из-за таких вещей? Не волнуйся —»
+line-767,,“它们也会有属于自己的价值的。”,'They'll still have their own worth.',«У них тоже найдётся своя ценность.»
+line-782,图克,维荻！刚刚跑过去的那两个人，是不是抱着“褐刺花”的温箱？,Verdant! Were the two guys that ran off holding the thormbloom incubator?,"Такер, те двое, что только что убежали, — они несли инкубатор с терноцветом?"
+line-783,图克,……你受伤了？,...Are you injured?,...Ты ранен?
+line-792,维荻,小……,Little...,Тра-винка...
+line-794,图克,什么？,What?,Что?
+line-795,图克,要去追他们吗？,Should I go after them?,Бежим за ними?
+line-797,维荻,去看看，小草……,Check on... the grass...,Проверь... травинку...
+line-799,图克,小、小草？……喂，你该不会要去据点里吧……,T—The grass? Please tell me you won't go inside...,"Т-травинку?.. Эй, ты же не собираешься лезть в базу..."
+line-805,图克,别——火势越来越大了，别冲进去，维荻！,"No! The fire's getting out of control! Don't go in, Verdant!","Не надо! Пожар разгорается! Не входи туда, Вердант!"
+line-821,维荻,那株小草……我还没有带它去植物研究所……,That grass... I still haven't taken it to the institute...,Та травинка... Я так и не отнёс её в ботанический институт...
+line-822,维荻,我还没有为它起名字……,I still haven't given it a name...,Я так и не дал ей имени...
+line-823,维荻,就算无人在意它，但它依然顽强地活在田野里……,It survived in the field even when nobody tended to it...,"Даже если никто за ней не следил, она упрямо жила в поле..."
+line-824,维荻,它不应该被随意除去，也不该葬身火海……,It shouldn't be pulled out or be devoured by flames...,"Её не должны были вырвать как попало, не должна она и сгореть..."
+line-825,维荻,它不应该被驱赶，也不该被忘记……,It shouldn't be chased away or forgotten...,"Её не должны изгонять, не должны и забывать..."
+line-826,维荻,它只是想活下去……,It is just trying to survive...,Она просто хотела жить...
+line-835,维荻,咳咳……咳咳……,*cough* *cough*... *cough* *cough*...,Кх-кх... Кх-кх...
+line-837,维荻,太好了……我的样本盒，它还在这……他们没把你夺走……,"Thank god... It's still here, my specimen case... They didn't take you away...",Слава богу... Мой контейнер всё здесь... Они тебя не забрали...
+line-838,维荻,不起眼，也是你的优点吧……,I guess being inconspicuous is your strength...,"Неприметность — тоже твоё достоинство, да?"
+line-840,,维荻用手抹去附在玻璃盒壁上的黑灰，焦急地确认小草的安危。,"Verdant wipes off the ash on the glass case, eager to make sure the grass is safe.","Вердант стёр копоть со стеклянных стенок контейнера, тревожно проверяя, цела ли травинка."
+line-843,维荻,……嗯？,...Huh?,...Мм?
+line-844,维荻,这是……那株小草？,Is this.. that tuft of grass?,Это... та самая травинка?
+line-847,,在火光中，样本盒中的景象维荻看得很清楚。,"Lit up in the fire, Verdant beholds the sight within the case clearer than anything.","При свете огня Вердант отчётливо увидел то, что было внутри контейнера."
+line-848,,据点里骤然升起的高温显然让他的小草不太好受——,His grass can't handle the sharp rise in temperature well.,"Резкий жар, охвативший базу, явно давался травинке непросто—"
+line-849,,像稗子的叶片发蔫了，像莎草的茎秆也弯折了，但那像大尾草的部分，竟然正在“绽放”。,"Its millet-like leaves are wilted, and its sedge-like stem is drooped. But the part that resembled bristlegrass is actually blooming.","Листья, похожие на просо, увяли, стебель, как у осоки, переломился, но та часть, что напоминала щетинник, и правда «распускалась»."
+line-850,,那是它的花吗？维荻不确定。是这场大火才让它变样的吗？维荻也不确定。,Is that its flower? Did the fire cause the transformation? Verdant isn't sure.,Это её цветок? Вердант не знал. Этот пожар изменил её? Он тоже не знал.
+line-851,,没有人能在第一次看到那些新长出来的细细的须时，就笃定这是一种植物的花朵。,No one can know for sure it is a kind of flower when they see its delicate tendrils for the first time.,"Никто не может с уверенностью сказать, что эти тонкие нити, появившиеся впервые, — цветок этого растения."
+line-852,,看它那蔫掉的叶子和那弯掉的茎秆，这恐怕也很难称得上是一次“盛放”。,The plant doesn't look like it is blooming at all with its wilted leaves and drooped stem.,"Судя по увядшим листьям и согнутому стеблю, это вряд ли можно назвать «цветением»."
+line-853,,但维荻能够确定的是，它不是稗子也不是莎草，它不是任何一种他曾知晓的野草。,"But Verdant is certain that the grass is not millet, sedge, or any other kind of grass he's encountered before.","Но Вердант знал одно: это не просо и не осока. Это не ни одна из трав, которые он знал раньше."

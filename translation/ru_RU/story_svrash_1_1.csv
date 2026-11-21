@@ -1,0 +1,409 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_svrash_1_1,难猜的人
+,,,,
+char-1,阿米娅,阿米娅,Amiya,Амия
+char-2,近卫干员,近卫干员,Guard Operator,Гвардеец
+char-3,Medic,Medic,Medic,Медик
+char-4,恩希欧迪斯,恩希欧迪斯,Enciodes,Энсиодес
+char-5,分公司经理,分公司经理,Branch Office Manager,Управляющий филиалом
+char-6,感染者员工？,感染者员工？,Infected Employee?,Инфицированный сотрудник?
+char-7,感染者员工,感染者员工,Infected Employee,Инфицированный сотрудник
+char-8,感染者员工A,感染者员工A,Infected Employee A,Инфицированный сотрудник A
+char-9,感染者员工B,感染者员工B,Infected Employee B,Инфицированный сотрудник B
+char-10,商业间谍,商业间谍,Commercial Agent,Коммерческий шпион
+char-11,？？？,？？？,???,???
+char-12,感染者员工们,感染者员工们,Infected Employees,Инфицированные сотрудники
+char-13,锏,锏,Degenbrecher,Дегенбрехер
+,,,,
+line-9,阿米娅,也就是说，那家喀兰贸易新成立的分公司的员工，并没有收到我们提供给他们的第一批镇痛剂是吗？,So you're saying the employees of the newly-established branch of Karlan Trade did not receive the first batch of pharmaceuticals we sent them?,"То есть сотрудники нового филиала «Каран Трейд» не получили первую партию обезболивающих, которую мы им отправили?"
+line-11,近卫干员,对。,Correct.,Да.
+line-13,阿米娅,……,......,...
+line-15,近卫干员,而且，这是我们的人在附近的黑市里偶然发现的。,"Also, our people found this in a nearby black market.","Более того, наши люди случайно нашли это на ближайшем чёрном рынке."
+line-17,阿米娅,这是……我们生产的镇痛剂，确认过编号吗？,This is... one of the analgesics we manufacture. You've cross-checked the serial number?,Это... обезболивающее нашего производства. Серийный номер проверяли?
+line-19,近卫干员,嗯，我特意找后勤部确认过，就是我们提供的那一批，基本上不用怀疑，就是有人把我们的药转手给卖了。,"Mhm. I specifically checked with the Logistics Department—it's the very same batch we sent. In short, there's no need for any guessing games: without a doubt, someone pawned off our medicine.","Да, я специально запросил логистический отдел — это именно та партия, что мы отправили. Сомнений почти нет: кто-то перепродал наши лекарства."
+line-21,阿米娅,……,......,...
+line-23,近卫干员,本来这种情况其实是不用请你和博士来的，这么干的公司不算少见，我们已经有一套比较成熟的应对方案了。,"We didn't originally plan on involving you or the Doctor. After all, companies doing stuff like this isn't exactly uncommon, and we have relatively robust procedures in place to deal with it.","Вообще-то в таких случаях мы бы не стали звать вас с Доктором. Подобные компании — не редкость, и у нас уже есть отработанная схема действий."
+line-24,近卫干员,只是，这次这家公司是喀兰贸易的分公司，所以我觉得还是要问一问你们两位的意见。,"But this time, we're dealing with one of Karlan Trade's branch offices, so we thought it'd be best to consult the two of you first.","Но на этот раз речь о филиале «Каран Трейд», поэтому я решил посоветоваться с вами обоими."
+line-26,阿米娅,嗯，我知道……崖心现在是我们的干员，而且喀兰贸易的订货量不小，无论从哪个角度来说，这件事都要小心应对。,"Mm, I understand... Cliffheart is one of our operators now, and we do a substantial amount of business with them. Regardless of the perspective we're coming from, this matter must be handled carefully.","Мм, я понимаю... Клиффхарт теперь наш оперативник, да и «Каран Трейд» закупает у нас немало. С любой точки зрения к этому надо подойти осторожно."
+line-28,阿米娅,问题的核心在于这是对方中层的独断行为，还是被他们的领导者默许的行为。,"The core issue is this: was this an arbitrary decision from the other party's middle management, or did it have the tacit approval of the higher-ups?","Главный вопрос: это самоуправство среднего звена или действия, одобренные молчаливым согласием их руководства?"
+line-30,阿米娅,Medic，和希瓦艾什先生的合约是你主持签订的，你觉得呢？,"Medic, you were a witness to the signing of the contract with Mr. Silverash. What do you think?","Медик, ты вела переговоры и подписывала договор с господином Сильверашем. Что думаешь?"
+line-32,Medic,嗯……很难讲呢。,Hmm... It's hard to say.,Мм... Трудно сказать.
+line-34,Medic,我们和喀兰贸易的交易已经持续了几个月，这笔大订单本身没有任何问题，他找到我们，希望购买镇痛剂，我们答应了，就这么简单。,"We've maintained business ties with Karlan Trade for months now. There was nothing out-of-place with this particular large-batch order either. He came to us wanting to buy medicine, and we agreed—simple as that.","Мы торгуем с «Каран Трейд» уже несколько месяцев. В самом этом большом заказе нет ничего подозрительного: он обратился к нам, захотел купить обезболивающие, мы согласились. Вот и всё."
+line-35,Medic,但是我们并不清楚他对于感染者的真实看法。而且从所谓的商业逻辑来说，他确实用钱从我们这里购买了镇痛剂。,"But we know nothing about how he actually views the Infected. And from the perspective of so-called business logic, he did in fact purchase this medicine from us with money.","Но мы не знаем, что он на самом деле думает об инфицированных. И с точки зрения так называемой коммерческой логики он и правда купил у нас лекарства за деньги."
+line-36,Medic,这一批镇痛剂已经是他的了，怎么处置是他的自由。,"It belongs to him now, and what he decides to do with it is up to him.","Эта партия уже принадлежит ему, и что с ней делать — его дело."
+line-37,Medic,只是对我们来说，这并不是用商业行为做借口就能盖过去的事就是了。,"As for us though, this is not something we can simply write off as a 'business practice'.","Но для нас это не то, что можно списать на «обычную коммерцию»."
+line-39,Medic,博士，你对这件事有什么看法吗？,"Doctor, how do you view the situation?","Доктор, как ты смотришь на всю эту ситуацию?"
+line-41,,希瓦艾什……是谁？;希瓦艾什，是个什么样的人？;希瓦艾什，真是个独特的姓氏……,Silverash? Who's that?;What kind of person is Silverash?;Silverash... What a unique surname...,"Сильвераш... кто это?;Сильвераш, что он за человек?;Сильвераш... какая необычная фамилия..."
+line-44,Medic,啊！我都忘了，那个时候博士你还不在呢。,Oh! I totally forgot; you weren't there at the time.,"Ах! Я совсем забыла — тогда тебя ещё не было, Доктор."
+line-45,Medic,瞧我，最近因为博士越来越可靠了，就下意识地感觉你什么都知道了……,Excuse me. You've become so reliable lately that I've started to subconsciously assume that you already know everything...,"Прости, в последнее время ты стал таким надёжным, что я невольно решила, будто ты знаешь всё..."
+line-47,阿米娅,希瓦艾什先生全名恩希欧迪斯·希瓦艾什，是喀兰贸易的总裁，也是我们的一大客户。,Mr. Silverash's full name is Enciodes Silverash. He's the president of Karlan Trade and one of our major clients.,Полное имя господина Сильвераша — Энсиодес Сильвераш. Он президент «Каран Трейд» и один из наших крупнейших клиентов.
+line-48,阿米娅,他好像一直希望为自己的感染者员工购买一定的人身保障，同时为自己感染了矿石病的妹妹，也就是崖心小姐寻求治疗。,"It seems he's always hoped to purchase a degree of personal protection for his Infected employees, as well as treatment for his younger sister who was infected with Oripathy.","Он всегда хотел обеспечить своих инфицированных сотрудников определённой защитой и найти лечение для сестры, заразившейся Орипатией, — мисс Клиффхарт."
+line-49,阿米娅,在联络了许多家医药公司后，最终找到了我们。,"After contacting several pharmaceutical companies, he finally found us.",Он обратился ко многим фармацевтическим компаниям и в конце концов нашёл нас.
+line-51,Medic,没错，他在这件事上很坚定，但也很谨慎。经过了很长一段时间的协商后，最终与我们签订了一份大订单。,"That's right. He was very firm about this, though cautious as well. After a lengthy negotiation, he finally placed a large order with us.","Верно. В этом вопросе он был очень твёрд, но и осторожен. После долгих переговоров он всё же подписал с нами большой заказ."
+line-52,Medic,他购买了一份囊括他所有员工的医疗保障协议，以及每家分公司都有的镇痛剂份额。,"He purchased a health insurance contract that covers all of his employees, as well as a supply of analgesics for each branch.",Он приобрёл договор медицинского страхования на всех сотрудников и долю обезболивающих для каждого филиала.
+line-53,Medic,因为镇痛剂只有在病发时能够起到作用，所以交给每家分公司的镇痛剂数量我们都做了分别统计。,"Because these analgesics are only effective at the disease's onset, we keep separate statistics on the amount delivered to each branch.","Поскольку обезболивающие действуют только во время приступа, мы отдельно учитывали количество препаратов для каждого филиала."
+line-54,Medic,以保证每个感染者员工每季度都能拿到一份镇痛剂，而且公司还有储备。,"This is to ensure that every employee has a quarterly supply of them, as well as to allow the company to hold reserves.",Чтобы каждый инфицированный сотрудник получал по одной дозе в квартал и чтобы у компании оставался запас.
+line-55,Medic,而这些都是他的要求。,Those were his demands.,Всё это были его требования.
+line-56,Medic,说真的，我是第一次见到有老板为了自己公司的感染者出手这么阔绰呢。,"To be honest, it was the first time I've seen an employer set aside this much money for Infected employees.","По правде говоря, я впервые вижу работодателя, который бы так щедро тратился на инфицированных сотрудников."
+line-57,Medic,至于这位总裁是什么人这一点……,As for the kind of person the president is...,"А что до того, кто он такой, этот президент..."
+line-63,,约一年前,One year ago,Около года назад
+line-69,Medic,您要一次订购……这么多吗？,You're going to order... this much at once?,Вы хотите заказать сразу... столько?
+line-71,恩希欧迪斯,没错。你们已经向我证明了你们的镇痛剂确实有效，我希望能为我所有的感染者员工都购买一份。,"That's right. You've proven to me that your analgesics work, and I mean to purchase a dose for each and every Infected in my employment.","Да. Вы доказали мне, что ваши обезболивающие действительно работают. Я хочу купить по дозе для каждого инфицированного сотрудника у меня на службе."
+line-72,恩希欧迪斯,相应的，我希望贵公司能够提供一个折扣。,"As such, I hope your company will be able to offer me a discount.","Соответственно, я надеюсь, что ваша компания сможет предоставить мне скидку."
+line-74,Medic,这……,Well...,Это...
+line-75,Medic,您的这笔订单在以往所有公司与我们签订的订单中都算是庞大的，原则上您希望有一个折扣也是理所当然的事。,"The size of this order is massive compared to anything else Rhodes Island has ever gotten. As a matter of principle, it's understandable that you'd want a discount.","По размеру ваш заказ крупнее всех, что мы когда-либо получали от компаний. По идее, желать скидки — естественно."
+line-76,Medic,但是，我们罗德岛生产药物的原材料也十分昂贵，其实算下来，一份镇痛剂的价格，和成本并没有相差太多。,"However, the raw materials used to produce these drugs are also very expensive. In fact, the price of one dose of analgesic is not much higher than the cost.","Но сырьё, из которого Родос делает лекарства, тоже очень дорогое. Если посчитать, цена одной дозы почти не отличается от себестоимости."
+line-78,恩希欧迪斯,如果你做不了主的话，可以请贵公司的领导人阿米娅小姐来与我商议。,"If you lack the authority to make this decision, then you can ask the head of your company, Miss Amiya, to speak with me.","Если вы не уполномочены решать этот вопрос, попросите руководителя вашей компании, мисс Амию, поговорить со мной."
+line-80,Medic,不，这件事我可以决定。,"No, I can make this decision.","Нет, я могу принять это решение."
+line-81,Medic,我想说的是——,What I wanted to say is––,Я хотела сказать —
+line-82,Medic,罗德岛生产的药物是为了帮助感染者而存在的。,Rhodes Island makes drugs to help the Infected.,"Лекарства Родоса существуют, чтобы помогать инфицированным."
+line-83,Medic,我希望您能够保证，这些药能够顺利地送到那些感染矿石病的员工手上。,I hope you can ensure that they're successfully delivered to those who need them.,"Я хочу, чтобы вы гарантировали: лекарства действительно дойдут до сотрудников, заражённых Орипатией."
+line-85,恩希欧迪斯,……,......,...
+line-87,恩希欧迪斯,Medic……小姐，贵公司似乎都是以代号互相称呼，我也入乡随俗吧。你接下来有空吗？,"Medic... Ma'am, your company seems to have a custom of calling each other by codenames, so I'd like to follow suit. Mind if I borrow you after this?",Медик... мадам. В вашей компании принято называть друг друга позывными — я последую вашему примеру. Вы свободны после этого?
+line-89,Medic,欸？,Huh?,А?
+line-96,Medic,这里是……,Where are we...,Где мы...
+line-98,恩希欧迪斯,我建立在这座城市的分公司。,A branch office I established in this city.,"Филиал, который я открыл в этом городе."
+line-100,分公司经理,总裁？！您怎么来了！,President?! What brings you here?,Господин президент?! Что вы здесь делаете!
+line-102,恩希欧迪斯,安排一下，我要见一见感染矿石病的员工们。,I want to meet with the Infected employees here. Make the arrangements.,Организуй это. Я хочу повидаться с инфицированными сотрудниками.
+line-109,Medic,那天，我就在现场和希瓦艾什先生一起把镇痛剂分给在那里工作的感染者。,"That day, I was able to witness Mr. Silverash personally distributing the analgesics to the Infected.","В тот день я была там и вместе с господином Сильверашем раздавала обезболивающие инфицированным, работавшим на месте."
+line-110,Medic,然后，随着我们合作的深入，他还将他的妹妹送来了罗德岛治病，也就是干员崖心小姐。,"Then, as our partnership deepened, he even sent his little sister to us for treatment—the very same Cliffheart who is now one of our operators.","А позже, когда наше сотрудничество углубилось, он отправил сестру на Родос лечиться — ту самую мисс Клиффхарт, что теперь стала оперативником."
+line-112,阿米娅,听起来他不像那些一看就是不太情愿地为自己的员工购买药物的老板。,He sounds nothing like those bosses who make it obvious that they don't want to spend a single cent paying for medicine for their Infected employees.,"Похоже, он не из тех работодателей, которые с неохотой покупают лекарства своим сотрудникам."
+line-114,Medic,是啊，说实话，亲自为员工分发药剂，哪怕只是作秀，这片大地上恐怕也没有几家公司的老板愿意做吧。,"Yeah. To be honest, even if what I saw was just a publicity stunt, there aren't many bosses in this world who would even bother putting on a show like that.","Да. Честно говоря, даже если бы это был просто пиар, вряд ли нашлось бы много руководителей, готовых лично раздавать препараты."
+line-117,,所以，你觉得这是这家分公司管理层的独断行为？,Leaning toward 'blame middle management' then?,"Так ты считаешь, что это самоуправство местного руководства?"
+line-120,Medic,……我不敢肯定。,I dare not say for sure.,...Я не осмелюсь утверждать это наверняка.
+line-121,Medic,我没有看透这个人，他给我的感觉就是那种完全猜不透在想什么的类型……,I couldn't get a good read on him. He gave me the impression of someone completely inscrutable...,"Я так и не раскусила его. Он из тех, у кого никогда не угадаешь мыслей..."
+line-122,Medic,我越觉得我应该相信他，就越会对自己敲响警钟。,"The more I started to trust him, the more the alarm bells in my head went off.","Чем больше мне хотелось ему верить, тем тревожнее звучали во мне сигналы."
+line-124,,我们需要确认一下他的想法。;我们需要小心行事。;不能忽视崖心的感受。,We need to confirm his true beliefs.;We need to be careful.;We can't ignore Cliffheart's feelings.,Нам нужно выяснить его настоящие взгляды.;Нам нужно действовать осторожно.;Нельзя игнорировать чувства Клиффхарт.
+line-127,Medic,但是，如果直接拿着这件事去找他谈判的话，我不认为他会直接承认。,I doubt he'd be all that forthcoming if we took this to him to negotiate directly.,"Но если мы придём к нему с этими фактами и потребуем объяснений, я не думаю, что он сразу признает свою вину."
+line-130,Medic,是啊，作为我们的大客户，同时也是崖心的哥哥……,"Right, considering he's both one of our major clients AND Cliffheart's brother...","Да, он и крупный клиент, и брат Клиффхарт..."
+line-131,Medic,稍有不慎，就会演变成大问题呢。,"If we aren't tactful, this could become a serious problem.",Один неосторожный шаг — и это может вырасти в серьёзную проблему.
+line-134,Medic,是啊，在没有直接证据的情况下，武断地和喀兰断绝关系，崖心的处境会很尴尬……我也不希望被她记恨呢。,"Right. If we were to arbitrarily cut off ties with Karlan Trade without hard evidence, that would be an extremely awkward situation for Cliffheart... and I don't want her to resent us.","Да. Если мы без прямых доказательств грубо порвём с «Каран Трейд», Клиффхарт окажется в неловком положении... И я не хочу, чтобы она на нас обиделась."
+line-137,Medic,所以，博士，我们应该怎么做？,"So, what should we do, Doctor?","Так что же нам делать, Доктор?"
+line-139,,我有一个想法。,I have an idea.,У меня есть идея.
+line-149,分公司经理,好了，上午的工作就到这里了。,"Alright, morning's over.","Ладно, на утреннюю смену хватит."
+line-150,分公司经理,休息时间一小时，所有人排好队，按顺序领饭。,"You have a one hour lunch break. Line up for your meals, and keep it orderly.",Перерыв час. Все встаньте в очередь и получайте еду по порядку.
+line-152,感染者员工？,（低声）呼……按照博士的要求混了进来，接下来就是四处看看了。,"(*whispers*) Phew... I managed to blend in, just as the Doctor requested. Now to take a look around...",(Шёпотом) Фух... Я проник сюда по просьбе Доктора. Теперь надо всё осмотреться...
+line-154,感染者员工,哥们，你是新来的吧？,"Brother, are you new here?","Брат, ты новенький?"
+line-156,感染者员工？,啊，对。,"Ah, yes.","А, да."
+line-158,感染者员工,那你算是来对了，我们这家公司，对感染者待遇算不错了。,Then you've come to the right place. Our company treats the Infected pretty well.,Тогда ты попал в нужное место. Наша компания неплохо относится к инфицированным.
+line-160,感染者员工？,唉……我就是听说这家公司对感染者不算差才想来试一试的。,"Yeah... I heard the same thing, and wanted to see for myself.","Да... Я и слышал, что здесь к инфицированным относятся неплохо, и решил попробовать."
+line-161,感染者员工？,所以照你这么说，这家公司真的挺不错的？,"So, in your experience, is it really all it's cracked up to be?","Так, по-твоему, здесь и правда хорошо?"
+line-163,感染者员工,是啊，我以前是在另一个厂房工作的，得病了之后被调到这个专门让感染者员工工作的厂房来。,"Yeah. I actually used to work at a different factory. After I got sick, I was transferred here, which is specifically for Infected employees.","Да. Раньше я работал на другом заводе, а когда заболел, меня перевели сюда — на участок специально для инфицированных."
+line-164,感染者员工,本来以为会跟听说的那样，大公司的感染者岗位都不是一般人能坚持下来的。,"At first I thought it'd be like the stuff you always hear about. Y'know, about how ordinary people wouldn't last a week in the conditions Infected workers had to deal with.","Я думал, будет как в тех историях: мол, обычный человек на таких местах в большой компании долго не продержится."
+line-165,感染者员工,结果比我想象的好了不少……,But turns out it was a lot better than I expected.,"А оказалось намного лучше, чем я ожидал..."
+line-166,感染者员工,而且希瓦艾什总裁还从一家医药公司给我们买了对矿石病有效果的镇痛剂……,"Plus, President Silverash personally bought us Oripathy painkillers from some drug company...","И президент Сильвераш ещё купил нам у какой-то фармацевтической компании обезболивающие, помогающие при Орипатии..."
+line-167,感染者员工,经理说了，每个月业绩最好的人可以得到一份。,The manager says the person with the best monthly performance gets a dose.,"Управляющий сказал, что по одной дозе получает тот, у кого лучшие показатели за месяц."
+line-168,感染者员工,这样的老板上哪儿去找？,Where else could you find a boss like that?,Где ещё найдёшь такого работодателя?
+line-170,感染者员工？,……,......,...
+line-177,分公司经理,听着，过两天希瓦艾什总裁要来这边视察。,"Listen up, President Silverash will be coming for an inspection in two days.","Слушайте, через два дня господин Сильвераш приедет сюда с инспекцией."
+line-178,分公司经理,你们两个平时还算机灵，我打算让你们作为代表见一见总裁，知道自己该怎么做吧？,"You two are pretty quick thinkers, so I'll have you greet him. You already know how to behave, yes?","Вы двое соображаете быстрее других. Я позаботился о том, чтобы вы встретили президента как представители. Вы знаете, как себя вести?"
+line-180,感染者员工A,当然当然，总裁愿意给我们工作我们已经感恩戴德了，哪敢说些别的。,"Yeah, of course. He's already doing so much for us, we wouldn't dare ask for anything more.","Конечно-конечно. Мы и так благодарны, что он даёт нам работу, — разве мы посмеем что-то сказать?"
+line-182,感染者员工B,就是，光是现在这样的工作在别的地方想都不敢想……,That's right. No way I'd find any other job as good as this one.,"Вот именно. О такой работе, как здесь, в другом месте и мечтать не приходится..."
+line-184,感染者员工A,所以您看……,So...,"Так что, видите ли..."
+line-186,分公司经理,哼，这两支镇痛剂，赏你们的。,"Hmph. Here, these painkillers are for you.",Хм. Вот две дозы — награда вам.
+line-188,感染者员工A,谢谢经理，谢谢经理。,"Thank you, thank you, thank you so much.","Спасибо, господин управляющий. Спасибо!"
+line-190,分公司经理,这些药的去向……,And who received the medication?,А кому достались остальные лекарства?
+line-192,感染者员工B,我们人人都收到了药剂！,Everyone! Everyone got some!,Мы все получили по дозе!
+line-194,分公司经理,知道就好，行了，都滚吧。,"As long as you understand. Alright, now out of my sight.","Помните это. Ладно, убирайтесь."
+line-196,感染者员工A,您走好。,"Yes, please excuse us.",Провожаем вас.
+line-198,感染者员工B,我们这就滚。,"Yes, we'll do just that... We won't bother you...",Мы уже уходим.
+line-206,感染者员工A,呸，真不是东西，自己把药都私吞了，还逼我们配合他欺骗总裁。,"*spits* What a disgrace... We took all that medicine ourselves, and now we have to lie to the president for him.","Тьфу, мерзавец. Сам всё прибрал, а нас заставляет лгать президенту."
+line-208,感染者员工B,能怎么办？你敢去向总裁检举？,What choice do we have? Would YOU report that to the president?,Что поделаешь? Ты посмеешь донести на него президенту?
+line-210,感染者员工A,……不敢。,No...,...Не посмею.
+line-212,感染者员工B,我也不敢，谁知道总裁走了会是个什么样。,Me neither. Who knows what he's like behind closed doors?,"И я нет. Кто знает, каким он будет, когда уйдёт?"
+line-213,感染者员工B,而且也不知道总裁是不是真的会向着我们。,We don't even know if he'd side with us.,"И неизвестно, встанет ли он вообще на нашу сторону."
+line-215,感染者员工A,哪里会有向着感染者的公司老板啊。,A boss who sides with the Infected? Pull the other one.,"Где ты видел работодателя, который бы держал сторону инфицированных?"
+line-217,感染者员工B,就算是这样，刚才有句话倒是真的，在这里的工作也已经是别的地方想都不敢想的了。,"Still, it's true that we'll never find another gig as good as this place.","Даже так — в том, что он сказал, есть доля правды: о такой работе, как здесь, в другом месте и не мечтай."
+line-219,感染者员工A,……唉，虽然对不起其他兄弟，但也只能听他的了。,"Yeah... I feel bad for our brothers, but what else can we do?","Увы, хотя перед остальными ребятами неловко, приходится его слушаться."
+line-221,感染者员工B,嗯。这药，你打算怎么办？,"Mm. So, what're you gonna do with the medicine?",Мм. Что ты сделаешь со своей дозой?
+line-223,感染者员工A,我老婆在我得病后就跑了，丢下我和女儿两个人，我得给自己留着……,"My wife ditched me after I got sick, leaving me alone with our daughter. I'd better keep it for myself...","Жена ушла от меня, как только я заболел, оставила меня с дочерью. Мне надо оставить её себе..."
+line-225,感染者员工B,你也是辛苦了。,"Blimey, you've got it rough too.",Тебе тоже досталось.
+line-227,感染者员工A,你呢？,And you?,А ты?
+line-229,感染者员工B,我就留着了。,I'll hold onto it for now.,Я пока оставлю её у себя.
+line-230,感染者员工B,这药好像只有在病发的时候有抑制疼痛的作用，本身对病情也没什么帮助。等其他人哪个病情发作了，我再给他用。,"Seems like it's only good for suppressing the pain when the disease flares up, but won't actually cure anything. So I'll save it for someone else in an emergency.","Кажется, это лекарство только глушит боль при приступе, а на саму болезнь не влияет. Я сохраню его для того, у кого случится приступ."
+line-232,感染者员工A,……没想到你这么大方。,Never figured you for the generous sort.,...Не ожидал от тебя такой щедрости.
+line-234,感染者员工B,都是可怜人，真看别人痛不欲生你就过意得去？,"We're all suffering here. I mean, it's not like you're some kinda sadist getting a kick out of it, right?","Мы все несчастные люди. Неужто ты спокойно смотришь, как другой мучается?"
+line-236,感染者员工A,……自己的命都顾不上，哪还顾得上别人。,"But if you can't take care of yourself, don't even think about taking care of others.","...Когда самому не выжить, не до других."
+line-244,感染者员工？,博士，你通过通讯器也都听到了。,"Doctor, you heard that through the communicator, right?","Доктор, вы всё слышали через коммуникатор, верно?"
+line-245,感染者员工？,唉，这种事，真是到哪里都一样。,"Yeah, it's the same everywhere you go.","Увы, где бы ни был — везде одно и то же."
+line-246,感染者员工？,虽然在维多利亚，在员工因为工作不慎感染矿石病后，一些公司也会继续提供岗位给感染者。,"Although in Victoria, some companies will continue employing the Infected if they accidentally contract Oripathy in the line of work.","Хотя в Виктории, если сотрудник случайно заразился Орипатией на работе, некоторые компании оставляют инфицированным их места."
+line-247,感染者员工？,但是，这些岗位和要感染者给他们干白工几乎没有区别。,Not that those jobs are much different from slavery.,"Но эти места почти ничем не отличаются от того, чтобы заставлять инфицированных работать задаром."
+line-248,感染者员工？,一些贵族还整天把这些事情拿出来说，仿佛这就是维多利亚贵族的优雅一样。,"Some nobles like to prattle on about these arrangements, as if it's some kind of Victorian largesse.","Некоторые дворяне только и делают, что хвастаются этим, будто в этом и заключается викторианская изысканность."
+line-249,感染者员工？,说白了，没有多少公司真的愿意为感染者花钱，也没有多少人会因为虐待感染者真的受到处罚。,"To put it bluntly, not many companies are willing to spend money on the Infected, and those who exploit them get away with a slap on the wrist at worst.","Проще говоря, немного найдётся компаний, готовых реально тратить деньги на инфицированных, и немногие из тех, кто их угнетает, понесут настоящее наказание."
+line-250,感染者员工？,啧。,Tch.,Цк.
+line-251,感染者员工？,不过，根据这些天我潜伏下来的结果来看，感觉这个恩希欧迪斯总裁倒确实挺厉害的。,"However, judging from the few days I've spent undercover, this President Enciodes seems like quite the capable guy.","Но за эти дни, пока я здесь под прикрытием, я убедился: этот президент Энсиодес — человек действительно незаурядный."
+line-252,感染者员工？,几乎白手起家，短短几年时间就把喀兰贸易这家公司做到了在维多利亚有好几家分公司的地步。,"In just a few years, the Karlan Trade Company went from practically nothing to even having several branch offices in Victoria.","Почти с нуля за несколько лет он довёл «Каран Трейд» до того, что в Виктории у него несколько филиалов."
+line-253,感染者员工？,而且，对感染者好像也不差。,"Plus, their treatment of the Infected actually seems half-decent.","И к инфицированным, похоже, относится неплохо."
+line-254,感染者员工？,和我们的订单就不用说了，这家公司的感染者岗位待遇基本算是我见过的最好的了。,"Our contractual conditions aside, the way the company treats its Infected is better than any I've seen before.","Не считая нашего контракта, условия для инфицированных в этой компании — лучшие, что я видел."
+line-255,感染者员工？,也难怪这里的感染者员工好像都挺佩服他的。,No wonder they all seem to admire him here.,"Неудивительно, что инфицированные здесь им восхищаются."
+line-257,,这只能证明……他很懂管理学。;这和他会转卖镇痛剂并不矛盾。,That only proves his management skills.;He could still have scalped the drugs.,"Это лишь говорит о том, что он разбирается в управлении.;Это не противоречит тому, что он перепродаёт обезболивающие."
+line-259,感染者员工？,这倒……也是。,That's... true.,Это... верно.
+line-260,感染者员工？,我懂了，博士。也就是说，我们需要一些决定性的证据。,"Understood, Doctor. So you're saying we need conclusive evidence.","Понял, Доктор. Нам нужны неопровержимые доказательства."
+line-262,,镇痛剂的去向。,Where the drugs ended up.,Куда делись обезболивающие.
+line-264,感染者员工？,没错！,Exactly!,Именно!
+line-275,商业间谍,迪亚特先生，好久不见。,"Long time no see, Mr. Dyott.","Господин Диаят, давно не виделись."
+line-277,分公司经理,莱顿先生！确实是有一段时间没见了。,Mr. Leyton! It certainly has been a while!,Господин Лейтон! И правда давно!
+line-279,商业间谍,这段时间过得可好？,How have you been?,Как поживали всё это время?
+line-281,分公司经理,哎呀，托你的福，睡得香，吃得好，自在得很。,"Ahh, thanks to you, I've been able to eat well and sleep soundly. Not a worry to be found.","О, благодаря тебе — сплю хорошо, ем неплохо, живу припеваючи."
+line-283,商业间谍,哈哈，那就好！,"Haha, I'm glad to hear that!","Ха-ха, рад слышать!"
+line-284,商业间谍,那么，不知道我要的东西……,"Um, about the thing I requested...","Так, о том, что я просил..."
+line-286,分公司经理,你放心，镇痛剂都在箱子里了。,No worries. The painkillers are all in that box over there.,"Не волнуйся, обезболивающие все в ящике."
+line-288,商业间谍,好，好！不愧是迪亚特先生。,"Good, good! I'd expect nothing less from you, Mr. Dyott.","Хорошо, хорошо! Достоин своего имени, господин Диаят."
+line-289,商业间谍,哦？这一批，数量比我想的要少一些啊？,Hmm? Isn't this batch... a bit smaller than it's supposed to be?,"О? В этой партии меньше, чем я ожидал?"
+line-291,分公司经理,这段时间是淡季，没有那么多感染者来上工。不过我们公司嘛，你也知道，感染者之间很出名，胜在稳定。,"We're in an off-season right now, so fewer Infected are showing up for work. But as you know, our company is quite renowned among their kind. Consistency is key.","Сейчас мёртвый сезон — меньше инфицированных выходит на работу. Но наша компания, ты знаешь, известна среди них — тем и берём, что стабильна."
+line-293,商业间谍,懂的懂的。,"I know, I know.",Понимаю-понимаю.
+line-295,分公司经理,而且，我也不瞒你，和往常一样，我留了一些。我也没有那么狠心，感染者也要生活的嘛！,"I'm not trying to hide anything from you. I kept some for myself, as usual. I'm not that cold-blooded, the Infected DO need to survive, after all!","И, не буду скрывать, как обычно, я оставил себе немного. Я не настолько чёрствый — инфицированным тоже надо жить!"
+line-297,商业间谍,说得是啊，啧啧，像您这样真心愿意为感染者着想的领导，时下可真是难找了。,"Ah, you have a point. Tsk, tsk. Leaders like you who are still truly willing to look out for the Infected are a rare find these days.","И верно. Тсс, тсс. Такого руководителя, который бы и правда думал об инфицированных, нынче поискать."
+line-299,分公司经理,不不不，相信我，莱顿先生，这是一种新的趋势，一种名为文明的趋势。,"No, no. Trust me, Mr. Leyton, this will be the latest trend, one of civility.","Нет-нет, поверь мне, господин Лейтон, это новый тренд — тренд под названием «цивилизованность»."
+line-300,分公司经理,乌萨斯的那些野蛮人只知道把感染者抓起来杀了，这真是太落后了。,Those backwards Ursus savages only know how to hunt and kill the Infected. How primitive.,Эти дикари в Урсусе умеют только ловить инфицированных и убивать их. Какая отсталость.
+line-301,分公司经理,而即使是维多利亚的同行们，大多也只知道一味地压榨感染者，这真是太不文明了。,And even most of our Victorian colleagues only know how to squeeze them bone-dry. How terribly uncivilized.,"Даже наши викторианские коллеги по большей части только и знают, что выжимать из инфицированных соки. Это совсем не цивилизованно."
+line-302,分公司经理,感染者又不是动物，他们也听得懂人话。适当地给他们一些奖励，他们就会更加辛勤地工作。,"The Infected are not animals. They understand language. Reward them appropriately, and they'll work even harder.",Инфицированные не животные. Они понимают человеческую речь. Дай им какую-то награду — и они будут работать усерднее.
+line-303,分公司经理,我们这样，既善待感染者，又有生意做，才是更加文明的方式嘛！,"This way, we can show kindness to the Infected while also furthering our business. What could be more enlightened?","Вот так: и к инфицированным хорошо относимся, и бизнес идёт. Это и есть цивилизованный подход!"
+line-305,商业间谍,说得太对了！要好好感谢维多利亚这个文明的国家，还有我们善待感染者的恩希欧迪斯总裁才行！,"You're exactly right! Praise to the civilized land of Victoria, and praise to President Enciodes, who treats the Infected with compassion!","Именно! Нужно благодарить цивилизованную страну Викторию и нашего президента Энсиодеса, который так хорошо относится к инфицированным!"
+line-307,分公司经理,敬文明！,Praise to civility!,За цивилизацию!
+line-309,商业间谍,敬文明！,Praise to civility!,За цивилизацию!
+line-311,感染者员工？,……我，他……要不是现在不能暴露，我真想现在就冲上去把这两个混账狠狠揍一顿。,"Ugh, I... If I didn't have to worry about blowing my cover, I would seriously rush over and beat the shit out of those two slimy bastards.","...Я бы... если бы сейчас нельзя было раскрыться, я бы уже подскочил и как следует отдубасил этих двух мерзавцев."
+line-312,感染者员工？,不过，这样至少能够确认，恩希欧迪斯总裁确实没有参与其中了。,But at least this confirms that President Enciodes isn't personally involved.,Но хоть это подтверждает: президент Энсиодес и правда не участвует в этом.
+line-313,感染者员工？,哼，你们肯定想不到，你们虚伪至极的话已经完全被我录下来了。,Hmph. Bet they never expected to have each and every one of their hypocritical words captured on record.,"Хм. Ни за что не подумаете, что я записал каждое ваше лицемерное словечко."
+line-315,分公司经理,敬镇痛剂！,Praise the painkiller!,За обезболивающие!
+line-317,商业间谍,敬镇痛剂！,Praise the painkiller!,За обезболивающие!
+line-320,感染者员工？,嘶……呼……忍住，我要忍住，要把这一段全部录下来才行。,"*sharp inhale*... Phew, hold it in... Hold it in... I have to record all this.","Хм... фух... Держись, держись. Нужно записать всё до конца."
+line-328,感染者员工？,博士，这样证据应该足够了。,"Doctor, this should be sufficient proof.","Доктор, доказательств должно быть достаточно."
+line-329,感染者员工？,虽然给你发了一份，不过建议你不要多听，容易晚上睡不着。,"I sent you a copy, but I wouldn't recommend listening to it too often, if you enjoy sleeping at night.","Я отправил вам копию, но советую не слушать её слишком часто — а то ночью не уснёте."
+line-331,,放心。;习惯了。;一群人渣。,I'll be fine.;I'm used to it.;Scumbags. The whole lot of them.,Не волнуйтесь.;Я привык.;Одни негодяи.
+line-333,感染者员工？,那么，接下来就是告诉恩希欧迪斯总裁这一切了。,"So, the next step is to tell President Enciodes about everything that's going on.",Тогда следующий шаг — рассказать обо всём президенту Энсиодесу.
+line-334,感染者员工？,博士，怎么办？,What's the plan?,"Доктор, что делать?"
+line-336,,不是说，过几天，他会来这座城市视察。,He's coming for inspection in two days.,Он же через несколько дней приедет в этот город с проверкой.
+line-345,感染者员工A,哎，你听说没有，昨天希瓦艾什总裁好像来到我们这座城市了。,"Oh, did you hear? Apparently, the president arrived in the city yesterday.","Эй, слышал? Кажется, вчера президент Сильвераш приехал в наш город."
+line-347,感染者员工B,真的？我听说他会来厂房这边转一转。,Really? Word is he's planning a look around the factory.,"Правда? Я слышал, он должен заглянуть на завод."
+line-349,感染者员工A,没错。,"Yeah, that's right.",Да.
+line-351,感染者员工B,太好了，我一直想见见开了这家公司的希瓦艾什总裁是个什么样的人物。,Wonderful! I've always wanted to meet the guy who started this company.,"Отлично! Я всегда хотел посмотреть, что за человек этот Сильвераш, основавший компанию."
+line-354,感染者员工A,那你……,"So, you...",Так ты...
+line-357,感染者员工？,呃……啊……,Ngh... Argh...,М-м... ах...
+line-359,感染者员工,怎么了？！,What's wrong?!,Что случилось?!
+line-362,感染者员工？,救命……我的矿石病病发了！,Help... My Oripathy's acting up!,Помогите... У меня приступ Орипатии!
+line-364,感染者员工,什么？！,What?!,Что?!
+line-365,感染者员工,啧，要是这人爆炸就完了，我可不想死！,"Tch, if this guy blows up, I'm done for too!","Чёрт, если он взорвётся — конец! Я умирать не хочу!"
+line-371,感染者员工？,……,......,...
+line-372,感染者员工？,总之，做戏做全套，去大闹一场吧。,"In other words, put on a show and make sure word reaches the whole city.","В общем, доведём представление до конца — устроим настоящий переполох."
+line-379,分公司经理,总裁，这是上个季度的报表，您请过目。,"President, this is our statement from the last quarter. Please take a look.","Господин президент, это отчёт за прошлый квартал. Пожалуйста, ознакомьтесь."
+line-385,恩希欧迪斯,嗯。,Mm.,Мм.
+line-387,分公司经理,然后，您如果要参观公司的话，我特意找了几个感染者员工的代表还有一般员工的代表来为您带路。,"Afterward, if you wish to take a look around the facilities, I've specifically invited a few representatives from both our Infected and ordinary employees to give you a tour.","Затем, если вы захотите осмотреть компанию, я пригласил нескольких представителей — и среди инфицированных, и среди обычных сотрудников — чтобы они вас провели."
+line-388,分公司经理,比起我，还是他们给您说一些公司的东西更有说服力。,Surely they'll be able to tell you more of the ins-and-outs of working here than I can.,"Они расскажут вам о компании куда убедительнее, чем я."
+line-391,感染者员工A,总裁好。,"Hello, Mr. President.","Здравствуйте, господин президент."
+line-393,感染者员工B,总裁您好。,"Good day, Mr. President.","Добрый день, господин президент."
+line-395,恩希欧迪斯,排练了几次？要特意给我看的东西真的已经准备好了吗？,How many times have you rehearsed this? Have you finished preparing what you want me to see?,"Сколько раз репетировали? Вы и правда подготовили то, что хотели мне показать?"
+line-397,分公司经理,呃……这……,Um... Uh...,Э-э... Это...
+line-399,恩希欧迪斯,迪亚特，我并不在乎你对我隐瞒了多少，我只在乎，你拿出了多少成绩。,"Dyott, I don't particularly care what you're trying to hide from me. All I care about are the results.","Диаят, мне неважно, сколько ты от меня скрыл. Меня интересует только, каких результатов ты добился."
+line-401,恩希欧迪斯,只是，如果你打算欺骗别人，就不要轻易让人看出来。,"A word of advice though—if you plan on deceiving someone, don't make it so obvious.","Но если ты собираешься обманывать людей, старайся, чтобы это не было так заметно."
+line-403,分公司经理,……是。,...Yessir.,"...Да, сэр."
+line-405,恩希欧迪斯,你们是在喀兰贸易工作时感染的吗？,Did you become Infected while working for our company?,"Вы заразились, работая в «Каран Трейд»?"
+line-407,感染者员工A,我是，总裁。,"I did, Mr. President.","Да, господин президент."
+line-409,感染者员工B,我是听说这里待遇好才来的。,I joined after hearing that the Infected are treated well here.,"Я пришёл, потому что слышал, здесь хорошо обращаются с инфицированными."
+line-411,恩希欧迪斯,你们觉得喀兰贸易如何？,What do you think of Karlan Trade?,Что вы думаете о «Каран Трейд»?
+line-413,感染者员工A,我觉得这里的待遇真的挺好的。,I think I've definitely been treated well here.,"Я считаю, что здесь к нам и правда хорошо относятся."
+line-415,感染者员工B,我也这么想。,I agree.,И я так думаю.
+line-417,恩希欧迪斯,另外……,More to the point...,И ещё...
+line-421,？？？,闪开！,Out of the way!,Расступитесь!
+line-423,分公司经理,那边在吵什么？,What's the commotion?,Что там за шум?
+line-428,感染者员工？,让开，让开！,"Lemme through, lemme through!","Дайте дорогу, дайте!"
+line-430,分公司经理,我记得你是新来没多久的……你到这里来干什么，没看到总裁在这里吗！,"If I remember correctly, you're one of the new hires... What exactly do you think you're doing? Can't you see that the president is here?","Помнится, ты недавно поступил... Что ты здесь делаешь? Не видишь, президент здесь?!"
+line-432,感染者员工？,您就是恩希欧迪斯总裁吗？救救我，我的身体出了问题，我需要药！,"Are you President Enciodes? H-help me, there's something wrong with my body! I need medicine!","Вы Энсиодес Сильвераш? Помогите! Мне плохо, мне нужно лекарство!"
+line-434,恩希欧迪斯,药剂应该已经来到了你们的手上。,The medicine should already have been handed out.,Лекарства должны были уже дойти до вас.
+line-437,感染者员工？,没有啊，我什么都没收到！,What? I didn't get anything!,Нет! Я ничего не получил!
+line-439,恩希欧迪斯,……,......,...
+line-441,感染者员工？,……,......,...
+line-450,感染者员工？,博士，你要我假装矿石病病发，然后去找希瓦艾什总裁？,You want me to pretend that I'm suffering from an acute episode of Oripathy in front of President Silverash?,"Доктор, вы хотите, чтобы я изобразил приступ Орипатии и пошёл к господину Сильверашу?"
+line-452,,那时候，他的身边没有我们的人。;在没有外人时，一个人的反应很难作假。,"That way, none of our people will be present.;With no outsiders, we'll see his honest reaction.",Тогда рядом с ним не будет ни одного нашего человека.;Без посторонних реакцию человека не подделать.
+line-454,感染者员工？,原来如此，用这种方法来确认希瓦艾什总裁对感染者的真实看法吗……,I see. So that's how we'll find out how he truly sees the Infected...,"Понятно. Так мы проверим, что господин Сильвераш на самом деле думает об инфицированных..."
+line-464,恩希欧迪斯,……不用紧张，你会没事的。,"Don't worry, you'll be fine.","...Не волнуйся, с тобой всё будет хорошо."
+line-465,恩希欧迪斯,迪亚特，拿药来。,"Dyott, bring out the medicine.","Диаят, принеси лекарство."
+line-467,分公司经理,是、是！,R-right away!,С-Слушаюсь!
+line-469,感染者员工？,您不怕我吗……,You're not afraid of me...?,Вы не боитесь меня...?
+line-471,恩希欧迪斯,你是喀兰贸易的员工，我为什么要怕你？,You're my employee. Why would I be afraid of you?,Ты сотрудник «Каран Трейд». С чего мне тебя бояться?
+line-473,感染者员工A,总裁竟然会这么亲切地对待感染者，我从没见过这样的人……,"To think that the president would treat an Infected so kindly, even in person... I've never met anyone like him...",Президент так тепло отнёсся к инфицированному... Я никогда такого не видел...
+line-475,恩希欧迪斯,只要加入喀兰贸易，就都是我的员工，感染者与否，我并不在乎。,"As long as you're with Karlan Trade, you're all my employees. Infected or not, it makes no difference to me.","Раз ты в «Каран Трейд» — ты мой сотрудник. Инфицирован ты или нет, мне без разницы."
+line-477,恩希欧迪斯,比起这个，应当分发给这位员工的镇痛剂呢？,"More importantly, shouldn't the analgesic have already been distributed to him?","Гораздо важнее: где обезболивающее, которое должны были выдать этому сотруднику?"
+line-479,分公司经理,这……哈哈，对了，他是新入职的，还没有轮到他呢！,"That... Haha... Right, it's because he's a new hire... It wasn't his turn yet!","Это... ха-ха! Он новенький, до него ещё очередь не дошла!"
+line-481,恩希欧迪斯,谎言还不够高明，迪亚特，每批次额外的配给就是为了应对这种情况。,Is that the best lie you could come up with? Each batch has extras rationed in precisely for this situation.,"Не очень-то хитрая ложь, Диаят. Дополнительная доля в каждой партии как раз на такой случай и предназначена."
+line-483,感染者员工？,总裁，迪亚特，他……根本没有给员工分发镇痛剂，我这里，有证据……,"President, Dyott, he... didn't distribute medicine to the employees at all. Here, I have proof.","Господин президент, Диаят... он вообще не раздавал обезболивающие сотрудникам. У меня есть доказательства..."
+line-485,恩希欧迪斯,哦？,Oh?,О?
+line-489,,感染者员工挣扎着从服装里掏出一支笔一样的装置，随着他轻轻一按，酒吧中，迪亚特与莱顿的对话清晰地被再现了出来。,The Infected employee struggled to produce a pen-like device from his clothing and gave it a light tap. From it flowed the conversation between Dyott and Leyton at the bar.,"Инфицированный с трудом вытаскивает из-под одежды устройство, похожее на ручку. Он легко нажимает — и разговор Диаята и Лейтона в баре воспроизводится совершенно отчётливо."
+line-496,分公司经理,你、你是什么时候！,Wh-when did you––!,Ты... когда ты это —?!
+line-499,感染者员工A,……迪亚特，你这混蛋！,"Dyott, you bastard!","...Диаят, ты мерзавец!"
+line-500,感染者员工A,总裁，迪亚特总经理根本没有向所有感染者员工发放镇痛剂，不仅如此，他还欺骗所有人说镇痛剂只给业绩最好者发放！,"President, General Manager Dyott did not distribute the painkillers to the Infected employees at all! What's worse, he deceived everyone by saying that painkillers would only be given to the best performers!","Господин президент, генеральный директор Диаят вообще не раздавал обезболивающие инфицированным! Более того, он всем говорил, что дозы получают только лучшие по показателям!"
+line-502,分公司经理,你！,You—!,Ты!
+line-504,感染者员工B,别冲动啊！,Calm down!,Не горячись!
+line-506,感染者员工A,总裁对这个感染者这么好，我今天也豁出去了！,"After seeing how kindly the president treated an Infected, I can't keep quiet anymore!","Раз президент так отнёсся к инфицированному, я сегодня тоже рискну!"
+line-508,感染者员工A,不仅这样，他还违背了员工手册上的条例，压缩我们的休息时间，让我们不停地工作！,"Not only that, he violated the employee handbook by squeezing our breaks and making us work nonstop!","Мало того, он нарушал правила внутреннего распорядка: сокращал нам перерывы и заставлял работать без остановки!"
+line-509,感染者员工A,虽然他怕做得太过火被您发现，所以一直控制在一个度上，但是他确实做了这些事，您随便找一个这里的人问问都知道！,"He may not have gone overboard, to keep you from finding out, but he's definitely guilty! Just ask anyone here!","Он боялся зайти слишком далеко и попасться вам, поэтому держался в рамках. Но всё это он делал — спросите кого угодно!"
+line-511,恩希欧迪斯,……,......,...
+line-513,感染者员工B,……啧。,Tch...,...Цк.
+line-515,感染者员工B,他说的没错，总裁！迪亚特总是把自己当成我们的救星，侮辱我们，逼迫我们服侍他，这个人就是个彻底的混蛋！,"He's telling the truth, President! Dyott acts all high-and-mighty like he's our savior, humiliating us and forcing us to serve him! He's a rotten bastard, through and through!","Он говорит правду, господин президент! Диаят всё время изображает из себя нашего спасителя, унижает нас, заставляет прислуживать. Он законченный негодяй!"
+line-518,分公司经理,你们！,How dare you!,Вы!
+line-520,感染者员工B,他还要把药留着照顾女儿，这里就用我的这份镇痛剂吧，总裁！,"My friend here still needs some medication for his daughter, so use my dose, President!","Ему нужно оставить лекарство для дочери — используйте мою дозу, господин президент!"
+line-522,恩希欧迪斯,……我知道了。,I understand.,...Я понял.
+line-523,恩希欧迪斯,你的好意，我就心领了。,I appreciate your kindness.,Я ценю твою доброту.
+line-524,恩希欧迪斯,不过，这位员工的矿石病病情还很危险，以防万一，这里交给我处理就好。,"However, this employee's Oripathy symptoms are quite dangerous. I'll handle the situation myself, just in case.",Но состояние этого сотрудника всё ещё опасно. На всякий случай я сам разберусь с этим.
+line-526,感染者员工A,但这样您不就危险了吗！,But then you'll be exposing yourself to danger!,Но вы же сами подвергнетесь опасности!
+line-528,恩希欧迪斯,相信我。,Trust me.,Доверься мне.
+line-530,感染者员工B,……我知道了，我相信您。,"Alright, I trust you.",...Хорошо. Я вам доверяю.
+line-532,感染者员工A,……我也相信您！今天发生的事，我这辈子都不会忘记的！,Me too! I'll never forget what happened today!,"...И я доверяю! Я никогда не забуду, что случилось сегодня!"
+line-534,恩希欧迪斯,去吧，离这里远一些。,"Go. Get away from here, the further the better.",Идите. Уходите отсюда подальше.
+line-547,感染者员工？,（低声）这就是恩希欧迪斯·希瓦艾什……好厉害的人……,(*whispers*) So this is Enciodes Silverash... What an incredible man...,"(Шёпотом) Так вот он каков, Энсиодес Сильвераш... Невероятный человек..."
+line-549,分公司经理,总、总裁……,P-President...,Г-Господин президент...
+line-551,恩希欧迪斯,别紧张，迪亚特。,"Don't be nervous, Dyott.","Не нервничай, Диаят."
+line-553,恩希欧迪斯,身为管理者，你应当了解，该向你的下属展现哪一面，又要将哪一面藏起来。,"As a manager, you should understand which side to let your subordinates see, and which side should stay hidden.","Будучи руководителем, ты должен знать, какую сторону показывать подчинённым, а какую скрывать."
+line-554,恩希欧迪斯,无论你要施恩还是威慑，都应当确保你的对象不会背叛你。,"Whether through currying favor or issuing threats, you should have ensured that your collaborators would never betray you.","Хочешь ли ты заручиться их преданностью или запугать их — ты должен быть уверен, что они тебя не предадут."
+line-555,恩希欧迪斯,像刚才那两个人，很显然，你的威慑仅仅流于表面。,It seems whatever threats you gave those two were merely superficial.,"Судя по тем двум, твоё устрашение было лишь видимостью."
+line-557,分公司经理,这……您不生气？,You... You're not mad at me?,Это... вы не сердитесь?
+line-559,恩希欧迪斯,我为什么要生气？,Why would I be mad?,С чего мне сердиться?
+line-560,恩希欧迪斯,虽然你无视了我定下的规则，但你拿出了你的成绩，我又为何要生气？,"Although you violated the rules I set, you did produce results. Why should I be mad?","Ты нарушил мои правила, но при этом дал результат. Почему я должен сердиться?"
+line-561,恩希欧迪斯,镇痛剂的去向，我可以不在乎，你可以当作这是我对你的奖励。,"As for where the analgesics ended up, I could very well overlook that. You could consider them my reward to you.",Куда делись обезболивающие — я могу не принять это во внимание. Считай это моей наградой тебе.
+line-564,感染者员工？,……总裁，您骗了我们吗！,"Mr. President, did you lie to us?!","...Господин президент, вы нам солгали?!"
+line-566,分公司经理,哈、哈哈，哈哈哈！不愧是总裁！,"Hah... Haha, hahaha! As expected, Mr. President!","Ха... ха-ха, ха-ха-ха! Достоин своего звания, господин президент!"
+line-567,分公司经理,没错！这些感染者早晚都是要死的，这些药给他们又有什么用！,"That's right! You Infected are going to die sooner or later anyway, so what difference does a little bit of medicine make?",Верно! Эти инфицированные всё равно рано или поздно умрут — какой толк от лекарств для них?
+line-568,分公司经理,而且身为贵族，教会感染者，谁才是真正的高贵者，有时候也是必要的。,"And as a noble, it is sometimes necessary to show the Infected their place. That's the only way they'll know what it really means to be a noble.","И потом, как дворянину, иногда нужно показать инфицированным, кто по-настоящему благороден."
+line-569,分公司经理,我就知道您也是为了在其他贵族面前树立形象才去找那个什么罗德岛买药签合同！,"I knew you signed that contract with Rhodes Island just for show, to establish your image in front of the other nobles!","Я так и знал! Ты заключил этот договор с Родосом только ради того, чтобы выглядеть достойно перед другими дворянами!"
+line-570,分公司经理,这次是我错了。如果您愿意放我一马，我愿意将我转卖这些药剂赚的钱其中的一半交给您！,"I'll admit my mistakes. If you're willing to forgive me, I'll be glad to give you half the profits from reselling the medicine!","На этот раз я неправ. Если вы меня помилуете, я отдам вам половину денег, вырученных от перепродажи!"
+line-571,分公司经理,当然，不会有任何人知道。,"Naturally, no one will ever know.","Разумеется, никто не узнает."
+line-573,恩希欧迪斯,一半？,Half?,Половину?
+line-575,分公司经理,呃……七成，不，八成！我、我也是要生活的，总裁。,"Um... Seventy percent, no, eighty! I- I need to make a living too, President.","Э-э... семьдесят процентов, нет, восемьдесят! Мне же тоже надо жить, господин президент."
+line-577,恩希欧迪斯,呵。比起这个，我更好奇，你一个人应该是做不成这些事的，让我见一见你的协助者们。,Oh? I couldn't care less about the money though. I'm more keen on meeting whoever you've been cutting this deal with.,Хм. Это меня не интересует. Мне любопытнее другое: вряд ли ты справился в одиночку. Познакомь меня со своими сообщниками.
+line-578,恩希欧迪斯,我也想知道一些能够更好地处理罗德岛的药剂的方法。,I'm interested in learning to make better use of Rhodes Island's medicine.,"Мне тоже хотелось бы узнать, как лучше распоряжаться лекарствами Родоса."
+line-580,分公司经理,您对这方面感兴趣吗？没问题，这里有几个联络方式，您去找他们，说是我介绍的就好！,"Is that what this is about? No problem, I can arrange some contacts for you. Just tell them I sent you!","Вам это интересно? Без проблем — вот несколько контактов. Найдите их и скажите, что я вас направил!"
+line-588,恩希欧迪斯,其他分公司的人有参与吗？,Is there anyone from any other branches involved?,Есть ли замешанные из других филиалов?
+line-590,分公司经理,这……,Well...,Это...
+line-592,恩希欧迪斯,你是我在这项事业上的第一个合伙人，想一想其中的含义。,You are my first business partner in this particular matter. Consider the implications of that.,"Ты мой первый партнёр в этом деле. Подумай, что это значит."
+line-595,分公司经理,啊哈，瞧我，糊涂了，您看我的这份备忘录就知道了。,"Aha... Silly me, how could I be so forgetful. I have it all written down right here in my notes.","Ах, глупец я, совсем забыл. Всё записано в моей памятке — смотрите."
+line-598,分公司经理,那个，您要是打算做些什么，请千万带上我，嘿嘿……,"Um, if you're planning to get your foot in the door, then I do hope that you'll bring me along, hehe...","Кхм... если вы что-то задумали, возьмите и меня, хе-хе..."
+line-600,感染者员工？,你们就这么正大光明地在我面前说这些，就不怕我们说出去吗？,And you're saying all this right in front of me? You're not afraid I'll spread the word?,"Вы говорите всё это при мне, прямо в глаза. Не боитесь, что я расскажу?"
+line-602,分公司经理,说出去？,Spread the word?,Расскажешь?
+line-603,分公司经理,你难道以为你今天能够活着走出这里吗？,Did you seriously expect to walk out of here alive?,"Ты и правда думаешь, что выйдешь отсюда живым?"
+line-605,恩希欧迪斯,一名员工的损失，对这家公司的体量来说，并不算什么。,The loss of a single employee is nothing to a company this large.,Потеря одного сотрудника для компании такого масштаба — пустяк.
+line-608,感染者员工？,我是不会让你们称心如意的！,You won't get away with this!,Я не дам вам добиться своего!
+line-610,恩希欧迪斯,感染者能够不借助施术单元使用法术。,The Infected can use Arts without the assistance of an Arts Unit.,Инфицированные могут пользоваться Искусством без блока Искусств.
+line-611,恩希欧迪斯,你们的传染具备不确定性。,Your contagiousness is a dangerous uncertainty.,Ваша заразность — непредсказуемая вещь.
+line-612,恩希欧迪斯,你们死后，还可能引起二次传染，危害周边的环境和人。,"After death, it may trigger a secondary outbreak, endangering the surrounding environment and its people.",После смерти вы можете вызвать вторичное заражение и подвергнуть опасности окружающую среду и людей.
+line-614,感染者员工？,你……,You...,Ты...
+line-616,,恩希欧迪斯走到员工身边，从他怀中掏出一个始终没有停止通讯的终端，对着那一头的人发问。,"Enciodes walks up to the employee, reaches for his chest to fish out a terminal that had never stopped transmitting, and speaks to the person on the other end.","Энсиодес подходит к сотруднику, вытаскивает у него из-под одежды терминал, который всё это время не прекращал передачу, и обращается к тому, кто на другом конце."
+line-619,恩希欧迪斯,我想知道，为什么你们会认为，你们值得被善待？,What I want to know is this: why do you think you people deserve to be treated well?,"Мне хочется знать: почему вы решили, что заслуживаете хорошего отношения?"
+line-627,,适可而止吧。;并不是感染者期望如此。;这正是我们努力的目标。,Enough is enough.;The Infected expect nothing.;That's the goal we're striving for.,Хватит.;Инфицированные не ждут ничего подобного.;Именно к этому мы и стремимся.
+line-631,恩希欧迪斯,……,......,...
+line-632,恩希欧迪斯,事实上我也认为，让这场闹剧在这里停下是一个不坏的选择。,"To be honest, I am also of the opinion that we should bring this little farce to an end.","По правде говоря, я тоже считаю, что остановить этот фарс здесь — неплохой вариант."
+line-633,恩希欧迪斯,我应当感谢你。,I should thank you.,Тебе стоит меня поблагодарить.
+line-634,恩希欧迪斯,而你，恐怕也应当感谢我，罗德岛的博士。,"And you, I'm afraid, should also be thanking me, Doctor of Rhodes Island.","И тебе, боюсь, тоже стоит меня поблагодарить, Доктор Родоса."
+line-638,恩希欧迪斯,……,......,...
+line-639,恩希欧迪斯,这是一种过时的辩护论点。,Quite an outdated rebuttal.,Это устаревший довод в защиту.
+line-640,恩希欧迪斯,我们并非在经历一个过程，而是已经处在了一个千百年以来累积的结果中。,"What we are going through is not a process, but rather the culmination of thousands of years.","Мы не переживаем процесс — мы уже находимся в результате, который накапливался тысячелетиями."
+line-641,恩希欧迪斯,想撼动这样的结果，何其困难？,How long would it take to shake off such a thing?,Насколько же трудно поколебать такой результат?
+line-645,恩希欧迪斯,……,......,...
+line-646,恩希欧迪斯,当你根本无法看见目标时，所谓的努力，只是自欺欺人的同义词。,"When you lack a clear path to the end goal, all your effort is... nothing but deceit, both of yourself and others.","Когда ты не видишь цели, так называемые усилия — лишь другое название самообмана."
+line-647,恩希欧迪斯,但我想，今天的我不会轻易地给出不切实际的评价。,But I'm not here today to haphazardly give out assessments of your unrealistic goals.,Но я не намерен сегодня раздавать опрометчивые оценки вашим нереалистичным целям.
+line-648,恩希欧迪斯,因为你出现在了我的面前。,Because you showed up in front of me.,Потому что ты предстал передо мной.
+line-650,恩希欧迪斯,总之，不知道这些情报，足够向罗德岛表现喀兰贸易的诚意吗？,"To put it simply, is this information enough to demonstrate the sincerity of Karlan Trade?","Так, неужто этой информации недостаточно, чтобы показать Родосу искренность «Каран Трейд»?"
+line-652,,足够。,Good enough.,Достаточно.
+line-654,恩希欧迪斯,那再好不过。,Excellent.,Тем лучше.
+line-663,感染者员工？,欸……？,Huh...?,А...?
+line-665,分公司经理,总……裁？,P-President?,Г-Господин президент?
+line-667,恩希欧迪斯,感谢你提供的情报，迪亚特，你让喀兰贸易在罗德岛挽回了声誉。,"Thank you for the intel, Dyott. You've successfully restored Karlan Trade's reputation in the eyes of Rhodes Island.","Благодарю за информацию, Диаят. Ты вернул «Каран Трейд» доброе имя в глазах Родоса."
+line-669,分公司经理,难道这个人……是罗德岛的人？！,Could this man be from Rhodes Island?!,Неужто этот человек... из Родоса?!
+line-671,恩希欧迪斯,你应当早一些发现。,You should've realized that sooner.,Ты должен был заметить это раньше.
+line-672,恩希欧迪斯,以及，很遗憾，你被解雇了。,"And now, unfortunately, you're fired.","И, к сожалению, ты уволен."
+line-674,分公司经理,您……难道只是在欺骗我？,You... You were lying to me this whole time?,Вы... вы всё это время мне лгали?
+line-676,分公司经理,可是，为什么？！,"But, why?!",Но почему?!
+line-677,分公司经理,难道您真的同情这些感染者吗！,Do you really empathize with these filthy Infected?!,Неужто вы и правда сочувствуете этим инфицированным?!
+line-679,恩希欧迪斯,你并不是一个值得讨论这个话题的对象。,You are not worthy of having that conversation with me.,"Ты не тот человек, с которым стоит обсуждать эту тему."
+line-681,分公司经理,可、可……您不是认可我拿出的成绩了吗！,B-But... Didn't you say you acknowledged my results?!,Но... вы же признали мои результаты!
+line-683,恩希欧迪斯,我只是说，你拿出了成绩。,All I said was that you produced results.,"Я сказал лишь, что ты добился результатов."
+line-684,恩希欧迪斯,但是，难道你认为，你拿出了令我满意的成绩吗？,But did you seriously think that those results would satisfy me?,"Но неужели ты думаешь, что они меня удовлетворили?"
+line-685,恩希欧迪斯,你没有。,They did not.,Нет.
+line-687,恩希欧迪斯,激进的手段应当有激进手段的回报，而你凭借这样的手段却仅仅取得了正常管理就能取得的结果……,"Extraordinary means should produce extraordinary outcomes. But even utilizing extraordinary means, the results you showed me are something anyone could muster...","Крайние меры должны давать крайние результаты. А ты с их помощью добился лишь того, чего добился бы обычный менеджмент..."
+line-688,恩希欧迪斯,你凭什么认为你能令我满意？,What possessed you to think that they would satisfy me?,"Что дало тебе право думать, что ты меня удовлетворишь?"
+line-690,分公司经理,我……,I...,Я...
+line-692,,分公司经理迪亚特软软地瘫坐在地上，像一摊烂泥一般。,"Dyott, the Branch Officer Manager, slumped to the ground limply, like a pile of mud.","Управляющий филиалом Диаят без сил оседает на пол, как лужа грязи."
+line-701,感染者员工A,总裁，是总裁！,"Look, it's the President!",Президент! Это президент!
+line-707,恩希欧迪斯,为了保障各位感染者员工的人身安全，我前往罗德岛为各位购买了药剂与保险。,"I went to Rhodes Island to purchase medication and an insurance package for all of you, to ensure the health and safety of all my Infected employees.","Чтобы защитить безопасность всех инфицированных сотрудников, я съездил на Родос и купил для вас лекарства и страховку."
+line-708,恩希欧迪斯,然而公司管理上的疏忽，以及管理人员的失职，却让药物没有正确地送到各位手上，对此，我感到十分痛心。,"However, due to the negligence of our management as well as the local manager, this medicine was not properly delivered to you. For this, I deeply apologize.",Однако из-за упущений в управлении и халатности ответственного лица лекарства не дошли до вас как следует. Мне очень горько это сознавать.
+line-710,感染者员工A,这不怪您！,It isn't your fault!,Это не ваша вина!
+line-712,感染者员工B,错的是迪亚特！,It's all Dyott's fault!,Виноват Диаят!
+line-714,恩希欧迪斯,是的，迪亚特已经被解雇，并且，新的经理将从各位之中挑选。,"Yes, Dyott has already been fired, and a new manager will be selected from among you.","Да, Диаят уволен. Нового управляющего выберут из вас."
+line-715,恩希欧迪斯,我希望通过这种方式，你们能够更好地进行工作。,I hope that this will help ensure better conditions for you to continue with your work.,"Надеюсь, так вам будет лучше работать."
+line-717,感染者员工们,什么？太棒了！,What? That's incredible!,Что? Замечательно!
+line-718,感染者员工们,总裁万岁！,Long live the President!,Да здравствует президент!
+line-720,恩希欧迪斯,在此，我想特别感谢两个人。,"In particular, there are two people here I'd like to thank.",Здесь я хотел бы особенно поблагодарить двоих.
+line-721,恩希欧迪斯,来自罗德岛的两位秘密检察官……正是他们的勇敢行为，才让我能够发现迪亚特一直以来对我掩藏的秘密。,"Both are special investigators from Rhodes Island... Thanks to their bravery, I was able to discover what Dyott had been hiding from me.","Двух тайных инспекторов с Родоса... Благодаря их смелости я смог раскрыть тайны, которые Диаят столько лет скрывал от меня."
+line-723,感染者员工A,那不是那个新人吗……,Isn't that the new guy...?,Разве это не тот новенький...?
+line-725,感染者员工B,原来他们就是给我们制作药品的公司的人吗？！,So they're from the company that makes our medicine?!,"Так вот они из компании, которая делает нам лекарства?!"
+line-727,感染者员工A,为了感染者，他们居然愿意做到这个地步……,They're willing to do all that for our sakes...?,Они готовы пойти так далеко ради инфицированных...
+line-730,,这是罗德岛的职责所在。;你们总是可以相信罗德岛。;感染者的生命同样珍贵。,That's our duty at Rhodes Island.;You can always trust in Rhodes Island.;The lives of the Infected are just as precious.,Это наш долг на Родосе.;Вы всегда можете доверять Родосу.;Жизни инфицированных так же драгоценны.
+line-733,恩希欧迪斯,有诸多人对于购买药物这件事不理解，而这种不理解，最终转化成了对公司方针的阳奉阴违。,There are many who do not understand why I would purchase medication. This lack of understanding eventually gave rise to violations of company policy.,"Многие не понимали, зачем я покупаю лекарства. Это непонимание в конце концов вылилось в пренебрежение указаниями компании."
+line-734,恩希欧迪斯,为了杜绝这种情况，我决定与罗德岛商谈，由罗德岛派出秘密队伍，在喀兰贸易的分公司中进行暗中监察。,"In order to prevent this situation from occurring again, I negotiated with Rhodes Island to send an undercover team to secretly surveil this branch office.","Чтобы исключить такое впредь, я договорился с Родосом: они направят скрытую группу для тайного контроля в филиалах «Каран Трейд»."
+line-735,恩希欧迪斯,意在揪出像迪亚特这样危害公司运营，同时又在损害罗德岛形象的人。,"The intent was to sniff out people like Dyott, who would harm both our company's operations as well as Rhodes Island's image.","Цель — выявлять таких, как Диаят, кто вредит работе компании и одновременно портит репутацию Родоса."
+line-736,恩希欧迪斯,而作为回报，罗德岛愿意加深与喀兰贸易的合作，并且进一步下调药物的价格。,"In return, Rhodes Island is willing to deepen its cooperation with Karlan Trade and further reduce the price of medication.",А взамен Родос готов углубить сотрудничество с «Каран Трейд» и ещё снизить цены на лекарства.
+line-738,恩希欧迪斯,是这样对吧，Dr.{@nickname}。,"Isn't that right, Dr. {@nickname}?","Так и есть, Доктор {@nickname}?"
+line-740,,……正是如此。,...That's exactly right.,...Именно так.
+line-743,感染者员工？,啊？博士，还有这种事吗？！,"Huh? Did you really arrange all that, Doctor?!","А? Доктор, вы и правда так сделали?!"
+line-745,恩希欧迪斯,接下来，罗德岛愿意为在工作的所有员工提供一次免费的现场体检。,"As a follow up, Rhodes Island is willing to provide on-site medical examinations for all employees on the job, free of cost.","Кроме того, Родос готов провести бесплатный выездной медосмотр для всех работающих сотрудников."
+line-752,Medic,各位员工，请在这边排队，我们会为每个人都发放一份镇痛剂。,"Everyone, please line up here so we can pass out the analgesics.","Все сотрудники, встаньте в очередь здесь. Мы выдадим каждому по дозе обезболивающего."
+line-754,恩希欧迪斯,……,......,...
+line-756,,你是什么时候发现的？,When did you find out?,Когда ты это заметил?
+line-759,恩希欧迪斯,这个问题过于缺乏意义。,What a vapid question.,Этот вопрос лишён всякого смысла.
+line-760,恩希欧迪斯,应该是我反问你，你真的有打算骗过我吗？罗德岛的Dr.{@nickname}。,"I should be the one asking you—did you really plan on deceiving me, Dr. {@nickname} of Rhodes Island?","Скорее я должен спросить тебя: ты и правда надеялся меня обмануть, Доктор {@nickname} из Родоса?"
+line-762,,没有。,No.,Нет.
+line-765,恩希欧迪斯,你知道在我看到那名“感染者”时就有可能露出马脚。,You at least considered the possibility that I would let my guard down upon seeing that 'Infected'.,"Ты знал, что я могу раскусить тебя, когда увижу этого «инфицированного»."
+line-767,恩希欧迪斯,但是对你来说，在那时，你的目的已经达成。,"Because for you, your objective had already been accomplished by that point.",Но к тому моменту твоя цель уже была достигнута.
+line-769,恩希欧迪斯,之后无论怎样发展，你都没有输，真是好算计。,"Regardless of how it unfolded afterward, you'd never have a losing hand. Not a bad plan.","Что бы ни произошло дальше, ты всё равно не проиграл. Хорошо продумано."
+line-771,,过奖。;我也没有十全把握。,You flatter me.;I'm not so sure about that.,Вы льстите мне.;Я не был полностью уверен.
+line-774,恩希欧迪斯,罗德岛忽然空降了一位善于运筹帷幄、调兵遣将的领导人，这并不是一个秘密。,"It is no secret that Rhodes Island suddenly gained a masterful strategist, a leader capable of pulling together formidable forces and commanding the battlefield.","Не секрет, что на Родосе недавно появился новый руководитель, искусный в стратегиях и в том, чтобы направлять людей."
+line-775,恩希欧迪斯,但我在见到你之前，确实没想到，这样的人物，竟然会亲自来到我的公司，在我面前上演这样一出闹剧。,"Before I met you, I never expected someone like that to personally show up at my company and stage a farce right in front of me.","Но до встречи с тобой я и правда не ожидал, что такой человек придёт в мою компанию и разыграет передо мной целый фарс."
+line-777,,看来你对罗德岛的评价很高。;我这么有名？,You seem to think highly of Rhodes Island.;Am I that famous?,"Похоже, вы высоко цените Родос.;Я и вправду так знаменит?"
+line-780,恩希欧迪斯,我的妹妹在罗德岛接受治疗。,My little sister has been receiving treatment there.,Моя сестра проходит лечение на Родосе.
+line-781,恩希欧迪斯,我最得力的两个部下也会向我传达在罗德岛的见闻。,Two of my most exceptional subordinates also relay to me what they've seen.,"Два моих самых способных подчинённых тоже рассказывают мне о том, что видели на Родосе."
+line-782,恩希欧迪斯,任何人在掀开你们神秘面纱的一角后，恐怕都不会小觑你们。,Anyone who's seen even a glimpse of what's beneath your veil wouldn't dare underestimate you.,"Любой, кто приподнял хоть краешек вашей завесы тайны, вряд ли станет недооценивать вас."
+line-785,恩希欧迪斯,我的妹妹与我最得力的两个部下都不止一次提及你的名字。,Your name has come up in conversation with my sister and my men more than once.,"И сестра, и мои двое лучших подчинённых не раз упоминали твоё имя."
+line-786,恩希欧迪斯,我无法不知道你的存在。,There's no way I wouldn't know of your existence.,Я не мог не знать о твоём существовании.
+line-789,恩希欧迪斯,所以，我想知道，Dr.{@nickname}，我给出的答复，是否令你满意？,"So, Dr. {@nickname}, what I want to know is: did my answer satisfy you?","И потому я хочу спросить: Доктор {@nickname}, удовлетворён ли ты моим ответом?"
+line-791,,满意。;不满意。,It did.;It did not.,Удовлетворён.;Не удовлетворён.
+line-794,恩希欧迪斯,你嘴上这样说，眼神却在直白地告诉我你并非这么想。,"So you say, but your gaze clearly tells me that it did not.","Ты говоришь одно, а глаза прямо говорят, что думаешь иначе."
+line-795,恩希欧迪斯,你的演技并不糟糕，那么，你是想告诉我，这一次，就这样吧。,"Your acting wasn't terrible, so I'll take this as your way of asking me to leave it at this for now.","Ты играл не так уж плохо. Значит, ты хочешь сказать: на этот раз остановимся на этом?"
+line-796,恩希欧迪斯,对吗？,Am I wrong?,Верно?
+line-799,恩希欧迪斯,我并不讨厌直白的人。,I don't particularly mind straight shooters.,"Я не питаю неприязни к тем, кто говорит прямо."
+line-800,恩希欧迪斯,而且你在刚才默许了我对你行为的小小报复。,And you did just accept my little punishment for your brazenness without complaint.,И только что ты дал мне возможность отомстить за твою дерзость.
+line-801,恩希欧迪斯,这意味着我们的合作还将继续，对吗？,"With that in mind, can I assume that we will continue our cooperation?","Это значит, что наше сотрудничество продолжится, да?"
+line-804,恩希欧迪斯,不过，这也令我有些疑惑。,"That said, this has also raised my suspicions.",Однако это вызвало у меня некоторые сомнения.
+line-806,恩希欧迪斯,这毫无疑问是一场演员、场景以及道具都有所欠缺的闹剧。,"You were, without a doubt, engaged in theater, albeit one without backgrounds or props.","Это был фарс, которому не хватало и актёров, и декораций, и реквизита."
+line-807,恩希欧迪斯,它不具备任何从观众角度来说令其感到心潮澎湃的要素。,It lacked anything to evoke emotions in the viewer.,"В нём не было ничего, что взволновало бы зрителя."
+line-808,恩希欧迪斯,你对此心知肚明，甚至准备了十分残酷的结尾。,"You even prepared a terribly harrowing ending, knowing that all too well.",Ты прекрасно это понимал и даже подготовил очень жестокую концовку.
+line-809,恩希欧迪斯,告诉我，如果我令你失望，会发生什么？,"Tell me, what would've happened if I failed to meet your expectations?","Скажи, что было бы, если бы я тебя разочаровал?"
+line-811,,你会失去一个合作伙伴，仅此而已。,"You would've lost a partner, that's all.",Ты потерял бы партнёра. Больше ничего.
+line-814,恩希欧迪斯,对一场闹剧来说，一个充满现实主义的结尾会显得编剧过于小题大做。,"In a farce, an overly realistic ending may make it seem like the writers are splitting hairs.","Для фарса слишком реалистичная концовка выглядела бы так, будто автор из мухи делает слона."
+line-815,恩希欧迪斯,除非，这场闹剧的核心对于你这个编剧来说，足够重要。,"Unless the essence of the farce is sufficiently important to you, the playwright.","Разве что суть этого фарса была бы достаточно важна для тебя, автора."
+line-816,恩希欧迪斯,而这个核心，是我对于感染者的看法。,"And in this case, that would be my views on the Infected.",А суть эта — моё отношение к инфицированным.
+line-818,恩希欧迪斯,Dr.{@nickname}，这个问题对你来说，有多重要？,"Just how important is this question for you, Dr. {@nickname}?","Доктор {@nickname}, насколько важен для тебя этот вопрос?"
+line-820,,很重要。;我们会慎重挑选每一个合作伙伴。,Very.;I choose my partners carefully.,Очень.;Я тщательно выбираю каждого партнёра.
+line-823,恩希欧迪斯,即使那位医疗干员小姐要求我亲手将药剂交给员工们，我也依然没有认为这是某种你们的信念。,"Even though that medic lass asked me to personally deliver the medication to my employees, I didn't particularly view that as one of your main tenets.","Даже когда та медик попросила меня лично передать препараты сотрудникам, я не счёл это одним из ваших убеждений."
+line-825,恩希欧迪斯,看来，我要稍微修正一些我的观念……,"After this though, perhaps I'll have to somewhat revise my way of thinking...","Кажется, мне придётся несколько пересмотреть свои взгляды..."
+line-826,恩希欧迪斯,只是，我见过许多理想主义者，他们高谈阔论着这片大地上的一切。,It's just that I've seen all manner of idealists go on at great length about more or less everything under the sun.,"Дело в том, что я видел многих идеалистов. Они рассуждали обо всём на этой земле..."
+line-827,恩希欧迪斯,但在那之中，唯独没有感染者这个词。,But not once have I heard one of them bring up the word 'Infected'.,Но среди их слов не было одного — «инфицированные».
+line-829,恩希欧迪斯,你知道这意味着什么吗，Dr.{@nickname}？,"Do you understand what that means, Dr. {@nickname}?","Знаешь, что это значит, Доктор {@nickname}?"
+line-830,恩希欧迪斯,这意味着，你们如果不是疯子，那么……,"It means that unless you're a bunch of lunatics, then...","Это значит, что если вы не безумцы, то..."
+line-837,锏,你人呢，该出发了。,Where are you? It's time to go.,Где ты? Пора отправляться.
+line-839,恩希欧迪斯,……我马上会到。,I'll be right there.,...Я сейчас подойду.
+line-845,恩希欧迪斯,看来这场谈话要到此为止了。,Looks like our little chat must come to an end.,"Кажется, наш разговор подошёл к концу."
+line-846,恩希欧迪斯,我还无法回答你的问题，Dr.{@nickname}。,"I can't answer your question just yet, Dr. {@nickname}.","Я пока не могу ответить на твой вопрос, Доктор {@nickname}."
+line-848,恩希欧迪斯,不过，如果你会下棋，我期待未来拜访罗德岛的时候，能够与你切磋一番。,"But, if you know how to play chess, then I look forward to learning from you when I visit Rhodes Island in the future.","Но если ты умеешь играть в шахматы, я с удовольствием сыграю с тобой, когда в следующий раз приеду на Родос."
+line-856,锏,发生什么了？,What happened?,Что случилось?
+line-858,恩希欧迪斯,没什么，一点小插曲。,Nothing much. Just a little detour.,Ничего. Небольшое недоразумение.
+line-860,锏,你看起来可不像只是经历了一点小插曲的样子。,You look like someone who's gone through a lot more than just a little detour.,"Похоже, ты пережил не просто небольшое недоразумение."
+line-862,恩希欧迪斯,你知道吗，罗德岛的新领袖，是个失忆了的人。,Did you know that Rhodes Island's new leader is an amnesiac?,"Знаешь ли ты, что новый лидер Родоса — человек, потерявший память?"
+line-864,锏,……？怎么忽然没头没脑的。,Huh...? Did you hit your head somewhere?,...? Что за странные речи?
+line-866,恩希欧迪斯,这个人似乎在很短的时间里就令罗德岛上的诸多干员折服，并且确立了明确的行动方针。,"They seem to have won over many operators there in a very short period of time, and have also set the company on a clear trajectory.","Кажется, за очень короткое время он завоевал расположение многих оперативников Родоса и определил ясный курс действий."
+line-867,恩希欧迪斯,一个失忆的人。,While having amnesia.,И при этом он потерял память.
+line-869,锏,听起来是挺古怪的，但是，这和你有什么关系？,"Weird, but what does that have to do with you?","Звучит странно, но при чём тут ты?"
+line-871,恩希欧迪斯,还不知道。,I don't know yet.,Пока не знаю.
+line-873,锏,还不知道？,You don't know yet?,Пока не знаешь?
+line-875,恩希欧迪斯,还不知道。,I don't know yet.,Пока не знаю.

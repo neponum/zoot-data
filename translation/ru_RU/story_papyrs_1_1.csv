@@ -1,0 +1,226 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_papyrs_1_1,玻璃窗外
+,,,,
+char-1,冷静的声音,冷静的声音,Calm Voice,Спокойный голос
+char-2,紧张的声音,紧张的声音,Nervous Voice,Нервный голос
+char-3,莎草,莎草,Papyrus,Папирус
+char-4,不再冷静的声音,不再冷静的声音,No Longer Calm Voice,Уже не спокойный голос
+char-5,巡回医生,巡回医生,Roaming Doctor,Странствующий врач
+char-6,急躁的村民,急躁的村民,Impetuous Villager,Нетерпеливый житель
+char-7,温柔的村民,温柔的村民,Gentle Villager,Мягкий житель
+char-8,热情的村民,热情的村民,Enthusiastic Villager,Горячий житель
+char-9,健壮的村民,健壮的村民,Stout Villager,Крепкий житель
+char-10,热情洋溢的声音,热情洋溢的声音,Enthusiastic Voice,Воодушевлённый голос
+,,,,
+line-10,冷静的声音,她还没醒？,She hasn't come to?,Она ещё не очнулась?
+line-11,紧张的声音,没有哇，医生。整个部落的人都坐在这里等了一下午了。,"Not yet, doc. The whole tribe has been waiting here all afternoon.","Нет ещё, доктор. Вся деревня просидела здесь весь день."
+line-12,莎草,唔……,Hnngh...,Ммм...
+line-13,冷静的声音,还有其他人急着看医生吗？,Is anyone in a rush to see the doctor?,Кто-нибудь ещё срочно нуждается во враче?
+line-14,紧张的声音,不急，我们不急，你先救那个小姑娘！她被诅咒了！,"No, we're in no rush. You should save the girl first! She's cursed!","Нет, мы не спешим. Сначала спаси девочку! Она проклята!"
+line-15,冷静的声音,她是从大瀑布那个方向来的？,She came from the waterfall?,Она пришла со стороны Большого водопада?
+line-16,紧张的声音,是哇。而且我把她翻来覆去地检查了好几遍，她没有长石头，也没有受伤，就是一直抱着一块石板不放。,"Yeah, that's right. I checked her front and back. She's got no rocks, and she's not hurt. She's holding a tablet she won't let go, though.","Да. Я её во все стороны осматривала: камней нет, ран нет, только держит каменную табличку и не отпускает."
+line-17,紧张的声音,上午的时候，她嘴里还在发出奇怪的音节，后来就没声音了。,"She was muttering some strange sounds in the morning, but then she quieted down.","Утром она ещё бормотала какие-то странные звуки, а потом замолчала."
+line-18,紧张的声音,刚刚我去看她的时候，她好像快断气了！,"And when I checked on her just now, it was like her breathing had stopped!","Я сейчас заглянула — кажется, она уже не дышит!"
+line-19,不再冷静的声音,——啊？怎么不早说？！,—Huh?! Why didn't you say that right away?,А?! Почему сразу не сказала?!
+line-20,紧张的声音,如果救不了那个小姑娘，请您至少帮我们消除她的诅咒吧，这可是我家……,"If you can't save the girl, then at least help us break her curse. This is my home...","Если не сможешь спасти девочку, хоть сними с неё проклятие, это же мой дом..."
+line-29,巡回医生,喂，小姑娘，能听到我说话吗？！,"Hey, girl, can you hear me?","Эй, девочка, ты меня слышишь?!"
+line-31,莎草,好……重……呜呜……,So... heavy... ugh...,Тяжело... ой...
+line-33,巡回医生,……是谁把石板压在人家胸口上的？,Who put a heavy tablet like this on her chest?,Кто положил тебе на грудь такой тяжёлый камень?
+line-39,巡回医生,好了，石头我给你搬开了。,"Okay, I got that off you now.","Ладно, я убрал его."
+line-44,莎草,……呼！,Phew!,...Фу!
+line-46,巡回医生,还好，还有反应。你现在感觉怎么样？,"Good, you're responding. How do you feel?","Хорошо, ты реагируешь. Как себя чувствуешь?"
+line-48,莎草,我……,I...,Я...
+line-50,莎草,……好想……吃薄荷味祖拜尔雪糕……,I want some... mint Zubayr ice cream...,Так хочется... мятного мороженого Зубайра...
+line-61,巡回医生,你确定自己完全恢复了？,You sure you're all better?,"Ты уверена, что совсем поправилась?"
+line-63,莎草,是的，医生，我虽然没有学过专业的医学知识，但……我自己中暑昏倒的经验很丰富……,"Yes, doctor. I don't have any professional medical knowledge, but... I'm well-practiced at collapsing due to heat stroke...","Да, доктор. Я не училась медицине, но... я очень хорошо умею падать в обморок от жары..."
+line-65,巡回医生,唉，小姑娘，这个天气中暑真不常见。还有哪里不舒服吗？,"*sigh* Young lady, most people don't get heat strokes in this weather. Are you ill?","Эх, молодая леди, в такую погоду тепловой удар — большая редкость. Есть ещё что-то?"
+line-67,莎草,身上没什么毛病了。不过，我还有几个问题想请教您。,"I'm fine, physically, but I have a few questions I'd like to ask you.",Тело больше не беспокоит. Но у меня к вам несколько вопросов.
+line-72,莎草,这种植物叶片，是否就是书上所说的，气味清凉、有提神作用的兽脑香？,Please take a look at this leaf. Is this the Beastbrain Leaf mentioned in the book that's supposed to have a cool scent and mind-refreshing properties?,"Взгляните на этот лист. Это тот самый «лист звериного мозга», о котором в книге говорится, что он пахнет прохладой и взбадривает?"
+line-74,巡回医生,……快扔掉。,Throw that away right now.,Выбрось его немедленно.
+line-76,巡回医生,你说的那个东西，我不懂，但我保证，你手里的叶子捣碎抹在额头上只会引来酸液源石虫。,"I don't know this Beastbrain Leaf that you speak of, but I assure you that if you grind that leaf and apply it to your forehead, you will attract acid Originium slugs!","Я не знаю этого вашего «звериного мозга», но заверяю: если растереть этот лист и намазать им лоб — привлечёшь кислотных слизней."
+line-78,莎草,呃，好……那、那这种果实呢？能够作为路上补充体力的应急食品吗？,"Uh, okay... Th-Then, what about this fruit? Can I use it as an emergency ration for the road?","Э-э, ладно... А-а этот плод? Можно ли его использовать как аварийный продукт в дороге?"
+line-80,巡回医生,能让你看到死后的景象。,"Eat that, and you will only get a taste of the afterlife.",Он покажет тебе загробную жизнь.
+line-82,巡回医生,……你在写什么？笔记？,What are you doing? Is that a notebook?,...Что ты пишешь? Заметки?
+line-84,莎草,是的，这是我的《游历初步规划（最终版）》，代表我已经做好了万全准备，决心出发……不过，现在是“最终版-修订版草稿”了……,"Right, this is my Tentative Travel Plan (Final Draft). It means I'm fully prepared and have made up my mind... but... I suppose now it's (Final Draft-Revised)","Да. Это мой «Предварительный план путешествия (финальная редакция)». Он означает, что я полностью готова и решилась... Но теперь это «финальная редакция — черновик правок»..."
+line-86,莎草,感谢您不吝赐教，请问您还有其他的野外生存建议吗？,Thank you very much for your advice. Do you still have any more outdoor survival tips?,Спасибо за урок. Есть ещё советы по выживанию в диких местах?
+line-88,巡回医生,有。,Yes.,Есть.
+line-90,巡回医生,趁早回家吧，这一带没什么可观光的。,Just go home. There's no sightseeing to be done around here.,Возвращайся домой. Здесь не на что смотреть.
+line-92,莎草,……,...,...
+line-94,莎草,嗯，我知道。,"Yes, I understand.","Да, я понимаю."
+line-100,急躁的村民,你确定她完全恢复了？,You are sure she's all better?,"Ты уверена, что она полностью поправилась?"
+line-102,巡回医生,她自己说的。,That's what she says.,Она сама так говорит.
+line-104,急躁的村民,俺觉得不对。俺还是觉得她遭诅咒了。,I don't think so. I still think she's cursed.,"Не верю. Всё равно считаю, что она проклята."
+line-106,急躁的村民,早上俺和姐姐在水边发现的她，她昏倒了，肯定是进了那边不能进的林子。,My sister and I found her by the water this morning. She was completely out. Must've gone into the woods we're not supposed to go into.,"Мы с сестрой нашли её утром у воды. Она была без сознания. Должно быть, зашла в тот лес, куда нельзя."
+line-108,急躁的村民,她嘴里一直念念叨叨的，声音特别大，俺听着比她清醒的时候还清楚。,"She kept murmuring the whole time, and she was really loud, too. Even louder than how she's talking now.","Она всё бормотала, и очень громко. Громче, чем сейчас, когда она в сознании."
+line-110,温柔的村民,嗯，她说要找什么图腾，什么装着内脏的罐子……甚至开始命令其他人为她做事。,"Yes, she kept saying she was looking for some totem, some cans with guts in them... She even started ordering people around.","Да, говорила про какой-то тотем, про банки с потрохами... и даже стала приказывать людям."
+line-112,急躁的村民,对，俺记得可清楚了！她一直在说这个死了多少年，那个又埋了多少年，这是正常人说得出来的话吗？,"Exactly, I remember too! She kept muttering this one's been dead for so long and that one's been buried for years. What normal person says that?!","Вот, я хорошо помню! Всё говорила: тот умер столько-то лет, тот похоронен столько-то... Разве нормальный человек такое говорит?!"
+line-114,巡回医生,唔……,Hmm...,Хм...
+line-116,急躁的村民,要是她再有什么不对劲，俺得像砍树一样，把坏东西砍得干干净净！,"If she does anything weird again, I'll cut down all the bad things, just like we cut trees!","Если она ещё что-то выкинет, я вырублю всё плохое, как деревья рубим!"
+line-118,巡回医生,你们先别太担心。她那么虚弱，做不出什么伤害他人的事，一个人也走不了多远的路。,"Relax, you two. Feeble as she is, she couldn't do anything to hurt anyone, or even get too far on her own.","Успокойтесь. Она такая слабая, что никому не может навредить и далеко одна не уйдёт."
+line-120,巡回医生,好了，接下来还有谁要看病——,"Alright, who else needs attending to—","Ладно, кто следующий на приём —"
+line-124,莎草,救、救命呀——！,H-Help!,Па-а-апомогите!
+line-126,温柔的村民,哎呀，怎么招来这么多源石虫？！,"Dear me, why are there so many slugs?!","Ой, откуда столько слизней?!"
+line-128,急躁的村民,别别别别慌！俺们来帮你！,C-C-Ca-Calm down! We're coming to help!,Н-н-не паникуйте! Мы идём помочь!
+line-137,巡回医生,……,...,...
+line-139,莎草,……抱歉。,I'm sorry...,...Простите.
+line-141,巡回医生,我不是刚刚警告过你那种植物会吸引源石虫吗？,Didn't I warn you that the plant attracts Originium slugs literally a minute ago?!,"Я же только что предупредил тебя, что это растение привлекает слизней!"
+line-143,莎草,……我只是在出村的小路上绊了一跤……,I tripped on my way out of the village...,...Я просто споткнулась по дороге из деревни...
+line-145,莎草,……然后头撞到了树，惊动了树根底下的源石虫，我趴在地上想用源石技艺保护自己的时候又没瞄准……,"...then I bumped my head into the tree and spooked the slugs under the branches. I got down on the ground and used Arts to try and protect myself, but I didn't get my aim right...","...потом ударилась головой о дерево, спугнула слизней под корнями, легла на землю и попыталась защититься Искусством Ориджиниума, но промахнулась..."
+line-147,巡回医生,……别太勉强自己。,Don't push yourself like that.,...Не переусердствуйте.
+line-149,巡回医生,王酋以前派来过和你差不多的人，在这一带到处翻翻找找，把捡来的石头当宝贝。,The lords ameer used to send people like you here. They'd search the wilds and take home rocks as prizes.,"Лорды-амиры раньше посылали сюда людей, похожих на тебя. Они рыскали повсюду и тащили домой найденные камни как сокровища."
+line-151,莎草,然后呢？一无所获？,What happened after that? Did they leave empty-handed?,И что? Ушли ни с чем?
+line-153,巡回医生,我哪知道。我只知道他们来了又走了，这里的生活没有任何改变。他们挖出来的小小坑洞，一次河流涨水就给推平了。,"How would I know? They came and went, yet life here has remained the same. The little holes they dug were instantly filled up in a single rising tide.","Откуда мне знать? Они приходили и уходили, а жизнь здесь не менялась. Ямки, что они выкапывали, смывало одним разливом реки."
+line-155,巡回医生,要是你真的觉得这里还能找到什么“历史”……,If you really think you could find any kind of 'history' in this place...,"Если ты правда думаешь, что здесь можно найти какую-то «историю»..."
+line-157,莎草,没关系，我不怕失望。,It's okay. I'm not afraid of disappointment.,"Ничего, я не боюсь разочарования."
+line-159,莎草,我这次可是下定了决心，既然好不容易出门一趟，那就一定要用自己的眼睛，把这里的一切看个清楚。,"I've made up my mind this time. Now that I've actually left home, I have to see everything here with my own eyes.","Я на этот раз твёрдо решила. Раз уже вышла из дома, надо всё увидеть своими глазами."
+line-161,莎草,这块石板上的古文字，我能解读，所以我会循着这一信息调查到底……哪怕它可能不是什么有价值的发现。,"I can decipher the text on this tablet, so I'll investigate everything based on the information written here... even if it doesn't lead to any worthwhile discoveries.","Надписи на этой табличке я могу прочесть, поэтому пойду по этому следу до конца... даже если там и не будет ценной находки."
+line-163,莎草,——而且，我从相关书籍里收集了一百条“雨林部落的秘密奇观”，虽然雨林很大，但我就不能多少遇到一个吗！,"—Besides, I've gathered over a hundred 'Spectacular Rainforest Tribes Sights' from my books. The forest is huge, but I should be able to see at least one, right?","И ещё: я собрала из книг сто «удивительных чудес дождевого леса». Лес большой, но неужели я не встречу хотя бы одно!"
+line-165,巡回医生,……,...,...
+line-167,巡回医生,唉，这些药材给你。解暑、驱虫、止吐、避免被猛兽注意到……该有的都有。,"*sigh*. Here, take these herbs. Heat stroke treatment, insect repellent, anti-emetic, even wild beast repellent... Just about everything you'll need.","Эх, вот тебе травы. От жары, от насекомых, от рвоты, чтобы звери не заметили... всё, что нужно."
+line-169,巡回医生,我很快就要出发去另一个村落了，这些阿达克利斯虽然热心，但不一定能理解你，更别说帮上你的忙了。,"I'll be heading to another village soon. The Archosauria here are kind, but they may not be able to understand you, much less help you.","Скоро я уйду в другую деревню. Архозавры здесь добрые, но могут не понять тебя, не то что помочь."
+line-171,莎草,好的，非常感谢……,"Okay, thank you...","Хорошо, спасибо..."
+line-173,莎草,对了，医生，我可以再请教您一个问题吗？这里的村民所说的“诅咒”，您知道是怎么回事吗？,"Right, doctor, may I ask you one more question? The villagers mentioned some kind of curse. Do you know what that is?","Кстати, доктор, можно ещё один вопрос? Это «проклятие», о котором говорят жители, — что это такое?"
+line-182,热情的村民,对，就像这样，打个结，用藤蔓把自己捆起来，然后荡到对面去。,"Right, like this. Tie a knot around yourself with the vines, then swing it to the other side.","Вот, как это. Обвяжись лозами узлом и перелети на другую сторону."
+line-184,热情的村民,但你得腾出一只手来抓着藤蔓，所以得把你怀里抱着的大石头放下。,"You have to use one hand to hold the vines, though, so set down that big stone you're holding.","Но одну руку нужно держать свободной, чтобы хвататься за лозу, поэтому оставь свой большой камень."
+line-186,莎草,没关系，我可以用一边胳膊夹住它。,It's okay. I can hold it under my arm.,"Ничего, я зажму его под мышкой."
+line-188,莎草,而且，这并不是普通的石头，它的表面刻着文字。,"Also, this is not a normal stone. It's inscribed with words.",И это не обычный камень — на нём выцарапаны письмена.
+line-190,莎草,这样的石板我已经收集好几块了，如果你在路上遇到了类似的石板，请务必捎带回来，我可以支付报酬。,"I've been collecting tablets like this one for some time now. If you find any like it, please do bring them to me. I can pay you for them.","Таких табличек я уже собрала несколько. Если встретишь похожую по дороге, обязательно принеси — я заплачу."
+line-192,热情的村民,上面刻了东西的石头？这个我听人说过。,Stones with words on them? I've heard about them.,Камни с письменами? Я слышал про такие.
+line-194,莎草,真的？请问是谁？我能跟他聊一聊吗？,Really? From whom? May I talk to them?,Правда? От кого? Можно мне с ним поговорить?
+line-196,热情的村民,嗐，他早就躺在地里了。他去了那片被诅咒的森林，我都不知道该不该可怜他。,"Well, he's been lying under the ground for a while now. That's what you get for going to the cursed forest. We don't even know if he's worth pitying.","Эх, он давно лежит в земле. Сходил в тот проклятый лес — вот и всё. Жалеть его или нет, и то не знаю."
+line-198,莎草,果然，所有疑似纪念碑的石板都在那片森林的边缘……,I figured. All the tablets that could be monuments are placed right at the edge of that forest...,"Так и знала. Все таблички, похожие на памятники, — прямо у края того леса..."
+line-200,热情的村民,你说啥？,What were you saying?,Что ты сказала?
+line-202,莎草,没、没什么，我是说，您能推我一把，帮我荡到对岸吗？,N-Nothing. I'm asking if you could help swing me over to the shore on the other side.,"Н-ничего. Я спрашиваю, не подтолкнёте ли вы меня, чтобы я перелетела на другой берег?"
+line-204,热情的村民,没问题！一，二，走——,"No problem! One, two, let's go—","Без проблем! Раз, два, поехали —"
+line-207,莎草,呜哇啊啊啊啊——,Wraaaaaaggghhhh—,Уа-а-а-а-а—
+line-210,莎草,等一下——石板——要掉下去了——！,Hold on! My tablet! I'm going to drop it—,Подождите! Табличка! Она упадёт —!
+line-216,热情的村民,别松手！别去抓——,Don't let go! Don't grab—,Не отпускай! Не тянись —
+line-222,莎草,救、救命——咕……,H-Help—ugh...,Па-апомогите — ой...
+line-231,温柔的村民,莎草，你又回来啦！这次你出去这么久，我还以为你走了——,"Papyrus, you're back! You were gone for so long, I thought you'd left—","Папирус, ты опять вернулась! Ты так долго пропадала, я уже думала, ты ушла —"
+line-233,温柔的村民,哎呀，怎么又浑身都湿透了？又掉水里了？,"Dear me, why are you all drenched again? Had another fall in the water?","Ой, почему опять вся мокрая? Опять упала в воду?"
+line-235,莎草,不、不是……是雨……阿嚏！,N-No... It was the rain... Achoo!,Н-нет... это дождь... а-апчхи!
+line-237,莎草,吉雅阿，把这块石头登记入库……对，这是那个部落给我的天气预报石，不过，就算知道要下雨也没什么用……,"Izaja, register this tablet... Right, the weather forecast tablet that other tribe gave me. Not that knowing it'd rain would help me at all...","Изая, запиши табличку... Да, та самая табличка с прогнозом погоды от того племени. Но знать, что будет дождь, всё равно бесполезно..."
+line-239,莎草,唔，吉雅阿……你怎么站在那里不干活？,"Mm... Izaja... Why are you just standing there, not working?",Мм... Изая... почему ты стоишь и не работаешь?
+line-241,温柔的村民,你……在跟谁说话呀？,W-Who are you talking to?,Ты... с кем это разговариваешь?
+line-244,莎草,——不对，你不是吉雅阿！,"—Oh no, you're not Izaja!","— О нет, ты не Изая!"
+line-246,莎草,抱歉，无论我刚才说了什么，都请你忘掉……！没有另一个部落，没有的事！,"Sorry, please forget whatever I just said...! There's no other tribe! I-I was just... Ah...","Прости, забудь, что я сейчас сказала...! Никакого другого племени, ничего такого!"
+line-257,温柔的村民,——好烫啊，难怪说了这么多胡话！,—You're burning up. No wonder you're talking nonsense.,"— Горишь! Неудивительно, что несёшь такую околесицу!"
+line-259,温柔的村民,唉，不管是不是诅咒，真可怜。我们先回屋子里休息吧。,*sigh*... No more talk of curses. Poor thing. Let's head back inside and get some rest.,"Эх, будь что будет, проклятие не проклятие — жалко её. Вернёмся домой отдохнуть."
+line-261,温柔的村民,等你病好了，我告诉你哪种树油可以涂在衣服上。涂好之后，衣服就能防水了，源石虫也不会顺着你的腿往上爬。,"Once you're feeling better, I'll tell you which tree oil you can put on your clothes to waterproof them and keep Originium slugs from climbing up your legs.","Когда поправишься, я расскажу тебе, каким маслом можно промазать одежду, чтобы не промокла и чтобы слизни не карабкались по ногам."
+line-263,莎草,谢谢……,Thanks...,Спасибо...
+line-265,温柔的村民,哎呀，真搞不懂你每天都在谢什么。树就长在那里，只是有个人走过来告诉你它有用而已。,"Silly girl, I don't understand why you keep thanking people. I didn't put the trees there, I'm just telling you how to use them.","Глупышка, не понимаю, за что ты всё время благодаришь. Деревья росли тут сами, я просто сказала, как ими пользоваться."
+line-267,温柔的村民,我告诉了你，以后你再告诉其他有需要的人。,"After I tell you, you can go tell the next person who could use the knowledge.","Я сказала тебе — теперь ты скажешь следующему, кому это нужно."
+line-269,温柔的村民,好啦，走吧。,"Alright, let's go.","Ладно, пошли."
+line-278,健壮的村民,莎草，你怎么在锯树？这活儿需要一些力气，要不我来帮你吧？,"Papyrus, why are trying to chop a tree? You need strength for work like this. Can I help?","Папирус, почему ты пилишь дерево? Для такой работы нужна сила. Давай я помогу?"
+line-280,莎草,呼……哈……不用了，谢谢您……,*gasp*... *gasp*... No thanks... I'm fine...,"Ха... ха... нет, спасибо..."
+line-282,莎草,我就是想试试看，这个用源石技艺驱动的链锯，是不是真的能省很多力……,I just wanted to see if this Arts-powered chainsaw could really save some strength...,"Я просто хотела проверить, правда ли эта цепная пила на Искусстве Ориджиниума экономит силы..."
+line-284,健壮的村民,这玩意看起来好厉害！能让我试试吗？,That looks amazing! Can I try?,Она выглядит здорово! Можно мне попробовать?
+line-286,莎草,当然！等我想办法把它关掉……,Of course! Just let me figure out how to turn it off first...,"Конечно! Только дай мне разобраться, как её выключить..."
+line-295,健壮的村民,呃，等一下，莎草，别让那个东西动得那么快！方向不对！,"Uh, hold on. Papyrus? Don't make that thing spin so fast! You're facing it the wrong way!","Э-э, подожди, Папирус, не крути это так быстро! Не в ту сторону!"
+line-298,健壮的村民,快让开！,Out of the way!,Сторонись!
+line-318,莎草,抱、抱歉……！,S-Sorry...!,П-прости...!
+line-320,健壮的村民,哈哈！我就知道，莎草，你每次出去玩，带回来的玩意都是真的好用！,"Haha! I knew it! Every time you head out, you bring back some really useful toys!","Ха-ха! Я так и знала! Каждый раз, когда ты куда-то уходишь, ты приносишь какие-то удивительно полезные штуки!"
+line-322,莎草,是、是吧……总之，我会把您的房顶补好的……,"R-Right... Anyway, I'll make sure your roof gets fixed...","Да... В любом случае, я починю вам крышу..."
+line-331,急躁的村民,喔，这个真好用！,"Whoa, this is good!","Ого, это здорово!"
+line-333,莎草,请等一下，那块石板不是用来煎羽兽卵的……,Hold on... That tablet isn't for frying fowlbeast eggs...,"Подождите... Эта табличка не для того, чтобы жарить яйца пернатой твари..."
+line-335,急躁的村民,你不就是要看上面的画嘛，等会儿俺把石板擦干净还给你。,"You just want to look at the drawings, right? I'll clean it up before giving it back.","Ты же хочешь посмотреть на рисунки, да? Я потом почищу её и верну."
+line-337,莎草,好吧……,Okay...,Ладно...
+line-339,莎草,你们现在不害怕诅咒了吗？,Are you not worried about the curse anymore?,Вы больше не боитесь проклятия?
+line-341,急躁的村民,你捡了一堆石板都没事，俺们怕啥？俺最近特地去看了埋俺奶奶的那个小石头堆，她没冒出来讲话，说明这地方没遇到坏事。,"What's there to worry about? You've got plenty of those tablets and you're still fine. I even checked on my grandma's grave—if she hasn't crawled back out, then it means nothing bad has happened.","Чего бояться? Ты набрала табличек — и ничего. Я даже сходил проверить могилу бабушки: раз она не вылезла, значит, ничего плохого не случилось."
+line-343,莎草,她……以前冒出来过吗？,Has she... crawled out before?,Она... раньше вылезала?
+line-345,急躁的村民,没有，哈哈！你也知道，俺这一辈子都特别好运！,"Never, haha! You know, I'm a really lucky guy.","Никогда, ха-ха! Знаешь, мне в жизни всегда везло!"
+line-347,急躁的村民,哎，这么一说，莎草，你怎么从来没讲过你的故事？,"Eh, that reminds me, Papyrus. How come I haven't ever heard you tell any stories about yourself?","Эх, кстати, Папирус. Почему ты никогда не рассказываешь о себе?"
+line-349,急躁的村民,俺都给你讲过俺杀第一只猎物用的是哪棵树的木头了，你还没讲过你从哪儿来，部落里有多少人，拳击比赛拿过第几名……,"I told you about the tree that made the spear I used to kill my first prey, but you haven't shared where you come from, how big your tribe is, or how many fistfights you've won...","Я же рассказал тебе, из какого дерева сделано копьё, которым я убил первую добычу, а ты не рассказывала, откуда ты, сколько человек в твоём племени и какое место заняла в кулачном бою..."
+line-351,莎草,我……我只是没那么多可讲的。,I... I don't have anything interesting to talk about.,Я... мне не о чём рассказывать.
+line-353,莎草,过去我很少和同龄人往来，也不太有机会踏出家族的府邸。我的生活里只有书。,"I didn't spend much time with people my age, and I rarely had a chance to step outside my family's manor. All I had in my life was books.",Я почти не общалась со сверстниками и редко выходила за пределы усадьбы. В моей жизни были только книги.
+line-355,急躁的村民,哦，书！你那边的商人卖什么书？俺喜欢看那种全是画的！,"Oh, books! What books do the traders there sell? I love the ones that are all pictures!","О, книги! Какие книги продают купцы у тебя? Я обожаю те, что сплошь картинки!"
+line-357,莎草,不，恐怕和你想象的有些不一样……,"No, I'm afraid it's not quite what you're thinking...","Нет, боюсь, это не совсем то, что ты думаешь..."
+line-359,莎草,我的家庭是学究世家，所以家里收藏了许多珍贵书籍，并且每一代人都致力于维护和扩充家中的藏书。,"I come from a family of academics, so we have a large collection of treasured literature at home that is maintained and expanded by each generation.","Моя семья — потомственные учёные, дома у нас большая коллекция драгоценных книг, и каждое поколение заботится о ней и пополняет её."
+line-361,莎草,当然，书的主题有千千万万，不过父亲和我们那座城市里的大多数人一样，认为历史是所有知识中最高贵的门类。,"Of course, we have books on a variety of topics, but like many people in our city, my father thinks history is the most noble of knowledge.","Книг на самые разные темы, конечно, много, но отец, как и большинство в нашем городе, считает историю самым благородным из знаний."
+line-363,莎草,至于我自己……我也不知道自己是喜欢它，还是因为别无选择而习惯了它。比起我自己的生活，我或许更熟悉两千年前人们的生活。,As for myself... I'm not sure if I like it or just got used to it because I had no other choice. I might be more familiar with how people lived two thousand years ago than my own life.,"А я... не знаю, люблю ли я её или просто привыкла, потому что выбора не было. Я, наверное, лучше знаю, как жили люди две тысячи лет назад, чем свою собственную жизнь."
+line-365,急躁的村民,两千年前？哇，那是俺奶奶的奶奶的奶奶……,"Two thousand? Whoa, that's like my grandmother's grandmother's grandmother's...","Две тысячи? Ого, это как бабушка моей бабушки моей бабушки..."
+line-367,急躁的村民,俺数不过来了，莎草，但听起来你知道很多好玩的事！,"I don't even know how far back it goes! It sounds like you know lots of really fun things, Papyrus!","Я и сосчитать не могу! Но, кажется, ты знаешь много интересного, Папирус!"
+line-369,莎草,好玩的事？……对了，曾经有一小部分学者推测，两千年前，曼提柯是雨林地区的霸主，被当作崇拜的对象。,"Fun things...? Right, there used to be a small number of scholars who speculated that the Manticores were the lords of the rainforest, idols worshiped by all.","Интересного?.. Ах, да: когда-то небольшая группа учёных предполагала, что две тысячи лет назад мантикоры были владыками дождевого леса, объектом поклонения."
+line-371,莎草,他们的依据是一具埋在大型古墓中的骨架，但后来更先进的技术证明，他们只是在复原骨架时发挥了太多想象力。,"They pointed to a skeleton found in a massive tomb as evidence, but later, more advanced technology proved that they were simply too creative when they put the skeleton back together.","Они ссылались на скелет в большой древней могиле, но позже более совершенные технологии доказали, что они просто слишком свободно отнеслись к реставрации."
+line-373,莎草,他们把一些骨头拼在了错误的位置，让阿达克利斯显出了曼提柯的特征。,"They put the bones back together in the wrong spots, and made an Archosauria look like a Manticore.",Они собрали кости не в том порядке — и архозавр стал похож на мантикору.
+line-375,莎草,说到阿达克利斯，还有一个特别著名的“娱乐假说”。,"Speaking of Archosauria, there's also an especially famous 'entertainment hypothesis'.","Кстати об архозаврах, есть ещё одна очень известная «гипотеза развлечения»."
+line-377,莎草,阿达克利斯之所以没有在早期历史上留下痕迹，是因为他们的智慧与科技早就发展到了超越萨尔贡现代水平的程度。,The reason that the Archosauria did not leave any traces in early recorded history is that their intelligence and technology had already developed to a level that was far beyond modern Sargon's.,"Причина, по которой архозавры не оставили следов в ранней истории, в том, что их разум и технологии уже давно превзошли уровень современного Саргона."
+line-379,莎草,他们已经充分满足了自己的好奇心，所以不再希望与外界接触，并且有意抹去了所有找到他们的探险者的足迹。,"They had already more than satisfied their curiosity, and so they didn't want any contact with the outside world and intentionally erased all traces of any explorers who found them.","Они полностью удовлетворили своё любопытство и больше не хотели контактов с внешним миром, поэтому намеренно стирали следы всех исследователей, которые их находили."
+line-381,莎草,还有……,And also...,И ещё...
+line-383,莎草,……啊！对不起，一旦说到专业领域，哪怕是笑话，我也会不知不觉讲得太多。,"...Oh, I'm sorry! Once I get into my area of expertise, I tend to go on and on, even if I'm just having a laugh.","...Ах, прости! Стоит мне заговорить о своей области — даже в шутку — и я начинаю сыпать без остановки."
+line-385,温柔的村民,有什么好道歉的？你专心地讲出一长串大家都没听过的东西，这很有趣啊。,What's there to be sorry about? You were telling us a bunch of things we didn't know. It's fun.,"Что тут прощать? Ты рассказала нам кучу такого, чего мы никогда не слышали. Интересно же."
+line-387,健壮的村民,对啊，我一听到那些奇奇怪怪的词，立刻像着魔一样被吸引过来了！,"Right, every time I hear you say those strange words, it just pulls me in, like I'm possessed!","Да, стоит тебе сказать эти странные слова, как меня прямо тянет, будто завороженного!"
+line-389,莎草,咳……好吧，刚刚那些都只是学术史上的逸闻，请大家无论听没听懂，千万别当真……,"Ahem... Okay, that was all just academic anecdotes. Whether you understand them or not, please don't take them seriously...","Кх... ладно, это были лишь забавные случаи из истории науки. Поняли вы их или нет, не принимайте их всерьёз..."
+line-391,莎草,但是我的生活，除了书上的故事，好像也没有什么可讲的了……,But there's really not much more I can tell besides the stories in my books.,"Но моей жизни, кроме историй из книг, больше нечего рассказать..."
+line-393,莎草,在这次决心出门游历之前，我甚至只离开过一次米纳特哈玛仪，我从小生活的城市。,"Before I made up my mind to leave home and go on a journey, I had left Menat-Ha'mait, where I was born and raised, only once.","До того, как я решила отправиться в путешествие, я всего один раз выезжала из Минат-Хамайта, города, где я родилась и выросла."
+line-395,急躁的村民,讲吧，讲吧！,Keep going!,"Рассказывай, рассказывай!"
+line-397,莎草,好……有一天，我和一个朋友为了一段文献争执了起来，她突然一拍桌子，要带我去找我们另一个共同的朋友评评理。,"Okay... One day, I had an argument with a friend over some documents. She suddenly slammed on the desk, and said she was taking me to a mutual friend to reason things out.","Ладно... Однажды я поспорила с подругой из-за одного текста. Она вдруг хлопнула по столу и сказала, что мы пойдём к нашему общему другу и пусть он рассудит."
+line-399,莎草,大概是情绪太激动了吧，我们都没有想到去找学院的教授……她联系了一支商队，我们就跟着商队出发了。,"Maybe we were both too agitated, but we didn't even think of trying the professors at the academy... She contacted a caravan, and we left with them.","Наверное, мы обе слишком разгорячились: мы даже не подумали обратиться к профессорам академии. Она связалась с караваном, и мы поехали с ним."
+line-401,莎草,一开始，我很害怕父亲知道这件事，然后因为我浪费时间以身涉险而责骂我。,"At first, I was really scared that my father would find out and punish me for wasting time and putting myself in danger.","Сначала я боялась, что отец узнает и отругает меня за то, что я зря трачу время и подвергаю себя опасности."
+line-403,莎草,不过，其实那两天我们都待在布置得像卧室一样的车厢里，我维持着七点起床的规律生活，继续读书写论文。,"But actually, we ended up staying in a carriage compartment that was made to be like a bedroom. I kept following my routine and woke up at seven in the morning to keep working on my thesis.","Но на самом деле мы всё это время сидели в вагоне, устроенном как спальня. Я вставала в семь по привычке и продолжала работать над диссертацией."
+line-405,莎草,我们要见的朋友也赶到了最近的城镇，方便和我们碰头。,Our mutual friend rushed to the closest town to meet up with us as well.,"Наш общий друг тоже поспешил в ближайший город, чтобы встретиться с нами."
+line-407,莎草,最后我只记得她特意在古墓发掘现场挑选刁钻的角度，拍了一些恐怖照片带给我……,The only things I remember about our meeting are her taking some scary photos of a tomb excavation site from unexpected angles for me...,"Из той встречи я помню только, что она нарочно выбрала неожиданный ракурс и прислала мне страшные фотографии места раскопок древней могилы..."
+line-409,莎草,还有那一带气候很恶劣，安全起见，一路上我都没有打开车厢的窗户。,And the weather being so terrible that I kept the window shut the entire trip.,"И ещё: погода там была ужасная, и ради безопасности я всю дорогу не открывала окно вагона."
+line-411,莎草,我知道那样做是对的，是对自己的身体健康负责，但直到今天我还是经常想，窗外究竟是什么样？,"I know that was the right decision for my health, but I still wonder what it looked like outside the window.","Я знаю, это было правильное решение ради здоровья, но до сих пор я часто думаю: что же было там, за окном?"
+line-414,,眼前的部落居民们茫然地你看着我，我看着你，好像没有想到故事会在这里结束。,"The tribespeople all stare at each other, apparently not expecting the story to end so abruptly.","Жители деревни смотрели друг на друга, явно не ожидая, что история оборвётся так внезапно."
+line-415,,片刻之后，随着吸食羽兽卵液的“哧溜”一声，有人大大咧咧地打破了沉默。,"After a brief moment, right after somebody slurps a fowlbeast egg, one of the audience members breaks the silence.","После короткой паузы, когда кто-то чмокнул, высасывая яйцо пернатой твари, один из слушателей нарушил тишину."
+line-417,急躁的村民,俺想问问题。车厢是什么样的？它怎么能把你的房间带着走？,I've got a question. What's a compartment? How did it bring your whole room with you?,Хочу спросить. Что такое вагон? Как он возил твой дом с собой?
+line-419,温柔的村民,这么说来，我也想问，学院是什么样的地方？,"That reminds me, I also wanted to ask, what's an academy?","Кстати, мне тоже хочется спросить, что такое академия?"
+line-421,莎草,……,...,...
+line-424,,莎草被阿达克利斯们围着，叽叽喳喳地问了很多问题。,Papyrus finds herself surrounded by the Archosauria and bombarded with questions.,"Папирус окружили архозавры, со всех сторон сыплют вопросами."
+line-425,,有些她早就预想过，有些她从来不曾想到。,"Some are ones that she had anticipated, while others are questions that she had never thought about.","Одни она предвидела, другие даже не предполагала."
+line-426,,从她小时候最熟悉的书房，到宏伟的法尔贾万达巴德博物馆，再到名为罗德岛的陆行舰。,From the library of her childhood home to the magnificent Varjavandabad Museum and then the Rhodes Island landship...,От книжной комнаты её детства до величественного музея Варджавандабад и затем до сухопутного корабля под названием Родос...
+line-427,,她束手束脚的枯燥人生，在一个个问题中变得光怪陆离。,"As she answers the questions, her boring life slowly sounds more vivid and colorful.","Её скованная, скучная жизнь в этих вопросах постепенно становилась удивительной и красочной."
+line-428,,最后，大家问到了她的这趟游历。,"Finally, everyone asks her about her current trip.",Наконец все перешли к её текущему путешествию.
+line-430,急躁的村民,俺还有个问题，莎草，你每次带回来的稀奇玩意，什么锯子什么预报有雨的石头，都是从哪里来的？,"I still have one more question, Papyrus. You keep on bringing all those strange trinkets, like saws and stones that tell when it'll rain... Where did you get them?","Ещё один вопрос, Папирус. Эти диковинки, что ты приносишь — пилы, камни, предсказывающие дождь... откуда они у тебя?"
+line-440,热情洋溢的声音,再喊大声点！咱们是去交朋友的，一定要够热情，比对方更热情！,"Louder! We're here to make friends! We need to be passionate, and more passionate than the other side!","Громче! Мы пришли дружить, надо быть воодушевлёнными, ещё более воодушевлёнными, чем другая сторона!"
+line-441,热情洋溢的声音,就按莎草给我们的口号喊！绝不会出错！,We'll shout the slogan Papyrus taught us! Nothing will go wrong!,"Будем кричать лозунг, который дала нам Папирус! Всё получится!"
+line-444,巡回医生,“交朋友”，嗯哼？小姑娘，外面的村民这么兴师动众，要闯进他们眼中的禁区，是你的主意吧。,"'Make friends', eh? Young lady, the villagers outside are mobilizing to enter the forbidden zone. That was all your idea, wasn't it?","«Дружить», хм? Девочка, жители деревни снаружи подняли всех и рвутся в запретную зону. Это всё твоя идея, верно?"
+line-446,巡回医生,我以为你早就走了。,I thought you'd have left by now.,"Я думала, ты уже ушла."
+line-448,莎草,如果我没有那么频繁地生病或者累倒在路边的话，我确实已经走了……,"If I hadn't gotten sick or collapsed from exhaustion so much, I definitely would've left...","Если бы я не болела и не падала от усталости так часто, я бы действительно ушла..."
+line-450,莎草,抱歉，医生，上次跟您吵了一架。,"I'm sorry about the disagreement we had, doctor.","Простите, доктор, что мы поспорили в прошлый раз."
+line-452,巡回医生,看来我的劝告你没听进去。,Looks like you didn't heed my advice.,"Похоже, мои советы ты не послушала."
+line-454,莎草,我只是认为，既然诅咒并不存在，他们所畏惧的雨林彼端只是另一个部落，那他们不应该一直被祖辈留下的传说困住。,"I just think that if the curse doesn't exist, then the other side of the rainforest they're so afraid of is just another tribe. They shouldn't be trapped by their ancestors' legends.","Я просто подумала: если проклятия не существует, то то, чего они боятся по ту сторону дождевого леса, — всего лишь другое племя. Не должны же они всю жизнь идти на поводу у легенд предков."
+line-456,巡回医生,你坚持“历史的真面目”，哪怕这会伤害这些活着的人。,"You insist on revealing the 'true history', even if it means hurting the ones who are alive.","Ты настаиваешь на «истинном лике истории», даже если это ранит живых людей."
+line-458,莎草,不……我反思过了，医生，请听我解释。,No... I've thought it over. Please let me explain.,"Нет... я всё обдумала, доктор, выслушайте меня."
+line-460,莎草,就像您说的一样，我不能保证两个部落接触会发生什么。史籍里，部落之间的流血冲突比比皆是。,"Just as you said, I can't be sure what will happen when the two tribes make contact. There has been much bloodshed between tribes throughout history.","Как вы и сказали, я не могу быть уверена, что при встрече двух племён ничего не произойдёт. В истории полно кровопролитных столкновений между племенами."
+line-462,莎草,所以，我其实一直在两个部落之间往返，想搞清楚他们之间的渊源。,That's why I've been going between the two tribes in order to compare and contrast them.,Вот почему я всё это время ходила между двумя племенами — сравнить их.
+line-464,莎草,要是历史上他们曾经亲如一家，至今仍然有共通的仪式，那么双方自然就有友好接触的基础。,"If they once had a close relationship and still share common rituals, then the two sides would already have the foundation of a friendly encounter.","Если раньше они были близки и до сих пор сохранили общие ритуалы, значит, у них уже есть основа для дружеской встречи."
+line-466,莎草,呃，不过……最后其实是我每次捎上的、另一部落的小发明让他们产生了好奇心。双方都主动提出，想要和雨林另一边的朋友认识一下。,"Uh, but actually... it was the inventions of the other tribes I've been bringing back that piqued their curiosity. Both sides proactively asked to meet their friends on the other side of the forest.","Э-э, но в конце концов именно маленькие изобретения других племён, что я приносила, вызвали у них любопытство. Обе стороны сами захотели познакомиться с друзьями по ту сторону леса."
+line-468,巡回医生,所以，这不是你提的主意。,So this was not your idea.,Так что это была не твоя идея.
+line-470,莎草,嗯。现在想来，我或许只是充当了一个信使。,"Right. Thinking back, perhaps I was just playing the role of a Messenger.","Да. Если подумать, я, вероятно, была просто посланницей."
+line-472,莎草,对了，医生，他们打算在大瀑布附近建一座桥，也许您这次离开的时候，就不用从雨林里瘴气最重的地方绕路了。,"Oh, doctor, they're planning to build a bridge by the waterfall. Maybe you won't have to take a detour through the foggiest part of the rainforest the next time you leave.","Кстати, доктор, они хотят построить мост у Большого водопада. Может, в следующий раз, когда вы уйдёте, вам не придётся делать крюк через самую душную часть леса."
+line-474,巡回医生,……那你呢？,What about you?,...А ты?
+line-476,巡回医生,小姑娘，你真奇怪，其实你明明可以像以前的王酋使者那样，坐着有冷气的铁皮玩意到这里来吧？,You're a strange young lady. You could've come to this place in those air-conditioned metal monsters like those heralds of the lords ameer.,"Ты странная девочка. Неужто ты не могла приехать сюда в этих металлических коробках с кондиционером, как посланцы лордов-амиров?"
+line-478,巡回医生,我看得出来，你的地位甚至应该比他们还高些。就连这两个部落的历史，你也可以找人帮你去挖。,I can tell your social standing is even higher than theirs. You could've had someone dig up the history between these two tribes for you.,"Я вижу, твоё положение даже выше их. Историю этих двух племён ты тоже могла бы велеть кому-то раскопать за тебя."
+line-480,巡回医生,你完全有能力干涉他们的生活，派一个属于你自己的信使，要求两个部落建交，甚至合到一处。这些事我都见过。,It is within your power to interfere in their lives by sending a Messenger to demand the two tribes form ties or even merge into one. I've seen that happen many times.,"Ты вполне можешь вмешиваться в их жизнь: послать своего посланника, потребовать, чтобы племена подружились или даже слились воедино. Я такое видела не раз."
+line-482,巡回医生,你干嘛要像现在这样勉强自己？,Why put yourself through all this trouble?,Зачем тебе всё это мучить себя?
+line-484,莎草,因为我不想只是来“观光”……我想知道窗外究竟是什么样。,Because I didn't want to come here for sightseeing... I want to know what it looks like outside the window.,"Потому что я не хотела приехать просто «на экскурсию»... Я хочу знать, что там, за окном."
+line-486,巡回医生,……,...,...
+line-488,莎草,在我出发之前，一位我很尊敬的人曾经对我说，远行的意义需要我自己去发现，不要忘记它，但也不用把它想得太崇高。,"Before I left home, someone I really respected once told me to discover the meaning of my journey for myself, and that I should never forget it, but also not think too highly of it.","Перед отъездом один человек, которого я очень уважаю, сказал мне: смысл дальней дороги ты должна открыть сама. Не забывай его, но и не возводи его в слишком высокий сан."
+line-490,莎草,所以我努力了。虽然从结果来说，只是我的噩梦丰富了许多……,"That's why I tried my hardest. Although going by the results, I guess the only thing that I've gained so far is a whole lot of nightmares...","Поэтому я старалась изо всех сил. Хотя, судя по результатам, всё, что я приобрела, — это куча кошмаров..."
+line-492,莎草,但看到源石虫就要做噩梦，总比只是在办公室里好奇地摸摸它们，然后带着喜悦之情回到书桌前记下它们的光泽要好。,But I think it's much better to have nightmares every time I see Originium slugs than to touch them curiously in the office before heading back to the desk to document with joy.,"Но видеть слизней Ориджиниума и пугаться куда лучше, чем любопытно трогать их в кабинете, а потом с радостью возвращаться к столу и описывать их блеск."
+line-494,巡回医生,你确实挺奇怪的。,You really are a weird one.,Ты и правда странная.
+line-496,巡回医生,现在受了这么多折磨，满意了吗？,"Are you happy, after suffering through all that?","Ну что, настрадалась? Довольна?"
+line-498,莎草,我……确实每天都在怀念办公室里的空调、纯净水，还有随时可以调阅的图书资源。,"Truth is... I do miss the air conditioning and purified water back in the office, and all the books and resources readily available.","Правда... я каждый день скучаю по кондиционеру и чистой воде в кабинете, по всем книгам и материалам, которые были под рукой."
+line-500,莎草,每天我也都会感觉到，和萨尔贡悠长的历史相比，自己的一步多么渺小。,"Every day, I feel just how insignificant each one of my steps is compared to Sargon's long history.","Каждый день я чувствую, насколько ничтожен каждый мой шаг по сравнению с долгой историей Саргона."
+line-502,莎草,在这一点上，父亲是对的，对我的学术研究来说，浸泡在雨林里的这几十天，确实是一种浪费时间。,"My father is right in that regard. Compared to my research, the weeks I've spent in this rainforest are all a waste of time.",В этом отец прав: по сравнению с моими исследованиями эти недели в дождевом лесу — пустая трата времени.
+line-504,莎草,很长一段时间里，我能坚持留在这里，只是因为我想把一件事情做完。,I was only able to persevere and stay here for such a long time because I wanted to finish one thing.,"Я смогла продержаться здесь так долго только потому, что хотела довести одно дело до конца."
+line-506,巡回医生,那些石板。,Those tablets.,Те таблички.
+line-508,莎草,是的。,Right.,Да.
+line-510,巡回医生,你给了当地人一句口号，看来你从石板上找到了不少信息。,You taught the locals a slogan. Looks like you got plenty of information out of those tablets.,"Ты дала местным лозунг — видно, ты многое вычитала из табличек."
+line-512,莎草,其实……石板上只记录了战功。,Actually... those tablets only talk about their exploits and feats in battle.,На самом деле... на табличках записаны только военные подвиги.
+line-514,莎草,如您预测的一样，医生，阿达克利斯天性好斗，以前两个部落的人一见面就会杀个你死我活。,"Just as you predicted, the Archosauria are born combative. In the past, the two tribes often came to blows whenever they saw each other.","Как вы и предсказали, доктор, архозавры от природы воинственны. Раньше стоило двум племенам встретиться — и они дрались насмерть."
+line-516,莎草,我认为，正是因为朝对方部落方向去的人都有去无回，部落里才渐渐有了“那片森林会诅咒人类”的说法。,I think... it's because somebody would go missing every time they went to the other side that the tribes slowly got the idea that the forest curses people.,"Думаю, именно потому, что отошедшие к другому племени никогда не возвращались, у них постепенно и появилась легенда, что лес проклинает людей."
+line-518,莎草,不过，对于现下活着的人们来说，过去的真相应该不重要了，对吗？,"But I suppose the truth of the past doesn't really matter to the people alive right now, does it?","Но для живущих сейчас людей правда прошлого, наверное, уже не важна, верно?"
+line-520,巡回医生,……好吧，我会帮你保守这个秘密的，小姑娘。顺带在你离开之后，我也会留心让两边别产生误会，最后又打起来。,"Very well... I'll keep that secret for you, and I'll keep an eye on the tribes so they don't come to blows again after you leave.","Хорошо... я сохраню твою тайну, девочка. И после твоего ухода присмотрю, чтобы между племенами не возникло новых недоразумений и они не перегрызлись снова."
+line-522,巡回医生,这算是你让他们搭桥，以后我可以少走点路的谢礼。,We'll call it my thanks to you for getting them to build this bridge and saving me some time in the future.,"Назовём это моей благодарностью за то, что ты убедила их построить мост — и сэкономила мне время в будущем."
+line-524,莎草,非常感谢……呃，要是您这次离开的时候能带上我就更好了。,"Thank you so much... Uh, if you wouldn't mind bringing me with you when you left this time, that'd be even better.","Спасибо вам большое... Э-э, если бы вы сейчас взяли меня с собой, было бы ещё лучше."
+line-526,莎草,我想平平安安地走到最近的城镇，先喝杯冰镇果汁，再跟罗德岛办事处取得联系……我会付钱的！,I want to make it to the closest town in one piece and enjoy an ice-cold glass of fruit juice before contacting the Rhodes Island office... I'll pay!,"Я хочу благополучно добраться до ближайшего города, выпить стакан ледяного фруктового сока и только потом связаться с представительством Родоса... Я заплачу!"
+line-528,巡回医生,不坚持你的那些原则了？,Not standing by your principles anymore?,Уже не придерживаешься своих принципов?
+line-530,莎草,都、都要走了嘛！,Th-That's because I'm leaving!,Так... ведь я уже ухожу!
+line-532,莎草,而且，部落里的人们开始集结队伍，准备走进他们曾经害怕的森林，去结识新的朋友时，我突然想明白了。,"Besides, now that the tribesmen are finally uniting and heading into the forest that they were so afraid of, in hopes of making new friends, I've finally realized...","И ещё: когда жители племен наконец объединились и пошли в лес, которого так боялись, чтобы завести новых друзей, я вдруг поняла..."
+line-534,莎草,归根结底，也许迈出第一步才是最重要的。,"In the end, the most important thing is taking that very first step.","В конце концов, главное — сделать первый шаг."

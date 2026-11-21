@@ -1,0 +1,304 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_flower_1_1,改建计划
+,,,,
+char-1,调香师,调香师,Perfumer,Парфюмер
+char-2,？？？,？？？,???,???
+char-3,波登可,波登可,Podenco,Поденко
+char-4,豆苗,豆苗,Beanstalk,Бинсталк
+char-5,豆豆,豆豆,Peacake,Бобёныш
+char-6,风笛,风笛,Bagpipe,Бэгпайп
+,,,,
+line-8,,清晨,Early morning,Раннее утро
+line-9,,罗德岛宿舍区,Rhodes Island Dormitories,Жилая зона Родоса
+line-10,,调香师的宿舍,Perfumer's Dormitory,Комната Парфюмер
+line-17,调香师,（这样的话空间就足够了。）,(That should make for enough space.),"(Так, места будет достаточно.)"
+line-18,调香师,（产量上……）,(For the output...),(По объёму производства...)
+line-20,调香师,（这一块，可能需要调整栽培方式。）,(I'll probably need to tweak the cultivation method for this section.),"(Вот здесь, вероятно, придётся изменить способ выращивания.)"
+line-21,调香师,（还有这里……）,(And then here...),(И здесь...)
+line-24,？？？,莱娜姐姐，我来给您送报告啦！,"Miss Lena, I've got reports for you!","Мисс Лена, я принесла вам отчёты!"
+line-26,调香师,嗯？是波登可吗，请进吧。,Hmm? Is that Podenco? Come right in.,Мм? Это Поденко? Входи.
+line-30,波登可,早上好，莱娜姐姐。,"Good morning, Miss Lena.","Доброе утро, мисс Лена."
+line-32,调香师,早上好，波登可。,"Good morning, Podenco.","Доброе утро, Поденко."
+line-34,波登可,这是您委托制作的库存清单和订单整理表。,"Here's the inventory list you wanted, and the completed order form.",Вот заказанные вами опись запасов и сводка заказов.
+line-36,调香师,谢谢。,Thank you.,Спасибо.
+line-40,调香师,……,......,......
+line-41,调香师,（库存数字都对得上。）,(Inventory figures all seem to line up.),(Цифры в описи сходятся.)
+line-43,调香师,（订单信息也很清晰，附上的预算……也没什么问题呢。）,"(Order information is crystal clear, too, and the budget attached... seems alright.)","(И по заказам всё ясно, и приложенная смета... вроде бы в порядке.)"
+line-44,调香师,（一些问题很明了了，不知道她能不能发现。）,"(There's a problem or two in plain sight, though. I wonder if she'll notice.)","(Кое-какие вещи бросаются в глаза. Интересно, заметит ли она.)"
+line-46,调香师,这么多资料都交给你一个人做，真是辛苦你了。,"You've done very well, handling all this documenting all by yourself.",Столько бумажной работы одной — ты и правда потрудилась.
+line-48,波登可,比起照料花卉，这些还是很简单的。,"It feels very simple to do, compared to caring for the plants.",По сравнению с уходом за растениями это совсем просто.
+line-49,波登可,只是……,Only...,Только...
+line-51,调香师,（发现了？）,(She noticed?),(Заметила?)
+line-53,调香师,嗯……我看到了。,Mmm... it caught my eye.,Мм... Я видела.
+line-55,波登可,最近的订单和预约越来越多了……活多一些没什么，晚睡一会还可以应付过去，可是……,"Orders and appointments, more and more are coming in lately... A little extra work's okay, and I can cope if I sleep a bit later, but..","В последнее время заказов и записей на приём всё больше... Немного лишней работы — не беда, можно лечь попозже, но..."
+line-57,调香师,原料不够了啊。,We just don't have enough raw material.,Сырья не хватает.
+line-59,波登可,是的，庭院里花卉的产量已经完全跟不上了。,"Right, the Garden flora's output can't keep up anymore.","Да, сад уже совсем не справляется с объёмом."
+line-60,波登可,要是再按现在的速度消耗下去，一个月以后我们就没有鲜花给大家做东西了。,"If we keep burning through them our current rate, we'll be out of fresh flowers to make things in a month.","Если мы будем расходовать их в том же темпе, через месяц у нас не останется свежих цветов, чтобы делать что-либо для всех."
+line-62,调香师,嗯哼。,Mm-hmm.,Мм-хм.
+line-64,波登可,如果可以的话，我想申请采购一些花卉，这样可以在想出办法之前争取点时间。,"If we can, I'd like to apply to purchase a few plants. That way, we can buy ourselves a little time while we think of a solution.","Если можно, я хотела бы подать заявку на закупку цветов — так мы выиграем немного времени, пока не найдём решение."
+line-65,波登可,姐姐您觉得合适吗？,"Do you think that would be okay, Miss?","Как вы считаете, мисс?"
+line-67,调香师,嗯，怎么样比较好呢？,Hmm. What to do?,Мм. А что было бы лучше?
+line-70,波登可,姐姐，你怎么还一副没事的样子，花要不够用了呀？！,"Miss, why are you still so calm? The flowers are going to run out, aren't they?!","Мисс, почему вы всё ещё так спокойны? Цветов же скоро не хватит!"
+line-72,调香师,呵呵，别急嘛，总能想到办法的。,"Heheh, don't worry. We'll find a way.","Хе-хе, не волнуйся. Что-нибудь да придумаем."
+line-73,调香师,来，坐吧，喝杯茶，休息一下。,"Here, come sit. Have a cup of tea, and take a breather.","Иди сюда, садись. Выпей чаю, отдохни."
+line-74,调香师,正好我有几个问题想咨询你。,It just so happens I have a few questions I'd like your opinion on.,"Как раз у меня есть несколько вопросов, с которыми я хотела бы тебя спросить."
+line-76,波登可,既然姐姐您都这样说了……,"Oh, if you really say so, Miss...","Раз вы уже так сказали, мисс..."
+line-78,调香师,我问你，罗德岛常年在整个大地上四处移动，你有稳定的供货商为你供货吗？,"Let me ask. With Rhodes Island roving all over Terra year-round, do you have a stable supplier to sell to you?",Скажи мне: Родос постоянно кочует по всей земле. У тебя есть надёжный поставщик?
+line-80,波登可,拜托后勤部的话，他们应该能想到办法吧。,"If you leave it in Logistics's hands, they can probably work something out.","Если попросить отдел снабжения, наверное, они что-нибудь придумают."
+line-82,调香师,那也不能事事都麻烦他们，总有更重要的东西需要他们寻找渠道和花费资金，不是吗？,"But we can't trouble them with everything. There's always more important things for them to eke out channels and spend their funds on, isn't that right?","Но нельзя же беспокоить их по всякому поводу. У них всегда найдутся более важные вещи — каналы, которые надо искать, и деньги, которые надо тратить, правда?"
+line-84,波登可,唔……,Oh...,Мм...
+line-86,调香师,如果后勤部的干员们帮忙联系到了供货商，但对方不能满足我们的需求，这下又怎么办呢？,"If the Logistics Department's Operators made contact with a supplier, but the other side couldn't meet our requirements, what then?","Допустим, операторы отдела снабжения нашли поставщика, но он не может выполнить наши требования. Что тогда?"
+line-87,调香师,要知道庭院里的花可是我们辛苦从全泰拉收集过来的，某些甚至是不被允许交易的特有花卉。,"You have to consider, we painstakingly assembled the Garden's plantlife from across Terra. A certain few of our plants are even special kinds not permitted to be bought or sold.","Помни, растения в саду мы собирали по всей Терре с большим трудом, а некоторые из них — редкие виды, которыми вообще запрещено торговать."
+line-88,调香师,如果我们下了订单，对方没法满足我们的需求，那又怎么办呢？,"If we made an order, but they had no way of fulfilling our needs, what then?","Если мы сделаем заказ, а он не сможет его выполнить — что тогда?"
+line-90,波登可,那我们可以只买常见花卉，把空间空出来，全部种植珍稀花朵呀？,"Then maybe we can purchase the more common ones, free up some space, and plant all rare flowers?","Так мы можем купить только обычные цветы, освободить место и посадить на нём одни редкие?"
+line-91,波登可,比方说玫瑰，您觉得呢？,"Like the rugosa roses, maybe? What do you think?","Например, розы. Как считаете?"
+line-93,调香师,（噗，是我以前想过的蠢办法呢。）,(Pfft. There's a silly idea I had as well.),"(Пфф. Это же глупая идея, которая у меня самой была.)"
+line-94,调香师,是哦，这是我们用量最大，也是最容易购买到的花朵。,"You're right, they're the flower we use the most of, and the easiest to purchase at that.","Ты права — это цветы, которых мы расходуем больше всего и которые легче всего купить."
+line-95,调香师,嗯……,Hmm...,Мм...
+line-96,调香师,波登可，还记得自己在家乡种的玫瑰花吗？,"Podenco, do you still remember the roses you planted where you grew up?","Поденко, помнишь розы, которые ты выращивала у себя дома?"
+line-98,波登可,嗯！,Mm-hm!,Мм-м!
+line-100,调香师,那你觉得，家乡的玫瑰花和庭院里种植的玫瑰花，有什么区别呢？,"Then do you feel any particular difference between the roses back home, and the ones in the Garden?","Так чувствуешь ли ты разницу между розами из родных мест и теми, что растут в саду?"
+line-102,波登可,家里的玫瑰花气味比较清淡，与其说像花，不如说像我们当地的一种水果。,"The rugosas back home had a lighter kind of aroma. It was less of a flower and more like one of our local fruits, really.","Домашние розы пахли слабее — скорее не как цветы, а как один из наших местных плодов."
+line-103,波登可,姐姐这里的玫瑰，香味很浓，却又不冲鼻子，很好闻。,"The ones here have a much stronger fragrance, but they don't make your nose wrinkle either. They're really nice-smelling, Miss.","А здесь, у вас, розы пахнут очень сильно, но не резко. Очень приятно."
+line-105,调香师,你看，同样是玫瑰，差别却有那么大。我们又怎么确定供货商送来的花朵，和我们自己栽种的，是同样品质的花朵呢？,"See, both are rugosa roses all the same, yet they're so different. How could we make sure flowers from a supplier have the same qualities as the ones we grow here?","Видишь? Одни и те же розы — а какая разница. Как мы можем быть уверены, что цветы от поставщика будут такого же качества, как выращенные нами?"
+line-106,调香师,我们固然是可以将这些花当作自己栽种的花来用，可万一有干员因为原料的细微变化在服用我们的制品后不适，我可就对不起博士的信任了。,"We could certainly treat those flowers like our own in use, but in the off-chance an Operator feels unwell using our goods because of that minute change in ingredients, I would be betraying the Doctor's trust.","Конечно, мы могли бы использовать их как свои, но если хоть один оператор почувствует себя плохо из-за малейшей разницы в сырье, я не смогу смотреть в глаза Доктору."
+line-107,调香师,更何况，即使是玫瑰，有些品种也不容易买到。,"Not to mention, despite being roses, some varieties aren't easy to purchase.","Не говоря уже о том, что даже среди роз некоторые сорта достать непросто."
+line-108,调香师,还记得长在冰箱冷冻柜里的玫瑰吗？,Do you still remember the ones growing in the freezer compartment?,"Помнишь розы, что росли в морозильной камере?"
+line-109,调香师,那些虽然也是玫瑰，但性质，尤其是药用性质上和田里种植的玫瑰有很大差别，因为只在乌萨斯以北的冰原生长，是医疗部特意委托我种植的。,"They might be roses still, but their nature, and their medicinal nature above all, is very different from roses growing on the farms. Because they only grow in the northern tundras of Ursus, and the Medical Department specially entrusted me with their cultivation.","Они тоже розы, но по своим свойствам — особенно лечебным — сильно отличаются от полевых. Они растут только в тундрах к северу от Урсуса, и Медицинский отдел специально попросил меня их выращивать."
+line-110,调香师,我总不能，随便冻一支玫瑰就交给凯尔希医生吧。,"I could never just freeze any rose I fancied and hand it over to Dr. Kal'tsit, could I?",Я же не могу просто заморозить любую розу и отдать её доктору Кальцит.
+line-112,波登可,抱歉姐姐，是我没想到这些……,"I'm sorry, Miss, I didn't think about any of this...","Простите, мисс, я об этом не подумала..."
+line-114,调香师,嗯，没事的。,"Oh, it's quite alright.","Мм, всё хорошо."
+line-115,调香师,你已经考虑了许多，很不错了。,You've thought through a great deal already. You should be proud.,Ты уже многое обдумала. Это хорошо.
+line-117,波登可,莱娜姐姐，你这么说肯定是想好主意了，告诉我吧。,"Miss Lena, the way it sounds, you must have a plan. You can tell me.","Мисс Лена, раз вы так говорите, значит, у вас уже есть план. Скажите мне."
+line-119,调香师,怎么办呢~,What to do indeed~,Что же делать~
+line-121,调香师,那就干脆把疗养庭院关掉吧。,"Well, then, let's shutter the Convalescent Garden.",Тогда просто закроем Лечебный сад.
+line-124,波登可,唉？！,Huh?!,А?!
+line-125,波登可,莱娜姐姐你可别想不开呀！,"Miss Lena, you can't even consider closing down!","Мисс Лена, не думайте такого!"
+line-127,调香师,我可是一直很清醒的。,I've had a clear mind about it the entire time.,Я всё это время была в полном уме.
+line-128,调香师,凑近一些，看看这个。,"Lean in here a little, take a look at this.","Подойди ближе, посмотри сюда."
+line-132,波登可,这是——？,This is—?,Это...?
+line-138,调香师,疗养庭院的改造计划书。,The Convalescent Garden remodeling plan.,План реконструкции Лечебного сада.
+line-139,调香师,我已经和博士讨论过了，他同意把庭院旁边的仓库清空，全部划归给庭院。,"I've already discussed it with the Doctor, who's agreed to clear the neighboring storehouse and incorporate it into the Garden entirely.",Я уже обсудила это с Доктором. Он согласился освободить склад рядом с садом и целиком отдать его саду.
+line-140,调香师,这样庭院有了更多的栽植空间，提供给客人的休闲区、进行香薰疗法的香薰室、你的小温室都可以进行相应的改修。,"This way, we can have more space for planting, provide an area for guests to relax, set up a dedicated aromatherapy room, and your little greenhouse can even get a fix-up alongside.","Так у сада появится больше места для посадок, а зону отдыха для посетителей, комнату ароматерапии и твою маленькую теплицу можно будет соответствующим образом перестроить."
+line-143,波登可,我的也可以扩大吗？！,Can I expand mine too?!,Мою тоже можно расширить?!
+line-145,调香师,嗯。,Yes.,Мм.
+line-147,波登可,太好了！,That's wonderful!,Ура!
+line-149,调香师,而且，我也准备把自己的宿舍搬进去。,"Moreover, I'm preparing to move my own dormitory in there.",И ещё: я собираюсь переехать туда самой.
+line-151,波登可,姐姐要住在庭院里吗？,You're going to live in the Garden?,Вы будете жить в саду?
+line-153,调香师,因为从宿舍去庭院太费时间了，所以我想，干脆就住在庭院里比较好，一部分研究室也可以顺带合并到我的宿舍里。,"It takes too much time to get there from the dormitories, after all. So I thought to myself, I might as well just live there. Part of the research room will be merged with my own room.","Добираться из общежития в сад слишком долго, поэтому я решила, что проще жить прямо в саду. Часть лаборатории тоже можно будет объединить с моей комнатой."
+line-154,调香师,这样一算，反而能节省不少空间呢。,"This way, I can actually save on quite a bit of space.","Если посчитать, мы даже сэкономим довольно много места."
+line-156,调香师,只是——,The thing is—,Только вот...
+line-158,波登可,只是？,What is it?,Только что?
+line-160,调香师,如果只有我们来干，人手上还是太紧张了些。,"The workload will be a bit too much, for just us two alone.","Если делать это только нам вдвоём, рук всё равно будет маловато."
+line-161,调香师,正巧我们有更多的空间来建造个大型温室，能麻烦你帮我找一位这样的干员过来吗？,"It just so happens we'll have much more space to build an even larger greenhouse. Could I trouble you to find an Operator for the task, and bring them over for me?",Как раз теперь у нас больше места для большой теплицы. Не могла бы ты найти подходящего оператора и привести его ко мне?
+line-163,波登可,要求是擅长栽种和擅长建造温室，对吗？,"We'll need someone good with botany and greenhouse construction, right?","Нужно кто-то, кто разбирается в выращивании растений и в строительстве теплиц, верно?"
+line-165,调香师,是的。,Right.,Да.
+line-167,波登可,那我就先去找人了，找到了就联系姐姐。,"Then I'll go and find someone now. When I do, I'll get in touch with you, Miss.","Тогда я пойду искать. Как найду — сразу свяжусь с вами, мисс."
+line-169,调香师,嗯，路上小心啊。,"Mmm, take care on your way.","Мм, осторожнее по дороге."
+line-178,调香师,……,......,......
+line-179,调香师,哼哼，这孩子也慢慢成长起来了呢。,"Hm-hmm, she's grown a little more every day I see her.","Хм-хм, и этот ребёнок понемногу растёт."
+line-180,调香师,或许这一回，我能只监督不做工了？,"Perhaps this time, I'll be able to just sit back and supervise?","Может, на этот раз я смогу только наблюдать, а не работать?"
+line-182,调香师,……,......,......
+line-184,调香师,凯尔希小姐也真是的，当初和她发牢骚说花卉品质不好，直接就把整个疗养庭院丢给我负责了。,"Really, that Miss Kal'tsit. I grumble to her and mention the poor plant quality, and she hands the whole Convalescent Garden straight off onto my back.","Ну и мисс Кальцит! Я только пожаловалась ей на плохое качество цветов, а она сразу повесила на меня весь Лечебный сад."
+line-185,调香师,规划、计量、栽培，还真是什么麻烦事都交给我一个人办了……,"Planning, measuring, cultivation, every last little thing, left for me to sort out on my own...","Планирование, расчёты, выращивание — всё, решительно всё хлопотное досталось мне одной..."
+line-187,调香师,我也，唉……就那么听她的话自己一边学一边建……,"And I, *sigh*... did exactly as she told, learning as I set things up...","А я, ох... послушалась её и строила, учась на ходу..."
+line-189,调香师,还好能种出些花，能够给罗德岛的各位一个交代。,"At least I could grow some flowers, and give something or other to all of Rhodes Island.","Хорошо ещё, что хоть какие-то цветы у меня выросли и я могу отчитаться перед всеми на Родосе."
+line-191,调香师,这一次……,And now...,А теперь...
+line-193,调香师,……,......,......
+line-195,调香师,嗯，这次就让波登可也锻炼一下吧。,"Hmm, now I can have Podenco build some strength too.","Мм, на этот раз пусть и Поденко немного потренируется."
+line-196,调香师,我呢，就把事情安排好，然后坐在旁边给自己放个小长假。,"I'll just get everything set up, sit on the sidelines, and give myself a little holiday of sorts.","А я всё спланирую, усядусь в сторонку и устрою себе маленький отпуск."
+line-197,调香师,呵……哈……,Phew... ha...,Фух... ха...
+line-198,调香师,喝杯茶休息一下……,Let's have some tea and rest...,Выпьем чаю и отдохнём...
+line-203,调香师,茶包……茶包……,Tea bags... tea bags...,Чайные пакетики... пакетики...
+line-213,,中午,Midday,Полдень
+line-214,,罗德岛宿舍区,Rhodes Island Dormitories,Жилая зона Родоса
+line-215,,调香师的宿舍,Perfumer's Dormitory,Комната Парфюмер
+line-219,调香师,（这里应该用不着再修改了。）,(This area shouldn't need any more alterations.),"(Здесь, кажется, больше ничего переделывать не нужно.)"
+line-221,调香师,（唔……）,(Oh...),(Мм...)
+line-222,调香师,（有些饿了啊。）,(I'm a little peckish now.),(Я немного проголодалась.)
+line-235,调香师,今天吃什么好呢？,I wonder what to eat today?,Что бы сегодня съесть?
+line-237,调香师,我好像已经闻到食物的香味了。,I'm even hallucinating the smell of food.,"Мне уже кажется, что я чую запах еды."
+line-239,调香师,……,......,......
+line-240,调香师,嗯？,Hmm?,Мм?
+line-241,调香师,不对，这是——？,"Hold on, is this—?","Нет, это что-то —?"
+line-243,调香师,（嗅嗅）,(*sniff* *sniff*),(Нюхает)
+line-245,调香师,这个花香，我怎么从没在岛上闻到过？,How come I've never smelt any flower like this aboard the Island before?,Этот цветочный аромат... Как я его раньше никогда не слышала на корабле?
+line-253,？？？,就通融一点——点，一小块场地，就可以了。,"Just gimme a liiiiittle bit, just a tiny patch, and things'll be gold.","Ну уступите хоть чу-уточку, крошечный участок — и всё будет хорошо."
+line-254,？？？,我家的小磐蟹最近开始长个了，新生代好像也快要诞生了，为了新的小生命，就帮忙批一些空间吧。,"All my little Metal Crabs are starting to grow up, and the new generation's gonna come into the world pretty soon too, so, for the sake of new life, hand me some space and you'll be a winner.","Мои маленькие металлические крабики начали расти, и скоро появится новое поколение. Ради новых жизней дайте же немного места!"
+line-255,？？？,如果养殖场空间不够的话，我真的会养在宿舍里的，虽然它们不会乱走动，但宿管姐姐们肯定会不开心的。,"If I don't have enough farm room, I'll raise them in the dorms, seriously. I mean, they're not gonna cause a ruckus, but I don't think all the nice Misses living there are gonna be happy.","Если в загоне будет тесно, я и правда буду держать их в общежитии. Они, конечно, не будут бегать где попало, но смотрительницы наверняка не обрадуются."
+line-258,？？？,哎，你这个人做事就不能灵活些吗！唉，不和你说了，我找其他人去！,"Augh, can't you just be a little flexible?! Ugh, I'm done with you. I'll find someone else!","Ах, неужели ты не можешь быть хоть немного гибче?! Ух, не хочу с тобой больше разговаривать, пойду к другим!"
+line-270,调香师,你好像遇上了些事情，有什么我能帮上忙的吗？,You seem to be dealing with something or other. Is there anything I can help with?,"У тебя, кажется, какая-то проблема. Могу ли я чем-нибудь помочь?"
+line-272,？？？,啊你好，你是——？,"Ah, afternoon. You're—?","А, здравствуйте. Вы —?"
+line-274,调香师,我是调香师莱娜，负责管理疗养庭院和照料花朵。,"I'm Lena, the Perfumer. I'm responsible for managing the Convalescent Garden and tending to the plants.","Я — Лена, Парфюмер. Я управляю Лечебным садом и ухаживаю за растениями."
+line-276,豆苗,你好莱娜，我是豆苗。,"Nice to meet you, Lena. I'm Beanstalk.","Здравствуй, Лена. Я — Бинсталк."
+line-284,调香师,现在是饭点了，方便的话可以一起用餐吗，这样我们可以边吃边聊。,"It's about lunchtime right now. If it's convenient for you, perhaps we can eat together? We can chat over our food that way.","Сейчас как раз время обеда. Если тебе удобно, давай поедим вместе — за едой и поговорим."
+line-286,豆苗,嗯，就这样吧，我正巧也有点饿了。,"Huh, really? It just so happens I'm a little hungry too.","Хм, ладно. Я как раз тоже немного проголодалась."
+line-293,调香师,所以说，你的特长是养殖磐蟹，对吗？,"So, you specialize in Metal Crab farming, is that right?","Так, значит, ты разводишь металлических крабов, верно?"
+line-295,豆苗,是呀，这些都是好宝贝。,Yep. They're all my sweet little darlings.,Да. Они все такие милые.
+line-296,豆苗,和那些野生的磐蟹不一样，它们又温驯又听话，有的还特别粘人。,They're not like those wild Metal Crabs. They're tame and obedient. Some of them love people more than anything.,"В отличие от диких металлических крабов, они ручные и послушные, а некоторые просто обожают людей."
+line-297,豆苗,比如说豆豆。,Like little Pea here.,"Например, Бобёныш."
+line-299,豆豆,（眨眨眼）,(Blinks),(Моргает)
+line-301,调香师,我可以，摸摸它吗？,May I—pet it?,Можно я... поглажу его?
+line-303,豆苗,可以呀，豆豆不怕生的。,Go right ahead. Pea's not scared of strangers.,Конечно. Бобёныш не боится незнакомцев.
+line-305,调香师,（完全没有攻击性呢。）,"(It's not aggressive one bit. Well, then.)",(Совсем не агрессивный.)
+line-307,调香师,（这个香味，的确是从磐蟹头顶的花上传来的。）,(And the fragrance is definitely coming from the flowers on top of its head.),(Этот аромат и правда идёт от цветов на голове краба.)
+line-308,调香师,（我之前从来没闻过，或许是种稀有花卉？）,(I've never scented this before. Perhaps it's an uncommon plant species?),"(Я никогда его не слышала. Может, это редкий вид?)"
+line-309,调香师,（不浓郁，但是很耐闻，香气也很稳固。）,"(It's not heavy, but it has staying power, and its aroma is very stable too.)","(Не густой, но стойкий, и аромат очень ровный.)"
+line-310,调香师,（或许会是不错的底香。）,(It might not be bad as a base fragrance.),"(Может, он хорошо подойдёт как базовая нота.)"
+line-311,调香师,（药用价值的话，还需要等采集以后进行更进一步的分析。）,"(As for medicinal value, that'd have to wait until harvesting and further analysis.)",(Что до лечебных свойств — придётся подождать сбора и провести более детальный анализ.)
+line-313,豆苗,莱娜小姐，您突然就呆在那里了，想什么呢？,"What'cha frozen there for, Miss Lena? What's on your mind?","Мисс Лена, вы вдруг замерли. О чём задумались?"
+line-315,调香师,啊，真是抱歉，职业病犯了。,"Ah, I'm very sorry about that. Just a bout of occupational disease.","Ах, простите. У меня опять профессиональная привычка."
+line-317,调香师,豆豆身上的味道，很好闻呢。,"Pea's scent is very pleasant, I have to say.",От Бобёныша очень приятно пахнет.
+line-319,豆苗,是吗？能听到专家这么说真是太好啦！,"Really? Thank you, that's an amazing opinion to get from an expert!",Правда? Как приятно услышать это от специалиста!
+line-321,调香师,能冒昧打听一下，豆豆头上的花，可以采摘下来吗？,"If I might be so bold to ask, would I be allowed to pick the flower on Pea's head?",Позволю ли я себе спросить: можно ли сорвать цветы с головы Бобёныша?
+line-323,豆苗,可以哦。,Go right on.,Конечно.
+line-324,豆苗,它们互相玩耍的时候有时也会把花剪下来或者吃掉，但很快就长出来了。,"They snip them off each other or eat them when they're all playing together, you know, but they grow back real fast.","Когда они играют друг с другом, то иногда откусывают или срывают цветы, но те быстро отрастают."
+line-326,调香师,（是一种稳定共生的花卉吗？真有趣。）,"(Is it a stable, symbiotic sort of plant? How interesting.)",(Это устойчивый симбиоз? Очень интересно.)
+line-327,调香师,（或许我可以试着请豆苗帮我“种”一些？）,(Perhaps I could ask and see if Beanstalk would help me 'plant' some?),"(Может, я попрошу Бинсталк «вырастить» для меня несколько?)"
+line-329,调香师,（之前就想在庭院里养些温驯的动物，可惜没能找到合适的品种。）,"(I've been wanting to keep a few docile animals in the Garden, but just couldn't ever find a suitable breed.)","(Я давно хотела держать в саду каких-нибудь ручных зверьков, но никак не могла найти подходящий вид.)"
+line-331,调香师,（这一次或许是个机会。）,(This might just be my chance.),"(Может, теперь как раз тот случай.)"
+line-333,调香师,那么，你能听听我的请求吗？,"Well, then. Could you hear out a request of mine?",Так выслушаешь ли ты мою просьбу?
+line-335,豆苗,我听着呢。,I'm all ears.,Я слушаю.
+line-337,调香师,其实我对这些小家伙头上的花卉很有兴趣。,I'm actually awfully interested in the plants on these little friends' heads.,На самом деле меня очень заинтересовали цветы на головках этих малышей.
+line-338,调香师,这些花非常独特，我只在它们头上见过。,These flowers are exceptionally unique. This is my first time ever seeing them.,"Они очень необычные, и я больше нигде их не встречала."
+line-339,调香师,如果开发出特定用途的话，一定会是非常珍贵的材料。,"If we worked on a specific application for them, I can guarantee they'd be very precious as a material.","Если найти им конкретное применение, они станут очень ценным материалом."
+line-340,调香师,我刚刚恰巧听到了你和后勤干员的谈话。你也在头疼养殖区域的问题，对不对？,"I just so happened to overhear your chat with the Logistics Operator. You're worrying over cultivation space as well, aren't you?","Я случайно слышала твой разговор с оператором из отдела снабжения. Ты тоже ломаешь голову над местом для разведения, верно?"
+line-341,调香师,我想我可以给你一些空间来安置小家伙们。,I'm thinking I could give you some room to settle your little friends down in.,"Думаю, я могу выделить тебе место, чтобы поселить этих малышей."
+line-344,豆苗,真的？！,For real?!,Правда?!
+line-346,调香师,真的哦，这件事如果成功了，想必对大家都有好处。,"For real, indeed. If this works out, I can only presume everyone will reap the rewards.","Правда. Если всё получится, думаю, всем будет только польза."
+line-347,调香师,只要这些小家伙能够乖乖被养起来，不在温室里乱跑。,"As long as these little ones are kept and raised well, and they don't scamper all about in the greenhouse.","Главное, чтобы малыши спокойно жили у тебя и не бегали по теплице где попало."
+line-348,调香师,适当的时候和来庭院的干员们互动一下。,"At appropriate times, they'd interact with Operators coming to the Garden too.","И чтобы в нужное время они общались с операторами, приходящими в сад."
+line-350,豆苗,它们都是我亲手养大的，对人没什么敌意，你可以放心。,"They're all personally raised by me, and they're not hostile with people. You've got no worries.","Я вырастила их сама, они не настроены против людей. Можешь не беспокоиться."
+line-352,调香师,有你担保，我可就安心多了。,Thank you for your guarantee. It's a great reassurance.,"Если ты ручаешься, мне станет намного спокойнее."
+line-353,调香师,合同的话，就麻烦由你这边起草了，相关的费用和金额我们可以到时候再详谈。,"As for a contract, I'll leave drawing that up to you, if that's fine. We can talk over any associated expenditures and costs when the time comes.","Что до контракта — не могла бы ты подготовить его проект? О суммах и расходах мы поговорим позже, когда придёт время."
+line-358,,嘀嘀嘀——,*Bzzzzzt*—,Би-би-би —
+line-361,调香师,抱歉，是我的终端。,"I'm sorry, that's my terminal.","Прости, это мой терминал."
+line-364,调香师,嗯，是我。,"Mhmm, it's me.","Мм, это я."
+line-366,调香师,你找到人了吗？好，好的，辛苦了。,"You've found somebody? Good, that's wonderful. Thank you so much.","Ты нашла кого-то? Хорошо, отлично. Спасибо тебе большое."
+line-368,调香师,我现在就过来。,I'll come over right now.,Я иду прямо сейчас.
+line-369,调香师,好，一会见。,Alright. See you in a moment.,"Хорошо, до встречи."
+line-375,,嘀嘀,*Bzzzt*,Би-би
+line-380,调香师,不好意思，豆苗，我还有些事，就先离开了。,"Apologies, Beanstalk, but there's a thing or two that needs me. I'll be heading off first.","Прости, Бинсталк, у меня ещё кое-какие дела. Я пойду первой."
+line-381,调香师,这个是我的名片，如果你合同准备好了，可以随时联系我。,"This is my card. If you have the contract ready, you can contact me whenever.","Это моя визитка. Когда подготовишь контракт, можешь связаться со мной в любое время."
+line-383,豆苗,好的，莱娜。,"Sounds good, Lena.","Хорошо, Лена."
+line-384,豆苗,谢谢您，您真是个好人！,"Thanks a million! You're a real good one, you know!",Спасибо вам! Вы такой хороший человек!
+line-386,调香师,好人哪里都是，知心大姐姐只有这里一个哦！,You can find good ones anywhere. You'll only find someone as caring and sisterly as me right here!,"Хорошие люди встречаются везде, а вот заботливая старшая сестра — только здесь!"
+line-387,调香师,下次再见~,See you later~,До встречи~
+line-393,,罗德岛本舰,Rhodes Island Landship,Корабль Родос
+line-394,,疗养庭院前,Outside the Convalescent Garden,У входа в Лечебный сад
+line-398,波登可,姐姐，我在这里！,"Miss, I'm over here!","Мисс, я здесь!"
+line-408,调香师,……,......,......
+line-410,调香师,波登可，你找的干员呢？,"Podenco, where's your Operator?","Поденко, где оператор, которую ты нашла?"
+line-412,调香师,我怎么只看见——一辆小型拖拉机？,Why do I only see—a small tractor?,Почему я вижу только... маленький трактор?
+line-414,波登可,风笛小姐在拖拉机后面，马上就过来。,Bagpipe's behind it. She'll come over just in a moment.,Мисс Бэгпайп за трактором. Она сейчас подойдёт.
+line-416,波登可,风笛小姐，风笛小姐！,"Bagpipe, Bagpipe!",Мисс Бэгпайп! Мисс Бэгпайп!
+line-422,风笛,啊！你来了吗！,Ah! There you are!,Ах! Ты тут!
+line-423,风笛,好久不见，调香师！,"Been a long time, Perfumer!","Давно не виделись, Парфюмер!"
+line-424,风笛,我帮波登可搬了一些土过来。,I brought some soil over here for Podenco.,Я привезла немного земли для Поденко.
+line-425,风笛,已经按照最合适的比例配比好了，我能立刻开工哦，就等你开门了。,"Already got all the ratios set up like you'd best want 'em. I can kick things off whenever, just waitin' for you to open up the door.","Всё уже смешано в нужных пропорциях, я могу начинать прямо сейчас — только открой дверь."
+line-427,调香师,……,......,......
+line-429,风笛,有些土我看颗粒太大就给它磨细，这样混合起来会方便些。,"Gave some of it a grindin' down after I noticed the grain was a bit too coarse, so now that should make it easier some to mix.","Кое-какую землю я размолола — комки были слишком крупными, так смешивать будет легче."
+line-431,调香师,（她把火山岩给，磨细了？）,(She ground down—volcanic rock?),(Она размолола... вулканическую породу?)
+line-433,波登可,莱娜姐姐你怎么了？脸色好像不太好，是身体不舒服吗？,"Miss Lena, what's wrong? You look a little pale. Do you feel unwell, maybe?","Мисс Лена, что с вами? Вы выглядите бледной. Вам плохо?"
+line-435,调香师,风笛，能麻烦你一件事吗？,"Bagpipe, could I bother you just a second?","Бэгпайп, можно тебя кое о чём попросить?"
+line-437,风笛,嗯，你说，有什么能帮的我一定帮。,"Aye, go ahead. I'll help however as long as I can.","Ага, говори. Чем смогу — помогу обязательно."
+line-439,调香师,那就请帮我把混起来的土分开吧。,"Then I'd like you, please, to take the soil you mixed and separate it.","Тогда, пожалуйста, раздели ту землю, которую ты смешала."
+line-441,调香师,您，混，错，了。,You've. Mixed. It. Wrong.,Вы. Всё. Не так. Смешали.
+line-449,风笛,对不起！真的对不起！我以为你种花的土是混合好以后直接撒在大棚里的！,So sorry! I'm sorry! I thought you were mixin' the soil for flowers before you scattered it around the big shed!,"Простите! Очень простите! Я думала, что землю для цветов просто смешивают и рассыпают по теплице!"
+line-451,波登可,姐姐，不要生气了，我、我也没意识到，不好意思！,"Miss, please don't be upset—I—I wasn't aware as well, I'm terribly sorry!","Мисс, не сердитесь, я... я тоже не заметила. Простите!"
+line-453,调香师,哈……,Ha...,Ха...
+line-455,调香师,（算了，也不能怪她们，毕竟我做过更傻的事情……）,"(Oh, so be it. I can't blame them. After all, I've done much stupider things...)","(Ладно, не могу их винить. Я и сама делала куда более глупые вещи...)"
+line-457,调香师,（那时候我可是开着工程车脚踩油门一路撞到食堂去了……）,(I did once take an engineering vehicle and floor it all the way until I bumped into the cafeteria...),"(Тогда я села за инженерную машину, нажала на газ и врезалась прямо в столовую...)"
+line-459,调香师,（这位是风笛小姐吧，她确实很熟悉农业，应该能帮得上忙。）,"(So this is Bagpipe. She's very familiar with agriculture, that's true. She should be able to help out.)",(Так это мисс Бэгпайп. Она и правда разбирается в сельском хозяйстве — должна помочь.)
+line-460,调香师,（请她帮忙吧。）,(Let's ask her to.),(Попросим её о помощи.)
+line-462,调香师,（等我说完这几句气话。）,(After I'm done with a few choice angry words.),(Как только я выскажу пару сердитых слов.)
+line-464,调香师,风笛小姐，下次请不要再开这样的玩笑了。,"Bagpipe, please, next time, never pull this sort of practical joke again.","Мисс Бэгпайп, в следующий раз, пожалуйста, не шутите так больше."
+line-466,风笛,唉，我没有……,"Oh, I wasn't...","Ох, я же не..."
+line-468,调香师,在庭院里种花和在种植区种菜还是不一样的，我们不是在一个有限空间里种植大量同种类作物，请你理解。,"Growing flowers in the Garden and growing vegetables in plots are very unalike. We're not trying to plant bulk monocultures in a finite space here, please understand that.","Выращивать цветы в саду — не то же, что выращивать овощи на грядках. Мы не сажаем огромное количество одной культуры на ограниченном пространстве. Поймите меня."
+line-471,风笛,啊，呜……是……,"Um, ohh... got it...","Ах, ой... поняла..."
+line-473,调香师,这些土种不了花，到时候拿去做养殖场的基底吧。,We can't plant flowers in this soil now. Let's just use it for the farm's base layer when the time comes.,На этой земле цветы не вырастим. Потом используем её как основу для загона.
+line-475,波登可,养殖场？,The farm?,Загон?
+line-477,调香师,嗯，改建计划上有些改动，我需要养殖一些豆苗小姐的小磐蟹，详细情况我们回去再谈。,"Mmm, we're amending our refurbishment plans a little, since I'd like to raise some of Beanstalk's little Metal Crabs. We can go over it in more detail once we head back.","Мм, в план реконструкции вносятся изменения: мне нужно разводить металлических крабов мисс Бинсталк. Подробно поговорим, когда вернёмся."
+line-479,风笛,如果不需要我的话，我就先回去了……,"If you don't need me, I'll just be headin' home now...","Если я больше не нужна, я, наверное, пойду..."
+line-481,调香师,嗯，好的，先把拖拉机开走吧。,"Mhmm, that's fine. Drive the tractor away first.","Мм, хорошо. Сначала убери трактор."
+line-483,风笛,我知道了……,Got it...,Поняла...
+line-485,调香师,毕竟今天还没开工，用不上的。,"After all, we haven't even started today, so we won't need it.","Мы же сегодня ещё не начинали, он не понадобится."
+line-486,调香师,混合土也存放在你那里吧，这里暂时没有空间堆存了。,"Store the mixed soil at your place, since for now we don't have anywhere to dump it.",И смешанную землю пока храни у себя — здесь негде её складывать.
+line-488,风笛,好的……,Alright...,Хорошо...
+line-490,调香师,等做完之后，请来一趟我的宿舍吧，还有许多事要劳烦你。,"Once you're done, come drop by my dormitory room. There's still plenty I'll need to trouble you with.","Когда закончишь, заходи в мою комнату. У меня к тебе ещё много дел."
+line-492,风笛,唔……,Oh...,Мм...
+line-495,风笛,嗯？,Eh?,Мм?
+line-497,调香师,怎么了？,What's wrong?,Что случилось?
+line-499,风笛,我还可以，继续帮忙吗？,"Can I still, y'know, help out?",Я ещё... я всё могу помогать?
+line-500,风笛,不生我的气了？,You're not cross with me?,Ты на меня больше не сердишься?
+line-502,调香师,生气啊，当然生气呢。,I am cross. Of course I'm cross.,"Сержусь. Конечно, сержусь."
+line-503,调香师,但是生气也得做事情啊。,"But even if I'm cross, we still have to get things done.","Но даже когда сержусь, мне всё равно нужно делать дела."
+line-504,调香师,还是说你不准备帮我们？,Or are you saying you're not ready to help us?,"Или, может, ты не собираешься нам помогать?"
+line-507,风笛,没有！,Course I am!,Нет!
+line-508,风笛,呜呜娜娜你真是个好人！,"Awww, bless you, Nena, you're a sweetheart!","Ой, Нена, ты такая хорошая!"
+line-510,调香师,如果可以的话，请叫我莱娜……,"If you wouldn't mind, please call me Lena...","Если можно, зови меня Лена..."
+line-512,风笛,娜娜听起来更可爱一点嘛。,"I think Nena sounds a little cuter, though.",А Нена звучит милее.
+line-514,调香师,今天还有很多工作要做呢，我们先回去吧，波登可。,"We've still got plenty of work to do today, so let's head back for now, Podenco.","У нас сегодня ещё много работы. Пойдём обратно, Поденко."
+line-516,波登可,好的。,Alright.,Хорошо.
+line-518,调香师,请快一些哦，风笛小姐，需要委托给您的工作还是挺多的。,"And move fast, Bagpipe. There's still a good deal of that work I need to entrust you with.","Поторопись, мисс Бэгпайп. У меня для тебя ещё довольно много работы."
+line-520,风笛,不要转移话题嘛。,Don't try and dodge the subject.,Не меняй тему.
+line-530,风笛,我知道了啦，马上就过来！,"I see how it is, alright! I'll be right there!","Ладно-ладно, я сейчас подойду!"
+line-536,,罗德岛宿舍区,Rhodes Island Dormitories,Жилая зона Родоса
+line-537,,调香师的宿舍,Perfumer's Dormitory,Комната Парфюмер
+line-540,调香师,改建区这里的规划就交给你了，虽然我们有更多的地方种植花卉了，但能节省的空间还是要尽量节省。,"I'll leave planning the refurbished area to you. We might have more room to grow our plants, but we'll still want to save as much space as we can.","Планирование перестроенной части я доверяю тебе. Хотя для цветов у нас теперь больше места, всё равно нужно экономить пространство, насколько возможно."
+line-542,调香师,这一块就给豆苗小姐做养殖场用吧，那些共生花卉的定时采摘也麻烦你了。,We'll hand this section over to Beanstalk for farm use. I'll leave regularly picking those symbiotic flowers of theirs up to you too.,Этот участок отдадим мисс Бинсталк под загон. И регулярный сбор тех симбиотических цветов тоже поручаю тебе.
+line-543,调香师,旁边那一块，就作为我的新居所吧。,"And the section along the side—that'll be my new residence, then.",А участок рядом будет моим новым жилищем.
+line-544,调香师,用建造温室时剩余的材料就好，没有必要特意采购。,The leftover materials from building the greenhouse will be enough for me. There'll be no need to procure anything special.,Используем остатки материалов от постройки теплицы. Ничего специально закупать не нужно.
+line-546,调香师,大概就是这样。,That's the rough state of things.,Вот примерно так.
+line-548,波登可,好的。,Alright.,Хорошо.
+line-552,风笛,娜娜，我来了！,"Nena, I'm here!","Нена, я пришла!"
+line-554,调香师,请进……,Come in...,Входи...
+line-561,风笛,东西已经都安排好了，具体需要我做什么吗！,I've got everythin' all prepared already. Tell me just what you need me for!,Всё уже подготовлено. Что именно ты от меня хочешь?
+line-563,调香师,我想把具体的搭设任务都交给你。,I'd like to leave all the definitive build details tasked to you.,Я хочу доверить тебе всё строительство.
+line-565,风笛,造大棚吗？那我熟的呀。,Gettin' your big shed set up? I'm no stranger to that.,Строить теплицу? Я в этом разбираюсь.
+line-567,调香师,还需要你帮忙联系罗德岛的施工团队。,I'll also need you to help get in touch with Rhodes Island's construction team.,"И ещё мне нужна твоя помощь, чтобы связаться со строительной бригадой Родоса."
+line-569,风笛,那我更熟了，农业区那边负责改修的干员我都认识。,Even less of a problem. I know all the Operators in charge of repair works up by the agriculture area.,"Тут я ещё лучше разбираюсь. Я знаю всех операторов, которые отвечают за перестройку в сельскохозяйственном районе."
+line-571,波登可,都交给我们吧，莱娜姐姐！,"Just leave it all to us, Miss Lena!","Оставь всё нам, мисс Лена!"
+line-573,调香师,（要是真的能都交给你们就好了……）,"(If I could actually leave it all up to you two, that'd be marvelous...)",(Если бы я и правда могла всё вам переложить...)
+line-575,调香师,改建期间疗养庭院会休业，我会负责原本庭院区域的花卉栽种和日常维护，还要为类似葛罗莉亚小姐这样依赖香薰疗法的干员提供服务。,"The Convalescent Garden will be closed while refurbishment is ongoing. I'll be responsible for growing and daily care of the plants in the original Garden, and providing continued aromatherapy to Operators who depend on it like Miss Pasbelletti.","На время реконструкции Лечебный сад будет закрыт. Я буду выращивать и ухаживать за растениями в старой части сада, а также продолжать ароматерапию для операторов вроде мисс Пасбеллетти."
+line-576,调香师,施工时限是一个月，我想应该能在二十五天左右完成改修。,Construction time is limited to a month. I think we should be able to complete refurbishments in around twenty-five days.,"Срок строительства — месяц. Думаю, мы уложимся примерно в двадцать пять дней."
+line-578,调香师,波登可，能麻烦你重复一下刚刚分派给你的任务吗？,"Podenco, could I ask you to repeat what tasks I just allocated to you?","Поденко, не могла бы ты повторить, что я тебе только что поручила?"
+line-580,波登可,是的姐姐，我需要规划改建区，给您的新宿舍和豆苗小姐的养殖场腾出空间。,"Right, Miss. I need to plan out the refurbished area, and make some room for your new dormitory and Beanstalk's farm.","Да, мисс. Мне нужно спланировать перестроенную зону и выделить место под вашу новую комнату и загон мисс Бинсталк."
+line-582,调香师,嗯，然后呢。,"Mhmm, and then?","Мм, а дальше?"
+line-584,波登可,然后？,Then?,Дальше?
+line-586,调香师,使用什么板材，花卉如何划分，怎么摘取豆苗小姐磐蟹上的花朵。,"What material sheets to use, how to partition the plants, how to harvest Beanstalk's little Metal Crab flowers.","Из каких материалов делать перегородки, как разделить растения, как собирать цветы с крабов мисс Бинсталк."
+line-587,调香师,有考虑过吗？,Have you considered any of those yet?,Ты это обдумывала?
+line-589,波登可,嗯……,Hmm...,Мм...
+line-591,调香师,（看来波登可还没想好呢。）,(It seems like she still hasn't decided.),"(Кажется, Поденко ещё ничего не решила.)"
+line-592,调香师,（不能把她丢在这一个人干活呢，还是要指点她一下。）,(I can't just toss her all alone into her work. I'll still need to give her some directions.),(Нельзя бросать её одну с этой работой. Надо хоть что-то подсказать.)
+line-594,调香师,（这次工期很紧，没时间让她慢慢摸索了。）,(Our deadline's very tight this go round. We don't have any time for her to take things slowly.),"(На этот раз сроки горят — ждать, пока она сама во всём разберётся, времени нет.)"
+line-596,调香师,（假期……还是以后再说吧。）,(A holiday... that'll have to wait after all.),(Об отпуске... придётся забыть.)
+line-598,调香师,没事，我只是以防万一问一下。,"Don't worry. Just in case, I was asking.","Ничего, я просто спросила на всякий случай."
+line-599,调香师,改建的时候我会一直待在庭院里的，如果有什么不明白的地方，可以来问我。,"I'll be in the Garden all throughout refurbishment, so if there's anything here or there you don't understand, you can come and ask me.","Всё время реконструкции я буду в саду. Если что-то будет непонятно, приходи ко мне."
+line-600,调香师,正好，我也一点点把宿舍里的东西搬过来。,"I'll be moving my things over bit by bit from this dormitory, so it all works out.",А я как раз понемногу буду переносить вещи из своей комнаты. Всё сходится.
+line-601,调香师,大概就是这些，大家有什么问题吗？,That should be more or less it. Do any of you have any questions?,"Вот, в основном, всё. У кого-нибудь есть вопросы?"
+line-603,风笛,娜娜，我一直以为你只懂花，但我看你懂得好多呀。,"I always thought you only knew flowers, Nena, but you've got your head wrapped around so much.","Нена, я всегда думала, что ты разбираешься только в цветах, а ты знаешь столько всего!"
+line-605,调香师,只有自己做过，才能明白这些事应该怎么做。,"It takes doing these things yourself, before you understand how they should be done.","Пока сам не сделаешь, не поймёшь, как это делается."
+line-607,风笛,你是说，庭院里所有的东西最早都是你自己做的？,"So, you mean, way back then, everythin' in the Garden was all your work?",То есть всё в саду с самого начала делала ты сама?
+line-609,调香师,嗯。,Mhmm.,Мм.
+line-610,调香师,总有些事，别人帮不上手，只好自己来处理了。,"There's always some things other people can't help with, things you can only really sort out yourself.","Бывает, другие ничем не могут помочь — и приходится справляться самой."
+line-612,波登可,我还以为姐姐是指挥人工作的类型。,"I thought you would be the type to order other people to work, Miss.","Я думала, вы из тех, кто только указывает другим, что делать."
+line-614,调香师,没下地做过怎么指挥别人呢……,How would I order anyone without having personally done it before...,"Как я буду указывать другим, если сама не спускалась в землю..."
+line-616,调香师,现在流的每滴汗水都是今后指导别人的经验，加油干吧。,Our every drop of sweat now is the experience we'll direct others with in the future. Do your best.,"Каждая капля пота сейчас — это опыт, которым потом будешь направлять других. Старайся."
+line-617,调香师,希望你以后能学有所成，自己独立工作。,"I hope you'll learn successfully enough, and set up your own independent work.","Надеюсь, ты многому научишься и когда-нибудь сможешь работать сама."
+line-618,调香师,最好带个学徒。,"Ideally, even take on an apprentice.",А лучше — возьмёшь себе ученицу.
+line-621,波登可,姐姐，我做不到吧……,"Miss, there's no way I could...","Мисс, у меня не получится..."
+line-623,调香师,等以后有新的干员分配到庭院，你就是前辈了，到时候，自然要你去教别人。,"When we have new Operators assigned to the Garden in future, you'll be their senior, and come that time, it'll be your responsibility to teach them.","Когда в сад придут новые операторы, ты станешь старшей — и, конечно, тебе придётся их учить."
+line-624,调香师,我就能真正把工作交给你，放心做指挥啦~,"Then I'll truly be able to leave the work to you, and I can sit back and give orders~",А я тогда смогу по-настоящему переложить работу на тебя и спокойно командовать~
+line-626,波登可,莱娜姐姐~~,Miss Lena~~,Мисс Лена~~
+line-628,调香师,现在的话，先把刚刚几个问题的答案告诉我，好吗？,"For now, just answer those few questions for me, okay?","А пока ответь мне на те несколько вопросов, что я задала, ладно?"
+line-630,波登可,啊——,Ahh—,А-а-а...
+line-632,波登可,呃，唔，我再想想……,"Er, um, just let me think a little more...","Э-э, мм, дай мне ещё подумать..."
+line-633,波登可,姐姐~,Miss~,Мисс~
+line-635,调香师,有些问题还是要自己搞懂哦。,"Some problems you just need to figure out yourself, you know.",Некоторые вещи нужно понять самой.
+line-638,波登可,呜……,Aww...,Уу...
+line-640,调香师,别着急，慢慢来，今天还长着呢。,"Don't worry, take it slowly. The day's still long.","Не спеши, не торопись. День ещё длинный."
+line-642,调香师,（好好学吧，波登可，你一定可以的。）,"(Learn well, Podenco. I know you can do this.)","(Учись как следует, Поденко. У тебя всё получится.)"

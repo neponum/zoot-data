@@ -1,0 +1,332 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_blackd_2_1,健步如飞
+,,,,
+char-1,拜松,拜松,Bison,Бизон
+char-2,讯使,讯使,Courier,Курьер
+char-3,银灰,银灰,SilverAsh,Серебряный Пепел
+char-4,谢拉格战士,谢拉格战士,Kjerag Warrior,Воин Кьерага
+char-5,学者,学者,Scholar,Учёный
+char-6,车站职员,车站职员,Station Staff,Сотрудник станции
+char-7,村中老者,村中老者,Old Villager,Старейшина деревни
+char-8,马特洪？,马特洪？,Matterhorn?,Маттерхорн?
+,,,,
+line-11,,碎纸机边，讯使手中拿着厚厚的一叠纸，封面写着《谢拉格物流系统企划案》。,Courier has a thick stack of paper in his hands as he stands by the shredder. The first page says 'Kjerag Logistics System Proposal'.,У шредера Курьер держит в руках толстую стопку бумаг; на первой странице написано «Предложение по системе логистики Кьерага».
+line-12,,他的面色有些凝重，似乎在犹豫些什么，不过，最终他还是将手中的企划案送向了碎纸机。,"He wears a heavy, hesitant expression on his face, but eventually extends the proposal toward the shredder.","Лицо его озабочено, будто он в сомнениях, но в конце концов он всё же протягивает предложение к шредеру."
+line-17,拜松,等等。,Wait.,Постойте.
+line-19,讯使,拜松……老师。,Mr. Bison...,Господин Бизон...
+line-21,拜松,为什么要毁掉这份企划案？,Why are you destroying the proposal?,Почему вы уничтожаете это предложение?
+line-23,讯使,……因为这是一份不合格的企划案。,Because it failed.,...Потому что оно никуда не годится.
+line-25,拜松,我是物流课的讲师，你是我的学生，你的企划案是否合格，可不是你说了算的。,I'm your logistics lecturer. You're not the one who decides what's failed.,"Я ваш преподаватель по логистике, а вы — мой студент. Решать, годится ваше предложение или нет, должны не вы."
+line-27,拜松,况且，你第一次告诉我，你要起草这份与谢拉格的物流系统有关的企划案时，也不是现在这副表情。,"Besides, you didn't have that look on your face when you first told me you were drafting a proposal for Kjerag's logistics system.","Более того, когда вы впервые рассказали мне, что пишете предложение по логистической системе Кьерага, у вас не было такого вида."
+line-29,讯使,……,......,...
+line-31,拜松,能让我看看吗？,May I have a look?,Можно мне посмотреть?
+line-33,讯使,……请。,"Yes, sir.",...Пожалуйста.
+line-39,拜松,嗯，很成熟。,Pretty comprehensive.,"Хм, довольно зрело."
+line-41,拜松,人力、成本、运输方式、仓储办法……该考虑的，你都考虑到了。,"You've covered all the bases, from manpower to cost to transportation method to storage.","Рабочая сила, расходы, способы транспортировки, хранение... Вы учли всё, что нужно."
+line-46,拜松,这份企划案做得不错。,It's a solid proposal.,Предложение хорошее.
+line-48,拜松,只是有一个问题还没有解决——“真空地带”上的工程问题。,There's only one problem left to solve—the engineering issues in Terra Nullius.,Осталась только одна нерешённая проблема — инженерные работы в «Ничейной земле».
+line-50,讯使,……是的。,Right.,...Да.
+line-52,讯使,谢拉格和周边国家存在实控区域间的“真空地带”。,A Terra Nullius exists between the zone of actual Kjerag control and our neighboring countries.,Между зоной фактического контроля Кьерага и соседними странами существует «Ничейная земля».
+line-53,,我,I,Я
+line-54,讯使,而完善物流系统需要建设更完备的交通基础设施，周边国家是不会坐视谢拉格在“真空地带”上肆意开发的。,"A full-fledged logistics system requires a more developed transportation infrastructure, but neighboring countries will not simply sit and watch as Kjerag develops Terra Nullius.","Для полноценной логистической системы нужна более развитая транспортная инфраструктура, а соседние страны не станут просто смотреть, как Кьераг осваивает «Ничейную землю»."
+line-56,讯使,我发现，我无法解决这个问题，所以我打算放弃了。,"I could not find a way to solve this problem, so I decided to give up.","Я понял, что не могу решить эту проблему, и решил сдаться."
+line-58,拜松,如果我没记错的话，我应该讲过类似问题的解决方案。,"If I recall correctly, I've discussed solutions to similar issues.","Если я не ошибаюсь, мы обсуждали пути решения похожих проблем."
+line-60,讯使,第一种，投资一家国际物流公司。,One way is to invest in an international logistics company.,Первый — инвестировать в международную логистическую компанию.
+line-62,讯使,如果用这种办法的话，我根本没有写企划案的必要，把一切都交给成熟的国际物流公司就好，比如——峯驰物流。,"In that case, there's no need to write a proposal at all—just leave it to a developed international logistics firm, like MountainDash Logistics.","В таком случае нет смысла писать предложение: можно просто всё отдать проверенной международной фирме, например MountainDash Logistics."
+line-64,拜松,这一点我们也早就聊过了。,We discussed this too.,Мы это уже обсуждали.
+line-66,拜松,峯驰物流在谢拉格的业务无法得到保障，除非有一个可靠的人来管理，比如——你。,"In order to effectively operate in Kjerag, MountainDash would need someone reliable to manage local operations—someone like you.","Чтобы дела MountainDash в Кьераге шли надёжно, нужен человек, который возьмёт управление на себя. Например, вы."
+line-68,拜松,可惜你拒绝了。后悔了吗？,But you refused. Do you regret that choice?,"Жаль, вы отказались. Жалеете?"
+line-70,讯使,那倒是——没有。,Well—no.,Что ж... Нет.
+line-72,讯使,第二种方法，离开谢拉格，建立一家属于自己的物流公司。,Another way is to leave Kjerag and establish my own logistics firm.,Второй вариант — уехать из Кьерага и основать собственную логистическую компанию.
+line-74,讯使,即使明眼人都看得出这家公司背后还是有谢拉格的影子，但是，只要它在名义上不属于谢拉格，那么，它受到的阻力必然要小很多。,"As clear as such a firm's Kjerag links would be, it would face a lot less opposition, as long as it does not belong to Kjerag officially.","Даже если всем очевидно, что за этой компанией стоит Кьераг, пока она официально ему не принадлежит, сопротивления будет гораздо меньше."
+line-76,讯使,我知道，但是——,"I'm clear on that much, but—","Я это понимаю, но..."
+line-78,拜松,但是你不愿意接受这个想法。,You're not willing to accept it.,Но вы не хотите такого варианта.
+line-80,拜松,就像你拒绝了我的招揽一样。,Just like you turned down my offer.,Как и когда отвергли моё предложение.
+line-82,拜松,因为无论如何，这都意味着你需要离开喀兰贸易，甚至有可能离开谢拉格。,"Because either way means leaving Karlan Trade, perhaps even leaving Kjerag.","Ведь в любом случае это значит уйти из «Карлан Трейд», а может, и покинуть Кьераг."
+line-84,拜松,你真正想毁掉的，是离开谢拉格的想法，对吗？,"It's the thought of leaving Kjerag that you really want to banish, isn't it?","То, что вы на самом деле хотите уничтожить, — это мысль об уезде из Кьерага. Верно?"
+line-86,讯使,……等我回过神来，这份企划案里的方方面面，都是以由我管理为前提而设计的。,I realized that everything in this proposal was written with the assumption that I would manage it personally.,"...Опомнившись, я увидел, что всё в этом предложении построено из расчёта, что управлять буду я сам."
+line-88,讯使,这是我为自己量身定制的企划案，如果它要实施，就意味着，我会成为那个需要离开谢拉格的人。,The proposal was custom-made for myself. Implementing it means I'm the one who would need to leave Kjerag.,"Это предложение сшито на меня. Претворить его в жизнь — значит, что уезжать из Кьерага придётся мне."
+line-90,讯使,我太自大了。,I was too arrogant.,Я слишком самонадеян.
+line-92,拜松,你打算就这么放弃这个企划吗？,So you're just giving up on the proposal?,И вы просто бросите это предложение?
+line-94,讯使,我会重新做一份企划案交给老爷，请他去找合适的人选。,"I'll write a new one for the Master, so that he may find the right man.","Я напишу новое предложение для Хозяина, чтобы он нашёл подходящего человека."
+line-96,拜松,那么，你打算就这么放弃这个机会吗？,So you're just giving up on the opportunity?,И вы вот так откажетесь от шанса?
+line-98,讯使,……,......,...
+line-100,拜松,我知道，谢拉格对你而言意义重大。,I know how much Kjerag means to you.,"Я знаю, как много для вас значит Кьераг."
+line-102,拜松,但是，这同样是一个让你施展拳脚的机会，不是吗？,"But this is a chance for you to show your value, isn't it?","Но это и шанс показать, на что вы способны. Не так ли?"
+line-104,拜松,如果你不想要这个机会的话——,If you're not interested—,Если вам не нужен этот шанс...
+line-106,拜松,你一开始又为什么会选择报名罗德岛的课程来提升自己呢？,Why did you choose to study at Rhodes Island?,"Почему же тогда вы записались на курсы Родоса, чтобы учиться и расти?"
+line-108,讯使,谢谢你的好意，但我已经决定了。,"Thank you for the kind words, but my mind is made up.","Спасибо за добрые слова, но я решил."
+line-111,,拜松还没反应过来，讯使已经从他手中取回了企划案。,Courier snatches the proposal from Bison before he can react.,"Пока Бизон не успел опомниться, Курьер выхватил у него предложение."
+line-112,,但是当讯使准备再次将企划案投入碎纸机时，背后响起了清脆的鸣叫声。,"Before he can put the proposal in the shredder, however, he hears a crowing from behind him.","Но когда Курьер уже хотел снова сунуть его в шредер, за спиной раздался резкий крик."
+line-113,,一只羽兽以比他更迅捷的速度叼走了企划案。这只羽兽他再熟悉不过了——丹增。,"The fowlbeast is even faster than he, and whisks the proposal away in its beak. He is familiar with this fowlbeast—Tenzin.","Птицезверь, быстрее его, схватил предложение в клюв. Он хорошо знал этого птицезверя — Тензина."
+line-115,讯使,……老爷。,...Master.,...Хозяин.
+line-124,银灰,魏斯，看来你最近的想法有些危险。,Your thoughts seem have been heading down a dangerous path lately.,"Вейс, похоже, в последнее время твои мысли идут по опасному пути."
+line-126,讯使,我……抱歉，老爷。,"I... I'm sorry, Master.","Я... Простите, Хозяин."
+line-128,讯使,但是——,But—,Но...
+line-130,银灰,不过，我也有几分好奇。所以，试着执行这份企划案吧，魏斯。,"But I'm also curious. Let's have you implement the proposal, Weiss.","Но мне тоже любопытно. Попробуй претворить это предложение в жизнь, Вейс."
+line-132,银灰,地图测绘、路线规划、安抚村庄、人员调配……,"Mapping, route planning, negotiating with the villages, deploying personnel...","Картографирование, планирование маршрутов, переговоры с деревнями, распределение людей..."
+line-134,银灰,或许等你推进下去后就会发现，你以为非你不可的事，事实却未必如此。,"Once you actually put things in place, you may find that they don't require your presence as much as you assumed they would.","Возможно, когда ты продвинешься дальше, то увидишь, что дело, без которого, как ты думал, не обойтись тебе одному, вовсе не требует твоего присутствия."
+line-136,讯使,……我知道了。,"Yes, Master.",...Я понял.
+line-144,银灰,等等。,Wait.,Постой.
+line-146,银灰,我会和你一起行动。,I'll go with you.,Я пойду с тобой.
+line-148,讯使,欸，但是——,But—,"Но, Хозяин..."
+line-150,银灰,你的手下不是有一支雪崩预警小队吗？,"You have an avalanche warning team, don't you?","У тебя есть группа раннего предупреждения лавин, не так ли?"
+line-152,银灰,把我当成其中的一员就好。,Just treat me as one of them.,"Просто считай, что я один из них."
+line-154,银灰,也让我近距离地看看，你到底有没有自己所想的能力吧。,Let me see up close whether you really can do what you think you can.,"Дай мне возможность вблизи посмотреть, есть ли у тебя та способность, которую ты себе приписываешь."
+line-156,讯使,……我知道了。,"Yes, Master.",...Я понял.
+line-163,拜松,……这样真的好吗，银灰先生？,"Are you sure about this, Mr. SilverAsh?","...Вы уверены, господин Серебряный Пепел?"
+line-165,银灰,这样就好。,I am.,Уверен.
+line-167,银灰,魏斯，也到了该正视自己的时候了。,It's high time Weiss took a good look at himself.,Вейсу пора взглянуть правде в глаза.
+line-180,银灰,……,......,...
+line-182,银灰,嘶……呼……,*Huff*... *huff*...,Вдох... выдох...
+line-184,讯使,……老爷，我来扶您一把。,"Here, take my hand, Master.","...Хозяин, позвольте мне помочь вам."
+line-186,银灰,不用。其他队员呢？,No need. What of the others?,Не нужно. Где остальные?
+line-188,讯使,他们都已经到山顶了。,They're already at the summit.,Они уже на вершине.
+line-190,讯使,以您现在的体能完成这样的跋涉可能比较困难。,"This trail may be a little difficult for you, sir.",В вашем нынешнем состоянии такой переход может оказаться вам не под силу.
+line-192,银灰,魏斯，你是故意想把我赶回去，对吧？,"You're just trying to get rid of me, aren't you, Weiss?","Вейс, ты специально пытаешься меня сплавить обратно, да?"
+line-194,讯使,怎么会呢？,Of course not.,"Что вы, нет."
+line-196,讯使,只是您平时多在办公室里处理公务，体能比不上我们这种长期在外奔波的人也不奇怪，不是吗？,"But one who spends his time in an office doing paperwork is bound to be less active than those of us who spend most of our time outdoors, no?","Просто вы обычно сидите в офисе за бумагами, так что неудивительно, что ваша выносливость уступает тем, кто всё время в пути. Не правда ли?"
+line-198,银灰,呵。,Heh.,Хм.
+line-200,讯使,我们在这里休息一下吧。,We can take a break here.,Давайте здесь передохнём.
+line-202,讯使,让山顶的队员等我们一会儿，想必他们也会理解的。,The team at the summit can wait a while. They'll understand.,Пусть команда на вершине подождёт нас немного. Они поймут.
+line-204,银灰,……走吧。,Let's go.,...Пойдём.
+line-206,银灰,不能因为我耽误了测绘工作。,We can't delay the surveying on my account.,"Нельзя, чтобы из-за меня задерживалась съёмка."
+line-208,讯使,好的。,As you wish.,Как скажете.
+line-210,银灰,……,......,...
+line-212,银灰,你说得没错，我确实也有很长一段时间没有走进山里了。,"You're right, it has been a long time since I last climbed a hill.",Ты прав. Я давненько не заходил в горы.
+line-214,讯使,您小时候可是翻山越岭的好手。,You used to be very good at it.,В детстве вы были большим мастером лазать по горам.
+line-216,银灰,我在这点上遗传了母亲。,I took after my mother.,В этом я пошёл в мать.
+line-218,银灰,……现在不像了。,Not so much these days.,...Теперь уже не похож.
+line-220,讯使,现在也像，只是您学会了掩饰自己。,You are still very much like her. You've just learned to hide it better.,По-прежнему похожи. Просто вы научились это скрывать.
+line-222,银灰,对了，一直没有告诉你，捡到你的那次，是她们姐妹两个拉着我外出打猎，才遇到的你。,"By the way, I never told you this, but the day I took you in, I was only out there because my sisters made me go hunting with them.","Кстати, я никогда тебе не рассказывал: в тот день, когда я тебя нашёл, сёстры насилу вытащили меня на охоту. Так мы с тобой и встретились."
+line-224,讯使,其实我早就知道了。,I knew.,Я давно это знаю.
+line-226,银灰,是吗？,Did you?,Правда?
+line-228,讯使,毕竟两位小姐的口风可没有那么紧。,Your sisters are not as tight-lipped as you are.,Ведь ваши сёстры не так уже умеют держать язык за зубами.
+line-230,讯使,您只是那天偶然被两位小姐硬拉着上山打猎，偶然和她们走散了，偶然遇到了我。,"By chance, they had you join them on a hunting trip in the mountains that day. By chance, you got separated from them. By chance, you ran into me.","Случайно оказались с ними на охоте в горах, случайно от них отстали и случайно наткнулись на меня."
+line-232,讯使,风雪那么大，其实您当时也迷路了，对吧？,"It was snowing heavily that day. You were lost too, weren't you?","Метель была такой сильной, что вы и сами заблудились, правда?"
+line-234,讯使,然后，心中也没底的您强装冷静把我带下了山，并带回了希瓦艾什家的宅邸。,"You put on a brave face, told me to come with you, and took me to the Silverash manor.","И, сам не зная дороги, вы изо всех сил изображали спокойствие, вывели меня с горы и привели в особняк Сильвашей."
+line-236,讯使,最后，在我的祖父母找上门，请求大老爷收下自幼失去父母的我做仆人时，您以需要一个同性玩伴为由，说服了大老爷。,"When my grandparents came and begged the old master to take me on as a servant after I had lost my parents at a young age, it was you who persuaded him, saying that you wanted a male companion around your own age.","А когда мои дедушка с бабушкой пришли просить старого хозяина взять меня слугой — сироту, потерявшего родителей, — вы уговорили его, сказав, что вам нужен сверстник."
+line-238,讯使,我就这么成为了希瓦艾什家的一员。,"And so, I became part of Clan Silverash.",Так я и стал одним из Сильвашей.
+line-240,银灰,……也许吧。,Perhaps...,...Может быть.
+line-242,银灰,二老现在身体还好吗？,Are your grandparents well?,Как здоровье твоих бабушки с дедушкой?
+line-244,讯使,托您的福，爷爷现在在图里卡姆的老年活动中心可以说是呼风唤雨，奶奶也开了家小店，日子乐得清闲。,"Thanks to you, my grandfather is quite the man in Turicum's senior center, and my grandmother has opened a little shop of her own. They're rather enjoying their lives.","Благодаря вам дедушка теперь важная персона в клубе пожилых в Турикуме, а бабушка открыла свой магазинчик. Живут припеваючи."
+line-246,银灰,那就好。,Good.,Хорошо.
+line-248,银灰,对我来说，马特洪是从一开始就效忠家族的卫士，他的存在太理所当然了。而你不一样。,"To me, Matterhorn is a guardian, one who has always served my family. I almost take him for granted. You're different.","Для меня Маттерхорн — страж, верный семье с первого дня, и я воспринимал это как должное. Ты — другой."
+line-250,银灰,你是我自己收服的人——至少我当时是这么认为的。,"You, I took under my own wing—at least, that's what I thought at the time.","Ты был тем, кого я прибрал к своим рукам сам — по крайней мере, так я тогда думал."
+line-252,银灰,而且你的身手很敏捷。所以，有一段时间，我什么消息都让你帮我告诉别人，也让别人通过你给我传递消息。,"Besides, you were quick and nimble. For a while, I had you carry my messages to others, and their messages back to me.","И при этом ты быстр и ловок. Поэтому некоторое время я поручал тебе передавать мои вести другим, а через тебя — получать чужие."
+line-254,银灰,其实只是想要炫耀你的存在。,"In truth, I was just trying to show you off.",На самом деле я просто хотел похвастаться тобой.
+line-256,讯使,如果您为此感到了愧疚，那大可不必。,There's no need to feel guilty about it.,Не стоит из-за этого чувствовать вину.
+line-258,讯使,对我来说，这也算是给我找到了一些生存意义。,It gave my life meaning.,Для меня это дало смысл жизни.
+line-260,讯使,毕竟，家族中忽然多出一个野孩子，许多人都觉得我很扎眼。,"After all, I was a wild child who popped suddenly into the family. My presence was unwelcome to many.","Ведь вдруг в семье появился дикий ребёнок, и многих это коробило."
+line-262,讯使,您又怎么知道，我没有在这个过程中，借着您的名义满足了一些私欲呢？,How can you be sure I did not use your name for my own designs in the process?,"Откуда вы знаете, что я не использовал ваше имя ради своих мелких выгод?"
+line-264,银灰,至少，你没有让我知道。,"If you did, you hid it well.","По крайней мере, ты не дал мне это заметить."
+line-266,讯使,哈哈，真有您的风格。,Heh. How very you.,"Ха, это очень в вашем стиле."
+line-268,讯使,况且——,Besides—,Более того...
+line-270,讯使,一开始，我确实不觉得在山间奔走，有什么乐趣可言。,"At first, I did not enjoy running around the hills and mountains.",Сначала я и правда не находил радости в беготне по горам.
+line-272,讯使,但是，久而久之，当我走过那些树林、那些山道——,"With time, however, as I walked the forests and the mountain trails—","Но со временем, когда я проходил через те леса, те тропы..."
+line-280,讯使,当我踏上雪山之巅——,As I climbed the snowy peaks—,Когда я поднимался на заснеженную вершину...
+line-281,讯使,当我呼吸着山顶的空气，当我看着远处的山峰与碧蓝的天空构成一幅绝景——,"As I breathed the air atop the peaks, and watched the spectacle of the mountains in the distance against the blue sky—","Когда я дышал воздухом вершины и смотрел, как далёкие пики и голубое небо складываются в дивную картину..."
+line-282,讯使,我觉得很快乐。,I felt happy.,Я чувствовал себя счастливым.
+line-283,讯使,我逐渐喜欢上了这种感觉。,I began to enjoy it.,Я постепенно полюбил это чувство.
+line-289,谢拉格战士,队长，老……银灰队员，你们来了。,"Captain, Mast—SilverAsh. You're here.","Капитан, господин... товарищ Серебряный Пепел, вы пришли."
+line-291,讯使,汇报情况。,Report.,Докладывайте.
+line-293,谢拉格战士,我们有一个好消息和一个坏消息。,We have good news and bad news.,У нас есть хорошая и плохая новости.
+line-295,讯使,先说好消息。,Start with the good news.,Сначала хорошую.
+line-297,谢拉格战士,这一处山峰是勘测行动预定的最后一处，就在刚才，我们已经绘制出了谢拉格和周边国家之间的“真空地带”的地貌图。,This is the last location we're scheduled to visit on this survey trip. We've successfully plotted the Terra Nullius between Kjerag and our neighboring countries.,Этот пик — последняя точка в нашем маршруте. Только что мы завершили карту рельефа «Ничейной земли» между Кьерагом и соседними странами.
+line-299,谢拉格战士,“真空地带”上的所有独立村庄的位置也已经确定了。,We have also located all the independent villages in Terra Nullius.,Мы также определили расположение всех самостоятельных деревень в «Ничейной земле».
+line-301,谢拉格战士,在能够说服这些村庄作为中转站和仓储站的前提下，专家组设计出了一条最有效率且最节约成本的物流路线。,"The experts have already plotted the most efficient and cost-effective route for transportation, assuming that the villages could be persuaded to act as hubs and depots.","Исходя из того, что эти деревни удастся убедить стать перевалочными и складскими пунктами, эксперты разработали самый эффективный и экономичный маршрут."
+line-303,讯使,坏消息呢？,And the bad news?,А плохая?
+line-305,学者,坏消息是……虽然路线规划实际上已经接近完成了，结合成本和时间考虑，大体上都在接受范围内……,"The bad news is... although plans for the route are essentially in place, and costs as well as time required are largely within acceptable boundaries...","Плохая новость в том, что... хотя планирование маршрута по сути завершено, а сроки и затраты в целом укладываются в допустимые рамки..."
+line-307,学者,但是，我们拿着方案去和每一座村庄都谈过，有些同意了，有些却没有。,Not all villages have accepted our proposal.,"...но когда мы пошли с этим предложением в каждую деревню, одни согласились, другие нет."
+line-309,讯使,这倒也在预料之内。都有哪些村子？,That's also to be expected. Which ones are they?,Этого можно было ожидать. Какие именно?
+line-311,学者,请看这里。,Take a look.,Посмотрите сюда.
+line-316,学者,分别是这几座村子，尤其是这座。,"These few villages, especially this one.","Вот эти, и особенно эта."
+line-318,学者,村里人对外人的态度不太好，村长倒是能说上话，但也被其他人的意见搞得有些下不来台。,"They are not friendly to outsiders. The village headman, at least, seems reasonable, but opposition from the others puts him in an awkward position.","Местные недружелюбны к чужакам. Староста, по крайней мере, рассудителен, но остальные ставят его в неловкое положение."
+line-320,讯使,咦……这座村子是——,"Wait, this village...",Погодите... эта деревня — это...
+line-322,讯使,……,......,...
+line-324,讯使,收队。,Pack it up.,Сворачиваемся.
+line-326,银灰,要放弃了吗？,Abandoning the plan?,Сдаёшься?
+line-328,讯使,不。,No.,Нет.
+line-330,讯使,我要先回一趟图里卡姆。,I'm going back to Turicum.,Сначала я вернусь в Турикум.
+line-332,讯使,在那里，有我们说服那些村民的钥匙。,The key to persuading those villagers lies there.,"Там находится ключ к тому, чтобы убедить этих жителей."
+line-341,车站职员,魏斯先生，您是说……为了建立那条物流通道，您需要说服村民们。,"Just to make sure I understand this correctly, Mr. Weiss... you need to persuade the villagers in order to establish a logistics route.","Господин Вейс, если я правильно понял... чтобы проложить тот логистический маршрут, вам нужно убедить жителей деревень."
+line-343,车站职员,所以，您需要我给我的父亲写一封信？,That's why you want me to write a letter to my father.,"Поэтому вам нужно, чтобы я написал письмо отцу?"
+line-345,讯使,毕竟你的父亲是村中的智者。,"The villagers hold your father in high-esteem, after all.",Ведь ваш отец — мудрец в той деревне.
+line-347,讯使,当然，如果你不愿意的话，我们也不勉强。,"Of course, we're not going to force you, if you're not willing.","Конечно, если вы не хотите, мы не станем вас принуждать."
+line-349,讯使,刚才，我已经把这件事的风险和收益都告诉你了。,"I've already told you the potential risks, and the benefits.","Я уже рассказал вам и о рисках, и о пользе этого дела."
+line-352,车站职员,我当然愿意！,Of course I'm willing!,"Конечно, я согласен!"
+line-354,车站职员,如果不是您当年的引荐，我也不会来到谢拉格，在这个车站里找到这么好的工作。,"If not for your recommendation, I would never have come to Kjerag, and I wouldn't have found this job.","Если бы не ваша рекомендация, я бы никогда не приехал в Кьераг и не нашёл бы здесь такую хорошую работу."
+line-356,车站职员,而且，如果按照您说的，能够在谢拉格周边建立那样一条物流通道，那简直跟做梦一样！,"Besides, it would be a dream come true if you really managed to establish such a route around Kjerag!","А если, как вы говорите, вокруг Кьерага появится такой логистический маршрут — это просто мечта!"
+line-358,车站职员,我这就写！,I'll get to it at once!,Я сейчас же напишу!
+line-360,讯使,等等。,Wait.,Постойте.
+line-362,车站职员,嗯？,Yes?,Да?
+line-364,讯使,你应该也有一段时间没回家了吧，顺便准备一些你想带给家里人的东西吧，我帮你一起送过去。,"It's been a while since you've been home, hasn't it? If there's anything you want to send back to your family, I'll deliver it for you.","Вы давно не были дома, да? Приготовьте что-нибудь для своих — я помогу вам всё передать."
+line-366,车站职员,这……怎么好意思。,I-I couldn't trouble you with that.,Это... как-то неудобно.
+line-368,讯使,别客气，外面的村庄和谢拉格的联系本来就不紧密，经常得不到补给。,It's no trouble. These villages on the frontier rarely get supplies from Kjerag.,Не стесняйтесь. Деревни на окраине и так слабо связаны с Кьерагом и часто остаются без припасов.
+line-370,讯使,而且，这也能增加一些说服你父亲的几率。,"Besides, it would improve the chances of swaying your father.",И к тому же это повысит шансы убедить вашего отца.
+line-372,车站职员,我知道了……那我就不客气了！,"If you put it that way, I guess it would be rude to refuse.",Понял... Тогда я не буду стесняться!
+line-378,讯使,……,......,...
+line-380,银灰,看来，你和图里卡姆车站里的人很熟。,You know the staff at Turicum Station well.,"Похоже, ты хорошо знаешь людей на станции Турикум."
+line-382,讯使,毕竟，这里已经是整个谢拉格所有信件和货物的中转站了。,It's the main hub for all mail and cargo that goes through Kjerag.,Ведь здесь проходят все письма и грузы всего Кьерага.
+line-384,讯使,我很喜欢这里的氛围。,I like it.,Мне нравится здешняя атмосфера.
+line-386,银灰,这也是你在罗德岛选择进修物流课程的原因吗？,Is that why you chose to study logistics at Rhodes Island?,Поэтому ты выбрал логистику в Родосе?
+line-388,讯使,是的。,Yes.,Да.
+line-390,讯使,我喜欢在山间奔走的感觉。,I enjoy running through the mountains.,Мне нравится бегать по горам.
+line-392,讯使,我也喜欢看到将消息、信件、货物送到它们的主人手中时，对方脸上露出的表情。,"I enjoy seeing the expressions on faces when messages, letters, and packages are delivered.","Мне нравится видеть выражения лиц людей, когда вести, письма и посылки доходят до адресата."
+line-394,讯使,无论那是您的表情，还是其他人的表情。,"Be it your face, or any others.",Будь то ваше лицо или чьё-то ещё.
+line-396,讯使,也无论那是喜悦的表情、痛苦的表情，还是悲伤的表情。,"Be it expressions of joy, pain, or sorrow.","Будь то радость, боль или печаль."
+line-398,讯使,也许那只是您在童年时的无心之举——,Maybe it all began with a childhood whim of yours—,"Может, всё началось с детской прихоти с вашей стороны..."
+line-400,讯使,但我确实喜欢上了这种感觉。,But I began to enjoy the feeling.,Но я и правда полюбил это чувство.
+line-402,讯使,那是把人与人连接起来的感觉。,The feeling of linking people together.,"Чувство, которое соединяет людей."
+line-404,讯使,而且……,Besides...,И ещё...
+line-406,讯使,一开始，我并不理解您没有给我和角峰大哥在喀兰贸易中安排具体工作的意图。,"At first, I didn't understand why you wouldn't give me and Matterhorn specific duties at Karlan Trade.","Сначала я не понимал, почему вы не дали мне и старшему брату Маттерхорну конкретных обязанностей в «Карлан Трейд»."
+line-408,讯使,但久而久之，我逐渐明白了您的想法——,"With time, however, I began to understand—",Но со временем я начал понимать вашу мысль...
+line-410,讯使,您想要让我们自己选择自己的未来。,You wanted us to decide our own futures.,"Вы хотели, чтобы мы сами выбирали своё будущее."
+line-412,银灰,我从不认为，我是你们的主人。,I never thought of myself as your master.,Я никогда не считал себя вашим хозяином.
+line-414,银灰,所以我也从来没有想过，决定你们的未来。,That's why I never thought about determining your fates for you.,Поэтому я и не думал решать вашу судьбу за вас.
+line-416,讯使,但您从来不主动告诉别人您的想法。,But you never tell people what you think.,"Но вы никогда сами не говорите людям, что думаете."
+line-418,讯使,一路上，我一直在想，您是为了什么而来的。,"On this trip, I kept pondering why you wanted to tag along.","Всю дорогу я думал, зачем вы поехали со мной."
+line-420,讯使,无论是为了挽留我，还是赶我走，似乎都不值得您走这一趟。,"It didn't seem like something worth your time and effort, whether you meant to urge me to stay, or urge me to go.","Ни чтобы уговорить меня остаться, ни чтобы прогнать — всё это не стоило бы ваших времени и сил."
+line-422,讯使,现在，我有些明白了。,"Now, I'm beginning to understand.",Теперь я начинаю понимать.
+line-424,银灰,说说看？,Tell me more.,Говори.
+line-426,讯使,现在，还不是时候。,"Now is not the time, not yet.",Сейчас ещё не время.
+line-428,讯使,对了，您也许忘了——,Perhaps you've forgotten—,"Кстати, может, вы забыли..."
+line-430,讯使,现在要去的这座村子，我们在十几年前去过。,"But we've been to this village that we're about to visit before, more than a decade ago.","В деревне, куда мы сейчас идём, мы уже были больше десяти лет назад."
+line-432,银灰,嗯？,Yes?,Да?
+line-438,车站职员,我写好了，魏斯先生！,"Here's the letter, Mr. Weiss!","Я написал, господин Вейс!"
+line-440,车站职员,还有，这些是我想要带给家人的东西。,And this is the stuff to send to my folks.,"А это то, что я хочу передать своим."
+line-442,车站职员,抱歉，东西可能确实有点多，您要是觉得不合适——,It might be a little too much. If you don't think it works—,"Простите, вещей, наверное, правда многовато. Если вам неудобно..."
+line-444,讯使,没事，就交给这边这位先生吧。,It's fine. Give them to this man here.,"Ничего, отдайте вот этому господину."
+line-446,银灰,……,......,...
+line-448,车站职员,咦，但是，这不是恩希欧迪斯老爷——,"Wait, isn't that Sir Enciodes—","Погодите, но разве это не господин Энсиодес...?"
+line-450,讯使,不，他现在是谢拉格探险团的一员，而我，是团长。,"No, he's a member of the Kjerag Expedition, of which I am the captain.","Нет. Сейчас он член Экспедиционного отряда Кьерага, а я — его капитан."
+line-452,银灰,……原来如此，我记起来了。,...I see. I remember it now.,"...А, точно. Теперь вспомнил."
+line-454,银灰,我来拿吧。,I'll take it.,Я возьму.
+line-456,车站职员,那、那就麻烦您了。,"H-Here you go, sir.",Т-Тогда прошу вас.
+line-463,银灰,……好重。,Ugh... it's heavy.,Ух... тяжёлое.
+line-472,村中老者,你们……是谁？！,Who are you?,Кто вы такие?!
+line-474,讯使,智者爱德怀兹，您忘了我吗？,"Have you forgotten me, Sage Edwards?","Мудрец Эдвардс, вы забыли меня?"
+line-476,讯使,我是谢拉格探险团团长，魏斯。这是我的勇士，马特洪。,"I am Weiss, captain of the Kjerag Expedition. This one here is Matterhorn, a warrior under my charge.","Я — Вейс, капитан Экспедиционного отряда Кьерага. А это мой воин, Маттерхорн."
+line-478,村中老者,噢——对了对了，我记得你们。,"Ah, yes, I remember you.","А-а, да-да, я вас помню."
+line-480,讯使,马特洪，你也来和智者打个招呼吧。,"Come and greet the sage, Matterhorn.","Маттерхорн, поздоровайся и ты с мудрецом."
+line-482,马特洪？,智者，久疏问候。,"It's been a while, sir.","Мудрец, давно не виделись."
+line-484,村中老者,好，好。,"Very good, very good.","Хорошо, хорошо."
+line-486,村中老者,当时，还以为你们是不知道哪里来的野人，结果没想到，居然是谢拉格的使者。,At first I thought you were hillmen coming from who-knows-where. Little could I imagine that you were heralds of Kjerag.,"Сначала я решил, что вы дикари, пришли бог знает откуда. А вы, оказывается, посланцы Кьерага."
+line-488,村中老者,我的那个傻儿子克里斯，他在谢拉格过得还好吗？,"How is that son of mine, Chris, doing in Kjerag?",Как мой глупый сын Крис? Как ему живётся в Кьераге?
+line-490,马特洪？,智者，我们这次过来，就是为了给您送克里斯的信。,"We came to deliver Chris's letter, sir.","Мудрец, мы пришли доставить вам письмо от Криса."
+line-492,马特洪？,还有这些……是他为家人准备的礼物。,Along with the gifts he prepared for his family.,"А ещё это... подарки, которые он подготовил для семьи."
+line-494,村中老者,这、这是……那个小子，准备了这么多的东西吗？,So many things? My goodness. He shouldn't have.,Это... этот парень столько всего наготовил?
+line-496,马特洪？,（低声）嘶——,(Softly) Whew—,(Тихо) Фух...
+line-498,讯使,（低声）老爷，辛苦您了。,"(Whisper) Good work, Master.","(Шёпотом) Хозяин, спасибо вам."
+line-500,马特洪？,（低声）无妨。,(Whisper) Thanks.,(Шёпотом) Ничего.
+line-502,讯使,克里斯在谢拉格过得很好，他马上就要晋升主管了。,Chris is doing very well in Kjerag. He is in line for a promotion to manager soon.,Крис в Кьераге живёт хорошо. Скоро его повысят до руководителя.
+line-504,讯使,您读一下他的信吧，信里也有我们这次的来意。,"Please, go ahead and read the letter. It also explains why we're here.","Прочитайте его письмо. Там же сказано, зачем мы пришли."
+line-510,村中老者,……,......,...
+line-512,村中老者,你们的来意我知道了。,I see. I know what you're here for.,"Я понял, зачем вы здесь."
+line-514,村中老者,进屋聊吧。,Let's go inside.,"Заходите, поговорим внутри."
+line-523,讯使,既然如此，村里人就拜托您去说服了。,"May we count on you to convince the villagers, then?",Тогда убедить односельчан просим вас.
+line-525,村中老者,这件事可不小啊，我得和他们商量商量。,It's no small business. There will be a lot to discuss.,Дело не маленькое. Мне нужно с ними посоветоваться.
+line-527,村中老者,不过你放心，有克里斯的信，还有你们做担保，相信他们也会同意的。,"But don't worry. With Chris's letter and your guarantee, I'm sure they'll come around.",Но не беспокойся. С письмом Криса и вашей порукой они наверняка согласятся.
+line-529,讯使,如果需要我们出面的话，请尽管告诉我。,Please feel free to let me know if our presence is warranted.,"Если понадобится наше присутствие, только скажите."
+line-531,村中老者,好，好。,"Very good, very good.","Хорошо, хорошо."
+line-537,讯使,老爷，您现在记起来了吗？,"Do you remember now, Master?","Хозяин, теперь вы вспомнили?"
+line-539,银灰,你一路让我提了那么久的东西，我怎么可能还记不起来？,"Hard not to, after carrying so much all this way.","После того как ты заставлял меня тащить это столько времени, как я мог забыть?"
+line-541,讯使,我这也是想让您感受一下，物流通道的重要性。,I wanted you to feel for yourself the importance of logistics.,"Я хотел, чтобы вы на себе почувствовали, насколько важен логистический маршрут."
+line-543,讯使,况且，我不也帮您分担了一半吗？,"Besides, I helped you carry half of it.",И к тому же я помог вам нести половину.
+line-545,银灰,那时有一天，我上完了课，忽然想去看看外面的样子。,"That day, I wanted to see what the outside was like, after my lessons.","Однажды после занятий мне вдруг захотелось посмотреть, что там, за пределами гор."
+line-547,银灰,于是就拉着你偷偷跳上了下山的运输车。,"So I hopped on one of the downhill transport carts, and dragged you along with me.","И я тайком потащил тебя на грузовую тележку, спускающуюся с горы."
+line-549,讯使,那天可真是把我吓坏了。,I was scared out of my wits.,Я тогда перепугался до смерти.
+line-551,银灰,其实，一开始我是想拉上马特洪的。,It was actually Matterhorn whom I wanted to bring first.,На самом деле сначала я хотел взять с собой Маттерхорна.
+line-553,银灰,但我觉得他一定会反对，而且会拦住我，所以只找了你。,"But thinking again, I was sure he would try to stop me, so I turned to you.","Но я решил, что он непременно воспротивится и остановит меня, поэтому выбрал тебя."
+line-555,讯使,为什么您觉得我不会阻止您？,What made you so sure I wouldn't try to stop you?,"Почему вы решили, что я не стану вас останавливать?"
+line-557,银灰,因为你以前就是那种不会制止别人做蠢事的人，即使那是我。,"You never stopped anyone from doing anything stupid, even me.","Потому что ты никогда не останавливал людей, когда они делали глупости. Даже меня."
+line-559,银灰,而且，你也一直很想出去看看，不是吗？,"Besides, you wanted to see the outside too, didn't you?","И притом тебе тоже очень хотелось посмотреть внешний мир, правда?"
+line-561,讯使,不过，等我们下了山，却发现外面只有一片荒野的时候，我可是跟您说了我们该回头的。,I told you to turn back when we descended the mountain and saw nothing but a barren plain.,"Но когда мы спустились и увидели вокруг только голую пустошь, я же говорил вам, что пора возвращаться."
+line-563,讯使,只是您不愿意听而已。,You just wouldn't listen.,Просто вы не хотели слушать.
+line-565,银灰,回去也是挨母亲的骂，不如往前多走走看看，说不定有惊喜呢？,We were getting chewed out by Mother regardless. We might as well take a few more steps forward. Maybe there would be a surprise lying in wait for us.,Дома всё равно отчитает мать. Так лучше пройтись ещё немного — вдруг нас ждёт сюрприз?
+line-567,讯使,要不是我出来的时候从厨房里偷了些干粮，我们没走半天就要饿死了。,We would've starved to death if I didn't steal some food from the kitchen before we left.,"Если бы я не стащил из кухни немного сухой еды, мы бы умерли с голоду через полдня."
+line-569,讯使,我那时候心里可埋怨您了。,I was cursing you under my breath all the way.,Я тогда на вас сердился про себя.
+line-571,银灰,你不是说你一直很感谢我的救命之恩吗？,I thought you were grateful to me for saving your life.,"Разве ты не говорил, что вечно благодарен мне за спасение?"
+line-573,讯使,但是没有人愿意饿死在荒野里吧。,No one wants to starve in the wilderness.,Но никто не хочет умереть с голоду в дикой местности.
+line-575,银灰,确实，我也不愿意。,Sure enough. I certainly don't.,Верно. И я не хочу.
+line-577,银灰,所以，等到干粮吃完的时候，我也后悔了。,That's why I began to regret it when we ran out of food.,"Поэтому, когда еда кончилась, я тоже пожалел об этом."
+line-579,讯使,幸好我们找到了这座村子，那时还没长白发的爱德怀兹正在门口扫雪。,"Fortunately, we found this village. Old Edwards was sweeping snow from his door. His hair wasn't white yet.","К счастью, мы нашли эту деревню. Эдвардс, тогда ещё не седой, подметал снег у двери."
+line-581,讯使,您还记得吗，他差点把我们当野人打出去呢。,Do you remember how he almost chased us away because he thought we were hillmen?,"Помните, он чуть не выгнал нас, приняв за дикарей?"
+line-583,银灰,我记得。,I do.,Помню.
+line-585,银灰,为了稳住他，你情急之下，编出了一个探险团的名号，还说你是团长。,You whipped up the name of some expedition out of nowhere and said you were the captain.,"Чтобы его успокоить, ты на скорую руку выдумал название экспедиционного отряда и назвал себя капитаном."
+line-587,银灰,结果他还真信了，把我们招待进屋，请我们喝了热瘤奶。,"Somehow, he believed you, invited us into his home, and treated us to warm cystymilk.",И он поверил! Пригласил нас в дом и угостил горячим кистомолоком.
+line-589,银灰,你那时是怎么想的？,What were you thinking at the time?,О чём ты тогда думал?
+line-591,讯使,那时候，大老爷已经告诉过我有人在盯着希瓦艾什家，我想，不能随便报出家族的名号。,The old master had told me that there were people with ill-intent towards Clan Silverash. I thought it inadvisable to say the name of the family.,"Старый хозяин уже говорил мне, что за семьёй Сильвашей следят. Я решил, что называть имя семьи нельзя."
+line-593,讯使,而且，领头的人容易被盯上，所以，我才主动说自己是团长。,"It's always the leader who has the target on his back, which was why I said I was the captain.",И ещё: на главаря чаще всего и охотятся. Поэтому я сам назвался капитаном.
+line-595,讯使,我当时还觉得这个点子好极了，现在想起来，真是幼稚。,I thought it was a genius idea at the time. Now it seems so childish.,Тогда я считал это гениальной идеей. А сейчас она кажется ребяческой.
+line-597,银灰,没关系，当时我也觉得你这个点子好极了。,It's alright. I thought it was a genius idea at the time too.,Пустяки. Тогда я тоже счёл её гениальной.
+line-599,银灰,否则，我也不会自称是你麾下最勇敢的战士了。,"Otherwise, I wouldn't have claimed to be the bravest warrior under your banner.",Иначе я бы не назвался самым храбрым воином под твоим началом.
+line-601,讯使,……,......,...
+line-602,,不知为何，讯使沉默了一会儿。,Courier falls silent for some reason.,Почему-то Курьер помолчал.
+line-603,,他转头看向一个方向，那是谢拉格的方向。,He turns to look in the direction of Kjerag.,"Он повернулся и посмотрел в одну сторону — туда, где был Кьераг."
+line-605,讯使,回去之后，我们被大夫人处罚，不准进屋吃饭。,"When we got back, Madam punished us by making us eat outside.","Когда мы вернулись, госпожа наказала нас: запретила обедать в доме."
+line-607,银灰,那可能是母亲对我进行过的最严重的处罚了。,That was the harshest punishment Mother ever gave me.,"Это было, пожалуй, самое строгое наказание, какое мать когда-либо мне назначала."
+line-609,银灰,我现在还记得母亲一边哭一边说的话——,I still remember the tears in her eyes—,Я до сих пор помню её слова сквозь слёзы...
+line-611,银灰,“这么喜欢往冰天雪地里跑，那你们两个接下来就站在外面吃饭吧！”,"'If you want to be out in the ice and snow so much, you might as well eat in it!'","«Раз вам так нравится бегать по льду и снегу, тогда вы двое будете есть на улице!»"
+line-613,讯使,确实。,That was it.,Именно так.
+line-615,讯使,结果，第一天是恩雅小姐给我们送饭，第二天是恩希亚小姐。,"It was Lady Enya who delivered our meals the first day, then Lady Ensia the second day.","В первый день еду нам принесла леди Энья, на второй — леди Энсия."
+line-617,讯使,第三天，大老爷干脆站在外面跟我们一起吃饭。,"On day three, the old master came out to eat with us together.",На третий день старый хозяин просто вышел и поел с нами.
+line-619,讯使,大夫人最后只能放我们进屋。,"In the end, Madam let us back in.",В конце концов госпоже пришлось впустить нас обратно.
+line-621,银灰,母亲一直把你当另一个孩子，我也把你当作兄弟。,"Mother always treated you as her son, and I treated you as my brother.","Мать всегда считала тебя вторым сыном, а я — братом."
+line-623,讯使,我知道。,I know.,Я знаю.
+line-625,讯使,我也彻底知道了您是为何而来。,And I know why you've come along.,"И я наконец понял, зачем вы приехали."
+line-627,银灰,为了什么？,Why?,Зачем?
+line-629,讯使,您是为了告诉我，您不会忘记我和希瓦艾什的羁绊。,You wanted to tell me that you'll never forget the ties that bind me and the Silverashes.,"Чтобы сказать мне, что вы никогда не забудете мою связь с Сильвашами."
+line-631,讯使,也是为了亲耳听到我说出，我心中的答案。,"And you wanted to hear the answer from my heart, directly.","И чтобы услышать от моих собственных уст ответ, который у меня в сердце."
+line-633,银灰,那么，你的答案是什么？,What's your answer?,Так каков же твой ответ?
+line-635,讯使,我的答案是——,My answer is—,Мой ответ —
+line-637,讯使,那份企划案并不是我自大。,That proposal was not the product of my arrogance.,То предложение было не проявлением моей самонадеянности.
+line-639,讯使,那就是只有我能做到的事。,It's something that only I can do.,"Это то, что под силу только мне."
+line-641,讯使,所以……,Therefore...,Поэтому...
+line-643,讯使,老爷，我请求离开谢拉格。,"I request a leave of absence from Kjerag, Master.","Хозяин, я прошу отпустить меня из Кьерага."
+line-653,,前面就是公司注册局了。,The company registration office is just ahead.,Впереди уже здание регистрационной палаты.
+line-654,,讯使握紧了手中的各种资料，咽了咽口水。,Courier clutches the documents in his hand tightly and gulps.,Курьер крепче сжал документы в руках и сглотнул.
+line-656,银灰,你现在，就像当年犹豫要不要敲开开斯特家族大门的我。,You look just like I did when I was brooding over whether to knock on the door of House Caster.,"Сейчас ты такой, как я тогда, когда не решался постучаться в дом Кастеров."
+line-658,讯使,您当时也害怕吗？,"Were you afraid, at the time?",Вы тогда боялись?
+line-660,银灰,害怕？我在期待，期待门后有什么惊喜在等着我。,"Afraid? I was excited, excited for the surprises that might lie behind the door.","Боялся? Я ждал. Ждал, какой сюрприз ждёт меня за той дверью."
+line-662,讯使,……,......,...
+line-664,讯使,我做过许多大胆的事，我也认为，为您出力的方法有许多种。,"I've done many bold things, and I believe there are many ways in which I can serve you.","Я сделал много смелого и знаю, что служить вам можно по-разному."
+line-666,讯使,但是唯独离开谢拉格，我曾以为我永远不会去做。,But leaving Kjerag was the one thing that I never thought I would do.,"Но только уехать из Кьерага — я думал, что этого никогда не случится."
+line-668,银灰,为什么？,Why?,Почему?
+line-670,讯使,我曾经以为，是出于忠诚。,I used to believe it was out of loyalty.,"Я думал, это из верности."
+line-672,银灰,人人都说，有魏斯和马特洪这样的忠臣是我的福气。,People say I'm lucky to have loyal lieutenants like Weiss and Matterhorn.,"Все говорят, что мне повезло иметь таких верных слуг, как Вейс и Маттерхорн."
+line-674,银灰,他们却不知道，我并不喜欢一味愚忠的手下；而我任用你们，也并不只是因为你们对我忠诚。,"They don't realize I have no interest in blind loyalty, and it's not your loyalty that makes me trust you.","Но они не знают, что я не люблю слепо преданных подчинённых. И я взял вас к себе не только из-за вашей верности."
+line-676,银灰,你只是总和我想得相似，而我侥幸还没有行差踏错过，不是吗，魏斯？,"We happen to be of similar minds, and I happen to not have strayed from the path yet. That's all there is to it, isn't it?","Просто ты часто думаешь так же, как я, и мне до сих пор везло не сворачивать с пути. Разве не так, Вейс?"
+line-678,讯使,……或许确实是这样。,Perhaps.,"...Может быть, так и есть."
+line-680,银灰,我所认识的魏斯，并不只是一个温柔善良的人。,The Weiss I know isn't just a kind and gentle soul.,"Вейс, которого я знаю, — не просто добрый и мягкий человек."
+line-682,银灰,他看着一切发生，并把一切藏在心里，旁人以为他毫无想法，却不知道，他早有答案。,He watches everything and keeps it to himself. People believe he doesn't think for himself. Little do they know that he has long found the answer.,"Он видит всё и держит при себе. Другие думают, что у него нет собственных мыслей, а он давно знает ответ."
+line-684,讯使,您知道我的答案吗？,Do you know my answer?,Вы знаете мой ответ?
+line-686,银灰,我只知道，这一次，我们所想依然相差不远。,All I know that we're still of similar minds on the matter.,"Я знаю только, что в этот раз мы снова думаем почти одно и то же."
+line-688,讯使,您和我都知道，在这件事上，我是唯一的人选。,You and I both know that I'm the only man for the job.,"И вы, и я знаем: в этом деле я — единственный, кто подходит."
+line-690,讯使,我只是不确定自己是不是应该迈出这一步。,I just wasn't sure if I'm ready to take this step.,"Я просто не знал, готов ли я сделать этот шаг."
+line-692,讯使,而您费这么大的功夫，陪我跑这一趟，只是为了告诉我——,"You went to all the effort, coming on this trip with me, just to tell me—","А вы проделали весь этот путь со мной только для того, чтобы сказать..."
+line-694,讯使,您知道，您也记得。,"You know, and you remember.",Что вы знаете. Что вы помните.
+line-696,讯使,您是来为我送行的，是吗？,"You came to see me off, didn't you?","Вы пришли проводить меня, так?"
+line-698,银灰,我在等雪山上最矫健的依特拉，有一天终于鼓起勇气走下雪山，前往更开阔的天地。,I was waiting for the most nimble Itra in the mountains to muster the courage to descend into the vast unknown.,"Я ждал, когда самый ловкий итра на снежных горах наконец наберётся храбрости спуститься вниз, в более просторный мир."
+line-700,讯使,您会失去一个最忠心的部下。,You will lose your most loyal lieutenant.,Вы потеряете самого верного подчинённого.
+line-702,银灰,但我会获得一个新的朋友，有趣的盟友，值得挑战的竞争对手。,"I will gain a new friend, an interesting ally, a worthy competitor.","Но я приобрету нового друга, интересного союзника и достойного соперника."
+line-704,讯使,……,......,...
+line-706,讯使,老爷，这大概是我最后一次叫您老爷了。我会离开您的身边，离开希瓦艾什家。,Master. I expect this is the last time I'll call you that. I'll leave your side and leave Clan Silverash.,"Хозяин. Пожалуй, это последний раз, когда я называю вас хозяином. Я уйду от вас, уйду из дома Сильвашей."
+line-708,讯使,我会去成立一家新的物流公司。,I'll establish my own logistics company.,Я создам новую логистическую компанию.
+line-710,讯使,这家公司不会在谢拉格注册。它会和峯驰物流合作，进行谢拉格周边“真空地带”的物流路线的开发。,"It will not be registered in Kjerag. It will focus on the development of routes in the Terra Nullius surrounding Kjerag, in conjunction with MountainDash Logistics.",Она не будет зарегистрирована в Кьераге. Она будет сотрудничать с MountainDash Logistics и развивать маршруты в «Ничейной земле» вокруг Кьерага.
+line-712,讯使,未来，这家公司也不会只局限于物流，它会参与建设发展“真空地带”上的村庄，改善谢拉格外围的交通。,"Its operations will not be limited to logistics. It will participate in the development of villages in Terra Nullius, and improve the state of transportation around Kjerag.",В будущем она не ограничится логистикой: она будет участвовать в развитии деревень в «Ничейной земле» и улучшать транспортное сообщение вокруг Кьерага.
+line-714,讯使,说不定在不远的未来，它会在谢拉格外围建立起一座移动城市呢。,Perhaps it will even build a new nomadic city on the outskirts of Kjerag.,"Может быть, в недалёком будущем она построит у границ Кьерага новый кочевой город."
+line-716,银灰,那么，它会是喀兰贸易的朋友，还是敌人？,"Will it be Karlan Trade's ally, or enemy?",Так она станет другом «Карлан Трейд» или врагом?
+line-718,讯使,我只能保证，它会是谢拉格的朋友。商场上没有绝对的朋友和敌人，您教我的。,I can only promise that it will remain a friend to Kjerag. It was you who taught me that there is no such thing as an absolute ally or enemy in the realm of business.,Я могу обещать только одно: она останется другом Кьерага. В бизнесе не бывает абсолютных друзей и врагов — вы меня этому научили.
+line-720,银灰,你能说服拜松跟你合作？,You think you can persuade Bison to work with you?,Ты сможешь убедить Бизона работать с тобой?
+line-722,讯使,一个值得合作的伙伴和一个无法确认忠诚的手下，他会明白怎么选的。,"Between a worthwhile partner and a subordinate whose loyalty is uncertain, he knows which choice to make.","Между достойным партнёром и подчинённым, чья верность под вопросом, он знает, что выбрать."
+line-724,银灰,在谢拉格之外，我的名字可不好用。,My name won't carry much weight outside Kjerag.,За пределами Кьерага моё имя не имеет большого веса.
+line-726,讯使,我在您身边学了这么久，又在罗德岛学到很多，暂时应该还是够用的。,The things I've learned over the years by your side and from Rhodes Island will last me a while.,Я столько лет учился у вас и многому научился на Родосе — пока этого должно хватить.
+line-728,银灰,……,......,...
+line-730,银灰,……恩希亚这下又要埋怨我把人往外赶了。,I'm never going to hear the end of it from Ensia about how I keep driving people away.,"...Энсия теперь снова будет попрекать меня, что я выгоняю людей."
+line-732,讯使,这是您咎由自取。当然，我的家就在希瓦艾什的宅邸，偶尔回家看看总不会有人说些什么。,"You'll deserve it. Of course, Silverash Manor is still my home, and I could hardly be faulted for coming home once in a while.","Вы сами на это напрашиваетесь. Конечно, особняк Сильвашей — мой дом, и никто не скажет ничего, если я иногда буду туда заглядывать."
+line-734,银灰,那么，这家公司，谢拉格未来的新朋友，它的名字叫什么？,"What should we call this company, this new friend of Kjerag?",И как же назовём эту компанию — нового друга Кьерага?
+line-736,讯使,就叫——“讯使物流”吧。,I think 'Courier Logistics' will do nicely.,Пусть будет... «Курьер Логистик».

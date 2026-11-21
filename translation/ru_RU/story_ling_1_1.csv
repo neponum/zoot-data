@@ -1,0 +1,241 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_ling_1_1,醒时梦长
+,,,,
+char-1,酒馆伙计,酒馆伙计,Tavern Assistant,Помощник в таверне
+char-2,石匠,石匠,Stonemason,Каменщик
+char-3,令,令,Ling,Лин
+char-4,墨魉,墨魉,Ink Spirit,Чернильный дух
+char-5,器伥,器伥,Waregeist,Дух утвари
+char-6,器伥&墨魉,器伥&墨魉,Waregeist & Ink Spirit,Дух утвари и чернильный дух
+char-7,？？？,？？？,???,???
+char-8,“岁相”,“岁相”,'Sui-Xiang',Суй-Сян
+,,,,
+line-12,酒馆伙计,老哥，你的烂肉面，趁热！,"Here you go, bud! One piping hot bowl of shredded meat noodles!","Браток, твоя лапша с мясом — пока горячая!"
+line-15,石匠,烫烫烫！,Hot-hot-hot!,Горячо-горячо-горячо!
+line-17,酒馆伙计,这位客官，您要的归行老酒只剩了半坛，再说这酒烈了些，这是小店新到的湖松酒，前晌刚启窖，您看……,"Miss, there's only half a jar left of the Guixing reserve you wanted, and it's gotten pretty strong. We've got some new Husong in though, just out of the cellar this morning, if you want to give it a shot.","Госпожа, того вина «Гуйсин», что вы просили, остался всего полкувшина — и оно крепковато. У нас новое, «Хусун», сегодня утром только из погреба. Может, попробуете...?"
+line-23,令,……嗯。,Hm...,......Мм.
+line-24,令,向来是客挑酒，几时有酒挑客？这尚蜀的规矩，未免与别处不同。,Ever has patron chosen drink; when does drink choose patron? The ways of Shangshu do take rather differently.,Всегда гость выбирает вино. Когда это вино выбирало гостя? Уж больно обычаи в Шаншу непохожи на другие.
+line-26,酒馆伙计,这……,"That's, uh...",Это... э-э...
+line-28,令,这新酒可能解渴？,Might this new wine quench thirst?,Это новое вино утоляет жажду?
+line-30,酒馆伙计,能。湖松酒清甜滑喉，入口绵长——,"Absolutely. Husong's light, sweet, and goes down easy, lingering on your palate for—","Конечно. «Хусун» светлый и сладкий, легко пьётся, с долгим послевкусием—"
+line-32,令,可能醉人？,Might it make drunk?,А опьяняет?
+line-34,酒馆伙计,这就要看您喝多少了，是酒都能醉人。,Any wine can—depends how much you drink.,"Это зависит от того, сколько вы выпьете. Любое вино опьяняет."
+line-36,令,我也不知，你见我醉了，不再上就是。,"I know not if, once you see myself intoxicated, you may retract that.","Я и сама не знаю. Увидишь, что я опьянела, — просто больше не подавай."
+line-38,石匠,（欸，不像本地人啊。）,"(Hey. She's not a local, is she?)","(Эй, она не здешняя.)"
+line-40,酒馆伙计,（看她的打扮和气度，想必是哪个富贵人家游山玩水，来尚蜀寻消遣吧。）,"(With how she acts, has to be some aristocrat touring the sights. She's here in Shangshu to kill time.)","(По одежде и манерам — наверно, из знатной семьи, катается по горам, ищет развлечений в Шаншу.)"
+line-42,石匠,（话说，我这几天连着做同一个梦……）,"(You know, I've been having the same dream every night lately...)","(Кстати, я эти дни всё вижу один и тот же сон...)"
+line-44,酒馆伙计,（那我昨天还梦见和小慧成亲了呢！）,"(Yeah? Well, last night I dreamt I got married to Xiao Hui!)","(А мне вчера приснилось, что я женился на Сяо Хуэй!)"
+line-45,酒馆伙计,（赶紧吃你的烂肉面，别耽误上工。）,"(Eat your noodles already, or you'll be late to work.)","(Ешь свою лапшу, не опаздывай на работу.)"
+line-47,令,说来听听。,Allow me to hear.,Расскажи.
+line-49,石匠,啊？,Eh?,А?
+line-51,令,梦。,The dream.,Сон.
+line-53,酒馆伙计,呀，客官，我们瞎嘀咕，打扰您喝酒了。,"Uh, no, we were just chattering, Miss. Sorry to bother you while you're drinking.","Ох, госпожа, мы тут болтали ерунду — простите, помешали вам пить."
+line-55,令,独饮无聊，我请你喝酒，你把梦说与我听。,Drinking lone does stifle. I bid you wine with me. Tell of your dream.,"Пить одной скучно. Я угощу тебя вином, а ты расскажешь мне свой сон."
+line-57,石匠,您是……解梦师吗？我听说大炎别的地方有专门帮人解梦的行当。,"Are you one of those... dream interpreters? I've heard people can make a living with that, in some parts of Yan.","Вы... толкователь снов? Я слышал, в других местах Яня есть такие, кто толкует сны за деньги."
+line-59,令,……,......,......
+line-61,石匠,那我权当给您解个闷吧。,"Well, if you're bored, then sure, why not?","Тогда я просто развлеку вас, ладно."
+line-62,石匠,我这几天，好几次梦到附近天灾频发，人心惶惶，天师府连降多道令牌，任命我为总督造，负责尚蜀移动城市的改建。,"These last few days I keep dreaming that Catastrophes are striking nearby, everyone's panicking. All these different orders come flying out of the Tianshi Bureaus, and they make me chief constructor, in charge of rebuilding Shangshu's nomadic city.","Эти дни я несколько раз видел сон: рядом всё время случаются Катастрофы, народ в панике, а Управление Небесных Наставников одно за другим рассылает предписания и назначает меня главным строителем — отвечать за перестройку кочевого города Шаншу."
+line-63,石匠,信使找到我的时候，我正在雕石头——,I'm carving stone when a Messenger finds me and—,"Когда вестник меня нашёл, я как раз высекал камень—"
+line-65,令,改建移动城市？,Rebuilding?,Перестроить кочевой город?
+line-67,石匠,是的。您一路来应该已经发现了，尚蜀的移动城市是与别处不同的。,Yeah. I'm sure you noticed when you arrived that our city isn't built like anywhere else.,Да. Вы наверно заметили по дороге: наш кочевой город не похож на другие.
+line-69,令,将群山挪移至移动平台，这在其他地方无法想象，尚蜀的移动城市可谓巧夺天工。,To posit ranges upon migratory platforms would be unimaginable elsewhere. The nomadic city of Shangshu may rival even Heaven in its craft.,Перенести целые горы на движущуюся платформу — в других краях и не помыслить. Кочевой город Шаншу по праву соперничает с самим небом в мастерстве.
+line-71,石匠,正因为这样，我们的承重也超出了常规移动平台的好几倍，机动性大打折扣。,Which means our load-capacity's many times higher than usual. Making it that much harder to get enough drive.,"Из-за этого нагрузка у нас в несколько раз выше обычной, и маневренность сильно страдает."
+line-72,石匠,要不是老天护佑，尚蜀人杰地灵，极少有天灾，移动城市自建成起并未真的移动过，它还真不一定经得起检验。,"I mean, thank Heaven for smiling on us, and the city for all its amazing people, and the Catastrophes for coming so rarely, but we haven't exactly put the 'nomadic' part to the test just yet. And who knows if it'll survive when we do?","Кабы не небесная милость, да люди у нас славные, да Катастрофы случаются редко — город с тех пор, как построили, ни разу по-настоящему не двигался. Кто знает, выдержал бы он проверку?"
+line-74,令,有几分道理。,"Yea, your point is well taken.",В этом есть доля правды.
+line-76,石匠,但那个梦！我在那个梦里找到了解决的办法！,But in the dream though! I find a solution!,Но в этом сне! Я нашла в нём решение!
+line-77,石匠,我当上总督造后，这个着急啊……突然在泡茶时得到了启发。,The problem keeps gnawing at me after I'm chief constructor... until it suddenly hits me as I'm brewing tea.,"Когда я стала главным строителем, так и горела... и вдруг, пока заваривала чай, меня осенило."
+line-78,石匠,大炎江河连川，百川又归海，这四通八达的水路本身便是移动城市天然的运行轨道。,"All of Yan's rivers connect. Hundreds and hundreds of them, all linked to the sea too. The waterways are completely open. They're *natural lines* for nomadic cities to travel on.","В Яне реки текут одна в другую, сотни рек возвращаются в море. Эти повсюду разветвлённые водные пути — сами по себе естественные колеи для кочевых городов."
+line-79,石匠,况且，常言道“水可载舟”，水流还能与移动城市的动力系统结合，解决承重过大而机动性不足的问题。,"And you know what say: 'water keeps a boat afloat.' If you combine the rivers with a nomadic city's own movement systems, it solves the lack of mobility from bearing all that load.","И, как говорится, «вода носит лодку». Течение можно соединить с двигательной системой города и так решить проблему большой нагрузки и малой манёвренности."
+line-84,,试想，若天灾突降，百年山城却轻如羽毛，快如长箭，顺江而迁。,"Just imagine. A Catastrophe bursts out, and this age-old mountain city turns light as a feather and shoots down the rivers like an arrow.","Представьте: внезапно нагрянет Катастрофа, а вековая горная крепость станет лёгкой как перо, быстрой как стрела и поплывёт вниз по реке."
+line-85,,百姓安坐在家中煮茶，只是偶尔风起浪卷，打湿了三山十八峰，晴空大雨，才恍然发现不知不觉间已去千里。,"The people sit safe at home boiling tea, the only sign being the wind tossing up the occasional wave to splash over the Three Mounts and Eighteen Peaks. A burst of rain from a clear sky, and suddenly they realize they've gone a thousand li without even noticing.","Люди спокойно сидят дома и пьют чай. Лишь изредка поднимется ветер, волна плеснёт о Три Горы и Восемнадцать Пиков — и после внезапного дождя в ясном небе они вдруг замечают, что незаметно для себя прошли уже тысячу ли."
+line-86,,到那时，尚蜀将真正不畏天灾，民生安泰。,"Just like that, Shangshu is free from the fear of Catastrophe, and her people safe.","И тогда Шаншу по-настоящему перестанет бояться Катастроф, и народ заживёт в мире и довольстве."
+line-91,令,倒真是个壮观的梦！我那个妹妹要是在，想必又能得一幅新画。,A fine and spectacular dream! Would that my sister were here to immortalize its contours in ink.,"Вот это величественный сон! Была бы здесь моя сестра, она наверняка написала бы по нему новую картину."
+line-94,酒馆伙计,哈哈哈你这个梦唯一真实的地方就只有雕石头！,"Hahahah, the only realistic part's when you're carving the stone!","Ха-ха-ха! Единственное правдивое место в твоём сне — это то, что ты высекаешь камень!"
+line-96,石匠,别的怎么就不真了？,Who says the rest can't happen?,А что остальное неправда?
+line-98,酒馆伙计,改建移动城市……你这是把自己当土木天师了啊。,Rebuilding a whole nomadic city... Like you'd ever be a Tumu Tianshi.,"Перестроить кочевой город... Ты что, возомнил себя Туму-тяньши?"
+line-100,石匠,……,......,......
+line-102,令,倒也无妨。,"Nay, I see no harm.",И ничего дурного.
+line-104,令,土木天师，想来最开始，也是要从这样的梦做起的。,"It is from such dreams, one imagines, that the Tumu Tianshi begin their very work.","Туму-тяньши, чай, тоже начинают с таких вот снов."
+line-106,石匠,谁又想雕一辈子石头呢……难道你想当一辈子伙计？,"Who wants to carve stone their whole life anyway? What, you wanna serve noodles 'til the end of time?",Кто захочет всю жизнь высекать камни... Или ты хочешь всю жизнь подавать лапшу?
+line-108,酒馆伙计,（嘘！当心点，别让我们掌柜的听到。）,"(Shh! Careful, don't let the boss hear that.)","(Тс! Потише, а то хозяин услышит.)"
+line-109,酒馆伙计,我觉得挺好的嘞，客人们来来去去，五湖四海的，有趣得很。虽然起早贪黑，苦是苦了点，但逢年过节，掌柜的也不曾亏待了我们。,"It's not so bad! Customers come from all over the country, so it's never boring. While it can be rough being on your feet all day, the boss treats us right whenever a festival comes around.","Мне и хорошо. Гости приходят и уходят, со всех концов света — очень интересно. Хотя встаёшь рано, ложишься поздно и тяжеловато, но на праздники хозяин нас не обижает."
+line-110,酒馆伙计,攒一攒，等过个一年半载，我说不定就能把小慧娶回家了。,"If I keep saving, maybe in a year or so I can get hitched to Xiao Hui after all.","Если накоплю, через год-другой, глядишь, и женюсь на Сяо Хуэй."
+line-112,石匠,那你可得抓点紧。小慧虽然家境一般，但长得好看，我可听说已经有人向她提了亲……,"You'll want to hurry, then. Sure, her house is only average, but with those looks? I hear she's already gotten proposals.","Тогда поторопись. Семья у Сяо Хуэй простая, но она красивая. Я слышал, ей уже сделали предложение..."
+line-114,酒馆伙计,锤子——哪个不开眼的。,Dumbass—think before you speak.,Чёрт возьми — кто это ослеп?!
+line-116,石匠,哈哈哈哈！,Hahahaha!,Ха-ха-ха-ха!
+line-118,酒馆伙计,不过保不齐你真的能当上土木天师呢……,"You've got a good shot at becoming a Tumu Tianshi, though, really...","А может, ты и вправду станешь Туму-тяньши..."
+line-119,酒馆伙计,你这梦要成了真，那就不是蜀道难，而是蜀道通了。到时咱们山城的石雕和茶叶能卖到大炎的任何地方。不，不光是大炎。,"If that dream of yours comes true, then say goodbye to the trials of Shu's paths; they'll be wide open. We'll be able to sell our mountain city's carvings and tea all over Yan. No, more than just Yan.","Если твой сон сбудется, то не «труден путь в Шу», а «открыт путь в Шу». Наши каменные изваяния и чай будут продаваться по всему Яню. Нет — не только по Яню."
+line-121,石匠,说了半天，忘了问解梦师我这个梦到底怎么回事了。连着做，总觉得不太寻常……,"Come to think of it, I completely forgot to get your take on my dream. It can't be normal, having it night after night...","Мы столько говорили, а я и забыл спросить толкователя, что же значит мой сон. Снится снова и снова — неспроста это..."
+line-123,令,我并未说自己会解梦。,Never did I say I could explain dreams.,"Я не говорила, что умею толковать сны."
+line-124,令,我也只是常做梦而已。,I am merely a frequent dreamer of my own.,Я просто часто вижу сны.
+line-125,令,你要想听，我也可以……,"Still, if you want for it, I may yet try...","Если хочешь услышать, я могу..."
+line-127,石匠,那还是——,Then—,Тогда лучше—
+line-130,酒馆伙计,哎呀，已经过了你平时上工的时辰了，赶紧把账结了回去。,"Come on, you should've started work ages ago. Pay your bill and get moving.","Ой, ты уже опоздал на работу. Расплатись и беги."
+line-132,石匠,呀！,Oh!,Ой!
+line-133,石匠,呀！今天来得急，身上没带……,Shoot! I left in a hurry today and didn't bring my—,Ой! Я сегодня выбежал в спешке и не взял...
+line-135,令,一并算在我的酒资里，也不能白听你一个梦。,Add it to my wine bill. Hardly could I hear your dream for free.,Прибавь к моему счёту за вино. Не бесплатно же я слушала твой сон.
+line-137,石匠,这怎么好意思……,"You're too kind, how can I—",Как же неловко...
+line-139,令,多打听一个事，这尚蜀三山十八峰，哪一处最幽僻，最称得上“蜀道难”的说法？,"I'll ask one thing further. Of the Three Mounts and Eighteen Peaks, which is most remote, most befitting of 'the trials of Shu's paths'?","Ещё один вопрос: из Трёх Гор и Восемнадцати Пиков какая местность самая глухая, больше всего соответствующая словам «труден путь в Шу»?"
+line-141,石匠,您是要？,What's your plan?,Вы хотите...?
+line-143,令,酒喝够了，想寻个安静地儿睡上一觉，兴许也能做个如你这般有趣的梦。,"Once I've drunk my fill, I'll want for a quiet place to sleep. I may even dream a dream as fascinating as yours.","Я напилась и хочу найти тихое место, прилечь. Может, и мне приснится такой же интересный сон, как у тебя."
+line-151,,书生梦马簪金花，女娥梦桥生红药，世人所谓“梦”者，发乎事，起乎情。那个石匠的梦，也是此理。,"Scholars dream in hairpins wrought to flowers gold, beauties in red peonies by bridge's other end, and those who 'dream' as common folk, in matters devised, in feelings aroused. So in this nature does that stonesmith's dream lie.","Учёный видит во сне коня с золотым цветком в гриве, девушка — мост, поросший красными пионами. То, что люди называют «сном», рождается из событий, поднимается из чувств. Сон того каменщика — всё тот же закон."
+line-152,,梦是好梦，但以为它关乎吉凶，随随便便做了，却不敢随随便便解。,"The dream is fine, yet you believe it to pertain to fortune's scale. 'Twas dreamed however wanton, yet you do not dare interpret it however wanton.","Сон хороший. Но стоит поверить, что он сулит удачу или беду — и его уже не решаются истолковать как попало."
+line-153,,梦终究只是梦，过往将来，终是由己。,"Dreams, at the close, are merely dreams. The past, and future, always arise by themselves.",Сон всё же остаётся сном. Прошлое и будущее в конце концов зависят от нас самих.
+line-158,令,你们怎么在此？,Why should you be here?,Что вы здесь делаете?
+line-164,墨魉,嘎……,Gkh...,Карр...
+line-166,令,是夕让你们这些小家伙来迎我，还是我已然入了她的画中……,"Did Dusk send you to meet me, or could I be away in her painting by now...","Даск прислала вас, малышей, встретить меня — или я уже вошла в её картину...?"
+line-168,墨魉,嘎嘎……,"Gkh, gkh...",Карр-карр...
+line-170,令,抑或……我只是有了醉意？,"Or, perhaps... I am simply drunk?",Или... я просто опьянела?
+line-172,器伥,刚刚说到哪儿了？,Where was I just now?,О чём мы только что говорили?
+line-174,墨魉,你说你羡慕我。,You said you envied me.,"Ты сказал, что завидуешь мне."
+line-176,令,你们这些小家伙居然会说话……,So you little things know how to speak.,"Так вы, малыши, ещё и говорите..."
+line-177,令,好吧，湖松酒都有这般后劲，下次该试试归行老酒。,"Very well. If the Husong's proven itself of such good effect, come next time I should try the Guixing reserve.","Ладно. Раз «Хусун» такое послевкусие, в следующий раз надо попробовать «Гуйсин»."
+line-179,器伥,墨兄，想来这天地间，和我殊途同归的，也就只有你了。但你终归要比我自在得多哟。,"Ink, I think you're the only one like me in this whole world. But in the end, you're so much freer.","Брат Инк, похоже, во всём этом мире только ты пришёл к тому же, к чему и я, хоть и другими путями. Но тебе всё-таки вольготнее, чем мне."
+line-181,墨魉,这是哪儿的话？,Where's this coming from?,С чего ты взял?
+line-183,器伥,器皿本是死物，无心无念，只不过意外受到令的点染，化成了伥。,"Housewares are dead things, no heart or soul. We just happened to be touched up by Ling, and made into geists.","Утварь — мёртвая вещь, без сердца и помыслов. Просто по воле случая Лин прикоснулась к нам и превратила в духов."
+line-184,器伥,缺柄少盖的茶壶，生出来的伥同样缺胳膊断腿。薄薄青瓷的伥，同样耐不住几下摔打……,A teapot with a broken handle and no lid becomes a geist with broken legs and no arms. Anything of thin celadon can't even take a few hits...,У чайника без ручки и крышки и дух выходит без рук и ног. Дух из тонкого селадона не выдержит и пары ударов...
+line-185,器伥,伥的形与意，都局限在器皿本身了。本体怎样，我们便只能怎样。,A geist's form and will are confined by its true nature. We can only be however our body is.,"Форма и помыслы духа ограничены самой утварью. Каков предмет, таковы и мы."
+line-187,墨魉,我们也同样只存在于夕的画卷之中，未必就算得上“活物”。,"All the same, we exist only in Dusk's scrolls, and aren't even necessarily 'living things'.","И мы существуем лишь в свитках Даск — неизвестно, можно ли нас назвать «живыми»."
+line-189,器伥,夕的画卷，已然是另一方天地了……你们虽然是随笔涂鸦而成，但和那画中的无限风光一样，都是夕的“念想”啊。,"Dusk's scrolls are a whole different world... You might be of brush and scrawls, but you're from Dusk's imagination, along with the paintings' limitless sights.","Свитки Даск — это уже другой мир... Пусть вы вышли из небрежных мазков, вы, как и бескрайние пейзажи на картинах, — «замысел» Даск."
+line-190,器伥,“念想”是最无拘束的。有形的时候，一叶扁舟，千江叠浪，枯树生花，华发再青，天地颠倒，万象迷离。,"'Imagination' is the freest of all. With it, a leaf is a boat, rivers fold in waves, dead trees flower, gray hair is again lustrous, Heaven and Earth invert, and all things become hazy.","«Замысел» свободнее всего. Когда он обретает форму, лист становится лодкой, тысячи рек вздымают волны, сухое дерево цветёт, седые волосы темнеют, небо и земля переворачиваются, и всё вокруг становится неясным."
+line-192,令,你从哪儿知道的这些词……,Where did you learn such words...,Где ты набрался таких слов...
+line-194,器伥,无形的时候，滴墨不染，搁笔留白，都自有意义。,"Even when without form, when ink makes no splash, and brush halts and leaves empty, that itself has meaning.","А когда формы нет — ни капли чернил, остановленная кисть, пустое место — и то имеет свой смысл."
+line-195,器伥,夕的念想不停，画卷不收，你们便永远自由自在。,"Dusk's imagination is ceaseless. As the scroll is unfurled, so too are you eternally free.","Пока замысел Даск не иссякнет и свитки не свернуты, вы всегда свободны."
+line-197,令,……,......,......
+line-199,令,听得出来你着实羡慕得紧啊。,"Truly your envy runs deep, from the sound of it.","Слышно, что ты и правда очень завидуешь..."
+line-201,墨魉,嘎嘎，器兄，我反倒觉得你才值得羡慕。,"Gkh-gkh, Ware, I would think you're the one worth envying.","Карр-карр, брат Утварь, по-моему, завидовать надо тебе."
+line-203,器伥,哦？,Oh?,О?
+line-205,墨魉,自由自在，未见得就是好啊。,To be free at ease isn't all good.,Свобода — не всегда благо.
+line-206,墨魉,我问你，这里好几只墨魉，你能分得清哪只是夕喜悦时所涂，哪只是夕伤怀时所涂吗？,"I ask you. There are several Ink Spirits here. Can you distinguish which were painted when Dusk joyed, and which when she grieved?","Скажи, здесь несколько чернильных духов. Можешь отличить, какого Даск нарисовала в радости, а какого — в печали?"
+line-208,器伥,……你们都长得差不多。,You all look roughly the same...,......Вы все похожи друг на друга.
+line-210,墨魉,对啊，我们甚至不知道，夕在涂抹我们时，是何种心情，或者她就是……无情无感。,Correct. Not even we know what mood she had in painting us. Perhaps it was only done... emotionlessly.,"Вот именно. Мы даже не знаем, что она чувствовала, рисуя нас. Может, и вовсе... ничего не чувствовала."
+line-211,墨魉,可拿你来说吧，你通体古褐色，但肚腹黢黑，那是冲茶煮茶十多年留下的茶渍。你还没靠近，我就仿佛闻到了茶香。,"But you, while your body is brown, your belly is deep black, stained by a dozen years of boiling tea. I could smell its scent, your scent, before you even approached.","А вот ты: весь старинный коричневый, а брюхо чёрное — от чайных пятен, что остались за десять с лишним лет заваривания. Я ещё не подошёл, а уже чувствую запах чая."
+line-212,墨魉,诗画之伥附庸风雅，兵戈之伥嗜好杀伐，水火不侵的伥，我们便知它的本体必然经受过长久的火炼窑烧。,"Geists of the fine arts are snobbish. Geists of weapons of war indulge in violence. When a geist is impervious, we know its body has been tempered by heat and flame.","Духи стихов и картин любят щегольнуть культурой, духи оружия жаждут резни. Если дух не боится ни воды, ни огня, мы знаем: его предмет долго обжигали в печи."
+line-213,墨魉,你们生来便有根可循，是限制，可未尝不是归宿，这正是你们的意义啊。,"You're born with a basis, something to abide by. You're restricted, but that doesn't have to be your end. That is your meaning.","Вы рождаетесь с корнем, за который можно зацепиться. Это ограничение — но и пристанище. В этом и ваш смысл."
+line-214,墨魉,见器伥便能见器物本身，更能见使器物的人。甚至器伥虽死，器物本身却还在。,"In a Waregeist, you can see the ware itself, and even moreso the one who used it. Even when one dies, the ware itself remains.","Увидев духа утвари, ты видишь сам предмет, а через него — и того, кто им пользовался. Более того: даже если дух умрёт, сам предмет останется."
+line-215,墨魉,而墨魉呢，只是无根的风，吹过来晃过去。夕不喜不安时，便能把画都撕了，更何况那画上的几抹涂鸦。,"Ink Spirits though? We're a rootless gust. We breeze by and we're gone. Depending on Dusk's mood, she may even tear a scroll apart. What of the scrawls on it?","А чернильные духи — всего лишь безкорневой ветер: подул и пронёсся. Если Даск не в настроении, она может порвать свиток, не говоря уже о нескольких мазках на нём."
+line-216,墨魉,器兄，这样无根的自由，你还羡慕吗？,"Ware, do you still envy this freedom without root?","Брат Утварь, всё ещё завидуешь такой свободе без корня?"
+line-218,器伥,我依然觉得……,I still do...,Я всё равно думаю...
+line-220,墨魉,这样吧，咱俩谁也辩不过谁，正好令在这，请她做个评断吧。,"How about this? We won't convince each other, and Ling happens to be right here. We'll let her be the judge.","Давайте так: мы друг друга не переспорим, а Лин как раз здесь. Пусть она рассудит."
+line-221,墨魉,令不要偏袒就是了。,So long as she shows no favoritism.,Только Лин не должна никому отдавать предпочтение.
+line-223,令,你们总算想起我了……争得口渴了吧？我这边还剩几坛子湖松酒，正好解渴。,"And so you finally remember me... Do you not thirst from your debate? Some jugs of Husong yet remain, to quench oneself with.",Наконец-то вы вспомнили обо мне... Переспорили до жажды? У меня ещё осталось несколько кувшинов «Хусун» — как раз утолить жажду.
+line-225,墨魉,（咕咚咕咚）,(Glug-glug),(глюк-глюк)
+line-227,器伥,（咕咚咕咚）,(Glug-glug),(глюк-глюк)
+line-232,令,欸你别吐啊！,"Nay, spit it not!","Эй, не выплёвывай!"
+line-234,器伥,咽不下去咽不下去，喉咙烧得慌，我滴个天爷。,"I can't do it, I can't swallow it. It's burning my throat. I beg of you.","Не проглотить, не проглотить! В горле жжёт. О боже мой..."
+line-236,令,夕是不饮酒的，她怕睡着了做梦……那小墨魉你也应该喝不了吧？,"Dusk drank not wine, fearing a dreamful slumber... Thus should you too be unable to partake, Ink Spirit?","Даск не пьёт вина — боится, что во сне начнутся сны... Значит, и тебе, маленький чернильный дух, нельзя, да?"
+line-238,墨魉,（咕咚咕咚）,(Glug-glug),(глюк-глюк)
+line-239,墨魉,没有呀，我觉得挺好喝的，清甜滑喉，入口绵长。,"The opposite. I think it's quite delicious. Clean, sweet, and smooth, with a lingering taste.","Вовсе нет. Мне даже вкусно: светлое, сладкое, пьётся мягко, с долгим послевкусием."
+line-240,墨魉,晕乎乎的，像是夕翻转了画……难怪都说炎国人喜欢这玩意儿。,"I'm all dizzy, like Dusk's flipped the painting over... No wonder it's said the Yanese have a love for this.","Голова кружится, будто Даск перевернула картину... Недаром говорят, что жители Яня любят это питьё."
+line-242,令,哈哈哈，确实是个好东西。,"Hahahah, and fine a thing it is.","Ха-ха-ха, и правда неплохая вещь."
+line-243,令,我甚爱酒，南方的桃梅晚酿喝过，北方的烈刀子也喝过，可受我点染的器伥，却连一口酒都咽不下去。,"Much do I love wine. The peach-plum brews of the south I have drunk, the fierce knife-edge of the north I have drunk, yet the Waregeists of my own detailing can take not even a mouthful of it.","Я очень люблю вино. Пробовала и южное вино из поздних персиков со сливами, и северное, крепкое как клинок. А духи утвари, которых я коснулась, не могут проглотить и глотка."
+line-244,令,滴酒不沾的夕，她所画的墨魉偏偏觉得此味甚妙。,While the alcohol-abstinent Dusk draws Ink Spirits who amusingly consider it of exquisite taste.,"Даск, которая не пьёт ни капли, рисует чернильных духов, которым этот вкус очень нравится."
+line-245,令,你们可有所思？,Might you have thoughts on why?,Есть о чём подумать?
+line-247,器伥&墨魉,……,......,......
+line-249,令,你们确实是我和夕的造物，得了几分形意。但几分的我，便已然不是我了，二者终究是有区别的。,"Indeed you are our creations, attaining from us some elements of form and spirit. But just as some elements are mine, so naturally some are not. The two do differ in the end.","Вы и правда созданы Даск и мной, получили долю нашей формы и смысла. Но даже доля меня — это уже не я. Всё-таки мы разные."
+line-250,令,器伥非器，墨魉非墨。你们，难道不都是自己吗？,"Waregeists are no wares, Ink Spirits no ink. Tell, you two, are you not yourselves?","Дух утвари — не утварь, чернильный дух — не чернила. Разве вы не сами по себе?"
+line-252,器伥&墨魉,……,......,......
+line-254,令,再者，到底何谓“自由”？,"Further, just what defines 'free'?",И ещё: что такое «свобода»?
+line-255,令,你们觉得我和夕是否自由？,Do you feel whether Dusk and I are free?,"Как вы думаете, мы с Даск свободны?"
+line-257,墨魉,令自然是自由的——,"Ling, you are naturally free—","Лин, конечно, свободна—"
+line-259,令,是吗……,Is that so...,Правда...?
+line-261,器伥,难道不是？,Could you not be?,Разве нет?
+line-263,令,我也不知。,I know not myself.,Я не знаю.
+line-264,令,真自在者，不知何为自在。,The truly free know not why they are free.,"По-настоящему свободный не знает, что такое свобода."
+line-265,令,你们越是苦苦纠结，越是不得其解。本就是自在之物，又何苦自寻烦恼？,"The fiercer your arduous struggle, the less you find release. You are free beings by nature, so why agonize yourselves so?","Чем отчаяннее вы пытаетесь это понять, тем дальше от ответа. Вы и так свободны по своей природе — зачем же самим себя терзать?"
+line-267,器伥&墨魉,……,......,......
+line-269,令,还是不解？,You still do not understand?,Всё ещё не понимаете?
+line-270,令,呀，既然不解，索性都散了吧，别挡了路。,"Ah! As you do not, you may well then disperse. Out of the way.","Ой, раз не понимаете, тогда просто рассейтесь. Не стойте на дороге."
+line-278,令,浪费了我几口酒……,You've wasted some mouthfuls of my wine...,Потратили несколько глотков моего вина...
+line-280,令,常言道“蜀道难”，果然不虚。盘旋回折，耸峭入云，山路转弯，竟又是一段山路。,"Often do they speak of 'the trials of Shu's paths' and so it holds water. They circle and twist, rise bared to the clouds, and as one pass turns, it is yet into another.","Недаром говорят: «Труден путь в Шу». И вправду. Петляет, изгибается, вздымается к облакам — повернёшь за угол, а там опять дорога."
+line-281,令,也罢，想来到山巅时，正好一场好眠。,"Be it so. By the time I reach the summit, a good sleep shall await.",Ну что ж. Дойду до вершины — как раз и посплю хорошо.
+line-289,,看来又是一场诗会。,"Another poets' gathering, it seems.","Похоже, опять поэтическое собрание."
+line-290,,白瓷的杯子顺水而下，杯中酒与泉流浑然一色。酒杯停在谁处，即须成诗三句。笔力不逮者，衔杯作揖，是谓“流觞”。,"White porcelain cups descend with the current, their wine and the springwater of miscible hue. By whom the cups stop, so must they compose three phrases. Those whose vivacities seize not, accept the cup prostrate, and so form this 'stream party'.","Белые фарфоровые чашки плывут по течению, вино в них сливается с родниковой водой. У кого чашка остановилась, тот должен сложить три строки. Кто не справится — поднимает чашку и кланяется. Это и называется «праздник у ручья»."
+line-291,,酒是桃梅晚酿，采早开的桃蕊，与存好的晚梅一并捣碎入酒，清冽甘甜，入口生津。,"The wine is peach-plum eve's brew, picked of early-blossoming peach buds, together pounded with stored evening plum into a liquor, cold and pure and sweet, mouthwatering within the mouth.","Вино — из поздних персиков и слив: берут рано распустившиеся персиковые почки, толкут их с заготовленными поздними сливами и добавляют в вино. Прохладное, сладкое, от него выделяется слюна."
+line-292,,那酒的滋味，妙绝。,"This wine's flavor, supremely sublime.",Вкус того вина — бесподобный.
+line-294,,采菱的少女把满满一兜菱角倒进船舱，却不留神将船桨踢飞了出去，脆生生的呼叫声传出去数里远。,"The girl of laketop song casts a pocket of water chestnuts into the vessel's hold, but carelessly kicks the oar flying, out and away. Crisp cries and hollers travel out for li and li beyond.","Девушка, собравшая водяные орехи, высыпала полную корзину в лодку, да нечаянно оттолкнула весло, и оно улетело прочь. Её звонкий вопль разнёсся на несколько ли."
+line-295,,春夏之交的雨下了半月还未停，在石板路上砸起的雾气渺若轻烟，相邻的人家隔着雨幕抱怨说厅堂几时能干燥些。,"The rain twixt spring and summer still falls half a month hence, the fog from striking flagstones as fine as smoke. The neighbors, separated by rain's curtain, grumble for when the hall can dry.","Дождь на стыке весны и лета шёл уже полмесяца и всё не кончался. Туман, поднимавшийся от каменных плит, был тонок как дым. Соседи сквозь завесу дождя ворчали: когда же в горнице станет сухо?"
+line-296,,好茶者斗茶，好酒者斗酒，好钓者斗钓，富者斗金玉，贫者斗鸣虫……,"Tea's lovers contest with tea, wine's with wine, angling's with angling, the wealthy with gold and jade, the poor with chirruping bugs...","Любители чая меряются чаем, любители вина — вином, рыбаки — уловом, богатые — золотом и нефритом, бедные — поющими сверчками..."
+line-297,,哦对了，还有灯会，那可比流觞热闹得多了，造型各异的花灯从街的这头燃到那头，逢着佳节更是彻夜不灭。,"Oh, lest we forget, the lantern festival. Far livelier than a party by a stream, each lantern unto its own style, lit from street's head to tail, and over the celebration extinguishing not even through the night.","Ах, да ещё праздник фонарей! Там куда веселее, чем у ручья. Разнообразные яркие фонари горят от одного конца улицы до другого, а в праздничные дни не гаснут всю ночь."
+line-298,,移一步可得一句，看一景可得一诗，所以那些年的诗会，我从未输过。,"In each step taken is earned a phrase, in each sight seen is earned a verse, and so in those poets' gatherings have never I lost.","Шаг вперёд — и рождается строка, взглянешь на пейзаж — и готово стихотворение. Поэтому на поэтических собраниях тех лет я никогда не проигрывала."
+line-299,,一江烟水一芰荷，酒招深处浣清波。,In river water's mist a lotus sits; wine calls to deepest parts rinsed clear by waves.,"Дымная река, один лотос; там, где флаг винной лавки, полощут чистую волну."
+line-300,,倒卧西山翠，千年醒回舟。,Lay down yourself to west mount's climbing jade; wake 'pon this vessel in your thousand years.,"Лёг я под изумруд Западных гор, через тысячу лет проснулся в лодке."
+line-301,,世情旖旎，酣醉酩酊，何妨衰病减心情。,"The world's ways softly charm. Now drop inebriate; what harm is feeble blood, diminished mood?","Мир прелестен, опьянение сладко — какая беда, что старость и болезнь остудили пыл?"
+line-302,？？？,尽兴吗？,Is your heart content?,Ты вдоволь насладилась?
+line-306,令,尽兴。,My heart is so.,Вдоволь.
+line-307,令,……,......,......
+line-308,令,尽兴是尽兴，可就是太容易尽兴了。,"So it is content, but only content too easily.","Насладилась, да. Только слишком легко наслаждаюсь."
+line-310,？？？,厌倦一样事，便对百样事都觉得新鲜。只是这新鲜到头，终究还是厌倦。,"Tire of one thing, and so a hundred things become fresh. But when these freshnesses reach their end, you still tire once again.",Надоест одно — и сто других кажутся новыми. Но дойдёт новизна до конца — и снова наступает скука.
+line-311,？？？,令，这里不是你的归宿。,"Ling, you are not at an end here.","Лин, здесь не твоё пристанище."
+line-312,？？？,何不听我的，走得远些去看看。,"What say you listen to me, go further out and take a look.","Почему бы не послушаться меня и не пойти подальше, посмотреть?"
+line-314,令,你所谓“春风不至”的地方？,To the place where 'spring's breeze never comes'?,"То самое место, куда «весенний ветер не заходит»?"
+line-316,？？？,是了。,To there.,Да.
+line-318,令,又有什么不同？,What difference does it make?,И что с того? Чем отличается?
+line-320,？？？,去了便知。,You will know once you go.,Пойдёшь — узнаешь.
+line-322,令,那里便是我的归宿了？,Is that where I'll be at an end?,Там и будет моё пристанище?
+line-324,？？？,我也不知。,I know not myself.,Я не знаю.
+line-325,？？？,流觞诗会少一个令不少，多一个令不多。可我让你去的地方，需要你。,"A stream's gathering of poets may be a Ling more, a Ling less. But the place I bid you go—needs you.","Для собрания у ручья Лин — не нужна, без неё ничего не изменится. Но место, куда я зову тебя, нуждается в тебе."
+line-326,？？？,或许你在那里，才能写出，新的诗来。,"Perhaps there, you will finally be able to write—new verse.","Может, только там ты сможешь написать новые стихи."
+line-333,,那座移动城市。,That nomadic city.,Тот кочевой город.
+line-334,,那座横在大漠前的移动城市。,That nomadic city laid before the desert.,"Тот кочевой город, что стоит перед великой пустыней."
+line-336,,即使数百年过去，我依然记得初见它时的震撼。此刻，我竟然又站在了它的城楼上。,"Though it was centuries ago, I still remember the shock when first I saw it. In this instant, I find myself once again stood atop its tower gate.","Прошли сотни лет, а я всё ещё помню потрясение от первой встречи. И вот я снова стою на его городской стене."
+line-337,,大漠绵延千里，风沙蒸腾起热浪，云烟浩渺，我能感受到皮肤在急速失去水分。,"The desert unbroken for endless li, sandstorms hanging heat in waves, mist vast and far. I can feel as the water departs from my skin.","Пустыня тянется на тысячи ли, песчаные бури поднимают волны жара, дымка бескрайня. Я чувствую, как кожа быстро теряет влагу."
+line-338,,为了控制水源，它在建造时并未考虑占据险要地势，依山脉以为屏障，而是临近草甸和湖泊。,"So as to occupy a water source, its construction takes not into account the occupation of strategic terrain. It treats mountain ranges as barriers, and approaches the meadows and lakes.","Чтобы контролировать воду, его возводили не на стратегических высотах, не за горной преградой, а рядом с лугами и озёрами."
+line-339,,如此一来，干燥的风扫过无遮无挡的大漠，直扑在城墙上。它像个孤独的巨人，巍巍然矗立在天地间，身无可依。,"And so, the dry wind sweeps the wide open desert, fluttering against the city walls. It seems a lone titan, towering through Heaven and Earth's interstice, its body unyielding.","И потому сухой ветер беспрепятственно мчится по открытой пустыне и бьёт прямо в стены. Словно одинокий великан, он высится между небом и землёй, и не на что ему опереться."
+line-340,,旌旗漫卷，长河落日。,The banners roll free. The sun sets long upon the river.,"Знамёна развеваются, над долгой рекой заходит солнце."
+line-341,,城关外，战士们正将昨日死难兄弟的尸体搬运出来，一排排码放好，我挨个走过，将他们的眼睛合上。,"Outside the gate, the soldiers are porting the corpses of their brothers fallen yesterday in the cause, piled clean row by row. In turn I pass them by, closing each of their eyes.","За городскими воротами воины выносят тела братьев, павших вчера, и укладывают их в ряды. Я прохожу мимо каждого и закрываю им глаза."
+line-342,,昨日的连场血战犹在耳畔。遮天蔽日的箭，晴空似夜，杀声如裂帛，经久不绝。,"One's ears hear still the bloody battles of yesterday. Arrows shadow out the sun, the sky as if night, the sounds of slaughter as if tearing silk. Continuing, uninterrupted.","В ушах ещё стоит вчерашняя резня. Тучи стрел закрыли солнце, ясное небо стало как ночь, крики битвы, словно раздираемый шёлк, долго не смолкали."
+line-343,,火炬在他们身下点燃，无人哀哭，因为新的战斗将近。烟尘滚滚，但迅速被风吹进茫茫大漠。,"Torches are lit beneath their bodies. Not a one weeps, for a new battle is near. Smoke rolls, but the wind soon blows it into the boundless desert.","Под ними зажгли костры. Никто не плакал — новый бой был уже близко. Дым клубился, но ветер быстро унёс его в бескрайнюю пустыню."
+line-344,,……,......,......
+line-346,,诗酒已然帮我忘却了许多我曾厌倦的东西，可在此般景象面前，我反应过来时，却已重新握紧了武器。,"Poetry and wine have already helped me forget so much I once hated, yet before such a scene, and before I come to my senses, I have already grasped my armaments again.","Стихи и вино помогли мне забыть многое, что мне надоело. Но перед таким зрелищем я опомнилась лишь тогда, когда снова сжала оружие."
+line-347,,因为身边的每一个将士，都握紧了武器。,For every soldier and command by me has grasped their own.,Потому что каждый воин рядом со мной тоже сжал своё оружие.
+line-348,,不能让那些家伙，靠近身后的大炎。那是他们的家乡，那里有他们的亲人。,We cannot let those fools approach the Yan at our backs. It is their home. Home of their loved ones.,"Нельзя подпустить этих тварей к Яню у нас за спиной. Там их родина, там их близкие."
+line-349,,横在这茫茫大漠前的，不是这座巨人般的移动城市，而是这城里的将士。,"Stood long, before this desert without end, is not the titan that is the nomadic city, but its soldiers.","Стоит перед бескрайней пустыней не этот город-великан, а его воины."
+line-351,,孤城听征鼓，年岁莫问，但凭豪气多。,A lone city to hear the drums of war. The Years are not asked. Heroism is let unabated.,"Одинокий город слышит барабаны похода. Не спрашивай о годах — главное, чтобы духа было вдоволь."
+line-352,,谁言将军有死志，故垒新柳年年生。,Who spake that generals willed to die—old bulwarks birth new willows year on year.,"Кто сказал, что полководец хочет смерти? На старых валах каждый год вырастают новые ивы."
+line-353,令,他说的没错……我是应该来此的。,He was not wrong... I was meant to come here.,Он прав... Мне следовало прийти сюда.
+line-361,令,你竟然也来了，看来真是梦了。,And you've come too. I see this truly has been dreamed.,"И ты здесь. Значит, это и правда был сон."
+line-364,“岁相”,（无言的轰鸣）,(Wordless roar),(безмолвный гул)
+line-366,令,别吼了，我方才喝了几坛子湖松酒，头晕着哩。,Howl not. I only just drank some jars of Husong; my head spins.,"Не реви. Я только что выпила несколько кувшинов «Хусун», голова кружится."
+line-369,“岁相”,（无言的轰鸣）,(Wordless roar),(безмолвный гул)
+line-371,令,逃避？非也。我既不是年，也不是夕。,"Escape? I need not. I am not Nian, nor Dusk.",Побег? Нет. Я не Ниан и не Даск.
+line-374,“岁相”,（无言的轰鸣）,(Wordless roar),(безмолвный гул)
+line-376,令,好好好，那我且问你。,"Fine, yea, fine, then I shall ask you.","Ладно, ладно, тогда я тебя спрошу."
+line-377,令,你觊觎这天地，又可知这偌大天地间，到底有什么？,"You covet this Heaven and Earth, but know you even what lies between it, vast as that is?","Ты жаждешь этот мир — но знаешь ли, что на самом деле есть в нём, огромном?"
+line-380,“岁相”,（无言的轰鸣）,(Wordless roar),(безмолвный гул)
+line-382,令,你可知蒙垄的新茶，该是在三月采，还是四月采？,"Know you even whether new teas in watered fields should be picked in March, or April?","Знаешь ли ты, молодой чай на горах Мэнлун собирают в третьем месяце или в четвёртом?"
+line-383,令,你可知大漠长夜苦寒时，常唱什么歌，常饮什么酒？,"Know you even when bitter cold descends on the desert night, the songs often sung, the wines often drunk?","Знаешь ли, в долгие холодные ночи в пустыне какие песни поют и какое вино пьют?"
+line-384,令,你又可知……,Know you even...,Знаешь ли ты ещё...
+line-386,“岁相”,……,......,......
+line-388,令,你对这天地，一无所知。,"That of this Heaven and Earth, you know nothing.",Об этом мире ты ничего не знаешь.
+line-389,令,当然，你即是我……,"Of course, you are but me...","Конечно, ты — это я..."
+line-390,令,枉我们自诩活了这千百年，却依然有太多不知不闻的事，不解不晓的情。,"For naught we brag of lives of centuries upon centuries, and still there are far too many matters not yet learned, not yet heard; too many states not yet interpreted, not yet known.","Напрасно мы хвалимся, что прожили тысячи лет: столько ещё невиданного, неуслышанного, непонятого, неведомого."
+line-393,“岁相”,（无言的轰鸣）,(Wordless roar),(безмолвный гул)
+line-395,令,也曾像山脚酒馆里的那个石匠，连做梦也有忧戚，或者如我那妹妹一样，连梦都不敢做了。,"And once, like that stonemason in the tavern at mountain's foot, did I worry and grieve to dream. Or perhaps like that little sister of mine, I dared not even dream.","И я когда-то была похожа на того каменщика из таверны у подножия — даже во сне мне было тревожно. Или, как моя сестра, я не смела и мечтать."
+line-396,令,也曾像器伥和墨魉，觉得受限于自己，又受限于天地，总不自由。,"And once, like the Waregeist and Ink Spirit, did I feel I was bound to myself, and bound to the realm, never free.","И я когда-то, как дух утвари и чернильный дух, чувствовала себя скованной собой и этим миром — никогда свободной."
+line-397,令,我们这些活了千百年的造物，傲视几十年寿命的芸芸众生，笑他们活得愚昧。归根结底，还是我们更蠢一些。,"These creations of our lived centuries on centuries disdain the common people with spans of decades, ridicule how ignorantly they live. Ultimately, still more foolish were we.","Мы, создания, прожившие тысячи лет, свысока смотрим на тех, кто живёт всего десятки лет, и смеёмся над их невежеством. А в конце концов глупее были мы."
+line-399,“岁相”,……,......,......
+line-401,令,从南而北，再到这蜀道山巅，于我而言，只不过是一场酣梦。,"From the south to the north, to this Shangshu summit—in my own regard, it has been no more than an intoxicating dream.",С юга на север и вот — на вершину троп Шу: для меня всё это было лишь пьяный сон.
+line-402,令,其实，从太古以来，经过的时间，行过的地方，千年万年，无非是更大的一场梦。,"Truthfully, since far antiquity, the times passed, the places been, the millennia and the myriads, have been but a dream even more grand and farcical still.","На самом деле все времена с глубокой древности, все пройденные места, тысячи и десятки тысяч лет — не что иное, как ещё более крупный сон."
+line-403,令,这一场大梦做罢，我终于知我是谁——,"With this farcical dream concluded, I finally know who I am—","Когда этот великий сон закончился, я наконец узнала, кто я—"
+line-406,“岁相”,（无言的轰鸣）,(Wordless roar),(безмолвный гул)
+line-408,令,罢了，说了你也不懂。,"Never you mind. Even spoken, you do not understand.",Полно. Всё равно тебе не понять.
+line-409,令,既不懂，还不走？,"And even so, still you do not leave?",Не понимаешь — так почему не уходишь?
+line-410,令,既是我的梦，怎么解由我，醉也由我，醒也由我。,"As you are my dream, you are for me to interpret, for me to intoxicate, for me to awaken.","Раз ты — мой сон, то и толковать его мне, и опьяняться мне, и просыпаться мне."
+line-418,令,我既醒来，你又焉在？,"And once I awaken, where will you be?",Я проснулась — где же ты?
+line-426,,醒来。,Awaken.,Проснуться.
+line-427,,酒也空了。,The wine is run dry.,Вино тоже кончилось.
+line-428,,好一场梦啊。,A fine dream.,Что за сон был.
+line-429,,我看见了什么？,What did I see?,Что я видела?
+line-430,,落日烧透半天的云，三山十八峰，漫漫蜀道，触手即是烟霞。这景色，不曾入画，也不曾入诗。,"The setting light blazing through the clouds midair. Three mounts and eighteen peaks. The endless paths of Shu. The tentacles that are haze. This scenery never before put into painting, nor into poetry.","Закат прожигал облака на половине неба. Три горы и восемнадцать пиков. Бесконечные тропы Шу — стоит протянуть руку, и ты касаешься дымки и сияния. Этот вид не вошёл ни в одну картину, ни в одно стихотворение."
+line-431,,我看见了什么？,What did I see?,Что я видела?
+line-432,,流觞诗会，瓷杯停在了一人又一人面前。漠上长亭，孤烟里，千百人击鼓远征。,"A poets' gathering at a stream, porcelain cups stopping before one person after another. A long pavilion upon the desert, and in the lone smoke, centuries of people beating the drums of expedition.","Праздник у ручья: фарфоровые чашки останавливаются то перед одним, то перед другим. Длинная беседка в пустыне, в одиноком дыму тысячи людей бьют в барабаны, уходя в поход."
+line-433,,既见纵情逍遥的我，也见求全求解、不求甚解的我。梦只是梦，我之为我，都快意。,"I saw both the me contented and unfettered, and the me who sought all solutions, not their details. Dreams are but dreams, for my sake I am, and I am pleased.","Я видела и себя разгульную, свободную, и себя, что ищет полноты и ответов, не ища мелочей. Сон есть сон. А я — я, и мне хорошо."
+line-434,,明明是在这攥江峰顶，无名空地，却仿佛看见了整个大炎。不，是整个太古以来，纵横四方，都如风掠过身侧。,"Though I am clearly at Zuanjiang Summit, vacant and nameless, it is like I can see the whole of Yan. Nay, the whole of far antiquity, the length and breadth in all directions, all as if the wind flitting past my side.","Я стою на безымянной площадке на вершине Цзуаньцзян, а кажется, что вижу весь Янь. Нет — всю древность, все стороны света, всё проносится рядом, как ветер."
+line-435,,见山却问石，临渊而忘水，原是如此。此地不如就叫“忘水坪”吧。,"To see mountains yet now question of stone, to near pools yet now forget of water; such is primality. Perhaps this place should be named the 'Field of Forgotten Water', then.","Увидела горы — и спросила про камень, подошла к бездне — и забыла про воду. Вот как оно бывает. Пусть это место зовётся «Площадка забытой воды»."
+line-436,,……,......,......
+line-437,,仿佛……还看见了年和夕。呵，既然梦中未见，想必梦外，很快也将再见的。,"It is as if... I have seen Nian and Dusk too. Heh. Though we have met not in dreams, I assume out of them we very soon will meet again.","Кажется... я видела ещё Ниан и Даск. Хе. Раз во сне мы не встретились, значит, наяву скоро увидимся."
+line-438,令,呼……日尽水长去……雪落月空留。,"Hah... The sun is through, and water runs yet long... while snowfall flows through vacant moonlit sky.","Фух... Солнце зашло, вода утекает всё дальше... Снег падает, а луна остаётся пустой."

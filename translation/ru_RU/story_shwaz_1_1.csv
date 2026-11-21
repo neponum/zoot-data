@@ -1,0 +1,264 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_shwaz_1_1,离乡之日
+,,,,
+char-1,广播,广播,Broadcast,Радио
+char-2,游客A,游客A,Tourist A,Турист А
+char-3,游客B,游客B,Tourist B,Турист Б
+char-4,黑,黑,Schwarz,Шварц
+char-5,保镖A,保镖A,Bodyguard A,Телохранитель А
+char-6,查理,查理,Charlie,Чарли
+char-7,赫尔曼,赫尔曼,Herman,Херман
+char-8,秘书,秘书,Secretary,Секретарь
+char-9,锡兰,锡兰,Ceylon,Цейлон
+,,,,
+line-10,广播,亲爱的旅客，亲爱的市民，请不必惊慌，前天联合LIVE上发生的地震是一次偶发情况。,"Attention, citizens and guests, do not be alarmed. The earthquake that occurred during the prior day's concert was an abnormal occurrence.","Дорогие гости, дорогие граждане, не паникуйте: землетрясение на совместном концерте позавчера было лишь случайностью."
+line-11,广播,经过天灾信使克洛宁先生的仔细勘测，目前已经确定不会再次发生。,A thorough analysis by Catastrophe Messenger Mr. Cronin has determined that such a thing will not happen again.,"Тщательное обследование курьера Катастрофы господина Кронина показало, что повторения не будет."
+line-12,广播,因此，经过慎重考虑，并且征求各大乐队的意见后，市政府决定，在三日后的晚上，重新举办联合LIVE。,"Therefore, after careful consideration and consultation with the performers, the city has decided to reconvene the concert three days from today.","Поэтому, после долгих раздумий и консультаций с группами исполнителей, городской совет решил через три дня вечером снова провести совместный концерт."
+line-13,广播,同时，市政府也会继续密切关注火山的情况，请各位安心游玩。,"At the same time, the city government will continue to closely monitor the situation surrounding the volcano. Please enjoy your visit.",В то же время городской совет продолжит внимательно следить за состоянием вулкана. Приятного вам отдыха.
+line-16,游客A,哎，前天晚上真是吓死我了。,"Whew, that was scary the other night.","Ох, позавчерашний вечер меня прямо напугал."
+line-18,游客B,真的有那么厉害吗？我当时在旅馆里睡觉，还以为楼上有个胖子在跳绳呢。,Was it really that bad? I was sleeping in the hotel and I just thought there was some fat guy playing jump rope upstairs.,"Правда было так страшно? Я спала в отеле и подумала, что это кто-то толстый прыгает со скакалкой этажом выше."
+line-20,游客A,……真不知道该说你运气好还是不好。,...I really don't know whether I should call that good luck or bad.,"...Право, не знаю, назвать это удачей или нет."
+line-22,游客B,不过，发生了这么大的事，感觉好像街上的人也没怎么少，我还以为整座城市一下就冷清了。,"But after something that big, I feel like there's still a lot of people out on the street. I'd think the whole town would've gone cold.","Но после такого события на улицах всё ещё полно народу. Я думала, город мгновенно вымрет."
+line-24,游客A,其实还是走了不少的，不过因为市政府处理得很快。,"A lot of folks did leave, but the city government cleaned things up pretty quickly, so not too many.","Уехало и правда немало, но городской совет быстро всё уладил."
+line-25,游客A,LIVE中止后，赫尔曼市长亲自出来说明情况，而且这两天也确实没有再发生过，大家也就安心了。,"After they stopped the concert, Mayor Herman came out to explain everything himself, and nothing else happened over the last couple days, so everyone's relaxed a lot.","Когда концерт прервали, мэр Херман лично вышел всё объяснить, а за последние дни ничего больше не случилось — вот все и успокоились."
+line-27,游客B,太好了，汐斯塔这么好的地方，我还想多玩几天呢。,"I'm glad. Siesta's so awesome, I want to stay at least a few more days.","Как хорошо! Сиеста — такое прекрасное место, я хотела бы остаться ещё на пару дней."
+line-31,黑,……,......,...
+line-33,保镖A,头儿，你找我？,"You wanted to see me, Chief?","Начальник, вы меня звали?"
+line-35,黑,查理，我已经不是头儿了，从明天开始，你就是治安局的局长了。,"I'm not the chief anymore, Charlie. Since the other day, you're Chief of the Public Security Bureau.","Чарли, я больше не начальник. Начиная с завтрашнего дня ты — глава Бюро общественной безопасности."
+line-37,查理,啊？头儿，你终于学会开玩笑了？,"Huh? You finally found a sense of humor, Chief?","А? Начальник, вы наконец научились шутить?"
+line-39,黑,我没在开玩笑。,I'm not joking.,Я не шучу.
+line-41,查理,那这么大的事儿你就在这和我说？,You're dropping something that big on me right here?,И ты сообщаешь мне такое здесь?
+line-43,黑,我在局里也只是留了一个位置，那里没什么东西，老爷会安排人帮我交接。,"I've got a seat at the bureau, but there's nothing there for me. The Master will have someone send for me.","В бюро за мной осталось только место. Там для меня ничего нет. Хозяин пришлёт человека, чтобы всё передать."
+line-44,黑,和你说足够了。,It's enough to tell you.,Тебе этого достаточно.
+line-46,查理,……头儿，别啊，你又不是没出过个把月的远门，怎么这次就忽然撂挑子了。,"Chief, don't. You've been away for a month at a time before. Why do you have to up and quit?","...Начальник, не надо. Вы же раньше уезжали на месяц, а теперь вдруг всё бросили."
+line-48,黑,这次不一样，这次我要陪小姐去个很远的地方，很长时间都不会回来了，我已经向老爷引荐了你。,"It's different this time. I have to take Lady Ceylon far, far away, and I will not return for a long time. I've already sent your referral to the Master.","На этот раз иначе. Мне нужно отвезти мисс Цейлон очень далеко, и я надолго не вернусь. Я уже рекомендовал вас Хозяину."
+line-50,查理,……局长这么大的位置，我当不起的啊。,But to make me the chief...? I'm not up to that challenge.,"...Такой высокой пост, как глава бюро, мне не потянуть."
+line-52,黑,局里这么多人，一半草包，一半不懂变通，只有你我还算信得过。,"Of all the people in the bureau, half are useless morons, and the other half don't know how to adapt. You're the only one I can trust.","В бюро полно народу: половина — бесполезные болваны, другая половина не умеет соображать. Только тебе одному я ещё доверяю."
+line-54,查理,那我也没有头儿你这么能打啊。,"But I'm not nearly as tough as you, Chief.","Но я же не такой драчун, как вы, начальник."
+line-56,黑,我教给你们的东西，对付普通佣兵团问题不是很大。,I've taught you enough to handle your typical gang of mercenaries.,"Тому, чему я вас учил, хватит против обычной шайки наёмников."
+line-57,黑,至于你们应付不了的……这么多年，和老爷扯上关系的人中，我只见过前阵子那位老先生。,"And for the stuff you can't handle... Over all those years with the Master, the only one that comes to mind is that one elderly gentleman.","А с тем, с чем вы не справитесь... За все годы при Хозяине я вспомнил только одного господина — того старика недавно."
+line-59,查理,啊，那个老头儿确实，强得离谱。,"Oh, yeah, that old guy was crazy tough.","А, старик и правда чертовски сильный."
+line-61,黑,但那是个例，所以你们不用太担心，真遇上问题再来找我。,"But he's an exception. You don't have to worry much. If anything happens, you come to me.",Но то исключение. Вам не стоит сильно беспокоиться. Если что-то случится — приходите ко мне.
+line-63,查理,唉，反正我也没有拒绝的权力，我尽力吧。,"Well, it's not like I can say no anyway. I'll do what I can.","Эх, у меня и выбора-то нет. Постараюсь, как смогу."
+line-65,黑,不是尽力，要是老爷受了伤，我拿你是问。,"You'll do more than that. If the Master comes to harm, I will come for you.",Не «постараюсь». Если Хозяин пострадает — я с тебя спрошу.
+line-67,查理,头儿，说真的，你是真的不会和人聊天。,"Chief, seriously, you really need to learn how to talk to people.","Начальник, честно: вы вообще не умеете разговаривать с людьми."
+line-69,黑,我不想和人聊天，干这行话不要太多，你话太多了。,"I'm not interested in talking to people. We don't have to talk in this business, and you talk too much.",Я и не хочу разговаривать. В нашем деле много слов не надо. А ты слишком много говоришь.
+line-71,查理,哦。,Oh.,О.
+line-73,黑,那我走了。,Goodbye.,Я пошёл.
+line-75,查理,啊？这就完了？,Huh? That's it?,А? И это всё?
+line-77,黑,完了。老爷还在电视塔接受采访，我刚打点好行李，准备去和老爷会合。,"That's it. The Master is still doing that interview in the TV tower. I've packed my bags, and I'm going to meet up with him shortly.",Всё. Хозяин всё ещё даёт интервью на телебашне. Я собрал вещи и иду к нему.
+line-79,查理,啊，那我和头儿你一起去吧。,"Oh, then I'll go with you, Chief.","А, тогда я с вами, начальник."
+line-81,黑,为什么？,Why?,Зачем?
+line-83,查理,毕竟头儿你不是要出远门了，您老走之前，我还想多听您两句教诲呢。,"Well, you're about to head off, aren't you? Before you go, I'd like to learn another thing or two for you.",Вы же уезжаете надолго. Перед уходом я хотел бы услышать от вас ещё пару наставлений.
+line-84,查理,而且作为您的接班人，我总也要见一见赫尔曼老爷。,"And since I'm your successor and all, I should probably go visit with Master Herman for a bit.",И как ваш преемник я должен хотя бы навестить Хозяина Хермана.
+line-86,黑,……,......,...
+line-96,查理,喂，头儿，等等我！,"Hey, wait up, Chief!","Эй, начальник, подождите меня!"
+line-104,广播,赫尔曼市长，我们听说您的秘书，我们亲爱的克洛宁先生在前天的火山勘测中受了重伤，这是真的吗？,"Mayor Herman, is it true that your personal secretary, our dear Mr. Cronin, was seriously injured while surveying the volcano the day before yesterday?","Мистер мэр, правда ли, что ваш секретарь, наш дорогой господин Кронин, тяжело пострадал при обследовании вулкана позавчера?"
+line-105,赫尔曼,是的，我很遗憾，他恐怕要在病床上度过很长一段时间。,"Yes. It's tragic, but he'll be in hospital for quite some time, I'm afraid.","Да. Очень жаль, но ему придётся долго лежать."
+line-106,广播,啊，为了汐斯塔的安危，克洛宁先生竟然做出了这么大的牺牲，我们感到十分叹惋。,Oh. We're all very moved by the great sacrifice Mr. Cronin has made to protect Siesta.,"О. Мы все глубоко тронуты жертвой, которую господин Кронин принёс ради безопасности Сиесты."
+line-107,赫尔曼,没错，我十分感谢他这些年对汐斯塔的付出，也请各位关心他的市民们不用担心，我们一定会用最好的技术去治疗他。,"Indeed. I am most grateful for his dedication to Siesta over the years, and I ask all concerned citizens not to worry. We are treating him with the very best, state-of-the-art technology.","Именно. Я глубоко признателен ему за всё, что он сделал для Сиесты за эти годы. И прошу всех не волноваться — мы лечим его по самой передовой технологии."
+line-108,广播,我们也相信克洛宁先生一定会回来的。,We're sure Mr. Cronin will come back to us.,"Мы уверены, господин Кронин вернётся к нам."
+line-109,广播,那么，接下来是广告时间，广告后，我们将继续采访赫尔曼市长有关建设中的新城区的一些问题。,"Now then, it's time for a commercial break. Up next, we'll have some questions for Mayor Herman about the new city under construction.",А теперь — рекламная пауза. После неё мы зададим мэру Херману несколько вопросов о строящемся новом городе.
+line-111,游客A,克洛宁是谁？,Who's Cronin?,Кто такой Кронин?
+line-113,游客B,就是那个，前阵子经常上电视的那个天灾信使。,He's that one Catastrophe Messenger who was always on TV.,"Тот самый курьер Катастрофы, что всё время мелькал по телевизору."
+line-115,游客A,噢，那个虽然长得挺帅但是给人感觉很装的家伙啊。,Oh yeah. That good-looking guy who comes off kinda pretentious.,"А, тот симпатичный, но с выпендрёжем парень."
+line-117,游客B,对对，啧啧，我还说他多半不是什么好东西，没想到为了汐斯塔付出这么多，是我看走眼了啊。,"That's the one. I never thought that much of him, but who would've expected him to give that much for Siesta. I had him all wrong.","Точно. Я всё думал, что он человек недостойный, а он ради Сиесты так пострадал — я его совсем неверно понял."
+line-119,黑,……,......,...
+line-121,查理,啧啧，明明是我们把克洛宁关起来了，结果对外还要这么宣传他，感觉还挺不爽的。,"I mean, I know we locked Cronin up, but it feels kinda bad how we keep talking him up to the public.","Ццц, мы же сами его заперли, а теперь ещё и расхваливаем на весь город — как-то нехорошо."
+line-123,黑,不能让群众恐慌。,We don't want the people to panic.,Нельзя допустить паники среди жителей.
+line-125,查理,是啊，但是头儿你也不爽的吧，虽然我不知道具体发生了什么，不过听说他可把小姐和你搞得很惨。,"Right, but you don't like it either, do you, Chief? I don't know exactly how it went down, but I heard he did you and the Lady dirty.","Да, но и вы тоже недовольны, начальник. Я не знаю всех подробностей, но слышал, что он доставил мисс и вам немало хлопот."
+line-127,黑,……少听些谣言。,You should know better than to believe rumors.,...Поменьше слушай сплетен.
+line-129,查理,行行，换个话题，头儿，你这次要去哪儿啊？,"Sure, let's talk about something else. Where exactly are you going?","Ладно, сменим тему. Куда вы едете, начальник?"
+line-131,黑,我要陪小姐去那家叫罗德岛的公司工作。,I'm taking Lady Ceylon to work for Rhodes Island.,Я отвезу мисс Цейлон работать в компанию под названием Родос.
+line-133,查理,啊，就是这次真正的英雄啊，听说小姐和他们挺合得来的，原来已经定好了。,"Oh, those real, live heroes. I heard the Lady was getting along well with them. Turns out she's already signed up.","А, вот кто настоящие герои! Я слышал, мисс с ними ладит. Выходит, уже всё решили."
+line-134,查理,那我就明白了，小姐要出门工作的话，头儿你没有不跟去的道理。,"Alright, I get it. The Lady's heading out to work, of course you have to go with her.","Я понял. Если мисс выходит на работу, вам, начальник, естественно, нечего делать, кроме как ехать с ней."
+line-135,查理,那家公司说是制药公司，我看私下也是做佣兵的，头儿你去了肯定也有事做。,"It's a pharmaceutical company, and I guess also secretly a mercenary outfit? I guess they'll have something for you to do.","Компания называет себя фармацевтической, но, по-моему, еще и наёмники. Раз вы там будете, работа для вас найдётся."
+line-137,黑,或许吧。,Maybe.,"Может, и так."
+line-139,查理,唉，真是一眨眼的功夫，小姐居然也要出门工作了。,"Can't believe it, I turn my head and the Lady's already out getting a job.","Ох, и не заметила, как оглянуться, а мисс уже тоже выходит на работу."
+line-141,黑,别说的你好像和小姐很熟一样。,Don't talk like you know her.,"Не говори так, будто ты близко знаешь мисс."
+line-143,查理,哎，我好歹也在汐斯塔待了五年，当年送小姐去维多利亚上学的队列里也有我的好吧。,"Hey, I've been in Siesta for five years. I was with the team that took the Lady to school in Victoria.","Да я пять лет в Сиесте. В тот раз, когда мисс ездила учиться в Викторию, я был в провожающих."
+line-145,黑,呵。,Hmph.,Хм.
+line-147,查理,不过，感觉小姐这么多年一点都没变。,But I really don't think she's changed all that much in the years since.,"Но, по-моему, мисс за все эти годы совсем не изменилась."
+line-149,黑,确实。,True enough.,И верно.
+line-151,查理,头儿你也是。,"And neither have you, Chief.","И вы тоже, начальник."
+line-153,黑,是吗？,Really?,Правда?
+line-155,查理,是啊，对我们这些手下来说，从认识您老开始，就感觉您是现在这样了。,"Really. For as long as we've been working for you, all of us feel like you're pretty much the same as you ever were.","Да. Мы, ваши подчинённые, с тех пор, как вас знаем, всё видели вас таким же."
+line-157,黑,哪样？,In what way?,Каким?
+line-159,查理,就——怎么说呢。,"Well... hmm, how should I put it?",Ну... как сказать.
+line-160,查理,就是您现在这样啊，心思都放在老爷和小姐上，自己的事却基本不怎么关心。,"The way you're so focused on the Master and Lady Ceylon, without any regard for yourself.","Вот просто таким: всё думаете о Хозяине и мисс Цейлон, а о себе почти никогда."
+line-161,查理,干我们这行虽然确实金主最重要，但头儿你明显不是因为钱，而且你也比我们上心太多了。,"Our line of work is obviously all about the paymaster, yeah, but you're clearly not in this for the money. You've got a lot more heart in this game than any of us.",В нашем деле и правда важнее всего плательщик. Но вы явно не ради денег. И к делу вы относитесь куда серьёзнее нас.
+line-163,黑,我平时会去海边坐坐，城里的音乐节我也会去逛逛，这样不行？,"I go to the seaside and sit on the beach, I wander around the music festivals, is that not enough self care?","Я хожу на берег посидеть, бываю на городских музыкальных фестивалях. Разве этого мало?"
+line-165,查理,倒不是说行不行的问题，人爱怎么活怎么活，我只是这些年看着头儿你感觉原来真的有人能过这样的生活。,"It's your life, at the end of the day. Live it how you want. It's just, I've been watching you all these years and I can't believe someone could actually live like that.","Я не о том, можно ли так жить. Живи как хочешь. Просто я все эти годы смотрел на вас и поражался: неужели можно и так жить."
+line-167,黑,这样的生活是怎么样的生活？,Live like what?,Как — жить так?
+line-169,查理,先说好，我说了您别揍我。,Promise me you won't kick my ass first.,"Да ладно, я скажу — только не бейте."
+line-171,黑,我没那么无聊。,As if I'm so petty.,Мне не до таких мелочей.
+line-173,查理,兄弟们拿着这份钱，老爷对我们也挺好，虽然说不上死心塌地，这些年下来情分肯定是有的。,"We get paid, and the Master's good enough to us. I wouldn't call it love from the bottom of his heart, but the affection's been there these past few years.","Ребята получают свои деньги, Хозяин к нам относится хорошо. Не скажу, что я готов за него душу положить, но за эти годы привязанность появилась."
+line-174,查理,而且我和我老婆结婚的时候，老爷亲自出席演讲了几句，让我家现在在邻居间都特别有面子，我老婆更是天天让我好好给老爷做事。,"When me and the wife got married, the Master even showed up to say a few words. That made us big shots in the neighborhood, and the misses reminds me every day to work hard for the Master.","Когда я женился, Хозяин лично пришёл и сказал пару слов. Это сделало нас важными людьми в районе, а жена каждый день напоминает мне стараться ради Хозяина."
+line-175,查理,私心上我也是感谢老爷的，所以头儿你把这担子丢给我，我咬咬牙也能接过来。,"And me, I appreciate him too. So if you're gonna dump this on me, I'll grit my teeth and bear it.","Я и сам ему благодарен. Так что если вы свалите на меня эту ношу, я стисну зубы и вынесу."
+line-176,查理,但是我不敢说我会为了老爷付出一切，头儿。,"But I can't say I'll give everything to the Master, Chief.","Но я не могу сказать, что готов отдать Хозяину всё, начальник."
+line-177,查理,要是有一天有人用家人逼我，我没法保证我会向着老爷。,"If maybe someday somebody threatened my family, I can't promise I'd side with him.","Если однажды кто-то возьмёт мою семью в заложники, я не смогу обещать, что встану на его сторону."
+line-179,黑,我没要求你到这个地步。,I'm not asking that much of you.,Я не требую от тебя такого.
+line-181,查理,我知道，打个比方嘛。但是说真的，头儿，这件事只有头儿你能做到，因为你明明和老爷小姐非亲非故，却只有他们作为牵挂。,"I know, it's just an example. But honestly, Chief, that's only something you could ever do, because you don't have anyone else. All you've got to worry about in the world is Lady Ceylon and the Master.","Знаю, это просто пример. Но честно, начальник, это под силу только вам: вам некого жалеть, кроме мисс Цейлон и Хозяина."
+line-183,黑,……老爷和小姐就是我的家人。,...They're my family.,...Хозяин и мисс — моя семья.
+line-185,查理,不是，头儿，你没明白我的意思。,"No, they're not. You're not getting it.","Нет, начальник, вы не поняли."
+line-186,查理,我是说，不说老爷，如果把我老婆的命和我的命摆在一起让我选，我都会犹豫。,"What I mean is, setting aside the Master altogether, if it's my life and my wife's life on the line, I'd hesitate.","Я о том, что если поставить на чашу весов жизнь Хозяина и мою, не говоря уже о жизни моей жены, — я бы заколебался."
+line-187,查理,但是头儿你不会。,But you wouldn't.,А вы бы не заколебались.
+line-189,黑,我不会？,I wouldn't?,Я бы не заколебался?
+line-191,查理,你不会。,You wouldn't.,Не заколебались бы.
+line-193,黑,……,......,...
+line-195,黑,我恐怕确实不会。,I'm afraid I wouldn't.,"Боюсь, вы и правда не заколебались бы."
+line-197,查理,对吧。对头儿你来说，只有帮老爷或者小姐做事，或者在等待帮他们做事的路上。,"Right. As far as you're concerned, the only thing that matters is taking care of the Master and the Lady, it's the only thought in your mind.","Вот. Для вас важнее всего делать дела для Хозяина или мисс — и когда вы ждёте, когда сможете для них что-то сделать."
+line-199,黑,……这不关你事。,What goes on in my mind is none of your business.,...Это тебя не касается.
+line-201,查理,哈，没错。是不关我事，我可没资格说对错，就随便聊聊，您就说我感觉的对不对吧。,"Sure enough it isn't, and I'm in no position to say if that's right or wrong. I'm just talking here. You can tell me if my guess hit the mark or not.","Да, не касается. Я и не могу судить — хорошо это или плохо. Просто болтаю. Скажите, угадал я или нет?"
+line-203,黑,或许吧。,Maybe.,"Может, и угадал."
+line-210,秘书,市长，我们接下来的行程要去豪斯先生的晚宴……,"Mr. Mayor, you have Mr. House's banquet next...","Мистер мэр, у нас дальше по плану ужин у господина Хауса..."
+line-212,赫尔曼,推掉。刚才艾娃女士的邀请你忘了吗？分清优先级。,Bump it. Did you forget Ms. Eva's invitation? Prioritize.,Отмени. Разве ты забыл приглашение мисс Евы? Расставь приоритеты.
+line-214,秘书,啊，是，是的。,"Ah, o-of course.","А, да, конечно."
+line-217,赫尔曼,嗯？,Hm?,Мм?
+line-218,赫尔曼,黑，你来了。,"Schwarz, welcome.","Шварц, ты пришла."
+line-220,黑,老爷。,Master.,Хозяин.
+line-222,查理,老爷。,Master.,Хозяин.
+line-224,赫尔曼,查理，黑跟我说过了，好好干。,"Charlie, Schwarz has told me what good work you do.","Чарли, Шварц мне о тебе говорила. Старайся."
+line-226,查理,是。,Oh?,О?
+line-228,赫尔曼,对了，把我的行程往后推三十分钟。,"By the way, please push my schedule thirty minutes.","Кстати, отодвинь мой график на тридцать минут."
+line-230,秘书,请问，是有什么事吗？,"What for, may I ask?","Позвольте спросить, что случилось?"
+line-232,赫尔曼,我要和我的前治安局局长聊聊。,I have to speak to the Chief Emeritus of my Public Security Bureau.,Мне нужно поговорить с бывшим начальником моего Бюро общественной безопасности.
+line-234,秘书,这、这位就是吗，我、我明白了。,"Th-This is... oh, I-I see.","Это... это он? А-а, понял."
+line-236,赫尔曼,黑，过来。,"Schwarz, come.","Шварц, подойди."
+line-238,黑,是。,Oh?,Да.
+line-240,赫尔曼,查理，既然你来了，你先跟我的秘书回去做些交接吧，这点事他还是办得好的。,"Charlie, since you're here, let's have you go work out some of the formalities with my secretary. He's good with these sorts of things.","Чарли, раз ты здесь, сходи пока с моим секретарём оформить кое-какие формальности. Он с этим справится."
+line-242,查理,好的。,Alright.,Хорошо.
+line-244,黑,查理。,Charlie.,Чарли.
+line-246,查理,怎么了，头儿？,"What is it, Chief?","Что, начальник?"
+line-248,黑,汐斯塔就交给你了。,Siesta's in your hands now.,Сиеста теперь в твоих руках.
+line-250,查理,……好。,...Right.,...Хорошо.
+line-259,赫尔曼,克洛宁这小子虽然有反骨，不过还是派得上用场，这个顶替他的小子还是差了不少。,"Cronin had his rebellious streak, but he came in handy. This replacement is worse by a country mile.","Кронин хоть и с норовом, а польза от него была. Этот новый совсем не тот."
+line-260,赫尔曼,好的人才真是难找啊，黑。,"Good help is hard to find, Schwarz.","Хороших людей найти поистине трудно, Шварц."
+line-262,黑,培养一下，总归能用上。,"With some training, he'll prove useful.","Если его поучить, ещё пригодится."
+line-264,赫尔曼,或许吧。,Maybe.,"Может, и так."
+line-265,赫尔曼,黑，你来杀我的那年是几岁，你还记得吗？,How old were you when you came to kill me? Do you still remember?,"Шварц, ты помнишь, сколько тебе было лет, когда ты пришла меня убить?"
+line-267,黑,十二岁，老爷。,"Twelve-years-old, Master.","Двенадцать, Хозяин."
+line-269,赫尔曼,啊，对，十二岁。,"Yes, right, twelve.","Да, двенадцать."
+line-270,赫尔曼,十二岁的杀手，哈哈。如果不是你自己放弃了，我恐怕真的被你得手了。,"A twelve-year-old assassin. Hah! If you didn't give up on your own, I'm afraid you really might've gotten me.","Двенадцатилетняя убийца. Ха! Если бы ты не сдалась сама, боюсь, ты бы меня достала."
+line-272,黑,老爷，我向您介绍过，儿童杀手是一种不怎么少见的手段。,"As I've told you, the child assassin is not an uncommon tool.","Хозяин, я вам говорила: детский убийца — средство нередкое."
+line-273,黑,它可以有效降低目标的警戒心。,It's very effective at lowering the target's guard.,Оно очень хорошо снижает бдительность цели.
+line-275,赫尔曼,我知道，我知道，多亏了你，现在我一眼就看得出谁是杀手。,"I know all that. Thanks to you, I can spot a killer at a glance.","Знаю, знаю. Благодаря тебе я теперь с одного взгляда вижу убийцу."
+line-276,赫尔曼,比如那边那个穿沙滩服的家伙，他在东张西望，还戴着墨镜，一看就是杀手。,"Take that fellow over there in the swimsuit. The way he's looking every which way, wearing those sunglasses, he's a killer.","Вон, например, тот парень в купальном костюме. Смотрит по сторонам, в очках — сразу видно убийца."
+line-280,黑,他没有接受过锻炼，而且他应该只是在看周围的女性。,He's untrained. And I think he's just scouting the women.,"Он не обучен. И, по-моему, он просто высматривает женщин."
+line-286,赫尔曼,是这样吗？,Oh?,Так ли?
+line-288,黑,我敢肯定。,I would say so.,Уверена.
+line-290,赫尔曼,那看来我的眼光还有待锻炼。,Looks like my kill-dar could use some calibration.,Тогда моё чутьё на убийц требует настройки.
+line-292,黑,这种事，有我在就好。,You have me for that.,В этом я тебе помогу.
+line-294,赫尔曼,你这不是要走了吗？,But aren't you leaving?,Но ты же уходишь.
+line-296,黑,……老爷是不希望我走吗？,...Do you not want me to?,"...Хозяин не хочет, чтобы я уходила?"
+line-298,赫尔曼,不，恰恰相反。,Quite the opposite.,"Нет, как раз наоборот."
+line-299,赫尔曼,黑啊，这些年，一直有一个问题困扰着我。,"Schwarz, there's a question that's been troubling me for years now.","Шварц, уже много лет меня не даёт покоя один вопрос."
+line-301,黑,是什么？,What is it?,Что?
+line-303,赫尔曼,是你的未来。,Your future.,Твоё будущее.
+line-305,黑,……我应该没有什么需要您操心的事情。,I don't think you need to worry about me at all.,"...Мне кажется, о мне вам не стоит беспокоиться."
+line-307,赫尔曼,正因为如此，黑，正因为如此。,That's exactly why I'm worried.,"Именно поэтому я и беспокоюсь, Шварц. Именно поэтому."
+line-308,赫尔曼,我经常会觉得，你就像是我的第三只手臂一样得心应手，想要的时候会出现，不需要的时候也不用操心。,"I often think of you as an extension of myself, like a third arm. There when I need, and no trouble at all when I don't.","Я часто думаю, что ты как моя третья рука: появляешься, когда нужна, и не доставляешь хлопот, когда не нужна."
+line-310,黑,……刚才，查理也说了类似的事情。,Charlie said something similar not too long ago.,...Недавно Чарли говорил что-то похожее.
+line-312,黑,这是我选择的，老爷，我认为这没有什么不好的。,"It's my choice, Master. And I think there's nothing wrong with it.","Это мой выбор, Хозяин. И я не вижу в нём ничего плохого."
+line-313,黑,是您给了我现在的生活，即使您赶我走，我也不会走的。,"You gave me this life, and even if you sent me away, I wouldn't leave.","Вы дали мне эту жизнь, и даже если вы меня прогоните, я не уйду."
+line-315,赫尔曼,唉，你这个丫头在这点上倒是固执得很。,"*Sigh*, what a stubborn girl you are.","Ох, упрямая ты девчонка в этом вопросе."
+line-316,赫尔曼,不过，我看着你长大，别人不了解你，我倒是明白你是真心觉得这样就好。,"I watched you grow. The others may not understand you, but I know you truly do believe there's nothing wrong with that life.","Но я вырастил тебя, другие тебя не понимают, а я знаю, что ты и правда так считаешь."
+line-317,赫尔曼,唉。,*Sigh*.,Ох.
+line-318,赫尔曼,我一直把你当另一个亲女儿看待，黑。,"I always thought of you as another daughter, Schwarz.","Я всегда считал тебя другой родной дочерью, Шварц."
+line-320,黑,……是。,Yes.,...Да.
+line-322,赫尔曼,我在和那些大人物们聊天时，他们经常会抱怨，说想为了孩子好，结果孩子却总是不想走上自己为他们设计的道路。,"When I talk to the movers and shakers of society, they always complain that even after all hope for their children, they're always disappointed when they don't follow the paths they've designed for them.","Когда я говорю с важными людьми, они часто жалуются: хочешь добра детям, а они всё равно не идут по намеченному тобой пути."
+line-323,赫尔曼,这种时候，我总是想，我倒好，一个女儿虽然关系不好但是算得上他们口中的大家闺秀，一个女儿完全不需要操心。,"And at times like this, I always think to myself: 'I'm so lucky. I have a daughter who, despite our strained relationship, is in all ways the spitting image of a wealthy young girl they speak of, and a daughter who I need not worry about in the slightest.'","И я всегда думаю: как же мне повезло. Одна дочь, хоть отношения и натянутые, во всём походит на ту светскую барышню, о которой они говорят, а вторая — и о ней можно не беспокоиться."
+line-324,赫尔曼,我完全没有这种烦恼。,I have no such worries.,У меня нет таких забот.
+line-326,黑,这样您可以安心地建设汐斯塔。,And so you could comfortably turn your energies to the development of Siesta.,И поэтому вы спокойно строили Сиесту.
+line-328,赫尔曼,是啊，我以前也是这么想的。,Indeed. That's how I once thought.,Да. Раньше я и сам так думал.
+line-329,赫尔曼,但我稍微有点累了，黑。,"But I've grown tired, Schwarz.","Но я немного устал, Шварц."
+line-330,赫尔曼,新城区快要完成了，市民们办好手续就可以迁移过去。,"The new city is nearly complete, and the people will be able to move in as soon as the formalities are settled.","Новый город почти готов, жители смогут переехать, как только оформят документы."
+line-331,赫尔曼,我对那个罗德岛的博士说，名义上的汐斯塔将会继续在这片大地上存在下去。,I told that Rhodes Island Doctor that Siesta would not perish from the face of this world.,"Я сказал тому доктору с Родоса, что Сиеста по имени будет и дальше существовать на этой земле."
+line-332,赫尔曼,但我没告诉那位博士，我心里的汐斯塔没了。,But what I didn't tell the Doctor is that the Siesta in my heart is already long gone.,"Но я не сказал ему, что Сиесты в моём сердце больше нет."
+line-333,赫尔曼,我和芭芭拉约定的汐斯塔，我为她建造的汐斯塔终究要被我抛弃了。,"The Siesta I promised to Barbara, the Siesta I built for her... I'm abandoning it, in the end.","Сиеста, которую я обещал Барбаре, Сиеста, которую я для неё строил, — в конце концов я её бросаю."
+line-335,黑,这也是……没有办法的事。,There's... nothing you could have done.,И это... ничего нельзя поделать.
+line-337,赫尔曼,不，他应该是有办法的，他怎么能没办法？,"No, that one would have had a way. That's a person who always has a way.","Нет, он бы нашёл выход. Как он может не найти? Это человек, у которого всегда находится выход."
+line-338,赫尔曼,芭芭拉去世后，我将建设这座城市作为目标，为了这个目标，我什么事都做了。,"After Barbara passed, I made the construction of this city my one goal. I did everything to achieve it.",После смерти Барбары я сделал строительство этого города своей единственной целью. Ради неё я делал всё.
+line-339,赫尔曼,现在却因为这样一个简单的理由要抛弃它。,"And now, for such a simple reason, I give it up.",А сейчас из-за такой простой причины бросаю.
+line-340,赫尔曼,我是不能接受的，黑。,"I can't accept it, Schwarz.","Я не могу этого принять, Шварц."
+line-342,黑,老爷……,Master...,Хозяин...
+line-344,赫尔曼,我这几天甚至有一个念头。,"You know, there's been a thought plaguing my mind.",У меня в последние дни была одна мысль.
+line-345,赫尔曼,既然我不能解决它，那么至少让它解决我，否则我这辈子恐怕都不能安生。,"The idea that if I can't do anything for this city, if I can only abandon it to its fate, then I should go down with it. That I wouldn't be able to live on anyway.","Раз я не могу помочь ей, то пусть она поможет мне, иначе я, видно, всю жизнь не найду покоя."
+line-346,赫尔曼,等到完成新城区的迁移，我就一个人搬张椅子坐在这里，坐在这片我和芭芭拉许下约定的海边，面向我将她埋葬的这片海。,"So when the migration to the new city is complete, I will bring a chair out here, by myself, and sit on this beach, where I made my promise to Barbara. I'll face this sea, where I buried her.","Когда переселение в новый город завершится, я вынесу сюда стул и один сяду на этом пляже, где я клялся Барбаре, лицом к тому морю, где я её похоронил."
+line-347,赫尔曼,然后，自我了断。,And that will be my end.,И покончу с собой.
+line-349,黑,不行，老爷，我会阻止你的。,"No, Master. I won't let you.","Нет, Хозяин, я вам не позволю."
+line-351,赫尔曼,哈哈哈，放心，我既然会说出来，那说明我就不会这么去做了。,"Haha, rest assured, if I'm telling you about it, it means I'm not actually going to do it.","Ха-ха-ха, не волнуйся. Раз я тебе сказал — значит, не сделаю."
+line-353,黑,……为了小姐，您也不能这么做。,You can't... for the Lady's sake.,...Из-за мисс вы не имеете права.
+line-355,赫尔曼,这你就错了。,That's where you're wrong.,Тут ты не права.
+line-356,赫尔曼,如果说我还有一个不能死的理由，那应该是你，黑。,"If there's another reason I can't die, it's you, Schwarz.","Если у меня и есть причина не умирать, то это ты, Шварц."
+line-358,黑,小姐并没有那么讨厌您。,The Lady doesn't hate you so much.,Мисс не так вас ненавидит.
+line-360,赫尔曼,算了，现在这样就好。,It doesn't matter. All is well at this point.,Пусть. Сейчас всё хорошо.
+line-361,赫尔曼,而且，我不太担心锡兰这丫头的未来，我这个女儿运气很好，她这一生都不会过得很差，她想要什么，我给她什么就是了。,"What's more, I don't worry much about the future of my girl Ceylon. I got lucky with that daughter. She'll have a good enough life. I give her what she wants, and that's enough.",К тому же я не сильно беспокоюсь о будущем Цейлон. Моя дочка удачлива — жизнь у неё будет неплохая. Захочет чего — я дам.
+line-362,赫尔曼,但你，我太担心了。,"But you, I worry about you.",А вот за тебя я очень беспокоюсь.
+line-363,赫尔曼,父母总是希望孩子能够过得更好，黑。,Parents always want the best for their children.,"Родители всегда хотят детям лучшего, Шварц."
+line-364,赫尔曼,只有最腐朽的老头子会将子女拴在身边，希望他们能够永远处在自己的掌控下。,"Only the most rotten old man would keep his children chained to his side, keeping them forever under his control.","Только самый прогнивший старик держит детей возле себя, желая, чтобы они всегда были под его контролем."
+line-365,赫尔曼,而我，我宁愿我死的时候你们正在忙于自己的事业，根本没有空来看我。,"But me, I'd rather die while you're off living your own life with no time to visit me at all.","А я предпочёл бы умереть, когда вы оба заняты своими делами и вам некогда меня навестить."
+line-367,黑,我的事业……,My own life...,Моё дело...
+line-369,赫尔曼,你的事业不能是锡兰的事业。,And your life can't be Ceylon's life.,Твоё дело не может быть делом Цейлон.
+line-370,赫尔曼,这片大地上没有这种道理，黑。,"That's not the way of the world, Schwarz.","На этой земле такого не водится, Шварц."
+line-371,赫尔曼,一个人可以有奋斗的目标，但这个目标不能是另一个人。我作为一个父亲，不希望我的女儿变成这样的人。,"One can have a goal to strive for, but that goal can't be another person. I, as a father, don't want my daughter to suffer through that.","У человека может быть цель, но этой целью не может быть другой человек. Я как отец не хочу, чтобы моя дочь прошла через это."
+line-372,赫尔曼,你知道我为什么让你跟着锡兰去那家叫罗德岛的公司吗？,Do you know why I had you go with Ceylon to that Rhodes Island company?,"Знаешь, почему я отправил тебя вместе с Цейлон в эту компанию — Родос?"
+line-374,黑,不是为了保护小姐吗？,Not to protect her?,"Не для того, чтобы защитить мисс?"
+line-376,赫尔曼,有这个原因，但是那家公司的人身手你也看到了。,"That was one reason, yes. But you've seen how capable they are.","Была и такая причина. Но ты видела, какие они."
+line-377,赫尔曼,我和他们的领袖聊过，他们不会让锡兰做些很危险的事。你要做的事与其说是保护锡兰，不如说帮我盯着他们有没有对锡兰不好就够了。,"I spoke with their leader, and they won't have Ceylon doing anything that dangerous. More than sending you to look after her, I'm counting you to keep an eye on them, to make sure they don't do her wrong.","Я поговорил с их руководителем — они не дадут Цейлон делать ничего опасного. Можно сказать, ты не столько защищаешь Цейлон, сколько присматриваешь за ними, чтобы они не обидели её."
+line-378,赫尔曼,我让你去的原因，更重要的是，我要行使我作为父母的权力了。,"The reason I'm sending you, and more importantly, the reason I'm exercising my authority as a parent...",И ещё важнее: я просто пользуюсь правом родителя.
+line-380,黑,我不明白。,I don't understand.,Я не понимаю.
+line-382,赫尔曼,我要为你设计一条你不喜欢的道路。,I am laying a path for you that you will not like.,"Я прокладываю тебе дорогу, которую ты не выберешь."
+line-383,赫尔曼,所以我要你去罗德岛。,That is why I am sending you to Rhodes Island.,Поэтому я и отправляю тебя на Родос.
+line-384,赫尔曼,他们或许会欢迎我的女儿加入，但你不同，黑。,"They may welcome my daughter into their fold, but you are different, Schwarz.","Они рады принять мою дочь, но ты — другое дело, Шварц."
+line-385,赫尔曼,你知道为什么吗？,Do you know why?,Знаешь почему?
+line-387,黑,……因为我是跟着小姐去的？,Because I am accompanying the Lady?,...Потому что я пришла вместе с мисс?
+line-389,赫尔曼,没错，无论什么公司，需要的总是服从命令的人。而你，过去却不是为他们服务的。,"Correct. No matter the company in question, they will always want someone willing to follow orders. But you? You have never served them.","Верно. Любой компании нужны люди, готовые слушаться. А ты им никогда не служила."
+line-390,赫尔曼,你一定会首先为了锡兰那丫头做事，然后才会服从他们。,"You will, of course, serve Ceylon first and foremost, obeying them only secondarily.","Ты будешь сначала делать для Цейлон, а потом уже слушаться их."
+line-391,赫尔曼,这就会产生矛盾。,This will be a source of some conflict.,И это вызовет конфликт.
+line-392,赫尔曼,以你的性格，你肯定会宁可反抗他们，也要继续跟着锡兰。,"And knowing you, you'd rather resist them and continue to follow Ceylon.","С твоим характером ты скорее воспротивишься им, но останешься с Цейлон."
+line-393,赫尔曼,但是不行，我要你去解决这种矛盾。,But that is not an option. I need you to solve this conflict.,"Но нет — я хочу, чтобы ты этот конфликт разрешила."
+line-394,赫尔曼,你不是陪着锡兰那丫头出去工作的保镖。,You are not a bodyguard accompanying Ceylon on her work.,"Ты не телохранитель, который сопутствует Цейлон на работе."
+line-395,赫尔曼,你已经被我解雇了。,I've fired you.,Я тебя уволил.
+line-396,赫尔曼,你是以我另一个女儿的身份去寻找一份新的工作。,"You are now my daughter, looking for a new job.","Ты сейчас моя вторая дочь, которая ищет себе новую работу."
+line-397,赫尔曼,我要你要去寻找你自己的事业，这个事业可以和锡兰或者我有关，但不能是锡兰，也不能是我。,"I want you to go find your own life's work. Ceylon and myself can be involved, but your life's work can't BE Ceylon or myself.","Я хочу, чтобы ты нашла своё дело. Оно может быть связано с Цейлон или со мной, но им не должны быть Цейлон или я."
+line-399,黑,我……,I...,Я...
+line-401,赫尔曼,对锡兰来说，她一直在维多利亚生活，从这次的事情来看，她已经学会了自立。,"As for Ceylon, she's been living in Victoria, and judging from this past incident, she's learned to stand on her own two feet.","Цейлон всю жизнь прожила в Виктории, и, судя по этому случаю, научилась стоять на своих ногах."
+line-402,赫尔曼,但你还没有，黑。,"But you haven't, Schwarz.","А ты нет, Шварц."
+line-403,赫尔曼,在这一点上，你可不如她。,"On this point, you're quite different from her.",В этом ты от неё отличаешься.
+line-404,赫尔曼,你还没有真正离开过这个家去做一件属于你的事。,You haven't really ever really left home to do your own thing.,"Ты ещё ни разу не уходила из этого дома, чтобы сделать что-то своё."
+line-406,黑,我有……去复仇……,I did... to get revenge...,Я... ходила... мстить...
+line-408,赫尔曼,那是你的过去，而不是你的未来。,That's your past. I'm talking about your future.,"Это твоё прошлое, а я о будущем."
+line-409,赫尔曼,所以这一次，才是你真正踏出家门的时候。,"So this time, you will truly leave home.",И вот сейчас ты впервые по-настоящему выходишь из дома.
+line-410,赫尔曼,明白了吗？,Do you understand?,Поняла?
+line-412,黑,那……我还能回来吗？,But... can I come back?,А... я ещё смогу вернуться?
+line-414,赫尔曼,……,......,...
+line-423,黑,老爷，我杀死那些仇人后，还能回来吗？,"Master, after I've killed those enemies, can I come back?","Хозяин, после того как я убью этих врагов, я смогу вернуться?"
+line-425,赫尔曼,……,......,...
+line-426,赫尔曼,当然可以。,Of course you can.,Конечно.
+line-436,赫尔曼,哈哈哈哈哈！过来，黑。,"Hahaha! Come here, Schwarz!","Ха-ха-ха-ха! Иди сюда, Шварц!"
+line-440,,黑缓缓走近赫尔曼，而赫尔曼将手放在她的头上重重地揉了几下。,"Schwarz slowly approaches Herman, who places his hand on her head and rubs it intensely.","Шварц медленно подошла к Херману, и он положил ей руку на голову и сильно помял её."
+line-445,赫尔曼,虽然我也没有冷血到不让自己的女儿进家门……,While I could never be so cold-blooded as to refuse my own daughter entry into my home...,"Хотя я и не настолько бессердечен, чтобы не пустить родную дочь домой..."
+line-446,赫尔曼,你要是不认真去做这件事，我可能某天就会在这片沙滩上自我了断了。,"If you don't take this seriously, I just might kill myself on this beach someday.","Если ты не отнесёшься к этому серьёзно, я вдруг и вправду покончу с собой на этом пляже."
+line-448,黑,您不要用这种话来威胁我……,You can't threaten me like that...,Вы не должны мне так угрожать...
+line-450,赫尔曼,但这确实是我唯一称得上是心事的事了。,But this truly is the one worry I still have weighing on my heart.,"Но это действительно единственное, что у меня осталось на сердце."
+line-452,黑,……我尽力。,I'll do what I can.,...Я постараюсь.
+line-454,赫尔曼,不是尽力，要是你找不到，回来不准你进家门。,"You'll do more than that. If you fail, you won't be allowed back home.",Не «постараюсь». Если не найдёшь — домой тебя не пущу.
+line-456,黑,……好。,...Right.,...Хорошо.
+line-458,赫尔曼,这就对了。,Alright is right.,Вот и ладно.
+line-464,黑,稍等。,Just a moment.,Одну минуту.
+line-469,锡兰,喂，黑，你在哪儿啊。,"Hello, Schwarz, where are you?","Алло, Шварц, где ты?"
+line-471,黑,我正在老爷身边。,With the Master.,Я у Хозяина.
+line-473,锡兰,你要是没事的话，快来帮我搬东西！,"If you're not too busy, could you help me move some things?","Если тебе нечем заняться, иди помоги мне вещи перетащить!"
+line-474,锡兰,行李好多！,I have too much luggage!,Багажа слишком много!
+line-476,黑,好的，我稍后就到。,"Alright, I'll be there soon.","Хорошо, я сейчас подойду."
+line-482,赫尔曼,好了，去陪锡兰那丫头吧。,Right. You go to Ceylon then.,"Ладно, иди к Цейлон."
+line-483,赫尔曼,你们跟着罗德岛离开的时候，我应该已经去新城区了，就不来送你们了。,"By the time you leave with Rhodes Island, I'll have gone to the new city. I won't be there to see you off.","Когда вы уедете с Родосом, я уже буду в новом городе. Не приду провожать."
+line-485,黑,好。,Okay.,Хорошо.
+line-487,赫尔曼,……黑啊。,...Schwarz.,...Шварц.
+line-489,黑,我在。,Master?,Я здесь.
+line-491,赫尔曼,好好活着。,Live well.,Живи хорошо.
+line-493,黑,……好。,...Right.,...Хорошо.

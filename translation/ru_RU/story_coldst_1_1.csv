@@ -1,0 +1,242 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_coldst_1_1,一路顺风
+,,,,
+char-1,海伦娜,海伦娜,Helena,Хелена
+char-2,杰西卡,杰西卡,Jessica,Джессика
+char-3,模糊的回响,模糊的回响,Faint Echo,Смутное эхо
+char-4,脸上带疤的拓荒者,脸上带疤的拓荒者,Scarred Pioneer,Шрамолицый первопроходец
+char-5,慌张的拓荒者,慌张的拓荒者,Flustered Pioneer,Перепуганный первопроходец
+char-6,酒馆老板,酒馆老板,Saloon Keeper,Хозяин таверны
+,,,,
+line-12,海伦娜,呜呼——,Woo—,Ууу—!
+line-13,海伦娜,好久没有飙得这么畅快了！,Been a while since I've had a ride like that!,Давно мы так не гнали!
+line-14,海伦娜,杰西卡，你这台车子明明也很猛嘛，怎么平时不见你开出来？,"That's one damn fine car you've got, Jessica. Why don't you take it out more often?","Джессика, у тебя же машина — зверь, почему ты её никогда не выгоняешь?"
+line-15,海伦娜,这趟顺风车算是搭对了，可惜到了拓荒地办事处咱们就得分道扬镳咯。要不你先让我开回营地，再去执行你的单人任务？,"Guess I picked the right ride, though we'll have to split up once we're at the frontier office. How about you let me drive back to the camp, before you go off on your solo mission?","Похоже, я не ошиблась с попутчицей, жаль только, что у офиса нам придётся расстаться. Может, сначала довезём тебя до лагеря, а потом ты отправишься на своё одиночное задание?"
+line-21,海伦娜,这个红色的指示灯是什么意思？快帮我看看……咦，杰西卡，你的脸色怎么这么白？,"Hey, what's this red indicator light? And why are you so pale?","Эй, что это за красная лампочка? Глянь-ка... Эй, Джессика, почему ты так побледнела?"
+line-22,杰西卡,三……,Three...,Три...
+line-23,海伦娜,三挡？不行，那也太慢了。,"Third gear? No, that's too slow.","Третья передача? Нет, слишком медленно."
+line-24,杰西卡,二，一……,Two... One...,Две. Одна...
+line-46,杰西卡,……,......,...
+line-47,杰西卡,海伦娜……,Helena...,Хелена...
+line-49,海伦娜,我都看见了，在那儿。传动装置断开了。,I see it. Over there. The drivechain is broken.,Я вижу. Вон там. Приводная цепь порвалась.
+line-50,海伦娜,跳线接过去，扳手拧几圈的事，用不了两分钟。,Bridge the connection. A few turns of the spanner. Shouldn't take more than a minute or two.,"Соединить провода, пара оборотов гаечным ключом — пара минут дела."
+line-52,杰西卡,嗯……,Okay...,Мм... ладно.
+line-54,海伦娜,好啦，别苦着张脸。知道你的任务紧急，可这一路上我也没耽搁呀。,"C'mon, no need for the long face. I know your mission's urgent, but it ain't like I've been slowing you down.","Да не хмурься. Я знаю, у тебя срочная миссия, но я же тебя не задерживала."
+line-55,海伦娜,要是真按你那本册子上的指导车速来开，说不定咱们现在连一半的路程都没走完呢。,We wouldn't even be halfway there if we followed the speed limit from that manual of yours.,"Если бы мы ехали по скорости из твоей книжонки, мы бы и половины пути не проехали."
+line-57,杰西卡,安全驾驶手册上的指导车速是根据路况、气候等多种因素测算出来的……很有参考价值的。,The recommended speed was derived from various factors such as road conditions and weather... It's there for a reason.,"Рекомендованная скорость в «Руководстве по безопасной езде» рассчитана с учётом дорог, погоды и множества других факторов... Она не просто так там написана."
+line-59,海伦娜,这么猛的车子，你忍心让它跑得比磐蟹还慢吗？我给你节省了这么多时间，足够你修十几次车了。,You gonna let a machine like this run slower than a metal crab? You could fix this beaut a dozen times over in the time that I saved you.,Неужели ты дашь такой машине ехать медленнее металлического краба? Я сэкономила тебе столько времени — хватит на десяток ремонтов.
+line-61,杰西卡,我？我来修吗？,Fix it? Me?,Я? Мне чинить?
+line-63,海伦娜,荒地上的规矩：别人口袋里面的少打听，别人引擎盖底下的少去碰。,"You know what they say out in the barrens: Don't ask what's in someone else's pocket, and don't reach under someone else's car hood.",В пустошах говорят: не лезь в чужой карман и не заглядывай под чужой капот.
+line-64,海伦娜,再说了，我那些修理技巧早都给你讲过了。身为治安官，总不能把自己的车子丢给别人去修吧？,"Anyway, I've taught you all my tricks. Our new sheriff can't very well have someone else fix her car for her every last time, can she?","К тому же я тебя всему научила. Нашему новому шерифу негоже каждый раз отдавать машину в чужую мастерскую, правда?"
+line-66,杰西卡,可是，明明是……,But you're the one who—,Но это же...
+line-68,海伦娜,行了，快点拿起扳手吧，你不是赶时间吗？这片荒地不适合逗留太久。等到了办事处前边那家酒馆，我请你喝他们那儿最好的酒。,"Alright, less yapping and more fixing. You're in a hurry, right? This ain't no place to dawdle. I'll buy you a pint from that saloon next to the office.","Ладно, хватит болтать, бери ключ. Ты же торопишься? Здесь не место для долгих остановок. Доедем до офиса — я угощу тебя лучшим вином в таверне рядом."
+line-70,杰西卡,不了不了，我一会儿还得执行任务呢，不能喝酒的。,"N-No, I can't drink. I still have a mission to do.","Н-нет, я не могу пить, у меня ещё задание."
+line-72,海伦娜,我知道你在担心什么。他们家的酒比咱们营地自酿的好多了，不会让你像上次那样一沾就醉的。,"Now, I know what you're thinking, but their stuff ain't like the swill we brew back at camp. It won’t knock you out with just a sip, like last time.","Я знаю, о чём ты. Их вино куда лучше той бурды, что мы варим в лагере, от одного глотка ты не свалишься, как в прошлый раз."
+line-75,杰西卡,才、才没有的事！,I-I have no idea what you're talking about.,Ничего подобного!
+line-77,杰西卡,哎呀，这些零件松动得也太厉害了，之前的驾驶速度还是太……,"Oh dear, all these parts are loose now. We were really going too fast...","Ой, эти детали так расшатались... Мы и правда слишком быстро ехали..."
+line-79,海伦娜,听你的意思，是怪我刚才开太快了吗？要不待会儿试试看能不能飙得再快些？,What's that? You think <i>that</i> was fast? Let's see if we can't go faster.,"Ты это к тому, что я ехала быстро? Давай попробуем ещё быстрее."
+line-81,杰西卡,啊哈，海伦娜，你先坐着休息，我去后备箱取点配件。,"Oh! Helena, er, go and get some rest. I'm just fetching some parts from the trunk.","Ах, Хелена, отдохни пока, я схожу в багажник за запчастями."
+line-89,海伦娜,这样才对嘛！身为治安官，怎么能连个车子都不会修呢。,That's more like it. A sheriff's got to know how to fix her own car.,Вот теперь другое дело. Шериф должен уметь чинить свою машину.
+line-96,海伦娜,杰西卡，你怎么塞了这么多零件在后备箱里！难怪刚才开车的时候总觉得重心位置不对。,What's with all those spare parts in the trunk? No wonder the center of gravity felt off.,"Джессика, зачем ты напихала в багажник столько запчастей! Неудивительно, что центр тяжести казался не тем."
+line-98,杰西卡,可是这些都是安全驾驶手册里要求的标准配件呀。我还少带了一套补胎工具，希望待会儿路上不要爆胎……,But these are only the bare minimum required by the safety manual. I don't even have a set of tire repair tools. I hope we don't pop one on the way...,"Но это же стандартный набор из «Руководства по безопасной езде»! Я ещё не взяла набор для ремонта шин — надеюсь, в пути не проколем..."
+line-100,海伦娜,……怎么感觉伍迪把徽章给你之后你就变得越来越呆板了。,"Man, you've gotten so damn stiff ever since Woody gave you that badge.","...С тех пор как Вуди вручил тебе этот значок, ты стала какой-то деревянной."
+line-102,海伦娜,算了，随便你折腾吧。我去找个阴凉的地方看看风景，修好了喊我一声。,"Fine, you do you. I'm gonna find some shade and enjoy the view. Gimme a holler when you're done.","Ладно, делай что хочешь. Я найду тень и полюбуюсь видом. Как починишь — окликни."
+line-115,模糊的回响,♪她牵着十轮落日，往荒野之心奔去♪,"♪She rides into the wilds, sunsets taken in tow♪","♪Она несётся в дикие просторы, уводя за собой десять закатов♪"
+line-116,模糊的回响,♪风寻不见她，影追不上她♪,"♪Too sneaky for the wind, the shadows are too slow♪","♪Ветер её не догонит, тень не поспеет♪"
+line-117,模糊的回响,♪她绝不停下啊，她不会再回家♪,"♪Never, never stopping, never setting foot at home♪","♪Никогда не остановится, домой не вернётся♪"
+line-132,脸上带疤的拓荒者,关掉引擎。,Turn off the engines.,"♪Никогда не остановится, домой не вернётся♪"
+line-134,慌张的拓荒者,是她吗？这么多年了，她居然还敢来？,"Is it really her? She dares show her face here, after all these years?",Выключите двигатели.
+line-136,脸上带疤的拓荒者,闭嘴！我在听。,Shut up! I'm listening.,Это она? Столько лет прошло — и она всё ещё осмеливается сюда показываться?
+line-141,脸上带疤的拓荒者,嗯，是她。,"Yeah, it's her all right.","Да, это она."
+line-146,脸上带疤的拓荒者,都别乱动！忘了吗？,Stay still! Did you forget?,Не двигаться! Забыли?
+line-147,脸上带疤的拓荒者,把你的望远镜擦干净些，给我使劲瞧瞧她躲哪儿了。,Wipe the lenses on those binoculars. Take a good long look and see where she's hiding.,"Протри стёкла бинокля, смотри хорошенько, где она прячется."
+line-149,慌张的拓荒者,我看到了，就在下边那个转角路口。好像不止她一个，还有个躲在底下……他们的载具抛锚了？,I see her. The next corner. She's not alone. There's someone under... Did their car break down or something?,"Вижу её, за следующим поворотом. Она не одна — кто-то под машиной... Их машина что, сломалась?"
+line-151,脸上带疤的拓荒者,要是动起手来，先瞄准底下那个。,"If we're doing this, we take out the one under the car first.","Если начнём стрелять, сначала бери того, что под машиной."
+line-153,慌张的拓荒者,那现在呢？就等着？,So what now? Do we just wait?,А сейчас что? Ждём?
+line-155,脸上带疤的拓荒者,等着。但别把刀和弩收起来。,Wait. But keep your knife and crossbow out.,Ждём. Но ножи и арбалеты не убирай.
+line-166,海伦娜,♪她绝不停下啊，她不会再回家♪,"♪Never, never stopping, never setting foot at home♪","♪Никогда не остановится, домой не вернётся♪"
+line-168,海伦娜,唉，嗓子都干了。,"Ah, my throat's getting dry.","Эх, горло пересохло."
+line-170,海伦娜,喂！修好没有？日头不早了！,You done yet? It's getting late.,"Эй, ты там закончила? Солнце уже низко!"
+line-172,杰西卡,快了，快了。,"Almost, almost.","Сейчас, сейчас."
+line-174,海伦娜,确定不用我帮忙吗？,Sure you don't need any help?,Точно не нужна помощь?
+line-176,杰西卡,大体上差不多已经好了，现在只需要把焊接的地方再加固一下……,Almost there. Just need to reinforce the welding...,"Почти готово, осталось укрепить сварку..."
+line-177,杰西卡,对了，海伦娜，一会儿……能不能让我来驾驶？你放心，我的驾驶执照到现在一直保持着零违章的记录呢。,"Say, Helena... mind if I took the wheel? Don't worry, I don't have any violations on my license.","Кстати, Хелена... можно я потом поведу? Не волнуйся, у меня в правах до сих пор ноль нарушений."
+line-179,海伦娜,这可不行！坐慢车我会晕车的。,No way. I get carsick if we go too slow.,Ни в коем случае! На медленной езде меня укачивает.
+line-180,海伦娜,再说了，我只是搭你的顺风车，又不是跟你出任务。等到了办事处之后，你想怎么开都行。,"Plus, I'm just hitching a ride, not going on your mission with you. You can drive however you want after we make it to the office.","К тому же я просто попутчица, а не напарница по заданию. Доедем до офиса — тогда хоть задом езжай."
+line-182,杰西卡,这样啊。那你再等我一下吧，有个地方……还要再检查一遍。,"Alright, give me another minute. I've got to check this again...","Понятно. Подожди меня ещё минуту, тут одно место... надо проверить."
+line-184,海伦娜,真磨蹭，从前在营地里那股子雷厉风行的劲头哪去了？,Can't you hurry it up a little? What happened to all that energy you had back at the camp?,"Ты бы поторопилась. Куда делась та расторопность, что была в лагере?"
+line-186,海伦娜,算了，那我就再欣赏一会儿这落日美景吧，坐在这块大石头上好像能看到更多细节。,"Well, I guess I'll just keep enjoying the sunset. I think I'd get a better view from on top of this rock.","Ладно, я пока понежусь на этом валуне — оттуда, кажется, больше видно."
+line-187,海伦娜,余晖下的荒野岩壁，色泽瞬息万变，真是百看不厌。,"Cliff faces in the wilderness, changing color every second with the afterglow. Never get bored of it.",Скалы в пустошах в лучах закатного света меняют цвет каждую секунду — не надоест никогда.
+line-192,海伦娜,嗯？那是……,Hm? What's that?,Мм? Что это...
+line-198,杰西卡,这下都修好了，可以继续赶路了……,"Alright, done. We can go now.","Всё починено, можно ехать дальше..."
+line-200,杰西卡,啊，海伦娜！,Helena?,"Ах, Хелена!"
+line-209,杰西卡,发生什么事了？！,What's going on?!,Что произошло?!
+line-211,海伦娜,有些脏东西，闻着气味就跟过来了。,I smell something dirty in the wind.,Чую в ветре грязный запах.
+line-212,海伦娜,呵，就算鸣炮示警也不走。只敢站在山崖上偷看，没胆子下来打一架是吗？,"Won't take the hint from the warning shot, but not brave enough to come down from the cliffs?","Хм, после предупредительного выстрела всё равно не уходят. Стоят на утесе и подглядывают — не хватает духу спуститься и драться, да?"
+line-214,杰西卡,要、要打起来了吗？我的铳藏在座椅下面，我去取。,A-A fight? I'll get my gun from under the seat...,"Д-драться? У меня пистолет под сиденьем, я схожу за ним..."
+line-216,海伦娜,等一下，杰西卡，你……不必了。,"One sec, Jessica... no need.","Погоди, Джессика... не надо."
+line-219,,海伦娜眯起眼，视线扫过不停下坠的红日，扫过崖壁下带着淡淡紫色的暗影，最后落在袖口沾满污渍的少女身上。,"Helena narrows her eyes and sweeps her gaze across the setting sun, the faintly purple shadows beneath the cliffs, and finally onto the girl whose sleeves are blackened with oil and grime.","Хелена прищуривается, переводит взгляд с заходящего солнца на лиловатые тени под обрывом и наконец останавливает его на девушке с засаленными рукавами."
+line-220,,少女的眼中浮起一丝紧张，但其底色却和她胸前的那枚徽章一样，是无可置疑的坚定。,"There is a hint of nervousness in the girl's eyes, but underneath it her gaze is as firm as the badge on her chest.","В глазах девушки мелькает тревога, но под ней — непоколебимая твёрдость, такая же, как у значка у неё на груди."
+line-222,海伦娜,你的任务更要紧，没必要把时间浪费在这些虫子身上。,Your mission's more important. No need to waste your time on these blood bags.,"У тебя задание важнее, не трать время на этих кровососов."
+line-223,海伦娜,车子修好了？,You fixed the car yet?,Машина починена?
+line-225,杰西卡,嗯，现在就能上路。,"Yeah, we can go now.","Да, сейчас поедем."
+line-227,海伦娜,那就发动载具吧，我们走。,Then let's go.,"Тогда заводи, поехали."
+line-229,杰西卡,好。,Alright.,Хорошо.
+line-236,海伦娜,哎，你别往副驾钻啊？难道要我一边瞄准一边拨方向盘吗？赶紧拿着钥匙过去。,"Not in the passenger seat, egghead. How am I supposed to turn the wheel while aiming? You take the key.","Эй, ты чего в пассажирское кресло? Что, мне что ли и целиться, и руль крутить? Бери ключи и садись."
+line-238,杰西卡,我？可是……,Me? But...,Я? Но...
+line-249,海伦娜,这次真得开快点儿了，不开玩笑。,"But drive fast this time, seriously.","На этот раз правда придётся гнать, без шуток."
+line-266,杰西卡,后面的崖壁上，有人冲下来了！他们的载具……好像也是改装过的。,There are people coming down from the cliffs behind us! Looks like their cars have been modified too.,Сзади по обрыву кто-то спускается! Их машины... тоже вроде переделаны.
+line-268,海伦娜,让我瞧瞧，嗯，放心吧，他们审美不怎么样，改装的还没你这台好看呢。,"Not half as good-looking as yours, though.","Дай посмотреть. Мм, не волнуйся — у них вкус ни к черту, переделаны даже хуже твоей."
+line-269,海伦娜,而且这伙荒地匪帮的车技不怎么样，这么缓的坡都要减速。你只管往前开，阻击的部分交给我就好。,"And they ain't half as good drivers, either, if they gotta slow down on such a gentle slope. Just keep the pedal to the metal and leave them to me.","И ездят они плохо: на таком пологом склоне тормозят. Ты только газу давай, а с преследователями я разберусь."
+line-271,杰西卡,这些人……你以前就认识吗？,Do you know them?,Эти люди... ты их раньше знала?
+line-273,海伦娜,仇家太多，记不起来是哪个了。不过大差不差，一般都是他们先招惹我的。,"Nah, made too many enemies to remember who's who. Not much of difference, though. It's usually the other side that picked the fight.","Врагов я нажила столько, что не упомнить, кто есть кто. Впрочем, разница небольшая: обычно они первыми начинают."
+line-285,海伦娜,把头埋低！,Keep your head down!,Голову вниз!
+line-299,海伦娜,你倒是加速啊！怎么开这么慢！,Why's this thing going so slow?!,Да ты же газу давай! Почему так медленно!
+line-301,杰西卡,我加了限速器！,I added a speed limiter!,Я поставила ограничитель скорости!
+line-303,海伦娜,什么？,What?,Что?
+line-305,杰西卡,我……我怕你又要飙车，就在车上加了限速器！现在车速没办法超过指导车速的上限。,"I-I was afraid you'd be speeding again, so I added a speed limiter! It can't exceed the recommended speed limit now.","Я... я боялась, что ты опять начнёшь гнать, и поставила ограничитель! Теперь скорость не может превышать рекомендованную!"
+line-307,海伦娜,……,......,...
+line-323,,海伦娜猛然将身子探出窗外，掉转射钉重炮指向后方的滚滚烟尘。那些带着狰狞尖刺的载具刚浮现出轮廓，就有爆鸣声自她手中响起。,Helena pokes her upper body out of the window and points her nail gun at the dust cloud in the rear. The spiked vehicles that emerge from the dust cloud are promptly met by loud bangs from her hand.,Хелена резко высовывается из окна и разворачивает гвоздомёт в сторону клубящейся за кормой пыли. Только наметились шипастые силуэты — а в воздухе уже гремят выстрелы.
+line-324,,一枚又一枚致命的金属刺入风沙，直至弹夹被清空。等到连续不断的爆鸣声被狂风吹散，追击者的身影已减去许多。,Deadly metal streaks through the wind and sand until her magazine runs empty. The pursuers' numbers are greatly thinned by the time the sound of explosions is scattered by the wind.,"Смертоносный металл режет ветер и песок, пока не опустеет магазин. К тому времени, как грохот разнесёт ветер, преследователей заметно поубавилось."
+line-331,杰西卡,你把他们……,You just...,Ты их...
+line-333,海伦娜,这些匪帮一旦咬准目标就不会松口。你最好把那个踏板踩死，能飙多快就飙多快！别跟我扯什么规定什么上限！,Scum like these don't let go once they think they've got their mark. Keep your foot on the pedal and go as fast as you can! Don't give me that speed limit crap!,"Эти бандиты, если вцепились, не отпускают. Жми на педаль, гони как можно быстрее! Не ссылайся на правила и ограничения!"
+line-335,杰西卡,啊，好的！,O-Okay!,"А-а, хорошо!"
+line-337,杰西卡,但是……这真的一点都不安全！,But this isn't safe at all!,Но это же совсем небезопасно!
+line-342,海伦娜,都什么时候了，你居然还在换挡？,"You're still changing gears? What do you think this is, some kinda parade?",В такой момент ты всё ещё переключаешь передачи!
+line-344,杰西卡,糟糕！他们好像又追上来了，车速……怎么办？怎么办？,They're catching up! The speed... what do I do? What do I do?,"Ох, они опять догоняют, скорость... что делать? Что делать?"
+line-346,海伦娜,打开后备箱！,Open the trunk!,Открой багажник!
+line-348,杰西卡,什、什么？,Wh-What?,Ч-что?
+line-350,海伦娜,你那堆丁零当啷的、重得要死的、零件！,Toss out all that junk you're carrying!,"Этот твой гремящий, тяжёлый хлам!"
+line-351,海伦娜,打开后备箱，全丢下去！,"All of it, now!",Открой багажник и выкинь всё!
+line-352,海伦娜,快……相信我！,Hurry! Trust me!,Быстрее... Доверься мне!
+line-361,,载具的后备箱盖板骤然弹起，几个硕大的合金工具箱被狠狠甩向地面，砸落、弹起、翻滚，奔向沙尘中。,"The car trunk flies wide open, and several massive metal toolboxes spill onto the ground, bouncing and rolling into the dust cloud.","Крышка багажника резко взлетает, несколько массивных металлических ящиков швыряет на землю — они падают, подскакивают, катятся и улетают в пыль."
+line-362,,严重变形的锁扣无法再拦住那些尖锐的怒火，锃亮的螺杆、尖锥、扳手互相推搡着从箱体的缺口中涌出，如一道钢铁雨幕。,"The warped and battered locks can no longer contain their contents, so screws, rods and spanners, shiny and chrome, burst out from the boxes, forming a rain of iron.","Погнутые запоры уже не удерживают острый гнев: блестящие винты, шипы и гаечные ключи давят друг друга и сыплются из прорех, как железный дождь."
+line-363,,片刻后，一阵令人欣喜的声响传来。金属与金属相撞的脆响、轮胎摩擦砾岩的尖嚎，还有惊慌的呼喊与咒骂。,"This is followed by the joyous sounds of metal on metal, tires screeching to a halt on the gravel, and panicked cries and cursing.","Через миг доносится желанный звук: лязг металла о металл, визг шин по щебёнке, панические крики и ругательство."
+line-367,杰西卡,效果好像很不错！,Sounds like it worked!,"Похоже, сработало!"
+line-369,海伦娜,还不够。把能丢的都丢下去，砸烂他们的车头！我来！,Still not enough! Toss out everything you can and smash their cars! I'll do it!,"Мало. Выкидывай всё, что можно, разбей им капот! Я помогу!"
+line-370,海伦娜,这一箱子是什么？,What's this?,Что это за ящик?
+line-372,杰西卡,我在后勤部印刷的安全驾驶手册，要带回……,A safety manual that I printed out at HQ to bring back to—,"Это «Руководство по безопасной езде», я напечатала его в штабе, чтобы отвезти..."
+line-374,海伦娜,这原来是你自己印的？还印了一大箱？全扔了！,You printed it? And it takes up a whole box? Out it goes!,Так ты его сама напечатала? И целый ящик? Всё выкидывай!
+line-375,海伦娜,还有这面盾牌……,And this shield...,Ещё и этот щит...
+line-377,杰西卡,这个不能扔！,NOT THAT!,Это нельзя выбрасывать!
+line-379,海伦娜,我当然知道！还有这几个座椅……,"I know, I know! We've still got a few seats...",Я знаю! Ещё эти сиденья...
+line-380,海伦娜,该死的，后排的座椅都被螺丝锁住了，把扳手给我！,"Dammit, the backseats are screwed to the floor! Toss a wrench!","Чёрт, задние сиденья прикручены болтами, дай сюда ключ!"
+line-382,杰西卡,扳手……都丢下去了！一个也没有了。,You threw them all out!,Ключи... я выкинула все! Ни одного не осталось.
+line-383,杰西卡,试试这个！,Let's try this!,Попробуй это!
+line-386,,杰西卡一只手牢牢把住方向盘，另一只手拔出手铳，侧过身子，瞄准那颗粗大的螺丝钉扣动了扳机。,"With one hand on the wheel, Jessica draws her pistol, turns around, and fires at the thick and heavy screw.","Джессика одной рукой держит руль, другой выхватывает пистолет, разворачивается и спускает курок по толстому болту."
+line-390,,砰！底盘上出现一个圆孔，螺丝钉和后排座椅已经被甩出车外。,"Bang! A hole appears on the chassis, sending both the screw and backseats into the wilderness yonder.","Бах! В днище появляется круглая дыра, и болт вместе с задними сиденьями улетает в пустоши."
+line-394,海伦娜,下次提前告诉我一声，我耳朵都要被震聋了。,"Say something first next time, okay? I nearly went deaf.","Предупредила бы меня в следующий раз, я чуть не оглохла."
+line-396,杰西卡,抱歉，刚才太急了……,"Sorry, I was in a hurry...","Прости, я спешила..."
+line-398,海伦娜,车内鸣铳应该也不符合你那什么安全规定吧？不过你准头还挺好……,"Shooting a gun in the car ain't exactly following the safety regulations, is it? But hey, nice shot...",Стрелять в машине — это наверняка не по твоим правилам безопасности. Но метко...
+line-399,海伦娜,你应该避开了底盘上那些部件装置吧？,"...You <i>did</i> avoid hitting any important parts of the frame, right?","Ты же не задела важные детали шасси, правда?"
+line-402,,杰西卡欲言又止，只是抿紧了嘴唇，快速地朝海伦娜投去一个决然的眼神。紧接着，海伦娜便明白了她的意思。,Jessica says nothing and casts a resigned look at Helena. It does not take long for her to understand why.,"Джессика ничего не говорит, только сжимает губы и бросает Хелене решительный взгляд. Той не требуется много времени, чтобы понять."
+line-403,,这辆载具上的每一个零部件都开始松动，在令人牙酸的螺丝摩擦声中，一块块破铜烂铁从各个角落被甩下，跌跌撞撞地从豁口中飞出。,"The whole vehicle begins to shake. Scrap begins to fly out from every gap and corner, all to the screeching sound of metal grinding against metal.","Вся машина начинает трястись, с противным скрежетом болты и обломки вылетают изо всех щелей и падают, кувыркаясь, наружу."
+line-406,杰西卡,你还是抓紧时间装填弹药……我也不知道它还能撑多久。,You should reload while you can... I don't know how long this thing's gonna last.,"Тебе бы пока перезарядиться... я не знаю, сколько она ещё продержится."
+line-413,海伦娜,等等，刚才是不是震了一下，为什么我感觉车速突然变快了？,"Hey, is it just me, or are we going faster?","Погоди, нас что, тряхнуло? Почему скорость вдруг выросла?"
+line-414,海伦娜,就算重量减轻不少，也不至于一下子跑这么快……限速器呢，不会也被你甩掉了吧？,"We shouldn't be speeding up this much, even if we've shed quite a bit of weight... What about the limiter? Did you toss that, too?",Даже после такой разгрузки мы не должны были так прибавить... Ограничитель — ты его тоже выкинула?
+line-416,杰西卡,……,......,...
+line-418,杰西卡,……没有。,No.,...Нет.
+line-421,,杰西卡点了点头，又摇了摇头。,"Jessica nods her head, then shakes it.",Джессика кивает и тут же мотает головой.
+line-422,,海伦娜转头看去，她最先注意到的是杰西卡的额头，那些细密的汗珠几乎是在一瞬间冒出来的。,Helena turns around. The first thing she sees is Jessica's brow. The drops of sweat on it appeared out of nowhere in an instant.,"Хелена оборачивается. Первое, что она видит, — лоб Джессики: мелкие капли пота выступили будто в одно мгновение."
+line-423,,接着是仪表盘上的指针，停在刻度的最大值上，轻微颤抖着。同样不住颤抖的，还有杰西卡紧握方向盘的双手。,"The next thing she sees is the pointer needle on the instrument board, stuck and trembling at the rightmost side of the gauge. Also trembling are Jessica's hands on the wheel.","Потом — стрелка на приборе, застывшая на максимальной отметке и едва заметно дрожащая. Дрожат и руки Джессики на руле."
+line-427,海伦娜,……杰西卡？,...Jessica?,...Джессика?
+line-429,杰西卡,踏板……踩到底，卡住了……刹车好像也失灵了。,...The accelerator pedal's stuck. And the brakes aren't working.,"Педаль... заклинила, я её до упора... и тормоза вроде не работают."
+line-430,杰西卡,刚才……好像把刹车管线也……,"I think that shot might have, you know, grazed the brake wires... or maybe cut them in half...","Кажется, я тем выстрелом задела... или перерезала тормозные тросы..."
+line-432,杰西卡,呜哇！,Whoa!,Ой!
+line-434,,海伦娜脸上的表情凝固了片刻，她突然感觉此刻正在发生的一切都那么好笑。,"For an instant, Helena's expression is frozen on her face. Then she starts to feel like she has never seen anything so funny in her life.","Выражение лица Хелены застывает на миг — и вдруг ей кажется, что всё происходящее ужасно смешно."
+line-436,海伦娜,哈哈、哈哈哈哈……真是太刺激了！,Haha... hahaha! This is FUN!,Ха-ха... ха-ха-ха! Вот это драйв!
+line-438,海伦娜,享受这场狂飙吧，孩子！忘掉什么安全驾驶，忘掉什么路线！,"Enjoy the ride, kiddo! Forget safe driving! Forget navigation!","Наслаждайся поездкой, малышка! Забудь про безопасную езду, забудь про маршрут!"
+line-440,杰西卡,啊？忘掉……,Huh? Forget...,А? Забыть...
+line-442,海伦娜,发什么愣？拿出点气势来！甩掉这群跟屁虫，然后连他们一起忘掉！,"Show some spirit, girlie! Let's lose these blood bags and forget they ever existed!","Не стой столбом! Добавь жару! Оторвёмся от этих кровососов и забудем, что они вообще существовали!"
+line-444,杰西卡,好！,Alright!,Хорошо!
+line-445,杰西卡,他们追不上我了！,They can't catch us anymore!,Они больше не догоняют!
+line-447,海伦娜,他们连你的尾灯都看不见！,They can't even see our taillights!,Они даже хвостовых огней наших не видят!
+line-449,杰西卡,尾灯早就没了……但没错！,We don't HAVE any taillights left! But the point stands!,Хвостовых огней у нас уже нет... Но суть верная!
+line-451,海伦娜,做得好！现在记住这一刻的感受，记住这些翻腾的情感！,Good job! Now remember this feeling! The thrill! The excitement!,"Молодец! Запомни это чувство, запомни эти эмоции!"
+line-452,海伦娜,这是伍迪没法教给你的，这是独属于你的人生时刻！像风一样，像落日一样！,"Woody could never teach you this. This moment belongs to you! Like the wind, like the setting sun!","Этому Вуди тебя не научит. Это твой собственный момент! Как ветер, как закат!"
+line-454,杰西卡,我好像……感受到了！,I... I feel it!,Кажется... я чувствую!
+line-456,海伦娜,没有人能管你走哪条路，因为方向盘只在你的手里！,No one can tell you where to go! You're the one with the wheel in your hands!,"Никто не укажет тебе, куда ехать, — руль в твоих руках!"
+line-457,海伦娜,现在你眼中所见的道路，就是你广阔的未来！,The future is the road in front of your eyes!,Дорога перед тобой — это твоё широкое будущее!
+line-459,杰西卡,啊？,Huh?,А?
+line-460,杰西卡,……我的未来，是悬崖？,...My future is a cliff?,...Моё будущее — обрыв?
+line-462,海伦娜,什么？,What?,Что?
+line-465,海伦娜,来不及了，快跳车！,No time! Jump!,"Не успеваем, прыгай из машины!"
+line-487,海伦娜,老板，醒醒，还做不做生意啦！,"Hey, wake up! Do you want my business or not?","Эй, проснись, ты торговать будешь или нет!"
+line-489,酒馆老板,是谁敢吵我……,Ugh... who's making all that noise?,Кто тут шумит...
+line-490,酒馆老板,哦！海伦娜，今天来得这么早啊。怎么搞得灰头土脸的？,"Oh, Helena! You're early today. Why are you covered in dirt?","О! Хелена, сегодня рано. Почему вся в пыли?"
+line-492,海伦娜,被一伙匪帮撵着跑，差点车毁人亡。你看我都这么惨了，还不赶紧把你珍藏的二十年陈酿端出来给我倒两杯？,We got chased by a bunch of thugs and almost went out in a blaze of glory. How about you break out some 20-year vintage to celebrate my survival?,"Нас гнали бандиты, чуть машину не разбили. Видишь, в каком я виде — неужто ты не выставишь мне свою двадцатилетнюю выдержку?"
+line-494,酒馆老板,我这里都有些什么酒你还不清楚吗？上个月的陈酿要不要，自己去柜台随便倒。,You know what I have. You can help yourself to last month's vintage at the bar.,"Ты же знаешь, что у меня есть. Хочешь прошлогодней выдержки — наливай сам, у стойки."
+line-495,酒馆老板,嘿，我要和这位眼生的小姑娘聊聊。,"Haven't seen YOU before, girl. Let's have a little chat.","Эй, я тут с этой незнакомой девчонкой поболтаю."
+line-497,杰西卡,老爷爷您好……我要一杯清水就好。,"Hello... just a glass of water, please.",Здравствуйте... Мне просто стакан воды.
+line-499,酒馆老板,老爷爷？我看着有那么老吗！哼，要不是看在海伦娜的面子上……,WATER? This here is an establishment for adults! If you're not with Helena...,"Дедушка? Я что, выгляжу так старо! Хм, если бы не Хелена..."
+line-501,杰西卡,对、对不起！,S-Sorry!,П-простите!
+line-503,海伦娜,别逗她了，我能活着走进来，还多亏了这孩子。,"C'mon, don't tease her. It's thanks to her that I'm still alive right now.","Не дразни её. Если бы не она, я бы сейчас не была жива."
+line-504,海伦娜,你这儿的冰块呢？这酒没冰块还怎么喝？,"Hey, where's the ice? How am I supposed to drink this without any ice?",Где твой лёд? Как пить без льда?
+line-506,酒馆老板,制冰机坏了快一周了，你要是来得勤一点早就知道了。,The ice machine's been broken for a week. You'd know if you stopped by more often.,"Ледогенератор сломался почти неделю назад, ты бы знала, если бы заглядывала почаще."
+line-508,海伦娜,我上周都不在拓荒地，到处跑来跑去，腿都要跑断了，也没个人心疼我。,I've been all over the place this week. My legs are so tired I can hardly move. Cut me some slack here.,"На прошлой неделе меня не было в Пограничье, я моталась по округе, ноги чуть не отвалились, и никто меня не пожалел."
+line-509,海伦娜,这样吧，你把门口拴着的那匹驮兽送我，我帮你修制冰机，怎么样？,"How about this? You give me the burdenbeast you have tied up at your door, and I'll fix your ice machine.","Давай так: отдай мне вьючного зверя, что у тебя у двери привязан, а я починю твой ледогенератор."
+line-511,酒馆老板,那还是免了吧，你少打小红的主意。,"No thank you, you're not taking Nux.","Нет, лучше не надо. Не помышляй о Рыжике."
+line-513,杰西卡,糟糕！时间已经……海伦娜，我们得赶快回办事处去！,"Oh no! Look at the time... We need to go to the office now, Helena!","Ох! Время уже... Хелена, нам надо срочно вернуться в офис!"
+line-515,海伦娜,放心，我有数。喝杯酒再说。,"Don't worry, I know what I'm doing. Let me have a drink first.","Не волнуйся, я всё знаю. Дай мне сначала выпить."
+line-517,杰西卡,现在还没到可以喝酒放松的时候。,Now isn't the time!,Сейчас не время расслабляться.
+line-519,海伦娜,什么时候都是喝酒的时候，对吧，“老爷爷”？,"It's always the time to drink. Ain't that right, barkeep?","Время пить всегда, верно, «дедушка»?"
+line-521,酒馆老板,少跟我装嫩。酒这玩意，想喝的人从来不管时间；不想喝的，你劝到天黑也灌不进去一滴。,"Always the time for those who want to drink, and never the time for those who don't.","Не притворяйся молодухой. Кто хочет пить — тому всегда время, кто не хочет — тому хоть дотемна уговаривай, ни капли не выпьет."
+line-523,海伦娜,这杯酒是我请你的，杰西卡。你喝不喝都行，反正我说过要请你喝一杯这里最好的酒。,"This one's on me, Jessica. Drink it, or not. I did say I'd buy you a pint.","Этот стакан — за мой счёт, Джессика. Пей или не пей, как хочешь, я же обещала угостить тебя лучшим вином."
+line-524,海伦娜,你从这里向北，闷着头走二十分钟就能到拓荒地办事处，你甚至还有时间洗把脸再去执行任务。,The frontier office is twenty minutes to the north on foot. You'll even have time to wash your face.,Отсюда на север пешком двадцать минут — и ты в Пограничном офисе. У тебя даже будет время умыться перед заданием.
+line-526,杰西卡,那你呢，海伦娜？你真的不和我一起走吗？那伙匪帮……,"What about you, Helena? Aren't you coming? Those bandits...","А ты, Хелена? Ты правда не идёшь со мной? Те бандиты..."
+line-528,海伦娜,你不用替我操心。这间酒馆很安全，匪帮的人进不来。,Don't worry about it. This saloon's safe. Those bandits can't get in.,"Не волнуйся за меня. В этой таверне безопасно, бандиты сюда не заходят."
+line-530,酒馆老板,这点没错，这间酒馆不防风不防雨，专防匪帮的小崽子。,"That's right. Wind gets in, rain gets in, but not bandit scum.","И верно: дождь заходит, ветер заходит, а бандитским выродкам сюда ходу нет."
+line-532,海伦娜,我本来也只是搭你的顺风车，现在连车都没了，就该各走各路。你去执行你的任务，我喝杯酒再回营地去。,"I was just hitching a ride anyway. Well, your car's in a better place now. You go your way, do your mission, and I'll head back to camp once I've had a drink.","Я и была тебе просто попутчицей, а теперь и машины нет — пора расходиться. Иди выполнять задание, а я выпью и вернусь в лагерь."
+line-533,海伦娜,而且，那伙匪帮不会轻易罢休，你要是跟我一起，万一又被他们缠上，岂不是更加耽误时间？,"Plus, those bandits won't give up so easily. You'll really be late if you stay with me and get caught up in this again.",К тому же эти бандиты так просто не отстанут. Если ты останешься со мной и тебя опять втянут в это — только время зря потеряешь.
+line-535,酒馆老板,哈哈，海伦娜一个人就能收拾那些不知天高地厚的小子。有你跟着，说不定她反而束手束脚呢。,"Ha, Helena can take care of those idiots herself. Probably easier on her own anyway.","Ха, Хелена и сама с этими сопляками справится. С тобой она, пожалуй, только стеснятся."
+line-537,杰西卡,这样吗……,I see...,Так ли...
+line-539,杰西卡,可是海伦娜，我觉得我不会是个累赘。我是营地的治安官，这伙荒地匪帮……清理他们本来就是我的职责。,But... but I won't be a burden. I'm the sheriff of the camp. It's my job to deal with bandits.,"Но Хелена, я не думаю, что я была бы помехой. Я шериф лагеря, и чистить этих бандитов — моя обязанность."
+line-541,海伦娜,哎呀，谁说你是累赘了？那么多年，我在荒地上独来独往惯了，今天好不容易又找回些年轻时的感觉……,"Who said you were a burden? It's just, I've been going solo in the wilderness for longer than you've been alive. I haven't felt so young in a long time...","Ой, кто сказал, что ты помеха? Столько лет я одна в пустошах, а сегодня вдруг опять почувствовала себя молодой..."
+line-542,海伦娜,如果因此让你错过了任务期限，我心里会过意不去呢。去做你应该做的事情吧。麻烦因我而起，由我来收拾就好。,And I'd feel guilty if I made you late. Go do what you gotta do. This is my problem; I'll deal with it.,"И я бы винила себя, если бы из-за меня ты опоздала. Иди, делай своё дело. Это моя проблема, я и разберусь."
+line-543,海伦娜,你总不会是信不过我能摆平那群小毛头吧？,Don't tell me you think I can't handle those thugs?,"Неужели ты думаешь, что я не справлюсь с этой шайкой?"
+line-545,杰西卡,你说的，好像都有道理。,"I get what you're saying, really.",Ты вроде и права...
+line-546,杰西卡,但如果什么都不做，我也感觉有点过意不去。,But <i>I'd</i> feel guilty if I didn't do anything.,"Но если я ничего не сделаю, мне тоже будет не по себе."
+line-548,海伦娜,搞不懂你有什么好过意不去的。当上治安官并不意味着你就要把自己框在那个圈圈里。,"Why? Being the sheriff doesn't mean that's all you do, every day.","Не понимаю, чего тут винить себя. Быть шерифом — не значит всё время сидеть в этом кругу."
+line-549,海伦娜,什么职责啊，信赖啊，亏欠啊，守护啊……你什么时候见过伍迪把这些成天挂嘴边上？,"Duty, trust, protect... Do you think Woody only ever talks about that stuff all day?","Долг, доверие, обязанности, защита... ты когда-нибудь слышала, чтобы Вуди всё это болтал на каждом шагу?"
+line-551,杰西卡,海伦娜，我……,"Helena, I...","Хелена, я..."
+line-553,海伦娜,不过那也怪他本来话就少。哎呀，说岔了，想想你今天不管不顾、把踏板踩到底的时候，心里头是什么感觉？,"Well, I guess he doesn't talk much to begin with. Back to the point. How did you feel when you threw everything to the wind and put your foot on the pedal all the way down?","Впрочем, он и так немногословен. Вернёмся к делу: что ты чувствовала, когда забыла обо всём и вжала педаль в пол?"
+line-554,海伦娜,杰西卡，你本来就有资格、也值得去做那些规则之外的选择。,You can and should make choices that lie outside the rules.,"Джессика, ты и сейчас можешь и должна делать выбор за пределами правил."
+line-556,海伦娜,你还这么年轻，无论做什么都得是自己想做，而不是因为别人让你这么做，包括我。,"You're young. Whatever you do, do it because you want to, not because someone else made you. Myself included.","Ты ещё молода — что бы ты ни делала, делай потому, что хочешь этого сама, а не потому, что тебя заставили. Меня тоже не исключай."
+line-558,海伦娜,年轻……年轻多好……哎，老板！这酒没冰块真没办法下肚啊，你确定不让我帮你修制冰机？,"Oh, how good it must be to be young... Hey, barkeep! You sure you don't want me to fix your ice machine? This swill's undrinkable without ice.","Ох, как хорошо быть молодым... Эй, хозяин! Ты точно не дашь мне починить ледогенератор? Без льда это варево не пить."
+line-560,酒馆老板,不，绝不！喝的人又不是我！,Absolutely not. I'm not the one who has to drink it.,"Нет, ни в коем случае! Пить будешь не ты!"
+line-562,海伦娜,真是没趣，哪有我这样求着给人家帮忙的。唉，才过了几年，就对我爱答不理了。,Why do I have to beg you to let me help you? Since when were you so cold and distant?,"Ну и скучный же ты, я чуть не умоляю тебя позволить мне помочь. Прошло всего несколько лет, а ты уже со мной не разговариваешь."
+line-564,杰西卡,制冰机的话，我可以试试，时间应该也来得及。就当……谢谢您容我落脚。,I could try fixing the machine. I think I have enough time. As... a token of gratitude for letting us stay.,"Ледогенератор... я могу попробовать, времени должно хватить. Пусть это будет... спасибо за то, что приютили."
+line-566,海伦娜,你赚了，她的维修手艺不比我差。,You're in luck. She's nearly as good as I am.,"Тебе повезло, она чинит не хуже меня."
+line-568,酒馆老板,行。那你跟我来。,Sure. Come with me.,Ладно. Иди со мной.
+line-580,海伦娜,……,......,...
+line-582,海伦娜,差不多该收拾一下了。,Time to clean up.,Пора бы прибраться.
+line-592,杰西卡,呼……这下能用了，老板。嗯，别用力拍打，应该能一直用下去。,"...There. Don't hit it too hard, and it should last quite a while.","Фух... готово, хозяин. Только не бей сильно — должно прослужить ещё долго."
+line-594,酒馆老板,你这手艺到底跟谁学的！旧报纸和玻璃碴居然还能这么用？海伦娜，你猜……海伦娜？人呢？,"Where'd you learn to do that? And with old newspapers and broken glass? Helena, guess what... Helena?","Где ты этому научилась?! Старые газеты и битое стекло — и то сработало? Хелена, гляди... Хелена? Куда ты делась?"
+line-596,杰西卡,她把酒钱压在杯子下面了……还真是一口没喝，真的很难喝吗？,She put the money under the cup... didn't touch the contents at all. Is it really that bad?,Она оставила деньги под кружкой... И не притронулась к вину. Неужели оно правда так плохо?
+line-602,杰西卡,咳啊！咳咳，好辣！,*Cough* Argh! My throat! It burns!,Кх! Кашляй! Горло жжёт!
+line-604,酒馆老板,这人，走得真坚决啊。不对，这可不止两杯酒的钱，还多出不少。,"She doesn't ever slow down, does she? Wait, this is way more than the price for two glasses...","Ушла она быстро. Погоди, это же больше двух стаканов..."
+line-605,酒馆老板,奇了怪了，平时给小费也没这么大方啊，难道说……,She's never tipped so much before. Wait a second...,"Странно, она никогда не оставляла таких чаевых... Неужто..."
+line-611,酒馆老板,糟糕，小红！,Oh no! Nux!,"Ох, Рыжик!"
+line-613,酒馆老板,海伦娜！你敢让小红少一根毛，以后你点的酒价格翻倍！全部翻倍！,"Helena! I'm charging you double from now on if Nux gets so much as a scratch on him, you hear me? DOUBLE!","Хелена! Если у Рыжика хоть волосок пострадает, я с сегодняшнего дня удвою цену на всё, что ты закажешь! Вдвое!"
+line-621,,杰西卡和酒馆老板奔向门外，望向那个骑着驮兽远去的身影。,Jessica and the barkeep run outside to see a figure riding into the sunset on the burdenbeast.,"Джессика и хозяин выбегают наружу и видят фигуру, уезжающую на вьючном звере в закат."
+line-622,,落日余晖将他们脸上复杂的表情慢慢地熨为平和。掠过旷野的风中夹杂着模糊不清的口哨声和歌声，忽而飘转消散。,"Their mixed expressions gradually grow mellow in the afterglow. The wind carries whistling and song, fading away in the distance.","Закатный свет постепенно сглаживает сложные выражения их лиц. Ветер, дующий над пустошами, доносит невнятный насмешливый свист и песню, которые то приближаются, то растворяются вдали."
+line-624,,♪她牵着十轮落日，往荒野之心奔去♪,"♪She rides into the wilds, sunsets taken in tow♪","♪Она несётся в дикие просторы, уводя за собой десять закатов♪"
+line-625,,♪风寻不见她，影追不上她♪,"♪Too sneaky for the wind, the shadows are too slow♪","♪Ветер её не догонит, тень не поспеет♪"
+line-626,,♪她绝不停下啊，她不会再回家♪,"♪Never, never stopping, never setting foot at home♪","♪Никогда не остановится, домой не вернётся♪"
+line-627,,♪只有那子弹和烈酒，能够温暖她♪,♪Only lead and spirits keep her warm♪,♪Лишь пуля да спирт греют её♪
+line-628,,♪只有那子弹和烈酒，能够温暖她♪,♪Only lead and spirits keep her warm♪,♪Лишь пуля да спирт греют её♪
+line-644,脸上带疤的拓荒者,还没找到吗？,You found her yet?,Ещё не нашли?
+line-646,慌张的拓荒者,没有，轮胎印就消失在悬崖前边。脚印也被刻意抹去了。,"No, the tire tracks disappeared just before the cliff. Any footprints have been wiped away.","Нет, следы шин оборвались прямо перед обрывом. Следы ног тоже кто-то тщательно замал."
+line-648,脸上带疤的拓荒者,*哥伦比亚粗口*她最好这辈子都别再出现在我的视野里。,Dagnabbit! She better not show her face ever again.,*Колумбийская брань*! Чтобы она больше никогда не попадалась мне на глаза.
+line-650,慌张的拓荒者,难道今天就这么算了？,We just gonna let her go?,"И что, так и оставим?"
+line-652,脸上带疤的拓荒者,不然呢？你听说过有谁能追上那个女人？,"We got a choice? You think you could catch her? Has anyone, ever?","А что нам остаётся? Ты думаешь, её можно догнать? Кто-нибудь когда-нибудь её догонял?"
+line-654,慌张的拓荒者,等等！在那儿！我用望远镜看到她了！,Wait! That way! I see her through the binoculars!,Погоди! Вон она! Я вижу в бинокль!
+line-656,脸上带疤的拓荒者,她带了几个人来？,How many with her?,С кем она?
+line-658,慌张的拓荒者,就她一个，骑着一头驮兽，不过……,"Just her, on a burdenbeast. But...","Одна, верхом на вьючном звере. Но..."
+line-660,脸上带疤的拓荒者,嗯？,Huh?,Мм?
+line-662,慌张的拓荒者,……她隔着望远镜对我比了个手势。,...She just gestured towards me.,...Она показала мне жест через бинокль.
+line-663,慌张的拓荒者,老大，好像不是我们找到她了，而是她……找到我们了。,"...I think it's her who found us, boss.","Начальник, кажется, не мы её нашли, а она... нашла нас."
+line-674,海伦娜,跑吧。祝你们……一路顺风。,Run. And good luck... you'll need it.,Бегите. Удачи... она вам понадобится.

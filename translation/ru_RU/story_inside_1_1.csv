@@ -1,0 +1,264 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_inside_1_1,机密任务
+,,,,
+char-1,里凯莱,里凯莱,Richele,Рикеле
+char-2,公证所职员,公证所职员,Notarial Hall Official,Сотрудница нотариальной палаты
+char-3,闲聊的路人,闲聊的路人,Chatting Passerby,Болтливый прохожий
+char-4,闲逛的路人,闲逛的路人,Laid-Back Passerby,Беззаботный прохожий
+char-5,戍卫队成员,戍卫队成员,Pontifica Cohors Member,Член Понтификальной когорты
+char-6,路过的修士,路过的修士,Cleric,Проходящий клирик
+char-7,戍卫队成员？,戍卫队成员？,Pontifica Cohors Member?,Член Понтификальной когорты?
+char-8,路过的修士？,路过的修士？,Cleric?,Проходящий клирик?
+char-9,教宗骑士,教宗骑士,Apostolic Knight,Апостольский рыцарь
+char-10,紧张的青年,紧张的青年,Nervous Youth,Нервный юноша
+char-11,优雅的老妇人,优雅的老妇人,Elegant Old Lady,Изящная старушка
+,,,,
+line-11,里凯莱,前辈，我把手续都办好了。,The paperwork's done.,"Старшая, я оформил все документы."
+line-13,公证所职员,辛苦你了，新人。,"Good work, rookie.","Спасибо, новичок."
+line-15,里凯莱,我该做的。那位老先生的情况如何了？,Just doing my job. How's the old man doing?,Это моя работа. Как дела у того старика?
+line-17,公证所职员,（无言摇头）,(Shakes head),(Молча качает головой)
+line-18,公证所职员,病房里已经没什么我们能做的了。,There's nothing more the doctors can do for him.,В палате мы уже ничего не можем сделать.
+line-20,里凯莱,那就是说……,Which is to say...,То есть...
+line-22,里凯莱,……我们现在的任务是？执行者的话，应该是要替公民执行遗嘱吧？,What's our job now? Executing the citizen's will in our capacity as executors?,"...Какая у нас теперь задача? Исполнитель должен приводить в исполнение завещание гражданина, верно?"
+line-24,公证所职员,当然。这是我们最主要的工作。,Of course. It's our most important duty.,Конечно. Это наша главная работа.
+line-25,公证所职员,说到遗嘱……里凯莱，听令！,Speaking of wills... Richele! Attention!,"Кстати, о завещаниях... Рикеле, смирно!"
+line-28,里凯莱,是……是！,"Y-Yes, ma'am!",Е-есть!
+line-30,公证所职员,嗯，这就对了，工作的时候要打起精神来。,That's more like it. Look alive when you're working!,"Вот, так-то лучше. На работе нужно быть собранным."
+line-31,公证所职员,我知道这是你的第一次任务，本来不应该给你这么大的压力，但是……,I know it's your first mission and I don't want to put unnecessary pressure on you. However...,"Я знаю, это твоё первое задание, и не хотела бы оказывать на тебя такое давление, но..."
+line-32,公证所职员,里凯莱，现在有一项机密任务要交给你。,"This is a secret mission, Richele.","Рикеле, тебе предстоит секретная миссия."
+line-34,里凯莱,……机密任务？,A secret mission?,...Секретная миссия?
+line-36,公证所职员,没错！你拿好这个。,Yes. Take this.,Да. Возьми это.
+line-41,,资深执行者取出一个密封的文件袋，又从便签本上撕下一页，写上了一个地址。,"The veteran executor takes out a sealed envelope, then tears a page out of her notebook and writes an address on it.","Опытная исполнительница достала запечатанный пакет, оторвала страницу из блокнота и написала адрес."
+line-42,,做完这些，她郑重地将文件袋与便签交到新人的手上。,Then she solemnly gives the envelope and the note to the rookie.,После этого она торжественно вручила пакет и записку новичку.
+line-44,公证所职员,时间紧急，我需要你现在立刻就出发，务必要在今天之内把这份文件送到这个地址。,Time is of the essence. Deliver this document to this address today. You'll need to leave immediately.,Времени в обрез. Ты должен выйти прямо сейчас и во что бы то ни стало доставить документ по этому адресу сегодня же.
+line-45,公证所职员,到时候会有人在这里接应，把东西交给对方就行了。,There will be someone there to receive it.,Там тебя встретят. Просто передай пакет.
+line-47,里凯莱,前辈，这份文件是……,This is...,"Старшая, этот документ..."
+line-49,公证所职员,我不能说。一个合格的执行者必须得学会保守秘密。,I can't tell you. Discretion is crucial for an executor.,Я не могу сказать. Настоящий исполнитель умеет хранить тайны.
+line-50,公证所职员,但我可以告诉你，这个任务非常重要，这个文件袋中的内容……有能够令整个拉特兰城陷入动荡的力量……！,But I can tell you that this is an important mission. The contents of the document could throw all of Laterano into chaos.,"Но могу сказать одно: миссия очень важна. То, что в этом пакете... обладает силой, способной погрузить весь Латерано в смуту...!"
+line-52,里凯莱,……令整个拉特兰城陷入动荡……,Throw all of Laterano into chaos...,...Погрузить весь Латерано в смуту...
+line-54,里凯莱,（真的假的……）,(Seriously?),(Неужели...)
+line-56,公证所职员,没错。,Yes.,Да.
+line-58,里凯莱,等等，前辈！这么重要的任务，真的可以交给我这样的新人吗？,But I'm new on the job. Is this really a task I should be entrusted with?,"Погодите, старшая! Можно ли доверять такую важную миссию новичку вроде меня?"
+line-59,里凯莱,这、这是不是还是前辈亲自来比较好……,"Isn't it more suited to a veteran, like you...?","М-Может, лучше, если вы сами...?"
+line-61,公证所职员,不，我还有其他紧急任务，所以只能交给你了。,"Unfortunately, I have other urgent matters to attend to. You're the only one I can count on.","Нет. У меня есть другие срочные дела, поэтому выбор пал на тебя."
+line-62,公证所职员,你能通过公证所的选拔，就已经证明了自己有足够的实力，现在正是需要你发挥实力的时候！,You passed the Notarial Hall's entrance exam. You've proven your mettle. Now it's time to show it.,"Ты прошёл отбор в нотариальную палату — значит, у тебя достаточно способностей. Сейчас как раз то время, когда их нужно проявить!"
+line-64,里凯莱,……这算是公证所的转正考核吗？,Is this how promotion exams work in the Notarial Hall?,"...Это что, экзамен на постоянную работу в палате?"
+line-66,公证所职员,考核？,Promotion exam?,Экзамен?
+line-67,公证所职员,嗯……也算是吧，只要能完成这个任务，里凯莱你就会是一个合格的执行者了！,"Er, well, yes! Complete this mission, and you'll be a proper Executor!","М-м... вроде того. Выполнишь миссию — и станешь настоящим исполнителем, Рикеле!"
+line-69,里凯莱,我明白了……,Okay...,Понятно...
+line-70,里凯莱,既然前辈都这样说了，我现在就出发。,"I guess I'll set out now, if you put it that way.","Раз старшая так говорит, я отправляюсь сейчас."
+line-72,公证所职员,嗯，务必要一路小心！,Take care!,Да. Да будет осторожен в пути!
+line-74,里凯莱,哈哈，我尽量……,I will... try...,"Ха-ха, постараюсь..."
+line-81,公证所职员,祝你好运啊，新人。,"Good luck, rookie.","Удачи, новичок."
+line-94,里凯莱,（这个地址……看起来应该是在城郊。）,(This address is in the outskirts.),"(Этот адрес... кажется, в пригороде.)"
+line-96,里凯莱,（理论上来说，穿过这条大街，然后一路顺着主路走是最快捷的。）,(The fastest way would be to go straight down this street and just keep going.),"(Теоретически быстрее всего пройти по этой улице, а потом всё время по главной дороге.)"
+line-97,里凯莱,（不过在那之前……）,"(Before that, though...)",(Но перед этим...)
+line-103,闲聊的路人,你听说了吗？司提望区开了一家新店，据说卖的是全城最好吃的甜甜圈！,Did you know? There's a new shop in Pagus Stevonus. They say it sells the best donuts in town!,"Слышал? В квартале Стевона открылась новая лавка. Говорят, там лучшие пончики во всём городе!"
+line-104,闲聊的路人,我今早特地排队去买了两个，你尝尝！,I got in line in the morning and bought two. Try it out!,Я сегодня утром специально постоял в очереди и купил два. Попробуй!
+line-110,闲逛的路人,啊，这家我吃过，确实还可以，不过嘛……,"Ah, I've tried it before. It's not bad, but...","А, я уже пробовал. Неплохо, но..."
+line-112,里凯莱,……,......,...
+line-114,闲聊的路人,不过什么？别卖关子了，快告诉我啦！,But what? Are you going to keep me guessing?,"Но что? Не тяни, говори!"
+line-116,闲逛的路人,比起新开的那家店，在我心里达利安大叔做的甜甜圈那才是一绝呢！,Old Darian's donuts are the best. Even better than the new shop.,"По-моему, пончики дяди Дариана куда лучше, чем в этой новой лавке!"
+line-117,闲逛的路人,吃过一次就忘不了那味道了……,"I tried it once, and I could never forget it.",Один раз попробуешь — и уже не забудешь...
+line-119,闲聊的路人,真有这么厉害？我可不相信。,Really? I don't believe you.,Правда так хорошо? Не верю.
+line-120,闲聊的路人,这边这位小哥，你也帮忙尝尝这个甜甜圈，是不是你吃过最好吃的？,"Hey, man, try this donut! I guarantee it's the best you've ever had.","Эй, парень, попробуй и ты этот пончик. Может, он и правда самый вкусный, что ты ел?"
+line-122,里凯莱,呃，问我吗？,Who? Me?,"Э-э, меня?"
+line-123,里凯莱,不好意思，我赶时间，两位还是找其他人试吃吧。,"Sorry, I'm in a hurry. Ask someone else.","Простите, я спешу. Попросите кого-нибудь другого."
+line-125,闲逛的路人,哎，别走啊！,Hey! Wait up!,"Эй, не уходи!"
+line-127,闲聊的路人,不会占用你多少时间的……,It won't take long...,Это займёт всего минуту...
+line-129,里凯莱,……,......,...
+line-134,,实习执行者的手下意识地动了动，但很快又放了下来。,"The executor-in-training's hand moves instinctively, but he drops it back down.","Рука стажёра-исполнителя дёрнулась сама собой, но он быстро опустил её."
+line-135,,里凯莱调整了一下脸上的神情。,Richele face twitches a little.,Рикеле чуть изменил выражение лица.
+line-138,里凯莱,抱歉抱歉，我真的有急事。,"Sorry, I really am in a hurry.","Простите, простите, у меня правда срочное дело."
+line-139,里凯莱,两位，借过一下。,Excuse me.,Разрешите пройти.
+line-148,闲聊的路人,等等……！,Wait...!,По...!
+line-149,闲聊的路人,（啧，他怎么跑这么快！）,"(Damn, he's fast!)","(Чёрт, как он быстро бегает!)"
+line-151,闲逛的路人,（不能让他逃了，我们追！）,(After him! Don't let him get away!),(Не дадим ему уйти — за ним!)
+line-165,闲聊的路人,呼……呼……,*pant*...*pant*....,Фух... фух...
+line-166,闲聊的路人,我不行了……他、他跑哪去了？,I... I'm out of breath... where did he go?,Я... не могу... Куда он делся?
+line-168,闲逛的路人,哈……呼……我哪知道，这小子真能跑……,No idea... he can run...,"Ха... фух... Откуда я знаю, он и правда быстро бегает..."
+line-170,闲聊的路人,就说你那招不好使！玩什么……呼……假装闲聊蓄意接近啊！,I told you that wouldn't work... getting close to him while pretending to chat like that...,"Я же говорил, твой приём не сработает! Зачем было... фух... притворяться болтуном и подкрадываться?"
+line-171,闲聊的路人,我们刚刚就该直接上，强行拦住他把东西抢到手！,We should have stopped him and taken it by force!,Нужно было сразу схватить его и вырвать пакет силой!
+line-173,闲逛的路人,现在不是抱怨这个的时候！我……呼……我已经通知了其他人。,Now's not the time for that! I... I've notified the others.,Сейчас не время жаловаться! Я... фух... уже предупредил остальных.
+line-174,闲逛的路人,我们继续追！,After him!,Продолжаем погоню!
+line-182,里凯莱,……果然是冲着我来的吗……,So they were after me...,"...Значит, они охотились за мной..."
+line-183,里凯莱,嗯……确切地说，应该是冲着我身上的什么“东西”来的。,"Or, to be more specific, what I'm carrying.","М-м... точнее — за тем, что я ношу с собой."
+line-184,里凯莱,我身上会被盯上的东西，不管怎么想也只有这份机密文件了。,The only thing I can think of is this confidential document.,"Единственное, что может привлечь внимание, — этот секретный документ."
+line-186,里凯莱,虽然早就有心理准备，但没想到这么快就有人追上来了……奇怪，他们是怎么确定我的身份和位置的？,"I expected something, but not so soon... how did they know who I was and where I was?","Я был готов к этому, но не ожидал, что так быстро... Странно, как они узнали, кто я и где я?"
+line-187,里凯莱,听起来他们还有同伙……,It sounds like there are others...,"Похоже, у них есть сообщники..."
+line-192,里凯莱,（……！又是谁？）,(...! Who is it this time?),(...! Кто на этот раз?)
+line-197,戍卫队成员,您好，这位先生，打扰一下。,"Excuse me, Senior.","Простите, господин, можно вас на минуту?"
+line-198,戍卫队成员,刚刚我们接到公民报案，说这一带有人当街抢劫。,Someone just reported a robbery around here.,"Только что поступило заявление от гражданина — здесь, неподалёку, ограбление на улице."
+line-199,戍卫队成员,请问您有看到什么可疑人物吗？,Did you see anyone suspicious?,Вы не видели ничего подозрительного?
+line-201,里凯莱,我也只是路过，不太清楚。,"No idea, I'm just passing by.",Я просто проходил мимо. Не знаю.
+line-203,里凯莱,（这个人恰好站在我要离开的路线上，是有意的吗……？）,(Is it a coincidence that he's standing in my way?),(Он как раз стоит на моём пути — совпадение ли это...?)
+line-205,戍卫队成员,可是您是目前唯一可能目击现场的人，不好意思，请您配合一下我的工作……,"As the only potential witness right now, I must ask you to cooperate...",Но вы пока единственный возможный свидетель. Прошу вас помочь мне...
+line-207,里凯莱,抱歉，我还赶时间！,"Sorry, I'm in a hurry!","Простите, я спешу!"
+line-209,戍卫队成员,等等！,Wait!,Стойте!
+line-215,路过的修士,请留步！,Excuse me!,Погодите!
+line-216,路过的修士,您看起来好像有什么困扰的样子，有什么是我可以帮助您的吗？,Is something troubling you? Is there anything I can help you with?,"У вас, кажется, неприятности. Чем я могу помочь?"
+line-218,里凯莱,（又来了一个。）,(Another one.),(Ещё один.)
+line-220,里凯莱,呃……要说困扰的话，现在的情况就挺让人困扰的。,Well... the situation right now is kind of troubling.,"Э-э... Если о неприятностях, то моё нынешнее положение как раз не из приятных."
+line-221,里凯莱,我真的还赶时间，两位如果没什么其他事情的话，我就不奉陪了。,"Sorry, but I really have to be going.","Мне правда нужно идти. Если у вас больше нет дел, я пойду."
+line-226,戍卫队成员？,站住！,Hold it right there!,Стоять!
+line-228,路过的修士？,不能让你就这么走掉呢。,We can't let you go.,Мы не можем просто отпустить тебя.
+line-232,里凯莱,……啊哈哈，这是什么意思啊两位……,Er... what do you mean?,"...А-ха-ха, что это значит, господа...?"
+line-237,路过的修士？,别装傻了，我们的目标你心里应该很清楚吧？,No need to play dumb. You know what we're after.,"Не притворяйся. Ты и так знаешь, что мы ищем."
+line-238,路过的修士？,把你手上的东西交出来！,Hand it over!,"Отдай то, что у тебя в руках!"
+line-242,里凯莱,（哎呀，这真是……来者不善啊。）,"(Well, well, well... what do we have here?)",(Ого... вот это поворот. Они явно не с добрыми намерениями.)
+line-243,里凯莱,（但是奇怪，他们的神情里没有太多敌意。这个任务到底……）,"(On the other hand, I don't sense any real hostility in their expression. What is going on with this mission?)",(Но странно — в их лицах не так много злобы. Что за миссия эта...)
+line-245,里凯莱,唉，不管怎么说，这也是我在新职场的头一个任务……,"Well, it's my first ever job...","Ладно, так или иначе, это моё первое задание на новом месте..."
+line-246,里凯莱,可不能就这么搞砸了。,I can't screw it up.,Нельзя всё испортить.
+line-251,戍卫队成员？,要动手吗？,Do we do it?,Начинаем?
+line-252,戍卫队成员？,那就让我见识一下公证所执行者的铳有几分准头。,Let's see what a Notarial Hall Executor's gun is like.,"Посмотрим, насколько точен выстрел исполнителя нотариальной палаты."
+line-256,里凯莱,……,......,...
+line-258,里凯莱,这个嘛，在城区内，我想还是尽量别闹得太严重吧。,Could we avoid causing so much commotion in the middle of town?,"Знаете, в городе я бы предпочёл не поднимать слишком много шума."
+line-260,里凯莱,要对付两位，空手就足够了。,Bare hands will do.,С вами двумя я справлюсь и голыми руками.
+line-272,教宗骑士,里凯莱，这段时间你在戍卫队的表现我都了解了。,I've reviewed your Pontifica Cohors record.,"Рикеле, я ознакомился с твоими результатами в Понтификальной когорте за это время."
+line-273,教宗骑士,作为士兵来说，你的成绩非常优秀。,You've proven to be an outstanding soldier.,Как солдат ты проявил себя превосходно.
+line-275,里凯莱,感谢阁下的夸奖。,Gratias.,Благодарю за похвалу.
+line-277,教宗骑士,……只做个士兵，你就满足了吗？,Are you satisfied with being just that?,...Тебя устраивает быть просто солдатом?
+line-279,里凯莱,呃，阁下的意思是……？,What do you mean?,"Э-э, что вы имеете в виду...?"
+line-281,教宗骑士,你确实把自己的工作完成得很好，但我们拉特兰并不缺少一位士兵。,"You've done your job well, but one soldier more or less makes no difference to Laterano.","Ты и правда хорошо справляешься, но Латерано не нуждается ещё в одном солдате."
+line-282,教宗骑士,我们不是因为想要一位士兵，才把你从那个叙拉古的边境小镇带回拉特兰。,We didn't bring you back from that Siracusan town because we wanted a soldier.,"Мы привезли тебя в Латерано из того пограничного городка в Сиракузе не ради того, чтобы получить ещё одного солдата."
+line-284,里凯莱,……,......,...
+line-286,教宗骑士,在你看来，拉特兰如何？,What do you think of Laterano?,Что ты думаешь о Латерано?
+line-288,里凯莱,……拉特兰城……很好。,It... it's a fine place.,...Латерано... хороший город.
+line-289,里凯莱,比我想象中的还要好数倍，不仅是生活富足这方面，还有……嗯，这里存在某种秩序，大家都在其下有序地生活。,"Much better than I expected, in fact. Not just the prosperity... but also a certain order that permeates everyone's lives.","Он намного лучше, чем я ожидал. Не только достатком — но и... ну, здесь есть некий порядок, и все живут по нему, не нарушая."
+line-291,教宗骑士,你指的是我们的戒律？,Our Commandments?,Ты имеешь в виду наши Заповеди?
+line-293,里凯莱,我想应该是的。,I guess.,"Наверное, да."
+line-294,里凯莱,虽然经常能看到有人想炸掉街边的什么装饰，大家还很喜欢围观，但这好像也不是什么坏事。,"Sometimes people want to blow up decorations on the streets, and people like to watch it, but that's not such a bad thing.","Хотя здесь часто можно увидеть, как кто-то пытается взорвать какое-нибудь украшение на улице, а вокруг собирается толпа зрителей — но, кажется, в этом нет ничего плохого."
+line-296,里凯莱,我的意思是……,What I mean is...,Я хочу сказать...
+line-298,里凯莱,不是那种会有人死，会有人受伤，会整条街乱成一团让人无法生活的那种坏事。,"Not the kind of bad thing where people get hurt, people die, and even those who aren't hurt or dead see their lives destroyed.","Не плохо в том смысле, когда гибнут люди, когда ранят, когда целая улица погружается в хаос и жить становится невозможно."
+line-299,里凯莱,我很喜欢这里。,I like this place.,Мне очень нравится здесь.
+line-313,里凯莱,（……到这里应该就没问题了。）,"(Okay, now I should be fine.)","(...Наверное, дальше всё будет хорошо.)"
+line-314,里凯莱,（把人塞进垃圾桶应该没什么问题吧？至少人都还活着，嗯，应该没事……）,"(I can stuff someone into a trash bin, right? As long as they're alive, right? Yeah, I'm sure that's cool...)","(Наверное, можно запихнуть его в мусорный бак? Они же живы, да? Да, наверное, всё в порядке...)"
+line-316,里凯莱,（又是机密任务，又是拦路抢夺……哈哈，这难道算是真正的拉特兰人的生活？）,"(Secret mission, robbers in the middle of the street... is that what life in Laterano is like?)","(Секретная миссия, грабители на улице... ха-ха, неужели это и есть жизнь настоящего жителя Латерано?)"
+line-318,里凯莱,唉……,Wow...,Ох...
+line-320,里凯莱,（这才是入职的第一个任务，就出了这么多事……）,"(First mission ever, and it's a hot mess...)",(Первое задание — и столько всего случилось...)
+line-321,里凯莱,（不然还是去求求教宗骑士阁下，让我转回戍卫队吧。）,(Maybe I could get a transfer back to the Pontifica Cohors.),"(Может, попросить апостольского рыцаря перевести меня обратно в когорту.)"
+line-323,里凯莱,（赶快把东西送到，然后就……嗯？）,"(Get the stuff to the destination, and then... hm?)","(Доставлю документ, и тогда... мм?)"
+line-330,里凯莱,……居然又有人来了吗。,Another one.,...Опять кто-то пришёл.
+line-332,紧张的青年,站、站住！,S-Stop right there!,С-Стой!
+line-333,紧张的青年,我不能让你通过这里……呃，不，那个，总之站住！,"You shall not pass... er, well, just stop!","Я не дам тебе пройти... э-э, нет, в общем, стой!"
+line-334,紧张的青年,把那个东西交出来！,Hand it over!,Отдай этот пакет!
+line-336,里凯莱,（……嗯？）,(Hm?),(...Мм?)
+line-338,里凯莱,（看不出太多专业锻炼过的痕迹，作为劫道者来说，这种表现不太合格。）,(No sign of professional training. Not what you would expect from someone trying to rob an executor.),(Никаких признаков профессиональной подготовки. Для грабителя — слабовато.)
+line-340,里凯莱,（难道说这也是一种伪装？总觉得有点不对劲……）,(Is this a disguise in itself? Something doesn't feel right...),"(Может, это тоже маскировка? Что-то не так...)"
+line-342,里凯莱,不好意思，请问你指的是……？,"Pardon me, but what do you mean?","Простите, о чём вы...?"
+line-344,紧张的青年,当然是你手上的那个文件袋！,The envelope in your hands!,"О том пакете у тебя в руках, конечно!"
+line-346,里凯莱,如果你想要的是这个文件袋，不好意思，我不能答应。,This one? I'm afraid I can't assent to handing it over.,"Если ты хочешь этот пакет — боюсь, я не могу его отдать."
+line-348,里凯莱,这是我的职责所在，还请你理解……,"It's my job, after all.",Это мой долг. Прошу понять...
+line-350,紧张的青年,……我也有必须要这么做的理由……,"Well, I can't back off either...","...У меня тоже есть причины, почему я должен это сделать..."
+line-351,紧张的青年,如果你不主动交出来的话，那我只好动手了！,"If you won't hand it over, then I'll have to take it by force!","Если не отдашь сам, придётся взять силой!"
+line-361,里凯莱,哎！一言不合就动手可不好……！,Hey! Violence is bad!,Эй! Нехорошо сразу хвататься за кулаки...!
+line-373,紧张的青年,嘶……！放开我！,Argh... let go of me!,Ах...! Отпусти!
+line-375,里凯莱,抱歉，不可以。,I'm afraid I can't.,"Прости, но нет."
+line-376,里凯莱,你刚刚进攻的动作不太标准，下盘不稳，力道也不足。,"Your form was messy. Your footwork was poor, and the delivery was sloppy.","Твоя атака была нелепой: стойка шаткая, удара не хватило."
+line-378,里凯莱,我听说……拉特兰的基础教育课程里应该有格斗这一门课？兄弟，你是怎么毕业的？,I thought self-defense was part of compulsory Lateran education. How did you graduate?,"Я слышал, в латеранской базовой школе есть предмет единоборства? Брат, как ты вообще выпустился?"
+line-380,紧张的青年,只要及格就行了啊！我又不想从事什么危险行业……！,I passed the class! It's not like I'm working any dangerous jobs...,Мне хватило «удовлетворительно»! Я же не собирался работать где-то опасно...!
+line-381,紧张的青年,你快松手！,Let me go!,Отпусти меня!
+line-383,里凯莱,不想从事危险行业？,Not working any dangerous jobs?,Не собирался работать в опасной сфере?
+line-384,里凯莱,这话在你试图打劫一个执行者被抓现行之后说，可能有点缺乏说服力……,I would say trying to rob an executor is plenty dangerous.,"После того как ты попытался ограбить исполнителя и тебя поймали, это звучит не особенно убедительно..."
+line-386,里凯莱,这样吧，你告诉我是谁派你还有其他人来抢我手上的东西，我就放开你，如何？,"How about this: You tell me who sent you, and who else is involved, and I let you go?","Давай так: скажешь, кто подослал тебя и остальных, и я тебя отпущу. Как?"
+line-388,紧张的青年,这……不行！,I-I can't!,Я... не могу!
+line-389,紧张的青年,我不能告诉你，你根本不知道你手上拿着的是什么……,I can't tell you. You don't know what you're dealing with...,"Я не скажу. Ты даже не понимаешь, что держишь в руках..."
+line-391,里凯莱,据说是有“令整个拉特兰城陷入动荡的力量”的什么东西。,I heard it was something that could 'throw all Laterano into chaos.',"Говорят, там что-то, обладающее «силой, способной погрузить весь Латерано в смуту»."
+line-392,里凯莱,我猜，或许是什么武器的制造图纸之类的？,Some sort of weapon blueprint?,"Думаю, может, это чертежи какого-то оружия?"
+line-394,紧张的青年,要这么说也没错……,You could say that...,"В принципе, можно и так сказать..."
+line-395,紧张的青年,总之你死心吧，我是什么都不会说的！,"Anyway, I'm not talking! Don't even bother!","В любом случае, откажись от мысли — я ничего не скажу!"
+line-397,里凯莱,……,......,...
+line-408,教宗骑士,你说得不错，这正是拉特兰有别于其他国家之处。,You're right. This is what sets Laterano apart from the rest.,Ты прав. Именно этим Латерано отличается от других стран.
+line-409,教宗骑士,你说拉特兰如此特殊，那么，你自己又如何？,You said Laterano was special. What about yourself?,"Ты говоришь, Латерано особенный. А ты сам?"
+line-411,里凯莱,我？,Me?,Я?
+line-412,里凯莱,我是个萨科塔，也……算是个拉特兰人？,I'm Sankta... so I guess I'm Lateran?,"Я санкта, и... наверное, я тоже житель Латерано?"
+line-414,教宗骑士,这个理由不足够。,That's not enough.,Этого недостаточно.
+line-415,教宗骑士,……唔，去公证所吧，里凯莱，我会帮你开一份推荐信。,Let's go to the Notarial Hall. I'll write you a letter of recommendation.,"...М-м, иди в нотариальную палату, Рикеле. Я напишу тебе рекомендательное письмо."
+line-416,教宗骑士,不仅是做一个旁观者，你该去亲身体验一下，什么才是真正的拉特兰人的生活。,Be more than a spectator. Experience the life of a true Lateran yourself.,"Не оставайся наблюдателем. Узнай на себе, что значит быть настоящим жителем Латерано."
+line-418,里凯莱,真正的拉特兰人的生活……,The life of a true Lateran...,Жизнь настоящего жителя Латерано...
+line-420,教宗骑士,没错。,Yes.,Да.
+line-421,教宗骑士,我确定你会喜欢的。,I think you'll like it.,"Думаю, тебе понравится."
+line-434,里凯莱,唉……,*sigh*...,*Вздох*...
+line-436,里凯莱,我已经在路上耽误了太久，必须要抓紧时间了。,I've already been delayed too long.,Я слишком задержался в пути. Пора торопиться.
+line-437,里凯莱,如果不是在拉特兰，本应该能够更加方便快捷地解决麻烦……我真的不是很喜欢太费劲的处理方式来着。,Things would be much easier if we weren't in Laterano... I'm not sure I like all this complicated stuff.,"Если бы мы были не в Латерано, я бы решил эту проблему гораздо проще и быстрее... Я не очень люблю, когда всё приходится делать так сложно."
+line-439,紧张的青年,……你、你这话是什么意思？,Wh-What do you mean?,...Ч-Что ты этим хочешь сказать?
+line-441,里凯莱,我的意思是……,What I mean is...,Я хочу сказать...
+line-448,,见习执行者抽出腰间的铳，满脸遗憾地将其抵在对方的眉心。,The trainee executor draws the gun from his waist and regretfully presses it against the youth's forehead.,Стажёр выхватил пистоль из кобуры и с видимым сожалением прижал его ко лбу юноши.
+line-449,里凯莱,今天天气真好，我本来真不想这么干的。,It's such a beautiful day. I didn't want to have to do this.,Какой прекрасный день. Я правда не хотел этого делать.
+line-462,公证所职员,您好，这里是中庭公证所，请讲。,"Hello, this is the Notarial Hall.","Алло, нотариальная палата Атриума. Слушаю."
+line-463,公证所职员,之前的那件委托吗？现在我们的执行者正在执行任务的途中，今日内将会完成委托人的请求。,The commission? Our executor is on it. It will be done today.,Тот заказ? Наш исполнитель уже в пути и сегодня выполнит просьбу клиента.
+line-464,公证所职员,……出现意外状况？,...Complications?,...Осложнения?
+line-465,公证所职员,……,......,...
+line-466,公证所职员,我明白了，我现在立刻去处理。,Understood. I will deal with it immediately.,Понятно. Я займусь этим немедленно.
+line-467,公证所职员,请您放心，虽然我们的新人才加入不久，还有不少要学习的内容，但是……,"No worries. Richele may be a rookie, and he has much to learn, but...","Не волнуйтесь. Наш новичок недавно у нас и многому ещё должен научиться, но..."
+line-468,公证所职员,我相信里凯莱，他一定可以完成任务。,I trust him. He'll complete the mission.,Я верю в Рикеле. Он обязательно справится.
+line-479,紧张的青年,——！,—!,—!
+line-480,紧张的青年,…………,............,............
+line-481,紧张的青年,……我没事……？,"...I, I'm alive?",...Я... жив...?
+line-487,紧张的青年,哇啊！要、要塌了！,Whoa! It's gonna fall!,Ой! Сейчас обвалится!
+line-488,紧张的青年,那家伙……居然用铳把承重柱打穿了？！这也太乱来了！,H-He shot through the pillar? That's crazy...,Он... он прострелил несущую колонну?! Это же безумие!
+line-489,紧张的青年,嘶……胳膊都差点被他拧断了。,He almost broke my arm...,Ах... он почти вывернул мне руку.
+line-493,紧张的青年,喂，是我。,"Hey, it's me.","Алло, это я."
+line-494,紧张的青年,我也失败了，没能拦住他。,"Sorry, I couldn't stop him.",Я тоже не справился. Не смог его остановить.
+line-495,紧张的青年,唉……早就说了，我怎么可能拦得住执行者嘛，更不要说抢东西了。,"I told you, how was I supposed to stop an Executor?",*Вздох*... Я же говорил — разве я могу остановить исполнителя? А уж тем более вырвать что-то.
+line-496,紧张的青年,不过，我们都已经这么努力了，达利安叔叔应该也会满意了吧？,"Well, I think we worked hard enough to make Old Darian happy.","Но мы так старались... Дядя Дариан наверняка будет доволен, правда?"
+line-511,里凯莱,（好险，差一点就没忍住……）,"(Whew, almost didn't hold back...)","(Ох, ещё чуть-чуть — и я бы не выдержал...)"
+line-512,里凯莱,（这里是拉特兰……不能再像之前那样干了。）,(This is Laterano. I have to do things the Lateran way.),(Мы в Латерано... Здесь нельзя действовать по-старому.)
+line-514,里凯莱,（……呼……）,(Phew...),(...Фух...)
+line-516,里凯莱,（……目的地就在这前面了。）,(Almost there.),(...До места уже совсем немного.)
+line-528,里凯莱,打扰了。,Excuse me.,Простите.
+line-531,优雅的老妇人,你好。,Salve.,Здравствуйте.
+line-533,里凯莱,（这里没有其他人了，应该没弄错吧？）,"(There's no one else here. There's no mistake, right?)",(Здесь больше никого нет. Я не ошибся адресом?)
+line-535,里凯莱,请问，您就是遗嘱的接收人……？,Are you the recipient of this will?,"Простите, вы — получатель завещания...?"
+line-538,优雅的老妇人,是的，我是。,"Yes, I am.","Да, это я."
+line-539,优雅的老妇人,谢谢你能把它送到这里来，年轻人。,Thank you for delivering it.,"Спасибо, что доставил его сюда, молодой человек."
+line-541,里凯莱,您客气了，这是我的工作。,Just doing my job.,Не стоит благодарности. Это моя работа.
+line-542,里凯莱,那么依照委托，这个文件袋请您收下。,This is the envelope I was asked to deliver.,"Тогда, по поручению, примите этот пакет."
+line-548,里凯莱,……,......,...
+line-551,优雅的老妇人,你不好奇这里面装着什么吗？,Are you not curious what's inside?,"Тебе не интересно, что внутри?"
+line-553,里凯莱,这……听说是很重要的东西。,I heard it's important.,"Это... Говорят, очень важная вещь."
+line-556,优雅的老妇人,是的，是的……是非常有价值，非常宝贵的东西……,"Yes, yes. Very important and precious...","Да, да... Очень ценная, очень драгоценная вещь..."
+line-558,里凯莱,那可能不太合适让我知道……,Is it really something I should know?,"Тогда мне, наверное, не стоит знать..."
+line-561,优雅的老妇人,啊，在我看来，一件物品珍贵与否，并不在于有多少人知道或拥有。,The value of something doesn't lie in the number of people who know it or possess it.,"Ах, по-моему, ценность предмета не в том, сколько людей о нём знают или им владеют."
+line-562,优雅的老妇人,一会等到人来齐，我就会当众宣读其中的内容。,I'll read it out once everyone is here.,"Когда все соберутся, я зачитаю содержимое при всех."
+line-564,里凯莱,当众宣读？！,You're reading it in public?!,При всех?!
+line-567,优雅的老妇人,呵呵……,Hehe...,Хе-хе...
+line-568,优雅的老妇人,年轻人，你不妨打开它看一看。,"Go ahead, open it.","Молодой человек, открой и посмотри."
+line-570,里凯莱,……真的可以吗？,Are you sure?,...Можно?
+line-573,优雅的老妇人,当然。,Of course.,Конечно.
+line-575,里凯莱,……,......,...
+line-581,里凯莱,蛋一枚，配砂糖三勺，酵母少许……,"One egg, three tablespoons of sugar, yeast...","Одно яйцо, три ложки сахарного песка, немного дрожжей..."
+line-582,里凯莱,面粉一杯……枫糖两勺……,"One cup of flour, two tablespoons of maple syrup...",Стакан муки... две ложки кленового сиропа...
+line-583,里凯莱,……这是……,This is...,...Это...
+line-584,里凯莱,……一份甜甜圈的配方？,A donut recipe?,...Рецепт пончиков?
+line-587,优雅的老妇人,是的。不错的配方，对吧？,"Yes. A nice one, isn't it?","Да. Хороший рецепт, правда?"
+line-588,优雅的老妇人,我们家的那一位，当年就是拿着这张秘方来和我求婚的哦。,This is what my husband gave me when he proposed to me.,Мой покойный как раз с этим рецептом пришёл свататься ко мне.
+line-589,优雅的老妇人,那个时候，他被我的家人和好友一路围追堵截，来的时候整个人狼狈极了……,My family and friends chased him all the way. You should have seen him when he finally made it to me.,"Тогда мои родные и подруги гнались за ним по пятам. Когда он наконец добрался до меня, вид у него был ужасно жалкий..."
+line-591,里凯莱,您的丈夫……就是这次的委托人？,Your husband was the decedent?,Ваш муж... был заказчиком?
+line-594,优雅的老妇人,（轻轻点头）,(Nods),(Лёгкий кивок)
+line-595,优雅的老妇人,我们并没有孩子，当然，这对我们来说不算是什么遗憾，两人相处的日子已经足够令我感到幸福。,"We didn't have any children. Not that it was ever a problem. We were happy together, the two of us.","Детей у нас не было. Впрочем, для нас это не было горем. Нам вдвоём было достаточно счастья."
+line-596,优雅的老妇人,只是，我们都不愿让这份配方上记载的味道，在我们离开后于拉特兰消失。,But we didn't want the recipe to be lost once we're gone from Laterano.,"Только мне не хотелось, чтобы вкус, записанный в этом рецепте, исчез из Латерано после того, как нас не станет."
+line-598,里凯莱,就算是这样，也不必向执行者隐瞒内容吧……,"Was there a need to hide it from the executor too, though?",Даже так — разве нужно было скрывать содержимое от исполнителя...?
+line-599,里凯莱,现在想想，路上遇到的那些人，应该也都是安排好的吧？,"So, those people who tried to stop me were all part of the plan?","Теперь, когда я думаю об этом, те люди по дороге тоже были частью плана, да?"
+line-602,优雅的老妇人,呵呵，请你把这当做是外子最后的任性，原谅他吧。,Consider it an old man's last little game.,Хе-хе. Считайте это последней прихотью моего мужа и простите его.
+line-603,优雅的老妇人,我想，他一定以为我还不知情，想再给我一个惊喜，然后在大家的祝福之中，让这份配方得以延续吧……,"I'm sure he thought I didn't know and wanted to give me a surprise, so that the recipe could be passed on to the next generation over the sound of cheering...","Думаю, он решил, что я ничего не знаю, и хотел преподнести мне ещё один сюрприз — чтобы рецепт продолжал жить под благословениями всех присутствующих..."
+line-605,里凯莱,……,......,...
+line-608,优雅的老妇人,我做了一些甜甜圈，请尝一个吧。,"Here, have a donut.",Я испекла пончики. Попробуйте один.
+line-609,优雅的老妇人,你一定会喜欢的。,I'm sure you'll like it.,"Уверена, тебе понравится."
+line-623,公证所职员,感觉如何？,How was it?,Как впечатления?
+line-624,公证所职员,抱歉，之前没能告诉你实情，这也是委托人遗嘱的一部分。,Sorry I couldn't tell you the truth. That was part of the client's will.,"Прости, что не рассказал тебе правду. Это тоже было частью завещания клиента."
+line-626,里凯莱,前辈……,I still don't understand...,Старшая...
+line-628,里凯莱,我还是不太明白，拉特兰人为什么总会做些完全没有必要的事？,"Why do Laterans do this sort of thing, even though it's completely unnecessary?","Я всё равно не понимаю, почему жители Латерано всё время делают то, в чём нет ни малейшей необходимости?"
+line-630,公证所职员,你之前提到过自己喜欢甜食吧？当然啦，拉特兰就没几个人不喜欢的……,"You said you liked sweet stuff, just like pretty much everyone else in Laterano.","Ты говорил, что любишь сладкое? В Латерано почти все его любят..."
+line-631,公证所职员,委托人老爷子好像也听到你这么说了，所以他最后提到，希望由你来负责护送那份配方。,"The old man overheard you saying it, which was why he asked for you to deliver the recipe.","Старик-заказчик, похоже, тоже это слышал. Поэтому в конце он и попросил, чтобы именно ты доставил рецепт."
+line-632,公证所职员,如果你愿意把它学会，经常制作，那就更好了。,It would be even better if you learned it and made those donuts regularly.,А если ты выучишь его и будешь часто печь — и вовсе хорошо.
+line-634,里凯莱,……,......,...
+line-636,公证所职员,这就是拉特兰人。你要是继续干下去，今后还会遇到更多这样的事。,"That's how Laterans are. And you can expect more of this, if you stay on the job.","Это жители Латерано. Если останешься в должности, таких историй будет ещё больше."
+line-637,公证所职员,怎么样，你不喜欢这份工作吗？,Not happy about it?,"Ну что, работа тебе не нравится?"
+line-639,里凯莱,……不。,On the contrary...,...Наоборот.
+line-641,里凯莱,我很喜欢。,I love it.,Мне очень нравится.
+line-643,公证所职员,哈哈，那太好了！,Excellent!,"Ха-ха, вот и хорошо!"
+line-644,公证所职员,恭喜你顺利完成委托，新人！,"Congratulations on a job well done, rookie!","Поздравляю с успешным выполнением заказа, новичок!"

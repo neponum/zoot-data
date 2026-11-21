@@ -1,0 +1,203 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_medic2_1_1,一个涂鸦
+,,,,
+char-1,Lancet-2,Lancet-2,Lancet-2,Ланцет-2
+char-2,工程干员,工程干员,Engineering Operator,Инженерный оперативник
+char-3,酸糖,酸糖,Aciddrop,Эйсиддроп
+char-4,伊桑,伊桑,Ethan,Итан
+char-5,红豆,红豆,Vigna,Винья
+char-6,玫兰莎,玫兰莎,Melantha,Меланта
+,,,,
+line-7,,05:30 A.M. 天气/阴,05:30 A.M. \ Overcast,05:30 A.M. Погода/облачно
+line-16,Lancet-2,晚上好啊，博士。,"Good evening, Doctor.","Добрый вечер, Доктор."
+line-17,Lancet-2,当然更严格地说，现在已经不是晚上了。,"Of course, by the strictest definition, it's not evening anymore.","Хотя, если быть точной, вечер уже закончился."
+line-18,Lancet-2,你看起来真的很累，检测结果显示你至少有二十多个小时没有进入过深度睡眠——偶尔的打盹可不能算数哦。,You appear exhausted. My sensors indicate that you have not entered a state of deep sleep for at least twenty hours—and occasionally dozing off certainly cannot be counted.,"Вы выглядите очень уставшим. Датчики показывают, что вы не впадали в глубокий сон минимум двадцать часов — редкие дремоты не в счёт."
+line-19,,没办法，要处理的文件太多了。;……困。;谁让我是罗德岛的博士啊！,"No way about it. Too many files.;...Tired.;Who made me the Doctor of Rhodes Island, huh?!","Ничего не поделаешь, документов слишком много.;...Спать хочется.;Ну кто же меня сделал Доктором Родоса!"
+line-21,Lancet-2,博士的工作非常重要，不过还是那句话，必要的休息也是持续工作的保障呢。,"Your work is exceptionally important, Doctor, but it's as they say. Proper rest guarantees sustainable work.","Работа Доктора очень важна, но, как говорится, хороший отдых — залог того, что работа будет продолжаться."
+line-22,Lancet-2,医疗部门的各位也有同样的观点，所以才会经常让我跟着博士。,"All members of the Medical Department see the same way on this. That is why they frequently send me to accompany you, Doctor.","В Медицинском отделе придерживаются того же мнения, поэтому они часто отправляют меня следить за вами, Доктор."
+line-23,Lancet-2,唔……毕竟除了日常监测博士的生理状态，我也做不了更多了。,"Um... although, aside from daily monitoring of your physiological state, there's not much more I can do.","Мм... Впрочем, помимо ежедневного мониторинга ваших показателей, я больше ничего и не могу."
+line-24,,我身体挺好的。;……;……麻烦你了。,I'm in pretty good health.;......;...Sorry for the hassle.,Я в прекрасной форме.;......;...Простите за неудобство.
+line-26,Lancet-2,博士，我看到了哦……你左手边的杯子。,"Doctor, I noticed... the mug by your right hand.","Доктор, я вижу... чашку слева от вас."
+line-27,Lancet-2,试图用更多文件遮掩是无意义的行为。可露希尔小姐没有为我添加嗅觉模块，可我的图像解析极少出错。,"Your attempts to hide it behind the files are meaningless. Ms. Closure did not add an olfactory module to me, but my image analysis very rarely makes mistakes.","Пытаться спрятать её за ворохом бумаг бесполезно. Мисс Кложер не оснастила меня обонятельным модулем, но мой анализ изображений почти никогда не ошибается."
+line-28,Lancet-2,还是热气腾腾的……博士，你在刚才又偷偷给自己倒了一杯。,"It's still piping hot... Doctor, you poured yourself that mug in secret just now.","Она ещё горячая... Доктор, вы только что снова налили себе чашку тайком."
+line-29,Lancet-2,十五分钟前，就已经是第四杯了吧？,"Fifteen minutes ago, you were already on your fourth mug, weren't you?","Пятнадцать минут назад это была уже четвёртая, верно?"
+line-30,Lancet-2,偶尔摄入中枢神经兴奋剂是有益处的，但考虑到现在已是凌晨，我建议你……喝咖啡。,"Occasional intake of stimulants to the central nervous system can be beneficial, but considering that it is almost morning, I suggest you... drink coffee.","Изредка стимуляторы центральной нервной системы могут быть полезны, но, учитывая, что за окном уже предрассвет, я рекомендую вам... выпить кофе."
+line-31,,嗯？,Hm?,Мм?
+line-33,Lancet-2,刚刚的扫描结果显示，你的心跳速率比正常值偏高，肾上腺素水平也是。,"My sensors indicated just now that your heartrate is rather higher than average, as are your adrenaline levels.","Только что сканирование показало, что пульс у вас выше нормы. Уровень адреналина тоже."
+line-35,Lancet-2,所以……再喝咖啡啦。,Therefore... drink more coffee.,Поэтому... выпейте ещё кофе.
+line-36,Lancet-2,咦？我刚刚是怎么了……这就是大家平常说的口误吗？原来机器人也会有口误啊……,Um? What happened to me just now... Is this a slip of the tongue everyone normally makes? So robots can also have tongue slips...,"Ой? Что со мной только что... Это то, что называют оговоркой? Оказывается, роботы тоже оговариваются..."
+line-38,Lancet-2,总之，博士请多注意休息，要不然又会被医疗部干员说教的。咖啡就……喝了。,"In short, Doctor, please pay more mind to your rest, or else a Medical Department operator will lecture you again. As for your coffee... drink it.","Впрочем, Доктор, побольше отдыхайте, а то оперативники Медотдела опять начнут вас поучать. А кофе... выпейте."
+line-39,Lancet-2,……,......,......
+line-42,Lancet-2,……！啊啊！…………！！……喝咖啡！,...! Aaah! ......!! ...drink coffee!,...! А-а-а! ......!! ...выпейте кофе!
+line-43,Lancet-2,呜……,Ohh...,Ой...
+line-45,Lancet-2,完了，怎么会变成这样，博士你……喝咖啡。,"This is terrible. How could this happen to me? Doctor, can I ask that you... drink coffee?","Беда, как же так вышло... Доктор, пожалуйста... выпейте кофе."
+line-46,,好的，我正打算喝呢。;……;听起来好像逻辑不太对？,Alright. I was planning to do just that.;......;Sounds like your logic's gone kinda wrong?,"Хорошо, я как раз собирался.;......;Что-то логика здесь не сходится?"
+line-48,Lancet-2,到底是哪里出了问题……我本来打算劝阻博士的啊……,"Just where is this issue occurring...? My intent was to dissuade you, Doctor...",Где же ошибка... Я же хотела отговорить Доктора...
+line-49,Lancet-2,是逻辑模块？还是语言……,Is it my logic module? Or language...,Логический модуль? Или языковой...
+line-50,Lancet-2,呜……我不正常了……连这点小事都做不好……,Ohh... I've gone pathological... I can't even get something as minor as this right...,Ой... я сломалась... Не могу справиться даже с таким пустяком...
+line-59,工程干员,嗨，是博士啊，你起得可真早。,"Hey. Doctor, huh? You're up real early.","Йо, Доктор! Ты и правда рано встал."
+line-60,工程干员,我本来还在哀叹这周第三个早班……看到博士你这么精神，自己也没那么困了呢。,"And here I was moping about my third morning shift this week... seeing you so active, I feel a little more awake.","Я тут сетовал на третью утреннюю смену на этой неделе... но, глядя на тебя, Доктор, я и сам уже не так клонит в сон."
+line-61,工程干员,有什么我帮得上忙的吗？,Anything I can help with?,Чем могу помочь?
+line-62,,Lancet-2好像出问题了。,Lancet-2 seems to be having issues.,"Ланцет-2, кажется, не в порядке."
+line-65,工程干员,嗯？,Hm?,Мм?
+line-67,Lancet-2,呜……我的语言模块坏了。,Ohh... my language module's broken.,Ой... у меня сломался языковой модуль.
+line-69,工程干员,诶，这样吗？这可不太常见。,"Jeez, is that right? Well, you don't see that every day.","Ого, правда? Это нечасто бывает."
+line-70,工程干员,Lancet-2每周都会来工程部门进行一次系统检测，上一次不就是在昨天？还是前天？,"Don't you get system checkups every week with Engineering? Last one was yesterday, wasn't it? Or was it the day before?",Ланцет-2 каждую неделю приходит в Инженерный отдел на проверку систем. Прошлая была вчера? Или позавчера?
+line-71,工程干员,当时还好好的啊。这还都是可露希尔老大亲自负责的。,You were all fine then. Closure made sure of it herself. She's the boss.,Тогда всё было в порядке. И проверяла сама главная — Кложер.
+line-72,工程干员,为什么会突然出问题呢？,What would cause a random malfunction?,Почему же вдруг сломалось?
+line-74,Lancet-2,我也不知道啊……听说我这个型号的机器人通常使用年限可以达到十年以上。,I do not know either... I have heard the model of robot I am typically has a ten year service lifespan.,"Я не знаю... Говорят, роботы моей модели обычно служат больше десяти лет."
+line-75,Lancet-2,现在明明才两年三个月零五天而已啊。,"Currently, I'm only two years, three months and five days.","А мне пока только два года, три месяца и пять дней."
+line-77,工程干员,呃……也不必太紧张？,Uh... no need to be so nervous?,"Э-э... Может, не стоит так переживать?"
+line-78,工程干员,实话说，哪怕我们都因为过劳而早早退休了，你应该还能保有青春活力。,"To tell the truth, even when we're all retired early from overwork, you should still be as youthful as ever.","Честно говоря, даже когда мы все уйдём на пенсию раньше времени от переработок, ты всё равно останешься такой же молодой."
+line-80,Lancet-2,多谢安慰，虽然我知道你只是出于好心。,"Thank you for the consolation, even if I know it's only out of kindness.","Спасибо за утешение, хоть я и знаю, что ты из лучших побуждений."
+line-81,,……还是尽快检查看看吧？,"...An inspection ASAP, then?","...Может, проверить её как можно скорее?"
+line-89,工程干员,我的水平肯定比老大差远了……,"I'm nowhere near my boss's level, for sure...","Я, конечно, намного хуже главной..."
+line-90,工程干员,不过这问题也太简单了吧？！只是一块临时消音组件而已。而且就这么草草地贴在背后，甚至角度都是歪着的。,"But this one's a little too simple, isn't it?! It's just an ad-hoc silencer module. And someone did a real sloppy job of sticking it on your back. The angle's crooked, even.","Но это слишком просто! Всего-навсего самодельный шумоподавляющий модуль. И приклеен кое-как, даже угол кривой."
+line-92,Lancet-2,消音组件？我没有听说过类似的东西。,A silencer module? I have never heard of such a module.,Шумоподавляющий модуль? Я о таком не слышала.
+line-94,工程干员,哦，这事只有工程部的老干员才知道。最早可露希尔老大在改制你们这批作业平台的时候，那个，语言库出了一些问题。,"Oh, only the old operators at Engineering would know about this. Way back when Closure was overhauling your operation platforms, your, uh, language libraries had some issues.","О, это знают только старые оперативы Инженерного отдела. Когда Кложер давным-давно переделывала вашу партию рабочих платформ, у вас, э-э, с языковой базой возникли проблемы."
+line-95,,什么问题？,What issues?,Какие проблемы?
+line-98,工程干员,咳咳，有人不小心把一批泰拉各地粗口集锦录入给了Castle-3。,Ahem. Somebody carelessly input a collection of top swears from all over Terra into Castle-3.,Кхм. Кто-то случайно загрузил в Кастл-3 сборник ругательств со всей Терры.
+line-99,,这场面有点难以想象。;……;真的是不小心吗？,It's kind of hard to picture that.;......;You sure that was carelessness?,Трудно себе представить.;......;Точно случайно?
+line-102,工程干员,内容有点多，又经过了语言处理模块的重新组合，彻底删除需要花时间。,"They were a little too comprehensive. We reassembled the expletive content in the processing module, and a complete deletion requires some time.","Материала оказалось много, к тому же он перемешался в модуле обработки речи. Полностью удалить его — дело времени."
+line-103,工程干员,所以我们才临时做了这样一个小模块，使用起来非常简便，只要像这样，打开，靠近，电流产生作用——,"So in the interim, we came up with these little modules. Using 'em's a cinch. Just turn it on like this, get up close, get the current flowing—","Поэтому мы на скорую руку и сделали эти маленькие модули. Пользоваться ими просто: вот так — включил, поднёс, ток сработал —"
+line-104,工程干员,不想让人听见的词语就会被干扰成无法被听到的频率。,And any words you don't want people hearing get jammed into inaudible frequencies.,"— и слова, которые не должны быть слышны, уходят на частоту, которую не расслышать."
+line-105,工程干员,这样的话，虽然可能暂时影响表达效果，但起码可以避免某些其他部门的干员对Castle-3产生不必要的意见。,"That way, effectiveness of expression might've suffered for the time being, but at least we could avoid Castle-3 generating unnecessary complaints from certain other departments.","При этом выражение мысли может немного пострадать, но зато Кастл-3 не вызывает лишних нареканий у оперативников из других отделов."
+line-106,工程干员,毕竟怎么说，打从那会儿起，罗德岛的小孩子就不少了哈哈。,"Put it this way: ever since then, Rhodes Island has had a lot of little kiddos aboard, haha.","В конце концов, с тех пор на Родосе появилось довольно много маленьких детей, ха-ха."
+line-108,Lancet-2,啊……可是……为什么这个组件会到我身上呢？,"Ah... Though, well... why did this module end up on me?",А... Но... почему этот модуль оказался именно на мне?
+line-109,Lancet-2,我可以保证自己的语言库里并没有不该存在的词句，三十秒前我刚自我检测了一遍。,I am able to guarantee that there are no words which should not exist within my language library. I ran a self-test on myself just thirty seconds ago.,"Могу заверить: в моей языковой базе нет слов, которых там быть не должно. Я проверила себя тридцать секунд назад."
+line-111,工程干员,因为现在设置的消音对象也不是什么粗口。,Because your silencer isn't targeting any kind of swears.,Потому что сейчас он настроен не на ругательства.
+line-112,工程干员,嗯……好像有人把“不要”两个字改成了最新的消音词。这和博士刚才描述的情况是一致的吧？,"Hm... seems someone entered the phrase 'do not' to the list. That checks out with what you just described, Doctor, right?","Мм... Кажется, кто-то записал в список слово «не надо». Это совпадает с тем, что вы описали, Доктор, верно?"
+line-113,,Lancet-2肯定是想对我说“不要喝咖啡”。,Lancet-2 definitely wanted to tell me 'do not drink coffee.',Ланцет-2 наверняка хотела сказать мне: «Не пейте кофе».
+line-116,工程干员,咦等等，在组件背后我发现了什么……一块口香糖？,"Yeah, hold up, I just noticed something on the back of the module... a piece of chewing gum?","Ой, погоди... Что это я нашёл сзади на модуле... Жвачка?"
+line-117,工程干员,有人把组件从我们这里偷偷拿了出去，重新设置了目标词语，然后用口香糖黏在Lancet-2身上？,"Someone sneaked a module out of our place, set up new target vocab, then used gum to stick it to Lancet-2?","Кто-то стащил модуль у нас, перенастроил нужные слова и приклеил его к Ланцет-2 жвачкой?"
+line-118,工程干员,非常聪明、非常便利的改装，也确实会生效。问题是，谁会这么做呢？,"Real smart. Real easy mod, and one that'd sure as hell kick in. Question is, who'd do this?","Очень умно, очень удобно — и действительно сработало. Вопрос: кто бы так поступил?"
+line-126,Lancet-2,博士，有一句话我一直没说。,"Doctor, there's something I've been declining to mention.","Доктор, я всё не говорила вам одну вещь."
+line-127,Lancet-2,刚才在工程部我就有感觉到第三个人的存在。,"In the Engineering Department just earlier, I sensed the presence of a third person.",Ещё в Инженерном отделе я чувствовала присутствие третьего человека.
+line-128,,我们不就是三个人？,Aren't we three people?,Нас же трое?
+line-130,Lancet-2,博士，很高兴你把我也计算在内，可惜我说的是第三位人类。,"Doctor, I'm very happy that you count me along with you, but I unfortunately mean a third human.","Доктор, приятно, что вы считаете и меня, но я имела в виду третьего человека — из людей."
+line-134,酸糖,……,......,......
+line-135,酸糖,嗨呀，被发现了啊。,"Hah, yeah, I'm busted.","Ну вот, меня раскусили."
+line-137,Lancet-2,你好啊，酸糖干员。,"Greetings, Operator Aciddrop.","Здравствуйте, оперативник Эйсиддроп."
+line-138,Lancet-2,但是，刚刚我检测到的似乎不是……唔，算啦，没关系。,"Though what I detected earlier didn't seem to be... oh, never mind. It doesn't matter.","Впрочем, то, что я зафиксировала раньше, кажется, было не... Мм, неважно."
+line-139,Lancet-2,对了，今天份的检查还没有做。请稍等一下，等我再确认一次博士的数据，我就帮你扫描。,"Oh, right, your checkup today is still pending. Please wait a moment. Once I have reconfirmed the Doctor's data, I will perform your scan for you.","Ах да, сегодняшний осмотр вы ещё не проходили. Подождите немного — я ещё раз проверю данные Доктора и тогда просканирую вас."
+line-140,Lancet-2,还有哦，请不要在生活区使用滑板。时间还早，容易打扰到别的干员。,"Additionally, please do not utilize your skateboard within living areas. It's still early, and you will be liable to disturb other operators.","И ещё: пожалуйста, не катайтесь на скейтборде в жилой зоне. Время раннее, можно потревожить других оперативников."
+line-141,Lancet-2,万一发生碰撞，还会造成不必要的身体伤害。,"On the off-chance that a collision occurs, you may bring about further unnecessary bodily harm.","А если случится столкновение, это может привести к ненужным травмам."
+line-143,酸糖,……看来你已经恢复了。,...Guess you're running regular again.,"...Похоже, ты снова в норме."
+line-145,Lancet-2,嗯？,Hm?,Мм?
+line-147,Lancet-2,博士，我不确定是不是我的理解出了问题，酸糖干员的意思好像是……,"Doctor, I'm not sure whether my understanding is faulty, but Operator Aciddrop seems to be implying that...","Доктор, не знаю, поняла ли я правильно, но оперативник Эйсиддроп, кажется, имеет в виду..."
+line-148,,她应该就是那个人。,She's probably the one.,Это наверняка она.
+line-151,Lancet-2,酸糖干员，是你给我贴上了消音组件么？,"Operator Aciddrop, was it you that adhered a silencer module to me?","Оперативник Эйсиддроп, это вы приклеили мне шумоподавляющий модуль?"
+line-153,酸糖,……,......,......
+line-154,酸糖,唔，算是吧。,"Yeah, I guess it was.","Мм, вроде того."
+line-155,酸糖,就是我干的。,I did the deed.,Это я.
+line-157,Lancet-2,从你设置的消音对象来看，你不希望我对你说出“不要”这个词语吗？,"Judging from your configuration of the silencer's targeting, do you not wish for me to direct the words 'do not' at you?","Судя по тому, как вы настроили список, вы не хотели, чтобы я говорила вам «не надо»?"
+line-159,酸糖,怎么说呢……,How do I lay it out...?,Как сказать...
+line-160,酸糖,我这人平常自由惯了，也没什么人会管着我，Lancet-2你这样……嗯，会有点麻烦。,"I'm used to living free, see, nobody on my back. So types like you... uh, kinda jam me up a little.","Я привыкла быть свободной, меня никто не контролирует. А тут ты, Ланцет-2... ну, это немного напрягает."
+line-162,Lancet-2,啊？是嫌麻烦吗？抱歉，我并不希望给你带来这种负面情绪。,"Oh, am I being bothersome? I'm sorry, it's never my intent to rouse such negative emotions.","Ах? Я вам мешаю? Простите, я не хотела вызывать у вас такие неприятные чувства."
+line-163,Lancet-2,酸糖干员来到罗德岛以后，病情正在逐渐稳定。,"Operator Aciddrop, ever since your arrival at Rhodes Island, your condition has been gradually stabilizing.","С тех пор как вы прибыли на Родос, ваше состояние постепенно стабилизируется."
+line-164,Lancet-2,我会向凯尔希医生报备一下，尽量减少检查次数。,I'll report to Dr. Kal'tsit that we can reduce your checkup frequency.,"Я доложу доктору Кальцит, что частоту осмотров можно сократить."
+line-166,酸糖,……不是这个意思。,...Not really what I meant.,...Не в этом дело.
+line-168,Lancet-2,好的，我明白了。,"Alright, I understand.",Понятно.
+line-169,Lancet-2,酸糖干员并不是觉得检查很麻烦，而是认为我很麻烦吧？,"Operator Aciddrop, it's not checkups that you feel are bothersome, but rather myself, correct?","Оперативник Эйсиддроп считает не осмотры обременительными, а меня, да?"
+line-170,Lancet-2,这也不是什么很难解决的问题。,This isn't a difficult problem to address.,Это легко исправить.
+line-171,Lancet-2,虽然医疗部门的大家都很忙，但大家都很关心干员尤其是刚来罗德岛的年轻干员们的身体健康。我拜托他们换人来检查就可以啦。,"Medical Department staff may all be very busy, but they care very much about the health and vitality of our operators, especially those of younger age who have just recently arrived. I can simply request them to assign someone else to your checkups.","Хотя в Медотделе у всех много работы, им не всё равно на здоровье оперативников — особенно молодых, недавно прибывших. Я просто попрошу назначить другого."
+line-172,,Lancet-2听起来有点伤心。,"You sound a little hurt, Lancet-2.","Ланцет-2, ты звучишь немного грустно."
+line-174,Lancet-2,没有啊博士，请不要误导新干员哦，我毕竟只是个机器，并不会有什么伤心的情绪。,"Not at all, Doctor. Please do not mislead our new operators. I'm only a robot, after all, and would never feel any sort of grievance.","Нет, Доктор, не вводите новеньких в заблуждение. Я всё-таки машина и не испытываю грусти."
+line-175,Lancet-2,呜，这么看的话，我确实挺喜欢说不要的……,"Ohh, now that I look at it, I really do tend to tell people not to do things...","Ой... Если посмотреть, я и правда часто говорю «не надо»..."
+line-178,酸糖,请不要这么说。,Don't say that.,Не говори так.
+line-180,Lancet-2,啊？,Oh?,А?
+line-182,酸糖,我没有希望换人。,I don't wanna get someone different.,Я не просила никого менять.
+line-183,酸糖,你挺好的。机器人有什么不好，很酷啊不是嘛。,"You're good. What's wrong with robots? Robots are rad as hell, right.","Ты хорошая. Что плохого в роботах? Это же круто, правда?"
+line-185,Lancet-2,……谢谢。,...Thank you.,...Спасибо.
+line-187,酸糖,唉，那个，怎么说……,"Uh, it's like, how do I put it...?","Э-э, как бы это сказать..."
+line-188,酸糖,倒不是说嫌你麻烦，虽然总有个人在耳边念确实，呃，有那么一点受不了，但你那不是关心我么？这我还是分得清的。,"It's not like I'm saying you're annoying, even though having someone constantly up in your grill is, uh, kinda annoying, but that's 'cause you, like, care about me, right? I do get that, yeah.","Дело не в том, что ты меня раздражаешь. Хотя, когда кто-то всё время жужжит у уха, это, э-э, немного выводит из себя. Но ты же заботишься обо мне — я это понимаю."
+line-190,Lancet-2,那，酸糖干员说的麻烦是指……？,"In that case, Operator Aciddrop, what bother do you mean...?","Тогда что вы имели в виду под «напрягает», оперативник Эйсиддроп?.."
+line-192,酸糖,非要说的话，是我心里变得很乱……我会有一点，呃，想家？也不是说真想那个地方……反正很麻烦，真的很麻烦啊！,"If I have to put it some way, man, I feel like a total mess... like I kinda, uh, miss home? It's not like I MISS that whole place, but... ugh, it's a mess, yeah? It's just a freaking mess!","Если сказать честно, у меня на душе стало неспокойно... Я немного, э-э, скучаю по дому? Не то чтобы по самому месту... В общем, всё это так запутано, очень запутано!"
+line-193,酸糖,我招了！这一点都不酷吧，我也知道这不酷，你随便说没关系！,"I admit it! It's not even cool, is it? I know it's not cool! Say whatever you want, I don't care!","Я признаю! Это совсем не круто, я и сама знаю, что не круто. Говори что хочешь, мне всё равно!"
+line-195,Lancet-2,……,......,......
+line-197,酸糖,唉，现在你怎么又不说话了。,"C'mon, why aren't you saying anything?","Ну вот, почему ты теперь молчишь?"
+line-198,酸糖,每次你说，不要这样，不要那样，就总让我想起一个人……也不知道那个老家伙现在过得咋样。,"Every time you're like 'do not' this, 'do not' that, you make me think of someone... dunno how the hell that old geezer's doing now.","Каждый раз, когда ты говоришь «не делай того, не делай этого», я вспоминаю одного человека... Кто знает, как он там, старик."
+line-200,Lancet-2,博士，我听起来有很老吗？,"Doctor, do I sound very old?","Доктор, я звучу очень старомодно?"
+line-201,Lancet-2,我的实际年龄只有两岁，而从某些年轻干员的反馈来看，可露希尔为我选择的声音听起来也该处在一个和他们年龄接近的范围内？,"I only have two years of factual age, and per certain young operators' feedback, Closure selected a voice for me that should sound proximal to their ages. Does it not?","Мой фактический возраст — всего два года. Судя по отзывам некоторых молодых оперативников, голос, который выбрала для меня Кложер, должен звучать примерно в их возрастном диапазоне, верно?"
+line-203,酸糖,哈哈，我不是说你老啦。,"Haha, I'm not saying you're old.","Ха-ха, я не про возраст."
+line-204,酸糖,是有时候说话的语气。,It's just how you say things sometimes.,"Я про то, как ты иногда говоришь."
+line-205,酸糖,那个老头子过去也喜欢念叨我，什么不要去危险的地方滑滑板啦，不要时间太晚还在街上晃来晃去，不要离某些地方太近……,"The old man used to really like harping on at me. Man, don't go skating there, it's dangerous. Don't be running around the block too late. Don't get too close to this or that...","Тот старик тоже любил меня поучать: не катайтесь на скейте в опасных местах, не шляйтесь по улицам допоздна, не подходите слишком близко к одним местам..."
+line-206,酸糖,……听得耳朵都快掉毛了。,...Made me feel like my ears were gonna start shedding.,...У меня от этого уши почти облезли.
+line-208,Lancet-2,哦，我大概明白了。,"Ah, I more or less see the picture now.","А, я примерно поняла."
+line-209,Lancet-2,酸糖干员是觉得我总是在唠叨。,"Operator Aciddrop, you feel that I'm constantly nagging.","Оперативник Эйсиддроп считает, что я всё время ною."
+line-210,Lancet-2,呜……这确实并不是一个很讨人喜欢的行为……可是当我看到酸糖干员在走廊里使用滑板的时候，总是会无法控制地分析起受伤的可能性。,"Ohh... It really isn't a charming mannerism at all... but whenever I see you utilizing your skateboard in the corridors, I just can't help but analyze the possibility of injury.","Ой... Это и правда не самая приятная привычка... Но когда я вижу, как вы катаетесь на скейтборде по коридору, я не могу не просчитывать вероятность травмы."
+line-211,Lancet-2,还有在病情还未得到较好控制的阶段，过度运动也会有导致部分指标上升的风险……,"And within a period where your condition has not been better stabilized, excessive exercise can lead to the elevation of certain risk indicators...","А пока состояние ещё не полностью стабилизировалось, излишняя активность может поднять некоторые показатели риска..."
+line-213,酸糖,我知道啊，我知道。都是为了我们好嘛。,"I dig, I dig. You're looking out for us, yeah.","Я знаю, знаю. Вы же ради нас стараетесь."
+line-214,酸糖,说实话，这种感觉还挺奇妙的。现在想想，那时候我也会觉得烦，现在倒是听不到了。,"Honestly, it's kind of a weird feeling. Thinking about it now, like, back then it'd tick me off, and now I don't even get to hear it.","Честно, чувство странное. Раньше это меня раздражало, а теперь я этого уже не слышу."
+line-216,Lancet-2,酸糖干员是在怀念过去吗？,"Operator Aciddrop, are you reminiscing about the past?",Оперативник Эйсиддроп скучает по прошлому?
+line-218,酸糖,怀念吗……也不好说是怀念吧，总是想着过去什么的未免太不酷了。,"Reminiscing, huh... Kinda tough to say I am, I guess. It ends up kinda lame, y'know, always thinking about the past and whatever.",Скучаю... Трудно сказать. Всё время думать о прошлом — не очень-то круто.
+line-219,酸糖,嗨，罗德岛是个不错的地方，还有你这样酷酷的机器人，哈哈。,"Hey. Rhodes Island's a pretty solid place. It's got radical robots like you, too. Haha.","Да нет, Родос — неплохое место. И роботы вроде тебя — тоже крутые. Ха-ха."
+line-220,酸糖,唉。,*Sigh*.,Вздох.
+line-221,酸糖,……对不起啦。,I'm sorry.,...Прости.
+line-223,Lancet-2,咦，酸糖干员对我道歉？,"Um, are you apologizing to me, Operator Aciddrop?",Ой? Оперативник Эйсиддроп просит у меня прощения?
+line-225,酸糖,我会尽量不在某些区域玩滑板。这是你希望的吧？,"I'll try to stop skating in some places. That's what you want, right?","Я постараюсь не кататься на скейте в некоторых местах. Ты этого хотела, да?"
+line-227,酸糖,昨天是我先随口抱怨了下，伊……唔，说有个很好玩的东西可以试试。,"I was just kinda talking crap yesterday, and E... uh, said there was something real fun I could try playing with.","Вчера я просто ворчала, а И... э-э, сказал, что есть одна забавная штука, которую можно попробовать."
+line-228,酸糖,开始的时候完全没想过真的会生效，后来听到你用平时的语气让我晚点睡觉的时候，心里……有点别扭，非常别扭。,"At first I didn't actually think it'd work, and then when I heard you telling me in your normal voice to go to bed too late, it felt... a little awkward, deep down. Super awkward.","Сначала я и не думала, что это сработает. А когда услышала, как ты обычным голосом говоришь мне ложиться спать попозже... внутри стало... неловко. Очень неловко."
+line-229,酸糖,挺奇怪的，自由是自由了……并没有觉得轻松。心里反而变得更乱了。,"It was pretty wack. I mean, freedom is freedom... but I didn't feel any more relaxed. Actually just felt even more messed up.",Странно. Свобода-то стала свободой... а легче не стало. Внутри ещё запутаннее.
+line-230,酸糖,总之，这事做得不对。,"Basically, I was wrong to do this.","В общем, я поступила неправильно."
+line-231,酸糖,现在被你们逮到了。说吧，怎么罚我？关禁闭吗？,And now you've busted me. What's my sentence? Do I get detention?,Теперь вы меня поймали. Ну? Какое наказание? Меня посадят под арест?
+line-233,Lancet-2,啊，罗德岛并没有动不动关干员禁闭的习惯，何况这也不是什么大事吧？,"Oh, Rhodes Island has no custom of arbitrary detention. Besides, this isn't that big of a problem, is it?","Ой, на Родосе не принято ни за что сажать оперативников под арест. И потом, это же не такое серьёзное дело, правда?"
+line-234,Lancet-2,在酸糖干员的家乡，随手改造使用得并不顺手的机械，还挺常见的对不对？,"Operator Aciddrop, in your hometown, convenient modification of otherwise inconvenient machines was quite a common sight, wasn't it?","В родных краях оперативника Эйсиддроп запросто переделывать механизмы, которые работают не так, как хочется, верно?"
+line-235,Lancet-2,我从档案里看到过哦，酸糖干员对自己的手弩和滑板都有过一定程度的改造呢。,I've seen it in your files. Both your hand crossbow and your skateboard have been through a certain degree of modification.,"Я видела в вашем досье: вы немного дорабатывали и свой наручный арбалет, и скейтборд."
+line-237,酸糖,不，这不对。,"No, that's twisted.","Нет, это не то."
+line-238,酸糖,你不是那种机械。,You're not that kinda machine.,Ты не такая машина.
+line-240,Lancet-2,咦？,Hm?,Мм?
+line-241,,是说Lancet-2不止是普通机械吧。;大概是把Lancet-2看作朋友了？,"As in, you're more than an ordinary machine.;I'm guessing she sees Lancet-2 as a friend?","То есть Ланцет-2 — больше, чем обычная машина.;Наверное, она считает Ланцет-2 другом?"
+line-243,Lancet-2,那就更没什么大不了的了，我想，这只是一个小小的玩笑。,"Then that's all the less to worry about. As I view it, it's only a tiny, harmless prank.","Тем более это пустяк. По-моему, просто маленькая шутка."
+line-245,酸糖,……算玩笑嘛？,Does it count as a prank?,...Это считается шуткой?
+line-247,Lancet-2,朋友与朋友之间，一次有默契的恶作剧。这是我依据玩笑的定义做出的判断。当然，机器人并不能真正理解什么好笑。,"A practical joke between friends conducted with mutual understanding. In my judgment, this meets the definition of a prank. Of course, robots cannot actually understand any sort of comedy.","Шутка между друзьями, с взаимным пониманием. Я решила, что это подходит под определение шутки. Конечно, роботы не понимают, что такое смешное."
+line-249,Lancet-2,博士你觉得呢？,"Doctor, what do you think?","А как считаете вы, Доктор?"
+line-250,,哈哈。,Haha.,Ха-ха.
+line-252,Lancet-2,你看，博士都笑了，这就说明确实是个玩笑吧？,"As you see, even the Doctor laughed. This proves that it truly is a prank, correct?","Видите, Доктор рассмеялся. Значит, это и правда шутка, верно?"
+line-253,Lancet-2,既然是玩笑，我想凯尔希医生和阿米娅都不需要知道这件事。我现在已经恢复了正常，工程部也不会为这点小事留下存档。,"As it is a prank, I believe Dr. Kal'tsit and Amiya won't need to know about this. As of now, I have already resumed normal operation, and the Engineering Department will not save any files or data on an issue as minor as this.","Раз это шутка, думаю, доктору Кальцит и Амии не нужно знать. Я уже снова в норме, а в Инженерном отделе не станут хранить файл из-за такого пустяка."
+line-255,酸糖,嗯，谢谢。,Huh. Thanks.,"Мм, спасибо."
+line-257,酸糖,你确实是个——非常酷的——朋友。,You really are a—super-rad—friend.,Ты и правда — очень крутой — друг.
+line-258,酸糖,那，再会啦。,'Kay. See ya 'round.,"Ну, до встречи."
+line-265,Lancet-2,唉，请不要在走廊使用滑板啊——,"Er, please don't utilize your skateboard in the corridors—","Эй, пожалуйста, не катайтесь на скейтборде по коридору —"
+line-272,Lancet-2,博士，我有一个问题。,"Doctor, I have a question.","Доктор, у меня есть вопрос."
+line-273,Lancet-2,你也嫌我唠叨吗？,Do you also believe me to be a nag?,Вы тоже считаете меня нудной?
+line-274,,没有，你说的都是对的。;是有那么一点。,Not at all. You're right to say what you do.;Just the tiniest little bit.,"Нет, вы во всём правы.;Ну, совсем чуть-чуть."
+line-276,Lancet-2,当你特别想喝咖啡的时候，我总是劝阻你不要继续喝咖啡，这确实听多了会烦吧？,"Whenever you particularly want to drink coffee, I always advise against your continued consumption of it. Hearing it constantly does tend to be a bother, doesn't it?","Когда вам особенно хочется кофе, я всё время уговариваю вас не пить его. От этого и правда начинают раздражаться, да?"
+line-277,Lancet-2,比起总是听“不要”，你肯定也希望自己想喝咖啡的时候，身边的机器人主动为你端上咖啡——这才是听话的机器啊。,"Compared to one that always says 'do not,' I'm sure you'd much prefer a robot at your side that automatically serves you coffee when you want it—that would be far more obedient of a machine.","Вместо того чтобы всё время слышать «не надо», вы наверняка предпочли бы, чтобы робот сам подал вам кофе, когда захочется, — вот это была бы послушная машина."
+line-278,Lancet-2,那么，我是不是应该去找可露希尔降低下说“不要”的频率呢？,"In that case, I ought to seek out Closure to decrease the frequency at which I say 'do not,' shouldn't I?","Тогда, может, мне стоит попросить Кложер уменьшить частоту слова «не надо»?"
+line-279,Lancet-2,……但这和我被设计出来的目的是相悖的啊。,But that would be mutually incompatible with my intended purpose.,"...Но это противоречит цели, ради которой я была создана."
+line-280,Lancet-2,我是一个医疗机器人，我存在的意义就是尽一切努力让罗德岛的大家都健健康康。,I am a medical robot. My purpose lies in ensuring the robust health of everyone at Rhodes Island.,"Я медицинский робот. Смысл моего существования — делать всё возможное, чтобы все на Родосе были здоровы."
+line-281,Lancet-2,确实我说出来的话，你们并不总能听得进去。包括可露希尔也是，和博士你一样，总是超时工作，不健康饮食。,"And what I speak, you don't always listen to. It goes for Closure, too. She's just like you, Doctor. Constant overtime work, and an unhealthy diet.","И всё же вы не всегда прислушиваетесь к моим словам. Кложер — как и вы, Доктор: всё время работает сверхурочно и неправильно питается."
+line-282,Lancet-2,如果不希望我总在唠叨的话，为什么还要设计这部分功能呢？,"If my nagging was undesirable, I wouldn't have been designed with this function, would I?","Если моё ворчание было нежелательно, зачем было встраивать эту функцию?"
+line-283,Lancet-2,呜呜……我不明白……这里面有逻辑矛盾。,Ohhh... I don't understand... There's a contradiction in logic here.,Ой... Я не понимаю... Тут логическое противоречие.
+line-284,,不矛盾。;……;因为这就是Lancet-2啊。,"It's not a contradiction.;......;It's because that's who you are, Lancet-2.",Нет противоречия.;......;Потому что ты — это Ланцет-2.
+line-286,Lancet-2,不矛盾吗？这就是我吗？唠叨的我？,Is it not contradictory? This is just me? My nagging self?,"Нет противоречия? Это я? Та, что ворчит?"
+line-287,Lancet-2,如果你们不喜欢的话，随时都可以改掉我的这些行为习惯。,"If any of you don't like it, you can always change these behavioral habits of mine.","Если вам не нравится, вы можете в любой момент изменить эти мои привычки."
+line-288,,我不想改。;可露希尔不想改。;酸糖都不想改。,I don't want you to change.;Closure doesn't want you to change.;Not even Aciddrop wants you to change.,Я не хочу менять.;Кложер не хочет.;Даже Эйсиддроп не хочет.
+line-290,Lancet-2,好吧，或许我并没有很好地理解博士你的意思。不过你应该是在安慰我，谢谢啦。,"Alright. Maybe I don't understand your meaning at all, Doctor. But it's likely you're comforting me, so thank you.","Ладно. Может, я и не поняла вас, Доктор. Но вы, кажется, хотели меня утешить. Спасибо."
+line-298,Lancet-2,嗨，博士，又见面了。,"Hi, Doctor. Nice to see you again.","Привет, Доктор, снова видимся."
+line-299,,早上好，Lancet-2。,"Good morning, Lancet-2.","Доброе утро, Ланцет-2."
+line-301,Lancet-2,早上好。,Good morning.,Доброе утро.
+line-302,Lancet-2,看来你昨天晚上按时休息了，这真是可喜可贺。,"I see you rested at the appropriate time last night, and that is truly wonderful.","Похоже, вчера вы легли вовремя. Это замечательно."
+line-303,Lancet-2,博士也是来看酸糖干员训练的吗？这是她第一次参加晨训。哦，一块受训的还有伊桑干员和红豆干员。,"Doctor, are you here to observe Operator Aciddrop's training too? This is the first time she's taken part in morning drills. Oh, and Operators Ethan and Vigna are also training alongside her.","Доктор, вы тоже пришли смотреть на тренировку оперативника Эйсиддроп? Это её первое утреннее занятие. О, вместе с ней тренируются оперативники Итан и Винья."
+line-304,Lancet-2,不知道为什么，我感觉今天的教官们格外严厉。我的消毒水消耗速度都变快了好多。,"Not that I know why, but I feel today's instructors are especially strict. The rate at which I consume disinfectant fluid has risen dramatically.","Не знаю почему, но сегодня инструкторы особенно строгие. Я даже стала гораздо быстрее расходовать антисептик."
+line-308,伊桑,呼……呼……,Huff... pff...,Фух... фух...
+line-309,伊桑,是魔鬼吗！居然看得到我在这里！,You all monsters or something?! How the hell do you see me here?!,"Вы что, демоны?! Как вы меня здесь видите?!"
+line-314,酸糖,这就是罗德岛的训练强度吗……,"Rhodes Island training is this tough, huh...",Вот такая интенсивность тренировок на Родосе...
+line-319,红豆,连我也……,Even I'm...,Даже я...
+line-321,红豆,我说，是不是你俩干了什么坏事被发现了啊！,"I'm serious, did either of you do something wild and get caught?!","Слушайте, может, вы двое что-то натворили и вас поймали?!"
+line-328,Lancet-2,真有活力啊。,So full of energy.,Так много энергии.
+line-329,Lancet-2,看来平时的过度活跃对他们来说也是好事……或许我真的可以降低说“不要”的频率了。,It seems as if their excess activity actually works to their benefit... Perhaps I really am able to lower my frequency of 'do not' now.,"Похоже, избыточная активность им даже полезна... Может, я и правда могу реже говорить «не надо»."
+line-333,玫兰莎,Lancet-2，你背后有东西。,"Lancet-2, something's on your back.","Ланцет-2, у тебя на спине что-то."
+line-335,Lancet-2,咦……咦？！,Um... um?!,Мм... Мм?!
+line-338,玫兰莎,绿绿的，很漂亮的颜色。唔，好像是个涂鸦呢。,"It's bright green, a very pretty color. Um, I think it's graffiti.","Зелёное, очень красивый цвет. Мм, кажется, это граффити."
+line-340,Lancet-2,是涂鸦啊……幸亏不是什么别的东西。真担心我又出什么问题。,"Graffiti, is it...? How fortunate it's not anything else. I do worry about having issues crop up again.","Граффити... Хорошо, что не что-то другое. Я боялась, что со мной снова что-то случилось."
+line-341,Lancet-2,说起来这是什么意思……扫描看看吧。,"Come to mention it, I wonder what this means... let's scan and see.","Кстати, что это значит... Просканирую."
+line-343,Lancet-2,嗯？是哥伦比亚俚语？语言库里并没有完全能对得上的字样。,Hm? It's Columbian slang? My language library has no phrases that match it.,Мм? Колумбийский сленг? В языковой базе нет точного соответствия.
+line-344,,是赞美的话吧。;……;是个朋友之间的玩笑吧。,"You might call them words of praise.;......;A prank between friends, you could say.","Наверное, это комплимент.;......;Наверное, шутка между друзьями."
+line-347,Lancet-2,真的是好话吗？我不太确定……,Are they really kind words? I'm not too certain...,И правда комплимент? Я не уверена...
+line-348,Lancet-2,不管怎么说，挺漂亮的吧？玫兰莎小姐都这么说。,"But in any case, they're quite pretty, aren't they? And Miss Melantha said so too.","В любом случае, красиво, правда? Даже мисс Меланта так сказала."
+line-349,Lancet-2,那我就暂时收下啦。,"So, for the time being, I'll accept them.",Тогда я пока приму это.
