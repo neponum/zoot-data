@@ -46,14 +46,19 @@ def main() -> int:
     args = ap.parse_args()
 
     groups: dict[tuple[str, str], list[tuple[Path, str]]] = defaultdict(list)
-    dirs = [LANG_DIR / args.episode] if args.episode else sorted(p for p in LANG_DIR.iterdir() if p.is_dir())
+    if args.episode:
+        dirs = [LANG_DIR / args.episode]
+    else:
+        # С 2026-11-19 CSV лежат в story/<эпизод>/, voices/, dossiers/ и т.д.
+        # Рекурсивный обход нужен, чтобы видеть дубли во вложенных папках.
+        dirs = sorted(p for p in LANG_DIR.rglob("*") if p.is_dir())
     for d in dirs:
         if not d.is_dir():
             print(f"Нет папки: {d}")
             return 2
         for f in sorted(d.glob("*.csv")):
             base, tr = split_name(f)
-            groups[(d.name, base)].append((f, tr))
+            groups[(str(f.parent.relative_to(LANG_DIR)), base)].append((f, tr))
 
     to_delete: list[Path] = []
     rows: list[str] = []

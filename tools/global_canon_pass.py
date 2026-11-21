@@ -81,6 +81,34 @@ TERM_RULES: list[tuple[str, str]] = [
     (r"Санкт-Петербург", "Санкт-Грифербург"),
 ]
 
+# --- 2b. Канонические имена и названия (без апострофов) -------------------
+# Сведено по tools/UNIFY.md и glossary.json. Plain-варианты не покрывались
+# APOSTROPHE_RULES, поэтому оставались в st/ и части event-эпизодов.
+CANON_NAME_RULES: list[tuple[str, str]] = [
+    (r"Кельси", "Кальцит"),                      # 凯尔希
+    (r"Кложур", "Кложер"),                        # 可露希尔
+    (r"Клозур", "Кложер"),
+    (r"Клозер", "Кложер"),
+    (r"Клоссир", "Кложер"),
+    (r"Клосс", "Кложер"),
+    (r"Клозир", "Кложер"),
+    (r"Клозиер", "Кложер"),
+    (r"Клози(?!р|е)", "Кложер"),
+    (r"Реюниона", "Воссоединения"),                # 整合运动 (склонение)
+    (r"Реюниону", "Воссоединению"),
+    (r"Реюнионом", "Воссоединением"),
+    (r"Реюнионе", "Воссоединении"),
+    (r"Реюнион", "Воссоединение"),
+    (r"Таллула", "Талула"),                       # 塔露拉
+    (r"Острова Родос", "Родоса"),                 # 罗德岛 (родительный)
+    (r"Остров Родос", "Родос"),                   # 罗德岛
+    (r"Королева Истребления", "Сидж"),             # 推进之王
+    (r"Король Сигнал", "Сидж"),
+    (r"Королева Сигнал", "Сидж"),
+    (r"Чёрная Змея", "Чёрный Змей"),               # 黑蛇 — мужского рода
+    (r"Чёрной Змеи", "Чёрного Змея"),
+]
+
 # --- 3. Компании ---------------------------------------------------------
 COMPANY_RULES: list[tuple[str, str]] = [
     (r"Пингвин\s+Лоджистикс", "Пингвин Логистикс"),
@@ -145,6 +173,11 @@ def fix_ru(text: str, zh: str = "", where: str = "") -> str:
         new = re.sub(pat, rep, out)
         if new != out:
             note(f"термин:{rep}", out, new, where)
+            out = new
+    for pat, rep in CANON_NAME_RULES:
+        new = re.sub(pat, rep, out)
+        if new != out:
+            note(f"имя:{rep}", out, new, where)
             out = new
     for pat, rep in COMPANY_RULES:
         new = re.sub(pat, rep, out, flags=re.IGNORECASE if pat.startswith("Penguin") else 0)
@@ -216,7 +249,7 @@ for path in sorted(REPO.glob("translation/ru_RU/dossiers/*.json")):
     if dirty:
         dossier_files += 1
         if APPLY:
-            path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            path.write_text(json.dumps(data, ensure_ascii=False, indent=1).rstrip("\n"), encoding="utf-8")
 
 txt_files = 0
 for path in sorted(REPO.glob(".cache/dossiers/ru/*.txt")):
