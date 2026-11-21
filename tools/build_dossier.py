@@ -134,7 +134,7 @@ def build(op_id):
         bounds = (0.25, 2.5)
         if ref_len <= 40:
             ref_len = len(orig.get("textZh") or "")
-            bounds = (0.8, 4.0)
+            bounds = (0.5, 6.0)
         if ref_len > 40:
             ratio = len(text) / ref_len
             if not (bounds[0] <= ratio <= bounds[1]):
