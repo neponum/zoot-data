@@ -1,5 +1,5 @@
 ID,Character,Original Text,Reference,Translation
-__translator__,,Translator,,nep0num
+__translator__,,Translator,,centurion_vendigo
 __language__,,Language,en_US,ru_RU
 __episode__,,Episode ID,,main_10
 __chapter__,,Chapter Name,obt/main/level_st_10-01,被追逐者
@@ -15,15 +15,15 @@ char-8,推进之王,推进之王,Siege,Сидж
 char-9,因陀罗,因陀罗,Indra,Индра
 char-10,摩根,摩根,Morgan,Морган
 ,,,,
-line-8,,伦蒂尼姆 奥克特里格区,"Londinium, Auchterigg Borough","Лондиниум, Октагональный сектор"
-line-9,,碎片大厦内部,Inside The Shard,Внутри Осколочного небоскреба
+line-8,,伦蒂尼姆 奥克特里格区,"Londinium, Auchterigg Borough","Лондиниум, округ Охтеригг"
+line-9,,碎片大厦内部,Inside The Shard,Внутри Осколка
 line-15,特雷西斯,我们的工程已近尾声。,Our project is near to its close.,Наши работы подходят к завершению.
 line-16,特蕾西娅,......我听到了风暴的声音，他们也听到了。,"I hear the sound of the storm, and so do they.",...Я слышу голос бури. Они тоже его слышат.
 line-17,特蕾西娅,他们正在向我诉说，他们喜欢这个声音。他们迫不及待地想要变成风暴的一部分，肆意地在空中吼叫，去吞吃我们眼前这座可恨的城市。,"They're telling me now, how they like this sound. They're dying to become a part of the storm, to howl wantonly through the air, to go and devour this hateful city before us.","Они говорят со мной, им нравится этот звук. Они жаждут стать частью этой бури, неистово завывать в небесах и поглотить этот проклятый город прямо у нас на глазах."
 line-18,特雷西斯,那正好。,Perfect.,Вот и отлично.
 line-19,特雷西斯,十天之后，飞空艇就会竣工。到时候，他们就能去往伦蒂尼姆的上空，成为这场风暴的引航员。,"In ten days, our airship will be complete. From there, they'll be able to take to Londinium's skies, and serve as the storm's very pilots.",Через десять дней дирижабль будет достроен. Тогда они поднимутся в небо над Лондиниумом и станут проводниками этой бури.
 line-20,特蕾西娅,我会和他们一起去。,I'll be going with them.,Я отправлюсь вместе с ними.
-line-21,特雷西斯,这符合我们的计划。既然我需要守着碎片大厦，那你就是指挥我们的空中力量的最佳人选。,"That suits our plan. You are the optimal candidate to command our air forces, given I must be defending The Shard.","Это соответствует нашему плану. Раз уж мне нужно охранять Осколочный небоскреб, ты — лучший кандидат для командования нашими воздушными силами."
+line-21,特雷西斯,这符合我们的计划。既然我需要守着碎片大厦，那你就是指挥我们的空中力量的最佳人选。,"That suits our plan. You are the optimal candidate to command our air forces, given I must be defending The Shard.","Это соответствует нашему плану. Раз уж мне нужно охранять Осколок, ты — лучший кандидат для командования нашими воздушными силами."
 line-22,特蕾西娅,不，特雷西斯，我不是这个意思。,"No, Theresis, that isn't what I mean.","Нет, Терезис, я не это имела в виду."
 line-23,特蕾西娅,我和他们，我们只能一起去。,"They and I, as one, can but only go together.",Я и они — мы можем отправиться только вместе.
 line-24,特雷西斯,——,—,—
@@ -89,7 +89,7 @@ line-136,,「当然。想要控制伦蒂尼姆，离不开你们每一位的努�
 line-137,,「你派出去的信使都有消息了吗，赦罪师？」,"「Has there been word from the Messenger you sent, Confessarius?」","«Пришли ли известия от посланников, которых ты отправил, Исповедник?»"
 line-140,,「在曼弗雷德的不懈劝说下，巫妖已在赶来伦蒂尼姆的路上。」,"「By Manfred's tireless urging, the Lich is now fast on the way to Londinium.」",«Благодаря неустанным уговорам Манфреда личи уже на пути в Лондиниум».
 line-141,,「仅剩的温迪戈仍在乌萨斯北境对抗精怪。他们心中已没有王庭。」,「The few Wendigos left remain battling strange monsters in Ursus's north. Their hearts hold the Royal Court no more.」,«Оставшиеся в живых вендиго по-прежнему сражаются с чудовищами на севере Урсуса. В их сердцах не осталось места для Королевского двора».
-line-142,,「独眼巨人送回了一封信，一如既往，她描述了一个悲惨的场景——伦蒂尼姆被大火撕扯成了三块，碎片大厦倒在数百道闪电之下，而摄政王......是的，她还预言了摄政王殿下的结局。」,"「The Cyclops sends a letter. As ever, she describes a tragic scene—Londinium sundered by great fire into thirds, The Shard fallen under lightning strikes in their hundreds, and the Regent... yes, she still prophesies your end, Regent.」","«Циклоп прислала письмо, как обычно, описав трагическую картину: Лондиниум разорван огнем на три части, Осколочный небоскреб падает под сотнями молний, а Регент... да, она также предсказала судьбу Его Высочества Регента»."
+line-142,,「独眼巨人送回了一封信，一如既往，她描述了一个悲惨的场景——伦蒂尼姆被大火撕扯成了三块，碎片大厦倒在数百道闪电之下，而摄政王......是的，她还预言了摄政王殿下的结局。」,"「The Cyclops sends a letter. As ever, she describes a tragic scene—Londinium sundered by great fire into thirds, The Shard fallen under lightning strikes in their hundreds, and the Regent... yes, she still prophesies your end, Regent.」","«Циклоп прислала письмо, как обычно, описав трагическую картину: Лондиниум разорван огнем на три части, Осколок падает под сотнями молний, а Регент... да, она также предсказала судьбу Его Высочества Регента»."
 line-143,,「说出来。」,「Speak.」,«Говори».
 line-144,,「她说她看到了你孤独地死在圣王会西部大堂地下的王座上。」,"「She says she has seen your solitary death, on the underground throne of the Palace of Westhaleg.」","«Она сказала, что видела, как ты в одиночестве умираешь на троне в подземном зале западного крыла Святого Королевского собрания»."
 line-145,,「回信给她，感谢她的关心。」,"「Give her a reply, thanking her for her concern.」","«Ответь ей, поблагодари за заботу»."

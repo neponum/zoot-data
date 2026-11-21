@@ -1,5 +1,5 @@
 ID,Character,Original Text,Reference,Translation
-__translator__,,Translator,,nep0num
+__translator__,,Translator,,centurion_vendigo
 __language__,,Language,en_US,ru_RU
 __episode__,,Episode ID,,main_10
 __chapter__,,Chapter Name,obt/main/level_main_10-05_end,虽非同族
@@ -61,7 +61,7 @@ line-97,阿米娅,我忘不了她的每一个最细微的表情，还有她对�
 line-100,,你的意思是......;......;怎么可能！,You mean...;......;No way!,Ты хочешь сказать... ...Как это возможно?!
 line-103,阿米娅,我很清楚，这不可能。,I know it's impossible.,"Я прекрасно понимаю, что это невозможно."
 line-104,阿米娅,但是，我......,But I...,Но я...
-line-112,凯尔希,Dr.{@nickname}，从今天开始，你将拥有调取以下档案的权限。,"Dr.{@nickname}, from today onwards, you have the permission to access the following files.","Доктор, с сегодняшнего дня у вас есть доступ к следующим архивам."
+line-112,凯尔希,Dr.{@nickname}，从今天开始，你将拥有调取以下档案的权限。,"Dr.{@nickname}, from today onwards, you have the permission to access the following files.","Доктор {@nickname}, с сегодняшнего дня у вас есть доступ к следующим файлам."
 line-113,凯尔希,你会在这些档案里找到一部分你关心的信息——,Some of the information in these files will be of interest to you—,Вы найдёте там часть интересующей вас информации —
 line-114,凯尔希,无论是关于她，还是关于阿米娅目前所继承的那部分力量。,"Whether it's information about her, or information on the powers that Amiya has inherited.","Будь то о ней или о той силе, которую Амия унаследовала."
 line-117,,我记得你说过，你不信我。,"You talked about this, and you didn't believe me.","Помню, ты говорила, что не доверяешь мне."
@@ -83,7 +83,7 @@ line-150,阿米娅,但有些话，我还没有机会说。,But there are some th
 line-151,阿米娅,其实，在那件事之后，有很长一段时间，我都会梦见你们。,"Actually, for a very long time after that incident, I dreamt about you two a lot.","На самом деле, долгое время после того случая мне часто снились вы."
 line-152,阿米娅,在我的梦里，你从来没有开过口，你只是安静地守着我。,"In my dreams, you never talked. You just watched over me in silence.","Во снах вы никогда не произносили ни слова, просто спокойно оберегали меня."
 line-153,阿米娅,就像过去那些荒地上的夜晚一样，你沉默地握着我的手，因为只有这样，我才能放心睡着。,"It was like that night out on the barrens. You held my hand silently, and I could sleep soundly.","Как в те ночи в пустошах, вы молча держали меня за руку, потому что только так я могла спокойно уснуть."
-line-155,阿米娅,我能感觉到你......那时候，我知道你只是睡着了，Dr.{@nickname}，你也许暂时不在我的身边，但你依然陪伴着我。,"I was able to feel you... I knew you were just asleep. Dr.{@nickname}, you might have been away for a little while, but you were there with me still.","Я чувствовала вас... тогда я знала, что вы просто спите, Доктор, возможно, вы были не рядом со мной, но вы всё равно были со мной."
+line-155,阿米娅,我能感觉到你......那时候，我知道你只是睡着了，Dr.{@nickname}，你也许暂时不在我的身边，但你依然陪伴着我。,"I was able to feel you... I knew you were just asleep. Dr.{@nickname}, you might have been away for a little while, but you were there with me still.","Я чувствовала вас... Я знала, что вы просто спите. Доктор {@nickname}, пусть вас и не было рядом какое-то время, вы всё равно оставались со мной."
 line-158,,阿米娅......,Amiya...,Амия...
 line-161,阿米娅,可是她......不一样。,But she's... not the same.,Но она... другая.
 line-163,阿米娅,她在梦里对我说了很多话，从罗德岛上每一个萨卡兹的命运，到我那一天是不是睡不好，有没有着凉......,"She told me a lot of things in my dreams. From the fate of every single Sarkaz at Rhodes Island to if I wasn't sleeping well, if it was cold...","Она говорила со мной во сне о многом: от судьбы каждого саркази на Родосе до того, не мерзла ли я ночью..."
@@ -185,7 +185,7 @@ line-370,曼弗雷德,如果我说，还有机会呢？,What if I tell you there
 line-372,伦蒂尼姆市民？,又要请我帮忙？你不是让深池和雇佣兵一起去守临时监狱了吗？我以为你都做足了准备，只差请君入瓮了。,"Another job for me? Didn't you send the Dublinns and the mercenaries to guard the temporary brig? I thought you had everything in place already, and you just had to extend an invitation?","Опять просишь о помощи? Ты ведь отправил Дублинна и наемников охранять временную тюрьму? Я думал, ты к чему угодно готов, осталось только заманить их в ловушку."
 line-374,曼弗雷德,我从不会嫌保险太多。,I prefer writing myself a few insurance policies.,Лишняя страховка никогда не помешает.
 line-376,伦蒂尼姆市民？,好吧好吧，那你又欠我们一份人情了。,"Alright, alright. You owe us one, then.","Ладно-ладно, с тебя ещё один должок."
-line-377,伦蒂尼姆市民？,啊......我是不是说了“我们”？,Uh... Did I just say 'us?',Ой... я сказал «с тебя»?
+line-377,伦蒂尼姆市民？,啊......我是不是说了“我们”？,Uh... Did I just say 'us?',Упс... Я только что сказал «нам»?
 line-379,曼弗雷德,......没关系，除了我，不会有人听见。,No matter. There's no one else here.,"...Ничего, кроме меня, никто не услышит."
 line-381,伦蒂尼姆市民？,说实话，我们真不太想再留在这里......那个自恋的到哪都要端着高脚杯的老家伙也快到了，不是吗？,"Truth be told, we don't really want to stay here for much longer... That narcissistic old man with the chalice is almost here, isn't he?","Честно говоря, нам совсем не хочется здесь задерживаться... тот самовлюбленный старик, что повсюду таскает бокал с вином, тоже скоро приедет, не так ли?"
 line-382,伦蒂尼姆市民？,你也千万别告诉他我们在这里。,Don't tell him about us.,"Ты только, пожалуйста, не говори ему, что мы здесь."
