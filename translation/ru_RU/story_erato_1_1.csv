@@ -11,7 +11,7 @@ char-4,燧石,燧石,Flint,Флинт
 char-5,后勤干员,后勤干员,Logistics Operator,Оперативник логистики
 char-6,贾维,贾维,Chiave,Кьяве
 char-7,奥斯塔,奥斯塔,Aosta,Аоста
-char-8,Lancet-2,Lancet-2,Lancet-2,Ланцет-2
+char-8,Lancet-2,Lancet-2,Lancet-2,Lancet-2
 char-9,埃拉托&帕拉斯,埃拉托&帕拉斯,Erato & Pallas,Эрато и Паллада
 ,,,,
 line-13,帕拉斯,咕咚，咕咚——,*glug* *glug*—,"*Глюп, глюп* —"
@@ -184,7 +184,7 @@ line-475,贾维,哦，差点忘了你们还在了。抱歉啊，埃拉托，没�
 line-477,埃拉托,没关系。,It's fine.,Ничего страшного.
 line-479,贾维,但是我想到了，你们想要询问英雄事迹的话，我有一个人选。,"But I was thinking, if you wanted to ask someone else, I have someone in mind.","Но я кое-что придумал. Если вы хотите расспросить о героических подвигах, у меня есть кандидатура."
 line-481,埃拉托,是哪位？,And who might that be?,Кто?
-line-483,贾维,那就是小爷我的挚友，Lancet-2！,"My dear friend, Lancet-2!",Мой лучший друг — Ланцет-2!
+line-483,贾维,那就是小爷我的挚友，Lancet-2！,"My dear friend, Lancet-2!",Мой лучший друг — Lancet-2!
 line-485,贾维,她最近格外消极啊，明明工作非常努力的。,"She's been down in the dumps lately, even though she's been working so hard.","Она в последнее время очень мрачная, хотя работает очень старательно."
 line-486,贾维,不过她是不是一直都很消极……如果你们可以向她了解一些她的英雄事迹，说不定她就能开心一点！,And while she's always been the negative sort... maybe she'd cheer up if you let her know all the heroic deeds she's done!,"Хотя она всегда была невесёлой... Может, если вы расскажете ей про её подвиги, она станет чуть счастливее!"
 line-488,埃拉托,好，我明白了。,"Alright, got it.","Хорошо, поняла."
@@ -205,7 +205,7 @@ line-527,埃拉托,……我有一种预感，这次的所见所闻会给我的�
 line-529,帕拉斯,先前我只是好奇你的创作过程，现在你会写出怎样的诗篇，我也很有兴趣了。,"Before I was simply curious about your process, but now I've become quite interested in the poem you will write.","Раньше мне было просто любопытно, как ты работаешь, а теперь мне уже интересно, какую поэму ты напишешь."
 line-531,埃拉托,到了。,We're here.,Пришли.
 line-541,Lancet-2,该怎么办，该怎么办？,What do I do... what do I do?,"Что делать, что делать?"
-line-543,埃拉托,Lancet-2，你好……你在干什么？,"Hello, Lancet-2... what are you doing?","Ланцет-2, здравствуй... что ты делаешь?"
+line-543,埃拉托,Lancet-2，你好……你在干什么？,"Hello, Lancet-2... what are you doing?","Lancet-2, здравствуй... что ты делаешь?"
 line-545,Lancet-2,两位好，根据我的运动模块显示的状态，我在转圈。,"Hello. Based on the status displayed on my motion module, I am currently spinning in circles.","Здравствуйте. Судя по показаниям моего модуля движения, я верчусь."
 line-547,埃拉托,我看得出来，可是，你为什么要转圈呢？,"I can see that, but... why?","Я вижу, но... почему ты вертишься?"
 line-549,Lancet-2,博士，因为博士。,Doctor... because of the Doctor.,Из-за Доктора. Всё из-за Доктора.
@@ -220,20 +220,20 @@ line-568,Lancet-2,原因是，博士他最近实在太忙了，每天都要处�
 line-569,Lancet-2,这样下去，下一次博士的体检结果一定会出现异常指标的。,"If this goes on, there will certainly be abnormalities in the results of their next physical examination.","Если так пойдёт и дальше, в результатах следующего медосмотра Доктора обязательно появятся отклонения."
 line-570,Lancet-2,都是我不好，没有照顾好博士，都怪我——,It's because I'm so bad at taking good care of them. It's all my fault—,"Это всё я виновата, плохо за ним присматривала, всё из-за меня —"
 line-572,埃拉托,停停。,Stop right there.,Хватит.
-line-574,埃拉托,Lancet-2，博士有他的职责，他的工作对我们所有人都非常重要，偶尔有忙碌的时候也是正常状况哦。,"The Doctor has their own duties too, Lancet-2. Their work is very important to all of us here, so it's normal to be busy every now and then.","Ланцет-2, у Доктора свои обязанности, его работа важна для каждого из нас, и иногда бывает загруженность — это нормально."
+line-574,埃拉托,Lancet-2，博士有他的职责，他的工作对我们所有人都非常重要，偶尔有忙碌的时候也是正常状况哦。,"The Doctor has their own duties too, Lancet-2. Their work is very important to all of us here, so it's normal to be busy every now and then.","Lancet-2, у Доктора свои обязанности, его работа важна для каждого из нас, и иногда бывает загруженность — это нормально."
 line-575,埃拉托,你不应该把这样的情况怪罪在自己的头上，你也在很努力地工作啦。,"You've been working hard, so you shouldn't blame yourself for the current situation, alright?",Ты не должна винить себя за это. Ты и так очень стараешься.
 line-577,Lancet-2,真的吗？埃拉托干员，你真的是这么认为的吗？,"Really? Operator Erato, do you really think so?","Правда? Оперативник Эрато, ты правда так думаешь?"
 line-579,埃拉托,当然啦，我这次前来就是想找你帮忙的。请问你有什么可以分享给我的英雄事迹吗？,"Of course, I came here today just to ask for your help. May I ask if you have any heroic deeds to share with me?","Конечно. Я сегодня специально пришла за твоей помощью. Есть ли у тебя героический подвиг, которым ты можешь поделиться?"
 line-581,Lancet-2,英雄事迹……在看护的时候我有听见干员们的闲聊，在我的存储模块中应该保存有一些事件。,"Heroic deeds... I have overheard the chatter of the operators I look after, and even have some events saved in my memory module.","Героические подвиги... Во время присмотра я слышала разговоры оперативников, в моём модуле памяти кое-что сохранилось."
 line-583,埃拉托,不不不，不需要那些。我想要了解的是，你觉得自己做得好的，像英雄一样的事情。,"No, no, no, not those. I want to know your <i>own</i> stories, especially the heroic ones.","Нет-нет, не эти. Я хочу узнать о том, что ты сама сделала хорошо, о героическом."
-line-585,埃拉托,Lancet-2的工作那么出色，这样的事情一定不少吧？,"You do such brilliant work, so surely there would be many of them?","Ланцет-2 работает так превосходно, наверняка таких дел немало?"
+line-585,埃拉托,Lancet-2的工作那么出色，这样的事情一定不少吧？,"You do such brilliant work, so surely there would be many of them?","Lancet-2 работает так превосходно, наверняка таких дел немало?"
 line-587,Lancet-2,我的英雄事迹……不，我应该没有足以称之为英雄事迹的行为，我连英雄都称不上。,"My own heroic deeds... No, I don't think anything I've done could be called 'heroic,' and such a title doesn't suit me at all.","Мои героические подвиги... Нет, вряд ли я совершала нечто, достойное этого слова. Я и героем-то не являюсь."
 line-588,Lancet-2,在我的岗位上，能把所有干员都照顾得很好，让大家都保持健康，才能被称为英雄。,"In my line of work, you would only be a hero if you could take care of all the operators here and keep everyone healthy.","В моей работе героем можно было бы назвать только того, кто заботится обо всех оперативниках и сохраняет всех здоровыми."
 line-589,Lancet-2,而我没有这样的事迹，我照顾不好博士……我是不是根本就不称职……,But I haven't done such a deed; I can't even take good care of the Doctor... Perhaps I'm not even the least bit competent.,"А у меня таких заслуг нет, я даже за Доктором не могу как следует присмотреть... Может, я вообще ни на что не годна..."
 line-591,帕拉斯,她真的很消极。,She certainly is a negative one.,Она правда мрачная.
-line-593,埃拉托,好啦好啦，Lancet-2，要不这样，请你也照看我一下？,"Alright, alright. How about this: could you take care of me for a bit?","Ладно, Ланцет-2, давай так: присмотри за мной тоже?"
+line-593,埃拉托,好啦好啦，Lancet-2，要不这样，请你也照看我一下？,"Alright, alright. How about this: could you take care of me for a bit?","Ладно, Lancet-2, давай так: присмотри за мной тоже?"
 line-595,Lancet-2,照顾埃拉托干员吗？这的确在我的工作范围内，但是……你让我这么做有什么理由吗？,"Take care of you, Operator Erato? This is indeed with my scope of work, but... is there a reason why you want me to?","Присмотреть за оперативником Эрато? Это действительно входит в мои обязанности, но... зачем тебе это?"
-line-597,埃拉托,这样我就会告诉你，你做得到底好不好，或许Lancet-2就能体会到自己也是很有用的呢。,"So I can properly judge how good you are at it, and just maybe you'll also realize how useful you are in the process.","Так я смогу сказать, насколько хорошо ты это делаешь, и, может, Ланцет-2 поймёт, что она тоже очень полезна."
+line-597,埃拉托,这样我就会告诉你，你做得到底好不好，或许Lancet-2就能体会到自己也是很有用的呢。,"So I can properly judge how good you are at it, and just maybe you'll also realize how useful you are in the process.","Так я смогу сказать, насколько хорошо ты это делаешь, и, может, Lancet-2 поймёт, что она тоже очень полезна."
 line-599,Lancet-2,明白了，我马上对埃拉托干员进行全身生理检测，请稍等。,"Understood. Please hold still for a moment, Operator Erato. I will conduct a full-body physical examination right away.","Поняла. Прошу не двигаться, оперативник Эрато. Сейчас проведу полное медицинское обследование."
 line-601,埃拉托,好哦。,Sure.,Хорошо.
 line-610,Lancet-2,检测——完成。检测结果显示，埃拉托干员有27小时13分钟27秒没有进入过睡眠状态，身体严重缺乏休息。,"Examination—complete. The test results are as follows: Operator Erato has not slept for 27 hours, 13 minutes, and 27 seconds, and her body is in urgent need of rest.","Обследование — завершено. Результаты: оперативник Эрато не спала 27 часов 13 минут 27 секунд, организм остро нуждается в отдыхе."
@@ -246,7 +246,7 @@ line-620,埃拉托,没有，这不是你的问题。,"No, that's not your fault 
 line-622,Lancet-2,果然，我什么作用都起不了，我就该自己驶向报废区域的……,I can't do even a single thing right. I should just drive myself over to the scrap area.,Я и правда ни на что не годна. Мне бы самой отправиться в зону утилизации...
 line-627,,埃拉托，帕拉斯，你们好。;埃拉托，帕拉斯，你们也在这里啊。,"Hello, Erato, Pallas.;So the both of you are here too.","Эрато, Паллада, здравствуйте.;Эрато, Паллада, и вы здесь."
 line-631,埃拉托&帕拉斯,博士好。,"Hello, Doctor.","Здравствуйте, Доктор."
-line-634,,Lancet-2，我来体检了……,"Lancet-2, I'm here for my examination.","Ланцет-2, я пришла на медосмотр..."
+line-634,,Lancet-2，我来体检了……,"Lancet-2, I'm here for my examination.","Lancet-2, я пришла на медосмотр..."
 line-636,,你看起来状态不太好，有什么心事吗？,"You seem upset, something on your mind?",Ты выглядишь неважно. Что-то на уме?
 line-639,Lancet-2,博士……对不起，我没有照顾好你。,"Doctor... I'm sorry, I haven't taken good care of you.","Доктор... прости, я за тобой не присмотрела."
 line-642,,多亏Lancet-2的帮助，我的体检结果一直正常。,"But thanks to you, my results come back normal.",Но благодаря тебе результаты моих медосмотров всегда в норме.
@@ -256,7 +256,7 @@ line-656,Lancet-2,体检结果出来了，各项数据指标——,"The results 
 line-657,Lancet-2,一切正常。太好了。,Everything normal. Wonderful.,Всё в норме. Отлично.
 line-660,,我都说了，不用担心。;完全没有担心的必要。,"See, worrying over nothing.;There's absolutely no need to worry.","Я же говорила, волновать нечего.;Совершенно нечего волноваться."
 line-663,Lancet-2,（减少了博士的咖啡配给，果然还是有用的。）,"(The Doctor's coffee ration has been reduced, but they still consume it regularly.)",(Сократила Доктору рацион кофе. Всё же подействовало.)
-line-665,埃拉托,Lancet-2的工作真的很出色啊……,"You're really great at your work, Lancet-2.",Ланцет-2 и правда отлично работает...
+line-665,埃拉托,Lancet-2的工作真的很出色啊……,"You're really great at your work, Lancet-2.",Lancet-2 и правда отлично работает...
 line-666,埃拉托,……,......,...
 line-669,,埃拉托，你还好吗？,"Are you alright, Erato?","Эрато, ты в порядке?"
 line-672,埃拉托,啊，抱歉，我刚刚只是在思考……,"Oh, sorry, I was just thinking...","А, прости, я просто задумалась..."
