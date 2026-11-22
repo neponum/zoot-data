@@ -1,0 +1,511 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_iris_1_1,糖果屋
+,,,,
+char-1,爱丽丝,爱丽丝,Iris,Айрис
+char-2,贝娜,贝娜,Bena,Бена
+char-3,雷蒙德,雷蒙德,Raymond,Рэймонд
+char-4,于里安,于里安,Jurian,Жюльен
+char-5,贪婪的佣兵,贪婪的佣兵,Greedy Mercenary,Жадный наёмник
+char-6,粗暴的佣兵,粗暴的佣兵,Brutish Mercenary,Грубый наёмник
+char-7,医生,医生,A Doctor,Врач
+,,,,
+line-10,爱丽丝,哼哼~♪就是这里吗？,Hm-hmm~♪ And this is the place?,Хм-хм~♪ Это здесь?
+line-12,贝娜,没错。,Yep.,Да.
+line-13,贝娜,雷蒙德·伯纳德，这是他三十七年前存放的物品。,Raymond Bernard. He left his keepsake with us 37 years ago.,Рэймонд Бернар. Он оставил это у нас тридцать семь лет назад.
+line-15,爱丽丝,一本童话故事集？,A fairytale collection?,Сборник сказок?
+line-16,爱丽丝,嗯，应该是小孩子自己写的，很稚嫩……,Hm. It must be written by the child himself. It's very callow...,"Хм, похоже, его написал сам ребёнок. Очень наивненько..."
+line-18,爱丽丝,但是，也有令人印象深刻的部分。,"But it leaves a deep impression in parts, too.",Но кое-где он по-настоящему трогает.
+line-20,贝娜,什么？,Hm?,Что?
+line-22,贝娜,哪里哪里？,"Show me, show me.",Где? Покажи!
+line-24,爱丽丝,“我以后要让所有人看我写的童话故事。”,"'One day, I will make everyone read the fairytales that I write.'","«Однажды я заставлю всех читать сказки, которые я напишу.»"
+line-26,爱丽丝,他在第一页是这么写的。,"Verbatim by him, on the first page.",Так он написал на первой странице.
+line-28,贝娜,童话故事……,Fairytales...,Сказки...
+line-30,贝娜,眼前这里只有令人窒息的味道，还有一路上那些无礼可耻的流氓。,"What I'll say is, I could choke on the smell of this place. And all the hooligans we've crossed! Shameful manners.","Здесь только удушливый запах, да ещё эти нахальные мерзавцы по дороге."
+line-32,爱丽丝,美好的童年幻想，和现在糟糕的状况。,"Beautiful childhood dreams, and wretched present.",Прекрасные детские мечты и убогое настоящее.
+line-34,爱丽丝,每一次任务都是这么的不搭调。,Every undertaking feels just as disharmonious as this.,Каждое дело здесь — такая несусветная смесь.
+line-45,雷蒙德,外面的，你们进来吧。,"Whoever's outside, you can come in.","Кто там снаружи, заходите."
+line-57,雷蒙德,说了，没钱！！真没了！,"I've told you, I've got no money! I'm flat broke!","Я же говорю, денег нет! Совсем нет!"
+line-58,雷蒙德,对不起……我不是说不想还……,I'm sorry... I'm not saying I won't repay...,"Простите... я не говорю, что не верну..."
+line-60,雷蒙德,但我很快！很快就会有钱！真的！,"But soon! Real soon, I'll have the money! Cross my heart!",Но скоро! Совсем скоро деньги появятся! Честно!
+line-62,贝娜,（呃……这个时间，他不应该在这里才对。）,(Er... he shouldn't be in at this time.),(Э-э... в это время его здесь быть не должно.)
+line-63,贝娜,（奶奶搞错了吗？）,(Did Granny get something wrong?),(Бабушка ошиблась?)
+line-65,爱丽丝,（我不知道，的确很少出现这种情况。）,(I don't know. We certainly don't tend to run into things like this.),(Не знаю. Такое и правда редко случается.)
+line-67,爱丽丝,（不过也有可能是奶奶有意安排。）,(But there's a chance Granny set this up on purpose.),"(Но возможно, бабушка всё подстроила намеренно.)"
+line-69,贝娜,（为什么？）,(Why?),(Почему?)
+line-71,爱丽丝,（因为这就是童话故事啊。）,(Because this is a fairytale.),(Потому что это сказка.)
+line-73,爱丽丝,（仙女总是会在适当的时间出现在适当的人身边。）,"(And the fairy always shows up to the right person, at the right time.)",(Фея всегда появляется в нужное время рядом с нужным человеком.)
+line-83,爱丽丝,我是爱丽丝，梦城堡的主人，摇篮的守门人。,"I am Iris, Master of the Castle of Dreams, Keeper of the Cradle.","Я — Айрис, хозяйка Замка Снов, хранительница Колыбели."
+line-84,爱丽丝,按照约定，前来归还你曾经寄存在城堡的东西。,"As per our agreement, I've come to return something once left to the castle.","Согласно договору, я пришла вернуть то, что вы когда-то оставили в замке."
+line-86,雷蒙德,原来是来推销的……抱歉，我不想买，也买不起。,"Oh, you're door-to-door people... Sorry, I'm not buying, couldn't afford it anyway.","Ах вы торговцы... Простите, я ничего не покупаю, да и денег нет."
+line-87,雷蒙德,话说回来，你们老板居然让小姑娘来这么偏僻的地方。,"And to be deathly honest, I'm surprised your boss is sending little girls out to this lonely a place.","И честно говоря, удивлена, что ваш шеф отправляет маленьких девочек в такую глушь."
+line-89,爱丽丝,真是的，为什么就不能礼貌地听人把话说完呢？,"Honestly, why can nobody just listen politely until someone is done speaking?",Ну почему никто не может вежливо выслушать до конца?
+line-91,爱丽丝,这本寄存的童话集是你曾经和梦城堡的约定。,This is the fairytale collection you agreed to leave with the Castle of Dreams.,"Этот сборник сказок — тот самый договор, что вы заключили с Замком Снов."
+line-93,雷蒙德,……梦城堡？抱歉，我没有听过这个牌子。,"...Castle of Dreams? Sorry, not a brand I've heard of.","...Замок Снов? Простите, я не слышала о такой марке."
+line-101,雷蒙德,你们……你们从哪里搞来的这个东西？,Where... Where did you get this?,Вы... откуда у вас это?
+line-103,雷蒙德,这不可能！,You're pulling my leg!,Не может быть!
+line-105,贝娜,喂，你这个人怎么一惊一乍的，梦城堡就是童话的梦城堡啊。,"Hey, what are you flustered for? The Castle of Dreams, the one from the fairytales, you know.","Эй, чего ты всполошился? Замок Снов — он из сказок, ну!"
+line-107,贝娜,爱丽丝是梦城堡的继承人，为孩子送去美好和希望的仙女。,"Iris is the heir, the fairy who gives children wonderful hopes.","Айрис — наследница замка, фея, что дарит детям прекрасные надежды."
+line-109,贝娜,锵锵！童话的确是真的哦。,Ting-a-ling! Fairytales are in fact real.,Динь-динь! Сказки и правда бывают наяву.
+line-112,爱丽丝,既然约定已经完成……,Seeing as the agreement is fulfilled...,Если договор выполнен...
+line-113,爱丽丝,那么我们便就此离开，愿你能时常想起自己写下的童话。,I think we'll be leaving now. We hope the fairytales you wrote stay with you forevermore.,"...то мы пойдём. Пусть сказки, что вы написали, останутся с вами навсегда."
+line-118,雷蒙德,仙女……等一下！,"The fairy... Hold on, wait!",Фея... погодите!
+line-123,雷蒙德,你站住！,Stop right there!,Стойте!
+line-125,贝娜,你想干什么？！,What do you think you're up to?!,Что вы замышляете?!
+line-127,雷蒙德,对不起……我不是那个意思。,Sorry... misunderstanding.,Простите... я не то хотел сказать.
+line-128,雷蒙德,我也不知道你们是不是真的……但，真的太像了，太像了！,I've no clue if you're real or not... but—you look so much like it! So much!,"Не знаю, настоящие вы или нет... но вы так похожи! Так похожи!"
+line-129,雷蒙德,你们的衣服……你们说的，一切。,"Your clothes... your speech, everything.","Ваша одежда... ваши слова, всё."
+line-131,爱丽丝,真是无礼的发言。,What utterly rude remarks.,Какая невежливая речь.
+line-133,爱丽丝,我们可不是什么编造谎言的骗子。,We're not concoctors of lies here. Do you think we're swindling you?,"Мы не выдумываем ложь. Неужели вы думаете, что мы вас обманываем?"
+line-135,贝娜,要惩罚他吗？,Should we punish him?,Наказать его?
+line-137,雷蒙德,不是不是，是这样。,"No, no, okay.","Нет-нет, дело вот в чём."
+line-138,雷蒙德,今天……是一个孩子的生日，孤儿院的孩子。,"Today is... a child's birthday, here at the orphanage.","Сегодня... день рождения ребёнка, здесь, в приюте."
+line-139,雷蒙德,我想请你们以仙女的身份，陪我一起，给他过生日。,"I want you, as fairies, to come celebrate his birthday with me.","Я хочу, чтобы вы, как феи, пришли и отпраздновали с ним день рождения."
+line-140,雷蒙德,留下一个……如童话般美好的回忆。,Give him... give him something as fine as a fairytale to remember.,"Оставьте ему... воспоминание, прекрасное, как сказка."
+line-143,雷蒙德,这也是……那个孩子的愿望。,"That's... what he wishes for, and all.",Это тоже... желание того ребёнка.
+line-145,爱丽丝,一个孩子的愿望？,The wish of a child?,Желание ребёнка?
+line-147,爱丽丝,如果你说的的确是真的……,If what you're saying is true...,"Если то, что вы говорите, правда..."
+line-149,雷蒙德,真的真的！,"It is, true as all!",Правда-правда!
+line-155,爱丽丝,为每一个孩子创造并保存最美好的回忆……,Creating and safeguarding wonderful memories for each and every child...,Создавать и хранить прекрасные воспоминания для каждого ребёнка...
+line-157,爱丽丝,的确是仙女的职责。,"Yes, it <i>is</i> a fairy's duty.","— да, это и есть доля феи."
+line-167,雷蒙德,那个……我还是得提前和你们说，这个孩子可能会……有点不一样。,"Um... I need to tell you in advance, though, the boy might be a little... different.",Э-э... мне всё же надо предупредить: мальчик может быть немного... странным.
+line-168,雷蒙德,也不是，这个孩子很乖的。但……,"Well, no, he's a good kid. But...","Нет, он хороший мальчик. Но..."
+line-169,雷蒙德,反正，到时候不管发生什么，千万不要生他的气。,"Anyway, no matter what happens, please don't get mad at him.","В любом случае, что бы ни случилось, не сердитесь на него."
+line-170,雷蒙德,最重要的是一定不要穿帮，求你们了！,"And most importantly, don't blow the act! I beg you!",И главное — не изобличайте себя! Умоляю!
+line-172,爱丽丝,他叫什么名字？今年多大了？,What's his name? How old is he this year?,Как его зовут? Сколько ему лет?
+line-174,雷蒙德,于里安。,Jurian.,Жюльен.
+line-176,雷蒙德,今年……七岁，不……八岁吧。,"He's turning... seven, no... let's say eight.","Ему... семь, нет... наверное, восемь."
+line-178,爱丽丝,你连孩子的岁数都不记得吗？,You don't even remember his age?,"Вы даже не помните, сколько ему лет?"
+line-180,雷蒙德,呵……,Ugh...,Эх...
+line-182,雷蒙德,八岁……八岁。,Eight... eight.,Восемь... восемь.
+line-191,贝娜,（我觉得这个人有点不太正常，你确定要去吗？）,(I think something's not quite normal about this man. Are you sure about going?),"(Мне кажется, он какой-то не такой. Ты уверена, что мы идём?)"
+line-193,贝娜,（当然我会保护你的。）,"(I'll be covering you, of course.)","(Я тебя прикрою, разумеется.)"
+line-195,爱丽丝,（无论是大人还是小孩，只要撒谎，都是瞒不过仙女的眼睛的哦。）,"(Grown-up or child, no one can fool a fairy when they lie.)","(И взрослый, и ребёнок не могут обмануть фею, когда лгут.)"
+line-197,爱丽丝,（虽然他的确没有全部说实话……）,(He's not entirely told us the truth...),(Хотя он не всё нам рассказал...)
+line-199,爱丽丝,（但我更在意的是孩子。）,(But what I'm more concerned about is the boy.),(Но меня больше волнует ребёнок.)
+line-212,雷蒙德,于里安。,Jurian.,Жюльен.
+line-213,雷蒙德,你藏哪里啦？,Where are you hiding?,Где ты прячешься?
+line-215,贝娜,他一直在偷瞄我们，心里有鬼？,He's been sneaking glances at us the whole time. Maybe something's up with him?,Он всё время на нас поглядывает. Что-то он задумал?
+line-217,爱丽丝,有可能……是因为你一直拿着剪刀。,It might be... because you've been holding onto your scissors.,Может быть... потому что у тебя в руках ножницы.
+line-219,贝娜,哼，当然要时刻注意这些大人。,"Hmph. Well, somebody's got to be keeping an eye on the grown-ups.",Хм. Надо присматривать за взрослыми.
+line-229,于里安,……,......,...
+line-235,贝娜,小心！,Careful!,Осторожно!
+line-237,爱丽丝,……,......,...
+line-238,爱丽丝,贝娜，你吓到他了。,"Bena, you've scared him.","Бена, ты его напугала."
+line-240,爱丽丝,这只是个孩子。,He's just a child.,Он же просто ребёнок.
+line-247,于里安,……,......,...
+line-252,于里安,你是……蓝颜色的，好看。,You're... blue. Pretty.,Ты... синий. Красивый.
+line-257,于里安,紫颜色的……危险……,Purple... dangerous...,Фиолетовый... опасный...
+line-259,贝娜,（喂！）,(Hey!),(Эй!)
+line-261,爱丽丝,（难怪雷蒙德说他只有八岁。）,(No wonder Raymond said he was only eight.),"(Неудивительно, что Рэймонд говорил — ему всего восемь.)"
+line-263,爱丽丝,（一个永远留在了那段时间的……孩子。）,"(He's been left to remain in that period, forever... a child.)","(Ребёнок, который навсегда остался в том возрасте...)"
+line-265,爱丽丝,晚上好，于里安。,"Good evening, Jurian.","Добрый вечер, Жюльен."
+line-267,爱丽丝,我是爱丽丝，蓝颜色。,"I'm Iris, the blue one.",Я — Айрис. Синяя.
+line-269,爱丽丝,就像没有天灾迹象的天空。,Just like the sky when there's no sign of Catastrophe.,"Как небо, на котором нет и следа Катастрофы."
+line-271,于里安,爱丽丝……天空。,Iris... sky.,Айрис... небо.
+line-273,爱丽丝,那位叫贝娜，紫颜色，有毒的紫藤。,"That's Bena, the purple one. Poisonous wisteria.",А та — Бена. Фиолетовая. Ядовитая глициния.
+line-275,爱丽丝,但是只有别有所图的坏人才会尝到它的毒性。,"But her poison is only for bad people, who try to be sneaky.","Но её яд достаётся только плохим людям, которые что-то замышляют."
+line-277,贝娜,哼哼。,Heheh.,Хе-хе.
+line-279,雷蒙德,（那个……你别看我啊！）,(You... Don't give me that!),(Эй... не смотри на меня!)
+line-281,于里安,坏蛋……,Baddie...,Плохой...
+line-284,于里安,叔叔不是坏蛋。,Uncle isn't baddie.,Дядя не плохой.
+line-286,爱丽丝,（他在刻意躲着我们，特别是雷蒙德。）,"(He's hiding from us on purpose, and especially Raymond.)",(Он нас сторонится. Особенно Рэймонда.)
+line-288,爱丽丝,（于里安在说自己是坏人吗？）,(Is Jurian calling himself a bad person?),(Жюльен называет себя плохим?)
+line-290,爱丽丝,于里安，坏人是见不到童话里的仙女的哦。,"Jurian, bad people don't meet the fairy from the stories.","Жюльен, плохим людям не встретить фею из сказки."
+line-292,爱丽丝,你的叔叔跟我说今天是你的生日。,Your uncle told me today was your birthday.,"Твой дядя сказал, что сегодня у тебя день рождения."
+line-294,于里安,……生日。,...Birthday.,...День рождения.
+line-296,雷蒙德,是的，你的生日！,"That's right, your birthday!","Да, день рождения!"
+line-300,于里安,对，生日！,"Yes, birthday!",Да! День рождения!
+line-301,于里安,今天是我的生日！叔叔。,Today's my birthday! Uncle.,"Сегодня мой день рождения, дядя!"
+line-303,雷蒙德,所以童话里的仙女来了哦，来给你过生日了。,"So the fairy from the stories is here, to celebrate your birthday.",Так фея из сказки пришла — отпраздновать твой день рождения.
+line-305,于里安,童话……仙女，新的朋友？,Stories... fairy. New friend?,Сказка... фея. Новый друг?
+line-309,爱丽丝,……,......,...
+line-313,雷蒙德,啊……对对对！,"Um... yes, yes, yes!",А... да-да-да!
+line-315,于里安,你好……,Hello...,Здравствуйте...
+line-324,于里安,于里安，会伤害……危险。,"Jurian, might hurt... dangerous.",Жюльен... может причинить вред... опасно.
+line-325,于里安,不能见面。,Can't meet.,Нельзя встречаться.
+line-327,雷蒙德,……,......,...
+line-333,雷蒙德,啊，于里安！,"Oh, Jurian!","Ах, Жюльен!"
+line-337,贝娜,跑掉了。,He's done a runner.,Он убежал.
+line-339,贝娜,你不会是吓到他了吧？,"You didn't frighten him, did you?",Ты его не напугал?
+line-341,爱丽丝,不是我吓跑他的。,It wasn't me that scared him off.,Это не я его испугала.
+line-343,爱丽丝,（怎么没有看见孤儿院里的其他孩子？）,(Why haven't I seen any more of the orphanage's children?),(Почему я не вижу других детей из приюта?)
+line-345,爱丽丝,（这里只有他们两个人？）,(Are the two of them the only ones here?),(Они вдвоём — и больше никого?)
+line-353,雷蒙德,于里安，听话。,"Jurian, listen now.","Жюльен, послушай."
+line-354,雷蒙德,把门开开，好不好？,"Open up the door, okay?","Открой дверь, ладно?"
+line-361,爱丽丝,让他自己待一会儿吧。,Leave him be for a while.,Оставь его в покое на время.
+line-363,爱丽丝,你这样只会让他更紧张。,You'll only make him more nervous at this rate.,Так ты только сильнее его напугаешь.
+line-365,雷蒙德,对不起……他可能太久没有见到生人了。,Sorry... I think it's been too long since he's seen a stranger.,Прости... он давно не видел незнакомцев.
+line-366,雷蒙德,他平常不是这样的……很乖的。,He's not usually like this... he's good.,Обычно он не такой... он хороший.
+line-368,爱丽丝,希望见到童话里的仙女，一起过生日。,Meet a fairy from the stories. Celebrate a birthday together.,Встретить фею из сказки. Отпраздновать день рождения.
+line-370,爱丽丝,雷蒙德，这真的是于里安的愿望吗？,"Raymond, was that really Jurian's wish?","Рэймонд, это правда было желание Жюльена?"
+line-372,雷蒙德,……,......,...
+line-374,爱丽丝,事实上，我看他一直在躲着你。,"I'll be frank, I've noticed how he avoided you the whole time.","Прямо скажу: я заметила, как он всё время тебя избегал."
+line-376,爱丽丝,故意隔开距离，甚至不愿意碰触。,"Keeping a distance on purpose, even denying contact.","Держится на расстоянии, даже не хочет прикасаться."
+line-378,爱丽丝,他，很怕你。,He... fears you.,Он... боится тебя.
+line-383,雷蒙德,不是的！,No!,Нет!
+line-385,雷蒙德,不是！,No he doesn't!,"Нет, не боится!"
+line-387,贝娜,咔嚓咔嚓！,Chop-chop!,Щёлк-щёлк!
+line-389,雷蒙德,啊……对不起。我是说……,Agh... I'm sorry. I mean...,Ах... прости. Я хотел сказать...
+line-390,雷蒙德,于里安只是有些……,Jurian's just a bit...,Жюльен просто немного...
+line-391,雷蒙德,不舒服。,Uncomfortable.,...не в себе.
+line-392,雷蒙德,我也好久没有陪过他了，所以……,"I haven't spent time with him in a long while, too, so...","Я и сам давно с ним не занимался, поэтому..."
+line-394,爱丽丝,（看来的确是这样了。）,(It seems I'm right.),"(Кажется, я права.)"
+line-396,爱丽丝,（渴求仙女童话的是雷蒙德，而不是于里安。）,"(The one longing for a fairytale here is Raymond, not Jurian.)","(Феи хочет Рэймонд, а не Жюльен.)"
+line-401,爱丽丝,撒谎是坏人，并且会被驱逐出童话世界的哦。,"You know liars are bad people, and bad people get banished from fairytale worlds.","Лжецы — плохие люди, а плохих людей изгоняют из сказочного мира, знаешь ли."
+line-403,雷蒙德,没有没有！,"I'm not, I'm not!","Я не лгу, не лгу!"
+line-405,爱丽丝,如果你不想这个故事就这样结束的话……,If you don't want this story to end like that...,"Если ты не хочешь, чтобы эта история закончилась так..."
+line-407,雷蒙德,……,......,...
+line-409,爱丽丝,这里只有你和他两个人？其他的孩子呢？,Is it just the two of you here? Where are the rest of the children?,Здесь только вы двое? Где остальные дети?
+line-411,爱丽丝,实话实说哦。,Be honest this time.,Говори правду.
+line-415,雷蒙德,唉……,*sigh*...,Эх...
+line-416,雷蒙德,你要是非要问的话。,If you must ask.,Раз ты так настаиваешь.
+line-417,雷蒙德,很多年前，我不过是一时心软收养了一个孩子。,"It was years and years ago, I only adopted a child out of a moment of softheartedness.",Много лет назад я просто из жалости усыновил одного ребёнка.
+line-418,雷蒙德,结果从那以后……孩子越来越多，稀里糊涂地我这儿也就成了孤儿院。,"But after that... well, more and more children came in, and before I even knew it, my place became an orphanage.","А потом... детей становилось всё больше, и не успел я оглянуться, как мой дом стал приютом."
+line-419,雷蒙德,没想到……我家里的产业越来越破败，最后弄成这样。,"I didn't realize... my home would get so run-down over time, though. The state it's in now...","Я не заметил, как дом мой ветшал. До того, что вот — такого состояния."
+line-420,雷蒙德,这么多年过去，大部分的孩子都已经离开，于里安是唯一一个还留在这里的。,"With so many years gone by, most of the children have left. Jurian's the only one who's stayed here.","Прошло много лет, большинство детей ушли. Жюльен — единственный, кто остался."
+line-421,雷蒙德,他的情况，你也看到了。,You've seen—how he is.,"Ты сам видишь, какой он."
+line-429,雷蒙德,啊，看来是送蛋糕的到了。,"Oh, I think that's the cake people come to deliver.","А, кажется, принесли торт."
+line-430,雷蒙德,就再多留一会儿，过完生日就行。求求你们！,"Just hang around a while longer, just until we're done celebrating. Please, I'm begging you!","Побудьте ещё немного, просто отпразднуйте день рождения. Умоляю!"
+line-431,雷蒙德,你们真的很专业，我可以加钱！万分感谢！,"You're such professionals, honestly, I can pay you extra! You have my thanks a million times!","Вы такие профессионалы, я могу заплатить вам больше! Спасибо вам огромное!"
+line-440,贝娜,真是过分啊。,How overboard.,Как нелепо.
+line-442,贝娜,我们像是随便花钱就能请来的那种蹩脚的维多利亚剧场演员吗？,"What are we, actors for hire from some flimsy Victorian theater? I hardly think we have hourly rates.","Мы что, актёры из жалкого викторианского театра, которых можно нанять за дёшево? У нас нет почасовой оплаты."
+line-444,贝娜,明明那么喜欢去看那些精心编排过的故事，却没人相信发生在身边的童话。,They're all such lovers of the exquisite craft that makes up those stories—and yet they don't believe the fairytale happening right in their faces.,"Они так любят изящно составленные истории — и при этом не верят в сказку, которая происходит у них на глазах."
+line-446,爱丽丝,精巧的故事总是在现实里有所对应，它有迹可循，就像安全出口的标志，让人欢欣雀跃，如获救赎。,"The more elaborate stories are always married to reality in some form. It comes in clear indicators, like signs on emergency exits, the kinds of things that make people jump for joy as if they've been redeemed.","Искусные истории всегда так или иначе связаны с реальностью. У них есть явные приметы, как указатели у аварийного выхода, — от них сердце радуется, будто тебя спасли."
+line-448,爱丽丝,可童话太过随意，随意到即便想要祈求得到，都不知道如何去求告。,"But fairytales are too free, freeform to the point you might want to pray for something, but wouldn't even know how to start going about it.","А сказки слишком вольные. До того вольные, что можно захотеть что-то вымолить, но даже не знать, с чего начать просьбу."
+line-450,爱丽丝,所以大人不会去相信，他们需要的是随叫随到、明码标价的帮手。,"That's why grown-ups don't believe. What they're after is help that comes with a clear price tag, anywhere, anytime.","Поэтому взрослые не верят. Им нужна помощь с чёткой ценой, здесь и сейчас."
+line-452,爱丽丝,但是孩子会去相信，因为童话是身边随行的伙伴，哪怕身处幽暗的深谷，也不至孤独恐惧。,"But children will believe, because fairytales are the friends that accompany them. Even in the gloomy vales, there's no fear they're alone.","А дети верят, потому что сказки — это друзья, которые всегда рядом. Даже в мрачной долине они не боятся одиночества."
+line-454,贝娜,……,......,...
+line-456,爱丽丝,不过，你没有发现吗？,"That said, haven't you realized?","Впрочем, разве ты не заметила?"
+line-458,爱丽丝,雷蒙德才是真的期望有仙女的那个。,Raymond is the one who's truly hoping for a fairy.,"Рэймонд — тот, кто по-настоящему хочет фею."
+line-460,贝娜,那个家伙？明明自己都不信童话。,Him? You can tell he doesn't believe in fairytales from a mile away.,"Он? Да по нему видно, что он не верит в сказки."
+line-462,爱丽丝,因为“仙女”总能带来奇迹，哪怕他认为这并不是因为童话。,"'Fairies' always bring miracles, after all. The fact he doesn't credit fairytales hardly matters.","«Феи» всегда творят чудеса. Неважно, что он сам не объясняет это сказкой."
+line-464,爱丽丝,但只要于里安能相信，只要于里安能有一个“完美的生日”……,"As long as Jurian can believe, as long as he can have 'a perfect birthday'...","А если Жюльен поверит, если у него будет «идеальный день рождения»..."
+line-466,爱丽丝,他就可以接受。,He'll accept it.,— он это примет.
+line-468,贝娜,听起来他像是在利用我们。,Sounds like he's using us.,"Похоже, он нами воспользуется."
+line-470,贝娜,我跟着他。,I'll tail him.,Я послежу за ним.
+line-472,爱丽丝,贝娜，不要轻举妄动。,"Just don't do anything rash, Bena.","Бена, не делай ничего опрометчивого."
+line-474,贝娜,那你呢？,What about you?,А ты?
+line-476,爱丽丝,四处看看，既然要构建一个童话梦境，当然要接触过、认知过、了解过才可以。,"I'll take a look around. If we're going to construct a fairytale dreamland, we need to feel things out, think them through, know them top to bottom.","Осмотрюсь. Если мы собираемся построить сказочный сон, нужно его прочувствовать, обдумать, узнать досконально."
+line-478,爱丽丝,更何况那个孩子可不是装出来的，我不能就这样丢下不管。,"And need I say, this is quite real. The child isn't feigning it. I can't just toss this aside.",И к тому же этот ребёнок не притворяется. Я не могу так просто всё бросить.
+line-482,爱丽丝,如果雷蒙德真的想干坏事……,If Raymond does intend on doing anything bad...,Если Рэймонд и правда замышляет что-то дурное...
+line-486,贝娜,我会惩罚他的。,I'll be punishing him.,Я его накажу.
+line-488,贝娜,咔嚓咔嚓！,Chop-chop!,Щёлк-щёлк!
+line-499,雷蒙德,……,......,...
+line-500,雷蒙德,你们可真是一刻都不愿意等。,You really can't just hang on one moment?,Вы и минуты не можете подождать.
+line-508,贪婪的佣兵,兄弟们可急着发财呢。,"We're in a hurry to get rich, us brothers.",Братцы спешат разбогатеть.
+line-510,粗暴的佣兵,拿出来吧，这次都有些什么好东西？,Fork it over. Whatcha got this time?,"Выкладывай, что на этот раз принёс?"
+line-513,雷蒙德,……,......,...
+line-514,雷蒙德,等一下。,Wait.,Погодите.
+line-522,雷蒙德,这次就这些了。,Just this much.,На этот раз только столько.
+line-527,贪婪的佣兵,哟吼！,"Oh, yeah!",Ого!
+line-531,雷蒙德,小声点！,Quiet!,Тише!
+line-536,贪婪的佣兵,怎么？你还怕那个傻子发现啊？,What? Scared your dumb boy's going to find out?,"Что? Боишься, что твой тупой мальчик услышит?"
+line-538,粗暴的佣兵,发现了又能怎么样，杀了不就是了。,"What's it matter if he does? Just do him in, job's done.","Пусть услышит — грохнём его, и дело с концом."
+line-542,雷蒙德,……,......,...
+line-543,雷蒙德,我的钱呢？,And my money?,А мои деньги?
+line-547,贪婪的佣兵,给。,Here.,Держи.
+line-552,雷蒙德,……,......,...
+line-557,贝娜,真是……,You really are...,Вы и правда...
+line-559,贝娜,一群坏孩子。,A bunch of terrible children.,...стая плохих детей.
+line-561,粗暴的佣兵,谁？！,The hell are you?!,Кто?!
+line-574,爱丽丝,看起来，这里的确曾经有很多孩子。,"By the looks of things, plenty of children did once live here.","Судя по всему, здесь и правда когда-то жило много детей."
+line-576,爱丽丝,几乎所有的房间都被改成了小孩的卧室，还有这么多小孩子用的东西。,"Almost all the rooms have been turned into child's bedrooms, and the place is littered with child-sized odds and ends.","Почти все комнаты переделаны в детские спальни, и повсюду разбросаны детские мелочи."
+line-589,爱丽丝,奇怪……于里安的房间离其他孩子的都很远。,It's odd though... Jurian's room is so far away from all the rest of them.,Странно... Комната Жюльена расположена так далеко от всех остальных.
+line-591,爱丽丝,甚至不在一个楼层。,It's not even on the same floor.,Даже не на том же этаже.
+line-593,爱丽丝,倒是和雷蒙德的房间很近。,But it is very close to Raymond's.,Зато совсем рядом с комнатой Рэймонда.
+line-597,爱丽丝,咦？,Oh?,О?
+line-604,爱丽丝,这是所有孩子的合照吗？,Is this a group photo of them all?,Это общая фотография всех детей?
+line-606,爱丽丝,一……二……,One... two...,Раз... два...
+line-610,爱丽丝,十三个孩子。,Thirteen children.,Тринадцать детей.
+line-612,爱丽丝,于里安不在上面？,And Jurian's absent?,А Жюльена на ней нет?
+line-617,于里安,哼哼~♪为什么我们总在路上，离开了城市，越过了村庄~♪,"Hmm, hmm~♪ Why do we always travel so far flung, out from the city, through village old and young~♪","Хм-хм~♪ Почему мы всё в пути, прочь из города, мимо деревень~♪"
+line-637,于里安,无人回答，无人照看，牧人将驮兽留在了荒野上~♪,"No soul to answer, no soul to care, the shepherds leave the beasts in the wild to fare~♪","Никто не ответит, никто не позовёт, пастухи бросили животных в пустошах~♪"
+line-638,于里安,不要沮丧，不要忧伤……,"Don't shed a tear now, don't let it hurt...","Не горюй, не грусти..."
+line-643,于里安,奥德蕾，坐这里。,"Audrey, sit here.","Одри, садись сюда."
+line-644,于里安,坐旁边，皮维。,"Peewee, next to you.","Пиви, рядом с ней."
+line-652,,锈蚀的银色茶壶，褪色的积木方块……,"A rusted silver-gray teapot, a faded building block...","Ржавый серебристый чайник, выцветший кубик конструктора..."
+line-653,,这些毫无生命的物品却一个个被于里安赋予了名字。,"These items lacking any life are, one by one, given names by Jurian.",Эти безжизненные предметы один за другим получают имена от Жюльена.
+line-654,,在于里安模糊的意识中，它们就是曾经的玩伴。,"In Jurian's nebulous perception, they are, and have always been, his playmates.",В его смутном сознании они — его давние товарищи по играм.
+line-663,爱丽丝,晚上好啊，于里安。,"Good evening, Jurian.","Добрый вечер, Жюльен."
+line-667,于里安,啊！,Ah!,Ах!
+line-669,爱丽丝,咦，怎么了？,"Oh, what's wrong?","О, что случилось?"
+line-671,于里安,乱了！乱了！,Mess! Mess!,Беспорядок! Беспорядок!
+line-672,于里安,不能弄乱！,You can't make messy!,Нельзя беспорядок!
+line-675,于里安,勺子，刀……,"Spoon, knife...","Ложка, нож..."
+line-678,于里安,叉子，叉子……,"Fork, fork...","Вилка, вилка..."
+line-680,爱丽丝,啊，真是对不起呢。,"Ah, I'm so sorry about that.","Ах, прости, пожалуйста."
+line-689,爱丽丝,好了，这下整齐了哦。,"There, now we're all in place.","Вот, теперь всё по местам."
+line-691,于里安,嗯……不能弄乱……,Mmm... can't make messy...,Мм... нельзя беспорядок...
+line-693,爱丽丝,还记得我吗？,Do you remember me?,Ты меня помнишь?
+line-695,于里安,嗯，蓝颜色的。,Mm. Blue.,Мм. Синий.
+line-696,于里安,没有天灾的颜色，朋友。,Color like no Catastrophe. Friend.,Цвет неба без Катастрофы. Друг.
+line-698,爱丽丝,没错，没有天灾的天空。,That's right. No Catastrophe in the sky.,Верно. Небо без Катастрофы.
+line-699,爱丽丝,这些可爱的小家伙，你不介绍一下吗？,Won't you introduce me to all your lovely little friends?,А этих милых малышей ты не представишь?
+line-706,于里安,……于里安，不能接触。,"...Jurian, can't touch.",...Жюльен... нельзя касаться.
+line-708,爱丽丝,……,......,...
+line-714,爱丽丝,真是的，这样对待专程而来的仙女，可是非常无礼的哦。,"Really, what a way to treat a fairy who's come to visit. It's incredibly rude, you know.","Ну вот, вот так встречают фею, которая пришла издалека? Очень невежливо, знаешь."
+line-716,爱丽丝,既然这样……,If that's how it must be...,Раз так —
+line-732,于里安,啊……,Ah...,Ах...
+line-734,爱丽丝,火呀灯呀，引着走呀~♪,"Now come wisplight and lamplight, come light up the way~♪","Огоньки и фонари, осветите нам путь~♪"
+line-735,爱丽丝,请来我们的小小茶会吧~♪,Come to our little tea party to stay~♪,Приходите на наш маленький чай~♪
+line-738,,“孩子”的眼眸犹如慢慢放大的舞台。,The eyes of the 'children' are like a stage growing in all directions.,"Глаза «детей» — как сцена, что растёт во все стороны."
+line-739,,童话森林的晨风远道而来，拂起窗纱。,"From afar comes a fairytale forest's morning breeze, wafting through the curtains.",Утренний ветер сказочного леса прилетает издалека и колышет занавески.
+line-740,,撩起烛台上的炽火，结为舞伴。,The flames upon the candlesticks entwine like partners for the ball.,"Пламя на подсвечниках сплетается, как партнёры на балу."
+line-742,爱丽丝,守卫唱唱跳跳~♪,"Here come the guards, and they dance and sing for us~♪",Стражники поют и пляшут~♪
+line-744,爱丽丝,拿着剪刀，咔嚓咔嚓~♪,Carrying scissors to chop-chop away~♪,С ножницами — щёлк-щёлк~♪
+line-747,,欢腾。,Jubilation.,Ликование.
+line-748,,跳跃。,"Hops, skips, and jumps.",Прыжки.
+line-749,,这是献给孩子的魔法。,This is the magic that children are given.,"Это магия, что даруется детям."
+line-759,于里安,……,......,...
+line-760,于里安,很漂亮，好看！,Really beautiful! Pretty!,Красиво! Прекрасно!
+line-762,爱丽丝,可不是每一个孩子都能这么幸运见到仙女的魔法。,"Not every child is lucky enough to witness a fairy's magic, you know.","Не каждый ребёнок может увидеть магию феи, знаешь."
+line-764,爱丽丝,所以你一定是非常特别的一个。,So you must be a tremendously exceptional one.,"Значит, ты — очень особенный."
+line-766,于里安,仙女，新的朋友……,"Fairy, new friend...",Фея... новый друг...
+line-768,爱丽丝,仙女当然是朋友啦。,Of course Miss Fairy is your friend.,"Конечно, фея — друг."
+line-770,于里安,于里安，伤害朋友，害怕。,"Jurian, scared, to hurt friend.",Жюльен... боится обидеть друга.
+line-772,爱丽丝,仙女是任何人都无法伤害的朋友哦。,"A fairy is a friend that can't be hurt, you know. Not by anyone.","Фею никто не может обидеть, знаешь. Никому."
+line-774,爱丽丝,是一直陪伴在身边的朋友。,A friend who'll always be by your side.,"Друг, который всегда рядом."
+line-776,于里安,嗯？,Mmm?,Мм?
+line-778,爱丽丝,骗人是钳兽。,"If you lie, you're a gloompincer.",Кто солжёт — тот клешнезверь.
+line-780,于里安,……,......,...
+line-781,于里安,奥德蕾，这是，爱说话的。,"Audrey, this one. Talks a lot.","Одри, вот эта. Много говорит."
+line-782,于里安,皮维，经常一起玩，朋友。,"Peewee, always plays with me. Friend.","Пиви, всё время играет со мной. Друг."
+line-783,于里安,让内，生气，声音大。,"Ronnie, angry. Loud.","Ронни, злится. Громкий."
+line-785,爱丽丝,（没有盖子的茶壶，是话多的奥德蕾。）,(The teapot with no lid is the talkative Audrey.),(Чайник без крышки — болтливая Одри.)
+line-787,爱丽丝,（已经褪色的积木，是最好的玩伴皮维。）,"(The faded building block, his best friend Peewee.)",(Выцветший кубик — лучший друг Пиви.)
+line-789,爱丽丝,（镶着珠宝的项链，是臭脾气的让内。）,"(The necklace inlaid with jewels, the tempersome Ronnie.)",(Ожерелье с драгоценностями — вспыльчивая Ронни.)
+line-791,爱丽丝,（这应该是他以前的朋友留下的东西吧。）,(These must be the things his past friends left behind.),"(Должно быть, это вещи, что оставили ему прежние друзья.)"
+line-793,爱丽丝,于里安，你能不能回答我几个问题。,"Jurian, can you answer a few questions for me?","Жюльен, можешь ответить мне на несколько вопросов?"
+line-795,爱丽丝,骗人是钳兽哦。,"Remember, if you lie, you're a gloompincer.","Помни, кто солжёт — тот клешнезверь."
+line-797,于里安,……,......,...
+line-799,于里安,嗯，骗人是钳兽！,"Mmm! If you lie, you're a gloompincer!",Мм! Кто солжёт — тот клешнезверь!
+line-801,爱丽丝,那……,"Well, then...",Тогда...
+line-803,爱丽丝,雷蒙德，叔叔，他是什么人？,Raymond. Uncle. What is he?,Рэймонд. Дядя. Кто он?
+line-805,于里安,……叔叔，一直照顾于里安，照顾大家。,"...Uncle, always looking after Jurian. Looking after family.",...Дядя всегда заботился о Жюльене. Обо всех заботился.
+line-809,爱丽丝,那你为什么要一直躲着他？,So why do you always hide from him?,Почему ты всё время от него прячешься?
+line-811,于里安,叔叔，会不见。,"Uncle, won't see me.",Дядя... не видит меня.
+line-813,于里安,我是……坏人，伤害叔叔。,"I'm... a bad person, hurt Uncle.",Я... плохой. Обидел дядю.
+line-815,爱丽丝,你的朋友，其他孩子，去哪里了？,"Your friends, the other children. Where did they go?","Твои друзья, другие дети. Где они?"
+line-817,于里安,……,......,...
+line-819,于里安,朋友，朋友都不见了。,Friends. Friends all gone.,Друзья. Друзья все ушли.
+line-822,爱丽丝,……,......,...
+line-824,于里安,于里安伤害了朋友！不见了！,Jurian hurt friends! Gone!,Жюльен обидел друзей! Ушли!
+line-826,于里安,都不见了！,All gone!,Все ушли!
+line-829,贝娜,咔嚓咔嚓！,Chop-chop!,Щёлк-щёлк!
+line-830,贝娜,抓到坏孩子了！,Bad child caught!,Поймали плохого ребёнка!
+line-841,于里安,坏孩子！于里安，是坏孩子！,"Bad child! Jurian, bad child!",Плохой ребёнок! Жюльен — плохой ребёнок!
+line-843,爱丽丝,她不是说你。,She doesn't mean you.,Она не про тебя.
+line-845,于里安,于里安，是坏孩子！,"Jurian, bad child!",Жюльен — плохой ребёнок!
+line-847,爱丽丝,贝娜，怎么回事？,"Bena, what's going on?","Бена, что происходит?"
+line-853,贝娜,我悄悄跟过去，结果没有看到好吃的生日蛋糕哦。,"I sneaked my way over, but never saw even a hint of delicious birthday cake.","Я подкралась, но никакого вкусного торта не нашла."
+line-855,贝娜,反而看到这家伙把这里值钱的东西偷偷卖给了一群大笨蛋。,"Instead, I found this rotten boy selling off any valuables here to a bunch of awful silly billies.",Вместо этого этот мерзавец тайком продавал все ценные вещи какой-то кучке тупиц.
+line-857,雷蒙德,等等！你听我解释！,"Wait! Listen, I can explain!",Погоди! Дай мне объяснить!
+line-859,贝娜,你不是第一次做这种事情了吧？,"You're not exactly a first-timer either, are you?","Ты не впервые такое делаешь, верно?"
+line-861,贝娜,其他的孩子呢？不会也被你卖掉了吧？,"Where are the other children? You can't have sold them off too, can you?",Где остальные дети? Неужто и их ты продал?
+line-865,于里安,叔叔……,Uncle...,Дядя...
+line-870,雷蒙德,于里安？！你怎么在这里！,Jurian?! What are you doing out here?!,Жюльен?! Что ты здесь делаешь?!
+line-871,雷蒙德,（小声哀求）我们能不能私下说这个事情。,(Hushed) Can we please talk about this in private?,"(Шёпотом, умоляюще) Можно нам обсудить это наедине?"
+line-872,雷蒙德,（小声哀求）起码别在于里安面前。,(Hushed) At least not in front of Jurian.,"(Шёпотом, умоляюще) Хотя бы не при Жюльене."
+line-874,贝娜,哼哼，不行哦。,Heheh! Not a chance.,"Хи-хи, нет."
+line-878,于里安,紫颜色的……坏人。,Purple... bad.,Фиолетовый... плохой.
+line-888,雷蒙德,于里安！,Jurian!,Жюльен!
+line-904,贝娜,哎呀！,Goodness!,Ой!
+line-906,贝娜,源石技艺？！他明明没有施术单元啊？,Arts?! He doesn't even have an Arts Unit!,Искусство Ориджиниума?! Но у него же нет блока для Искусства!
+line-908,雷蒙德,于里安！不可以！！,Jurian! No!,Жюльен! Нельзя!
+line-921,爱丽丝,小心！,Watch out!,Осторожно!
+line-939,爱丽丝,贝娜，你刚刚说雷蒙德在变卖东西？,"Bena, you said Raymond was selling things off?","Бена, ты говорила, Рэймонд продавал вещи?"
+line-941,贝娜,是的哦。,Quite right.,Именно.
+line-943,爱丽丝,于里安，等一下！,"Jurian, wait!","Жюльен, погоди!"
+line-947,于里安,放开，叔叔不准碰！,Let go! Uncle can't touch!,Отпусти! Дядя не смеет трогать!
+line-958,贝娜,打不着！,You won't hit me!,Не попадёшься!
+line-961,爱丽丝,贝娜，不要闹了！,"Bena, no making a scene!","Бена, не скандаль!"
+line-963,爱丽丝,真是的，都是不听话的孩子。,"Really, the lot of you are incorrigible children.","Ну вот, все вы — непослушные дети."
+line-965,爱丽丝,雷蒙德，过来。,"Raymond, come here.","Рэймонд, иди сюда."
+line-967,雷蒙德,哎。,*sigh*.,Эх.
+line-969,爱丽丝,那些人是你的同伙吗？,Were those your partners in crime?,Те люди — твои сообщники?
+line-971,雷蒙德,（不是的！）,(No!),(Нет!)
+line-973,于里安,坏蛋！,Baddie!,Плохой!
+line-994,贝娜,咔嚓咔嚓！,Chop-chop!,Щёлк-щёлк!
+line-1016,爱丽丝,于里安，你要听仙女的话。,"Jurian, you must listen to the fairy.","Жюльен, ты должен слушать фею."
+line-1018,爱丽丝,我们去找你的朋友。,We're off to find your friends.,Мы идём искать твоих друзей.
+line-1020,于里安,朋友！,Friends!,Друзья!
+line-1023,雷蒙德,（这里还有别的小孩？在哪里？）,(There's still children here? Where?),(Здесь есть ещё дети? Где?)
+line-1025,爱丽丝,（哼，当然是被你卖了。）,"(Hmph. Nowhere. You <i>did</i> sell them all off, after all.)","(Хм. Ты их продал, вот где.)"
+line-1027,爱丽丝,（可能就在你每次卖出去的货物里。）,"(Inside every shipment of goods you sent off, I imagine.)","(В каждой партии товара, что ты отправлял.)"
+line-1029,雷蒙德,（不可能？！我卖的那些……）,"(No, that's ridiculous! I was only selling...)","(Нет, это нелепо! Я продавал только...)"
+line-1031,爱丽丝,（于里安对朋友的思念和渴望。）,(The longing and yearning Jurian has for his friends...),(Тоска Жюльена по друзьям...)
+line-1033,爱丽丝,（都寄托在那些和朋友有关的东西上了。）,(...is placed within the objects that signify them.),"(...вложена в вещи, что напоминают о них.)"
+line-1035,雷蒙德,（啊？）,(Eh?),(А?)
+line-1037,爱丽丝,（之前到底发生了什么？）,(What exactly was it that happened?),(Что же там произошло?)
+line-1049,雷蒙德,怎么样？,Well?,Ну?
+line-1051,医生,嗯……很不幸，他已经感染了。,"Hm... I hate to be the bearer of bad news, but he's been infected.","Мм... к сожалению, он заражён."
+line-1053,雷蒙德,怎么会？明明其他孩子都没有事。,How? All the other children are clearly fine.,Как? Остальные дети же в порядке.
+line-1054,雷蒙德,感染程度呢？严重吗？,How bad is it? Serious?,Насколько сильно? Серьёзно?
+line-1056,医生,不管严不严重都不是你要担心的，你现在该考虑的是自己。,"Serious or not, that's not your concern right now. You should be worried for yourself.",Серьёзно или нет — сейчас тебя это не должно волновать. Думай о себе.
+line-1057,医生,如果……被发现你这里有一个感染者，不光是法律上的问题……,"If... they find you've got an Infected here, then you won't just be legally hamstrung...","Если... если обнаружат, что у тебя здесь Инфицированный, одних юридических проблем мало..."
+line-1058,医生,其他的孩子，都会有危险。,You'll put the rest of the children in peril.,...и остальные дети окажутся в опасности.
+line-1060,雷蒙德,……,......,...
+line-1067,于里安,叔叔，出门？出门！,"Uncle, going out? Going out!","Дядя, ты выходишь? Выходишь!"
+line-1068,于里安,我，我拿东西，这些行李。,"I, I'll carry stuff, this luggage.","Я, я понесу вещи, этот багаж."
+line-1070,雷蒙德,……,......,...
+line-1071,雷蒙德,于里安，你跟我来。,"Jurian, come with me.","Жюльен, иди со мной."
+line-1083,雷蒙德,以后你搬到这一层，叔叔……更方便照顾你。,"You're moving onto this floor now. It'll be... easier, for your Uncle to look after you.",Теперь ты переезжаешь на этот этаж. Дяде... будет удобнее за тобой присматривать.
+line-1085,于里安,可是……,But...,Но...
+line-1087,雷蒙德,你要下楼之前，跟我说。,And you have to tell me before you go downstairs.,"Перед тем как спуститься вниз, скажи мне."
+line-1088,雷蒙德,你要想去玩，我陪你。,"If you want to go play, I'll play with you.",Захочешь поиграть — я поиграю с тобой.
+line-1090,于里安,可是……,But...,Но...
+line-1093,雷蒙德,没有可是！,No buts!,Никаких «но»!
+line-1110,,血……叔叔，你有血。,"Bleeding... Uncle, you're bleeding.","Кровь... Дядя, у тебя кровь."
+line-1111,,是我做错，做错事吗？,Did I do a—do a bad thing?,Я плохой? Я сделал плохое?
+line-1112,,对不起……于里安，是坏孩子。,"Sorry... Jurian, bad child.",Прости... Жюльен — плохой ребёнок.
+line-1124,爱丽丝,你从来没有注意到吗？,You never realized?,Ты никогда не замечал?
+line-1126,爱丽丝,他找不见朋友的时候，会伤心，会着急。,"How hurt, how panicked he'd be when he couldn't find his friends?","Как он расстраивался, как паниковал, когда не мог найти друзей?"
+line-1128,雷蒙德,我……我以为就是东西找不到了。,I... I thought it was just stuff he couldn't find.,"Я... думал, он просто не может найти вещи."
+line-1130,雷蒙德,我想他就是自己无聊，才去跟那些东西自言自语。,I thought he just talked to those things because he was so bored.,"Думал, он разговаривает с ними от скуки."
+line-1132,爱丽丝,不是东西，是朋友。,They're not things. They're friends.,Это не вещи. Это друзья.
+line-1134,爱丽丝,在你把所有人都从他身边赶走以后，于里安珍贵的朋友。,"His most precious friends, ever since you drove everyone away from him.","Его драгоценные друзья — с тех пор, как ты прогнал всех остальных."
+line-1136,雷蒙德,……,......,...
+line-1141,雷蒙德,……够了！,Save it!,...Хватит!
+line-1142,雷蒙德,我能怎么办？,What choice did I have?,Что мне оставалось делать?
+line-1143,雷蒙德,一个贵族混成我这样……呵呵呵……,"Look at the state of me, a noble... heheh, heh...","Дворянин, дошедший до такого... хи-хи, ха..."
+line-1144,雷蒙德,除了我，恐怕也没有人会要于里安的。,I don't think anyone else except me would have even taken him in.,"Кроме меня, наверное, никто бы не взял Жюльена."
+line-1145,雷蒙德,可我是真的没钱了……只能卖了值钱的东西过日子。,But I'm threadbare... selling valuables is the only way I can get by.,Но денег у меня совсем не осталось... продавать ценные вещи — единственный способ жить дальше.
+line-1147,爱丽丝,雷蒙德……,Raymond...,Рэймонд...
+line-1149,雷蒙德,我没有办法！没有！,There was nothing I could do! Nothing!,У меня не было выбора! Не было!
+line-1150,雷蒙德,矿石病我不懂……我怕会传染给其他孩子。,I don't have the first clue about Oripathy... I was scared it'd spread to the other children.,"Я ничего не понимаю в Орипатии... я боялся, что она передастся другим детям."
+line-1153,雷蒙德,但我……我不能把于里安丢掉。,But I... I couldn't abandon Jurian.,Но я... я не смог бросить Жюльена.
+line-1154,雷蒙德,我……,I...,Я...
+line-1156,于里安,伤害……朋友……,Hurt... friends...,Обижать... друзей...
+line-1158,于里安,靠近会伤害。,"If you get close, hurt.",Подойдёшь — обидишь.
+line-1160,于里安,叔叔，是好人。,"Uncle is, good person.",Дядя — хороший человек.
+line-1162,爱丽丝,……,......,...
+line-1164,雷蒙德,对不起……我知道你们也是好心。,Sorry... I know you mean well.,"Прости... я знаю, вы хотели добра."
+line-1165,雷蒙德,你们真的很专业。,You're professionals through and through.,Вы настоящие профессионалы.
+line-1166,雷蒙德,可假的终究是假的。,"But fake, in the end, is fake.",Но подделка остаётся подделкой.
+line-1170,于里安,假的……,Fake...,Подделка...
+line-1171,于里安,朋友……找不到吗？,Can't find... friends?,Друзей... не найти?
+line-1173,雷蒙德,……,......,...
+line-1174,雷蒙德,现在已经用不着装下去了，那些卖东西的钱你们都拿上。,No need for pretenses now. You can take all the money I got selling the stuff.,"Притворяться больше незачем. Заберите все деньги, что я выручил за вещи."
+line-1175,雷蒙德,万一被感染了我就真赔不起了，快走吧。,I'd be lost for anything on the off-chance you got infected. You'd best go.,"Я не смогу возместить ущерб, если вы заразитесь. Уходите скорее."
+line-1178,于里安,仙女……蓝颜色，是假的？,"Fairy... blue, is fake?",Фея... синяя... подделка?
+line-1184,雷蒙德,对不起于里安，我不该骗你。,"Sorry, Jurian. I shouldn't be lying to you.","Прости, Жюльен. Я не должен был лгать тебе."
+line-1190,雷蒙德,我本想……,I just wanted to...,Я просто хотел...
+line-1198,雷蒙德,于里安！回来！,Jurian! Come back!,Жюльен! Вернись!
+line-1220,爱丽丝,于里安！,Jurian!,Жюльен!
+line-1222,雷蒙德,你要去哪里？！,Where are you going?!,Куда ты идёшь?!
+line-1224,于里安,离开……于里安要离开。,Leave... Jurian wants to leave.,Уйти... Жюльен хочет уйти.
+line-1225,于里安,所以……奥德蕾，皮维，他们……会回来。,"Then... Audrey, and Peewee, and... they'll come back.","Тогда... Одри, Пиви и остальные... вернутся."
+line-1226,于里安,于里安离开。,Jurian is leaving.,Жюльен уходит.
+line-1245,于里安,不要，靠近！,"Don't, get close!",Не... не подходи!
+line-1247,爱丽丝,于里安，你等一下！,"Jurian, just hold it!","Жюльен, подожди!"
+line-1256,于里安,蓝颜色，没有天灾的颜色。,"Blue, color like no Catastrophe.",Синий. Цвет без Катастрофы.
+line-1257,于里安,餐厅的，童话，我很喜欢。,"I really like, the stories in, dining hall.",Сказки в столовой... они мне очень понравились.
+line-1258,于里安,谢谢。,Thank you.,Спасибо.
+line-1266,于里安,于里安，控制不住。,"Jurian, can't control.",Жюльен... не сдерживаюсь.
+line-1267,于里安,危险的紫颜色，危险。,"Dangerous purple, dangerous.","Опасный фиолетовый, опасно."
+line-1271,爱丽丝,真是没办法。,Drastic measures it is.,"Ну что ж, крайние меры."
+line-1273,爱丽丝,看来不听话的孩子，必须得到一点点教训！,It seems naughty children need to be taught a little lesson!,"Кажется, непослушным детям нужно хорошенько поучиться!"
+line-1275,爱丽丝,（贝娜，把雷蒙德也拉过来！）,"(Bena, drag Raymond over as well!)","(Бена, тащи Рэймонда сюда тоже!)"
+line-1290,于里安,好黑！于里安，哪里？,Dark! Where is Jurian?,Темно! Где Жюльен?
+line-1291,于里安,这是哪里？,Where is this?,Где это мы?
+line-1292,爱丽丝,不要怕，我在你身边。,Don't be afraid. I'm by your side.,Не бойся. Я рядом.
+line-1293,爱丽丝,蓝颜色。,Blue.,Синяя.
+line-1294,于里安,……,......,...
+line-1295,爱丽丝,现在拉住你的人，受伤了吗？,There is a person holding onto you. Are they hurt?,"Тот, кто тебя держит. Он ранен?"
+line-1296,于里安,手……蓝颜色……不像蓝颜色。,Hand... blue... not like blue.,Рука... синяя... не похожа на синий цвет.
+line-1297,爱丽丝,你回答我，受伤了吗？,"Answer me, now. Are they hurt?",Отвечай мне. Он ранен?
+line-1298,于里安,没有……很温暖。,No... very warm.,Нет... очень тепло.
+line-1299,于里安,握得很紧……于里安能感受，到跳动。,"Holding tight... Jurian can feel, pulse.",Держит крепко... Жюльен чувствует... биение.
+line-1305,于里安,跳得很快。,Very fast pulse.,Бьётся быстро.
+line-1306,爱丽丝,那你现在可以睁开眼了。,Then you can open your eyes now.,Теперь можешь открыть глаза.
+line-1319,于里安,……,......,...
+line-1321,雷蒙德,……,......,...
+line-1325,爱丽丝,握着你的，是你的叔叔，雷蒙德。,"The one holding your hand is your uncle, Raymond.","Тот, кто держит твою руку, — твой дядя, Рэймонд."
+line-1327,爱丽丝,看到了吗？你不会伤害任何人。,Do you see? You won't hurt anyone.,Видишь? Ты никому не причинишь вреда.
+line-1331,雷蒙德,咳咳……,*cough* Ahem...,Кх... э-э...
+line-1336,雷蒙德,有点……不好意思。,"Well, this is a little... embarrassing.","Ну, это несколько... неловко."
+line-1340,爱丽丝,于里安，不是紫色。,"Jurian, not purple.","Жюльен, не фиолетовый."
+line-1342,爱丽丝,你也是蓝色，记得吗？,You're blue too. Okay?,Ты тоже синий. Помнишь?
+line-1344,于里安,嗯，没有天灾的天空。,Mmm. No Catastrophe in the sky.,Мм. Небо без Катастрофы.
+line-1346,爱丽丝,是最纯净的天空。,"The purest, clearest sky.","Самое чистое, ясное небо."
+line-1348,于里安,可是……于里安的朋友。,But... Jurian's friends.,Но... друзья Жюльена.
+line-1350,爱丽丝,记得你向我许下的愿望吗？,Remember the wish you made to me?,"Помнишь желание, которое ты загадала мне?"
+line-1352,爱丽丝,那是你和仙女达成的约定啊。,That's your agreement with the fairy now.,Это твой договор с феей.
+line-1354,爱丽丝,约定好了就决不可违反。,"Once made, it's never to be broken.",Договор нельзя нарушать.
+line-1356,雷蒙德,……,......,...
+line-1361,爱丽丝,还有你，哼。,As for you. Hmph.,А тебе — хм.
+line-1363,雷蒙德,我？,Me?,Я?
+line-1365,爱丽丝,你明明亲手给孩子搭建了一座童话的糖果屋。,"As is perfectly clear, you built a candy house straight from a fairytale by your own two hands.",Ты же сам выстроил для ребёнка сказочный пряничный домик.
+line-1367,爱丽丝,哪怕一点点崩塌融化，你都没有选择离开。,"Even as it melted and crumbled bit by bit, you never chose to leave.","Даже когда он по кусочкам таял и разрушался, ты не ушёл."
+line-1369,爱丽丝,可你偏偏忘了最重要的一件事。,"But somehow, you forgot the most important thing.",Но ты забыл главное.
+line-1371,雷蒙德,我……我忘了什么？,What... What did I forget?,Я... я что забыл?
+line-1373,爱丽丝,唉……真是固执、盲目的大人。,"*sigh*... What a stubborn, blind grown-up you are.","Эх... упрямый, слепой взрослый."
+line-1375,爱丽丝,难怪很长时间都没有成年人能找到通往梦城堡的路了。,No wonder nobody of age has found their way to the Castle of Dreams in so long.,"Неудивительно, что столько лет никто из взрослых не находил дорогу в Замок Снов."
+line-1377,爱丽丝,你当年存在梦城堡的那件物品，在身上吗？,"Do you have on you, right now, the item you left with the Castle?","Та вещь, что ты оставил в Замке, — она при тебе?"
+line-1379,雷蒙德,啊？哦哦哦。,"Eh? Oh, oh, oh.","А? О, о, о."
+line-1387,爱丽丝,孩子们躲在家里，凶兽只用一口气便掀开了房子的屋顶。,"The children hid inside their home, but with a single puff, the terrible beast blew off their roof.","Дети прятались дома, а зверь одним духом сдул с дома крышу."
+line-1389,爱丽丝,孩子们慌忙跑了出来，凶兽仅轻轻一撞，便摧毁了他们最后的依靠。,"The children panicked and ran outside, but with a single tap, the ferocious beast destroyed the last things they had.","Дети выбежали в панике, а зверь одним толчком разрушил их последнюю опору."
+line-1391,爱丽丝,走投无路的孩子们，沿着面包屑，找到了森林里的糖果屋。,"With nowhere left to go, the children followed a trail of breadcrumbs, and in the forest they found a candy house.","Не зная, куда идти, дети пошли по крошкам хлеба и в лесу нашли пряничный домик."
+line-1393,爱丽丝,你为他们搭建的糖果屋，就像一座坚固的城堡。,That candy house you built for them was as sturdy as a castle.,"Тот пряничный домик, что ты построил для них, был крепок, как замок."
+line-1395,爱丽丝,这本该是一个童话故事的结尾。,And that is a fairytale ending.,И это был бы сказочный конец.
+line-1397,雷蒙德,……,......,...
+line-1398,雷蒙德,嗯。,Mhm.,Мм.
+line-1400,爱丽丝,可只是拥有一座城堡的话，又算得了什么结局呢？,"But what kind of ending is it, really, to have nothing aside from a castle?","Но что за конец, если у тебя есть только замок?"
+line-1402,爱丽丝,邪恶的女巫会在城堡里将每一个人吞噬。,The evil witch may well gobble up everyone within.,Злая ведьма может проглотить всех внутри.
+line-1404,爱丽丝,残暴的君主刻意将城堡里的每一个人变为奴隶。,The tyrant king would soon make slaves of them all.,Жестокий король превратит всех в рабов.
+line-1406,雷蒙德,最重要的，是城堡里将会发生什么样的故事。,What really matters is what stories take place inside the castle.,Главное — какие истории будут происходить внутри замка.
+line-1407,雷蒙德,……,......,...
+line-1412,爱丽丝,你在第一页写的什么？,What did you write on the first page?,Что ты написал на первой странице?
+line-1419,雷蒙德,“我以后要让所有人看我写的童话故事。”,"'One day, I will make everyone read the fairytales that I write.'","«Однажды я заставлю всех читать сказки, которые я напишу.»"
+line-1421,爱丽丝,对啊，童话故事。,"Yes, fairytales.",Да. Сказки.
+line-1423,爱丽丝,我们让美好的、充满希望的童话故事，发生在每一个孩子心底那座小小的城堡里。,"We see to it that wonderful, hopeful fairytales take place, inside those tiniest castles in the depths of every child's heart.","Мы устраиваем прекрасные, полные надежды сказки в крошечных замках в глубине сердца каждого ребёнка."
+line-1425,爱丽丝,用城堡牢牢地守住他，保护好他。,"We use the castle to keep them safe and sound, to protect them.","Мы держим его в замке, бережём и защищаем."
+line-1427,爱丽丝,对吗？,Don't we?,Верно?
+line-1429,雷蒙德,可是我给他们讲的只有恐惧。,And yet all I gave them was fear.,А я давал им только страх.
+line-1431,雷蒙德,我早就忘了自己写的那些童话故事。,I'd forgotten the fairytales I wrote myself.,"Я давно забыл сказки, что сам писал."
+line-1433,爱丽丝,可你依旧相信着。,But you still believe.,Но ты всё ещё веришь.
+line-1437,雷蒙德,？！,?!,?!
+line-1439,爱丽丝,不然，我和贝娜又怎么会在这里呢？,How else would Bena and I be here?,Иначе как бы мы с Беной оказались здесь?
+line-1441,爱丽丝,当然，也不只是为了你。,"And of course, it isn't just for your sake.","И, конечно, не только ради тебя."
+line-1443,爱丽丝,也是为了于里安。,"It's for Jurian's, too.",И ради Жюльена тоже.
+line-1447,于里安,蓝颜色……爱丽丝，蓝颜色叫爱丽丝。,Blue... Iris. Blue is called Iris.,Синий... Айрис. Синюю зовут Айрис.
+line-1448,于里安,是仙女，对吗？,"A fairy, right?","Ты фея, да?"
+line-1449,于里安,是，真的是吗？,Are... you really real?,Ты... правда настоящая?
+line-1455,爱丽丝,没错哦。,Indeed I am.,Конечно.
+line-1467,,“我这是在哪里？”,'Where am I?',«Где я?»
+line-1471,,于里安在森林里醒来，他想起沿着森林里的痕迹，就能找到通往梦城堡的路。,"So thought Jurian as he woke up in the forest. He remembered how if he followed the forest trail, he would find the way to the Castle of Dreams.","Так подумал Жюльен, проснувшись в лесу. Он вспомнил: если идти по тропе в лесу, выйдешь к Замку Снов."
+line-1472,,于里安走啊走，找到没有盖子的茶壶。,"Jurian walked and walked, until he found a teapot with no lid.",Жюльен шёл и шёл и нашёл чайник без крышки.
+line-1473,,那是话多的奥德蕾。,It was the talkative Audrey.,Это была болтливая Одри.
+line-1477,,“于里安，于里安！我跟你说，昨天我在森林里看到一只裂兽把蜂蜜埋进了地里。”,"'Jurian, Jurian! You've got to hear this, yesterday, I saw a manglerbeast in the forest burying honey in the ground.'","«Жюльен, Жюльен! Ты только послушай: вчера я видела в лесу зверя-раздирателя, он закопал мёд в землю.»"
+line-1478,,“然后！然后！”,'And then! And then!',«А потом! А потом!»
+line-1479,,“然后他就围着那儿一直转啊转，转啊转，等着蜂蜜长出来，哈哈哈哈！”,"'And then he walked around and around, and around and around, waiting for the honey to grow, hahahaha!'","«А потом он ходил вокруг да около, всё ждал, когда мёд вырастет, ха-ха-ха!»"
+line-1482,,于里安和奥德蕾，走啊走，找到了镶着珠宝的项链。,"Jurian and Audrey walked and walked, until they found a necklace inlaid with jewels.",Жюльен и Одри шли и шли и нашли ожерелье с драгоценностями.
+line-1483,,那是臭脾气的让内。,It was the tempersome Ronnie.,Это была вспыльчивая Ронни.
+line-1487,,“哼，居然让我等这么久。”,'Hmph! I was waiting forever for you.',«Хм! Сколько я тебя ждала.»
+line-1488,,“于里安你是不是傻，怎么可能会有裂兽去埋蜂蜜啊。”,"'Are you thick, Jurian? Manglers don't bury honey, they wouldn't do that.'","«Ты что, тупой, Жюльен? Раздиратели мёд не закапывают, они такого не делают.»"
+line-1491,,于里安和奥德蕾还有让内，走啊走，找到了褪色的积木。,"Jurian and Audrey and Ronnie walked and walked, until they found a faded building block.","Жюльен, Одри и Ронни шли и шли и нашли выцветший кубик."
+line-1492,,那是忠实的玩伴皮维。,It was the faithful playmate Peewee.,Это был верный товарищ Пиви.
+line-1496,,“快点，快点！”,"'Come on, come on!'","«Быстрее, быстрее!»"
+line-1497,,“梦城堡就在前面了！”,'We're almost to the Castle of Dreams!',«Замок Снов уже рядом!»
+line-1500,,于里安和奥德蕾还有让内还有皮维，走啊走。,Jurian and Audrey and Ronnie and Peewee walked and walked.,"Жюльен, Одри, Ронни и Пиви шли и шли."
+line-1501,,眼前的森林让开了一条路。,Until a path in the forest opened up before them.,Лес расступился и открыл им дорогу.
+line-1502,,梦幻的城堡缓缓敞开了大门。,"There, the castle, every bit as dreamlike as its name, opened its grand gate wide.","И замок, сновиденный до мелочей, распахнул свои великие врата."
+line-1503,,只见一位蓝衣的仙女优雅地出现在众人的眼前。,"Out before them came but a fairy dressed in blue, who gave an elegant greeting.","Перед ними предстала фея в синем, которая изящно их приветствовала."
+line-1507,,“欢迎来到梦城堡。”,'Welcome to the Castle of Dreams.',«Добро пожаловать в Замок Снов.»
+line-1508,,“我是爱丽丝，梦城堡的主人，摇篮的守门人。”,"'I am Iris, Master of the Castle of Dreams, Keeper of the Cradle.'","«Я — Айрис, хозяйка Замка Снов, хранительница Колыбели.»"
+line-1522,爱丽丝,我已经和奶奶说好了，于里安会留在梦城堡。,I've had a talk with Granny. Jurian will be staying at the Castle of Dreams.,Я договорилась с бабушкой. Жюльен останется в Замке Снов.
+line-1524,爱丽丝,他会接待和指引每一个有幸到访梦城堡的孩子。,He'll greet and guide every child lucky enough to pay the Castle a visit.,"Он будет встречать и направлять каждого ребёнка, которому посчастливится заглянуть в замок."
+line-1526,雷蒙德,谢谢，我真的不知道该怎么感谢你们为于里安做的这些。,"Thank you. Really, I don't know how to thank you enough. That you'd do all this for Jurian.","Спасибо. Я правда не знаю, как вас благодарить за всё, что вы сделали для Жюльена."
+line-1528,爱丽丝,你不需要感谢。,You needn't thank us.,Благодарить не за что.
+line-1530,爱丽丝,这是孩子应该得到的童话结局。,It's the fairytale ending children ought to have.,"Это сказочный конец, который должен быть у детей."
+line-1532,雷蒙德,嗯嗯。,"Mm, mhm.","Мм, м-м."
+line-1533,雷蒙德,我已经把庄园和剩余的东西都卖了，现在在城里重新寻了处地方，又去找了份工作。,"I've sold off the manor and the rest of my belongings, and found a new place in the city, and a new job.","Я продал особняк и всё остальное, нашёл в городе новое место и новую работу."
+line-1534,雷蒙德,孤儿院，我会一直办下去。,I'll be working with orphanages for as long as I live.,"Я буду содержать приют, пока жив."
+line-1535,雷蒙德,我会让每一个孩子都听到我的童话。,I'll see that every child hears my fairytales.,"Я сделаю так, чтобы каждый ребёнок услышал мои сказки."
+line-1537,贝娜,存在梦城堡的东西一旦送还，时间魔法就会失效。,"Once something is returned from the Castle of Dreams, the time magic loses its effect.","Как только вещь возвращается из Замка Снов, чары времени перестают действовать."
+line-1539,贝娜,你的童话故事集，以后要自己注意保存哦。,You'll have to take care of your fairytale collection yourself from now on.,Так что берегите свой сборник сказок с этих пор.
+line-1541,雷蒙德,我一定会的。,I will.,Обязательно.
+line-1543,爱丽丝,那我想于里安和其他孩子一定会非常期待，有一天能听到你为他们写下的童话。,"Then I believe Jurian, and the rest of the children, will very much look forward to the day they can hear of the fairytales you write.","Тогда я думаю, Жюльен и остальные дети с нетерпением ждут того дня, когда услышат сказки, что вы для них напишете."

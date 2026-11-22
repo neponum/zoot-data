@@ -1,0 +1,285 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_fuze_1_1,梦醒时分
+,,,,
+char-1,憔悴的贵族,憔悴的贵族,Haggard Noble,Истощённый дворянин
+char-2,？？？,？？？,???,???
+char-3,导火索,导火索,Fuze,Фьюз
+char-4,镇民,镇民,Townsfolk,Горожанин
+char-5,伯梅,伯梅,Berman,Берман
+char-6,闪击？,闪击？,Blitz?,Блиц?
+char-7,医生？,医生？,Doc?,Док?
+char-8,老维塞,老维塞,Vissel,Старик Виссел
+char-9,艾拉,艾拉,Ela,Эла
+char-10,艾拉？,艾拉？,Ela?,Эла?
+,,,,
+line-14,憔悴的贵族,……,...,...
+line-18,憔悴的贵族,陌生人，报上你的名字。,"Name yourself, stranger.","Незнакомец, назови своё имя."
+line-20,？？？,……导火索。,...Fuze.,...Фьюз.
+line-22,憔悴的贵族,听口音，是乌萨斯人？,That accent... are you Ursine?,По акценту — урсусец?
+line-24,导火索,算是。,You could say that.,Можно и так.
+line-26,憔悴的贵族,什么事？,What is it?,Что нужно?
+line-28,导火索,镇上的水塔坏了。我想修好它。,The water tower is broken. I want to fix it.,Водонапорная башня в городе сломана. Я хочу её починить.
+line-30,憔悴的贵族,你自己去修就好了，来找我做什么？,Can't you fix it yourself? What does it have to do with me?,Почини её сам. При чём здесь я?
+line-32,导火索,水塔的问题出在水泵的源石电路上，我懂工程，你懂源石技艺，你帮得上忙。,"The problem is with the pump's Originium circuit. I understand engineering, and you know Originium Arts.","Дело в ориджиниумной схеме насоса. Я разбираюсь в механике, ты — в Искусстве Ориджиниума. Ты можешь помочь."
+line-41,憔悴的贵族,……一位全副武装的蒙面乌萨斯人？来修这座莱塔尼亚镇子上的水塔？,"...A well-armed, masked Ursine? Here to fix a water tower in a Leithanien town?",...Вооружённый урсусец в маске? Пришёл чинить водонапорную башню в лейтанийском городке?
+line-43,镇民,伯梅先生……,Mr. Berman...,Мистер Берман...
+line-45,伯梅,哦，你也在啊。这个人到底怎么回事？,"Oh, it's you. What's with this man?","А, это ты. Что за человек этот?"
+line-47,镇民,我和老维塞去河边取水时被针蚤袭击了，老维塞受了伤，是这位导火索先生救了我们。,"Vissel and I were attacked by needleflies when fetching water from the river. Vissel got hurt, but we made it back alive thanks to Fuze here.","Мы со стариком Виссел ходили за водой к реке, на нас напали иглоблохи. Виссел пострадал, но этот господин Фьюз спас нас, мы добрались живыми."
+line-49,伯梅,老维塞受伤了？伤得重吗？,Vissel got hurt? Is it serious?,Старик Виссел ранен? Серьёзно?
+line-51,镇民,只能说……还活着。他孙女在照顾他。,He's still alive... that's all I can say. His granddaughter is by his side.,Скажем так... жив. Внучка ухаживает за ним.
+line-53,伯梅,我知道了。你接着说。,I see. Go on.,Ясно. Продолжай.
+line-55,镇民,我们款待导火索先生时，他看见镇上本来是有座水塔的，就想看看能不能修好，结果发现问题不在机械结构，而在源石电路上……,"We invited him into town, and that's when he saw the broken water tower. He tried to fix it and found that the problem was with the Originium circuit, not the mechanical components...","Мы пригласили господина Фьюза в город, он увидел сломанную башню и решил попробовать её починить. Оказалось, дело не в механике, а в ориджиниумной схеме..."
+line-57,伯梅,我明白了。,I see.,Понятно.
+line-59,镇民,那、那我先走了。,I-I'll be going.,Я... я пойду.
+line-68,伯梅,所以你问那个人镇上有谁懂源石技艺，他就把你带到我这里来了。,"So you asked him if he knew anyone who knew Originium Arts, and he brought you to me.","Значит, ты спросил у него, кто в городе разбирается в Искусстве Ориджиниума, и он привёл тебя ко мне."
+line-70,导火索,（点头）我希望你能帮帮你的领民。,(Nods) I'm hoping you can help your subjects.,"(Кивает) Я надеюсь, ты поможешь своим подданным."
+line-72,伯梅,我不是他的领主。,I'm not their lord.,Я не их господин.
+line-74,导火索,他说“男爵老爷”在许多年前修建了这座水塔。当我问他“男爵老爷”住在哪里的时候，他把我往你这里领。,"He said the Baron built this water tower many years ago. I asked him where the Baron lived, and he brought me to you.","Он сказал, что барон построил эту башню много лет назад. Когда я спросил, где живёт барон, он привёл меня к тебе."
+line-76,伯梅,你也听见了，他刚刚可没叫我男爵老爷，他叫我伯梅先生。,"You heard him call me Mr. Berman, not Baron.","Ты сам слышал: он назвал меня мистером Берманом, а не бароном."
+line-78,导火索,……那么，伯梅先生，这是一座能让人的生活好过些的设施。,Very well... Mr. Berman. This is a facility that makes people's lives better.,"...Что ж, мистер Берман. Это сооружение, которое делает жизнь людей лучше."
+line-80,伯梅,以前人们一直都是步行去河畔取水的。那时没人觉得有什么不好过。,People used to go to the river to fetch water all the time. They managed just fine.,Раньше люди ходили к реке за водой. Их это не тяготило.
+line-81,伯梅,谁知道是不是因为水塔不断抽取地下水，河畔才出现了能让针蚤筑巢的空洞呢？,Maybe it was the water tower's pumps that created a space for the needleflies to make their nest.,"Кто знает, может, именно насосы башни выкачали подземные воды и образовали пустоты, где иглоблохи устроили гнездо?"
+line-83,导火索,我只知道水塔要是早点修好，老维塞现在就不会命悬一线。,All I know is that Vissel wouldn't be at death's door if the water tower was fixed earlier.,Я знаю только одно: почини башню раньше — и старик Виссел сейчас не был бы при смерти.
+line-85,伯梅,不过是一死而已。,What difference does one death make?,Всего лишь одна смерть.
+line-87,导火索,你觉得他的死无关紧要？,You think his death doesn't matter?,"Ты считаешь, его смерть ничего не значит?"
+line-89,伯梅,何止是他。,It's not just him.,Не только его.
+line-90,伯梅,他、我、这座镇子，甚至整个莱塔尼亚……一切都在不可逆地走向衰颓，最终死亡。,"Him, me, this whole town, all of Leithanien... all of it is irreversibly moving towards decay and death.","Он, я, этот город, вся Лейтания... всё это необратимо катится к упадку и смерти."
+line-91,伯梅,死于针蚤和死于衰老，在我看来不过是骑驮兽还是走路到达终点的问题。,The difference between needlefly and old age is no more than the difference between arriving at your destination by burdenbeast or by foot.,"Умереть от иглоблохи или от старости — для меня разница лишь в том, приедешь ты к финишу на вьючном звере или пешком."
+line-93,导火索,……歪理。,...Ridiculous.,...Вздор.
+line-98,伯梅,你去哪里？,Where are you going?,Куда ты?
+line-100,导火索,找其他人。,To find others.,Искать других.
+line-102,伯梅,镇上没有其他懂源石电路的人了，刚才带你来的人肯定告诉过你。,There's no one else in town who knows Originium circuits. Whoever brought you to me must have told you.,"В городе больше нет никого, кто понимает ориджиниумные схемы. Тот, кто привёл тебя, наверняка тебе сказал."
+line-104,导火索,那就找书。,Then I'll research it.,Тогда найду книги.
+line-106,伯梅,你为什么这么执拗？这些和你萍水相逢的人值得你这么坚持？,Why are you so stubborn about this? Over a bunch of people whom you've just met?,Почему ты такой упрямый? Стоят ли эти случайно встреченные люди такой настойчивости?
+line-108,导火索,事比人重要。再见。,"It's not about who, but what. Goodbye.",Дело важнее людей. До свидания.
+line-110,伯梅,等等。,Wait.,Подожди.
+line-111,伯梅,如果你需要这方面的书，我年轻的时候买过几本。,I have a few books on this topic that I bought when I was young.,Если тебе нужны книги по этой части — я в молодости купил несколько.
+line-122,导火索,你找了好久。,You spent a lot of time looking for them.,Ты долго их искал.
+line-124,伯梅,找书也是很费工夫的。,"It's not an easy thing, looking for books.",Искать книги — тоже непростое дело.
+line-125,伯梅,维多利亚出版的《源石电路理论与应用》，拿着吧。要从我家翻出一本不用莱塔尼亚语写成的书也不容易。,"'Originium Circuit Theory and Applications', from Victoria. Wasn't easy to find a book that wasn't in Leithanian at home.",«Теория и практика ориджиниумных схем». Издано в Виктории. Бери. Не так-то просто было найти в моём доме книгу не на лейтанийском.
+line-131,伯梅,现在你那张严严实实的面具后面一定写满了疑问，蒙面的乌萨斯人。你不知道我为什么对修水塔推三阻四，却肯借你书。,"You must have question marks written all over your face behind that mask, Ursine. You don't know why I refuse to fix the water tower, but allow you to borrow my books.","За твоей плотной маской наверняка написаны одни вопросы, урсусец. Ты не понимаешь, почему я тяну с починкой башни, но даю тебе книги."
+line-133,导火索,我有一些假设。,I have a theory.,У меня есть предположение.
+line-135,伯梅,比如？,Which is?,Например?
+line-137,导火索,你想证明水塔修好也不会有什么变化，证明自己是正确的。,You want to prove that fixing the water tower won't change anything.,"Ты хочешь доказать, что починка башни ничего не изменит. Доказать свою правоту."
+line-139,伯梅,没那么复杂，我只是有点好奇。,It's not that complicated. I'm just curious.,Всё проще. Мне просто любопытно.
+line-141,导火索,我以为像你这样的人已经对一切都丧失兴趣了。,I thought you had completely lost interest.,"Я думал, люди вроде тебя утратили интерес ко всему."
+line-143,伯梅,一个全副武装的蒙面外国人无论如何都要帮你的邻居们修水塔，我想就算是块石头也会好奇的。,Even a rock would be curious about why a heavily-armed foreigner wants to fix a water tower for your neighbor.,"Даже камень заинтересовался бы, зачем вооружённый до зубов иностранец чинит башню для твоих соседей."
+line-145,导火索,要么修好，要么修不好，仅此而已。,Either I fix it or I don't. That's all there is to it.,"Либо я её починю, либо нет. И всё."
+line-147,伯梅,不，我好奇的是……这个人究竟经历过什么，让他对一件本来和他完全无关的事情如此执拗。,"No... what I'm curious is what this person has experienced, which has made him so stubborn about something that shouldn't have anything to do with him.","Нет... мне любопытно другое: через что прошёл этот человек, раз он так упрямо цепляется за дело, которое его вообще не касается."
+line-148,伯梅,不留下来住一晚吗，导火索先生？也许晚上我们可以聊聊天。,"Would you like to stay over for the night, Mr. Fuze? Perhaps we can have a chat over dinner.","Не останешься ли на ночь, господин Фьюз? Может, за ужином поговорим."
+line-150,导火索,多谢你的好意，但我想我们不可能聊得来。,"Thank you for the invitation, but I doubt we have much to talk about.","Благодарю за приглашение, но вряд ли мы найдём общий язык."
+line-152,伯梅,……,...,...
+line-153,伯梅,你说得对。,I suppose you're right.,"Пожалуй, ты прав."
+line-163,伯梅,……可我还是想聊一聊。,...But I would still have liked to have a chat.,...Но всё же мне хотелось бы поговорить.
+line-172,？？？,……舒赫拉特？怎么了？,Shuhrat— What is it?,...Шухрат? Что случилось?
+line-173,导火索,抱歉，库兹，走神了。,Sorry. Got lost in thought.,"Прости, Кёц, я задумался."
+line-186,,导火索环顾四周。,Fuze looks around him.,Фьюз оглядывается.
+line-187,,是罗德岛的走廊。谈不上熟悉，但也不很陌生。,"It is the corridor of Rhodes Island. He would not call it familiar, but it is not unknown to him either.","Это коридор Родоса. Не то чтобы знакомый, но и не чужой."
+line-188,,他自己则两手抱头，靠在伊莱亚斯·库兹在罗德岛宿舍的门外，似乎正在等这位代号为闪击的同僚出门。,"He has his hands around the back of his head, leaning against the wall outside Elias Kötz's quarters at Rhodes Island, waiting for 'Blitz' to come out.","Сам он, держась за затылок, прислонился к двери каюты Элиаса Кёца на Родосе — видно, ждёт, когда выйдет его коллега с позывным «Блиц»."
+line-190,闪击？,舒赫拉特，你还得等一会儿，罗德岛的剃须刀不大合用。,It'll be a little longer. I haven't gotten used to Rhodes Island razors yet.,"Шухрат, ещё чуть-чуть. Бритва Родоса всё ещё не привычна."
+line-192,导火索,没关系。,"That's fine, Kötz.","Ничего, Кёц."
+line-194,闪击？,我们刚刚聊到哪里了？哦，对，我在莱塔尼亚看到的庆典。,"Where were we? Oh, the festival we saw at Leithanien.","О чём мы говорили? А, да — о празднике, что я видел в Лейтании."
+line-195,闪击？,那场庆典的现场共有一千名术师。庆典开始前，术师们像雕塑一样林立在城市广场上，寂静无声。,There were a thousand casters at the festival. They stood silently like statues on the plaza before the opening ceremony.,"На том празднике было тысяча кастеров. До начала церемонии они стояли молча, как статуи, на городской площади."
+line-196,闪击？,他们在等待着，等待一枚几乎细不可闻的音符从乐团首席的指间飘落，那时术师们才会齐齐举起手中的施术单元……,They were waiting for a single note from the concertmaster. The cue for them to raise their Arts Units in unison was so quiet it was almost inaudible ...,"Они ждали, когда из пальцев концертмейстера выпадет одна-единственная, почти неслышная нота — тогда все разом поднимут свои блоки Искусства..."
+line-197,闪击？,拜托，老兄，给点反应？,"Come on. A reaction would be nice, you know.","Ну же, приятель, хоть как-то отреагируй."
+line-199,导火索,我很难想象那个场景。莱塔尼亚和我熟悉的地方差别太大。想想看，一千个披袍子、戴面具、拿魔杖的人站在雷吉斯坦广场上……,"It's hard for me to imagine it. Leithanian is too different from anything that I know. Imagine, one thousand robed, masked figures holding wands, standing on Registan Square...","Трудно мне это представить. Лейтания слишком непохожа на то, что я знаю. Представь: тысяча людей в мантиях и масках с посохами стоит на площади Регистан..."
+line-201,闪击？,雷吉斯坦广场？,Registan Square?,Площадь Регистан?
+line-203,导火索,撒马尔罕的标志性建筑，你应该知道的。,The landmark of Samarkand. You should know.,Главная достопримечательность Самарканда. Ты должен знать.
+line-205,闪击？,好吧，那我接着讲。,I see. I'll continue.,"Ладно, продолжу."
+line-206,闪击？,一千束法术的光芒冲向夜空，绚丽的色彩在云层间碰撞、迸射，而后绽放，把目之所及的天空都绘成缤纷的花海……,"One thousand beams of Arts light shoot into the night sky. Colors clashed in the clouds and burst open, turning the entire sky into a colorful sea of flowers...","Тысяча лучей Искусства взмывает в ночное небо. Цвета сталкиваются в облаках, разрываются и расцветают, превращая всё небо до горизонта в пёстрое море цветов..."
+line-208,导火索,塑能转换系源石技艺的应用？,Application of evocation-conversion Originium Arts?,Эвокативно-трансформационное Искусство Ориджиниума?
+line-210,闪击？,你这不是很懂源石技艺吗？,You know Originium Arts?,Так ты и правда разбираешься в Искусстве Ориджиниума?
+line-212,导火索,在多索雷斯突击补课的成果。,The result of extra lessons in Dossoles.,Результат интенсивных занятий в Досолесе.
+line-213,导火索,煤、石油、天然气，甚至核聚变……一切都被源石替代了，我只好加紧从头学起——,"Coal, oil, gas, even nuclear fusion... it's all been replaced by Originium. I had to learn from scratch—","Уголь, нефть, газ, даже ядерный синтез... всё заменил Ориджиниум. Пришлось срочно учиться с нуля—"
+line-217,导火索,库兹，怎么了？,What is it?,"Кёц, что случилось?"
+line-219,闪击？,剃须刀出了点故障，稍等——,Something wrong with the razor. One moment—,С бритвой что-то не так. Секунду—
+line-235,,导火索从翻开的书上猛然抬起头来。他发觉自己刚刚趴在桌子上睡着了。,"Fuze wakes with a start. He had fallen asleep on the desk, his faced buried in the book he was reading.","Фьюз резко поднимает голову из книги. Он обнаруживает, что уснул, уткнувшись в неё лицом."
+line-236,导火索,啧，睡得背痛，头也发晕。,Tsk... my back hurts. And my head's groggy...,Тьфу... спина болит и голова раскалывается...
+line-237,导火索,“左图为本书作者在莱塔尼亚访学时见证的庆典场景……”,'Festive scene witnessed by the author while visiting Leithanien...',"«На левом рисунке — сцена праздника, свидетелем которого автор стал во время стажировки в Лейтании...»"
+line-238,导火索,怪不得会梦见别人跟我讲这些东西。,No wonder I was dreaming about it.,"Неудивительно, что мне снилось, будто мне это рассказывают."
+line-242,导火索,有什么掉到地上了……书签？,Something fell out... a bookmark?,Что-то упало... закладка?
+line-243,导火索,得把这个和书一起还回去。,I should return this with the book.,Надо вернуть её вместе с книгой.
+line-253,导火索,麻烦去那边，帮我按下开关。,"Press the switch there for me, please.","Будь добр, нажми там переключатель."
+line-260,镇民,没反应啊。,Not working.,Ничего не происходит.
+line-262,导火索,看来还得找伯梅借几本书。能麻烦你帮我跑一趟吗？,Looks like we need a few more books from Berman. Could you fetch them for me?,"Похоже, придётся ещё раз занять у Бермана книг. Не сходишь ли ты за ними?"
+line-264,镇民,真的抱歉，导火索先生，伯梅先生他……,"I'm sorry, Mr. Fuze. Mr. Berman...","Простите, господин Фьюз, мистер Берман он..."
+line-266,导火索,怎么，他暗地里干些见不得人的事？我第一次去他家的时候你好像也很紧张。,What about him? Don't tell me he does illegal stuff in secret. You were really nervous the first time I visited him.,"Что — тайно промышляет чем-то неподобным? Когда я первый раз к нему пришёл, ты тоже очень нервничал."
+line-268,镇民,不不不，不是，绝对不是！伯梅先生不是坏人，只是……唉，我说不好……只是大家没事不太喜欢去他那边。,"No, not at all! He's not a bad person. It's just... well... we don't go there unless we really need to.","Нет-нет, нет, конечно! Мистер Берман не плохой человек, просто... эх, не могу объяснить... просто к нему без нужды не ходят."
+line-270,导火索,……算了，我自己去。,"...Fine, I'll go myself.","...Ладно, схожу сам."
+line-284,伯梅,让我看看……《实用家庭电工手册》？我觉得这本书可能太简单了。,Let me see... 'Practical Manual of Home Appliances'? Isn't that a little too simple?,"Посмотрим... «Практическое руководство по домашнему электромонтажу»? Кажется, слишком просто."
+line-286,导火索,简单也未必就没有帮助。就这本。,Just because it's simple doesn't mean it can't help. I'll take this one.,Простое — не значит бесполезное. Возьму эту.
+line-288,伯梅,当然可以。,Of course.,Конечно.
+line-294,伯梅,不过我很好奇，为什么乌萨斯会有精通机械，却对源石电路一窍不通的人？,"I'm curious, though... why would there be an Ursine who knows machines, but not Originium circuits?","Мне всё же любопытно: откуда в Урсусе взялся человек, который разбирается в механике, но не знает ориджиниумных схем?"
+line-296,导火索,这对眼下的问题来说不重要。,That's not important right now.,Сейчас это не важно.
+line-298,伯梅,我们就不能抛开那座水塔，聊聊各自的生活吗？,Why don't we set the water tower aside for a moment and talk about our own lives?,Можем ли мы на время отложить башню и поговорить о своих жизнях?
+line-300,导火索,没必要。,There's no need for that.,Не нужно.
+line-302,伯梅,如果你不愿意先开口，也可以从我开始……从那座水塔开始。,"Well, I'll start if you don't want to... starting with that water tower.","Ну, если ты не хочешь начинать первым... начну я. С той башни."
+line-303,伯梅,我可以告诉你，水塔是男爵老爷理想的第一步，他一开始也想让附近的人过得好些。他想把镇子变成“模范镇”。,The water tower was the first step of the Baron's dream. He wanted to help the people here live better lives. He hoped this place could be a 'model town.',"Башня была первым шагом мечты барона. Он и сперва хотел, чтобы люди здесь жили лучше. Он мечтал сделать из городка «образцовый посёлок»."
+line-304,伯梅,很可惜，除了让领民喝上了自来水，他一事无成。,"In the end, the only thing he achieved was tap water for the townsfolk.","В итоге всё, чего он добился, — это водопровод."
+line-305,伯梅,男爵老爷想在镇里办工厂，想找首都的大人物来投资，想把这里办成艺术家的采风地……结果要么事与愿违，要么没人注意。,"The Baron wanted to build a factory in town, get investments from bigwigs from the capital, make this place a center for the arts... but all his efforts ended up futile or unnoticed.","Барон хотел построить в городе фабрику, пригласить инвесторов из столицы, сделать здесь центр искусств... но все его начинания либо шли не так, либо оставались незамеченными."
+line-306,伯梅,他最后一次的尝试最大胆，也离成功最近——他要把整座镇子搬上移动平台，维杜尼亚的一家工坊已经和他谈妥，收了一大笔定金——,"His final attempt was the boldest, and it came closest to success. He wanted to move the entire town to a mobile platform. He had an agreement with a Vedunien factory, and paid a large amount up front—","Последняя его попытка была самой дерзкой и ближе всего к успеху — он хотел перенести весь городок на мобильную платформу. С одной видунийской мастерской уже была договорённость, крупный задаток внесён—"
+line-307,伯梅,然后女皇陛下莅临了她们忠实的崔林特尔梅。,"Then, Their Majesties visited their faithful Zwillingstürme.",И тут её величества пожаловали в свою верную Цвиллингштюме.
+line-309,导火索,你在说你自己的故事？,Is that your story?,Это твоя история?
+line-311,伯梅,……我父亲的。,...My father's.,...Моего отца.
+line-312,伯梅,我那时还很年轻，在维杜尼亚的大学里写我的传心感知系法术论文。,"I was young then, still working on my university thesis about telepathic and perceptive Arts in Vedunien.","Я был тогда молод, писал в Видунии диссертацию о телепатических и перцептивных Искусствах."
+line-313,伯梅,结果那段时间我见得最多的就是血。平民的，贵族的，宪兵的，选帝侯的，还有我导师的。,"At the end of it all, the only thing I could remember is blood. Blood of the common folk, of nobles, of the Gendarmerie, of the Kurfürsten, and of my teacher.","А в итоге больше всего я видел там крови. Простых людей, дворян, жандармов, курфюрстов... и своего наставника."
+line-314,伯梅,等我侥幸带着被烧焦的论文逃回家时，我父亲的第一句话是问我怎么样，第二句话是问那家工坊怎么样……还能怎么样？,"I barely escaped with my life, clutching the charred thesis. The first thing my father asked when I came back was how I was doing. The second thing he asked was how the factory was doing... I need not tell you the answer.","Когда я чудом выбрался оттуда с обгоревшей диссертацией, отец первым делом спросил, как я. Вторым — как дела у той мастерской... Что там могло быть, я и так знал."
+line-316,导火索,然后你的父亲郁郁而终，而你没能继承他的爵位。,"Your father died a broken man, and you never inherited his title.","И твой отец умер, сломленный, а ты не унаследовал его титул."
+line-318,伯梅,不，我主动放弃了他的爵位，因为我发觉一切都没有意义。,"I gave it up, because I realized it was all meaningless.","Нет. Я сам отказался от титула, потому что понял: всё это бессмысленно."
+line-320,导火索,……知道你和你父亲最大的区别是什么吗？,...Do you know what the biggest difference between you and your father is?,"...Знаешь, в чём главная разница между тобой и твоим отцом?"
+line-322,伯梅,我洗耳恭听。,I'm all ears.,Слушаю.
+line-324,导火索,他除了让镇上的人喝上了自来水以外一事无成，而你连自来水都没能让他们喝上。,He at least managed to give the townspeople tap water.,"Он хотя бы дал горожанам водопровод, а ты не дал даже этого."
+line-325,导火索,如果我们聊些更实际的东西，明天你的邻居们就又能喝上自来水了。,"If we talk about the issue at hand, your neighbors will have running water from tubes again tomorrow.","Если мы поговорим о деле, завтра у твоих соседей снова будет вода из кранов."
+line-327,伯梅,然后你一直为之努力的目标完成了，你会离开，你一刻都不会停留，不是吗？,"Then let's assume your work here will be done. You'll leave, not pausing for a moment.","И когда твоя работа здесь закончится, ты уйдёшь, не задержавшись ни на минуту, верно?"
+line-329,导火索,莱塔尼亚一定有很多和我一样执拗的人，你可以去找他们。,I'm sure there are many people as stubborn as I am in Leithanien. You can see for yourself.,"В Лейтании наверняка много таких же упрямцев, как я. Можешь убедиться."
+line-331,伯梅,不，我最近才知道，你是绝无仅有的那一个。,No. I only learned this recently. You're one of a kind.,Нет. Я только недавно узнал: ты — единственный такой.
+line-333,导火索,绝无仅有？,One of a kind?,Единственный?
+line-335,伯梅,没什么。祝你的研究顺利，导火索先生。,It's nothing. I wish you luck in your studies.,"Ничего. Желаю удачи в изысканиях, господин Фьюз."
+line-336,伯梅,还有，如果你遇见了老维塞的孙女，记得告诉她早点把人送过来。,"And if you see Vissel's granddaughter, tell her to bring him over before it's too late.","И ещё: если встретишь внучку старика Виссел, передай ей, пусть поскорее привезёт его."
+line-338,导火索,把人送过来？什么意思？,'Bring him over'? What do you mean?,Привезёт его? Что ты имеешь в виду?
+line-340,伯梅,字面意思。,Exactly that.,В буквальном смысле.
+line-355,？？？,这里不错，就这里了。,This looks like a good place.,Здесь хорошо. Здесь и остановимся.
+line-357,导火索,这里可够暗的，卡特伯。,It's really dark here.,"Здесь и вправду темно, Кёц."
+line-359,医生？,看来这次我们真的会有很长时间回不去那个一切不由源石，而是由石油驱动的地方了。,Looks like it's going to be a long time before we can go back to that place where everything doesn't run on Originium.,"Похоже, на этот раз мы и правда надолго не вернёмся туда, где всё работает не на Ориджиниуме, а на нефти."
+line-361,导火索,原来你也会找个阴暗的角落犯思乡病。,I didn't know you were the kind to get homesick.,"Не знал, что ты умеешь тосковать по дому в тёмных углах."
+line-363,医生？,当然。你还记得我们到这里来的那天吗？,Of course. You remember the day we first came?,"Конечно. Помнишь день, когда мы сюда пришли?"
+line-365,导火索,怎么会忘，我们去探查磁山二号实验室的原址，结果一头栽到雷内尔的高尔夫球上面。,I remember. We were investigating the Magnethill No.2 site and ended up landing on Reynell's golf balls.,Как забыть? Мы обследовали бывший объект «Магнитная гора №2» и угодили на поле для гольфа Рейнелла.
+line-369,医生？,说到家，和我聊聊你的家乡吧。我记得撒马尔罕有……雷吉斯坦广场？,"Speaking of home, what was the name of that landmark in Samarkand... Registan Square？",Кстати о доме... как называлась та достопримечательность в Самарканде — площадь Регистан?
+line-371,导火索,是啊，天空是蓝色的，建筑的穹顶也是蓝色，我甚至能想起广场上的人群，往来的汽车，还有那三座巨大建筑上的花纹……,"Yeah. The building with the blue dome. I can almost see the crowds on the square, the cars driving by, and the patterns on the three buildings…","Да. Голубые купола, синее небо... я почти вижу толпу на площади, проезжающие машины, узоры на трёх больших зданиях..."
+line-386,,导火索从书上抬起头。,Fuze looks up from his book.,Фьюз поднимает глаза от книги.
+line-387,,不知从何时开始，睡意开始不分时间地点地袭来。他常常在草图画到一半时倒头睡去，醒后还不得不努力把残留的梦境从脑海中赶走。,"Sleep seems to come to him anytime, anywhere now. He often falls asleep halfway through a draft, and has to chase the remnants of the dream out of his mind after waking up.","С некоторых пор сон накрывает его в любое время и в любом месте. Часто он засыпает на полуслове эскиза, а проснувшись, с трудом выгоняет из головы остатки снов."
+line-388,,那些梦境太清晰，太真实。,"The dreams were too clear, too real.","Сны были слишком ясными, слишком настоящими."
+line-389,,甚至，非常偶尔的几次，他不由得认真思考泰拉是否真的只是一场长过了头的梦境，他是不是在磁山二号磕了脑袋。,"Sometimes, he even wonders if Terra was just a really, really long dream after he hit his head at Magnethill No. 2.","Бывало, он даже всерьёз задавался вопросом: а не является ли Терра просто очень-очень долгим сном, не ударился ли он головой на «Магнитной горе №2»."
+line-390,导火索,（打哈欠）,(Yawns),(Зевает)
+line-391,导火索,不能现在睡，至少得先去水塔上，或者再找伯梅借本书验证一下——,I can't sleep now. I need to go to the water tower... or borrow another book from Berman...,Не сейчас. Сначала нужно подняться на башню... или занять у Бермана ещё одну книгу для проверки—
+line-392,导火索,等等，他是不是让我跟老维塞的孙女说什么……把人送过去？,What did he say about Vissel's granddaughter? Tell her to bring him over?,"Погоди, он же велел что-то передать внучке старика Виссел... привезти его?"
+line-404,伯梅,多谢你及时把老维塞送过来，他还剩一口气。他孙女呢？,Thank you for bringing Vissel over while he still draws breath. Where's his granddaughter?,"Спасибо, что привезли старика Виссел вовремя — он ещё дышит. Где его внучка?"
+line-406,导火索,累病了。,In bed. She's exhausted.,Легла. Совсем выбилась из сил.
+line-407,导火索,伯梅，为什么你让镇民把垂死的人送到自己这里来？,Why do you have the townspeople send the dying to you?,"Берман, почему ты просишь горожан присылать к тебе умирающих?"
+line-408,导火索,我刚刚问过其他人了，他们吞吞吐吐，但最终还是告诉我，你一直在这么做。,"I asked around. People were hesitant at first, but they eventually told me that you've been doing this for a long time.","Я сейчас спросил остальных. Они мялись, но в итоге рассказали, что ты давно это делаешь."
+line-410,伯梅,让我猜猜……你在怀疑我利用死者？,Let me guess... you suspect I'm taking advantage of the dead?,"Дай угадаю... ты подозреваешь, что я извлекаю выгоду из мёртвых?"
+line-412,导火索,一点点怀疑，不多，如果你之前的言论都属实的话。,"I am a bit skeptical, assuming what you told me is true.","Немного, если всё, что ты мне рассказал, правда."
+line-414,伯梅,这又怎么说？,What do you mean?,Как это?
+line-417,导火索,很难想象一个满口“衰颓”“死亡”和“没有意义”的人能做成什么真正的恶事。他不会错，因为他根本什么都不做。,It's hard to believe someone so melancholy could be that bad. Especially when they can't put in the effort to do anything.,"Трудно поверить, что человек, который только и твердит про «упадок», «смерть» и «бессмысленность», способен на настоящее зло. Он не ошибся, потому что вообще ничего не делает."
+line-419,伯梅,……你成功冒犯到我了，导火索先生。但我不介意。,"...Now you've offended me, Mr. Fuze. But that's fine.","...Ну, теперь ты меня и правда обидел, господин Фьюз. Но я не против."
+line-421,导火索,你还没回答我的问题。,You haven't answered my question.,Ты так и не ответил на мой вопрос.
+line-423,伯梅,那就好好看着。你会明白的。,Then watch. You'll understand.,Тогда смотри. Ты поймёшь.
+line-427,,又是一阵强烈的睡意袭来。导火索不得不狠狠咬了下舌头，免得自己又在此时睡过去。,The sleepiness strikes again. Fuze bites on his tongue to prevent himself from falling asleep.,"Опять накатывает волна сонливости. Фьюзу приходится больно укусить себя за язык, чтобы не уснуть."
+line-429,,而伯梅只是看着老人浑浊的双眼，将短杖的一头轻轻放在老人额头上。,"Berman gazes down at the old man's clouded eyes, and places one end of his staff on the old man's forehead.",А Берман просто смотрит в мутные глаза старика и осторожно прикладывает конец короткого посоха ко лбу.
+line-430,,杖尖微微发光。,The tip of the staff begins to glow.,Кончик посоха начинает светиться.
+line-433,老维塞,（含混的咕哝声）,(Mumbled muttering),(Нечленораздельное бормотание)
+line-434,老维塞,勒文，真的是你，你……你回来了……你真的回来了……,"Levine, it's you... you came back... you really came back...","Левин, это ты... ты... ты вернулся... ты правда вернулся..."
+line-435,老维塞,不，不用道歉，什么都别说，我们……回家……,"No, don't apologize, no need to say anything... we'll go home.","Нет, не извиняйся, ничего не говори... мы пойдём домой..."
+line-436,老维塞,给，这是后院的苹果……你出门时想吃一个，可偏偏那年一颗果子也没有结，这些年我一直留着……,"Here, an apple from the backyard... you wanted one when you left, but there wasn't any on the trees that year. I saved this one for you...","Вот, яблоко из сада... ты просил перед уходом, а в тот год дерево не уродило ни одного плода. Я всё берег его для тебя..."
+line-439,,然而导火索分明看见，老人伸出的手上并没有什么苹果，他面前站着的人也只有伯梅一个。,There is no apple on the old man's hand. Berman is the only person standing before him.,"Но Фьюз ясно видит: в протянутой руке старика нет никакого яблока, и перед ним стоит только Берман."
+line-440,导火索,勒文是谁？,Who's Levine?,Кто такой Левин?
+line-442,伯梅,老维塞的独子，十几年前得了矿石病，自己主动离开了镇子。,"Vissel's only son. He left the town more than a decade ago, after contracting Oripathy.","Единственный сын старика Виссел. Он ушёл из города больше десяти лет назад, после того как заболел Орипатией."
+line-444,导火索,你究竟对老维塞做了什么？你给他制造了幻觉？,What did you do to Vissel? Is he hallucinating?,Что ты сделал со стариком Виссел? Ты вызвал у него галлюцинации?
+line-446,伯梅,怎么会，那根本不是我能触及的领域。,Of course not. That's beyond my reach.,"Что ты, это мне недоступно."
+line-447,伯梅,我只是在缓解别人的痛苦，让人放松，让人在不该做梦的时间和地点沉入梦境……做一场我无权干涉的白日梦。,"All I can do is alleviate their pain, help them relax, cause them to dream when it's neither the time nor place to do so... a midday dream that I cannot interfere with.","Я лишь облегчаю чужую боль, расслабляю людей, погружаю их в сон в неурочное время и не в том месте... в дневной сон, в который я не имею права вмешиваться."
+line-449,导火索,这听起来就像某种无形的麻醉剂，类似医生在医院里给痛苦难忍的病人打一针，缓解他们的痛苦。,"Sounds like a doctor administrating anesthetics to a patient in pain, except there's no syringe.","Звучит как невидимый наркоз, как укол, который врач делает пациенту, сражающемуся с болью, только без шприца."
+line-451,伯梅,如果这是你的理解，我也无权多说什么。,"If that's how you understand it, it's not my place to say any more.","Если ты это так понимаешь, то мне нечего добавить."
+line-453,导火索,药物滥用是会毁掉一个人的。,Drug abuse ruins lives.,Злоупотребление лекарствами губит человека.
+line-455,伯梅,让垂死之人离开得安详一些也算滥用？舒赫拉特——,Is it abuse to let a dying person leave in peace? Shuhrat—,Разве дать умирающему уйти спокойно — тоже злоупотребление? Шухрат—
+line-457,导火索,……,...,...
+line-459,伯梅,导火索先生，这已经是我能为别人做的最有意义的事了。,"This is the most meaningful thing that I can do for someone, Mr. Fuze.","Господин Фьюз, это самое осмысленное, что я могу сделать для другого человека."
+line-461,导火索,可你想过吗，假如你愿意早点为那座水塔做点什么，老维塞根本不会濒临死亡。,Perhaps Vissel wouldn't be dying if you had done something about the water tower earlier.,"Но подумай: если бы ты раньше что-то сделал для башни, старик Виссел сейчас не был бы при смерти."
+line-462,导火索,在你那无形的麻醉剂中沉沦最深的不是任何一位垂死之人，而是你自己啊，伯梅。,You're the one drowning yourself in 'medicine' instead of helping the dying.,"Не кто-то из умирающих глубже всех погрузился в твою «невидимую анестезию», а ты сам, Берман."
+line-464,伯梅,哈哈，我吗？,"Ha, me?","Ха, я?"
+line-465,伯梅,也许是因为我见过太多悲剧，而见得越多，我就越发觉得自己是对的。,"I've seen too many tragedies. The more I see of them, the more I'm convinced that I'm right.","Может, потому что я повидал слишком много трагедий. И чем больше я вижу, тем сильнее убеждаюсь в своей правоте."
+line-466,伯梅,天灾、阴谋、战争、源石，甚至小小的意外……人的意志和生命在这些东西面前同样脆弱，一触即溃。,"Catastrophe, intrigue, war, Originium, even minor accidents... the life and will of man is ever fragile before them, like dust in the wind.","Катастрофа, интриги, война, Ориджиниум, даже пустяковый несчастный случай... воля и жизнь человека хрупки перед ними, как пыль на ветру."
+line-467,伯梅,更别提现在，我也是垂死之人了。,And soon I'll be gone with the wind too.,"Не говоря уже о том, что теперь и сам я умираю."
+line-471,,伯梅解开衣服，露出胸腹间斑驳的源石结晶。,Berman unbuttons his shirt and reveals the Originium crystal formations in his abdomen.,"Берман расстёгивает одежду, обнажая пестрящие кристаллы Ориджиниума на груди и животе."
+line-472,伯梅,从崔林特尔梅回家的路上，我就发现自己的肋侧……多了一块小小的、黑黑的石头，维杜尼亚给我留下的临别赠礼。,"On the way back from Zwillingstürme, I found that I had a little black rock by the side of my ribs, one last parting gift from Vedunien.","По дороге из Цвиллингштюме домой я заметил у себя под ребром маленький чёрный камешек — прощальный подарок, который мне оставила Видуния."
+line-473,伯梅,直到今天，它已经快把我整个吞掉，所以我决定犯下我这辈子唯一一次的罪行。,"It has almost consumed me, and so I decided to commit a crime for the first and last time in my life.","К сегодняшнему дню он почти целиком поглотил меня, и я решился на единственное преступление в своей жизни."
+line-475,导火索,罪行？,Crime?,Преступление?
+line-477,伯梅,对一个身心健康且不愿配合的人来说，我的法术需要许多苛刻的准备才能生效。很抱歉把它们用在你身上。,There is a lot of complicated preparation to be done in order for my Arts to work on a healthy and uncooperative mind. I'm sorry for doing this to you.,"Чтобы моё Искусство подействовало на здоровый и не соглашающийся разум, нужна очень сложная подготовка. Прости, что проделал это с тобой."
+line-478,伯梅,一开始我只是好奇，希望听听一个沉默寡言的行动者在睡梦中会说些什么，于是在书和书签上……动了一点小小的手脚。,"It began as curiosity about what this quiet man of action talks about in his sleep, so I did something to the book and bookmark that I lent you.","Сначала мне просто было любопытно, что говорит во сне этот молчаливый человек действия, поэтому я... немного подправил книгу и закладку, которые тебе дал."
+line-479,伯梅,然后，我就在你的梦话里听见了一些破天荒的事情，一片没有源石的……蓝色天空。,"Then, I heard you talk in your dream, about something beyond my wildest imagination... a blue sky, sky without a single trace of Originium.",А потом в твоём бреде я услышал невероятное: небо без единого следа Ориджиниума. Голубое небо.
+line-480,伯梅,我不奢望和你一起去那个没有源石的地方，甚至不奢望能和你成为朋友，毕竟你讨厌我这样不切实际的人，不是吗？,"I don't expect to go with you to that place without Originium. I don't even expect to become friends with you. After all, you don't like people who don't talk about practical things, do you?","Я не надеюсь попасть с тобой в то место без Ориджиниума. Я даже не надеюсь стать тебе другом — ведь тебе не нравятся люди вроде меня, которые толкуют о вещах непрактичных, верно?"
+line-482,导火索,……,...,...
+line-484,伯梅,所以我只好用法术……让你我共同完成这场最后的白日梦。,"And so, I must use my Arts... so that we can finish this last midday dream together.",И потому я должен применить Искусство... чтобы мы вместе довели этот последний дневной сон до конца.
+line-485,伯梅,抱歉让你陪一个矿石病人到最后一刻，但他已经孤独太久了。,"I'm sorry to make you stay with a dying patient in his final moments, but he has been alone for too long.","Прости, что заставил тебя быть со мной до конца, но он слишком долго был один."
+line-494,,导火索还来不及做任何反应，伯梅已经将短杖指向了他。,Berman points his wand at Fuze before he could react.,"Фьюз не успевает среагировать, как Берман уже наводит посох на него."
+line-495,,剧烈的睡意扑向导火索的眼眶。,Fuze is overcome by sleepiness.,Огромная волна сонливости накрывает Фьюза.
+line-503,,不知在何处响起的微细乐声低沉而绵密，如同海底的暗流，将海面上沉浮的意识缓缓拖入水中。,"He hears the flows of an undercurrent, pulling his drifting consciousness below the surface.","Где-то звучит тихая музыка — низкая и плотная, как подводное течение, медленно утягивающее его блуждающее сознание под воду."
+line-513,？？？,醒醒，舒赫拉特，醒醒！,Shuhrat! Wake up!,"Просыпайся, Шухрат, просыпайся!"
+line-514,导火索,咳、咳……,"*Cough,* *cough*...","Кхм, кхм..."
+line-515,？？？,啊，你醒了。恭喜，你的脸颊逃过了一劫。拿好你的装备，我们准备离开这儿。,"Good, you're awake. Lucky for you, you saved yourself a bit of pain. Grab your gear. We're leaving.","А, ты очнулся. Повезло — избежал нескольких синяков. Бери своё снаряжение, мы уходим."
+line-520,导火索,我们这是在哪里？,Where are we?,Где мы?
+line-522,艾拉,磁山二号实验室。震动已经过去，什么都没发生，除了你撞到了脑袋。,Magnethill No.2. The tremors have passed. You seem to have hit your head.,"Объект «Магнитная гора №2». Толчки прекратились, ничего не случилось, кроме того, что ты ударился головой."
+line-523,艾拉,实验室内部已经确认没有异常，医生他们已经先行撤离。就算震动和列维有关系，也只能等下次再探查了。,There's nothing unusual in the labs. Doc and the others have already left. Investigation into any possible connections to Levi will have to wait until next time.,"Внутри лабораторий ничего необычного. Док и остальные уже ушли. Если толчки и связаны с Леви, расследованием займёмся в другой раз."
+line-525,导火索,唔……嗯。,Mm... hm.,Мм... хм.
+line-537,艾拉,来想想假期的事情吧。,Do you have any vacation plans?,Давай подумаем об отпуске.
+line-539,导火索,假期？,Vacation?,Об отпуске?
+line-541,艾拉,你怎么连这也忘了？难道刚刚那一下撞得真的很重？,"You forgot that too? You really did hit your head hard, didn't you?","Ты что, и это забыл? Неужто тот удар и правда сильно тебя долбанул?"
+line-543,艾拉,帮我想想要去哪，给我挑个最美的地方，让我好好在那里待上一阵子，散散心。,I need some help picking out a good place to relax.,"Помоги мне выбрать, выбери самое красивое место, где я смогу побыть какое-то время и отвлечься."
+line-544,艾拉,撒马尔罕怎么样？你说过雷吉斯坦广场的，那里有蓝色的天空，蓝色的建筑，还有壁画、人群、汽车……,How about Samarkand? I hear Registan Square is beautiful.,"Как насчёт Самарканда? Ты говорил про площадь Регистан — там синее небо, синие здания, фрески, толпы, машины..."
+line-546,艾拉,然后我就在那里，什么也不想，一躺就是一整天。,"A place where I can lie down for a whole day, thinking about nothing.","И я буду там лежать целыми днями, ни о чём не думая."
+line-548,导火索,好啊。,Sure.,Хорошо.
+line-549,导火索,但是……不，不对……我好像还有事情没做……,But... wait... there's something I still need to do...,"Но... погоди, нет... мне кажется, я ещё что-то должен сделать..."
+line-551,艾拉,什么事情？,What is it?,Что?
+line-553,导火索,我不知道，但是——但是源石……,"I don't know, but... Originium...","Не знаю, но... но Ориджиниум..."
+line-555,艾拉,源石？那是什么？该不会是你刚刚撞到头的时候做梦了吧？,Originium? What's that? Did you have a dream while you were out cold?,"Ориджиниум? Что это? Неужели тебе приснилось, пока ты был без сознания?"
+line-557,导火索,艾拉，你听说过……源石这个词吗？,I mean... have you ever heard of Originium?,"Эла, ты когда-нибудь слышала... слово «Ориджиниум»?"
+line-559,艾拉,你不该指望别人听说过你刚刚梦见的东西。,You can't expect other people to understand what happens in your dreams.,"Не стоило ждать, что другие знают то, что ты увидел во сне."
+line-561,导火索,抱歉，只是这个词的印象……太强烈。,Sorry... it's just that the word left an impression on me.,Прости. Просто это слово... оставило слишком сильное впечатление.
+line-563,艾拉,别想了，没什么好想的，还是想想雷吉斯坦广场吧。也许我们一会儿就可以过去。,There's no point in dwelling on it. It's better to just focus on Registan Square. You should come with me.,"Не думай об этом. Лучше вспомни площадь Регистан. Может, мы скоро туда поедем."
+line-571,艾拉？,你们的术——我是说，科学家，最顶尖的那一批——,"Your cas— I mean, scientists, the best ones—","Ваши кастеры — я имею в виду, учёные, лучшие из них—"
+line-573,艾拉,不，没什么。,"No, it's nothing.","Нет, ничего."
+line-575,艾拉,想到自己能去你的家乡，去一个很美的地方度过一段日子，我很开心。,I'm just happy that I'm visiting your homeland.,"Я просто счастлива, что еду к тебе на родину."
+line-576,艾拉,一个没有天灾，没有战乱，没有悲剧的地方。,"A place with no catastrophe, no war, no tragedies.","В место, где нет ни катастроф, ни войн, ни трагедий."
+line-578,导火索,没有……悲剧的地方？,No... tragedies?,Места... без трагедий?
+line-581,艾拉？,等等，舒赫拉特，你怎么了？,Shuhrat? What is it?,"Шухрат, что с тобой?"
+line-583,导火索,你记得俄勒冈吗？,Do you remember Oregon?,Ты помнишь Орегон?
+line-585,艾拉？,舒赫拉特……,Shuhrat—,Шухрат...
+line-587,导火索,回答我，你觉得俄勒冈怎么样？,"Tell me, what do you think of Oregon?",Ответь мне. Что ты думаешь об Орегоне?
+line-589,艾拉？,俄、俄勒冈？算是个艺术家的好去处，有不错的博物馆，也有乐团什么的……,"O-Oregon? A good place for artists, with nice museums, orchestras...","О-Орегон? Хорошее место для художников, там неплохие музеи, оркестры..."
+line-591,导火索,那么巴格达？黎巴嫩？莫斯科？,What about Baghdad? Lebanon? Moscow?,Тогда Багдад? Ливан? Москва?
+line-593,艾拉？,……舒赫拉特，你听我说——,"Shuhrat, listen...","...Шухрат, послушай меня—"
+line-601,导火索,你以为没有源石——,Did you think that without Originium—,"Ты думал, что без Ориджиниума—"
+line-603,艾拉？,不，不！！,"No, no!","Нет, нет!!"
+line-611,导火索,悲剧就再也不会发生了吗，伯梅？,"—Without Originium, there won't be any tragedies, Berman?","—трагедий больше не случится, Берман?"
+line-619,伯梅,（惨笑）怎么会呢，舒赫拉特。,"(Forced smile) Of course not, Shuhrat.","(Вынужденная улыбка) Конечно нет, Шухрат."
+line-620,伯梅,也许一切都会以没有源石的形式卷土重来，但你不该苛责一个垂死的矿石病患者把它们想得太好。,"Perhaps it would all happen again, absent Originium. But don't be so hard on a dying patient's dream.","Может, всё вернётся и без Ориджиниума, но не вини умирающего пациента, что он мечтает о лучшем."
+line-622,导火索,那你也许需要看看我刚刚说过的那些地方，看看没有源石的那片蓝色的天空下，究竟会发生什么事情。,Maybe you should go and see the places that I talked about. See what happened to my home without Originium.,"Может, тебе стоит посмотреть те места, о которых я говорил. Увидеть, что происходит под тем голубым небом без Ориджиниума."
+line-624,伯梅,不必了。那里的鲜血不比那年秋天的维杜尼亚少，不是吗？,There's no need. I take it that no less blood was spilled there than Vedunien that autumn.,"Не нужно. Крови там пролилось не меньше, чем в Видунии той осенью, не так ли?"
+line-626,导火索,浸入土地的鲜血不应该用多少来计量。,It's not the amount of bloodshed that matters.,Пролитую в землю кровь не измеряют количеством.
+line-628,伯梅,哈……舒赫拉特，你也能说会道起来了。,"Ha... you're one to talk now, Shuhrat.","Ха... и ты научился красиво говорить, Шухрат."
+line-629,伯梅,你走吧。,Go.,Иди.
+line-630,伯梅,法术已经失败，你再也不可能告诉我那片蓝色的天空下是怎样的景色，我也不可能再在你的讲述中身临其境。,"The Arts have failed. You can no longer tell me what it looks like beneath that blue sky, nor can I experience it again through your narration.","Искусство не сработало. Ты больше не сможешь рассказать мне, что там, под голубым небом, и я больше не смогу увидеть это через твой рассказ."
+line-631,伯梅,走吧，趁着我还没变成源石粉尘之前赶快走，这样，我一生中的最后的，也是唯一的一件恶行也将无疾而终。,"Go, before I turn to a pile of dust. Bring my first and final crime to a painless end.","Иди, пока я не превратился в ориджиниумную пыль. Пусть моё первое и последнее преступление сойдёт на нет."
+line-636,伯梅,怎么，突然又有话想跟这个一事无成的人说了？,What is it? You wanted to talk to a man who achieved nothing?,"Что, вдруг снова захотелось поговорить с человеком, который ничего не добился?"
+line-638,导火索,世界上的……大地上的……悲剧，或许没有你想的那么多。,Perhaps there are less tragedies in this world... these lands... than you think.,"Трагедий в этом мире... на этой земле, может, меньше, чем ты думаешь."
+line-640,伯梅,那我在维杜尼亚见到的是什么？你在那些你刚刚说的地方经历的是什么？,Then what did I see in Vedunien? What did you see in the places that you talked about?,"Тогда что я видел в Видунии? Что ты видел в тех местах, о которых говорил?"
+line-642,导火索,混乱。,Chaos.,Хаос.
+line-643,导火索,混乱也许会带来衰颓和死亡，也许不会。混乱有时甚至会成为我的朋友，给我指引一条从中离开的路。,"Chaos is just that. Sometimes it brings destruction and other times, it guides you through it.","Хаос может привести к упадку и смерти, а может и нет. Иногда хаос даже становится моим другом и указывает мне дорогу из него."
+line-644,导火索,混乱并不总以悲剧收场，除非……,"Chaos doesn't always end in tragedy, unless...","Хаос не всегда кончается трагедией, если только..."
+line-646,伯梅,除非我什么都不做，是吗？,Unless no one takes action?,"Если только я ничего не делаю, да?"
+line-648,导火索,……,...,...
+line-650,伯梅,也许吧，舒赫拉特，但是太晚了……,"Perhaps, Shuhrat. But it's too late.","Может, и так, Шухрат. Но слишком поздно..."
+line-651,伯梅,太晚了。,Too late.,Слишком поздно.
+line-654,伯梅,舒赫拉特，你说人死后还会有灵魂吗？,Does the soul linger after death?,"Шухрат, как ты думаешь, бывает ли душа после смерти?"
+line-656,导火索,我不擅长这种话题。,I know little about this topic.,Я не силён в таких разговорах.
+line-658,伯梅,没关系，我只是在想，假如真的有这种东西，你说我死后……能去你记忆中的撒马尔罕，看看那里蓝色的穹顶吗？,"It's fine. I'm just thinking... if it does, do you think my soul can visit the Samarkand of your memories, and see the blue dome above?","Ничего. Я просто думал: если она есть, сможет ли моя душа после смерти попасть в тот Самарканд, что ты помнишь, и увидеть там голубой купол?"
+line-660,导火索,如果你想……,If you wish...,Если захочешь...
+line-661,导火索,……我不是不可以出于自己的意志告诉你它的模样。,"...I'm not opposed to telling you how it looks, of my own volition.","...Я не против рассказать тебе, как он выглядит — по своей воле."
+line-663,伯梅,我真的还有资格听吗？,Am I still worthy to hear it?,Я всё ещё имею на это право?
+line-665,导火索,别真的一事无成。,Don't leave this world without achieving anything.,"Не уходи из этого мира, ничего не добившись."
+line-668,,憔悴的男人瞪大了眼，随后虚弱地笑了出来。,"The haggard man's eyes go wide, then he laughs feebly.","Истощённое лицо распахивает глаза, потом слабо смеётся."
+line-669,伯梅,也许你不爱说话的原因是你太聪明，舒赫拉特。聪明人总是擅长冒犯别人。,Perhaps the reason that you don't like to talk is you're too smart. Smart people are good at offending others.,"Может, ты не любишь разговаривать потому, что слишком умен, Шухрат. Умные люди всегда умеют обижать."
+line-672,,导火索耸了耸肩，尽可能详尽地讲述起那座广场，还有广场附近建筑的模样。,"Fuze shrugs and begins to describe the plaza and the nearby buildings, in as much detail as possible.",Фьюз пожимает плечами и начинает как можно подробнее описывать ту площадь и здания вокруг неё.
+line-673,,而伯梅举起短杖，一座逼真的雷吉斯坦广场模型在桌前缓缓成形。,"Berman raises his wand, and a lifelike model of Registan Square begins to form before the desk.","А Берман поднимает посох, и на столе медленно вырастает удивительно точная модель площади Регистан."
+line-676,导火索,……像，太像了。,...Looks just like it. Almost identical.,...Похоже. Очень похоже.
+line-678,伯梅,……那就好。,Good to hear.,...Ну хорошо.
+line-679,伯梅,你接下来要去哪里？,Where will you go?,Куда ты теперь?
+line-681,导火索,水塔。我还要在镇上待一小段时间，替你把你本应该做的事情做完。,"The water tower. I'll stay in town a little longer, finish what you could not.","К башне. Я останусь в городе ещё немного и сделаю за тебя то, что ты должен был сделать сам."
+line-683,伯梅,去吧，把老维塞带回去，让他和他的孙女度过他自己最后这段时光。,Go. Take Vissel home. Let him spend his last moments with his granddaughter.,"Иди. Отведи старика Виссел домой, пусть проведёт свои последние дни с внучкой."
+line-685,导火索,我会的。再见。,I will. Goodbye.,Так и сделаю. До свидания.
+line-687,伯梅,……你多保重。,...Take care.,...Береги себя.
+line-692,,听见门锁的声响后，伯梅用最后的力气举起短杖。,"As the door locks behind Fuze, Berman raises his wand with what little strength he has left.","Услышав, как за ним щёлкает замок, Берман последним усилием поднимает посох."
+line-693,,这次再没有什么旋律响起，他只是封上了房间的门窗。,"There is no music, only the sound of doors and windows sealing.",На этот раз не звучит никакая мелодия — он просто запечатывает двери и окна комнаты.
+line-694,,短杖啪的一声掉在地上，但伯梅已经听不见了。他不住地摩挲着建筑模型蓝色的穹顶，心中想着从未见过的那一抹蔚蓝色的天空。,"The wand falls to the ground, but Berman could no longer hear it. He feels the blue dome of the model, imagining the sky of the same color, the sky he hasn't, and won't be able to see.","Посох со стуком падает на пол, но Берман уже не слышит. Он всё водит пальцами по голубому куполу модели, думая о невиданном им голубом небе."

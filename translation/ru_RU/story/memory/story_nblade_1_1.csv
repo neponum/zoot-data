@@ -1,0 +1,324 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_nblade_1_1,授刀
+,,,,
+char-1,实习干员A,实习干员A,Intern Operator A,Оператор-стажёр A
+char-2,夜刀,夜刀,Yato,Ято
+char-3,巡林者,巡林者,Rangers,Лесник
+char-4,火神,火神,Vulcan,Вулкан
+char-5,？？？,？？？,???,???
+char-6,席琳,席琳,Celine,Селин
+char-7,实习干员B,实习干员B,Intern Operator B,Оператор-стажёр B
+char-8,实习干员C,实习干员C,Intern Operator C,Оператор-стажёр C
+char-9,杜林,杜林,Durin,Дурин
+char-10,黑角,黑角,Noir Corne,Нуар Корн
+,,,,
+line-13,实习干员A,前辈……夜刀前辈好。,"Um... Hello, Yato, ma'am.","Э-э... Здравствуйте, Ято-сэмпэй."
+line-15,夜刀,……你好。,...Hello.,...Здравствуй.
+line-17,夜刀,等等。你，等一下，你认识我？,"Hold on, you... you know me?",Погоди. Ты... ты меня знаешь?
+line-19,实习干员A,是、是的。我研究过A4行动组的作战案例……,Y-Yes. I've studied Team A4's combat reports...,Д-да. Я изучала боевые отчёты команды A4...
+line-21,夜刀,哦，你叫什么名字？,Oh. And you are?,О. Как тебя зовут?
+line-23,实习干员A,我叫曼迪，前辈。,"I'm Mandy, ma'am.","Меня зовут Мэнди, сэмпэй."
+line-25,夜刀,以前没见过你……才入职不久？,I haven't seen you around before... a new recruit?,Раньше я тебя не видела... недавно прибыла?
+line-27,实习干员A,是的！我是三月过来的，通过了外勤干员的考核，目前正在学习近卫干员的课程中！,"Yes! I arrived in March, passed the field operator assessments, and am currently enrolled in the Guard Operator course!","Да! Я пришла в марте, сдала экзамен на оператора полевых задач и сейчас учусь на курсе гвардейцев!"
+line-29,夜刀,近卫……你会用刀吗？,A Guard Operator... Do you know how to wield a blade?,Гвардеец... Ты умеешь обращаться с мечом?
+line-31,实习干员A,学过一点，您问这个——,"I learned a little, but why do you ask—","Немного училась, но почему вы спрашиваете —"
+line-33,实习干员A,啊！,Ah!,Ах!
+line-37,夜刀,接着。,Take this.,Держи.
+line-39,实习干员A,这把刀……是您随身的……,This blade... It's the one you always carry.,"Этот клинок... он же ваш, вы его всё время носите..."
+line-41,夜刀,拿着，就用它和我打一场，看看你的实力如何。,"Wield it, and let's have a match to see how strong you are.","Возьми его и сразимся — посмотрю, на что ты способна."
+line-43,实习干员A,呜哇？！这——怎么能？我还完全达不到和您交手……,Whoa?! I—How could I? I'm definitely nowhere near the level to spar with you.,Ого?! Как же я... Я же ещё не готова драться с вами...
+line-45,夜刀,不必妄自菲薄，你发挥全部实力就好，我自有判断。,"No need to belittle yourself. Use all your strength, and I'll make my own judgement.","Не принижай себя. Выложись полностью, я сама решу."
+line-49,巡林者,夜刀，等等！,"Yato, wait!","Ято, постой!"
+line-54,夜刀,巡林者老爷子，既然你在，就帮我看着……,"Old man Rangers. Since you're here, help me observe—","Старик Лесник, раз ты здесь, присмотри за нами —"
+line-56,巡林者,夜刀，别逗小孩子玩了，他们一会儿还要去上课呢。,Enough teasing the kid. They have classes soon.,"Ято, перестань дразнить детей. Им же скоро на занятия."
+line-58,夜刀,……,...,...
+line-59,夜刀,好吧……抱歉。,Fine... I'm sorry.,Ладно... прости.
+line-63,实习干员A,没关系。那两位前辈，我……,"It's alright. Then, I'll be...",Ничего. Тогда я...
+line-68,巡林者,好啦好啦，你忙你的去吧。,"Yes, yes. Go do your own thing.","Да-да, иди занимайся своим делом."
+line-78,巡林者,我说夜刀，这几天老看你在找那些新人。你那身手就放过年轻人啦，他们还不够你两下子的。,"I have to say, Yato, I keep seeing you on the hunt for rookies recently. You should really give these youngsters a break. They wouldn't even last two moves against you.","Слушай, Ято, я всё вижу, ты эти дни всё ищешь новичков. Ну оставь уже молодых в покое — они и двух ходов с тобой не выдержат."
+line-80,夜刀,是吗？我记得我刚来罗德岛的时候，没有那么弱……至少和前辈交手两下不在话下。,"That so? I don't remember being that weak when I first came to Rhodes Island... Or at least, I could spar with the veterans for more than two moves.","Правда? Помнится, когда я только пришла на Родос, я была не такой слабой... Во всяком случае, я могла подраться со старшими больше двух ходов."
+line-82,巡林者,那都是很久之前了，那会也没这么多人，都是进来就工作的。,"That was a long time ago. We didn't have as many people as we do now, and we all started working as soon as we arrived.","Это было давно. Людей тогда было меньше, и все сразу шли работать, как только приходили."
+line-83,巡林者,时代变了，现在流行的是培养新人，夯实他们的基础，然后是怎么说来着……哦对，帮助他们融入职场环境。,"Times have changed. Now it's popular to train the newcomers, consolidate their fundamentals, and then, how do you put it... Oh, yes. Help them integrate into their work environment.","Времена изменились. Теперь модно растить новичков, закладывать им фундамент, а там, как говорится... помогать адаптироваться в рабочей среде."
+line-84,巡林者,他们还有两人三足滑冰赛玩，真令老夫羡慕。,They even have a three-legged skating competition these days. It's enough to make an old man jealous.,У них ещё соревнования по катанию на троих в связке — старику даже завидно.
+line-86,夜刀,原来如此，我不是很清楚现在的情况。,I see. Apparently I haven't kept myself informed on our training policies.,"Понятно. Я не в курсе, как всё теперь устроено."
+line-88,巡林者,这也没什么要特别了解的。汽水，夜刀要来一罐吗？,It's not really something you need to be informed about. Care for a can of soda?,"Да это и не то, что непременно нужно знать. Газировка, Ято, возьмёшь банку?"
+line-90,夜刀,（接住）,(Catches can),(берёт банку)
+line-92,巡林者,但话又说回来，这些年轻人能通过干员考核，肯定也是不简单的，和咱们不过就是差些实战经验，很快就能赶上来的。,"Then again, passing the operator assessment exam is no walk in the park, even now. All they lack is combat experience, so they'll catch up in no time.","Впрочем, эти молодцы и так сдали экзамен — это не прогулка. Им только не хватает боевого опыта, так что они быстро догонят."
+line-94,夜刀,前辈，年轻人中有战斗技巧比较出色的吗？,"So, anyone among them with notable combat skills?","Старший, среди молодых есть кто-то с выдающимися боевыми навыками?"
+line-96,巡林者,战斗……这方面老夫没有去了解过，可以帮你去问问。怎么了？,Hmm... Can't say I've kept up with that myself. Though I can help you ask around. But why?,"Боевые... этим я не интересовался, могу навести справки. Почему тебя это вдруг?"
+line-98,夜刀,……你知道，我的刀坏了。,...You know that my blade is broken.,"...Ты же знаешь, мой меч сломался."
+line-100,巡林者,哦，老夫想起来了，是在砍磐蟹那时候吧，你还找黑角要了备用刀来着。,"Oh, yes. I remember now, you were chopping metal crabs left and right. You even asked Noir Corne for a spare.","А, вспомнил — когда ты рубила металлических крабов. Ты даже у Нуар Корна просила запасной."
+line-101,巡林者,再去后勤部领一把，或者找火神小姐定制一把新武器，她肯定乐意帮忙。,"Perhaps you can pay Logistics another visit for a replacement, or look for Vulcan to make you a new custom weapon. I'm sure she'd be happy to help.","Может, сходишь ещё раз в логистику или попросишь миссис Вулкан сделать тебе новое оружие на заказ — она наверняка согласится."
+line-102,巡林者,难不成夜刀是想收徒，把旧刀当作信物传下去吗？,"Or could it be that... you're looking for a disciple to pass your old blade on to, as a token?",Неужто Ято хочет взять ученика и передать ему старый меч как знак?
+line-103,巡林者,老夫说着玩的，哈哈哈——,"Hahaha, don't mind this old man and his jests—","Ха-ха-ха, не обращай внимания на старика и его шутки —"
+line-105,夜刀,……,...,...
+line-107,巡林者,哈、哈……不会吧？,"Ha... ha... that can't be it, right...?",Ха... ха... не может быть?
+line-109,夜刀,我原有这样的打算。,I did have something like that in mind.,Я и правда думала об этом.
+line-111,巡林者,可是，夜刀……这没意义啊。,"But, Yato... that makes no sense.","Но, Ято... это же бессмысленно."
+line-113,夜刀,我知道……我既不是教官，也不懂如何教导他们。何况我也不知道他们是不是需要这把刀。,"I know... I'm not an instructor, and I wouldn't know how to teach anyone anyway. Besides, would they ever have need of it?","Я знаю... я не инструктор и не умею никого учить. К тому же я не знаю, нужен ли им этот меч."
+line-115,夜刀,算了，没事。我自己再思索一下吧。,"Forget it, it's nothing. I'll need to think about this more.","Ладно, всё равно. Ещё обдумаю."
+line-121,巡林者,夜刀……很少见到她这样子。,Yato... Now this is a rare sight.,Ято... Такое редко увидишь.
+line-134,火神,这把刀……考虑到它的服役时间和维修次数，修复到能够使用的程度是不可能了。,"So this blade of yours... considering its age and the number of past repairs, it's impossible to restore it to a usable state.","Этот клинок... учитывая срок службы и количество ремонтов, восстановить его до рабочего состояния невозможно."
+line-135,火神,申请设备报废后有两个选择：向后勤部申请制式佩刀，或者有特殊需要找我定制。都是上系统填个表就好。,"After applying for equipment scrapping, you have two choices: apply for a standard new blade from Logistics, or contact me for a custom make if you have any special requirements. You just have to fill out the right form.","После списания снаряжения у тебя два варианта: запросить у логистики стандартную саблю или, если есть особые требования, заказать мне. Всё сводится к заполнению формы."
+line-136,火神,不过看起来这把刀对你有特殊的意义。,But it seems to me this blade means something special to you.,"Но, кажется, для тебя этот клинок много значит."
+line-138,夜刀,这是我来到罗德岛后拿到的第一把刀，我在东国时佩刀的碎片被熔铸进其中。,It's the first blade I received after arriving on Rhodes Island. It was smelted with fragments of my blade from my Higashi days.,"Это первый меч, который я получила на Родосе. В него вплавили обломки моего клинка времён Восточной страны."
+line-140,火神,被重熔过……原来如此，难怪这把刀在强度上有所不足。,"So it's been reforged before... I see, so that's why it's somewhat weak.",Его уже перековывали... Вот почему он не очень прочный.
+line-142,夜刀,再之前，碎开的那把刀是我以前的剑术师傅留下的，交到了我手上。刀就是这样被留下来的。,"It was already broken when it was passed down to me from my swordplay teacher, before it became this.",И до этого тот сломанный меч достался мне от моего наставника по фехтованию. Так мечи и передаются.
+line-143,夜刀,说来奇怪，我已经离开故地很久了，但现在再端详这把刀时却想起了这段历史，直到现在……才想要将它留下来。,"It's a little strange, but I've been away from my homeland for so long, and yet even now I still recall its history when I look at this... That's what made me want to keep it.","Странно: я давно уехала из родных мест, а теперь, глядя на этот клинок, вспоминаю всю его историю — и только сейчас... захотелось её сохранить."
+line-145,火神,的确不是个好时机，所以你会很纠结要怎么处置这把武器。,That's unfortunate. So that's why you're at such a loss as to what to do with it.,"Не самый удачный момент, поэтому ты и не можешь решить, что делать с оружием."
+line-146,火神,好吧，我尊重你的习惯，但是我还是得说，一时半会儿你很难了结心愿，收徒赠刀并不是简单的事。,"Alright, I respect your traditions, but I have to say that realizing your wish will be difficult, at least in the short term. Accepting a disciple to pass down your blade won't be a simple affair.","Ладно, я уважаю твои традиции, но должна сказать: исполнить это желание в ближайшее время вряд ли выйдет. Взять ученика и передать меч — непростое дело."
+line-147,火神,更何况它是一把用不了的刀，想不到罗德岛上有谁会想要它。,"Besides, it isn't really usable anymore, so I doubt anyone on Rhodes Island would want it.","И к тому же он больше не годится для боя. Сомневаюсь, что кто-то на Родосе захочет его."
+line-149,夜刀,说实话，我以前没想过会有这么一天。我原以为它会坚持得比我更久，最差的结局也是在战场上折断……,"To be honest, I never thought this day would come. I thought it would outlive me, or at worst break in battle.","Честно, я никогда не думала, что настанет такой день. Я думала, он проживёт дольше меня, а в худшем случае сломается в бою..."
+line-150,夜刀,你说得对……我是不是该趁早打消这个念头……,But you're right... I should just give up on this.,"Ты права... может, мне стоит пораньше оставить эту затею..."
+line-152,火神,唔，如果你还想继续使用它的话，我还有一个办法，不过也是老法子。,"Hmm... If you still want to use it, I do have a method we can try, although it's an old technique.","Мм, если хочешь и дальше его использовать, у меня есть ещё один способ — правда, тоже старый."
+line-153,火神,将这把刀继续熔铸成新刀，不过这么一来，刀体的强度又会再次下降，会更加容易损坏。我不会建议你在高强度的战斗中使用它。,"You could have the blade reforged anew, but it'll become even weaker and more brittle. I wouldn't recommend it for high intensity combat.","Переплавить его в новый клинок. Но прочность станет ещё ниже, и он будет ломаться чаще. Я бы не рекомендовала его для серьёзных боёв."
+line-154,火神,要怎么做，你自己做决定。,It's up to you.,Решать тебе.
+line-156,夜刀,明白了……我需要再考虑一下。,Understood... I'll need to think it over.,Понятно... Мне надо ещё подумать.
+line-169,夜刀,又分心了……,Got distracted again...,Опять отвлеклась...
+line-171,夜刀,你……夜刀，你怎么竟被一把刀挑得心神不宁？,"You... Why is this one blade making you so uneasy, Yato?","Ты... Ято, как же ты так расстроилась из-за одного меча?"
+line-177,？？？,打扰了，夜刀前辈。,"Sorry to disturb you, Yato, ma'am.","Простите, Ято-сэмпэй."
+line-182,夜刀,……你找我？,...You were looking for me?,...Ты искала меня?
+line-184,？？？,嗯。,Yes.,Да.
+line-186,夜刀,你是？,And you are?,А ты кто?
+line-188,？？？,我叫席琳，席琳·弗里曼。正在外勤部实习，目标是成为一名能担当先锋职责的干员。,"I'm Celine, Celine Freeman. I'm currently interning at Field Operations, and aiming to become a Vanguard Operator.","Я Селин, Селин Фриман. Сейчас стажируюсь в отделе внешних операций, хочу стать оператором, способным выполнять задачи авангарда."
+line-190,夜刀,找我有什么事？,And what business do you have with me?,Зачем ты меня искала?
+line-192,席琳,我……,I...,Я...
+line-193,席琳,（深呼吸）,(Breathes deeply),(глубокий вдох)
+line-194,席琳,抱歉，我无意间听到了您和巡林者前辈的对话，您正在寻找交战的对象。我想……我想与您交手。,"Sorry, I overheard your conversation with Rangers earlier. That you're looking for someone to spar with. So... I'd like to have a match with you.","Простите, я невольно подслушала ваш разговор с Лесником — вы ищете, с кем сразиться. Я... я хочу драться с вами."
+line-196,夜刀,你想和我打一场？,You want to spar with me?,Ты хочешь сразиться со мной?
+line-198,席琳,嗯，没错……我想要赢得向您学习的资格。,"Um, yes... I want to win the right to learn from you.",Да... Я хочу заслужить право у вас учиться.
+line-200,夜刀,……,...,...
+line-204,实习干员B,席琳她……竟然去找夜刀前辈了！,Celine... She actually went to find Yato!,Селин... Она и правда пошла к Ято!
+line-205,实习干员C,她不会这么快就忘记找上炎客前辈的后果了吧？自从剑术课的测试失误了以后，她就一直在胡来了。,Surely she hasn't forgotten what happened when she went looking for Flamebringer? She's been acting so strange ever since she failed the exam in swordsmanship class.,"Неужто она забыла, чем обернулось для неё общение с Пламенным клинком? После того как она облажалась на экзамене по фехтованию, она совсем не в себе."
+line-206,实习干员B,她都快要把“证明自己”写在脸上了，真是不服输的性子。听说夜刀前辈一向直来直往，应该不会答应她的……,"She might as well have 'I must prove myself' written on her face, seeing how stubborn she is. I hear Yato's pretty blunt though, so she probably wouldn't agree to—","У неё прямо на лбу написано «надо доказать себя». Та ещё упрямица. Говорят, Ято прямолинейна, так что наверняка не согласится —"
+line-210,夜刀,好。,Sure.,Хорошо.
+line-213,实习干员B,欸！,Huh?!,Эй!
+line-217,席琳,我会注意招式的分寸……,I'll make sure not to go overboard...,Я постараюсь не перебарщивать...
+line-219,夜刀,没必要。,No need.,Не надо.
+line-221,席琳,那好……得罪了！,Alright then... here I come!,Тогда... простите!
+line-236,席琳,（躲、躲开了？）,"(She, she dodged?)","(Она, она увернулась?)"
+line-238,夜刀,后面。,Behind.,Сзади.
+line-240,席琳,（速度很快，但我能跟得上……）,"(She's so fast, but I can keep up...)","(Она быстрая, но я поспею...)"
+line-241,席琳,呵哈！,Aha!,Ага!
+line-257,席琳,……,...,...
+line-259,实习干员B,你看清了吗？,Did you catch that?,Ты видела?
+line-260,实习干员C,没……没有。,Uh... No.,Не-не...
+line-261,实习干员B,夜刀前辈的刀……是什么时候架在席琳脖子上的？,When did Yato's blade... end up at Celine's throat?,Когда клинок Ято... оказался у Селин на шее?
+line-263,夜刀,你输了。,You lose.,Ты проиграла.
+line-265,席琳,前辈，我……我想再试一次！,"Ma'am, I... I want another try!","Сэмпэй, я... я хочу ещё раз!"
+line-267,夜刀,……来。,...Come.,...Давай.
+line-269,席琳,（刚才那招不行，这招或许……）,"(That move didn't work earlier, so maybe this one will...)","(Тот приём не сработал, может, этот...)"
+line-270,席琳,呵！,Heh!,Ха!
+line-281,夜刀,唔……你又输了。,Hmm... You lose. Again.,Мм... ты опять проиграла.
+line-283,席琳,（怎么会？我明明躲开了她的招式，她应该击空了才对！）,"(How can this be? I definitely dodged her attack, so she should have missed me!)","(Как так? Я же увернулась, она должна была промахнуться!)"
+line-284,席琳,（这把刀……又出现在了这里……）,(But this blade... is right here again...),(Но этот клинок... снова оказался здесь...)
+line-286,夜刀,差不多够了。,Let's call it a day.,Хватит на сегодня.
+line-288,席琳,不，等等……夜刀前辈，请让我再试一次！最后一次！,"No, wait... Yato, please let me try again! One last time!","Нет, подождите... Ято-сэмпэй, позвольте мне ещё раз! Последний раз!"
+line-290,夜刀,你不是我的对手。,You're no match for me.,Ты мне не соперник.
+line-292,席琳,我……这一次我不会输的！,I... I won't lose this time!,Я... на этот раз я не проиграю!
+line-294,夜刀,来吧。,Then come at me.,"Ну, иди."
+line-296,席琳,……谢谢。,...Thank you.,...Спасибо.
+line-297,席琳,（我知道她的战斗方式，就用上次炎客前辈的那招拼一下，一定可以……）,"(I know how she fights, so if I move like Flamebringer did back then, I'll definitely...)","(Я знаю её приёмы — если я сделаю так же, как тогда Пламенный клинок, обязательно...)"
+line-298,席琳,嘿——,Hup—!,Хэй —
+line-300,夜刀,嗯？,Hmm?,Хм?
+line-311,席琳,我……又失败了。,I... lost again.,Я... опять проиграла.
+line-313,实习干员C,差距……好大。,The disparity... is huge.,Разница... огромная.
+line-314,实习干员B,连刀都被击飞了，夜刀前辈果然不留情。,Even her sword was knocked away. Yato really is ruthless.,Даже меч выбили. Ято-сэмпэй и правда не даёт пощады.
+line-316,夜刀,刀脱手了。,You dropped your blade.,Меч выпал.
+line-317,夜刀,你……再跟着教官勤加练习吧。,You... should practice more diligently with your instructors.,Ты... тренируйся усерднее с инструкторами.
+line-332,巡林者,嗯……,Hmm...,Мм...
+line-335,杜林,呼……呼噜……,Hmf... *snore*...,Фух... фух-фур-р...
+line-337,夜刀,我输了。,I lose.,Я проиграла.
+line-339,巡林者,照场上的局势来看，获胜者是……,"Judging from the situation on the table, it seems our winner is...","Судя по тому, что на столе, победитель..."
+line-343,黑角,……是俺。,...Me.,...это я.
+line-348,夜刀,连赢三轮牌，你今天手气倒是不坏。,Three times in a row? Your luck's pretty good today.,Три победы подряд — сегодня тебе везёт.
+line-350,巡林者,黑角，你出来是不是换了新面具？,"Did you switch to a new mask today, Noir Corne?","Лесник, ты сегодня новую маску надел?"
+line-354,黑角,对，之前那个面具在作战中不是坏了嘛，就送去修了……,"Yeah, I broke the previous one in battle, remember? So I sent it in for repairs—","Да, прошлую в бою сломали, я её в ремонт послал..."
+line-355,黑角,哎，不是！俺不是为了换手气才特地换了新面具！俺才不会干那种事！,"Wait, no! It's not like I switched out my mask to change my luck! I wouldn't do anything like that!","Эй, нет! Я не ради везения маску менял! Я бы никогда такого не сделал!"
+line-360,夜刀,行了行了。老规矩，谁输了谁来请客，到我了。大家要喝什么？,"Yes, yes. Same rules as always: whoever loses treats the others. And I lost. So what does everyone want?",Ладно-ладно. Правило то же: кто проиграл — угощает. Я проиграла. Что всем взять?
+line-362,巡林者,干马地尼，老样子。,Dry martini as usual.,"Сухой мартини, как обычно."
+line-364,夜刀,杜林……算了，给她来杯鲜榨果汁吧。,Durin... never mind. I'll get her a glass of fresh pressed juice.,"Дурин... ладно, ей свежевыжатый сок."
+line-368,黑角,那俺也要鲜榨……,"Then, I also want a glass of—",Тогда и я свежевыжатый...
+line-373,夜刀,一份干马地尼，一份鲜榨果汁，两份生命之水兑香草沙士，谢谢。,"One dry martini, one fresh pressed juice, and two Waters of Life mixed with vanilla soda, thank you.","Один сухой мартини, один свежевыжатый сок и две «Живые воды с ванильной содовой», спасибо."
+line-377,黑角,……,...,...
+line-382,巡林者,黑角，被磐蟹追着的时候你不是还叫着“再也受不了这些仙人掌汁了，临死前一定要再喝一杯生命之水兑香草沙士”，怎么——,"Noir Corne? Didn't you yell 'I won't drink another drop of cactus juice, I need a Water of Life with vanilla soda before I die!' while being chased by metal crabs, so why—","Нуар Корн, разве ты, когда за тобой гнались металлические крабы, не кричал: «Больше не буду пить этот кактусовый сок, перед смертью хочу Живую воду с ванильной содовой!»? Что ж ты —"
+line-384,夜刀,在说什么？生命之水兑香草沙士吗？我给你点了。,"What are you guys talking about? Water of Life with vanilla soda, right? I already ordered one for you.",О чём вы? Живая вода с ванильной содовой? Я тебе уже заказал.
+line-388,黑角,嘿，好。,Hah. Okay.,"Хэ, ладно."
+line-395,杜林,呼……奇怪，夜刀也喝酒。,"Phew... Strange, Yato's drinking too.","Фух... Странно, Ято тоже пьёт."
+line-404,巡林者,夜刀，还在为那把刀的事烦心吗？,Yato. Are you still worrying about your blade?,"Ято, всё ещё переживаешь из-за меча?"
+line-406,夜刀,还行吧。,It's fine.,Нормально.
+line-410,黑角,俺听说，你今天在训练室和一位年轻人交手了，她怎么样？,I heard you sparred with a kid in the Training Room today. How was she?,"Слышал, ты сегодня в зале с кем-то из молодых дралась. Как она?"
+line-412,夜刀,一般。底子是有，但是进攻太急躁，经验也不足。,"So-so. Good fundamentals, but too hasty with offense. And lacking experience to boot.","Так себе. База есть, но слишком торопится в атаке и опыта не хватает."
+line-414,巡林者,嗐，老夫才走了一会儿，夜刀又打起来了。,*Sigh* I look away for just a moment and Yato gets into another fight.,"Эх, я на минуту отвернулся — и Ято уже опять дерется."
+line-415,巡林者,回来后老夫问了下，那名年轻人叫做……呃……席琳，应该是这个名字，已经算是年轻人中不错的了。,"I asked around after I got back. The youngster's called... uh... Celine, I believe. She's actually considered one of the best among her peers.","Я наводил справки. Ту молодую зовут... э-э... Селин, кажется. Она среди сверстников считается одной из лучших."
+line-416,巡林者,要是她进不了夜刀的眼，其他的也就不行了。要承下夜刀的刀，不容易啊。,"So if she didn't impress, the rest won't either. I suppose passing down your blade won't be easy.","Если она Ято не впечатлила, то остальные и подавно. Непросто принять её меч."
+line-421,黑角,哦，是席琳啊。俺知道她。模拟训练的时候带过她一两回。,"Oh, Celine. I know her. I've brought her along to simulation training once or twice.","О, Селин. Я её знаю. Я пару раз водил её на симуляционные тренировки."
+line-423,夜刀,你觉得她怎么样？,What did you think of her?,Что ты о ней думаешь?
+line-425,黑角,就跟你说的差不多，太急了。她训练的确是很刻苦，脑子也灵光，但是实战发挥的时候老是失常。,"About the same as you, she's too hasty. She trains real hard and has a good head on her, but her performance in actual combat is all wack.","Примерно то же, что и ты: слишком спешит. Тренируется прилежно, голова светлая, но в бою всё время срывается."
+line-426,黑角,她性格既内向，又很不服输，不善于请教别人，总是自己一根筋扎进去。,"She's introverted, hates admitting defeat, bad at asking for advice, and always stubbornly insists on running out on her own.","Она застенчива и не любит признавать поражение, не умеет просить совета — всё время упрямо лезет вперёд одна."
+line-428,夜刀,她有一点挺特别的，在和我交手的时候有一招用得很像炎客那家伙的把式。后来听到有些人说她也和炎客交手过。,"There's something special about her. During our sparring matches, one of her moves resembled one that Flamebringer guy uses. I heard later that she's also sparred with him.","В ней есть кое-что особенное: когда мы дрались, один её приём был очень похож на приём того Пламенного клинка. Потом я слышала, что она с ним тоже дралась."
+line-430,黑角,是啊，她是个优点和缺点都很明显的年轻人，教官都和她说过了。,"Yeah, she's a kid whose strengths and weaknesses are both obvious, and every instructor she's had has told her the same.","Да, это девушка, у которой и достоинства, и недостатки бросаются в глаза. Инструкторы ей это всё говорили."
+line-431,黑角,唉，她自己都明白，不过越是遭遇挫折她就越是受打击，这让她更着急，反而止步不前了。,"*sigh* She knows it herself, but her self-esteem takes a hit every time she meets a setback, which just makes her even more anxious and prevents her from moving forward.","Эх, она и сама знает, но после каждой неудачи её самооценка страдает, она ещё больше спешит и из-за этого топчется на месте."
+line-433,夜刀,真遗憾……,What a shame...,Жаль...
+line-435,黑角,夜刀，你是不是觉得她和以前的你有点像啊？,"Don't you think she resembles you from back then, Yato?","Ято, не кажется ли тебе, что она чем-то похожа на тебя в прошлом?"
+line-437,夜刀,不，一点儿都不像。,"No, not at all.",Нет. Совсем не похожа.
+line-442,巡林者,老夫插句嘴啊，有件事老夫一直很好奇，夜刀，除了收徒传刀是你们那边的传统以外，还有什么其他原因让你想这么做吗？,"Sorry to interrupt, but there's something I've been wondering. Besides the tradition of passing down your blade to a disciple, is there any other reason you want to do this?","Извини, старик вклинится. Мне всё было любопытно: кроме традиции передавать меч ученику, есть у тебя и другая причина?"
+line-444,夜刀,其他原因？为什么这么问？,Other reason? Why do you ask?,Другая причина? Почему ты спрашиваешь?
+line-446,巡林者,哈哈，别怪老夫瞎说，但是我们现在都是雇员，年轻人也算是同事，有专业团队培养，我们真的没有特别的必要去做这种事。,"Haha, forgive an old man's ramblings, but we're all employees here, and the youngsters are our colleagues receiving professional training. So there's no particular need to do this sort of thing.","Ха-ха, прости болтовню старика. Мы здесь все наёмные служащие, и молодые — тоже коллеги, их учат профессионально. Нам совсем не обязательно это делать."
+line-448,夜刀,火神也和我说了相似的话，我想了想，的确没有什么，甚至我宁愿他们不需要我这把刀……,"Vulcan said something similar. I thought it over, and there really isn't a reason to. I'd even prefer it if this blade weren't needed at all...","Вулкан говорила похожее. Я думала, думала — и правда, причины нет. Я даже предпочла бы, чтобы этот меч никому не понадобился..."
+line-449,夜刀,早上我还做了一件事，我去人事部询问了扩充人手的事宜，得到的回复是目前新人的能力尚未达到进入行动预备组的标准。,"I did something else this morning. I went to HR to request more manpower, and was told that the rookies aren't up to standards yet, and can't join our Reserve Op Team.","Сегодня утром я ещё кое-что сделала: ходила в отдел кадров узнать про расширение штата. Мне ответили, что новички пока не доходят до стандарта, чтобы войти в резервный отряд."
+line-450,夜刀,之前咱们商量的加人的事没有结果，估计有段时日，工作还得由我们这些人全盘扛住。,"So what we discussed before, about getting more people, won't be happening. Most likely we'll have to handle all the work ourselves for the time being.","О том, чтобы добавить людей, о чём мы раньше говорили, ничего не вышло. Похоже, ещё какое-то время всю работу придётся тянуть нам самим."
+line-452,巡林者,这么长时间都是这么过来的，老夫不会有什么怨言，大家也是吧。,"That's how we've always done things, so I have no complaints. I'm sure the others feel the same.","Так всё и было всегда, я не жалуюсь. Другие, думаю, тоже."
+line-454,夜刀,我知道，但……,"I know, but...","Знаю, но..."
+line-456,夜刀,黑角，这次任务回来医生给你缝了几针？,"Corne, how many stitches did you get from this last mission?","Нуар Корн, сколько швов тебе наложили после последнего задания?"
+line-460,黑角,五……不对，六……,"Five... no, six...","Пять... нет, шесть..."
+line-465,夜刀,老爷子，你肩上的旧伤都复发三次了，以为我不知道？,"And the old injury on your shoulder flared up three times, old timer. Think I didn't know?","Старик, у тебя старая травма на плечо уже три раза обострялась, думаешь, я не знаю?"
+line-467,巡林者,是。,It's true.,Знаешь.
+line-469,夜刀,杜林的睡袋也丢了好几个。尽管任务的难度越来越大，我确定我们还能撑下去，只是不知道能撑到哪一天。,"Durin has lost several sleeping bags too. Even though our missions have only gotten more arduous, I'm sure we can manage. But for how long?","У Дурина тоже пропало несколько спальников. Хотя задачи становятся всё труднее, я уверена, мы справимся. Вот только до какого дня?"
+line-470,夜刀,我是这么想这把刀的，能找到个适合的苗子帮到我们的工作，也不完全算是浪费时间。,"That's why I've been thinking about this blade. If we can find a suitable sprout to help with our work, then it won't be a complete waste of time.","Я так и думаю про этот меч: если найдётся подходящий росток, который поможет нашей работе, время потрачено не зря."
+line-471,夜刀,退一万步讲，如果哪天我们不在这里了，至少这把刀还能留下来……,"Or to put it another way, even if we're no longer here someday, this blade at least can remain...","А в крайнем случае, если однажды нас здесь не станет, хоть меч останется..."
+line-473,巡林者,夜刀……,Yato...,Ято...
+line-477,黑角,喂喂，任务都完成了，好不容易聚一次，大家愁眉苦脸的做什么。,"Hey, we completed the mission and actually managed to gather everyone for drinks for once, so why all the long faces?","Эй, задание выполнено, мы наконец-то все собрались, так чего вы все повесили носы?"
+line-478,黑角,酒来了，喝，一起喝一杯！,"There's booze, so drink up! All of us, together!","Выпивка здесь, пейте, давайте все вместе!"
+line-480,巡林者,来来，喝一杯。,"Hear, hear! Let us drink.","Давайте, выпьем."
+line-482,夜刀,干杯。,Cheers.,За вас.
+line-487,实习干员A,那个……抱歉打扰各位前辈的兴致了，我想找夜刀前辈……,"Uh... Sorry to spoil your fun, but I'm looking for Yato...","Э-э... простите, что прервал веселье, я ищу Ято-сэмпэй..."
+line-489,夜刀,你是……早上的实习干员……,You're... the intern Operator from this morning.,Ты... стажёр из утра...
+line-491,实习干员A,曼迪！,Mandy!,Мэнди!
+line-493,夜刀,啊对，是你，我想起来了。,"Ah, yes. You. I remember.","А, да, ты. Я вспомнила."
+line-495,实习干员A,嗯……,Umm...,Мм...
+line-497,实习干员B,害怕什么呀，直说就好了！,What are you so afraid of? Just say it!,"Чего боишься, говори прямо!"
+line-499,实习干员A,是这样的！早上我见到了您和席琳的交手！我……虽然我现在的战斗技巧还远远不足，但是我非常想要向您学习。,"So the thing is! I saw you and Celine sparring this morning! I... even though my current combat skills are far from adequate, I really want to learn from you.","Дело в том, что сегодня утром я видела, как вы дрались с Селин! Я... хочу у вас учиться, пусть мои навыки пока и далеко не те."
+line-501,夜刀,学习？向我？,Learn? From me?,Учиться? У меня?
+line-503,实习干员A,是的！我对您的战斗方式非常向往……,Yes! I'm really interested in the way you fight...,Да! Мне очень нравится ваш стиль боя...
+line-505,夜刀,抱歉，实话实说，能不能教人这事，我自己还没想明白，这方面我没有经验。,"Sorry, but to be frank, I'm not even sure I know how to teach others. I don't have any experience in this area.","Прости, честно: я сама ещё не разобралась, могу ли я кого-то учить. У меня нет опыта."
+line-507,黑角,欸，俺突然有个法子！,"Hey, I've got a great idea!","Эй, у меня идея!"
+line-508,黑角,夜刀，要不明天你跟俺一起去做模拟训练好了！俺们可以打一架，展示给年轻人看！这方面俺可熟了。,"Yato, want to join me at my simulation training session tomorrow? We can go a round as a demonstration for the kids! I'm used to it.","Ято, давай завтра ты придёшь со мной на симуляционную тренировку! Мы с тобой подерёмся в показе для молодых! Я в этом деле привык."
+line-510,夜刀,模拟训练。你是指……我们在他们面前作战？,Simulation training. So you mean... we just fight in front of them?,Симуляционная тренировка. То есть мы просто подерёмся у них на глазах?
+line-512,黑角,是啊，俺做过好多次了。,"Yeah, I do this all the time.","Да, я это постоянно делаю."
+line-514,夜刀,所以经常找不到你人，就是做这个去了？,"So whenever I couldn't find you, it was because you were busy with simulation training?",Так вот почему я тебя часто не находила — ты всё это время тренировался?
+line-516,黑角,啊，嘿嘿……,"Ah, hehe...","А, хе-хе..."
+line-518,实习干员A,啊……如果能这样的话，实在是太好了！,Ah... That would be wonderful!,"Ох, если бы так вышло — это было бы здорово!"
+line-520,巡林者,老夫觉得这是个好主意，你也可以体验一下教人的感觉。,I agree. It would also let you experience what it's like to teach.,"Я думаю, это хорошая идея. И ты сама увидишь, что значит учить других."
+line-522,黑角,怎么样？夜刀，考虑一下嘛！,"What do you think? Come on, Yato, consider it!","Ну что? Ято, соглашайся!"
+line-524,夜刀,……好吧，那就试试。,"...Fine, let's give it a try.","...Ладно, попробуем."
+line-538,实习干员B,嘘，不要说话，黑角前辈正在讲话呢。,"Shh. No talking, everyone. Noir Corne is speaking.","Тс, не разговаривайте, Нуар Корн сейчас говорит."
+line-540,实习干员C,曼迪！快来这边！,Mandy! Over here!,"Мэнди, сюда!"
+line-542,实习干员A,来啦来啦。,"Coming, coming.","Иду, иду."
+line-544,黑角,咳咳……有人没有听见，那我就再说一遍。,"*ahem* Someone wasn't listening, so I'll repeat.","Кхм... кто-то не расслышал, повторю."
+line-545,黑角,今天模拟训练的特别嘉宾，是俺的组长，夜刀。,"Our special guest for today's simulation training is Yato, my team leader.","Сегодняшний особый гость симуляционной тренировки — мой командир, Ято."
+line-547,夜刀,嗯。,Mhm.,Мм.
+line-549,黑角,接下来，俺会和夜刀交手，向你们演示一下A4行动组的战斗方式。,"Next up, I'll spar with her and demonstrate Op Team A4's combat style.",Сейчас я с ней сразюсь и покажу вам стиль боя команды A4.
+line-550,黑角,那么，夜刀，俺们来吧。,"Alright, Yato. Let's go.","Ладно, Ято, начнём."
+line-552,夜刀,好。,Right.,Да.
+line-554,实习干员C,黑角大哥要和夜刀前辈……我还以为他们只是表演一下而已，他们竟然要来真的！,"Noir Corne and Yato... I thought they were just going to act it out for us, but they're really fighting for real!","Нуар Корн и Ято... Я думала, они просто покажут представление, а они и правда дерутся!"
+line-555,实习干员C,黑角大哥，真的顶得住吗？,"Can you handle it, Noir Corne?","Нуар Корн, правда выдержишь?"
+line-557,黑角,哈，哈，俺要上了！,"Ha, ha, here I come!","Ха, ха, я иду!"
+line-558,黑角,嘿！,Hey!,Хэй!
+line-565,席琳,（黑角大哥用上全力了。如果是我的话，会尝试躲开这一刀，可夜刀前辈……）,"(Noir Corne went all out with that. If it were me, I would try and dodge the strike, but Yato...)","(Нуар Корн выложился полностью. Будь я на его месте, я бы попыталась увернуться, но Ято...)"
+line-575,夜刀,（低声）是要放慢动作，让他们都能看清吗？,"(Whispering) Do you want to slow it down, so they can see it clearer?","(шёпотом) Хочешь, замедлим, чтобы они лучше видели?"
+line-577,黑角,（低声）还要专心，可不要小看俺哦。,"(Whispering) Stay focused. And don't underestimate me, yeah?","(шёпотом) Сосредоточься. И не недооценивай меня, ладно?"
+line-579,席琳,（硬碰硬挡下来了…… 难道这么做的用意是挡住敌方的刀路？）,(He blocked it head-on... Could it be that he intended to stop the opponent's attack trajectory?),"(Он заблокировал в лоб... Может, он хотел перекрыть мне путь для удара?)"
+line-580,席琳,（他们又拉开距离了。）,(They've distanced themselves again.),(Они опять разошлись.)
+line-582,黑角,哈，这次我可要认真起来了。,Hah. I'm going to be serious now.,"Ха, теперь я и правда серьезно."
+line-583,黑角,吃我这一击！,Take this!,Получай!
+line-585,席琳,（夜刀前辈的战斗方式很有章法，我应该能预测到……）,"(Yato has a methodical fighting style, so I should be able to predict...)","(У Ято чёткий стиль, я могу его предугадать...)"
+line-593,黑角,哎呀，俺输了。,"Whoops, I lose.","Ой, я проиграл."
+line-595,席琳,（最后一招，夜刀前辈闪开了黑角大哥的攻势，仅凭脚步的挪移，来到了敌人的侧面。）,"(In that last move, Yato dodged Noir Corne's attack, and flanked him with just footwork.)",(В последнем приёме Ято увернулась от атаки Нуар Корна и одним лишь движением ног вышла к нему в бок.)
+line-596,席琳,（上一次和我战斗时，夜刀前辈同样一瞬间出现在我身后，很可能也是以这种方式……）,(She probably used the same method when she appeared behind me in our match...),"(Когда мы дрались, она тоже мгновенно появилась у меня за спиной — наверное, так же...)"
+line-598,黑角,这是一次简单的遭遇战对抗，大家都看清楚了吧？没看清的各位，终端里有回放哈。,"That was a simple encounter and confrontation, everyone. You guys catch that? You can watch the replay in the terminal if you didn't.","Это был простой спарринг, все разобрали? Кто не рассмотрел — запись в терминале."
+line-599,黑角,好了，接下来的模拟训练就由俺来做你们的对手……夜刀？,"Alright, I'll be your opponent for the rest of this simulation training session— Huh, Yato?","Ладно, дальше я буду вам соперником... Эй, Ято?"
+line-601,夜刀,我来。,I'll do it.,Я.
+line-603,黑角,啊？！,Wha?!,А?!
+line-605,实习干员B,欸？！,Huh?!,Эй?!
+line-607,夜刀,今天的剩余时间，由我来做各位的对手。,I'll be everyone's opponent for the rest of today's session.,Остаток сегодняшней тренировки я буду вашим соперником.
+line-609,黑角,等下，夜刀——,"Wait, Yato—","Погоди, Ято —"
+line-611,夜刀,这么做有问题吗？,Is there a problem?,Есть тут проблема?
+line-613,黑角,倒不是有问题，但是模拟训练是有个规矩的。,"No, but simulation training comes with some rules.","Да нет, просто у симуляционных тренировок есть правила."
+line-615,夜刀,什么？,Such as?,Какие?
+line-617,黑角,奖励。俺们模拟训练都是有奖励的，要是打赢了你，有什么奖励吗？,A reward. We always have some kind of reward here. So what kind of prize are you going to offer?,"Награда. У нас всегда есть награда. Что ты предложишь, если тебя победят?"
+line-619,夜刀,……一招即可。,...Just one hit.,...Один удар.
+line-620,夜刀,只要有谁能赢了我一招，我会把全部战斗经验，毫无保留地教给他。,"If anyone can land a single hit on me, I'll teach them everything I know about combat, full stop.","Если кто-то сможет попасть по мне один раз, я передам ему весь свой боевой опыт — без остатка."
+line-622,实习干员B,哇……,Wow...,Ого...
+line-624,实习干员A,我！夜刀前辈，我来！,"Me! Yato, I'll do it!","Я! Ято-сэмпэй, я пойду!"
+line-631,,数小时后,Several hours later...,Несколько часов спустя...
+line-633,实习干员B,唉，我没能撑过两招。,*sigh* I couldn't even last two moves.,"Эх, я не выдержал и двух ходов."
+line-635,实习干员C,你还叹什么气？看看别人，在夜刀前辈手下能撑过两招已经够不错了。,"Why are you sighing? Look at the others, two moves against her is plenty.",Чего вздыхаешь? Другие и двух ходов не держатся.
+line-637,实习干员A,我都挑战三次了。看了很多遍录像，还是没有搞明白夜刀前辈的战斗方式……,"I already challenged her three times. I've watched so many records, but I still don't understand her fighting style...",Я уже три раза вызывал её. Столько раз смотрел записи — и всё равно не понимаю её стиль...
+line-639,夜刀,还有吗？,Anyone else?,Ещё кто-то?
+line-641,实习干员C,席琳呢？她竟然没有去试一下？,Where's Celine? Has she actually <i>not</i> had a go yet?,"А Селин? Она что, так и не попробовала?"
+line-643,席琳,……,...,...
+line-645,夜刀,没有的话，今天就到这里结束吧。,"If there's no one else, then let's call it here for today.","Если больше никого, на сегодня закончим."
+line-647,席琳,我……,I...,Я...
+line-648,席琳,夜刀前辈，我想试试。,I want to try.,"Ято-сэмпэй, я попробую."
+line-651,夜刀,（抛出刀）,(Tosses blade),(бросает меч)
+line-652,夜刀,上来。,Come.,Иди.
+line-654,席琳,呼……,Phew...,Фух...
+line-655,席琳,（夜刀前辈还是一样的动作，毫无破绽，看不出她会从哪里出手。）,"(She's still making the same moves flawlessly, and I can't tell which angle she'll attack from.)","(Ято всё так же безупречна, я не вижу, откуда она нанесёт удар.)"
+line-656,席琳,（先做好准备……等她出手。）,(Better get ready... and wait for her to strike.),(Сначала подготовлюсь... подожду еёпервого хода.)
+line-658,夜刀,让我先来，是吗？,So I take it you're letting me go first?,"Я первая начну, так?"
+line-669,席琳,（勉、勉强架住了。）,(I-I barely made it.),(Е-едва выдержала.)
+line-670,席琳,（把注意力放在刀上，正面对抗……这种方法果然有效。）,"(Focus everything into the blade, and confront it head-on... this method does seem to work.)","(Сосредоточиться на мече, встретить его в лоб... этот метод и правда работает.)"
+line-672,夜刀,很好。,Very good.,Хорошо.
+line-674,席琳,（她，她是在和我说话？）,(I-Is she talking to me?),"(Она, она со мной говорит?)"
+line-676,夜刀,我要继续了。,I'll keep going.,Продолжаю.
+line-686,席琳,咳咳。,*cough*,Кхм.
+line-687,席琳,（躲开了……但是有机会！）,(Dodged it... but there's a chance!),(Увернулась... но есть шанс!)
+line-697,席琳,（被闪开了，她的速度太惊人了……）,"(She got out of the way, she's way too fast...)","(Она ушла в сторону, она слишком быстрая...)"
+line-699,实习干员C,席琳和夜刀前辈交手三招了？你没骗我？,Celine and Yato have already exchanged three moves? You're not kidding?,Селин уже три приёма обменялась с Ято? Ты не выдумываешь?
+line-700,实习干员B,甚至还击了一次……,She even retaliated once...,Она даже ответила один раз...
+line-701,实习干员A,嘘，别吵。注意看，席琳的闪躲动作和夜刀前辈方才的动作有点相似。,"Shh, quiet! Look carefully. The way Celine's dodging is pretty similar to how Yato moved earlier.","Тс, тише. Смотри внимательно: увертывания Селин очень похожи на то, как двигалась Ято."
+line-702,实习干员A,她不仅是在适应夜刀前辈的战斗节奏，她真的学到了……,"She's not only adapting to her fighting rhythm, but actually learning it too...",Она не только подстраивается под её ритм — она и правда учится...
+line-704,夜刀,慢下来。,Slow down.,Медленнее.
+line-706,席琳,（她在……提醒我？）,(Is she... giving me advice?),(Она... подсказывает мне?)
+line-728,席琳,（好，这几次攻击都挡下来了。）,"(Alright, I managed to block the last few attacks.)","(Ладно, последние атаки я выдержала.)"
+line-729,席琳,（大概适应她的进攻节奏了，我一定可以……成功完成反击。）,"(I think I've got her attack rhythm down, so I'm sure I can... manage a counterattack.)","(Кажется, я уловила её ритм, сейчас я точно... смогу контратаковать.)"
+line-730,席琳,（试试看，用夜刀前辈的那种动作。）,(It's time to try moving like she does.),(Пора попробовать её движением.)
+line-737,席琳,（闪开了，然后像她那样，最直接地出刀——）,"(Move out of the way, and then immediately strike with the blade just like she did—)","(Уйти с линии, и сразу же бить мечом, как она —)"
+line-739,夜刀,呵。,Heh.,Хе.
+line-752,实习干员A,席琳她……击中夜刀前辈了？！,"Celine, she... landed a hit on Yato?!",Селин она... попала по Ято?!
+line-754,实习干员B,不是吧？！席琳！你真的做到了！,No way?! Celine! You did it!,Не может быть?! Селин! Ты сделала это!
+line-756,席琳,我！我做到了吗？我的确击中了什么，但是……,"I! I did it? I did hit something, but...","Я! Я сделала? Я действительно во что-то попала, но..."
+line-758,夜刀,你输了。,You lose.,Ты проиграла.
+line-760,席琳,飘下来的……这是……,What is... this floating down...?,Это падает... что это?
+line-761,席琳,一片布？,A piece of cloth?,Кусок ткани?
+line-764,夜刀,关注刀还是关注对手，是要因战况而改变的。你仍是着急了。,You have to switch between focusing on your blade or your opponent depending on the situation. You're still too hasty.,Следить за мечом или за противником — зависит от ситуации. Ты всё ещё слишком спешишь.
+line-766,席琳,……谢谢。,...Thank you.,...Спасибо.
+line-768,夜刀,不过，你学到了。我很开心。,But you did learn. I'm glad.,Но ты многому научилась. Я рада.
+line-770,席琳,我……不……我没能……,"I... No, I didn't...",Я... нет... у меня не вышло...
+line-772,实习干员A,真棒！席琳！你已经做得很好了！,Awesome! Celine! Great job out there!,Отлично! Селин! Ты молодец!
+line-774,实习干员C,席琳，你太厉害了！,"Celine, you're amazing!","Селин, ты потрясающая!"
+line-776,夜刀,（能在这么短的时间内做到这样，实在难得，席琳……她或许足够拿起……）,(It's rare to learn this much in such a short span of time... Celine... perhaps she makes the cut...),"(За такое короткое время — редкий случай... Селин... может быть, она достойна взять...)"
+line-778,实习干员B,真厉害啊，这下不得不朝着席琳努力了。,That was crazy. Now I gotta work hard to reach Celine's level.,Вот это да. Теперь мне тоже надо тянуться до Селин.
+line-780,实习干员C,是啊，希望还能继续和夜刀前辈交手……,"Yeah, I hope we can keep sparring with Yato...","Да, надеюсь, мы и дальше будем драться с Ято-сэмпэй..."
+line-783,,想递出刀的手停在刀柄上，夜刀环视场下的干员们。,"Yato almost offers the blade once more, but her hand rests on the hilt as she looks at the Operators around her.","Рука уже потянулась к рукояти, но Ято оглядывает операторов вокруг."
+line-784,,她看见，一双双年轻的眼睛，目光紧紧地落在自己身上。,"She sees several pairs of young eyes, all laser-focused on her.","Она видит молодые глаза, неотрывно смотрящие на неё."
+line-785,,她突然意识到，在他们眼中留下的正是自己的身影。,She suddenly realizes it is she herself reflected in them.,И вдруг понимает: в них отражается она сама.
+line-787,席琳,我……,I...,Я...
+line-788,席琳,夜刀前辈！,Yato!,Ято-сэмпэй!
+line-790,夜刀,还有事吗？,Is there something else?,Ещё что-то?
+line-792,席琳,我……我虽然输了，但……还有机会再和您交手吗？我从和您的战斗中，真的学到了很多……,"I... Even though I lost, can... can I still fight you again next time? I really learned a lot from sparring with you.","Я... я проиграла, но... можно мне ещё раз с вами сразиться? Я правда многому научилась в бою с вами..."
+line-794,实习干员A,我也是！,Me too!,И я!
+line-796,实习干员B,我们也想继续和夜刀前辈交手。,"We want to continue practicing with you, Yato.",Мы тоже хотим и дальше тренироваться с Ято-сэмпэй.
+line-798,夜刀,……,...,...
+line-800,夜刀,听好了，明天我还会来这里，和大家模拟训练。黑角，应该没问题吧？,"Listen up. I'll be here tomorrow and do some simulation training with everyone. Corne, there shouldn't be any problems with that, right?","Слушайте. Завтра я снова приду сюда и потренируюсь со всеми. Нуар Корн, проблем не будет?"
+line-802,黑角,不就是填表申请嘛，包在俺身上。,Shouldn't be more than filling in an application form. I'll take care of it.,Да просто заполню форму — я всё улажу.
+line-804,夜刀,以及，我会带来一把刀，放在训练室中。,I'll also bring a blade and leave it in the Training Room.,И ещё: я принесу меч и оставлю его в тренировочном зале.
+line-806,黑角,欸？,Huh?,Эй?
+line-808,夜刀,既然今天无人赢下我，我就做出这个决定……,"Since no one could beat me today, I've decided...","Раз сегодня никто меня не победил, я решила..."
+line-809,夜刀,今后，只要我出现在这里，所有人都可以拿起这把刀与我战斗，我时刻乐意奉陪。,"From today onwards, as long as I'm here, anyone can pick up that blade to spar with me. I'll always be happy to oblige.","Отныне, пока я здесь, каждый может взять этот меч и сразиться со мной. Я всегда соглашусь."
+line-810,夜刀,罗德岛的新人们，我期待下次见到你们的身影。,"I look forward to seeing you next time, Rhodes Island newcomers.","Новички Родоса, жду вас."
+line-823,火神,所以，你和年轻人们打了几场，然后就决定把这把刀熔掉了，是吗？,"So, you had a few rounds with those youths, then decided to smelt this blade away?","Так, ты пару раз подралась с молодыми и решила переплавить меч?"
+line-825,夜刀,可以这么说。,You could put it that way.,Можно и так сказать.
+line-827,火神,你是想好把刀送给哪位看上的年轻人吗？不对……那样你根本就没有必要熔铸了。,"You're planning to give your blade to one of the kids you've got your sights on? Wait, no... you wouldn't need to smelt it down for that.","Ты хочешь отдать меч тому из них, кто тебе приглянулся? Нет — тогда нечего было и переплавлять."
+line-829,夜刀,嗯，因为这把刀仍会参与战斗。,Mhm. This blade will still face combat.,"Мм, потому что этот меч всё ещё будет участвовать в боях."
+line-831,火神,那我去烧炉子了，你要记住我的提醒……,"Then I'll get the furnace burning, but remember what I told you...","Тогда я растоплю печь, но помни, о чём я тебе говорила..."
+line-833,夜刀,“不要在高强度的战斗中使用”，我当然记得。,Of course. 'Don't use it in high intensity combat.',«Не использовать в серьёзных боях» — я помню.
+line-834,夜刀,从此以后，它会被留下来，只会参与一场战斗，被不同的手挥动。,"From now on it'll be left here at base, and only used for one battle, wielded by different hands.","Отныне он останется здесь, и только одна схватка — и разные руки будут его держать."
+line-835,夜刀,直到遥远的将来，直到……也许我们都不在的日子。,"Until a distant future, when... perhaps a day when we are no longer here.","До далёкого будущего, до того дня, когда... может, нас уже не будет."
+line-839,,她注视着那把刀在如骄阳般红艳的锻炉中，缓缓下沉，逐渐熔化。,"She watches the blade sink slowly into the forge, its structure as brilliant as the blazing sun, and gradually melt.","Она смотрит, как меч медленно опускается в раскалённую, как полуденное солнце, печь и постепенно плавится."
+line-840,,最终，刀的形体已不复存在，只剩下一团灼红的液体。,"Finally, its shape is gone completely, leaving only a ball of red liquid.",Наконец от меча не остаётся формы — только раскалённый красный расплав.
+line-841,,犹如新血。,Like fresh blood.,Словно свежая кровь.

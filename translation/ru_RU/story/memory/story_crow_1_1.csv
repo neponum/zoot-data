@@ -1,0 +1,412 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_crow_1_1,坚韧的羽毛
+,,,,
+char-1,羽毛笔,羽毛笔,La Pluma,Ла Плюма
+char-2,花店店主,花店店主,Flower Shop Owner,Владелец цветочного магазина
+char-3,游客,游客,Tourist,Турист
+char-4,犯罪分子,犯罪分子,Criminal,Преступник
+char-5,强壮的士兵,强壮的士兵,Bulky Soldier,Дюжий солдат
+char-6,精明的士兵,精明的士兵,Shrewd Soldier,Сметливый солдат
+char-7,游客？,游客？,Tourist?,Турист?
+char-8,潘乔,潘乔,Pancho,Панчо
+char-9,坎黛拉手下,坎黛拉手下,Candela's Subordinate,Подчинённый Канделы
+char-10,坎黛拉,坎黛拉,Candela,Кандела
+char-11,坎黛拉手下们,坎黛拉手下们,Candela's Subordinates,Подчинённые Канделы
+,,,,
+line-11,羽毛笔,……,......,......
+line-13,花店店主,美女，别等了，这家武器店已经关门了。,"No sense waiting, guapa. This weapon store is closed.","Красавица, не жди. Этот оружейный магазин уже закрыт."
+line-15,羽毛笔,欸？,Eh?,Эй?
+line-17,花店店主,你是来观光的吧，这家武器店过去在多索雷斯有点名气，店主能搞到很多别人搞不到的好货。,"You're a tourist, right? The store was pretty well known in Dossoles before. The owner always got a bunch of great wares that nobody else could ever get their hands on.","Ты тут на экскурсии, да? Раньше этот магазин был известен в Досолесе: хозяин доставал всякие товары, которых больше нигде не было."
+line-19,羽毛笔,嗯，我知道。,"Yeah, I know.","Да, я знаю."
+line-21,花店店主,但是已经很久没开门了。,But it's been a long time since it last opened for business.,Но он давно не открывается.
+line-23,羽毛笔,这我也知道。,"I know that, too.",И это я знаю.
+line-25,花店店主,哇，美女，没想到，你居然还挺了解多索雷斯的。,"Wow, I didn't expect you to know so much about Dossoles.","Ого, красавица, не ожидал, что ты так хорошо знаешь Досолес."
+line-26,花店店主,不过，有一件事你肯定不知道。,But I'm sure there's one thing you didn't know.,Но кое-чего ты наверняка не знаешь.
+line-28,羽毛笔,什么？,What is it?,Чего?
+line-30,花店店主,多索雷斯是个寸土寸金的地方，而这家店的地段这么好，一般是不可能关了这么久还没被转租的。,"Land is very valuable here in Dossoles, and this store is in an excellent location. Normally, it would have been rented out to another tenant long ago.","В Досолесе земля на вес золота, а у этого магазина отличное расположение. Обычно его давно бы сдали в аренду кому-то другому."
+line-31,花店店主,但这家店关了快一年了，依然没有被转租。,"But it's been almost a year since this store closed down, and it hasn't been rented out to everyone else.","А он закрыт уже почти год, и его всё ещё не сдали."
+line-32,花店店主,你知道是为什么吗？,Do you know why?,"Знаешь, почему?"
+line-34,羽毛笔,……,......,......
+line-36,花店店主,这件事可是个不小的秘密，一般人是不知道的，你要是感兴趣的话，来我的店里买一束花，我就告诉你，怎么样？,"This is no mere secret. Most common folk don't know about this. If you want to know, come buy a boutique from me, and I'll let you in on it. What do you say?","Это довольно серьёзный секрет, простым людям его не рассказывают. Если интересно, зайди ко мне в магазин, купи букет, и я тебе его выдал. Как?"
+line-38,羽毛笔,因为这家店的店主和坎黛拉市长的关系不一般。,Because the owner and Mayor Candela have a close relationship.,Потому что хозяин магазина и мэр Кандела — не просто знакомые.
+line-40,花店店主,……这你也知道？,"What, you know that too?",......И это ты знаешь?
+line-42,羽毛笔,我当然知道。,Of course I do.,Конечно знаю.
+line-46,游客,抓小偷啊！,Thief! C-Catch him!,Держите вора!
+line-49,羽毛笔,我去帮忙。,I'll go help out.,Я помогу.
+line-57,花店店主,她的动作好轻盈，就像是……一片羽毛一样。,Her moves are light... Just like... una pluma.,Она двигается так легко... прямо как перо.
+line-70,犯罪分子,嘿嘿，看来今天收获不小。,"Heheh, nice haul today.","Хи-хи, похоже, сегодня неплохая добыча."
+line-73,羽毛笔,站住。,Stop right there.,Стой.
+line-75,犯罪分子,什么人？！,Who are you?!,Кто такая?!
+line-80,羽毛笔,把抢的东西还回去。,Hand back what you stole.,Отдай награбленное.
+line-85,犯罪分子,……,......,......
+line-86,犯罪分子,我还以为条子什么时候这么有效率了。,And here I was wondering since when the pacos have been so efficient.,"Я уже подумал, что менты стали такими расторопными."
+line-87,犯罪分子,原来是个小姑娘。,So it's just una chavala.,А это просто девчонка.
+line-91,犯罪分子,小姑娘，你的爸爸妈妈没有教过你，在多索雷斯，随便逞英雄是会死……,"Little girl, did your parents ever tell you that playing hero here in Dossoles could get you killed...?","Девчонка, разве твои родители не говорили, что в Досолесе геройство может стоить тебе жизни..."
+line-104,,犯罪分子话还没有说完，羽毛笔就已经欺身靠近，猛地将他手中的刀打落在地。,"Before the criminal could finish his sentence, La Pluma had already advanced to the man and knocked his knife out of his hand.","Преступник не успел договорить, как Ла Плюма уже сблизилась и резко выбила нож у него из рук."
+line-108,犯罪分子,咕啊啊啊啊啊啊！我的手！,Ahhhhhhh! My hand!,А-а-а-а! Моя рука!
+line-110,羽毛笔,我的妈妈在我很小的时候就死了，我的两个爸爸都告诉我——,"My mama died when I was still a kid, but both my fathers told me—","Моя мама умерла, когда я была совсем маленькой, а оба моих папы говорили мне—"
+line-112,羽毛笔,做坏事是要受到惩罚的。,"If you do bad things, you must answer for your crimes.",За плохие поступки надо отвечать.
+line-113,羽毛笔,把东西交出来。,Hand over what you stole.,Отдай вещи.
+line-115,犯罪分子,啧。,Ugh.,Тс.
+line-123,羽毛笔,咦……？,Huh...?,Эй...?
+line-125,犯罪分子,别以为自己身手还不错就了不起了，小姑娘。,"Don't think you're all that just because you've got moves, kid.","Не думай, что раз ты неплохо дерешься, то уже чего-то стоишь, девчонка."
+line-126,犯罪分子,这里是多索雷斯，多的是在这里扎根的势力。,This is Dossoles. Lots of groups have their claws in here.,"Это Досолес. Здесь полно группировок, которые пустили тут корни."
+line-128,羽毛笔,……为什么，你会吹这个口哨？,How do you know this whistle?,......Почему ты свистишь именно так?
+line-129,羽毛笔,这是真正玻利瓦尔人之间传讯的手段。,This is a True Bolívarian signal.,"Это сигнал, которым пользуются настоящие боливийцы."
+line-131,犯罪分子,……你到底是什么人？！,Who exactly are you?!,......Кто ты такая?!
+line-133,羽毛笔,我只是个……路人。,I am... just a passerby.,Я просто... прохожий.
+line-135,犯罪分子,哼，不管你是谁，你马上就会知道，你惹了惹不起的人……,"Hmph, I don't care who you are, but you'll find out real soon you picked a fight with someone you shouldn't have...","Хм, кто бы ты ни была, сейчас ты узнаешь, что связалась не с теми..."
+line-146,强壮的士兵,我应该教过你，不要随便用这个信号。,I'm pretty sure I told you not to use this signal all the time.,"Я, кажется, говорил тебе, чтобы ты не пользовался этим сигналом без нужды."
+line-147,强壮的士兵,坎黛拉的人时时刻刻都在盯着我们。,Candela's people have their eyes on us.,Люди Канделы следят за нами круглые сутки.
+line-149,犯罪分子,对不起，老大，我遇到了点麻烦。,"Sorry, Boss, I ran into some trouble.","Прости, босс, у меня возникли неприятности."
+line-150,犯罪分子,我本来已经得手了，但是被这个小姑娘拦住……,"I almost got away, but this punk kid stopped me...","Я уже почти скрылся, но эта девчонка меня остановила..."
+line-152,强壮的士兵,罗德岛的人？,From Rhodes Island...?,Из Родоса?
+line-155,羽毛笔,……,......,......
+line-156,羽毛笔,……塔吉克叔叔。,Tío Tacito.,......Дядя Тасито.
+line-158,强壮的士兵,拉菲艾拉？,Rafaela?,Рафаэла?
+line-159,强壮的士兵,……,......,......
+line-160,强壮的士兵,都放下吧，是自己人。,Lower your weapon. She's one of us.,Опустите оружие. Она из наших.
+line-162,犯罪分子,拉菲艾拉……难道说，她是上校的女儿？！,"Rafaela... You mean, she's the Colonel's daughter?!",Рафаэла... Неужели она дочь полковника?!
+line-164,羽毛笔,……,......,......
+line-165,羽毛笔,为什么，叔叔？,"Why, Tío?","Почему, дядя?"
+line-167,强壮的士兵,跟我来吧，拉菲艾拉，说来话长了。,"Come with me, Rafaela. It's a long story.","Идём со мной, Рафаэла. Тут долгая история."
+line-169,羽毛笔,……,......,......
+line-170,羽毛笔,偷来的东西要还回去。,Give back what you stole.,Украденное надо вернуть.
+line-172,强壮的士兵,……,......,......
+line-173,强壮的士兵,听你的。,Will do.,Как скажешь.
+line-188,强壮的士兵,你不是跟着埃内斯托一起去了那个罗德岛，怎么又回来了？,I thought you went to Rhodes Island with Ernesto. Why are you back?,"Я думал, ты ушла с Эрнесто на этот Родос. Почему ты вернулась?"
+line-190,羽毛笔,我请了个假，想回来探望爸爸。,"I took some time off, and I thought I would come home to visit Papá.",Я взяла отпуск и захотела навестить папу.
+line-192,强壮的士兵,哈哈，原来如此。,"Hahaha, I see.","Ха-ха, вот оно как."
+line-194,羽毛笔,我不认识刚才那个人。,I don't know that man just now.,Я не знаю того человека.
+line-196,强壮的士兵,他……是我新收的手下，你不认识也很正常。,He... He's one of my new lackeys. Of course you wouldn't know him.,"Он... один из моих новых ребят. Не удивительно, что ты его не знаешь."
+line-198,羽毛笔,塔吉克叔叔，我以为你们已经离开多索雷斯了。,"Tío Tacito, I thought all of you left Dossoles a long time ago.","Дядя Тасито, я думала, вы все уже уехали из Досолеса."
+line-200,强壮的士兵,……不少人在上校被捕之后确实离开了，但他老人家总归需要人照顾，我和其他一些人就留了下来。,"A lot of us did leave after the Colonel was arrested... but he's old. Somebody has to take care of him, so a few of us stayed behind.","......Многие уехали после ареста полковника, но за стариком нужно ухаживать, поэтому мы с другими остались."
+line-202,羽毛笔,……,......,......
+line-203,羽毛笔,你在骗我，塔吉克叔叔。,"You're lying, Tío.","Ты лжешь, дядя Тасито."
+line-205,羽毛笔,我知道你的性格，你以前连其他人打牌要赌钱都会说两句，现在怎么可能突然放任手下的人去做这种事？,I know you. The Tío I know would chew everyone out just for gambling on cards. You wouldn't let your subordinates do something like this.,"Я знаю тебя. Раньше ты делал замечание даже за то, что кто-то играет в карты на деньги. Неужели ты теперь вдруг позволишь подчинённым такое?"
+line-206,羽毛笔,你说那个扒手是新来的，但是他知道爸爸的军衔，你在说谎，他根本不是新来的。,"You say the thief's new, but he knows Papá's rank. You're lying. He's not new.","Ты говоришь, что вор новенький, но он знает звание папы. Ты лжёшь — он не новенький."
+line-208,羽毛笔,还有这间房间……火药的味道，很重。,And this room... It reeks of gunpowder.,И эта комната... здесь сильно пахнет порохом.
+line-210,羽毛笔,你想要重新组建一支队伍，然后去救爸爸，对不对？,"You're trying to put a team together to rescue him, aren't you?","Ты хочешь собрать новый отряд и освободить папу, верно?"
+line-212,强壮的士兵,……,......,......
+line-222,强壮的士兵,居然能闪开我的擒拿……身手长进了不少啊，拉菲艾拉。,You dodged my grapple...? You've improved a lot.,"Ты увернулась от моего захвата... Ты сильно подросла, Рафаэла."
+line-232,羽毛笔,巴罗叔叔？！,Tío Barrow?!,Дядя Баро?!
+line-237,精明的士兵,抱歉啊，拉菲艾拉，此路不通。,"Sorry, Rafaela, but you can't go through here.","Прости, Рафаэла, но здесь прохода нет."
+line-239,强壮的士兵,你聪明了不少，以前你的观察力没有这么敏锐。,You've gotten a lot smarter. You weren't this observant before.,Ты стала гораздо умнее. Раньше ты не была такой наблюдательной.
+line-240,强壮的士兵,本来，我只是想招待你一下就让你离开的。,"At first, I was just going to give you a warm welcome and let you be on your way.",Сначала я просто хотел тебя угостить и отпустить.
+line-241,强壮的士兵,现在，你的假期恐怕要延长几天了。,"But you'll need to extend your vacation by a few days, I'm afraid.","Теперь тебе, боюсь, придётся продлить отпуск на пару дней."
+line-245,羽毛笔,没关系，我攒的假期还不少。,It's okay. I have plenty of paid time off saved up.,"Ничего, у меня накоплено достаточно отпускных."
+line-246,羽毛笔,我也不是为了阻止你们来的。,"I didn't come to stop you guys, either.","Я и не для того пришла, чтобы вас остановить."
+line-251,强壮的士兵,……你是我看着长大的，我要是有女儿，我一定会希望她和你一样乖巧，拉菲艾拉。,"I watched you grow up. If I had a daughter, I would hope she'd be a good girl like you.","......Я видел, как ты росла. Если бы у меня была дочь, я бы хотел, чтобы она была такой же хорошей, как ты, Рафаэла."
+line-252,强壮的士兵,但是，在我们完成目标之前，我不能让你离开。,But now I can't let you go before we finish our goal.,"Но пока мы не добьёмся своего, я не могу тебя отпустить."
+line-253,强壮的士兵,别怪我无情，拉菲艾拉。,Don't blame me for being so ruthless.,"Не вини меня за жестокость, Рафаэла."
+line-254,强壮的士兵,从你跟着埃内斯托离开的那一刻起，你就不算在我们这一边了。,You haven't been on our side ever since you and Ernesto left.,"С того момента, как ты ушла с Эрнесто, ты больше не на нашей стороне."
+line-258,羽毛笔,……你们打算怎么做？,What are you planning to do?,......Что вы задумали?
+line-263,精明的士兵,和以前没什么区别，渗透、袭击、爆破，最好能在坎黛拉脸上开道口子。,"Nothing too different from before. Penetrate, ambush, demolish. Maybe slash Candela's face while we're at it.","Ничего нового: проникновение, нападение, взрыв. Было бы неплохо и Канделе лицо разрезать."
+line-267,羽毛笔,……,......,......
+line-272,精明的士兵,别学埃内斯托那小子摆出一副“难道就没有别的办法了吗”的表情，孩子。,"Don't give me that 'isn't there some other way' kind of face like Ernesto, mija.","Не делай такое лицо, как у этого Эрнесто: «А разве нет другого пути?», поняла, малышка?"
+line-273,精明的士兵,你知道吗，何塞死了。,Did you know? José is dead.,Знаешь? Хосе мёртв.
+line-275,强壮的士兵,巴罗！,Barrow!,Баро!
+line-277,精明的士兵,她有权知道，不是吗？,She has a right to know. Am I wrong?,Она имеет право знать. Разве нет?
+line-278,精明的士兵,但这个蠢货不是死在战斗中，他是死于赌博。,But that idiot didn't die in battle. He died because of his gambling.,Но этот дурак погиб не в бою. Он проигрался в карты.
+line-280,强壮的士兵,坎黛拉是个怪物，她一手打造的这座城市是个怪物，我们现在惹不起她。,Candela's a monster. The city she's built is a monster. We're no match for her.,"Кандела — монстр, и город, который она построила, — монстр. Сейчас мы ей не противники."
+line-281,强壮的士兵,等我们救出上校，我们就离开这座城市。,"Once we get the Colonel out of there, we're leaving this city.","Как только мы освободим полковника, мы уедем из этого города."
+line-285,羽毛笔,……我也来帮忙。,Let me help.,......Я тоже помогу.
+line-290,强壮的士兵,……！,......!,......!
+line-291,强壮的士兵,你好不容易找到那么好的工作，没必要来跟我们蹚浑水。,But you finally found such a good job. You don't have to get yourself involved.,"Ты наконец нашла хорошую работу, нечего лезть с нами в эту грязь."
+line-292,强壮的士兵,你只需要在这里待到我们的事情结束就可以安全离开。,"All you need to do is to stay here till we're done, and you can go free.","Тебе достаточно пересидеть здесь до конца нашего дела, а потом ты спокойно уйдёшь."
+line-296,羽毛笔,但我不能就这样袖手旁观。,But I can't just stand by and do nothing.,Но я не могу просто стоять в стороне.
+line-301,精明的士兵,算了吧，塔吉克，你打算装到什么时候？,"Enough, Tacito. How long are you going to keep that up?","Хватит, Тасито. Долго ты ещё будешь притворяться?"
+line-302,精明的士兵,这孩子虽然听话，但可不是谁的话都愿意听的。,"She's a good girl, but she doesn't listen to anyone.","Девочка послушная, но слушается она не всех."
+line-304,强壮的士兵,这可是我们所有弟兄的女儿！,She's our daughter! A daughter to every single one of us brothers!,"Она дочь всех нас, братьев!"
+line-308,羽毛笔,我是罗德岛的人，他们不会太为难我，我来帮你们和爸爸接触。,I'm a Rhodes Islander. They won't be too hard on me. I'll help you make contact with Papá.,"Я из Родоса, они не будут со мной слишком строги. Я помогу вам выйти на папу."
+line-313,强壮的士兵,……,......,......
+line-315,精明的士兵,瞧瞧，我们的女儿长大了。,Look at how our daughter's grown.,"Гляди-ка, наша дочь выросла."
+line-329,强壮的士兵,我们回来了。,We're back.,Мы вернулись.
+line-330,强壮的士兵,看，上好的羽兽。,Look. A fine fowlbeast.,"Смотри, отличный пернатый зверь."
+line-332,精明的士兵,还有你要的调味料和其他一些食材也都买来了。,And I have the spices and other ingredients you wanted.,"И специи, которые ты просила, и прочие продукты мы тоже купили."
+line-336,羽毛笔,谢谢你们。,Thank you.,Спасибо вам.
+line-337,羽毛笔,厨房我也清扫好了，接下来就交给我吧。,"I cleaned up the kitchen, too. You can just leave the rest to me.","Я уже убрала кухню, дальше предоставьте всё мне."
+line-342,强壮的士兵,好，我们两个粗人不懂厨艺，要是有什么要帮忙的尽管使唤我们。,"Alright. Us ruffians don't know how to cook. If you need anything, let us know.","Ладно, мы двое грубых мужиков в кухне не разбираемся. Если что понадобится — только зови."
+line-346,羽毛笔,嗯。,Mhm.,Мм.
+line-351,强壮的士兵,不过，真亏你想得到，烤羽兽，上校最爱吃的东西。,I really need to hand it to you to come up with this roast fowlbeast idea. It's the colonel's favorite.,И вправду догадалась: жареный пернатый зверь — любимое блюдо полковника.
+line-352,强壮的士兵,经过人工养殖的可食用羽兽体型都比较大。,Fowlbeasts raised for food are usually heftier.,Выращенные на ферме съедобные пернатые звери обычно крупнее.
+line-353,强壮的士兵,我们完全可以把想要传递的信息写在纸条上，塞在里面，由你交给上校。,"We could write any messages we want to get to him on paper and stuff them inside, you bring it to the Colonel.","Мы можем написать нужные вести на бумажке, спрятать её внутри, а ты передашь полковнику."
+line-355,精明的士兵,说不定还能塞一些小玩意进去。,"Maybe we can squeeze some trinkets in there, too.","Может, даже какие-нибудь мелочи туда положим."
+line-359,羽毛笔,嗯，我也想让爸爸久违地吃到爱吃的东西。,"Yeah, I want Papá to eat something that he likes, even if it's just once in a while.","Да, мне самой хочется, чтобы папа после долгого перерыва отведал любимое."
+line-361,羽毛笔,他在里面肯定没怎么好好吃东西。,He probably hasn't had a good meal inside.,Там внутри он наверняка почти не ест.
+line-366,强壮的士兵,……是啊。,...Yeah.,......Да.
+line-367,强壮的士兵,上校本来就是不爱享受的性格，在监狱里肯定过得也不好。,The Colonel has never been one to indulge in pleasures. He probably hasn't had a very good time in prison.,"Полковник никогда не любил удобств, так что в тюрьме ему наверняка непросто."
+line-368,强壮的士兵,能吃到女儿做的烤羽兽，他老人家肯定乐坏了。,He'll be so happy to have a taste of his daughter's roast fowlbeast.,"Отведать жареного зверя, приготовленного дочкой, — старик наверняка будет вне себя от счастья."
+line-370,精明的士兵,上校知道你有这份心肯定也是高兴的，毕竟……,I'm sure he'll be delighted that you're worried about him. I mean...,"Полковник наверняка обрадуется, что ты о нём помнишь. В конце концов..."
+line-372,强壮的士兵,巴罗。,Barrow.,Баро.
+line-374,精明的士兵,行，我不该提。,"Fine, I won't bring it up.","Ладно, я не должен был об этом."
+line-378,羽毛笔,哥哥他……前阵子回来过。,Hermano... came back a while ago.,Брат... недавно возвращался.
+line-383,精明的士兵,他去探望了上校，还去参加了什么婚礼。,He paid the colonel a visit and attended a wedding.,Он навещал полковника и ещё ходил на какую-то свадьбу.
+line-384,精明的士兵,我远远地看了他一眼，没去找他。,I saw him from a distance. Didn't talk to him.,"Я издалека на него посмотрела, но не подошла."
+line-388,羽毛笔,你们讨厌哥哥吗？,Do you hate him?,Вы ненавидите брата?
+line-393,强壮的士兵,讨厌？怎么会。,Hate him? No way.,"Ненавидим? Что ты, нет."
+line-394,强壮的士兵,上校被捕的时候，不是他出面，我们所有人可能已经被埋在外面的荒野上了。,"If it wasn't for him, all of us would probably have been buried in the wastes, back when the Colonel was arrested.","Когда полковника арестовали, если бы не он, нас всех давно бы похоронили в пустошах."
+line-396,精明的士兵,他是个有前途的小子，说不定以后他真的能出人头地呢，呵。,He's got a bright future ahead of him. Maybe he'll actually become a successful man one day.,"Парень подающий надежды. Может, он и правда выйдет в люди, хе."
+line-400,羽毛笔,……,......,......
+line-402,羽毛笔,巴罗叔叔，把那个香料递给我。,"Tío Barrow, hand me that spice.","Дядя Баро, передай мне ту специю."
+line-407,精明的士兵,好嘞。,You got it.,Есть.
+line-411,,在火焰的炙烤下，羽兽肉逐渐拥有了美丽的光泽。,"As the flames grill the fowlbeast meat, a beautiful luster gradually appears.",Под жаром пламени мясо пернатого зверя постепенно покрывается красивым блеском.
+line-414,精明的士兵,啧啧，这个香味，真是让人怀念。,"Heh, this aroma sure brings me back.","Цц, какой же это родной запах."
+line-416,强壮的士兵,……是啊，我们还没来多索雷斯的时候，在野外就经常聚在一起烤肉。,"Right... Before we came to Dossoles, we often grilled meat together out in the wilds.",......Да. Ещё до Досолеса мы часто собирались в диких краях и жарили мясо.
+line-417,强壮的士兵,虽然没有这么好的厨具，也没有这么丰富的香料，肉也是打猎来的，柴得很……,"The kitchen utensils we had don't hold a candle to this stuff, we didn't have all these spices, we had to hunt for meat... It was terrible...","Посуда была куда хуже, специй не хватало, а мясо добывали охотой — жёсткое было..."
+line-418,强壮的士兵,但是生起火，弟兄们围在火堆边上，就会觉得，再大的苦都挨得过去。,"But as soon as we got the fire started and everyone started to gather around it, it felt like we could pull through even the harshest hardships.","Но стоило развести костёр и собраться вокруг него братьям, как казалось, что переживёшь любые трудности."
+line-420,精明的士兵,……谁说不是呢。,So it goes.,......Кто бы спорил.
+line-421,精明的士兵,塔吉克，接着。,"Tacito, catch.","Тасито, лови."
+line-423,强壮的士兵,你什么时候买的？,When did you buy this?,Когда ты это купил?
+line-425,精明的士兵,就在刚才。,Just now.,Только что.
+line-427,强壮的士兵,我怎么没发现？,How come I didn't notice?,Как я не заметил?
+line-429,精明的士兵,要是让你发现了，我这个侦察兵不是白当了？,Do I even deserve to call myself a scout if you of all people notice me doing anything?,"Если бы ты заметил, зря я тогда разведчиком работал?"
+line-431,强壮的士兵,哼。,Hmph.,Хм.
+line-435,,强壮的士兵没有多言，只是打开罐装酒，猛地灌了一口。,"The bulky soldier doesn't rebuke. Instead, he simply cracks open a can of beer and chugs it.","Дюжий солдат ничего не сказал, только открыл банку пива и сделал большой глоток."
+line-439,羽毛笔,我也要。,"I want one, too.",Мне тоже.
+line-444,精明的士兵,好嘞。,You got it.,Есть.
+line-457,,羽毛笔稍显笨拙地拉开拉环，双手捧着罐子，小口小口地喝了起来。,"La Pluma clumsily pulls the can's tab and holds it with both her hands, drinking its contents in small gulps.","Ла Плюма с некоторым трудом потянула за колечко, взяла банку двумя руками и стала пить маленькими глотками."
+line-459,,士兵们喝酒从来不讲究品质，这酒的味道和她亲手调的比起来简直是云泥之别。,"The soldiers never cared much about their beer's quality, and its taste could not be more different from her brew.","Солдаты никогда не разбирались в качестве пива, и на вкус оно было совсем не похоже на то, что она готовила сама."
+line-460,,但这刺激的口感，却一瞬间让她回忆起了从前。,But this exciting texture instantly reminds her of how things were before.,Но этот резкий вкус на мгновение вернул её в прошлое.
+line-462,,她想起有一次，爸爸打了胜仗，所有人在营地里庆祝。,"There was this one time after Papá won a battle, when everyone celebrated in the camp.","Она вспомнила, как однажды папа одержал победу и весь лагерь праздновал."
+line-463,,那时她已经学会了做饭，她也很喜欢给这些叔叔做饭。,"She had already learned how to cook by then, and she loved making food for them.",К тому времени она уже научилась готовить и очень любила стряпать для этих дядь.
+line-464,,哥哥喜欢安静的地方，于是躲在帐篷里睡觉。,"Hermano preferred quiet places, so he hid in the tent and tried to sleep.","Брат любил тишину, поэтому спрятался в палатке и спал."
+line-465,,但最后被他们吵得没办法，想要去制止，却被爸爸硬拉着喝酒，最后两个人都喝醉了。,"But in the end, with all the noise around him, he had no choice but to come out and try to quiet them down, only for Papá to force him to join them as they drank. Both of them ended up completely hammered.","Но шум достал и его: он вышел их унять, а папа силой втащил его пить, и в итоге оба напились."
+line-467,,营地里充满了欢声笑语。,The camp was filled with cheers and laughter.,Лагерь был полон смеха и веселья.
+line-468,,那时，爸爸经常会开怀大笑。,"Back then, Papá often laughed out loud.",Тогда папа часто смеялся от души.
+line-469,,那时，哥哥的心事总是写在脸上。,"Back then, the things that worried Hermano were written all over his face.",Тогда заботы брата всегда были написаны у него на лице.
+line-470,,……,......,......
+line-472,,烤肉冒出的滋滋声将她拉回现实。,The sizzling of the meat pulls her back to reality.,Шипение мяса на огне вернуло её в реальность.
+line-474,,她忽然有些感谢博士。,"Suddenly, she is feeling a little thankful for the Doctor.",Внезапно ей захотелось поблагодарить Доктора.
+line-475,,要是放在过去，她一定会纠结于自己该怎么做，希望有一个人能给她出主意。,"In the past, she would definitely be hung up on what she should do, and hope that someone would give her an idea.","Раньше она бы долго мучилась, не зная, как поступить, и желала бы, чтобы кто-то подсказал ей."
+line-476,,但是现在，她早就想好了。,"But now, she knows what to do.",А сейчас она уже давно всё решила.
+line-493,游客？,……,......,......
+line-495,羽毛笔,……,......,......
+line-505,游客？,啧。,Ugh.,Тс.
+line-508,游客？,是我。,It's me.,Это я.
+line-509,游客？,抱歉，跟丢了，不过，她去的方向是监狱，应该是要和潘乔接触。,"Sorry, I lost her, but she's headed toward the prison. She's probably going to make contact with Pancho.","Простите, я потерял её. Но она направилась к тюрьме — значит, наверно, хочет связаться с Панчо."
+line-510,游客？,是的，她和潘乔的残部接触过。,"Yes, she made contact with what's left of Pancho's men.","Да, она контактировала с остатками людей Панчо."
+line-511,游客？,嗯，很可能有这层关系。,"Yeah, could very well be connected.","Да, связь вполне возможна."
+line-512,游客？,调集人手。,Assemble the men.,Собрать людей.
+line-521,羽毛笔,……,......,......
+line-523,羽毛笔,……这种时候，真想听博士夸一夸我呀。,I really wish I could get a compliment from the Doctor at a time like this.,"......В такой момент так хочется услышать, как Доктор похвалит меня."
+line-535,羽毛笔,爸爸，我来了。,"Papá, I'm here.","Папа, я пришла."
+line-537,潘乔,噢，我的孩子，好孩子，你终于来了。,"Oh, mija. You've finally come to visit.","О, дитя моё, хорошая девочка, ты наконец пришла."
+line-539,羽毛笔,爸爸，我还给你带了这个，你最爱吃的烤羽兽。,"I brought you this, too. It's roast fowlbeast, your favorite.","Папа, я принесла тебе вот это — жареного пернатого зверя, твоё любимое."
+line-541,潘乔,嚯嚯，我女儿做的烤羽兽，这真是很久没有吃到了。,"Hoho, my own daughter's roast fowlbeast. It's been way too long.","Хо-хо, жареный зверь от собственной дочери. Сколько я его не ел!"
+line-542,潘乔,过来，让我好好看看你。,Come here and let me get a good look at you.,"Иди сюда, дай мне на тебя посмотреть."
+line-544,羽毛笔,好。,Okay.,Хорошо.
+line-546,潘乔,比之前稍微瘦了一点，是不是罗德岛的伙食不太好？,You lost weight. Is the food at Rhodes Island that bad?,Ты немного похудела. Неужто в Родосе плохо кормят?
+line-548,羽毛笔,没有，罗德岛的伙食可好了。,Not at all. It's very good.,"Нет, в Родосе кормят очень хорошо."
+line-549,羽毛笔,可能是最近出的任务有些多了吧。,Maybe it's because I've been out on missions a lot lately.,"Может, просто в последнее время слишком много выездов."
+line-551,潘乔,别太累着自己，规律的作息和饮食很重要。,Don't overwork yourself. It's very important to sleep and eat on a regular schedule.,Не переутомляйся. Режим сна и питания — это очень важно.
+line-553,羽毛笔,嗯，我知道。,"Yeah, I know.","Да, я знаю."
+line-555,羽毛笔,爸爸，你身上的伤痕变多了。,"Papá, you have new scars.","Папа, у тебя прибавилось шрамов."
+line-557,潘乔,哼，监狱是用拳头说话的地方。,Prison is a place where fists do the talking.,"Хм, в тюрьме говорят кулаки."
+line-559,潘乔,只不过是告诉了一些人，上了年纪的老东西也不是那么好欺负的罢了。,All I did was tell a few men here that just because I'm getting on in years doesn't mean they can pick on me.,"Я просто показал кое-кому, что старика тоже не так-то просто обидеть."
+line-561,羽毛笔,我下次给你带一些药膏来吧。,I'll bring you some ointment next time.,В следующий раз принесу тебе мази.
+line-563,潘乔,好，好。,"Alright, alright.","Ладно, ладно."
+line-565,潘乔,你觉得，罗德岛这个地方怎么样？,What do you think of Rhodes Island?,Как тебе Родос? Что ты о нём думаешь?
+line-567,羽毛笔,我觉得……挺好的，公司里的人都很友善，而且待遇也不错。,"I think... it's a pretty good place. Everyone at the company's very friendly, and they treat us well.","Мне... нравится. Люди в компании дружелюбные, и условия хорошие."
+line-569,潘乔,嗯，那就好。,That's good to hear.,"Мм, рад слышать."
+line-571,潘乔,不过，给别人打工总是没个着落。,But you can't settle down if you just keep working for them.,Но наёмная работа никогда не даёт ощущения стабильности.
+line-572,潘乔,罗德岛不是在各个国家之间到处跑吗？你跟着他们走的时候也自己留心一下。,Doesn't Rhodes Island travel to lots of different countries? You should look out when you go to all those different places with them.,"Родос же разъезжает между странами? Когда ты едешь с ними, присматривайся."
+line-573,潘乔,有合适的地方，就在那里扎根吧。,"If you find somewhere that works for you, settle down there.",Найдёшь подходящее место — оседи там.
+line-575,羽毛笔,我不能回玻利瓦尔吗？,Can't I come back to Bolívar?,Разве я не могу вернуться в Боливар?
+line-577,潘乔,……傻孩子。,"Don't be silly, my daughter.",......Глупышка.
+line-579,潘乔,玻利瓦尔没什么好的。我现在最大的心愿，就是你能平平安安的。,There's nothing here in Bolívar. My greatest wish now is for you to live a peaceful life.,В Боливаре нет ничего хорошего. Моё главное желание сейчас — чтобы ты была в безопасности.
+line-581,羽毛笔,那哥哥呢？,What about Hermano?,А брат?
+line-583,潘乔,那个臭小子……,That malcriado...,Этот негодник...
+line-584,潘乔,他想要做事，那就去做。,He's got things he wants to do. Let him do them.,Хочет что-то делать — пусть делает.
+line-586,潘乔,事到如今，他就算和我说，他想要给坎黛拉看门，我也不会反对。,"With the ways things turned out, if he told me he wanted to be Candela's doorman, I'd let him.","После всего, что случилось, даже если он скажет, что хочет стеречь дверь Канделе, я не возражаю."
+line-588,潘乔,但他永远想不清楚，自己究竟想要什么。,But he never thinks about what exactly it is that he wants to do.,"Но он так и не может понять, чего же он на самом деле хочет."
+line-590,潘乔,犹犹豫豫，瞻前顾后，这样的人怎么能成事！,He's too hesitant and cautious. A man like him can't accomplish anything!,"Всё время сомневается, оглядывается назад. Разве такой человек чего-то добьётся!"
+line-592,羽毛笔,我觉得……哥哥不是没有想清楚。,I... I'm sure he's aware.,Мне кажется... брат не то чтобы не понимает.
+line-593,羽毛笔,哥哥是知道自己想要什么的。,He knows what it is that he wants to do.,"Он знает, чего хочет."
+line-595,羽毛笔,他只是在害怕。,He's just afraid.,Он просто боится.
+line-597,潘乔,害怕？他能害怕什么？,Afraid? What could he even be afraid of?,Боится? Чего ему бояться?
+line-599,羽毛笔,哥哥害怕失去，他害怕当他真的选择了某一条道路的时候，他会失去爸爸，会失去我。,"He's afraid that if he really ended up picking a path, he'd lose you, and he'd lose me.","Брат боится потерять. Боится, что если выберет свой путь, то потеряет папу, потеряет меня."
+line-601,潘乔,……,......,......
+line-602,潘乔,……你是这么认为的吗？,...Is that what you think?,......Ты так думаешь?
+line-604,羽毛笔,嗯。,Yes.,Мм.
+line-605,羽毛笔,在罗德岛上，哥哥其实很少和我说话。,He doesn't actually talk to me much aboard Rhodes Island.,На Родосе брат со мной почти не разговаривает.
+line-607,羽毛笔,哥哥的想法，大概和爸爸你一样，希望我能通过罗德岛找到自己的归宿吧。,I think he probably thinks the same way as you do. He wants me to use Rhodes Island to find a place to settle down.,"Наверно, он думает, как и ты, папа: что через Родос я найду своё место."
+line-609,羽毛笔,但是……为什么呢？,But... why?,Но... почему?
+line-610,羽毛笔,我也是在玻利瓦尔长大的，为什么只有我应该离开这里，而你们就不应该离开呢？,"I grew up in Bolívar, too. How come I'm the only one who has to leave this place, and not either of you?","Я тоже выросла в Боливаре. Почему именно я должна уехать, а вы — нет?"
+line-612,潘乔,因为——,Because—,Потому что—
+line-614,羽毛笔,爸爸，之前的叛乱，我也参与其中。,I was part of the rebellion.,"Папа, я тоже участвовала в прошлом восстании."
+line-615,羽毛笔,我并不是无辜的那一个。,I'm not innocent.,Я не невиновна.
+line-617,潘乔,你本来不应该被卷进来！,You should never have been involved!,Тебе вообще не следовало в это впутываться!
+line-619,羽毛笔,可是，我不愿意眼睁睁地看着这一切发生。,But I wasn't willing to just stand by and watch it all happen.,"Но я не хотела просто смотреть, как всё это происходит."
+line-620,羽毛笔,而且，就算我眼睁睁地看着这一切发生了……我真的就能够置身事外了吗？,Besides... even if all I did was watch it happen... Does that really clear me of all involvement?,И даже если бы я просто смотрела... неужели я осталась бы в стороне?
+line-622,羽毛笔,我越是去想这些问题，我就越困惑——,"The more I think about that, the more confused I am—","Чем больше я об этом думаю, тем сильнее запутываюсь—"
+line-623,羽毛笔,但我也愈发地理解了哥哥，理解了爸爸。,"But at the same time, I also understand you and Hermano better and better.","Но я всё лучше понимаю брата, понимаю тебя, папа."
+line-625,羽毛笔,我也想要做些什么。,"I think I want to do something, too.",Мне тоже хочется что-то делать.
+line-627,潘乔,……,......,......
+line-629,羽毛笔,这份烤羽兽，是我和塔吉克叔叔他们一起做的。,I made this roast fowlbeast with Tío Tacito and everyone else.,Этого жареного зверя мы готовили вместе с дядей Тасито и остальными.
+line-631,潘乔,塔吉克……,Tacito...,Тасито...
+line-633,潘乔,……,......,......
+line-635,潘乔,这个混账东西，就算情况很糟糕，他也不该去找你来做这件事！,"That bastard... Even if the situation is bad, he shouldn't have asked you to do this!","Этот негодник! Какая бы ни была ситуация, ему не следовало просить тебя об этом!"
+line-637,羽毛笔,是我主动要帮忙的。,I wanted to.,Я сама вызвалась помочь.
+line-638,羽毛笔,我知道，很多事情很复杂。,I know that things are really complicated.,"Я знаю, что многое здесь непросто."
+line-640,羽毛笔,虽然我想要去弄懂，可我还没有弄得太懂。,"I'm trying to understand them, but I still don't grasp them completely.","Я хочу разобраться, но пока понимаю не до конца."
+line-642,羽毛笔,但是，有一件事我是明白的，爸爸。,But there is one thing that I know.,"Но кое-что я понимаю, папа."
+line-643,羽毛笔,你不能让那些尊敬你、爱戴你的人白白为你送死。,You can't let the people who respect you and look up to you to die for no reason.,"Ты не можешь позволять тем, кто уважает и любит тебя, умирать за тебя зря."
+line-645,潘乔,所以……你希望我不要收下这份烤羽兽，是吗？,So... you don't want me to take this fowlbeast. Is that it?,"Так... ты хочешь, чтобы я не принимал этого жареного зверя? Верно?"
+line-647,羽毛笔,……嗯。,...Mhm.,......Мм.
+line-648,羽毛笔,下次，我会给你做更好吃的食物。,"Next time, I'll make you something even tastier.",В следующий раз я приготовлю тебе что-нибудь повкуснее.
+line-650,潘乔,这是你长这么大以来，第二次对我提要求。,This is only the second time you've ever asked something of me.,"Это второй раз за всю твою жизнь, когда ты просишь меня о чём-то."
+line-652,潘乔,你长大了，拉菲艾拉。,"You've grown up, Rafaela.","Ты выросла, Рафаэла."
+line-654,羽毛笔,你们都这么说，但是，我感觉自己和以前没有什么区别。,"That's what you all say, but I don't think I'm much different from before.","Вы всё это говорите, а я не чувствую никакой разницы."
+line-655,羽毛笔,我希望爸爸身体健康，我希望哥哥少做危险的事，就这么简单。,I just want you to stay healthy and for Hermano to be more careful. It's that simple.,"Я хочу, чтобы папа был здоров, а брат поменьше рисковал. Вот и всё."
+line-657,潘乔,……,......,......
+line-659,潘乔,埃内斯托那小子之前来过。,Ernesto came by a while back.,Эрнесто здесь уже бывал.
+line-661,羽毛笔,嗯，我知道。,"Yeah, I know.","Да, я знаю."
+line-663,潘乔,他问我，记不记得我和他母亲第一次见面时，她胸口别着的那朵花。,He asked me if I remember what kind of flower his mother had clipped to her chest the first time we met.,"Он спросил, помню ли я цветок, который его мать приколола к груди, когда мы впервые встретились."
+line-665,潘乔,我说，我忘了。,I told him I don't.,"Я сказал, что не помню."
+line-666,潘乔,我真的忘了。,I really don't.,Я правда забыл.
+line-667,潘乔,也是，我变老了。,That also means... I'm old.,Да... я состарился.
+line-669,羽毛笔,是紫丁香。,It was a lilac.,Это была сирень.
+line-671,潘乔,什么？你怎么会……,What? How did you...?,Что? Откуда ты...?
+line-673,羽毛笔,是你告诉我的呀，爸爸。,You told me.,"Ты мне рассказывал, папа."
+line-677,,那天，她把喝得烂醉的爸爸扶回帐篷，爸爸拉着她迷迷糊糊地说话。,"That day, she helped her inebriated father back to the tent, and in his haze, he started to talk.","В тот день она отвела тебя, пьяного, в палатку, и ты в полусне говорил с ней."
+line-678,,说着说着，爸爸就哭了。,"As he continued, Papá began to cry.","И, говоря, ты расплакался."
+line-679,,因为爸爸想到了他的妻子。,He was remembering his wife.,Потому что вспомнил свою жену.
+line-680,,想到了他和妻子初遇时，她胸口的那朵花。,The flower that she pinned to her chest when he first met her.,Вспомнил цветок у неё на груди в день вашей первой встречи.
+line-681,,紫丁香，一朵美丽的紫丁香。,A lilac. A beautiful lilac.,Сирень. Прекрасная сирень.
+line-683,潘乔,对啊，是紫丁香。,"Right, it was a lilac.","Да, сирень."
+line-684,潘乔,我怎么会忘了呢。,How could I forget...?,Как я мог забыть...
+line-686,潘乔,……,......,......
+line-687,潘乔,谢谢你，孩子。,"Gracias, mija.","Спасибо тебе, дитя."
+line-689,潘乔,把这只烤羽兽带回去吧。,Take this fowlbeast back with you.,Забери этого жареного зверя с собой.
+line-691,羽毛笔,……真的可以吗？,Are you sure?,......Правда можно?
+line-693,潘乔,拉菲艾拉，我的孩子。,"Rafaela, mija.","Рафаэла, дитя моё."
+line-694,潘乔,我原以为有些话我只会和埃内斯托说，没想到，这些话也有对你说的时候。,"There are some things that I thought I'd only say to Ernesto. I never thought I'd have to say any of this to you, too.","Я думал, что кое-какие слова скажу только Эрнесто, а пришлось сказать и тебе."
+line-696,潘乔,当你决定去做一件事，就不要畏首畏尾。,"Once you've decided to do something, don't be a coward.",Решил что-то сделать — и не робей.
+line-697,潘乔,绝不要被别人的想法左右。,And never let anyone influence your thinking.,И никогда не позволяй чужим мнениям вертеть тобой.
+line-699,羽毛笔,……嗯。,...alright.,......Мм.
+line-701,羽毛笔,爸爸。,Papá?,Папа?
+line-703,潘乔,什么？,What is it?,Что?
+line-705,羽毛笔,既然你会把对哥哥说的话告诉我……那么，你会把对我说的话告诉哥哥吗？,"If you told me what you told Hermano, then... will you tell him the same thing you told me?","Раз ты сказал мне то, что говорил брату... скажешь ли ты брату то, что сказал мне?"
+line-707,潘乔,……,......,......
+line-709,羽毛笔,你要答应我。,Promise me.,Пообещай мне.
+line-714,潘乔,……我答应你。,I promise you.,......Обещаю.
+line-727,强壮的士兵,都准备了吗？,You ready?,Все готовы?
+line-729,精明的士兵,三十个，一个不少。,Thirty of us. Not one less.,Тридцать человек. Ни одного не хватает.
+line-731,强壮的士兵,……,......,......
+line-732,强壮的士兵,你说，拉菲艾拉愿不愿意跟我们一起走？,"Say, do you think Rafaela will come with?","Скажи, захочет ли Рафаэла пойти с нами?"
+line-734,精明的士兵,……别傻了。,Don't be an idiot.,......Не глупи.
+line-735,精明的士兵,是谁之前不想把她卷进来的？,Who didn't want to drag her into this before?,Кто не хотел её в это втягивать?
+line-737,强壮的士兵,哈，也是。,"Hah, you're right about that.","Ха, ты прав."
+line-738,强壮的士兵,跟我们这群明天不知道就会死在哪的人一起根本没有好处。,Nothing good could come out of following a bunch of men who are doomed to die who-knows-where tomorrow.,"Нет ничего хорошего в том, чтобы идти с нами, с людьми, которые завтра не знают, где умрут."
+line-740,精明的士兵,你还想明天死？,You want to die tomorrow?,"Ты что, хочешь умереть завтра?"
+line-741,精明的士兵,我看，今天就差不多了。,"If you ask me, I think today would do just fine.","По-моему, и сегодня было бы неплохо."
+line-750,强壮的士兵,拉菲艾拉，你回来了。,"Rafaela, you're back.","Рафаэла, ты вернулась."
+line-751,强壮的士兵,上校他还好吗？,How's the Colonel?,Как полковник?
+line-755,羽毛笔,嗯，爸爸他还是老样子。,He's the same as he ever was.,"Мм, папа всё такой же."
+line-760,精明的士兵,等等，你的手上……你怎么把烤羽兽带回来了？,Wait... Why did you bring the fowlbeast back out?,"Погоди, у тебя в руках... Почему ты принесла жареного зверя обратно?"
+line-764,羽毛笔,这是爸爸的答复。,It's his choice.,Это ответ папы.
+line-769,强壮的士兵,……,......,......
+line-770,强壮的士兵,这不可能。,Impossible.,Этого не может быть.
+line-771,强壮的士兵,上校不可能甘心待在监狱里。,There's no way he's okay with dying in prison.,Полковник не может смириться с тюрьмой.
+line-773,精明的士兵,……丫头，你骗了我们。,You brat... you tricked us.,"......Девочка, ты нас обманула."
+line-774,精明的士兵,你是去说服上校的，是吗？,"You talked him out of it, didn't you?","Ты пошла уговорить полковника, так?"
+line-778,羽毛笔,坎黛拉的手下一直在盯着你们。,Candela's lackeys have been watching you the whole time.,Люди Канделы всё время за вами следят.
+line-779,羽毛笔,我不希望你们白白送死。,I don't want you to get yourselves killed.,"Я не хочу, чтобы вы умирали зря."
+line-784,强壮的士兵,……你还是那么善良，孩子。,"You've always been so kind, mija.","......Ты всё такая же добрая, дитя."
+line-785,强壮的士兵,但我说过了，我们没有多少机会了。,But I told you. We don't really have a lot of opportunities left.,Но я говорил: у нас почти не осталось шансов.
+line-786,强壮的士兵,让开，孩子。,Out of the way.,"Отойди, дитя."
+line-790,羽毛笔,……不。,...No.,......Нет.
+line-798,羽毛笔,你们不能过去。,I won't let you through.,Я вас не пропущу.
+line-814,,领头者向身后的同伴点了点头，示意准备突击。,The leader turns to his teammates behind him and nods to signal their impending attack.,"Заместитель кивнул своим позади, давая сигнал готовиться к атаке."
+line-815,,这里是潘乔残部的据点，根据密报，他们打算密谋营救潘乔。,This is a hideout of the remnants of Pancho's forces. Intelligence shows that they are planning to break Pancho out of prison.,"Это убежище остатков людей Панчо. По секретным сведениям, они замышляют освободить его."
+line-816,,女士的意思是，格杀勿论。,Her orders are to kill every last one of them.,Мэм приказала: убить всех без пощады.
+line-820,坎黛拉手下,（低声）三，二，一——,"(Quietly) 3, 2, 1—","(шёпотом) Три, два, один—"
+line-835,坎黛拉手下,——嗯？,—Huh?,— Мм?
+line-840,,坎黛拉的手下们愣了一下。,Candela's lackeys find themselves dumbfounded by what they see.,Подчинённые Канделы на мгновение остолбенели.
+line-841,,房间中只有躺倒在地呻吟的士兵，以及一个站在房间中央的女孩。,"Inside the room, there are only a bunch of groaning soldiers on the ground and a girl standing in the middle.","В комнате были только стонущие на полу солдаты да девушка, стоявшая посредине."
+line-842,,女孩拿着巨大的镰刀，镰刀反射着慑人的寒光，而寒光照到她的脸上，却照出两道泪痕。,"She is holding a giant scythe. Its blade reflects a cold, awe-inspiring ray of light that lands on her face, revealing two dried up trails of tears.","В руках у девушки была огромная коса. Её лезвие отражало ледяной свет, а на лице девушки тот свет высветил два следа от слёз."
+line-848,坎黛拉,发生了什么？,What happened?,Что здесь произошло?
+line-850,坎黛拉手下,女士，我们进来的时候就已经是这样了。,"Señora, they've been like this the moment we entered.","Мэм, когда мы вошли, всё уже было так."
+line-852,坎黛拉,哦？,Oh?,О?
+line-853,坎黛拉,你是埃内斯托的……,You're Ernesto's...,Ты... сестра Эрнесто?
+line-855,羽毛笔,我是罗德岛的干员，代号羽毛笔。,I'm an operator from Rhodes Island. Codename La Pluma.,Я оперативник Родоса. Позывной — Ла Плюма.
+line-857,坎黛拉,罗德岛的干员……怎么会在这里？,A Rhodes Island operator... What are you doing here?,Оперативник Родоса... Что ты здесь делаешь?
+line-859,羽毛笔,这群士兵私藏军火被我偶然发现，所以我就出手了。,"I happened across these guerrillas hiding a stash of weapons, so I dealt with them.","Я случайно обнаружила, что эти солдаты тайно хранят оружие, и вмешалась."
+line-861,坎黛拉,这是我们多索雷斯的私事，在你发现的时候，就应该告诉我的手下。,This is a Dossoles matter. You should have notified my subordinates as soon as you found them.,"Это внутреннее дело Досолеса. Увидев это, ты должна была сообщить моим людям."
+line-863,羽毛笔,抱歉，坎黛拉女士，事急从权。,"Sorry, Ms. Candela, but it was an emergency.","Простите, мисс Кандела. Пришлось действовать по обстоятельствам."
+line-865,坎黛拉,我也很抱歉，孩子，这个理由，不够充分。,"I'm sorry myself, that is not enough of a reason.","Мне тоже жаль, дитя, но этой причины недостаточно."
+line-868,,坎黛拉话音未落，身后的手下们已经举起武器对准了羽毛笔。,"Before Candela can finish, her subordinates have already leveled their weapons on La Pluma.","Кандела не успела договорить, а её подчинённые уже навели оружие на Ла Плюму."
+line-869,,就在这时——,Just then—,И в этот миг—
+line-876,坎黛拉,是我。,It's me.,Это я.
+line-878,坎黛拉,哦？,Oh?,О?
+line-880,坎黛拉,……呵呵，原来如此，我知道了，我很快就会回来。,"...Ahah, I see. Very well. I'll be back soon.","......Хе-хе, понятно. Я поняла. Я скоро вернусь."
+line-884,坎黛拉,我改变主意了，孩子。,"I've had a change of heart, my girl.","Я передумала, дитя."
+line-886,坎黛拉,这是个不错的理由。,This is a decent enough reason.,Это достойная причина.
+line-887,坎黛拉,把这些人都带回去，对他们好一点。,Take all of them back. Be good to them.,Заберите их всех и отнеситесь к ним хорошо.
+line-889,坎黛拉手下,女士？,Ms. Candela?,Мэм?
+line-891,坎黛拉,我的一位老朋友忽然主动提出想要和我聊一聊，我现在心情很好。,An old friend of mine suddenly asked for a chat. I'm in a good mood.,Один старый друг вдруг захотел со мной поговорить. Я в хорошем настроении.
+line-893,坎黛拉手下,我明白了。,Got it.,Понял.
+line-894,坎黛拉手下,跟上，把这些地上的杂碎都带走！,Come! We're picking up all this trash off the floor!,"Вперёд, убрать отсюда весь этот мусор!"
+line-897,坎黛拉手下们,是！,"Yes, sir!",Есть!
+line-902,坎黛拉,你很勇敢，孩子，你为他们赢得了活下去的机会。,You're a brave one. You won a chance for them to live.,"Ты храбрая, дитя. Ты дала им шанс выжить."
+line-904,羽毛笔,……,......,......
+line-906,坎黛拉,你在想什么？,What's on your mind now?,О чём ты думаешь?
+line-908,羽毛笔,我在想，我应该感谢你吗？,I'm wondering if I should thank you.,"Я думаю, должна ли я тебя благодарить."
+line-910,坎黛拉,……哈哈哈。,Hahaha.,......Ха-ха-ха.
+line-912,坎黛拉,以前，埃内斯托告诉我他有个很乖的妹妹，我没有在意，现在看来，他对你的评价失之偏颇。,"Ernesto told me about his lovely, well-behaved sister. I didn't pay him any mind at the time, but now it seems his appraisal was biased.","Раньше Эрнесто говорил мне, что у него есть послушная сестра, и я не придала этому значения. Теперь вижу: он оценивал тебя неверно."
+line-913,坎黛拉,你知道吗，孩子，你不该出手的。,"You know, my child? You should not have done this.","Знаешь, дитя, тебе не следовало вмешиваться."
+line-915,坎黛拉,你最正确的做法，是看着这一切发生，然后转身离开。,"What you should have done is watch it all happen, and then turn and leave.","Правильнее всего было бы смотреть, как это происходит, и уйти."
+line-916,坎黛拉,你还年轻，你有离开玻利瓦尔的权利。,You are still young. You have the right to leave Bolívar.,Ты ещё молода. У тебя есть право уехать из Боливара.
+line-918,坎黛拉,而你今天做的这一切，虽然救下了一些人，但是，也让我记住了你。,"What you've done today might have saved a few men, but thanks to this, I will remember you.","То, что ты сделала сегодня, спасло нескольких людей — но и заставило меня запомнить тебя."
+line-920,坎黛拉,被我记住不是一件好事。,That's not a good thing.,Запомниться мне — не хорошо.
+line-922,羽毛笔,我知道。,I know.,Я знаю.
+line-923,羽毛笔,我认真考虑过了，我是自己决定这么做的。,"I thought it through, and I decided to do this.",Я всё обдумала. Я сама решила так поступить.
+line-925,坎黛拉,你的哥哥对我说，长在玻利瓦尔这个国家上的尖刺，是他唯一的喜乐。,Your brother told me that this country's thorns are what brings him joy.,"Твой брат сказал мне, что колючки, растущие на этой стране Боливар, — его единственная радость."
+line-926,坎黛拉,你呢，你怎么想，孩子？,What about you? What do you think?,"А ты? Что думаешь ты, дитя?"
+line-928,羽毛笔,……哥哥，他对于玻利瓦尔的事想了很多很多。,"Hermano thought really, really hard about Bolívar.",......Брат очень много думал о Боливаре.
+line-930,羽毛笔,我一开始也想要变得和哥哥一样，但我发现，我做不到。,"At first, I wanted to be like him, but then I found out I can't do that.","Сначала я тоже хотела стать такой, как брат, но поняла, что не могу."
+line-931,羽毛笔,我想得更多的，永远是我身边的亲人。,"I want more people that I can call family, who will stay by my side forever.","Я всегда думаю больше о близких, которые рядом со мной."
+line-933,坎黛拉,即使你们没有血脉相连？,Even if you will not be related by blood?,Даже если вы не связаны кровью?
+line-935,羽毛笔,嗯。,Yes.,Мм.
+line-936,羽毛笔,即使我们没有血脉相连，我永远是哥哥的妹妹。,"Even though we are not related by blood, I will always be my hermano's sister.","Пусть мы не связаны кровью, я навсегда останусь сестрой брата."
+line-937,羽毛笔,我也永远是爸爸的女儿。,I will always be Papá's daughter.,И навсегда останусь дочерью папы.
+line-939,羽毛笔,如果他们不打算离开，那么，我也不应该离开。,"If they don't want to leave, then I don't think I should leave, either.","Если они не собираются уезжать, то и мне не следует уезжать."
+line-940,羽毛笔,就这么简单。,It's that simple.,Вот и всё.
+line-942,坎黛拉,……你让我想起了我接手这座城市的时候，孩子。,You remind me of back when I took over the city.,"......Ты напомнила мне время, когда я приняла этот город, дитя."
+line-944,坎黛拉,我的父亲是个混蛋，这座城市是他留下的烂摊子。,My father was a scumbag. This city is a mess that he left to me to sort out.,"Мой отец был негодяем, и этот город — оставленный им беспорядок."
+line-946,坎黛拉,我有能力去改造它，可是为什么呢？,"I had the ability to change it, but why should I have?",Я могла его перестроить. Но зачем?
+line-948,坎黛拉,你说，是为什么呢？,"Tell me, why?","Скажи, зачем?"
+line-950,羽毛笔,……因为你也是你爸爸的女儿？,Because you're your papá's daughter?,......Потому что ты тоже дочь своего отца?
+line-952,坎黛拉,没有这么简单，但也没有那么复杂。,"It's not that simple, but it's also not that complicated.","Не так просто, но и не так сложно."
+line-954,羽毛笔,我不明白。,I don't understand.,Я не понимаю.
+line-956,坎黛拉,总有一天，你会明白的。,"You will, one day.",Однажды ты поймёшь.
+line-958,坎黛拉,走吧，孩子。,"Now go, mija.","Иди, дитя."
+line-959,坎黛拉,你是被狂风卷起的羽毛，风暴会无情地摧残你……可如果你足够坚韧，也会看见只能在风暴之中窥见的景色。,"You are a feather lifted off the ground by a fierce wind. The wind will destroy you without mercy... but if you are tenacious enough, you will see sights that you can see only in the storm.","Ты — перо, подхваченное яростным ветром. Буря будет безжалостно ломать тебя... но если ты окажешься достаточно упорной, то увидишь то, что можно увидеть только в буре."
+line-979,羽毛笔,……,......,......
+line-981,花店店主,美女，既然你都知道这家店不会开了，你为什么又在这里发呆呢？,"Guapa, you know the store's not going to open. What are you doing spacing out here?","Красавица, раз ты знаешь, что магазин не откроется, почему ты опять здесь стоишь?"
+line-983,羽毛笔,你是谁？,Who are you?,Кто вы?
+line-985,花店店主,我是之前和你搭话的人，你忘了吗？,I talked to you before. You forgot?,"Я тот, кто с тобой раньше разговаривал. Ты забыла?"
+line-987,羽毛笔,忘了。,I did.,Забыла.
+line-989,花店店主,……好吧。,Alright...,......Ладно.
+line-990,花店店主,对了，这个给你。,"Here, this is for you.","Да, вот это тебе."
+line-992,羽毛笔,嗯？,Hmm?,Мм?
+line-994,花店店主,你之前不是帮忙抓了一个小偷吗，失主想要给你谢礼，但是找不到你人，最后找到我这里。,"Didn't you catch a thief before? The owner wanted to give you a reward, but couldn't find you. So it falls to me.","Ты же раньше помогла поймать вора? Хозяин хотел тебя отблагодарить, но не смог найти, и в итоге пришёл ко мне."
+line-995,花店店主,我也不知道你在哪，但我想你既然对这里这么了解，可能还会再来，就擅自帮你保管了下来。,"I had no idea where you were, but I figured that if you knew so much about this place, you might come back, so I held onto it for you.","Я не знала, где ты, но подумала: раз ты так хорошо знаешь это место, то, может, ещё вернёшься — и оставила это у себя."
+line-997,羽毛笔,……啊，你是那天和我搭话的人。,"Oh, you're the one who talked to me the other day.","......А, так это вы разговаривали со мной в тот день."
+line-999,花店店主,我刚才就这么说了啊！,That's what I just said!,Я только что это сказала!
+line-1001,羽毛笔,你怎么又在这里？,What are you doing here?,Почему вы опять здесь?
+line-1003,花店店主,因为我开的花店就在这附近啊。,My flower shop is just nearby.,Потому что мой цветочный магазин как раз рядом.
+line-1005,羽毛笔,花店？,A flower shop?,Цветочный магазин?
+line-1007,花店店主,对，我曾经是一个参加极限赛的运动员。,"Yes, I used to be an athlete. I was in the Championship.","Да. Раньше я была спортсменкой, участвовала в экстремальных гонках."
+line-1009,花店店主,有一天，我在赛场上摔倒了，当所有人对我发出嘘声的时候，我却看到一朵花，那朵花仿佛在对我微笑。,"One day, I fell in the arena. Just as everyone was booing me on the ground, I saw a flower, like it was smiling at me.","Однажды я упала на трассе. Когда все меня освистали, я увидела цветок — и мне показалось, что он мне улыбается."
+line-1010,花店店主,所以我干脆退出了体育界，开了这家店。,"So I left the sports world, and opened this shop.",Тогда я ушла из спорта и открыла этот магазин.
+line-1013,花店店主,哎，等等我！,"Eh, wait!","Эй, подожди!"
+line-1015,羽毛笔,……你这里有紫丁香吗？,...Do you have any lilacs?,......У вас есть сирень?
+line-1017,花店店主,当然。,Of course.,Конечно.
+line-1019,羽毛笔,我要买一束。,I want a bundle of them.,Я хочу купить букет.
+line-1021,花店店主,是要送人吗？,Are they for someone?,Это в подарок кому-то?
+line-1023,羽毛笔,嗯，送给我的家人。,Si. For my family.,"Мм, для моей семьи."

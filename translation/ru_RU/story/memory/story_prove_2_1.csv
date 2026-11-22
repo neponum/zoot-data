@@ -1,0 +1,371 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_prove_2_1,崎路前行
+,,,,
+char-1,普罗旺斯,普罗旺斯,Provence,Прованс
+char-2,罗德岛外勤干员,罗德岛外勤干员,Rhodes Island Field Operator,Полевой оперативник Родоса
+char-3,老奶奶,老奶奶,Old Granny,Старушка
+char-4,罗德岛后勤干员,罗德岛后勤干员,Rhodes Island Logistics Operator,Логистический оперативник Родоса
+char-5,医疗干员,医疗干员,Medic Operator,Медик
+char-6,？？？,？？？,???,???
+char-7,镇民,镇民,Townsfolk,Горожанин
+char-8,天灾信使,天灾信使,Catastrophe Messenger,Вестник Катастроф
+char-9,本地法官A,本地法官A,Local Judge A,Местный судья A
+char-10,本地法官B,本地法官B,Local Judge B,Местный судья B
+char-11,镇民A,镇民A,Townsfolk A,Горожанин A
+char-12,镇民B,镇民B,Townsfolk B,Горожанин B
+char-13,罗德岛信使,罗德岛信使,Rhodes Island Messenger,Курьер Родоса
+,,,,
+line-10,普罗旺斯,斯弗！探测仪显示前面还有一位！,Siv! The detector's showing one more person up ahead!,Сив! Детектор показывает ещё одного человека впереди!
+line-12,普罗旺斯,你还好吗，还坚持得住吗？,Think you can hang in there?,Ты в порядке? Ещё держишься?
+line-22,罗德岛外勤干员,呼……呼……还可以，走吧……,"Huff... Huff... I'm fine, let's go...","Фух... фух... Да, пойдём..."
+line-24,普罗旺斯,这边太偏了，没有被划到红外探测仪的目标区域……,"This place is way too remote, and wasn't in the area covered by the infrared detector...",Здесь слишком глухо — в зону сканирования инфракрасного детектора это место не попало...
+line-25,普罗旺斯,我申请往这里推进了一千米，发现这附近还有一个幸存者，但具体位置还不能确定，快，快……,"I applied to advance the range one kilometer this way, and discovered a survivor nearby, but haven't pinpointed the precise location yet. Hurry, hurry...","Я попросила продвинуться на километр в эту сторону и обнаружила поблизости выжившего, но точное место пока не знаю. Быстрее, быстрее..."
+line-26,普罗旺斯,这个镇子明明是在天灾信使探测范围内的，怎么还是会弄成这样！,"This town is clearly within the local Catastrophe Messenger's detection range, so how did this happen?!",Этот городок же в зоне действия вестника Катастроф! Как могло дойти до такого?!
+line-28,普罗旺斯,这种程度的地震，应该有很明显的征兆才对，驻镇的天灾信使不可能没有发现……,An earthquake of this magnitude should've had obvious signs. There's no way anyone stationed here could've missed it.,"При землетрясении такой силы должны быть явные признаки. Вестник, который здесь дежурил, не мог их не заметить..."
+line-30,罗德岛外勤干员,都过去四天半了，我很怀疑……,It's already been four and a half days. I'm starting to think it might be...,Прошло четыре с половиной дня. Я начинаю сомневаться...
+line-31,罗德岛外勤干员,而且罗德岛只是行驶路过，我们根本没有提前准备，这种程度的救援……,"Besides, Rhodes Island was just passing by, and we're not at all prepared for this level of rescue operation.",К тому же Родос просто проходил мимо — мы совсем не готовились к спасательной операции такого масштаба...
+line-33,普罗旺斯,不要这样想！,Don't talk like that!,Не говори так!
+line-34,普罗旺斯,我们去，就还有希望。,Let's go. There's still hope.,Пойдём. Ещё есть надежда.
+line-45,普罗旺斯,这里！应该就是这片废墟下面，斯弗快来！,"Here, right here! They should be under the rubble. Hurry up, Siv!","Здесь! Под этими развалинами они. Сив, скорее!"
+line-46,普罗旺斯,救援队，救援队！能听到吗？我们是救援队，我们来救您了！,"This is the rescue team! Do you hear me? We're from the rescue team, we're here to help you!","Спасательная группа! Слышите? Мы из спасательной группы, мы пришли вам помочь!"
+line-47,普罗旺斯,能听到吗？请给回应！,Can you hear me? Please answer!,Слышите? Отзовитесь!
+line-48,普罗旺斯,……,......,...
+line-49,普罗旺斯,没有反应，斯弗，敲钢管看看！,"No response. Siv, try tapping a steel pipe!","Нет ответа. Сив, ударь по трубе!"
+line-51,罗德岛外勤干员,明白。,Got it.,Понял.
+line-53,,咚咚咚，咚咚咚……,"Tap tap tap, tap tap tap...","Тук-тук-тук, тук-тук-тук..."
+line-54,罗德岛外勤干员,……,......,...
+line-55,,咚咚咚，咚咚咚……,"Tap tap tap, tap tap tap...","Тук-тук-тук, тук-тук-тук..."
+line-57,普罗旺斯,有回应吗？,Any response?,Есть ответ?
+line-59,罗德岛外勤干员,没有……而且咱们没分到生命探测仪，真的只能靠这样确认准确位置吗？之前也有人还活着，只是没力气给反应了，我要不申请……,None... And we weren't assigned a life-detector. Is there a better way of confirming the exact location? There were survivors before who just didn't have the strength to respond. Maybe I should apply for a—,"Нет... И детектор жизни нам не выдали. Правда, больше ничего не остаётся? Раньше бывали выжившие, у которых просто не хватило сил ответить. Может, я запрошу..."
+line-61,普罗旺斯,啊……怕是来不及。而且也不一定真的有多余的可以给我们，先用笨办法确认一遍吧，就算是用指甲挠也是会有声音的，仔细听。,"Ugh... It'll be too late by then. Plus, there's no guarantee they even have any to spare. We'll do this the old-fashioned way. Listen carefully—even the scratching of fingernails makes a sound.","Эх... к тому времени будет поздно. И не факт, что у них есть лишний. Будем по-старому. Даже ногти, и то слышно, если прислушаться."
+line-63,普罗旺斯,我再去敲敲那边的钢管，或者你有什么能定位的源石技艺吗？,I'll try tapping the pipes over there. Or do you have any Originium Arts that can help locate them?,"Я постучу по тем трубам. Или у тебя есть Искусство Ориджиниума, чтобы определить место?"
+line-65,罗德岛外勤干员,哈哈……有的话，刚才也就不用徒手挖房子了……,"Haha... If I did, then I wouldn't be digging through rubble with my bare hands...",Ха-ха... Было бы — не разгребали бы руками...
+line-66,,咚咚咚，咚咚咚……,"Tap tap tap, tap tap tap...","Тук-тук-тук, тук-тук-тук..."
+line-74,罗德岛外勤干员,……,......,...
+line-75,罗德岛外勤干员,…………,.........,......
+line-76,罗德岛外勤干员,我把这一片的都敲完了，没有回应。,I've knocked on this entire area and didn't get any responses.,Я обстучала всю эту зону. Никто не отозвался.
+line-77,罗德岛外勤干员,已经过去太久了，这里又偏，我们会不会是……又来晚了？,"It's been so long, and this place is so remote. Were we... too late again?","Прошло так много времени, а место такое глухое... Может, мы опять... опоздали?"
+line-79,普罗旺斯,……不会的，前面还有一小片，我再去那里看看。,No... there's still another place up ahead. I'll go over and take a look.,...Нет. Впереди ещё один небольшой участок. Я схожу туда.
+line-86,,咚咚咚，咚咚咚……,"Tap tap tap, tap tap tap...","Тук-тук-тук, тук-тук-тук..."
+line-90,,呲……呲……,*Scratch*... *Scratch*...,Шорх... шорх...
+line-91,,呲……呲……,*Scratch*... *Scratch*...,Шорх... шорх...
+line-94,普罗旺斯,！,!,!
+line-95,普罗旺斯,是指甲划钢管的声音！,I hear it! It's the sound of nails on pipe!,Это! Это звук ногтей по трубе!
+line-97,普罗旺斯,这里，在这里！斯弗快来！,"Here, over here! Hurry, Siv!","Здесь, здесь! Сив, скорее!"
+line-99,罗德岛外勤干员,来了！……啊！嘶——,I'm coming! ...Gah! Hiss...,Иду!.. Ах! Ой...
+line-101,普罗旺斯,小心，撑不住了就先休息一下！,Careful! Take a break if you can't handle it anymore!,Осторожно! Если не выдержишь — отдохни!
+line-103,罗德岛外勤干员,没事，我可以，先救人！,"I'm fine, I can keep going. We've got a life to save!","Я в порядке, могу! Сначала спасём!"
+line-105,普罗旺斯,可以听到吗？再坚持一下，我们是救援队，我们来救您了！,"Can you hear me? We're from the rescue team, we're here to help you!","Слышите? Ещё немного — мы из спасательной группы, мы пришли вам помочь!"
+line-106,普罗旺斯,来，一起把这个房板搬开，小心自己别受伤，三、二、一！,"Here, let's move this board out of the way. Careful not to hurt yourself. Three, two, one!","Давай вместе поднимем эту плиту. Смотри, не поранься. Раз, два, три!"
+line-109,罗德岛外勤干员,嘿！,Hnngh!,Ну!
+line-110,罗德岛外勤干员,咱们的生理盐水应该还有剩，我用软管往下递。,"We should still have some saline solution left, so let's pass it down with a hose.",У нас ещё должен остаться физраствор. Передам его через шланг.
+line-112,普罗旺斯,盐水来了，您喝一点，我们这就开始救援！,"There's saline water on the way! Drink up, and we'll begin the rescue!","Раствор идёт! Выпейте немного, мы сейчас начнём!"
+line-114,老奶奶,咳……咳……,*cough*... *cough*...,Кашель... кашель...
+line-116,罗德岛外勤干员,是位老人？,It's an elderly person?,Это старушка?
+line-118,普罗旺斯,老奶奶？,Granny?,Бабушка?
+line-120,老奶奶,哎……我还以为……不会有人来了……,Ugh... I thought... nobody would come...,Ох... Я думала... никто не придёт...
+line-122,普罗旺斯,不会的，我们来了！,No way! We're here for you!,Как бы не так! Мы пришли!
+line-124,老奶奶,那我就放心了……,Thank goodness...,"Ну, тогда я спокойна..."
+line-126,罗德岛外勤干员,已经开始用雷达扫描这里的结构了，您再坚持一下！,I've already started scanning the structure with radar. Hold on just a little longer!,Я уже сканирую структуру радаром. Держитесь ещё немного!
+line-128,老奶奶,……,......,...
+line-130,普罗旺斯,老奶奶？老奶奶？,Granny? Granny?,Бабушка? Бабушка?
+line-132,老奶奶,…………,.........,......
+line-134,普罗旺斯,老奶奶精神松懈了，不能让她这样睡过去！,She's losing consciousness! We can't let her fall asleep here!,Она отключается. Нельзя давать ей уснуть!
+line-136,罗德岛外勤干员,我来扫描结构，你去和老人家搭话让她保持清醒！,I'll handle the scan. Head over and keep her awake!,"Я сканирую. Иди поговори с ней, не давай ей заснуть!"
+line-138,普罗旺斯,奶奶，奶奶？您先别睡，我们说说话吧！,"Granny, Granny? Don't go to sleep just yet, let's have a little chat first!","Бабушка, бабушка? Не спите пока, давайте поговорим!"
+line-140,老奶奶,……,......,...
+line-142,普罗旺斯,您这样睡过去有危险，醒一醒，和我们说说话吧？,"It's dangerous to fall asleep right now. Wake up, and we'll talk, okay?","Спать сейчас опасно. Проснитесь, поговорите с нами, ладно?"
+line-144,老奶奶,……,......,...
+line-145,老奶奶,……已经过了几天了？,How many days has it been...?,...Сколько дней прошло?
+line-147,普罗旺斯,……啊，两天，两天！我们在附近，很快就赶过来了。所以您不会有事的！,"...Um, two! Two days! We were nearby and came as soon as we could! Everything will be okay!","...А, два, два! Мы были рядом и пришли, как только смогли. С вами всё будет хорошо!"
+line-149,老奶奶,嗯……,Ngh...,Мм...
+line-150,老奶奶,我的孙孙……我的孙孙你们有见到吗？,My grandson... Have you seen my grandson?,Мой внучек... вы его не видели?
+line-152,普罗旺斯,（你有见过吗？小孙孙这类的？）,(Have you seen him? Any young kids?),(Ты его видела? Такой маленький мальчик?)
+line-154,罗德岛外勤干员,（没有啊……）,"(No, I haven't...)",(Нет...)
+line-156,普罗旺斯,奶奶，我们是分小队的，负责的区域不一样，可能别的小队已经把您孙孙带到安全的地方了，您待会儿出来也就能看到了！,"Granny, we're divided into teams who are all responsible for different areas. Maybe another team has already taken him to safety. We'll have a look after we get you out of here!","Бабушка, мы работаем группами, у каждой свой район. Может, другая группа уже отвела его в безопасное место. Когда мы вас вытащим — сразу увидим!"
+line-158,老奶奶,我的孙孙……调皮捣蛋……,My grandson... is a little troublemaker...,Мой внучек... такой шаловливый...
+line-159,老奶奶,……不知道跑到哪里去了……,I don't know where he's run off to...,"...Не знаю, куда он убежал..."
+line-161,普罗旺斯,您别担心，不会有事的！,"Don't you worry, I'm sure he's just fine!","Не волнуйтесь, с ним всё будет хорошо!"
+line-163,罗德岛外勤干员,（老人家还养了羽兽吧，那个棚也基本上塌完了，不剩什么了。）,"(Looks like they also raised fowlbeasts here. The coop has collapsed, and there's nothing left.)","(Кажется, они ещё держали пернатых. Клетка тоже почти полностью разрушена — ничего не осталось.)"
+line-165,普罗旺斯,（唉……）,(*Sigh*...),(Эх...)
+line-167,普罗旺斯,奶奶，您孙孙可真有口福呀，我看那边还有羽兽棚，我也很喜欢吃羽兽蛋呢。,"Granny, your grandson must've been real lucky. Is that a fowlbeast coop I see over there? I love me some fowlbeast eggs!","Бабушка, вашему внучку, наверное, очень повезло — я вижу там клетку для пернатых. Я очень люблю яйца пернатых."
+line-169,老奶奶,是吗……？哎呀……小羽兽……油黄的……,Is that so... Oh my... little fowlbeasts... golden and shiny...,"Правда...? Ох... маленькие пернатые... жёлтые, блестящие..."
+line-170,老奶奶,……蛋也应该……都碎了吧……,The eggs... are probably crushed now...,"...Яйца, наверное, тоже... все разбились..."
+line-171,老奶奶,有的话，你们要尝尝……,If there are any left... you can try some...,Если остались — вы их попробуйте...
+line-173,罗德岛外勤干员,老人家，没事儿！以后有的是机会，到时候吃也不迟！,"Don't worry, it'll be fine! I'm sure we can have some later!","Не беспокойтесь, бабушка! Будет ещё случай, не сейчас так потом!"
+line-174,罗德岛外勤干员,您可是我们今天救的第三十个人啦，我们刚才在另一个地方，挖开了一整座房子，救出来一大家子人……,"You're the 30th person we've rescued today. We just dug through an entire house somewhere else, and rescued a whole family...","Вы сегодня тридцатый человек, которого мы спасли. Мы как раз в другом месте разобрали целый дом и вытащили всю семью..."
+line-176,老奶奶,嗯……嗯……,Mm... Mm...,Мм... Мм...
+line-178,普罗旺斯,（扫描好了吗？）,(Is the scan done yet?),(Сканирование готово?)
+line-180,罗德岛外勤干员,（给你。）,(Here you go.),(Держи.)
+line-181,罗德岛外勤干员,（下陷得严重吗？）,(Is the sinking severe?),(Сильно просело?)
+line-183,普罗旺斯,（……很乱。）,(...It's messy.),(...Всё запутано.)
+line-184,普罗旺斯,（从这里看已经下陷了，但是房子那边还没垮，估计是这底下土层不一样，这片地形很……复杂，地震波传过来，又被地形结构反射了。）,"(The sinking's already begun over here, but the other side of the house hasn't collapsed. Probably a different soil layer. The terrain here is... complex. The seismic waves were reflected by its shape as they passed through.)","(...Здесь уже просело, но та сторона дома ещё не обвалилась. Видно, грунт другой. Почва здесь... сложная. Сейсмические волны отразились от рельефа.)"
+line-185,普罗旺斯,（整个房子扭住了，要拆这面的话那边失去支撑也会塌，肯定不行。）,"(The whole house is twisted, and if this side is demolished, the other will lose its support and collapse. It's not an option.)",(...Весь дом перекосил. Если разбирать эту сторону — другая лишится опоры и рухнет. Нельзя.)
+line-186,普罗旺斯,（难道要先把那边在保证稳定的情况下拆掉再来清这里吗？）,"(Do we seriously have to dismantle and clear out the other side first, just to ensure stability?)","(...Неужели сначала надо разобрать ту, обеспечив устойчивость, а уже тут чистить?)"
+line-188,罗德岛外勤干员,（……时间上怕是……）,(Do we have time for that...?),(Успеем ли мы...)
+line-190,普罗旺斯,（肯定来不及，而且我们只有两个人，根本做不到。）,(Not a chance in hell. It's too big of a job for just the two of us anyway.),(Нет времени. И нас всего двое — не справимся.)
+line-192,普罗旺斯,（先安抚下老人吧……想想办法，先把能活动的部分清开，说不定有办法。）,"(We'll have to talk the old lady through it first, but... if we clear out what we can and think on our feet, there might still be a way.)","(Сначала успокоить старушку... Но... если разобрать то, что можно, и подумать на ходу — может, найдётся выход.)"
+line-194,罗德岛外勤干员,呼……呼……嘿呀……,Huff... Huff... Ugh...,Фух... фух... ну...
+line-195,罗德岛外勤干员,奶奶，您见过鲁珀吗？,"Ever seen a Lupo before, Granny?","Бабушка, вы видели лупо?"
+line-196,罗德岛外勤干员,我们把上面的搬开，再清理一下，您就能出来了！,"We'll remove the stuff on top first, clean up a little, and get you out of there!","Мы уберём всё сверху, расчистим немного — и вы сможете выйти!"
+line-197,罗德岛外勤干员,是紫色的鲁珀哦，还有着长长的大尾巴！,"Then you'll get to see a purple Lupo with the biggest, bushiest tail there is!","Это фиолетовый лупо, с огромным пушистым хвостом!"
+line-199,普罗旺斯,对！等您出来了，您来摸摸我的尾巴，您肯定没见过这么大的尾巴！,"You know it! Once you're out, you can pat my tail! I bet you've never seen one as big as mine!",Да! Когда выйдете — потрогайте мой хвост! Такого большого вы точно не видели!
+line-201,老奶奶,嗯……嗯……,Mm... Mm...,Мм... Мм...
+line-202,老奶奶,……,......,...
+line-204,普罗旺斯,快点，老人等不了多久了。,"Hurry up, she can't hold out much longer.","Быстрее, старушка долго не продержится."
+line-206,罗德岛外勤干员,您先别睡！我的奶奶跟您年纪差不多大……我还想吃您做的羽兽蛋呢！,"Don't fall asleep just yet! You know, my grandma is about the same age as you... And I want to try some of those eggs too!",Не спите! Моя бабушка примерно такого же возраста... И я хочу попробовать ваши яйца пернатых!
+line-207,罗德岛外勤干员,能清走的活动碎石都清走了，我现在撬这个房梁，你看能稳住吗？,I've already cleared all the rubble that can be safely removed. Next I'll try propping up this beam. You think it'll be stable enough?,"Я убрала все камни, которые можно было. Сейчас подопру балку — думаешь, удержится?"
+line-208,罗德岛外勤干员,三、二、一、嘿！,"Three, two, one... Hup!","Раз, два, три — ну!"
+line-211,普罗旺斯,不行！这边立马就开始松动了！,No good! It's already starting to loosen!,Нет! Здесь всё сразу поехало!
+line-213,罗德岛外勤干员,那我试试这块！,Let's try over here then!,Тогда попробую тут!
+line-214,罗德岛外勤干员,我来撑中间，你去把那半边先敲掉，一半我能撑得住！,I'll hold up the middle. Head over and chip off that half while I support the other half!,"Я подержу середину, ты отбей ту половину, я одну выдержу!"
+line-216,普罗旺斯,好，坚持不住了要说。,"Alright, just tell me when you're reaching your limits.",Ладно. Если не выдержишь — скажи.
+line-218,罗德岛外勤干员,奶奶您别着急，我们……我们能救您出来的！,"Don't panic, Granny, we'll... we'll definitely to save you!","Бабушка, не волнуйтесь, мы... мы вас вытащим!"
+line-220,老奶奶,……,......,...
+line-222,普罗旺斯,最后一下，我要把它敲断了！,One more time! I'm going to knock down this section!,Ещё раз! Сейчас я её переломлю!
+line-224,罗德岛外勤干员,……嘿！！……所以您等下，等会儿出来，咱们去见您的小孙孙！,Nngh! So... just you wait! We'll go find your grandson once you're safe!,"Ну!.. Так... потерпи! Когда выйдешь, пойдём к твоему внучку!"
+line-226,普罗旺斯,撑住了！,Keep it steady!,Держи!
+line-227,普罗旺斯,奶奶，房梁已经清开一个了，您再坚持一下！,"We've already cleared one of the beams, Granny! Hang in there!","Бабушка, одну балку мы уже убрали. Держитесь ещё!"
+line-229,老奶奶,……,......,...
+line-231,普罗旺斯,坚持一下，坚持一下，这边的房梁……这边的房梁，我们把它挪开……,"Hang in there, hang in there... The beam over here, once it's cleared...","Держитесь, держитесь... балку здесь... балку здесь мы сейчас отодвинем..."
+line-233,老奶奶,……,......,...
+line-235,罗德岛外勤干员,奶奶？,Granny?,Бабушка?
+line-237,老奶奶,……,......,...
+line-240,普罗旺斯,您别睡！,Don't fall asleep!,Не спите!
+line-243,老奶奶,……,......,...
+line-244,老奶奶,……不成了……,I can't...,...Не могу...
+line-245,老奶奶,两天……不是，肯定……很久了……,Two days is... a pretty long time...,"Два дня... нет, наверное... давно уже..."
+line-246,老奶奶,……,......,...
+line-247,老奶奶,……我不中用……了……,Don't... worry about me...,...Я уже... не могу...
+line-249,罗德岛外勤干员,不行！！普罗旺斯你继续！,"No, don't say that! Keep going, Provence!","Нет!! Прованс, продолжай!"
+line-251,老奶奶,……,......,...
+line-252,老奶奶,我……,I...,Я...
+line-253,老奶奶,……,......,...
+line-254,老奶奶,…………,.........,......
+line-256,普罗旺斯,……你还能听到下面的呼吸声吗？也很久没有回应了……,Can you still hear her breathing underneath? She hasn't responded for a while now...,...Ты ещё слышишь её дыхание? Она давно не отвечает...
+line-257,普罗旺斯,……,......,...
+line-258,普罗旺斯,已经很久了，停下吧。,It's been too long. Let's stop.,Прошло слишком много времени. Остановись.
+line-259,普罗旺斯,应该是已经……,She's probably already...,Она наверное уже...
+line-262,罗德岛外勤干员,不行，不可能！不可能！！,"No, no! No!","Нет, не может быть! Не может!!"
+line-267,罗德岛后勤干员,普罗旺斯小队？位置28，575附近发现幸存者，请速往实施救援。,"Provence squad? Survivors have been found near point 28, 575. Please hurry.","Группа Прованс? Это корабль? Найден выживший рядом с точкой 28, 575. Срочно приступайте к спасению."
+line-269,普罗旺斯,……新位置收到。位置1673，589，遇难者一名，深度约2.7米，需要大型器械对废墟进行拆除……,"...We've received new coordinates. 1673, 589. One victim, about 2.7 meters deep. Heavy equipment is needed to dismantle the rubble.","...Новые координаты приняты. Точка 1673, 589. Одна погибшая, глубина около 2,7 метра. Для разбора завалов нужна тяжёлая техника..."
+line-270,普罗旺斯,……我们这就去……嗯，我没事。,"We'll head straight there... Mhm, I'm fine.","Мы идём... Мм, со мной всё в порядке."
+line-271,普罗旺斯,……,......,...
+line-275,普罗旺斯,抱歉，抱歉，我们……我们还要去救其他人……,"I'm sorry, I'm so sorry. We're... We're going to rescue someone else.","Простите, простите. Мы... нам нужно спасти других..."
+line-277,罗德岛外勤干员,……,......,...
+line-279,普罗旺斯,斯弗，走吧，我们还有其他人要救……负责搜寻遇难者的小队过会儿会来。,"Let's go, Siv. We've got someone else to save. The team responsible for finding the casualties will come around later.","Сив, идём. Нам ещё кого спасать. Группа по поиску погибших подойдёт позже."
+line-280,普罗旺斯,……你还好吗？,Are you okay...?,Ты в порядке...?
+line-282,罗德岛外勤干员,啊！！,Aaaaaaaaargh!!,Ааа!!
+line-283,罗德岛外勤干员,啊——,Aaaaaagh!,Аа—!
+line-290,普罗旺斯,你停下！你又不擅长——,Stop it! You're not good at—,Стой! Ты же не умеешь—
+line-292,罗德岛外勤干员,啊——！！,Aaaaaaaaargh!!,Аа—!!
+line-293,罗德岛外勤干员,……我要把她挖出来！,I'm going to dig her out!,...Я её выкопаю!
+line-301,罗德岛外勤干员,哈……哈……,*gasp*... *gasp*...,Ха... ха...
+line-302,罗德岛外勤干员,呃……,Urgh...,Ой...
+line-304,普罗旺斯,停下，斯弗！你这样就只是单纯地损害自己的健康，对谁都没有用，我们还有很多人要救！,"Stop, Siv! You're only destroying your own health, and it's not helping anyone! There are still so many more people to save!","Стой, Сив! Ты только портишь себе здоровье, и это никому не поможет! Нам ещё многих спасать!"
+line-306,罗德岛外勤干员,……不行！我还要——,No! I have to—,...Нет! Я должен—
+line-308,罗德岛外勤干员,啊——,Aaaaaagh!,Аа—
+line-310,普罗旺斯,我说，停下！！,"I told you, stop!",Я сказала — стой!!
+line-311,普罗旺斯,你还要什么？你还要把自己也耗死在这里？你现在再做什么，也改变不了现状，你不能为了一个已经失去生命的人再损耗自己！,What more do you want?! Are you going to sacrifice yourself here? Nothing we do will change the situation! Don't sacrifice yourself for someone who's already dead!,"Что тебе ещё нужно? Ты хочешь сам здесь умереть? Что бы ты ни делал — ситуацию не изменить. Не жертвуй собой ради того, кто уже мёртв!"
+line-312,普罗旺斯,我们还有其他人要救，在此之前，保证你自己的状态！,"We still have others to save! And until we do, your own life takes priority!","У нас ещё люди! И пока мы их не спасли, твоя жизнь — в приоритете!"
+line-314,罗德岛外勤干员,……,......,...
+line-316,普罗旺斯,该走了！我们不能再晚到一步。,"We need to go, now! We can't afford to fall behind!",Пошли! Мы не можем опаздывать ещё раз.
+line-318,罗德岛外勤干员,……,......,...
+line-320,普罗旺斯,负责搜寻遇难者的小队过一会儿就会来的，等那之后我们去问老人的下落，好吗？下一个人还在等着我们。,"The team searching for casualties will be here soon. We'll ask where the old lady ended up later, okay? There's someone else waiting for us.","Группа по поиску погибших скоро придёт. Мы потом узнаем, куда делась старушка, ладно? Там ждут другие."
+line-321,普罗旺斯,之前有人对我说过，如果想要救更多的人，首先要保证你自己的生命。,"Someone once told me that to save more people, you must first protect your own life.","Кто-то мне говорил: чтобы спасти больше людей, надо сначала сохранить собственную жизнь."
+line-323,普罗旺斯,不管是要干什么事，首先重视你自己……生命的价值是一样的，你自己的也是。,"No matter what happens, you must always value your own life... All lives are equally important, including your own.","Что бы ни случилось, всегда цени себя... Все жизни равны, и твоя тоже."
+line-324,普罗旺斯,走吧，我们。,So let's go. Together.,Так пойдём. Вместе.
+line-326,罗德岛外勤干员,……,......,...
+line-327,罗德岛外勤干员,……好……,Okay...,...Хорошо...
+line-338,普罗旺斯,这里！这里也发现了一个！,Over here! Found another one over here!,Здесь! Здесь ещё один!
+line-340,普罗旺斯,您再坚持一下！马上就好了，抓住我的手！,"Hang in there a bit longer! Hold onto my hand, we'll have you out soon!","Держитесь ещё немного! Сейчас вытащим, возьмите меня за руку!"
+line-341,普罗旺斯,好了，救出来了！,"Alright, you're safe now!","Всё, вы свободны!"
+line-345,罗德岛外勤干员,您的家人？不要着急，看到前面那个帐篷了吗？所有人员都集中在那里，您先去那边看看！,"Your family? Don't worry, see that tent up front? All our personnel should be over there, so go take a look!","Ваша семья? Не волнуйтесь, видите ту палатку впереди? Все люди там, идите туда!"
+line-346,罗德岛外勤干员,有什么问题您和那边的干员说，他们都会帮您的！,"If you have any questions, you can talk to any of the operators there and they'll be glad to help you!","Если появятся вопросы — поговорите с оперативниками там, они вам помогут!"
+line-347,罗德岛外勤干员,不用担心！,Don’t you worry!,Не волнуйтесь!
+line-351,医疗干员,您放心，您放心，不需要您支付费用的……,"It's okay, calm down. I assure you, you won't have to pay for the treatment.","Не беспокойтесь, правда! Вам не нужно платить за лечение..."
+line-352,医疗干员,对，对，不会的，您安心在这里坐着不要再跑出去了……,"Yes, yes, I guarantee it. Just sit over there and don't go running off again.","Да-да, не нужно, сидите спокойно, только не убегайте опять..."
+line-353,医疗干员,不用紧张，您放心就好……,No need to be nervous. You'll be fine.,Не нервничайте. Всё будет хорошо...
+line-360,普罗旺斯,……,......,...
+line-362,罗德岛外勤干员,……,......,...
+line-364,普罗旺斯,……,......,...
+line-366,罗德岛外勤干员,……,......,...
+line-368,普罗旺斯,我累得一句话也不想说。,I'm too tired to even speak.,"Я так устала, что даже говорить не хочу."
+line-370,罗德岛外勤干员,我也不想。,Same.,Я тоже.
+line-372,普罗旺斯,……这儿安静，躺会儿，躺会儿，把石头拨拉开。,It's quiet here... Brush away the rocks and come lie down.,"...Здесь тихо. Ляг, разгреби камни, ляг..."
+line-374,罗德岛外勤干员,呃啊……啊……我的，腰……啊……,"Ugh... Ow ow ow, my waist... Ah...",Ой... ой... поясница... ах...
+line-375,罗德岛外勤干员,今天……我们救了多少个……？,How many... did we manage to save today...?,Сколько... сколько мы сегодня спасли...?
+line-377,普罗旺斯,……不知道……我感觉自己已经动不了了……,Dunno... I feel like I can't move a muscle...,"...Не знаю... Кажется, я уже не могу пошевельнуться..."
+line-379,普罗旺斯,……但是我真的觉得好奇怪。,But I still find it so weird...,...Но всё равно очень странно.
+line-381,罗德岛外勤干员,什么……？,What's weird?,Что...?
+line-383,普罗旺斯,我在想……这里是维多利亚境内，就算很偏，但这个镇子也不小了，也是有天灾信使的。,"I've been thinking... We're in Victoria, right? This place is pretty remote, but the town's not exactly small, and there was supposed to be a Catastrophe Messenger here.","Я всё думаю: мы же в Виктории. Пусть и глухой край, но городок не маленький, и вестник Катастроф у них был."
+line-385,罗德岛外勤干员,嗯。,Uh huh...,Мм.
+line-387,普罗旺斯,为什么还是会弄成这样？这种程度的天灾，再不明显，天灾信使也不该看不出来。,"So how did all this happen? No Catastrophe Messenger could've failed to detect a Catastrophe of this scale, even if it wasn't obvious.","Как же тогда случилось такое? Вестник не мог не почувствовать Катастрофу такой силы, даже если приметы были неочевидны."
+line-389,罗德岛外勤干员,……可能这里避灾做得不好吧……不知道了……,No idea... Maybe they skimped on the disaster avoidance procedures...,"...Может, плохо подготовились... Не знаю..."
+line-391,普罗旺斯,不对啊……这里受灾的情况不像是避灾做得不好，更像是……根本没有防备？,No way... What happened here wasn't just poorly done. It's more like... there were no efforts at all.,"Нет... Похоже, дело не в плохой подготовке, а в том, что... вообще ничего не было сделано?"
+line-392,普罗旺斯,所有人基本上都是在家里被压住的，如果他们知道天灾要来，不可能都还在家里。,Everyone was basically trapped in their homes. No way they'd be indoors if they knew a Catastrophe was coming.,"Почти все были засыпаны дома. Если бы знали, что идёт Катастрофа, не сидели бы все дома."
+line-394,普罗旺斯,这里难道有什么不能躲避天灾的奇怪信仰……？这也太说不过去了。,Maybe some kind of fringe belief about accepting Catastrophes...? None of it makes any sense.,"Может, у них какая-то странная вера, запрещающая укрываться от Катастрофы...? Не сходится всё это."
+line-396,罗德岛外勤干员,也有可能是单纯地没有相信天灾信使说的话吧……这种情况也有的吧？,"Maybe they just didn't believe what their Catastrophe Messenger had to say... That happens too, doesn't it?","Может, просто не поверили вестнику... Такое ведь бывает, да?"
+line-398,普罗旺斯,……也有过，我也遇到过不少这样的情况，但也不至于整个镇子的人都不相信才对……,"Yeah, it happens... and I've been there myself. But a whole town? Never.","Бывает, я и сама с таким сталкивалась. Но чтобы весь городок не поверил — такого не бывало..."
+line-400,普罗旺斯,唉……死太多人了……,Ugh... So many dead...,Эх... Слишком много погибло...
+line-405,？？？,……我哪能……不知道……谁……,...How could I... not know... who...,...Как я могла... не знать... кто...
+line-406,？？？,……现在……他们……,...Right now... they...,...Сейчас... они...
+line-407,？？？,……怎么……你……应该……？,...Why... you... should have...,...Почему... ты... должен...?
+line-409,罗德岛外勤干员,那边好像还有人？我叫他们一起来歇歇吧。,There are still people over there? I'll ask them to come rest with us.,Там ещё кто-то? Позову их отдохнуть с нами.
+line-411,罗德岛外勤干员,？,Huh?,?
+line-412,罗德岛外勤干员,（不是罗德岛的？）,(They're not with Rhodes Island?),(Не из Родоса?)
+line-414,普罗旺斯,（镇民吗？）,(Townsfolk?),(Мещане?)
+line-416,罗德岛外勤干员,（不知道，不像哎？镇民的话应该都在帐篷那里休息才对，他们跑这么远来这儿干什么？）,(Not sure. Doesn't seem like it? The locals should all be recovering in the tents. What are they doing all the way out here?),(Не знаю. Не похоже. Мещане должны быть в палатках. Что им здесь понадобилось?)
+line-418,普罗旺斯,（偷偷过去看看？）,(Should we sneak a peek?),(Подкрадёмся?)
+line-430,镇民,钱已经到手了，现在怎么办？,We already got the money. What now?,Деньги уже получили. Что теперь?
+line-431,天灾信使,*维多利亚粗口*，都是你说做戏做全套，谁会真在意天灾信使在天灾来的时候有没有在场“奋力疏散但力有不逮”，弄得我一身灰！,"Bloody hell! You're the one who said to put on a show and make it convincing! Who the hell would care if a Catastrophe Messenger wasn't at the site of the disaster? 'Struggled to evacuate everyone but couldn't make it in time' my ass, now I'm all covered in soot!","*викторианская брань*! Это ты предложил устраивать представление и делать его правдоподобным! Кого волнует, был ли вестник Катастроф на месте беды и «старался эвакуировать, но не успел»? А теперь я весь в копоти!"
+line-432,天灾信使,现在更麻烦了！箱子被埋在房子底下，钱啊！钱！钱现在被埋了！你去挖？,"Look at what happened! The box is buried under the house. Where's the money now, huh? Under a pile of bloody rubble, that's where! You gonna go dig it up?",Вот теперь проблемы! Ящик завален под домом. Где деньги? Под грудой обломков! Ты будешь их выкапывать?
+line-433,镇民,我……,I...,Я...
+line-434,镇民,……但是弄这么大动静，真的没事吗……？,Was it really okay to cause this big of a scene?,Но... устраивать такой шум — и правда ничего?..
+line-435,天灾信使,嘁，你现在说这些？现在才是我们跑的最好时机！外面都一片乱，赶紧的，把钱挖出来今晚就走！,"The hell are you talking about? Now's the best time for us to bounce! Everything's a bloody mess outside, so hurry up and dig out the money so we can leave by tonight!","Тьфу, ты сейчас про что? Сейчас лучший момент сбежать! Кругом хаос, так выкапывай деньги и уезжаем сегодня же!"
+line-436,天灾信使,换个国家隐姓埋名，这钱够花一阵子了，现在天灾这么多，赚钱路子不会少的~,"Change our names, leave the country. This money should last for a while, and with so many bloody Catastrophes everywhere, there'll never be a shortage of ways to make more.","Сменим имена, уедем в другую страну — этих денег хватит надолго. Катастроф теперь столько, что способов заработать не перечесть~"
+line-437,镇民,好吧……,Fine...,Ладно...
+line-438,天灾信使,别磨蹭了！去把箱子挖出来，我这一身灰，你还在指望我去干？,"So stop dilly-dallying and dig it up already! I'm covered head-to-toe in dust, and you expect me to do it?","Не тяни! Иди выкапывай ящик, я весь в пыли, ты что, думаешь, я полез?"
+line-443,罗德岛外勤干员,（他们……！）,(Those bastards...!),(Они...!)
+line-444,罗德岛外勤干员,（不是什么镇民不相信，是他们根本没和镇民们说会有天灾！）,"(It's not that the townspeople didn't believe it, they weren't even warned!)","(Дело не в том, что горожане не поверили — им вообще не сказали о Катастрофе!)"
+line-445,罗德岛外勤干员,（他们……害死了多少人！）,(They... got all those people killed!),(Они... погубили столько людей!)
+line-447,普罗旺斯,（等等，别冲动……！）,"(Wait, cool your jets!)","(Постой, не горячись...!)"
+line-450,罗德岛外勤干员,你们给我站住！,Hold it right there!,Стойте! Не уходите!
+line-452,镇民,你是什么人？！,Who the hell are you?!,Кто вы?!
+line-453,天灾信使,这身制服……是那个什么救助组织的……,That uniform... From that rescue organization...?,Эта форма... из той спасательной организации...?
+line-455,罗德岛外勤干员,我是什么人不重要，但你们不能就这么离开！,"It doesn't matter who I am, but you're not getting out of here!",Кто я — не важно. Но вы не уйдёте!
+line-456,罗德岛外勤干员,玩忽职守，你这样也配当天灾信使吗？！,Dereliction of duty! And you call yourself a Catastrophe Messenger?!,Халатность! И ты называешься вестником Катастроф?!
+line-458,天灾信使,……,......,...
+line-459,镇民,这小子不会听到了什么吧？不能让他把事情说出去……！,Think this kid overheard us? We can't have him spilling the beans!,Молодчик не подслушал ли что? Нельзя давать ему разгласить...!
+line-461,普罗旺斯,……唉。,*Sigh*...,...Эх.
+line-464,普罗旺斯,普罗旺斯小队。本舰吗？位置683，447，请求外勤小队支援。,"Provence squad here. Is this the landship? Requesting field op support at 683, 447.","Группа Прованс. Это корабль? Координаты 683, 447, просим подкрепления полевых оперативников."
+line-466,普罗旺斯,我们的目的是拦住他们……别做得太过火了。,Our goal is just to detain them... Don't go overboard.,Наша цель — задержать их... Не заходите слишком далеко.
+line-475,罗德岛外勤干员,普罗旺斯，调查那边给结论了……,"Provence, we finished our investigation...","Прованс, расследование закончили..."
+line-476,罗德岛外勤干员,……,......,...
+line-478,普罗旺斯,怎么了，看你表情不太好？,What's wrong? You don't look so good.,Что случилось? У тебя нехорошее лицо.
+line-484,罗德岛后勤干员,是这样的，之前发生的事你们都知道了。,"So, you're already aware of what happened.","Дело в том, вы уже знаете, что произошло."
+line-485,罗德岛后勤干员,现在的问题是，天灾信使给贵族上报天灾会来，如今天灾真的也来了，唯一的差错是死了很多原本应该已经去避难的人。,"Here's the rub: the Catastrophe Messenger DID report this... to the nobles. If that's true, the only error is that many people who should've been taking refuge died instead.","Проблема в том, что вестник Катастроф ДЕЙСТВИТЕЛЬНО доложил дворянам о грядущей Катастрофе, и Катастрофа ДЕЙСТВИТЕЛЬНО пришла. Единственный сбой — погибло много людей, которые должны были уже укрыться."
+line-486,罗德岛后勤干员,但是你们也知道，贵族……只要还有人活着，能让他们继续收税，就不会在意那些死去的人……,"But as you know, nobles... don't exactly care about human lives, as long as there are enough left to collect taxes from.","Но вы знаете, дворяне... пока есть кто платить налоги, им нет дела до мёртвых..."
+line-487,罗德岛后勤干员,那两个人在贵族那边，凭着关系递递钱搞不好连起诉都不会有。,"And these two scumbags are on the nobles' side. If they grease the right palms, they might even be spared from legal action.",А эти двое — на стороне дворян. Стоит им подсунуть денег — и дела могут не возбудить.
+line-488,罗德岛后勤干员,我们后天一早就要离开，这次停留只是提供一次救援行动，我们没有时间去插手这个天灾信使后续的审判流程。,"We're leaving the day after tomorrow, first thing in the morning. We only stopped here for the rescue operation, and we don't have the luxury of getting involved in some drawn-out court case.","Мы уезжаем послезавтра утром. Мы здесь только ради спасательной операции, у нас нет времени вмешиваться в судебную тяжбу по этому вестнику."
+line-490,普罗旺斯,……所以你是说，这事儿可能就这样过去了？有可能得不到好的结果，你是在让我放弃？,"...So you're saying that's it? We should just give up, because there's a chance we might not get the outcome we want?","...Так ты говоришь, что всё может так и сойти с рук? Что мне стоит сдаться, потому что результат может оказаться не таким, как я хочу?"
+line-492,罗德岛后勤干员,不是……不是要让你放弃。,No... That's not what I'm saying.,"Нет... Я не говорю, что ты должна сдаться."
+line-493,罗德岛后勤干员,我感觉我好像个坏人……,Why do you have to make me feel like the bad guy here?,Ты заставляешь меня чувствовать себя плохим...
+line-495,罗德岛外勤干员,我是真的不想听你把这些话再说一遍了……,I REALLY don't want hear that from you.,Я правда не хочу снова это слушать...
+line-496,罗德岛外勤干员,那些人原本是不用死的，那些人原本是一个也不用去死的！我、我……,"There was no need for any of those people to lose their lives. Not a single one should've died! I, I...","Этим людям не нужно было умирать. Ни одному не нужно было! Я, я..."
+line-498,罗德岛后勤干员,……,......,...
+line-500,罗德岛外勤干员,我觉得起诉他是一回事，但是我真的亲眼看到了那些人……那些完全可以不用去死的人……,"Suing them is one thing, but I've seen their victims with my own eyes... Those people who should not have died...","Возбудить дело — одно дело, но я видела этих людей своими глазами... Тех, кто не должен был умереть..."
+line-501,罗德岛外勤干员,我们就这样走了，想让他们偿命几乎是不可能的？,"If we just walk away, how are we supposed to make those bastards pay for this? For all the lives they snatched away?","Если мы просто уйдём, как мы заставим их заплатить за эти жизни?"
+line-503,罗德岛后勤干员,是这样……但我们仍然还是会提起诉讼的。,I get where you're coming from... But we'll still be bringing a case against them.,Я понимаю... Но мы всё равно возбудим дело.
+line-504,罗德岛后勤干员,我们已经整理好了材料，只是最后的结果真的不好说，我们也无法等那么久，为的只是明知结果可能不如意但依然去干涉。,"We've already prepared the documents, but there's no telling what the result might be. And we can't afford to wait either, just for the sake of intervening in a process that we're far from sure will produce a favorable outcome.","Мы подготовили бумаги, но предсказать исход невозможно. И мы не можем ждать только ради того, чтобы вмешаться в тяжбу, исход которой нам заранее неизвестен."
+line-506,罗德岛外勤干员,……所以你在让我们不要对这件事寄予太多的希望吗……,So you're telling us to not get our hopes up...,"...Так ты говоришь, чтобы я не возлагала слишком много надежд..."
+line-507,罗德岛外勤干员,……是我一开始把事情想得太简单了。,I suppose I've been naive about this from the start.,...Я с самого начала всё поняла слишком просто.
+line-508,罗德岛外勤干员,……,......,...
+line-509,罗德岛外勤干员,那提起诉讼还有什么用？反正他们也不会偿命，交点钱就能逃得掉，对他们来说无关痛痒，反而显得我们太傻了。,"What's the point of even filing it then? Forget the death penalty, they'll probably get away with a small payment and a slap on the wrist. It'll mean nothing to them, and make us look like fools.","Тогда зачем вообще подавать? Всё равно не казнят, отделаются штрафом, им и горя мало, а мы выглядим дураками."
+line-510,罗德岛外勤干员,*粗口*，都白死了，嘁。,"Damn it all! All those people, dying for nothing!","*брань*, все умерли зря, тьфу."
+line-517,罗德岛后勤干员,唉……,*Sigh*...,Эх...
+line-518,罗德岛后勤干员,……确实不好受。,I know it's a bitter pill to swallow.,"...Горько, знаю."
+line-520,普罗旺斯,……别想太多，我们只要做自己能做的。,Let's not overthink this and focus on what we CAN do.,"...Не задумывайся слишком. Будем делать то, что можем."
+line-521,普罗旺斯,把资料给我吧。是后天一早走对吗？,"Let me see those documents. We're leaving the morning after, right?","Дай мне документы. Мы уезжаем послезавтра утром, верно?"
+line-523,罗德岛后勤干员,大概十点左右。,Around 10 AM.,Примерно в десять.
+line-525,普罗旺斯,好。,Alright.,Хорошо.
+line-526,普罗旺斯,后天我先不跟着本舰走了。,I won't be leaving with you then.,Послезавтра я не поеду с кораблём.
+line-528,罗德岛后勤干员,……您要干什么？,What will you do...?,...Что ты собираешься делать?
+line-530,普罗旺斯,做我该做的……做我能做的。,Only what I should do... What I can do.,"То, что должна... То, что могу."
+line-544,普罗旺斯,您好，请问您是这里的法官吗？我是罗德岛干员普罗旺斯——,"Excuse me, sir, are you the judge here? I'm Provence, Rhodes Island Operator—","Здравствуйте, вы здесь судья? Я — Прованс, оперативник Родоса—"
+line-546,本地法官A,——别来烦我！,—Don't bother me!,—Не трогай меня!
+line-547,本地法官A,看不到我在这里修房子吗？！,Can't you see we're busy with repairs here?!,"Не видишь, я тут ремонтирую?!"
+line-549,普罗旺斯,是这样，我们这里有一件事想——,"I know, but it's really important and—","Дело в том, мы тут кое-что—"
+line-551,本地法官A,都说了别来烦我！,I told you not to bother me!,Сказано — не трогай!
+line-553,普罗旺斯,我……唉……,I... Eh...?,Я... Эх...
+line-562,普罗旺斯,您好，有人在吗？我是罗德岛干员普罗旺斯。,"Hello, is anyone here? I'm Provence, Rhodes Island Operator.","Здравствуйте, кто-нибудь дома? Я Прованс, оперативник Родоса."
+line-566,普罗旺斯,您好？,Hello?,Алло?
+line-571,普罗旺斯,没人在吗……,"Nobody's in, huh...",Никого нет...
+line-576,？？？,她走了。这种时候就不要乱开门！不知道有什么事……晦气！,She left. Don't open the door for strangers at times like these! You never know what kind of misfortune you might invite!,Она ушла. В такое время не надо открывать дверь незнакомцам! Мало ли что... Нечисто!
+line-587,普罗旺斯,您愿意开门，实在是太感谢了，这个是罗德岛关于这回天灾的文件，我们想拜托您受理天灾信使维伦的……,Thank you so much for letting me in. These are Rhodes Island's documents regarding the Catastrophe. We wanted to file an action against the Catastrophe Messenger Whelan...,"Спасибо, что открыли. Это документы Родоса по этой Катастрофе. Мы хотели бы подать иск против вестника Катастроф Уилана..."
+line-593,普罗旺斯,啊！,Ah!,А!
+line-594,普罗旺斯,……,......,...
+line-602,本地法官B,提起诉讼？我？天灾信使这事应该去上报高等法院，由他们去……,"File for legal action? With me? Matters concerning Catastrophe Messengers should be brought to the High Court, and it's up to their discretion whether to...","Подать в суд? Мне? Дела вестников Катастроф должны идти в Высокий суд, и это им решать, стоит ли..."
+line-604,普罗旺斯,我知道，但您先别拒绝我！拜托您先来看看这份文件可以吗？,"I know, I know, but can you hear me out first? Just take a look at these documents, please!","Я знаю, но выслушайте меня! Взгляните хотя бы на документы, прошу!"
+line-606,本地法官B,……我先看一下。,...I suppose I can do that.,"...Ладно, посмотрю."
+line-611,普罗旺斯,……是这样的。现在他们两个人都在罗德岛，但我们没有权力关他们太久，而且后天我们就要离开……,"So there's the situation. We're holding two of them at Rhodes Island for now, but we don't have the right to detain them indefinitely. Besides, we're leaving the day after tomorrow.","Вот в чём дело. Сейчас они оба в Родосе, но мы не имеем права держать их долго. Послезавтра мы уезжаем..."
+line-612,普罗旺斯,如果交给高等法院，贵族有可能根本不会提起上诉，文件里面也提到了，他们的事可能会不了了之。,"If this is turned over to the High Court, the nobles might just refuse to even hear it. This is brought up in the documents as well—the case may well be left without a conclusion.","Если отдать в Высокий суд, дворяне могут просто отказаться рассматривать. В документах тоже сказано: дело может остаться без решения."
+line-613,普罗旺斯,利用天灾赚取钱财，轻视人命，明知天灾的恐怖程度却故意没有通知人们，这不是一个只有一点恶意的人能做出来的事！,"Exploiting Catastrophes to make money, trampling over peoples' lives, knowing the horrors to come yet deliberately not informing people—only truly vile people would do these things!","Наживаться на Катастрофе, презирать человеческие жизни, зная об ужасе, но скрывая это от людей — на такое способен не человек с каплей злобы в душе!"
+line-614,普罗旺斯,这场灾难对他来说就只是一个赚钱手段，如果不能在能控制的地方用法律惩罚他，不知道他又会在什么地方去谋害更多人的性命……,"To him this was simply a way to make money. If he cannot be punished under the law, in a situation we can control, who knows how many more murders he will go on to commit?","Для него эта беда — просто способ заработать. Если здесь, где мы можем контролировать ситуацию, его не накажут по закону — кто знает, сколько ещё людей он погубит..."
+line-616,本地法官B,我明白了……,I understand.,Я понял...
+line-617,本地法官B,只是……就算我在本地立案，向上级递交之后，也可能迫于一些原因最终不得不……,"But... even if I do file the case at the local level, once it's submitted up the chain, it may inevitably end up...","Только... даже если я возбужу дело здесь, после передачи наверх оно может по тем или иным причинам закончиться..."
+line-619,普罗旺斯,我会去和镇民们说的！我会去联络本地的镇民们，或者是其他镇子的人们，我会处理好这些的！,"I'll inform the townspeople! I'll get in touch with the locals, and even people from neighboring towns! I'll take care of all that!",Я поговорю с горожанами! С жителями этого городка и соседних — я всё устрою!
+line-621,本地法官B,好吧……,Fine...,Ладно...
+line-622,本地法官B,那，我会努力的。现在这个情况……大概半个月后我可以向上级法院申请转交受理的。,"Alright, I'll see what I can do. Given the situation... I can apply for a higher court to accept the case after about half a month.","Что ж, постараюсь. В сложившихся обстоятельствах... примерно через полмесяца я смогу ходатайствовать о передаче дела в вышестоящий суд."
+line-624,普罗旺斯,好，真的非常感谢您，塔尔先生！我这就去把他们交给治安员，拜托了，一旦有了后续结果，请一定通过信使告知我！,"Thank you so much, Mr. Tal! I'll go hand the culprits over to a security guard. Please, send me a Messenger as soon as you get a follow-up!","Спасибо вам, господин Таль! Я сейчас отведу их к стражнику. Пожалуйста, сообщите мне, как только появятся новости — пошлите курьера!"
+line-637,普罗旺斯,这里就是获救镇民们的临时避难地点了……,Here's the temporary shelter for the townspeople we rescued...,Вот временное убежище для спасённых горожан...
+line-638,普罗旺斯,大家，打扰一下，我有些话想说！,"Sorry for bothering you, everyone, but I have an announcement to make!","Простите, все, у меня есть объявление!"
+line-640,镇民A,什么事儿？,What's the matter?,В чём дело?
+line-641,镇民B,哦，是这个紫色的小姑娘！就是她和一个小伙子救的我！,"Oh, it's the purple lass! She rescued me with one of her buddies!","О, это та девушка с фиолетовым хвостом! Она и один парень меня спасли!"
+line-643,普罗旺斯,我是一名天灾信使，也是参与这场救援行动的一名罗德岛干员。这场地震是一场天灾，但是负责这片区域的天灾信使，并没有通知你们！,"I am a Catastrophe Messenger and one of the Rhodes Island operators involved in the rescue operation. The earthquake was indeed a Catastrophe, but the local Catastrophe Messenger failed to inform you!","Я — вестник Катастроф и одна из оперативников Родоса, участвовавших в спасении. Землетрясение было Катастрофой, но вестник Катастроф этого района не предупредил вас!"
+line-645,镇民B,什么？,What?,Что?
+line-647,普罗旺斯,他利用天灾，利用你们的命，换了一笔钱，昨天准备携款逃跑！,"Instead, he took advantage of it—and your very lives—to make money. Yesterday, he was going to flee with the cash in hand!","Он использовал Катастрофу, использовал ваши жизни, чтобы раздобыть денег, и собирался сбежать с ними вчера!"
+line-649,镇民A,什么？！,What?!,Что?!
+line-650,镇民A,他现在在哪！,Where is he now?!,Где он сейчас!
+line-651,镇民A,我们要杀了他！,We'll kill the bastard!,Убьём его!
+line-653,普罗旺斯,塔尔法官会负责审查这起案件，只是，贵族们可能会让这个案子不了了之，让那两个人逃脱法律的惩罚，所以，我想拜托大家——,"Judge Tal will be reviewing the case, but the nobles may let it go unresolved in order to help the two criminals escape the reach of the law. Therefore, I would like to ask this of all of you—","Судья Таль будет рассматривать это дело. Но дворяне могут свести его на нет, чтобы двое преступников ушли от ответа. Поэтому я хочу попросить вас—"
+line-654,普罗旺斯,能否联合起来，一起让贵族不去插手这个案件？,Can we work together to keep the nobles from interfering in this case?,Можем ли мы объединиться и не дать дворянам вмешаться в это дело?
+line-656,镇民A,行！姑娘，你们是我的救命恩人，你说什么，我们就跟着你去做！,"Alright! You saved my life, lassie. Whatever you say, we're behind you!","Да! Девочка, вы спасли мне жизнь — что бы вы ни сказали, мы за вами!"
+line-657,镇民B,但是，怎么可能……贵族怎么会听我们的？,But how is that even possible...? How can we get the nobles to listen to us?,Но... как это возможно? Разве дворяне станут нас слушать?
+line-658,镇民A,姑娘！我们人会不会不够啊！,Lass! Do you think we'll have enough people?,Девочка! Нас и правда хватит?!
+line-660,普罗旺斯,如果加上其他镇子的人们呢？,What if I recruited people from other towns too?,А если привлечь людей из других городков?
+line-662,镇民B,姑娘……也不是不行，但他们估计不太好劝啊！,Maybe... but even that might not be enough to persuade the nobles!,"Девочка... может, и так, но их непросто уговорить!"
+line-663,镇民A,对啊，他们没有理由帮我们啊！,Yeah. When have they ever lifted a finger for us?,"Да, им нет дела до нас!"
+line-665,普罗旺斯,我……我会去做的！,I... I'll do whatever I can!,Я... я сделаю это!
+line-674,普罗旺斯,这里就是镇中心了。,This is the center of town.,Вот центр городка.
+line-676,普罗旺斯,您好，打扰一下，我是隔壁镇子的……,"Hello? Excuse me, I'm from the next town over...","Здравствуйте, простите, я из соседнего городка..."
+line-678,镇民A,谁啊，忙着呢，走开！,"What? I'm busy right now, so scram!","Кто там? Я занят, иди отсюда!"
+line-680,普罗旺斯,隔壁镇子因为天灾……,The neighboring town was just hit by a Catastrophe...,В соседнем городке из-за Катастрофы...
+line-682,镇民A,天灾！我们这里也有啊，半个镇子都震塌了，你以为我们没有啊？,"Catastrophes, huh? Yeah, we get plenty around here too! Lost half the town to one. Thought we'd never seen one before?","Катастрофа? У нас тоже была — половина городка разрушена. Думаешь, мы не знаем, что это такое?"
+line-684,普罗旺斯,所以本来是可以避免的，但是那里的天灾信使他——,"I know! And they can be avoided, but because of the Catastrophe Messenger—","Так вот же, её можно было избежать, но вестник Катастроф—"
+line-686,镇民A,好了可以了，都说了忙着呢！,"Whatever, I've heard enough. I told you, I don't have time for this!","Хватит, хватит, я же сказал — я занят!"
+line-692,普罗旺斯,……,......,...
+line-706,普罗旺斯,您好，隔壁镇子因为天灾信使的瞒报损失惨重，我们希望您能够支持我们，让贵族不去插手这起案件……,"Excuse me, the neighboring town suffered a terrible tragedy because their Catastrophe Messenger hid the truth from them. We hope you can support us in preventing the nobles from interfering with the case...","Простите, из-за сокрытия Катастрофы вестник соседнего городка нанёс ему большой ущерб. Мы надеемся, вы поддержите нас и не дадите дворянам вмешаться в это дело..."
+line-708,镇民B,这位姑娘，你是在和我讲笑话吗？,Is that supposed to be a joke? Where's the punchline?,"Девочка, вы шутите? Где тут смешного?"
+line-710,普罗旺斯,不是，我是真心的！我们在准备向上提交这起案件，您或许……,"No, I'm serious! We're planning to escalate the case, so if you're—","Нет, я серьёзно! Мы собираемся передать дело выше, и вы, может быть..."
+line-712,镇民B,别做梦了。,You wish.,Не мечтай.
+line-724,普罗旺斯,对，事情就是这样的……请问您，或许愿意支持我们吗？我们真的很需要您的帮助……,"Yes, so that's what happened... Please, are you able to help us? We really need all the help we can get...","Да, всё было именно так... Подскажите, вы сможете нас поддержать? Нам очень нужна ваша помощь..."
+line-725,普罗旺斯,真的非常感谢您！这是我的联络方式，大约半个月后我会来联络您的！,Thank you so much! Here's my contact information; I'll be reaching out in about half a month!,Огромное спасибо! Вот мои координаты. Примерно через полмесяца я с вами свяжусь!
+line-727,普罗旺斯,拜托了！,Thank you so much!,Прошу!
+line-739,普罗旺斯,您好，或许……,"Hello, I was wondering...","Здравствуйте, может быть..."
+line-744,普罗旺斯,抱歉打扰了……,"Sorry to bother you, but...",Простите за беспокойство...
+line-749,普罗旺斯,真的非常感谢您，我会在半个月后左右再来联络您的！,Thank you so much! I'll be contacting you in about half a month!,Спасибо вам огромное! Я свяжусь с вами примерно через полмесяца!
+line-756,,四个月后,Four months later...,Четыре месяца спустя
+line-757,罗德岛信使,普罗旺斯！有你的信——,Provence! There's a letter for you!,Прованс! Тебе письмо!
+line-762,普罗旺斯,来啦！,Coming!,Иду!
+line-763,普罗旺斯,是谁给我寄信呢……,I wonder who'd be writing me...,"Интересно, кто бы мне писал..."
+line-767,,您好。\r\n\r\n我是塔尔，之前那个您救助过的小镇的法官。我在这里怀着激动的心情写下这封信，并盼望它能快些送到您的手上。,"Good day. \r\n\r\nThis is Tal, the judge from the town you helped out before. It is with great excitement that I write this letter to you, and I hope it reaches you soon.","Здравствуйте.\r\n\r\nЭто Таль, судья того городка, которому вы помогли. С большим волнением пишу я вам это письмо и надеюсь, что оно скоро дойдёт до вас."
+line-768,,维伦和他的同伙，在我们的努力下，已经被宣判了死刑。在写下这封信的第二天早上，他们就会在重建好的镇中心那里，被执行死刑。他们申请的那笔钱款，我们也用到了灾后的重建工作中，一切都在逐渐变好。,"Through our efforts, Whelan and his accomplice have been sentenced to death. They are to be executed in the rebuilt town square tomorrow morning, as of this writing. The blood money they applied for was used in the post-Catastrophe reconstruction, and things have been gradually improving.","Уилана и его сообщника благодаря нашим усилиям приговорили к смерти. Утром следующего после написания дня их казнят на отстроенной площади. Деньги, которые они выманили, мы направили на восстановление после Катастрофы. Всё постепенно налаживается."
+line-769,,另，镇民们让我向您问好。十分感谢您给我们提供的帮助，我们希望您和罗德岛都得到庇佑，一切平安。\r\n\r\n塔尔,"Also, the townspeople asked me to pass on their greetings. They are truly appreciative for everything you've done, and we wish the best for you and Rhodes Island. Bless you, and stay safe. \r\n\r\nTal","Ещё жители просили передать вам привет. Они глубоко благодарны вам за помощь, желают вам и Родосу всего доброго. Да хранит вас бог, берегите себя.\r\n\r\nТаль"
+line-773,普罗旺斯,……,......,...
+line-774,普罗旺斯,你看看这个。,Take a look at this.,Посмотри.
+line-776,罗德岛外勤干员,什么？,What?,Что?
+line-778,普罗旺斯,还记得那个地震的镇子吗？他们寄信过来了。,Remember that town that suffered an earthquake? They sent a letter.,"Помнишь городок, где было землетрясение? Они прислали письмо."
+line-780,罗德岛外勤干员,……,......,...
+line-784,罗德岛外勤干员,他们……他们真的……,They did it... They...,Они... они и правда...
+line-785,罗德岛外勤干员,真的做到了？,They really did it?,И правда добились?
+line-787,普罗旺斯,……嗯，他们做到了。,Yeah... They really did it.,...Да. Они добились.
+line-789,罗德岛外勤干员,真的？真的判刑了？,Really? They got the sentence?,Правда? Их приговорили?
+line-790,罗德岛外勤干员,我，呜……,I... *sob*...,"Я, ой..."
+line-791,罗德岛外勤干员,我没想到，我本来以为绝对不可能来着，你……,"I never thought... I didn't think it was possible, but you...","Я не думала... я же думала, это невозможно, а ты..."
+line-793,普罗旺斯,瞧你脸都哭花了，快擦擦。,"Stop bawling your eyes out already. Here, a handkerchief.","Ну вот, расплакалась. Держи платок."
+line-795,罗德岛外勤干员,呜……呃，谢、谢谢。,"*sob*... Ugh, th-thank you...","Ой... э-э, спа-сибо..."
+line-796,罗德岛外勤干员,普罗旺斯，你那段时间一直没回舰，就是去忙这件事？,"Is this the reason you were away from the landship for so long, Provence?","Прованс, ты всё это время не возвращалась на корабль из-за этого?"
+line-798,普罗旺斯,差不多吧。稍微花了点时间……,"More or less. It wasn't quick, that's for sure...",Более-менее. Заняло это некоторое время...
+line-800,罗德岛外勤干员,我都不知道……我、我还在那儿消沉，你却……,"I never knew... I, I've been wallowing in misery, but you...","Я и не знала... Я всё это время была в отчаянии, а ты..."
+line-801,罗德岛外勤干员,……我真不争气。,I'm such a letdown.,...Я и правда слабая.
+line-803,普罗旺斯,别这么说，按理说，后续的事情确实不是我们能插手的。,"Don't say that. Practically speaking, we couldn't really intervene in what happened afterwards.","Не говори так. По сути, мы и не могли вмешаться в то, что было потом."
+line-805,普罗旺斯,这算是我的一点私心吧，没法就这么看着事情没个结果。,But call this my own selfishness. I just couldn't leave things hanging like that.,"Скажем, это моя личная прихоть. Я просто не смогла оставить всё без результата."
+line-807,普罗旺斯,虽说……现在有了结果，对于那些遭灾的人来说，也已经迟了……,And even if we did manage to secure some kind of justice... It's still too late for those who already suffered in the Catastrophe.,"Пусть результат и есть — для тех, кто пострадал от Катастрофы, он всё равно пришёл слишком поздно..."
+line-809,罗德岛外勤干员,……,......,...
+line-811,普罗旺斯,哎，不提这个了！之后有空，我们再去那个老奶奶的墓前一次吧。,"Ugh, but that's enough of that! Let's pay a visit to that Granny's grave some time.","Эх, хватит об этом! Сходим ещё раз к могиле той старушки, когда будет время."
+line-813,罗德岛外勤干员,……我想在老人家的碑前放一些黄色的石头，就当是她养的那些小羽兽……,I'd like to put some yellow rocks in front of her resting place... to remind her of all those little fowlbeasts she raised...,"...Я хочу положить на её могилу жёлтые камешки — пусть это будут те самые маленькие пернатые, которых она растила..."
+line-815,普罗旺斯,嗯，就这么办吧。老奶奶一定会高兴的。,"Mhm, let's do that then. I'm sure she'd be happy.","Мм, давай так. Старушка наверняка обрадуется."

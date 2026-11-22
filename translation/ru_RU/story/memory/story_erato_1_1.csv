@@ -1,0 +1,330 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_erato_1_1,英雄们的叙事诗
+,,,,
+char-1,帕拉斯,帕拉斯,Pallas,Паллада
+char-2,埃拉托,埃拉托,Erato,Эрато
+char-3,？？？,？？？,???,???
+char-4,燧石,燧石,Flint,Флинт
+char-5,后勤干员,后勤干员,Logistics Operator,Оперативник логистики
+char-6,贾维,贾维,Chiave,Кьяве
+char-7,奥斯塔,奥斯塔,Aosta,Аоста
+char-8,Lancet-2,Lancet-2,Lancet-2,Lancet-2
+char-9,埃拉托&帕拉斯,埃拉托&帕拉斯,Erato & Pallas,Эрато и Паллада
+,,,,
+line-13,帕拉斯,咕咚，咕咚——,*glug* *glug*—,"*Глюп, глюп* —"
+line-15,帕拉斯,哈，美酒的芬芳，真令人陶醉。,"Hah, how intoxicating the aroma of fine wine is.","Ха, как же пьянит аромат хорошего вина."
+line-19,帕拉斯,开门，埃拉托小姐。,"Open up, Erato.","Отпирай, мисс Эрато."
+line-21,帕拉斯,埃拉托——你把自己关在里面也想不出来的，我建议你放弃。,Erato—you won't get anywhere even if you shut yourself inside. I suggest you give up.,"Эрато, запираясь изнутри, ты ничего не добьёшься. Советую сдаться."
+line-31,埃拉托,酗酒祭司，你太吵了。,"Everyone and their mother can hear you, you binge-drinking priestess.","Пьяный проповедник, тебя слышно за версту."
+line-33,帕拉斯,我是关心你，埃拉托小姐。,"I'm merely worried about you, Erato.","Я всего лишь беспокоюсь о тебе, мисс Эрато."
+line-35,帕拉斯,昨夜我徜徉美酒之时，偶然听到干员们的交谈，听闻你将自己关在宿舍里两天两夜。,"Last night, while I was enjoying my wine, by chance I overheard the conversation of a few operators. I heard you've locked yourself in your room for two full days and nights now.","Прошлой ночью, когда я предавалась вину, я невольно подслушала разговор оперативников и услышала, что ты уже двое суток заперлась в каюте."
+line-36,帕拉斯,身为祭司，我自然牵挂着你的情况。你看，清晨的日光才刚刚铺满窗沿，我就前来探望你了。,"As a priestess, naturally I am concerned. Look, the morning sunlight has only just reached your windowsill, and I am already come to visit.","Как жрица, я не могла не беспокоиться о тебе. Смотри: утренний свет едва лег на подоконник, а я уже пришла проведать тебя."
+line-38,埃拉托,探望我……你手上拎着的是什么？,Visit? ...What's that you're holding?,Проведать... А что это у тебя в руках?
+line-40,帕拉斯,佳酿。,Fine wine.,Отличное вино.
+line-42,埃拉托,米诺斯的群山啊，可否赐予我不被酒品奇差之人骚扰的恩泽？,"O Mountains of Minos, would you grant me your blessings, and keep those with poor taste in alcohol far away?","Горы Миноса, даруйте мне хотя бы избавление от назойливых людей с дурным вкусом к вину!"
+line-44,帕拉斯,你尚有讽刺的力气，新诗篇的创作一定很顺利吧？,"Seeing how you still have the strength for sarcasm, I take it your new poem is coming along nicely?","Если у тебя ещё хватает сил на сарказм, значит, новая поэма продвигается неплохо?"
+line-46,埃拉托,……你怎么知道我正在创作一部新的诗篇？,...How did you know I'm working on a new poem?,"...Откуда ты знаешь, что я пишу новую поэму?"
+line-48,帕拉斯,来到罗德岛之后，你已经游手好闲够久了……准备写点什么？,You've been idling about ever since your arrival in Rhodes Island... What are you planning to write?,"С тех пор как ты прибыла на Родос, ты довольно долго бездельничала... Что ты задумала написать?"
+line-50,埃拉托,一部长篇诗歌，讲述几位所长不同、性格各异的英雄，合力带领备受压迫的人们战胜困难，共同前往希望之地……大概是这样的故事。,"A long epic. One about a number of heroes with a variety of talents and personalities, who together lead the oppressed in their quest to triumph over their hardships and reach a land of hope... or something like that.","Длинную поэму о нескольких героях — с разными талантами и характерами, которые вместе ведут угнетённых к победе над невзгодами и в земли надежды... примерно так."
+line-52,埃拉托,然而在开始动笔时，我还是遇上阻碍了。,Sadly... writer's block.,"Но, взвшись за перо, я застряла."
+line-54,帕拉斯,一字未动？,Beset by a blank page then?,Ни строчки?
+line-56,埃拉托,胡说，我……至少写上了标题！,That's not true! I... I finished the title!,Неправда! Я... я хотя бы написала заглавие!
+line-57,埃拉托,在故事前期，我设想了三位英雄，分别是善战的勇士、天才的工匠和仁爱的医生……,"I had three heroes in mind so far: an adept warrior, a genius smith, and a gracious healer...","На начальном этапе я задумала трёх героев: воин, искусный в битве, гениальный ремесленник и сострадательный врач..."
+line-58,埃拉托,可由于搁笔太久，我对角色的理解已经生疏了，构思的故事缺乏真实感，角色形象难以建立……我需要更多的灵感。,"Maybe because it's been a while since I wrote, but I can't quite grasp the characters, and the story I had in mind is also lacking in realism. I'm finding it hard to establish their characters too... I need more inspiration.","Но из-за долгого перерыва я отвыкла от своих персонажей, задуманная история лишена правдивости, герои не складываются... Мне нужно больше вдохновения."
+line-60,帕拉斯,不如就像我们在故乡那样，一边痛饮美酒，一边畅叙诸山之间的英雄传说。,"Perhaps we can let the wine flow while we discuss these heroic legends, just like we do back home?","Может, поступим как дома: выпьем вина и поговорим о легендах о героях наших гор?"
+line-61,帕拉斯,酣醉之时，灵感便如树上熟透的果实一般任你采摘。,"And loosened by wine, surely you'll be plucking inspiration like apples from the tree of wisdom.",От вина развязывается язык — и вдохновение можно срывать спелыми плодами с дерева мудрости.
+line-63,埃拉托,请不要为你带酒上门找理由。,Please don't make up excuses to drink that wine you brought.,"Не выдумывай повод, чтобы выпить принесённое тобой вино."
+line-65,帕拉斯,翻阅典籍，或是外出采风？米诺斯的诗人们善用这些方法，你应当比我更清楚。,"Maybe leaf through some literature then, or take a stroll outside? No doubt you know the ways of the Minoan poets better than I.","Может, полистать книги или выйти прогуляться? Поэты Миноса как раз пользовались такими способами — ты знаешь их лучше меня."
+line-67,埃拉托,当然，我这不就准备出发去寻找英雄事迹了吗？,Of course. Can't you see I was getting ready to leave in search of heroics?,"Конечно. Разве ты не видишь, что я как раз собираюсь выйти искать героические подвиги?"
+line-69,帕拉斯,说起英雄事迹，除我们的故乡外，维多利亚与卡西米尔应该是合适的采风地，或许还有其他的选择。,"Speaking of heroics, aside from our homeland, Victoria and Kazimierz should both be wonderful places for inspiration too. Among your many choices.","Если речь о подвигах, то кроме нашей родины хорошими местами для поиска будут Виктория и Казимеж. Есть и другие варианты."
+line-71,埃拉托,不会跑这么远，我已经想好要去哪些地方了。,I won't be going anywhere that far. I already have a place in mind.,"Я не поеду так далеко. Я уже решила, куда пойти."
+line-72,埃拉托,闲聊还是下次吧，我得抓紧时间了。,Let's chat another time. I need to hurry.,Поболтаем в другой раз. Мне пора торопиться.
+line-74,帕拉斯,请留步。,Hold on.,Постой.
+line-76,埃拉托,还有事？,What else do you want?,Ещё что?
+line-78,帕拉斯,埃拉托小姐如何创作诗篇，我一直对此非常感兴趣。,I've always been very interested in how you write your poems.,"Мне всегда было очень интересно, как ты пишешь свои поэмы."
+line-80,帕拉斯,这是一次难逢的机会，若我想与你同行，你应该不会拒绝吧？,"Given how rarely such an opportunity presents itself, surely you wouldn't refuse if I proposed to join you on your journey?","Такой случай выпадает редко. Если я предложу пойти с тобой, ты ведь не откажешь?"
+line-82,埃拉托,跟上我。,"Fine, follow me.",Следуй за мной.
+line-96,埃拉托,这里就是我计划的第一站。,This is my first stop.,"Здесь первая остановка, которую я запланировала."
+line-98,帕拉斯,出乎意料，埃拉托小姐，原来你就没有计划离开罗德岛？,What a surprise. So you never even planned to leave Rhodes Island?,"Как неожиданно, мисс Эрато. Так ты и не собиралась уходить с Родоса?"
+line-100,埃拉托,当然啦，在本舰上就足够我寻找灵感了。,Of course not. There's more than enough inspiration on board.,Конечно. Мне и на самом корабле хватает вдохновения.
+line-101,埃拉托,说起善战的勇士，那必定是在训练室最容易遇上了！,"And when it comes to finding masterful warriors, where better than the training room?","А когда речь заходит об искусных воинах, где их искать, как не в тренажёрном зале!"
+line-112,埃拉托,是我们来太早了吗？似乎没有人在……,But did we come too early? There doesn't seem to be anyone here...,"Мы что, пришли слишком рано? Кажется, здесь никого нет..."
+line-116,？？？,哈，这拳如何？,Hah! How about that?,Ха! Какой удар!
+line-126,帕拉斯,有人在说话。,Someone's speaking.,Кто-то говорит.
+line-128,埃拉托,我也听到了——你好？,"Yes, I also have ears— Hello?",Я тоже слышу — здравствуйте?
+line-131,？？？,尝尝这拳！,Take this!,Попробуй этот удар!
+line-139,埃拉托,啊，是燧石小姐。,"Oh, it's Flint.","А, это Флинт."
+line-141,燧石,你是帕拉斯，还有你，你是……,You're Pallas. And... you're...,Ты — Паллада. А ты...
+line-143,埃拉托,……,......,...
+line-145,燧石,……,......,...
+line-150,燧石,你个子不高，也很少来训练场打架，我不记得你。,"You're not very tall, and you don't come to the training grounds often. I don't remember you.",Ты невысокая и редко приходишь драться на плац — я тебя не помню.
+line-152,埃拉托,我叫埃拉托，大部分时间都在出外勤任务，我们确实只有几面之缘。,I'm Erato. I spend most of my time on field operations. We've only met a few times.,"Я Эрато. Большую часть времени я в выездных операциях, так что мы и правда встречались считанные разы."
+line-154,燧石,好，你们好。,"Oh, hello.","А, привет."
+line-156,燧石,对了，埃拉托，要来打架吗？,"Right, Erato. Wanna fight?","Кстати, Эрато, хочешь подраться?"
+line-158,埃拉托,欸！怎么突然——,Huh?! What's with this all of a sudden?!,Эй! Почему вдруг —
+line-160,燧石,你不想打架，那算了。,"If you don't want to, then never mind.",Не хочешь — ладно.
+line-162,埃拉托,抱歉，我不擅长近身格斗，射箭的话倒是可以比试一下。,"Sorry. I'm not very good at melee combat, but maybe I can challenge you at archery.","Прости, я не сильна в ближнем бою. Могу разве что померяться с тобой в стрельбе из лука."
+line-164,燧石,没关系。,It's fine.,Ничего страшного.
+line-165,燧石,（转向沙袋）,(Turns back to the sandbag),(Поворачивается к груше)
+line-171,燧石,哈！,Ha!,Ха!
+line-178,帕拉斯,等待一下吧，这个时间，再过一会儿就会有其他干员前来。,"We'd best wait a little longer. Considering the time, there will be more operators here soon enough.","Подождём чуть дольше. Судя по времени, скоро здесь появятся другие оперативники."
+line-180,帕拉斯,埃拉托小姐？,Erato?,Мисс Эрато?
+line-182,埃拉托,虽然过去就听过燧石小姐很厉害，但战斗姿态的燧石小姐我还是第一次见到。,"I've heard about how strong Flint is, but this is the first time I've seen her fighting form in person.","Я и раньше слышала, что Флинт сильна, но впервые вижу её в бою."
+line-183,埃拉托,这矫健的身姿，凌厉的拳风……啊，这不就是我在寻找的……,"That valiant posture, those fierce blows... This is exactly what I am looking for...","Эта статная осанка, эти грозные удары... Да это же то, что я ищу..."
+line-184,埃拉托,燧石小姐，不，能征善战的勇士啊！你的经历一定非同凡响，我想要了解你的英雄事迹，能与我分享一二吗？,"Flint, no, O Warrior Adept! I wish to learn of extraordinary deeds, and surely a hero such as you has many to her name. Might you indulge me in one or two?","Флинт, нет — о, воин, искусный в битве! Твоя жизнь наверняка полна необычайных событий. Хочешь — расскажи мне пару своих подвигов?"
+line-186,燧石,英雄？我没见过什么英雄，你说的我听不懂。,"Hero? I don't really get anything else you just said, but I've never even seen a hero.","Герой? Я не знаю, что ты несёшь, но героев я в глаза не видела."
+line-187,燧石,你要这些什么……事迹有用吗？,And these 'deeds' you're talking about... what're they even good for?,А эти... «подвиги» тебе зачем?
+line-189,埃拉托,我正在寻找能给予我灵感的英雄事迹，为了帮助我创作出一部伟大的诗篇！,"I'm looking for heroic deeds as inspiration, to help me write my next epic!",Я ищу героические подвиги как вдохновение — чтобы написать великую поэму!
+line-191,燧石,哦，明白了，你是想要灵感。,"Oh, I see. You want inspiration.","А, поняла. Тебе нужно вдохновение."
+line-192,燧石,那你过来。,"Come here, then.",Иди сюда.
+line-197,埃拉托,嗯？,Hm?,Хм?
+line-199,燧石,过来，站这里。,Come. Stand here.,Иди. Стань вот здесь.
+line-200,燧石,这是沙袋，揍它。,This is a sandbag. Pound it.,Это груша. Бей её.
+line-202,埃拉托,啊……这样吗？,Uh... Like this?,А-а... вот так?
+line-207,燧石,力气太小了，使点劲。,That was too weak. Stronger.,Слишком слабо. Бей сильнее.
+line-209,埃拉托,这样？,Like this?,Вот так?
+line-214,燧石,还不够，再用力。,Still too weak. Try punching it harder.,Мало. Ещё сильнее.
+line-221,埃拉托,哈！疼疼疼……,Hah! Ow... that hurt...,"Ха! Ой, больно..."
+line-223,燧石,对，就是这样，你感觉到什么了吗？,"Yes, just like that! Did you feel anything?",Вот! Именно так! Что ты почувствовала?
+line-225,埃拉托,疼……,Pain...,Боль...
+line-227,燧石,还有呢？,And?,А ещё?
+line-229,埃拉托,没了……,Just pain...,Больше ничего...
+line-231,燧石,不可能，你没有感受到灵感吗？,No way. You didn't feel inspired?,Не может быть. Разве ты не почувствовала вдохновения?
+line-233,埃拉托,完全没有。,Not at all.,Совсем нет.
+line-235,燧石,真奇怪，我打拳的时候就会有很多灵感，比如说会突然想到，下一次可以佯攻面门而直击下盘。,"Weird. Whenever I'm sparring I get super inspired, like I'll suddenly think of a feint I can work into a low jab.","Странно. Когда я бью, у меня всегда рой идей. Вдруг я подумаю: в следующий раз можно сделать ложный выпад в лицо, а бить в низ..."
+line-236,燧石,任何麻烦应该都能用拳头来解决，我想想，应该是你打得太少了。,Any kind of problem should be solved with your fists. Maybe you just need more practice fighting.,"Любую проблему можно решить кулаками. Наверное, ты просто мало дерешься."
+line-238,燧石,来，再多打几拳。,"Come on, try it out a few more times.","Давай, попробуй ещё пару раз."
+line-240,埃拉托,先停一停……,"Wait, let's stop here...",Сначала остановись...
+line-243,后勤干员,燧石，燧石，你在里面吗？,"Flint? Flint, are you there?","Флинт, Флинт, ты там?"
+line-245,燧石,我在这里。,I'm here.,Я здесь.
+line-251,后勤干员,啊，埃拉托，帕拉斯，两位也在。,"Ah, Erato and Pallas are here too.","А, Эрато и Паллада тоже здесь."
+line-252,后勤干员,燧石，这是上一次外勤任务的赔偿清单，你好好看看。为了处理你出外勤留下的麻烦，后勤部又多了一大笔支出。,"Flint, take a good look at this list of compensation expenses incurred from your last field mission. Logistics racked up a huge bill settling the problems you left behind.","Флинт, приглядись к этому списку компенсаций за прошлую выездную операцию. Из-за беспорядков, которые ты учинила, логистика понесла крупные расходы."
+line-253,后勤干员,特别是这一项，你在任务报告中写的是：“因为那个高个子的家伙眼神凶恶地俯视我，我就把他打倒了。”,And this one line from your mission report: 'I knocked that tall guy down because he was looking down at me so fiercely.',"Вот хотя бы эта строка из твоего отчёта: «Я сбила высокого парня с ног, потому что он зло смотрел на меня сверху вниз»."
+line-254,后勤干员,你何止是把他打倒了，他可是痛得满地打滚，足足撞烂了两扇门！,"You didn't just 'knock him down,' you beat him up so badly he was rolling around in pain and even managed to smash through two doors!","Ты не просто сбила его — ты так его отделала, что он катался по полу от боли и умудрился выбить две двери!"
+line-256,燧石,不可能，我明明收了力的。你看，我就是这么打了两下……,"No way, I was holding back. Come on, I only hit him twice...",Не может быть. Я же сдерживалась. Я всего-то ударила его пару раз...
+line-258,后勤干员,总之，以后出外勤任务，千万要注意不要破坏公物，要是再有下次——,"Anyway, I'm just advising you to be extra careful not damage public property while on missions, because if this happens again—","Впрочем, впредь на операциях береги общественное имущество. Если повторится —"
+line-268,埃拉托,沙袋……,The sandbag......,Груша...
+line-270,埃拉托,被一拳打爆了……,Exploded with one punch...,Лопнула от одного удара...
+line-272,燧石,对不起。,Sorry.,Прости.
+line-274,埃拉托,……,......,...
+line-276,后勤干员,唉，算了。燧石，这个给你。,"Ah, forget it. Flint, this is for you.","Эх, ладно. Флинт, это тебе."
+line-278,燧石,这是什么？,What is it?,Что это?
+line-280,后勤干员,上次外勤任务中，你救下的那个女孩寄给你的感谢信。,A thank you letter from the girl you saved on that last mission.,"Письмо благодарности от девочки, которую ты спасла в прошлой операции."
+line-282,燧石,哦，好。,"Oh, okay.","А, ладно."
+line-287,燧石,（把信塞进拳套里）,(Stuffs the letter into her glove),(Засовывает письмо в перчатку)
+line-288,燧石,我去换个新沙袋。,I'll go get a new sandbag.,Пойду возьму новую грушу.
+line-294,埃拉托,唔……,Phew...,Фух...
+line-295,埃拉托,我们走吧。,Let's go.,Пойдём.
+line-309,帕拉斯,果然，埃拉托小姐，我的选择没错。,"It seems I've made the right choice, Erato.","И вправду, мисс Эрато, я выбрала правильно."
+line-310,帕拉斯,与你同行实在尽兴，甚至胜过在舰桥上自斟自饮。,Accompanying you on your journey has been far more gratifying than pouring myself another drink on the bridge.,"Путешествовать с тобой куда приятнее, чем наливать вино в одиночку на мостике."
+line-312,埃拉托,是你们祭司都这样说话，还是只有你这么无聊，“胜利女神”小姐。,"Are all you priestesses like this, or are you just this boring, Miss 'Goddess of Victory'?","Это у вас у всех жриц такой язык или только у тебя такой скучный, мисс «Богиня Победы»?"
+line-314,帕拉斯,你知道，我是独一无二的。,I'm sure you know just how uniquely unparalleled I am.,"Ты же знаешь, я неповторима."
+line-330,埃拉托,下个地方到了。,We've arrived our next destination.,Пришли.
+line-332,埃拉托,罗德岛上有不少厉害的工程师，在这里一定能找到——,"There's no shortage of brilliant engineers on Rhodes Island, so surely we'll be able to find a—","На Родосе немало талантливых инженеров, здесь наверняка найдётся —"
+line-336,贾维,嘿！帕拉斯，埃拉托，两位，早上好啊！,Hey! Erato and Pallas? Giorno to the both of ya!,"Эй! Паллада, Эрато, обеим привет!"
+line-338,埃拉托,你好，贾维，这里只有你在吗？,"Hello, Chiave. Are you the only one in here?","Здравствуй, Кьяве. Ты один здесь?"
+line-340,贾维,刚刚奥斯塔还在呢？欸，他去哪里了？,"Aosta was just here though? Huh, where'd he go?",Аоста только что был... Куда он делся?
+line-342,贾维,奥斯塔，你在哪儿？,Aosta? Where'd you go?,"Аоста, где ты?"
+line-344,埃拉托,等等，不用麻烦叫他出来啦，我就问你好了。,"Wait, there's no need for that. I'll just talk to you.","Погоди, не утруждайся звать его, лучше спроси я."
+line-345,埃拉托,我记得你……应该还挺擅长机械设计吧？,"As I recall, you're... quite good at designing machines?","Помнится, ты... довольно неплох в конструировании механизмов?"
+line-347,贾维,那当然了，小爷我的改装技术可是一等一的，称之为天才也不为过！,"'Course I am. My modding skills are first-class, you could even call me a genius!","Само собой! Я — мастер переделок, меня и гением не назовут разве что из скромности!"
+line-349,埃拉托,太好了，我有个问题想问你，你有没有觉得自己有过什么英雄事迹……,"Wonderful. I'd like to ask you then, have you ever done anything you would consider heroic...?",Отлично. У меня к тебе вопрос: доводилось ли тебе совершать что-то героическое...
+line-351,贾维,喏，帮我拿着这个。,"Here, hold onto this for a sec.","А, подержи это."
+line-359,埃拉托,这是……液压钳？,...A hydraulic clamp?,Это... гидравлические клещи?
+line-362,贾维,你不是问我的改装技术吗？我学修车的时候师傅曾经说过，嘴上吹得再好听，都不如亲手做一遍来得实在。,"You're asking me about modding, right? When I was still learning how to fix cars, my mentor once told me that it's nice hearing how great something is, but nothing beats experiencing it for yourself.","Ты же спрашиваешь про мои переделки? Когда я учился чинить машины, наставник говорил: как ни расхваливай что-то на словах, ничего не заменит того, что сделано своими руками."
+line-364,埃拉托,不是，我是想询问英雄……,"No, I just wanted to ask you about your own heroic deeds...","Нет, я хотела спросить про героев..."
+line-366,贾维,拿好了，我这就给你演示一下。,"Now hold on tight, I'll give you a demonstration.","Держи крепче, сейчас покажу."
+line-368,埃拉托,演示什么……,Of what...?,Покажешь что...
+line-372,埃拉托,啊啊啊！,Ahhh!,А-а-а!
+line-377,埃拉托,它怎么、怎么飞起来了？！,"Why, why am I flying?!",Почему я... почему я лечу?!
+line-381,贾维,怎么样？这就是我的最新作品，自悬浮液压钳！,"What do you think? My latest invention, a self-suspension hydraulic clamp!",Ну как? Это моё новейшее изобретение — самоподъёмные гидравлические клещи!
+line-382,贾维,小爷我在这里工作，经常要对付一些大型设备，每次都要带着工具爬梯子实在是太麻烦了！,"I have to deal with a lot of heavy equipment here, and it's such a pain lugging my tools up and down the ladders every time!","Мне здесь приходится иметь дело с крупным оборудованием, и каждый раз тащить инструменты вверх по лестнице — мучение!"
+line-384,贾维,现在，只要抓住经过我改装的这套工具，身体就能跟着飘起来！去再高的地方都不用搬梯子了！,"But now, with this baby, you can float up with them! No more ladders!","Теперь, стоит ухватиться за эти переделанные клещи — и тело само поднимается! Больше не нужны лестницы!"
+line-385,贾维,抓稳了！它还能飘得更高！,"It can fly even higher, so don't let go!",Держись крепче! Они могут подняться ещё выше!
+line-390,埃拉托,欸！,Huh?!,Эй!
+line-391,埃拉托,它、它在震动，这正常吗？,"I-Its vibrating quite a bit, is this normal?",Они... они дрожат. Это нормально?
+line-396,贾维,震动……我记得我没装转子电机啊？等等，我到底装了没有……,"Vibrating? ...Did I forget to install the motor rotor? Wait, did I even...","Дрожат?.. Кажется, я забыл поставить ротор двигателя? Погоди, я его вообще ставил или нет..."
+line-401,埃拉托,它开始乱晃了！我抓不住了，要放手了！,"It's going wild, I can't hold on any longer!","Они носятся как бешеные! Я не могу держать, сейчас отпущу!"
+line-408,埃拉托,小心！液压钳朝你飞过去了！,Careful! It's flying towards you!,Осторожно! Клещи летят в тебя!
+line-412,贾维,什么——,Wha—,Что —
+line-420,贾维,哎哟！,Yow!,Ой!
+line-425,贾维,痛，痛，我的脑袋……,"Ow ow ow! Ugh, my head...","Больно, больно, голова..."
+line-426,贾维,为什么会出现这种故障呢？奇怪，是不是喷气引擎功率太大了？算了，一会儿再说吧。,"A malfunction? How did <i>that</i> happen? Weird, was the jet engine too powerful? Eh, screw it, I can think about it later.","Почему такой сбой? Странно, может, реактивный двигатель слишком мощный? Ладно, разберусь потом."
+line-427,贾维,你刚刚是不是问我，我有没有什么英雄事迹？,You were asking me earlier if I've done any heroic deeds?,"Ты спрашивала меня раньше, есть ли у меня героические подвиги?"
+line-429,埃拉托,是……,Yes...,Да...
+line-431,贾维,小爷我必须自豪地告诉你——,"Well, I must proudly declare—","Так вот, я с гордостью заявляю —"
+line-433,贾维,没有！,Nope!,Нет!
+line-435,帕拉斯,这个回答倒是意外。,An unexpected answer.,Неожиданный ответ.
+line-437,贾维,这是因为，我的心血全部献给了我改装的这些机械设备。,"Well, it's 'cause I give my all to my modded equipment.","Дело в том, что все мои силы уходят на механизмы, которые я переделываю."
+line-438,贾维,它们才是真正的英雄，代替我成就了许多前无古人的壮举！我的改装才是应该被所有人铭记的！,"So they're the real heroes, the ones who've achieved plenty of unprecedented feats in my place! They're the ones everyone should remember!","Они и есть настоящие герои — они совершают за меня дела, о которых никто и не мечтал! Их и должны помнить все!"
+line-440,贾维,至于我……我发明了它们，那我就应该算是……嗯……“英雄创造者”？,"As for me, I invented them, so maybe you can call me... uh... a 'Hero Creator'?","А я... я их изобрёл, значит, я — как бы... ну... «Создатель героев»?"
+line-441,贾维,啧，这个称号还不赖。,"Heh, I like the sound of that.","Цц, звучит неплохо."
+line-443,奥斯塔,“英雄创造者”？嘁。,'Hero Creator'? Tsk.,«Создатель героев»? Тьфу.
+line-445,贾维,奥斯塔！你那声“嘁”是什么意思？你不认可我吗？,"Aosta! What's that 'tsk' supposed to mean, huh? You don't like it?","Аоста! Что значит это «тьфу»? Ты что, не признаёшь меня?"
+line-447,奥斯塔,你的英雄们是指会唱歌的电钻，还是会跳舞的扳手？,"What 'heroes' are you talking about? The drill that can sing, maybe the wrench that can dance?","Твои «герои» — это дрель, которая поёт, или гаечный ключ, который танцует?"
+line-448,奥斯塔,哦，现在又多了一个会飞行的液压钳。,"Oh, now we have one more: a hydraulic clamp that can fly.","О, теперь ещё и летающие гидравлические клещи."
+line-450,贾维,不，奥斯塔，你怎么能这么贬低你的头儿？,Hey! How can you disrespect your boss like this?!,"Эй, Аоста, как ты смеешь так унижать своего начальника?"
+line-452,奥斯塔,根据我的统计，你上一次收到改装的需求，还是……三个月前？,"According to my statistics, the last time you received a modding request was... three months back?","По моим подсчётам, последний раз заказ на переделку ты получил... три месяца назад?"
+line-454,贾维,你好好回忆一下，我一定还有做得很好的改装吧！一定有吧！,"Hey, you sure about that? I've got the feeling I did a real good job <i>somewhere</i>! Definitely!","Вспомни хорошенько — наверняка же была какая-то работа, которую ты сделал просто превосходно! Наверняка!"
+line-456,奥斯塔,承认吧，贾维，你已经没救了。,"Just admit it, Chiave. You're hopeless.","Признай, Кьяве, ты безнадёжен."
+line-458,埃拉托,欸，桌子上的这个头盔……我似乎在前不久的一次外勤任务中见过。,"Hey, this helmet on the table... I remember seeing it out on a field mission a while back.","Эй, этот шлем на столе... Кажется, я видела его в одной выездной операции недавно."
+line-460,埃拉托,当时那位重装干员非常气愤地说：“我只是想修一下护目镜，那家伙竟然给我加了一大堆乱七八糟的功能！”,"A defender operator was fuming: 'I only asked for my goggles to be fixed, but that guy added a whole bunch of extra functions!'","Один защитник оперативник возмущался: «Я только просил починить мне очки, а он напихал туда кучу всяких функций!»"
+line-462,埃拉托,然而在任务中，小队遭遇意料之外的源石污染。,"But during that same mission, the squad encountered an unexpected source of Originium pollution.",Но во время той операции отряд столкнулся с неожиданным заражением Ориджиниумом.
+line-463,埃拉托,在未携带专业源石探测装备的情况下，头盔的源石探测功能起了作用，帮助小队渡过了危机。,"They lacked proper Originium detection equipment, but the detector on the helmet managed to work and helped them avert a crisis.","Специального оборудования для обнаружения Ориджиниума у них не было, и функция детектора на шлеме сработала — спасла отряд."
+line-465,贾维,奥斯塔，你听见了吗？我还是有能帮上忙的地方！,"Ya hear that, Aosta? I'm out there saving the day!","Слышал, Аоста? Я и ещё кое-где могу принести пользу!"
+line-467,奥斯塔,嘁。,Tch.,Тьфу.
+line-468,奥斯塔,那这个头盔为什么被送了回来？,Then why did they send the helmet back?,Так почему шлем вернули?
+line-470,埃拉托,我记得，在任务的后半程头盔漏电了……,"Oh, as I recall, it started leaking electricity later in the mission...","Помнится, ближе к концу операции из него стало бить током..."
+line-472,贾维,不论如何，我是不会放弃发挥我的创意的，我的天赋绝不能被掩埋。,"Anyway, I'll never give up on my creations, and my genius must stay unburied.","Как бы то ни было, я не бросаю свои изобретения, и мой талант не должен пропасть втуне."
+line-473,贾维,总有一天，小爷我也配得上堂堂正正的英雄之名，而不是什么，“英雄创造者”之类的。奥斯塔，你就等着瞧好了！,"For there will come a day when I myself will be worthy of being called a hero, and not just a 'Hero Creator' or whatever. Just you wait, Aosta!","Когда-нибудь и я по праву заслужу звание героя, а не какого-то там «Создателя героев». Аоста, ты только посмотри!"
+line-475,贾维,哦，差点忘了你们还在了。抱歉啊，埃拉托，没给你你要的英雄事迹。,"Oh, I forgot you girls were still here. Sorry, Erato. I didn't have any of those heroic tales you wanted.","О, я и забыл, что вы ещё здесь. Прости, Эрато, не нашёл я тех подвигов, о которых ты просила."
+line-477,埃拉托,没关系。,It's fine.,Ничего страшного.
+line-479,贾维,但是我想到了，你们想要询问英雄事迹的话，我有一个人选。,"But I was thinking, if you wanted to ask someone else, I have someone in mind.","Но я кое-что придумал. Если вы хотите расспросить о героических подвигах, у меня есть кандидатура."
+line-481,埃拉托,是哪位？,And who might that be?,Кто?
+line-483,贾维,那就是小爷我的挚友，Lancet-2！,"My dear friend, Lancet-2!",Мой лучший друг — Lancet-2!
+line-485,贾维,她最近格外消极啊，明明工作非常努力的。,"She's been down in the dumps lately, even though she's been working so hard.","Она в последнее время очень мрачная, хотя работает очень старательно."
+line-486,贾维,不过她是不是一直都很消极……如果你们可以向她了解一些她的英雄事迹，说不定她就能开心一点！,And while she's always been the negative sort... maybe she'd cheer up if you let her know all the heroic deeds she's done!,"Хотя она всегда была невесёлой... Может, если вы расскажете ей про её подвиги, она станет чуть счастливее!"
+line-488,埃拉托,好，我明白了。,"Alright, got it.","Хорошо, поняла."
+line-490,贾维,有空常来玩啊，有想要改装的玩意也尽管找我！,"Come back and hang out if you have time, and let me know whenever if you need anything modded!","Заходите ещё, и если что-то захотите переделать — только позовите!"
+line-506,帕拉斯,埃拉托小姐，你真的打算听贾维的建议吗？,"Erato, are you seriously considering Chiave's suggestion?","Мисс Эрато, ты правда собираешься последовать совету Кьяве?"
+line-508,埃拉托,当然啦，在我的计划里，要去的最后一个地方恰好也是医疗室。,"Of course. As it happens, my original plan also included paying a visit to the medics on board.",Конечно. Как раз последнее место в моём плане — медпункт.
+line-510,帕拉斯,这趟“旅程”至今，原谅我用了传统的“旅程”一词，你觉得会对你的创作有所帮助吗？,"Do you think this 'quest' of yours, if you'll permit me such a word, will ultimately prove fruitful for your work?","Этот «поход»... прости за традиционное слово — думаешь, он помог тебе в творчестве?"
+line-512,埃拉托,我不知道。,I couldn't say.,Не знаю.
+line-513,埃拉托,在过去我收集了许多传说与故事，为了将它们完好地保存下来，我会努力把自己当作一个忠实的记录者。,"I've previously amassed a collection of legends and stories, and for the sake of preserving them properly, I will do my best to act as an earnest recorder.","Раньше я собрала множество легенд и историй и старалась быть верным летописцем, чтобы сохранить их как есть."
+line-515,埃拉托,不在记录中掺杂主观的情绪与思考，让故事能保持它原本的样貌，这是我的诀窍。,"The key is to not let any subjective emotions and thoughts pollute the record, so that the stories maintain their original form.","Секрет в том, чтобы не примешивать к записи личные чувства и мысли, — тогда истории сохраняют свой настоящий облик."
+line-516,埃拉托,当旅途告一段落时，那些我所见证的，所听闻的，所记录的，最终会在几个夜晚沉淀下来。,"Once this journey has concluded, everything I've seen, witnessed, heard, and recorded will gradually settle down within a few nights.","Когда путь подойдёт к концу, всё, что я увидела, услышала и записала, за несколько ночей отляжет в душе."
+line-517,埃拉托,而后，在笔下流淌为诗歌，以我之口向众生诉说。,"Then, it flows into poetry under my pen, and through my voice presents itself to the audience.",А затем вытечет стихами из-под моего пера и прозвучит из моих уст перед людьми.
+line-519,埃拉托,这趟“旅程”还未结束，所以我不知道最后会有怎样的结果。,"The 'quest' is not yet over, though, so I can only speculate how it will end.","Но «поход» ещё не закончен, так что я могу только гадать, чем он обернётся."
+line-521,帕拉斯,记录、创作与传颂，你让自己肩负了远超一名吟游诗人的责任。,"Recording, creating, eulogizing... you've given yourself far more duties to bear than a simple wandering bard.","Записывать, творить, прославлять... ты взвалила на себя куда больше, чем просто странствующая певица."
+line-523,埃拉托,我想我热衷于此。,I like to think of this as my passion.,"Мне кажется, это моя страсть."
+line-525,帕拉斯,这是你的自由。,Or perhaps it's your liberty.,Или твоя свобода.
+line-527,埃拉托,……我有一种预感，这次的所见所闻会给我的创作带来些许不同。,...But I have a hunch that what I see and hear this time won't affect my creation all that much.,"...У меня предчувствие, что увиденное и услышанное на этот раз придаст моему творчеству нечто иное."
+line-529,帕拉斯,先前我只是好奇你的创作过程，现在你会写出怎样的诗篇，我也很有兴趣了。,"Before I was simply curious about your process, but now I've become quite interested in the poem you will write.","Раньше мне было просто любопытно, как ты работаешь, а теперь мне уже интересно, какую поэму ты напишешь."
+line-531,埃拉托,到了。,We're here.,Пришли.
+line-541,Lancet-2,该怎么办，该怎么办？,What do I do... what do I do?,"Что делать, что делать?"
+line-543,埃拉托,Lancet-2，你好……你在干什么？,"Hello, Lancet-2... what are you doing?","Lancet-2, здравствуй... что ты делаешь?"
+line-545,Lancet-2,两位好，根据我的运动模块显示的状态，我在转圈。,"Hello. Based on the status displayed on my motion module, I am currently spinning in circles.","Здравствуйте. Судя по показаниям моего модуля движения, я верчусь."
+line-547,埃拉托,我看得出来，可是，你为什么要转圈呢？,"I can see that, but... why?","Я вижу, но... почему ты вертишься?"
+line-549,Lancet-2,博士，因为博士。,Doctor... because of the Doctor.,Из-за Доктора. Всё из-за Доктора.
+line-551,埃拉托,博士他出什么状况了吗？,Did something happen to them?,С Доктором что-то случилось?
+line-553,Lancet-2,不对，是因为我。,"No, it's my fault.","Нет, дело во мне."
+line-554,Lancet-2,是因为无能的、没有作用的、什么都做不好的我……,"Because I am incompetent, useless, and can't do anything right.","В этой бесполезной, ни на что не годной мне..."
+line-556,埃拉托,等等，咱们好好说清楚可以吗？究竟是发生了什么事？,"Hold on, could you elaborate? What happened exactly?","Постой, можем поговорить спокойно? Что именно произошло?"
+line-558,埃拉托,帕拉斯，你说我这样拍两下，Lancet-2能正常说话吗？,"Pallas, so you're saying if I hit her twice like this, she'll be able to speak normally?","Паллада, ты говоришь, что если я ударю её два раза вот так, она заговорит нормально?"
+line-560,帕拉斯,可以试试。,You can try.,Можно попробовать.
+line-567,Lancet-2,语言模块自检中——自检完毕，恢复运行。,Checking language module—operation will resume when the process is complete.,"Проверка языкового модуля — проверка завершена, возобновляю работу."
+line-568,Lancet-2,原因是，博士他最近实在太忙了，每天都要处理好多文件，直到凌晨才能上床休息。,"The reason is that the Doctor has been so busy recently. They have so much paperwork to deal with every day, and are unable to go to bed until early morning.","Причина в том, что Доктор в последнее время очень занят. Каждый день столько бумаг, что в постель он ложится только под утро."
+line-569,Lancet-2,这样下去，下一次博士的体检结果一定会出现异常指标的。,"If this goes on, there will certainly be abnormalities in the results of their next physical examination.","Если так пойдёт и дальше, в результатах следующего медосмотра Доктора обязательно появятся отклонения."
+line-570,Lancet-2,都是我不好，没有照顾好博士，都怪我——,It's because I'm so bad at taking good care of them. It's all my fault—,"Это всё я виновата, плохо за ним присматривала, всё из-за меня —"
+line-572,埃拉托,停停。,Stop right there.,Хватит.
+line-574,埃拉托,Lancet-2，博士有他的职责，他的工作对我们所有人都非常重要，偶尔有忙碌的时候也是正常状况哦。,"The Doctor has their own duties too, Lancet-2. Their work is very important to all of us here, so it's normal to be busy every now and then.","Lancet-2, у Доктора свои обязанности, его работа важна для каждого из нас, и иногда бывает загруженность — это нормально."
+line-575,埃拉托,你不应该把这样的情况怪罪在自己的头上，你也在很努力地工作啦。,"You've been working hard, so you shouldn't blame yourself for the current situation, alright?",Ты не должна винить себя за это. Ты и так очень стараешься.
+line-577,Lancet-2,真的吗？埃拉托干员，你真的是这么认为的吗？,"Really? Operator Erato, do you really think so?","Правда? Оперативник Эрато, ты правда так думаешь?"
+line-579,埃拉托,当然啦，我这次前来就是想找你帮忙的。请问你有什么可以分享给我的英雄事迹吗？,"Of course, I came here today just to ask for your help. May I ask if you have any heroic deeds to share with me?","Конечно. Я сегодня специально пришла за твоей помощью. Есть ли у тебя героический подвиг, которым ты можешь поделиться?"
+line-581,Lancet-2,英雄事迹……在看护的时候我有听见干员们的闲聊，在我的存储模块中应该保存有一些事件。,"Heroic deeds... I have overheard the chatter of the operators I look after, and even have some events saved in my memory module.","Героические подвиги... Во время присмотра я слышала разговоры оперативников, в моём модуле памяти кое-что сохранилось."
+line-583,埃拉托,不不不，不需要那些。我想要了解的是，你觉得自己做得好的，像英雄一样的事情。,"No, no, no, not those. I want to know your <i>own</i> stories, especially the heroic ones.","Нет-нет, не эти. Я хочу узнать о том, что ты сама сделала хорошо, о героическом."
+line-585,埃拉托,Lancet-2的工作那么出色，这样的事情一定不少吧？,"You do such brilliant work, so surely there would be many of them?","Lancet-2 работает так превосходно, наверняка таких дел немало?"
+line-587,Lancet-2,我的英雄事迹……不，我应该没有足以称之为英雄事迹的行为，我连英雄都称不上。,"My own heroic deeds... No, I don't think anything I've done could be called 'heroic,' and such a title doesn't suit me at all.","Мои героические подвиги... Нет, вряд ли я совершала нечто, достойное этого слова. Я и героем-то не являюсь."
+line-588,Lancet-2,在我的岗位上，能把所有干员都照顾得很好，让大家都保持健康，才能被称为英雄。,"In my line of work, you would only be a hero if you could take care of all the operators here and keep everyone healthy.","В моей работе героем можно было бы назвать только того, кто заботится обо всех оперативниках и сохраняет всех здоровыми."
+line-589,Lancet-2,而我没有这样的事迹，我照顾不好博士……我是不是根本就不称职……,But I haven't done such a deed; I can't even take good care of the Doctor... Perhaps I'm not even the least bit competent.,"А у меня таких заслуг нет, я даже за Доктором не могу как следует присмотреть... Может, я вообще ни на что не годна..."
+line-591,帕拉斯,她真的很消极。,She certainly is a negative one.,Она правда мрачная.
+line-593,埃拉托,好啦好啦，Lancet-2，要不这样，请你也照看我一下？,"Alright, alright. How about this: could you take care of me for a bit?","Ладно, Lancet-2, давай так: присмотри за мной тоже?"
+line-595,Lancet-2,照顾埃拉托干员吗？这的确在我的工作范围内，但是……你让我这么做有什么理由吗？,"Take care of you, Operator Erato? This is indeed with my scope of work, but... is there a reason why you want me to?","Присмотреть за оперативником Эрато? Это действительно входит в мои обязанности, но... зачем тебе это?"
+line-597,埃拉托,这样我就会告诉你，你做得到底好不好，或许Lancet-2就能体会到自己也是很有用的呢。,"So I can properly judge how good you are at it, and just maybe you'll also realize how useful you are in the process.","Так я смогу сказать, насколько хорошо ты это делаешь, и, может, Lancet-2 поймёт, что она тоже очень полезна."
+line-599,Lancet-2,明白了，我马上对埃拉托干员进行全身生理检测，请稍等。,"Understood. Please hold still for a moment, Operator Erato. I will conduct a full-body physical examination right away.","Поняла. Прошу не двигаться, оперативник Эрато. Сейчас проведу полное медицинское обследование."
+line-601,埃拉托,好哦。,Sure.,Хорошо.
+line-610,Lancet-2,检测——完成。检测结果显示，埃拉托干员有27小时13分钟27秒没有进入过睡眠状态，身体严重缺乏休息。,"Examination—complete. The test results are as follows: Operator Erato has not slept for 27 hours, 13 minutes, and 27 seconds, and her body is in urgent need of rest.","Обследование — завершено. Результаты: оперативник Эрато не спала 27 часов 13 минут 27 секунд, организм остро нуждается в отдыхе."
+line-611,Lancet-2,……埃拉托干员在数小时前摄入了大量糖分，以及脂肪……,"...A few hours ago, you also ingested a large amount of sugar and fat.","...Кроме того, несколько часов назад вы употребили много сахара и жиров..."
+line-613,帕拉斯,埃拉托小姐，你上次可是口口声声说要减肥的。,"Erato, I seem to recall you repeatedly declaring your intention to lose weight.","Мисс Эрато, вы же клялись, что хотите похудеть."
+line-615,埃拉托,……这是为了构思，为了构思！,"...It's all for the sake of the plan, the plan!","...Это ради замысла, ради замысла!"
+line-617,Lancet-2,怎么会这样？我竟然没有及时发现埃拉托干员的异常……,How could this happen? How did I not notice this abnormality until now?,Как это?! Почему я не заметила отклонение раньше?
+line-618,Lancet-2,你一进来我就该发现的，可是我忙于处理自己的情绪模块，没有照看好你……我太不称职了……,"I should have noticed the moment you stepped in, but I was so busy handling my emotional module that I neglected you... I truly am incompetent.","Я должна была заметить с порога, но я была занята своим эмоциональным модулем и не присмотрела за тобой... Я действительно не годна..."
+line-620,埃拉托,没有，这不是你的问题。,"No, that's not your fault at all.","Нет, это не твоя вина."
+line-622,Lancet-2,果然，我什么作用都起不了，我就该自己驶向报废区域的……,I can't do even a single thing right. I should just drive myself over to the scrap area.,Я и правда ни на что не годна. Мне бы самой отправиться в зону утилизации...
+line-627,,埃拉托，帕拉斯，你们好。;埃拉托，帕拉斯，你们也在这里啊。,"Hello, Erato, Pallas.;So the both of you are here too.","Эрато, Паллада, здравствуйте.;Эрато, Паллада, и вы здесь."
+line-631,埃拉托&帕拉斯,博士好。,"Hello, Doctor.","Здравствуйте, Доктор."
+line-634,,Lancet-2，我来体检了……,"Lancet-2, I'm here for my examination.","Lancet-2, я пришёл на медосмотр..."
+line-636,,你看起来状态不太好，有什么心事吗？,"You seem upset, something on your mind?",Ты выглядишь неважно. Что-то на уме?
+line-639,Lancet-2,博士……对不起，我没有照顾好你。,"Doctor... I'm sorry, I haven't taken good care of you.","Доктор... прости, я за тобой не присмотрела."
+line-642,,多亏Lancet-2的帮助，我的体检结果一直正常。,"But thanks to you, my results come back normal.",Но благодаря тебе результаты моих медосмотров всегда в норме.
+line-645,埃拉托,欸，竟然是这样的吗？,"Huh, is that so?","Эй, неужели так?"
+line-654,,短暂的时间内，你完成了体检的全部内容。,You run the examinations so quickly.,За короткое время ты выполнила весь объём обследования.
+line-656,Lancet-2,体检结果出来了，各项数据指标——,"The results are here, and the data indicates—","Результаты готовы, показатели —"
+line-657,Lancet-2,一切正常。太好了。,Everything normal. Wonderful.,Всё в норме. Отлично.
+line-660,,我都说了，不用担心。;完全没有担心的必要。,"See, worrying over nothing.;There's absolutely no need to worry.","Я же говорила, волновать нечего.;Совершенно нечего волноваться."
+line-663,Lancet-2,（减少了博士的咖啡配给，果然还是有用的。）,"(The Doctor's coffee ration has been reduced, but they still consume it regularly.)",(Сократила Доктору рацион кофе. Всё же подействовало.)
+line-665,埃拉托,Lancet-2的工作真的很出色啊……,"You're really great at your work, Lancet-2.",Lancet-2 и правда отлично работает...
+line-666,埃拉托,……,......,...
+line-669,,埃拉托，你还好吗？,"Are you alright, Erato?","Эрато, ты в порядке?"
+line-672,埃拉托,啊，抱歉，我刚刚只是在思考……,"Oh, sorry, I was just thinking...","А, прости, я просто задумалась..."
+line-674,埃拉托,博士，我有点事，先离开了！再见！,"Doctor, I have somewhere else to be, so I'll be going! Bye!","Доктор, мне нужно кое-куда, я пойду! До свидания!"
+line-677,,好，再见。,"Alright, see you.","Хорошо, до свидания."
+line-688,,一周后,A week later,Неделю спустя
+line-691,贾维,原来不止小爷我，大家都收到邀请了啊。,"Oh, so it wasn't just me who received an invitation.","Оказывается, приглашение получила не только я."
+line-693,燧石,“诗篇吟诵会”邀请，我不懂，什么是诗篇？,"An invitation to a 'poetry recital'... I don't get it, what's a 'poetry'?","Приглашение на «чтение поэмы»... Не понимаю, что такое поэма?"
+line-695,Lancet-2,是一种用凝练语言叙述事件或表达情绪的文学体裁，听众能从诗篇的吟诵中收获精神的力量。,"Poetry is a form of literature that narrates events or expresses emotions in condensed and rhythmic language, and listeners can often feel enlightened by such recitals.","Это литературный жанр, который сжатым языком описывает события или выражает чувства; слушатели черпают из чтения духовные силы."
+line-696,Lancet-2,这次是埃拉托最新作品的第一次公开朗诵，预计会对干员们的心理健康带来积极的影响。,"This is the first public recital of Erato's latest work, which is expected to have a positive impact on the mental health of the operators present.","Сегодня первое публичное чтение нового произведения Эрато. Ожидается, что оно положительно скажется на психологическом состоянии оперативников."
+line-699,,埃拉托的新诗篇吗……我还挺期待的。,Erato's new poem... Looking forward to it.,Новая поэма Эрато... Интересно.
+line-706,埃拉托,咳、咳。,*Ahem*,"Кхм, кхм."
+line-708,埃拉托,（虽说给大家都发了邀请，可没想到竟然来了这么多人……）,"(I did invite everyone, but I didn't expect so many to attend...)","(Я разослала приглашения всем, но не ожидала, что придёт столько народу...)"
+line-710,埃拉托,感谢大家参加我的新诗篇吟诵会，愿大家在此度过一段惬意的时光。,Thank you for coming to the recital of my latest poem. I dearly hope everyone has a pleasant time.,"Спасибо всем, что пришли на чтение моей новой поэмы. Надеюсь, вы проведете здесь приятное время."
+line-712,埃拉托,好了，话不多说，下面我将为大家吟诵的是……,"Alright, now let's get right to it. The poem that I will now recite is titled...","Ладно, без лишних слов. Сейчас я прочту вам..."
+line-714,埃拉托,（深呼吸）,(Deep breath),(Глубокий вдох)
+line-716,埃拉托,（啊，好紧张，上一次在这么多人面前吟诵新诗，还是好多年前在科林尼亚的城市广场……）,"(Ah, I'm so nervous. The last time I recited a new poem in front of such a crowd was many years ago in Corinia's town square...)","(Ах, как я волнуюсь. Последний раз я читала новую поэму перед такой толпой много лет назад, на городской площади Коринии...)"
+line-719,贾维,埃拉托！埃拉托！,Erato! Erato!,Эрато! Эрато!
+line-721,埃拉托,咳咳，下面，我将为大家吟诵的是，我最新创作的诗篇——,"Ahem, without further ado, I will recite my latest creation—","Кхм. Итак, без дальнейших околичностей, я прочту своё новое создание —"
+line-722,埃拉托,《英雄们的叙事诗》。,'The Epic of Heroes.',«Эпику героев».
+line-728,,辽远的天穹啊，,"O distant sky up high,","О, высокое небо над нами,"
+line-729,,请歌唱在你之下，,"Let us all sing under you,",Пойте под твоим сводом
+line-730,,那些平凡人类的意志。,The will of the masses.,О воле простых людей.
+line-736,,在极远的边陲之地，,"In the far, far away of the lands beyond,","На краю земель,"
+line-737,,群山不再，,"The mountains are but no more,","Гор уже нет,"
+line-738,,唯余一片黄沙与黑色石砾掩埋的荒原。,All that is left is a wasteland of gold sand and black gravel.,"Лишь пустошь, засыпанная жёлтым песком и чёрным гравием."
+line-744,,文明正遭受苦难鞭打，,"Civilization suffers under the whip,","Цивилизация под бичом страдает,"
+line-745,,挣扎如酒浆中的泡沫，,"Struggling like foam in wine,","Бьётся, как пена в вине,"
+line-746,,无形怪物吞噬鲜活的心跳。,Beasts unseen devour hearts still live.,Невидимые твари пожирают ещё живые сердца.
+line-752,,然后在一个出人意料的夏夜，,"On an unexpected summer night,","И в один нежданный летний вечер,"
+line-753,,它发生了。,It happens.,Это случилось.
+line-758,,三位英雄，,"Three heroes,","Трое героев,"
+line-759,,自生养他们的人民中走出来。,"Rise from their kin who raised them,","Вышли из народа, их вскормившего."
+line-764,,他们面对阳光立下誓言，,"And they swore to the sun,",Они поклялись солнцу
+line-765,,要率领人民打碎桎梏，,"To unshackle them,",Сбросить с народа оковы
+line-766,,前往鲜花盛开之地。,And lead their peoples towards a land in full bloom.,"И повести его в земли, где цветут цветы."
+line-772,,……,......,...
+line-774,,伴随着竖琴声与埃拉托轻缓的吟诵，三位英雄的故事被娓娓道来。,"Accompanied by the sound of the harp strings and Erato's gentle recital, the stories of the three heroes were told.",Под звуки арфы и тихий голос Эрато разворачивалась история трёх героев.
+line-776,,他们从人民中来，,"They hailed from the masses,","Они вышли из народа,"
+line-777,,并不高大，,"Not mighty,","Не богатыри,"
+line-778,,并非完美无缺。,Nor flawless.,И не безупречны.
+line-784,,善战的勇士不善言辞，性子冲动。,"An adept warrior, weak with words and quick to anger.","Воин, искусный в битве, был неразговорчив и вспыльчив."
+line-785,,天才的工匠粗心自大，我行我素。,"A genius smith, reckless and full of arrogance.","Гений-ремесленник был рассеян и самонадеян, делал всё по-своему."
+line-786,,仁爱的医生过分自卑，语言消极。,"A gracious healer, low on esteem and high on negativity.",Сострадательный врач слишком низко ценил себя и говорил только дурное.
+line-792,,然而，当无数危机接踵而来时。,"However, when beset with crisis without end,","Однако, когда один за другим обрушились кризисы,"
+line-796,,勇士毫不畏惧向远比自己高大的敌人发起挑战。,The warrior is unafraid to face foes over twice their size.,"Воин без страха бросил вызов врагу, вдвое выше его ростом."
+line-797,,工匠以一件妙手偶得的器具帮助人们脱离险境。,The smith with their miracle tool saves the people from danger.,Ремесленник чудесным оружием вытащил людей из беды.
+line-798,,医生尽心尽力地照护每一位受病痛折磨的患者。,The healer strives their utmost to help everyone in need.,"Врач изо всех сил заботился о каждом, кого терзала болезнь."
+line-804,,他们从人民中来，,"They hailed from the masses,","Они вышли из народа,"
+line-805,,并不高大，,"Not mighty,","Не богатыри,"
+line-806,,并非完美无缺。,Nor flawless.,И не безупречны.
+line-812,,他们正带领人们前行。,Leading them all onwards.,Они ведут людей вперёд.
+line-818,埃拉托,黎明掀开她的面纱，太阳的光辉洒向大地，拂过灰尘遮蔽的脸庞。,"Dawn lifts her veil, and the sun spills its radiance on the land, brushing off her dust-covered visage.","Рассвет приподнимает свою вуаль, солнечный свет оливает землю, касаясь лиц, присыпанных пылью."
+line-819,埃拉托,远方飘来芬芳，人们拾起行囊，将继续踏上道路。,"A fragrance wafts from afar, and the people pick up their belongings, persisting on their journey.","Издальна доносится аромат, люди поднимают вещи и продолжают путь."
+line-823,埃拉托,谢谢大家，谢谢。,"Thank you everyone, thank you.","Спасибо вам всем, спасибо."
+line-830,,诗篇吟诵会告一段落，大家恋恋不舍地离去。,"The recital came to an end, and one by one the audience leaves reluctantly.","Чтение подошло к концу, и публика нехотя разошлась."
+line-840,埃拉托,喂，帕拉斯，之前我就把诗篇读给你听了，过去了两三天，你还没有什么想法吗？,"Well, Pallas. It's been three days since you've heard the poem, do you still have no thoughts on it?","Эй, Паллада. Я читала тебе поэму три дня назад, а у тебя до сих пор нет мыслей?"
+line-842,帕拉斯,如果我没听错，这只是诗篇的第一节。,"If I heard you right, that was just the first part of it.","Если я не ослышалась, это была только первая часть."
+line-844,埃拉托,没错。,That's right.,Верно.
+line-846,帕拉斯,我必须承认，诗篇很有你的风格，但在你的诗篇完成之前，我决定不予评价。,"I must admit, it holds much of your personal style, but I will refrain from any further comments until it is finished.","Должен признать, поэма очень в твоём стиле, но я воздержусь от оценки, пока она не закончена."
+line-848,埃拉托,能让喋喋不休的帕拉斯把评价吞进肚子里，应该还不错。,It must be pretty decent to get the always-chatty Pallas to hold her tongue.,"Раз даже вечно болтливая Паллада проглотила своё мнение — значит, и вправду неплохо."
+line-850,帕拉斯,比起和你拌嘴，我更想知道你打算如何完成诗篇后续的创作。上一次收集到的素材应该不足以支撑后续写作吧？,"Rather bickering with you any further, I'd like to know how you plan to finish the rest of the poem. The material you've amassed surely isn't enough for the entire work?","Вместо того чтобы препираться с тобой, я скорее хочу знать, как ты собираешься дописывать поэму. Собранного материала наверняка не хватит?"
+line-852,埃拉托,是的，所以现在我的确没有更多的灵感，只有一个我一直都很喜欢的构想。,"Yes, I'm running empty on inspiration for now, so at the moment I'm just entertaining a concept in my head.","Да, вдохновения у меня сейчас нет, только одна идея, которая мне очень нравится."
+line-854,埃拉托,我要创作一个以我自己为原型的角色，在故事中与英雄们一起，同行至鲜花盛开的理想之地。,"I want to create a character based on myself, and walk together with the heroes in the story, to the land of my dreams brimming with flowers.","Я хочу создать персонажа по образу и подобию самой себя и пойти с героями в сказочные земли, где цветут цветы."
+line-856,帕拉斯,米诺斯人都曾梦想过与英雄同行，我理解。,"I understand. Every Minoan dreams of walking alongside the heroes, after all.",Все миносцы мечтали идти рядом с героями. Я понимаю.
+line-860,埃拉托,不……和过去不一样，你应该记得我和你说过，这一次的创作会有所不同。可我创作的诗篇和过去相比并没有改变。,"No... it's different this time. Remember what I said back then, that this creation wouldn't be the same as my previous works? But my creations have never varied much before, so why now?","Нет... на этот раз всё иначе. Ты помнишь, я говорила, что это творение будет непохожим на прежние? Но мои поэмы никогда не менялись — почему же теперь?"
+line-862,埃拉托,在写作时我一直思索这个预感从何而来，直到放下笔的刹那，我忽然明白，那份不同或许早已发生在我的身旁。,"While I was writing, I kept wondering where this premonition had come from, and only when I put down my pen did I realize that the change might have already happened, right in front of me.","Пиша, я всё думала, откуда это предчувствие, а когда отложила перо, вдруг поняла: перемена, наверное, уже случилась рядом со мной."
+line-864,埃拉托,过去的旅途中，我将自己写进故事，成为故事中的角色，期待着凝结心血的创作能引导与鼓舞人们。,"In my past journeys, I wrote myself into my stories, becoming a character, and anticipated creating the crystallization of my heart and soul, to act as a guide and inspiration to others.","В прежних странствиях я вписывала себя в историю, становилась персонажем и ждала, что моё творение станет путеводителем и вдохновением для людей."
+line-866,埃拉托,但身处此地，第一次认真地观察过罗德岛上的大家后，我发现……我的诗意产生了前所未有的共鸣……,"But after coming here and seriously observing everyone on Rhodes Island, I've discovered... that my poetry is resonating like never before.","Но здесь, впервые по-настоящему понаблюдав за всеми на Родосе, я обнаружила... моя поэзия откликается, как никогда раньше..."
+line-867,埃拉托,我想我已经置身于英雄之间，正与英雄们同行。,"I think I already am among said heroes, walking alongside them.","Мне кажется, я уже среди героев и иду рядом с ними."
+line-868,埃拉托,我应当将其记叙。,...I should write this down.,Мне нужно это записать.

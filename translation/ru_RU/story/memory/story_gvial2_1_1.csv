@@ -1,0 +1,427 @@
+ID,Character,Original Text,Reference,Translation
+__translator__,,Translator,,tbd
+__language__,,Language,en_US,ru_RU
+__episode__,,Episode ID,,memory
+__chapter__,,Chapter Name,memory/story_gvial2_1_1,以酒精之名！
+,,,,
+char-1,依娜姆,依娜姆,Inam,Инам
+char-2,嘉维尔,嘉维尔,Gavial,Гавиал
+char-3,特米米,特米米,Tomimi,Томими
+char-4,敏锐的杜林人,敏锐的杜林人,Astute Durin,Проницательный дурин
+char-5,清醒的杜林人,清醒的杜林人,Clear-headed Durin,Трезвый дурин
+char-6,客气的杜林人,客气的杜林人,Courteous Durin,Вежливый дурин
+char-7,执着的杜林人,执着的杜林人,Stubborn Durin,Упорный дурин
+char-8,絮叨的杜林人,絮叨的杜林人,Chatty Durin,Болтливый дурин
+char-9,森蚺,森蚺,Eunectes,Юнектес
+char-10,热爱酒精的杜林人们,热爱酒精的杜林人们,Booze-loving Durins,Дурины — любители выпивки
+char-11,不甚清醒的杜林人,不甚清醒的杜林人,Not Very Clear-headed Durin,Не совсем трезвый дурин
+char-12,不甚敏锐的杜林人,不甚敏锐的杜林人,Not Very Astute Durin,Не очень проницательный дурин
+char-13,不甚客气的杜林人,不甚客气的杜林人,Not Very Courteous Durin,Не очень вежливый дурин
+char-14,客气起来的杜林人,客气起来的杜林人,Starting-to-be-Courteous Durin,Ставший вежливым дурин
+char-15,敏锐起来的杜林人,敏锐起来的杜林人,Starting-to-be-Astute Durin,Ставший проницательным дурин
+char-16,清醒起来的杜林人,清醒起来的杜林人,Starting-to-be-Clear-headed Durin,Ставший трезвым дурин
+char-17,耶奇·地心,耶奇·地心,Edge Eartheart,Эдж Эартхарт
+char-18,阿芙朵嘉,阿芙朵嘉,Avdotya,Авдотья
+,,,,
+line-11,依娜姆,……阿卡胡拉和际崖城的杜林人就拜托你们了。,I'll leave Acahualla and the Durins from Zeruertza to you guys.,...Акахуаллу и дуринов из Зеруэрцы я оставлю вам.
+line-13,嘉维尔,依娜姆，这次你不走不行吗？,"Inam, you sure you have to go?","Инам, ты точно должна уехать?"
+line-15,特米米,依娜姆，不要走！,Don't go!,"Инам, не уезжай!"
+line-17,依娜姆,说什么傻话，我不走不行啊。,Don't be silly. I have to go.,"Не говори глупостей, мнедолжна уехать."
+line-19,特米米,呜……依娜姆，我会想你的……,*whimper*... Inam... I'll miss you...,Мм... Инам... Я буду скучать...
+line-32,依娜姆,你们搞什么啊，好像我一去不复返了一样！,What's with you two? You're making it sound like I'm never coming back!,"Что с вами обоими, будто я навсегда уезжаю!"
+line-35,特米米,可你说这次离开的时间会比较长……,But you said you'll be gone for a long time...,"Но ты сказала, что на этот раз надолго..."
+line-37,依娜姆,事关王酋的人选，麻烦事堆起来比祖玛玛的大丑还要高，我当然不敢保证说明天就能回来了！,"This lord ameer candidacy is even more of a mess than that whole ruckus with the Big, Ugly Thing Zumama caused. Of course I can't promise to be back tomorrow!","Дело выбора лорда-амира, хлопот столько, что выше, чем у Большого Уродливого Нечто Зумамы! Конечно, я не могу пообещать вернуться завтра!"
+line-39,特米米,呜呜……,*whimpers*...,Ммм...
+line-41,依娜姆,唉。,*sigh*,Эх.
+line-42,依娜姆,我越来越觉得自己来当王酋这个决定真是太正确了。,"More and more, I'm thinking I made the right choice to become the lord ameer myself.","Всё больше думаю, что стала лордом-амиром — правильное решение."
+line-43,依娜姆,总之，阿卡胡拉还有际崖城的杜林人就都拜托你了，嘉维尔。我不在的这段时间里，请你当好他们的领导。,"Anyway, Gavial, I'm counting on you to lead the Acahualla and the Zeruertza Durins while I'm gone.","Впрочем, Гавиал, я возлагаю на тебя Акахуаллу и дуринов из Зеруэрцы. Пока меня не будет, ты будешь их лидером."
+line-45,嘉维尔,具体需要我做什么？,"What do you need me to do, exactly?","Что именно ты хочешь, чтобы я делала?"
+line-47,依娜姆,什么都不做。,Nothing.,Ничего.
+line-49,嘉维尔,你是说，让我维持现状？,"You mean, keep the status quo?",То есть сохранять всё как есть?
+line-51,依娜姆,对。,That's right.,Верно.
+line-52,依娜姆,阿卡胡拉一直是这个样子。至于从际崖城来的那些杜林人，他们正在加紧建设聚落，甚至还投票决定暂时禁酒以提高工作效率。,"This is how Acahualla's always been. As for the Durins, they've been in a hurry to build their settlement. To the point they even voted to prohibit alcohol to improve efficiency.","Акахуалла всегда была такой. А дурины из Зеруэрцы спешно строят поселение — дошло до того, что они проголосовали за временный запрет на алкоголь ради повышения эффективности."
+line-54,特米米,禁酒？杜林人？！,Prohibit alcohol? The Durins?!,Запрет на алкоголь? Дурины?!
+line-56,依娜姆,没错，我也吓了一跳。,"Right, I was surprised too.","Да, я сама была потрясена."
+line-57,依娜姆,但这就是他们投票得出的结果。看来他们其实也是很明白轻重缓急的。,"But that's what they decided on. Looks like they have a sense of urgency, too.","Но таково их решение. Видно, они и правда понимают, что важнее."
+line-58,依娜姆,按照这个势头，在我回来之前，杜林人的聚落应该就能建成。,"And going by their speed, they'll probably be finished by the time I get back.","Если всё пойдёт так и дальше, к моему возвращению их поселение уже будет готово."
+line-59,依娜姆,你的工作，就是让这里和我在时一样。这对大家都很重要。,"Your job is to make sure everything stays the same, as if I never left. That's very important to everyone here.","Твоя задача — чтобы здесь было так же, как при мне. Это очень важно для всех."
+line-61,嘉维尔,我明白，当务之急还是杜林人聚落的事，对吧？,"I get it. The Durins' settlement comes first, right?","Поняла. Главное — поселение дуринов, да?"
+line-63,依娜姆,没错。,That's right.,Верно.
+line-65,嘉维尔,交给我了！,You can count on me!,Положись на меня!
+line-67,依娜姆,（怀疑的眼神）,(Doubtful glare),(Скептический взгляд)
+line-68,依娜姆,顺便一说，杜林人的酿酒工具被我藏在……（耳语）,"By the way, I hid the Durins' brewing equipment in... (whispers).","Кстати, инструменты для варки я спрятала... (шёпотом)"
+line-69,依娜姆,千万不能让他们找到，明白吗？,Do <i>not</i> let them find it. Understand?,Ни в коем случае не дай им найти. Поняла?
+line-71,嘉维尔,居然藏得这么隐蔽。,"Whoa, that's some hiding spot.",Вот это место для тайника.
+line-73,特米米,欸？是什么地方，我也想知道！,Huh? Where did she hide it? I wanna know!,"Эй? А где именно, я тоже хочу знать!"
+line-75,依娜姆,那些杜林人一遇到和酒沾边的事就鬼精鬼精的，要把地点从你嘴里诈出来简直就是分分钟的事。,"You've seen how crazy the Durins get whenever alcohol's involved. If I told you, it wouldn't take them long to squeeze that information out of you.","Дурины, стоит заикнуться о выпивке, и они сходят с ума. Стоит тебе обмолвиться — и они выпытают у тебя адрес за минуту."
+line-77,特米米,呜呜呜……,*whimpers*...,Мммм...
+line-79,嘉维尔,这么说来，连我也不告诉不是更好吗？,"But in that case, wouldn't it be better to keep me out of this too?","Тогда может, лучше было не говорить и мне?"
+line-81,依娜姆,……毕竟是要去和那些萨尔贡宫廷的家伙打交道，我还是得做一些准备。,"...I'm leaving to rub shoulders with those guys from the Court of Sargon, after all. I have to be prepared for anything.",...Всё-таки мне придётся иметь дело с этими людьми из двора Саргона. Нужно быть готовой ко всему.
+line-82,依娜姆,万一我一年半载回不来，那些杜林人一直喝不到家乡风味的酒，也怪可怜的。,"If it turns out it'll be a while till I get back, the Durins will have to forgo their taste of home for just as long. And I wouldn't want to be the one to blame.","Если я не вернусь год или два, дуринам придётся долго обходиться без напитка из дома. А я не хочу, чтобы меня за это винили."
+line-83,依娜姆,好了，我再跟你们说说其他注意事项……,"Alright, now let me go over the other things you need to keep an eye out for...","Ладно, теперь об остальном, что нужно держать в голове..."
+line-95,特米米,嘉维尔，我们这样真的好吗？,"Is this really okay, Gavial?","Гавиал, мы и правда так можем?"
+line-97,嘉维尔,嗯？不就是帮杜林人找点合用的木材，有什么好不好的？,Hm? We're just helping the Durins look for some suitable timber. What's not okay about it?,Мм? Мы же просто помочь дуринам найти подходящий лес. Что тут такого?
+line-99,特米米,可依娜姆让我们“什么都不做”……,But Inam told us not to do anything...,Но Инам велела «ничего не делать»...
+line-101,嘉维尔,嗨，我还以为你要说什么呢。,"Oh, I was wondering what you were going to say.","Эй, я думала, ты про что-то другое."
+line-102,嘉维尔,她说的是不要改变她定下来的规矩，不是让我们什么都不干。,"What she meant was we aren't supposed to change the rules she set, not that we shouldn't do anything.","Она имела в виду — не менять её порядки, а не сидеть сложа руки."
+line-104,嘉维尔,再说，看到那些杜林人热火朝天的样子，不帮他们干点什么，我自己都觉得说不过去——,"Besides, did you see how the Durins were at it under the blazing sun? I'd feel bad not helping them out somehow—","И потом, глядя, как дурины пашут под палящим солнцем, я бы сама себя не простила, если бы не помогла —"
+line-107,敏锐的杜林人,是嘉维尔吗？,"Gavial, is that you?",Это Гавиал?
+line-109,嘉维尔,你是从际崖城来的杜林人？,Are you a Zeruertza Durin?,Ты дурин из Зеруэрцы?
+line-115,敏锐的杜林人,没错。,That's right.,Точно.
+line-117,特米米,你也像斯第奇之前那样迷路了吗？我送你回去吧。,You lost like Stitch was before? How about I walk you back?,"Ты тоже заблудился, как Стич раньше? Я провожу тебя обратно."
+line-119,敏锐的杜林人,那倒不必。,No need.,Не нужно.
+line-120,敏锐的杜林人,嘉维尔，我来是有话想跟你说。,I'm here because I have something to talk to you about.,"Гавиал, я пришёл поговорить с тобой."
+line-122,嘉维尔,不管有什么话都回去再说吧，这片雨林不太安全。,"Whatever it is, let's talk after we get back. This rainforest isn't all that safe.","О чём бы ни было, давай после того, как вернёмся. В этом лесу не очень безопасно."
+line-124,敏锐的杜林人,不不不，这里最安全了。,"No, no, no. There's nowhere safer than here.",Нет-нет-нет. Здесь безопаснее всего.
+line-126,特米米,？,?,?
+line-128,敏锐的杜林人,其实我是蜜酿协会的人……,"You see, I'm from the mead fan club...","Дело в том, что я из клуба любителей медовухи..."
+line-130,嘉维尔,原来是禁酒的事啊。,"So it's about the prohibition, huh?",Так вот оно что — из-за запрета.
+line-132,敏锐的杜林人,你这么通情达理真是太好了——,It's a good thing you're such a reasonable woman—,"Как хорошо, что ты такой разумный человек —"
+line-134,嘉维尔,打住，这事免谈。,"Hold on, no dice.",Стоп. Об этом не может быть и речи.
+line-136,敏锐的杜林人,这么坚决？,No room for negotiation at all?,Совсем без вариантов?
+line-138,嘉维尔,禁酒令是你们自己投票通过的，你真有意见，应该去找自己人。,"You guys are the ones who voted to forbid all alcohol. You got a problem with that, talk to your own people.",Запрет ввели вы сами. Есть претензии — говорите со своими.
+line-140,敏锐的杜林人,但酿酒工具交给依娜姆保存了。,But Inam kept all our equipment.,Но инструменты для варки остались у Инам.
+line-142,嘉维尔,呃，依娜姆又没告诉我她把酿酒工具放在哪里——,"Uh, she never told me where she stored it—","Э-э, она не говорила мне, где она их спрятала —"
+line-144,敏锐的杜林人,真的吗？只有她一个人知道？,Really? Only she knows?,Правда? Только она знает?
+line-146,嘉维尔,……,......,...
+line-148,敏锐的杜林人,她怎么能这样呢，万一她自己也忘了，际崖城的蜜酒岂不是再也回不来了，真不负责任……,How could she do that? What if she forgets where she hid it? We'll never again get to taste Zeruertza's fine mead again. How irresponsible of her...,"Как она могла! А вдруг она забудет, где спрятала, и мы никогда больше не попробуем медовуху Зеруэрцы. Безответственно..."
+line-150,特米米,依娜姆才没有不负责任呢！她把藏酿酒工具的地方告诉嘉维尔了！,She's not irresponsible at all! She told Gavial where she kept the mead brewing equipment!,"Инам совсем не безответственная! Она сказала Гавиал, где спрятала инструменты!"
+line-152,嘉维尔,哦豁，完蛋。,Oh my lord.,"Ох, всё. Пропали мы."
+line-154,敏锐的杜林人,果然，我就知道，依娜姆才不会做出这种不负责任的事情。,"Hah, I knew it. There's no way Inam wouldn't leave a back-up plan.","Ха, я знал. Инам не способна на такую безответственность."
+line-156,特米米,就是就是——,"Yeah, yeah—",Вот-вот —
+line-164,特米米,痛！,Ow!,Ой!
+line-166,嘉维尔,反正我是不会告诉你们的。,Not like I'll ever tell you guys.,Я всё равно вам не скажу.
+line-168,敏锐的杜林人,好吧，看来今天是不行了。,"Alright, fine, looks like we won't get our mead today.","Ладно, видно, сегодня не выйдет."
+line-169,敏锐的杜林人,但我们是不会放弃的！,But we'll never give up!,Но мы не сдадимся!
+line-170,敏锐的杜林人,城市要从一砖一瓦建起，酿酒工具的下落也要一点一点挖掘出来！,"Just as a city is laid brick by brick, I'll <i>taste</i> the whereabouts of our brewing equipment, bit by bit!","Как город строится по кирпичику, так и мы по крупицам выпытаем, где инструменты!"
+line-182,清醒的杜林人,下午好，嘉维尔。,"Good afternoon, Gavial.","Добрый день, Гавиал."
+line-184,嘉维尔,你好，有什么事？,"Heyas, what's up?","Привет, что случилось?"
+line-186,清醒的杜林人,为了一些紧急情况，我不得不来此地把你探访。,"We have a bit of an urgent matter on our hands, so I have no choice but to visit you here.",Из-за нескольких срочных обстоятельств я вынужден навестить тебя здесь.
+line-187,清醒的杜林人,因为缺乏一些……生活必需品，我的同胞们情绪低落，夜不能寐，如同被幽灵缠绕一般，痛苦万分。,"We're lacking some... necessities, and my fellows are all... fairly low in <i>spirits</i>. They're tormented, unable to sleep, and in pain.","Из-за нехватки некоторых... предметов первой необходимости мои соотечественники в унынии, не спят по ночам, будто их преследуют призраки, и очень страдают."
+line-189,特米米,好可怜。,Poor fellas...,Бедняги...
+line-191,清醒的杜林人,现在我为着缓和他们的苦楚来找你求助了，令人尊敬的嘉维尔。,"I want to soothe their pain, which is why I've come to request your help, our most respected Gavial.","Я пришёл облегчить их страдания к тебе за помощью, достопочтенная Гавиал."
+line-193,特米米,嘉维尔，我们帮帮他们吧！,"We should help them, Gavial!","Гавиал, давай им поможем!"
+line-195,嘉维尔,第一，不要在我的名字前面加乱七八糟的形容词。,"First off, don't you stick some weird adjective in front of my name.","Во-первых, не лепи ко мне всякие странные прилагательные."
+line-196,嘉维尔,第二，让我猜猜，你说的生活必需品一定是蜜酿，对不对？,"Secondly, the necessities you guys are out of have gotta be mead, right?","Во-вторых, дай угадаю: «предметы первой необходимости» — это медовуха, верно?"
+line-198,清醒的杜林人,简直是一派胡言！,What a load of rubbish!,Чушь несусветная!
+line-200,嘉维尔,哦？,Oh?,О?
+line-202,清醒的杜林人,那种低劣的儿童饮料，如何能与高贵的七号烈酒等量齐观？,How could you possibly compare that kids' drink to our noble No. 7 Whiskey?,Как можно сравнивать этот детский напиток с благородным виски № 7?
+line-204,嘉维尔,反正你们都喝不到，我觉得差不多。,"Well, whatever it is, you guys ain't getting a sip, so why does it matter?",Всё равно вы его не получите — мне без разницы.
+line-206,清醒的杜林人,哦，狠心的嘉维尔，你怎能如此铁石心肠？,"Oh, cruel Gavial. How could you be so merciless?","О, жестокая Гавиал, как ты можешь быть столь безжалостной?"
+line-208,嘉维尔,……在控诉我的铁石心肠之前，你能先把这个怪里怪气的说话腔调改掉吗？,"Before you accuse me of being merciless, can't you do something about the way you talk? It's weird.","...Прежде чем обвинять меня в безжалостности, не можешь ли ты избавиться от этого странного способа говорить?"
+line-210,清醒的杜林人,欸，很怪吗？,Huh? Is it weird?,"Эй, разве это странно?"
+line-211,清醒的杜林人,我还以为模仿阿芙朵嘉笔下的人物说话，和地上人沟通会更有效率一点。,And here I thought it would be easier to talk to surface-dwellers if I imitated Avdotya's characters.,"Я думал, если я буду говорить как герои Авдотьи, мне будет легче объясняться с жителями поверхности."
+line-213,嘉维尔,完全没有。请你好好说话。,"Yeah, no, it doesn't work that way. Talk normal.","Нет, не поможет. Говори нормально."
+line-215,清醒的杜林人,没有烈酒喝我要死了！,I'll die if I don't get any whiskey!,Без виски я умру!
+line-218,嘉维尔,忍着！！,Bear with it!,Терпи!!
+line-229,客气的杜林人,嘉维尔，请问依娜姆把酿酒工具藏到哪里去了？,"Gavial, would you please tell us where Inam hid the brewing tools?","Гавиал, не подскажешь ли ты,где Инам спрятала инструменты?"
+line-240,执着的杜林人,嘉维尔，酿酒工具被藏到哪去了？,"Gavial, where did she hide our distilling equipment?","Гавиал, куда она спрятала инструменты?"
+line-251,絮叨的杜林人,嘉维尔，酿酒工具……,"Gavial, our brewing equipment...","Гавиал, инструменты..."
+line-268,森蚺,哟，嘉维尔。,"Hey, Gavial.","Эй, Гавиал."
+line-270,嘉维尔,祖玛玛？见到你真高兴。终于能有人和我聊些酒精以外的事情了。,"Zumama? Good to see you. Finally, someone who'll talk about something other than alcohol.",Зумама? Рада тебя видеть. Наконец-то кто-то поговорит со мной не о выпивке.
+line-272,森蚺,（僵住）,(Freezes),(Замерла)
+line-274,嘉维尔,呃……,Urgh...,Э-э...
+line-276,嘉维尔,我有种不祥的预感。,I have a bad feeling about this.,У меня плохое предчувствие.
+line-278,森蚺,（深呼吸）,(Deep breath),(Глубокий вдох)
+line-282,森蚺,杜林人的酿酒工具……,It's about the Durins' brewing and distilling equipment...,Об инструментах дуринов для варки...
+line-309,嘉维尔,怎么连你也跟着他们起哄啊？,Why are you of all people asking about that?,Почему и ты за них уцепилась?
+line-315,森蚺,因为他们答应我，一拿到酿酒工具就派他们协会的技工来，帮我用杜林科技调试机器人……,"They promised me that the moment they get their equipment back, they'll send their mechanics to help me test my robots with their technology.","Они пообещали, что как только инструменты вернутся, пришлют своих механиков помочь мне настроить роботов с помощью дуринских технологий..."
+line-317,嘉维尔,死心吧。,Give it up.,Забудь.
+line-319,森蚺,唔……,Nnuuh...,Мм...
+line-321,嘉维尔,不过，他们连你都动员起来了，这我可真没想到。,"That said, I really didn't expect <i>you</i> on their side.","И всё же я не ожидала, что ты встанешь на их сторону."
+line-322,嘉维尔,他们还找谁了？,Who else have they talked to?,Кого ещё они подключили?
+line-324,森蚺,让我想想……,Let's see...,Дай подумать...
+line-325,森蚺,他们去找过特米米，但是被轰出来了。,"They tried Tomimi, but they got blasted out.","Они ходили к Томими, но её выгнали."
+line-326,森蚺,耶奇·地心长老和际崖城的其他人他们也去找过。,They've also talked to their Great Chief Edge Eartheart and others from Zeruertza.,Ещё они говорили со старейшиной Эджем и другими из Зеруэрцы.
+line-327,森蚺,他们自己说的，除了阿芙朵嘉之外，其他人的态度都有些松动，至少是……暧昧。,"They said it themselves. Aside from Avdotya, everyone's been either somewhat lax about it or at least... ambiguous.","Они сами сказали: кроме Авдотьи, все отнеслись к этому хоть сколько-нибудь мягко — или по крайней мере... двусмысленно."
+line-329,嘉维尔,暧昧？,Ambiguous?,Двусмысленно?
+line-331,森蚺,据说，就连一开始厉行禁酒的耶奇长老自己，现在也已经有点被他们说动了。毕竟我们也见识过际崖城里的酒有多畅销。,"Supposedly, they've even managed to persuade Chief Edge despite how strict he was with the ban at first. And we've both seen in Zeruertza how the alcohol there flew right off the shelves.","Говорят, даже Эдж, который сначала так рьяно вводил запрет, теперь уже почти согласился. Мы же видели, как в Зеруэрце алкоголь разлетался как горячие пирожки."
+line-333,嘉维尔,这样下去绝对不行！,This can't continue!,Так дальше нельзя!
+line-335,嘉维尔,看来一味地跟这些家伙纠缠下去已经不是个办法了。他们自己颁布的禁酒令，当然也可以自己推翻。,"We can't waste any more time with these fellas. They're the ones who banned all the booze, so of course they can unban it, too.","Нет смысла тянуть с этими ребятами. Запрет вводили они — значит, они же могут его и отменить."
+line-336,嘉维尔,真走到那一步，杜林聚落离建成怕是就遥遥无期了……我可不想等依娜姆回来之后，给她展示全阿卡胡拉独一无二的烂尾建筑群！,"But if it comes to that, they'll never finish their settlement... I don't want Acahualla to have nothing but a bunch of incomplete buildings waiting for Inam when she gets back!","А если дойдёт до этого, поселение дуринов никогда не будет достроено... Не хочу, чтобы Инам вернулась и увидела во всей Акахуалле одни недостроенные коробки!"
+line-338,森蚺,……哇。,...Wow.,...Вау.
+line-340,嘉维尔,你肯定也不想那样吧？,"You wouldn't want to see that either, right?","Ты же тоже не хочешь этого, верно?"
+line-342,森蚺,我倒是无所谓……不过我听你的。,"It doesn't really matter to me, but... I'll follow your lead.",Мне-то всё равно... но я последую за тобой.
+line-344,嘉维尔,把特米米也叫来吧，我们一起商量一下。,Bring Tomimi here. Time for a war council.,Позови Томими. Соберём военный совет.
+line-354,特米米,啊？？？,Huh???,А? Что?
+line-356,特米米,怎么办啊嘉维尔！,"What do we do, Gavial?!","Что делать, Гавиал?!"
+line-358,嘉维尔,特米米，你冷静一点。,"Calm down, Tomimi.","Томими, успокойся."
+line-360,特米米,我现在就去找耶奇长老，让他不要改口！,I'll go talk to Master Edge and ask him not to change his mind!,"Я сейчас пойду к старейшине Эджу и скажу, чтобы он не передумал!"
+line-362,嘉维尔,停、停、停，回来！,Stop. Stop! Come back!,"Стой, стой, вернись!"
+line-364,森蚺,我刚刚和嘉维尔聊过了。耶奇长老自己也不是不喝酒，现在去找他多半不是个好主意。,I just talked to Gavial. It's not like Edge doesn't drink himself. It probably wouldn't be a good idea to talk to him now.,Я только что говорила с Гавиал. Эдж и сам не прочь выпить. Сейчас идти к нему — плохая идея.
+line-366,嘉维尔,真的能在禁酒这件事上不打折扣的恐怕只有阿芙朵嘉，但禁酒涉及到杜林人的切身利益，她恐怕也无能为力……,"Avdotya might just be the only one who'll follow through with the ban, but since this involves the Durins' immediate benefit, she might be powerless herself.","Из всех, кто соблюдает запрет неукоснительно, разве что Авдотья. Но раз это затрагивает интересы дуринов, она тоже ничего не сможет сделать..."
+line-368,特米米,呜……,*whine*...,Мм...
+line-370,嘉维尔,其实我有个主意。,"Actually, I have an idea.",На самом деле у меня есть идея.
+line-372,特米米,真的？嘉维尔，我就知道，你一定行的！,Really? I knew you'd know what to do!,"Правда? Гавиал, я знала, что ты что-нибудь придумаешь!"
+line-374,嘉维尔,你也别这么兴奋，光靠我一个人肯定不成，我还需要你们来帮帮我。,Don't get ahead of yourself. I can't do this on my own. I need your help.,Не радуйся раньше времени. Одной мне не справиться — мне нужна ваша помощь.
+line-375,嘉维尔,特米米，麻烦你发动一下各个部落的人，让他们盯着点杜林人。,"Tomimi, send the word out to all the tribes and ask them to keep an eye on the Durins.","Томими, передай всем племенам, чтобы присматривали за дуринами."
+line-377,特米米,欸？他们要做什么？,Huh? What are they gonna do?,Эй? А что они будут делать?
+line-379,嘉维尔,这就和祖玛玛的任务息息相关了……,That depends on Zumama and her mission...,Это зависит от Зумамы и её поручения...
+line-393,清醒的杜林人,我们已经多少天没有酒喝了？,How many days has it been since we last had a sip?,Сколько дней мы уже не пили?
+line-395,敏锐的杜林人,我已经懒得数了，烈酒疯子。我只记得你们派出去游说的人全都无功而返，比源石虫还难看。,"Yeah, I haven't been keeping count, you whiskey idiot. Couldn't be bothered to. All I remember is that all the men you guys sent to persuade her came back empty-handed. You guys are even more pathetic than Originium slugs.","Я давно сбился со счёта, виски-идиот. Помню только, что все, кого вы посылали её уговаривать, вернулись ни с чем — хуже ориджиниум-слизней."
+line-398,清醒的杜林人,蜜酿软蛋，你说什么？！,"What did you just say, you mead wimp?!","Что ты сказал, медовый трус?!"
+line-401,敏锐的杜林人,……我警告你，你侮辱我们的人可以，侮辱老卡尔蜜酿不行！,"...Let me warn you. You can insult us, but you can't insult Old Karl Mead!","...Предупреждаю: можешь оскорблять нас, но не смей трогать медовуху «Старый Карл»!"
+line-402,敏锐的杜林人,我看你们才是被烈酒里的脚臭味儿熏坏了脑子！,"The way I see it, you guys got brain damage from all that stinking foot odor you guys got with your whiskey!",Это вы от вони ног в своём виски мозги испортили!
+line-404,客气的杜林人,我说……,You know...,Знаете...
+line-406,敏锐的杜林人,什么？,What?,Что?
+line-408,客气的杜林人,我一向是主张你们两派和平共处的……,I've always advocated for both sides to peacefully coexist.,Я всегда выступал за мирное сосуществование обеих фракций...
+line-410,清醒的杜林人,有话快说，喜欢喝浆果番茄酒的怪胎。,"Get to the point, you berry tomato wine freak.","Говори короче, ягодно-томатный выродок."
+line-412,客气的杜林人,其实耶奇长老已经快被我们的人说动了，只要再忍两三天，就两三天——,"Actually, my guys have almost persuaded Master Edge. We just need to wait a couple more days. Just a few more days—","Дело в том, что Эдж уже почти согласился. Ещё два-три дня, всего два-три дня —"
+line-421,嘉维尔,哟，阴谋家们，你们好啊。,"Hey there, my conspirators. Nice to see you guys.","Здравствуйте, заговорщики."
+line-424,热爱酒精的杜林人们,嘉维尔？！,Gavial?!,Гавиал?!
+line-426,嘉维尔,我是来谈条件的。,I'm here to talk conditions.,Я пришлаобсудить условия.
+line-428,清醒的杜林人,什么条件？,What conditions?,Какие условия?
+line-430,嘉维尔,我知道，你们想拿回酿酒工具，而且已经快等不及了，对不对？,"I know you guys want your booze making tools, and you can't wait to get your hands on them, right?","Я знаю, вы хотите вернуть инструменты и уже не можете ждать. Так?"
+line-432,敏锐的杜林人,……确实。,True enough.,...Да.
+line-434,嘉维尔,我来给你们指一条明路吧。,"I'll give you guys a way out, then.",Тогда я укажу вам дорогу.
+line-435,嘉维尔,只要你们击败我，我就把工具原样奉还。,"If you guys manage to beat me, I'll give you your tools back.","Если сумеете победить меня, я верну инструменты в целости."
+line-437,敏锐的杜林人,真的？我打——,"Really? Get her, boys—","Правда? Бейте её, ребята —"
+line-439,嘉维尔,你真打算就这么开打？,Just like that?,Ты и правда хочешь сразу драться?
+line-441,敏锐的杜林人,呃……我想我还是需要一些准备。,Uhh... I guess we'll need to make some preparations first.,"Э-э... Нам, кажется, нужно подготовиться."
+line-443,嘉维尔,明智的选择。,Good call.,Мудрое решение.
+line-444,嘉维尔,重申一遍，只要你们中有哪个能击败我，我立刻把酿酒工具交给他。,"I'll say this again. If one of you manages to defeat me, I'll give that person the tools back.","Повторяю: если кто-то из вас сумеет победить меня, я сразу же отдам ему инструменты."
+line-446,嘉维尔,那边那个，对，说你呢。,"Hey, you there. That's right. You.","Вон тот, да — ты."
+line-449,清醒的杜林人,——？！,—?!,—?!
+line-451,嘉维尔,偷袭可不行。,An ambush isn't gonna work on me.,Подстава не прокатит.
+line-453,嘉维尔,要是哪个人想偷袭我，他恐怕就要终身戒酒了。,Anyone who tries might just end up having to give up drinking for the rest of their life.,"А то тот, кто попытается напасть исподтишка, до конца жизни будет трезвенником."
+line-455,清醒的杜林人,噫！,Eek!,Ой!
+line-457,嘉维尔,再说，偷袭这种事也太不光明磊落了一点，你说是吧？,"Besides, ambushes are kinda underhanded, wouldn't you agree?","И потом, нападать исподтишка как-то некрасиво, не находите?"
+line-459,客气的杜林人,但我、我、我们是不会屈服的！,W-We aren't going to bow down to you!,"Но мы, мы не сдадимся!"
+line-461,嘉维尔,好，很有骨气，不愧是阿卡胡拉的新居民！,"Good, you've got some backbone. I'd expect no less from the newest residents of Acahualla.","Вот, молодцы!. Настоящие новые жители Акахуаллы."
+line-463,嘉维尔,赶紧做准备去吧！只要你们想打，我随时奉陪！,Now hurry up with your preparations. I'm ready when you are!,"Ну же, готовьтесь! Хотите драться — я всегда готова!"
+line-473,嘉维尔,祖玛玛，你那边怎么样？,"Zumama, how are things going on your end?","Зумама, как у тебя дела?"
+line-475,森蚺,很顺利。,Very well.,Отлично.
+line-476,森蚺,他们一开始以为只要稍微努力一下，筹集点装备什么的就能打过你，显然是想简单了。,"At first, they thought they could take you on just by working a little harder and putting some gear together. Clearly they underestimated you.","Сначала они думали, что стоит чуть больше постараться, собрать какое-то снаряжение — и они тебя одолеют. Явно переоценили себя."
+line-478,森蚺,这几天他们连连打败仗，就开始找别的办法。我很轻松地把他们的注意力吸引到机械上了。,"But after you handed their asses to them every single time, they started looking for another way, and it didn't take much work for me to divert their attention to robotics.",Эти дни они проигрывали тебе раз за разом и начали искать другой путь. Мне не составило труда переключить их внимание на механику.
+line-480,森蚺,我把大丑的图纸借给了他们，和他们展开了一波深入的技术交流，不得不说，杜林人的技术真的很让人感兴趣。,"I lent them the blueprints for the Big, Ugly Thing and had a bit of a technological exchange with them. I have to say, the Durins' technology is really interesting.","Я одолжила им чертежи Большого Уродливого Нечто и устроила с ними небольшой обмен технологиями. Должна сказать, технологии дуринов действительно интересные."
+line-481,森蚺,他们的自走车看起来有点瞎，但里面的技术都是真家伙，一旦投入使用可不得了。,"Their self-driving carts may act like they might as well be blind, but the technology behind them is nothing to scoff at. Once deployed, we'll be in for quite a show.","Их самоходные тележки выглядят так, будто едут вслепую, но начинка — настоящая. Стоит их применить — и начнётся представление."
+line-483,嘉维尔,这倒是好事……不过我担心的是，他们该不会搞出一个搭载了杜林科技的自走车大丑吧。,"That's not a bad thing... but what I'm worried about is them putting together a self-driving Big, Ugly Thing.","Это хорошо... Но я боюсь, как бы они не собрали самоходное Большое Уродливое Нечто с дуринскими технологиями."
+line-485,森蚺,这个……,Well...,М-м...
+line-486,森蚺,他们好像就是这个思路。,I think that's exactly what they have in mind.,"По-моему, именно это у них и на уме."
+line-488,嘉维尔,（耸肩）,(Shrugs),(Пожимает плечами)
+line-490,嘉维尔,也好，我们本来就计划好的，想借着这个机会让杜林人尝试一下，看看能不能开发一些适合搞建设的机械。,"Alright, fine. We were going to take this chance to see if the Durins would put together some kind of machine they could use in construction anyway.","Ладно. Мы и так собирались использовать этот шанс — посмотреть, смогут ли дурины собрать механику для стройки."
+line-492,嘉维尔,再说，我这几天和那些杜林人简直不能叫打架，就是过家家。现在你告诉我有个大丑级别的对手，也挺不错的。,"And I mean, they haven't really been putting up much of a fight the last few days. Getting to fight something like the Big, Ugly Thing again isn't so bad.","И потом, эти дни они не столько дрались, сколько играли. У меня даже повода не было вспотеть. А тут вдруг достойный противник вроде Большого Уродливого Нечто — и то неплохо."
+line-499,特米米,嘉维尔，不好了！,"Bad news, Gavial!","Гавиал, беда!"
+line-501,嘉维尔,啊？怎么了，杜林人因为喝酒的事内讧了？,Huh? What's the matter? Did the Durins start fighting among themselves over their booze?,"А? Что случилось, дурины из-за выпивки перегрызлись?"
+line-503,特米米,确实，蜜酿协会的人差一点就和喜欢七号烈酒的人打了起来——,"Yeah, the mead fan club almost had an all-out brawl with the No. 7 Whiskey fans—","Да, клуб любителей медовухи чуть не подрался с любителями виски № 7 —"
+line-505,特米米,不对，我不是说这个！,"No, that's not what I'm here about!","Нет, я не об этом!"
+line-507,特米米,我是说，他们做出了一台不输大丑的机械，正在搞武器试射！,"They put together a robot just as awesome as the Big, Ugly Thing, and they're testing out its weapons right now!",Они собрали механику не хуже Большого Уродливого Нечто и сейчас испытывают её оружие!
+line-509,嘉维尔,嗨。,Oh.,О.
+line-511,嘉维尔,祖玛玛的任务就是这个，忘了吗？,That's exactly what Zumama's mission was. Don't you remember?,В этом и заключалась поручение Зумамы. Забыла?
+line-513,特米米,唔……我白担心了。,Oh... I guess I worried too much.,Мм... Я зря волновалась.
+line-515,特米米,那我继续去旁观他们搞武器试射了！乒乒乓乓的，看起来真的很厉害！,"Alright, I'll keep watching them test their weapons, then! It's like, kaboom! It looks really amazing!","Тогда я пойду дальше смотреть, как они стреляют! Бум-бах, выглядит так круто!"
+line-517,嘉维尔,去吧去吧，如果感觉有什么不对的地方再来找我——,Alright. Let me know if something seems off—,"Иди, иди. Если что-то покажется не так — сразу ко мне —"
+line-522,嘉维尔,等下，他们在哪里搞武器试射的？,"Hold up, where are they doing this testing?","Стой, где они испытывают оружие?"
+line-524,特米米,森蚺部落北边不远处的一个洞窟下面，那里除了树什么都没有。,At a cave not far north of the Eunectes tribe. There's nothing but trees there.,В пещере неподалёку к северу от племени Юнектес. Там одни деревья.
+line-526,嘉维尔,森蚺部落北边……洞窟——,A cave north of... the Eunectes tribe—,К северу от племени Юнектес... пещера —
+line-528,嘉维尔,糟了！,Dammit!,"Ох, чёрт!"
+line-530,特米米,啊？,Huh?,А?
+line-532,嘉维尔,特米米，你快去制止他们，我和祖玛玛随后就到！,"Tomimi, hurry up and stop them. Zumama and I will be there soon!","Томими, беги останови их. Я и Зумама будем раньше!"
+line-534,森蚺,不就是武器试射吗，你怎么突然这么紧张？,They're just testing weapons. Why are you so worried about it all of a sudden?,Это же просто испытание оружия. Почему ты вдруг так нервничаешь?
+line-536,嘉维尔,依娜姆把他们的酿酒工具藏在那个洞窟里了啊！,That's the cave where Inam hid all their alcohol making equipment!,В той пещере Инам спрятала их инструменты для варки!
+line-547,不甚清醒的杜林人,哈——欠。,Hah—*yawn*.,Ха — ав!..
+line-549,不甚敏锐的杜林人,嘉……嘉维尔？！,G-Gavial?!,Г-Гавиал?!
+line-555,嘉维尔,各位，请你们换个地方试验武器，好不好？,"Hey, fellas. Mind testing your weapons somewhere else?","Ребята, не могли бы вы пострелять в другом месте?"
+line-557,不甚清醒的杜林人,为什么？,Why should we?,Почему мы должны?
+line-559,嘉维尔,这……,Well...,Это...
+line-561,不甚清醒的杜林人,是你说的，只要我们能打败你，就能拿回酿酒工具！,You're the one who told us you'll give us back our tools if we defeat you!,Ты же сама сказала: победишь тебя — вернём инструменты!
+line-563,嘉维尔,这倒是没错。,That I did say.,Я и правда говорила.
+line-565,不甚敏锐的杜林人,那你现在为什么要阻拦我们？,Then why are you trying to stop us?,Тогда почему ты нам мешаешь?
+line-567,嘉维尔,这——我来不是为了别的，只是想让你们换个地方试验这台……这台……,Well—That's not what I'm here for. I just want you guys to go someplace else to test your... your...,"Дело не в этом... Я пришла не за этим. Я просто хочу, чтобы вы перенесли испытание этой... этой..."
+line-569,不甚客气的杜林人,巨大的终极丑东西Mk3！,"Giant, Ultimate Ugly Thing Mk. 3!",Огромной конечной Уродины Mk3!
+line-571,嘉维尔,没错，我只是想让这台巨大的终极丑东西Mk3换个地方试验，仅此而已。,"Right. I just wanted you guys to test out the Giant, Ultimate Ugly Thing Mk. 3 somewhere else, that's all.","Да. Я лишь хочу, чтобы вы переносили испытания огромной конечной Уродины Mk3. И всё."
+line-573,不甚清醒的杜林人,这里已经是我们能找到的最合适的地方了。,This is the most suitable place we found.,"Это лучшее место, что мы нашли."
+line-574,不甚清醒的杜林人,再说，为了击败你，我们已经付出了沉重的代价！,"Besides, we've already paid such a heavy price just to defeat you!","И потом, чтобы победить тебя, мы заплатили страшную цену!"
+line-576,嘉维尔,沉重的代价？,What price?,Какую цену?
+line-578,不甚清醒的杜林人,我们熬了三天三夜，但这不是最重要的。,"We've toiled through three whole days and nights, but that's not even important.","Мы не спали три дня и три ночи, но это не главное."
+line-579,不甚清醒的杜林人,最重要的是，我们甚至还和蜜酿软蛋联手了！,What's important is we're reduced to working with these mead wimps!,Главное — мы даже объединились с медовыми трусами!
+line-581,不甚敏锐的杜林人,没错！我们甚至还和烈酒疯子联手了！,That's right! We're even working with these whiskey idiots!,Точно! Мы даже объединились с виски-идиотами!
+line-583,嘉维尔,啊……原来这个才是最重要的吗？,"Oh... so that's the most important part, huh?","Ах... Вот оно что, значит, это самое главное?"
+line-585,不甚敏锐的杜林人,总之，我们付出了如此惨重的代价，怎么可能因为你的一句话就放弃！,"Anyway, we've already sacrificed so much. There's no way we're going to give up just because of what you said!","В любом случае, мы столько пожертвовали — неужели из-за твоих слов мы просто так сдадимся!"
+line-587,嘉维尔,可我只是想让你们换个地方而已。,All I'm asking is for you to find someplace else.,Я только прошу выбрать другое место.
+line-589,不甚敏锐的杜林人,不行，就是不行！,No means no!,Нет и нет!
+line-591,嘉维尔,为什么呀？,Why's that?,Почему?
+line-593,特米米,（小声）嘉维尔，这倒不怪他们。,"(Whispers) You can't blame them, Gavial.","(Шёпотом) Не в этом дело, Гавиал."
+line-594,特米米,（小声）阿芙朵嘉让他们找个不会打扰别人的地方，还威胁他们，要是打扰到别人，以后就不帮他们的酒写广告了。,(Whispers) Avdotya asked them to find somewhere they wouldn't bother anyone. She even threatened to not write ads for their drinks anymore if they disturbed anyone.,"(Шёпотом) Авдотья велела им найти место, где они никому не помешают, и пригрозила, что если кто-то пострадает, она больше не будет писать им рекламу."
+line-595,特米米,（小声）所以他们才找到这里的。,(Whispers) That's how they ended up here.,(Шёпотом) Вот они и пришли сюда.
+line-597,特米米,（小声）我刚才也看到了好多固定好的设备和器械，已经搬不走了。,(Whispers) And I saw lots of equipment and machinery already mounted in place. They can't take them away anymore.,(Шёпотом) Я ещё видела много уже укреплённого оборудования — теперь его не вытащить.
+line-599,嘉维尔,（小声）这下头疼了……,(Whispers) What a headache...,(Шёпотом) Голова болит...
+line-601,特米米,（小声）要不然我就跟他们说，让他们不要在武器试射的过程中波及那个洞窟……,(Whispers) How about I ask them not to hit the cave when they test fire their weapons...?,"(Шёпотом) Может, я попрошу их не задевать пещеру во время стрельб..."
+line-603,嘉维尔,那不等于明摆着告诉他们里面有东西吗！,That's basically giving it away that there's something there!,"Это же всё равно что сказать им, что внутри что-то есть!"
+line-605,特米米,呜……,*whine*...,Мм...
+line-607,不甚客气的杜林人,请回吧，嘉维尔，不要继续妨碍我们了！,"Now, please leave. Stop bothering us here!","Уходи, Гавиал. Не мешай нам!"
+line-608,不甚客气的杜林人,难道你觉得自己打不过巨大的终极丑东西Mk3，这才跑来干扰我们？,"Or are you trying to interfere because you think you're no match for the Giant, Ultimate Ugly Thing Mk. 3?!","Или ты думаешь, что не справишься с огромной конечной Уродиной Mk3 и поэтому пришла помешать?"
+line-610,嘉维尔,这我可不能当没听见。,"Now <i>that</i>, I can't pretend I didn't hear.",Вот это я уже не могу пропустить.
+line-612,不甚客气的杜林人,……总、总之，你请回吧！,"A-Anyway, just leave already!","В-В любом случае, уходи!"
+line-614,嘉维尔,我最后再申明一次，我是从你们的利益出发，劝你们换个位置的。,I'll say this again. I'm asking you guys to move somewhere else for your own benefit.,Говорю последний раз: я из ваших же интересов прошу вас перейти на другое место.
+line-616,不甚客气的杜林人,我们是不会走的！,We aren't going anywhere!,Мы никуда не уйдём!
+line-618,嘉维尔,啊——麻烦死了。,Ugh—What a pain.,Ах... Какая морока.
+line-619,嘉维尔,要不这样，我们的对决提前吧，就在这里开打，怎么样？,How about this. We'll fight here and now. How's that?,"Давайте так — устроим наш поединок прямо сейчас, здесь. Как?"
+line-621,特米米,（小声）嘉维尔，你这是什么意思？,(Whispers) What are you thinking?,"(Шёпотом) Гавиал, что ты задумала?"
+line-623,嘉维尔,（小声）与其放着他们在这儿狂轰滥炸把山洞炸塌，还不如让我控制一下局势，放心吧。,"(Whispers) Instead of letting them stay and blow up the cave, I might as well take the situation into my own hands. Don't worry.","(Шёпотом) Лучше я возьму ситуацию в свои руки, чем позволю им разнести пещеру. Не волнуйся."
+line-625,不甚客气的杜林人,可我们的武器还没调试好……,But we haven't properly tuned our weapons yet...,Но мы ещё не настроили оружие...
+line-627,嘉维尔,这次如果我输了，我立刻就把工具原样奉还，如果我赢了，你们还有继续挑战的机会，怎么想都不亏吧？,"If I lose, I'll give you all your tools back. If I win, you guys still get to fight me again later. You've got nothing to lose.","Если я проиграю — сразу отдам вам инструменты. Если выиграю — вы сможете вызывать меня снова. В любом случае вы в выигрыше, верно?"
+line-629,不甚客气的杜林人,好像……好像也是？,I... I suppose?,"Похоже... похоже, да?"
+line-635,,嘉维尔三步并作两步跑到巨大机械的南边。,Gavial quickly runs to the south of the enormous machine.,Гавиал в три шага перебегает к южной стороне огромной машины.
+line-637,不甚客气的杜林人,喂，你怎么跑到这边来了！,"Hey, why did you come over here?!","Эй, почему ты перешла сюда?!"
+line-639,嘉维尔,那边是洞窟和峭壁，我也得给自己留点腾挪的空间吧？,"That's a cave and a cliff over there. I gotta give myself some room, right?","Там пещера и обрыв. Мне нужно место, чтобы увернуться, верно?"
+line-641,不甚客气的杜林人,好像也有点道理。,"Alright, makes sense.",Вроде логично.
+line-643,嘉维尔,那就开打吧，怎么样？,"How about we get started, then?",Тогда начнём?
+line-645,不甚客气的杜林人,那、那我不客气了！,W-We aren't gonna hold back!,Т-Тогда мы не сдержимся!
+line-660,嘉维尔,好强的火力，几乎没法近身……,"Well, that thing sure packs some firepower. I can barely get any closer.","Ого, какая огневая мощь. Почти не подойти..."
+line-662,不甚客气的杜林人,还没完呢！杜林式伐木圆锯，启动！,"That's not all! Durin Tree Trunk Saw, activate!","Это ещё не всё! Дуринская бензопила для стволов, включайся!"
+line-689,嘉维尔,痛快！,Hell yeah!,Лихо!
+line-691,嘉维尔,但是还不够！,But not enough!,Но недостаточно!
+line-693,不甚客气的杜林人,什么，竟然凭一己之力顶住了超大功率引擎？！,What?! She stopped the maximum turbo engine all by herself?!,Что?! Она одна остановила двигатель максимальной мощности?!
+line-701,不甚客气的杜林人,糟了，回避，快回避！,Shit! Parry! Parry immediately!,"Ох, увернись, увернись же!"
+line-710,嘉维尔,居然躲开了？,They dodged it?,Увернулись?
+line-712,嘉维尔,设计得还挺灵巧，有考虑过把它用在建设聚落上吗？,That's quite an agile design. You ever thought about using that to build your settlement?,Довольно ловкая конструкция. Не думали ли вы использовать её при стройке поселения?
+line-714,不甚客气的杜林人,打完再说吧！,Let's hear you say that after this!,После боя поговорим!
+line-715,不甚客气的杜林人,吃我这一炮！,Take this!,Получи мой выстрел!
+line-717,嘉维尔,哦！,Ohh!,Ого!
+line-734,不甚客气的杜林人,用斧子挡住了炮弹？！,She blocked an artillery shell with her axe?!,Она закрылась от снаряда топором?!
+line-736,嘉维尔,这可是祖玛玛替我打造的斧子，要对付几枚炮弹，简直小菜一碟！,Zumama forged this for me. A couple of artillery shells? Piece of cake.,"Это топор, которое Зумама для меня выковала. Пара снарядов — сущие пустяки!"
+line-737,嘉维尔,现在该我了！,Now it's my turn!,Теперь моя очередь!
+line-756,不甚客气的杜林人,完了！后退，快后退！,Crap! Fall back! Fall back right now!,"Конец! Назад, быстро назад!"
+line-758,嘉维尔,休想！链锯来了！,Not happening! Here comes the saw!,Не выйдет! Прикусит цепная пила!
+line-766,不甚清醒的杜林人,后退什么，这里该横移！,Why are we falling back? We should be parrying to the side!,Чего отступаем? Надо уходить вбок!
+line-769,不甚敏锐的杜林人,不对，应该前进，只有以进为退才能闪开链锯的攻击！,"No, we should push forward. That's the only way we can dodge her saw's attacks!","Нет, вперёд! Только наступая можно увернуться от пилы!"
+line-775,不甚客气的杜林人,别抢，你们别抢遥控器——,Stop! Stop trying to take the controller—,"Не деритесь, не отбирайте пульт —"
+line-777,嘉维尔,？？,??,??
+line-778,嘉维尔,这诡异的移动路径——怎么又绕到我后面去了？！,What a strange movement pattern... Why did it get behind me?!,Какая странная траектория — опять зашла мне за спину?!
+line-780,不甚客气的杜林人,你们两个老实点，刚刚差点要输了！,"Settle down, you two! We almost lost right there!","Вы двое, успокойтесь! Мы чуть не проиграли!"
+line-781,不甚客气的杜林人,现在你无路可逃了，嘉维尔，吃我的终极攻击——,"You have nowhere to run, Gavial! Take my ultimate attack—","Тебе некуда бежать, Гавиал! Прими мой последний удар —"
+line-782,不甚客气的杜林人,杜林式失能导弹全方位蓄力轰炸！！！,Durin Out-of-Control Guided Missiles Omnidirectional Bombardment!!!,"Дуринские ракеты, лишающие рассудка, всесторонний залп!!!"
+line-789,嘉维尔,糟了，山洞！,Crap! The cave!,"Ох, пещера!"
+line-791,嘉维尔,怎么偏偏在这时候搞什么全方位轰炸啊！！！,"Why an omnidirectional bombardment, now of all times?!",Почему именно сейчас — всесторонний залп!
+line-794,,嘉维尔深吸一口气，尾巴一松，链锯锵啷一声掉在地上。,"Gavial takes a deep breath, relaxes her tail, and drops her saw on the ground.","Гавиал глубоко вдыхает, разжимает хвост, и цепная пила со звоном падает на землю."
+line-795,,她用双手握紧那柄巨斧。,She grips the large axe with both hands.,Она сжимает огромный топор обеими руками.
+line-797,嘉维尔,哈啊！,Haah!,Ха-а!
+line-804,不甚清醒的杜林人,什么，她、她、她跳了多高？！,What?! H-How high did she jump?!,"Что, она, она, она прыгнула так высоко?!"
+line-807,,嘉维尔一跃而起，攀上了巨大机械的足，然后是腹。,"Gavial leaps into the air and hops onto gigantic machine's leg, then its chest.","Гавиал прыгает вверх, забирается на ногу огромной машины, потом на корпус."
+line-808,,借着一处水平面，嘉维尔再次跳起，尾巴卷上机器人高高举起的机械臂，把自己甩到了对面的山洞口。,"With the robot's surface as a stepping stone, Gavial once again springs up and curls her tail around its raised robotic arm, swinging towards the cave's entrance on the other side.","Использовав площадку как трамплин, она прыгает снова, цепляет хвостом поднятую механическую руку и забрасывает себя к входу в пещеру."
+line-812,,嗖嗖嗖——,*Brrrr*–,Вжик-вжик-вжик —
+line-813,,嘉维尔看着铺天盖地的弹头，举起了手中的巨斧。,Gavial looks at the artillery shells all over the ground and raises the giant axe in her hand.,Гавиал смотрит на усыпанные осколками снарядов окрестности и поднимает огромный топор.
+line-840,嘉维尔,哈、哈、哈……,Hah... hah...,Ха... ха... ха...
+line-841,嘉维尔,幸亏是全方位轰炸，没几个弹头往这边来……,"Good thing that was omnidirectional, and none of them headed this way...","Хорошо, что залп был всесторонним — сюда почти ничего не прилетело..."
+line-842,嘉维尔,也多谢你们没在导弹里装什么炸药……总算下手还有点轻重……,And I also gotta thank you guys for not putting any explosives in the missiles... At least you knew to hold back there...,"И спасибо, что вы не напихали в ракеты взрывчатки... Хоть что-то вы придержали..."
+line-845,嘉维尔,嗝。,*belch*,Ик.
+line-847,嘉维尔,啊？,Huh?,А?
+line-849,不甚客气的杜林人,虽然不知道你为什么这么关心那个洞口，但吃了我们的失能导弹，你已经不可能再站得住了！,"I have no idea why you care about that cave so much, but now that you've had a taste of our missiles, there's no way you can stand anymore!","Не понимаю, почему ты так заботишься о пещере, но после наших ракет ты уже не устоишь!"
+line-850,不甚客气的杜林人,导弹里面灌满了阿达克利斯酿的酒，就算是我们之中最能喝的人，也不可能在挨炸之后保持站立！,The missiles are filled with Archosaurian booze. Even those with the highest tolerance amongst us can't stay on their feet after getting blasted by one of these!,Ракеты наполнены архозаврским пойлом. Даже самый выносливый из нас не устоит на ногах после такого!
+line-852,嘉维尔,呃……,Urgh...,Мм...
+line-853,嘉维尔,所以，你觉得我现在躺着？,So... Does it look like I'm lying on the ground right now?,"Так... Тебе кажется, я сейчас лежу?"
+line-855,不甚客气的杜林人,怎么会？,No way...,Как это?
+line-856,不甚客气的杜林人,失能导弹怎么会对你无效？,How come the missile didn't work on you?,Почему ракета не подействовала?
+line-858,嘉维尔,我说，导弹里才多少酒啊，而且又不是喝进去的，吸入一点点顶多就是微醺，怎么可能站不起来？,"I mean, how much booze did you put in the missiles anyway? It's not like I drank any. Breathing in that little bit just makes you tipsy at most. Why would anyone fall down and not be able to get up?",Да сколько там вина в ракете? Я его не пила. Пара вдохов — максимум лёгкое опьянение. Разве из-за этого кто-то падает и не может подняться?
+line-860,不甚客气的杜林人,可我们都……,But none of us could...,Но мы же все...
+line-862,嘉维尔,那只能说你们酒量不大好了。,That just goes to show what a bunch of lightweights you guys are.,"Значит, вы просто слабаки."
+line-864,不甚客气的杜林人,（猛搓自己的脸）,(Facepalms),(Трёт себе лицо)
+line-865,不甚客气的杜林人,这个先不说！嘉维尔，你为什么那么在乎那个山洞！里面是不是有什么阻止我们拿回酿酒工具的不可告人的秘密！,"Set that aside for now! Why are you so worried about the cave, Gavial?! Are you hiding something in there that's stopping us from getting our tools back?!","Это потом! Гавиал, почему ты так переживаешь из-за пещеры! Там что-то такое, что мешает нам вернуть инструменты?!"
+line-867,嘉维尔,……,......,...
+line-869,嘉维尔,算了，事到如今，我就告诉你们吧。,"Whatever, now that it's come to this. I'll tell you.","Ладно, раз дошло до этого — скажу."
+line-871,嘉维尔,依娜姆把你们的酿酒工具藏在里面了。,Inam hid all your tools inside.,Инам спрятала ваши инструменты внутри.
+line-874,热爱酒精的杜林人们,什么？？？,What???,Что???
+line-877,嘉维尔,不信可以自己去看——当然，在你们打倒我之前，我不会让你们拿走的。,"If you don't believe me, go check it out yourself. Of course, until you defeat me, I'm not going to let you take them.","Не верите — проверьте сами. Конечно, пока вы меня не победите, я вам их не отдам."
+line-879,客气起来的杜林人,所以……所以你刚才跳到上面去，是为了保护我们的酿酒工具不被导弹击中？,So... That's why you leapt up there? To keep our tools from getting hit by the missiles?,Так... Поэтому ты тогда запрыгнула наверх? Чтобы защитить инструменты от ракет?
+line-881,敏锐起来的杜林人,所以你在开打之前跑到巨大的终极丑东西Mk3后面，是怕战斗波及那个山洞？,"So that's why you ran behind the Giant, Ultimate Ugly Thing Mk. 3? Because you were scared of the cave getting caught in the battle?","Так... Поэтому ты побежала за огромной конечной Уродиной Mk3? Боялась, что бой заденет пещеру?"
+line-883,清醒起来的杜林人,所以你赶我们去别的地方，是怕武器试验把酿酒工具打坏了？,That's why you tried to chase us away? Because you were afraid our tools would be caught in the weapons test?,"Так... Поэтому ты нас прогоняла? Боялась, что испытание повредит инструменты?"
+line-885,嘉维尔,我刚刚不是说了吗，我是从你们的利益出发，才跑来让你们换个位置的。,Didn't I tell you? I asked you guys to go somewhere else for your own benefit.,Разве я не говорила? Я из ваших интересов просила вас уйти.
+line-888,热爱酒精的杜林人们,……,......,...
+line-890,客气的杜林人,嘉维尔……你的尾巴好像在流血。,Gavial... Your tail looks like it's bleeding.,"Гавиал... У тебя, кажется, кровь на хвосте."
+line-892,嘉维尔,不算大事。,It's no big deal.,Пустяки.
+line-893,嘉维尔,刚才用尾巴在机器上借力，好像被上面的什么尖刺划了个口子。,I use my tail to pull myself up the machine. Maybe something sharp gave me a cut or something.,"Я цеплялась хвостом за машину, наверное, какой-то шип и порезал."
+line-895,敏锐的杜林人,你脸上也有伤。,"Your face is hurt, too.",У тебя лицо тоже задето.
+line-897,嘉维尔,毕竟打了这么痛快的一场架，没伤才不正常。,It's been a while since I've had such a great fight. Would be weird to not be hurt somewhere.,После такой славной драмы было бы странно не зацепиться где-нибудь.
+line-899,清醒的杜林人,……还要接着打吗？,Do you want to keep going...?,...Продолжим?
+line-901,嘉维尔,看你们。,Up to you.,Как скажете.
+line-902,嘉维尔,如果你们还想打，我继续奉陪。,"If you guys are up to it, I'm all for it.",Если вы хотите драться — я с радостью.
+line-904,客气的杜林人,还是……再等几天吧。,Maybe... in a few days.,Может... лучше через пару дней.
+line-906,嘉维尔,我也觉得这样比较好，毕竟你们的这个终极攻击对我好像没什么用。,"Yeah, that's probably for the better. I mean, your ultimate attacks didn't seem to work on me at all.","Да, так лучше. Вашисмертельные атаки на меня всё равно не действуют."
+line-907,嘉维尔,当然，这段时间我会派人严密看守这个山洞的，不打败我就把东西拿回去，这种事想都不要想！,"Of course, I'll post guards here to keep a close eye on the cave. Don't you even think about getting your stuff back without defeating me!","Конечно, я выставлю у пещеры охрану. И не смейте даже думать забрать вещи, не победив меня!"
+line-921,嘉维尔,你们来啦。,You guys are here.,Вы пришли.
+line-922,嘉维尔,哦，巨大的终极丑东西Mk3也来了。,"Oh, looks like you brought your Giant, Ultimate Ugly Thing Mk. 3 too.","О, вы принесли и огромную конечную Уродину Mk3."
+line-924,客气的杜林人,现在是Mk4了。,This is the Mk. 4.,Теперь Mk4.
+line-926,嘉维尔,不错，更新换代的速度还蛮快的。,Good. Looks like technology evolves fast.,"Неплохо, быстро обновляетесь."
+line-928,嘉维尔,那我们就在这儿开打吧？,"Should we get started, then?",Тогда начнём здесь?
+line-930,客气的杜林人,稍等。,Hold on.,Подождите.
+line-933,,杜林人手里拿着遥控器，既不看嘉维尔，也不看巨大的机械，而是仰头看天，嘴里念念有词。,"Holding the remote controller in his hand, the Durin looks at neither Gavial nor the large robot. Instead, he looks to the sky and starts mumbling.","Дурин держит пульт в руках и не смотрит ни на Гавиал, ни на огромную машину. Он смотрит в небо и бормочет что-то себе под нос."
+line-935,客气的杜林人,嘉维尔这样，我就这样……,"If Gavial does this, then I'll...",Гавиал сделает так — и я тогда...
+line-936,客气的杜林人,我这样，嘉维尔就那样……,"I do this, and Gavial will...",Я сделаю так — и Гавиал тогда...
+line-937,客气的杜林人,嘉维尔那样，我就——,"Gavial does that, I'll—","Гавиал сделает это, а я —"
+line-938,客气的杜林人,我就……,I'll...,Я тогда...
+line-941,,杜林人卡了一会儿，头低了下去。,The Durin freezes for a moment before drooping his head.,Дурин замирает на мгновение и опускает голову.
+line-943,客气的杜林人,那我们现在开始？,Should we get started now?,Тогда начнём?
+line-945,嘉维尔,好，开始吧！,"Alright, let's do this!","Ладно, поехали!"
+line-948,,嘉维尔摆开架势，等着巨大的机械发动攻击。,Gavial assumes her stance and waits for the giant machine's attack.,Гавиал принимает стойку и ждёт атаки огромной машины.
+line-949,,杜林人也在这时按下了手上的遥控器。,"At that very moment, the Durin presses down on the remote in his hand.",В тот же миг дурин нажимает на пульт.
+line-960,,巨大的爆炸过后，嘉维尔毫发无损。,"A large explosion occurs, but Gavial finds herself unscathed.",Громкий взрыв — и Гавиал остаётся невредима.
+line-961,,她目瞪口呆地看着眼前被炸成一堆破铜烂铁的机械。,"She gapes at the robot, now nothing but a pile of scrap metal.","Она смотрит во все глаза на робота, от которого осталась груда лома."
+line-963,嘉维尔,这——这是什么意思？,Wha... What the hell is this about?,Что... Что это значит?
+line-966,客气的杜林人,经过上次一战，我们在许多地方做出了改进，但严谨的试验表明，即使做出了那么多改进，巨大的终极丑东西系列还是没法战胜你。,"We made lots of improvements after the last battle, but our careful tests show that the Giant, Ultimate Ugly Thing series is no match for you even after all our upgrades.","После прошлого боя мы многое улучшили, но тщательные.тесты показали: серия «Огромная конечная Уродина» всё равно не может тебя победить."
+line-967,客气的杜林人,于是我只能想到最后一招，就是自爆。,"That's why I came up with one last trick: have the Giant, Ultimate Ugly Thing Mk. 4 blow itself up.",Поэтому я придумал последний трюк — самоликвидацию.
+line-969,嘉维尔,那也不应该一开局就自爆吧？,"But you didn't have to self-destruct the minute we start, right?",Но не нужно было взрываться прямо в начале!
+line-971,客气的杜林人,……因为我刚刚还在盘算你的行动。,...I did that because I was working out what you'd do.,...Я всё ещё просчитывал твои действия.
+line-972,客气的杜林人,我发现，即使是自爆也没法打赢你。,And I figured that we were never going to win even if with the self-destruct.,И понял: даже со взрывом мы не победим.
+line-973,客气的杜林人,为了表示心服口服，我只能这么做了！,It's to show that we're accepting our defeat. I had no other choice!,"Чтобы признать поражение честно, я поступил именно так!"
+line-979,嘉维尔,可我还等着祖玛玛把它改造成工业机器人呢！！,But I was waiting for Zumama to turn it into an industrial robot!,"А я ждала, что Зумама переделает его в промышленного робота!!"
+line-991,嘉维尔,欢迎回来，依娜姆。,"Welcome back, Inam.","С возвращением, Инам."
+line-993,特米米,欢迎回来！,Welcome back!,С возвращением!
+line-995,依娜姆,你们看起来精神不错。,You two look quite cheerful.,Вы оба выглядите бодро.
+line-997,特米米,依娜姆，你回来得这么快，事情一定很顺利吧。,You came back quick. I bet everything must have gone really well!,"Инам, ты так быстро вернулась — значит, всё прошло гладко!"
+line-999,依娜姆,确实很顺利。多亏了我们的那些前期准备，宫廷对阿卡胡拉毫无兴趣。,"Couldn't have been better. Thanks to the preparations we made beforehand, the Court of Sargon was absolutely not interested in Acahualla.",Да не могло быть лучше. Благодаря нашей подготовке двор Саргона совсем не заинтересовался Акахуаллой.
+line-1000,依娜姆,你们这边怎么样？一切照常？,So how were things here? Everything running as usual?,А как у вас? Всё по-старому?
+line-1002,特米米,是的，一切照常！杜林人的禁酒令被嘉维尔维持得很好！,"Yup, super normal! Gavial's keeping the Durins' alcohol ban going just fine!","Да, всё по-старому! Гавиал отлично справилась с запретом на алкоголь!"
+line-1004,依娜姆,听起来很不错嘛，嘉维尔。,"Sounds like you've done well, Gavial.","Звучит неплохо, Гавиал."
+line-1005,依娜姆,和杜林人打交道的感觉怎么样？,"So how did it feel like, having to deal with the Durins?",Как тебе было с дуринами?
+line-1007,嘉维尔,很好啊。,Pretty good.,Да нормально.
+line-1009,嘉维尔,他们看起来又一意孤行又爱出洋相，实际上是群不错的家伙。,"They may look like a stubborn bunch that likes to fool around, but they actually aren't so bad.","Оникажутся упрямые и любят кривляться, а на самом деле неплохие ребята."
+line-1011,依娜姆,那你是怎么摆平那些吵着要喝酒的杜林人的？,"How did you stop the ones that keep clamoring for booze, then?","И как ты утихомирила тех, что кричали про выпивку?"
+line-1013,嘉维尔,主要是用拳头。,Mostly with my fists.,В основном кулаками.
+line-1015,依娜姆,你把他们打了一顿？？？,You beat them up?!,Ты их избила???
+line-1017,特米米,嘉维尔才没这么做！嘉维尔和他们约好了，谁能打赢嘉维尔，谁就能拿回酿酒工具，但他们都输了！,"Gavial didn't do that! They made a promise. Anyone who manages to defeat Gavial gets their tools back, but none of them ever won!","Гавиал такого не делала! Они договорились: кто победит Гавиал, тот заберёт инструменты. Но никто так и не победил!"
+line-1019,依娜姆,原、原来是这么一回事。,"Oh, so that's how it was.",Так вот оно как.
+line-1020,依娜姆,这和把他们打了一顿好像也差不多？,...Isn't that kind of the same thing as beating them up?,"Знаешь, это почти одно и то же..."
+line-1021,依娜姆,我们还是先回去看看吧。,Why don't we head back first?,"Ладно, сначала пойдём домой."
+line-1031,清醒的杜林人,依娜姆，你回来了！,"Inam, you're back!","Инам, ты вернулась!"
+line-1033,依娜姆,你好啊。,Hello.,Привет.
+line-1035,清醒的杜林人,来，看看这个，这是我们比赛的传单！,"Come, take a look at this! This is a list of events in our competition.","Иди сюда, гляди! Вот список состязаний!"
+line-1037,依娜姆,比赛？,A competition...?,Состязаний?
+line-1039,清醒的杜林人,是的，比赛！,That's right! A competition!,Да! Состязаний!
+line-1040,清醒的杜林人,我还要和蜜酿协会的同伴们商讨战略，就不多奉陪了。再见！,"I still have a business meeting with my buddies at the mead fan club, so I'll get going now. See you later!","Мне ещё нужно обсудить стратегию с ребятами из клуба любителей медовухи, так что я пойду. До встречи!"
+line-1049,依娜姆,第三届……巨大的终极丑东西杯……自走机械对战选拔赛……,"The Third... Giant, Ultimate Ugly Thing Cup... Self-Driving Robots Competition Preliminaries...",Третий... Кубок «Огромной конечной Уродины»... отборочный тур самоходных роботов...
+line-1050,依娜姆,胜者的作品将和嘉维尔决一胜负……击败嘉维尔即可夺回酿酒工具……,The victor's creation will fight against Gavial... and defeating Gavial will result in the return of all alcohol making tools and equipment...,Победившая машина сразится с Гавиал... а победа над Гавиал вернёт все инструменты для варки...
+line-1052,特米米,依娜姆，你脸色不太好。头痛吗？,"Inam, you don't look too well. Got a headache or something?","Инам, у тебя нехороший вид. Голова болит?"
+line-1054,依娜姆,说实话，痛。,"To tell the truth, yes.",Если честно — да.
+line-1055,依娜姆,……,......,...
+line-1056,依娜姆,算了，毕竟这段时间都是嘉维尔主事，我已经有心理准备了。,"Never mind, I more or less expected something like this with Gavial in charge.","Ладно, я более-менее ожидала это, пока здесь главная Гавиал."
+line-1057,依娜姆,我们去看看杜林聚落吧。既然他们玩得这么疯，一定已经都建好了吧——,"Let's head to the Durins' settlement. If they're having so much fun, surely they must already be done with all the construction?","Пойдём посмотреть на поселение дуринов. Раз они так веселятся, значит, уже всё достроили, верно?"
+line-1058,依娜姆,哦，那不是际崖城的天气预报长老嘛，他也来跟大家同乐了？,"Hey, isn't that Zeruertza's weather forecast chief? Is he joining in on this?","Ой, разве это не предсказатель погоды из Зеруэрцы? Он тоже пришёл повеселиться?"
+line-1065,耶奇·地心,所以说，阿芙朵嘉，我已经进半决赛了，只要再打一轮，就一轮！,"Like I said, Avdotya, I've already made it to the semifinals. I just need one more round! One more round!","Как я и говорил, Авдотья, я уже в полуфинале. Ещё один круг — и всё!"
+line-1067,阿芙朵嘉,依娜姆？那边的是依娜姆吧！,Inam? Is that you?,"Инам? Там Инам, да?"
+line-1069,阿芙朵嘉,你总算回来了！快帮我劝劝耶奇长老，让他号召大家别再玩什么自走机器人对战了！,"Finally, you are back! Please, help me talk some sense into Chief Edge. Ask him to get everyone to stop all this self-driving robot nonsense!","Наконец-то ты вернулась! Помоги мне уговорить старейшину Эджа, чтобы он уговорил всех прекратить эти самоходные робото-бои!"
+line-1071,依娜姆,嘉维尔？,Gavial?,Гавиал?
+line-1073,嘉维尔,呃，怎么了吗？,"Uh, something the matter?","Э-э, что случилось?"
+line-1075,依娜姆,别告诉我，你是为了给杜林人戒酒才举办的这个什么选拔赛。,Don't tell me you came up with these competitions to keep the Durins from drinking.,"Не скажи мне, что ты устроила эти состязания, чтобы отвадить дуринов от выпивки."
+line-1077,嘉维尔,其实……也差不多？,Er... More or less?,Ну... что-то в этом роде?
+line-1079,依娜姆,那杜林人的聚落呢？！,Then what about the Durins' settlement?!,А поселение дуринов?!
+line-1081,嘉维尔,你看。,Look.,Смотри.
+line-1084,,一台巨大的机械隆隆驶来。,A gigantic machine pulls into the area.,Огромная машина с грохотом подъезжает.
+line-1085,,几个杜林人和机械保持着相当可观的安全距离，控制着机械从二人面前经过。,"A few Durins, keeping a safe distance from the robot, pilot it remotely as it passes by the two of them.","Несколько дуринов, держась на почтительном расстоянии, дистанционно ведут её мимо них."
+line-1087,依娜姆,那个好像把自走车和大丑融合起来的怪里怪气的机械是……？,"What's this abomination that looks like the bastard child of the Big, Ugly Thing and their self-drivers...?",Что это за странное сочетание самоходной тележки и Большого Уродливого Нечто...?
+line-1089,嘉维尔,我记得杜林人取的名字叫“巨大的终极丑东西Mk5”。,"If memory serves, they call it the 'Giant, Ultimate Ugly Thing Mk. 5.'","Кажется, дурины называют её «Огромная конечная Уродина Mk5»."
+line-1091,依娜姆,……,......,...
+line-1093,嘉维尔,虽然这东西还是打不过我，但在祖玛玛和黛柯绮·银币他们的努力之下，已经是合格的工业机器人了。,"It's no match for me, but thanks to Zumama and Deculture Silvermint, it makes for a passable industrial robot.","Она всё ещё не может меня победить, но благодаря Зумаме иДекульту Сребромонету из неё вышел сносный промышленный робот."
+line-1095,嘉维尔,你要是晚回来两天，杜林聚落就完工了！,If only your trip took a couple more days. We could've finished the settlement before you got back!,Вернись ты на два дня позже — и поселение дуринов было бы готово!
+line-1097,依娜姆,……,......,...
+line-1098,依娜姆,我以为我在做梦。,I must be dreaming.,Мне снится сон.
+line-1099,依娜姆,嘉维尔，打我一下。,"Gavial, punch me.","Гавиал, ударь меня."
+line-1108,依娜姆,痛！,Ow!,Ой!
+line-1109,依娜姆,……,......,...
+line-1110,依娜姆,这居然是真的。,This is real?,Так это наяву.
+line-1112,特米米,嘉维尔，嘉维尔！,Gavial! Gavial!,"Гавиал, Гавиал!"
+line-1114,嘉维尔,怎么了？,What's up?,Что случилось?
+line-1116,特米米,这一届选拔赛的胜者已经决出，杜林人已经吵着要你去和他们的冠军对决了！,"The preliminaries' winner has been decided, and the Durins are clamoring for you to fight their champion!","Победитель этого отборочного тура уже определён, и дурины требуют, чтобы ты сразилась с их чемпионом!"
+line-1118,嘉维尔,所以，依娜姆，要来看一场久违的阿卡胡拉对决吗？,"So, Inam, it's been a while since Acahualla last had a duel. Wanna come watch?","Так что, Инам, не хочешь посмотреть на поединок — давно в Акахуалле такого не было?"
+line-1120,依娜姆,……,......,...
+line-1121,依娜姆,乐意之至。,My pleasure.,С удовольствием.
