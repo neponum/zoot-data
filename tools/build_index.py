@@ -32,12 +32,24 @@ def main() -> None:
     # лежат файлы с суффиксом автора.
     bases = {path.stem for path in args.stories.rglob("*.txt")}
     bases_by_length = sorted(bases, key=len, reverse=True)
-    index: dict[str, dict[str, object]] = {}
 
-    for folder in sorted(p for p in STORY_DIR.iterdir() if p.is_dir()):
-        files = sorted(folder.glob("*.csv"))
-        if not files:
+    # Основной сюжет разложен по папкам глав (`main/main_9/...`), но в
+    # индексе остаётся одним эпизодом `main`: сайту нужен автор сцены,
+    # а не физический путь файла.
+    def index_key(path: Path) -> str:
+        relative = path.relative_to(STORY_DIR)
+        if len(relative.parts) >= 3 and relative.parts[0] == "main":
+            return "main"
+        return relative.parts[0]
+
+    grouped: dict[str, list[Path]] = {}
+    for path in sorted(STORY_DIR.rglob("*.csv")):
+        if not path.is_file():
             continue
+        grouped.setdefault(index_key(path), []).append(path)
+
+    index: dict[str, dict[str, object]] = {}
+    for key, files in sorted(grouped.items()):
         scenes: dict[str, str] = {}
         for path in files:
             stem = path.stem
@@ -53,7 +65,7 @@ def main() -> None:
             else:
                 # Игрового имени нет под рукой — считаем файл общим.
                 scenes[stem] = ""
-        index[folder.name] = {
+        index[key] = {
             "files": len(files),
             "translators": sorted({t for t in scenes.values() if t}),
             "scenes": scenes,

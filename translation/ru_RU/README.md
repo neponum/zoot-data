@@ -7,6 +7,10 @@
 ```
 translation/ru_RU/
 ├── story/
+│   ├── main/                       # основная сюжетная линия
+│   │   ├── main_0/                 # папка = эпизод (EP 00 … 17)
+│   │   ├── main_1/
+│   │   └── …
 │   └── <episode>/                  # папка = ID эпизода/главы в игре
 │       └── <storyBaseName>_<translator>.csv
 ├── dossiers/<operator_id>.csv      # досье: section_index,title_en,text_en,title_ru,text_ru
@@ -18,10 +22,13 @@ translation/ru_RU/
 ```
 
 `<episode>` — это ID эпизода из игровых данных, ровно как в пути сценария:
-`main`, `a001`, `act47side`, `act15d5`, `act10mini`, `st`, `spst`, `ui`, `guide`.
-Эпизоды лежат в `story/`, чтобы корень языковой папки не разрастался:
-сейчас 107 эпизодов. Шаблоны (файлы без суффикса переводчика) лежат там же —
-пустая колонка `Translation` означает «показать оригинал».
+`a001`, `act47side`, `act15d5`, `act10mini`, `spst`, `ui`, `guide`.
+Основная сюжетная линия разложена по эпизодам: `story/main/main_0`,
+`story/main/main_1`, … `story/main/main_17`. Вводные и финальные сцены
+(`level_st_*`) лежат в папке своего эпизода вместе с обычными сценами.
+Эпизоды лежат в `story/`, чтобы корень языковой папки не разрастался.
+Шаблоны (файлы без суффикса переводчика) лежат там же — пустая колонка
+`Translation` означает «показать оригинал».
 
 `<storyBaseName>` — базовое имя сценария без расширения (последний сегмент пути
 `.../activities/act19side/level/act19side_sub-1-1.txt` → `act19side_sub-1-1`).
@@ -60,10 +67,13 @@ line-1,阿米娅,阿米娅,Amiya,Амия
 `Zoot Archive` строит список кандидатов в `src/utils/translationPaths.ts`
 (`getTranslationCsvCandidates`) и проверяет их по порядку:
 
-1. `translation/ru_RU/story/<episode>/<storyBaseName>_<translator>.csv` — текущая раскладка;
-2. `translation/ru_RU/<episode>/<storyBaseName>_<translator>.csv` — раскладка до 2026-11-19;
-3. `translation/ru_RU/<storyBaseName>_<translator>.csv` — старый плоский путь;
-4. те же пути без суффикса переводчика (общественный перевод и шаблоны).
+1. `translation/ru_RU/story/main/<main_N>/<storyBaseName>_<translator>.csv` — основная линия;
+2. `translation/ru_RU/story/<episode>/<storyBaseName>_<translator>.csv` — остальные эпизоды;
+3. `translation/ru_RU/story/main/<storyBaseName>_<translator>.csv` и
+   `translation/ru_RU/story/st/...` — прежняя раскладка (фолбэк);
+4. `translation/ru_RU/<episode>/...` — раскладка до 2026-11-19;
+5. `translation/ru_RU/<storyBaseName>_<translator>.csv` — старый плоский путь;
+6. те же пути без суффикса переводчика (общественный перевод и шаблоны).
 
 Плоские фолбэки нужны, потому что Discord-бот до сих пор заливает новые файлы в корень
 языковой папки. Новые файлы кладите в `story/<эпизод>/` — приложение найдёт их и по
